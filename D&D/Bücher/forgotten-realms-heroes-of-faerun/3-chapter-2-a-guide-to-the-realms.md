@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: A Guide to the Realms"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Chapter 2: A Guide to the Realms"
+  - "Chapter 2: A Guide to the Realms"
 ---
 # Chapter 2: A Guide to the Realms
 *Source: Forgotten Realms: Heroes of Faerûn, p. 45* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Episode 4: Dran Enterprises"
 tags:
-- ttrpg-cli/compendium/src/5e/oow
+  - Quelle/5e/oow
 aliases:
-- "Episode 4: Dran Enterprises"
+  - "Episode 4: Dran Enterprises"
 ---
 # Episode 4: Dran Enterprises
 *Source: The Orrery of the Wanderer, p. 136* 

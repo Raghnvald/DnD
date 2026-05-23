@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: A World of Epic Heroes"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Introduction: A World of Epic Heroes"
+  - "Introduction: A World of Epic Heroes"
 ---
 # Introduction: A World of Epic Heroes
 *Source: Forgotten Realms: Heroes of Faerûn, p. 4* 

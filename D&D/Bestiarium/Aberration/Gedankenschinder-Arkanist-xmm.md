@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mind Flayer Arcanist
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 11
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

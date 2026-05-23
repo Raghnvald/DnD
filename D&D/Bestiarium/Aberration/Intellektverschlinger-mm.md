@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Intellektverschlinger
+Kategorie: Aberration
+Größe: Winzig
+HG: 2
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich

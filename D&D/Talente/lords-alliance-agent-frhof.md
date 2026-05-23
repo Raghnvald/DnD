@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: "Lords' Alliance Agent"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Lords' Alliance Agent"
+  - "Lords' Alliance Agent"
 ---
 # Lords' Alliance Agent
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

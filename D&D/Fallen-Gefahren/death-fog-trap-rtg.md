@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Death Fog Trap
 tags:
-- ttrpg-cli/compendium/src/5e/rtg
-- ttrpg-cli/hazard/smpl
+  - Kompendium/Bedrohung/smpl
+  - Quelle/5e/rtg
 aliases:
-- "Death Fog Trap"
+  - "Death Fog Trap"
 ---
 # Death Fog Trap
 *Generic Hazard*  

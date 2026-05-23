@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Fairy
 tags:
-- ttrpg-cli/spell/list/race/fairy
+  - ttrpg-cli/spell/list/race/fairy
 aliases:
-- "Spells for Fairy"
+  - "Spells for Fairy"
 ---
 # Spells for Fairy
 

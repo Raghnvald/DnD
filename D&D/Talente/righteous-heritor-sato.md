@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Righteous Heritor
 tags:
-- ttrpg-cli/compendium/src/5e/sato
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/sato
 aliases:
-- "Righteous Heritor"
+  - "Righteous Heritor"
 ---
 # Righteous Heritor
 *Source: Sigil and the Outlands p. 11*  

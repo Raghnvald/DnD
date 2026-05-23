@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grottenelle Stonecutter
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Grottenelle Stonecutter
+IMAGE: token/grottenelle-stonecutter-veor.webp
 linter-yaml-title-alias: Grottenelle Stonecutter
 ---
 # [Grottenelle Stonecutter](3-Mechanics\CLI\bestiary\npc/grottenelle-stonecutter-veor.md)

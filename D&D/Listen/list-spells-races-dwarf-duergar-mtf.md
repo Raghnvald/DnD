@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Dwarf (Duergar)
 tags:
-- ttrpg-cli/spell/list/subrace/dwarf-duergar
+  - ttrpg-cli/spell/list/subrace/dwarf-duergar
 aliases:
-- "Spells for Dwarf (Duergar)"
+  - "Spells for Dwarf (Duergar)"
 ---
 # Spells for Dwarf (Duergar)
 

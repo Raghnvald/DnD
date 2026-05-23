@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 3: Secret Realities"
 tags:
-- ttrpg-cli/compendium/src/5e/tofw
+  - Quelle/5e/tofw
 aliases:
-- "Part 3: Secret Realities"
+  - "Part 3: Secret Realities"
 ---
 # Part 3: Secret Realities
 *Source: Turn of Fortune's Wheel, p. 76* 

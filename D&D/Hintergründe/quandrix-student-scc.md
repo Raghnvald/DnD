@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Quandrix Student
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/scc
+  - Kompendium/Hintergrund
+  - Quelle/5e/scc
 aliases:
-- "Quandrix Student"
+  - "Quandrix Student"
 ---
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  

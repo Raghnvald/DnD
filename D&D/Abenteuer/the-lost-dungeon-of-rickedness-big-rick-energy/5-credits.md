@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/rmbre
+  - Quelle/5e/rmbre
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy* 

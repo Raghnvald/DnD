@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Escape From the Past"
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Chapter 4: Escape From the Past"
+  - "Chapter 4: Escape From the Past"
 ---
 # Chapter 4: Escape From the Past
 *Source: Netheril's Fall* 

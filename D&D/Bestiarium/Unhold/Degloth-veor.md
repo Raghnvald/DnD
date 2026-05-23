@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Degloth
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Degloth
+IMAGE: token/degloth-veor.webp
 ---
 # [Degloth](3-Mechanics\CLI\bestiary\fiend/degloth-veor.md)
 *Source: Vecna: Eve of Ruin p. 218*  

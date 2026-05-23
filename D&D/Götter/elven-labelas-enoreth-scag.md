@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Labelas Enoreth
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/knowledge
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/elven
+  - Quelle/5e/scag
 aliases:
-- "Labelas Enoreth"
+  - "Labelas Enoreth"
 ---
 # Labelas Enoreth
 *Source: Sword Coast Adventurer's Guide p. 23* 

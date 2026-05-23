@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Tyr
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Tyr"
-- "The Evenhanded"
-- "Grimjaws"
-- "The Maimed God"
+  - "Grimjaws"
+  - "The Evenhanded"
+  - "The Maimed God"
+  - "Tyr"
 ---
 # Tyr
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 

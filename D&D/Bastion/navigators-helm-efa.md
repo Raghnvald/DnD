@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: "Navigator's Helm"
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Bastion
+  - Quelle/5e/efa
 aliases:
-- "Navigator's Helm"
+  - "Navigator's Helm"
 ---
 # Navigator's Helm
 *Level 9 Bastion facility*  

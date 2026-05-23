@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Strixhaven Mascot
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/scc
 aliases:
-- "Strixhaven Mascot"
+  - "Strixhaven Mascot"
 ---
 # Strixhaven Mascot
 *Source: Strixhaven: A Curriculum of Chaos p. 37*  

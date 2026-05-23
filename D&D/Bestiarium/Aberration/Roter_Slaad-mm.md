@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Roter Slaad "
+Kategorie: Aberration
+Größe: Groß
+HG: 5
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Kalashtar
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/kalashtar
+  - Quelle/5e/efa
+  - Rasse/kalashtar
 aliases:
-- "Kalashtar"
+  - "Kalashtar"
 ---
 # Kalashtar
 *Source: Eberron: Forge of the Artificer p. 35*  

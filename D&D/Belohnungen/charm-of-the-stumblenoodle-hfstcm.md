@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Charm of the Stumblenoodle
 tags:
-- ttrpg-cli/compendium/src/5e/hfstcm
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/hfstcm
 aliases:
-- "Charm of the Stumblenoodle"
+  - "Charm of the Stumblenoodle"
 ---
 # Charm of the Stumblenoodle
 

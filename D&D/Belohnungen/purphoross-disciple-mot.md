@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: "Purphoros's Disciple"
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/reward/piety-trait
+  - Kompendium/Belohnung/piety-trait
+  - Quelle/5e/mot
 aliases:
-- "Purphoros's Disciple"
+  - "Purphoros's Disciple"
 ---
 # Purphoros's Disciple
 *Piety Trait*  

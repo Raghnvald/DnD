@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Tree
+Kategorie: Pflanze
+Größe: Riesig
+HG: "9"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9

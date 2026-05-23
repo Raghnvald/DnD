@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 10: Cania, the Relentless Cold"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 10: Cania, the Relentless Cold"
+  - "Chapter 10: Cania, the Relentless Cold"
 ---
 # Chapter 10: Cania, the Relentless Cold
 *Source: Chains of Asmodeus, p. 163* 

@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of The Deck of Many Things Card Reference Guide
 ---
 # Index of The Deck of Many Things Card Reference Guide
 

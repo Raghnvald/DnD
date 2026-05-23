@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/bam
+  - Quelle/5e/bam
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Boo's Astral Menagerie* 

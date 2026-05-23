@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Prismari Student
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/scc
+  - Kompendium/Hintergrund
+  - Quelle/5e/scc
 aliases:
-- "Prismari Student"
+  - "Prismari Student"
 ---
 # Prismari Student
 *Source: Strixhaven: A Curriculum of Chaos p. 32*  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: "Karametra's Devotee"
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/reward/piety-trait
+  - Kompendium/Belohnung/piety-trait
+  - Quelle/5e/mot
 aliases:
-- "Karametra's Devotee"
+  - "Karametra's Devotee"
 ---
 # Karametra's Devotee
 *Piety Trait*  

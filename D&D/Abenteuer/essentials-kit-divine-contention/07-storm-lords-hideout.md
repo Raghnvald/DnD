@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Storm Lord's Hideout"
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Storm Lord's Hideout"
+  - "Storm Lord's Hideout"
 ---
 # Storm Lord's Hideout
 *Source: Essentials Kit: Divine Contention* 

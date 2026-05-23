@@ -1,10 +1,10 @@
 ---
-Bezeichnung: Classes
-Status: completed
+Bezeichnung: Klassen
 tags:
   - Quelle/5e/phb
 aliases:
   - Classes
+Status: completed
 ---
 # Klassen
 *Quelle: Spielerhandbuch (2014), p. 45*

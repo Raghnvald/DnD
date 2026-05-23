@@ -2,6 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Object (Medium or Smaller)
+Kategorie: Konstrukt
+Größe: Unbekannt
+HG: /
+Habitat:
+  - /
 tags:
   - Monster/Größe/Unbekannt
   - Monster/HG/

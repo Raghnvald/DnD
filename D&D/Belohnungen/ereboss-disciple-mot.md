@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: "Erebos's Disciple"
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/reward/piety-trait
+  - Kompendium/Belohnung/piety-trait
+  - Quelle/5e/mot
 aliases:
-- "Erebos's Disciple"
+  - "Erebos's Disciple"
 ---
 # Erebos's Disciple
 *Piety Trait*  

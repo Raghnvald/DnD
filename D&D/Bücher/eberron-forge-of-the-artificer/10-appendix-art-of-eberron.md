@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix: Art of Eberron"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Appendix: Art of Eberron"
+  - "Appendix: Art of Eberron"
 ---
 # Appendix: Art of Eberron
 *Source: Eberron: Forge of the Artificer* 

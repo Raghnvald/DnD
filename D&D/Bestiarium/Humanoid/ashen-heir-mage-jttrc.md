@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ashen Heir Mage
+Kategorie: Humanoid (jede Rasse)
+Größe: Mittelgroß
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

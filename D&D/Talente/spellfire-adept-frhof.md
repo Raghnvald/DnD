@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Spellfire Adept
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Spellfire Adept"
+  - "Spellfire Adept"
 ---
 # Spellfire Adept
 *Source: Forgotten Realms: Heroes of Faerûn p. 41*  

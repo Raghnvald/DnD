@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Whirling Chandelier
+Kategorie: 
+Größe: 
+HG: 
+Habitat: 
+image: token/whirling-chandelier-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7

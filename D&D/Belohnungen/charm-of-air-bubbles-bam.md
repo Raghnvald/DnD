@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Charm of Air Bubbles
 tags:
-- ttrpg-cli/compendium/src/5e/bam
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/bam
 aliases:
-- "Charm of Air Bubbles"
+  - "Charm of Air Bubbles"
 ---
 # Charm of Air Bubbles
 

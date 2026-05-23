@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Strixhaven Initiate
 tags:
-- ttrpg-cli/spell/list/feat/strixhaven-initiate
+  - ttrpg-cli/spell/list/feat/strixhaven-initiate
 aliases:
-- "Spells for Strixhaven Initiate"
+  - "Spells for Strixhaven Initiate"
 ---
 # Spells for Strixhaven Initiate
 

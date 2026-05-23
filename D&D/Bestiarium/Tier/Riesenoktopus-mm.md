@@ -8,7 +8,7 @@ Größe: Groß
 HG: 1
 Habitat:
   - Unterwasser
-image: image/giant-octopus.webp
+image: token/giant-octopus.webp
 status: completed
 tags:
   - Monster/Größe/Groß

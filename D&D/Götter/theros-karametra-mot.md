@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Karametra
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/nature
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Karametra"
+  - "Karametra"
 ---
 # Karametra
 *Source: Mythic Odysseys of Theros p. 52* 

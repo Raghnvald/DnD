@@ -4,7 +4,6 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: /
-Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,6 +12,7 @@ tags:
 aliases:
   - Thunder Absorbing Tattoo
 linter-yaml-title-alias: Thunder Absorbing Tattoo
+Status: completed
 ---
 # Schall-Absorbierende Tätowierung
 *Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*

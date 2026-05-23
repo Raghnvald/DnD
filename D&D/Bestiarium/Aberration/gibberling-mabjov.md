@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mabjov
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Gibberling
+Kategorie: Aberration
+Größe: Klein
+HG: 1/4
+status: WIP
+tags:
+  - Quelle/5e/mabjov
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Gibberling"
+  - Gibberling
 ---
 # [Gibberling](3-Mechanics/CLI/bestiary/aberration/gibberling-mabjov.md)
 *Source: Minsc and Boo's Journal of Villainy p. 141*  

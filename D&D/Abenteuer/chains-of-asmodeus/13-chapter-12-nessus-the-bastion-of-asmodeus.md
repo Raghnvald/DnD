@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 12: Nessus, the Bastion of Asmodeus"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 12: Nessus, the Bastion of Asmodeus"
+  - "Chapter 12: Nessus, the Bastion of Asmodeus"
 ---
 # Chapter 12: Nessus, the Bastion of Asmodeus
 *Source: Chains of Asmodeus, p. 195* 

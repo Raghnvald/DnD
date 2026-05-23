@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Camlash
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/19
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Camlash
+IMAGE: token/camlash-veor.webp
 linter-yaml-title-alias: Camlash
 ---
 # [Camlash](3-Mechanics\CLI\bestiary\npc/camlash-veor.md)

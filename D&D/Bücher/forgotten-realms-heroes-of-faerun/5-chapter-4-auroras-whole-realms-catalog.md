@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Aurora's Whole Realms Catalog"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Chapter 4: Aurora's Whole Realms Catalog"
+  - "Chapter 4: Aurora's Whole Realms Catalog"
 ---
 # Chapter 4: Aurora's Whole Realms Catalog
 *Source: Forgotten Realms: Heroes of Faerûn, p. 128* 

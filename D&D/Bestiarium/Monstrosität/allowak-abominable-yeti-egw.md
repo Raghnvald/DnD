@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Allowak Abominable Yeti
+Kategorie: Monstrosität
+Größe: Riesig
+HG: "9"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9

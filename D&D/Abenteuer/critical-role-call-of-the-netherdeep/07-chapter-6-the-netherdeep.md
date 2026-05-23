@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 6: The Netherdeep"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Chapter 6: The Netherdeep"
+  - "Chapter 6: The Netherdeep"
 ---
 # Chapter 6: The Netherdeep
 *Source: Critical Role: Call of the Netherdeep, p. 139* 

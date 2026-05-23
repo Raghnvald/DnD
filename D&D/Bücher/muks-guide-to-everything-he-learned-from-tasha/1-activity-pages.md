@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Activity Pages
 tags:
-- ttrpg-cli/compendium/src/5e/mgelft
+  - Quelle/5e/mgelft
 aliases:
-- "Activity Pages"
+  - "Activity Pages"
 ---
 # Activity Pages
 *Source: Muk's Guide to Everything He Learned From Tasha, p. 1* 
@@ -17,7 +15,6 @@ aliases:
 > An adventure activity book for players of all levels
 
 ## In Support of Extra Life
-
 
 Created & Illustrated by Emi Tanji
 

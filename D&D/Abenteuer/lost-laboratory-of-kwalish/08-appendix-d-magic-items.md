@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Appendix D: Magic Items"
+  - "Appendix D: Magic Items"
 ---
 # Appendix D: Magic Items
 *Source: Lost Laboratory of Kwalish, p. 53* 

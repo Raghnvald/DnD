@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Arclight Phoenix
 Kategorie: Elementar
 Größe: Mittelgroß
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

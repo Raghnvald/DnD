@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Voalsh
-Image: NSC/token/voalsh-pabtso.webp
+Image: token/voalsh-pabtso.webp
 linter-yaml-title-alias: Voalsh
 ---
 # Voalsh

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Scream of the Crop
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Scream of the Crop"
+  - "Scream of the Crop"
 ---
 # Scream of the Crop
 *Source: Stranger Things: Welcome to the Hellfire Club* 

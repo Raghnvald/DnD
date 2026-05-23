@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/lox
+  - Quelle/5e/lox
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Light of Xaryxis* 

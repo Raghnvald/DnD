@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Khoravar
 tags:
-- ttrpg-cli/spell/list/race/khoravar
+  - ttrpg-cli/spell/list/race/khoravar
 aliases:
-- "Spells for Khoravar"
+  - "Spells for Khoravar"
 ---
 # Spells for Khoravar
 

@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Infiziertes Ältestengehirn
+Kategorie: Aberration (Gedankenschinder)
+Größe: Groß
+HG: 11
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Infected Elder Brain
-Image: aberration/token/infected-elder-brain-pabtso.webp
+Image: token/infected-elder-brain-pabtso.webp
 ---
 # Infiziertes Ältestengehirn
 *Source: Phandelver and Below: The Shattered Obelisk p. 159*  

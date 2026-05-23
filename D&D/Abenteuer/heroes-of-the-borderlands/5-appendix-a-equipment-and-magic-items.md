@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Equipment and Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/hotb
+  - Quelle/5e/hotb
 aliases:
-- "Appendix A: Equipment and Magic Items"
+  - "Appendix A: Equipment and Magic Items"
 ---
 # Appendix A: Equipment and Magic Items
 *Source: Heroes of the Borderlands* 

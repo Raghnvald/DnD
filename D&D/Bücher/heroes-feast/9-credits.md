@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/hf
+  - Quelle/5e/hf
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Heroes' Feast* 

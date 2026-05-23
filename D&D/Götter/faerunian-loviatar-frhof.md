@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Loviatar
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Loviatar"
-- "The Maiden of Pain"
-- "The Scourge Mistress"
-- "The Willing Whip"
+  - "Loviatar"
+  - "The Maiden of Pain"
+  - "The Scourge Mistress"
+  - "The Willing Whip"
 ---
 # Loviatar
 *Source: Forgotten Realms: Heroes of Faerûn p. 114* 

@@ -1,6 +1,5 @@
 ---
 Bezeichnung: Arkaner Fokus
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
@@ -8,6 +7,7 @@ tags:
 aliases:
   - Arcane Focus
 linter-yaml-title-alias: Arkaner Fokus
+Status: completed
 ---
 # Arkaner Fokus
 *Zauberfokus*

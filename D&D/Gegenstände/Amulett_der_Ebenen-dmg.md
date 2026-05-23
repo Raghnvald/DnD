@@ -4,7 +4,6 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: erfordert Einstimmung
 Kst.: /
 Gew.: 0,5 kg
-Status: completed
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,6 +12,7 @@ tags:
 aliases:
   - Amulet of the Planes
 linter-yaml-title-alias: Amulett der Ebenen
+Status: completed
 ---
 # Amulett der Ebenen
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  

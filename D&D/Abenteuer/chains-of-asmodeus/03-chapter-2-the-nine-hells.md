@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: The Nine Hells"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 2: The Nine Hells"
+  - "Chapter 2: The Nine Hells"
 ---
 # Chapter 2: The Nine Hells
 *Source: Chains of Asmodeus, p. 43* 

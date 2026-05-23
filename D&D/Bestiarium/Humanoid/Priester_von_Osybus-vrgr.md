@@ -6,6 +6,7 @@ tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
   - Monster/Typ/Humanoid
+  - Quelle/5e/veor
   - Quelle/5e/vrgr
 aliases:
   - Priest of Osybus

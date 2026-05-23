@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Mythal Touched
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Mythal Touched"
+  - "Mythal Touched"
 ---
 # Mythal Touched
 *Source: Forgotten Realms: Heroes of Faerûn p. 40*  

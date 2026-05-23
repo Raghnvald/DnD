@@ -8,7 +8,7 @@ Größe: Groß
 HG: 5
 Habitat:
   - Unterreich
-image: image/otyugh-webp
+image: token/otyugh-webp
 status: WIP
 tags:
   - Monster/Größe/Groß

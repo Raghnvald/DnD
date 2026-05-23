@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Tyro of the Gauntlet
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Tyro of the Gauntlet"
+  - "Tyro of the Gauntlet"
 ---
 # Tyro of the Gauntlet
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

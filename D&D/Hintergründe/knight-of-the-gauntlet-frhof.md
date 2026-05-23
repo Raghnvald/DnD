@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Knight of the Gauntlet
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Knight of the Gauntlet"
+  - "Knight of the Gauntlet"
 ---
 # Knight of the Gauntlet
 *Source: Forgotten Realms: Heroes of Faerûn p. 32*  

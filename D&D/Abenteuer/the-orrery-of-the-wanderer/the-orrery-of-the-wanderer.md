@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of The Orrery of the Wanderer
 ---
 # Index of The Orrery of the Wanderer
 

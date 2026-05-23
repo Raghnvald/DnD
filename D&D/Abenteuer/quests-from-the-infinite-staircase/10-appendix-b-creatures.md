@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Appendix B: Creatures"
+  - "Appendix B: Creatures"
 ---
 # Appendix B: Creatures
 *Source: Quests from the Infinite Staircase, p. 194* 

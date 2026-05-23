@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Welcome to Eberron
 tags:
-  - new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
   - Welcome to Eberron
 ---

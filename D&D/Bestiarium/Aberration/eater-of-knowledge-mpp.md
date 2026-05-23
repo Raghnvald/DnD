@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpp
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Eater of Knowledge
+Kategorie: Aberration
+Größe: Groß
+HG: 6
+status: WIP
+tags:
+  - Quelle/5e/mpp
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Eater of Knowledge"
+  - Eater of Knowledge
 ---
 # [Eater of Knowledge](3-Mechanics/CLI/bestiary/aberration/eater-of-knowledge-mpp.md)
 *Source: Morte's Planar Parade p. 29*  

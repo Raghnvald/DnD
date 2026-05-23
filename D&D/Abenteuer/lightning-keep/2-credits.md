@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/lk
+  - Quelle/5e/lk
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Lightning Keep* 

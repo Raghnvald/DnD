@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Amaunator
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Amaunator"
-- "The Keeper of the Eternal Sun"
-- "The Light of Law"
-- "The Yellow God"
+  - "Amaunator"
+  - "The Keeper of the Eternal Sun"
+  - "The Light of Law"
+  - "The Yellow God"
 ---
 # Amaunator
 *Source: Forgotten Realms: Heroes of Faerûn p. 100* 

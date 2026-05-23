@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Initiative Cards
 tags:
-- ttrpg-cli/compendium/src/5e/esk
+  - Quelle/5e/esk
 aliases:
-- "Initiative Cards"
+  - "Initiative Cards"
 ---
 # Initiative Cards
 *Source: Essentials Kit p. 3*  

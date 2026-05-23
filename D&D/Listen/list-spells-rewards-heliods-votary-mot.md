@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Heliod's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/heliods-votary
+  - ttrpg-cli/spell/list/reward/heliods-votary
 aliases:
-- "Spells for Heliod's Votary"
+  - "Spells for Heliod's Votary"
 ---
 # Spells for Heliod's Votary
 

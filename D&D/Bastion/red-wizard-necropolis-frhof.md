@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Red Wizard Necropolis
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Bastion
+  - Quelle/5e/frhof
 aliases:
-- "Red Wizard Necropolis"
+  - "Red Wizard Necropolis"
 ---
 # Red Wizard Necropolis
 *Level 5 Bastion facility*  

@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Mechanical Beholder
 tags:
-- ttrpg-cli/compendium/src/5e/ai
-- ttrpg-cli/vehicle/size/huge
-- ttrpg-cli/vehicle/terrain/air
-- ttrpg-cli/vehicle/terrain/land
-- ttrpg-cli/vehicle/terrain/sea
-- ttrpg-cli/vehicle/type/ship
+  - Quelle/5e/ai
+  - ttrpg-cli/vehicle/size/huge
+  - ttrpg-cli/vehicle/terrain/air
+  - ttrpg-cli/vehicle/terrain/land
+  - ttrpg-cli/vehicle/terrain/sea
+  - ttrpg-cli/vehicle/type/ship
 aliases:
-- "Mechanical Beholder"
+  - "Mechanical Beholder"
 ---
 # Mechanical Beholder
 *Source: Acquisitions Incorporated p. 219*  

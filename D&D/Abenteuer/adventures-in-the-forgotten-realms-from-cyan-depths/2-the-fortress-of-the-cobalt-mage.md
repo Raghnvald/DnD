@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Fortress of the Cobalt Mage
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-fcd
+  - Quelle/5e/aitfr-fcd
 aliases:
-- "The Fortress of the Cobalt Mage"
+  - "The Fortress of the Cobalt Mage"
 ---
 # The Fortress of the Cobalt Mage
 *Source: Adventures in the Forgotten Realms: From Cyan Depths, p. 4* 

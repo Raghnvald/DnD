@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Ancient Seal
 tags:
-- ttrpg-cli/compendium/src/5e/vrgr
-- ttrpg-cli/reward/curse
+  - Kompendium/Belohnung/curse
+  - Quelle/5e/vrgr
 aliases:
-- "Ancient Seal"
+  - "Ancient Seal"
 ---
 # Ancient Seal
 *Curse*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Pregenerated Characters
 tags:
-- ttrpg-cli/compendium/src/5e/azfyt
+  - Quelle/5e/azfyt
 aliases:
-- "Pregenerated Characters"
+  - "Pregenerated Characters"
 ---
 # Pregenerated Characters
 *Source: A Zib for Your Thoughts* 

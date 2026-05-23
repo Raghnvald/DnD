@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Charm of Purplemancy
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-purplemancy
+  - ttrpg-cli/spell/list/reward/charm-of-purplemancy
 aliases:
-- "Spells for Charm of Purplemancy"
+  - "Spells for Charm of Purplemancy"
 ---
 # Spells for Charm of Purplemancy
 

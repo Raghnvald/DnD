@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Heroes Feast Saving the Childrens Menu
 ---
 # Index of Heroes Feast Saving the Childrens Menu
 

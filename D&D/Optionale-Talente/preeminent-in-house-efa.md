@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Preeminent in House
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/optional-feature/rp
+  - Kompendium/Optionales/rp
+  - Quelle/5e/efa
 aliases:
-- "Preeminent in House"
+  - "Preeminent in House"
 ---
 # Preeminent in House
 *Source: Eberron: Forge of the Artificer p. 68*  

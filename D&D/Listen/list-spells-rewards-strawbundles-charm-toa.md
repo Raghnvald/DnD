@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Strawbundle's Charm"
 tags:
-- ttrpg-cli/spell/list/reward/strawbundles-charm
+  - ttrpg-cli/spell/list/reward/strawbundles-charm
 aliases:
-- "Spells for Strawbundle's Charm"
+  - "Spells for Strawbundle's Charm"
 ---
 # Spells for Strawbundle's Charm
 

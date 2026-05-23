@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Elf (Zendikar; Tajuru Nation)
 tags:
-- ttrpg-cli/compendium/src/5e/psz
-- ttrpg-cli/race/elf/zendikar-tajuru-nation
+  - Quelle/5e/psz
+  - Rasse/elf/zendikar-tajuru-nation
 aliases:
-- "Elf (Zendikar; Tajuru Nation)"
+  - "Elf (Zendikar; Tajuru Nation)"
 ---
 # Elf (Zendikar; Tajuru Nation)
 *Source: Plane Shift: Zendikar p. 18*  
@@ -61,6 +59,5 @@ Elves are strongly associated with green mana, the magic that flows through thei
 ### Wildly Elegant
 
 Elves are about as tall as humans, but are more slender. Their legs are long, and their pointed ears sweep back from their heads. They move gracefully and hold themselves with elegant poise, but they are a people of the woodlands, and their life in the wilds is manifested in the practical simplicity of their clothes and equipment. Never ones to waste anything that can be reused, elves stitch torn garments together into new ones, and transform broken sword blades into useful gear. They prefer leather for protection rather than metal, which they use to craft swords, spears, arrowheads, and climbing hooks.
-
 
 ![Lifespring Druid](3-Mechanics/CLI/races/img/elf2.webp#center)

@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Object (Huge)
+Kategorie: Konstrukt
+Größe: Riesig
+HG: /
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/

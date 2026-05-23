@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Krenko's Way"
 tags:
-- ttrpg-cli/compendium/src/5e/kkw
+  - Quelle/5e/kkw
 aliases:
-- "Krenko's Way"
+  - "Krenko's Way"
 ---
 # Krenko's Way
 *Source: Krenko's Way, p. 160* 

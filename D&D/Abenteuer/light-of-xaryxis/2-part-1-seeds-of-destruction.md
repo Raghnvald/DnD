@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 1: Seeds of Destruction"
 tags:
-- ttrpg-cli/compendium/src/5e/lox
+  - Quelle/5e/lox
 aliases:
-- "Part 1: Seeds of Destruction"
+  - "Part 1: Seeds of Destruction"
 ---
 # Part 1: Seeds of Destruction
 *Source: Light of Xaryxis, p. 9* 

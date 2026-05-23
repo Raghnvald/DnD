@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Daoine Gloine Map
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Daoine Gloine Map"
+  - "Daoine Gloine Map"
 ---
 # Daoine Gloine Map
 *Source: Lost Laboratory of Kwalish* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix: Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Appendix: Magic Items"
+  - "Appendix: Magic Items"
 ---
 # Appendix: Magic Items
 *Source: Eberron: Forge of the Artificer, p. 112* 

@@ -7,6 +7,7 @@ Größe: Riesig
 HG: 7
 Habitat:
   - /
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7
@@ -14,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Flesh Meld
-Image: aberration/token/flesh-meld-pabtso.webp
+Image: token/flesh-meld-pabtso.webp
 ---
 # Fleischfusion
 *Source: Phandelver and Below: The Shattered Obelisk p. 207*  

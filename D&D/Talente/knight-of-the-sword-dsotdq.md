@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Knight of the Sword
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/dsotdq
 aliases:
-- "Knight of the Sword"
+  - "Knight of the Sword"
 ---
 # Knight of the Sword
 *Source: Dragonlance: Shadow of the Dragon Queen p. 33*  

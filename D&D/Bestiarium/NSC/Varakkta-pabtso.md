@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Varakkta
-Image: NSC/token/varakkta-pabtso.webp
+Image: token/varakkta-pabtso.webp
 linter-yaml-title-alias: Varakkta
 ---
 # Varakkta

@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Amber Golem
+Kategorie: Konstrukt
+Größe: Groß
+HG: "10"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

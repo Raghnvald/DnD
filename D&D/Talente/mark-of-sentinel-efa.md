@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Mark of Sentinel
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Mark of Sentinel"
+  - "Mark of Sentinel"
 ---
 # Mark of Sentinel
 *Source: Eberron: Forge of the Artificer p. 41*  

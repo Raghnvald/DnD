@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grell-Hellseher
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 4
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Grell Psychic
-Image: aberration/token/grell-psychic-pabtso.webp
+Image: token/grell-psychic-pabtso.webp
 ---
 # Grell-Hellseher
 *Source: Phandelver and Below: The Shattered Obelisk p. 145*  

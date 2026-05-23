@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Crown of Lies
+Bezeichnung: "Krone der Lügen "
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Einstimmung/required
@@ -27,7 +27,7 @@ Die _Krone der Lügen_ hat folgende zufällig bestimmte Eigenschaften (Optionen 
 
 ## Perfekte Tarnung
 
-Wenn du auf die Krone eingestimmt bist, kannst du ethe Aktion verwenden, um dich zu verwandeln: Du nimmst das Aussehen einer Kreatur deiner Wahl an, die du mindestens einmal gesehen hast und die um höchstens eine Größenstufe von dir abweicht.
+Wenn du auf die Krone eingestimmt bist, kannst du eine Aktion verwenden, um dich zu verwandeln: Du nimmst das Aussehen einer Kreatur deiner Wahl an, die du mindestens einmal gesehen hast und die um höchstens eine Größenstufe von dir abweicht.
 
 Deine neue Gestalt entspricht exakt dem Erscheinungsbild der gewählten Kreatur. Das gilt auch für die Stimme. Auch deine Größe und deine Bewegungsrate werden durch die der gewählten Kreatur ersetzt. Ansonsten behältst du deine eigenen Spielwerte bei. Die Krone verschmilzt mit deiner neuen Gestalt und ist nicht zu erkennen.
 

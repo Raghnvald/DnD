@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Agent of Order
 tags:
-- ttrpg-cli/compendium/src/5e/sato
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/sato
 aliases:
-- "Agent of Order"
+  - "Agent of Order"
 ---
 # Agent of Order
 *Source: Sigil and the Outlands p. 10*  

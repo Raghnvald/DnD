@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Dungeon Masters Screen 2024
 ---
 # Index of Dungeon Masters Screen 2024
 

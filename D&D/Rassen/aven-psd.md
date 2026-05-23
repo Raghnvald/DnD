@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Aven
 tags:
-- ttrpg-cli/compendium/src/5e/psd
-- ttrpg-cli/race/aven
+  - Quelle/5e/psd
+  - Rasse/aven
 aliases:
-- "Aven"
+  - "Aven"
 ---
 # Aven
 *Source: Plane Shift: Dominaria p. 6*  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Polearm Master
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/phb
 aliases:
-- "Polearm Master"
+  - "Polearm Master"
 ---
 # Polearm Master
 *Source: Player's Handbook p. 168*  

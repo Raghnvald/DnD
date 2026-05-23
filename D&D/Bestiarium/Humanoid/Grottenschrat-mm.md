@@ -10,7 +10,7 @@ Habitat:
   - Grasland
   - Unterreich
   - Wald
-image: image/bugbear.webp
+image: token/bugbear.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

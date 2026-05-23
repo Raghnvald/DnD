@@ -4,7 +4,6 @@ Kategorie: Abenteuerausrüstung
 Eigenschaften: /
 Kst.: 50 GM
 Gew.: 0,5 kg
-Status: completed
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Alchemist's Fire (flask)
 linter-yaml-title-alias: Alchemistenfeuer (Flasche)
+Status: completed
 ---
 # Alchemistenfeuer (Flasche)
 *Abenteuerausrüstung* 

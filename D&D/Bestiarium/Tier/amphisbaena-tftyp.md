@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Amphisbaena
+Kategorie: Tier
+Größe: Riesig
+HG: "3"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/3

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Innistrad; Nephalia)
 tags:
-- ttrpg-cli/compendium/src/5e/psi
-- ttrpg-cli/race/human/innistrad-nephalia
+  - Quelle/5e/psi
+  - Rasse/human/innistrad-nephalia
 aliases:
-- "Human (Innistrad; Nephalia)"
+  - "Human (Innistrad; Nephalia)"
 ---
 # Human (Innistrad; Nephalia)
 *Source: Plane Shift: Innistrad p. 8*  
@@ -43,7 +41,6 @@ You gain proficiency in any combination of four skills or with four "tools" of y
 Beneath an ever-present shroud of fog billowing in from the sea, the people of Nephalia maintain a semblance of normalcy, buying and selling goods from across Innistrad in their bustling markets, setting out to sea in tiny fishing boats, or tilling the soggy earth in waterlogged fields.
 
 Innistrad's population is mostly human, and player characters in an Innistrad campaign should be human in most circumstances. However, the humans of Kessig are different in many respects from those of Gavony, and Nephalia's urban culture is very distinct from the shadow-draped land of Stensia. Diversity among player characters comes not from race, but from each character's home province.
-
 
 > [!gallery]
 ![Silverblade Paladin](3-Mechanics/CLI/races/img/innistrad2.webp)

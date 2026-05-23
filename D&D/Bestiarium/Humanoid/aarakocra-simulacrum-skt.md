@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aarakocra Simulacrum
+Kategorie: Humanoid (Aarakocra)
+Größe: Mittelgroß
+HG: 1/8
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,6 +15,7 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Aarakocra Simulacrum
+IMAGE: token/aarakocra-simulacrum-skt.webp
 ---
 # [Aarakocra Simulacrum](3-Mechanics\CLI\bestiary\humanoid/aarakocra-simulacrum-skt.md)
 *Source: Storm King's Thunder p. 188*  

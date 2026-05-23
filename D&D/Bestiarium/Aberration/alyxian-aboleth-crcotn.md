@@ -1,16 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/crcotn
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Alyxian Aboleth
+Kategorie: Aberration
+Größe: Groß
+HG: 12
+Habitat:
+  - /
+status: WIP
+tags:
+  - Quelle/5e/crcotn
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Alyxian Aboleth"
+  - Alyxian Aboleth
 ---
 # [Alyxian Aboleth](3-Mechanics/CLI/bestiary/aberration/alyxian-aboleth-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 195*  

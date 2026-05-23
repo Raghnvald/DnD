@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/mpp
+  - Quelle/5e/mpp
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Morte's Planar Parade* 

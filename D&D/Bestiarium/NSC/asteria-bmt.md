@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Asteria
+Kategorie: Humanoid (Mensch, Paladin)
+Größe: Mittelgroß
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Avernus, the Eternal Battlefield"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 3: Avernus, the Eternal Battlefield"
+  - "Chapter 3: Avernus, the Eternal Battlefield"
 ---
 # Chapter 3: Avernus, the Eternal Battlefield
 *Source: Chains of Asmodeus, p. 69* 

@@ -6,6 +6,7 @@ tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
   - Monster/Typ/Humanoid
+  - Quelle/5e/veor
   - Quelle/5e/vrgr
 aliases:
   - Inquisitor of the Tome

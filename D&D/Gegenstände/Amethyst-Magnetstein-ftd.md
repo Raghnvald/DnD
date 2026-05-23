@@ -4,7 +4,6 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: /
-Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,6 +12,7 @@ tags:
 aliases:
   - Amethyst Lodestone
 linter-yaml-title-alias: Amethyst Lodestone
+Status: completed
 ---
 # Amethyst-Magnetstein
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  

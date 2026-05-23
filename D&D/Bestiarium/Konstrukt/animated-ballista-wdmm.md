@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Ballista
+Kategorie: Konstrukt
+Größe: Groß
+HG: "2"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

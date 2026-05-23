@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Milil
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Milil"
-- "The Lord of All Songs"
-- "The First Poet"
-- "The Bard of Oghma"
+  - "Milil"
+  - "The Bard of Oghma"
+  - "The First Poet"
+  - "The Lord of All Songs"
 ---
 # Milil
 *Source: Forgotten Realms: Heroes of Faerûn p. 116* 

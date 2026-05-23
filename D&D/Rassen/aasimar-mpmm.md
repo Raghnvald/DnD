@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Aasimar
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/aasimar
+  - Quelle/5e/mpmm
+  - Rasse/aasimar
 aliases:
-- "Aasimar"
+  - "Aasimar"
 ---
 # Aasimar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 7*  

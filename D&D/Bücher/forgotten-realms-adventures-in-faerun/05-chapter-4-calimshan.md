@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Calimshan"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Chapter 4: Calimshan"
+  - "Chapter 4: Calimshan"
 ---
 # Chapter 4: Calimshan
 *Source: Forgotten Realms: Adventures in Faerûn, p. 129* 

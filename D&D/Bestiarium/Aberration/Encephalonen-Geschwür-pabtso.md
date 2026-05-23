@@ -7,6 +7,7 @@ Größe: Groß
 HG: 10
 Habitat:
   - /
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10
@@ -14,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Encephalon Cluster
-Image: aberration/token/encephalon-cluster-pabtso.webp
+Image: token/encephalon-cluster-pabtso.webp
 ---
 # Encephalonen-Geschwür
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  

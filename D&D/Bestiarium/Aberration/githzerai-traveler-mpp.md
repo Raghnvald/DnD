@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpp
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githzerai Traveler
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 3
+status: WIP
+tags:
+  - Quelle/5e/mpp
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration/gith
 aliases:
-- "Githzerai Traveler"
+  - Githzerai Traveler
 ---
 # [Githzerai Traveler](3-Mechanics/CLI/bestiary/aberration/githzerai-traveler-mpp.md)
 *Source: Morte's Planar Parade p. 31*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Character Options"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Chapter 1: Character Options"
+  - "Chapter 1: Character Options"
 ---
 # Chapter 1: Character Options
 *Source: Forgotten Realms: Heroes of Faerûn, p. 11* 

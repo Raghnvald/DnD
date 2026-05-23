@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Redbud
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Redbud
+IMAGE: token/redbuld-veor.webp
 linter-yaml-title-alias: Redbud
 ---
 # [Redbud](3-Mechanics\CLI\bestiary\npc/redbud-veor.md)

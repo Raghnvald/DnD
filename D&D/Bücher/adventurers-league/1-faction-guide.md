@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Faction Guide
 tags:
-- ttrpg-cli/compendium/src/5e/al
+  - Quelle/5e/al
 aliases:
-- "Faction Guide"
+  - "Faction Guide"
 ---
 # Faction Guide
 *Source: Adventurers League* 

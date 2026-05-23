@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Bomber
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Bomber"
+  - "Bomber"
 ---
 # Bomber
 *Source: Astarion's Book of Hungers p. 9*  

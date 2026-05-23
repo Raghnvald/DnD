@@ -8,7 +8,6 @@ Gew.: /
 RK: /
 STR: /
 Heiml.: /
-Status: completed
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -28,6 +27,7 @@ aliases:
   - Adamantine Splint Armor
   - Adamantrüstung
 linter-yaml-title-alias: Adamantrüstung
+Status: completed
 ---
 # Adamantrüstung
 *Rüstung (mittelschwer oder schwer, kein Fell), ungewöhnlich*  

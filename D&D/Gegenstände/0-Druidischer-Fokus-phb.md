@@ -1,6 +1,5 @@
 ---
 Bezeichnung: Druidischer Fokus
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
@@ -8,6 +7,7 @@ tags:
 aliases:
   - Druidic Focus
 linter-yaml-title-alias: Druidischer Fokus
+Status: completed
 ---
 # Druidischer Fokus
 *Zauberfokus*

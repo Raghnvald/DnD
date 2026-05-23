@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Tortle
 tags:
-- ttrpg-cli/compendium/src/5e/ttp
+  - Quelle/5e/ttp
 aliases:
-- "Tortle"
+  - "Tortle"
 ---
 # Tortle
 *Source: The Tortle Package, p. 3* 

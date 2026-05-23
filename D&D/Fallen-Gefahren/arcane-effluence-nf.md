@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Arcane Effluence
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Arcane Effluence"
+  - "Arcane Effluence"
 ---
 # Arcane Effluence
 *Generic Hazard*  

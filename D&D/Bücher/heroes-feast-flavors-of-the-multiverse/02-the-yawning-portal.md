@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Yawning Portal
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "The Yawning Portal"
+  - "The Yawning Portal"
 ---
 # The Yawning Portal
 *Source: Heroes' Feast Flavors of the Multiverse, p. 1* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Enclave Magic
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Enclave Magic"
+  - "Enclave Magic"
 ---
 # Enclave Magic
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

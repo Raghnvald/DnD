@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/ai
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Chaos Quadrapod
+Kategorie: Aberration
+Größe: Groß
+HG: 4
+status: WIP
+tags:
+  - Quelle/5e/ai
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Chaos Quadrapod"
+  - Chaos Quadrapod
 ---
 # [Chaos Quadrapod](3-Mechanics/CLI/bestiary/aberration/chaos-quadrapod-ai.md)
 *Source: Acquisitions Incorporated p. 209*  

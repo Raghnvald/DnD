@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Cohort of Chaos
 tags:
-- ttrpg-cli/compendium/src/5e/sato
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/sato
 aliases:
-- "Cohort of Chaos"
+  - "Cohort of Chaos"
 ---
 # Cohort of Chaos
 *Source: Sigil and the Outlands p. 10*  

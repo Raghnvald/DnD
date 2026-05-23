@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Athreos
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Athreos"
+  - "Athreos"
 ---
 # Athreos
 *Source: Mythic Odysseys of Theros p. 37* 

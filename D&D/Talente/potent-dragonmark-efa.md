@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Potent Dragonmark
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Potent Dragonmark"
+  - "Potent Dragonmark"
 ---
 # Potent Dragonmark
 *Source: Eberron: Forge of the Artificer p. 45*  

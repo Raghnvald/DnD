@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Fairy
 tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/race/fairy
+  - Quelle/5e/wbtw
+  - Rasse/fairy
 aliases:
-- "Fairy"
+  - "Fairy"
 ---
 # Fairy
 *Source: The Wild Beyond the Witchlight p. 12*  

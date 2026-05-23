@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Kruphix's Devotee"
 tags:
-- ttrpg-cli/spell/list/reward/kruphixs-devotee
+  - ttrpg-cli/spell/list/reward/kruphixs-devotee
 aliases:
-- "Spells for Kruphix's Devotee"
+  - "Spells for Kruphix's Devotee"
 ---
 # Spells for Kruphix's Devotee
 

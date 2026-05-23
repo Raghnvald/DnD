@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vaeve
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Vaeve
+IMAGE: token/vaeve-veor.webp
 linter-yaml-title-alias: Vaeve
 ---
 # [Vaeve](3-Mechanics\CLI\bestiary\npc/vaeve-veor.md)

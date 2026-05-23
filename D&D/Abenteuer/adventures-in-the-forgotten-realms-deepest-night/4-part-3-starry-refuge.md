@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 3: Starry Refuge"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Part 3: Starry Refuge"
+  - "Part 3: Starry Refuge"
 ---
 # Part 3: Starry Refuge
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 10* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Witness Netheril's Doom"
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Introduction: Witness Netheril's Doom"
+  - "Introduction: Witness Netheril's Doom"
 ---
 # Introduction: Witness Netheril's Doom
 *Source: Netheril's Fall* 

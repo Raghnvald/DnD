@@ -4,7 +4,6 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: /
-Status:
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Eagle Whistle
 linter-yaml-title-alias: Eagle Whistle
+Status:
 ---
 # Adlerpfeife
 *Wundersamer Gegenstand, selten*  

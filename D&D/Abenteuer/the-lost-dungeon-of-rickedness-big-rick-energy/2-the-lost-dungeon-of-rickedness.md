@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Lost Dungeon of Rickedness
 tags:
-- ttrpg-cli/compendium/src/5e/rmbre
+  - Quelle/5e/rmbre
 aliases:
-- "The Lost Dungeon of Rickedness"
+  - "The Lost Dungeon of Rickedness"
 ---
 # The Lost Dungeon of Rickedness
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy, p. 6* 

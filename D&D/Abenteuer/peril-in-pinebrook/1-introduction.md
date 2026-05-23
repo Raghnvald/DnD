@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/pip
+  - Quelle/5e/pip
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: Peril in Pinebrook, p. 2* 

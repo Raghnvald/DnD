@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Champion of Deception
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/reward/piety-trait
+  - Kompendium/Belohnung/piety-trait
+  - Quelle/5e/mot
 aliases:
-- "Champion of Deception"
+  - "Champion of Deception"
 ---
 # Champion of Deception
 *Piety Trait*  

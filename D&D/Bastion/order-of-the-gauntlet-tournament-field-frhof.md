@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Order of the Gauntlet Tournament Field
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Bastion
+  - Quelle/5e/frhof
 aliases:
-- "Order of the Gauntlet Tournament Field"
+  - "Order of the Gauntlet Tournament Field"
 ---
 # Order of the Gauntlet Tournament Field
 *Level 9 Bastion facility*  

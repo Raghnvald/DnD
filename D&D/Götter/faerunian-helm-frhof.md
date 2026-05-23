@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Helm
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Helm"
-- "He of the Unsleeping Eyes"
-- "The Vigilant"
-- "The Watcher"
+  - "He of the Unsleeping Eyes"
+  - "Helm"
+  - "The Vigilant"
+  - "The Watcher"
 ---
 # Helm
 *Source: Forgotten Realms: Heroes of Faerûn p. 108* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/dmtcrg
+  - Quelle/5e/dmtcrg
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: The Deck of Many Things: Card Reference Guide, p. 1* 

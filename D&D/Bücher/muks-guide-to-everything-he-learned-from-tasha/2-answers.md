@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Answers
 tags:
-- ttrpg-cli/compendium/src/5e/mgelft
+  - Quelle/5e/mgelft
 aliases:
-- "Answers"
+  - "Answers"
 ---
 # Answers
 *Source: Muk's Guide to Everything He Learned From Tasha, p. 26* 

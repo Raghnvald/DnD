@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Greater Mark of Shadow
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Greater Mark of Shadow"
+  - "Greater Mark of Shadow"
 ---
 # Greater Mark of Shadow
 *Source: Eberron: Forge of the Artificer p. 45*  

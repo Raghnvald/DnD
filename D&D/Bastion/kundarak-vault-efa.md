@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Kundarak Vault
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Bastion
+  - Quelle/5e/efa
 aliases:
-- "Kundarak Vault"
+  - "Kundarak Vault"
 ---
 # Kundarak Vault
 *Level 9 Bastion facility*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Whiskey from The Gilded Horseshoe Inn in Longsaddle
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Whiskey from The Gilded Horseshoe Inn in Longsaddle"
+  - "Whiskey from The Gilded Horseshoe Inn in Longsaddle"
 ---
 # Whiskey from The Gilded Horseshoe Inn in Longsaddle
 *Source: Puncheons and Flagons, p. 32* 

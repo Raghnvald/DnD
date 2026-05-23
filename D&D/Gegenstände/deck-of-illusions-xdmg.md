@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Deck of Illusions
 tags:
-  - ttrpg-cli/compendium/src/5e/xdmg
+  - Quelle/5e/xdmg
   - ttrpg-cli/item/rarity/uncommon
 aliases:
   - "Deck of Illusions"

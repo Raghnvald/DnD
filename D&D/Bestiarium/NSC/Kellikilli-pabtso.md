@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Kellikilli
-Image: NSC/token/kellikilli-pabtso.webp
+Image: token/kellikilli-pabtso.webp
 linter-yaml-title-alias: Kellikilli
 ---
 # Kellikilli

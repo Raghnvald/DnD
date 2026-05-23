@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/uthftlh
+  - Quelle/5e/uthftlh
 aliases:
-- "Appendix B: Creatures"
+  - "Appendix B: Creatures"
 ---
 # Appendix B: Creatures
 *Source: Uni and the Hunt for the Lost Horn* 

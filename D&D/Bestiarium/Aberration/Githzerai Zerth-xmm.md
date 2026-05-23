@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githzerai Zerth
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 6
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo

@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Glass Pegasus
+tags:
+  - Quelle/5e/wbtw
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 aliases:
-- "Glass Pegasus"
+  - "Glass Pegasus"
 ---
 # [Glass Pegasus](3-Mechanics/CLI/bestiary/construct/glass-pegasus-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 181*  

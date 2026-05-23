@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Auril (Third Form)
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/11

@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Vergadain
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/scag
 aliases:
-- "Vergadain"
+  - "Vergadain"
 ---
 # Vergadain
 *Source: Sword Coast Adventurer's Guide p. 22* 

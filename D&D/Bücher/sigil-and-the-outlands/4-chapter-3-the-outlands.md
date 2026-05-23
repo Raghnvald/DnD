@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: The Outlands"
 tags:
-- ttrpg-cli/compendium/src/5e/sato
+  - Quelle/5e/sato
 aliases:
-- "Chapter 3: The Outlands"
+  - "Chapter 3: The Outlands"
 ---
 # Chapter 3: The Outlands
 *Source: Sigil and the Outlands, p. 61* 

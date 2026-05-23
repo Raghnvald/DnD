@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Rules"
 tags:
-- ttrpg-cli/compendium/src/5e/uthftlh
+  - Quelle/5e/uthftlh
 aliases:
-- "Appendix A: Rules"
+  - "Appendix A: Rules"
 ---
 # Appendix A: Rules
 *Source: Uni and the Hunt for the Lost Horn* 

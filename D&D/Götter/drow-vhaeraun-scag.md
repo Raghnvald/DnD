@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Vhaeraun
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/drow
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/drow
+  - Quelle/5e/scag
 aliases:
-- "Vhaeraun"
+  - "Vhaeraun"
 ---
 # Vhaeraun
 *Source: Sword Coast Adventurer's Guide p. 23* 

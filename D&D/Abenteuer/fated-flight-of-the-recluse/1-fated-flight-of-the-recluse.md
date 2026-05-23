@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Fated Flight of the Recluse
 tags:
-- ttrpg-cli/compendium/src/5e/ffotr
+  - Quelle/5e/ffotr
 aliases:
-- "Fated Flight of the Recluse"
+  - "Fated Flight of the Recluse"
 ---
 # Fated Flight of the Recluse
 *Source: Fated Flight of the Recluse* 

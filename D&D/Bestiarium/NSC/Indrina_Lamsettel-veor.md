@@ -1,7 +1,13 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Indrina Lamsensettle
+Bezeichnung: Indrina Lamsettel
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: 1/8
+Habitat: /
+image: token/indrina-lamsensettle-veor.webp
+status: completed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -11,43 +17,42 @@ aliases:
   - Indrina Lamsensettle
 linter-yaml-title-alias: Indrina Lamsensettle
 ---
-# Indrina Lamsensettle
-*Source: Vecna: Eve of Ruin*  
+# Indrina Lamsettel
+*Quelle: Vecna: Vorabend der Verdammnis*  
 
 ```statblock
-"name": "Indrina Lamsensettle (VEoR)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human"
-"alignment": "Lawful Neutral"
-"ac": !!int "11"
-"hp": !!int "9"
-"hit_dice": "2d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "11"
-  - !!int "12"
-  - !!int "14"
-  - !!int "16"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "Deception"
-    "desc": "+5"
-  - "name": "Insight"
-    "desc": "+4"
-  - "name": "Persuasion"
-    "desc": "+5"
-"senses": "passive Perception 12"
-"languages": "any two languages"
-"cr": "1/8"
-"reactions":
-  - "desc": "Indrina adds 2 to its AC against one melee attack that would hit it.\
-      \ To do so, Indrina must see the attacker and be wielding a melee weapon."
-    "name": "Parry"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/indrina-lamsensettle-veor.webp"
+name: Indrina Lamsettel
+image: token/indrina-lamsensettle-veor.webp
+source:
+  - VEoR
+size: Mittelgroß
+type: Humanoid
+subtype: Mensch
+alignment: Rechtschaffen Neutral
+ac: 11
+hp: 9
+hit_dice: 2d8
+modifier: 1
+stats:
+  - 11
+  - 12
+  - 11
+  - 12
+  - 14
+  - 16
+speed: 9 m
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>
+    desc: "+4"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Täuschung|Täuschung<STATBLOCK-MARKDOWN-LINK>
+    desc: "+5"
+  - name: <STATBLOCK-MARKDOWN-LINK>/Fertigkeiten-phb#Überzeugen|Überzeugen<STATBLOCK-MARKDOWN-LINK>
+    desc: "+5"
+senses: passive Wahrnehmung 12
+languages: Zwei beliebige Sprachen
+cr: 1/8
+reactions:
+  - desc: Indrina addiert 2 auf ihre RK gegen einen Nahkampfangriff, der sie treffen würde. Dazu muss Indrina den Angreifer sehen und eine Nahkampfwaffe führen.
+    name: Parade
 ```
 ^statblock

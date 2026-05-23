@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Turtle Ship
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/vehicle/terrain/sea
-- ttrpg-cli/vehicle/terrain/space
-- ttrpg-cli/vehicle/type/spelljammer
+  - Quelle/5e/aag
+  - ttrpg-cli/vehicle/terrain/sea
+  - ttrpg-cli/vehicle/terrain/space
+  - ttrpg-cli/vehicle/type/spelljammer
 aliases:
-- "Turtle Ship"
+  - "Turtle Ship"
 ---
 # Turtle Ship
 *Source: Astral Adventurer's Guide p. 52*  

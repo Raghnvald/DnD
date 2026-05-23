@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Sehanine Moonbow
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/knowledge
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/elven
+  - Quelle/5e/scag
 aliases:
-- "Sehanine Moonbow"
+  - "Sehanine Moonbow"
 ---
 # Sehanine Moonbow
 *Source: Sword Coast Adventurer's Guide p. 23* 

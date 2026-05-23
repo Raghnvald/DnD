@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Astral Elf
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/race/astral-elf
+  - Quelle/5e/aag
+  - Rasse/astral-elf
 aliases:
-- "Astral Elf"
+  - "Astral Elf"
 ---
 # Astral Elf
 *Source: Astral Adventurer's Guide p. 10*  

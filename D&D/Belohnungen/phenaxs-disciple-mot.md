@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: "Phenax's Disciple"
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/reward/piety-trait
+  - Kompendium/Belohnung/piety-trait
+  - Quelle/5e/mot
 aliases:
-- "Phenax's Disciple"
+  - "Phenax's Disciple"
 ---
 # Phenax's Disciple
 *Piety Trait*  

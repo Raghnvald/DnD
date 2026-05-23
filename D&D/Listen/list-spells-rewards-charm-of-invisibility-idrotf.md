@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Charm of Invisibility
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-invisibility
+  - ttrpg-cli/spell/list/reward/charm-of-invisibility
 aliases:
-- "Spells for Charm of Invisibility"
+  - "Spells for Charm of Invisibility"
 ---
 # Spells for Charm of Invisibility
 

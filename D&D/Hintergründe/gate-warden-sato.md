@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Gate Warden
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/sato
+  - Kompendium/Hintergrund
+  - Quelle/5e/sato
 aliases:
-- "Gate Warden"
+  - "Gate Warden"
 ---
 # Gate Warden
 *Source: Sigil and the Outlands p. 7*  

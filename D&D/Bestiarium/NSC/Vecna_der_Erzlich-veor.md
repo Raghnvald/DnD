@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vecna der Erzlich
+Kategorie: Untoter
+Größe: Mittelgroß
+HG: 26
+Habitat: /
+image: token/vecna-the-archlich-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/26

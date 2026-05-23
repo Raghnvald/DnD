@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
+Bezeichnung: Eldritch Cannon
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/object/size/unknown
-- ttrpg-cli/object/type/unknown
+  - Kompendium/Objekt/size/unknown
+  - Kompendium/Objekt/type/unknown
+  - Quelle/5e/efa
 aliases:
-- "Eldritch Cannon"
+  - "Eldritch Cannon"
 ---
 # Eldritch Cannon
 *Source: Eberron: Forge of the Artificer p. 16*  

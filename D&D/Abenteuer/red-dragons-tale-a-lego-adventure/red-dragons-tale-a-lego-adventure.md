@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Red Dragons Tale a Lego Adventure
 ---
 # Index of Red Dragons Tale a Lego Adventure
 

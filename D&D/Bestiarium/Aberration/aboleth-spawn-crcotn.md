@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/crcotn
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Aboleth Spawn
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 5
+Habitat:
+  - /
+image: token/aboleth-spawn-crcotn.webp
+status: WIP
+tags:
+  - Quelle/5e/crcotn
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Aboleth Spawn"
+  - Aboleth Spawn
 ---
 # [Aboleth Spawn](3-Mechanics/CLI/bestiary/aberration/aboleth-spawn-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 135*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Appendix A: Creatures"
+  - "Appendix A: Creatures"
 ---
 # Appendix A: Creatures
 *Source: Critical Role: Call of the Netherdeep, p. 187* 

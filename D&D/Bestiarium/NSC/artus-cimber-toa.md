@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Artus Cimber
+Kategorie: Humanoid (Mensch)
+Größe: Mittelgroß
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

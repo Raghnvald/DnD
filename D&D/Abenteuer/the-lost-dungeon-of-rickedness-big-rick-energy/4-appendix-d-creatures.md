@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/rmbre
+  - Quelle/5e/rmbre
 aliases:
-- "Appendix D: Creatures"
+  - "Appendix D: Creatures"
 ---
 # Appendix D: Creatures
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy, p. 34* 

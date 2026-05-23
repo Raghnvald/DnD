@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Blessing of the Lone Champion
 tags:
-- ttrpg-cli/compendium/src/5e/drde
-- ttrpg-cli/reward/blessing
+  - Kompendium/Belohnung/blessing
+  - Quelle/5e/drde
 aliases:
-- "Blessing of the Lone Champion"
+  - "Blessing of the Lone Champion"
 ---
 # Blessing of the Lone Champion
 

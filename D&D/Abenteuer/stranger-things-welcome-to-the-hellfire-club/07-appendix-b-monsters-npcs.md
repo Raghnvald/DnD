@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Appendix B - Monsters & NPCs
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Appendix B - Monsters & NPCs"
+  - "Appendix B - Monsters & NPCs"
 ---
 # Appendix B - Monsters & NPCs
 *Source: Stranger Things: Welcome to the Hellfire Club* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Mark of Making
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Mark of Making"
+  - "Mark of Making"
 ---
 # Mark of Making
 *Source: Eberron: Forge of the Artificer p. 40*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Miska the Wolf-Spider
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/24
@@ -9,12 +10,13 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Miska the Wolf-Spider
+IMAGE: token/miska-the-wolf-spider-veor.webp
 linter-yaml-title-alias: Miska the Wolf-Spider
 ---
 # Miska the Wolf-Spider
 *Quelle: Vecna: Vorabend der Verdammnis S. 247*  
 
-Miska Wolfsspinne ist ein legendärer Dämonenfürst und ein strategischer Meister.des Schlachtfelds. Er hat den Unterleib einer riesigen gepanzerten Spinne, vier Arme und zwei riesige Wolfsköpfe, aus denen Gift tropft. Doch seine größte Stärke ist sein scharfer Verstand. 
+Miska Wolfsspinne ist ein legendärer Dämonenfürst und ein strategischer Meister des Schlachtfelds. Er hat den Unterleib einer riesigen gepanzerten Spinne, vier Arme und zwei riesige Wolfsköpfe, aus denen Gift tropft. Doch seine größte Stärke ist sein scharfer Verstand. 
 
 ## Geschichte
 

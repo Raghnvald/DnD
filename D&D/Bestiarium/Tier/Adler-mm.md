@@ -2,6 +2,16 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eagle
+Kategorie: Tier
+Größe: Klein
+HG: "0"
+Habitat:
+  - Berg
+  - Grasland
+  - Hügel
+  - Küste
+image: token/eagle.webp
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

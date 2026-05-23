@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Dhampir
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/race/dhampir
+  - Quelle/5e/abh
+  - Rasse/dhampir
 aliases:
-- "Dhampir"
+  - "Dhampir"
 ---
 # Dhampir
 *Source: Astarion's Book of Hungers p. 7*  

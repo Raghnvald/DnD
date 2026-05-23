@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Appendix C - Handouts
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Appendix C - Handouts"
+  - "Appendix C - Handouts"
 ---
 # Appendix C - Handouts
 *Source: Stranger Things: Welcome to the Hellfire Club* 

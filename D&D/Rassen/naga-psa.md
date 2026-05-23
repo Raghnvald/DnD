@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Naga
 tags:
-- ttrpg-cli/compendium/src/5e/psa
-- ttrpg-cli/race/naga
+  - Quelle/5e/psa
+  - Rasse/naga
 aliases:
-- "Naga"
+  - "Naga"
 ---
 # Naga
 *Source: Plane Shift: Amonkhet p. 21*  
@@ -71,6 +69,5 @@ Naga who specialize in hand-to-hand combat rely on axes, [daggers](3-Mechanics/C
 Speed and accuracy are equally important to naga who specialize in long-range combat. Some prefer to analyze a battle from a distance and pick off the strongest opponents with their ranged weapons, including poisoned [spears](3-Mechanics/CLI/items/spear.md) and [arrows](3-Mechanics/CLI/items/arrow.md). Others ride in [chariots](3-Mechanics/CLI/items/chariot.md) driven by trusted drivers (usually other naga) and throw their [spears](3-Mechanics/CLI/items/spear.md) from the midst of battle. In any case, they excel at finding and exploiting strategic advantages.
 
 Some naga mages, drawn to the example of Kefnet, make extensive use of illusion magic to trick and mislead their opponents. Others apply Rhonas's teachings to their studies, wielding poisonous magic that weakens opponents or kills them outright with clouds or darts of deadly toxins. Still others, in service to the ideal of balance, use the magical power of their minds to enhance their physical strength and speed.
-
 
 ![Tah-Crop Skirmisher](3-Mechanics/CLI/races/img/naga2.webp#center)

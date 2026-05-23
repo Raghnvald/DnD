@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/qftis
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Derro Apprentice
+Kategorie: Aberration
+Größe: Klein
+HG: 1
+status: WIP
+tags:
+  - Quelle/5e/qftis
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Derro Apprentice"
+  - Derro Apprentice
 ---
 # [Derro Apprentice](3-Mechanics/CLI/bestiary/aberration/derro-apprentice-qftis.md)
 *Source: Quests from the Infinite Staircase p. 196*  

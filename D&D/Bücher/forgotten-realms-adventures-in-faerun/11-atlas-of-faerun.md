@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Atlas of Faerûn
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Atlas of Faerûn"
+  - "Atlas of Faerûn"
 ---
 # Atlas of Faerûn
 *Source: Forgotten Realms: Adventures in Faerûn* 

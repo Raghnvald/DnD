@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Monstrous Compendium Volume 4 Eldraine Creatures
 ---
 # Index of Monstrous Compendium Volume 4 Eldraine Creatures
 

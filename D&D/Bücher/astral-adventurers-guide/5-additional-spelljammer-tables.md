@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Additional Spelljammer Tables
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Additional Spelljammer Tables"
+  - "Additional Spelljammer Tables"
 ---
 # Additional Spelljammer Tables
 *Source: Astral Adventurer's Guide* 

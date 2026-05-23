@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Orrery of the Wanderer
 tags:
-- ttrpg-cli/compendium/src/5e/oow
+  - Quelle/5e/oow
 aliases:
-- "The Orrery of the Wanderer"
+  - "The Orrery of the Wanderer"
 ---
 # The Orrery of the Wanderer
 *Source: The Orrery of the Wanderer, p. 79* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Baleful Scion
 tags:
-- ttrpg-cli/compendium/src/5e/sato
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/sato
 aliases:
-- "Baleful Scion"
+  - "Baleful Scion"
 ---
 # Baleful Scion
 *Source: Sigil and the Outlands p. 10*  

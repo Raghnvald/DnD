@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/mabjov
+  - Quelle/5e/mabjov
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Minsc and Boo's Journal of Villainy* 

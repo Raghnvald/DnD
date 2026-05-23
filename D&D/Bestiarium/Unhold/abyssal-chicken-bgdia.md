@@ -2,6 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Abyssal Chicken
+Kategorie: Unhold (Dämon)
+Größe: Winzig
+HG: 1/4
+Habitat:
+  - /
+image: token/abyssal-chicken-bgdia.webp
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-4

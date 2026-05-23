@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Exquisite Rarities from One-Eyed Jax in Luskan
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Exquisite Rarities from One-Eyed Jax in Luskan"
+  - "Exquisite Rarities from One-Eyed Jax in Luskan"
 ---
 # Exquisite Rarities from One-Eyed Jax in Luskan
 *Source: Puncheons and Flagons, p. 118* 

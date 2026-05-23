@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Infected Townsperson
-Image: humanoid/token/infected-townsperson-pabtso.webp
+Image: token/infected-townsperson-pabtso.webp
 ---
 # Infizierter Dorfbewohner
 *Source: Phandelver and Below: The Shattered Obelisk p. 139*  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Manifest Zone
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Bastion
+  - Quelle/5e/efa
 aliases:
-- "Manifest Zone"
+  - "Manifest Zone"
 ---
 # Manifest Zone
 *Level 13 Bastion facility*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Siren
 tags:
-- ttrpg-cli/spell/list/race/siren
+  - ttrpg-cli/spell/list/race/siren
 aliases:
-- "Spells for Siren"
+  - "Spells for Siren"
 ---
 # Spells for Siren
 

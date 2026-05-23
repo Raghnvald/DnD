@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of The Lost Dungeon of Rickedness Big Rick Energy
 ---
 # Index of The Lost Dungeon of Rickedness Big Rick Energy
 

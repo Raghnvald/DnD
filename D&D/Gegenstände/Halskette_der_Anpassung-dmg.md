@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Necklace of Adaptation
+Bezeichnung: Halskette der Anpassung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,12 +8,12 @@ aliases:
   - Necklace of Adaptation
 linter-yaml-title-alias: Necklace of Adaptation
 ---
-# Necklace of Adaptation
-*Wondrous item, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/necklace-of-adaptation.webp#right)
+# Halskette der Anpassung
+*Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)*  
+![](img/necklace-of-adaptation.webp#right)
 
-- **Weight**: 1.0 lbs.
+- **Gewicht**: 0,5 kg.
 
-While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as [cloudkill](/3-Mechanics/CLI/spells/cloudkill.md) and [stinking cloud](/3-Mechanics/CLI/spells/stinking-cloud.md) effects, inhaled poisons, and the breath weapons of some dragons).
+Während du diese Halskette trägst, kannst du in jeder Umgebung normal atmen, und du hast einen Vorteil auf Rettungswürfe gegen schädliche Gase und Dämpfe (wie z.B. [[Todeswolke-phb|Todeswolke]] und [[Stinkende_Wolke-phb|Stinkende Wolke]], eingeatmete Gifte und die Odemwaffen einiger Drachen).
 
-*Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 163. Verfügbar iim <span title='Systems Reference Document (5.1)'>SRD</span>*

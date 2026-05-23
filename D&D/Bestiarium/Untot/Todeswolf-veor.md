@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathwolf
+Kategorie: Untoter
+Größe: Mittelgroß
+HG: 15
+Habitat: /
+image: token/deathwolf-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15

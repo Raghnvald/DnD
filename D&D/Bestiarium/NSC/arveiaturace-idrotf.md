@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Arveiaturace
+Kategorie: Drache
+Größe: Gigantisch
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/20

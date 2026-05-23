@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Construction of Horrors"
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Chapter 3: Construction of Horrors"
+  - "Chapter 3: Construction of Horrors"
 ---
 # Chapter 3: Construction of Horrors
 *Source: Infernal Machine Rebuild, p. 13* 

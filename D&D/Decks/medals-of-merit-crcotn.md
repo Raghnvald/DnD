@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Medals of Merit
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Medals of Merit"
+  - "Medals of Merit"
 ---
 # Medals of Merit
 *Source: Critical Role: Call of the Netherdeep p. 217*  

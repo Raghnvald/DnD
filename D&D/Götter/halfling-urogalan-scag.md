@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Urogalan
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/halfling
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/knowledge
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/halfling
+  - Quelle/5e/scag
 aliases:
-- "Urogalan"
+  - "Urogalan"
 ---
 # Urogalan
 *Source: Sword Coast Adventurer's Guide p. 23* 

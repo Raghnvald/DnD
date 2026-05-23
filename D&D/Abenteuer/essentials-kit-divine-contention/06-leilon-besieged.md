@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Leilon Besieged
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Leilon Besieged"
+  - "Leilon Besieged"
 ---
 # Leilon Besieged
 *Source: Essentials Kit: Divine Contention* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Aetherborn
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/race/aetherborn
+  - Quelle/5e/psk
+  - Rasse/aetherborn
 aliases:
-- "Aetherborn"
+  - "Aetherborn"
 ---
 # Aetherborn
 *Source: Plane Shift: Kaladesh p. 17*  
@@ -76,6 +74,5 @@ Aetherborn are a strange living by-product of the process of aether refinement, 
 ### Aetherborn Politics
 
 The relationship between aetherborn and the Consulate is complicated. On the one hand, aetherborn understand that their race wouldn't exist without the Consulate's aether refining operations, so they feel at least some motivation to ensure that those operations continue to run smoothly. On the other hand, few aetherborn have any patience for the tedious and cumbersome politics and regulations of the Consulate, which gives them at least a little sympathy with renegade philosophy. Typically, aetherborn are drawn to one side or the other more by the lure of excitement and entertainment than by any serious political beliefs.
-
 
 ![Essence Extraction](3-Mechanics/CLI/races/img/aetherborn2.webp#center)

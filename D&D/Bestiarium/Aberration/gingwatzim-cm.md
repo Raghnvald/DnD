@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gingwatzim
+Kategorie: Aberration (Gestaltwandler)
+Größe: Klein
+HG: 2
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2

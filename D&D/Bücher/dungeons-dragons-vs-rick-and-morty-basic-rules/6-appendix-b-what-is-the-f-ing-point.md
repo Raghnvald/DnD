@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "APPENDIX B: WHAT IS THE F***ING POINT?!"
 tags:
-- ttrpg-cli/compendium/src/5e/rmr
+  - Quelle/5e/rmr
 aliases:
-- "APPENDIX B: WHAT IS THE F***ING POINT?!"
+  - "APPENDIX B: WHAT IS THE F***ING POINT?!"
 ---
 # APPENDIX B: WHAT IS THE F***ING POINT?!
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules, p. 63* 

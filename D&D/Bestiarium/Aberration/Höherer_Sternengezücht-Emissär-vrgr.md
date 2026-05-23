@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Greater Star Spawn Emissary
+Kategorie: Aberration
+Größe: Riesig
+HG: 21
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/21

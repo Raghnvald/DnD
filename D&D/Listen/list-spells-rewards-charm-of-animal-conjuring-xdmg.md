@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Charm of Animal Conjuring
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-animal-conjuring
+  - ttrpg-cli/spell/list/reward/charm-of-animal-conjuring
 aliases:
-- "Spells for Charm of Animal Conjuring"
+  - "Spells for Charm of Animal Conjuring"
 ---
 # Spells for Charm of Animal Conjuring
 

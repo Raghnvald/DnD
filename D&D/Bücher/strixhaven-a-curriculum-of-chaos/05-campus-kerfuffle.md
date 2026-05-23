@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Campus Kerfuffle
 tags:
-- ttrpg-cli/compendium/src/5e/scc
+  - Quelle/5e/scc
 aliases:
-- "Campus Kerfuffle"
+  - "Campus Kerfuffle"
 ---
 # Campus Kerfuffle
 *Source: Strixhaven: A Curriculum of Chaos, p. 60* 

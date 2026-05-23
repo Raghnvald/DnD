@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Beyond the Crystal Cave"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Chapter 4: Beyond the Crystal Cave"
+  - "Chapter 4: Beyond the Crystal Cave"
 ---
 # Chapter 4: Beyond the Crystal Cave
 *Source: Quests from the Infinite Staircase, p. 77* 

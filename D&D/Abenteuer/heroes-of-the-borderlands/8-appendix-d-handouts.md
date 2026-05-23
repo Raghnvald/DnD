@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Handouts"
 tags:
-- ttrpg-cli/compendium/src/5e/hotb
+  - Quelle/5e/hotb
 aliases:
-- "Appendix D: Handouts"
+  - "Appendix D: Handouts"
 ---
 # Appendix D: Handouts
 *Source: Heroes of the Borderlands* 

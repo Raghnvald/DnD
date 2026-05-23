@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Solidarity Domain (PSA)
 tags:
-- ttrpg-cli/spell/list/subclass/solidarity-domain-psa
+  - ttrpg-cli/spell/list/subclass/solidarity-domain-psa
 aliases:
-- "Spells for Solidarity Domain (PSA)"
+  - "Spells for Solidarity Domain (PSA)"
 ---
 # Spells for Solidarity Domain (PSA)
 

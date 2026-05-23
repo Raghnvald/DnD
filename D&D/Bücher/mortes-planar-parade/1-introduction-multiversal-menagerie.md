@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Multiversal Menagerie"
 tags:
-- ttrpg-cli/compendium/src/5e/mpp
+  - Quelle/5e/mpp
 aliases:
-- "Introduction: Multiversal Menagerie"
+  - "Introduction: Multiversal Menagerie"
 ---
 # Introduction: Multiversal Menagerie
 *Source: Morte's Planar Parade, p. 4* 

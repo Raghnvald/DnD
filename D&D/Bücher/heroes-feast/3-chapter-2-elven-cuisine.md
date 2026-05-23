@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: Elven Cuisine"
 tags:
-- ttrpg-cli/compendium/src/5e/hf
+  - Quelle/5e/hf
 aliases:
-- "Chapter 2: Elven Cuisine"
+  - "Chapter 2: Elven Cuisine"
 ---
 # Chapter 2: Elven Cuisine
 *Source: Heroes' Feast, p. 51* 

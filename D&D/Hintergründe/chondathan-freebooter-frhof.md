@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Chondathan Freebooter
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Chondathan Freebooter"
+  - "Chondathan Freebooter"
 ---
 # Chondathan Freebooter
 *Source: Forgotten Realms: Heroes of Faerûn p. 28*  

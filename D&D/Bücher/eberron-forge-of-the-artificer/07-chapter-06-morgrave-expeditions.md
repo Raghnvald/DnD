@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 06: Morgrave Expeditions"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Chapter 06: Morgrave Expeditions"
+  - "Chapter 06: Morgrave Expeditions"
 ---
 # Chapter 06: Morgrave Expeditions
 *Source: Eberron: Forge of the Artificer, p. 87* 

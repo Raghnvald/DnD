@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Harengon
 tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/race/harengon
+  - Quelle/5e/wbtw
+  - Rasse/harengon
 aliases:
-- "Harengon"
+  - "Harengon"
 ---
 # Harengon
 *Source: The Wild Beyond the Witchlight p. 13*  

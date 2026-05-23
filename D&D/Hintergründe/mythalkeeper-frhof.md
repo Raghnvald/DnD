@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Mythalkeeper
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Mythalkeeper"
+  - "Mythalkeeper"
 ---
 # Mythalkeeper
 *Source: Forgotten Realms: Heroes of Faerûn p. 34*  

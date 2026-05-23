@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/sja
+  - Quelle/5e/sja
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Spelljammer Academy* 

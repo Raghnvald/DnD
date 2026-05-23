@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 26
 Habitat:
   - /
-image: Drache/token/Amethyst-Greatwyrm-ftd.webp
+image: token/Amethyst-Greatwyrm-ftd.webp
 status: WIP
 tags:
   - Monster/Größe/Gigantisch

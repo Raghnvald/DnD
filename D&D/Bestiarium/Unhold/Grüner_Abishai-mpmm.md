@@ -8,6 +8,7 @@ tags:
   - Monster/HG/15
   - Monster/Typ/Unhold/devil
   - Quelle/5e/mpmm
+  - Quelle/5e/veor
 aliases:
   - Green Abishai
 ---

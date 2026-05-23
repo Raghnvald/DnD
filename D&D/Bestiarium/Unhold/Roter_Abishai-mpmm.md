@@ -9,6 +9,7 @@ tags:
   - Monster/HG/19
   - Monster/Typ/Unhold/devil
   - Quelle/5e/mpmm
+  - Quelle/5e/veor
 aliases:
   - Red Abishai
 ---

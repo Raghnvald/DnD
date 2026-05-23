@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The House of Lament
 tags:
-- ttrpg-cli/compendium/src/5e/hol
+  - Quelle/5e/hol
 aliases:
-- "The House of Lament"
+  - "The House of Lament"
 ---
 # The House of Lament
 *Source: Ravenloft: The House of Lament, p. 202* 

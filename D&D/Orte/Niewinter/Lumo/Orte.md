@@ -1,3 +1,6 @@
+---
+Bezeichnung: Tavernen & Gasthäuser
+---
 # Tavernen & Gasthäuser
 
 ## Zum Krähennest

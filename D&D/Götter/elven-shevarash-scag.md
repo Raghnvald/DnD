@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Shevarash
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/war
+  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/elven
+  - Quelle/5e/scag
 aliases:
-- "Shevarash"
+  - "Shevarash"
 ---
 # Shevarash
 *Source: Sword Coast Adventurer's Guide p. 23* 

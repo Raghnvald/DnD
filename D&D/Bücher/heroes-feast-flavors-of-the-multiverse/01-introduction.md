@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: Heroes' Feast Flavors of the Multiverse, p. xi* 

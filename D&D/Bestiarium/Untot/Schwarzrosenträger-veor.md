@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Rose Bearer
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

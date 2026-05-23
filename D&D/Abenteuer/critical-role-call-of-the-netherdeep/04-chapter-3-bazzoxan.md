@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Bazzoxan"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Chapter 3: Bazzoxan"
+  - "Chapter 3: Bazzoxan"
 ---
 # Chapter 3: Bazzoxan
 *Source: Critical Role: Call of the Netherdeep, p. 49* 

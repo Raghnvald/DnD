@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nightmare Haunt
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 5
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

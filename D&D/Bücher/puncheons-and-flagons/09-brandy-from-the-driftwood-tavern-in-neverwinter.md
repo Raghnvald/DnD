@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Brandy from The Driftwood Tavern in Neverwinter
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Brandy from The Driftwood Tavern in Neverwinter"
+  - "Brandy from The Driftwood Tavern in Neverwinter"
 ---
 # Brandy from The Driftwood Tavern in Neverwinter
 *Source: Puncheons and Flagons, p. 100* 

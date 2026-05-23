@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Tymora
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Tymora"
-- "Lady Luck"
-- "Our Smiling Lady"
+  - "Lady Luck"
+  - "Our Smiling Lady"
+  - "Tymora"
 ---
 # Tymora
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 

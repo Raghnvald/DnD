@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Astral Adventurers Guide
 ---
 # Index of Astral Adventurers Guide
 

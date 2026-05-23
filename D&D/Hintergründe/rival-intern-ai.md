@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Rival Intern
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/ai
+  - Kompendium/Hintergrund
+  - Quelle/5e/ai
 aliases:
-- "Rival Intern"
+  - "Rival Intern"
 ---
 # Rival Intern
 *Source: Acquisitions Incorporated p. 51*  
-
 
 - **Skill Proficiencies.** History, Investigation  
 - **Tool Proficiencies.** One type of artisan's tools  

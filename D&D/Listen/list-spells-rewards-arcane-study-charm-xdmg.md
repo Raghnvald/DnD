@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Arcane Study Charm
 tags:
-- ttrpg-cli/spell/list/reward/arcane-study-charm
+  - ttrpg-cli/spell/list/reward/arcane-study-charm
 aliases:
-- "Spells for Arcane Study Charm"
+  - "Spells for Arcane Study Charm"
 ---
 # Spells for Arcane Study Charm
 

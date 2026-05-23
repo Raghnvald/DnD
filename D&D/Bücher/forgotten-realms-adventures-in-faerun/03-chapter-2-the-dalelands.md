@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: The Dalelands"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Chapter 2: The Dalelands"
+  - "Chapter 2: The Dalelands"
 ---
 # Chapter 2: The Dalelands
 *Source: Forgotten Realms: Adventures in Faerûn, p. 45* 

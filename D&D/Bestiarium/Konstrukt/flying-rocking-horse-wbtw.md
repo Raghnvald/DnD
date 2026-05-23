@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Flying Rocking Horse
+tags:
+  - Quelle/5e/wbtw
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
 aliases:
-- "Flying Rocking Horse"
+  - "Flying Rocking Horse"
 ---
 # [Flying Rocking Horse](3-Mechanics/CLI/bestiary/construct/flying-rocking-horse-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 121*  

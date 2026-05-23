@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Calim Sandstorm
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
-- ttrpg-cli/hazard/env
+  - Kompendium/Bedrohung/env
+  - Quelle/5e/fraif
 aliases:
-- "Calim Sandstorm"
+  - "Calim Sandstorm"
 ---
 # Calim Sandstorm
 *Environmental Hazard*  

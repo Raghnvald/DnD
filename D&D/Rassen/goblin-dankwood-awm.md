@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Goblin (Dankwood)
 tags:
-- ttrpg-cli/compendium/src/5e/awm
-- ttrpg-cli/race/goblin/dankwood
+  - Quelle/5e/awm
+  - Rasse/goblin/dankwood
 aliases:
-- "Goblin (Dankwood)"
+  - "Goblin (Dankwood)"
 ---
 # Goblin (Dankwood)
 *Source: Adventure with Muk p. 35*  
-
 
 - **Ability Scores**: dex +2 wis +1
 - **Size**: Small

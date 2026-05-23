@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Dungeons & Dragons: Red Dragon's Tale"
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Dungeons & Dragons: Red Dragon's Tale"
+  - "Dungeons & Dragons: Red Dragon's Tale"
 ---
 # Dungeons & Dragons: Red Dragon's Tale
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 4* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: "Vampire's Plaything"
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Vampire's Plaything"
+  - "Vampire's Plaything"
 ---
 # Vampire's Plaything
 *Source: Astarion's Book of Hungers p. 9*  

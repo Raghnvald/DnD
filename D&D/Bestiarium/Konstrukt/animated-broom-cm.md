@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Broom
+Kategorie: Konstrukt
+Größe: Klein
+HG: 1/4
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

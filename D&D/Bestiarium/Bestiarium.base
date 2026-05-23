@@ -6,8 +6,9 @@ pluginVersion: 1.0.0
 filters:
   and:
     - file.fullname.endsWith(".md")
+    - '!file.fullname.containsAny("0-")'
 views:
-  - type: table
+  - type: cards
     name: Bestiariumsübersicht
     filters:
       or:
@@ -18,7 +19,6 @@ views:
         - file.folder == "D&D/Bestiarium/Feenwesen"
         - file.folder == "D&D/Bestiarium/Humanoid"
         - file.folder == "D&D/Bestiarium/Konstrukt"
-        - file.folder == "D&D/Bestiarium/Legendäre-Gruppe"
         - file.folder == "D&D/Bestiarium/Monstrosität"
         - file.folder == "D&D/Bestiarium/NSC"
         - file.folder == "D&D/Bestiarium/Pflanze"
@@ -30,9 +30,78 @@ views:
     order:
       - Bezeichnung
       - file.name
-      - aliases
+      - Kategorie
+      - HG
     sort:
       - property: file.name
         direction: ASC
       - property: aliases
         direction: ASC
+    cardSize: 120
+    image: note.IMAGE
+  - type: table
+    name: Bestiarium MM
+    filters:
+      and:
+        - '!file.fullname.containsAny("-xmm.md", "-xphb.md")'
+        - or:
+            - file.folder == "D&D/Bestiarium/Aberration"
+            - file.folder == "D&D/Bestiarium/Celestisch"
+            - file.folder == "D&D/Bestiarium/Drache"
+            - file.folder == "D&D/Bestiarium/Elementar"
+            - file.folder == "D&D/Bestiarium/Feenwesen"
+            - file.folder == "D&D/Bestiarium/Humanoid"
+            - file.folder == "D&D/Bestiarium/Konstrukt"
+            - file.folder == "D&D/Bestiarium/Monstrosität"
+            - file.folder == "D&D/Bestiarium/NSC"
+            - file.folder == "D&D/Bestiarium/Pflanze"
+            - file.folder == "D&D/Bestiarium/Riese"
+            - file.folder == "D&D/Bestiarium/Schleim"
+            - file.folder == "D&D/Bestiarium/Tier"
+            - file.folder == "D&D/Bestiarium/Unhold"
+            - file.folder == "D&D/Bestiarium/Untot"
+    order:
+      - file.name
+      - Kategorie
+      - Größe
+      - Habitat
+      - HG
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Größe
+        direction: ASC
+    columnSize:
+      note.HG: 80
+      note.Habitat: 183
+  - type: table
+    name: Bestiarium XMM
+    filters:
+      and:
+        - '!file.fullname.containsAny("-mm.md", "-phb.md")'
+        - or:
+            - file.folder == "D&D/Bestiarium/Aberration"
+            - file.folder == "D&D/Bestiarium/Celestisch"
+            - file.folder == "D&D/Bestiarium/Drache"
+            - file.folder == "D&D/Bestiarium/Elementar"
+            - file.folder == "D&D/Bestiarium/Feenwesen"
+            - file.folder == "D&D/Bestiarium/Humanoid"
+            - file.folder == "D&D/Bestiarium/Konstrukt"
+            - file.folder == "D&D/Bestiarium/Monstrosität"
+            - file.folder == "D&D/Bestiarium/NSC"
+            - file.folder == "D&D/Bestiarium/Pflanze"
+            - file.folder == "D&D/Bestiarium/Riese"
+            - file.folder == "D&D/Bestiarium/Schleim"
+            - file.folder == "D&D/Bestiarium/Tier"
+            - file.folder == "D&D/Bestiarium/Unhold"
+            - file.folder == "D&D/Bestiarium/Untot"
+    order:
+      - file.name
+      - Bezeichnung
+      - Kategorie
+      - Größe
+      - HG
+      - Habitat
+      - status
+      - IMAGE

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Yarn List and Charts
 tags:
-- ttrpg-cli/compendium/src/5e/cabomp
+  - Quelle/5e/cabomp
 aliases:
-- "Yarn List and Charts"
+  - "Yarn List and Charts"
 ---
 # Yarn List and Charts
 *Source: Crochet: A Book of Many Patterns, p. 157* 

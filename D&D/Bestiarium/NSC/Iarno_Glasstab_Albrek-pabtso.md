@@ -10,8 +10,8 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Iarno "Glasstaff" Albrek
-Image: NSC/token/iarno-glasstaff-albrek-pabtso.webp
-linter-yaml-title-alias: 'Iarno "Glasstaff" Albrek'
+Image: token/iarno-glasstaff-albrek-pabtso.webp
+linter-yaml-title-alias: Iarno "Glasstaff" Albrek
 ---
 # Iarno "Glasstab" Albrek
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  

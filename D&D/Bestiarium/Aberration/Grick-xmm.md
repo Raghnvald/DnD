@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grick
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 2
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

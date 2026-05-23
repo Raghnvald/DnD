@@ -1,7 +1,13 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mage
+Bezeichnung: Magier
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: 6
+Habitat: Stadt
+image: token/mage.webp
+status: completed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -11,64 +17,64 @@ tags:
 aliases:
   - Mage
 ---
-# [Mage](3-Mechanics\CLI\bestiary\humanoid/mage.md)
-*Source: Monster Manual p. 347. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Magier
+*Quelle: Monsterhandbuch S. 348. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
-Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
+Magier verbringen ihr Leben damit, Magie zu studieren und zu üben. Magier von guter Gesinnung beraten Adelige und andere . ~ Würdenträger, während böse Magier an isolierten Orten leben, um ungestört unaussprechliche Experimente durch:i:uführen.
 
 ```statblock
-"name": "Mage"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "any race"
-"alignment": "Any alignment"
-"ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor.md)"
-"hp": !!int "40"
-"hit_dice": "9d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "9"
-  - !!int "14"
-  - !!int "11"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "6"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
-    "desc": "+6"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
-    "desc": "+6"
-"senses": "passive Perception 11"
-"languages": "any four languages"
-"cr": "6"
-"traits":
-  - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-      \ (spell save DC 14, +6 to hit with spell attacks). The mage has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/3-Mechanics/CLI/spells/fire-bolt.md),\
-      \ [light](/3-Mechanics/CLI/spells/light.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1st level\
-      \ (4 slots):** [detect magic](/3-Mechanics/CLI/spells/detect-magic.md), [mage\
-      \ armor](/3-Mechanics/CLI/spells/mage-armor.md), [magic missile](/3-Mechanics/CLI/spells/magic-missile.md),\
-      \ [shield](/3-Mechanics/CLI/spells/shield.md)\n\n**2nd level (3 slots):** [misty\
-      \ step](/3-Mechanics/CLI/spells/misty-step.md), [suggestion](/3-Mechanics/CLI/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/3-Mechanics/CLI/spells/counterspell.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball.md), [fly](/3-Mechanics/CLI/spells/fly.md)\n\
-      \n**4th level (3 slots):** [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility.md),\
-      \ [ice storm](/3-Mechanics/CLI/spells/ice-storm.md)\n\n**5th level (1 slots):**\
-      \ [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold.md)"
-    "name": "Spellcasting"
-"actions":
-  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
-    "name": "Dagger"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/mage.webp"
+name: Magier
+image: token/mage.webp
+source:
+  - MM
+size: Mittelgroß
+type: Humanoid
+subtype: Mensch
+alignment: jede Gesinnung
+ac: 12
+ac_class: 15 mit <STATBLOCK-MARKDOWN-LINK>Magierrüstung-phb|Magierrüstung<STATBLOCK-MARKDOWN-LINK>
+hp: 40
+hit_dice: 9d8
+modifier: 2
+stats:
+  - 9
+  - 14
+  - 11
+  - 17
+  - 12
+  - 11
+speed: 9 m
+saves:
+  - Intelligenz: 6
+  - Weisheit: 4
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
+    desc: "+6"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Geschichte|Geschichte<STATBLOCK-MARKDOWN-LINK>
+    desc: "+6"
+senses: passive Wahrnehmung 11
+languages: Vier Sprachen nach Wahl
+cr: "6"
+environment: Stadt
+traits:
+  - name: Zauberwirken
+    desc: |-
+      Der Magier ist ein Zauberwirker der 9. Stufe. Sein Attribut zum Zauberwirken ist Intelligenz (Zauberrettungswurf-SG 14, +6 zum Treffen mit Zauberangriffen). Der Magus hat die folgenden Magierzauber vorbereitet:
+
+      **Zaubertricks (beliebig oft):** <STATBLOCK-MARKDOWN-LINK>Feuerpfeil-phb|Feuerpfeil<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Licht-phb|Licht<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magierhand-phb|Magierhand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Taschenspielerei-phb|Taschenspielerei<STATBLOCK-MARKDOWN-LINK>
+
+      **1. Grad (4 Plätze):** <STATBLOCK-MARKDOWN-LINK>Magie_entdecken-phb|Magie entdecken<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magierrüstung-phb|Magierrüstung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magisches_Geschoss-phb|Magisches Geschoss<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Schild-phb|Schild<STATBLOCK-MARKDOWN-LINK>
+
+      **2. Grad (3 Plätze):** <STATBLOCK-MARKDOWN-LINK>Einflüsterung-phb|Einflüsterung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Nebelschritt-phb|Nebelschritt<STATBLOCK-MARKDOWN-LINK>
+
+      **3. Grad (3 Plätze):** <STATBLOCK-MARKDOWN-LINK>Feuerball-phb|Feuerball<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Fliegen-phb|Fliegen<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Gegenzauber-phb|Gegenzauber<STATBLOCK-MARKDOWN-LINK>
+
+      **4. Grad (3 Plätze):** <STATBLOCK-MARKDOWN-LINK>Eissturm-phb|Eissturm<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Mächtige_Unsichtbarkeit-phb|Mächtige Unsichtbarkeit<STATBLOCK-MARKDOWN-LINK>
+
+      **5. Grad (1 Platz):** <STATBLOCK-MARKDOWN-LINK>Kältekegel-phb|Kältekegel<STATBLOCK-MARKDOWN-LINK>
+actions:
+  - name: Dolch
+    desc: "*Nahkampf- oder Fernkampf-Waffenangriff:* +5 zum Treffen, Reichweite 1,5m oder 6/18 m, ein Ziel. *Treffer:* 4 (1d4 + 2) Stichschaden."
 ```
 ^statblock
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Appendix A: Magic Items"
+  - "Appendix A: Magic Items"
 ---
 # Appendix A: Magic Items
 *Source: Netheril's Fall* 

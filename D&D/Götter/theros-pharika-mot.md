@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Pharika
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/life
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Pharika"
+  - "Pharika"
 ---
 # Pharika
 *Source: Mythic Odysseys of Theros p. 70* 

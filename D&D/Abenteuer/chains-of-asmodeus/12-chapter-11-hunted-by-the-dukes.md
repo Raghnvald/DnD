@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 11: Hunted by the Dukes"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 11: Hunted by the Dukes"
+  - "Chapter 11: Hunted by the Dukes"
 ---
 # Chapter 11: Hunted by the Dukes
 *Source: Chains of Asmodeus, p. 179* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Windfall
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/23
@@ -10,6 +11,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Windfall
+IMAGE: token/windfall-veor.webp
 linter-yaml-title-alias: Windfall
 ---
 # Windfall

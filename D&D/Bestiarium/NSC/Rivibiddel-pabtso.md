@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Rivibiddel
-Image: NSC/token/rivibiddel-pabtso.webp
+Image: token/rivibiddel-pabtso.webp
 linter-yaml-title-alias: Rivibiddel
 ---
 # Rivibiddel

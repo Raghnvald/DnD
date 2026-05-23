@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jerot Galgin
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: 9
+Habitat: /
+image: token/jerot-galgin-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -11,63 +17,61 @@ aliases:
   - Jerot Galgin
 linter-yaml-title-alias: Jerot Galgin
 ---
-# [Jerot Galgin](3-Mechanics\CLI\bestiary\npc/jerot-galgin-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# Jerot Galgin
+*Quelle: Vecna: Vorabend der Verdammnis*  
 
 ```statblock
-"name": "Jerot Galgin (VEoR)"
-"size": "Medium"
-"type": "humanoid"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"ac_class": "15 with mage armor"
-"hp": !!int "110"
-"hit_dice": "20d8 + 20"
-"modifier": !!int "2"
-"stats":
-  - !!int "9"
-  - !!int "14"
-  - !!int "12"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "7"
-  - "wisdom": !!int "5"
-"skillsaves":
-  - "name": "Arcana"
-    "desc": "+7"
-  - "name": "History"
-    "desc": "+7"
-"damage_resistances": "necrotic"
-"senses": "passive Perception 11"
-"languages": "any four languages"
-"cr": "9"
-"actions":
-  - "desc": "Jerot makes three Arcane Burst attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120\
-      \ ft., one target. *Hit:* 25 (4d10 + 3) necrotic damage."
-    "name": "Arcane Burst"
-  - "desc": "Jerot casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** dancing lights, mage hand, prestidigitation\n\
-      \n**2/day each:** bestow curse, dimension door, mage armor, web\n\n**1/day each:**\
-      \ circle of death"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "Jerot magically summons five [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton.md)\
-      \ or [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md). The summoned creatures\
-      \ appear in unoccupied spaces within 60 feet of Jerot, whom they obey. They\
-      \ take their turns immediately after Jerot. Each lasts for 1 hour, until it\
-      \ or Jerot dies, or until Jerot dismisses it as a bonus action."
-    "name": "Summon Undead (1/Day)"
-"reactions":
-  - "desc": "When Jerot kills a creature with necrotic damage, Jerot regains 9 (2d8)\
-      \ hit points. "
-    "name": "Grim Harvest (1/Turn)"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jerot-galgin-veor.webp"
+name: Jerot Galgin
+image: token/jerot-galgin-veor.webp
+source:
+  - VEoR
+size: Mittelgroß
+type: Humanoid
+alignment: jede Gesinnung
+ac: 12
+ac_class: 15 mit <STATBLOCK-MARKDOWN-LINK>Magierrüstung-phb|Magierrüstung<STATBLOCK-MARKDOWN-LINK>
+hp: 110
+hit_dice: 20d8 + 20
+modifier: 2
+stats:
+  - 9
+  - 14
+  - 12
+  - 17
+  - 12
+  - 11
+speed: 9 m
+saves:
+  - Intelligenz: 7
+  - Weisheit: 5
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
+    desc: "+7"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Geschichte|Geschichte<STATBLOCK-MARKDOWN-LINK>
+    desc: "+7"
+damage_resistances: Nekrotisch
+senses: passive Wahrnehmung 11
+languages: Vier beliebige Sprachen
+cr: "9"
+actions:
+  - name: Mehrfachangriff
+    desc: Jerot führt drei Arkane-Explosion-Angriffe aus. 
+  - name: Arkane Explosion
+    desc: "*Nahkampf- oder Fernkampf-Zauberangriff:* +7 auf Treffer, Reichweite 1,5 m oder 36 m, ein Ziel. *Treffer:* 25 (4d10 + 3) nekrotischer Schaden."
+  - name: Zauberwirken
+    desc: |-
+      Jerot wirkt einen der folgenden Zauber und verwendet Intelligenz als Attribut zum Zauberwirken (SG-15-Zauberrettungswurf): 
+
+      **Beliebig oft:** <STATBLOCK-MARKDOWN-LINK>Magierhand-phb|Magierhand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Tanzende_Lichter-phb|Tanzende Lichter<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Taschenspielerei-phb|Taschenspielerei<STATBLOCK-MARKDOWN-LINK>
+
+      **jeweils 2/Tag:** <STATBLOCK-MARKDOWN-LINK>Dimensionstür-phb|Dimensionstür<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Fluch-phb|Fluch<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magierrüstung-phb|Magierrüstung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Spinnennetz-phb|Spinnennetz<STATBLOCK-MARKDOWN-LINK>
+
+      **jeweils 1/Tag:** <STATBLOCK-MARKDOWN-LINK>Todeskreis-phb|Todeskreis<STATBLOCK-MARKDOWN-LINK>
+bonus_actions:
+  - name: Untote beschwören (1/Tag)
+    desc: Jerot verwendet Magie, um fünf <STATBLOCK-MARKDOWN-LINK>Skelett-mm|Skelette<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>Zombie-mm|Zombies<STATBLOCK-MARKDOWN-LINK> zu beschwören. Die beschworenen Kreaturen erscheinen in einem freien Bereich innerhalb von 18 Metern von Jerot und gehorchen seinen Befehlen. Ihre Züge geschehen direkt nach dem Jerots. Jede Kreatur bleibt eine Stunde lang bestehen, bis sie oder der Nekromant stirbt, oder bis der Nekromant sie als Bonusaktion entlässt. 
+reactions:
+  - name: Grausame Ernte
+    desc: "Wenn Jerot eine Kreatur mit nekrotischem Schaden tötet, erhält der Nekromant 9 (2d8) Trefferpunkte zurück. "
 ```
 ^statblock

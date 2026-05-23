@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Mark of Storm
 tags:
-- ttrpg-cli/spell/list/feat/mark-of-storm
+  - ttrpg-cli/spell/list/feat/mark-of-storm
 aliases:
-- "Spells for Mark of Storm"
+  - "Spells for Mark of Storm"
 ---
 # Spells for Mark of Storm
 

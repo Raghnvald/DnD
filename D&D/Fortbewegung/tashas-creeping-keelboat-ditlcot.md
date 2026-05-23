@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: "Tasha's Creeping Keelboat"
 tags:
-- ttrpg-cli/compendium/src/5e/ditlcot
-- ttrpg-cli/vehicle/size/gargantuan
-- ttrpg-cli/vehicle/terrain/sea
-- ttrpg-cli/vehicle/type/object
+  - Quelle/5e/ditlcot
+  - ttrpg-cli/vehicle/size/gargantuan
+  - ttrpg-cli/vehicle/terrain/sea
+  - ttrpg-cli/vehicle/type/object
 aliases:
-- "Tasha's Creeping Keelboat"
+  - "Tasha's Creeping Keelboat"
 ---
 # Tasha's Creeping Keelboat
 *Source: Descent into the Lost Caverns of Tsojcanth p. 15*  

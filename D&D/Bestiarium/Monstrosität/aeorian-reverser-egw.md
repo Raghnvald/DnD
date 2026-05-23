@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aeorian Reverser
+Kategorie: Monstrosität
+Größe: Groß
+HG: "8"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

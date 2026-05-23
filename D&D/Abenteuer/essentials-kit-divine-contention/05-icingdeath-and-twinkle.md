@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Icingdeath and Twinkle
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Icingdeath and Twinkle"
+  - "Icingdeath and Twinkle"
 ---
 # Icingdeath and Twinkle
 *Source: Essentials Kit: Divine Contention* 

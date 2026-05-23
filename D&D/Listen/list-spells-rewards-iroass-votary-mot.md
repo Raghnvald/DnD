@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Iroas's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/iroass-votary
+  - ttrpg-cli/spell/list/reward/iroass-votary
 aliases:
-- "Spells for Iroas's Votary"
+  - "Spells for Iroas's Votary"
 ---
 # Spells for Iroas's Votary
 

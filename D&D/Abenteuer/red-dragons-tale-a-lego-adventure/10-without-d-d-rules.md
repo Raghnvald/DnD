@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Without D&D Rules
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Without D&D Rules"
+  - "Without D&D Rules"
 ---
 # Without D&D Rules
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 13* 

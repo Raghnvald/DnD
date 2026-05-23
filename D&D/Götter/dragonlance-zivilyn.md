@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Zivilyn
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/deity/dragonlance
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/dsotdq
 aliases:
-- "Zivilyn"
+  - "Zivilyn"
 ---
 # Zivilyn
 *Source: Dragonlance: Shadow of the Dragon Queen p. 17* 

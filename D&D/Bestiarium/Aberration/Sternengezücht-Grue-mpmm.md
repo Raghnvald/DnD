@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Star Spawn Grue
+Kategorie: Aberration
+Größe: Klein
+HG: 1/4
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

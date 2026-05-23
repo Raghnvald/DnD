@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Eldath
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Eldath"
-- "The Guardian of Groves"
-- "The Quiet One"
-- "The Mother of the Waters"
+  - "Eldath"
+  - "The Guardian of Groves"
+  - "The Mother of the Waters"
+  - "The Quiet One"
 ---
 # Eldath
 *Source: Forgotten Realms: Heroes of Faerûn p. 106* 

@@ -7,6 +7,7 @@ Größe: Winzig
 HG: 3
 Habitat:
   - /
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/3

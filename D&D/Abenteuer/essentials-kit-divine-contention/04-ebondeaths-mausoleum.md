@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Ebondeath's Mausoleum"
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Ebondeath's Mausoleum"
+  - "Ebondeath's Mausoleum"
 ---
 # Ebondeath's Mausoleum
 *Source: Essentials Kit: Divine Contention* 

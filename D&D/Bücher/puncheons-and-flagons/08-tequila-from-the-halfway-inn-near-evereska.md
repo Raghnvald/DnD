@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Tequila from The Halfway Inn near Evereska
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Tequila from The Halfway Inn near Evereska"
+  - "Tequila from The Halfway Inn near Evereska"
 ---
 # Tequila from The Halfway Inn near Evereska
 *Source: Puncheons and Flagons, p. 83* 

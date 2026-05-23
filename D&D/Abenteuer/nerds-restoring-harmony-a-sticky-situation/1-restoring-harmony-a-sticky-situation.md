@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Restoring Harmony: A Sticky Situation"
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-ass
+  - Quelle/5e/nrh-ass
 aliases:
-- "Restoring Harmony: A Sticky Situation"
+  - "Restoring Harmony: A Sticky Situation"
 ---
 # Restoring Harmony: A Sticky Situation
 *Source: NERDS Restoring Harmony: A Sticky Situation, p. 2* 

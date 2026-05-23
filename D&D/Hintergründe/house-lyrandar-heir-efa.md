@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: House Lyrandar Heir
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Hintergrund
+  - Quelle/5e/efa
 aliases:
-- "House Lyrandar Heir"
+  - "House Lyrandar Heir"
 ---
 # House Lyrandar Heir
 *Source: Eberron: Forge of the Artificer p. 29*  

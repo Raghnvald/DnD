@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Vampires Own the Night"
 tags:
-- ttrpg-cli/compendium/src/5e/abh
+  - Quelle/5e/abh
 aliases:
-- "Introduction: Vampires Own the Night"
+  - "Introduction: Vampires Own the Night"
 ---
 # Introduction: Vampires Own the Night
 *Source: Astarion's Book of Hungers* 

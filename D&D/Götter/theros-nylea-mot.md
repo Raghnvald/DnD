@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Nylea
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/nature
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Nylea"
+  - "Nylea"
 ---
 # Nylea
 *Source: Mythic Odysseys of Theros p. 67* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix C: Necromancer's Journal"
 tags:
-- ttrpg-cli/compendium/src/5e/sdw
+  - Quelle/5e/sdw
 aliases:
-- "Appendix C: Necromancer's Journal"
+  - "Appendix C: Necromancer's Journal"
 ---
 # Appendix C: Necromancer's Journal
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

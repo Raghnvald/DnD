@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Scorpion Ship
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/vehicle/terrain/land
-- ttrpg-cli/vehicle/terrain/space
-- ttrpg-cli/vehicle/type/spelljammer
+  - Quelle/5e/aag
+  - ttrpg-cli/vehicle/terrain/land
+  - ttrpg-cli/vehicle/terrain/space
+  - ttrpg-cli/vehicle/type/spelljammer
 aliases:
-- "Scorpion Ship"
+  - "Scorpion Ship"
 ---
 # Scorpion Ship
 *Source: Astral Adventurer's Guide p. 42*  

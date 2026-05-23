@@ -1,7 +1,14 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Ghost
+Bezeichnung: Geist
+Kategorie: Untoter
+Größe: Mittelgroß
+HG: 4
+Habitat:
+  - Stadt
+  - Unterreich
+image: token/ghost.webp
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,106 +19,72 @@ tags:
 aliases:
   - Ghost
 linter-yaml-title-alias: Ghost
+Status: completed
 ---
-# [Ghost](3-Mechanics\CLI\bestiary\undead/ghost.md)
-*Source: Monster Manual p. 147. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# Geist
+*Quelle: Monsterhandbuch  S. 132. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  
 
-A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
+Ein Geist ist die Seele einer einst lebenden Kreatur, die gebunden ist, einen bestimmten Ort, eine Kreatur oder einen Gegenstand heimzusuchen, der ihr im Leben wichtig war.
 
-## Unfinished Business
+## Unerledigte Aufgaben
 
-A ghost yearns to complete some unresolved task from its life. It might seek to avenge its own death, fulfill an oath, or relay a message to a loved one. A ghost might not realize that it has died and continue the everyday routine of its life. Others are driven by wickedness or spite, as with a ghost that refuses to rest until every member of a certain family or organization is dead.
+Ein Geist sehnt sich danach, eine unerledigte Aufgabe aus seinem Leben zu erfüllen. Er könnte seinen Tod rächen, einen Eid erfüllen oder einem geliebten Menschen eine Nachricht überbringen wollen. Ein Geist begreift vielleicht nicht, dass er gestorben ist, und folgt weiter den alltäglichen Routinen seines Lebens. Andere werden von Bösartigkeit oder Gehässigkeit angetrieben, wie bei einem Geist, der nicht ruhen will, bis alle Mitglieder einer bestimmten Familie oder Organisation tot sind.
 
-The surest way to rid an area of a ghost is to resolve its unfinished business. A ghost can be destroyed more easily by invoking a weakness tied to its former life. The ghost of a person tortured to death might be killed again by the implements of that torture. The ghost of a gardener might become more vulnerable when exposed to a potent floral fragrance.
+Die sicherste Methode, um einen Geist loszuwerden, besteht darin, seine unerledigte Aufgabe zu erfüllen. Ein Geist kann leichter zerstört werden, indem man eine Schwäche nutzt, die mit seinem früheren Leben verbunden ist. Der Geist einer Person, die zu Tode gefoltert worden ist, könnte durch diese Folter erneut getötet werden. Der Geist eines Gärtners könnte verwundbarer werden, wenn er dem starken Duft von Blumen ausgesetzt ist.
 
-## Ghostly Manifestations
+## Gespenstische Manifestationen
 
-Sensations of profound sadness, loneliness, and unfulfilled yearning emanate from places where ghostly hauntings occur. Strange sounds or unnatural silences create an unsettling atmosphere. Cold spots settle in rooms that have roaring fires. A choking stench might seep into the area, inanimate objects might move of their own accord, and corpses might rise from the grave. The ghost has no control over these manifestations; they simply occur.
+Empfindungen von tiefer Trauer, Einsamkeit und unerfüllter Sehnsucht gehen von Orten aus, an denen es zu Geistererscheinungen kommt. Seltsame Geräusche oder unnatürliche Stille erschaffen eine unheimliche Atmosphäre. Kalte Flecken breiten sich in Räumen mit einem prasselnden Feuer aus. Ein erstickender Gestank könnte in einen Bereich eindringen, unbelebte Gegenstände könnten sich selbstständig bewegen und Leichen könnten sich aus ihren Gräbern erheben. Der Geist hat keine Kontrolle über diese Manifestationen; sie treten einfach ein.
 
-## Undead Nature
+## Untote Natur
 
-A ghost doesn't require air, food, drink, or sleep.
+Ein Geist braucht keine Luft, Nahrung, Wasser oder Schlaf.
 
 ```statblock
-"name": "Ghost"
-"size": "Medium"
-"type": "undead"
-"alignment": "Any alignment"
-"ac": !!int "11"
-"hp": !!int "45"
-"hit_dice": "10d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "7"
-  - !!int "13"
-  - !!int "10"
-  - !!int "10"
-  - !!int "12"
-  - !!int "17"
-"speed": "0 ft., fly 40 ft. (hover)"
-"damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
-  \ from nonmagical attacks"
-"damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
-"languages": "any languages it knew in life"
-"cr": "4"
-"traits":
-  - "desc": "The ghost can see 60 feet into the Ethereal Plane when it is on the Material\
-      \ Plane, and vice versa."
-    "name": "Ethereal Sight"
-  - "desc": "The ghost can move through other creatures and objects as if they were\
-      \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
-      \ an object."
-    "name": "Incorporeal Movement"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17\
-      \ (4d6 + 3) necrotic damage."
-    "name": "Withering Touch"
-  - "desc": "The ghost enters the Ethereal Plane from the Material Plane, or vice\
-      \ versa. It is visible on the Material Plane while it is in the Border Ethereal,\
-      \ and vice versa, yet it can't affect or be affected by anything on the other\
-      \ plane."
-    "name": "Etherealness"
-  - "desc": "Each non-undead creature within 60 feet of the ghost that can see it\
-      \ must succeed on a DC 13 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10\
-      \ years. A [frightened](/3-Mechanics/CLI/conditions.md#Frightened) target can\
-      \ repeat the saving throw at the end of each of its turns, ending the [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ condition on itself on a success. If a target's saving throw is successful\
-      \ or the effect ends for it, the target is immune to this ghost's Horrifying\
-      \ Visage for the next 24 hours. The aging effect can be reversed with a  [greater\
-      \ restoration](/3-Mechanics/CLI/spells/greater-restoration.md) spell, but only\
-      \ within 24 hours of it occurring."
-    "name": "Horrifying Visage"
-  - "desc": "One humanoid that the ghost can see within 5 feet of it must succeed\
-      \ on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then\
-      \ disappears, and the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ and loses control of its body. The ghost now controls the body but doesn't\
-      \ deprive the target of awareness. The ghost can't be targeted by any attack,\
-      \ spell, or other effect, except ones that turn undead, and it retains its alignment,\
-      \ Intelligence, Wisdom, Charisma, and immunity to being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ and [frightened](/3-Mechanics/CLI/conditions.md#Frightened). It otherwise\
-      \ uses the possessed target's statistics, but doesn't gain access to the target's\
-      \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
-      \ the body drops to 0 hit points, the ghost ends it as a bonus action, or the\
-      \ ghost is turned or forced out by an effect like the [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
-      \ spell. When the possession ends, the ghost reappears in an unoccupied space\
-      \ within 5 feet of the body. The target is immune to this ghost's Possession\
-      \ for 24 hours after succeeding on the saving throw or after the possession\
-      \ ends."
-    "name": "Possession (Recharge 6)"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ghost.webp"
+name: Geist
+image: token/ghost.webp
+source:
+  - MM
+size: Mittelgroß
+type: Untot
+alignment: jede Gesinnung
+ac: 11
+hp: 45
+hit_dice: 10d8
+modifier: 1
+stats:
+  - 7
+  - 13
+  - 10
+  - 10
+  - 12
+  - 17
+speed: 0 m, fliegen 12 m (schweben)
+damage_resistances: Blitz, Feuer, Säure, Schall; Wucht-, Stichund Hiebschaden durch nichtmagische Angriffe
+damage_immunities: Gift, Kälte, nekrotisch
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#erschöpft|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#liegend|liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#verängstigt|verängstigt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#versteinert|versteinert<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 11
+languages: Alle Sprachen die er im Leben kannte
+cr: "4"
+environment: Stadt, Unterreich
+traits:
+  - name: Ätherische Sicht
+    desc: Der Geist kann 18 min die Ätherebene blicken, wenn er sich auf der Materiellen Ebene befindet, und andersherum.
+  - name: Körperlose Bewegung
+    desc: Der Geist kann sich durch Kreaturen und Gegenstände bewegen, als seien sie schwieriges Gelände. Er erleidet 5 (1d10) Energieschaden, wenn er seinen Zug in einem Gegenstand beendet.
+actions:
+  - name: Verdorrende Berührung
+    desc: "*Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 17 (4d6 + 3) nekrotischer Schaden."
+  - name: Körperlosigkeit
+    desc: Der Geist kann die Ätherebene von der Materiellen Ebene aus betreten und andersherum. Er ist auf der Materiellen Ebene sichtbar, solange er sich in der Äthergrenze befindet, doch kann er nichts auf der anderen Ebene beeinflussen oder beeinflusst werden.
+  - name: Grauenhaftes Antlitz
+    desc: Alle nicht untoten Kreaturen im Umkreis von 18 m um den Geist, die ihn sehen können, müssen einen Weisheits-Rettungswurf gegen SG 13 schaffen, um nicht für 1 Minute <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Verängstigt|verängstigt<STATBLOCK-MARKDOWN-LINK> zu werden. Wenn der Rettungswurf um 5 oder mehr Punkte misslingt, altert das Ziel außerdem um 1d4 × 10 Jahre. Die Kreatur kann den gleichen Rettungswurf am Ende eines jeden Zuges wiederholen und den Effekt auf sich selbst bei einem Erfolg beenden. Wenn der Rettungswurf des Ziels erfolgreich ist oder der Effekt für es endet, ist es für die nächsten 24 Stunden gegen das Grauenhafte Antlitz des Geistes immun. Der Alterungseffekt kann mit dem Zauber <STATBLOCK-MARKDOWN-LINK>Vollständige_Genesung-phb|Vollständige Genesung<STATBLOCK-MARKDOWN-LINK> umgekehrt werden, aber nur innerhalb von 24 Stunden, nachdem er eingetreten ist.
+  - name: Inbesitznahme (Aufladung 6)
+    desc: |-
+      Ein Humanoider, der sich innerhalb von 1,5 m um den Geist befindet und den dieser sehen kann, muss einen Charismarettungswurf gegen SG 13 schaffen, um nicht von dem Geist besessen zu werden; der Geist verschwindet, und das Ziel ist <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Kampfunfähig|kampfunfähig<STATBLOCK-MARKDOWN-LINK> und verliert die Kontrolle über seinen Körper. 
+
+      Der Geist kontrolliert jetzt den Körper, nimmt dem Ziel aber nicht sein Bewusstsein. Der Geist kann nicht Ziel von Angriffen, Zaubern oder anderen Effekten werden, außer solchen, die Untote vertreiben, und er behält seine Gesinnung, Intelligenz, Weisheit, Charisma sowie seine Immunität gegen die Zustände <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|bezaubert<STATBLOCK-MARKDOWN-LINK> und <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Verängstigt|verängstigt<STATBLOCK-MARKDOWN-LINK>. Er verwendet ansonsten die Spielwerte des besessenen Ziels, erhält aber keinen Zugriff auf sein Wissen, seine Klassenmerkmale oder Übungsboni.
+
+      Die Inbesitznahme hält an, bis der Körper auf 0 TP fällt, der Geist sie als Bonusaktion beendet, oder der Geist vertrieben oder von einem Effekt wie dem Zauber <STATBLOCK-MARKDOWN-LINK>Gutes_und_Böses_bannen-phb|Gutes und Böses bannen<STATBLOCK-MARKDOWN-LINK> ausgetrieben wird. Wenn die Inbesitznahme endet, taucht der Geist in einem nicht besetzten Bereich innerhalb von 1,5 m um den Körper auf. Das Ziel ist für 24 Stunden nach Ende der Besessenheit oder einem erfolgreichem Rettungswurf gegen die Inbesitznahme durch diesen Geist immun.
 ```
 ^statblock
-
-## Environment
-
-underdark, urban

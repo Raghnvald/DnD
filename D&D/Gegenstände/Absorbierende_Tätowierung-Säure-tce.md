@@ -4,7 +4,6 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: /
-Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,6 +12,7 @@ tags:
 aliases:
   - Acid Absorbing Tattoo
 linter-yaml-title-alias: Acid Absorbing Tattoo
+Status: completed
 ---
 # Säure-Absorbierende Tätowierung
 *Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*

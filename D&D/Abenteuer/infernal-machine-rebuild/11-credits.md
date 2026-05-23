@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Infernal Machine Rebuild* 

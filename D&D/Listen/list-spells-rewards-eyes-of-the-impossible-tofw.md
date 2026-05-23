@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Eyes of the Impossible
 tags:
-- ttrpg-cli/spell/list/reward/eyes-of-the-impossible
+  - ttrpg-cli/spell/list/reward/eyes-of-the-impossible
 aliases:
-- "Spells for Eyes of the Impossible"
+  - "Spells for Eyes of the Impossible"
 ---
 # Spells for Eyes of the Impossible
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Crew
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Crew"
+  - "Crew"
 ---
 # Crew
 *Source: Astral Adventurer's Guide p. 24* 

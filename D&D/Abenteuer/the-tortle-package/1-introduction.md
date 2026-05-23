@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/ttp
+  - Quelle/5e/ttp
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: The Tortle Package, p. 2* 

@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Silverquill Student
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/scc
+  - Kompendium/Hintergrund
+  - Quelle/5e/scc
 aliases:
-- "Silverquill Student"
+  - "Silverquill Student"
 ---
 # Silverquill Student
 *Source: Strixhaven: A Curriculum of Chaos p. 35*  
-
 
 - **Skill Proficiencies.** [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
 - **Languages.** Two of your choice  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: "Habbakuk's Blessing"
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/dsotdq
 aliases:
-- "Habbakuk's Blessing"
+  - "Habbakuk's Blessing"
 ---
 # Habbakuk's Blessing
 *Charm*  

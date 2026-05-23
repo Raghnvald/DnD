@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 04: Sharn Inquisitives"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Chapter 04: Sharn Inquisitives"
+  - "Chapter 04: Sharn Inquisitives"
 ---
 # Chapter 04: Sharn Inquisitives
 *Source: Eberron: Forge of the Artificer, p. 53* 

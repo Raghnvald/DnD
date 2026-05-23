@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Lords of the Nine"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Appendix A: Lords of the Nine"
+  - "Appendix A: Lords of the Nine"
 ---
 # Appendix A: Lords of the Nine
 *Source: Chains of Asmodeus, p. 214* 

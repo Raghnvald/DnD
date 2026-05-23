@@ -4,7 +4,6 @@ Kategorie: Abenteuerausrüstung
 Eigenschaften: /
 Kst.: 2 GM
 Gew.: 1,0 kg
-Status: completed
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -13,6 +12,7 @@ aliases:
   - Abacus
   - Abakus
 linter-yaml-title-alias: Abakus
+Status: completed
 ---
 # Abakus
 *Abenteuerausrüstung*

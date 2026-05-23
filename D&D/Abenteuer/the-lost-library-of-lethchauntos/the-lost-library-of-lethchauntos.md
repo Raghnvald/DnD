@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of The Lost Library of Lethchauntos
 ---
 # Index of The Lost Library of Lethchauntos
 

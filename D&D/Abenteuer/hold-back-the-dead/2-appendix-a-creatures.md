@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/hbtd
+  - Quelle/5e/hbtd
 aliases:
-- "Appendix A: Creatures"
+  - "Appendix A: Creatures"
 ---
 # Appendix A: Creatures
 *Source: Hold Back The Dead, p. 7* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Nonalcoholic Refreshments from The Hissing Stones in Baldur's Gate"
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Nonalcoholic Refreshments from The Hissing Stones in Baldur's Gate"
+  - "Nonalcoholic Refreshments from The Hissing Stones in Baldur's Gate"
 ---
 # Nonalcoholic Refreshments from The Hissing Stones in Baldur's Gate
 *Source: Puncheons and Flagons, p. 168* 

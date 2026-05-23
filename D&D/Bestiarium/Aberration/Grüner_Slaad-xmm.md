@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Green Slaad
+Kategorie: Aberration
+Größe: Groß
+HG: 8
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/limbo

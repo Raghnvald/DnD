@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: House Medani Heir
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Hintergrund
+  - Quelle/5e/efa
 aliases:
-- "House Medani Heir"
+  - "House Medani Heir"
 ---
 # House Medani Heir
 *Source: Eberron: Forge of the Artificer p. 30*  

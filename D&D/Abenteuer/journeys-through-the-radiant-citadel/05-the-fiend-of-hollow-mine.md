@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Fiend of Hollow Mine
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "The Fiend of Hollow Mine"
+  - "The Fiend of Hollow Mine"
 ---
 # The Fiend of Hollow Mine
 *Source: Journeys through the Radiant Citadel, p. 48* 

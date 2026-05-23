@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Critical Role: Call of the Netherdeep* 

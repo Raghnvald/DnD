@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Boon of Peerless Aim
 tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/reward/boon
+  - Kompendium/Belohnung/boon
+  - Quelle/5e/dmg
 aliases:
-- "Boon of Peerless Aim"
+  - "Boon of Peerless Aim"
 ---
 # Boon of Peerless Aim
 

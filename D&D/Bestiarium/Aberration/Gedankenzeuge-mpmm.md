@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gedankenzeuge
+Kategorie: Aberration
+Größe: Groß
+HG: 5
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

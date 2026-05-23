@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Amigurumi
 tags:
-- ttrpg-cli/compendium/src/5e/cabomp
+  - Quelle/5e/cabomp
 aliases:
-- "Amigurumi"
+  - "Amigurumi"
 ---
 # Amigurumi
 *Source: Crochet: A Book of Many Patterns, p. 11* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Adventure Atlas: The Mortuary"
 tags:
-- ttrpg-cli/compendium/src/5e/aatm
+  - Quelle/5e/aatm
 aliases:
-- "Adventure Atlas: The Mortuary"
+  - "Adventure Atlas: The Mortuary"
 ---
 # Adventure Atlas: The Mortuary
 *Source: Adventure Atlas: The Mortuary* 

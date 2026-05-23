@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Character Creation
 tags:
-- ttrpg-cli/compendium/src/5e/mot
+  - Quelle/5e/mot
 aliases:
-- "Character Creation"
+  - "Character Creation"
 ---
 # Character Creation
 *Source: Mythic Odysseys of Theros, p. 11* 

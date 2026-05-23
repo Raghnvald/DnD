@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Innistrad; Gavony)
 tags:
-- ttrpg-cli/compendium/src/5e/psi
-- ttrpg-cli/race/human/innistrad-gavony
+  - Quelle/5e/psi
+  - Rasse/human/innistrad-gavony
 aliases:
-- "Human (Innistrad; Gavony)"
+  - "Human (Innistrad; Gavony)"
 ---
 # Human (Innistrad; Gavony)
 *Source: Plane Shift: Innistrad p. 8*  
@@ -39,7 +37,6 @@ You can speak, read, and write Common and one extra language of your choice.
 Whether safe behind the walls of the High City of Thraben or out in the moors with little more than shuttered windows, barred doors, and grim determination to stand against the horrors of the night, the humans of Gavony are the most well-rounded people of Innistrad.
 
 Innistrad's population is mostly human, and player characters in an Innistrad campaign should be human in most circumstances. However, the humans of Kessig are different in many respects from those of Gavony, and Nephalia's urban culture is very distinct from the shadow-draped land of Stensia. Diversity among player characters comes not from race, but from each character's home province.
-
 
 > [!gallery]
 ![Silverblade Paladin](3-Mechanics/CLI/races/img/innistrad2.webp)

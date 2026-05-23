@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Merfolk (Zendikar; Ula Creed)
 tags:
-- ttrpg-cli/spell/list/subrace/merfolk-zendikar-ula-creed
+  - ttrpg-cli/spell/list/subrace/merfolk-zendikar-ula-creed
 aliases:
-- "Spells for Merfolk (Zendikar; Ula Creed)"
+  - "Spells for Merfolk (Zendikar; Ula Creed)"
 ---
 # Spells for Merfolk (Zendikar; Ula Creed)
 

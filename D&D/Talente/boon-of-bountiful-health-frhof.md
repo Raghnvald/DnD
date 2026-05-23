@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Boon of Bountiful Health
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Boon of Bountiful Health"
+  - "Boon of Bountiful Health"
 ---
 # Boon of Bountiful Health
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

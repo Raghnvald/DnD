@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Knight
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 8
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/astral

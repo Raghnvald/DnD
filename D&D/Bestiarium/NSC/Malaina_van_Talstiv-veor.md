@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Malaina van Talstiv
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: 8
+Habitat: /
+image: token/malaina-van-talstiv-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

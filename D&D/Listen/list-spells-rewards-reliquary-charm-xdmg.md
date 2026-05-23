@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Reliquary Charm
 tags:
-- ttrpg-cli/spell/list/reward/reliquary-charm
+  - ttrpg-cli/spell/list/reward/reliquary-charm
 aliases:
-- "Spells for Reliquary Charm"
+  - "Spells for Reliquary Charm"
 ---
 # Spells for Reliquary Charm
 

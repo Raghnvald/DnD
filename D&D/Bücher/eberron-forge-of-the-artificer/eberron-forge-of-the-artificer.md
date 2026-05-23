@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Eberron Forge of the Artificer
 ---
 # Index of Eberron Forge of the Artificer
 

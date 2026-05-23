@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Acq Inc"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Appendix A: Acq Inc"
+  - "Appendix A: Acq Inc"
 ---
 # Appendix A: Acq Inc
 *Source: Acquisitions Incorporated, p. 196* 

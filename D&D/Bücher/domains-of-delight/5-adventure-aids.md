@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Adventure Aids
 tags:
-- ttrpg-cli/compendium/src/5e/dod
+  - Quelle/5e/dod
 aliases:
-- "Adventure Aids"
+  - "Adventure Aids"
 ---
 # Adventure Aids
 *Source: Domains of Delight, p. 24* 

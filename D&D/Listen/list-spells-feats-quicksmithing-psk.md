@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Quicksmithing
 tags:
-- ttrpg-cli/spell/list/feat/quicksmithing
+  - ttrpg-cli/spell/list/feat/quicksmithing
 aliases:
-- "Spells for Quicksmithing"
+  - "Spells for Quicksmithing"
 ---
 # Spells for Quicksmithing
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Athreos's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/athreoss-votary
+  - ttrpg-cli/spell/list/reward/athreoss-votary
 aliases:
-- "Spells for Athreos's Votary"
+  - "Spells for Athreos's Votary"
 ---
 # Spells for Athreos's Votary
 

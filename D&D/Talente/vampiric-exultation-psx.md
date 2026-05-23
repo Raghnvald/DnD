@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Vampiric Exultation
 tags:
-- ttrpg-cli/compendium/src/5e/psx
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/psx
 aliases:
-- "Vampiric Exultation"
+  - "Vampiric Exultation"
 ---
 # Vampiric Exultation
 *Source: Plane Shift: Ixalan p. 14*  

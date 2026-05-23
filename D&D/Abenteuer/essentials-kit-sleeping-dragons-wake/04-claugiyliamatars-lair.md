@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Claugiyliamatar's Lair"
 tags:
-- ttrpg-cli/compendium/src/5e/sdw
+  - Quelle/5e/sdw
 aliases:
-- "Claugiyliamatar's Lair"
+  - "Claugiyliamatar's Lair"
 ---
 # Claugiyliamatar's Lair
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

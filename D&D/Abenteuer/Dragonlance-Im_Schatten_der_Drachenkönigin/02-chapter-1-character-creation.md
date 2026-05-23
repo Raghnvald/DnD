@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Chapter 1: Character Creation
 ---

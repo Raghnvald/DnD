@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uvashar
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Uvashar
+IMAGE: token/uvashar-veor.webp
 linter-yaml-title-alias: Uvashar
 ---
 # [Uvashar](3-Mechanics\CLI\bestiary\npc/uvashar-veor.md)

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Spellfire Initiate
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Spellfire Initiate"
+  - "Spellfire Initiate"
 ---
 # Spellfire Initiate
 *Source: Forgotten Realms: Heroes of Faerûn p. 36*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spelljammer Academy: Realmspace Sortie!"
 tags:
-- ttrpg-cli/compendium/src/5e/sja
+  - Quelle/5e/sja
 aliases:
-- "Spelljammer Academy: Realmspace Sortie!"
+  - "Spelljammer Academy: Realmspace Sortie!"
 ---
 # Spelljammer Academy: Realmspace Sortie!
 *Source: Spelljammer Academy* 

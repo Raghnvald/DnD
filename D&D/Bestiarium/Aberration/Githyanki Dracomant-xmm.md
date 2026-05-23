@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Dracomancer
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 16
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/astral

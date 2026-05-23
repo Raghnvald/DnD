@@ -2,11 +2,16 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cosmic Horror
+Kategorie: Aberration
+Größe: Gigantisch
+HG: 18
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/18
   - Monster/Typ/aberration
   - Quelle/5e/bam
+  - Quelle/5e/veor
 aliases:
   - Cosmic Horror
 ---

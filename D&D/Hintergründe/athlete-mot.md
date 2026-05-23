@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Athlete
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/mot
+  - Kompendium/Hintergrund
+  - Quelle/5e/mot
 aliases:
-- "Athlete"
+  - "Athlete"
 ---
 # Athlete
 *Source: Mythic Odysseys of Theros p. 31*  

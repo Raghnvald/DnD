@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Allosaurus
+Kategorie: Tier
+Größe: Groß
+HG: "2"
+Habitat:
+  - Grasland
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

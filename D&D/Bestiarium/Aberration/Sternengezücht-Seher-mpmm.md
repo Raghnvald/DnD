@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Star Spawn Seer
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 13
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

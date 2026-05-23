@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Outlands Envoy
 tags:
-- ttrpg-cli/compendium/src/5e/sato
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/sato
 aliases:
-- "Outlands Envoy"
+  - "Outlands Envoy"
 ---
 # Outlands Envoy
 *Source: Sigil and the Outlands p. 10*  

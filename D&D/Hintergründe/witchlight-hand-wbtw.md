@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Witchlight Hand
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/wbtw
+  - Kompendium/Hintergrund
+  - Quelle/5e/wbtw
 aliases:
-- "Witchlight Hand"
+  - "Witchlight Hand"
 ---
 # Witchlight Hand
 *Source: The Wild Beyond the Witchlight p. 11*  

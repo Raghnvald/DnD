@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Goblin (Zendikar; Grotag Tribe)
 tags:
-- ttrpg-cli/compendium/src/5e/psz
-- ttrpg-cli/race/goblin/zendikar-grotag-tribe
+  - Quelle/5e/psz
+  - Rasse/goblin/zendikar-grotag-tribe
 aliases:
-- "Goblin (Zendikar; Grotag Tribe)"
+  - "Goblin (Zendikar; Grotag Tribe)"
 ---
 # Goblin (Zendikar; Grotag Tribe)
 *Source: Plane Shift: Zendikar p. 17*  
@@ -59,6 +57,5 @@ Goblins are associated with red mana. Their shamans are fond of spells that crea
 A typical goblin stands between three-and-a-half and five feet tall, with a slender, elongated build. Goblins' arms are unusually long and spindly, making them adept at climbing cliffs and trees. Their skin has a stony texture, ranging in color from red-brown to moss green or gray. Their ears are large and swept back, their eyes are intensely red, and many sport heavy bone protrusions on their spines or elbows. Males have similar growths jutting from their chins, while females have heavier growths on their foreheads.
 
 This distinctive appearance is a direct result of the goblins' unusual diet. Before the Eldrazi's rise, goblins supplemented their normal diet with a kind of rock they pounded into bits and called "grit." The presence of the Eldrazi in Zendikar has poisoned this rock, so the goblins have taken to eating powdered hedrons instead. Eating this magic-infused stone has given the goblins resistance to the maddening psychic emanations of the Eldrazi. As an added benefit, it toughens their skin, protecting them from the elements and from physical dangers.
-
 
 ![Slab Hammer](3-Mechanics/CLI/races/img/goblin2.webp#center)

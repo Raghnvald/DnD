@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix E: Story Concept Art"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Appendix E: Story Concept Art"
+  - "Appendix E: Story Concept Art"
 ---
 # Appendix E: Story Concept Art
 *Source: Critical Role: Call of the Netherdeep, p. 219* 

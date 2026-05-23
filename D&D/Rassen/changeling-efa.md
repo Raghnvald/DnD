@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Changeling
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/changeling
+  - Quelle/5e/efa
+  - Rasse/changeling
 aliases:
-- "Changeling"
+  - "Changeling"
 ---
 # Changeling
 *Source: Eberron: Forge of the Artificer p. 34*  

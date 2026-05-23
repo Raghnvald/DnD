@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Storm Herald
+Kategorie: Aberration
+Größe: Riesig
+HG: 17
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17

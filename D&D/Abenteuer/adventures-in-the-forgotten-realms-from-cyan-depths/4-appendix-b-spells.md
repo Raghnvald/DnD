@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Spells"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-fcd
+  - Quelle/5e/aitfr-fcd
 aliases:
-- "Appendix B: Spells"
+  - "Appendix B: Spells"
 ---
 # Appendix B: Spells
 *Source: Adventures in the Forgotten Realms: From Cyan Depths, p. 11* 

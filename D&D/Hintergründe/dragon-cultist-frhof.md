@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Dragon Cultist
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Dragon Cultist"
+  - "Dragon Cultist"
 ---
 # Dragon Cultist
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  

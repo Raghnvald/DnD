@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Amonkhet)
 tags:
-- ttrpg-cli/compendium/src/5e/psa
-- ttrpg-cli/race/human/amonkhet
+  - Quelle/5e/psa
+  - Rasse/human/amonkhet
 aliases:
-- "Human (Amonkhet)"
+  - "Human (Amonkhet)"
 ---
 # Human (Amonkhet)
 *Source: Plane Shift: Amonkhet p. 14*  
@@ -69,6 +67,5 @@ Most human initiates focus their studies on a single specialization—hand-to-ha
 Some humans, however, apply the idea of perfection through balance to these combat specializations as well, fusing multiple styles together into a unique blend. For example, a human [initiate](3-Mechanics/CLI/backgrounds/initiate-psa.md) might use spells to shape sand into a sword or to wreathe arrows with life-draining magic. Other [initiates](3-Mechanics/CLI/backgrounds/initiate-psa.md) strike with an axe in one hand while throwing smaller axes with the other, employing techniques of both hand-to-hand and long-range combat. Some humans use slings to launch fireballs, create illusory nets to restrain their opponents, or craft their blades from solid toxins.
 
 The humans of Amonkhet use the [variant human](3-Mechanics/CLI/races/human-variant.md) traits presented in the "Player's Handbook". This allows them greater specialization from the very beginning of their careers, and emphasizes the diversity of the human race.
-
 
 ![Victory](3-Mechanics/CLI/races/img/human-amonkhet-2.webp#center)

@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hashalaq Quori
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 9
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9

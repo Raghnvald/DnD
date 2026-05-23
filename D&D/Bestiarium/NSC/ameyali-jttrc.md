@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ameyali
+Kategorie: Humanoid (Mensch)
+Größe: Mittelgroß
+HG: "2"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

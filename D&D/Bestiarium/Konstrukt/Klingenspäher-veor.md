@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blade Scout
+Kategorie: Konstrukt (Kriegsgeschmiedet)
+Größe: Mittelgroß
+HG: 7
+Habitat: /
+image: token/blade-scout-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -10,7 +16,7 @@ tags:
 aliases:
   - Blade Scout
 ---
-# [Blade Scout](3-Mechanics\CLI\bestiary\construct/blade-scout-veor.md)
+# Blade Scout
 *Source: Vecna: Eve of Ruin p. 209*  
 
 Blade scouts are responsible for exploring and charting Mournland regions not yet claimed by the Lord of Blades' legions.

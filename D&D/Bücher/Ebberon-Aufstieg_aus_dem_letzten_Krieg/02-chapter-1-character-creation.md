@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation"
 tags:
-  - new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
   - Chapter 1: Character Creation
 ---

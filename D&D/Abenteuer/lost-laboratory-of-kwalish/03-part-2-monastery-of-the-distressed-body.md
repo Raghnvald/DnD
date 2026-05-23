@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 2: Monastery of the Distressed Body"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Part 2: Monastery of the Distressed Body"
+  - "Part 2: Monastery of the Distressed Body"
 ---
 # Part 2: Monastery of the Distressed Body
 *Source: Lost Laboratory of Kwalish, p. 8* 

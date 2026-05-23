@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/lmop
 aliases:
   - Evil Mage
-Image: humanoid/token/evil-mage-lmop.webp
+Image: token/evil-mage-lmop.webp
 ---
 # Evil Mage
 *Source: Lost Mine of Phandelver p. 57*  

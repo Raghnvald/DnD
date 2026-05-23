@@ -2,11 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Astral Dreadnought
+Kategorie: Monstrosität
+Größe: Gigantisch
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/21
   - Monster/Typ/Monstrosität/titan
   - Quelle/5e/mpmm
+  - Quelle/5e/veor
 aliases:
   - Astral Dreadnought
 ---

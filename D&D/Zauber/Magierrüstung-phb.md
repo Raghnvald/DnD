@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Mage Armor
+Bezeichnung: "Magierrüstung "
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
-Schaden:
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: 8 Stunden
+Angriff: /
+Schaden: /
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -28,16 +28,16 @@ aliases:
   - Mage Armor
 linter-yaml-title-alias: Mage Armor
 ---
-# Mage Armor
-*1st-level, Abjuration*  
+# Magierrüstung 
+*Bann des 1. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** Touch
-- **Components:** V, S, M (a piece of cured leather)
-- **Duration:** 8 hours
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** Berührung
+- **Komponenten:** V, G, M (ein Stück gehärtetes Leder)
+- **Wirkungsdauer:** 8 Stunden
 
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+Du berührst eine bereitwillige Kreatur, die keine Rüstung trägt. Schützende magische Energie umgibt sie, bis der Zauber endet. Die Basis-Rüstungsklasse des Ziels entspricht nun 13 + seinem Geschicklichkeitsmodifikator. Der Zauber endet, wenn das Ziel eine Rüstung anlegt oder du den Zauber mit einer Aktion aufhebst.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Magier](Listen/list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Zauberer](Listen/list-spells-classes-sorcerer.md)
 
-*Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 247. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

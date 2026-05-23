@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Kiri-Jolith
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/deity/dragonlance
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/dsotdq
 aliases:
-- "Kiri-Jolith"
+  - "Kiri-Jolith"
 ---
 # Kiri-Jolith
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

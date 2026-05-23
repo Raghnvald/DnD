@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 1: Mission to the Barrier Peaks"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Part 1: Mission to the Barrier Peaks"
+  - "Part 1: Mission to the Barrier Peaks"
 ---
 # Part 1: Mission to the Barrier Peaks
 *Source: Lost Laboratory of Kwalish, p. 3* 

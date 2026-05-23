@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Kor
 tags:
-- ttrpg-cli/compendium/src/5e/psz
-- ttrpg-cli/race/kor
+  - Quelle/5e/psz
+  - Rasse/kor
 aliases:
-- "Kor"
+  - "Kor"
 ---
 # Kor
 *Source: Plane Shift: Zendikar p. 10*  
@@ -61,6 +59,5 @@ Kor are associated with white mana, and their wizards and clerics employ spells 
 Kor are tall, slender humanoids with light hair and gray, blue-gray, or ivory skin. All kor have slightly pointed ears, and males have short, fleshy barbels on their chins. They paint softly glowing geometric patterns on their faces and bodies, suggestive of the shapes and design of the hedrons that appear across Zendikar. Their clothing tends to leave their arms and shoulders free to facilitate climbing, and they keep most of their gear in pouches and slings at their waists.
 
 The kor have a nonverbal language of hand signs and gestures that allows communication despite significant distance (particularly when augmented with whirling ropes) or howling winds. They also use this sign language among themselves when they wish to avoid being overheard, giving rise to misguided rumors that they are incapable of speech. When they do speak, they typically use as few words as possible to convey their meaning.
-
 
 ![Kor Entanglers](3-Mechanics/CLI/races/img/kor2.webp#center)

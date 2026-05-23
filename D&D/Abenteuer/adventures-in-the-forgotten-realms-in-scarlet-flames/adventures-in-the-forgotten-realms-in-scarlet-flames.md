@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Adventures in the Forgotten Realms in Scarlet Flames
 ---
 # Index of Adventures in the Forgotten Realms in Scarlet Flames
 

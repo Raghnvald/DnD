@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: Growing Your Franchise"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Chapter 2: Growing Your Franchise"
+  - "Chapter 2: Growing Your Franchise"
 ---
 # Chapter 2: Growing Your Franchise
 *Source: Acquisitions Incorporated, p. 9* 

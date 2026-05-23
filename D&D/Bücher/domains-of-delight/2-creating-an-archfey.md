@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Creating an Archfey
 tags:
-- ttrpg-cli/compendium/src/5e/dod
+  - Quelle/5e/dod
 aliases:
-- "Creating an Archfey"
+  - "Creating an Archfey"
 ---
 # Creating an Archfey
 *Source: Domains of Delight, p. 12* 

@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Talos
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Talos"
-- "The Destroyer"
-- "Storm Lord"
-- "The Raging One"
+  - "Storm Lord"
+  - "Talos"
+  - "The Destroyer"
+  - "The Raging One"
 ---
 # Talos
 *Source: Forgotten Realms: Heroes of Faerûn p. 123* 

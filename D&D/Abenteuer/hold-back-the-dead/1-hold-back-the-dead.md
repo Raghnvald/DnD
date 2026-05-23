@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Hold Back The Dead
 tags:
-- ttrpg-cli/compendium/src/5e/hbtd
+  - Quelle/5e/hbtd
 aliases:
-- "Hold Back The Dead"
+  - "Hold Back The Dead"
 ---
 # Hold Back The Dead
 *Source: Hold Back The Dead, p. 1* 

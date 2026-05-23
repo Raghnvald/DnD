@@ -1,6 +1,12 @@
 ---
-Bezeichnung: Spirit Guardians
+Bezeichnung: Schutzgeister
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Reichweite: selbst (Radius 4,5 m)
+Komponenten: V, G, M
+Wirkungsdauer: K, <10 Min
+Angriff: WEI
+Schaden: 3d8
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -16,20 +22,20 @@ aliases:
   - Spirit Guardians
 linter-yaml-title-alias: Spirit Guardians
 ---
-# Spirit Guardians
-*3rd-level, Conjuration*  
+# Schutzgeister
+*Beschwörung des 3. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** Self (15-foot Radius)
-- **Components:** V, S, M (a holy symbol)
-- **Duration:** Concentration, up to 10 minutes
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** selbst (Radius von 4,50 m)
+- **Components:** V, G, M (ein heiliges Symbol)
+- **Duration:** Konzentration, bis zu 10 Minuten
 
-You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
+Du rufst Geister herbei, die dich beschützen und für die Wirkungsdauer innerhalb von 4,50 m um dich herumhuschen. Wenn du guter oder neutraler Gesinnung bist, erscheint ihre Gestalt engelsgleich oder feenartig (deine Wahl). Wenn du böser Gesinnung bist, wirken sie wie geisterhafte Unholde.
 
-When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes `3d8` radiant damage (if you are good or neutral) or `3d8` necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
+Beim Wirken des Zaubers kannst du eine beliebige Anzahl von Kreaturen wählen, die du Sehen kannst. Diese werden nicht von dem Zauber betroffen. Die Bewegungsrate aller anderen Kreaturen ist im Bereich des Zaubers halbiert. Betritt eine solche Kreatur den Bereich das erste Mal in einem Zug oder beginnt ihn dort, muss sie einen Weisheits-Rettungswurf ablegen. Bei einem Misserfolg erleidet sie `3W8` gleißenden Schaden (wenn du guter oder neutraler Gesinnung bist) oder `3W8` nekrotischen Schaden (wenn du böser Gesinnung bist). Gelingt der Rettungswurf, erleidet die Kreatur den halben Schaden.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `1d8` for each slot level above 3rd.
+**Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 4. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 3. hinaus um `1d8`.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Kleriker (Domäne Krieg)](Listen/list-spells-classes-war-domain.md)
 
-*Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 262. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Friends and Foes
 tags:
-- ttrpg-cli/compendium/src/5e/mot
+  - Quelle/5e/mot
 aliases:
-- "Friends and Foes"
+  - "Friends and Foes"
 ---
 # Friends and Foes
 *Source: Mythic Odysseys of Theros, p. 203* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 3: What's Next?"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-isf
+  - Quelle/5e/aitfr-isf
 aliases:
-- "Part 3: What's Next?"
+  - "Part 3: What's Next?"
 ---
 # Part 3: What's Next?
 *Source: Adventures in the Forgotten Realms: In Scarlet Flames, p. 12* 

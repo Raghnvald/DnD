@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "Einzelschatz: Herausforderungsgrad 5—10"
+Bezeichnung: "Einzelschatz: Herausforderungsgrad 5 - 10"
 tags:
   - Quelle/5e/dmg
 aliases:

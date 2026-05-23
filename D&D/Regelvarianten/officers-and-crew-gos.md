@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Officers and Crew
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Officers and Crew"
+  - "Officers and Crew"
 ---
 # Officers and Crew
 *Source: Ghosts of Saltmarsh p. 194* 

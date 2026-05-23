@@ -7,7 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 12d8 nekrotisch
-status: Completed
+status: completed
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/arcana-domain

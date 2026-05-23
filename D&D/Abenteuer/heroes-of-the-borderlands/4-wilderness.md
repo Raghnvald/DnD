@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Wilderness
 tags:
-- ttrpg-cli/compendium/src/5e/hotb
+  - Quelle/5e/hotb
 aliases:
-- "Wilderness"
+  - "Wilderness"
 ---
 # Wilderness
 *Source: Heroes of the Borderlands, p. 2* 

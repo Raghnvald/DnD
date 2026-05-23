@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gargantua
+Kategorie: Aberration
+Größe: Gigantisch
+HG: 21
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/21

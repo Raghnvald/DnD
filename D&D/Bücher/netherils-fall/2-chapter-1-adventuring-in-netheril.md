@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Adventuring in Netheril"
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Chapter 1: Adventuring in Netheril"
+  - "Chapter 1: Adventuring in Netheril"
 ---
 # Chapter 1: Adventuring in Netheril
 *Source: Netheril's Fall* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: "Charm of the Heroes' Feast"
 tags:
-- ttrpg-cli/compendium/src/5e/cm
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/cm
 aliases:
-- "Charm of the Heroes' Feast"
+  - "Charm of the Heroes' Feast"
 ---
 # Charm of the Heroes' Feast
 

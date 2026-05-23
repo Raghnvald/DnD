@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle A
-Status: completed
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table A
+Status: completed
 ---
 # Magische Gegenstände Tabelle A
 *Quelle: Spielleiterhandbuch, S. 144* 

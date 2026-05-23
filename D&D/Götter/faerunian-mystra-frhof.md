@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Mystra
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Mystra"
-- "The Lady of Mysteries"
-- "The Mother of All Magic"
-- "Our Lady of Spells"
+  - "Mystra"
+  - "Our Lady of Spells"
+  - "The Lady of Mysteries"
+  - "The Mother of All Magic"
 ---
 # Mystra
 *Source: Forgotten Realms: Heroes of Faerûn p. 117* 

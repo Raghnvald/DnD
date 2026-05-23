@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Atropal
+Kategorie: Untoter (Titan)
+Größe: Riesig
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13

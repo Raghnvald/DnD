@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 01: The Artificer"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Chapter 01: The Artificer"
+  - "Chapter 01: The Artificer"
 ---
 # Chapter 01: The Artificer
 *Source: Eberron: Forge of the Artificer, p. 7* 

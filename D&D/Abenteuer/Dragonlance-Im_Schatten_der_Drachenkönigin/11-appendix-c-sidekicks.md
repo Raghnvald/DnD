@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Appendix C: Sidekicks"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Appendix C: Sidekicks
 ---

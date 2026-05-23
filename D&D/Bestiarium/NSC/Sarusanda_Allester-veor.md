@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sarusanda Allester
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Sarusanda Allester
+IMAGE: token/sarusanda-allester-veor.webp
 linter-yaml-title-alias: Sarusanda Allester
 ---
 # [Sarusanda Allester](3-Mechanics\CLI\bestiary\npc/sarusanda-allester-veor.md)

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/azfyt
+  - Quelle/5e/azfyt
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: A Zib for Your Thoughts* 

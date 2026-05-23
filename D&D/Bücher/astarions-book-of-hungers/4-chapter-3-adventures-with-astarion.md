@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Adventures with Astarion"
 tags:
-- ttrpg-cli/compendium/src/5e/abh
+  - Quelle/5e/abh
 aliases:
-- "Chapter 3: Adventures with Astarion"
+  - "Chapter 3: Adventures with Astarion"
 ---
 # Chapter 3: Adventures with Astarion
 *Source: Astarion's Book of Hungers* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Charm of Darkvision
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-darkvision
+  - ttrpg-cli/spell/list/reward/charm-of-darkvision
 aliases:
-- "Spells for Charm of Darkvision"
+  - "Spells for Charm of Darkvision"
 ---
 # Spells for Charm of Darkvision
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Scene 5: The Tower"
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Scene 5: The Tower"
+  - "Scene 5: The Tower"
 ---
 # Scene 5: The Tower
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 10* 

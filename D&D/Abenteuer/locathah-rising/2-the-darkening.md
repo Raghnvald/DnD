@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Darkening
 tags:
-- ttrpg-cli/compendium/src/5e/lr
+  - Quelle/5e/lr
 aliases:
-- "The Darkening"
+  - "The Darkening"
 ---
 # The Darkening
 *Source: Locathah Rising, p. 3* 

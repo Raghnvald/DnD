@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Carrion Stalker
+Kategorie: Monstrosität
+Größe: Winzig
+HG: 3
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/3
@@ -9,6 +15,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Carrion Stalker
+IMAGE: token/carrion-stalker-vrgr.webp
 ---
 # [Carrion Stalker](3-Mechanics\CLI\bestiary\monstrosity/carrion-stalker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 230*  

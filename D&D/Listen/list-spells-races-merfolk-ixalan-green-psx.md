@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Merfolk (Ixalan; Green)
 tags:
-- ttrpg-cli/spell/list/subrace/merfolk-ixalan-green
+  - ttrpg-cli/spell/list/subrace/merfolk-ixalan-green
 aliases:
-- "Spells for Merfolk (Ixalan; Green)"
+  - "Spells for Merfolk (Ixalan; Green)"
 ---
 # Spells for Merfolk (Ixalan; Green)
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/rtg
+  - Quelle/5e/rtg
 aliases:
-- "Appendix A: Creatures"
+  - "Appendix A: Creatures"
 ---
 # Appendix A: Creatures
 *Source: Return to the Glory* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Deck
 tags:
-- ttrpg-cli/compendium/src/5e/td
+  - Quelle/5e/td
 aliases:
-- "The Deck"
+  - "The Deck"
 ---
 # The Deck
 *Source: Tarot Deck, p. 8* 

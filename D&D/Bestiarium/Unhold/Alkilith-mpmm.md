@@ -2,6 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Alkilith
+Kategorie: Unhold (Dämon)
+Größe: Mittelgroß
+HG: "11"
+Habitat:
+  - Stadt
+  - Unterreich
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

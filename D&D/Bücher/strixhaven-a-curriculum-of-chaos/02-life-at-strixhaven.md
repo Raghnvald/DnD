@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Life at Strixhaven
 tags:
-- ttrpg-cli/compendium/src/5e/scc
+  - Quelle/5e/scc
 aliases:
-- "Life at Strixhaven"
+  - "Life at Strixhaven"
 ---
 # Life at Strixhaven
 *Source: Strixhaven: A Curriculum of Chaos, p. 9* 

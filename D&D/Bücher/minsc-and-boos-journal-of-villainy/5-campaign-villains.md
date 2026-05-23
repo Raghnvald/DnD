@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Campaign Villains
 tags:
-- ttrpg-cli/compendium/src/5e/mabjov
+  - Quelle/5e/mabjov
 aliases:
-- "Campaign Villains"
+  - "Campaign Villains"
 ---
 # Campaign Villains
 *Source: Minsc and Boo's Journal of Villainy, p. 91* 

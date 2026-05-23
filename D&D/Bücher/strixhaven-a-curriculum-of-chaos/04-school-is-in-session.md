@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: School Is in Session
 tags:
-- ttrpg-cli/compendium/src/5e/scc
+  - Quelle/5e/scc
 aliases:
-- "School Is in Session"
+  - "School Is in Session"
 ---
 # School Is in Session
 *Source: Strixhaven: A Curriculum of Chaos, p. 41* 

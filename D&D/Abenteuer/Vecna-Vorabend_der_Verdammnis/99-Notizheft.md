@@ -1,3 +1,6 @@
+---
+Bezeichnung: "Allgemeine Idee:"
+---
 # Allgemeine Idee:
 - Vecna hat das Ritual begonnen / beendet und die Zeitlinien spielen verrückt. 
 - eventuell nimmt Kas Astor gefangen und nimmt mit Hilfe der [[Krone_der_Lügen-veor]] Astors Gestalt an

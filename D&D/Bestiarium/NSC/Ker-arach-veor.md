@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ker-arach
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Ker-arach
+IMAGE: token/ker-arach-veor.webp
 linter-yaml-title-alias: Ker-arach
 ---
 # [Ker-arach](3-Mechanics\CLI\bestiary\npc/ker-arach-veor.md)

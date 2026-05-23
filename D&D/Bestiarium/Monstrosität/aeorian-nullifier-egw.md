@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aeorian Nullifier
+Kategorie: Monstrosität
+Größe: Groß
+HG: "12"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/12

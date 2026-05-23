@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Ships in Combat
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Ships in Combat"
+  - "Ships in Combat"
 ---
 # Ships in Combat
 *Source: Ghosts of Saltmarsh p. 198* 

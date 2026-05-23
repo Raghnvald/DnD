@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Würger
+Kategorie: Aberration
+Größe: Klein
+HG: 1
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

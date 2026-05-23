@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/td
+  - Quelle/5e/td
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Tarot Deck, p. 48* 

@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Einleitung
-Status: completed
 tags:
   - Quelle/5e/phb
 aliases:
   - Introduction
+Status: completed
 ---
 # Einleitung
 *Quelle: Spielerhandbuch (2014), S. 5* 

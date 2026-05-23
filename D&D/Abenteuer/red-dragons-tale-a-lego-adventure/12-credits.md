@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Red Dragon's Tale: A LEGO Adventure* 

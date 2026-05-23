@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kuo-toa Archpriest
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 6
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

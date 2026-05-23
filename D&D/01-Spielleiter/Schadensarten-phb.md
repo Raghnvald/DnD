@@ -14,7 +14,7 @@ Unterschiedliche Angriffe, Zauber oder andere Effekte verur sachen unterschiedli
 Der Zauber [[Kugelblitz-phb|Kugelblitz]] oder die Odemwaffe eines blau en Drachen verursachen Blitzschaden.
 
 ## Energie
-Die meisten Effekte, die Energieschaden verur sachen, sind Zauber, einschließlich [[Magisches_Geschoss-phb|Magisches Geschoss]] und [[Waffe-des-Glaubens-phb|Waffe des Glaubens]]. Sie konzentrieren reine magische Energie in schädlicher Form.
+Die meisten Effekte, die Energieschaden verur sachen, sind Zauber, einschließlich [[Magisches_Geschoss-phb|Magisches Geschoss]] und [[Waffe_des_Glaubens-phb|Waffe des Glaubens]]. Sie konzentrieren reine magische Energie in schädlicher Form.
 
 ## Feuer
 Der Odem eines roten Drachen und viele Zauber, die Flammen hervorrufen, verursachen Feuerschaden.

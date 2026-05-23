@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: "Artificer's Forge"
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Bastion
+  - Quelle/5e/efa
 aliases:
-- "Artificer's Forge"
+  - "Artificer's Forge"
 ---
 # Artificer's Forge
 *Level 13 Bastion facility*  

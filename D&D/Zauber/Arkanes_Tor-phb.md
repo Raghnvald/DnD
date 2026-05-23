@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Arkansas Tor
+Bezeichnung: Arkanes Tor
 Zaubergrad: 6
 Zeitaufwand: 1 Aktion
 Reichweite: 150 m
@@ -24,7 +24,7 @@ aliases:
   - Arcane Gate
 linter-yaml-title-alias: Arkansas Tor
 ---
-# Arkansas Tor
+# Arkanes Tor
 *Beschwörung des 6. Grades*  
 
 - **Zeitaufwand:** 1 Aktion
@@ -32,7 +32,7 @@ linter-yaml-title-alias: Arkansas Tor
 - **Komponenten:** V, G
 - **Wirkungsdauer:** Konzentration, bis zu 10 Minuten 
 
-Du erschaffst miteinander verbundene Teleportationsportale, die für die Wirkungsdauer geöffnet bleiben. Wähle zwei Punkte auf dem Boden, die du sehen kannst: einen innerhalb von 3 m und einen innerhalb von 150 m. Uber jedem Punkt öffnet sich ein kreisförmiges Portal mit 3 m Durchmesser. Wenn sich das Portal in einem Bereich öffnen würde, in dem sich eine Kreatur aufhält, scheitert der Zauber und das Wirken war vergeblich. 
+Du erschaffst miteinander verbundene Teleportationsportale, die für die Wirkungsdauer geöffnet bleiben. Wähle zwei Punkte auf dem Boden, die du sehen kannst: einen innerhalb von 3 m und einen innerhalb von 150 m. Über jedem Punkt öffnet sich ein kreisförmiges Portal mit 3 m Durchmesser. Wenn sich das Portal in einem Bereich öffnen würde, in dem sich eine Kreatur aufhält, scheitert der Zauber und das Wirken war vergeblich. 
 
 Bei den Portalen handelt es sich um zweidimensionale, leuchtende Ringe, die mit Nebel gefüllt sind und die nur wenige Zentimeter über dem Boden schweben, lotrecht zum Punkt, den du ausgewählt hast. Die Ringe sind nur von einer Seite aus sichtbar (deine Wahl), dies ist die Seite, die als Portal fungiert. 
 

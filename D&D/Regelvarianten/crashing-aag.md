@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Crashing
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Crashing"
+  - "Crashing"
 ---
 # Crashing
 *Source: Astral Adventurer's Guide p. 25* 

@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Staff
+Kategorie: Konstrukt
+Größe: Mittelgroß
+HG: /
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

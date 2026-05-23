@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Aerdrie Faenya
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/tempest
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/elven
+  - Quelle/5e/scag
 aliases:
-- "Aerdrie Faenya"
+  - "Aerdrie Faenya"
 ---
 # Aerdrie Faenya
 *Source: Sword Coast Adventurer's Guide p. 23* 

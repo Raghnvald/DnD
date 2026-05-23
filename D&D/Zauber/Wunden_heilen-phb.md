@@ -30,23 +30,17 @@ aliases:
 linter-yaml-title-alias: Cure Wounds
 ---
 # Wunden heilen
-_Hervorrufung des 1. Grades_
+*Hervorrufung des 1. Grades*
 
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite/Fläche:** Berührung
 - **Komponenten:** V, G
 - **Wirkungsdauer:** Unmittelbar
 
-Eine Kreatur, die du berührst, gewinnt Trefferpunkte in Höhe von `1W8` + deinem Attributsmodifikator im Zauberwirken zurück. Dieser Zauber wirkt nicht auf Untote oder Konstrukte. 
+Eine Kreatur, die du berührst, erhält eine Anzahl von Trefferpunkten zurück in Höhe von `1d8` + den Modifikator deines zum Zaubern relevanten Attributs. Der Zauber hat keine Auswirkungen auf Untote oder Konstrukte.
 
-**Auf höheren Graden.** Wirkst du diesen Zauber, indem du einen Zauberplatz des 2. Grades oder höher nutzt, steigt die Heilung für jeden Grad über dem 1. um `1W8`.
+**Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, steigen die geheilten Trefferpunkte für jeden Grad über den 1. hinaus um `1W8`.
 
----
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Kleriker (Domäne Leben)](Listen/list-spells-classes-life-domain.md); [Paladin](Listen/list-spells-classes-paladin.md); [Waldläufer](Listen/list-spells-classes-ranger.md)
 
-A creature you touch regains a number of hit points equal to `1d8` + your spellcasting ability modifier. This spell has no effect on undead or constructs.
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `1d8` for each slot level above 1st.
-
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
-
-*Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 287. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

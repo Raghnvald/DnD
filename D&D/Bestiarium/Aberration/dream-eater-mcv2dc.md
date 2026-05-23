@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dream Eater
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 7
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

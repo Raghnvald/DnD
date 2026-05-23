@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Forgotten Realms: Adventures in Faerûn, p. 2* 

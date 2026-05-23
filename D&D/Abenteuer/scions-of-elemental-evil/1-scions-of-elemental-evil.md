@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Scions of Elemental Evil
 tags:
-- ttrpg-cli/compendium/src/5e/scoee
+  - Quelle/5e/scoee
 aliases:
-- "Scions of Elemental Evil"
+  - "Scions of Elemental Evil"
 ---
 # Scions of Elemental Evil
 *Source: Scions of Elemental Evil* 

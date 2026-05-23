@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kakkuu Spyder-Fiend
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Kakkuu Spyder-Fiend
+IMAGE: token/kakkuu-spyder-fiend-veor.webp
 ---
 # [Kakkuu Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/kakkuu-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 234*  

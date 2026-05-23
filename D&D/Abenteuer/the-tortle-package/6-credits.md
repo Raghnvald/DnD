@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/ttp
+  - Quelle/5e/ttp
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: The Tortle Package* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inda
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Inda
+IMAGE: token/inda-veor.webp
 linter-yaml-title-alias: Inda
 ---
 # [Inda](3-Mechanics\CLI\bestiary\npc/inda-veor.md)

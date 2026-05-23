@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Keep on the Borderlands
 tags:
-- ttrpg-cli/compendium/src/5e/hotb
+  - Quelle/5e/hotb
 aliases:
-- "Keep on the Borderlands"
+  - "Keep on the Borderlands"
 ---
 # Keep on the Borderlands
 *Source: Heroes of the Borderlands, p. 2* 

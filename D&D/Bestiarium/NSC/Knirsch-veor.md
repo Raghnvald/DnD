@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crunch
+Kategorie: Konstrukt (Kriegsgeschmiedet)
+Größe: Mittelgroß
+HG: 7
+Habitat: /
+image: token/crunch-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -11,7 +17,7 @@ aliases:
   - Crunch
 linter-yaml-title-alias: Crunch
 ---
-# [Crunch](3-Mechanics\CLI\bestiary\npc/crunch-veor.md)
+# Crunch
 *Source: Vecna: Eve of Ruin*  
 
 ```statblock

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eagle
+image: token/eagle-xmm.webp
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

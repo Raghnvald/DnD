@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Umberlee
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Umberlee"
-- "The Queen of the Depths"
-- "The Wavemother"
+  - "The Queen of the Depths"
+  - "The Wavemother"
+  - "Umberlee"
 ---
 # Umberlee
 *Source: Forgotten Realms: Heroes of Faerûn p. 127* 

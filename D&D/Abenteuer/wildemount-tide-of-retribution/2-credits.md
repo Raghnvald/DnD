@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/tor
+  - Quelle/5e/tor
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Wildemount: Tide of Retribution* 

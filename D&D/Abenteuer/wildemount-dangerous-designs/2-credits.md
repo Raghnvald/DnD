@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/dd
+  - Quelle/5e/dd
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Wildemount: Dangerous Designs* 

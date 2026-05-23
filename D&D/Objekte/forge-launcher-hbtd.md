@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
+Bezeichnung: Forge Launcher
 tags:
-- ttrpg-cli/compendium/src/5e/hbtd
-- ttrpg-cli/object/size/large
-- ttrpg-cli/object/type/siege-weapon
+  - Kompendium/Objekt/size/large
+  - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/hbtd
 aliases:
-- "Forge Launcher"
+  - "Forge Launcher"
 ---
 # Forge Launcher
 *Source: Hold Back The Dead p. 4*  

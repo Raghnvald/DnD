@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Realms of Gods and Mortals
 tags:
-- ttrpg-cli/compendium/src/5e/mot
+  - Quelle/5e/mot
 aliases:
-- "Realms of Gods and Mortals"
+  - "Realms of Gods and Mortals"
 ---
 # Realms of Gods and Mortals
 *Source: Mythic Odysseys of Theros, p. 83* 

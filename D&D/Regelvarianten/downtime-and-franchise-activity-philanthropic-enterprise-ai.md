@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Downtime and Franchise Activity: Philanthropic Enterprise"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Downtime and Franchise Activity: Philanthropic Enterprise"
+  - "Downtime and Franchise Activity: Philanthropic Enterprise"
 ---
 # Downtime and Franchise Activity: Philanthropic Enterprise
 *Source: Acquisitions Incorporated p. 41* 

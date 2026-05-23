@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Erevan Ilesere
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/elven
+  - Quelle/5e/scag
 aliases:
-- "Erevan Ilesere"
+  - "Erevan Ilesere"
 ---
 # Erevan Ilesere
 *Source: Sword Coast Adventurer's Guide p. 23* 

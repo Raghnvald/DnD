@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Monsters & NPCs"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Appendix A: Monsters & NPCs"
+  - "Appendix A: Monsters & NPCs"
 ---
 # Appendix A: Monsters & NPCs
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 11* 

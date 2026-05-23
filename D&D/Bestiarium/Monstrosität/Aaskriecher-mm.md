@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Carrion Crawler
+Kategorie: Monstrosität
+Größe: Groß
+HG: 2
+Habitat:
+  - Unterreich
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -10,6 +16,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Carrion Crawler
+IMAGE: token/carrion-crawler.webp
 ---
 # [Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler.md)
 *Source: Monster Manual p. 37*  

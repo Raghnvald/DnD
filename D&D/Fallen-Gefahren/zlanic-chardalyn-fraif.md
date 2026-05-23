@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Zlanic Chardalyn
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Zlanic Chardalyn"
+  - "Zlanic Chardalyn"
 ---
 # Zlanic Chardalyn
 *Generic Hazard*  

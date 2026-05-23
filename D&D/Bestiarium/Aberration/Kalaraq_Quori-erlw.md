@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kalaraq Quori
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 19
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/19

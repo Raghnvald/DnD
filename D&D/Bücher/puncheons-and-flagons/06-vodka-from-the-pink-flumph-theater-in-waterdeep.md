@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Vodka from The Pink Flumph Theater in Waterdeep
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Vodka from The Pink Flumph Theater in Waterdeep"
+  - "Vodka from The Pink Flumph Theater in Waterdeep"
 ---
 # Vodka from The Pink Flumph Theater in Waterdeep
 *Source: Puncheons and Flagons, p. 50* 

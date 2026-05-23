@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Kaladesh)
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/race/human/kaladesh
+  - Quelle/5e/psk
+  - Rasse/human/kaladesh
 aliases:
-- "Human (Kaladesh)"
+  - "Human (Kaladesh)"
 ---
 # Human (Kaladesh)
 *Source: Plane Shift: Kaladesh p. 22*  

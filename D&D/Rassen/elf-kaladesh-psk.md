@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Elf (Kaladesh)
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/race/elf/kaladesh
+  - Quelle/5e/psk
+  - Rasse/elf/kaladesh
 aliases:
-- "Elf (Kaladesh)"
+  - "Elf (Kaladesh)"
 ---
 # Elf (Kaladesh)
 *Source: Plane Shift: Kaladesh p. 20*  
@@ -72,6 +70,5 @@ The movement of aether through the world is visible and obvious where it courses
 Thanks to this sensitivity, elves feel a deep connection to other living things. They engage deeply with the world around them, delighting in natural systems and social interactions alike. They revel in exploring the interconnectedness of nature and society, seeing the flow of aether from nature to invention, from person to person, from body to mind and heart.
 
 Elves live in harmony with both nature and technology. They believe that nature inspires technology: each piece of artifice is an expression of natural laws and principles, and captures one element of aether's flow in a sort of microcosmic system. Technology, in turn, can nurture the natural world, helping life grow and flourish in places and ways that would otherwise be impossible.
-
 
 ![Cultivator's Caravan](3-Mechanics/CLI/races/img/elf2.webp#center)

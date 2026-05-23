@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Astral Adventurer's Guide* 

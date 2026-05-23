@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Feywild
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "The Feywild"
+  - "The Feywild"
 ---
 # The Feywild
 *Source: Heroes' Feast Flavors of the Multiverse, p. 181* 

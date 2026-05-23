@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix C: Vehicles"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Appendix C: Vehicles"
+  - "Appendix C: Vehicles"
 ---
 # Appendix C: Vehicles
 *Source: Acquisitions Incorporated, p. 217* 

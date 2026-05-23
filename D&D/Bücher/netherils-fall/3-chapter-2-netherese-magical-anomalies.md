@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: Netherese Magical Anomalies"
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Chapter 2: Netherese Magical Anomalies"
+  - "Chapter 2: Netherese Magical Anomalies"
 ---
 # Chapter 2: Netherese Magical Anomalies
 *Source: Netheril's Fall* 

@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Lorehold Student
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/scc
+  - Kompendium/Hintergrund
+  - Quelle/5e/scc
 aliases:
-- "Lorehold Student"
+  - "Lorehold Student"
 ---
 # Lorehold Student
 *Source: Strixhaven: A Curriculum of Chaos p. 31*  
-
 
 - **Skill Proficiencies.** [History](3-Mechanics/CLI/rules/skills.md#History), [Religion](3-Mechanics/CLI/rules/skills.md#Religion)  
 - **Languages.** Two of your choice  

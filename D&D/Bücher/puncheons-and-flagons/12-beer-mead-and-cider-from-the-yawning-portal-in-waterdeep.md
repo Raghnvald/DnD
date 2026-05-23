@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Beer, Mead, and Cider from The Yawning Portal in Waterdeep
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Beer, Mead, and Cider from The Yawning Portal in Waterdeep"
+  - "Beer, Mead, and Cider from The Yawning Portal in Waterdeep"
 ---
 # Beer, Mead, and Cider from The Yawning Portal in Waterdeep
 *Source: Puncheons and Flagons, p. 150* 

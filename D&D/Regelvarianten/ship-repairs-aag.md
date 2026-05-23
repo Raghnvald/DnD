@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Ship Repairs
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Ship Repairs"
+  - "Ship Repairs"
 ---
 # Ship Repairs
 *Source: Astral Adventurer's Guide p. 25* 

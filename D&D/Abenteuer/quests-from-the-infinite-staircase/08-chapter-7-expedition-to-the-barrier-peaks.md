@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 7: Expedition to the Barrier Peaks"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Chapter 7: Expedition to the Barrier Peaks"
+  - "Chapter 7: Expedition to the Barrier Peaks"
 ---
 # Chapter 7: Expedition to the Barrier Peaks
 *Source: Quests from the Infinite Staircase, p. 157* 

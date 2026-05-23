@@ -9,7 +9,7 @@ Habitat:
   - Küste
   - Sumpf
   - Unterwasser
-image: Elementar/img/marid.webp
+image: token/water-elemental.webp
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste
@@ -50,6 +50,9 @@ Ein Elementar braucht keine Luft, Nahrung, Wasser oder Schlaf.
 
 ```statblock
 name: Wasserelementar
+image: token/water-elemental.webp
+source:
+  - MM
 size: Groß
 type: Elementar
 alignment: Neutral
@@ -72,90 +75,21 @@ condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bewusstlos|Bewusstl
 senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 10
 languages: Aqual
 cr: "5"
+environment: Küste, Sumpf, Unterwasser
 traits:
-  - desc: The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
-    name: Water Form
-  - desc: If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
-    name: Freeze
+  - name: Wasserform
+    desc: Der Elementar kann den Bereich einer feindlichen Kreatur betreten und dort anhalten. Er kann sich durch Bereiche, die nur 2,5 cm groß sind, bewegen, ohne sich quetschen zu müssen.
+  - name: Gefrieren
+    desc: Wenn der Elementar Kälteschaden erleidet, friert er zum Teil ein; seine Bewegungsrate wird bis zum Ende des nächsten Zugs um 6 m verringert.
 actions:
-  - desc: The elemental makes two slam attacks.
-    name: Multiattack
-  - desc: "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage."
-    name: Slam
-  - desc: |-
-      Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Grappled|grappled<STATBLOCK-MARKDOWN-LINK> (escape DC 14). Until this grapple ends, the target is <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Restrained|restrained<STATBLOCK-MARKDOWN-LINK> and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
+  - name: Mehrfachangriff
+    desc: Der Elementar führt zwei Hieb-Angriffe aus.
+  - name: Hieb
+    desc: "*Nahkampf-Waffenangriff:* +7 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 13 (2d8 + 4) Wuchtschaden."
+  - name: Überschütten (Aufladung 4-6)
+    desc: |-
+      jede Kreatur im Bereich des Elementars muss einen Stärkerettungswurf gegen SG 15 ablegen. Bei einem Fehlschlag erleidet ein Ziel 13 (2d8 + 4) Wuchtschaden. Wenn es sich um ein Großes oder kleineres Ziel handelt, wird es außerdem <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 14). Bis der Haltegriffendet, ist das Ziel <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK> und kann nicht atmen, es sei denn, es kann Wasser atmen. Wenn der Rettungswurf erfolgreich ist, wird das Ziel aus dem Bereich des Elementars geschoben.
 
-      The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/conditions.md#Grappled|grappled<STATBLOCK-MARKDOWN-LINK> by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
-    name: Whelm (Recharge 4-6)
-source:
-  - MM
-image: /3-Mechanics/CLI/bestiary/elemental/token/water-elemental.webp
-mtime: 1778409079021
-path: D&D/Bestiarium/Elementar/Wasserelementar-mm.md
-```
-
----
-
-```statblock
-"name": "Water Elemental"
-"size": "Large"
-"type": "elemental"
-"alignment": "Neutral"
-"ac": !!int "14"
-"ac_class": "natural armor"
-"hp": !!int "114"
-"hit_dice": "12d10 + 48"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "14"
-  - !!int "18"
-  - !!int "5"
-  - !!int "10"
-  - !!int "8"
-"speed": "30 ft., swim 90 ft."
-"damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Aquan"
-"cr": "5"
-"traits":
-  - "desc": "The elemental can enter a hostile creature's space and stop there. It\
-      \ can move through a space as narrow as 1 inch wide without squeezing."
-    "name": "Water Form"
-  - "desc": "If the elemental takes cold damage, it partially freezes; its speed is\
-      \ reduced by 20 feet until the end of its next turn."
-    "name": "Freeze"
-"actions":
-  - "desc": "The elemental makes two slam attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage."
-    "name": "Slam"
-  - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
-      \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it\
-      \ is Large or smaller, it is also [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ and unable to breathe unless it can breathe water. If the saving throw is\
-      \ successful, the target is pushed out of the elemental's space.\n\nThe elemental\
-      \ can grapple one Large creature or up to two Medium or smaller creatures at\
-      \ one time. At the start of each of the elemental's turns, each target [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the\
-      \ elemental can pull a creature or object out of it by taking an action to make\
-      \ a DC 14 Strength check and succeeding."
-    "name": "Whelm (Recharge 4-6)"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-elemental.webp"
+      Der Elementar kann mit dieser Fähigkeit eine große Kreatur oder bis zu zwei mittelgroße oder kleinere Kreaturen auf einmal festhalten. Zu Beginn eines jeden Zuges des Elementars erleidet jedes <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackte<STATBLOCK-MARKDOWN-LINK> Ziel 13 (2d8 + 4) Wuchtschaden. Als Aktion kann eine Kreatur innerhalb von 1,5 m um den Elementar eine Kreatur oder einen Gegenstand aus dem Elementar herausziehen, indem sie einen Stärkewurf gegen SG 14 schafft.
 ```
 ^statblock
-
-## Environment
-
-underwater, swamp, coastal

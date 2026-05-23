@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Eilistraee
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Eilistraee"
-- "The Dark Maiden"
-- "Lady of the Dance"
-- "Lady Silverhair"
+  - "Eilistraee"
+  - "Lady of the Dance"
+  - "Lady Silverhair"
+  - "The Dark Maiden"
 ---
 # Eilistraee
 *Source: Forgotten Realms: Heroes of Faerûn p. 106* 

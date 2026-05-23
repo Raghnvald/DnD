@@ -11,6 +11,8 @@ views:
         - file.folder == "D&D/Bestiarium/Drache"
         - file.ext == "md"
         - '!file.fullname.contains("-xmm")'
+    order:
+      - file.name
     cardSize: 120
     imageFit: contain
     image: note.IMAGE

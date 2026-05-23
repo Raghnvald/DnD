@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dolgaunt
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 3
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

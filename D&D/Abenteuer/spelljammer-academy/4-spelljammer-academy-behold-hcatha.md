@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spelljammer Academy: Behold H'Catha"
 tags:
-- ttrpg-cli/compendium/src/5e/sja
+  - Quelle/5e/sja
 aliases:
-- "Spelljammer Academy: Behold H'Catha"
+  - "Spelljammer Academy: Behold H'Catha"
 ---
 # Spelljammer Academy: Behold H'Catha
 *Source: Spelljammer Academy* 

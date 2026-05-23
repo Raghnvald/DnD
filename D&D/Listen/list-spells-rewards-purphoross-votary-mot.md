@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Purphoros's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/purphoross-votary
+  - ttrpg-cli/spell/list/reward/purphoross-votary
 aliases:
-- "Spells for Purphoros's Votary"
+  - "Spells for Purphoros's Votary"
 ---
 # Spells for Purphoros's Votary
 

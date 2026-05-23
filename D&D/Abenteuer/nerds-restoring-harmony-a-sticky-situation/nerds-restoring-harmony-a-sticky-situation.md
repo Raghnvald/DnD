@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Nerds Restoring Harmony a Sticky Situation
 ---
 # Index of Nerds Restoring Harmony a Sticky Situation
 

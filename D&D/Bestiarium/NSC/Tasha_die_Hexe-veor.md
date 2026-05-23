@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tasha the Witch
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: 19
+Habitat: /
+image: token/Tasha-the-witch-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/19

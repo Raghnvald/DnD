@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Ilmater
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Ilmater"
-- "The Crying God"
-- "He Who Endures"
-- "The Rack-Broken Lord"
+  - "He Who Endures"
+  - "Ilmater"
+  - "The Crying God"
+  - "The Rack-Broken Lord"
 ---
 # Ilmater
 *Source: Forgotten Realms: Heroes of Faerûn p. 109* 

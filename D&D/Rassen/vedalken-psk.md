@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Vedalken
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/race/vedalken
+  - Quelle/5e/psk
+  - Rasse/vedalken
 aliases:
-- "Vedalken"
+  - "Vedalken"
 ---
 # Vedalken
 *Source: Plane Shift: Kaladesh p. 23*  
@@ -57,6 +55,5 @@ As a rule, vedalken are gregarious in conversation. However, they are quite circ
 ### Vedalken Politics
 
 Most vedalken care far more about invention and inquiry than about politics. They would rather unlock the hidden potential of aether-based devices than dwell on the question of how aether should be distributed to the Consulate's citizens. For that reason, though vedalken are found both among the officials of the Consulate and among the renegades, their dedication to either cause often lacks the partisan fervor found in the members of other races
-
 
 ![Curio Vendor](3-Mechanics/CLI/races/img/vedalken2.webp#center)

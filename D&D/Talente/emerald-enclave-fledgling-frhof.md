@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Emerald Enclave Fledgling
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Emerald Enclave Fledgling"
+  - "Emerald Enclave Fledgling"
 ---
 # Emerald Enclave Fledgling
 *Source: Forgotten Realms: Heroes of Faerûn p. 37*  

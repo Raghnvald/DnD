@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vlazok
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Vlazok
+IMAGE: token/vlazok-veor.webp
 ---
 # [Vlazok](3-Mechanics\CLI\bestiary\fiend/vlazok-veor.md)
 *Source: Vecna: Eve of Ruin p. 238*  

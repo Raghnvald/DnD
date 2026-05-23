@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Copper Dragon
-image: Drache/token/Ancient-Copper-Dragon.webp
+image: token/Ancient-Copper-Dragon.webp
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Hügel

@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Squid Ship
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/vehicle/terrain/sea
-- ttrpg-cli/vehicle/terrain/space
-- ttrpg-cli/vehicle/type/spelljammer
+  - Quelle/5e/aag
+  - ttrpg-cli/vehicle/terrain/sea
+  - ttrpg-cli/vehicle/terrain/space
+  - ttrpg-cli/vehicle/type/spelljammer
 aliases:
-- "Squid Ship"
+  - "Squid Ship"
 ---
 # Squid Ship
 *Source: Astral Adventurer's Guide p. 48, Spelljammer Academy*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: False Lich
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - False Lich
+IMAGE: token/false-lich-veor.webp
 linter-yaml-title-alias: False Lich
 ---
 # [False Lich](3-Mechanics\CLI\bestiary\undead/false-lich-veor.md)

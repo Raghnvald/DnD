@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/hol
+  - Quelle/5e/hol
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Ravenloft: The House of Lament* 

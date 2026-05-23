@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?
+Bezeichnung: "Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?"
 tags:
   - Quelle/5e/dmg
 aliases:

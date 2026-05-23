@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Khenra
 tags:
-- ttrpg-cli/compendium/src/5e/psa
-- ttrpg-cli/race/khenra
+  - Quelle/5e/psa
+  - Rasse/khenra
 aliases:
-- "Khenra"
+  - "Khenra"
 ---
 # Khenra
 *Source: Plane Shift: Amonkhet p. 17*  
@@ -65,6 +63,5 @@ Khenra who focus on hand-to-hand combat often wield the khopesh—a large sickle
 Khenra who focus on long-range combat prefer hurled weapons—spears and javelins—over bows and slings, and they are known and feared for their deadly accuracy. They carry small cases of [javelins](3-Mechanics/CLI/items/javelin.md) into combat, and feel ashamed if they reach the end of a battle with any weapons left unthrown. A khenra might ride on a [chariot](3-Mechanics/CLI/items/chariot.md) as a [spear](3-Mechanics/CLI/items/spear.md) thrower, sometimes augmenting attacks with minor spells of fire magic.
 
 Many khenra mages specialize in fire spells, creating blades or hails of flame to sear and scorch their foes. Their strategy emphasizes overwhelming initial assaults, in magical emulation of Hazoret's battle frenzy. Others prefer magic that augments their natural speed and strength, bolsters their endurance, or drains strength from their enemies. They work to hone their spells alongside their bodies, incorporating elements of hand-to-hand combat into their spellcasting.
-
 
 ![Nimble-Blade Khenra](3-Mechanics/CLI/races/img/khenra2.webp#center)

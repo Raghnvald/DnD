@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Further Information
 tags:
-- ttrpg-cli/compendium/src/5e/al
+  - Quelle/5e/al
 aliases:
-- "Further Information"
+  - "Further Information"
 ---
 # Further Information
 *Source: Adventurers League* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Muk and Friends
 tags:
-- ttrpg-cli/compendium/src/5e/awm
+  - Quelle/5e/awm
 aliases:
-- "Muk and Friends"
+  - "Muk and Friends"
 ---
 # Muk and Friends
 *Source: Adventure with Muk, p. 26* 

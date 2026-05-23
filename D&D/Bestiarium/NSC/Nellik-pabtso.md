@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Nellik
-Image: NSC/token/nellik-pabtso.webp
+Image: token/nellik-pabtso.webp
 linter-yaml-title-alias: Nellik
 ---
 # Nellik

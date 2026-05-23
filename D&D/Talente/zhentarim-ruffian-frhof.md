@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Zhentarim Ruffian
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Zhentarim Ruffian"
+  - "Zhentarim Ruffian"
 ---
 # Zhentarim Ruffian
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

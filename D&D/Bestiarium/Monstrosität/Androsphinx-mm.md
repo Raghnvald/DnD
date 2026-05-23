@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Androsphinx
+Kategorie: Monstrosität
+Größe: Groß
+HG: "17"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

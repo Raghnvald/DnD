@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix C: Non-Player Characters"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Appendix C: Non-Player Characters"
+  - "Appendix C: Non-Player Characters"
 ---
 # Appendix C: Non-Player Characters
 *Source: Chains of Asmodeus, p. 261* 

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Adventuring
+Bezeichnung: Auf Abenteuer ausziehen
 tags:
   - Quelle/5e/phb
 aliases:

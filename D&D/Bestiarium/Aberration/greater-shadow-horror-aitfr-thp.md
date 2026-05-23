@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/aitfr-thp
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Greater Shadow Horror
+Kategorie: Aberration
+Größe: Riesig
+HG: 12
+status: WIP
+tags:
+  - Quelle/5e/aitfr-thp
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Greater Shadow Horror"
+  - Greater Shadow Horror
 ---
 # [Greater Shadow Horror](3-Mechanics/CLI/bestiary/aberration/greater-shadow-horror-aitfr-thp.md)
 *Source: Adventures in the Forgotten Realms: The Hidden Page p. 12*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Appendix B: Magic Items"
+  - "Appendix B: Magic Items"
 ---
 # Appendix B: Magic Items
 *Source: Critical Role: Call of the Netherdeep, p. 212* 

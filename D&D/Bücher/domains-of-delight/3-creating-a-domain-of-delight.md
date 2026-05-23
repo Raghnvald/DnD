@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Creating a Domain of Delight
 tags:
-- ttrpg-cli/compendium/src/5e/dod
+  - Quelle/5e/dod
 aliases:
-- "Creating a Domain of Delight"
+  - "Creating a Domain of Delight"
 ---
 # Creating a Domain of Delight
 *Source: Domains of Delight, p. 16* 

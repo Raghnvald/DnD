@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Merfolk (Zendikar; Cosi Creed)
 tags:
-- ttrpg-cli/spell/list/subrace/merfolk-zendikar-cosi-creed
+  - ttrpg-cli/spell/list/subrace/merfolk-zendikar-cosi-creed
 aliases:
-- "Spells for Merfolk (Zendikar; Cosi Creed)"
+  - "Spells for Merfolk (Zendikar; Cosi Creed)"
 ---
 # Spells for Merfolk (Zendikar; Cosi Creed)
 

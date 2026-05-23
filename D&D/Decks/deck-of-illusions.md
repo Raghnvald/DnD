@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Deck of Illusions
 tags:
-- ttrpg-cli/compendium/src/5e/dmg
+  - Quelle/5e/dmg
 aliases:
-- "Deck of Illusions"
+  - "Deck of Illusions"
 ---
 # Deck of Illusions
 *Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -59,98 +57,66 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 
 ### Red Dragon
 
-
 ### Knight and Four Guards
-
 
 ### Succubus/Incubus
 
-
 ### Druid
-
 
 ### Cloud Giant
 
-
 ### Ettin
-
 
 ### Bugbear
 
-
 ### Goblin
-
 
 ### Beholder
 
-
 ### Archmage and Mage Apprentice
-
 
 ### Night Hag
 
-
 ### Assassin
-
 
 ### Fire Giant
 
-
 ### Ogre Mage
-
 
 ### Gnoll
 
-
 ### Kobold
-
 
 ### Lich
 
-
 ### Priest and Two Acolytes
-
 
 ### Medusa
 
-
 ### Veteran
-
 
 ### Frost Giant
 
-
 ### Troll
-
 
 ### Hobgoblin
 
-
 ### Goblin
-
 
 ### Iron Golem
 
-
 ### Bandit Captain and Three Bandits
-
 
 ### Erinyes
 
-
 ### Berserker
-
 
 ### Hill Giant
 
-
 ### Ogre
-
 
 ### Orc
 
-
 ### Kobold
-
 
 ### You (The Deck's Owner)

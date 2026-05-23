@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Amrik Vanthampur
+Kategorie: Humanoid (Mensch)
+Größe: Mittelgroß
+HG: "3"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

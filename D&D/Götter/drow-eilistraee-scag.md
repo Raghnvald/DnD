@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Eilistraee
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/drow
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/nature
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/drow
+  - Quelle/5e/scag
 aliases:
-- "Eilistraee"
+  - "Eilistraee"
 ---
 # Eilistraee
 *Source: Sword Coast Adventurer's Guide p. 23* 

@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Assassin Vine
+Kategorie: Pflanze
+Größe: Groß
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

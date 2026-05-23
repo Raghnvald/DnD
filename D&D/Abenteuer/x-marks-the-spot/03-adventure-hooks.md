@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Adventure Hooks
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "Adventure Hooks"
+  - "Adventure Hooks"
 ---
 # Adventure Hooks
 *Source: X Marks the Spot, p. 2* 

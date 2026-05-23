@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-isf
+  - Quelle/5e/aitfr-isf
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Adventures in the Forgotten Realms: In Scarlet Flames* 

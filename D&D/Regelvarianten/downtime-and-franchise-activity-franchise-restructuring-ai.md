@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Downtime and Franchise Activity: Franchise Restructuring"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Downtime and Franchise Activity: Franchise Restructuring"
+  - "Downtime and Franchise Activity: Franchise Restructuring"
 ---
 # Downtime and Franchise Activity: Franchise Restructuring
 *Source: Acquisitions Incorporated p. 38* 

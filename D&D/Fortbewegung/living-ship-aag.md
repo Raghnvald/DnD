@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Living Ship
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/vehicle/terrain/sea
-- ttrpg-cli/vehicle/terrain/space
-- ttrpg-cli/vehicle/type/spelljammer
+  - Quelle/5e/aag
+  - ttrpg-cli/vehicle/terrain/sea
+  - ttrpg-cli/vehicle/terrain/space
+  - ttrpg-cli/vehicle/type/spelljammer
 aliases:
-- "Living Ship"
+  - "Living Ship"
 ---
 # Living Ship
 *Source: Astral Adventurer's Guide p. 36*  

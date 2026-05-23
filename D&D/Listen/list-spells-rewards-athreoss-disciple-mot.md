@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Athreos's Disciple"
 tags:
-- ttrpg-cli/spell/list/reward/athreoss-disciple
+  - ttrpg-cli/spell/list/reward/athreoss-disciple
 aliases:
-- "Spells for Athreos's Disciple"
+  - "Spells for Athreos's Disciple"
 ---
 # Spells for Athreos's Disciple
 

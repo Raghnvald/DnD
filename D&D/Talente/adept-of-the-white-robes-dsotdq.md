@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Adept of the White Robes
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/dsotdq
 aliases:
-- "Adept of the White Robes"
+  - "Adept of the White Robes"
 ---
 # Adept of the White Robes
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

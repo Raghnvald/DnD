@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 1: The Village of Secomber"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-isf
+  - Quelle/5e/aitfr-isf
 aliases:
-- "Part 1: The Village of Secomber"
+  - "Part 1: The Village of Secomber"
 ---
 # Part 1: The Village of Secomber
 *Source: Adventures in the Forgotten Realms: In Scarlet Flames, p. 4* 

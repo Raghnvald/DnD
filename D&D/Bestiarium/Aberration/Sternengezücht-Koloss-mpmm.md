@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Star Spawn Hulk
+Kategorie: Aberration
+Größe: Groß
+HG: 10
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ambitious Assassin
+Kategorie: Humanoid
+Größe: M oder S
+HG: "5"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/5

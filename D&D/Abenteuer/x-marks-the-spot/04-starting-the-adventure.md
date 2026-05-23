@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Starting the Adventure
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "Starting the Adventure"
+  - "Starting the Adventure"
 ---
 # Starting the Adventure
 *Source: X Marks the Spot, p. 3* 

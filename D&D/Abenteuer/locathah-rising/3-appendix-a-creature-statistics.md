@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Creature statistics"
 tags:
-- ttrpg-cli/compendium/src/5e/lr
+  - Quelle/5e/lr
 aliases:
-- "Appendix A: Creature statistics"
+  - "Appendix A: Creature statistics"
 ---
 # Appendix A: Creature statistics
 *Source: Locathah Rising, p. 15* 

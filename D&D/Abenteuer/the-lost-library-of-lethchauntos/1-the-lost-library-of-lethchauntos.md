@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Lost Library of Lethchauntos
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "The Lost Library of Lethchauntos"
+  - "The Lost Library of Lethchauntos"
 ---
 # The Lost Library of Lethchauntos
 *Source: The Lost Library of Lethchauntos, p. 227* 

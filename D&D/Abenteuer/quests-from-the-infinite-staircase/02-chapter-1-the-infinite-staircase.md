@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: The Infinite Staircase"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Chapter 1: The Infinite Staircase"
+  - "Chapter 1: The Infinite Staircase"
 ---
 # Chapter 1: The Infinite Staircase
 *Source: Quests from the Infinite Staircase, p. 7* 

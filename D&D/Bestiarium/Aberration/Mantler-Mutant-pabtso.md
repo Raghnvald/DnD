@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Mantler-Mutant
+Bezeichnung: Mantler Mutant
 Kategorie: Aberration
 Größe: Groß
 HG: 10
@@ -13,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Cloaker Mutate
-Image: aberration/token/cloaker-mutate-pabtso.webp
+Image: token/cloaker-mutate-pabtso.webp
 ---
 # Mantler Mutant
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  

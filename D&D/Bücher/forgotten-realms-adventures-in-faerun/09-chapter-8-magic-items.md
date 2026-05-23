@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 8: Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Chapter 8: Magic Items"
+  - "Chapter 8: Magic Items"
 ---
 # Chapter 8: Magic Items
 *Source: Forgotten Realms: Adventures in Faerûn, p. 243* 

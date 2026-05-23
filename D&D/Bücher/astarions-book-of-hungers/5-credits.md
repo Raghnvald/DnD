@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/abh
+  - Quelle/5e/abh
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Astarion's Book of Hungers* 

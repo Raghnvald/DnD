@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Ixalan)
 tags:
-- ttrpg-cli/compendium/src/5e/psx
-- ttrpg-cli/race/human/ixalan
+  - Quelle/5e/psx
+  - Rasse/human/ixalan
 aliases:
-- "Human (Ixalan)"
+  - "Human (Ixalan)"
 ---
 # Human (Ixalan)
 *Source: Plane Shift: Ixalan p. 11*  
@@ -41,7 +39,6 @@ Your base walking speed is 30 feet.
 ## Description
 
 Humans are found throughout the plane of Ixalan, both in the lands of Torrezon (now controlled by the Legion of Dusk) and in the Sun Empire. The vampires of the Legion of Dusk were once human, and the peasant and servant populations they rule still are. As the Legion of Dusk conquered Torrezon, its forces drove many human populations before them, including those who first formed the Free Cities and later fled across the ocean to form the core of the Brazen Coalition.
-
 
 > [!gallery]
 ![Navigator's Ruin](3-Mechanics/CLI/races/img/human2.webp)

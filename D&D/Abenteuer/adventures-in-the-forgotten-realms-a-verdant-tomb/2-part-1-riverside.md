@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 1: Riverside"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-avt
+  - Quelle/5e/aitfr-avt
 aliases:
-- "Part 1: Riverside"
+  - "Part 1: Riverside"
 ---
 # Part 1: Riverside
 *Source: Adventures in the Forgotten Realms: A Verdant Tomb, p. 4* 

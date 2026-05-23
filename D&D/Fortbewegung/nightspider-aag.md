@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Nightspider
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/vehicle/terrain/space
-- ttrpg-cli/vehicle/type/spelljammer
+  - Quelle/5e/aag
+  - ttrpg-cli/vehicle/terrain/space
+  - ttrpg-cli/vehicle/type/spelljammer
 aliases:
-- "Nightspider"
+  - "Nightspider"
 ---
 # Nightspider
 *Source: Astral Adventurer's Guide p. 40*  

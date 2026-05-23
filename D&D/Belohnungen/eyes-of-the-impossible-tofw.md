@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Eyes of the Impossible
 tags:
-- ttrpg-cli/compendium/src/5e/tofw
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/tofw
 aliases:
-- "Eyes of the Impossible"
+  - "Eyes of the Impossible"
 ---
 # Eyes of the Impossible
 *Charm*  

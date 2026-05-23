@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Bile Lichen
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Bile Lichen"
+  - "Bile Lichen"
 ---
 # Bile Lichen
 *Generic Hazard*  

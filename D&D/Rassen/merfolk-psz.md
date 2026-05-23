@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Merfolk
 tags:
-- ttrpg-cli/compendium/src/5e/psz
-- ttrpg-cli/race/merfolk
+  - Quelle/5e/psz
+  - Rasse/merfolk
 aliases:
-- "Merfolk"
+  - "Merfolk"
 ---
 # Merfolk
 *Source: Plane Shift: Zendikar p. 13, Plane Shift: Ixalan p. 12*  
@@ -53,6 +51,5 @@ Merfolk are associated with blue mana, though the traditional merfolk creeds exp
 Merfolk are an amphibious race, born and at home in the water but comfortable on dry land. Humanoid in form, they have skin of ivory, silver, russet, blue, or deep purple. Long fins extend from the backs of their forearms and calves, and their fingers and toes are webbed. The hairlike growths on their heads are either thick and bristly like the needles of a sea urchin, or long and wavy, resembling fine seaweed. In either case, these growths typically range in color from red to warm brown to black. Male merfolk have similar growths extending down from their cheekbones.
 
 Merfolk wear little clothing unless they are armored for battle. Even then, they drape themselves with nets and a minimum of cloth, wearing armor crafted of large, bleached seashells and augmented with leather.
-
 
 ![Coralhelm Commander](3-Mechanics/CLI/races/img/merfolk2.webp#center)

@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Glasswork Golem
+tags:
+  - Quelle/5e/wbtw
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
 aliases:
-- "Glasswork Golem"
+  - "Glasswork Golem"
 ---
 # [Glasswork Golem](3-Mechanics/CLI/bestiary/construct/glasswork-golem-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 193*  

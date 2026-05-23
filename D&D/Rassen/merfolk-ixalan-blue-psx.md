@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Merfolk (Ixalan; Blue)
 tags:
-- ttrpg-cli/compendium/src/5e/psx
-- ttrpg-cli/race/merfolk/ixalan-blue
+  - Quelle/5e/psx
+  - Rasse/merfolk/ixalan-blue
 aliases:
-- "Merfolk (Ixalan; Blue)"
+  - "Merfolk (Ixalan; Blue)"
 ---
 # Merfolk (Ixalan; Blue)
 *Source: Plane Shift: Ixalan p. 12*  
@@ -56,6 +54,5 @@ You gain proficiency in the [History](3-Mechanics/CLI/rules/skills.md#History) a
 Blue merfolk often have burgundy or magenta on their faces and chests, with lighter shades of blue and purple elsewhere. Their eyes are red, orange, or blue, and their long, thin, and elegant fins resemble scarves or veils of fine fabric. They swim easily, even upstream, and clamber over rocks and through rapids with ease. They prefer to dwell in shallow waters, but spend a fair amount of time on land as well.
 
 The River Heralds are merfolk—a race of amphibious humanoids at home throughout the oceans, rivers, and rain forests of Ixalan. They stand between seven and eight feet tall, with skin that ranges from deep burgundy through many shades of violet and blue, to green, bright orange, and yellow. They are humanlike in shape, but have long fins extending from their shoulders, forearms, middle backs, and calves. Frills of fins also protrude from the backs of their heads. All merfolk can breathe air or filter oxygen from the water, and they can walk on land or swim with equal ease.
-
 
 ![Coralhelm Commander](3-Mechanics/CLI/races/img/merfolk2.webp#center)

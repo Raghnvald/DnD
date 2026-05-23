@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
+Bezeichnung: Animated Ghaunadaur Statue
 tags:
-- ttrpg-cli/compendium/src/5e/wdmm
-- ttrpg-cli/object/size/large
-- ttrpg-cli/object/type/unknown
+  - Kompendium/Objekt/size/large
+  - Kompendium/Objekt/type/unknown
+  - Quelle/5e/wdmm
 aliases:
-- "Animated Ghaunadaur Statue"
+  - "Animated Ghaunadaur Statue"
 ---
 # Animated Ghaunadaur Statue
 *Source: Waterdeep: Dungeon of the Mad Mage p. 250*  

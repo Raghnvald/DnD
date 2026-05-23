@@ -16,7 +16,7 @@ Habitat:
   - Unterreich
   - Wald
   - Wüste
-image: image/stirge.webp
+image: token/stirge.webp
 status: completed
 tags:
   - Monster/Größe/Winzig

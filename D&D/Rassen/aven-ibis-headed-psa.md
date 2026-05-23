@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Aven (Ibis-Headed)
 tags:
-- ttrpg-cli/compendium/src/5e/psa
-- ttrpg-cli/race/aven/ibis-headed
+  - Quelle/5e/psa
+  - Rasse/aven/ibis-headed
 aliases:
-- "Aven (Ibis-Headed)"
+  - "Aven (Ibis-Headed)"
 ---
 # Aven (Ibis-Headed)
 *Source: Plane Shift: Amonkhet p. 16*  
@@ -59,7 +57,6 @@ Spellcasters are common among [ibis-headed aven](3-Mechanics/CLI/races/aven-ibis
 [Hawk-headed aven](3-Mechanics/CLI/races/aven-hawk-headed-psa.md) are often drawn to master techniques of long-range combat, whether the [javelin](3-Mechanics/CLI/items/javelin.md) that is the preferred weapon of many, the bow, or other thrown weapons. Whatever weapon they use, aven hover and swoop in the air above the fray, seeking the opportune moment to strike in exactly the right place. In line with the teachings of the god of solidarity, they often fly in tight formations with other aven in their crops, supporting and protecting each other. Aven take great pride in the precision of their attacks, relying on their keen vision and superior vantage points. They view the sharp tip of a [javelin](3-Mechanics/CLI/items/javelin.md) or [arrow](3-Mechanics/CLI/items/arrow.md) as a symbol of their love for precision, and some initiates maintain carefully tended collections of spearheads or arrowheads.
 
 A relatively small number of aven of both varieties end up focusing on hand-to-hand combat. Even there, they use their ability to fly to great advantage, often swooping down on their foes from a great height. The speed and power of a blow from a diving aven can be utterly devastating, but such a strike poses a tremendous risk to the aven as well as the target. An aven who fails to pull up from the dive in time can suffer even worse injuries than the target of the attack. Aven often minimize this risk by hurling [javelins](3-Mechanics/CLI/items/javelin.md) while they dive, then pulling up early after a successful throw.
-
 
 > [!gallery]
 ![Companion of the Trials](3-Mechanics/CLI/races/img/aven2.webp)

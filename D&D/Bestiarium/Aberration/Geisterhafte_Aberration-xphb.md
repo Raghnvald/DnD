@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: /
 Habitat:
   - /
-image: aberrant-spirit-xphb.webp
+image: token/aberrant-spirit-xphb.webp
 status: WIP
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Preface
 tags:
-- ttrpg-cli/compendium/src/5e/mabjov
+  - Quelle/5e/mabjov
 aliases:
-- "Preface"
+  - "Preface"
 ---
 # Preface
 *Source: Minsc and Boo's Journal of Villainy* 

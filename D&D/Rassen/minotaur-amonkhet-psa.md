@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Minotaur (Amonkhet)
 tags:
-- ttrpg-cli/compendium/src/5e/psa
-- ttrpg-cli/race/minotaur/amonkhet
+  - Quelle/5e/psa
+  - Rasse/minotaur/amonkhet
 aliases:
-- "Minotaur (Amonkhet)"
+  - "Minotaur (Amonkhet)"
 ---
 # Minotaur (Amonkhet)
 *Source: Plane Shift: Amonkhet p. 19*  
@@ -69,6 +67,5 @@ Their size and strength makes minotaurs ideally suited for hand-to-hand combat. 
 But though minotaurs are known for their physical size and strength, this hardly precludes the presence of keen minds and powerful spellcasters among them. Though they are fewer in number than hand-to-hand specialists, minotaur mages draw on their natural ferocity to instill terror in the hearts of their opponents with a terrible roaring bellow. They manifest their fury as blasts of flame, or imbue their own horns and fists with searing heat to make their physical attacks more deadly.
 
 The relatively few minotaurs who specialize in long-range combat enjoy one aspect of that style in particular—the opportunity to draw first blood, marking the moment when a battle has truly begun. Minotaurs use [heavy bows](3-Mechanics/CLI/items/longbow.md) and [javelins](3-Mechanics/CLI/items/javelin.md), and take special delight in firing into the middle of enemy formations to sow as much chaos and confusion as possible.
-
 
 ![Minotaur Sureshot](3-Mechanics/CLI/races/img/minotaur-amonkhet-2.webp#center)

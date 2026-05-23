@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Wildspace Awaits!"
 tags:
-- ttrpg-cli/compendium/src/5e/lox
+  - Quelle/5e/lox
 aliases:
-- "Introduction: Wildspace Awaits!"
+  - "Introduction: Wildspace Awaits!"
 ---
 # Introduction: Wildspace Awaits!
 *Source: Light of Xaryxis, p. 4* 

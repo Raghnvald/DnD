@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Adventure Credits
 tags:
-- ttrpg-cli/compendium/src/5e/scoee
+  - Quelle/5e/scoee
 aliases:
-- "Adventure Credits"
+  - "Adventure Credits"
 ---
 # Adventure Credits
 *Source: Scions of Elemental Evil* 

@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Gnome (Deep/Svirfneblin)
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/race/gnome/deep-svirfneblin
+  - Quelle/5e/scag
+  - Rasse/gnome/deep-svirfneblin
 aliases:
-- "Gnome (Deep/Svirfneblin)"
+  - "Gnome (Deep/Svirfneblin)"
 ---
 # Gnome (Deep/Svirfneblin)
 *Source: Sword Coast Adventurer's Guide p. 115*  
-
 
 - **Ability Scores**: dex +1
 - **Size**: Small

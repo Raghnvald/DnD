@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 2: The Inner Lair"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Part 2: The Inner Lair"
+  - "Part 2: The Inner Lair"
 ---
 # Part 2: The Inner Lair
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 5* 

@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Hanali Celanil
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/life
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/elven
+  - Quelle/5e/scag
 aliases:
-- "Hanali Celanil"
+  - "Hanali Celanil"
 ---
 # Hanali Celanil
 *Source: Sword Coast Adventurer's Guide p. 23* 

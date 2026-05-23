@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Altisaur
+Kategorie: Monstrosität (Dinosaurier)
+Größe: Gigantisch
+HG: "13"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/13

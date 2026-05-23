@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Vampiric Character Options"
 tags:
-- ttrpg-cli/compendium/src/5e/abh
+  - Quelle/5e/abh
 aliases:
-- "Chapter 1: Vampiric Character Options"
+  - "Chapter 1: Vampiric Character Options"
 ---
 # Chapter 1: Vampiric Character Options
 *Source: Astarion's Book of Hungers* 

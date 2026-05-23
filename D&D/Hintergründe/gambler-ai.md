@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Gambler
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/ai
+  - Kompendium/Hintergrund
+  - Quelle/5e/ai
 aliases:
-- "Gambler"
+  - "Gambler"
 ---
 # Gambler
 *Source: Acquisitions Incorporated p. 49*  
-
 
 - **Skill Proficiencies.** Deception, Insight  
 - **Tool Proficiencies.** One gaming set  

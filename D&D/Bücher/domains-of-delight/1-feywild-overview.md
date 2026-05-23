@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Feywild Overview
 tags:
-- ttrpg-cli/compendium/src/5e/dod
+  - Quelle/5e/dod
 aliases:
-- "Feywild Overview"
+  - "Feywild Overview"
 ---
 # Feywild Overview
 *Source: Domains of Delight, p. 3* 

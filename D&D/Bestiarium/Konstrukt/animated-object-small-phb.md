@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Object (Small)
+Kategorie: Konstrukt
+Größe: Klein
+HG: /
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/

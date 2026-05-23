@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: How to Play"
 tags:
-- ttrpg-cli/compendium/src/5e/rmr
+  - Quelle/5e/rmr
 aliases:
-- "Chapter 1: How to Play"
+  - "Chapter 1: How to Play"
 ---
 # Chapter 1: How to Play
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules, p. 2* 

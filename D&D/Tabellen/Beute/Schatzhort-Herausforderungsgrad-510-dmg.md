@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "Schatzhort: Herausforderungsgrad 5—10"
+Bezeichnung: "Schatzhort: Herausforderungsgrad 5 - 10"
 tags:
   - Quelle/5e/dmg
 aliases:

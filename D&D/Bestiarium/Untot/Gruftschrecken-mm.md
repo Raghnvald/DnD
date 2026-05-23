@@ -10,7 +10,7 @@ Habitat:
   - Sumpf
   - Unterreich
   - Wüste
-image: Untot/img/wight.webp
+image: token/wight.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

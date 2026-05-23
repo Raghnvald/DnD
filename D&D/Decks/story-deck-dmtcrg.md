@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Story Deck
 tags:
-- ttrpg-cli/compendium/src/5e/dmtcrg
+  - Quelle/5e/dmtcrg
 aliases:
-- "Story Deck"
+  - "Story Deck"
 ---
 # Story Deck
 *Source: The Deck of Many Things: Card Reference Guide p. 11*  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Boon of Revelry
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Boon of Revelry"
+  - "Boon of Revelry"
 ---
 # Boon of Revelry
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

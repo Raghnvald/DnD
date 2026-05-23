@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Intelligente magische Gegenstände; Besondere Bestimmung
+Bezeichnung: Besondere Bestimmung
 tags:
   - Quelle/5e/dmg
 aliases:

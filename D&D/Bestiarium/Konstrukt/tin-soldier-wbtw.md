@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Tin Soldier
+tags:
+  - Quelle/5e/wbtw
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/construct
 aliases:
-- "Tin Soldier"
+  - "Tin Soldier"
 ---
 # [Tin Soldier](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 115*  

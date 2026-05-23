@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Wald
-image: image/giant-badger-webp
+image: token/giant-badger-webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Nylea's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/nyleas-votary
+  - ttrpg-cli/spell/list/reward/nyleas-votary
 aliases:
-- "Spells for Nylea's Votary"
+  - "Spells for Nylea's Votary"
 ---
 # Spells for Nylea's Votary
 

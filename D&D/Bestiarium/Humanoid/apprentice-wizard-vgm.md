@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Apprentice Wizard
+Kategorie: Humanoid (jede Rasse)
+Größe: Mittelgroß
+HG: 1/4
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

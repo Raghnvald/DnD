@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Asmodeus
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Asmodeus"
-- "The Cloven"
-- "The Lord of the Ninth"
-- "Old Hoof and Horn"
+  - "Asmodeus"
+  - "Old Hoof and Horn"
+  - "The Cloven"
+  - "The Lord of the Ninth"
 ---
 # Asmodeus
 *Source: Forgotten Realms: Heroes of Faerûn p. 100* 

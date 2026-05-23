@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Dangerous Designs
 tags:
-- ttrpg-cli/compendium/src/5e/dd
+  - Quelle/5e/dd
 aliases:
-- "Dangerous Designs"
+  - "Dangerous Designs"
 ---
 # Dangerous Designs
 *Source: Wildemount: Dangerous Designs, p. 217* 

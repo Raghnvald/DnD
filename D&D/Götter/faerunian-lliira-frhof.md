@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Lliira
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Lliira"
-- "Mistress of Revels"
-- "Our Lady of Joy"
+  - "Lliira"
+  - "Mistress of Revels"
+  - "Our Lady of Joy"
 ---
 # Lliira
 *Source: Forgotten Realms: Heroes of Faerûn p. 112* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/bam
+  - Quelle/5e/bam
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: Boo's Astral Menagerie, p. 4* 

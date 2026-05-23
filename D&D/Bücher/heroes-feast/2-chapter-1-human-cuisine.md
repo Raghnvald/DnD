@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Human Cuisine"
 tags:
-- ttrpg-cli/compendium/src/5e/hf
+  - Quelle/5e/hf
 aliases:
-- "Chapter 1: Human Cuisine"
+  - "Chapter 1: Human Cuisine"
 ---
 # Chapter 1: Human Cuisine
 *Source: Heroes' Feast, p. 1* 

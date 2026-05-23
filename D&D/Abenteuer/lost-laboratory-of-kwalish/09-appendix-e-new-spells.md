@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix E: New Spells"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Appendix E: New Spells"
+  - "Appendix E: New Spells"
 ---
 # Appendix E: New Spells
 *Source: Lost Laboratory of Kwalish, p. 57* 

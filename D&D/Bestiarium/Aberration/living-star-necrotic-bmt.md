@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Star (Necrotic)
+Kategorie: Aberration
+Größe: M oder S
+HG: 3
+status: WIP
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/3

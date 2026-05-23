@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Setting Up a Home Bar
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Setting Up a Home Bar"
+  - "Setting Up a Home Bar"
 ---
 # Setting Up a Home Bar
 *Source: Puncheons and Flagons, p. 9* 

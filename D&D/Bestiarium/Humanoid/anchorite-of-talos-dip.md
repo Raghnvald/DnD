@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Anchorite of Talos
+Kategorie: Humanoid (Halbork)
+Größe: Mittelgroß
+HG: "3"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

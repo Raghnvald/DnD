@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 7: Stygia, the Frozen Sea"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 7: Stygia, the Frozen Sea"
+  - "Chapter 7: Stygia, the Frozen Sea"
 ---
 # Chapter 7: Stygia, the Frozen Sea
 *Source: Chains of Asmodeus, p. 123* 

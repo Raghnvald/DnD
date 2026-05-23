@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Dragonmark Outpost
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Bastion
+  - Quelle/5e/efa
 aliases:
-- "Dragonmark Outpost"
+  - "Dragonmark Outpost"
 ---
 # Dragonmark Outpost
 *Level 5 Bastion facility*  

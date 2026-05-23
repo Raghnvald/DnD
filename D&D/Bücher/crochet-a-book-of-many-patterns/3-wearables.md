@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Wearables
 tags:
-- ttrpg-cli/compendium/src/5e/cabomp
+  - Quelle/5e/cabomp
 aliases:
-- "Wearables"
+  - "Wearables"
 ---
 # Wearables
 *Source: Crochet: A Book of Many Patterns, p. 73* 

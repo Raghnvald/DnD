@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Ontharyx
-Image: NSC/token/ontharyx-pabtso.webp
+Image: token/ontharyx-pabtso.webp
 linter-yaml-title-alias: Ontharyx
 ---
 # Ontharyx

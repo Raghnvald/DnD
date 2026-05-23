@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/rmbre
+  - Quelle/5e/rmbre
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy, p. 2* 

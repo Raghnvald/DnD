@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Broken Vow
 tags:
-- ttrpg-cli/compendium/src/5e/vrgr
-- ttrpg-cli/reward/curse
+  - Kompendium/Belohnung/curse
+  - Quelle/5e/vrgr
 aliases:
-- "Broken Vow"
+  - "Broken Vow"
 ---
 # Broken Vow
 *Curse*  

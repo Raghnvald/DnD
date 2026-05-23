@@ -3,6 +3,9 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Todesslaad "
 Kategorie: Aberration (Gestaltwandler)
+Größe: Mittelgroß
+HG: 10
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10

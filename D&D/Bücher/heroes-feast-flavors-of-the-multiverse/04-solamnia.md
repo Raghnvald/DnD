@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Solamnia
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "Solamnia"
+  - "Solamnia"
 ---
 # Solamnia
 *Source: Heroes' Feast Flavors of the Multiverse, p. 65* 

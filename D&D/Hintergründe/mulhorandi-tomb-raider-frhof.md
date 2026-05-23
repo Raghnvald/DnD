@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Mulhorandi Tomb Raider
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Mulhorandi Tomb Raider"
+  - "Mulhorandi Tomb Raider"
 ---
 # Mulhorandi Tomb Raider
 *Source: Forgotten Realms: Heroes of Faerûn p. 33*  

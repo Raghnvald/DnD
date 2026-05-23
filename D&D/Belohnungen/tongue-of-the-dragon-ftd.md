@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Tongue of the Dragon
 tags:
-- ttrpg-cli/compendium/src/5e/ftd
-- ttrpg-cli/reward/draconic-gift
+  - Kompendium/Belohnung/draconic-gift
+  - Quelle/5e/ftd
 aliases:
-- "Tongue of the Dragon"
+  - "Tongue of the Dragon"
 ---
 # Tongue of the Dragon
 *Draconic Gift, uncommon*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: X Marks the Spot
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "X Marks the Spot"
+  - "X Marks the Spot"
 ---
 # X Marks the Spot
 *Source: X Marks the Spot, p. 1* 

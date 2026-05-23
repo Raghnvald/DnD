@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ape
+Kategorie: Tier
+Größe: Mittelgroß
+HG: 1/2
+Habitat:
+  - Wald
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

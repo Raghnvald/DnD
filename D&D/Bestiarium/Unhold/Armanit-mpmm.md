@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Armanite
+Kategorie: Unhold (Dämon)
+Größe: Groß
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

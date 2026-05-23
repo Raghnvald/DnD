@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Friends and Foes
 tags:
-  - new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
   - Friends and Foes
 ---

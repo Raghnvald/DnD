@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Adventure Spreads
 tags:
-- ttrpg-cli/compendium/src/5e/dmtcrg
+  - Quelle/5e/dmtcrg
 aliases:
-- "Adventure Spreads"
+  - "Adventure Spreads"
 ---
 # Adventure Spreads
 *Source: The Deck of Many Things: Card Reference Guide, p. 8* 

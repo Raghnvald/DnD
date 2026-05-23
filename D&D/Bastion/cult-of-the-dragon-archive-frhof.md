@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Cult of the Dragon Archive
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Bastion
+  - Quelle/5e/frhof
 aliases:
-- "Cult of the Dragon Archive"
+  - "Cult of the Dragon Archive"
 ---
 # Cult of the Dragon Archive
 *Level 13 Bastion facility*  

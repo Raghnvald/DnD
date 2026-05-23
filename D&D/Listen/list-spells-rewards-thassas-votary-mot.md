@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Thassa's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/thassas-votary
+  - ttrpg-cli/spell/list/reward/thassas-votary
 aliases:
-- "Spells for Thassa's Votary"
+  - "Spells for Thassa's Votary"
 ---
 # Spells for Thassa's Votary
 

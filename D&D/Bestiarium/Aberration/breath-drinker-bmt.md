@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Breath Drinker
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 14
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/14

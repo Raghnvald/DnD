@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Treasure
+Bezeichnung: "Kapitel 7: Schätze"
 tags:
   - Quelle/5e/dmg
 aliases:

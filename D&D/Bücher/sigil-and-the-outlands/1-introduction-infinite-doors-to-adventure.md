@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Infinite Doors to Adventure"
 tags:
-- ttrpg-cli/compendium/src/5e/sato
+  - Quelle/5e/sato
 aliases:
-- "Introduction: Infinite Doors to Adventure"
+  - "Introduction: Infinite Doors to Adventure"
 ---
 # Introduction: Infinite Doors to Adventure
 *Source: Sigil and the Outlands, p. 4* 

@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/crcotn
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Corrupted Giant Shark
+Kategorie: Aberration
+Größe: Riesig
+HG: 9
+status: WIP
+tags:
+  - Quelle/5e/crcotn
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Corrupted Giant Shark"
+  - Corrupted Giant Shark
 ---
 # [Corrupted Giant Shark](3-Mechanics/CLI/bestiary/aberration/corrupted-giant-shark-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 196*  

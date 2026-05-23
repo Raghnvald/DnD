@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Delicious Pain
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Delicious Pain"
+  - "Delicious Pain"
 ---
 # Delicious Pain
 *Source: Astarion's Book of Hungers p. 9*  

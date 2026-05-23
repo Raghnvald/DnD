@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix F: Additional Rumors"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Appendix F: Additional Rumors"
+  - "Appendix F: Additional Rumors"
 ---
 # Appendix F: Additional Rumors
 *Source: Lost Laboratory of Kwalish, p. 58* 

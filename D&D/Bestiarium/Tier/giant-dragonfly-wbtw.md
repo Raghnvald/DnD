@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Dragonfly
+tags:
+  - Quelle/5e/wbtw
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 aliases:
-- "Giant Dragonfly"
+  - "Giant Dragonfly"
 ---
 # [Giant Dragonfly](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 234*  

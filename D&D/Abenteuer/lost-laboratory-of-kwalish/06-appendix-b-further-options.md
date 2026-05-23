@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Further Options"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Appendix B: Further Options"
+  - "Appendix B: Further Options"
 ---
 # Appendix B: Further Options
 *Source: Lost Laboratory of Kwalish, p. 34* 

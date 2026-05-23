@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Failed Merchant
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/ai
+  - Kompendium/Hintergrund
+  - Quelle/5e/ai
 aliases:
-- "Failed Merchant"
+  - "Failed Merchant"
 ---
 # Failed Merchant
 *Source: Acquisitions Incorporated p. 49*  
-
 
 - **Skill Proficiencies.** Investigation, Persuasion  
 - **Tool Proficiencies.** One type of artisan's tools  

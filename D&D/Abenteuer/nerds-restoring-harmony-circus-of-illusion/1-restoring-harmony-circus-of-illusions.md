@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Restoring Harmony: Circus of Illusions"
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-coi
+  - Quelle/5e/nrh-coi
 aliases:
-- "Restoring Harmony: Circus of Illusions"
+  - "Restoring Harmony: Circus of Illusions"
 ---
 # Restoring Harmony: Circus of Illusions
 *Source: NERDS Restoring Harmony: Circus of Illusion, p. 2* 

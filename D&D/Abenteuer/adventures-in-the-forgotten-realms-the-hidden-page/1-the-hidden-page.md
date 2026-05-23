@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Hidden Page
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-thp
+  - Quelle/5e/aitfr-thp
 aliases:
-- "The Hidden Page"
+  - "The Hidden Page"
 ---
 # The Hidden Page
 *Source: Adventures in the Forgotten Realms: The Hidden Page, p. 2* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Sigil
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "Sigil"
+  - "Sigil"
 ---
 # Sigil
 *Source: Heroes' Feast Flavors of the Multiverse, p. 153* 

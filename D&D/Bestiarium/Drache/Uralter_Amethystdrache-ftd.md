@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 23
 Habitat:
   - /
-image: Drache/token/Ancient-Amethyst-Dragon-ftd.webp
+image: token/Ancient-Amethyst-Dragon-ftd.webp
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/23

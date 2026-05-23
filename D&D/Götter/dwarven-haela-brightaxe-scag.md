@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Haela Brightaxe
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/war
+  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/scag
 aliases:
-- "Haela Brightaxe"
+  - "Haela Brightaxe"
 ---
 # Haela Brightaxe
 *Source: Sword Coast Adventurer's Guide p. 22* 

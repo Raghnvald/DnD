@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: From Cyan Depths
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-fcd
+  - Quelle/5e/aitfr-fcd
 aliases:
-- "From Cyan Depths"
+  - "From Cyan Depths"
 ---
 # From Cyan Depths
 *Source: Adventures in the Forgotten Realms: From Cyan Depths, p. 2* 

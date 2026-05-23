@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Mysterious Islands
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Mysterious Islands"
+  - "Mysterious Islands"
 ---
 # Mysterious Islands
 *Source: Ghosts of Saltmarsh p. 211* 

@@ -9,7 +9,7 @@ HG: 2
 Habitat:
   - Unterreich
   - Wald
-image: image/grick.webp
+image: token/grick.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

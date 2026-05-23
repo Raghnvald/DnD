@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Waukeen
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Waukeen"
-- "The Coinmaiden"
-- "Our Lady of Gold"
-- "The Merchant's Friend"
+  - "Our Lady of Gold"
+  - "The Coinmaiden"
+  - "The Merchant's Friend"
+  - "Waukeen"
 ---
 # Waukeen
 *Source: Forgotten Realms: Heroes of Faerûn p. 127* 

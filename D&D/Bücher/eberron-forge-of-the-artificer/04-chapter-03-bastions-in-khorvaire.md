@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 03: Bastions in Khorvaire"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Chapter 03: Bastions in Khorvaire"
+  - "Chapter 03: Bastions in Khorvaire"
 ---
 # Chapter 03: Bastions in Khorvaire
 *Source: Eberron: Forge of the Artificer, p. 47* 

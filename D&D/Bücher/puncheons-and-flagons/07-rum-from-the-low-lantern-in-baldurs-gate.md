@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Rum from The Low Lantern in Baldur's Gate"
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Rum from The Low Lantern in Baldur's Gate"
+  - "Rum from The Low Lantern in Baldur's Gate"
 ---
 # Rum from The Low Lantern in Baldur's Gate
 *Source: Puncheons and Flagons, p. 68* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Planar Wanderer
 tags:
-- ttrpg-cli/compendium/src/5e/sato
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/sato
 aliases:
-- "Planar Wanderer"
+  - "Planar Wanderer"
 ---
 # Planar Wanderer
 *Source: Sigil and the Outlands p. 11*  

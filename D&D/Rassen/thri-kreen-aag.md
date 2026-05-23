@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Thri-kreen
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/race/thri-kreen
+  - Quelle/5e/aag
+  - Rasse/thri-kreen
 aliases:
-- "Thri-kreen"
+  - "Thri-kreen"
 ---
 # Thri-kreen
 *Source: Astral Adventurer's Guide p. 15*  

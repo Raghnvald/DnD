@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Exploring the Island
 tags:
-- ttrpg-cli/compendium/src/5e/ttp
+  - Quelle/5e/ttp
 aliases:
-- "Exploring the Island"
+  - "Exploring the Island"
 ---
 # Exploring the Island
 *Source: The Tortle Package, p. 5* 

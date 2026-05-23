@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Albino Dwarf Warrior
+Kategorie: Humanoid (Zwerg)
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

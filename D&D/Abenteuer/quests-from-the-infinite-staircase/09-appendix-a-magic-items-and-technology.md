@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Magic Items and Technology"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Appendix A: Magic Items and Technology"
+  - "Appendix A: Magic Items and Technology"
 ---
 # Appendix A: Magic Items and Technology
 *Source: Quests from the Infinite Staircase, p. 190* 

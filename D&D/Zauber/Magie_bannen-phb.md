@@ -1,6 +1,12 @@
 ---
-Bezeichnung: Dispel Magic
+Bezeichnung: Magie bannen
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Reichweite: 36 m
+Komponenten: V, G
+Wirkungsdauer: unmittelbar
+Angriff: /
+Schaden: /
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -32,18 +38,18 @@ aliases:
   - Dispel Magic
 linter-yaml-title-alias: Dispel Magic
 ---
-# Dispel Magic
-*3rd-level, Abjuration*  
+# Magie bannen
+*Bann des 3. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** 36 m
+- **Komponenten:** V, G
+- **Wirkungsdauer:** unmittelbar
 
-Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.
+Wähle eine Kreatur, einen Gegenstand oder einen magischen Effekt in Reichweite.Jeder Zauber des 3. oder eines niedrigeren Grades, der auf dem Ziel liegt, endet sofort. Lege für jeden entsprechenden Zauber des 4. oder eines höheren Grades einen Attributswurf mit deinem Attribut zum Zauberwirken ab. Der SG beträgt 10 + den Grad des Zaubers. Bei einem erfolgreichen Wurf endet der Zauber.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
+**Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 4. oder eines höheren Grades wirkst, wird der Effekt von auf dem Ziel liegenden Zaubern beendet, wenn ihr Grad dem des verbrauchten Zauberplatzes entspricht oder niedriger ist.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Hexenmeister](Listen/list-spells-classes-warlock.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Kleriker (Domäne List)](Listen/list-spells-classes-trickery-domain.md);  [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Magier](Listen/list-spells-classes-wizard.md); [Paladin (Schwur der Hingabe)](Listen/list-spells-classes-oath-of-devotion.md); [Paladin](Listen/list-spells-classes-paladin.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Zauberer](Listen/list-spells-classes-sorcerer.md); 
 
-*Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 247. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

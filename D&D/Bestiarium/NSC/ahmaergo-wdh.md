@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ahmaergo
+Kategorie: Humanoid (Zwerg)
+Größe: Mittelgroß
+HG: "9"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9

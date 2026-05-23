@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 02: Character Options"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Chapter 02: Character Options"
+  - "Chapter 02: Character Options"
 ---
 # Chapter 02: Character Options
 *Source: Eberron: Forge of the Artificer, p. 23* 

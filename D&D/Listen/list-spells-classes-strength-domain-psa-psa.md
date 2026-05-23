@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Strength Domain (PSA)
 tags:
-- ttrpg-cli/spell/list/subclass/strength-domain-psa
+  - ttrpg-cli/spell/list/subclass/strength-domain-psa
 aliases:
-- "Spells for Strength Domain (PSA)"
+  - "Spells for Strength Domain (PSA)"
 ---
 # Spells for Strength Domain (PSA)
 

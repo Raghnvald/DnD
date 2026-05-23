@@ -5,6 +5,8 @@ Bezeichnung: Ältestengehirndrache
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 22
+Habitat:
+  - /
 status: WIP
 tags:
   - Monster/Größe/Gigantisch

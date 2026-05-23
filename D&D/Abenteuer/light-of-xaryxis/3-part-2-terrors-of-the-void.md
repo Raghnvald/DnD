@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 2: Terrors of the Void"
 tags:
-- ttrpg-cli/compendium/src/5e/lox
+  - Quelle/5e/lox
 aliases:
-- "Part 2: Terrors of the Void"
+  - "Part 2: Terrors of the Void"
 ---
 # Part 2: Terrors of the Void
 *Source: Light of Xaryxis, p. 21* 

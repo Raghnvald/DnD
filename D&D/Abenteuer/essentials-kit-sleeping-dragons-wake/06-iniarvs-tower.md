@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Iniarv's Tower"
 tags:
-- ttrpg-cli/compendium/src/5e/sdw
+  - Quelle/5e/sdw
 aliases:
-- "Iniarv's Tower"
+  - "Iniarv's Tower"
 ---
 # Iniarv's Tower
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

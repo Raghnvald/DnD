@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Uni and the Hunt for the Lost Horn
 ---
 # Index of Uni and the Hunt for the Lost Horn
 

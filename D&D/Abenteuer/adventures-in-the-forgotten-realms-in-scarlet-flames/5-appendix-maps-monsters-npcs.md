@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix: Maps, Monsters, & NPCs"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-isf
+  - Quelle/5e/aitfr-isf
 aliases:
-- "Appendix: Maps, Monsters, & NPCs"
+  - "Appendix: Maps, Monsters, & NPCs"
 ---
 # Appendix: Maps, Monsters, & NPCs
 *Source: Adventures in the Forgotten Realms: In Scarlet Flames, p. 12* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Lightly Armored
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/phb
 aliases:
-- "Lightly Armored"
+  - "Lightly Armored"
 ---
 # Lightly Armored
 *Source: Player's Handbook p. 167*  

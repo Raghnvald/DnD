@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Squire of Solamnia
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/dsotdq
 aliases:
-- "Squire of Solamnia"
+  - "Squire of Solamnia"
 ---
 # Squire of Solamnia
 *Source: Dragonlance: Shadow of the Dragon Queen p. 34*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Uni and the Hunt for the Lost Horn
 tags:
-- ttrpg-cli/compendium/src/5e/uthftlh
+  - Quelle/5e/uthftlh
 aliases:
-- "Uni and the Hunt for the Lost Horn"
+  - "Uni and the Hunt for the Lost Horn"
 ---
 # Uni and the Hunt for the Lost Horn
 *Source: Uni and the Hunt for the Lost Horn* 

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Scroll Mishaps
+Bezeichnung: Schriftrollenunfälle
 tags:
   - Quelle/5e/dmg
 aliases:

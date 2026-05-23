@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Aberrant Dragonmark
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Aberrant Dragonmark"
+  - "Aberrant Dragonmark"
 ---
 # Aberrant Dragonmark
 *Source: Eberron: Forge of the Artificer p. 39*  

@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Glotzer
+Kategorie: Aberration
+Größe: Winzig
+HG: 1/2
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich

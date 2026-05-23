@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Servo Crafting
 tags:
-- ttrpg-cli/spell/list/feat/servo-crafting
+  - ttrpg-cli/spell/list/feat/servo-crafting
 aliases:
-- "Spells for Servo Crafting"
+  - "Spells for Servo Crafting"
 ---
 # Spells for Servo Crafting
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: About This Book
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "About This Book"
+  - "About This Book"
 ---
 # About This Book
 *Source: Puncheons and Flagons, p. 8* 

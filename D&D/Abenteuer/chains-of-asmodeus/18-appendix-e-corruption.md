@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix E: Corruption"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Appendix E: Corruption"
+  - "Appendix E: Corruption"
 ---
 # Appendix E: Corruption
 *Source: Chains of Asmodeus, p. 278* 

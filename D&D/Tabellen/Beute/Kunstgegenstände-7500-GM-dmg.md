@@ -1,5 +1,5 @@
 ---
-Bezeichnung: 7,500 gp Art Objects
+Bezeichnung: 7.500 GM Kunstgegenstände
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: A Zib for Your Thoughts
 tags:
-- ttrpg-cli/compendium/src/5e/azfyt
+  - Quelle/5e/azfyt
 aliases:
-- "A Zib for Your Thoughts"
+  - "A Zib for Your Thoughts"
 ---
 # A Zib for Your Thoughts
 *Source: A Zib for Your Thoughts, p. 2* 

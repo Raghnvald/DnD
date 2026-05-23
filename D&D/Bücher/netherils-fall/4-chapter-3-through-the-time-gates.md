@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Through the Time Gates"
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Chapter 3: Through the Time Gates"
+  - "Chapter 3: Through the Time Gates"
 ---
 # Chapter 3: Through the Time Gates
 *Source: Netheril's Fall* 

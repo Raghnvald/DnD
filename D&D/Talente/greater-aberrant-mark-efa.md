@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Greater Aberrant Mark
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Greater Aberrant Mark"
+  - "Greater Aberrant Mark"
 ---
 # Greater Aberrant Mark
 *Source: Eberron: Forge of the Artificer p. 43*  

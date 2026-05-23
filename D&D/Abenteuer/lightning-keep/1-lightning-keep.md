@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Lightning Keep
 tags:
-- ttrpg-cli/compendium/src/5e/lk
+  - Quelle/5e/lk
 aliases:
-- "Lightning Keep"
+  - "Lightning Keep"
 ---
 # Lightning Keep
 *Source: Lightning Keep* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/sdw
+  - Quelle/5e/sdw
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

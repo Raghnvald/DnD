@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Manifest Charm of Dolurrh, the Realm of the Dead
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/efa
 aliases:
-- "Manifest Charm of Dolurrh, the Realm of the Dead"
+  - "Manifest Charm of Dolurrh, the Realm of the Dead"
 ---
 # Manifest Charm of Dolurrh, the Realm of the Dead
 *Charm*  

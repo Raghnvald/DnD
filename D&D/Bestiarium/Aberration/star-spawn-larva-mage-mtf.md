@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Star Spawn Larva Mage
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 16
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

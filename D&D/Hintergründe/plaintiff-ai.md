@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Plaintiff
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/ai
+  - Kompendium/Hintergrund
+  - Quelle/5e/ai
 aliases:
-- "Plaintiff"
+  - "Plaintiff"
 ---
 # Plaintiff
 *Source: Acquisitions Incorporated p. 50*  

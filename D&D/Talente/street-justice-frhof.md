@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Street Justice
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Street Justice"
+  - "Street Justice"
 ---
 # Street Justice
 *Source: Forgotten Realms: Heroes of Faerûn p. 41*  

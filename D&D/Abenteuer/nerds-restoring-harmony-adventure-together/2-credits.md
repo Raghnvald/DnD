@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-at
+  - Quelle/5e/nrh-at
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: NERDS Restoring Harmony: Adventure Together* 

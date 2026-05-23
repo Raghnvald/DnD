@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Moonwell Pilgrim
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Moonwell Pilgrim"
+  - "Moonwell Pilgrim"
 ---
 # Moonwell Pilgrim
 *Source: Forgotten Realms: Heroes of Faerûn p. 33*  

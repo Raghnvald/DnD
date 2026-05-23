@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Random Encounters"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Appendix A: Random Encounters"
+  - "Appendix A: Random Encounters"
 ---
 # Appendix A: Random Encounters
 *Source: Lost Laboratory of Kwalish, p. 32* 

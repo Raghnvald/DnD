@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Initiate of High Sorcery
 tags:
-- ttrpg-cli/spell/list/feat/initiate-of-high-sorcery
+  - ttrpg-cli/spell/list/feat/initiate-of-high-sorcery
 aliases:
-- "Spells for Initiate of High Sorcery"
+  - "Spells for Initiate of High Sorcery"
 ---
 # Spells for Initiate of High Sorcery
 

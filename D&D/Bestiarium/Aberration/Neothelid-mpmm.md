@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Neothelid
+Kategorie: Aberration
+Größe: Gigantisch
+HG: 13
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Unterreich

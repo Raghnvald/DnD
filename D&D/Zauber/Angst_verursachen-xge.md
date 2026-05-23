@@ -7,7 +7,7 @@ Komponenten: V
 Wirkungsdauer: K, <1 Minute
 Angriff: WEI
 Schaden: n/a
-status: Completed
+status: completed
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister

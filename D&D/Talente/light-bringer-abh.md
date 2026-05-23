@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Light Bringer
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Light Bringer"
+  - "Light Bringer"
 ---
 # Light Bringer
 *Source: Astarion's Book of Hungers p. 10*  

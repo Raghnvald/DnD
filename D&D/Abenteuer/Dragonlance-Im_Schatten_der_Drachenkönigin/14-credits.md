@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Credits
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Credits
 ---

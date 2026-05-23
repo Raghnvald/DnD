@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Gin from The Hearth in Candlekeep
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Gin from The Hearth in Candlekeep"
+  - "Gin from The Hearth in Candlekeep"
 ---
 # Gin from The Hearth in Candlekeep
 *Source: Puncheons and Flagons, p. 14* 

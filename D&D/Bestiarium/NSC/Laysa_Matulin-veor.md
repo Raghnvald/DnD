@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Laysa Matulin
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: 8
+Habitat: /
+image: token/laysa-matulin-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

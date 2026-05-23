@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Poster Map
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Poster Map"
+  - "Poster Map"
 ---
 # Poster Map
 *Source: Astral Adventurer's Guide* 

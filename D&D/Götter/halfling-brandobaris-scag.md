@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Brandobaris
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/halfling
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/halfling
+  - Quelle/5e/scag
 aliases:
-- "Brandobaris"
+  - "Brandobaris"
 ---
 # Brandobaris
 *Source: Sword Coast Adventurer's Guide p. 23* 

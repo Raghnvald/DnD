@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Deepest Night
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Deepest Night"
+  - "Deepest Night"
 ---
 # Deepest Night
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 2* 

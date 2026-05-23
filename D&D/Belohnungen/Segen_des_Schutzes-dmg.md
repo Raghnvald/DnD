@@ -1,7 +1,6 @@
 ---
 Bezeichnung: Segen des Schutzes
 tags:
-- [Blessing of Magic Resistance](/3-Mechanics/CLI/rewards/blessing-of-magic-resistance-xdmg.md)  
   - Kompendium/Belohnung/blessing
   - Quelle/5e/dmg
 aliases:

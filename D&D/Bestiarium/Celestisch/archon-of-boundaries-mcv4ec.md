@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archon of Boundaries
+Kategorie: Celestisch
+Größe: Riesig
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15

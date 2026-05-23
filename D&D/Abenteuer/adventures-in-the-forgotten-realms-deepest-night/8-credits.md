@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Adventures in the Forgotten Realms: Deepest Night* 

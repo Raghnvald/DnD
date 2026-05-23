@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: House Agent
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Hintergrund
+  - Quelle/5e/efa
 aliases:
-- "House Agent"
+  - "House Agent"
 ---
 # House Agent
 *Source: Eberron: Forge of the Artificer p. 26*  

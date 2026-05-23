@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Magical Mirage
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
-- ttrpg-cli/hazard/env
+  - Kompendium/Bedrohung/env
+  - Quelle/5e/fraif
 aliases:
-- "Magical Mirage"
+  - "Magical Mirage"
 ---
 # Magical Mirage
 *Environmental Hazard*  

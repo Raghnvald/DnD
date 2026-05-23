@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Morkoth
+Kategorie: Aberration
+Größe: Groß
+HG: 11
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Travel Pace
+Bezeichnung: Reisegeschwindigkeit
 tags:
   - Quelle/5e/phb
 aliases:

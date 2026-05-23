@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Tide of Retribution
 tags:
-- ttrpg-cli/compendium/src/5e/tor
+  - Quelle/5e/tor
 aliases:
-- "Tide of Retribution"
+  - "Tide of Retribution"
 ---
 # Tide of Retribution
 *Source: Wildemount: Tide of Retribution, p. 206* 

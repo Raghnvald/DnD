@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Granite Juggernaut
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/12
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Granite Juggernaut
+IMAGE: token/granite-juggernaut-veor.webp
 ---
 # [Granite Juggernaut](3-Mechanics\CLI\bestiary\construct/granite-juggernaut-veor.md)
 *Source: Vecna: Eve of Ruin p. 221*  

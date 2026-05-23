@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix: Monsters and Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-thp
+  - Quelle/5e/aitfr-thp
 aliases:
-- "Appendix: Monsters and Magic Items"
+  - "Appendix: Monsters and Magic Items"
 ---
 # Appendix: Monsters and Magic Items
 *Source: Adventures in the Forgotten Realms: The Hidden Page, p. 12* 

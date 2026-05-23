@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Schwerkraft umkehrenReverse GravityReverse GravityReverse GravityReverse Gravity
+Bezeichnung: Schwerkraft umkehren
 Zaubergrad: 7
 Zeitaufwand: 1 Aktion
 Reichweite: 30 m

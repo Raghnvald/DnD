@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Restoring Harmony: A Voice in the Wilderness"
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-avitw
+  - Quelle/5e/nrh-avitw
 aliases:
-- "Restoring Harmony: A Voice in the Wilderness"
+  - "Restoring Harmony: A Voice in the Wilderness"
 ---
 # Restoring Harmony: A Voice in the Wilderness
 *Source: NERDS Restoring Harmony: A Voice in the Wilderness, p. 2* 

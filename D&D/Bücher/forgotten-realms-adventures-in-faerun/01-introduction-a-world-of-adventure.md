@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: A World of Adventure"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Introduction: A World of Adventure"
+  - "Introduction: A World of Adventure"
 ---
 # Introduction: A World of Adventure
 *Source: Forgotten Realms: Adventures in Faerûn, p. 4* 

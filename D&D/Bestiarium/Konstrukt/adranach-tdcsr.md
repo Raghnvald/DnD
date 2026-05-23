@@ -2,6 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adranach
+Kategorie: Konstrukt
+Größe: Riesig
+HG: "12"
+Habitat:
+  - /
+image: token/adranach-tdcsr.webp
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/12

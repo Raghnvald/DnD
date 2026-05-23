@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 6: Factions of the Realms"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Chapter 6: Factions of the Realms"
+  - "Chapter 6: Factions of the Realms"
 ---
 # Chapter 6: Factions of the Realms
 *Source: Forgotten Realms: Heroes of Faerûn, p. 149* 

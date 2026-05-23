@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Character Options"
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Chapter 1: Character Options"
+  - "Chapter 1: Character Options"
 ---
 # Chapter 1: Character Options
 *Source: Astral Adventurer's Guide, p. 7* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Deck of Several Things
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Deck of Several Things"
+  - "Deck of Several Things"
 ---
 # Deck of Several Things
 *Source: Lost Laboratory of Kwalish p. 53*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: New Monsters
 tags:
-- ttrpg-cli/compendium/src/5e/ttp
+  - Quelle/5e/ttp
 aliases:
-- "New Monsters"
+  - "New Monsters"
 ---
 # New Monsters
 *Source: The Tortle Package, p. 21* 

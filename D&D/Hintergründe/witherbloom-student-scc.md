@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Witherbloom Student
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/scc
+  - Kompendium/Hintergrund
+  - Quelle/5e/scc
 aliases:
-- "Witherbloom Student"
+  - "Witherbloom Student"
 ---
 # Witherbloom Student
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  
-
 
 - **Skill Proficiencies.** [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Tool Proficiencies.** [Herbalism kit](3-Mechanics/CLI/items/herbalism-kit-xphb.md)  

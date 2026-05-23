@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: "Charm of Cozmioko's Glory"
 tags:
-- ttrpg-cli/compendium/src/5e/drde
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/drde
 aliases:
-- "Charm of Cozmioko's Glory"
+  - "Charm of Cozmioko's Glory"
 ---
 # Charm of Cozmioko's Glory
 

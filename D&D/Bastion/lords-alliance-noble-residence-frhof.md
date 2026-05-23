@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: "Lords' Alliance Noble Residence"
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Bastion
+  - Quelle/5e/frhof
 aliases:
-- "Lords' Alliance Noble Residence"
+  - "Lords' Alliance Noble Residence"
 ---
 # Lords' Alliance Noble Residence
 *Level 9 Bastion facility*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix F: Poster Map"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Appendix F: Poster Map"
+  - "Appendix F: Poster Map"
 ---
 # Appendix F: Poster Map
 *Source: Critical Role: Call of the Netherdeep, p. 223* 

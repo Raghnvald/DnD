@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Greater Mark of Hospitality
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Greater Mark of Hospitality"
+  - "Greater Mark of Hospitality"
 ---
 # Greater Mark of Hospitality
 *Source: Eberron: Forge of the Artificer p. 44*  

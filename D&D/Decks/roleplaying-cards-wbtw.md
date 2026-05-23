@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Roleplaying Cards
 tags:
-- ttrpg-cli/compendium/src/5e/wbtw
+  - Quelle/5e/wbtw
 aliases:
-- "Roleplaying Cards"
+  - "Roleplaying Cards"
 ---
 # Roleplaying Cards
 *Source: The Wild Beyond the Witchlight p. 242*  

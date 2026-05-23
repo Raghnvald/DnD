@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 7: The Heart of Despair"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Chapter 7: The Heart of Despair"
+  - "Chapter 7: The Heart of Despair"
 ---
 # Chapter 7: The Heart of Despair
 *Source: Critical Role: Call of the Netherdeep, p. 173* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Episode 5: Hide and Seek"
 tags:
-- ttrpg-cli/compendium/src/5e/oow
+  - Quelle/5e/oow
 aliases:
-- "Episode 5: Hide and Seek"
+  - "Episode 5: Hide and Seek"
 ---
 # Episode 5: Hide and Seek
 *Source: The Orrery of the Wanderer, p. 154* 

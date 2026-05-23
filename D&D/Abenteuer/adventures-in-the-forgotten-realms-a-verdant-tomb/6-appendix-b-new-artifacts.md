@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: New Artifacts"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-avt
+  - Quelle/5e/aitfr-avt
 aliases:
-- "Appendix B: New Artifacts"
+  - "Appendix B: New Artifacts"
 ---
 # Appendix B: New Artifacts
 *Source: Adventures in the Forgotten Realms: A Verdant Tomb, p. 10* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: "Boon of Fortune's Favor"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Boon of Fortune's Favor"
+  - "Boon of Fortune's Favor"
 ---
 # Boon of Fortune's Favor
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

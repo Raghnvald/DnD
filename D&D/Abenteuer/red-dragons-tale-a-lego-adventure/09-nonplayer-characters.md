@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Nonplayer Characters
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Nonplayer Characters"
+  - "Nonplayer Characters"
 ---
 # Nonplayer Characters
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 11* 

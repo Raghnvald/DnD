@@ -17,7 +17,7 @@ Eine Kreatur mit Blindsicht kann ihre Umgebung innerhalb eines bestimmten Bereic
 
 Innerhalb einer festgelegten Reichweite behandeln Kreaturen dämmriges Licht wie helles Licht und Dunkelheit wie dämmriges Licht. Dabei sind sie jedoch nicht in der Lage, Farben wahrzunehmen, in Dunkelheit sehen sie nur Abstufungen von Grau.
 
-## Tremorsense
+## Erschütterungssinn
 *Quellen: Monsterhandbuch S. 9. 
 
 Eine Kreatur mit Erschütterungssinn kann die Quelle von Vibrationen in einem bestimmten Radius wahrnehmen und aufspüren, vorausgesetzt die Kreatur und die Vibrationsquelle sind in Kontakt mit dem gleichen Boden oder der gleichen Substanz. Erschütterungssinn kann nicht verwendet werden, um fliegende oder körperlose Wesen aufzuspüren. Viele grabende Kreaturen haben diesen besonderen Sinn.

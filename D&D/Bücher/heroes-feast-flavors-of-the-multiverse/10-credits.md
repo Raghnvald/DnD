@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Heroes' Feast Flavors of the Multiverse* 

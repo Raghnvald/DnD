@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phisarazu Spyder-Fiend
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/13

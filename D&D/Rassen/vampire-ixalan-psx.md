@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Vampire (Ixalan)
 tags:
-- ttrpg-cli/compendium/src/5e/psx
-- ttrpg-cli/race/vampire/ixalan
+  - Quelle/5e/psx
+  - Rasse/vampire/ixalan
 aliases:
-- "Vampire (Ixalan)"
+  - "Vampire (Ixalan)"
 ---
 # Vampire (Ixalan)
 *Source: Plane Shift: Ixalan p. 14*  
@@ -59,7 +57,6 @@ For many vampires, the Rite of Redemption that transforms a human into a vampire
 Other vampires view vampirism merely as a means to attain a powerful advantage over others. These vampires are fierce, ruthless, and often cruel, relishing conflict—be it political or armed—as a means of demonstrating their superiority. Many are politically ambitious, invoking Torrezon's hierarchy when it serves their interests, but ignoring all the rules of church, state, and morality when those rules become a burden. When these vampires come to Ixalan, they are conquerors, motivated by the prospect of personal glory and the accumulation of riches. Those who achieve wealth and power display it ostentatiously.
 
 The core of every vampire's nature is the Feast of Blood. Though it is forbidden to feed on human citizens of Torrezon, including the human sailors and servants who accompany the vampire conquistadors to Ixalan, vampires are encouraged to feed on outsiders and heretics. The Feast of Blood sends new life essence flowing through the vampire who partakes of it, manifesting as even greater strength and speed.
-
 
 > [!gallery]
 ![Glorifier of Dusk](3-Mechanics/CLI/races/img/vampire2.webp)

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Bestiary"
 tags:
-- ttrpg-cli/compendium/src/5e/nf
+  - Quelle/5e/nf
 aliases:
-- "Appendix B: Bestiary"
+  - "Appendix B: Bestiary"
 ---
 # Appendix B: Bestiary
 *Source: Netheril's Fall* 

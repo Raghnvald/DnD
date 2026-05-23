@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Ephara's Devotee"
 tags:
-- ttrpg-cli/spell/list/reward/epharas-devotee
+  - ttrpg-cli/spell/list/reward/epharas-devotee
 aliases:
-- "Spells for Ephara's Devotee"
+  - "Spells for Ephara's Devotee"
 ---
 # Spells for Ephara's Devotee
 

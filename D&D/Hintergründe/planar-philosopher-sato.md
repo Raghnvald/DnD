@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Planar Philosopher
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/sato
+  - Kompendium/Hintergrund
+  - Quelle/5e/sato
 aliases:
-- "Planar Philosopher"
+  - "Planar Philosopher"
 ---
 # Planar Philosopher
 *Source: Sigil and the Outlands p. 8*  

@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 2: Khorvaire Gazetteer - Distant Lands"
 tags:
-  - new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
   - Chapter 2: Khorvaire Gazetteer - Distant Lands
 ---

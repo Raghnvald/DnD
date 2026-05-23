@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnome Squidling
+Kategorie: Aberration
+Größe: Klein
+HG: 1/2
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-2

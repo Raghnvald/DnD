@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aerosaur
+Kategorie: Monstrosität (Dinosaurier)
+Größe: Gigantisch
+HG: "10"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/10

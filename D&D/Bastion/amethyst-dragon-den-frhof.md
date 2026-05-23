@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Amethyst Dragon Den
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Bastion
+  - Quelle/5e/frhof
 aliases:
-- "Amethyst Dragon Den"
+  - "Amethyst Dragon Den"
 ---
 # Amethyst Dragon Den
 *Level 5 Bastion facility*  

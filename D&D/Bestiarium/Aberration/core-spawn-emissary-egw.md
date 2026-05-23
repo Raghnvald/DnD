@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Core Spawn Emissary
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 6
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

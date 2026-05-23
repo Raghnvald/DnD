@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Episode 2: Fun in Phandalin"
 tags:
-- ttrpg-cli/compendium/src/5e/oow
+  - Quelle/5e/oow
 aliases:
-- "Episode 2: Fun in Phandalin"
+  - "Episode 2: Fun in Phandalin"
 ---
 # Episode 2: Fun in Phandalin
 *Source: The Orrery of the Wanderer, p. 97* 

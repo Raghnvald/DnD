@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 4: Shadow of War"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Chapter 4: Shadow of War
 ---

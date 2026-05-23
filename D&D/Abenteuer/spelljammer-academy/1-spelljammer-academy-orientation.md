@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spelljammer Academy: Orientation"
 tags:
-- ttrpg-cli/compendium/src/5e/sja
+  - Quelle/5e/sja
 aliases:
-- "Spelljammer Academy: Orientation"
+  - "Spelljammer Academy: Orientation"
 ---
 # Spelljammer Academy: Orientation
 *Source: Spelljammer Academy* 

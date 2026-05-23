@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 4: Saviors of the Multiverse"
 tags:
-- ttrpg-cli/compendium/src/5e/lox
+  - Quelle/5e/lox
 aliases:
-- "Part 4: Saviors of the Multiverse"
+  - "Part 4: Saviors of the Multiverse"
 ---
 # Part 4: Saviors of the Multiverse
 *Source: Light of Xaryxis, p. 52* 

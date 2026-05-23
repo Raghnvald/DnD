@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Wages of Vice
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Wages of Vice"
+  - "Wages of Vice"
 ---
 # Wages of Vice
 *Source: Journeys through the Radiant Citadel, p. 66* 

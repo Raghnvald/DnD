@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Initiate of High Sorcery
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/dsotdq
 aliases:
-- "Initiate of High Sorcery"
+  - "Initiate of High Sorcery"
 ---
 # Initiate of High Sorcery
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

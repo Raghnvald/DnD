@@ -2,6 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Acererak
+Kategorie: Untoter
+Größe: Mittelgroß
+HG: 23
+Habitat:
+  - /
+image: token/acererak-toa.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/23

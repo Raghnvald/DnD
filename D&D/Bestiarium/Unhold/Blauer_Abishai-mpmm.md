@@ -10,6 +10,7 @@ tags:
   - Monster/Typ/Unhold/devil
   - Monster/Typ/Unhold/wizard
   - Quelle/5e/mpmm
+  - Quelle/5e/veor
 aliases:
   - Blue Abishai
 ---

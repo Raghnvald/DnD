@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 0
 Habitat:
   - /
-image: NSC/token/gundren-rockseeker-pabtso.webp
+image: token/gundren-rockseeker-pabtso.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

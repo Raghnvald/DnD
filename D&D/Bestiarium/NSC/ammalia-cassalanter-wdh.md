@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ammalia Cassalanter
+Kategorie: Humanoid (Mensch)
+Größe: Mittelgroß
+HG: "5"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

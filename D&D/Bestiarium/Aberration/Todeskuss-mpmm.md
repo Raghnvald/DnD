@@ -3,6 +3,9 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Todeskuss
 Kategorie: Aberration (Betrachter)
+Größe: Groß
+HG: 10
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

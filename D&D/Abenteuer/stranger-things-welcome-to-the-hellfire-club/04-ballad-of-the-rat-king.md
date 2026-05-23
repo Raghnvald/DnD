@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Ballad of the Rat King
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Ballad of the Rat King"
+  - "Ballad of the Rat King"
 ---
 # Ballad of the Rat King
 *Source: Stranger Things: Welcome to the Hellfire Club* 

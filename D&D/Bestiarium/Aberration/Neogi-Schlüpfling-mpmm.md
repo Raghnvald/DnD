@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Neogi-Schlüpfling
+Kategorie: Aberration
+Größe: Winzig
+HG: 1/8
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Hügel

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/pip
+  - Quelle/5e/pip
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Peril in Pinebrook* 

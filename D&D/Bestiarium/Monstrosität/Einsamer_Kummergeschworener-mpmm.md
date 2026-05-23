@@ -1,7 +1,18 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Lonely Sorrowsworn
+Bezeichnung: Einsamer Kummergeschworener
+Kategorie: Monstrosität
+Größe: Mittelgroß
+HG: 9
+Habitat:
+  - Berg
+  - Küste
+  - Stadt
+  - Unterreich
+  - Wüste
+image: token/lost-sorrowsworn.webp
+status: completed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -12,69 +23,56 @@ tags:
   - Monster/HG/9
   - Monster/Typ/Monstrosität
   - Quelle/5e/mpmm
+  - Quelle/5e/veor
 aliases:
   - Lonely Sorrowsworn
 ---
-# [Lonely Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/lonely-sorrowsworn-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 223*  
+# Einsamer Kummergeschworener
+*Quelle: Mordenkainen präsentiert: Monster des Multiversums S. 167*  
 
-The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
+Die Trauer der Vereinsamung befällt viele Kreaturen im Schattenfell, doch das Bedürfnis nach Gesellschaft ist nirgends so dramatisch ausgeprägt wie bei den einsamen Kummergeschworenen - auch Einsame genannt. Wenn diese Kummergeschworenen andere Kreaturen entdecken, verspüren sie das dringende Bedürfnis nach Interaktion und werfen ihre harpunenähnlichen Arme aus, um ihre Opfer heranzuziehen.
 
-## Sorrowsworn
+## Kummergeschworener
 
-The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnations of the plane's bleak nature. Sorrowsworn embody the forms of suffering inherent to the shadowy landscape and visit horror on those who stumble into their midst. Each sorrowsworn personifies a different aspect of despair or distress.
+Die durchdringende Melancholie des Schattenfells führt manchmal zu seltsamen Inkarnationen der trostlosen Natur der Ebene. Kummergeschworene verkörpern die Formen des Leidens, die der schattenhaften Landschaft innewohnen, und verbreiten Grauen bei denen, die in ihre Mitte stolpern. Jeder Kummergeschworene verkörpert einen anderen Aspekt der Verzweiflung oder des Elends.
 
 ```statblock
-"name": "Lonely Sorrowsworn (MPMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Typically  Neutral Evil"
-"ac": !!int "16"
-"ac_class": "natural armor"
-"hp": !!int "112"
-"hit_dice": "15d8 + 45"
-"modifier": !!int "1"
-"stats":
-  - !!int "16"
-  - !!int "12"
-  - !!int "17"
-  - !!int "6"
-  - !!int "11"
-  - !!int "6"
-"speed": "30 ft."
-"damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Common"
-"cr": "9"
-"traits":
-  - "desc": "At the start of each of the sorrowsworn's turns, each creature within\
-      \ 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6)\
-      \ psychic damage."
-    "name": "Psychic Leech"
-  - "desc": "The sorrowsworn has advantage on attack rolls while it is within 30 feet\
-      \ of at least two other creatures. It otherwise has disadvantage on attack rolls."
-    "name": "Thrives on Company"
-"actions":
-  - "desc": "The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 60 ft., one target. *Hit:* 21\
-      \ (4d8 + 3) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two\
-      \ harpoon arms and can grapple up to two creatures at once."
-    "name": "Harpoon Arm"
-  - "desc": "Each creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by\
-      \ the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic\
-      \ damage on a failed save, or half as much damage on a successful one. In either\
-      \ case, the sorrowsworn pulls each of those creatures up to 30 feet straight\
-      \ toward it."
-    "name": "Sorrowful Embrace"
-"source":
-  - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/lonely-sorrowsworn-mpmm.webp"
+name: Einsamer Kummergeschworener
+image: token/lonely-sorrowsworn-mpmm.webp
+source:
+  - MPMM
+size: Mittelgroß
+type: Monstrosität
+alignment: normalerweise Neutral böse
+ac: 16
+ac_class: natürliche Rüstung
+hp: 112
+hit_dice: 15d8 + 45
+modifier: 1
+stats:
+  - 16
+  - 12
+  - 17
+  - 6
+  - 11
+  - 6
+speed: 9 m
+damage_resistances: Hieb, Stich und Wucht bei dämmrigem Licht oder Dunkelheit
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 10
+languages: Gemeinsprache
+cr: "9"
+environment: Berg, Küste, Stadt, Unterreich, Wüste
+traits:
+  - name: Gedeiht in Gesellschaft
+    desc: Während sich der Einsame Kummergeschworene innerhalb von neun Metern von mindestens zwei anderen Kreaturen befindet, ist er bei Angriffswürfen im Vorteil. Andernfalls ist er bei Angriffswürfen im Nachteil.
+  - name: Psychisches Aussaugen
+    desc: Zu Beginn jedes Zugs des Einsamen Kummergeschworenen muss jede Kreatur innerhalb von 1,5 Metern um ihn herum einen SG-15-Weisheits-Rettungswurf bestehen, anderenfalls erleidet sie 10 (3d6) psychischen Schaden.
+actions:
+  - name: Mehrfachangriff
+    desc: Der Einsame Kummergeschworene führt einen Harpunenarm-Angriff aus und verwendet kummervolle Umarmung.
+  - name: Harpunenarm
+    desc: "*Nahkampf-Waffenangriff:* +7 auf Treffer, Reichweite 18 m, ein Ziel. *Treffer:* 21 (4d8 + 3) Stichschaden und das Ziel wird <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 15) wenn es sich um eine größere oder kleinere Kreatur handelt. Der Einsame Kummergeschworene hat zwei Harpunenarme und kann bis zu zwei Kreaturen gleichzeitig packen."
+  - name: Kummervolle Umarmung
+    desc: Jede vom Einsamen Kummergeschworenen <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackte<STATBLOCK-MARKDOWN-LINK> Kreatur muss einen SG-15-Weisheits-Rettungswurf ausführen. Bei einem Misserfolg erleidet sie 18 (4d8) psychischen Schaden, anderenfalls die Hälfte. In beiden Fällen zieht der Einsame Kummergeschworene jede dieser Kreaturen bis zu neun Meter direkt auf sich zu.
 ```
 ^statblock
-
-## Environment
-
-coastal, desert, mountain, underdark, urban

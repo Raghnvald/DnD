@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 07: Elemental Airships"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Chapter 07: Elemental Airships"
+  - "Chapter 07: Elemental Airships"
 ---
 # Chapter 07: Elemental Airships
 *Source: Eberron: Forge of the Artificer, p. 103* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riffel
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/3

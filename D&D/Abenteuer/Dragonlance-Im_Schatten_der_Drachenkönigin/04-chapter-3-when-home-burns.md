@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 3: When Home Burns"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Chapter 3: When Home Burns
 ---

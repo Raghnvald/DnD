@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Roc
+Kategorie: Untoter
+Größe: Groß
+HG: 8
+Habitat: /
+image: token/bone-roc-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
+Bezeichnung: The Head
 tags:
-- ttrpg-cli/compendium/src/5e/rmbre
-- ttrpg-cli/object/size/large
-- ttrpg-cli/object/type/unknown
+  - Kompendium/Objekt/size/large
+  - Kompendium/Objekt/type/unknown
+  - Quelle/5e/rmbre
 aliases:
-- "The Head"
+  - "The Head"
 ---
 # The Head
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 25*  

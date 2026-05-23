@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 5: Uncommon Cuisine"
 tags:
-- ttrpg-cli/compendium/src/5e/hf
+  - Quelle/5e/hf
 aliases:
-- "Chapter 5: Uncommon Cuisine"
+  - "Chapter 5: Uncommon Cuisine"
 ---
 # Chapter 5: Uncommon Cuisine
 *Source: Heroes' Feast, p. 147* 

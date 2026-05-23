@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Premade Characters
 tags:
-- ttrpg-cli/compendium/src/5e/uthftlh
+  - Quelle/5e/uthftlh
 aliases:
-- "Premade Characters"
+  - "Premade Characters"
 ---
 # Premade Characters
 *Source: Uni and the Hunt for the Lost Horn* 

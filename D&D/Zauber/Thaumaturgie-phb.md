@@ -5,7 +5,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V
 Wirkungsdauer: bis zu 1 Minute
-Angriff: nichts
+Angriff: /
 Schaden: Kontrolle
 tags:
   - Klasse/Barde/Magische-Geheimnisse
@@ -43,19 +43,6 @@ Du manifestierst ein kleines Wunder in Reichweite, ein Zeichen übernatürlicher
 
 Wenn du diesen Zauber mehrmals wirkst, können bis zu drei der nicht sofortigen Effekte gleichzeitig aktiv sein. Du kannst solche Effekte als Aktion aufheben.
 
----
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md)
 
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
-
-- Your voice booms up to three times as loud as normal for 1 minute.  
-- You cause flames to flicker, brighten, dim, or change color for 1 minute.  
-- You cause harmless tremors in the ground for 1 minute.  
-- You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.  
-- You instantaneously cause an unlocked door or window to fly open or slam shut.  
-- You alter the appearance of your eyes for 1 minute.  
-
-If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
-
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
-
-*Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 272. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 1: The Outer Lair"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Part 1: The Outer Lair"
+  - "Part 1: The Outer Lair"
 ---
 # Part 1: The Outer Lair
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 4* 

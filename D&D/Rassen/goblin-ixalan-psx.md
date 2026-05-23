@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Goblin (Ixalan)
 tags:
-- ttrpg-cli/compendium/src/5e/psx
-- ttrpg-cli/race/goblin/ixalan
+  - Quelle/5e/psx
+  - Rasse/goblin/ixalan
 aliases:
-- "Goblin (Ixalan)"
+  - "Goblin (Ixalan)"
 ---
 # Goblin (Ixalan)
 *Source: Plane Shift: Ixalan p. 16*  
@@ -51,6 +49,5 @@ You have a climbing speed of 25 feet. You can't use your climbing speed while yo
 Goblins are native to Ixalan, and their eager curiosity drew them to the ships of the Brazen Coalition when the pirates first made landfall on the Sun Empire's shores. Though they still thrive in remote jungle colonies, goblins are most commonly seen swinging on the ropes of sleek pirate ships.
 
 Goblins stand about three feet tall, though they rarely stand upright. They prefer a crouched posture that lets them scramble quickly on all fours, aided by their long prehensile tails. Their hearing and eyesight make them excellent lookouts, and their agility serves them well as crew members on pirate ships. They climb, swing, and jump easily among a ship's ropes, and can get into tight spaces that humans can't. For better or worse, many goblins are also incorrigible pranksters, and they often have a hard time determining when a prank is inappropriate, is poorly timed, or has gone too far.
-
 
 ![Goblin Trailblazer](3-Mechanics/CLI/races/img/goblin2.webp#center)

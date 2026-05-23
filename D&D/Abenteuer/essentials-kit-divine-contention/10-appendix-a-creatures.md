@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Appendix A: Creatures"
+  - "Appendix A: Creatures"
 ---
 # Appendix A: Creatures
 *Source: Essentials Kit: Divine Contention* 

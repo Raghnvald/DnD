@@ -1,6 +1,12 @@
 ---
-Bezeichnung: Guiding Bolt
+Bezeichnung: Lenkendes Geschoss
 Zaubergrad: 1
+Zeitaufwand: 1 Aktion
+Reichweite: 36 m
+Komponenten: V, G
+Wirkungsdauer: 1 Runde
+Angriff: Fern
+Schaden: 4d6
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -15,18 +21,18 @@ aliases:
   - Guiding Bolt
 linter-yaml-title-alias: Guiding Bolt
 ---
-# Guiding Bolt
-*1st-level, Evocation*  
+# Lenkendes Geschoss
+*Hervorrufung des 1. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** 1 round
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** 36 m
+- **Komponenten:** V, G
+- **Wirkungsdauer:** 1 Runde
 
-A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes `4d6` radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+Ein Lichtblitz schießt auf eine Kreatur deiner Wahl in Reichweite zu. Führe einen Fernkampf-Zauberangriff gegen das Ziel aus. Bei einem Treffer erleidet es `4d6` gleißenden Schaden. Zusätzlich ist der nächste Angriffswurf im Vorteil, der vor Ende deines nächsten Zuges gegen das Ziel durchgeführt wird, weil es durch mystisches Licht optisch hervorgehoben wird.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
+**Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 1. hinaus um `1d6`.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md)
 
-*Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 245. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

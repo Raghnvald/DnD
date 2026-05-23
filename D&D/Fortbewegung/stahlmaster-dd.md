@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Stahlmaster
 tags:
-- ttrpg-cli/compendium/src/5e/dd
-- ttrpg-cli/vehicle/size/large
-- ttrpg-cli/vehicle/terrain/land
-- ttrpg-cli/vehicle/type/creature
+  - Quelle/5e/dd
+  - ttrpg-cli/vehicle/size/large
+  - ttrpg-cli/vehicle/terrain/land
+  - ttrpg-cli/vehicle/type/creature
 aliases:
-- "Stahlmaster"
+  - "Stahlmaster"
 ---
 # Stahlmaster
 *Source: Dangerous Designs p. 235*  

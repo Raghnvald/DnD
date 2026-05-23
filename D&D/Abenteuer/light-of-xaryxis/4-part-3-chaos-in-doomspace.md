@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 3: Chaos in Doomspace"
 tags:
-- ttrpg-cli/compendium/src/5e/lox
+  - Quelle/5e/lox
 aliases:
-- "Part 3: Chaos in Doomspace"
+  - "Part 3: Chaos in Doomspace"
 ---
 # Part 3: Chaos in Doomspace
 *Source: Light of Xaryxis, p. 36* 

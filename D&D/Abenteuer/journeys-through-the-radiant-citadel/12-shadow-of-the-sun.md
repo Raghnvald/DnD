@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Shadow of the Sun
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Shadow of the Sun"
+  - "Shadow of the Sun"
 ---
 # Shadow of the Sun
 *Source: Journeys through the Radiant Citadel, p. 148* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Centaur
 tags:
-- ttrpg-cli/compendium/src/5e/ggr
-- ttrpg-cli/race/centaur
+  - Quelle/5e/ggr
+  - Rasse/centaur
 aliases:
-- "Centaur"
+  - "Centaur"
 ---
 # Centaur
 *Source: Guildmasters' Guide to Ravnica p. 15*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spelljammer Academy: Trial By Fire"
 tags:
-- ttrpg-cli/compendium/src/5e/sja
+  - Quelle/5e/sja
 aliases:
-- "Spelljammer Academy: Trial By Fire"
+  - "Spelljammer Academy: Trial By Fire"
 ---
 # Spelljammer Academy: Trial By Fire
 *Source: Spelljammer Academy* 

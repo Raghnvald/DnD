@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githzerai Monk
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 2
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo

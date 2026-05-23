@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Sharindlar
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/life
+  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/scag
 aliases:
-- "Sharindlar"
+  - "Sharindlar"
 ---
 # Sharindlar
 *Source: Sword Coast Adventurer's Guide p. 22* 

@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Silvanus
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Silvanus"
-- "Oak Father"
-- "The Old Oak"
-- "Old Father Tree"
+  - "Oak Father"
+  - "Old Father Tree"
+  - "Silvanus"
+  - "The Old Oak"
 ---
 # Silvanus
 *Source: Forgotten Realms: Heroes of Faerûn p. 121* 

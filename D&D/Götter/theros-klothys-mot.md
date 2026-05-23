@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Klothys
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/war
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Klothys"
+  - "Klothys"
 ---
 # Klothys
 *Source: Mythic Odysseys of Theros p. 58* 

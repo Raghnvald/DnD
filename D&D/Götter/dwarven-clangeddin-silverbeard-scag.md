@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Clangeddin Silverbeard
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/war
+  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/scag
 aliases:
-- "Clangeddin Silverbeard"
+  - "Clangeddin Silverbeard"
 ---
 # Clangeddin Silverbeard
 *Source: Sword Coast Adventurer's Guide p. 22* 

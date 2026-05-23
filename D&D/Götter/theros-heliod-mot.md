@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Heliod
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/light
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Heliod"
+  - "Heliod"
 ---
 # Heliod
 *Source: Mythic Odysseys of Theros p. 46* 

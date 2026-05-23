@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Glaive
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Glaive
+IMAGE: token/glaive-veor.webp
 linter-yaml-title-alias: Glaive
 ---
 # [Glaive](3-Mechanics\CLI\bestiary\npc/glaive-veor.md)

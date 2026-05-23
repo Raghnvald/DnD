@@ -1,20 +1,22 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Adult Amethyst Dragon
+Bezeichnung: Adult Lunar Dragon
 Kategorie: Drache
 Größe: Riesig
 HG: 13
 Habitat:
   - /
-image: Drache/token/Adult-Lunar-Dragon-bam.webp
+image: token/Adult-Lunar-Dragon-bam.webp
+status: WIP
 tags:
-  - Quelle/5e/bam
-  - Monster/HG/13
   - Monster/Größe/Riesig
+  - Monster/HG/13
   - Monster/Typ/Drache
+  - Quelle/5e/bam
+  - Quelle/5e/veor
 aliases:
-- Adult Lunar Dragon
+  - Adult Lunar Dragon
 ---
 # [Adult Lunar Dragon](3-Mechanics\CLI\bestiary\dragon/adult-lunar-dragon-bam.md)
 *Source: Boo's Astral Menagerie p. 34, Vecna: Eve of Ruin*  

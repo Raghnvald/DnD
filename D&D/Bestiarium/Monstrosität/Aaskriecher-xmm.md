@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Carrion Crawler
+IMAGE: token/carrion-crawler-xmm.webp
 ---
 # [Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler-xmm.md)
 *Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*  

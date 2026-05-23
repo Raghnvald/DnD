@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Necromancer Wizard
+Bezeichnung: "Magier: Nekromant"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -9,79 +9,73 @@ tags:
   - Monster/HG/9
   - Monster/Typ/Humanoid
   - Quelle/5e/mpmm
+  - Quelle/5e/veor
 aliases:
   - Necromancer Wizard
 ---
-# [Necromancer Wizard](3-Mechanics\CLI\bestiary\humanoid/necromancer-wizard-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 264*  
+# Magier: Nekromant
+*Quelle: Mordenkainen präsentiert: Monster des Multiversums S. 178*  
 
-Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
+Nekromanten studieren das Zusammenspiel von Leben, Tod und Untod. Einige Nekromanten graben Leichen aus oder kaufen sie, um untote Diener zu erschaffen. Einige nutzen ihre Kräfte stattdessen für das Gute und jagen Untote. 
 
-## Wizards
+## Magier
 
-Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
+Magier erlangen magische Kräfte durch das Studium arkaner Texte. Einige reisen um die Welt, um nach esoterischen Folianten zu suchen, andere bilden unerfahrene Magier aus oder arbeiten mit Kollegen zusammen, um neue Zauber zu entwickeln. 
 
 ```statblock
-"name": "Necromancer Wizard (MPMM)"
-"size": "Medium"
-"type": "humanoid"
-"alignment": "Any alignment"
-"ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
-"hp": !!int "110"
-"hit_dice": "20d8 + 20"
-"modifier": !!int "2"
-"stats":
-  - !!int "9"
-  - !!int "14"
-  - !!int "12"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "7"
-  - "wisdom": !!int "5"
-"skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
-    "desc": "+7"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
-    "desc": "+7"
-"damage_resistances": "necrotic"
-"senses": "passive Perception 11"
-"languages": "any four languages"
-"cr": "9"
-"actions":
-  - "desc": "The necromancer makes three Arcane Burst attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120\
-      \ ft., one target. *Hit:* 25 (4d10 + 3) necrotic damage."
-    "name": "Arcane Burst"
-  - "desc": "The necromancer casts one of the following spells, using Intelligence\
-      \ as the spellcasting ability (spell save DC 15):\n\n**At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
-      \ [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-      \ [web](/3-Mechanics/CLI/spells/web-xphb.md)\n\n**1/day each:** [circle of death](/3-Mechanics/CLI/spells/circle-of-death-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The necromancer magically summons five [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md)\
-      \ or [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). The summoned\
-      \ creatures appear in unoccupied spaces within 60 feet of the necromancer, whom\
-      \ they obey. They take their turns immediately after the necromancer. Each lasts\
-      \ for 1 hour, until it or the necromancer dies, or until the necromancer dismisses\
-      \ it as a bonus action."
-    "name": "Summon Undead (1/Day)"
-"reactions":
-  - "desc": "When the necromancer kills a creature with necrotic damage, the necromancer\
-      \ regains 9 (2d8) hit points. "
-    "name": "Grim Harvest (1/Turn)"
-"source":
-  - "MPMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/necromancer-wizard-mpmm.webp"
+name: Magier-Nekromant
+image: token/necromancer-wizard-mpmm.webp
+source:
+  - MPMM
+size: Mittelgroß
+type: Humanoid
+alignment: jede Gesinnung
+ac: 12
+ac_class: 15 mit <STATBLOCK-MARKDOWN-LINK>Magierrüstung-phb|Magierrüstung<STATBLOCK-MARKDOWN-LINK>
+hp: 110
+hit_dice: 20d8 + 20
+modifier: 2
+stats:
+  - 9
+  - 14
+  - 12
+  - 17
+  - 12
+  - 11
+speed: 9 m
+saves:
+  - Intelligenz: 7
+  - Weisheit: 5
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
+    desc: "+7"
+  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Geschichte|Geschichte<STATBLOCK-MARKDOWN-LINK>
+    desc: "+7"
+damage_resistances: Nekrotisch
+senses: passive Wahrnehmung 11
+languages: Vier beliebige Sprachen
+cr: "9"
+environment: Stadt, Wüste
+actions:
+  - name: Mehrfachangriff
+    desc: Der Nekromant führt drei Arkane-Explosion-Angriffe aus. 
+  - name: Arkane Explosion
+    desc: "*Nahkampf- oder Fernkampf-Zauberangriff:* +7 auf Treffer, Reichweite 1,5 m oder 36 m, ein Ziel. *Treffer:* 25 (4d10 + 3) nekrotischer Schaden."
+  - name: Zauberwirken
+    desc: |-
+      Der Nekromant wirkt einen der folgenden Zauber und verwendet Intelligenz als Attribut zum Zauberwirken (SG-15-Zauberrettungswurf): 
+
+      **Beliebig oft:** <STATBLOCK-MARKDOWN-LINK>Magierhand-phb|Magierhand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Tanzende_Lichter-phb|Tanzende Lichter<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Taschenspielerei-phb|Taschenspielerei<STATBLOCK-MARKDOWN-LINK>
+
+      **jeweils 2/Tag:** <STATBLOCK-MARKDOWN-LINK>Dimensionstür-phb|Dimensionstür<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Fluch-phb|Fluch<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magierrüstung-phb|Magierrüstung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Spinnennetz-phb|Spinnennetz<STATBLOCK-MARKDOWN-LINK>
+
+      **jeweils 1/Tag:** <STATBLOCK-MARKDOWN-LINK>Todeskreis-phb|Todeskreis<STATBLOCK-MARKDOWN-LINK>
+bonus_actions:
+  - name: Untote beschwören (1/Tag)
+    desc: Der Nekromant verwendet Magie, um fünf <STATBLOCK-MARKDOWN-LINK>Skelett-mm|Skelette<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>Zombie-mm|Zombies<STATBLOCK-MARKDOWN-LINK> zu beschwören. Die beschworenen Kreaturen erscheinen in einem freien Bereich innerhalb von 18 Metern vom Nekromanten und gehorchen seinen Befehlen. Ihre Züge geschehen direkt nach dem des Nekromanten. Jede Kreatur bleibt eine Stunde lang bestehen, bis sie oder der Nekromant stirbt, oder bis der Nekromant sie als Bonusaktion entlässt. 
+reactions:
+  - name: Grausame Ernte
+    desc: "Wenn der Nekromant eine Kreatur mit nekrotischem Schaden tötet, erhält der Nekromant 9 (2d8) Trefferpunkte zurück. "
+
 ```
 ^statblock
-
-## Environment
-
-desert, urban

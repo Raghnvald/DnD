@@ -1,5 +1,6 @@
 ---
-Bezeichnung: "Appendix C: Secrets Tracker"
+Bezeichnung: "Anhang C: Geheimnisse-Tracker"
+status: completed
 tags:
   - Quelle/5e/veor
 aliases:

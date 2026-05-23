@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Redbrand Ruffian
-Image: humanoid/token/redbrand-ruffian-pabtso.webp
+Image: token/redbrand-ruffian-pabtso.webp
 ---
 # Rotbrenner-Schläger
 *Quellen: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 216*  

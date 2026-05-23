@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Goliath
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/goliath
+  - Quelle/5e/mpmm
+  - Rasse/goliath
 aliases:
-- "Goliath"
+  - "Goliath"
 ---
 # Goliath
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 21*  

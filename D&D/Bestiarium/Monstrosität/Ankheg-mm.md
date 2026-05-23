@@ -2,6 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ankheg
+Kategorie: Monstrosität
+Größe: Groß
+HG: "2"
+Habitat:
+  - Grasland
+  - Wald
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

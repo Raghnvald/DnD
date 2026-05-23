@@ -36,6 +36,6 @@ Gleichermaßen bist du in der Lage, das Aussehen von Bauwerken zu verändern ode
 
 Kreaturen unter dem Einfluss von Wahrer Blick durchschauen die Illusion und erkennen die wahre Gestalt der Landschaft. Alle anderen Elemente der Illusion bleiben aber bestehen. Selbst wenn sich die Kreatur also der Illusion bewusst ist, kann sie noch immer physisch mit ihr interagieren.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Magical SecretsListen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Magier](Listen/list-spells-classes-wizard.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Magier](Listen/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Conditions
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
+  - Quelle/5e/xphb
 aliases:
-- Conditions
+  - Conditions
 ---
 # Conditions
 

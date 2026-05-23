@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 8: Malbolge, the Realm of Decay"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 8: Malbolge, the Realm of Decay"
+  - "Chapter 8: Malbolge, the Realm of Decay"
 ---
 # Chapter 8: Malbolge, the Realm of Decay
 *Source: Chains of Asmodeus, p. 135* 

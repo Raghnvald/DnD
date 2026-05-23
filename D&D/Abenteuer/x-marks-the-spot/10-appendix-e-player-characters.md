@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix E: Player Characters"
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "Appendix E: Player Characters"
+  - "Appendix E: Player Characters"
 ---
 # Appendix E: Player Characters
 *Source: X Marks the Spot, p. 20* 

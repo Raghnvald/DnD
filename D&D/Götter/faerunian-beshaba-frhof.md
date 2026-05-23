@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Beshaba
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Beshaba"
-- "Lady Doom"
-- "The Maiden of Misfortune"
+  - "Beshaba"
+  - "Lady Doom"
+  - "The Maiden of Misfortune"
 ---
 # Beshaba
 *Source: Forgotten Realms: Heroes of Faerûn p. 103* 

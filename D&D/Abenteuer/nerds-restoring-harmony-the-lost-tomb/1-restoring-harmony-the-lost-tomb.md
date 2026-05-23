@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Restoring Harmony: The Lost Tomb"
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-tlt
+  - Quelle/5e/nrh-tlt
 aliases:
-- "Restoring Harmony: The Lost Tomb"
+  - "Restoring Harmony: The Lost Tomb"
 ---
 # Restoring Harmony: The Lost Tomb
 *Source: NERDS Restoring Harmony: The Lost Tomb, p. 2* 

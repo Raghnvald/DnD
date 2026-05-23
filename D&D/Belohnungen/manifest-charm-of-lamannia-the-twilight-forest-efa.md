@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Manifest Charm of Lamannia, the Twilight Forest
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/efa
 aliases:
-- "Manifest Charm of Lamannia, the Twilight Forest"
+  - "Manifest Charm of Lamannia, the Twilight Forest"
 ---
 # Manifest Charm of Lamannia, the Twilight Forest
 *Charm*  

@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aarakocra
+Kategorie: Humanoid (Aarakocra)
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - Berg
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -10,6 +16,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Aarakocra
+IMAGE: token/aarakocra.webp
 ---
 # [Aarakocra](3-Mechanics\CLI\bestiary\humanoid/aarakocra.md)
 *Source: Monster Manual p. 12*  

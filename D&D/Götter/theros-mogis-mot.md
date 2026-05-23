@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Mogis
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/war
+  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Mogis"
+  - "Mogis"
 ---
 # Mogis
 *Source: Mythic Odysseys of Theros p. 64* 

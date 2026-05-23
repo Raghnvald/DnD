@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Karametra's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/karametras-votary
+  - ttrpg-cli/spell/list/reward/karametras-votary
 aliases:
-- "Spells for Karametra's Votary"
+  - "Spells for Karametra's Votary"
 ---
 # Spells for Karametra's Votary
 

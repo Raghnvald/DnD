@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Sage Advice Compendium 2025
 ---
 # Index of Sage Advice Compendium 2025
 

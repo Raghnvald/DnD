@@ -4,12 +4,21 @@ model:
   columns: []
 pluginVersion: 1.0.0
 views:
-  - type: cards
+  - type: table
     name: Aberrationen MM
     filters:
       and:
         - file.folder == "D&D/Bestiarium/Aberration"
         - file.ext == "md"
+        - '!file.fullname.contains("-xmm.md")'
+    order:
+      - file.name
+      - Kategorie
+      - Größe
+      - HG
+      - Habitat
+      - IMAGE
+      - status
     image: note.IMAGE
     imageFit: contain
     cardSize: 120
@@ -19,9 +28,10 @@ views:
       and:
         - file.folder == "D&D/Bestiarium/Aberration"
         - file.ext == "md"
+        - '!file.fullname.contains("-mm.md")'
     order:
       - file.name
-      - aliases
+      - HG
     sort:
       - property: aliases
         direction: ASC

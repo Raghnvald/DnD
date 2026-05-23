@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flumph
+Kategorie: Aberration
+Größe: Klein
+HG: 1/8
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Unterreich

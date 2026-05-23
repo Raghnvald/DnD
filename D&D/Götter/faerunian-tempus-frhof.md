@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Tempus
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Tempus"
-- "The Foehammer"
-- "The Lord of Battles"
+  - "Tempus"
+  - "The Foehammer"
+  - "The Lord of Battles"
 ---
 # Tempus
 *Source: Forgotten Realms: Heroes of Faerûn p. 124* 

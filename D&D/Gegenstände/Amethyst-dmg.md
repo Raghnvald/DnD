@@ -4,7 +4,6 @@ Kategorie: Edelstein
 Eigenschaften: /
 Kst.: 100 GM
 Gew.: /
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Amethyst
 linter-yaml-title-alias: Amethyst
+Status: completed
 ---
 # Amethyst
 *Schatz (Edelstein)*  

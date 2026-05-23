@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Muks Guide to Everything He Learned From Tasha
 ---
 # Index of Muks Guide to Everything He Learned From Tasha
 

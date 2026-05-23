@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Scion of the Outer Planes
 tags:
-- ttrpg-cli/compendium/src/5e/sato
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/sato
 aliases:
-- "Scion of the Outer Planes"
+  - "Scion of the Outer Planes"
 ---
 # Scion of the Outer Planes
 *Source: Sigil and the Outlands p. 12*  

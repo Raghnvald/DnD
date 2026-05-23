@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Asteroid Spider
+Kategorie: Monstrosität
+Größe: Gigantisch
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/15

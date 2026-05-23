@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ulitharid
+Kategorie: Aberration (Gedankenschinder)
+Größe: Groß
+HG: 9
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

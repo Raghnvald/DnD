@@ -26,5 +26,4 @@ views:
     cardSize: 130
     image: note.Image
     imageFit: contain
-
 ```

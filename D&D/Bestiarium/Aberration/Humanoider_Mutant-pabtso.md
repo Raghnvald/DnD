@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Humanoider Mutant
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 4
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Humanoid Mutate
-Image: aberration/token/humanoid-mutate-pabtso.webp
+Image: token/humanoid-mutate-pabtso.webp
 ---
 # Humanoider Mutant
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  

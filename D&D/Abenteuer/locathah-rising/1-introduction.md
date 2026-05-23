@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/lr
+  - Quelle/5e/lr
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: Locathah Rising, p. 2* 

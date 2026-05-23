@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Dis, the City of Burning Iron"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 4: Dis, the City of Burning Iron"
+  - "Chapter 4: Dis, the City of Burning Iron"
 ---
 # Chapter 4: Dis, the City of Burning Iron
 *Source: Chains of Asmodeus, p. 81* 

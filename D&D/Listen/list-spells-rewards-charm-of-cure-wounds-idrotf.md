@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Charm of Cure Wounds
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-cure-wounds
+  - ttrpg-cli/spell/list/reward/charm-of-cure-wounds
 aliases:
-- "Spells for Charm of Cure Wounds"
+  - "Spells for Charm of Cure Wounds"
 ---
 # Spells for Charm of Cure Wounds
 

@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Leira
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Leira"
-- "The Lady of Deception"
-- "The Lady of the Mists"
-- "Mistshadow"
+  - "Leira"
+  - "Mistshadow"
+  - "The Lady of Deception"
+  - "The Lady of the Mists"
 ---
 # Leira
 *Source: Forgotten Realms: Heroes of Faerûn p. 112* 

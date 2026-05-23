@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Emerald Enclave Grove
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Bastion
+  - Quelle/5e/frhof
 aliases:
-- "Emerald Enclave Grove"
+  - "Emerald Enclave Grove"
 ---
 # Emerald Enclave Grove
 *Level 9 Bastion facility*  

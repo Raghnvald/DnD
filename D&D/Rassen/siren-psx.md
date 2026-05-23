@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Siren
 tags:
-- ttrpg-cli/compendium/src/5e/psx
-- ttrpg-cli/race/siren
+  - Quelle/5e/psx
+  - Rasse/siren
 aliases:
-- "Siren"
+  - "Siren"
 ---
 # Siren
 *Source: Plane Shift: Ixalan p. 17*  

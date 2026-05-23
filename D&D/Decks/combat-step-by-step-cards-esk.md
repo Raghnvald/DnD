@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Combat Step by Step Cards
 tags:
-- ttrpg-cli/compendium/src/5e/esk
+  - Quelle/5e/esk
 aliases:
-- "Combat Step by Step Cards"
+  - "Combat Step by Step Cards"
 ---
 # Combat Step by Step Cards
 *Source: Essentials Kit p. 3*  

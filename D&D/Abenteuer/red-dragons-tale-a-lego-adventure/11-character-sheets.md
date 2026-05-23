@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Character Sheets
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Character Sheets"
+  - "Character Sheets"
 ---
 # Character Sheets
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 14* 

@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Chishinix
-Image: NSC/token/chishinix-pabtso.webp
+Image: token/chishinix-pabtso.webp
 linter-yaml-title-alias: Chishinix
 ---
 # [Chishinix](3-Mechanics\CLI\bestiary\npc/chishinix-pabtso.md)

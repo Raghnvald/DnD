@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/mcv4ec
+  - Quelle/5e/mcv4ec
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Sage Advice Compendium
 tags:
-- ttrpg-cli/compendium/src/5e/xsac
+  - Quelle/5e/xsac
 aliases:
-- "Sage Advice Compendium"
+  - "Sage Advice Compendium"
 ---
 # Sage Advice Compendium
 *Source: Sage Advice Compendium (2025)* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Verdan
 tags:
-- ttrpg-cli/compendium/src/5e/ai
-- ttrpg-cli/race/verdan
+  - Quelle/5e/ai
+  - Rasse/verdan
 aliases:
-- "Verdan"
+  - "Verdan"
 ---
 # Verdan
 *Source: Acquisitions Incorporated p. 72*  

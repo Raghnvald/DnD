@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Innocent Blood
 tags:
-- ttrpg-cli/compendium/src/5e/vrgr
-- ttrpg-cli/reward/curse
+  - Kompendium/Belohnung/curse
+  - Quelle/5e/vrgr
 aliases:
-- "Innocent Blood"
+  - "Innocent Blood"
 ---
 # Innocent Blood
 *Curse*  

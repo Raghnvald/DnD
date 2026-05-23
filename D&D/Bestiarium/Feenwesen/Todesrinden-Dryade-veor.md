@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deadbark Dryad
+Kategorie: Feenwesen
+Größe: Mittelgroß
+HG: 13
+Habitat: /
+image: token/deadbark-dryad-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13

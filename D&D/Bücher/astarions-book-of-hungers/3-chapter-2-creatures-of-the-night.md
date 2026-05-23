@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: Creatures of the Night"
 tags:
-- ttrpg-cli/compendium/src/5e/abh
+  - Quelle/5e/abh
 aliases:
-- "Chapter 2: Creatures of the Night"
+  - "Chapter 2: Creatures of the Night"
 ---
 # Chapter 2: Creatures of the Night
 *Source: Astarion's Book of Hungers* 

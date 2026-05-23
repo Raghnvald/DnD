@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Temple of Moloch"
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Chapter 4: Temple of Moloch"
+  - "Chapter 4: Temple of Moloch"
 ---
 # Chapter 4: Temple of Moloch
 *Source: Infernal Machine Rebuild, p. 24* 

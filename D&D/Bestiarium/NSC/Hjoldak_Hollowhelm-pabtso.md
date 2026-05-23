@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Hjoldak Hollowhelm
-Image: NSC/token/hjoldak-hollowhelm-pabtso.webp
+Image: token/hjoldak-hollowhelm-pabtso.webp
 linter-yaml-title-alias: Hjoldak Hollowhelm
 ---
 # Hjoldak Hollowhelm

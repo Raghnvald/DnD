@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Unterreich
-image: image/violet-fungus.webp
+image: token/violet-fungus.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

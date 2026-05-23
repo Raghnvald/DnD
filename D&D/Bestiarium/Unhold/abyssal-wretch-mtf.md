@@ -2,6 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Abyssal Wretch
+Kategorie: Unhold (Dämon)
+Größe: Mittelgroß
+HG: 1/4
+Habitat:
+  - /
+image: token/abyssal-wretch-mtf.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

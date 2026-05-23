@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 4: Building Eberron Adventures - Sharn"
 tags:
-  - new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
   - Chapter 4: Building Eberron Adventures - Sharn
 ---

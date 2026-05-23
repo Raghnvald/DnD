@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/kkw
+  - Quelle/5e/kkw
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Krenko's Way* 

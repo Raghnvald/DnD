@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Halfling Cuisine"
 tags:
-- ttrpg-cli/compendium/src/5e/hf
+  - Quelle/5e/hf
 aliases:
-- "Chapter 4: Halfling Cuisine"
+  - "Chapter 4: Halfling Cuisine"
 ---
 # Chapter 4: Halfling Cuisine
 *Source: Heroes' Feast, p. 113* 

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Intelligente magische Gegenstände; Sinne
+Bezeichnung: Intelligente magische Gegenstände;  Sinne
 tags:
   - Quelle/5e/dmg
 aliases:

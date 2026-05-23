@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Maps"
 tags:
-- ttrpg-cli/compendium/src/5e/rtg
+  - Quelle/5e/rtg
 aliases:
-- "Appendix B: Maps"
+  - "Appendix B: Maps"
 ---
 # Appendix B: Maps
 *Source: Return to the Glory* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: The Jewel of Hope"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Chapter 4: The Jewel of Hope"
+  - "Chapter 4: The Jewel of Hope"
 ---
 # Chapter 4: The Jewel of Hope
 *Source: Critical Role: Call of the Netherdeep, p. 77* 

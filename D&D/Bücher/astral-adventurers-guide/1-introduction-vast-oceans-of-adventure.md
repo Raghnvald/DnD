@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Vast Oceans of Adventure"
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Introduction: Vast Oceans of Adventure"
+  - "Introduction: Vast Oceans of Adventure"
 ---
 # Introduction: Vast Oceans of Adventure
 *Source: Astral Adventurer's Guide, p. 4* 

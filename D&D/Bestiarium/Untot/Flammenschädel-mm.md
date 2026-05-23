@@ -8,7 +8,7 @@ Größe: Winzig
 HG: 4
 Habitat:
   - Unterreich
-image: image/flameskull-webp
+image: token/flameskull.webp
 status: completed
 tags:
   - Monster/Größe/Winzig
@@ -18,7 +18,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Flameskull
-  - Flammenschädel
 linter-yaml-title-alias: Flammenschädel
 ---
 # Flammenschädel

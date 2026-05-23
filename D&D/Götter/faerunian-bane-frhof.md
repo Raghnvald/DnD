@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Bane
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Bane"
-- "The Black Hand"
-- "The Lord of Darkness"
+  - "Bane"
+  - "The Black Hand"
+  - "The Lord of Darkness"
 ---
 # Bane
 *Source: Forgotten Realms: Heroes of Faerûn p. 102* 

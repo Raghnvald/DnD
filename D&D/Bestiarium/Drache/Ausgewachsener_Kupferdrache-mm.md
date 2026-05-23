@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 14
 Habitat:
   - Hügel
-image: Drache/token/Adult-Copper-Dragon.webp
+image: token/Adult-Copper-Dragon.webp
 status: WIP
 tags:
   - Monster/Größe/Riesig

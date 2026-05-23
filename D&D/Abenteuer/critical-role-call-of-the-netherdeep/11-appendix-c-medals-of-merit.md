@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix C: Medals of Merit"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Appendix C: Medals of Merit"
+  - "Appendix C: Medals of Merit"
 ---
 # Appendix C: Medals of Merit
 *Source: Critical Role: Call of the Netherdeep, p. 217* 

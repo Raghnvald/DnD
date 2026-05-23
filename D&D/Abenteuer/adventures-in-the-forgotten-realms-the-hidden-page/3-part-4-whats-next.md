@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 4: What's Next"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-thp
+  - Quelle/5e/aitfr-thp
 aliases:
-- "Part 4: What's Next"
+  - "Part 4: What's Next"
 ---
 # Part 4: What's Next
 *Source: Adventures in the Forgotten Realms: The Hidden Page, p. 12* 

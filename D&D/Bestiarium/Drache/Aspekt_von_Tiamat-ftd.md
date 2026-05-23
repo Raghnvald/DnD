@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 30
 Habitat:
   - /
-image: Drache/token/Aspect-of-Tiamat-ftd.webp
+image: token/Aspect-of-Tiamat-ftd.webp
 status: WIP
 tags:
   - Monster/Größe/Gigantisch

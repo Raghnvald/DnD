@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Otherworldly Corrupter
+Kategorie: Aberration
+Größe: M oder S
+HG: 17
+status: WIP
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/17

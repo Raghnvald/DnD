@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Dumathoin's Gulch"
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Dumathoin's Gulch"
+  - "Dumathoin's Gulch"
 ---
 # Dumathoin's Gulch
 *Source: Essentials Kit: Divine Contention* 

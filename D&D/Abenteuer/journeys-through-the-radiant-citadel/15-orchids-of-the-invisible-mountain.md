@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Orchids of the Invisible Mountain
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Orchids of the Invisible Mountain"
+  - "Orchids of the Invisible Mountain"
 ---
 # Orchids of the Invisible Mountain
 *Source: Journeys through the Radiant Citadel, p. 202* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Celebrated in House
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/optional-feature/rp
+  - Kompendium/Optionales/rp
+  - Quelle/5e/efa
 aliases:
-- "Celebrated in House"
+  - "Celebrated in House"
 ---
 # Celebrated in House
 *Source: Eberron: Forge of the Artificer p. 68*  

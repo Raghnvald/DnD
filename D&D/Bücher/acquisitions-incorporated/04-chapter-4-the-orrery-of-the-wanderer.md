@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: The Orrery of the Wanderer"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Chapter 4: The Orrery of the Wanderer"
+  - "Chapter 4: The Orrery of the Wanderer"
 ---
 # Chapter 4: The Orrery of the Wanderer
 *Source: Acquisitions Incorporated, p. 79* 

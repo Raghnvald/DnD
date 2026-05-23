@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
+Bezeichnung: Boilerdrak
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/object/size/large
-- ttrpg-cli/object/type/siege-weapon
+  - Kompendium/Objekt/size/large
+  - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/dsotdq
 aliases:
-- "Boilerdrak"
+  - "Boilerdrak"
 ---
 # Boilerdrak
 *Source: Dragonlance: Shadow of the Dragon Queen p. 189*  

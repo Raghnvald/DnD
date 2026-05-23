@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Random Ships
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Random Ships"
+  - "Random Ships"
 ---
 # Random Ships
 *Source: Ghosts of Saltmarsh p. 208* 

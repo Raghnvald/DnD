@@ -4,7 +4,6 @@ Kategorie: Munition
 Eigenschaften: Munition
 Kst.: /
 Gew.: /
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/unbekannt
@@ -19,6 +18,7 @@ aliases:
   - Adamantine Sling Bullet
   - Adamantmunition
 linter-yaml-title-alias: Adamantmunition
+Status: completed
 ---
 # Adamantmunition
 *Munition*

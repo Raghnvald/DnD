@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Campus Map
 tags:
-- ttrpg-cli/compendium/src/5e/scc
+  - Quelle/5e/scc
 aliases:
-- "Campus Map"
+  - "Campus Map"
 ---
 # Campus Map
 *Source: Strixhaven: A Curriculum of Chaos, p. 224* 

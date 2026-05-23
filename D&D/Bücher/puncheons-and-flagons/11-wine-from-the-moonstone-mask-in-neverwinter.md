@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Wine from The Moonstone Mask in Neverwinter
 tags:
-- ttrpg-cli/compendium/src/5e/paf
+  - Quelle/5e/paf
 aliases:
-- "Wine from The Moonstone Mask in Neverwinter"
+  - "Wine from The Moonstone Mask in Neverwinter"
 ---
 # Wine from The Moonstone Mask in Neverwinter
 *Source: Puncheons and Flagons, p. 134* 

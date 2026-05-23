@@ -10,7 +10,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Oshundo the Alhoon
-Image: NSC/token/oshundo-the-alhoon-pabtso.webp
+Image: token/oshundo-the-alhoon-pabtso.webp
 linter-yaml-title-alias: Oshundo the Alhoon
 ---
 # Oshundo der Alhoon

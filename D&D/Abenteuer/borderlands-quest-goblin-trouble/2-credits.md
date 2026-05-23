@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/bqgt
+  - Quelle/5e/bqgt
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Borderlands Quest: Goblin Trouble* 

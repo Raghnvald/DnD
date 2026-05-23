@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Kelemvor's Cathedral"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 1: Kelemvor's Cathedral"
+  - "Chapter 1: Kelemvor's Cathedral"
 ---
 # Chapter 1: Kelemvor's Cathedral
 *Source: Chains of Asmodeus, p. 33* 

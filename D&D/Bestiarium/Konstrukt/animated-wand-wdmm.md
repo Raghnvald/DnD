@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Wand
+Kategorie: Konstrukt
+Größe: Winzig
+HG: /
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/

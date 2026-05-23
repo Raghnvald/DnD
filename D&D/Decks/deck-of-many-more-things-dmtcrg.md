@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Deck of Many More Things
 tags:
-- ttrpg-cli/compendium/src/5e/dmtcrg
+  - Quelle/5e/dmtcrg
 aliases:
-- "Deck of Many More Things"
+  - "Deck of Many More Things"
 ---
 # Deck of Many More Things
 *Source: The Deck of Many Things: Card Reference Guide p. 14*  

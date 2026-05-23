@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 5: The Drowned City"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Chapter 5: The Drowned City"
+  - "Chapter 5: The Drowned City"
 ---
 # Chapter 5: The Drowned City
 *Source: Critical Role: Call of the Netherdeep, p. 121* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/dod
+  - Quelle/5e/dod
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Domains of Delight* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Emrakul's Madness"
 tags:
-- ttrpg-cli/compendium/src/5e/psi
+  - Quelle/5e/psi
 aliases:
-- "Emrakul's Madness"
+  - "Emrakul's Madness"
 ---
 # Emrakul's Madness
 *Source: Plane Shift: Innistrad p. 30* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Hunt for the Thessalhydra
 tags:
-- ttrpg-cli/compendium/src/5e/hftt
+  - Quelle/5e/hftt
 aliases:
-- "Hunt for the Thessalhydra"
+  - "Hunt for the Thessalhydra"
 ---
 # Hunt for the Thessalhydra
 *Source: Hunt for the Thessalhydra, p. 1* 
@@ -231,7 +229,6 @@ To solve the riddle, the characters must put the right statue from the table in 
 Solution. The basket of laundry. These are the characters from the nursery rhyme "Sing a Song of Sixpence."
 
 #### Clues
-
 
 1. It's based on a nursery rhyme.
 

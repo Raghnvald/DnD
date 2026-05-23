@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Cold Caster
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Cold Caster"
+  - "Cold Caster"
 ---
 # Cold Caster
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

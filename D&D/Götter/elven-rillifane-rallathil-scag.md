@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Rillifane Rallathil
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/nature
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/elven
+  - Quelle/5e/scag
 aliases:
-- "Rillifane Rallathil"
+  - "Rillifane Rallathil"
 ---
 # Rillifane Rallathil
 *Source: Sword Coast Adventurer's Guide p. 23* 

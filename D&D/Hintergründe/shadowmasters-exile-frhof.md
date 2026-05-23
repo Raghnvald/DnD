@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Shadowmasters Exile
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Shadowmasters Exile"
+  - "Shadowmasters Exile"
 ---
 # Shadowmasters Exile
 *Source: Forgotten Realms: Heroes of Faerûn p. 35*  

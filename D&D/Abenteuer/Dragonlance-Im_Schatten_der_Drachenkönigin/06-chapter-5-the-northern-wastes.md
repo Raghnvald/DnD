@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 5: The Northern Wastes"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Chapter 5: The Northern Wastes
 ---

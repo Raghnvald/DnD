@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Premade Characters
 tags:
-- ttrpg-cli/compendium/src/5e/scoee
+  - Quelle/5e/scoee
 aliases:
-- "Premade Characters"
+  - "Premade Characters"
 ---
 # Premade Characters
 *Source: Scions of Elemental Evil* 

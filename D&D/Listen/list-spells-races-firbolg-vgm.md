@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Firbolg
 tags:
-- ttrpg-cli/spell/list/race/firbolg
+  - ttrpg-cli/spell/list/race/firbolg
 aliases:
-- "Spells for Firbolg"
+  - "Spells for Firbolg"
 ---
 # Spells for Firbolg
 

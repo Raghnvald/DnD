@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Locathah Characters"
 tags:
-- ttrpg-cli/compendium/src/5e/lr
+  - Quelle/5e/lr
 aliases:
-- "Appendix B: Locathah Characters"
+  - "Appendix B: Locathah Characters"
 ---
 # Appendix B: Locathah Characters
 *Source: Locathah Rising, p. 24* 

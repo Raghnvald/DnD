@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 5: Magic of Faerûn"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Chapter 5: Magic of Faerûn"
+  - "Chapter 5: Magic of Faerûn"
 ---
 # Chapter 5: Magic of Faerûn
 *Source: Forgotten Realms: Heroes of Faerûn, p. 137* 

@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Auril
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Auril"
-- "The Cold Crone"
-- "The Frostmaiden"
-- "Icedawn"
+  - "Auril"
+  - "Icedawn"
+  - "The Cold Crone"
+  - "The Frostmaiden"
 ---
 # Auril
 *Source: Forgotten Realms: Heroes of Faerûn p. 101* 

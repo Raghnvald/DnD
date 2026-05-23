@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Observatory Charm
 tags:
-- ttrpg-cli/spell/list/reward/observatory-charm
+  - ttrpg-cli/spell/list/reward/observatory-charm
 aliases:
-- "Spells for Observatory Charm"
+  - "Spells for Observatory Charm"
 ---
 # Spells for Observatory Charm
 

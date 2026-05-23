@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Infernal Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Appendix D: Infernal Magic Items"
+  - "Appendix D: Infernal Magic Items"
 ---
 # Appendix D: Infernal Magic Items
 *Source: Chains of Asmodeus, p. 267* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix F: Player Handouts"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Appendix F: Player Handouts"
+  - "Appendix F: Player Handouts"
 ---
 # Appendix F: Player Handouts
 *Source: Chains of Asmodeus, p. 280* 

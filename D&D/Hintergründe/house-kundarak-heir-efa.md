@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: House Kundarak Heir
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Hintergrund
+  - Quelle/5e/efa
 aliases:
-- "House Kundarak Heir"
+  - "House Kundarak Heir"
 ---
 # House Kundarak Heir
 *Source: Eberron: Forge of the Artificer p. 29*  

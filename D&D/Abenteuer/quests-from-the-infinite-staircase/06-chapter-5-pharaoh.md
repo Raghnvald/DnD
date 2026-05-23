@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 5: Pharaoh"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Chapter 5: Pharaoh"
+  - "Chapter 5: Pharaoh"
 ---
 # Chapter 5: Pharaoh
 *Source: Quests from the Infinite Staircase, p. 103* 

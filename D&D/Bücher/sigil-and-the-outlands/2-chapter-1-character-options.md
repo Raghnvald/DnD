@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Character Options"
 tags:
-- ttrpg-cli/compendium/src/5e/sato
+  - Quelle/5e/sato
 aliases:
-- "Chapter 1: Character Options"
+  - "Chapter 1: Character Options"
 ---
 # Chapter 1: Character Options
 *Source: Sigil and the Outlands, p. 7* 

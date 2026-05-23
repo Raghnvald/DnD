@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Locations in Ixalan"
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "Appendix B: Locations in Ixalan"
+  - "Appendix B: Locations in Ixalan"
 ---
 # Appendix B: Locations in Ixalan
 *Source: X Marks the Spot, p. 15* 

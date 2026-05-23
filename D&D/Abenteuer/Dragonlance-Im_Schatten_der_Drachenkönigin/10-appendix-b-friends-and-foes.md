@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Appendix B: Friends and Foes"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Appendix B: Friends and Foes
 ---

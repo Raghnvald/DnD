@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Afsoun Ghorbani
+Kategorie: Humanoid (jede Rasse)
+Größe: Mittelgroß
+HG: "12"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

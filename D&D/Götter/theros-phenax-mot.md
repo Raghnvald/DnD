@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Phenax
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Phenax"
+  - "Phenax"
 ---
 # Phenax
 *Source: Mythic Odysseys of Theros p. 73* 

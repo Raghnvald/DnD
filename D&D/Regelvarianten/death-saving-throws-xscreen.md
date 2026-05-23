@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Death Saving Throws
 tags:
-- ttrpg-cli/compendium/src/5e/xscreen
+  - Quelle/5e/xscreen
 aliases:
-- "Death Saving Throws"
+  - "Death Saving Throws"
 ---
 # Death Saving Throws
 *Source: Dungeon Master's Screen (2024)* 

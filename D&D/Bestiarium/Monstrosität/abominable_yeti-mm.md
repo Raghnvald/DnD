@@ -2,6 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Abominable Yeti
+Kategorie: Monstrosität
+Größe: Riesig
+HG: 9
+Habitat:
+  - Arktis
+image: token/abominable-yeti.webp
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis

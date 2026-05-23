@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Snail
+tags:
+  - Quelle/5e/wbtw
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 aliases:
-- "Giant Snail"
+  - "Giant Snail"
 ---
 # [Giant Snail](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 234*  

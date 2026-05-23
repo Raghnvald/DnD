@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Cult of the Dragon Initiate
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Cult of the Dragon Initiate"
+  - "Cult of the Dragon Initiate"
 ---
 # Cult of the Dragon Initiate
 *Source: Forgotten Realms: Heroes of Faerûn p. 37*  

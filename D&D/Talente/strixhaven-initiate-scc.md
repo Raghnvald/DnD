@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Strixhaven Initiate
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/scc
 aliases:
-- "Strixhaven Initiate"
+  - "Strixhaven Initiate"
 ---
 # Strixhaven Initiate
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  

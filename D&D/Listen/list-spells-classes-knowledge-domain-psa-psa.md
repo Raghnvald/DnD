@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Knowledge Domain (PSA)
 tags:
-- ttrpg-cli/spell/list/subclass/knowledge-domain-psa
+  - ttrpg-cli/spell/list/subclass/knowledge-domain-psa
 aliases:
-- "Spells for Knowledge Domain (PSA)"
+  - "Spells for Knowledge Domain (PSA)"
 ---
 # Spells for Knowledge Domain (PSA)
 

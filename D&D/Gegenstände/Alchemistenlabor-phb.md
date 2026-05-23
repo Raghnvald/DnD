@@ -4,7 +4,6 @@ Kategorie: Werkzeug
 Eigenschaften: /
 Kst.: 50 GM
 Gew.: 4,0 kg
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Alchemist's Supplies
 linter-yaml-title-alias: Alchemistenausrüstung
+Status: completed
 ---
 # Alchemistenlabor
 *Handwerkszeug*

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: A Verdant Tomb
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-avt
+  - Quelle/5e/aitfr-avt
 aliases:
-- "A Verdant Tomb"
+  - "A Verdant Tomb"
 ---
 # A Verdant Tomb
 *Source: Adventures in the Forgotten Realms: A Verdant Tomb, p. 2* 

@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Adventures in the Forgotten Realms Deepest Night
 ---
 # Index of Adventures in the Forgotten Realms Deepest Night
 

@@ -3,6 +3,9 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Blue Dracolich
+Kategorie: Untoter
+Größe: Riesig
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Wüste

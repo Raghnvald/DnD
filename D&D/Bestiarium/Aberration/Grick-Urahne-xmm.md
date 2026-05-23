@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grick Ancient
+Kategorie: Aberration
+Größe: Groß
+HG: 7
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

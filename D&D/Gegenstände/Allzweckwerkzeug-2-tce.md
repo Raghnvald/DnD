@@ -4,7 +4,6 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: /
-Status: completed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -13,6 +12,7 @@ tags:
 aliases:
   - +2 All-Purpose Tool
 linter-yaml-title-alias: +2 All-Purpose Tool
+Status: completed
 ---
 # Allzweckwerkzeug +2
 *Wundersamer Gegenstand, selten (erfordert Einstimmung durch einen Artifizienten)*

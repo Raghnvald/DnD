@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Vampire Touched
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Vampire Touched"
+  - "Vampire Touched"
 ---
 # Vampire Touched
 *Source: Astarion's Book of Hungers p. 10*  

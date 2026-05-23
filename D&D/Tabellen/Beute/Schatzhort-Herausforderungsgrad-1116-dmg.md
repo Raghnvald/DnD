@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "Schatzhort: Herausforderungsgrad 11—16"
+Bezeichnung: "Schatzhort: Herausforderungsgrad 11 - 16"
 tags:
   - Quelle/5e/dmg
 aliases:

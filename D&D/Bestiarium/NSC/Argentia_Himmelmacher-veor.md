@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Argentia Skywright
+Kategorie: Humanoid (Mensch, Gestaltwandler)
+Größe: Mittelgroß
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -10,6 +13,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Argentia Skywright
+IMAGE: token/Argentia-Skywright-veor.webp
 linter-yaml-title-alias: Argentia Skywright
 ---
 # [Argentia Skywright](3-Mechanics\CLI\bestiary\npc/argentia-skywright-veor.md)

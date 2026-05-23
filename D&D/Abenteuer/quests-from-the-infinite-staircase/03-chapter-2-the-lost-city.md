@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: The Lost City"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Chapter 2: The Lost City"
+  - "Chapter 2: The Lost City"
 ---
 # Chapter 2: The Lost City
 *Source: Quests from the Infinite Staircase, p. 15* 

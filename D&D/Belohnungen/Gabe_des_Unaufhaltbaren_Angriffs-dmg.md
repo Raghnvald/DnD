@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gabe des Unaufhaltbaren Angriffs
+Bezeichnung: "Gabe des Unaufhaltbaren Angriffs "
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg

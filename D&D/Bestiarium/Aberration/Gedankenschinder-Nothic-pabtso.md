@@ -1,7 +1,11 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Gedankenschinder-Nothic
+Bezeichnung: Mind Flayer Nothic
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 2
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Nothic
-Image: aberration/token/mind-flayer-nothic-pabtso.webp
+Image: token/mind-flayer-nothic-pabtso.webp
 ---
 # Mind Flayer Nothic
 *Source: Phandelver and Below: The Shattered Obelisk p. 155*  

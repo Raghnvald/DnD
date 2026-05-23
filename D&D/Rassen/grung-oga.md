@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Grung
 tags:
-- ttrpg-cli/compendium/src/5e/oga
-- ttrpg-cli/race/grung
+  - Quelle/5e/oga
+  - Rasse/grung
 aliases:
-- "Grung"
+  - "Grung"
 ---
 # Grung
 *Source: One Grung Above p. 4*  

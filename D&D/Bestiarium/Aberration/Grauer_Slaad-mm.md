@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grauer Slaad
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 9
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

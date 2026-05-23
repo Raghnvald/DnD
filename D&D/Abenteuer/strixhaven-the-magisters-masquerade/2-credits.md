@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/scc-tmm
+  - Quelle/5e/scc-tmm
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Strixhaven: The Magister's Masquerade* 

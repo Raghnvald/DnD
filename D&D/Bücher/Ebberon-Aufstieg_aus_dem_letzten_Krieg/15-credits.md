@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Credits
 tags:
-  - new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
   - Credits
 ---

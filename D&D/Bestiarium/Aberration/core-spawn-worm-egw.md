@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Core Spawn Worm
+Kategorie: Aberration
+Größe: Gigantisch
+HG: 15
+status: WIP
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/15

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Purple Dragon Squire
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Purple Dragon Squire"
+  - "Purple Dragon Squire"
 ---
 # Purple Dragon Squire
 *Source: Forgotten Realms: Heroes of Faerûn p. 34*  

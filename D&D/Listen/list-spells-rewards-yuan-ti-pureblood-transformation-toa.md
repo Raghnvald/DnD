@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Yuan-Ti Pureblood Transformation
 tags:
-- ttrpg-cli/spell/list/reward/yuan-ti-pureblood-transformation
+  - ttrpg-cli/spell/list/reward/yuan-ti-pureblood-transformation
 aliases:
-- "Spells for Yuan-Ti Pureblood Transformation"
+  - "Spells for Yuan-Ti Pureblood Transformation"
 ---
 # Spells for Yuan-Ti Pureblood Transformation
 

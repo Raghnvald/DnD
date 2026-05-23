@@ -7,7 +7,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
 image: token/Grell.webp
-status:
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

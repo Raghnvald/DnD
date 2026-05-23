@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Alustriel Silberhand
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: 21
+Habitat: /
+image: token/Alustriel-silverhand-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -34,97 +40,76 @@ Alustriel ist vor über hundert Jahren von ihrem Amt als Hochmagierin Silbrigmon
 Alustriel hat vor und nach ihrer Amtszeit als Silbrigmonds Hochmagierin zahllose Abenteuer bestanden. Sie ist mit berühmten Abenteurern wie Drizzt Do'Urden befreundet, hat mit bekannten Organisationen wie den Harfnern zusammengearbeitet und dem Bösen schon oft einen Strich durch die Rechnung gemacht. 
 
 ```statblock
-"name": "Alustriel Silverhand (VEoR)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human, wizard"
-"alignment": "Chaotic Good"
-"ac": !!int "15"
-"ac_class": "18 with mage armor"
-"hp": !!int "272"
-"hit_dice": "32d8 + 128"
-"modifier": !!int "5"
-"stats":
-  - !!int "12"
-  - !!int "20"
-  - !!int "18"
-  - !!int "24"
-  - !!int "23"
-  - !!int "22"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "11"
-  - "intelligence": !!int "14"
-  - "wisdom": !!int "13"
-"skillsaves":
-  - "name": "Arcana"
-    "desc": "+14"
-  - "name": "History"
-    "desc": "+14"
-  - "name": "Insight"
-    "desc": "+13"
-  - "name": "Religion"
-    "desc": "+14"
-"damage_resistances": "radiant"
-"damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
-"senses": "passive Perception 16"
-"languages": "Common, Draconic, Elvish"
-"cr": "21"
-"traits":
-  - "desc": "Whenever a creature on the same plane of existence as Alustriel speaks\
-      \ Alustriel's name, Alustriel hears her name and the next nine words the speaker\
-      \ utters."
-    "name": "Ear of the Chosen"
-  - "desc": "If Alustriel fails a saving throw, she can choose to succeed instead."
-    "name": "Legendary Resistance (3/Day)"
-  - "desc": "Alustriel carries a magic staff known as the Staff of Silverymoon. In\
-      \ the hands of anyone other than Alustriel, the Staff of Silverymoon is a Staff\
-      \ of Power."
-    "name": "Special Equipment"
-"actions":
-  - "desc": "Alustriel makes three Staff of Silverymoon attacks or two Reproving Ray\
-      \ attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d8 + 5) bludgeoning damage plus 38 (7d10) radiant damage."
-    "name": "Staff of Silverymoon"
-  - "desc": "*Ranged Spell Attack:* +14 to hit, range 120 ft., one target. *Hit:*\
-      \ 65 (9d12 + 7) force damage, and if the target is a creature, it must make\
-      \ a DC 22 Charisma saving throw. On a failed save, the target has the incapacitated\
-      \ condition until the start of Alustriel's next turn. On a successful save,\
-      \ the target's speed is reduced by 10 feet until the start of Alustriel's next\
-      \ turn."
-    "name": "Reproving Ray"
-  - "desc": "Alustriel summons a 60-foot cone of silver fire. Each creature in that\
-      \ area must make a DC 22 Dexterity saving throw, taking 77 (14d10) radiant damage\
-      \ on a failed save or half as much damage on a successful one. Additionally,\
-      \ Alustriel or one creature of her choice within 60 feet of her then regains\
-      \ 10 (3d6) hit points."
-    "name": "Argent Blaze (Requires Silver Fire)"
-  - "desc": "Alustriel casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 22):\n\n**At will:** Dancing Lights, Detect\
-      \ Magic, Mage Armor (self only), Mage Hand\n\n**2/day each:** Detect Thoughts,\
-      \ Dispel Magic, Tongues\n\n**1/day each:** Telepathy, Teleport, Time Stop"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "Brilliant silver fire harmlessly wreathes Alustriel and empowers her.\
-      \ The silver fire lasts for 1 hour or until she has the incapacitated condition\
-      \ or uses another bonus action to quench it. While wreathed in silver fire,\
-      \ Alustriel gains truesight within 30 feet and can use her Argent Blaze action.\
-      \ In addition, Alustriel is unaffected by magic that would ascertain her alignment,\
-      \ creature type, thoughts, or truthfulness."
-    "name": "Silver Fire (2/Day)"
-"reactions":
-  - "desc": "Alustriel interrupts a creature she can see within 60 feet of herself\
-      \ that is casting a spell. If the spell is 5th level or lower, it fails and\
-      \ has no effect. If the spell is 6th level or higher, Alustriel makes an Intelligence\
-      \ check (DC 10 plus the spell's level). On a successful check, the spell fails\
-      \ and has no effect. Whatever the spell's level, the caster takes 11 (2d10)\
-      \ radiant damage if the spell fails."
-    "name": "Shining Counterspell"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/alustriel-silverhand-veor.webp"
+name: Alustriel Silberhand
+image: token/alustriel-silverhand-veor.webp
+source:
+  - VEoR
+size: Mittelgroß
+type: Humanoid
+subtype: Mensch, Magier
+alignment: Chaotisch Gut
+ac: 15
+ac_class: 18 mit <STATBLOCK-MARKDOWN-LINK>Magierrüstung-phb|Magierrüstung<STATBLOCK-MARKDOWN-LINK>
+hp: 272
+hit_dice: 32d8 + 128
+modifier: 5
+stats:
+  - 12
+  - 20
+  - 18
+  - 24
+  - 23
+  - 22
+speed: 9 m
+saves:
+  - Konstitution: 11
+  - Intelligenz: 14
+  - Weisheit: 13
+skillsaves:
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
+    desc: "+14"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Geschichte|Geschichte<STATBLOCK-MARKDOWN-LINK>
+    desc: "+14"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>
+    desc: "+13"
+  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Religion|Religion<STATBLOCK-MARKDOWN-LINK>
+    desc: "+14"
+damage_resistances: Gleißend
+damage_immunities: Gift
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
+senses: passive Wahrnehmung 16
+languages: Drakonisch, Elfisch, Gemeinsprache
+cr: "21"
+traits:
+  - name: Besondere Ausrüstung
+    desc: Alustriel trägt einen magischen Stab, der als Stab von Silbrigmond bekannt ist. In den Händen jeder anderen Person ist der Stab von Silbrigmond ein <STATBLOCK-MARKDOWN-LINK>Stab_der_Macht-dmg|Stab der Macht<STATBLOCK-MARKDOWN-LINK>.
+  - name: Legendäre Resistenz (3-mal täglich)
+    desc: Wenn ihr Rettungswurf scheitert, kann Alustriel den Wurf in einen Erfolg verwandeln.
+  - name: Ohr der Erwählten
+    desc: Wann immer eine Kreatur auf derselben Existenzebene wie Alustriel deren Namen ausspricht, hört Alustriel ihren Namen und die nächsten neun Worte, die die Kreatur spricht.
+actions:
+  - name: Mehrfachangriff
+    desc: Alustriel führt drei Angriffe mit dem Stab von Silbrigmond oder zwei Rügender-Strahl-Angriffe aus.
+  - name: Stab von Silbrigmond
+    desc: "*Nahkampf-Waffenangriff:* +12 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 14 (2d8 + 5) Wuchtschaden plus 38 (7d10) gleißender Schaden."
+  - name: Rügender Strahl
+    desc: "*Fernkampf-Zauberangriff:* +14 zum Treffen, Reichweite 36 m, ein Ziel. *Treffer:* 65 (9d12 + 7) Energieschaden, und wenn das Ziel eine Kreatur ist, muss es einen SG-22-Charisma-Rettungswurf ausführen. Scheitert der Wurf, so ist das Ziel bis zum Beginn von Alustriels nächstem Zug <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Kampfunfähig|kampfunfähig<STATBLOCK-MARKDOWN-LINK>. Bei einem erfolgreichen Rettungswurf ist die Bewegungsrate des Ziels bis zum Beginn von Alustriels nächstem Zug um drei Meter verringert"
+  - name: Silbernes Lodern (erfordert Silberfeuer)
+    desc: Alustriel beschwört Silberfeuer in einem Kegel von 18 Metern. Jede Kreatur in diesem Bereich muss einen SG-22-Geschicklichkeits-Rettungswurf ausführen. Scheitert der Wurf, so erleidet sie 77 (14d10) gleißenden Schaden, anderenfalls die Hälfte. Außerdem erhält Alustriel oder eine Kreatur ihrer Wahl im Abstand von bis zu 18 Metern von ihr 10 (3d6) Trefferpunkte zurück.
+  - name: Zauberwirken
+    desc: |-
+      Alustriel wirkt einen der folgenden Zauber mit Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SG 22):
+
+      **Beliebig oft:** <STATBLOCK-MARKDOWN-LINK>Magie_entdecken-phb|Magie entdecken<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Magierhand-phb|Magierhand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK><STATBLOCK-MARKDOWN-LINK> Detect Magic, Mage Armor (self only), Mage Hand
+
+      **jeweils 2/Tag:** Detect Thoughts, Dispel Magic, Tongues
+
+      **jeweils 1/Tag:** Telepathy, Teleport, Time Stop
+bonus_actions:
+  - name: Silberfeuer (2-mal täglich)
+    desc: Strahlendes Silberfeuer umhüllt und ermächtigt Alustriel. Das Silberfeuer bleibt bestehen, bis eine Stunde vergangen ist, Alustriel kampfunfähig wird oder sie das Feuer mit einer weiteren Bonusaktion löscht. Solange Alustriel in Silberfeuer gehüllt ist, verfügt sie über Wahrer Blick im Abstand von bis zu neun Metern und kann ihre Silbernes-Lodern-Aktion verwenden. Außerdem ist sie vor Magie geschützt, die ihre Gesinnung, ihren Kreaturentyp, ihre Gedanken oder ihre Aufrichtigkeit erkunden würde.
+reactions:
+  - name: Strahlender Gegenzauber
+    desc: Alustriel unterbricht eine Kreatur im Abstand von bis zu 18 Metern, die sie sehen kann und die einen Zauber wirkt. Wenn es sich um einen Zauber des höchstens 5. Grades handelt, schlägt er fehl und hat keine Wirkung. Bei einem Zauber ab dem 6. Grad führt Alustriel einen Intelligenzwurf (SG 10 plus Zaubergrad) aus. Bei einem Erfolg schlägt der Zauber fehl und hat keine Wirkung. Unabhängig vom Grad des Zaubers erleidet der Zauberwirker 11 (2d10) gleißenden Schaden, wenn der Zauber fehlschlägt.
 ```
 ^statblock

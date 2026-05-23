@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Adept of the Red Robes
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/dsotdq
 aliases:
-- "Adept of the Red Robes"
+  - "Adept of the Red Robes"
 ---
 # Adept of the Red Robes
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

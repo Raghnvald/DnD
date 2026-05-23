@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Plapperndes Hundertmaul
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 2
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

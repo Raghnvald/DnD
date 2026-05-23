@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Downtime and Franchise Activity: Explore Territory"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Downtime and Franchise Activity: Explore Territory"
+  - "Downtime and Franchise Activity: Explore Territory"
 ---
 # Downtime and Franchise Activity: Explore Territory
 *Source: Acquisitions Incorporated p. 37* 

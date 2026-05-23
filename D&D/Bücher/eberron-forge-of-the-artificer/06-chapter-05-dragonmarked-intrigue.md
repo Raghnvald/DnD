@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 05: Dragonmarked Intrigue"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Chapter 05: Dragonmarked Intrigue"
+  - "Chapter 05: Dragonmarked Intrigue"
 ---
 # Chapter 05: Dragonmarked Intrigue
 *Source: Eberron: Forge of the Artificer, p. 67* 

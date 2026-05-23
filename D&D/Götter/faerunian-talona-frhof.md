@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Talona
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Talona"
-- "Lady of Poison"
-- "Mistress of Disease"
-- "The Plague Crone"
+  - "Lady of Poison"
+  - "Mistress of Disease"
+  - "Talona"
+  - "The Plague Crone"
 ---
 # Talona
 *Source: Forgotten Realms: Heroes of Faerûn p. 123* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Mogis's Votary"
 tags:
-- ttrpg-cli/spell/list/reward/mogiss-votary
+  - ttrpg-cli/spell/list/reward/mogiss-votary
 aliases:
-- "Spells for Mogis's Votary"
+  - "Spells for Mogis's Votary"
 ---
 # Spells for Mogis's Votary
 

@@ -4,7 +4,6 @@ Kategorie: Abenteuerausrüstung
 Eigenschaften: /
 Kst.: 5 GM
 Gew.: 1,0 kg
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Hooded Lantern
 linter-yaml-title-alias: Abdeckbare Laterne
+Status: completed
 ---
 # Abdeckbare Laterne
 *Abenteuerausrüstung*  

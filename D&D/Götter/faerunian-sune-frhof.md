@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Sune
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Sune"
-- "Lady Firehair"
-- "The Lady of Love"
-- "The Princess of Passion"
+  - "Lady Firehair"
+  - "Sune"
+  - "The Lady of Love"
+  - "The Princess of Passion"
 ---
 # Sune
 *Source: Forgotten Realms: Heroes of Faerûn p. 122* 

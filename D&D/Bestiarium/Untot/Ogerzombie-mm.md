@@ -8,7 +8,7 @@ Größe: Groß
 HG: 2
 Habitat:
   - /
-image: image/ogre-zombie.webp
+image: token/ogre-zombie.webp
 status: completed
 tags:
   - Monster/Größe/Groß

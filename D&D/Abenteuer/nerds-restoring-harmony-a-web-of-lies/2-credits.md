@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-awol
+  - Quelle/5e/nrh-awol
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: NERDS Restoring Harmony: A Web of Lies* 

@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/qftis
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Derro Raider
+Kategorie: Aberration
+Größe: Klein
+HG: 1/4
+status: WIP
+tags:
+  - Quelle/5e/qftis
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Derro Raider"
+  - Derro Raider
 ---
 # [Derro Raider](3-Mechanics/CLI/bestiary/aberration/derro-raider-qftis.md)
 *Source: Quests from the Infinite Staircase p. 196*  

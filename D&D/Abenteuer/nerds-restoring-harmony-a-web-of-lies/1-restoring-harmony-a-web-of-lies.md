@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Restoring Harmony: A Web of Lies"
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-awol
+  - Quelle/5e/nrh-awol
 aliases:
-- "Restoring Harmony: A Web of Lies"
+  - "Restoring Harmony: A Web of Lies"
 ---
 # Restoring Harmony: A Web of Lies
 *Source: NERDS Restoring Harmony: A Web of Lies, p. 2* 

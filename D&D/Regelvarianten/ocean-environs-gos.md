@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Ocean Environs
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Ocean Environs"
+  - "Ocean Environs"
 ---
 # Ocean Environs
 *Source: Ghosts of Saltmarsh p. 202* 

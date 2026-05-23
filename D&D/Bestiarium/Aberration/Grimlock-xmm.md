@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grimlock
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 1/4
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

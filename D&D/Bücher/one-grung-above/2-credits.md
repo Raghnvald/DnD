@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/oga
+  - Quelle/5e/oga
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: One Grung Above* 

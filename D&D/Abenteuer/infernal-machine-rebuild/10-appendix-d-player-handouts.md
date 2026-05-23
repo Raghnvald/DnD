@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Player Handouts"
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Appendix D: Player Handouts"
+  - "Appendix D: Player Handouts"
 ---
 # Appendix D: Player Handouts
 *Source: Infernal Machine Rebuild, p. 105* 

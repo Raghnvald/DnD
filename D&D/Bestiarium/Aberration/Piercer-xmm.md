@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Piercer
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 1/2
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 5: Minauros, the Endless Swamp"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 5: Minauros, the Endless Swamp"
+  - "Chapter 5: Minauros, the Endless Swamp"
 ---
 # Chapter 5: Minauros, the Endless Swamp
 *Source: Chains of Asmodeus, p. 97* 

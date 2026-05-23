@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Salted Legacy
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Salted Legacy"
+  - "Salted Legacy"
 ---
 # Salted Legacy
 *Source: Journeys through the Radiant Citadel, p. 18* 

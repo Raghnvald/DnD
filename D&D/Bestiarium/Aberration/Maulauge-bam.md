@@ -2,11 +2,16 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eye Monger
+Kategorie: Aberration
+Größe: Groß
+HG: 10
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10
   - Monster/Typ/aberration
   - Quelle/5e/bam
+  - Quelle/5e/veor
 aliases:
   - Eye Monger
 ---

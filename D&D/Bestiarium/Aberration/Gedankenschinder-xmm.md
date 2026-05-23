@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mind Flayer
-Kategorie:
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 7
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

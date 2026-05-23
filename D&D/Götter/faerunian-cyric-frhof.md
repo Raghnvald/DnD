@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Cyric
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Cyric"
-- "The Dark Sun"
-- "The Prince of Lies"
+  - "Cyric"
+  - "The Dark Sun"
+  - "The Prince of Lies"
 ---
 # Cyric
 *Source: Forgotten Realms: Heroes of Faerûn p. 105* 

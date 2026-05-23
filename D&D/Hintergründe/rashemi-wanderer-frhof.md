@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Rashemi Wanderer
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Rashemi Wanderer"
+  - "Rashemi Wanderer"
 ---
 # Rashemi Wanderer
 *Source: Forgotten Realms: Heroes of Faerûn p. 35*  

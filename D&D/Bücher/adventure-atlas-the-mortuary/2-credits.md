@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/aatm
+  - Quelle/5e/aatm
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Adventure Atlas: The Mortuary* 

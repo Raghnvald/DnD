@@ -1,10 +1,10 @@
 ---
-Bezeichnung: Sanctuary
+Bezeichnung: Heiligtum
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
+Zeitaufwand: 1 Bonusaktion
+Reichweite: 9 m
+Komponenten: V, G, M
+Wirkungsdauer: 1 Minute
 Angriff: 
 Schaden: 
 tags:
@@ -25,18 +25,18 @@ aliases:
   - Sanctuary
 linter-yaml-title-alias: Sanctuary
 ---
-# Sanctuary
-*1st-level, Abjuration*  
+# Heiligtum
+*Bann des 1. Grades*  
 
-- **Casting time:** 1 Bonus Action
-- **Range:** 30 feet
-- **Components:** V, S, M (a small silver mirror)
-- **Duration:** 1 minute
+- **Zeitaufwand:** 1 Bonusaktion
+- **Reichweite:** 9 m
+- **Komponenten:** V, G, M (ein kleiner Silberspiegel)
+- **Wirkungsdauer:** 1 Minute
 
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a [fireball](/3-Mechanics/CLI/spells/fireball.md).
+Du schützt eine Kreatur in Reichweite vor Angriffen. Bis der Zauber endet, müssen alle Kreaturen, die das geschützte Ziel mit einem Angriff oder einem schädigenden Zauber attackieren wollen, zunächst einen Weisheitsrettungswurf ablegen. Bei einem Misserfolg muss die Kreatur ein neues Ziel wählen oder der Angriff oder Zauber ist vergeudet. Der magische Schutz bewahrt das Ziel nicht vor Flächeneffekten, wie der Explosion eines [[Feuerball-phb|Feuerballs]].
 
-If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
+Wenn die geschützte Kreatur angreift oder einen Spruch wirkt, der eine gegnerische Kreatur betrifft, oder anderweitig Schaden anrichtet, endet dieser Zauber.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Monk (Way of the Open Hand)](/3-Mechanics/CLI/lists/list-spells-classes-way-of-the-open-hand.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Mönch (Weg der Offenen Hand)](Listen/list-spells-classes-way-of-the-open-hand.md); [Paladin (Schwur der Hingabe)](Listen/list-spells-classes-oath-of-devotion.md)
 
-*Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 239. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

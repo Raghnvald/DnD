@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Zhentarim Mercenary
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Zhentarim Mercenary"
+  - "Zhentarim Mercenary"
 ---
 # Zhentarim Mercenary
 *Source: Forgotten Realms: Heroes of Faerûn p. 36*  

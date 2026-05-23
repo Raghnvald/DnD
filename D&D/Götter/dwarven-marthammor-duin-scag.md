@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Marthammor Duin
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/dwarven
+  - Quelle/5e/scag
 aliases:
-- "Marthammor Duin"
+  - "Marthammor Duin"
 ---
 # Marthammor Duin
 *Source: Sword Coast Adventurer's Guide p. 22* 

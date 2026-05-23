@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Maps"
 tags:
-- ttrpg-cli/compendium/src/5e/hbtd
+  - Quelle/5e/hbtd
 aliases:
-- "Appendix B: Maps"
+  - "Appendix B: Maps"
 ---
 # Appendix B: Maps
 *Source: Hold Back The Dead* 

@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Albino Dwarf Spirit Warrior
+Kategorie: Humanoid (Zwerg)
+Größe: Mittelgroß
+HG: "1"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

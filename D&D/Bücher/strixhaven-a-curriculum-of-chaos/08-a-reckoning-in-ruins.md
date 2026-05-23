@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: A Reckoning in Ruins
 tags:
-- ttrpg-cli/compendium/src/5e/scc
+  - Quelle/5e/scc
 aliases:
-- "A Reckoning in Ruins"
+  - "A Reckoning in Ruins"
 ---
 # A Reckoning in Ruins
 *Source: Strixhaven: A Curriculum of Chaos, p. 157* 

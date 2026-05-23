@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Almiraj
+Kategorie: Tier
+Größe: Klein
+HG: "0"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0

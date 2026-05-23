@@ -6,7 +6,7 @@ pluginVersion: 1.0.0
 filters:
   and:
     - file.folder == "D&D/Zauber"
-    - '!file.fullname.contains("-xphb")'
+    - '!file.fullname.contains("-xphb.md")'
 views:
   - type: table
     name: Alle Zauber - phb

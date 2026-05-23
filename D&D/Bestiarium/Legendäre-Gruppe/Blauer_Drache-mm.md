@@ -31,7 +31,7 @@ Die Region, in der sich die Behausung eines legendären blauen Drachen befindet,
 
 - Gewitter toben in einer Umgebung von 9 km um die Behausung.
 - Staubteufel ziehen durch das Land im Umkreis von 9 km um die Behausung. Ein Staubteufel hat die Spielwerte eines [[Luftelementar-mm|Luftelementars]], aber er kann nicht fliegen, hat eine Bewegungsrate von 15 m und eine Intelligenz und Charisma von 1 (-5)
-- Verborgene Sandlöcher bilden sich in und um die Behausung des Drachen. Ein Sandloch kann auf Entfernung mit einem erfolgreichen Wurf auf `Weisheit` ([Wahrnehmung](Fertigkeiten-phb#Wahrnehmung)) gegen `SG 20` entdeckt werden. Ansonsten muss die erste Kreatur, die auf die dünne Kruste tritt, die das Sandloch bedeckt, einen `Geschicklichkeits-Rettungswurf` gegen `SG 15` schaffen, um nicht `1W6 x 3` m tief in das Loch zu fallen.
+- Verborgene Sandlöcher bilden sich in und um die Behausung des Drachen. Ein Sandloch kann auf Entfernung mit einem erfolgreichen Wurf auf `Weisheit` ([Wahrnehmung](Fertigkeiten-phb.md#Wahrnehmung)) gegen `SG 20` entdeckt werden. Ansonsten muss die erste Kreatur, die auf die dünne Kruste tritt, die das Sandloch bedeckt, einen `Geschicklichkeits-Rettungswurf` gegen `SG 15` schaffen, um nicht `1W6 x 3` m tief in das Loch zu fallen.
 
 Wenn der Drache stirbt, verschwinden die Staubteufel sofort, und die Gewitter lassen innerhalb von `dice:1d10|noform|noparens|avg` (`1d10`)  Tagen nach. Die Sandlöcher bleiben, wo sie sind.
 
@@ -42,4 +42,4 @@ Jeder dieser Effekte kann in der Umgebung des Horts eines blauen Drachen zusätz
 
 - **Blauer Glanz.** Kreaturen, die ein Jahr im Umkreis von 1,6 Kilometern um den Hort des Drachen verbringen, finden blaue Objekte faszinierend und verspüren den Drang, sie sich bei jeder Gelegenheit anzueignen.
 - **Sandstorm.** Innerhalb von 1,6 Kilometern um den Hort des Drachen weht ein beständiger Sandsturm.
-- **Trugbildgelände.** Die unmittelbare Umgebung des Horts scheint eine üppige Oase zu sein. Eine Kreatur, die die Illusion sorgfältig untersucht, kann einen `SG-15-Intelligenzwurf` ([Nachforschung](Fertigkeiten-phb#Nachforschung)) versuchen, um ihr nicht zu glauben. Eine Kreatur, die der Illusion nicht glaubt, erkennt sie als ein vages Bild, das über das darunter befindliche Terrain gelegt wurde.
+- **Trugbildgelände.** Die unmittelbare Umgebung des Horts scheint eine üppige Oase zu sein. Eine Kreatur, die die Illusion sorgfältig untersucht, kann einen `SG-15-Intelligenzwurf` ([Nachforschung](Fertigkeiten-phb.md#Nachforschung)) versuchen, um ihr nicht zu glauben. Eine Kreatur, die der Illusion nicht glaubt, erkennt sie als ein vages Bild, das über das darunter befindliche Terrain gelegt wurde.

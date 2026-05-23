@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Player Options"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Chapter 3: Player Options"
+  - "Chapter 3: Player Options"
 ---
 # Chapter 3: Player Options
 *Source: Acquisitions Incorporated, p. 47* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Charm of Vicious Mockery
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-vicious-mockery
+  - ttrpg-cli/spell/list/reward/charm-of-vicious-mockery
 aliases:
-- "Spells for Charm of Vicious Mockery"
+  - "Spells for Charm of Vicious Mockery"
 ---
 # Spells for Charm of Vicious Mockery
 

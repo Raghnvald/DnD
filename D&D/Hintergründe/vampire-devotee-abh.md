@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Vampire Devotee
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/abh
+  - Kompendium/Hintergrund
+  - Quelle/5e/abh
 aliases:
-- "Vampire Devotee"
+  - "Vampire Devotee"
 ---
 # Vampire Devotee
 *Source: Astarion's Book of Hungers p. 6*  

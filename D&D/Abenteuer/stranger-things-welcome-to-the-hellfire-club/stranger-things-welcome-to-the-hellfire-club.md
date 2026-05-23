@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Stranger Things Welcome to the Hellfire Club
 ---
 # Index of Stranger Things Welcome to the Hellfire Club
 

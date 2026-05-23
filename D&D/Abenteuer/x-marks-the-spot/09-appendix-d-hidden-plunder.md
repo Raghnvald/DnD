@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Hidden Plunder"
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "Appendix D: Hidden Plunder"
+  - "Appendix D: Hidden Plunder"
 ---
 # Appendix D: Hidden Plunder
 *Source: X Marks the Spot, p. 19* 

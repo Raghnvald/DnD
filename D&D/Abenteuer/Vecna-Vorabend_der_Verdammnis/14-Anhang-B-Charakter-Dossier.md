@@ -1,152 +1,153 @@
 ---
-Bezeichnung: "Appendix B: Character Dossier"
+Bezeichnung: "Anhang B: Charakter-Dossier"
+status: completed
 tags:
   - Quelle/5e/veor
 aliases:
   - Appendix B: Character Dossier
 ---
-# Appendix B: Character Dossier
-*Source: Vecna: Eve of Ruin* 
+# Anhang B: Charakter-Dossier
+*Quelle: Vecna: Vorabend der Verdammnis* 
 
-This appendix describes iconic characters the heroes might learn about during the adventure, presenting them in alphabetical order. Stat blocks are included as appropriate.
+In diesem Anhang werden die wichtigsten Charaktere, denen die Helden im Verlauf des Abenteuers begegnen könnten, in alphabetischer Reihenfolge vorgestellt. Gegebenenfalls sind auch die Spielwerte enthalten. 
 
 ## Acererak
 
-Also known as the Devourer, Acererak is a powerful archlich feared across many worlds. He takes sadistic pleasure in killing adventurers by luring them into his trap-riddled tombs with the promise of powerful artifacts. Then he feeds on their souls to sustain his escapades across the multiverse.
+Acererak, auch bekannt als der Verschlinger, ist ein mächtiger Erzlich und in vielen Welten gefürchtet. Er findet sadistisches Vergnügen daran, Abenteurer zu töten, indem er sie in fallengespickte Gräber lockt, in denen sie mächtige Artefakte zu finden hoffen. Dann benutzt er ihre Seelen für seine Eskapaden im Multiversum. 
 
-### History
+### Geschichte
 
-Hundreds of years ago, Acererak was a mortal mage from Oerth devoted to the pursuit of power and immortality. Some say that Acererak was a pupil of Vecna, from whom he learned undeath's secrets.
+Vor Jahrhunderten war Acererak ein sterblicher Magier vom Planeten Oerth auf der Jagd nach Macht und Unsterblichkeit. Manche glauben, dass er Vecnas Schüler war und die Geheimnisse des Untodes von ihm lernte. 
 
-Acererak travels the planes in search of powerful artifacts. When the archlich finds a particularly intriguing one, he seals it in one of his infamous tombs to tempt treasure hunters into the dungeon's depths. Acererak has filled these tombs with deadly traps, fearsome monsters, and twisted puzzles meant to torment and eventually slay would-be thieves, whose souls he then consumes.
+Acererak reist auf der Suche nach mächtigen Artefakten durch die Ebenen. Wenn der Erzlich ein besonders interessantes Exemplar findet, versiegelt er es in einem seiner berüchtigten Gräber, um Schätzjäger in die Tiefen der Gewölbe zu locken. Er hat seine Gräber mit tödlichen Fallen, fürchterlichen Monstern und verdrehten Rätseln gefüllt, um die Möchtegern-Diebe zu quälen, schließlich zu töten und ihre Seelen zu konsumieren. 
 
-The most famous of Acererak's tombs is the Tomb of Horrors, which has claimed many adventurers throughout its history. Another infamous tomb is the Tomb of the Nine Gods, in which Acererak sealed nine false gods he had slain there. He has additional tombs on Oerth, in Faerûn, and beyond.
+Das berühmteste von Acereraks Gräbern ist das Grabmal des Schreckens, das schon unzählige Abenteurer um Leben und Seele gebracht hat. Auch die Gruft der Neun Götter ist berüchtigt - dort hat Acererak neun falsche Götter getötet und versiegelt. Auf dem Planeten Oerth, in Faerûn und anderswo gibt es noch weitere Gräber von ihm. 
 
-Unlike many archliches, Acererak doesn't desire godhood. Nevertheless, his nefarious deeds have garnered him a substantial following. One such group of these followers founded the Bleak Academy, an institution of arcane and religious learning that extols Acererak's power.
+Anders als viele Erzliche strebt Acererak nicht nach Göttlichkeit. Dennoch haben seine ruchlosen Taten ihm eine substanzielle Gefolgschaft eingebracht. Eine Gruppe solcher Gefolgsleute hat die Finstere Akademie gegründet, eine Institution arkanen und religiösen Wissens, das Acereraks Macht preist. 
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/207-13-001-acererak.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/207-13-001-acererak.webp#center)
 
-### Personality
+### Persönlichkeit 
 
-Acererak delights in watching others perish. He regards himself as superior in all aspects, treating others as one would annoying insects. He views even the creatures he creates as mere tools to serve his whims. This hubris has often led him to disaster, but as a lich, Acererak continually returns to unlife.
+Acererak liebt es, andere zugrunde gehen zu sehen. Er betrachtet sich als in jeder Hinsicht überlegen und behandelt alle anderen wie lästige Insekten. Sogar die Kreaturen, die er selbst erzeugt hat, sieht er nur als Werkzeuge, um seinen Willen zu wirken. Sein Größenwahn hat ihn schon manches Mal Kopf und Kragen gekostet, doch als Lich kehrt Acererak immer wieder ins Unleben zurück. 
 
-## Alustriel Silverhand
+## Alustriel Silberhand
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/208-13-012-alustriel.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/208-13-012-alustriel.webp#center)
 
-Lady [Alustriel Silverhand](/3-Mechanics/CLI/bestiary/npc/alustriel-silverhand-veor.md), called the Shining Lady, has been an influential wizard and proponent of good across Toril for centuries. Alustriel is one of the Seven Sisters—immortal daughters of Mystra, a god of magic. The divine energy Mystra passed to Alustriel grants Alustriel incredible power over arcane magic.
+[Alustriel Silberhand](Alustriel_Silberhand-veor.md), die Strahlende Dame, ist schon seit Jahrhunderten eine einflussreiche Magiern und Verfechterin des Guten auf der Welt Tori!. Sie ist eine der Sieben Schwestern ~ unsterbliche Töchter von Mystra, Göttin der Magie. Deren göttliche Energie trägt Alustriel in sich, was ihr erhebliche Macht über arkane Magie gewährt. 
 
-Alustriel's youthful appearance as a human woman with silver hair gives no hint of her supernaturally extended life span. She typically wears long robes and wields a unicorn-headed staff, her *Staff of Silverymoon*.
+Ihr jugendliches Erscheinungsbild als menschliche Frau mit silbernem Haar lässt in keiner Weise auf ihre übernatürlich lange Lebensspanne schließen. Meist trägt Alustriel lange Roben und führt einen Stab mit Einhornkopf~ ihren *Stab von Silbrigmond*. 
 
-### Personality
+### Geschichte 
 
-Alustriel's primary concerns are to spread kindness, reward virtue, and promote a culture of compassion throughout the multiverse. She is good at building alliances and quick to intervene when she senses a threat to the forces of good. She has traveled far and established safe houses across the planes—such as her sanctum in the city of Sigil. Alustriel doesn't seek personal glory or wealth; her style of influencing the cosmos is quiet yet steady.
+Wie andere Erwählte von Mystra ist auch Alustriel bestrebt, „ das Gewebe zu bewahren, die primäre Inkarnation der Magie, die Tori! durchdringt. Sie glaubt, dass das Gewebe jene begünstigt, die mit Gnade und Mitgefühl handeln und ein sicheres Leben für alle schaffen wollen, und dass es alle Anstrengungen stärkt, Unrecht zu beseitigen und das Böse zu bekämpfen. 
 
-### History
+Nirgends sind Alustriel und ihre Taten besser bekannt als in den Silbermarschen und deren Hauptstadt Silbrigmond. Alustriel regiert seitJahrhunderten in Silbrigmond, einst getarnt als Magierin Elué Dualen, später in ihrer wahren Gestalt. Sie hat geholfen, Silbrigmonds berühmte Mondbrücke zu errichten, und hat die Schule der Herrin mitgegründet - die erste Schule Faeruns, an der Magier nicht als Lehrlinge, sondern als Studenten unterrichtet wurden. 
 
-Like other Chosen of Mystra, Alustriel is concerned with preserving the Weave, the primary incarnation of magic that permeates Toril. She believes that the Weave favors those who act with mercy and compassion, seeks to deliver lives of security for all, and bolsters people's efforts when they seek to right wrongs and combat evil.
+Alustriel ist vor über hundert Jahren von ihrem Amt als Hochmagierin Silbrigmonds zurückgetreten. Heute regiert ihr Sohn Methrammar Aerasume die Stadt und führt das Erbe seiner Mutter fort. 
 
-Nowhere are Alustriel and her deeds better known than in the Silver Marches and its capital, Silverymoon. Alustriel ruled Silverymoon for centuries, once disguised as a wizard named Elué Dualen and then later in her true form. She helped create Silverymoon's famous Moonbridge and co-founded the Lady's College, the first school in Faerûn for mages as students rather than as apprentices in service.
+Alustriel hat vor und nach ihrer Amtszeit als Silbrigmonds Hochmagierin zahllose Abenteuer bestanden. Sie ist mit berühmten Abenteurern wie Drizzt Do'Urden befreundet, hat mit bekannten Organisationen wie den Harfnern zusammengearbeitet und dem Bösen schon oft einen Strich durch die Rechnung gemacht. 
 
-Alustriel stepped down as Silverymoon's high mage more than a century ago. Her son, Methrammar Aerasumé, now leads the city and works to uphold his mother's legacy.
+### Persönlichkeit
 
-Alustriel has partaken in countless adventures before and after her tenure as Silverymoon's high mage. She has befriended famous adventurers such as Drizzt Do'Urden, worked with prominent organizations like the Harpers, and helped prevent or undo many kinds of evil.
+Alustriel möchte Freundlichkeit verbreiten, Tugend belohnen und im ganzen Multiversum eine Kultur des Mitgefühls etablieren. Sie ist gut darin, Allianzen zu schmieden und Bedrohungen der Kräfte des Guten zu eliminieren. Alustriel ist weit gereist und hat in allen Ebenen sichere Zufluchten geschaffen - zum Beispiel ihr Heiligtum in der Stadt Sigil. Persönlicher Ruhm und Reichtum interessieren sie nicht. Sie beeinflusst das Multiversum ruhig, aber stetig.
 
-## Kas the Betrayer
+## Fürst Soth
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/209-13-013-kas.webp#center)
+[Fürst Soth](Fürst_Soth-dsotdq) ist der mächtigste Todesritter der Welt Krynn. Einst war er ein solamnischer Ritter vom Orden der Rose und ein Beispiel der Tugendhaftigkeit und Gerechtigkeit. Doch er ließ sich von seinem Stolz auf einen bösen Pfad lenken. Soth starb beim Kataklysmus auf Krynn und erhob sich dann als Todesritter aus der Asche. Er residiert in seiner verfluchten Burg, dem Dargaardfried. 
 
-The Betrayer, the Bloody Handed, the Destroyer—[Kas](/3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md) has earned many epithets during his long existence. He is a vampire, legendary sword-fighter, and ruthless warlord, and he is driven primarily by one thing: his hatred for Vecna.
+![](Vecna-Vorabend_der_Verdammnis/img/211-13-014-lord-soth.webp#center)
 
-Kas resembles a well-muscled, raven-haired, human man in his thirties, though he is far older. His fangs reveal his vampiric nature.
+## Kas der Verräter 
 
-### Personality
+![](Vecna-Vorabend_der_Verdammnis/img/209-13-013-kas.webp#center)
 
-Kas is cruel, spiteful, and unrelenting in his pursuit of vengeance against Vecna. He readily lies, breaks promises, betrays allies, and taunts those who fall for his ruses. Kas has little use for those who won't validate his superiority or help advance his goals.
+Verräter, Blutige Hand, Zerstörer—[Kas](Kas_der_Verräter-veor.md) hat im Verlauf seiner langen Existenz schon viele Spitznamen erhalten. Er ist ein Vampir, ein legendärer Schwertkämpfer und ein rücksichtsloser Kriegsherr. Vor allem Eines treibt ihn an: sein Hass auf Vecna. 
 
-In this adventure, Kas fools Tasha and Alustriel, two incredibly powerful wizards. In addition to defeating Vecna, Kas desperately wants the wizards to witness and acknowledge his strength.
+Kas sieht aus wie ein muskulöser schwarzhaariger menschlicher Mann in seinen Dreißigern, obwohl er viel älter ist. Die Fangzähne offenbaren seine vampirische Natur. 
 
-## Lolth the Spider Queen
+### Persönlichkeit 
 
-Lolth—the demon-god of deceit, shadows, and spiders—gains power by deceiving allies and enemies alike. Worshipers of the Spider Queen believe she can see through the eyes of all spiders and insist she is all-knowing.
+Kas ist grausam, boshaft und unerbittlich in seinem Streben nach Rache an Vecna. Er lügt bereitwillig, bricht Versprechen, verrät Verbündete und verhöhnt diejenigen, die auf seine Finten hereinfallen. Wer seine Überlegenheit nicht bestätigt oder ihm nicht hilft, seine Ziele zu erreichen, für den hat er nichts übrig.
 
-### History
+In diesem Abenteuer hält Kas die beiden mächtigen Magierinnen Tasha und Alustriel zum Narren. Er will nicht nur Vecna besiegen, die Magierinnen sollen auch unbedingt seine Stärke sehen und würdigen.
 
-In eons past, Lolth regularly plotted against her family of elven gods, seeking to kill those deities and subjugate their followers. Though her attempts mostly failed, she learned from them and grew mightier.
+## Lolth die Spinnenkönigin
 
-Her failed attempt on the life of the powerful elven god Corellon Larethian resulted in Lolth's banishment to the Abyss. There she conquered a layer known as the Demonweb, where she now makes her home. Lolth embraces her surroundings and takes the form of a demon, regularly appearing as a beautiful elven woman with the lower body of an enormous, monstrous spider. Lolth relishes her title of the Spider Queen and attempts to annihilate any who doubt her power.
+Lolth, die Dämonengöttin der Täuschung, der Schatten und Spinnen, bezieht ihre Macht daraus, Verbündete und Gegner gleichermaßen zu täuschen. Ihre Anhänger sind überzeugt, dass sie durch die Augen aller Spinnen blicken kann und allwissend ist. 
 
-Lolth became the patron god of evil monsters that dwell in Faerûn's Underdark. Some Humanoids also choose to worship her. Lolth conveys her favor in monstrous ways. One of the most accursed of the Spider Queen's gifts is transformation into a drider.
+### Geschichte
 
-Followers of Lolth seek to foment chaos everywhere in the Spider Queen's name. The more ruthless and fanatically devoted to Lolth a worshiper is, the higher that worshiper ranks in Lolth's favor.
+In vergangenen Zeitaltern hat Lolth regelmäßig gegen ihre Familie von Elfengöttern intrigiert, um diese Gottheiten zu töten und ihre Gefolgsleute zu unterwerfen. Die meisten ihrer Versuche sind gescheitert, doch sie hat aus ihnen gelernt und ist immer mächtiger geworden. 
 
-### Personality
+Lolths Anschlag auf den mächtigen Elfengott Corellon Larethian schlug fehl und führte zu ihrer Verbannung in den Abyss. Dort eroberte sie eine Ebene namens Dämonennetz und erwählte sie als Heimat. Sie hat sich ihrer Umgebung angepasst und eine Dämonengestalt angenommen. Meist erscheint sie als schöne Elfenfrau mit dem Unterkörper einer gigantischen, monströsen Spinne. Sie liebt ihren Titel als Spinnenkönigin und versucht jeden auszulöschen, der ihre Macht in Frage stellt. 
 
-Lolth is a cruel god. She loves chaos and hurting the innocent, especially those who oppose her power-hungry ideals. The suffering of others delights her, and if that pain benefits her plans, all the better.
+Lolth wurde zur Schutzgöttin böser Monster, die in Faeruns Unterreich hausen. Auch einige Humanoide haben beschlossen, ihr zu huldigen. Lolth zeigt ihre Gunst auf monströse Art. Zu ihren grausigsten Gaben gehört es, einen Auserkorenen in eine Drinne zu verwandeln. 
 
-The Spider Queen employs duplicity and sadism against her enemies, but she also enjoys bedeviling those who claim to love her. She promises great rewards to those who follow her without question; whether she delivers on her vows depends on her whims.
+Die Gefolgsleute von Lolth streben danach, in deren Namen überall Chaos zu stiften. Je fanatischer und ruchloser sie sind, desto höher stehen sie in Lolths Gunst. 
 
-The Spider Queen often allies with other gods or powerful demon lords, though she does so only for personal gain. At the first sign of any inconvenience, Lolth abandons her allies. Despite that fact, some believe her patronage is valuable.
+### Persönlichkeit
 
-Most recently, Lolth allied with Vecna. The archlich promised Lolth a place at his side as the second-most powerful being in existence if she aids his efforts to use the Ritual of Remaking to re-form the multiverse. Lolth has deployed armies to protect Vecna on Pandemonium, though if the tide turns against the archlich, Lolth plans to strand her forces.
+Lolth ist eine grausame Göttin. Sie liebt Chaos und das Leid Unschuldiger, vor allem solcher, die sich ihren machthungrigen Zielen widersetzen. Lolth genießt das Leid anderer, und wenn es dazu ihre Pläne voranbringt umso besser. 
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/210-13-004-lolth-the-spider-queen.webp#center)
+Die Spinnenkönigin setzt Doppelzüngigkeit und Sadismus gegen ihre Feinde ein, plagt aber auch gerne diejenigen, die behaupten, sie zu lieben. Wer ihr bedingungslos folgt, dem verspricht sie große Belohnungen. Ob sie ihre Versprechungen hält, hängt allerdings von ihren Launen ab. 
 
-## Lord Soth
+Oft verbündet die Spinnenkönigin sich mit anderen Göttern oder mächtigen Dämonenfürsten, sofern ihr dies zweckdienlich ist. Beim ersten Anzeichen von Unbequemlichkeiten verrät Lolth ihre Verbündeten. Dennoch halten manche es für vorteilhaft, sie als Schutzpatronin zu haben. 
 
-[Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) is the most powerful death knight on Krynn. Once a Solamnic Knight of the Order of the Rose, Soth was a paragon of virtue and justice who allowed his pride to lead him down an evil path. Soth perished during Krynn's Cataclysm, then rose from the ashes as a death knight. Soth lives in his cursed castle, Dargaard Keep.
+Ihr neuestes Bündnis hat Lolth mit Vecna geschlossen. Der Erzlich hat ihr einen Platz an seiner Seite als zweitmächtigstes Wesen versprochen, wenn sie seine Anstrengungen unterstützt, das Multiversum mit dem Ritual der Umformung neu zu gestalten. Lolth hat Armeen abkommandiert, um Vecna im Pandämonium zu beschützen. Wenn das Schicksal sich allerdings gegen den Erzlich wendet, will sie ihre Streitkräfte aufgeben. 
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/211-13-014-lord-soth.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/210-13-004-lolth-the-spider-queen.webp#center)
 
-## Miska the Wolf-Spider
+## Miska Wolfsspinne
 
-Miska the Wolf-Spider is a legendary demon lord and master of battlefield strategy. He has the lower body of a massive armored spider, four arms, and two enormous wolf heads that drip poison. Yet Miska's greatest strength is his cunning mind.
+Miska Wolfsspinne ist ein legendärer Dämonenfürst und ein strategischer Meister.des Schlachtfelds. Er hat den Unterleib einer riesigen gepanzerten Spinne, vier Arme und zwei riesige Wolfsköpfe, aus denen Gift tropft. Doch seine größte Stärke ist sein scharfer Verstand. 
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/212-13-006-miska-in-battle.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/212-13-006-miska-in-battle.webp#center)
 
-### History
+### Geschichte 
 
-Ages ago, [Miska](/3-Mechanics/CLI/bestiary/npc/miska-the-wolf-spider-veor.md) led the hordes of Chaos against the forces of Law at the behest of his patron, the enigmatic Queen of Chaos. It seemed Miska's domination couldn't be stopped.
+Vor langer Zeit führte [[Miska_Wolfsspinne-veor|Miska]] auf Geheiß seiner Schutzpatronin, der rätselhaften Königin des Chaos, die Horden des Chaos gegen die Kräfte der Ordnung an. Miskas Herrschaft schien unaufhaltsam. 
 
-In desperation, Miska's opponents crafted an artifact to bind him in an extraplanar prison. This rod broke apart after sealing him in Pandemonium, scattering across the planes and becoming known as the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). The rod is the key to releasing Miska from his long imprisonment.
+Seine verzweifelten Gegner schufen ein Artefakt, um Miska in ein extraplanares Gefängnis zu bannen. Es gelang, ihn im Pandämonium einzusperren. Danach zerbrach der Stab. Seine Bruchstücke verteilten sich über alle Ebenen hinweg und wurden als [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] bekannt. Dieser Stab ist der Schlüssel dazu, Miska aus seiner langen Gefangenschaft zu befreien. 
 
 ## Mordenkainen
 
-Mordenkainen is a human wizard from Oerth whose wanderlust and hunger for new magic take him across the multiverse. Mordenkainen is calculating and mysterious, but he isn't cruel.
+Mordenkainen ist ein menschlicher Magier vom Planeten Oerth, dessen Wanderlust und Appetit auf neue Magie ihn durch das ganze Multiversum geführt haben. Er ist geheimnisvoll und berechnend, jedoch nicht grausam. 
 
-Mordenkainen has been involved in several friendly rivalries, including with Tasha, another powerful spellcaster from Oerth. Many significant figures across the multiverse are aware of Mordenkainen, but few truly know him—something the vampire Kas exploits to impersonate Mordenkainen. Throughout the adventure, Kas is masquerading as Mordenkainen. The mage is unaware of the vampire warlord's actions.
+Mordenkainen war schon in einige freundschaftliche Rivalitäten verwickelt, unter anderem mit Tasha, einer weiteren mächtigen Zauberwirkerin vom Planeten Oerth. Viele bedeutende Persönlichkeiten im Multiversum wissen von Mordenkainen, aber nur wenige kennen ihn persönlich - diesen Umstand nutzt der Vampir Kas, um sich als Mordenkainen zu tarnen. Er gibt sich während des gesamten Abenteuers als Mordenkainen aus. Der echte Magier hat keine Ahnung, dass der Vampir-Kriegsherr als Mordenkainen auftritt. 
 
-### History
+### Geschichte
 
-Mordenkainen has told conflicting tales about his origins, but most scholars believe he accumulated impressive magical power at a young age. Known for his ingenuity, the wizard is responsible for writing several planar tomes and creating many spells that bear his name, including Mordenkainen's Faithful Hound and Mordenkainen's Magnificent Mansion.
+Mordenkainen hat über seine Herkunft widersprüchliche Geschichten erzählt, doch die meisten Gelehrten gehen davon aus, dass er schon injungenJahren zu beträchtlichen magischen Kräften gekommen ist. Der Magier ist für seinen Erfindungsreichtum bekannt, hat mehrere planare Folianten geschrieben und viele Zauber geschaffen, die seinen Namen tragen, darunter Mordenkafnens Treuer Hund und Mordenkainens Herrliches Herrenhaus. 
 
-As his fame on Oerth grew, Mordenkainen became the leader of a powerful group of spellcasters called the Circle of Eight. The group included several wizards who similarly pioneered new spells, including Tenser and Bigby. Eventually, the circle disbanded after it stopped an uprising organized by Vecna. That development fueled Mordenkainen's lifelong hatred of the lich.
+Nachdem sein Ruhm auf Oerth stark zugenommen hatte, wurde er zum Anführer einer mächtigen Gruppe von Zauberwirkern: dem Zirkel der Acht. Zu diesem gehörten einige Magier, die ebenfalls neue Zauber erschaffen hatten, darunter Tenser und Bigby. Der Zirkel löste sich schließlich auf, nachdem er einen vonVecna organisierten Aufstand niedergeschlagen hatte. Dies steigerte Mordenkainens lebenslangen Hass auf den Lich noch weiter. 
 
-Mordenkainen travels the multiverse while following his academic whims. The wizard owns a home called the Tower of Urm, which pops into existence in Avernus when Mordenkainen visits to study how the Nine Hells affect various schools of magic.
+Mordenkainen reist durch das Multiversum und folgt dabei seinen akademischen Launen. Der Magier besitzt eine Heimstatt, den Turm von Urm, der sich in Avernus manifestiert, wann immer Mordenkainen erkunden will, wie die Neun Höllen die verschiedenen Schulen der Magie beeinflussen. 
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/214-13-015-mordenkainen.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/214-13-015-mordenkainen.webp#center)
 
-### Personality
+### Persönlichkeit
 
-Mordenkainen is stubborn and egotistical to the point of driving even his friends to annoyance. He has few close relationships, although nearly all wizards recognize his accomplishments. He is lonely and dreams of building a community of spellcasters who support each other. Unfortunately, his ego makes that dream all but impossible.
+Mordenkainen ist so stur und egoistisch, dass sogar seine Freunde manchmal davon abgestoßen sind. Fast alle Magier wissen um seine Errungenschaften, doch er hat nur wenige enge Freunde. Er ist einsam und träumt von einer Zauberwirker-Gemeinschaft, in der man einander unterstützt. Leider steht gerade sein eigenes Ego der Verwirklichung dieses Traums im Weg. 
 
-Although Mordenkainen can be brash and off-putting, he eschews cruelty and sees no reason to cause pointless suffering. The wizard doesn't like to admit it, but he would put his own safety at risk to quell the pain of innocents.
+Mordenkainen kann barsch und abweisend sein, doch von Grausamkeit hält er nichts und will kein sinnloses Leid verursachen. Er gibt es zwar nicht gerne zu, aber er würde sich selbst in Gefahr bringen, um den Schmerz von Unschuldigen zu lindern. 
 
 ## Strahd von Zarovich
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/215-13-008-strahd-von-zarovich.webp#center)
+![](Vecna-Vorabend_der_Verdammnis/img/215-13-008-strahd-von-zarovich.webp#center)
 
-[Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-master-of-death-house-veor.md) is the Darklord of Barovia, a Domain of Dread. Little happens there without the Darklord's knowledge, although Strahd rarely pays attention to what he considers the uninteresting dealings of lesser beings. However, once the characters arrive in Barovia, explore a place called Death House, and find a piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) there, Strahd's interest becomes piqued, and he makes an appearance. The characters encounter Strahd in his Master of Death House iteration in chapter 5.
+[Strahd von Zarovich](Strahd-Herr_des_Todeshauses-veor) ist der Dunkle Fürst von Barovia, einer Domäne des Schreckens. Ohne das Wissen des Dunklen Fürsten geschieht dort nur wenig, wobei Strahd nur selten Aufmerksamkeit für das übrig hat, was er als uninteressante Angelegenheiten niederer Wesen betrachtet. Als allerdings die Charaktere in Barovia eintreffen, einen Ort namens Todeshaus erkunden und dort ein Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] finden, ist Strahds Interesse geweckt, und er erscheint persönlich. So begegnen die Charaktere in Kapitel 5 Strahd in seiner Version als Meister des Todeshauses. 
 
-### History
+### Geschichte
 
-In life, Strahd von Zarovich was a prince, a soldier, and a conqueror. His thirst for power never sated, Strahd made a pact with the Dark Powers to become immortal. Meanwhile, Strahd's evil deepened, until in a jealous rage he murdered his brother, Sergei. Sergei's betrothed, Tatyana, leapt from a tower to escape Strahd and vanished into the Mists rising around Barovia as Strahd slew everyone else in the castle. He had become a vampire, and Barovia became a Domain of Dread.
+Zu seinen Lebzeiten war Strahd von Zarowitsch ein Prinz, ein Soldat und ein Eroberer. Doch seine Machtgier war unstillbar, und er schloss einen Pakt mit den Dunklen Mächten, um unsterblich zu werden. So vertiefte sich seine Bosheit, und in einem Anfall von Eifersucht ermordete er seinen Bruder Sergei. Sergeis Verlobte Tatyana sprang von einem Turm, um Strahd zu entkommen. Sie verschwand in jenen Nebeln, die sich um Barovia erhoben, als Strahd alle anderen in der Burg erschlug. Er wurde zum Vampir, und Barovia wurde eine Domäne des Schreckens. 
 
-Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his inability to escape for all eternity. He spends his days amusing himself as best he can, terrorizing Barovia's people and savoring the fear and worship he commands.
+Nun halten die Dunklen Mächte Strahd in seinem Reich gefangen und quälen ihn damit, dass er es niemals wieder verlassen kann. Er verbringt seine Zeit damit, sich so gut wie möglich zu amüsieren, indem er die Bevölkerung von Barovia terrorisiert und die Angst und Anbetung genießt, über die er gebietet. 
 
 ## Tasha
 
-[[Tasha_die_Hexe-veor|Tasha]] schlug den Pfad zu wahrer Größe ein, als sie von der Erzvettel Baba Yaga adoptiert und Natasha genannt wurde. [[Tasha_die_Hexe-veor|Tasha]]  erschuf zahlreiche Zauber, darunter [[Tasha_die_Hexe-veor|Tashas]]  fürchterlicher Lachanfall, und ihre magischen Ambitionen brachten sie in Kontakt mit Dämonen und Dämonenfürsten, die sie sich unterwarf und gegen ihre Feinde einsetzte. Auf der materiellen Ebene wurde sie als [[Iggwilv die Hexenkönigin]] bekannt und schrieb das Dämonomikon von Jggwilv, die umfangreichste aller Abhandlungen über den Abyss und seine dämonischen Bewohner. In den vergangenen Jahren hat sich [[Tasha_die_Hexe-veor|Tasha]]  ins Feywild zurückgezogen, unglaubliche Macht erlangt und sich allmählich in ein Feenwesen verwandelt. So ist [[Tasha_die_Hexe-veor|Tasha]]  zu Zybilna geworden, Erzfee der Domäne Prismeer.
+[[Tasha_die_Hexe-veor|Tasha]] schlug den Pfad zu wahrer Größe ein, als sie von der Erzvettel Baba Yaga adoptiert und Natasha genannt wurde. [[Tasha_die_Hexe-veor|Tasha]]  erschuf zahlreiche Zauber, darunter [[Tasha_die_Hexe-veor|Tashas]]  fürchterlicher Lachanfall, und ihre magischen Ambitionen brachten sie in Kontakt mit Dämonen und Dämonenfürsten, die sie sich unterwarf und gegen ihre Feinde einsetzte. Auf der materiellen Ebene wurde sie als [[Iggwilv-the-witch-queen-wbtw|Iggwilv die Hexenkönigin]] bekannt und schrieb das Dämonomikon von Jggwilv, die umfangreichste aller Abhandlungen über den Abyss und seine dämonischen Bewohner. In den vergangenen Jahren hat sich [[Tasha_die_Hexe-veor|Tasha]]  ins Feywild zurückgezogen, unglaubliche Macht erlangt und sich allmählich in ein Feenwesen verwandelt. So ist [[Tasha_die_Hexe-veor|Tasha]]  zu Zybilna geworden, Erzfee der Domäne Prismeer.
 
 ![](Vecna-Vorabend_der_Verdammnis/img/216-13-016-tasha.webp#center)
 

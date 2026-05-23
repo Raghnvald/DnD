@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Answering the Call"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Introduction: Answering the Call"
+  - "Introduction: Answering the Call"
 ---
 # Introduction: Answering the Call
 *Source: Critical Role: Call of the Netherdeep, p. 4* 

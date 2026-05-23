@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Warforged
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/warforged
+  - Quelle/5e/efa
+  - Rasse/warforged
 aliases:
-- "Warforged"
+  - "Warforged"
 ---
 # Warforged
 *Source: Eberron: Forge of the Artificer p. 38*  

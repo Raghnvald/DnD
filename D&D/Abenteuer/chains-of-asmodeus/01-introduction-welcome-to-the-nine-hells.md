@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Welcome to the Nine Hells"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Introduction: Welcome to the Nine Hells"
+  - "Introduction: Welcome to the Nine Hells"
 ---
 # Introduction: Welcome to the Nine Hells
 *Source: Chains of Asmodeus, p. 4* 

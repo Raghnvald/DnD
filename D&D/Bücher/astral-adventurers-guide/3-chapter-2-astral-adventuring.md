@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: Astral Adventuring"
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Chapter 2: Astral Adventuring"
+  - "Chapter 2: Astral Adventuring"
 ---
 # Chapter 2: Astral Adventuring
 *Source: Astral Adventurer's Guide, p. 17* 

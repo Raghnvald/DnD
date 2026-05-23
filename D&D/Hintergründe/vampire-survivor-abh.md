@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Vampire Survivor
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/abh
+  - Kompendium/Hintergrund
+  - Quelle/5e/abh
 aliases:
-- "Vampire Survivor"
+  - "Vampire Survivor"
 ---
 # Vampire Survivor
 *Source: Astarion's Book of Hungers p. 7*  
-
 
 - **Ability Scores.** Dexterity, Constitution, Wisdom  
 - **Feat.** [Vampire Hunter](3-Mechanics/CLI/feats/vampire-hunter-abh.md)  

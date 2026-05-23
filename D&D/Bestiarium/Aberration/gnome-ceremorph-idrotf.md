@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnome Ceremorph
+Kategorie: Aberration
+Größe: Klein
+HG: 5
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/5

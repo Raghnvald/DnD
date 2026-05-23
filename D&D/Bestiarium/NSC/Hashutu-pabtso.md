@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hashutu
-image: NSC/token/hashutu-pabtso.webp
+image: token/hashutu-pabtso.webp
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11

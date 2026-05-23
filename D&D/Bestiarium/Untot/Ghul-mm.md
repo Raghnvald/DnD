@@ -9,7 +9,7 @@ Habitat:
   - Stadt
   - Sumpf
   - Unterreich
-image: image/ghoul.webp
+image: token/ghoul.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß
@@ -65,6 +65,7 @@ condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Beza
 senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 10
 languages: Gemeinsprache
 cr: 1
+environment: Stadt, Sumpf, Unterreich
 actions:
   - name: Biss
     desc: "*Nahkampf-Waffenangriff:* +2 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 9 (2d6+2) Stichschaden."
@@ -72,7 +73,3 @@ actions:
     desc: "*Nahkampf-Waffenangriff:* +4 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 7 (2d4+2) Hiebschaden. Wenn das Ziel eine Kreatur und kein Elf oder Untoter ist, muss es einen Konstitutionsrettungswurf gegen SG 10 ablegen, um nicht für 1 Minute <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK> zu werden. Das Ziel kann den gleichen Rettungswurf am Ende eines jeden seiner Züge wiederholen und den Effekt auf sich selbst bei einem Erfolg beenden."
 ```
 ^statblock
-
-## Environment
-
-underdark, swamp, urban

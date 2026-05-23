@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Vampire Touched
 tags:
-- ttrpg-cli/spell/list/feat/vampire-touched
+  - ttrpg-cli/spell/list/feat/vampire-touched
 aliases:
-- "Spells for Vampire Touched"
+  - "Spells for Vampire Touched"
 ---
 # Spells for Vampire Touched
 

@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
-image: image/skeleton.webp
+image: token/skeleton.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

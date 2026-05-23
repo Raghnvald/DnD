@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Borderlands Quest: Goblin Trouble"
 tags:
-- ttrpg-cli/compendium/src/5e/bqgt
+  - Quelle/5e/bqgt
 aliases:
-- "Borderlands Quest: Goblin Trouble"
+  - "Borderlands Quest: Goblin Trouble"
 ---
 # Borderlands Quest: Goblin Trouble
 *Source: Borderlands Quest: Goblin Trouble* 

@@ -7,6 +7,7 @@ Größe: Winzig
 HG: 4
 Habitat:
   - Unterreich
+image: token/flameskull-xmm.webp
 status: WIP
 tags:
   - Monster/Größe/Winzig

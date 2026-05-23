@@ -1,5 +1,5 @@
 ---
-Bezeichnung: The Sword Coast and the North
+Bezeichnung: "Kapitel 2: Die Schwertküste und der Norden "
 tags:
   - Quelle/5e/scag
 aliases:

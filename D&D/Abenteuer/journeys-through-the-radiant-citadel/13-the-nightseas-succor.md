@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "The Nightsea's Succor"
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "The Nightsea's Succor"
+  - "The Nightsea's Succor"
 ---
 # The Nightsea's Succor
 *Source: Journeys through the Radiant Citadel, p. 168* 

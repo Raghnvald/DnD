@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warforged Warrior
+Kategorie: Konstrukt
+Größe: Mittelgroß
+HG: 1
+Habitat: /
+image: token/warforged-warrior-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -10,7 +16,7 @@ tags:
 aliases:
   - Warforged Warrior
 ---
-# [Warforged Warrior](3-Mechanics\CLI\bestiary\construct/warforged-warrior-veor.md)
+# Warforged Warrior
 *Source: Vecna: Eve of Ruin p. 238*  
 
 Warforged warriors are formed from wood and steel, then magically imbued with life and sentience. They were created to fight in the Last War on the continent of Khorvaire in Eberron. In the aftermath of that conflict, they struggle to understand their place in the world.

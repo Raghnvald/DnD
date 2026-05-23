@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Puppeteer Parasite
+Kategorie: Aberration
+Größe: Winzig
+HG: 3
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/3

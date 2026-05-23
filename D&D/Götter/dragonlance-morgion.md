@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Morgion
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/deity/dragonlance
+  - Kompendium/Götter/dragonlance
+  - Quelle/5e/dsotdq
 aliases:
-- "Morgion"
+  - "Morgion"
 ---
 # Morgion
 *Source: Dragonlance: Shadow of the Dragon Queen p. 18* 

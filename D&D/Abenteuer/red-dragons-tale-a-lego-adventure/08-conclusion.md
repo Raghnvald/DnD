@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Conclusion
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Conclusion"
+  - "Conclusion"
 ---
 # Conclusion
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 11* 

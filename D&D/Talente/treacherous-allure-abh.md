@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Treacherous Allure
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Treacherous Allure"
+  - "Treacherous Allure"
 ---
 # Treacherous Allure
 *Source: Astarion's Book of Hungers p. 10*  

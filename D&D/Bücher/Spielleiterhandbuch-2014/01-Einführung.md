@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Einführung
+Bezeichnung: Introduction
 tags:
   - Quelle/5e/dmg
 aliases:

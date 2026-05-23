@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Scene 6: The Dragon"
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Scene 6: The Dragon"
+  - "Scene 6: The Dragon"
 ---
 # Scene 6: The Dragon
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 11* 

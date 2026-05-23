@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Iroas's Devotee"
 tags:
-- ttrpg-cli/spell/list/reward/iroass-devotee
+  - ttrpg-cli/spell/list/reward/iroass-devotee
 aliases:
-- "Spells for Iroas's Devotee"
+  - "Spells for Iroas's Devotee"
 ---
 # Spells for Iroas's Devotee
 

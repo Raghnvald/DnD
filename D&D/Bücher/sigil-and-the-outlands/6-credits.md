@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/sato
+  - Quelle/5e/sato
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Sigil and the Outlands* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Tarot Deck
 tags:
-- ttrpg-cli/compendium/src/5e/td
+  - Quelle/5e/td
 aliases:
-- "Tarot Deck"
+  - "Tarot Deck"
 ---
 # Tarot Deck
 *Source: Tarot Deck p. 9*  

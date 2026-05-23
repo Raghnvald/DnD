@@ -1,7 +1,11 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Gedankenschinder-Hellseher
+Bezeichnung: Mind Flayer Clairvoyant
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 11
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Clairvoyant
-Image: aberration/token/mind-flayer-clairvoyant-pabtso.webp
+Image: token/mind-flayer-clairvoyant-pabtso.webp
 ---
 # Mind Flayer Clairvoyant
 *Source: Phandelver and Below: The Shattered Obelisk p. 209*  

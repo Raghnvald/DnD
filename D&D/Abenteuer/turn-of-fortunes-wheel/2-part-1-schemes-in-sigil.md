@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 1: Schemes in Sigil"
 tags:
-- ttrpg-cli/compendium/src/5e/tofw
+  - Quelle/5e/tofw
 aliases:
-- "Part 1: Schemes in Sigil"
+  - "Part 1: Schemes in Sigil"
 ---
 # Part 1: Schemes in Sigil
 *Source: Turn of Fortune's Wheel, p. 8* 

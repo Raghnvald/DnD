@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lysan
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Lysan
+IMAGE: token/lysan-veor.webp
 linter-yaml-title-alias: Lysan
 ---
 # [Lysan](3-Mechanics\CLI\bestiary\npc/lysan-veor.md)

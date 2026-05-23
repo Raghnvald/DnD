@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Monsters"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Appendix B: Monsters"
+  - "Appendix B: Monsters"
 ---
 # Appendix B: Monsters
 *Source: Acquisitions Incorporated, p. 209* 

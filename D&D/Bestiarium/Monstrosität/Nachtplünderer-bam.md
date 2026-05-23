@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Night Scavver
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5

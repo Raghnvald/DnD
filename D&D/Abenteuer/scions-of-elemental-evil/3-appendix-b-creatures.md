@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/scoee
+  - Quelle/5e/scoee
 aliases:
-- "Appendix B: Creatures"
+  - "Appendix B: Creatures"
 ---
 # Appendix B: Creatures
 *Source: Scions of Elemental Evil* 

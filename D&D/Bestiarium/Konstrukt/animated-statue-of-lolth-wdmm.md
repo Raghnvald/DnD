@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Statue of Lolth
+Kategorie: Konstrukt
+Größe: Riesig
+HG: "11"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11

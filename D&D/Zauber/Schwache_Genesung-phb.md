@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Lesser Restoration
+Bezeichnung: Schwache Genesung
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: n/a
-Schaden: n/a
+Angriff: /
+Schaden: /
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -31,16 +31,16 @@ aliases:
   - Lesser Restoration
 linter-yaml-title-alias: Lesser Restoration
 ---
-# Lesser Restoration
-*2nd-level, Abjuration*  
+# Schwache Genesung
+*Bann des 2. Grades*  
 
-- **Casting time:** 1 Action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** Instantaneous
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** Berührung
+- **Komponenten:** V, G
+- **Wirkungsdauer:** unmittelbar
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), or [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).
+Du berührst eine Kreatur und kannst entweder eine Krankheit kurieren, die sie plagt, oder einen Zustand entfernen, unter dem sie leidet. Dieser Zustand kann einer der folgenden sein: [[Zustände-phb#Blind|blind]], [[Zustände-phb#Gelähmt|gelähmt]], [[Zustände-phb#Taub|taub]] oder [[Zustände-phb#Vergiftet|vergiftet]].
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Klassen**: [Barde(Magical Secrets)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Kleriker](Listen/list-spells-classes-cleric.md);  [Kleriker (Domäne Leben)](Listen/list-spells-classes-life-domain.md); [Paladin](Listen/list-spells-classes-paladin.md); [Paladin (Schwur der Hingabe)](Listen/list-spells-classes-oath-of-devotion.md);  [Waldläufer](Listen/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 263. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

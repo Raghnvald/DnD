@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 6: The Lost Caverns of Tsojcanth"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Chapter 6: The Lost Caverns of Tsojcanth"
+  - "Chapter 6: The Lost Caverns of Tsojcanth"
 ---
 # Chapter 6: The Lost Caverns of Tsojcanth
 *Source: Quests from the Infinite Staircase, p. 129* 

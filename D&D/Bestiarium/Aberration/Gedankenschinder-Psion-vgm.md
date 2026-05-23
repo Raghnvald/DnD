@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mind Flayer Psion
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 8
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

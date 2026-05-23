@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Star Angler
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

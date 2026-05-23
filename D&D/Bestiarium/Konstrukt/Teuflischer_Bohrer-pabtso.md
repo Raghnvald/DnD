@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Teuflischer Bohrer
+Bezeichnung: Fiendish Auger
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Fiendish Auger
-Image: Konstrukt/token/fiendish-auger-pabtso.webp
+Image: token/fiendish-auger-pabtso.webp
 ---
 # Fiendish Auger
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  

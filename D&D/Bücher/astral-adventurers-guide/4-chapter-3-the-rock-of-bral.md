@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: The Rock of Bral"
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Chapter 3: The Rock of Bral"
+  - "Chapter 3: The Rock of Bral"
 ---
 # Chapter 3: The Rock of Bral
 *Source: Astral Adventurer's Guide, p. 59* 

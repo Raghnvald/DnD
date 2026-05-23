@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: Stranger Things: Welcome to the Hellfire Club* 

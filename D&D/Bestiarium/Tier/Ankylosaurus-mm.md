@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ankylosaurus
+Kategorie: Tier
+Größe: Riesig
+HG: "3"
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

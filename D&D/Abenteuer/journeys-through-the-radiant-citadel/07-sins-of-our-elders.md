@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Sins of Our Elders
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Sins of Our Elders"
+  - "Sins of Our Elders"
 ---
 # Sins of Our Elders
 *Source: Journeys through the Radiant Citadel, p. 78* 

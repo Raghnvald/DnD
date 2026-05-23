@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: "Celebrity Adventurer's Scion"
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/ai
+  - Kompendium/Hintergrund
+  - Quelle/5e/ai
 aliases:
-- "Celebrity Adventurer's Scion"
+  - "Celebrity Adventurer's Scion"
 ---
 # Celebrity Adventurer's Scion
 *Source: Acquisitions Incorporated p. 48*  

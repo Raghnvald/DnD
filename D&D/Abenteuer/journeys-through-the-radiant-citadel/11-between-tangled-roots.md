@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Between Tangled Roots
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Between Tangled Roots"
+  - "Between Tangled Roots"
 ---
 # Between Tangled Roots
 *Source: Journeys through the Radiant Citadel, p. 134* 

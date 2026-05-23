@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/scoee
+  - Quelle/5e/scoee
 aliases:
-- "Appendix A: Magic Items"
+  - "Appendix A: Magic Items"
 ---
 # Appendix A: Magic Items
 *Source: Scions of Elemental Evil* 

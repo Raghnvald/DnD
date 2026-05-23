@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
+Bezeichnung: Condition Cards
 tags:
-- ttrpg-cli/compendium/src/5e/esk
+  - Quelle/5e/esk
 aliases:
-- "Condition Cards"
+  - "Condition Cards"
 ---
 # Condition Cards
 *Source: Essentials Kit p. 3*  

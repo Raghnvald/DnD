@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mantler
+Kategorie: Aberration
+Größe: Groß
+HG: 8
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

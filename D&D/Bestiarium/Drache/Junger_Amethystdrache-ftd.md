@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Amethyst Dragon
-image: Drache/token/Young-Amethyst-Dragon-ftd.webp
+image: token/Young-Amethyst-Dragon-ftd.webp
 status: WIP
 tags:
   - Monster/Größe/Groß

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Emerald Enclave Caretaker
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Emerald Enclave Caretaker"
+  - "Emerald Enclave Caretaker"
 ---
 # Emerald Enclave Caretaker
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  

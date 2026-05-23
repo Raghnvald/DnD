@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Premade Characters
 tags:
-- ttrpg-cli/compendium/src/5e/hbtd
+  - Quelle/5e/hbtd
 aliases:
-- "Premade Characters"
+  - "Premade Characters"
 ---
 # Premade Characters
 *Source: Hold Back The Dead, p. 8* 

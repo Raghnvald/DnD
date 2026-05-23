@@ -8,8 +8,8 @@ HG: 11
 Habitat:
   - Küste
   - Unterwasser
-image: Elementar/img/marid.webp
-status: 
+image: token/marid.webp
+status:
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

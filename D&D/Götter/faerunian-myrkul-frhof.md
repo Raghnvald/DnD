@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Myrkul
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Myrkul"
-- "The Lord of Bones"
-- "Old Lord Skull"
-- "The Reaper"
+  - "Myrkul"
+  - "Old Lord Skull"
+  - "The Lord of Bones"
+  - "The Reaper"
 ---
 # Myrkul
 *Source: Forgotten Realms: Heroes of Faerûn p. 116* 

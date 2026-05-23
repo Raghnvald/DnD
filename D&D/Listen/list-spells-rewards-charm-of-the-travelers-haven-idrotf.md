@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Charm of the Traveler's Haven"
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-the-travelers-haven
+  - ttrpg-cli/spell/list/reward/charm-of-the-travelers-haven
 aliases:
-- "Spells for Charm of the Traveler's Haven"
+  - "Spells for Charm of the Traveler's Haven"
 ---
 # Spells for Charm of the Traveler's Haven
 

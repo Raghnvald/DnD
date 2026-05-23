@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Boon of Siberys
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Boon of Siberys"
+  - "Boon of Siberys"
 ---
 # Boon of Siberys
 *Source: Eberron: Forge of the Artificer p. 45*  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Manifest Charm of Risia, the Plain of Ice
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/efa
 aliases:
-- "Manifest Charm of Risia, the Plain of Ice"
+  - "Manifest Charm of Risia, the Plain of Ice"
 ---
 # Manifest Charm of Risia, the Plain of Ice
 *Charm*  

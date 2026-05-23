@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Tireless Reveler
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Tireless Reveler"
+  - "Tireless Reveler"
 ---
 # Tireless Reveler
 *Source: Astarion's Book of Hungers p. 8*  

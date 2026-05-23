@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Divinatory Uses
 tags:
-- ttrpg-cli/compendium/src/5e/dmtcrg
+  - Quelle/5e/dmtcrg
 aliases:
-- "Divinatory Uses"
+  - "Divinatory Uses"
 ---
 # Divinatory Uses
 *Source: The Deck of Many Things: Card Reference Guide, p. 6* 

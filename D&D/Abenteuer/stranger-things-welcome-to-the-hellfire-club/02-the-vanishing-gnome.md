@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: The Vanishing Gnome
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "The Vanishing Gnome"
+  - "The Vanishing Gnome"
 ---
 # The Vanishing Gnome
 *Source: Stranger Things: Welcome to the Hellfire Club* 

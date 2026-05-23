@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: NPCs"
 tags:
-- ttrpg-cli/compendium/src/5e/hotb
+  - Quelle/5e/hotb
 aliases:
-- "Appendix B: NPCs"
+  - "Appendix B: NPCs"
 ---
 # Appendix B: NPCs
 *Source: Heroes of the Borderlands* 

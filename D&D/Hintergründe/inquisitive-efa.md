@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Inquisitive
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Hintergrund
+  - Quelle/5e/efa
 aliases:
-- "Inquisitive"
+  - "Inquisitive"
 ---
 # Inquisitive
 *Source: Eberron: Forge of the Artificer p. 33*  

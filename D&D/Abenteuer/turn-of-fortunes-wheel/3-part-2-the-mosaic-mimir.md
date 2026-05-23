@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 2: The Mosaic Mimir"
 tags:
-- ttrpg-cli/compendium/src/5e/tofw
+  - Quelle/5e/tofw
 aliases:
-- "Part 2: The Mosaic Mimir"
+  - "Part 2: The Mosaic Mimir"
 ---
 # Part 2: The Mosaic Mimir
 *Source: Turn of Fortune's Wheel, p. 28* 

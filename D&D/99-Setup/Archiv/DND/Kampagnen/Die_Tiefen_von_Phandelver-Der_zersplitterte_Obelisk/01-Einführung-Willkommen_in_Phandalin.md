@@ -12,7 +12,7 @@ Nestled on the northern Sword Coast, between Neverwinter Wood and the Sword Moun
 
 Only in the past few years have settlers built a new village on the ruins of the old. These townsfolk hope to grow Phandalin through hard work, camaraderie, and the shared purpose of building a lasting home. Threatening their efforts and their survival are bandits, brigands, and monsters.
 
-![A typical morning unfolds ...](000-00-001-intro-splash.webp#center "A typical morning unfolds in the idyllic town of Phandalin")
+![A typical morning unfolds ...](D&D/99-Setup/Archiv/DND/Kampagnen/Die_Tiefen_von_Phandelver-Der_zersplitterte_Obelisk/img/000-00-001-intro-splash.webp#center "A typical morning unfolds in the idyllic town of Phandalin")
 
 ## Threats from Below
 

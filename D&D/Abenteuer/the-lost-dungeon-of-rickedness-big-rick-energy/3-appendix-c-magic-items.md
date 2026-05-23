@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix C: Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/rmbre
+  - Quelle/5e/rmbre
 aliases:
-- "Appendix C: Magic Items"
+  - "Appendix C: Magic Items"
 ---
 # Appendix C: Magic Items
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy, p. 33* 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Purple Dragon Rook
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Purple Dragon Rook"
+  - "Purple Dragon Rook"
 ---
 # Purple Dragon Rook
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

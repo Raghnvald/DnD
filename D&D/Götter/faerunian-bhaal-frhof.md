@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Bhaal
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Bhaal"
-- "The Lord of Murder"
+  - "Bhaal"
+  - "The Lord of Murder"
 ---
 # Bhaal
 *Source: Forgotten Realms: Heroes of Faerûn p. 103* 

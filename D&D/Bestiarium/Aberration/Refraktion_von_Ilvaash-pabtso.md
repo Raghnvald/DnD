@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Refraktion von Ilvaash
+Kategorie: Aberration (Gedankenschinder)
+Größe: Riesig
+HG: 15
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Refraction of Ilvaash
-Image: aberration/token/refraction-of-ilvaash-pabtso.webp
+Image: token/refraction-of-ilvaash-pabtso.webp
 ---
 # Refraktion von Ilvaash
 *Source: Phandelver and Below: The Shattered Obelisk p. 197*  

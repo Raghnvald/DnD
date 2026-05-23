@@ -8,6 +8,7 @@ tags:
   - Monster/HG/14
   - Monster/Typ/Konstrukt
   - Quelle/5e/mpmm
+  - Quelle/5e/veor
 aliases:
   - Cadaver Collector
 ---

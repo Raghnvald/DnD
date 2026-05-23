@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Annis Hag
+Kategorie: Feenwesen
+Größe: Groß
+HG: "6"
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

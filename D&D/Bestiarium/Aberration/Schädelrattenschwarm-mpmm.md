@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Schädelrattenschwarm
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 5
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

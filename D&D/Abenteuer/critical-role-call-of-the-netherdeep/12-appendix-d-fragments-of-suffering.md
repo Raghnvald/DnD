@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Fragments of Suffering"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Appendix D: Fragments of Suffering"
+  - "Appendix D: Fragments of Suffering"
 ---
 # Appendix D: Fragments of Suffering
 *Source: Critical Role: Call of the Netherdeep, p. 218* 

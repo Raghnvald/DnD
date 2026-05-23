@@ -7,15 +7,15 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - Stadt
-image: Humanoid/img/cult-fanatic.webp
+image: token/cult-fanatic.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
   - Monster/HG/2
   - Monster/Typ/Humanoid/any-race
-  - Quelle/5e/mm
   - Quelle/5e/egw
+  - Quelle/5e/mm
 aliases:
   - Cult Fanatic
 ---

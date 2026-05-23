@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oculorb
+Kategorie: Aberration
+Größe: Groß
+HG: 9
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Oculorb
-Image: aberration/token/oculorb-pabtso.webp
+Image: token/oculorb-pabtso.webp
 ---
 # Oculorb
 *Source: Phandelver and Below: The Shattered Obelisk p. 214*  

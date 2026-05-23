@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Conditions"
 tags:
-- ttrpg-cli/compendium/src/5e/rmr
+  - Quelle/5e/rmr
 aliases:
-- "Appendix A: Conditions"
+  - "Appendix A: Conditions"
 ---
 # Appendix A: Conditions
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules, p. 62* 

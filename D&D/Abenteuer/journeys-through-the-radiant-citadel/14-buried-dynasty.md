@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Buried Dynasty
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Buried Dynasty"
+  - "Buried Dynasty"
 ---
 # Buried Dynasty
 *Source: Journeys through the Radiant Citadel, p. 186* 

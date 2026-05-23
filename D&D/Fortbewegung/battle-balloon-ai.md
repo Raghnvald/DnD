@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
+Bezeichnung: Battle Balloon
 tags:
-- ttrpg-cli/compendium/src/5e/ai
-- ttrpg-cli/vehicle/size/gargantuan
-- ttrpg-cli/vehicle/terrain/air
-- ttrpg-cli/vehicle/type/ship
+  - Quelle/5e/ai
+  - ttrpg-cli/vehicle/size/gargantuan
+  - ttrpg-cli/vehicle/terrain/air
+  - ttrpg-cli/vehicle/type/ship
 aliases:
-- "Battle Balloon"
+  - "Battle Balloon"
 ---
 # Battle Balloon
 *Source: Acquisitions Incorporated p. 218*  

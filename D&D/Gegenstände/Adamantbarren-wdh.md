@@ -4,7 +4,6 @@ Kategorie: Handelsgut
 Eigenschaften: /
 Kst.: 1.000 GM
 Gew.: 5,0 kg
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Adamantine Bar
 linter-yaml-title-alias: Adamantine Bar
+Status: completed
 ---
 # Adamantbarren
 *Handelsgut*  

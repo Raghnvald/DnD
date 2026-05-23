@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Inquisitor
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/psi
+  - Kompendium/Hintergrund
+  - Quelle/5e/psi
 aliases:
-- "Inquisitor"
+  - "Inquisitor"
 ---
 # Inquisitor
 *Source: Plane Shift: Innistrad p. 12*  

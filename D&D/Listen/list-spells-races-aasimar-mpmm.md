@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Aasimar
 tags:
-- ttrpg-cli/spell/list/race/aasimar
+  - ttrpg-cli/spell/list/race/aasimar
 aliases:
-- "Spells for Aasimar"
+  - "Spells for Aasimar"
 ---
 # Spells for Aasimar
 

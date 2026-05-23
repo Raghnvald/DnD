@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 2: Prelude to War"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Chapter 2: Prelude to War
 ---

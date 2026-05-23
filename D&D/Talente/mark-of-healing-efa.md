@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Mark of Healing
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Mark of Healing"
+  - "Mark of Healing"
 ---
 # Mark of Healing
 *Source: Eberron: Forge of the Artificer p. 40*  

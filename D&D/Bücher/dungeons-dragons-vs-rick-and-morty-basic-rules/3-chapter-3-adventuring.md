@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Adventuring"
 tags:
-- ttrpg-cli/compendium/src/5e/rmr
+  - Quelle/5e/rmr
 aliases:
-- "Chapter 3: Adventuring"
+  - "Chapter 3: Adventuring"
 ---
 # Chapter 3: Adventuring
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules, p. 32* 

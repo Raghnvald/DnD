@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 4: What's Next"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Part 4: What's Next"
+  - "Part 4: What's Next"
 ---
 # Part 4: What's Next
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 10* 

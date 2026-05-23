@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Spells for Kruphix's Disciple"
 tags:
-- ttrpg-cli/spell/list/reward/kruphixs-disciple
+  - ttrpg-cli/spell/list/reward/kruphixs-disciple
 aliases:
-- "Spells for Kruphix's Disciple"
+  - "Spells for Kruphix's Disciple"
 ---
 # Spells for Kruphix's Disciple
 

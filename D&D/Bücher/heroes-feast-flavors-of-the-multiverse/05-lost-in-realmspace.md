@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Lost in Realmspace
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "Lost in Realmspace"
+  - "Lost in Realmspace"
 ---
 # Lost in Realmspace
 *Source: Heroes' Feast Flavors of the Multiverse, p. 95* 

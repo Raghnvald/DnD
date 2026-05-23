@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells
 tags:
-- ttrpg-cli/compendium/src/5e/uthftlh
+  - Quelle/5e/uthftlh
 aliases:
-- "Spells"
+  - "Spells"
 ---
 # Spells
 *Source: Uni and the Hunt for the Lost Horn* 

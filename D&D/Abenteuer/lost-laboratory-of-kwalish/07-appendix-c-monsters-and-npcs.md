@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix C: Monsters and NPCs"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Appendix C: Monsters and NPCs"
+  - "Appendix C: Monsters and NPCs"
 ---
 # Appendix C: Monsters and NPCs
 *Source: Lost Laboratory of Kwalish, p. 37* 

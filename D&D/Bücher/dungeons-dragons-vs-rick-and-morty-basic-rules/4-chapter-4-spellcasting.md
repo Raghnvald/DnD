@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 4: Spellcasting"
 tags:
-- ttrpg-cli/compendium/src/5e/rmr
+  - Quelle/5e/rmr
 aliases:
-- "Chapter 4: Spellcasting"
+  - "Chapter 4: Spellcasting"
 ---
 # Chapter 4: Spellcasting
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules, p. 44* 

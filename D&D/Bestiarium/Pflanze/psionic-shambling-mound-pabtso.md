@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Psionic Shambling Mound
-Image: Pflanze/token/psionic-shambling-mound-pabtso.webp
+Image: token/psionic-shambling-mound-pabtso.webp
 ---
 # Psionic Shambling Mound
 *Source: Phandelver and Below: The Shattered Obelisk p. 108*  

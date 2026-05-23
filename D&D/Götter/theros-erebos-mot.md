@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Erebos
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Erebos"
+  - "Erebos"
 ---
 # Erebos
 *Source: Mythic Odysseys of Theros p. 43* 

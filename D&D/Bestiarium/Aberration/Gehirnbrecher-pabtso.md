@@ -15,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Brain Breaker
-Image: aberration/token/brain-breaker-pabtso.webp
+Image: token/brain-breaker-pabtso.webp
 ---
 # Gehirnbrecher
 *Source: Phandelver and Below: The Shattered Obelisk p. 199*  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Shifter
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/shifter
+  - Quelle/5e/efa
+  - Rasse/shifter
 aliases:
-- "Shifter"
+  - "Shifter"
 ---
 # Shifter
 *Source: Eberron: Forge of the Artificer p. 37*  

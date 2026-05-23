@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Slaad-Kaulquappe
+Kategorie: Aberration
+Größe: Winzig
+HG: 1/8
+status: WIP
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-8

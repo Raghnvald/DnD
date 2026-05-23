@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Driftglobe
+Bezeichnung: Schwebekugel
 Kategorie: Wundersamer Gegenstand 
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -9,14 +9,14 @@ aliases:
   - Driftglobe
 linter-yaml-title-alias: Driftglobe
 ---
-# Driftglobe
-*Wondrous item, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/driftglobe.webp#right)
+# Schwebekugel
+*Wundersamer Gegenstand, ungewöhnlich*  
+![](img/driftglobe.webp#right)
 
-- **Weight**: 1.0 lbs.
+- **Gewicht**: 0,5 kg.
 
-This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word and cause it to emanate the [light](/3-Mechanics/CLI/spells/light.md) or [daylight](/3-Mechanics/CLI/spells/daylight.md) spell. Once used, the [daylight](/3-Mechanics/CLI/spells/daylight.md) effect can't be used again until the next dawn.
+Diese kleine Kugel aus dickem Glas wiegt 1 Pfund. Wenn du innerhalb von 18 Metern zu ihr bist und ihr Befehlswort sprichst, lässt du sie den Zauber [[Licht-phb|Licht]] oder [[Tageslicht-phb|Tageslicht]] wirken. Wenn er einmal benutzt wurde, kann der [[Tageslicht-phb|Tageslicht]]-Effekt bis zur nächsten Morgendämmerung nicht erneut verwendet werden.
 
-You can speak another command word as an action to make the illuminated globe rise into the air and float no more than 5 feet off the ground. The globe hovers in this way until you or another creature grasps it. If you move more than 60 feet from the hovering globe, it follows you until it is within 60 feet of you. It takes the shortest route to do so. If prevented from moving, the globe sinks gently to the ground and becomes inactive, and its light winks out.
+Du kannst ein anderes Befehlswort als Aktion sprechen, um die leuchtende Kugel in die Luft steigen und dort bis zu 1,50Meter hoch schweben zu lassen. Die Kugel schwebt auf diese Weise, bis du oder eine andere Kreatur sie ergreift. Wenn du dich mehr als 18 Meter von der Kugel wegbewegst, wird sie dir folgen, bis sie wieder innerhalb der 18 Meter ist. Sie nimmt den kürzesten Weg dafür. Wenn die Kugel in ihrer Bewegung verhindert wird, sinkt sie sanft zu Boden und wird inaktiv, wobei ihr Licht langsam ausgeht.
 
-*Source: Dungeon Master's Guide p. 166*
+*Quelle: Spielleiterhandbuch S. 188*

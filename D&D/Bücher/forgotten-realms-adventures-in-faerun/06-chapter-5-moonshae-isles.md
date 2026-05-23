@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 5: Moonshae Isles"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Chapter 5: Moonshae Isles"
+  - "Chapter 5: Moonshae Isles"
 ---
 # Chapter 5: Moonshae Isles
 *Source: Forgotten Realms: Adventures in Faerûn, p. 161* 

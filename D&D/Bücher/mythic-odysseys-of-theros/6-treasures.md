@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Treasures
 tags:
-- ttrpg-cli/compendium/src/5e/mot
+  - Quelle/5e/mot
 aliases:
-- "Treasures"
+  - "Treasures"
 ---
 # Treasures
 *Source: Mythic Odysseys of Theros, p. 195* 

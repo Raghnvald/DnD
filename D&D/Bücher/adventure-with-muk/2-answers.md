@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Answers
 tags:
-- ttrpg-cli/compendium/src/5e/awm
+  - Quelle/5e/awm
 aliases:
-- "Answers"
+  - "Answers"
 ---
 # Answers
 *Source: Adventure with Muk, p. 24* 

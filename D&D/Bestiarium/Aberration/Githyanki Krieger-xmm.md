@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Warrior
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 3
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/astral

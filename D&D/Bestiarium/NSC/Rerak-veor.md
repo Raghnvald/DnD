@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rerak
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Rerak
+IMAGE: token/rerak-veor.webp
 linter-yaml-title-alias: Rerak
 ---
 # [Rerak](3-Mechanics\CLI\bestiary\npc/rerak-veor.md)

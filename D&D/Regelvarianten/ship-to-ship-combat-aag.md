@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Ship-to-Ship Combat
 tags:
-- ttrpg-cli/compendium/src/5e/aag
+  - Quelle/5e/aag
 aliases:
-- "Ship-to-Ship Combat"
+  - "Ship-to-Ship Combat"
 ---
 # Ship-to-Ship Combat
 *Source: Astral Adventurer's Guide p. 24* 

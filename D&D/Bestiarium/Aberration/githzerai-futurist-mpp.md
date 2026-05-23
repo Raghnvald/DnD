@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpp
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/gith
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Githzerai Futurist
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 9
+status: WIP
+tags:
+  - Quelle/5e/mpp
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration/gith
 aliases:
-- "Githzerai Futurist"
+  - Githzerai Futurist
 ---
 # [Githzerai Futurist](3-Mechanics/CLI/bestiary/aberration/githzerai-futurist-mpp.md)
 *Source: Morte's Planar Parade p. 30*  

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Lyrandar Helm
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+  - Kompendium/Bastion
+  - Quelle/5e/efa
 aliases:
-- "Lyrandar Helm"
+  - "Lyrandar Helm"
 ---
 # Lyrandar Helm
 *Level 13 Bastion facility*  

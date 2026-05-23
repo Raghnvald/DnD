@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aurochs
+Kategorie: Tier (Rind)
+Größe: Groß
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

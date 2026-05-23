@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Zeal Domain (PSA)
 tags:
-- ttrpg-cli/spell/list/subclass/zeal-domain-psa
+  - ttrpg-cli/spell/list/subclass/zeal-domain-psa
 aliases:
-- "Spells for Zeal Domain (PSA)"
+  - "Spells for Zeal Domain (PSA)"
 ---
 # Spells for Zeal Domain (PSA)
 

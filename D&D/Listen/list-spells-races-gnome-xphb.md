@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Gnome
 tags:
-- ttrpg-cli/spell/list/race/gnome
+  - ttrpg-cli/spell/list/race/gnome
 aliases:
-- "Spells for Gnome"
+  - "Spells for Gnome"
 ---
 # Spells for Gnome
 

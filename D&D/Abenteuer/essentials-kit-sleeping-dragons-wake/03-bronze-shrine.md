@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Bronze Shrine
 tags:
-- ttrpg-cli/compendium/src/5e/sdw
+  - Quelle/5e/sdw
 aliases:
-- "Bronze Shrine"
+  - "Bronze Shrine"
 ---
 # Bronze Shrine
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

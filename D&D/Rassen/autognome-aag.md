@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Autognome
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/race/autognome
+  - Quelle/5e/aag
+  - Rasse/autognome
 aliases:
-- "Autognome"
+  - "Autognome"
 ---
 # Autognome
 *Source: Astral Adventurer's Guide p. 11*  

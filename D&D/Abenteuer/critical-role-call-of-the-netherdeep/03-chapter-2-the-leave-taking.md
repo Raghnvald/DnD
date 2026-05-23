@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: The Leave-Taking"
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
+  - Quelle/5e/crcotn
 aliases:
-- "Chapter 2: The Leave-Taking"
+  - "Chapter 2: The Leave-Taking"
 ---
 # Chapter 2: The Leave-Taking
 *Source: Critical Role: Call of the Netherdeep, p. 37* 

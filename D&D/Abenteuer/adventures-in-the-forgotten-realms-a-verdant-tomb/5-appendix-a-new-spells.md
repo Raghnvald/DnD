@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: New Spells"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-avt
+  - Quelle/5e/aitfr-avt
 aliases:
-- "Appendix A: New Spells"
+  - "Appendix A: New Spells"
 ---
 # Appendix A: New Spells
 *Source: Adventures in the Forgotten Realms: A Verdant Tomb, p. 9* 

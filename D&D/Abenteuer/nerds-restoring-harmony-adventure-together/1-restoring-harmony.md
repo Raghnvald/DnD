@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Restoring Harmony
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-at
+  - Quelle/5e/nrh-at
 aliases:
-- "Restoring Harmony"
+  - "Restoring Harmony"
 ---
 # Restoring Harmony
 *Source: NERDS Restoring Harmony: Adventure Together, p. 2* 

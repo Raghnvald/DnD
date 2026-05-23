@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Shaundakul
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Shaundakul"
-- "The Rider of the Winds"
-- "The Helping Hand"
+  - "Shaundakul"
+  - "The Helping Hand"
+  - "The Rider of the Winds"
 ---
 # Shaundakul
 *Source: Forgotten Realms: Heroes of Faerûn p. 121* 

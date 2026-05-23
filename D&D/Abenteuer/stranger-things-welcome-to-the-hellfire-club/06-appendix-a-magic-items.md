@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Appendix A - Magic Items
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Appendix A - Magic Items"
+  - "Appendix A - Magic Items"
 ---
 # Appendix A - Magic Items
 *Source: Stranger Things: Welcome to the Hellfire Club* 

@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
+Bezeichnung: Clockwork Trebuchet
 tags:
-- ttrpg-cli/compendium/src/5e/hbtd
-- ttrpg-cli/object/size/huge
-- ttrpg-cli/object/type/siege-weapon
+  - Kompendium/Objekt/size/huge
+  - Kompendium/Objekt/type/siege-weapon
+  - Quelle/5e/hbtd
 aliases:
-- "Clockwork Trebuchet"
+  - "Clockwork Trebuchet"
 ---
 # Clockwork Trebuchet
 *Source: Hold Back The Dead p. 4*  

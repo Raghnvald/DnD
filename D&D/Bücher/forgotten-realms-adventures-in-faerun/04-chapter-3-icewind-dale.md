@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Icewind Dale"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Chapter 3: Icewind Dale"
+  - "Chapter 3: Icewind Dale"
 ---
 # Chapter 3: Icewind Dale
 *Source: Forgotten Realms: Adventures in Faerûn, p. 91* 

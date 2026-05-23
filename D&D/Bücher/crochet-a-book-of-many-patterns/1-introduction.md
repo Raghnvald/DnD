@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/cabomp
+  - Quelle/5e/cabomp
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: Crochet: A Book of Many Patterns, p. 1* 

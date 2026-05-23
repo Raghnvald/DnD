@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Khoravar
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/khoravar
+  - Quelle/5e/efa
+  - Rasse/khoravar
 aliases:
-- "Khoravar"
+  - "Khoravar"
 ---
 # Khoravar
 *Source: Eberron: Forge of the Artificer p. 36*  

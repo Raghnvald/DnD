@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Innistrad; Kessig)
 tags:
-- ttrpg-cli/compendium/src/5e/psi
-- ttrpg-cli/race/human/innistrad-kessig
+  - Quelle/5e/psi
+  - Rasse/human/innistrad-kessig
 aliases:
-- "Human (Innistrad; Kessig)"
+  - "Human (Innistrad; Kessig)"
 ---
 # Human (Innistrad; Kessig)
 *Source: Plane Shift: Innistrad p. 8*  
@@ -55,7 +53,6 @@ When you make a melee attack against a creature, you don't provoke opportunity a
 For the Kessiger, life is work. Kessigers are farmers, millers, weavers, and stonemasons, living close to the land and working hard for every meal. This makes them self-reliant, pragmatic, and plainspoken.
 
 Innistrad's population is mostly human, and player characters in an Innistrad campaign should be human in most circumstances. However, the humans of Kessig are different in many respects from those of Gavony, and Nephalia's urban culture is very distinct from the shadow-draped land of Stensia. Diversity among player characters comes not from race, but from each character's home province.
-
 
 > [!gallery]
 ![Silverblade Paladin](3-Mechanics/CLI/races/img/innistrad2.webp)

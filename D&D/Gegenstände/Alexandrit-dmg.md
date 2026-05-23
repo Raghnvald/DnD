@@ -4,7 +4,6 @@ Kategorie: Edelstein
 Eigenschaften: /
 Kst.: 500 GM
 Gew.: /
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Alexandrite
 linter-yaml-title-alias: Alexandrite
+Status: completed
 ---
 # Alexandrit
 *Schatz (Edelstein)*  

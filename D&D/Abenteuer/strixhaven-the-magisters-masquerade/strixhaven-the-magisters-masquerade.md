@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Strixhaven the Magisters Masquerade
 ---
 # Index of Strixhaven the Magisters Masquerade
 

@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grell
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 3
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

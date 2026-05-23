@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Handschuhe des Diebstahls
+Bezeichnung: Gloves of Thievery
 Kategorie: Wundersamer Gegenstand
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,13 +7,10 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Gloves of Thievery
-aliases: 
-- "Gloves of Thievery"
 ---
 # Gloves of Thievery
 *Wondrous item, uncommon*  
 ![](/3-Mechanics/CLI/items/img/gloves-of-thievery.webp#right)
-
 
 These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) checks.
 

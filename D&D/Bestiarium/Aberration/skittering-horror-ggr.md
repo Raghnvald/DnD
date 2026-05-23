@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skittering Horror
+Kategorie: Aberration
+Größe: Riesig
+HG: 15
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15

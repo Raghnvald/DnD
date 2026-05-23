@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Introduction
 tags:
-- ttrpg-cli/compendium/src/5e/oga
+  - Quelle/5e/oga
 aliases:
-- "Introduction"
+  - "Introduction"
 ---
 # Introduction
 *Source: One Grung Above, p. 2* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Monsters"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Appendix B: Monsters"
+  - "Appendix B: Monsters"
 ---
 # Appendix B: Monsters
 *Source: Chains of Asmodeus, p. 236* 

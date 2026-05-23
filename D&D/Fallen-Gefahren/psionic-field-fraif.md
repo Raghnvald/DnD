@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Psionic Field
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
-- ttrpg-cli/hazard/env
+  - Kompendium/Bedrohung/env
+  - Quelle/5e/fraif
 aliases:
-- "Psionic Field"
+  - "Psionic Field"
 ---
 # Psionic Field
 *Environmental Hazard*  

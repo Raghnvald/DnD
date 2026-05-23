@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Beholder
+Kategorie: Aberration
+Größe: Groß
+HG: 13
+status: WIP
 tags:
   - Monster/Größe/Groß
   - Monster/HG/13

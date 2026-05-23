@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: NPCs and Monsters"
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Appendix B: NPCs and Monsters"
+  - "Appendix B: NPCs and Monsters"
 ---
 # Appendix B: NPCs and Monsters
 *Source: Infernal Machine Rebuild, p. 51* 

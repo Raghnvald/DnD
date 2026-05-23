@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Descent into the Lost Caverns of Tsojcanth
 tags:
-- ttrpg-cli/compendium/src/5e/ditlcot
+  - Quelle/5e/ditlcot
 aliases:
-- "Descent into the Lost Caverns of Tsojcanth"
+  - "Descent into the Lost Caverns of Tsojcanth"
 ---
 # Descent into the Lost Caverns of Tsojcanth
 *Source: Descent into the Lost Caverns of Tsojcanth* 

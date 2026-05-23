@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Renown Perk
 tags:
-- ttrpg-cli/compendium/src/5e/phb
+  - Quelle/5e/phb
 aliases:
-- "Renown Perk"
+  - "Renown Perk"
 ---
 # Renown Perk
 *Source: Player's Handbook, Eberron: Forge of the Artificer* 

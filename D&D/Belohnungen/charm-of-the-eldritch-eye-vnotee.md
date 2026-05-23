@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Charm of the Eldritch Eye
 tags:
-- ttrpg-cli/compendium/src/5e/vnotee
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/vnotee
 aliases:
-- "Charm of the Eldritch Eye"
+  - "Charm of the Eldritch Eye"
 ---
 # Charm of the Eldritch Eye
 

@@ -1,6 +1,5 @@
 ---
 Bezeichnung: Handwerkszeug
-Status: completed
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -8,6 +7,7 @@ tags:
 aliases:
   - Artisan's Tools
 linter-yaml-title-alias: Handwerkszeug
+Status: completed
 ---
 # Handwerkszeug
 *Handwerkszeug*  

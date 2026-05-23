@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Caves of Chaos
 tags:
-- ttrpg-cli/compendium/src/5e/hotb
+  - Quelle/5e/hotb
 aliases:
-- "Caves of Chaos"
+  - "Caves of Chaos"
 ---
 # Caves of Chaos
 *Source: Heroes of the Borderlands, p. 2* 

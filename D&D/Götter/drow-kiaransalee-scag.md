@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Kiaransalee
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/drow
-- ttrpg-cli/domain/arcana
+  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/drow
+  - Quelle/5e/scag
 aliases:
-- "Kiaransalee"
+  - "Kiaransalee"
 ---
 # Kiaransalee
 *Source: Sword Coast Adventurer's Guide p. 23* 

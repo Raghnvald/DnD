@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: When a Star Falls"
 tags:
-- ttrpg-cli/compendium/src/5e/qftis
+  - Quelle/5e/qftis
 aliases:
-- "Chapter 3: When a Star Falls"
+  - "Chapter 3: When a Star Falls"
 ---
 # Chapter 3: When a Star Falls
 *Source: Quests from the Infinite Staircase, p. 47* 

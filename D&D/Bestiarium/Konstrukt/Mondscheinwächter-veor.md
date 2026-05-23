@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Moonlight Guardian
+Kategorie: Konstrukt
+Größe: Mittelgroß
+HG: 6
+Habitat: /
+image: token/moonlight-guardian-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: Sidekicks"
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Appendix B: Sidekicks"
+  - "Appendix B: Sidekicks"
 ---
 # Appendix B: Sidekicks
 *Source: Essentials Kit: Divine Contention* 

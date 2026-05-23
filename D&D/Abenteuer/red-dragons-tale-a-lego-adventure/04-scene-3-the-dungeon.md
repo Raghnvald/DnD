@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Scene 3: The Dungeon"
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Scene 3: The Dungeon"
+  - "Scene 3: The Dungeon"
 ---
 # Scene 3: The Dungeon
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 7* 

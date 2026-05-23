@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpp
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Cranium Rat Squeaker
+Kategorie: Aberration
+Größe: Winzig
+HG: 0
+status: WIP
+tags:
+  - Quelle/5e/mpp
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Cranium Rat Squeaker"
+  - Cranium Rat Squeaker
 ---
 # [Cranium Rat Squeaker](3-Mechanics/CLI/bestiary/aberration/cranium-rat-squeaker-mpp.md)
 *Source: Morte's Planar Parade p. 22*  

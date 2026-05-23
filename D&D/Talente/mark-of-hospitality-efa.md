@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Mark of Hospitality
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/efa
 aliases:
-- "Mark of Hospitality"
+  - "Mark of Hospitality"
 ---
 # Mark of Hospitality
 *Source: Eberron: Forge of the Artificer p. 40*  

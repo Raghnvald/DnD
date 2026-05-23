@@ -1,15 +1,15 @@
 ---
-prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Vampire Spawn
+Bezeichnung: Vampirbrut
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 5
 Habitat:
   - Stadt
   - Unterreich
-status: WIP
+image: token/vampire-spawn.webp
+status: completed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -50,7 +50,7 @@ Ein Vampir wählt einen prachtvollen, aber gut zu verteidigenden Ort als Behausu
 
 > [!note] Spielercharaktere als Vampire
 > 
-> Die Spielwerte eines Spielercharakters, der in eine Vampirbrut und dann in einen Vampir verwandelt wird, ändern sich nicht, nur Stärke, Geschicklichkeit und Konstitution des Charakters steigen auf 18, wenn sie nicht schon höher sind. Außerdem erhält der Charakter die Schadensresistenzen, die [[Dunkelsicht]], die Merkmale und Aktionen des Vampirs. Angriffs- und Schadenswürfe für die Angriffe des Vampirs basieren auf Stärke. Der Rettungswurf für das Bezaubern des Vampirs ist 8 + Übungsbonus des Vampirs+ Charismamodifikator. Die Gesinnung des Charakters wird rechtschaffen böse, und der SL könnte die Kontrolle über den Charakter übernehmen, bis der Vampirismus mit dem Zauber [[Wunsch]] aufgehoben wird oder bis der Charakter getötet und zurück ins Leben gebracht wird.
+> Die Spielwerte eines Spielercharakters, der in eine Vampirbrut und dann in einen Vampir verwandelt wird, ändern sich nicht, nur Stärke, Geschicklichkeit und Konstitution des Charakters steigen auf 18, wenn sie nicht schon höher sind. Außerdem erhält der Charakter die Schadensresistenzen, die [[Sinne-phb#Dunkelsicht|Dunkelsicht]], die Merkmale und Aktionen des Vampirs. Angriffs- und Schadenswürfe für die Angriffe des Vampirs basieren auf Stärke. Der Rettungswurf für das Bezaubern des Vampirs ist 8 + Übungsbonus des Vampirs+ Charismamodifikator. Die Gesinnung des Charakters wird rechtschaffen böse, und der SL könnte die Kontrolle über den Charakter übernehmen, bis der Vampirismus mit dem Zauber [[Wunsch-phb|Wunsch]] aufgehoben wird oder bis der Charakter getötet und zurück ins Leben gebracht wird.
 ^player-characters-as-vampires
 
 > [!note] Strahd von Zarovich
@@ -66,7 +66,7 @@ Ein Vampir wählt einen prachtvollen, aber gut zu verteidigenden Ort als Behausu
 
 ```statblock
 name: Vampirbrut
-image: Untot/token/vampire-spawn.webp
+image: token/vampire-spawn.webp
 source:
   - MM
 size: Mittelgroß
@@ -79,7 +79,7 @@ hit_dice: 11d8 + 33
 modifier: 3
 stats:
   - 16
-  - 16
+  - 16Aberration
   - 16
   - 11
   - 10

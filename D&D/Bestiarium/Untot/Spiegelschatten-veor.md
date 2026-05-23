@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mirror Shade
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10

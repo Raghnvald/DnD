@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Witherbloom Student
 tags:
-- ttrpg-cli/spell/list/background/witherbloom-student
+  - ttrpg-cli/spell/list/background/witherbloom-student
 aliases:
-- "Spells for Witherbloom Student"
+  - "Spells for Witherbloom Student"
 ---
 # Spells for Witherbloom Student
 

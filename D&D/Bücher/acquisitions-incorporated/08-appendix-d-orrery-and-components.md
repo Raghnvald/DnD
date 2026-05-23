@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix D: Orrery and Components"
 tags:
-- ttrpg-cli/compendium/src/5e/ai
+  - Quelle/5e/ai
 aliases:
-- "Appendix D: Orrery and Components"
+  - "Appendix D: Orrery and Components"
 ---
 # Appendix D: Orrery and Components
 *Source: Acquisitions Incorporated, p. 220* 

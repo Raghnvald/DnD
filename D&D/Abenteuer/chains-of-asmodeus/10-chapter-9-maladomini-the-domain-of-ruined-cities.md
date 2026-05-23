@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 9: Maladomini, the Domain of Ruined Cities"
 tags:
-- ttrpg-cli/compendium/src/5e/coa
+  - Quelle/5e/coa
 aliases:
-- "Chapter 9: Maladomini, the Domain of Ruined Cities"
+  - "Chapter 9: Maladomini, the Domain of Ruined Cities"
 ---
 # Chapter 9: Maladomini, the Domain of Ruined Cities
 *Source: Chains of Asmodeus, p. 149* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Beginning of the End"
 tags:
-- ttrpg-cli/compendium/src/5e/tofw
+  - Quelle/5e/tofw
 aliases:
-- "Introduction: Beginning of the End"
+  - "Introduction: Beginning of the End"
 ---
 # Introduction: Beginning of the End
 *Source: Turn of Fortune's Wheel, p. 4* 

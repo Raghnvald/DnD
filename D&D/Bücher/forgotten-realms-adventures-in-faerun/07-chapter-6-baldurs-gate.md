@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 6: Baldur's Gate"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Chapter 6: Baldur's Gate"
+  - "Chapter 6: Baldur's Gate"
 ---
 # Chapter 6: Baldur's Gate
 *Source: Forgotten Realms: Adventures in Faerûn, p. 191* 

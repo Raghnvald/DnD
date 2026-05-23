@@ -2,15 +2,20 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Al'chaia"
+Kategorie: Humanoid (Gith)
+Größe: Mittelgroß
+HG: "8"
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
   - Monster/Typ/Humanoid/gith
   - Quelle/5e/wdmm
 aliases:
-  - "Al'chaia"
   - Al'chaia
-linter-yaml-title-alias: "Al'chaia"
+linter-yaml-title-alias: Al'chaia
 ---
 # [Al'chaia](3-Mechanics\CLI\bestiary\npc/alchaia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 218*  

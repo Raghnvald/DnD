@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kuo-toa Monitor
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 3
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

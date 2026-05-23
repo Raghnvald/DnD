@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Further Options"
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Appendix A: Further Options"
+  - "Appendix A: Further Options"
 ---
 # Appendix A: Further Options
 *Source: Infernal Machine Rebuild, p. 47* 

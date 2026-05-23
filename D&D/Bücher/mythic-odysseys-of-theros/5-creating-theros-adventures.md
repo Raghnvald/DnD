@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Creating Theros Adventures
 tags:
-- ttrpg-cli/compendium/src/5e/mot
+  - Quelle/5e/mot
 aliases:
-- "Creating Theros Adventures"
+  - "Creating Theros Adventures"
 ---
 # Creating Theros Adventures
 *Source: Mythic Odysseys of Theros, p. 109* 

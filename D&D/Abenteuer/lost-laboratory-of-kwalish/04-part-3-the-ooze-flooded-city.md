@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 3: The Ooze-Flooded City"
 tags:
-- ttrpg-cli/compendium/src/5e/llk
+  - Quelle/5e/llk
 aliases:
-- "Part 3: The Ooze-Flooded City"
+  - "Part 3: The Ooze-Flooded City"
 ---
 # Part 3: The Ooze-Flooded City
 *Source: Lost Laboratory of Kwalish, p. 19* 

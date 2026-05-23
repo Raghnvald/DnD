@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: Combat"
 tags:
-- ttrpg-cli/compendium/src/5e/rmr
+  - Quelle/5e/rmr
 aliases:
-- "Chapter 2: Combat"
+  - "Chapter 2: Combat"
 ---
 # Chapter 2: Combat
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules, p. 16* 

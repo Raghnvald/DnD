@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Kelemvor
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Kelemvor"
-- "The Judge of the Damned"
-- "The Lord of the Dead"
+  - "Kelemvor"
+  - "The Judge of the Damned"
+  - "The Lord of the Dead"
 ---
 # Kelemvor
 *Source: Forgotten Realms: Heroes of Faerûn p. 110* 

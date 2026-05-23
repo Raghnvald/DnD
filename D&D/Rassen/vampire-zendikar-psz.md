@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Vampire (Zendikar)
 tags:
-- ttrpg-cli/compendium/src/5e/psz
-- ttrpg-cli/race/vampire/zendikar
+  - Quelle/5e/psz
+  - Rasse/vampire/zendikar
 aliases:
-- "Vampire (Zendikar)"
+  - "Vampire (Zendikar)"
 ---
 # Vampire (Zendikar)
 *Source: Plane Shift: Zendikar p. 14*  
@@ -61,6 +59,5 @@ Vampires are associated with black mana. Their existence is predicated on draini
 The vampires of Zendikar are not undead. Rather, their unique nature comes from an eldritch disease that turns their flesh cold, makes their gray or purple skin feel dead to the touch, and enables them to drain concentrated magical energy from the blood of other living creatures. They are tall and slender, with long, elegant necks and broad shoulders. Bony horns protrude from their shoulders and elbows, often augmented by the layered plates of their armor and clothing. Their canine teeth are slightly elongated, but not enough to protrude between their closed lips.
 
 Vampires dress in leather and the chitin carapaces of the gigantic insects that dwell in the swamps and jungles of their native Guul Draz, augmented with fine silk and gauzy fabric. They decorate their skin in elaborate, symmetrical patterns of red paint made from blood and mineral pigments. Their clothing is an odd mixture of complex layers and elaborate patterns combined with plenty of exposed skin, since their cold bodies are unaffected by the temperature around them.
-
 
 ![Vampire Nighthawk](3-Mechanics/CLI/races/img/vampire2.webp#center)

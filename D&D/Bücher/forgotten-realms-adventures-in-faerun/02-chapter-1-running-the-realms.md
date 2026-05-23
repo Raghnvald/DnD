@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 1: Running the Realms"
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Chapter 1: Running the Realms"
+  - "Chapter 1: Running the Realms"
 ---
 # Chapter 1: Running the Realms
 *Source: Forgotten Realms: Adventures in Faerûn, p. 7* 

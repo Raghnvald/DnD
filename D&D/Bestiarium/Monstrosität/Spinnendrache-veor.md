@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spiderdragon
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Spiderdragon
+IMAGE: token/spiderdragon-veor.webp
 ---
 # [Spiderdragon](3-Mechanics\CLI\bestiary\monstrosity/spiderdragon-veor.md)
 *Source: Vecna: Eve of Ruin p. 233*  

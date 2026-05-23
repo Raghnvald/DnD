@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Orc
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/orc
+  - Quelle/5e/mpmm
+  - Rasse/orc
 aliases:
-- "Orc"
+  - "Orc"
 ---
 # Orc
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 28*  

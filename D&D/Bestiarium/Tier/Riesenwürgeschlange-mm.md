@@ -12,7 +12,7 @@ Habitat:
   - Unterwasser
   - Wald
   - Wüste
-image: image/giant-constrictor-snake-webp
+image: token/giant-constrictor-snake-webp
 status: completed
 tags:
   - Monster/Größe/Riesig

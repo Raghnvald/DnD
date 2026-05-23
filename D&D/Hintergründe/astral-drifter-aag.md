@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Astral Drifter
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/aag
+  - Kompendium/Hintergrund
+  - Quelle/5e/aag
 aliases:
-- "Astral Drifter"
+  - "Astral Drifter"
 ---
 # Astral Drifter
 *Source: Astral Adventurer's Guide p. 7*  

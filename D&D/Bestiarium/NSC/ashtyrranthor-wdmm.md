@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ashtyrranthor
+Kategorie: Drache
+Größe: Riesig
+status: WIP
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17

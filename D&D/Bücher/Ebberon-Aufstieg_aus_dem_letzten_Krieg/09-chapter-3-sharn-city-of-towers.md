@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 3: Sharn, City of Towers"
 tags:
-  - new/compendium/src/5e/erlw
+  - Quelle/5e/erlw
 aliases:
   - Chapter 3: Sharn, City of Towers
 ---

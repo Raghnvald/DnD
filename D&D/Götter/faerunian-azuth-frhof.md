@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Azuth
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Azuth"
-- "The High One"
-- "Lord of Spells"
-- "The Shining Hand of Sorcery"
+  - "Azuth"
+  - "Lord of Spells"
+  - "The High One"
+  - "The Shining Hand of Sorcery"
 ---
 # Azuth
 *Source: Forgotten Realms: Heroes of Faerûn p. 101* 

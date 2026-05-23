@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Travel at Sea
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Travel at Sea"
+  - "Travel at Sea"
 ---
 # Travel at Sea
 *Source: Ghosts of Saltmarsh p. 199* 

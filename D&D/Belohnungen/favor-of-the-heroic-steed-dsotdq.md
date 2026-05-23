@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Favor of the Heroic Steed
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/dsotdq
 aliases:
-- "Favor of the Heroic Steed"
+  - "Favor of the Heroic Steed"
 ---
 # Favor of the Heroic Steed
 *Charm*  

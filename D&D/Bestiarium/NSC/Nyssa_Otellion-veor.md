@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nyssa Otellion
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/17

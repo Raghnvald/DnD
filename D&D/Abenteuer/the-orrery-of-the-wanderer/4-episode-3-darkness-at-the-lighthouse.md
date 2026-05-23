@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Episode 3: Darkness at the Lighthouse"
 tags:
-- ttrpg-cli/compendium/src/5e/oow
+  - Quelle/5e/oow
 aliases:
-- "Episode 3: Darkness at the Lighthouse"
+  - "Episode 3: Darkness at the Lighthouse"
 ---
 # Episode 3: Darkness at the Lighthouse
 *Source: The Orrery of the Wanderer, p. 118* 

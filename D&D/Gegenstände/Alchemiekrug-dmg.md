@@ -4,7 +4,6 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: /
 Kst.: /
 Gew.: 6,0 kg
-Status: completed
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
@@ -12,6 +11,7 @@ tags:
 aliases:
   - Alchemy Jug
 linter-yaml-title-alias: Alchemiekrug
+Status: completed
 ---
 # Alchemiekrug
 *Wundersamer Gegenstand, ungewöhnlich*

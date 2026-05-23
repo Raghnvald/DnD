@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Intellect Devourer
+Kategorie: Aberration
+Größe: Winzig
+HG: 2
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich

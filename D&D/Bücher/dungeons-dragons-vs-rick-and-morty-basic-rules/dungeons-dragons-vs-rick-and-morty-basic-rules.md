@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Dungeons Dragons Vs Rick and Morty Basic Rules
 ---
 # Index of Dungeons Dragons Vs Rick and Morty Basic Rules
 

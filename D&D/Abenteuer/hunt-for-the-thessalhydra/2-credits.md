@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/hftt
+  - Quelle/5e/hftt
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Hunt for the Thessalhydra* 

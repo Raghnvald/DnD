@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Keldon)
 tags:
-- ttrpg-cli/compendium/src/5e/psd
-- ttrpg-cli/race/human/keldon
+  - Quelle/5e/psd
+  - Rasse/human/keldon
 aliases:
-- "Human (Keldon)"
+  - "Human (Keldon)"
 ---
 # Human (Keldon)
 *Source: Plane Shift: Dominaria p. 19*  
@@ -53,6 +51,5 @@ The people of Keld are human, but they are like no other humans anywhere. Nearly
 Keldons value self-reliance, strength, and courage above all else. Anything that is the product of their own labor is a fine thing. Anything else is treated with a healthy dose of skepticism. At best, they are a proud, pragmatic, passionate people, and their loyalty is fierce once earned. At worst, they can be reckless, hot-tempered, and violent—and no small number of Keldons still consider these qualities virtues rather than vices.
 
 Because of their many exploits as both conquerors and mercenaries, Keldons appear in the legends and histories of other peoples across the world. Sometimes these tales are exaggerated—but many that sound exaggerated are not.
-
 
 ![Grand Warlord Radha](3-Mechanics/CLI/races/img/keldon2.webp#center)

@@ -7,7 +7,7 @@ Größe: Klein
 HG: 4
 Habitat:
   - /
-image: Aberration/token/goblin-psi-commander-pabtso.webp
+image: token/goblin-psi-commander-pabtso.webp
 status: WIP
 tags:
   - Monster/Größe/Klein

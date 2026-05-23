@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Sacred Flame
+Bezeichnung: Heilige Flamme
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand: 1 Aktion
+Reichweite: 18 m
+Komponenten: V, G
+Wirkungsdauer: unmittelbar
+Angriff: GES
+Schaden: 1d8
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -22,19 +22,19 @@ aliases:
   - Sacred Flame
 linter-yaml-title-alias: Sacred Flame
 ---
-# Sacred Flame
-*cantrip, Evocation*  
-![](/3-Mechanics/CLI/spells/img/sacred-flame.webp#right)
+# Heilige Flamme
+*Zaubertrick der Hervorrufung*  
+![](Zauber/img/sacred-flame.webp#right)
 
-- **Casting time:** 1 Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** 18 m
+- **Komponenten:** V, G
+- **Wirkungsdauer:** unmittelbar
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take `1d8` radiant damage. The target gains no benefit from cover for this saving throw.
+Flammengleiches Licht senkt sich auf eine Kreatur herab, die sich in Reichweite befindet und die du sehen kannst. Dem Ziel muss ein Geschicklichkeits-Rettungswurf gelingen, sonst erleidet es `1d8` gleißenden Schaden. Bei diesem Rettungswurf ist das Ziel nicht im Vorteil aufgrund von Deckung.
 
-The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
+Der Schaden dieses Zaubers steigt jeweils um `1d8` bei Erreichen der 5. (`2d8`), 11. (`3d8`) und 17. Stufe (`4d8`).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md)
 
-*Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 239. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

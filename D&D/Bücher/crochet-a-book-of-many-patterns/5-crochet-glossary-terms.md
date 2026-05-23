@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Crochet Glossary Terms
 tags:
-- ttrpg-cli/compendium/src/5e/cabomp
+  - Quelle/5e/cabomp
 aliases:
-- "Crochet Glossary Terms"
+  - "Crochet Glossary Terms"
 ---
 # Crochet Glossary Terms
 *Source: Crochet: A Book of Many Patterns, p. 155* 

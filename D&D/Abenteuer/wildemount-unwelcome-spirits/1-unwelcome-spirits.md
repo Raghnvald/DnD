@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Unwelcome Spirits
 tags:
-- ttrpg-cli/compendium/src/5e/us
+  - Quelle/5e/us
 aliases:
-- "Unwelcome Spirits"
+  - "Unwelcome Spirits"
 ---
 # Unwelcome Spirits
 *Source: Wildemount: Unwelcome Spirits, p. 250* 

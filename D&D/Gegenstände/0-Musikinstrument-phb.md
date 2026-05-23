@@ -1,6 +1,5 @@
 ---
 Bezeichnung: Musikinstrument
-Status:
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
@@ -8,6 +7,7 @@ tags:
 aliases:
   - Musical Instrument
 linter-yaml-title-alias: Musical Instrument
+Status:
 ---
 # Musikinstrument
 *Instrument*  

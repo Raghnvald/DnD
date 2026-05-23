@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Chauntea
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Chauntea"
-- "The Grain Goddess"
-- "The Great Mother"
+  - "Chauntea"
+  - "The Grain Goddess"
+  - "The Great Mother"
 ---
 # Chauntea
 *Source: Forgotten Realms: Heroes of Faerûn p. 104* 

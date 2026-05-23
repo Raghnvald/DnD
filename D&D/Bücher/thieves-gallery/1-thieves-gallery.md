@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Thieves' Gallery"
 tags:
-- ttrpg-cli/compendium/src/5e/hat-tg
+  - Quelle/5e/hat-tg
 aliases:
-- "Thieves' Gallery"
+  - "Thieves' Gallery"
 ---
 # Thieves' Gallery
 *Source: Thieves' Gallery* 

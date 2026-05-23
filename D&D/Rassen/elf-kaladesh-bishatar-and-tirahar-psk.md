@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Elf (Kaladesh; Bishatar and Tirahar)
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/race/elf/kaladesh-bishatar-and-tirahar
+  - Quelle/5e/psk
+  - Rasse/elf/kaladesh-bishatar-and-tirahar
 aliases:
-- "Elf (Kaladesh; Bishatar and Tirahar)"
+  - "Elf (Kaladesh; Bishatar and Tirahar)"
 ---
 # Elf (Kaladesh; Bishatar and Tirahar)
 *Source: Plane Shift: Kaladesh p. 21*  
@@ -84,6 +82,5 @@ Elves who dwell in the forest and countryside are known as the Bishtahar. Most l
 A garden tended by elves seems to grow naturally in an aesthetically pleasing fashion. In fact, many of the forests and plains of Kaladesh are planted and tended by elves as well. What might appear at first to be wild countryside is more likely a carefully planned landscape designed to meet the needs of the people and animals that live there.
 
 Elves who forsake technology entirely are called the Tirahar. Some elves with Tirahar sympathies live within cities or farms, but most simply withdraw to the wilder areas of Kaladesh. No more than one in a hundred elves is counted among the Tirahar, and many members of other races are unaware that these reclusive elves even exist.
-
 
 ![Cultivator's Caravan](3-Mechanics/CLI/races/img/elf2.webp#center)

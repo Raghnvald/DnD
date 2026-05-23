@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix C: Monsters"
 tags:
-- ttrpg-cli/compendium/src/5e/hotb
+  - Quelle/5e/hotb
 aliases:
-- "Appendix C: Monsters"
+  - "Appendix C: Monsters"
 ---
 # Appendix C: Monsters
 *Source: Heroes of the Borderlands* 

@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Intellektschlinge
+Kategorie: Aberration
+Größe: Klein
+HG: 8
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/HG/8
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Intellect Snare
-Image: aberration/token/intellect-snare-pabtso.webp
+Image: token/intellect-snare-pabtso.webp
 ---
 # Intellektschlinge
 *Source: Phandelver and Below: The Shattered Obelisk p. 208*  

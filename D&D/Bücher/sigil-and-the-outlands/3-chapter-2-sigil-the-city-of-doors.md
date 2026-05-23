@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: Sigil, the City of Doors"
 tags:
-- ttrpg-cli/compendium/src/5e/sato
+  - Quelle/5e/sato
 aliases:
-- "Chapter 2: Sigil, the City of Doors"
+  - "Chapter 2: Sigil, the City of Doors"
 ---
 # Chapter 2: Sigil, the City of Doors
 *Source: Sigil and the Outlands, p. 15* 

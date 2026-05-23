@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/coa
-- ttrpg-cli/monster/cr/22
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Greater Tyrant Shadow
+Kategorie: Aberration
+Größe: Gigantisch
+HG: 22
+status: WIP
+tags:
+  - Quelle/5e/coa
+  - ttrpg-cli/monster/cr/22
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Greater Tyrant Shadow"
+  - Greater Tyrant Shadow
 ---
 # [Greater Tyrant Shadow](3-Mechanics/CLI/bestiary/aberration/greater-tyrant-shadow-coa.md)
 *Source: Chains of Asmodeus p. 256*  

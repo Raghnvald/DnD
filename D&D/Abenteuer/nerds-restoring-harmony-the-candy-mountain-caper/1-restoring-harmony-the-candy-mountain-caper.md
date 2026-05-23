@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Restoring Harmony: The Candy Mountain Caper"
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-tcmc
+  - Quelle/5e/nrh-tcmc
 aliases:
-- "Restoring Harmony: The Candy Mountain Caper"
+  - "Restoring Harmony: The Candy Mountain Caper"
 ---
 # Restoring Harmony: The Candy Mountain Caper
 *Source: NERDS Restoring Harmony: The Candy Mountain Caper, p. 2* 

@@ -1,12 +1,13 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Wraith
+Bezeichnung: Todesalb
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 5
 Habitat:
   - Unterreich
+image: token/wraith.webp
 status: WIP
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,88 +19,67 @@ aliases:
   - Wraith
 linter-yaml-title-alias: Wraith
 ---
-# [Wraith](3-Mechanics\CLI\bestiary\undead/wraith.md)
-*Source: Monster Manual p. 302. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Todesalb
+*Quelle: Monsterhandbuch S. 285. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
+Ein Todesalb ist fleischgewordene Bösartigkeit, konzentriert in eine körperlose Gestalt, die alles Leben auslöschen möchte. Die Kreatur ist von negativer Energie erfüllt, und ihr bloßes Wandern durch die Welt lässt nahe Pflanzen schwarz werden und verdorren. Tiere flüchten vor ihrer Gegenwart. Selbst kleine Feuer können durch das strudelnde Vergessen der grauenhaften Existenz des Todesalbs ausgelöscht werden.
 
-## Vile Oblivion
+## Abscheuliches Vergessen
 
-When a mortal humanoid lives a debased life or enters into a fiendish pact, it consigns its soul to eternal damnation in the Lower Planes. However, sometimes the soul becomes so suffused with negative energy that it collapses in on itself and ceases to exist the instant before it can shuffle off to some horrible afterlife. When this occurs, the spirit becomes a soulless wraith-a malevolent void trapped on the plane where it died. Almost nothing of the wraith's former existence is preserved; in this new form, it exists only to annihilate other life.
+Wenn ein sterblicher Humanoider ein verkommenes Leben führt oder einen unheiligen Pakt eingeht, schickt er seine Seele in die ewige Verdammnis in den Unteren Ebenen. Manchmal jedoch wird die Seele so sehr von negativer Energie erfüllt, dass sie in sich zusammenfällt und aufhört, zu existieren, in dem Augenblick, ehe sie in ein schreckliches Leben nach dem Tod übergehen kann. Wenn es dazu kommt, wird der Geist ein seelenloser Todesalb - eine bösartige Leere, die auf der Ebene, auf der sie gestorben ist, gefangen ist. So gut wie nichts von der ehemaligen Existenz des· Todesalbs bleibt bestehen; in seiner neuen Gestalt existiert er nur, um das Leben anderer auszulöschen.
 
-## Bereft of Body
+## Eines Körpers beraubt
 
-A wraith can move through solid creatures and objects as easily as a mortal creature moves through fog.
+Ein Todesalb kann sich durch feste Kreaturen und Gegenstände bewegen, so mühelos wie sterbli- . ehe Kreaturen durch Nebel.
 
-A wraith might retain a few memories of its mortal life as shadowy echoes. However, even the strongest events and emotions become little more than faint impressions, fleeting as half-remembered dreams. A wraith might pause to stare at something that fascinated it in life, or it might curb its wrath in acknowledgment of a past friendship. Such moments come rarely, however, because most wraiths despise what they were as a reminder of what they have become.
+Ein Todesalb könnte einige Erinnerungen an sein sterbliches Leben als schattenhafte Echos bewahren. Allerdings werden selbst die stärksten Ereignisse und Empfindungen wenig mehr als schwache Eindrücke, so flüchtig wie halb vergessene Träume. Ein Todesalb könnte innehalten, um etwas anzustarren, das ihn im Leben faszinierte, oder er könnte seinen Zorn zügeln, um eine vergangene Freundschaft zu ehren. Solche Augenblicke sind aber selten, da die meisten Todesalben das, was sie waren, verachten, weil es sie daran erinnert, was sie geworden sind.
 
-## Undead Commanders
+## Untote Anführer
 
-A wraith can make an undead servant from the spirit of a humanoid creature that has recently suffered a violent death. Such a fragment of woe becomes a specter, spiteful of all that lives.
+Ein Todesalb kann untote Diener aus den Geistern von humanoiden Kreaturen erschaffen, die kürzlich einen gewalttätigen Tod erlitten haben. Solche Fragmente des Leides werden zu Schreckgespenstern, die alles verabscheuen, was lebt.
 
-Wraiths sometimes rule the legions of the dead, plotting the doom of living creatures. When they emerge from their tombs to do battle, life and hope shrivel before them. Even if a wraith's armies are forced to retreat, the lands its forces occupied are so blasted and withered that those who live there often starve and die.
+Todesalben regieren manchmal über die Legionen der Toten und planen den Untergang von lebenden Wesen. Wenn sie aus ihren Gräbern steigen, um in die Schlacht zu ziehen, verdorren Leben und Hoffnung vor ihnen. Selbst wenn die Armeen eines Todesalbs gezwungen werden, sich zurückzuziehen, ist das Land, das seine Truppen besetzt haben, so zersprengt und verdorrt, dass jene, die dort leben, oft verhungern und sterben.
 
-## Undead Nature
+## Untote Natur
 
-A wraith doesn't require air, food, drink, or sleep.
+Ein Todesalb muss nicht atmen, essen, trinken oder schlafen.
 
 ```statblock
-"name": "Wraith"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "67"
-"hit_dice": "9d8 + 27"
-"modifier": !!int "3"
-"stats":
-  - !!int "6"
-  - !!int "16"
-  - !!int "16"
-  - !!int "12"
-  - !!int "14"
-  - !!int "15"
-"speed": "0 ft., fly 60 ft. (hover)"
-"damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
-  \ slashing from nonmagical attacks that aren't silvered"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "the languages it knew in life"
-"cr": "5"
-"traits":
-  - "desc": "The wraith can move through other creatures and objects as if they were\
-      \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
-      \ an object."
-    "name": "Incorporeal Movement"
-  - "desc": "While in sunlight, the wraith has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-      \ that rely on sight."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21\
-      \ (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution\
-      \ saving throw or its hit point maximum is reduced by an amount equal to the\
-      \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target dies if this effect reduces its hit point maximum to 0."
-    "name": "Life Drain"
-  - "desc": "The wraith targets a humanoid within 10 feet of it that has been dead\
-      \ for no longer than 1 minute and died violently. The target's spirit rises\
-      \ as a [specter](/3-Mechanics/CLI/bestiary/undead/specter.md) in the space of\
-      \ its corpse or in the nearest unoccupied space. The [specter](/3-Mechanics/CLI/bestiary/undead/specter.md)\
-      \ is under the wraith's control. The wraith can have no more than seven specters\
-      \ under its control at one time."
-    "name": "Create Specter"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/wraith.webp"
+name: Todesalb
+image: token/wraith.webp
+source:
+  - MM
+size: Mittelgroß
+type: Untoter
+alignment: Neutral Böse
+ac: 13
+hp: 67
+hit_dice: 9d8 + 27
+modifier: 3
+stats:
+  - 6
+  - 16
+  - 16
+  - 12
+  - 14
+  - 15
+speed: 0 ft., fly 60 ft. (hover)
+damage_resistances: Blitz, Feuer, Kälte, Säure, Schall; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, die nicht von versilberten Waffen zugefügt werden.
+damage_immunities: Gift, nekrotisch
+condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#liegend|liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#versteinert|versteinert<STATBLOCK-MARKDOWN-LINK>
+senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 12
+languages: die Sprachen, die er im Leben kannte
+cr: "5"
+environment: Unterreich
+traits:
+  - name: Körperlose Bewegung
+    desc: "Der Todesalb kann sich durch andere Kreaturen und Gegenstände bewegen als seien sie schwieriges Gelände. Er erleidet 5 (1d10) Energieschaden, wenn er seinen Zug in einem Gegenstand beendet."
+  - name: Empfindlich gegenüber Sonnenlicht
+    desc: "Solange sich der Todesalb im Sonnenlicht befindet, hat er einen Nachteil bei Angriffswürfen und Würfen auf Weisheit (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>), die Sicht verwenden."
+actions:
+  - name: Lebensentzug
+    desc: "*Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 21 (4d8 + 3) nekrotischer Schaden. Das Ziel muss einen Konstitutionsrettungswurf gegen SG 14 ablegen, sonst werden seine maximalen Trefferpunkte um den erlittenen Schaden verringert. Diese Verringerung hält an, bis das Ziel eine lange Rast beendet. Das Ziel stirbt, wenn dieser Effekt es aufO maximale Trefferpunkte reduziert."
+  - name: Schreckgespenst erschaffen
+    desc: "Der Todesalb wählt einen Humaneiden innerhalb von 3 m aus, der nicht länger als 1 Minute tot ist und einen gewalttätigen Tod .erlitten hat. Der Geist des Ziels erhebt sich als <STATBLOCK-MARKDOWN-LINK>Schreckgespenst-mm|Schreckgespenst<STATBLOCK-MARKDOWN-LINK> im Bereich seines Leichnams oder im nächsten nicht besetzten Bereich. Das <STATBLOCK-MARKDOWN-LINK>Schreckgespenst-mm|Schreckgespenst<STATBLOCK-MARKDOWN-LINK> steht unter der Kontrolle des Todesalbs. Der Todesalb kann nicht mehr als sieben Schreckgespenster auf einmal unter seiner Kontrolle haben."
 ```
 ^statblock
-
-## Environment
-
-underdark

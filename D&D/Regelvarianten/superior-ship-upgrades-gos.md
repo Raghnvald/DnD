@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Superior Ship Upgrades
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Superior Ship Upgrades"
+  - "Superior Ship Upgrades"
 ---
 # Superior Ship Upgrades
 *Source: Ghosts of Saltmarsh p. 196* 

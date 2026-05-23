@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blade Lieutenant
+Kategorie: Konstrukt (Kriegsgeschmiedet)
+Größe: Mittelgroß
+HG: 9
+Habitat: /
+image: token/blade-lieutenant-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -10,7 +16,7 @@ tags:
 aliases:
   - Blade Lieutenant
 ---
-# [Blade Lieutenant](3-Mechanics\CLI\bestiary\construct/blade-lieutenant-veor.md)
+# Blade Lieutenant
 *Source: Vecna: Eve of Ruin p. 209*  
 
 Blade lieutenants lead subordinates on raids on behalf of the Lord of Blades. Soldiers who fail to meet a lieutenant's demands are harshly disciplined.

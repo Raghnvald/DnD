@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Arvoreen
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/halfling
-- ttrpg-cli/domain/war
+  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/halfling
+  - Quelle/5e/scag
 aliases:
-- "Arvoreen"
+  - "Arvoreen"
 ---
 # Arvoreen
 *Source: Sword Coast Adventurer's Guide p. 23* 

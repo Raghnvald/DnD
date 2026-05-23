@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Heroes Feast Flavors of the Multiverse
 ---
 # Index of Heroes Feast Flavors of the Multiverse
 

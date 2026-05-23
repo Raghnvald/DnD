@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Appendix E: Maps"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Appendix E: Maps
 ---

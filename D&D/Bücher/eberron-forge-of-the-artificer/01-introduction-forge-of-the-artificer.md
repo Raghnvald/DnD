@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Introduction: Forge of the Artificer"
 tags:
-- ttrpg-cli/compendium/src/5e/efa
+  - Quelle/5e/efa
 aliases:
-- "Introduction: Forge of the Artificer"
+  - "Introduction: Forge of the Artificer"
 ---
 # Introduction: Forge of the Artificer
 *Source: Eberron: Forge of the Artificer, p. 4* 

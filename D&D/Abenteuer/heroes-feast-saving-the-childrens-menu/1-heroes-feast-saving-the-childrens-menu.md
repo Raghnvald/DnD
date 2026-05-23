@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Heroes' Feast: Saving the Children's Menu"
 tags:
-- ttrpg-cli/compendium/src/5e/hfstcm
+  - Quelle/5e/hfstcm
 aliases:
-- "Heroes' Feast: Saving the Children's Menu"
+  - "Heroes' Feast: Saving the Children's Menu"
 ---
 # Heroes' Feast: Saving the Children's Menu
 *Source: Heroes' Feast: Saving the Children's Menu* 

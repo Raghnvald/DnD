@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Encounters at Sea
 tags:
-- ttrpg-cli/compendium/src/5e/gos
+  - Quelle/5e/gos
 aliases:
-- "Encounters at Sea"
+  - "Encounters at Sea"
 ---
 # Encounters at Sea
 *Source: Ghosts of Saltmarsh p. 207* 

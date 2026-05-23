@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Vizier
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/psa
+  - Kompendium/Hintergrund
+  - Quelle/5e/psa
 aliases:
-- "Vizier"
+  - "Vizier"
 ---
 # Vizier
 *Source: Plane Shift: Amonkhet p. 10*  

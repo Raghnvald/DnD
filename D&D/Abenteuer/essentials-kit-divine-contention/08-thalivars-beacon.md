@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Thalivar's Beacon"
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Thalivar's Beacon"
+  - "Thalivar's Beacon"
 ---
 # Thalivar's Beacon
 *Source: Essentials Kit: Divine Contention* 

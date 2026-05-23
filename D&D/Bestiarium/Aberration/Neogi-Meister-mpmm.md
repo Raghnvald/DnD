@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Neogi-Meister
+Kategorie: Aberration (Hexenmeister)
+Größe: Mittelgroß
+HG: 4
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Hügel

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Conclusion
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "Conclusion"
+  - "Conclusion"
 ---
 # Conclusion
 *Source: X Marks the Spot, p. 8* 

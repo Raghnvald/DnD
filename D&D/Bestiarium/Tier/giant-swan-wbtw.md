@@ -1,16 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/wbtw
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Giant Swan
+tags:
+  - Quelle/5e/wbtw
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 aliases:
-- "Giant Swan"
+  - "Giant Swan"
 ---
 # [Giant Swan](3-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 38*  

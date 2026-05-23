@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Adept of the Black Robes
 tags:
-- ttrpg-cli/spell/list/feat/adept-of-the-black-robes
+  - ttrpg-cli/spell/list/feat/adept-of-the-black-robes
 aliases:
-- "Spells for Adept of the Black Robes"
+  - "Spells for Adept of the Black Robes"
 ---
 # Spells for Adept of the Black Robes
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/tofw
+  - Quelle/5e/tofw
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Turn of Fortune's Wheel* 

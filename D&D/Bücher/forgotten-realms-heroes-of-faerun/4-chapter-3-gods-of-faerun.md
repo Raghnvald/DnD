@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 3: Gods of Faerûn"
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Chapter 3: Gods of Faerûn"
+  - "Chapter 3: Gods of Faerûn"
 ---
 # Chapter 3: Gods of Faerûn
 *Source: Forgotten Realms: Heroes of Faerûn, p. 95* 

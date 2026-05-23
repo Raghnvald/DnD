@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Scene 1: Inn Plain Sight"
 tags:
-- ttrpg-cli/compendium/src/5e/lrdt
+  - Quelle/5e/lrdt
 aliases:
-- "Scene 1: Inn Plain Sight"
+  - "Scene 1: Inn Plain Sight"
 ---
 # Scene 1: Inn Plain Sight
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 5* 

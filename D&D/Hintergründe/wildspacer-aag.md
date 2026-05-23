@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Wildspacer
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/aag
+  - Kompendium/Hintergrund
+  - Quelle/5e/aag
 aliases:
-- "Wildspacer"
+  - "Wildspacer"
 ---
 # Wildspacer
 *Source: Astral Adventurer's Guide p. 8*  

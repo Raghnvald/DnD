@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Purphoros
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/knowledge
+  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Purphoros"
+  - "Purphoros"
 ---
 # Purphoros
 *Source: Mythic Odysseys of Theros p. 76* 

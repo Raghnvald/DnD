@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix B: New Magic Items"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-dn
+  - Quelle/5e/aitfr-dn
 aliases:
-- "Appendix B: New Magic Items"
+  - "Appendix B: New Magic Items"
 ---
 # Appendix B: New Magic Items
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 14* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Welcome to Leilon
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Welcome to Leilon"
+  - "Welcome to Leilon"
 ---
 # Welcome to Leilon
 *Source: Essentials Kit: Divine Contention* 

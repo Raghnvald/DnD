@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Household Items
 tags:
-- ttrpg-cli/compendium/src/5e/cabomp
+  - Quelle/5e/cabomp
 aliases:
-- "Household Items"
+  - "Household Items"
 ---
 # Household Items
 *Source: Crochet: A Book of Many Patterns, p. 121* 

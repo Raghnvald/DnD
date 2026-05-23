@@ -1,7 +1,11 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Gedankenschinder-Prophet
+Bezeichnung: Mind Flayer Prophet
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 8
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +13,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Prophet
-Image: aberration/token/mind-flayer-prophet-pabtso.webp
+Image: token/mind-flayer-prophet-pabtso.webp
 ---
 # Mind Flayer Prophet
 *Source: Phandelver and Below: The Shattered Obelisk p. 210*  

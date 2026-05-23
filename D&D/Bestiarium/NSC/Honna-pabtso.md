@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Honna
-Image: NSC/token/honna-pabtso.webp
+Image: token/honna-pabtso.webp
 linter-yaml-title-alias: Honna
 ---
 # Honna

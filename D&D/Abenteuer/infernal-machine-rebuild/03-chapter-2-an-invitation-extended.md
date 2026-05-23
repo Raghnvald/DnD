@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 2: An Invitation Extended"
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Chapter 2: An Invitation Extended"
+  - "Chapter 2: An Invitation Extended"
 ---
 # Chapter 2: An Invitation Extended
 *Source: Infernal Machine Rebuild, p. 9* 

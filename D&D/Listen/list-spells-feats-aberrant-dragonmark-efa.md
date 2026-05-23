@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Aberrant Dragonmark
 tags:
-- ttrpg-cli/spell/list/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/list/feat/aberrant-dragonmark
 aliases:
-- "Spells for Aberrant Dragonmark"
+  - "Spells for Aberrant Dragonmark"
 ---
 # Spells for Aberrant Dragonmark
 

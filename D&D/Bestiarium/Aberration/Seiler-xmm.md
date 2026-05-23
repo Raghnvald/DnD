@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Roper
+Kategorie: Aberration
+Größe: Groß
+HG: 5
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

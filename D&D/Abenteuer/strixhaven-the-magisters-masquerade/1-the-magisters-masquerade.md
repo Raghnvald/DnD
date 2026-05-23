@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "The Magister's Masquerade"
 tags:
-- ttrpg-cli/compendium/src/5e/scc-tmm
+  - Quelle/5e/scc-tmm
 aliases:
-- "The Magister's Masquerade"
+  - "The Magister's Masquerade"
 ---
 # The Magister's Masquerade
 *Source: Strixhaven: The Magister's Masquerade, p. 125* 

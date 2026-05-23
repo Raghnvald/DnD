@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Charm of Air Bubbles
 tags:
-- ttrpg-cli/spell/list/reward/charm-of-air-bubbles
+  - ttrpg-cli/spell/list/reward/charm-of-air-bubbles
 aliases:
-- "Spells for Charm of Air Bubbles"
+  - "Spells for Charm of Air Bubbles"
 ---
 # Spells for Charm of Air Bubbles
 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Adventure Credits
 tags:
-- ttrpg-cli/compendium/src/5e/hbtd
+  - Quelle/5e/hbtd
 aliases:
-- "Adventure Credits"
+  - "Adventure Credits"
 ---
 # Adventure Credits
 *Source: Hold Back The Dead, p. 9* 

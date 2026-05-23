@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Elf (Kaladesh; Vahadar)
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/race/elf/kaladesh-vahadar
+  - Quelle/5e/psk
+  - Rasse/elf/kaladesh-vahadar
 aliases:
-- "Elf (Kaladesh; Vahadar)"
+  - "Elf (Kaladesh; Vahadar)"
 ---
 # Elf (Kaladesh; Vahadar)
 *Source: Plane Shift: Kaladesh p. 21*  
@@ -81,6 +79,5 @@ Elves live in harmony with both nature and technology. They believe that nature 
 ### Vahadar
 
 The Vahadar are elves who dwell in the cities of Kaladesh. They are comfortable with technology, and work as planners, architects, aether-seers, or inventors. Some of them use the techniques of Bishtahar cultivators to grow food on rooftops, towers, and greenways. The Vahadar are generally integrated into the rest of society on Kaladesh, living in cities dominated by the other races (though, as in Ghirapur, many of them live in specific garden-like neighborhoods) and engaging in trade.
-
 
 ![Cultivator's Caravan](3-Mechanics/CLI/races/img/elf2.webp#center)

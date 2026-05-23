@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Abominable Yeti
+image: token/abominable-yeti-xmm.webp
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis

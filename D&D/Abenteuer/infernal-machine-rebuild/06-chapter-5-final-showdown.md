@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 5: Final Showdown"
 tags:
-- ttrpg-cli/compendium/src/5e/imr
+  - Quelle/5e/imr
 aliases:
-- "Chapter 5: Final Showdown"
+  - "Chapter 5: Final Showdown"
 ---
 # Chapter 5: Final Showdown
 *Source: Infernal Machine Rebuild, p. 44* 

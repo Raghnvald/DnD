@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Neogi
+Kategorie: Aberration
+Größe: Winzig
+HG: 3
+status: WIP
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Hügel

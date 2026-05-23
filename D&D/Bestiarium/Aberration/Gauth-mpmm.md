@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gauth
+Kategorie: Aberration (Betrachter)
+Größe: Mittelgroß
+HG: 6
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

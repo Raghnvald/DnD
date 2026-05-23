@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Teremini Nightsedge
+Kategorie: Humanoid (Elf)
+Größe: Mittelgroß
+HG: 12
+Habitat: /
+image: token/teremini-nightsedge-veor.webp
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

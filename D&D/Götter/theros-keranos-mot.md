@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Keranos
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/tempest
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Keranos"
+  - "Keranos"
 ---
 # Keranos
 *Source: Mythic Odysseys of Theros p. 55* 

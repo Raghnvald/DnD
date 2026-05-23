@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Trail of Destruction
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Trail of Destruction"
+  - "Trail of Destruction"
 ---
 # Trail of Destruction
 *Source: Journeys through the Radiant Citadel, p. 106* 

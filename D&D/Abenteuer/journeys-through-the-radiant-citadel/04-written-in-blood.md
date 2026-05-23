@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Written in Blood
 tags:
-- ttrpg-cli/compendium/src/5e/jttrc
+  - Quelle/5e/jttrc
 aliases:
-- "Written in Blood"
+  - "Written in Blood"
 ---
 # Written in Blood
 *Source: Journeys through the Radiant Citadel, p. 34* 

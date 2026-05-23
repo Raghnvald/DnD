@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valendar
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -10,6 +11,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Valendar
+IMAGE: token/valendar-veor.webp
 linter-yaml-title-alias: Valendar
 ---
 # [Valendar](3-Mechanics\CLI\bestiary\npc/valendar-veor.md)

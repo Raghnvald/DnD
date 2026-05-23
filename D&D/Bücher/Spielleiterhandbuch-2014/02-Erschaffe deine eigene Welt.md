@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "Kapitel 1: Erschaffe deine eigene Welt"
+Bezeichnung: "*Source: Dungeon Master's Guide (2014), p. 4* Kapitel 1: Erschaffe deine eigene Welt"
 tags:
   - Quelle/5e/dmg
 ---

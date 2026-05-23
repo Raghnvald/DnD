@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Dwarf (Kaladesh)
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/race/dwarf/kaladesh
+  - Quelle/5e/psk
+  - Rasse/dwarf/kaladesh
 aliases:
-- "Dwarf (Kaladesh)"
+  - "Dwarf (Kaladesh)"
 ---
 # Dwarf (Kaladesh)
 *Source: Plane Shift: Kaladesh p. 19*  
@@ -71,6 +69,5 @@ Among the folk of other races, dwarves have a reputation for being utterly fearl
 Dwarves gravitate to where the work is. Accordingly, many dwarves appreciate the Consulate as an inexhaustible source of work opportunities. For its part, the Consulate values dwarves for their painstaking, perfectionist approach to building and maintenance. As a result, dwarves are employed at every level of the Consulate government, including having representatives among the Enlightened Keepers, the consuls themselves. Dwarf edificers keep the machinery of the cities running smoothly, while dwarf enforcers protect property and help keep the peace. However, it is the potential for making great things, more so than any philosophical leaning, that ties most dwarves to the Consulate.
 
 Dwarves are not typically drawn to politics, but some do take issue with what they see as slapdash construction carried out in the Consulate's foundries. Mass production on the scale of the Consulate's efforts is an affront to the ideals of true artisanship, they argue, and those who are most offended by this insult sometimes align themselves with renegade groups.
-
 
 ![Acrobatic Maneuver](3-Mechanics/CLI/races/img/dwarf2.webp#center)

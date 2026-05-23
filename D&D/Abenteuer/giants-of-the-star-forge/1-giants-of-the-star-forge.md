@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Giants of the Star Forge
 tags:
-- ttrpg-cli/compendium/src/5e/gotsf
+  - Quelle/5e/gotsf
 aliases:
-- "Giants of the Star Forge"
+  - "Giants of the Star Forge"
 ---
 # Giants of the Star Forge
 *Source: Giants of the Star Forge* 

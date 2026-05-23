@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Shalfi Lewin
-Image: NSC/token/shalfi-lewin-pabtso.webp
+Image: token/shalfi-lewin-pabtso.webp
 linter-yaml-title-alias: Shalfi Lewin
 ---
 # Shalfi Lewin

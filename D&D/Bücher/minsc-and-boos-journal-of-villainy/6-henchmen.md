@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Henchmen
 tags:
-- ttrpg-cli/compendium/src/5e/mabjov
+  - Quelle/5e/mabjov
 aliases:
-- "Henchmen"
+  - "Henchmen"
 ---
 # Henchmen
 *Source: Minsc and Boo's Journal of Villainy, p. 108* 

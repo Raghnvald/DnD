@@ -1,13 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Lolth
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/drow
-- ttrpg-cli/domain/trickery
+  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/drow
+  - Quelle/5e/scag
 aliases:
-- "Lolth"
+  - "Lolth"
 ---
 # Lolth
 *Source: Sword Coast Adventurer's Guide p. 23* 

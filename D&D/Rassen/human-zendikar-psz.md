@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Human (Zendikar)
 tags:
-- ttrpg-cli/compendium/src/5e/psz
-- ttrpg-cli/race/human/zendikar
+  - Quelle/5e/psz
+  - Rasse/human/zendikar
 aliases:
-- "Human (Zendikar)"
+  - "Human (Zendikar)"
 ---
 # Human (Zendikar)
 *Source: Plane Shift: Zendikar p. 9*  
@@ -45,7 +43,6 @@ Despite the harshness of life on Zendikar, human civilization flourishes in a fe
 #### The Expeditionary Houses
 
 In Sea Gate, five so-called expeditionary houses launch regular excursions into the wilds for various purposes. Named for the destinations of their first expeditions, they are the Valakut House, the Pelakka Foundation, and the Akoum, Murasa, and Bala Ged Expeditionary Houses. The rivalries among the houses are legendary, and they are known to sabotage each other's expeditions. Each maintains hostels in various settlements, which serve as resources for adventurers and explorers who need to hire guides or purchase supplies.
-
 
 > [!gallery]
 ![Kazandu Blademaster](3-Mechanics/CLI/races/img/human2.webp)

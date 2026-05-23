@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/lr
+  - Quelle/5e/lr
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Locathah Rising* 

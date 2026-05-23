@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Leonin
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/race/leonin
+  - Quelle/5e/mot
+  - Rasse/leonin
 aliases:
-- "Leonin"
+  - "Leonin"
 ---
 # Leonin
 *Source: Mythic Odysseys of Theros p. 20*  
@@ -91,6 +89,5 @@ Along with their personal names, leonin identify themselves by their pride. A me
 - **Female Names.** Aletha, Atagone, Demne, Doxia, Ecate, Eriz, Gragonde, Iadma, Koila, Oramne, Seza, Ziore  
 - **Male Names.** Apto, Athoz, Baragon, Bryguz, Eremoz, Gorioz, Grexes, Oriz, Pyxathor, Teoz, Xemnon, Xior  
 - **Pride Names.** Embereye, Flintclaw, Goldenfield, Ironmane, Starfeller, Sunguides  
-
 
 ![Leonin matrons lead the prides of Oreskos, protecting the plains from interlopers](3-Mechanics/CLI/races/img/leonin-matron.webp#center)

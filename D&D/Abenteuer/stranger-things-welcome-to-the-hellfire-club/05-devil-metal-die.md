@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Devil, Metal, Die!
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Devil, Metal, Die!"
+  - "Devil, Metal, Die!"
 ---
 # Devil, Metal, Die!
 *Source: Stranger Things: Welcome to the Hellfire Club* 

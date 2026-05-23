@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Monsters and NPC Statistics"
 tags:
-- ttrpg-cli/compendium/src/5e/xmts
+  - Quelle/5e/xmts
 aliases:
-- "Appendix A: Monsters and NPC Statistics"
+  - "Appendix A: Monsters and NPC Statistics"
 ---
 # Appendix A: Monsters and NPC Statistics
 *Source: X Marks the Spot, p. 9* 

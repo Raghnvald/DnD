@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Sidekicks
 tags:
-- ttrpg-cli/compendium/src/5e/esk
+  - Quelle/5e/esk
 aliases:
-- "Sidekicks"
+  - "Sidekicks"
 ---
 # Sidekicks
 *Source: Essentials Kit p. 63* 

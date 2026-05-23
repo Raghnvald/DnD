@@ -1,16 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/crcotn
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
+Bezeichnung: Death Embrace
+Kategorie: Aberration
+Größe: Riesig
+HG: 11
+status: WIP
+tags:
+  - Quelle/5e/crcotn
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/aberration
 aliases:
-- "Death Embrace"
+  - Death Embrace
 ---
 # [Death Embrace](3-Mechanics/CLI/bestiary/aberration/death-embrace-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 197*  

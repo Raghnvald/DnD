@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Appendix A: Creatures"
 tags:
-- ttrpg-cli/compendium/src/5e/sdw
+  - Quelle/5e/sdw
 aliases:
-- "Appendix A: Creatures"
+  - "Appendix A: Creatures"
 ---
 # Appendix A: Creatures
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/nrh-coi
+  - Quelle/5e/nrh-coi
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: NERDS Restoring Harmony: Circus of Illusion* 

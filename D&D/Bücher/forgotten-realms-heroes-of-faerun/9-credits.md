@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+  - Quelle/5e/frhof
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Forgotten Realms: Heroes of Faerûn, p. 2* 

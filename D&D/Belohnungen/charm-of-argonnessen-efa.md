@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Charm of Argonnessen
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/efa
 aliases:
-- "Charm of Argonnessen"
+  - "Charm of Argonnessen"
 ---
 # Charm of Argonnessen
 

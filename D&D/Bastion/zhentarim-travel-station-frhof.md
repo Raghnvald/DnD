@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
+Bezeichnung: Zhentarim Travel Station
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Bastion
+  - Quelle/5e/frhof
 aliases:
-- "Zhentarim Travel Station"
+  - "Zhentarim Travel Station"
 ---
 # Zhentarim Travel Station
 *Level 5 Bastion facility*  

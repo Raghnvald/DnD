@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Afterword: Playing with Your Food"
 tags:
-- ttrpg-cli/compendium/src/5e/hffotm
+  - Quelle/5e/hffotm
 aliases:
-- "Afterword: Playing with Your Food"
+  - "Afterword: Playing with Your Food"
 ---
 # Afterword: Playing with Your Food
 *Source: Heroes' Feast Flavors of the Multiverse, p. 208* 

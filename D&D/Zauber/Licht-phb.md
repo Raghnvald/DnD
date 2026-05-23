@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Light
+Bezeichnung: Licht
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
-Schaden:
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, M
+Wirkungsdauer: 1 Stunde
+Angriff: GES
+Schaden: /
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -34,18 +34,18 @@ aliases:
   - Light
 linter-yaml-title-alias: Light
 ---
-# Light
-*cantrip, Evocation*  
+# Licht
+*Zaubertrick der Hervorrufung*  
 
-- **Casting time:** 1 Action
-- **Range:** Touch
-- **Components:** V, M (a firefly or phosphorescent moss)
-- **Duration:** 1 hour
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** Berührung
+- **Komponenten:** V, M (ein Glühwürmchen oder Leuchtmoos)
+- **Wirkungsdauer:** 1 Stunde
 
-You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
+Du berührst einen Gegenstand, der in keiner Ausdehnung größer als 3 m ist. Bis der Zauber endet, strahlt dieser Gegenstand innerhalb von 6 m helles Licht und in einem Radius von weiteren 6 m dämmriges Licht aus. Das Licht kann jede Farbe haben, die du willst. Wenn der Gegenstand mit etwas bedeckt wird, das vollkommen blickdicht ist, wird das Licht blockiert. Der Zauber endet, wenn du ihn erneut wirkst oder als Aktion aufhebst.
 
-If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+Wählst du einen Gegenstand als Ziel aus, den eine feindliche Kreatur trägt oder in der Hand hält, muss die Kreatur einen erfolgreichen Geschicklichkeits-Rettungswurf ablegen, um dem Zauber auszuweichen.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Kleriker (Domäne Licht)](Listen/list-spells-classes-light-domain.md); [Magier](Listen/list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Zauberer](Listen/list-spells-classes-sorcerer.md)
 
-*Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 246. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

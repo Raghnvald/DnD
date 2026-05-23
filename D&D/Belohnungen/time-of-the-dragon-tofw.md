@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Time of the Dragon
 tags:
-- ttrpg-cli/compendium/src/5e/tofw
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/tofw
 aliases:
-- "Time of the Dragon"
+  - "Time of the Dragon"
 ---
 # Time of the Dragon
 *Charm*  

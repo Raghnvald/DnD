@@ -2,6 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Core Spawn Seer
+Kategorie: Aberration
+Größe: Mittelgroß
+HG: 13
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13

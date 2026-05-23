@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Servo Crafting
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/psk
 aliases:
-- "Servo Crafting"
+  - "Servo Crafting"
 ---
 # Servo Crafting
 *Source: Plane Shift: Kaladesh p. 13*  

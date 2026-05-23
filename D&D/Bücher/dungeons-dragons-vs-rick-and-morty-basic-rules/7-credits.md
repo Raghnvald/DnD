@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/rmr
+  - Quelle/5e/rmr
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules* 

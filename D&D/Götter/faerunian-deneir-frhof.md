@@ -1,15 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Deneir
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/deity/faerunian
+  - Kompendium/Götter/faerunian
+  - Quelle/5e/frhof
 aliases:
-- "Deneir"
-- "The First Scribe"
-- "The Lord of All Glyphs and Images"
-- "The Scribe of Oghma"
+  - "Deneir"
+  - "The First Scribe"
+  - "The Lord of All Glyphs and Images"
+  - "The Scribe of Oghma"
 ---
 # Deneir
 *Source: Forgotten Realms: Heroes of Faerûn p. 105* 

@@ -10,7 +10,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Pixie
-Image: Feenwesen/token/Pixie.webp
+Image: token/Pixie.webp
 ---
 # [Pixie](3-Mechanics\CLI\bestiary\fey/pixie.md)
 *Source: Monster Manual p. 253*  

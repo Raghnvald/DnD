@@ -9,7 +9,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Sildar Hallwinter
-Image: NSC/token/sildar-hallwinter-pabtso.webp
+Image: token/sildar-hallwinter-pabtso.webp
 linter-yaml-title-alias: Sildar Hallwinter
 ---
 # Sildar Hallwinter

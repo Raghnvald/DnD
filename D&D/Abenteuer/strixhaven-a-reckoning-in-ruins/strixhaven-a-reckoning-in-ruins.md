@@ -1,8 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-- json5e-index
+Bezeichnung: Index of Strixhaven a Reckoning in Ruins
 ---
 # Index of Strixhaven a Reckoning in Ruins
 

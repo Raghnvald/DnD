@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/gotsf
+  - Quelle/5e/gotsf
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Giants of the Star Forge* 

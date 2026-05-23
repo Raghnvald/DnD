@@ -1,16 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: Carouser
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/abh
+  - Kompendium/Hintergrund
+  - Quelle/5e/abh
 aliases:
-- "Carouser"
+  - "Carouser"
 ---
 # Carouser
 *Source: Astarion's Book of Hungers p. 6*  
-
 
 - **Ability Scores.** Dexterity, Intelligence, Charisma  
 - **Feat.** [Tireless Reveler](3-Mechanics/CLI/feats/tireless-reveler-abh.md)  

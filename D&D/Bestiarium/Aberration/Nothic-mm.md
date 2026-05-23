@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - Unterreich
-image: Aberration/img/Nothic.webp
+image: token/Nothic.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß

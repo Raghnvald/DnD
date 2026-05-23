@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Manifest Charm of Shavarath, the Battleground
 tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/reward/charm
+  - Kompendium/Belohnung/charm
+  - Quelle/5e/efa
 aliases:
-- "Manifest Charm of Shavarath, the Battleground"
+  - "Manifest Charm of Shavarath, the Battleground"
 ---
 # Manifest Charm of Shavarath, the Battleground
 *Charm*  

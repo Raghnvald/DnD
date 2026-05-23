@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Credits
 tags:
-- ttrpg-cli/compendium/src/5e/wtthc
+  - Quelle/5e/wtthc
 aliases:
-- "Credits"
+  - "Credits"
 ---
 # Credits
 *Source: Stranger Things: Welcome to the Hellfire Club* 

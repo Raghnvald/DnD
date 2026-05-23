@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Figaro
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Figaro
+IMAGE: token/figaro-veor.webp
 linter-yaml-title-alias: Figaro
 ---
 # [Figaro](3-Mechanics\CLI\bestiary\npc/figaro-veor.md)

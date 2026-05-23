@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Ending the Adventure
 tags:
-- ttrpg-cli/compendium/src/5e/dc
+  - Quelle/5e/dc
 aliases:
-- "Ending the Adventure"
+  - "Ending the Adventure"
 ---
 # Ending the Adventure
 *Source: Essentials Kit: Divine Contention* 

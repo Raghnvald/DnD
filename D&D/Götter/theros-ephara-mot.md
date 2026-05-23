@@ -1,14 +1,12 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
+Bezeichnung: Ephara
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/light
+  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/theros
+  - Quelle/5e/mot
 aliases:
-- "Ephara"
+  - "Ephara"
 ---
 # Ephara
 *Source: Mythic Odysseys of Theros p. 40* 

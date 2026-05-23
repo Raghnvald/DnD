@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
+Bezeichnung: "Lords' Alliance Vassal"
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+  - Kompendium/Hintergrund
+  - Quelle/5e/frhof
 aliases:
-- "Lords' Alliance Vassal"
+  - "Lords' Alliance Vassal"
 ---
 # Lords' Alliance Vassal
 *Source: Forgotten Realms: Heroes of Faerûn p. 32*  

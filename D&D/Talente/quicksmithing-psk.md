@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Quicksmithing
 tags:
-- ttrpg-cli/compendium/src/5e/psk
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/psk
 aliases:
-- "Quicksmithing"
+  - "Quicksmithing"
 ---
 # Quicksmithing
 *Source: Plane Shift: Kaladesh p. 13*  

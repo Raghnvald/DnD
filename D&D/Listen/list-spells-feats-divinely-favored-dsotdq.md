@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Divinely Favored
 tags:
-- ttrpg-cli/spell/list/feat/divinely-favored
+  - ttrpg-cli/spell/list/feat/divinely-favored
 aliases:
-- "Spells for Divinely Favored"
+  - "Spells for Divinely Favored"
 ---
 # Spells for Divinely Favored
 

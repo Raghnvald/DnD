@@ -2,6 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Amphisbaena
+Kategorie: Monstrosität
+Größe: Mittelgroß
+HG: 1/2
+Habitat:
+  - /
+status: WIP
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

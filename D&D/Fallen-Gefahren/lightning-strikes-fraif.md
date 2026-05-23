@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Lightning Strikes
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
+  - Quelle/5e/fraif
 aliases:
-- "Lightning Strikes"
+  - "Lightning Strikes"
 ---
 # Lightning Strikes
 *Generic Hazard*  

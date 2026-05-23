@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
+Bezeichnung: Hadozee
 tags:
-- ttrpg-cli/compendium/src/5e/aag
-- ttrpg-cli/race/hadozee
+  - Quelle/5e/aag
+  - Rasse/hadozee
 aliases:
-- "Hadozee"
+  - "Hadozee"
 ---
 # Hadozee
 *Source: Astral Adventurer's Guide p. 13*  

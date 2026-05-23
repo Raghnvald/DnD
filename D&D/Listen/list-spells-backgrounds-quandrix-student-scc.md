@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Spells for Quandrix Student
 tags:
-- ttrpg-cli/spell/list/background/quandrix-student
+  - ttrpg-cli/spell/list/background/quandrix-student
 aliases:
-- "Spells for Quandrix Student"
+  - "Spells for Quandrix Student"
 ---
 # Spells for Quandrix Student
 

@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
+Bezeichnung: Fragment of Loathing
 tags:
-- ttrpg-cli/compendium/src/5e/crcotn
-- ttrpg-cli/reward/fragment-of-suffering
+  - Kompendium/Belohnung/fragment-of-suffering
+  - Quelle/5e/crcotn
 aliases:
-- "Fragment of Loathing"
+  - "Fragment of Loathing"
 ---
 # Fragment of Loathing
 *Fragment of Suffering*  

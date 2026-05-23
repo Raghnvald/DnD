@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githzerai Psion
+Kategorie: Aberration (Gith)
+Größe: Mittelgroß
+HG: 12
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo

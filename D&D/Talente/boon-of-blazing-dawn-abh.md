@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Boon of Blazing Dawn
 tags:
-- ttrpg-cli/compendium/src/5e/abh
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/abh
 aliases:
-- "Boon of Blazing Dawn"
+  - "Boon of Blazing Dawn"
 ---
 # Boon of Blazing Dawn
 *Source: Astarion's Book of Hungers p. 11*  

@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Chapter 6: Elixirs & Ales"
 tags:
-- ttrpg-cli/compendium/src/5e/hf
+  - Quelle/5e/hf
 aliases:
-- "Chapter 6: Elixirs & Ales"
+  - "Chapter 6: Elixirs & Ales"
 ---
 # Chapter 6: Elixirs & Ales
 *Source: Heroes' Feast, p. 179* 

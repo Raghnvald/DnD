@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Part 2: The Wizard's Barrow"
 tags:
-- ttrpg-cli/compendium/src/5e/aitfr-isf
+  - Quelle/5e/aitfr-isf
 aliases:
-- "Part 2: The Wizard's Barrow"
+  - "Part 2: The Wizard's Barrow"
 ---
 # Part 2: The Wizard's Barrow
 *Source: Adventures in the Forgotten Realms: In Scarlet Flames, p. 4* 

@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
-image: image/zombie.webp
+image: token/zombie.webp
 status: completed
 tags:
   - Monster/Größe/Mittelgroß
@@ -27,7 +27,7 @@ Von irgendwo in der Dunkelheit ertönt ein gurgelndes Stöhnen. Eine torkelnde G
 
 ## Dunkle Diener
 
-Finstere nekromantische Magie erfüllt die Überreste der Toten und erhebt sie als Zombies, die ohne Furcht oder Zögern dem Willen ihres Schöpfers folgen. Sie bewegen sich mit ruckartige n, ungleichmäßigen Schritten, sind in die schimmligen Gewänder gehüllt, die sie trugen, als sie zur Ruhe gebettet wurden, und stinken nach Verwesung.
+Finstere nekromantische Magie erfüllt die Überreste der Toten und erhebt sie als Zombies, die ohne Furcht oder Zögern dem Willen ihres Schöpfers folgen. Sie bewegen sich mit ruckartigen, ungleichmäßigen Schritten, sind in die schimmligen Gewänder gehüllt, die sie trugen, als sie zur Ruhe gebettet wurden, und stinken nach Verwesung.
 
 $\quad$Die meisten Zombies werden aus humanoiden Überresten erschaffen, doch Fleisch und Knochen jeder ehemals lebenden Kreatur kann mit dem Anschein von Leben erfüllt werden. Nekromantische Magie, normalerweise durch Zaubersprüche, belebt einen Zombie. Einige Zombies erheben sich spontan, wenn dunkle Magie einen Bereich erfüllt. Sobald eine Kreatur in einen Zombie verwandelt wurde, kann sie nur noch mit mächtiger Magie zum Leben erweckt werden, beispielsweise durch einen Auferstehungszauber.
 
@@ -72,21 +72,18 @@ stats:
   - 5
 speed: 6 Meter
 saves:
-  - Wei: 0
+  - Weisheit: 0
 damage_immunities: Gift
 condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
 senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 8
 languages: Versteht die Sprachen, die er im Leben sprach, kann aber nicht sprechen
 cr: 1/4
+environment: Stadt
 traits:
   - name: Untote Ausdauer
     desc: "Wenn die Trefferpunkte des Zombies auf 0 verringert werden, muss er einen `Konstitutionsrettungswurf` gegen `SG 5` + erlittener Schaden ablegen, es sei denn, der Schaden war gleißender Schaden oder von einem kritischen Treffer. Bei einem Erfolg fällt der Zombie stattdessen auf 1 TP."
 actions:
   - name: Hieb
-    desc: "*Nahkampf-Waffenangriff:* +3 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 4 (1d6+1) Wuchtschaden."
+    desc: "*Nahkampf-Waffenangriff:* +3 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 4 (1d6 + 1) Wuchtschaden."
 ```
 ^statblock
-
-## Vorkommen
-
-Stadt

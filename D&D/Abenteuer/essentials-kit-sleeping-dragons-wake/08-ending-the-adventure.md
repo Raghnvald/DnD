@@ -1,11 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: Ending the Adventure
 tags:
-- ttrpg-cli/compendium/src/5e/sdw
+  - Quelle/5e/sdw
 aliases:
-- "Ending the Adventure"
+  - "Ending the Adventure"
 ---
 # Ending the Adventure
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

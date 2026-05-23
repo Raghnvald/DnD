@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
+Bezeichnung: Purple Dragon Commandant
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+  - Kompendium/Talent
+  - Quelle/5e/frhof
 aliases:
-- "Purple Dragon Commandant"
+  - "Purple Dragon Commandant"
 ---
 # Purple Dragon Commandant
 *Source: Forgotten Realms: Heroes of Faerûn p. 40*  

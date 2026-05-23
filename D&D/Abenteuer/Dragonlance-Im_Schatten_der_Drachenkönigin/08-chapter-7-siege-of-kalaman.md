@@ -1,7 +1,7 @@
 ---
 Bezeichnung: "Chapter 7: Siege of Kalaman"
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
+  - Quelle/5e/dsotdq
 aliases:
   - Chapter 7: Siege of Kalaman
 ---

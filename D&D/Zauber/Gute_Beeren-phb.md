@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Goodberry
+Bezeichnung: Gute Beeren
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung

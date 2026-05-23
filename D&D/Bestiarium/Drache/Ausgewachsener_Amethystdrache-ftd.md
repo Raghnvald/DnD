@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 16
 Habitat:
   - /
-image: Drache/token/Adult-Amethyst-Dragon-ftd.webp
+image: token/Adult-Amethyst-Dragon-ftd.webp
 status: WIP
 tags:
   - Monster/Größe/Riesig

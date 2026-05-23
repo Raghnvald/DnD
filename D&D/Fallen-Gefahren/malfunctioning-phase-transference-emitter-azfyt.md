@@ -1,12 +1,10 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
+Bezeichnung: Malfunctioning Phase Transference Emitter
 tags:
-- ttrpg-cli/compendium/src/5e/azfyt
-- ttrpg-cli/hazard/cmpx
+  - Kompendium/Bedrohung/cmpx
+  - Quelle/5e/azfyt
 aliases:
-- "Malfunctioning Phase Transference Emitter"
+  - "Malfunctioning Phase Transference Emitter"
 ---
 # Malfunctioning Phase Transference Emitter
 *Generic Hazard*  
