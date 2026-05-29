@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Searing Smite
+classes:
+  - Cleric (Forge Domain)
+  - Paladin
+  - Ranger
 tags:
   - Klasse/Kleriker/forge-domain
   - Klasse/paladin
@@ -14,13 +19,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Cleric (Forge Domain)
-  - Paladin
-  - Ranger
 aliases:
   - Searing Smite
-linter-yaml-title-alias: Searing Smite
 ---
 # Searing Smite
 *1st-level, Evocation*  

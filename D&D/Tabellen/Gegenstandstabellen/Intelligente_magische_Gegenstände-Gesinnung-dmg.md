@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Intelligente magische Gegenstände; Gesinnung
+linter-yaml-title-alias: Intelligente magische Gegenstände; Gesinnung
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Intelligente magische Gegenstände; Gesinnung
   - Sentient Magic Item Alignment
 ---
 # Intelligente magische Gegenstände; Gesinnung

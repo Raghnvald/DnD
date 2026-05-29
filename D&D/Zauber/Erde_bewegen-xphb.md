@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Move Earth
+linter-yaml-title-alias: Move Earth
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
   - Move Earth
-linter-yaml-title-alias: Move Earth
 ---
 # Move Earth
 *6th-level, Transmutation*  

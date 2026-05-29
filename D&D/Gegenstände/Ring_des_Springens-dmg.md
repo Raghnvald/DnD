@@ -1,18 +1,21 @@
 ---
-Bezeichnung: Ring of Jumping
+Bezeichnung: Ring des Springens
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring des Springens
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Jumping
-linter-yaml-title-alias: Ring of Jumping
+  - Ring des Springens
 ---
-# Ring of Jumping
-*Ring, major, uncommon (requires attunement)*  
+# Ring des Springens
+*Ring, ungewöhnlich (benötigt Einstimmung)*
 
-While wearing this ring, you can cast the [jump](/3-Mechanics/CLI/spells/jump.md) spell from it as a bonus action at will, but can target only yourself when you do so.
+Während du diesen Ring trägst, kannst du damit den Zauber [[Springen-phb|Springen]] als Bonusaktion nach Belieben wirken. Du kannst allerdings nur dich selbst als Ziel wählen.
 
-*Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 178. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

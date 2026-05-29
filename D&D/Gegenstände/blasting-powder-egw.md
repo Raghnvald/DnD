@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Blasting Powder
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Blasting Powder
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Blasting Powder
-linter-yaml-title-alias: Blasting Powder
 ---
 # Blasting Powder
 *Adventuring gear*  

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Skysail
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Skysail
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,7 +14,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Skysail
-linter-yaml-title-alias: Skysail
 ---
 # Skysail
 *Wondrous item, weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), rare (requires attunement)*  

@@ -4,10 +4,12 @@ statblock-link: "#^statblock"
 Bezeichnung: Amnizu
 Kategorie: Unhold (Teufel)
 Größe: Mittelgroß
-HG: "18"
+HG: 18
 Habitat:
   - /
+Image: token/amnizu-mpmm.webp
 status: WIP
+linter-yaml-title-alias: Amnizu
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18

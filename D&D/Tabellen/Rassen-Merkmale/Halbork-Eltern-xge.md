@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Eltern eines Halborks
+linter-yaml-title-alias: Eltern eines Halborks
 tags:
   - Quelle/5e/xge
 aliases:
+  - Eltern eines Halborks
   - Half-Orc Parents
 ---
 # Eltern eines Halborks

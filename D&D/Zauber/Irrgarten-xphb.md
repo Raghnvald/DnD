@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Maze
+linter-yaml-title-alias: Maze
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Wizard
 aliases:
   - Maze
-linter-yaml-title-alias: Maze
 ---
 # Maze
 *8th-level, Conjuration*  

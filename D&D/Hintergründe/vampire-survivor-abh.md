@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Vampire Survivor
+linter-yaml-title-alias: Vampire Survivor
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/abh
 aliases:
   - "Vampire Survivor"
+  - Vampire Survivor
 ---
 # Vampire Survivor
 *Source: Astarion's Book of Hungers p. 7*  

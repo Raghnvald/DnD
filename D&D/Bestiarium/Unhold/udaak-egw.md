@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Udaak
+linter-yaml-title-alias: Udaak
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/16

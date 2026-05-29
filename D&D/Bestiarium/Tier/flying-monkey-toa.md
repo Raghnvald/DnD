@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Monkey
+linter-yaml-title-alias: Flying Monkey
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0

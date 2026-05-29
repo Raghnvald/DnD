@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Borborygmos
+linter-yaml-title-alias: Borborygmos
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/18
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Borborygmos
-linter-yaml-title-alias: Borborygmos
 ---
 # Borborygmos
 *Source: Guildmasters' Guide to Ravnica p. 238*  

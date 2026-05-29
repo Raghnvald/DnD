@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Dried Leech
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Dried Leech
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -13,7 +19,6 @@ aliases:
   - Dried Leech Firearm Bullet
   - Dried Leech Needle
   - Dried Leech Sling Bullet
-linter-yaml-title-alias: Dried Leech
 ---
 # Dried Leech
 *Ammunition, uncommon*  

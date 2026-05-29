@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Gauntlet of Bane
+linter-yaml-title-alias: Black Gauntlet of Bane
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Black Gauntlet of Bane

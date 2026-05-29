@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fernitha
+Image: token/fernitha-veor.webp
 status: WIP
+linter-yaml-title-alias: Fernitha
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Fernitha
-IMAGE: token/fernitha-veor.webp
-linter-yaml-title-alias: Fernitha
 ---
 # [Fernitha](3-Mechanics\CLI\bestiary\npc/fernitha-veor.md)
 *Source: Vecna: Eve of Ruin*  

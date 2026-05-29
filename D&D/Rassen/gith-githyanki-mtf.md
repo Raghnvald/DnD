@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith (Githyanki)
+linter-yaml-title-alias: Gith (Githyanki)
 tags:
   - Quelle/5e/mtf
   - Rasse/gith/githyanki

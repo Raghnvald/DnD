@@ -1,5 +1,10 @@
 ---
 Bezeichnung: "Mordenkainen's Sword"
+linter-yaml-title-alias: "Mordenkainen's Sword"
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Mordenkainen's Sword
-linter-yaml-title-alias: Mordenkainen's Sword
+  - "Mordenkainen's Sword"
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

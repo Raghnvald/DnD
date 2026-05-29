@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Richemulot Adventures
+linter-yaml-title-alias: Richemulot Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

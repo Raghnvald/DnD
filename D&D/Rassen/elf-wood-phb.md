@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Wood)
+linter-yaml-title-alias: Elf (Wood)
 tags:
   - Quelle/5e/phb
   - Rasse/elf/wood

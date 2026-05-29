@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Evoker
+linter-yaml-title-alias: Spells for Evoker
 tags:
   - Zauber/list/subclass/evoker
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vigor of the Hill Giant
+linter-yaml-title-alias: Vigor of the Hill Giant
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

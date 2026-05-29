@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Staff of the Magi
 Kategorie: Zauberstecken
+Kst.: /
+linter-yaml-title-alias: Staff of the Magi
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Staff of the Magi
-linter-yaml-title-alias: Staff of the Magi
 ---
 # Staff of the Magi
 *Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

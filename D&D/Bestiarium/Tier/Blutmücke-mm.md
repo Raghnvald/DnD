@@ -18,6 +18,7 @@ Habitat:
   - Wüste
 image: token/stirge.webp
 status: completed
+linter-yaml-title-alias: Blutmücke
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Berg
@@ -33,6 +34,7 @@ tags:
   - Monster/Typ/Tier
   - Quelle/5e/mm
 aliases:
+  - Blutmücke
   - Stirge
 ---
 # Blutmücke

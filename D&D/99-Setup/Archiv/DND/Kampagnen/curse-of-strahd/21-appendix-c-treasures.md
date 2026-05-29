@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix C: Treasures"
+linter-yaml-title-alias: "Appendix C: Treasures"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Appendix C: Treasures"
   - Appendix C: Treasures
 ---
 # Appendix C: Treasures

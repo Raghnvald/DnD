@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Orb of Time
+linter-yaml-title-alias: Orb of Time
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Orb of Time
-linter-yaml-title-alias: Orb of Time
 ---
 # Orb of Time
 *Wondrous item, common*  

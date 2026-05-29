@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zeus
+linter-yaml-title-alias: Zeus
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/greek

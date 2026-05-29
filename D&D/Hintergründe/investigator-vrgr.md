@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Investigator
+linter-yaml-title-alias: Investigator
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/vrgr

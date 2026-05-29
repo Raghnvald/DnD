@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Armored Saber-Toothed Tiger
+linter-yaml-title-alias: Armored Saber-Toothed Tiger
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

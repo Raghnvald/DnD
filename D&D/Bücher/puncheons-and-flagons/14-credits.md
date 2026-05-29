@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/paf
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Puncheons and Flagons, p. 192* 

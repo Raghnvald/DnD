@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fomorian Encounters
+linter-yaml-title-alias: Fomorian Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

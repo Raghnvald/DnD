@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Weapon of Warning
 Kategorie: Beliebige Waffe
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Weapon of Warning
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -67,7 +72,6 @@ aliases:
   - Weapon of Warning
   - Whip of Warning
   - Yklwa of Warning
-linter-yaml-title-alias: Weapon of Warning
 ---
 # Weapon of Warning
 *Major, uncommon (requires attunement)*  

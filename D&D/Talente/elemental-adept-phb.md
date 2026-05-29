@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Adept
+linter-yaml-title-alias: Elemental Adept
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

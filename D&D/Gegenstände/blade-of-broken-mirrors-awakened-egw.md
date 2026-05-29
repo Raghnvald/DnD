@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blade of Broken Mirrors (Awakened)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Blade of Broken Mirrors (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Blade of Broken Mirrors (Awakened)
-linter-yaml-title-alias: Blade of Broken Mirrors (Awakened)
 ---
 # Blade of Broken Mirrors (Awakened)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), artifact (requires attunement by a humanoid)*  

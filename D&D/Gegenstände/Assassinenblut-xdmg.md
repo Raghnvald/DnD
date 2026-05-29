@@ -1,12 +1,17 @@
 ---
 Bezeichnung: "Assassin's Blood"
+Eigenschaften:
+  - Gift
+Kst.: 150 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: "Assassin's Blood"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
-  - Assassin's Blood
-linter-yaml-title-alias: Assassin's Blood
+  - "Assassin's Blood"
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  

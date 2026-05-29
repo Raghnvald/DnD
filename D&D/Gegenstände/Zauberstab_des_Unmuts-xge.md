@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wand of Scowls
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Scowls
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xge
 aliases:
   - Wand of Scowls
-linter-yaml-title-alias: Wand of Scowls
 ---
 # Wand of Scowls
 *Wand, minor, common*  

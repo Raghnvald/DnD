@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +1 Ammunition
+linter-yaml-title-alias: +1 Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Ausrüstung/ammunition-firearm
@@ -15,7 +16,6 @@ aliases:
   - +1 Firearm Bullet
   - +1 Needle
   - +1 Sling Bullet
-linter-yaml-title-alias: +1 Ammunition
 ---
 # +1 Ammunition
 *Ammunition, uncommon*  

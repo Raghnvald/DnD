@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Curran Corvalin
+linter-yaml-title-alias: Curran Corvalin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Curran Corvalin
-linter-yaml-title-alias: Curran Corvalin
 ---
 # [Curran Corvalin](3-Mechanics\CLI\bestiary\npc/curran-corvalin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

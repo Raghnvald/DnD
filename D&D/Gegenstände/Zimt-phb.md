@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Zimt
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Zimt
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Cinnamon
-linter-yaml-title-alias: Cinnamon
+  - Zimt
 ---
 # Zimt
 *Handelsgut*  

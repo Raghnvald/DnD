@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Camlash
+Image: token/camlash-veor.webp
 status: WIP
+linter-yaml-title-alias: Camlash
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/19
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Camlash
-IMAGE: token/camlash-veor.webp
-linter-yaml-title-alias: Camlash
 ---
 # [Camlash](3-Mechanics\CLI\bestiary\npc/camlash-veor.md)
 *Source: Vecna: Eve of Ruin p. 181*  

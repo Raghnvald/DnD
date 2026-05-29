@@ -9,6 +9,7 @@ Habitat:
   - Hügel
 image: token/Adult-Copper-Dragon.webp
 status: WIP
+linter-yaml-title-alias: Adult Copper Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Hügel
@@ -17,7 +18,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Adult Copper Dragon
-linter-yaml-title-alias: Adult Copper Dragon
 ---
 # Adult Copper Dragon
 *Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

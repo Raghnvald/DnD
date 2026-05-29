@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Butterskull Ranch
+linter-yaml-title-alias: Butterskull Ranch
 tags:
   - Quelle/5e/dip
 aliases:

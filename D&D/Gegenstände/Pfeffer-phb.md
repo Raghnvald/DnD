@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Pepper
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Pepper
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Pepper
-linter-yaml-title-alias: Pepper
 ---
 # Pepper
 *Handelsgut*  

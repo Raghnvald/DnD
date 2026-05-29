@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Charm of the Creeping Hand
+linter-yaml-title-alias: Charm of the Creeping Hand
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/vnotee
 aliases:
   - "Charm of the Creeping Hand"
+  - Charm of the Creeping Hand
 ---
 # Charm of the Creeping Hand
 

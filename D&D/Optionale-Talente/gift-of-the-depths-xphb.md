@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Depths
+linter-yaml-title-alias: Gift of the Depths
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

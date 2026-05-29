@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waterdhavian Noble
+linter-yaml-title-alias: Waterdhavian Noble
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

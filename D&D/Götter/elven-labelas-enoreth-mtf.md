@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Labelas Enoreth
+linter-yaml-title-alias: Labelas Enoreth
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

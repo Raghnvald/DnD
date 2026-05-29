@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Corrin Delmaco
+linter-yaml-title-alias: Corrin Delmaco
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Corrin Delmaco
-linter-yaml-title-alias: Corrin Delmaco
 ---
 # [Corrin Delmaco](3-Mechanics\CLI\bestiary\npc/corrin-delmaco-erlw.md)
 *Source: Eberron: Rising from the Last War p. 271*  

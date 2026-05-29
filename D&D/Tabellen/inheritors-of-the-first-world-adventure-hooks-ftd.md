@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inheritors of the First World Adventure Hooks
+linter-yaml-title-alias: Inheritors of the First World Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

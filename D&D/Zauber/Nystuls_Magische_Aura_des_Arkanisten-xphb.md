@@ -1,5 +1,13 @@
 ---
 Bezeichnung: "Nystul's Magic Aura"
+linter-yaml-title-alias: "Nystul's Magic Aura"
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -10,16 +18,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
-  - Nystul's Magic Aura
-linter-yaml-title-alias: Nystul's Magic Aura
+  - "Nystul's Magic Aura"
 ---
 # Nystul's Magic Aura
 *2nd-level, Illusion*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Memorable Mission
+linter-yaml-title-alias: Memorable Mission
 tags:
   - Quelle/5e/erlw
 aliases:

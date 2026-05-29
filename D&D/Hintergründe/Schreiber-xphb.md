@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scribe
+linter-yaml-title-alias: Scribe
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

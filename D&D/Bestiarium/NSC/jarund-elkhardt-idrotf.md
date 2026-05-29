@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarund Elkhardt
+linter-yaml-title-alias: Jarund Elkhardt
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Jarund Elkhardt
-linter-yaml-title-alias: Jarund Elkhardt
 ---
 # [Jarund Elkhardt](3-Mechanics\CLI\bestiary\npc/jarund-elkhardt-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 305*  

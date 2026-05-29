@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ruined
+linter-yaml-title-alias: Ruined
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bmt

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Modron Tridrone
+linter-yaml-title-alias: Modron Tridrone
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/mechanus

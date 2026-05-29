@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Nightfall Pearl
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Nightfall Pearl
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Nightfall Pearl
-linter-yaml-title-alias: Nightfall Pearl
 ---
 # Nightfall Pearl
 *Wondrous item, legendary (requires attunement)*  

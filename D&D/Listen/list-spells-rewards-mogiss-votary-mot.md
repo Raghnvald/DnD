@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Mogis's Votary"
+linter-yaml-title-alias: "Spells for Mogis's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/mogiss-votary
 aliases:

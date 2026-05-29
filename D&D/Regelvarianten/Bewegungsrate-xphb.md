@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Speed
+linter-yaml-title-alias: Speed
 tags:
   - Quelle/5e/xphb
 aliases:

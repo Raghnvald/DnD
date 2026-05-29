@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Genasi (Air)
+linter-yaml-title-alias: Genasi (Air)
 tags:
   - Quelle/5e/mpmm
   - Rasse/genasi/air

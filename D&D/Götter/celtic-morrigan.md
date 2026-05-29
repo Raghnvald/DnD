@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morrigan
+linter-yaml-title-alias: Morrigan
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/war

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Charm of Instant Tools
+linter-yaml-title-alias: Charm of Instant Tools
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bam
 aliases:
   - "Charm of Instant Tools"
+  - Charm of Instant Tools
 ---
 # Charm of Instant Tools
 

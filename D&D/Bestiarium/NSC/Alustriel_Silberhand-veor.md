@@ -5,18 +5,19 @@ Bezeichnung: Alustriel Silberhand
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 21
-Habitat: /
+Habitat:
+  - /
 image: token/Alustriel-silverhand-veor.webp
 status: WIP
+linter-yaml-title-alias: Alustriel Silberhand
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/wizard
+  - Monster/Typ/Humanoid/Magier
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/veor
 aliases:
-  - Alustriel Silverhand
-linter-yaml-title-alias: Alustriel Silverhand
+  - Alustriel Silberhand
 ---
 # Alustriel Silberhand
 *Quelle: Vecna: Vorabend der Verdammnis S. 241*  

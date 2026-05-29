@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Arcana Domain
+linter-yaml-title-alias: Spells for Arcana Domain
 tags:
   - Zauber/list/subclass/arcana-domain
 aliases:

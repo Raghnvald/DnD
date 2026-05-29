@@ -6,6 +6,15 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Arcane Lock
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -17,17 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Arcane Lock
-linter-yaml-title-alias: Arcane Lock
 ---
 # Arcane Lock
 *2nd-level, Abjuration*  

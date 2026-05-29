@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Lyre
+linter-yaml-title-alias: Lyre
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Lyre
-linter-yaml-title-alias: Lyre
 ---
 # Lyre
 *Instrument*  

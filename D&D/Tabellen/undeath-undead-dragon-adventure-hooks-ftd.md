@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Undeath; Undead Dragon Adventure Hooks
+linter-yaml-title-alias: Undeath; Undead Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

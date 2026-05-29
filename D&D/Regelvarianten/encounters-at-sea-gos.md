@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Encounters at Sea
+linter-yaml-title-alias: Encounters at Sea
 tags:
   - Quelle/5e/gos
 aliases:
   - "Encounters at Sea"
+  - Encounters at Sea
 ---
 # Encounters at Sea
 *Source: Ghosts of Saltmarsh p. 207* 

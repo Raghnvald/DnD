@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gargantuan Rug of Smothering
+linter-yaml-title-alias: Gargantuan Rug of Smothering
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/2

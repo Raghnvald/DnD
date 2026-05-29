@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Bol'bara"
+linter-yaml-title-alias: "Bol'bara"
 tags:
   - Monster/Größe/Klein
   - Monster/HG/3
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Bol'bara"
   - Bol'bara
-linter-yaml-title-alias: "Bol'bara"
 ---
 # [Bol'bara](3-Mechanics\CLI\bestiary\npc/bolbara-egw.md)
 *Source: Explorer's Guide to Wildemount p. 261*  

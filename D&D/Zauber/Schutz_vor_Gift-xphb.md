@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Protection from Poison
+linter-yaml-title-alias: Protection from Poison
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -12,18 +22,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Paladin
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Protection from Poison
-linter-yaml-title-alias: Protection from Poison
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

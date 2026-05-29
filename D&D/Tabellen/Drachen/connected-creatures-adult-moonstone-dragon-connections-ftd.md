@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Moonstone Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Adult Moonstone Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

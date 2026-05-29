@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ludmilla Vilisevic
+linter-yaml-title-alias: Ludmilla Vilisevic
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Ludmilla Vilisevic
-linter-yaml-title-alias: Ludmilla Vilisevic
 ---
 # [Ludmilla Vilisevic](3-Mechanics\CLI\bestiary\npc/ludmilla-vilisevic-cos.md)
 *Source: Curse of Strahd p. 93*  

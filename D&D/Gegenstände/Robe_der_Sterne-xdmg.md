@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Robe of Stars
+linter-yaml-title-alias: Robe of Stars
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Robe of Stars
-linter-yaml-title-alias: Robe of Stars
 ---
 # Robe of Stars
 *Wondrous item, very rare (requires attunement)*  

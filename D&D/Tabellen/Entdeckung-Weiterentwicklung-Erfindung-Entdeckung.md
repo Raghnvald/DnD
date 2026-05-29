@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Entdeckung, Weiterentwicklung, Erfindung; Entdeckung
+linter-yaml-title-alias: Entdeckung, Weiterentwicklung, Erfindung; Entdeckung
 tags:
   - Quelle/5e/dmg
 aliases:
   - Discovery, Expansion, Invention; Discoveries
+  - Entdeckung, Weiterentwicklung, Erfindung; Entdeckung
 ---
 # Entdeckung, Weiterentwicklung, Erfindung; Entdeckung
 *Quellen: Spielleiterhandbuch S. 31* 

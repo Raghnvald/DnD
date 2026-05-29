@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Yuan-ti; Yuan-ti Ideals
+linter-yaml-title-alias: Roleplaying a Yuan-ti; Yuan-ti Ideals
 tags:
   - Quelle/5e/vgm
 aliases:

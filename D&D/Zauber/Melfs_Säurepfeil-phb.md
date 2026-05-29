@@ -1,6 +1,13 @@
 ---
 Bezeichnung: "Melf's Acid Arrow"
 Zaubergrad: 2
+linter-yaml-title-alias: "Melf's Acid Arrow"
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Swamp)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/swamp
@@ -10,15 +17,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Swamp)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
-  - Melf's Acid Arrow
-linter-yaml-title-alias: Melf's Acid Arrow
+  - "Melf's Acid Arrow"
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

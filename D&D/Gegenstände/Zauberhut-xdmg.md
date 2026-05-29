@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hat of Wizardry
+linter-yaml-title-alias: Hat of Wizardry
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Hat of Wizardry
-linter-yaml-title-alias: Hat of Wizardry
 ---
 # Hat of Wizardry
 *Wondrous item, common (requires attunement by a wizard)*  

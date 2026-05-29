@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Sapphire Dragon
+linter-yaml-title-alias: Ancient Sapphire Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/22
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ancient Sapphire Dragon
-linter-yaml-title-alias: Ancient Sapphire Dragon
 ---
 # [Ancient Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 214*  

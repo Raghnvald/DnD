@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Githzerai
+linter-yaml-title-alias: Spells for Githzerai
 tags:
   - Zauber/list/race/githzerai
 aliases:

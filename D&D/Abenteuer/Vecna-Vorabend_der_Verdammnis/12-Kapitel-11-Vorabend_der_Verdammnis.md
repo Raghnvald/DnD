@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 11: Eve of Ruin"
+linter-yaml-title-alias: "Chapter 11: Eve of Ruin"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 11: Eve of Ruin"
   - Chapter 11: Eve of Ruin
 ---
 # Chapter 11: Eve of Ruin

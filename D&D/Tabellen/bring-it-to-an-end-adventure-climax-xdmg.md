@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bring It to an End; Adventure Climax
+linter-yaml-title-alias: Bring It to an End; Adventure Climax
 tags:
   - Quelle/5e/xdmg
 aliases:

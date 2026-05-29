@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kaevja Cynavern
+linter-yaml-title-alias: Kaevja Cynavern
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Kaevja Cynavern
-linter-yaml-title-alias: Kaevja Cynavern
 ---
 # [Kaevja Cynavern](3-Mechanics\CLI\bestiary\npc/kaevja-cynavern-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 158*  

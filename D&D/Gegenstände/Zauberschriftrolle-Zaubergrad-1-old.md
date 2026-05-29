@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 1)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 100 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 1)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (1st Level)
   - Zauberschriftrolle (Zaubergrad 1)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 1)
 ---
 # Zauberschriftrolle (Zaubergrad 1)
 *Schriftrolle, gewöhnlich*  

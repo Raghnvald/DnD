@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horror Characteristics; Horror Character Flaws
+linter-yaml-title-alias: Horror Characteristics; Horror Character Flaws
 tags:
   - Quelle/5e/vrgr
 aliases:

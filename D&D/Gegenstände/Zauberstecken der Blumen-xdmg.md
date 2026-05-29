@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Flowers
+linter-yaml-title-alias: Staff of Flowers
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Flowers
-linter-yaml-title-alias: Staff of Flowers
 ---
 # Staff of Flowers
 *Staff, weapon, common*  

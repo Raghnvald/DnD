@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Carrion Ogre
+linter-yaml-title-alias: Carrion Ogre
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

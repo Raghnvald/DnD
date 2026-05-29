@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Athreos's Votary"
+linter-yaml-title-alias: "Spells for Athreos's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/athreoss-votary
 aliases:

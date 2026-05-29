@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lesser Idols
+linter-yaml-title-alias: Lesser Idols
 tags:
   - Quelle/5e/egw
 aliases:

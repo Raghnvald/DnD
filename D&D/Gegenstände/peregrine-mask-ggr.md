@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Peregrine Mask
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Peregrine Mask
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Peregrine Mask
-linter-yaml-title-alias: Peregrine Mask
 ---
 # Peregrine Mask
 *Wondrous item, very rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Archery
+linter-yaml-title-alias: Archery
 tags:
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-r

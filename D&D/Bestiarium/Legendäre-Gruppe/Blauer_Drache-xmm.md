@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blue Dragon
+linter-yaml-title-alias: Blue Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix: Spirit Board"
+linter-yaml-title-alias: "Appendix: Spirit Board"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Appendix: Spirit Board"
   - Appendix: Spirit Board
 ---
 # Appendix: Spirit Board

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: "Weapon of Throne's Command"
-Kategorie: Beliebige Waffe 
+Kategorie: Beliebige Waffe
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: "Weapon of Throne's Command"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,6 +17,7 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/bmt
 aliases:
+  - "Weapon of Throne's Command"
   - Antimatter Rifle of Throne's Command
   - Automatic Rifle of Throne's Command
   - Battleaxe of Throne's Command
@@ -46,9 +52,7 @@ aliases:
   - Trident of Throne's Command
   - War Pick of Throne's Command
   - Warhammer of Throne's Command
-  - Weapon of Throne's Command
   - Whip of Throne's Command
-linter-yaml-title-alias: Weapon of Throne's Command
 ---
 # Weapon of Throne's Command
 *Very rare (requires attunement)*  

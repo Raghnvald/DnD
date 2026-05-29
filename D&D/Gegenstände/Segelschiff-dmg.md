@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Segelschiff
 Kategorie: Luft- und Wasserfahrzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Segelschiff
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Sailing Ship
+  - Segelschiff
 Bew.: 3 km/h
-linter-yaml-title-alias: Sailing Ship
 ---
 # Segelschiff
 *Schiff, Fahrzeug (Wasser)*  

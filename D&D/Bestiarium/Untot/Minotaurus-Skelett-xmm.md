@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Minotaur Skeleton
+linter-yaml-title-alias: Minotaur Skeleton
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/planar
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Minotaur Skeleton
-linter-yaml-title-alias: Minotaur Skeleton
 ---
 # [Minotaur Skeleton](3-Mechanics\CLI\bestiary\undead/minotaur-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

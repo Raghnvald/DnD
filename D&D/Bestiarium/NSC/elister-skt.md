@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elister
+linter-yaml-title-alias: Elister
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Elister
-linter-yaml-title-alias: Elister
 ---
 # [Elister](3-Mechanics\CLI\bestiary\npc/elister-skt.md)
 *Source: Storm King's Thunder p. 154*  

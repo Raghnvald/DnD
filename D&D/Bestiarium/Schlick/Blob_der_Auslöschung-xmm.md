@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blob of Annihilation
+linter-yaml-title-alias: Blob of Annihilation
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Jedes

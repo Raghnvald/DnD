@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of Spores
+linter-yaml-title-alias: Circle of Spores
 tags:
   - Klasse/Druide/spores
   - Quelle/5e/tce

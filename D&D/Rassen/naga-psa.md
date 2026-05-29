@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Naga
+linter-yaml-title-alias: Naga
 tags:
   - Quelle/5e/psa
   - Rasse/naga
 aliases:
   - "Naga"
+  - Naga
 ---
 # Naga
 *Source: Plane Shift: Amonkhet p. 21*  

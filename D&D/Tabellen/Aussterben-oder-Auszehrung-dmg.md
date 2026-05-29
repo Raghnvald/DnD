@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Aussterben oder Auszehrung
+linter-yaml-title-alias: Aussterben oder Auszehrung
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Aussterben oder Auszehrung
   - Extinction or Depletion
 ---
 # Aussterben oder Auszehrung

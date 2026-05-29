@@ -1,13 +1,19 @@
 ---
 Bezeichnung: Gold (GM)
 Kategorie: Währung
+Eigenschaften:
+  - /
+Kst.: 1 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Gold (GM)
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Gold (GM)
   - Gold (gp)
-linter-yaml-title-alias: Gold (GM)
 ---
 # Gold (GM)
 *Treasure (coinage)*  

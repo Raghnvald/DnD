@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Military Missions
+linter-yaml-title-alias: Military Missions
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -3,8 +3,6 @@ Bezeichnung: Menagerie
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg
-aliases:
-  - Menagerie
 ---
 # Menagerie
 *Level 13 Bastion facility*  

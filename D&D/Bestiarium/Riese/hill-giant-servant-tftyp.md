@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hill Giant Servant
+linter-yaml-title-alias: Hill Giant Servant
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

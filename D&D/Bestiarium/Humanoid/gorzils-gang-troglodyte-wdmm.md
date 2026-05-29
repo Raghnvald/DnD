@@ -2,12 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Gorzil's Gang Troglodyte"
+linter-yaml-title-alias: "Gorzil's Gang Troglodyte"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
   - Monster/Typ/Humanoid/troglodyte
   - Quelle/5e/wdmm
 aliases:
+  - "Gorzil's Gang Troglodyte"
   - Gorzil's Gang Troglodyte
 ---
 # [Gorzil's Gang Troglodyte](3-Mechanics\CLI\bestiary\humanoid/gorzils-gang-troglodyte-wdmm.md)

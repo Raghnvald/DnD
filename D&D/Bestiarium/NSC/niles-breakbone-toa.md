@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Niles Breakbone
+linter-yaml-title-alias: Niles Breakbone
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Niles Breakbone
-linter-yaml-title-alias: Niles Breakbone
 ---
 # [Niles Breakbone](3-Mechanics\CLI\bestiary\npc/niles-breakbone-toa.md)
 *Source: Tomb of Annihilation p. 47*  

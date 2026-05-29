@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant White Moray Eel
+linter-yaml-title-alias: Giant White Moray Eel
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/2

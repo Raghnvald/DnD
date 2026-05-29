@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Schutzhülle gegen Lebendes
 Zaubergrad: 5
+linter-yaml-title-alias: Schutzhülle gegen Lebendes
 tags:
   - Klasse/Druide
   - Quelle/5e/phb
@@ -8,6 +9,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Antilife Shell
+  - Schutzhülle gegen Lebendes
 ---
 # Schutzhülle gegen Lebendes
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

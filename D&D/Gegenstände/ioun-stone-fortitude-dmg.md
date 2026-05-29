@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Fortitude
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Fortitude
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Fortitude
-linter-yaml-title-alias: Ioun Stone, Fortitude
 ---
 # Ioun Stone, Fortitude
 *Wondrous item, major, very rare (requires attunement)*  

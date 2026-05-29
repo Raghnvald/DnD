@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Thieves' Tools"
+linter-yaml-title-alias: "Thieves' Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Thieves' Tools
-linter-yaml-title-alias: Thieves' Tools
+  - "Thieves' Tools"
 ---
 # Thieves' Tools
 *Tool*  

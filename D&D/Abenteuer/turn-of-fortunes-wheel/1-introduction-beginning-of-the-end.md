@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Beginning of the End"
+linter-yaml-title-alias: "Introduction: Beginning of the End"
 tags:
   - Quelle/5e/tofw
 aliases:

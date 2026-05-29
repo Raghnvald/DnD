@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Tables; Githyanki Ideals
+linter-yaml-title-alias: Gith Tables; Githyanki Ideals
 tags:
   - Quelle/5e/mtf
 aliases:

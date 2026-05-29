@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Ravens
+linter-yaml-title-alias: Swarm of Ravens
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Hügel

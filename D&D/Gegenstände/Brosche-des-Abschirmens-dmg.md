@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Brooch of Shielding
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Brooch of Shielding
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Brooch of Shielding
-linter-yaml-title-alias: Brooch of Shielding
 ---
 # Brooch of Shielding
 *Wondrous item, major, uncommon (requires attunement)*  

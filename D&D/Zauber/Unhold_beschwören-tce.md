@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Summon Fiend
 Zaubergrad: 6
+linter-yaml-title-alias: Summon Fiend
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 aliases:
   - Summon Fiend
-linter-yaml-title-alias: Summon Fiend
 ---
 # Summon Fiend
 *6th-level, Conjuration*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bolts (20)
+linter-yaml-title-alias: Bolts (20)
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bolts (20)
-linter-yaml-title-alias: Bolts (20)
 ---
 # Bolts (20)
 *Ammunition*  

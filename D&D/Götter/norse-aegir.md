@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aegir
+linter-yaml-title-alias: Aegir
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/norse

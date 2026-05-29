@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Revenant
+linter-yaml-title-alias: Revenant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Revenant
-linter-yaml-title-alias: Revenant
 ---
 # [Revenant](3-Mechanics\CLI\bestiary\undead/revenant-xmm.md)
 *Source: Monster Manual (2024) p. 259*  

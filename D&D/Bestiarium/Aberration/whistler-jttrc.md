@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 9
 status: WIP
+linter-yaml-title-alias: Whistler
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9

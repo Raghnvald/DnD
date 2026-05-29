@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Yuan-ti Eye Color
+linter-yaml-title-alias: Physical Variations; Yuan-ti Eye Color
 tags:
   - Quelle/5e/vgm
 aliases:

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Ravenloft
+linter-yaml-title-alias: Ravenloft
 tags:
   - Quelle/5e/hffotm
 aliases:
   - "Ravenloft"
+  - Ravenloft
 ---
 # Ravenloft
 *Source: Heroes' Feast Flavors of the Multiverse, p. 123* 

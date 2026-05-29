@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Silence
+linter-yaml-title-alias: Silence
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Fathomless)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,16 +19,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Fathomless)
 aliases:
   - Silence
-linter-yaml-title-alias: Silence
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

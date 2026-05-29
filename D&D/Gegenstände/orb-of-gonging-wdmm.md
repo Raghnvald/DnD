@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Orb of Gonging
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Orb of Gonging
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/wdmm
 aliases:
   - Orb of Gonging
-linter-yaml-title-alias: Orb of Gonging
 ---
 # Orb of Gonging
 *Wondrous item, common*  

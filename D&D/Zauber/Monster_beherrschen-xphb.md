@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Dominate Monster
+linter-yaml-title-alias: Dominate Monster
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Dominate Monster
-linter-yaml-title-alias: Dominate Monster
 ---
 # Dominate Monster
 *8th-level, Enchantment*  

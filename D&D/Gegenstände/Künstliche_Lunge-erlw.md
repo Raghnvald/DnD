@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ventilating Lungs
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ventilating Lungs
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Ventilating Lungs
-linter-yaml-title-alias: Ventilating Lungs
 ---
 # Ventilating Lungs
 *Wondrous item, rare (requires attunement)*  

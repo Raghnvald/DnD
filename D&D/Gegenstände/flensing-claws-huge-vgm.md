@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Flensing Claws (Huge)
+linter-yaml-title-alias: Flensing Claws (Huge)
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/vgm
 aliases:
   - Flensing Claws (Huge)
-linter-yaml-title-alias: Flensing Claws (Huge)
 ---
 # Flensing Claws (Huge)
 

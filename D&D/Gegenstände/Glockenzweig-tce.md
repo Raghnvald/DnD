@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bell Branch
+linter-yaml-title-alias: Bell Branch
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:
   - Bell Branch
-linter-yaml-title-alias: Bell Branch
 ---
 # Bell Branch
 *Wondrous item, rare (requires attunement by a druid or warlock)*  

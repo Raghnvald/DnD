@@ -5,6 +5,7 @@ Bezeichnung: Asharra
 Kategorie: Humanoid (Aarakocra)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Asharra
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Asharra
-linter-yaml-title-alias: Asharra
 ---
 # [Asharra](3-Mechanics\CLI\bestiary\npc/asharra-toa.md)
 *Source: Tomb of Annihilation p. 69*  

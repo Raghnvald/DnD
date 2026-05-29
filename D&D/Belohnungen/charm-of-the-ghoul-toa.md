@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Ghoul
+linter-yaml-title-alias: Charm of the Ghoul
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/toa

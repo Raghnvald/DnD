@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Extreme Heat
+linter-yaml-title-alias: Extreme Heat
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

@@ -8,6 +8,7 @@ HG: /
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Object (Tiny)
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Fälschungsausrüstung
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 15 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Fälschungsausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Forgery Kit
-linter-yaml-title-alias: Forgery Kit
+  - Fälschungsausrüstung
 ---
 # Fälschungsausrüstung
 *Werkzeug*  

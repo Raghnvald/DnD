@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Helm des Sprachenverstehens
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Helm des Sprachenverstehens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Helm des Sprachenverstehens
   - Helm of Comprehending Languages
 ---
 # Helm des Sprachenverstehens

@@ -7,6 +7,13 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Tasha's Fürchterlicher Lachanfall"
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -17,15 +24,9 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
+  - "Tasha's Fürchterlicher Lachanfall"
   - "Tasha's Hideous Laughter"
-linter-yaml-title-alias: "Tasha's Fürchterlicher Lachanfall"
 ---
 # Tasha's Fürchterlicher Lachanfall
 *Verzauberung des 1. Grades*

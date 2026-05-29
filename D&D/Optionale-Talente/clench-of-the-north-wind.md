@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clench of the North Wind
+linter-yaml-title-alias: Clench of the North Wind
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

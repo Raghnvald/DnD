@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Club
+linter-yaml-title-alias: Club
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Club
-linter-yaml-title-alias: Club
 ---
 # Club
 *Weapon*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 15: Werewolf Den"
+linter-yaml-title-alias: "Chapter 15: Werewolf Den"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 15: Werewolf Den"
   - Chapter 15: Werewolf Den
 ---
 # Chapter 15: Werewolf Den

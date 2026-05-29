@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Legionnaire
+linter-yaml-title-alias: Boros Legionnaire
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

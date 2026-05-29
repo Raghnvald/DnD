@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dart
 Kategorie: Einfache Fernkampfwaffe
+linter-yaml-title-alias: Dart
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Dart
-linter-yaml-title-alias: Dart
 ---
 # Dart
 *Weapon*  

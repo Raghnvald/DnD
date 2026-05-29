@@ -6,6 +6,13 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Mental Prison
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -15,15 +22,8 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/6
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Mental Prison
-linter-yaml-title-alias: Mental Prison
 ---
 # Mental Prison
 *6th-level, Illusion*  

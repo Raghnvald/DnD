@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rolling Stone
+linter-yaml-title-alias: Rolling Stone
 tags:
   - Kompendium/Bedrohung/trp
   - Quelle/5e/xdmg

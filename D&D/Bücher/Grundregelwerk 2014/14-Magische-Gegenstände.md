@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Einstimmung
+linter-yaml-title-alias: Einstimmung
 tags: []
+aliases:
+  - Einstimmung
 ---
 Magische Gegenstände sind in den Horten besiegter Monster oder längst verschollenen Schatzkammern zu finden. Diese Gegenstände verleihen Fähigkeiten, die ein Charakter auf andere Art kaum erlangen könnte oder ergänzen die Fähigkeiten ihres Besitzers auf wundersame Weise.
 

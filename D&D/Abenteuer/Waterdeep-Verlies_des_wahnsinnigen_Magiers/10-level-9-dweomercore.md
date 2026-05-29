@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 9: Dweomercore"
+linter-yaml-title-alias: "Level 9: Dweomercore"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 9: Dweomercore"
   - Level 9: Dweomercore
 ---
 # Level 9: Dweomercore

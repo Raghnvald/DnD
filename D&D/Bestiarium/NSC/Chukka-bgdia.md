@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chukka
+linter-yaml-title-alias: Chukka
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Chukka
-linter-yaml-title-alias: Chukka
 ---
 # Chukka
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  

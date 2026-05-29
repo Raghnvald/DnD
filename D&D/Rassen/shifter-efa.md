@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Shifter
+linter-yaml-title-alias: Shifter
 tags:
   - Quelle/5e/efa
   - Rasse/shifter
 aliases:
   - "Shifter"
+  - Shifter
 ---
 # Shifter
 *Source: Eberron: Forge of the Artificer p. 37*  

@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nythalyn Henlifel
+Image: token/nythalyn-henlifel-pabtso.webp
+linter-yaml-title-alias: Nythalyn Henlifel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Nythalyn Henlifel
-Image: token/nythalyn-henlifel-pabtso.webp
-linter-yaml-title-alias: Nythalyn Henlifel
 ---
 # Nythalyn Henlifel
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Level and Lethality; Damage Severity by Level
+linter-yaml-title-alias: Level and Lethality; Damage Severity by Level
 tags:
   - Quelle/5e/xge
 aliases:

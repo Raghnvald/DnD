@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Seriach, the Hell Hound Whisperer
+linter-yaml-title-alias: Dark Gift of Seriach, the Hell Hound Whisperer
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

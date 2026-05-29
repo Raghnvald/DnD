@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The House of Lament
+linter-yaml-title-alias: The House of Lament
 tags:
   - Quelle/5e/hol
 aliases:
   - "The House of Lament"
+  - The House of Lament
 ---
 # The House of Lament
 *Source: Ravenloft: The House of Lament, p. 202* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Akadi
+linter-yaml-title-alias: Akadi
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/faerunian

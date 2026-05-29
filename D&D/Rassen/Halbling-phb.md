@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling
+linter-yaml-title-alias: Halfling
 tags:
   - Quelle/5e/phb
   - Rasse/halfling

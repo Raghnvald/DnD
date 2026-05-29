@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Lightning Bolt
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Mountain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/mountain
@@ -17,16 +25,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Mountain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Lightning Bolt
-linter-yaml-title-alias: Lightning Bolt
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

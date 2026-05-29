@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Tankard of Sobriety
+linter-yaml-title-alias: Tankard of Sobriety
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Tankard of Sobriety
-linter-yaml-title-alias: Tankard of Sobriety
 ---
 # Tankard of Sobriety
 *Wondrous item, common*  

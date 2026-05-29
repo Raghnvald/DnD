@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Magic Jar
+linter-yaml-title-alias: Magic Jar
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Wizard
 aliases:
   - Magic Jar
-linter-yaml-title-alias: Magic Jar
 ---
 # Magic Jar
 *6th-level, Necromancy*  

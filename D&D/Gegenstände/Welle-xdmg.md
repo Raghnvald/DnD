@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wave
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Wave
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wave
-linter-yaml-title-alias: Wave
 ---
 # Wave
 *Weapon ([trident](/3-Mechanics/CLI/items/trident-xphb.md)), artifact (requires attunement)*  

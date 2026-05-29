@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Vedalken
+linter-yaml-title-alias: Vedalken
 tags:
   - Quelle/5e/psk
   - Rasse/vedalken
 aliases:
   - "Vedalken"
+  - Vedalken
 ---
 # Vedalken
 *Source: Plane Shift: Kaladesh p. 23*  

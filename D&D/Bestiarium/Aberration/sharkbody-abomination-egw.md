@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 2
 status: WIP
+linter-yaml-title-alias: Sharkbody Abomination
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

@@ -7,6 +7,15 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: STR
 Schaden: Kontrolle
+linter-yaml-title-alias: Windbö
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -24,17 +33,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Gust
-linter-yaml-title-alias: Gust
+  - Windbö
 ---
 # Windbö
 _Zaubertrick der Verwandlung_

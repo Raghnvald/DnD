@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horn of Blasting
+linter-yaml-title-alias: Horn of Blasting
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Horn of Blasting
-linter-yaml-title-alias: Horn of Blasting
 ---
 # Horn of Blasting
 *Wondrous item, rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: At Sea Encounters
+linter-yaml-title-alias: At Sea Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

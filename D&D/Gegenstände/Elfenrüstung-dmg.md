@@ -1,19 +1,20 @@
 ---
 Bezeichnung: Elfenrüstung
 Rüstung: Mittel
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 10,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Elfenrüstung
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Elven Chain
-linter-yaml-title-alias: Elven Chain
+  - Elfenrüstung
 ---
 # Elfenrüstung
 *Rüstung ([[Kettenhemd-phb|Kettenhemd]]), selten*

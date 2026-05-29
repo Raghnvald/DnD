@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Ring Mail
 Rüstung: Schwer
+linter-yaml-title-alias: Ring Mail
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Ring Mail
-linter-yaml-title-alias: Ring Mail
 ---
 # Ring Mail
 *Heavy armor*  

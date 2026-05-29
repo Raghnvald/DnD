@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eberron Crafting Complications
+linter-yaml-title-alias: Eberron Crafting Complications
 tags:
   - Quelle/5e/erlw
 aliases:

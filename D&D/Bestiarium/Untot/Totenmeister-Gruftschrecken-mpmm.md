@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathlock Wight
+linter-yaml-title-alias: Deathlock Wight
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Deathlock Wight
-linter-yaml-title-alias: Deathlock Wight
 ---
 # [Deathlock Wight](3-Mechanics\CLI\bestiary\undead/deathlock-wight-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Proficiency
+linter-yaml-title-alias: Proficiency
 tags:
   - Quelle/5e/xphb
 aliases:

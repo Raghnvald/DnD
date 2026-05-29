@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fade Away
+linter-yaml-title-alias: Fade Away
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

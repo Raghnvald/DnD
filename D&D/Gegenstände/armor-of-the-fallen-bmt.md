@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of the Fallen
 Rüstung: Mittel oder Schwer
+linter-yaml-title-alias: Armor of the Fallen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -20,7 +21,6 @@ aliases:
   - Scale Mail of the Fallen
   - Spiked Armor of the Fallen
   - Splint Armor of the Fallen
-linter-yaml-title-alias: Armor of the Fallen
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  

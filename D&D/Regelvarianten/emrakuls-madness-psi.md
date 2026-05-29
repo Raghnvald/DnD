@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Emrakul's Madness"
+linter-yaml-title-alias: "Emrakul's Madness"
 tags:
   - Quelle/5e/psi
 aliases:

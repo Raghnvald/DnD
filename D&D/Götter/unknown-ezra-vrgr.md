@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ezra
+linter-yaml-title-alias: Ezra
 tags:
   - Kompendium/Götter/Domäne/unknown
   - Kompendium/Götter/unknown

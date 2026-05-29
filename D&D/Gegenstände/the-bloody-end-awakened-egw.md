@@ -1,6 +1,7 @@
 ---
 Bezeichnung: The Bloody End (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: The Bloody End (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - The Bloody End (Awakened)
-linter-yaml-title-alias: The Bloody End (Awakened)
 ---
 # The Bloody End (Awakened)
 *Weapon ([morningstar](/3-Mechanics/CLI/items/morningstar-xphb.md)), artifact (requires attunement)*  

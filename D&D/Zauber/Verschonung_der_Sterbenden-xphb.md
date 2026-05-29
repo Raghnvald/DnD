@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Spare the Dying
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Cleric (Nature Domain)
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -25,18 +35,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Death Domain)
-  - Cleric (Grave Domain)
-  - Cleric (Nature Domain)
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Spare the Dying
-linter-yaml-title-alias: Spare the Dying
 ---
 # Spare the Dying
 *cantrip, Necromancy*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Longbow
+linter-yaml-title-alias: Longbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Longbow
-linter-yaml-title-alias: Longbow
 ---
 # Longbow
 *Weapon*  

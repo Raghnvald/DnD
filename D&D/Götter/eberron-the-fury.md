@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Fury
+linter-yaml-title-alias: The Fury
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/eberron

@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kaylan Renaudon
+Image: token/kaylan-renaudon-veor.webp
 status: WIP
+linter-yaml-title-alias: Kaylan Renaudon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Kaylan Renaudon
-IMAGE: token/kaylan-renaudon-veor.webp
-linter-yaml-title-alias: Kaylan Renaudon
 ---
 # [Kaylan Renaudon](3-Mechanics\CLI\bestiary\npc/kaylan-renaudon-veor.md)
 *Source: Vecna: Eve of Ruin*  

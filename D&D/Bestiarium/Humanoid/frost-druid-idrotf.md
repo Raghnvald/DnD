@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Druid
+linter-yaml-title-alias: Frost Druid
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Frost Druid

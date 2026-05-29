@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Isis
+linter-yaml-title-alias: Isis
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

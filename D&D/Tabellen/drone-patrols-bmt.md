@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drone Patrols
+linter-yaml-title-alias: Drone Patrols
 tags:
   - Quelle/5e/bmt
 aliases:

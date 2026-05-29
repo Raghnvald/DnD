@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tavern Brawler
+linter-yaml-title-alias: Tavern Brawler
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

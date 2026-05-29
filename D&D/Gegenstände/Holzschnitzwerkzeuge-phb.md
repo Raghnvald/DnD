@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Holzschnitzwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Holzschnitzwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Woodcarver's Tools
-linter-yaml-title-alias: Woodcarver's Tools
+  - Holzschnitzwerkzeuge
 ---
 # Holzschnitzwerkzeuge
 *Handwerkszeug*

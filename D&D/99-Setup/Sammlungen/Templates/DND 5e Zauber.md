@@ -8,6 +8,10 @@ Wirkungsdauer:
 Angriff: 
 Schaden: 
 status: WIP
+linter-yaml-title-alias: Name
+classes:
+  - Barde
+  - Barde (Schule des Wissens)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -16,11 +20,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Original/Aganazzars_Scorcher
   - Zauber/Schule/Hervorrufung
-classes:
-  - Barde
-  - Barde (Schule des Wissens)
-aliases: []
-linter-yaml-title-alias: 
+aliases:
+  - Name
 ---
 # Name
 *Hervorrufung des 2. Grades*

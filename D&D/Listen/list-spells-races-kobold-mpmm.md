@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Kobold
+linter-yaml-title-alias: Spells for Kobold
 tags:
   - Zauber/list/race/kobold
 aliases:

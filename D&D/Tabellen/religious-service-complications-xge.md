@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Religious Service Complications
+linter-yaml-title-alias: Religious Service Complications
 tags:
   - Quelle/5e/xge
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clockwork Bronze Scout
+linter-yaml-title-alias: Clockwork Bronze Scout
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

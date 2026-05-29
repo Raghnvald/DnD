@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Divine Favor
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (War Domain)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/war-domain
@@ -14,13 +19,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (War Domain)
-  - Paladin
 aliases:
   - Divine Favor
-linter-yaml-title-alias: Divine Favor
 ---
 # Divine Favor
 *1st-level, Evocation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Improved Pact Weapon
+linter-yaml-title-alias: Improved Pact Weapon
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

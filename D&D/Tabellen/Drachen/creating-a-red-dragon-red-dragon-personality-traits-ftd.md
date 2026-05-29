@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Red Dragon; Red Dragon Personality Traits
+linter-yaml-title-alias: Creating a Red Dragon; Red Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf (Aquatic Elf Descent)
+linter-yaml-title-alias: Half-Elf (Aquatic Elf Descent)
 tags:
   - Quelle/5e/scag
   - Rasse/half-elf/aquatic-elf-descent

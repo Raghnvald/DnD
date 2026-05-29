@@ -5,6 +5,7 @@ Bezeichnung: Gibbering Mouther
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
+linter-yaml-title-alias: Gibbering Mouther
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

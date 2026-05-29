@@ -2,6 +2,7 @@
 Bezeichnung: Sprachen verstehen
 Zaubergrad: 1
 status: WIP
+linter-yaml-title-alias: Sprachen verstehen
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -13,6 +14,7 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Comprehend Languages
+  - Sprachen verstehen
 ---
 # Sprachen verstehen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Erkenntniszauber.webp#token)

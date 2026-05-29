@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horseshoes of Speed
+linter-yaml-title-alias: Horseshoes of Speed
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - Horseshoes of Speed
-linter-yaml-title-alias: Horseshoes of Speed
 ---
 # Horseshoes of Speed
 *Wondrous item, minor, rare*  

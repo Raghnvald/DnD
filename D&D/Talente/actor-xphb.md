@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Actor
+linter-yaml-title-alias: Actor
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 1: Schemes in Sigil"
+linter-yaml-title-alias: "Part 1: Schemes in Sigil"
 tags:
   - Quelle/5e/tofw
 aliases:

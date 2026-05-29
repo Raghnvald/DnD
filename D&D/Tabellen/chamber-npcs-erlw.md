@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chamber NPCs
+linter-yaml-title-alias: Chamber NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

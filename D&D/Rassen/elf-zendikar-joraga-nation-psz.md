@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Elf (Zendikar; Joraga Nation)
+linter-yaml-title-alias: Elf (Zendikar; Joraga Nation)
 tags:
   - Quelle/5e/psz
   - Rasse/elf/zendikar-joraga-nation
 aliases:
   - "Elf (Zendikar; Joraga Nation)"
+  - Elf (Zendikar; Joraga Nation)
 ---
 # Elf (Zendikar; Joraga Nation)
 *Source: Plane Shift: Zendikar p. 19*  

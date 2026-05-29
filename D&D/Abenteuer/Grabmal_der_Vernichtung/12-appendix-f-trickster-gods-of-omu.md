@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix F: Trickster Gods of Omu"
+linter-yaml-title-alias: "Appendix F: Trickster Gods of Omu"
 tags:
   - Quelle/5e/toa
 aliases:
+  - "Appendix F: Trickster Gods of Omu"
   - Appendix F: Trickster Gods of Omu
 ---
 # Appendix F: Trickster Gods of Omu

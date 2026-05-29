@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Jade
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Jade
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Jade
-linter-yaml-title-alias: Jade
 ---
 # Jade
 *Schatz (Edelstein)*  

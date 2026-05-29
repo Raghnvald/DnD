@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 16
 status: WIP
+linter-yaml-title-alias: Star Spawn Larva Mage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

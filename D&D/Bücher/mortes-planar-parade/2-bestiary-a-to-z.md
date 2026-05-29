@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bestiary A to Z
+linter-yaml-title-alias: Bestiary A to Z
 tags:
   - Quelle/5e/mpp
 aliases:
   - "Bestiary A to Z"
+  - Bestiary A to Z
 ---
 # Bestiary A to Z
 *Source: Morte's Planar Parade, p. 16* 

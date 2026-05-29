@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Jug
+linter-yaml-title-alias: Jug
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Jug
-linter-yaml-title-alias: Jug
 ---
 # Jug
 *Adventuring gear*  

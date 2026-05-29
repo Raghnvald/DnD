@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thunderbeast Skeleton
+linter-yaml-title-alias: Thunderbeast Skeleton
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Thunderbeast Skeleton
-linter-yaml-title-alias: Thunderbeast Skeleton
 ---
 # [Thunderbeast Skeleton](3-Mechanics\CLI\bestiary\undead/thunderbeast-skeleton-skt.md)
 *Source: Storm King's Thunder p. 99*  

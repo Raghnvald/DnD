@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 9
 status: WIP
+linter-yaml-title-alias: Hashalaq Quori
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9

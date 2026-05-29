@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Banner of the Krig Rune
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Banner of the Krig Rune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Banner of the Krig Rune
-linter-yaml-title-alias: Banner of the Krig Rune
 ---
 # Banner of the Krig Rune
 *Wondrous item, rare (requires attunement)*  

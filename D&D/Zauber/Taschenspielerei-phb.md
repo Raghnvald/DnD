@@ -7,6 +7,14 @@ Komponenten: V, G
 Wirkungsdauer: Bis zu 1 Stunde
 Angriff: nichts
 Schaden: Utility
+linter-yaml-title-alias: Taschenspielerei
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -20,16 +28,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Prestidigitation
-linter-yaml-title-alias: Prestidigitation
+  - Taschenspielerei
 ---
 # Taschenspielerei
 _Zaubertrick der Verwandlung_

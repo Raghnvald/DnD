@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Mess Kit
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 2 SM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Mess Kit
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Mess Kit
-linter-yaml-title-alias: Mess Kit
 ---
 # Mess Kit
 *Adventuring gear*  

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Decanter of Endless Water
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Decanter of Endless Water
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Decanter of Endless Water
-linter-yaml-title-alias: Decanter of Endless Water
 ---
 # Decanter of Endless Water
 *Wondrous item, minor, uncommon*  

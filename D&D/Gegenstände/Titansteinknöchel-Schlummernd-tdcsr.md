@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Titanstone Knuckles (Dormant)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Titanstone Knuckles (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Titanstone Knuckles (Dormant)
-linter-yaml-title-alias: Titanstone Knuckles (Dormant)
 ---
 # Titanstone Knuckles (Dormant)
 *Wondrous item, legendary (requires attunement)*  

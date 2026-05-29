@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Theki Root
+Kst.: 3 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Theki Root
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Theki Root
-linter-yaml-title-alias: Theki Root
 ---
 # Theki Root
 *Adventuring gear*  

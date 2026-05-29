@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Sarlona Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Sarlona Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
   - Sarlona Trinket
-linter-yaml-title-alias: Sarlona Trinket
 ---
 # Sarlona Trinket
 *Adventuring gear*  

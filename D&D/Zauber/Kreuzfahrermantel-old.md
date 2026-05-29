@@ -6,6 +6,7 @@ Komponenten: V
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Kreuzfahrermantel
 tags:
   - Klasse/Kleriker
   - Klasse/Paladin
@@ -14,6 +15,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Crusaders Mantle
+  - Kreuzfahrermantel
 ---
 # Kreuzfahrermantel
 _Hervorrufung des 3. Grades_

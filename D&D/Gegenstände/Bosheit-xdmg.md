@@ -1,12 +1,17 @@
 ---
 Bezeichnung: Malice
+Eigenschaften:
+  - Gift
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Malice
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Malice
-linter-yaml-title-alias: Malice
 ---
 # Malice
 *Adventuring gear, poison (inhaled)*  

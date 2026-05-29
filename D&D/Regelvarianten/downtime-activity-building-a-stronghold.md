@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Building a Stronghold"
+linter-yaml-title-alias: "Downtime Activity: Building a Stronghold"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Downtime Activity: Building a Stronghold"
   - Downtime Activity: Building a Stronghold
 ---
 # Downtime Activity: Building a Stronghold

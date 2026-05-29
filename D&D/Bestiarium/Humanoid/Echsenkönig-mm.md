@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizard King
+linter-yaml-title-alias: Lizard King
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

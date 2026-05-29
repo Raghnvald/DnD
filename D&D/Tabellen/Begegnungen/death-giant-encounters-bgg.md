@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Death Giant Encounters
+linter-yaml-title-alias: Death Giant Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

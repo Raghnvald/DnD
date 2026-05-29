@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mighty Servant of Leuk-o
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mighty Servant of Leuk-o
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Mighty Servant of Leuk-o
-linter-yaml-title-alias: Mighty Servant of Leuk-o
 ---
 # Mighty Servant of Leuk-o
 *Wondrous item, artifact (requires attunement)*  

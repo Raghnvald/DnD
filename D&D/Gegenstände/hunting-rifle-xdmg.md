@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hunting Rifle
+linter-yaml-title-alias: Hunting Rifle
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Hunting Rifle
-linter-yaml-title-alias: Hunting Rifle
 ---
 # Hunting Rifle
 *Weapon*  

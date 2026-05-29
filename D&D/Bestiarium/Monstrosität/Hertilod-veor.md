@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hertilod
+Image: token/hertilod-veor.webp
 status: WIP
+linter-yaml-title-alias: Hertilod
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Hertilod
-IMAGE: token/hertilod-veor.webp
 ---
 # [Hertilod](3-Mechanics\CLI\bestiary\monstrosity/hertilod-veor.md)
 *Source: Vecna: Eve of Ruin p. 223*  

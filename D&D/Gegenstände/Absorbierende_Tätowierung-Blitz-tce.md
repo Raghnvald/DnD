@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Blitz-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Blitz-Absorbierende Tätowierung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
-  - Lightning Absorbing Tattoo
-linter-yaml-title-alias: Lightning Absorbing Tattoo
-Status: completed
+  - Blitz-Absorbierende Tätowierung
 ---
 # Blitz-Absorbierende Tätowierung
 *Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*

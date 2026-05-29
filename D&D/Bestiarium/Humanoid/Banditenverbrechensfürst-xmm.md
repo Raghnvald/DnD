@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bandit Crime Lord
+linter-yaml-title-alias: Bandit Crime Lord
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes

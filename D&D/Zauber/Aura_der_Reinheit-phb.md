@@ -7,18 +7,19 @@ Komponenten: V
 Wirkungsdauer: K, <10 Minute
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Aura der Reinheit
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
+  - Aura der Reinheit
   - Aura of Purity
-linter-yaml-title-alias: Aura der Reinheit
 ---
 # Aura der Reinheit
 *Bann des 4. Grades*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dhakaani Fort Adventures
+linter-yaml-title-alias: Dhakaani Fort Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

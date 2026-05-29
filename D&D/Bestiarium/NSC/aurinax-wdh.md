@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aurinax
 status: WIP
+linter-yaml-title-alias: Aurinax
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Aurinax
-linter-yaml-title-alias: Aurinax
 ---
 # [Aurinax](3-Mechanics\CLI\bestiary\npc/aurinax-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 194*  

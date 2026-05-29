@@ -1,7 +1,10 @@
 ---
 Bezeichnung: "Appendix D: Creatures"
+linter-yaml-title-alias: "Appendix D: Creatures"
 tags:
   - Quelle/5e/bgdia
+aliases:
+  - "Appendix D: Creatures"
 ---
 # Appendix D: Creatures
 *Source: Baldur's Gate: Descent Into Avernus, p. 228* 

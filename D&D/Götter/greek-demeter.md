@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demeter
+linter-yaml-title-alias: Demeter
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/greek

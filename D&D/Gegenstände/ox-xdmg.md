@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ox
+linter-yaml-title-alias: Ox
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Ox
-linter-yaml-title-alias: Ox
 ---
 # Ox
 *Trade good*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Charm of Air Bubbles
+linter-yaml-title-alias: Charm of Air Bubbles
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bam
 aliases:
   - "Charm of Air Bubbles"
+  - Charm of Air Bubbles
 ---
 # Charm of Air Bubbles
 

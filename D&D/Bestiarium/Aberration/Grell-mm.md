@@ -8,6 +8,7 @@ Größe: Mittelgroß
 HG: 3
 image: token/Grell.webp
 status: WIP
+linter-yaml-title-alias: Grell
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

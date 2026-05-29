@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyr, Gott der Gerechtigkeit
+linter-yaml-title-alias: Tyr, Gott der Gerechtigkeit
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Krieg
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tyr
+  - Tyr, Gott der Gerechtigkeit
 ---
 # Tyr, Gott der Gerechtigkeit
 _Grimmkiefer, der Verstümmelte Gott, der Gerechte_

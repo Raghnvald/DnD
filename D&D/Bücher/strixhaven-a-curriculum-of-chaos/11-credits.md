@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/scc
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Strixhaven: A Curriculum of Chaos* 

@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Muroosa Balm
+Kst.: 100 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Muroosa Balm
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Muroosa Balm
-linter-yaml-title-alias: Muroosa Balm
 ---
 # Muroosa Balm
 *Adventuring gear*  

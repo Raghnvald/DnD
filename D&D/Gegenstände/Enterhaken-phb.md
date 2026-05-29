@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Enterhaken
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 2,0 kg
+status: WIP
+linter-yaml-title-alias: Enterhaken
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Grappling Hook
-linter-yaml-title-alias: Grappling Hook
+  - Enterhaken
 ---
 # Enterhaken
 *Adventuring gear*  

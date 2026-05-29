@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Sniper
+linter-yaml-title-alias: Spell Sniper
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

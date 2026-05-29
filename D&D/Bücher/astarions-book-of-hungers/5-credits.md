@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/abh
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Astarion's Book of Hungers* 

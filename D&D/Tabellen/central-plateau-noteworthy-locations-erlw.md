@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Central Plateau: Noteworthy Locations"
+linter-yaml-title-alias: "Central Plateau: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Central Plateau: Noteworthy Locations"
   - Central Plateau: Noteworthy Locations
 ---
 # Central Plateau: Noteworthy Locations

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Running the Game
+linter-yaml-title-alias: Running the Game
 tags:
   - Quelle/5e/dmg
 aliases:

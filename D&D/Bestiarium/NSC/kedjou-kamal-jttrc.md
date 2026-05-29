@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kedjou Kamal
+linter-yaml-title-alias: Kedjou Kamal
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Kedjou Kamal
-linter-yaml-title-alias: Kedjou Kamal
 ---
 # [Kedjou Kamal](3-Mechanics\CLI\bestiary\npc/kedjou-kamal-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 96*  

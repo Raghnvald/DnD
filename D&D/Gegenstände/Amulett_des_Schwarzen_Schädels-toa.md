@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Amulett des Schwarzen Schädels
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Amulett des Schwarzen Schädels
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/toa
 aliases:
-  - Amulet of the Black Skull
-linter-yaml-title-alias: Amulet of the Black Skull
+  - Amulett des Schwarzen Schädels
 ---
 # Amulett des Schwarzen Schädels
 *Wondrous item, very rare (requires attunement)*  

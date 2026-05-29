@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trobriand
+linter-yaml-title-alias: Trobriand
 tags:
   - Monster/Größe/Groß
   - Monster/HG/22
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Trobriand
-linter-yaml-title-alias: Trobriand
 ---
 # [Trobriand](3-Mechanics\CLI\bestiary\npc/trobriand-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 294*  

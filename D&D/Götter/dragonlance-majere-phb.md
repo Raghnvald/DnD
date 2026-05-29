@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Majere
+linter-yaml-title-alias: Majere
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order

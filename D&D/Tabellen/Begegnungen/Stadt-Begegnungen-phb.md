@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urban Encounters
+linter-yaml-title-alias: Urban Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

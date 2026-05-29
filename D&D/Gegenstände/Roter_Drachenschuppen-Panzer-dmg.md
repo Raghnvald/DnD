@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Red Dragon Scale Mail
 Rüstung: Mittel
+linter-yaml-title-alias: Red Dragon Scale Mail
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Red Dragon Scale Mail
-linter-yaml-title-alias: Red Dragon Scale Mail
 ---
 # Red Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

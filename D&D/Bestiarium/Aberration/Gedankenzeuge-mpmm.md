@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 5
 status: WIP
+linter-yaml-title-alias: Gedankenzeuge
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -13,6 +14,7 @@ tags:
   - Monster/Typ/Aberration
   - Quelle/5e/mpmm
 aliases:
+  - Gedankenzeuge
   - Mindwitness
 ---
 # Gedankenzeuge

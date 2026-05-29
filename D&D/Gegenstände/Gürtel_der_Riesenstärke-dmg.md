@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Belt of Giant Strength
+linter-yaml-title-alias: Belt of Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/dmg
 aliases:
   - Belt of Giant Strength
-linter-yaml-title-alias: Belt of Giant Strength
 ---
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  

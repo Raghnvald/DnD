@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Standard Languages
+linter-yaml-title-alias: Standard Languages
 tags:
   - Quelle/5e/phb
 aliases:

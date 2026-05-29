@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Preeta Kreepa
+linter-yaml-title-alias: Preeta Kreepa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdmm
 aliases:
   - Preeta Kreepa
-linter-yaml-title-alias: Preeta Kreepa
 ---
 # [Preeta Kreepa](3-Mechanics\CLI\bestiary\npc/preeta-kreepa-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 56*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Curse of Ruin
+linter-yaml-title-alias: Curse of Ruin
 tags:
   - Kompendium/Belohnung/curse
   - Quelle/5e/tdcsr

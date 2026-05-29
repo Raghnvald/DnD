@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Universal Solvent
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Universal Solvent
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Universal Solvent
-linter-yaml-title-alias: Universal Solvent
 ---
 # Universal Solvent
 *Wondrous item, minor, legendary*  

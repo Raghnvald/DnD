@@ -7,6 +7,13 @@ Komponenten: V
 Wirkungsdauer: 1 Runde
 Angriff: Weisheit
 Schaden: kein
+linter-yaml-title-alias: Befehl
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Paladin
+  - Warlock (The Fiend)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -17,15 +24,9 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Paladin
-  - Warlock (The Fiend)
 aliases:
+  - Befehl
   - Command
-linter-yaml-title-alias: Befehl
 ---
 # Befehl
 *Verzauberung des 1. Grades*

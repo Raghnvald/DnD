@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sidekicks
+linter-yaml-title-alias: Sidekicks
 tags:
   - Quelle/5e/tce
 aliases:

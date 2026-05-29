@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Becoming Lost; Wilderness Navigation
+linter-yaml-title-alias: Becoming Lost; Wilderness Navigation
 tags:
   - Quelle/5e/dmg
 aliases:

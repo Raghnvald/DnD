@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Cloud Giants
+linter-yaml-title-alias: Giants by Kind; Cloud Giants
 tags:
   - Quelle/5e/bgg
 aliases:

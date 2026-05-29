@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maegera the Dawn Titan
+linter-yaml-title-alias: Maegera the Dawn Titan
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/23
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Maegera the Dawn Titan
-linter-yaml-title-alias: Maegera the Dawn Titan
 ---
 # [Maegera the Dawn Titan](3-Mechanics\CLI\bestiary\npc/maegera-the-dawn-titan-skt.md)
 *Source: Storm King's Thunder p. 241*  

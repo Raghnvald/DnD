@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Icewind Dale Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Icewind Dale Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
   - Icewind Dale Trinket
-linter-yaml-title-alias: Icewind Dale Trinket
 ---
 # Icewind Dale Trinket
 *Adventuring gear*  

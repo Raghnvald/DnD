@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Suspended Cauldron
+linter-yaml-title-alias: Suspended Cauldron
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon

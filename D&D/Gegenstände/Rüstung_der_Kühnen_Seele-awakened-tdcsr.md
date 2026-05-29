@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of the Valiant Soul (Awakened)
 Rüstung: Mittel
+linter-yaml-title-alias: Armor of the Valiant Soul (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Armor of the Valiant Soul (Awakened)
-linter-yaml-title-alias: Armor of the Valiant Soul (Awakened)
 ---
 # Armor of the Valiant Soul (Awakened)
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), legendary (requires attunement)*  

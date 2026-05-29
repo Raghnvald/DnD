@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Rüstung und Schilde; Rüstungen an- und ablegen
+linter-yaml-title-alias: Rüstung und Schilde; Rüstungen an- und ablegen
 tags:
   - Quelle/5e/phb
 aliases:
   - Getting Into and Out of Armor; Donning and Doffing Armor
+  - Rüstung und Schilde; Rüstungen an- und ablegen
 ---
 # Rüstung und Schilde; Rüstungen an- und ablegen
 *Quelle: SRD / Grundregelwerk*

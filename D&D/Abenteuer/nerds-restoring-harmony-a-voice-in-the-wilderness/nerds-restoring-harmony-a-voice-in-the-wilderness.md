@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Nerds Restoring Harmony a Voice in the Wilderness
+linter-yaml-title-alias: Index of Nerds Restoring Harmony a Voice in the Wilderness
+aliases:
+  - Index of Nerds Restoring Harmony a Voice in the Wilderness
 ---
 # Index of Nerds Restoring Harmony a Voice in the Wilderness
 

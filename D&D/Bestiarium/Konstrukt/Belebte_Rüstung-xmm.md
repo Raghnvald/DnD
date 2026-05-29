@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Armor
+linter-yaml-title-alias: Animated Armor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ioun
+linter-yaml-title-alias: Ioun
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/knowledge

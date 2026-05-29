@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Delver
+linter-yaml-title-alias: Dungeon Delver
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

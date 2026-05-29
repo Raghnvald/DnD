@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cairnwight
+linter-yaml-title-alias: Cairnwight
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Cairnwight
-linter-yaml-title-alias: Cairnwight
 ---
 # [Cairnwight](3-Mechanics\CLI\bestiary\undead/cairnwight-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 122*  

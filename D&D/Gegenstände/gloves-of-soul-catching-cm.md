@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gloves of Soul Catching
+linter-yaml-title-alias: Gloves of Soul Catching
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/cm
 aliases:
   - Gloves of Soul Catching
-linter-yaml-title-alias: Gloves of Soul Catching
 ---
 # Gloves of Soul Catching
 *Wondrous item, legendary (requires attunement)*  

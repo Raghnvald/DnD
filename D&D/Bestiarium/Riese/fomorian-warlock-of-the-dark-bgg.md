@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fomorian Warlock of the Dark
+linter-yaml-title-alias: Fomorian Warlock of the Dark
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/12

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Riesig
 HG: 9
 status: WIP
+linter-yaml-title-alias: Corrupted Giant Shark
 tags:
   - Quelle/5e/crcotn
   - ttrpg-cli/monster/cr/9

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Imbued Wood (Risian Pine)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Imbued Wood (Risian Pine)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +19,6 @@ aliases:
   - Risian Pine Rod
   - Risian Pine Staff
   - Risian Pine Wand
-linter-yaml-title-alias: Imbued Wood (Risian Pine)
 ---
 # Imbued Wood (Risian Pine)
 *Wondrous item, common (requires attunement)*  

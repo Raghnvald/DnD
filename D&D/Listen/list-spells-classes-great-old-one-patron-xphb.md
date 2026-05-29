@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Great Old One Patron
+linter-yaml-title-alias: Spells for Great Old One Patron
 tags:
   - Zauber/list/subclass/great-old-one-patron
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Riding Horse
+linter-yaml-title-alias: Riding Horse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Riding Horse
-linter-yaml-title-alias: Riding Horse
 ---
 # Riding Horse
 *Mount*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dullahan
+linter-yaml-title-alias: Dullahan
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Dullahan
-linter-yaml-title-alias: Dullahan
 ---
 # [Dullahan](3-Mechanics\CLI\bestiary\undead/dullahan-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 233*  

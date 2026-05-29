@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventures in the Carnival; Carnival Adventures
+linter-yaml-title-alias: Adventures in the Carnival; Carnival Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

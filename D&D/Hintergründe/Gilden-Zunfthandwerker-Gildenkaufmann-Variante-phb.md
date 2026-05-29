@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)
+linter-yaml-title-alias: Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
+  - Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)
   - Guild Artisan (Guild Merchant) (Variant)
 ---
 # Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)

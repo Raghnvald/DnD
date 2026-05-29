@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Helm
+linter-yaml-title-alias: Helm
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

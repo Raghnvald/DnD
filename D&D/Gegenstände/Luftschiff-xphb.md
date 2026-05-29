@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Airship
+linter-yaml-title-alias: Airship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Airship
-linter-yaml-title-alias: Airship
 ---
 # Airship
 *Airship, vehicle (air)*  

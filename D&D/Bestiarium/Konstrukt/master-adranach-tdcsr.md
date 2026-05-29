@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master Adranach
+linter-yaml-title-alias: Master Adranach
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/21

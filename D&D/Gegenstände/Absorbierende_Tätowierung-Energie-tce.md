@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Energie-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Energie-Absorbierende Tätowierung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
-  - Force Absorbing Tattoo
-linter-yaml-title-alias: Force Absorbing Tattoo
-Status: completed
+  - Energie-Absorbierende Tätowierung
 ---
 # Energie-Absorbierende Tätowierung
 *Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*

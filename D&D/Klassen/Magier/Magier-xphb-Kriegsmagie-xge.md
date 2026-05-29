@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Magic
+linter-yaml-title-alias: War Magic
 tags:
   - Klasse/Magier/war
   - Quelle/5e/xge

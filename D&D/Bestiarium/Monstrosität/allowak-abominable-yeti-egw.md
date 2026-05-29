@@ -7,7 +7,9 @@ Größe: Riesig
 HG: "9"
 Habitat:
   - /
+Image: token/allowak-abominable-yeti-egw.webp
 status: WIP
+linter-yaml-title-alias: Allowak Abominable Yeti
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9

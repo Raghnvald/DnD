@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Centipedes
+linter-yaml-title-alias: Swarm of Centipedes
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

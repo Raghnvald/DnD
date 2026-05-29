@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Initiate of High Sorcery
+linter-yaml-title-alias: Initiate of High Sorcery
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
   - "Initiate of High Sorcery"
+  - Initiate of High Sorcery
 ---
 # Initiate of High Sorcery
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

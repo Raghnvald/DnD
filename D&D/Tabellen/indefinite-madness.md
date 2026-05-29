@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Indefinite Madness
+linter-yaml-title-alias: Indefinite Madness
 tags:
   - Quelle/5e/dmg
 aliases:

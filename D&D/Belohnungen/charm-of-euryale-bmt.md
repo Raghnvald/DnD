@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Euryale
+linter-yaml-title-alias: Charm of Euryale
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

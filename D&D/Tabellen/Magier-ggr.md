@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wizard
+linter-yaml-title-alias: Wizard
 tags:
   - Quelle/5e/ggr
 aliases:

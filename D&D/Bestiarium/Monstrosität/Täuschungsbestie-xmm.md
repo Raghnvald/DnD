@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Displacer Beast
+linter-yaml-title-alias: Displacer Beast
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wald

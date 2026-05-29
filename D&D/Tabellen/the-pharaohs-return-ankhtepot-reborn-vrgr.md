@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "The Pharaoh's Return; Ankhtepot Reborn"
+linter-yaml-title-alias: "The Pharaoh's Return; Ankhtepot Reborn"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "The Pharaoh's Return; Ankhtepot Reborn"
   - The Pharaoh's Return; Ankhtepot Reborn
 ---
 # The Pharaoh's Return; Ankhtepot Reborn

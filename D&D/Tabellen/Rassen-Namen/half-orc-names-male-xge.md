@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Orc Names – Male
+linter-yaml-title-alias: Half-Orc Names – Male
 tags:
   - Quelle/5e/xge
 aliases:

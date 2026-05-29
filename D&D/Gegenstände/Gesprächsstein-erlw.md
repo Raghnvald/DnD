@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Speaking Stone
+linter-yaml-title-alias: Speaking Stone
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/erlw
 aliases:
   - Speaking Stone
-linter-yaml-title-alias: Speaking Stone
 ---
 # Speaking Stone
 *Wondrous item, very rare*  

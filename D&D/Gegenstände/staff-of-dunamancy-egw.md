@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Staff of Dunamancy
+Eigenschaften:
+  - erfordert Einstimmung durch einen Magier
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Staff of Dunamancy
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +13,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Staff of Dunamancy
-linter-yaml-title-alias: Staff of Dunamancy
 ---
 # Staff of Dunamancy
 *Staff, weapon, very rare (requires attunement by a wizard)*  

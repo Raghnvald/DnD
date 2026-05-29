@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Abjuration
+linter-yaml-title-alias: School of Abjuration
 tags:
   - Klasse/Magier/abjuration
   - Quelle/5e/phb

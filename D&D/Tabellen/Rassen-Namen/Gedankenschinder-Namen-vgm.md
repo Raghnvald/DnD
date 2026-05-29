@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Flayer Names
+linter-yaml-title-alias: Mind Flayer Names
 tags:
   - Quelle/5e/vgm
 aliases:

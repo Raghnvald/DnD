@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Dragon Queen's Will"
+linter-yaml-title-alias: "Dragon Queen's Will"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dsotdq

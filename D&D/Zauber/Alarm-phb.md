@@ -8,6 +8,13 @@ Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: n/v
 status: WIP
+linter-yaml-title-alias: Alarm
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -21,15 +28,8 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Alarm
-linter-yaml-title-alias: Alarm
 ---
 # Alarm
 *Bann des 1. Grades (Ritual)*  

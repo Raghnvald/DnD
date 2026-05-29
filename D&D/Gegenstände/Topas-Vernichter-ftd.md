@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Topaz Annihilator
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Topaz Annihilator
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Topaz Annihilator
-linter-yaml-title-alias: Topaz Annihilator
 ---
 # Topaz Annihilator
 *Ranged weapon, legendary (requires attunement)*  

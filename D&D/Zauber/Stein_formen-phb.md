@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Stone Shape
 Zaubergrad: 4
+linter-yaml-title-alias: Stone Shape
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Druid (Circle of the Land, Mountain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Druid (Circle of the Land, Mountain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Stone Shape
-linter-yaml-title-alias: Stone Shape
 ---
 # Stone Shape
 *4th-level, Transmutation*  

@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Butcher's Bib"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Butcher's Bib"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
-  - Butcher's Bib
-linter-yaml-title-alias: Butcher's Bib
+  - "Butcher's Bib"
 ---
 # Butcher's Bib
 *Wondrous item, rare (requires attunement)*  

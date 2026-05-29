@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Icespire Hold
+linter-yaml-title-alias: Icespire Hold
 tags:
   - Quelle/5e/dip
 aliases:

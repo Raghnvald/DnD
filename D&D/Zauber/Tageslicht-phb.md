@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Daylight
 Zaubergrad: 3
+linter-yaml-title-alias: Daylight
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Light Domain)
+  - Druid
+  - Druid (Circle of the Land, Grassland)
+  - Paladin
+  - Ranger
+  - Sorcerer
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,18 +24,8 @@ tags:
   - Rasse/aasimar
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Light Domain)
-  - Druid
-  - Druid (Circle of the Land, Grassland)
-  - Paladin
-  - Ranger
-  - Sorcerer
 aliases:
   - Daylight
-linter-yaml-title-alias: Daylight
 ---
 # Daylight
 *3rd-level, Evocation*  

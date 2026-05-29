@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Spelljammer Academy
+linter-yaml-title-alias: Index of Spelljammer Academy
+aliases:
+  - Index of Spelljammer Academy
 ---
 # Index of Spelljammer Academy
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Bloody Might
+linter-yaml-title-alias: Blessing of Bloody Might
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/bmt

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "K'Tulah"
+linter-yaml-title-alias: "K'Tulah"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "K'Tulah"
   - K'Tulah
-linter-yaml-title-alias: "K'Tulah"
 ---
 # [K'Tulah](3-Mechanics\CLI\bestiary\npc/ktulah-cm.md)
 *Source: Candlekeep Mysteries p. 64*  

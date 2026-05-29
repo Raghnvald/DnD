@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Erzwungenes Duell
+linter-yaml-title-alias: Erzwungenes Duell
 tags:
   - Klasse/Paladin
   - Quelle/5e/phb
@@ -7,7 +8,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Compelled Duel
-linter-yaml-title-alias: Erzwungenes Duell
+  - Erzwungenes Duell
 ---
 # Erzwungenes Duell
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Blademaster
+linter-yaml-title-alias: Sahuagin Blademaster
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

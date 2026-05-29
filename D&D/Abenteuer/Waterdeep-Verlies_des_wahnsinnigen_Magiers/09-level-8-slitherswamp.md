@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 8: Slitherswamp"
+linter-yaml-title-alias: "Level 8: Slitherswamp"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 8: Slitherswamp"
   - Level 8: Slitherswamp
 ---
 # Level 8: Slitherswamp

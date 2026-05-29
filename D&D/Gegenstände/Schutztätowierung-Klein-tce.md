@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Barrier Tattoo (Small)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Barrier Tattoo (Small)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Barrier Tattoo (Small)
-linter-yaml-title-alias: Barrier Tattoo (Small)
 ---
 # Barrier Tattoo (Small)
 *Wondrous item (tattoo), uncommon (requires attunement)*  

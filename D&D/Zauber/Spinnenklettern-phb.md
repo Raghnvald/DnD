@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Spider Climb
 Zaubergrad: 2
+linter-yaml-title-alias: Spider Climb
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Forest)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/forest
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Forest)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Spider Climb
-linter-yaml-title-alias: Spider Climb
 ---
 # Spider Climb
 *2nd-level, Transmutation*  

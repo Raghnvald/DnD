@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Arrow-Catching Shield
 Rüstung: Schild
+linter-yaml-title-alias: Arrow-Catching Shield
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Arrow-Catching Shield
-linter-yaml-title-alias: Arrow-Catching Shield
 ---
 # Arrow-Catching Shield
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten (erfordert Einstimmung)*

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wand of Pyrotechnics
+linter-yaml-title-alias: Wand of Pyrotechnics
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg
 aliases:
   - Wand of Pyrotechnics
-linter-yaml-title-alias: Wand of Pyrotechnics
 ---
 # Wand of Pyrotechnics
 *Wand, common*  

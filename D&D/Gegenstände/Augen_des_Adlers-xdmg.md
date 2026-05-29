@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Eyes of the Eagle
+linter-yaml-title-alias: Eyes of the Eagle
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Eyes of the Eagle
-linter-yaml-title-alias: Eyes of the Eagle
 ---
 # Eyes of the Eagle
 *Wondrous item, uncommon*  

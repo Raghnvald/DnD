@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Pot of Awakening
+linter-yaml-title-alias: Pot of Awakening
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Pot of Awakening
-linter-yaml-title-alias: Pot of Awakening
 ---
 # Pot of Awakening
 *Wondrous item, common*  

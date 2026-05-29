@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Mass Cure Wounds
 Zaubergrad: 5
+linter-yaml-title-alias: Mass Cure Wounds
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Druid
 aliases:
   - Mass Cure Wounds
-linter-yaml-title-alias: Mass Cure Wounds
 ---
 # Mass Cure Wounds
 *5th-level, Evocation*  

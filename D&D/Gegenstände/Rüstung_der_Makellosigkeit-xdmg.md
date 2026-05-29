@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Gleaming
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Gleaming
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -22,7 +23,6 @@ aliases:
   - Scale Mail of Gleaming
   - Splint Armor of Gleaming
   - Studded Leather Armor of Gleaming
-linter-yaml-title-alias: Armor of Gleaming
 ---
 # Armor of Gleaming
 *Common*  

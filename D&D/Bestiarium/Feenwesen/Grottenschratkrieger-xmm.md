@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bugbear Warrior
+linter-yaml-title-alias: Bugbear Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/feywild

@@ -8,6 +8,7 @@ HG: 3
 Habitat:
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Spectator
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

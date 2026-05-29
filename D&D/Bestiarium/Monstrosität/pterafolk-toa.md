@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pterafolk
+linter-yaml-title-alias: Pterafolk
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1

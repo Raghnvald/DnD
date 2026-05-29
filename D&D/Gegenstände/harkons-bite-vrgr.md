@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Harkon's Bite"
+linter-yaml-title-alias: "Harkon's Bite"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/vrgr
 aliases:
-  - Harkon's Bite
-linter-yaml-title-alias: Harkon's Bite
+  - "Harkon's Bite"
 ---
 # Harkon's Bite
 *Wondrous item, cursed item, uncommon (requires attunement)*  

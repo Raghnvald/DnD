@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shortsword
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Shortsword
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Shortsword
-linter-yaml-title-alias: Shortsword
 ---
 # Shortsword
 *Weapon*  

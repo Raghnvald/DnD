@@ -5,6 +5,7 @@ Bezeichnung: Ashdra
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ashdra
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Ashdra
-linter-yaml-title-alias: Ashdra
 ---
 # [Ashdra](3-Mechanics\CLI\bestiary\npc/ashdra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Living Ship
+linter-yaml-title-alias: Living Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Living Ship"
+  - Living Ship
 ---
 # Living Ship
 *Source: Astral Adventurer's Guide p. 36*  

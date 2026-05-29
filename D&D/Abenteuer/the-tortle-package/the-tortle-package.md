@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of The Tortle Package
+linter-yaml-title-alias: Index of The Tortle Package
+aliases:
+  - Index of The Tortle Package
 ---
 # Index of The Tortle Package
 

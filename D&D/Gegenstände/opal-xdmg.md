@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Opal
+linter-yaml-title-alias: Opal
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Opal
-linter-yaml-title-alias: Opal
 ---
 # Opal
 *Treasure (gemstone)*  

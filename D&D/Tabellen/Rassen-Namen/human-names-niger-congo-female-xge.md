@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Niger-Congo, Female
+linter-yaml-title-alias: Human Names – Niger-Congo, Female
 tags:
   - Quelle/5e/xge
 aliases:

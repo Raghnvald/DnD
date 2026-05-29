@@ -1,5 +1,10 @@
 ---
 Bezeichnung: "Yolande's Regal Presence"
+linter-yaml-title-alias: "Yolande's Regal Presence"
+classes:
+  - Bard
+  - Paladin (Oath of Glory)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Paladin (Oath of Glory)
-  - Wizard
 aliases:
   - "Yolande's Regal Presence"
-linter-yaml-title-alias: "Yolande's Regal Presence"
 ---
 # Yolande's Regal Presence
 *5th-level, Enchantment*  

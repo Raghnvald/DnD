@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selling a Magic Item; Magic Item Offer
+linter-yaml-title-alias: Selling a Magic Item; Magic Item Offer
 tags:
   - Quelle/5e/xge
 aliases:

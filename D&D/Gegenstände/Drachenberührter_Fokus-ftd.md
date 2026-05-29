@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Dragon-Touched Focus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Dragon-Touched Focus
-linter-yaml-title-alias: Dragon-Touched Focus
 ---
 # Dragon-Touched Focus
 *Wondrous item (requires attunement by a spellcaster)*  

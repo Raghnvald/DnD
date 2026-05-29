@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Segen des Schutzes
+linter-yaml-title-alias: Segen des Schutzes
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/dmg
 aliases:
   - Blessing of Protection
+  - Segen des Schutzes
 ---
 # Segen des Schutzes
 

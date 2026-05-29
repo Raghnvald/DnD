@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Uthgardt Tribe Member
+linter-yaml-title-alias: Uthgardt Tribe Member
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

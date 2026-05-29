@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Move Earth
 Zaubergrad: 6
+linter-yaml-title-alias: Move Earth
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
   - Move Earth
-linter-yaml-title-alias: Move Earth
 ---
 # Move Earth
 *6th-level, Transmutation*  

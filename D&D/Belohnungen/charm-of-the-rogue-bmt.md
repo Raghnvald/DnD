@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Rogue
+linter-yaml-title-alias: Charm of the Rogue
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

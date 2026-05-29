@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Ravnica's Calendar"
+linter-yaml-title-alias: "Ravnica's Calendar"
 tags:
   - Quelle/5e/ggr
 aliases:
+  - "Ravnica's Calendar"
   - Ravnica's Calendar
 ---
 # Ravnica's Calendar

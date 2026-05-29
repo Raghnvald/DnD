@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Dragon Treasures; Deep Dragon Art Objects
+linter-yaml-title-alias: Deep Dragon Treasures; Deep Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

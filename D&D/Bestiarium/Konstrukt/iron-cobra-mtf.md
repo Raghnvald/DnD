@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iron Cobra
+linter-yaml-title-alias: Iron Cobra
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

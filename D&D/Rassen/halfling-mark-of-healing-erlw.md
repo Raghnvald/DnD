@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Mark of Healing)
+linter-yaml-title-alias: Halfling (Mark of Healing)
 tags:
   - Quelle/5e/erlw
   - Rasse/halfling/mark-of-healing

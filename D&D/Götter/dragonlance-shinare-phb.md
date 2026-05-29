@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shinare
+linter-yaml-title-alias: Shinare
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

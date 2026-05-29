@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magical Effect
+linter-yaml-title-alias: Magical Effect
 tags:
   - Quelle/5e/xphb
 aliases:

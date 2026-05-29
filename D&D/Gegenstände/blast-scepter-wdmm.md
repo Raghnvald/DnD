@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blast Scepter
 Kategorie: Zepter
+linter-yaml-title-alias: Blast Scepter
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Blast Scepter
-linter-yaml-title-alias: Blast Scepter
 ---
 # Blast Scepter
 *Rod, very rare (requires attunement)*  

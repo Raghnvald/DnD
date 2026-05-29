@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Domain
+linter-yaml-title-alias: War Domain
 tags:
   - Klasse/Kleriker/war
   - Kompendium/Götter/Domäne/war

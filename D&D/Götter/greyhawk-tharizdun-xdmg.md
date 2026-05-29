@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tharizdun
+linter-yaml-title-alias: Tharizdun
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

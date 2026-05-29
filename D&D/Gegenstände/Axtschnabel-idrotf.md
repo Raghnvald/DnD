@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Axe Beak
 Kategorie: Reit- und Lastentier
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Axe Beak
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Axe Beak
 Bew.: 15 m
-linter-yaml-title-alias: Axe Beak
 Traglast: 420 Pfd.
 ---
 # Axe Beak

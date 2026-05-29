@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Athreos's Disciple"
+linter-yaml-title-alias: "Athreos's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

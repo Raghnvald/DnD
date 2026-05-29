@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Circlet of Wisdom
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Circlet of Wisdom
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/tdcsr
 aliases:
   - Circlet of Wisdom
-linter-yaml-title-alias: Circlet of Wisdom
 ---
 # Circlet of Wisdom
 *Wondrous item*  

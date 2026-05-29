@@ -6,6 +6,7 @@ Kategorie: Aberration (Gestaltwandler)
 Größe: Klein
 HG: 2
 status: WIP
+linter-yaml-title-alias: Gingwatzim
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2

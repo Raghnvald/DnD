@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sharda
+linter-yaml-title-alias: Sharda
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Sharda
-linter-yaml-title-alias: Sharda
 ---
 # [Sharda](3-Mechanics\CLI\bestiary\npc/sharda-skt.md)
 *Source: Storm King's Thunder p. 103*  

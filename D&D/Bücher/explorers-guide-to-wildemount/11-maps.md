@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maps
+linter-yaml-title-alias: Maps
 tags:
   - Quelle/5e/egw
 aliases:

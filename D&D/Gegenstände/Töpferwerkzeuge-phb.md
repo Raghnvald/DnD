@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Töpferwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 1,5 kg
+status: WIP
+linter-yaml-title-alias: Töpferwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Potter's Tools
-linter-yaml-title-alias: Potter's Tools
+  - Töpferwerkzeuge
 ---
 # Töpferwerkzeuge
 *Handwerkszeug*

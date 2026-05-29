@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Hellfire)
+linter-yaml-title-alias: Tiefling (Hellfire)
 tags:
   - Quelle/5e/scag
   - Rasse/tiefling/hellfire

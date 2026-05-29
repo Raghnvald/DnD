@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Improvised Weapons
+linter-yaml-title-alias: Improvised Weapons
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beshaba
+linter-yaml-title-alias: Beshaba
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Beshaba"
   - "Lady Doom"
   - "The Maiden of Misfortune"
+  - Beshaba
 ---
 # Beshaba
 *Source: Forgotten Realms: Heroes of Faerûn p. 103* 

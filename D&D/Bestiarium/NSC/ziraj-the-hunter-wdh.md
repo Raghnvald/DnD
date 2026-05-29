@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ziraj the Hunter
+linter-yaml-title-alias: Ziraj the Hunter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Ziraj the Hunter
-linter-yaml-title-alias: Ziraj the Hunter
 ---
 # [Ziraj the Hunter](3-Mechanics\CLI\bestiary\npc/ziraj-the-hunter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 201*  

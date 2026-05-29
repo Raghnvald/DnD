@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Energy Bow
+linter-yaml-title-alias: Energy Bow
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +13,6 @@ aliases:
   - Energy Bow
   - Energy Longbow
   - Energy Shortbow
-linter-yaml-title-alias: Energy Bow
 ---
 # Energy Bow
 *Very rare (requires attunement)*  

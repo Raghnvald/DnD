@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crawling Claw
+linter-yaml-title-alias: Crawling Claw
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Jedes
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Crawling Claw
-linter-yaml-title-alias: Crawling Claw
 ---
 # [Crawling Claw](3-Mechanics\CLI\bestiary\undead/crawling-claw-xmm.md)
 *Source: Monster Manual (2024) p. 83*  

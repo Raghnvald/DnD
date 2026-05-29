@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Fly
+linter-yaml-title-alias: Fly
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Draconic Sorcery)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -14,19 +25,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/ride-the-wind
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Draconic Sorcery)
-  - Warlock
-  - Wizard
 aliases:
   - Fly
-linter-yaml-title-alias: Fly
 ---
 # Fly
 *3rd-level, Transmutation*  

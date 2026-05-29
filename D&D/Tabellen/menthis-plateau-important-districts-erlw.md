@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Menthis Plateau: Important Districts"
+linter-yaml-title-alias: "Menthis Plateau: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Menthis Plateau: Important Districts"
   - Menthis Plateau: Important Districts
 ---
 # Menthis Plateau: Important Districts

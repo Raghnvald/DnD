@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tarsellis Meunniduin
+linter-yaml-title-alias: Tarsellis Meunniduin
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

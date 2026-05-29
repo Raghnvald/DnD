@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Damage Roll
+linter-yaml-title-alias: Damage Roll
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,5 +1,14 @@
 ---
 Bezeichnung: True Seeing
+linter-yaml-title-alias: True Seeing
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -11,17 +20,8 @@ tags:
   - Subklasse/diviner
   - Zauber/Grad/6
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - True Seeing
-linter-yaml-title-alias: True Seeing
 ---
 # True Seeing
 *6th-level, Divination*  

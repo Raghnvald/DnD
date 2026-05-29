@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Ghost's History"
+linter-yaml-title-alias: "Ghost's History"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Ghost's History"
   - Ghost's History
 ---
 # Ghost's History

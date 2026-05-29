@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sargonnas
+linter-yaml-title-alias: Sargonnas
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/dragonlance

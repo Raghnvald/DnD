@@ -1,6 +1,18 @@
 ---
 Bezeichnung: Stoneskin
 Zaubergrad: 4
+linter-yaml-title-alias: Stoneskin
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of the Land, Mountain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -16,20 +28,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/eternal-mountain-defense
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (War Domain)
-  - Druid
-  - Druid (Circle of the Land, Mountain)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Ancients)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Stoneskin
-linter-yaml-title-alias: Stoneskin
 ---
 # Stoneskin
 *4th-level, Abjuration*  

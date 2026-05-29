@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stormgirdle
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stormgirdle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Stormgirdle
-linter-yaml-title-alias: Stormgirdle
 ---
 # Stormgirdle
 *Wondrous item, legendary (requires attunement)*  

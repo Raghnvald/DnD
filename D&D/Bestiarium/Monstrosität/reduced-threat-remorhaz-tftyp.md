@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Remorhaz
+linter-yaml-title-alias: Reduced-Threat Remorhaz
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11

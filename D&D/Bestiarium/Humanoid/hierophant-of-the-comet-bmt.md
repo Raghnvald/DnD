@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hierophant of the Comet
+linter-yaml-title-alias: Hierophant of the Comet
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
-  - Monster/Typ/Humanoid/warlock
+  - Monster/Typ/Humanoid/Hexenmeister
   - Quelle/5e/bmt
 aliases:
   - Hierophant of the Comet

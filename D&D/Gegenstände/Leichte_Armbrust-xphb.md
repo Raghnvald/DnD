@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Light Crossbow
+linter-yaml-title-alias: Light Crossbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Light Crossbow
-linter-yaml-title-alias: Light Crossbow
 ---
 # Light Crossbow
 *Weapon*  

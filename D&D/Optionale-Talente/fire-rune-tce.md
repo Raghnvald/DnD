@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire Rune
+linter-yaml-title-alias: Fire Rune
 tags:
   - Kompendium/Optionales/rn
   - Quelle/5e/tce

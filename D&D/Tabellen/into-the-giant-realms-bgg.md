@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Into the Giant Realms
+linter-yaml-title-alias: Into the Giant Realms
 tags:
   - Quelle/5e/bgg
 aliases:

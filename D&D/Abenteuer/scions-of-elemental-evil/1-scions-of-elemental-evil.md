@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Scions of Elemental Evil
+linter-yaml-title-alias: Scions of Elemental Evil
 tags:
   - Quelle/5e/scoee
 aliases:
   - "Scions of Elemental Evil"
+  - Scions of Elemental Evil
 ---
 # Scions of Elemental Evil
 *Source: Scions of Elemental Evil* 

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Cartographer's Tools"
+linter-yaml-title-alias: "Cartographer's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Cartographer's Tools
-linter-yaml-title-alias: Cartographer's Tools
+  - "Cartographer's Tools"
 ---
 # Cartographer's Tools
 *Artisan's tools*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Vitality
+linter-yaml-title-alias: Potion of Vitality
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Vitality
-linter-yaml-title-alias: Potion of Vitality
 ---
 # Potion of Vitality
 *Potion, very rare*  

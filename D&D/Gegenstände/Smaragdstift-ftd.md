@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Emerald Pen
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Emerald Pen
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/ftd
 aliases:
   - Emerald Pen
-linter-yaml-title-alias: Emerald Pen
 ---
 # Emerald Pen
 *Wondrous item, uncommon*  

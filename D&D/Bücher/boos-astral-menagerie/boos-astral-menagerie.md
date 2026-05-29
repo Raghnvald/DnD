@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Boos Astral Menagerie
+linter-yaml-title-alias: Index of Boos Astral Menagerie
+aliases:
+  - Index of Boos Astral Menagerie
 ---
 # Index of Boos Astral Menagerie
 

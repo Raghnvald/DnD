@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Magische Geschosse
 status: WIP
+linter-yaml-title-alias: Magische Geschosse
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -9,7 +10,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Magic Missile
-linter-yaml-title-alias: Magische Geschosse
+  - Magische Geschosse
 ---
 # Magische Geschosse
 _Hervorrufung des 1. Grades_

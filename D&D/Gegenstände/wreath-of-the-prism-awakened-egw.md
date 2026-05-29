@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wreath of the Prism (Awakened)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wreath of the Prism (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Wreath of the Prism (Awakened)
-linter-yaml-title-alias: Wreath of the Prism (Awakened)
 ---
 # Wreath of the Prism (Awakened)
 *Wondrous item, legendary (requires attunement)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Agony (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Agony (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Agony (Exalted)
-linter-yaml-title-alias: Agony (Exalted)
 ---
 # Agony (Exalted)
 *Weapon ([flail](/3-Mechanics/CLI/items/flail-xphb.md)), legendary (requires attunement by a creature of non-good alignment)*  

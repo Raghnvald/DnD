@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll
+linter-yaml-title-alias: Gnoll
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

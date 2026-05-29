@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riesenskelett
+linter-yaml-title-alias: Riesenskelett
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7
   - Monster/Typ/Untote
   - Quelle/5e/tftyp
 aliases:
-  - Giant Skeleton
-linter-yaml-title-alias: Giant Skeleton
+  - Riesenskelett
 ---
 # Riesenskelett
 *Source: Tales from the Yawning Portal p. 236*  

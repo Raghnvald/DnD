@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Perfume of Bewitching
+linter-yaml-title-alias: Perfume of Bewitching
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Perfume of Bewitching
-linter-yaml-title-alias: Perfume of Bewitching
 ---
 # Perfume of Bewitching
 *Wondrous item, common*  

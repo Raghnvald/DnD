@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Ghostwise)
+linter-yaml-title-alias: Halfling (Ghostwise)
 tags:
   - Quelle/5e/scag
   - Rasse/halfling/ghostwise

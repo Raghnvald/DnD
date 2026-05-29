@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Pact of the Tome
+linter-yaml-title-alias: Spells for Pact of the Tome
 tags:
   - Zauber/list/optfeature/pact-of-the-tome
 aliases:

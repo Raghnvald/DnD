@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Helmed Horror Detention Drone
+linter-yaml-title-alias: Helmed Horror Detention Drone
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Yog the Invincible
+linter-yaml-title-alias: Dark Gift of Yog the Invincible
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

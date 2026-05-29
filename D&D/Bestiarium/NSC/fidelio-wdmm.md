@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fidelio
+linter-yaml-title-alias: Fidelio
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Fidelio
-linter-yaml-title-alias: Fidelio
 ---
 # [Fidelio](3-Mechanics\CLI\bestiary\npc/fidelio-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 197*  

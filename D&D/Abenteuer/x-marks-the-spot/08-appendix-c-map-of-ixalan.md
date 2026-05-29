@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Map of Ixalan"
+linter-yaml-title-alias: "Appendix C: Map of Ixalan"
 tags:
   - Quelle/5e/xmts
 aliases:

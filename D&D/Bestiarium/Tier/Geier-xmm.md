@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vulture
+linter-yaml-title-alias: Vulture
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

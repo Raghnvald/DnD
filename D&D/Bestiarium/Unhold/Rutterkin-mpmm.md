@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rutterkin
+linter-yaml-title-alias: Rutterkin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

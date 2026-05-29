@@ -7,6 +7,10 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Tag
 Angriff: n/v
 Schaden: Kontrolle
+linter-yaml-title-alias: Zutritt verwehren
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -14,12 +18,9 @@ tags:
   - Zauber/Grad/6
   - Zauber/Ritual
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Forbiddance
-linter-yaml-title-alias: Zutritt verwehren
+  - Zutritt verwehren
 ---
 # Zutritt verwehren
 _Bann des 6. Grades_

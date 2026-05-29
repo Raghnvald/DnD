@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Minute
 Angriff: nichts
 Schaden: Utility
+linter-yaml-title-alias: Tanzende Lichter
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -20,15 +27,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Dancing Lights
-linter-yaml-title-alias: Dancing Lights
+  - Tanzende Lichter
 ---
 # Tanzende Lichter
 _Zaubertrick der Hervorrufung_

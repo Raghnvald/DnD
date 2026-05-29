@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells
+linter-yaml-title-alias: Spells
 tags:
   - Quelle/5e/bmt
 aliases:

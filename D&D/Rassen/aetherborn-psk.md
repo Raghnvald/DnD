@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Aetherborn
+linter-yaml-title-alias: Aetherborn
 tags:
   - Quelle/5e/psk
   - Rasse/aetherborn
 aliases:
   - "Aetherborn"
+  - Aetherborn
 ---
 # Aetherborn
 *Source: Plane Shift: Kaladesh p. 17*  

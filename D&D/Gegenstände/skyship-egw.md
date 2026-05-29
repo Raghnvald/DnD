@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Skyship
+Kst.: 100.000 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Skyship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Skyship
-linter-yaml-title-alias: Skyship
 ---
 # Skyship
 *Airship, vehicle (air)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oracs the Enduring
+linter-yaml-title-alias: Oracs the Enduring
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/21
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Oracs the Enduring
-linter-yaml-title-alias: Oracs the Enduring
 ---
 # [Oracs the Enduring](3-Mechanics\CLI\bestiary\npc/oracs-the-enduring-egw.md)
 *Source: Explorer's Guide to Wildemount p. 154*  

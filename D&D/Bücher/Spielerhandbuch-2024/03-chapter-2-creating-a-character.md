@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Creating a Character"
+linter-yaml-title-alias: "Chapter 2: Creating a Character"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Chapter 2: Creating a Character"
   - Chapter 2: Creating a Character
 ---
 # Chapter 2: Creating a Character

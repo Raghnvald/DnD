@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Nylea's Devotee"
+linter-yaml-title-alias: "Spells for Nylea's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/nyleas-devotee
 aliases:

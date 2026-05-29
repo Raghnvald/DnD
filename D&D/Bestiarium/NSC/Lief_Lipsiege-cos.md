@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lief Lipsiege
+linter-yaml-title-alias: Lief Lipsiege
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Lief Lipsiege
-linter-yaml-title-alias: Lief Lipsiege
 ---
 # Lief Lipsiege
 *Source: Curse of Strahd p. 62*  

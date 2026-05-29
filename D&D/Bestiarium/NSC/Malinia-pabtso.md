@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Malinia
+Image: token/malinia-pabtso.webp
+linter-yaml-title-alias: Malinia
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Malinia
-Image: token/malinia-pabtso.webp
-linter-yaml-title-alias: Malinia
 ---
 # Malinia
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Succubus
+linter-yaml-title-alias: Succubus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/lower

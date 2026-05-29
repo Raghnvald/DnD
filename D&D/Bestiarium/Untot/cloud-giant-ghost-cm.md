@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cloud Giant Ghost
+linter-yaml-title-alias: Cloud Giant Ghost
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Cloud Giant Ghost
-linter-yaml-title-alias: Cloud Giant Ghost
 ---
 # [Cloud Giant Ghost](3-Mechanics\CLI\bestiary\undead/cloud-giant-ghost-cm.md)
 *Source: Candlekeep Mysteries p. 146*  

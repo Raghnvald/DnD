@@ -1,5 +1,14 @@
 ---
 Bezeichnung: "Melf's Acid Arrow"
+linter-yaml-title-alias: "Melf's Acid Arrow"
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,17 +20,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Melf's Acid Arrow
-linter-yaml-title-alias: Melf's Acid Arrow
+  - "Melf's Acid Arrow"
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

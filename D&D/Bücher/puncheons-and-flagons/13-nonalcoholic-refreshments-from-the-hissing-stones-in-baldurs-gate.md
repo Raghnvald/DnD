@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Nonalcoholic Refreshments from The Hissing Stones in Baldur's Gate"
+linter-yaml-title-alias: "Nonalcoholic Refreshments from The Hissing Stones in Baldur's Gate"
 tags:
   - Quelle/5e/paf
 aliases:

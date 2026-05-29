@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kristallkugel (Legendäre Version)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kristallkugel (Legendäre Version)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Kristallkugel (Legendäre Version)
-linter-yaml-title-alias: Kristallkugel (Legendäre Version)
 ---
 # Kristallkugel (Legendäre Version)
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung)*  

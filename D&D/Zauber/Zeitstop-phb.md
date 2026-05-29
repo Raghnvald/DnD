@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Time Stop
 Zaubergrad: 9
+linter-yaml-title-alias: Time Stop
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Time Stop
-linter-yaml-title-alias: Time Stop
 ---
 # Time Stop
 *9th-level, Transmutation*  

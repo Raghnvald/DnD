@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection
+linter-yaml-title-alias: Protection
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

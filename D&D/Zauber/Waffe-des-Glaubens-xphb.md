@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Spiritual Weapon
+linter-yaml-title-alias: Spiritual Weapon
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (War Domain)
+  - Paladin (Oath of Conquest)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -10,16 +18,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (War Domain)
-  - Paladin (Oath of Conquest)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Spiritual Weapon
-linter-yaml-title-alias: Spiritual Weapon
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  

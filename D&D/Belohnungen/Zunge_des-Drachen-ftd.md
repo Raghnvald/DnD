@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tongue of the Dragon
+linter-yaml-title-alias: Tongue of the Dragon
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

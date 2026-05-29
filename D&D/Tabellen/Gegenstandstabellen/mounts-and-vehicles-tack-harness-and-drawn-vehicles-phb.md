@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
+linter-yaml-title-alias: Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
 tags:
   - Quelle/5e/phb
 aliases:

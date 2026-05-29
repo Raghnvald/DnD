@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe des Uneingeschränkten
+linter-yaml-title-alias: Gabe des Uneingeschränkten
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of the Unfettered
+  - Gabe des Uneingeschränkten
 ---
 # Gabe des Uneingeschränkten
 

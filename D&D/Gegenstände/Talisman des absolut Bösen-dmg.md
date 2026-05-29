@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Talisman of Ultimate Evil
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Talisman of Ultimate Evil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Talisman of Ultimate Evil
-linter-yaml-title-alias: Talisman of Ultimate Evil
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  

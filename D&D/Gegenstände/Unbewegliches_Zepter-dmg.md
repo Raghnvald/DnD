@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Immovable Rod
 Kategorie: Zepter
+linter-yaml-title-alias: Immovable Rod
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - Immovable Rod
-linter-yaml-title-alias: Immovable Rod
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

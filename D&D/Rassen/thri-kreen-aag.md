@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Thri-kreen
+linter-yaml-title-alias: Thri-kreen
 tags:
   - Quelle/5e/aag
   - Rasse/thri-kreen
 aliases:
   - "Thri-kreen"
+  - Thri-kreen
 ---
 # Thri-kreen
 *Source: Astral Adventurer's Guide p. 15*  

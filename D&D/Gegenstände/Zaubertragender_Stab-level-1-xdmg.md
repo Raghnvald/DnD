@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Staff (Level 1)
+linter-yaml-title-alias: Enspelled Staff (Level 1)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Staff (Level 1)
-linter-yaml-title-alias: Enspelled Staff (Level 1)
 ---
 # Enspelled Staff (Level 1)
 *Staff, weapon, uncommon (requires attunement by a Spellcaster)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Arch Heart
+linter-yaml-title-alias: The Arch Heart
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/light

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Blauer Quartz
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Blauer Quartz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Blue Quartz
-linter-yaml-title-alias: Blue Quartz
+  - Blauer Quartz
 ---
 # Blauer Quartz
 *Schatz (Edelstein)*  

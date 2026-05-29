@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Red Abishai
+Kategorie: Unhold
+image: token/red-abishai-mpmm.webp
+linter-yaml-title-alias: Red Abishai
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

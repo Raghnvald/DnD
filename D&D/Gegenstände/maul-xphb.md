@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Maul
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Maul
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Maul
-linter-yaml-title-alias: Maul
 ---
 # Maul
 *Weapon*  

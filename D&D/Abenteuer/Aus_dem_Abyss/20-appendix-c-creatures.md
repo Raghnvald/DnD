@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Creatures"
+linter-yaml-title-alias: "Appendix C: Creatures"
 tags:
   - Quelle/5e/oota
 aliases:

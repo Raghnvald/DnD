@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Geburtsort
+linter-yaml-title-alias: Geburtsort
 tags:
   - Quelle/5e/xge
 aliases:
   - Birthplace
+  - Geburtsort
 ---
 # Geburtsort
 *Quellen: Xanathars Ratgeber für Alles S. 62* 

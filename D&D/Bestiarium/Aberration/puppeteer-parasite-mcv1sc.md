@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Winzig
 HG: 3
 status: WIP
+linter-yaml-title-alias: Puppeteer Parasite
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/3

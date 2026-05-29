@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Mire the Mind
+linter-yaml-title-alias: Spells for Mire the Mind
 tags:
   - Zauber/list/optfeature/mire-the-mind
 aliases:

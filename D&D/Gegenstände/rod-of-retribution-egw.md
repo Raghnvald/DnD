@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of Retribution
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of Retribution
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Rod of Retribution
-linter-yaml-title-alias: Rod of Retribution
 ---
 # Rod of Retribution
 *Rod, uncommon (requires attunement)*  

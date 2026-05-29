@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 9: The Betrayer Revealed"
+linter-yaml-title-alias: "Chapter 9: The Betrayer Revealed"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 9: The Betrayer Revealed"
   - Chapter 9: The Betrayer Revealed
 ---
 # Chapter 9: The Betrayer Revealed

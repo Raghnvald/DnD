@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elliach
+linter-yaml-title-alias: Elliach
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Elliach
-linter-yaml-title-alias: Elliach
 ---
 # Elliach
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  

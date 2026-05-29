@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Card Sharp's Deck"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Card Sharp's Deck"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
-  - Card Sharp's Deck
-linter-yaml-title-alias: Card Sharp's Deck
+  - "Card Sharp's Deck"
 ---
 # Card Sharp's Deck
 *Wondrous item, uncommon*  

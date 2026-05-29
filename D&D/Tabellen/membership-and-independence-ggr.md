@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Membership and Independence
+linter-yaml-title-alias: Membership and Independence
 tags:
   - Quelle/5e/ggr
 aliases:

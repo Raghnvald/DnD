@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr (Awakened)
 Rüstung: Schwer
+linter-yaml-title-alias: Plate of the Dawnmartyr (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Plate of the Dawnmartyr (Awakened)
-linter-yaml-title-alias: Plate of the Dawnmartyr (Awakened)
 ---
 # Plate of the Dawnmartyr (Awakened)
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary (requires attunement)*  

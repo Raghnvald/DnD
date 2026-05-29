@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kalligraphiewerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Kalligraphiewerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Calligrapher's Supplies
-linter-yaml-title-alias: Calligrapher's Supplies
+  - Kalligraphiewerkzeuge
 ---
 # Kalligraphiewerkzeuge
 *Handwerkszeug*

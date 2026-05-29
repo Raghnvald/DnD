@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Koalinth Sergeant
+linter-yaml-title-alias: Koalinth Sergeant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

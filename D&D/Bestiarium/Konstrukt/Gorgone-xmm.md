@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorgon
+linter-yaml-title-alias: Gorgon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

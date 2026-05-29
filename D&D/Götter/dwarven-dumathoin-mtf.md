@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dumathoin
+linter-yaml-title-alias: Dumathoin
 tags:
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/knowledge

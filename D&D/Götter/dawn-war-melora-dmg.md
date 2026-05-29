@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Melora
+linter-yaml-title-alias: Melora
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/nature

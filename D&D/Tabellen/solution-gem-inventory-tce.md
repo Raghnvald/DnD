@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solution; Gem Inventory
+linter-yaml-title-alias: Solution; Gem Inventory
 tags:
   - Quelle/5e/tce
 aliases:

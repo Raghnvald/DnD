@@ -8,6 +8,7 @@ Größe: Mittelgroß
 HG: 2
 image: token/Gargyl.webp
 status:
+linter-yaml-title-alias: Gargoyle
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

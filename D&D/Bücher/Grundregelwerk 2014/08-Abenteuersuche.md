@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Die Umgebung
+linter-yaml-title-alias: Die Umgebung
 tags: []
+aliases:
+  - Die Umgebung
 ---
 # Die Umgebung
 

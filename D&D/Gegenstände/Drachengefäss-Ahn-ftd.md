@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Ascendant Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Ascendant Dragon Vessel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/ftd
 aliases:
   - Ascendant Dragon Vessel
-linter-yaml-title-alias: Ascendant Dragon Vessel
 ---
 # Ascendant Dragon Vessel
 *Wondrous item, legendary (requires attunement)*  

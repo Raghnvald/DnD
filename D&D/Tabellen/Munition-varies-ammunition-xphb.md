@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ammunition (Varies); Ammunition
+linter-yaml-title-alias: Ammunition (Varies); Ammunition
 tags:
   - Quelle/5e/xphb
 aliases:

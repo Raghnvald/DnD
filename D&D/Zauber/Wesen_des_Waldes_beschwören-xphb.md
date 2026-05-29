@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Conjure Woodland Beings
+linter-yaml-title-alias: Conjure Woodland Beings
+classes:
+  - Bard
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Ranger
 aliases:
   - Conjure Woodland Beings
-linter-yaml-title-alias: Conjure Woodland Beings
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  

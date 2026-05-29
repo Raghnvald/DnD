@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Milil
+linter-yaml-title-alias: Milil
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "The Bard of Oghma"
   - "The First Poet"
   - "The Lord of All Songs"
+  - Milil
 ---
 # Milil
 *Source: Forgotten Realms: Heroes of Faerûn p. 116* 

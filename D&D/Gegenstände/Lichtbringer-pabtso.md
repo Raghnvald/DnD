@@ -2,18 +2,19 @@
 Bezeichnung: Lichtbringer
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1d6 Wucht
-Eigenschaften: /
+Eigenschaften:
+  - /
 Einstimmung: /
 Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: Lichtbringer
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/pabtso
 aliases:
-  - Lightbringer
-linter-yaml-title-alias: Lightbringer
+  - Lichtbringer
 ---
 # Lichtbringer
 *Waffe ([[Streitkolben-phb|Streitkolben]]), ungewöhnlich*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Lash of Shadows (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Lash of Shadows (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Lash of Shadows (Exalted)
-linter-yaml-title-alias: Lash of Shadows (Exalted)
 ---
 # Lash of Shadows (Exalted)
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), artifact (requires attunement)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Dragon's Blood"
+linter-yaml-title-alias: "Dragon's Blood"
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/wundersam/other
   - Quelle/5e/erlw
 aliases:
-  - Dragon's Blood
-linter-yaml-title-alias: Dragon's Blood
+  - "Dragon's Blood"
 ---
 # Dragon's Blood
 

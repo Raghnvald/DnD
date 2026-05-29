@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Frost
+linter-yaml-title-alias: Staff of Frost
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Frost
-linter-yaml-title-alias: Staff of Frost
 ---
 # Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

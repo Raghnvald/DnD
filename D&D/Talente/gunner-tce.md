@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gunner
+linter-yaml-title-alias: Gunner
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce

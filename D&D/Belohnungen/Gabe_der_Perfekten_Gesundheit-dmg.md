@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe der Perfekten Gesundheit
+linter-yaml-title-alias: Gabe der Perfekten Gesundheit
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Perfect Health
+  - Gabe der Perfekten Gesundheit
 ---
 # Gabe der Perfekten Gesundheit
 

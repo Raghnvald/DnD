@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Forcebreaker Weapon
 Kategorie: Beliebig, Nahkampfwaffe
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Forcebreaker Weapon
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/sehr_selten
@@ -23,7 +29,6 @@ aliases:
   - Forcebreaker Warhammer
   - Forcebreaker Weapon
   - Forcebreaker Wooden Staff
-linter-yaml-title-alias: Forcebreaker Weapon
 ---
 # Forcebreaker Weapon
 *Very rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Growth Chamber Adventures
+linter-yaml-title-alias: Growth Chamber Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

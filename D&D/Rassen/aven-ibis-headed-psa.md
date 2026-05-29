@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Aven (Ibis-Headed)
+linter-yaml-title-alias: Aven (Ibis-Headed)
 tags:
   - Quelle/5e/psa
   - Rasse/aven/ibis-headed
 aliases:
   - "Aven (Ibis-Headed)"
+  - Aven (Ibis-Headed)
 ---
 # Aven (Ibis-Headed)
 *Source: Plane Shift: Amonkhet p. 16*  

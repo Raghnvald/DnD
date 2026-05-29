@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gas Spore Fungus
+linter-yaml-title-alias: Gas Spore Fungus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

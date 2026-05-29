@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Scene 2: The Meadow"
+linter-yaml-title-alias: "Scene 2: The Meadow"
 tags:
   - Quelle/5e/lrdt
 aliases:

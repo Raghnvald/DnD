@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Transmuted Spell
+linter-yaml-title-alias: Transmuted Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/xphb

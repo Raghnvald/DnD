@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Handschuhe des Diebstahls
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Handschuhe des Diebstahls
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Gloves of Thievery
-linter-yaml-title-alias: Handschuhe des Diebstahls
+  - Handschuhe des Diebstahls
 ---
 # Handschuhe des Diebstahls
 *wundersamer Gegenstand, ungewöhnlich*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Candle of Invocation
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Candle of Invocation
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Candle of Invocation
-linter-yaml-title-alias: Candle of Invocation
 ---
 # Candle of Invocation
 *Wondrous item, major, very rare (requires attunement)*  

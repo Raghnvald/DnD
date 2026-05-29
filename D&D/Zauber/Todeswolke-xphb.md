@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Cloudkill
+linter-yaml-title-alias: Cloudkill
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric (Death Domain)
+  - Druid (Circle of Spores)
+  - Paladin (Oath of Conquest)
+  - Sorcerer
+  - Warlock (The Undead)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide/circle-of-spores
@@ -12,18 +22,8 @@ tags:
   - Subklasse/the-undead
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Cleric (Death Domain)
-  - Druid (Circle of Spores)
-  - Paladin (Oath of Conquest)
-  - Sorcerer
-  - Warlock (The Undead)
-  - Wizard
 aliases:
   - Cloudkill
-linter-yaml-title-alias: Cloudkill
 ---
 # Cloudkill
 *5th-level, Conjuration*  

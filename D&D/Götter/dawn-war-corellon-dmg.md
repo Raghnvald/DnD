@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Corellon
+linter-yaml-title-alias: Corellon
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/light

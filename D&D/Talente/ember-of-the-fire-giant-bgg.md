@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ember of the Fire Giant
+linter-yaml-title-alias: Ember of the Fire Giant
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

@@ -1,13 +1,16 @@
 ---
 Bezeichnung: "Ring of Puzzler's Wit"
-Kategorie: Ring 
+Kategorie: Ring
+Eigenschaften:
+  - /
+status: WIP
+linter-yaml-title-alias: "Ring of Puzzler's Wit"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - Ring of Puzzler's Wit
-linter-yaml-title-alias: Ring of Puzzler's Wit
+  - "Ring of Puzzler's Wit"
 ---
 # Ring of Puzzler's Wit
 *Ring, uncommon*  

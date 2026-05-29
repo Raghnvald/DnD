@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Naga (Spirit)
+linter-yaml-title-alias: Bone Naga (Spirit)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Bone Naga (Spirit)
-linter-yaml-title-alias: Bone Naga (Spirit)
 ---
 # [Bone Naga (Spirit)](3-Mechanics\CLI\bestiary\undead/bone-naga-spirit.md)
 *Source: Monster Manual p. 233*  

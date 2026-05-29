@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Flöte des Rattenfängers
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
-Kst.: n/v
+Eigenschaften:
+  - /
+Kst.: /
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Flöte des Rattenfängers
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung
@@ -11,6 +14,7 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Flöte des Rattenfängers
   - Pipes of the Sewers
 ---
 # Flöte des Rattenfängers

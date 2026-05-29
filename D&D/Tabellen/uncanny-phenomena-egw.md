@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Uncanny Phenomena
+linter-yaml-title-alias: Uncanny Phenomena
 tags:
   - Quelle/5e/egw
 aliases:

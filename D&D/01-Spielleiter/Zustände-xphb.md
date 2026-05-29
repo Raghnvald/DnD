@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conditions
+linter-yaml-title-alias: Conditions
 tags:
   - Quelle/5e/xphb
 aliases:

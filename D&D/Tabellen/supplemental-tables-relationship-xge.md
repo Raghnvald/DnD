@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supplemental Tables; Relationship
+linter-yaml-title-alias: Supplemental Tables; Relationship
 tags:
   - Quelle/5e/xge
 aliases:

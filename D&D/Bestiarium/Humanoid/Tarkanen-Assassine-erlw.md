@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tarkanan Assassin
+linter-yaml-title-alias: Tarkanan Assassin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

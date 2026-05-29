@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Functionary
+linter-yaml-title-alias: Azorius Functionary
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

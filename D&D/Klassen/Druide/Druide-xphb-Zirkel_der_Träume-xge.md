@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of Dreams
+linter-yaml-title-alias: Circle of Dreams
 tags:
   - Klasse/Druide/dreams
   - Quelle/5e/xge

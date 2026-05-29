@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Wall of Force
 Zaubergrad: 5
+linter-yaml-title-alias: Wall of Force
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Wall of Force
-linter-yaml-title-alias: Wall of Force
 ---
 # Wall of Force
 *5th-level, Evocation*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Abenteuerausrüstung; Behälterkapazität
+linter-yaml-title-alias: Abenteuerausrüstung; Behälterkapazität
 tags:
   - Quelle/5e/phb
 aliases:
+  - Abenteuerausrüstung; Behälterkapazität
   - Adventuring Gear; Container Capacity
 ---
 # Abenteuerausrüstung; Behälterkapazität

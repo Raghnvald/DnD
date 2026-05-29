@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deities of the Forgotten Realms
+linter-yaml-title-alias: Deities of the Forgotten Realms
 tags:
   - Quelle/5e/phb
 aliases:

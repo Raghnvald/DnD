@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Relentless Juggernaut
+linter-yaml-title-alias: Relentless Juggernaut
 tags:
   - Monster/Größe/Groß
   - Monster/HG/12

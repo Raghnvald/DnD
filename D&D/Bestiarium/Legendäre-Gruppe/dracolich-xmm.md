@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dracolich
+linter-yaml-title-alias: Dracolich
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

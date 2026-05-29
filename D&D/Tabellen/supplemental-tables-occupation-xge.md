@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supplemental Tables; Occupation
+linter-yaml-title-alias: Supplemental Tables; Occupation
 tags:
   - Quelle/5e/xge
 aliases:

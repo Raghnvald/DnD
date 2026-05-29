@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +1 Bloodwell Vial
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: +1 Bloodwell Vial
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +1 Bloodwell Vial
-linter-yaml-title-alias: +1 Bloodwell Vial
 ---
 # +1 Bloodwell Vial
 *Wondrous item, uncommon (requires attunement by a sorcerer)*  

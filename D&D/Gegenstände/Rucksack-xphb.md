@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Backpack
+linter-yaml-title-alias: Backpack
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Backpack
-linter-yaml-title-alias: Backpack
 ---
 # Backpack
 *Adventuring gear*  

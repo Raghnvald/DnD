@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draegloth
+linter-yaml-title-alias: Draegloth
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

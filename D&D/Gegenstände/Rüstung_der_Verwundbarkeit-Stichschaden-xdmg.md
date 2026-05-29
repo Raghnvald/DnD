@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Vulnerability (Piercing)
 Rüstung: Schwer
+linter-yaml-title-alias: Armor of Vulnerability (Piercing)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Vulnerability (Piercing)
   - Splint Armor of Vulnerability (Piercing)
   - Studded Leather Armor of Vulnerability (Piercing)
-linter-yaml-title-alias: Armor of Vulnerability (Piercing)
 ---
 # Armor of Vulnerability (Piercing)
 *Cursed item, rare (requires attunement)*  

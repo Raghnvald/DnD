@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deck of Wonder
+linter-yaml-title-alias: Deck of Wonder
 tags:
   - Quelle/5e/bmt
 aliases:

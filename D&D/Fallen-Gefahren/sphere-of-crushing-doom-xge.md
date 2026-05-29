@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sphere of Crushing Doom
+linter-yaml-title-alias: Sphere of Crushing Doom
 tags:
   - Kompendium/Bedrohung/cmpx
   - Quelle/5e/xge

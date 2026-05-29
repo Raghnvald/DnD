@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Game Master's Toolkit"
+linter-yaml-title-alias: "Chapter 5: Game Master's Toolkit"
 tags:
   - Quelle/5e/tdcsr
 aliases:
+  - "Chapter 5: Game Master's Toolkit"
   - Chapter 5: Game Master's Toolkit
 ---
 # Chapter 5: Game Master's Toolkit

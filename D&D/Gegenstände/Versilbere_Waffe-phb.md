@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Silvered Weapon
-Kategorie: Beliebige Waffe 
+Kategorie: Beliebige Waffe
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Silvered Weapon
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/Waffe/Einfach
@@ -65,7 +70,6 @@ aliases:
   - Silvered Weapon
   - Silvered Whip
   - Silvered Yklwa
-linter-yaml-title-alias: Silvered Weapon
 ---
 # Silvered Weapon
 *Major*  

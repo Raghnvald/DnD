@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gunpowder (keg)
+linter-yaml-title-alias: Gunpowder (keg)
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Quelle/5e/xdmg
 aliases:
   - Gunpowder (keg)
-linter-yaml-title-alias: Gunpowder (keg)
 ---
 # Gunpowder (keg)
 *Explosive*  

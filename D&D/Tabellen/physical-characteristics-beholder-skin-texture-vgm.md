@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Skin Texture
+linter-yaml-title-alias: Physical Characteristics; Beholder Skin Texture
 tags:
   - Quelle/5e/vgm
 aliases:

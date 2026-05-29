@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spear
+linter-yaml-title-alias: Spear
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Spear
-linter-yaml-title-alias: Spear
 ---
 # Spear
 *Weapon*  

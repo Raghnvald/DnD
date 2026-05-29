@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aurnozci
+linter-yaml-title-alias: Aurnozci
 tags:
   - Monster/legendary-group
   - Quelle/5e/bmt

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ares
+linter-yaml-title-alias: Ares
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/greek

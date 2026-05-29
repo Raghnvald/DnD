@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Macuahuitl
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Macuahuitl
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Macuahuitl
-linter-yaml-title-alias: Macuahuitl
 ---
 # Macuahuitl
 *Weapon (longsword)*  

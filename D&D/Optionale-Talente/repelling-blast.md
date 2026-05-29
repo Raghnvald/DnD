@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Repelling Blast
+linter-yaml-title-alias: Repelling Blast
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

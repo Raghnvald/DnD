@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reborn
+linter-yaml-title-alias: Reborn
 tags:
   - Quelle/5e/vrgr
   - Rasse/reborn

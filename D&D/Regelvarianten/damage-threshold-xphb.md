@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Damage Threshold
+linter-yaml-title-alias: Damage Threshold
 tags:
   - Quelle/5e/xphb
 aliases:

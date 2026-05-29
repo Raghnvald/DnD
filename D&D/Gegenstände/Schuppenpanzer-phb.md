@@ -2,19 +2,20 @@
 Bezeichnung: Schuppenpanzer
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: 22,5 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schuppenpanzer
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Scale Mail
-linter-yaml-title-alias: Scale Mail
+  - Schuppenpanzer
 ---
 # Schuppenpanzer
 *Rüstung (mittelschwer), gewöhnlich*  

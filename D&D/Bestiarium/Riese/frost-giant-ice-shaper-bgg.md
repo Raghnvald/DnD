@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Ice Shaper
+linter-yaml-title-alias: Frost Giant Ice Shaper
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17

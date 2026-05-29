@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sailing Ship
+linter-yaml-title-alias: Sailing Ship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Sailing Ship
-linter-yaml-title-alias: Sailing Ship
 ---
 # Sailing Ship
 *Ship, vehicle (water)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rogue
+linter-yaml-title-alias: Rogue
 tags:
   - Klasse/Schurke
   - Quelle/5e/xphb

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Iron Pot
+linter-yaml-title-alias: Iron Pot
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Iron Pot
-linter-yaml-title-alias: Iron Pot
 ---
 # Iron Pot
 *Adventuring gear*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cube of Force
+linter-yaml-title-alias: Cube of Force
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Cube of Force
-linter-yaml-title-alias: Cube of Force
 ---
 # Cube of Force
 *Wondrous item, rare (requires attunement)*  

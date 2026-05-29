@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wildfire Spirit
+linter-yaml-title-alias: Wildfire Spirit
 tags:
   - Monster/Größe/Klein
   - Monster/HG/

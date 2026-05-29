@@ -1,13 +1,18 @@
 ---
 Bezeichnung: "Miner's Pick"
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 2 GM
+Gew.: 5,0 kg
+status: WIP
+linter-yaml-title-alias: "Miner's Pick"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Miner's Pick
-linter-yaml-title-alias: Miner's Pick
+  - "Miner's Pick"
 ---
 # Miner's Pick
 *Adventuring gear*  

@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Counterspell
+linter-yaml-title-alias: Counterspell
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of the Watchers)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,20 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Redemption)
-  - Paladin (Oath of the Watchers)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Counterspell
-linter-yaml-title-alias: Counterspell
 ---
 # Counterspell
 *3rd-level, Abjuration*  

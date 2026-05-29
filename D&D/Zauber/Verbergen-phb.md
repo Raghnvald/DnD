@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Sequester
 Zaubergrad: 7
+linter-yaml-title-alias: Sequester
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Sequester
-linter-yaml-title-alias: Sequester
 ---
 # Sequester
 *7th-level, Transmutation*  

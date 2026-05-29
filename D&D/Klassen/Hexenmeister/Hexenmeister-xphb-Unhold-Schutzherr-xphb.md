@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiend Patron
+linter-yaml-title-alias: Fiend Patron
 tags:
   - Klasse/Hexenmeister/fiend
   - Quelle/5e/xphb

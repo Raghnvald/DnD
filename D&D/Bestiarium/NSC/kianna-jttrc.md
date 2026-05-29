@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kianna
+linter-yaml-title-alias: Kianna
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Kianna
-linter-yaml-title-alias: Kianna
 ---
 # [Kianna](3-Mechanics\CLI\bestiary\npc/kianna-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 42*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Precision Attack
+linter-yaml-title-alias: Precision Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Yahcha
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Yahcha
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/toa
 aliases:
   - Yahcha
-linter-yaml-title-alias: Yahcha
 ---
 # Yahcha
 *Adventuring gear*  

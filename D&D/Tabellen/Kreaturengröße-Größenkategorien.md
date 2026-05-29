@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Kreaturengröße; Größenkategorien
+linter-yaml-title-alias: Kreaturengröße; Größenkategorien
 tags:
   - Quelle/5e/phb
 aliases:
   - Creature Size; Size Categories
+  - Kreaturengröße; Größenkategorien
 ---
 # Kreaturengröße; Größenkategorien
 *Source: SRD / Basic Rules* 

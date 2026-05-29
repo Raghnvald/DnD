@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Free Action
+linter-yaml-title-alias: Ring of Free Action
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Free Action
-linter-yaml-title-alias: Ring of Free Action
 ---
 # Ring of Free Action
 *Ring, rare (requires attunement)*  

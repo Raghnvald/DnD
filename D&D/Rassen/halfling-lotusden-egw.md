@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Lotusden)
+linter-yaml-title-alias: Halfling (Lotusden)
 tags:
   - Quelle/5e/egw
   - Rasse/halfling/lotusden

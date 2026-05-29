@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Sunburst
 Zaubergrad: 8
+linter-yaml-title-alias: Sunburst
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
   - Sunburst
-linter-yaml-title-alias: Sunburst
 ---
 # Sunburst
 *8th-level, Evocation*  

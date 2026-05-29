@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Fey
+linter-yaml-title-alias: Index of Fey
+aliases:
+  - Index of Fey
 ---
 # Index of Fey
 

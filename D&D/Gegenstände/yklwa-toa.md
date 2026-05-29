@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Yklwa
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Yklwa
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Yklwa
-linter-yaml-title-alias: Yklwa
 ---
 # Yklwa
 *Weapon*  

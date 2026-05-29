@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Shady Business Practice"
+linter-yaml-title-alias: "Downtime and Franchise Activity: Shady Business Practice"
 tags:
   - Quelle/5e/ai
 aliases:

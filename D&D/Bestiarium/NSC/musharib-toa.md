@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Musharib
+linter-yaml-title-alias: Musharib
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Musharib
-linter-yaml-title-alias: Musharib
 ---
 # [Musharib](3-Mechanics\CLI\bestiary\npc/musharib-toa.md)
 *Source: Tomb of Annihilation p. 34*  

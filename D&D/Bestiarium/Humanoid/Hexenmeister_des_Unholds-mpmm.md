@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warlock of the Fiend
+linter-yaml-title-alias: Warlock of the Fiend
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

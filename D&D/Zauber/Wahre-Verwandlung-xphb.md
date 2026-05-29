@@ -1,5 +1,10 @@
 ---
 Bezeichnung: True Polymorph
+linter-yaml-title-alias: True Polymorph
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/9
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 aliases:
   - True Polymorph
-linter-yaml-title-alias: True Polymorph
 ---
 # True Polymorph
 *9th-level, Transmutation*  

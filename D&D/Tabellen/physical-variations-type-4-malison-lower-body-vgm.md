@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Physical Variations; Type 4 Malison: Lower Body"
+linter-yaml-title-alias: "Physical Variations; Type 4 Malison: Lower Body"
 tags:
   - Quelle/5e/vgm
 aliases:
+  - "Physical Variations; Type 4 Malison: Lower Body"
   - Physical Variations; Type 4 Malison: Lower Body
 ---
 # Physical Variations; Type 4 Malison: Lower Body

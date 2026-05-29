@@ -1,7 +1,12 @@
 ---
 Bezeichnung: Korolnor Scepter
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - erfordert Einstimmung
 Einstimmung: erfordert
+Kst.: /
+Gew.: 1,0 kg
+linter-yaml-title-alias: Korolnor Scepter
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -10,7 +15,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Korolnor Scepter
-linter-yaml-title-alias: Korolnor Scepter
 ---
 # Korolnor Scepter
 *Weapon (club), legendary (requires attunement)*  

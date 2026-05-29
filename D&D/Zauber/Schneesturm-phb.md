@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Sleet Storm
 Zaubergrad: 3
+linter-yaml-title-alias: Sleet Storm
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -13,18 +23,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Sleet Storm
-linter-yaml-title-alias: Sleet Storm
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Armbrustbolzen (20)
 Kategorie: Munition
-Eigenschaften: Munition
+Eigenschaften:
+  - Munition
 Kst.: 1 GM
 Gew.: 0,75 kg
+linter-yaml-title-alias: Armbrustbolzen (20)
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Armbrustbolzen (20)
   - Crossbow Bolts (20)
-linter-yaml-title-alias: Armbrustbolzen (20)
 ---
 # Armbrustbolzen (20)
 *Munition*    

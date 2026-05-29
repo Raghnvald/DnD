@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scorpion Ship
+linter-yaml-title-alias: Scorpion Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/land
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Scorpion Ship"
+  - Scorpion Ship
 ---
 # Scorpion Ship
 *Source: Astral Adventurer's Guide p. 42*  

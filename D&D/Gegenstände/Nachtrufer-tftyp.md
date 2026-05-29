@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Night Caller
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Night Caller
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/tftyp
 aliases:
   - Night Caller
-linter-yaml-title-alias: Night Caller
 ---
 # Night Caller
 *Wondrous item, uncommon*  

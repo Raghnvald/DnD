@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 1/2
 Habitat:
   - /
+Image: token/dwarf-skeleton-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Zwergenskelett
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -16,8 +18,6 @@ tags:
 aliases:
   - Dwarf Skeleton
   - Zwergenskelett
-Image: token/dwarf-skeleton-pabtso.webp
-linter-yaml-title-alias: Zwergenskelett
 ---
 # Zwergenskelett
 *Quellen: Phandelver and Below: The Shattered Obelisk S. 123*  

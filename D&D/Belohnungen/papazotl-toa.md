@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Papazotl
+linter-yaml-title-alias: Papazotl
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa

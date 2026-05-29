@@ -6,6 +6,7 @@ Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 7
 status: WIP
+linter-yaml-title-alias: Githzerai Uniter
 tags:
   - Quelle/5e/mpp
   - ttrpg-cli/monster/cr/7

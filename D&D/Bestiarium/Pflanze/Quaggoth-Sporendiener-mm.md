@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quaggoth Spore Servant
+linter-yaml-title-alias: Quaggoth Spore Servant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

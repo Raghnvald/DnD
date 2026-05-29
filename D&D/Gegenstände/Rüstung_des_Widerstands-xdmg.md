@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Resistance
+linter-yaml-title-alias: Armor of Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Armor of Resistance
-linter-yaml-title-alias: Armor of Resistance
 ---
 # Armor of Resistance
 *Rare (requires attunement)*  

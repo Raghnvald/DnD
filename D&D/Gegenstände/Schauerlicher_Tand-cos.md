@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/cos
 aliases:
   - Trinket
-linter-yaml-title-alias: Trinket
 ---
 # Trinket
 *Adventuring gear*  

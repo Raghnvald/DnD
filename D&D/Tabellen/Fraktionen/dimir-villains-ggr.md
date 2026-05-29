@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir Villains
+linter-yaml-title-alias: Dimir Villains
 tags:
   - Quelle/5e/ggr
 aliases:

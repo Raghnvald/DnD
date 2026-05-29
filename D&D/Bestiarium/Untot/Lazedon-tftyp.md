@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lazedon
+linter-yaml-title-alias: Lazedon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
   - Monster/Typ/Untote
   - Quelle/5e/tftyp
 aliases:
-  - Lacedon
-linter-yaml-title-alias: Lacedon
+  - Lazedon
 ---
 # Lazedon
 *Source: Tales from the Yawning Portal p. 147, Explorer's Guide to Wildemount*  

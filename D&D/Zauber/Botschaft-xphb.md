@@ -6,6 +6,17 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Message
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -26,19 +37,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Message
-linter-yaml-title-alias: Message
 ---
 # Message
 *cantrip, Transmutation*  

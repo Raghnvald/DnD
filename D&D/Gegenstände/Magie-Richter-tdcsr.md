@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Magician's Judge"
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: "Magician's Judge"
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Magician's Judge
-linter-yaml-title-alias: Magician's Judge
+  - "Magician's Judge"
 ---
 # Magician's Judge
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), rare*  

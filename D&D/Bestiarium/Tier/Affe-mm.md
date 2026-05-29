@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 1/2
 Habitat:
   - Wald
+image: token/ape.webp
 status: WIP
+linter-yaml-title-alias: Ape
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

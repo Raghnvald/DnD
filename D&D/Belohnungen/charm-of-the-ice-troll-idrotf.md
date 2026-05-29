@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Ice Troll
+linter-yaml-title-alias: Charm of the Ice Troll
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

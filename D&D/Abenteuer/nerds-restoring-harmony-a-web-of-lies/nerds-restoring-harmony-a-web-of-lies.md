@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Nerds Restoring Harmony a Web of Lies
+linter-yaml-title-alias: Index of Nerds Restoring Harmony a Web of Lies
+aliases:
+  - Index of Nerds Restoring Harmony a Web of Lies
 ---
 # Index of Nerds Restoring Harmony a Web of Lies
 

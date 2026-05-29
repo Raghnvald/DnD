@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Granat
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Granat
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Garnet
-linter-yaml-title-alias: Garnet
+  - Granat
 ---
 # Granat
 *Schatz (Edelstein)*  

@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Regenerate
+linter-yaml-title-alias: Regenerate
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Regenerate
-linter-yaml-title-alias: Regenerate
 ---
 # Regenerate
 *7th-level, Transmutation*  

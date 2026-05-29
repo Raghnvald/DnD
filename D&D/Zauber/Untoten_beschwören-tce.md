@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Summon Undead
 Zaubergrad: 3
+linter-yaml-title-alias: Summon Undead
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
   - Summon Undead
-linter-yaml-title-alias: Summon Undead
 ---
 # Summon Undead
 *3rd-level, Necromancy*  

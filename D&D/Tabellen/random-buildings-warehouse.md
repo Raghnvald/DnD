@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Buildings; Warehouse
+linter-yaml-title-alias: Random Buildings; Warehouse
 tags:
   - Quelle/5e/dmg
 aliases:

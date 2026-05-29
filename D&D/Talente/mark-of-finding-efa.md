@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Finding
+linter-yaml-title-alias: Mark of Finding
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Finding"
+  - Mark of Finding
 ---
 # Mark of Finding
 *Source: Eberron: Forge of the Artificer p. 39*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spelldriver
+linter-yaml-title-alias: Spelldriver
 tags:
   - Kompendium/Talent
   - Quelle/5e/tdcsr

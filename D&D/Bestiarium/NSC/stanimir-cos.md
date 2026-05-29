@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stanimir
+linter-yaml-title-alias: Stanimir
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Stanimir
-linter-yaml-title-alias: Stanimir
 ---
 # [Stanimir](3-Mechanics\CLI\bestiary\npc/stanimir-cos.md)
 *Source: Curse of Strahd p. 20*  

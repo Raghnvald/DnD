@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frost Giant Encounters
+linter-yaml-title-alias: Frost Giant Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

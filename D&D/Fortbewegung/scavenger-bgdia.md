@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scavenger
+linter-yaml-title-alias: Scavenger
 tags:
   - Gegenstand/Fortbewegung/size/huge
   - Gegenstand/Fortbewegung/terrain/land

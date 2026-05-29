@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Essen, Trinken und Unterkunft
+linter-yaml-title-alias: Essen, Trinken und Unterkunft
 tags:
   - Quelle/5e/phb
 aliases:
+  - Essen, Trinken und Unterkunft
   - Food, Drink, and Lodging
 ---
 # Essen, Trinken und Unterkunft

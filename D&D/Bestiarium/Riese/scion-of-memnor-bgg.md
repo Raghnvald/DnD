@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scion of Memnor
+linter-yaml-title-alias: Scion of Memnor
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/26

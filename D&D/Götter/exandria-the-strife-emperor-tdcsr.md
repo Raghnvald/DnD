@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Strife Emperor
+linter-yaml-title-alias: The Strife Emperor
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/order

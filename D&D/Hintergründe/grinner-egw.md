@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grinner
+linter-yaml-title-alias: Grinner
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Carpet of Flying, 6 ft. × 9 ft.
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Carpet of Flying, 6 ft. × 9 ft.
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Carpet of Flying, 6 ft. × 9 ft.
-linter-yaml-title-alias: Carpet of Flying, 6 ft. × 9 ft.
 ---
 # Carpet of Flying, 6 ft. × 9 ft.
 *Wondrous item, major, very rare*  

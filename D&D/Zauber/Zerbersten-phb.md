@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Shatter
 Zaubergrad: 2
+linter-yaml-title-alias: Shatter
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Tempest Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -13,17 +22,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/gong-of-the-summit
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Tempest Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Shatter
-linter-yaml-title-alias: Shatter
 ---
 # Shatter
 *2nd-level, Evocation*  

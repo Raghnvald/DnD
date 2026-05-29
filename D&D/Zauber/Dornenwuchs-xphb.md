@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Spike Growth
+linter-yaml-title-alias: Spike Growth
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
+  - Warlock (The Genie, Dao)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -10,16 +18,8 @@ tags:
   - Subklasse/the-genie/dao
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
-  - Warlock (The Genie, Dao)
 aliases:
   - Spike Growth
-linter-yaml-title-alias: Spike Growth
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

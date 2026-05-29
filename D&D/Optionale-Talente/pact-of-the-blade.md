@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact of the Blade
+linter-yaml-title-alias: Pact of the Blade
 tags:
   - Kompendium/Optionales/pb
   - Quelle/5e/phb

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Medani Heir
+linter-yaml-title-alias: House Medani Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Medani Heir"
+  - House Medani Heir
 ---
 # House Medani Heir
 *Source: Eberron: Forge of the Artificer p. 30*  

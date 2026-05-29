@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Woge der Wilden Magie
+linter-yaml-title-alias: Woge der Wilden Magie
 tags:
   - Quelle/5e/phb
 aliases:
   - Wild Magic Surge
+  - Woge der Wilden Magie
 ---
 # Woge der Wilden Magie
 *Quelle: SRD / Grundregelwerk*

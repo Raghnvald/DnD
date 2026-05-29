@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wand of Magic Missiles
+linter-yaml-title-alias: Wand of Magic Missiles
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg
 aliases:
   - Wand of Magic Missiles
-linter-yaml-title-alias: Wand of Magic Missiles
 ---
 # Wand of Magic Missiles
 *Wand, uncommon*  

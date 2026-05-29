@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: Tal'Dorei Gazetteer"
+linter-yaml-title-alias: "Chapter 3: Tal'Dorei Gazetteer"
 tags:
   - Quelle/5e/tdcsr
 aliases:
+  - "Chapter 3: Tal'Dorei Gazetteer"
   - Chapter 3: Tal'Dorei Gazetteer
 ---
 # Chapter 3: Tal'Dorei Gazetteer

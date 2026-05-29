@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Suude (Red)
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Suude (Red)
 tags:
   - Gegenstand/Ausrüstung/illegal-drug
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/tdcsr
 aliases:
   - Suude (Red)
-linter-yaml-title-alias: Suude (Red)
 ---
 # Suude (Red)
 *Illegal drug*  

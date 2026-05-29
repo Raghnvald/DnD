@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chitine
+linter-yaml-title-alias: Chitine
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Unterreich

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Sage Advice Compendium
+linter-yaml-title-alias: Sage Advice Compendium
 tags:
   - Quelle/5e/xsac
 aliases:
   - "Sage Advice Compendium"
+  - Sage Advice Compendium
 ---
 # Sage Advice Compendium
 *Source: Sage Advice Compendium (2025)* 

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Hailstorm
+linter-yaml-title-alias: Hailstorm
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/fraif
 aliases:
   - "Hailstorm"
+  - Hailstorm
 ---
 # Hailstorm
 *Environmental Hazard*  

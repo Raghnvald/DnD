@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Knight of the Gauntlet
+linter-yaml-title-alias: Knight of the Gauntlet
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Knight of the Gauntlet"
+  - Knight of the Gauntlet
 ---
 # Knight of the Gauntlet
 *Source: Forgotten Realms: Heroes of Faerûn p. 32*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix C: Maps"
+linter-yaml-title-alias: "Appendix C: Maps"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Appendix C: Maps"
   - Appendix C: Maps
 ---
 # Appendix C: Maps

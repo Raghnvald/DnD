@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Todeskreis
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -15,14 +21,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Circle of Death
-linter-yaml-title-alias: Todeskreis
+  - Todeskreis
 ---
 # Todeskreis
 *Nekromantie des 6. Grades* 

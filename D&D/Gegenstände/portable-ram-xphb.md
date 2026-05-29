@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Portable Ram
+linter-yaml-title-alias: Portable Ram
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Portable Ram
-linter-yaml-title-alias: Portable Ram
 ---
 # Portable Ram
 *Adventuring gear*  

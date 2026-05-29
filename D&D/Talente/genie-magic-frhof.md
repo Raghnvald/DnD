@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Genie Magic
+linter-yaml-title-alias: Genie Magic
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Genie Magic"
+  - Genie Magic
 ---
 # Genie Magic
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

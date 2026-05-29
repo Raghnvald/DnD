@@ -5,6 +5,7 @@ Bezeichnung: Ashari Waverider
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ashari Waverider
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

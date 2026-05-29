@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Talisman of the Sphere
+linter-yaml-title-alias: Talisman of the Sphere
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Talisman of the Sphere
-linter-yaml-title-alias: Talisman of the Sphere
 ---
 # Talisman of the Sphere
 *Wondrous item, legendary (requires attunement)*  

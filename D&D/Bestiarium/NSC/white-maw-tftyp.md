@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: White Maw
+linter-yaml-title-alias: White Maw
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - White Maw
-linter-yaml-title-alias: White Maw
 ---
 # [White Maw](3-Mechanics\CLI\bestiary\npc/white-maw-tftyp.md)
 *Source: Tales from the Yawning Portal p. 248*  

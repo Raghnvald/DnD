@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Splint Armor
 Rüstung: Schwer
+linter-yaml-title-alias: Splint Armor
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Splint Armor
-linter-yaml-title-alias: Splint Armor
 ---
 # Splint Armor
 *Heavy armor*  

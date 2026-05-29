@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Temple of the Gods
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -13,13 +18,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Temple of the Gods
-linter-yaml-title-alias: Temple of the Gods
 ---
 # Temple of the Gods
 *7th-level, Conjuration*  

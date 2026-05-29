@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swimming
+linter-yaml-title-alias: Swimming
 tags:
   - Quelle/5e/xphb
 aliases:

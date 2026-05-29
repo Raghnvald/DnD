@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spire of Conflux (Dormant)
+linter-yaml-title-alias: Spire of Conflux (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Spire of Conflux (Dormant)
-linter-yaml-title-alias: Spire of Conflux (Dormant)
 ---
 # Spire of Conflux (Dormant)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

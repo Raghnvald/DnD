@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Gaseous Form
+linter-yaml-title-alias: Gaseous Form
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Ranger (Swarmkeeper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,20 +27,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/mist-stance
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Bard (College of Lore)
-  - Druid (Circle of Spores)
-  - Fighter (Eldritch Knight)
-  - Ranger (Swarmkeeper)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Gaseous Form
-linter-yaml-title-alias: Gaseous Form
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  

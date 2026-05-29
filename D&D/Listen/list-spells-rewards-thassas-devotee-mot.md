@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Thassa's Devotee"
+linter-yaml-title-alias: "Spells for Thassa's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/thassas-devotee
 aliases:

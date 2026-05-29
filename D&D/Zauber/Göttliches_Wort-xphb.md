@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Divine Word
+linter-yaml-title-alias: Divine Word
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Divine Word
-linter-yaml-title-alias: Divine Word
 ---
 # Divine Word
 *7th-level, Evocation*  

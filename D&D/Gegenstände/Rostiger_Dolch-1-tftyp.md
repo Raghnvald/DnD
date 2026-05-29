@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Rostiger Dolch +1
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Rostiger Dolch +1
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tftyp
 aliases:
-  - Junky +1 Dagger
-linter-yaml-title-alias: Junky +1 Dagger
+  - Rostiger Dolch +1
 ---
 # Rostiger Dolch +1
 *Weapon (dagger)*  

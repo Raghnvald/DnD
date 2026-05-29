@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Inescapable Lash
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Inescapable Lash
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Inescapable Lash
-linter-yaml-title-alias: Inescapable Lash
 ---
 # Inescapable Lash
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), rare (requires attunement)*  

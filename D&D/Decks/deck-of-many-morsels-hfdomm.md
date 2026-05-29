@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Deck of Many Morsels
+linter-yaml-title-alias: Deck of Many Morsels
 tags:
   - Quelle/5e/hfdomm
 aliases:
   - "Deck of Many Morsels"
+  - Deck of Many Morsels
 ---
 # Deck of Many Morsels
 *Source: Heroes' Feast: The Deck of Many Morsels*  

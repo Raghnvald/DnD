@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aboleth
+linter-yaml-title-alias: Aboleth
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

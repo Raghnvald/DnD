@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wings of Flying
+linter-yaml-title-alias: Wings of Flying
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Wings of Flying
-linter-yaml-title-alias: Wings of Flying
 ---
 # Wings of Flying
 *Wondrous item, rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stahlmaster
+linter-yaml-title-alias: Stahlmaster
 tags:
   - Quelle/5e/dd
   - ttrpg-cli/vehicle/size/large
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/creature
 aliases:
   - "Stahlmaster"
+  - Stahlmaster
 ---
 # Stahlmaster
 *Source: Dangerous Designs p. 235*  

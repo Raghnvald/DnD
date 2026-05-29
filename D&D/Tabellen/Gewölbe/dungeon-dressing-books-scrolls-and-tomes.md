@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Books, Scrolls, and Tomes
+linter-yaml-title-alias: Dungeon Dressing; Books, Scrolls, and Tomes
 tags:
   - Quelle/5e/dmg
 aliases:

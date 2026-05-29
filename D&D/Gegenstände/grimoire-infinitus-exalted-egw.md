@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Grimoire Infinitus (Exalted)
+linter-yaml-title-alias: Grimoire Infinitus (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
   - Grimoire Infinitus (Exalted)
-linter-yaml-title-alias: Grimoire Infinitus (Exalted)
 ---
 # Grimoire Infinitus (Exalted)
 *Wondrous item, legendary (requires attunement by a wizard)*  

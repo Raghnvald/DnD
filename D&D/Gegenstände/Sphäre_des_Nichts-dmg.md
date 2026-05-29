@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Sphere of Annihilation
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Sphere of Annihilation
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Sphere of Annihilation
-linter-yaml-title-alias: Sphere of Annihilation
 ---
 # Sphere of Annihilation
 *Wondrous item, major, legendary*  

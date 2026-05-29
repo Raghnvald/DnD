@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe der Unverwundbarkeit
+linter-yaml-title-alias: Gabe der Unverwundbarkeit
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Invincibility
+  - Gabe der Unverwundbarkeit
 ---
 # Gabe der Unverwundbarkeit
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sudden Riches; Gem Stories
+linter-yaml-title-alias: Sudden Riches; Gem Stories
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -2,10 +2,13 @@
 Bezeichnung: Beil
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Hieb
-Eigenschaften: Leicht, Wurfwaffe
+Eigenschaften:
+  - Leicht
+  - Wurfwaffe
 Einstimmung: /
 Kst.: 5 GM
 Gew.: 1,0 kg
+linter-yaml-title-alias: Beil
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Beil
-linter-yaml-title-alias: Beil
 ---
 # Beil
 *Waffe*  

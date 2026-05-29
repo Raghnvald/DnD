@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Stronghold"
+linter-yaml-title-alias: "Chamber Purpose; Dungeon: Stronghold"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Chamber Purpose; Dungeon: Stronghold"
   - Chamber Purpose; Dungeon: Stronghold
 ---
 # Chamber Purpose; Dungeon: Stronghold

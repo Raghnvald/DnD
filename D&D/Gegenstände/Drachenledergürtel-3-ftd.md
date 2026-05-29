@@ -1,13 +1,13 @@
 ---
 Bezeichnung: +3 Dragonhide Belt
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: +3 Dragonhide Belt
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ftd
 aliases:
   - +3 Dragonhide Belt
-linter-yaml-title-alias: +3 Dragonhide Belt
 ---
 # +3 Dragonhide Belt
 *Wondrous item, very rare (requires attunement by a monk)*  

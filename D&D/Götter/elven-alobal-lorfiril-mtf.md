@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alobal Lorfiril
+linter-yaml-title-alias: Alobal Lorfiril
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/trickery

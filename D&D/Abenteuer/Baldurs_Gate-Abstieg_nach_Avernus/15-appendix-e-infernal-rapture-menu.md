@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix E: Infernal Rapture Menu"
+linter-yaml-title-alias: "Appendix E: Infernal Rapture Menu"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Appendix E: Infernal Rapture Menu"
   - Appendix E: Infernal Rapture Menu
 ---
 # Appendix E: Infernal Rapture Menu

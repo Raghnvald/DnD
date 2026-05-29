@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand Sheath
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wand Sheath
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Wand Sheath
-linter-yaml-title-alias: Wand Sheath
 ---
 # Wand Sheath
 *Wondrous item, common (requires attunement by a warforged)*  

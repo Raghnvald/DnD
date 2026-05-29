@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Religious Order Quests
+linter-yaml-title-alias: Religious Order Quests
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Describe Appearance and Personality; Strength
+linter-yaml-title-alias: Describe Appearance and Personality; Strength
 tags:
   - Quelle/5e/xphb
 aliases:

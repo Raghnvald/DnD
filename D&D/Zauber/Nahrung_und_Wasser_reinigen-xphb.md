@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Purify Food and Drink
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -24,17 +33,8 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Purify Food and Drink
-linter-yaml-title-alias: Purify Food and Drink
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

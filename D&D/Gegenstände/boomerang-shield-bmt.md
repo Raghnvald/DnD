@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Boomerang Shield
 Rüstung: Schild
+linter-yaml-title-alias: Boomerang Shield
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Boomerang Shield
-linter-yaml-title-alias: Boomerang Shield
 ---
 # Boomerang Shield
 *Armor (shield), uncommon (requires attunement)*  

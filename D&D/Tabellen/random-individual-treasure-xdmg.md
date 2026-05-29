@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Individual Treasure
+linter-yaml-title-alias: Random Individual Treasure
 tags:
   - Quelle/5e/xdmg
 aliases:

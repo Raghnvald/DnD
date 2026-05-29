@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Unseen Servant
+linter-yaml-title-alias: Living Unseen Servant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

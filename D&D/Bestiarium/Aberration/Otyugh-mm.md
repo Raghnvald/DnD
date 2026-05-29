@@ -10,6 +10,7 @@ Habitat:
   - Unterreich
 image: token/otyugh-webp
 status: WIP
+linter-yaml-title-alias: Otyugh
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

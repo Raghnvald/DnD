@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Stout)
+linter-yaml-title-alias: Halfling (Stout)
 tags:
   - Quelle/5e/phb
   - Rasse/halfling/stout

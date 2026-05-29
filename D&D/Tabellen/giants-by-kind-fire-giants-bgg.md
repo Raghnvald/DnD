@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Fire Giants
+linter-yaml-title-alias: Giants by Kind; Fire Giants
 tags:
   - Quelle/5e/bgg
 aliases:

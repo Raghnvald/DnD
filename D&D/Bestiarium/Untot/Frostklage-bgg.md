@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frostmourn
+linter-yaml-title-alias: Frostmourn
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Frostmourn
-linter-yaml-title-alias: Frostmourn
 ---
 # [Frostmourn](3-Mechanics\CLI\bestiary\undead/frostmourn-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 147*  

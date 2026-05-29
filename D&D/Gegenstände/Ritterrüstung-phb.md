@@ -2,19 +2,20 @@
 Bezeichnung: Ritterrüstung
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.500 GM
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+linter-yaml-title-alias: Ritterrüstung
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Plate Armor
-linter-yaml-title-alias: Plate Armor
+  - Ritterrüstung
 ---
 # Ritterrüstung
 *Schwere Rüstung*

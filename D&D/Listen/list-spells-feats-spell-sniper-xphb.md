@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Spell Sniper
+linter-yaml-title-alias: Spells for Spell Sniper
 tags:
   - ttrpg-cli/spell/list/feat/spell-sniper
 aliases:
   - "Spells for Spell Sniper"
+  - Spells for Spell Sniper
 ---
 # Spells for Spell Sniper
 

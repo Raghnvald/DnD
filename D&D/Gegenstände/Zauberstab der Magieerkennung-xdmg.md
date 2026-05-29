@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wand of Magic Detection
+linter-yaml-title-alias: Wand of Magic Detection
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg
 aliases:
   - Wand of Magic Detection
-linter-yaml-title-alias: Wand of Magic Detection
 ---
 # Wand of Magic Detection
 *Wand, uncommon*  

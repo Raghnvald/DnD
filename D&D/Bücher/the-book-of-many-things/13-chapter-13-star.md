@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 13: Star"
+linter-yaml-title-alias: "Chapter 13: Star"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 13: Star"
   - Chapter 13: Star
 ---
 # Chapter 13: Star

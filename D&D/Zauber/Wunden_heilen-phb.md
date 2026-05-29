@@ -7,6 +7,14 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: n/v
 Schaden: 1d8 Heilung
+linter-yaml-title-alias: Wunden heilen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
+  - Paladin
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -18,16 +26,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Druid
-  - Paladin
-  - Ranger
 aliases:
-  - Cure Wounds
-linter-yaml-title-alias: Cure Wounds
+  - Wunden heilen
 ---
 # Wunden heilen
 *Hervorrufung des 1. Grades*

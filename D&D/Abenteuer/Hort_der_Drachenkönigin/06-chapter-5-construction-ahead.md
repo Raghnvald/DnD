@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Construction Ahead"
+linter-yaml-title-alias: "Chapter 5: Construction Ahead"
 tags:
   - Quelle/5e/hotdq
 aliases:

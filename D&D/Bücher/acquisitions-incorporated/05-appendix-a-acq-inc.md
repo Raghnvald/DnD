@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Acq Inc"
+linter-yaml-title-alias: "Appendix A: Acq Inc"
 tags:
   - Quelle/5e/ai
 aliases:

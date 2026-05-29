@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Abakus
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 1,0 kg
+Status: completed
+linter-yaml-title-alias: Abakus
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -11,8 +14,6 @@ tags:
 aliases:
   - Abacus
   - Abakus
-linter-yaml-title-alias: Abakus
-Status: completed
 ---
 # Abakus
 *Abenteuerausrüstung*

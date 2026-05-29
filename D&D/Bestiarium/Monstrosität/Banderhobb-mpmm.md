@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Banderhobb
+linter-yaml-title-alias: Banderhobb
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt

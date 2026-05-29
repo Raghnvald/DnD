@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Longbow
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Longbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Longbow
-linter-yaml-title-alias: Longbow
 ---
 # Longbow
 *Weapon*  

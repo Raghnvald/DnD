@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Strahd von Zarovich
+linter-yaml-title-alias: Strahd von Zarovich
 tags:
   - Monster/legendary-group
   - Quelle/5e/cos

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Deck of Dimensions
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Deck of Dimensions
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bmt
 aliases:
   - Deck of Dimensions
-linter-yaml-title-alias: Deck of Dimensions
 ---
 # Deck of Dimensions
 *Wondrous item, very rare (requires attunement)*  

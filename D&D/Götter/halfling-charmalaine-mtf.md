@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charmalaine
+linter-yaml-title-alias: Charmalaine
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/halfling

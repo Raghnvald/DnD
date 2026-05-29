@@ -6,9 +6,11 @@ Bezeichnung: Red Slaad
 Kategorie: Aberration
 Größe: Groß
 HG: 5
-Habitat: Planar (Limbo)
+Habitat:
+  - Planar (Limbo)
 image:
 status: WIP
+linter-yaml-title-alias: Red Slaad
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/limbo

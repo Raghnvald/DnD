@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior of the Open Hand
+linter-yaml-title-alias: Warrior of the Open Hand
 tags:
   - Klasse/Mönch/open-hand
   - Quelle/5e/xphb

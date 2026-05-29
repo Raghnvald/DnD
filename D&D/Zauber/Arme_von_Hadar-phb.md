@@ -4,9 +4,13 @@ Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: selbst (Radius von 3 m)
 Komponenten: V, G
-Wirkungsdauer: unmittelbar
+Wirkungsdauer: Unmittelbar
 Angriff: STR
 Schaden: 2d6 nekrotisch
+linter-yaml-title-alias: Arme von Hadar
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -14,12 +18,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
 aliases:
+  - Arme von Hadar
   - Arms of Hadar
-linter-yaml-title-alias: Arme von Hadar
 ---
 # Arme von Hadar
 *Beschwörung des 1. Grades*  

@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Zone of Truth
+linter-yaml-title-alias: Zone of Truth
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Order Domain)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Ranger (Monster Slayer)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,18 +22,8 @@ tags:
   - Subklasse/monster-slayer
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Order Domain)
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Ranger (Monster Slayer)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Zone of Truth
-linter-yaml-title-alias: Zone of Truth
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

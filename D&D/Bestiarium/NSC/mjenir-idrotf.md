@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mjenir
+linter-yaml-title-alias: Mjenir
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Mjenir
-linter-yaml-title-alias: Mjenir
 ---
 # [Mjenir](3-Mechanics\CLI\bestiary\npc/mjenir-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  

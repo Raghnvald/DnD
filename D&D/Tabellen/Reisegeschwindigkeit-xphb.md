@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Travel Pace
+linter-yaml-title-alias: Travel Pace
 tags:
   - Quelle/5e/xphb
 aliases:

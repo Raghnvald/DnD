@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Tarakamedes, the Grave Wyrm
+linter-yaml-title-alias: Dark Gift of Tarakamedes, the Grave Wyrm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

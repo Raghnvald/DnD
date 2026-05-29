@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Navigation Orb
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Navigation Orb
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Navigation Orb
-linter-yaml-title-alias: Navigation Orb
 ---
 # Navigation Orb
 *Wondrous item, very rare (requires attunement)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Infernal Tack
+linter-yaml-title-alias: Infernal Tack
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/mtf
 aliases:
   - Infernal Tack
-linter-yaml-title-alias: Infernal Tack
 ---
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  

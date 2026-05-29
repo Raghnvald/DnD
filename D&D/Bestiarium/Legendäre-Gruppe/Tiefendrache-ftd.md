@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Dragon
+linter-yaml-title-alias: Deep Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

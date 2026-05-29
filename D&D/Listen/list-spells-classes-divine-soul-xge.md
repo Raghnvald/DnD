@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Divine Soul
+linter-yaml-title-alias: Spells for Divine Soul
 tags:
   - Zauber/list/subclass/divine-soul
 aliases:

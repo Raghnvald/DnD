@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Otherworldly Leap
+linter-yaml-title-alias: Otherworldly Leap
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

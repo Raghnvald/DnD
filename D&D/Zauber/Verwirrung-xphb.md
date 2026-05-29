@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Confusion
+linter-yaml-title-alias: Confusion
+classes:
+  - Bard
+  - Cleric (Knowledge Domain)
+  - Cleric (Trickery Domain)
+  - Druid
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Great Old One Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -16,21 +29,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/dreadful-word
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric (Knowledge Domain)
-  - Cleric (Trickery Domain)
-  - Druid
-  - Druid (Circle of Spores)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Great Old One Patron)
-  - Wizard
 aliases:
   - Confusion
-linter-yaml-title-alias: Confusion
 ---
 # Confusion
 *4th-level, Enchantment*  

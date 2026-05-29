@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Undead"
+linter-yaml-title-alias: "Monsters' Desires; Undead"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Undead"
   - Monsters' Desires; Undead
 ---
 # Monsters' Desires; Undead

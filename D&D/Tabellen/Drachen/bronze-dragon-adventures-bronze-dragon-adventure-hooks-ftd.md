@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bronze Dragon Adventures; Bronze Dragon Adventure Hooks
+linter-yaml-title-alias: Bronze Dragon Adventures; Bronze Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

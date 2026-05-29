@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Turtle Adventures; Dragon Turtle Adventure Hooks
+linter-yaml-title-alias: Dragon Turtle Adventures; Dragon Turtle Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

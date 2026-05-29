@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Autumn Eladrin
+linter-yaml-title-alias: Autumn Eladrin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

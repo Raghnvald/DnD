@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maw of Yeenoghu
+linter-yaml-title-alias: Maw of Yeenoghu
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10

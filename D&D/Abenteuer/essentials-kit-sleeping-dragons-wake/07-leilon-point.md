@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Leilon Point
+linter-yaml-title-alias: Leilon Point
 tags:
   - Quelle/5e/sdw
 aliases:
   - "Leilon Point"
+  - Leilon Point
 ---
 # Leilon Point
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

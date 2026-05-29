@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: New Magic and Special Items"
+linter-yaml-title-alias: "Appendix C: New Magic and Special Items"
 tags:
   - Quelle/5e/imr
 aliases:

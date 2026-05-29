@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Dissonant Whispers
+linter-yaml-title-alias: Dissonant Whispers
+classes:
+  - Bard
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock (Great Old One Patron)
 tags:
   - Klasse/Barde
   - Kompendium/Talent/fey-touched
@@ -8,13 +13,8 @@ tags:
   - Subklasse/great-old-one-patron
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock (Great Old One Patron)
 aliases:
   - Dissonant Whispers
-linter-yaml-title-alias: Dissonant Whispers
 ---
 # Dissonant Whispers
 *1st-level, Enchantment*  

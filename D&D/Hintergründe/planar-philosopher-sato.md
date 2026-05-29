@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Planar Philosopher
+linter-yaml-title-alias: Planar Philosopher
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/sato
 aliases:
   - "Planar Philosopher"
+  - Planar Philosopher
 ---
 # Planar Philosopher
 *Source: Sigil and the Outlands p. 8*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Massen-Heilung
+linter-yaml-title-alias: Massen-Heilung
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
@@ -7,6 +8,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Mass Heal
+  - Massen-Heilung
 ---
 # Massen-Heilung
 *9th-level, Evocation*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Poisonous Snakes
+linter-yaml-title-alias: Swarm of Poisonous Snakes
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

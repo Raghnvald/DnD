@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kontakt zu anderen Ebenen
+linter-yaml-title-alias: Kontakt zu anderen Ebenen
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Contact Other Plane
+  - Kontakt zu anderen Ebenen
 ---
 # Kontakt zu anderen Ebenen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Erkenntniszauber.webp#token)

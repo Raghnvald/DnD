@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Abracadabrus
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Abracadabrus
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - Abracadabrus
-linter-yaml-title-alias: Abracadabrus
 ---
 # Abracadabrus
 *Wondrous item, very rare*  

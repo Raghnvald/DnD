@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Dragon Statue
+linter-yaml-title-alias: Stone Dragon Statue
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

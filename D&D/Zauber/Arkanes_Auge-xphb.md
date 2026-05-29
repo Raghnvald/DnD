@@ -6,6 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Arcane Eye
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Knowledge Domain)
+  - Cleric (Light Domain)
+  - Fighter (Eldritch Knight)
+  - Ranger (Swarmkeeper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Draconic Sorcery)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -21,20 +33,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/visions-of-distant-realms
   - Zauber/Schule/Erkenntnis
-classes:
-  - Artificer
-  - Bard
-  - Cleric (Knowledge Domain)
-  - Cleric (Light Domain)
-  - Fighter (Eldritch Knight)
-  - Ranger (Swarmkeeper)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Draconic Sorcery)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Arcane Eye
-linter-yaml-title-alias: Arcane Eye
 ---
 # Arcane Eye
 *4th-level, Divination*  

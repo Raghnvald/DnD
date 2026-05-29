@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Druidcraft
+linter-yaml-title-alias: Spells for Charm of Druidcraft
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-druidcraft
 aliases:
   - "Spells for Charm of Druidcraft"
+  - Spells for Charm of Druidcraft
 ---
 # Spells for Charm of Druidcraft
 

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Unheimliche Sicht
+linter-yaml-title-alias: Unheimliche Sicht
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb
 aliases:
   - Eldritch Sight
+  - Unheimliche Sicht
 ---
 # Unheimliche Sicht
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

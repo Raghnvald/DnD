@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: King Hekaton
+linter-yaml-title-alias: King Hekaton
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - King Hekaton
-linter-yaml-title-alias: King Hekaton
 ---
 # [King Hekaton](3-Mechanics\CLI\bestiary\npc/king-hekaton-skt.md)
 *Source: Storm King's Thunder p. 222*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jade Tigress
+linter-yaml-title-alias: Jade Tigress
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cm
 aliases:
   - Jade Tigress
-linter-yaml-title-alias: Jade Tigress
 ---
 # [Jade Tigress](3-Mechanics\CLI\bestiary\npc/jade-tigress-cm.md)
 *Source: Candlekeep Mysteries p. 166*  

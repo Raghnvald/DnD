@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Jaspis
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Jaspis
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Jasper
-linter-yaml-title-alias: Jasper
+  - Jaspis
 ---
 # Jaspis
 *Schatz (Edelstein)*  

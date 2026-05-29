@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix E: Story Concept Art"
+linter-yaml-title-alias: "Appendix E: Story Concept Art"
 tags:
   - Quelle/5e/crcotn
 aliases:

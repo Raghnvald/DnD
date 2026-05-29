@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supernatural Hooks
+linter-yaml-title-alias: Supernatural Hooks
 tags:
   - Quelle/5e/xdmg
 aliases:

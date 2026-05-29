@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Purphoros's Devotee"
+linter-yaml-title-alias: "Spells for Purphoros's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/purphoross-devotee
 aliases:

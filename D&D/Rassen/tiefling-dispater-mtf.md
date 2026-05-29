@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Dispater)
+linter-yaml-title-alias: Tiefling (Dispater)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/dispater

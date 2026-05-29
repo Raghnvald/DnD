@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Lesser Hammock of Worlds
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Lesser Hammock of Worlds
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/jttrc
 aliases:
   - Lesser Hammock of Worlds
-linter-yaml-title-alias: Lesser Hammock of Worlds
 ---
 # Lesser Hammock of Worlds
 *Wondrous item, legendary*  

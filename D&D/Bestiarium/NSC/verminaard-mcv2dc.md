@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Verminaard
+linter-yaml-title-alias: Verminaard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/17
   - Monster/Typ/Humanoid/cleric
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/mcv2dc
 aliases:
   - Verminaard
-linter-yaml-title-alias: Verminaard
 ---
 # [Verminaard](3-Mechanics\CLI\bestiary\npc/verminaard-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 15*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Astromancy Archive
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Astromancy Archive
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Astromancy Archive
-linter-yaml-title-alias: Astromancy Archive
 ---
 # Astromancy Archive
 *Wondrous item, rare (requires attunement by a wizard)*  

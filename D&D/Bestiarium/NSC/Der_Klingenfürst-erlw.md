@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Lord of Blades
+linter-yaml-title-alias: The Lord of Blades
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - The Lord of Blades
-linter-yaml-title-alias: The Lord of Blades
 ---
 # [The Lord of Blades](3-Mechanics\CLI\bestiary\npc/the-lord-of-blades-erlw.md)
 *Source: Eberron: Rising from the Last War p. 300*  

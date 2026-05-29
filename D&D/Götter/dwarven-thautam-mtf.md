@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thautam
+linter-yaml-title-alias: Thautam
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

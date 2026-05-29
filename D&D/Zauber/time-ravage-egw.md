@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Time Ravage
 Zaubergrad: 9
+linter-yaml-title-alias: Time Ravage
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/9

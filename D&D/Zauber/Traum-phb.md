@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Dream
 Zaubergrad: 5
+linter-yaml-title-alias: Dream
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Grassland)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/grassland
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Grassland)
-  - Warlock
-  - Wizard
 aliases:
   - Dream
-linter-yaml-title-alias: Dream
 ---
 # Dream
 *5th-level, Illusion*  

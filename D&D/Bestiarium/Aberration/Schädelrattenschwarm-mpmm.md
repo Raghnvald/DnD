@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
 status: WIP
+linter-yaml-title-alias: Schädelrattenschwarm
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -14,6 +15,7 @@ tags:
   - Monster/Typ/Aberration
   - Quelle/5e/mpmm
 aliases:
+  - Schädelrattenschwarm
   - Swarm of Cranium Rats
 ---
 # Schädelrattenschwarm

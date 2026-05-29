@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 2: Inside the Crypts"
+linter-yaml-title-alias: "Part 2: Inside the Crypts"
 tags:
   - Quelle/5e/aitfr-avt
 aliases:

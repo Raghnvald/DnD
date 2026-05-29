@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trickery Domain
+linter-yaml-title-alias: Trickery Domain
 tags:
   - Klasse/Kleriker/trickery
   - Kompendium/Götter/Domäne/trickery

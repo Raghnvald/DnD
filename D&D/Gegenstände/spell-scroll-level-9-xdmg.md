@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spell Scroll (Level 9)
+linter-yaml-title-alias: Spell Scroll (Level 9)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Spell Scroll (Level 9)
-linter-yaml-title-alias: Spell Scroll (Level 9)
 ---
 # Spell Scroll (Level 9)
 *Scroll, legendary*  

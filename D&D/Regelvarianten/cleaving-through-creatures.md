@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cleaving Through Creatures
+linter-yaml-title-alias: Cleaving Through Creatures
 tags:
   - Quelle/5e/dmg
 aliases:

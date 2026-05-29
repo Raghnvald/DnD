@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Tierfreundschaft
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -16,14 +22,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
 aliases:
   - Animal Friendship
-linter-yaml-title-alias: Tierfreundschaft
+  - Tierfreundschaft
 ---
 # Tierfreundschaft
 *Verzauberung des 1. Grades*

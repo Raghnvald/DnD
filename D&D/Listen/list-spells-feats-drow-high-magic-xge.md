@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Drow High Magic
+linter-yaml-title-alias: Spells for Drow High Magic
 tags:
   - Zauber/list/feat/drow-high-magic
 aliases:

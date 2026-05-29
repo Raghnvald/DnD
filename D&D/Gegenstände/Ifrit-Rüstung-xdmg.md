@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Efreeti Chain
 Rüstung: Mittel oder Schwer
+linter-yaml-title-alias: Efreeti Chain
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -12,7 +13,6 @@ aliases:
   - Efreeti Chain
   - Efreeti Chain Mail
   - Efreeti Chain Shirt
-linter-yaml-title-alias: Efreeti Chain
 ---
 # Efreeti Chain
 *Legendary (requires attunement)*  

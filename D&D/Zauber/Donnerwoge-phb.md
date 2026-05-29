@@ -7,6 +7,15 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 2d8 Schall
+linter-yaml-title-alias: Donnerwoge
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -21,17 +30,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/fist-of-four-thunders
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Thunderwave
-linter-yaml-title-alias: Thunderwave
+  - Donnerwoge
 ---
 # Donnerwoge
 *Hervorrufung des 1. Grades*

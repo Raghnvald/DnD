@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thrown Weapon Fighting
+linter-yaml-title-alias: Thrown Weapon Fighting
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

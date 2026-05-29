@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flesh Colossus
+linter-yaml-title-alias: Flesh Colossus
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/20

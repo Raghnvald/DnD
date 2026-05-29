@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ekene-Afa
+linter-yaml-title-alias: Ekene-Afa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Ekene-Afa
-linter-yaml-title-alias: Ekene-Afa
 ---
 # [Ekene-Afa](3-Mechanics\CLI\bestiary\npc/ekene-afa-toa.md)
 *Source: Tomb of Annihilation p. 25*  

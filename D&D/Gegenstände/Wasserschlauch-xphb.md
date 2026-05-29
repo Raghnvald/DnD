@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Waterskin
+linter-yaml-title-alias: Waterskin
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Waterskin
-linter-yaml-title-alias: Waterskin
 ---
 # Waterskin
 *Adventuring gear*  

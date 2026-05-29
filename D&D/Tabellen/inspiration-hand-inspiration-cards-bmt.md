@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inspiration Hand; Inspiration Cards
+linter-yaml-title-alias: Inspiration Hand; Inspiration Cards
 tags:
   - Quelle/5e/bmt
 aliases:

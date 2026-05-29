@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Dragonmark Outpost
+linter-yaml-title-alias: Dragonmark Outpost
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
   - "Dragonmark Outpost"
+  - Dragonmark Outpost
 ---
 # Dragonmark Outpost
 *Level 5 Bastion facility*  

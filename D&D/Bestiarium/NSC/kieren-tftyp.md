@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kieren
+linter-yaml-title-alias: Kieren
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/tftyp
 aliases:
   - Kieren
-linter-yaml-title-alias: Kieren
 ---
 # [Kieren](3-Mechanics\CLI\bestiary\npc/kieren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

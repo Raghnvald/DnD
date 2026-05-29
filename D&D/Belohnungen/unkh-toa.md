@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unkh
+linter-yaml-title-alias: Unkh
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa

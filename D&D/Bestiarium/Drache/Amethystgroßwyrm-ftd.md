@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/Amethyst-Greatwyrm-ftd.webp
 status: WIP
+linter-yaml-title-alias: Amethyst Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/26
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Amethyst Greatwyrm
-linter-yaml-title-alias: Amethyst Greatwyrm
 ---
 # [Amethyst Greatwyrm](3-Mechanics\CLI\bestiary\dragon/amethyst-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  

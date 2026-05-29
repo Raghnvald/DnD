@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Locate Creature
+linter-yaml-title-alias: Locate Creature
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Order Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,21 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Order Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Locate Creature
-linter-yaml-title-alias: Locate Creature
 ---
 # Locate Creature
 *4th-level, Divination*  

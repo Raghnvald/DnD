@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skill Variants
+linter-yaml-title-alias: Skill Variants
 tags:
   - Quelle/5e/dmg
 aliases:

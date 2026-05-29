@@ -7,6 +7,12 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: Nahkampf
 Schaden: 1d6 Stich
+linter-yaml-title-alias: Dornenpeitsche
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,14 +23,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tomecssclasses:
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
 aliases:
+  - Dornenpeitsche
   - Thorn Whip
-linter-yaml-title-alias: Dornenpeitsche
 ---
 # Dornenpeitsche
 *Zaubertrick der Verwandlung*  

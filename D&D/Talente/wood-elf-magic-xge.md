@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wood Elf Magic
+linter-yaml-title-alias: Wood Elf Magic
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

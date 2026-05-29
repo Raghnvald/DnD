@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Irresistible Offense
+linter-yaml-title-alias: Boon of Irresistible Offense
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

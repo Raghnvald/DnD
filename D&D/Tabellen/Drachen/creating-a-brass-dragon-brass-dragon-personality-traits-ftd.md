@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Brass Dragon; Brass Dragon Personality Traits
+linter-yaml-title-alias: Creating a Brass Dragon; Brass Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

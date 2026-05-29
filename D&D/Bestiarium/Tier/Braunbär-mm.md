@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brown Bear
+linter-yaml-title-alias: Brown Bear
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

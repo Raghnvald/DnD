@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Customization Options
+linter-yaml-title-alias: Customization Options
 tags:
   - Quelle/5e/phb
 aliases:

@@ -6,6 +6,16 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Aura of Vitality
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Twilight Domain)
+  - Druid
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -18,18 +28,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Battle Smith)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Twilight Domain)
-  - Druid
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Aura of Vitality
-linter-yaml-title-alias: Aura of Vitality
 ---
 # Aura of Vitality
 *3rd-level, Abjuration*  

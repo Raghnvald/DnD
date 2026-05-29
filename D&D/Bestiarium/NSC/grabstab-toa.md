@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grabstab
+linter-yaml-title-alias: Grabstab
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Grabstab
-linter-yaml-title-alias: Grabstab
 ---
 # [Grabstab](3-Mechanics\CLI\bestiary\npc/grabstab-toa.md)
 *Source: Tomb of Annihilation p. 89*  

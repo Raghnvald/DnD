@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Vampire
+linter-yaml-title-alias: Gnoll Vampire
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Gnoll Vampire
-linter-yaml-title-alias: Gnoll Vampire
 ---
 # [Gnoll Vampire](3-Mechanics\CLI\bestiary\undead/gnoll-vampire-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 290*  

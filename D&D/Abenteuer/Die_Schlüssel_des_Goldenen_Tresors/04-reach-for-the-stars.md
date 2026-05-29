@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Reach for the Stars
+linter-yaml-title-alias: Reach for the Stars
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Reach for the Stars"
+  - Reach for the Stars
 ---
 # Reach for the Stars
 *Source: Keys from the Golden Vault, p. 41* 

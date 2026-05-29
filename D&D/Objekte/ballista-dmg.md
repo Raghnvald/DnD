@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ballista
+linter-yaml-title-alias: Ballista
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon

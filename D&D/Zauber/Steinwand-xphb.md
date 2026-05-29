@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Wall of Stone
+linter-yaml-title-alias: Wall of Stone
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Druid (Circle of the Land, Arid Land)
+  - Sorcerer
+  - Warlock (The Genie, Dao)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -13,18 +23,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/optfeature/wave-of-rolling-earth
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard
-  - Druid
-  - Druid (Circle of the Land, Arid Land)
-  - Sorcerer
-  - Warlock (The Genie, Dao)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Wall of Stone
-linter-yaml-title-alias: Wall of Stone
 ---
 # Wall of Stone
 *5th-level, Evocation*  

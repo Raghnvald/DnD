@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Mirror of the Past
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mirror of the Past
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tftyp
 aliases:
   - Mirror of the Past
-linter-yaml-title-alias: Mirror of the Past
 ---
 # Mirror of the Past
 *Wondrous item, rare*  

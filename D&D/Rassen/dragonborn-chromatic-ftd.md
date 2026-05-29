@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn (Chromatic)
+linter-yaml-title-alias: Dragonborn (Chromatic)
 tags:
   - Quelle/5e/ftd
   - Rasse/dragonborn/chromatic

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Sargonnas
+linter-yaml-title-alias: Sargonnas
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Sargonnas"
+  - Sargonnas
 ---
 # Sargonnas
 *Source: Dragonlance: Shadow of the Dragon Queen p. 19* 

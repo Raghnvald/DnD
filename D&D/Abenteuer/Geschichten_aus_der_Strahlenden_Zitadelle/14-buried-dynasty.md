@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Buried Dynasty
+linter-yaml-title-alias: Buried Dynasty
 tags:
   - Quelle/5e/jttrc
 aliases:

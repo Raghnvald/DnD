@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Types of Espionage; Espionage Missions
+linter-yaml-title-alias: Types of Espionage; Espionage Missions
 tags:
   - Quelle/5e/erlw
 aliases:

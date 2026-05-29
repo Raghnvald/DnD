@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Clone
+linter-yaml-title-alias: Clone
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Wizard
 aliases:
   - Clone
-linter-yaml-title-alias: Clone
 ---
 # Clone
 *8th-level, Necromancy*  

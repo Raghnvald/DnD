@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pole
+linter-yaml-title-alias: Pole
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Pole
-linter-yaml-title-alias: Pole
 ---
 # Pole
 *Adventuring gear*  

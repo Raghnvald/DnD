@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Level 1 Hit Points by Class
+linter-yaml-title-alias: Level 1 Hit Points by Class
 tags:
   - Quelle/5e/xphb
 aliases:

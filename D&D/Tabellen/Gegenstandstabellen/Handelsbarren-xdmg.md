@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Handelsbarren
+linter-yaml-title-alias: Handelsbarren
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - Handelsbarren
   - Trade Bars
 ---
 # Handelsbarren

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlement Tables and Tracker; Defining Traits
+linter-yaml-title-alias: Settlement Tables and Tracker; Defining Traits
 tags:
   - Quelle/5e/xdmg
 aliases:

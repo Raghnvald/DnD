@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Monster Stat Block; Monster Features
+linter-yaml-title-alias: Creating a Monster Stat Block; Monster Features
 tags:
   - Quelle/5e/dmg
 aliases:

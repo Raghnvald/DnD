@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Erwecken
 Zaubergrad: 5
+linter-yaml-title-alias: Erwecken
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Awaken
-linter-yaml-title-alias: Erwecken
+  - Erwecken
 ---
 # Erwecken
 *Verwandlung des 5. Grades*  

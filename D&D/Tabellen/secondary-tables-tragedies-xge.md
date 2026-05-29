@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Tragedies
+linter-yaml-title-alias: Secondary Tables; Tragedies
 tags:
   - Quelle/5e/xge
 aliases:

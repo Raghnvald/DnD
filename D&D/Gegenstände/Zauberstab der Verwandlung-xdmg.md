@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Polymorph
+linter-yaml-title-alias: Wand of Polymorph
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Polymorph
-linter-yaml-title-alias: Wand of Polymorph
 ---
 # Wand of Polymorph
 *Wand, very rare (requires attunement by a spellcaster)*  

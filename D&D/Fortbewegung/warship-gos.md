@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warship
+linter-yaml-title-alias: Warship
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/sea

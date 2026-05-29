@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Übung für Klassenkombinationen
+linter-yaml-title-alias: Übung für Klassenkombinationen
 tags:
   - Quelle/5e/phb
 aliases:
   - Multiclassing Proficiencies
+  - Übung für Klassenkombinationen
 ---
 # Übung für Klassenkombinationen
 *Source: SRD / Basic Rules* 

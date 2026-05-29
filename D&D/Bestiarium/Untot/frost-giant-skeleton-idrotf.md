@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Skeleton
+linter-yaml-title-alias: Frost Giant Skeleton
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Frost Giant Skeleton
-linter-yaml-title-alias: Frost Giant Skeleton
 ---
 # [Frost Giant Skeleton](3-Mechanics\CLI\bestiary\undead/frost-giant-skeleton-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Immovable Rod
+linter-yaml-title-alias: Immovable Rod
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg
 aliases:
   - Immovable Rod
-linter-yaml-title-alias: Immovable Rod
 ---
 # Immovable Rod
 *Rod, uncommon*  

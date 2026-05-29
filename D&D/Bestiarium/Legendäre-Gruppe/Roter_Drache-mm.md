@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Red Dragon
+linter-yaml-title-alias: Red Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

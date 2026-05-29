@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Rassenmerkmale
+linter-yaml-title-alias: Rassenmerkmale
+aliases:
+  - Rassenmerkmale
 ---
 --
 Type: Player

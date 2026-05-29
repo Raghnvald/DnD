@@ -7,6 +7,10 @@ Komponenten: V, G
 Wirkungsdauer: 1 Runde
 Angriff: Fern
 Schaden: 4d6
+linter-yaml-title-alias: Lenkendes Geschoss
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -14,12 +18,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
-  - Guiding Bolt
-linter-yaml-title-alias: Guiding Bolt
+  - Lenkendes Geschoss
 ---
 # Lenkendes Geschoss
 *Hervorrufung des 1. Grades*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Seemann
+linter-yaml-title-alias: Seemann
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb
 aliases:
   - Sailor
+  - Seemann
 ---
 # Seemann
 *Source: Player's Handbook (2024) p. 184*  

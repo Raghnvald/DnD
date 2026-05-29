@@ -8,6 +8,7 @@ HG: 15
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Adult Sapphire Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Adult Sapphire Dragon
-linter-yaml-title-alias: Adult Sapphire Dragon
 ---
 # [Adult Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/adult-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 215*  

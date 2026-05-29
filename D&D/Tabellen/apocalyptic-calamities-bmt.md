@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Apocalyptic Calamities
+linter-yaml-title-alias: Apocalyptic Calamities
 tags:
   - Quelle/5e/bmt
 aliases:

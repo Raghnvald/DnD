@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pearl of Power
+linter-yaml-title-alias: Pearl of Power
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Pearl of Power
-linter-yaml-title-alias: Pearl of Power
 ---
 # Pearl of Power
 *Wondrous item, uncommon (requires attunement by a spellcaster)*  

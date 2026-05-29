@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 1: The Outer Lair"
+linter-yaml-title-alias: "Part 1: The Outer Lair"
 tags:
   - Quelle/5e/aitfr-dn
 aliases:

@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Magic Circle
+linter-yaml-title-alias: Magic Circle
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,21 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Ranger (Monster Slayer)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Magic Circle
-linter-yaml-title-alias: Magic Circle
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

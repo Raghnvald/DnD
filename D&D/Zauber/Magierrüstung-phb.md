@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: /
 Schaden: /
+linter-yaml-title-alias: "Magierrüstung "
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -18,15 +25,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/armor-of-shadows
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Mage Armor
-linter-yaml-title-alias: Mage Armor
+  - "Magierrüstung "
 ---
 # Magierrüstung 
 *Bann des 1. Grades*  

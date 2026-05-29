@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Chalcedon
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Chalcedon
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Chalcedony
-linter-yaml-title-alias: Chalcedony
+  - Chalcedon
 ---
 # Chalcedon
 *Schatz (Edelstein)*  

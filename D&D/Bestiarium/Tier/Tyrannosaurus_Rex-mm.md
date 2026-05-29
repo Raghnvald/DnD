@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tyrannosaurus Rex
+linter-yaml-title-alias: Tyrannosaurus Rex
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a White Dragon; White Dragon Ideals
+linter-yaml-title-alias: Creating a White Dragon; White Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

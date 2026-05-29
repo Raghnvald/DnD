@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Charming
+linter-yaml-title-alias: Staff of Charming
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Charming
-linter-yaml-title-alias: Staff of Charming
 ---
 # Staff of Charming
 *Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

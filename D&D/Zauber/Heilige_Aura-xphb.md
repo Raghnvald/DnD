@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Holy Aura
+linter-yaml-title-alias: Holy Aura
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/8
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Holy Aura
-linter-yaml-title-alias: Holy Aura
 ---
 # Holy Aura
 *8th-level, Abjuration*  

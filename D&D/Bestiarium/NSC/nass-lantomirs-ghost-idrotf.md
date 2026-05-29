@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Nass Lantomir's Ghost"
+linter-yaml-title-alias: "Nass Lantomir's Ghost"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Nass Lantomir's Ghost"
   - Nass Lantomir's Ghost
-linter-yaml-title-alias: "Nass Lantomir's Ghost"
 ---
 # [Nass Lantomir's Ghost](3-Mechanics\CLI\bestiary\npc/nass-lantomirs-ghost-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 272*  

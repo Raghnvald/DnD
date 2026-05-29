@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bandit Captain
+linter-yaml-title-alias: Bandit Captain
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

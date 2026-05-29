@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "The Nightsea's Succor"
+linter-yaml-title-alias: "The Nightsea's Succor"
 tags:
   - Quelle/5e/jttrc
 aliases:

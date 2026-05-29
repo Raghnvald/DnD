@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Sharpness
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+linter-yaml-title-alias: Sword of Sharpness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -14,7 +15,6 @@ aliases:
   - Longsword of Sharpness
   - Scimitar of Sharpness
   - Sword of Sharpness
-linter-yaml-title-alias: Sword of Sharpness
 ---
 # Sword of Sharpness
 *Major, very rare (requires attunement)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dark Shard Amulet
+linter-yaml-title-alias: Dark Shard Amulet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Dark Shard Amulet
-linter-yaml-title-alias: Dark Shard Amulet
 ---
 # Dark Shard Amulet
 *Wondrous item, common (requires attunement by a warlock)*  

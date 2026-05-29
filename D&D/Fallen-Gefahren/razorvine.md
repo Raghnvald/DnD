@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Razorvine
+linter-yaml-title-alias: Razorvine
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/dmg

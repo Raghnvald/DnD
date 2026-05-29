@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bronze Dragon Scale Mail
 Rüstung: Mittel
+linter-yaml-title-alias: Bronze Dragon Scale Mail
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Bronze Dragon Scale Mail
-linter-yaml-title-alias: Bronze Dragon Scale Mail
 ---
 # Bronze Dragon Scale Mail
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), very rare (requires attunement)*  

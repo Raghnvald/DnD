@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Repeating Shot
+linter-yaml-title-alias: Repeating Shot
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

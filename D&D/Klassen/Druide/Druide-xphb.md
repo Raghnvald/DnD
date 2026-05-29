@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Druid
+linter-yaml-title-alias: Druid
 tags:
   - Klasse/Druide
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Life Domain
+linter-yaml-title-alias: Spells for Life Domain
 tags:
   - Zauber/list/subclass/life-domain
 aliases:

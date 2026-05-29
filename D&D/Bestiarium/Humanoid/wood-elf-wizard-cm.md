@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wood Elf Wizard
+linter-yaml-title-alias: Wood Elf Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

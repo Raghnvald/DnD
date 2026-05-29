@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quasit
 Kategorie: Unhold
+linter-yaml-title-alias: Quasit
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1

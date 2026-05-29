@@ -1,5 +1,10 @@
 ---
 Bezeichnung: "Tasha's Bubbling Cauldron"
+linter-yaml-title-alias: "Tasha's Bubbling Cauldron"
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 aliases:
-  - Tasha's Bubbling Cauldron
-linter-yaml-title-alias: Tasha's Bubbling Cauldron
+  - "Tasha's Bubbling Cauldron"
 ---
 # Tasha's Bubbling Cauldron
 *6th-level, Conjuration*  

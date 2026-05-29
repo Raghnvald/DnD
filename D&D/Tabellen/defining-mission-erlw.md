@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Defining Mission
+linter-yaml-title-alias: Defining Mission
 tags:
   - Quelle/5e/erlw
 aliases:

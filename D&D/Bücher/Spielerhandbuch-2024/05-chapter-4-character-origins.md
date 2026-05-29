@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Character Origins"
+linter-yaml-title-alias: "Chapter 4: Character Origins"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Chapter 4: Character Origins"
   - Chapter 4: Character Origins
 ---
 # Chapter 4: Character Origins

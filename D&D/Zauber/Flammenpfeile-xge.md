@@ -7,6 +7,17 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/v
 Schaden: 1d6 Feuer
+linter-yaml-title-alias: Flammenpfeile
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -20,19 +31,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Flame Arrows
-linter-yaml-title-alias: Flammenpfeile
+  - Flammenpfeile
 ---
 # Flammenpfeile
 *Verwandlung des 3. Grades*  

@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Guidance
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Bard (College of Spirits)
+  - Cleric
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Stars)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-der-Geister
@@ -25,18 +35,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Erkenntnis
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Bard (College of Spirits)
-  - Cleric
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Stars)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Guidance
-linter-yaml-title-alias: Guidance
 ---
 # Guidance
 *cantrip, Divination*  

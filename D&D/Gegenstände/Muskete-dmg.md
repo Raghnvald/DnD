@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Musket
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Musket
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Musket
-linter-yaml-title-alias: Musket
 ---
 # Musket
 *Weapon*  

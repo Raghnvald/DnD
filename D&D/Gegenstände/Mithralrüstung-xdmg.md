@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mithral Armor
 Rüstung: Mittel oder Schwer
+linter-yaml-title-alias: Mithral Armor
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -17,7 +18,6 @@ aliases:
   - Mithral Ring Mail
   - Mithral Scale Mail
   - Mithral Splint Armor
-linter-yaml-title-alias: Mithral Armor
 ---
 # Mithral Armor
 *Uncommon*  

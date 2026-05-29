@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Protection from Poison
 Zaubergrad: 2
+linter-yaml-title-alias: Protection from Poison
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -10,15 +17,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Paladin
-  - Ranger
 aliases:
   - Protection from Poison
-linter-yaml-title-alias: Protection from Poison
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

@@ -7,6 +7,18 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Dürre
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Death Domain)
+  - Druid
+  - Druid (Circle of the Land, Desert)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -21,20 +33,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Death Domain)
-  - Druid
-  - Druid (Circle of the Land, Desert)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Blight
-linter-yaml-title-alias: Blight
+  - Dürre
 ---
 # Dürre
 *Nekromantie des 4. Grades*

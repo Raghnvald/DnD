@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Wound Closure
+linter-yaml-title-alias: Blessing of Wound Closure
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/xdmg

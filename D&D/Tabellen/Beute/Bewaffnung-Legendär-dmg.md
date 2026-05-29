@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armaments - Legendary
+linter-yaml-title-alias: Armaments - Legendary
 tags:
   - Quelle/5e/xdmg
 aliases:

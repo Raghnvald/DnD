@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Cubic Gate
+linter-yaml-title-alias: Cubic Gate
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Cubic Gate
-linter-yaml-title-alias: Cubic Gate
 ---
 # Cubic Gate
 *Wondrous item, legendary*  

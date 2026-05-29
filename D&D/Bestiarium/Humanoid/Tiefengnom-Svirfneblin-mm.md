@@ -2,11 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deep Gnome (Svirfneblin)
+linter-yaml-title-alias: Deep Gnome (Svirfneblin)
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Unterreich
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
   - Quelle/5e/mm
 aliases:
   - Deep Gnome (Svirfneblin)

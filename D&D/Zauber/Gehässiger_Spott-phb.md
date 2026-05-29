@@ -7,6 +7,9 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Vicious Mockery
+classes:
+  - Bard (Magical Secrets)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Kompendium/Talent/magic-initiate/bard-spells
@@ -14,11 +17,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
 aliases:
   - Vicious Mockery
-linter-yaml-title-alias: Vicious Mockery
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  

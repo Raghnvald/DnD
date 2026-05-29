@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Giant Insect
 Zaubergrad: 4
+linter-yaml-title-alias: Giant Insect
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Giant Insect
-linter-yaml-title-alias: Giant Insect
 ---
 # Giant Insect
 *4th-level, Transmutation*  

@@ -5,6 +5,7 @@ Bezeichnung: Ettercap
 Kategorie: Monstrosität
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ettercap
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

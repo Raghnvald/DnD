@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Portable Hole
+linter-yaml-title-alias: Portable Hole
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Portable Hole
-linter-yaml-title-alias: Portable Hole
 ---
 # Portable Hole
 *Wondrous item, rare*  

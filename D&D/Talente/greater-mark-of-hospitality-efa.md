@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Hospitality
+linter-yaml-title-alias: Greater Mark of Hospitality
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Greater Mark of Hospitality"
+  - Greater Mark of Hospitality
 ---
 # Greater Mark of Hospitality
 *Source: Eberron: Forge of the Artificer p. 44*  

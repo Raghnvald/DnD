@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Rope Trick
+linter-yaml-title-alias: Rope Trick
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Ranger (Gloom Stalker)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -11,17 +20,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Ranger (Gloom Stalker)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Rope Trick
-linter-yaml-title-alias: Rope Trick
 ---
 # Rope Trick
 *2nd-level, Transmutation*  

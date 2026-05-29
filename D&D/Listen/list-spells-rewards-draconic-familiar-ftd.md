@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Draconic Familiar
+linter-yaml-title-alias: Spells for Draconic Familiar
 tags:
   - Zauber/list/reward/draconic-familiar
 aliases:

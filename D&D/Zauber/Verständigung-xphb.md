@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Sending
+linter-yaml-title-alias: Sending
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Peace Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,20 +27,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/far-scribe
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Peace Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Aberrant Sorcery)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Sending
-linter-yaml-title-alias: Sending
 ---
 # Sending
 *3rd-level, Divination*  

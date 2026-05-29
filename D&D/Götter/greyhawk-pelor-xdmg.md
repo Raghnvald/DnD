@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pelor
+linter-yaml-title-alias: Pelor
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

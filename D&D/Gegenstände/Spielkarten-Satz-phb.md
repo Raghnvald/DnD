@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Satz Spielkarten
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 SM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Satz Spielkarten
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Playing Card Set
-linter-yaml-title-alias: Playing Card Set
+  - Satz Spielkarten
 ---
 # Satz Spielkarten
 *Spiel*

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wand of Conducting
+linter-yaml-title-alias: Wand of Conducting
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg
 aliases:
   - Wand of Conducting
-linter-yaml-title-alias: Wand of Conducting
 ---
 # Wand of Conducting
 *Wand, common*  

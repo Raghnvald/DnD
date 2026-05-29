@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Fabricate
+linter-yaml-title-alias: Fabricate
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Forge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -10,16 +18,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Cleric (Forge Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Fabricate
-linter-yaml-title-alias: Fabricate
 ---
 # Fabricate
 *4th-level, Transmutation*  

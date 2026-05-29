@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragon Blessed
+linter-yaml-title-alias: Dragon Blessed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlement Tables and Tracker; Tavern Names
+linter-yaml-title-alias: Settlement Tables and Tracker; Tavern Names
 tags:
   - Quelle/5e/xdmg
 aliases:

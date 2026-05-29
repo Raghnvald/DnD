@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: New Artifacts"
+linter-yaml-title-alias: "Appendix B: New Artifacts"
 tags:
   - Quelle/5e/aitfr-avt
 aliases:

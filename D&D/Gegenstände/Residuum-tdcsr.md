@@ -1,12 +1,17 @@
 ---
 Bezeichnung: Residuum
+Eigenschaften:
+  - /
+Kst.: 500 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Residuum
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/tdcsr
 aliases:
   - Residuum
-linter-yaml-title-alias: Residuum
 ---
 # Residuum
 *Trade good*  

@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ulder Ravengard
+linter-yaml-title-alias: Ulder Ravengard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Ulder Rabenwacht
   - Ulder Ravengard
-linter-yaml-title-alias: Ulder Ravengard
 ---
 # [Ulder Ravengard](3-Mechanics\CLI\bestiary\npc/ulder-ravengard-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 70*  

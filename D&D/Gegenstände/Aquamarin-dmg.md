@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Aquamarin
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 500 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Aquamarin
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Aquamarine
-linter-yaml-title-alias: Aquamarine
+  - Aquamarin
 ---
 # Aquamarin
 *Schatz (Edelstein)*  

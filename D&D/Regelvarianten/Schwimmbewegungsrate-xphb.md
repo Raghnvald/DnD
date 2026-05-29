@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swim Speed
+linter-yaml-title-alias: Swim Speed
 tags:
   - Quelle/5e/xphb
 aliases:

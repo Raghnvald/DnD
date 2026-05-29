@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vargouille
+linter-yaml-title-alias: Vargouille
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Sumpf

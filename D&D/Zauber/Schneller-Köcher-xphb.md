@@ -1,15 +1,15 @@
 ---
 Bezeichnung: Swift Quiver
+linter-yaml-title-alias: Swift Quiver
+classes:
+  - Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Ranger
 aliases:
   - Swift Quiver
-linter-yaml-title-alias: Swift Quiver
 ---
 # Swift Quiver
 *5th-level, Transmutation*  

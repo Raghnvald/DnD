@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Ritual Caster
+linter-yaml-title-alias: Spells for Ritual Caster
 tags:
   - Zauber/list/feat/ritual-caster
 aliases:

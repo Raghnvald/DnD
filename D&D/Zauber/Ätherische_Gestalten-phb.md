@@ -6,6 +6,13 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Ätherische Gestalten
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -15,15 +22,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
+  - Ätherische Gestalten
   - Etherealness
-linter-yaml-title-alias: Ätherische Gestalten
 ---
 # Ätherische Gestalten
 _Verwandlung des 8. Grades_

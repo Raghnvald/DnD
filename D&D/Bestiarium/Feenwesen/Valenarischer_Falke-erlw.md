@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valenar Hawk
+linter-yaml-title-alias: Valenar Hawk
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-8

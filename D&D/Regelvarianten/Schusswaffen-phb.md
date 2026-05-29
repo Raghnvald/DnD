@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Firearms
+linter-yaml-title-alias: Firearms
 tags:
   - Quelle/5e/dmg
 aliases:

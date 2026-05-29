@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Undersea Encounters
+linter-yaml-title-alias: Undersea Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

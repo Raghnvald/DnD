@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lizardfolk Names – General
+linter-yaml-title-alias: Lizardfolk Names – General
 tags:
   - Quelle/5e/gos
 aliases:

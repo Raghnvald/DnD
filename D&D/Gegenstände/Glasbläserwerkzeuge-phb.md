@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Glasbläserwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 30 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Glasbläserwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Glassblower's Tools
-linter-yaml-title-alias: Glassblower's Tools
+  - Glasbläserwerkzeuge
 ---
 # Glasbläserwerkzeuge
 *Handwerkszeug*

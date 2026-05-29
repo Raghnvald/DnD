@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Displacer Beast Kitten
+linter-yaml-title-alias: Displacer Beast Kitten
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-8

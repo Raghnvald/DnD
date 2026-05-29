@@ -8,6 +8,7 @@ HG: 1/8
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Knife
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-8

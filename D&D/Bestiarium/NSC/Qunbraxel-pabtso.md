@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Qunbraxel
+Image: token/qunbraxel-pabtso.webp
+linter-yaml-title-alias: Qunbraxel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Qunbraxel
-Image: token/qunbraxel-pabtso.webp
-linter-yaml-title-alias: Qunbraxel
 ---
 # Qunbraxel
 *Source: Phandelver and Below: The Shattered Obelisk p. 135*  

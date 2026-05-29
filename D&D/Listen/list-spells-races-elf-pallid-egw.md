@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Elf (Pallid)
+linter-yaml-title-alias: Spells for Elf (Pallid)
 tags:
   - Zauber/list/subrace/elf-pallid
 aliases:

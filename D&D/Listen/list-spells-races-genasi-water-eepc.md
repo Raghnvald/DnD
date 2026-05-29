@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Genasi (Water)
+linter-yaml-title-alias: Spells for Genasi (Water)
 tags:
   - Zauber/list/subrace/genasi-water
 aliases:

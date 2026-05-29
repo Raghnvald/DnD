@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Leilon
+linter-yaml-title-alias: Welcome to Leilon
 tags:
   - Quelle/5e/slw
 aliases:

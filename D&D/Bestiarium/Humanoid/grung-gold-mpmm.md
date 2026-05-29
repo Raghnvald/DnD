@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grung (Gold)
+linter-yaml-title-alias: Grung (Gold)
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Wald

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for The Genie
+linter-yaml-title-alias: Spells for The Genie
 tags:
   - Zauber/list/subclass/the-genie
 aliases:

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Healing
+linter-yaml-title-alias: Mark of Healing
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Healing"
+  - Mark of Healing
 ---
 # Mark of Healing
 *Source: Eberron: Forge of the Artificer p. 40*  

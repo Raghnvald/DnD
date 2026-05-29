@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonmarks and Their Houses
+linter-yaml-title-alias: Dragonmarks and Their Houses
 tags:
   - Quelle/5e/erlw
 aliases:

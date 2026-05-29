@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Ruin Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ruin Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Ruin Card
-linter-yaml-title-alias: Ruin Card
 ---
 # Ruin Card
 *Wondrous item, legendary*  

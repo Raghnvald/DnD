@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wereraven
+linter-yaml-title-alias: Wereraven
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/vrgr
 aliases:

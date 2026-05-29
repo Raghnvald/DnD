@@ -1,13 +1,18 @@
 ---
 Bezeichnung: White Ghost Orchid Seed
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: White Ghost Orchid Seed
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/jttrc
 aliases:
   - White Ghost Orchid Seed
-linter-yaml-title-alias: White Ghost Orchid Seed
 ---
 # White Ghost Orchid Seed
 *Adventuring gear*  

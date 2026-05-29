@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Dungeon Hazards; Dungeon Hazards
+linter-yaml-title-alias: Random Dungeon Hazards; Dungeon Hazards
 tags:
   - Quelle/5e/dmg
 aliases:

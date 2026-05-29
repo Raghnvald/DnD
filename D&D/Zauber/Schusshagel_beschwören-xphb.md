@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Conjure Barrage
+linter-yaml-title-alias: Conjure Barrage
+classes:
+  - Artificer (Battle Smith)
+  - Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb
   - Subklasse/battle-smith
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer (Battle Smith)
-  - Ranger
 aliases:
   - Conjure Barrage
-linter-yaml-title-alias: Conjure Barrage
 ---
 # Conjure Barrage
 *3rd-level, Conjuration*  

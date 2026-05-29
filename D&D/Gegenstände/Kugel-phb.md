@@ -1,17 +1,20 @@
 ---
 Bezeichnung: Kugel
 Kategorie: Fokus, Arkan
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 20 GM
 Gew.: 1,5 kg
+status: completed
+linter-yaml-title-alias: Kugel
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zauberfokus
   - Quelle/5e/phb
 aliases:
+  - Kugel
   - Orb
-linter-yaml-title-alias: Kugel
 ---
 # Kugel
 *Zauberfokus*

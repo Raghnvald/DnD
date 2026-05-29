@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Rogue Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Rogue Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Rogue Card
-linter-yaml-title-alias: Rogue Card
 ---
 # Rogue Card
 *Wondrous item, legendary*  

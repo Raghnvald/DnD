@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf Names – Male
+linter-yaml-title-alias: Dwarf Names – Male
 tags:
   - Quelle/5e/xge
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Dzaan's Simulacrum"
+linter-yaml-title-alias: "Dzaan's Simulacrum"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Dzaan's Simulacrum"
   - Dzaan's Simulacrum
-linter-yaml-title-alias: "Dzaan's Simulacrum"
 ---
 # [Dzaan's Simulacrum](3-Mechanics\CLI\bestiary\npc/dzaans-simulacrum-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 270*  

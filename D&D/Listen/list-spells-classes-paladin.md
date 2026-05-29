@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Paladin Spells
+linter-yaml-title-alias: Paladin Spells
 tags:
   - Zauber/list/class/paladin
 aliases:

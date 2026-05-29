@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heroes' Feast: Saving the Children's Menu"
+linter-yaml-title-alias: "Heroes' Feast: Saving the Children's Menu"
 tags:
   - Quelle/5e/hfstcm
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of the Watchers
+linter-yaml-title-alias: Oath of the Watchers
 tags:
   - Klasse/Paladin/watchers
   - Quelle/5e/tce

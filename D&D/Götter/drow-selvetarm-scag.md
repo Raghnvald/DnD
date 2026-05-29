@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Selvetarm
+linter-yaml-title-alias: Selvetarm
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/drow
   - Quelle/5e/scag
 aliases:
   - "Selvetarm"
+  - Selvetarm
 ---
 # Selvetarm
 *Source: Sword Coast Adventurer's Guide p. 23* 

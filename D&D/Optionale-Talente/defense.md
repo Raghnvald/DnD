@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Defense
+linter-yaml-title-alias: Defense
 tags:
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-p

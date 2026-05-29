@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Expert Sidekick
+linter-yaml-title-alias: Expert Sidekick
 tags:
   - Klasse/expert-sidekick
   - Quelle/5e/tce

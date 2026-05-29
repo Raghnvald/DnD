@@ -1,5 +1,11 @@
 ---
 Bezeichnung: "Heroes' Feast"
+linter-yaml-title-alias: "Heroes' Feast"
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
-  - Heroes' Feast
-linter-yaml-title-alias: Heroes' Feast
+  - "Heroes' Feast"
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

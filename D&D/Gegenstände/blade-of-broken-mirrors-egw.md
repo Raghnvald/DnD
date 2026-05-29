@@ -1,7 +1,14 @@
 ---
 Bezeichnung: Blade of Broken Mirrors
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - erfordert Einstimmung durch einen Humanoiden
+  - Finesse
+  - Leicht
+  - Vestige of Divergence
+  - Wurfwaffe
 Einstimmung: erfordert
+linter-yaml-title-alias: Blade of Broken Mirrors
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -10,7 +17,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Blade of Broken Mirrors
-linter-yaml-title-alias: Blade of Broken Mirrors
 ---
 # Blade of Broken Mirrors
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), artifact (requires attunement by a humanoid)*  

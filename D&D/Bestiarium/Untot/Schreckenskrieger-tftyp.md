@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Schreckenskrieger
+linter-yaml-title-alias: Schreckenskrieger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
   - Monster/Typ/Untote
   - Quelle/5e/tftyp
 aliases:
-  - Dread Warrior
-linter-yaml-title-alias: Dread Warrior
+  - Schreckenskrieger
 ---
 # Schreckenskrieger
 *Source: Tales from the Yawning Portal p. 233*  

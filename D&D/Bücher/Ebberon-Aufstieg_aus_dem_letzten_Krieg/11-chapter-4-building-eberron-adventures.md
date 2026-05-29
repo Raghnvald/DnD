@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Building Eberron Adventures"
+linter-yaml-title-alias: "Chapter 4: Building Eberron Adventures"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Chapter 4: Building Eberron Adventures"
   - Chapter 4: Building Eberron Adventures
 ---
 # Chapter 4: Building Eberron Adventures

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lacedon Ghoul
+linter-yaml-title-alias: Lacedon Ghoul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Lacedon Ghoul
-linter-yaml-title-alias: Lacedon Ghoul
 ---
 # [Lacedon Ghoul](3-Mechanics\CLI\bestiary\undead/lacedon-ghoul-xmm.md)
 *Source: Monster Manual (2024) p. 132*  

@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Animal Shapes
+linter-yaml-title-alias: Animal Shapes
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Animal Shapes
-linter-yaml-title-alias: Animal Shapes
 ---
 # Animal Shapes
 *8th-level, Transmutation*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Wie du dieses Buch verwendest
+linter-yaml-title-alias: Wie du dieses Buch verwendest
 tags:
   - Quelle/5e/tce
 aliases:
   - Using This Book
+  - Wie du dieses Buch verwendest
 ---
 # Wie du dieses Buch verwendest
 *Source: Tasha's Cauldron of Everything, p. 4* 

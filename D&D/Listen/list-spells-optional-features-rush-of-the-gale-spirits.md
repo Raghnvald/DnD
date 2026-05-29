@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Rush of the Gale Spirits
+linter-yaml-title-alias: Spells for Rush of the Gale Spirits
 tags:
   - Zauber/list/optfeature/rush-of-the-gale-spirits
 aliases:

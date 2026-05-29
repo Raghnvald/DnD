@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Gehenna
+linter-yaml-title-alias: Layers of Gehenna
 tags:
   - Quelle/5e/xdmg
 aliases:

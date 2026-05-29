@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Soldier
+linter-yaml-title-alias: Soldier
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

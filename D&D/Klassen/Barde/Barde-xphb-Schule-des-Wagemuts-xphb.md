@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Valor
+linter-yaml-title-alias: College of Valor
 tags:
   - Klasse/Barde/Schule-des-Wagemuts
   - Quelle/5e/xphb
 aliases:
   - College of Valor
-linter-yaml-title-alias: College of Valor
 ---
 # College of Valor
 *[Bard](Barde-xphb.md): Bard Subclass*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Galvanice Weird
+linter-yaml-title-alias: Galvanice Weird
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kristallkugel
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kristallkugel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Kristallkugel
-linter-yaml-title-alias: Kristallkugel
 ---
 # Kristallkugel
 *Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)*  

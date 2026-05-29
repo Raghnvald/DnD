@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mysterious Passengers
+linter-yaml-title-alias: Mysterious Passengers
 tags:
   - Quelle/5e/erlw
 aliases:

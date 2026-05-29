@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bhaal, Gott des Mordes
+linter-yaml-title-alias: Bhaal, Gott des Mordes
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Tod
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Bhaal
+  - Bhaal, Gott des Mordes
 ---
 # Bhaal, Gott des Mordes
 *Quelle: SRD / Grundregelwerk* 

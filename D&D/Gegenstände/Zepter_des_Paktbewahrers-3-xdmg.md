@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Rod of the Pact Keeper
+linter-yaml-title-alias: +3 Rod of the Pact Keeper
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - +3 Rod of the Pact Keeper
-linter-yaml-title-alias: +3 Rod of the Pact Keeper
 ---
 # +3 Rod of the Pact Keeper
 *Rod, very rare (requires attunement by a warlock)*  

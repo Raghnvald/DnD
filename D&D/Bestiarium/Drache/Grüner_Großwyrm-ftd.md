@@ -7,6 +7,7 @@ Größe: Gigantisch
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Green Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/27
@@ -14,7 +15,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Green Greatwyrm
-linter-yaml-title-alias: Green Greatwyrm
 ---
 # [Green Greatwyrm](3-Mechanics\CLI\bestiary\dragon/green-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

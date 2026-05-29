@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Schild des Glaubens
 Zaubergrad: 1
+linter-yaml-title-alias: Schild des Glaubens
 tags:
   - Klasse/Kleriker
   - Klasse/Paladin
@@ -8,6 +9,7 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Bann
 aliases:
+  - Schild des Glaubens
   - Shield of Faith
 ---
 # Schild des Glaubens

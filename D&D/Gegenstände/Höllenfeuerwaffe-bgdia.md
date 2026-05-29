@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Hellfire Weapon
 Kategorie: Beliebige Waffe
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Hellfire Weapon
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -64,7 +69,6 @@ aliases:
   - Hellfire Weapon
   - Hellfire Whip
   - Hellfire Yklwa
-linter-yaml-title-alias: Hellfire Weapon
 ---
 # Hellfire Weapon
 *Uncommon*  

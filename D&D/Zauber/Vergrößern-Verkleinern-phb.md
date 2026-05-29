@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Enlarge/Reduce
 Zaubergrad: 2
+linter-yaml-title-alias: Enlarge/Reduce
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -10,15 +17,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Enlarge/Reduce
-linter-yaml-title-alias: Enlarge/Reduce
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

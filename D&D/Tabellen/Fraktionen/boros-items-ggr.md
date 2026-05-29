@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Items
+linter-yaml-title-alias: Boros Items
 tags:
   - Quelle/5e/ggr
 aliases:

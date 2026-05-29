@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Foundling
+linter-yaml-title-alias: Giant Foundling
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgg

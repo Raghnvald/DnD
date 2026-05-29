@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wraps of Dyamak (Dormant)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Wraps of Dyamak (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Wraps of Dyamak (Dormant)
-linter-yaml-title-alias: Wraps of Dyamak (Dormant)
 ---
 # Wraps of Dyamak (Dormant)
 *Wondrous item, legendary (requires attunement by a monk)*  

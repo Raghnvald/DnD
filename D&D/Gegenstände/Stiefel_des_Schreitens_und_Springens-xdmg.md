@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Boots of Striding and Springing
+linter-yaml-title-alias: Boots of Striding and Springing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Boots of Striding and Springing
-linter-yaml-title-alias: Boots of Striding and Springing
 ---
 # Boots of Striding and Springing
 *Wondrous item, uncommon (requires attunement)*  

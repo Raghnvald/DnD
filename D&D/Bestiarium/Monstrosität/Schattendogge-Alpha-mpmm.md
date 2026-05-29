@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow Mastiff Alpha
+linter-yaml-title-alias: Shadow Mastiff Alpha
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Hügel

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Welcome to Theros
+linter-yaml-title-alias: Welcome to Theros
 tags:
   - Quelle/5e/mot
 aliases:
   - "Welcome to Theros"
+  - Welcome to Theros
 ---
 # Welcome to Theros
 *Source: Mythic Odysseys of Theros, p. 5* 

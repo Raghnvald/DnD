@@ -4,11 +4,13 @@ prefer-view:
 Bezeichnung: Schwur der Hingabe
 status:
   - completed
+linter-yaml-title-alias: Schwur der Hingabe
 tags:
   - Klasse/Paladin
   - Quelle/5e/phb
 aliases:
   - Oath of Devotion
+  - Schwur der Hingabe
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
 type:

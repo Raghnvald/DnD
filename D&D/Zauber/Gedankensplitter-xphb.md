@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Mind Sliver
+classes:
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister
@@ -22,17 +31,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock
-  - Wizard
 aliases:
   - Mind Sliver
-linter-yaml-title-alias: Mind Sliver
 ---
 # Mind Sliver
 *cantrip, Enchantment*  

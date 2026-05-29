@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Misty Visions
+linter-yaml-title-alias: Spells for Misty Visions
 tags:
   - Zauber/list/optfeature/misty-visions
 aliases:

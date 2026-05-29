@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jalester Silvermane
+linter-yaml-title-alias: Jalester Silvermane
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Jalester Silvermane
-linter-yaml-title-alias: Jalester Silvermane
 ---
 # [Jalester Silvermane](3-Mechanics\CLI\bestiary\npc/jalester-silvermane-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  

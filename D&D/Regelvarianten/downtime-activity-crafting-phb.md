@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Crafting"
+linter-yaml-title-alias: "Downtime Activity: Crafting"
 tags:
   - Quelle/5e/phb
 aliases:
+  - "Downtime Activity: Crafting"
   - Downtime Activity: Crafting
 ---
 # Downtime Activity: Crafting

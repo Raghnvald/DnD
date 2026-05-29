@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demiplane
+linter-yaml-title-alias: Demiplane
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

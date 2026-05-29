@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Edelsteine zu 10 GM
+linter-yaml-title-alias: Edelsteine zu 10 GM
 tags:
   - Quelle/5e/xdmg
 aliases:
   - 10 GP Gemstones
+  - Edelsteine zu 10 GM
 ---
 # Edelsteine zu 10 GM
 *Quelle: Spielleiterhandbuch (2024), S. 214*

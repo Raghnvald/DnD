@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aerdrie Faenya
+linter-yaml-title-alias: Aerdrie Faenya
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/tempest

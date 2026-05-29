@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Behir
+linter-yaml-title-alias: Reduced-Threat Behir
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11

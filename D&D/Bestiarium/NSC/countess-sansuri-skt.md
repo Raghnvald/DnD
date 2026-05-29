@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Countess Sansuri
+linter-yaml-title-alias: Countess Sansuri
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Countess Sansuri
-linter-yaml-title-alias: Countess Sansuri
 ---
 # [Countess Sansuri](3-Mechanics\CLI\bestiary\npc/countess-sansuri-skt.md)
 *Source: Storm King's Thunder p. 192*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Tiefling (Mephistopheles)
+linter-yaml-title-alias: Spells for Tiefling (Mephistopheles)
 tags:
   - Zauber/list/subrace/tiefling-mephistopheles
 aliases:

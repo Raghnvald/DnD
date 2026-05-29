@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Strike of the Giants
+linter-yaml-title-alias: Strike of the Giants
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

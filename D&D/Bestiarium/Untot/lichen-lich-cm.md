@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lichen Lich
+linter-yaml-title-alias: Lichen Lich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Lichen Lich
-linter-yaml-title-alias: Lichen Lich
 ---
 # [Lichen Lich](3-Mechanics\CLI\bestiary\undead/lichen-lich-cm.md)
 *Source: Candlekeep Mysteries p. 223*  

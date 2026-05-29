@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Deck of Illusions
+linter-yaml-title-alias: Deck of Illusions
 tags:
   - Quelle/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
   - ttrpg-cli/item/tier/major
 aliases:
   - "Deck of Illusions"
+  - Deck of Illusions
 ---
 # Deck of Illusions
 *Wondrous item, major, uncommon*  

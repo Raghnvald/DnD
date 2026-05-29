@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Kruphix's Devotee"
+linter-yaml-title-alias: "Spells for Kruphix's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/kruphixs-devotee
 aliases:

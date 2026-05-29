@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Oil of Slipperiness
+linter-yaml-title-alias: Oil of Slipperiness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Oil of Slipperiness
-linter-yaml-title-alias: Oil of Slipperiness
 ---
 # Oil of Slipperiness
 *Potion, uncommon*  

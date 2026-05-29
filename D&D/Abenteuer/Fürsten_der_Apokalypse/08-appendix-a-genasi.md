@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Genasi"
+linter-yaml-title-alias: "Appendix A: Genasi"
 tags:
   - Quelle/5e/pota
 aliases:

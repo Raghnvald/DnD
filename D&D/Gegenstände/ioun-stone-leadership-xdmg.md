@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Leadership
+linter-yaml-title-alias: Ioun Stone, Leadership
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Leadership
-linter-yaml-title-alias: Ioun Stone, Leadership
 ---
 # Ioun Stone, Leadership
 *Wondrous item, very rare (requires attunement)*  

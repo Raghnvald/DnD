@@ -2,13 +2,15 @@
 Bezeichnung: Belebter Schild
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Belebter Schild
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Rüstung/Schild
@@ -16,7 +18,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Animated Shield
-linter-yaml-title-alias: Belebter Schild
+  - Belebter Schild
 ---
 # Belebter Schild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*  

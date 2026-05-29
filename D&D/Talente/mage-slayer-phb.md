@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mage Slayer
+linter-yaml-title-alias: Mage Slayer
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

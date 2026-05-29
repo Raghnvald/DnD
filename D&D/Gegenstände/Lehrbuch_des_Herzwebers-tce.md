@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Heart Weaver's Primer"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Heart Weaver's Primer"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
-  - Heart Weaver's Primer
-linter-yaml-title-alias: Heart Weaver's Primer
+  - "Heart Weaver's Primer"
 ---
 # Heart Weaver's Primer
 *Wondrous item, rare (requires attunement by a wizard)*  

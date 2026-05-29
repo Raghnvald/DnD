@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kitchen
+linter-yaml-title-alias: Kitchen
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

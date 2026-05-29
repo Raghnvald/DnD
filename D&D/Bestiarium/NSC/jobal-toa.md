@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jobal
+linter-yaml-title-alias: Jobal
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Jobal
-linter-yaml-title-alias: Jobal
 ---
 # [Jobal](3-Mechanics\CLI\bestiary\npc/jobal-toa.md)
 *Source: Tomb of Annihilation p. 26*  

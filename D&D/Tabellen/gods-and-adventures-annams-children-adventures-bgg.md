@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Gods and Adventures; Annam's Children Adventures"
+linter-yaml-title-alias: "Gods and Adventures; Annam's Children Adventures"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Gods and Adventures; Annam's Children Adventures"
   - Gods and Adventures; Annam's Children Adventures
 ---
 # Gods and Adventures; Annam's Children Adventures

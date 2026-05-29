@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Control Water
 Zaubergrad: 4
+linter-yaml-title-alias: Control Water
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Coast)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -13,18 +23,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Coast)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Control Water
-linter-yaml-title-alias: Control Water
 ---
 # Control Water
 *4th-level, Transmutation*  

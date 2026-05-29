@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Azorius Functionary
+linter-yaml-title-alias: Spells for Azorius Functionary
 tags:
   - Zauber/list/background/azorius-functionary
 aliases:

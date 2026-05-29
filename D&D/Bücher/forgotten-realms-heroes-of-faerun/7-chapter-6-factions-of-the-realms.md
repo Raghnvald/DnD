@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: Factions of the Realms"
+linter-yaml-title-alias: "Chapter 6: Factions of the Realms"
 tags:
   - Quelle/5e/frhof
 aliases:

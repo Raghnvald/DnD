@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gertruda
+linter-yaml-title-alias: Gertruda
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Gertruda
-linter-yaml-title-alias: Gertruda
 ---
 # Gertruda
 *Source: Curse of Strahd p. 68*  

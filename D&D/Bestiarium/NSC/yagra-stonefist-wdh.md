@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yagra Stonefist
+linter-yaml-title-alias: Yagra Stonefist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Yagra Stonefist
-linter-yaml-title-alias: Yagra Stonefist
 ---
 # [Yagra Stonefist](3-Mechanics\CLI\bestiary\npc/yagra-stonefist-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

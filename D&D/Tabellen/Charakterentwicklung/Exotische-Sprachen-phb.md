@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Exotic Languages
+linter-yaml-title-alias: Exotic Languages
 tags:
   - Quelle/5e/phb
 aliases:

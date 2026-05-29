@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Sending Stones
+linter-yaml-title-alias: Sending Stones
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Sending Stones
-linter-yaml-title-alias: Sending Stones
 ---
 # Sending Stones
 *Wondrous item, uncommon*  

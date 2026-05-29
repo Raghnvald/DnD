@@ -1,14 +1,18 @@
 ---
 Bezeichnung: Ring der Gedankenabschirmung
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring der Gedankenabschirmung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
+  - Ring der Gedankenabschirmung
   - Ring of Mind Shielding
-linter-yaml-title-alias: Ring der Gedankenabschirmung
 ---
 # Ring der Gedankenabschirmung
 *Ring, ungewöhnlich (erfordert Einstimmung)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Mind Master
+linter-yaml-title-alias: Duergar Mind Master
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

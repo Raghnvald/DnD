@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "6: Whimsical Names"
+linter-yaml-title-alias: "6: Whimsical Names"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "6: Whimsical Names"
   - "6": Whimsical Names
 ---
 # 6: Whimsical Names

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Purple Dragon Squire
+linter-yaml-title-alias: Purple Dragon Squire
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Purple Dragon Squire"
+  - Purple Dragon Squire
 ---
 # Purple Dragon Squire
 *Source: Forgotten Realms: Heroes of Faerûn p. 34*  

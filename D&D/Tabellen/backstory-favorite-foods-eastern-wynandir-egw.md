@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Favorite Foods (Eastern Wynandir)
+linter-yaml-title-alias: Backstory; Favorite Foods (Eastern Wynandir)
 tags:
   - Quelle/5e/egw
 aliases:

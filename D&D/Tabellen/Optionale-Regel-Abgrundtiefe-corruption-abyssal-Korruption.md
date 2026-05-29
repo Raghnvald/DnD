@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Optional Rule: Abyssal Corruption; Abyssal Corruption"
+linter-yaml-title-alias: "Optional Rule: Abyssal Corruption; Abyssal Corruption"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Optional Rule: Abyssal Corruption; Abyssal Corruption"
   - Optional Rule: Abyssal Corruption; Abyssal Corruption
 ---
 # Optional Rule: Abyssal Corruption; Abyssal Corruption

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 5
 status: WIP
+linter-yaml-title-alias: Feyr
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

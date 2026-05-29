@@ -2,9 +2,11 @@
 Bezeichnung: Flammenzunge
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+linter-yaml-title-alias: Flammenzunge
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -13,14 +15,13 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Flame Tongue
   - Flame Tongue Double-Bladed Scimitar
   - Flame Tongue Greatsword
   - Flame Tongue Longsword
   - Flame Tongue Rapier
   - Flame Tongue Scimitar
   - Flame Tongue Shortsword
-linter-yaml-title-alias: Flame Tongue
+  - Flammenzunge
 ---
 # Flammenzunge
 *Major, rare (requires attunement)*  

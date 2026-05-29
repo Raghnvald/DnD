@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Evocation
+linter-yaml-title-alias: School of Evocation
 tags:
   - Klasse/Magier/evocation
   - Quelle/5e/phb

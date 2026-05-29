@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Annis Hag
+linter-yaml-title-alias: Annis Hag
 tags:
   - Monster/legendary-group
   - Quelle/5e/vgm

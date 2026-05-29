@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Crawling King
+linter-yaml-title-alias: The Crawling King
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/trickery

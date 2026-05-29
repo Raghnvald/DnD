@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix F: Handouts"
+linter-yaml-title-alias: "Appendix F: Handouts"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Appendix F: Handouts"
   - Appendix F: Handouts
 ---
 # Appendix F: Handouts

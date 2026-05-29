@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Initiate of High Sorcery
+linter-yaml-title-alias: Spells for Initiate of High Sorcery
 tags:
   - ttrpg-cli/spell/list/feat/initiate-of-high-sorcery
 aliases:
   - "Spells for Initiate of High Sorcery"
+  - Spells for Initiate of High Sorcery
 ---
 # Spells for Initiate of High Sorcery
 

@@ -2,7 +2,6 @@
 Bezeichnung: Inspirierender Anführer
 tags:
   - Quelle/5e/phb
-aliases: []
 ---
 # Inspirierender Anführer
 

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of the Dead
+linter-yaml-title-alias: Champion of the Dead
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of the Dead"
+  - Champion of the Dead
 ---
 # Champion of the Dead
 *Piety Trait*  

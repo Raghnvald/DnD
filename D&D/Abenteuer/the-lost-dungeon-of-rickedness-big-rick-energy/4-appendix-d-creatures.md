@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Creatures"
+linter-yaml-title-alias: "Appendix D: Creatures"
 tags:
   - Quelle/5e/rmbre
 aliases:

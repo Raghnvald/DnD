@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Shami-Amourae, the Lady of Delights
+linter-yaml-title-alias: Dark Gift of Shami-Amourae, the Lady of Delights
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

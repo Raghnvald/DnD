@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mechanical Bird
+linter-yaml-title-alias: Mechanical Bird
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/Unbekannt

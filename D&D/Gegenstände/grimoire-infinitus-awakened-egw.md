@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Grimoire Infinitus (Awakened)
+linter-yaml-title-alias: Grimoire Infinitus (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
   - Grimoire Infinitus (Awakened)
-linter-yaml-title-alias: Grimoire Infinitus (Awakened)
 ---
 # Grimoire Infinitus (Awakened)
 *Wondrous item, legendary (requires attunement by a wizard)*  

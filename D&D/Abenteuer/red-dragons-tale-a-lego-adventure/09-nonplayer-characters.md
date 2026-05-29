@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Nonplayer Characters
+linter-yaml-title-alias: Nonplayer Characters
 tags:
   - Quelle/5e/lrdt
 aliases:
   - "Nonplayer Characters"
+  - Nonplayer Characters
 ---
 # Nonplayer Characters
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 11* 

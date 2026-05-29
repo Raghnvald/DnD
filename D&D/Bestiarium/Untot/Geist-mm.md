@@ -9,6 +9,8 @@ Habitat:
   - Stadt
   - Unterreich
 image: token/ghost.webp
+Status: completed
+linter-yaml-title-alias: Geist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -17,9 +19,7 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
-  - Ghost
-linter-yaml-title-alias: Ghost
-Status: completed
+  - Geist
 ---
 # Geist
 *Quelle: Monsterhandbuch  S. 132. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

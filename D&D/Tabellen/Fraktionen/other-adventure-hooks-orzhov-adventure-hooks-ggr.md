@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Other Adventure Hooks; Orzhov Adventure Hooks
+linter-yaml-title-alias: Other Adventure Hooks; Orzhov Adventure Hooks
 tags:
   - Quelle/5e/ggr
 aliases:

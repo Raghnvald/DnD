@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Standardsprachen
+linter-yaml-title-alias: Standardsprachen
 tags:
   - Quelle/5e/phb
 aliases:
   - Standard Languages
+  - Standardsprachen
 ---
 # Standardsprachen
 *Quelle: SRD / Grundregelwerk*

@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Voalsh
+Image: token/voalsh-pabtso.webp
+linter-yaml-title-alias: Voalsh
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Voalsh
-Image: token/voalsh-pabtso.webp
-linter-yaml-title-alias: Voalsh
 ---
 # Voalsh
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

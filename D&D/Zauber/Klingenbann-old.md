@@ -8,6 +8,7 @@ Angriff: nichts
 Schaden: Kampf
 status:
   - completed
+linter-yaml-title-alias: Klingenbann
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -19,6 +20,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Blade Ward
+  - Klingenbann
 ---
 # Klingenbann
 _Zaubertrick der Bannzauber_

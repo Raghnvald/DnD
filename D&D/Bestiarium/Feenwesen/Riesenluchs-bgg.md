@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Lynx
+linter-yaml-title-alias: Giant Lynx
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

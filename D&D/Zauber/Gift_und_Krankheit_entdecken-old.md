@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Detect Poison and Disease
+linter-yaml-title-alias: Detect Poison and Disease
 tags:
   - Klasse/Druide
   - Klasse/Kleriker
@@ -11,7 +12,6 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Detect Poison and Disease
-linter-yaml-title-alias: Detect Poison and Disease
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

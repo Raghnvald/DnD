@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waukeen
+linter-yaml-title-alias: Waukeen
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spiked Pit
+linter-yaml-title-alias: Spiked Pit
 tags:
   - Kompendium/Bedrohung/trp
   - Quelle/5e/xdmg

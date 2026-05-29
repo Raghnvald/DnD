@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Daern's Instant Fortress"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Daern's Instant Fortress"
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Daern's Instant Fortress
-linter-yaml-title-alias: "Daern's Instant Fortress"
+  - "Daern's Instant Fortress"
 ---
 # Daern's Instant Fortress
 *Wondrous item, major, rare*  

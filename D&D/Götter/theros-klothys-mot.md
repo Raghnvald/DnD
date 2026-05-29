@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Klothys
+linter-yaml-title-alias: Klothys
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/war
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Klothys"
+  - Klothys
 ---
 # Klothys
 *Source: Mythic Odysseys of Theros p. 58* 

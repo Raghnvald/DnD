@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daask Assignments
+linter-yaml-title-alias: Daask Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

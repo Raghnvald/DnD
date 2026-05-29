@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bat
+linter-yaml-title-alias: Bat
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

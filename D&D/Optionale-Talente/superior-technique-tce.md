@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Superior Technique
+linter-yaml-title-alias: Superior Technique
 tags:
   - Kompendium/Optionales/fs-f
   - Quelle/5e/tce

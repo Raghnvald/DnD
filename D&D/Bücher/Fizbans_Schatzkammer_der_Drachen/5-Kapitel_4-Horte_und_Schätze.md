@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lairs and Hoards
+linter-yaml-title-alias: Lairs and Hoards
 tags:
   - Quelle/5e/ftd
 aliases:

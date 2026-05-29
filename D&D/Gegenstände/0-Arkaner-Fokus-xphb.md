@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Arkaner Fokus
+linter-yaml-title-alias: Arkaner Fokus
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Arcane Focus
-linter-yaml-title-alias: Arkaner Fokus
+  - Arkaner Fokus
 ---
 # Arkaner Fokus
 *Zauberfokus*

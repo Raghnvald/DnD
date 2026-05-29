@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Magic Missile
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -20,18 +30,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Armorer)
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Magic Missile
-linter-yaml-title-alias: Magic Missile
 ---
 # Magic Missile
 *1st-level, Evocation*  

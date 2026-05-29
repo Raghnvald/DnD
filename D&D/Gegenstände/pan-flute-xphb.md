@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pan Flute
+linter-yaml-title-alias: Pan Flute
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Pan Flute
-linter-yaml-title-alias: Pan Flute
 ---
 # Pan Flute
 *Instrument*  

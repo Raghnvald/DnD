@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Forcecage
+classes:
+  - Bard
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -15,14 +21,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Forcecage
-linter-yaml-title-alias: Forcecage
 ---
 # Forcecage
 *7th-level, Evocation*  

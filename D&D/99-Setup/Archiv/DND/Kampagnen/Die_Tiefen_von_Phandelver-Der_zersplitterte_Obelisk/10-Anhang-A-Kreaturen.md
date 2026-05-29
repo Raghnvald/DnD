@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Anhang A: Kreaturen"
+linter-yaml-title-alias: "Anhang A: Kreaturen"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "Anhang A: Kreaturen"
   - Appendix A: Bestiary
 ---
 # Anhang A: Kreaturen

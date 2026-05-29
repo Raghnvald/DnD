@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hermod
+linter-yaml-title-alias: Hermod
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/norse

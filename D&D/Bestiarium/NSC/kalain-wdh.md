@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kalain
+linter-yaml-title-alias: Kalain
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Kalain
-linter-yaml-title-alias: Kalain
 ---
 # [Kalain](3-Mechanics\CLI\bestiary\npc/kalain-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 89*  

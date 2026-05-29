@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spell Bottle
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Spell Bottle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Spell Bottle
-linter-yaml-title-alias: Spell Bottle
 ---
 # Spell Bottle
 *Wondrous item, legendary (requires attunement)*  

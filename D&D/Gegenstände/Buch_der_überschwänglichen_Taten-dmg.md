@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Buch der überschwänglichen Taten
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Buch der überschwänglichen Taten
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Book of Exalted Deeds
-linter-yaml-title-alias: Book of Exalted Deeds
+  - Buch der überschwänglichen Taten
 ---
 # Buch der überschwänglichen Taten
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*  

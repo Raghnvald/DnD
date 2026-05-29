@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: The Village of Barovia"
+linter-yaml-title-alias: "Chapter 3: The Village of Barovia"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 3: The Village of Barovia"
   - Chapter 3: The Village of Barovia
 ---
 # Chapter 3: The Village of Barovia

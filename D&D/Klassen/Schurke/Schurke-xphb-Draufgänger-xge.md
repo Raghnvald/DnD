@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swashbuckler
+linter-yaml-title-alias: Swashbuckler
 tags:
   - Klasse/Schurke/swashbuckler
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Druidic Focus (Varies); Druidic Focuses
+linter-yaml-title-alias: Druidic Focus (Varies); Druidic Focuses
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vaasha
+linter-yaml-title-alias: Vaasha
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Vaasha
-linter-yaml-title-alias: Vaasha
 ---
 # [Vaasha](3-Mechanics\CLI\bestiary\npc/vaasha-skt.md)
 *Source: Storm King's Thunder p. 256*  

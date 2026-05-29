@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myconid Spore Servant
+linter-yaml-title-alias: Myconid Spore Servant
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Unterreich

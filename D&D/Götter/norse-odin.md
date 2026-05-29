@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Odin
+linter-yaml-title-alias: Odin
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/war

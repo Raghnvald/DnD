@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Quartz
+linter-yaml-title-alias: Quartz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Quartz
-linter-yaml-title-alias: Quartz
 ---
 # Quartz
 *Treasure (gemstone)*  

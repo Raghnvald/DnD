@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pit Fighting Complications
+linter-yaml-title-alias: Pit Fighting Complications
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Jade Serpent Staff
+linter-yaml-title-alias: Jade Serpent Staff
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/wdmm
 aliases:
   - Jade Serpent Staff
-linter-yaml-title-alias: Jade Serpent Staff
 ---
 # Jade Serpent Staff
 

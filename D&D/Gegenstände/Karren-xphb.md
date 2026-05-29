@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cart
+linter-yaml-title-alias: Cart
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Cart
-linter-yaml-title-alias: Cart
 ---
 # Cart
 *Vehicle (land)*  

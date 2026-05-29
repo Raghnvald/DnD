@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cog Hub Adventures
+linter-yaml-title-alias: Cog Hub Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

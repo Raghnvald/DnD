@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauber
+linter-yaml-title-alias: Zauber
 tags:
   - Quelle/5e/xge
 aliases:
   - Spells
+  - Zauber
 ---
 # Zauber
 *Source: Xanathar's Guide to Everything, p. 147* 

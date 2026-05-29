@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Earth Elemental
+linter-yaml-title-alias: Earth Elemental
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

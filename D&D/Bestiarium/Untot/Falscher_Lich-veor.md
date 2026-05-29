@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: False Lich
+Image: token/false-lich-veor.webp
 status: WIP
+linter-yaml-title-alias: False Lich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - False Lich
-IMAGE: token/false-lich-veor.webp
-linter-yaml-title-alias: False Lich
 ---
 # [False Lich](3-Mechanics\CLI\bestiary\undead/false-lich-veor.md)
 *Source: Vecna: Eve of Ruin p. 220*  

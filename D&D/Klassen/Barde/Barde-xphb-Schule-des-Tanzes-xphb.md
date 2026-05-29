@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Dance
+linter-yaml-title-alias: College of Dance
 tags:
   - Klasse/Barde/Schule-des-Tanzes
   - Quelle/5e/xphb
 aliases:
   - College of Dance
-linter-yaml-title-alias: College of Dance
 ---
 # College of Dance
 *[Bard](Barde-xphb.md): Bard Subclass*  

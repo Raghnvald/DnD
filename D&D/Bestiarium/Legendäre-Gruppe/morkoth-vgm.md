@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morkoth
+linter-yaml-title-alias: Morkoth
 tags:
   - Monster/legendary-group
   - Quelle/5e/vgm

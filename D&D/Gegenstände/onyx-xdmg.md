@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Onyx
+linter-yaml-title-alias: Onyx
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Onyx
-linter-yaml-title-alias: Onyx
 ---
 # Onyx
 *Treasure (gemstone)*  

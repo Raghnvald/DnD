@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Sage"
+linter-yaml-title-alias: "Baldur's Gate Sage"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Sage"
   - Baldur's Gate Sage
 ---
 # Baldur's Gate Sage

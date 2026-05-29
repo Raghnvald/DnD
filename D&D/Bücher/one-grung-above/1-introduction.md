@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/oga
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: One Grung Above, p. 2* 

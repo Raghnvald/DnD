@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Book of Vile Darkness
+linter-yaml-title-alias: Book of Vile Darkness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:
   - Book of Vile Darkness
-linter-yaml-title-alias: Book of Vile Darkness
 ---
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  

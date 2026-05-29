@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Names – Githzerai, Female
+linter-yaml-title-alias: Gith Names – Githzerai, Female
 tags:
   - Quelle/5e/mtf
 aliases:

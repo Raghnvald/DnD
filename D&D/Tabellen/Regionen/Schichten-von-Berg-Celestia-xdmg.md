@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Mount Celestia
+linter-yaml-title-alias: Layers of Mount Celestia
 tags:
   - Quelle/5e/xdmg
 aliases:

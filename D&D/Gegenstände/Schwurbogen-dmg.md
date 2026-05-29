@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Oathbow
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Oathbow
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Oathbow
-linter-yaml-title-alias: Oathbow
 ---
 # Oathbow
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow.md)), major, very rare (requires attunement)*  

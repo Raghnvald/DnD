@@ -7,6 +7,15 @@ Komponenten: G
 Wirkungsdauer: Unmittelbar oder 1 Stunde
 Angriff: nichts
 Schaden: Kontrolle
+linter-yaml-title-alias: Wasser formen
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -24,17 +33,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Shape Water
-linter-yaml-title-alias: Shape Water
+  - Wasser formen
 ---
 # Wasser formen
 _Zaubertrick der Verwandlung_

@@ -2,19 +2,20 @@
 Bezeichnung: Schild der Weitsicht
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schild der Weitsicht
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/vgm
 aliases:
-  - Shield of Far Sight
-linter-yaml-title-alias: Shield of Far Sight
+  - Schild der Weitsicht
 ---
 # Schild der Weitsicht
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten*  

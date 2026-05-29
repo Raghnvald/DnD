@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Quicksmithing
+linter-yaml-title-alias: Spells for Quicksmithing
 tags:
   - ttrpg-cli/spell/list/feat/quicksmithing
 aliases:
   - "Spells for Quicksmithing"
+  - Spells for Quicksmithing
 ---
 # Spells for Quicksmithing
 

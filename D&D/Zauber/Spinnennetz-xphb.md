@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Web
+linter-yaml-title-alias: Web
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid (Circle of the Land, Tropical Land)
+  - Fighter (Eldritch Knight)
+  - Ranger (Swarmkeeper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -13,19 +24,8 @@ tags:
   - Subklasse/swarmkeeper
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid (Circle of the Land, Tropical Land)
-  - Fighter (Eldritch Knight)
-  - Ranger (Swarmkeeper)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Web
-linter-yaml-title-alias: Web
 ---
 # Web
 *2nd-level, Conjuration*  

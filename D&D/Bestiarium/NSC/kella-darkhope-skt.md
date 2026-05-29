@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kella Darkhope
+linter-yaml-title-alias: Kella Darkhope
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/skt
 aliases:
   - Kella Darkhope
-linter-yaml-title-alias: Kella Darkhope
 ---
 # [Kella Darkhope](3-Mechanics\CLI\bestiary\npc/kella-darkhope-skt.md)
 *Source: Storm King's Thunder p. 25*  

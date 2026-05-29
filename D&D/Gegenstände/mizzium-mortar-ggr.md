@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Mizzium Mortar
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mizzium Mortar
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/ggr
 aliases:
   - Mizzium Mortar
-linter-yaml-title-alias: Mizzium Mortar
 ---
 # Mizzium Mortar
 *Wondrous item, rare*  

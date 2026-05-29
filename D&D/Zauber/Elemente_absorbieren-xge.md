@@ -8,6 +8,18 @@ Wirkungsdauer: 1 Runde
 Angriff: n/v
 Schaden: n/v
 status:
+linter-yaml-title-alias: Elemente absorbieren
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -25,20 +37,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/Original/Absorb_Elements
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
-  - Absorb Elements
-linter-yaml-title-alias: Absorb Elements
+  - Elemente absorbieren
 ---
 # Elemente absorbieren
 *Bann des 1. Grades*

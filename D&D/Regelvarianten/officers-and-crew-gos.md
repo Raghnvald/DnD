@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Officers and Crew
+linter-yaml-title-alias: Officers and Crew
 tags:
   - Quelle/5e/gos
 aliases:
   - "Officers and Crew"
+  - Officers and Crew
 ---
 # Officers and Crew
 *Source: Ghosts of Saltmarsh p. 194* 

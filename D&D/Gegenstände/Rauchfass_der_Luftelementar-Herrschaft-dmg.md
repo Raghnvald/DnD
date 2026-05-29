@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Censer of Controlling Air Elementals
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Censer of Controlling Air Elementals
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Censer of Controlling Air Elementals
-linter-yaml-title-alias: Censer of Controlling Air Elementals
 ---
 # Censer of Controlling Air Elementals
 *Wondrous item, major, rare*  

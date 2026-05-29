@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Banishing Arrow
+linter-yaml-title-alias: Banishing Arrow
 tags:
   - Kompendium/Optionales/as
   - Quelle/5e/xge

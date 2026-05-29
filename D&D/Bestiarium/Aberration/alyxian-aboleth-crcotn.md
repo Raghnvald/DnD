@@ -7,7 +7,9 @@ Größe: Groß
 HG: 12
 Habitat:
   - /
+Image: token/alyxian-aboleth-crcotn.webp
 status: WIP
+linter-yaml-title-alias: Alyxian Aboleth
 tags:
   - Quelle/5e/crcotn
   - ttrpg-cli/monster/cr/12

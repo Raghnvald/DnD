@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unoccupied Space
+linter-yaml-title-alias: Unoccupied Space
 tags:
   - Quelle/5e/xphb
 aliases:

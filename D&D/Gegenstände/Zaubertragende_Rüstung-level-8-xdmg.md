@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 8)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Level 8)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Level 8) Splint Armor
   - Enspelled (Level 8) Studded Leather Armor
   - Enspelled Armor (Level 8)
-linter-yaml-title-alias: Enspelled Armor (Level 8)
 ---
 # Enspelled Armor (Level 8)
 *Legendary (requires attunement)*  

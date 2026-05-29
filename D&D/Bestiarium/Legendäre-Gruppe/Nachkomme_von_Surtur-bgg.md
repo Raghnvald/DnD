@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Surtur
+linter-yaml-title-alias: Scion of Surtur
 tags:
   - Monster/legendary-group
   - Quelle/5e/bgg

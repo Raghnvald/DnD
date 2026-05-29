@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Flame Strike
 Zaubergrad: 5
+linter-yaml-title-alias: Flame Strike
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Light Domain)
+  - Cleric (War Domain)
+  - Paladin (Oath of Devotion)
+  - Warlock (The Fiend)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -11,16 +19,8 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Light Domain)
-  - Cleric (War Domain)
-  - Paladin (Oath of Devotion)
-  - Warlock (The Fiend)
 aliases:
   - Flame Strike
-linter-yaml-title-alias: Flame Strike
 ---
 # Flame Strike
 *5th-level, Evocation*  

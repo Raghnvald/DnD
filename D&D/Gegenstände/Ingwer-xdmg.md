@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Ginger
+Kst.: 1 GM
+linter-yaml-title-alias: Ginger
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Ginger
-linter-yaml-title-alias: Ginger
 ---
 # Ginger
 *Trade good*  

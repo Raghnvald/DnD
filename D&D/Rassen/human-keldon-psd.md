@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Human (Keldon)
+linter-yaml-title-alias: Human (Keldon)
 tags:
   - Quelle/5e/psd
   - Rasse/human/keldon
 aliases:
   - "Human (Keldon)"
+  - Human (Keldon)
 ---
 # Human (Keldon)
 *Source: Plane Shift: Dominaria p. 19*  

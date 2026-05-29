@@ -1,5 +1,19 @@
 ---
 Bezeichnung: Shatter
+linter-yaml-title-alias: Shatter
+classes:
+  - Artificer (Armorer)
+  - Artificer (Artillerist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Tempest Domain)
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -17,22 +31,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/gong-of-the-summit
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Armorer)
-  - Artificer (Artillerist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Tempest Domain)
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Shatter
-linter-yaml-title-alias: Shatter
 ---
 # Shatter
 *2nd-level, Evocation*  

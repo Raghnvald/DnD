@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Trank der Psionischen Ausdauer
 Kategorie: Trank
+linter-yaml-title-alias: Trank der Psionischen Ausdauer
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/pabtso
 aliases:
   - Potion of Psionic Fortitude
-linter-yaml-title-alias: Trank der Psionischen Ausdauer
+  - Trank der Psionischen Ausdauer
 ---
 # Trank der Psionischen Ausdauer
 *Trank, ungewöhnlich*  

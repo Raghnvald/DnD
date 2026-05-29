@@ -8,6 +8,7 @@ HG: "17"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Androsphinx
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

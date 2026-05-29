@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Vulnerability
+linter-yaml-title-alias: Armor of Vulnerability
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Armor of Vulnerability
-linter-yaml-title-alias: Armor of Vulnerability
 ---
 # Armor of Vulnerability
 *Cursed item, rare (requires attunement)*  

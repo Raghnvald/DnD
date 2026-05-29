@@ -1,5 +1,19 @@
 ---
 Bezeichnung: Wall of Fire
+linter-yaml-title-alias: Wall of Fire
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Cleric (Forge Domain)
+  - Cleric (Light Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Celestial Patron)
+  - Warlock (Fiend Patron)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -17,22 +31,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/river-of-hungry-flame
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Cleric (Forge Domain)
-  - Cleric (Light Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Celestial Patron)
-  - Warlock (Fiend Patron)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Wall of Fire
-linter-yaml-title-alias: Wall of Fire
 ---
 # Wall of Fire
 *4th-level, Evocation*  

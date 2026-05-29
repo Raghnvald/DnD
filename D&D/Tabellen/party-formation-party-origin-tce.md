@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Party Formation; Party Origin
+linter-yaml-title-alias: Party Formation; Party Origin
 tags:
   - Quelle/5e/tce
 aliases:

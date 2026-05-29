@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wererat
+linter-yaml-title-alias: Wererat
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Stadt

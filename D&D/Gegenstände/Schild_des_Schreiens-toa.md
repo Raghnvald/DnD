@@ -2,19 +2,20 @@
 Bezeichnung: Schild des Schreiens
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schild des Schreiens
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/toa
 aliases:
-  - Shield of Shouting
-linter-yaml-title-alias: Shield of Shouting
+  - Schild des Schreiens
 ---
 # Schild des Schreiens
 *Rüstung ([[Gegenstände/Schild-phb|Schild]])*

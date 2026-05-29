@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Invisibility
+linter-yaml-title-alias: Spells for Charm of Invisibility
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-invisibility
 aliases:
   - "Spells for Charm of Invisibility"
+  - Spells for Charm of Invisibility
 ---
 # Spells for Charm of Invisibility
 

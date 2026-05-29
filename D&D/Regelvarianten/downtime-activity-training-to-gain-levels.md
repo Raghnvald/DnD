@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Training to Gain Levels"
+linter-yaml-title-alias: "Downtime Activity: Training to Gain Levels"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Downtime Activity: Training to Gain Levels"
   - Downtime Activity: Training to Gain Levels
 ---
 # Downtime Activity: Training to Gain Levels

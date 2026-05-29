@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Regierungsformen
+linter-yaml-title-alias: Regierungsformen
 tags:
   - Quelle/5e/dmg
 aliases:
   - Forms of Government
+  - Regierungsformen
 ---
 # Regierungsformen
 *Quellen: Spielleiterhandbuch S. 18* 

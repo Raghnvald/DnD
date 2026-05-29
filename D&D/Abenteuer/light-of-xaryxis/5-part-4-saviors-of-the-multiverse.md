@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 4: Saviors of the Multiverse"
+linter-yaml-title-alias: "Part 4: Saviors of the Multiverse"
 tags:
   - Quelle/5e/lox
 aliases:

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nine-Fingers Keene
+linter-yaml-title-alias: Nine-Fingers Keene
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Nine-Fingers Keene
-linter-yaml-title-alias: Nine-Fingers Keene
 ---
 # [Nine-Fingers Keene](3-Mechanics\CLI\bestiary\npc/nine-fingers-keene-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 170*  

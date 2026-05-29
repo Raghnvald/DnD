@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Metamagic Adept
+linter-yaml-title-alias: Metamagic Adept
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce

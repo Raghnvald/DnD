@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Ollamh Harp
+linter-yaml-title-alias: Instrument of the Bards, Ollamh Harp
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Instrument of the Bards, Ollamh Harp
-linter-yaml-title-alias: Instrument of the Bards, Ollamh Harp
 ---
 # Instrument of the Bards, Ollamh Harp
 *Wondrous item, legendary (requires attunement by a bard)*  

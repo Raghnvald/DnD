@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Adornment
+linter-yaml-title-alias: Staff of Adornment
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Adornment
-linter-yaml-title-alias: Staff of Adornment
 ---
 # Staff of Adornment
 *Staff, weapon, common*  

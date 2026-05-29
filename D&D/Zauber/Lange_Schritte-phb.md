@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Longstrider
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -18,16 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Longstrider
-linter-yaml-title-alias: Longstrider
 ---
 # Longstrider
 *1st-level, Transmutation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarves and Duergar
+linter-yaml-title-alias: Dwarves and Duergar
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sylvan Forest Encounters
+linter-yaml-title-alias: Sylvan Forest Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

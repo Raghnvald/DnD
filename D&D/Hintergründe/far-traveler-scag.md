@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Far Traveler
+linter-yaml-title-alias: Far Traveler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

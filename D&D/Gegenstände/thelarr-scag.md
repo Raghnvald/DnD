@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Thelarr
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Thelarr
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Thelarr
-linter-yaml-title-alias: Thelarr
 ---
 # Thelarr
 *Instrument*  

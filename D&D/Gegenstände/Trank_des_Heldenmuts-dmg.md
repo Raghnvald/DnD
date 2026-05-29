@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Heroism
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Heroism
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Heroism
-linter-yaml-title-alias: Potion of Heroism
 ---
 # Potion of Heroism
 *Potion, minor, rare*  

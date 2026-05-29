@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Abbathor
+linter-yaml-title-alias: Abbathor
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/dwarven

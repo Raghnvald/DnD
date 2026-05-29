@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kalashtar
+linter-yaml-title-alias: Kalashtar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

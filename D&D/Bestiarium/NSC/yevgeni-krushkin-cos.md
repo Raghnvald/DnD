@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yevgeni Krushkin
+linter-yaml-title-alias: Yevgeni Krushkin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Yevgeni Krushkin
-linter-yaml-title-alias: Yevgeni Krushkin
 ---
 # [Yevgeni Krushkin](3-Mechanics\CLI\bestiary\npc/yevgeni-krushkin-cos.md)
 *Source: Curse of Strahd p. 100*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Boots of Speed
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Boots of Speed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Boots of Speed
-linter-yaml-title-alias: Boots of Speed
 ---
 # Boots of Speed
 *Wondrous item, major, rare (requires attunement)*  

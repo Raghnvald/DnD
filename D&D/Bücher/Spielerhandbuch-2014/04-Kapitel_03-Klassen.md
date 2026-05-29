@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Klassen
+Status: completed
+linter-yaml-title-alias: Klassen
 tags:
   - Quelle/5e/phb
 aliases:
   - Classes
-Status: completed
+  - Klassen
 ---
 # Klassen
 *Quelle: Spielerhandbuch (2014), p. 45*

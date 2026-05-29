@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Cannith Heir
+linter-yaml-title-alias: House Cannith Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Cannith Heir"
+  - House Cannith Heir
 ---
 # House Cannith Heir
 *Source: Eberron: Forge of the Artificer p. 27*  

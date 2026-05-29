@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Bronze Dragon
 status: WIP
+linter-yaml-title-alias: Young Bronze Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Young Bronze Dragon
-linter-yaml-title-alias: Young Bronze Dragon
 ---
 # Young Bronze Dragon
 *Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

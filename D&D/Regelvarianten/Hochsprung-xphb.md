@@ -1,5 +1,6 @@
 ---
 Bezeichnung: High Jump
+linter-yaml-title-alias: High Jump
 tags:
   - Quelle/5e/xphb
 aliases:

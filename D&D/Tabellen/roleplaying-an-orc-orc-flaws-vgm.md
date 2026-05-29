@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying an Orc; Orc Flaws
+linter-yaml-title-alias: Roleplaying an Orc; Orc Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Rope of Climbing
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Rope of Climbing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Rope of Climbing
-linter-yaml-title-alias: Rope of Climbing
 ---
 # Rope of Climbing
 *Wondrous item, minor, uncommon*  

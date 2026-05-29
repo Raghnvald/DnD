@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Scale Pattern
+linter-yaml-title-alias: Physical Variations; Scale Pattern
 tags:
   - Quelle/5e/vgm
 aliases:

@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Find Traps
+linter-yaml-title-alias: Find Traps
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -10,16 +18,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Find Traps
-linter-yaml-title-alias: Find Traps
 ---
 # Find Traps
 *2nd-level, Divination*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Orzhov Representative
+linter-yaml-title-alias: Spells for Orzhov Representative
 tags:
   - Zauber/list/background/orzhov-representative
 aliases:

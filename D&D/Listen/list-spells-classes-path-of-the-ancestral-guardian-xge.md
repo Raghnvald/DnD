@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Path of the Ancestral Guardian
+linter-yaml-title-alias: Spells for Path of the Ancestral Guardian
 tags:
   - Zauber/list/subclass/path-of-the-ancestral-guardian
 aliases:

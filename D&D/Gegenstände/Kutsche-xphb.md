@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Carriage
+Kst.: 100 GM
+linter-yaml-title-alias: Carriage
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Carriage
-linter-yaml-title-alias: Carriage
 ---
 # Carriage
 *Vehicle (land)*  

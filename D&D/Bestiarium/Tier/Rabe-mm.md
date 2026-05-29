@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Raven
+linter-yaml-title-alias: Raven
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Hügel

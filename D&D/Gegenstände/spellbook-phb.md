@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Spellbook
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 50 GM
+Gew.: 1,5kg
+status: WIP
+linter-yaml-title-alias: Spellbook
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Spellbook
-linter-yaml-title-alias: Spellbook
 ---
 # Spellbook
 *Adventuring gear*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adventure Credits
+linter-yaml-title-alias: Adventure Credits
 tags:
   - Quelle/5e/uthftlh
 aliases:
   - "Adventure Credits"
+  - Adventure Credits
 ---
 # Adventure Credits
 *Source: Uni and the Hunt for the Lost Horn* 

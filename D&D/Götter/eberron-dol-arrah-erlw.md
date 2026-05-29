@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dol Arrah
+linter-yaml-title-alias: Dol Arrah
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/twilight

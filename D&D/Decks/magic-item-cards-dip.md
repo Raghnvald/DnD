@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Item Cards
+linter-yaml-title-alias: Magic Item Cards
 tags:
   - Quelle/5e/dip
 aliases:

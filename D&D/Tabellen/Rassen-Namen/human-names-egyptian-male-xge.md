@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Egyptian, Male
+linter-yaml-title-alias: Human Names – Egyptian, Male
 tags:
   - Quelle/5e/xge
 aliases:

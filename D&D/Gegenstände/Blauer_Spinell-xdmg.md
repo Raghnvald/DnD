@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Blue Spinel
+Kst.: 500 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Blue Spinel
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Blue Spinel
-linter-yaml-title-alias: Blue Spinel
 ---
 # Blue Spinel
 *Treasure (gemstone)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Duskcrusher
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Duskcrusher
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Duskcrusher
-linter-yaml-title-alias: Duskcrusher
 ---
 # Duskcrusher
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), very rare (requires attunement)*  

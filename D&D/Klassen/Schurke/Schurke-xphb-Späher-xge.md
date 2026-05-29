@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scout
+linter-yaml-title-alias: Scout
 tags:
   - Klasse/Schurke/scout
   - Quelle/5e/xge

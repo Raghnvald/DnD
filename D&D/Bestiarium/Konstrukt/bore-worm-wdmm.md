@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bore Worm
+linter-yaml-title-alias: Bore Worm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/16

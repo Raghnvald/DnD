@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bandagh
+linter-yaml-title-alias: Bandagh
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Bandagh
-linter-yaml-title-alias: Bandagh
 ---
 # [Bandagh](3-Mechanics\CLI\bestiary\npc/bandagh-tftyp.md)
 *Source: Tales from the Yawning Portal p. 159*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Imhotep
+linter-yaml-title-alias: Imhotep
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/egyptian

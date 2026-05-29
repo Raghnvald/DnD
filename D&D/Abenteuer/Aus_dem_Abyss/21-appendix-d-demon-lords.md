@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Demon Lords"
+linter-yaml-title-alias: "Appendix D: Demon Lords"
 tags:
   - Quelle/5e/oota
 aliases:

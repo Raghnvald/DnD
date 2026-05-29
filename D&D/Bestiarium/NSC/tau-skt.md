@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tau
+linter-yaml-title-alias: Tau
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Tau
-linter-yaml-title-alias: Tau
 ---
 # [Tau](3-Mechanics\CLI\bestiary\npc/tau-skt.md)
 *Source: Storm King's Thunder p. 103*  

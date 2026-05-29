@@ -7,15 +7,17 @@ Größe: Mittelgroß
 HG: 8
 Habitat:
   - /
+Image: token/aberrant-zealot-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Abberanter Eiferer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
   - Monster/Typ/Aberration
   - Quelle/5e/pabtso
 aliases:
+  - Abberanter Eiferer
   - Aberrant Zealot
-Image: token/aberrant-zealot-pabtso.webp
 ---
 # Abberanter Eiferer
 *Source: Phandelver and Below: The Shattered Obelisk p. 203*  

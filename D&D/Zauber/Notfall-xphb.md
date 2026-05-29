@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Contingency
+linter-yaml-title-alias: Contingency
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/abjurer
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Contingency
-linter-yaml-title-alias: Contingency
 ---
 # Contingency
 *6th-level, Abjuration*  

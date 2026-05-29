@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Shield of Expression
 Rüstung: Schild
+linter-yaml-title-alias: Shield of Expression
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Shield of Expression
-linter-yaml-title-alias: Shield of Expression
 ---
 # Shield of Expression
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), common*  

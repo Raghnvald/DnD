@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Variant: Customizing Ability Scores; Ability Score Point Cost"
+linter-yaml-title-alias: "Variant: Customizing Ability Scores; Ability Score Point Cost"
 tags:
   - Quelle/5e/phb
 aliases:
+  - "Variant: Customizing Ability Scores; Ability Score Point Cost"
   - Variant: Customizing Ability Scores; Ability Score Point Cost
 ---
 # Variant: Customizing Ability Scores; Ability Score Point Cost

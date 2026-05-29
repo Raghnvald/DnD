@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Pallid)
+linter-yaml-title-alias: Elf (Pallid)
 tags:
   - Quelle/5e/egw
   - Rasse/elf/pallid

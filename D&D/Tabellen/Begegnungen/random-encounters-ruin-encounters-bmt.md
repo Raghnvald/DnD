@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Encounters; Ruin Encounters
+linter-yaml-title-alias: Random Encounters; Ruin Encounters
 tags:
   - Quelle/5e/bmt
 aliases:

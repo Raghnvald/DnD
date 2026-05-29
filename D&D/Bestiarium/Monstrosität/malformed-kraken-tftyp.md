@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Malformed Kraken
+linter-yaml-title-alias: Malformed Kraken
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10

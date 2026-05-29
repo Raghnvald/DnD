@@ -1,9 +1,11 @@
 ---
 Bezeichnung: +1 Rod of the Pact Keeper
 Kategorie: Zepter
-Eigenschaften: erfordert Einstimmung durch einen Hexenmeister
-Kst.: n/v
-Gew.: n/v
+Eigenschaften:
+  - erfordert Einstimmung durch einen Hexenmeister
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: +1 Rod of the Pact Keeper
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -11,7 +13,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +1 Rod of the Pact Keeper
-linter-yaml-title-alias: +1 Rod of the Pact Keeper
 ---
 # +1 Rod of the Pact Keeper
 *Zepter, ungewöhnlich (erfordert Einstimmung durch einen Hexenmeister)*  

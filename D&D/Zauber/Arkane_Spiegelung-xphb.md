@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Mirage Arcane
+linter-yaml-title-alias: Mirage Arcane
+classes:
+  - Bard
+  - Cleric (Arcana Domain)
+  - Druid
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,12 +16,6 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/7
   - Zauber/Schule/illusion
-classes:
-  - Bard
-  - Cleric (Arcana Domain)
-  - Druid
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Mirage Arcane
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Supernatural Events
+linter-yaml-title-alias: Secondary Tables; Supernatural Events
 tags:
   - Quelle/5e/xge
 aliases:

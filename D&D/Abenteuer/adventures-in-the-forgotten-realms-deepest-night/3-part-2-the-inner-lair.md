@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 2: The Inner Lair"
+linter-yaml-title-alias: "Part 2: The Inner Lair"
 tags:
   - Quelle/5e/aitfr-dn
 aliases:

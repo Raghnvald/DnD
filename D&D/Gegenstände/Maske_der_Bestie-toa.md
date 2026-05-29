@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Maske der Bestie
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Maske der Bestie
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/toa
 aliases:
-  - Mask of the Beast
-linter-yaml-title-alias: Mask of the Beast
+  - Maske der Bestie
 ---
 # Maske der Bestie
 *Wondrous item, uncommon*  

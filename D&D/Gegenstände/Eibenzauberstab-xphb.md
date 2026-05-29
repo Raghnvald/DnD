@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Yew Wand
+linter-yaml-title-alias: Yew Wand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Yew Wand
-linter-yaml-title-alias: Yew Wand
 ---
 # Yew Wand
 *Spellcasting focus*  

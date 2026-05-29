@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thri-kreen (Weapons and Psionics)
+linter-yaml-title-alias: Thri-kreen (Weapons and Psionics)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

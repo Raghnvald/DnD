@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Haint
+linter-yaml-title-alias: Haint
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Haint
-linter-yaml-title-alias: Haint
 ---
 # [Haint](3-Mechanics\CLI\bestiary\undead/haint-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 185*  

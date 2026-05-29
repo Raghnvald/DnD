@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ancient White Dragon
 Kategorie: Drache
 status: WIP
+linter-yaml-title-alias: Ancient White Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Arktis
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ancient White Dragon
-linter-yaml-title-alias: Ancient White Dragon
 ---
 # [Ancient White Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-white-dragon.md)
 *Source: Monster Manual p. 100. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -88,6 +88,10 @@ Viele Kreaturen, darunter Wyverns und Drachenschildkröten, haben Drachenblut. W
 Auch wenn ihre Ziele und Ideale sich stark unterscheiden, sehnen sich alle wahren Drachen nach Reichtümern. Sie horten Haufen von Münzen und sammeln Juwelen, Edelsteine und magische Gegenstände. Drachen mit einem großen Hort verlassen ihn nur ungern für längere Zeit und verlassen ihre Behausung nur, um zu patrouillieren und zu fressen.
 
 Wahre Drachen durchlaufen vier verschiedenen Lebensphasen, von den niederen Nestlingen bis hin zu den uralten Drachen, die über tausend Jahre alt werden können. In dieser Zeit kann ihre Macht unvergleichbar werden und ihr Hort die Grenzen der Vorstellungskraft sprengen.
+
+```meta-bind-embed
+[[Weißer_Drache-mm]]
+```
 
 **Drachenalter-Kategorien**
 

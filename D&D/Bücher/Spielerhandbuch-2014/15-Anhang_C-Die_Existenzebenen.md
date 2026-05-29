@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Planes of Existence
+linter-yaml-title-alias: The Planes of Existence
 tags:
   - Quelle/5e/phb
 aliases:

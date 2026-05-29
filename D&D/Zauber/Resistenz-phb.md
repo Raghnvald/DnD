@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Minute
 Angriff: nichts
 Schaden: Verstärkung
+linter-yaml-title-alias: Resistenz
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -18,14 +25,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
 aliases:
   - Resistance
+  - Resistenz
 ---
 # Resistenz
 *Zaubertrick des Banns*  

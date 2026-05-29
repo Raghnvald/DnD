@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Banishing Smite
 Zaubergrad: 5
+linter-yaml-title-alias: Banishing Smite
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
   - Banishing Smite
-linter-yaml-title-alias: Banishing Smite
 ---
 # Banishing Smite
 *5th-level, Abjuration*  

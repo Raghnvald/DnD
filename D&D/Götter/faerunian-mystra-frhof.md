@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystra
+linter-yaml-title-alias: Mystra
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Our Lady of Spells"
   - "The Lady of Mysteries"
   - "The Mother of All Magic"
+  - Mystra
 ---
 # Mystra
 *Source: Forgotten Realms: Heroes of Faerûn p. 117* 

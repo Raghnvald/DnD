@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Find Steed
 Zaubergrad: 2
+linter-yaml-title-alias: Find Steed
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
   - Find Steed
-linter-yaml-title-alias: Find Steed
 ---
 # Find Steed
 *2nd-level, Conjuration*  

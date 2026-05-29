@@ -8,6 +8,14 @@ Wirkungsdauer: K, <1 Minute
 Angriff: WEI
 Schaden: n/a
 status: completed
+linter-yaml-title-alias: Angst verursachen
+classes:
+  - Barde
+  - Barde (College of Lore)
+  - Hexenmeister
+  - Kämpfer (Eldritch Knight)
+  - Magier
+  - Schurke (Arcane Trickster)
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister
@@ -20,16 +28,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Original/Cause_Fear
   - Zauber/Schule/Nekromantie
-classes:
-  - Barde
-  - Barde (College of Lore)
-  - Hexenmeister
-  - Kämpfer (Eldritch Knight)
-  - Magier
-  - Schurke (Arcane Trickster)
 aliases:
+  - Angst verursachen
   - Cause Fear
-linter-yaml-title-alias: Angst verursachen
 ---
 # Angst verursachen
 *Nekromantie des 1. Grades*

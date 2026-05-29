@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1/4
 status: WIP
+linter-yaml-title-alias: Gibberling
 tags:
   - Quelle/5e/mabjov
   - ttrpg-cli/monster/cr/1-4

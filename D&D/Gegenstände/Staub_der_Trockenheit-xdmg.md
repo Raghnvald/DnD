@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Dust of Dryness
+linter-yaml-title-alias: Dust of Dryness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Dust of Dryness
-linter-yaml-title-alias: Dust of Dryness
 ---
 # Dust of Dryness
 *Wondrous item, uncommon*  

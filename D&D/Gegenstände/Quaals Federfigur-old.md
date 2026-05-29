@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Quaal's Federfigur"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Quaal's Federfigur"
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
@@ -8,7 +9,6 @@ tags:
 aliases:
   - "Quaal's Federfigur"
   - Feather Token, Anchor
-linter-yaml-title-alias: "Quaal's Federfigur"
 ---
 # Quaal's Federfigur
 *Wundersamer Gegenstand, selten*  

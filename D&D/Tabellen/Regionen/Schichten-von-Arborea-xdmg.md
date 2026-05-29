@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Arborea
+linter-yaml-title-alias: Layers of Arborea
 tags:
   - Quelle/5e/xdmg
 aliases:

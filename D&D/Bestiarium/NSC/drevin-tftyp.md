@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drevin
+linter-yaml-title-alias: Drevin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Drevin
-linter-yaml-title-alias: Drevin
 ---
 # [Drevin](3-Mechanics\CLI\bestiary\npc/drevin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 126*  

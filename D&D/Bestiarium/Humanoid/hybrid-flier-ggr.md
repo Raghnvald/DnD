@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hybrid Flier
+linter-yaml-title-alias: Hybrid Flier
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

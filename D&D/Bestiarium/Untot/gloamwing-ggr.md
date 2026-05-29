@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gloamwing
+linter-yaml-title-alias: Gloamwing
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Gloamwing
-linter-yaml-title-alias: Gloamwing
 ---
 # [Gloamwing](3-Mechanics\CLI\bestiary\undead/gloamwing-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 215*  

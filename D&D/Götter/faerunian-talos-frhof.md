@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talos
+linter-yaml-title-alias: Talos
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Talos"
   - "The Destroyer"
   - "The Raging One"
+  - Talos
 ---
 # Talos
 *Source: Forgotten Realms: Heroes of Faerûn p. 123* 

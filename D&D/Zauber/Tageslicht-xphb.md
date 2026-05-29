@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Daylight
+linter-yaml-title-alias: Daylight
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Light Domain)
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,20 +26,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Light Domain)
-  - Druid
-  - Paladin
-  - Ranger
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Daylight
-linter-yaml-title-alias: Daylight
 ---
 # Daylight
 *3rd-level, Evocation*  

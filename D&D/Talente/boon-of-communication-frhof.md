@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of Communication
+linter-yaml-title-alias: Boon of Communication
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Boon of Communication"
+  - Boon of Communication
 ---
 # Boon of Communication
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

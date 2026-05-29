@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "<center> Kapitel 2: Ärger in Phandalin </center>"
+linter-yaml-title-alias: "<center> Kapitel 2: Ärger in Phandalin </center>"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "<center> Kapitel 2: Ärger in Phandalin </center>"
   - Chapter 2: Trouble in Phandalin
 ---
 # <center> Kapitel 2: Ärger in Phandalin </center>

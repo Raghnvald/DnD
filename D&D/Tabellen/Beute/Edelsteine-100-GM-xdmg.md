@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 100 GP Gemstones
+linter-yaml-title-alias: 100 GP Gemstones
 tags:
   - Quelle/5e/xdmg
 aliases:

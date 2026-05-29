@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Water Elemental Myrmidon
+linter-yaml-title-alias: Water Elemental Myrmidon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

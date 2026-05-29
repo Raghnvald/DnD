@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Arcane Cannon
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Arcane Cannon
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Arcane Cannon
-linter-yaml-title-alias: Arcane Cannon
 ---
 # Arcane Cannon
 *Wondrous item, very rare*  

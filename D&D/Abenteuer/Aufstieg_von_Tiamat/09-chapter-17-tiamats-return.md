@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 17: Tiamat's Return"
+linter-yaml-title-alias: "Chapter 17: Tiamat's Return"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Chapter 17: Tiamat's Return"
   - Chapter 17: Tiamat's Return
 ---
 # Chapter 17: Tiamat's Return

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks
+linter-yaml-title-alias: Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

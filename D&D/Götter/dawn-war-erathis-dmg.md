@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Erathis
+linter-yaml-title-alias: Erathis
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/knowledge

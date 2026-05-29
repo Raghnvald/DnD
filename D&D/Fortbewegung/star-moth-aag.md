@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Star Moth
+linter-yaml-title-alias: Star Moth
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Star Moth"
+  - Star Moth
 ---
 # Star Moth
 *Source: Astral Adventurer's Guide p. 50*  

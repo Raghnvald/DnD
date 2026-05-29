@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeons; Dungeon Quirks
+linter-yaml-title-alias: Dungeons; Dungeon Quirks
 tags:
   - Quelle/5e/xdmg
 aliases:

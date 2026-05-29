@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Tonhumpen
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 KM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Tonhumpen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Tankard
-linter-yaml-title-alias: Tankard
+  - Tonhumpen
 ---
 # Tonhumpen
 *Abenteuerausrüstung*  

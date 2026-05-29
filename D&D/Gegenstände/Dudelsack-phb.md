@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Dudelsack
 Kategorie: Werkzeug
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 30 GM
 Gew.: 3,0 kg
+status: WIP
+linter-yaml-title-alias: Dudelsack
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Bagpipes
-linter-yaml-title-alias: Dudelsack
+  - Dudelsack
 ---
 # Dudelsack
 *Instrument*  

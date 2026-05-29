@@ -1,7 +1,12 @@
 ---
 Bezeichnung: Lesezeichen
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - Finesse, Leicht, Wurfwaffe
 Einstimmung: erfordert
+Kst.: /
+Gew.: 0,5 kg
+linter-yaml-title-alias: Lesezeichen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,8 +14,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/toa
 aliases:
-  - Bookmark
-linter-yaml-title-alias: Bookmark
+  - Lesezeichen
 ---
 # Lesezeichen
 *Weapon (dagger), legendary (requires attunement)*  

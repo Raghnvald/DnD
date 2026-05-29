@@ -1,21 +1,24 @@
 ---
-Bezeichnung: Ring of the Ram
+Bezeichnung: Ring des Widders
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring des Widders
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of the Ram
-linter-yaml-title-alias: Ring of the Ram
+  - Ring des Widders
 ---
-# Ring of the Ram
-*Ring, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-the-ram.webp#right)
+# Ring des Widders
+*Ring, selten (benötigt Einstimmung)*  
+![](img/ring-of-the-ram.webp#right)
 
-This ring has 3 charges, and it regains `1d3` expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to make a ranged spell attack against one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes `2d10` force damage and is pushed 5 feet away from you.
+Dieser Ring hat 3 Ladungen und erhält zu jeder Morgendämmerung `1W3` der verbrauchten Ladungen zurück. Während du den Ring trägst, kannst du eine Aktion verwenden, um 1 bis 3 Ladungen zu verbrauchen und eine Kreatur in deinem Sichtfeld innerhalb von 18 Metern zu dir anzugreifen. Der Ring erschafft einen geisterhaften Widderkopf und führt seinen Angriffswurf mit einem Bonus von + 7 durch. Bei einem Treffer nimmt das Ziel für jede ausgegebene Ladung `2W10` Energieschaden und wird 1,50 Meter von dir weggestoßen.
 
-Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
+Alternativ kannst du eine Aktion verwenden, um 1 bis 3 Ladungen auszugeben und ein Objekt in deinem Sichtfeld innerhalb von 18 Metern zu dir zu zerbrechen, solange niemand es bei sich oder am Körper trägt. Der Ring legt einen Wurf auf Stärke mit einem Bonus von+ 5 für jede ausgegebene Ladung ab.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

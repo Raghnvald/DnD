@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Visions of Distant Realms
+linter-yaml-title-alias: Visions of Distant Realms
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

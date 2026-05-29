@@ -2,13 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Werebear
+linter-yaml-title-alias: Werebear
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
   - Monster/Habitat/Hügel
   - Monster/Habitat/Wald
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/mm
 aliases:

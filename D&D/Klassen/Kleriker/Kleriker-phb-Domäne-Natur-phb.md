@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Domäne Natur
+linter-yaml-title-alias: Domäne Natur
 tags:
   - Klasse/Kleriker/nature
   - Kompendium/Götter/Domäne/nature
   - Quelle/5e/phb
 aliases:
+  - Domäne Natur
   - Nature Domain
 ---
 # Domäne Natur

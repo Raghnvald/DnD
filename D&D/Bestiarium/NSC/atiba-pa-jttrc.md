@@ -5,14 +5,14 @@ Bezeichnung: Atiba-Pa
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Atiba-Pa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Atiba-Pa
-linter-yaml-title-alias: Atiba-Pa
 ---
 # [Atiba-Pa](3-Mechanics\CLI\bestiary\npc/atiba-pa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 171*  

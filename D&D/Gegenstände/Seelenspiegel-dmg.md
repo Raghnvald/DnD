@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Mirror of Life Trapping
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mirror of Life Trapping
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Mirror of Life Trapping
-linter-yaml-title-alias: Mirror of Life Trapping
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  

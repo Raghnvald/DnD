@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elves
+linter-yaml-title-alias: Elves
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Alchemistenlabor
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: 4,0 kg
+Status: completed
+linter-yaml-title-alias: Alchemistenlabor
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Alchemist's Supplies
-linter-yaml-title-alias: Alchemistenausrüstung
-Status: completed
+  - Alchemistenlabor
 ---
 # Alchemistenlabor
 *Handwerkszeug*

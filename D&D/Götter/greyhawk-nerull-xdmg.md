@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nerull
+linter-yaml-title-alias: Nerull
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

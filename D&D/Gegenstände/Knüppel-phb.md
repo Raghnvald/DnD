@@ -2,18 +2,19 @@
 Bezeichnung: Knüppel
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W4 Wucht
-Eigenschaften: Leicht
+Eigenschaften:
+  - Leicht
 Einstimmung: /
 Kst.: 1 SM
 Gew.: 1,0 kg
+linter-yaml-title-alias: Knüppel
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Club
-linter-yaml-title-alias: Club
+  - Knüppel
 ---
 # Knüppel
 *Waffe*  

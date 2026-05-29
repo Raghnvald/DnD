@@ -1,23 +1,26 @@
 ---
-Bezeichnung: Ring of Spell Storing
+Bezeichnung: Ring des Zauberspeichers
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring des Zauberspeichers
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Spell Storing
-linter-yaml-title-alias: Ring of Spell Storing
+  - Ring des Zauberspeichers
 ---
-# Ring of Spell Storing
-*Ring, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-spell-storing.webp#right)
+# Ring des Zauberspeichers
+*Ring, selten (benötigt Einstimmung)*  
+![](img/ring-of-spell-storing.webp#right)
 
-This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `1d6 - 1` levels of stored spells chosen by the DM.
+Dieser Ring speichert Zauber, die hinein gezaubert wurden und hält sie dort fest, bis ein eingestimmter Träger sie benutzt. Der Ring kann Zauber im Wert von bis zu 5 Graden auf einmal speichern. Wenn er gefunden wird, enthält er `1W6 - 1` Zauber des 1. Grads, die vom SL ausgesucht wurden.
 
-Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+Jede Kreatur kann Zauber des Grads 1 bis 5 darin speichern, wenn sie den Ring berührt, während der Zauber gewirkt wird. Der Zauber hat keinen Effekt, außer im Ring gespeichert zu werden. Wenn der Ring den Zauber nicht speichern kann, ist der Zauber ohne Effekt verwirkt. Der Grad des gewirkten Zaubers bestimmt, wieviel Platz er verbraucht.
 
-While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
+Während du den Ring trägst, kannst du jeden der gespeicherten Zauber wirken. Der Zauber nutzt den Grad des Zauberplatzes, den Zauberrettungswurf-SG, den Zauberangriffsbonus und das Zauberattribut des ursprünglichen Zauberwirkers. Davon abgesehen, wird er behandelt, als würde er von dir gewirkt. Der gewirkte Zauber wird nicht länger im Ring gespeichert und gibt den Platz frei.
 
-*Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 180. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

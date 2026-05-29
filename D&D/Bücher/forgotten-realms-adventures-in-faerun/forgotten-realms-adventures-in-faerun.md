@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Forgotten Realms Adventures in Faerun
+linter-yaml-title-alias: Index of Forgotten Realms Adventures in Faerun
+aliases:
+  - Index of Forgotten Realms Adventures in Faerun
 ---
 # Index of Forgotten Realms Adventures in Faerun
 

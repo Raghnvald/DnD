@@ -8,6 +8,7 @@ HG: 3
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Gold Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Gold Dragon Wyrmling
-linter-yaml-title-alias: Gold Dragon Wyrmling
 ---
 # Gold Dragon Wyrmling
 *Source: Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

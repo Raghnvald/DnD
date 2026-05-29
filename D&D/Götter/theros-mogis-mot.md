@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Mogis
+linter-yaml-title-alias: Mogis
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
   - "Mogis"
+  - Mogis
 ---
 # Mogis
 *Source: Mythic Odysseys of Theros p. 64* 

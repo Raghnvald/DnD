@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Prayer of Healing
 Zaubergrad: 2
+linter-yaml-title-alias: Prayer of Healing
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Prayer of Healing
-linter-yaml-title-alias: Prayer of Healing
 ---
 # Prayer of Healing
 *2nd-level, Evocation*  

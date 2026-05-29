@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wolf of the Overworld
+linter-yaml-title-alias: Wolf of the Overworld
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

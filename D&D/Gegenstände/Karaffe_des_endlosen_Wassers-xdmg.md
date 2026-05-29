@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Decanter of Endless Water
+linter-yaml-title-alias: Decanter of Endless Water
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Decanter of Endless Water
-linter-yaml-title-alias: Decanter of Endless Water
 ---
 # Decanter of Endless Water
 *Wondrous item, uncommon*  

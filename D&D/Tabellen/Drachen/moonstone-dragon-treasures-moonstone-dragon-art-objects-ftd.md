@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moonstone Dragon Treasures; Moonstone Dragon Art Objects
+linter-yaml-title-alias: Moonstone Dragon Treasures; Moonstone Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

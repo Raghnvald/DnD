@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Yuan-ti; Yuan-ti Bonds
+linter-yaml-title-alias: Roleplaying a Yuan-ti; Yuan-ti Bonds
 tags:
   - Quelle/5e/vgm
 aliases:

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Forgotten Realms Heroes of Faerun
+linter-yaml-title-alias: Index of Forgotten Realms Heroes of Faerun
+aliases:
+  - Index of Forgotten Realms Heroes of Faerun
 ---
 # Index of Forgotten Realms Heroes of Faerun
 

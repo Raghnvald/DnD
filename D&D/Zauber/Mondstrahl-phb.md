@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Moonbeam
 Zaubergrad: 2
+linter-yaml-title-alias: Moonbeam
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Paladin (Oath of the Ancients)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Paladin (Oath of the Ancients)
 aliases:
   - Moonbeam
-linter-yaml-title-alias: Moonbeam
 ---
 # Moonbeam
 *2nd-level, Evocation*  

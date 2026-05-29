@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Expertise
+linter-yaml-title-alias: Expertise
 tags:
   - Quelle/5e/xphb
 aliases:

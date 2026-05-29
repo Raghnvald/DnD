@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Eltern eines Halbelfen
+linter-yaml-title-alias: Eltern eines Halbelfen
 tags:
   - Quelle/5e/xge
 aliases:
+  - Eltern eines Halbelfen
   - Half-Elf Parents
 ---
 # Eltern eines Halbelfen

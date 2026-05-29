@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Gentle Repose
+linter-yaml-title-alias: Gentle Repose
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Grave Domain)
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,20 +27,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Grave Domain)
-  - Druid (Circle of Spores)
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 aliases:
   - Gentle Repose
-linter-yaml-title-alias: Gentle Repose
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

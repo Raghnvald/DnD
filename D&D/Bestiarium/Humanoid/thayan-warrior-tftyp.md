@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thayan Warrior
+linter-yaml-title-alias: Thayan Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/tftyp
 aliases:
   - Thayan Warrior

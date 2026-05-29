@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe der Zauberbeherrschung
+linter-yaml-title-alias: Gabe der Zauberbeherrschung
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Spell Mastery
+  - Gabe der Zauberbeherrschung
 ---
 # Gabe der Zauberbeherrschung
 

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Clay Golems
+linter-yaml-title-alias: Manual of Clay Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Clay Golems
-linter-yaml-title-alias: Manual of Clay Golems
 ---
 # Manual of Clay Golems
 *Wondrous item, very rare*  

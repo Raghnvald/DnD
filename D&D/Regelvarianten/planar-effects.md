@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Planar Effects
+linter-yaml-title-alias: Planar Effects
 tags:
   - Quelle/5e/dmg
 aliases:

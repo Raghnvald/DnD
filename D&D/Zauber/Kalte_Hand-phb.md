@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Chill Touch
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Death Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -21,17 +30,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Death Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Chill Touch
-linter-yaml-title-alias: Chill Touch
 ---
 # Chill Touch
 *cantrip, Necromancy*  

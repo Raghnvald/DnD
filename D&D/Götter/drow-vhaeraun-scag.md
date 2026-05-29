@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Vhaeraun
+linter-yaml-title-alias: Vhaeraun
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/drow
   - Quelle/5e/scag
 aliases:
   - "Vhaeraun"
+  - Vhaeraun
 ---
 # Vhaeraun
 *Source: Sword Coast Adventurer's Guide p. 23* 

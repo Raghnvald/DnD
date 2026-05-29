@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 19: Skull"
+linter-yaml-title-alias: "Chapter 19: Skull"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 19: Skull"
   - Chapter 19: Skull
 ---
 # Chapter 19: Skull

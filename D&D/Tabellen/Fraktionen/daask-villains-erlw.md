@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daask Villains
+linter-yaml-title-alias: Daask Villains
 tags:
   - Quelle/5e/erlw
 aliases:

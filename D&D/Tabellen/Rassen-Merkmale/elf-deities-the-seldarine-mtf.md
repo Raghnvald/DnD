@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf Deities (The Seldarine)
+linter-yaml-title-alias: Elf Deities (The Seldarine)
 tags:
   - Quelle/5e/mtf
 aliases:

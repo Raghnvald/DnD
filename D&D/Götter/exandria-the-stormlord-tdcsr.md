@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Stormlord
+linter-yaml-title-alias: The Stormlord
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war

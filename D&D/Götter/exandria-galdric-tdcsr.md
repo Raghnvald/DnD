@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Galdric
+linter-yaml-title-alias: Galdric
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

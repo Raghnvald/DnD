@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Mutated Drow
+linter-yaml-title-alias: Giant Mutated Drow
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9

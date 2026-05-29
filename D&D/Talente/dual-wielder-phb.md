@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dual Wielder
+linter-yaml-title-alias: Dual Wielder
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

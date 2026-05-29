@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awakened Shrub
+linter-yaml-title-alias: Awakened Shrub
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Wald

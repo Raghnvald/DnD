@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mishakal
+linter-yaml-title-alias: Mishakal
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life

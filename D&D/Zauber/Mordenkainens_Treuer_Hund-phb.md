@@ -1,6 +1,12 @@
 ---
 Bezeichnung: "Mordenkainen's Faithful Hound"
 Zaubergrad: 4
+linter-yaml-title-alias: "Mordenkainen's Faithful Hound"
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
-  - Mordenkainen's Faithful Hound
-linter-yaml-title-alias: Mordenkainen's Faithful Hound
+  - "Mordenkainen's Faithful Hound"
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  

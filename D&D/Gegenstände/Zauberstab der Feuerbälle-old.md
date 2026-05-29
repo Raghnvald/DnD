@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab der Feuerbälle
 Kategorie: Zauberstab
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 4.000 GM
 Gew.: 0,5 kg
 image: wand-of-fireballs.webp
+linter-yaml-title-alias: Zauberstab der Feuerbälle
 tags:
   - Gegenstand/Einstimmung/Zauberwirker
   - Gegenstand/Seltenheit/selten
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Fireballs
+  - Zauberstab der Feuerbälle
 ---
 # Zauberstab der Feuerbälle
 *Zauberstab, selten (erfordert Einstimmung durch einen Zauberwirker)*  

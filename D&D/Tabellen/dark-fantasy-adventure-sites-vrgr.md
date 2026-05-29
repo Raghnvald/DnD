@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Fantasy Adventure Sites
+linter-yaml-title-alias: Dark Fantasy Adventure Sites
 tags:
   - Quelle/5e/vrgr
 aliases:

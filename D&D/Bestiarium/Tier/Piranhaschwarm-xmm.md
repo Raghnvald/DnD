@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Piranhas
+linter-yaml-title-alias: Swarm of Piranhas
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/underwater

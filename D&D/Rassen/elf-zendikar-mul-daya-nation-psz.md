@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Elf (Zendikar; Mul Daya Nation)
+linter-yaml-title-alias: Elf (Zendikar; Mul Daya Nation)
 tags:
   - Quelle/5e/psz
   - Rasse/elf/zendikar-mul-daya-nation
 aliases:
   - "Elf (Zendikar; Mul Daya Nation)"
+  - Elf (Zendikar; Mul Daya Nation)
 ---
 # Elf (Zendikar; Mul Daya Nation)
 *Source: Plane Shift: Zendikar p. 19*  

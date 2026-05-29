@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ring of Thunder Resistance
+linter-yaml-title-alias: Ring of Thunder Resistance
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
   - Ring of Thunder Resistance
-linter-yaml-title-alias: Ring of Thunder Resistance
 ---
 # Ring of Thunder Resistance
 *Ring, rare*  

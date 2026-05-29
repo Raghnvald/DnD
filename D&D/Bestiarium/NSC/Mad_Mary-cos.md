@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mad Mary
+linter-yaml-title-alias: Mad Mary
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Mad Mary
-linter-yaml-title-alias: Mad Mary
 ---
 # Mad Mary
 *Source: Curse of Strahd p. 44*  

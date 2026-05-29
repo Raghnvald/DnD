@@ -4,11 +4,13 @@ prefer-view:
 Bezeichnung: Schwur der Wächter
 status:
   - completed
+linter-yaml-title-alias: Schwur der Wächter
 tags:
   - Klasse/Paladin
   - Quelle/5e/xge
 aliases:
   - Oath of the Watchers
+  - Schwur der Wächter
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
 type:

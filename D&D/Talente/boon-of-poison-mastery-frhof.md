@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of Poison Mastery
+linter-yaml-title-alias: Boon of Poison Mastery
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Boon of Poison Mastery"
+  - Boon of Poison Mastery
 ---
 # Boon of Poison Mastery
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

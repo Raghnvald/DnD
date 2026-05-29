@@ -2,16 +2,17 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riffel
+image: token/riffel-veor.webp
 status: WIP
+linter-yaml-title-alias: Riffel
 tags:
   - Monster/Größe/Klein
   - Monster/HG/3
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/veor
 aliases:
   - Riffel
-linter-yaml-title-alias: Riffel
 ---
 # [Riffel](3-Mechanics\CLI\bestiary\npc/riffel-veor.md)
 *Source: Vecna: Eve of Ruin*  

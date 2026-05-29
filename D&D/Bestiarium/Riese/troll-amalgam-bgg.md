@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Troll Amalgam
+linter-yaml-title-alias: Troll Amalgam
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/17

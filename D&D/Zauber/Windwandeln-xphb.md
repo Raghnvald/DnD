@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Wind Walk
+linter-yaml-title-alias: Wind Walk
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Wind Walk
-linter-yaml-title-alias: Wind Walk
 ---
 # Wind Walk
 *6th-level, Transmutation*  

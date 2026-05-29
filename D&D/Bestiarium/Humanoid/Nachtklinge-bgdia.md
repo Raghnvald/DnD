@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Night Blade
+linter-yaml-title-alias: Night Blade
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Night Blade

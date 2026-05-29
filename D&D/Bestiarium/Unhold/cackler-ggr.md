@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cackler
+linter-yaml-title-alias: Cackler
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-2

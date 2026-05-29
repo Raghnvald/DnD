@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Crystal (Empowered)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Mind Crystal (Empowered)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal (Empowered)
-linter-yaml-title-alias: Mind Crystal (Empowered)
 ---
 # Mind Crystal (Empowered)
 *Wondrous item, uncommon*  

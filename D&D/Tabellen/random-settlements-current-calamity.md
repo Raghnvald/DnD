@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Settlements; Current Calamity
+linter-yaml-title-alias: Random Settlements; Current Calamity
 tags:
   - Quelle/5e/dmg
 aliases:

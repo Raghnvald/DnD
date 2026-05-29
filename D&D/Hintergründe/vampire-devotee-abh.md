@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Vampire Devotee
+linter-yaml-title-alias: Vampire Devotee
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/abh
 aliases:
   - "Vampire Devotee"
+  - Vampire Devotee
 ---
 # Vampire Devotee
 *Source: Astarion's Book of Hungers p. 6*  

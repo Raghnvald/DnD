@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goblin
+linter-yaml-title-alias: Goblin
 tags:
   - Quelle/5e/mpmm
   - Rasse/goblin

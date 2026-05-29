@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Magnifying Glass
+linter-yaml-title-alias: Magnifying Glass
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Magnifying Glass
-linter-yaml-title-alias: Magnifying Glass
 ---
 # Magnifying Glass
 *Adventuring gear*  

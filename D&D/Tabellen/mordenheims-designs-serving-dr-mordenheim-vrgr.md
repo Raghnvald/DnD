@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Mordenheim's Designs; Serving Dr. Mordenheim"
+linter-yaml-title-alias: "Mordenheim's Designs; Serving Dr. Mordenheim"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Mordenheim's Designs; Serving Dr. Mordenheim"
   - Mordenheim's Designs; Serving Dr. Mordenheim
 ---
 # Mordenheim's Designs; Serving Dr. Mordenheim

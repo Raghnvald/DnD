@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Rune Shaper
+linter-yaml-title-alias: Spells for Rune Shaper
 tags:
   - Zauber/list/feat/rune-shaper
 aliases:

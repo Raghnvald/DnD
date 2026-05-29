@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Urchin"
+linter-yaml-title-alias: "Baldur's Gate Urchin"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Urchin"
   - Baldur's Gate Urchin
 ---
 # Baldur's Gate Urchin

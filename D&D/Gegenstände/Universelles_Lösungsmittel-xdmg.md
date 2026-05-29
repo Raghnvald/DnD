@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Universal Solvent
+linter-yaml-title-alias: Universal Solvent
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Universal Solvent
-linter-yaml-title-alias: Universal Solvent
 ---
 # Universal Solvent
 *Wondrous item, legendary*  

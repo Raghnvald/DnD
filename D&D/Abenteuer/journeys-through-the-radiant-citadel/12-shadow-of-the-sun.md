@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Shadow of the Sun
+linter-yaml-title-alias: Shadow of the Sun
 tags:
   - Quelle/5e/jttrc
 aliases:
   - "Shadow of the Sun"
+  - Shadow of the Sun
 ---
 # Shadow of the Sun
 *Source: Journeys through the Radiant Citadel, p. 148* 

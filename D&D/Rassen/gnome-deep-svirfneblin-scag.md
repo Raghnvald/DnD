@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gnome (Deep/Svirfneblin)
+linter-yaml-title-alias: Gnome (Deep/Svirfneblin)
 tags:
   - Quelle/5e/scag
   - Rasse/gnome/deep-svirfneblin
 aliases:
   - "Gnome (Deep/Svirfneblin)"
+  - Gnome (Deep/Svirfneblin)
 ---
 # Gnome (Deep/Svirfneblin)
 *Source: Sword Coast Adventurer's Guide p. 115*  

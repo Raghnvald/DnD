@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +1 Weapon
+linter-yaml-title-alias: +1 Weapon
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -63,7 +64,6 @@ aliases:
   - +1 Weapon
   - +1 Whip
   - +1 Yklwa
-linter-yaml-title-alias: +1 Weapon
 ---
 # +1 Weapon
 *Uncommon*  

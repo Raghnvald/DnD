@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Zauberstab
 Kategorie: Fokus, Arkan
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 0,5 kg
+status: completed
+linter-yaml-title-alias: Zauberstab
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Wand
   - Zauberstab
-linter-yaml-title-alias: Zauberstab
 ---
 # Zauberstab
 *Zauberfokus*

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Krell Grohlg
+linter-yaml-title-alias: Krell Grohlg
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Krell Grohlg
-linter-yaml-title-alias: Krell Grohlg
 ---
 # [Krell Grohlg](3-Mechanics\CLI\bestiary\npc/krell-grohlg-gos.md)
 *Source: Ghosts of Saltmarsh p. 92*  

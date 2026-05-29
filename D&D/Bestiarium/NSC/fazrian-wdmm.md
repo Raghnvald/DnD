@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fazrian
+linter-yaml-title-alias: Fazrian
 tags:
   - Monster/Größe/Groß
   - Monster/HG/16
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Fazrian
-linter-yaml-title-alias: Fazrian
 ---
 # [Fazrian](3-Mechanics\CLI\bestiary\npc/fazrian-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 275*  

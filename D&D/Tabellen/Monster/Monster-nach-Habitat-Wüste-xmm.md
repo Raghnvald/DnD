@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Desert Monsters
+linter-yaml-title-alias: Monsters by Habitat; Desert Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

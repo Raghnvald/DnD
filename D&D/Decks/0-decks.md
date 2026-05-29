@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Decks
+linter-yaml-title-alias: Index of Decks
+aliases:
+  - Index of Decks
 ---
 # Index of Decks
 

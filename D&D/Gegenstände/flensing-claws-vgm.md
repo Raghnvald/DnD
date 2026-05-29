@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Flensing Claws
+linter-yaml-title-alias: Flensing Claws
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/vgm
 aliases:
   - Flensing Claws
-linter-yaml-title-alias: Flensing Claws
 ---
 # Flensing Claws
 

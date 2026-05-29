@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Insect Plague
 Zaubergrad: 5
+linter-yaml-title-alias: Insect Plague
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Nature Domain)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Desert)
+  - Sorcerer
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -12,17 +21,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Nature Domain)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Desert)
-  - Sorcerer
 aliases:
   - Insect Plague
-linter-yaml-title-alias: Insect Plague
 ---
 # Insect Plague
 *5th-level, Conjuration*  

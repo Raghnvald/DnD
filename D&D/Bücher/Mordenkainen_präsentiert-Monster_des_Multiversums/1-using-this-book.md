@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Using This Book
+linter-yaml-title-alias: Using This Book
 tags:
   - Quelle/5e/mpmm
 aliases:

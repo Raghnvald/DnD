@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Quests From the Infinite Staircase
+linter-yaml-title-alias: Index of Quests From the Infinite Staircase
+aliases:
+  - Index of Quests From the Infinite Staircase
 ---
 # Index of Quests From the Infinite Staircase
 

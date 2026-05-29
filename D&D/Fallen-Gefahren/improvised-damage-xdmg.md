@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Improvised Damage
+linter-yaml-title-alias: Improvised Damage
 tags:
   - Kompendium/Bedrohung/gen
   - Quelle/5e/xdmg

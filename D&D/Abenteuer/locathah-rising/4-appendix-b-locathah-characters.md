@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Locathah Characters"
+linter-yaml-title-alias: "Appendix B: Locathah Characters"
 tags:
   - Quelle/5e/lr
 aliases:

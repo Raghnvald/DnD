@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kuo-toa Monitor
+linter-yaml-title-alias: Kuo-toa Monitor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Titanothere
+linter-yaml-title-alias: Titanothere
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5

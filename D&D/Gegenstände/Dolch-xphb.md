@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dagger
+linter-yaml-title-alias: Dagger
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Dagger
-linter-yaml-title-alias: Dagger
 ---
 # Dagger
 *Weapon*  

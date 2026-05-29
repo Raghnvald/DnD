@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Thither
+linter-yaml-title-alias: Thither
 tags:
   - Quelle/5e/wbtw
 aliases:
   - "Thither"
+  - Thither
 ---
 # Thither
 *Source: The Wild Beyond the Witchlight, p. 99* 

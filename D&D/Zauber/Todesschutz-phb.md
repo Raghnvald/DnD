@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Death Ward
 Zaubergrad: 4
+linter-yaml-title-alias: Death Ward
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Death Domain)
+  - Cleric (Life Domain)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -10,15 +17,8 @@ tags:
   - Subklasse/life-domain
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Death Domain)
-  - Cleric (Life Domain)
-  - Paladin
 aliases:
   - Death Ward
-linter-yaml-title-alias: Death Ward
 ---
 # Death Ward
 *4th-level, Abjuration*  

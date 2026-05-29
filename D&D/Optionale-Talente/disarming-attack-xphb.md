@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Disarming Attack
+linter-yaml-title-alias: Disarming Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

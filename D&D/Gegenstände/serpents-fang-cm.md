@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Serpent's Fang"
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: "Serpent's Fang"
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cm
 aliases:
-  - Serpent's Fang
-linter-yaml-title-alias: Serpent's Fang
+  - "Serpent's Fang"
 ---
 # Serpent's Fang
 *Weapon (longsword), rare*  

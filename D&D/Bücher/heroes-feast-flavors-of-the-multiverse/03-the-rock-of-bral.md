@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The Rock Of Bral
+linter-yaml-title-alias: The Rock Of Bral
 tags:
   - Quelle/5e/hffotm
 aliases:
   - "The Rock Of Bral"
+  - The Rock Of Bral
 ---
 # The Rock Of Bral
 *Source: Heroes' Feast Flavors of the Multiverse, p. 35* 

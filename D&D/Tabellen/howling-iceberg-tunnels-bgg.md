@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Howling Iceberg Tunnels
+linter-yaml-title-alias: Howling Iceberg Tunnels
 tags:
   - Quelle/5e/bgg
 aliases:

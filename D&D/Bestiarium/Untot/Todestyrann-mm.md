@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Tyrant
+linter-yaml-title-alias: Death Tyrant
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Death Tyrant
-linter-yaml-title-alias: Death Tyrant
 ---
 # [Death Tyrant](3-Mechanics\CLI\bestiary\undead/death-tyrant.md)
 *Source: Monster Manual p. 29*  

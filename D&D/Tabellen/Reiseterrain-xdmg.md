@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Travel Terrain
+linter-yaml-title-alias: Travel Terrain
 tags:
   - Quelle/5e/xdmg
 aliases:

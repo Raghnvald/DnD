@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Copper Dragon; Copper Dragon Spellcasting
+linter-yaml-title-alias: Creating a Copper Dragon; Copper Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

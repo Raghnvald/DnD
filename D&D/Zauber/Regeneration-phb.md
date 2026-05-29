@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Stunden
 Angriff: n/a
 Schaden: 4W8+15 Heilung
+linter-yaml-title-alias: Regeneration
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,12 +19,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
   - Regenerate
+  - Regeneration
 ---
 # Regeneration
 *Verwandlung des 7. Grades*

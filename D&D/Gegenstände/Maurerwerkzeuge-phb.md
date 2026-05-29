@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Maurerwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 4,0 kg
+status: WIP
+linter-yaml-title-alias: Maurerwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Mason's Tools
-linter-yaml-title-alias: Mason's Tools
+  - Maurerwerkzeuge
 ---
 # Maurerwerkzeuge
 *Handwerkszeug*

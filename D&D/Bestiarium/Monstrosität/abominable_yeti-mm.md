@@ -9,6 +9,7 @@ Habitat:
   - Arktis
 image: token/abominable-yeti.webp
 status: WIP
+linter-yaml-title-alias: Abominable Yeti
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis

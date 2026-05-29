@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Twists
+linter-yaml-title-alias: Twists
 tags:
   - Quelle/5e/dmg
 aliases:

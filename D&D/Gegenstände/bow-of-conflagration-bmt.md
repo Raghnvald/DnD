@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Bow of Conflagration
 Kategorie: Beliebig, Bogen
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Bow of Conflagration
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -13,7 +18,6 @@ aliases:
   - Bow of Conflagration
   - Longbow of Conflagration
   - Shortbow of Conflagration
-linter-yaml-title-alias: Bow of Conflagration
 ---
 # Bow of Conflagration
 *Rare (requires attunement)*  

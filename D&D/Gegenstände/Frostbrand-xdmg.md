@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Frost Brand
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Frost Brand
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -16,7 +17,6 @@ aliases:
   - Frost Brand Rapier
   - Frost Brand Scimitar
   - Frost Brand Shortsword
-linter-yaml-title-alias: Frost Brand
 ---
 # Frost Brand
 *Very rare (requires attunement)*  

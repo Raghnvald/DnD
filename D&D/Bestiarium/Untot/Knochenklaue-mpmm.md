@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boneclaw
+linter-yaml-title-alias: Boneclaw
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Boneclaw
-linter-yaml-title-alias: Boneclaw
 ---
 # [Boneclaw](3-Mechanics\CLI\bestiary\undead/boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66*  

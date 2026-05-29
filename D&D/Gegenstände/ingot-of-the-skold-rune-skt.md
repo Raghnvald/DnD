@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ingot of the Skold Rune
+linter-yaml-title-alias: Ingot of the Skold Rune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/skt
 aliases:
   - Ingot of the Skold Rune
-linter-yaml-title-alias: Ingot of the Skold Rune
 ---
 # Ingot of the Skold Rune
 *Wondrous item, very rare (requires attunement)*  

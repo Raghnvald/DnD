@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Solar Bastion Knight
+linter-yaml-title-alias: Solar Bastion Knight
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9

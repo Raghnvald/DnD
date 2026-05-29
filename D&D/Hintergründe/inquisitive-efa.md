@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Inquisitive
+linter-yaml-title-alias: Inquisitive
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "Inquisitive"
+  - Inquisitive
 ---
 # Inquisitive
 *Source: Eberron: Forge of the Artificer p. 33*  

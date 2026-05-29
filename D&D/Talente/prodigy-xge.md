@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Prodigy
+linter-yaml-title-alias: Prodigy
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

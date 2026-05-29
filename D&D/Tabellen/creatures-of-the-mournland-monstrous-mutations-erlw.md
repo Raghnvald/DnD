@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creatures of the Mournland; Monstrous Mutations
+linter-yaml-title-alias: Creatures of the Mournland; Monstrous Mutations
 tags:
   - Quelle/5e/erlw
 aliases:

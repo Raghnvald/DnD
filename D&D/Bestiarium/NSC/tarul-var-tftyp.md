@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tarul Var
+linter-yaml-title-alias: Tarul Var
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Tarul Var
-linter-yaml-title-alias: Tarul Var
 ---
 # [Tarul Var](3-Mechanics\CLI\bestiary\npc/tarul-var-tftyp.md)
 *Source: Tales from the Yawning Portal p. 244*  

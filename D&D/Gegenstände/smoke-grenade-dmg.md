@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Smoke Grenade
 Kategorie: Explosives
+linter-yaml-title-alias: Smoke Grenade
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Smoke Grenade
-linter-yaml-title-alias: Smoke Grenade
 ---
 # Smoke Grenade
 *Explosive*  

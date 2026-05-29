@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 18: Void"
+linter-yaml-title-alias: "Chapter 18: Void"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 18: Void"
   - Chapter 18: Void
 ---
 # Chapter 18: Void

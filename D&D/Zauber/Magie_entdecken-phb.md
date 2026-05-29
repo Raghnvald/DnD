@@ -7,6 +7,17 @@ Komponenten: V, G
 Wirkungsdauer: K, <10 Minuten
 Angriff: nichts
 Schaden:
+linter-yaml-title-alias: Magie entdecken
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -25,19 +36,9 @@ tags:
   - Zauber/optfeature/eldritch-sight
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Detect Magic
-linter-yaml-title-alias: Magie entdecken
+  - Magie entdecken
 ---
 # Magie entdecken
 *Erkenntnismagie des 1. Grades (Ritual)*

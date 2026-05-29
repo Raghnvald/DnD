@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Erebos's Disciple"
+linter-yaml-title-alias: "Erebos's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

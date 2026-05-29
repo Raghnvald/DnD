@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ball Bearings (bag of 1,000)
+linter-yaml-title-alias: Ball Bearings (bag of 1,000)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Ball Bearings (bag of 1,000)
-linter-yaml-title-alias: Ball Bearings (bag of 1,000)
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring gear*  

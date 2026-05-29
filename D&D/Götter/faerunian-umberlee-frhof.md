@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Umberlee
+linter-yaml-title-alias: Umberlee
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "The Queen of the Depths"
   - "The Wavemother"
   - "Umberlee"
+  - Umberlee
 ---
 # Umberlee
 *Source: Forgotten Realms: Heroes of Faerûn p. 127* 

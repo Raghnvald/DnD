@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Überlebensmantel
 Rüstung: Mittel
+linter-yaml-title-alias: Überlebensmantel
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/vgm
 aliases:
-  - Survival Mantle
-linter-yaml-title-alias: Survival Mantle
+  - Überlebensmantel
 ---
 # Überlebensmantel
 *Medium armor*  

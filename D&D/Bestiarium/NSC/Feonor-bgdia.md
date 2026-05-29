@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Feonor
+linter-yaml-title-alias: Feonor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Feonor
-linter-yaml-title-alias: Feonor
 ---
 # Feonor
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  

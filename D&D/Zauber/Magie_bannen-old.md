@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: unmittelbar
 Angriff: n/a
 Schaden: Kontrolle
+linter-yaml-title-alias: Magie bannen
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -21,6 +22,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Dispel Magic
+  - Magie bannen
 ---
 # Magie bannen
 _Bann des 3. Grades_

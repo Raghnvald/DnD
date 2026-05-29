@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bezauberung der Tierbeschwörung
+linter-yaml-title-alias: Bezauberung der Tierbeschwörung
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dmg
 aliases:
+  - Bezauberung der Tierbeschwörung
   - Charm of Animal Conjuring
 ---
 # Bezauberung der Tierbeschwörung

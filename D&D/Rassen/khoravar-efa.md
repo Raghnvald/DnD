@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Khoravar
+linter-yaml-title-alias: Khoravar
 tags:
   - Quelle/5e/efa
   - Rasse/khoravar
 aliases:
   - "Khoravar"
+  - Khoravar
 ---
 # Khoravar
 *Source: Eberron: Forge of the Artificer p. 36*  

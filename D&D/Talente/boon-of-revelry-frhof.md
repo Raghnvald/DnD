@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of Revelry
+linter-yaml-title-alias: Boon of Revelry
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Boon of Revelry"
+  - Boon of Revelry
 ---
 # Boon of Revelry
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

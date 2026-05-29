@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Locathah
+linter-yaml-title-alias: Locathah
 tags:
   - Quelle/5e/lr
   - Rasse/locathah
 aliases:
   - "Locathah"
+  - Locathah
 ---
 # Locathah
 *Source: Locathah Rising p. 24*  

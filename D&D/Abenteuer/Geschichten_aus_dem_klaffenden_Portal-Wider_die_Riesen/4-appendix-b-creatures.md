@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Creatures"
+linter-yaml-title-alias: "Appendix B: Creatures"
 tags:
   - Quelle/5e/tftyp-atg
 aliases:

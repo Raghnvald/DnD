@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fist of Bane
+linter-yaml-title-alias: Fist of Bane
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Fist of Bane

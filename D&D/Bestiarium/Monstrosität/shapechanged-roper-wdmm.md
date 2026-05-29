@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shapechanged Roper
+linter-yaml-title-alias: Shapechanged Roper
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

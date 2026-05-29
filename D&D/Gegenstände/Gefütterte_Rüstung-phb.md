@@ -2,19 +2,22 @@
 Bezeichnung: Gefütterte Rüstung
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: /
+Eigenschaften:
+  - /
+Einstimmung:
 Kst.: 5 GM
 Gew.: 4,0 kg
 RK: 11 + GES
 STR: /
 Heiml.: Nachteil
+linter-yaml-title-alias: Gefütterte Rüstung
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Gefütterte Rüstung
   - Padded Armor
-linter-yaml-title-alias: Gefütterte Rüstung
 ---
 # Gefütterte Rüstung
 *Leichte Rüstung* 

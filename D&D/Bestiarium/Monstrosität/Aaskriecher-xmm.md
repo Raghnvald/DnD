@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Carrion Crawler
+Image: token/carrion-crawler-xmm.webp
+linter-yaml-title-alias: Carrion Crawler
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt
@@ -11,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Carrion Crawler
-IMAGE: token/carrion-crawler-xmm.webp
 ---
 # [Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler-xmm.md)
 *Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*  

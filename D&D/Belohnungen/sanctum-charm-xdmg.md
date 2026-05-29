@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sanctum Charm
+linter-yaml-title-alias: Sanctum Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

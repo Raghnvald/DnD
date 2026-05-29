@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Fire Opal
+linter-yaml-title-alias: Fire Opal
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Fire Opal
-linter-yaml-title-alias: Fire Opal
 ---
 # Fire Opal
 *Treasure (gemstone)*  

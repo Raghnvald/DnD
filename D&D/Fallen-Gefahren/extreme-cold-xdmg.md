@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Extreme Cold
+linter-yaml-title-alias: Extreme Cold
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

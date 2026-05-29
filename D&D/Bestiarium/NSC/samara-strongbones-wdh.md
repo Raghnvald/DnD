@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Samara Strongbones
+linter-yaml-title-alias: Samara Strongbones
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Samara Strongbones
-linter-yaml-title-alias: Samara Strongbones
 ---
 # [Samara Strongbones](3-Mechanics\CLI\bestiary\npc/samara-strongbones-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 104*  

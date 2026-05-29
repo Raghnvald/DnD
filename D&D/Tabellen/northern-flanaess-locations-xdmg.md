@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Northern Flanaess Locations
+linter-yaml-title-alias: Northern Flanaess Locations
 tags:
   - Quelle/5e/xdmg
 aliases:

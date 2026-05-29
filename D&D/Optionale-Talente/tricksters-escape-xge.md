@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Trickster's Escape"
+linter-yaml-title-alias: "Trickster's Escape"
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge
 aliases:
+  - "Trickster's Escape"
   - Trickster's Escape
 ---
 # Trickster's Escape

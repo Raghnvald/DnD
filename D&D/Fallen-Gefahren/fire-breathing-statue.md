@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire-Breathing Statue
+linter-yaml-title-alias: Fire-Breathing Statue
 tags:
   - Kompendium/Bedrohung/mag
   - Quelle/5e/dmg

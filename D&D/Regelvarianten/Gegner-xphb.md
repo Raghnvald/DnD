@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enemy
+linter-yaml-title-alias: Enemy
 tags:
   - Quelle/5e/xphb
 aliases:

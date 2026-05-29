@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Zauberschmiede
+linter-yaml-title-alias: Zauberschmiede
+aliases:
+  - Zauberschmiede
 ---
 # Zauberschmiede
 

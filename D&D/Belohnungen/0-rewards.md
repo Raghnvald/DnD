@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Rewards
+linter-yaml-title-alias: Index of Rewards
+aliases:
+  - Index of Rewards
 ---
 # Index of Rewards
 

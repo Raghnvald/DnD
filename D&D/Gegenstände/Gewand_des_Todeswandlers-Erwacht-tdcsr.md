@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Awakened)"
 Rüstung: Leicht
+linter-yaml-title-alias: "Deathwalker's Ward (Awakened)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - Deathwalker's Ward (Awakened)
-linter-yaml-title-alias: Deathwalker's Ward (Awakened)
+  - "Deathwalker's Ward (Awakened)"
 ---
 # Deathwalker's Ward (Awakened)
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  

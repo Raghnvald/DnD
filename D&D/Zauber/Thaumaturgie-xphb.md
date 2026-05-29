@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Thaumaturgy
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Ranger (Drakewarden)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
@@ -19,14 +25,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (College of Lore)
-  - Cleric
-  - Ranger (Drakewarden)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Thaumaturgy
-linter-yaml-title-alias: Thaumaturgy
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Locate Animals or Plants
 Zaubergrad: 2
+linter-yaml-title-alias: Locate Animals or Plants
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,13 +14,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Ranger
 aliases:
   - Locate Animals or Plants
-linter-yaml-title-alias: Locate Animals or Plants
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

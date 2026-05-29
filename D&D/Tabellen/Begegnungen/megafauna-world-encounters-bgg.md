@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Megafauna World Encounters
+linter-yaml-title-alias: Megafauna World Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

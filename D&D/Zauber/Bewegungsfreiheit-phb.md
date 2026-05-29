@@ -6,6 +6,15 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Freedom of Movement
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
+  - Paladin (Oath of Devotion)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,17 +26,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (War Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
-  - Paladin (Oath of Devotion)
-  - Ranger
 aliases:
   - Freedom of Movement
-linter-yaml-title-alias: Freedom of Movement
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

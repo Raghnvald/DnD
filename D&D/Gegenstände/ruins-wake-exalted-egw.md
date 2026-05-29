@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Ruin's Wake (Exalted)"
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: "Ruin's Wake (Exalted)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
-  - Ruin's Wake (Exalted)
-linter-yaml-title-alias: Ruin's Wake (Exalted)
+  - "Ruin's Wake (Exalted)"
 ---
 # Ruin's Wake (Exalted)
 *Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md)), artifact (requires attunement)*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Deities of Dragonlance: Neutral"
+linter-yaml-title-alias: "Deities of Dragonlance: Neutral"
 tags:
   - Quelle/5e/phb
 aliases:
+  - "Deities of Dragonlance: Neutral"
   - Deities of Dragonlance: Neutral
 ---
 # Deities of Dragonlance: Neutral

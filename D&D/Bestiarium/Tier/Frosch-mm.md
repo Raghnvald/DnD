@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frog
+linter-yaml-title-alias: Frog
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

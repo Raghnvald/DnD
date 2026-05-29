@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The Vanishing Gnome
+linter-yaml-title-alias: The Vanishing Gnome
 tags:
   - Quelle/5e/wtthc
 aliases:
   - "The Vanishing Gnome"
+  - The Vanishing Gnome
 ---
 # The Vanishing Gnome
 *Source: Stranger Things: Welcome to the Hellfire Club* 

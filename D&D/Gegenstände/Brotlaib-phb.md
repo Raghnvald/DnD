@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Loaf of Bread
 Kategorie: Essen und Trinken
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 KM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Loaf of Bread
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Loaf of Bread
-linter-yaml-title-alias: Loaf of Bread
 ---
 # Loaf of Bread
 *Food and drink*  

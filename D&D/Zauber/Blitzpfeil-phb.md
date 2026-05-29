@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Lightning Arrow
 Zaubergrad: 3
+linter-yaml-title-alias: Lightning Arrow
+classes:
+  - Bard (Magical Secrets)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Waldläufer
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Ranger
 aliases:
   - Lightning Arrow
-linter-yaml-title-alias: Lightning Arrow
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  

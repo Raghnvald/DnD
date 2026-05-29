@@ -7,6 +7,15 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: /
 Schaden: /
+linter-yaml-title-alias: Schwache Genesung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -19,17 +28,8 @@ tags:
   - Rasse/aasimar
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Druid
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Ranger
 aliases:
-  - Lesser Restoration
-linter-yaml-title-alias: Lesser Restoration
+  - Schwache Genesung
 ---
 # Schwache Genesung
 *Bann des 2. Grades*  

@@ -8,6 +8,7 @@ HG: 11
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Adult Deep Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Adult Deep Dragon
-linter-yaml-title-alias: Adult Deep Dragon
 ---
 # [Adult Deep Dragon](3-Mechanics\CLI\bestiary\dragon/adult-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 174*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Genasi (Earth)
+linter-yaml-title-alias: Spells for Genasi (Earth)
 tags:
   - Zauber/list/subrace/genasi-earth
 aliases:

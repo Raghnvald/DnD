@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rak Tulkhesh
+linter-yaml-title-alias: Rak Tulkhesh
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/28
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Rak Tulkhesh
-linter-yaml-title-alias: Rak Tulkhesh
 ---
 # [Rak Tulkhesh](3-Mechanics\CLI\bestiary\npc/rak-tulkhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 303*  

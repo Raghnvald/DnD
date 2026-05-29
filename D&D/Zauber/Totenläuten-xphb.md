@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Toll the Dead
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Death Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister
@@ -23,18 +33,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Death Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 aliases:
   - Toll the Dead
-linter-yaml-title-alias: Toll the Dead
 ---
 # Toll the Dead
 *cantrip, Necromancy*  

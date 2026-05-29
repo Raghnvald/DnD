@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Relics - Rare
+linter-yaml-title-alias: Relics - Rare
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dyrrn
+linter-yaml-title-alias: Dyrrn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/24
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Dyrrn
-linter-yaml-title-alias: Dyrrn
 ---
 # [Dyrrn](3-Mechanics\CLI\bestiary\npc/dyrrn-erlw.md)
 *Source: Eberron: Rising from the Last War p. 288*  

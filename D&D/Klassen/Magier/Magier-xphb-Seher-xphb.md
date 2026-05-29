@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Diviner
+linter-yaml-title-alias: Diviner
 tags:
   - Klasse/Magier/diviner
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: One-of-a-Kind Objects; Hag Objects
+linter-yaml-title-alias: One-of-a-Kind Objects; Hag Objects
 tags:
   - Quelle/5e/vgm
 aliases:

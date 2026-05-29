@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Dust of Sneezing and Choking
+linter-yaml-title-alias: Dust of Sneezing and Choking
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Dust of Sneezing and Choking
-linter-yaml-title-alias: Dust of Sneezing and Choking
 ---
 # Dust of Sneezing and Choking
 *Wondrous item, uncommon*  

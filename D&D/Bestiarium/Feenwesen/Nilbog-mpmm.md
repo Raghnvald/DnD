@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nilbog
+linter-yaml-title-alias: Nilbog
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Hügel

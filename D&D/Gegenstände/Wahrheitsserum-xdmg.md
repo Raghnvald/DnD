@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Truth Serum
+linter-yaml-title-alias: Truth Serum
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Truth Serum
-linter-yaml-title-alias: Truth Serum
 ---
 # Truth Serum
 *Adventuring gear, poison (ingested)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unbroken Air
+linter-yaml-title-alias: Unbroken Air
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

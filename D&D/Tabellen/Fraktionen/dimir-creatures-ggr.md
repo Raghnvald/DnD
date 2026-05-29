@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir Creatures
+linter-yaml-title-alias: Dimir Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

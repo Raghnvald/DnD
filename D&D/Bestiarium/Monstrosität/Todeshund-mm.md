@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Dog
+linter-yaml-title-alias: Death Dog
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wüste

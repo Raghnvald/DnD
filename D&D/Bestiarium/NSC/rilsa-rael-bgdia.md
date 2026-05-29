@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rilsa Rael
+linter-yaml-title-alias: Rilsa Rael
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Rilsa Rael
-linter-yaml-title-alias: Rilsa Rael
 ---
 # [Rilsa Rael](3-Mechanics\CLI\bestiary\npc/rilsa-rael-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 199*  

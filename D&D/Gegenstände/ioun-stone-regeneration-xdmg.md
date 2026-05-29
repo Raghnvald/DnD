@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Regeneration
+linter-yaml-title-alias: Ioun Stone, Regeneration
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Regeneration
-linter-yaml-title-alias: Ioun Stone, Regeneration
 ---
 # Ioun Stone, Regeneration
 *Wondrous item, legendary (requires attunement)*  

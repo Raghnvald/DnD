@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Firemane Angel
+linter-yaml-title-alias: Firemane Angel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

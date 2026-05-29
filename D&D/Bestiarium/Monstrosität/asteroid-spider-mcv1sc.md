@@ -5,6 +5,7 @@ Bezeichnung: Asteroid Spider
 Kategorie: Monstrosität
 Größe: Gigantisch
 status: WIP
+linter-yaml-title-alias: Asteroid Spider
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/15

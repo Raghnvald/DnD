@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Silver Raven
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Figurine of Wondrous Power, Silver Raven
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Figurine of Wondrous Power, Silver Raven
-linter-yaml-title-alias: Figurine of Wondrous Power, Silver Raven
 ---
 # Figurine of Wondrous Power, Silver Raven
 *Wondrous item, major, uncommon*  

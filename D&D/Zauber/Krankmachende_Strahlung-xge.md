@@ -6,6 +6,15 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Sickening Radiance
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -17,17 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Sickening Radiance
-linter-yaml-title-alias: Sickening Radiance
 ---
 # Sickening Radiance
 *4th-level, Evocation*  

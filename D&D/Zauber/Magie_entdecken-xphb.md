@@ -7,6 +7,23 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Detect Magic
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of the Watchers)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -37,25 +54,8 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of the Watchers)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Detect Magic
-linter-yaml-title-alias: Detect Magic
 ---
 # Detect Magic
 *1st-level, Divination (ritual)*  

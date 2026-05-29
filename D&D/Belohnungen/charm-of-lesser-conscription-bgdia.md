@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Lesser Conscription
+linter-yaml-title-alias: Charm of Lesser Conscription
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bgdia

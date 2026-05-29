@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Enchanting Infiltrator
+linter-yaml-title-alias: Enchanting Infiltrator
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/11

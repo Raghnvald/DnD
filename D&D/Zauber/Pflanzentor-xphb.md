@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Transport via Plants
+linter-yaml-title-alias: Transport via Plants
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Transport via Plants
-linter-yaml-title-alias: Transport via Plants
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

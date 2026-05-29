@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Criminal"
+linter-yaml-title-alias: "Baldur's Gate Criminal"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Criminal"
   - Baldur's Gate Criminal
 ---
 # Baldur's Gate Criminal

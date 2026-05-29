@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Professor Skant
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Professor Skant
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - Professor Skant
-linter-yaml-title-alias: Professor Skant
 ---
 # Professor Skant
 *Wondrous item, rare*  

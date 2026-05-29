@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Lock of Trickery
+linter-yaml-title-alias: Lock of Trickery
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Lock of Trickery
-linter-yaml-title-alias: Lock of Trickery
 ---
 # Lock of Trickery
 *Wondrous item, common*  

@@ -7,6 +7,10 @@ Komponenten: G
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Ablenkung
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -14,12 +18,9 @@ tags:
   - Zauber/Grad/5
   - Zauber/Original/Mislead
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
+  - Ablenkung
   - Mislead
-linter-yaml-title-alias: Ablenkung
 ---
 # Ablenkung
 *Illusion des 5. Grades*

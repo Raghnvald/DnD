@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lamordia Adventures
+linter-yaml-title-alias: Lamordia Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

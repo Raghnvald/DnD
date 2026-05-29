@@ -8,6 +8,7 @@ HG: 23
 Habitat:
   - /
 image: token/Ancient-Amethyst-Dragon-ftd.webp
+linter-yaml-title-alias: Ancient Amethyst Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/23
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ancient Amethyst Dragon
-linter-yaml-title-alias: Ancient Amethyst Dragon
 ---
 # [Ancient Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 160*  

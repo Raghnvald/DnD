@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf Names – Clan
+linter-yaml-title-alias: Dwarf Names – Clan
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kalashtar
+linter-yaml-title-alias: Kalashtar
 tags:
   - Quelle/5e/erlw
   - Rasse/kalashtar

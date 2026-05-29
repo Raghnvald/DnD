@@ -9,6 +9,7 @@ Habitat:
   - Stadt
 image: token/noble.webp
 status: completed
+linter-yaml-title-alias: Adeliger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -16,6 +17,7 @@ tags:
   - Monster/Typ/Humanoid/any-race
   - Quelle/5e/mm
 aliases:
+  - Adeliger
   - Noble
 ---
 # Adeliger

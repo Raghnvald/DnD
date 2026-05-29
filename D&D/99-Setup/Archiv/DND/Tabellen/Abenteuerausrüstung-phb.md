@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventuring Gear
+linter-yaml-title-alias: Adventuring Gear
 tags:
   - Quelle/5e/phb
 aliases:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Ergänzende Tabelle; Kindheitserinnerungen
+linter-yaml-title-alias: Ergänzende Tabelle; Kindheitserinnerungen
 tags:
   - Quelle/5e/xge
 aliases:
+  - Ergänzende Tabelle; Kindheitserinnerungen
   - Supplemental Tables; Childhood Memories
 ---
 # Ergänzende Tabelle; Kindheitserinnerungen

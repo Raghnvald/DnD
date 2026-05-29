@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 9: Mantol-Derith"
+linter-yaml-title-alias: "Chapter 9: Mantol-Derith"
 tags:
   - Quelle/5e/oota
 aliases:

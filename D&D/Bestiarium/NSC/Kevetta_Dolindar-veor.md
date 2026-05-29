@@ -5,9 +5,11 @@ Bezeichnung: Kevetta Dolindar
 Kategorie: Monstrosität
 Größe: Mittelgroß
 HG: 9
-Habitat: /
+Habitat:
+  - /
 image: token/kevetta-dolindar-veor.webp
 status: completed
+linter-yaml-title-alias: Kevetta Dolindar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Kevetta Dolindar
-linter-yaml-title-alias: Kevetta Dolindar
 ---
 # Kevetta Dolindar
 *Quelle: Vecna: Vorabend der Verdammnis*  

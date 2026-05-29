@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix D: Magic"
+linter-yaml-title-alias: "Appendix D: Magic"
 tags:
   - Quelle/5e/idrotf
 aliases:
+  - "Appendix D: Magic"
   - Appendix D: Magic
 ---
 # Appendix D: Magic

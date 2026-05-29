@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Red Wizard Necropolis
+linter-yaml-title-alias: Red Wizard Necropolis
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof
 aliases:
   - "Red Wizard Necropolis"
+  - Red Wizard Necropolis
 ---
 # Red Wizard Necropolis
 *Level 5 Bastion facility*  

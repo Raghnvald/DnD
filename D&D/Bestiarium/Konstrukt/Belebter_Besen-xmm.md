@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Broom
+linter-yaml-title-alias: Animated Broom
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Stadt

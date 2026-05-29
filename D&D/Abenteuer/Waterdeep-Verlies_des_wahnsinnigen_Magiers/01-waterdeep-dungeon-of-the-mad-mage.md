@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Waterdeep: Dungeon of the Mad Mage"
+linter-yaml-title-alias: "Waterdeep: Dungeon of the Mad Mage"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Waterdeep: Dungeon of the Mad Mage"
   - Waterdeep: Dungeon of the Mad Mage
 ---
 # Waterdeep: Dungeon of the Mad Mage

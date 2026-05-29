@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Salamander
+linter-yaml-title-alias: Frost Salamander
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis

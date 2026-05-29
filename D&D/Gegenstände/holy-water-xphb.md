@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Holy Water
+linter-yaml-title-alias: Holy Water
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Holy Water
-linter-yaml-title-alias: Holy Water
 ---
 # Holy Water
 *Adventuring gear*  

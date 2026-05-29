@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cave Bear
+linter-yaml-title-alias: Cave Bear
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

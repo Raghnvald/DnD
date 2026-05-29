@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nebelun
+linter-yaml-title-alias: Nebelun
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Revelry Pirate (Sailor)
+linter-yaml-title-alias: Revelry Pirate (Sailor)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw

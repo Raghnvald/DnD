@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ride the Wind
+linter-yaml-title-alias: Ride the Wind
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Concept Art"
+linter-yaml-title-alias: "Appendix A: Concept Art"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Appendix A: Concept Art"
   - Appendix A: Concept Art
 ---
 # Appendix A: Concept Art

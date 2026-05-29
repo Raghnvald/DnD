@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Torlin Silvershield
+linter-yaml-title-alias: Torlin Silvershield
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Torlin Silvershield
-linter-yaml-title-alias: Torlin Silvershield
 ---
 # [Torlin Silvershield](3-Mechanics\CLI\bestiary\npc/torlin-silvershield-tftyp.md)
 *Source: Tales from the Yawning Portal p. 159*  

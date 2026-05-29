@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shades of Evil; Morally Ambiguous Villains
+linter-yaml-title-alias: Shades of Evil; Morally Ambiguous Villains
 tags:
   - Quelle/5e/erlw
 aliases:

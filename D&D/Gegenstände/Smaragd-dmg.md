@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Smaragd
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Smaragd
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Emerald
-linter-yaml-title-alias: Emerald
+  - Smaragd
 ---
 # Smaragd
 *Schatz (Edelstein)*  

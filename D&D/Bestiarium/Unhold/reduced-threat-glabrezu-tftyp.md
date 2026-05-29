@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Glabrezu
+linter-yaml-title-alias: Reduced-Threat Glabrezu
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9

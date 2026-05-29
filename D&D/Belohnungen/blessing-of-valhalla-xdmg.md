@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Valhalla
+linter-yaml-title-alias: Blessing of Valhalla
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/xdmg

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Emerald Enclave Caretaker
+linter-yaml-title-alias: Emerald Enclave Caretaker
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Emerald Enclave Caretaker"
+  - Emerald Enclave Caretaker
 ---
 # Emerald Enclave Caretaker
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  

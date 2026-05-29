@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Peridot
+linter-yaml-title-alias: Peridot
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Peridot
-linter-yaml-title-alias: Peridot
 ---
 # Peridot
 *Treasure (gemstone)*  

@@ -5,15 +5,15 @@ Bezeichnung: Asteria
 Kategorie: Humanoid (Mensch, Paladin)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Asteria
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/paladin
   - Quelle/5e/bmt
 aliases:
   - Asteria
-linter-yaml-title-alias: Asteria
 ---
 # [Asteria](3-Mechanics\CLI\bestiary\npc/asteria-bmt.md)
 *Source: The Book of Many Things p. 188*  

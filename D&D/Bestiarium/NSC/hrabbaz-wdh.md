@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hrabbaz
+linter-yaml-title-alias: Hrabbaz
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Hrabbaz
-linter-yaml-title-alias: Hrabbaz
 ---
 # [Hrabbaz](3-Mechanics\CLI\bestiary\npc/hrabbaz-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  

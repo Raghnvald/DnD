@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe des Unvergleichlichen Zielens
+linter-yaml-title-alias: Gabe des Unvergleichlichen Zielens
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Peerless Aim
+  - Gabe des Unvergleichlichen Zielens
 ---
 # Gabe des Unvergleichlichen Zielens
 

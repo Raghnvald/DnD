@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Frostfell and Everice Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Frostfell and Everice Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
   - Frostfell and Everice Trinket
-linter-yaml-title-alias: Frostfell and Everice Trinket
 ---
 # Frostfell and Everice Trinket
 *Adventuring gear*  

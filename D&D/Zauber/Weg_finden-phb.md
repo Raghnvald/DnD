@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Find the Path
 Zaubergrad: 6
+linter-yaml-title-alias: Find the Path
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
   - Find the Path
-linter-yaml-title-alias: Find the Path
 ---
 # Find the Path
 *6th-level, Divination*  

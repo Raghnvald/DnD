@@ -4,7 +4,9 @@ statblock-link: "#^statblock"
 Bezeichnung: Astral Dreadnought
 Kategorie: Monstrosität
 Größe: Gigantisch
+image: token/astral-dreadnought-mpmm.webp
 status: WIP
+linter-yaml-title-alias: Astral Dreadnought
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/21

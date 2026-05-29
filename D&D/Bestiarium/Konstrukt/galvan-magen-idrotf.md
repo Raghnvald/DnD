@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Galvan Magen
+linter-yaml-title-alias: Galvan Magen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

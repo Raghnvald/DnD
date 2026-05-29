@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Boots of Levitation
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Boots of Levitation
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Boots of Levitation
-linter-yaml-title-alias: Boots of Levitation
 ---
 # Boots of Levitation
 *Wondrous item, major, rare (requires attunement)*  

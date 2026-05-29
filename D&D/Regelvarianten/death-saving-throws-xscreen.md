@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Death Saving Throws
+linter-yaml-title-alias: Death Saving Throws
 tags:
   - Quelle/5e/xscreen
 aliases:
   - "Death Saving Throws"
+  - Death Saving Throws
 ---
 # Death Saving Throws
 *Source: Dungeon Master's Screen (2024)* 

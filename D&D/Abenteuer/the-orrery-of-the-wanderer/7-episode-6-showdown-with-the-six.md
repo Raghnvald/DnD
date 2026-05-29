@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Episode 6: Showdown with the Six"
+linter-yaml-title-alias: "Episode 6: Showdown with the Six"
 tags:
   - Quelle/5e/oow
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Outer Essence Shard (Chaotic)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Outer Essence Shard (Chaotic)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Outer Essence Shard (Chaotic)
-linter-yaml-title-alias: Outer Essence Shard (Chaotic)
 ---
 # Outer Essence Shard (Chaotic)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

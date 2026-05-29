@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fiendish Spirit (Yugoloth)
+linter-yaml-title-alias: Fiendish Spirit (Yugoloth)
 tags:
   - Monster/Größe/Groß
   - Monster/HG/

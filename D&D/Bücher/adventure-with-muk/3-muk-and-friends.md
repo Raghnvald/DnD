@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Muk and Friends
+linter-yaml-title-alias: Muk and Friends
 tags:
   - Quelle/5e/awm
 aliases:
   - "Muk and Friends"
+  - Muk and Friends
 ---
 # Muk and Friends
 *Source: Adventure with Muk, p. 26* 

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Lord's Ensemble"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Lord's Ensemble"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/wdh
 aliases:
-  - Lord's Ensemble
-linter-yaml-title-alias: Lord's Ensemble
+  - "Lord's Ensemble"
 ---
 # Lord's Ensemble
 *Wondrous item, very rare (requires attunement by a creature with a humanoid build)*  

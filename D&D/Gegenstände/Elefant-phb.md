@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Elefant
 Kategorie: Reit- und Lastentier
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 200 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Elefant
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Elephant
+  - Elefant
 Bew.: 12 m
-linter-yaml-title-alias: Elephant
 Traglast: 1.320 Pfd.
 ---
 # Elefant

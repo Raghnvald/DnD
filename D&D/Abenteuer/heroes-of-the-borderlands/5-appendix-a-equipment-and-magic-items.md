@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Equipment and Magic Items"
+linter-yaml-title-alias: "Appendix A: Equipment and Magic Items"
 tags:
   - Quelle/5e/hotb
 aliases:

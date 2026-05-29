@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bronze Dragon
+linter-yaml-title-alias: Bronze Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Necromancer's Journal"
+linter-yaml-title-alias: "Appendix C: Necromancer's Journal"
 tags:
   - Quelle/5e/sdw
 aliases:

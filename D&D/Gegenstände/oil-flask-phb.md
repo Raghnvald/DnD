@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Oil (flask)
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 SM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Oil (flask)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Oil (flask)
-linter-yaml-title-alias: Oil (flask)
 ---
 # Oil (flask)
 *Adventuring gear*  

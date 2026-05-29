@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oghma
+linter-yaml-title-alias: Oghma
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Oghma"
   - "The Binder of What Is Known"
   - "The Lord of Knowledge"
+  - Oghma
 ---
 # Oghma
 *Source: Forgotten Realms: Heroes of Faerûn p. 118* 

@@ -7,18 +7,18 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Armor of Agathys
+classes:
+  - Paladin (Oath of Conquest)
+  - Warlock
 tags:
   - Klasse/Hexenmeister
   - Klasse/Paladin/Schwur-der-Eroberung
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Paladin (Oath of Conquest)
-  - Warlock
 aliases:
   - Armor of Agathys
-linter-yaml-title-alias: Armor of Agathys
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  

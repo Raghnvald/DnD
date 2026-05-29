@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Memnor
+linter-yaml-title-alias: Scion of Memnor
 tags:
   - Monster/legendary-group
   - Quelle/5e/bgg

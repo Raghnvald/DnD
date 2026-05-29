@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Arkaner Betrüger
+linter-yaml-title-alias: Arkaner Betrüger
 tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/phb
 aliases:
   - Arcane Trickster
+  - Arkaner Betrüger
 ---
 # Arkaner Betrüger
 *[Schurke](Schurke-phb.md): Schurkenarchetyp*  

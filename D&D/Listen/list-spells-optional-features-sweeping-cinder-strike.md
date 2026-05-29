@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Sweeping Cinder Strike
+linter-yaml-title-alias: Spells for Sweeping Cinder Strike
 tags:
   - Zauber/list/optfeature/sweeping-cinder-strike
 aliases:

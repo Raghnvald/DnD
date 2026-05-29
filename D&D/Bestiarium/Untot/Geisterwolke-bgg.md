@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spectral Cloud
+linter-yaml-title-alias: Spectral Cloud
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Spectral Cloud
-linter-yaml-title-alias: Spectral Cloud
 ---
 # [Spectral Cloud](3-Mechanics\CLI\bestiary\undead/spectral-cloud-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 176*  

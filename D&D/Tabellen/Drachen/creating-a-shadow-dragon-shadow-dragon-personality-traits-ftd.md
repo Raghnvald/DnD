@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Shadow Dragon; Shadow Dragon Personality Traits
+linter-yaml-title-alias: Creating a Shadow Dragon; Shadow Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

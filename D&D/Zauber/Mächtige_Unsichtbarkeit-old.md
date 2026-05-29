@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Mächtige Unsichtbarkeit
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -16,6 +17,7 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Greater Invisibility
+  - Mächtige Unsichtbarkeit
 ---
 # Mächtige Unsichtbarkeit
 _Illusion des 4. Grades_

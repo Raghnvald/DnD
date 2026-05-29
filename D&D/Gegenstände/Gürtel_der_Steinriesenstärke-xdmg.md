@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Belt of Stone Giant Strength
+linter-yaml-title-alias: Belt of Stone Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Belt of Stone Giant Strength
-linter-yaml-title-alias: Belt of Stone Giant Strength
 ---
 # Belt of Stone Giant Strength
 *Wondrous item, very rare (requires attunement)*  

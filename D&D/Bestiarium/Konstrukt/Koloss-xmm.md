@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Colossus
+linter-yaml-title-alias: Colossus
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Jedes

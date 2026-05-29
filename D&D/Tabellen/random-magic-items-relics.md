@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Magic Items - Relics
+linter-yaml-title-alias: Random Magic Items - Relics
 tags:
   - Quelle/5e/xdmg
 aliases:

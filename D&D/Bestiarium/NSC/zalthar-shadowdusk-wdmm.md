@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zalthar Shadowdusk
+linter-yaml-title-alias: Zalthar Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/17
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Zalthar Shadowdusk
-linter-yaml-title-alias: Zalthar Shadowdusk
 ---
 # [Zalthar Shadowdusk](3-Mechanics\CLI\bestiary\npc/zalthar-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 286*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spell Scroll (Level 7)
+linter-yaml-title-alias: Spell Scroll (Level 7)
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Spell Scroll (Level 7)
-linter-yaml-title-alias: Spell Scroll (Level 7)
 ---
 # Spell Scroll (Level 7)
 *Scroll, very rare*  

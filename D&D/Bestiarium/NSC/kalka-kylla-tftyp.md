@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kalka-Kylla
+linter-yaml-title-alias: Kalka-Kylla
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Kalka-Kylla
-linter-yaml-title-alias: Kalka-Kylla
 ---
 # [Kalka-Kylla](3-Mechanics\CLI\bestiary\npc/kalka-kylla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 238*  

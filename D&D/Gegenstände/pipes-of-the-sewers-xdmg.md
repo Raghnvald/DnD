@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pipes of the Sewers
+linter-yaml-title-alias: Pipes of the Sewers
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Pipes of the Sewers
-linter-yaml-title-alias: Pipes of the Sewers
 ---
 # Pipes of the Sewers
 *Wondrous item, uncommon (requires attunement)*  

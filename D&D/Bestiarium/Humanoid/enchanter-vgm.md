@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Enchanter
+linter-yaml-title-alias: Enchanter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

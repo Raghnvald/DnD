@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waukeen
+linter-yaml-title-alias: Waukeen
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "The Coinmaiden"
   - "The Merchant's Friend"
   - "Waukeen"
+  - Waukeen
 ---
 # Waukeen
 *Source: Forgotten Realms: Heroes of Faerûn p. 127* 

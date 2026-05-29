@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mossback Steward
+linter-yaml-title-alias: Mossback Steward
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Mossback Steward
-linter-yaml-title-alias: Mossback Steward
 ---
 # [Mossback Steward](3-Mechanics\CLI\bestiary\npc/mossback-steward-egw.md)
 *Source: Explorer's Guide to Wildemount p. 256*  

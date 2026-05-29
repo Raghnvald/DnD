@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gambler
+linter-yaml-title-alias: Gambler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ai
 aliases:
   - "Gambler"
+  - Gambler
 ---
 # Gambler
 *Source: Acquisitions Incorporated p. 49*  

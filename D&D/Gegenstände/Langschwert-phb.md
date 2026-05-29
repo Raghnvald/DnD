@@ -2,17 +2,19 @@
 Bezeichnung: Langschwert
 Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W8 Hieb
-Eigenschaften: Vielseitig (1W10)
+Eigenschaften:
+  - Vielseitig (1W10)
 Kst.: 15 GM
 Gew.: 1,5 kg
+linter-yaml-title-alias: Langschwert
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
+  - Langschwert
   - Longsword
-linter-yaml-title-alias: Langschwert
 ---
 # Langschwert
 *Nahkampf-Kriegswaffe*  

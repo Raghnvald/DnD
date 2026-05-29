@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 11: Caught in the Tentacles"
+linter-yaml-title-alias: "Chapter 11: Caught in the Tentacles"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 11: Caught in the Tentacles"
   - Chapter 11: Caught in the Tentacles
 ---
 # Chapter 11: Caught in the Tentacles

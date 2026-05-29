@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Haunting Revenant
+linter-yaml-title-alias: Haunting Revenant
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Haunting Revenant
-linter-yaml-title-alias: Haunting Revenant
 ---
 # [Haunting Revenant](3-Mechanics\CLI\bestiary\undead/haunting-revenant-xmm.md)
 *Source: Monster Manual (2024) p. 260*  

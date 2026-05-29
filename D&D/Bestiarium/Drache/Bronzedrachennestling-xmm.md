@@ -8,6 +8,7 @@ HG: 2
 Habitat:
   - Küste
 status: WIP
+linter-yaml-title-alias: Bronze Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Bronze Dragon Wyrmling
-linter-yaml-title-alias: Bronze Dragon Wyrmling
 ---
 # [Bronze Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/bronze-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

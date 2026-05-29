@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Duergar in the Clan; Clan's Notable Trait"
+linter-yaml-title-alias: "Duergar in the Clan; Clan's Notable Trait"
 tags:
   - Quelle/5e/mtf
 aliases:
+  - "Duergar in the Clan; Clan's Notable Trait"
   - Duergar in the Clan; Clan's Notable Trait
 ---
 # Duergar in the Clan; Clan's Notable Trait

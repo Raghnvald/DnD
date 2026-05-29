@@ -6,18 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Maelstrom
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Maelstrom
-linter-yaml-title-alias: Maelstrom
 ---
 # Maelstrom
 *5th-level, Evocation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Egyptian, Female
+linter-yaml-title-alias: Human Names – Egyptian, Female
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Tantan
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Tantan
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Tantan
-linter-yaml-title-alias: Tantan
 ---
 # Tantan
 *Instrument*  

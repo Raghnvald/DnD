@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guard Drake (Black)
 status: WIP
+linter-yaml-title-alias: Guard Drake (Black)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
@@ -17,7 +18,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Guard Drake (Black)
-linter-yaml-title-alias: Guard Drake (Black)
 ---
 # [Guard Drake (Black)](3-Mechanics\CLI\bestiary\dragon/guard-drake-black-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frozen Sick
+linter-yaml-title-alias: Frozen Sick
 tags:
   - Quelle/5e/fs
 aliases:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 14: Metallic Dragons, Arise"
+linter-yaml-title-alias: "Chapter 14: Metallic Dragons, Arise"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Chapter 14: Metallic Dragons, Arise"
   - Chapter 14: Metallic Dragons, Arise
 ---
 # Chapter 14: Metallic Dragons, Arise

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruumsh
+linter-yaml-title-alias: Gruumsh
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/tempest

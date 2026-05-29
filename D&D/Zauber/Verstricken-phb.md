@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Verstricken
 Zaubergrad: 1
+linter-yaml-title-alias: Verstricken
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,12 +12,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Entangle
-linter-yaml-title-alias: Verstricken
+  - Verstricken
 ---
 # Verstricken
 *Beschwörung des 1. Grades*

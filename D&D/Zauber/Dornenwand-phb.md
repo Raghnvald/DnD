@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Dornenwand
 Zaubergrad: 6
+linter-yaml-title-alias: Dornenwand
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
-  - Wall of Thorns
-linter-yaml-title-alias: Wall of Thorns
+  - Dornenwand
 ---
 # Dornenwand
 *Beschwörung des 6. Grades*

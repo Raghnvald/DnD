@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Ruin Adventures
+linter-yaml-title-alias: Demon Ruin Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

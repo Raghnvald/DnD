@@ -1,19 +1,22 @@
 ---
-Bezeichnung: Ring of Regeneration
+Bezeichnung: Ring der Regeneration
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring der Regeneration
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Regeneration
-linter-yaml-title-alias: Ring of Regeneration
+  - Ring der Regeneration
 ---
-# Ring of Regeneration
-*Ring, major, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-regeneration.webp#right)
+# Ring der Regeneration
+*Ring, sehr selten (benötigt Einstimmung)*  
+![](img/ring-of-regeneration.webp#right)
 
-While wearing this ring, you regain `1d6` hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 hit point the whole time.
+Wenn du diesen Ring trägst, erhältst du alle 10 Minuten `1W6` Trefferpunkte zurück, insofern du mindestens 1 Trefferpunkt hast. Wenn du ein Körperteil verlierst, sorgt der Ring dafür, dass es nachwächst und nach `1W6 + 1` Tagen wieder voll funktionsfähig ist, insofern du in der ganzen Zeit mindestens 1 Trefferpunkt hast.
 
-*Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 178. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

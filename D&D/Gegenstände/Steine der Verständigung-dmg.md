@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Sending Stones
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Sending Stones
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Sending Stones
-linter-yaml-title-alias: Sending Stones
 ---
 # Sending Stones
 *Wondrous item, minor, uncommon*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavy Precipitation
+linter-yaml-title-alias: Heavy Precipitation
 tags:
   - Kompendium/Bedrohung/wth
   - Quelle/5e/dmg

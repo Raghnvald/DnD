@@ -2,18 +2,20 @@
 Bezeichnung: Dolch des Gifts
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W4 Stich
-Eigenschaften: Finesse, Leicht, Wurfwaffe
-Einstimmung: /
+Eigenschaften:
+  - Finesse
+  - Leicht
+  - Wurfwaffe
 Kst.: /
 Gew.: 0,5 kg
+linter-yaml-title-alias: Dolch des Gifts
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Dagger of Venom
-linter-yaml-title-alias: Dagger of Venom
+  - Dolch des Gifts
 ---
 # Dolch des Gifts
 *Waffe ([[Dolch-phb|Dolch]]), selten*

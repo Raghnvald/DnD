@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Tyrant Ship
+linter-yaml-title-alias: Tyrant Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/space
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Tyrant Ship"
+  - Tyrant Ship
 ---
 # Tyrant Ship
 *Source: Astral Adventurer's Guide p. 54*  

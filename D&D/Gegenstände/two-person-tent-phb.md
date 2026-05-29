@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Two-Person Tent
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 2 GM
+Gew.: 10,0 kg
+status: WIP
+linter-yaml-title-alias: Two-Person Tent
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Two-Person Tent
-linter-yaml-title-alias: Two-Person Tent
 ---
 # Two-Person Tent
 *Adventuring gear*  

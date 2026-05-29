@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Proficiency Dice
+linter-yaml-title-alias: Proficiency Dice
 tags:
   - Quelle/5e/dmg
 aliases:

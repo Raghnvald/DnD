@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Archfey
+linter-yaml-title-alias: The Archfey
 tags:
   - Klasse/Hexenmeister/archfey
   - Quelle/5e/phb

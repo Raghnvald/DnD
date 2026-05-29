@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bullywug Bog Sage
+linter-yaml-title-alias: Bullywug Bog Sage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

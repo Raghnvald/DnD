@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Kapitel 5: Gefährliche Pfade"
+linter-yaml-title-alias: "Kapitel 5: Gefährliche Pfade"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "Kapitel 5: Gefährliche Pfade"
   - Chapter 5: Paths of Peril
 ---
 # Kapitel 5: Gefährliche Pfade

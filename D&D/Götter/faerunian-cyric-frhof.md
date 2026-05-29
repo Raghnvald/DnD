@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cyric
+linter-yaml-title-alias: Cyric
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Cyric"
   - "The Dark Sun"
   - "The Prince of Lies"
+  - Cyric
 ---
 # Cyric
 *Source: Forgotten Realms: Heroes of Faerûn p. 105* 

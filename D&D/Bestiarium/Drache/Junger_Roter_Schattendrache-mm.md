@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Red Shadow Dragon
+linter-yaml-title-alias: Young Red Shadow Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Young Red Shadow Dragon
-linter-yaml-title-alias: Young Red Shadow Dragon
 ---
 # [Young Red Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/young-red-shadow-dragon.md)
 *Source: Monster Manual p. 85*  

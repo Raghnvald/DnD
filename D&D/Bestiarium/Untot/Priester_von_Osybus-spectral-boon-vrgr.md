@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus (Spectral Boon)
+linter-yaml-title-alias: Priest of Osybus (Spectral Boon)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Priest of Osybus (Spectral Boon)
-linter-yaml-title-alias: Priest of Osybus (Spectral Boon)
 ---
 # [Priest of Osybus (Spectral Boon)](3-Mechanics\CLI\bestiary\undead/priest-of-osybus-spectral-boon-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 241*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Ergänzende Tabelle; Abwesendes Elternteil
+linter-yaml-title-alias: Ergänzende Tabelle; Abwesendes Elternteil
 tags:
   - Quelle/5e/xge
 aliases:
+  - Ergänzende Tabelle; Abwesendes Elternteil
   - Supplemental Tables; Absent Parent
 ---
 # Ergänzende Tabelle; Abwesendes Elternteil

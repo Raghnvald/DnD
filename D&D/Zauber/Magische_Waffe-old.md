@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magische Waffe
+linter-yaml-title-alias: Magische Waffe
 tags:
   - Klasse/Magier
   - Klasse/Paladin
@@ -8,6 +9,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Magic Weapon
+  - Magische Waffe
 ---
 # Magische Waffe
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

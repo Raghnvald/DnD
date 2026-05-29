@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kiaransalee
+linter-yaml-title-alias: Kiaransalee
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death

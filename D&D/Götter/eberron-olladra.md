@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Olladra
+linter-yaml-title-alias: Olladra
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/trickery

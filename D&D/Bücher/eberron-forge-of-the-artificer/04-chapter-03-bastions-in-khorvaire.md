@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 03: Bastions in Khorvaire"
+linter-yaml-title-alias: "Chapter 03: Bastions in Khorvaire"
 tags:
   - Quelle/5e/efa
 aliases:

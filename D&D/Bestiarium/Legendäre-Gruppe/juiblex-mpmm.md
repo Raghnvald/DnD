@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Juiblex
+linter-yaml-title-alias: Juiblex
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

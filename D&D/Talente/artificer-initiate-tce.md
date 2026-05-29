@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artificer Initiate
+linter-yaml-title-alias: Artificer Initiate
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce

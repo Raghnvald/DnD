@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spirit Blister
+linter-yaml-title-alias: Spirit Blister
 tags:
   - Kompendium/Objekt/size/medium
   - Kompendium/Objekt/type/siege-weapon

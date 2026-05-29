@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Summon Construct
+linter-yaml-title-alias: Summon Construct
+classes:
+  - Artificer
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Clockwork Sorcery)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -10,16 +18,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Clockwork Sorcery)
-  - Wizard
 aliases:
   - Summon Construct
-linter-yaml-title-alias: Summon Construct
 ---
 # Summon Construct
 *4th-level, Conjuration*  

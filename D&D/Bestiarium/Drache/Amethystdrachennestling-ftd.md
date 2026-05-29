@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/Amethyst-Dragon-Wyrmling-ftd.webp
 status: WIP
+linter-yaml-title-alias: Amethyst Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Amethyst Dragon Wyrmling
-linter-yaml-title-alias: Amethyst Dragon Wyrmling
 ---
 # [Amethyst Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/amethyst-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 162*  

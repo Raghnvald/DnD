@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Tarkanan Villains
+linter-yaml-title-alias: House Tarkanan Villains
 tags:
   - Quelle/5e/erlw
 aliases:

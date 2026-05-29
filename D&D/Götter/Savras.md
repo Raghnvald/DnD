@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Savras, Gott der Weissagung und des Schicksals
+linter-yaml-title-alias: Savras, Gott der Weissagung und des Schicksals
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Arkana
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Savras
+  - Savras, Gott der Weissagung und des Schicksals
 ---
 # Savras, Gott der Weissagung und des Schicksals
 *Quelle: SRD / Grundregelwerk* 

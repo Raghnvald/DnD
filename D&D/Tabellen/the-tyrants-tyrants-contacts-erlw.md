@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Tyrants; Tyrants Contacts
+linter-yaml-title-alias: The Tyrants; Tyrants Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Kapitelüberschrift
+linter-yaml-title-alias: Kapitelüberschrift
+aliases:
+  - Kapitelüberschrift
 ---
 Farbiger <span style=color:red>Text</span>
 Andere Schrift<span style="font-family: GentiumBasic">art</span>

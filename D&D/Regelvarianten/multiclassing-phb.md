@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Multiclassing
+linter-yaml-title-alias: Multiclassing
 tags:
   - Quelle/5e/phb
 aliases:

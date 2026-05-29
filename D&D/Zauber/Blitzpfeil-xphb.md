@@ -1,15 +1,15 @@
 ---
 Bezeichnung: Lightning Arrow
+linter-yaml-title-alias: Lightning Arrow
+classes:
+  - Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Ranger
 aliases:
   - Lightning Arrow
-linter-yaml-title-alias: Lightning Arrow
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  

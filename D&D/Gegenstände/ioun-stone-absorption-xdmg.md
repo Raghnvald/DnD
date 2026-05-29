@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Absorption
+linter-yaml-title-alias: Ioun Stone, Absorption
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Absorption
-linter-yaml-title-alias: Ioun Stone, Absorption
 ---
 # Ioun Stone, Absorption
 *Wondrous item, very rare (requires attunement)*  

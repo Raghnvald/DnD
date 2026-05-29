@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Force Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Force Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Force Resistance
   - Splint Armor of Force Resistance
   - Studded Leather Armor of Force Resistance
-linter-yaml-title-alias: Armor of Force Resistance
 ---
 # Armor of Force Resistance
 *Rare (requires attunement)*  

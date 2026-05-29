@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Flasche
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Flasche
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Glass Bottle
-linter-yaml-title-alias: Glass Bottle
+  - Flasche
 ---
 # Flasche
 *Abenteuerausrüstung*  

@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Argonnessen Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Argonnessen Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
   - Argonnessen Trinket
-linter-yaml-title-alias: Argonnessen Trinket
 ---
 # Argonnessen Trinket
 *Adventuring gear*  

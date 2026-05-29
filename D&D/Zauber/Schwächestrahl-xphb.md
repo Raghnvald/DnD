@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Ray of Enfeeblement
+linter-yaml-title-alias: Ray of Enfeeblement
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,18 +22,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Death Domain)
-  - Cleric (Grave Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
   - Ray of Enfeeblement
-linter-yaml-title-alias: Ray of Enfeeblement
 ---
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  

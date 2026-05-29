@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Canyon of the Stone Giants"
+linter-yaml-title-alias: "Chapter 6: Canyon of the Stone Giants"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 6: Canyon of the Stone Giants"
   - Chapter 6: Canyon of the Stone Giants
 ---
 # Chapter 6: Canyon of the Stone Giants

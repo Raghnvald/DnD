@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Oath of the Crown
+linter-yaml-title-alias: Spells for Oath of the Crown
 tags:
   - Zauber/list/subclass/oath-of-the-crown
 aliases:

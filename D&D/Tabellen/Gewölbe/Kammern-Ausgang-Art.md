@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Kammern; Art des Ausgangs
+linter-yaml-title-alias: Kammern; Art des Ausgangs
 tags:
   - Quelle/5e/dmg
 aliases:
   - Chambers; Exit Type
+  - Kammern; Art des Ausgangs
 ---
 # Kammern; Art des Ausgangs
 *Source: Dungeon Master's Guide p. 291* 

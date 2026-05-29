@@ -2,19 +2,20 @@
 Bezeichnung: Fellrüstung
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 6,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Fellrüstung
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Hide Armor
-linter-yaml-title-alias: Hide Armor
+  - Fellrüstung
 ---
 # Fellrüstung
 *Rüstung (mittelschwer), gewöhnlich*  

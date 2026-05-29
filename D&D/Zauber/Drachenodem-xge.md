@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Minute
 Angriff: GES
 Schaden: 3d6 variabel
+linter-yaml-title-alias: Drachenodem
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -15,8 +16,8 @@ tags:
   - Zauber/Original/Dragons_Breath
   - Zauber/Schule/Verwandlung
 aliases:
+  - Drachenodem
   - Dragon's Breath
-linter-yaml-title-alias: Drachenodem
 ---
 # Drachenodem
 *Verwandlung des 2. Grades*

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Books
+linter-yaml-title-alias: Swarm of Books
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

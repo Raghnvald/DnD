@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Ghallanda Heir
+linter-yaml-title-alias: House Ghallanda Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Ghallanda Heir"
+  - House Ghallanda Heir
 ---
 # House Ghallanda Heir
 *Source: Eberron: Forge of the Artificer p. 28*  

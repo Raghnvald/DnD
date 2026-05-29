@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Besondere Bestimmung
+linter-yaml-title-alias: Besondere Bestimmung
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Besondere Bestimmung
   - Sentient Special Purpose
 ---
 # Besondere Bestimmung

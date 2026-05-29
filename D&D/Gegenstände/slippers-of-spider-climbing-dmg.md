@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Slippers of Spider Climbing
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Slippers of Spider Climbing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Slippers of Spider Climbing
-linter-yaml-title-alias: Slippers of Spider Climbing
 ---
 # Slippers of Spider Climbing
 *Wondrous item, major, uncommon (requires attunement)*  

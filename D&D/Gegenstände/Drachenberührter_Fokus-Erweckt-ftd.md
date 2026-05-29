@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wakened Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Wakened Dragon-Touched Focus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ftd
 aliases:
   - Wakened Dragon-Touched Focus
-linter-yaml-title-alias: Wakened Dragon-Touched Focus
 ---
 # Wakened Dragon-Touched Focus
 *Wondrous item, very rare (requires attunement by a spellcaster)*  

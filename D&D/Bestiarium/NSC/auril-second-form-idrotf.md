@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Auril (Second Form)
 status: WIP
+linter-yaml-title-alias: Auril (Second Form)
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Auril (Second Form)
-linter-yaml-title-alias: Auril (Second Form)
 ---
 # [Auril (Second Form)](3-Mechanics\CLI\bestiary\npc/auril-second-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 277*  

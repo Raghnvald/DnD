@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Distant Spell
+linter-yaml-title-alias: Distant Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/xphb

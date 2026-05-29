@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Surtur
+linter-yaml-title-alias: Surtur
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/norse

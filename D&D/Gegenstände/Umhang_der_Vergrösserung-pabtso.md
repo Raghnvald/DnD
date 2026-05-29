@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cape of Enlargement
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cape of Enlargement
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Cape of Enlargement
-linter-yaml-title-alias: Cape of Enlargement
 ---
 # Cape of Enlargement
 *Wondrous item, very rare (requires attunement)*  

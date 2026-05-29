@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Putrefy
+linter-yaml-title-alias: Putrefy
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
   - "Putrefy"
+  - Putrefy
 ---
 # Putrefy
 *Source: Astarion's Book of Hungers p. 10*  

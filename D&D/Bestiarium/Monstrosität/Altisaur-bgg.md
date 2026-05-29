@@ -7,7 +7,9 @@ Größe: Gigantisch
 HG: "13"
 Habitat:
   - /
+Image: token/altisaur-bgg.webp
 status: WIP
+linter-yaml-title-alias: Altisaur
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/13

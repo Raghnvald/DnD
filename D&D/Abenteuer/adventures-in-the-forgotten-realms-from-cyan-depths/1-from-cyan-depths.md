@@ -1,9 +1,11 @@
 ---
 Bezeichnung: From Cyan Depths
+linter-yaml-title-alias: From Cyan Depths
 tags:
   - Quelle/5e/aitfr-fcd
 aliases:
   - "From Cyan Depths"
+  - From Cyan Depths
 ---
 # From Cyan Depths
 *Source: Adventures in the Forgotten Realms: From Cyan Depths, p. 2* 

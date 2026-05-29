@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bahamut
+linter-yaml-title-alias: Bahamut
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/life

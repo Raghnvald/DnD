@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Axe of Mirabar Soldier
+linter-yaml-title-alias: Axe of Mirabar Soldier
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

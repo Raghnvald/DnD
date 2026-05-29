@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mondklinge
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Mondklinge
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Moonblade
-linter-yaml-title-alias: Moonblade
+  - Mondklinge
 ---
 # Mondklinge
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  

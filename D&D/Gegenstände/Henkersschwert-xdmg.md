@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Vorpal Sword
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Vorpal Sword
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -14,7 +15,6 @@ aliases:
   - Vorpal Longsword
   - Vorpal Scimitar
   - Vorpal Sword
-linter-yaml-title-alias: Vorpal Sword
 ---
 # Vorpal Sword
 *Legendary (requires attunement)*  

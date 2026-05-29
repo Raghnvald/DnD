@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bezauberung der Vitalität
+linter-yaml-title-alias: Bezauberung der Vitalität
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dmg
 aliases:
+  - Bezauberung der Vitalität
   - Charm of Vitality
 ---
 # Bezauberung der Vitalität

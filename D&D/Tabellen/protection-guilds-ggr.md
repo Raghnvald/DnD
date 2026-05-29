@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection Guilds
+linter-yaml-title-alias: Protection Guilds
 tags:
   - Quelle/5e/ggr
 aliases:

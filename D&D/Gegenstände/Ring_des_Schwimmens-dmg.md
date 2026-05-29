@@ -1,17 +1,20 @@
 ---
-Bezeichnung: Ring of Swimming
+Bezeichnung: Ring des Schwimmens
 Kategorie: Ring
+Eigenschaften:
+  - /
+status: completed
+linter-yaml-title-alias: Ring des Schwimmens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Swimming
-linter-yaml-title-alias: Ring of Swimming
+  - Ring des Schwimmens
 ---
-# Ring of Swimming
-*Ring, minor, uncommon*  
+# Ring des Schwimmens
+*Ring, ungewöhnlich*  
 
-You have a swimming speed of 40 feet while wearing this ring.
+Du hast eine Schwimmbewegungsrate von 12 Metern, solange du diesen Ring trägst.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>)*

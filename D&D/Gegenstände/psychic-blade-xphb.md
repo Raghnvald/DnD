@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Psychic Blade
+linter-yaml-title-alias: Psychic Blade
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Psychic Blade
-linter-yaml-title-alias: Psychic Blade
 ---
 # Psychic Blade
 *Weapon*  

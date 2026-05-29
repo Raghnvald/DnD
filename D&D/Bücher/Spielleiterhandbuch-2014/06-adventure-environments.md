@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventure Environments
+linter-yaml-title-alias: Adventure Environments
 tags:
   - Quelle/5e/dmg
 aliases:

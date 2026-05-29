@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Netherese Ring of Protection
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Netherese Ring of Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +14,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Netherese Ring of Protection
-linter-yaml-title-alias: Netherese Ring of Protection
 ---
 # Netherese Ring of Protection
 *Ring, rare (requires attunement)*  

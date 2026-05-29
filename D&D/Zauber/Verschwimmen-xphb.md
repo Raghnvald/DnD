@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Blur
+linter-yaml-title-alias: Blur
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid (Circle of the Land, Arid Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Genie, Marid)
+  - Warlock (The Hexblade)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -16,21 +29,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid (Circle of the Land, Arid Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Genie, Marid)
-  - Warlock (The Hexblade)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Blur
-linter-yaml-title-alias: Blur
 ---
 # Blur
 *2nd-level, Illusion*  

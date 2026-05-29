@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Hammock of Worlds
+linter-yaml-title-alias: Hammock of Worlds
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/jttrc
 aliases:
   - Hammock of Worlds
-linter-yaml-title-alias: Hammock of Worlds
 ---
 # Hammock of Worlds
 *Wondrous item, legendary*  

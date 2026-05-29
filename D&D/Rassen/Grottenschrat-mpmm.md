@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bugbear
+linter-yaml-title-alias: Bugbear
 tags:
   - Quelle/5e/mpmm
   - Rasse/bugbear

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fane-Eater
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Fane-Eater
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Fane-Eater
-linter-yaml-title-alias: Fane-Eater
 ---
 # Fane-Eater
 *Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md)), legendary (requires attunement by an evil cleric or paladin)*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wei Feng Ying
+linter-yaml-title-alias: Wei Feng Ying
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Wei Feng Ying
-linter-yaml-title-alias: Wei Feng Ying
 ---
 # [Wei Feng Ying](3-Mechanics\CLI\bestiary\npc/wei-feng-ying-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 188*  

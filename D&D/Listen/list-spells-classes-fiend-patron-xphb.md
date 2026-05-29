@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Fiend Patron
+linter-yaml-title-alias: Spells for Fiend Patron
 tags:
   - Zauber/list/subclass/fiend-patron
 aliases:

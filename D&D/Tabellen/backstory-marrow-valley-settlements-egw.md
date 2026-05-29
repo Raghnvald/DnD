@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Marrow Valley Settlements
+linter-yaml-title-alias: Backstory; Marrow Valley Settlements
 tags:
   - Quelle/5e/egw
 aliases:

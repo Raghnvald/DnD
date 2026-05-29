@@ -2,12 +2,14 @@
 Bezeichnung: Rüstung des Widerstands
 Kategorie: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Rüstung des Widerstands
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -18,7 +20,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rüstung des Widerstands
-linter-yaml-title-alias: Rüstung des Widerstands
 ---
 # Rüstung des Widerstands
 *Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*  

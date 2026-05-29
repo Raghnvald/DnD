@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Deck of Illusions
+linter-yaml-title-alias: Deck of Illusions
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Deck of Illusions"
+  - Deck of Illusions
 ---
 # Deck of Illusions
 *Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

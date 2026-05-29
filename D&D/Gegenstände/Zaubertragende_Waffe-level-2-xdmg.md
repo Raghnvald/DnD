@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 2)
+linter-yaml-title-alias: Enspelled Weapon (Level 2)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Enspelled (Level 2) Wooden Staff
   - Enspelled (Level 2) Yklwa
   - Enspelled Weapon (Level 2)
-linter-yaml-title-alias: Enspelled Weapon (Level 2)
 ---
 # Enspelled Weapon (Level 2)
 *Rare (requires attunement)*  

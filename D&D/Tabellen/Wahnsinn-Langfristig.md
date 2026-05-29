@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Langfristiger Wahnsinn
+linter-yaml-title-alias: Langfristiger Wahnsinn
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Langfristiger Wahnsinn
   - Long-Term Madness
 ---
 # Langfristiger Wahnsinn

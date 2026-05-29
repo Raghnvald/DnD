@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Indian, Male
+linter-yaml-title-alias: Human Names – Indian, Male
 tags:
   - Quelle/5e/xge
 aliases:

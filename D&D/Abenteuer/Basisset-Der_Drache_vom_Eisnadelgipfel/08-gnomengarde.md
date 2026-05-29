@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnomengarde
+linter-yaml-title-alias: Gnomengarde
 tags:
   - Quelle/5e/dip
 aliases:

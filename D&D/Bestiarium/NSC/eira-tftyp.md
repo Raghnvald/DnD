@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eira
+linter-yaml-title-alias: Eira
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Eira
-linter-yaml-title-alias: Eira
 ---
 # [Eira](3-Mechanics\CLI\bestiary\npc/eira-tftyp.md)
 *Source: Tales from the Yawning Portal p. 159*  

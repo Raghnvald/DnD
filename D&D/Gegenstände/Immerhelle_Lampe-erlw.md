@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Everbright Lantern
+linter-yaml-title-alias: Everbright Lantern
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/erlw
 aliases:
   - Everbright Lantern
-linter-yaml-title-alias: Everbright Lantern
 ---
 # Everbright Lantern
 *Wondrous item, common*  

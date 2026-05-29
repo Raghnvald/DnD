@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Hyena
+linter-yaml-title-alias: Giant Hyena
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

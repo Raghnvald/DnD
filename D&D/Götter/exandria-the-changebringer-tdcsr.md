@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Changebringer
+linter-yaml-title-alias: The Changebringer
 tags:
   - Kompendium/Götter/Domäne/moon
   - Kompendium/Götter/Domäne/nature

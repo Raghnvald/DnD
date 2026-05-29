@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tentacle Rod
+linter-yaml-title-alias: Tentacle Rod
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Tentacle Rod
-linter-yaml-title-alias: Tentacle Rod
 ---
 # Tentacle Rod
 *Rod, rare (requires attunement)*  

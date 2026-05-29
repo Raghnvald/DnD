@@ -7,6 +7,20 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Cure Wounds
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
+  - Druid (Circle of the Moon)
+  - Druid (Circle of Wildfire)
+  - Paladin
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -26,22 +40,8 @@ tags:
   - Subklasse/Schule-des-Wissens
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Life Domain)
-  - Druid
-  - Druid (Circle of the Moon)
-  - Druid (Circle of Wildfire)
-  - Paladin
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Cure Wounds
-linter-yaml-title-alias: Cure Wounds
 ---
 # Cure Wounds
 *1st-level, Abjuration*  

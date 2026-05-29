@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Hook Horror
+linter-yaml-title-alias: Reduced-Threat Hook Horror
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

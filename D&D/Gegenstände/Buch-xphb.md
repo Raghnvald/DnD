@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Buch
+linter-yaml-title-alias: Buch
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Buch
-linter-yaml-title-alias: Buch
 ---
 # Buch
 *Abenteuerausrüstung*  

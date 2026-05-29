@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros NPCs
+linter-yaml-title-alias: Boros NPCs
 tags:
   - Quelle/5e/ggr
 aliases:

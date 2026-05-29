@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Buying a Magic Item; Magic Item Price
+linter-yaml-title-alias: Buying a Magic Item; Magic Item Price
 tags:
   - Quelle/5e/xge
 aliases:

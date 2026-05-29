@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vistana Guard
+linter-yaml-title-alias: Vistana Guard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

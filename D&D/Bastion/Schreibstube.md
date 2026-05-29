@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scriptorium
+linter-yaml-title-alias: Scriptorium
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

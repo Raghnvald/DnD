@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Einflüsterung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Knowledge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -18,17 +27,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Knowledge Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Suggestion
-linter-yaml-title-alias: Suggestion
+  - Einflüsterung
 ---
 # Einflüsterung
 *2nd-level, Enchantment*  

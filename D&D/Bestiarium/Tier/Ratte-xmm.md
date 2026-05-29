@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rat
+linter-yaml-title-alias: Rat
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Stadt

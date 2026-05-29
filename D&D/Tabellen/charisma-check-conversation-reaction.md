@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charisma Check; Conversation Reaction
+linter-yaml-title-alias: Charisma Check; Conversation Reaction
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: +1 Wraps of Unarmed Prowess
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: +1 Wraps of Unarmed Prowess
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - +1 Wraps of Unarmed Prowess
-linter-yaml-title-alias: +1 Wraps of Unarmed Prowess
 ---
 # +1 Wraps of Unarmed Prowess
 *Wondrous item, uncommon*  

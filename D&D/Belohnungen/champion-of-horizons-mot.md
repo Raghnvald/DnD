@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of Horizons
+linter-yaml-title-alias: Champion of Horizons
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of Horizons"
+  - Champion of Horizons
 ---
 # Champion of Horizons
 *Piety Trait*  

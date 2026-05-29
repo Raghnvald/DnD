@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warlock
+linter-yaml-title-alias: Warlock
 tags:
   - Quelle/5e/ggr
 aliases:

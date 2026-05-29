@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wilderness Guilds
+linter-yaml-title-alias: Wilderness Guilds
 tags:
   - Quelle/5e/ggr
 aliases:

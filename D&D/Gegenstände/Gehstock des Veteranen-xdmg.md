@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Veteran's Cane"
+linter-yaml-title-alias: "Veteran's Cane"
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Veteran's Cane
-linter-yaml-title-alias: Veteran's Cane
+  - "Veteran's Cane"
 ---
 # Veteran's Cane
 *Wondrous item, common*  

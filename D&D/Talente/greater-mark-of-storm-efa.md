@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Storm
+linter-yaml-title-alias: Greater Mark of Storm
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Greater Mark of Storm"
+  - Greater Mark of Storm
 ---
 # Greater Mark of Storm
 *Source: Eberron: Forge of the Artificer p. 45*  

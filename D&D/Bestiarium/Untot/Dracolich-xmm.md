@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dracolich
+linter-yaml-title-alias: Dracolich
 tags:
   - Monster/Größe/Unbekannt
   - Monster/Habitat/any
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Dracolich
-linter-yaml-title-alias: Dracolich
 ---
 # [Dracolich](3-Mechanics\CLI\bestiary\undead/dracolich-xmm.md)
 *Source: Monster Manual (2024) p. 102*  

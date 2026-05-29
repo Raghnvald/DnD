@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jaculi
+linter-yaml-title-alias: Jaculi
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-2

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Star Razor (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Star Razor (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Star Razor (Awakened)
-linter-yaml-title-alias: Star Razor (Awakened)
 ---
 # Star Razor (Awakened)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  

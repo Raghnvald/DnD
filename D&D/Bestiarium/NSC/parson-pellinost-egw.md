@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Parson Pellinost
+linter-yaml-title-alias: Parson Pellinost
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Parson Pellinost
-linter-yaml-title-alias: Parson Pellinost
 ---
 # [Parson Pellinost](3-Mechanics\CLI\bestiary\npc/parson-pellinost-egw.md)
 *Source: Explorer's Guide to Wildemount p. 261*  

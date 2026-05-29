@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Allosaurus
+image: token/allosaurus-xmm.webp
+linter-yaml-title-alias: Allosaurus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kenku
+linter-yaml-title-alias: Kenku
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

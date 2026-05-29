@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Alchemistenfeuer (Flasche)
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: 0,5 kg
+Status: completed
+linter-yaml-title-alias: Alchemistenfeuer (Flasche)
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Alchemist's Fire (flask)
-linter-yaml-title-alias: Alchemistenfeuer (Flasche)
-Status: completed
+  - Alchemistenfeuer (Flasche)
 ---
 # Alchemistenfeuer (Flasche)
 *Abenteuerausrüstung* 

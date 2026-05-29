@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Spells for Tiefling (Devil's Tongue)"
+linter-yaml-title-alias: "Spells for Tiefling (Devil's Tongue)"
 tags:
   - Zauber/list/subrace/tiefling-devils-tongue
 aliases:
+  - "Spells for Tiefling (Devil's Tongue)"
   - Spells for Tiefling (Devil's Tongue)
 ---
 # Spells for Tiefling (Devil's Tongue)

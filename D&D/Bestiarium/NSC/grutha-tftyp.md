@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grutha
+linter-yaml-title-alias: Grutha
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Grutha
-linter-yaml-title-alias: Grutha
 ---
 # [Grutha](3-Mechanics\CLI\bestiary\npc/grutha-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  

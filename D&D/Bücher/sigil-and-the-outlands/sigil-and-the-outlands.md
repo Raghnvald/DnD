@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Sigil and the Outlands
+linter-yaml-title-alias: Index of Sigil and the Outlands
+aliases:
+  - Index of Sigil and the Outlands
 ---
 # Index of Sigil and the Outlands
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ram
+linter-yaml-title-alias: Ram
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon

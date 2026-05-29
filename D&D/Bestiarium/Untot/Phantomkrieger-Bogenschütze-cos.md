@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phantom Warrior (Archer)
+linter-yaml-title-alias: Phantom Warrior (Archer)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Phantom Warrior (Archer)
-linter-yaml-title-alias: Phantom Warrior (Archer)
 ---
 # [Phantom Warrior (Archer)](3-Mechanics\CLI\bestiary\undead/phantom-warrior-archer-cos.md)
 *Source: Curse of Strahd p. 142*  

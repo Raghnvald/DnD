@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Giants' Names"
+linter-yaml-title-alias: "Giants' Names"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Giants' Names"
   - Giants' Names
 ---
 # Giants' Names

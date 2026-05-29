@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe des Glücks
+linter-yaml-title-alias: Gabe des Glücks
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Luck
+  - Gabe des Glücks
 ---
 # Gabe des Glücks
 

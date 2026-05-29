@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Detect Poison and Disease
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -24,17 +33,8 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Paladin
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Detect Poison and Disease
-linter-yaml-title-alias: Detect Poison and Disease
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

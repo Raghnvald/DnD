@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Claw of the Wyrm Rune
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Claw of the Wyrm Rune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/skt
 aliases:
   - Claw of the Wyrm Rune
-linter-yaml-title-alias: Claw of the Wyrm Rune
 ---
 # Claw of the Wyrm Rune
 *Wondrous item, rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Despot
+linter-yaml-title-alias: Duergar Despot
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

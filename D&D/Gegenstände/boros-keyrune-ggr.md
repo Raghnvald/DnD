@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Boros Keyrune
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Boros Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Boros Keyrune
-linter-yaml-title-alias: Boros Keyrune
 ---
 # Boros Keyrune
 *Wondrous item, rare (requires attunement by a member of the Boros guild)*  

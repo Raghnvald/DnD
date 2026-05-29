@@ -8,6 +8,7 @@ HG: 6
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Zombie Clot
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/6
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Zombie Clot
-linter-yaml-title-alias: Zombie Clot
 ---
 # [Zombie Clot](3-Mechanics\CLI\bestiary\undead/zombie-clot-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  

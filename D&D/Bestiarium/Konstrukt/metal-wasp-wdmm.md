@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Metal Wasp
+linter-yaml-title-alias: Metal Wasp
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

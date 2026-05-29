@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maurezhi
+linter-yaml-title-alias: Maurezhi
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

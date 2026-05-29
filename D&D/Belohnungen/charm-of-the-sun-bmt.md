@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Sun
+linter-yaml-title-alias: Charm of the Sun
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

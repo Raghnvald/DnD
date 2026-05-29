@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Greek, Female
+linter-yaml-title-alias: Human Names – Greek, Female
 tags:
   - Quelle/5e/xge
 aliases:

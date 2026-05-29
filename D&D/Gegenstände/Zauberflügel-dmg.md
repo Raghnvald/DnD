@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wings of Flying
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wings of Flying
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wings of Flying
-linter-yaml-title-alias: Wings of Flying
 ---
 # Wings of Flying
 *Wondrous item, major, rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nimira
+linter-yaml-title-alias: Nimira
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Nimira
-linter-yaml-title-alias: Nimira
 ---
 # [Nimira](3-Mechanics\CLI\bestiary\npc/nimira-tftyp.md)
 *Source: Tales from the Yawning Portal p. 54*  

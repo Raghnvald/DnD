@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tempest Spirit
+linter-yaml-title-alias: Tempest Spirit
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Tempest Spirit
-linter-yaml-title-alias: Tempest Spirit
 ---
 # [Tempest Spirit](3-Mechanics\CLI\bestiary\undead/tempest-spirit-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 184*  

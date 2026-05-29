@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Anhang A: Bestiarium"
+linter-yaml-title-alias: "Anhang A: Bestiarium"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Anhang A: Bestiarium"
   - Appendix A: Bestiary
 ---
 # Anhang A: Bestiarium

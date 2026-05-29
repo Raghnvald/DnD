@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cow
+linter-yaml-title-alias: Cow
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Cow
-linter-yaml-title-alias: Cow
 ---
 # Cow
 *Trade good*  

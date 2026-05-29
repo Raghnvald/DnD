@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Whip
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Whip
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Whip
-linter-yaml-title-alias: Whip
 ---
 # Whip
 *Weapon*  

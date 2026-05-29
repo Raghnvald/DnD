@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rakdos Keyrune
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Rakdos Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Rakdos Keyrune
-linter-yaml-title-alias: Rakdos Keyrune
 ---
 # Rakdos Keyrune
 *Wondrous item, uncommon (requires attunement by a member of the Rakdos guild)*  

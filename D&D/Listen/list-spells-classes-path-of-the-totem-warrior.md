@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Path of the Totem Warrior
+linter-yaml-title-alias: Spells for Path of the Totem Warrior
 tags:
   - Zauber/list/subclass/path-of-the-totem-warrior
 aliases:

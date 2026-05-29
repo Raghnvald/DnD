@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Doty X
+linter-yaml-title-alias: Doty X
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Doty X
-linter-yaml-title-alias: Doty X
 ---
 # [Doty X](3-Mechanics\CLI\bestiary\npc/doty-x-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 272*  

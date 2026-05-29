@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
+image: token/albino-dwarf-warrior-toa.webp
 status: WIP
+linter-yaml-title-alias: Albino Dwarf Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

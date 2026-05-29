@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Slarkrethel
+linter-yaml-title-alias: Slarkrethel
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/25
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Slarkrethel
-linter-yaml-title-alias: Slarkrethel
 ---
 # [Slarkrethel](3-Mechanics\CLI\bestiary\npc/slarkrethel-skt.md)
 *Source: Storm King's Thunder p. 224*  

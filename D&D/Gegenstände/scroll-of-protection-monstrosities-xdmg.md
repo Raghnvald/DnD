@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Monstrosities)
+linter-yaml-title-alias: Scroll of Protection (Monstrosities)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Monstrosities)
-linter-yaml-title-alias: Scroll of Protection (Monstrosities)
 ---
 # Scroll of Protection (Monstrosities)
 *Scroll, rare*  

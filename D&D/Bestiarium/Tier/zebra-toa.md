@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zebra
+linter-yaml-title-alias: Zebra
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-4

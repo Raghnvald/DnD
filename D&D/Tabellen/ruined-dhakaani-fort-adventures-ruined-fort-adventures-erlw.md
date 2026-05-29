@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ruined Dhakaani Fort Adventures; Ruined Fort Adventures
+linter-yaml-title-alias: Ruined Dhakaani Fort Adventures; Ruined Fort Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

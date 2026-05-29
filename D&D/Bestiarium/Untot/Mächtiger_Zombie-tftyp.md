@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mächtiger Zombie
+linter-yaml-title-alias: Mächtiger Zombie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
   - Monster/Typ/Untote
   - Quelle/5e/tftyp
 aliases:
-  - Greater Zombie
-linter-yaml-title-alias: Greater Zombie
+  - Mächtiger Zombie
 ---
 # Mächtiger Zombie
 *Source: Tales from the Yawning Portal p. 237*  

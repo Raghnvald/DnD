@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Trickbeutel
+linter-yaml-title-alias: Trickbeutel
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Bag of Tricks
-linter-yaml-title-alias: Bag of Tricks
+  - Trickbeutel
 ---
 # Trickbeutel
 *Wundersamer Gegenstand, ungewöhnlich*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The All-Hammer
+linter-yaml-title-alias: The All-Hammer
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge

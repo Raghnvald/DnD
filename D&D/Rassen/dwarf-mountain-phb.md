@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf (Mountain)
+linter-yaml-title-alias: Dwarf (Mountain)
 tags:
   - Quelle/5e/phb
   - Rasse/dwarf/mountain

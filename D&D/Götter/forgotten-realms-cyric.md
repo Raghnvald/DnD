@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cyric
+linter-yaml-title-alias: Cyric
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/forgotten-realms

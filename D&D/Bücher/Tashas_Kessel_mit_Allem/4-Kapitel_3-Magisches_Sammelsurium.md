@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magical Miscellany
+linter-yaml-title-alias: Magical Miscellany
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wicked Personality; Fatal Flaws
+linter-yaml-title-alias: Wicked Personality; Fatal Flaws
 tags:
   - Quelle/5e/vrgr
 aliases:

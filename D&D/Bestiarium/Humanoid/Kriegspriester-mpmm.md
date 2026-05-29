@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: War Priest
+linter-yaml-title-alias: War Priest
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

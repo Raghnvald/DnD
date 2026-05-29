@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Knowledge Domain
+linter-yaml-title-alias: Spells for Knowledge Domain
 tags:
   - Zauber/list/subclass/knowledge-domain
 aliases:

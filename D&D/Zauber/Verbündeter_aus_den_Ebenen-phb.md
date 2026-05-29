@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Planar Ally
 Zaubergrad: 6
+linter-yaml-title-alias: Planar Ally
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Planar Ally
-linter-yaml-title-alias: Planar Ally
 ---
 # Planar Ally
 *6th-level, Conjuration*  

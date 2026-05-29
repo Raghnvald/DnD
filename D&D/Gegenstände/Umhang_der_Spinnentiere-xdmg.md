@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cloak of Arachnida
+linter-yaml-title-alias: Cloak of Arachnida
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Cloak of Arachnida
-linter-yaml-title-alias: Cloak of Arachnida
 ---
 # Cloak of Arachnida
 *Wondrous item, very rare (requires attunement)*  

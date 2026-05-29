@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mad Maggie
+linter-yaml-title-alias: Mad Maggie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Mad Maggie
-linter-yaml-title-alias: Mad Maggie
 ---
 # Mad Maggie
 *Source: Baldur's Gate: Descent Into Avernus p. 74*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Location
+linter-yaml-title-alias: Dungeon Location
 tags:
   - Quelle/5e/dmg
 aliases:

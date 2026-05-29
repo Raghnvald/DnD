@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Long-Term Madness
+linter-yaml-title-alias: Long-Term Madness
 tags:
   - Quelle/5e/dmg
 aliases:

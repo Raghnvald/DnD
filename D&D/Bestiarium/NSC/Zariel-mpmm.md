@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zariel
+linter-yaml-title-alias: Zariel
 tags:
   - Monster/Größe/Groß
   - Monster/HG/26
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Zariel
-linter-yaml-title-alias: Zariel
 ---
 # [Zariel](3-Mechanics\CLI\bestiary\npc/zariel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280*  

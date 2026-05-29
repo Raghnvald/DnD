@@ -5,6 +5,7 @@ Bezeichnung: Arcturia
 Kategorie: Untoter
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Arcturia
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Arcturia
-linter-yaml-title-alias: Arcturia
 ---
 # [Arcturia](3-Mechanics\CLI\bestiary\npc/arcturia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 296*  

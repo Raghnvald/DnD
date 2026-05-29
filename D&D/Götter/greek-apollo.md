@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Apollo
+linter-yaml-title-alias: Apollo
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life

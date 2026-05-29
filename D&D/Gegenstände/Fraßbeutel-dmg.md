@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bag of Devouring
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Bag of Devouring
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Bag of Devouring
-linter-yaml-title-alias: Bag of Devouring
 ---
 # Bag of Devouring
 *Wondrous item, minor, very rare*  

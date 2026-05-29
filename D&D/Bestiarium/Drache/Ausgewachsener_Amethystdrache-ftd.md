@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/Adult-Amethyst-Dragon-ftd.webp
 status: WIP
+linter-yaml-title-alias: Adult Amethyst Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/16
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Adult Amethyst Dragon
-linter-yaml-title-alias: Adult Amethyst Dragon
 ---
 # [Adult Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/adult-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 161*  

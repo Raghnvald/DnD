@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Air Elemental
+linter-yaml-title-alias: Air Elemental
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/air

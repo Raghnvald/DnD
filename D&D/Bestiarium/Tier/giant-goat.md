@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Goat
+linter-yaml-title-alias: Giant Goat
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

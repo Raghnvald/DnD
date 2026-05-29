@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pixie Wonderbringer
+linter-yaml-title-alias: Pixie Wonderbringer
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/feywild

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf
+linter-yaml-title-alias: Dwarf
 tags:
   - Quelle/5e/phb
   - Rasse/dwarf

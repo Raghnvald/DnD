@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Red Knight
+linter-yaml-title-alias: The Red Knight
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "The Grandmaster of the Lanceboard"
   - "The Lady of Strategy"
   - "The Red Knight"
+  - The Red Knight
 ---
 # The Red Knight
 *Source: Forgotten Realms: Heroes of Faerûn p. 118* 

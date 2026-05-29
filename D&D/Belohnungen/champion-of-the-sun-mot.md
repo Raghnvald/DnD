@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of the Sun
+linter-yaml-title-alias: Champion of the Sun
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of the Sun"
+  - Champion of the Sun
 ---
 # Champion of the Sun
 *Piety Trait*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Khorvaire Gazetteer - Distant Lands"
+linter-yaml-title-alias: "Chapter 2: Khorvaire Gazetteer - Distant Lands"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Chapter 2: Khorvaire Gazetteer - Distant Lands"
   - Chapter 2: Khorvaire Gazetteer - Distant Lands
 ---
 # Chapter 2: Khorvaire Gazetteer - Distant Lands

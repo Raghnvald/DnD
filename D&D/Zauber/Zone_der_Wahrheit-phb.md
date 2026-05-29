@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Zone of Truth
 Zaubergrad: 2
+linter-yaml-title-alias: Zone of Truth
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Paladin
+  - Paladin (Oath of Devotion)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Paladin
-  - Paladin (Oath of Devotion)
 aliases:
   - Zone of Truth
-linter-yaml-title-alias: Zone of Truth
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Common Zodiac Associations
+linter-yaml-title-alias: Common Zodiac Associations
 tags:
   - Quelle/5e/bmt
 aliases:

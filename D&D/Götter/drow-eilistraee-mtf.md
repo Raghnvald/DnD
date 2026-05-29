@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eilistraee
+linter-yaml-title-alias: Eilistraee
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

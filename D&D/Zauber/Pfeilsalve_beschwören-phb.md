@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Conjure Volley
 Zaubergrad: 5
+linter-yaml-title-alias: Conjure Volley
+classes:
+  - Bard (Magical Secrets)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Waldläufer
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Ranger
 aliases:
   - Conjure Volley
-linter-yaml-title-alias: Conjure Volley
 ---
 # Conjure Volley
 *5th-level, Conjuration*  

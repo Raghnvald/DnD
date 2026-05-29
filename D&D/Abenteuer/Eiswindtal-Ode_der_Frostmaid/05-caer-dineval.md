@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Caer-Dineval
+linter-yaml-title-alias: Caer-Dineval
 tags:
   - Quelle/5e/idrotf
 aliases:

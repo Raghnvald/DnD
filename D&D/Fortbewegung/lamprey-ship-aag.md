@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lamprey Ship
+linter-yaml-title-alias: Lamprey Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Lamprey Ship"
+  - Lamprey Ship
 ---
 # Lamprey Ship
 *Source: Astral Adventurer's Guide p. 34*  

@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Crystal Dragon Wyrmling
 Kategorie: Drache (Edelstein)
 Größe: Mittelgroß
+linter-yaml-title-alias: Crystal Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Crystal Dragon Wyrmling
-linter-yaml-title-alias: Crystal Dragon Wyrmling
 ---
 # [Crystal Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/crystal-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  

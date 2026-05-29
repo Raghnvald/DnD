@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clockwork Sorcery
+linter-yaml-title-alias: Clockwork Sorcery
 tags:
   - Klasse/Zauberer/clockwork
   - Quelle/5e/xphb

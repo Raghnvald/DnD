@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Atlas of Endless Horizons
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Atlas of Endless Horizons
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Atlas of Endless Horizons
-linter-yaml-title-alias: Atlas of Endless Horizons
 ---
 # Atlas of Endless Horizons
 *Wondrous item, rare (requires attunement by a wizard)*  

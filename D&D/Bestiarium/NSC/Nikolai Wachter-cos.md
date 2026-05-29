@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nikolai Wachter
+linter-yaml-title-alias: Nikolai Wachter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Nikolai Wachter
-linter-yaml-title-alias: Nikolai Wachter
 ---
 # [Nikolai Wachter](3-Mechanics\CLI\bestiary\npc/nikolai-wachter-cos.md)
 *Source: Curse of Strahd p. 110*  

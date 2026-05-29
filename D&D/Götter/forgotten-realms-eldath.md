@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldath
+linter-yaml-title-alias: Eldath
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Boon of Dimensional Travel
+linter-yaml-title-alias: Spells for Boon of Dimensional Travel
 tags:
   - Zauber/list/reward/boon-of-dimensional-travel
 aliases:

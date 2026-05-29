@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Tangler Grenade
+linter-yaml-title-alias: Tangler Grenade
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/wundersam/other
   - Quelle/5e/wdmm
 aliases:
   - Tangler Grenade
-linter-yaml-title-alias: Tangler Grenade
 ---
 # Tangler Grenade
 

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Calligrapher's Supplies"
+linter-yaml-title-alias: "Calligrapher's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Calligrapher's Supplies
-linter-yaml-title-alias: Calligrapher's Supplies
+  - "Calligrapher's Supplies"
 ---
 # Calligrapher's Supplies
 *Artisan's tools*  

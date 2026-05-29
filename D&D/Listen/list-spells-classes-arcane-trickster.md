@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Arcane Trickster
+linter-yaml-title-alias: Spells for Arcane Trickster
 tags:
   - Zauber/list/subclass/arcane-trickster
 aliases:

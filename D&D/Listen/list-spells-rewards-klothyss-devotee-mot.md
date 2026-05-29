@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Klothys's Devotee"
+linter-yaml-title-alias: "Spells for Klothys's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/klothyss-devotee
 aliases:

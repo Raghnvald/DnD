@@ -1,6 +1,14 @@
 ---
 Bezeichnung: "Tasha's Mind Whip"
 Zaubergrad: 2
+linter-yaml-title-alias: "Tasha's Mind Whip"
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - "Tasha's Mind Whip"
-linter-yaml-title-alias: "Tasha's Mind Whip"
 ---
 # Tasha's Mind Whip
 *2nd-level, Enchantment*  

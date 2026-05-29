@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sphinx
+linter-yaml-title-alias: Sphinx
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

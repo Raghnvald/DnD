@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Helm, Gott der Wachsamkeit
+linter-yaml-title-alias: Helm, Gott der Wachsamkeit
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Helm
+  - Helm, Gott der Wachsamkeit
 ---
 # Helm, Gott der Wachsamkeit
 *Quelle: SRD / Grundregelwerk* 

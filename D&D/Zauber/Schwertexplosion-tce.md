@@ -7,6 +7,15 @@ Komponenten: V, M
 Wirkungsdauer: 1 Runde
 Angriff: GES
 Schaden: 1d6 Energie
+linter-yaml-title-alias: Schwertexplosion
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -23,17 +32,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Sword Burst
-linter-yaml-title-alias: Sword Burst
+  - Schwertexplosion
 ---
 # Schwertexplosion
 _Zaubertrick der Beschwörung_

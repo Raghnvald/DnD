@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Mirror of Life Trapping
+linter-yaml-title-alias: Mirror of Life Trapping
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Mirror of Life Trapping
-linter-yaml-title-alias: Mirror of Life Trapping
 ---
 # Mirror of Life Trapping
 *Wondrous item, very rare*  

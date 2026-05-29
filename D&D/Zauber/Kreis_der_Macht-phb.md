@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Circle of Power
 Zaubergrad: 5
+linter-yaml-title-alias: Circle of Power
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
   - Circle of Power
-linter-yaml-title-alias: Circle of Power
 ---
 # Circle of Power
 *5th-level, Abjuration*  

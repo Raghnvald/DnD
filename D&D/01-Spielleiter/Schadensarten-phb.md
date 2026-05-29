@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Schadensarten
+linter-yaml-title-alias: Schadensarten
 tags:
   - Quelle/5e/phb
 aliases:
   - Damage Types
+  - Schadensarten
 ---
 # Schadensarten
 *Quellen: Spielerhandbuch S. 196. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

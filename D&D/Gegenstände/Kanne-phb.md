@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kanne
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 KM
 Gew.: 2,0 kg
+status: WIP
+linter-yaml-title-alias: Kanne
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Pitcher
-linter-yaml-title-alias: Pitcher
+  - Kanne
 ---
 # Kanne
 *Abenteuerausrüstung*  

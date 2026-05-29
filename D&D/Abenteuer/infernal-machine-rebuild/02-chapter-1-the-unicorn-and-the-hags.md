@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: The Unicorn and the Hags"
+linter-yaml-title-alias: "Chapter 1: The Unicorn and the Hags"
 tags:
   - Quelle/5e/imr
 aliases:

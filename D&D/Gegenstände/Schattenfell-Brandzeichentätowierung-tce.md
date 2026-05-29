@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shadowfell Brand Tattoo
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Shadowfell Brand Tattoo
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Shadowfell Brand Tattoo
-linter-yaml-title-alias: Shadowfell Brand Tattoo
 ---
 # Shadowfell Brand Tattoo
 *Wondrous item (tattoo), rare (requires attunement)*  

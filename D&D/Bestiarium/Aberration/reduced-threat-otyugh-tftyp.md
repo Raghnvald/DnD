@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 5
 status: WIP
+linter-yaml-title-alias: Reduced-Threat Otyugh
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

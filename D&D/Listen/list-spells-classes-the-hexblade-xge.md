@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for The Hexblade
+linter-yaml-title-alias: Spells for The Hexblade
 tags:
   - Zauber/list/subclass/the-hexblade
 aliases:

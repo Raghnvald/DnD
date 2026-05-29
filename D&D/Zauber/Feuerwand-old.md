@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feuerwand
+linter-yaml-title-alias: Feuerwand
 tags:
   - Klasse/Druide
   - Klasse/Magier
@@ -8,6 +9,7 @@ tags:
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
 aliases:
+  - Feuerwand
   - Wall of Fire
 ---
 # Feuerwand

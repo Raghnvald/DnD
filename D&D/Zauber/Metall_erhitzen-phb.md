@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Heat Metal
 Zaubergrad: 2
+linter-yaml-title-alias: Heat Metal
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Heat Metal
-linter-yaml-title-alias: Heat Metal
 ---
 # Heat Metal
 *2nd-level, Transmutation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Snow Walker
+linter-yaml-title-alias: Charm of the Snow Walker
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

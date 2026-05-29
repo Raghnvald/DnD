@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
+linter-yaml-title-alias: Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
 tags:
   - Quelle/5e/xge
 aliases:

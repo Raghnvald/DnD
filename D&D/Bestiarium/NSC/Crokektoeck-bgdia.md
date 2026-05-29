@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Crokek'toeck"
+linter-yaml-title-alias: "Crokek'toeck"
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/14
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Crokek'toeck"
   - Crokek'toeck
-linter-yaml-title-alias: "Crokek'toeck"
 ---
 # Crokek'toeck
 *Source: Baldur's Gate: Descent Into Avernus p. 231*  

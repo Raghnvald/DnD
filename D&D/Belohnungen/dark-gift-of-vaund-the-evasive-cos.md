@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Vaund the Evasive
+linter-yaml-title-alias: Dark Gift of Vaund the Evasive
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

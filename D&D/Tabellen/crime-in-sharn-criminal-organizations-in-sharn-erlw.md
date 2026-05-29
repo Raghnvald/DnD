@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crime in Sharn; Criminal Organizations in Sharn
+linter-yaml-title-alias: Crime in Sharn; Criminal Organizations in Sharn
 tags:
   - Quelle/5e/erlw
 aliases:

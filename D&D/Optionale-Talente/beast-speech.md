@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beast Speech
+linter-yaml-title-alias: Beast Speech
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pig
+linter-yaml-title-alias: Pig
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Pig
-linter-yaml-title-alias: Pig
 ---
 # Pig
 *Trade good*  

@@ -7,6 +7,11 @@ Komponenten: V, G
 Wirkungsdauer: 10 Tage
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Arkane Spiegelung
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,13 +19,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Wizard
 aliases:
+  - Arkane Spiegelung
   - Mirage Arcane
-linter-yaml-title-alias: Arkane Spiegelung
 ---
 # Arkane Spiegelung
 *Illusion des 7. Grades*  

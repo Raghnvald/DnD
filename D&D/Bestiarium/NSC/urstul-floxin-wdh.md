@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Urstul Floxin
+linter-yaml-title-alias: Urstul Floxin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Urstul Floxin
-linter-yaml-title-alias: Urstul Floxin
 ---
 # [Urstul Floxin](3-Mechanics\CLI\bestiary\npc/urstul-floxin-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

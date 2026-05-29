@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 10: The Ruins of Berez"
+linter-yaml-title-alias: "Chapter 10: The Ruins of Berez"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 10: The Ruins of Berez"
   - Chapter 10: The Ruins of Berez
 ---
 # Chapter 10: The Ruins of Berez

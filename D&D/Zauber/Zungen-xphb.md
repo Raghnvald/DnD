@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Tongues
+linter-yaml-title-alias: Tongues
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,20 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Tongues
-linter-yaml-title-alias: Tongues
 ---
 # Tongues
 *3rd-level, Divination*  

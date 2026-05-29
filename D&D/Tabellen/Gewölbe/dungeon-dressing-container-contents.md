@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Container Contents
+linter-yaml-title-alias: Dungeon Dressing; Container Contents
 tags:
   - Quelle/5e/dmg
 aliases:

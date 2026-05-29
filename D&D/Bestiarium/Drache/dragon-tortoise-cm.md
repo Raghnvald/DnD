@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragon Tortoise
+linter-yaml-title-alias: Dragon Tortoise
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/17
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Dragon Tortoise
-linter-yaml-title-alias: Dragon Tortoise
 ---
 # [Dragon Tortoise](3-Mechanics\CLI\bestiary\dragon/dragon-tortoise-cm.md)
 *Source: Candlekeep Mysteries p. 205*  

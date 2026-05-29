@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Fly
+linter-yaml-title-alias: Giant Fly
 tags:
   - Monster/Größe/Groß
   - Monster/HG/0

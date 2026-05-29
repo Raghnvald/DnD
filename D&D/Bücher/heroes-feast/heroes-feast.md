@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Heroes Feast
+linter-yaml-title-alias: Index of Heroes Feast
+aliases:
+  - Index of Heroes Feast
 ---
 # Index of Heroes Feast
 

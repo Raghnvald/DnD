@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Tide of Retribution
+linter-yaml-title-alias: Tide of Retribution
 tags:
   - Quelle/5e/tor
 aliases:
   - "Tide of Retribution"
+  - Tide of Retribution
 ---
 # Tide of Retribution
 *Source: Wildemount: Tide of Retribution, p. 206* 

@@ -1,7 +1,10 @@
 ---
 Bezeichnung: Gaining a Bastion
+linter-yaml-title-alias: Gaining a Bastion
 tags:
   - Quelle/5e/dmg
+aliases:
+  - Gaining a Bastion
 ---
 A Bastion is a location that belongs to a player character: a home, a stronghold, and a place of power that the character develops over the course of a campaign. A Bastion offers a character temporary refuge from the dangerous world of adventuring, and it provides opportunities for a character to craft magic items, conduct research, harvest poisons, build ships, and carry out a range of other activities.
 

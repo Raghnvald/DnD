@@ -5,9 +5,11 @@ Bezeichnung: Blade Scout
 Kategorie: Konstrukt (Kriegsgeschmiedet)
 Größe: Mittelgroß
 HG: 7
-Habitat: /
+Habitat:
+  - /
 image: token/blade-scout-veor.webp
 status: WIP
+linter-yaml-title-alias: Blade Scout
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

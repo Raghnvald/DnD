@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ink Pen
+linter-yaml-title-alias: Ink Pen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Ink Pen
-linter-yaml-title-alias: Ink Pen
 ---
 # Ink Pen
 *Adventuring gear*  

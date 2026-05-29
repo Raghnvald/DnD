@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elzerina Cassalanter
+linter-yaml-title-alias: Elzerina Cassalanter
 tags:
   - Monster/Größe/Klein
   - Monster/HG/
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Elzerina Cassalanter
-linter-yaml-title-alias: Elzerina Cassalanter
 ---
 # [Elzerina Cassalanter](3-Mechanics\CLI\bestiary\npc/elzerina-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 115*  

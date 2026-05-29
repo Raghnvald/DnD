@@ -1,6 +1,9 @@
 ---
 Bezeichnung: 1. Wähle eine Rasse
+linter-yaml-title-alias: 1. Wähle eine Rasse
 tags: []
+aliases:
+  - 1. Wähle eine Rasse
 ---
 # 1. Wähle eine Rasse
 Jeder Charakter gehört zu einer Rasse, einer der vielen intelligenten humanoiden Spezies in der D&D-Welt. Die häufigsten Spielercharakter-Rassen sind Zwerge, Elfen, Halblinge und Menschen. Einige Rassen haben auch Unterarten, wie zum Beispiel Bergzwerge oder Waldelfen. Der Abschnitt über die Rassen bietet weitere Informationen zu diesen Rassen.

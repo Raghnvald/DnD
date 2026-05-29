@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lliira, Göttin der Freude
+linter-yaml-title-alias: Lliira, Göttin der Freude
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Lliira
+  - Lliira, Göttin der Freude
 ---
 # Lliira, Göttin der Freude
 *Quelle: SRD / Grundregelwerk* 

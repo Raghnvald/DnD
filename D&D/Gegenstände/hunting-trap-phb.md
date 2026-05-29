@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Hunting Trap
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 GM
+Gew.: 12,5 kg
+status: WIP
+linter-yaml-title-alias: Hunting Trap
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Hunting Trap
-linter-yaml-title-alias: Hunting Trap
 ---
 # Hunting Trap
 *Adventuring gear*  

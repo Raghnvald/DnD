@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Withering
+linter-yaml-title-alias: Staff of Withering
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Withering
-linter-yaml-title-alias: Staff of Withering
 ---
 # Staff of Withering
 *Staff, weapon, rare (requires attunement by a cleric, druid, or warlock)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arvoreen
+linter-yaml-title-alias: Arvoreen
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/halfling

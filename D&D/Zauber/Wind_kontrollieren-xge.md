@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Control Winds
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -14,14 +20,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
   - Control Winds
-linter-yaml-title-alias: Control Winds
 ---
 # Control Winds
 *5th-level, Transmutation*  

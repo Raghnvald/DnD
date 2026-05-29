@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Favorite Foods (Greying Wildlands)
+linter-yaml-title-alias: Backstory; Favorite Foods (Greying Wildlands)
 tags:
   - Quelle/5e/egw
 aliases:

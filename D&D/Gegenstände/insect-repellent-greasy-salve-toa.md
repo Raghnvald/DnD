@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Insect Repellent (greasy salve)
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Insect Repellent (greasy salve)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/toa
 aliases:
   - Insect Repellent (greasy salve)
-linter-yaml-title-alias: Insect Repellent (greasy salve)
 ---
 # Insect Repellent (greasy salve)
 *Adventuring gear*  

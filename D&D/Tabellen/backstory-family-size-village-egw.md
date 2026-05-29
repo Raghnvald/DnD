@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Family Size (Village)
+linter-yaml-title-alias: Backstory; Family Size (Village)
 tags:
   - Quelle/5e/egw
 aliases:

@@ -2,6 +2,7 @@
 Bezeichnung: Schmieren
 Zaubergrad: 1
 status: WIP
+linter-yaml-title-alias: Schmieren
 tags:
   - Klasse/Magier
   - Quelle/5e/phb
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Grease
+  - Schmieren
 ---
 # Schmieren
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Beschwörungszauber.webp#token)

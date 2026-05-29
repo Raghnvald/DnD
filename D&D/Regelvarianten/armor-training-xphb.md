@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor Training
+linter-yaml-title-alias: Armor Training
 tags:
   - Quelle/5e/xphb
 aliases:

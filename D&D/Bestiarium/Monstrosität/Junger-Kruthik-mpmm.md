@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Kruthik
+linter-yaml-title-alias: Young Kruthik
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

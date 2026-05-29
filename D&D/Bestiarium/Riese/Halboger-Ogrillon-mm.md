@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Half-Ogre (Ogrillon)
+linter-yaml-title-alias: Half-Ogre (Ogrillon)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

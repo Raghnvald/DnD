@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Gentle Repose
 Zaubergrad: 2
+linter-yaml-title-alias: Gentle Repose
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -11,15 +18,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Gentle Repose
-linter-yaml-title-alias: Gentle Repose
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

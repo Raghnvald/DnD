@@ -7,16 +7,16 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Divine Favor
+classes:
+  - Paladin
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
-classes:
-  - Paladin
 aliases:
   - Divine Favor
-linter-yaml-title-alias: Divine Favor
 ---
 # Divine Favor
 *1st-level, Transmutation*  

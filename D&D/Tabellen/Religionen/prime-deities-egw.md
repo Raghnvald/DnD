@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Prime Deities
+linter-yaml-title-alias: Prime Deities
 tags:
   - Quelle/5e/egw
 aliases:

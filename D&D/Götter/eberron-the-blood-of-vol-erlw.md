@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Blood of Vol
+linter-yaml-title-alias: The Blood of Vol
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/life

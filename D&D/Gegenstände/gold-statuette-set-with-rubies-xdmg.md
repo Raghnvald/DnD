@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gold statuette set with rubies
+linter-yaml-title-alias: Gold statuette set with rubies
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Gold statuette set with rubies
-linter-yaml-title-alias: Gold statuette set with rubies
 ---
 # Gold statuette set with rubies
 *Treasure (art object)*  

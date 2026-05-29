@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Werebat
+linter-yaml-title-alias: Werebat
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2

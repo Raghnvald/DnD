@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sapphire Dragon Treasures; Sapphire Dragon Art Objects
+linter-yaml-title-alias: Sapphire Dragon Treasures; Sapphire Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

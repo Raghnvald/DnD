@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faceless
+linter-yaml-title-alias: Faceless
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Muamman Duathal
+linter-yaml-title-alias: Muamman Duathal
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/dwarven

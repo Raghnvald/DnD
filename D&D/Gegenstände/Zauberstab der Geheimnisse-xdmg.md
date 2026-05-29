@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wand of Secrets
+linter-yaml-title-alias: Wand of Secrets
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg
 aliases:
   - Wand of Secrets
-linter-yaml-title-alias: Wand of Secrets
 ---
 # Wand of Secrets
 *Wand, uncommon*  

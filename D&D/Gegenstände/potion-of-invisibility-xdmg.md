@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Invisibility
+linter-yaml-title-alias: Potion of Invisibility
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Invisibility
-linter-yaml-title-alias: Potion of Invisibility
 ---
 # Potion of Invisibility
 *Potion, rare*  

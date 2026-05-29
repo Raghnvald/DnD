@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Vampire Hunter
+linter-yaml-title-alias: Vampire Hunter
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
   - "Vampire Hunter"
+  - Vampire Hunter
 ---
 # Vampire Hunter
 *Source: Astarion's Book of Hungers p. 8*  

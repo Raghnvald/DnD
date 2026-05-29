@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Pharika's Devotee"
+linter-yaml-title-alias: "Pharika's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Adventures in the Forgotten Realms From Cyan Depths
+linter-yaml-title-alias: Index of Adventures in the Forgotten Realms From Cyan Depths
+aliases:
+  - Index of Adventures in the Forgotten Realms From Cyan Depths
 ---
 # Index of Adventures in the Forgotten Realms From Cyan Depths
 

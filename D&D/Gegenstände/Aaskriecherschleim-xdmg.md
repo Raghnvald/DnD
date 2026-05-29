@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Aaskriecherschleim
 Kategorie: Gift
-Eigenschaften: Gift
+Eigenschaften:
+  - Gift
 Kst.: 200 GM
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Aaskriecherschleim
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
+  - Aaskriecherschleim
   - Carrion Crawler Mucus
-linter-yaml-title-alias: Aaskriecherschleim
-Status: completed
 ---
 # Aaskriecherschleim
 *Abenteuerausrüstung, Gift (Kontakt)*  

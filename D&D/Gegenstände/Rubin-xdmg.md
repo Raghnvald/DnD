@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ruby
+linter-yaml-title-alias: Ruby
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Ruby
-linter-yaml-title-alias: Ruby
 ---
 # Ruby
 *Treasure (gemstone)*  

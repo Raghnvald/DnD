@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Anhänger der Gesundheit
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: erfordert Einstimmung
+Eigenschaften:
+  - erfordert Einstimmung
 Kst.: /
 Gew.: 0,5 kg
+linter-yaml-title-alias: Anhänger der Gesundheit
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/xdmg
 aliases:
+  - Anhänger der Gesundheit
   - Periapt of Health
-linter-yaml-title-alias: Anhänger der Gesundheit
 ---
 # Anhänger der Gesundheit
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Xalicas
+linter-yaml-title-alias: Xalicas
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

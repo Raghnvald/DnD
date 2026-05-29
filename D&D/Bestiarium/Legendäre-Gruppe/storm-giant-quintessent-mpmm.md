@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Giant Quintessent
+linter-yaml-title-alias: Storm Giant Quintessent
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

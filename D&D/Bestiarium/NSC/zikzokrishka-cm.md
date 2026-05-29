@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zikzokrishka
+linter-yaml-title-alias: Zikzokrishka
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Zikzokrishka
-linter-yaml-title-alias: Zikzokrishka
 ---
 # [Zikzokrishka](3-Mechanics\CLI\bestiary\npc/zikzokrishka-cm.md)
 *Source: Candlekeep Mysteries p. 209*  

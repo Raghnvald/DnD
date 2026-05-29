@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Protection
+linter-yaml-title-alias: Blessing of Protection
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/xdmg

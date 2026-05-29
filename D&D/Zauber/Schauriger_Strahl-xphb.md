@@ -7,17 +7,17 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Eldritch Blast
+classes:
+  - Warlock
 tags:
   - Klasse/Hexenmeister
   - Quelle/5e/xphb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Warlock
 aliases:
   - Eldritch Blast
-linter-yaml-title-alias: Eldritch Blast
 ---
 # Eldritch Blast
 *cantrip, Evocation*  

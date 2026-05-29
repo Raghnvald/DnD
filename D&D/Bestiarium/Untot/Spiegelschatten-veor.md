@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mirror Shade
+image: token/mirror-shade-veor.webp
 status: WIP
+linter-yaml-title-alias: Mirror Shade
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Mirror Shade
-linter-yaml-title-alias: Mirror Shade
 ---
 # [Mirror Shade](3-Mechanics\CLI\bestiary\undead/mirror-shade-veor.md)
 *Source: Vecna: Eve of Ruin p. 226*  

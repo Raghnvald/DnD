@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Merfolk (Ixalan; Green)
+linter-yaml-title-alias: Spells for Merfolk (Ixalan; Green)
 tags:
   - ttrpg-cli/spell/list/subrace/merfolk-ixalan-green
 aliases:
   - "Spells for Merfolk (Ixalan; Green)"
+  - Spells for Merfolk (Ixalan; Green)
 ---
 # Spells for Merfolk (Ixalan; Green)
 

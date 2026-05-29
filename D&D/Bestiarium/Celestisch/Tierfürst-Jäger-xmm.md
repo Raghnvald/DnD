@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animal Lord; Hunter
+linter-yaml-title-alias: Animal Lord; Hunter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/beastlands

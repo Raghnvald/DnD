@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Agility
+linter-yaml-title-alias: Ioun Stone, Agility
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Agility
-linter-yaml-title-alias: Ioun Stone, Agility
 ---
 # Ioun Stone, Agility
 *Wondrous item, very rare (requires attunement)*  

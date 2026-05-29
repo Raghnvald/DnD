@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mask, Gott der Diebe
+linter-yaml-title-alias: Mask, Gott der Diebe
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/List
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Mask
+  - Mask, Gott der Diebe
 ---
 # Mask, Gott der Diebe
 *Quelle: SRD / Grundregelwerk* 

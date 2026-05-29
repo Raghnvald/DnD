@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Foreword
+linter-yaml-title-alias: Foreword
 tags:
   - Quelle/5e/wdh
 aliases:

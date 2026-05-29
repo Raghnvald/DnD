@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Speak with Dead
 Zaubergrad: 3
+linter-yaml-title-alias: Speak with Dead
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Knowledge Domain)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,13 +14,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/whispers-of-the-grave
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Knowledge Domain)
 aliases:
   - Speak with Dead
-linter-yaml-title-alias: Speak with Dead
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

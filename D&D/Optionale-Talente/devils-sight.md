@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Devil's Sight"
+linter-yaml-title-alias: "Devil's Sight"
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb
 aliases:
+  - "Devil's Sight"
   - Devil's Sight
 ---
 # Devil's Sight

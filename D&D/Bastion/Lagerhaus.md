@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storehouse
+linter-yaml-title-alias: Storehouse
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

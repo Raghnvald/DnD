@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maglubiyet
+linter-yaml-title-alias: Maglubiyet
 tags:
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/war

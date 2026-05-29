@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Necklace of Prayer Beads
+linter-yaml-title-alias: Necklace of Prayer Beads
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Necklace of Prayer Beads
-linter-yaml-title-alias: Necklace of Prayer Beads
 ---
 # Necklace of Prayer Beads
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*  

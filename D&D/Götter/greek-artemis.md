@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artemis
+linter-yaml-title-alias: Artemis
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

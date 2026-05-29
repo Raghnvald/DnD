@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chains of Carceri
+linter-yaml-title-alias: Chains of Carceri
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

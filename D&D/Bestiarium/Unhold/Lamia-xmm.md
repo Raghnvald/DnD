@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lamia
+linter-yaml-title-alias: Lamia
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

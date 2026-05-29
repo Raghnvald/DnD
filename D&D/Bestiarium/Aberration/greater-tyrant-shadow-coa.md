@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Gigantisch
 HG: 22
 status: WIP
+linter-yaml-title-alias: Greater Tyrant Shadow
 tags:
   - Quelle/5e/coa
   - ttrpg-cli/monster/cr/22

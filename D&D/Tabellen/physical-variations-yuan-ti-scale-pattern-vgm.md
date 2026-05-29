@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Yuan-ti Scale Pattern
+linter-yaml-title-alias: Physical Variations; Yuan-ti Scale Pattern
 tags:
   - Quelle/5e/vgm
 aliases:

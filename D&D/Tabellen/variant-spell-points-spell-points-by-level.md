@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Variant: Spell Points; Spell Points by Level"
+linter-yaml-title-alias: "Variant: Spell Points; Spell Points by Level"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Variant: Spell Points; Spell Points by Level"
   - Variant: Spell Points; Spell Points by Level
 ---
 # Variant: Spell Points; Spell Points by Level

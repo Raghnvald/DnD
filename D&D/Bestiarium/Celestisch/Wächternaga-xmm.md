@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guardian Naga
+linter-yaml-title-alias: Guardian Naga
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/planar

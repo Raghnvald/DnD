@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boromar Clan Campaign Themes; Boromar Clan Assignments
+linter-yaml-title-alias: Boromar Clan Campaign Themes; Boromar Clan Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

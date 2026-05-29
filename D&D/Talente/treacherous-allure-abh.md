@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Treacherous Allure
+linter-yaml-title-alias: Treacherous Allure
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
   - "Treacherous Allure"
+  - Treacherous Allure
 ---
 # Treacherous Allure
 *Source: Astarion's Book of Hungers p. 10*  

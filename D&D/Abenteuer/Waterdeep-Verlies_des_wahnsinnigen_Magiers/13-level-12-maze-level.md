@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 12: Maze Level"
+linter-yaml-title-alias: "Level 12: Maze Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 12: Maze Level"
   - Level 12: Maze Level
 ---
 # Level 12: Maze Level

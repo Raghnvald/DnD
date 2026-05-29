@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Clairvoyance
+linter-yaml-title-alias: Potion of Clairvoyance
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Clairvoyance
-linter-yaml-title-alias: Potion of Clairvoyance
 ---
 # Potion of Clairvoyance
 *Potion, rare*  

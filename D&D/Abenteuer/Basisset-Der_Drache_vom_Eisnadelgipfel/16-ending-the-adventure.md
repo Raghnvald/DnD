@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ending the Adventure
+linter-yaml-title-alias: Ending the Adventure
 tags:
   - Quelle/5e/dip
 aliases:

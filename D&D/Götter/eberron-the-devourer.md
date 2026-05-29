@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Devourer
+linter-yaml-title-alias: The Devourer
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/eberron

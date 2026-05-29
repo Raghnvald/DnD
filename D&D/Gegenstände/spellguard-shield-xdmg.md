@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spellguard Shield
 Rüstung: Schild
+linter-yaml-title-alias: Spellguard Shield
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Spellguard Shield
-linter-yaml-title-alias: Spellguard Shield
 ---
 # Spellguard Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  

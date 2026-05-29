@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Detect Thoughts
+linter-yaml-title-alias: Detect Thoughts
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock (Great Old One Patron)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,19 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock (Great Old One Patron)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Detect Thoughts
-linter-yaml-title-alias: Detect Thoughts
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

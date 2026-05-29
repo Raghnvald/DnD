@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Restoring Harmony: A Sticky Situation"
+linter-yaml-title-alias: "Restoring Harmony: A Sticky Situation"
 tags:
   - Quelle/5e/nrh-ass
 aliases:

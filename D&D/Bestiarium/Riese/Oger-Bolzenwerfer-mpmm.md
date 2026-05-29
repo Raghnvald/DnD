@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Bolt Launcher
+linter-yaml-title-alias: Ogre Bolt Launcher
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

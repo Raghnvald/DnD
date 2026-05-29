@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shrieking Greaves
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Shrieking Greaves
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Shrieking Greaves
-linter-yaml-title-alias: Shrieking Greaves
 ---
 # Shrieking Greaves
 *Wondrous item, cursed item, rare (requires attunement)*  

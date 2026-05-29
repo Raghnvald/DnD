@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barghest
+linter-yaml-title-alias: Barghest
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

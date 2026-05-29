@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Diminution
+linter-yaml-title-alias: Potion of Diminution
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Diminution
-linter-yaml-title-alias: Potion of Diminution
 ---
 # Potion of Diminution
 *Potion, rare*  

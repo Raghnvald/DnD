@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sphinx of Secrets
+linter-yaml-title-alias: Sphinx of Secrets
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/planar

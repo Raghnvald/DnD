@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Creatures
+linter-yaml-title-alias: Rakdos Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -6,6 +6,7 @@ Komponenten: V, G, M
 Wirkungsdauer: bis der Zauber gebannt wird
 Angriff: n/a
 Schaden: Kontrolle
+linter-yaml-title-alias: Magisches Gefäß
 tags:
   - Klasse/Magier
   - Quelle/5e/phb
@@ -14,6 +15,7 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Magic Jar
+  - Magisches Gefäß
 ---
 # Magisches Gefäß
 _Nekromantie des 5. Grades_

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pearl of Power
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Pearl of Power
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Pearl of Power
-linter-yaml-title-alias: Pearl of Power
 ---
 # Pearl of Power
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  

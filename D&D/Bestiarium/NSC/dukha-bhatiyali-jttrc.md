@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dukha Bhatiyali
+linter-yaml-title-alias: Dukha Bhatiyali
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/jttrc
 aliases:
   - Dukha Bhatiyali
-linter-yaml-title-alias: Dukha Bhatiyali
 ---
 # [Dukha Bhatiyali](3-Mechanics\CLI\bestiary\npc/dukha-bhatiyali-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 124*  

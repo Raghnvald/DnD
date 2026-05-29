@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Paralysis
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Paralysis
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Paralysis
-linter-yaml-title-alias: Wand of Paralysis
 ---
 # Wand of Paralysis
 *Wand, major, rare (requires attunement by a spellcaster)*  

@@ -7,6 +7,13 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Inflict Wounds
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin (Oathbreaker)
+  - Sorcerer (Divine Soul, Evil)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -18,15 +25,8 @@ tags:
   - Subklasse/Schule-des-Wissens
   - Zauber/Grad/1
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Paladin (Oathbreaker)
-  - Sorcerer (Divine Soul, Evil)
 aliases:
   - Inflict Wounds
-linter-yaml-title-alias: Inflict Wounds
 ---
 # Inflict Wounds
 *1st-level, Necromancy*  

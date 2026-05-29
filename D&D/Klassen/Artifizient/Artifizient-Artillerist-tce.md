@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artillerist
+linter-yaml-title-alias: Artillerist
 tags:
   - Klasse/Artifizient/artillerist
   - Quelle/5e/tce

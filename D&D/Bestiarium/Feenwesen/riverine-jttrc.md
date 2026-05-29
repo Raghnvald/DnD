@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riverine
+linter-yaml-title-alias: Riverine
 tags:
   - Monster/Größe/Groß
   - Monster/HG/12

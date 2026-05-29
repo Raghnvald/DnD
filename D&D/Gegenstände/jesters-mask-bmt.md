@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Jester's Mask"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Jester's Mask"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
-  - Jester's Mask
-linter-yaml-title-alias: Jester's Mask
+  - "Jester's Mask"
 ---
 # Jester's Mask
 *Wondrous item, legendary (requires attunement by a bard, sorcerer, or warlock)*  

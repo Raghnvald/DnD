@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Destructive Wave
+linter-yaml-title-alias: Destructive Wave
+classes:
+  - Cleric (Tempest Domain)
+  - Paladin
 tags:
   - Klasse/Kleriker/tempest-domain
   - Klasse/paladin
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Cleric (Tempest Domain)
-  - Paladin
 aliases:
   - Destructive Wave
-linter-yaml-title-alias: Destructive Wave
 ---
 # Destructive Wave
 *5th-level, Evocation*  

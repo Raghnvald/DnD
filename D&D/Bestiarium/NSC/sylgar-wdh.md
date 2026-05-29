@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sylgar
+linter-yaml-title-alias: Sylgar
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Sylgar
-linter-yaml-title-alias: Sylgar
 ---
 # [Sylgar](3-Mechanics\CLI\bestiary\npc/sylgar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

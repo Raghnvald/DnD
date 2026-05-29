@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Diagonals
+linter-yaml-title-alias: Diagonals
 tags:
   - Quelle/5e/dmg
 aliases:

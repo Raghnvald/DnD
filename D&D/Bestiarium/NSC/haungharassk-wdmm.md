@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Haungharassk
+linter-yaml-title-alias: Haungharassk
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Haungharassk
-linter-yaml-title-alias: Haungharassk
 ---
 # [Haungharassk](3-Mechanics\CLI\bestiary\npc/haungharassk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 258*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talos, Gott der Stürme
+linter-yaml-title-alias: Talos, Gott der Stürme
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Sturm
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Talos
+  - Talos, Gott der Stürme
 ---
 # Talos, Gott der Stürme
 *Quelle: SRD / Grundregelwerk* 

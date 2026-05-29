@@ -7,16 +7,16 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Divine Smite
+classes:
+  - Paladin
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Paladin
 aliases:
   - Divine Smite
-linter-yaml-title-alias: Divine Smite
 ---
 # Divine Smite
 *1st-level, Evocation*  

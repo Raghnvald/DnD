@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Sending
+linter-yaml-title-alias: Charm of Sending
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

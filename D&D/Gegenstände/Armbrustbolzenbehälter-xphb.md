@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Crossbow Bolt Case
+Kst.: 1 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Crossbow Bolt Case
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Crossbow Bolt Case
-linter-yaml-title-alias: Crossbow Bolt Case
 ---
 # Crossbow Bolt Case
 *Adventuring gear*  

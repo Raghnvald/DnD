@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Robe of Eyes
+linter-yaml-title-alias: Robe of Eyes
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Robe of Eyes
-linter-yaml-title-alias: Robe of Eyes
 ---
 # Robe of Eyes
 *Wondrous item, rare (requires attunement)*  

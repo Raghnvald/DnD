@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Isolde
+linter-yaml-title-alias: Isolde
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Isolde
-linter-yaml-title-alias: Isolde
 ---
 # Isolde
 *Source: Van Richten's Guide to Ravenloft p. 86*  

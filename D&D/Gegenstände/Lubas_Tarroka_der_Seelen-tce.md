@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Luba's Tarokka of Souls"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Luba's Tarokka of Souls"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
 aliases:
   - "Luba's Tarokka of Souls"
   - Luba's Tarokka of Souls
-linter-yaml-title-alias: "Luba's Tarokka of Souls"
 ---
 # Luba's Tarokka of Souls
 *Wondrous item, artifact (requires attunement)*  

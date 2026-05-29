@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Drachenschach-Spielsatz
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 0,25 kg
+status: WIP
+linter-yaml-title-alias: Drachenschach-Spielsatz
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Dragonchess Set
-linter-yaml-title-alias: Dragonchess Set
+  - Drachenschach-Spielsatz
 ---
 # Drachenschach-Spielsatz
 *Spiel*

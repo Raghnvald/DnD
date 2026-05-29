@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rust Monster
+linter-yaml-title-alias: Rust Monster
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

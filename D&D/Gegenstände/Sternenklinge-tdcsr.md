@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Star Razor
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Star Razor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Star Razor
-linter-yaml-title-alias: Star Razor
 ---
 # Star Razor
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  

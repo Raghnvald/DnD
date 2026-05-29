@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Comes to Krynn
+linter-yaml-title-alias: War Comes to Krynn
 tags:
   - Quelle/5e/dsotdq
 aliases:

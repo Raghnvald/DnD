@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Black Sapphire
+linter-yaml-title-alias: Black Sapphire
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Black Sapphire
-linter-yaml-title-alias: Black Sapphire
 ---
 # Black Sapphire
 *Treasure (gemstone)*  

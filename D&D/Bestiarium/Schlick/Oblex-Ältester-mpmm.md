@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elder Oblex
+linter-yaml-title-alias: Elder Oblex
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Stadt

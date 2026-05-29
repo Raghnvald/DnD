@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Chondathan Freebooter
+linter-yaml-title-alias: Chondathan Freebooter
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Chondathan Freebooter"
+  - Chondathan Freebooter
 ---
 # Chondathan Freebooter
 *Source: Forgotten Realms: Heroes of Faerûn p. 28*  

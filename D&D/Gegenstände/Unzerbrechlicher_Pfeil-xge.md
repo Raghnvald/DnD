@@ -1,17 +1,22 @@
 ---
 Bezeichnung: Unbreakable Arrow
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Unbreakable Arrow
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xge
 aliases:
   - Unbreakable Arrow
-linter-yaml-title-alias: Unbreakable Arrow
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  
-![](/3-Mechanics/CLI/items/img/unbreakable-arrow.webp#right)
+![](img/unbreakable-arrow.webp#right)
 
 This arrow can't be broken, except when it is within an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).
 

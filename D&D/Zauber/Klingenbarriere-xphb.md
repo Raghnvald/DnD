@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Blade Barrier
+linter-yaml-title-alias: Blade Barrier
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Blade Barrier
-linter-yaml-title-alias: Blade Barrier
 ---
 # Blade Barrier
 *6th-level, Evocation*  

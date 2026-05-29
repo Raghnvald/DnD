@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scribing Spell Scrolls; Spell Scroll Costs
+linter-yaml-title-alias: Scribing Spell Scrolls; Spell Scroll Costs
 tags:
   - Quelle/5e/xphb
 aliases:

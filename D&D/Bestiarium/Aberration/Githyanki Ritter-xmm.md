@@ -5,6 +5,7 @@ Bezeichnung: Githyanki Knight
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 8
+linter-yaml-title-alias: Githyanki Knight
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/astral

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Blue Dragon; Blue Dragon Personality Traits
+linter-yaml-title-alias: Creating a Blue Dragon; Blue Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zalkoré
+linter-yaml-title-alias: Zalkoré
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Zalkoré
-linter-yaml-title-alias: Zalkoré
 ---
 # [Zalkoré](3-Mechanics\CLI\bestiary\npc/zalkore-toa.md)
 *Source: Tomb of Annihilation p. 79*  

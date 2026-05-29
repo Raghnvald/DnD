@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Character Sheets
+linter-yaml-title-alias: Character Sheets
 tags:
   - Quelle/5e/lrdt
 aliases:
   - "Character Sheets"
+  - Character Sheets
 ---
 # Character Sheets
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 14* 

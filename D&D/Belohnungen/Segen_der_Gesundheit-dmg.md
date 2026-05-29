@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Segen der Gesundheit
+linter-yaml-title-alias: Segen der Gesundheit
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/dmg
 aliases:
   - Blessing of Health
+  - Segen der Gesundheit
 ---
 # Segen der Gesundheit
 

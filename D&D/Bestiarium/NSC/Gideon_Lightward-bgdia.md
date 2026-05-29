@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gideon Lightward
+linter-yaml-title-alias: Gideon Lightward
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Gideon Lightward
-linter-yaml-title-alias: Gideon Lightward
 ---
 # [Gideon Lightward](3-Mechanics\CLI\bestiary\npc/gideon-lightward-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 65*  

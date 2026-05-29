@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Figur der wundersamen Kraft
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: n/v
-Kst.: n/v
-Gew.: n/v
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Figur der wundersamen Kraft
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Seltenheit/selten
@@ -11,6 +13,7 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Figur der wundersamen Kraft
   - Figurine of Wondrous Power
 ---
 # Figur der wundersamen Kraft

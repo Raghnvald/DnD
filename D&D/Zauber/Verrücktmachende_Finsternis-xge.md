@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Verrücktmachende Finsternis
+classes:
+  - Bard
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -14,14 +20,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/8
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Maddening Darkness
-linter-yaml-title-alias: Maddening Darkness
+  - Verrücktmachende Finsternis
 ---
 # Verrücktmachende Finsternis
 _Hervorrufung des 8. Grades_

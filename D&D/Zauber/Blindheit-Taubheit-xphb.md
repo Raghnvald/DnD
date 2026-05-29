@@ -6,6 +6,19 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Blindness/Deafness
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Death Domain)
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Undead)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -22,21 +35,8 @@ tags:
   - Subklasse/the-undead
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Death Domain)
-  - Druid (Circle of Spores)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Undead)
-  - Wizard
 aliases:
   - Blindness/Deafness
-linter-yaml-title-alias: Blindness/Deafness
 ---
 # Blindness/Deafness
 *2nd-level, Transmutation*  

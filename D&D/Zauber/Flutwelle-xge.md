@@ -6,6 +6,15 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Tidal Wave
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -17,17 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Tidal Wave
-linter-yaml-title-alias: Tidal Wave
 ---
 # Tidal Wave
 *3rd-level, Conjuration*  

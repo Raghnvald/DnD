@@ -8,6 +8,7 @@ Angriff: GES
 Schaden: 1d8 Feuer
 status:
   - completed
+linter-yaml-title-alias: Lagerfeuer erschaffen
 tags:
   - Klasse/Artifizient
   - Klasse/Druide
@@ -20,6 +21,7 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Create Bonfire
+  - Lagerfeuer erschaffen
 ---
 # Lagerfeuer erschaffen
 _Zaubertrick der Beschwörung_

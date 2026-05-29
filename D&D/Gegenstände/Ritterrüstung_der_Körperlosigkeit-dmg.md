@@ -2,20 +2,21 @@
 Bezeichnung: Ritterrüstung der Körperlosigkeit
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+linter-yaml-title-alias: Ritterrüstung der Körperlosigkeit
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
-  - Plate Armor of Etherealness
-linter-yaml-title-alias: Plate Armor of Etherealness
+  - Ritterrüstung der Körperlosigkeit
 ---
 # Ritterrüstung der Körperlosigkeit
 *Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), legendär (benötigt Einstimmung)*

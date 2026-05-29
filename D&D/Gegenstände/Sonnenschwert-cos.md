@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sunsword
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sunsword
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Sunsword
-linter-yaml-title-alias: Sunsword
 ---
 # Sunsword
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  

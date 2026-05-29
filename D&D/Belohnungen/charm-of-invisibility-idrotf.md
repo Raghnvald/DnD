@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Invisibility
+linter-yaml-title-alias: Charm of Invisibility
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

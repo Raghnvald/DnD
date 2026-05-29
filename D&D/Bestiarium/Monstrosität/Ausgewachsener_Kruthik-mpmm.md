@@ -5,6 +5,7 @@ Bezeichnung: Adult Kruthik
 Kategorie: Monstrosität
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Adult Kruthik
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

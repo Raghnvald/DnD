@@ -6,6 +6,16 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Erdbindung
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -18,18 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Earthbind
-linter-yaml-title-alias: Earthbind
+  - Erdbindung
 ---
 # Erdbindung
 *Verwandlung des 2. Grades*

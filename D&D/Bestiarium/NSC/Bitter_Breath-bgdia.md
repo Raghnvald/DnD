@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bitter Breath
+linter-yaml-title-alias: Bitter Breath
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Bitter Breath
-linter-yaml-title-alias: Bitter Breath
 ---
 # Bitter Breath
 *Source: Baldur's Gate: Descent Into Avernus p. 90*  

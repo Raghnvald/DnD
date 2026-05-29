@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Deck of Illusions
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Deck of Illusions
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Deck of Illusions
-linter-yaml-title-alias: Deck of Illusions
 ---
 # Deck of Illusions
 *Wondrous item, major, uncommon*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rellavar Danuvien
+linter-yaml-title-alias: Rellavar Danuvien
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/elven

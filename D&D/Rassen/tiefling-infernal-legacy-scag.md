@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Infernal Legacy)
+linter-yaml-title-alias: Tiefling (Infernal Legacy)
 tags:
   - Quelle/5e/scag
   - Rasse/tiefling/infernal-legacy

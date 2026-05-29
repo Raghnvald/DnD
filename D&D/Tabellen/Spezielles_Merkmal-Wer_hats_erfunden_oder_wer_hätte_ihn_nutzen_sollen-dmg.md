@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?"
+linter-yaml-title-alias: "Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?"
   - Special Features; Who Created It or Was Intended to Use It?
 ---
 # Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?

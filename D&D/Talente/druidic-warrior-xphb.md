@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Druidic Warrior
+linter-yaml-title-alias: Druidic Warrior
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

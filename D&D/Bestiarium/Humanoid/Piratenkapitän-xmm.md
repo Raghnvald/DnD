@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pirate Captain
+linter-yaml-title-alias: Pirate Captain
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes

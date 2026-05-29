@@ -1,19 +1,22 @@
 ---
-Bezeichnung: Ring of Evasion
+Bezeichnung: Ring des Ausweichens
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring des Ausweichens
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Evasion
-linter-yaml-title-alias: Ring of Evasion
+  - Ring des Ausweichens
 ---
-# Ring of Evasion
-*Ring, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-evasion.webp#right)
+# Ring des Ausweichens
+*Ring, selten (benötigt Einstimmung)*  
+![](img/ring-of-evasion.webp#right)
 
-This ring has 3 charges, and it regains `1d3` expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
+Dieser Ring hat 3 Ladungen, und er erhält zu jeder Morgendämmerung `1W3` der verbrauchten Ladungen zurück. Wenn du einen Geschicklichkeits-Rettungswurf nicht bestehst, während du den Ring trägst, kannst du deine Reaktion verwenden, um 1 Ladung zu verbrauchen und den Rettungswurf stattdessen zu bestehen.
 
-*Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielleiterhandbuch S. 176. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

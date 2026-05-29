@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Polymorph
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Polymorph
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Polymorph
-linter-yaml-title-alias: Wand of Polymorph
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  

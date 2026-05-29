@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Athlet
+linter-yaml-title-alias: Athlet
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
+  - Athlet
   - Athlete
 ---
 # Athlet

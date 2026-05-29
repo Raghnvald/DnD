@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Salamander
+linter-yaml-title-alias: Salamander
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

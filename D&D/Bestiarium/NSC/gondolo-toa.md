@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gondolo
+linter-yaml-title-alias: Gondolo
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Gondolo
-linter-yaml-title-alias: Gondolo
 ---
 # [Gondolo](3-Mechanics\CLI\bestiary\npc/gondolo-toa.md)
 *Source: Tomb of Annihilation p. 34*  

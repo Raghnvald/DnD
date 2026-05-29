@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Fass
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 35,0 kg
+status: WIP
+linter-yaml-title-alias: Fass
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Barrel
-linter-yaml-title-alias: Barrel
+  - Fass
 ---
 # Fass
 *Abenteuerausrüstung*

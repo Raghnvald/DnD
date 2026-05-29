@@ -5,6 +5,7 @@ Bezeichnung: Githzerai Zerth
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 6
+linter-yaml-title-alias: Githzerai Zerth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Silver Dragon; Silver Dragon Ideals
+linter-yaml-title-alias: Creating a Silver Dragon; Silver Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

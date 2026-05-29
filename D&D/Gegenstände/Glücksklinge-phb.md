@@ -2,9 +2,11 @@
 Bezeichnung: Luck Blade
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+linter-yaml-title-alias: Luck Blade
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -20,7 +22,6 @@ aliases:
   - Luck Blade Rapier
   - Luck Blade Scimitar
   - Luck Blade Shortsword
-linter-yaml-title-alias: Luck Blade
 ---
 # Luck Blade
 *Major, legendary (requires attunement)*  

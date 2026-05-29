@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/qftis
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Quests from the Infinite Staircase, p. 2* 

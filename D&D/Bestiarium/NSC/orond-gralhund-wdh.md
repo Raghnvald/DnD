@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orond Gralhund
+linter-yaml-title-alias: Orond Gralhund
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Orond Gralhund
-linter-yaml-title-alias: Orond Gralhund
 ---
 # [Orond Gralhund](3-Mechanics\CLI\bestiary\npc/orond-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 213*  

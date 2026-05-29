@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Magic Items"
+linter-yaml-title-alias: "Appendix A: Magic Items"
 tags:
   - Quelle/5e/tftyp-atg
 aliases:

@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Invisibility
+linter-yaml-title-alias: Invisibility
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -18,20 +30,8 @@ tags:
   - Zauber/optfeature/one-with-shadows
   - Zauber/optfeature/shroud-of-shadow
   - Zauber/Schule/Illusion
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Invisibility
-linter-yaml-title-alias: Invisibility
 ---
 # Invisibility
 *2nd-level, Illusion*  

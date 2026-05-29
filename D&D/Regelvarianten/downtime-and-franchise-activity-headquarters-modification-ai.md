@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Headquarters Modification"
+linter-yaml-title-alias: "Downtime and Franchise Activity: Headquarters Modification"
 tags:
   - Quelle/5e/ai
 aliases:

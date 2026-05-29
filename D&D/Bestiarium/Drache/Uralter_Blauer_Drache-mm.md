@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Uralter Blauer Drache "
+linter-yaml-title-alias: "Uralter Blauer Drache "
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Küste
@@ -10,8 +11,7 @@ tags:
   - Monster/Typ/Drache
   - Quelle/5e/mm
 aliases:
-  - Ancient Blue Dragon
-linter-yaml-title-alias: Ancient Blue Dragon
+  - "Uralter Blauer Drache "
 ---
 # Uralter Blauer Drache 
 *Quelle: Monsterhandbuch S. 62. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

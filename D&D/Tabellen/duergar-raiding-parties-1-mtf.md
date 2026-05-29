@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Raiding Parties; 1
+linter-yaml-title-alias: Duergar Raiding Parties; 1
 tags:
   - Quelle/5e/mtf
 aliases:

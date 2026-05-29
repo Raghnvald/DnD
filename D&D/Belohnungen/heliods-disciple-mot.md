@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heliod's Disciple"
+linter-yaml-title-alias: "Heliod's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

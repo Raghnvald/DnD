@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Treant
+linter-yaml-title-alias: Treant
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Wald

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Slippery Ice
+linter-yaml-title-alias: Slippery Ice
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/dmg

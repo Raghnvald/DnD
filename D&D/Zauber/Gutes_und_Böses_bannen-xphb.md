@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Dispel Evil and Good
+linter-yaml-title-alias: Dispel Evil and Good
+classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -8,14 +14,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Dispel Evil and Good
-linter-yaml-title-alias: Dispel Evil and Good
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  

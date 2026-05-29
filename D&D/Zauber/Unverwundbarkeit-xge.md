@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Invulnerability
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -13,13 +18,8 @@ tags:
   - Subklasse/abjurer
   - Zauber/Grad/9
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Invulnerability
-linter-yaml-title-alias: Invulnerability
 ---
 # Invulnerability
 *9th-level, Abjuration*  

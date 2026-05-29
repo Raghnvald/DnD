@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awakened Rat
+linter-yaml-title-alias: Awakened Rat
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

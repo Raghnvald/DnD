@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sif
+linter-yaml-title-alias: Sif
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/norse

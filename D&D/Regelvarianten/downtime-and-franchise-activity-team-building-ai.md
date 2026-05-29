@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Team Building"
+linter-yaml-title-alias: "Downtime and Franchise Activity: Team Building"
 tags:
   - Quelle/5e/ai
 aliases:

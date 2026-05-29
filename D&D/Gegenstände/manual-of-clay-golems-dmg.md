@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Clay Golems
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Clay Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Clay Golems
-linter-yaml-title-alias: Manual of Clay Golems
 ---
 # Manual of Clay Golems
 *Wondrous item, major, very rare*  

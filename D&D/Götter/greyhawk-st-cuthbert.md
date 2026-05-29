@@ -1,5 +1,6 @@
 ---
 Bezeichnung: St. Cuthbert
+linter-yaml-title-alias: St. Cuthbert
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/greyhawk

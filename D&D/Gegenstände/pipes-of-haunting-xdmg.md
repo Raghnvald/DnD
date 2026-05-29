@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Pipes of Haunting
+linter-yaml-title-alias: Pipes of Haunting
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Pipes of Haunting
-linter-yaml-title-alias: Pipes of Haunting
 ---
 # Pipes of Haunting
 *Wondrous item, uncommon*  

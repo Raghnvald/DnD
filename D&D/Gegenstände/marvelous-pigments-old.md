@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Marvelous Pigments
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Marvelous Pigments
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Marvelous Pigments
-linter-yaml-title-alias: Marvelous Pigments
 ---
 # Marvelous Pigments
 *Wondrous Item, minor, very rare*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tortle Druid
+linter-yaml-title-alias: Tortle Druid
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

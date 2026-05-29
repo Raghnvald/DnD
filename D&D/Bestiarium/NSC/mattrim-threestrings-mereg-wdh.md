@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Mattrim "Threestrings" Mereg'
+linter-yaml-title-alias: 'Mattrim "Threestrings" Mereg'
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - 'Mattrim "Threestrings" Mereg'
   - Mattrim "Threestrings" Mereg
-linter-yaml-title-alias: 'Mattrim "Threestrings" Mereg'
 ---
 # [Mattrim "Threestrings" Mereg](3-Mechanics\CLI\bestiary\npc/mattrim-threestrings-mereg-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

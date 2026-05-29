@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pistol
+linter-yaml-title-alias: Pistol
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Pistol
-linter-yaml-title-alias: Pistol
 ---
 # Pistol
 *Weapon*  

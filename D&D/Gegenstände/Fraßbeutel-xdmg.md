@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Bag of Devouring
+linter-yaml-title-alias: Bag of Devouring
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Bag of Devouring
-linter-yaml-title-alias: Bag of Devouring
 ---
 # Bag of Devouring
 *Wondrous item, very rare*  

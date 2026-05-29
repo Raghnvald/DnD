@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact of the Tome
+linter-yaml-title-alias: Pact of the Tome
 tags:
   - Kompendium/Optionales/pb
   - Quelle/5e/phb

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Monstrous Compendium Volume 4 Eldraine Creatures
+linter-yaml-title-alias: Index of Monstrous Compendium Volume 4 Eldraine Creatures
+aliases:
+  - Index of Monstrous Compendium Volume 4 Eldraine Creatures
 ---
 # Index of Monstrous Compendium Volume 4 Eldraine Creatures
 

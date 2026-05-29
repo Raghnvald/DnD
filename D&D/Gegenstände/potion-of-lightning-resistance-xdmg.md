@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Lightning Resistance
+linter-yaml-title-alias: Potion of Lightning Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Lightning Resistance
-linter-yaml-title-alias: Potion of Lightning Resistance
 ---
 # Potion of Lightning Resistance
 *Potion, uncommon*  

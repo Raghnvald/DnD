@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Decrepit Mangonel
+linter-yaml-title-alias: Decrepit Mangonel
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/hbtd
 aliases:
   - "Decrepit Mangonel"
+  - Decrepit Mangonel
 ---
 # Decrepit Mangonel
 *Source: Hold Back The Dead p. 5*  

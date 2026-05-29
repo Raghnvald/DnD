@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Starting the Adventure
+linter-yaml-title-alias: Starting the Adventure
 tags:
   - Quelle/5e/xmts
 aliases:
   - "Starting the Adventure"
+  - Starting the Adventure
 ---
 # Starting the Adventure
 *Source: X Marks the Spot, p. 3* 

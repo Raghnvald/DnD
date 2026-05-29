@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Canopic Golem
+linter-yaml-title-alias: Canopic Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/13

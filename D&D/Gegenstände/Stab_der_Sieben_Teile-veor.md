@@ -2,10 +2,12 @@
 Bezeichnung: Stab der Sieben Teile
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: Vielseitig
+Eigenschaften:
+  - Vielseitig
 Einstimmung: /
 Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: Stab der Sieben Teile
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -14,8 +16,7 @@ tags:
   - Gegenstand/wundersam/Rute
   - Quelle/5e/veor
 aliases:
-  - Rod of Seven Parts
-linter-yaml-title-alias: Rod of Seven Parts
+  - Stab der Sieben Teile
 ---
 # Stab der Sieben Teile
 *Waffe ([[Kampfstab-phb|Kampfstab]]), Artefakt (erfordert Einstimmung)*  

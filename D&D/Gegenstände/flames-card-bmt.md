@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Flames Card
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Flames Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Flames Card
-linter-yaml-title-alias: Flames Card
 ---
 # Flames Card
 *Wondrous item, legendary*  

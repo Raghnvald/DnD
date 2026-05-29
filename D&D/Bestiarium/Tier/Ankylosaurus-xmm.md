@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ankylosaurus
+linter-yaml-title-alias: Ankylosaurus
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

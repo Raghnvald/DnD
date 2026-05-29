@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Vergadain
+linter-yaml-title-alias: Vergadain
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:
   - "Vergadain"
+  - Vergadain
 ---
 # Vergadain
 *Source: Sword Coast Adventurer's Guide p. 22* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Juggernaut
+linter-yaml-title-alias: Skeletal Juggernaut
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Skeletal Juggernaut
-linter-yaml-title-alias: Skeletal Juggernaut
 ---
 # [Skeletal Juggernaut](3-Mechanics\CLI\bestiary\undead/skeletal-juggernaut-gos.md)
 *Source: Ghosts of Saltmarsh p. 253*  

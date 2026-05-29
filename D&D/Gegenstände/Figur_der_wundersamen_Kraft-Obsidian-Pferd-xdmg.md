@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Obsidian Steed
+linter-yaml-title-alias: Figurine of Wondrous Power, Obsidian Steed
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Figurine of Wondrous Power, Obsidian Steed
-linter-yaml-title-alias: Figurine of Wondrous Power, Obsidian Steed
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous item, very rare*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Flesh Gnawer
+linter-yaml-title-alias: Gnoll Flesh Gnawer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Welcome to the Nine Hells"
+linter-yaml-title-alias: "Introduction: Welcome to the Nine Hells"
 tags:
   - Quelle/5e/coa
 aliases:

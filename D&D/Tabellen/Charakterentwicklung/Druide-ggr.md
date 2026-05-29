@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Druid
+linter-yaml-title-alias: Druid
 tags:
   - Quelle/5e/ggr
 aliases:

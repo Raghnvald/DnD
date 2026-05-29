@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 3: What's Next?"
+linter-yaml-title-alias: "Part 3: What's Next?"
 tags:
   - Quelle/5e/aitfr-isf
 aliases:

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Stallungen (pro Tag)
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 SM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Stallungen (pro Tag)
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Stabling (per day)
-linter-yaml-title-alias: Stabling (per day)
+  - Stallungen (pro Tag)
 ---
 # Stallungen (pro Tag)
 *Zaumzeug und Harnisch*  

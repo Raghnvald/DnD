@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dzaan
+linter-yaml-title-alias: Dzaan
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Dzaan
-linter-yaml-title-alias: Dzaan
 ---
 # [Dzaan](3-Mechanics\CLI\bestiary\npc/dzaan-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 271*  

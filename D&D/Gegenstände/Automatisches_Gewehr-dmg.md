@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Automatic Rifle
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Automatic Rifle
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Automatic Rifle
-linter-yaml-title-alias: Automatic Rifle
 ---
 # Automatic Rifle
 *Weapon*  

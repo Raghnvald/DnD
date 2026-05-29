@@ -5,6 +5,7 @@ Bezeichnung: Red Guard Drake
 Kategorie: Drache
 Größe: Mittelgroß
 HG: 2
+linter-yaml-title-alias: Red Guard Drake
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Red Guard Drake
-linter-yaml-title-alias: Red Guard Drake
 ---
 # [Red Guard Drake](3-Mechanics\CLI\bestiary\dragon/red-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

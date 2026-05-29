@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Kyrzin's Ooze"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Kyrzin's Ooze"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
-  - Kyrzin's Ooze
-linter-yaml-title-alias: Kyrzin's Ooze
+  - "Kyrzin's Ooze"
 ---
 # Kyrzin's Ooze
 *Wondrous item, very rare (requires attunement)*  

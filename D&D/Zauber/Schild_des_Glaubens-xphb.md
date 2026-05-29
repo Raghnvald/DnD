@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Shield of Faith
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (War Domain)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -19,17 +28,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (War Domain)
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Shield of Faith
-linter-yaml-title-alias: Shield of Faith
 ---
 # Shield of Faith
 *1st-level, Abjuration*  

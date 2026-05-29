@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Monsters"
+linter-yaml-title-alias: "Appendix C: Monsters"
 tags:
   - Quelle/5e/hotb
 aliases:

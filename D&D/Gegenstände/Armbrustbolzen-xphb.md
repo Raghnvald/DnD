@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Bolt
+Kst.: 5 KM
+Gew.: 0,0375 kg
+status: WIP
+linter-yaml-title-alias: Bolt
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bolt
-linter-yaml-title-alias: Bolt
 ---
 # Bolt
 *Ammunition*  

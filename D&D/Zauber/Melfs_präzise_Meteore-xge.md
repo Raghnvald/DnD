@@ -6,6 +6,15 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: "Melf's Minute Meteors"
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -17,17 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Melf's Minute Meteors
-linter-yaml-title-alias: Melf's Minute Meteors
+  - "Melf's Minute Meteors"
 ---
 # Melf's Minute Meteors
 *3rd-level, Evocation*  

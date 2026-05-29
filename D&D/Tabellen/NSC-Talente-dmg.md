@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Talents
+linter-yaml-title-alias: NPC Talents
 tags:
   - Quelle/5e/dmg
 aliases:

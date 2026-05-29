@@ -2,18 +2,19 @@
 Bezeichnung: Schleuder
 Kategorie: Einfache Fernkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: Geschosse
+Eigenschaften:
+  - Geschosse
 Einstimmung: /
 Kst.: 1 SM
 Gew.: /
+linter-yaml-title-alias: Schleuder
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
   - Quelle/5e/phb
 aliases:
-  - Sling
-linter-yaml-title-alias: Sling
+  - Schleuder
 ---
 # Schleuder
 *Waffe*  

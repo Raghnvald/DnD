@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Boon of Dimensional Travel
+linter-yaml-title-alias: Spells for Boon of Dimensional Travel
 tags:
   - ttrpg-cli/spell/list/feat/boon-of-dimensional-travel
 aliases:
   - "Spells for Boon of Dimensional Travel"
+  - Spells for Boon of Dimensional Travel
 ---
 # Spells for Boon of Dimensional Travel
 

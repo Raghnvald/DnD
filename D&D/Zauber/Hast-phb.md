@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Haste
 Zaubergrad: 3
+linter-yaml-title-alias: Haste
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Grassland)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Vengeance)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/grassland
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Grassland)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Vengeance)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Haste
-linter-yaml-title-alias: Haste
 ---
 # Haste
 *3rd-level, Transmutation*  

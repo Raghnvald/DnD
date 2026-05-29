@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lute of Thunderous Thumping
+linter-yaml-title-alias: Lute of Thunderous Thumping
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Lute of Thunderous Thumping
-linter-yaml-title-alias: Lute of Thunderous Thumping
 ---
 # Lute of Thunderous Thumping
 *Weapon ([club](/3-Mechanics/CLI/items/club-xphb.md)), very rare*  

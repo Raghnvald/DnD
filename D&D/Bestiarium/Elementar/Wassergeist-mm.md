@@ -10,6 +10,7 @@ Habitat:
   - Unterreich
 image: token/water-weird.webp
 status: completed
+linter-yaml-title-alias: Wassergeist
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt
@@ -18,6 +19,7 @@ tags:
   - Monster/Typ/Elementar
   - Quelle/5e/mm
 aliases:
+  - Wassergeist
   - Water Weird
 ---
 # Wassergeist

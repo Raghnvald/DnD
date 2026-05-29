@@ -2,20 +2,22 @@
 Bezeichnung: Skorpionrüstung
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: Verflucht
+Eigenschaften:
+  - erfordert Einstimmung
+  - Verflucht
 Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: /
+linter-yaml-title-alias: Skorpionrüstung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/toa
 aliases:
-  - Scorpion Armor
-linter-yaml-title-alias: Scorpion Armor
+  - Skorpionrüstung
 ---
 # Skorpionrüstung
 *Heavy armor, cursed item, rare (requires attunement)*  

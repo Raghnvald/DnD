@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Dragon Turtle
+linter-yaml-title-alias: Reduced-Threat Dragon Turtle
 tags:
   - Monster/Größe/Groß
   - Monster/HG/17
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Dragon Turtle
-linter-yaml-title-alias: Reduced-Threat Dragon Turtle
 ---
 # [Reduced-Threat Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/reduced-threat-dragon-turtle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

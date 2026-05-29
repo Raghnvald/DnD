@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Araleth Letheranil
+linter-yaml-title-alias: Araleth Letheranil
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/light

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Elemental
+linter-yaml-title-alias: Index of Elemental
+aliases:
+  - Index of Elemental
 ---
 # Index of Elemental
 

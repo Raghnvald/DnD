@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Crystal Ball of Mind Reading
+linter-yaml-title-alias: Crystal Ball of Mind Reading
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Crystal Ball of Mind Reading
-linter-yaml-title-alias: Crystal Ball of Mind Reading
 ---
 # Crystal Ball of Mind Reading
 *Wondrous item, legendary (requires attunement)*  

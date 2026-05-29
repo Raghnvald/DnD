@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Oil
+linter-yaml-title-alias: Oil
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Oil
-linter-yaml-title-alias: Oil
 ---
 # Oil
 *Adventuring gear*  

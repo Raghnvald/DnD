@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Drow)
+linter-yaml-title-alias: Elf (Drow)
 tags:
   - Quelle/5e/phb
   - Rasse/elf/drow

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Iron Golems
+linter-yaml-title-alias: Manual of Iron Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Iron Golems
-linter-yaml-title-alias: Manual of Iron Golems
 ---
 # Manual of Iron Golems
 *Wondrous item, very rare*  

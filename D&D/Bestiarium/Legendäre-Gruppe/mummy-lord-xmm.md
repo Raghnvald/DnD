@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mummy Lord
+linter-yaml-title-alias: Mummy Lord
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

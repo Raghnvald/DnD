@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Baphomet
+linter-yaml-title-alias: Baphomet
 tags:
   - Monster/legendary-group
   - Quelle/5e/mtf

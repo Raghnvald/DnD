@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Minions of Chaos
+linter-yaml-title-alias: Minions of Chaos
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

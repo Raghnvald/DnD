@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Staggering Smite
+linter-yaml-title-alias: Staggering Smite
+classes:
+  - Paladin
+  - Warlock (The Hexblade)
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb
   - Subklasse/the-hexblade
   - Zauber/Grad/4
   - Zauber/Schule/Verzauberung
-classes:
-  - Paladin
-  - Warlock (The Hexblade)
 aliases:
   - Staggering Smite
-linter-yaml-title-alias: Staggering Smite
 ---
 # Staggering Smite
 *4th-level, Enchantment*  

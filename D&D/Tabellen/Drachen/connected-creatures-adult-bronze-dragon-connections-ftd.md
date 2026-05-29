@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Bronze Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Adult Bronze Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

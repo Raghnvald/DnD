@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Levitate
 Zaubergrad: 2
+linter-yaml-title-alias: Levitate
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -11,15 +18,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/ascendant-step
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Levitate
-linter-yaml-title-alias: Levitate
 ---
 # Levitate
 *2nd-level, Transmutation*  

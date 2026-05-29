@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Merchant
+linter-yaml-title-alias: Merchant
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Old Croaker
+linter-yaml-title-alias: Old Croaker
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Old Croaker
-linter-yaml-title-alias: Old Croaker
 ---
 # [Old Croaker](3-Mechanics\CLI\bestiary\npc/old-croaker-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  

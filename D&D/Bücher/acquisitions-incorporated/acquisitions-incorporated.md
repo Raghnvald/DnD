@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Acquisitions Incorporated
+linter-yaml-title-alias: Index of Acquisitions Incorporated
+aliases:
+  - Index of Acquisitions Incorporated
 ---
 # Index of Acquisitions Incorporated
 

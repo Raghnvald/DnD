@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crossbow Trap
+linter-yaml-title-alias: Crossbow Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Blauer Spinell
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 500 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Blauer Spinell
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Blue Spinel
-linter-yaml-title-alias: Blue Spinel
+  - Blauer Spinell
 ---
 # Blauer Spinell
 *Schatz (Edelstein)*  

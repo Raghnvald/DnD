@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of X Marks the Spot
+linter-yaml-title-alias: Index of X Marks the Spot
+aliases:
+  - Index of X Marks the Spot
 ---
 # Index of X Marks the Spot
 

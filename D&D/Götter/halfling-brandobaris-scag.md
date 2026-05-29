@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Brandobaris
+linter-yaml-title-alias: Brandobaris
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/halfling
   - Quelle/5e/scag
 aliases:
   - "Brandobaris"
+  - Brandobaris
 ---
 # Brandobaris
 *Source: Sword Coast Adventurer's Guide p. 23* 

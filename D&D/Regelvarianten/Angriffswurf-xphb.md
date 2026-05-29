@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Attack Roll
+linter-yaml-title-alias: Attack Roll
 tags:
   - Quelle/5e/xphb
 aliases:

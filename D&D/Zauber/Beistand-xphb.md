@@ -8,6 +8,21 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 status: WIP
+linter-yaml-title-alias: Aid
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Peace Domain)
+  - Druid
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -25,23 +40,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Life Domain)
-  - Cleric (Peace Domain)
-  - Druid
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Ranger
-  - Sorcerer (Clockwork Sorcery)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Aid
-linter-yaml-title-alias: Aid
 ---
 # Aid
 *2nd-level, Abjuration*  

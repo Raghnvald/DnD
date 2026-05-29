@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Satyr Revelmaster
+linter-yaml-title-alias: Satyr Revelmaster
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/feywild

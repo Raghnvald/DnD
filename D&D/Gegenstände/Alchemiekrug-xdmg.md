@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Alchemy Jug
+linter-yaml-title-alias: Alchemy Jug
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Alchemy Jug
-linter-yaml-title-alias: Alchemy Jug
 ---
 # Alchemy Jug
 *Wondrous item, uncommon*  

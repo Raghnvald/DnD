@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Nerds Restoring Harmony Circus of Illusion
+linter-yaml-title-alias: Index of Nerds Restoring Harmony Circus of Illusion
+aliases:
+  - Index of Nerds Restoring Harmony Circus of Illusion
 ---
 # Index of Nerds Restoring Harmony Circus of Illusion
 

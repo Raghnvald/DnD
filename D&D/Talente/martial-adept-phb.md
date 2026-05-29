@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Martial Adept
+linter-yaml-title-alias: Martial Adept
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

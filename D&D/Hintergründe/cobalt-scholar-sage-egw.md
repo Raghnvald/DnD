@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cobalt Scholar (Sage)
+linter-yaml-title-alias: Cobalt Scholar (Sage)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw

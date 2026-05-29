@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githzerai Anarch
+linter-yaml-title-alias: Githzerai Anarch
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/16

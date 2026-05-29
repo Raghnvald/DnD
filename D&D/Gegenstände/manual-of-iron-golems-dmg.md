@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Iron Golems
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Iron Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Iron Golems
-linter-yaml-title-alias: Manual of Iron Golems
 ---
 # Manual of Iron Golems
 *Wondrous item, major, very rare*  

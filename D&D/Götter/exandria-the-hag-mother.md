@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Hag Mother
+linter-yaml-title-alias: The Hag Mother
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

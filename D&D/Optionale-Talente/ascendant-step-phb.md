@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ascendant Step
+linter-yaml-title-alias: Ascendant Step
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

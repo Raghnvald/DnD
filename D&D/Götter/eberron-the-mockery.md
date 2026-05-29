@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Mockery
+linter-yaml-title-alias: The Mockery
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/eberron

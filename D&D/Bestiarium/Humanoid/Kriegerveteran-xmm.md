@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warrior Veteran
+linter-yaml-title-alias: Warrior Veteran
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes

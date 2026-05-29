@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Passwall
 Zaubergrad: 5
+linter-yaml-title-alias: Passwall
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Mountain)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/mountain
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Mountain)
-  - Wizard
 aliases:
   - Passwall
-linter-yaml-title-alias: Passwall
 ---
 # Passwall
 *5th-level, Transmutation*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Eldritch Knight
+linter-yaml-title-alias: Eldritch Knight
 tags:
   - Klasse/Kämpfer/eldritch-knight
   - Quelle/5e/xphb
 aliases:
   - Eldritch Knight
-linter-yaml-title-alias: Eldritch Knight
 ---
 # Eldritch Knight
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

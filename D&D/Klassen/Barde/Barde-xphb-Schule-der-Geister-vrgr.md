@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Spirits
+linter-yaml-title-alias: College of Spirits
 tags:
   - Klasse/Barde/Schule-der-Geister
   - Quelle/5e/vrgr
 aliases:
   - College of Spirits
-linter-yaml-title-alias: College of Spirits
 ---
 # College of Spirits
 *[Bard](Barde-xphb.md): Bard Subclass*  

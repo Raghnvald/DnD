@@ -9,6 +9,7 @@ Habitat:
   - Stadt
 image: token/cult-fanatic.webp
 status: completed
+linter-yaml-title-alias: Kultfanatiker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -18,6 +19,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Cult Fanatic
+  - Kultfanatiker
 ---
 # Kultfanatiker
 *Quelle: Monsterhandbuch S. 347, Explorer's Guide to Wildemount. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

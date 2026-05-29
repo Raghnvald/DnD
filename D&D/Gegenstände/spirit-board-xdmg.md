@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Spirit Board
+linter-yaml-title-alias: Spirit Board
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Spirit Board
-linter-yaml-title-alias: Spirit Board
 ---
 # Spirit Board
 *Wondrous item, very rare*  

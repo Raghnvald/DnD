@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Feed (per day)
+linter-yaml-title-alias: Feed (per day)
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Feed (per day)
-linter-yaml-title-alias: Feed (per day)
 ---
 # Feed (per day)
 *Tack and harness*  

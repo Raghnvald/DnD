@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Spellwrought Tattoo (Cantrip)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Spellwrought Tattoo (Cantrip)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
   - Spellwrought Tattoo (Cantrip)
-linter-yaml-title-alias: Spellwrought Tattoo (Cantrip)
 ---
 # Spellwrought Tattoo (Cantrip)
 *Wondrous item (tattoo), common*  

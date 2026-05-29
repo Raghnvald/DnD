@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tote beleben
 Zaubergrad: 3
+linter-yaml-title-alias: Tote beleben
 tags:
   - Klasse/Kleriker
   - Klasse/Magier
@@ -9,7 +10,7 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Animate Dead
-linter-yaml-title-alias: Tote beleben
+  - Tote beleben
 ---
 # Tote beleben
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Nekromantiezauber.webp#token)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Emerald Dragon
+linter-yaml-title-alias: Emerald Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

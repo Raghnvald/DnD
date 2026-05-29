@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Falcon's Hunting Lodge"
+linter-yaml-title-alias: "Falcon's Hunting Lodge"
 tags:
   - Quelle/5e/dip
 aliases:
+  - "Falcon's Hunting Lodge"
   - Falcon's Hunting Lodge
 ---
 # Falcon's Hunting Lodge

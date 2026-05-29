@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Nature Domain
+linter-yaml-title-alias: Spells for Nature Domain
 tags:
   - Zauber/list/subclass/nature-domain
 aliases:

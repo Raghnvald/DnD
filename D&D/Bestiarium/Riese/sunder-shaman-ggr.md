@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sunder Shaman
+linter-yaml-title-alias: Sunder Shaman
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10

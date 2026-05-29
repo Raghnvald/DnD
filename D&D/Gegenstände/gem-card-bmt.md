@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Gem Card
+linter-yaml-title-alias: Gem Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Gem Card
-linter-yaml-title-alias: Gem Card
 ---
 # Gem Card
 *Wondrous item, legendary*  

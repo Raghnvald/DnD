@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Treasures
+linter-yaml-title-alias: Treasures
 tags:
   - Quelle/5e/mot
 aliases:
   - "Treasures"
+  - Treasures
 ---
 # Treasures
 *Source: Mythic Odysseys of Theros, p. 195* 

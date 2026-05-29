@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Desert Encounters (Levels 17—20)
+linter-yaml-title-alias: Desert Encounters (Levels 17—20)
 tags:
   - Quelle/5e/xge
 aliases:

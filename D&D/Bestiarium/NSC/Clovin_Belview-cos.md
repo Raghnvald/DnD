@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clovin Belview
+linter-yaml-title-alias: Clovin Belview
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Clovin Belview
-linter-yaml-title-alias: Clovin Belview
 ---
 # Clovin Belview
 *Source: Curse of Strahd p. 147*  

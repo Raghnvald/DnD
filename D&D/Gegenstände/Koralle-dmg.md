@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Koralle
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Koralle
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Coral
-linter-yaml-title-alias: Coral
+  - Koralle
 ---
 # Koralle
 *Schatz (Edelstein)*  

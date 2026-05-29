@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spellcasting
+linter-yaml-title-alias: Spellcasting
 tags:
   - Quelle/5e/xge
 aliases:

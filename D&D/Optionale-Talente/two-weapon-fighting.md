@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Two-Weapon Fighting
+linter-yaml-title-alias: Two-Weapon Fighting
 tags:
   - Kompendium/Optionales/fs-b
   - Kompendium/Optionales/fs-f

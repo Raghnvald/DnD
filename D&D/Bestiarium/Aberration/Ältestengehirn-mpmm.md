@@ -7,7 +7,9 @@ Größe: Groß
 HG: 14
 Habitat:
   - Unterreich
+Image: token/elder-brain-mpmm.webp
 status: WIP
+linter-yaml-title-alias: Ältestengehirn
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -15,6 +17,7 @@ tags:
   - Monster/Typ/Aberration/Gedankenschinder
   - Quelle/5e/mpmm
 aliases:
+  - Ältestengehirn
   - Elder Brain
 ---
 # Ältestengehirn

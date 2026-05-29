@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Platin
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 500 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Platin
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Platinum
-linter-yaml-title-alias: Platinum
+  - Platin
 ---
 # Platin
 *Handelsgut*  

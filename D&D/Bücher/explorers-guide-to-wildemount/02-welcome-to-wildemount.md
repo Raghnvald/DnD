@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Wildemount
+linter-yaml-title-alias: Welcome to Wildemount
 tags:
   - Quelle/5e/egw
 aliases:

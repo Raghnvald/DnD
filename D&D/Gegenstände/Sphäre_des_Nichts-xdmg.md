@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Sphere of Annihilation
+linter-yaml-title-alias: Sphere of Annihilation
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Sphere of Annihilation
-linter-yaml-title-alias: Sphere of Annihilation
 ---
 # Sphere of Annihilation
 *Wondrous item, legendary*  

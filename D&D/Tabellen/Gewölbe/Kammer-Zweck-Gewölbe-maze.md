@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Maze"
+linter-yaml-title-alias: "Chamber Purpose; Dungeon: Maze"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Chamber Purpose; Dungeon: Maze"
   - Chamber Purpose; Dungeon: Maze
 ---
 # Chamber Purpose; Dungeon: Maze

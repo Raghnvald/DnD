@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Freundlich [Gesinnung]
+linter-yaml-title-alias: Freundlich [Gesinnung]
 tags:
   - Quelle/5e/xphb
 aliases:
+  - Freundlich [Gesinnung]
   - Friendly [Attitude]
 ---
 # Freundlich [Gesinnung]

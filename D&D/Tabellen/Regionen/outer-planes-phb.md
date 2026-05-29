@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Outer Planes
+linter-yaml-title-alias: Outer Planes
 tags:
   - Quelle/5e/phb
 aliases:

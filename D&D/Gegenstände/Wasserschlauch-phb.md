@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Wasserschlauch
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 SM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Wasserschlauch
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Waterskin
-linter-yaml-title-alias: Waterskin
+  - Wasserschlauch
 ---
 # Wasserschlauch
 *Abenteuerausrüstung*  

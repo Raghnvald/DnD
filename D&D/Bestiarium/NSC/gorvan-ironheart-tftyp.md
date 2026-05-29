@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorvan Ironheart
+linter-yaml-title-alias: Gorvan Ironheart
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Gorvan Ironheart
-linter-yaml-title-alias: Gorvan Ironheart
 ---
 # [Gorvan Ironheart](3-Mechanics\CLI\bestiary\npc/gorvan-ironheart-tftyp.md)
 *Source: Tales from the Yawning Portal p. 151*  

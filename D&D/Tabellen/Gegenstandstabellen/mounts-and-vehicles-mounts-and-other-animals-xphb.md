@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mounts and Vehicles; Mounts and Other Animals
+linter-yaml-title-alias: Mounts and Vehicles; Mounts and Other Animals
 tags:
   - Quelle/5e/xphb
 aliases:

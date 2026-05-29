@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Conjure Woodland Beings
 Zaubergrad: 4
+linter-yaml-title-alias: Conjure Woodland Beings
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Ranger
 aliases:
   - Conjure Woodland Beings
-linter-yaml-title-alias: Conjure Woodland Beings
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  

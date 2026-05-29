@@ -2,12 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wererat
+linter-yaml-title-alias: Wererat
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
   - Monster/Habitat/Wald
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/mm
 aliases:

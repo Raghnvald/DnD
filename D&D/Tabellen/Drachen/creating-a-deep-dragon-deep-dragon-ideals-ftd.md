@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Deep Dragon; Deep Dragon Ideals
+linter-yaml-title-alias: Creating a Deep Dragon; Deep Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

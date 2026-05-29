@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Dumathoin
+linter-yaml-title-alias: Blessing of Dumathoin
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/pabtso

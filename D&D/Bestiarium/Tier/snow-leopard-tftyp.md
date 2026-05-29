@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snow Leopard
+linter-yaml-title-alias: Snow Leopard
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1

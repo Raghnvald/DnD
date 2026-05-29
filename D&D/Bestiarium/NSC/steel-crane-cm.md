@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Steel Crane
+linter-yaml-title-alias: Steel Crane
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cm
 aliases:
   - Steel Crane
-linter-yaml-title-alias: Steel Crane
 ---
 # [Steel Crane](3-Mechanics\CLI\bestiary\npc/steel-crane-cm.md)
 *Source: Candlekeep Mysteries p. 164*  

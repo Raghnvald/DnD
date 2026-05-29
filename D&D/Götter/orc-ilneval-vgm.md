@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ilneval
+linter-yaml-title-alias: Ilneval
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/orc

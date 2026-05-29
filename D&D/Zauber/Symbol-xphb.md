@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Symbol
+linter-yaml-title-alias: Symbol
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -10,16 +18,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Symbol
-linter-yaml-title-alias: Symbol
 ---
 # Symbol
 *7th-level, Abjuration*  

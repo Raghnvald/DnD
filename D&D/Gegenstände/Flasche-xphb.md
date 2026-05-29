@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Glass Bottle
+linter-yaml-title-alias: Glass Bottle
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Glass Bottle
-linter-yaml-title-alias: Glass Bottle
 ---
 # Glass Bottle
 *Adventuring gear*  

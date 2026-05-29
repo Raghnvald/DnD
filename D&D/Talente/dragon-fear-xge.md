@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Fear
+linter-yaml-title-alias: Dragon Fear
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

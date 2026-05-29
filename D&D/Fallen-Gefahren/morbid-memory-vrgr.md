@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morbid Memory
+linter-yaml-title-alias: Morbid Memory
 tags:
   - Kompendium/Bedrohung/haunt
   - Quelle/5e/vrgr

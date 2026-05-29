@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rank, Status, and Title
+linter-yaml-title-alias: Rank, Status, and Title
 tags:
   - Quelle/5e/vgm
 aliases:

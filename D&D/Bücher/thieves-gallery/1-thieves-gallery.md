@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Thieves' Gallery"
+linter-yaml-title-alias: "Thieves' Gallery"
 tags:
   - Quelle/5e/hat-tg
 aliases:

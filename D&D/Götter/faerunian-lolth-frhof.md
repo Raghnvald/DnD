@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lolth
+linter-yaml-title-alias: Lolth
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Lolth"
   - "Queen of Spiders"
   - "Queen of the Demonweb Pits"
+  - Lolth
 ---
 # Lolth
 *Source: Forgotten Realms: Heroes of Faerûn p. 113* 

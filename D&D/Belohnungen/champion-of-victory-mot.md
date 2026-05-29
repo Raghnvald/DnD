@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of Victory
+linter-yaml-title-alias: Champion of Victory
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of Victory"
+  - Champion of Victory
 ---
 # Champion of Victory
 *Piety Trait*  

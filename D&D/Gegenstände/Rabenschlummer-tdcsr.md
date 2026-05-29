@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Raven's Slumber"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Raven's Slumber"
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
-  - Raven's Slumber
-linter-yaml-title-alias: Raven's Slumber
+  - "Raven's Slumber"
 ---
 # Raven's Slumber
 *Wondrous item, very rare*  

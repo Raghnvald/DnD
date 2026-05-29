@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Kapitel 2: Die drei Magier"
+linter-yaml-title-alias: "Kapitel 2: Die drei Magier"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Kapitel 2: Die drei Magier"
   - Chapter 2: The Wizards Three
 ---
 # Kapitel 2: Die drei Magier
@@ -87,7 +89,7 @@ Planare Magie funktioniert in Sigil anders. Zum Beispiel kann man Sigil nur durc
 
 ![Lady Alustriel Silberhand](Vecna-Vorabend_der_Verdammnis/img/027-02-001-lady-alustriel-silverhand.webp#center)
 
-- **Beschwörung.** Zauber, magische Gegenstände und Effekte, die Kreaturen oder Gegenstände von anderen Ebenen beschwören, beispielsweise ein [[Ring_der_Dschinni-Beschwörung-dmg|Ring der Dschinni-Beschwörung]], beschwören stattdessen Ziele aus Sigil, sofern möglich. Anderenfalls scheitern sie. Effekte, die ein bestimmtes Ziel von außerhalb von Sigil beschwören, etwa die Zauber [[Drawmijs_Sofortige_Herbeizauberung-phb|Drawmijs sofortige Herbei]] und [[Leomunds geheime Truhe]], scheitern automatisch . 
+- **Beschwörung.** Zauber, magische Gegenstände und Effekte, die Kreaturen oder Gegenstände von anderen Ebenen beschwören, beispielsweise ein [[Ring_der_Djinni-Beschwörung-dmg|Ring der Dschinni-Beschwörung]], beschwören stattdessen Ziele aus Sigil, sofern möglich. Anderenfalls scheitern sie. Effekte, die ein bestimmtes Ziel von außerhalb von Sigil beschwören, etwa die Zauber [[Drawmijs_Sofortige_Herbeizauberung-phb|Drawmijs sofortige Herbei]] und [[Leomunds geheime Truhe]], scheitern automatisch . 
 - **Ebenenreisen.** Effekte, die Ebenenreisen ermöglichen, wie die Zauber [[Astrale_Projektion-phb|Astrale Projektion]] und [[Ebenenwechsel-phb|Ebenenwechsel]], scheitern, wenn sie eingesetzt werden, um Sigil zu erreichen oder zu verlassen. Es gibt nur eine Ausnahme (siehe „Kreise der Teleportation" unten).
 - **Extradimensionaler Raum.** Extradimensionale Räume, Halbebenen und Taschendimensionen wie die durch einen [[Nimmervoller_Beutel-dmg|Nimmervollen Beutel]] oder den Zauber [[Seiltrick-phb|Seiltrick]] funktionieren in Sigil, doch die Räume unterliegen diesen Einschränkungen, als wären sie Teil der Stadt. 
 - **Kreise der Teleportation.** Es gibt in Sigil dauerhafte Kreise der Teleportation, doch es können keine neuen geschaffen werden. Wenn die Fürstin der Schmerzen es gestattet, können die vorhandenen Kreise verwendet werden, um mit dem Zauber [[Ebenenwechsel-phb|Ebenenwechsel]] in die Stadt zu gelangen, aber nicht, um die Stadt zu verlassen.

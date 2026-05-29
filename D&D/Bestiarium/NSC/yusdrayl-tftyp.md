@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yusdrayl
+linter-yaml-title-alias: Yusdrayl
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Yusdrayl
-linter-yaml-title-alias: Yusdrayl
 ---
 # [Yusdrayl](3-Mechanics\CLI\bestiary\npc/yusdrayl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 248*  

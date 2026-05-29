@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nevermind Gnome Inventor
+linter-yaml-title-alias: Nevermind Gnome Inventor
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Green Copper Ewer
+linter-yaml-title-alias: Green Copper Ewer
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/cos
 aliases:
   - Green Copper Ewer
-linter-yaml-title-alias: Green Copper Ewer
 ---
 # Green Copper Ewer
 

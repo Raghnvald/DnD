@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Erebos
+linter-yaml-title-alias: Erebos
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/trickery
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Erebos"
+  - Erebos
 ---
 # Erebos
 *Source: Mythic Odysseys of Theros p. 43* 

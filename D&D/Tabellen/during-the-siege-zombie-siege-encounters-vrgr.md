@@ -1,5 +1,6 @@
 ---
 Bezeichnung: During the Siege; Zombie Siege Encounters
+linter-yaml-title-alias: During the Siege; Zombie Siege Encounters
 tags:
   - Quelle/5e/vrgr
 aliases:

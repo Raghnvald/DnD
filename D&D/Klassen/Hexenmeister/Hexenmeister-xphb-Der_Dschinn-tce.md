@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Genie
+linter-yaml-title-alias: The Genie
 tags:
   - Klasse/Hexenmeister/genie
   - Quelle/5e/tce

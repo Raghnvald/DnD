@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Plainscow
+Kst.: 200 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Plainscow
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/tdcsr
 aliases:
   - Plainscow
-linter-yaml-title-alias: Plainscow
 ---
 # Plainscow
 *Mount*  

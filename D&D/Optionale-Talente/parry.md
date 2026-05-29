@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parry
+linter-yaml-title-alias: Parry
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

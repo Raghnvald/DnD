@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Holy Symbol of Ravenkind
+linter-yaml-title-alias: Holy Symbol of Ravenkind
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/cos
 aliases:
   - Holy Symbol of Ravenkind
-linter-yaml-title-alias: Holy Symbol of Ravenkind
 ---
 # Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  

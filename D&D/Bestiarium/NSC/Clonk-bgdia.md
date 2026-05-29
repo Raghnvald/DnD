@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clonk
+linter-yaml-title-alias: Clonk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Clonk
-linter-yaml-title-alias: Clonk
 ---
 # Clonk
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  

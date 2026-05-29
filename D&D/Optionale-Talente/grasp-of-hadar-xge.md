@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grasp of Hadar
+linter-yaml-title-alias: Grasp of Hadar
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

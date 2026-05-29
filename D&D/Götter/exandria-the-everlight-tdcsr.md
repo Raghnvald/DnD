@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Everlight
+linter-yaml-title-alias: The Everlight
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

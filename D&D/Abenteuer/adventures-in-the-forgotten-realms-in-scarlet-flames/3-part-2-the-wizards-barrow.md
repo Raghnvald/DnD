@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 2: The Wizard's Barrow"
+linter-yaml-title-alias: "Part 2: The Wizard's Barrow"
 tags:
   - Quelle/5e/aitfr-isf
 aliases:

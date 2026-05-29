@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Current Chamber State
+linter-yaml-title-alias: Current Chamber State
 tags:
   - Quelle/5e/dmg
 aliases:

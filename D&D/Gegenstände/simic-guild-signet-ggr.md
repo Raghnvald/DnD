@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Simic Guild Signet
-Kategorie: Ring 
+Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Simic Guild Signet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,11 +14,10 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Simic Guild Signet
-linter-yaml-title-alias: Simic Guild Signet
 ---
 # Simic Guild Signet
 *Ring, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/simic-guild-signet.webp#right)
+![](img/simic-guild-signet.webp#right)
 
 This ring, adorned with the symbol of Simic, allows you to cast expeditious retreat. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Simic's recognition and favor.
 

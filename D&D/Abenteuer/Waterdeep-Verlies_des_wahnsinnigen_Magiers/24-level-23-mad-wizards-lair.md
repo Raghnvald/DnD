@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 23: Mad Wizard's Lair"
+linter-yaml-title-alias: "Level 23: Mad Wizard's Lair"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 23: Mad Wizard's Lair"
   - Level 23: Mad Wizard's Lair
 ---
 # Level 23: Mad Wizard's Lair

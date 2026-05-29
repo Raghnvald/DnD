@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Automatic Success
+linter-yaml-title-alias: Automatic Success
 tags:
   - Quelle/5e/dmg
 aliases:

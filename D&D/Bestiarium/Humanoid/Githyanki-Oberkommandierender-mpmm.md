@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Supreme Commander
+linter-yaml-title-alias: Githyanki Supreme Commander
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

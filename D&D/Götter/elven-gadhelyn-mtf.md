@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gadhelyn
+linter-yaml-title-alias: Gadhelyn
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery

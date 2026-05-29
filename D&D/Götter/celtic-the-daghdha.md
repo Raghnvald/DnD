@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Daghdha
+linter-yaml-title-alias: The Daghdha
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/nature

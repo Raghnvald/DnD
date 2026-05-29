@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Creator; NPC Alignment
+linter-yaml-title-alias: Dungeon Creator; NPC Alignment
 tags:
   - Quelle/5e/dmg
 aliases:

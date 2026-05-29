@@ -2,20 +2,22 @@
 Bezeichnung: Gewand des Todeswandlers
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: /
+Eigenschaften:
+  - /
+Einstimmung:
 Kst.: /
 Gew.: 6,5 kg
 RK: 12 + GES
 STR: /
 Heiml.: Nachteil
+linter-yaml-title-alias: Gewand des Todeswandlers
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - Deathwalker's Ward
-linter-yaml-title-alias: Deathwalker's Ward
+  - Gewand des Todeswandlers
 ---
 # Gewand des Todeswandlers
 *Leichte Rüstung ([[Beschlagene_Lederrüstung-phb|studded leather armor]]), Legendär (benötigt Einstimmung)*  

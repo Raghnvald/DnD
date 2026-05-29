@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Raei
+linter-yaml-title-alias: Raei
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

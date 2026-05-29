@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Finger of Death
 Zaubergrad: 7
+linter-yaml-title-alias: Finger of Death
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Finger of Death
-linter-yaml-title-alias: Finger of Death
 ---
 # Finger of Death
 *7th-level, Necromancy*  

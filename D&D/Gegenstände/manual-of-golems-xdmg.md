@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Golems
+linter-yaml-title-alias: Manual of Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Golems
-linter-yaml-title-alias: Manual of Golems
 ---
 # Manual of Golems
 *Wondrous item, very rare*  

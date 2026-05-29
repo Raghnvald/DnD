@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone
-linter-yaml-title-alias: Ioun Stone
 ---
 # Ioun Stone
 *Wondrous item (requires attunement)*  

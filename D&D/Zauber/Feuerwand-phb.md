@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Wall of Fire
 Zaubergrad: 4
+linter-yaml-title-alias: Wall of Fire
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Light Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fiend)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,18 +24,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/river-of-hungry-flame
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Light Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fiend)
-  - Wizard
 aliases:
   - Wall of Fire
-linter-yaml-title-alias: Wall of Fire
 ---
 # Wall of Fire
 *4th-level, Evocation*  

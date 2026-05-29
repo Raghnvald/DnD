@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Werevulture
+linter-yaml-title-alias: Werevulture
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

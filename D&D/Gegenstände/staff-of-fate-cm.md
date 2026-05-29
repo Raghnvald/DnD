@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Staff of Fate
+Eigenschaften:
+  - erfordert Einstimmung
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Staff of Fate
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +14,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Staff of Fate
-linter-yaml-title-alias: Staff of Fate
 ---
 # Staff of Fate
 *Staff, weapon (quarterstaff), very rare (requires attunement)*  

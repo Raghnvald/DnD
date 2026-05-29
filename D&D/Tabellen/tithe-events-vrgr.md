@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tithe Events
+linter-yaml-title-alias: Tithe Events
 tags:
   - Quelle/5e/vrgr
 aliases:

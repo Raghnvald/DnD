@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xvart
+linter-yaml-title-alias: Xvart
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Hügel

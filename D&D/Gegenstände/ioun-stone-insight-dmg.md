@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Insight
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Insight
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Insight
-linter-yaml-title-alias: Ioun Stone, Insight
 ---
 # Ioun Stone, Insight
 *Wondrous item, major, very rare (requires attunement)*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jenks
+linter-yaml-title-alias: Jenks
 tags:
   - Monster/Größe/Klein
   - Monster/HG/
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Jenks
-linter-yaml-title-alias: Jenks
 ---
 # [Jenks](3-Mechanics\CLI\bestiary\npc/jenks-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  

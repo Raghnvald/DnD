@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Divinely Favored
+linter-yaml-title-alias: Divinely Favored
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
   - "Divinely Favored"
+  - Divinely Favored
 ---
 # Divinely Favored
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Passages; Passage Width
+linter-yaml-title-alias: Passages; Passage Width
 tags:
   - Quelle/5e/dmg
 aliases:

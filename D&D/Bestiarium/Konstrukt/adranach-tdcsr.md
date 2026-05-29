@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/adranach-tdcsr.webp
 status: WIP
+linter-yaml-title-alias: Adranach
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/12

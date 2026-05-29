@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Hometowns
+linter-yaml-title-alias: Hometowns
 tags:
   - Quelle/5e/mabjov
 aliases:
   - "Hometowns"
+  - Hometowns
 ---
 # Hometowns
 *Source: Minsc and Boo's Journal of Villainy, p. 8* 

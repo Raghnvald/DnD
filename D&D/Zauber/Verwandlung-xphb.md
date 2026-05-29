@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Polymorph
+linter-yaml-title-alias: Polymorph
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of the Land, Tropical Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -12,17 +21,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/sculptor-of-flesh
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Druid (Circle of the Land, Tropical Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Polymorph
-linter-yaml-title-alias: Polymorph
 ---
 # Polymorph
 *4th-level, Transmutation*  

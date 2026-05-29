@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Roter Zirkon
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Roter Zirkon
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Jacinth
-linter-yaml-title-alias: Jacinth
+  - Roter Zirkon
 ---
 # Roter Zirkon
 *Schatz (Edelstein)*  

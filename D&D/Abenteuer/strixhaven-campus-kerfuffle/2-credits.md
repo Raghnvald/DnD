@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/scc-ck
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Strixhaven: Campus Kerfuffle* 

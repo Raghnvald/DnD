@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Frost Fingers
 Zaubergrad: 1
+linter-yaml-title-alias: Frost Fingers
 tags:
   - Quelle/5e/idrotf
   - Zauber/Grad/1

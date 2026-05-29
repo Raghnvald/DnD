@@ -1,14 +1,17 @@
 ---
 Bezeichnung: Faltboot
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 60 GM
 Gew.: 20,0 kg
+linter-yaml-title-alias: Faltboot
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Faltboot
   - Folding Boat
 ---
 # Faltboot

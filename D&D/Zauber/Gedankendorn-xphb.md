@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Mind Spike
+linter-yaml-title-alias: Mind Spike
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,18 +22,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Mind Spike
-linter-yaml-title-alias: Mind Spike
 ---
 # Mind Spike
 *2nd-level, Divination*  

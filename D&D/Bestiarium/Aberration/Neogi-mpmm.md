@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Winzig
 HG: 3
 status: WIP
+linter-yaml-title-alias: Neogi
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Hügel

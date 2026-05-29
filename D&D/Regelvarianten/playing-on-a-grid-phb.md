@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Playing on a Grid
+linter-yaml-title-alias: Playing on a Grid
 tags:
   - Quelle/5e/phb
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orcs of the Shadow Marches; Leaving the Shadow Marches
+linter-yaml-title-alias: Orcs of the Shadow Marches; Leaving the Shadow Marches
 tags:
   - Quelle/5e/erlw
 aliases:

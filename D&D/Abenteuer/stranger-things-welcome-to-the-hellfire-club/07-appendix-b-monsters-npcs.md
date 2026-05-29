@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Appendix B - Monsters & NPCs
+linter-yaml-title-alias: Appendix B - Monsters & NPCs
 tags:
   - Quelle/5e/wtthc
 aliases:
   - "Appendix B - Monsters & NPCs"
+  - Appendix B - Monsters & NPCs
 ---
 # Appendix B - Monsters & NPCs
 *Source: Stranger Things: Welcome to the Hellfire Club* 

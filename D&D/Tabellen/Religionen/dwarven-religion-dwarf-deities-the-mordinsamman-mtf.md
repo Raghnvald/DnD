@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarven Religion; Dwarf Deities (The Mordinsamman)
+linter-yaml-title-alias: Dwarven Religion; Dwarf Deities (The Mordinsamman)
 tags:
   - Quelle/5e/mtf
 aliases:

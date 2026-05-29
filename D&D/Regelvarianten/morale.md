@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morale
+linter-yaml-title-alias: Morale
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Hunter's Mark"
+classes:
+  - Bard (Magical Secrets)
+  - Paladin (Oath of Vengeance)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Paladin/oath-of-vengeance
@@ -14,13 +19,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Paladin (Oath of Vengeance)
-  - Ranger
 aliases:
-  - Hunter's Mark
-linter-yaml-title-alias: Hunter's Mark
+  - "Hunter's Mark"
 ---
 # Hunter's Mark
 *1st-level, Divination*  

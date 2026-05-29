@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Helga Ruvak
+linter-yaml-title-alias: Helga Ruvak
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Helga Ruvak
-linter-yaml-title-alias: Helga Ruvak
 ---
 # [Helga Ruvak](3-Mechanics\CLI\bestiary\npc/helga-ruvak-cos.md)
 *Source: Curse of Strahd p. 64*  

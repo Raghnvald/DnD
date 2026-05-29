@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Acid Resistance
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Acid Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Acid Resistance
-linter-yaml-title-alias: Potion of Acid Resistance
 ---
 # Potion of Acid Resistance
 *Potion, minor, uncommon*  

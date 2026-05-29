@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow of the Sun
+linter-yaml-title-alias: Shadow of the Sun
 tags:
   - Quelle/5e/jttrc
 aliases:

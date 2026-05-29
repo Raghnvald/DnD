@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Pudding
+linter-yaml-title-alias: Black Pudding
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

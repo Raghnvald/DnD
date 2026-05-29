@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wheel of Wind and Water
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wheel of Wind and Water
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Wheel of Wind and Water
-linter-yaml-title-alias: Wheel of Wind and Water
 ---
 # Wheel of Wind and Water
 *Wondrous item, uncommon*  

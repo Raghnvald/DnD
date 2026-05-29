@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Silber
 Kategorie: Handelsware
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 0,5 kg
+linter-yaml-title-alias: Silber
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Silber
   - Silver
-linter-yaml-title-alias: Silber
 ---
 # Silber
 *Handelsware*

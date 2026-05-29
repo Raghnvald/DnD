@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Basiseinrichtungen erweitern
 Kategorie: Bastion
+linter-yaml-title-alias: Basiseinrichtungen erweitern
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - Basiseinrichtungen erweitern
   - Enlarging Basic Facilities
 ---
 # Basiseinrichtungen erweitern

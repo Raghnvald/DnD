@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Donjon
+linter-yaml-title-alias: Charm of the Donjon
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

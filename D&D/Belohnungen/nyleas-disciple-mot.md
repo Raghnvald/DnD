@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Nylea's Disciple"
+linter-yaml-title-alias: "Nylea's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

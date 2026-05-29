@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Ephara's Disciple"
+linter-yaml-title-alias: "Spells for Ephara's Disciple"
 tags:
   - ttrpg-cli/spell/list/reward/epharas-disciple
 aliases:

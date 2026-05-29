@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Marthammor Duin
+linter-yaml-title-alias: Marthammor Duin
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/scag
 aliases:
   - "Marthammor Duin"
+  - Marthammor Duin
 ---
 # Marthammor Duin
 *Source: Sword Coast Adventurer's Guide p. 22* 

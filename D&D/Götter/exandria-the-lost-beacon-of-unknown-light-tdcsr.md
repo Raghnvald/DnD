@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Lost Beacon of Unknown Light
+linter-yaml-title-alias: The Lost Beacon of Unknown Light
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

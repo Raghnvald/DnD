@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Phandalin
+linter-yaml-title-alias: Phandalin
+aliases:
+  - Phandalin
 archived: true
 ---
 

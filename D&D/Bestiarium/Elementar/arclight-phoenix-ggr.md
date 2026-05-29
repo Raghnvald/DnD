@@ -5,6 +5,7 @@ Bezeichnung: Arclight Phoenix
 Kategorie: Elementar
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Arclight Phoenix
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

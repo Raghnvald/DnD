@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Squire of Solamnia
+linter-yaml-title-alias: Squire of Solamnia
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
   - "Squire of Solamnia"
+  - Squire of Solamnia
 ---
 # Squire of Solamnia
 *Source: Dragonlance: Shadow of the Dragon Queen p. 34*  

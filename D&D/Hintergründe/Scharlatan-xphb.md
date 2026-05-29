@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charlatan
+linter-yaml-title-alias: Charlatan
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

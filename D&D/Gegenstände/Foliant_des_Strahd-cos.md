@@ -1,17 +1,22 @@
 ---
 Bezeichnung: Tome of Strahd
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: 0,25 kg
+status: WIP
+linter-yaml-title-alias: Tome of Strahd
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/cos
 aliases:
   - Tome of Strahd
-linter-yaml-title-alias: Tome of Strahd
 ---
 # Tome of Strahd
 *Adventuring gear*  
-![](/3-Mechanics/CLI/items/img/tome-of-strahd.webp#right)
+![](img/tome-of-strahd.webp#right)
 
 - **Weight**: 5.0 lbs.
 

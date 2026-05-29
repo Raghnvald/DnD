@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Eltern eines Tieflings
+linter-yaml-title-alias: Eltern eines Tieflings
 tags:
   - Quelle/5e/xge
 aliases:
+  - Eltern eines Tieflings
   - Tiefling Parents
 ---
 # Eltern eines Tieflings

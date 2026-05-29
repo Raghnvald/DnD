@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hidden Rune Adventures
+linter-yaml-title-alias: Hidden Rune Adventures
 tags:
   - Quelle/5e/bgg
 aliases:

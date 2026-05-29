@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Firbolg
+linter-yaml-title-alias: Spells for Firbolg
 tags:
   - Zauber/list/race/firbolg
 aliases:

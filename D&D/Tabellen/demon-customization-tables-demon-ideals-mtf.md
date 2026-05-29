@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Customization Tables; Demon Ideals
+linter-yaml-title-alias: Demon Customization Tables; Demon Ideals
 tags:
   - Quelle/5e/mtf
 aliases:

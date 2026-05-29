@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Shroud of Shadow
+linter-yaml-title-alias: Spells for Shroud of Shadow
 tags:
   - Zauber/list/optfeature/shroud-of-shadow
 aliases:

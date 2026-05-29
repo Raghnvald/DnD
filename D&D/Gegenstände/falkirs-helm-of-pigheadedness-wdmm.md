@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Falkir's Helm of Pigheadedness"
+linter-yaml-title-alias: "Falkir's Helm of Pigheadedness"
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/wdmm
 aliases:
-  - Falkir's Helm of Pigheadedness
-linter-yaml-title-alias: Falkir's Helm of Pigheadedness
+  - "Falkir's Helm of Pigheadedness"
 ---
 # Falkir's Helm of Pigheadedness
 *Other, cursed item*  

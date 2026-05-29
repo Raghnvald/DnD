@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Syrul
+linter-yaml-title-alias: Syrul
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

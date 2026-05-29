@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Soul of the Storm Giant
+linter-yaml-title-alias: Soul of the Storm Giant
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

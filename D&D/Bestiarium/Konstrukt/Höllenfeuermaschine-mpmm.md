@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hellfire Engine
+linter-yaml-title-alias: Hellfire Engine
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/16

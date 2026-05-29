@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bloodshed Blade
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+linter-yaml-title-alias: Bloodshed Blade
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -16,7 +17,6 @@ aliases:
   - Bloodshed Rapier
   - Bloodshed Scimitar
   - Bloodshed Shortsword
-linter-yaml-title-alias: Bloodshed Blade
 ---
 # Bloodshed Blade
 *Very rare (requires attunement)*  

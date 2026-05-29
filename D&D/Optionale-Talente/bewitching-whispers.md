@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bewitching Whispers
+linter-yaml-title-alias: Bewitching Whispers
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

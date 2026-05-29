@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya Items
+linter-yaml-title-alias: Selesnya Items
 tags:
   - Quelle/5e/ggr
 aliases:

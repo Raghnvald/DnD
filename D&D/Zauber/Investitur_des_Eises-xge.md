@@ -6,6 +6,13 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Investiture of Ice
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,15 +22,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Investiture of Ice
-linter-yaml-title-alias: Investiture of Ice
 ---
 # Investiture of Ice
 *6th-level, Transmutation*  

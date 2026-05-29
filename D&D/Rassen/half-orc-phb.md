@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Orc
+linter-yaml-title-alias: Half-Orc
 tags:
   - Quelle/5e/phb
   - Rasse/half-orc

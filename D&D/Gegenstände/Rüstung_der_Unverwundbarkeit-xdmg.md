@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Invulnerability
 Rüstung: Schwer
+linter-yaml-title-alias: Armor of Invulnerability
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Armor of Invulnerability
-linter-yaml-title-alias: Armor of Invulnerability
 ---
 # Armor of Invulnerability
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rahadin
+linter-yaml-title-alias: Rahadin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Rahadin
-linter-yaml-title-alias: Rahadin
 ---
 # [Rahadin](3-Mechanics\CLI\bestiary\npc/rahadin-cos.md)
 *Source: Curse of Strahd p. 237*  

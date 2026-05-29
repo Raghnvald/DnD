@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Alles in Ordnung
 Kategorie: Bastion
+linter-yaml-title-alias: Alles in Ordnung
 tags:
   - Quelle/5e/xdmg
 aliases:
   - All Is Well
+  - Alles in Ordnung
 ---
 # Alles in Ordnung
 *Quelle: Spielleiterhandbuch (2024), S. 350* 

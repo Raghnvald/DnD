@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sun Blade
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sun Blade
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sun Blade
-linter-yaml-title-alias: Sun Blade
 ---
 # Sun Blade
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, rare (requires attunement)*  

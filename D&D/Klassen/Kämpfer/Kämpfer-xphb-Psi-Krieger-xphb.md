@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Psi Warrior
+linter-yaml-title-alias: Psi Warrior
 tags:
   - Klasse/Kämpfer/psi-warrior
   - Quelle/5e/xphb
 aliases:
   - Psi Warrior
-linter-yaml-title-alias: Psi Warrior
 ---
 # Psi Warrior
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

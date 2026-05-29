@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hag Names
+linter-yaml-title-alias: Hag Names
 tags:
   - Quelle/5e/vgm
 aliases:

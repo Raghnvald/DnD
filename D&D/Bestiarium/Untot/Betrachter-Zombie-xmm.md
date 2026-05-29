@@ -9,6 +9,7 @@ Habitat:
   - Planar (Schattensaum)
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Beholder Zombie
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/planar
@@ -20,7 +21,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Beholder Zombie
-linter-yaml-title-alias: Beholder Zombie
 ---
 # [Beholder Zombie](3-Mechanics\CLI\bestiary\undead/beholder-zombie-xmm.md)
 *Source: Monster Manual (2024) p. 347*  

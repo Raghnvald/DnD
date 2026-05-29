@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Javelin
+linter-yaml-title-alias: Javelin
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Javelin
-linter-yaml-title-alias: Javelin
 ---
 # Javelin
 *Weapon*  

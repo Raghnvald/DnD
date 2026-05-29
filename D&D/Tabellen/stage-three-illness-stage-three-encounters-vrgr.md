@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Stage Three: Illness; Stage Three Encounters"
+linter-yaml-title-alias: "Stage Three: Illness; Stage Three Encounters"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Stage Three: Illness; Stage Three Encounters"
   - Stage Three: Illness; Stage Three Encounters
 ---
 # Stage Three: Illness; Stage Three Encounters

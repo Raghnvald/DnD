@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grenl
+linter-yaml-title-alias: Grenl
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Grenl
-linter-yaml-title-alias: Grenl
 ---
 # [Grenl](3-Mechanics\CLI\bestiary\npc/grenl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  

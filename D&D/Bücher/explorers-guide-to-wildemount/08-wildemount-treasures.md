@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wildemount Treasures
+linter-yaml-title-alias: Wildemount Treasures
 tags:
   - Quelle/5e/egw
 aliases:

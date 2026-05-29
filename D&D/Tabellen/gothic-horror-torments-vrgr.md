@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Torments
+linter-yaml-title-alias: Gothic Horror Torments
 tags:
   - Quelle/5e/vrgr
 aliases:

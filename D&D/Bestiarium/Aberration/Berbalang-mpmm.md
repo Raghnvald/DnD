@@ -8,6 +8,7 @@ HG: 2
 Habitat:
   - Wüste
 status: WIP
+linter-yaml-title-alias: Berbalang
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wüste

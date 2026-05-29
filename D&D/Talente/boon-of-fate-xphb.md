@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Fate
+linter-yaml-title-alias: Boon of Fate
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

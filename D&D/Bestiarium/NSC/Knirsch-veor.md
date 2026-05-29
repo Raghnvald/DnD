@@ -5,9 +5,11 @@ Bezeichnung: Crunch
 Kategorie: Konstrukt (Kriegsgeschmiedet)
 Größe: Mittelgroß
 HG: 7
-Habitat: /
+Habitat:
+  - /
 image: token/crunch-veor.webp
 status: WIP
+linter-yaml-title-alias: Crunch
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Crunch
-linter-yaml-title-alias: Crunch
 ---
 # Crunch
 *Source: Vecna: Eve of Ruin*  

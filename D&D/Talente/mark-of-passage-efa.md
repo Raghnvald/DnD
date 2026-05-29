@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Passage
+linter-yaml-title-alias: Mark of Passage
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Passage"
+  - Mark of Passage
 ---
 # Mark of Passage
 *Source: Eberron: Forge of the Artificer p. 41*  

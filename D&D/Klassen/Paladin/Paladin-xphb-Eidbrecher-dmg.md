@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oathbreaker
+linter-yaml-title-alias: Oathbreaker
 tags:
   - Klasse/Paladin/Eidbrecher
   - Quelle/5e/dmg

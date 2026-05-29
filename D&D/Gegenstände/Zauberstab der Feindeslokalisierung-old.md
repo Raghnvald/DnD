@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab der Feindeslokalisierung
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung
+Eigenschaften:
+  - erfordert Einstimmung
 Kst.: 4.000 GM
 Gew.: 0,5 kg
 image: wand-of-enemy-detection.webp
+linter-yaml-title-alias: Zauberstab der Feindeslokalisierung
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Enemy Detection
+  - Zauberstab der Feindeslokalisierung
 ---
 # Zauberstab der Feindeslokalisierung
 _Zauberstab, selten (erfordert Einstimmung)_

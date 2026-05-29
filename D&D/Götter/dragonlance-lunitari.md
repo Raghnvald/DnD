@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Lunitari
+linter-yaml-title-alias: Lunitari
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Lunitari"
+  - Lunitari
 ---
 # Lunitari
 *Source: Dragonlance: Shadow of the Dragon Queen p. 16* 

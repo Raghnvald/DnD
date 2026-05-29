@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Agelessness
+linter-yaml-title-alias: Charm of Agelessness
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bgdia

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keg Launcher
+linter-yaml-title-alias: Keg Launcher
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skadi
+linter-yaml-title-alias: Skadi
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/norse

@@ -7,6 +7,18 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Shield
+classes:
+  - Artificer (Artillerist)
+  - Artificer (Battle Smith)
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Hexblade)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -23,20 +35,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Artillerist)
-  - Artificer (Battle Smith)
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Hexblade)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Shield
-linter-yaml-title-alias: Shield
 ---
 # Shield
 *1st-level, Abjuration*  

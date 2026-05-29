@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Strength
+linter-yaml-title-alias: Ioun Stone, Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Strength
-linter-yaml-title-alias: Ioun Stone, Strength
 ---
 # Ioun Stone, Strength
 *Wondrous item, very rare (requires attunement)*  

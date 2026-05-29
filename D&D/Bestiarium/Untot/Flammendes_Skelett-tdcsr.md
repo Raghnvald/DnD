@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flaming Skeleton
+linter-yaml-title-alias: Flaming Skeleton
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Flaming Skeleton
-linter-yaml-title-alias: Flaming Skeleton
 ---
 # [Flaming Skeleton](3-Mechanics\CLI\bestiary\undead/flaming-skeleton-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 256*  

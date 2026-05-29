@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ink (1-ounce bottle)
+linter-yaml-title-alias: Ink (1-ounce bottle)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Ink (1-ounce bottle)
-linter-yaml-title-alias: Ink (1-ounce bottle)
 ---
 # Ink (1-ounce bottle)
 *Adventuring gear*  

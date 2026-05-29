@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spitting Mimic
+linter-yaml-title-alias: Spitting Mimic
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

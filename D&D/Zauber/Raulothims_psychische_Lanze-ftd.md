@@ -1,6 +1,14 @@
 ---
 Bezeichnung: "Raulothim's Psychic Lance"
 Zaubergrad: 4
+linter-yaml-title-alias: "Raulothim's Psychic Lance"
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Raulothim's Psychic Lance
-linter-yaml-title-alias: Raulothim's Psychic Lance
+  - "Raulothim's Psychic Lance"
 ---
 # Raulothim's Psychic Lance
 *4th-level, Enchantment*  

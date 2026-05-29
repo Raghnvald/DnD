@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Item Sale Complications
+linter-yaml-title-alias: Magic Item Sale Complications
 tags:
   - Quelle/5e/xge
 aliases:

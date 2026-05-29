@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Remove Curse
+linter-yaml-title-alias: Remove Curse
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,20 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Remove Curse
-linter-yaml-title-alias: Remove Curse
 ---
 # Remove Curse
 *3rd-level, Abjuration*  

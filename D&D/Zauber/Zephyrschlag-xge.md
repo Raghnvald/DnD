@@ -6,16 +6,16 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Zephyr Strike
+classes:
+  - Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xge
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
-classes:
-  - Ranger
 aliases:
   - Zephyr Strike
-linter-yaml-title-alias: Zephyr Strike
 ---
 # Zephyr Strike
 *1st-level, Transmutation*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Premade Characters
+linter-yaml-title-alias: Premade Characters
 tags:
   - Quelle/5e/scoee
 aliases:
   - "Premade Characters"
+  - Premade Characters
 ---
 # Premade Characters
 *Source: Scions of Elemental Evil* 

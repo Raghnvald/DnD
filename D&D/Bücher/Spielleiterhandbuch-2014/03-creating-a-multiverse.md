@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Multiverse
+linter-yaml-title-alias: Creating a Multiverse
 tags:
   - Quelle/5e/dmg
 aliases:

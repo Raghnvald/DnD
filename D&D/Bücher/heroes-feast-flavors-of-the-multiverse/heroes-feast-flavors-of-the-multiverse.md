@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Heroes Feast Flavors of the Multiverse
+linter-yaml-title-alias: Index of Heroes Feast Flavors of the Multiverse
+aliases:
+  - Index of Heroes Feast Flavors of the Multiverse
 ---
 # Index of Heroes Feast Flavors of the Multiverse
 

@@ -5,17 +5,18 @@ Bezeichnung: Malaina van Talstiv
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 8
-Habitat: /
+Habitat:
+  - /
 image: token/malaina-van-talstiv-veor.webp
 status: WIP
+linter-yaml-title-alias: Malaina van Talstiv
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/veor
 aliases:
   - Malaina van Talstiv
-linter-yaml-title-alias: Malaina van Talstiv
 ---
 # [Malaina van Talstiv](3-Mechanics\CLI\bestiary\npc/malaina-van-talstiv-veor.md)
 *Source: Vecna: Eve of Ruin*  

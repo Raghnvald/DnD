@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thanoi Hunter
+linter-yaml-title-alias: Thanoi Hunter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

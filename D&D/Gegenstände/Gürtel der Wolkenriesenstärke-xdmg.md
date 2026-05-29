@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Belt of Cloud Giant Strength
+linter-yaml-title-alias: Belt of Cloud Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Belt of Cloud Giant Strength
-linter-yaml-title-alias: Belt of Cloud Giant Strength
 ---
 # Belt of Cloud Giant Strength
 *Wondrous item, legendary (requires attunement)*  

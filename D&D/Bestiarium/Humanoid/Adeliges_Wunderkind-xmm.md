@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Noble Prodigy
 image: token/noble-prodigy-xmm.webp
+linter-yaml-title-alias: Noble Prodigy
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes

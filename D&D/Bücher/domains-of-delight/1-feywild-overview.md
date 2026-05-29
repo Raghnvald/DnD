@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Feywild Overview
+linter-yaml-title-alias: Feywild Overview
 tags:
   - Quelle/5e/dod
 aliases:
   - "Feywild Overview"
+  - Feywild Overview
 ---
 # Feywild Overview
 *Source: Domains of Delight, p. 3* 

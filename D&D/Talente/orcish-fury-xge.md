@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orcish Fury
+linter-yaml-title-alias: Orcish Fury
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

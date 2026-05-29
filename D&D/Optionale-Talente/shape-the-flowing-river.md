@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shape the Flowing River
+linter-yaml-title-alias: Shape the Flowing River
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

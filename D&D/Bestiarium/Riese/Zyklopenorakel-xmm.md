@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cyclops Oracle
+linter-yaml-title-alias: Cyclops Oracle
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg

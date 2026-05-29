@@ -2,19 +2,20 @@
 Bezeichnung: Plattenpanzer
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 750 GM
 Gew.: 20,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Plattenpanzer
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Half Plate Armor
-linter-yaml-title-alias: Half Plate Armor
+  - Plattenpanzer
 ---
 # Plattenpanzer
 *Rüstung (mittelschwer), gewöhnlich*  

@@ -6,18 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Create Homunculus
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xge
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Wizard
 aliases:
   - Create Homunculus
-linter-yaml-title-alias: Create Homunculus
 ---
 # Create Homunculus
 *6th-level, Transmutation*  

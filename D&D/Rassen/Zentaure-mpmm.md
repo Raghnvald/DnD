@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Centaur
+linter-yaml-title-alias: Centaur
 tags:
   - Quelle/5e/mpmm
   - Rasse/centaur

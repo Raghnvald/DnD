@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Studded Leather Armor of Acid Resistance +2
 Rüstung: Leicht
+linter-yaml-title-alias: Studded Leather Armor of Acid Resistance +2
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/tier/major
   - Quelle/5e/tdcsr
 aliases:
-  - +2 Studded Leather Armor of Acid Resistance
-linter-yaml-title-alias: +2 Studded Leather Armor of Acid Resistance
+  - Studded Leather Armor of Acid Resistance +2
 ---
 # Studded Leather Armor of Acid Resistance +2
 *Light armor, major (requires attunement)*  

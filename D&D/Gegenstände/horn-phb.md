@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Horn
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: 3 GM
+Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Horn
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Horn
-linter-yaml-title-alias: Horn
 ---
 # Horn
 *Instrument*  

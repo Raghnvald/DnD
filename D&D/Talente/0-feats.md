@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Feats
+linter-yaml-title-alias: Index of Feats
+aliases:
+  - Index of Feats
 ---
 # Index of Feats
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tecuziztecatl
+linter-yaml-title-alias: Tecuziztecatl
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Tecuziztecatl
-linter-yaml-title-alias: Tecuziztecatl
 ---
 # [Tecuziztecatl](3-Mechanics\CLI\bestiary\npc/tecuziztecatl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 245*  

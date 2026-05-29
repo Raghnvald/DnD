@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Songhorn
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Songhorn
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Songhorn
-linter-yaml-title-alias: Songhorn
 ---
 # Songhorn
 *Instrument*  

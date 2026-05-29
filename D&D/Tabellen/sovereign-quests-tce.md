@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Quests
+linter-yaml-title-alias: Sovereign Quests
 tags:
   - Quelle/5e/tce
 aliases:

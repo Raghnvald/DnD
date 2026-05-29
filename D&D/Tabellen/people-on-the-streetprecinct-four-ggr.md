@@ -1,5 +1,6 @@
 ---
 Bezeichnung: People on the Street—Precinct Four
+linter-yaml-title-alias: People on the Street—Precinct Four
 tags:
   - Quelle/5e/ggr
 aliases:

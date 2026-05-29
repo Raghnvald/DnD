@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Callarduran Smoothhands
+linter-yaml-title-alias: Callarduran Smoothhands
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/nature

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Custom Lineage
+linter-yaml-title-alias: Custom Lineage
 tags:
   - Quelle/5e/tce
   - Rasse/custom-lineage

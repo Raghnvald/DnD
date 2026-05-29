@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Swift Quiver
 Zaubergrad: 5
+linter-yaml-title-alias: Swift Quiver
+classes:
+  - Bard (Magical Secrets)
+  - Ranger
 tags:
   - Klasse/Barde/magical-secrets
   - Klasse/Waldläufer
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Ranger
 aliases:
   - Swift Quiver
 ---

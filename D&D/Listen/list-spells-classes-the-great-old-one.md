@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for The Great Old One
+linter-yaml-title-alias: Spells for The Great Old One
 tags:
   - Zauber/list/subclass/the-great-old-one
 aliases:

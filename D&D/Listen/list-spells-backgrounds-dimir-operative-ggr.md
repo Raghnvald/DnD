@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Dimir Operative
+linter-yaml-title-alias: Spells for Dimir Operative
 tags:
   - Zauber/list/background/dimir-operative
 aliases:

@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Animal Friendship
+linter-yaml-title-alias: Animal Friendship
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,15 +19,8 @@ tags:
   - Rasse/yuan-ti
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
 aliases:
   - Animal Friendship
-linter-yaml-title-alias: Animal Friendship
 ---
 # Animal Friendship
 *1st-level, Enchantment*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Fear
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Fear
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Fear
-linter-yaml-title-alias: Wand of Fear
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  

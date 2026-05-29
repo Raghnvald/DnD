@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Steinwand
 Zaubergrad: 5
+linter-yaml-title-alias: Steinwand
 tags:
   - Klasse/Druide
   - Klasse/Magier
@@ -9,6 +10,7 @@ tags:
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
 aliases:
+  - Steinwand
   - Wall of Stone
 ---
 # Steinwand

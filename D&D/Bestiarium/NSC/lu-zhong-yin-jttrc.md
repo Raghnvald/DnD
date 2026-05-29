@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lu Zhong Yin
+linter-yaml-title-alias: Lu Zhong Yin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Lu Zhong Yin
-linter-yaml-title-alias: Lu Zhong Yin
 ---
 # [Lu Zhong Yin](3-Mechanics\CLI\bestiary\npc/lu-zhong-yin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 189*  

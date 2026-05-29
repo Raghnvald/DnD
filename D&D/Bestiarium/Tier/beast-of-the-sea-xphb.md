@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beast of the Sea
+linter-yaml-title-alias: Beast of the Sea
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

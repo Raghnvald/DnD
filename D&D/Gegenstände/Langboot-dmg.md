@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Langboot
 Kategorie: Luft- und Wasserfahrzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Langboot
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Longship
+  - Langboot
 Bew.: 4,5 km/h
-linter-yaml-title-alias: Longship
 ---
 # Langboot
 *Schiff, Fahrzeug (Wasser)*  

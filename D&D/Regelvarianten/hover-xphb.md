@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hover
+linter-yaml-title-alias: Hover
 tags:
   - Quelle/5e/xphb
 aliases:

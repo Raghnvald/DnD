@@ -7,8 +7,6 @@ status:
 tags:
   - Klasse/Paladin
   - Quelle/5e/phb
-aliases:
-  - Paladin
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
 type:

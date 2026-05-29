@@ -2,18 +2,19 @@
 Bezeichnung: Wurfspeer
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Stich
-Eigenschaften: Wurfwaffe
+Eigenschaften:
+  - Wurfwaffe
 Einstimmung: /
 Kst.: 5 SM
 Gew.: 1,0 kg
+linter-yaml-title-alias: Wurfspeer
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Javelin
-linter-yaml-title-alias: Javelin
+  - Wurfspeer
 ---
 # Wurfspeer
 *Waffe*  

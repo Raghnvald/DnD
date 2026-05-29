@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fly Speed
+linter-yaml-title-alias: Fly Speed
 tags:
   - Quelle/5e/xphb
 aliases:

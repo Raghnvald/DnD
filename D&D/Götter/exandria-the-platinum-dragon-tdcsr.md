@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Platinum Dragon
+linter-yaml-title-alias: The Platinum Dragon
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/order

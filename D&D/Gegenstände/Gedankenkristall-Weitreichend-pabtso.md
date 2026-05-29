@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Crystal (Distant)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Mind Crystal (Distant)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal (Distant)
-linter-yaml-title-alias: Mind Crystal (Distant)
 ---
 # Mind Crystal (Distant)
 *Wondrous item, uncommon*  

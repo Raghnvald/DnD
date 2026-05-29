@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Einleitung
+linter-yaml-title-alias: Einleitung
 tags:
   - Quelle/5e/xge
 aliases:
+  - Einleitung
   - Introduction
 ---
 # Einleitung

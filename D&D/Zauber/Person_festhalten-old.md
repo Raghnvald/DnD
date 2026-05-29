@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Person festhalten
+linter-yaml-title-alias: Person festhalten
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -12,6 +13,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Hold Person
+  - Person festhalten
 ---
 # Person festhalten
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

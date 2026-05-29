@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vampire Familiar
+linter-yaml-title-alias: Vampire Familiar
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Stadt

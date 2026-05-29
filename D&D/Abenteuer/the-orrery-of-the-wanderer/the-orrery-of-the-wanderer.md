@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of The Orrery of the Wanderer
+linter-yaml-title-alias: Index of The Orrery of the Wanderer
+aliases:
+  - Index of The Orrery of the Wanderer
 ---
 # Index of The Orrery of the Wanderer
 

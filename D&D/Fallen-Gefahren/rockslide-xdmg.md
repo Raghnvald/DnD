@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rockslide
+linter-yaml-title-alias: Rockslide
 tags:
   - Quelle/5e/xdmg
 aliases:

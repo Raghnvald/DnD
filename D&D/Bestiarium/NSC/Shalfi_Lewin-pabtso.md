@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shalfi Lewin
+Image: token/shalfi-lewin-pabtso.webp
+linter-yaml-title-alias: Shalfi Lewin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Shalfi Lewin
-Image: token/shalfi-lewin-pabtso.webp
-linter-yaml-title-alias: Shalfi Lewin
 ---
 # Shalfi Lewin
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  

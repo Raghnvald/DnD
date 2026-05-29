@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wongo
+linter-yaml-title-alias: Wongo
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa

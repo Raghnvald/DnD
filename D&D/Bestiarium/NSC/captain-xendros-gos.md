@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Captain Xendros
+linter-yaml-title-alias: Captain Xendros
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Captain Xendros
-linter-yaml-title-alias: Captain Xendros
 ---
 # [Captain Xendros](3-Mechanics\CLI\bestiary\npc/captain-xendros-gos.md)
 *Source: Ghosts of Saltmarsh p. 14*  

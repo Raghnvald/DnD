@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Broom of Animated Attack
+linter-yaml-title-alias: Broom of Animated Attack
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Mysterious Secrets
+linter-yaml-title-alias: Backstory; Mysterious Secrets
 tags:
   - Quelle/5e/egw
 aliases:

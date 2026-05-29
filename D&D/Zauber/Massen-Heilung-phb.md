@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Mass Heal
 Zaubergrad: 9
+linter-yaml-title-alias: Mass Heal
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Mass Heal
-linter-yaml-title-alias: Mass Heal
 ---
 # Mass Heal
 *9th-level, Evocation*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Intelligent Black Pudding
+linter-yaml-title-alias: Intelligent Black Pudding
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4

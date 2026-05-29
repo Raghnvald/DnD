@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black King
+linter-yaml-title-alias: Black King
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Black King
-linter-yaml-title-alias: Black King
 ---
 # [Black King](3-Mechanics\CLI\bestiary\npc/black-king-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 92*  

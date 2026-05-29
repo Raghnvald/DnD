@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Champion
+linter-yaml-title-alias: Champion
 tags:
   - Klasse/Kämpfer/champion
   - Quelle/5e/phb
 aliases:
   - Champion
-linter-yaml-title-alias: Champion
 ---
 # Champion
 *[Fighter](Kämpfer-phb.md): Martial Archetype*  

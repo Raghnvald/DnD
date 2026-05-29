@@ -7,6 +7,14 @@ Komponenten: G, M
 Wirkungsdauer: K, <1 Minute
 Angriff: /
 Schaden: /
+linter-yaml-title-alias: Friends
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -20,16 +28,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Friends
-linter-yaml-title-alias: Friends
 ---
 # Friends
 *cantrip, Enchantment*  

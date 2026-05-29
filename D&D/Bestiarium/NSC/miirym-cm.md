@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Miirym
+linter-yaml-title-alias: Miirym
 tags:
   - Monster/Größe/Groß
   - Monster/HG/22
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Miirym
-linter-yaml-title-alias: Miirym
 ---
 # [Miirym](3-Mechanics\CLI\bestiary\npc/miirym-cm.md)
 *Source: Candlekeep Mysteries p. 16*  

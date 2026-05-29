@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beshaba
+linter-yaml-title-alias: Beshaba
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/forgotten-realms

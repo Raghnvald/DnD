@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghost Story Settings
+linter-yaml-title-alias: Ghost Story Settings
 tags:
   - Quelle/5e/vrgr
 aliases:

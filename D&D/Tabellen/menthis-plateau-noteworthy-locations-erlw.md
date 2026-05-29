@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Menthis Plateau: Noteworthy Locations"
+linter-yaml-title-alias: "Menthis Plateau: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Menthis Plateau: Noteworthy Locations"
   - Menthis Plateau: Noteworthy Locations
 ---
 # Menthis Plateau: Noteworthy Locations

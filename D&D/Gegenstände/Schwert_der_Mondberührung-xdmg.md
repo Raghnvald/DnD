@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Moon-Touched Sword
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+linter-yaml-title-alias: Moon-Touched Sword
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Kriegswaffe
@@ -15,7 +16,6 @@ aliases:
   - Moon-Touched Scimitar
   - Moon-Touched Shortsword
   - Moon-Touched Sword
-linter-yaml-title-alias: Moon-Touched Sword
 ---
 # Moon-Touched Sword
 *Common*  

@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Mage Armor
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -20,17 +29,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/armor-of-shadows
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Mage Armor
-linter-yaml-title-alias: Mage Armor
 ---
 # Mage Armor
 *1st-level, Abjuration*  

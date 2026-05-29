@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Temporal Shunt
 Zaubergrad: 5
+linter-yaml-title-alias: Temporal Shunt
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/5

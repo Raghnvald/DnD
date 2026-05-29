@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mist Stance
+linter-yaml-title-alias: Mist Stance
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

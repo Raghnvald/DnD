@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Sapphire Dragon
+linter-yaml-title-alias: Young Sapphire Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Sapphire Dragon
-linter-yaml-title-alias: Young Sapphire Dragon
 ---
 # [Young Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/young-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 216*  

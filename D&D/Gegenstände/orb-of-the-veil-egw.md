@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Orb of the Veil
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Orb of the Veil
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Orb of the Veil
-linter-yaml-title-alias: Orb of the Veil
 ---
 # Orb of the Veil
 *Wondrous item, cursed item, very rare (requires attunement)*  

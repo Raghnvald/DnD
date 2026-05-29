@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cloak of the Bat
+linter-yaml-title-alias: Cloak of the Bat
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Cloak of the Bat
-linter-yaml-title-alias: Cloak of the Bat
 ---
 # Cloak of the Bat
 *Wondrous item, rare (requires attunement)*  

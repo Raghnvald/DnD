@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +1 Wand of the War Mage
 Kategorie: Zauberstab 
+linter-yaml-title-alias: +1 Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +1 Wand of the War Mage
-linter-yaml-title-alias: +1 Wand of the War Mage
 ---
 # +1 Wand of the War Mage
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

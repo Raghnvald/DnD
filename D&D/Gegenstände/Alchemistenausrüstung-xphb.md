@@ -1,12 +1,17 @@
 ---
 Bezeichnung: "Alchemist's Supplies"
+Eigenschaften:
+  - /
+Kst.: 50 GM
+Gew.: 4,0 kg
+status: WIP
+linter-yaml-title-alias: "Alchemist's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Alchemist's Supplies
-linter-yaml-title-alias: Alchemist's Supplies
+  - "Alchemist's Supplies"
 ---
 # Alchemist's Supplies
 *Artisan's tools*  

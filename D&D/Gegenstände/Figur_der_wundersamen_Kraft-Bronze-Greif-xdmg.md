@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Bronze Griffon
+linter-yaml-title-alias: Figurine of Wondrous Power, Bronze Griffon
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Figurine of Wondrous Power, Bronze Griffon
-linter-yaml-title-alias: Figurine of Wondrous Power, Bronze Griffon
 ---
 # Figurine of Wondrous Power, Bronze Griffon
 *Wondrous item, rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human (Mark of Finding)
+linter-yaml-title-alias: Human (Mark of Finding)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-finding

@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Hallucinatory Terrain
 Zaubergrad: 4
+linter-yaml-title-alias: Hallucinatory Terrain
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Druid (Circle of the Land, Desert)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Druid (Circle of the Land, Desert)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
   - Hallucinatory Terrain
-linter-yaml-title-alias: Hallucinatory Terrain
 ---
 # Hallucinatory Terrain
 *4th-level, Illusion*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enhanced Arcane Focus
+linter-yaml-title-alias: Enhanced Arcane Focus
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

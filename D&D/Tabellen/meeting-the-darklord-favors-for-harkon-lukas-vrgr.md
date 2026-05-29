@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Meeting the Darklord; Favors for Harkon Lukas
+linter-yaml-title-alias: Meeting the Darklord; Favors for Harkon Lukas
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Wilderness
+linter-yaml-title-alias: Wilderness
 tags:
   - Quelle/5e/hotb
 aliases:
   - "Wilderness"
+  - Wilderness
 ---
 # Wilderness
 *Source: Heroes of the Borderlands, p. 2* 

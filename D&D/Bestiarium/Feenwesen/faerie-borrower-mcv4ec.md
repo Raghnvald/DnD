@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerie Borrower
+linter-yaml-title-alias: Faerie Borrower
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-2

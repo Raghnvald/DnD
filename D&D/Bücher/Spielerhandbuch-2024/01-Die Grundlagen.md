@@ -1,7 +1,10 @@
 ---
 Bezeichnung: "Kapitel 1: Die Grundlage"
+linter-yaml-title-alias: "Kapitel 1: Die Grundlage"
 tags:
   - Quelle/5e/dmg
+aliases:
+  - "Kapitel 1: Die Grundlage"
 ---
 # Kapitel 1: Die Grundlage
 

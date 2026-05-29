@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keeper Adventures
+linter-yaml-title-alias: Keeper Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

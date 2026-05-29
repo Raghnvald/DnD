@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
 status: WIP
+linter-yaml-title-alias: Dolgaunt
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

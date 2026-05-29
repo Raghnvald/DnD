@@ -1,5 +1,6 @@
 ---
 Bezeichnung: A Normal Day in Leilon
+linter-yaml-title-alias: A Normal Day in Leilon
 tags:
   - Quelle/5e/slw
 aliases:

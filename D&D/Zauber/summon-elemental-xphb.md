@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Summon Elemental
+linter-yaml-title-alias: Summon Elemental
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Warlock (The Fathomless)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,17 +20,8 @@ tags:
   - Subklasse/the-fathomless
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Warlock (The Fathomless)
-  - Wizard
 aliases:
   - Summon Elemental
-linter-yaml-title-alias: Summon Elemental
 ---
 # Summon Elemental
 *4th-level, Conjuration*  

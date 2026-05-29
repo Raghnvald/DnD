@@ -1,5 +1,21 @@
 ---
 Bezeichnung: Banishment
+linter-yaml-title-alias: Banishment
+classes:
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of the Watchers)
+  - Paladin (Oath of Vengeance)
+  - Ranger (Horizon Walker)
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -18,24 +34,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of the Watchers)
-  - Paladin (Oath of Vengeance)
-  - Ranger (Horizon Walker)
-  - Ranger (Monster Slayer)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Banishment
-linter-yaml-title-alias: Banishment
 ---
 # Banishment
 *4th-level, Abjuration*  

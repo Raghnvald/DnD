@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Acid
+linter-yaml-title-alias: Acid
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Acid
-linter-yaml-title-alias: Acid
 ---
 # Acid
 *Adventuring gear*  

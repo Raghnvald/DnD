@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Illusionist
+linter-yaml-title-alias: Illusionist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Centaur
+linter-yaml-title-alias: Centaur
 tags:
   - Quelle/5e/ggr
   - Rasse/centaur
 aliases:
   - "Centaur"
+  - Centaur
 ---
 # Centaur
 *Source: Guildmasters' Guide to Ravnica p. 15*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/pip
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Peril in Pinebrook* 

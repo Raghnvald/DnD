@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Steadings
+linter-yaml-title-alias: Steadings
 tags:
   - Quelle/5e/bgg
 aliases:

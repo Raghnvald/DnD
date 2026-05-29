@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Outer Essence Shard (Evil)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Outer Essence Shard (Evil)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Outer Essence Shard (Evil)
-linter-yaml-title-alias: Outer Essence Shard (Evil)
 ---
 # Outer Essence Shard (Evil)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

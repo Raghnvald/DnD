@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chef
+linter-yaml-title-alias: Chef
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

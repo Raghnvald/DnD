@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Goblin (Zendikar; Lavastep Tribe)
+linter-yaml-title-alias: Goblin (Zendikar; Lavastep Tribe)
 tags:
   - Quelle/5e/psz
   - Rasse/goblin/zendikar-lavastep-tribe
 aliases:
   - "Goblin (Zendikar; Lavastep Tribe)"
+  - Goblin (Zendikar; Lavastep Tribe)
 ---
 # Goblin (Zendikar; Lavastep Tribe)
 *Source: Plane Shift: Zendikar p. 17*  

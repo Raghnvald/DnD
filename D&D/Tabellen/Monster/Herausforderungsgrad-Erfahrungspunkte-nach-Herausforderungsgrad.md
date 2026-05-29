@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
+linter-yaml-title-alias: Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
 tags:
   - Quelle/5e/dmg
 aliases:
   - Final Challenge Rating; Experience Points by Challenge Rating
+  - Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
 ---
 # Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
 *Quelle: SRD / Grundregelwerk*

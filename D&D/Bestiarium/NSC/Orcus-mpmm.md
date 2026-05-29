@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orcus
+linter-yaml-title-alias: Orcus
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/26
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Orcus
-linter-yaml-title-alias: Orcus
 ---
 # [Orcus](3-Mechanics\CLI\bestiary\npc/orcus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 204*  

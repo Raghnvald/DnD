@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Conjure Minor Elementals
 Zaubergrad: 4
+linter-yaml-title-alias: Conjure Minor Elementals
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -10,15 +17,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Conjure Minor Elementals
-linter-yaml-title-alias: Conjure Minor Elementals
 ---
 # Conjure Minor Elementals
 *4th-level, Conjuration*  

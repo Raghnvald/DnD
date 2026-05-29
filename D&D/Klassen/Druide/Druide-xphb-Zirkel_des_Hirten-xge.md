@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Shepherd
+linter-yaml-title-alias: Circle of the Shepherd
 tags:
   - Klasse/Druide/shepherd
   - Quelle/5e/xge

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Laleh Ghorbani
+linter-yaml-title-alias: Laleh Ghorbani
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Laleh Ghorbani
-linter-yaml-title-alias: Laleh Ghorbani
 ---
 # [Laleh Ghorbani](3-Mechanics\CLI\bestiary\npc/laleh-ghorbani-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 156*  

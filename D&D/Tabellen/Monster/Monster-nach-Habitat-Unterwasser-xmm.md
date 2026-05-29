@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Underwater Monsters
+linter-yaml-title-alias: Monsters by Habitat; Underwater Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

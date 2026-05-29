@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drowned Assassin
+linter-yaml-title-alias: Drowned Assassin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Drowned Assassin
-linter-yaml-title-alias: Drowned Assassin
 ---
 # [Drowned Assassin](3-Mechanics\CLI\bestiary\undead/drowned-assassin-gos.md)
 *Source: Ghosts of Saltmarsh p. 234*  

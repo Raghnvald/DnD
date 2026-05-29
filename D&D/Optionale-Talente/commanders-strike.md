@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Commander's Strike"
+linter-yaml-title-alias: "Commander's Strike"
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb
 aliases:
+  - "Commander's Strike"
   - Commander's Strike
 ---
 # Commander's Strike

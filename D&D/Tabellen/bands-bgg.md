@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bands
+linter-yaml-title-alias: Bands
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Habbakuk
+linter-yaml-title-alias: Habbakuk
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Habbakuk"
+  - Habbakuk
 ---
 # Habbakuk
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

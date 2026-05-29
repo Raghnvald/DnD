@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Play-by-Play Generator
+linter-yaml-title-alias: Play-by-Play Generator
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Play-by-Play Generator
-linter-yaml-title-alias: Play-by-Play Generator
 ---
 # [Play-by-Play Generator](3-Mechanics\CLI\bestiary\npc/play-by-play-generator-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 205*  

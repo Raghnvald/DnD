@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Eladrin)
+linter-yaml-title-alias: Elf (Eladrin)
 tags:
   - Quelle/5e/mtf
   - Rasse/elf/eladrin

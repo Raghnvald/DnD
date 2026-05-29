@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Personalizing Spells; Magic Themes
+linter-yaml-title-alias: Personalizing Spells; Magic Themes
 tags:
   - Quelle/5e/tce
 aliases:

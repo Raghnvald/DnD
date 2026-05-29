@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +2 Ammunition
+linter-yaml-title-alias: +2 Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Ausrüstung/ammunition-firearm
@@ -15,7 +16,6 @@ aliases:
   - +2 Firearm Bullet
   - +2 Needle
   - +2 Sling Bullet
-linter-yaml-title-alias: +2 Ammunition
 ---
 # +2 Ammunition
 *Ammunition, rare*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Druide
+linter-yaml-title-alias: Druide
 tags:
   - Klasse/Druide
   - Quelle/5e/phb
 aliases:
   - Druid
+  - Druide
 ---
 # Druide
 *Quellen: Spielerhandbuch S. 56. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

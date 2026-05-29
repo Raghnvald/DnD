@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: White Abishai
+linter-yaml-title-alias: White Abishai
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

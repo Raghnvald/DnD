@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shotgun
+linter-yaml-title-alias: Shotgun
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Shotgun
-linter-yaml-title-alias: Shotgun
 ---
 # Shotgun
 *Weapon*  

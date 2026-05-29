@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Woodland Manse
+linter-yaml-title-alias: Woodland Manse
 tags:
   - Quelle/5e/dip
 aliases:

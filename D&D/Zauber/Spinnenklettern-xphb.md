@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Spider Climb
+linter-yaml-title-alias: Spider Climb
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -12,18 +22,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Spider Climb
-linter-yaml-title-alias: Spider Climb
 ---
 # Spider Climb
 *2nd-level, Transmutation*  

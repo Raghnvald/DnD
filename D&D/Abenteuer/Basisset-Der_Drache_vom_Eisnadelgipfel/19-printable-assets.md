@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Printable Assets
+linter-yaml-title-alias: Printable Assets
 tags:
   - Quelle/5e/dip
 aliases:

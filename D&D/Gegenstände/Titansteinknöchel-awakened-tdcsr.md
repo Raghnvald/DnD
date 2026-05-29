@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Titanstone Knuckles (Awakened)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Titanstone Knuckles (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Titanstone Knuckles (Awakened)
-linter-yaml-title-alias: Titanstone Knuckles (Awakened)
 ---
 # Titanstone Knuckles (Awakened)
 *Wondrous item, legendary (requires attunement)*  

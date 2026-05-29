@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Verminshroud (Dormant)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Verminshroud (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Verminshroud (Dormant)
-linter-yaml-title-alias: Verminshroud (Dormant)
 ---
 # Verminshroud (Dormant)
 *Wondrous item, legendary (requires attunement)*  

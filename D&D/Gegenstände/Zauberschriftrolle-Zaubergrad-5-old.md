@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 5)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 4.000 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 5)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (5th Level)
   - Zauberschriftrolle (Zaubergrad 5)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 5)
 ---
 # Zauberschriftrolle (Zaubergrad 5)
 *Schriftrolle, selten*  

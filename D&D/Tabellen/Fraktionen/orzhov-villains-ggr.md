@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orzhov Villains
+linter-yaml-title-alias: Orzhov Villains
 tags:
   - Quelle/5e/ggr
 aliases:

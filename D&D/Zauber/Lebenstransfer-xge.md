@@ -6,6 +6,15 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Life Transference
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -17,17 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 aliases:
   - Life Transference
-linter-yaml-title-alias: Life Transference
 ---
 # Life Transference
 *3rd-level, Necromancy*  

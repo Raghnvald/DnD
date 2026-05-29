@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Auril
+linter-yaml-title-alias: Auril
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Icedawn"
   - "The Cold Crone"
   - "The Frostmaiden"
+  - Auril
 ---
 # Auril
 *Source: Forgotten Realms: Heroes of Faerûn p. 101* 

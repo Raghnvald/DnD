@@ -1,15 +1,15 @@
 ---
 Bezeichnung: Blinding Smite
+linter-yaml-title-alias: Blinding Smite
+classes:
+  - Paladin
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Paladin
 aliases:
   - Blinding Smite
-linter-yaml-title-alias: Blinding Smite
 ---
 # Blinding Smite
 *3rd-level, Evocation*  

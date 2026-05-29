@@ -1,5 +1,19 @@
 ---
 Bezeichnung: Greater Invisibility
+linter-yaml-title-alias: Greater Invisibility
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Cleric (Twilight Domain)
+  - Fighter (Eldritch Knight)
+  - Ranger (Gloom Stalker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Warlock (The Genie, Djinni)
+  - Warlock (The Undead)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/twilight-domain
@@ -16,22 +30,8 @@ tags:
   - Subklasse/the-undead
   - Zauber/Grad/4
   - Zauber/Schule/Illusion
-classes:
-  - Artificer (Armorer)
-  - Bard
-  - Cleric (Twilight Domain)
-  - Fighter (Eldritch Knight)
-  - Ranger (Gloom Stalker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Archfey Patron)
-  - Warlock (The Genie, Djinni)
-  - Warlock (The Undead)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Greater Invisibility
-linter-yaml-title-alias: Greater Invisibility
 ---
 # Greater Invisibility
 *4th-level, Illusion*  

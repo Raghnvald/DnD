@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Horned Sister
+linter-yaml-title-alias: Horned Sister
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Horned Sister
-linter-yaml-title-alias: Horned Sister
 ---
 # [Horned Sister](3-Mechanics\CLI\bestiary\npc/horned-sister-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 118*  

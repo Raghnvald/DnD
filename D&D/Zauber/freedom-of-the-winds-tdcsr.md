@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Freedom of the Winds
 Zaubergrad: 5
+linter-yaml-title-alias: Freedom of the Winds
+classes:
+  - Bard
+  - Druid
+  - Paladin (Oath of the Open Sea)
+  - Ranger
+  - Sorcerer
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -10,12 +17,6 @@ tags:
   - Subklasse/oath-of-the-open-sea
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Druid
-  - Paladin (Oath of the Open Sea)
-  - Ranger
-  - Sorcerer
 aliases:
   - Freedom of the Winds
 ---

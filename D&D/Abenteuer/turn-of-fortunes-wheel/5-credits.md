@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/tofw
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Turn of Fortune's Wheel* 

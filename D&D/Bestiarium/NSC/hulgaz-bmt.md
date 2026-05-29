@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hulgaz
+linter-yaml-title-alias: Hulgaz
 tags:
   - Monster/Größe/Groß
   - Monster/HG/14
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Hulgaz
-linter-yaml-title-alias: Hulgaz
 ---
 # [Hulgaz](3-Mechanics\CLI\bestiary\npc/hulgaz-bmt.md)
 *Source: The Book of Many Things p. 169*  

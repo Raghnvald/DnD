@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Visions of Distant Realms
+linter-yaml-title-alias: Spells for Visions of Distant Realms
 tags:
   - Zauber/list/optfeature/visions-of-distant-realms
 aliases:

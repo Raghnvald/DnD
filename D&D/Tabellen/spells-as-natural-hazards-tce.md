@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells as Natural Hazards
+linter-yaml-title-alias: Spells as Natural Hazards
 tags:
   - Quelle/5e/tce
 aliases:

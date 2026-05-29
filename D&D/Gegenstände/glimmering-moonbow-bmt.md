@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Glimmering Moonbow
 Kategorie: Beliebig, Bogen
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Glimmering Moonbow
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -13,7 +18,6 @@ aliases:
   - Glimmering Moon Longbow
   - Glimmering Moon Shortbow
   - Glimmering Moonbow
-linter-yaml-title-alias: Glimmering Moonbow
 ---
 # Glimmering Moonbow
 *Rare (requires attunement)*  

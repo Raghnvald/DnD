@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Wargong
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Wargong
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Wargong
-linter-yaml-title-alias: Wargong
 ---
 # Wargong
 *Instrument*  

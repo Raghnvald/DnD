@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Building Eberron Adventures - Forgotten Relics
+linter-yaml-title-alias: Building Eberron Adventures - Forgotten Relics
 tags:
   - Quelle/5e/efr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – French, Male
+linter-yaml-title-alias: Human Names – French, Male
 tags:
   - Quelle/5e/xge
 aliases:

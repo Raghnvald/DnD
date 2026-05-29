@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf (Duergar)
+linter-yaml-title-alias: Dwarf (Duergar)
 tags:
   - Quelle/5e/mtf
   - Rasse/dwarf/duergar

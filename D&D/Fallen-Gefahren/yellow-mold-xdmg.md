@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yellow Mold
+linter-yaml-title-alias: Yellow Mold
 tags:
   - Quelle/5e/xdmg
 aliases:

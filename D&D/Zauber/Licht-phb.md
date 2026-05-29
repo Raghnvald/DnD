@@ -7,6 +7,15 @@ Komponenten: V, M
 Wirkungsdauer: 1 Stunde
 Angriff: GES
 Schaden: /
+linter-yaml-title-alias: Licht
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Light Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -22,17 +31,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Light Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Light
-linter-yaml-title-alias: Light
+  - Licht
 ---
 # Licht
 *Zaubertrick der Hervorrufung*  

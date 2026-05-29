@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gedankenpanzer
 Rüstung: Schwer
+linter-yaml-title-alias: Gedankenpanzer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -8,12 +9,11 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/vgm
 aliases:
-  - Mind Carapace Armor
+  - Gedankenpanzer
   - Mind Carapace Chain Mail
   - Mind Carapace Plate Armor
   - Mind Carapace Ring Mail
   - Mind Carapace Splint Armor
-linter-yaml-title-alias: Mind Carapace Armor
 ---
 # Gedankenpanzer
 *Uncommon (requires attunement by a specific individual)*  

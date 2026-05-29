@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bel
+linter-yaml-title-alias: Bel
 tags:
   - Monster/Größe/Groß
   - Monster/HG/25
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Bel
-linter-yaml-title-alias: Bel
 ---
 # Bel
 *Source: Baldur's Gate: Descent Into Avernus p. 115*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Husk Zombie
+linter-yaml-title-alias: Husk Zombie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Husk Zombie
-linter-yaml-title-alias: Husk Zombie
 ---
 # [Husk Zombie](3-Mechanics\CLI\bestiary\undead/husk-zombie-egw.md)
 *Source: Explorer's Guide to Wildemount p. 293*  

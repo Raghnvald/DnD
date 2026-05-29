@@ -1,6 +1,15 @@
 ---
 Bezeichnung: "Rime's Binding Ice"
 Zaubergrad: 2
+linter-yaml-title-alias: "Rime's Binding Ice"
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Rime's Binding Ice
-linter-yaml-title-alias: Rime's Binding Ice
+  - "Rime's Binding Ice"
 ---
 # Rime's Binding Ice
 *2nd-level, Evocation*  

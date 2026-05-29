@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Light Domain
+linter-yaml-title-alias: Light Domain
 tags:
   - Klasse/Kleriker/light
   - Kompendium/Götter/Domäne/light

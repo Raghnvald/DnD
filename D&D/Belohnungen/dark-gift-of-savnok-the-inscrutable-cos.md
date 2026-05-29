@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Savnok the Inscrutable
+linter-yaml-title-alias: Dark Gift of Savnok the Inscrutable
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

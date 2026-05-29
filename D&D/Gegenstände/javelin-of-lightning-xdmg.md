@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Javelin of Lightning
+linter-yaml-title-alias: Javelin of Lightning
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Javelin of Lightning
-linter-yaml-title-alias: Javelin of Lightning
 ---
 # Javelin of Lightning
 *Weapon ([javelin](/3-Mechanics/CLI/items/javelin-xphb.md)), uncommon*  

@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Prestidigitation
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Arcane Archer)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -25,19 +36,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Arcane Archer)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Prestidigitation
-linter-yaml-title-alias: Prestidigitation
 ---
 # Prestidigitation
 *cantrip, Transmutation*  

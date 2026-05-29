@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Deck of Several Things
+linter-yaml-title-alias: Deck of Several Things
 tags:
   - Quelle/5e/llk
 aliases:
   - "Deck of Several Things"
+  - Deck of Several Things
 ---
 # Deck of Several Things
 *Source: Lost Laboratory of Kwalish p. 53*  

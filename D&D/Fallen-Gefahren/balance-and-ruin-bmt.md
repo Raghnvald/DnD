@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Balance and Ruin
+linter-yaml-title-alias: Balance and Ruin
 tags:
   - Kompendium/Bedrohung/mech
   - Quelle/5e/bmt

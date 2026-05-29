@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Shambling Mound
+linter-yaml-title-alias: Undead Shambling Mound
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Undead Shambling Mound
-linter-yaml-title-alias: Undead Shambling Mound
 ---
 # [Undead Shambling Mound](3-Mechanics\CLI\bestiary\undead/undead-shambling-mound-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 142*  

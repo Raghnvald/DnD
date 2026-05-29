@@ -6,6 +6,7 @@ Bezeichnung: Adult Blue Dracolich
 Kategorie: Untoter
 Größe: Riesig
 status: WIP
+linter-yaml-title-alias: Adult Blue Dracolich
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Wüste
@@ -14,7 +15,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Adult Blue Dracolich
-linter-yaml-title-alias: Adult Blue Dracolich
 ---
 # [Adult Blue Dracolich](3-Mechanics\CLI\bestiary\undead/adult-blue-dracolich.md)
 *Source: Monster Manual p. 84*  

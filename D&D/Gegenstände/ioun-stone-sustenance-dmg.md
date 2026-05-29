@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Sustenance
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Sustenance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Sustenance
-linter-yaml-title-alias: Ioun Stone, Sustenance
 ---
 # Ioun Stone, Sustenance
 *Wondrous item, major, rare (requires attunement)*  

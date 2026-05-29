@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Feign Death
+linter-yaml-title-alias: Feign Death
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -13,18 +23,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 aliases:
   - Feign Death
-linter-yaml-title-alias: Feign Death
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  

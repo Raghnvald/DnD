@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Ascendant Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Ascendant Dragon-Touched Focus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/ftd
 aliases:
   - Ascendant Dragon-Touched Focus
-linter-yaml-title-alias: Ascendant Dragon-Touched Focus
 ---
 # Ascendant Dragon-Touched Focus
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

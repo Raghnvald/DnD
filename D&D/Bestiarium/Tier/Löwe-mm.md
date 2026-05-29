@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lion
+linter-yaml-title-alias: Lion
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

@@ -6,6 +6,14 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Astral Projection
+classes:
+  - Bard
+  - Cleric
+  - Monk
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -16,16 +24,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/9
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Cleric
-  - Monk
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 aliases:
   - Astral Projection
-linter-yaml-title-alias: Astral Projection
 ---
 # Astral Projection
 *9th-level, Necromancy*  

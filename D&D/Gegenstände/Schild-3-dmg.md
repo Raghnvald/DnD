@@ -2,19 +2,21 @@
 Bezeichnung: Schild +3
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schild +3
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - +3 Shield
-linter-yaml-title-alias: Schild +3
+  - Schild +3
 ---
 # Schild +3
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten* 

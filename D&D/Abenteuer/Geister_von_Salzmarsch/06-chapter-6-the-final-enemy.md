@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: The Final Enemy"
+linter-yaml-title-alias: "Chapter 6: The Final Enemy"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Chapter 6: The Final Enemy"
   - Chapter 6: The Final Enemy
 ---
 # Chapter 6: The Final Enemy

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Artifacts"
+linter-yaml-title-alias: "Appendix C: Artifacts"
 tags:
   - Quelle/5e/aitfr-fcd
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shaldoor
+linter-yaml-title-alias: Shaldoor
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Shaldoor
-linter-yaml-title-alias: Shaldoor
 ---
 # [Shaldoor](3-Mechanics\CLI\bestiary\npc/shaldoor-skt.md)
 *Source: Storm King's Thunder p. 256*  

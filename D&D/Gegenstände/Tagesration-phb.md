@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Rations (1 day)
 Kategorie: Essen und Trinken
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 SM
-Gew.: 1,0 kg.
+Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Rations (1 day)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Rations (1 day)
-linter-yaml-title-alias: Rations (1 day)
 ---
 # Rations (1 day)
 *Adventuring gear*  

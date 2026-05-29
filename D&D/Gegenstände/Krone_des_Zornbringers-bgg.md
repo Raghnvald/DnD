@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Crown of the Wrath Bringer
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Crown of the Wrath Bringer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Crown of the Wrath Bringer
-linter-yaml-title-alias: Crown of the Wrath Bringer
 ---
 # Crown of the Wrath Bringer
 *Wondrous item, rare (requires attunement)*  

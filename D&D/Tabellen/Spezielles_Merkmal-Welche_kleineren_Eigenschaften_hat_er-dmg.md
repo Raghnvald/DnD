@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spezielles Merkmal; Welche kleineren Eigenschaften hat er?
+linter-yaml-title-alias: Spezielles Merkmal; Welche kleineren Eigenschaften hat er?
 tags:
   - Quelle/5e/dmg
 aliases:
   - Special Features; What Minor Property Does It Have
+  - Spezielles Merkmal; Welche kleineren Eigenschaften hat er?
 ---
 # Spezielles Merkmal; Welche kleineren Eigenschaften hat er?
 *Quelle: Spielleiterhandbuch, S. 143* 

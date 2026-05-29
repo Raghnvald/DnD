@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Jet
+linter-yaml-title-alias: Jet
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Jet
-linter-yaml-title-alias: Jet
 ---
 # Jet
 *Treasure (gemstone)*  

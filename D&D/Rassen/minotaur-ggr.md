@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Minotaur
+linter-yaml-title-alias: Minotaur
 tags:
   - Quelle/5e/ggr
   - Rasse/minotaur

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ancient Dragon Turtle
+linter-yaml-title-alias: Ancient Dragon Turtle
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

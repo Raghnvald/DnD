@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern
+linter-yaml-title-alias: Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern
   - Rise or Fall of a Leader or an Era; Leader Types
 ---
 # Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern

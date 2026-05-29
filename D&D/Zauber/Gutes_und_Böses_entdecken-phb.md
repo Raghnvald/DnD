@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Detect Evil and Good
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -15,13 +20,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Paladin
 aliases:
   - Detect Evil and Good
-linter-yaml-title-alias: Detect Evil and Good
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

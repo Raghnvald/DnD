@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Will of the Talon
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Will of the Talon
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Will of the Talon
-linter-yaml-title-alias: Will of the Talon
 ---
 # Will of the Talon
 *Weapon ([war pick](/3-Mechanics/CLI/items/war-pick-xphb.md)), artifact (requires attunement)*  

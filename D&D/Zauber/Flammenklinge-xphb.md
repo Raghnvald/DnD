@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Flame Blade
+linter-yaml-title-alias: Flame Blade
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Sorcerer
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,14 +15,8 @@ tags:
   - Subrasse/genasi-fire
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Sorcerer
 aliases:
   - Flame Blade
-linter-yaml-title-alias: Flame Blade
 ---
 # Flame Blade
 *2nd-level, Evocation*  

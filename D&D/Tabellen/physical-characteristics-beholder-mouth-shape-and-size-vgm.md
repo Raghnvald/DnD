@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Mouth Shape and Size
+linter-yaml-title-alias: Physical Characteristics; Beholder Mouth Shape and Size
 tags:
   - Quelle/5e/vgm
 aliases:

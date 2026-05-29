@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tempest Hart
+linter-yaml-title-alias: Tempest Hart
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11

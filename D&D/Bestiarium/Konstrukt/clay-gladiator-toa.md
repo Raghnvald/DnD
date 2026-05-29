@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clay Gladiator
+linter-yaml-title-alias: Clay Gladiator
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

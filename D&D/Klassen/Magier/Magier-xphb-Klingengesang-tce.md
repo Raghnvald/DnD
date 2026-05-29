@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bladesinging
+linter-yaml-title-alias: Bladesinging
 tags:
   - Klasse/Magier/bladesinging
   - Quelle/5e/tce

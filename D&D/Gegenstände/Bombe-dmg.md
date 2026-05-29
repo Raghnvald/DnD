@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bomb
 Kategorie: Explosives
+linter-yaml-title-alias: Bomb
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Bomb
-linter-yaml-title-alias: Bomb
 ---
 # Bomb
 *Explosive*  

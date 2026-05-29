@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Dwarf (Kaladesh)
+linter-yaml-title-alias: Dwarf (Kaladesh)
 tags:
   - Quelle/5e/psk
   - Rasse/dwarf/kaladesh
 aliases:
   - "Dwarf (Kaladesh)"
+  - Dwarf (Kaladesh)
 ---
 # Dwarf (Kaladesh)
 *Source: Plane Shift: Kaladesh p. 19*  

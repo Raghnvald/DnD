@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Djinni (Wishes)
+linter-yaml-title-alias: Djinni (Wishes)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

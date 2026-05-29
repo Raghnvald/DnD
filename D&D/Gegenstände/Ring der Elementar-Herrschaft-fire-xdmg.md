@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Elemental Command (Fire)
+linter-yaml-title-alias: Ring of Elemental Command (Fire)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Elemental Command (Fire)
-linter-yaml-title-alias: Ring of Elemental Command (Fire)
 ---
 # Ring of Elemental Command (Fire)
 *Ring, legendary (requires attunement)*  

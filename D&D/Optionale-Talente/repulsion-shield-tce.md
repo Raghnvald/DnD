@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Repulsion Shield
+linter-yaml-title-alias: Repulsion Shield
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

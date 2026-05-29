@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Slow
 Zaubergrad: 3
+linter-yaml-title-alias: Slow
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Arctic)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/arctic
@@ -12,16 +20,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/mire-the-mind
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Arctic)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Slow
-linter-yaml-title-alias: Slow
 ---
 # Slow
 *3rd-level, Transmutation*  

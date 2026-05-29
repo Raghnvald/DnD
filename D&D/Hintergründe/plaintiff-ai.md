@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Plaintiff
+linter-yaml-title-alias: Plaintiff
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ai
 aliases:
   - "Plaintiff"
+  - Plaintiff
 ---
 # Plaintiff
 *Source: Acquisitions Incorporated p. 50*  

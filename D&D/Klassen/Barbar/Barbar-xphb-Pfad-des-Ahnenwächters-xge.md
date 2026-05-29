@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Ancestral Guardian
+linter-yaml-title-alias: Path of the Ancestral Guardian
 tags:
   - Klasse/Barbar/ancestral-guardian
   - Quelle/5e/xge

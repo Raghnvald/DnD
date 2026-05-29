@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Preface
+linter-yaml-title-alias: Preface
 tags:
   - Quelle/5e/mabjov
 aliases:
   - "Preface"
+  - Preface
 ---
 # Preface
 *Source: Minsc and Boo's Journal of Villainy* 

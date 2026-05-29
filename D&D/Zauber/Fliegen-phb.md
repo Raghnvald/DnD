@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Fly
 Zaubergrad: 3
+linter-yaml-title-alias: Fly
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -12,16 +20,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/ride-the-wind
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Fly
-linter-yaml-title-alias: Fly
 ---
 # Fly
 *3rd-level, Transmutation*  

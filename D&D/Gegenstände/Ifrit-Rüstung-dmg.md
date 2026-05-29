@@ -2,21 +2,22 @@
 Bezeichnung: Ifrit-Rüstung
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: 27,5 kg
 RK: 16
 STR: 13
 Heiml.: Nachteil
+linter-yaml-title-alias: Ifrit-Rüstung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
-  - Efreeti Chain
-linter-yaml-title-alias: Efreeti Chain
+  - Ifrit-Rüstung
 ---
 # Ifrit-Rüstung
 *Rüstung ([[Kettenpanzer-phb|Kettenpanzer]]), legendär (benötigt Einstimmung)*

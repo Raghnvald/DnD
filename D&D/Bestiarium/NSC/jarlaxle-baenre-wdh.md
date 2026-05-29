@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarlaxle Baenre
+linter-yaml-title-alias: Jarlaxle Baenre
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Jarlaxle Baenre
-linter-yaml-title-alias: Jarlaxle Baenre
 ---
 # [Jarlaxle Baenre](3-Mechanics\CLI\bestiary\npc/jarlaxle-baenre-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 206*  

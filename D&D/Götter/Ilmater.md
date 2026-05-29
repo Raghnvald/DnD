@@ -1,5 +1,6 @@
 ---
 Bezeichnung: llmater, Gott der Ausdauer
+linter-yaml-title-alias: llmater, Gott der Ausdauer
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ilmater
+  - llmater, Gott der Ausdauer
 ---
 # llmater, Gott der Ausdauer
 *Quelle: SRD / Grundregelwerk* 

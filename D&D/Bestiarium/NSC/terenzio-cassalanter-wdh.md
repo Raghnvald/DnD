@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Terenzio Cassalanter
+linter-yaml-title-alias: Terenzio Cassalanter
 tags:
   - Monster/Größe/Klein
   - Monster/HG/
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Terenzio Cassalanter
-linter-yaml-title-alias: Terenzio Cassalanter
 ---
 # [Terenzio Cassalanter](3-Mechanics\CLI\bestiary\npc/terenzio-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 115*  

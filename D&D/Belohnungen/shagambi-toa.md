@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shagambi
+linter-yaml-title-alias: Shagambi
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Imbued Wood (Fernian Ash)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Imbued Wood (Fernian Ash)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +19,6 @@ aliases:
   - Fernian Ash Staff
   - Fernian Ash Wand
   - Imbued Wood (Fernian Ash)
-linter-yaml-title-alias: Imbued Wood (Fernian Ash)
 ---
 # Imbued Wood (Fernian Ash)
 *Wondrous item, common (requires attunement)*  

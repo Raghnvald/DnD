@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Mit den Schatten verschmelzen
+linter-yaml-title-alias: Mit den Schatten verschmelzen
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb
 aliases:
+  - Mit den Schatten verschmelzen
   - One with Shadows
 ---
 # Mit den Schatten verschmelzen

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation"
+linter-yaml-title-alias: "Chapter 1: Character Creation"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Chapter 1: Character Creation"
   - Chapter 1: Character Creation
 ---
 # Chapter 1: Character Creation

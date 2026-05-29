@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 8: Forge of the Fire Giants"
+linter-yaml-title-alias: "Chapter 8: Forge of the Fire Giants"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 8: Forge of the Fire Giants"
   - Chapter 8: Forge of the Fire Giants
 ---
 # Chapter 8: Forge of the Fire Giants

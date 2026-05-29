@@ -6,6 +6,13 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Crown of Stars
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -15,15 +22,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Crown of Stars
-linter-yaml-title-alias: Crown of Stars
 ---
 # Crown of Stars
 *7th-level, Evocation*  

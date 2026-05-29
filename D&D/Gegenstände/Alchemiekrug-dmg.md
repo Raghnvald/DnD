@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Alchemiekrug
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 6,0 kg
+Status: completed
+linter-yaml-title-alias: Alchemiekrug
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Alchemiekrug
   - Alchemy Jug
-linter-yaml-title-alias: Alchemiekrug
-Status: completed
 ---
 # Alchemiekrug
 *Wundersamer Gegenstand, ungewöhnlich*

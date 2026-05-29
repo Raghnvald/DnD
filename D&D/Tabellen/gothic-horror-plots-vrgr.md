@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Plots
+linter-yaml-title-alias: Gothic Horror Plots
 tags:
   - Quelle/5e/vrgr
 aliases:

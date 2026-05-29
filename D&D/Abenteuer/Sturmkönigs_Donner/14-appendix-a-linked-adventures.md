@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Linked Adventures"
+linter-yaml-title-alias: "Appendix A: Linked Adventures"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Appendix A: Linked Adventures"
   - Appendix A: Linked Adventures
 ---
 # Appendix A: Linked Adventures

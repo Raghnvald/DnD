@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Hand Drum
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Hand Drum
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Hand Drum
-linter-yaml-title-alias: Hand Drum
 ---
 # Hand Drum
 *Instrument*  

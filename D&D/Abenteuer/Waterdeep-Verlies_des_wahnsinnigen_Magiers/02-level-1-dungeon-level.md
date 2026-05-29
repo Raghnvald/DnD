@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 1: Dungeon Level"
+linter-yaml-title-alias: "Level 1: Dungeon Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 1: Dungeon Level"
   - Level 1: Dungeon Level
 ---
 # Level 1: Dungeon Level

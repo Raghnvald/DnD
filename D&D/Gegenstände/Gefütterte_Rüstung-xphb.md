@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Padded Armor
 Rüstung: Leicht
+linter-yaml-title-alias: Padded Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Padded Armor
-linter-yaml-title-alias: Padded Armor
 ---
 # Padded Armor
 *Light armor*  

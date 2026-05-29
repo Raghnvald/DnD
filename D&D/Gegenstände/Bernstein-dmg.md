@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Bernstein
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Bernstein
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Amber
-linter-yaml-title-alias: Amber
+  - Bernstein
 ---
 # Bernstein
 *Schatz (Edelstein)*  

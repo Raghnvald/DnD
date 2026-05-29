@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Charm
+linter-yaml-title-alias: Gruul Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

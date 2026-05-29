@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Infernal Magic Items"
+linter-yaml-title-alias: "Appendix D: Infernal Magic Items"
 tags:
   - Quelle/5e/coa
 aliases:

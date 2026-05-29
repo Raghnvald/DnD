@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: High Fae Kindguard
+linter-yaml-title-alias: High Fae Kindguard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

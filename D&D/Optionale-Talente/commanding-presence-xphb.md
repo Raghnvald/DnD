@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Commanding Presence
+linter-yaml-title-alias: Commanding Presence
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

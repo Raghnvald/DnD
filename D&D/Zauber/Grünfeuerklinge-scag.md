@@ -9,6 +9,7 @@ Angriff: Nahkampf
 Schaden: 1d8 Schall
 status:
   - completed
+linter-yaml-title-alias: Grünfeuerklinge
 tags:
   - Klasse/Artifizient
   - Klasse/Hexenmeister
@@ -20,6 +21,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Green‑Flame Blade
+  - Grünfeuerklinge
 ---
 # Grünfeuerklinge
 _Zaubertrick der Hervorrufung_

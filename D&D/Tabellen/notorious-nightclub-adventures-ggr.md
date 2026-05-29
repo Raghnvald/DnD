@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Notorious Nightclub Adventures
+linter-yaml-title-alias: Notorious Nightclub Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

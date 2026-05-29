@@ -1,23 +1,25 @@
 ---
 Bezeichnung: Heiltrank
 Kategorie: Trank
-Eigenschaften: n/v
-Kst.: 50 GM
-Gew.: 0,25 kg
+status: completed
+linter-yaml-title-alias: Heiltrank
 tags:
-  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
-  - Potion of Healing
-linter-yaml-title-alias: Heiltrank
+  - Heiltrank
 ---
 # Heiltrank
-*Trank, gewöhnlich*  
+*Trank*  
 
-- **Kosten**: 50 GM
-- **Gewicht**: 0.25 kg.
+Du erhältst Trefferpunkte zurück, wenn du diesen Trank trinkst. Die Anzahl der Trefferpunkte hängt von der Seltenheit des Trankes ab, wie in der Heiltrank-Tabelle aufgelistet ist. Unabhängig von seiner Kraft, besteht der Trank aus roter Flüssigkeit, die schimmert, wenn sie bewegt wird.
 
-Ein Charakter, der die magische rote Flüssigkeit aus der Phiole trinkt, erhält `2W4 + 2` Trefferpunkte zurück. Den Trank zu trinken oder zu verabreichen, benötigt eine Aktion.
+**Gegenstände in dieser Gruppe:**
+
+- [[Trank_der_Heilung-dmg|Trank der Heilung]]
+- [[Trank_der_Mächtigen_Heilung-dmg|Trank der Mächtigen Heilung]]
+- [[Trank_der_Überlegenen_Heilung-dmg|Trank der Überlegenen Heilung]]
+- [[Trank_der_Höchsten_Heilung-dmg|Trank der Höchsten Heilung]]
 
 *Quellen: Spielleiterhandbuch S. 187, Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

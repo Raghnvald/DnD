@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Broom of Flying
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Broom of Flying
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Broom of Flying
-linter-yaml-title-alias: Broom of Flying
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  

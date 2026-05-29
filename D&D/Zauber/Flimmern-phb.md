@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Blink
 Zaubergrad: 3
+linter-yaml-title-alias: Blink
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Archfey)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/trickery-domain
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-archfey
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Archfey)
-  - Wizard
 aliases:
   - Blink
-linter-yaml-title-alias: Blink
 ---
 # Blink
 *3rd-level, Transmutation*  

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Luxon Beacon
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Luxon Beacon
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Luxon Beacon
-linter-yaml-title-alias: Luxon Beacon
 ---
 # Luxon Beacon
 *Wondrous item, legendary*  

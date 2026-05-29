@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Shillelagh
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -18,13 +23,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
 aliases:
   - Shillelagh
-linter-yaml-title-alias: Shillelagh
 ---
 # Shillelagh
 *cantrip, Transmutation*  

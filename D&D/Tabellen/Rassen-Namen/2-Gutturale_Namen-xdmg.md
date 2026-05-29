@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "2: Guttural Names"
+linter-yaml-title-alias: "2: Guttural Names"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "2: Guttural Names"
   - 2: Guttural Names
 ---
 # 2: Guttural Names

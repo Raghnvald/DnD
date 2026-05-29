@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic Surge
+linter-yaml-title-alias: Wild Magic Surge
 tags:
   - Quelle/5e/phb
 aliases:

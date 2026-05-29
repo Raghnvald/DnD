@@ -5,6 +5,7 @@ Bezeichnung: Grick Ancient
 Kategorie: Aberration
 Größe: Groß
 HG: 7
+linter-yaml-title-alias: Grick Ancient
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

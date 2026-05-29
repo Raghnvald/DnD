@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jackal
+linter-yaml-title-alias: Jackal
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Grasland

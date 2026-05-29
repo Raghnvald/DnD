@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab der Bindung
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
 Kst.: 4.000 GM
 Gew.: 0,5 kg
 image: wand-of-binding.webp
+linter-yaml-title-alias: Zauberstab der Bindung
 tags:
   - Gegenstand/Einstimmung/Zauberwirker
   - Gegenstand/Seltenheit/selten
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Binding
+  - Zauberstab der Bindung
 ---
 # Zauberstab der Bindung
 _Zauberstab, selten (erfordert Einstimmung durch einen Zauberwirker)_

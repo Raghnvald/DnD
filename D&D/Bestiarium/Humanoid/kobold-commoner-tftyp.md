@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Commoner
+linter-yaml-title-alias: Kobold Commoner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

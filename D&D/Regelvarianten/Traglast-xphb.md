@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Carrying Capacity
+linter-yaml-title-alias: Carrying Capacity
 tags:
   - Quelle/5e/xphb
 aliases:

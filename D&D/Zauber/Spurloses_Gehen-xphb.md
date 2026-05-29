@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Pass without Trace
+linter-yaml-title-alias: Pass without Trace
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,15 +19,8 @@ tags:
   - Subrasse/genasi-earth
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Trickery Domain)
-  - Druid
-  - Ranger
 aliases:
   - Pass without Trace
-linter-yaml-title-alias: Pass without Trace
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

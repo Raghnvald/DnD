@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Intellect
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Intellect
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Intellect
-linter-yaml-title-alias: Ioun Stone, Intellect
 ---
 # Ioun Stone, Intellect
 *Wondrous item, major, very rare (requires attunement)*  

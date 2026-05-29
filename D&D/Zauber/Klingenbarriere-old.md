@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Klingenbarriere
+linter-yaml-title-alias: Klingenbarriere
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
@@ -7,6 +8,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Blade Barrier
+  - Klingenbarriere
 ---
 # Klingenbarriere
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

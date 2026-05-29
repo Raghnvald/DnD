@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sardonyx
+linter-yaml-title-alias: Sardonyx
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Sardonyx
-linter-yaml-title-alias: Sardonyx
 ---
 # Sardonyx
 *Treasure (gemstone)*  

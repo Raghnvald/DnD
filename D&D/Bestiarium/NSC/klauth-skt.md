@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Klauth
+linter-yaml-title-alias: Klauth
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/25
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Klauth
-linter-yaml-title-alias: Klauth
 ---
 # [Klauth](3-Mechanics\CLI\bestiary\npc/klauth-skt.md)
 *Source: Storm King's Thunder p. 95*  

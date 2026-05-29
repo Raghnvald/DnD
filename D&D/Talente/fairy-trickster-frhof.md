@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Fairy Trickster
+linter-yaml-title-alias: Fairy Trickster
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Fairy Trickster"
+  - Fairy Trickster
 ---
 # Fairy Trickster
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

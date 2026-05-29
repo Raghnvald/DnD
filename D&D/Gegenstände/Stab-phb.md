@@ -2,9 +2,12 @@
 Bezeichnung: Stab
 Kategorie: Fokus, Arkan
 Schaden: 1W6 Wucht
-Eigenschaften: Vielseitig
+Eigenschaften:
+  - Vielseitig
 Kst.: 5 GM
 Gew.: 2,0 kg
+status: completed
+linter-yaml-title-alias: Stab
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Eigenschaft/Vielseitig
@@ -14,7 +17,6 @@ tags:
 aliases:
   - Stab
   - Staff
-linter-yaml-title-alias: Stab
 ---
 # Stab
 *Stab, Waffe, Zauberfokus*
@@ -22,7 +24,7 @@ linter-yaml-title-alias: Stab
 - **Schaden**:
   - Einhändig: 1d6 Wucht
   - Zweihändig: 1d8 Wucht
-- **Eigenschaften**: [Vielseitig](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
 - **Kosten**: 5 Goldmünzen
 - **Gewicht**: 2,0 kg.
 

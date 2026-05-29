@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Category 2 Krasis
+linter-yaml-title-alias: Category 2 Krasis
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

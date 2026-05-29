@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sea Elf
+linter-yaml-title-alias: Sea Elf
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

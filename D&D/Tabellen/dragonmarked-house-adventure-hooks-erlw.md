@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonmarked House Adventure Hooks
+linter-yaml-title-alias: Dragonmarked House Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

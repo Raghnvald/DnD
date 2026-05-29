@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faroul
+linter-yaml-title-alias: Faroul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Faroul
-linter-yaml-title-alias: Faroul
 ---
 # [Faroul](3-Mechanics\CLI\bestiary\npc/faroul-toa.md)
 *Source: Tomb of Annihilation p. 34*  

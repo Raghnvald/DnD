@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Kas
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sword of Kas
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Sword of Kas
-linter-yaml-title-alias: Sword of Kas
 ---
 # Sword of Kas
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement)*  

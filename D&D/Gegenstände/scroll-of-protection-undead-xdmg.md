@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Undead)
+linter-yaml-title-alias: Scroll of Protection (Undead)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Undead)
-linter-yaml-title-alias: Scroll of Protection (Undead)
 ---
 # Scroll of Protection (Undead)
 *Scroll, rare*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Galley
+linter-yaml-title-alias: Galley
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Galley
-linter-yaml-title-alias: Galley
 ---
 # Galley
 *Ship, vehicle (water)*  

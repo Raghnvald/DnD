@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pelor
+linter-yaml-title-alias: Pelor
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

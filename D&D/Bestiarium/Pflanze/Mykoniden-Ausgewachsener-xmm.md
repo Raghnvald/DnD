@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ausgewachsener Mykonid
+linter-yaml-title-alias: Ausgewachsener Mykonid
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
@@ -9,6 +10,7 @@ tags:
   - Monster/Typ/Pflanze
   - Quelle/5e/xmm
 aliases:
+  - Ausgewachsener Mykonid
   - Myconid Adult
 ---
 # Ausgewachsener Mykonid

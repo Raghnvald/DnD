@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Naga (Guardian)
+linter-yaml-title-alias: Bone Naga (Guardian)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Bone Naga (Guardian)
-linter-yaml-title-alias: Bone Naga (Guardian)
 ---
 # [Bone Naga (Guardian)](3-Mechanics\CLI\bestiary\undead/bone-naga-guardian.md)
 *Source: Monster Manual p. 233*  

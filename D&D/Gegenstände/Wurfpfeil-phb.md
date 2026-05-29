@@ -2,18 +2,20 @@
 Bezeichnung: Wurfpfeil
 Kategorie: Einfache Fernkampfwaffe
 Schaden: 1W6 Stich
-Eigenschaften: Geschosse, Zweihändig
+Eigenschaften:
+  - Geschosse
+  - Zweihändig
 Einstimmung: /
 Kst.: 5 KM
-Gew.: 0,125 kg.
+Gew.: 0,125 kg
+linter-yaml-title-alias: Wurfpfeil
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
   - Quelle/5e/phb
 aliases:
-  - Dart
-linter-yaml-title-alias: Dart
+  - Wurfpfeil
 ---
 # Wurfpfeil
 *Waffe*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants and the Ordning
+linter-yaml-title-alias: Giants and the Ordning
 tags:
   - Quelle/5e/bgg
 aliases:

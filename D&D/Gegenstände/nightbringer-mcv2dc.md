@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Nightbringer
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Nightbringer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mcv2dc
 aliases:
   - Nightbringer
-linter-yaml-title-alias: Nightbringer
 ---
 # Nightbringer
 *Weapon (mace), legendary (requires attunement)*  

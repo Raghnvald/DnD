@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Heroism
+linter-yaml-title-alias: Charm of Heroism
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

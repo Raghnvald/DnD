@@ -2,10 +2,12 @@
 Bezeichnung: Speer
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Stich
-Eigenschaften: Vielseitig, Wurfwaffe
+Eigenschaften:
+  - Vielseitig, Wurfwaffe
 Einstimmung: /
 Kst.: 1 GM
 Gew.: 1,5 kg
+linter-yaml-title-alias: Speer
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -13,7 +15,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Spear
-linter-yaml-title-alias: Speer
+  - Speer
 ---
 # Speer
 *Einfache Nahkampfwaffe*  

@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Planar Ally
+linter-yaml-title-alias: Planar Ally
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Planar Ally
-linter-yaml-title-alias: Planar Ally
 ---
 # Planar Ally
 *6th-level, Conjuration*  

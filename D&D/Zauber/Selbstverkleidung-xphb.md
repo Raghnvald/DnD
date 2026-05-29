@@ -7,6 +7,18 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Disguise Self
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Ranger (Gloom Stalker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -29,20 +41,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/mask-of-many-faces
   - Zauber/Schule/Illusion
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Ranger (Gloom Stalker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Disguise Self
-linter-yaml-title-alias: Disguise Self
 ---
 # Disguise Self
 *1st-level, Illusion*  

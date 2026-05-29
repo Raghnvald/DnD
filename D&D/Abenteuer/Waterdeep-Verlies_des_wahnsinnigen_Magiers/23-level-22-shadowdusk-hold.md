@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 22: Shadowdusk Hold"
+linter-yaml-title-alias: "Level 22: Shadowdusk Hold"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 22: Shadowdusk Hold"
   - Level 22: Shadowdusk Hold
 ---
 # Level 22: Shadowdusk Hold

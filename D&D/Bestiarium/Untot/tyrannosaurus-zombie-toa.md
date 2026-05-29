@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tyrannosaurus Zombie
+linter-yaml-title-alias: Tyrannosaurus Zombie
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Tyrannosaurus Zombie
-linter-yaml-title-alias: Tyrannosaurus Zombie
 ---
 # [Tyrannosaurus Zombie](3-Mechanics\CLI\bestiary\undead/tyrannosaurus-zombie-toa.md)
 *Source: Tomb of Annihilation p. 241*  

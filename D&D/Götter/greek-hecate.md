@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hecate
+linter-yaml-title-alias: Hecate
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

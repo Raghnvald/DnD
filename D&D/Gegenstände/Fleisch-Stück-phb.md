@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Fleisch, Stück
 Kategorie: Essen und Trinken
+Eigenschaften:
+  - /
+Kst.: 3 SM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Fleisch, Stück
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Fleisch, Stück
-linter-yaml-title-alias: Fleisch, Stück
 ---
 # Fleisch, Stück
 *Food and drink*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Dauerhafter Wahnsinn
+linter-yaml-title-alias: Dauerhafter Wahnsinn
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Dauerhafter Wahnsinn
   - Indefinite Madness
 ---
 # Dauerhafter Wahnsinn

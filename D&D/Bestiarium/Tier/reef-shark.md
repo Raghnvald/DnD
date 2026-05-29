@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reef Shark
+linter-yaml-title-alias: Reef Shark
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/underwater

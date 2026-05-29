@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Umhang des Scharlatans
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Umhang des Scharlatans
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Cape of the Mountebank
-linter-yaml-title-alias: Umhang des Scharlatans
+  - Umhang des Scharlatans
 ---
 # Umhang des Scharlatans
 *Wundersamer Gegenstand, selten*  

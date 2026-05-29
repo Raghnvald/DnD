@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 19: Caverns of Ooze"
+linter-yaml-title-alias: "Level 19: Caverns of Ooze"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 19: Caverns of Ooze"
   - Level 19: Caverns of Ooze
 ---
 # Level 19: Caverns of Ooze

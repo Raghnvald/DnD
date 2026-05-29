@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Elf (Zendikar)
+linter-yaml-title-alias: Elf (Zendikar)
 tags:
   - Quelle/5e/psz
   - Rasse/elf/zendikar
 aliases:
   - "Elf (Zendikar)"
+  - Elf (Zendikar)
 ---
 # Elf (Zendikar)
 *Source: Plane Shift: Zendikar p. 18*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Bounty
+linter-yaml-title-alias: Charm of Bounty
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chishinix
+Image: token/chishinix-pabtso.webp
+linter-yaml-title-alias: Chishinix
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Chishinix
-Image: token/chishinix-pabtso.webp
-linter-yaml-title-alias: Chishinix
 ---
 # [Chishinix](3-Mechanics\CLI\bestiary\npc/chishinix-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

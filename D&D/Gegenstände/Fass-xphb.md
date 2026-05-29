@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Barrel
+linter-yaml-title-alias: Barrel
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Barrel
-linter-yaml-title-alias: Barrel
 ---
 # Barrel
 *Adventuring gear*  

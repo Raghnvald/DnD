@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/crcotn
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Critical Role: Call of the Netherdeep* 

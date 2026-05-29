@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Streitwagen
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 250 GM
 Gew.: 50,0 kg
+status: WIP
+linter-yaml-title-alias: Streitwagen
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Land
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Chariot
-linter-yaml-title-alias: Chariot
+  - Streitwagen
 ---
 # Streitwagen
 *Fahrzeug (Land)*

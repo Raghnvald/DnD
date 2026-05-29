@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ranger
+linter-yaml-title-alias: Ranger
 tags:
   - Quelle/5e/ggr
 aliases:

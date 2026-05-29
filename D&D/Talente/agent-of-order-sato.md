@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Agent of Order
+linter-yaml-title-alias: Agent of Order
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
   - "Agent of Order"
+  - Agent of Order
 ---
 # Agent of Order
 *Source: Sigil and the Outlands p. 10*  

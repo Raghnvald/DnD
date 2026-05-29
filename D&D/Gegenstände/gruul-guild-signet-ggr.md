@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Gruul Guild Signet
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Gruul Guild Signet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,11 +14,10 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Gruul Guild Signet
-linter-yaml-title-alias: Gruul Guild Signet
 ---
 # Gruul Guild Signet
 *Ring, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/gruul-guild-signet.webp#right)
+![](img/gruul-guild-signet.webp#right)
 
 This ring, adorned with the symbol of Gruul, allows you to cast compelled duel. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Gruul's recognition and favor.
 

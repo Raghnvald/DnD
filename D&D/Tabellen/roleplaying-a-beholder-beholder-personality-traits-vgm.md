@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Beholder; Beholder Personality Traits
+linter-yaml-title-alias: Roleplaying a Beholder; Beholder Personality Traits
 tags:
   - Quelle/5e/vgm
 aliases:

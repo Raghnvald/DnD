@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ephara
+linter-yaml-title-alias: Ephara
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/light
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Ephara"
+  - Ephara
 ---
 # Ephara
 *Source: Mythic Odysseys of Theros p. 40* 

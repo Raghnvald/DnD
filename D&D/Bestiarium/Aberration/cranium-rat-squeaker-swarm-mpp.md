@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
 status: WIP
+linter-yaml-title-alias: Cranium Rat Squeaker Swarm
 tags:
   - Quelle/5e/mpp
   - ttrpg-cli/monster/cr/5

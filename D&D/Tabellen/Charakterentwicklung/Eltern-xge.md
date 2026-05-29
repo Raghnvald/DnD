@@ -1,8 +1,10 @@
 ---
 Bezeichnung: ElternParents
+linter-yaml-title-alias: ElternParents
 tags:
   - Quelle/5e/xge
 aliases:
+  - ElternParents
   - Parents
 ---
 # ElternParents

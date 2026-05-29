@@ -1,13 +1,13 @@
 ---
 Bezeichnung: The Codicil of White
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: The Codicil of White
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - The Codicil of White
-linter-yaml-title-alias: The Codicil of White
 ---
 # The Codicil of White
 *Wondrous item*  

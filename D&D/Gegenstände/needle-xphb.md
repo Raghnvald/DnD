@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Needle
+linter-yaml-title-alias: Needle
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Needle
-linter-yaml-title-alias: Needle
 ---
 # Needle
 *Ammunition*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Stage Four: Pestilence; Stage Four Encounters"
+linter-yaml-title-alias: "Stage Four: Pestilence; Stage Four Encounters"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Stage Four: Pestilence; Stage Four Encounters"
   - Stage Four: Pestilence; Stage Four Encounters
 ---
 # Stage Four: Pestilence; Stage Four Encounters

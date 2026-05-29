@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Umhang des Schutzes
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Umhang des Schutzes
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Cloak of Protection
-linter-yaml-title-alias: Umhang des Schutzes
+  - Umhang des Schutzes
 ---
 # Umhang des Schutzes
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

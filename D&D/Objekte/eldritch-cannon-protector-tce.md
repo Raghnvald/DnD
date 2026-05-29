@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Cannon, Protector
+linter-yaml-title-alias: Eldritch Cannon, Protector
 tags:
   - Kompendium/Objekt/size/unknown
   - Kompendium/Objekt/type/unknown

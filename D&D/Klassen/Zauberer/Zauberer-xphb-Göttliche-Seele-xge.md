@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Divine Soul
+linter-yaml-title-alias: Divine Soul
 tags:
   - Klasse/Zauberer/divine-soul
   - Quelle/5e/xge

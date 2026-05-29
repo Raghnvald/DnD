@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armorer
+linter-yaml-title-alias: Armorer
 tags:
   - Klasse/Artifizient/armorer
   - Quelle/5e/tce

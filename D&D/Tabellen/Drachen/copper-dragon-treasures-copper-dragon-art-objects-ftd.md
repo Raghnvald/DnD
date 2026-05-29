@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Copper Dragon Treasures; Copper Dragon Art Objects
+linter-yaml-title-alias: Copper Dragon Treasures; Copper Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

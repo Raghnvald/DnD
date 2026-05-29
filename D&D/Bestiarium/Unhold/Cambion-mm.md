@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cambion
+linter-yaml-title-alias: Cambion
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Sleet Storm
+linter-yaml-title-alias: Sleet Storm
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Marid)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,21 +28,8 @@ tags:
   - Subklasse/the-genie/marid
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Polar Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fathomless)
-  - Warlock (The Genie, Marid)
-  - Wizard
 aliases:
   - Sleet Storm
-linter-yaml-title-alias: Sleet Storm
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

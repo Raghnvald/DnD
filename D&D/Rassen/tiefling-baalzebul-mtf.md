@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Baalzebul)
+linter-yaml-title-alias: Tiefling (Baalzebul)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/baalzebul

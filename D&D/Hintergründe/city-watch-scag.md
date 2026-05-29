@@ -1,5 +1,6 @@
 ---
 Bezeichnung: City Watch
+linter-yaml-title-alias: City Watch
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

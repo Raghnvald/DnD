@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zehir
+linter-yaml-title-alias: Zehir
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/death

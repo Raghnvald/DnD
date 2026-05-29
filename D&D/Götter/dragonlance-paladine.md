@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Paladine
+linter-yaml-title-alias: Paladine
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Paladine"
+  - Paladine
 ---
 # Paladine
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Verschwimmen
 Zaubergrad: 2
+linter-yaml-title-alias: Verschwimmen
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Desert)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/desert
@@ -12,16 +20,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Desert)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Blur
-linter-yaml-title-alias: Verschwimmen
+  - Verschwimmen
 ---
 # Verschwimmen
 *Illusion des 2. Grades*

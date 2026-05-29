@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Insect (Spider)
+linter-yaml-title-alias: Giant Insect (Spider)
 tags:
   - Monster/Größe/Groß
   - Monster/HG/

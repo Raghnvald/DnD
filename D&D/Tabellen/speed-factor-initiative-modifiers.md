@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Speed Factor Initiative Modifiers
+linter-yaml-title-alias: Speed Factor Initiative Modifiers
 tags:
   - Quelle/5e/dmg
 aliases:

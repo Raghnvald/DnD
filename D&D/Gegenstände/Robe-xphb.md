@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Robe
+linter-yaml-title-alias: Robe
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Robe
-linter-yaml-title-alias: Robe
 ---
 # Robe
 *Adventuring gear*  

@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Runde
 Angriff: nichts
 Schaden: Kommunikation
+linter-yaml-title-alias: Botschaft
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -19,15 +26,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
+  - Botschaft
   - Message
-linter-yaml-title-alias: Botschaft
 ---
 # Botschaft
 *Zaubertrick der Verwandlung*  

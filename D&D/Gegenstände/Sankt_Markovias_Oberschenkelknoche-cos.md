@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Saint Markovia's Thighbone"
 Kategorie: Einfache Nahkampfwaffe 
+linter-yaml-title-alias: "Saint Markovia's Thighbone"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Saint Markovia's Thighbone"
   - Saint Markovia's Thighbone
-linter-yaml-title-alias: "Saint Markovia's Thighbone"
 ---
 # Saint Markovia's Thighbone
 *Melee weapon, rare (requires attunement)*  

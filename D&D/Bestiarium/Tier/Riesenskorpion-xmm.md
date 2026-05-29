@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Scorpion
+linter-yaml-title-alias: Giant Scorpion
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

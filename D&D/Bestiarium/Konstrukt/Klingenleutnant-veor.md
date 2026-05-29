@@ -5,9 +5,11 @@ Bezeichnung: Blade Lieutenant
 Kategorie: Konstrukt (Kriegsgeschmiedet)
 Größe: Mittelgroß
 HG: 9
-Habitat: /
+Habitat:
+  - /
 image: token/blade-lieutenant-veor.webp
 status: WIP
+linter-yaml-title-alias: Blade Lieutenant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9

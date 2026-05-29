@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Scientist
+linter-yaml-title-alias: Simic Scientist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

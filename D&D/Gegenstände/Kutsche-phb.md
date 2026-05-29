@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Kutsche
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: 300,0 kg
+status: WIP
+linter-yaml-title-alias: Kutsche
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Ausrüstung/Fahrzeug/Land
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Carriage
-linter-yaml-title-alias: Carriage
+  - Kutsche
 ---
 # Kutsche
 *Fahrzeug (Land)*  

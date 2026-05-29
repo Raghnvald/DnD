@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Rubin
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Rubin
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Ruby
-linter-yaml-title-alias: Ruby
+  - Rubin
 ---
 # Rubin
 *Schatz (Edelstein)*  

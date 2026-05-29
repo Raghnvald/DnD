@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wight
+linter-yaml-title-alias: Wight
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/planar
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Wight
-linter-yaml-title-alias: Wight
 ---
 # [Wight](3-Mechanics\CLI\bestiary\undead/wight-xmm.md)
 *Source: Monster Manual (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

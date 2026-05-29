@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ras Nsi
+linter-yaml-title-alias: Ras Nsi
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Ras Nsi
-linter-yaml-title-alias: Ras Nsi
 ---
 # [Ras Nsi](3-Mechanics\CLI\bestiary\npc/ras-nsi-toa.md)
 *Source: Tomb of Annihilation p. 230*  

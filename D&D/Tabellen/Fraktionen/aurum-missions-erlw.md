@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aurum Missions
+linter-yaml-title-alias: Aurum Missions
 tags:
   - Quelle/5e/erlw
 aliases:

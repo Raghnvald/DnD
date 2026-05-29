@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Greater Invisibility
 Zaubergrad: 4
+linter-yaml-title-alias: Greater Invisibility
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Underdark)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Archfey)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/underdark
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-archfey
   - Zauber/Grad/4
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Underdark)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Archfey)
-  - Wizard
 aliases:
   - Greater Invisibility
-linter-yaml-title-alias: Greater Invisibility
 ---
 # Greater Invisibility
 *4th-level, Illusion*  

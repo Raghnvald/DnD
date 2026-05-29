@@ -10,6 +10,7 @@ Habitat:
   - Unterwasser
 image: token/marid.webp
 status:
+linter-yaml-title-alias: Marid
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

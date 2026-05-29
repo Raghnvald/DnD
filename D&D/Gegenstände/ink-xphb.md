@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ink
+linter-yaml-title-alias: Ink
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Ink
-linter-yaml-title-alias: Ink
 ---
 # Ink
 *Adventuring gear*  

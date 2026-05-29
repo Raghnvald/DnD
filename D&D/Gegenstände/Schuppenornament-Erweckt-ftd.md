@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wakened Scaled Ornament
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wakened Scaled Ornament
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Wakened Scaled Ornament
-linter-yaml-title-alias: Wakened Scaled Ornament
 ---
 # Wakened Scaled Ornament
 *Wondrous item, very rare (requires attunement)*  

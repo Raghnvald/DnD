@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Charm of the Traveler's Haven"
+linter-yaml-title-alias: "Charm of the Traveler's Haven"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf
 aliases:
+  - "Charm of the Traveler's Haven"
   - Charm of the Traveler's Haven
 ---
 # Charm of the Traveler's Haven

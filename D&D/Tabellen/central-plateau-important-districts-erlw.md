@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Central Plateau: Important Districts"
+linter-yaml-title-alias: "Central Plateau: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Central Plateau: Important Districts"
   - Central Plateau: Important Districts
 ---
 # Central Plateau: Important Districts

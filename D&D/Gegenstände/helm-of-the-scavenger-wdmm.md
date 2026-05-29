@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Helm of the Scavenger
+linter-yaml-title-alias: Helm of the Scavenger
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/wdmm
 aliases:
   - Helm of the Scavenger
-linter-yaml-title-alias: Helm of the Scavenger
 ---
 # Helm of the Scavenger
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

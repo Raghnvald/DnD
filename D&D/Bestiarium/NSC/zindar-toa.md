@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zindar
+linter-yaml-title-alias: Zindar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Zindar
-linter-yaml-title-alias: Zindar
 ---
 # [Zindar](3-Mechanics\CLI\bestiary\npc/zindar-toa.md)
 *Source: Tomb of Annihilation p. 239*  

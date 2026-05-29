@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Illusionist's Bracers"
+linter-yaml-title-alias: "Illusionist's Bracers"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ggr
 aliases:
-  - Illusionist's Bracers
-linter-yaml-title-alias: Illusionist's Bracers
+  - "Illusionist's Bracers"
 ---
 # Illusionist's Bracers
 *Wondrous item, very rare (requires attunement by a spellcaster)*  

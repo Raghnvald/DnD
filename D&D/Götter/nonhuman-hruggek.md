@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hruggek
+linter-yaml-title-alias: Hruggek
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/nonhuman

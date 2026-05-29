@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 6
 status: WIP
+linter-yaml-title-alias: Eater of Knowledge
 tags:
   - Quelle/5e/mpp
   - ttrpg-cli/monster/cr/6

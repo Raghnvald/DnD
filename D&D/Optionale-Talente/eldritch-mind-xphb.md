@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Mind
+linter-yaml-title-alias: Eldritch Mind
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

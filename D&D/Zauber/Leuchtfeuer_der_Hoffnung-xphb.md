@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Beacon of Hope
+linter-yaml-title-alias: Beacon of Hope
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Peace Domain)
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -10,16 +18,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Peace Domain)
-  - Paladin (Oath of Devotion)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Beacon of Hope
-linter-yaml-title-alias: Beacon of Hope
 ---
 # Beacon of Hope
 *3rd-level, Abjuration*  

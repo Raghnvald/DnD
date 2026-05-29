@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Vial
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Vial
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Vial
-linter-yaml-title-alias: Vial
 ---
 # Vial
 *Adventuring gear*  

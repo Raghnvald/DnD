@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Naxene Drathkala
+linter-yaml-title-alias: Naxene Drathkala
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Naxene Drathkala
-linter-yaml-title-alias: Naxene Drathkala
 ---
 # [Naxene Drathkala](3-Mechanics\CLI\bestiary\npc/naxene-drathkala-skt.md)
 *Source: Storm King's Thunder p. 252*  

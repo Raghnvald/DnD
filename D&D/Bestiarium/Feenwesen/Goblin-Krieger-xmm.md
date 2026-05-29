@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Warrior
+linter-yaml-title-alias: Goblin Warrior
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/acheron

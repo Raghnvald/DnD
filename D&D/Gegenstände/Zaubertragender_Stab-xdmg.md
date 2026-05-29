@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Staff
+linter-yaml-title-alias: Enspelled Staff
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Staff
-linter-yaml-title-alias: Enspelled Staff
 ---
 # Enspelled Staff
 *Staff, weapon (requires attunement by a Spellcaster)*  

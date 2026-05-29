@@ -6,18 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Bones of the Earth
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xge
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Bones of the Earth
-linter-yaml-title-alias: Bones of the Earth
 ---
 # Bones of the Earth
 *6th-level, Transmutation*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: River Mist
+linter-yaml-title-alias: River Mist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - River Mist
-linter-yaml-title-alias: River Mist
 ---
 # [River Mist](3-Mechanics\CLI\bestiary\npc/river-mist-toa.md)
 *Source: Tomb of Annihilation p. 35*  

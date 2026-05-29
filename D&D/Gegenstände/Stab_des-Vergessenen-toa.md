@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Stab des Vergessenen
+Eigenschaften:
+  - erfordert Einstimmung durch einen Hexenmeister, Magier oder Zauberer
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Stab des Vergessenen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/toa
 aliases:
-  - Staff of the Forgotten One
-linter-yaml-title-alias: Staff of the Forgotten One
+  - Stab des Vergessenen
 ---
 # Stab des Vergessenen
 *Staff, weapon, artifact (requires attunement by a sorcerer, warlock, or wizard)*  

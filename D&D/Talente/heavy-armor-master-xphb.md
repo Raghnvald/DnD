@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavy Armor Master
+linter-yaml-title-alias: Heavy Armor Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hungry Sorrowsworn
+linter-yaml-title-alias: Hungry Sorrowsworn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

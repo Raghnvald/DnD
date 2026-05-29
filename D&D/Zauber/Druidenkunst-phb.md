@@ -7,6 +7,12 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: nichts
 Schaden: Kontrolle
+linter-yaml-title-alias: Druidenkunst
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,14 +23,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
 aliases:
   - Druidcraft
-linter-yaml-title-alias: Druidenkunst
+  - Druidenkunst
 ---
 # Druidenkunst
 *Zaubertrick der Verwandlung*  

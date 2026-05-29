@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix D: Story Concept Art"
+linter-yaml-title-alias: "Appendix D: Story Concept Art"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Appendix D: Story Concept Art"
   - Appendix D: Story Concept Art
 ---
 # Appendix D: Story Concept Art

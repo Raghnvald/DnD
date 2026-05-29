@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to the Far North
+linter-yaml-title-alias: Welcome to the Far North
 tags:
   - Quelle/5e/idrotf
 aliases:

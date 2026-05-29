@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zentaurenmumie
+linter-yaml-title-alias: Zentaurenmumie
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6
   - Monster/Typ/Untote
   - Quelle/5e/tftyp
 aliases:
-  - Centaur Mummy
-linter-yaml-title-alias: Centaur Mummy
+  - Zentaurenmumie
 ---
 # Zentaurenmumie
 *Source: Tales from the Yawning Portal p. 231*  

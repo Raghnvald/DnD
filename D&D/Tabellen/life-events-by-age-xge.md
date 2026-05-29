@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Life Events by Age
+linter-yaml-title-alias: Life Events by Age
 tags:
   - Quelle/5e/xge
 aliases:

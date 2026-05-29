@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Monstrosity
+linter-yaml-title-alias: Index of Monstrosity
+aliases:
+  - Index of Monstrosity
 ---
 # Index of Monstrosity
 

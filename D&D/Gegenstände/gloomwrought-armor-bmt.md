@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gloomwrought Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Gloomwrought Armor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -24,7 +25,6 @@ aliases:
   - Gloomwrought Spiked Armor
   - Gloomwrought Splint Armor
   - Gloomwrought Studded Leather Armor
-linter-yaml-title-alias: Gloomwrought Armor
 ---
 # Gloomwrought Armor
 *Rare (requires attunement)*  

@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Wish
+linter-yaml-title-alias: Wish
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock (The Genie, Dao)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -8,14 +14,8 @@ tags:
   - Subklasse/the-genie/dao
   - Zauber/Grad/9
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock (The Genie, Dao)
-  - Wizard
 aliases:
   - Wish
-linter-yaml-title-alias: Wish
 ---
 # Wish
 *9th-level, Conjuration*  

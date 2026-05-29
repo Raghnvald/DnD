@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blood Fury Tattoo
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Blood Fury Tattoo
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Blood Fury Tattoo
-linter-yaml-title-alias: Blood Fury Tattoo
 ---
 # Blood Fury Tattoo
 *Wondrous item (tattoo), legendary (requires attunement)*  

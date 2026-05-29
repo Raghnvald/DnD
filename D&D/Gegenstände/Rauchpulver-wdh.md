@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Smokepowder
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Smokepowder
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/wdh
 aliases:
   - Smokepowder
-linter-yaml-title-alias: Smokepowder
 ---
 # Smokepowder
 *Wondrous item, uncommon*  

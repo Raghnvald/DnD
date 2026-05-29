@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Great Taar Haak, the Five-Headed Destroyer
+linter-yaml-title-alias: Dark Gift of Great Taar Haak, the Five-Headed Destroyer
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

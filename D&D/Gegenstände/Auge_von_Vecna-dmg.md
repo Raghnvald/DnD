@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Eye of Vecna
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Eye of Vecna
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Eye of Vecna
-linter-yaml-title-alias: Eye of Vecna
 ---
 # Eye of Vecna
 *Wondrous item, artifact (requires attunement)*  

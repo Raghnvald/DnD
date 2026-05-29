@@ -10,6 +10,7 @@ Habitat:
   - Unterreich
 image: token/aboleth.webp
 status: WIP
+linter-yaml-title-alias: Aboleth
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: 5.000 GM Edelsteine
+linter-yaml-title-alias: 5.000 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
   - 5,000 gp Gemstones
+  - 5.000 GM Edelsteine
 ---
 # 5.000 GM Edelsteine
 *Quelle: Spielleiterhandbuch, S. 134* 

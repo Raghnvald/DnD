@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seeking Spell
+linter-yaml-title-alias: Seeking Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/xphb

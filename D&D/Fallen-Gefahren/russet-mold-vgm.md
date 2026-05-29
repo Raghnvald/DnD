@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Russet Mold
+linter-yaml-title-alias: Russet Mold
 tags:
   - Quelle/5e/vgm
 aliases:

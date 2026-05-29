@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Komplikationen beim Glücksspiel
+linter-yaml-title-alias: Komplikationen beim Glücksspiel
 tags:
   - Quelle/5e/xge
 aliases:
   - Gambling Complications
+  - Komplikationen beim Glücksspiel
 ---
 # Komplikationen beim Glücksspiel
 *Source: Xanathar's Guide to Everything p. 130* 

@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/acererak-toa.webp
 status: WIP
+linter-yaml-title-alias: Acererak
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/23
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Acererak
-linter-yaml-title-alias: Acererak
 ---
 # [Acererak](3-Mechanics\CLI\bestiary\npc/acererak-toa.md)
 *Source: Tomb of Annihilation p. 209*  

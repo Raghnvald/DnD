@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Boros Legionnaire
+linter-yaml-title-alias: Spells for Boros Legionnaire
 tags:
   - Zauber/list/background/boros-legionnaire
 aliases:

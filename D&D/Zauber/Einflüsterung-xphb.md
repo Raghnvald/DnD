@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Suggestion
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Knowledge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Warlock (Fiend Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -21,19 +32,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Knowledge Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Warlock (Fiend Patron)
-  - Wizard
 aliases:
   - Suggestion
-linter-yaml-title-alias: Suggestion
 ---
 # Suggestion
 *2nd-level, Enchantment*  

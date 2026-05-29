@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bast
+linter-yaml-title-alias: Bast
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/egyptian

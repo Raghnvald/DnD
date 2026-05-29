@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tempus, Gott des Krieges
+linter-yaml-title-alias: Tempus, Gott des Krieges
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Krieg
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tempus
+  - Tempus, Gott des Krieges
 ---
 # Tempus, Gott des Krieges
 *Quelle: SRD / Grundregelwerk* 

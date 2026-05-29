@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gold Dragon Scale Mail
 Rüstung: Mittel
+linter-yaml-title-alias: Gold Dragon Scale Mail
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Gold Dragon Scale Mail
-linter-yaml-title-alias: Gold Dragon Scale Mail
 ---
 # Gold Dragon Scale Mail
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), very rare (requires attunement)*  

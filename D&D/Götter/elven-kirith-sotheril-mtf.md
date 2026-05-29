@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kirith Sotheril
+linter-yaml-title-alias: Kirith Sotheril
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

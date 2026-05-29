@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cradle of the Fire Scion
+linter-yaml-title-alias: Cradle of the Fire Scion
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/25

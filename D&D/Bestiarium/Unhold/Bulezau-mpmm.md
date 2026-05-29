@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bulezau
+linter-yaml-title-alias: Bulezau
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sweeping Cinder Strike
+linter-yaml-title-alias: Sweeping Cinder Strike
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

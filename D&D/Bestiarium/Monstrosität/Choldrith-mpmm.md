@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Choldrith
+linter-yaml-title-alias: Choldrith
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chauntea
+linter-yaml-title-alias: Chauntea
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/faerunian

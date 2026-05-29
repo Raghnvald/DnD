@@ -1,22 +1,25 @@
 ---
-Bezeichnung: Ring of Animal Influence
+Bezeichnung: Ring des Tierumgangs
 Kategorie: Ring
+Eigenschaften:
+  - /
+status: completed
+linter-yaml-title-alias: Ring des Tierumgangs
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Animal Influence
-linter-yaml-title-alias: Ring of Animal Influence
+  - Ring des Tierumgangs
 ---
-# Ring of Animal Influence
-*Ring, major, rare*  
-![](/3-Mechanics/CLI/items/img/ring-of-animal-influence.webp#right)
+# Ring des Tierumgangs
+*Ring, selten*  
+![](img/ring-of-animal-influence.webp#right)
 
-This ring has 3 charges, and it regains `1d3` expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells:
+Der Ring hat 3 Ladungen urid erhält zu jeder Morgendämmerung `1W3` der verwendeten Ladungen zurück. Während du den Ring trägst, kannst du eine Aktion aufwenden, um einen der folgenden Zauber zu wirken:
 
-- [Animal friendship](/3-Mechanics/CLI/spells/animal-friendship.md) (save DC 13)  
-- [Fear](/3-Mechanics/CLI/spells/fear.md) (save DC 13), targeting only beasts that have an Intelligence of 3 or lower  
-- [Speak with animals](/3-Mechanics/CLI/spells/speak-with-animals.md)  
+- [[Tierfreundschaft-phb|Tierfreundschaft]] (Rettungswurf SG 13)
+- [[Furcht-phb|Furcht]] (Rettungswurf SG 13), funktioniert nur bei Tieren, die eine Intelligenz von 3 oder weniger haben.
+- [[Mit_Tieren_sprechen-phb|Mit Tieren sprechen]]
 
-*Source: Dungeon Master's Guide p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

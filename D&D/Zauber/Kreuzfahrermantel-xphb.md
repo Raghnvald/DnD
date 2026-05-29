@@ -1,17 +1,17 @@
 ---
 Bezeichnung: "Crusader's Mantle"
+linter-yaml-title-alias: "Crusader's Mantle"
+classes:
+  - Cleric (War Domain)
+  - Paladin
 tags:
   - Klasse/Kleriker/war-domain
   - Klasse/paladin
   - Quelle/5e/xphb
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Cleric (War Domain)
-  - Paladin
 aliases:
-  - Crusader's Mantle
-linter-yaml-title-alias: Crusader's Mantle
+  - "Crusader's Mantle"
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  

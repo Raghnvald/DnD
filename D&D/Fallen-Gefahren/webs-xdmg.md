@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Webs
+linter-yaml-title-alias: Webs
 tags:
   - Quelle/5e/xdmg
 aliases:

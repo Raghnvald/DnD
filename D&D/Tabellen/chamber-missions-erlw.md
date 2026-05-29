@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chamber Missions
+linter-yaml-title-alias: Chamber Missions
 tags:
   - Quelle/5e/erlw
 aliases:

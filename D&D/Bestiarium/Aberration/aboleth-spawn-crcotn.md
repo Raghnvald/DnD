@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/aboleth-spawn-crcotn.webp
 status: WIP
+linter-yaml-title-alias: Aboleth Spawn
 tags:
   - Quelle/5e/crcotn
   - ttrpg-cli/monster/cr/5

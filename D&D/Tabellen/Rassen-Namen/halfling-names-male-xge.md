@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Names – Male
+linter-yaml-title-alias: Halfling Names – Male
 tags:
   - Quelle/5e/xge
 aliases:

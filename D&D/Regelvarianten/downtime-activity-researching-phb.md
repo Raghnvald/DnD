@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Researching"
+linter-yaml-title-alias: "Downtime Activity: Researching"
 tags:
   - Quelle/5e/phb
 aliases:
+  - "Downtime Activity: Researching"
   - Downtime Activity: Researching
 ---
 # Downtime Activity: Researching

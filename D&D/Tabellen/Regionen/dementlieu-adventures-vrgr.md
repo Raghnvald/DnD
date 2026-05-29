@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dementlieu Adventures
+linter-yaml-title-alias: Dementlieu Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

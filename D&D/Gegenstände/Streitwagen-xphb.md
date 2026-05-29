@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chariot
+linter-yaml-title-alias: Chariot
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Chariot
-linter-yaml-title-alias: Chariot
 ---
 # Chariot
 *Vehicle (land)*  

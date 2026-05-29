@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tough
+linter-yaml-title-alias: Tough
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

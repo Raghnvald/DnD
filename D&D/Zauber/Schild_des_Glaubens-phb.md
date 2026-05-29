@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Shield of Faith
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (War Domain)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -16,14 +22,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (War Domain)
-  - Paladin
 aliases:
   - Shield of Faith
-linter-yaml-title-alias: Shield of Faith
 ---
 # Shield of Faith
 *1st-level, Abjuration*  

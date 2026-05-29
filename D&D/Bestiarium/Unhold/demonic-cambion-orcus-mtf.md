@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demonic Cambion (Orcus)
+linter-yaml-title-alias: Demonic Cambion (Orcus)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

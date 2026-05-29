@@ -8,12 +8,14 @@ HG: 7
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Blauer Slaad
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7
   - Monster/Typ/Aberration
   - Quelle/5e/mm
 aliases:
+  - Blauer Slaad
   - Blue Slaad
 ---
 # Blauer Slaad

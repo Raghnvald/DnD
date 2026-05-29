@@ -10,6 +10,7 @@ Habitat:
   - /
 image: token/gundren-rockseeker-pabtso.webp
 status: completed
+linter-yaml-title-alias: Gundren Felssucher
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -18,7 +19,6 @@ tags:
 aliases:
   - Gundren Felssucher
   - Gundren Rockseeker
-linter-yaml-title-alias: Gundren Felssucher
 ---
 # Gundren Felssucher
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 10*  

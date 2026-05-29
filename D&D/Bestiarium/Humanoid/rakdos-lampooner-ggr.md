@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakdos Lampooner
+linter-yaml-title-alias: Rakdos Lampooner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

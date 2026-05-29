@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nene
+linter-yaml-title-alias: Nene
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Nene
-linter-yaml-title-alias: Nene
 ---
 # [Nene](3-Mechanics\CLI\bestiary\npc/nene-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 205*  

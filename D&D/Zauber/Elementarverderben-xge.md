@@ -7,6 +7,15 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: KON
 Schaden: variabel
+linter-yaml-title-alias: Elemental Bane
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -18,17 +27,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
   - Elemental Bane
-linter-yaml-title-alias: Elemental Bane
 ---
 # Elemental Bane
 *Verwandlung des 4. Grades*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: White Dragon Cape
+linter-yaml-title-alias: White Dragon Cape
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/tftyp
 aliases:
   - White Dragon Cape
-linter-yaml-title-alias: White Dragon Cape
 ---
 # White Dragon Cape
 

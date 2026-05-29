@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Adventurers' Guild Contacts; Guild Contacts"
+linter-yaml-title-alias: "Adventurers' Guild Contacts; Guild Contacts"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Adventurers' Guild Contacts; Guild Contacts"
   - Adventurers' Guild Contacts; Guild Contacts
 ---
 # Adventurers' Guild Contacts; Guild Contacts

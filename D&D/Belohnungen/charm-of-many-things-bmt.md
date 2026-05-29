@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Many Things
+linter-yaml-title-alias: Charm of Many Things
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

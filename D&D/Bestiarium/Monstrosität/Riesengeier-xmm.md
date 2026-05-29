@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Vulture
+linter-yaml-title-alias: Giant Vulture
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

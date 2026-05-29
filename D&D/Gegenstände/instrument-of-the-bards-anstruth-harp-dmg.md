@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Anstruth Harp
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung durch einen Barden
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Instrument of the Bards, Anstruth Harp
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -9,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Instrument of the Bards, Anstruth Harp
-linter-yaml-title-alias: Instrument of the Bards, Anstruth Harp
 ---
 # Instrument of the Bards, Anstruth Harp
 *Wondrous item, instrument, major, very rare (requires attunement by a bard)*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Putting It All Together
+linter-yaml-title-alias: Putting It All Together
 tags:
   - Quelle/5e/dod
 aliases:
   - "Putting It All Together"
+  - Putting It All Together
 ---
 # Putting It All Together
 *Source: Domains of Delight, p. 22* 

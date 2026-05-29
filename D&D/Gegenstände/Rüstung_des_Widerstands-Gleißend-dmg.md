@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Radiant Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Radiant Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -24,7 +25,6 @@ aliases:
   - Spiked Armor of Radiant Resistance
   - Splint Armor of Radiant Resistance
   - Studded Leather Armor of Radiant Resistance
-linter-yaml-title-alias: Armor of Radiant Resistance
 ---
 # Armor of Radiant Resistance
 *Major, rare (requires attunement)*  

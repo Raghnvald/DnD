@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Villains
+linter-yaml-title-alias: Rakdos Villains
 tags:
   - Quelle/5e/ggr
 aliases:

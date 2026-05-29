@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Zombie
+linter-yaml-title-alias: Frost Giant Zombie
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Frost Giant Zombie
-linter-yaml-title-alias: Frost Giant Zombie
 ---
 # [Frost Giant Zombie](3-Mechanics\CLI\bestiary\undead/frost-giant-zombie-egw.md)
 *Source: Explorer's Guide to Wildemount p. 288*  

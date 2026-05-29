@@ -1,8 +1,10 @@
 ---
 Bezeichnung: 50 GM Edelsteine
+linter-yaml-title-alias: 50 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
+  - 50 GM Edelsteine
   - 50 gp Gemstones
 ---
 # 50 GM Edelsteine

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kupalué
+linter-yaml-title-alias: Kupalué
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Kupalué
-linter-yaml-title-alias: Kupalué
 ---
 # [Kupalué](3-Mechanics\CLI\bestiary\npc/kupalue-toa.md)
 *Source: Tomb of Annihilation p. 35*  

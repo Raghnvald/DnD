@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Animate Dead
 Zaubergrad: 3
+linter-yaml-title-alias: Animate Dead
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Death Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Death Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Animate Dead
-linter-yaml-title-alias: Animate Dead
 ---
 # Animate Dead
 *3rd-level, Necromancy*  

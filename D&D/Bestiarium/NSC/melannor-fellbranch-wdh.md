@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Melannor Fellbranch
+linter-yaml-title-alias: Melannor Fellbranch
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Melannor Fellbranch
-linter-yaml-title-alias: Melannor Fellbranch
 ---
 # [Melannor Fellbranch](3-Mechanics\CLI\bestiary\npc/melannor-fellbranch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 36*  

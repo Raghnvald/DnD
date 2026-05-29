@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Hintergrund
+linter-yaml-title-alias: Hintergrund
 tags:
   - Quelle/5e/xge
 aliases:
   - Background; I became...
+  - Hintergrund
 ---
 # Hintergrund
 *Quellen: Xanathars Ratgeber für Alles S. 63* 

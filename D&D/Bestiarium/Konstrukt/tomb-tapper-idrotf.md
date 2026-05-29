@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tomb Tapper
+linter-yaml-title-alias: Tomb Tapper
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10

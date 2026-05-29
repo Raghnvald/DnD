@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Tsunami
 Zaubergrad: 8
+linter-yaml-title-alias: Tsunami
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Tsunami
-linter-yaml-title-alias: Tsunami
 ---
 # Tsunami
 *8th-level, Conjuration*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Building a Party; Party Makeup
+linter-yaml-title-alias: Building a Party; Party Makeup
 tags:
   - Quelle/5e/ggr
 aliases:

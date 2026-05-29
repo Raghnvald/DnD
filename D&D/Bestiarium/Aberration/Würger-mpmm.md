@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1
 status: WIP
+linter-yaml-title-alias: Würger
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg
@@ -16,6 +17,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Choker
+  - Würger
 ---
 # Würger
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76*  

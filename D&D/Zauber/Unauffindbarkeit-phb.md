@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Unauffindbarkeit
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Knowledge Domain)
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/knowledge-domain
@@ -18,16 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Knowledge Domain)
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
-  - Nondetection
-linter-yaml-title-alias: Nondetection
+  - Unauffindbarkeit
 ---
 # Unauffindbarkeit
 *Bannmagie des 3. Grades*  

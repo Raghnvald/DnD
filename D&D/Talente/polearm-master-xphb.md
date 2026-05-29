@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Polearm Master
+linter-yaml-title-alias: Polearm Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 17: Donjon"
+linter-yaml-title-alias: "Chapter 17: Donjon"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 17: Donjon"
   - Chapter 17: Donjon
 ---
 # Chapter 17: Donjon

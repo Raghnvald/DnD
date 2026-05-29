@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Auril, Göttin des Winters
+linter-yaml-title-alias: Auril, Göttin des Winters
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Natur
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Auril
+  - Auril, Göttin des Winters
 ---
 # Auril, Göttin des Winters
 *Quelle: SRD / Grundregelwerk* 

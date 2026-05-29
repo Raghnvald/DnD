@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skeleton Keys Solution
+linter-yaml-title-alias: Skeleton Keys Solution
 tags:
   - Quelle/5e/tce
 aliases:

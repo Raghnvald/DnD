@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Laser Rifle
+linter-yaml-title-alias: Laser Rifle
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Laser Rifle
-linter-yaml-title-alias: Laser Rifle
 ---
 # Laser Rifle
 *Weapon*  

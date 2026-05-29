@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Drei-Drachen-Kartensatz
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Drei-Drachen-Kartensatz
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Three-Dragon Ante Set
-linter-yaml-title-alias: Three-Dragon Ante Set
+  - Drei-Drachen-Kartensatz
 ---
 # Drei-Drachen-Kartensatz
 *Spiel*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Göttliche Gunst
+linter-yaml-title-alias: Göttliche Gunst
 tags:
   - Klasse/Paladin
   - Quelle/5e/phb
@@ -7,7 +8,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Divine Favor
-linter-yaml-title-alias: Göttliche Gunst
+  - Göttliche Gunst
 ---
 # Göttliche Gunst
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

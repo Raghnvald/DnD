@@ -8,6 +8,7 @@ Angriff: nichts
 Schaden: Verstärkung
 status:
   - completed
+linter-yaml-title-alias: Göttliche Führung
 tags:
   - Klasse/Druide
   - Klasse/Kleriker
@@ -16,8 +17,8 @@ tags:
   - Zauber/Original/Guidance
   - Zauber/Schule/Erkenntnis
 aliases:
+  - Göttliche Führung
   - Guidance
-linter-yaml-title-alias: Göttliche Führung
 ---
 # Göttliche Führung
 _Zaubertrick der Erkenntnis_

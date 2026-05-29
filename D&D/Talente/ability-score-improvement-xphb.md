@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Score Improvement
+linter-yaml-title-alias: Ability Score Improvement
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

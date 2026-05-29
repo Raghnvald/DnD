@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Episode 2: Fun in Phandalin"
+linter-yaml-title-alias: "Episode 2: Fun in Phandalin"
 tags:
   - Quelle/5e/oow
 aliases:

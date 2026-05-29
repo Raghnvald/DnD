@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn (Ravenite)
+linter-yaml-title-alias: Dragonborn (Ravenite)
 tags:
   - Quelle/5e/egw
   - Rasse/dragonborn/ravenite

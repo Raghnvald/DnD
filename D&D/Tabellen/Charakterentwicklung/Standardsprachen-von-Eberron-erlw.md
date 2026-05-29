@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Standard Languages of Eberron
+linter-yaml-title-alias: Standard Languages of Eberron
 tags:
   - Quelle/5e/erlw
 aliases:

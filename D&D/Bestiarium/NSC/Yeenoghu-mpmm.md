@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yeenoghu
+linter-yaml-title-alias: Yeenoghu
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/24
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Yeenoghu
-linter-yaml-title-alias: Yeenoghu
 ---
 # [Yeenoghu](3-Mechanics\CLI\bestiary\npc/yeenoghu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 270*  

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Imbued Wood (Shavarran Birch)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Imbued Wood (Shavarran Birch)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +19,6 @@ aliases:
   - Shavarran Birch Rod
   - Shavarran Birch Staff
   - Shavarran Birch Wand
-linter-yaml-title-alias: Imbued Wood (Shavarran Birch)
 ---
 # Imbued Wood (Shavarran Birch)
 *Wondrous item, common (requires attunement)*  

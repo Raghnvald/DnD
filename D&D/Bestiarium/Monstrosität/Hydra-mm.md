@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hydra
+linter-yaml-title-alias: Hydra
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Sumpf

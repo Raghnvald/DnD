@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Noska Ur'gray"
+linter-yaml-title-alias: "Noska Ur'gray"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Noska Ur'gray"
   - Noska Ur'gray
-linter-yaml-title-alias: "Noska Ur'gray"
 ---
 # [Noska Ur'gray](3-Mechanics\CLI\bestiary\npc/noska-urgray-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 213*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pholtus
+linter-yaml-title-alias: Pholtus
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

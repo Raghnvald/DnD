@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kiss of the Changebringer (Awakened)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kiss of the Changebringer (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Kiss of the Changebringer (Awakened)
-linter-yaml-title-alias: Kiss of the Changebringer (Awakened)
 ---
 # Kiss of the Changebringer (Awakened)
 *Wondrous item, legendary (requires attunement)*  

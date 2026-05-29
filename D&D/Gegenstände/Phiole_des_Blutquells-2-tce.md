@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +2 Bloodwell Vial
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: +2 Bloodwell Vial
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +2 Bloodwell Vial
-linter-yaml-title-alias: +2 Bloodwell Vial
 ---
 # +2 Bloodwell Vial
 *Wondrous item, rare (requires attunement by a sorcerer)*  

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Strider Airship
+linter-yaml-title-alias: Strider Airship
 tags:
   - Quelle/5e/efa
   - ttrpg-cli/vehicle/terrain/air
   - ttrpg-cli/vehicle/type/elemental-airship
 aliases:
   - "Strider Airship"
+  - Strider Airship
 ---
 # Strider Airship
 *Source: Eberron: Forge of the Artificer p. 109*  

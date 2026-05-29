@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Minion
+linter-yaml-title-alias: Goblin Minion
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/acheron

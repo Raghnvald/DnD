@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Describe Appearance and Personality; Wisdom
+linter-yaml-title-alias: Describe Appearance and Personality; Wisdom
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Moss Agate
+linter-yaml-title-alias: Moss Agate
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Moss Agate
-linter-yaml-title-alias: Moss Agate
 ---
 # Moss Agate
 *Treasure (gemstone)*  

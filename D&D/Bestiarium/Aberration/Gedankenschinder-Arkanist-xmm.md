@@ -5,6 +5,7 @@ Bezeichnung: Mind Flayer Arcanist
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 11
+linter-yaml-title-alias: Mind Flayer Arcanist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

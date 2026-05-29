@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Basket
+linter-yaml-title-alias: Basket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Basket
-linter-yaml-title-alias: Basket
 ---
 # Basket
 *Adventuring gear*  

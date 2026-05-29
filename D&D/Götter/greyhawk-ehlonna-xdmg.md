@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ehlonna
+linter-yaml-title-alias: Ehlonna
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

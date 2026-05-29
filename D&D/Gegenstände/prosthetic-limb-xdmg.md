@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Prosthetic Limb
+linter-yaml-title-alias: Prosthetic Limb
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Prosthetic Limb
-linter-yaml-title-alias: Prosthetic Limb
 ---
 # Prosthetic Limb
 *Wondrous item, common*  

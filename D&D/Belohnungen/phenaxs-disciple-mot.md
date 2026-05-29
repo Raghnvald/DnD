@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Phenax's Disciple"
+linter-yaml-title-alias: "Phenax's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

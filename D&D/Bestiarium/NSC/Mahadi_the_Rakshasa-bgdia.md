@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mahadi the Rakshasa
+linter-yaml-title-alias: Mahadi the Rakshasa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/14
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Mahadi the Rakshasa
-linter-yaml-title-alias: Mahadi the Rakshasa
 ---
 # Mahadi the Rakshasa
 *Source: Baldur's Gate: Descent Into Avernus p. 127*  

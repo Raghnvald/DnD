@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Hold Monster
 Zaubergrad: 5
+linter-yaml-title-alias: Hold Monster
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (War Domain)
+  - Paladin (Oath of Vengeance)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -12,16 +20,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/optfeature/chains-of-carceri
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (War Domain)
-  - Paladin (Oath of Vengeance)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Hold Monster
-linter-yaml-title-alias: Hold Monster
 ---
 # Hold Monster
 *5th-level, Enchantment*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wreath of the Prism (Exalted)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wreath of the Prism (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Wreath of the Prism (Exalted)
-linter-yaml-title-alias: Wreath of the Prism (Exalted)
 ---
 # Wreath of the Prism (Exalted)
 *Wondrous item, legendary (requires attunement)*  

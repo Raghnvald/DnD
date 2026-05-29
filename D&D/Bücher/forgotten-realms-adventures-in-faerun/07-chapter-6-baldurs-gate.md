@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: Baldur's Gate"
+linter-yaml-title-alias: "Chapter 6: Baldur's Gate"
 tags:
   - Quelle/5e/fraif
 aliases:

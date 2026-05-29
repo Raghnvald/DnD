@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Remorhaz
+linter-yaml-title-alias: Young Remorhaz
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

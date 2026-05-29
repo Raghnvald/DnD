@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Create Food and Water
 Zaubergrad: 3
+linter-yaml-title-alias: Create Food and Water
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid (Circle of the Land, Desert)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/desert
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid (Circle of the Land, Desert)
-  - Paladin
 aliases:
   - Create Food and Water
-linter-yaml-title-alias: Create Food and Water
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

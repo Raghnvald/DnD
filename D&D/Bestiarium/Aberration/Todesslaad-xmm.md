@@ -6,9 +6,11 @@ Bezeichnung: Death Slaad
 Kategorie: Aberration (Gestaltwandler)
 Größe: Mittelgroß
 HG: 10
-Habitat: Planar (LimbosWenn))
+Habitat:
+  - Planar (LimbosWenn))
 image:
 status: WIP
+linter-yaml-title-alias: Death Slaad
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo
@@ -18,7 +20,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Death Slaad
-linter-yaml-title-alias: Death Slaad
 ---
 # [Death Slaad](3-Mechanics\CLI\bestiary\aberration/death-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 287*  

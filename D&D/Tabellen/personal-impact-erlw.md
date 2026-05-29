@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Personal Impact
+linter-yaml-title-alias: Personal Impact
 tags:
   - Quelle/5e/erlw
 aliases:

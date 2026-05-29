@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Schweben
 Zaubergrad: 2
+linter-yaml-title-alias: Schweben
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Levitate
+  - Schweben
 ---
 # Schweben
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

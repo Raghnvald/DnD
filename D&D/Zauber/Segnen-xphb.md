@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Bless
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Life Domain)
+  - Paladin
+  - Sorcerer (Divine Soul, Law)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -19,16 +27,8 @@ tags:
   - Subklasse/divine-soul/law
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Life Domain)
-  - Paladin
-  - Sorcerer (Divine Soul, Law)
 aliases:
   - Bless
-linter-yaml-title-alias: Bless
 ---
 # Bless
 *1st-level, Enchantment*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loyalty
+linter-yaml-title-alias: Loyalty
 tags:
   - Quelle/5e/dmg
 aliases:

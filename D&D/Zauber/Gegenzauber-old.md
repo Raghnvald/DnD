@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gegenzauber
+linter-yaml-title-alias: Gegenzauber
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Counterspell
+  - Gegenzauber
 ---
 # Gegenzauber
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

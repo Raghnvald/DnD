@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Illusionist
+linter-yaml-title-alias: Illusionist
 tags:
   - Klasse/Magier/illusionist
   - Quelle/5e/xphb

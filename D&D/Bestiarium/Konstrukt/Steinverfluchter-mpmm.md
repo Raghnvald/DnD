@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Cursed
+linter-yaml-title-alias: Stone Cursed
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

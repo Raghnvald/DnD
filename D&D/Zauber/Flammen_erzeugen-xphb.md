@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Produce Flame
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -18,13 +23,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
 aliases:
   - Produce Flame
-linter-yaml-title-alias: Produce Flame
 ---
 # Produce Flame
 *cantrip, Conjuration*  

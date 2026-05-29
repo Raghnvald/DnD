@@ -7,6 +7,11 @@ Komponenten: V, M
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d6 gleißend
+linter-yaml-title-alias: Wort des Strahlens
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
@@ -17,13 +22,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (College of Lore)
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Word of Radiance
-linter-yaml-title-alias: Wort des Strahlens
+  - Wort des Strahlens
 ---
 # Wort des Strahlens
 _Zaubertrick der Hervorrufung*

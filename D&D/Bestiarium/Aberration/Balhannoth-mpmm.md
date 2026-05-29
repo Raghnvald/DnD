@@ -10,6 +10,7 @@ Habitat:
   - Küste
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Balhannoth
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

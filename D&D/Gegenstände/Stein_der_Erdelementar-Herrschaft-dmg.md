@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Stone of Controlling Earth Elementals
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stone of Controlling Earth Elementals
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Stone of Controlling Earth Elementals
-linter-yaml-title-alias: Stone of Controlling Earth Elementals
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous item, major, rare*  

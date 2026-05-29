@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Ships in Combat
+linter-yaml-title-alias: Ships in Combat
 tags:
   - Quelle/5e/gos
 aliases:
   - "Ships in Combat"
+  - Ships in Combat
 ---
 # Ships in Combat
 *Source: Ghosts of Saltmarsh p. 198* 

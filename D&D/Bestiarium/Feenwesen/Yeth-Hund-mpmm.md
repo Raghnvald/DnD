@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yeth Hound
+linter-yaml-title-alias: Yeth Hound
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

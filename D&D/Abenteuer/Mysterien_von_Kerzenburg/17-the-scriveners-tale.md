@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "The Scrivener's Tale"
+linter-yaml-title-alias: "The Scrivener's Tale"
 tags:
   - Quelle/5e/cm
 aliases:
+  - "The Scrivener's Tale"
   - The Scrivener's Tale
 ---
 # The Scrivener's Tale

@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: bis der Zauber gebannt wird
 Angriff: CHA
 Schaden: n/a
+linter-yaml-title-alias: Weihen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Warlock (The Fiend)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -14,13 +19,9 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Warlock (The Fiend)
 aliases:
   - Hallow
-linter-yaml-title-alias: Weihen
+  - Weihen
 ---
 # Weihen
 _Hervorrufung des 5. Grades*

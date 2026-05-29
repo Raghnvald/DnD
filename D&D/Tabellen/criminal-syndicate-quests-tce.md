@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Criminal Syndicate Quests
+linter-yaml-title-alias: Criminal Syndicate Quests
 tags:
   - Quelle/5e/tce
 aliases:

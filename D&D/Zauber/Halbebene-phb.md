@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Demiplane
 Zaubergrad: 8
+linter-yaml-title-alias: Demiplane
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
-  - Wizard
 aliases:
   - Demiplane
-linter-yaml-title-alias: Demiplane
 ---
 # Demiplane
 *8th-level, Conjuration*  

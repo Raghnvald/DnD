@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Speed
+linter-yaml-title-alias: Boon of Speed
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

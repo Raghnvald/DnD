@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shalvus Martholio
+linter-yaml-title-alias: Shalvus Martholio
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Shalvus Martholio
-linter-yaml-title-alias: Shalvus Martholio
 ---
 # [Shalvus Martholio](3-Mechanics\CLI\bestiary\npc/shalvus-martholio-skt.md)
 *Source: Storm King's Thunder p. 250*  

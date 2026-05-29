@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: The Multiverse"
+linter-yaml-title-alias: "Appendix A: The Multiverse"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Appendix A: The Multiverse"
   - Appendix A: The Multiverse
 ---
 # Appendix A: The Multiverse

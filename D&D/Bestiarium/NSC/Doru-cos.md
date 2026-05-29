@@ -8,6 +8,7 @@ HG: 5
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Doru
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Doru
-linter-yaml-title-alias: Doru
 ---
 # Doru
 *Source: Curse of Strahd p. 47*  

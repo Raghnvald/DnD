@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spell Scroll (Level 5)
+linter-yaml-title-alias: Spell Scroll (Level 5)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Spell Scroll (Level 5)
-linter-yaml-title-alias: Spell Scroll (Level 5)
 ---
 # Spell Scroll (Level 5)
 *Scroll, rare*  

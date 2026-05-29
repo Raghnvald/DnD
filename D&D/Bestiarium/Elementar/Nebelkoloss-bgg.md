@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mist Hulk
+linter-yaml-title-alias: Mist Hulk
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Magmin
+linter-yaml-title-alias: Magmin
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/fire

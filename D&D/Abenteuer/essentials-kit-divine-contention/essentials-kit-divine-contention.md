@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Essentials Kit Divine Contention
+linter-yaml-title-alias: Index of Essentials Kit Divine Contention
+aliases:
+  - Index of Essentials Kit Divine Contention
 ---
 # Index of Essentials Kit Divine Contention
 

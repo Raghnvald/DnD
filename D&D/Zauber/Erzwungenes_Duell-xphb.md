@@ -7,17 +7,17 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Compelled Duel
+classes:
+  - Paladin
 tags:
   - Klasse/paladin
   - Kompendium/Talent/fey-touched
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Paladin
 aliases:
   - Compelled Duel
-linter-yaml-title-alias: Compelled Duel
 ---
 # Compelled Duel
 *1st-level, Enchantment*  

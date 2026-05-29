@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Wight
+linter-yaml-title-alias: Reduced-Threat Wight
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Wight
-linter-yaml-title-alias: Reduced-Threat Wight
 ---
 # [Reduced-Threat Wight](3-Mechanics\CLI\bestiary\undead/reduced-threat-wight-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gold Dragon; Gold Dragon Personality Traits
+linter-yaml-title-alias: Creating a Gold Dragon; Gold Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

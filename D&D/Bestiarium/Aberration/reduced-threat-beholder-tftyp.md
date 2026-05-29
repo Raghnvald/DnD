@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 13
 status: WIP
+linter-yaml-title-alias: Reduced-Threat Beholder
 tags:
   - Monster/Größe/Groß
   - Monster/HG/13

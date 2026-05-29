@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hunter
+linter-yaml-title-alias: Hunter
 tags:
   - Klasse/Waldläufer/hunter
   - Quelle/5e/xphb

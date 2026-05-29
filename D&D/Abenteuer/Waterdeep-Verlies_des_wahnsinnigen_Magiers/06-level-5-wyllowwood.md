@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 5: Wyllowwood"
+linter-yaml-title-alias: "Level 5: Wyllowwood"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 5: Wyllowwood"
   - Level 5: Wyllowwood
 ---
 # Level 5: Wyllowwood

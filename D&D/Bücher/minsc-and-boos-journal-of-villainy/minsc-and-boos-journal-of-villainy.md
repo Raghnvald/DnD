@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Minsc and Boos Journal of Villainy
+linter-yaml-title-alias: Index of Minsc and Boos Journal of Villainy
+aliases:
+  - Index of Minsc and Boos Journal of Villainy
 ---
 # Index of Minsc and Boos Journal of Villainy
 

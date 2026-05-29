@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tabaxi Minstrel
+linter-yaml-title-alias: Tabaxi Minstrel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

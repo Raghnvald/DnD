@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dancing Sword
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+linter-yaml-title-alias: Dancing Sword
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -16,7 +17,6 @@ aliases:
   - Dancing Scimitar
   - Dancing Shortsword
   - Dancing Sword
-linter-yaml-title-alias: Dancing Sword
 ---
 # Dancing Sword
 *Very rare (requires attunement)*  

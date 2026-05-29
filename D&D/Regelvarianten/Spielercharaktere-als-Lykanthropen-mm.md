@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Player Characters as Lycanthropes
+linter-yaml-title-alias: Player Characters as Lycanthropes
 tags:
   - Quelle/5e/mm
 aliases:

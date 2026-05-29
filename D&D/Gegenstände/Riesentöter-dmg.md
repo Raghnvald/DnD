@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Giant Slayer
 Kategorie: Beliebig, Nahkampfwaffe
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Giant Slayer
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -19,7 +24,6 @@ aliases:
   - Giant Slayer Rapier
   - Giant Slayer Scimitar
   - Giant Slayer Shortsword
-linter-yaml-title-alias: Giant Slayer
 ---
 # Giant Slayer
 *Major, rare*  

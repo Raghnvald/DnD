@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grick Alpha
+linter-yaml-title-alias: Grick Alpha
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

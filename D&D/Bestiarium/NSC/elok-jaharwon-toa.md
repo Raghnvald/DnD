@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elok Jaharwon
+linter-yaml-title-alias: Elok Jaharwon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/toa
 aliases:
   - Elok Jaharwon
-linter-yaml-title-alias: Elok Jaharwon
 ---
 # [Elok Jaharwon](3-Mechanics\CLI\bestiary\npc/elok-jaharwon-toa.md)
 *Source: Tomb of Annihilation p. 67*  

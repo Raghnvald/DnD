@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kala Mabarin
+linter-yaml-title-alias: Kala Mabarin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Kala Mabarin
-linter-yaml-title-alias: Kala Mabarin
 ---
 # [Kala Mabarin](3-Mechanics\CLI\bestiary\npc/kala-mabarin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 70*  

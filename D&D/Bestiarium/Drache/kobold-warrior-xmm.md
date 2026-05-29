@@ -5,6 +5,7 @@ Bezeichnung: Kobold Warrior
 Kategorie: Drache
 Größe: Klein
 HG: 1/8
+linter-yaml-title-alias: Kobold Warrior
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Arktis
@@ -21,7 +22,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Kobold Warrior
-linter-yaml-title-alias: Kobold Warrior
 ---
 # [Kobold Warrior](3-Mechanics\CLI\bestiary\dragon/kobold-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 185. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

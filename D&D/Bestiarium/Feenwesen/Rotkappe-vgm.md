@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Redcap
+linter-yaml-title-alias: Redcap
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Hügel

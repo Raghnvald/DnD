@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Answering (Rebutter)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sword of Answering (Rebutter)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sword of Answering (Rebutter)
-linter-yaml-title-alias: Sword of Answering (Rebutter)
 ---
 # Sword of Answering (Rebutter)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a neutral good creature)*  

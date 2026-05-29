@@ -1,17 +1,17 @@
 ---
 Bezeichnung: "Otto's Irresistible Dance"
+linter-yaml-title-alias: "Otto's Irresistible Dance"
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Wizard
 aliases:
-  - Otto's Irresistible Dance
-linter-yaml-title-alias: Otto's Irresistible Dance
+  - "Otto's Irresistible Dance"
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

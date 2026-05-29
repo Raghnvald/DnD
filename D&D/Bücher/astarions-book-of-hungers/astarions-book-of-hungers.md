@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Astarions Book of Hungers
+linter-yaml-title-alias: Index of Astarions Book of Hungers
+aliases:
+  - Index of Astarions Book of Hungers
 ---
 # Index of Astarions Book of Hungers
 

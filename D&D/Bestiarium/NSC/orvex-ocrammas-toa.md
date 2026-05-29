@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orvex Ocrammas
+linter-yaml-title-alias: Orvex Ocrammas
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Orvex Ocrammas
-linter-yaml-title-alias: Orvex Ocrammas
 ---
 # [Orvex Ocrammas](3-Mechanics\CLI\bestiary\npc/orvex-ocrammas-toa.md)
 *Source: Tomb of Annihilation p. 96*  

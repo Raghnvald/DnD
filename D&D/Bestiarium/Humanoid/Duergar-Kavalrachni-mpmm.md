@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Kavalrachni
+linter-yaml-title-alias: Duergar Kavalrachni
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

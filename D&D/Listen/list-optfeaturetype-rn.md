@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rune Knight Rune
+linter-yaml-title-alias: Rune Knight Rune
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Erevan Ilesere
+linter-yaml-title-alias: Erevan Ilesere
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/elven

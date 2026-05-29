@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wraps of Dyamak
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Wraps of Dyamak
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Wraps of Dyamak
-linter-yaml-title-alias: Wraps of Dyamak
 ---
 # Wraps of Dyamak
 *Wondrous item, legendary (requires attunement by a monk)*  

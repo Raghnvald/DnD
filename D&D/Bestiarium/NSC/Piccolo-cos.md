@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Piccolo
+linter-yaml-title-alias: Piccolo
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Piccolo
-linter-yaml-title-alias: Piccolo
 ---
 # [Piccolo](3-Mechanics\CLI\bestiary\npc/piccolo-cos.md)
 *Source: Curse of Strahd p. 118*  

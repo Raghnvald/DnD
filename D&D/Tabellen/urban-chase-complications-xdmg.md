@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urban Chase Complications
+linter-yaml-title-alias: Urban Chase Complications
 tags:
   - Quelle/5e/xdmg
 aliases:

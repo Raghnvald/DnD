@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chain (10 feet)
+linter-yaml-title-alias: Chain (10 feet)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Chain (10 feet)
-linter-yaml-title-alias: Chain (10 feet)
 ---
 # Chain (10 feet)
 *Adventuring gear*  

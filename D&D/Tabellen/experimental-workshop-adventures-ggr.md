@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Experimental Workshop Adventures
+linter-yaml-title-alias: Experimental Workshop Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

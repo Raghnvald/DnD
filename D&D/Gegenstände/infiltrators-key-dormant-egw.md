@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Infiltrator's Key (Dormant)"
+linter-yaml-title-alias: "Infiltrator's Key (Dormant)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
-  - Infiltrator's Key (Dormant)
-linter-yaml-title-alias: Infiltrator's Key (Dormant)
+  - "Infiltrator's Key (Dormant)"
 ---
 # Infiltrator's Key (Dormant)
 *Wondrous item, legendary (requires attunement)*  

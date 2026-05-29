@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Thornboldt "Thorn" Durst'
+linter-yaml-title-alias: 'Thornboldt "Thorn" Durst'
 tags:
   - Monster/Größe/Klein
   - Monster/HG/3
@@ -10,7 +11,6 @@ tags:
 aliases:
   - 'Thornboldt "Thorn" Durst'
   - Thornboldt "Thorn" Durst
-linter-yaml-title-alias: 'Thornboldt "Thorn" Durst'
 ---
 # [Thornboldt "Thorn" Durst](3-Mechanics\CLI\bestiary\npc/thornboldt-thorn-durst-cos.md)
 *Source: Curse of Strahd p. 217*  

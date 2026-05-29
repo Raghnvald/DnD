@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Dwarven Cuisine"
+linter-yaml-title-alias: "Chapter 3: Dwarven Cuisine"
 tags:
   - Quelle/5e/hf
 aliases:

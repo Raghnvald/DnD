@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Commune
+linter-yaml-title-alias: Commune
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Order Domain)
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -10,15 +17,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Order Domain)
-  - Paladin (Oath of Devotion)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Commune
-linter-yaml-title-alias: Commune
 ---
 # Commune
 *5th-level, Divination (ritual)*  

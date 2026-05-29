@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Gem
+linter-yaml-title-alias: Charm of the Gem
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

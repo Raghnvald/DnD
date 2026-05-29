@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Detect Evil and Good
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -19,16 +27,8 @@ tags:
   - Subklasse/the-genie/dao
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Genie, Dao)
 aliases:
   - Detect Evil and Good
-linter-yaml-title-alias: Detect Evil and Good
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

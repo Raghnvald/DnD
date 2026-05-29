@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 7: Escape from the Underdark"
+linter-yaml-title-alias: "Chapter 7: Escape from the Underdark"
 tags:
   - Quelle/5e/oota
 aliases:

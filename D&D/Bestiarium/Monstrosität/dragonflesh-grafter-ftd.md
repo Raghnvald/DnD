@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonflesh Grafter
+linter-yaml-title-alias: Dragonflesh Grafter
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

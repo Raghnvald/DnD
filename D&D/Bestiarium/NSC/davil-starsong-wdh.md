@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Davil Starsong
+linter-yaml-title-alias: Davil Starsong
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Davil Starsong
-linter-yaml-title-alias: Davil Starsong
 ---
 # [Davil Starsong](3-Mechanics\CLI\bestiary\npc/davil-starsong-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 199*  

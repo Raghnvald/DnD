@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Score Point Costs
+linter-yaml-title-alias: Ability Score Point Costs
 tags:
   - Quelle/5e/xphb
 aliases:

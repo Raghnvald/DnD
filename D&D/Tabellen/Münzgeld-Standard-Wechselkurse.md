@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Münzgeld; Standard-Wechselkurse
+linter-yaml-title-alias: Münzgeld; Standard-Wechselkurse
 tags:
   - Quelle/5e/phb
 aliases:
   - Coinage; Standard Exchange Rates
+  - Münzgeld; Standard-Wechselkurse
 ---
 # Münzgeld; Standard-Wechselkurse
 *Source: SRD / Basic Rules* 

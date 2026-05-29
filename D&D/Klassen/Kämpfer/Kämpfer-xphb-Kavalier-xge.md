@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Cavalier
+linter-yaml-title-alias: Cavalier
 tags:
   - Klasse/Kämpfer/cavalier
   - Quelle/5e/xge
 aliases:
   - Cavalier
-linter-yaml-title-alias: Cavalier
 ---
 # Cavalier
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

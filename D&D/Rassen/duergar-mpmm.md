@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar
+linter-yaml-title-alias: Duergar
 tags:
   - Quelle/5e/mpmm
   - Rasse/duergar

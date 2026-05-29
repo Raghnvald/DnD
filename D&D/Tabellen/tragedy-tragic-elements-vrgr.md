@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tragedy; Tragic Elements
+linter-yaml-title-alias: Tragedy; Tragic Elements
 tags:
   - Quelle/5e/vrgr
 aliases:

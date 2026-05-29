@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mimic Chair
+linter-yaml-title-alias: Mimic Chair
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flaywind
+linter-yaml-title-alias: Flaywind
 tags:
   - Kompendium/Bedrohung/est
   - Quelle/5e/tce

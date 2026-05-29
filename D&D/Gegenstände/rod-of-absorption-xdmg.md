@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rod of Absorption
+linter-yaml-title-alias: Rod of Absorption
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Rod of Absorption
-linter-yaml-title-alias: Rod of Absorption
 ---
 # Rod of Absorption
 *Rod, very rare (requires attunement)*  

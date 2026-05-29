@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Regisaur
+linter-yaml-title-alias: Regisaur
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/14

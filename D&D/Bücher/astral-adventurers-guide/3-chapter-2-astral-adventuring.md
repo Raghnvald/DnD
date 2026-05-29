@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Astral Adventuring"
+linter-yaml-title-alias: "Chapter 2: Astral Adventuring"
 tags:
   - Quelle/5e/aag
 aliases:

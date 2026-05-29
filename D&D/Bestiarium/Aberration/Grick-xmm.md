@@ -5,6 +5,7 @@ Bezeichnung: Grick
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
+linter-yaml-title-alias: Grick
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

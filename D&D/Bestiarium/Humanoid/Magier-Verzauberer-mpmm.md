@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Enchanter Wizard
+linter-yaml-title-alias: Enchanter Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

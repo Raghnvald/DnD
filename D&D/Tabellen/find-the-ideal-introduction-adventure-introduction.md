@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Find the Ideal Introduction; Adventure Introduction
+linter-yaml-title-alias: Find the Ideal Introduction; Adventure Introduction
 tags:
   - Quelle/5e/dmg
 aliases:

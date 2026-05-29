@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bezauberung der Genesung
+linter-yaml-title-alias: Bezauberung der Genesung
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dmg
 aliases:
+  - Bezauberung der Genesung
   - Charm of Restoration
 ---
 # Bezauberung der Genesung

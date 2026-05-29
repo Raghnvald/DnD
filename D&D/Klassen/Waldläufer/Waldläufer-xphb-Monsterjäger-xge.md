@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Slayer
+linter-yaml-title-alias: Monster Slayer
 tags:
   - Klasse/Waldläufer/monster-slayer
   - Quelle/5e/xge

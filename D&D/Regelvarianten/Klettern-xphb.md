@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Climbing
+linter-yaml-title-alias: Climbing
 tags:
   - Quelle/5e/xphb
 aliases:

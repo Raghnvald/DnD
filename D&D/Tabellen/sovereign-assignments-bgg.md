@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Assignments
+linter-yaml-title-alias: Sovereign Assignments
 tags:
   - Quelle/5e/bgg
 aliases:

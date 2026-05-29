@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of Deception
+linter-yaml-title-alias: Champion of Deception
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of Deception"
+  - Champion of Deception
 ---
 # Champion of Deception
 *Piety Trait*  

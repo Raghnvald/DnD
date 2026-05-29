@@ -5,17 +5,18 @@ Bezeichnung: Sarcelle Malinosh
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 6
-Habitat: /
+Habitat:
+  - /
 image: token/sarcelle-malinosh-veor.webp
 status: completed
+linter-yaml-title-alias: Sarcelle Malinosh
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/veor
 aliases:
   - Sarcelle Malinosh
-linter-yaml-title-alias: Sarcelle Malinosh
 ---
 # Sarcelle Malinosh
 *Quelle: Vecna: Vorabend der Verdammnis*  

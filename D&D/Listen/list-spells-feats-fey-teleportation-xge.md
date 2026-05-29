@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Fey Teleportation
+linter-yaml-title-alias: Spells for Fey Teleportation
 tags:
   - Zauber/list/feat/fey-teleportation
 aliases:

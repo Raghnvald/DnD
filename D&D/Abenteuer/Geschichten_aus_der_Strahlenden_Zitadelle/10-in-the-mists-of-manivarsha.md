@@ -1,5 +1,6 @@
 ---
 Bezeichnung: In the Mists of Manivarsha
+linter-yaml-title-alias: In the Mists of Manivarsha
 tags:
   - Quelle/5e/jttrc
 aliases:

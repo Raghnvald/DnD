@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Har'Akir Adventures"
+linter-yaml-title-alias: "Har'Akir Adventures"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Har'Akir Adventures"
   - Har'Akir Adventures
 ---
 # Har'Akir Adventures

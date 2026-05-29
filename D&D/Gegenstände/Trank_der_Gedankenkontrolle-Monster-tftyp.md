@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Mind Control (monster)
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Mind Control (monster)
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/tftyp
 aliases:
   - Potion of Mind Control (monster)
-linter-yaml-title-alias: Potion of Mind Control (monster)
 ---
 # Potion of Mind Control (monster)
 *Potion, very rare*  

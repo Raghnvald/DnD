@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Grasping Vine
 Zaubergrad: 4
+linter-yaml-title-alias: Grasping Vine
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
 aliases:
   - Grasping Vine
-linter-yaml-title-alias: Grasping Vine
 ---
 # Grasping Vine
 *4th-level, Conjuration*  

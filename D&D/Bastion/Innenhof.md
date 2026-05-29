@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Courtyard
+linter-yaml-title-alias: Courtyard
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

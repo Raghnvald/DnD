@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Helm of Awareness
+linter-yaml-title-alias: Helm of Awareness
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

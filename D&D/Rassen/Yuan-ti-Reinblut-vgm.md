@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yuan-ti Pureblood
+linter-yaml-title-alias: Yuan-ti Pureblood
 tags:
   - Quelle/5e/vgm
   - Rasse/yuan-ti-pureblood

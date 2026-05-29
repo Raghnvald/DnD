@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sea Elf
+linter-yaml-title-alias: Sea Elf
 tags:
   - Quelle/5e/mpmm
   - Rasse/sea-elf

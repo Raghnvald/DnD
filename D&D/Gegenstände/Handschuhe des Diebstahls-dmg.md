@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Gloves of Thievery
+linter-yaml-title-alias: Gloves of Thievery
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Gloves of Thievery
-linter-yaml-title-alias: Gloves of Thievery
 ---
 # Gloves of Thievery
 *Wondrous item, major, uncommon*  

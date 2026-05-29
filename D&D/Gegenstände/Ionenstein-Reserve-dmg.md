@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Reserve
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Reserve
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Reserve
-linter-yaml-title-alias: Ioun Stone, Reserve
 ---
 # Ioun Stone, Reserve
 *Wondrous item, major, rare (requires attunement)*  

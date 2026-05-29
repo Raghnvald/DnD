@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Sorcery
+linter-yaml-title-alias: Storm Sorcery
 tags:
   - Klasse/Zauberer/storm
   - Quelle/5e/xge

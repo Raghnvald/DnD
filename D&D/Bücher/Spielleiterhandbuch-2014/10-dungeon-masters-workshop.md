@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Dungeon Master's Workshop"
+linter-yaml-title-alias: "Dungeon Master's Workshop"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Dungeon Master's Workshop"
   - Dungeon Master's Workshop
 ---
 # Dungeon Master's Workshop

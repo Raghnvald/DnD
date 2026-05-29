@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tower of Storms
+linter-yaml-title-alias: Tower of Storms
 tags:
   - Quelle/5e/dip
 aliases:

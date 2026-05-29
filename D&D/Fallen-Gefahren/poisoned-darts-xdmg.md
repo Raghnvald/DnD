@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisoned Darts
+linter-yaml-title-alias: Poisoned Darts
 tags:
   - Kompendium/Bedrohung/trp
   - Quelle/5e/xdmg

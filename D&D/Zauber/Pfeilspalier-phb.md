@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Cordon of Arrows
 Zaubergrad: 2
+linter-yaml-title-alias: Cordon of Arrows
+classes:
+  - Bard (Magical Secrets)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Waldläufer
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Ranger
 aliases:
   - Cordon of Arrows
-linter-yaml-title-alias: Cordon of Arrows
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  

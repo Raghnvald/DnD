@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Remorhaz
+linter-yaml-title-alias: Remorhaz
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis

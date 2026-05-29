@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Far Scribe
+linter-yaml-title-alias: Far Scribe
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/tce

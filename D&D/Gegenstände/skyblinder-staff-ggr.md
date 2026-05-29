@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Skyblinder Staff
+Eigenschaften:
+  - erfordert Einstimmung
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Skyblinder Staff
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,7 +13,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Skyblinder Staff
-linter-yaml-title-alias: Skyblinder Staff
 ---
 # Skyblinder Staff
 *Staff, weapon, uncommon (requires attunement)*  

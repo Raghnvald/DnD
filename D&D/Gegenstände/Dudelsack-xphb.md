@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bagpipes
+linter-yaml-title-alias: Bagpipes
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bagpipes
-linter-yaml-title-alias: Bagpipes
 ---
 # Bagpipes
 *Instrument*  

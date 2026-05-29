@@ -1,5 +1,9 @@
 ---
 Bezeichnung: "**Character Name**"
+Image:
+linter-yaml-title-alias: "**Character Name**"
+aliases:
+  - "**Character Name**"
 ac: 15
 AC1: false
 AC2: true
@@ -22,7 +26,6 @@ HAIR:
 HI:
 hp: 57
 IDEAL:
-IMAGE:
 LBS:
 level: 6
 PERS: ""

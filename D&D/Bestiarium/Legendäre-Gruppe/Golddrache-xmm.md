@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gold Dragon
+linter-yaml-title-alias: Gold Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

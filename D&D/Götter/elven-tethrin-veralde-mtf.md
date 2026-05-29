@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tethrin Veraldé
+linter-yaml-title-alias: Tethrin Veraldé
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/elven

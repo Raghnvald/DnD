@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Injuries
+linter-yaml-title-alias: Injuries
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Bead of Force
+linter-yaml-title-alias: Bead of Force
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Bead of Force
-linter-yaml-title-alias: Bead of Force
 ---
 # Bead of Force
 *Wondrous item, rare*  

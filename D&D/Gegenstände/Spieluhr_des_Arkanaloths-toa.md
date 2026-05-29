@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Arcanaloth's Music Box"
+linter-yaml-title-alias: "Arcanaloth's Music Box"
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/toa
 aliases:
-  - Arcanaloth's Music Box
-linter-yaml-title-alias: Arcanaloth's Music Box
+  - "Arcanaloth's Music Box"
 ---
 # Arcanaloth's Music Box
 

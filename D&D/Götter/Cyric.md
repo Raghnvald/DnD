@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cyric, Gott der Lügen
+linter-yaml-title-alias: Cyric, Gott der Lügen
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/List
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Cyric
+  - Cyric, Gott der Lügen
 ---
 # Cyric, Gott der Lügen
 *Quelle: SRD / Grundregelwerk* 

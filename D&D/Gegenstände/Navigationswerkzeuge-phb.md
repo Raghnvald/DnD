@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Navigationswerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Navigationswerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Navigator's Tools
-linter-yaml-title-alias: Navigator's Tools
+  - Navigationswerkzeuge
 ---
 # Navigationswerkzeuge
 *Werkzeug*

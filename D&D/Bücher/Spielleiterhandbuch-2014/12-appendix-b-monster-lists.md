@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Monster Lists"
+linter-yaml-title-alias: "Appendix B: Monster Lists"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Appendix B: Monster Lists"
   - Appendix B: Monster Lists
 ---
 # Appendix B: Monster Lists

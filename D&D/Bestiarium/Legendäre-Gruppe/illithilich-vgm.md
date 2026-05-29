@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Illithilich
+linter-yaml-title-alias: Illithilich
 tags:
   - Monster/legendary-group
   - Quelle/5e/vgm

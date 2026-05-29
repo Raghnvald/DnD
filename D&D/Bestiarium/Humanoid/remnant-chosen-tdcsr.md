@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Remnant Chosen
+linter-yaml-title-alias: Remnant Chosen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

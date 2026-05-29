@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orog
+linter-yaml-title-alias: Orog
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

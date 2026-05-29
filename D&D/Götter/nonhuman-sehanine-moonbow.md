@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sehanine Moonbow
+linter-yaml-title-alias: Sehanine Moonbow
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/nonhuman

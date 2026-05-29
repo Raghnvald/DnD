@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Buildings; Shop
+linter-yaml-title-alias: Random Buildings; Shop
 tags:
   - Quelle/5e/dmg
 aliases:

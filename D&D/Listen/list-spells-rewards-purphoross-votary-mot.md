@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Purphoros's Votary"
+linter-yaml-title-alias: "Spells for Purphoros's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/purphoross-votary
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Way of the Open Hand
+linter-yaml-title-alias: Spells for Way of the Open Hand
 tags:
   - Zauber/list/subclass/way-of-the-open-hand
 aliases:

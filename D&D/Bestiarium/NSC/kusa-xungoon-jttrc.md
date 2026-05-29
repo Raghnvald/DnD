@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kusa Xungoon
+linter-yaml-title-alias: Kusa Xungoon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Kusa Xungoon
-linter-yaml-title-alias: Kusa Xungoon
 ---
 # [Kusa Xungoon](3-Mechanics\CLI\bestiary\npc/kusa-xungoon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 20*  

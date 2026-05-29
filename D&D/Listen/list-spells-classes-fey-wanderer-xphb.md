@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Fey Wanderer
+linter-yaml-title-alias: Spells for Fey Wanderer
 tags:
   - Zauber/list/subclass/fey-wanderer
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Iuz
+linter-yaml-title-alias: Iuz
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/greyhawk

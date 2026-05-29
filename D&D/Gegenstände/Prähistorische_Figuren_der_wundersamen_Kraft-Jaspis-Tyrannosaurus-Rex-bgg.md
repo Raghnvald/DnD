@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
@@ -8,7 +9,6 @@ tags:
 aliases:
   - "Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex"
   - Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex
-linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex
 ---
 # Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex
 *Wondrous item, legendary*  

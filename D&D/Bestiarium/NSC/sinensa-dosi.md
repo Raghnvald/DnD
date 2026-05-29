@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sinensa
+linter-yaml-title-alias: Sinensa
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dosi
 aliases:
   - Sinensa
-linter-yaml-title-alias: Sinensa
 ---
 # [Sinensa](3-Mechanics\CLI\bestiary\npc/sinensa-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 45*  

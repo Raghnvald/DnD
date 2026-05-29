@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Mastery
+linter-yaml-title-alias: Ioun Stone, Mastery
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Mastery
-linter-yaml-title-alias: Ioun Stone, Mastery
 ---
 # Ioun Stone, Mastery
 *Wondrous item, legendary (requires attunement)*  

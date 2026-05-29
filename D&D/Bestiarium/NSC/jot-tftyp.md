@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jot
+linter-yaml-title-alias: Jot
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Jot
-linter-yaml-title-alias: Jot
 ---
 # [Jot](3-Mechanics\CLI\bestiary\npc/jot-tftyp.md)
 *Source: Tales from the Yawning Portal p. 15*  

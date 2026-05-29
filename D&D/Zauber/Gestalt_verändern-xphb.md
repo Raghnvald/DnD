@@ -7,6 +7,16 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 status: WIP
+linter-yaml-title-alias: Alter Self
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Draconic Sorcery)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -20,18 +30,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/master-of-myriad-forms
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Draconic Sorcery)
-  - Wizard
 aliases:
   - Alter Self
-linter-yaml-title-alias: Alter Self
 ---
 # Alter Self
 *2nd-level, Transmutation*  

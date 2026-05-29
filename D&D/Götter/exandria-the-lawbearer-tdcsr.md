@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Lawbearer
+linter-yaml-title-alias: The Lawbearer
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order

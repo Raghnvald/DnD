@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Rival Intern
+linter-yaml-title-alias: Rival Intern
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ai
 aliases:
   - "Rival Intern"
+  - Rival Intern
 ---
 # Rival Intern
 *Source: Acquisitions Incorporated p. 51*  

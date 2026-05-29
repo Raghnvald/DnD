@@ -8,6 +8,7 @@ HG: "1"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Chained Library
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1

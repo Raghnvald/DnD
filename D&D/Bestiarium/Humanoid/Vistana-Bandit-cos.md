@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vistana Bandit
+linter-yaml-title-alias: Vistana Bandit
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

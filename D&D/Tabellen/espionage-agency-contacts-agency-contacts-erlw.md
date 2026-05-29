@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Espionage Agency Contacts; Agency Contacts
+linter-yaml-title-alias: Espionage Agency Contacts; Agency Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Mask of Many Faces
+linter-yaml-title-alias: Spells for Mask of Many Faces
 tags:
   - Zauber/list/optfeature/mask-of-many-faces
 aliases:

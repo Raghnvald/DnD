@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Construct Encounters
+linter-yaml-title-alias: Giant Construct Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

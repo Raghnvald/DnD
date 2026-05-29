@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Middle Dura; Bazaar Merchants
+linter-yaml-title-alias: Middle Dura; Bazaar Merchants
 tags:
   - Quelle/5e/erlw
 aliases:

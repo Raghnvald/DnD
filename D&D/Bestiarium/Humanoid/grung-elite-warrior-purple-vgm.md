@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grung Elite Warrior (Purple)
+linter-yaml-title-alias: Grung Elite Warrior (Purple)
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Wald

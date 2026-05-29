@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stirring Scaled Ornament
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stirring Scaled Ornament
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Stirring Scaled Ornament
-linter-yaml-title-alias: Stirring Scaled Ornament
 ---
 # Stirring Scaled Ornament
 *Wondrous item, rare (requires attunement)*  

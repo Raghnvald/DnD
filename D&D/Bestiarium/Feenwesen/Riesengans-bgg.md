@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Goose
+linter-yaml-title-alias: Giant Goose
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

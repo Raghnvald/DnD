@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Starting Area
+linter-yaml-title-alias: Starting Area
 tags:
   - Quelle/5e/dmg
 aliases:

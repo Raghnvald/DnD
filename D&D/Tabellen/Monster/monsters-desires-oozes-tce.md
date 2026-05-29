@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Oozes"
+linter-yaml-title-alias: "Monsters' Desires; Oozes"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Oozes"
   - Monsters' Desires; Oozes
 ---
 # Monsters' Desires; Oozes

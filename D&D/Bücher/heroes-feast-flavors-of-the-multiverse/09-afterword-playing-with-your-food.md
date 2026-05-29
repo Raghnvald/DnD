@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Afterword: Playing with Your Food"
+linter-yaml-title-alias: "Afterword: Playing with Your Food"
 tags:
   - Quelle/5e/hffotm
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frost Rune
+linter-yaml-title-alias: Frost Rune
 tags:
   - Kompendium/Optionales/rn
   - Quelle/5e/tce

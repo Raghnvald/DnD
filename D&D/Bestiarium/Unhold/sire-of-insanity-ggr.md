@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sire of Insanity
+linter-yaml-title-alias: Sire of Insanity
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/12

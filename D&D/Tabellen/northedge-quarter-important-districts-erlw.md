@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Northedge Quarter: Important Districts"
+linter-yaml-title-alias: "Northedge Quarter: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Northedge Quarter: Important Districts"
   - Northedge Quarter: Important Districts
 ---
 # Northedge Quarter: Important Districts

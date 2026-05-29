@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hiddukel
+linter-yaml-title-alias: Hiddukel
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/dragonlance

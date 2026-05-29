@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pyroconverger
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Pyroconverger
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Pyroconverger
-linter-yaml-title-alias: Pyroconverger
 ---
 # Pyroconverger
 *Wondrous item, uncommon (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Fantasy Settings
+linter-yaml-title-alias: Dark Fantasy Settings
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brandobaris
+linter-yaml-title-alias: Brandobaris
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/halfling

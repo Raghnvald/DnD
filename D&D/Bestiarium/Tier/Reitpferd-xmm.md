@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riding Horse
+linter-yaml-title-alias: Riding Horse
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ritual
+linter-yaml-title-alias: Ritual
 tags:
   - Quelle/5e/xphb
 aliases:

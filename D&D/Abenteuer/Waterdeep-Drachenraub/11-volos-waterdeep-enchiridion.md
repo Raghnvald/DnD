@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Volo's Waterdeep Enchiridion"
+linter-yaml-title-alias: "Volo's Waterdeep Enchiridion"
 tags:
   - Quelle/5e/wdh
 aliases:
+  - "Volo's Waterdeep Enchiridion"
   - Volo's Waterdeep Enchiridion
 ---
 # Volo's Waterdeep Enchiridion

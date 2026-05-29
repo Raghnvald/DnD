@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Call Lightning
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Tempest Domain)
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,14 +20,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Tempest Domain)
-  - Druid
 aliases:
   - Call Lightning
-linter-yaml-title-alias: Call Lightning
 ---
 # Call Lightning
 *3rd-level, Conjuration*  

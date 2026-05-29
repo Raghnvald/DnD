@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Djinni Summoning
+linter-yaml-title-alias: Ring of Djinni Summoning
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Djinni Summoning
-linter-yaml-title-alias: Ring of Djinni Summoning
 ---
 # Ring of Djinni Summoning
 *Ring, legendary (requires attunement)*  

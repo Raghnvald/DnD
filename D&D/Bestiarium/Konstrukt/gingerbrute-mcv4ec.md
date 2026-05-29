@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gingerbrute
+linter-yaml-title-alias: Gingerbrute
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-2

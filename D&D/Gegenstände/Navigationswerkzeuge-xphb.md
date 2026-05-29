@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Navigator's Tools"
+linter-yaml-title-alias: "Navigator's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Navigator's Tools
-linter-yaml-title-alias: Navigator's Tools
+  - "Navigator's Tools"
 ---
 # Navigator's Tools
 *Tool*  

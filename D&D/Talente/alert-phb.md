@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alert
+linter-yaml-title-alias: Alert
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

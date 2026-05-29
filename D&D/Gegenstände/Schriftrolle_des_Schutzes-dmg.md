@@ -1,26 +1,42 @@
 ---
-Bezeichnung: Scroll of Protection
+Bezeichnung: Schriftrolle des Schutzes
 Kategorie: Schriftrolle
+status: WIP
+linter-yaml-title-alias: Schriftrolle des Schutzes
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/dmg
 aliases:
-  - Scroll of Protection
-linter-yaml-title-alias: Scroll of Protection
+  - Schriftrolle des Schutzes
 ---
-# Scroll of Protection
-*Scroll, minor, rare*  
+# Schriftrolle des Schutzes
+*Schriftrolle, selten*  
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
-- [Scroll of Protection from Aberrations](scroll-of-protection-from-aberrations-dmg.md)
-- [Scroll of Protection from Beasts](scroll-of-protection-from-beasts-dmg.md)
-- [Scroll of Protection from Celestials](scroll-of-protection-from-celestials-dmg.md)
-- [Scroll of Protection from Elementals](scroll-of-protection-from-elementals-dmg.md)
-- [Scroll of Protection from Fey](scroll-of-protection-from-fey-dmg.md)
-- [Scroll of Protection from Fiends](scroll-of-protection-from-fiends-dmg.md)
-- [Scroll of Protection from Plants](scroll-of-protection-from-plants-dmg.md)
-- [Scroll of Protection from Undead](scroll-of-protection-from-undead-dmg.md)
+- [[Schriftrolle_des_Schutzes_vor_Aberrationen-dmg|Schriftrolle des Schutzes vor Aberrationen]]
+- [[Schriftrolle_des_Schutzes_vor_Celestischen_Wesen-dmg|Schriftrolle des Schutzes vor Celestischen Wesen]]
+- [[Schriftrolle_des_Schutzes_vor_Elementaren-dmg|Schriftrolle des Schutzes vor Elementaren]]
+- [[Schriftrolle_des_Schutzes_vor_Feenwesen-dmg|Schriftrolle des Schutzes vor Feenwesen]]
+- [[Schriftrolle_des_Schutzes_vor_Pflanzen-dmg|Schriftrolle des Schutzes vor Pflanzen]]
+- [[Schriftrolle_des_Schutzes_vor_Tieren-dmg|Schriftrolle des Schutzes vor Tieren]]
+- [[Schriftrolle_des_Schutzes_vor_Unholden-dmg|Schriftrolle des Schutzes vor Unholden]]
+- [[Schriftrolle_des_Schutzes_vor_Untoten-dmg|Schriftrolle des Schutzes vor Untoten]]
 
-*Source: Dungeon Master's Guide p. 199*
+Jede Schriftrolle des Schutzes wirkt gegen eine bestimmte Art Kreatur, die vom SL bestimmt oder zufällig anhand der folgenden Tabelle ausgewählt wird.
+
+| W100  | Kreatur           |
+| ----- | ----------------- |
+| 01-10 | Aberrationen      |
+| 11-20 | Tiere             | 
+| 21-30 | Celestische Wesen |
+| 31-40 | Elementare        |
+| 41-50 | Feenwesen         |
+| 51-75 | Unholde           |
+| 76-80 | Pflanzen          |
+| 81-00 | Untote            |
+
+Wenn du eine Aktion verwendest, um die Schriftrolle zu lesen, bewirkt dies, dass sich in einem Radius von 1,50 Meter um dich herum eine unsichtbare Barriere in Form eines 3 Meter hohen Zylinders bildet. Diese Barriere sorgt 5 Minuten lang dafür, dass Kreaturen des bestimmten Typs nicht in die Barriere eintreten oder irgendetwas in ihr beeinträchtigen können.
+
+*Quelle: Spielleiterhandbuch S. 186*

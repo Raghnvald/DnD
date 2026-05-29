@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kenku
+linter-yaml-title-alias: Kenku
 tags:
   - Quelle/5e/mpmm
   - Rasse/kenku

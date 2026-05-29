@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Baba Lysaga
+linter-yaml-title-alias: Baba Lysaga
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/cos
 aliases:
   - Baba Lysaga
-linter-yaml-title-alias: Baba Lysaga
 ---
 # Baba Lysaga
 *Source: Curse of Strahd p. 228*  

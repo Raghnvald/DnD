@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Soulblade
+linter-yaml-title-alias: Duergar Soulblade
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

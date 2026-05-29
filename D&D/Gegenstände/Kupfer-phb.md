@@ -1,15 +1,19 @@
 ---
 Bezeichnung: Kupfer
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 SM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Kupfer
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Copper
+  - Kupfer
 ---
 # Kupfer
 *Handelsware*

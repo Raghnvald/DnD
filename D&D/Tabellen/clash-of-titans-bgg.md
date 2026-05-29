@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clash of Titans
+linter-yaml-title-alias: Clash of Titans
 tags:
   - Quelle/5e/bgg
 aliases:

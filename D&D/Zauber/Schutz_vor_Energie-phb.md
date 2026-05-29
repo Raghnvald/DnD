@@ -1,6 +1,19 @@
 ---
 Bezeichnung: Protection from Energy
 Zaubergrad: 3
+linter-yaml-title-alias: Protection from Energy
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Druid (Circle of the Land, Desert)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Ancients)
+  - Paladin (Oath of Vengeance)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -16,21 +29,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Druid (Circle of the Land, Desert)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Ancients)
-  - Paladin (Oath of Vengeance)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Protection from Energy
-linter-yaml-title-alias: Protection from Energy
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

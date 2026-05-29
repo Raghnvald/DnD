@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Salvage Operation"
+linter-yaml-title-alias: "Chapter 4: Salvage Operation"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Chapter 4: Salvage Operation"
   - Chapter 4: Salvage Operation
 ---
 # Chapter 4: Salvage Operation

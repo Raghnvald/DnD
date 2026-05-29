@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: The Northern Wastes"
+linter-yaml-title-alias: "Chapter 5: The Northern Wastes"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Chapter 5: The Northern Wastes"
   - Chapter 5: The Northern Wastes
 ---
 # Chapter 5: The Northern Wastes

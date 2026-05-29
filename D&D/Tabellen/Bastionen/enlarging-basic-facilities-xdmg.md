@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enlarging Basic Facilities
 Kategorie: Bastion
+linter-yaml-title-alias: Enlarging Basic Facilities
 tags:
   - Quelle/5e/xdmg
 aliases:

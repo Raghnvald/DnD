@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Selesnya Keyrune
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Selesnya Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Selesnya Keyrune
-linter-yaml-title-alias: Selesnya Keyrune
 ---
 # Selesnya Keyrune
 *Wondrous item, rare (requires attunement by a member of the Selesnya guild)*  

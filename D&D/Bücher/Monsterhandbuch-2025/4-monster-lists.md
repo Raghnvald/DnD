@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Lists
+linter-yaml-title-alias: Monster Lists
 tags:
   - Quelle/5e/xmm
 aliases:

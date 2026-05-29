@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf
+linter-yaml-title-alias: Elf
 tags:
   - Quelle/5e/phb
   - Rasse/elf

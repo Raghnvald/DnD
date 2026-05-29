@@ -2,12 +2,14 @@
 Bezeichnung: Mithrilrüstung
 Kategorie: Rüstung
 Rüstung: Mittel oder Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Mithrilrüstung
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -15,7 +17,6 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Mithral Armor
   - Mithral Breastplate
   - Mithral Chain Mail
   - Mithral Chain Shirt
@@ -25,7 +26,7 @@ aliases:
   - Mithral Scale Mail
   - Mithral Spiked Armor
   - Mithral Splint Armor
-linter-yaml-title-alias: Mithral Armor
+  - Mithrilrüstung
 ---
 # Mithrilrüstung
 *Minor, uncommon*  

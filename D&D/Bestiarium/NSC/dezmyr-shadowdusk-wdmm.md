@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dezmyr Shadowdusk
+linter-yaml-title-alias: Dezmyr Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/17
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Dezmyr Shadowdusk
-linter-yaml-title-alias: Dezmyr Shadowdusk
 ---
 # [Dezmyr Shadowdusk](3-Mechanics\CLI\bestiary\npc/dezmyr-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 287*  

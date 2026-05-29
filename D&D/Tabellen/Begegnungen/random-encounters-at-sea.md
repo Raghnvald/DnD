@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Encounters at Sea
+linter-yaml-title-alias: Random Encounters at Sea
 tags:
   - Quelle/5e/dmg
 aliases:

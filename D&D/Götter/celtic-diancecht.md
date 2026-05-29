@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Diancecht
+linter-yaml-title-alias: Diancecht
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/life

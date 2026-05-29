@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rock Gnome Recluse
+linter-yaml-title-alias: Rock Gnome Recluse
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
   - Quelle/5e/dip
 aliases:
   - Rock Gnome Recluse

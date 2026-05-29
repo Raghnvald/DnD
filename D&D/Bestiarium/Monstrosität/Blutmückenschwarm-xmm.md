@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Stirges
+linter-yaml-title-alias: Swarm of Stirges
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

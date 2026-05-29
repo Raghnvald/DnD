@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Reaper's Scream"
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: "Reaper's Scream"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgg
 aliases:
-  - Reaper's Scream
-linter-yaml-title-alias: Reaper's Scream
+  - "Reaper's Scream"
 ---
 # Reaper's Scream
 *Weapon (morningstar), legendary (requires attunement)*  

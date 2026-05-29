@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharn Heights Adventures
+linter-yaml-title-alias: Sharn Heights Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

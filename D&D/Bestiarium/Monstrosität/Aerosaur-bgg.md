@@ -7,7 +7,9 @@ Größe: Gigantisch
 HG: "10"
 Habitat:
   - /
+image: token/aerosaur-bgg.webp
 status: WIP
+linter-yaml-title-alias: Aerosaur
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/10

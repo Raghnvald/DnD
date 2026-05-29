@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Manacles
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 2 GM
+Gew.: 3,0 kg
+status: WIP
+linter-yaml-title-alias: Manacles
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Manacles
-linter-yaml-title-alias: Manacles
 ---
 # Manacles
 *Adventuring gear*  

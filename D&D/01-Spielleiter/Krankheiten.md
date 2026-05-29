@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Diseases
+linter-yaml-title-alias: Diseases
 tags:
   - Quelle/5e/phb
   - Quelle/5e/vrgr

@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Gust of Wind
 Zaubergrad: 2
+linter-yaml-title-alias: Gust of Wind
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -13,17 +22,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/rush-of-the-gale-spirits
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Gust of Wind
-linter-yaml-title-alias: Gust of Wind
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

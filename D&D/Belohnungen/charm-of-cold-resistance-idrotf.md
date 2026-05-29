@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Cold Resistance
+linter-yaml-title-alias: Charm of Cold Resistance
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

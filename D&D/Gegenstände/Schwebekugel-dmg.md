@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Schwebekugel
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Schwebekugel
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Driftglobe
-linter-yaml-title-alias: Driftglobe
+  - Schwebekugel
 ---
 # Schwebekugel
 *Wundersamer Gegenstand, ungewöhnlich*  

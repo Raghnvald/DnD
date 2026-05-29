@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gelatinous Cube
+linter-yaml-title-alias: Gelatinous Cube
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

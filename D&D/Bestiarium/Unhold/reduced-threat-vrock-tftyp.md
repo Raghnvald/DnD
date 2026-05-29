@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Vrock
+linter-yaml-title-alias: Reduced-Threat Vrock
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

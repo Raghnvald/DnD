@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Malar
+linter-yaml-title-alias: Malar
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/forgotten-realms

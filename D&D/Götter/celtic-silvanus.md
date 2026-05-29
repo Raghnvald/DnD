@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silvanus
+linter-yaml-title-alias: Silvanus
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/nature

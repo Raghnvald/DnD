@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Oozes)
+linter-yaml-title-alias: Scroll of Protection (Oozes)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Oozes)
-linter-yaml-title-alias: Scroll of Protection (Oozes)
 ---
 # Scroll of Protection (Oozes)
 *Scroll, rare*  

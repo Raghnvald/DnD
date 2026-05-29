@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Banshee
+linter-yaml-title-alias: Banshee
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Jedes
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Banshee
-linter-yaml-title-alias: Banshee
 ---
 # [Banshee](3-Mechanics\CLI\bestiary\undead/banshee-xmm.md)
 *Source: Monster Manual (2024) p. 29*  

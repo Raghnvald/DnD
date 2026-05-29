@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Demon Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Demon Armor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Demon Scale Mail
   - Demon Splint Armor
   - Demon Studded Leather Armor
-linter-yaml-title-alias: Demon Armor
 ---
 # Demon Armor
 *Cursed item, very rare (requires attunement)*  

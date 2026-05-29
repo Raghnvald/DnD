@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Passage
+linter-yaml-title-alias: Greater Mark of Passage
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Greater Mark of Passage"
+  - Greater Mark of Passage
 ---
 # Greater Mark of Passage
 *Source: Eberron: Forge of the Artificer p. 44*  

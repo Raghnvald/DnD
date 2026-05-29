@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Winter Wolf
+linter-yaml-title-alias: Young Winter Wolf
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1

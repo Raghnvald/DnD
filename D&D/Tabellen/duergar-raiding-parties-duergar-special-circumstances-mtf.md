@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Raiding Parties; Duergar Special Circumstances
+linter-yaml-title-alias: Duergar Raiding Parties; Duergar Special Circumstances
 tags:
   - Quelle/5e/mtf
 aliases:

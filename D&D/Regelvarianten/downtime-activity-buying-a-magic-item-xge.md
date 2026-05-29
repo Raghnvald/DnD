@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Buying a Magic Item"
+linter-yaml-title-alias: "Downtime Activity: Buying a Magic Item"
 tags:
   - Quelle/5e/xge
 aliases:
+  - "Downtime Activity: Buying a Magic Item"
   - Downtime Activity: Buying a Magic Item
 ---
 # Downtime Activity: Buying a Magic Item

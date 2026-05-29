@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dyrrns Tentakelpeitsche
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Dyrrns Tentakelpeitsche
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,7 +10,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Dyrrn's Tentacle Whip
-linter-yaml-title-alias: Dyrrns Tentakelpeitsche
+  - Dyrrns Tentakelpeitsche
 ---
 # Dyrrns Tentakelpeitsche
 *Weapon (whip), very rare (requires attunement)*  

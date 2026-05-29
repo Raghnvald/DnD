@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nosferatu
+linter-yaml-title-alias: Nosferatu
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Nosferatu
-linter-yaml-title-alias: Nosferatu
 ---
 # [Nosferatu](3-Mechanics\CLI\bestiary\undead/nosferatu-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 239*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undying Soldier
+linter-yaml-title-alias: Undying Soldier
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Undying Soldier
-linter-yaml-title-alias: Undying Soldier
 ---
 # [Undying Soldier](3-Mechanics\CLI\bestiary\undead/undying-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  

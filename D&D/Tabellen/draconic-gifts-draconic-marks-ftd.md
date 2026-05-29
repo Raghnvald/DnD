@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Gifts; Draconic Marks
+linter-yaml-title-alias: Draconic Gifts; Draconic Marks
 tags:
   - Quelle/5e/ftd
 aliases:

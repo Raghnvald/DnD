@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Agent
+linter-yaml-title-alias: Golgari Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

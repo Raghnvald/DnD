@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Myrkul
+linter-yaml-title-alias: Myrkul
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Old Lord Skull"
   - "The Lord of Bones"
   - "The Reaper"
+  - Myrkul
 ---
 # Myrkul
 *Source: Forgotten Realms: Heroes of Faerûn p. 116* 

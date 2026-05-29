@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeleton Key
+linter-yaml-title-alias: Skeleton Key
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Skeleton Key
-linter-yaml-title-alias: Skeleton Key
 ---
 # [Skeleton Key](3-Mechanics\CLI\bestiary\undead/skeleton-key-toa.md)
 *Source: Tomb of Annihilation p. 126*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Headband of Intellect
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Headband of Intellect
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Headband of Intellect
-linter-yaml-title-alias: Headband of Intellect
 ---
 # Headband of Intellect
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Person bezaubern
 status: WIP
+linter-yaml-title-alias: Person bezaubern
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -12,6 +13,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Charm Person
+  - Person bezaubern
 ---
 # Person bezaubern
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

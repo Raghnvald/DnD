@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Pipe of Smoke Monsters
+linter-yaml-title-alias: Pipe of Smoke Monsters
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Pipe of Smoke Monsters
-linter-yaml-title-alias: Pipe of Smoke Monsters
 ---
 # Pipe of Smoke Monsters
 *Wondrous item, common*  

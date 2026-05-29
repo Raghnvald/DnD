@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlement Tables and Tracker; Current Calamities
+linter-yaml-title-alias: Settlement Tables and Tracker; Current Calamities
 tags:
   - Quelle/5e/xdmg
 aliases:

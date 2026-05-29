@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Adept of the White Robes
+linter-yaml-title-alias: Spells for Adept of the White Robes
 tags:
   - ttrpg-cli/spell/list/feat/adept-of-the-white-robes
 aliases:
   - "Spells for Adept of the White Robes"
+  - Spells for Adept of the White Robes
 ---
 # Spells for Adept of the White Robes
 

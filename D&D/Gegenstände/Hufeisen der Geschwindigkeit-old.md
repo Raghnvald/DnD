@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Horseshoes of Speed
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Horseshoes of Speed
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Horseshoes of Speed
-linter-yaml-title-alias: Horseshoes of Speed
 ---
 # Horseshoes of Speed
 *Wundersamer Gegenstand, selten*  

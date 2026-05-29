@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Befuddlement
+classes:
+  - Bard
+  - Druid
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,14 +21,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Druid
-  - Warlock
-  - Wizard
 aliases:
   - Befuddlement
-linter-yaml-title-alias: Befuddlement
 ---
 # Befuddlement
 *8th-level, Enchantment*  

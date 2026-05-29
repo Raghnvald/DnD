@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Robes
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 GM
+Gew.: 2,0 kg
+status: WIP
+linter-yaml-title-alias: Robes
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Robes
-linter-yaml-title-alias: Robes
 ---
 # Robes
 *Adventuring gear*  

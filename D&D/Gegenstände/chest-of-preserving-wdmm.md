@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chest of Preserving
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Chest of Preserving
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/wdmm
 aliases:
   - Chest of Preserving
-linter-yaml-title-alias: Chest of Preserving
 ---
 # Chest of Preserving
 *Wondrous item, common*  

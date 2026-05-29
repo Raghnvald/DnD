@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Cleansing Stone
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cleansing Stone
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Cleansing Stone
-linter-yaml-title-alias: Cleansing Stone
 ---
 # Cleansing Stone
 *Wondrous item, common*  

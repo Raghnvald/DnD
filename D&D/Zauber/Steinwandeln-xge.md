@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Transmute Rock
 Zaubergrad: 5
+linter-yaml-title-alias: Transmute Rock
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Druid
-  - Wizard
 aliases:
   - Transmute Rock
-linter-yaml-title-alias: Transmute Rock
 ---
 # Transmute Rock
 *5th-level, Transmutation*  

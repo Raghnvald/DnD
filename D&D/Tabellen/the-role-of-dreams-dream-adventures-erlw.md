@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Role of Dreams; Dream Adventures
+linter-yaml-title-alias: The Role of Dreams; Dream Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

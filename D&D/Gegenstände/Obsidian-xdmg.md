@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Obsidian
+linter-yaml-title-alias: Obsidian
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Obsidian
-linter-yaml-title-alias: Obsidian
 ---
 # Obsidian
 *Treasure (gemstone)*  

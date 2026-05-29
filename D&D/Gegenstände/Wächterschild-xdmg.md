@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Sentinel Shield
 Rüstung: Schild
+linter-yaml-title-alias: Sentinel Shield
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Sentinel Shield
-linter-yaml-title-alias: Sentinel Shield
 ---
 # Sentinel Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), uncommon*  

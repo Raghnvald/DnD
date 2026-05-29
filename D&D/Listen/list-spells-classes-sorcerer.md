@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sorcerer Spells
+linter-yaml-title-alias: Sorcerer Spells
 tags:
   - Zauber/list/class/sorcerer
 aliases:

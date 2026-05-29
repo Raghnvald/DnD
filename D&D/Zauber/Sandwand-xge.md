@@ -7,6 +7,14 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
 Schaden: Blind
+linter-yaml-title-alias: Sandwand
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -17,16 +25,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Wall of Sand
-linter-yaml-title-alias: Wall of Sand
+  - Sandwand
 ---
 # Sandwand
 _Hervorrufung des 3. Grades_

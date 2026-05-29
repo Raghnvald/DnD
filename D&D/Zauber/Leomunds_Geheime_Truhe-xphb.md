@@ -1,5 +1,12 @@
 ---
 Bezeichnung: "Leomund's Secret Chest"
+linter-yaml-title-alias: "Leomund's Secret Chest"
+classes:
+  - Artificer
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -9,15 +16,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
-  - Leomund's Secret Chest
-linter-yaml-title-alias: Leomund's Secret Chest
+  - "Leomund's Secret Chest"
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  

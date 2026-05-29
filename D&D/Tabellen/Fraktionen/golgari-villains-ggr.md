@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Villains
+linter-yaml-title-alias: Golgari Villains
 tags:
   - Quelle/5e/ggr
 aliases:

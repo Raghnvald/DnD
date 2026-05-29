@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: An Invitation Extended"
+linter-yaml-title-alias: "Chapter 2: An Invitation Extended"
 tags:
   - Quelle/5e/imr
 aliases:

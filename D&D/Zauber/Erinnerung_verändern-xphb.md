@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Modify Memory
+linter-yaml-title-alias: Modify Memory
+classes:
+  - Bard
+  - Cleric (Trickery Domain)
+  - Warlock (Great Old One Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/trickery-domain
@@ -8,14 +14,8 @@ tags:
   - Subklasse/great-old-one-patron
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric (Trickery Domain)
-  - Warlock (Great Old One Patron)
-  - Wizard
 aliases:
   - Modify Memory
-linter-yaml-title-alias: Modify Memory
 ---
 # Modify Memory
 *5th-level, Enchantment*  

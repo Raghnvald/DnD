@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Prismatic Wall
 Zaubergrad: 9
+linter-yaml-title-alias: Prismatic Wall
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Prismatic Wall
-linter-yaml-title-alias: Prismatic Wall
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

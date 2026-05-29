@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 13: The Amber Temple"
+linter-yaml-title-alias: "Chapter 13: The Amber Temple"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 13: The Amber Temple"
   - Chapter 13: The Amber Temple
 ---
 # Chapter 13: The Amber Temple

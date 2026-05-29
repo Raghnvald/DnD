@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Favored in House
+linter-yaml-title-alias: Favored in House
 tags:
   - Kompendium/Optionales/rp
   - Quelle/5e/efa
 aliases:
   - "Favored in House"
+  - Favored in House
 ---
 # Favored in House
 *Source: Eberron: Forge of the Artificer p. 67*  

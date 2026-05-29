@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Bestiary"
+linter-yaml-title-alias: "Appendix B: Bestiary"
 tags:
   - Quelle/5e/nf
 aliases:

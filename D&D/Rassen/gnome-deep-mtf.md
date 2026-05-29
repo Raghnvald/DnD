@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome (Deep)
+linter-yaml-title-alias: Gnome (Deep)
 tags:
   - Quelle/5e/mtf
   - Rasse/gnome/deep

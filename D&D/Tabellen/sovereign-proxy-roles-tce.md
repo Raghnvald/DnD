@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Proxy Roles
+linter-yaml-title-alias: Sovereign Proxy Roles
 tags:
   - Quelle/5e/tce
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Malaxxix
+linter-yaml-title-alias: Malaxxix
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/18
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Malaxxix
-linter-yaml-title-alias: Malaxxix
 ---
 # [Malaxxix](3-Mechanics\CLI\bestiary\npc/malaxxix-bmt.md)
 *Source: The Book of Many Things p. 173*  

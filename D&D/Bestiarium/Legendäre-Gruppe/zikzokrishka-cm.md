@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zikzokrishka
+linter-yaml-title-alias: Zikzokrishka
 tags:
   - Monster/legendary-group
   - Quelle/5e/cm

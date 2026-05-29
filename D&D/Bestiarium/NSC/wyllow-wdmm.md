@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wyllow
+linter-yaml-title-alias: Wyllow
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Wyllow
-linter-yaml-title-alias: Wyllow
 ---
 # [Wyllow](3-Mechanics\CLI\bestiary\npc/wyllow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 70*  

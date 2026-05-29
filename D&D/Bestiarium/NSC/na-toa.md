@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Na
+linter-yaml-title-alias: Na
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Na
-linter-yaml-title-alias: Na
 ---
 # [Na](3-Mechanics\CLI\bestiary\npc/na-toa.md)
 *Source: Tomb of Annihilation p. 228*  

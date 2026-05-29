@@ -1,5 +1,12 @@
 ---
 Bezeichnung: "Rary's Telepathic Bond"
+linter-yaml-title-alias: "Rary's Telepathic Bond"
+classes:
+  - Bard
+  - Cleric (Peace Domain)
+  - Sorcerer (Aberrant Sorcery)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/peace-domain
@@ -10,15 +17,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric (Peace Domain)
-  - Sorcerer (Aberrant Sorcery)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
-  - Rary's Telepathic Bond
-linter-yaml-title-alias: Rary's Telepathic Bond
+  - "Rary's Telepathic Bond"
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

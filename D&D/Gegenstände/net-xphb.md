@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Net
+linter-yaml-title-alias: Net
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Net
-linter-yaml-title-alias: Net
 ---
 # Net
 *Adventuring gear*  

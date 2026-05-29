@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Branchala
+linter-yaml-title-alias: Branchala
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/dragonlance

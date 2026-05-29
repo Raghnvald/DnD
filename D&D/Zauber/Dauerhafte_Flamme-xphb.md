@@ -6,6 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Continual Flame
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -20,20 +32,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Continual Flame
-linter-yaml-title-alias: Continual Flame
 ---
 # Continual Flame
 *2nd-level, Evocation*  

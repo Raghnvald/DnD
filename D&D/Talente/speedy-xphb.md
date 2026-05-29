@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Speedy
+linter-yaml-title-alias: Speedy
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Battleaxe
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Battleaxe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Battleaxe
-linter-yaml-title-alias: Battleaxe
 ---
 # Battleaxe
 *Weapon*  

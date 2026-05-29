@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skulk
+linter-yaml-title-alias: Skulk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

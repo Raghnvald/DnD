@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cat
+linter-yaml-title-alias: Cat
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Grasland

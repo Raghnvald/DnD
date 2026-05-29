@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Mournland Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Mournland Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
   - Mournland Trinket
-linter-yaml-title-alias: Mournland Trinket
 ---
 # Mournland Trinket
 *Adventuring gear*  

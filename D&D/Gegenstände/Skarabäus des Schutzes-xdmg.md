@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scarab of Protection
+linter-yaml-title-alias: Scarab of Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Scarab of Protection
-linter-yaml-title-alias: Scarab of Protection
 ---
 # Scarab of Protection
 *Wondrous item, legendary (requires attunement)*  

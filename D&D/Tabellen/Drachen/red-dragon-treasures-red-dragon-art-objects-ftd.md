@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Red Dragon Treasures; Red Dragon Art Objects
+linter-yaml-title-alias: Red Dragon Treasures; Red Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

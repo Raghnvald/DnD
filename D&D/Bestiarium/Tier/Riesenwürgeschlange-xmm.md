@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Constrictor Snake
+linter-yaml-title-alias: Giant Constrictor Snake
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Sumpf

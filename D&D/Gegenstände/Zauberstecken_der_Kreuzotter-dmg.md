@@ -2,9 +2,11 @@
 Bezeichnung: Staff of the Adder
 Kategorie: Zauberstecken
 Schaden: 1W6 Hieb
-Eigenschaften: Vielseitig (1W8)
-Kst.: 4.000 GM
+Eigenschaften:
+  - Vielseitig (1W8)
+Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: Staff of the Adder
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -12,7 +14,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Staff of the Adder
-linter-yaml-title-alias: Staff of the Adder
 ---
 # Staff of the Adder
 *Zauberstecken, ungewöhnlich (erfordert Einstimmung durch einen Druiden, Hexenmeister oder Kleriker)*  

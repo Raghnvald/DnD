@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Crown of Madness
 Zaubergrad: 2
+linter-yaml-title-alias: Crown of Madness
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Crown of Madness
-linter-yaml-title-alias: Crown of Madness
 ---
 # Crown of Madness
 *2nd-level, Enchantment*  

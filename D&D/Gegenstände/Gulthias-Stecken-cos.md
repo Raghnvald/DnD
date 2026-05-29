@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gulthias Staff
 Kategorie: Zauberstecken
+linter-yaml-title-alias: Gulthias Staff
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,11 +9,10 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Gulthias Staff
-linter-yaml-title-alias: Gulthias Staff
 ---
 # Gulthias Staff
 *Staff, weapon, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/gulthias-staff.webp#right)
+![](img/gulthias-staff.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

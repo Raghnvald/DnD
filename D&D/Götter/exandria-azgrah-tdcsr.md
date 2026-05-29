@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azgrah
+linter-yaml-title-alias: Azgrah
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Entertainer's Pack"
+linter-yaml-title-alias: "Entertainer's Pack"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Entertainer's Pack
-linter-yaml-title-alias: Entertainer's Pack
+  - "Entertainer's Pack"
 ---
 # Entertainer's Pack
 *Adventuring gear*  

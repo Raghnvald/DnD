@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Miros Xelbrin
+linter-yaml-title-alias: Miros Xelbrin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Miros Xelbrin
-linter-yaml-title-alias: Miros Xelbrin
 ---
 # [Miros Xelbrin](3-Mechanics\CLI\bestiary\npc/miros-xelbrin-skt.md)
 *Source: Storm King's Thunder p. 251*  

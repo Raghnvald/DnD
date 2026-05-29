@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guard
+linter-yaml-title-alias: Guard
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

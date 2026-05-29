@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valin Sarnaster
+linter-yaml-title-alias: Valin Sarnaster
 tags:
   - Monster/legendary-group
   - Quelle/5e/cm

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Ephara's Devotee"
+linter-yaml-title-alias: "Ephara's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

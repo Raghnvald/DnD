@@ -1,9 +1,11 @@
 ---
 Bezeichnung: In the Mists of Manivarsha
+linter-yaml-title-alias: In the Mists of Manivarsha
 tags:
   - Quelle/5e/jttrc
 aliases:
   - "In the Mists of Manivarsha"
+  - In the Mists of Manivarsha
 ---
 # In the Mists of Manivarsha
 *Source: Journeys through the Radiant Citadel, p. 120* 

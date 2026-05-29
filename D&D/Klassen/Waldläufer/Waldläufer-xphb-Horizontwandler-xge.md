@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horizon Walker
+linter-yaml-title-alias: Horizon Walker
 tags:
   - Klasse/Waldläufer/horizon-walker
   - Quelle/5e/xge

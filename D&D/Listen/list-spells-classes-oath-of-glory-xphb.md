@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Oath of Glory
+linter-yaml-title-alias: Spells for Oath of Glory
 tags:
   - Zauber/list/subclass/oath-of-glory
 aliases:

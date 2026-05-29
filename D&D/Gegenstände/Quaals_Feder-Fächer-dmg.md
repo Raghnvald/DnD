@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Fan"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Quaal's Feather Token, Fan"
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Quaal's Feather Token, Fan
-linter-yaml-title-alias: Quaal's Feather Token, Fan
+  - "Quaal's Feather Token, Fan"
 ---
 # Quaal's Feather Token, Fan
 *Wondrous item, minor, rare*  

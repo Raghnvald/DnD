@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Peace Domain
+linter-yaml-title-alias: Peace Domain
 tags:
   - Klasse/Kleriker/peace
   - Kompendium/Götter/Domäne/peace

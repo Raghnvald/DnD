@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Work Complications
+linter-yaml-title-alias: Work Complications
 tags:
   - Quelle/5e/xge
 aliases:

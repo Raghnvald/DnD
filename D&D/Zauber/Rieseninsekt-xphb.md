@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Giant Insect
+linter-yaml-title-alias: Giant Insect
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Giant Insect
-linter-yaml-title-alias: Giant Insect
 ---
 # Giant Insect
 *4th-level, Conjuration*  

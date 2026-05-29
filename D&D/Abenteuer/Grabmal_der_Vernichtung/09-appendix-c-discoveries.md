@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix C: Discoveries"
+linter-yaml-title-alias: "Appendix C: Discoveries"
 tags:
   - Quelle/5e/toa
 aliases:
+  - "Appendix C: Discoveries"
   - Appendix C: Discoveries
 ---
 # Appendix C: Discoveries

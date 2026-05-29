@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Amulet of the Devout
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: +3 Amulet of the Devout
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +3 Amulet of the Devout
-linter-yaml-title-alias: +3 Amulet of the Devout
 ---
 # +3 Amulet of the Devout
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  

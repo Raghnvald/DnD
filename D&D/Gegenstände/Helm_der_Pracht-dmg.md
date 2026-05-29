@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Helm of Brilliance
+linter-yaml-title-alias: Helm of Brilliance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Helm of Brilliance
-linter-yaml-title-alias: Helm of Brilliance
 ---
 # Helm of Brilliance
 *Wondrous item, major, very rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maxeene
+linter-yaml-title-alias: Maxeene
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Maxeene
-linter-yaml-title-alias: Maxeene
 ---
 # [Maxeene](3-Mechanics\CLI\bestiary\npc/maxeene-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 37*  

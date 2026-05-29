@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Grasping Vine
+linter-yaml-title-alias: Grasping Vine
+classes:
+  - Bard
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
 aliases:
   - Grasping Vine
-linter-yaml-title-alias: Grasping Vine
 ---
 # Grasping Vine
 *4th-level, Conjuration*  

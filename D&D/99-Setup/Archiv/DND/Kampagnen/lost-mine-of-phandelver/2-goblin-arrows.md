@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goblin Arrows
+linter-yaml-title-alias: Goblin Arrows
 tags:
   - Quelle/5e/lmop
 aliases:

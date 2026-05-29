@@ -5,6 +5,7 @@ Bezeichnung: Archon of the Triumvirate
 Kategorie: Celestisch
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Archon of the Triumvirate
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/14

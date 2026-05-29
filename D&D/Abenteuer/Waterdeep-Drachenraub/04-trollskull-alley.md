@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trollskull Alley
+linter-yaml-title-alias: Trollskull Alley
 tags:
   - Quelle/5e/wdh
 aliases:

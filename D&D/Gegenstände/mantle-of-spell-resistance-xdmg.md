@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mantle of Spell Resistance
+linter-yaml-title-alias: Mantle of Spell Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Mantle of Spell Resistance
-linter-yaml-title-alias: Mantle of Spell Resistance
 ---
 # Mantle of Spell Resistance
 *Wondrous item, rare (requires attunement)*  

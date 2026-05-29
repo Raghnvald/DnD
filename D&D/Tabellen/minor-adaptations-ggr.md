@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Minor Adaptations
+linter-yaml-title-alias: Minor Adaptations
 tags:
   - Quelle/5e/ggr
 aliases:

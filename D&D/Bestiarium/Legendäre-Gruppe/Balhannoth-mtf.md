@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Balhannoth
+linter-yaml-title-alias: Balhannoth
 tags:
   - Monster/legendary-group
   - Quelle/5e/mtf

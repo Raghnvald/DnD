@@ -2,17 +2,18 @@
 Bezeichnung: Zweihandknüppel
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W8 Wucht
-Eigenschaften: Zweihändig
+Eigenschaften:
+  - Zweihändig
 Kst.: 2 SM
 Gew.: 5,0 kg
+linter-yaml-title-alias: Zweihandknüppel
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Greatclub
-linter-yaml-title-alias: Greatclub
+  - Zweihandknüppel
 ---
 # Zweihandknüppel
 *Weapon*  

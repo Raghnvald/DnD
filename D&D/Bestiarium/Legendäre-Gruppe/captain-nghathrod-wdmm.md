@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Captain N'ghathrod"
+linter-yaml-title-alias: "Captain N'ghathrod"
 tags:
   - Monster/legendary-group
   - Quelle/5e/wdmm
 aliases:
+  - "Captain N'ghathrod"
   - Captain N'ghathrod
 ---
 # Captain N'ghathrod

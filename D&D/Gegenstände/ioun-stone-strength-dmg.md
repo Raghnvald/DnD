@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Strength
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Strength
-linter-yaml-title-alias: Ioun Stone, Strength
 ---
 # Ioun Stone, Strength
 *Wondrous item, major, very rare (requires attunement)*  

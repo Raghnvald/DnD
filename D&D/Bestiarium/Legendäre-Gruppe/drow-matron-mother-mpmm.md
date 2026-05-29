@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drow Matron Mother
+linter-yaml-title-alias: Drow Matron Mother
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

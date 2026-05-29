@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Scene 5: The Tower"
+linter-yaml-title-alias: "Scene 5: The Tower"
 tags:
   - Quelle/5e/lrdt
 aliases:

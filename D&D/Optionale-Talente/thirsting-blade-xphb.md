@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thirsting Blade
+linter-yaml-title-alias: Thirsting Blade
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

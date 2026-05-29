@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Items
+linter-yaml-title-alias: Golgari Items
 tags:
   - Quelle/5e/ggr
 aliases:

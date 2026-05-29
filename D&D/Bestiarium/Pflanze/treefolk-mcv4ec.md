@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Treefolk
+linter-yaml-title-alias: Treefolk
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Distribution by Rarity; Magic Items Awarded by Tier
+linter-yaml-title-alias: Distribution by Rarity; Magic Items Awarded by Tier
 tags:
   - Quelle/5e/xge
 aliases:

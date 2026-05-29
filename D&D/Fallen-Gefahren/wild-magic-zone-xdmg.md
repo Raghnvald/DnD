@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic Zone
+linter-yaml-title-alias: Wild Magic Zone
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

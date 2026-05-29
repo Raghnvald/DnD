@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dice Set
+linter-yaml-title-alias: Dice Set
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Dice Set
-linter-yaml-title-alias: Dice Set
 ---
 # Dice Set
 *Gaming set*  

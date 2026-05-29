@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Air Bubbles
+linter-yaml-title-alias: Spells for Charm of Air Bubbles
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-air-bubbles
 aliases:
   - "Spells for Charm of Air Bubbles"
+  - Spells for Charm of Air Bubbles
 ---
 # Spells for Charm of Air Bubbles
 

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Mind Reading
+linter-yaml-title-alias: Potion of Mind Reading
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Mind Reading
-linter-yaml-title-alias: Potion of Mind Reading
 ---
 # Potion of Mind Reading
 *Potion, rare*  

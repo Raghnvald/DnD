@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sea Lion
+linter-yaml-title-alias: Sea Lion
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

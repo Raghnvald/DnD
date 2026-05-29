@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Humans; Human Origins
+linter-yaml-title-alias: Humans; Human Origins
 tags:
   - Quelle/5e/erlw
 aliases:

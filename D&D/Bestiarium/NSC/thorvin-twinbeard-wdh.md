@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thorvin Twinbeard
+linter-yaml-title-alias: Thorvin Twinbeard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Thorvin Twinbeard
-linter-yaml-title-alias: Thorvin Twinbeard
 ---
 # [Thorvin Twinbeard](3-Mechanics\CLI\bestiary\npc/thorvin-twinbeard-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

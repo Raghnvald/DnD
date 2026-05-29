@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Boilerdrak
+linter-yaml-title-alias: Boilerdrak
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/dsotdq
 aliases:
   - "Boilerdrak"
+  - Boilerdrak
 ---
 # Boilerdrak
 *Source: Dragonlance: Shadow of the Dragon Queen p. 189*  

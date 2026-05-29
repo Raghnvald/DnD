@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Final Showdown"
+linter-yaml-title-alias: "Chapter 5: Final Showdown"
 tags:
   - Quelle/5e/imr
 aliases:

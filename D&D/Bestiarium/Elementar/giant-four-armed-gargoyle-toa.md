@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Four-Armed Gargoyle
+linter-yaml-title-alias: Giant Four-Armed Gargoyle
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

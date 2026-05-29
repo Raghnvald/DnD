@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horn of Valhalla, Brass
+linter-yaml-title-alias: Horn of Valhalla, Brass
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Horn of Valhalla, Brass
-linter-yaml-title-alias: Horn of Valhalla, Brass
 ---
 # Horn of Valhalla, Brass
 *Wondrous item, rare*  

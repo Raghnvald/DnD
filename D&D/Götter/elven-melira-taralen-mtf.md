@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Melira Taralen
+linter-yaml-title-alias: Melira Taralen
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life

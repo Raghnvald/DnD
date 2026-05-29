@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nike
+linter-yaml-title-alias: Nike
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/greek

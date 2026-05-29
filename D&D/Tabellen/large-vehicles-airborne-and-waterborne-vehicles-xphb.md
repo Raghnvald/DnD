@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Large Vehicles; Airborne and Waterborne Vehicles
+linter-yaml-title-alias: Large Vehicles; Airborne and Waterborne Vehicles
 tags:
   - Quelle/5e/xphb
 aliases:

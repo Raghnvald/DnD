@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Redemption
+linter-yaml-title-alias: Oath of Redemption
 tags:
   - Klasse/Paladin/Schwur-der-Läuterung
   - Quelle/5e/xge

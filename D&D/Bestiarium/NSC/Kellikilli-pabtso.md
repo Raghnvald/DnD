@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kellikilli
+Image: token/kellikilli-pabtso.webp
+linter-yaml-title-alias: Kellikilli
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Kellikilli
-Image: token/kellikilli-pabtso.webp
-linter-yaml-title-alias: Kellikilli
 ---
 # Kellikilli
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  

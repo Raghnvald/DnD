@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Dreieber-Pfad
+linter-yaml-title-alias: Dreieber-Pfad
+aliases:
+  - Dreieber-Pfad
 ---
 # Dreieber-Pfad
 

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Karten- oder Schriftrollenbehälter
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Karten- oder Schriftrollenbehälter
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Map or Scroll Case
-linter-yaml-title-alias: Map or Scroll Case
+  - Karten- oder Schriftrollenbehälter
 ---
 # Karten- oder Schriftrollenbehälter
 *Abenteuerausrüstung*  

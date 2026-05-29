@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 3: Starry Refuge"
+linter-yaml-title-alias: "Part 3: Starry Refuge"
 tags:
   - Quelle/5e/aitfr-dn
 aliases:

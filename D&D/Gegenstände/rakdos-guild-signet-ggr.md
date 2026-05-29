@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Rakdos Guild Signet
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Rakdos Guild Signet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,11 +14,10 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Rakdos Guild Signet
-linter-yaml-title-alias: Rakdos Guild Signet
 ---
 # Rakdos Guild Signet
 *Ring, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/rakdos-guild-signet.webp#right)
+![](img/rakdos-guild-signet.webp#right)
 
 This ring, adorned with the symbol of Rakdos, allows you to cast hellish rebuke. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Rakdos' recognition and favor.
 

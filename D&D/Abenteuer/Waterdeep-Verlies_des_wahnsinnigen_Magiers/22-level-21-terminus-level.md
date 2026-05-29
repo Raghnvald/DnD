@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 21: Terminus Level"
+linter-yaml-title-alias: "Level 21: Terminus Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 21: Terminus Level"
   - Level 21: Terminus Level
 ---
 # Level 21: Terminus Level

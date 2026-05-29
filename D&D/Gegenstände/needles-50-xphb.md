@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Needles (50)
+linter-yaml-title-alias: Needles (50)
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Needles (50)
-linter-yaml-title-alias: Needles (50)
 ---
 # Needles (50)
 *Ammunition*  

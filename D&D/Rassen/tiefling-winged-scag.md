@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Winged)
+linter-yaml-title-alias: Tiefling (Winged)
 tags:
   - Quelle/5e/scag
   - Rasse/tiefling/winged

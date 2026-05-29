@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Squat Nimbleness
+linter-yaml-title-alias: Squat Nimbleness
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

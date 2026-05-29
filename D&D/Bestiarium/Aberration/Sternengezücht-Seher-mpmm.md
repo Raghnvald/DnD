@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 13
 status: WIP
+linter-yaml-title-alias: Star Spawn Seer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

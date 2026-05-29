@@ -1,16 +1,8 @@
 filters:
   and:
-    - '!file.name.endsWith("-xphb")'
-    - '!file.name.endsWith("-xdmg")'
-    - '!file.name.endsWith("-egw")'
-    - '!file.name.endsWith("-tdcsr")'
-    - '!file.name.endsWith("-bmt")'
-    - '!file.name.endsWith("-cm")'
+    - '!file.fullname.containsAny("-xdmg.md", "-xphb.md", "-xmm.md")'
     - and:
-        - '!file.name.contains("0")'
-        - '!file.name.contains("1")'
-        - '!file.name.contains("2")'
-        - '!file.name.contains("3")'
+        - '!file.fullname.containsAny("0", "1", "2", "3", "4", "5", "6", "7", "8", "9")'
 formulas:
   Untitled: link(file, Bezeichnung)
 properties:
@@ -19,7 +11,7 @@ properties:
   file.name:
     displayName: Name
   formula.Untitled:
-    displayName: Name
+    displayName: Bezeichnung
 views:
   - type: table
     name: Ausrüstung
@@ -35,10 +27,12 @@ views:
       - Kst.
       - Gew.
       - Eigenschaften
+      - status
     sort:
       - property: formula.Untitled
         direction: ASC
     columnSize:
+      formula.Untitled: 300
       note.Kst.: 99
     markers: bullet
     nestedProperties: false
@@ -78,6 +72,7 @@ views:
       - Kst.
       - Gew.
       - Eigenschaften
+      - status
     sort:
       - property: formula.Untitled
         direction: ASC
@@ -101,29 +96,96 @@ views:
       - Kst.
       - Bew.
       - Traglast
+      - status
     sort:
       - property: formula.Untitled
         direction: ASC
   - type: table
+    name: Ringe
+    filters:
+      and:
+        - Kategorie == "Ring"
+        - '!file.fullname.containsAny("des_Widerstands-B", "des_Widerstands-E", "des_Widerstands-F", "des_Widerstands-G", "des_Widerstands-K", "des_Widerstands-N", "des_Widerstands-P", "des_Widerstands-S")'
+        - '!file.fullname.containsAny("-Herrschaft-dmg")'
+    order:
+      - formula.Untitled
+      - Kst.
+      - Gew.
+      - Eigenschaften
+      - status
+  - type: table
     name: Rüstung
     filters:
       or:
-        - file.tags.containsAny("Gegenstand/Rüstung/Leicht", "Gegenstand/Rüstung/Mittel", "Gegenstand/Rüstung/Schwer", "Gegenstand/Rüstung/Schild")
+        - and:
+            - file.tags.containsAny("Gegenstand/Rüstung/Leicht", "Gegenstand/Rüstung/Mittel", "Gegenstand/Rüstung/Schwer", "Gegenstand/Rüstung/Schild")
+            - '!file.fullname.containsAny("-Erwacht-", "-Erhaben-", "-dormant-", "-awakened-", "-exalted-", "-Schlummernd-")'
+            - '!file.fullname.containsAny("des_Widerstands-B", "des_Widerstands-E", "des_Widerstands-F", "des_Widerstands-G", "des_Widerstands-K", "des_Widerstands-N", "des_Widerstands-P", "des_Widerstands-S")'
+            - '!file.fullname.containsAny("-Hiebschaden-", "-Stichschaden-", "-Wuchtschaden-")'
+            - '!file.fullname.containsAny("-Drachenschuppen-Panzer", "_Drachenschuppen-Panzer")'
     groupBy:
       property: Rüstung
       direction: ASC
     order:
       - formula.Untitled
+      - Kst.
+      - Gew.
+      - RK
+      - STR
+      - Heiml.
+      - Eigenschaften
+      - Einstimmung
+    columnSize:
+      note.Kst.: 72
+      note.Gew.: 79
+      note.Eigenschaften: 281
+  - type: table
+    name: Schriftrollen
+    filters:
+      and:
+        - Kategorie == "Schriftrolle"
+        - '!file.fullname.contains("Schriftrolle_des_Schutzes_")'
+    order:
+      - file.name
+      - Bezeichnung
+    sort:
+      - property: Bezeichnung
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tränke
+    filters:
+      and:
+        - Kategorie == "Trank"
+        - '!file.fullname.contains("_Heilung-dmg.md")'
+        - '!file.fullname.containsAny("des_Widerstands-B", "des_Widerstands-E", "des_Widerstands-F", "des_Widerstands-G", "des_Widerstands-K", "des_Widerstands-N", "des_Widerstands-P", "des_Widerstands-S")'
+        - '!file.fullname.containsAny("der_Riesenstärke-F", "der_Riesenstärke-H", "der_Riesenstärke-S", "der_Riesenstärke-W")'
+        - '!file.fullname.containsAny("der_Gedankenkontrolle-H", "der_Gedankenkontrolle-M", "der_Gedankenkontrolle-Ti")'
+    order:
+      - file.basename
+      - formula.Untitled
+      - Kst.
+      - Gew.
+      - Eigenschaften
+      - status
   - type: table
     name: Waffen
     filters:
       and:
         - file.tags.contains("Gegenstand/Waffe")
+        - and:
+            - file.tags.contains("Gegenstand/Waffe")
+            - '!file.fullname.containsAny("-Erwacht-", "-Erhaben-", "-dormant-", "-awakened-", "-exalted-", "-Schlummernd-")'
+            - '!file.fullname.containsAny("-Ahn-", "-Erwachend-", "-Erweckt-")'
     groupBy:
       property: Kategorie
       direction: ASC
     order:
       - formula.Untitled
+      - Kst.
+      - Gew.
+      - Eigenschaften
   - type: table
     name: Wasserfahrzeuge
     filters:

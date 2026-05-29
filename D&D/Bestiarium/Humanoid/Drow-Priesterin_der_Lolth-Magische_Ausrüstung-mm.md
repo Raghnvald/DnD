@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Priestess of Lolth (Magic Equipment)
+linter-yaml-title-alias: Drow Priestess of Lolth (Magic Equipment)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

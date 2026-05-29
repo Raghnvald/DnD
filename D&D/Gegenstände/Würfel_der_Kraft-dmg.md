@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cube of Force
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cube of Force
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Cube of Force
-linter-yaml-title-alias: Cube of Force
 ---
 # Cube of Force
 *Wondrous item, major, rare (requires attunement)*  

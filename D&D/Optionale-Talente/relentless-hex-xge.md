@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Relentless Hex
+linter-yaml-title-alias: Relentless Hex
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

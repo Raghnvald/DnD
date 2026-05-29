@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Player Handouts"
+linter-yaml-title-alias: "Appendix D: Player Handouts"
 tags:
   - Quelle/5e/imr
 aliases:

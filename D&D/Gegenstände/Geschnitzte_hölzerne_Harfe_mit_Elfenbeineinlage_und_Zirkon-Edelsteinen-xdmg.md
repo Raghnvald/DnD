@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Carved wooden harp with ivory inlay and zircon gems
+Kst.: 750 GM
+linter-yaml-title-alias: Carved wooden harp with ivory inlay and zircon gems
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Carved wooden harp with ivory inlay and zircon gems
-linter-yaml-title-alias: Carved wooden harp with ivory inlay and zircon gems
 ---
 # Carved wooden harp with ivory inlay and zircon gems
 *Treasure (art object)*  

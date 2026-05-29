@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Burning Hands
+linter-yaml-title-alias: Living Burning Hands
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Gnomeflinger
+linter-yaml-title-alias: Gnomeflinger
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/dsotdq
 aliases:
   - "Gnomeflinger"
+  - Gnomeflinger
 ---
 # Gnomeflinger
 *Source: Dragonlance: Shadow of the Dragon Queen p. 189*  

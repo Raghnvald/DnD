@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ptah
+linter-yaml-title-alias: Ptah
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/egyptian

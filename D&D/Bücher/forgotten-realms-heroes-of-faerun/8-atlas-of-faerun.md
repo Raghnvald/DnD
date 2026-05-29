@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Atlas of Faerûn
+linter-yaml-title-alias: Atlas of Faerûn
 tags:
   - Quelle/5e/frhof
 aliases:
   - "Atlas of Faerûn"
+  - Atlas of Faerûn
 ---
 # Atlas of Faerûn
 *Source: Forgotten Realms: Heroes of Faerûn* 

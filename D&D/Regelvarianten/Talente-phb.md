@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feats
+linter-yaml-title-alias: Feats
 tags:
   - Quelle/5e/phb
 aliases:

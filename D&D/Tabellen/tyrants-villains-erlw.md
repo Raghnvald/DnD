@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyrants Villains
+linter-yaml-title-alias: Tyrants Villains
 tags:
   - Quelle/5e/erlw
 aliases:

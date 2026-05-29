@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Goblin (Ixalan)
+linter-yaml-title-alias: Goblin (Ixalan)
 tags:
   - Quelle/5e/psx
   - Rasse/goblin/ixalan
 aliases:
   - "Goblin (Ixalan)"
+  - Goblin (Ixalan)
 ---
 # Goblin (Ixalan)
 *Source: Plane Shift: Ixalan p. 16*  

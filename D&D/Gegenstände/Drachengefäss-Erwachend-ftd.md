@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Stirring Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Stirring Dragon Vessel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ftd
 aliases:
   - Stirring Dragon Vessel
-linter-yaml-title-alias: Stirring Dragon Vessel
 ---
 # Stirring Dragon Vessel
 *Wondrous item, rare (requires attunement)*  

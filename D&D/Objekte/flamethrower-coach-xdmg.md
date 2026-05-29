@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flamethrower Coach
+linter-yaml-title-alias: Flamethrower Coach
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon

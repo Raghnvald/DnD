@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Shadow Magic
+linter-yaml-title-alias: Spells for Shadow Magic
 tags:
   - Zauber/list/subclass/shadow-magic
 aliases:

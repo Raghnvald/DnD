@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Divinatory Uses
+linter-yaml-title-alias: Divinatory Uses
 tags:
   - Quelle/5e/dmtcrg
 aliases:
   - "Divinatory Uses"
+  - Divinatory Uses
 ---
 # Divinatory Uses
 *Source: The Deck of Many Things: Card Reference Guide, p. 6* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yalah Gralhund
+linter-yaml-title-alias: Yalah Gralhund
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Yalah Gralhund
-linter-yaml-title-alias: Yalah Gralhund
 ---
 # [Yalah Gralhund](3-Mechanics\CLI\bestiary\npc/yalah-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

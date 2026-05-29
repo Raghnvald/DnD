@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sylvan Talon
+linter-yaml-title-alias: Sylvan Talon
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
@@ -16,7 +17,6 @@ aliases:
   - Sylvan Talon Shortsword
   - Sylvan Talon Sickle
   - Sylvan Talon Spear
-linter-yaml-title-alias: Sylvan Talon
 ---
 # Sylvan Talon
 *Common (requires attunement)*  

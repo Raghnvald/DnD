@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Index of Undead
+linter-yaml-title-alias: Index of Undead
 aliases:
   - Index of Undead
-linter-yaml-title-alias: Index of Undead
 ---
 # Index of Undead
 

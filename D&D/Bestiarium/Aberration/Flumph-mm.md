@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1/8
 status: WIP
+linter-yaml-title-alias: Flumph
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Unterreich

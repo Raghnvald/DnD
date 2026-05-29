@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kaarghaz
+linter-yaml-title-alias: Kaarghaz
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Kaarghaz
-linter-yaml-title-alias: Kaarghaz
 ---
 # [Kaarghaz](3-Mechanics\CLI\bestiary\npc/kaarghaz-tftyp.md)
 *Source: Tales from the Yawning Portal p. 45*  

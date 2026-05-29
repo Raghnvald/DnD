@@ -8,6 +8,7 @@ HG: "1"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Armor Detention Drone
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Dangerous Designs
+linter-yaml-title-alias: Dangerous Designs
 tags:
   - Quelle/5e/dd
 aliases:
   - "Dangerous Designs"
+  - Dangerous Designs
 ---
 # Dangerous Designs
 *Source: Wildemount: Dangerous Designs, p. 217* 

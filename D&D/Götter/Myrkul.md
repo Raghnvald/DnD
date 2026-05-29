@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Myrkul, Gott des Todes
+linter-yaml-title-alias: Myrkul, Gott des Todes
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Tod
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Myrkul
+  - Myrkul, Gott des Todes
 ---
 # Myrkul, Gott des Todes
 *Quelle: SRD / Grundregelwerk* 

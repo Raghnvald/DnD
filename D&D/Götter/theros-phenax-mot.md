@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Phenax
+linter-yaml-title-alias: Phenax
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
   - "Phenax"
+  - Phenax
 ---
 # Phenax
 *Source: Mythic Odysseys of Theros p. 73* 

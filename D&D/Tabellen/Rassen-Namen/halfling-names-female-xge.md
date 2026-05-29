@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Names – Female
+linter-yaml-title-alias: Halfling Names – Female
 tags:
   - Quelle/5e/xge
 aliases:

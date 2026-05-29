@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Minor Illusion
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Monk (Warrior of Shadow)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -24,19 +35,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Monk (Warrior of Shadow)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Minor Illusion
-linter-yaml-title-alias: Minor Illusion
 ---
 # Minor Illusion
 *cantrip, Illusion*  

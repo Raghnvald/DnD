@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Crystal Ball
+linter-yaml-title-alias: Crystal Ball
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Crystal Ball
-linter-yaml-title-alias: Crystal Ball
 ---
 # Crystal Ball
 *Wondrous item, very rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tormentor
+linter-yaml-title-alias: Tormentor
 tags:
   - Gegenstand/Fortbewegung/size/huge
   - Gegenstand/Fortbewegung/terrain/land

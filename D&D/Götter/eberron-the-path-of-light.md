@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Path of Light
+linter-yaml-title-alias: The Path of Light
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

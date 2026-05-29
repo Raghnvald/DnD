@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tree Blight
+linter-yaml-title-alias: Tree Blight
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Wald

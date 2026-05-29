@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Den of the Hill Giants"
+linter-yaml-title-alias: "Chapter 5: Den of the Hill Giants"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 5: Den of the Hill Giants"
   - Chapter 5: Den of the Hill Giants
 ---
 # Chapter 5: Den of the Hill Giants

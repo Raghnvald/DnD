@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goliath
+linter-yaml-title-alias: Goliath
 tags:
   - Quelle/5e/xphb
   - Rasse/goliath

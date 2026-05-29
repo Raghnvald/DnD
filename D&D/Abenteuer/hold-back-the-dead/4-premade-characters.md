@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Premade Characters
+linter-yaml-title-alias: Premade Characters
 tags:
   - Quelle/5e/hbtd
 aliases:
   - "Premade Characters"
+  - Premade Characters
 ---
 # Premade Characters
 *Source: Hold Back The Dead, p. 8* 

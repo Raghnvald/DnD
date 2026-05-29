@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Reisegeschwindigkeit
+linter-yaml-title-alias: Reisegeschwindigkeit
 tags:
   - Quelle/5e/phb
 aliases:
+  - Reisegeschwindigkeit
   - Travel Pace
 ---
 # Reisegeschwindigkeit

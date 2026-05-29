@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Climb Speed
+linter-yaml-title-alias: Climb Speed
 tags:
   - Quelle/5e/xphb
 aliases:

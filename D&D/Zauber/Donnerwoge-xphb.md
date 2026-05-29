@@ -7,6 +7,22 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff:
 Schaden:
+linter-yaml-title-alias: Thunderwave
+classes:
+  - Artificer (Armorer)
+  - Artificer (Artillerist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Djinni)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -28,24 +44,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/fist-of-four-thunders
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Armorer)
-  - Artificer (Artillerist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fathomless)
-  - Warlock (The Genie, Djinni)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Thunderwave
-linter-yaml-title-alias: Thunderwave
 ---
 # Thunderwave
 *1st-level, Evocation*  

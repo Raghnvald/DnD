@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1
 status: WIP
+linter-yaml-title-alias: Core Spawn Crawler
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1

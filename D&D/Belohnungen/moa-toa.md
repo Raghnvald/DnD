@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moa
+linter-yaml-title-alias: Moa
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa

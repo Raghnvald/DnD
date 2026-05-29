@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Kraken)
+linter-yaml-title-alias: Scroll of Titan Summoning (Kraken)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning (Kraken)
-linter-yaml-title-alias: Scroll of Titan Summoning (Kraken)
 ---
 # Scroll of Titan Summoning (Kraken)
 *Scroll, legendary*  

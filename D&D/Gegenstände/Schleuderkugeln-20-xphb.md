@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sling Bullets (20)
+linter-yaml-title-alias: Sling Bullets (20)
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Sling Bullets (20)
-linter-yaml-title-alias: Sling Bullets (20)
 ---
 # Sling Bullets (20)
 *Ammunition*  

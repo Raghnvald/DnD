@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Strixhaven Hunt for Mage Tower
+linter-yaml-title-alias: Index of Strixhaven Hunt for Mage Tower
+aliases:
+  - Index of Strixhaven Hunt for Mage Tower
 ---
 # Index of Strixhaven Hunt for Mage Tower
 

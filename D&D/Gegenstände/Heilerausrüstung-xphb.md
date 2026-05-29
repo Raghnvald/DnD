@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Healer's Kit"
+linter-yaml-title-alias: "Healer's Kit"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Healer's Kit
-linter-yaml-title-alias: Healer's Kit
+  - "Healer's Kit"
 ---
 # Healer's Kit
 *Adventuring gear*  

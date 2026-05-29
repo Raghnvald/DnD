@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Angry Sorrowsworn
+linter-yaml-title-alias: Angry Sorrowsworn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

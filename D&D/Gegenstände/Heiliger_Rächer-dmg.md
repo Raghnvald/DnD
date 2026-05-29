@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Holy Avenger
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+linter-yaml-title-alias: Holy Avenger
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -16,7 +17,6 @@ aliases:
   - Holy Avenger Rapier
   - Holy Avenger Scimitar
   - Holy Avenger Shortsword
-linter-yaml-title-alias: Holy Avenger
 ---
 # Holy Avenger
 *Major, legendary (requires attunement by a paladin)*  

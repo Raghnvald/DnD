@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Warrior's Passkey"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Warrior's Passkey"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
-  - Warrior's Passkey
-linter-yaml-title-alias: Warrior's Passkey
+  - "Warrior's Passkey"
 ---
 # Warrior's Passkey
 *Wondrous item, rare (requires attunement)*  

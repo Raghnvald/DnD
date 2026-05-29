@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +1 Wand of the War Mage
+linter-yaml-title-alias: +1 Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - +1 Wand of the War Mage
-linter-yaml-title-alias: +1 Wand of the War Mage
 ---
 # +1 Wand of the War Mage
 *Wand, uncommon (requires attunement by a spellcaster)*  

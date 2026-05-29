@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Drow Poison
 Kategorie: Gift
+Kst.: 200 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Drow Poison
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Drow Poison
-linter-yaml-title-alias: Drow Poison
 ---
 # Drow Poison
 *Adventuring gear, poison (injury)*  

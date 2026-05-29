@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Keycharm
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Keycharm
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Keycharm
-linter-yaml-title-alias: Keycharm
 ---
 # Keycharm
 *Wondrous item, common (requires attunement by a creature with the Mark of Warding)*  

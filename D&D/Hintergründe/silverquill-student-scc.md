@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Silverquill Student
+linter-yaml-title-alias: Silverquill Student
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scc
 aliases:
   - "Silverquill Student"
+  - Silverquill Student
 ---
 # Silverquill Student
 *Source: Strixhaven: A Curriculum of Chaos p. 35*  

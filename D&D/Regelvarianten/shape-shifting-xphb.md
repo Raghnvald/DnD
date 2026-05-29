@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shape-Shifting
+linter-yaml-title-alias: Shape-Shifting
 tags:
   - Quelle/5e/xphb
 aliases:

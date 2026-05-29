@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Order of the Gauntlet Tournament Field
+linter-yaml-title-alias: Order of the Gauntlet Tournament Field
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof
 aliases:
   - "Order of the Gauntlet Tournament Field"
+  - Order of the Gauntlet Tournament Field
 ---
 # Order of the Gauntlet Tournament Field
 *Level 9 Bastion facility*  

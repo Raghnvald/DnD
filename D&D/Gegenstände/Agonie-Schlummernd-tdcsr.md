@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Agony (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Agony (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Agony (Dormant)
-linter-yaml-title-alias: Agony (Dormant)
 ---
 # Agony (Dormant)
 *Weapon ([flail](/3-Mechanics/CLI/items/flail-xphb.md)), legendary (requires attunement by a creature of non-good alignment)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dreaming Dark Adventure Hooks
+linter-yaml-title-alias: Dreaming Dark Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

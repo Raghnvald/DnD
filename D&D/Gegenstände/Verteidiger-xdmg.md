@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Defender
+linter-yaml-title-alias: Defender
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -38,7 +39,6 @@ aliases:
   - Defender War Pick
   - Defender Warhammer
   - Defender Whip
-linter-yaml-title-alias: Defender
 ---
 # Defender
 *Legendary (requires attunement)*  

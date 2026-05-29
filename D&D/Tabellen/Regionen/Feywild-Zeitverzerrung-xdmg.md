@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feywild Time Warp
+linter-yaml-title-alias: Feywild Time Warp
 tags:
   - Quelle/5e/xdmg
 aliases:

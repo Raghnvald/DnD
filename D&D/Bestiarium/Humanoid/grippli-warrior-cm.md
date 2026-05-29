@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grippli Warrior
+linter-yaml-title-alias: Grippli Warrior
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

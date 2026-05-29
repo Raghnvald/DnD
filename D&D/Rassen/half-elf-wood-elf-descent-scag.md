@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf (Wood Elf Descent)
+linter-yaml-title-alias: Half-Elf (Wood Elf Descent)
 tags:
   - Quelle/5e/scag
   - Rasse/half-elf/wood-elf-descent

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Black Crystal Tablet
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Black Crystal Tablet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Black Crystal Tablet
-linter-yaml-title-alias: Black Crystal Tablet
 ---
 # Black Crystal Tablet
 *Wondrous item, legendary (requires attunement by a creature that has proficiency in the Arcana skill)*  

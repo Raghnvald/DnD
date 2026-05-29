@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Difficult Terrain
+linter-yaml-title-alias: Difficult Terrain
 tags:
   - Quelle/5e/xphb
 aliases:

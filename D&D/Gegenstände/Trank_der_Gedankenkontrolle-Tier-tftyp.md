@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Mind Control (beast)
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Mind Control (beast)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/tftyp
 aliases:
   - Potion of Mind Control (beast)
-linter-yaml-title-alias: Potion of Mind Control (beast)
 ---
 # Potion of Mind Control (beast)
 *Potion, rare*  

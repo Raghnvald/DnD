@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zustände
+linter-yaml-title-alias: Zustände
 tags:
   - Quelle/5e/phb
 aliases:
   - Conditions
+  - Zustände
 ---
 # Zustände
 

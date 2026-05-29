@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Fey"
+linter-yaml-title-alias: "Monsters' Desires; Fey"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Fey"
   - Monsters' Desires; Fey
 ---
 # Monsters' Desires; Fey

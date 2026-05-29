@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drowned Master
+linter-yaml-title-alias: Drowned Master
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Drowned Master
-linter-yaml-title-alias: Drowned Master
 ---
 # [Drowned Master](3-Mechanics\CLI\bestiary\undead/drowned-master-gos.md)
 *Source: Ghosts of Saltmarsh p. 235*  

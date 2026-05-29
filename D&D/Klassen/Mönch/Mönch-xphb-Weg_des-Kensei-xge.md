@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Kensei
+linter-yaml-title-alias: Way of the Kensei
 tags:
   - Klasse/Mönch/kensei
   - Quelle/5e/xge

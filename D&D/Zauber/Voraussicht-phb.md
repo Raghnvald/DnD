@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Foresight
 Zaubergrad: 9
+linter-yaml-title-alias: Foresight
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Warlock
-  - Wizard
 aliases:
   - Foresight
-linter-yaml-title-alias: Foresight
 ---
 # Foresight
 *9th-level, Divination*  

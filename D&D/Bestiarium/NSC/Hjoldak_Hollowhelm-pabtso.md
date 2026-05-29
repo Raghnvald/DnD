@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hjoldak Hollowhelm
+Image: token/hjoldak-hollowhelm-pabtso.webp
+linter-yaml-title-alias: Hjoldak Hollowhelm
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Hjoldak Hollowhelm
-Image: token/hjoldak-hollowhelm-pabtso.webp
-linter-yaml-title-alias: Hjoldak Hollowhelm
 ---
 # Hjoldak Hollowhelm
 *Source: Phandelver and Below: The Shattered Obelisk p. 93*  

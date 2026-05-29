@@ -7,6 +7,19 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Charm Person
+classes:
+  - Bard
+  - Bard (College of Glamour)
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger (Fey Wanderer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -24,21 +37,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Glamour)
-  - Bard (College of Lore)
-  - Cleric (Trickery Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Ranger (Fey Wanderer)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Charm Person
-linter-yaml-title-alias: Charm Person
 ---
 # Charm Person
 *1st-level, Enchantment*  

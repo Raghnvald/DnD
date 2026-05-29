@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Hunt for Mage Tower
+linter-yaml-title-alias: Hunt for Mage Tower
 tags:
   - Quelle/5e/scc
 aliases:
   - "Hunt for Mage Tower"
+  - Hunt for Mage Tower
 ---
 # Hunt for Mage Tower
 *Source: Strixhaven: A Curriculum of Chaos, p. 97* 

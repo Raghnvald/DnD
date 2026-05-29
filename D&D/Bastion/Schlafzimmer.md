@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bedroom
+linter-yaml-title-alias: Bedroom
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

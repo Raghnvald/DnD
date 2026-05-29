@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Intelligente magische Gegenstände;  Sinne
+linter-yaml-title-alias: Intelligente magische Gegenstände;  Sinne
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Intelligente magische Gegenstände;  Sinne
   - Sentient Magic Item Senses
 ---
 # Intelligente magische Gegenstände;  Sinne

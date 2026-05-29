@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kalakeri Adventures
+linter-yaml-title-alias: Kalakeri Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

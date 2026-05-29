@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brown Mold
+linter-yaml-title-alias: Brown Mold
 tags:
   - Quelle/5e/dmg
 aliases:

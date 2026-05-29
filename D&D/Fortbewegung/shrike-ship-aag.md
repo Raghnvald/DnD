@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shrike Ship
+linter-yaml-title-alias: Shrike Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Shrike Ship"
+  - Shrike Ship
 ---
 # Shrike Ship
 *Source: Astral Adventurer's Guide p. 44*  

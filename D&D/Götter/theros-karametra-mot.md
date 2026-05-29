@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Karametra
+linter-yaml-title-alias: Karametra
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Karametra"
+  - Karametra
 ---
 # Karametra
 *Source: Mythic Odysseys of Theros p. 52* 

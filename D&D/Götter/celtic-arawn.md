@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arawn
+linter-yaml-title-alias: Arawn
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/death

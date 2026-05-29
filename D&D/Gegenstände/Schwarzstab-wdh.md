@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Blackstaff
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Blackstaff
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Blackstaff
-linter-yaml-title-alias: Blackstaff
 ---
 # Blackstaff
 *Staff, weapon, legendary (requires attunement by the Blackstaff heir, who must be a wizard)*  

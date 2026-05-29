@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Thunderbuss
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Thunderbuss
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Fernkampf
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Thunderbuss
-linter-yaml-title-alias: Thunderbuss
 ---
 # Thunderbuss
 *Weapon (pistol), very rare*  

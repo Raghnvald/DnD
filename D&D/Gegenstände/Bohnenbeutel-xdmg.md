@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Bag of Beans
+linter-yaml-title-alias: Bag of Beans
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Bag of Beans
-linter-yaml-title-alias: Bag of Beans
 ---
 # Bag of Beans
 *Wondrous item, rare*  

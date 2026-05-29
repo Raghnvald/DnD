@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githyanki Raiding Parties; Githyanki Special Allies
+linter-yaml-title-alias: Githyanki Raiding Parties; Githyanki Special Allies
 tags:
   - Quelle/5e/mtf
 aliases:

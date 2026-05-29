@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
+linter-yaml-title-alias: Unsichtbarer Diener
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -20,15 +27,8 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
-  - Unseen Servant
-linter-yaml-title-alias: Unseen Servant
+  - Unsichtbarer Diener
 ---
 # Unsichtbarer Diener
 _Beschwörung des 1. Grades (Ritual)_

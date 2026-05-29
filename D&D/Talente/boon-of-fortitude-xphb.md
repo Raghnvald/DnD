@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Fortitude
+linter-yaml-title-alias: Boon of Fortitude
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

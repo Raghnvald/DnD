@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wild Dog
+linter-yaml-title-alias: Wild Dog
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0

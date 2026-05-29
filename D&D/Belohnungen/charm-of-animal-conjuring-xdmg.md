@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Animal Conjuring
+linter-yaml-title-alias: Charm of Animal Conjuring
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

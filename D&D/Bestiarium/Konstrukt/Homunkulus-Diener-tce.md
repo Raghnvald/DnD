@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Homunculus Servant
+linter-yaml-title-alias: Homunculus Servant
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Modify Memory
 Zaubergrad: 5
+linter-yaml-title-alias: Modify Memory
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Trickery Domain)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/trickery-domain
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Trickery Domain)
-  - Wizard
 aliases:
   - Modify Memory
-linter-yaml-title-alias: Modify Memory
 ---
 # Modify Memory
 *5th-level, Enchantment*  

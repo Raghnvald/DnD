@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Castle Ravenloft"
+linter-yaml-title-alias: "Chapter 4: Castle Ravenloft"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 4: Castle Ravenloft"
   - Chapter 4: Castle Ravenloft
 ---
 # Chapter 4: Castle Ravenloft

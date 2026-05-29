@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bezauberung der Dunkelsicht
+linter-yaml-title-alias: Bezauberung der Dunkelsicht
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dmg
 aliases:
+  - Bezauberung der Dunkelsicht
   - Charm of Darkvision
 ---
 # Bezauberung der Dunkelsicht

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Zombie
+linter-yaml-title-alias: Ogre Zombie
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/planar
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ogre Zombie
-linter-yaml-title-alias: Ogre Zombie
 ---
 # [Ogre Zombie](3-Mechanics\CLI\bestiary\undead/ogre-zombie-xmm.md)
 *Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mirt
+linter-yaml-title-alias: Mirt
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Mirt
-linter-yaml-title-alias: Mirt
 ---
 # [Mirt](3-Mechanics\CLI\bestiary\npc/mirt-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 211*  

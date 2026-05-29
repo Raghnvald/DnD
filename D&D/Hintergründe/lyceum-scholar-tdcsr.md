@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lyceum Scholar
+linter-yaml-title-alias: Lyceum Scholar
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Create Undead
+linter-yaml-title-alias: Create Undead
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -9,15 +16,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 aliases:
   - Create Undead
-linter-yaml-title-alias: Create Undead
 ---
 # Create Undead
 *6th-level, Necromancy*  

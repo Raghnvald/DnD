@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Cure Wounds
+linter-yaml-title-alias: Charm of Cure Wounds
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tortle
+linter-yaml-title-alias: Tortle
 tags:
   - Quelle/5e/mpmm
   - Rasse/tortle

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Milil, Gott der Dichtung und Lieder
+linter-yaml-title-alias: Milil, Gott der Dichtung und Lieder
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Licht
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Milil
+  - Milil, Gott der Dichtung und Lieder
 ---
 # Milil, Gott der Dichtung und Lieder
 *Quelle: SRD / Grundregelwerk* 

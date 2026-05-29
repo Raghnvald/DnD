@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Portcullises
+linter-yaml-title-alias: Portcullises
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Cloudkill
+linter-yaml-title-alias: Living Cloudkill
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7

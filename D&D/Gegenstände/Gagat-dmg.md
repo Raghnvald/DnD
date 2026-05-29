@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Gagat
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Gagat
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Jet
-linter-yaml-title-alias: Jet
+  - Gagat
 ---
 # Gagat
 *Schatz (Edelstein)*  

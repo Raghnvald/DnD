@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gedankenklinge
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+linter-yaml-title-alias: Gedankenklinge
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,14 +10,13 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/vgm
 aliases:
-  - Mind Blade
+  - Gedankenklinge
   - Mind Blade Double-Bladed Scimitar
   - Mind Blade Greatsword
   - Mind Blade Longsword
   - Mind Blade Rapier
   - Mind Blade Scimitar
   - Mind Blade Shortsword
-linter-yaml-title-alias: Mind Blade
 ---
 # Gedankenklinge
 *Rare (requires attunement by a specific individual)*  

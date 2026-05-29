@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sea Fury
+linter-yaml-title-alias: Sea Fury
 tags:
   - Monster/legendary-group
   - Quelle/5e/egw

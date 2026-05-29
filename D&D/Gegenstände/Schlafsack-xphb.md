@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bedroll
+linter-yaml-title-alias: Bedroll
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bedroll
-linter-yaml-title-alias: Bedroll
 ---
 # Bedroll
 *Adventuring gear*  

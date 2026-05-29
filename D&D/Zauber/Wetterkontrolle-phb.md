@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Control Weather
 Zaubergrad: 8
+linter-yaml-title-alias: Control Weather
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Wizard
 aliases:
   - Control Weather
-linter-yaml-title-alias: Control Weather
 ---
 # Control Weather
 *8th-level, Transmutation*  

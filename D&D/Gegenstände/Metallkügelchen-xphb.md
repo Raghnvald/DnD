@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ball Bearings
+linter-yaml-title-alias: Ball Bearings
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Ball Bearings
-linter-yaml-title-alias: Ball Bearings
 ---
 # Ball Bearings
 *Adventuring gear*  

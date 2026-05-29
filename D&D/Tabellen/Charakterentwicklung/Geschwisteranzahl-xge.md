@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Geschwisteranzahl
+linter-yaml-title-alias: Geschwisteranzahl
 tags:
   - Quelle/5e/xge
 aliases:
+  - Geschwisteranzahl
   - Number of Siblings
 ---
 # Geschwisteranzahl

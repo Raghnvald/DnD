@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Booyahg Caster
+linter-yaml-title-alias: Booyahg Caster
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

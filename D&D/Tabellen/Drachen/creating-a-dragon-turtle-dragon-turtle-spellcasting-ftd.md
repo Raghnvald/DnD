@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Dragon Turtle; Dragon Turtle Spellcasting
+linter-yaml-title-alias: Creating a Dragon Turtle; Dragon Turtle Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

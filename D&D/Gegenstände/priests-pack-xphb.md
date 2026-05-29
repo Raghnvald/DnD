@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Priest's Pack"
+linter-yaml-title-alias: "Priest's Pack"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
 aliases:
   - "Priest's Pack"
   - Priest's Pack
-linter-yaml-title-alias: "Priest's Pack"
 ---
 # Priest's Pack
 *Adventuring gear*  

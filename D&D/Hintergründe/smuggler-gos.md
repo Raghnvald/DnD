@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Smuggler
+linter-yaml-title-alias: Smuggler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos

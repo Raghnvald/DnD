@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Grovelthrash (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Grovelthrash (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Grovelthrash (Awakened)
-linter-yaml-title-alias: Grovelthrash (Awakened)
 ---
 # Grovelthrash (Awakened)
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement)*  

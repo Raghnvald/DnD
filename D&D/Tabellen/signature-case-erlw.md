@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Signature Case
+linter-yaml-title-alias: Signature Case
 tags:
   - Quelle/5e/erlw
 aliases:

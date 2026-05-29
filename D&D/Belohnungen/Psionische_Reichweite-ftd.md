@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Psionic Reach
+linter-yaml-title-alias: Psionic Reach
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

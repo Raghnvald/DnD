@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zeitverzerrung im Feywild
+linter-yaml-title-alias: Zeitverzerrung im Feywild
 tags:
   - Quelle/5e/dmg
 aliases:
   - Feywild Time Warp
+  - Zeitverzerrung im Feywild
 ---
 # Zeitverzerrung im Feywild
 *Source: Dungeon Master's Guide p. 50* 

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: The Bloody End (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: The Bloody End (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - The Bloody End (Dormant)
-linter-yaml-title-alias: The Bloody End (Dormant)
 ---
 # The Bloody End (Dormant)
 *Weapon ([morningstar](/3-Mechanics/CLI/items/morningstar-xphb.md)), artifact (requires attunement)*  

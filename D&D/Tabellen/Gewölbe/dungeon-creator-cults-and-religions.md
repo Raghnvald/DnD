@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Creator; Cults and Religions
+linter-yaml-title-alias: Dungeon Creator; Cults and Religions
 tags:
   - Quelle/5e/dmg
 aliases:

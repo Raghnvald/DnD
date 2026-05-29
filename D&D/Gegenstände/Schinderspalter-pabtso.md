@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flayer Slayer
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Flayer Slayer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Flayer Slayer
-linter-yaml-title-alias: Flayer Slayer
 ---
 # Flayer Slayer
 *Weapon ([greataxe](Zweihandaxt-xphb.md)), rare (requires attunement)*  

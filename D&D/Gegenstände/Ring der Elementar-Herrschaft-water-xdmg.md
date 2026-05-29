@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Elemental Command (Water)
+linter-yaml-title-alias: Ring of Elemental Command (Water)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Elemental Command (Water)
-linter-yaml-title-alias: Ring of Elemental Command (Water)
 ---
 # Ring of Elemental Command (Water)
 *Ring, legendary (requires attunement)*  

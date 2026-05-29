@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Flying
+linter-yaml-title-alias: Potion of Flying
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Flying
-linter-yaml-title-alias: Potion of Flying
 ---
 # Potion of Flying
 *Potion, very rare*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Well of Many Worlds
+linter-yaml-title-alias: Well of Many Worlds
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Well of Many Worlds
-linter-yaml-title-alias: Well of Many Worlds
 ---
 # Well of Many Worlds
 *Wondrous item, legendary*  

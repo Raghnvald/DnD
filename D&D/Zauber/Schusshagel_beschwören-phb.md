@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Conjure Barrage
 Zaubergrad: 3
+linter-yaml-title-alias: Conjure Barrage
+classes:
+  - Bard (Magical Secrets)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Waldläufer
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Ranger
 aliases:
   - Conjure Barrage
-linter-yaml-title-alias: Conjure Barrage
 ---
 # Conjure Barrage
 *3rd-level, Conjuration*  

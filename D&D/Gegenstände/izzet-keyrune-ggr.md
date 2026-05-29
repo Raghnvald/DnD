@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Izzet Keyrune
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Izzet Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Izzet Keyrune
-linter-yaml-title-alias: Izzet Keyrune
 ---
 # Izzet Keyrune
 *Wondrous item, rare (requires attunement by a member of the Izzet guild)*  

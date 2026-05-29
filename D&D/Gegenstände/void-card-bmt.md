@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Void Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Void Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Void Card
-linter-yaml-title-alias: Void Card
 ---
 # Void Card
 *Wondrous item, legendary*  

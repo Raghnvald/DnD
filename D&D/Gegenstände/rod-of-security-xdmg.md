@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Rod of Security
+linter-yaml-title-alias: Rod of Security
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg
 aliases:
   - Rod of Security
-linter-yaml-title-alias: Rod of Security
 ---
 # Rod of Security
 *Rod, very rare*  

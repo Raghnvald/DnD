@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Heroism
+linter-yaml-title-alias: Potion of Heroism
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Heroism
-linter-yaml-title-alias: Potion of Heroism
 ---
 # Potion of Heroism
 *Potion, rare*  

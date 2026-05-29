@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shield Guardian
+linter-yaml-title-alias: Shield Guardian
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt

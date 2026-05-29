@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Binding
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Binding
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Binding
-linter-yaml-title-alias: Wand of Binding
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  

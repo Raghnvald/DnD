@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Cape of the Mountebank
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cape of the Mountebank
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Cape of the Mountebank
-linter-yaml-title-alias: Cape of the Mountebank
 ---
 # Cape of the Mountebank
 *Wondrous item, major, rare*  

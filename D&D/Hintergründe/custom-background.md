@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Custom Background
+linter-yaml-title-alias: Custom Background
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

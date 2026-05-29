@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Champion
+linter-yaml-title-alias: Champion
 tags:
   - Klasse/Kämpfer/champion
   - Quelle/5e/xphb
 aliases:
   - Champion
-linter-yaml-title-alias: Champion
 ---
 # Champion
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

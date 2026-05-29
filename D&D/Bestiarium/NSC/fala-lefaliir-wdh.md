@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fala Lefaliir
+linter-yaml-title-alias: Fala Lefaliir
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Fala Lefaliir
-linter-yaml-title-alias: Fala Lefaliir
 ---
 # [Fala Lefaliir](3-Mechanics\CLI\bestiary\npc/fala-lefaliir-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

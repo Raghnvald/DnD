@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Storm Lord's Hideout"
+linter-yaml-title-alias: "Storm Lord's Hideout"
 tags:
   - Quelle/5e/dc
 aliases:

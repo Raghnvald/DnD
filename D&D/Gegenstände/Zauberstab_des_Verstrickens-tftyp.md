@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Entangle
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Entangle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Wand of Entangle
-linter-yaml-title-alias: Wand of Entangle
 ---
 # Wand of Entangle
 *Wand, uncommon (requires attunement by a spellcaster)*  

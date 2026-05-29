@@ -7,6 +7,10 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Heroism
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
@@ -14,12 +18,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
   - Heroism
-linter-yaml-title-alias: Heroism
 ---
 # Heroism
 *1st-level, Enchantment*  

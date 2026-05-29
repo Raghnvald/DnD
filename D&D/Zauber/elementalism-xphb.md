@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Elementalism
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Monk (Warrior of the Elements)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -25,18 +35,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Monk (Warrior of the Elements)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Elementalism
-linter-yaml-title-alias: Elementalism
 ---
 # Elementalism
 *cantrip, Transmutation*  

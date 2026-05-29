@@ -1,5 +1,15 @@
 ---
 Bezeichnung: "Otiluke's Resilient Sphere"
+linter-yaml-title-alias: "Otiluke's Resilient Sphere"
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Peace Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Redemption)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -12,18 +22,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Cleric (Peace Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Redemption)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
-  - Otiluke's Resilient Sphere
-linter-yaml-title-alias: Otiluke's Resilient Sphere
+  - "Otiluke's Resilient Sphere"
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Abjuration*  

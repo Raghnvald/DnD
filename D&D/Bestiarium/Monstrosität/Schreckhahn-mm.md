@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cockatrice
+linter-yaml-title-alias: Cockatrice
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Grasland

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Avandra
+linter-yaml-title-alias: Avandra
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery

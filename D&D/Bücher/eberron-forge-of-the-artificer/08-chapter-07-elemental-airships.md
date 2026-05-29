@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 07: Elemental Airships"
+linter-yaml-title-alias: "Chapter 07: Elemental Airships"
 tags:
   - Quelle/5e/efa
 aliases:

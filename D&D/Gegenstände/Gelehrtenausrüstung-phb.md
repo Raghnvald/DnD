@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Gelehrtenausrüstung
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 40 GM
 Gew.: 5,0 kg
+status: WIP
+linter-yaml-title-alias: Gelehrtenausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Scholar's Pack
-linter-yaml-title-alias: Scholar's Pack
+  - Gelehrtenausrüstung
 ---
 # Gelehrtenausrüstung
 *Adventuring gear*  

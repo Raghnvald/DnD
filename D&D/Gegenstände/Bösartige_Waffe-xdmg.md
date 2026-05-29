@@ -1,5 +1,9 @@
 ---
 Bezeichnung: Vicious Weapon
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Vicious Weapon
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/selten
@@ -66,11 +70,10 @@ aliases:
   - Vicious Whip
   - Vicious Wooden Staff
   - Vicious Yklwa
-linter-yaml-title-alias: Vicious Weapon
 ---
 # Vicious Weapon
 *Rare*  
-![](/3-Mechanics/CLI/items/img/vicious-weapon.webp#right)
+![](img/vicious-weapon.webp#right)
 
 This magic weapon deals an extra `2d6` damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.
 

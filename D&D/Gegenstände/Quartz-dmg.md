@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Quartz
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Quartz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Quartz
-linter-yaml-title-alias: Quartz
 ---
 # Quartz
 *Schatz (Edelstein)*  

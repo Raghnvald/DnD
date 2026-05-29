@@ -1,5 +1,18 @@
 ---
 Bezeichnung: See Invisibility
+linter-yaml-title-alias: See Invisibility
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Light Domain)
+  - Cleric (Twilight Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Watchers)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -15,21 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Light Domain)
-  - Cleric (Twilight Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Watchers)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - See Invisibility
-linter-yaml-title-alias: See Invisibility
 ---
 # See Invisibility
 *2nd-level, Divination*  

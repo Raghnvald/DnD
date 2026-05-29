@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rerak
+Image: token/rerak-veor.webp
 status: WIP
+linter-yaml-title-alias: Rerak
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Rerak
-IMAGE: token/rerak-veor.webp
-linter-yaml-title-alias: Rerak
 ---
 # [Rerak](3-Mechanics\CLI\bestiary\npc/rerak-veor.md)
 *Source: Vecna: Eve of Ruin*  

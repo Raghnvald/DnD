@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nupperibo
+linter-yaml-title-alias: Nupperibo
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

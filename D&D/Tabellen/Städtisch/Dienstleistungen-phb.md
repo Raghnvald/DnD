@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Dienstleistungen
+linter-yaml-title-alias: Dienstleistungen
 tags:
   - Quelle/5e/phb
 aliases:
+  - Dienstleistungen
   - Services
 ---
 # Dienstleistungen

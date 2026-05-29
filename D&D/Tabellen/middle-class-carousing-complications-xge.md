@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Middle-Class Carousing Complications
+linter-yaml-title-alias: Middle-Class Carousing Complications
 tags:
   - Quelle/5e/xge
 aliases:

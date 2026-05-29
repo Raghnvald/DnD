@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Legend Lore
 Zaubergrad: 5
+linter-yaml-title-alias: Legend Lore
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Wizard
 aliases:
   - Legend Lore
-linter-yaml-title-alias: Legend Lore
 ---
 # Legend Lore
 *5th-level, Divination*  

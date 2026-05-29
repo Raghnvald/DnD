@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selling a Magic Item; Magic Item Base Prices
+linter-yaml-title-alias: Selling a Magic Item; Magic Item Base Prices
 tags:
   - Quelle/5e/xge
 aliases:

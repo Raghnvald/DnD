@@ -1,7 +1,10 @@
 ---
 Bezeichnung: "Anhang A: Charakter-Optionen"
+linter-yaml-title-alias: "Anhang A: Charakter-Optionen"
 tags:
   - Quelle/5e/cos
+aliases:
+  - "Anhang A: Charakter-Optionen"
 ---
 # Anhang A: Charakter-Optionen
 

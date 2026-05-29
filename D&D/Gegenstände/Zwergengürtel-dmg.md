@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Belt of Dwarvenkind
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Belt of Dwarvenkind
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Belt of Dwarvenkind
-linter-yaml-title-alias: Belt of Dwarvenkind
 ---
 # Belt of Dwarvenkind
 *Wondrous item, major, rare (requires attunement)*  

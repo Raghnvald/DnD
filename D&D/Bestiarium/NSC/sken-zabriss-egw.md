@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sken Zabriss
+linter-yaml-title-alias: Sken Zabriss
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Sken Zabriss
-linter-yaml-title-alias: Sken Zabriss
 ---
 # [Sken Zabriss](3-Mechanics\CLI\bestiary\npc/sken-zabriss-egw.md)
 *Source: Explorer's Guide to Wildemount p. 221*  

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Nerds Restoring Harmony the Lost Tomb
+linter-yaml-title-alias: Index of Nerds Restoring Harmony the Lost Tomb
+aliases:
+  - Index of Nerds Restoring Harmony the Lost Tomb
 ---
 # Index of Nerds Restoring Harmony the Lost Tomb
 

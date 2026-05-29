@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow House Captain
+linter-yaml-title-alias: Drow House Captain
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

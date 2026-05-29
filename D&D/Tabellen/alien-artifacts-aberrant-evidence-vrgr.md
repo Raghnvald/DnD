@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alien Artifacts; Aberrant Evidence
+linter-yaml-title-alias: Alien Artifacts; Aberrant Evidence
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: "Otiluke's Resilient Sphere"
 Zaubergrad: 4
+linter-yaml-title-alias: "Otiluke's Resilient Sphere"
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
-  - Otiluke's Resilient Sphere
-linter-yaml-title-alias: Otiluke's Resilient Sphere
+  - "Otiluke's Resilient Sphere"
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Evocation*  

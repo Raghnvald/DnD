@@ -7,6 +7,16 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
 Schaden: Kontrolle
+linter-yaml-title-alias: Wasserwand
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -19,18 +29,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Wall of Water
-linter-yaml-title-alias: Wasserwand
+  - Wasserwand
 ---
 # Wasserwand
 _Hervorrufung des 3. Grades (Ritual?)_

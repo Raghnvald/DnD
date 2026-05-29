@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Warrior
+linter-yaml-title-alias: Gnoll Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

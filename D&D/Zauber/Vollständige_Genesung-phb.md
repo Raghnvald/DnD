@@ -5,6 +5,11 @@ Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
+linter-yaml-title-alias: Vollständige Genesung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -12,13 +17,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
-  - Greater Restoration
-linter-yaml-title-alias: Greater Restoration
+  - Vollständige Genesung
 ---
 # Vollständige Genesung
 *Bann des 5. Grades*

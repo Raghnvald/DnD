@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sorcerer
+linter-yaml-title-alias: Sorcerer
 tags:
   - Quelle/5e/ggr
 aliases:

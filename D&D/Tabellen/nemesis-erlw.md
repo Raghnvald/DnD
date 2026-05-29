@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nemesis
+linter-yaml-title-alias: Nemesis
 tags:
   - Quelle/5e/erlw
 aliases:

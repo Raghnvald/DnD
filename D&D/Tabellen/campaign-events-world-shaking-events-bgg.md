@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Campaign Events; World-Shaking Events
+linter-yaml-title-alias: Campaign Events; World-Shaking Events
 tags:
   - Quelle/5e/bgg
 aliases:

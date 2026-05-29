@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 7
 status: WIP
+linter-yaml-title-alias: Mind Flayer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

@@ -1,14 +1,17 @@
 ---
 Bezeichnung: "Sage's Signet (Songbird)"
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
+status: WIP
+linter-yaml-title-alias: "Sage's Signet (Songbird)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - Sage's Signet (Songbird)
-linter-yaml-title-alias: Sage's Signet (Songbird)
+  - "Sage's Signet (Songbird)"
 ---
 # Sage's Signet (Songbird)
 *Ring, rare (requires attunement by a spellcaster)*  

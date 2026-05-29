@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Luvash
+linter-yaml-title-alias: Luvash
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Luvash
-linter-yaml-title-alias: Luvash
 ---
 # Luvash
 *Source: Curse of Strahd p. 121*  

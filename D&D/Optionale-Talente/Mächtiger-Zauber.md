@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mächtiger Zauber
+linter-yaml-title-alias: Mächtiger Zauber
 tags:
   - Kompendium/Optionales/Metamagie
   - Quelle/5e/phb
 aliases:
   - Empowered Spell
+  - Mächtiger Zauber
 ---
 # Mächtiger Zauber
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

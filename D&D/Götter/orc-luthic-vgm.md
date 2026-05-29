@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Luthic
+linter-yaml-title-alias: Luthic
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

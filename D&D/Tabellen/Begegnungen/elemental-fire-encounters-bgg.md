@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Fire Encounters
+linter-yaml-title-alias: Elemental Fire Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

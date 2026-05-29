@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Outlands and Sigil; Gate-Towns of the Outlands
+linter-yaml-title-alias: The Outlands and Sigil; Gate-Towns of the Outlands
 tags:
   - Quelle/5e/dmg
 aliases:

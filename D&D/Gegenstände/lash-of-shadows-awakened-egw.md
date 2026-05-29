@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Lash of Shadows (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Lash of Shadows (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Lash of Shadows (Awakened)
-linter-yaml-title-alias: Lash of Shadows (Awakened)
 ---
 # Lash of Shadows (Awakened)
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), artifact (requires attunement)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ghost Step Tattoo
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Ghost Step Tattoo
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Ghost Step Tattoo
-linter-yaml-title-alias: Ghost Step Tattoo
 ---
 # Ghost Step Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

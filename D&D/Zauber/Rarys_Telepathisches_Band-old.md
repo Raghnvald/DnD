@@ -6,6 +6,7 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Rarys Telepathisches Band
 tags:
   - Klasse/Magier
   - Quelle/5e/phb
@@ -15,6 +16,7 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Rary's Telepathic Bond
+  - Rarys Telepathisches Band
 ---
 # Rarys Telepathisches Band
 _Erkenntnismagie des 5. Grades (Ritual)_

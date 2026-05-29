@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flame Storm
+linter-yaml-title-alias: Flame Storm
 tags:
   - Kompendium/Bedrohung/est
   - Quelle/5e/tce

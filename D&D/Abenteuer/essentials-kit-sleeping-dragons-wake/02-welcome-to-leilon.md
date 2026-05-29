@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Welcome to Leilon
+linter-yaml-title-alias: Welcome to Leilon
 tags:
   - Quelle/5e/sdw
 aliases:
   - "Welcome to Leilon"
+  - Welcome to Leilon
 ---
 # Welcome to Leilon
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

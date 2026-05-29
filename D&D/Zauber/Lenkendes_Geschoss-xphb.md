@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Guiding Bolt
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (War Domain)
+  - Druid (Circle of the Stars)
+  - Paladin (Oath of Glory)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Barde
   - Klasse/Druide/circle-of-the-stars
@@ -20,18 +30,8 @@ tags:
   - Subklasse/Schule-des-Wissens
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (War Domain)
-  - Druid (Circle of the Stars)
-  - Paladin (Oath of Glory)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Guiding Bolt
-linter-yaml-title-alias: Guiding Bolt
 ---
 # Guiding Bolt
 *1st-level, Evocation*  

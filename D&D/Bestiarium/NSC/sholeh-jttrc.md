@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sholeh
+linter-yaml-title-alias: Sholeh
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/20
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Sholeh
-linter-yaml-title-alias: Sholeh
 ---
 # [Sholeh](3-Mechanics\CLI\bestiary\npc/sholeh-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 14*  

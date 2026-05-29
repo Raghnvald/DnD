@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Guards and Wards
 Zaubergrad: 6
+linter-yaml-title-alias: Guards and Wards
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Guards and Wards
-linter-yaml-title-alias: Guards and Wards
 ---
 # Guards and Wards
 *6th-level, Abjuration*  

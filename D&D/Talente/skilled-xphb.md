@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skilled
+linter-yaml-title-alias: Skilled
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

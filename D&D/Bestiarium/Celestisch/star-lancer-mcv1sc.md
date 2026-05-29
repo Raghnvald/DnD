@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Star Lancer
+linter-yaml-title-alias: Star Lancer
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

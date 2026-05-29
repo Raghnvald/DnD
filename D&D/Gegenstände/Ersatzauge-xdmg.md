@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Ersatz Eye
+linter-yaml-title-alias: Ersatz Eye
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Ersatz Eye
-linter-yaml-title-alias: Ersatz Eye
 ---
 # Ersatz Eye
 *Wondrous item, common*  

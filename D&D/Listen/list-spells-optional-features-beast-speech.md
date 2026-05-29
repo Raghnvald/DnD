@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Beast Speech
+linter-yaml-title-alias: Spells for Beast Speech
 tags:
   - Zauber/list/optfeature/beast-speech
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisoned Needle
+linter-yaml-title-alias: Poisoned Needle
 tags:
   - Kompendium/Bedrohung/trp
   - Quelle/5e/xdmg

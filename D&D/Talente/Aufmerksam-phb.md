@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Aufmerksam
+linter-yaml-title-alias: Aufmerksam
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
+  - Aufmerksam
   - Observant
 ---
 # Aufmerksam

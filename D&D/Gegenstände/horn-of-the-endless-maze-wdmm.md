@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horn of the Endless Maze
+linter-yaml-title-alias: Horn of the Endless Maze
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/wdmm
 aliases:
   - Horn of the Endless Maze
-linter-yaml-title-alias: Horn of the Endless Maze
 ---
 # Horn of the Endless Maze
 *Wondrous item, rare*  

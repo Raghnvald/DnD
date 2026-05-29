@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +2 Amulet of the Devout
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: +2 Amulet of the Devout
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +2 Amulet of the Devout
-linter-yaml-title-alias: +2 Amulet of the Devout
 ---
 # +2 Amulet of the Devout
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  

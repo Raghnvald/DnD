@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tymora
+linter-yaml-title-alias: Tymora
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Lady Luck"
   - "Our Smiling Lady"
   - "Tymora"
+  - Tymora
 ---
 # Tymora
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 

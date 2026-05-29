@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Earworm
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Earworm
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Earworm
-linter-yaml-title-alias: Earworm
 ---
 # Earworm
 *Wondrous item, uncommon (requires attunement)*  

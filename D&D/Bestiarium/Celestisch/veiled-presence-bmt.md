@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Veiled Presence
+linter-yaml-title-alias: Veiled Presence
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/21

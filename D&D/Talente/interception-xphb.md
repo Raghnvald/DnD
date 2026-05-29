@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Interception
+linter-yaml-title-alias: Interception
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

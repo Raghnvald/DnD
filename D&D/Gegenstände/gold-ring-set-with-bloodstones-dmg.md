@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Gold ring set with bloodstones
 Kategorie: Kunstobjekt
+Eigenschaften:
+  - /
+Kst.: 250 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Gold ring set with bloodstones
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Gold ring set with bloodstones
-linter-yaml-title-alias: Gold ring set with bloodstones
 ---
 # Gold ring set with bloodstones
 *Treasure (art object)*  

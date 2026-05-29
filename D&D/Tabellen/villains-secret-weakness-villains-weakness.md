@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Villain's Secret Weakness; Villain's Weakness"
+linter-yaml-title-alias: "Villain's Secret Weakness; Villain's Weakness"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Villain's Secret Weakness; Villain's Weakness"
   - Villain's Secret Weakness; Villain's Weakness
 ---
 # Villain's Secret Weakness; Villain's Weakness

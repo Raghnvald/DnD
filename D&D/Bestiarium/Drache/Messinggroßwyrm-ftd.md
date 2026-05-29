@@ -8,6 +8,7 @@ HG: 28
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Brass Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/28
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Brass Greatwyrm
-linter-yaml-title-alias: Brass Greatwyrm
 ---
 # [Brass Greatwyrm](3-Mechanics\CLI\bestiary\dragon/brass-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  

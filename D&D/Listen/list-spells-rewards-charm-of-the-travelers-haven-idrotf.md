@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Charm of the Traveler's Haven"
+linter-yaml-title-alias: "Spells for Charm of the Traveler's Haven"
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-the-travelers-haven
 aliases:

@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Gray Wolf)
+linter-yaml-title-alias: Uthgardt Shaman (Gray Wolf)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/skt
 aliases:
   - Uthgardt Shaman (Gray Wolf)

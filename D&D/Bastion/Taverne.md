@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pub
+linter-yaml-title-alias: Pub
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

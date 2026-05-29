@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Rod of Mercurial Form
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Rod of Mercurial Form
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Rod of Mercurial Form
-linter-yaml-title-alias: Rod of Mercurial Form
 ---
 # Rod of Mercurial Form
 *Wondrous item, uncommon*  

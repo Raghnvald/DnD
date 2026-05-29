@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stella Wachter
+linter-yaml-title-alias: Stella Wachter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Stella Wachter
-linter-yaml-title-alias: Stella Wachter
 ---
 # [Stella Wachter](3-Mechanics\CLI\bestiary\npc/stella-wachter-cos.md)
 *Source: Curse of Strahd p. 113*  

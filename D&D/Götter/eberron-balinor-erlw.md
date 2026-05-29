@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Balinor
+linter-yaml-title-alias: Balinor
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/war

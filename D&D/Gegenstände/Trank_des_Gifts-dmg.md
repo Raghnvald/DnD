@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Trank des Gifts
 Kategorie: Trank
+linter-yaml-title-alias: Trank des Gifts
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
-  - Potion of Poison
-linter-yaml-title-alias: Potion of Poison
+  - Trank des Gifts
 ---
 # Trank des Gifts
 *Trank, ungewöhnlich*  

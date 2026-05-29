@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Acolyte
+linter-yaml-title-alias: Acolyte
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

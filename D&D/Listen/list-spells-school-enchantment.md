@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enchantment Spells
+linter-yaml-title-alias: Enchantment Spells
 tags:
   - Zauber/list/school/enchantment
 aliases:

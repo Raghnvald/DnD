@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cast-Off Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Cast-Off Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -22,7 +23,6 @@ aliases:
   - Cast-Off Scale Mail
   - Cast-Off Splint Armor
   - Cast-Off Studded Leather Armor
-linter-yaml-title-alias: Cast-Off Armor
 ---
 # Cast-Off Armor
 *Common*  

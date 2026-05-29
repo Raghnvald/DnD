@@ -3,9 +3,12 @@ model:
   kind: Table
   columns: []
 pluginVersion: 1.0.0
+filters:
+  and:
+    - '!file.fullname.containsAny("-xphb.md", "-xdmg.md", "0-")'
 views:
   - type: table
-    name: Table
+    name: Gesamtübersicht
     filters:
       and:
         - file.folder == "D&D/Gegenstände"

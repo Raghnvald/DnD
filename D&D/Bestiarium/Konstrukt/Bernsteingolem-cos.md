@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Amber Golem
+linter-yaml-title-alias: Amber Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

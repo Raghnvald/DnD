@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barbarian
+linter-yaml-title-alias: Barbarian
 tags:
   - Klasse/Barbar
   - Quelle/5e/xphb

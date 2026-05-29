@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cloud Giant Noble
+linter-yaml-title-alias: Cloud Giant Noble
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9

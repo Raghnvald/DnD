@@ -11,6 +11,7 @@ Habitat:
   - Unterreich
 image: image/doppelganger-webp
 status: completed
+linter-yaml-title-alias: Doppelgänger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -20,6 +21,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Doppelganger
+  - Doppelgänger
 ---
 # Doppelgänger
 *Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

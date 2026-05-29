@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Goose Egg Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Goose Egg Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/bgg
 aliases:
   - Goose Egg Trinket
-linter-yaml-title-alias: Goose Egg Trinket
 ---
 # Goose Egg Trinket
 *Adventuring gear*  

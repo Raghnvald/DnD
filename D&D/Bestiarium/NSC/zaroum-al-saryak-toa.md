@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zaroum Al-Saryak
+linter-yaml-title-alias: Zaroum Al-Saryak
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Zaroum Al-Saryak
-linter-yaml-title-alias: Zaroum Al-Saryak
 ---
 # [Zaroum Al-Saryak](3-Mechanics\CLI\bestiary\npc/zaroum-al-saryak-toa.md)
 *Source: Tomb of Annihilation p. 67*  

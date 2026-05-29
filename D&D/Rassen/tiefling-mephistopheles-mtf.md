@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Mephistopheles)
+linter-yaml-title-alias: Tiefling (Mephistopheles)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/mephistopheles

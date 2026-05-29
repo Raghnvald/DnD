@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Mushrooms; Magic Mushroom Effects
+linter-yaml-title-alias: Magic Mushrooms; Magic Mushroom Effects
 tags:
   - Quelle/5e/tce
 aliases:

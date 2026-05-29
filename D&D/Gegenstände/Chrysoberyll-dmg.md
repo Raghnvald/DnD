@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Chrysoberyll
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Chrysoberyll
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Chrysoberyl
-linter-yaml-title-alias: Chrysoberyl
+  - Chrysoberyll
 ---
 # Chrysoberyll
 *Schatz (Edelstein)*  

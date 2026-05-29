@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gadabout
+linter-yaml-title-alias: Gadabout
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nuitari
+linter-yaml-title-alias: Nuitari
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/dragonlance

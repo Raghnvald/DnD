@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chimeric Rat
+linter-yaml-title-alias: Chimeric Rat
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Beacon of Hope
 Zaubergrad: 3
+linter-yaml-title-alias: Beacon of Hope
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Paladin (Oath of Devotion)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Paladin (Oath of Devotion)
 aliases:
   - Beacon of Hope
-linter-yaml-title-alias: Beacon of Hope
 ---
 # Beacon of Hope
 *Bann des 3. Grades*

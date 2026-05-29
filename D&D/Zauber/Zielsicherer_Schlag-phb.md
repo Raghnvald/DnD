@@ -7,6 +7,14 @@ Komponenten: G
 Wirkungsdauer: K, <1 Runde
 Angriff: nichts
 Schaden: Voraussicht
+linter-yaml-title-alias: Zielsicherer Schlag
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -20,16 +28,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - True Strike
-linter-yaml-title-alias: Zielsicherer Schlag
+  - Zielsicherer Schlag
 ---
 # Zielsicherer Schlag
 _Zaubertrick der Erkenntnismagie_

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Potion of Dragon's Majesty"
 Kategorie: Trank
+linter-yaml-title-alias: "Potion of Dragon's Majesty"
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Trank
@@ -8,7 +9,6 @@ tags:
 aliases:
   - "Potion of Dragon's Majesty"
   - Potion of Dragon's Majesty
-linter-yaml-title-alias: "Potion of Dragon's Majesty"
 ---
 # Potion of Dragon's Majesty
 *Potion, legendary*  

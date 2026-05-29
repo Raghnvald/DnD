@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Phantom Steed
 Zaubergrad: 3
+linter-yaml-title-alias: Phantom Steed
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -10,14 +16,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Phantom Steed
-linter-yaml-title-alias: Phantom Steed
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

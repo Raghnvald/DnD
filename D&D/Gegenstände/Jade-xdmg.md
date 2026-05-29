@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Jade
+Kst.: 100 GM
+linter-yaml-title-alias: Jade
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Jade
-linter-yaml-title-alias: Jade
 ---
 # Jade
 *Treasure (gemstone)*  

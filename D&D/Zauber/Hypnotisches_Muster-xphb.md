@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Hypnotic Pattern
+linter-yaml-title-alias: Hypnotic Pattern
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Redemption)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,21 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Illusion
-classes:
-  - Artificer (Armorer)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Redemption)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Hypnotic Pattern
-linter-yaml-title-alias: Hypnotic Pattern
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  

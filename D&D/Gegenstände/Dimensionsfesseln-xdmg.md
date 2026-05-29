@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Dimensional Shackles
+linter-yaml-title-alias: Dimensional Shackles
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Dimensional Shackles
-linter-yaml-title-alias: Dimensional Shackles
 ---
 # Dimensional Shackles
 *Wondrous item, rare*  

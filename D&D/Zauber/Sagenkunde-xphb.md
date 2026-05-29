@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Legend Lore
+linter-yaml-title-alias: Legend Lore
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Paladin (Oath of Glory)
+  - Sorcerer (Divine Soul, Good)
+  - Sorcerer (Draconic Sorcery)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -12,18 +22,8 @@ tags:
   - Subklasse/draconic-sorcery
   - Zauber/Grad/5
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Paladin (Oath of Glory)
-  - Sorcerer (Divine Soul, Good)
-  - Sorcerer (Draconic Sorcery)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Legend Lore
-linter-yaml-title-alias: Legend Lore
 ---
 # Legend Lore
 *5th-level, Divination*  

@@ -5,17 +5,18 @@ Bezeichnung: Kas der Verräter
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 23
-Habitat: /
+Habitat:
+  - /
 image: token/Kas-the-betrayer-veor.webp
 status: WIP
+linter-yaml-title-alias: Kas der Verräter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/23
   - Monster/Typ/Untote/vampire
   - Quelle/5e/veor
 aliases:
-  - Kas the Betrayer
-linter-yaml-title-alias: Kas the Betrayer
+  - Kas der Verräter
 ---
 # Kas der Verräter
 *Quelle: Vecna: Vorabend der Verdammnis S. 244*  

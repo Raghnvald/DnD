@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Der Kampfablauf
+linter-yaml-title-alias: Der Kampfablauf
 tags: []
+aliases:
+  - Der Kampfablauf
 ---
 # Der Kampfablauf
 

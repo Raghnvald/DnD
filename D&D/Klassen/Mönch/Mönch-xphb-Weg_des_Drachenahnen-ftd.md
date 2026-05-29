@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Ascendant Dragon
+linter-yaml-title-alias: Way of the Ascendant Dragon
 tags:
   - Klasse/Mönch/ascendant-dragon
   - Quelle/5e/ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Celestian
+linter-yaml-title-alias: Celestian
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/twilight

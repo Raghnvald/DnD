@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Kurzfristiger Wahnsinn
+linter-yaml-title-alias: Kurzfristiger Wahnsinn
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Kurzfristiger Wahnsinn
   - Short-Term Madness
 ---
 # Kurzfristiger Wahnsinn

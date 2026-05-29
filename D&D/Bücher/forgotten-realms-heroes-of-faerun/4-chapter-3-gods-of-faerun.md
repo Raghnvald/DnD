@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Gods of Faerûn"
+linter-yaml-title-alias: "Chapter 3: Gods of Faerûn"
 tags:
   - Quelle/5e/frhof
 aliases:

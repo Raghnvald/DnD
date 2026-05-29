@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Gegenstände beleben
+linter-yaml-title-alias: Gegenstände beleben
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -7,13 +12,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Animate Objects
-linter-yaml-title-alias: Gegenstände beleben
+  - Gegenstände beleben
 ---
 # Gegenstände beleben
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

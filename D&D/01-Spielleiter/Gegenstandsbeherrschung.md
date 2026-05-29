@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Item Mastery
+linter-yaml-title-alias: Item Mastery
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Bösartige Waffe
 Kategorie: Beliebige Waffe
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Bösartige Waffe
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -65,7 +70,6 @@ aliases:
   - Vicious Warhammer
   - Vicious Whip
   - Vicious Yklwa
-linter-yaml-title-alias: Bösartige Waffe
 ---
 # Bösartige Waffe
 *Waffe (irgendeine), selten*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aphrodite
+linter-yaml-title-alias: Aphrodite
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/greek

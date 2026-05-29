@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jiangshi
+linter-yaml-title-alias: Jiangshi
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Jiangshi
-linter-yaml-title-alias: Jiangshi
 ---
 # [Jiangshi](3-Mechanics\CLI\bestiary\undead/jiangshi-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 236*  

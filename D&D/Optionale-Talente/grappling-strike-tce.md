@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grappling Strike
+linter-yaml-title-alias: Grappling Strike
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/tce

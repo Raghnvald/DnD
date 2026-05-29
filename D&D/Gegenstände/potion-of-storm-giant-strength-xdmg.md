@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Storm Giant Strength
+linter-yaml-title-alias: Potion of Storm Giant Strength
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Storm Giant Strength
-linter-yaml-title-alias: Potion of Storm Giant Strength
 ---
 # Potion of Storm Giant Strength
 *Potion, legendary*  

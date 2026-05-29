@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Griffon Cavalry Rider
+linter-yaml-title-alias: Griffon Cavalry Rider
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

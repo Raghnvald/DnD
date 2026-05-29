@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Kriegsschiff
 Kategorie: Luft- und Wasserfahrzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Kriegsschiff
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Warship
+  - Kriegsschiff
 Bew.: 3,75 km/h
-linter-yaml-title-alias: Warship
 ---
 # Kriegsschiff
 *Schiff, Fahrzeug (Wasser)*  

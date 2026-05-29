@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Fulminating Treatise
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Fulminating Treatise
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:
   - Fulminating Treatise
-linter-yaml-title-alias: Fulminating Treatise
 ---
 # Fulminating Treatise
 *Wondrous item, rare (requires attunement by a wizard)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster
+linter-yaml-title-alias: Monster
 tags:
   - Quelle/5e/xphb
 aliases:

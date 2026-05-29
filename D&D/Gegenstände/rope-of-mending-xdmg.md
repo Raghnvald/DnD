@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Rope of Mending
+linter-yaml-title-alias: Rope of Mending
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Rope of Mending
-linter-yaml-title-alias: Rope of Mending
 ---
 # Rope of Mending
 *Wondrous item, common*  

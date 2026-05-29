@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/imr
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Infernal Machine Rebuild* 

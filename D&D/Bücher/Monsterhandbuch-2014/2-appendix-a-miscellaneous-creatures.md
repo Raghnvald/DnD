@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Miscellaneous Creatures"
+linter-yaml-title-alias: "Appendix A: Miscellaneous Creatures"
 tags:
   - Quelle/5e/mm
 aliases:
+  - "Appendix A: Miscellaneous Creatures"
   - Appendix A: Miscellaneous Creatures
 ---
 # Appendix A: Miscellaneous Creatures

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Tick
+linter-yaml-title-alias: Giant Tick
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

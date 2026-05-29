@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Familiar
+linter-yaml-title-alias: Draconic Familiar
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

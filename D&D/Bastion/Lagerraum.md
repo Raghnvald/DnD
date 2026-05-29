@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storage
+linter-yaml-title-alias: Storage
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

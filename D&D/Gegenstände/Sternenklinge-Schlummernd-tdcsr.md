@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Star Razor (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Star Razor (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Star Razor (Dormant)
-linter-yaml-title-alias: Star Razor (Dormant)
 ---
 # Star Razor (Dormant)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  

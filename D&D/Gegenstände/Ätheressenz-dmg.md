@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Essence of Ether
 Kategorie: Gift
-Eigenschaften: Gift
+Eigenschaften:
+  - Gift
 Kst.: 300 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Essence of Ether
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Essence of Ether
-linter-yaml-title-alias: Essence of Ether
 ---
 # Essence of Ether
 *Adventuring gear, poison (inhaled)*  

@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aurumvorax Den Leader
 status: WIP
+linter-yaml-title-alias: Aurumvorax Den Leader
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

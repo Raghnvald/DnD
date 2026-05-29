@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Exandrian Calendar
+linter-yaml-title-alias: Exandrian Calendar
 tags:
   - Quelle/5e/tdcsr
 aliases:

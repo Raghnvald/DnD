@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Scion of the Outer Planes
+linter-yaml-title-alias: Scion of the Outer Planes
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
   - "Scion of the Outer Planes"
+  - Scion of the Outer Planes
 ---
 # Scion of the Outer Planes
 *Source: Sigil and the Outlands p. 12*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of Looming Shadows
+linter-yaml-title-alias: Boon of Looming Shadows
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
   - "Boon of Looming Shadows"
+  - Boon of Looming Shadows
 ---
 # Boon of Looming Shadows
 *Source: Astarion's Book of Hungers p. 11*  

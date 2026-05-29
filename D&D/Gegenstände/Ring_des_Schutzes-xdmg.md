@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Protection
+linter-yaml-title-alias: Ring of Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Protection
-linter-yaml-title-alias: Ring of Protection
 ---
 # Ring of Protection
 *Ring, rare (requires attunement)*  

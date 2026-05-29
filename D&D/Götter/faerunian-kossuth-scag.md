@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kossuth
+linter-yaml-title-alias: Kossuth
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/faerunian

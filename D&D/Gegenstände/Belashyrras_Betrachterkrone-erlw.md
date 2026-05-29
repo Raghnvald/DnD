@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Belashyrra's Beholder Crown"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Belashyrra's Beholder Crown"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
-  - Belashyrra's Beholder Crown
-linter-yaml-title-alias: Belashyrra's Beholder Crown
+  - "Belashyrra's Beholder Crown"
 ---
 # Belashyrra's Beholder Crown
 *Wondrous item, legendary (requires attunement)*  

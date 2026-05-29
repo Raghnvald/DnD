@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +1 Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: +1 Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -22,7 +23,6 @@ aliases:
   - +1 Scale Mail
   - +1 Splint Armor
   - +1 Studded Leather Armor
-linter-yaml-title-alias: +1 Armor
 ---
 # +1 Armor
 *Rare*  

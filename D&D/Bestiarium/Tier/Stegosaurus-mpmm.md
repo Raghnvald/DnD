@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stegosaurus
+linter-yaml-title-alias: Stegosaurus
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

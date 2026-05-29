@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Lock
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 10 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Lock
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Lock
-linter-yaml-title-alias: Lock
 ---
 # Lock
 *Adventuring gear*  

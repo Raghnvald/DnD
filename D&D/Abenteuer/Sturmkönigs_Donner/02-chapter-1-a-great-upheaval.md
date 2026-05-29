@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: A Great Upheaval"
+linter-yaml-title-alias: "Chapter 1: A Great Upheaval"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 1: A Great Upheaval"
   - Chapter 1: A Great Upheaval
 ---
 # Chapter 1: A Great Upheaval

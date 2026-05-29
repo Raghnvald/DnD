@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Sykane, the Soul Hungerer
+linter-yaml-title-alias: Dark Gift of Sykane, the Soul Hungerer
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

@@ -1,27 +1,28 @@
 ---
-Bezeichnung: Ring of Fire Elemental Command
+Bezeichnung: Ring der Feuerelementar-Herrschaft
 Kategorie: Ring
+status: completed
+linter-yaml-title-alias: Ring der Feuerelementar-Herrschaft
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Fire Elemental Command
-linter-yaml-title-alias: Ring of Fire Elemental Command
+  - Ring der Feuerelementar-Herrschaft
 ---
-# Ring of Fire Elemental Command
-*Ring, major, legendary (requires attunement)*  
+# Ring der Feuerelementar-Herrschaft
+*Ring, legendär (benötigt Einstimmung)*  
 
-While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Fire and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Fire.
+Während du diesen Ring trägst, hast du einen Vorteil auf Angriffswürfe gegen Elementare der Ebene des Feuers und diese einen Nachteil auf Angriffswürfe gegen dich. Zusätzlich hast du Zugriff auf Eigenschaften, die mit der Ebene des Feuers verknüpft sind.
 
-The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+Der Ring hat 5 Ladungen. Er erhält zu jeder Morgendämmerung `1W4 + 1` der verbrauchten Ladungen zurück. Zauber, die mit dem Ring gewirkt werden, haben einen Rettungswurf-SG von 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](/3-Mechanics/CLI/spells/dominate-monster.md) on a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md). In addition, you have resistance to fire damage. You can also speak and understand Ignan.
+Du kannst 2 Ladungen des Ringes ausgeben, um [[Monster_beherrschen-phb|Monster beherrschen]] auf einen [[Feuerelementar-mm|Feuerelementar]] zu wirken. Außerdem hast du einen Widerstand gegen Feuerschaden. Du kannst zusätzlich Ignal verstehen und sprechen.
 
-If you help slay a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) while attuned to the ring, you gain access to the following additional properties:
+Wenn du dabei hilfst, einen [[Feuerelementar-mm|Feuerelementar]] zu töten, während du auf diesen Ring eingestimmt bist, erhältst du folgende zusätzliche Effekte:
 
-- You are immune to fire damage.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [burning hands](/3-Mechanics/CLI/spells/burning-hands.md) (1 charge), [fireball](/3-Mechanics/CLI/spells/fireball.md) (2 charges), and [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire.md) (3 charges).  
+- Du hast Schadensimmunität gegen Feuer.
+- Du kannst mit diesem Ring einen der folgenden Zauber wirken, wenn du dafür Ladungen verbrauchst: [[Brennende_Hände-phb|Brennende Hände]] (1 Ladung), [[Feuerball-phb|Feuerball]] (2 Ladungen) und [[Feuerwand-phb|Feuerwand]] (3 Ladungen).
 
-*Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 177. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

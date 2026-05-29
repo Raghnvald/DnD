@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Outer Essence Shard (Lawful)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Outer Essence Shard (Lawful)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Outer Essence Shard (Lawful)
-linter-yaml-title-alias: Outer Essence Shard (Lawful)
 ---
 # Outer Essence Shard (Lawful)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

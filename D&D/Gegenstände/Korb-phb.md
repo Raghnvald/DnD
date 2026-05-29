@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Korb
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 SM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Korb
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Basket
-linter-yaml-title-alias: Basket
+  - Korb
 ---
 # Korb
 *Abenteuerausrüstung*

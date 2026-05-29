@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lungtian
+linter-yaml-title-alias: Lungtian
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Lungtian
-linter-yaml-title-alias: Lungtian
 ---
 # [Lungtian](3-Mechanics\CLI\bestiary\npc/lungtian-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 136*  

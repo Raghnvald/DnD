@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Forge of the Artificer"
+linter-yaml-title-alias: "Introduction: Forge of the Artificer"
 tags:
   - Quelle/5e/efa
 aliases:

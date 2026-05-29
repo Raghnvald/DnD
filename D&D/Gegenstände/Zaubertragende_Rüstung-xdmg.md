@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Armor
+linter-yaml-title-alias: Enspelled Armor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Armor
-linter-yaml-title-alias: Enspelled Armor
 ---
 # Enspelled Armor
 *(Requires attunement)*  

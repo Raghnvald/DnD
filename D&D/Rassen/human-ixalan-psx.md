@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Human (Ixalan)
+linter-yaml-title-alias: Human (Ixalan)
 tags:
   - Quelle/5e/psx
   - Rasse/human/ixalan
 aliases:
   - "Human (Ixalan)"
+  - Human (Ixalan)
 ---
 # Human (Ixalan)
 *Source: Plane Shift: Ixalan p. 11*  

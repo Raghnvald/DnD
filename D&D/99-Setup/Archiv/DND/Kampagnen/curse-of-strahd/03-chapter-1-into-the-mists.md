@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Into the Mists"
+linter-yaml-title-alias: "Chapter 1: Into the Mists"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 1: Into the Mists"
   - Chapter 1: Into the Mists
 ---
 # Chapter 1: Into the Mists

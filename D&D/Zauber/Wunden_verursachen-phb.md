@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Inflict Wounds
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Paladin (Oathbreaker)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -15,13 +20,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Paladin (Oathbreaker)
 aliases:
   - Inflict Wounds
-linter-yaml-title-alias: Inflict Wounds
 ---
 # Inflict Wounds
 *1st-level, Necromancy*  

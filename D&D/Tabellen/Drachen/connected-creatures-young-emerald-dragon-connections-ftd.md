@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Young Emerald Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Young Emerald Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Sidekicks"
+linter-yaml-title-alias: "Appendix B: Sidekicks"
 tags:
   - Quelle/5e/slw
 aliases:
+  - "Appendix B: Sidekicks"
   - Appendix B: Sidekicks
 ---
 # Appendix B: Sidekicks

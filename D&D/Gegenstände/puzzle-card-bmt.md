@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Puzzle Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Puzzle Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Puzzle Card
-linter-yaml-title-alias: Puzzle Card
 ---
 # Puzzle Card
 *Wondrous item, legendary*  

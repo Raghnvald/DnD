@@ -2,21 +2,22 @@
 Bezeichnung: Schild der Uven-Rune
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schild der Uven-Rune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/wdmm
 aliases:
-  - Shield of the Uven Rune
-linter-yaml-title-alias: Shield of the Uven Rune
+  - Schild der Uven-Rune
 ---
 # Schild der Uven-Rune
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thief
+linter-yaml-title-alias: Thief
 tags:
   - Klasse/Schurke/Dieb
   - Quelle/5e/phb

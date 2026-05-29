@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pazrodine
+linter-yaml-title-alias: Pazrodine
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/21
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Pazrodine
-linter-yaml-title-alias: Pazrodine
 ---
 # [Pazrodine](3-Mechanics\CLI\bestiary\npc/pazrodine-bmt.md)
 *Source: The Book of Many Things p. 113*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aristocrat Quests
+linter-yaml-title-alias: Aristocrat Quests
 tags:
   - Quelle/5e/tce
 aliases:

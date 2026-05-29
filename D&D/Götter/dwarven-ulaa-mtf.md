@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ulaa
+linter-yaml-title-alias: Ulaa
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/dwarven

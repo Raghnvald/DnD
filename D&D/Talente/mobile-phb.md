@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mobile
+linter-yaml-title-alias: Mobile
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

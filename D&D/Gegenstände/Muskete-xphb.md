@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Musket
+linter-yaml-title-alias: Musket
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Musket
-linter-yaml-title-alias: Musket
 ---
 # Musket
 *Weapon*  

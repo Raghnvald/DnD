@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Disadvantage
+linter-yaml-title-alias: Disadvantage
 tags:
   - Quelle/5e/xphb
 aliases:

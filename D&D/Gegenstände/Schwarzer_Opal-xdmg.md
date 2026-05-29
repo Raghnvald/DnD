@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Black Opal
+linter-yaml-title-alias: Black Opal
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Black Opal
-linter-yaml-title-alias: Black Opal
 ---
 # Black Opal
 *Treasure (gemstone)*  

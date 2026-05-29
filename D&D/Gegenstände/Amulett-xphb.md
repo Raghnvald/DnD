@@ -1,12 +1,17 @@
 ---
 Bezeichnung: Amulet
+Eigenschaften:
+  - /
+Kst.: 5 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Amulet
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Amulet
-linter-yaml-title-alias: Amulet
 ---
 # Amulet
 *Spellcasting focus*  

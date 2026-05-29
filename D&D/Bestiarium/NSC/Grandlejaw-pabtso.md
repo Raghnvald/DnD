@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grandlejaw
+Image: token/grandlejaw-pabtso.webp
+linter-yaml-title-alias: Grandlejaw
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Grandlejaw
-Image: token/grandlejaw-pabtso.webp
-linter-yaml-title-alias: Grandlejaw
 ---
 # Grandlejaw
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  

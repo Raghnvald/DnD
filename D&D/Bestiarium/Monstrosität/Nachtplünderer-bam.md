@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Night Scavver
+image: token/night-scavver-bam.webp
 status: WIP
+linter-yaml-title-alias: Night Scavver
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5

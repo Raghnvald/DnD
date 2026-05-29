@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Dimir Keyrune
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Dimir Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ggr
 aliases:
   - Dimir Keyrune
-linter-yaml-title-alias: Dimir Keyrune
 ---
 # Dimir Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Dimir guild)*  

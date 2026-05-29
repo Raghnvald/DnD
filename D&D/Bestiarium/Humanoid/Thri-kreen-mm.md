@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thri-kreen
+linter-yaml-title-alias: Thri-kreen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

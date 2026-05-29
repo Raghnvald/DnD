@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Lantern of Revealing
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Lantern of Revealing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Lantern of Revealing
-linter-yaml-title-alias: Lantern of Revealing
 ---
 # Lantern of Revealing
 *Wondrous item, minor, uncommon*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Begabt
+linter-yaml-title-alias: Begabt
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
+  - Begabt
   - Skilled
 ---
 # Begabt

@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Finder's Goggles"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Finder's Goggles"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
-  - Finder's Goggles
-linter-yaml-title-alias: Finder's Goggles
+  - "Finder's Goggles"
 ---
 # Finder's Goggles
 *Wondrous item, uncommon (requires attunement by a creature with the Mark of Finding)*  

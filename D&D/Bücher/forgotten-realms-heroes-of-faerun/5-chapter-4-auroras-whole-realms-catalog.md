@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Aurora's Whole Realms Catalog"
+linter-yaml-title-alias: "Chapter 4: Aurora's Whole Realms Catalog"
 tags:
   - Quelle/5e/frhof
 aliases:

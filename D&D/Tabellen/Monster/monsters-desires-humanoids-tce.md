@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Humanoids"
+linter-yaml-title-alias: "Monsters' Desires; Humanoids"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Humanoids"
   - Monsters' Desires; Humanoids
 ---
 # Monsters' Desires; Humanoids

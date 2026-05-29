@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adjudicating Areas of Effect; Targets in Area of Effect
+linter-yaml-title-alias: Adjudicating Areas of Effect; Targets in Area of Effect
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Mechanical Spiders
+linter-yaml-title-alias: Swarm of Mechanical Spiders
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

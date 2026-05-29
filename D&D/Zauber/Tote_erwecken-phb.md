@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Raise Dead
 Zaubergrad: 5
+linter-yaml-title-alias: Raise Dead
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Paladin
 aliases:
   - Raise Dead
-linter-yaml-title-alias: Raise Dead
 ---
 # Raise Dead
 *5th-level, Necromancy*  

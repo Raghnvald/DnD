@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadowfell Despair
+linter-yaml-title-alias: Shadowfell Despair
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Pipe of Remembrance
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Pipe of Remembrance
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/gos
 aliases:
   - Pipe of Remembrance
-linter-yaml-title-alias: Pipe of Remembrance
 ---
 # Pipe of Remembrance
 *Wondrous item, common*  

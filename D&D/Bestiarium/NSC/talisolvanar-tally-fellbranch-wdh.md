@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Talisolvanar "Tally" Fellbranch'
+linter-yaml-title-alias: 'Talisolvanar "Tally" Fellbranch'
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -10,7 +11,6 @@ tags:
 aliases:
   - 'Talisolvanar "Tally" Fellbranch'
   - Talisolvanar "Tally" Fellbranch
-linter-yaml-title-alias: 'Talisolvanar "Tally" Fellbranch'
 ---
 # [Talisolvanar "Tally" Fellbranch](3-Mechanics\CLI\bestiary\npc/talisolvanar-tally-fellbranch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

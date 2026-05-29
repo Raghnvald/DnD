@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Segen des Verständnisses
+linter-yaml-title-alias: Segen des Verständnisses
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/dmg
 aliases:
   - Blessing of Understanding
+  - Segen des Verständnisses
 ---
 # Segen des Verständnisses
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Boon of Fortune's Favor"
+linter-yaml-title-alias: "Boon of Fortune's Favor"
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof

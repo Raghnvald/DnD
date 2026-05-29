@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Propulsion Armor
+linter-yaml-title-alias: Arcane Propulsion Armor
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

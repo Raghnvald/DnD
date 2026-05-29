@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for River of Hungry Flame
+linter-yaml-title-alias: Spells for River of Hungry Flame
 tags:
   - Zauber/list/optfeature/river-of-hungry-flame
 aliases:

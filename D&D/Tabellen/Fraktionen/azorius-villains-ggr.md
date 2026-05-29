@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Villains
+linter-yaml-title-alias: Azorius Villains
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Froghemoth
+linter-yaml-title-alias: Froghemoth
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Sumpf

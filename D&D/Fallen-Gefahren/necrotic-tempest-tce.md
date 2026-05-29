@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Necrotic Tempest
+linter-yaml-title-alias: Necrotic Tempest
 tags:
   - Kompendium/Bedrohung/est
   - Quelle/5e/tce

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Locked Door; Lock Complexity
+linter-yaml-title-alias: Locked Door; Lock Complexity
 tags:
   - Quelle/5e/xdmg
 aliases:

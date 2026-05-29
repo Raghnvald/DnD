@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Japanese, Male
+linter-yaml-title-alias: Human Names – Japanese, Male
 tags:
   - Quelle/5e/xge
 aliases:

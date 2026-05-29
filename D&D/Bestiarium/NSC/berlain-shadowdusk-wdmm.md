@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Berlain Shadowdusk
+linter-yaml-title-alias: Berlain Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Berlain Shadowdusk
-linter-yaml-title-alias: Berlain Shadowdusk
 ---
 # [Berlain Shadowdusk](3-Mechanics\CLI\bestiary\npc/berlain-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 283*  

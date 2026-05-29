@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling Names – Male
+linter-yaml-title-alias: Tiefling Names – Male
 tags:
   - Quelle/5e/xge
 aliases:

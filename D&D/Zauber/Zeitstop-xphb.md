@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Time Stop
+linter-yaml-title-alias: Time Stop
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/9
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
 aliases:
   - Time Stop
-linter-yaml-title-alias: Time Stop
 ---
 # Time Stop
 *9th-level, Transmutation*  

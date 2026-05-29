@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Classes
+linter-yaml-title-alias: Classes
 tags:
   - Quelle/5e/scag
 aliases:

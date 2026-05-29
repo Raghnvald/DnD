@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Winged Kobold
+linter-yaml-title-alias: Winged Kobold
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Arktis

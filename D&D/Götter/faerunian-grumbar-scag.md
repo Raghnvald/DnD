@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grumbar
+linter-yaml-title-alias: Grumbar
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/faerunian

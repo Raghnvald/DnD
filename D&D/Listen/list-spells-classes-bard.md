@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Bard Spells
+linter-yaml-title-alias: Bard Spells
 tags:
   - Zauber/list/class/bard
 aliases:
   - Bard Spells
-linter-yaml-title-alias: Bard Spells
 ---
 # Bard Spells
 

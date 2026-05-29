@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for School of Illusion
+linter-yaml-title-alias: Spells for School of Illusion
 tags:
   - Zauber/list/subclass/school-of-illusion
 aliases:

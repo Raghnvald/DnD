@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Polymorph
 Zaubergrad: 4
+linter-yaml-title-alias: Polymorph
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Trickery Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -13,17 +22,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/sculptor-of-flesh
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Trickery Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Polymorph
-linter-yaml-title-alias: Polymorph
 ---
 # Polymorph
 *4th-level, Transmutation*  

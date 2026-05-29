@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Wakened Dragon's Wrath Weapon"
+linter-yaml-title-alias: "Wakened Dragon's Wrath Weapon"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -65,7 +66,6 @@ aliases:
   - Wakened Dragon's Wrath Weapon
   - Wakened Dragon's Wrath Whip
   - Wakened Dragon's Wrath Yklwa
-linter-yaml-title-alias: "Wakened Dragon's Wrath Weapon"
 ---
 # Wakened Dragon's Wrath Weapon
 *Very rare (requires attunement)*  

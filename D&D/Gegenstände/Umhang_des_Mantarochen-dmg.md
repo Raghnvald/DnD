@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Cloak of the Manta Ray
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cloak of the Manta Ray
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Cloak of the Manta Ray
-linter-yaml-title-alias: Cloak of the Manta Ray
 ---
 # Cloak of the Manta Ray
 *Wondrous item, minor, uncommon*  

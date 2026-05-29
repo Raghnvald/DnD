@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating an Emerald Dragon; Emerald Dragon Ideals
+linter-yaml-title-alias: Creating an Emerald Dragon; Emerald Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

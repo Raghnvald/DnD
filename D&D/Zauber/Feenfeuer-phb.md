@@ -7,6 +7,12 @@ Komponenten: V
 Wirkungsdauer: K, <1 Minute
 Angriff: GES
 Schaden: n/v
+linter-yaml-title-alias: Feenfeuer
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Light Domain)
+  - Druid
+  - Warlock (The Archfey)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,14 +23,9 @@ tags:
   - Subrasse/elf-drow
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Light Domain)
-  - Druid
-  - Warlock (The Archfey)
 aliases:
   - Faerie Fire
-linter-yaml-title-alias: Feenfeuer
+  - Feenfeuer
 ---
 # Feenfeuer
 *Hervorrufung des 1. Grades*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Life Domain
+linter-yaml-title-alias: Life Domain
 tags:
   - Klasse/Kleriker/life
   - Kompendium/Götter/Domäne/life

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Restoring Harmony: The Lost Tomb"
+linter-yaml-title-alias: "Restoring Harmony: The Lost Tomb"
 tags:
   - Quelle/5e/nrh-tlt
 aliases:

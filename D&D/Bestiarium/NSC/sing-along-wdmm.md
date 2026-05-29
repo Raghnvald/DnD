@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sing-Along
+linter-yaml-title-alias: Sing-Along
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Sing-Along
-linter-yaml-title-alias: Sing-Along
 ---
 # [Sing-Along](3-Mechanics\CLI\bestiary\npc/sing-along-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 148*  

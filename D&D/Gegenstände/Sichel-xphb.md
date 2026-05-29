@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sickle
+linter-yaml-title-alias: Sickle
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Sickle
-linter-yaml-title-alias: Sickle
 ---
 # Sickle
 *Weapon*  

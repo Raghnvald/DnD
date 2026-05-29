@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Animal Lord)
+linter-yaml-title-alias: Scroll of Titan Summoning (Animal Lord)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning (Animal Lord)
-linter-yaml-title-alias: Scroll of Titan Summoning (Animal Lord)
 ---
 # Scroll of Titan Summoning (Animal Lord)
 *Scroll, legendary*  

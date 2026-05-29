@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Tavernen & Gasthäuser
+linter-yaml-title-alias: Tavernen & Gasthäuser
+aliases:
+  - Tavernen & Gasthäuser
 ---
 # Tavernen & Gasthäuser
 

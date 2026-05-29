@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beyond Barovia; Lost Tatyana
+linter-yaml-title-alias: Beyond Barovia; Lost Tatyana
 tags:
   - Quelle/5e/vrgr
 aliases:

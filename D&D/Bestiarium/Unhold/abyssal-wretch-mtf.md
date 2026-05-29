@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/abyssal-wretch-mtf.webp
 status: WIP
+linter-yaml-title-alias: Abyssal Wretch
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

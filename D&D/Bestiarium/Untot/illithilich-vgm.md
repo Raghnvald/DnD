@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Illithilich
+linter-yaml-title-alias: Illithilich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Illithilich
-linter-yaml-title-alias: Illithilich
 ---
 # [Illithilich](3-Mechanics\CLI\bestiary\undead/illithilich-vgm.md)
 *Source: Volo's Guide to Monsters p. 172*  

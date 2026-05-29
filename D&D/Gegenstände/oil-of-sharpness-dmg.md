@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Oil of Sharpness
 Kategorie: Trank
+linter-yaml-title-alias: Oil of Sharpness
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Oil of Sharpness
-linter-yaml-title-alias: Oil of Sharpness
 ---
 # Oil of Sharpness
 *Potion, minor, very rare*  

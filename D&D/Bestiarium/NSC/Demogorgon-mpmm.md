@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demogorgon
+linter-yaml-title-alias: Demogorgon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/26
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Demogorgon
-linter-yaml-title-alias: Demogorgon
 ---
 # Demogorgon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 90*  

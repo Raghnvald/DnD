@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of Fluid Forms
+linter-yaml-title-alias: Boon of Fluid Forms
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Boon of Fluid Forms"
+  - Boon of Fluid Forms
 ---
 # Boon of Fluid Forms
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Beast Bond
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -16,14 +22,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Beast Bond
-linter-yaml-title-alias: Beast Bond
 ---
 # Beast Bond
 *1st-level, Divination*  

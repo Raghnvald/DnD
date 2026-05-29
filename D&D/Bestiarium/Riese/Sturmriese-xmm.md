@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Storm Giant
+linter-yaml-title-alias: Storm Giant
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Küste

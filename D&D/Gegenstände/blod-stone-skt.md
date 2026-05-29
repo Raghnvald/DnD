@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blod Stone
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Blod Stone
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Blod Stone
-linter-yaml-title-alias: Blod Stone
 ---
 # Blod Stone
 *Wondrous item, rare (requires attunement)*  

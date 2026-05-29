@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Creation
+linter-yaml-title-alias: Creation
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Forge Domain)
+  - Sorcerer
+  - Warlock (The Genie, Dao)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -11,17 +20,8 @@ tags:
   - Subklasse/the-genie/dao
   - Zauber/Grad/5
   - Zauber/Schule/Illusion
-classes:
-  - Artificer
-  - Bard
-  - Cleric (Forge Domain)
-  - Sorcerer
-  - Warlock (The Genie, Dao)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Creation
-linter-yaml-title-alias: Creation
 ---
 # Creation
 *5th-level, Illusion*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stormgirdle (Awakened)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stormgirdle (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Stormgirdle (Awakened)
-linter-yaml-title-alias: Stormgirdle (Awakened)
 ---
 # Stormgirdle (Awakened)
 *Wondrous item, legendary (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Crime
+linter-yaml-title-alias: Secondary Tables; Crime
 tags:
   - Quelle/5e/xge
 aliases:

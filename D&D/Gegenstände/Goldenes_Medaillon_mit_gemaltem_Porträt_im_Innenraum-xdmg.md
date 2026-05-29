@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gold locket with a painted portrait inside
+linter-yaml-title-alias: Gold locket with a painted portrait inside
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Gold locket with a painted portrait inside
-linter-yaml-title-alias: Gold locket with a painted portrait inside
 ---
 # Gold locket with a painted portrait inside
 *Treasure (art object)*  

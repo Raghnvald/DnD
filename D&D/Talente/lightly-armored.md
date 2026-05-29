@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Lightly Armored
+linter-yaml-title-alias: Lightly Armored
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
   - "Lightly Armored"
+  - Lightly Armored
 ---
 # Lightly Armored
 *Source: Player's Handbook p. 167*  

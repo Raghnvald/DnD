@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Marut
+linter-yaml-title-alias: Marut
 tags:
   - Monster/Größe/Groß
   - Monster/HG/25

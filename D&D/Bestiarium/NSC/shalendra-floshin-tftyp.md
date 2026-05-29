@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shalendra Floshin
+linter-yaml-title-alias: Shalendra Floshin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Shalendra Floshin
-linter-yaml-title-alias: Shalendra Floshin
 ---
 # [Shalendra Floshin](3-Mechanics\CLI\bestiary\npc/shalendra-floshin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 119*  

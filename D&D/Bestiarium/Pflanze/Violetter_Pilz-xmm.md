@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Violet Fungus
+linter-yaml-title-alias: Violet Fungus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

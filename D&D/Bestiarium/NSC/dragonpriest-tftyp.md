@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonpriest
+linter-yaml-title-alias: Dragonpriest
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Dragonpriest
-linter-yaml-title-alias: Dragonpriest
 ---
 # [Dragonpriest](3-Mechanics\CLI\bestiary\npc/dragonpriest-tftyp.md)
 *Source: Tales from the Yawning Portal p. 16*  

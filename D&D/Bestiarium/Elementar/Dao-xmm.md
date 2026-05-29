@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dao
+linter-yaml-title-alias: Dao
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/earth

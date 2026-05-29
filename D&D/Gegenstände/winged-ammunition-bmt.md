@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Winged Ammunition
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Winged Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -13,7 +19,6 @@ aliases:
   - Winged Firearm Bullet
   - Winged Needle
   - Winged Sling Bullet
-linter-yaml-title-alias: Winged Ammunition
 ---
 # Winged Ammunition
 *Ammunition, uncommon*  

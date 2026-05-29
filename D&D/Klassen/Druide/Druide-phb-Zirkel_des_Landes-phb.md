@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Land
+linter-yaml-title-alias: Circle of the Land
 tags:
   - Klasse/Druide/land
   - Quelle/5e/phb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Osvaldo Cassalanter
+linter-yaml-title-alias: Osvaldo Cassalanter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Osvaldo Cassalanter
-linter-yaml-title-alias: Osvaldo Cassalanter
 ---
 # [Osvaldo Cassalanter](3-Mechanics\CLI\bestiary\npc/osvaldo-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 124*  

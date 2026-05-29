@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 11: Troglodyte Warrens"
+linter-yaml-title-alias: "Level 11: Troglodyte Warrens"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 11: Troglodyte Warrens"
   - Level 11: Troglodyte Warrens
 ---
 # Level 11: Troglodyte Warrens

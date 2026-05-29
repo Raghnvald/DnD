@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amaunator
+linter-yaml-title-alias: Amaunator
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

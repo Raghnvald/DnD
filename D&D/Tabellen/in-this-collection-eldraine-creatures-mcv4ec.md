@@ -1,5 +1,6 @@
 ---
 Bezeichnung: In This Collection; Eldraine Creatures
+linter-yaml-title-alias: In This Collection; Eldraine Creatures
 tags:
   - Quelle/5e/mcv4ec
 aliases:

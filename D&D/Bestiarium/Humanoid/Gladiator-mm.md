@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gladiator
+linter-yaml-title-alias: Gladiator
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

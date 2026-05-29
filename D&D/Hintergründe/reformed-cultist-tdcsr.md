@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reformed Cultist
+linter-yaml-title-alias: Reformed Cultist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: High Fae Mage
+linter-yaml-title-alias: High Fae Mage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

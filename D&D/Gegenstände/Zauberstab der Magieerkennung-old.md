@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab der Magieerkennung
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
 Kst.: 400 GM
 Gew.: 0,5 kg
 image: wand-of-magic-detection.webp
+linter-yaml-title-alias: Zauberstab der Magieerkennung
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Magic Detection
+  - Zauberstab der Magieerkennung
 ---
 # Zauberstab der Magieerkennung
 _Zauberstab, ungewöhnlich_  

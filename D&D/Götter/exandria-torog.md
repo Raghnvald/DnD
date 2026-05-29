@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Torog
+linter-yaml-title-alias: Torog
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/trickery

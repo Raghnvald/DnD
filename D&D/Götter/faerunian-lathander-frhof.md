@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lathander
+linter-yaml-title-alias: Lathander
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Lathander"
   - "The Morninglord"
   - "The Rose-And-Gold God"
+  - Lathander
 ---
 # Lathander
 *Source: Forgotten Realms: Heroes of Faerûn p. 111* 

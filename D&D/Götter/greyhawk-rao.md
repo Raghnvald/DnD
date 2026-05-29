@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rao
+linter-yaml-title-alias: Rao
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/peace

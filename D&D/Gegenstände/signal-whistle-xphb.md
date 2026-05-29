@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Signal Whistle
+linter-yaml-title-alias: Signal Whistle
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Signal Whistle
-linter-yaml-title-alias: Signal Whistle
 ---
 # Signal Whistle
 *Adventuring gear*  

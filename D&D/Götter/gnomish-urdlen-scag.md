@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urdlen
+linter-yaml-title-alias: Urdlen
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/war

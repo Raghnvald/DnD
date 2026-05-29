@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pit Fighting Results
+linter-yaml-title-alias: Pit Fighting Results
 tags:
   - Quelle/5e/xge
 aliases:

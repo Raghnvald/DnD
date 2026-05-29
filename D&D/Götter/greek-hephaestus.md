@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hephaestus
+linter-yaml-title-alias: Hephaestus
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge

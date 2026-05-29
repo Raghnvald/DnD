@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fireball Fungus
+linter-yaml-title-alias: Fireball Fungus
 tags:
   - Quelle/5e/xdmg
 aliases:

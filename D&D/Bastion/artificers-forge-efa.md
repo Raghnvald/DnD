@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Artificer's Forge"
+linter-yaml-title-alias: "Artificer's Forge"
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa

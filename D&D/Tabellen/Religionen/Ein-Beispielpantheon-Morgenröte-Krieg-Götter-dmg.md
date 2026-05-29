@@ -1,5 +1,6 @@
 ---
 Bezeichnung: A Sample Pantheon; Dawn War Deities
+linter-yaml-title-alias: A Sample Pantheon; Dawn War Deities
 tags:
   - Quelle/5e/dmg
 aliases:

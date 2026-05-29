@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valin Sarnaster
+linter-yaml-title-alias: Valin Sarnaster
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/16
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Valin Sarnaster
-linter-yaml-title-alias: Valin Sarnaster
 ---
 # [Valin Sarnaster](3-Mechanics\CLI\bestiary\npc/valin-sarnaster-cm.md)
 *Source: Candlekeep Mysteries p. 182*  

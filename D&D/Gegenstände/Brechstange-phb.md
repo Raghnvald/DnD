@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Brechstange
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Brechstange
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Brechstange
-linter-yaml-title-alias: Brechstange
 ---
 # Brechstange
 *Abenteuerausrüstung*  

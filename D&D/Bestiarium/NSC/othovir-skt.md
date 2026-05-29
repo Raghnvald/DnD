@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Othovir
+linter-yaml-title-alias: Othovir
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Othovir
-linter-yaml-title-alias: Othovir
 ---
 # [Othovir](3-Mechanics\CLI\bestiary\npc/othovir-skt.md)
 *Source: Storm King's Thunder p. 255*  

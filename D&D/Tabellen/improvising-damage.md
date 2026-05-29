@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Improvising Damage
+linter-yaml-title-alias: Improvising Damage
 tags:
   - Quelle/5e/dmg
 aliases:

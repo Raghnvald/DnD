@@ -7,16 +7,16 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Besseres Reittier finden
+classes:
+  - Paladin
 tags:
   - Klasse/Paladin
   - Quelle/5e/xge
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Paladin
 aliases:
-  - Find Greater Steed
-linter-yaml-title-alias: Find Greater Steed
+  - Besseres Reittier finden
 ---
 # Besseres Reittier finden
 *Beschwörung des 4. Grades*

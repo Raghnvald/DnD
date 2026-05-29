@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bestiary
+linter-yaml-title-alias: Bestiary
 tags:
   - Quelle/5e/ftd
 aliases:

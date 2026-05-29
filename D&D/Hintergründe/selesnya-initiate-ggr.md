@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya Initiate
+linter-yaml-title-alias: Selesnya Initiate
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

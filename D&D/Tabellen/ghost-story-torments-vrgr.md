@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghost Story Torments
+linter-yaml-title-alias: Ghost Story Torments
 tags:
   - Quelle/5e/vrgr
 aliases:

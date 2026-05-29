@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Elementals)
+linter-yaml-title-alias: Scroll of Protection (Elementals)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Elementals)
-linter-yaml-title-alias: Scroll of Protection (Elementals)
 ---
 # Scroll of Protection (Elementals)
 *Scroll, rare*  

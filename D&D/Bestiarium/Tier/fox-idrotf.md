@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fox
+linter-yaml-title-alias: Fox
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

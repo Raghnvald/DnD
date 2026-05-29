@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Paper
+linter-yaml-title-alias: Paper
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Paper
-linter-yaml-title-alias: Paper
 ---
 # Paper
 *Adventuring gear*  

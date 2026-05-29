@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phase Spider
+linter-yaml-title-alias: Phase Spider
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

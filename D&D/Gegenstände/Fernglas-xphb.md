@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spyglass
+linter-yaml-title-alias: Spyglass
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Spyglass
-linter-yaml-title-alias: Spyglass
 ---
 # Spyglass
 *Adventuring gear*  

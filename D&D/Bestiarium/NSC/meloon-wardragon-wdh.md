@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Meloon Wardragon
+linter-yaml-title-alias: Meloon Wardragon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Meloon Wardragon
-linter-yaml-title-alias: Meloon Wardragon
 ---
 # [Meloon Wardragon](3-Mechanics\CLI\bestiary\npc/meloon-wardragon-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 210*  

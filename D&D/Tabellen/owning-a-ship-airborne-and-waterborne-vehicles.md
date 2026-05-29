@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Owning a Ship; Airborne and Waterborne Vehicles
+linter-yaml-title-alias: Owning a Ship; Airborne and Waterborne Vehicles
 tags:
   - Quelle/5e/dmg
 aliases:

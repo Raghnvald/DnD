@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Baldur's Gate Gazetteer"
+linter-yaml-title-alias: "Baldur's Gate Gazetteer"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Gazetteer"
   - Baldur's Gate Gazetteer
 ---
 # Baldur's Gate Gazetteer

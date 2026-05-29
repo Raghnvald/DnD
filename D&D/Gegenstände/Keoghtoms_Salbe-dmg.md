@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Keoghtom's Ointment"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Keoghtom's Ointment"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Keoghtom's Ointment
-linter-yaml-title-alias: Keoghtom's Ointment
+  - "Keoghtom's Ointment"
 ---
 # Keoghtom's Ointment
 *Wondrous item, minor, uncommon*  

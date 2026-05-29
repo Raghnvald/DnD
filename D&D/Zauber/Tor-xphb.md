@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Gate
+linter-yaml-title-alias: Gate
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -10,16 +18,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/9
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 aliases:
   - Gate
-linter-yaml-title-alias: Gate
 ---
 # Gate
 *9th-level, Conjuration*  

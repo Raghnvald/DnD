@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ankheg
+linter-yaml-title-alias: Ankheg
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

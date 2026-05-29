@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 9: Tsolenka Pass"
+linter-yaml-title-alias: "Chapter 9: Tsolenka Pass"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 9: Tsolenka Pass"
   - Chapter 9: Tsolenka Pass
 ---
 # Chapter 9: Tsolenka Pass

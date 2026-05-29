@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Personality and Background
+linter-yaml-title-alias: Personality and Background
 tags:
   - Quelle/5e/phb
 aliases:

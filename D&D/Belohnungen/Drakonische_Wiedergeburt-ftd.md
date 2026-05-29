@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Rebirth
+linter-yaml-title-alias: Draconic Rebirth
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

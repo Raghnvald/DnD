@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Twilight Domain
+linter-yaml-title-alias: Twilight Domain
 tags:
   - Klasse/Kleriker/twilight
   - Kompendium/Götter/Domäne/twilight

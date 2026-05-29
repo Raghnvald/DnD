@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trithereon
+linter-yaml-title-alias: Trithereon
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/greyhawk

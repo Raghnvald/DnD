@@ -6,6 +6,13 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Whirlwind
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,15 +22,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Whirlwind
-linter-yaml-title-alias: Whirlwind
 ---
 # Whirlwind
 *7th-level, Evocation*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Council Scorecard"
+linter-yaml-title-alias: "Appendix B: Council Scorecard"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Appendix B: Council Scorecard"
   - Appendix B: Council Scorecard
 ---
 # Appendix B: Council Scorecard

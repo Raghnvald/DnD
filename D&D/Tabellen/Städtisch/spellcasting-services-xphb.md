@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spellcasting Services
+linter-yaml-title-alias: Spellcasting Services
 tags:
   - Quelle/5e/xphb
 aliases:

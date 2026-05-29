@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fantastical Races
+linter-yaml-title-alias: Fantastical Races
 tags:
   - Quelle/5e/mpmm
 aliases:

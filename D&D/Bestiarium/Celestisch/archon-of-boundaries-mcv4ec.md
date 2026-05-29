@@ -5,6 +5,7 @@ Bezeichnung: Archon of Boundaries
 Kategorie: Celestisch
 Größe: Riesig
 status: WIP
+linter-yaml-title-alias: Archon of Boundaries
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15

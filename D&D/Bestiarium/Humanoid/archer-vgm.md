@@ -5,6 +5,7 @@ Bezeichnung: Archer
 Kategorie: Humanoid
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Archer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

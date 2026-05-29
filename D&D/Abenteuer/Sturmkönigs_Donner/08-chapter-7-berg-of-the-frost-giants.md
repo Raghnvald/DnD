@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 7: Berg of the Frost Giants"
+linter-yaml-title-alias: "Chapter 7: Berg of the Frost Giants"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 7: Berg of the Frost Giants"
   - Chapter 7: Berg of the Frost Giants
 ---
 # Chapter 7: Berg of the Frost Giants

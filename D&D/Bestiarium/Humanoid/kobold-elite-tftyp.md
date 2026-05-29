@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Elite
+linter-yaml-title-alias: Kobold Elite
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-8

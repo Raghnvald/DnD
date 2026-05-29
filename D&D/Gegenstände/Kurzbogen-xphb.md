@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shortbow
+linter-yaml-title-alias: Shortbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Shortbow
-linter-yaml-title-alias: Shortbow
 ---
 # Shortbow
 *Weapon*  

@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Belashyrra
 Kategorie: Aberration
+linter-yaml-title-alias: Belashyrra
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/22
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Belashyrra
-linter-yaml-title-alias: Belashyrra
 ---
 # [Belashyrra](3-Mechanics\CLI\bestiary\npc/belashyrra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 286*  

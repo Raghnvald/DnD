@@ -1,18 +1,18 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Exalted)"
 Rüstung: Leicht
+linter-yaml-title-alias: "Deathwalker's Ward (Exalted)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - Deathwalker's Ward (Exalted)
-linter-yaml-title-alias: Deathwalker's Ward (Exalted)
+  - "Deathwalker's Ward (Exalted)"
 ---
 # Deathwalker's Ward (Exalted)
-*Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  
-![Black leather armor with i...](/3-Mechanics/CLI/items/img/deathwalkersward.webp#right "Black leather armor with intricate embroidery, the shoulders consisting of black raven feathers.")
+*Light armor ([studded leather armor](studded-leather-armor-xphb.md)), legendary (requires attunement)*  
+![Black leather armor with i...](img/deathwalkersward.webp#right "Black leather armor with intricate embroidery, the shoulders consisting of black raven feathers.")
 
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)

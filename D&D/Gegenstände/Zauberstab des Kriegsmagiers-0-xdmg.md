@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of the War Mage
+linter-yaml-title-alias: Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of the War Mage
-linter-yaml-title-alias: Wand of the War Mage
 ---
 # Wand of the War Mage
 *Wand (requires attunement by a spellcaster)*  

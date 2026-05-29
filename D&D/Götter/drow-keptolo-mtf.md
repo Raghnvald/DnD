@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keptolo
+linter-yaml-title-alias: Keptolo
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery

@@ -7,6 +7,16 @@ Komponenten: V
 Wirkungsdauer: Sofort
 Angriff: STR
 Schaden: 1d8 Blitz
+linter-yaml-title-alias: Blitzköder
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -24,18 +34,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
+  - Blitzköder
   - Lightning Lure
-linter-yaml-title-alias: Blitzköder
 ---
 # Blitzköder
 *Zaubertrick der Hervorrufung*  

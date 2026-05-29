@@ -2,12 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Death's Head of Bhaal"
+linter-yaml-title-alias: "Death's Head of Bhaal"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
+  - "Death's Head of Bhaal"
   - Death's Head of Bhaal
 ---
 # [Death's Head of Bhaal](3-Mechanics\CLI\bestiary\humanoid/deaths-head-of-bhaal-bgdia.md)

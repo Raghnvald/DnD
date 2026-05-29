@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Magnify Gravity
 Zaubergrad: 1
+linter-yaml-title-alias: Magnify Gravity
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/1

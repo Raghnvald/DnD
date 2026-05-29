@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kobold Names
+linter-yaml-title-alias: Kobold Names
 tags:
   - Quelle/5e/vgm
 aliases:

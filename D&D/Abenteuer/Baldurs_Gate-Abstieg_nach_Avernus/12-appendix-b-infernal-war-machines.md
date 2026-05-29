@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Infernal War Machines"
+linter-yaml-title-alias: "Appendix B: Infernal War Machines"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Appendix B: Infernal War Machines"
   - Appendix B: Infernal War Machines
 ---
 # Appendix B: Infernal War Machines

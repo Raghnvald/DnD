@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Danoth's Visor (Awakened)"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Danoth's Visor (Awakened)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
-  - Danoth's Visor (Awakened)
-linter-yaml-title-alias: Danoth's Visor (Awakened)
+  - "Danoth's Visor (Awakened)"
 ---
 # Danoth's Visor (Awakened)
 *Wondrous item, legendary (requires attunement)*  

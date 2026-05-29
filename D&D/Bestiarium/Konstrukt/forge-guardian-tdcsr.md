@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Forge Guardian
+linter-yaml-title-alias: Forge Guardian
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/27

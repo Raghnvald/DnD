@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Shatterstick
+linter-yaml-title-alias: Shatterstick
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/bgdia
 aliases:
   - Shatterstick
-linter-yaml-title-alias: Shatterstick
 ---
 # Shatterstick
 

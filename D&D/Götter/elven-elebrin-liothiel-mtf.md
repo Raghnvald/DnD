@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elebrin Liothiel
+linter-yaml-title-alias: Elebrin Liothiel
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

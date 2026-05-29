@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Charm of Plant Command
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Charm of Plant Command
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/gos
 aliases:
   - Charm of Plant Command
-linter-yaml-title-alias: Charm of Plant Command
 ---
 # Charm of Plant Command
 *Wondrous item, rare (requires attunement)*  

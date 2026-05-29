@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guard
+linter-yaml-title-alias: Guard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Engraved Wards; Hidecarved Wards
+linter-yaml-title-alias: Engraved Wards; Hidecarved Wards
 tags:
   - Quelle/5e/ftd
 aliases:

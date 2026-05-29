@@ -5,6 +5,7 @@ Bezeichnung: Aunt Dellie
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Aunt Dellie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Aunt Dellie
-linter-yaml-title-alias: Aunt Dellie
 ---
 # [Aunt Dellie](3-Mechanics\CLI\bestiary\npc/aunt-dellie-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 36*  

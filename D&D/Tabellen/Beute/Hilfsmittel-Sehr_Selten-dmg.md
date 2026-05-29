@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Implements - Very Rare
+linter-yaml-title-alias: Implements - Very Rare
 tags:
   - Quelle/5e/xdmg
 aliases:

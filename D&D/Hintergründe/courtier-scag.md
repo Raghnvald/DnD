@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Courtier
+linter-yaml-title-alias: Courtier
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Phenax's Votary"
+linter-yaml-title-alias: "Phenax's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

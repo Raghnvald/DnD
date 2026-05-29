@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gremishka
+linter-yaml-title-alias: Gremishka
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-8

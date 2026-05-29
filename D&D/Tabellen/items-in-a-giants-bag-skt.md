@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Items in a Giant's Bag"
+linter-yaml-title-alias: "Items in a Giant's Bag"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Items in a Giant's Bag"
   - Items in a Giant's Bag
 ---
 # Items in a Giant's Bag

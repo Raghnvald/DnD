@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Laeral Silverhand
+linter-yaml-title-alias: Laeral Silverhand
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/17
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Laeral Silverhand
-linter-yaml-title-alias: Laeral Silverhand
 ---
 # [Laeral Silverhand](3-Mechanics\CLI\bestiary\npc/laeral-silverhand-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 207*  

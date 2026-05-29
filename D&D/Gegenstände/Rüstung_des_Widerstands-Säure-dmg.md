@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Acid Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Acid Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -24,7 +25,6 @@ aliases:
   - Spiked Armor of Acid Resistance
   - Splint Armor of Acid Resistance
   - Studded Leather Armor of Acid Resistance
-linter-yaml-title-alias: Armor of Acid Resistance
 ---
 # Armor of Acid Resistance
 *Major, rare (requires attunement)*  

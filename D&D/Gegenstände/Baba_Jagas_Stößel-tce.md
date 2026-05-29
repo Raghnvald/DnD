@@ -2,10 +2,12 @@
 Bezeichnung: "Baba Yaga's Pestle"
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: Vielseitig
+Eigenschaften:
+  - Vielseitig
 Einstimmung: erfordert
 Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: "Baba Yaga's Pestle"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -13,8 +15,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tce
 aliases:
-  - Baba Yaga's Pestle
-linter-yaml-title-alias: Baba Yaga's Pestle
+  - "Baba Yaga's Pestle"
 ---
 # Baba Yaga's Pestle
 *Waffe ([[Kampfstab-phb|Kampfstab]], artifact (requires attunement)*  

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Thermal Cube
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Thermal Cube
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - Thermal Cube
-linter-yaml-title-alias: Thermal Cube
 ---
 # Thermal Cube
 *Wondrous item, common*  

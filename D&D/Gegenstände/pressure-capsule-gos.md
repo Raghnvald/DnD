@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Pressure Capsule
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Pressure Capsule
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/gos
 aliases:
   - Pressure Capsule
-linter-yaml-title-alias: Pressure Capsule
 ---
 # Pressure Capsule
 *Wondrous item, common*  

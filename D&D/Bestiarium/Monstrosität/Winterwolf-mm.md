@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Winter Wolf
+linter-yaml-title-alias: Winter Wolf
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

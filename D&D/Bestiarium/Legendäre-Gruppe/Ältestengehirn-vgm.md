@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elder Brain
+linter-yaml-title-alias: Elder Brain
 tags:
   - Monster/legendary-group
   - Quelle/5e/vgm

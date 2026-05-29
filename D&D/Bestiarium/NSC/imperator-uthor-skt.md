@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Imperator Uthor
+linter-yaml-title-alias: Imperator Uthor
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Imperator Uthor
-linter-yaml-title-alias: Imperator Uthor
 ---
 # [Imperator Uthor](3-Mechanics\CLI\bestiary\npc/imperator-uthor-skt.md)
 *Source: Storm King's Thunder p. 209*  

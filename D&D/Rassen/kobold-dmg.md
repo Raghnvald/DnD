@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kobold
+linter-yaml-title-alias: Kobold
 tags:
   - Quelle/5e/dmg
   - Rasse/kobold

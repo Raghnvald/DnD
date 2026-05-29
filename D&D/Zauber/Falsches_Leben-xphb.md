@@ -7,6 +7,18 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: False Life
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Undead)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -25,20 +37,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/fiendish-vigor
   - Zauber/Schule/Nekromantie
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Death Domain)
-  - Cleric (Grave Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Undead)
-  - Wizard
 aliases:
   - False Life
-linter-yaml-title-alias: False Life
 ---
 # False Life
 *1st-level, Necromancy*  

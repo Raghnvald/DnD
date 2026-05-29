@@ -1,17 +1,18 @@
 ---
 Bezeichnung: Adamantbarren
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: 5,0 kg
+Status: completed
+linter-yaml-title-alias: Adamantbarren
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
-  - Adamantine Bar
-linter-yaml-title-alias: Adamantine Bar
-Status: completed
+  - Adamantbarren
 ---
 # Adamantbarren
 *Handelsgut*  

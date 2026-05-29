@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Malison (Type 4)
+linter-yaml-title-alias: Yuan-ti Malison (Type 4)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

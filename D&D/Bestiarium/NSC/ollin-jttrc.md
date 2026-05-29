@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ollin
+linter-yaml-title-alias: Ollin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Ollin
-linter-yaml-title-alias: Ollin
 ---
 # [Ollin](3-Mechanics\CLI\bestiary\npc/ollin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 109*  

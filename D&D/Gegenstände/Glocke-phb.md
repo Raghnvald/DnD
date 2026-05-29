@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Bell
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Bell
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Bell
-linter-yaml-title-alias: Bell
 ---
 # Bell
 *Adventuring gear*  

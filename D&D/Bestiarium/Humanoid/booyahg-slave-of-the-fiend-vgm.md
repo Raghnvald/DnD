@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Booyahg Slave of the Fiend
+linter-yaml-title-alias: Booyahg Slave of the Fiend
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

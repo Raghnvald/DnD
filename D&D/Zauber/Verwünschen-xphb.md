@@ -1,5 +1,9 @@
 ---
 Bezeichnung: Hex
+linter-yaml-title-alias: Hex
+classes:
+  - Warlock
+  - Warlock (Great Old One Patron)
 tags:
   - Klasse/Hexenmeister
   - Kompendium/Talent/fey-touched
@@ -8,12 +12,8 @@ tags:
   - Subklasse/great-old-one-patron
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Warlock
-  - Warlock (Great Old One Patron)
 aliases:
   - Hex
-linter-yaml-title-alias: Hex
 ---
 # Hex
 *1st-level, Enchantment*  

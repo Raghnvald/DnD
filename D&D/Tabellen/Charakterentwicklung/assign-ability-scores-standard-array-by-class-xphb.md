@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Assign Ability Scores; Standard Array by Class
+linter-yaml-title-alias: Assign Ability Scores; Standard Array by Class
 tags:
   - Quelle/5e/xphb
 aliases:

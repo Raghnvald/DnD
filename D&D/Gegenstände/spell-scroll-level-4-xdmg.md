@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spell Scroll (Level 4)
+linter-yaml-title-alias: Spell Scroll (Level 4)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Spell Scroll (Level 4)
-linter-yaml-title-alias: Spell Scroll (Level 4)
 ---
 # Spell Scroll (Level 4)
 *Scroll, rare*  

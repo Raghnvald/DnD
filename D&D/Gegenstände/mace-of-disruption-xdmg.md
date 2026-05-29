@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mace of Disruption
+linter-yaml-title-alias: Mace of Disruption
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Mace of Disruption
-linter-yaml-title-alias: Mace of Disruption
 ---
 # Mace of Disruption
 *Weapon ([mace](Streitkolben-xphb)), rare (requires attunement)*  

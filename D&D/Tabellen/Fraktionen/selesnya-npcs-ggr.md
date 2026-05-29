@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya NPCs
+linter-yaml-title-alias: Selesnya NPCs
 tags:
   - Quelle/5e/ggr
 aliases:

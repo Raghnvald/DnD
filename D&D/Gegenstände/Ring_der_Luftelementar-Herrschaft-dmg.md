@@ -1,29 +1,30 @@
 ---
-Bezeichnung: Ring of Air Elemental Command
+Bezeichnung: Ring der Luftelementar-Herrschaft
 Kategorie: Ring
+status: completed
+linter-yaml-title-alias: Ring der Luftelementar-Herrschaft
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Air Elemental Command
-linter-yaml-title-alias: Ring of Air Elemental Command
+  - Ring der Luftelementar-Herrschaft
 ---
-# Ring of Air Elemental Command
-*Ring, major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-air-elemental-command.webp#right)
+# Ring der Luftelementar-Herrschaft
+*Ring, legendär (benötigt Einstimmung)*  
+![](img/ring-of-air-elemental-command.webp#right)
 
-While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Air, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Air.
+Während du diesen Ring trägst, hast du einen Vorteil auf Angriffswürfe gegen Elementare der Ebene der Luft und diese einen Nachteil auf Angriffswürfe gegen dich. Zusätzlich hast du Zugriff auf Eigenschaften, die mit der Ebene der Luft verknüpft sind.
 
-The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+Der Ring hat 5 Ladungen. Er erhält zu jeder Morgendämmerung `1W4 + 1` der verbrauchten Ladungen zurück. Zauber, die mit dem Ring gewirkt werden, haben einen Rettungswurf-SG von 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](/3-Mechanics/CLI/spells/dominate-monster.md) on an [air elemental](/3-Mechanics/CLI/bestiary/elemental/air-elemental.md). In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
+Du kannst 2 Ladungen des Ringes ausgeben, um [[Monster_beherrschen-phb|Monster beherrschen]] auf einen [[Luftelementar-mm|Luftelementar]] zu wirken. Außerdem wirst du, falls du fällst, 18 Meter pro Runde sinken und dabei keinen Schaden davontragen. Du kannst zusätzlich Aural verstehen und sprechen.
 
-If you help slay an [air elemental](/3-Mechanics/CLI/bestiary/elemental/air-elemental.md) while attuned to the ring, you gain access to the following additional properties:
+Wenn du dabei hilfst, einen [[Luftelementar-mm|Luftelementar]] zu töten, während du auf diesen Ring eingestimmt bist, erhältst du folgende zusätzliche Effekte:
 
-- You have resistance to lightning damage.  
-- You have a flying speed equal to your walking speed and can hover.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [chain lightning](/3-Mechanics/CLI/spells/chain-lightning.md) (3 charges), [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind.md) (2 charges), or [wind wall](/3-Mechanics/CLI/spells/wind-wall.md) (1 charge).  
+- Du hast Resistenz gegen Blitzschade.  
+- Du kannst schweben, und du hast eine Flugbewegungsrate in Höhe deiner normalen Bewegungsrate.  
+- Du kannst mit diesem Ring einen der folgenden Zauber wirken, wenn du dafür Ladungen verbrauchst: [[Kugelblitz-phb|Kugelblitz]] (3 Ladungen), [[Windstoß-phb|Windstoß]] (2 Ladungen) oder [[Windwall-phb|Windwall]] (1 Ladung).  
 
-*Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 177. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

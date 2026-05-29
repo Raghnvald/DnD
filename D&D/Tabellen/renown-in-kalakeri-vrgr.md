@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Renown in Kalakeri
+linter-yaml-title-alias: Renown in Kalakeri
 tags:
   - Quelle/5e/vrgr
 aliases:

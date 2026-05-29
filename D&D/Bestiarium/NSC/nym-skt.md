@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nym
+linter-yaml-title-alias: Nym
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Nym
-linter-yaml-title-alias: Nym
 ---
 # [Nym](3-Mechanics\CLI\bestiary\npc/nym-skt.md)
 *Source: Storm King's Thunder p. 207*  

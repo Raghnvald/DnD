@@ -2,18 +2,19 @@
 Bezeichnung: Kerzenstreitkolben
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: /
+Eigenschaften:
+  - /
 Einstimmung: /
 Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: Kerzenstreitkolben
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgdia
 aliases:
-  - Candle Mace
-linter-yaml-title-alias: Candle Mace
+  - Kerzenstreitkolben
 ---
 # Kerzenstreitkolben
 *Waffe ([[Streitkolben-phb|Streitkolben]])*

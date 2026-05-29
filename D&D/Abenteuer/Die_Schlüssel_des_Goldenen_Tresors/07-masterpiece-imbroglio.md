@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Masterpiece Imbroglio
+linter-yaml-title-alias: Masterpiece Imbroglio
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Masterpiece Imbroglio"
+  - Masterpiece Imbroglio
 ---
 # Masterpiece Imbroglio
 *Source: Keys from the Golden Vault, p. 87* 

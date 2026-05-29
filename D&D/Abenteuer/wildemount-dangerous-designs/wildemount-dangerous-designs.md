@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Wildemount Dangerous Designs
+linter-yaml-title-alias: Index of Wildemount Dangerous Designs
+aliases:
+  - Index of Wildemount Dangerous Designs
 ---
 # Index of Wildemount Dangerous Designs
 

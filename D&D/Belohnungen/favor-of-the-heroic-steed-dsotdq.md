@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Favor of the Heroic Steed
+linter-yaml-title-alias: Favor of the Heroic Steed
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dsotdq
 aliases:
   - "Favor of the Heroic Steed"
+  - Favor of the Heroic Steed
 ---
 # Favor of the Heroic Steed
 *Charm*  

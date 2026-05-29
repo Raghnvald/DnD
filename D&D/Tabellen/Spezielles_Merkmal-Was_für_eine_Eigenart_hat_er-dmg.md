@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spezielles Merkmal; Was für eine Eigenart hat er?
+linter-yaml-title-alias: Spezielles Merkmal; Was für eine Eigenart hat er?
 tags:
   - Quelle/5e/dmg
 aliases:
   - Special Features; What Quirk Does It Have
+  - Spezielles Merkmal; Was für eine Eigenart hat er?
 ---
 # Spezielles Merkmal; Was für eine Eigenart hat er?
 *Quelle: Spielleiterhandbuch, S. 143* 

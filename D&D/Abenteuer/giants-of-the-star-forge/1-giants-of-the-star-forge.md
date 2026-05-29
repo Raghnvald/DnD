@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Giants of the Star Forge
+linter-yaml-title-alias: Giants of the Star Forge
 tags:
   - Quelle/5e/gotsf
 aliases:
   - "Giants of the Star Forge"
+  - Giants of the Star Forge
 ---
 # Giants of the Star Forge
 *Source: Giants of the Star Forge* 

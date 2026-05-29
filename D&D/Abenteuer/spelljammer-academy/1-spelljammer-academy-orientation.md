@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spelljammer Academy: Orientation"
+linter-yaml-title-alias: "Spelljammer Academy: Orientation"
 tags:
   - Quelle/5e/sja
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Hag Minions; Brutes
+linter-yaml-title-alias: Random Hag Minions; Brutes
 tags:
   - Quelle/5e/vgm
 aliases:

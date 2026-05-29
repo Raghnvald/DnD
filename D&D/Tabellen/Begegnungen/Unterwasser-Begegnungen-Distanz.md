@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Underwater Encounter Distance
+linter-yaml-title-alias: Underwater Encounter Distance
 tags:
   - Quelle/5e/dmg
 aliases:

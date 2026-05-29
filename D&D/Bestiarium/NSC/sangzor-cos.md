@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sangzor
+linter-yaml-title-alias: Sangzor
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Sangzor
-linter-yaml-title-alias: Sangzor
 ---
 # [Sangzor](3-Mechanics\CLI\bestiary\npc/sangzor-cos.md)
 *Source: Curse of Strahd p. 160*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cotton Cloth (1 sq. yd.)
+linter-yaml-title-alias: Cotton Cloth (1 sq. yd.)
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Cotton Cloth (1 sq. yd.)
-linter-yaml-title-alias: Cotton Cloth (1 sq. yd.)
 ---
 # Cotton Cloth (1 sq. yd.)
 *Trade good*  

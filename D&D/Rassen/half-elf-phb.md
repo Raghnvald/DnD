@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf
+linter-yaml-title-alias: Half-Elf
 tags:
   - Quelle/5e/phb
   - Rasse/half-elf

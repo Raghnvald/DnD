@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadar-kai Gloom Weaver
+linter-yaml-title-alias: Shadar-kai Gloom Weaver
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

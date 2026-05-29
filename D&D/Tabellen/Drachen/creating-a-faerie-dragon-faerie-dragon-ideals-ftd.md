@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Faerie Dragon; Faerie Dragon Ideals
+linter-yaml-title-alias: Creating a Faerie Dragon; Faerie Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

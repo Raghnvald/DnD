@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Blowgun Needles (50)
 Kategorie: Munition
+linter-yaml-title-alias: Blowgun Needles (50)
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Blowgun Needles (50)
-linter-yaml-title-alias: Blowgun Needles (50)
 ---
 # Blowgun Needles (50)
 *Ammunition*  

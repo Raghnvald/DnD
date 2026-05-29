@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blue Dragon Treasures; Blue Dragon Art Objects
+linter-yaml-title-alias: Blue Dragon Treasures; Blue Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

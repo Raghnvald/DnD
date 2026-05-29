@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urban Encounters (Levels 5—10)
+linter-yaml-title-alias: Urban Encounters (Levels 5—10)
 tags:
   - Quelle/5e/xge
 aliases:

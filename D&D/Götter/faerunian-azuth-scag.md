@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azuth
+linter-yaml-title-alias: Azuth
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

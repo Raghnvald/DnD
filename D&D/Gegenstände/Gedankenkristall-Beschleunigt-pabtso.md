@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Crystal (Quickened)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Mind Crystal (Quickened)
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal (Quickened)
-linter-yaml-title-alias: Mind Crystal (Quickened)
 ---
 # Mind Crystal (Quickened)
 *Wondrous item, rare*  

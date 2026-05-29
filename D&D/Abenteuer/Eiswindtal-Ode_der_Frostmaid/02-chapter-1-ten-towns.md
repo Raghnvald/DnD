@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Ten-Towns"
+linter-yaml-title-alias: "Chapter 1: Ten-Towns"
 tags:
   - Quelle/5e/idrotf
 aliases:
+  - "Chapter 1: Ten-Towns"
   - Chapter 1: Ten-Towns
 ---
 # Chapter 1: Ten-Towns

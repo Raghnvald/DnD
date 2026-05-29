@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Anathema
+linter-yaml-title-alias: Yuan-ti Anathema
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Unterreich

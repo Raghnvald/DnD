@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fury of the Frost Giant
+linter-yaml-title-alias: Fury of the Frost Giant
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

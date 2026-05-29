@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Keeper
+linter-yaml-title-alias: The Keeper
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - The Keeper
-linter-yaml-title-alias: The Keeper
 ---
 # [The Keeper](3-Mechanics\CLI\bestiary\npc/the-keeper-tftyp.md)
 *Source: Tales from the Yawning Portal p. 173*  

@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dunbarrow Witch
+linter-yaml-title-alias: Dunbarrow Witch
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/mcv4ec
 aliases:
   - Dunbarrow Witch

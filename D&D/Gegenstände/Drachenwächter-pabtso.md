@@ -2,19 +2,20 @@
 Bezeichnung: Drachenwächter
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 10,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Drachenwächter
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/pabtso
 aliases:
-  - Dragonguard
-linter-yaml-title-alias: Dragonguard
+  - Drachenwächter
 ---
 # Drachenwächter
 *Rüstung ([[Brustplatte-phb|Brustplatte]]), selten*  

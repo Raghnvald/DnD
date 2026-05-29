@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Skull Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Skull Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Skull Card
-linter-yaml-title-alias: Skull Card
 ---
 # Skull Card
 *Wondrous item, legendary*  

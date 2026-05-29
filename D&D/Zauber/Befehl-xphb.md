@@ -6,6 +6,19 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Command
+classes:
+  - Bard
+  - Bard (College of Glamour)
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Cleric (Order Domain)
+  - Paladin
+  - Paladin (Oath of Conquest)
+  - Sorcerer (Divine Soul, Good)
+  - Sorcerer (Draconic Sorcery)
+  - Warlock (Fiend Patron)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -23,21 +36,8 @@ tags:
   - Subklasse/fiend-patron
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Glamour)
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Cleric (Order Domain)
-  - Paladin
-  - Paladin (Oath of Conquest)
-  - Sorcerer (Divine Soul, Good)
-  - Sorcerer (Draconic Sorcery)
-  - Warlock (Fiend Patron)
 aliases:
   - Command
-linter-yaml-title-alias: Command
 ---
 # Command
 *1st-level, Enchantment*  

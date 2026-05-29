@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Monster Statblocks
+linter-yaml-title-alias: Monster Statblocks
 tags: []
+aliases:
+  - Monster Statblocks
 ---
 
 Monster Statistics

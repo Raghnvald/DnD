@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab der Blitzschläge
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
 Kst.: 4.000 GM
 Gew.: 0,5 kg
 image: wand-of-lightning-bolts.webp
+linter-yaml-title-alias: Zauberstab der Blitzschläge
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Lightning Bolts
+  - Zauberstab der Blitzschläge
 ---
 # Zauberstab der Blitzschläge
 _Zauberstab, selten (erfordert Einstimmung durch einen Zauberwirker)_

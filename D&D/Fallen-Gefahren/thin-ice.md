@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thin Ice
+linter-yaml-title-alias: Thin Ice
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/dmg

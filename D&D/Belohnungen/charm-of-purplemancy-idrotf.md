@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Purplemancy
+linter-yaml-title-alias: Charm of Purplemancy
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Ravenloft the House of Lament
+linter-yaml-title-alias: Index of Ravenloft the House of Lament
+aliases:
+  - Index of Ravenloft the House of Lament
 ---
 # Index of Ravenloft the House of Lament
 

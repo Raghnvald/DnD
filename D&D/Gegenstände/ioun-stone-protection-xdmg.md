@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Protection
+linter-yaml-title-alias: Ioun Stone, Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Protection
-linter-yaml-title-alias: Ioun Stone, Protection
 ---
 # Ioun Stone, Protection
 *Wondrous item, rare (requires attunement)*  

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Platin (PM)
 Kategorie: Währung
+Eigenschaften:
+  - /
+Kst.: 10 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Platin (PM)
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
@@ -8,7 +14,6 @@ tags:
 aliases:
   - Platin (PM)
   - Platinum (pp)
-linter-yaml-title-alias: Platin (PM)
 ---
 # Platin (PM)
 *Treasure (coinage)*  

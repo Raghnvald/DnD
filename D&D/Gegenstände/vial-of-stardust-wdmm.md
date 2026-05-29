@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Vial of Stardust
+linter-yaml-title-alias: Vial of Stardust
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/wdmm
 aliases:
   - Vial of Stardust
-linter-yaml-title-alias: Vial of Stardust
 ---
 # Vial of Stardust
 

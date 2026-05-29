@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horizon Puzzle Cube
+linter-yaml-title-alias: Horizon Puzzle Cube
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/bgg
 aliases:
   - Horizon Puzzle Cube
-linter-yaml-title-alias: Horizon Puzzle Cube
 ---
 # Horizon Puzzle Cube
 *Wondrous item*  

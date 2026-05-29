@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Uller
+linter-yaml-title-alias: Uller
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/norse

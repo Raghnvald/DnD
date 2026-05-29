@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ancient Being Quests
+linter-yaml-title-alias: Ancient Being Quests
 tags:
   - Quelle/5e/tce
 aliases:

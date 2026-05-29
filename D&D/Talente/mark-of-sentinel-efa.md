@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Sentinel
+linter-yaml-title-alias: Mark of Sentinel
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Sentinel"
+  - Mark of Sentinel
 ---
 # Mark of Sentinel
 *Source: Eberron: Forge of the Artificer p. 41*  

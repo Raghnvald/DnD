@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Hold Back the Dead
+linter-yaml-title-alias: Index of Hold Back the Dead
+aliases:
+  - Index of Hold Back the Dead
 ---
 # Index of Hold Back the Dead
 

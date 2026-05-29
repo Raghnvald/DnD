@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sarah of Yellowcrest Manor
+linter-yaml-title-alias: Sarah of Yellowcrest Manor
 tags:
   - Quelle/5e/cm
 aliases:

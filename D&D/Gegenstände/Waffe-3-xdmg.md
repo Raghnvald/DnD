@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Weapon
+linter-yaml-title-alias: +3 Weapon
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
@@ -63,7 +64,6 @@ aliases:
   - +3 Weapon
   - +3 Whip
   - +3 Yklwa
-linter-yaml-title-alias: +3 Weapon
 ---
 # +3 Weapon
 *Very rare*  

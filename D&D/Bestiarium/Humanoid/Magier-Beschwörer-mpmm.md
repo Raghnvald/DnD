@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Conjurer Wizard
+linter-yaml-title-alias: Conjurer Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Doublet of Dramatic Demise
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Doublet of Dramatic Demise
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Doublet of Dramatic Demise
-linter-yaml-title-alias: Doublet of Dramatic Demise
 ---
 # Doublet of Dramatic Demise
 *Wondrous item, common*  

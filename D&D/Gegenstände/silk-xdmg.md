@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Silk
+linter-yaml-title-alias: Silk
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Silk
-linter-yaml-title-alias: Silk
 ---
 # Silk
 *Trade good*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Fire and Darkness
+linter-yaml-title-alias: Fire and Darkness
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Fire and Darkness"
+  - Fire and Darkness
 ---
 # Fire and Darkness
 *Source: Keys from the Golden Vault, p. 195* 

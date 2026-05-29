@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Signal Whistle
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 KM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Signal Whistle
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Signal Whistle
-linter-yaml-title-alias: Signal Whistle
 ---
 # Signal Whistle
 *Adventuring gear*  

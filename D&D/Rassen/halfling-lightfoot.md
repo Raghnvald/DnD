@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Lightfoot)
+linter-yaml-title-alias: Halfling (Lightfoot)
 tags:
   - Quelle/5e/phb
   - Rasse/halfling/lightfoot

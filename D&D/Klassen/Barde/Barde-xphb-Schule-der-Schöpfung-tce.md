@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Creation
+linter-yaml-title-alias: College of Creation
 tags:
   - Klasse/Barde/Schule-der-Schöpfung
   - Quelle/5e/tce
 aliases:
   - College of Creation
-linter-yaml-title-alias: College of Creation
 ---
 # College of Creation
 *[Bard](Barde-xphb.md): Bard Subclass*  

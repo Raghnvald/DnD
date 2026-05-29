@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urban Bounty Hunter
+linter-yaml-title-alias: Urban Bounty Hunter
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

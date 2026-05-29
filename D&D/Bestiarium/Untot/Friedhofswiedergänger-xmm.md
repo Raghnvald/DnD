@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Graveyard Revenant
+linter-yaml-title-alias: Graveyard Revenant
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Graveyard Revenant
-linter-yaml-title-alias: Graveyard Revenant
 ---
 # [Graveyard Revenant](3-Mechanics\CLI\bestiary\undead/graveyard-revenant-xmm.md)
 *Source: Monster Manual (2024) p. 260*  

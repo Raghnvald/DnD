@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stone of Ill Luck
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stone of Ill Luck
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Stone of Ill Luck
-linter-yaml-title-alias: Stone of Ill Luck
 ---
 # Stone of Ill Luck
 *Wondrous item, cursed item, uncommon (requires attunement)*  

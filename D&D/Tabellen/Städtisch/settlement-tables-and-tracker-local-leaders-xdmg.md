@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlement Tables and Tracker; Local Leaders
+linter-yaml-title-alias: Settlement Tables and Tracker; Local Leaders
 tags:
   - Quelle/5e/xdmg
 aliases:

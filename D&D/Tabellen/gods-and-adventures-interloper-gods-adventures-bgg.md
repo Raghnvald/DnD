@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gods and Adventures; Interloper Gods Adventures
+linter-yaml-title-alias: Gods and Adventures; Interloper Gods Adventures
 tags:
   - Quelle/5e/bgg
 aliases:

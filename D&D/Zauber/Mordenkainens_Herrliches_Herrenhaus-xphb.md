@@ -1,17 +1,17 @@
 ---
 Bezeichnung: "Mordenkainen's Magnificent Mansion"
+linter-yaml-title-alias: "Mordenkainen's Magnificent Mansion"
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xphb
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Wizard
 aliases:
-  - Mordenkainen's Magnificent Mansion
-linter-yaml-title-alias: Mordenkainen's Magnificent Mansion
+  - "Mordenkainen's Magnificent Mansion"
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

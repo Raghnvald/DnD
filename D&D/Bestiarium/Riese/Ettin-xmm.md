@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ettin
+linter-yaml-title-alias: Ettin
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

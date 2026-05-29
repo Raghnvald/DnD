@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Baron
+linter-yaml-title-alias: Sahuagin Baron
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

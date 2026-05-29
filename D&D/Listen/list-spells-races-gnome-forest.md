@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Gnome (Forest)
+linter-yaml-title-alias: Spells for Gnome (Forest)
 tags:
   - Zauber/list/subrace/gnome-forest
 aliases:

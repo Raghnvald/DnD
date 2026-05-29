@@ -8,6 +8,7 @@ HG: 15
 Habitat:
   - Wald
 status: WIP
+linter-yaml-title-alias: Adult Green Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Wald
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Adult Green Dragon
-linter-yaml-title-alias: Adult Green Dragon
 ---
 # [Adult Green Dragon](3-Mechanics\CLI\bestiary\dragon/adult-green-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 153. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -7,6 +7,13 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Ceremony
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -21,15 +28,8 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Ritual
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Ceremony
-linter-yaml-title-alias: Ceremony
 ---
 # Ceremony
 *1st-level, Abjuration (ritual)*  

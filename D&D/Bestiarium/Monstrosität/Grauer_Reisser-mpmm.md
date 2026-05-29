@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gray Render
+linter-yaml-title-alias: Gray Render
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Hügel

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fairy
+linter-yaml-title-alias: Fairy
 tags:
   - Quelle/5e/mpmm
   - Rasse/fairy

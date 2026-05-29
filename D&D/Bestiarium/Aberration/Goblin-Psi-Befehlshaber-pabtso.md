@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/goblin-psi-commander-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Goblin-Psi-Befehlshaber
 tags:
   - Monster/Größe/Klein
   - Monster/HG/4
@@ -16,6 +17,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Goblin Psi Commander
+  - Goblin-Psi-Befehlshaber
 ---
 # Goblin-Psi-Befehlshaber
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 214*  

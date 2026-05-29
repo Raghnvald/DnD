@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selvetarm
+linter-yaml-title-alias: Selvetarm
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/drow

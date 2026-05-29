@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wurm
+linter-yaml-title-alias: Wurm
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/14

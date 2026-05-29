@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cloak of Protection
+linter-yaml-title-alias: Cloak of Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Cloak of Protection
-linter-yaml-title-alias: Cloak of Protection
 ---
 # Cloak of Protection
 *Wondrous item, uncommon (requires attunement)*  

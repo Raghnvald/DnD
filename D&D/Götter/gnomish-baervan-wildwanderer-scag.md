@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Baervan Wildwanderer
+linter-yaml-title-alias: Baervan Wildwanderer
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/gnomish

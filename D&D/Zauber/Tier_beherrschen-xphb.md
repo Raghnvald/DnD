@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Dominate Beast
+linter-yaml-title-alias: Dominate Beast
+classes:
+  - Bard
+  - Cleric (Nature Domain)
+  - Druid
+  - Paladin (Oath of Conquest)
+  - Ranger
+  - Sorcerer
+  - Warlock (Archfey Patron)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,17 +20,8 @@ tags:
   - Subklasse/archfey-patron
   - Zauber/Grad/4
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric (Nature Domain)
-  - Druid
-  - Paladin (Oath of Conquest)
-  - Ranger
-  - Sorcerer
-  - Warlock (Archfey Patron)
 aliases:
   - Dominate Beast
-linter-yaml-title-alias: Dominate Beast
 ---
 # Dominate Beast
 *4th-level, Enchantment*  

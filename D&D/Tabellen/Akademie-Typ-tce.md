@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Academy Type
+linter-yaml-title-alias: Academy Type
 tags:
   - Quelle/5e/tce
 aliases:

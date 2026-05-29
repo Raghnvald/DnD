@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Aven
+linter-yaml-title-alias: Aven
 tags:
   - Quelle/5e/psd
   - Rasse/aven
 aliases:
   - "Aven"
+  - Aven
 ---
 # Aven
 *Source: Plane Shift: Dominaria p. 6*  

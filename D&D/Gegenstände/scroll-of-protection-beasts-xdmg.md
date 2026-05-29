@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Beasts)
+linter-yaml-title-alias: Scroll of Protection (Beasts)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Beasts)
-linter-yaml-title-alias: Scroll of Protection (Beasts)
 ---
 # Scroll of Protection (Beasts)
 *Scroll, rare*  

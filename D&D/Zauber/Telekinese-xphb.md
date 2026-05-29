@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Telekinesis
+linter-yaml-title-alias: Telekinesis
+classes:
+  - Bard
+  - Fighter (Psi Warrior)
+  - Sorcerer
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock (Great Old One Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -10,16 +18,8 @@ tags:
   - Subklasse/psi-warrior
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Fighter (Psi Warrior)
-  - Sorcerer
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock (Great Old One Patron)
-  - Wizard
 aliases:
   - Telekinesis
-linter-yaml-title-alias: Telekinesis
 ---
 # Telekinesis
 *5th-level, Transmutation*  

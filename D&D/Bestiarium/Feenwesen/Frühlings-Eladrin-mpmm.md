@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spring Eladrin
+linter-yaml-title-alias: Spring Eladrin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

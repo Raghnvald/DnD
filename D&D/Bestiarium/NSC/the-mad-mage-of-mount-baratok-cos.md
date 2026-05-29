@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Mad Mage of Mount Baratok
+linter-yaml-title-alias: The Mad Mage of Mount Baratok
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - The Mad Mage of Mount Baratok
-linter-yaml-title-alias: The Mad Mage of Mount Baratok
 ---
 # [The Mad Mage of Mount Baratok](3-Mechanics\CLI\bestiary\npc/the-mad-mage-of-mount-baratok-cos.md)
 *Source: Curse of Strahd p. 39*  

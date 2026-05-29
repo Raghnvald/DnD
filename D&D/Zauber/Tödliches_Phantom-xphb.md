@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Phantasmal Killer
+linter-yaml-title-alias: Phantasmal Killer
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Genie, Dao)
+  - Warlock (The Hexblade)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -11,17 +20,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/4
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock (The Genie, Dao)
-  - Warlock (The Hexblade)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Phantasmal Killer
-linter-yaml-title-alias: Phantasmal Killer
 ---
 # Phantasmal Killer
 *4th-level, Illusion*  

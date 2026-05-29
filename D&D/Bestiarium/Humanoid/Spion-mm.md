@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spy
+linter-yaml-title-alias: Spy
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

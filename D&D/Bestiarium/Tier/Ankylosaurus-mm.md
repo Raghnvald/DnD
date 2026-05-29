@@ -6,6 +6,7 @@ Kategorie: Tier
 Größe: Riesig
 HG: "3"
 status: WIP
+linter-yaml-title-alias: Ankylosaurus
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

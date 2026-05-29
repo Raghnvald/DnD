@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Piercer
+linter-yaml-title-alias: Piercer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

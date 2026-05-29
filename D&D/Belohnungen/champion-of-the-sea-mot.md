@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of the Sea
+linter-yaml-title-alias: Champion of the Sea
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of the Sea"
+  - Champion of the Sea
 ---
 # Champion of the Sea
 *Piety Trait*  

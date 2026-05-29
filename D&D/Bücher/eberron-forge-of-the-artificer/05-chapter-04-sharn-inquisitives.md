@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 04: Sharn Inquisitives"
+linter-yaml-title-alias: "Chapter 04: Sharn Inquisitives"
 tags:
   - Quelle/5e/efa
 aliases:

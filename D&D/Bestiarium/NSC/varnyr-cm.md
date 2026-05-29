@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Varnyr
+linter-yaml-title-alias: Varnyr
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Varnyr
-linter-yaml-title-alias: Varnyr
 ---
 # [Varnyr](3-Mechanics\CLI\bestiary\npc/varnyr-cm.md)
 *Source: Candlekeep Mysteries p. 63*  

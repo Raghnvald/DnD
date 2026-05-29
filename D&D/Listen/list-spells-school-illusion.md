@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Illusion Spells
+linter-yaml-title-alias: Illusion Spells
 tags:
   - Zauber/list/school/illusion
 aliases:

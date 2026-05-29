@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Programmed Illusion
+linter-yaml-title-alias: Programmed Illusion
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/6
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Programmed Illusion
-linter-yaml-title-alias: Programmed Illusion
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

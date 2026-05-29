@@ -10,6 +10,7 @@ Habitat:
   - Stadt
 image: token/skeleton.webp
 status: completed
+linter-yaml-title-alias: Skelett
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -19,7 +20,6 @@ tags:
 aliases:
   - Skeleton
   - Skelett
-linter-yaml-title-alias: Skelett
 ---
 # Skelett
 *Quelle: Monsterhandbuch S. 256. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

@@ -9,6 +9,7 @@ Habitat:
   - Berg
   - Hügel
 status: WIP
+linter-yaml-title-alias: Red Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -18,7 +19,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Red Dragon Wyrmling
-linter-yaml-title-alias: Red Dragon Wyrmling
 ---
 # [Red Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/red-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

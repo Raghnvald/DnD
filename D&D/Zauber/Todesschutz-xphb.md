@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Death Ward
+linter-yaml-title-alias: Death Ward
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Cleric (Life Domain)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Undead)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -13,19 +24,8 @@ tags:
   - Subklasse/the-undead
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Cleric
-  - Cleric (Death Domain)
-  - Cleric (Grave Domain)
-  - Cleric (Life Domain)
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Undead)
 aliases:
   - Death Ward
-linter-yaml-title-alias: Death Ward
 ---
 # Death Ward
 *4th-level, Abjuration*  

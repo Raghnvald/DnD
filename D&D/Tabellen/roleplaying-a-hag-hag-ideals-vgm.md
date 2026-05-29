@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Hag; Hag Ideals
+linter-yaml-title-alias: Roleplaying a Hag; Hag Ideals
 tags:
   - Quelle/5e/vgm
 aliases:

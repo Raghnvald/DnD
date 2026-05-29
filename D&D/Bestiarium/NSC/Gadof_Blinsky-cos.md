@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gadof Blinsky
+linter-yaml-title-alias: Gadof Blinsky
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Gadof Blinsky
-linter-yaml-title-alias: Gadof Blinsky
 ---
 # Gadof Blinsky
 *Source: Curse of Strahd p. 118*  

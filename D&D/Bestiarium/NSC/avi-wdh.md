@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Avi
+linter-yaml-title-alias: Avi
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Avi
-linter-yaml-title-alias: Avi
 ---
 # [Avi](3-Mechanics\CLI\bestiary\npc/avi-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

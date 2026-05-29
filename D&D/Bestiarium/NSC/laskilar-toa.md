@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Laskilar
+linter-yaml-title-alias: Laskilar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Laskilar
-linter-yaml-title-alias: Laskilar
 ---
 # [Laskilar](3-Mechanics\CLI\bestiary\npc/laskilar-toa.md)
 *Source: Tomb of Annihilation p. 67*  

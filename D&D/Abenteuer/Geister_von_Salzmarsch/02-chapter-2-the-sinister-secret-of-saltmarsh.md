@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: The Sinister Secret of Saltmarsh"
+linter-yaml-title-alias: "Chapter 2: The Sinister Secret of Saltmarsh"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Chapter 2: The Sinister Secret of Saltmarsh"
   - Chapter 2: The Sinister Secret of Saltmarsh
 ---
 # Chapter 2: The Sinister Secret of Saltmarsh

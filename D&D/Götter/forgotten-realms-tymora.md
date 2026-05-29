@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tymora
+linter-yaml-title-alias: Tymora
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/forgotten-realms

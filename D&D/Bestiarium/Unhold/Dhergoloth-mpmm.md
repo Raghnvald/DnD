@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dhergoloth
+linter-yaml-title-alias: Dhergoloth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

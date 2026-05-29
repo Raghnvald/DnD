@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Buried Dynasty
+linter-yaml-title-alias: Buried Dynasty
 tags:
   - Quelle/5e/jttrc
 aliases:
   - "Buried Dynasty"
+  - Buried Dynasty
 ---
 # Buried Dynasty
 *Source: Journeys through the Radiant Citadel, p. 186* 

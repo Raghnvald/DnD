@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Psi Crystal
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Psi Crystal
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Psi Crystal
-linter-yaml-title-alias: Psi Crystal
 ---
 # Psi Crystal
 *Wondrous item, uncommon (requires attunement by a creature with an intelligence score of 3 or higher)*  

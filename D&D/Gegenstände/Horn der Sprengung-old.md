@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Horn der Sprengung
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Horn der Sprengung
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Horn der Sprengung
   - Horn of Blasting
 ---
 # Horn der Sprengung

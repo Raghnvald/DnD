@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghost Dragon
+linter-yaml-title-alias: Ghost Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ghost Dragon
-linter-yaml-title-alias: Ghost Dragon
 ---
 # [Ghost Dragon](3-Mechanics\CLI\bestiary\undead/ghost-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 203*  

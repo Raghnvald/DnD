@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Blue Dragon; Blue Dragon Ideals
+linter-yaml-title-alias: Creating a Blue Dragon; Blue Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

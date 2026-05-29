@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beory
+linter-yaml-title-alias: Beory
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

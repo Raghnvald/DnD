@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Die Harfner
+linter-yaml-title-alias: Die Harfner
 tags:
   - Quelle/5e/phb
-aliases: []
+aliases:
+  - Die Harfner
 ---
 # Die Harfner
 Die Harfner sind ein verstreutes Netzwerk von Zauberern und Spionen, die für die Gleichheit einstehen und verdeckt gegen Machtmissbrauch, magisch oder anderweitig, vorgehen. 

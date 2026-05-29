@@ -7,6 +7,12 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: GES
 Schaden: 3d10 Blitz
+linter-yaml-title-alias: Blitze herbeirufen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Forest)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -15,14 +21,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Forest)
 aliases:
-  - Call Lightning
-linter-yaml-title-alias: Call Lightning
+  - Blitze herbeirufen
 ---
 # Blitze herbeirufen
 *Beschwörung des 3. Grades*

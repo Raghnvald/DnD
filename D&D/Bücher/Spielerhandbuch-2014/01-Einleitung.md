@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Einleitung
+Status: completed
+linter-yaml-title-alias: Einleitung
 tags:
   - Quelle/5e/phb
 aliases:
+  - Einleitung
   - Introduction
-Status: completed
 ---
 # Einleitung
 *Quelle: Spielerhandbuch (2014), S. 5* 

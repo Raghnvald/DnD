@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Safe House Adventures
+linter-yaml-title-alias: Safe House Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

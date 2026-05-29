@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dire Worg
+linter-yaml-title-alias: Dire Worg
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/feywild

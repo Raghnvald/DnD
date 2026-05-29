@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Giant of Evil Earth
+linter-yaml-title-alias: Stone Giant of Evil Earth
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9

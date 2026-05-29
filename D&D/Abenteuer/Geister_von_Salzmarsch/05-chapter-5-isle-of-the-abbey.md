@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Isle of the Abbey"
+linter-yaml-title-alias: "Chapter 5: Isle of the Abbey"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Chapter 5: Isle of the Abbey"
   - Chapter 5: Isle of the Abbey
 ---
 # Chapter 5: Isle of the Abbey

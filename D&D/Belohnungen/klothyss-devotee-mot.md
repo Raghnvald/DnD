@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Klothys's Devotee"
+linter-yaml-title-alias: "Klothys's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

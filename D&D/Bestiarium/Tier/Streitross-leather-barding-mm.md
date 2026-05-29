@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warhorse (Leather Barding)
+linter-yaml-title-alias: Warhorse (Leather Barding)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt

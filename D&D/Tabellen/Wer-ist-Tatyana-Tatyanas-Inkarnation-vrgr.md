@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Who Is Tatyana?; Tatyana's Incarnation"
+linter-yaml-title-alias: "Who Is Tatyana?; Tatyana's Incarnation"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Who Is Tatyana?; Tatyana's Incarnation"
   - Who Is Tatyana?; Tatyana's Incarnation
 ---
 # Who Is Tatyana?; Tatyana's Incarnation

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Verminshroud
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Verminshroud
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Verminshroud
-linter-yaml-title-alias: Verminshroud
 ---
 # Verminshroud
 *Wondrous item, legendary (requires attunement)*  

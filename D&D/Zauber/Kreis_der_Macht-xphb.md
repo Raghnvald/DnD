@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Circle of Power
+linter-yaml-title-alias: Circle of Power
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Twilight Domain)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -11,17 +20,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Twilight Domain)
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Circle of Power
-linter-yaml-title-alias: Circle of Power
 ---
 # Circle of Power
 *5th-level, Abjuration*  

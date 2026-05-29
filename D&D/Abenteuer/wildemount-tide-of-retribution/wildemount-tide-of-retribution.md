@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Wildemount Tide of Retribution
+linter-yaml-title-alias: Index of Wildemount Tide of Retribution
+aliases:
+  - Index of Wildemount Tide of Retribution
 ---
 # Index of Wildemount Tide of Retribution
 

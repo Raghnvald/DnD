@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/nf
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Netheril's Fall* 

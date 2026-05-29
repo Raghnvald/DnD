@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Triton
+linter-yaml-title-alias: Triton
 tags:
   - Quelle/5e/vgm
   - Rasse/triton

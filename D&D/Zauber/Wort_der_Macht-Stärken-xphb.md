@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Power Word Fortify
+linter-yaml-title-alias: Power Word Fortify
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Power Word Fortify
-linter-yaml-title-alias: Power Word Fortify
 ---
 # Power Word Fortify
 *7th-level, Enchantment*  

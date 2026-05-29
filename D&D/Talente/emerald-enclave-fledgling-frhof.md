@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Emerald Enclave Fledgling
+linter-yaml-title-alias: Emerald Enclave Fledgling
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Emerald Enclave Fledgling"
+  - Emerald Enclave Fledgling
 ---
 # Emerald Enclave Fledgling
 *Source: Forgotten Realms: Heroes of Faerûn p. 37*  

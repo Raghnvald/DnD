@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supplemental Tables; Race
+linter-yaml-title-alias: Supplemental Tables; Race
 tags:
   - Quelle/5e/xge
 aliases:

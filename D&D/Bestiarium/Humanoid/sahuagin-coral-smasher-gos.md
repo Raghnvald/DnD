@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Coral Smasher
+linter-yaml-title-alias: Sahuagin Coral Smasher
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

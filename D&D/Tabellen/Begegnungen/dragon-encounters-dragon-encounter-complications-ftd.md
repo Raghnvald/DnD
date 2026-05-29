@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Encounters; Dragon Encounter Complications
+linter-yaml-title-alias: Dragon Encounters; Dragon Encounter Complications
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Life Events
+linter-yaml-title-alias: Life Events
 tags:
   - Quelle/5e/xge
 aliases:

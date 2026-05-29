@@ -1,9 +1,11 @@
 ---
 Bezeichnung: DM Screen
+linter-yaml-title-alias: DM Screen
 tags:
   - Quelle/5e/xscreen
 aliases:
   - "DM Screen"
+  - DM Screen
 ---
 # DM Screen
 *Source: Dungeon Master's Screen (2024)* 

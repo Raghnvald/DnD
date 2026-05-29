@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demogorgon
+linter-yaml-title-alias: Demogorgon
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

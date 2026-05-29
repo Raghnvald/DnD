@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aristocrat Retainer Roles
+linter-yaml-title-alias: Aristocrat Retainer Roles
 tags:
   - Quelle/5e/tce
 aliases:

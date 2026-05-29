@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Room
+linter-yaml-title-alias: War Room
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

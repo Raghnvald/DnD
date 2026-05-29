@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Adventures
+linter-yaml-title-alias: Secondary Tables; Adventures
 tags:
   - Quelle/5e/xge
 aliases:

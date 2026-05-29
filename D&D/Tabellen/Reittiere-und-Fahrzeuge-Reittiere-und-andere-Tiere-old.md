@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Reittiere und Fahrzeuge; Reittiere und andere Tiere
+linter-yaml-title-alias: Reittiere und Fahrzeuge; Reittiere und andere Tiere
 tags:
   - Quelle/5e/phb
 aliases:
   - Mounts and Vehicles; Mounts and Other Animals
+  - Reittiere und Fahrzeuge; Reittiere und andere Tiere
 ---
 # Reittiere und Fahrzeuge; Reittiere und andere Tiere
 *Quelle: SRD / Grundregelwerk*

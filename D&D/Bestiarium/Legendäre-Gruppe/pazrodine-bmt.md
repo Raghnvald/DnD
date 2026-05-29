@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pazrodine
+linter-yaml-title-alias: Pazrodine
 tags:
   - Monster/legendary-group
   - Quelle/5e/bmt

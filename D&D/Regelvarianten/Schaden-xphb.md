@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Damage
+linter-yaml-title-alias: Damage
 tags:
   - Quelle/5e/xphb
 aliases:

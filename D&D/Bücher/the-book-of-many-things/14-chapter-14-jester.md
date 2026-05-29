@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 14: Jester"
+linter-yaml-title-alias: "Chapter 14: Jester"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 14: Jester"
   - Chapter 14: Jester
 ---
 # Chapter 14: Jester

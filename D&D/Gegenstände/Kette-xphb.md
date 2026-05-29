@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chain
+linter-yaml-title-alias: Chain
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Chain
-linter-yaml-title-alias: Chain
 ---
 # Chain
 *Adventuring gear*  

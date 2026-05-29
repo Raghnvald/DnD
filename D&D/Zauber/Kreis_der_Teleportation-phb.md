@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Teleportation Circle
 Zaubergrad: 5
+linter-yaml-title-alias: Teleportation Circle
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Teleportation Circle
-linter-yaml-title-alias: Teleportation Circle
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

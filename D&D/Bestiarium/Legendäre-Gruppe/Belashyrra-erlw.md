@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Belashyrra
+linter-yaml-title-alias: Belashyrra
 tags:
   - Monster/legendary-group
   - Quelle/5e/erlw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Attunement
+linter-yaml-title-alias: Attunement
 tags:
   - Quelle/5e/xphb
 aliases:

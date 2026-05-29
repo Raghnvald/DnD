@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Procan
+linter-yaml-title-alias: Procan
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/unknown

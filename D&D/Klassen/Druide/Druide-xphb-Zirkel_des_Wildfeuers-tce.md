@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zirkel des Wildfeuers
+linter-yaml-title-alias: Zirkel des Wildfeuers
 tags:
   - Klasse/Druide/wildfire
   - Quelle/5e/tce
 aliases:
   - Circle of Wildfire
+  - Zirkel des Wildfeuers
 ---
 # Zirkel des Wildfeuers
 *[Druid](Druide-xphb.md): Druid Subclass*  

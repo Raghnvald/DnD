@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Yon
+linter-yaml-title-alias: Yon
 tags:
   - Quelle/5e/wbtw
 aliases:
   - "Yon"
+  - Yon
 ---
 # Yon
 *Source: The Wild Beyond the Witchlight, p. 133* 

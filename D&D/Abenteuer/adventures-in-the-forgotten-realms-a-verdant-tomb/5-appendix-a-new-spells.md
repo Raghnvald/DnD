@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: New Spells"
+linter-yaml-title-alias: "Appendix A: New Spells"
 tags:
   - Quelle/5e/aitfr-avt
 aliases:

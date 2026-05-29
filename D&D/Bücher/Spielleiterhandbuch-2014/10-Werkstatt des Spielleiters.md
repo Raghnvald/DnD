@@ -1,7 +1,10 @@
 ---
 Bezeichnung: "Kapitel 9: Werkstatt des Spielleiters"
+linter-yaml-title-alias: "Kapitel 9: Werkstatt des Spielleiters"
 tags:
   - Quelle/5e/dmg
+aliases:
+  - "Kapitel 9: Werkstatt des Spielleiters"
 ---
 # Kapitel 9: Werkstatt des Spielleiters
 

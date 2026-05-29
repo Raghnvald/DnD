@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xanathar
+linter-yaml-title-alias: Xanathar
 tags:
   - Monster/Größe/Groß
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Xanathar
-linter-yaml-title-alias: Xanathar
 ---
 # [Xanathar](3-Mechanics\CLI\bestiary\npc/xanathar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

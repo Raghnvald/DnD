@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Fesselseil
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Fesselseil
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Fesselseil
   - Rope of Entanglement
 ---
 # Fesselseil

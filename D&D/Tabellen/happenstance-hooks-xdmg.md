@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Happenstance Hooks
+linter-yaml-title-alias: Happenstance Hooks
 tags:
   - Quelle/5e/xdmg
 aliases:

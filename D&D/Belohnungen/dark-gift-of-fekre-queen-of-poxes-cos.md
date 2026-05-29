@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Fekre, Queen of Poxes
+linter-yaml-title-alias: Dark Gift of Fekre, Queen of Poxes
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

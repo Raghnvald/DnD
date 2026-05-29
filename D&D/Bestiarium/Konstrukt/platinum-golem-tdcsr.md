@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Platinum Golem
+linter-yaml-title-alias: Platinum Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/16

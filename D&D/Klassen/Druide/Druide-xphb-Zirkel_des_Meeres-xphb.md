@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Sea
+linter-yaml-title-alias: Circle of the Sea
 tags:
   - Klasse/Druide/sea
   - Quelle/5e/xphb

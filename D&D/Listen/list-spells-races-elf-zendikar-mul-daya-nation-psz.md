@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Elf (Zendikar; Mul Daya Nation)
+linter-yaml-title-alias: Spells for Elf (Zendikar; Mul Daya Nation)
 tags:
   - ttrpg-cli/spell/list/subrace/elf-zendikar-mul-daya-nation
 aliases:
   - "Spells for Elf (Zendikar; Mul Daya Nation)"
+  - Spells for Elf (Zendikar; Mul Daya Nation)
 ---
 # Spells for Elf (Zendikar; Mul Daya Nation)
 

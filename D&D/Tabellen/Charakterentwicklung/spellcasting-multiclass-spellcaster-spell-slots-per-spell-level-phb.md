@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
+linter-yaml-title-alias: "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
 tags:
   - Quelle/5e/phb
 aliases:
+  - "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
   - Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
 ---
 # Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level

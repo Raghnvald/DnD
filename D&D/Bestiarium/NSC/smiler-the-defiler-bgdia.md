@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Smiler the Defiler
+linter-yaml-title-alias: Smiler the Defiler
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Smiler the Defiler
-linter-yaml-title-alias: Smiler the Defiler
 ---
 # [Smiler the Defiler](3-Mechanics\CLI\bestiary\npc/smiler-the-defiler-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 133*  

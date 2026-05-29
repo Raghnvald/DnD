@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chauntea
+linter-yaml-title-alias: Chauntea
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Chauntea"
   - "The Grain Goddess"
   - "The Great Mother"
+  - Chauntea
 ---
 # Chauntea
 *Source: Forgotten Realms: Heroes of Faerûn p. 104* 

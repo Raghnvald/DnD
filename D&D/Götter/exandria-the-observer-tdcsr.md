@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Observer
+linter-yaml-title-alias: The Observer
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

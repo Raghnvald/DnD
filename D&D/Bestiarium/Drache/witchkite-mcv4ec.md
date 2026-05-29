@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Witchkite
+linter-yaml-title-alias: Witchkite
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mcv4ec
 aliases:
   - Witchkite
-linter-yaml-title-alias: Witchkite
 ---
 # [Witchkite](3-Mechanics\CLI\bestiary\dragon/witchkite-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

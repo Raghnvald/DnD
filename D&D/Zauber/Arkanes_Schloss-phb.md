@@ -7,6 +7,12 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Stunde
 Angriff: nichts
 Schaden: n/a
+linter-yaml-title-alias: Arkanes Schloss
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -15,14 +21,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Arcane Lock
-linter-yaml-title-alias: Arkanes Schloss
+  - Arkanes Schloss
 ---
 # Arkanes Schloss
 *Bann des 2. Grades*  

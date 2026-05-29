@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Seemann (Pirat) (Variante)
+linter-yaml-title-alias: Seemann (Pirat) (Variante)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
   - Sailor (Pirate) (Variant)
+  - Seemann (Pirat) (Variante)
 ---
 # Seemann (Pirat) (Variante)
 *Source: Player's Handbook p. 139*  

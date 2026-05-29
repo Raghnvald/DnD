@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Healing Word
 Zaubergrad: 1
+linter-yaml-title-alias: Healing Word
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,13 +14,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
   - Healing Word
-linter-yaml-title-alias: Healing Word
 ---
 # Healing Word
 *1st-level, Evocation*  

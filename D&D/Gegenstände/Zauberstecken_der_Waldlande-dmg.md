@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Staff of the Woodlands
 Kategorie: Zauberstecken
+Eigenschaften:
+  - erfordert Einstimmung durch einen Druiden
+  - Vielseitig (1W8)
+Kst.: /
+linter-yaml-title-alias: Staff of the Woodlands
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +13,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Staff of the Woodlands
-linter-yaml-title-alias: Staff of the Woodlands
 ---
 # Staff of the Woodlands
 *Staff, weapon, major, rare (requires attunement by a druid)*  

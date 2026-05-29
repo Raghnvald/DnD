@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Heiliges Symbol der Raben
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: erfordert Einstimmung
-Kst.: n/v
-Gew.: n/v
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Heiliges Symbol der Raben
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/cos
 aliases:
+  - Heiliges Symbol der Raben
   - Holy Symbol of Ravenkind
 ---
 # Heiliges Symbol der Raben

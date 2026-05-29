@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Warrior
+linter-yaml-title-alias: Sahuagin Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

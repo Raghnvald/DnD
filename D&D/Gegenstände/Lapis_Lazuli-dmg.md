@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Lapis Lazuli
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Lapis Lazuli
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Lapis Lazuli
-linter-yaml-title-alias: Lapis Lazuli
 ---
 # Lapis Lazuli
 *Schatz (Edelstein)*  

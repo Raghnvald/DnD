@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Vengeance
+linter-yaml-title-alias: Oath of Vengeance
 tags:
   - Klasse/Paladin/vengeance
   - Quelle/5e/phb

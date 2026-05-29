@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Horizon Walker
+linter-yaml-title-alias: Spells for Horizon Walker
 tags:
   - Zauber/list/subclass/horizon-walker
 aliases:

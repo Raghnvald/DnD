@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elder Black Pudding
+linter-yaml-title-alias: Elder Black Pudding
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/4

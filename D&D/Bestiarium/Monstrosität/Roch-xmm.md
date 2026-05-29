@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Roc
+linter-yaml-title-alias: Roc
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Arktis

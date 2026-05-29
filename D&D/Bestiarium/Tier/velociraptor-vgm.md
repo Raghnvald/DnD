@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Velociraptor
+linter-yaml-title-alias: Velociraptor
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Grasland

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rolling Sphere
+linter-yaml-title-alias: Rolling Sphere
 tags:
   - Kompendium/Bedrohung/mech
   - Quelle/5e/dmg

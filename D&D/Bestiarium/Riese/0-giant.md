@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Giant
+linter-yaml-title-alias: Index of Giant
+aliases:
+  - Index of Giant
 ---
 # Index of Giant
 

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1
 status: WIP
+linter-yaml-title-alias: Derro Apprentice
 tags:
   - Quelle/5e/qftis
   - ttrpg-cli/monster/cr/1

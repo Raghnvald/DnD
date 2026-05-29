@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kristallkugel der Telepathie
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kristallkugel der Telepathie
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Kristallkugel der Telepathie
-linter-yaml-title-alias: Kristallkugel der Telepathie
 ---
 # Kristallkugel der Telepathie
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung)*  

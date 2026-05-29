@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Horror Torments
+linter-yaml-title-alias: Folk Horror Torments
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,18 +1,21 @@
 ---
-Bezeichnung: Ring of Water Walking
+Bezeichnung: Ring des Wasserlaufens
 Kategorie: Ring
+Eigenschaften:
+  - /
+status: completed
+linter-yaml-title-alias: Ring des Wasserlaufens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Water Walking
-linter-yaml-title-alias: Ring of Water Walking
+  - Ring des Wasserlaufens
 ---
-# Ring of Water Walking
-*Ring, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
+# Ring des Wasserlaufens
+*Ring, ungewöhnlich*  
+![](img/ring-of-water-walking.webp#right)
 
-While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
+Wenn du diesen Ring trägst, kannst du auf jeder flüssigen Oberfläche stehen und laufen, als wäre sie solider Boden.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

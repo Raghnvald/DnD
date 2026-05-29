@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Cultist
+linter-yaml-title-alias: Rakdos Cultist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

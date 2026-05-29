@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Weevil
+linter-yaml-title-alias: The Weevil
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - The Weevil
-linter-yaml-title-alias: The Weevil
 ---
 # [The Weevil](3-Mechanics\CLI\bestiary\npc/the-weevil-skt.md)
 *Source: Storm King's Thunder p. 114*  

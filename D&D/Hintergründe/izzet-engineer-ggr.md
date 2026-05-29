@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet Engineer
+linter-yaml-title-alias: Izzet Engineer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

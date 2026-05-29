@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "3: Lyrical Names"
+linter-yaml-title-alias: "3: Lyrical Names"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "3: Lyrical Names"
   - "3": Lyrical Names
 ---
 # 3: Lyrical Names

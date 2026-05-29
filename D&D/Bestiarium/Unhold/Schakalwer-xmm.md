@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jackalwere
+linter-yaml-title-alias: Jackalwere
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Grasland

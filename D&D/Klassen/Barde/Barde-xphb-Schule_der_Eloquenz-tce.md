@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Eloquence
+linter-yaml-title-alias: College of Eloquence
 tags:
   - Klasse/Barde/Schule-der-Eloquenz
   - Quelle/5e/tce
 aliases:
   - College of Eloquence
-linter-yaml-title-alias: College of Eloquence
 ---
 # College of Eloquence
 *[Bard](Barde-xphb.md): Bard Subclass*  

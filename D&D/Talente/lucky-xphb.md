@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lucky
+linter-yaml-title-alias: Lucky
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

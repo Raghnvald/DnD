@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Customizing Ability Scores
+linter-yaml-title-alias: Customizing Ability Scores
 tags:
   - Quelle/5e/phb
 aliases:

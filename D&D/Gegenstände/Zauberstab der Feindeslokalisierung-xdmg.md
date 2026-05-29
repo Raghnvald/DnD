@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Enemy Detection
+linter-yaml-title-alias: Wand of Enemy Detection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Enemy Detection
-linter-yaml-title-alias: Wand of Enemy Detection
 ---
 # Wand of Enemy Detection
 *Wand, rare (requires attunement)*  

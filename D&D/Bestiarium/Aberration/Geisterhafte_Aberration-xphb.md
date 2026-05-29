@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/aberrant-spirit-xphb.webp
 status: WIP
+linter-yaml-title-alias: Aberrant Spirit
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

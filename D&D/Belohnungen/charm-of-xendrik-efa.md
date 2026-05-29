@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Charm of Xen'drik"
+linter-yaml-title-alias: "Charm of Xen'drik"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/efa

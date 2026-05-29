@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Military Saddle
+linter-yaml-title-alias: Military Saddle
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Military Saddle
-linter-yaml-title-alias: Military Saddle
 ---
 # Military Saddle
 *Tack and harness*  

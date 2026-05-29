@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Random Ships
+linter-yaml-title-alias: Random Ships
 tags:
   - Quelle/5e/gos
 aliases:
   - "Random Ships"
+  - Random Ships
 ---
 # Random Ships
 *Source: Ghosts of Saltmarsh p. 208* 

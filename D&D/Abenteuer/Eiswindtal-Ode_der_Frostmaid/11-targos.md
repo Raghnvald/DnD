@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Targos
+linter-yaml-title-alias: Targos
 tags:
   - Quelle/5e/idrotf
 aliases:

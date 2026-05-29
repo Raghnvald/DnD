@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Petrified Grung Egg
+linter-yaml-title-alias: Petrified Grung Egg
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Petrified Grung Egg
-linter-yaml-title-alias: Petrified Grung Egg
 ---
 # Petrified Grung Egg
 *(Requires attunement by a spellcaster)*  

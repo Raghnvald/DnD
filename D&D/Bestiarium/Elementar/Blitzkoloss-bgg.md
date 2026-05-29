@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lightning Hulk
+linter-yaml-title-alias: Lightning Hulk
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9

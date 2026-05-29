@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shevarash
+linter-yaml-title-alias: Shevarash
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/elven

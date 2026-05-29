@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Spellwrought Tattoo (3rd Level)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Spellwrought Tattoo (3rd Level)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
   - Spellwrought Tattoo (3rd Level)
-linter-yaml-title-alias: Spellwrought Tattoo (3rd Level)
 ---
 # Spellwrought Tattoo (3rd Level)
 *Wondrous item (tattoo), uncommon*  

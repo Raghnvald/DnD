@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Deck of Wild Cards
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Deck of Wild Cards
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bmt
 aliases:
   - Deck of Wild Cards
-linter-yaml-title-alias: Deck of Wild Cards
 ---
 # Deck of Wild Cards
 *Wondrous item, very rare*  

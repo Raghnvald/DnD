@@ -10,6 +10,7 @@ Habitat:
   - /
 image: token/goblin-psi-brawler-pabtso.webp
 status: completed
+linter-yaml-title-alias: Goblin-Psi-Raufbold
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2
@@ -17,6 +18,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Goblin Psi Brawler
+  - Goblin-Psi-Raufbold
 ---
 # Goblin-Psi-Raufbold
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 214*  

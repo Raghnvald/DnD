@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Guardian of Faith
+linter-yaml-title-alias: Guardian of Faith
+classes:
+  - Bard
+  - Cleric
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -9,15 +16,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Paladin (Oath of Devotion)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Guardian of Faith
-linter-yaml-title-alias: Guardian of Faith
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

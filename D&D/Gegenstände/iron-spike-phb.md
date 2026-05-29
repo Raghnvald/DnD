@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Iron Spike
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 SM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Iron Spike
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Iron Spike
-linter-yaml-title-alias: Iron Spike
 ---
 # Iron Spike
 *Adventuring gear*  

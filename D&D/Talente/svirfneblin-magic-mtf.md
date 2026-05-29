@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Svirfneblin Magic
+linter-yaml-title-alias: Svirfneblin Magic
 tags:
   - Kompendium/Talent
   - Quelle/5e/mtf

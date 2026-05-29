@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Glaur
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Glaur
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Glaur
-linter-yaml-title-alias: Glaur
 ---
 # Glaur
 *Instrument*  

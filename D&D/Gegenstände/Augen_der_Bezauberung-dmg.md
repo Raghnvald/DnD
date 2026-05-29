@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Eyes of Charming
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Eyes of Charming
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Eyes of Charming
-linter-yaml-title-alias: Eyes of Charming
 ---
 # Eyes of Charming
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rally
+linter-yaml-title-alias: Rally
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

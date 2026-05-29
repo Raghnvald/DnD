@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Freedom of the Waves
 Zaubergrad: 3
+linter-yaml-title-alias: Freedom of the Waves
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Paladin (Oath of the Open Sea)
+  - Ranger
+  - Sorcerer
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,13 +19,6 @@ tags:
   - Subklasse/oath-of-the-open-sea
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Paladin (Oath of the Open Sea)
-  - Ranger
-  - Sorcerer
 aliases:
   - Freedom of the Waves
 ---

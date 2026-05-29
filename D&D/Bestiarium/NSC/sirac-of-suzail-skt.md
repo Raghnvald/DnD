@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sirac of Suzail
+linter-yaml-title-alias: Sirac of Suzail
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Sirac of Suzail
-linter-yaml-title-alias: Sirac of Suzail
 ---
 # [Sirac of Suzail](3-Mechanics\CLI\bestiary\npc/sirac-of-suzail-skt.md)
 *Source: Storm King's Thunder p. 247*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rivermaw Stormborn
+linter-yaml-title-alias: Rivermaw Stormborn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

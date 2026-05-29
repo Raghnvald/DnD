@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Handwerkszeug des SL
+linter-yaml-title-alias: Handwerkszeug des SL
 tags:
   - Quelle/5e/xge
 aliases:
   - Dungeon Master's Tools
+  - Handwerkszeug des SL
 ---
 # Handwerkszeug des SL
 *Source: Xanathar's Guide to Everything, p. 77* 

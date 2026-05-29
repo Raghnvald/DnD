@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Diviner
+linter-yaml-title-alias: Spells for Diviner
 tags:
   - Zauber/list/subclass/diviner
 aliases:

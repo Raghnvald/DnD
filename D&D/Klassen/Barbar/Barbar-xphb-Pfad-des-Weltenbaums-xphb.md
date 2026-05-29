@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the World Tree
+linter-yaml-title-alias: Path of the World Tree
 tags:
   - Klasse/Barbar/world-tree
   - Quelle/5e/xphb

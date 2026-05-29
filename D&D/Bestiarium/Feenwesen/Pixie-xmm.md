@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pixie
+linter-yaml-title-alias: Pixie
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/feywild

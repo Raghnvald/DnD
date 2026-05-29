@@ -7,6 +7,12 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: GES
 Schaden: n/a
+linter-yaml-title-alias: Schwerkraft umkehren
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -15,14 +21,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
-  - Reverse Gravity
-linter-yaml-title-alias: Reverse Gravity
+  - Schwerkraft umkehren
 ---
 # Schwerkraft umkehren
 *Verwandlung des 7. Grades*  

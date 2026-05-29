@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Costume
+linter-yaml-title-alias: Costume
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Costume
-linter-yaml-title-alias: Costume
 ---
 # Costume
 *Adventuring gear*  

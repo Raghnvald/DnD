@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Hide Armor
 Rüstung: Mittel
+linter-yaml-title-alias: Hide Armor
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Hide Armor
-linter-yaml-title-alias: Hide Armor
 ---
 # Hide Armor
 *Medium armor*  

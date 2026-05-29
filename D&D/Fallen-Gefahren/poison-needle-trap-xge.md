@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poison Needle Trap
+linter-yaml-title-alias: Poison Needle Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

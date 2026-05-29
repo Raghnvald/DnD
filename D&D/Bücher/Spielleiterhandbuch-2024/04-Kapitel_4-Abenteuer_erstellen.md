@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Creating Adventures"
+linter-yaml-title-alias: "Chapter 4: Creating Adventures"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Chapter 4: Creating Adventures"
   - Chapter 4: Creating Adventures
 ---
 # Chapter 4: Creating Adventures

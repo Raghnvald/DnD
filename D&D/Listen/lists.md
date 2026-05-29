@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Lists
+linter-yaml-title-alias: Index of Lists
+aliases:
+  - Index of Lists
 ---
 # Index of Lists
 

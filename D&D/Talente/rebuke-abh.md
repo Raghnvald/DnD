@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Rebuke
+linter-yaml-title-alias: Rebuke
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
   - "Rebuke"
+  - Rebuke
 ---
 # Rebuke
 *Source: Astarion's Book of Hungers p. 10*  

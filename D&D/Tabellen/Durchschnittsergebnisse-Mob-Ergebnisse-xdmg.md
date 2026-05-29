@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Durchschnittsergebnisse; Mob-Ergebnisse
+linter-yaml-title-alias: Durchschnittsergebnisse; Mob-Ergebnisse
 tags:
   - Quelle/5e/xdmg
 aliases:
   - Average Results; Mob Results
+  - Durchschnittsergebnisse; Mob-Ergebnisse
 ---
 # Durchschnittsergebnisse; Mob-Ergebnisse
 *Source: Dungeon Master's Guide (2024) p. 82* 

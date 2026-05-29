@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Siren
+linter-yaml-title-alias: Siren
 tags:
   - Quelle/5e/psx
   - Rasse/siren
 aliases:
   - "Siren"
+  - Siren
 ---
 # Siren
 *Source: Plane Shift: Ixalan p. 17*  

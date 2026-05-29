@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Diva Luma
+linter-yaml-title-alias: Diva Luma
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Diva Luma
-linter-yaml-title-alias: Diva Luma
 ---
 # [Diva Luma](3-Mechanics\CLI\bestiary\npc/diva-luma-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 71*  

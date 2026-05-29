@@ -5,6 +5,7 @@ Bezeichnung: Kobold Dragonshield
 Kategorie: Drache
 Größe: Klein
 HG: 1
+linter-yaml-title-alias: Kobold Dragonshield
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Kobold Dragonshield
-linter-yaml-title-alias: Kobold Dragonshield
 ---
 # [Kobold Dragonshield](3-Mechanics\CLI\bestiary\dragon/kobold-dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  

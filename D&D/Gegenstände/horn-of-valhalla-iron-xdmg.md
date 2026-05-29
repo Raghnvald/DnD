@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horn of Valhalla, Iron
+linter-yaml-title-alias: Horn of Valhalla, Iron
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Horn of Valhalla, Iron
-linter-yaml-title-alias: Horn of Valhalla, Iron
 ---
 # Horn of Valhalla, Iron
 *Wondrous item, legendary*  

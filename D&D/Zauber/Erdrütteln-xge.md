@@ -8,6 +8,16 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d6 Wucht
 status: 
+linter-yaml-title-alias: Erdrütteln
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -21,18 +31,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Earth Tremor
-linter-yaml-title-alias: Earth Tremor
+  - Erdrütteln
 ---
 # Erdrütteln
 *Hervorrufung des 1. Grades*

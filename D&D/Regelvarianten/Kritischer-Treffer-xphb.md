@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Critical Hit
+linter-yaml-title-alias: Critical Hit
 tags:
   - Quelle/5e/xphb
 aliases:

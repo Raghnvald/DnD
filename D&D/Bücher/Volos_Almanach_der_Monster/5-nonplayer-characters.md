@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nonplayer Characters
+linter-yaml-title-alias: Nonplayer Characters
 tags:
   - Quelle/5e/vgm
 aliases:

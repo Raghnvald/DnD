@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hostile [Attitude]
+linter-yaml-title-alias: Hostile [Attitude]
 tags:
   - Quelle/5e/xphb
 aliases:

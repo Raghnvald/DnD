@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Telepathy
+linter-yaml-title-alias: Telepathy
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/diviner
   - Zauber/Grad/8
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Telepathy
-linter-yaml-title-alias: Telepathy
 ---
 # Telepathy
 *8th-level, Divination*  

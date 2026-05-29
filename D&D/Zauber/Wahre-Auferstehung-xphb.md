@@ -1,5 +1,11 @@
 ---
 Bezeichnung: True Resurrection
+linter-yaml-title-alias: True Resurrection
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/9
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - True Resurrection
-linter-yaml-title-alias: True Resurrection
 ---
 # True Resurrection
 *9th-level, Necromancy*  

@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Priesterausrüstung
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 19 GM
 Gew.: 12,0 kg
+status: WIP
+linter-yaml-title-alias: Priesterausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Priest's Pack
-linter-yaml-title-alias: Priesterausrüstung
+  - Priesterausrüstung
 ---
 # Priesterausrüstung
 *Abenteuerausrüstung*  

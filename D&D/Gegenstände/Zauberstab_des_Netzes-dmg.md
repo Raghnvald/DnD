@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Web
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Web
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Web
-linter-yaml-title-alias: Wand of Web
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

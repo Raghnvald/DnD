@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Perfume
+linter-yaml-title-alias: Perfume
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Perfume
-linter-yaml-title-alias: Perfume
 ---
 # Perfume
 *Adventuring gear*  

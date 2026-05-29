@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Iroas's Devotee"
+linter-yaml-title-alias: "Iroas's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

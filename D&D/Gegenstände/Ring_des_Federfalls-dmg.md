@@ -1,19 +1,22 @@
 ---
-Bezeichnung: Ring of Feather Falling
+Bezeichnung: Ring des Federfalls
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring des Federfalls
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Feather Falling
-linter-yaml-title-alias: Ring of Feather Falling
+  - Ring des Federfalls
 ---
-# Ring of Feather Falling
-*Ring, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-feather-falling.webp#right)
+# Ring des Federfalls
+*Ring, selten (benötigt Einstimmung)*  
+![](img/ring-of-feather-falling.webp#right)
 
-When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.
+Während du diesen Ring trägst und fällst, sinkst du 18 Meter pro Runde und nimmst dabei keinen Schaden.
 
-*Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 178. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

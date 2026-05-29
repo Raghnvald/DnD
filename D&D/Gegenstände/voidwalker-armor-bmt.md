@@ -2,12 +2,15 @@
 Bezeichnung: Voidwalker Armor
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: Verflucht
+Eigenschaften:
+  - erfordert Einstimmung
+  - Verflucht
 Kst.: /
 Gew.: 6,5 kg
 RK: 12 + GES
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Voidwalker Armor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -15,7 +18,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Voidwalker Armor
-linter-yaml-title-alias: Voidwalker Armor
 ---
 # Voidwalker Armor
 *Light armor (studded leather armor), cursed item, rare (requires attunement)*  

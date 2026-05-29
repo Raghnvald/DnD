@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Light of Xaryxis
+linter-yaml-title-alias: Index of Light of Xaryxis
+aliases:
+  - Index of Light of Xaryxis
 ---
 # Index of Light of Xaryxis
 

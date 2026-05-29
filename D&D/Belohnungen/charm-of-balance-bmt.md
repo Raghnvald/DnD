@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Balance
+linter-yaml-title-alias: Charm of Balance
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

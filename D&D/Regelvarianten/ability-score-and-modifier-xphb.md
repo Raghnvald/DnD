@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Score and Modifier
+linter-yaml-title-alias: Ability Score and Modifier
 tags:
   - Quelle/5e/xphb
 aliases:

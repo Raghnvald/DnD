@@ -10,6 +10,7 @@ Habitat:
   - /
 image: token/psionic-ashenwight-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Psionischer Ascheschrecken
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -18,7 +19,6 @@ tags:
 aliases:
   - Psionic Ashenwight
   - Psionischer Ascheschrecken
-linter-yaml-title-alias: Psionischer Ascheschrecken
 ---
 # Psionischer Ascheschrecken
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 204*  

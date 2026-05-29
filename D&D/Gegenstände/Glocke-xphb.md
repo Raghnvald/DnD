@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bell
+linter-yaml-title-alias: Bell
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bell
-linter-yaml-title-alias: Bell
 ---
 # Bell
 *Adventuring gear*  

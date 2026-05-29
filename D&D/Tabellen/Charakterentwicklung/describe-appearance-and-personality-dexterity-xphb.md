@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Describe Appearance and Personality; Dexterity
+linter-yaml-title-alias: Describe Appearance and Personality; Dexterity
 tags:
   - Quelle/5e/xphb
 aliases:

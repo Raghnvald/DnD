@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Merfolk
+linter-yaml-title-alias: Merfolk
 tags:
   - Quelle/5e/dmg
   - Rasse/merfolk

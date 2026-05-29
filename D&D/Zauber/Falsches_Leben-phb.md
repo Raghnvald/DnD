@@ -7,6 +7,14 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: 1d4+4 temp. TP
+linter-yaml-title-alias: Falsches Leben
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Death Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/death-domain
@@ -19,16 +27,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/fiendish-vigor
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Death Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
+  - Falsches Leben
   - False Life
-linter-yaml-title-alias: Falsches Leben
 ---
 # Falsches Leben
 *Nekromantie des 1. Grades*  

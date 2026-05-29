@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nergaliid
+linter-yaml-title-alias: Nergaliid
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

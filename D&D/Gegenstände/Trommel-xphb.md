@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Drum
+linter-yaml-title-alias: Drum
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Drum
-linter-yaml-title-alias: Drum
 ---
 # Drum
 *Instrument*  

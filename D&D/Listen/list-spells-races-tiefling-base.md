@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Tiefling (Base)
+linter-yaml-title-alias: Spells for Tiefling (Base)
 tags:
   - Zauber/list/race/tiefling-base
 aliases:

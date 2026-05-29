@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle D
+linter-yaml-title-alias: Magische Gegenstände Tabelle D
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table D
+  - Magische Gegenstände Tabelle D
 ---
 # Magische Gegenstände Tabelle D
 *Quelle: Spielleiterhandbuch, S. 145* 
@@ -12,7 +14,7 @@ aliases:
 
 | W100  | Magischer Gegenstand                                                     |
 | ----- | ------------------------------------------------------------------------ |
-| 01-20 | [Potion of supreme healing](potion-of-supreme-healing-dmg.md)            |
+| 01-20 | [Potion of supreme healing](Trank_der_Höchsten_Heilung-dmg.md)            |
 | 21-30 | [Potion of invisibility](potion-of-invisibility-dmg.md)                  |
 | 31-40 | [Potion of speed](potion-of-speed-xdmg.md)                               |
 | 41-50 | [Spell scroll (6th level)](spell-scroll-level-6-xdmg.md)                 |

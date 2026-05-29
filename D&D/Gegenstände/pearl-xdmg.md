@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pearl
+linter-yaml-title-alias: Pearl
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Pearl
-linter-yaml-title-alias: Pearl
 ---
 # Pearl
 *Treasure (gemstone)*  

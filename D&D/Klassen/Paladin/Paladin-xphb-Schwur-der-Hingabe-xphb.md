@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Devotion
+linter-yaml-title-alias: Oath of Devotion
 tags:
   - Klasse/Paladin/Schwur-der-Hingabe
   - Quelle/5e/xphb

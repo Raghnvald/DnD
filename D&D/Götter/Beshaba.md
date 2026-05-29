@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beshaba, Göttin des Unglücks
+linter-yaml-title-alias: Beshaba, Göttin des Unglücks
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/List
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Beshaba
+  - Beshaba, Göttin des Unglücks
 ---
 # Beshaba, Göttin des Unglücks
 *Quelle: SRD / Grundregelwerk* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Leira, Göttin der Illusion
+linter-yaml-title-alias: Leira, Göttin der Illusion
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/List
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Leira
+  - Leira, Göttin der Illusion
 ---
 # Leira, Göttin der Illusion
 *Quelle: SRD / Grundregelwerk* 

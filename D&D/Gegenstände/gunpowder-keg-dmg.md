@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gunpowder Keg
 Kategorie: Explosives
+linter-yaml-title-alias: Gunpowder Keg
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Gunpowder Keg
-linter-yaml-title-alias: Gunpowder Keg
 ---
 # Gunpowder Keg
 *Explosive*  

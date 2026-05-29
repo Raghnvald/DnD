@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Opal
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Opal
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Opal
-linter-yaml-title-alias: Opal
 ---
 # Opal
 *Schatz (Edelstein)*  

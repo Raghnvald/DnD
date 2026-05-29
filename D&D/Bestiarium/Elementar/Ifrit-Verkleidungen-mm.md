@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Efreeti (Disguises)
+linter-yaml-title-alias: Efreeti (Disguises)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

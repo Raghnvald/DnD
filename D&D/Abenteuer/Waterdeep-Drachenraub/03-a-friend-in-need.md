@@ -1,5 +1,6 @@
 ---
 Bezeichnung: A Friend in Need
+linter-yaml-title-alias: A Friend in Need
 tags:
   - Quelle/5e/wdh
 aliases:

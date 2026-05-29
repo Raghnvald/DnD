@@ -6,6 +6,13 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Dawn
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -15,15 +22,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Dawn
-linter-yaml-title-alias: Dawn
 ---
 # Dawn
 *5th-level, Evocation*  

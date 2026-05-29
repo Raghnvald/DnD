@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Scharlatan
+linter-yaml-title-alias: Scharlatan
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
   - Charlatan
+  - Scharlatan
 ---
 # Scharlatan
 *Source: Player's Handbook p. 128*  

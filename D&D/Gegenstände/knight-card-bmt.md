@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Knight Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Knight Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Knight Card
-linter-yaml-title-alias: Knight Card
 ---
 # Knight Card
 *Wondrous item, legendary*  

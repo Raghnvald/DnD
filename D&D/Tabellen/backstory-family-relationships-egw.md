@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Family Relationships
+linter-yaml-title-alias: Backstory; Family Relationships
 tags:
   - Quelle/5e/egw
 aliases:

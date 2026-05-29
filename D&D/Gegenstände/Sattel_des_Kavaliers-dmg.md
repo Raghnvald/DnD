@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Saddle of the Cavalier
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Saddle of the Cavalier
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Saddle of the Cavalier
-linter-yaml-title-alias: Saddle of the Cavalier
 ---
 # Saddle of the Cavalier
 *Wondrous item, minor, uncommon*  

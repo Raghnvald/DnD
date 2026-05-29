@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Jorasco Heir
+linter-yaml-title-alias: House Jorasco Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Jorasco Heir"
+  - House Jorasco Heir
 ---
 # House Jorasco Heir
 *Source: Eberron: Forge of the Artificer p. 28*  

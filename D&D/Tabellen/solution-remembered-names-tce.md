@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solution; Remembered Names
+linter-yaml-title-alias: Solution; Remembered Names
 tags:
   - Quelle/5e/tce
 aliases:

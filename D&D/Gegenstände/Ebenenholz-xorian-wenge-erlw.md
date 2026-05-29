@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Imbued Wood (Xorian Wenge)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Imbued Wood (Xorian Wenge)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +19,6 @@ aliases:
   - Xorian Wenge Rod
   - Xorian Wenge Staff
   - Xorian Wenge Wand
-linter-yaml-title-alias: Imbued Wood (Xorian Wenge)
 ---
 # Imbued Wood (Xorian Wenge)
 *Wondrous item, common (requires attunement)*  

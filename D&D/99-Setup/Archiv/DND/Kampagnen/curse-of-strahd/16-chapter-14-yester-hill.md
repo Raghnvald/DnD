@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 14: Yester Hill"
+linter-yaml-title-alias: "Chapter 14: Yester Hill"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 14: Yester Hill"
   - Chapter 14: Yester Hill
 ---
 # Chapter 14: Yester Hill

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Vengeance
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+linter-yaml-title-alias: Sword of Vengeance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -16,7 +17,6 @@ aliases:
   - Scimitar of Vengeance
   - Shortsword of Vengeance
   - Sword of Vengeance
-linter-yaml-title-alias: Sword of Vengeance
 ---
 # Sword of Vengeance
 *Cursed item, uncommon (requires attunement)*  

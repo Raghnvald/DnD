@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Catoblepas
+linter-yaml-title-alias: Catoblepas
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Sumpf

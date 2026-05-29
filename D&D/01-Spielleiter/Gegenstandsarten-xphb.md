@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Item Types
+linter-yaml-title-alias: Item Types
 tags:
   - Quelle/5e/dmg
   - Quelle/5e/phb

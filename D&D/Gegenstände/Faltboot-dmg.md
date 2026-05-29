@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Folding Boat
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Folding Boat
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - Folding Boat
-linter-yaml-title-alias: Folding Boat
 ---
 # Folding Boat
 *Wondrous item, minor, rare*  

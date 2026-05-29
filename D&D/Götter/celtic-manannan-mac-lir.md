@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Manannan mac Lir
+linter-yaml-title-alias: Manannan mac Lir
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/nature

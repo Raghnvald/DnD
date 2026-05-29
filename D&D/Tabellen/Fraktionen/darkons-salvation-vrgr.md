@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Darkon's Salvation"
+linter-yaml-title-alias: "Darkon's Salvation"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Darkon's Salvation"
   - Darkon's Salvation
 ---
 # Darkon's Salvation

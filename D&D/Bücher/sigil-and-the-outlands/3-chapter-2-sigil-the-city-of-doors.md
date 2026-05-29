@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Sigil, the City of Doors"
+linter-yaml-title-alias: "Chapter 2: Sigil, the City of Doors"
 tags:
   - Quelle/5e/sato
 aliases:

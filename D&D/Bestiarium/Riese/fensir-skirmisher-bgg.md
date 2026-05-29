@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fensir Skirmisher
+linter-yaml-title-alias: Fensir Skirmisher
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

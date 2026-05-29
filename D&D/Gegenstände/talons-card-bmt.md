@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Talons Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Talons Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Talons Card
-linter-yaml-title-alias: Talons Card
 ---
 # Talons Card
 *Wondrous item, legendary*  

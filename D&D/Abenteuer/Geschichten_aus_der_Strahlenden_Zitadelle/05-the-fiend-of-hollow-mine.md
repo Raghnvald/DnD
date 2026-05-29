@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Fiend of Hollow Mine
+linter-yaml-title-alias: The Fiend of Hollow Mine
 tags:
   - Quelle/5e/jttrc
 aliases:

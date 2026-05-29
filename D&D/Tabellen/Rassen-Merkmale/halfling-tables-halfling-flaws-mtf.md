@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Tables; Halfling Flaws
+linter-yaml-title-alias: Halfling Tables; Halfling Flaws
 tags:
   - Quelle/5e/mtf
 aliases:

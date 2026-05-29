@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Alchemical Compendium
+linter-yaml-title-alias: Alchemical Compendium
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:
   - Alchemical Compendium
-linter-yaml-title-alias: Alchemical Compendium
 ---
 # Alchemical Compendium
 *Wondrous item, rare (requires attunement by a wizard)*  

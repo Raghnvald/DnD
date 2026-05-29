@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Mass Heal
+linter-yaml-title-alias: Mass Heal
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/9
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Mass Heal
-linter-yaml-title-alias: Mass Heal
 ---
 # Mass Heal
 *9th-level, Abjuration*  

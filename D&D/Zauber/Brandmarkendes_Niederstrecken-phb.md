@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Brandmarkendes Niederstrecken
 Zaubergrad: 2
+linter-yaml-title-alias: Brandmarkendes Niederstrecken
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
-  - Branding Smite
-linter-yaml-title-alias: Branding Smite
+  - Brandmarkendes Niederstrecken
 ---
 # Brandmarkendes Niederstrecken
 *Hervorrufung des 2. Grades*

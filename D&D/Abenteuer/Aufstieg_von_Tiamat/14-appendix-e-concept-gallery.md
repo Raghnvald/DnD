@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix E: Concept Gallery"
+linter-yaml-title-alias: "Appendix E: Concept Gallery"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Appendix E: Concept Gallery"
   - Appendix E: Concept Gallery
 ---
 # Appendix E: Concept Gallery

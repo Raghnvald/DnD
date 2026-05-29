@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Planar Effects
+linter-yaml-title-alias: Planar Effects
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

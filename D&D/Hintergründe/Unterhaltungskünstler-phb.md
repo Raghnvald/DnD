@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Entertainer
+linter-yaml-title-alias: Entertainer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

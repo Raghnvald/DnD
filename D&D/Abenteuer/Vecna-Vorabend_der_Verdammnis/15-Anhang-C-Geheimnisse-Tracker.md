@@ -1,10 +1,23 @@
 ---
 Bezeichnung: "Anhang C: Geheimnisse-Tracker"
 status: completed
+linter-yaml-title-alias: "Anhang C: Geheimnisse-Tracker"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Anhang C: Geheimnisse-Tracker"
   - Appendix C: Secrets Tracker
+SC1-1-1: true
+SC1-1-2: false
+SC1-2-1: false
+SC1-2-2: false
+SC1-3-1: false
+SC1-3-2: false
+SC2-1-1: false
+SC2-1-2: false
+SC2-2-1: false
+SC2-2-2: false
+SC3-1-1: false
 ---
 # Anhang C: Geheimnisse-Tracker
 *Quelle: Vecna:Vorabend der Verdammnis* 
@@ -18,7 +31,7 @@ Wenn die Charaktere ein wertvolles Geheimnis erfahren, kreuze das Kästchen „G
 
 | Geheimnis<br> erfahren            | Geheimnis<br>enthüllt             | Wertvolles Geheimnis                                                                                                                                                                   | Quelle     |
 | --------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Indrina weiß, dass Vogt Niegluts Anspruch auf den Thron nicht legitim ist.                                                                                                             | Kapitel 1  |
+| <input type="checkbox" checked> | <input type="checkbox" unchecked> | Indrina weiß, dass Vogt Niegluts Anspruch auf den Thron nicht legitim ist.                                                                                                             | Kapitel 1  |
 | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Sarcelle hatte neulich eine Vision von einem verdorrten Mann, der etwas Schreckliches auslöst.                                                                                         | Kapitel 1  |
 | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Umberto ist ein Historiker von Vecna.                                                                                                                                                  | Kapitel 1  |
 | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Mordenkainen, tatsächlich der getarnte Kas, legt alle herein.                                                                                                                          | Kapitel 2  |
@@ -36,3 +49,25 @@ Wenn die Charaktere ein wertvolles Geheimnis erfahren, kreuze das Kästchen „G
 | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Der Mantel, den Naxa und ihre Schwester holen wollten, ist nicht nur ein schicker magischer Gegenstand, sondern spielt eine Schlüsselrolle bei einem wichtigen Ritual, das sie planen. | Kapitel 10 |
 | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | Kas weiß, dass Vecna sein Ritual der Umformung in der Höhle des Geborstenen Spiegelbilds in den Tiefen von Pandesmos vorbereitet.                                                      | Kapitel 10 |
 ^valuable-secret-source
+
+---
+
+| Geheimnis<br> erfahren            | Geheimnis<br>enthüllt             | Wertvolles Geheimnis                                                                                                                                                                   | Quelle     |
+| --------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| `INPUT[toggle:SC1-1-1]` | `INPUT[toggle:SC1-1-2]` | Indrina weiß, dass Vogt Niegluts Anspruch auf den Thron nicht legitim ist.                                                                                                             | Kapitel 1  |
+| `INPUT[toggle:SC1-2-1]` | `INPUT[toggle:SC1-2-2]` | Sarcelle hatte neulich eine Vision von einem verdorrten Mann, der etwas Schreckliches auslöst.                                                                                         | Kapitel 1  |
+| `INPUT[toggle:SC1-3-1]` | `INPUT[toggle:SC1-3-2]` | Umberto ist ein Historiker von Vecna.                                                                                                                                                  | Kapitel 1  |
+| `INPUT[toggle:SC2-1-1]` | `INPUT[toggle:SC2-1-2]` | Mordenkainen, tatsächlich der getarnte Kas, legt alle herein.                                                                                                                          | Kapitel 2  |
+| `INPUT[toggle:SC2-2-1]` | `INPUT[toggle:SC2-2-2]` | Gertrude und ihre Freundin Mina wussten, dass ein Angriff von Lolths Kultisten bevorsteht, aber sie haben niemanden gewarnt.                                                           | Kapitel 2  |
+| `INPUT[toggle:SC3-1-1]` | <input type="checkbox" unchecked> | Figaro wusste von den Gefahren der Gegend, in der das Spelljammer-Schiff havariert ist, hat dem Kapitän diese Informationen aber absichtlich vorenthalten.                             | Kapitel 3  |
+| `INPUT[toggle:SC3-2-1]` | <input type="checkbox" unchecked> | Ikasa und sein bester Freund sind nach einem Piratenangriff gestrandet. Er weiß von einem weiteren überlebenden des Angriffs.                                                          | Kapitel 3  |
+| `INPUT[toggle:SC4-1-1]` | <input type="checkbox" unchecked> | Barmherz hat nie ernsthaft nach Knilch gesucht, als die zwei nach dem Tag der Trauer getrennt worden waren.                                                                            | Kapitel 4  |
+| `INPUT[toggle:SC4-2-1]` | <input type="checkbox" unchecked> | Kalyth hat Vermögen verloren', das die derzeitige finanzielle Notlage für sie und ihre Verbündeten hätte verhindern können.                                                            | Kapitel 4  |
+| `INPUT[toggle:SC5-1-1]` | <input type="checkbox" unchecked> | Sarusandas Vater Galias ist den bösen Priestern von Osybus beigetreten. Sie wollte ihn im Todeshaus finden und töten.                                                                  | Kapitel 5  |
+| `INPUT[toggle:SC6-1-1]` | <input type="checkbox" unchecked> | Gazaia hat sich versteckt, als böse Soldaten ihren Baum angegriffen und das fünfte Teil des [[Stab_der_Sieben_Teile-veor\|Stabs der Sieben Teile]] geraubt haben.                      | Kapitel 6  |
+| `INPUT[toggle:SC6-2-1]` | <input type="checkbox" unchecked> | Valendar hat einen Angriff auf seine Gegner gestartet, ohne die Mission richtig geplant oder die Feste ausgespäht zu haben.                                                            | Kapitel 6  |
+| `INPUT[toggle:SC7-1-1]` | <input type="checkbox" unchecked> | Marian war schon immer vom Erzlich Acererak und seiner bösen Magie fasziniert und sogar in Versuchung, Nekromantie zu studieren.                                                       | Kapitel 7  |
+| `INPUT[toggle:SC7-2-1]` | <input type="checkbox" unchecked> | Rerak verabscheut es, im Grab der Verirrten Seelen gefangen zu sein. Er wollte nie Acereraks Willen wirken.                                                                            | Kapitel 7  |
+| `INPUT[toggle:SC9-1-1]` | <input type="checkbox" unchecked> | Malaina hat Mordenkainen von Anfang an misstraut, aber Alustriel, Tasha oder den Charakteren nichts davon gesagt.                                                                      | Kapitel 9  |
+| `INPUT[toggle:SC10-1-1]` | <input type="checkbox" unchecked> | Der Mantel, den Naxa und ihre Schwester holen wollten, ist nicht nur ein schicker magischer Gegenstand, sondern spielt eine Schlüsselrolle bei einem wichtigen Ritual, das sie planen. | Kapitel 10 |
+| `INPUT[toggle:SC17-1]` | <input type="checkbox" unchecked> | Kas weiß, dass Vecna sein Ritual der Umformung in der Höhle des Geborstenen Spiegelbilds in den Tiefen von Pandesmos vorbereitet.                                                      | Kapitel 10 |

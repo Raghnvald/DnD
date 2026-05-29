@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rejecting the Ordning
+linter-yaml-title-alias: Rejecting the Ordning
 tags:
   - Quelle/5e/bgg
 aliases:

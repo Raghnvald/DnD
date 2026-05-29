@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Yuan-ti; Yuan-ti Flaws
+linter-yaml-title-alias: Roleplaying a Yuan-ti; Yuan-ti Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

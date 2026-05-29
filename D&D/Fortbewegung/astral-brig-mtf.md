@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Astral Brig
+linter-yaml-title-alias: Astral Brig
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/air

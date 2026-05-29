@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Answering (Replier)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sword of Answering (Replier)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sword of Answering (Replier)
-linter-yaml-title-alias: Sword of Answering (Replier)
 ---
 # Sword of Answering (Replier)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a neutral creature)*  

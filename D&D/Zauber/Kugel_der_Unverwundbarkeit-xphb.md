@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Globe of Invulnerability
+linter-yaml-title-alias: Globe of Invulnerability
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -8,14 +14,8 @@ tags:
   - Subklasse/abjurer
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Globe of Invulnerability
-linter-yaml-title-alias: Globe of Invulnerability
 ---
 # Globe of Invulnerability
 *6th-level, Abjuration*  

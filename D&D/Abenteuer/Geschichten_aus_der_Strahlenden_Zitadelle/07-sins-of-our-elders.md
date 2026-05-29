@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sins of Our Elders
+linter-yaml-title-alias: Sins of Our Elders
 tags:
   - Quelle/5e/jttrc
 aliases:

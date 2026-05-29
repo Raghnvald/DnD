@@ -7,6 +7,12 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Arkanes Tor
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -15,14 +21,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Arcane Gate
-linter-yaml-title-alias: Arkansas Tor
+  - Arkanes Tor
 ---
 # Arkanes Tor
 *Beschwörung des 6. Grades*  

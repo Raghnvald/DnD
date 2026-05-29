@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nimir
+linter-yaml-title-alias: Nimir
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Nimir
-linter-yaml-title-alias: Nimir
 ---
 # [Nimir](3-Mechanics\CLI\bestiary\npc/nimir-skt.md)
 *Source: Storm King's Thunder p. 256*  

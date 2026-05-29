@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hempen Rope (50 feet)
+linter-yaml-title-alias: Hempen Rope (50 feet)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Hempen Rope (50 feet)
-linter-yaml-title-alias: Hempen Rope (50 feet)
 ---
 # Hempen Rope (50 feet)
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 3: Chaos in Doomspace"
+linter-yaml-title-alias: "Part 3: Chaos in Doomspace"
 tags:
   - Quelle/5e/lox
 aliases:

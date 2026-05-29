@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ancient Being Contact
+linter-yaml-title-alias: Ancient Being Contact
 tags:
   - Quelle/5e/tce
 aliases:

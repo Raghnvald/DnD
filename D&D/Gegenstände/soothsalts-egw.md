@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Soothsalts
+Kst.: 150 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Soothsalts
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Soothsalts
-linter-yaml-title-alias: Soothsalts
 ---
 # Soothsalts
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gute Beeren
+linter-yaml-title-alias: Gute Beeren
 tags:
   - Klasse/Druide
   - Klasse/Waldläufer
@@ -8,7 +9,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Goodberry
-linter-yaml-title-alias: Gute Beeren
+  - Gute Beeren
 ---
 # Gute Beeren
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

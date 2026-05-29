@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Cannon, Flamethrower
+linter-yaml-title-alias: Eldritch Cannon, Flamethrower
 tags:
   - Kompendium/Objekt/size/unknown
   - Kompendium/Objekt/type/unknown

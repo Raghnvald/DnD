@@ -8,6 +8,7 @@ HG: 13
 Habitat:
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Beholder
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

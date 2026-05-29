@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Khyber Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Khyber Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
   - Khyber Trinket
-linter-yaml-title-alias: Khyber Trinket
 ---
 # Khyber Trinket
 *Adventuring gear*  

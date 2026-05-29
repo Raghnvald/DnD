@@ -7,6 +7,10 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Wrathful Smite
+classes:
+  - Paladin
+  - Warlock (The Hexblade)
 tags:
   - Klasse/paladin
   - Kompendium/Talent/shadow-touched
@@ -14,12 +18,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/1
   - Zauber/Schule/Nekromantie
-classes:
-  - Paladin
-  - Warlock (The Hexblade)
 aliases:
   - Wrathful Smite
-linter-yaml-title-alias: Wrathful Smite
 ---
 # Wrathful Smite
 *1st-level, Necromancy*  

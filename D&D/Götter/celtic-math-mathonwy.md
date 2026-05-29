@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Math Mathonwy
+linter-yaml-title-alias: Math Mathonwy
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/arcana

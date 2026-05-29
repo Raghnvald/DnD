@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ring of Psychic Resistance
+linter-yaml-title-alias: Ring of Psychic Resistance
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
   - Ring of Psychic Resistance
-linter-yaml-title-alias: Ring of Psychic Resistance
 ---
 # Ring of Psychic Resistance
 *Ring, rare*  

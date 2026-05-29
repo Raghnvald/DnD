@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Star Ruby
+linter-yaml-title-alias: Star Ruby
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Star Ruby
-linter-yaml-title-alias: Star Ruby
 ---
 # Star Ruby
 *Treasure (gemstone)*  

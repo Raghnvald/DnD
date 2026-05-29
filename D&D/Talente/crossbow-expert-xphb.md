@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crossbow Expert
+linter-yaml-title-alias: Crossbow Expert
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

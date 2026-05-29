@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halberd
+linter-yaml-title-alias: Halberd
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Halberd
-linter-yaml-title-alias: Halberd
 ---
 # Halberd
 *Weapon*  

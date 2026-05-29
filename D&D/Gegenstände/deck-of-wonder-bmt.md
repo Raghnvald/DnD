@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Deck of Wonder
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Deck of Wonder
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
   - Deck of Wonder
-linter-yaml-title-alias: Deck of Wonder
 ---
 # Deck of Wonder
 *Wondrous item, uncommon*  

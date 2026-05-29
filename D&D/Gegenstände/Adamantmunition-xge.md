@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Adamantmunition
 Kategorie: Munition
-Eigenschaften: Munition
+Eigenschaften:
+  - Munition
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Adamantmunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/unbekannt
@@ -17,8 +20,6 @@ aliases:
   - Adamantine Needle
   - Adamantine Sling Bullet
   - Adamantmunition
-linter-yaml-title-alias: Adamantmunition
-Status: completed
 ---
 # Adamantmunition
 *Munition*

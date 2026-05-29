@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Tables; Githyanki Personality Traits
+linter-yaml-title-alias: Gith Tables; Githyanki Personality Traits
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow Assassin
+linter-yaml-title-alias: Shadow Assassin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Shadow Assassin
-linter-yaml-title-alias: Shadow Assassin
 ---
 # [Shadow Assassin](3-Mechanics\CLI\bestiary\undead/shadow-assassin-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 316*  

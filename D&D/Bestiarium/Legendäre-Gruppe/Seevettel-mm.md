@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sea Hag
+linter-yaml-title-alias: Sea Hag
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

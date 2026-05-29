@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mud Hulk
+linter-yaml-title-alias: Mud Hulk
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

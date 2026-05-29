@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Krenkos Way
+linter-yaml-title-alias: Index of Krenkos Way
+aliases:
+  - Index of Krenkos Way
 ---
 # Index of Krenkos Way
 

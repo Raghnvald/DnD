@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solar Bastion Contact
+linter-yaml-title-alias: Solar Bastion Contact
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Jester
+linter-yaml-title-alias: Charm of the Jester
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

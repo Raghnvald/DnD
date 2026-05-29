@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Borderlands Quest: Goblin Trouble"
+linter-yaml-title-alias: "Borderlands Quest: Goblin Trouble"
 tags:
   - Quelle/5e/bqgt
 aliases:

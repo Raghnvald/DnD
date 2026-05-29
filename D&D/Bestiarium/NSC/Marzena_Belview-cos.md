@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Marzena Belview
+linter-yaml-title-alias: Marzena Belview
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Marzena Belview
-linter-yaml-title-alias: Marzena Belview
 ---
 # Marzena Belview
 *Source: Curse of Strahd p. 150*  

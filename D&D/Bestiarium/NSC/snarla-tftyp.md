@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snarla
+linter-yaml-title-alias: Snarla
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/tftyp
 aliases:
   - Snarla
-linter-yaml-title-alias: Snarla
 ---
 # [Snarla](3-Mechanics\CLI\bestiary\npc/snarla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 102*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 1: The Village of Secomber"
+linter-yaml-title-alias: "Part 1: The Village of Secomber"
 tags:
   - Quelle/5e/aitfr-isf
 aliases:

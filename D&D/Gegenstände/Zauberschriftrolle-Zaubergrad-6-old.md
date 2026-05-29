@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 6)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 40.000 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 6)
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (6th Level)
   - Zauberschriftrolle (Zaubergrad 6)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 6)
 ---
 # Zauberschriftrolle (Zaubergrad 6)
 *Schriftrolle, sehr selten*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hazlan Wild Magic
+linter-yaml-title-alias: Hazlan Wild Magic
 tags:
   - Quelle/5e/vrgr
 aliases:

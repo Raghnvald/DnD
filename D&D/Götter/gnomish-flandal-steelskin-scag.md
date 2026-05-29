@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flandal Steelskin
+linter-yaml-title-alias: Flandal Steelskin
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/gnomish

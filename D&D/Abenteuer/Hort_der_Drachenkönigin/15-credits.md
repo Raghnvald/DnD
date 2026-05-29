@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/hotdq
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Hoard of the Dragon Queen* 

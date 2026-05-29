@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix C: Secrets Deck"
+linter-yaml-title-alias: "Appendix C: Secrets Deck"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Appendix C: Secrets Deck"
   - Appendix C: Secrets Deck
 ---
 # Appendix C: Secrets Deck

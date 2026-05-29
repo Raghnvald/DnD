@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Coldlight Walker
+linter-yaml-title-alias: Coldlight Walker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Coldlight Walker
-linter-yaml-title-alias: Coldlight Walker
 ---
 # [Coldlight Walker](3-Mechanics\CLI\bestiary\undead/coldlight-walker-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 284*  

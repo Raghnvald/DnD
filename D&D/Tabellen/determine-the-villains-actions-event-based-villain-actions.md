@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Determine the Villain's Actions; Event-Based Villain Actions"
+linter-yaml-title-alias: "Determine the Villain's Actions; Event-Based Villain Actions"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Determine the Villain's Actions; Event-Based Villain Actions"
   - Determine the Villain's Actions; Event-Based Villain Actions
 ---
 # Determine the Villain's Actions; Event-Based Villain Actions

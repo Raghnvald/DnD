@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Races
+linter-yaml-title-alias: Races
 tags:
   - Quelle/5e/phb
 aliases:

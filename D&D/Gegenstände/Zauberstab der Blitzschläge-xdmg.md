@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Lightning Bolts
+linter-yaml-title-alias: Wand of Lightning Bolts
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Lightning Bolts
-linter-yaml-title-alias: Wand of Lightning Bolts
 ---
 # Wand of Lightning Bolts
 *Wand, rare (requires attunement by a spellcaster)*  

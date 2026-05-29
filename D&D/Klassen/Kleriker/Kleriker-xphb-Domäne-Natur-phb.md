@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nature Domain
+linter-yaml-title-alias: Nature Domain
 tags:
   - Klasse/Kleriker/nature
   - Kompendium/Götter/Domäne/nature

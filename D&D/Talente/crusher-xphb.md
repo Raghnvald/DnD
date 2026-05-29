@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crusher
+linter-yaml-title-alias: Crusher
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

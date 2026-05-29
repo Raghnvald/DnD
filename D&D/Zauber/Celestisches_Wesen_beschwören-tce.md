@@ -6,6 +6,13 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Summon Celestial
+classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -15,15 +22,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Summon Celestial
-linter-yaml-title-alias: Summon Celestial
 ---
 # Summon Celestial
 *5th-level, Conjuration*  

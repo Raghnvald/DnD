@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hextor
+linter-yaml-title-alias: Hextor
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/greyhawk

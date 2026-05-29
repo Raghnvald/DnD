@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Choose a Background; Ability Scores and Backgrounds
+linter-yaml-title-alias: Choose a Background; Ability Scores and Backgrounds
 tags:
   - Quelle/5e/xphb
 aliases:

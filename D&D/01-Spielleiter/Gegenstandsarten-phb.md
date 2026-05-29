@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Gegenstandsarten
+linter-yaml-title-alias: Gegenstandsarten
 tags:
   - Quelle/5e/dmg
   - Quelle/5e/phb
   - Quelle/5e/xdmg
   - Quelle/5e/xphb
 aliases:
+  - Gegenstandsarten
   - Item Types
 ---
 # Gegenstandsarten

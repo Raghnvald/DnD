@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; War
+linter-yaml-title-alias: Secondary Tables; War
 tags:
   - Quelle/5e/xge
 aliases:

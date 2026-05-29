@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Feather Falling
+linter-yaml-title-alias: Charm of Feather Falling
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

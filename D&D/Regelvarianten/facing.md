@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Facing
+linter-yaml-title-alias: Facing
 tags:
   - Quelle/5e/dmg
 aliases:

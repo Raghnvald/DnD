@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bak Mei
+linter-yaml-title-alias: Bak Mei
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cm
 aliases:
   - Bak Mei
-linter-yaml-title-alias: Bak Mei
 ---
 # [Bak Mei](3-Mechanics\CLI\bestiary\npc/bak-mei-cm.md)
 *Source: Candlekeep Mysteries p. 168*  

@@ -1,5 +1,11 @@
 ---
 Bezeichnung: "Otiluke's Freezing Sphere"
+linter-yaml-title-alias: "Otiluke's Freezing Sphere"
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -8,14 +14,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Otiluke's Freezing Sphere
-linter-yaml-title-alias: Otiluke's Freezing Sphere
+  - "Otiluke's Freezing Sphere"
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

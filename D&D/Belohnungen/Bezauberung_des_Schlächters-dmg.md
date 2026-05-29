@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bezauberung des Schlächters
+linter-yaml-title-alias: Bezauberung des Schlächters
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dmg
 aliases:
+  - Bezauberung des Schlächters
   - Charm of the Slayer
 ---
 # Bezauberung des Schlächters

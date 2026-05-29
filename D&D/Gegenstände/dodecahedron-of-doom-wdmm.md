@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dodecahedron of Doom
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Dodecahedron of Doom
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/wdmm
 aliases:
   - Dodecahedron of Doom
-linter-yaml-title-alias: Dodecahedron of Doom
 ---
 # Dodecahedron of Doom
 *Wondrous item, rare*  

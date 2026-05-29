@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharn Watch Adventure Hooks
+linter-yaml-title-alias: Sharn Watch Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

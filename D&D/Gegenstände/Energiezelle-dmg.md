@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Energy Cell
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: 0,15625 kg
+status: WIP
+linter-yaml-title-alias: Energy Cell
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm
   - Gegenstand/Seltenheit/keine
@@ -8,7 +14,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Energy Cell
-linter-yaml-title-alias: Energy Cell
 ---
 # Energy Cell
 *Ammunition (firearm)*  

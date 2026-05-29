@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lamannia, the Twilight Forest; Lamannia Manifest Zone Features
+linter-yaml-title-alias: Lamannia, the Twilight Forest; Lamannia Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

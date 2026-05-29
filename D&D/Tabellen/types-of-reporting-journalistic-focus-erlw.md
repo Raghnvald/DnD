@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Types of Reporting; Journalistic Focus
+linter-yaml-title-alias: Types of Reporting; Journalistic Focus
 tags:
   - Quelle/5e/erlw
 aliases:

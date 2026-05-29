@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Weird
+linter-yaml-title-alias: Weird
+classes:
+  - Bard
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/9
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Weird
-linter-yaml-title-alias: Weird
 ---
 # Weird
 *9th-level, Illusion*  

@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Star Angler
+image: token/star-angler-veor.webp
 status: WIP
+linter-yaml-title-alias: Star Angler
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 14
 status: WIP
+linter-yaml-title-alias: Breath Drinker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/14

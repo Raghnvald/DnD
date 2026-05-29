@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Haste
+linter-yaml-title-alias: Haste
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Glory)
+  - Paladin (Oath of Vengeance)
+  - Ranger (Horizon Walker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -14,20 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Glory)
-  - Paladin (Oath of Vengeance)
-  - Ranger (Horizon Walker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Haste
-linter-yaml-title-alias: Haste
 ---
 # Haste
 *3rd-level, Transmutation*  

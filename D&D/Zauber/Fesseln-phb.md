@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Enthrall
 Zaubergrad: 2
+linter-yaml-title-alias: Enthrall
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
 aliases:
   - Enthrall
-linter-yaml-title-alias: Enthrall
 ---
 # Enthrall
 *2nd-level, Enchantment*  

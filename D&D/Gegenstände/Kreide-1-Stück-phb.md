@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chalk (1 piece)
+linter-yaml-title-alias: Chalk (1 piece)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Chalk (1 piece)
-linter-yaml-title-alias: Chalk (1 piece)
 ---
 # Chalk (1 piece)
 *Adventuring gear*  

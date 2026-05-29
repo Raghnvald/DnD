@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of Exquisite Radiance
+linter-yaml-title-alias: Boon of Exquisite Radiance
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Boon of Exquisite Radiance"
+  - Boon of Exquisite Radiance
 ---
 # Boon of Exquisite Radiance
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Fireball
 Zaubergrad: 3
+linter-yaml-title-alias: Fireball
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Light Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fiend)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/light-domain
@@ -13,17 +22,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/flames-of-the-phoenix
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Light Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fiend)
-  - Wizard
 aliases:
   - Fireball
-linter-yaml-title-alias: Fireball
 ---
 # Fireball
 *Hervorrufung des 3. Grades*  

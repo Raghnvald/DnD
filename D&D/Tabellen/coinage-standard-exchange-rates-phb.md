@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Coinage; Standard Exchange Rates
+linter-yaml-title-alias: Coinage; Standard Exchange Rates
 tags:
   - Quelle/5e/phb
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Character Names
+linter-yaml-title-alias: Character Names
 tags:
   - Quelle/5e/xge
 aliases:

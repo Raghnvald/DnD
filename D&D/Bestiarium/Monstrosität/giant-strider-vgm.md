@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Strider
+linter-yaml-title-alias: Giant Strider
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Gnomish Pantheon
+linter-yaml-title-alias: The Gnomish Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

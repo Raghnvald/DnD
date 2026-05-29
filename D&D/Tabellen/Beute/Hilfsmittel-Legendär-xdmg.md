@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Implements - Legendary
+linter-yaml-title-alias: Implements - Legendary
 tags:
   - Quelle/5e/xdmg
 aliases:

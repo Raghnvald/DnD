@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Simulacrum
 Zaubergrad: 7
+linter-yaml-title-alias: Simulacrum
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Simulacrum
-linter-yaml-title-alias: Simulacrum
 ---
 # Simulacrum
 *7th-level, Illusion*  

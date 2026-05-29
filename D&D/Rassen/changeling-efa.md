@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Changeling
+linter-yaml-title-alias: Changeling
 tags:
   - Quelle/5e/efa
   - Rasse/changeling
 aliases:
   - "Changeling"
+  - Changeling
 ---
 # Changeling
 *Source: Eberron: Forge of the Artificer p. 34*  

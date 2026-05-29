@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Helm of Perfect Potential
+linter-yaml-title-alias: Helm of Perfect Potential
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/bgg
 aliases:
   - Helm of Perfect Potential
-linter-yaml-title-alias: Helm of Perfect Potential
 ---
 # Helm of Perfect Potential
 *Wondrous item, artifact (requires attunement)*  

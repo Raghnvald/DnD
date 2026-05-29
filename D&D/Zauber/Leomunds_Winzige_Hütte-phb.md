@@ -1,6 +1,12 @@
 ---
 Bezeichnung: "Leomund's Tiny Hut"
 Zaubergrad: 3
+linter-yaml-title-alias: "Leomund's Tiny Hut"
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -10,14 +16,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
-  - Leomund's Tiny Hut
-linter-yaml-title-alias: Leomund's Tiny Hut
+  - "Leomund's Tiny Hut"
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  

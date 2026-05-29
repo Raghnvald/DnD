@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wind Fan
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wind Fan
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Wind Fan
-linter-yaml-title-alias: Wind Fan
 ---
 # Wind Fan
 *Wondrous item, major, uncommon*  

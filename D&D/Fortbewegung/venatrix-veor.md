@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Venatrix
+linter-yaml-title-alias: Venatrix
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/land

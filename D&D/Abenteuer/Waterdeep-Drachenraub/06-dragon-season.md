@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Season
+linter-yaml-title-alias: Dragon Season
 tags:
   - Quelle/5e/wdh
 aliases:

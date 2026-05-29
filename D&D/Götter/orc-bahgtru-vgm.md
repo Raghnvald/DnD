@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bahgtru
+linter-yaml-title-alias: Bahgtru
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/orc

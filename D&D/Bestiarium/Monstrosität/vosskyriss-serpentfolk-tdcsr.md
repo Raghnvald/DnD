@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Vos'skyriss Serpentfolk"
+linter-yaml-title-alias: "Vos'skyriss Serpentfolk"
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste
@@ -12,6 +13,7 @@ tags:
   - Monster/Typ/Monstrosität
   - Quelle/5e/tdcsr
 aliases:
+  - "Vos'skyriss Serpentfolk"
   - Vos'skyriss Serpentfolk
 ---
 # [Vos'skyriss Serpentfolk](3-Mechanics\CLI\bestiary\monstrosity/vosskyriss-serpentfolk-tdcsr.md)

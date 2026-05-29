@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pepper
+linter-yaml-title-alias: Pepper
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Pepper
-linter-yaml-title-alias: Pepper
 ---
 # Pepper
 *Trade good*  

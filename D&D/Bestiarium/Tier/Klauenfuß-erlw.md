@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clawfoot
+linter-yaml-title-alias: Clawfoot
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

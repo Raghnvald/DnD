@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Greatsword
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Greatsword
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Greatsword
-linter-yaml-title-alias: Greatsword
 ---
 # Greatsword
 *Weapon*  

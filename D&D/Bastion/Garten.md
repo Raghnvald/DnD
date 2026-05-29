@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Garden
+linter-yaml-title-alias: Garden
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

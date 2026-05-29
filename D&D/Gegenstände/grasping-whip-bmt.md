@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Grasping Whip
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Grasping Whip
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Grasping Whip
-linter-yaml-title-alias: Grasping Whip
 ---
 # Grasping Whip
 *Weapon (whip), rare*  

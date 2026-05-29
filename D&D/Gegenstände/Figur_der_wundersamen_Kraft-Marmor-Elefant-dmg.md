@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Marble Elephant
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Figurine of Wondrous Power, Marble Elephant
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - Figurine of Wondrous Power, Marble Elephant
-linter-yaml-title-alias: Figurine of Wondrous Power, Marble Elephant
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous item, major, rare*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snow Maiden
+linter-yaml-title-alias: Snow Maiden
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Snow Maiden
-linter-yaml-title-alias: Snow Maiden
 ---
 # [Snow Maiden](3-Mechanics\CLI\bestiary\undead/snow-maiden-cos.md)
 *Source: Curse of Strahd p. 159*  

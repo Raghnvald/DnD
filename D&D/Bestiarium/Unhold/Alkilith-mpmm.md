@@ -8,7 +8,9 @@ HG: "11"
 Habitat:
   - Stadt
   - Unterreich
+image: token/alkilith-mpmm.webp
 status: WIP
+linter-yaml-title-alias: Alkilith
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

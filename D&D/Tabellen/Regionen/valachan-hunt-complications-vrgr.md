@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valachan Hunt Complications
+linter-yaml-title-alias: Valachan Hunt Complications
 tags:
   - Quelle/5e/vrgr
 aliases:

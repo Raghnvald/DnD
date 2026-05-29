@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Donavich
+linter-yaml-title-alias: Donavich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Donavich
-linter-yaml-title-alias: Donavich
 ---
 # [Donavich](3-Mechanics\CLI\bestiary\npc/donavich-cos.md)
 *Source: Curse of Strahd p. 46*  

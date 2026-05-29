@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc Hand of Yurtrus
+linter-yaml-title-alias: Orc Hand of Yurtrus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

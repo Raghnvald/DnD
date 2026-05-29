@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Greatclub
+linter-yaml-title-alias: Greatclub
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Greatclub
-linter-yaml-title-alias: Greatclub
 ---
 # Greatclub
 *Weapon*  

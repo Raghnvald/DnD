@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Herbalism Kit
+linter-yaml-title-alias: Herbalism Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Herbalism Kit
-linter-yaml-title-alias: Herbalism Kit
 ---
 # Herbalism Kit
 *Tool*  

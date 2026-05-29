@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Walloping Ammunition
+linter-yaml-title-alias: Walloping Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Ausrüstung/ammunition-firearm
@@ -15,7 +16,6 @@ aliases:
   - Walloping Firearm Bullet
   - Walloping Needle
   - Walloping Sling Bullet
-linter-yaml-title-alias: Walloping Ammunition
 ---
 # Walloping Ammunition
 *Ammunition, common*  

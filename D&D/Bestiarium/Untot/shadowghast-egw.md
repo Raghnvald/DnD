@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadowghast
+linter-yaml-title-alias: Shadowghast
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Shadowghast
-linter-yaml-title-alias: Shadowghast
 ---
 # [Shadowghast](3-Mechanics\CLI\bestiary\undead/shadowghast-egw.md)
 *Source: Explorer's Guide to Wildemount p. 299*  

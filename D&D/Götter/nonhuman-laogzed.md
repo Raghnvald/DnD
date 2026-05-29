@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Laogzed
+linter-yaml-title-alias: Laogzed
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/nonhuman

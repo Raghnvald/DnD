@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Copper Dragon
+linter-yaml-title-alias: Young Copper Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Hügel
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Young Copper Dragon
-linter-yaml-title-alias: Young Copper Dragon
 ---
 # [Young Copper Dragon](3-Mechanics\CLI\bestiary\dragon/young-copper-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

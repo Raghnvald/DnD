@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Understanding
+linter-yaml-title-alias: Blessing of Understanding
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/xdmg

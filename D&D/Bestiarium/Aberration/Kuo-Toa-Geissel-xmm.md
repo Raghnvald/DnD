@@ -5,6 +5,7 @@ Bezeichnung: Kuo-toa Whip
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 1
+linter-yaml-title-alias: Kuo-toa Whip
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

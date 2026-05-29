@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 7)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 40.000 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 7)
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (7th Level)
   - Zauberschriftrolle (Zaubergrad 7)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 7)
 ---
 # Zauberschriftrolle (Zaubergrad 7)
 *Schriftrolle, sehr selten*  

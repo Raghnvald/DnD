@@ -6,6 +6,7 @@ Komponenten: V
 Wirkungsdauer: 1 Stunde
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Redegewandtheit
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -15,6 +16,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Glibness
+  - Redegewandtheit
 ---
 # Redegewandtheit
 _Verwandlung des 8. Grades_

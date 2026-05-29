@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Ship-to-Ship Combat
+linter-yaml-title-alias: Ship-to-Ship Combat
 tags:
   - Quelle/5e/aag
 aliases:
   - "Ship-to-Ship Combat"
+  - Ship-to-Ship Combat
 ---
 # Ship-to-Ship Combat
 *Source: Astral Adventurer's Guide p. 24* 

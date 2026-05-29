@@ -8,6 +8,7 @@ HG: 10
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Exethanter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Exethanter
-linter-yaml-title-alias: Exethanter
 ---
 # [Exethanter](3-Mechanics\CLI\bestiary\npc/exethanter-cos.md)
 *Source: Curse of Strahd p. 189*  

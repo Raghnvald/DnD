@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for The Fathomless
+linter-yaml-title-alias: Spells for The Fathomless
 tags:
   - Zauber/list/subclass/the-fathomless
 aliases:

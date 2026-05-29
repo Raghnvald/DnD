@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lliira
+linter-yaml-title-alias: Lliira
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/faerunian

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Climber's Kit"
+linter-yaml-title-alias: "Climber's Kit"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Climber's Kit
-linter-yaml-title-alias: Climber's Kit
+  - "Climber's Kit"
 ---
 # Climber's Kit
 *Adventuring gear*  

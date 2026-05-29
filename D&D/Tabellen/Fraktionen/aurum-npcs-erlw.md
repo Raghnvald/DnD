@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aurum NPCs
+linter-yaml-title-alias: Aurum NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

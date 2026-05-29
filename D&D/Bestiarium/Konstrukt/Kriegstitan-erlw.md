@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warforged Titan
+linter-yaml-title-alias: Warforged Titan
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

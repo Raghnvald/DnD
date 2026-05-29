@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn Names – Male
+linter-yaml-title-alias: Dragonborn Names – Male
 tags:
   - Quelle/5e/xge
 aliases:

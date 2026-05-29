@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Harper Agent
+linter-yaml-title-alias: Harper Agent
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Harper Agent"
+  - Harper Agent
 ---
 # Harper Agent
 *Source: Forgotten Realms: Heroes of Faerûn p. 37*  

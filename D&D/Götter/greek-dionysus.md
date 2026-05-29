@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dionysus
+linter-yaml-title-alias: Dionysus
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/greek

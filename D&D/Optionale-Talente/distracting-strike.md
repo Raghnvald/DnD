@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Distracting Strike
+linter-yaml-title-alias: Distracting Strike
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Mind Blank
+linter-yaml-title-alias: Mind Blank
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/abjurer
   - Zauber/Grad/8
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Mind Blank
-linter-yaml-title-alias: Mind Blank
 ---
 # Mind Blank
 *8th-level, Abjuration*  

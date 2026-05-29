@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kruphix's Votary"
+linter-yaml-title-alias: "Kruphix's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

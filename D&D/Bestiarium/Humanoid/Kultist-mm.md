@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cultist
+linter-yaml-title-alias: Cultist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

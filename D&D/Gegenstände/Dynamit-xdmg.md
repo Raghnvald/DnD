@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dynamite Stick
+linter-yaml-title-alias: Dynamite Stick
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Dynamite Stick
-linter-yaml-title-alias: Dynamite Stick
 ---
 # Dynamite Stick
 *Explosive*  

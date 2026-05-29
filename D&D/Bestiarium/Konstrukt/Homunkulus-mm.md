@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Homunculus
+linter-yaml-title-alias: Homunculus
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

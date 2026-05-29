@@ -5,12 +5,14 @@ Größe:
 HG: 
 image: 
 status:
+linter-yaml-title-alias: Name
 tags:
   - Habitat/GRÖSSE
   - Quelle/QUELLE
   - Typ/TYP/SUBTYP
   - Vorkommen/VORKOMMEN
 aliases:
+  - Name
   - NAME
 ---
 # Name

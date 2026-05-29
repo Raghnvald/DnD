@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Flesh to Stone
+linter-yaml-title-alias: Flesh to Stone
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Flesh to Stone
-linter-yaml-title-alias: Flesh to Stone
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

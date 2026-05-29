@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Tonkrug
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 KM
 Gew.: 2,0 kg
+status: WIP
+linter-yaml-title-alias: Tonkrug
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Jug
-linter-yaml-title-alias: Jug
+  - Tonkrug
 ---
 # Tonkrug
 *Abenteuerausrüstung*  

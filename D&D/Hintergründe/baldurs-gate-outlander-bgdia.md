@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Outlander"
+linter-yaml-title-alias: "Baldur's Gate Outlander"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Outlander"
   - Baldur's Gate Outlander
 ---
 # Baldur's Gate Outlander

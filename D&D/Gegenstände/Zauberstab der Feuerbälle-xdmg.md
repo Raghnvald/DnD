@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Fireballs
+linter-yaml-title-alias: Wand of Fireballs
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Fireballs
-linter-yaml-title-alias: Wand of Fireballs
 ---
 # Wand of Fireballs
 *Wand, rare (requires attunement by a spellcaster)*  

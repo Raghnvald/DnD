@@ -1,5 +1,22 @@
 ---
 Bezeichnung: Hold Person
+linter-yaml-title-alias: Hold Person
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Order Domain)
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of Vengeance)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -20,25 +37,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/clench-of-the-north-wind
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Order Domain)
-  - Druid
-  - Druid (Circle of the Land, Polar Land)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Conquest)
-  - Paladin (Oath of Redemption)
-  - Paladin (Oath of Vengeance)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 aliases:
   - Hold Person
-linter-yaml-title-alias: Hold Person
 ---
 # Hold Person
 *2nd-level, Enchantment*  

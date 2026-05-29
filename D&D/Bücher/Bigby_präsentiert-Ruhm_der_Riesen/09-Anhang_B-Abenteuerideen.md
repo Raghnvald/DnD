@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Adventure Hooks"
+linter-yaml-title-alias: "Appendix B: Adventure Hooks"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Appendix B: Adventure Hooks"
   - Appendix B: Adventure Hooks
 ---
 # Appendix B: Adventure Hooks

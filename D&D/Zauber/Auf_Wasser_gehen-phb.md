@@ -7,6 +7,14 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Auf Wasser gehen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Druid (Circle of the Land, Coast)
+  - Ranger
+  - Sorcerer
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -18,16 +26,9 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Druid (Circle of the Land, Coast)
-  - Ranger
-  - Sorcerer
 aliases:
+  - Auf Wasser gehen
   - Water Walk
-linter-yaml-title-alias: Auf Wasser gehen
 ---
 # Auf Wasser gehen
 _Verwandlung des 3. Grades (Ritual)_

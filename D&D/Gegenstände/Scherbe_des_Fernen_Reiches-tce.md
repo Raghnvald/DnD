@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Far Realm Shard
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Far Realm Shard
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Far Realm Shard
-linter-yaml-title-alias: Far Realm Shard
 ---
 # Far Realm Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

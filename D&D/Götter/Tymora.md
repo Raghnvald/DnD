@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tymora, Göttin des Glücks
+linter-yaml-title-alias: Tymora, Göttin des Glücks
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/List
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tymora
+  - Tymora, Göttin des Glücks
 ---
 # Tymora, Göttin des Glücks
 _Die Dame des Glücks, Unsere Lächelnde Dame_

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Crystal Dragon
+linter-yaml-title-alias: Young Crystal Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Crystal Dragon
-linter-yaml-title-alias: Young Crystal Dragon
 ---
 # [Young Crystal Dragon](3-Mechanics\CLI\bestiary\dragon/young-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  

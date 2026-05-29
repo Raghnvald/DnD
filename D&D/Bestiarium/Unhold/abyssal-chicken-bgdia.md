@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/abyssal-chicken-bgdia.webp
 status: WIP
+linter-yaml-title-alias: Abyssal Chicken
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-4

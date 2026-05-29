@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Disaster Guilds
+linter-yaml-title-alias: Disaster Guilds
 tags:
   - Quelle/5e/ggr
 aliases:

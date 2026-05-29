@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/nrh-at
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: NERDS Restoring Harmony: Adventure Together* 

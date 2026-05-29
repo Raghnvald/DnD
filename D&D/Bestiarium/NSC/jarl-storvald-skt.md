@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarl Storvald
+linter-yaml-title-alias: Jarl Storvald
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Jarl Storvald
-linter-yaml-title-alias: Jarl Storvald
 ---
 # [Jarl Storvald](3-Mechanics\CLI\bestiary\npc/jarl-storvald-skt.md)
 *Source: Storm King's Thunder p. 165*  

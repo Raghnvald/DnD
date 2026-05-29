@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Crawling Claws
+linter-yaml-title-alias: Swarm of Crawling Claws
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Jedes
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Swarm of Crawling Claws
-linter-yaml-title-alias: Swarm of Crawling Claws
 ---
 # [Swarm of Crawling Claws](3-Mechanics\CLI\bestiary\undead/swarm-of-crawling-claws-xmm.md)
 *Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

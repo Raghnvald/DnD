@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Star Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Star Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Star Card
-linter-yaml-title-alias: Star Card
 ---
 # Star Card
 *Wondrous item, legendary*  

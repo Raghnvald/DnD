@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Hat of Vermin
+linter-yaml-title-alias: Hat of Vermin
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Hat of Vermin
-linter-yaml-title-alias: Hat of Vermin
 ---
 # Hat of Vermin
 *Wondrous item, common*  

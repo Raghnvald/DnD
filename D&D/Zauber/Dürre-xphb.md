@@ -7,6 +7,21 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Blight
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Druid
+  - Druid (Circle of Spores)
+  - Druid (Circle of the Land, Arid Land)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -24,23 +39,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Nekromantie
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Cleric (Death Domain)
-  - Cleric (Grave Domain)
-  - Druid
-  - Druid (Circle of Spores)
-  - Druid (Circle of the Land, Arid Land)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Blight
-linter-yaml-title-alias: Blight
 ---
 # Blight
 *4th-level, Necromancy*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Elven Pantheon
+linter-yaml-title-alias: The Elven Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

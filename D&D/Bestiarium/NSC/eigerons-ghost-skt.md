@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Eigeron's Ghost"
+linter-yaml-title-alias: "Eigeron's Ghost"
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/4
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Eigeron's Ghost"
   - Eigeron's Ghost
-linter-yaml-title-alias: "Eigeron's Ghost"
 ---
 # [Eigeron's Ghost](3-Mechanics\CLI\bestiary\npc/eigerons-ghost-skt.md)
 *Source: Storm King's Thunder p. 129*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hero Points
+linter-yaml-title-alias: Hero Points
 tags:
   - Quelle/5e/dmg
 aliases:

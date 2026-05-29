@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Objects
+linter-yaml-title-alias: Index of Objects
+aliases:
+  - Index of Objects
 ---
 # Index of Objects
 

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 11
 status: WIP
+linter-yaml-title-alias: Morkoth
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

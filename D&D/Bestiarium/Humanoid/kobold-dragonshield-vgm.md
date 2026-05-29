@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Dragonshield
+linter-yaml-title-alias: Kobold Dragonshield
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

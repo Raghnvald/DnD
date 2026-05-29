@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talona
+linter-yaml-title-alias: Talona
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Mistress of Disease"
   - "Talona"
   - "The Plague Crone"
+  - Talona
 ---
 # Talona
 *Source: Forgotten Realms: Heroes of Faerûn p. 123* 

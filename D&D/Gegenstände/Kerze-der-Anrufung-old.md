@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kerze der Anrufung
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Kerze der Anrufung
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Candle of Invocation
-linter-yaml-title-alias: Kerze der Anrufung
+  - Kerze der Anrufung
 ---
 # Kerze der Anrufung
 Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)

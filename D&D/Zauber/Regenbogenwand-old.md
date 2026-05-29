@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: 10 Minuten
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Regenbogenwand
 tags:
   - Klasse/Magier
   - Quelle/5e/phb
@@ -14,6 +15,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Prismatic Wall
+  - Regenbogenwand
 ---
 # Regenbogenwand
 _Bann des 9.Grades_

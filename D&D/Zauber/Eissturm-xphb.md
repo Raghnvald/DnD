@@ -7,6 +7,20 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Ice Storm
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Ancients)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -23,22 +37,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Polar Land)
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Ancients)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Ice Storm
-linter-yaml-title-alias: Ice Storm
 ---
 # Ice Storm
 *4th-level, Evocation*  

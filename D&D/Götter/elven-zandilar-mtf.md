@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zandilar
+linter-yaml-title-alias: Zandilar
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/elven

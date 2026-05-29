@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Empowered Spell
+linter-yaml-title-alias: Empowered Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith (Githzerai)
+linter-yaml-title-alias: Gith (Githzerai)
 tags:
   - Quelle/5e/mtf
   - Rasse/gith/githzerai

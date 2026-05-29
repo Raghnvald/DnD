@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xorta
+linter-yaml-title-alias: Xorta
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Xorta
-linter-yaml-title-alias: Xorta
 ---
 # [Xorta](3-Mechanics\CLI\bestiary\npc/xorta-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 98*  

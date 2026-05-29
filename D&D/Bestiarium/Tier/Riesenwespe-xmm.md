@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Wasp
+linter-yaml-title-alias: Giant Wasp
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

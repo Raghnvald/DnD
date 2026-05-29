@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab des Kriegsmagiers +1
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
 Kst.: 400 GM
 Gew.: 0,5 kg
 image: wand.webp
+linter-yaml-title-alias: Zauberstab des Kriegsmagiers +1
 tags:
   - Gegenstand/Einstimmung/Zauberwirker
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -13,7 +15,6 @@ tags:
 aliases:
   - Wand of the War Mage +1
   - Zauberstab des Kriegsmagiers +1
-linter-yaml-title-alias: Zauberstab des Kriegsmagiers +1
 ---
 # Zauberstab des Kriegsmagiers +1
 *Zauberstab, ungewöhnlich (erfordert Einstimmung durch einen Zauberwirker)*  

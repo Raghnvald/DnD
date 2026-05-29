@@ -2,9 +2,11 @@
 Bezeichnung: Frostbrand
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+linter-yaml-title-alias: Frostbrand
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -13,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Frost Brand
+  - Frostbrand
 ---
 # Frostbrand
 _Waffe (beliebiges Schwert), sehr selten (erfordert Einstimmung)_

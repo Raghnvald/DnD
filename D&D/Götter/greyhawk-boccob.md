@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boccob
+linter-yaml-title-alias: Boccob
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Work"
+linter-yaml-title-alias: "Downtime Activity: Work"
 tags:
   - Quelle/5e/xge
 aliases:
+  - "Downtime Activity: Work"
   - Downtime Activity: Work
 ---
 # Downtime Activity: Work

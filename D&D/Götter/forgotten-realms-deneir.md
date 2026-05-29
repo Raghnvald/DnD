@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deneir
+linter-yaml-title-alias: Deneir
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/forgotten-realms

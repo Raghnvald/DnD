@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Krimineller
+linter-yaml-title-alias: Krimineller
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
   - Criminal
+  - Krimineller
 ---
 # Krimineller
 *Source: Player's Handbook p. 129. Available in the Basic Rules (2014)*  

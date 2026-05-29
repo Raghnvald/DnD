@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Samurai
+linter-yaml-title-alias: Samurai
 tags:
   - Klasse/Kämpfer/samurai
   - Quelle/5e/xge
 aliases:
   - Samurai
-linter-yaml-title-alias: Samurai
 ---
 # Samurai
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

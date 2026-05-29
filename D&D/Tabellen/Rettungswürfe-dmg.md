@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Saving Throws
+linter-yaml-title-alias: Saving Throws
 tags:
   - Quelle/5e/dmg
 aliases:

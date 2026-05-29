@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Weapon Enhancement
+linter-yaml-title-alias: Blessing of Weapon Enhancement
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/xdmg

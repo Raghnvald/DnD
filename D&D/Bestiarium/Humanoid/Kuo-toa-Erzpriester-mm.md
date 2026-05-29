@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kuo-toa Archpriest
+linter-yaml-title-alias: Kuo-toa Archpriest
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

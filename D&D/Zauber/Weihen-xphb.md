@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Hallow
+linter-yaml-title-alias: Hallow
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Hallow
-linter-yaml-title-alias: Hallow
 ---
 # Hallow
 *5th-level, Abjuration*  

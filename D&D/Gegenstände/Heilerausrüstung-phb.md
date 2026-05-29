@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Heilerausrüstung
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 1,5 kg
+status: WIP
+linter-yaml-title-alias: Heilerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Healer's Kit
-linter-yaml-title-alias: Healer's Kit
+  - Heilerausrüstung
 ---
 # Heilerausrüstung
 *Abenteuerausrüstung*

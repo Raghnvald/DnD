@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Negative Energy Flood
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -13,13 +18,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 aliases:
   - Negative Energy Flood
-linter-yaml-title-alias: Negative Energy Flood
 ---
 # Negative Energy Flood
 *5th-level, Necromancy*  

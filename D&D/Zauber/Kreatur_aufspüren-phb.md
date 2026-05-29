@@ -1,6 +1,17 @@
 ---
 Bezeichnung: Locate Creature
 Zaubergrad: 4
+linter-yaml-title-alias: Locate Creature
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Druid (Circle of the Land, Swamp)
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,19 +25,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Druid (Circle of the Land, Swamp)
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Locate Creature
-linter-yaml-title-alias: Locate Creature
 ---
 # Locate Creature
 *4th-level, Divination*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charger
+linter-yaml-title-alias: Charger
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Scream of the Crop
+linter-yaml-title-alias: Scream of the Crop
 tags:
   - Quelle/5e/wtthc
 aliases:
   - "Scream of the Crop"
+  - Scream of the Crop
 ---
 # Scream of the Crop
 *Source: Stranger Things: Welcome to the Hellfire Club* 

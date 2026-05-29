@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyrannos, Gott der Tyrannei
+linter-yaml-title-alias: Tyrannos, Gott der Tyrannei
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Krieg
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tyrannos
+  - Tyrannos, Gott der Tyrannei
 ---
 # Tyrannos, Gott der Tyrannei
 *Quelle: SRD / Grundregelwerk* 

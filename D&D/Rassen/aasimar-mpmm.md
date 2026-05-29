@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Aasimar
+linter-yaml-title-alias: Aasimar
 tags:
   - Quelle/5e/mpmm
   - Rasse/aasimar
 aliases:
   - "Aasimar"
+  - Aasimar
 ---
 # Aasimar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 7*  

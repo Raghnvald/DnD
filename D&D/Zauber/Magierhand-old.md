@@ -8,6 +8,7 @@ Angriff: nichts
 Schaden: Utility
 status:
   - completed
+linter-yaml-title-alias: Magierhand
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -20,6 +21,7 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Mage Hand
+  - Magierhand
 ---
 # Magierhand
 _Zaubertrick der Beschwörung_

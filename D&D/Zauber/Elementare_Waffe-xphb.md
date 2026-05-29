@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Elemental Weapon
+linter-yaml-title-alias: Elemental Weapon
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Forge Domain)
+  - Druid
+  - Paladin
+  - Ranger
+  - Warlock (The Hexblade)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -12,18 +22,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Forge Domain)
-  - Druid
-  - Paladin
-  - Ranger
-  - Warlock (The Hexblade)
 aliases:
   - Elemental Weapon
-linter-yaml-title-alias: Elemental Weapon
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  

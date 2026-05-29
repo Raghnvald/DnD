@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Firbolg Primeval Warden
+linter-yaml-title-alias: Firbolg Primeval Warden
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

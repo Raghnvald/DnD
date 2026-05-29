@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Tenser's Floating Disk"
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -19,14 +25,8 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - "Tenser's Floating Disk"
-linter-yaml-title-alias: "Tenser's Floating Disk"
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

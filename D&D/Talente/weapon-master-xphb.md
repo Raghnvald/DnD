@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weapon Master
+linter-yaml-title-alias: Weapon Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

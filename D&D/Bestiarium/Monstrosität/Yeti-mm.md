@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yeti
+linter-yaml-title-alias: Yeti
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

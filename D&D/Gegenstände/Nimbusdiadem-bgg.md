@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Nimbus Coronet
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Nimbus Coronet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Nimbus Coronet
-linter-yaml-title-alias: Nimbus Coronet
 ---
 # Nimbus Coronet
 *Wondrous item, very rare (requires attunement)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of the Pact Keeper
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of the Pact Keeper
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rod of the Pact Keeper
-linter-yaml-title-alias: Rod of the Pact Keeper
 ---
 # Rod of the Pact Keeper
 *Rod, major (requires attunement by a warlock)*  

@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Immolation
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -14,14 +20,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Immolation
-linter-yaml-title-alias: Immolation
 ---
 # Immolation
 *5th-level, Evocation*  

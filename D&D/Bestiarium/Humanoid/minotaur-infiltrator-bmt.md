@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Minotaur Infiltrator
+linter-yaml-title-alias: Minotaur Infiltrator
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

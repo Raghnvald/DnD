@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Iron Spikes
+linter-yaml-title-alias: Iron Spikes
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Iron Spikes
-linter-yaml-title-alias: Iron Spikes
 ---
 # Iron Spikes
 *Adventuring gear*  

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Eisentopf
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 5,0 kg
+status: WIP
+linter-yaml-title-alias: Eisentopf
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Iron Pot
-linter-yaml-title-alias: Iron Pot
+  - Eisentopf
 ---
 # Eisentopf
 *Abenteuerausrüstung*  

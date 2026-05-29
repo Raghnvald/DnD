@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Wasp Ship
+linter-yaml-title-alias: Wasp Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/space
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Wasp Ship"
+  - Wasp Ship
 ---
 # Wasp Ship
 *Source: Astral Adventurer's Guide p. 56*  

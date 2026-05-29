@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chalcedony
+linter-yaml-title-alias: Chalcedony
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Chalcedony
-linter-yaml-title-alias: Chalcedony
 ---
 # Chalcedony
 *Treasure (gemstone)*  

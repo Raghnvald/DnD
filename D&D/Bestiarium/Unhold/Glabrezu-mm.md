@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Glabrezu
+linter-yaml-title-alias: Glabrezu
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9

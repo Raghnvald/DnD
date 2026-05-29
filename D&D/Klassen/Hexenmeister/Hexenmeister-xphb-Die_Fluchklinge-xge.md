@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Hexblade
+linter-yaml-title-alias: The Hexblade
 tags:
   - Klasse/Hexenmeister/hexblade
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Erebos's Votary"
+linter-yaml-title-alias: "Erebos's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

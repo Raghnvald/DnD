@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Crystal Greatwyrm
 Kategorie: Drache (Edelstein)
 Größe: Gigantisch
+linter-yaml-title-alias: Crystal Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/26
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Crystal Greatwyrm
-linter-yaml-title-alias: Crystal Greatwyrm
 ---
 # [Crystal Greatwyrm](3-Mechanics\CLI\bestiary\dragon/crystal-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  

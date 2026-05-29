@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valkur
+linter-yaml-title-alias: Valkur
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war

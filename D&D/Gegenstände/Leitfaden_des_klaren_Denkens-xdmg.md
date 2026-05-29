@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Tome of Clear Thought
+linter-yaml-title-alias: Tome of Clear Thought
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Tome of Clear Thought
-linter-yaml-title-alias: Tome of Clear Thought
 ---
 # Tome of Clear Thought
 *Wondrous item, very rare*  

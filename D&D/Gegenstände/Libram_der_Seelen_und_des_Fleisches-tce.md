@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Libram of Souls and Flesh
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Libram of Souls and Flesh
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Libram of Souls and Flesh
-linter-yaml-title-alias: Libram of Souls and Flesh
 ---
 # Libram of Souls and Flesh
 *Wondrous item, rare (requires attunement by a wizard)*  

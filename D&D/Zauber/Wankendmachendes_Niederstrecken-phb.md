@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Wankendmachendes Niederstrecken
 Zaubergrad: 4
+linter-yaml-title-alias: Wankendmachendes Niederstrecken
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
   - Staggering Smite
-linter-yaml-title-alias: Wankendmachendes Niederstrecken
+  - Wankendmachendes Niederstrecken
 ---
 # Wankendmachendes Niederstrecken
 *Hervorrufung des 4. Grades*

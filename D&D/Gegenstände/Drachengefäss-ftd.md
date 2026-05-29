@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Dragon Vessel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Dragon Vessel
-linter-yaml-title-alias: Dragon Vessel
 ---
 # Dragon Vessel
 *Wondrous item (requires attunement)*  

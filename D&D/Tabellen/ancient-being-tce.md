@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ancient Being
+linter-yaml-title-alias: Ancient Being
 tags:
   - Quelle/5e/tce
 aliases:

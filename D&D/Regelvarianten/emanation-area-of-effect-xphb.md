@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Emanation [Area of Effect]
+linter-yaml-title-alias: Emanation [Area of Effect]
 tags:
   - Quelle/5e/xphb
 aliases:

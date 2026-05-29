@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Crystal (Subtle)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Mind Crystal (Subtle)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal (Subtle)
-linter-yaml-title-alias: Mind Crystal (Subtle)
 ---
 # Mind Crystal (Subtle)
 *Wondrous item, common*  

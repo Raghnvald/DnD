@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Bulette
+linter-yaml-title-alias: Undead Bulette
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Undead Bulette
-linter-yaml-title-alias: Undead Bulette
 ---
 # [Undead Bulette](3-Mechanics\CLI\bestiary\undead/undead-bulette-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 90*  

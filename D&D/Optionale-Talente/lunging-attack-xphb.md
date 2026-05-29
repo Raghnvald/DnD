@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lunging Attack
+linter-yaml-title-alias: Lunging Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

@@ -1,7 +1,10 @@
 ---
 Bezeichnung: Informationen über Barovia - allgemein
+linter-yaml-title-alias: Informationen über Barovia - allgemein
 tags:
   - Quelle/5e/cos
+aliases:
+  - Informationen über Barovia - allgemein
 ---
 # Informationen über Barovia - allgemein
 - der Morgenfürst ist ähnlich wie Lathander und hat genauso eine Begeisterung für den Sonnenaufgang und Erneuerung

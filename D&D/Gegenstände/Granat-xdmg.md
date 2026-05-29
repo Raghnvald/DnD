@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Garnet
+linter-yaml-title-alias: Garnet
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Garnet
-linter-yaml-title-alias: Garnet
 ---
 # Garnet
 *Treasure (gemstone)*  

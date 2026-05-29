@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Thunder and Lightning
+linter-yaml-title-alias: Staff of Thunder and Lightning
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Thunder and Lightning
-linter-yaml-title-alias: Staff of Thunder and Lightning
 ---
 # Staff of Thunder and Lightning
 *Staff, weapon, very rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cyrrollalee
+linter-yaml-title-alias: Cyrrollalee
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/peace

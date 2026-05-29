@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Chapter 8: Beyond a Lightless Star"
+linter-yaml-title-alias: "Chapter 8: Beyond a Lightless Star"
 aliases:
+  - "Chapter 8: Beyond a Lightless Star"
   - Chapter 8: Beyond a Lightless Star
 ---
 # Chapter 8: Beyond a Lightless Star

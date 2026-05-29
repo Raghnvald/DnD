@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Magical Strength
+linter-yaml-title-alias: Armor of Magical Strength
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

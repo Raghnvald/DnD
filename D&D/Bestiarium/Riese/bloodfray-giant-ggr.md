@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bloodfray Giant
+linter-yaml-title-alias: Bloodfray Giant
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/6

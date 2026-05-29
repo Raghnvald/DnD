@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Takhisis
+linter-yaml-title-alias: Takhisis
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Takhisis"
+  - Takhisis
 ---
 # Takhisis
 *Source: Dragonlance: Shadow of the Dragon Queen p. 18* 

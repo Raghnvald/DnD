@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Adamant
+linter-yaml-title-alias: Charm of the Adamant
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bgdia

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pyremaul (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Pyremaul (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Pyremaul (Awakened)
-linter-yaml-title-alias: Pyremaul (Awakened)
 ---
 # Pyremaul (Awakened)
 *Weapon ([maul](/3-Mechanics/CLI/items/maul-xphb.md)), legendary (requires attunement)*  

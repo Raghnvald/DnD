@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supplemental Tables; Cause of Death
+linter-yaml-title-alias: Supplemental Tables; Cause of Death
 tags:
   - Quelle/5e/xge
 aliases:

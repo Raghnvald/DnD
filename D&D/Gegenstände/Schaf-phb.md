@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Schaf
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Schaf
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Sheep
-linter-yaml-title-alias: Sheep
+  - Schaf
 ---
 # Schaf
 *Handelsgut*  

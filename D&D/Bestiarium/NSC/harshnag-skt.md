@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harshnag
+linter-yaml-title-alias: Harshnag
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Harshnag
-linter-yaml-title-alias: Harshnag
 ---
 # [Harshnag](3-Mechanics\CLI\bestiary\npc/harshnag-skt.md)
 *Source: Storm King's Thunder p. 120*  

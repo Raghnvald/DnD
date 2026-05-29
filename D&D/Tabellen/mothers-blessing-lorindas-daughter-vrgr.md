@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Mother's Blessing; Lorinda's Daughter"
+linter-yaml-title-alias: "Mother's Blessing; Lorinda's Daughter"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Mother's Blessing; Lorinda's Daughter"
   - Mother's Blessing; Lorinda's Daughter
 ---
 # Mother's Blessing; Lorinda's Daughter

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Entertainer (Gladiator) (Variant)
+linter-yaml-title-alias: Entertainer (Gladiator) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

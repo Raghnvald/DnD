@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knight of Eldraine
+linter-yaml-title-alias: Knight of Eldraine
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/mcv4ec
 aliases:
   - Knight of Eldraine

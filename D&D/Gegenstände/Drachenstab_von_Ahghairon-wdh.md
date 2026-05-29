@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Dragonstaff of Ahghairon
+Eigenschaften:
+  - erfordert Einstimmung
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Dragonstaff of Ahghairon
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +13,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Dragonstaff of Ahghairon
-linter-yaml-title-alias: Dragonstaff of Ahghairon
 ---
 # Dragonstaff of Ahghairon
 *Staff, weapon, legendary (requires attunement)*  

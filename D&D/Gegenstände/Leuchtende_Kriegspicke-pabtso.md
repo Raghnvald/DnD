@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Luminous War Pick
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Luminous War Pick
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Luminous War Pick
-linter-yaml-title-alias: Luminous War Pick
 ---
 # Luminous War Pick
 *Waffe ([Kriegshacke](Kriegshacke-xphb.md)), selten (erfordert Einstimmung)*  

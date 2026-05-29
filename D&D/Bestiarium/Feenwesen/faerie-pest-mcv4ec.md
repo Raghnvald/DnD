@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerie Pest
+linter-yaml-title-alias: Faerie Pest
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1

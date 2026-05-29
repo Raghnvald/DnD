@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gunpowder (powder horn)
+linter-yaml-title-alias: Gunpowder (powder horn)
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Quelle/5e/xdmg
 aliases:
   - Gunpowder (powder horn)
-linter-yaml-title-alias: Gunpowder (powder horn)
 ---
 # Gunpowder (powder horn)
 *Explosive*  

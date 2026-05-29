@@ -7,6 +7,12 @@ Komponenten: G
 Wirkungsdauer: Unmittelbar
 Angriff: INT
 Schaden: 14d6 psychisch
+linter-yaml-title-alias: Psychischer Schrei
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -15,14 +21,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/9
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Psychic Scream
-linter-yaml-title-alias: Psychic Scream
+  - Psychischer Schrei
 ---
 # Psychischer Schrei
 _Verzauberung des 9. Grades_

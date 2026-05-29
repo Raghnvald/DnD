@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Storm of Vengeance
 Zaubergrad: 9
+linter-yaml-title-alias: Storm of Vengeance
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Storm of Vengeance
-linter-yaml-title-alias: Storm of Vengeance
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

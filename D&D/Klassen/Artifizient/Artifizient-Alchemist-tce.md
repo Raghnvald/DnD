@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alchemist
+linter-yaml-title-alias: Alchemist
 tags:
   - Klasse/Artifizient/alchemist
   - Quelle/5e/tce

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle B
+linter-yaml-title-alias: Magische Gegenstände Tabelle B
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table B
+  - Magische Gegenstände Tabelle B
 ---
 # Magische Gegenstände Tabelle B
 *Quelle: Spielleiterhandbuch, S. 144* 

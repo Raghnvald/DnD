@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 3)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Level 3)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Level 3) Splint Armor
   - Enspelled (Level 3) Studded Leather Armor
   - Enspelled Armor (Level 3)
-linter-yaml-title-alias: Enspelled Armor (Level 3)
 ---
 # Enspelled Armor (Level 3)
 *Rare (requires attunement)*  

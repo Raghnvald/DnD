@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Emerald
+linter-yaml-title-alias: Emerald
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Emerald
-linter-yaml-title-alias: Emerald
 ---
 # Emerald
 *Treasure (gemstone)*  

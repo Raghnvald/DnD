@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Horror Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Horror Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/vrgr
 aliases:
   - Horror Trinket
-linter-yaml-title-alias: Horror Trinket
 ---
 # Horror Trinket
 *Adventuring gear*  

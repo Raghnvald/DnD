@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Military Contacts; Commanding Officer
+linter-yaml-title-alias: Military Contacts; Commanding Officer
 tags:
   - Quelle/5e/erlw
 aliases:

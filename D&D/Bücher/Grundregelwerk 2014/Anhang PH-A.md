@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Zustände
+linter-yaml-title-alias: Zustände
 tags: []
+aliases:
+  - Zustände
 ---
 # Zustände
 

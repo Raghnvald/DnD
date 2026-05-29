@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warforged Ossuary Adventures
+linter-yaml-title-alias: Warforged Ossuary Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

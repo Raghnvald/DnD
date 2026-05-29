@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rod of Lordly Might
+linter-yaml-title-alias: Rod of Lordly Might
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Rod of Lordly Might
-linter-yaml-title-alias: Rod of Lordly Might
 ---
 # Rod of Lordly Might
 *Rod, legendary (requires attunement)*  

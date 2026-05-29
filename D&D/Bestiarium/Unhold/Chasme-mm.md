@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chasme
+linter-yaml-title-alias: Chasme
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

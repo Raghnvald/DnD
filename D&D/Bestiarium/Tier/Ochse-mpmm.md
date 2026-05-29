@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ox
+linter-yaml-title-alias: Ox
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

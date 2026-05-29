@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gast
 Kategorie: Bastion
+linter-yaml-title-alias: Gast
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - Gast
   - Guest
 ---
 # Gast

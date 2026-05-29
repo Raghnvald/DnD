@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morgion
+linter-yaml-title-alias: Morgion
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/dragonlance

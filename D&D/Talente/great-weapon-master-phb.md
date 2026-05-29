@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Great Weapon Master
+linter-yaml-title-alias: Great Weapon Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deck of Many More Things
+linter-yaml-title-alias: Deck of Many More Things
 tags:
   - Quelle/5e/bmt
 aliases:

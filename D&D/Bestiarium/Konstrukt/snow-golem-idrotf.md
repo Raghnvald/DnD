@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snow Golem
+linter-yaml-title-alias: Snow Golem
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

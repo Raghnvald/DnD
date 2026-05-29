@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Portent
+linter-yaml-title-alias: Living Portent
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/3

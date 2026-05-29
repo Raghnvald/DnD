@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Golems
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Golems
-linter-yaml-title-alias: Manual of Golems
 ---
 # Manual of Golems
 *Wondrous item, major, very rare*  

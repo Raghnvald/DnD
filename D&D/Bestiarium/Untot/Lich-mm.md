@@ -2,11 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lich
+linter-yaml-title-alias: Lich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
   - Monster/Typ/Untote
   - Quelle/5e/mm
+aliases:
+  - Lich
 ---
 # [Lich](3-Mechanics\CLI\bestiary\undead/lich.md)
 *Source: Monster Manual p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

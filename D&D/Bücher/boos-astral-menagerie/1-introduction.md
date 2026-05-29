@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/bam
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: Boo's Astral Menagerie, p. 4* 

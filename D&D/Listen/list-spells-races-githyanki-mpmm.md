@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Githyanki
+linter-yaml-title-alias: Spells for Githyanki
 tags:
   - Zauber/list/race/githyanki
 aliases:

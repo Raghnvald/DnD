@@ -7,3 +7,11 @@ views:
     order:
       - file.name
       - Bezeichnung
+  - type: table
+    name: View
+    filters:
+      and:
+        - Eigenschaften.contains("n/v")
+    order:
+      - file.name
+      - Eigenschaften

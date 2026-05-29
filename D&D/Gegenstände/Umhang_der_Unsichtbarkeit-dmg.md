@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cloak of Invisibility
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cloak of Invisibility
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Cloak of Invisibility
-linter-yaml-title-alias: Cloak of Invisibility
 ---
 # Cloak of Invisibility
 *Wondrous item, major, legendary (requires attunement)*  

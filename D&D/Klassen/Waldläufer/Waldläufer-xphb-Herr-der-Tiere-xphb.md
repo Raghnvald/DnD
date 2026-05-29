@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beast Master
+linter-yaml-title-alias: Beast Master
 tags:
   - Klasse/Waldläufer/beast-master
   - Quelle/5e/xphb

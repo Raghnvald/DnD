@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archer
+linter-yaml-title-alias: Archer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

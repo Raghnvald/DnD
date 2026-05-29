@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Items in This Book; Magic Items by Name
+linter-yaml-title-alias: Magic Items in This Book; Magic Items by Name
 tags:
   - Quelle/5e/bmt
 aliases:

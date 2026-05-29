@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Elite Warrior (Magic Equipment)
+linter-yaml-title-alias: Drow Elite Warrior (Magic Equipment)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

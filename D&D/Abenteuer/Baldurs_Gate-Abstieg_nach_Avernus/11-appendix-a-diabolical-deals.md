@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Diabolical Deals"
+linter-yaml-title-alias: "Appendix A: Diabolical Deals"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Appendix A: Diabolical Deals"
   - Appendix A: Diabolical Deals
 ---
 # Appendix A: Diabolical Deals

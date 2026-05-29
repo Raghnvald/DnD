@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Skull
+linter-yaml-title-alias: Charm of the Skull
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

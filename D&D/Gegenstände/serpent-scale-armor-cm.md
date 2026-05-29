@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Serpent Scale Armor
 Rüstung: Mittel
+linter-yaml-title-alias: Serpent Scale Armor
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/cm
 aliases:
   - Serpent Scale Armor
-linter-yaml-title-alias: Serpent Scale Armor
 ---
 # Serpent Scale Armor
 *Medium armor (scale mail), uncommon*  

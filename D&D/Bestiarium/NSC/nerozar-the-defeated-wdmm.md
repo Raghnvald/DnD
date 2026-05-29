@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nerozar the Defeated
+linter-yaml-title-alias: Nerozar the Defeated
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Nerozar the Defeated
-linter-yaml-title-alias: Nerozar the Defeated
 ---
 # [Nerozar the Defeated](3-Mechanics\CLI\bestiary\npc/nerozar-the-defeated-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 52*  

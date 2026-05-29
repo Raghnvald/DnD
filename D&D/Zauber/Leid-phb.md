@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Harm
 Zaubergrad: 6
+linter-yaml-title-alias: Harm
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Harm
-linter-yaml-title-alias: Harm
 ---
 # Harm
 *6th-level, Necromancy*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "APPENDIX B: WHAT IS THE F***ING POINT?!"
+linter-yaml-title-alias: "APPENDIX B: WHAT IS THE F***ING POINT?!"
 tags:
   - Quelle/5e/rmr
 aliases:

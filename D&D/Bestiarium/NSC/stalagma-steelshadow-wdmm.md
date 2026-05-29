@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stalagma Steelshadow
+linter-yaml-title-alias: Stalagma Steelshadow
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/16
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Stalagma Steelshadow
-linter-yaml-title-alias: Stalagma Steelshadow
 ---
 # [Stalagma Steelshadow](3-Mechanics\CLI\bestiary\npc/stalagma-steelshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 273*  

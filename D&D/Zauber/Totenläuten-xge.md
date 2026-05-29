@@ -9,6 +9,7 @@ Angriff: WEI
 Schaden: 1d8 nekrotisch
 status:
   - completed
+linter-yaml-title-alias: Totenläuten
 tags:
   - Klasse/Hexenmeister
   - Klasse/Kleriker
@@ -19,6 +20,7 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Toll the Dead
+  - Totenläuten
 ---
 # Totenläuten
 _Zaubertricks der Nekromantie_

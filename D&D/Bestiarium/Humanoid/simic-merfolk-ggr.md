@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Simic Merfolk
+linter-yaml-title-alias: Simic Merfolk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

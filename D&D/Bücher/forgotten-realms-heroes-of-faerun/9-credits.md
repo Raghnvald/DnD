@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/frhof
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Forgotten Realms: Heroes of Faerûn, p. 2* 

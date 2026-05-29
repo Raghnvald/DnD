@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hit Points; Hit Dice by Size
+linter-yaml-title-alias: Hit Points; Hit Dice by Size
 tags:
   - Quelle/5e/mm
 aliases:

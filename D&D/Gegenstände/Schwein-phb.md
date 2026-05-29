@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Schwein
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 3 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Schwein
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Pig
-linter-yaml-title-alias: Pig
+  - Schwein
 ---
 # Schwein
 *Handelsgut*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daask Adventure Hooks
+linter-yaml-title-alias: Daask Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

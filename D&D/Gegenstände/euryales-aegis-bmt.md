@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Euryale's Aegis"
 Rüstung: Schild
+linter-yaml-title-alias: "Euryale's Aegis"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
-  - Euryale's Aegis
-linter-yaml-title-alias: Euryale's Aegis
+  - "Euryale's Aegis"
 ---
 # Euryale's Aegis
 *Armor (shield), legendary (requires attunement)*  

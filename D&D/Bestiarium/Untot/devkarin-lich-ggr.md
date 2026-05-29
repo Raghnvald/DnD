@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Devkarin Lich
+linter-yaml-title-alias: Devkarin Lich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/14
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Devkarin Lich
-linter-yaml-title-alias: Devkarin Lich
 ---
 # [Devkarin Lich](3-Mechanics\CLI\bestiary\undead/devkarin-lich-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 198*  

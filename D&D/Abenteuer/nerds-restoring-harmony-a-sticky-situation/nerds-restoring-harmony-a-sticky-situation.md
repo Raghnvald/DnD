@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Nerds Restoring Harmony a Sticky Situation
+linter-yaml-title-alias: Index of Nerds Restoring Harmony a Sticky Situation
+aliases:
+  - Index of Nerds Restoring Harmony a Sticky Situation
 ---
 # Index of Nerds Restoring Harmony a Sticky Situation
 

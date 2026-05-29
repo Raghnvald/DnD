@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Passwall
+linter-yaml-title-alias: Passwall
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/armorer
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer (Armorer)
-  - Bard
-  - Wizard
 aliases:
   - Passwall
-linter-yaml-title-alias: Passwall
 ---
 # Passwall
 *5th-level, Transmutation*  

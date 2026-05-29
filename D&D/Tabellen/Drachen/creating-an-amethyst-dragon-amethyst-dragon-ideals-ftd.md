@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating an Amethyst Dragon; Amethyst Dragon Ideals
+linter-yaml-title-alias: Creating an Amethyst Dragon; Amethyst Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

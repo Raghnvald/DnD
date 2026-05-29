@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Fine gold chain set with a fire opal
 Kategorie: Kunstobjekt
+Eigenschaften:
+  - /
+Kst.: 2.500 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Fine gold chain set with a fire opal
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Fine gold chain set with a fire opal
-linter-yaml-title-alias: Fine gold chain set with a fire opal
 ---
 # Fine gold chain set with a fire opal
 *Treasure (art object)*  

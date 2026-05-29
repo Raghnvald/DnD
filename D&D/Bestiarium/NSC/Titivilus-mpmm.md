@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Titivilus
+linter-yaml-title-alias: Titivilus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/16
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Titivilus
-linter-yaml-title-alias: Titivilus
 ---
 # [Titivilus](3-Mechanics\CLI\bestiary\npc/titivilus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242*  

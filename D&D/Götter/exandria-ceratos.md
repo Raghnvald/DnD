@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ceratos
+linter-yaml-title-alias: Ceratos
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/tempest

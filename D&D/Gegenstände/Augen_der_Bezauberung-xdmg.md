@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Eyes of Charming
+linter-yaml-title-alias: Eyes of Charming
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Eyes of Charming
-linter-yaml-title-alias: Eyes of Charming
 ---
 # Eyes of Charming
 *Wondrous item, uncommon (requires attunement)*  

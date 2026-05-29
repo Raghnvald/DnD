@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Adze of Annam
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Adze of Annam
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Adze of Annam
-linter-yaml-title-alias: Adze of Annam
 ---
 # Adze of Annam
 *Weapon (greataxe), artifact (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fluxcharger
+linter-yaml-title-alias: Fluxcharger
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7

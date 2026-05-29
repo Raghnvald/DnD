@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Glyph of Warding
+linter-yaml-title-alias: Glyph of Warding
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -13,19 +24,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Glyph of Warding
-linter-yaml-title-alias: Glyph of Warding
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

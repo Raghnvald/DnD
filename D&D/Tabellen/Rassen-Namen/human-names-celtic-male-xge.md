@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Celtic, Male
+linter-yaml-title-alias: Human Names – Celtic, Male
 tags:
   - Quelle/5e/xge
 aliases:

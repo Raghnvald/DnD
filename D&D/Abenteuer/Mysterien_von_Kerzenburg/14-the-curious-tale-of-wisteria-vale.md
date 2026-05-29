@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Curious Tale of Wisteria Vale
+linter-yaml-title-alias: The Curious Tale of Wisteria Vale
 tags:
   - Quelle/5e/cm
 aliases:

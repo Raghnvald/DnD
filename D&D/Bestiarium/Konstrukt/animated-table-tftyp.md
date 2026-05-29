@@ -8,6 +8,7 @@ HG: "2"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Table
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

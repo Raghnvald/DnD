@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 7: Tammeraut's Fate"
+linter-yaml-title-alias: "Chapter 7: Tammeraut's Fate"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Chapter 7: Tammeraut's Fate"
   - Chapter 7: Tammeraut's Fate
 ---
 # Chapter 7: Tammeraut's Fate

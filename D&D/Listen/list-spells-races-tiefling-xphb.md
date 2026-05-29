@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Tiefling
+linter-yaml-title-alias: Spells for Tiefling
 tags:
   - Zauber/list/race/tiefling
 aliases:

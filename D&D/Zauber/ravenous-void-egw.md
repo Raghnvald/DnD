@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ravenous Void
 Zaubergrad: 9
+linter-yaml-title-alias: Ravenous Void
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/9

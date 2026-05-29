@@ -1,5 +1,8 @@
 ---
 Bezeichnung: "Allgemeine Idee:"
+linter-yaml-title-alias: "Allgemeine Idee:"
+aliases:
+  - "Allgemeine Idee:"
 ---
 # Allgemeine Idee:
 - Vecna hat das Ritual begonnen / beendet und die Zeitlinien spielen verrückt. 

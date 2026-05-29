@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Cosmology"
+linter-yaml-title-alias: "Chapter 6: Cosmology"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Chapter 6: Cosmology"
   - Chapter 6: Cosmology
 ---
 # Chapter 6: Cosmology

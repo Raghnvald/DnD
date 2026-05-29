@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: Charisma
 Schaden: n/a
+linter-yaml-title-alias: Gefühle besänftigen
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -15,7 +16,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Calm Emotions
-linter-yaml-title-alias: Gefühle besänftigen
+  - Gefühle besänftigen
 ---
 # Gefühle besänftigen
 _Verzauberung des 2. Grades_

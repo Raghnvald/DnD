@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brass Dragon Adventures; Brass Dragon Adventure Hooks
+linter-yaml-title-alias: Brass Dragon Adventures; Brass Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

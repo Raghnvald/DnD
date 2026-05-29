@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hel
+linter-yaml-title-alias: Hel
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/norse

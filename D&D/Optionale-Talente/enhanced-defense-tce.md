@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enhanced Defense
+linter-yaml-title-alias: Enhanced Defense
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

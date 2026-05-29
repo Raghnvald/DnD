@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drivvin Freth
+linter-yaml-title-alias: Drivvin Freth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Drivvin Freth
-linter-yaml-title-alias: Drivvin Freth
 ---
 # [Drivvin Freth](3-Mechanics\CLI\bestiary\npc/drivvin-freth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 169*  

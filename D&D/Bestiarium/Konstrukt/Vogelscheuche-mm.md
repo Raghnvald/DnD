@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scarecrow
+linter-yaml-title-alias: Scarecrow
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

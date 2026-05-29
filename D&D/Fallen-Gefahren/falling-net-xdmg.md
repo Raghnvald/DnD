@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falling Net
+linter-yaml-title-alias: Falling Net
 tags:
   - Kompendium/Bedrohung/trp
   - Quelle/5e/xdmg

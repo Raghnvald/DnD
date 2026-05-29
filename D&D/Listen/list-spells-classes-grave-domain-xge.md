@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Grave Domain
+linter-yaml-title-alias: Spells for Grave Domain
 tags:
   - Zauber/list/subclass/grave-domain
 aliases:

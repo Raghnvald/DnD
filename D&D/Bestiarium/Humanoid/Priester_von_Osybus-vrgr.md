@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus
+image: token/priest-of-osybus-vrgr.webp
+linter-yaml-title-alias: Priest of Osybus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Running the Game"
+linter-yaml-title-alias: "Chapter 2: Running the Game"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Chapter 2: Running the Game"
   - Chapter 2: Running the Game
 ---
 # Chapter 2: Running the Game

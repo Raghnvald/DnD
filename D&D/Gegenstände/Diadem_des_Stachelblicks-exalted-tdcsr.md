@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Circlet of Barbed Vision (Exalted)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Circlet of Barbed Vision (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
   - Circlet of Barbed Vision (Exalted)
-linter-yaml-title-alias: Circlet of Barbed Vision (Exalted)
 ---
 # Circlet of Barbed Vision (Exalted)
 *Wondrous item, legendary (requires attunement by a creature of non-good alignment)*  

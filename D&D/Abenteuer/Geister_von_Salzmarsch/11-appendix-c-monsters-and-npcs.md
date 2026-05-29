@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix C: Monsters and NPCs"
+linter-yaml-title-alias: "Appendix C: Monsters and NPCs"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Appendix C: Monsters and NPCs"
   - Appendix C: Monsters and NPCs
 ---
 # Appendix C: Monsters and NPCs

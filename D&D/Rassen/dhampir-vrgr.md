@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dhampir
+linter-yaml-title-alias: Dhampir
 tags:
   - Quelle/5e/vrgr
   - Rasse/dhampir

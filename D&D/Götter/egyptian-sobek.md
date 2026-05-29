@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sobek
+linter-yaml-title-alias: Sobek
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

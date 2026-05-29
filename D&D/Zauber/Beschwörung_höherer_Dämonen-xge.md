@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Stunde
 Angriff: n/v
 Schaden: Beschwörung
+linter-yaml-title-alias: Beschwörung höherer Dämonen
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -16,15 +23,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
-  - Summon Greater Demon
-linter-yaml-title-alias: Summon Greater Demon
+  - Beschwörung höherer Dämonen
 ---
 # Beschwörung höherer Dämonen
 *Beschwörung des 4. Grades*

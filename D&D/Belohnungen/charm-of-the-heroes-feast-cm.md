@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Charm of the Heroes' Feast"
+linter-yaml-title-alias: "Charm of the Heroes' Feast"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cm

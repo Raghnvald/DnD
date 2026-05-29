@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Drum
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: 6 GM
+Gew.: 1,5kg
+status: WIP
+linter-yaml-title-alias: Drum
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Drum
-linter-yaml-title-alias: Drum
 ---
 # Drum
 *Instrument*  

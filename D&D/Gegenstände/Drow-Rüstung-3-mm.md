@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Drow +3 Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Drow +3 Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -23,7 +24,6 @@ aliases:
   - Drow +3 Spiked Armor
   - Drow +3 Splint Armor
   - Drow +3 Studded Leather Armor
-linter-yaml-title-alias: Drow +3 Armor
 ---
 # Drow +3 Armor
 

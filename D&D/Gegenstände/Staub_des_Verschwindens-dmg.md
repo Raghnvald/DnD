@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Dust of Disappearance
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Dust of Disappearance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Dust of Disappearance
-linter-yaml-title-alias: Dust of Disappearance
 ---
 # Dust of Disappearance
 *Wondrous item, minor, uncommon*  

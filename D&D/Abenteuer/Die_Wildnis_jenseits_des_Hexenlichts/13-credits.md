@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/wbtw
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: The Wild Beyond the Witchlight* 

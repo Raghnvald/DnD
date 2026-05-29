@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Necromancy
+linter-yaml-title-alias: School of Necromancy
 tags:
   - Klasse/Magier/necromancy
   - Quelle/5e/phb

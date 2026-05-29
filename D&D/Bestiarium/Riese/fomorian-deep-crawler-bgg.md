@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fomorian Deep Crawler
+linter-yaml-title-alias: Fomorian Deep Crawler
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10

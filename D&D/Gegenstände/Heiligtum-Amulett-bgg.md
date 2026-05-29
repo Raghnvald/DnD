@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sanctum Amulet
+linter-yaml-title-alias: Sanctum Amulet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bgg
 aliases:
   - Sanctum Amulet
-linter-yaml-title-alias: Sanctum Amulet
 ---
 # Sanctum Amulet
 *Wondrous item, very rare (requires attunement)*  

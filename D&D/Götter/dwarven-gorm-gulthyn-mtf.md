@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gorm Gulthyn
+linter-yaml-title-alias: Gorm Gulthyn
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/dwarven

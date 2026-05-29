@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Telepathic Pentacle
+linter-yaml-title-alias: Telepathic Pentacle
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

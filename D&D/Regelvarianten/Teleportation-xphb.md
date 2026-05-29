@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Teleportation
+linter-yaml-title-alias: Teleportation
 tags:
   - Quelle/5e/xphb
 aliases:

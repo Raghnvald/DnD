@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gods of Theros
+linter-yaml-title-alias: Gods of Theros
 tags:
   - Quelle/5e/mot
 aliases:
   - "Gods of Theros"
+  - Gods of Theros
 ---
 # Gods of Theros
 *Source: Mythic Odysseys of Theros, p. 33* 

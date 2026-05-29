@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks
+linter-yaml-title-alias: Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

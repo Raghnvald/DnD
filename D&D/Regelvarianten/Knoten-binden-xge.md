@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tying Knots
+linter-yaml-title-alias: Tying Knots
 tags:
   - Quelle/5e/xge
 aliases:

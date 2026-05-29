@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: M oder S
 HG: 3
 status: WIP
+linter-yaml-title-alias: Living Star (Psychic)
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/3

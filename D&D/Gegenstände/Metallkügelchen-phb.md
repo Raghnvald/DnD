@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Metallkügelchen
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 0,001 kg
+status: WIP
+linter-yaml-title-alias: Metallkügelchen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Ball Bearing
-linter-yaml-title-alias: Ball Bearing
+  - Metallkügelchen
 ---
 # Metallkügelchen
 *Adventuring gear*  

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Nightspider
+linter-yaml-title-alias: Nightspider
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/space
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Nightspider"
+  - Nightspider
 ---
 # Nightspider
 *Source: Astral Adventurer's Guide p. 40*  

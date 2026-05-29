@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Infiltrator's Key"
+linter-yaml-title-alias: "Infiltrator's Key"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
-  - Infiltrator's Key
-linter-yaml-title-alias: Infiltrator's Key
+  - "Infiltrator's Key"
 ---
 # Infiltrator's Key
 *Wondrous item, legendary (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Primal Fruit Effects
+linter-yaml-title-alias: Primal Fruit Effects
 tags:
   - Quelle/5e/tce
 aliases:

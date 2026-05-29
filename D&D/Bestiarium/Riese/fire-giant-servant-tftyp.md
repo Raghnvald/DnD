@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Giant Servant
+linter-yaml-title-alias: Fire Giant Servant
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5

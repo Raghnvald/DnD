@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Horn von Walhalla
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Horn von Walhalla
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Horn of Valhalla
+  - Horn von Walhalla
 ---
 # Horn von Walhalla
 *Wundersamer Gegenstand, selten (Silber oder Messing), sehr selten (Bronze) oder legendär (Eisen)*  

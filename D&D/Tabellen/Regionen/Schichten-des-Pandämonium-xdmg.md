@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Pandemonium
+linter-yaml-title-alias: Layers of Pandemonium
 tags:
   - Quelle/5e/xdmg
 aliases:

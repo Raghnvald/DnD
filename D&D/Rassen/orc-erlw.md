@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orc
+linter-yaml-title-alias: Orc
 tags:
   - Quelle/5e/erlw
   - Rasse/orc

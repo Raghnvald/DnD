@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beholder Names
+linter-yaml-title-alias: Beholder Names
 tags:
   - Quelle/5e/vgm
 aliases:

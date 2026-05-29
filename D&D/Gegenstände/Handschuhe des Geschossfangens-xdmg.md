@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gloves of Missile Snaring
+linter-yaml-title-alias: Gloves of Missile Snaring
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Gloves of Missile Snaring
-linter-yaml-title-alias: Gloves of Missile Snaring
 ---
 # Gloves of Missile Snaring
 *Wondrous item, uncommon (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Kol'daan"
+linter-yaml-title-alias: "Kol'daan"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Kol'daan"
   - Kol'daan
-linter-yaml-title-alias: "Kol'daan"
 ---
 # [Kol'daan](3-Mechanics\CLI\bestiary\npc/koldaan-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 155*  

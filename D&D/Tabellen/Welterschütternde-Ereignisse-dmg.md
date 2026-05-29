@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Welterschütternde Ereignisse
+linter-yaml-title-alias: Welterschütternde Ereignisse
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Welterschütternde Ereignisse
   - World-Shaking Events
 ---
 # Welterschütternde Ereignisse

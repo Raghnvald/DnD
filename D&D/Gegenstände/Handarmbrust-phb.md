@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hand Crossbow
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Hand Crossbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Hand Crossbow
-linter-yaml-title-alias: Hand Crossbow
 ---
 # Hand Crossbow
 *Weapon*  

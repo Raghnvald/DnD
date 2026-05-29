@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zegana
+linter-yaml-title-alias: Zegana
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/16
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Zegana
-linter-yaml-title-alias: Zegana
 ---
 # [Zegana](3-Mechanics\CLI\bestiary\npc/zegana-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 255*  

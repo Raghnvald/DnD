@@ -13,6 +13,7 @@ Habitat:
   - Wald
   - Wüste
 status: WIP
+linter-yaml-title-alias: Eidolon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -26,7 +27,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Eidolon
-linter-yaml-title-alias: Eidolon
 ---
 # [Eidolon](3-Mechanics\CLI\bestiary\undead/eidolon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114*  

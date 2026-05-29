@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Alchemy Jug (Blue)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Alchemy Jug (Blue)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/cm
 aliases:
   - Alchemy Jug (Blue)
-linter-yaml-title-alias: Alchemy Jug (Blue)
 ---
 # Alchemy Jug (Blue)
 *Wondrous item, uncommon*  

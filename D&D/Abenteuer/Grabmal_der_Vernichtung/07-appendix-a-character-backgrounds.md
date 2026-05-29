@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Character Backgrounds"
+linter-yaml-title-alias: "Appendix A: Character Backgrounds"
 tags:
   - Quelle/5e/toa
 aliases:
+  - "Appendix A: Character Backgrounds"
   - Appendix A: Character Backgrounds
 ---
 # Appendix A: Character Backgrounds

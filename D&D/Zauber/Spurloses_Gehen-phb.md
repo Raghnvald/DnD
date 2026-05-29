@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Pass without Trace
 Zaubergrad: 2
+linter-yaml-title-alias: Pass without Trace
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Trickery Domain)
+  - Druid
+  - Druid (Circle of the Land, Grassland)
+  - Monk (Way of Shadow)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -11,16 +19,8 @@ tags:
   - Subklasse/way-of-shadow
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Trickery Domain)
-  - Druid
-  - Druid (Circle of the Land, Grassland)
-  - Monk (Way of Shadow)
-  - Ranger
 aliases:
   - Pass without Trace
-linter-yaml-title-alias: Pass without Trace
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

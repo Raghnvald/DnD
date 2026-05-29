@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Character Objectives
+linter-yaml-title-alias: Guild Character Objectives
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Witherbloom Student
+linter-yaml-title-alias: Witherbloom Student
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scc
 aliases:
   - "Witherbloom Student"
+  - Witherbloom Student
 ---
 # Witherbloom Student
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  

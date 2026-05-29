@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Prayer of Healing
+linter-yaml-title-alias: Prayer of Healing
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,15 +16,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Prayer of Healing
-linter-yaml-title-alias: Prayer of Healing
 ---
 # Prayer of Healing
 *2nd-level, Abjuration*  

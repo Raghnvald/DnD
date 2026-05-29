@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wyvern Poison
+linter-yaml-title-alias: Wyvern Poison
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Wyvern Poison
-linter-yaml-title-alias: Wyvern Poison
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  

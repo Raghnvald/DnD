@@ -5,6 +5,7 @@ Bezeichnung: Assassin
 Kategorie: Humanoid
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Assassin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

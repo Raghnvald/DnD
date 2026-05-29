@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Syrania, the Azure Sky; Syrania Manifest Zone Features
+linter-yaml-title-alias: Syrania, the Azure Sky; Syrania Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

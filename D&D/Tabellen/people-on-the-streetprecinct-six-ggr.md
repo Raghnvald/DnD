@@ -1,5 +1,6 @@
 ---
 Bezeichnung: People on the Street—Precinct Six
+linter-yaml-title-alias: People on the Street—Precinct Six
 tags:
   - Quelle/5e/ggr
 aliases:

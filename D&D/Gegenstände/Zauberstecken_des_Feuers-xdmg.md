@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Fire
+linter-yaml-title-alias: Staff of Fire
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Fire
-linter-yaml-title-alias: Staff of Fire
 ---
 # Staff of Fire
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crime Syndicate Contacts; Syndicate Contact
+linter-yaml-title-alias: Crime Syndicate Contacts; Syndicate Contact
 tags:
   - Quelle/5e/erlw
 aliases:

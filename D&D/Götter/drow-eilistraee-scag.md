@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eilistraee
+linter-yaml-title-alias: Eilistraee
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/nature
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/scag
 aliases:
   - "Eilistraee"
+  - Eilistraee
 ---
 # Eilistraee
 *Source: Sword Coast Adventurer's Guide p. 23* 

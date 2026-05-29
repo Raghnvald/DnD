@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Continent Map
+linter-yaml-title-alias: Continent Map
 tags:
   - Quelle/5e/tdcsr
 aliases:

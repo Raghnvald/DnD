@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Gainful Exercise
+linter-yaml-title-alias: Manual of Gainful Exercise
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Gainful Exercise
-linter-yaml-title-alias: Manual of Gainful Exercise
 ---
 # Manual of Gainful Exercise
 *Wondrous item, very rare*  

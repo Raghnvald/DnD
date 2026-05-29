@@ -6,6 +6,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: WEI
 Schaden: Kontrolle
+linter-yaml-title-alias: Massen-Verwandlung
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -16,6 +17,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Mass Polymorph
+  - Massen-Verwandlung
 ---
 # Massen-Verwandlung
 _Verwandlung des 9. Grades_

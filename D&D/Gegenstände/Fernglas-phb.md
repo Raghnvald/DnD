@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Spyglass
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1.000 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Spyglass
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Spyglass
-linter-yaml-title-alias: Spyglass
 ---
 # Spyglass
 *Adventuring gear*  

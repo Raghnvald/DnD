@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mythalkeeper
+linter-yaml-title-alias: Mythalkeeper
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Mythalkeeper"
+  - Mythalkeeper
 ---
 # Mythalkeeper
 *Source: Forgotten Realms: Heroes of Faerûn p. 34*  

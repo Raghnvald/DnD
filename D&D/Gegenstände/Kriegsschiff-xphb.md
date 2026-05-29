@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Warship
+linter-yaml-title-alias: Warship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Warship
-linter-yaml-title-alias: Warship
 ---
 # Warship
 *Ship, vehicle (water)*  

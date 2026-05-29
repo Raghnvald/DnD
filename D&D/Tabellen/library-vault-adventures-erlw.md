@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Library Vault Adventures
+linter-yaml-title-alias: Library Vault Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hag of the Fetid Gaze
+linter-yaml-title-alias: Hag of the Fetid Gaze
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

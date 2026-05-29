@@ -7,18 +7,19 @@ Komponenten: V
 Wirkungsdauer: K, <1 Minute
 Angriff: n/v
 Schaden: 2d6 Heilung
+linter-yaml-title-alias: Aura der Gesundheit
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
+  - Aura der Gesundheit
   - Aura of Vitality
-linter-yaml-title-alias: Aura der Gesundheit
 ---
 # Aura der Gesundheit
 *Hervorrufung des 3. Grades*

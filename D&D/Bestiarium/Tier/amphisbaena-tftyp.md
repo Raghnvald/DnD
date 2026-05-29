@@ -7,7 +7,9 @@ Größe: Riesig
 HG: "3"
 Habitat:
   - /
+image: token/amphisbaena-tftyp.webp
 status: WIP
+linter-yaml-title-alias: Amphisbaena
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/3

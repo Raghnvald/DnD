@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human (Variant)
+linter-yaml-title-alias: Human (Variant)
 tags:
   - Quelle/5e/phb
   - Rasse/human/variant

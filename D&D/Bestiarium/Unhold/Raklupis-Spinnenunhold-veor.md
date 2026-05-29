@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Raklupis Spyder-Fiend
+image: token/raklupis-spyder-fiend-veor.webp
 status: WIP
+linter-yaml-title-alias: Raklupis Spyder-Fiend
 tags:
   - Monster/Größe/Groß
   - Monster/HG/19

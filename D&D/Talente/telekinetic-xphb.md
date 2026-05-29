@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Telekinetic
+linter-yaml-title-alias: Telekinetic
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

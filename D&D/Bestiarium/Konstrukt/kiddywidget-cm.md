@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kiddywidget
+linter-yaml-title-alias: Kiddywidget
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-2

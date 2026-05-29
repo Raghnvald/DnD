@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Erky Timbers
+linter-yaml-title-alias: Erky Timbers
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
   - Quelle/5e/tftyp
 aliases:
   - Erky Timbers
-linter-yaml-title-alias: Erky Timbers
 ---
 # [Erky Timbers](3-Mechanics\CLI\bestiary\npc/erky-timbers-tftyp.md)
 *Source: Tales from the Yawning Portal p. 22*  

@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Create Food and Water
+linter-yaml-title-alias: Create Food and Water
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -11,17 +20,8 @@ tags:
   - Subklasse/the-genie/dao
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Genie, Dao)
 aliases:
   - Create Food and Water
-linter-yaml-title-alias: Create Food and Water
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

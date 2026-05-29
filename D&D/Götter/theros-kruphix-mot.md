@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kruphix
+linter-yaml-title-alias: Kruphix
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Kruphix"
+  - Kruphix
 ---
 # Kruphix
 *Source: Mythic Odysseys of Theros p. 61* 

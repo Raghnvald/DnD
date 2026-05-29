@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bakunawa
+linter-yaml-title-alias: Bakunawa
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Bakunawa
-linter-yaml-title-alias: Bakunawa
 ---
 # [Bakunawa](3-Mechanics\CLI\bestiary\dragon/bakunawa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 147*  

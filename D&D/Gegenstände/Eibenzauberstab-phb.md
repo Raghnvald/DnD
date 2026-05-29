@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Eibenzauberstab
 Kategorie: Fokus, Druidisch
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 0,5 kg
+status: completed
+linter-yaml-title-alias: Eibenzauberstab
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -11,6 +14,7 @@ tags:
   - Klasse/Druide
   - Quelle/5e/phb
 aliases:
+  - Eibenzauberstab
   - Yew Wand
 ---
 # Eibenzauberstab

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: "Ye'Cind"
+linter-yaml-title-alias: "Ye'Cind"
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:
+  - "Ye'Cind"
   - Ye'Cind
 ---
 # Ye'Cind

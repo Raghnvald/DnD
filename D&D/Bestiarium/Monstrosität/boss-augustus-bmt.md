@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boss Augustus
+linter-yaml-title-alias: Boss Augustus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Einzelschatz: Herausforderungsgrad 17+"
+linter-yaml-title-alias: "Einzelschatz: Herausforderungsgrad 17+"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Einzelschatz: Herausforderungsgrad 17+"
   - Individual Treasure: Challenge 17+
 ---
 # Einzelschatz: Herausforderungsgrad 17+

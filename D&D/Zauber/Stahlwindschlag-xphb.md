@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Steel Wind Strike
+linter-yaml-title-alias: Steel Wind Strike
+classes:
+  - Bard
+  - Cleric (War Domain)
+  - Ranger
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/war-domain
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric (War Domain)
-  - Ranger
-  - Wizard
 aliases:
   - Steel Wind Strike
-linter-yaml-title-alias: Steel Wind Strike
 ---
 # Steel Wind Strike
 *5th-level, Conjuration*  

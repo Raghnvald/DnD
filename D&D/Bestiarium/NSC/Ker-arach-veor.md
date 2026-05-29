@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ker-arach
+Image: token/ker-arach-veor.webp
 status: WIP
+linter-yaml-title-alias: Ker-arach
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Ker-arach
-IMAGE: token/ker-arach-veor.webp
-linter-yaml-title-alias: Ker-arach
 ---
 # [Ker-arach](3-Mechanics\CLI\bestiary\npc/ker-arach-veor.md)
 *Source: Vecna: Eve of Ruin*  

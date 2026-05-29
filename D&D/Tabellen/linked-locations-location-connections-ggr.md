@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Linked Locations; Location Connections
+linter-yaml-title-alias: Linked Locations; Location Connections
 tags:
   - Quelle/5e/ggr
 aliases:

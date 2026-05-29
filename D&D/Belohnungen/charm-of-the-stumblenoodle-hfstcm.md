@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Charm of the Stumblenoodle
+linter-yaml-title-alias: Charm of the Stumblenoodle
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/hfstcm
 aliases:
   - "Charm of the Stumblenoodle"
+  - Charm of the Stumblenoodle
 ---
 # Charm of the Stumblenoodle
 

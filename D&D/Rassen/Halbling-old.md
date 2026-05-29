@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Halbling
+linter-yaml-title-alias: Halbling
 tags:
   - Quelle/5e/phb
 aliases:
   - "Halfling"
+  - Halbling
 ---
 # Halbling
 *Quelle: SRD / Grundregelwerk*  

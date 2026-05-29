@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 13: The Cult Strikes Back"
+linter-yaml-title-alias: "Chapter 13: The Cult Strikes Back"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Chapter 13: The Cult Strikes Back"
   - Chapter 13: The Cult Strikes Back
 ---
 # Chapter 13: The Cult Strikes Back

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Laser Pistol
+linter-yaml-title-alias: Laser Pistol
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Laser Pistol
-linter-yaml-title-alias: Laser Pistol
 ---
 # Laser Pistol
 *Weapon*  

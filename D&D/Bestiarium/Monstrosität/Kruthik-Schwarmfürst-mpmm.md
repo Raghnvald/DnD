@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kruthik Hive Lord
+linter-yaml-title-alias: Kruthik Hive Lord
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

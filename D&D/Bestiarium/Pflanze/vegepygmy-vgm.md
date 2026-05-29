@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vegepygmy
+linter-yaml-title-alias: Vegepygmy
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Sumpf

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Green Dragon
+linter-yaml-title-alias: Ancient Green Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Wald
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ancient Green Dragon
-linter-yaml-title-alias: Ancient Green Dragon
 ---
 # [Ancient Green Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-green-dragon.md)
 *Source: Monster Manual p. 93. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Fragment of Rancor
+linter-yaml-title-alias: Fragment of Rancor
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
   - "Fragment of Rancor"
+  - Fragment of Rancor
 ---
 # Fragment of Rancor
 *Fragment of Suffering*  

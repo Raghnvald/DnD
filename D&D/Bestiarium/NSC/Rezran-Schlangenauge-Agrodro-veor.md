@@ -2,15 +2,16 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Rezran "Snake Eyes" Agrodro'
+image: token/rezran-snake-eyes-agrodro-veor.webp
 status: WIP
+linter-yaml-title-alias: 'Rezran "Snake Eyes" Agrodro'
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
   - Monster/Typ/Unhold/devil
   - Quelle/5e/veor
 aliases:
-  - Rezran "Snake Eyes" Agrodro
-linter-yaml-title-alias: Rezran "Snake Eyes" Agrodro
+  - 'Rezran "Snake Eyes" Agrodro'
 ---
 # [Rezran "Snake Eyes" Agrodro](3-Mechanics\CLI\bestiary\npc/rezran-snake-eyes-agrodro-veor.md)
 *Source: Vecna: Eve of Ruin*  

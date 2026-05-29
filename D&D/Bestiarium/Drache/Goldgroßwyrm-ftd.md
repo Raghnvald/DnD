@@ -8,6 +8,7 @@ HG: 28
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Gold Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/28
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Gold Greatwyrm
-linter-yaml-title-alias: Gold Greatwyrm
 ---
 # [Gold Greatwyrm](3-Mechanics\CLI\bestiary\dragon/gold-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  

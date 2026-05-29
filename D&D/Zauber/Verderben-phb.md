@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Verderben
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Paladin (Oath of Vengeance)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -16,13 +21,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/thief-of-five-fates
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Paladin (Oath of Vengeance)
 aliases:
   - Bane
-linter-yaml-title-alias: Verderben
+  - Verderben
 ---
 # Verderben
 *Verzauberungs des 1. Grades*

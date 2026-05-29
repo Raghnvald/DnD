@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Lizard (Hold Breath and Spider Climb)
+linter-yaml-title-alias: Giant Lizard (Hold Breath and Spider Climb)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

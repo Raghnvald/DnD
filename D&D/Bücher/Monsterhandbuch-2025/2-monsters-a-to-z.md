@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters A to Z
+linter-yaml-title-alias: Monsters A to Z
 tags:
   - Quelle/5e/xmm
 aliases:

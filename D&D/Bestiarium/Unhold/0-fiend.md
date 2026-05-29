@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Fiend
+linter-yaml-title-alias: Index of Fiend
+aliases:
+  - Index of Fiend
 ---
 # Index of Fiend
 

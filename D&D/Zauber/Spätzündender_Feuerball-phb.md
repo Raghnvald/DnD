@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Delayed Blast Fireball
 Zaubergrad: 7
+linter-yaml-title-alias: Delayed Blast Fireball
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Delayed Blast Fireball
-linter-yaml-title-alias: Delayed Blast Fireball
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  

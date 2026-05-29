@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cloak of Elvenkind
+linter-yaml-title-alias: Cloak of Elvenkind
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Cloak of Elvenkind
-linter-yaml-title-alias: Cloak of Elvenkind
 ---
 # Cloak of Elvenkind
 *Wondrous item, uncommon (requires attunement)*  

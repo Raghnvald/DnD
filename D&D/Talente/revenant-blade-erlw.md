@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Revenant Blade
+linter-yaml-title-alias: Revenant Blade
 tags:
   - Kompendium/Talent
   - Quelle/5e/erlw

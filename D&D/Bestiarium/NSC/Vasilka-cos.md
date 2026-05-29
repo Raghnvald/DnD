@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vasilka
+linter-yaml-title-alias: Vasilka
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Vasilka
-linter-yaml-title-alias: Vasilka
 ---
 # [Vasilka](3-Mechanics\CLI\bestiary\npc/vasilka-cos.md)
 *Source: Curse of Strahd p. 151*  

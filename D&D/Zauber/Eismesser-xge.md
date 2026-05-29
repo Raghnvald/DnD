@@ -8,6 +8,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d10 Stich
 status: completed
+linter-yaml-title-alias: Eismesser
 tags:
   - Klasse/Druide
   - Klasse/Magier
@@ -17,6 +18,7 @@ tags:
   - Zauber/Original/Ice_Knife
   - Zauber/Schule/Beschwörung
 aliases:
+  - Eismesser
   - Ice Knife
 ---
 # Eismesser

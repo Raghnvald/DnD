@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Constructs)
+linter-yaml-title-alias: Scroll of Protection (Constructs)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Constructs)
-linter-yaml-title-alias: Scroll of Protection (Constructs)
 ---
 # Scroll of Protection (Constructs)
 *Scroll, rare*  

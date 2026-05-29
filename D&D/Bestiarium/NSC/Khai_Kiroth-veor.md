@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Khai Kiroth
+Image: token/khai-kiroth-veor.webp
 status: WIP
+linter-yaml-title-alias: Khai Kiroth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/19
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Khai Kiroth
-IMAGE: token/khai-kiroth-veor.webp
-linter-yaml-title-alias: Khai Kiroth
 ---
 # [Khai Kiroth](3-Mechanics\CLI\bestiary\npc/khai-kiroth-veor.md)
 *Source: Vecna: Eve of Ruin*  

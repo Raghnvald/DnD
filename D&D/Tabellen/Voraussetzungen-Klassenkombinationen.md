@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Voraussetzungen Klassenkombinationen
+linter-yaml-title-alias: Voraussetzungen Klassenkombinationen
 tags:
   - Quelle/5e/phb
 aliases:
   - Multiclassing Prerequisites
+  - Voraussetzungen Klassenkombinationen
 ---
 # Voraussetzungen Klassenkombinationen
 _Quelle:_ Spielerhandbuch

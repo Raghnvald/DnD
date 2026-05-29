@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Grappling Hook
+linter-yaml-title-alias: Grappling Hook
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Grappling Hook
-linter-yaml-title-alias: Grappling Hook
 ---
 # Grappling Hook
 *Adventuring gear*  

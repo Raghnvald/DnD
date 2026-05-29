@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hat of Disguise
+linter-yaml-title-alias: Hat of Disguise
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Hat of Disguise
-linter-yaml-title-alias: Hat of Disguise
 ---
 # Hat of Disguise
 *Wondrous item, uncommon (requires attunement)*  

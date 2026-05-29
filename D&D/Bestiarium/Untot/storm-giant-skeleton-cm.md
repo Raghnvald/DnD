@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Storm Giant Skeleton
+linter-yaml-title-alias: Storm Giant Skeleton
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/16
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Storm Giant Skeleton
-linter-yaml-title-alias: Storm Giant Skeleton
 ---
 # [Storm Giant Skeleton](3-Mechanics\CLI\bestiary\undead/storm-giant-skeleton-cm.md)
 *Source: Candlekeep Mysteries p. 208*  

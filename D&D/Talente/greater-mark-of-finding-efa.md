@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Finding
+linter-yaml-title-alias: Greater Mark of Finding
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Greater Mark of Finding"
+  - Greater Mark of Finding
 ---
 # Greater Mark of Finding
 *Source: Eberron: Forge of the Artificer p. 43*  

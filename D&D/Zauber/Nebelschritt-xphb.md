@@ -1,5 +1,20 @@
 ---
 Bezeichnung: Misty Step
+linter-yaml-title-alias: Misty Step
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid (Circle of the Land, Temperate Land)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Ancients)
+  - Paladin (Oath of Vengeance)
+  - Ranger (Fey Wanderer)
+  - Ranger (Horizon Walker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Warlock (Archfey Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -22,23 +37,8 @@ tags:
   - Subrasse/elf-eladrin
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid (Circle of the Land, Temperate Land)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Ancients)
-  - Paladin (Oath of Vengeance)
-  - Ranger (Fey Wanderer)
-  - Ranger (Horizon Walker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Warlock (Archfey Patron)
-  - Wizard
 aliases:
   - Misty Step
-linter-yaml-title-alias: Misty Step
 ---
 # Misty Step
 *2nd-level, Conjuration*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Tome of Understanding
+linter-yaml-title-alias: Tome of Understanding
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Tome of Understanding
-linter-yaml-title-alias: Tome of Understanding
 ---
 # Tome of Understanding
 *Wondrous item, very rare*  

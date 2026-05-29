@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stone of Golorr
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stone of Golorr
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Stone of Golorr
-linter-yaml-title-alias: Stone of Golorr
 ---
 # Stone of Golorr
 *Wondrous item, artifact (requires attunement)*  

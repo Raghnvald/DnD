@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Magic Initiate
+linter-yaml-title-alias: Spells for Magic Initiate
 tags:
   - Zauber/list/feat/magic-initiate
 aliases:

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Statuette of Augury
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Statuette of Augury
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam
   - Quelle/5e/pabtso
 aliases:
   - Statuette of Augury
-linter-yaml-title-alias: Statuette of Augury
 ---
 # Statuette of Augury
 *Wondrous item*  

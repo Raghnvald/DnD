@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Coat of the Crest
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Coat of the Crest
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Coat of the Crest
-linter-yaml-title-alias: Coat of the Crest
 ---
 # Coat of the Crest
 *Wondrous item, rare (requires attunement)*  

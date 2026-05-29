@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Mind Whisperer
+linter-yaml-title-alias: Yuan-ti Mind Whisperer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

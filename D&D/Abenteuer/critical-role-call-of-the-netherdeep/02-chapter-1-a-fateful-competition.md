@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: A Fateful Competition"
+linter-yaml-title-alias: "Chapter 1: A Fateful Competition"
 tags:
   - Quelle/5e/crcotn
 aliases:

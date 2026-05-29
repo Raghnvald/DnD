@@ -7,7 +7,9 @@ Größe: Groß
 HG: 2
 Habitat:
   - Unterreich
+Image: token/carrion-crawler.webp
 status: WIP
+linter-yaml-title-alias: Carrion Crawler
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -16,7 +18,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Carrion Crawler
-IMAGE: token/carrion-crawler.webp
 ---
 # [Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler.md)
 *Source: Monster Manual p. 37*  

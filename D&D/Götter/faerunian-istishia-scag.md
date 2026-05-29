@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Istishia
+linter-yaml-title-alias: Istishia
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/faerunian

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Tome of Leadership and Influence
+linter-yaml-title-alias: Tome of Leadership and Influence
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Tome of Leadership and Influence
-linter-yaml-title-alias: Tome of Leadership and Influence
 ---
 # Tome of Leadership and Influence
 *Wondrous item, very rare*  

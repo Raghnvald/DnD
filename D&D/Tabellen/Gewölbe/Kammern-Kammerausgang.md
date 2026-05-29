@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Kammern; Kammerausgang
+linter-yaml-title-alias: Kammern; Kammerausgang
 tags:
   - Quelle/5e/dmg
 aliases:
   - Chambers; Chamber Exits
+  - Kammern; Kammerausgang
 ---
 # Kammern; Kammerausgang
 *Source: Dungeon Master's Guide p. 291* 

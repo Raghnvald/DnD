@@ -7,7 +7,9 @@ Größe: Groß
 HG: "8"
 Habitat:
   - /
+image: token/aeorian-reverser-egw.webp
 status: WIP
+linter-yaml-title-alias: Aeorian Reverser
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

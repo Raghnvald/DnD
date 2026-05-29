@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Nolzur's Marvelous Pigments"
+linter-yaml-title-alias: "Nolzur's Marvelous Pigments"
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - "Nolzur's Marvelous Pigments"
   - Nolzur's Marvelous Pigments
-linter-yaml-title-alias: "Nolzur's Marvelous Pigments"
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, very rare*  

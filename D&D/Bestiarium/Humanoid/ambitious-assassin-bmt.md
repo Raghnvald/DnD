@@ -7,7 +7,9 @@ Größe: M oder S
 HG: "5"
 Habitat:
   - /
+Image: token/ambitious-assassin-bmt.webp
 status: WIP
+linter-yaml-title-alias: Ambitious Assassin
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/5

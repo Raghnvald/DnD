@@ -1,14 +1,17 @@
 ---
 Bezeichnung: "Sage's Signet (Hart)"
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
+status: WIP
+linter-yaml-title-alias: "Sage's Signet (Hart)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/ring
   - Quelle/5e/bmt
 aliases:
-  - Sage's Signet (Hart)
-linter-yaml-title-alias: Sage's Signet (Hart)
+  - "Sage's Signet (Hart)"
 ---
 # Sage's Signet (Hart)
 *Ring, very rare (requires attunement by a spellcaster)*  

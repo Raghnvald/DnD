@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Walking Corpse
+linter-yaml-title-alias: Walking Corpse
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

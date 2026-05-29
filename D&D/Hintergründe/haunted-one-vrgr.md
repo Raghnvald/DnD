@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Haunted One
+linter-yaml-title-alias: Haunted One
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/vrgr

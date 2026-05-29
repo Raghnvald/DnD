@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Milil
+linter-yaml-title-alias: Milil
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/forgotten-realms

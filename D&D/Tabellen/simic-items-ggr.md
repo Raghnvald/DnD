@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Items
+linter-yaml-title-alias: Simic Items
 tags:
   - Quelle/5e/ggr
 aliases:

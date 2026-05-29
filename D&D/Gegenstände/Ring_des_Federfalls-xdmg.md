@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Feather Falling
+linter-yaml-title-alias: Ring of Feather Falling
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Feather Falling
-linter-yaml-title-alias: Ring of Feather Falling
 ---
 # Ring of Feather Falling
 *Ring, rare (requires attunement)*  

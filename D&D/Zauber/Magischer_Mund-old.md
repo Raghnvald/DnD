@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Mouth
+linter-yaml-title-alias: Magic Mouth
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -9,7 +10,6 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Magic Mouth
-linter-yaml-title-alias: Magic Mouth
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

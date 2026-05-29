@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Restoring Harmony
+linter-yaml-title-alias: Restoring Harmony
 tags:
   - Quelle/5e/nrh-at
 aliases:
   - "Restoring Harmony"
+  - Restoring Harmony
 ---
 # Restoring Harmony
 *Source: NERDS Restoring Harmony: Adventure Together, p. 2* 

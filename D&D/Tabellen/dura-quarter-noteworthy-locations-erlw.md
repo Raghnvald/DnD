@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Dura Quarter: Noteworthy Locations"
+linter-yaml-title-alias: "Dura Quarter: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Dura Quarter: Noteworthy Locations"
   - Dura Quarter: Noteworthy Locations
 ---
 # Dura Quarter: Noteworthy Locations

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wagon
+linter-yaml-title-alias: Wagon
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Wagon
-linter-yaml-title-alias: Wagon
 ---
 # Wagon
 *Vehicle (land)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gunpowder Horn
 Kategorie: Explosives
+linter-yaml-title-alias: Gunpowder Horn
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Gunpowder Horn
-linter-yaml-title-alias: Gunpowder Horn
 ---
 # Gunpowder Horn
 *Explosive*  

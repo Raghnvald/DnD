@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Slow
+linter-yaml-title-alias: Slow
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Order Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,17 +21,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/mire-the-mind
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Order Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Slow
-linter-yaml-title-alias: Slow
 ---
 # Slow
 *3rd-level, Transmutation*  

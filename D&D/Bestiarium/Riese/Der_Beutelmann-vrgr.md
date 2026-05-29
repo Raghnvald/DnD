@@ -2,12 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Der Beutelmann
+linter-yaml-title-alias: Der Beutelmann
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
   - Monster/Typ/Riese
   - Quelle/5e/vrgr
 aliases:
+  - Der Beutelmann
   - The Bagman
 ---
 # Der Beutelmann

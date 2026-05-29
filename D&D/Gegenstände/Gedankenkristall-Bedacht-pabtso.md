@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Crystal (Careful)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Mind Crystal (Careful)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal (Careful)
-linter-yaml-title-alias: Mind Crystal (Careful)
 ---
 # Mind Crystal (Careful)
 *Wondrous item, uncommon*  

@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Tsunami
+linter-yaml-title-alias: Tsunami
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Tsunami
-linter-yaml-title-alias: Tsunami
 ---
 # Tsunami
 *8th-level, Conjuration*  

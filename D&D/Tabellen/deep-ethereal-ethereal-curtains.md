@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Ethereal; Ethereal Curtains
+linter-yaml-title-alias: Deep Ethereal; Ethereal Curtains
 tags:
   - Quelle/5e/dmg
 aliases:

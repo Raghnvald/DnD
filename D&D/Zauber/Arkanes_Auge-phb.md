@@ -7,6 +7,13 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Arkanes Auge
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Knowledge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -17,15 +24,9 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/visions-of-distant-realms
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Knowledge Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Arcane Eye
-linter-yaml-title-alias: Arkanes Auge
+  - Arkanes Auge
 ---
 # Arkanes Auge
 *Erkenntnismagie des 4. Grades*

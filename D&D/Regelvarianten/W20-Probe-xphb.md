@@ -1,5 +1,6 @@
 ---
 Bezeichnung: D20 Test
+linter-yaml-title-alias: D20 Test
 tags:
   - Quelle/5e/xphb
 aliases:

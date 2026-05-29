@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tool Proficiencies
+linter-yaml-title-alias: Tool Proficiencies
 tags:
   - Quelle/5e/xge
 aliases:

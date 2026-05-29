@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Helm of Teleportation
+linter-yaml-title-alias: Helm of Teleportation
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Helm of Teleportation
-linter-yaml-title-alias: Helm of Teleportation
 ---
 # Helm of Teleportation
 *Wondrous item, rare (requires attunement)*  

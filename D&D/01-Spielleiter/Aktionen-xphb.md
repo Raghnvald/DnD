@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Actions
+linter-yaml-title-alias: Actions
 tags:
   - Quelle/5e/dmg
   - Quelle/5e/phb

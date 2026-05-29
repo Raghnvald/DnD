@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix: Maps, Monsters, & NPCs"
+linter-yaml-title-alias: "Appendix: Maps, Monsters, & NPCs"
 tags:
   - Quelle/5e/aitfr-isf
 aliases:

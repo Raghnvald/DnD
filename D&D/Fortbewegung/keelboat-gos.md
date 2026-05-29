@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keelboat
+linter-yaml-title-alias: Keelboat
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/sea

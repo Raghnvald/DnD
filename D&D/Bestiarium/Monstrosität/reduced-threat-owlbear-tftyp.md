@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Owlbear
+linter-yaml-title-alias: Reduced-Threat Owlbear
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

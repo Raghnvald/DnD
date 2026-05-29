@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shipwright
+linter-yaml-title-alias: Shipwright
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos

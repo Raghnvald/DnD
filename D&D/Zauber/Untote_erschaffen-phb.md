@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Create Undead
 Zaubergrad: 6
+linter-yaml-title-alias: Create Undead
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Warlock
-  - Wizard
 aliases:
   - Create Undead
-linter-yaml-title-alias: Create Undead
 ---
 # Create Undead
 *6th-level, Necromancy*  

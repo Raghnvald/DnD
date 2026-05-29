@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: 10 Tage
 Angriff: WEI
 Schaden: n/a
+linter-yaml-title-alias: Antipathie/Sympathie
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -15,13 +20,9 @@ tags:
   - Zauber/Grad/8
   - Zauber/Original/Antipathy-Sympathy
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Wizard
 aliases:
+  - Antipathie/Sympathie
   - Antipathy/Sympathy
-linter-yaml-title-alias: Antipathie/Sympathie
 ---
 # Antipathie/Sympathie
 *Verzauberung des 8. Grades*

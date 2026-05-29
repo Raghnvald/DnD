@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orzhov Items
+linter-yaml-title-alias: Orzhov Items
 tags:
   - Quelle/5e/ggr
 aliases:

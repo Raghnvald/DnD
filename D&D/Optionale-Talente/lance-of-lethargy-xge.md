@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lance of Lethargy
+linter-yaml-title-alias: Lance of Lethargy
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

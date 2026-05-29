@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Necklace of Fireballs
+linter-yaml-title-alias: Necklace of Fireballs
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Necklace of Fireballs
-linter-yaml-title-alias: Necklace of Fireballs
 ---
 # Necklace of Fireballs
 *Wondrous item, rare*  

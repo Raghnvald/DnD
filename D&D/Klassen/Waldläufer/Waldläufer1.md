@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Waldläufer
+linter-yaml-title-alias: Waldläufer
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/phb
 aliases:
   - Ranger
+  - Waldläufer
 ---
 # Waldläufer
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

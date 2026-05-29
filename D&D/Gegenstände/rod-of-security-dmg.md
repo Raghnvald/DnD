@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Rod of Security
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of Security
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
   - Rod of Security
-linter-yaml-title-alias: Rod of Security
 ---
 # Rod of Security
 *Rod, major, very rare*  

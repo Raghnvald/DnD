@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crag Cat
+linter-yaml-title-alias: Crag Cat
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1

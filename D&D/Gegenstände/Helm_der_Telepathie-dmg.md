@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Helm of Telepathy
+linter-yaml-title-alias: Helm of Telepathy
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Helm of Telepathy
-linter-yaml-title-alias: Helm of Telepathy
 ---
 # Helm of Telepathy
 *Wondrous item, major, uncommon (requires attunement)*  

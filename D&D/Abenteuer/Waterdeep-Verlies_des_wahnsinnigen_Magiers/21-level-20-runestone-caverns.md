@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 20: Runestone Caverns"
+linter-yaml-title-alias: "Level 20: Runestone Caverns"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 20: Runestone Caverns"
   - Level 20: Runestone Caverns
 ---
 # Level 20: Runestone Caverns

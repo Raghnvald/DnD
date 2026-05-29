@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Harp of Gilded Plenty
+linter-yaml-title-alias: Harp of Gilded Plenty
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bgg
 aliases:
   - Harp of Gilded Plenty
-linter-yaml-title-alias: Harp of Gilded Plenty
 ---
 # Harp of Gilded Plenty
 *Wondrous item, legendary (requires attunement)*  

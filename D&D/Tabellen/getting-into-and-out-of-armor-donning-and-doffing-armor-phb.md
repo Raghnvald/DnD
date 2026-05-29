@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Getting Into and Out of Armor; Donning and Doffing Armor
+linter-yaml-title-alias: Getting Into and Out of Armor; Donning and Doffing Armor
 tags:
   - Quelle/5e/phb
 aliases:

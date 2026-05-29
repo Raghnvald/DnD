@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barbarian
+linter-yaml-title-alias: Barbarian
 tags:
   - Quelle/5e/ggr
 aliases:

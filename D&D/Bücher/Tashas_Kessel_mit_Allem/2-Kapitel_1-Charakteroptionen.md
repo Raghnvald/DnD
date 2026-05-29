@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Charakteroptionen
+linter-yaml-title-alias: Charakteroptionen
 tags:
   - Quelle/5e/tce
 aliases:
   - Character Options
+  - Charakteroptionen
 ---
 # Charakteroptionen
 *Source: Tasha's Cauldron of Everything, p. 7* 

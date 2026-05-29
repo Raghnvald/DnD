@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Initiative Variants
+linter-yaml-title-alias: Initiative Variants
 tags:
   - Quelle/5e/dmg
 aliases:

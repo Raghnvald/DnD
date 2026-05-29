@@ -9,6 +9,7 @@ Habitat:
   - Unterreich
 image: token/Nothic.webp
 status: completed
+linter-yaml-title-alias: Nothic
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

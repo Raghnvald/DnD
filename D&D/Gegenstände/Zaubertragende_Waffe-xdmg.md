@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Weapon
+linter-yaml-title-alias: Enspelled Weapon
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Weapon
-linter-yaml-title-alias: Enspelled Weapon
 ---
 # Enspelled Weapon
 *(Requires attunement)*  

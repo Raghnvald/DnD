@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Healing
+linter-yaml-title-alias: Healing
 tags:
   - Quelle/5e/dmg
 aliases:

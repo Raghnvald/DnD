@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Buch der niederträchtigen Dunkelheit
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Buch der niederträchtigen Dunkelheit
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Book of Vile Darkness
-linter-yaml-title-alias: Book of Vile Darkness
+  - Buch der niederträchtigen Dunkelheit
 ---
 # Buch der niederträchtigen Dunkelheit
 *Wondrous item, artifact (requires attunement)*  

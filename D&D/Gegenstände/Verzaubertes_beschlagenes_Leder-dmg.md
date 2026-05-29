@@ -2,19 +2,21 @@
 Bezeichnung: Verzaubertes beschlagenes Leder
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: /
+Eigenschaften:
+  - /
+Einstimmung:
 Kst.: 45 GM
 Gew.: 7,5 kg
 RK: 12 + GES
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Verzaubertes beschlagenes Leder
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Glamoured Studded Leather
-linter-yaml-title-alias: Glamoured Studded Leather
+  - Verzaubertes beschlagenes Leder
 ---
 # Verzaubertes beschlagenes Leder
 *Rüstung ([[Beschlagene_Lederrüstung-phb|beschlagenes Leder]]), selten*  

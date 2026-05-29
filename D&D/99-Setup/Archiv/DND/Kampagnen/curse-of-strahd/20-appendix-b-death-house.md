@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Death House"
+linter-yaml-title-alias: "Appendix B: Death House"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Appendix B: Death House"
   - Appendix B: Death House
 ---
 # Appendix B: Death House

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Eye and Hand of Vecna
+linter-yaml-title-alias: Eye and Hand of Vecna
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:
   - Eye and Hand of Vecna
-linter-yaml-title-alias: Eye and Hand of Vecna
 ---
 # Eye and Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Stirring Dragon's Wrath Weapon"
+linter-yaml-title-alias: "Stirring Dragon's Wrath Weapon"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -65,7 +66,6 @@ aliases:
   - Stirring Dragon's Wrath Weapon
   - Stirring Dragon's Wrath Whip
   - Stirring Dragon's Wrath Yklwa
-linter-yaml-title-alias: "Stirring Dragon's Wrath Weapon"
 ---
 # Stirring Dragon's Wrath Weapon
 *Rare (requires attunement)*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Identify the Party's Goals; Wilderness Goals"
+linter-yaml-title-alias: "Identify the Party's Goals; Wilderness Goals"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Identify the Party's Goals; Wilderness Goals"
   - Identify the Party's Goals; Wilderness Goals
 ---
 # Identify the Party's Goals; Wilderness Goals

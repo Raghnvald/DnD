@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aspect of the Moon
+linter-yaml-title-alias: Aspect of the Moon
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

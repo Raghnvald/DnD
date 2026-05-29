@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Voyager Staff
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Voyager Staff
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +13,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Voyager Staff
-linter-yaml-title-alias: Voyager Staff
 ---
 # Voyager Staff
 *Staff, weapon, very rare (requires attunement by a spellcaster)*  

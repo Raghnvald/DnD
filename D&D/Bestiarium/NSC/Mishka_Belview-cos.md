@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mishka Belview
+linter-yaml-title-alias: Mishka Belview
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Mishka Belview
-linter-yaml-title-alias: Mishka Belview
 ---
 # Mishka Belview
 *Source: Curse of Strahd p. 150*  

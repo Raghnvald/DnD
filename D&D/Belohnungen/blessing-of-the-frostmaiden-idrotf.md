@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of the Frostmaiden
+linter-yaml-title-alias: Blessing of the Frostmaiden
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/idrotf

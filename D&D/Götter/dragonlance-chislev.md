@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Chislev
+linter-yaml-title-alias: Chislev
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Chislev"
+  - Chislev
 ---
 # Chislev
 *Source: Dragonlance: Shadow of the Dragon Queen p. 16* 

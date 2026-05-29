@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Green Slime
+linter-yaml-title-alias: Green Slime
 tags:
   - Quelle/5e/dmg
 aliases:

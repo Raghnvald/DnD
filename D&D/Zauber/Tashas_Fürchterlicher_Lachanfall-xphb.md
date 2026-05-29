@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Tasha's Hideous Laughter"
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Warlock (Great Old One Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -20,17 +29,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Warlock (Great Old One Patron)
-  - Wizard
 aliases:
   - "Tasha's Hideous Laughter"
-linter-yaml-title-alias: "Tasha's Hideous Laughter"
 ---
 # Tasha's Hideous Laughter
 *1st-level, Enchantment*  

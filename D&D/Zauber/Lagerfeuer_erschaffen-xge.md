@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Create Bonfire
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -27,19 +38,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Create Bonfire
-linter-yaml-title-alias: Create Bonfire
 ---
 # Create Bonfire
 *cantrip, Conjuration*  

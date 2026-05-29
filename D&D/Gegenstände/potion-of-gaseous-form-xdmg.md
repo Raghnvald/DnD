@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Gaseous Form
+linter-yaml-title-alias: Potion of Gaseous Form
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Gaseous Form
-linter-yaml-title-alias: Potion of Gaseous Form
 ---
 # Potion of Gaseous Form
 *Potion, rare*  

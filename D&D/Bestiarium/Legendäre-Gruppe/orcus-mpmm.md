@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orcus
+linter-yaml-title-alias: Orcus
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

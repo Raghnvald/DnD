@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Harbor Moon
 Kategorie: Währung
+Eigenschaften:
+  - /
+Kst.: 50 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Harbor Moon
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Harbor Moon
-linter-yaml-title-alias: Harbor Moon
 ---
 # Harbor Moon
 *Treasure (coinage)*  

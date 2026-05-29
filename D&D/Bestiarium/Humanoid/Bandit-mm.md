@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bandit
+linter-yaml-title-alias: Bandit
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

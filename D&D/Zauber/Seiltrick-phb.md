@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Rope Trick
 Zaubergrad: 2
+linter-yaml-title-alias: Rope Trick
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Rope Trick
-linter-yaml-title-alias: Rope Trick
 ---
 # Rope Trick
 *2nd-level, Transmutation*  

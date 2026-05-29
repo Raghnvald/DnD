@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix C: Tracking Sheets"
+linter-yaml-title-alias: "Appendix C: Tracking Sheets"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Appendix C: Tracking Sheets"
   - Appendix C: Tracking Sheets
 ---
 # Appendix C: Tracking Sheets

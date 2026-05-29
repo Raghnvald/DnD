@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius NPCs
+linter-yaml-title-alias: Azorius NPCs
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Random Encounters"
+linter-yaml-title-alias: "Appendix A: Random Encounters"
 tags:
   - Quelle/5e/llk
 aliases:

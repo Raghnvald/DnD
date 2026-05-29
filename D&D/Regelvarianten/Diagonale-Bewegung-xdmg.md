@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Diagonal Movement
+linter-yaml-title-alias: Diagonal Movement
 tags:
   - Quelle/5e/xdmg
 aliases:

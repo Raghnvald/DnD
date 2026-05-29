@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Spies' Murmur"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Spies' Murmur"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/ggr
 aliases:
-  - Spies' Murmur
-linter-yaml-title-alias: Spies' Murmur
+  - "Spies' Murmur"
 ---
 # Spies' Murmur
 *Wondrous item, uncommon (requires attunement)*  

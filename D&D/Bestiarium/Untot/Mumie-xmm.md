@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mummy
+linter-yaml-title-alias: Mummy
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Sumpf
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Mummy
-linter-yaml-title-alias: Mummy
 ---
 # [Mummy](3-Mechanics\CLI\bestiary\undead/mummy-xmm.md)
 *Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

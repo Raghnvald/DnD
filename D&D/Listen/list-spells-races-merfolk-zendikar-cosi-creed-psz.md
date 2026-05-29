@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Merfolk (Zendikar; Cosi Creed)
+linter-yaml-title-alias: Spells for Merfolk (Zendikar; Cosi Creed)
 tags:
   - ttrpg-cli/spell/list/subrace/merfolk-zendikar-cosi-creed
 aliases:
   - "Spells for Merfolk (Zendikar; Cosi Creed)"
+  - Spells for Merfolk (Zendikar; Cosi Creed)
 ---
 # Spells for Merfolk (Zendikar; Cosi Creed)
 

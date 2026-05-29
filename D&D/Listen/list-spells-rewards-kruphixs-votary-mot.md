@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Kruphix's Votary"
+linter-yaml-title-alias: "Spells for Kruphix's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/kruphixs-votary
 aliases:

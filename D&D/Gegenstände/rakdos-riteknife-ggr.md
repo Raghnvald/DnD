@@ -2,6 +2,7 @@
 Bezeichnung: Rakdos Riteknife
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
+linter-yaml-title-alias: Rakdos Riteknife
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Rakdos Riteknife
-linter-yaml-title-alias: Rakdos Riteknife
 ---
 # Rakdos Riteknife
 *Weapon (dagger), legendary (requires attunement)*  

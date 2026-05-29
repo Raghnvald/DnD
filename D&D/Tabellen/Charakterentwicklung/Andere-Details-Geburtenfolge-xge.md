@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Andere Details; Geburtenfolge
+linter-yaml-title-alias: Andere Details; Geburtenfolge
 tags:
   - Quelle/5e/xge
 aliases:
+  - Andere Details; Geburtenfolge
   - Other Details; Birth Order
 ---
 # Andere Details; Geburtenfolge

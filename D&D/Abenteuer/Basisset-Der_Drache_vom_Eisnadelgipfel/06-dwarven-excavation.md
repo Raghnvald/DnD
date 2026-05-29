@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarven Excavation
+linter-yaml-title-alias: Dwarven Excavation
 tags:
   - Quelle/5e/dip
 aliases:

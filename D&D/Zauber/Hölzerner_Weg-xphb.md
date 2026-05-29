@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Tree Stride
+linter-yaml-title-alias: Tree Stride
+classes:
+  - Bard
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Temperate Land)
+  - Paladin (Oath of the Ancients)
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -10,16 +18,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Temperate Land)
-  - Paladin (Oath of the Ancients)
-  - Ranger
 aliases:
   - Tree Stride
-linter-yaml-title-alias: Tree Stride
 ---
 # Tree Stride
 *5th-level, Conjuration*  

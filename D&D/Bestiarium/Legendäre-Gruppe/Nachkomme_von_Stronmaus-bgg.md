@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Stronmaus
+linter-yaml-title-alias: Scion of Stronmaus
 tags:
   - Monster/legendary-group
   - Quelle/5e/bgg

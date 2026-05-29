@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf (Moon Elf or Sun Elf Descent)
+linter-yaml-title-alias: Half-Elf (Moon Elf or Sun Elf Descent)
 tags:
   - Quelle/5e/scag
   - Rasse/half-elf/moon-elf-or-sun-elf-descent

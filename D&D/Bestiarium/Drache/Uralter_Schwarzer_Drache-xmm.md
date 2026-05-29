@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Black Dragon
 Kategorie: Drache (Chromatisch)
+linter-yaml-title-alias: Ancient Black Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Sumpf
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ancient Black Dragon
-linter-yaml-title-alias: Ancient Black Dragon
 ---
 # [Ancient Black Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-black-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 40. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

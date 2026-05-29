@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Crime"
+linter-yaml-title-alias: "Downtime Activity: Crime"
 tags:
   - Quelle/5e/xge
 aliases:
+  - "Downtime Activity: Crime"
   - Downtime Activity: Crime
 ---
 # Downtime Activity: Crime

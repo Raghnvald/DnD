@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Korred
+linter-yaml-title-alias: Korred
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Wald

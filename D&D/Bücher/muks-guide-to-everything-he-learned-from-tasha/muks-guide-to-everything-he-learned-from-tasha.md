@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Muks Guide to Everything He Learned From Tasha
+linter-yaml-title-alias: Index of Muks Guide to Everything He Learned From Tasha
+aliases:
+  - Index of Muks Guide to Everything He Learned From Tasha
 ---
 # Index of Muks Guide to Everything He Learned From Tasha
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Striking
+linter-yaml-title-alias: Staff of Striking
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Striking
-linter-yaml-title-alias: Staff of Striking
 ---
 # Staff of Striking
 *Staff, weapon, very rare (requires attunement)*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Jenseits der 1. Stufe; Charakteraufstieg
+linter-yaml-title-alias: Jenseits der 1. Stufe; Charakteraufstieg
 tags:
   - Quelle/5e/phb
 aliases:
   - Beyond 1st Level; Character Advancement
+  - Jenseits der 1. Stufe; Charakteraufstieg
 ---
 # Jenseits der 1. Stufe; Charakteraufstieg
 *Quelle: SRD / Grundregelwerk*

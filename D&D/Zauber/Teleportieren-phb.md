@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Teleport
 Zaubergrad: 7
+linter-yaml-title-alias: Teleport
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Teleport
-linter-yaml-title-alias: Teleport
 ---
 # Teleport
 *7th-level, Conjuration*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Berronar Truesilver
+linter-yaml-title-alias: Berronar Truesilver
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

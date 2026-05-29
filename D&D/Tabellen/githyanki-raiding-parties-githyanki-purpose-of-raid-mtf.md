@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githyanki Raiding Parties; Githyanki Purpose of Raid
+linter-yaml-title-alias: Githyanki Raiding Parties; Githyanki Purpose of Raid
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Tables; Reasons for Adventuring
+linter-yaml-title-alias: Halfling Tables; Reasons for Adventuring
 tags:
   - Quelle/5e/mtf
 aliases:

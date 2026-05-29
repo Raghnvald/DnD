@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skull Lasher of Myrkul
+linter-yaml-title-alias: Skull Lasher of Myrkul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Skull Lasher of Myrkul

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Raiders' Camp"
+linter-yaml-title-alias: "Chapter 2: Raiders' Camp"
 tags:
   - Quelle/5e/hotdq
 aliases:

@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: /
 Schaden: /
+linter-yaml-title-alias: Gute Beeren
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -15,13 +20,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Ranger
 aliases:
-  - Goodberry
-linter-yaml-title-alias: Goodberry
+  - Gute Beeren
 ---
 # Gute Beeren
 *Verwandlung des 1. Grades*  

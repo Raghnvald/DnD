@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cradle of the Stone Scion
+linter-yaml-title-alias: Cradle of the Stone Scion
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/23

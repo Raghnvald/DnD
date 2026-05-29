@@ -5,14 +5,14 @@ Bezeichnung: Artus Cimber
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Artus Cimber
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Artus Cimber
-linter-yaml-title-alias: Artus Cimber
 ---
 # [Artus Cimber](3-Mechanics\CLI\bestiary\npc/artus-cimber-toa.md)
 *Source: Tomb of Annihilation p. 212*  

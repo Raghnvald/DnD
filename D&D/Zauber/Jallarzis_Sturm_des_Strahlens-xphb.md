@@ -1,5 +1,11 @@
 ---
 Bezeichnung: "Jallarzi's Storm of Radiance"
+linter-yaml-title-alias: "Jallarzi's Storm of Radiance"
+classes:
+  - Bard
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Jallarzi's Storm of Radiance
-linter-yaml-title-alias: Jallarzi's Storm of Radiance
+  - "Jallarzi's Storm of Radiance"
 ---
 # Jallarzi's Storm of Radiance
 *5th-level, Evocation*  

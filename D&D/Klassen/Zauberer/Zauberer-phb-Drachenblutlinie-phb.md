@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Bloodline
+linter-yaml-title-alias: Draconic Bloodline
 tags:
   - Klasse/Zauberer/draconic
   - Quelle/5e/phb

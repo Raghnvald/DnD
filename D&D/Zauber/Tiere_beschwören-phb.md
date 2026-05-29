@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Conjure Animals
 Zaubergrad: 3
+linter-yaml-title-alias: Conjure Animals
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Ranger
 aliases:
   - Conjure Animals
-linter-yaml-title-alias: Conjure Animals
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  

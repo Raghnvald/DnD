@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Gold
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Gold
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
+aliases:
+  - Gold
 ---
 # Gold
 *Handelsgut*  

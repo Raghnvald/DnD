@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Zirkon
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Zirkon
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Zircon
-linter-yaml-title-alias: Zircon
+  - Zirkon
 ---
 # Zirkon
 *Schatz (Edelstein)*  

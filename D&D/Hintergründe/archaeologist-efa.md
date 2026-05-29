@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Archaeologist
+linter-yaml-title-alias: Archaeologist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "Archaeologist"
+  - Archaeologist
 ---
 # Archaeologist
 *Source: Eberron: Forge of the Artificer p. 26*  

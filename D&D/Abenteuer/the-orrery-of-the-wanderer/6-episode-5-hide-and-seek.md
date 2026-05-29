@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Episode 5: Hide and Seek"
+linter-yaml-title-alias: "Episode 5: Hide and Seek"
 tags:
   - Quelle/5e/oow
 aliases:

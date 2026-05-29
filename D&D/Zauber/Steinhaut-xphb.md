@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Stoneskin
+linter-yaml-title-alias: Stoneskin
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -16,21 +29,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/eternal-mountain-defense
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Conquest)
-  - Paladin (Oath of Redemption)
-  - Paladin (Oath of the Ancients)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Stoneskin
-linter-yaml-title-alias: Stoneskin
 ---
 # Stoneskin
 *4th-level, Transmutation*  

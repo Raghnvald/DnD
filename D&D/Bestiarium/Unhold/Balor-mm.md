@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Balor
+linter-yaml-title-alias: Balor
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/19

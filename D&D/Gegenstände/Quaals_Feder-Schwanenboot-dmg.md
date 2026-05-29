@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Swan Boat"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Quaal's Feather Token, Swan Boat"
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Quaal's Feather Token, Swan Boat
-linter-yaml-title-alias: Quaal's Feather Token, Swan Boat
+  - "Quaal's Feather Token, Swan Boat"
 ---
 # Quaal's Feather Token, Swan Boat
 *Wondrous item, minor, rare*  

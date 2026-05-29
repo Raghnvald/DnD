@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Spell Storing
+linter-yaml-title-alias: Ring of Spell Storing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Spell Storing
-linter-yaml-title-alias: Ring of Spell Storing
 ---
 # Ring of Spell Storing
 *Ring, rare (requires attunement)*  

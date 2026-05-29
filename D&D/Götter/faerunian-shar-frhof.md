@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shar
+linter-yaml-title-alias: Shar
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Shar"
   - "The Dark Lady"
   - "The Mistress of the Night"
+  - Shar
 ---
 # Shar
 *Source: Forgotten Realms: Heroes of Faerûn p. 120* 

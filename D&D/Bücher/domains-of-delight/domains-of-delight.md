@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Domains of Delight
+linter-yaml-title-alias: Index of Domains of Delight
+aliases:
+  - Index of Domains of Delight
 ---
 # Index of Domains of Delight
 

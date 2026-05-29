@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Commune with Nature
+linter-yaml-title-alias: Commune with Nature
+classes:
+  - Barbarian (Path of the Wild Heart)
+  - Bard
+  - Druid
+  - Paladin (Oath of the Ancients)
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -10,15 +17,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Wild Heart)
-  - Bard
-  - Druid
-  - Paladin (Oath of the Ancients)
-  - Ranger
 aliases:
   - Commune with Nature
-linter-yaml-title-alias: Commune with Nature
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  

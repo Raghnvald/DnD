@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Reserve
+linter-yaml-title-alias: Ioun Stone, Reserve
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Reserve
-linter-yaml-title-alias: Ioun Stone, Reserve
 ---
 # Ioun Stone, Reserve
 *Wondrous item, rare (requires attunement)*  

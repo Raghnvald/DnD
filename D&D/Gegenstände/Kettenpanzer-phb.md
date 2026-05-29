@@ -2,19 +2,20 @@
 Bezeichnung: Kettenpanzer
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 75 GM
 Gew.: 27,5 kg
 RK: 16
 STR: 13
 Heiml.: Nachteil
+linter-yaml-title-alias: Kettenpanzer
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Chain Mail
-linter-yaml-title-alias: Chain Mail
+  - Kettenpanzer
 ---
 # Kettenpanzer
 *Schwere Rüstung*

@@ -6,6 +6,7 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Minute
 Angriff: STR
 Schaden: 2d6 Wucht
+linter-yaml-title-alias: Maximilians Erdgriff
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -15,6 +16,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Maximilian's Earthen Grasp
+  - Maximilians Erdgriff
 ---
 # Maximilians Erdgriff
 _Verwandlung des 2. Grades_

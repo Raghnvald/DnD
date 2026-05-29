@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter (Swiftstride)
+linter-yaml-title-alias: Shifter (Swiftstride)
 tags:
   - Quelle/5e/erlw
   - Rasse/shifter/swiftstride

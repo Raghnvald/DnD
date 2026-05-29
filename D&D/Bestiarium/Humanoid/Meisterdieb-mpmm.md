@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master Thief
+linter-yaml-title-alias: Master Thief
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

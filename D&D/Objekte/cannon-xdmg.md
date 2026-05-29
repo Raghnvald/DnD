@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cannon
+linter-yaml-title-alias: Cannon
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon

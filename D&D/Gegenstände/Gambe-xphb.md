@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Viol
+linter-yaml-title-alias: Viol
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Viol
-linter-yaml-title-alias: Viol
 ---
 # Viol
 *Instrument*  

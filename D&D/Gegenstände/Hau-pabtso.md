@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hew
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Hew
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Hew
-linter-yaml-title-alias: Hew
 ---
 # Hew
 *Weapon ([battleaxe](Gegenstände/battleaxe-xphb.md)), uncommon*  

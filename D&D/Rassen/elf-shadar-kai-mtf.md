@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Shadar-kai)
+linter-yaml-title-alias: Elf (Shadar-kai)
 tags:
   - Quelle/5e/mtf
   - Rasse/elf/shadar-kai

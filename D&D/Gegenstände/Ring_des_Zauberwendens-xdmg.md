@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Spell Turning
+linter-yaml-title-alias: Ring of Spell Turning
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Spell Turning
-linter-yaml-title-alias: Ring of Spell Turning
 ---
 # Ring of Spell Turning
 *Ring, legendary (requires attunement)*  

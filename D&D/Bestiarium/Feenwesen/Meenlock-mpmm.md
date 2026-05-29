@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Meenlock
+linter-yaml-title-alias: Meenlock
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Stadt

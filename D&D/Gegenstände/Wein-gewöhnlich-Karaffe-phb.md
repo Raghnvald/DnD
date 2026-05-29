@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Common Wine (pitcher)
 Kategorie: Essen und Trinken
+Eigenschaften:
+  - /
+Kst.: 2 SM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Common Wine (pitcher)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Common Wine (pitcher)
-linter-yaml-title-alias: Common Wine (pitcher)
 ---
 # Common Wine (pitcher)
 *Food and drink*  

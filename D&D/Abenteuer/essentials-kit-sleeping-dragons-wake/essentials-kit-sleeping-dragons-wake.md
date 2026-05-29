@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Essentials Kit Sleeping Dragons Wake
+linter-yaml-title-alias: Index of Essentials Kit Sleeping Dragons Wake
+aliases:
+  - Index of Essentials Kit Sleeping Dragons Wake
 ---
 # Index of Essentials Kit Sleeping Dragons Wake
 

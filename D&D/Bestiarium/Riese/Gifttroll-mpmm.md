@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Venom Troll
+linter-yaml-title-alias: Venom Troll
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Sumpf

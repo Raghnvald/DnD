@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spell Scroll (Cantrip)
+linter-yaml-title-alias: Spell Scroll (Cantrip)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Spell Scroll (Cantrip)
-linter-yaml-title-alias: Spell Scroll (Cantrip)
 ---
 # Spell Scroll (Cantrip)
 *Scroll, common*  

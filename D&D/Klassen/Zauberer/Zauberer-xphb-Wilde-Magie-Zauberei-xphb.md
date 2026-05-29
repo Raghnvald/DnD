@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic Sorcery
+linter-yaml-title-alias: Wild Magic Sorcery
 tags:
   - Klasse/Zauberer/wild-magic
   - Quelle/5e/xphb

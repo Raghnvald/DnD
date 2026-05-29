@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Calendar; Eberron Months
+linter-yaml-title-alias: Calendar; Eberron Months
 tags:
   - Quelle/5e/erlw
 aliases:

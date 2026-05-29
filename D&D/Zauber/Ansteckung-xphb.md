@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Contagion
+linter-yaml-title-alias: Contagion
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Druid (Circle of Spores)
+  - Paladin (Oathbreaker)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Undying)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,14 +20,6 @@ tags:
   - Subklasse/the-undying
   - Zauber/Grad/5
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Druid (Circle of Spores)
-  - Paladin (Oathbreaker)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Undying)
 aliases:
   - Contagion
 ---

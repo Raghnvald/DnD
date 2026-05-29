@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nintra Siotta
+linter-yaml-title-alias: Nintra Siotta
 tags:
   - Monster/Größe/Groß
   - Monster/HG/16
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Nintra Siotta
-linter-yaml-title-alias: Nintra Siotta
 ---
 # [Nintra Siotta](3-Mechanics\CLI\bestiary\npc/nintra-siotta-cm.md)
 *Source: Candlekeep Mysteries p. 197*  

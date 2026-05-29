@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wheat
+linter-yaml-title-alias: Wheat
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Wheat
-linter-yaml-title-alias: Wheat
 ---
 # Wheat
 *Trade good*  

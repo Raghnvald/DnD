@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Evasion
+linter-yaml-title-alias: Ring of Evasion
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Evasion
-linter-yaml-title-alias: Ring of Evasion
 ---
 # Ring of Evasion
 *Ring, rare (requires attunement)*  

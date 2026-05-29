@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Awareness
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Awareness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Awareness
-linter-yaml-title-alias: Ioun Stone, Awareness
 ---
 # Ioun Stone, Awareness
 *Wondrous item, major, rare (requires attunement)*  

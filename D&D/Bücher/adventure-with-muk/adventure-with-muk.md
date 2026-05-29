@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Adventure with Muk
+linter-yaml-title-alias: Index of Adventure with Muk
+aliases:
+  - Index of Adventure with Muk
 ---
 # Index of Adventure with Muk
 

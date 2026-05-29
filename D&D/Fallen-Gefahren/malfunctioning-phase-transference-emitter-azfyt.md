@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Malfunctioning Phase Transference Emitter
+linter-yaml-title-alias: Malfunctioning Phase Transference Emitter
 tags:
   - Kompendium/Bedrohung/cmpx
   - Quelle/5e/azfyt
 aliases:
   - "Malfunctioning Phase Transference Emitter"
+  - Malfunctioning Phase Transference Emitter
 ---
 # Malfunctioning Phase Transference Emitter
 *Generic Hazard*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amaunator
+linter-yaml-title-alias: Amaunator
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "The Keeper of the Eternal Sun"
   - "The Light of Law"
   - "The Yellow God"
+  - Amaunator
 ---
 # Amaunator
 *Source: Forgotten Realms: Heroes of Faerûn p. 100* 

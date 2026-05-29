@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Angelausrüstung
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 2,0 kg
+status: WIP
+linter-yaml-title-alias: Angelausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Angelausrüstung
-linter-yaml-title-alias: Angelausrüstung
 ---
 # Angelausrüstung
 *Adventuring gear*  

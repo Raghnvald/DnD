@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Creatures
+linter-yaml-title-alias: Golgari Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

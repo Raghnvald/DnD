@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Umberlee
+linter-yaml-title-alias: Umberlee
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/faerunian

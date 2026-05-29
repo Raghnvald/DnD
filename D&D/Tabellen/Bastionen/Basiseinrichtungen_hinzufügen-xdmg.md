@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Basiseinrichtungen hinzufügen
 Kategorie: Bastion
+linter-yaml-title-alias: Basiseinrichtungen hinzufügen
 tags:
   - Quelle/5e/xdmg
 aliases:
   - Adding Basic Facilities
+  - Basiseinrichtungen hinzufügen
 ---
 # Basiseinrichtungen hinzufügen
 *Quelle: Spielleiterhandbuch (2024), S. 335* 

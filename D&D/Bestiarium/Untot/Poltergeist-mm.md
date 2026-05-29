@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Poltergeist
+linter-yaml-title-alias: Poltergeist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -9,6 +10,8 @@ tags:
   - Monster/HG/2
   - Monster/Typ/Untote
   - Quelle/5e/mm
+aliases:
+  - Poltergeist
 ---
 # [Poltergeist](3-Mechanics\CLI\bestiary\undead/poltergeist.md)
 *Source: Monster Manual p. 279*  

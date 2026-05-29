@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Will-o'-Wisp"
+linter-yaml-title-alias: "Will-o'-Wisp"
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Stadt
@@ -13,7 +14,6 @@ tags:
 aliases:
   - "Will-o'-Wisp"
   - Will-o'-Wisp
-linter-yaml-title-alias: "Will-o'-Wisp"
 ---
 # [Will-o'-Wisp](3-Mechanics\CLI\bestiary\undead/will-o-wisp.md)
 *Source: Monster Manual p. 301. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -5,6 +5,7 @@ Bezeichnung: Ashen Heir Mage
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ashen Heir Mage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

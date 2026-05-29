@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Orchids of the Invisible Mountain
+linter-yaml-title-alias: Orchids of the Invisible Mountain
 tags:
   - Quelle/5e/jttrc
 aliases:
   - "Orchids of the Invisible Mountain"
+  - Orchids of the Invisible Mountain
 ---
 # Orchids of the Invisible Mountain
 *Source: Journeys through the Radiant Citadel, p. 202* 

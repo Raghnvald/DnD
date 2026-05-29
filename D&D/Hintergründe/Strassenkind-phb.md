@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urchin
+linter-yaml-title-alias: Urchin
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

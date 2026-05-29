@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +2 Weapon
+linter-yaml-title-alias: +2 Weapon
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -64,7 +65,6 @@ aliases:
   - +2 Weapon
   - +2 Whip
   - +2 Yklwa
-linter-yaml-title-alias: +2 Weapon
 ---
 # +2 Weapon
 *Major, rare*  

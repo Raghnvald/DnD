@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Guards and Wards
+linter-yaml-title-alias: Guards and Wards
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/abjurer
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Guards and Wards
-linter-yaml-title-alias: Guards and Wards
 ---
 # Guards and Wards
 *6th-level, Abjuration*  

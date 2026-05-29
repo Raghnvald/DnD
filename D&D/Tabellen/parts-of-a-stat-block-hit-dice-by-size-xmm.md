@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parts of a Stat Block; Hit Dice by Size
+linter-yaml-title-alias: Parts of a Stat Block; Hit Dice by Size
 tags:
   - Quelle/5e/xmm
 aliases:

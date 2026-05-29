@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ender Dragon
+linter-yaml-title-alias: Ender Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/19
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mcv3mc
 aliases:
   - Ender Dragon
-linter-yaml-title-alias: Ender Dragon
 ---
 # [Ender Dragon](3-Mechanics\CLI\bestiary\dragon/ender-dragon-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 5*  

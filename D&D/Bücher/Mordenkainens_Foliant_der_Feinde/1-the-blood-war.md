@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Blood War
+linter-yaml-title-alias: The Blood War
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,5 +1,20 @@
 ---
 Bezeichnung: Fire Shield
+linter-yaml-title-alias: Fire Shield
+classes:
+  - Artificer (Armorer)
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Fiend Patron)
+  - Warlock (The Genie, Efreeti)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -17,23 +32,8 @@ tags:
   - Subklasse/the-genie/efreeti
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Armorer)
-  - Artificer (Battle Smith)
-  - Bard
-  - Cleric (War Domain)
-  - Druid
-  - Druid (Circle of Wildfire)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Fiend Patron)
-  - Warlock (The Genie, Efreeti)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Fire Shield
-linter-yaml-title-alias: Fire Shield
 ---
 # Fire Shield
 *4th-level, Evocation*  

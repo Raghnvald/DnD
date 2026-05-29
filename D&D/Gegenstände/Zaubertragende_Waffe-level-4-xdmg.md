@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 4)
+linter-yaml-title-alias: Enspelled Weapon (Level 4)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Enspelled (Level 4) Wooden Staff
   - Enspelled (Level 4) Yklwa
   - Enspelled Weapon (Level 4)
-linter-yaml-title-alias: Enspelled Weapon (Level 4)
 ---
 # Enspelled Weapon (Level 4)
 *Very rare (requires attunement)*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Magic Item Special Features; Magic Item's Minor Property"
+linter-yaml-title-alias: "Magic Item Special Features; Magic Item's Minor Property"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Magic Item Special Features; Magic Item's Minor Property"
   - Magic Item Special Features; Magic Item's Minor Property
 ---
 # Magic Item Special Features; Magic Item's Minor Property

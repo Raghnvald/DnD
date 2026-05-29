@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Athreos's Votary"
+linter-yaml-title-alias: "Athreos's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

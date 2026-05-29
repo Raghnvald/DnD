@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wristpocket
 Zaubergrad: 2
+linter-yaml-title-alias: Wristpocket
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/2

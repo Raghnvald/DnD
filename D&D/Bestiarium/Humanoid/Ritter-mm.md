@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knight
+linter-yaml-title-alias: Knight
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

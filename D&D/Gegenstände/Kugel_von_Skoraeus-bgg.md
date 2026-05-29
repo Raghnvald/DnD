@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Orb of Skoraeus
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Orb of Skoraeus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Orb of Skoraeus
-linter-yaml-title-alias: Orb of Skoraeus
 ---
 # Orb of Skoraeus
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

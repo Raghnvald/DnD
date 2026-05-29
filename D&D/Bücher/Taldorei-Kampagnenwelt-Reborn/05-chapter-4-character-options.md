@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Character Options"
+linter-yaml-title-alias: "Chapter 4: Character Options"
 tags:
   - Quelle/5e/tdcsr
 aliases:
+  - "Chapter 4: Character Options"
   - Chapter 4: Character Options
 ---
 # Chapter 4: Character Options

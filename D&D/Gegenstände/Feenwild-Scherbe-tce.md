@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Feywild Shard
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Feywild Shard
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/tce
 aliases:
   - Feywild Shard
-linter-yaml-title-alias: Feywild Shard
 ---
 # Feywild Shard
 *Wondrous item, uncommon (requires attunement by a sorcerer)*  

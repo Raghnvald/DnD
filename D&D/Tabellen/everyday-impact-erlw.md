@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Everyday Impact
+linter-yaml-title-alias: Everyday Impact
 tags:
   - Quelle/5e/erlw
 aliases:

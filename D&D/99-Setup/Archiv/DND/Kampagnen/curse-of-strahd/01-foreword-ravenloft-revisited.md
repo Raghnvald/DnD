@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Foreword: Ravenloft Revisited"
+linter-yaml-title-alias: "Foreword: Ravenloft Revisited"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Foreword: Ravenloft Revisited"
   - Foreword: Ravenloft Revisited
 ---
 # Foreword: Ravenloft Revisited

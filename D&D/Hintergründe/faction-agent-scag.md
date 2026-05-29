@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faction Agent
+linter-yaml-title-alias: Faction Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

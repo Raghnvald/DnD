@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blackrazor
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Blackrazor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Blackrazor
-linter-yaml-title-alias: Blackrazor
 ---
 # Blackrazor
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), artifact (requires attunement)*  

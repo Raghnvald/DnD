@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Elf (Eladrin)
+linter-yaml-title-alias: Spells for Elf (Eladrin)
 tags:
   - Zauber/list/subrace/elf-eladrin
 aliases:

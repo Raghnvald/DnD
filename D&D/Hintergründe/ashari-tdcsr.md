@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ashari
+linter-yaml-title-alias: Ashari
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

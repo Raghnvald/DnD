@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Intellect
+linter-yaml-title-alias: Ioun Stone, Intellect
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Intellect
-linter-yaml-title-alias: Ioun Stone, Intellect
 ---
 # Ioun Stone, Intellect
 *Wondrous item, very rare (requires attunement)*  

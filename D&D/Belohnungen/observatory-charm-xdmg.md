@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Observatory Charm
+linter-yaml-title-alias: Observatory Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

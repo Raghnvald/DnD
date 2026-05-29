@@ -9,6 +9,7 @@ Habitat:
   - Unterreich
 image: token/spectator.webp
 status: completed
+linter-yaml-title-alias: Beobachter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
@@ -16,6 +17,7 @@ tags:
   - Monster/Typ/Aberration
   - Quelle/5e/mm
 aliases:
+  - Beobachter
   - Spectator
 ---
 # Beobachter

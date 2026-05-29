@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Unterhaltungskünstler-Ausrüstung
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 40 GM
 Gew.: 19,0 kg
+status: WIP
+linter-yaml-title-alias: Unterhaltungskünstler-Ausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Entertainer's Pack
-linter-yaml-title-alias: Entertainer's Pack
+  - Unterhaltungskünstler-Ausrüstung
 ---
 # Unterhaltungskünstler-Ausrüstung
 *Adventuring gear*  

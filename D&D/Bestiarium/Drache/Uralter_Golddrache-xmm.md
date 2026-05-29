@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Gold Dragon
+linter-yaml-title-alias: Ancient Gold Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Grasland
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ancient Gold Dragon
-linter-yaml-title-alias: Ancient Gold Dragon
 ---
 # [Ancient Gold Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-gold-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 146. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

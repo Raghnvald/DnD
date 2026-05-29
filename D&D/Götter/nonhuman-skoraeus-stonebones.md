@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skoraeus Stonebones
+linter-yaml-title-alias: Skoraeus Stonebones
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/nonhuman

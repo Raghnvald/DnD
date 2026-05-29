@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Gear and Magic Items"
+linter-yaml-title-alias: "Appendix A: Gear and Magic Items"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Appendix A: Gear and Magic Items"
   - Appendix A: Gear and Magic Items
 ---
 # Appendix A: Gear and Magic Items

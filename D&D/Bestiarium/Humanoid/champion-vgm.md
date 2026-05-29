@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Champion
+linter-yaml-title-alias: Champion
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Meister der myriaden Formen
+linter-yaml-title-alias: Meister der myriaden Formen
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb
 aliases:
   - Master of Myriad Forms
+  - Meister der myriaden Formen
 ---
 # Meister der myriaden Formen
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

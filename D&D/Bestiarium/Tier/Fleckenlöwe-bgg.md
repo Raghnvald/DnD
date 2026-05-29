@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spotted Lion
+linter-yaml-title-alias: Spotted Lion
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/3

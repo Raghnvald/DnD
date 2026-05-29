@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Warrior of Shadow
+linter-yaml-title-alias: Spells for Warrior of Shadow
 tags:
   - Zauber/list/subclass/warrior-of-shadow
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flimmern
+linter-yaml-title-alias: Flimmern
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -8,6 +9,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Blink
+  - Flimmern
 ---
 # Flimmern
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verwandlungszauber.webp#token)

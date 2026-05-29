@@ -5,6 +5,7 @@ Bezeichnung: Githzerai Psion
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 12
+linter-yaml-title-alias: Githzerai Psion
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo

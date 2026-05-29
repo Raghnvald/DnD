@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe des Nachtgeistes
+linter-yaml-title-alias: Gabe des Nachtgeistes
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of the Night Spirit
+  - Gabe des Nachtgeistes
 ---
 # Gabe des Nachtgeistes
 

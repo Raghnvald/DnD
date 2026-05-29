@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharn Watch Races
+linter-yaml-title-alias: Sharn Watch Races
 tags:
   - Quelle/5e/erlw
 aliases:

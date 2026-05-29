@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tharizdun
+linter-yaml-title-alias: Tharizdun
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/trickery

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reflection
+linter-yaml-title-alias: Reflection
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

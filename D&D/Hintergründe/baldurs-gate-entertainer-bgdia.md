@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Entertainer"
+linter-yaml-title-alias: "Baldur's Gate Entertainer"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Entertainer"
   - Baldur's Gate Entertainer
 ---
 # Baldur's Gate Entertainer

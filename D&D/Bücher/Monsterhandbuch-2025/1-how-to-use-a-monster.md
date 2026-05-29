@@ -1,5 +1,6 @@
 ---
 Bezeichnung: How to Use a Monster
+linter-yaml-title-alias: How to Use a Monster
 tags:
   - Quelle/5e/xmm
 aliases:

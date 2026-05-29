@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bracelet of Rock Magic
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Bracelet of Rock Magic
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Bracelet of Rock Magic
-linter-yaml-title-alias: Bracelet of Rock Magic
 ---
 # Bracelet of Rock Magic
 *Wondrous item, cursed item, very rare (requires attunement)*  

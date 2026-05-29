@@ -9,6 +9,7 @@ Habitat:
   - Berg
   - Stadt
 status: WIP
+linter-yaml-title-alias: Adult Silver Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg
@@ -18,7 +19,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Adult Silver Dragon
-linter-yaml-title-alias: Adult Silver Dragon
 ---
 # [Adult Silver Dragon](3-Mechanics\CLI\bestiary\dragon/adult-silver-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

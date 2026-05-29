@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Boots of False Tracks
+linter-yaml-title-alias: Boots of False Tracks
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Boots of False Tracks
-linter-yaml-title-alias: Boots of False Tracks
 ---
 # Boots of False Tracks
 *Wondrous item, common*  

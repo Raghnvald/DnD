@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Birdcalls
+linter-yaml-title-alias: Staff of Birdcalls
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Birdcalls
-linter-yaml-title-alias: Staff of Birdcalls
 ---
 # Staff of Birdcalls
 *Staff, weapon, common*  

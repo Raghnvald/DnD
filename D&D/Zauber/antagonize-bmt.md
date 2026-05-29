@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Antagonize
 Zaubergrad: 3
+linter-yaml-title-alias: Antagonize
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/3

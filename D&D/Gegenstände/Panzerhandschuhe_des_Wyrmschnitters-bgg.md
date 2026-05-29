@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wyrmreaver Gauntlets
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wyrmreaver Gauntlets
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Wyrmreaver Gauntlets
-linter-yaml-title-alias: Wyrmreaver Gauntlets
 ---
 # Wyrmreaver Gauntlets
 *Wondrous item, very rare (requires attunement)*  

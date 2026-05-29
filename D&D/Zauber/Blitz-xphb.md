@@ -7,6 +7,19 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Lightning Bolt
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Bard (College of Lore)
+  - Druid (Circle of the Land, Temperate Land)
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -22,21 +35,8 @@ tags:
   - Subklasse/the-fathomless
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Armorer)
-  - Bard
-  - Bard (College of Lore)
-  - Druid (Circle of the Land, Temperate Land)
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fathomless)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Lightning Bolt
-linter-yaml-title-alias: Lightning Bolt
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

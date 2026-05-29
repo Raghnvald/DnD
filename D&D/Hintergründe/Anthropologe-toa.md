@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Anthropologist
+linter-yaml-title-alias: Anthropologist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/toa

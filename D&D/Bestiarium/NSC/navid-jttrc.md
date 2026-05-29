@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Navid
+linter-yaml-title-alias: Navid
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Navid
-linter-yaml-title-alias: Navid
 ---
 # [Navid](3-Mechanics\CLI\bestiary\npc/navid-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 159*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Rum from The Low Lantern in Baldur's Gate"
+linter-yaml-title-alias: "Rum from The Low Lantern in Baldur's Gate"
 tags:
   - Quelle/5e/paf
 aliases:

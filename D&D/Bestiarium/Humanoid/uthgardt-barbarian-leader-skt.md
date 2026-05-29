@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Barbarian Leader
+linter-yaml-title-alias: Uthgardt Barbarian Leader
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/skt
 aliases:
   - Uthgardt Barbarian Leader

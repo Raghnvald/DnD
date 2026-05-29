@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Glamoured Studded Leather
 Rüstung: Leicht
+linter-yaml-title-alias: Glamoured Studded Leather
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Glamoured Studded Leather
-linter-yaml-title-alias: Glamoured Studded Leather
 ---
 # Glamoured Studded Leather
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Save
+linter-yaml-title-alias: Save
 tags:
   - Quelle/5e/xphb
 aliases:

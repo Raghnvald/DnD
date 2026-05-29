@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Mind Control (humanoid)
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Mind Control (humanoid)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/tftyp
 aliases:
   - Potion of Mind Control (humanoid)
-linter-yaml-title-alias: Potion of Mind Control (humanoid)
 ---
 # Potion of Mind Control (humanoid)
 *Potion, rare*  

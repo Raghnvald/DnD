@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Stone Golems
+linter-yaml-title-alias: Manual of Stone Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Stone Golems
-linter-yaml-title-alias: Manual of Stone Golems
 ---
 # Manual of Stone Golems
 *Wondrous item, very rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rod of Rulership
+linter-yaml-title-alias: Rod of Rulership
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Rod of Rulership
-linter-yaml-title-alias: Rod of Rulership
 ---
 # Rod of Rulership
 *Rod, rare (requires attunement)*  

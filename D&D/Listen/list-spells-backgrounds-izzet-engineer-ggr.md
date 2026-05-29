@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Izzet Engineer
+linter-yaml-title-alias: Spells for Izzet Engineer
 tags:
   - Zauber/list/background/izzet-engineer
 aliases:

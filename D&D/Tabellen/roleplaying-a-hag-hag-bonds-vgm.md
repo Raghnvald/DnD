@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Hag; Hag Bonds
+linter-yaml-title-alias: Roleplaying a Hag; Hag Bonds
 tags:
   - Quelle/5e/vgm
 aliases:

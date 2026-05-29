@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Combat"
+linter-yaml-title-alias: "Chapter 2: Combat"
 tags:
   - Quelle/5e/rmr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Order Domain
+linter-yaml-title-alias: Order Domain
 tags:
   - Klasse/Kleriker/order
   - Kompendium/Götter/Domäne/order

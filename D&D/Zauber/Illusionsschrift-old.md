@@ -7,6 +7,7 @@ Wirkungsdauer: 10 Tage
 Angriff: n/v
 Schaden: n/v
 status: completed
+linter-yaml-title-alias: Illusionsschrift
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -17,6 +18,7 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Illusion
 aliases:
+  - Illusionsschrift
   - Illusory Script
 ---
 # Illusionsschrift

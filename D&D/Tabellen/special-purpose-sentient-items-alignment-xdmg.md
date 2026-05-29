@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Special Purpose; Sentient Item's Alignment"
+linter-yaml-title-alias: "Special Purpose; Sentient Item's Alignment"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Special Purpose; Sentient Item's Alignment"
   - Special Purpose; Sentient Item's Alignment
 ---
 # Special Purpose; Sentient Item's Alignment

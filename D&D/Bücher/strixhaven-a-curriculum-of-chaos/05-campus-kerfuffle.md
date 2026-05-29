@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Campus Kerfuffle
+linter-yaml-title-alias: Campus Kerfuffle
 tags:
   - Quelle/5e/scc
 aliases:
   - "Campus Kerfuffle"
+  - Campus Kerfuffle
 ---
 # Campus Kerfuffle
 *Source: Strixhaven: A Curriculum of Chaos, p. 60* 

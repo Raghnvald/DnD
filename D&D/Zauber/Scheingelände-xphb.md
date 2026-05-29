@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Hallucinatory Terrain
+linter-yaml-title-alias: Hallucinatory Terrain
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,17 +20,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Hallucinatory Terrain
-linter-yaml-title-alias: Hallucinatory Terrain
 ---
 # Hallucinatory Terrain
 *4th-level, Illusion*  

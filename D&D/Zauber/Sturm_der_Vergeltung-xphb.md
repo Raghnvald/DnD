@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Storm of Vengeance
+linter-yaml-title-alias: Storm of Vengeance
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/9
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Storm of Vengeance
-linter-yaml-title-alias: Storm of Vengeance
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

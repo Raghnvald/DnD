@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: unmittelbar
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Reittier finden
 tags:
   - Klasse/Paladin
   - Quelle/5e/phb
@@ -14,6 +15,7 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Find Steed
+  - Reittier finden
 ---
 # Reittier finden
 _Beschwörung des 2. Grades_

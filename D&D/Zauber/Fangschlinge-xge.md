@@ -7,6 +7,17 @@ Komponenten: G, M
 Wirkungsdauer: 8 Stunden
 Angriff: GES
 Schaden: Festgesetzt
+linter-yaml-title-alias: Fangschlinge
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -22,19 +33,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
-  - Snare
-linter-yaml-title-alias: Snare
+  - Fangschlinge
 ---
 # Fangschlinge
 *Bann des 1. Grades*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keresta Delvingstone
+linter-yaml-title-alias: Keresta Delvingstone
 tags:
   - Monster/legendary-group
   - Quelle/5e/wdmm

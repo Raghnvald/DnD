@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manshoon Simulacrum
+linter-yaml-title-alias: Manshoon Simulacrum
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Manshoon Simulacrum
-linter-yaml-title-alias: Manshoon Simulacrum
 ---
 # [Manshoon Simulacrum](3-Mechanics\CLI\bestiary\npc/manshoon-simulacrum-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 208*  

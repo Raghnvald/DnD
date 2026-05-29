@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Maximum Power
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Maximum Power
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/egw
 aliases:
   - Potion of Maximum Power
-linter-yaml-title-alias: Potion of Maximum Power
 ---
 # Potion of Maximum Power
 *Potion, rare*  

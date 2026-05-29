@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Turquoise
+linter-yaml-title-alias: Turquoise
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Turquoise
-linter-yaml-title-alias: Turquoise
 ---
 # Turquoise
 *Treasure (gemstone)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gespensterlaterne
+linter-yaml-title-alias: Gespensterlaterne
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/toa
 aliases:
-  - Ghost Lantern
-linter-yaml-title-alias: Ghost Lantern
+  - Gespensterlaterne
 ---
 # Gespensterlaterne
 *Wondrous item, rare (requires attunement)*  

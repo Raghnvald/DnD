@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Preeminent in House
+linter-yaml-title-alias: Preeminent in House
 tags:
   - Kompendium/Optionales/rp
   - Quelle/5e/efa
 aliases:
   - "Preeminent in House"
+  - Preeminent in House
 ---
 # Preeminent in House
 *Source: Eberron: Forge of the Artificer p. 68*  

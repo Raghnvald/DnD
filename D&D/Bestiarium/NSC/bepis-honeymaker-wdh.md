@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bepis Honeymaker
+linter-yaml-title-alias: Bepis Honeymaker
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Bepis Honeymaker
-linter-yaml-title-alias: Bepis Honeymaker
 ---
 # [Bepis Honeymaker](3-Mechanics\CLI\bestiary\npc/bepis-honeymaker-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 112*  

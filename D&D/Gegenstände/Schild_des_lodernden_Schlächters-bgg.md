@@ -2,21 +2,22 @@
 Bezeichnung: Schild des lodernden Schlächters
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schild des lodernden Schlächters
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bgg
 aliases:
-  - Shield of the Blazing Dreadnought
-linter-yaml-title-alias: Shield of the Blazing Dreadnought
+  - Schild des lodernden Schlächters
 ---
 # Schild des lodernden Schlächters
 *Armor (shield), legendary (requires attunement)*  

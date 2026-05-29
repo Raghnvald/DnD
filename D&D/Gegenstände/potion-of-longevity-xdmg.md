@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Longevity
+linter-yaml-title-alias: Potion of Longevity
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Longevity
-linter-yaml-title-alias: Potion of Longevity
 ---
 # Potion of Longevity
 *Potion, very rare*  

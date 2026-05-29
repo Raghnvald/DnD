@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Major Image
 Zaubergrad: 3
+linter-yaml-title-alias: Major Image
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Major Image
-linter-yaml-title-alias: Major Image
 ---
 # Major Image
 *3rd-level, Illusion*  

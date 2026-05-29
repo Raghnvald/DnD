@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young White Dragon
+linter-yaml-title-alias: Young White Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Young White Dragon
-linter-yaml-title-alias: Young White Dragon
 ---
 # [Young White Dragon](3-Mechanics\CLI\bestiary\dragon/young-white-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "+2 Fate Dealer's Deck"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "+2 Fate Dealer's Deck"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bmt
 aliases:
-  - +2 Fate Dealer's Deck
-linter-yaml-title-alias: +2 Fate Dealer's Deck
+  - "+2 Fate Dealer's Deck"
 ---
 # +2 Fate Dealer's Deck
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  

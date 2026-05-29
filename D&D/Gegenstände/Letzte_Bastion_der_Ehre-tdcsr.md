@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Honor's Last Stand"
 Rüstung: Schild
+linter-yaml-title-alias: "Honor's Last Stand"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - Honor's Last Stand
-linter-yaml-title-alias: Honor's Last Stand
+  - "Honor's Last Stand"
 ---
 # Honor's Last Stand
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), legendary (requires attunement by a creature of non-evil alignment)*  

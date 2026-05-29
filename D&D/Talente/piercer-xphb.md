@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Piercer
+linter-yaml-title-alias: Piercer
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

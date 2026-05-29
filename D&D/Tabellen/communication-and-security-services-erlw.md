@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Communication and Security Services
+linter-yaml-title-alias: Communication and Security Services
 tags:
   - Quelle/5e/erlw
 aliases:

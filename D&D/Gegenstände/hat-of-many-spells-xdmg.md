@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hat of Many Spells
+linter-yaml-title-alias: Hat of Many Spells
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Hat of Many Spells
-linter-yaml-title-alias: Hat of Many Spells
 ---
 # Hat of Many Spells
 *Wondrous item, very rare (requires attunement by a wizard)*  

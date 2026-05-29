@@ -2,21 +2,22 @@
 Bezeichnung: "Hunter's Coat"
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: 5,0 kg
 RK: 11 + GES
 STR: /
 Heiml.: /
+linter-yaml-title-alias: "Hunter's Coat"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/egw
 aliases:
-  - Hunter's Coat
-linter-yaml-title-alias: Hunter's Coat
+  - "Hunter's Coat"
 ---
 # Hunter's Coat
 *Light armor ([leather armor](Lederrüstung-xphb)), very rare (requires attunement)*  

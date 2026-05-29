@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wee Jas
+linter-yaml-title-alias: Wee Jas
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

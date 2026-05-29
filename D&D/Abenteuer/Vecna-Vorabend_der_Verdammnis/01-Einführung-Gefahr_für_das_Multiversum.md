@@ -1,13 +1,15 @@
 ---
 Bezeichnung: "Einfphrung: Gefahr für das Multiversum"
+Status: completed
+linter-yaml-title-alias: "Einfphrung: Gefahr für das Multiversum"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Einfphrung: Gefahr für das Multiversum"
   - Introduction: Danger to the Multiverse
-Status: completed
 ---
 # Einfphrung: Gefahr für das Multiversum
-*Quelle: Vecna: Vorabend des Ruin* 
+*Quelle: Vecna: Vorabend der Verdammnis* 
 
 ![Es ist den Charakteren bestimmt, in den legendären Hass zwischen dem Lich-Gott Vecna und dem Kriegsherrn Kas verwickelt zu werden.](Vecna-Vorabend_der_Verdammnis/img/000-00-001-vecna-vs-kas.webp#center)
 

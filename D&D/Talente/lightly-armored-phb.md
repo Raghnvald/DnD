@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lightly Armored
+linter-yaml-title-alias: Lightly Armored
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

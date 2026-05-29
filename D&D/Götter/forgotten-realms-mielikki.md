@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mielikki
+linter-yaml-title-alias: Mielikki
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/forgotten-realms

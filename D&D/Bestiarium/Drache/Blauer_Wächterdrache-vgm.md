@@ -9,6 +9,7 @@ Habitat:
   - Stadt
   - Wüste
 status: WIP
+linter-yaml-title-alias: Blue Guard Drake
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -18,7 +19,6 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Blue Guard Drake
-linter-yaml-title-alias: Blue Guard Drake
 ---
 # [Blue Guard Drake](3-Mechanics\CLI\bestiary\dragon/blue-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

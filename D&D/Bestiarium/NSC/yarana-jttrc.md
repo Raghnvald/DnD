@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yarana
+linter-yaml-title-alias: Yarana
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Yarana
-linter-yaml-title-alias: Yarana
 ---
 # [Yarana](3-Mechanics\CLI\bestiary\npc/yarana-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 204*  

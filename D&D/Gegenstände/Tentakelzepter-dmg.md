@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tentacle Rod
 Kategorie: Zepter
+linter-yaml-title-alias: Tentacle Rod
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Tentacle Rod
-linter-yaml-title-alias: Tentacle Rod
 ---
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  

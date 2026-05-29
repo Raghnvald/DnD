@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Fungal Spores
 Rüstung: Mittel
+linter-yaml-title-alias: Armor of Fungal Spores
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -14,7 +15,6 @@ aliases:
   - Hide Armor of Fungal Spores
   - Scale Mail of Fungal Spores
   - Spiked Armor of Fungal Spores
-linter-yaml-title-alias: Armor of Fungal Spores
 ---
 # Armor of Fungal Spores
 *Uncommon*  

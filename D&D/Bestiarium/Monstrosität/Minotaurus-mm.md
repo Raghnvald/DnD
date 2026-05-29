@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Minotaur
+linter-yaml-title-alias: Minotaur
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Baba Yaga's Mortar and Pestle"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Baba Yaga's Mortar and Pestle"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
-  - Baba Yaga's Mortar and Pestle
-linter-yaml-title-alias: Baba Yaga's Mortar and Pestle
+  - "Baba Yaga's Mortar and Pestle"
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous item, artifact (requires attunement)*  

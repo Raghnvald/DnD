@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gatekeeper NPCs
+linter-yaml-title-alias: Gatekeeper NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

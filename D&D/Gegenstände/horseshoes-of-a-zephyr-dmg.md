@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horseshoes of a Zephyr
+linter-yaml-title-alias: Horseshoes of a Zephyr
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Horseshoes of a Zephyr
-linter-yaml-title-alias: Horseshoes of a Zephyr
 ---
 # Horseshoes of a Zephyr
 *Wondrous item, minor, very rare*  

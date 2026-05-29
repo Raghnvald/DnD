@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Umbrage Hill
+linter-yaml-title-alias: Umbrage Hill
 tags:
   - Quelle/5e/dip
 aliases:

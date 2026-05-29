@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blizzard
+linter-yaml-title-alias: Blizzard
 tags:
   - Kompendium/Bedrohung/wth
   - Quelle/5e/idrotf

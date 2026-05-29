@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Farmer
+linter-yaml-title-alias: Farmer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Farmer
-linter-yaml-title-alias: Farmer
 ---
 # [Farmer](3-Mechanics\CLI\bestiary\npc/farmer-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 36*  

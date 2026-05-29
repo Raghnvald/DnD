@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Istrid Horn
+linter-yaml-title-alias: Istrid Horn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Istrid Horn
-linter-yaml-title-alias: Istrid Horn
 ---
 # [Istrid Horn](3-Mechanics\CLI\bestiary\npc/istrid-horn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 199*  

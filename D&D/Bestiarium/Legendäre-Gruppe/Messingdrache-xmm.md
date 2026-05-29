@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brass Dragon
+linter-yaml-title-alias: Brass Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Macht der Vorstellungskraft
+linter-yaml-title-alias: Macht der Vorstellungskraft
 aliases:
+  - Macht der Vorstellungskraft
   - Phantasmal Force
 ---
 # Macht der Vorstellungskraft

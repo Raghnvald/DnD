@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Eyes of the Impossible
+linter-yaml-title-alias: Spells for Eyes of the Impossible
 tags:
   - ttrpg-cli/spell/list/reward/eyes-of-the-impossible
 aliases:
   - "Spells for Eyes of the Impossible"
+  - Spells for Eyes of the Impossible
 ---
 # Spells for Eyes of the Impossible
 

@@ -8,6 +8,7 @@ HG: 2
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Bronze Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Bronze Dragon Wyrmling
-linter-yaml-title-alias: Bronze Dragon Wyrmling
 ---
 # Bronze Dragon Wyrmling
 *Source: Monster Manual p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

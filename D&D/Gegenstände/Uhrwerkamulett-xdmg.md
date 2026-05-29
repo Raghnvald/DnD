@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Clockwork Amulet
+linter-yaml-title-alias: Clockwork Amulet
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Clockwork Amulet
-linter-yaml-title-alias: Clockwork Amulet
 ---
 # Clockwork Amulet
 *Wondrous item, common*  

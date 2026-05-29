@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gilden-/Zunfthandwerker
+linter-yaml-title-alias: Gilden-/Zunfthandwerker
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
+  - Gilden-/Zunfthandwerker
   - Guild Artisan
 ---
 # Gilden-/Zunfthandwerker

@@ -1,13 +1,14 @@
 ---
 Bezeichnung: "Scholar's Pack"
+Kst.: 40 GM
+Gew.: 11 kg
+linter-yaml-title-alias: "Scholar's Pack"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - "Scholar's Pack"
-  - Scholar's Pack
-linter-yaml-title-alias: "Scholar's Pack"
 ---
 # Scholar's Pack
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arawai
+linter-yaml-title-alias: Arawai
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shield Dwarf Guard
+linter-yaml-title-alias: Shield Dwarf Guard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

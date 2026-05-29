@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Draconic Sorcery
+linter-yaml-title-alias: Spells for Draconic Sorcery
 tags:
   - Zauber/list/subclass/draconic-sorcery
 aliases:

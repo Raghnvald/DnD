@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Squid
+linter-yaml-title-alias: Giant Squid
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/underwater

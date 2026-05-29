@@ -2,9 +2,11 @@
 Bezeichnung: Berserkeraxt
 Kategorie: Nahkampf-Kriegswaffe (beliebige Axt)
 Schaden: /
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+linter-yaml-title-alias: Berserkeraxt
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -12,7 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Berserker Axe
-linter-yaml-title-alias: Berserkeraxt
+  - Berserkeraxt
 ---
 # Berserkeraxt
 _Waffe (beliebige Streitaxt, Zweihandaxt oder Hellebarde), selten (erfordert Einstimmung)_

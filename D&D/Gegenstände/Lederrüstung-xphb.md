@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Leather Armor
 Rüstung: Leicht
+linter-yaml-title-alias: Leather Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Leather Armor
-linter-yaml-title-alias: Leather Armor
 ---
 # Leather Armor
 *Light armor*  

@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Wrath of Nature
+classes:
+  - Bard
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -13,13 +18,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Druid
-  - Ranger
 aliases:
   - Wrath of Nature
-linter-yaml-title-alias: Wrath of Nature
 ---
 # Wrath of Nature
 *5th-level, Evocation*  

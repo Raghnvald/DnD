@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Eberron Forge of the Artificer
+linter-yaml-title-alias: Index of Eberron Forge of the Artificer
+aliases:
+  - Index of Eberron Forge of the Artificer
 ---
 # Index of Eberron Forge of the Artificer
 

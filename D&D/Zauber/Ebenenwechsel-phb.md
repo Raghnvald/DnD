@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Plane Shift
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,16 +25,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Plane Shift
-linter-yaml-title-alias: Plane Shift
 ---
 # Plane Shift
 *7th-level, Conjuration*  

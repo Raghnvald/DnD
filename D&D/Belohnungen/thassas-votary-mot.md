@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Thassa's Votary"
+linter-yaml-title-alias: "Thassa's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

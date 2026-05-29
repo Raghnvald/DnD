@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Astral Adventurers Guide
+linter-yaml-title-alias: Index of Astral Adventurers Guide
+aliases:
+  - Index of Astral Adventurers Guide
 ---
 # Index of Astral Adventurers Guide
 

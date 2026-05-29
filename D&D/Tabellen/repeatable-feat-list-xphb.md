@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Repeatable; Feat List
+linter-yaml-title-alias: Repeatable; Feat List
 tags:
   - Quelle/5e/xphb
 aliases:

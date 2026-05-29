@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Grenade Launcher
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: 3,5 kg
+status: WIP
+linter-yaml-title-alias: Grenade Launcher
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -8,7 +14,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Grenade Launcher
-linter-yaml-title-alias: Grenade Launcher
 ---
 # Grenade Launcher
 *Adventuring gear*  

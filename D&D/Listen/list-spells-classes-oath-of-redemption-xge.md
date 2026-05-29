@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Oath of Redemption
+linter-yaml-title-alias: Spells for Oath of Redemption
 tags:
   - Zauber/list/subclass/oath-of-redemption
 aliases:

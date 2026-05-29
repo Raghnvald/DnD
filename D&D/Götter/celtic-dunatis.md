@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dunatis
+linter-yaml-title-alias: Dunatis
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/nature

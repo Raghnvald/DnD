@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Sledgehammer
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 2 GM
+Gew.: 5,0 kg
+status: WIP
+linter-yaml-title-alias: Sledgehammer
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Sledgehammer
-linter-yaml-title-alias: Sledgehammer
 ---
 # Sledgehammer
 *Adventuring gear*  

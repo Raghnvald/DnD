@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya Villains
+linter-yaml-title-alias: Selesnya Villains
 tags:
   - Quelle/5e/ggr
 aliases:

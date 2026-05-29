@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ram Sugar
+linter-yaml-title-alias: Ram Sugar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Ram Sugar
-linter-yaml-title-alias: Ram Sugar
 ---
 # [Ram Sugar](3-Mechanics\CLI\bestiary\npc/ram-sugar-cm.md)
 *Source: Candlekeep Mysteries p. 132*  

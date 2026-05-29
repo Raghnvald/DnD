@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vedalken
+linter-yaml-title-alias: Vedalken
 tags:
   - Quelle/5e/ggr
   - Rasse/vedalken

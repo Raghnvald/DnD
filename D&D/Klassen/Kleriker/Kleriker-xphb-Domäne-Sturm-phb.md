@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tempest Domain
+linter-yaml-title-alias: Tempest Domain
 tags:
   - Klasse/Kleriker/tempest
   - Kompendium/Götter/Domäne/tempest

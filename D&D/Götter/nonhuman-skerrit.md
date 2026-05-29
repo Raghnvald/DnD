@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skerrit
+linter-yaml-title-alias: Skerrit
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/nonhuman

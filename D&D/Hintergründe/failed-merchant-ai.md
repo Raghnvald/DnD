@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Failed Merchant
+linter-yaml-title-alias: Failed Merchant
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ai
 aliases:
   - "Failed Merchant"
+  - Failed Merchant
 ---
 # Failed Merchant
 *Source: Acquisitions Incorporated p. 49*  

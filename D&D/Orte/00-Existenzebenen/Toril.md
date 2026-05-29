@@ -2,7 +2,6 @@
 Bezeichnung: Toril
 tags:
   - Quelle/5e/phb
-aliases: []
 ---
 # Toril
 Informationen

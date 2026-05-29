@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warhorse (Ring Mail Barding)
+linter-yaml-title-alias: Warhorse (Ring Mail Barding)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt

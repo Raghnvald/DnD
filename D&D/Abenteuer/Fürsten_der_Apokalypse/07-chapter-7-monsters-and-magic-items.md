@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 7: Monsters and Magic Items"
+linter-yaml-title-alias: "Chapter 7: Monsters and Magic Items"
 tags:
   - Quelle/5e/pota
 aliases:

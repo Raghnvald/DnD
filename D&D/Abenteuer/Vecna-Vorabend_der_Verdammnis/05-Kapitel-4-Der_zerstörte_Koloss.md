@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: The Ruined Colossus"
+linter-yaml-title-alias: "Chapter 4: The Ruined Colossus"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 4: The Ruined Colossus"
   - Chapter 4: The Ruined Colossus
 ---
 # Chapter 4: The Ruined Colossus

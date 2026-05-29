@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Wind Walk
 Zaubergrad: 6
+linter-yaml-title-alias: Wind Walk
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Wind Walk
-linter-yaml-title-alias: Wind Walk
 ---
 # Wind Walk
 *6th-level, Transmutation*  

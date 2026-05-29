@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature Size; Size Categories
+linter-yaml-title-alias: Creature Size; Size Categories
 tags:
   - Quelle/5e/phb
 aliases:

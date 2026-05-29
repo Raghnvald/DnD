@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Training to Gain Levels
+linter-yaml-title-alias: Training to Gain Levels
 tags:
   - Quelle/5e/xdmg
 aliases:

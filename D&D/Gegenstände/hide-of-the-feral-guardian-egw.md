@@ -2,13 +2,15 @@
 Bezeichnung: Hide of the Feral Guardian
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: 6,5 kg
 RK: 12 + GES
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Hide of the Feral Guardian
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -16,7 +18,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Hide of the Feral Guardian
-linter-yaml-title-alias: Hide of the Feral Guardian
 ---
 # Hide of the Feral Guardian
 *Light armor ([studded leather armor](Beschlagene_Lederrüstung-xphb)), legendary (requires attunement)*  

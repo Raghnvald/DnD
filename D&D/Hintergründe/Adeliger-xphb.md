@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Noble
+linter-yaml-title-alias: Noble
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

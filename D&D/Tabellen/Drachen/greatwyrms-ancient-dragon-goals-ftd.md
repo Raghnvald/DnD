@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Greatwyrms; Ancient Dragon Goals
+linter-yaml-title-alias: Greatwyrms; Ancient Dragon Goals
 tags:
   - Quelle/5e/ftd
 aliases:

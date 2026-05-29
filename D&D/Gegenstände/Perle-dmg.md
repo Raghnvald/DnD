@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Perle
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Perle
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Pearl
-linter-yaml-title-alias: Pearl
+  - Perle
 ---
 # Perle
 *Schatz (Edelstein)*  

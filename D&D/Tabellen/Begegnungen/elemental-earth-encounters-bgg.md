@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Earth Encounters
+linter-yaml-title-alias: Elemental Earth Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

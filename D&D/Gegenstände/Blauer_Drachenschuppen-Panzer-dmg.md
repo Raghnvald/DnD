@@ -2,20 +2,21 @@
 Bezeichnung: Blauer Drachenschuppen-Panzer
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 4.000 GM
 Gew.: 20,0 kg
 RK: 14 + GES (max +2)
 STR: n/v
 Heiml.: Nachteil
+linter-yaml-title-alias: Blauer Drachenschuppen-Panzer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Blue Dragon Scale Mail
-linter-yaml-title-alias: Blue Dragon Scale Mail
+  - Blauer Drachenschuppen-Panzer
 ---
 # Blauer Drachenschuppen-Panzer
 *Rüstung ([[Schuppenpanzer-phb|Schuppenpanzer]]), sehr selten (erfordert Einstimmung)*  

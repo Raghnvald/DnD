@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Demonomicon of Iggwilv
+linter-yaml-title-alias: Demonomicon of Iggwilv
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:
   - Demonomicon of Iggwilv
-linter-yaml-title-alias: Demonomicon of Iggwilv
 ---
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  

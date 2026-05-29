@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Belt of Hill Giant Strength
+linter-yaml-title-alias: Belt of Hill Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Belt of Hill Giant Strength
-linter-yaml-title-alias: Belt of Hill Giant Strength
 ---
 # Belt of Hill Giant Strength
 *Wondrous item, rare (requires attunement)*  

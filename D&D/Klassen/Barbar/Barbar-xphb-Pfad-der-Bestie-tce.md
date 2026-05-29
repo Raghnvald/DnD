@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Beast
+linter-yaml-title-alias: Path of the Beast
 tags:
   - Klasse/Barbar/beast
   - Quelle/5e/tce

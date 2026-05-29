@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Schlickmeister
+linter-yaml-title-alias: Schlickmeister
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10
   - Monster/Typ/Untote
   - Quelle/5e/tftyp
 aliases:
-  - Ooze Master
-linter-yaml-title-alias: Ooze Master
+  - Schlickmeister
 ---
 # Schlickmeister
 *Source: Tales from the Yawning Portal p. 241*  

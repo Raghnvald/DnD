@@ -1,5 +1,6 @@
 ---
 Bezeichnung: What Happens Next?; Lower Sharn Street Events
+linter-yaml-title-alias: What Happens Next?; Lower Sharn Street Events
 tags:
   - Quelle/5e/erlw
 aliases:

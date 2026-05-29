@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Riding Horse
+linter-yaml-title-alias: Skeletal Riding Horse
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dip
 aliases:
   - Skeletal Riding Horse
-linter-yaml-title-alias: Skeletal Riding Horse
 ---
 # [Skeletal Riding Horse](3-Mechanics\CLI\bestiary\undead/skeletal-riding-horse-dip.md)
 *Source: Dragon of Icespire Peak p. 21*  

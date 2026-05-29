@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Proficiency Bonus by Challenge Rating
+linter-yaml-title-alias: Proficiency Bonus by Challenge Rating
 tags:
   - Quelle/5e/xmm
 aliases:

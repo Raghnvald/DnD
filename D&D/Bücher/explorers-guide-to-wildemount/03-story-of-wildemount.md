@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Story of Wildemount
+linter-yaml-title-alias: Story of Wildemount
 tags:
   - Quelle/5e/egw
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hulil Lutan
+linter-yaml-title-alias: Hulil Lutan
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Hulil Lutan
-linter-yaml-title-alias: Hulil Lutan
 ---
 # [Hulil Lutan](3-Mechanics\CLI\bestiary\npc/hulil-lutan-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  

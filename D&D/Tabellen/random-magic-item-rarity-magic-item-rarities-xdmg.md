@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Magic Item Rarity; Magic Item Rarities
+linter-yaml-title-alias: Random Magic Item Rarity; Magic Item Rarities
 tags:
   - Quelle/5e/xdmg
 aliases:

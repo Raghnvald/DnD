@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf (Drow Descent)
+linter-yaml-title-alias: Half-Elf (Drow Descent)
 tags:
   - Quelle/5e/scag
   - Rasse/half-elf/drow-descent

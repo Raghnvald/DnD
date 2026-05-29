@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Multiclassing Proficiencies
+linter-yaml-title-alias: Multiclassing Proficiencies
 tags:
   - Quelle/5e/phb
 aliases:

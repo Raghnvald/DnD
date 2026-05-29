@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Competition for a Hoard; Hoard Magic
+linter-yaml-title-alias: Competition for a Hoard; Hoard Magic
 tags:
   - Quelle/5e/ftd
 aliases:

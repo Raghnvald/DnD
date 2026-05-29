@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Helmed Horror
+linter-yaml-title-alias: Reduced-Threat Helmed Horror
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

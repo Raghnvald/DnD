@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alathrien Druanna
+linter-yaml-title-alias: Alathrien Druanna
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

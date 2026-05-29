@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lathander, Gott der Morgendämmerung und der Erneuerung
+linter-yaml-title-alias: Lathander, Gott der Morgendämmerung und der Erneuerung
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Lathander
+  - Lathander, Gott der Morgendämmerung und der Erneuerung
 ---
 # Lathander, Gott der Morgendämmerung und der Erneuerung
 *Quelle: SRD / Grundregelwerk* 

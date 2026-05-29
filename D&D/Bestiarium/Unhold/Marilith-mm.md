@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Marilith
+linter-yaml-title-alias: Marilith
 tags:
   - Monster/Größe/Groß
   - Monster/HG/16

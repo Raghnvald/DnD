@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mask
+linter-yaml-title-alias: Mask
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/faerunian

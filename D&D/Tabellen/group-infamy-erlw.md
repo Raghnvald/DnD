@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Group Infamy
+linter-yaml-title-alias: Group Infamy
 tags:
   - Quelle/5e/erlw
 aliases:

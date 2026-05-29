@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gift of Alacrity
 Zaubergrad: 1
+linter-yaml-title-alias: Gift of Alacrity
 tags:
   - Kompendium/Talent/fey-touched
   - Quelle/5e/egw

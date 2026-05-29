@@ -10,6 +10,7 @@ Habitat:
   - Stadt
 image:
 status: completed
+linter-yaml-title-alias: Strahd von Zarovich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -17,7 +18,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Strahd von Zarovich
-linter-yaml-title-alias: Strahd von Zarovich
 ---
 # Strahd von Zarovich
 *Quellen: Fluch des Strahd S. 240*  

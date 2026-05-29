@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Gloom Stalker
+linter-yaml-title-alias: Spells for Gloom Stalker
 tags:
   - Zauber/list/subclass/gloom-stalker
 aliases:

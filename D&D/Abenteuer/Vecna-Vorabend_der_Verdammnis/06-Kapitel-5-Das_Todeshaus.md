@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Death House"
+linter-yaml-title-alias: "Chapter 5: Death House"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 5: Death House"
   - Chapter 5: Death House
 ---
 # Chapter 5: Death House

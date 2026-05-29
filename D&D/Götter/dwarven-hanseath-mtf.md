@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hanseath
+linter-yaml-title-alias: Hanseath
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/Domäne/war

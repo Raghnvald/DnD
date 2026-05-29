@@ -1,12 +1,17 @@
 ---
 Bezeichnung: "Alchemist's Fire"
+Eigenschaften:
+  - /
+Kst.: 50 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: "Alchemist's Fire"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Alchemist's Fire
-linter-yaml-title-alias: Alchemist's Fire
+  - "Alchemist's Fire"
 ---
 # Alchemist's Fire
 *Adventuring gear*  

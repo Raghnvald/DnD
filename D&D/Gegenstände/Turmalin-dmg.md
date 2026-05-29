@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Turmalin
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Turmalin
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Tourmaline
-linter-yaml-title-alias: Tourmaline
+  - Turmalin
 ---
 # Turmalin
 *Schatz (Edelstein)*  

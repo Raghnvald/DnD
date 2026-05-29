@@ -6,6 +6,7 @@ Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 3
 status: WIP
+linter-yaml-title-alias: Githzerai Traveler
 tags:
   - Quelle/5e/mpp
   - ttrpg-cli/monster/cr/3

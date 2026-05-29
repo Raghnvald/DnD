@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fate Hag
+linter-yaml-title-alias: Fate Hag
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

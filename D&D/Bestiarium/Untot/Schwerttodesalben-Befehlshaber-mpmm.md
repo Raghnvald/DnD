@@ -5,6 +5,7 @@ Bezeichnung: Sword Wraith Commander
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 8
+linter-yaml-title-alias: Sword Wraith Commander
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland
@@ -14,7 +15,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Sword Wraith Commander
-linter-yaml-title-alias: Sword Wraith Commander
 ---
 # [Sword Wraith Commander](3-Mechanics\CLI\bestiary\undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  

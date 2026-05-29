@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inquisitor of the Sword
+linter-yaml-title-alias: Inquisitor of the Sword
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

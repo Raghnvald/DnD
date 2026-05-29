@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tin Soldier
+linter-yaml-title-alias: Tin Soldier
 tags:
   - Quelle/5e/wbtw
   - ttrpg-cli/monster/cr/1
@@ -9,6 +10,7 @@ tags:
   - ttrpg-cli/monster/type/construct
 aliases:
   - "Tin Soldier"
+  - Tin Soldier
 ---
 # [Tin Soldier](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 115*  

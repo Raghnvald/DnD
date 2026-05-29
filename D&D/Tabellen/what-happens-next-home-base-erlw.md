@@ -1,5 +1,6 @@
 ---
 Bezeichnung: What Happens Next?; Home Base
+linter-yaml-title-alias: What Happens Next?; Home Base
 tags:
   - Quelle/5e/erlw
 aliases:

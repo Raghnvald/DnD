@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Shiftweave
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Shiftweave
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Shiftweave
-linter-yaml-title-alias: Shiftweave
 ---
 # Shiftweave
 *Wondrous item, common*  

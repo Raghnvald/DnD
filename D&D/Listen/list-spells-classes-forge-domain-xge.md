@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Forge Domain
+linter-yaml-title-alias: Spells for Forge Domain
 tags:
   - Zauber/list/subclass/forge-domain
 aliases:

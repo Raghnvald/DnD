@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Leira
+linter-yaml-title-alias: Leira
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/faerunian

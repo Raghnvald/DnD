@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gynosphinx
+linter-yaml-title-alias: Gynosphinx
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

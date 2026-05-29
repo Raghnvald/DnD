@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Between Adventures
+linter-yaml-title-alias: Between Adventures
 tags:
   - Quelle/5e/dmg
 aliases:

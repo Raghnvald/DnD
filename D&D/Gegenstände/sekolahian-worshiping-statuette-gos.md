@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Sekolahian Worshiping Statuette
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Sekolahian Worshiping Statuette
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/gos
 aliases:
   - Sekolahian Worshiping Statuette
-linter-yaml-title-alias: Sekolahian Worshiping Statuette
 ---
 # Sekolahian Worshiping Statuette
 *Wondrous item, common*  

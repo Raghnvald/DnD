@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Answering the Call"
+linter-yaml-title-alias: "Introduction: Answering the Call"
 tags:
   - Quelle/5e/crcotn
 aliases:

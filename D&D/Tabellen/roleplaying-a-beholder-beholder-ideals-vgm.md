@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Beholder; Beholder Ideals
+linter-yaml-title-alias: Roleplaying a Beholder; Beholder Ideals
 tags:
   - Quelle/5e/vgm
 aliases:

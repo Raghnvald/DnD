@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Osiris
+linter-yaml-title-alias: Osiris
 tags:
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/life

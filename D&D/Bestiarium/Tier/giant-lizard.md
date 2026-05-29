@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Lizard
+linter-yaml-title-alias: Giant Lizard
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

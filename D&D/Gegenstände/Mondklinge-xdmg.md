@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Moonblade
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+linter-yaml-title-alias: Moonblade
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -15,7 +16,6 @@ aliases:
   - Moonblade Rapier
   - Moonblade Scimitar
   - Moonblade Shortsword
-linter-yaml-title-alias: Moonblade
 ---
 # Moonblade
 *Legendary (requires attunement by a creature of the weapon's choice)*  

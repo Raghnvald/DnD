@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shoosuva
+linter-yaml-title-alias: Shoosuva
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

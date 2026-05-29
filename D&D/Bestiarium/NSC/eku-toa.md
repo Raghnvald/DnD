@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eku
+linter-yaml-title-alias: Eku
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Eku
-linter-yaml-title-alias: Eku
 ---
 # [Eku](3-Mechanics\CLI\bestiary\npc/eku-toa.md)
 *Source: Tomb of Annihilation p. 34*  

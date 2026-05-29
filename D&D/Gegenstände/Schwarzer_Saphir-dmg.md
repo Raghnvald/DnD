@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Schwarzer Saphir
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Schwarzer Saphir
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Black Sapphire
-linter-yaml-title-alias: Black Sapphire
+  - Schwarzer Saphir
 ---
 # Schwarzer Saphir
 *Schatz (Edelstein)*  

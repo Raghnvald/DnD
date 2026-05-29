@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Painter's Supplies"
+linter-yaml-title-alias: "Painter's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Painter's Supplies
-linter-yaml-title-alias: Painter's Supplies
+  - "Painter's Supplies"
 ---
 # Painter's Supplies
 *Artisan's tools*  

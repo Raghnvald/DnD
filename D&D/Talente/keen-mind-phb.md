@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keen Mind
+linter-yaml-title-alias: Keen Mind
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

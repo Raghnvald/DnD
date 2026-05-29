@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Appendix C - Handouts
+linter-yaml-title-alias: Appendix C - Handouts
 tags:
   - Quelle/5e/wtthc
 aliases:
   - "Appendix C - Handouts"
+  - Appendix C - Handouts
 ---
 # Appendix C - Handouts
 *Source: Stranger Things: Welcome to the Hellfire Club* 

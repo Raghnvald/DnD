@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sovereign Glue
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Sovereign Glue
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
   - Sovereign Glue
-linter-yaml-title-alias: Sovereign Glue
 ---
 # Sovereign Glue
 *Wondrous item, minor, legendary*  

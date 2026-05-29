@@ -1,13 +1,18 @@
 ---
 Bezeichnung: "Biza's Breath"
 Kategorie: Gift
+Eigenschaften:
+  - Gift
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: "Biza's Breath"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/jttrc
 aliases:
-  - Biza's Breath
-linter-yaml-title-alias: Biza's Breath
+  - "Biza's Breath"
 ---
 # Biza's Breath
 *Adventuring gear, poison (inhaled)*  

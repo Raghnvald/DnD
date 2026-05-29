@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn
+linter-yaml-title-alias: Dragonborn
 tags:
   - Quelle/5e/xphb
   - Rasse/dragonborn

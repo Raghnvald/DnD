@@ -1,15 +1,19 @@
 ---
 Bezeichnung: Säurephiole
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Säurephiole
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Acid (vial)
+  - Säurephiole
 ---
 # Säurephiole
 *Abenteuerausrüstung*

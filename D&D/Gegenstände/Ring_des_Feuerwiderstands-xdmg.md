@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ring of Fire Resistance
+linter-yaml-title-alias: Ring of Fire Resistance
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
   - Ring of Fire Resistance
-linter-yaml-title-alias: Ring of Fire Resistance
 ---
 # Ring of Fire Resistance
 *Ring, rare*  

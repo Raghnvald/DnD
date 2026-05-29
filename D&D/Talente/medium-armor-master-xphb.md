@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Medium Armor Master
+linter-yaml-title-alias: Medium Armor Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

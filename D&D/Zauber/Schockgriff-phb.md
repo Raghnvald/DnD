@@ -7,6 +7,13 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: Nah
 Schaden: 1d8 Blitz
+linter-yaml-title-alias: Schockgriff
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -19,15 +26,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Shocking Grasp
-linter-yaml-title-alias: Shocking Grasp
+  - Schockgriff
 ---
 # Schockgriff
 _Zaubertrick der Hervorrufung_

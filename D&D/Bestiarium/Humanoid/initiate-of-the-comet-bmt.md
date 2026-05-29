@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Initiate of the Comet
+linter-yaml-title-alias: Initiate of the Comet
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/warlock
+  - Monster/Typ/Humanoid/Hexenmeister
   - Quelle/5e/bmt
 aliases:
   - Initiate of the Comet

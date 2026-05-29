@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Kamel
 Kategorie: Reit- und Lastentier
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Kamel
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Camel
+  - Kamel
 Bew.: 15 m
-linter-yaml-title-alias: Camel
 Traglast: 480 Pfd.
 ---
 # Kamel

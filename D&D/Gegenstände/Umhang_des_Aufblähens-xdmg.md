@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Cloak of Billowing
+linter-yaml-title-alias: Cloak of Billowing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Cloak of Billowing
-linter-yaml-title-alias: Cloak of Billowing
 ---
 # Cloak of Billowing
 *Wondrous item, common*  

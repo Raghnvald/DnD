@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Prisoners of the Drow"
+linter-yaml-title-alias: "Chapter 1: Prisoners of the Drow"
 tags:
   - Quelle/5e/oota
 aliases:

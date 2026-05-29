@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Asmodeus, Gott des Genusses
+linter-yaml-title-alias: Asmodeus, Gott des Genusses
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Lust
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Asmodeus
+  - Asmodeus, Gott des Genusses
 ---
 # Asmodeus, Gott des Genusses
 *Quelle: SRD / Grundregelwerk* 

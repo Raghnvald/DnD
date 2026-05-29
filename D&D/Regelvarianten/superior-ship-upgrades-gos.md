@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Superior Ship Upgrades
+linter-yaml-title-alias: Superior Ship Upgrades
 tags:
   - Quelle/5e/gos
 aliases:
   - "Superior Ship Upgrades"
+  - Superior Ship Upgrades
 ---
 # Superior Ship Upgrades
 *Source: Ghosts of Saltmarsh p. 196* 

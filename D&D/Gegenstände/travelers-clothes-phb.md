@@ -1,13 +1,18 @@
 ---
 Bezeichnung: "Traveler's Clothes"
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 2 GM
+Gew.: 2,0 kg
+status: WIP
+linter-yaml-title-alias: "Traveler's Clothes"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Traveler's Clothes
-linter-yaml-title-alias: Traveler's Clothes
+  - "Traveler's Clothes"
 ---
 # Traveler's Clothes
 *Adventuring gear*  

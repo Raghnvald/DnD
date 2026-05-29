@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Hellish Rebuke
+classes:
+  - Bard (Magical Secrets)
+  - Paladin (Oathbreaker)
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -17,13 +22,8 @@ tags:
   - Subrasse/tiefling
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin (Oathbreaker)
-  - Warlock
 aliases:
   - Hellish Rebuke
-linter-yaml-title-alias: Hellish Rebuke
 ---
 # Hellish Rebuke
 *1st-level, Evocation*  

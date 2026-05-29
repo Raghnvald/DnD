@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loxodon
+linter-yaml-title-alias: Loxodon
 tags:
   - Quelle/5e/ggr
   - Rasse/loxodon

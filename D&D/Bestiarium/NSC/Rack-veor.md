@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rack
+image: token/rack-veor.webp
 status: WIP
+linter-yaml-title-alias: Rack
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Rack
-linter-yaml-title-alias: Rack
 ---
 # [Rack](3-Mechanics\CLI\bestiary\npc/rack-veor.md)
 *Source: Vecna: Eve of Ruin*  

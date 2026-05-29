@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Hoard; Hoard Art Objects
+linter-yaml-title-alias: Creating a Hoard; Hoard Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

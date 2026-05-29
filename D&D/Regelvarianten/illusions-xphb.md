@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Illusions
+linter-yaml-title-alias: Illusions
 tags:
   - Quelle/5e/xphb
 aliases:

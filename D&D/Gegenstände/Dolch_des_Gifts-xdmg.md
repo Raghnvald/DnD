@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dagger of Venom
+linter-yaml-title-alias: Dagger of Venom
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Dagger of Venom
-linter-yaml-title-alias: Dagger of Venom
 ---
 # Dagger of Venom
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Bloodwell Vial
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: +3 Bloodwell Vial
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +3 Bloodwell Vial
-linter-yaml-title-alias: +3 Bloodwell Vial
 ---
 # +3 Bloodwell Vial
 *Wondrous item, very rare (requires attunement by a sorcerer)*  

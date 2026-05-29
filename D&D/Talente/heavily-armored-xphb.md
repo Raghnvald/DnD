@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavily Armored
+linter-yaml-title-alias: Heavily Armored
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Water Elemental
+linter-yaml-title-alias: Water Elemental
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

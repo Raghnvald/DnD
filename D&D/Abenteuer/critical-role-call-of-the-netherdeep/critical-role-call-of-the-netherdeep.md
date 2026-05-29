@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Critical Role Call of the Netherdeep
+linter-yaml-title-alias: Index of Critical Role Call of the Netherdeep
+aliases:
+  - Index of Critical Role Call of the Netherdeep
 ---
 # Index of Critical Role Call of the Netherdeep
 

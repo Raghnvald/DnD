@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Describe Appearance and Personality; Intelligence
+linter-yaml-title-alias: Describe Appearance and Personality; Intelligence
 tags:
   - Quelle/5e/xphb
 aliases:

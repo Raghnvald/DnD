@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Devil Customization Tables
+linter-yaml-title-alias: Devil Customization Tables
 tags:
   - Quelle/5e/mtf
 aliases:

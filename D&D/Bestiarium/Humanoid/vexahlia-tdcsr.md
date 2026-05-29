@@ -2,12 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Vex'ahlia"
+linter-yaml-title-alias: "Vex'ahlia"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18
   - Monster/Typ/Humanoid/half-elf
   - Quelle/5e/tdcsr
 aliases:
+  - "Vex'ahlia"
   - Vex'ahlia
 ---
 # [Vex'ahlia](3-Mechanics\CLI\bestiary\humanoid/vexahlia-tdcsr.md)

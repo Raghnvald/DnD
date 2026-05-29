@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Player Characters as Vampires
+linter-yaml-title-alias: Player Characters as Vampires
 tags:
   - Quelle/5e/mm
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selune, Göttin des Mondes
+linter-yaml-title-alias: Selune, Göttin des Mondes
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Selune
+  - Selune, Göttin des Mondes
 ---
 # Selune, Göttin des Mondes
 *Quelle: SRD / Grundregelwerk* 

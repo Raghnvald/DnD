@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Kielboot
 Kategorie: Luft- und Wasserfahrzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 3.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Kielboot
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Keelboat
+  - Kielboot
 Bew.: 1,5 km/h
-linter-yaml-title-alias: Keelboat
 ---
 # Kielboot
 *Schiff, Fahrzeug (Wasser)*  

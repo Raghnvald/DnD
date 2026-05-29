@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Decay; States of Ruin
+linter-yaml-title-alias: Dungeon Decay; States of Ruin
 tags:
   - Quelle/5e/xdmg
 aliases:

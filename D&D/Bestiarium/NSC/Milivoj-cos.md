@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Milivoj
+linter-yaml-title-alias: Milivoj
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Milivoj
-linter-yaml-title-alias: Milivoj
 ---
 # Milivoj
 *Source: Curse of Strahd p. 97*  

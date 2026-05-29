@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Performing Sacred Rites"
+linter-yaml-title-alias: "Downtime Activity: Performing Sacred Rites"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Downtime Activity: Performing Sacred Rites"
   - Downtime Activity: Performing Sacred Rites
 ---
 # Downtime Activity: Performing Sacred Rites

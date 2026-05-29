@@ -2,12 +2,15 @@
 Bezeichnung: Adamantrüstung
 Kategorie: Rüstung
 Rüstung: Mittel oder Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+Status: completed
+linter-yaml-title-alias: Adamantrüstung
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -26,8 +29,6 @@ aliases:
   - Adamantine Spiked Armor
   - Adamantine Splint Armor
   - Adamantrüstung
-linter-yaml-title-alias: Adamantrüstung
-Status: completed
 ---
 # Adamantrüstung
 *Rüstung (mittelschwer oder schwer, kein Fell), ungewöhnlich*  

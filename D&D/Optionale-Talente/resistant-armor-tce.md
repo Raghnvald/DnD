@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resistant Armor
+linter-yaml-title-alias: Resistant Armor
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

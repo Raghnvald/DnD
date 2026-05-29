@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Charm Monster
+linter-yaml-title-alias: Charm Monster
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Draconic Sorcery)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -12,18 +22,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Draconic Sorcery)
-  - Warlock
-  - Wizard
 aliases:
   - Charm Monster
-linter-yaml-title-alias: Charm Monster
 ---
 # Charm Monster
 *4th-level, Enchantment*  

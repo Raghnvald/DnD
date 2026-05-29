@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rivermaw Brawler
+linter-yaml-title-alias: Rivermaw Brawler
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Foresight
+linter-yaml-title-alias: Foresight
+classes:
+  - Bard
+  - Druid
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Subklasse/diviner
   - Zauber/Grad/9
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Druid
-  - Warlock
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Foresight
-linter-yaml-title-alias: Foresight
 ---
 # Foresight
 *9th-level, Divination*  

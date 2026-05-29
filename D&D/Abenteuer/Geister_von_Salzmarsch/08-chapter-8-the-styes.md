@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 8: The Styes"
+linter-yaml-title-alias: "Chapter 8: The Styes"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Chapter 8: The Styes"
   - Chapter 8: The Styes
 ---
 # Chapter 8: The Styes

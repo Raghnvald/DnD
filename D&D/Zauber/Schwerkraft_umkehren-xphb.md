@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Reverse Gravity
+linter-yaml-title-alias: Reverse Gravity
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/7
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
   - Reverse Gravity
-linter-yaml-title-alias: Reverse Gravity
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: The Tenth District"
+linter-yaml-title-alias: "Chapter 3: The Tenth District"
 tags:
   - Quelle/5e/ggr
 aliases:
+  - "Chapter 3: The Tenth District"
   - Chapter 3: The Tenth District
 ---
 # Chapter 3: The Tenth District

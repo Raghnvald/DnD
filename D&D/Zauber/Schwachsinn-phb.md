@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Feeblemind
 Zaubergrad: 8
+linter-yaml-title-alias: Feeblemind
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Warlock
-  - Wizard
 aliases:
   - Feeblemind
-linter-yaml-title-alias: Feeblemind
 ---
 # Feeblemind
 *8th-level, Enchantment*  

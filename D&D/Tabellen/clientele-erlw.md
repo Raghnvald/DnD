@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clientele
+linter-yaml-title-alias: Clientele
 tags:
   - Quelle/5e/erlw
 aliases:

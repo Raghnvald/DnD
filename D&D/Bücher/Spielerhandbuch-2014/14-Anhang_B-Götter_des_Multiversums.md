@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gods of the Multiverse
+linter-yaml-title-alias: Gods of the Multiverse
 tags:
   - Quelle/5e/phb
 aliases:

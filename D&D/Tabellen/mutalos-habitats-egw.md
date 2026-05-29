@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mutalos Habitats
+linter-yaml-title-alias: Mutalos Habitats
 tags:
   - Quelle/5e/egw
 aliases:

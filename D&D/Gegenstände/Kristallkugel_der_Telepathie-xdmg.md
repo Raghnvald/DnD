@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Crystal Ball of Telepathy
+linter-yaml-title-alias: Crystal Ball of Telepathy
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Crystal Ball of Telepathy
-linter-yaml-title-alias: Crystal Ball of Telepathy
 ---
 # Crystal Ball of Telepathy
 *Wondrous item, legendary (requires attunement)*  

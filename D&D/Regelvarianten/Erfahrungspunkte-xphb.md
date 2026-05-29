@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Experience Points
+linter-yaml-title-alias: Experience Points
 tags:
   - Quelle/5e/xphb
 aliases:

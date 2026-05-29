@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Sun Staff
+Eigenschaften:
+  - erfordert Einstimmung durch einen Druiden, Kleriker oder Magier
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Sun Staff
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +14,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Sun Staff
-linter-yaml-title-alias: Sun Staff
 ---
 # Sun Staff
 *Staff, weapon, rare (requires attunement by a cleric, druid, or wizard)*  

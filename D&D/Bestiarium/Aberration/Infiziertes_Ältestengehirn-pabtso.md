@@ -5,7 +5,9 @@ Bezeichnung: Infiziertes Ältestengehirn
 Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 11
+Image: token/infected-elder-brain-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Infiziertes Ältestengehirn
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -13,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Infected Elder Brain
-Image: token/infected-elder-brain-pabtso.webp
+  - Infiziertes Ältestengehirn
 ---
 # Infiziertes Ältestengehirn
 *Source: Phandelver and Below: The Shattered Obelisk p. 159*  

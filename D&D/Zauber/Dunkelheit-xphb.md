@@ -7,6 +7,19 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Darkness
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Monk (Warrior of Shadow)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Shadow Magic)
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -23,21 +36,8 @@ tags:
   - Subklasse/warrior-of-shadow
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Monk (Warrior of Shadow)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Shadow Magic)
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Darkness
-linter-yaml-title-alias: Darkness
 ---
 # Darkness
 *2nd-level, Evocation*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young-Gi
+linter-yaml-title-alias: Young-Gi
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Young-Gi
-linter-yaml-title-alias: Young-Gi
 ---
 # [Young-Gi](3-Mechanics\CLI\bestiary\npc/young-gi-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 85*  

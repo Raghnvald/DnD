@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Dwarves in the Clan; Clan's Notable Trait"
+linter-yaml-title-alias: "Dwarves in the Clan; Clan's Notable Trait"
 tags:
   - Quelle/5e/mtf
 aliases:
+  - "Dwarves in the Clan; Clan's Notable Trait"
   - Dwarves in the Clan; Clan's Notable Trait
 ---
 # Dwarves in the Clan; Clan's Notable Trait

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Guardian Emblem
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Guardian Emblem
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Guardian Emblem
-linter-yaml-title-alias: Guardian Emblem
 ---
 # Guardian Emblem
 *Wondrous item, uncommon (requires attunement by a cleric or paladin)*  

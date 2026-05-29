@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mr. Dory
+linter-yaml-title-alias: Mr. Dory
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Mr. Dory
-linter-yaml-title-alias: Mr. Dory
 ---
 # [Mr. Dory](3-Mechanics\CLI\bestiary\npc/mr-dory-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  

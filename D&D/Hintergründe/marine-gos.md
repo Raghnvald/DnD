@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Marine
+linter-yaml-title-alias: Marine
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos

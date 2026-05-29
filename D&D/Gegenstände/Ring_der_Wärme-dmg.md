@@ -1,19 +1,22 @@
 ---
-Bezeichnung: Ring of Warmth
+Bezeichnung: Ring der Wärme
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring der Wärme
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Warmth
-linter-yaml-title-alias: Ring of Warmth
+  - Ring der Wärme
 ---
-# Ring of Warmth
-*Ring, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-warmth.webp#right)
+# Ring der Wärme
+*Ring, ungewöhnlich (benötigt Einstimmung)*  
+![](img/ring-of-warmth.webp#right)
 
-While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
+Während du diesen Ring trägst, hast du Resistenz gegen Kälteschaden. Zusätzlich nimmst du und alles, was du bei dir und am Körper trägst, keinen Schaden bei Temperaturen von bis zu -45 Grad Celsius.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

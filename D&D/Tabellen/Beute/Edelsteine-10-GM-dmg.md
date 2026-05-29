@@ -1,8 +1,10 @@
 ---
 Bezeichnung: 10 GM Edelsteine
+linter-yaml-title-alias: 10 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
+  - 10 GM Edelsteine
   - 10 gp Gemstones
 ---
 # 10 GM Edelsteine

@@ -8,12 +8,14 @@ HG: 8
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Augendrache
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8
   - Monster/Typ/Aberration
   - Quelle/5e/ftd
 aliases:
+  - Augendrache
   - Eyedrake
 ---
 # Augendrache

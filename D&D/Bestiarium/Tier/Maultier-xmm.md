@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mule
+linter-yaml-title-alias: Mule
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Hügel

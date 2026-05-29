@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Carrionette
+linter-yaml-title-alias: Carrionette
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1

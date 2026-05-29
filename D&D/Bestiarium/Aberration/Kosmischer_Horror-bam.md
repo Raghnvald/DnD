@@ -5,7 +5,9 @@ Bezeichnung: Cosmic Horror
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 18
+image: token/cosmic-horror-bam.webp
 status: WIP
+linter-yaml-title-alias: Cosmic Horror
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/18

@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cadaver Collector
+Kategorie: Konstrukt
+image: token/cadaver-collector-mpmm.webp
+linter-yaml-title-alias: Cadaver Collector
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

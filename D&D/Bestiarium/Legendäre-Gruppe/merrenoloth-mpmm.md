@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Merrenoloth
+linter-yaml-title-alias: Merrenoloth
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

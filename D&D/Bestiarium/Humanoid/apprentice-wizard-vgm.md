@@ -6,6 +6,7 @@ Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 HG: 1/4
 status: WIP
+linter-yaml-title-alias: Apprentice Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

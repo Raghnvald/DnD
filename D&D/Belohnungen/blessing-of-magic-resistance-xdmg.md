@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Magic Resistance
+linter-yaml-title-alias: Blessing of Magic Resistance
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/xdmg

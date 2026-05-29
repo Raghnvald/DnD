@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Dogsled
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 20 GM
 Gew.: 150,0 kg
+status: WIP
+linter-yaml-title-alias: Dogsled
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
   - Dogsled
-linter-yaml-title-alias: Dogsled
 ---
 # Dogsled
 *Vehicle (land)*  

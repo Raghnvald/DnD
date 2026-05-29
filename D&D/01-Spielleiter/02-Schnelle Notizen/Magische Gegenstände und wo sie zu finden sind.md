@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Gwyn
+linter-yaml-title-alias: Gwyn
+aliases:
+  - Gwyn
 ---
 # Gwyn
 - [Dieb_der_neun_Leben-dmg](Dieb_der_neun_Leben-dmg.md)

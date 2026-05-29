@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Teleportation Circle
+linter-yaml-title-alias: Teleportation Circle
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -9,7 +10,6 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Teleportation Circle
-linter-yaml-title-alias: Teleportation Circle
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

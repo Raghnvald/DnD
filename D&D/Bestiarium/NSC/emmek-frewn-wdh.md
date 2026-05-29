@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Emmek Frewn
+linter-yaml-title-alias: Emmek Frewn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Emmek Frewn
-linter-yaml-title-alias: Emmek Frewn
 ---
 # [Emmek Frewn](3-Mechanics\CLI\bestiary\npc/emmek-frewn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 42*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Intelligente magische Gegenstände; Kommunikation
+linter-yaml-title-alias: Intelligente magische Gegenstände; Kommunikation
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Intelligente magische Gegenstände; Kommunikation
   - Sentient Magic Item Communication
 ---
 # Intelligente magische Gegenstände; Kommunikation

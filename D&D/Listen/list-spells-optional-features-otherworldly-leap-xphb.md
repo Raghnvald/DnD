@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Otherworldly Leap
+linter-yaml-title-alias: Spells for Otherworldly Leap
 tags:
   - Zauber/list/optfeature/otherworldly-leap
 aliases:

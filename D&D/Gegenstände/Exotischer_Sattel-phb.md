@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Exotischer Sattel
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 60 GM
 Gew.: 20,0 kg
+status: WIP
+linter-yaml-title-alias: Exotischer Sattel
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Exotic Saddle
-linter-yaml-title-alias: Exotic Saddle
+  - Exotischer Sattel
 ---
 # Exotischer Sattel
 *Zaumzeug und Harnisch*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Yuan-ti Humanoid Skin Color
+linter-yaml-title-alias: Physical Variations; Yuan-ti Humanoid Skin Color
 tags:
   - Quelle/5e/vgm
 aliases:

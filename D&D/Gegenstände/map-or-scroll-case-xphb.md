@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Map or Scroll Case
+linter-yaml-title-alias: Map or Scroll Case
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Map or Scroll Case
-linter-yaml-title-alias: Map or Scroll Case
 ---
 # Map or Scroll Case
 *Adventuring gear*  

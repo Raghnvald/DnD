@@ -8,6 +8,7 @@ HG: 2
 Habitat:
   - Wald
 status: WIP
+linter-yaml-title-alias: Faerie Dragon (Indigo)
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Wald
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Faerie Dragon (Indigo)
-linter-yaml-title-alias: Faerie Dragon (Indigo)
 ---
 # [Faerie Dragon (Indigo)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-indigo.md)
 *Source: Monster Manual p. 133*  

@@ -8,6 +8,7 @@ HG: "2"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Ballista
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

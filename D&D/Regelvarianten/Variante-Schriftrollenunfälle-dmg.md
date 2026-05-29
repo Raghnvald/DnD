@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Variante: Schriftrollenunfälle; Schriftrollenunfälle"
+linter-yaml-title-alias: "Variante: Schriftrollenunfälle; Schriftrollenunfälle"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Variante: Schriftrollenunfälle; Schriftrollenunfälle"
   - Variant: Scroll Mishaps; Scroll Mishap
 ---
 # Variante: Schriftrollenunfälle; Schriftrollenunfälle

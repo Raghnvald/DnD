@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shrine of Savras
+linter-yaml-title-alias: Shrine of Savras
 tags:
   - Quelle/5e/dip
 aliases:

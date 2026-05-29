@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Chromatic Dragon
+linter-yaml-title-alias: Gift of the Chromatic Dragon
 tags:
   - Kompendium/Talent
   - Quelle/5e/ftd

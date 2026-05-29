@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Betrayer Gods
+linter-yaml-title-alias: Betrayer Gods
 tags:
   - Quelle/5e/egw
 aliases:

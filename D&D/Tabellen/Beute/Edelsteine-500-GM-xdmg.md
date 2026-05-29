@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 500 GP Gemstones
+linter-yaml-title-alias: 500 GP Gemstones
 tags:
   - Quelle/5e/xdmg
 aliases:

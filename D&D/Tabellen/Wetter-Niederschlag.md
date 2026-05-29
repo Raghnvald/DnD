@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Wetter; Niederschlag
+linter-yaml-title-alias: Wetter; Niederschlag
 tags:
   - Quelle/5e/dmg
 aliases:
   - Weather; Precipitation
+  - Wetter; Niederschlag
 ---
 # Wetter; Niederschlag
 *Quelle: SRD / Grundregelwerk* 

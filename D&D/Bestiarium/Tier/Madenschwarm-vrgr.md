@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Maggots
+linter-yaml-title-alias: Swarm of Maggots
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

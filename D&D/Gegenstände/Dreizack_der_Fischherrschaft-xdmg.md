@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Trident of Fish Command
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Trident of Fish Command
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Trident of Fish Command
-linter-yaml-title-alias: Trident of Fish Command
 ---
 # Trident of Fish Command
 *Weapon ([trident](/3-Mechanics/CLI/items/trident-xphb.md)), uncommon (requires attunement)*  

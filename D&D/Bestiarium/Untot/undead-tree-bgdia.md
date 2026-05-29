@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Tree
+linter-yaml-title-alias: Undead Tree
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Undead Tree
-linter-yaml-title-alias: Undead Tree
 ---
 # [Undead Tree](3-Mechanics\CLI\bestiary\undead/undead-tree-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 109*  

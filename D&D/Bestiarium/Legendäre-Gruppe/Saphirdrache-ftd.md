@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sapphire Dragon
+linter-yaml-title-alias: Sapphire Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

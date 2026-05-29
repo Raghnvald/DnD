@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Soul Shaker
+linter-yaml-title-alias: Soul Shaker
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Soul Shaker
-linter-yaml-title-alias: Soul Shaker
 ---
 # [Soul Shaker](3-Mechanics\CLI\bestiary\undead/soul-shaker-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 47*  

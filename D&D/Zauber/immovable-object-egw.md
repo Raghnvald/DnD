@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Immovable Object
 Zaubergrad: 2
+linter-yaml-title-alias: Immovable Object
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/2

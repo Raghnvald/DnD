@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Dragon Turtle Connections
+linter-yaml-title-alias: Connected Creatures; Adult Dragon Turtle Connections
 tags:
   - Quelle/5e/ftd
 aliases:

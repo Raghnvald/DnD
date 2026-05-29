@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hit Point Dice
+linter-yaml-title-alias: Hit Point Dice
 tags:
   - Quelle/5e/xphb
 aliases:

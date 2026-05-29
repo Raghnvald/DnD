@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadar-Kai
+linter-yaml-title-alias: Shadar-Kai
 tags:
   - Quelle/5e/mpmm
   - Rasse/shadar-kai

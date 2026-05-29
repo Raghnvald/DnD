@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Charlatan"
+linter-yaml-title-alias: "Baldur's Gate Charlatan"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Charlatan"
   - Baldur's Gate Charlatan
 ---
 # Baldur's Gate Charlatan

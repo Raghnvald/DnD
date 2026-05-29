@@ -6,6 +6,14 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Etherealness
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -16,16 +24,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 aliases:
   - Etherealness
-linter-yaml-title-alias: Etherealness
 ---
 # Etherealness
 *7th-level, Conjuration*  

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wakened Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Wakened Dragon Vessel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ftd
 aliases:
   - Wakened Dragon Vessel
-linter-yaml-title-alias: Wakened Dragon Vessel
 ---
 # Wakened Dragon Vessel
 *Wondrous item, very rare (requires attunement)*  

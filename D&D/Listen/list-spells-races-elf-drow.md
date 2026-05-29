@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Elf (Drow)
+linter-yaml-title-alias: Spells for Elf (Drow)
 tags:
   - Zauber/list/subrace/elf-drow
 aliases:

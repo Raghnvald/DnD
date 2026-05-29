@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dehydration
+linter-yaml-title-alias: Dehydration
 tags:
   - Quelle/5e/xphb
 aliases:

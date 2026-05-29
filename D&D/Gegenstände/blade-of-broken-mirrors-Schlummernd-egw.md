@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blade of Broken Mirrors (Dormant)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Blade of Broken Mirrors (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Blade of Broken Mirrors (Dormant)
-linter-yaml-title-alias: Blade of Broken Mirrors (Dormant)
 ---
 # Blade of Broken Mirrors (Dormant)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), artifact (requires attunement by a humanoid)*  

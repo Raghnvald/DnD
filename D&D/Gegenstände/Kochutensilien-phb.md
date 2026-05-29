@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kochutensilien
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 4,0 kg
+status: WIP
+linter-yaml-title-alias: Kochutensilien
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Cook's Utensils
-linter-yaml-title-alias: Cook's Utensils
+  - Kochutensilien
 ---
 # Kochutensilien
 *Handwerkszeug*

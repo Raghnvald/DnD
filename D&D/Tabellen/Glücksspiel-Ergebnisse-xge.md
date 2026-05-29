@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Glücksspielergebnisse
+linter-yaml-title-alias: Glücksspielergebnisse
 tags:
   - Quelle/5e/xge
 aliases:
   - Gambling Results
+  - Glücksspielergebnisse
 ---
 # Glücksspielergebnisse
 *Quellen: Xanathars Ratgeber für Alles S. 130* 

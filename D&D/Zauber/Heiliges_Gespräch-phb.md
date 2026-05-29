@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Commune
 Zaubergrad: 5
+linter-yaml-title-alias: Commune
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Paladin (Oath of Devotion)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,13 +14,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Paladin (Oath of Devotion)
 aliases:
   - Commune
-linter-yaml-title-alias: Commune
 ---
 # Commune
 *5th-level, Divination (ritual)*  

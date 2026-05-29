@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Tome of Clear Thought
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Tome of Clear Thought
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Tome of Clear Thought
-linter-yaml-title-alias: Tome of Clear Thought
 ---
 # Tome of Clear Thought
 *Wondrous item, major, very rare*  

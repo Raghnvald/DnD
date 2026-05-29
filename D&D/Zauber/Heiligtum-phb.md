@@ -7,6 +7,12 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Minute
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Heiligtum
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Monk (Way of the Open Hand)
+  - Paladin (Oath of Devotion)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -16,14 +22,8 @@ tags:
   - Subklasse/way-of-the-open-hand
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Monk (Way of the Open Hand)
-  - Paladin (Oath of Devotion)
 aliases:
-  - Sanctuary
-linter-yaml-title-alias: Sanctuary
+  - Heiligtum
 ---
 # Heiligtum
 *Bann des 1. Grades*  

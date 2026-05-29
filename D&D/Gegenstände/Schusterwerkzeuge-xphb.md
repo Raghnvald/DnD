@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Cobbler's Tools"
+linter-yaml-title-alias: "Cobbler's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Cobbler's Tools
-linter-yaml-title-alias: Cobbler's Tools
+  - "Cobbler's Tools"
 ---
 # Cobbler's Tools
 *Artisan's tools*  

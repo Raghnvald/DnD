@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarves on the Move; Special Circumstances
+linter-yaml-title-alias: Dwarves on the Move; Special Circumstances
 tags:
   - Quelle/5e/mtf
 aliases:

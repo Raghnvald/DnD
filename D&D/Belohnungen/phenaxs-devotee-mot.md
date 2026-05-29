@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Phenax's Devotee"
+linter-yaml-title-alias: "Phenax's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

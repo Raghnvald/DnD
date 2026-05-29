@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Exotische Sprachen
+linter-yaml-title-alias: Exotische Sprachen
 tags:
   - Quelle/5e/phb
 aliases:
   - Exotic Languages
+  - Exotische Sprachen
 ---
 # Exotische Sprachen
 *Quelle: SRD / Grundregelwerk*

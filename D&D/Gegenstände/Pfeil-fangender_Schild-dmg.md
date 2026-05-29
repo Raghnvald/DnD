@@ -2,21 +2,22 @@
 Bezeichnung: Pfeil-fangender Schild
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Pfeil-fangender Schild
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Arrow-Catching Shield
-linter-yaml-title-alias: Arrow-Catching Shield
+  - Pfeil-fangender Schild
 ---
 # Pfeil-fangender Schild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten (erfordert Einstimmung)*

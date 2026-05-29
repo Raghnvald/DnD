@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Iroas's Votary"
+linter-yaml-title-alias: "Spells for Iroas's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/iroass-votary
 aliases:

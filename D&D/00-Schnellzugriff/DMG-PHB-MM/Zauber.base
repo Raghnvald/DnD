@@ -7,17 +7,16 @@ filters:
   and:
     - file.folder == "D&D/Zauber"
     - '!file.fullname.contains("-xphb.md")'
+formulas:
+  Bezeichnung: link(file, Bezeichnung)
 views:
   - type: table
     name: Alle Zauber - phb
-    filters:
-      and:
-        - file.folder == "D&D/Zauber"
     groupBy:
       property: Zaubergrad
       direction: ASC
     order:
-      - file.name
+      - formula.Bezeichnung
       - Zeitaufwand
       - Reichweite
       - Komponenten

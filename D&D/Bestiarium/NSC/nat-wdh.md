@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nat
+linter-yaml-title-alias: Nat
 tags:
   - Monster/Größe/Klein
   - Monster/HG/
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Nat
-linter-yaml-title-alias: Nat
 ---
 # [Nat](3-Mechanics\CLI\bestiary\npc/nat-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  

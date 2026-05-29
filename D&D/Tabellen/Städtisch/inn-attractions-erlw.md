@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inn Attractions
+linter-yaml-title-alias: Inn Attractions
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Port Nyanzaru Encounters
+linter-yaml-title-alias: Port Nyanzaru Encounters
 tags:
   - Quelle/5e/toa
 aliases:

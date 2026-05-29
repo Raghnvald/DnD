@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Merfolk (Zendikar; Cosi Creed)
+linter-yaml-title-alias: Merfolk (Zendikar; Cosi Creed)
 tags:
   - Quelle/5e/psz
   - Rasse/merfolk/zendikar-cosi-creed
 aliases:
   - "Merfolk (Zendikar; Cosi Creed)"
+  - Merfolk (Zendikar; Cosi Creed)
 ---
 # Merfolk (Zendikar; Cosi Creed)
 *Source: Plane Shift: Zendikar p. 13*  

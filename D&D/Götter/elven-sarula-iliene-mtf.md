@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sarula Iliene
+linter-yaml-title-alias: Sarula Iliene
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/trickery

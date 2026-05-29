@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Djeneba
+linter-yaml-title-alias: Djeneba
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Djeneba
-linter-yaml-title-alias: Djeneba
 ---
 # [Djeneba](3-Mechanics\CLI\bestiary\npc/djeneba-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 173*  

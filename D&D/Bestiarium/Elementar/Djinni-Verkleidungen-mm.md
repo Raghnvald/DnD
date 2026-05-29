@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Djinni (Disguises)
+linter-yaml-title-alias: Djinni (Disguises)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

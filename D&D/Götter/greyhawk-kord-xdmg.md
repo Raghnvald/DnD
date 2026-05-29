@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kord
+linter-yaml-title-alias: Kord
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mastermind
+linter-yaml-title-alias: Mastermind
 tags:
   - Klasse/Schurke/mastermind
   - Quelle/5e/xge

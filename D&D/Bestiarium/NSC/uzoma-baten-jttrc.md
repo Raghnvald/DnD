@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uzoma Baten
+linter-yaml-title-alias: Uzoma Baten
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Uzoma Baten
-linter-yaml-title-alias: Uzoma Baten
 ---
 # [Uzoma Baten](3-Mechanics\CLI\bestiary\npc/uzoma-baten-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 94*  

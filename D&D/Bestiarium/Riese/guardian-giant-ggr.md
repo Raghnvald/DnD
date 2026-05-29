@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guardian Giant
+linter-yaml-title-alias: Guardian Giant
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

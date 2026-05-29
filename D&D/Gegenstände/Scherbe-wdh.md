@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Shard
 Kategorie: Währung
+Eigenschaften:
+  - /
+Kst.: 1 SM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Shard
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Shard
-linter-yaml-title-alias: Shard
 ---
 # Shard
 *Treasure (coinage)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Charlatan's Die"
+linter-yaml-title-alias: "Charlatan's Die"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Charlatan's Die
-linter-yaml-title-alias: Charlatan's Die
+  - "Charlatan's Die"
 ---
 # Charlatan's Die
 *Wondrous item, common (requires attunement)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Speed
+linter-yaml-title-alias: Potion of Speed
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Speed
-linter-yaml-title-alias: Potion of Speed
 ---
 # Potion of Speed
 *Potion, very rare*  

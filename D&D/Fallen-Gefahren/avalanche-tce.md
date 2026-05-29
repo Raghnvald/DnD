@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Avalanche
+linter-yaml-title-alias: Avalanche
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/tce

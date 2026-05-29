@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Chain Brute
+linter-yaml-title-alias: Ogre Chain Brute
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

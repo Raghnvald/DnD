@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loki
+linter-yaml-title-alias: Loki
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/norse

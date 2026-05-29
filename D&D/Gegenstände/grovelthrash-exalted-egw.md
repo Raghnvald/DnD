@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Grovelthrash (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Grovelthrash (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Grovelthrash (Exalted)
-linter-yaml-title-alias: Grovelthrash (Exalted)
 ---
 # Grovelthrash (Exalted)
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement)*  

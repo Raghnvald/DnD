@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Kammern; Kammer
+linter-yaml-title-alias: Kammern; Kammer
 tags:
   - Quelle/5e/dmg
 aliases:
   - Chambers; Chamber
+  - Kammern; Kammer
 ---
 # Kammern; Kammer
 *Source: Dungeon Master's Guide p. 291* 

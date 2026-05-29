@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Firbolg Wanderer
+linter-yaml-title-alias: Firbolg Wanderer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

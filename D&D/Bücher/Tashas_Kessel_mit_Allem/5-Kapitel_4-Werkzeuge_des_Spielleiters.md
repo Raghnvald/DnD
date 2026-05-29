@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Dungeon Master's Tools"
+linter-yaml-title-alias: "Dungeon Master's Tools"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Dungeon Master's Tools"
   - Dungeon Master's Tools
 ---
 # Dungeon Master's Tools

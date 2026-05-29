@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Gigantisch
 HG: 21
 status: WIP
+linter-yaml-title-alias: Gargantua
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/21

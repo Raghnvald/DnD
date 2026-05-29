@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Phantasmal Killer
 Zaubergrad: 4
+linter-yaml-title-alias: Phantasmal Killer
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Phantasmal Killer
-linter-yaml-title-alias: Phantasmal Killer
 ---
 # Phantasmal Killer
 *4th-level, Illusion*  

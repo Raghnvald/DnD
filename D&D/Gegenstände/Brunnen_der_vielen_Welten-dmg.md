@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Well of Many Worlds
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Well of Many Worlds
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Well of Many Worlds
-linter-yaml-title-alias: Well of Many Worlds
 ---
 # Well of Many Worlds
 *Wondrous item, major, legendary*  

@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Synaptic Static
+linter-yaml-title-alias: Synaptic Static
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Synaptic Static
-linter-yaml-title-alias: Synaptic Static
 ---
 # Synaptic Static
 *5th-level, Enchantment*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talona, Göttin von Gift und Krankheit
+linter-yaml-title-alias: Talona, Göttin von Gift und Krankheit
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Tod
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Talona
+  - Talona, Göttin von Gift und Krankheit
 ---
 # Talona, Göttin von Gift und Krankheit
 *Quelle: SRD / Grundregelwerk* 

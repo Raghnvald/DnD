@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Elementarer Edelstein
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Elementarer Edelstein
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Elemental Gem
-linter-yaml-title-alias: Elemental Gem
+  - Elementarer Edelstein
 ---
 # Elementarer Edelstein
 *Wundersamer Gegenstand, ungewöhnlich*  

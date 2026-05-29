@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Urgala Meltimer
+linter-yaml-title-alias: Urgala Meltimer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Urgala Meltimer
-linter-yaml-title-alias: Urgala Meltimer
 ---
 # [Urgala Meltimer](3-Mechanics\CLI\bestiary\npc/urgala-meltimer-skt.md)
 *Source: Storm King's Thunder p. 254*  

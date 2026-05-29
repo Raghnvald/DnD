@@ -5,9 +5,11 @@ Bezeichnung: Moonlight Guardian
 Kategorie: Konstrukt
 Größe: Mittelgroß
 HG: 6
-Habitat: /
+Habitat:
+  - /
 image: token/moonlight-guardian-veor.webp
 status: WIP
+linter-yaml-title-alias: Moonlight Guardian
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Mondstein
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Mondstein
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Moonstone
-linter-yaml-title-alias: Moonstone
+  - Mondstein
 ---
 # Mondstein
 *Schatz (Edelstein)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shar, Göttin der Dunkelheit und des Verlustes
+linter-yaml-title-alias: Shar, Göttin der Dunkelheit und des Verlustes
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/List
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Shar
+  - Shar, Göttin der Dunkelheit und des Verlustes
 ---
 # Shar, Göttin der Dunkelheit und des Verlustes
 *Quelle: SRD / Grundregelwerk* 

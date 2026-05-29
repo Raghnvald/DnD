@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Wind Wall
 Zaubergrad: 3
+linter-yaml-title-alias: Wind Wall
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
 aliases:
   - Wind Wall
-linter-yaml-title-alias: Wind Wall
 ---
 # Wind Wall
 *3rd-level, Evocation*  

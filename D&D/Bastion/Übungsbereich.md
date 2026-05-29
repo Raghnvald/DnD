@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Training Area
+linter-yaml-title-alias: Training Area
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Benefits of Renown; Rebel Benefits
+linter-yaml-title-alias: Benefits of Renown; Rebel Benefits
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crime in Sharn; Street Gangs
+linter-yaml-title-alias: Crime in Sharn; Street Gangs
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Poisoner's Kit"
+linter-yaml-title-alias: "Poisoner's Kit"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Poisoner's Kit
-linter-yaml-title-alias: Poisoner's Kit
+  - "Poisoner's Kit"
 ---
 # Poisoner's Kit
 *Tool*  

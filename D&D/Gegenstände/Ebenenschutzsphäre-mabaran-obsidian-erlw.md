@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Orb of Shielding (Mabaran Obsidian)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Orb of Shielding (Mabaran Obsidian)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -11,7 +17,6 @@ aliases:
   - Mabaran Obsidian Crystal
   - Mabaran Obsidian Orb
   - Orb of Shielding (Mabaran Obsidian)
-linter-yaml-title-alias: Orb of Shielding (Mabaran Obsidian)
 ---
 # Orb of Shielding (Mabaran Obsidian)
 *Wondrous item, common (requires attunement)*  

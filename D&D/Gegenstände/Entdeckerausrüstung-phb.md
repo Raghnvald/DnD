@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Entdeckerausrüstung
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 29,5 kg
+status: WIP
+linter-yaml-title-alias: Entdeckerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Explorer's Pack
-linter-yaml-title-alias: Explorer's Pack
+  - Entdeckerausrüstung
 ---
 # Entdeckerausrüstung
 *Adventuring gear*  

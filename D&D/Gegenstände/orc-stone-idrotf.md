@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Orc Stone
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Orc Stone
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Orc Stone
-linter-yaml-title-alias: Orc Stone
 ---
 # Orc Stone
 *Wondrous item, uncommon (requires attunement by a recipient only)*  

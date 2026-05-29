@@ -5,17 +5,18 @@ Bezeichnung: Vecna der Erzlich
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 26
-Habitat: /
+Habitat:
+  - /
 image: token/vecna-the-archlich-veor.webp
 status: WIP
+linter-yaml-title-alias: Vecna der Erzlich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/26
   - Monster/Typ/Untote/wizard
   - Quelle/5e/veor
 aliases:
-  - Vecna the Archlich
-linter-yaml-title-alias: Vecna the Archlich
+  - Vecna der Erzlich
 ---
 # Vecna der Erzlich
 *Quelle: Vecna: Vorabend der Verdammnis S. 254*  

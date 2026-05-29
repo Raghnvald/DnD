@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Puzzle
+linter-yaml-title-alias: Charm of the Puzzle
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

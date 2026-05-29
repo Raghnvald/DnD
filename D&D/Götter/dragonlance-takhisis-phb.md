@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Takhisis
+linter-yaml-title-alias: Takhisis
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/dragonlance

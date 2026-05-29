@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: "1"
 Habitat:
   - /
+image: token/albino-dwarf-spirit-warrior-toa.webp
 status: WIP
+linter-yaml-title-alias: Albino Dwarf Spirit Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

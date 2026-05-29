@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Monsters"
+linter-yaml-title-alias: "Appendix B: Monsters"
 tags:
   - Quelle/5e/lmop
 aliases:
+  - "Appendix B: Monsters"
   - Appendix B: Monsters
 ---
 # Appendix B: Monsters

@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Shillelagh
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,14 +23,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
 aliases:
   - Shillelagh
-linter-yaml-title-alias: Shillelagh
 ---
 # Shillelagh
 *cantrip, Transmutation*  

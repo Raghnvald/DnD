@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Orc
+linter-yaml-title-alias: Orc
 tags:
   - Quelle/5e/mpmm
   - Rasse/orc
 aliases:
   - "Orc"
+  - Orc
 ---
 # Orc
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 28*  

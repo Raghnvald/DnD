@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rillifane Rallathil
+linter-yaml-title-alias: Rillifane Rallathil
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/elven

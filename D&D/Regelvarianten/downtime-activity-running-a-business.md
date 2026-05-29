@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Running a Business"
+linter-yaml-title-alias: "Downtime Activity: Running a Business"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Downtime Activity: Running a Business"
   - Downtime Activity: Running a Business
 ---
 # Downtime Activity: Running a Business

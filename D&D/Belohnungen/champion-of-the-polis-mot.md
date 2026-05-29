@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of the Polis
+linter-yaml-title-alias: Champion of the Polis
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of the Polis"
+  - Champion of the Polis
 ---
 # Champion of the Polis
 *Piety Trait*  

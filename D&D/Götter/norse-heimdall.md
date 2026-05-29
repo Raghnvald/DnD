@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heimdall
+linter-yaml-title-alias: Heimdall
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/war

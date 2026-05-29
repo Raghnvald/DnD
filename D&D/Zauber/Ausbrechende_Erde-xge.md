@@ -7,6 +7,15 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d12 Wucht
+linter-yaml-title-alias: Ausbrechende Erde
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -18,17 +27,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
+  - Ausbrechende Erde
   - Erupting Earth
-linter-yaml-title-alias: Ausbrechende Erde
 ---
 # Ausbrechende Erde
 *Verwandlung des 3. Grades*

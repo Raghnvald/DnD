@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessed Radiance Effects
+linter-yaml-title-alias: Blessed Radiance Effects
 tags:
   - Quelle/5e/tce
 aliases:

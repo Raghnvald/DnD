@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enfeebling Arrow
+linter-yaml-title-alias: Enfeebling Arrow
 tags:
   - Kompendium/Optionales/as
   - Quelle/5e/xge

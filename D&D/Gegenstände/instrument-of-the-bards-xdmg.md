@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards
+linter-yaml-title-alias: Instrument of the Bards
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Instrument of the Bards
-linter-yaml-title-alias: Instrument of the Bards
 ---
 # Instrument of the Bards
 *Wondrous item (requires attunement by a bard)*  

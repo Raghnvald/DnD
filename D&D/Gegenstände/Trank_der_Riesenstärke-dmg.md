@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Trank der Riesenstärke
 Kategorie: Trank
+linter-yaml-title-alias: Trank der Riesenstärke
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
-  - Potion of Giant Strength
-linter-yaml-title-alias: Potion of Giant Strength
+  - Trank der Riesenstärke
 ---
 # Trank der Riesenstärke
 *Trank*  

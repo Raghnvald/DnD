@@ -5,9 +5,11 @@ Bezeichnung: Deadbark Dryad
 Kategorie: Feenwesen
 Größe: Mittelgroß
 HG: 13
-Habitat: /
+Habitat:
+  - /
 image: token/deadbark-dryad-veor.webp
 status: WIP
+linter-yaml-title-alias: Deadbark Dryad
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13

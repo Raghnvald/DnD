@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Katastrophales Unglück
+linter-yaml-title-alias: Katastrophales Unglück
 tags:
   - Quelle/5e/dmg
 aliases:
   - Cataclysmic Disasters
+  - Katastrophales Unglück
 ---
 # Katastrophales Unglück
 *Quellen: Spielleiterhandbuch S. 28* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Coastal Monsters
+linter-yaml-title-alias: Monsters by Habitat; Coastal Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

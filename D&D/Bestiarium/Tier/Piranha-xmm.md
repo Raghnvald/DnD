@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Piranha
+linter-yaml-title-alias: Piranha
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/underwater

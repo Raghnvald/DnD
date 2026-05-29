@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Weaver's Tools"
+linter-yaml-title-alias: "Weaver's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
 aliases:
   - "Weaver's Tools"
   - Weaver's Tools
-linter-yaml-title-alias: "Weaver's Tools"
 ---
 # Weaver's Tools
 *Artisan's tools*  

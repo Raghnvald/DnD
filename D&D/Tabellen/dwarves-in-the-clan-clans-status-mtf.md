@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Dwarves in the Clan; Clan's Status"
+linter-yaml-title-alias: "Dwarves in the Clan; Clan's Status"
 tags:
   - Quelle/5e/mtf
 aliases:
+  - "Dwarves in the Clan; Clan's Status"
   - Dwarves in the Clan; Clan's Status
 ---
 # Dwarves in the Clan; Clan's Status

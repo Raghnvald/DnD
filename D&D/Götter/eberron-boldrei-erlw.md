@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boldrei
+linter-yaml-title-alias: Boldrei
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/peace

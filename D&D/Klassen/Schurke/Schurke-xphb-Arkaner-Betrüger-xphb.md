@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Trickster
+linter-yaml-title-alias: Arcane Trickster
 tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb

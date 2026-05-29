@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Elf (High)
+linter-yaml-title-alias: Spells for Elf (High)
 tags:
   - Zauber/list/subrace/elf-high
 aliases:

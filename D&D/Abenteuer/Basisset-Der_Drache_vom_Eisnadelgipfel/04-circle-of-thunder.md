@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of Thunder
+linter-yaml-title-alias: Circle of Thunder
 tags:
   - Quelle/5e/dip
 aliases:

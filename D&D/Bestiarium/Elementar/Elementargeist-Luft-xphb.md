@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elemental Spirit (Air)
+linter-yaml-title-alias: Elemental Spirit (Air)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

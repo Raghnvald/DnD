@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Crystal
+linter-yaml-title-alias: Crystal
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Crystal
-linter-yaml-title-alias: Crystal
 ---
 # Crystal
 *Spellcasting focus*  

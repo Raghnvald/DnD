@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "The Hunters' Role; Hunt for the Ka"
+linter-yaml-title-alias: "The Hunters' Role; Hunt for the Ka"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "The Hunters' Role; Hunt for the Ka"
   - The Hunters' Role; Hunt for the Ka
 ---
 # The Hunters' Role; Hunt for the Ka

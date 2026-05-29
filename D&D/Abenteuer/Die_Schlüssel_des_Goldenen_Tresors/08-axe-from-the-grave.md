@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Axe from the Grave
+linter-yaml-title-alias: Axe from the Grave
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Axe from the Grave"
+  - Axe from the Grave
 ---
 # Axe from the Grave
 *Source: Keys from the Golden Vault, p. 103* 

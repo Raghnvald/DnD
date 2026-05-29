@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Eimer
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 KM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Eimer
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Bucket
-linter-yaml-title-alias: Bucket
+  - Eimer
 ---
 # Eimer
 *Abenteuerausrüstung*  

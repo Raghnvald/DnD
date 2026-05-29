@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Soul Coin
+linter-yaml-title-alias: Soul Coin
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bgdia
 aliases:
   - Soul Coin
-linter-yaml-title-alias: Soul Coin
 ---
 # Soul Coin
 *Wondrous item, uncommon*  

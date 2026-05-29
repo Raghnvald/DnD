@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Dwarven Pantheon
+linter-yaml-title-alias: The Dwarven Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

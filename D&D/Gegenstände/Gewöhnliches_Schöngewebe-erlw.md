@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Common Glamerweave
+linter-yaml-title-alias: Common Glamerweave
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/erlw
 aliases:
   - Common Glamerweave
-linter-yaml-title-alias: Common Glamerweave
 ---
 # Common Glamerweave
 *Wondrous item, common*  

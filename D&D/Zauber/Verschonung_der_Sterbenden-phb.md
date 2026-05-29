@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Verschonung der Sterbenden
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Death Domain)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -16,13 +21,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Death Domain)
 aliases:
-  - Spare the Dying
-linter-yaml-title-alias: Spare the Dying
+  - Verschonung der Sterbenden
 ---
 # Verschonung der Sterbenden
 _Zaubertrick der Nekromantie_

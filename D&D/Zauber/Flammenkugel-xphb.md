@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Flaming Sphere
+linter-yaml-title-alias: Flaming Sphere
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -13,19 +24,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Druid (Circle of Wildfire)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Flaming Sphere
-linter-yaml-title-alias: Flaming Sphere
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  

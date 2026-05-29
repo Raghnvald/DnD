@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 15: Xonthal's Tower"
+linter-yaml-title-alias: "Chapter 15: Xonthal's Tower"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Chapter 15: Xonthal's Tower"
   - Chapter 15: Xonthal's Tower
 ---
 # Chapter 15: Xonthal's Tower

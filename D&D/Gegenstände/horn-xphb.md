@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Horn
+linter-yaml-title-alias: Horn
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Horn
-linter-yaml-title-alias: Horn
 ---
 # Horn
 *Instrument*  

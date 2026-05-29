@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rules Glossary
+linter-yaml-title-alias: Rules Glossary
 tags:
   - Quelle/5e/xphb
 aliases:

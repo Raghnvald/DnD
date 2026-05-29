@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Martial Weapon Training
+linter-yaml-title-alias: Martial Weapon Training
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

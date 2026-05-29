@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Platinum
+linter-yaml-title-alias: Platinum
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Platinum
-linter-yaml-title-alias: Platinum
 ---
 # Platinum
 *Trade good*  

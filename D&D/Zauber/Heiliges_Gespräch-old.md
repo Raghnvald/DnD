@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heiliges Gespräch
+linter-yaml-title-alias: Heiliges Gespräch
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
@@ -8,7 +9,7 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Commune
-linter-yaml-title-alias: Heiliges Gespräch
+  - Heiliges Gespräch
 ---
 # Heiliges Gespräch
 ![](Erkenntniszauber.webp#token)

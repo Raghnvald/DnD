@@ -5,6 +5,7 @@ Bezeichnung: Elemental Cataclysm
 Kategorie: Elementar (Titan)
 Größe: Gigantisch
 HG: 22
+linter-yaml-title-alias: Elemental Cataclysm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/elemental-chaos

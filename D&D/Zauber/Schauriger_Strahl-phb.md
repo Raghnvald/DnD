@@ -7,6 +7,10 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: Fernkampf
 Schaden: 1d10 Energie
+linter-yaml-title-alias: Schauriger Strahl
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -15,12 +19,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
 aliases:
-  - Eldritch Blast
-linter-yaml-title-alias: Eldritch Blast
+  - Schauriger Strahl
 ---
 # Schauriger Strahl
 _Zaubertrick der Hervorrufung_

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Barrow
+linter-yaml-title-alias: Dragon Barrow
 tags:
   - Quelle/5e/dip
 aliases:

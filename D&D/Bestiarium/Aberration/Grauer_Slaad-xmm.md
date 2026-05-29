@@ -5,6 +5,7 @@ Bezeichnung: Grauer Slaad
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 9
+linter-yaml-title-alias: Grauer Slaad
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo
@@ -13,6 +14,7 @@ tags:
   - Monster/Typ/Aberration
   - Quelle/5e/xmm
 aliases:
+  - Grauer Slaad
   - Gray Slaad
 ---
 # Grauer Slaad

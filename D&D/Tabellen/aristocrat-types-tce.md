@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aristocrat Types
+linter-yaml-title-alias: Aristocrat Types
 tags:
   - Quelle/5e/tce
 aliases:

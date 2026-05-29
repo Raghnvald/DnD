@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell
+linter-yaml-title-alias: Spell
 tags:
   - Quelle/5e/xphb
 aliases:

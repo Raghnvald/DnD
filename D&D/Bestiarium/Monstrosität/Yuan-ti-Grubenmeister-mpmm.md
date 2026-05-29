@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Pit Master
+linter-yaml-title-alias: Yuan-ti Pit Master
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

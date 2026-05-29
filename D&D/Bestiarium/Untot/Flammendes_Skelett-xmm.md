@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flaming Skeleton
+linter-yaml-title-alias: Flaming Skeleton
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/planar
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Flaming Skeleton
-linter-yaml-title-alias: Flaming Skeleton
 ---
 # [Flaming Skeleton](3-Mechanics\CLI\bestiary\undead/flaming-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 283*  

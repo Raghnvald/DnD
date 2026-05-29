@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of the Hunt
+linter-yaml-title-alias: Champion of the Hunt
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of the Hunt"
+  - Champion of the Hunt
 ---
 # Champion of the Hunt
 *Piety Trait*  

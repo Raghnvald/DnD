@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Customization Tables; Unusual Demon Features
+linter-yaml-title-alias: Demon Customization Tables; Unusual Demon Features
 tags:
   - Quelle/5e/mtf
 aliases:

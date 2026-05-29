@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Prismatic Wall
+linter-yaml-title-alias: Prismatic Wall
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/abjurer
   - Zauber/Grad/9
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Prismatic Wall
-linter-yaml-title-alias: Prismatic Wall
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

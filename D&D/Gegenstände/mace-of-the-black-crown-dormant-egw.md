@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mace of the Black Crown (Dormant)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Mace of the Black Crown (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Mace of the Black Crown (Dormant)
-linter-yaml-title-alias: Mace of the Black Crown (Dormant)
 ---
 # Mace of the Black Crown (Dormant)
 *Weapon ([mace](Streitkolben-xphb), artifact (requires attunement)*  

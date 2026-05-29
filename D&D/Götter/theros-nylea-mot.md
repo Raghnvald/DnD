@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Nylea
+linter-yaml-title-alias: Nylea
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
   - "Nylea"
+  - Nylea
 ---
 # Nylea
 *Source: Mythic Odysseys of Theros p. 67* 

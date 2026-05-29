@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Water
+linter-yaml-title-alias: Deep Water
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

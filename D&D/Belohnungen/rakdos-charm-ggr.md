@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Charm
+linter-yaml-title-alias: Rakdos Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

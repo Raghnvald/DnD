@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Delayed Blast Fireball
+linter-yaml-title-alias: Delayed Blast Fireball
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -8,14 +14,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Delayed Blast Fireball
-linter-yaml-title-alias: Delayed Blast Fireball
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  

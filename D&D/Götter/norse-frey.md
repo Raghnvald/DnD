@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frey
+linter-yaml-title-alias: Frey
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

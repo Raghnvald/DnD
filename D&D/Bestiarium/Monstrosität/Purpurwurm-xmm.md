@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Purple Worm
+linter-yaml-title-alias: Purple Worm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Unterreich

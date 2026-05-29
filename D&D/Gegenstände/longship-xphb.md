@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Longship
+linter-yaml-title-alias: Longship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Longship
-linter-yaml-title-alias: Longship
 ---
 # Longship
 *Ship, vehicle (water)*  

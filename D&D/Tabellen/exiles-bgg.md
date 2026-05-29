@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Exiles
+linter-yaml-title-alias: Exiles
 tags:
   - Quelle/5e/bgg
 aliases:

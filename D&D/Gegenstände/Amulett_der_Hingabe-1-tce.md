@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +1 Amulet of the Devout
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: +1 Amulet of the Devout
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +1 Amulet of the Devout
-linter-yaml-title-alias: +1 Amulet of the Devout
 ---
 # +1 Amulet of the Devout
 *Wondrous item, uncommon (requires attunement by a cleric or paladin)*  

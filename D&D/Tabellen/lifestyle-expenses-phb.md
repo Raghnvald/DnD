@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lifestyle Expenses
+linter-yaml-title-alias: Lifestyle Expenses
 tags:
   - Quelle/5e/phb
 aliases:

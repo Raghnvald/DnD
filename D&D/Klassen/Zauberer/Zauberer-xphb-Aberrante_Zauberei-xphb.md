@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aberrant Sorcery
+linter-yaml-title-alias: Aberrant Sorcery
 tags:
   - Klasse/Zauberer/aberrant
   - Quelle/5e/xphb

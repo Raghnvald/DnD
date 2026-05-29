@@ -8,6 +8,7 @@ HG: 4
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Red Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Red Dragon Wyrmling
-linter-yaml-title-alias: Red Dragon Wyrmling
 ---
 # [Red Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/red-dragon-wyrmling.md)
 *Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

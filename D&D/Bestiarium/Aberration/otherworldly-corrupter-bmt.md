@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: M oder S
 HG: 17
 status: WIP
+linter-yaml-title-alias: Otherworldly Corrupter
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/HG/17

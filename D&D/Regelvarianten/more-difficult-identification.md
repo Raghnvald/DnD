@@ -1,5 +1,6 @@
 ---
 Bezeichnung: More Difficult Identification
+linter-yaml-title-alias: More Difficult Identification
 tags:
   - Quelle/5e/dmg
 aliases:

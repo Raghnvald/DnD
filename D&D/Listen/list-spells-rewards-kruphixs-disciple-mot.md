@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Kruphix's Disciple"
+linter-yaml-title-alias: "Spells for Kruphix's Disciple"
 tags:
   - ttrpg-cli/spell/list/reward/kruphixs-disciple
 aliases:

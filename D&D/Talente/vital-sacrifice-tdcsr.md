@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vital Sacrifice
+linter-yaml-title-alias: Vital Sacrifice
 tags:
   - Kompendium/Talent
   - Quelle/5e/tdcsr

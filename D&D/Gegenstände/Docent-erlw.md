@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Docent
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Docent
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/erlw
 aliases:
   - Docent
-linter-yaml-title-alias: Docent
 ---
 # Docent
 *Wondrous item, rare (requires attunement by a warforged)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Myrkul
+linter-yaml-title-alias: Myrkul
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/forgotten-realms

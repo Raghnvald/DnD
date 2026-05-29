@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kamadan
+linter-yaml-title-alias: Kamadan
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4

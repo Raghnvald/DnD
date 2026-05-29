@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya Charm
+linter-yaml-title-alias: Selesnya Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Spielsatz
 Kategorie: Werkzeug
+linter-yaml-title-alias: Spielsatz
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Gaming Set
-linter-yaml-title-alias: Gaming Set
+  - Spielsatz
 ---
 # Spielsatz
 *Gaming set*  

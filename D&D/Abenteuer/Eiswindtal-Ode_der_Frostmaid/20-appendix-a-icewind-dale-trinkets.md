@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Icewind Dale Trinkets"
+linter-yaml-title-alias: "Appendix A: Icewind Dale Trinkets"
 tags:
   - Quelle/5e/idrotf
 aliases:
+  - "Appendix A: Icewind Dale Trinkets"
   - Appendix A: Icewind Dale Trinkets
 ---
 # Appendix A: Icewind Dale Trinkets

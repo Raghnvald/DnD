@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Restorative Ointment
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Restorative Ointment
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Restorative Ointment
-linter-yaml-title-alias: Restorative Ointment
 ---
 # Restorative Ointment
 *Wondrous Item, minor, uncommon*  

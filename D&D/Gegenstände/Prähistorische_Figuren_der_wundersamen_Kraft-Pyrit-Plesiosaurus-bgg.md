@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
@@ -8,7 +9,6 @@ tags:
 aliases:
   - "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus"
   - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
-linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 ---
 # Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 *Wondrous item, uncommon*  

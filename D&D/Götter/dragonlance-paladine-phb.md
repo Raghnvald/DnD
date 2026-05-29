@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Paladine
+linter-yaml-title-alias: Paladine
 tags:
   - Kompendium/Götter/Domäne/peace
   - Kompendium/Götter/Domäne/war

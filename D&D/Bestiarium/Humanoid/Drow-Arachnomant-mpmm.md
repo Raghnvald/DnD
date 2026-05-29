@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Arachnomancer
+linter-yaml-title-alias: Drow Arachnomancer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

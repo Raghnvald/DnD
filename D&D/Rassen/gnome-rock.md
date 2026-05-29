@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome (Rock)
+linter-yaml-title-alias: Gnome (Rock)
 tags:
   - Quelle/5e/phb
   - Rasse/gnome/rock

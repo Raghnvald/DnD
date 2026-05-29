@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level"
+linter-yaml-title-alias: "Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level"
 tags:
   - Quelle/5e/xge
 aliases:
+  - "Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level"
   - Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
 ---
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level

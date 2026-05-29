@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr (Dormant)
 Rüstung: Schwer
+linter-yaml-title-alias: Plate of the Dawnmartyr (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Plate of the Dawnmartyr (Dormant)
-linter-yaml-title-alias: Plate of the Dawnmartyr (Dormant)
 ---
 # Plate of the Dawnmartyr (Dormant)
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary (requires attunement)*  

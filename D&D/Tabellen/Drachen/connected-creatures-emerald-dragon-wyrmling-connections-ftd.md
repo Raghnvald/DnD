@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Emerald Dragon Wyrmling Connections
+linter-yaml-title-alias: Connected Creatures; Emerald Dragon Wyrmling Connections
 tags:
   - Quelle/5e/ftd
 aliases:

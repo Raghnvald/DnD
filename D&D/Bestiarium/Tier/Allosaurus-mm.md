@@ -7,7 +7,9 @@ Größe: Groß
 HG: "2"
 Habitat:
   - Grasland
+image: token/allosaurus.webp
 status: WIP
+linter-yaml-title-alias: Allosaurus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

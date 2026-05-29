@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Ale (mug)
+Kst.: 4 KM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Ale (mug)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Ale (mug)
-linter-yaml-title-alias: Ale (mug)
 ---
 # Ale (mug)
 *Food and drink*  

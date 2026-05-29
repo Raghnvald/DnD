@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Cube of Summoning
+linter-yaml-title-alias: Cube of Summoning
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Cube of Summoning
-linter-yaml-title-alias: Cube of Summoning
 ---
 # Cube of Summoning
 *Wondrous item, rare*  

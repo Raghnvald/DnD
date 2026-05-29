@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Grinder
+linter-yaml-title-alias: Demon Grinder
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/land

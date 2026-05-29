@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Canoe
 Kategorie: Luft- und Wasserfahrzeug
+Eigenschaften:
+  - /
+Kst.: 50 GM
+Gew.: 50,0 kg
+status: WIP
+linter-yaml-title-alias: Canoe
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/toa
 aliases:
   - Canoe
-linter-yaml-title-alias: Canoe
 ---
 # Canoe
 *Ship, vehicle (water)*  

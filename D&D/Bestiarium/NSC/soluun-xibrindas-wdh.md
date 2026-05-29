@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Soluun Xibrindas
+linter-yaml-title-alias: Soluun Xibrindas
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Soluun Xibrindas
-linter-yaml-title-alias: Soluun Xibrindas
 ---
 # [Soluun Xibrindas](3-Mechanics\CLI\bestiary\npc/soluun-xibrindas-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 202*  

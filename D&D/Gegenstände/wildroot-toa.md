@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Wildroot
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 25 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Wildroot
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/toa
 aliases:
   - Wildroot
-linter-yaml-title-alias: Wildroot
 ---
 # Wildroot
 *Adventuring gear*  

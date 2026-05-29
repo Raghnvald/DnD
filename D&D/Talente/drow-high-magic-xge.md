@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drow High Magic
+linter-yaml-title-alias: Drow High Magic
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

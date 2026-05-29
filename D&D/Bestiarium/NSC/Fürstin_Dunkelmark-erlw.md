@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Illmarrow
+linter-yaml-title-alias: Lady Illmarrow
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/22
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Lady Illmarrow
-linter-yaml-title-alias: Lady Illmarrow
 ---
 # [Lady Illmarrow](3-Mechanics\CLI\bestiary\npc/lady-illmarrow-erlw.md)
 *Source: Eberron: Rising from the Last War p. 296*  

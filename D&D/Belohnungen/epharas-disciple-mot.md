@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Ephara's Disciple"
+linter-yaml-title-alias: "Ephara's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

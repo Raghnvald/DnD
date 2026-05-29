@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Oil of Etherealness
+linter-yaml-title-alias: Oil of Etherealness
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Oil of Etherealness
-linter-yaml-title-alias: Oil of Etherealness
 ---
 # Oil of Etherealness
 *Potion, rare*  

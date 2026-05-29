@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mage Hunter Golem
+linter-yaml-title-alias: Mage Hunter Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/15

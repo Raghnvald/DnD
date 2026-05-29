@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Consider the Ideal Climax; Adventure Climax
+linter-yaml-title-alias: Consider the Ideal Climax; Adventure Climax
 tags:
   - Quelle/5e/dmg
 aliases:

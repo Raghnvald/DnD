@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Drow Pantheon
+linter-yaml-title-alias: The Drow Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

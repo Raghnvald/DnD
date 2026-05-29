@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Precognitive Mage
+linter-yaml-title-alias: Precognitive Mage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

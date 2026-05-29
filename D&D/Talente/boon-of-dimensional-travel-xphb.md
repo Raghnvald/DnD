@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Dimensional Travel
+linter-yaml-title-alias: Boon of Dimensional Travel
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

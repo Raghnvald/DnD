@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Sacred Flame
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
@@ -18,14 +24,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (College of Lore)
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Sacred Flame
-linter-yaml-title-alias: Sacred Flame
 ---
 # Sacred Flame
 *cantrip, Evocation*  

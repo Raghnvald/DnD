@@ -5,6 +5,7 @@ Bezeichnung: Ashari Firetamer
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ashari Firetamer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

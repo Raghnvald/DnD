@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Levitate
+linter-yaml-title-alias: Levitate
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -14,17 +23,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/ascendant-step
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Levitate
-linter-yaml-title-alias: Levitate
 ---
 # Levitate
 *2nd-level, Transmutation*  

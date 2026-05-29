@@ -5,6 +5,7 @@ Bezeichnung: Armanite
 Kategorie: Unhold (Dämon)
 Größe: Groß
 status: WIP
+linter-yaml-title-alias: Armanite
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

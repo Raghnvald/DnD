@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Mountain's Toe Gold Mine"
+linter-yaml-title-alias: "Mountain's Toe Gold Mine"
 tags:
   - Quelle/5e/dip
 aliases:
+  - "Mountain's Toe Gold Mine"
   - Mountain's Toe Gold Mine
 ---
 # Mountain's Toe Gold Mine

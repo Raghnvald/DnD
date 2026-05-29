@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Paper Bird
+linter-yaml-title-alias: Paper Bird
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/wdh
 aliases:
   - Paper Bird
-linter-yaml-title-alias: Paper Bird
 ---
 # Paper Bird
 *Wondrous item, uncommon*  

@@ -1,6 +1,17 @@
 ---
 Bezeichnung: Dunkelheit
 Zaubergrad: 2
+linter-yaml-title-alias: Dunkelheit
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Swamp)
+  - Fighter (Eldritch Knight)
+  - Monk (Way of Shadow)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/swamp
@@ -17,18 +28,9 @@ tags:
   - Subrasse/tiefling
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Swamp)
-  - Fighter (Eldritch Knight)
-  - Monk (Way of Shadow)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Darkness
+  - Dunkelheit
 ---
 # Dunkelheit
 *Hervorrufung des 2. Grades*  

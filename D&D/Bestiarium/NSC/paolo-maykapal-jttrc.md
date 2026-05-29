@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Paolo Maykapal
+linter-yaml-title-alias: Paolo Maykapal
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Paolo Maykapal
-linter-yaml-title-alias: Paolo Maykapal
 ---
 # [Paolo Maykapal](3-Mechanics\CLI\bestiary\npc/paolo-maykapal-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 138*  

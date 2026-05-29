@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ancient Being Operative Roles
+linter-yaml-title-alias: Ancient Being Operative Roles
 tags:
   - Quelle/5e/tce
 aliases:

@@ -7,6 +7,13 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Todeswolke
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Death Domain)
+  - Druid (Circle of the Land, Underdark)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/underdark
@@ -16,15 +23,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Death Domain)
-  - Druid (Circle of the Land, Underdark)
-  - Sorcerer
-  - Wizard
 aliases:
   - Cloudkill
-linter-yaml-title-alias: Todeswolke
+  - Todeswolke
 ---
 # Todeswolke
 *Beschwörung des 5. Grades*

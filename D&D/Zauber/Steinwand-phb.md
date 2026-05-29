@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Wall of Stone
 Zaubergrad: 5
+linter-yaml-title-alias: Wall of Stone
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Druid (Circle of the Land, Desert)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -11,15 +18,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/optfeature/wave-of-rolling-earth
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Druid (Circle of the Land, Desert)
-  - Sorcerer
-  - Wizard
 aliases:
   - Wall of Stone
-linter-yaml-title-alias: Wall of Stone
 ---
 # Wall of Stone
 *5th-level, Evocation*  

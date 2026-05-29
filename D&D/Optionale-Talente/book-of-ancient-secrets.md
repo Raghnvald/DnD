@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Book of Ancient Secrets
+linter-yaml-title-alias: Book of Ancient Secrets
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

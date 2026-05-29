@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Gewürznelken
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 3 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Gewürznelken
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Cloves
-linter-yaml-title-alias: Cloves
+  - Gewürznelken
 ---
 # Gewürznelken
 *Handelsgut*  

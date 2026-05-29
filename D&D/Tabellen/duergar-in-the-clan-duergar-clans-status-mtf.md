@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Duergar in the Clan; Duergar Clan's Status"
+linter-yaml-title-alias: "Duergar in the Clan; Duergar Clan's Status"
 tags:
   - Quelle/5e/mtf
 aliases:
+  - "Duergar in the Clan; Duergar Clan's Status"
   - Duergar in the Clan; Duergar Clan's Status
 ---
 # Duergar in the Clan; Duergar Clan's Status

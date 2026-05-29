@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gaming Set
+linter-yaml-title-alias: Gaming Set
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Gaming Set
-linter-yaml-title-alias: Gaming Set
 ---
 # Gaming Set
 *Gaming set*  

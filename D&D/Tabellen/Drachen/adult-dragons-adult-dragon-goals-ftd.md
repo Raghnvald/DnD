@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adult Dragons; Adult Dragon Goals
+linter-yaml-title-alias: Adult Dragons; Adult Dragon Goals
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Against the Giants
+linter-yaml-title-alias: Against the Giants
 tags:
   - Quelle/5e/bgg
 aliases:

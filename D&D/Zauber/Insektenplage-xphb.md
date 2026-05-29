@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Insect Plague
+linter-yaml-title-alias: Insect Plague
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Nature Domain)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Tropical Land)
+  - Ranger (Swarmkeeper)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Fiend Patron)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -14,20 +26,8 @@ tags:
   - Subklasse/swarmkeeper
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Nature Domain)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Tropical Land)
-  - Ranger (Swarmkeeper)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Fiend Patron)
 aliases:
   - Insect Plague
-linter-yaml-title-alias: Insect Plague
 ---
 # Insect Plague
 *5th-level, Conjuration*  

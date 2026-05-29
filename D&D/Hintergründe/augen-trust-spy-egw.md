@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Augen Trust (Spy)
+linter-yaml-title-alias: Augen Trust (Spy)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw

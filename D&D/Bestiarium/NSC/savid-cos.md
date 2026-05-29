@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Savid
+linter-yaml-title-alias: Savid
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Savid
-linter-yaml-title-alias: Savid
 ---
 # [Savid](3-Mechanics\CLI\bestiary\npc/savid-cos.md)
 *Source: Curse of Strahd p. 133*  

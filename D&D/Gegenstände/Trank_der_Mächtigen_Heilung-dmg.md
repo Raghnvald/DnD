@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Trank der Mächtigen Heilung
 Kategorie: Trank
+linter-yaml-title-alias: Trank der Mächtigen Heilung
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Greater Healing
-linter-yaml-title-alias: Trank der Mächtigen Heilung
+  - Trank der Mächtigen Heilung
 ---
 # Trank der Mächtigen Heilung
 *Trank, ungewöhnlich*  

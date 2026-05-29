@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Necrichor
+linter-yaml-title-alias: Necrichor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Necrichor
-linter-yaml-title-alias: Necrichor
 ---
 # [Necrichor](3-Mechanics\CLI\bestiary\undead/necrichor-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 238*  

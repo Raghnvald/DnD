@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merrow Extortionist
+linter-yaml-title-alias: Merrow Extortionist
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1

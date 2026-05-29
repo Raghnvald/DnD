@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kraken
+linter-yaml-title-alias: Kraken
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

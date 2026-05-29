@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Defense
+linter-yaml-title-alias: Defense
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

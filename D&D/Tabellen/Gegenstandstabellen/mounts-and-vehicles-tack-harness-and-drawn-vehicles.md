@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge
+linter-yaml-title-alias: Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge
 tags:
   - Quelle/5e/phb
 aliases:
   - Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
+  - Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge
 ---
 # Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge
 *Quelle: SRD / Grundregelwerk*

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Tarrasque)
+linter-yaml-title-alias: Scroll of Titan Summoning (Tarrasque)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning (Tarrasque)
-linter-yaml-title-alias: Scroll of Titan Summoning (Tarrasque)
 ---
 # Scroll of Titan Summoning (Tarrasque)
 *Scroll, legendary*  

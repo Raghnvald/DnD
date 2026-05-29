@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Serpentine Owl
+linter-yaml-title-alias: Figurine of Wondrous Power, Serpentine Owl
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Figurine of Wondrous Power, Serpentine Owl
-linter-yaml-title-alias: Figurine of Wondrous Power, Serpentine Owl
 ---
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous item, rare*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kingsport
+linter-yaml-title-alias: Kingsport
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Kingsport
-linter-yaml-title-alias: Kingsport
 ---
 # [Kingsport](3-Mechanics\CLI\bestiary\npc/kingsport-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 243*  

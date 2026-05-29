@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Deities
+linter-yaml-title-alias: Duergar Deities
 tags:
   - Quelle/5e/mtf
 aliases:

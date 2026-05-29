@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Infernal Calling
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -13,13 +18,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 aliases:
   - Infernal Calling
-linter-yaml-title-alias: Infernal Calling
 ---
 # Infernal Calling
 *5th-level, Conjuration*  

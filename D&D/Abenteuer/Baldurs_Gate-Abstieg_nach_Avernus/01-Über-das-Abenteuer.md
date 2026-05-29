@@ -1,7 +1,10 @@
 ---
 Bezeichnung: <center>Über dieses Abenteuer</center>
+linter-yaml-title-alias: <center>Über dieses Abenteuer</center>
 tags:
   - Quelle/5e/bgdia
+aliases:
+  - <center>Über dieses Abenteuer</center>
 ---
 # <center>Über dieses Abenteuer</center>
 *Quelle: Baldur's Gate: Descent Into Avernus, S. 5* 

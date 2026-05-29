@@ -1,6 +1,11 @@
 ---
 Bezeichnung: "Crusader's Mantle"
 Zaubergrad: 3
+linter-yaml-title-alias: "Crusader's Mantle"
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (War Domain)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/war-domain
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (War Domain)
-  - Paladin
 aliases:
-  - Crusader's Mantle
-linter-yaml-title-alias: Crusader's Mantle
+  - "Crusader's Mantle"
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  

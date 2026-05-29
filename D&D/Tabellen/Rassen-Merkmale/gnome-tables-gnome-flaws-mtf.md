@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome Tables; Gnome Flaws
+linter-yaml-title-alias: Gnome Tables; Gnome Flaws
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gearkeeper Construct
+linter-yaml-title-alias: Gearkeeper Construct
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Trident
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Trident
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Trident
-linter-yaml-title-alias: Trident
 ---
 # Trident
 *Weapon*  

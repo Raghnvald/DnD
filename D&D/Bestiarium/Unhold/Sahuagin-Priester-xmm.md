@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Priest
+linter-yaml-title-alias: Sahuagin Priest
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

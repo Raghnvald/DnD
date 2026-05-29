@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Shapechange
+linter-yaml-title-alias: Shapechange
+classes:
+  - Bard
+  - Druid
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/9
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Wizard
 aliases:
   - Shapechange
-linter-yaml-title-alias: Shapechange
 ---
 # Shapechange
 *9th-level, Transmutation*  

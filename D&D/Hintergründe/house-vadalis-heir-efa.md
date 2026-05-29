@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Vadalis Heir
+linter-yaml-title-alias: House Vadalis Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Vadalis Heir"
+  - House Vadalis Heir
 ---
 # House Vadalis Heir
 *Source: Eberron: Forge of the Artificer p. 33*  

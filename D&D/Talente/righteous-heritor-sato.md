@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Righteous Heritor
+linter-yaml-title-alias: Righteous Heritor
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
   - "Righteous Heritor"
+  - Righteous Heritor
 ---
 # Righteous Heritor
 *Source: Sigil and the Outlands p. 11*  

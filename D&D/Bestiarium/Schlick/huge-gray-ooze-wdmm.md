@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Huge Gray Ooze
+linter-yaml-title-alias: Huge Gray Ooze
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

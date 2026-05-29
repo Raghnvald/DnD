@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lonelywood Banshee
+linter-yaml-title-alias: Lonelywood Banshee
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Lonelywood Banshee
-linter-yaml-title-alias: Lonelywood Banshee
 ---
 # [Lonelywood Banshee](3-Mechanics\CLI\bestiary\undead/lonelywood-banshee-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 81*  

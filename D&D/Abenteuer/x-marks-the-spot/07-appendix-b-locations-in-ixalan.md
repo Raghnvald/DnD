@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Locations in Ixalan"
+linter-yaml-title-alias: "Appendix B: Locations in Ixalan"
 tags:
   - Quelle/5e/xmts
 aliases:

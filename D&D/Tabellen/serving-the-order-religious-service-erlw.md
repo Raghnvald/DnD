@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Serving the Order; Religious Service
+linter-yaml-title-alias: Serving the Order; Religious Service
 tags:
   - Quelle/5e/erlw
 aliases:

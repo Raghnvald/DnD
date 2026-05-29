@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 4)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Level 4)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Level 4) Splint Armor
   - Enspelled (Level 4) Studded Leather Armor
   - Enspelled Armor (Level 4)
-linter-yaml-title-alias: Enspelled Armor (Level 4)
 ---
 # Enspelled Armor (Level 4)
 *Very rare (requires attunement)*  

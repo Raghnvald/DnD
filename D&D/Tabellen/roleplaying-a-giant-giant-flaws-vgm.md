@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Giant; Giant Flaws
+linter-yaml-title-alias: Roleplaying a Giant; Giant Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

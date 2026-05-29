@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undercity Medusa
+linter-yaml-title-alias: Undercity Medusa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

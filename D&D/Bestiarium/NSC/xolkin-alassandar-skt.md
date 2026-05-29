@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xolkin Alassandar
+linter-yaml-title-alias: Xolkin Alassandar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Xolkin Alassandar
-linter-yaml-title-alias: Xolkin Alassandar
 ---
 # [Xolkin Alassandar](3-Mechanics\CLI\bestiary\npc/xolkin-alassandar-skt.md)
 *Source: Storm King's Thunder p. 27*  

@@ -4,10 +4,12 @@ prefer-view:
 Bezeichnung: Eidbrecher
 status:
   - completed
+linter-yaml-title-alias: Eidbrecher
 tags:
   - Klasse/Paladin
   - Quelle/5e/dmg
 aliases:
+  - Eidbrecher
   - Oathbreaker
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin

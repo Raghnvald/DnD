@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Hospitality
+linter-yaml-title-alias: Mark of Hospitality
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Hospitality"
+  - Mark of Hospitality
 ---
 # Mark of Hospitality
 *Source: Eberron: Forge of the Artificer p. 40*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Black Dragon
+linter-yaml-title-alias: Young Black Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Sumpf
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Young Black Dragon
-linter-yaml-title-alias: Young Black Dragon
 ---
 # [Young Black Dragon](3-Mechanics\CLI\bestiary\dragon/young-black-dragon.md)
 *Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

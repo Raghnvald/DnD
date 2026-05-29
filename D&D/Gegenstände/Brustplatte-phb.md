@@ -2,19 +2,20 @@
 Bezeichnung: Brustplatte
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 400 GM
 Gew.: 10,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Brustplatte
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Breastplate
-linter-yaml-title-alias: Breastplate
+  - Brustplatte
 ---
 # Brustplatte
 *Mittelschwere Rüstung*  

@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Kugel der Drachen
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kugel der Drachen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Orb of Dragonkind
-linter-yaml-title-alias: Orb of Dragonkind
+  - Kugel der Drachen
 ---
 # Kugel der Drachen
 *Wondrous item, artifact (requires attunement)*  

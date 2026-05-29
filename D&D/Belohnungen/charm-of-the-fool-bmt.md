@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Fool
+linter-yaml-title-alias: Charm of the Fool
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

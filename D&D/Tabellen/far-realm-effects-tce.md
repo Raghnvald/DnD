@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Far Realm Effects
+linter-yaml-title-alias: Far Realm Effects
 tags:
   - Quelle/5e/tce
 aliases:

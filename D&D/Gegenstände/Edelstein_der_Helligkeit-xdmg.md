@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Gem of Brightness
+linter-yaml-title-alias: Gem of Brightness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Gem of Brightness
-linter-yaml-title-alias: Gem of Brightness
 ---
 # Gem of Brightness
 *Wondrous item, uncommon*  

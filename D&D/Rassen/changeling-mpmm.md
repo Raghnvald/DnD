@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Changeling
+linter-yaml-title-alias: Changeling
 tags:
   - Quelle/5e/mpmm
   - Rasse/changeling

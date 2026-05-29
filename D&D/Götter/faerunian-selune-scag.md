@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selûne
+linter-yaml-title-alias: Selûne
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life

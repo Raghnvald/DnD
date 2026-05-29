@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Relationships
+linter-yaml-title-alias: Monster Relationships
 tags:
   - Quelle/5e/xdmg
 aliases:

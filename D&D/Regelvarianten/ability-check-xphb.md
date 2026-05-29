@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Check
+linter-yaml-title-alias: Ability Check
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Rogue's Mantle"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Rogue's Mantle"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
-  - Rogue's Mantle
-linter-yaml-title-alias: Rogue's Mantle
+  - "Rogue's Mantle"
 ---
 # Rogue's Mantle
 *Wondrous item, rare (requires attunement)*  

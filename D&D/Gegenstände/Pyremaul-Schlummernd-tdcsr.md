@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pyremaul (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Pyremaul (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Pyremaul (Dormant)
-linter-yaml-title-alias: Pyremaul (Dormant)
 ---
 # Pyremaul (Dormant)
 *Weapon ([maul](/3-Mechanics/CLI/items/maul-xphb.md)), legendary (requires attunement)*  

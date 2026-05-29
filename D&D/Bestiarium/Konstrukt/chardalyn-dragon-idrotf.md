@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chardalyn Dragon
+linter-yaml-title-alias: Chardalyn Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11

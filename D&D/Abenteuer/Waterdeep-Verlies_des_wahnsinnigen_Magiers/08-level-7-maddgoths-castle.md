@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 7: Maddgoth's Castle"
+linter-yaml-title-alias: "Level 7: Maddgoth's Castle"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 7: Maddgoth's Castle"
   - Level 7: Maddgoth's Castle
 ---
 # Level 7: Maddgoth's Castle

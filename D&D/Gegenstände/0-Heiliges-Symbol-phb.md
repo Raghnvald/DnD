@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Heiliges Symbol
+Status: completed
+linter-yaml-title-alias: Heiliges Symbol
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Heiliges Symbol
   - Holy Symbol
-linter-yaml-title-alias: Heiliges Symbol
-Status: completed
 ---
 # Heiliges Symbol
 *Zauberfokus*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chislev
+linter-yaml-title-alias: Chislev
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/dragonlance

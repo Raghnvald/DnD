@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: 1 Minute
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Spiegelbilder
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -17,6 +18,7 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Mirror Image
+  - Spiegelbilder
 ---
 # Spiegelbilder
 _Illusion des 2. Grades_

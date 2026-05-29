@@ -7,6 +7,19 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Light
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -29,21 +42,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Light
-linter-yaml-title-alias: Light
 ---
 # Light
 *cantrip, Evocation*  

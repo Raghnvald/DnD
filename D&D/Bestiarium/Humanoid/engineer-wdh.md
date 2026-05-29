@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Engineer
+linter-yaml-title-alias: Engineer
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

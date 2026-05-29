@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zaratan
+linter-yaml-title-alias: Zaratan
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Berg

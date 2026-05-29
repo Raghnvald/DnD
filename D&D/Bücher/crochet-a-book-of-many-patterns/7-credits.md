@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/cabomp
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Crochet: A Book of Many Patterns, p. 158* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcana - Legendary
+linter-yaml-title-alias: Arcana - Legendary
 tags:
   - Quelle/5e/xdmg
 aliases:

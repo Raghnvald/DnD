@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aarakocra
+linter-yaml-title-alias: Aarakocra
 tags:
   - Quelle/5e/mpmm
   - Rasse/aarakocra

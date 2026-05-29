@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Iroas's Disciple"
+linter-yaml-title-alias: "Iroas's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

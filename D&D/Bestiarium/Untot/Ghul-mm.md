@@ -11,6 +11,7 @@ Habitat:
   - Unterreich
 image: token/ghoul.webp
 status: completed
+linter-yaml-title-alias: Ghul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -22,7 +23,6 @@ tags:
 aliases:
   - Ghoul
   - Ghul
-linter-yaml-title-alias: Ghul
 ---
 # Ghul
 *Quelle: Monsterhandbuch S. 133. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

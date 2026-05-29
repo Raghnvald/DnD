@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharpshooter
+linter-yaml-title-alias: Sharpshooter
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

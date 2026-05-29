@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ammunition of Slaying
+linter-yaml-title-alias: Ammunition of Slaying
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Ausrüstung/ammunition-firearm
@@ -15,7 +16,6 @@ aliases:
   - Firearm Bullet of Slaying
   - Needle of Slaying
   - Sling Bullet of Slaying
-linter-yaml-title-alias: Ammunition of Slaying
 ---
 # Ammunition of Slaying
 *Ammunition, very rare*  

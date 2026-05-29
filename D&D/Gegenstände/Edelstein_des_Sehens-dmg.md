@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Edelstein des Sehens
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Edelstein des Sehens
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Gem of Seeing
-linter-yaml-title-alias: Gem of Seeing
+  - Edelstein des Sehens
 ---
 # Edelstein des Sehens
 *Wundersamer Gegenstand, selten (erfordert Einstimmung)*  

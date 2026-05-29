@@ -1,16 +1,16 @@
 ---
 Bezeichnung: Lamp
+linter-yaml-title-alias: Lamp
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Lamp
-linter-yaml-title-alias: Lamp
 ---
 # Lamp
 *Adventuring gear*  
-![](/3-Mechanics/CLI/items/img/lamp.webp#right)
+![](img/lamp.webp#right)
 
 - **Cost**: 5 sp
 - **Weight**: 1.0 lbs.

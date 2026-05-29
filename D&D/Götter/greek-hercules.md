@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hercules
+linter-yaml-title-alias: Hercules
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war

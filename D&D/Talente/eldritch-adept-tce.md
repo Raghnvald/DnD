@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Adept
+linter-yaml-title-alias: Eldritch Adept
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce

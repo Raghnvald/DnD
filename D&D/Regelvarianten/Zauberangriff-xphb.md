@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Attack
+linter-yaml-title-alias: Spell Attack
 tags:
   - Quelle/5e/xphb
 aliases:

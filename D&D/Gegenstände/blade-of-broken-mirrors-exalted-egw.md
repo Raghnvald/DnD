@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blade of Broken Mirrors (Exalted)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Blade of Broken Mirrors (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Blade of Broken Mirrors (Exalted)
-linter-yaml-title-alias: Blade of Broken Mirrors (Exalted)
 ---
 # Blade of Broken Mirrors (Exalted)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), artifact (requires attunement by a humanoid)*  

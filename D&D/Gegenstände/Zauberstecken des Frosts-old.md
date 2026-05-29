@@ -2,9 +2,11 @@
 Bezeichnung: Zauberstecken des Frosts
 Kategorie: Zauberstecken
 Schaden: 1W6 Hieb
-Eigenschaften: Vielseitig (1W8)
+Eigenschaften:
+  - Vielseitig (1W8)
 Kst.: 40.000 GM
 Gew.: 2,0 kg
+linter-yaml-title-alias: Zauberstecken des Frosts
 tags:
   - Gegenstand/Eigenschaft/Vielseitig
   - Gegenstand/Einstimmung/Druide
@@ -16,6 +18,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Staff of Frost
+  - Zauberstecken des Frosts
 ---
 # Zauberstecken des Frosts
 _Zauberstecken, sehr selten (erfordert Einstimmung durch einen Druiden, Hexenmeister, Magier oder Zauberer)_

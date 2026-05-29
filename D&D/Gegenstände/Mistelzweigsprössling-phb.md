@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Mistelzweigsprössling
 Kategorie: Fokus, Druidisch
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 1 GM
-Gew.: n/v
+Gew.: /
+status: completed
+linter-yaml-title-alias: Mistelzweigsprössling
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -13,11 +16,10 @@ tags:
 aliases:
   - Mistelzweigsprössling
   - Sprig of Mistletoe
-linter-yaml-title-alias: Mistelzweigsprössling
 ---
 # Mistelzweigsprössling
 *Zauberfokus*  
 
-Kosten**: 1 Goldmünze
+- **Kosten**: 1 GM
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

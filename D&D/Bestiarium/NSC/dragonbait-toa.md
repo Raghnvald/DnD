@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonbait
+linter-yaml-title-alias: Dragonbait
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Dragonbait
-linter-yaml-title-alias: Dragonbait
 ---
 # [Dragonbait](3-Mechanics\CLI\bestiary\npc/dragonbait-toa.md)
 *Source: Tomb of Annihilation p. 218*  

@@ -1,14 +1,17 @@
 ---
 Bezeichnung: Handbuch der körperlichen Gesundheit
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: n/v
-Kst.: n/v
+Eigenschaften:
+  - /
+Kst.: /
 Gew.: 2,5 kg
+linter-yaml-title-alias: Handbuch der körperlichen Gesundheit
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Handbuch der körperlichen Gesundheit
   - Manual of Bodily Health
 ---
 # Handbuch der körperlichen Gesundheit

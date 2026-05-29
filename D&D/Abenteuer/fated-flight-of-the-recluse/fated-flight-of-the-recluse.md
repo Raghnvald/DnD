@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Fated Flight of the Recluse
+linter-yaml-title-alias: Index of Fated Flight of the Recluse
+aliases:
+  - Index of Fated Flight of the Recluse
 ---
 # Index of Fated Flight of the Recluse
 

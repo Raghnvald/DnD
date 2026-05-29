@@ -7,6 +7,12 @@ Komponenten: V, G
 Wirkungsdauer: 1 Minute
 Angriff: /
 Schaden: /
+linter-yaml-title-alias: Waffe des Glaubens
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (War Domain)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -15,14 +21,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Cleric (War Domain)
 aliases:
-  - Spiritual Weapon
-linter-yaml-title-alias: Spiritual Weapon
+  - Waffe des Glaubens
 ---
 # Waffe des Glaubens
 *Hervorrufung des 2. Grades*  

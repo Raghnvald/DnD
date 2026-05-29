@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Opal of the Ild Rune
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Opal of the Ild Rune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Opal of the Ild Rune
-linter-yaml-title-alias: Opal of the Ild Rune
 ---
 # Opal of the Ild Rune
 *Wondrous item, rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Spirit
+linter-yaml-title-alias: Undead Spirit
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Undead Spirit
-linter-yaml-title-alias: Undead Spirit
 ---
 # [Undead Spirit](3-Mechanics\CLI\bestiary\undead/undead-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 328*  

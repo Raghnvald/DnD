@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adventure Hooks
+linter-yaml-title-alias: Adventure Hooks
 tags:
   - Quelle/5e/xmts
 aliases:
   - "Adventure Hooks"
+  - Adventure Hooks
 ---
 # Adventure Hooks
 *Source: X Marks the Spot, p. 2* 

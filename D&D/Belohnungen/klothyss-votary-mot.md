@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Klothys's Votary"
+linter-yaml-title-alias: "Klothys's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Owlin
+linter-yaml-title-alias: Owlin
 tags:
   - Quelle/5e/scc
   - Rasse/owlin
 aliases:
   - "Owlin"
+  - Owlin
 ---
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  

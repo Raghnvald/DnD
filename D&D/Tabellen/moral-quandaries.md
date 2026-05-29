@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moral Quandaries
+linter-yaml-title-alias: Moral Quandaries
 tags:
   - Quelle/5e/dmg
 aliases:

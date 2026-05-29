@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Therzt
+linter-yaml-title-alias: Therzt
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Therzt
-linter-yaml-title-alias: Therzt
 ---
 # [Therzt](3-Mechanics\CLI\bestiary\npc/therzt-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

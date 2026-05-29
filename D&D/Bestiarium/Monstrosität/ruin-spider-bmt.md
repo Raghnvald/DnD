@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ruin Spider
+linter-yaml-title-alias: Ruin Spider
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

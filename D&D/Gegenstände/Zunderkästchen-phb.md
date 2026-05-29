@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Tinderbox
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 SM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Tinderbox
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Tinderbox
-linter-yaml-title-alias: Tinderbox
 ---
 # Tinderbox
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Savage Attacker
+linter-yaml-title-alias: Savage Attacker
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nonhuman Deities
+linter-yaml-title-alias: Nonhuman Deities
 tags:
   - Quelle/5e/phb
 aliases:

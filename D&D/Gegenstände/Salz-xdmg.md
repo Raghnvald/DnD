@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Salt
+linter-yaml-title-alias: Salt
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Salt
-linter-yaml-title-alias: Salt
 ---
 # Salt
 *Trade good*  

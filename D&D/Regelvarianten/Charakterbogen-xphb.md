@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Character Sheet
+linter-yaml-title-alias: Character Sheet
 tags:
   - Quelle/5e/xphb
 aliases:

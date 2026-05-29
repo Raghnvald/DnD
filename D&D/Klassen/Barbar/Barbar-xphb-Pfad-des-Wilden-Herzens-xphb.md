@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Wild Heart
+linter-yaml-title-alias: Path of the Wild Heart
 tags:
   - Klasse/Barbar/wild-heart
   - Quelle/5e/xphb

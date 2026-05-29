@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Flamefriend Lantern
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Flamefriend Lantern
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tdcsr
 aliases:
   - Flamefriend Lantern
-linter-yaml-title-alias: Flamefriend Lantern
 ---
 # Flamefriend Lantern
 *Wondrous item, rare (requires attunement)*  

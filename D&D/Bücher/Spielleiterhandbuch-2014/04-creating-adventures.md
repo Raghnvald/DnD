@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating Adventures
+linter-yaml-title-alias: Creating Adventures
 tags:
   - Quelle/5e/dmg
 aliases:

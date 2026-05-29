@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loviatar, Göttin der Schmerzen
+linter-yaml-title-alias: Loviatar, Göttin der Schmerzen
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Tod
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Loviatar
+  - Loviatar, Göttin der Schmerzen
 ---
 # Loviatar, Göttin der Schmerzen
 *Quelle: SRD / Grundregelwerk* 

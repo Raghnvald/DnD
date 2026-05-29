@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragons in Play
+linter-yaml-title-alias: Dragons in Play
 tags:
   - Quelle/5e/ftd
 aliases:

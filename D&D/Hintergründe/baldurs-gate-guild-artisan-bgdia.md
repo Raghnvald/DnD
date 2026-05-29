@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Guild Artisan"
+linter-yaml-title-alias: "Baldur's Gate Guild Artisan"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Guild Artisan"
   - Baldur's Gate Guild Artisan
 ---
 # Baldur's Gate Guild Artisan

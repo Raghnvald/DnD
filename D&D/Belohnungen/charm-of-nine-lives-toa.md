@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Nine Lives
+linter-yaml-title-alias: Charm of Nine Lives
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/toa

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phantom
+linter-yaml-title-alias: Phantom
 tags:
   - Klasse/Schurke/phantom
   - Quelle/5e/tce

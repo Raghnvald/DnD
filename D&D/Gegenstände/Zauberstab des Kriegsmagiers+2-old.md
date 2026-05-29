@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab des Kriegsmagiers +2
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
 Kst.: 4.000 GM
 Gew.: 0,5 kg
 image: wand.webp
+linter-yaml-title-alias: Zauberstab des Kriegsmagiers +2
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -13,7 +15,6 @@ tags:
 aliases:
   - Wand of the War Mage +2
   - Zauberstab des Kriegsmagiers +2
-linter-yaml-title-alias: Zauberstab des Kriegsmagiers +2
 ---
 # Zauberstab des Kriegsmagiers +2
 *Zauberstab, selten (erfordert Einstimmung durch einen Zauberwirker)*  

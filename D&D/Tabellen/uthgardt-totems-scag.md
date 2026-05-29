@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Uthgardt Totems
+linter-yaml-title-alias: Uthgardt Totems
 tags:
   - Quelle/5e/scag
 aliases:

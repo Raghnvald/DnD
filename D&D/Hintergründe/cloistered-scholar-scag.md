@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloistered Scholar
+linter-yaml-title-alias: Cloistered Scholar
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

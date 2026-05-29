@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells
+linter-yaml-title-alias: Spells
 tags:
   - Quelle/5e/uthftlh
 aliases:
   - "Spells"
+  - Spells
 ---
 # Spells
 *Source: Uni and the Hunt for the Lost Horn* 

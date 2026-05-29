@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Cabal's Ruin (Awakened)"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Cabal's Ruin (Awakened)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
-  - Cabal's Ruin (Awakened)
-linter-yaml-title-alias: Cabal's Ruin (Awakened)
+  - "Cabal's Ruin (Awakened)"
 ---
 # Cabal's Ruin (Awakened)
 *Wondrous item, legendary (requires attunement)*  

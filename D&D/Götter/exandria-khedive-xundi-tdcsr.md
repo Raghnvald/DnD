@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Khedive Xundi
+linter-yaml-title-alias: Khedive Xundi
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

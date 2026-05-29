@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Nylea's Votary"
+linter-yaml-title-alias: "Spells for Nylea's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/nyleas-votary
 aliases:

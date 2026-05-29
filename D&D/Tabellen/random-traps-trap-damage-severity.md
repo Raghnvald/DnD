@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Traps; Trap Damage Severity
+linter-yaml-title-alias: Random Traps; Trap Damage Severity
 tags:
   - Quelle/5e/dmg
 aliases:

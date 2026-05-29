@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: The Dalelands"
+linter-yaml-title-alias: "Chapter 2: The Dalelands"
 tags:
   - Quelle/5e/fraif
 aliases:

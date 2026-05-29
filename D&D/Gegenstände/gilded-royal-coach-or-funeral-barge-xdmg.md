@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gilded royal coach or funeral barge
+linter-yaml-title-alias: Gilded royal coach or funeral barge
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Gilded royal coach or funeral barge
-linter-yaml-title-alias: Gilded royal coach or funeral barge
 ---
 # Gilded royal coach or funeral barge
 *Treasure (art object)*  

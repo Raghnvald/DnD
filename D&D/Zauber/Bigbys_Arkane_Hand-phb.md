@@ -7,18 +7,18 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Bigby's Hand"
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
-  - Bigby's Hand
-linter-yaml-title-alias: Bigby's Hand
+  - "Bigby's Hand"
 ---
 # Bigby's Hand
 *Hervorrufung des 5. Grades*  

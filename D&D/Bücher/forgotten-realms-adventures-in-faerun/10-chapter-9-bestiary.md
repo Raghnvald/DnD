@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 9: Bestiary"
+linter-yaml-title-alias: "Chapter 9: Bestiary"
 tags:
   - Quelle/5e/fraif
 aliases:

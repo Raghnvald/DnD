@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Alchemist
+linter-yaml-title-alias: Spells for Alchemist
 tags:
   - Zauber/list/subclass/alchemist
 aliases:

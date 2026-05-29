@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: The Savage Frontier"
+linter-yaml-title-alias: "Chapter 3: The Savage Frontier"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 3: The Savage Frontier"
   - Chapter 3: The Savage Frontier
 ---
 # Chapter 3: The Savage Frontier

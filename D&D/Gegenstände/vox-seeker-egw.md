@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Vox Seeker
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Vox Seeker
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Vox Seeker
-linter-yaml-title-alias: Vox Seeker
 ---
 # Vox Seeker
 *Wondrous item, common*  

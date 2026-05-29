@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Adventure Atlas: The Mortuary"
+linter-yaml-title-alias: "Adventure Atlas: The Mortuary"
 tags:
   - Quelle/5e/aatm
 aliases:

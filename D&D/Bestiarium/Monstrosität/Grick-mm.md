@@ -11,6 +11,7 @@ Habitat:
   - Wald
 image: token/grick.webp
 status: completed
+linter-yaml-title-alias: Grick
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

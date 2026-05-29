@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kristallkugel des Gedankenlesens
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kristallkugel des Gedankenlesens
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Kristallkugel des Gedankenlesens
-linter-yaml-title-alias: Kristallkugel des Gedankenlesens
 ---
 # Kristallkugel des Gedankenlesens
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung)*  

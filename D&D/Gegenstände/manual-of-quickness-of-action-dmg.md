@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Quickness of Action
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Quickness of Action
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Quickness of Action
-linter-yaml-title-alias: Manual of Quickness of Action
 ---
 # Manual of Quickness of Action
 *Wondrous item, major, very rare*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Leilon Besieged
+linter-yaml-title-alias: Leilon Besieged
 tags:
   - Quelle/5e/dc
 aliases:
   - "Leilon Besieged"
+  - Leilon Besieged
 ---
 # Leilon Besieged
 *Source: Essentials Kit: Divine Contention* 

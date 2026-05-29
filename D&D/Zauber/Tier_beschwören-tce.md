@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Summon Beast
 Zaubergrad: 2
+linter-yaml-title-alias: Summon Beast
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -10,15 +17,8 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
-  - Wizard (Illusionist)
 aliases:
   - Summon Beast
-linter-yaml-title-alias: Summon Beast
 ---
 # Summon Beast
 *2nd-level, Conjuration*  

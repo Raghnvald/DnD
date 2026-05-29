@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Spellfire Spark
+linter-yaml-title-alias: Spellfire Spark
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Spellfire Spark"
+  - Spellfire Spark
 ---
 # Spellfire Spark
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

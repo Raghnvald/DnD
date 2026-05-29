@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Settlements; Known For Its...
+linter-yaml-title-alias: Random Settlements; Known For Its...
 tags:
   - Quelle/5e/dmg
 aliases:

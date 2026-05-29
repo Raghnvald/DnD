@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reliquary
+linter-yaml-title-alias: Reliquary
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

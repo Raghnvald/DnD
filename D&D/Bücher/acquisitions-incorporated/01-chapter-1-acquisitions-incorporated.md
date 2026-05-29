@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Acquisitions Incorporated"
+linter-yaml-title-alias: "Chapter 1: Acquisitions Incorporated"
 tags:
   - Quelle/5e/ai
 aliases:

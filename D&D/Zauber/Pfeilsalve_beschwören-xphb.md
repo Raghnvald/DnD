@@ -1,15 +1,15 @@
 ---
 Bezeichnung: Conjure Volley
+linter-yaml-title-alias: Conjure Volley
+classes:
+  - Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Ranger
 aliases:
   - Conjure Volley
-linter-yaml-title-alias: Conjure Volley
 ---
 # Conjure Volley
 *5th-level, Conjuration*  

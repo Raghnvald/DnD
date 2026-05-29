@@ -6,6 +6,19 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Freedom of Movement
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of the Land, Temperate Land)
+  - Paladin (Oath of Devotion)
+  - Paladin (Oath of Glory)
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -22,21 +35,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/tricksters-escape
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Cleric
-  - Cleric (War Domain)
-  - Druid
-  - Druid (Circle of the Land, Temperate Land)
-  - Paladin (Oath of Devotion)
-  - Paladin (Oath of Glory)
-  - Ranger
-  - Sorcerer (Clockwork Sorcery)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Freedom of Movement
-linter-yaml-title-alias: Freedom of Movement
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

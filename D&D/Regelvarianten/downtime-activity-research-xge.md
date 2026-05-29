@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Research"
+linter-yaml-title-alias: "Downtime Activity: Research"
 tags:
   - Quelle/5e/xge
 aliases:
+  - "Downtime Activity: Research"
   - Downtime Activity: Research
 ---
 # Downtime Activity: Research

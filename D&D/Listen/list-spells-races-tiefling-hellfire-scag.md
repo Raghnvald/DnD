@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Tiefling (Hellfire)
+linter-yaml-title-alias: Spells for Tiefling (Hellfire)
 tags:
   - Zauber/list/subrace/tiefling-hellfire
 aliases:

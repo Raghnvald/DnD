@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Humanoid
+linter-yaml-title-alias: Index of Humanoid
+aliases:
+  - Index of Humanoid
 ---
 # Index of Humanoid
 

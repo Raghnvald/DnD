@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Plants)
+linter-yaml-title-alias: Scroll of Protection (Plants)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Plants)
-linter-yaml-title-alias: Scroll of Protection (Plants)
 ---
 # Scroll of Protection (Plants)
 *Scroll, rare*  

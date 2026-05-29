@@ -8,6 +8,7 @@ Angriff: Fernkampf
 Schaden: 1d8 Kälte
 status:
   - completed
+linter-yaml-title-alias: Kältestrahl
 tags:
   - Klasse/Artifizient
   - Klasse/Magier
@@ -17,6 +18,7 @@ tags:
   - Zauber/Original/Ray_of_Frost
   - Zauber/Schule/Hervorrufung
 aliases:
+  - Kältestrahl
   - Ray of Frost
 ---
 # Kältestrahl

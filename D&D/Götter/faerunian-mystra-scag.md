@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystra
+linter-yaml-title-alias: Mystra
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

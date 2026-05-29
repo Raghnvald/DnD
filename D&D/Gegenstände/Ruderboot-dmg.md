@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Ruderboot
 Kategorie: Luft- und Wasserfahrzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
-Gew.: 50,0 kg.
+Gew.: 50,0 kg
+status: WIP
+linter-yaml-title-alias: Ruderboot
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Rowboat
+  - Ruderboot
 Bew.: 2,25 km/h
-linter-yaml-title-alias: Rowboat
 ---
 # Ruderboot
 *Schiff, Fahrzeug (Wasser)*  

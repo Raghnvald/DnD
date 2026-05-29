@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stirge
+linter-yaml-title-alias: Stirge
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Berg

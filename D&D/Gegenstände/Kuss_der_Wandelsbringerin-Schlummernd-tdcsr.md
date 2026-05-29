@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kiss of the Changebringer (Dormant)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kiss of the Changebringer (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Kiss of the Changebringer (Dormant)
-linter-yaml-title-alias: Kiss of the Changebringer (Dormant)
 ---
 # Kiss of the Changebringer (Dormant)
 *Wondrous item, legendary (requires attunement)*  

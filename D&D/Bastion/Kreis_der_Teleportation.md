@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Teleportation Circle
+linter-yaml-title-alias: Teleportation Circle
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

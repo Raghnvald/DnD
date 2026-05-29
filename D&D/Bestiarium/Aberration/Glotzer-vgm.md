@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Winzig
 HG: 1/2
 status: WIP
+linter-yaml-title-alias: Glotzer
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich
@@ -14,6 +15,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Gazer
+  - Glotzer
 ---
 # Glotzer
 *Source: Volo's Guide to Monsters p. 126, Waterdeep: Dragon Heist*  

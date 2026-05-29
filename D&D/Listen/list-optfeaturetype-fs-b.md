@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Style, Bard
+linter-yaml-title-alias: Fighting Style, Bard
 tags:
   - Quelle/5e/xge
 aliases:

@@ -12,6 +12,7 @@ Habitat:
   - Küste
 image: token/eagle.webp
 status: WIP
+linter-yaml-title-alias: Eagle
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

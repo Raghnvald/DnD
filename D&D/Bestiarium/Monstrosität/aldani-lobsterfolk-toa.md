@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: "1"
 Habitat:
   - /
+image: token/aldani-lobsterfolk-toa.webp
 status: WIP
+linter-yaml-title-alias: Aldani (Lobsterfolk)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

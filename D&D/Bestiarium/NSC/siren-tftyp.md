@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Siren
+linter-yaml-title-alias: Siren
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Siren
-linter-yaml-title-alias: Siren
 ---
 # [Siren](3-Mechanics\CLI\bestiary\npc/siren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 243*  

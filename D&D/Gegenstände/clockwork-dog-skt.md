@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Clockwork Dog
+linter-yaml-title-alias: Clockwork Dog
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/skt
 aliases:
   - Clockwork Dog
-linter-yaml-title-alias: Clockwork Dog
 ---
 # Clockwork Dog
 

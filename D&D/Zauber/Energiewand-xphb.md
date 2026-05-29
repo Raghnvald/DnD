@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Wall of Force
+linter-yaml-title-alias: Wall of Force
+classes:
+  - Artificer (Armorer)
+  - Artificer (Artillerist)
+  - Bard
+  - Paladin (Oath of Redemption)
+  - Sorcerer (Clockwork Sorcery)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -11,17 +20,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Armorer)
-  - Artificer (Artillerist)
-  - Bard
-  - Paladin (Oath of Redemption)
-  - Sorcerer (Clockwork Sorcery)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Wall of Force
-linter-yaml-title-alias: Wall of Force
 ---
 # Wall of Force
 *5th-level, Evocation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Plot Thickens
+linter-yaml-title-alias: The Plot Thickens
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlements by Size
+linter-yaml-title-alias: Settlements by Size
 tags:
   - Quelle/5e/xdmg
 aliases:

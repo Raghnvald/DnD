@@ -11,6 +11,7 @@ Habitat:
   - Unterreich
 image:
 status: WIP
+linter-yaml-title-alias: Specter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -20,7 +21,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Specter
-linter-yaml-title-alias: Specter
 ---
 # [Specter](3-Mechanics\CLI\bestiary\undead/specter.md)
 *Source: Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

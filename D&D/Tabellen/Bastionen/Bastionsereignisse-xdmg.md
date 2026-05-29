@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Bastionsereignisse
 Kategorie: Bastion
+linter-yaml-title-alias: Bastionsereignisse
 tags:
   - Quelle/5e/xdmg
 aliases:
   - Bastion Events
+  - Bastionsereignisse
 ---
 # Bastionsereignisse
 *Quelle: Spielleiterhandbuch (2024), S. 350* 

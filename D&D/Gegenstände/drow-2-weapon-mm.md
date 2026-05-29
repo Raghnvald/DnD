@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drow +2 Weapon
+linter-yaml-title-alias: Drow +2 Weapon
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach
@@ -63,7 +64,6 @@ aliases:
   - Drow +2 Weapon
   - Drow +2 Whip
   - Drow +2 Yklwa
-linter-yaml-title-alias: Drow +2 Weapon
 ---
 # Drow +2 Weapon
 

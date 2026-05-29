@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Sinkhole
+linter-yaml-title-alias: Sinkhole
 tags:
   - Quelle/5e/fraif
 aliases:
   - "Sinkhole"
+  - Sinkhole
 ---
 # Sinkhole
 *Generic Hazard*  

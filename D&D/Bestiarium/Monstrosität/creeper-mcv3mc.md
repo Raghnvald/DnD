@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Creeper
+linter-yaml-title-alias: Creeper
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

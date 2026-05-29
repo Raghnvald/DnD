@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vandria Gilmadrith
+linter-yaml-title-alias: Vandria Gilmadrith
 tags:
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/war

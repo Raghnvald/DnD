@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Skoraeus
+linter-yaml-title-alias: Scion of Skoraeus
 tags:
   - Monster/legendary-group
   - Quelle/5e/bgg

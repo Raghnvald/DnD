@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Antimagisches Feld
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -16,15 +23,9 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/8
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Antimagic Field
-linter-yaml-title-alias: Antimagisches Feld
+  - Antimagisches Feld
 ---
 # Antimagisches Feld
 *Bann des 8. Grades*

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 10
 status: WIP
+linter-yaml-title-alias: Reduced-Threat Aboleth
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

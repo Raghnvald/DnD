@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Goggles of Night
+linter-yaml-title-alias: Goggles of Night
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Goggles of Night
-linter-yaml-title-alias: Goggles of Night
 ---
 # Goggles of Night
 *Wondrous item, uncommon*  

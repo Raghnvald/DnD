@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bezauberung des Federfalls
+linter-yaml-title-alias: Bezauberung des Federfalls
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dmg
 aliases:
+  - Bezauberung des Federfalls
   - Charm of Feather Falling
 ---
 # Bezauberung des Federfalls

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Above and Below Sharn: Important Districts"
+linter-yaml-title-alias: "Above and Below Sharn: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Above and Below Sharn: Important Districts"
   - Above and Below Sharn: Important Districts
 ---
 # Above and Below Sharn: Important Districts

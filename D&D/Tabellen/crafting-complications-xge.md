@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crafting Complications
+linter-yaml-title-alias: Crafting Complications
 tags:
   - Quelle/5e/xge
 aliases:

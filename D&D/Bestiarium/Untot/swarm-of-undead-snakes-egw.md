@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Undead Snakes
+linter-yaml-title-alias: Swarm of Undead Snakes
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Swarm of Undead Snakes
-linter-yaml-title-alias: Swarm of Undead Snakes
 ---
 # [Swarm of Undead Snakes](3-Mechanics\CLI\bestiary\undead/swarm-of-undead-snakes-egw.md)
 *Source: Explorer's Guide to Wildemount p. 247*  

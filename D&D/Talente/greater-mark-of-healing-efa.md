@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Healing
+linter-yaml-title-alias: Greater Mark of Healing
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Greater Mark of Healing"
+  - Greater Mark of Healing
 ---
 # Greater Mark of Healing
 *Source: Eberron: Forge of the Artificer p. 44*  

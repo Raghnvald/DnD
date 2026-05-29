@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Druidcraft
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Arcane Archer)
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -20,14 +26,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Fighter (Arcane Archer)
 aliases:
   - Druidcraft
-linter-yaml-title-alias: Druidcraft
 ---
 # Druidcraft
 *cantrip, Transmutation*  

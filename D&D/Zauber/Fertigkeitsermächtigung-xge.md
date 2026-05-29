@@ -7,6 +7,12 @@ Komponenten: V, G
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: Verstärkung
+linter-yaml-title-alias: Fertigkeitsermächtigung
+classes:
+  - Artificer
+  - Bard
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -15,14 +21,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Sorcerer
-  - Wizard
 aliases:
-  - Skill Empowerment
-linter-yaml-title-alias: Skill Empowerment
+  - Fertigkeitsermächtigung
 ---
 # Fertigkeitsermächtigung
 *Verwandlung des 5. Grades*

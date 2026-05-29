@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/dosi
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Dragons of Stormwreck Isle* 

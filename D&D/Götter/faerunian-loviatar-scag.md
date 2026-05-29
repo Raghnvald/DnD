@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loviatar
+linter-yaml-title-alias: Loviatar
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/faerunian

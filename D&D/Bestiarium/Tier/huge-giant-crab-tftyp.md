@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Huge Giant Crab
+linter-yaml-title-alias: Huge Giant Crab
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

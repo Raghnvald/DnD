@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tungsten Ward
+linter-yaml-title-alias: Tungsten Ward
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Tungsten Ward
-linter-yaml-title-alias: Tungsten Ward
 ---
 # [Tungsten Ward](3-Mechanics\CLI\bestiary\npc/tungsten-ward-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 38*  

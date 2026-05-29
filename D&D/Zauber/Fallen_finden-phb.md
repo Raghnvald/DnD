@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Find Traps
 Zaubergrad: 2
+linter-yaml-title-alias: Find Traps
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Ranger
 aliases:
   - Find Traps
-linter-yaml-title-alias: Find Traps
 ---
 # Find Traps
 *2nd-level, Divination*  

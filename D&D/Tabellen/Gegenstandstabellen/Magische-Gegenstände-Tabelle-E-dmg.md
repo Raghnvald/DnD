@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle E
+linter-yaml-title-alias: Magische Gegenstände Tabelle E
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table E
+  - Magische Gegenstände Tabelle E
 ---
 # Magische Gegenstände Tabelle E
 *Quelle: Spielleiterhandbuch, S. 145* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Berei
+linter-yaml-title-alias: Berei
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

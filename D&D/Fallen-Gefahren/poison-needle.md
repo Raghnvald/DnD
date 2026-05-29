@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poison Needle
+linter-yaml-title-alias: Poison Needle
 tags:
   - Kompendium/Bedrohung/mech
   - Quelle/5e/dmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Caer-Konig
+linter-yaml-title-alias: Caer-Konig
 tags:
   - Quelle/5e/idrotf
 aliases:

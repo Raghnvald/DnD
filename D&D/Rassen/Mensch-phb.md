@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human
+linter-yaml-title-alias: Human
 tags:
   - Quelle/5e/phb
   - Rasse/human

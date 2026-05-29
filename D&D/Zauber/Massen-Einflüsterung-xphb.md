@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Mass Suggestion
+linter-yaml-title-alias: Mass Suggestion
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Mass Suggestion
-linter-yaml-title-alias: Mass Suggestion
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  

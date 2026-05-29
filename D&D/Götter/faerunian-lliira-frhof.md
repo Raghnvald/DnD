@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lliira
+linter-yaml-title-alias: Lliira
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Lliira"
   - "Mistress of Revels"
   - "Our Lady of Joy"
+  - Lliira
 ---
 # Lliira
 *Source: Forgotten Realms: Heroes of Faerûn p. 112* 

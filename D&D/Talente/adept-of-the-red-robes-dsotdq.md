@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Adept of the Red Robes
+linter-yaml-title-alias: Adept of the Red Robes
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
   - "Adept of the Red Robes"
+  - Adept of the Red Robes
 ---
 # Adept of the Red Robes
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

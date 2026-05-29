@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Ruiner
+linter-yaml-title-alias: The Ruiner
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/tempest

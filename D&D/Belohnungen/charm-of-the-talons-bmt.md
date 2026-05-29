@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Talons
+linter-yaml-title-alias: Charm of the Talons
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

@@ -1,15 +1,19 @@
 ---
 Bezeichnung: Flöte des Unheimlichen
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
-Kst.: n/v
+Eigenschaften:
+  - /
+Kst.: /
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Flöte des Unheimlichen
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Flöte des Unheimlichen
   - Pipes of Haunting
 ---
 # Flöte des Unheimlichen

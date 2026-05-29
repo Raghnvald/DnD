@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Infernal Constitution
+linter-yaml-title-alias: Infernal Constitution
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

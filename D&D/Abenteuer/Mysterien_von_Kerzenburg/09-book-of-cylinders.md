@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Book of Cylinders
+linter-yaml-title-alias: Book of Cylinders
 tags:
   - Quelle/5e/cm
 aliases:

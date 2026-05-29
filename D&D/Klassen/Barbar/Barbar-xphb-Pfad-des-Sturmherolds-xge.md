@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Storm Herald
+linter-yaml-title-alias: Path of the Storm Herald
 tags:
   - Klasse/Barbar/storm-herald
   - Quelle/5e/xge

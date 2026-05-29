@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Enlarge/Reduce
+linter-yaml-title-alias: Enlarge/Reduce
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -14,18 +24,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Enlarge/Reduce
-linter-yaml-title-alias: Enlarge/Reduce
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Talking Doll
+linter-yaml-title-alias: Talking Doll
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Talking Doll
-linter-yaml-title-alias: Talking Doll
 ---
 # Talking Doll
 *Wondrous item, common (requires attunement)*  

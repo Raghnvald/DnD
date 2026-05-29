@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Türkis
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Türkis
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Turquoise
-linter-yaml-title-alias: Turquoise
+  - Türkis
 ---
 # Türkis
 *Schatz (Edelstein)*  

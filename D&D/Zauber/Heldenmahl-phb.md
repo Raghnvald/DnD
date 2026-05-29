@@ -1,6 +1,11 @@
 ---
 Bezeichnung: "Heroes' Feast"
 Zaubergrad: 6
+linter-yaml-title-alias: "Heroes' Feast"
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
-  - Heroes' Feast
-linter-yaml-title-alias: Heroes' Feast
+  - "Heroes' Feast"
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wayfarer
+linter-yaml-title-alias: Wayfarer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

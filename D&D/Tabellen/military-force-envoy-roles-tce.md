@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Military Force Envoy Roles
+linter-yaml-title-alias: Military Force Envoy Roles
 tags:
   - Quelle/5e/tce
 aliases:

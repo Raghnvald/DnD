@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aerdrie Faenya
+linter-yaml-title-alias: Aerdrie Faenya
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/trickery
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/scag
 aliases:
   - "Aerdrie Faenya"
+  - Aerdrie Faenya
 ---
 # Aerdrie Faenya
 *Source: Sword Coast Adventurer's Guide p. 23* 

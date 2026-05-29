@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarves on the Move; Group Leader
+linter-yaml-title-alias: Dwarves on the Move; Group Leader
 tags:
   - Quelle/5e/mtf
 aliases:

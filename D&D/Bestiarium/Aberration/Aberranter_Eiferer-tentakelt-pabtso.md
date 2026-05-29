@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 8
 Habitat:
   - /
+Image: token/aberrant-zealot-tentacled-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Aberranter Eiferer (Tentakelt)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -15,7 +17,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Aberrant Zealot (Tentacled)
-Image: token/aberrant-zealot-tentacled-pabtso.webp
+  - Aberranter Eiferer (Tentakelt)
 ---
 # Aberranter Eiferer (Tentakelt)
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deities of Eberron
+linter-yaml-title-alias: Deities of Eberron
 tags:
   - Quelle/5e/phb
 aliases:

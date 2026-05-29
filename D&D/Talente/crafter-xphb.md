@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crafter
+linter-yaml-title-alias: Crafter
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

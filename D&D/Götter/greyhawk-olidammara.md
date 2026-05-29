@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Olidammara
+linter-yaml-title-alias: Olidammara
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/greyhawk

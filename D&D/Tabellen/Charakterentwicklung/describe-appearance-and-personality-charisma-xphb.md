@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Describe Appearance and Personality; Charisma
+linter-yaml-title-alias: Describe Appearance and Personality; Charisma
 tags:
   - Quelle/5e/xphb
 aliases:

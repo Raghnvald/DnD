@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Study
+linter-yaml-title-alias: Arcane Study
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

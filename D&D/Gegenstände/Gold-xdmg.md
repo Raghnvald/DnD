@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gold
+linter-yaml-title-alias: Gold
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Gold
-linter-yaml-title-alias: Gold
 ---
 # Gold
 *Trade good*  

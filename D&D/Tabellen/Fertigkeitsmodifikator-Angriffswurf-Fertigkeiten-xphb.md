@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Modifier; Attack Roll Abilities
+linter-yaml-title-alias: Ability Modifier; Attack Roll Abilities
 tags:
   - Quelle/5e/xphb
 aliases:

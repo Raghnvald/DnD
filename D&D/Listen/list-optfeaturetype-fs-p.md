@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Style, Paladin
+linter-yaml-title-alias: Fighting Style, Paladin
 tags:
   - Quelle/5e/phb
 aliases:

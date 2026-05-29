@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merrow
+linter-yaml-title-alias: Merrow
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thousand Teeth
+linter-yaml-title-alias: Thousand Teeth
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Thousand Teeth
-linter-yaml-title-alias: Thousand Teeth
 ---
 # [Thousand Teeth](3-Mechanics\CLI\bestiary\npc/thousand-teeth-gos.md)
 *Source: Ghosts of Saltmarsh p. 256*  

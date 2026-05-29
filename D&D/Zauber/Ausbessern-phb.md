@@ -7,6 +7,17 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: nichts
 Schaden: Utility
+linter-yaml-title-alias: Ausbessern
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -23,19 +34,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
+  - Ausbessern
   - Mending
-linter-yaml-title-alias: Ausbessern
 ---
 # Ausbessern
 _Zaubertrick der Verwandlung_

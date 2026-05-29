@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyr
+linter-yaml-title-alias: Tyr
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order

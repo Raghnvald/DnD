@@ -5,9 +5,11 @@ Bezeichnung: Bone Roc
 Kategorie: Untoter
 Größe: Groß
 HG: 8
-Habitat: /
+Habitat:
+  - /
 image: token/bone-roc-veor.webp
 status: WIP
+linter-yaml-title-alias: Bone Roc
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Bone Roc
-linter-yaml-title-alias: Bone Roc
 ---
 # [Bone Roc](3-Mechanics\CLI\bestiary\undead/bone-roc-veor.md)
 *Source: Vecna: Eve of Ruin p. 211*  

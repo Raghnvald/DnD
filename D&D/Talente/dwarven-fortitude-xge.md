@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarven Fortitude
+linter-yaml-title-alias: Dwarven Fortitude
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

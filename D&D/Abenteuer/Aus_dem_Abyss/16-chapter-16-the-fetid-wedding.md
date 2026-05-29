@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 16: The Fetid Wedding"
+linter-yaml-title-alias: "Chapter 16: The Fetid Wedding"
 tags:
   - Quelle/5e/oota
 aliases:

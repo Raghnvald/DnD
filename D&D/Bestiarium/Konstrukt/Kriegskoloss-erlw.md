@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warforged Colossus
+linter-yaml-title-alias: Warforged Colossus
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/25

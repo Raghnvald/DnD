@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Condemner (Exalted)
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Condemner (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Condemner (Exalted)
-linter-yaml-title-alias: Condemner (Exalted)
 ---
 # Condemner (Exalted)
 *Weapon ([heavy crossbow](/3-Mechanics/CLI/items/heavy-crossbow-xphb.md)), legendary (requires attunement)*  

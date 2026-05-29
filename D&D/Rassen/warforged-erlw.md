@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warforged
+linter-yaml-title-alias: Warforged
 tags:
   - Quelle/5e/erlw
   - Rasse/warforged

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eternal Mountain Defense
+linter-yaml-title-alias: Eternal Mountain Defense
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Jacinth
+linter-yaml-title-alias: Jacinth
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Jacinth
-linter-yaml-title-alias: Jacinth
 ---
 # Jacinth
 *Treasure (gemstone)*  

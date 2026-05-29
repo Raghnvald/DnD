@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dancing Monkey Fruit
+linter-yaml-title-alias: Dancing Monkey Fruit
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/toa
 aliases:
   - Dancing Monkey Fruit
-linter-yaml-title-alias: Dancing Monkey Fruit
 ---
 # Dancing Monkey Fruit
 

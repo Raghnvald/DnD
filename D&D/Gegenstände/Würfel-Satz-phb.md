@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Satz Würfel
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 SM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Satz Würfel
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Dice Set
-linter-yaml-title-alias: Dice Set
+  - Satz Würfel
 ---
 # Satz Würfel
 *Spiel*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Szoldar Szoldarovich
+linter-yaml-title-alias: Szoldar Szoldarovich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Szoldar Szoldarovich
-linter-yaml-title-alias: Szoldar Szoldarovich
 ---
 # [Szoldar Szoldarovich](3-Mechanics\CLI\bestiary\npc/szoldar-szoldarovich-cos.md)
 *Source: Curse of Strahd p. 100*  

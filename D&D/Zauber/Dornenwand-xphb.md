@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Wall of Thorns
+linter-yaml-title-alias: Wall of Thorns
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Wall of Thorns
-linter-yaml-title-alias: Wall of Thorns
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  

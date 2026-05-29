@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Isendraug
+linter-yaml-title-alias: Isendraug
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Isendraug
-linter-yaml-title-alias: Isendraug
 ---
 # [Isendraug](3-Mechanics\CLI\bestiary\npc/isendraug-skt.md)
 *Source: Storm King's Thunder p. 164*  

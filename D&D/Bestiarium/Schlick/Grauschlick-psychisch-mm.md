@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gray Ooze (Psychic)
+linter-yaml-title-alias: Gray Ooze (Psychic)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

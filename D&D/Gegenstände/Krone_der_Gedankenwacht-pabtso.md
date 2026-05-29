@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mindguard Crown
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mindguard Crown
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Mindguard Crown
-linter-yaml-title-alias: Mindguard Crown
 ---
 # Mindguard Crown
 *Wondrous item, very rare (requires attunement)*  

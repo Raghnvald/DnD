@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Gremishkas
+linter-yaml-title-alias: Swarm of Gremishkas
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

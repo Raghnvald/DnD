@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Missions
+linter-yaml-title-alias: House Missions
 tags:
   - Quelle/5e/erlw
 aliases:

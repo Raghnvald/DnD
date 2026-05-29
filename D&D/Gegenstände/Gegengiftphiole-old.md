@@ -1,13 +1,15 @@
 ---
 Bezeichnung: "Gegengiftphiole "
 Kategorie: Abenteuerausrüstung
+status: WIP
+linter-yaml-title-alias: "Gegengiftphiole "
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - "Gegengiftphiole "
   - Antitoxin (vial)
-linter-yaml-title-alias: "Gegengiftphiole "
 ---
 # Gegengiftphiole 
 *Abenteuerausrüstung*  

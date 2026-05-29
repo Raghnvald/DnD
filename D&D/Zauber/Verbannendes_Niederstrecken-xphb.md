@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Banishing Smite
+linter-yaml-title-alias: Banishing Smite
+classes:
+  - Artificer (Battle Smith)
+  - Paladin
+  - Warlock (The Hexblade)
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb
@@ -7,13 +12,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Artificer (Battle Smith)
-  - Paladin
-  - Warlock (The Hexblade)
 aliases:
   - Banishing Smite
-linter-yaml-title-alias: Banishing Smite
 ---
 # Banishing Smite
 *5th-level, Conjuration*  

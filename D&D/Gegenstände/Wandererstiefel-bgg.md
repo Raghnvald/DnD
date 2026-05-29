@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Wayfarer's Boots"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Wayfarer's Boots"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
-  - Wayfarer's Boots
-linter-yaml-title-alias: Wayfarer's Boots
+  - "Wayfarer's Boots"
 ---
 # Wayfarer's Boots
 *Wondrous item, rare (requires attunement)*  

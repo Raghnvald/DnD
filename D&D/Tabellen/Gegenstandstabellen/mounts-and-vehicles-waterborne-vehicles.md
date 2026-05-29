@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mounts and Vehicles; Waterborne Vehicles
+linter-yaml-title-alias: Mounts and Vehicles; Waterborne Vehicles
 tags:
   - Quelle/5e/phb
 aliases:

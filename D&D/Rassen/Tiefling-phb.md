@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling
+linter-yaml-title-alias: Tiefling
 tags:
   - Quelle/5e/phb
   - Rasse/tiefling

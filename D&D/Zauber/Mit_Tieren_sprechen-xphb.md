@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Speak with Animals
+classes:
+  - Barbarian (Path of the Wild Heart)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Warlock
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -26,18 +36,8 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Wild Heart)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Paladin (Oath of the Ancients)
-  - Ranger
-  - Warlock
 aliases:
   - Speak with Animals
-linter-yaml-title-alias: Speak with Animals
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  

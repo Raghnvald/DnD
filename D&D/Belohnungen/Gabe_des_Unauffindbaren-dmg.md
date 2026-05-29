@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe des Unauffindbaren
+linter-yaml-title-alias: Gabe des Unauffindbaren
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Undetectability
+  - Gabe des Unauffindbaren
 ---
 # Gabe des Unauffindbaren
 

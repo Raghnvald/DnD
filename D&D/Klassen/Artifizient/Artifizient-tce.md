@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artificer
+linter-yaml-title-alias: Artificer
 tags:
   - Klasse/Artifizient
   - Quelle/5e/tce

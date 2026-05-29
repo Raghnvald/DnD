@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flying
+linter-yaml-title-alias: Flying
 tags:
   - Quelle/5e/xphb
 aliases:

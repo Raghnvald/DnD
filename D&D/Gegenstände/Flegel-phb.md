@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flail
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Flail
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Flail
-linter-yaml-title-alias: Flail
 ---
 # Flail
 *Weapon*  

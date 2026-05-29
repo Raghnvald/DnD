@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Key Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Key Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Key Card
-linter-yaml-title-alias: Key Card
 ---
 # Key Card
 *Wondrous item, legendary*  

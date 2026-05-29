@@ -6,6 +6,7 @@ Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 9
 status: WIP
+linter-yaml-title-alias: Ulitharid
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

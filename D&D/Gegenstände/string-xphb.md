@@ -1,12 +1,12 @@
 ---
 Bezeichnung: String
+linter-yaml-title-alias: String
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - String
-linter-yaml-title-alias: String
 ---
 # String
 *Adventuring gear*  

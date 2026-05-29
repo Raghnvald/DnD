@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Lordly Resolve
+linter-yaml-title-alias: Lordly Resolve
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Lordly Resolve"
+  - Lordly Resolve
 ---
 # Lordly Resolve
 *Source: Forgotten Realms: Heroes of Faerûn p. 40*  

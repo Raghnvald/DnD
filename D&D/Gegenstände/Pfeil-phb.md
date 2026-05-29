@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Pfeil
 Kategorie: Munition
+linter-yaml-title-alias: Pfeil
 tags:
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Arrow
+  - Pfeil
 ---
 # Pfeil
 *Munition*  

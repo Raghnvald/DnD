@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Imbued Wood (Kythrian Manchineel)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Imbued Wood (Kythrian Manchineel)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +19,6 @@ aliases:
   - Kythrian Manchineel Rod
   - Kythrian Manchineel Staff
   - Kythrian Manchineel Wand
-linter-yaml-title-alias: Imbued Wood (Kythrian Manchineel)
 ---
 # Imbued Wood (Kythrian Manchineel)
 *Wondrous item, common (requires attunement)*  

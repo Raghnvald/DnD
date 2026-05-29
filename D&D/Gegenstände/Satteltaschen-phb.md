@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Satteltaschen
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 4 GM
 Gew.: 4,0 kg
+status: WIP
+linter-yaml-title-alias: Satteltaschen
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Saddlebags
-linter-yaml-title-alias: Saddlebags
+  - Satteltaschen
 ---
 # Satteltaschen
 *Zaumzeug und Harnisch*  

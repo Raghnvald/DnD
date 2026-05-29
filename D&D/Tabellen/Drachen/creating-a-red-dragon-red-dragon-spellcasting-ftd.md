@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Red Dragon; Red Dragon Spellcasting
+linter-yaml-title-alias: Creating a Red Dragon; Red Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

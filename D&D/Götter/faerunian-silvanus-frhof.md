@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silvanus
+linter-yaml-title-alias: Silvanus
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Old Father Tree"
   - "Silvanus"
   - "The Old Oak"
+  - Silvanus
 ---
 # Silvanus
 *Source: Forgotten Realms: Heroes of Faerûn p. 121* 

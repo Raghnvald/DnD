@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Embric
+linter-yaml-title-alias: Embric
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Embric
-linter-yaml-title-alias: Embric
 ---
 # [Embric](3-Mechanics\CLI\bestiary\npc/embric-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

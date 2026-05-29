@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature Paintings
+linter-yaml-title-alias: Creature Paintings
 tags:
   - Quelle/5e/tce
 aliases:

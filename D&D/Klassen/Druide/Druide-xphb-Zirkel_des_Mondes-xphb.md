@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Moon
+linter-yaml-title-alias: Circle of the Moon
 tags:
   - Klasse/Druide/moon
   - Quelle/5e/xphb

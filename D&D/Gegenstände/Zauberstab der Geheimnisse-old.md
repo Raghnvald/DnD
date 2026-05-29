@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab der Geheimnisse
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
 Kst.: 400 GM
 Gew.: 0,5 kg
 image: wand-of-secrets.webp
+linter-yaml-title-alias: Zauberstab der Geheimnisse
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Secrets
+  - Zauberstab der Geheimnisse
 ---
 # Zauberstab der Geheimnisse
 _Zauberstab, ungewöhnlich_

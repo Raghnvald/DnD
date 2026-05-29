@@ -1,5 +1,6 @@
 ---
 Bezeichnung: One with Shadows
+linter-yaml-title-alias: One with Shadows
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

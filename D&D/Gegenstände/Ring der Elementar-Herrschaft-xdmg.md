@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Elemental Command
+linter-yaml-title-alias: Ring of Elemental Command
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Elemental Command
-linter-yaml-title-alias: Ring of Elemental Command
 ---
 # Ring of Elemental Command
 *Ring, legendary (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus (Ectoplasmic Boon)
+linter-yaml-title-alias: Priest of Osybus (Ectoplasmic Boon)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Priest of Osybus (Ectoplasmic Boon)
-linter-yaml-title-alias: Priest of Osybus (Ectoplasmic Boon)
 ---
 # [Priest of Osybus (Ectoplasmic Boon)](3-Mechanics\CLI\bestiary\undead/priest-of-osybus-ectoplasmic-boon-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 241*  

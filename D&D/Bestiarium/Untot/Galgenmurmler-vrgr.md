@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gallows Speaker
+linter-yaml-title-alias: Gallows Speaker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Gallows Speaker
-linter-yaml-title-alias: Gallows Speaker
 ---
 # [Gallows Speaker](3-Mechanics\CLI\bestiary\undead/gallows-speaker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 234*  

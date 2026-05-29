@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kelemvor, Gott der Toten
+linter-yaml-title-alias: Kelemvor, Gott der Toten
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Tod
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Kelemvor
+  - Kelemvor, Gott der Toten
 ---
 # Kelemvor, Gott der Toten
 *Quelle: SRD / Grundregelwerk* 

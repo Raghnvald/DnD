@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silvanus, Gott der Wilden Natur
+linter-yaml-title-alias: Silvanus, Gott der Wilden Natur
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Natur
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Silvanus
+  - Silvanus, Gott der Wilden Natur
 ---
 # Silvanus, Gott der Wilden Natur
 _Eichenvater, die Alte Eiche, Alter Baumvater_

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Clockwork Armor
 Rüstung: Schwer
+linter-yaml-title-alias: Clockwork Armor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -13,7 +14,6 @@ aliases:
   - Clockwork Plate Armor
   - Clockwork Ring Mail
   - Clockwork Splint Armor
-linter-yaml-title-alias: Clockwork Armor
 ---
 # Clockwork Armor
 *Very rare (requires attunement)*  

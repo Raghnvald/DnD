@@ -7,6 +7,15 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d6 Kälte
+linter-yaml-title-alias: Snillocs Schneeballschwarm
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -18,17 +27,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Snilloc's Snowball Swarm
-linter-yaml-title-alias: Snilloc's Snowball Swarm
+  - Snillocs Schneeballschwarm
 ---
 # Snillocs Schneeballschwarm
 _Hervorrufung des 2. Grades_

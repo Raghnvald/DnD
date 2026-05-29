@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Walrus
+linter-yaml-title-alias: Walrus
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-4

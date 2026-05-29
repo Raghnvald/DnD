@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Rot Grubs
+linter-yaml-title-alias: Swarm of Rot Grubs
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

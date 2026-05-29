@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Handouts
+linter-yaml-title-alias: Handouts
 tags:
   - Quelle/5e/ttp
 aliases:
   - "Handouts"
+  - Handouts
 ---
 # Handouts
 *Source: The Tortle Package* 

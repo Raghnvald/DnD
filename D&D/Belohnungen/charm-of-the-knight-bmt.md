@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Knight
+linter-yaml-title-alias: Charm of the Knight
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

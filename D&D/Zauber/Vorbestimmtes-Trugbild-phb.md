@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Programmed Illusion
 Zaubergrad: 6
+linter-yaml-title-alias: Programmed Illusion
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Programmed Illusion
-linter-yaml-title-alias: Programmed Illusion
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

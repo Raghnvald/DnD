@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Romance; Romantic Elements
+linter-yaml-title-alias: Romance; Romantic Elements
 tags:
   - Quelle/5e/vrgr
 aliases:

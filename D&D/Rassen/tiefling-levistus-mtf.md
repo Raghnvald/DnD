@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Levistus)
+linter-yaml-title-alias: Tiefling (Levistus)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/levistus

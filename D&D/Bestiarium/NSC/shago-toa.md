@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shago
+linter-yaml-title-alias: Shago
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Shago
-linter-yaml-title-alias: Shago
 ---
 # [Shago](3-Mechanics\CLI\bestiary\npc/shago-toa.md)
 *Source: Tomb of Annihilation p. 35*  

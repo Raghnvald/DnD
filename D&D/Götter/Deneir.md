@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deneir, Gott der Schrift
+linter-yaml-title-alias: Deneir, Gott der Schrift
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Arkana
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Deneir
+  - Deneir, Gott der Schrift
 ---
 # Deneir, Gott der Schrift
 *Quelle: SRD / Grundregelwerk* 

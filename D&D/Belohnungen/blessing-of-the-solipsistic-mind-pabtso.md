@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of the Solipsistic Mind
+linter-yaml-title-alias: Blessing of the Solipsistic Mind
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/pabtso

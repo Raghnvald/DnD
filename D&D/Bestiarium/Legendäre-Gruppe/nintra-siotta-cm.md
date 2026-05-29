@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nintra Siotta
+linter-yaml-title-alias: Nintra Siotta
 tags:
   - Monster/legendary-group
   - Quelle/5e/cm

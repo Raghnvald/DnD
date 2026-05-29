@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Ordning; Stone Giant Artistry
+linter-yaml-title-alias: The Ordning; Stone Giant Artistry
 tags:
   - Quelle/5e/bgg
 aliases:

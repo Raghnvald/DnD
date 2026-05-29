@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Crystal Dragon; Crystal Dragon Personality Traits
+linter-yaml-title-alias: Creating a Crystal Dragon; Crystal Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

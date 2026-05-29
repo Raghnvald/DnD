@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 16: Crystal Labyrinth"
+linter-yaml-title-alias: "Level 16: Crystal Labyrinth"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 16: Crystal Labyrinth"
   - Level 16: Crystal Labyrinth
 ---
 # Level 16: Crystal Labyrinth

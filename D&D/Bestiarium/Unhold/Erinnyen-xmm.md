@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Erinyes
+linter-yaml-title-alias: Erinyes
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/nine-hells

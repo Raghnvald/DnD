@@ -1,6 +1,17 @@
 ---
 Bezeichnung: Spirit Shroud
 Zaubergrad: 3
+linter-yaml-title-alias: Spirit Shroud
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,19 +25,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 aliases:
   - Spirit Shroud
-linter-yaml-title-alias: Spirit Shroud
 ---
 # Spirit Shroud
 *3rd-level, Necromancy*  

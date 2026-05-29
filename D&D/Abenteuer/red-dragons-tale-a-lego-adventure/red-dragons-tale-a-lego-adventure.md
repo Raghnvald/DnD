@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Red Dragons Tale a Lego Adventure
+linter-yaml-title-alias: Index of Red Dragons Tale a Lego Adventure
+aliases:
+  - Index of Red Dragons Tale a Lego Adventure
 ---
 # Index of Red Dragons Tale a Lego Adventure
 

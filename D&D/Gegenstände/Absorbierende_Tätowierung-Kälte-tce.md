@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Kälte-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Kälte-Absorbierende Tätowierung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
-  - Cold Absorbing Tattoo
-linter-yaml-title-alias: Cold Absorbing Tattoo
-Status: completed
+  - Kälte-Absorbierende Tätowierung
 ---
 # Kälte-Absorbierende Tätowierung
 *Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*

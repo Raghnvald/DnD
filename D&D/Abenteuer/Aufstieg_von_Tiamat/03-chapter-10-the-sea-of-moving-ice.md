@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 10: The Sea of Moving Ice"
+linter-yaml-title-alias: "Chapter 10: The Sea of Moving Ice"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Chapter 10: The Sea of Moving Ice"
   - Chapter 10: The Sea of Moving Ice
 ---
 # Chapter 10: The Sea of Moving Ice

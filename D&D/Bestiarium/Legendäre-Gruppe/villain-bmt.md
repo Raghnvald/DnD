@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Villain
+linter-yaml-title-alias: Villain
 tags:
   - Monster/legendary-group
   - Quelle/5e/bmt

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature Lists
+linter-yaml-title-alias: Creature Lists
 tags:
   - Quelle/5e/ftd
 aliases:

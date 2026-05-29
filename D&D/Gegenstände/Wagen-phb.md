@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Wagen
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 35 GM
 Gew.: 200,0 kg
+status: WIP
+linter-yaml-title-alias: Wagen
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Land
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Wagon
-linter-yaml-title-alias: Wagon
+  - Wagen
 ---
 # Wagen
 *Fahrzeug (Land)*

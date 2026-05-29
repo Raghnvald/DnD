@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bhaal
+linter-yaml-title-alias: Bhaal
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/faerunian

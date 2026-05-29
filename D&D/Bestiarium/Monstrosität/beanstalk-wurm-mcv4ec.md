@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beanstalk Wurm
+linter-yaml-title-alias: Beanstalk Wurm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/18

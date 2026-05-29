@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skill Expert
+linter-yaml-title-alias: Skill Expert
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Panther
+linter-yaml-title-alias: Panther
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

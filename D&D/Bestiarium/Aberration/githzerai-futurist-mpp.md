@@ -6,6 +6,7 @@ Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 9
 status: WIP
+linter-yaml-title-alias: Githzerai Futurist
 tags:
   - Quelle/5e/mpp
   - ttrpg-cli/monster/cr/9

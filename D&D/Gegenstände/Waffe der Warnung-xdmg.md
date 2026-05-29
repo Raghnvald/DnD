@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weapon of Warning
+linter-yaml-title-alias: Weapon of Warning
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Whip of Warning
   - Wooden Staff of Warning
   - Yklwa of Warning
-linter-yaml-title-alias: Weapon of Warning
 ---
 # Weapon of Warning
 *Uncommon (requires attunement)*  

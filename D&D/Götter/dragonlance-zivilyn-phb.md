@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zivilyn
+linter-yaml-title-alias: Zivilyn
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/dragonlance

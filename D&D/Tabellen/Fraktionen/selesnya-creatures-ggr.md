@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya Creatures
+linter-yaml-title-alias: Selesnya Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

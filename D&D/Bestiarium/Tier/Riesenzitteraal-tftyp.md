@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riesenzitteraal
+linter-yaml-title-alias: Riesenzitteraal
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Giant Lightning Eel
+  - Riesenzitteraal
 ---
 # Riesenzitteraal
 *Source: Tales from the Yawning Portal p. 236*  

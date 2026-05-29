@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/mot
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Mythic Odysseys of Theros* 

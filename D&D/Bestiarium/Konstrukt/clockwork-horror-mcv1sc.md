@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clockwork Horror
+linter-yaml-title-alias: Clockwork Horror
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2

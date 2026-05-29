@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Spear
+linter-yaml-title-alias: Eldritch Spear
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

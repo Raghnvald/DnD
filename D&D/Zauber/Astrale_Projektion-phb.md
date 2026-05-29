@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: Speziell
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Astrale Projektion
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Monk
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -16,15 +23,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Monk
-  - Warlock
-  - Wizard
 aliases:
   - Astral Projection
-linter-yaml-title-alias: Astrale Projektion
+  - Astrale Projektion
 ---
 # Astrale Projektion
 *Nekromantie des 9. Grades*  

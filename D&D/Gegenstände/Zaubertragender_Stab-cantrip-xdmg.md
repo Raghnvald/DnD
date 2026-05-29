@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Staff (Cantrip)
+linter-yaml-title-alias: Enspelled Staff (Cantrip)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Staff (Cantrip)
-linter-yaml-title-alias: Enspelled Staff (Cantrip)
 ---
 # Enspelled Staff (Cantrip)
 *Staff, weapon, uncommon (requires attunement by a Spellcaster)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of Hellish Flames
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of Hellish Flames
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Rod of Hellish Flames
-linter-yaml-title-alias: Rod of Hellish Flames
 ---
 # Rod of Hellish Flames
 *Rod, very rare (requires attunement by a spellcaster)*  

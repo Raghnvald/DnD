@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Kapitel 7: Schätze"
+linter-yaml-title-alias: "Kapitel 7: Schätze"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Kapitel 7: Schätze"
   - Treasure
 ---
 # Kapitel 7: Schätze

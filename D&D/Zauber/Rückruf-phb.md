@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Word of Recall
 Zaubergrad: 6
+linter-yaml-title-alias: Word of Recall
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Word of Recall
-linter-yaml-title-alias: Word of Recall
 ---
 # Word of Recall
 *6th-level, Conjuration*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Silver Dragon
+linter-yaml-title-alias: Young Silver Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Young Silver Dragon
-linter-yaml-title-alias: Young Silver Dragon
 ---
 # [Young Silver Dragon](3-Mechanics\CLI\bestiary\dragon/young-silver-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

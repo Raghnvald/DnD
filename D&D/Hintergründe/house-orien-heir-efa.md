@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Orien Heir
+linter-yaml-title-alias: House Orien Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Orien Heir"
+  - House Orien Heir
 ---
 # House Orien Heir
 *Source: Eberron: Forge of the Artificer p. 30*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Schichten des Abyss
+linter-yaml-title-alias: Schichten des Abyss
 tags:
   - Quelle/5e/xdmg
 aliases:
   - Layers of the Abyss
+  - Schichten des Abyss
 ---
 # Schichten des Abyss
 *Source: Dungeon Master's Guide (2024) p. 180* 

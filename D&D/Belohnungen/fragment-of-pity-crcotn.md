@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Fragment of Pity
+linter-yaml-title-alias: Fragment of Pity
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
   - "Fragment of Pity"
+  - Fragment of Pity
 ---
 # Fragment of Pity
 *Fragment of Suffering*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk
+linter-yaml-title-alias: Lizardfolk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beguiling Influence
+linter-yaml-title-alias: Beguiling Influence
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

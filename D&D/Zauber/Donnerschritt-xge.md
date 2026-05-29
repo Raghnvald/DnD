@@ -7,6 +7,15 @@ Komponenten: V
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 3d10 Schall
+linter-yaml-title-alias: Donnerschritt
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -18,17 +27,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Thunder Step
-linter-yaml-title-alias: Thunder Step
+  - Donnerschritt
 ---
 # Donnerschritt
 *Beschwörung des 3. Grades*

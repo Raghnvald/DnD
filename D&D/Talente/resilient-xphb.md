@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resilient
+linter-yaml-title-alias: Resilient
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

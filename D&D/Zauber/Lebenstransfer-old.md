@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: 
 Angriff: n/v
 Schaden: 4d8 Nekrotisch
+linter-yaml-title-alias: Lebenstransfer
 tags:
   - Klasse/Kleriker
   - Klasse/Magier
@@ -14,6 +15,7 @@ tags:
   - Zauber/Original/Life_Transference
   - Zauber/Schule/Nekromantie
 aliases:
+  - Lebenstransfer
   - Life Transference
 ---
 # Lebenstransfer

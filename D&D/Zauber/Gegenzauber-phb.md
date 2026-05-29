@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Counterspell
 Zaubergrad: 3
+linter-yaml-title-alias: Counterspell
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Counterspell
-linter-yaml-title-alias: Counterspell
 ---
 # Counterspell
 *3rd-level, Abjuration*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Unspeakable Horror
+linter-yaml-title-alias: Unspeakable Horror
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

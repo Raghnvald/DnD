@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Tocken
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Tocken
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Tocken
-linter-yaml-title-alias: Tocken
 ---
 # Tocken
 *Instrument*  

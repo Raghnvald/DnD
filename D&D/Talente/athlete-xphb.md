@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Athlete
+linter-yaml-title-alias: Athlete
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

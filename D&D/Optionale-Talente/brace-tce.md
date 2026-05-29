@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brace
+linter-yaml-title-alias: Brace
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/tce

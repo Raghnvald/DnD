@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Hewards Praktischer Rucksack "
+linter-yaml-title-alias: "Hewards Praktischer Rucksack "
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Heward's Handy Haversack
-linter-yaml-title-alias: Heward's Handy Haversack
+  - "Hewards Praktischer Rucksack "
 ---
 # Hewards Praktischer Rucksack 
 *Wundersamer Gegenstand, selten*  

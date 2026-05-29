@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Attribut verbessern
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Sorcerer
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,14 +20,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Sorcerer
 aliases:
+  - Attribut verbessern
   - Enhance Ability
-linter-yaml-title-alias: Attribut verbessern
 ---
 # Attribut verbessern
 *Verwandlung des 2. Grades*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Tables; Halfling Ideals
+linter-yaml-title-alias: Halfling Tables; Halfling Ideals
 tags:
   - Quelle/5e/mtf
 aliases:

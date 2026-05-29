@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Varakkta
+Image: token/varakkta-pabtso.webp
+linter-yaml-title-alias: Varakkta
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Varakkta
-Image: token/varakkta-pabtso.webp
-linter-yaml-title-alias: Varakkta
 ---
 # Varakkta
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  

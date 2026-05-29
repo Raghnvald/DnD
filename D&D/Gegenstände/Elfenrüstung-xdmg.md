@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elven Chain
 Rüstung: Mittel oder Schwer
+linter-yaml-title-alias: Elven Chain
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -11,7 +12,6 @@ aliases:
   - Elven Chain
   - Elven Chain Mail
   - Elven Chain Shirt
-linter-yaml-title-alias: Elven Chain
 ---
 # Elven Chain
 *Rare*  

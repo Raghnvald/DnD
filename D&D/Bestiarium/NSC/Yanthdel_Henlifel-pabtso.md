@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yanthdel Henlifel
+Image: token/yanthdel-henlifel-pabtso.webp
+linter-yaml-title-alias: Yanthdel Henlifel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Yanthdel Henlifel
-Image: token/yanthdel-henlifel-pabtso.webp
-linter-yaml-title-alias: Yanthdel Henlifel
 ---
 # Yanthdel Henlifel
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  

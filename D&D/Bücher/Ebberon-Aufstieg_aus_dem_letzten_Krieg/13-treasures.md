@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Treasures
+linter-yaml-title-alias: Treasures
 tags:
   - Quelle/5e/erlw
 aliases:

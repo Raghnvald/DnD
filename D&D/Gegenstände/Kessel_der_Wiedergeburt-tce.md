@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cauldron of Rebirth
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cauldron of Rebirth
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Cauldron of Rebirth
-linter-yaml-title-alias: Cauldron of Rebirth
 ---
 # Cauldron of Rebirth
 *Wondrous item, very rare (requires attunement by a druid or warlock)*  

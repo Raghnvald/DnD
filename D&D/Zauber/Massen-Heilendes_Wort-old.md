@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Massen-Heilendes Wort
+linter-yaml-title-alias: Massen-Heilendes Wort
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
@@ -7,6 +8,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Mass Healing Word
+  - Massen-Heilendes Wort
 ---
 # Massen-Heilendes Wort
 *3rd-level, Evocation*  

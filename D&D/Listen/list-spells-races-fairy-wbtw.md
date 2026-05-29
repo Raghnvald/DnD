@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Fairy
+linter-yaml-title-alias: Spells for Fairy
 tags:
   - ttrpg-cli/spell/list/race/fairy
 aliases:
   - "Spells for Fairy"
+  - Spells for Fairy
 ---
 # Spells for Fairy
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amethyst Dragon Treasures; Amethyst Dragon Art Objects
+linter-yaml-title-alias: Amethyst Dragon Treasures; Amethyst Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

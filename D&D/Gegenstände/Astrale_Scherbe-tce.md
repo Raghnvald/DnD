@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Astral Shard
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Astral Shard
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Astral Shard
-linter-yaml-title-alias: Astral Shard
 ---
 # Astral Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

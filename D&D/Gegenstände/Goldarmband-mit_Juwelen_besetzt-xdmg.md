@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bejeweled gold bracelet
+linter-yaml-title-alias: Bejeweled gold bracelet
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Bejeweled gold bracelet
-linter-yaml-title-alias: Bejeweled gold bracelet
 ---
 # Bejeweled gold bracelet
 *Treasure (art object)*  

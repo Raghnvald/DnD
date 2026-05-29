@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Artefakt-Eigenschaften; Kleinere vorteilhafte Eigenschaften
+linter-yaml-title-alias: Artefakt-Eigenschaften; Kleinere vorteilhafte Eigenschaften
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Artefakt-Eigenschaften; Kleinere vorteilhafte Eigenschaften
   - Artifact Properties; Minor Beneficial Properties
 ---
 # Artefakt-Eigenschaften; Kleinere vorteilhafte Eigenschaften

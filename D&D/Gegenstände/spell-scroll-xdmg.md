@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spell Scroll
+linter-yaml-title-alias: Spell Scroll
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Spell Scroll
-linter-yaml-title-alias: Spell Scroll
 ---
 # Spell Scroll
 *Scroll*  

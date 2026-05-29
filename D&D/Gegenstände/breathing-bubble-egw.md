@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Breathing Bubble
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Breathing Bubble
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Breathing Bubble
-linter-yaml-title-alias: Breathing Bubble
 ---
 # Breathing Bubble
 *Wondrous item, common*  

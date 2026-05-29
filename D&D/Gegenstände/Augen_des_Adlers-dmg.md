@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Augen des Adlers
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Augen des Adlers
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Eyes of the Eagle
-linter-yaml-title-alias: Eyes of the Eagle
+  - Augen des Adlers
 ---
 # Augen des Adlers
 *Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)*  

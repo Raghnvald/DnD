@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flame Tongue
+linter-yaml-title-alias: Flame Tongue
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -38,7 +39,6 @@ aliases:
   - Flame Tongue War Pick
   - Flame Tongue Warhammer
   - Flame Tongue Whip
-linter-yaml-title-alias: Flame Tongue
 ---
 # Flame Tongue
 *Rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thief of Five Fates
+linter-yaml-title-alias: Thief of Five Fates
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

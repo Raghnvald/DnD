@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heironeous
+linter-yaml-title-alias: Heironeous
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

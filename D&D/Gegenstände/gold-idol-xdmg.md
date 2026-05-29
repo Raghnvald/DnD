@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gold idol
+linter-yaml-title-alias: Gold idol
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Gold idol
-linter-yaml-title-alias: Gold idol
 ---
 # Gold idol
 *Treasure (art object)*  

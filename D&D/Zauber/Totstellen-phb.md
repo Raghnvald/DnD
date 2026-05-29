@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Feign Death
 Zaubergrad: 3
+linter-yaml-title-alias: Feign Death
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -12,16 +20,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Feign Death
-linter-yaml-title-alias: Feign Death
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  

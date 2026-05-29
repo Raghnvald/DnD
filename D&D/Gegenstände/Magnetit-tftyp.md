@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Loadstone
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Loadstone
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tftyp
 aliases:
   - Loadstone
-linter-yaml-title-alias: Loadstone
 ---
 # Loadstone
 *Wondrous item, cursed item, rare*  

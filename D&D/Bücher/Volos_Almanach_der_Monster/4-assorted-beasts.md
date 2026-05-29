@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Assorted Beasts
+linter-yaml-title-alias: Assorted Beasts
 tags:
   - Quelle/5e/vgm
 aliases:

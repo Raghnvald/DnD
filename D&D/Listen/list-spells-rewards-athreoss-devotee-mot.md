@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Athreos's Devotee"
+linter-yaml-title-alias: "Spells for Athreos's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/athreoss-devotee
 aliases:

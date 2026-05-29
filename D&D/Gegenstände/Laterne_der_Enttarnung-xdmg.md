@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Lantern of Revealing
+linter-yaml-title-alias: Lantern of Revealing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Lantern of Revealing
-linter-yaml-title-alias: Lantern of Revealing
 ---
 # Lantern of Revealing
 *Wondrous item, uncommon*  

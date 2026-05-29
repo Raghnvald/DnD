@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grinda Garloth
+linter-yaml-title-alias: Grinda Garloth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Grinda Garloth
-linter-yaml-title-alias: Grinda Garloth
 ---
 # [Grinda Garloth](3-Mechanics\CLI\bestiary\npc/grinda-garloth-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 65*  

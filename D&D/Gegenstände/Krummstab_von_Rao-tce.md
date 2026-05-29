@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Crook of Rao
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Crook of Rao
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Crook of Rao
-linter-yaml-title-alias: Crook of Rao
 ---
 # Crook of Rao
 *Wondrous item, artifact (requires attunement)*  

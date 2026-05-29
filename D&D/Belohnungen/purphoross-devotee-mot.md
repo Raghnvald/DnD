@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Purphoros's Devotee"
+linter-yaml-title-alias: "Purphoros's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

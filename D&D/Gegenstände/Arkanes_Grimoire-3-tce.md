@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Arcane Grimoire
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: +3 Arcane Grimoire
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +3 Arcane Grimoire
-linter-yaml-title-alias: +3 Arcane Grimoire
 ---
 # +3 Arcane Grimoire
 *Wondrous item, very rare (requires attunement by a wizard)*  

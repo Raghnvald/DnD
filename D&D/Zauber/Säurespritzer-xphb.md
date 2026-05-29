@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Acid Splash
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric (Arcana Domain)
+  - Druid (Circle of the Land, Tropical Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Druide/circle-of-the-land/tropical-land
@@ -28,19 +39,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Cleric (Arcana Domain)
-  - Druid (Circle of the Land, Tropical Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Acid Splash
-linter-yaml-title-alias: Acid Splash
 ---
 # Acid Splash
 *cantrip, Evocation*  

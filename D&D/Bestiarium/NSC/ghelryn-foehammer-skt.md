@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghelryn Foehammer
+linter-yaml-title-alias: Ghelryn Foehammer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Ghelryn Foehammer
-linter-yaml-title-alias: Ghelryn Foehammer
 ---
 # [Ghelryn Foehammer](3-Mechanics\CLI\bestiary\npc/ghelryn-foehammer-skt.md)
 *Source: Storm King's Thunder p. 255*  

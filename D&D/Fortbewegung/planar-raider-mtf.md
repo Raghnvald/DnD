@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Planar Raider
+linter-yaml-title-alias: Planar Raider
 tags:
   - Gegenstand/Fortbewegung/size/huge
   - Gegenstand/Fortbewegung/terrain/air

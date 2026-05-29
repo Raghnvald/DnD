@@ -5,6 +5,7 @@ Bezeichnung: Ashen Heir Assassin
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ashen Heir Assassin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

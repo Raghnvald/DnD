@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Naralis Analor
+linter-yaml-title-alias: Naralis Analor
 tags:
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/life

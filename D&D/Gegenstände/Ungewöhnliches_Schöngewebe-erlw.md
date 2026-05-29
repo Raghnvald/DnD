@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Uncommon Glamerweave
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Uncommon Glamerweave
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Uncommon Glamerweave
-linter-yaml-title-alias: Uncommon Glamerweave
 ---
 # Uncommon Glamerweave
 *Wondrous item, uncommon*  

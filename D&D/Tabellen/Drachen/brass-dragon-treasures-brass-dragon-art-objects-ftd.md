@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brass Dragon Treasures; Brass Dragon Art Objects
+linter-yaml-title-alias: Brass Dragon Treasures; Brass Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

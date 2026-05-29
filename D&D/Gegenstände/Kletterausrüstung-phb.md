@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kletterausrüstung
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 6,0 kg
+status: WIP
+linter-yaml-title-alias: Kletterausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Climber's Kit
-linter-yaml-title-alias: Climber's Kit
+  - Kletterausrüstung
 ---
 # Kletterausrüstung
 *Abenteuerausrüstung*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Combat Encounter Difficulty; XP Thresholds by Character Level
+linter-yaml-title-alias: Combat Encounter Difficulty; XP Thresholds by Character Level
 tags:
   - Quelle/5e/dmg
 aliases:

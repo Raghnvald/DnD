@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Destruction's Light"
+linter-yaml-title-alias: "Chapter 4: Destruction's Light"
 tags:
   - Quelle/5e/idrotf
 aliases:
+  - "Chapter 4: Destruction's Light"
   - Chapter 4: Destruction's Light
 ---
 # Chapter 4: Destruction's Light

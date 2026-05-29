@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Copper
+linter-yaml-title-alias: Copper
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Copper
-linter-yaml-title-alias: Copper
 ---
 # Copper
 *Trade good*  

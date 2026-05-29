@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Telescopic Transporter
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Telescopic Transporter
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Telescopic Transporter
-linter-yaml-title-alias: Telescopic Transporter
 ---
 # Telescopic Transporter
 *Wondrous item, legendary*  

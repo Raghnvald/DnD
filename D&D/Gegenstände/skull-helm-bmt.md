@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Skull Helm
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Skull Helm
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Skull Helm
-linter-yaml-title-alias: Skull Helm
 ---
 # Skull Helm
 *Wondrous item, very rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cog
+linter-yaml-title-alias: Cog
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Cog
-linter-yaml-title-alias: Cog
 ---
 # [Cog](3-Mechanics\CLI\bestiary\npc/cog-skt.md)
 *Source: Storm King's Thunder p. 209*  

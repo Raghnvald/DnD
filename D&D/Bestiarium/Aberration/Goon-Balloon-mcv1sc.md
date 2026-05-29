@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 1/8
 status: WIP
+linter-yaml-title-alias: Goon Balloon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

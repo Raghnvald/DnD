@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "The Secret of Darkon's Doom; Azalin's Fate"
+linter-yaml-title-alias: "The Secret of Darkon's Doom; Azalin's Fate"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "The Secret of Darkon's Doom; Azalin's Fate"
   - The Secret of Darkon's Doom; Azalin's Fate
 ---
 # The Secret of Darkon's Doom; Azalin's Fate

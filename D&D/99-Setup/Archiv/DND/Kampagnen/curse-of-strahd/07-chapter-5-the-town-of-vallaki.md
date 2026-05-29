@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: The Town of Vallaki"
+linter-yaml-title-alias: "Chapter 5: The Town of Vallaki"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 5: The Town of Vallaki"
   - Chapter 5: The Town of Vallaki
 ---
 # Chapter 5: The Town of Vallaki

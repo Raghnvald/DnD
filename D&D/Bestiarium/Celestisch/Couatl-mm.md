@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Couatl
+linter-yaml-title-alias: Couatl
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

@@ -12,6 +12,7 @@ Habitat:
   - Wald
 image: token/bugbear.webp
 status: completed
+linter-yaml-title-alias: Grottenschrat
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland
@@ -22,6 +23,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Bugbear
+  - Grottenschrat
 ---
 # Grottenschrat
 *Quelle: Monsterhandbuch S. 33. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

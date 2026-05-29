@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Red Knight
+linter-yaml-title-alias: The Red Knight
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/faerunian

@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Transport via Plants
 Zaubergrad: 6
+linter-yaml-title-alias: Transport via Plants
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Transport via Plants
-linter-yaml-title-alias: Transport via Plants
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

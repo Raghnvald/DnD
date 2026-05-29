@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Jade game board with gold playing pieces
+linter-yaml-title-alias: Jade game board with gold playing pieces
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Jade game board with gold playing pieces
-linter-yaml-title-alias: Jade game board with gold playing pieces
 ---
 # Jade game board with gold playing pieces
 *Treasure (art object)*  

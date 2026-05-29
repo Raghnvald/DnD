@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Headband of Intellect
+linter-yaml-title-alias: Headband of Intellect
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Headband of Intellect
-linter-yaml-title-alias: Headband of Intellect
 ---
 # Headband of Intellect
 *Wondrous item, uncommon (requires attunement)*  

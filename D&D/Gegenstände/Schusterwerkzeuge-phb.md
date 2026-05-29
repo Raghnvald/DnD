@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Schusterwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Schusterwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Cobbler's Tools
-linter-yaml-title-alias: Cobbler's Tools
+  - Schusterwerkzeuge
 ---
 # Schusterwerkzeuge
 *Handwerkszeug*

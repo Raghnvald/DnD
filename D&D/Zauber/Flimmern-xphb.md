@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Blink
+linter-yaml-title-alias: Blink
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Warlock (The Hexblade)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -13,19 +24,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Archfey Patron)
-  - Warlock (The Hexblade)
-  - Wizard
 aliases:
   - Blink
-linter-yaml-title-alias: Blink
 ---
 # Blink
 *3rd-level, Transmutation*  

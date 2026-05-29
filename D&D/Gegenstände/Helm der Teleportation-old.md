@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Helm der Teleportation
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Helm der Teleportation
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Helm der Teleportation
   - Helm of Teleportation
 ---
 # Helm der Teleportation

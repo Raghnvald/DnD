@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Framing Events
+linter-yaml-title-alias: Framing Events
 tags:
   - Quelle/5e/dmg
 aliases:

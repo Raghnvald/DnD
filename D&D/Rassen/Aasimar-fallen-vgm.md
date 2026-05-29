@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aasimar (Fallen)
+linter-yaml-title-alias: Aasimar (Fallen)
 tags:
   - Quelle/5e/vgm
   - Rasse/aasimar/fallen

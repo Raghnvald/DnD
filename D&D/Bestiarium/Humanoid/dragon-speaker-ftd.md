@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragon Speaker
+linter-yaml-title-alias: Dragon Speaker
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2

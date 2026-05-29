@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ice Devil
+linter-yaml-title-alias: Ice Devil
 tags:
   - Monster/Größe/Groß
   - Monster/HG/14

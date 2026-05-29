@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Brooch of Shielding
+linter-yaml-title-alias: Brooch of Shielding
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Brooch of Shielding
-linter-yaml-title-alias: Brooch of Shielding
 ---
 # Brooch of Shielding
 *Wondrous item, uncommon (requires attunement)*  

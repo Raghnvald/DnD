@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gold birdcage with electrum filigree
+linter-yaml-title-alias: Gold birdcage with electrum filigree
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Gold birdcage with electrum filigree
-linter-yaml-title-alias: Gold birdcage with electrum filigree
 ---
 # Gold birdcage with electrum filigree
 *Treasure (art object)*  

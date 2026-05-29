@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Damaged Flesh Golem
+linter-yaml-title-alias: Damaged Flesh Golem
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

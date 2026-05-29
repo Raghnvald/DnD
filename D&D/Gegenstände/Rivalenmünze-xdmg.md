@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Rival Coin
+linter-yaml-title-alias: Rival Coin
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Rival Coin
-linter-yaml-title-alias: Rival Coin
 ---
 # Rival Coin
 *Wondrous item, common*  

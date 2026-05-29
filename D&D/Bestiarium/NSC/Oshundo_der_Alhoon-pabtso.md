@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oshundo der Alhoon
+Image: token/oshundo-the-alhoon-pabtso.webp
+linter-yaml-title-alias: Oshundo der Alhoon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,9 +11,7 @@ tags:
   - Monster/Typ/Untote/wizard
   - Quelle/5e/pabtso
 aliases:
-  - Oshundo the Alhoon
-Image: token/oshundo-the-alhoon-pabtso.webp
-linter-yaml-title-alias: Oshundo the Alhoon
+  - Oshundo der Alhoon
 ---
 # Oshundo der Alhoon
 *Source: Phandelver and Below: The Shattered Obelisk p. 153*  

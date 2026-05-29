@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Arms of Hadar
+linter-yaml-title-alias: Arms of Hadar
+classes:
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock
 tags:
   - Klasse/Hexenmeister
   - Quelle/5e/xphb
   - Subklasse/aberrant-sorcery
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock
 aliases:
   - Arms of Hadar
-linter-yaml-title-alias: Arms of Hadar
 ---
 # Arms of Hadar
 *1st-level, Conjuration*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Krimineller (Spion) (Variante)
+linter-yaml-title-alias: Krimineller (Spion) (Variante)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
   - Criminal (Spy) (Variant)
+  - Krimineller (Spion) (Variante)
 ---
 # Krimineller (Spion) (Variante)
 *Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trenzia
+linter-yaml-title-alias: Trenzia
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Trenzia
-linter-yaml-title-alias: Trenzia
 ---
 # [Trenzia](3-Mechanics\CLI\bestiary\npc/trenzia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 32*  

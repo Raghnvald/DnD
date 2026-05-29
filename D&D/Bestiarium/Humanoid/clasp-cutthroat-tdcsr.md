@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clasp Cutthroat
+linter-yaml-title-alias: Clasp Cutthroat
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

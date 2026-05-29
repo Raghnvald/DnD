@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Answering (Answerer)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sword of Answering (Answerer)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sword of Answering (Answerer)
-linter-yaml-title-alias: Sword of Answering (Answerer)
 ---
 # Sword of Answering (Answerer)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a chaotic good creature)*  

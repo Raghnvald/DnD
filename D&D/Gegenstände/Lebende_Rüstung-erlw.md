@@ -2,12 +2,14 @@
 Bezeichnung: Lebende Rüstung
 Kategorie: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Lebende Rüstung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -17,7 +19,7 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/erlw
 aliases:
-  - Living Armor
+  - Lebende Rüstung
   - Living Breastplate
   - Living Chain Mail
   - Living Chain Shirt
@@ -31,7 +33,6 @@ aliases:
   - Living Spiked Armor
   - Living Splint Armor
   - Living Studded Leather Armor
-linter-yaml-title-alias: Living Armor
 ---
 # Lebende Rüstung
 *Very rare (requires attunement)*  

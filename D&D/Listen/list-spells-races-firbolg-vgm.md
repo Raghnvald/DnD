@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Firbolg
+linter-yaml-title-alias: Spells for Firbolg
 tags:
   - ttrpg-cli/spell/list/race/firbolg
 aliases:
   - "Spells for Firbolg"
+  - Spells for Firbolg
 ---
 # Spells for Firbolg
 

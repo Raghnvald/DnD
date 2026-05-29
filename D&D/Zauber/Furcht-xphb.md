@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Fear
+linter-yaml-title-alias: Fear
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Conquest)
+  - Ranger (Gloom Stalker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Draconic Sorcery)
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,21 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Conquest)
-  - Ranger (Gloom Stalker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Draconic Sorcery)
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Fear
-linter-yaml-title-alias: Fear
 ---
 # Fear
 *3rd-level, Illusion*  

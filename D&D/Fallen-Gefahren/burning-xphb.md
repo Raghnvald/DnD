@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Burning
+linter-yaml-title-alias: Burning
 tags:
   - Quelle/5e/xphb
 aliases:

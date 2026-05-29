@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Archaeologist
+linter-yaml-title-alias: Archaeologist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/toa

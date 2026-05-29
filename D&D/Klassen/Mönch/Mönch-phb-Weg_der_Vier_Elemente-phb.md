@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Four Elements
+linter-yaml-title-alias: Way of the Four Elements
 tags:
   - Klasse/Mönch/four-elements
   - Quelle/5e/phb

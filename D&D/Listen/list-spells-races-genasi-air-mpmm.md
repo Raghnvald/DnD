@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Genasi (Air)
+linter-yaml-title-alias: Spells for Genasi (Air)
 tags:
   - Zauber/list/subrace/genasi-air
 aliases:

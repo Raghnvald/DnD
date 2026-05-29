@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Azurit
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Azurit
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Azurite
-linter-yaml-title-alias: Azurite
+  - Azurit
 ---
 # Azurit
 *Schatz (Edelstein)*  

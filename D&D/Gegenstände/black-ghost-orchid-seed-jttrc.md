@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Black Ghost Orchid Seed
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Black Ghost Orchid Seed
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/jttrc
 aliases:
   - Black Ghost Orchid Seed
-linter-yaml-title-alias: Black Ghost Orchid Seed
 ---
 # Black Ghost Orchid Seed
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unearthly Roads; Unearthly Road Keys
+linter-yaml-title-alias: Unearthly Roads; Unearthly Road Keys
 tags:
   - Quelle/5e/tce
 aliases:

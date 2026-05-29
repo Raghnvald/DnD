@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Slayer
+linter-yaml-title-alias: Giant Slayer
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/selten
@@ -66,7 +67,6 @@ aliases:
   - Giant Slayer Whip
   - Giant Slayer Wooden Staff
   - Giant Slayer Yklwa
-linter-yaml-title-alias: Giant Slayer
 ---
 # Giant Slayer
 *Rare*  

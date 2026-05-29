@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Saving Throw
+linter-yaml-title-alias: Saving Throw
 tags:
   - Quelle/5e/xphb
 aliases:

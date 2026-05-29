@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Meazel
+linter-yaml-title-alias: Meazel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

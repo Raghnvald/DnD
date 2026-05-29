@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Map
+linter-yaml-title-alias: Map
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Map
-linter-yaml-title-alias: Map
 ---
 # Map
 *Adventuring gear*  

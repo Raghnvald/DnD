@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Variant: Spell Points; Spell Point Cost"
+linter-yaml-title-alias: "Variant: Spell Points; Spell Point Cost"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Variant: Spell Points; Spell Point Cost"
   - Variant: Spell Points; Spell Point Cost
 ---
 # Variant: Spell Points; Spell Point Cost

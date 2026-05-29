@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sea Horse
+linter-yaml-title-alias: Sea Horse
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

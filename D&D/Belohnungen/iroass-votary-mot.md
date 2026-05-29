@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Iroas's Votary"
+linter-yaml-title-alias: "Iroas's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

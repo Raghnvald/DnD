@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Vampire's Plaything"
+linter-yaml-title-alias: "Vampire's Plaything"
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh

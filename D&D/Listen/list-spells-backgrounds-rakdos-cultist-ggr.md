@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Rakdos Cultist
+linter-yaml-title-alias: Spells for Rakdos Cultist
 tags:
   - Zauber/list/background/rakdos-cultist
 aliases:

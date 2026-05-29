@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Flesh Golems
+linter-yaml-title-alias: Manual of Flesh Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Flesh Golems
-linter-yaml-title-alias: Manual of Flesh Golems
 ---
 # Manual of Flesh Golems
 *Wondrous item, very rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Power
+linter-yaml-title-alias: Staff of Power
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Power
-linter-yaml-title-alias: Staff of Power
 ---
 # Staff of Power
 *Staff, weapon, very rare (requires attunement by a sorcerer, warlock, or wizard)*  

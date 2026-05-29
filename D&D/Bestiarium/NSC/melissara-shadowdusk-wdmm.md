@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Melissara Shadowdusk
+linter-yaml-title-alias: Melissara Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdmm
 aliases:
   - Melissara Shadowdusk
-linter-yaml-title-alias: Melissara Shadowdusk
 ---
 # [Melissara Shadowdusk](3-Mechanics\CLI\bestiary\npc/melissara-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 281*  

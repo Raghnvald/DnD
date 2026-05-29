@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Control Water
+linter-yaml-title-alias: Control Water
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Marid)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,21 +28,8 @@ tags:
   - Subklasse/the-genie/marid
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Fathomless)
-  - Warlock (The Genie, Marid)
-  - Wizard
 aliases:
   - Control Water
-linter-yaml-title-alias: Control Water
 ---
 # Control Water
 *4th-level, Transmutation*  

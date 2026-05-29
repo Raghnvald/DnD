@@ -10,6 +10,7 @@ Habitat:
   - /
 image: token/mormesk-the-wraith-pabtso.webp
 status:
+linter-yaml-title-alias: Mormesk der Todesalb
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -18,7 +19,6 @@ tags:
 aliases:
   - Mormesk der Todesalb
   - Mormesk the Wraith
-linter-yaml-title-alias: Mormesk der Todesalb
 ---
 # Mormesk der Todesalb
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 70*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Tree"
+linter-yaml-title-alias: "Quaal's Feather Token, Tree"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - "Quaal's Feather Token, Tree"
   - Quaal's Feather Token, Tree
-linter-yaml-title-alias: "Quaal's Feather Token, Tree"
 ---
 # Quaal's Feather Token, Tree
 *Wondrous item, uncommon*  

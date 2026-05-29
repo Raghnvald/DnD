@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Stone Giant Strength
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Stone Giant Strength
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Stone Giant Strength
-linter-yaml-title-alias: Potion of Stone Giant Strength
 ---
 # Potion of Stone Giant Strength
 *Potion, minor, rare*  

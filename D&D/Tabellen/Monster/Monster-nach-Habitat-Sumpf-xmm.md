@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Swamp Monsters
+linter-yaml-title-alias: Monsters by Habitat; Swamp Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

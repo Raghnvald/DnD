@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zuleika Toranescu
+linter-yaml-title-alias: Zuleika Toranescu
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/cos
 aliases:
   - Zuleika Toranescu
-linter-yaml-title-alias: Zuleika Toranescu
 ---
 # [Zuleika Toranescu](3-Mechanics\CLI\bestiary\npc/zuleika-toranescu-cos.md)
 *Source: Curse of Strahd p. 204*  

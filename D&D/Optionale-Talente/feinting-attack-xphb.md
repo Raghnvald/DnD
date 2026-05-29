@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feinting Attack
+linter-yaml-title-alias: Feinting Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Talisman of Pure Good
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Talisman of Pure Good
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Talisman of Pure Good
-linter-yaml-title-alias: Talisman of Pure Good
 ---
 # Talisman of Pure Good
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  

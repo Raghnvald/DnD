@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Volume; Loud Behaviors
+linter-yaml-title-alias: Volume; Loud Behaviors
 tags:
   - Quelle/5e/bgg
 aliases:

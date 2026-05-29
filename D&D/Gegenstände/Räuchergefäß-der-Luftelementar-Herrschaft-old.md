@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Rauchfass der Luftelementar-Herrschaft
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Rauchfass der Luftelementar-Herrschaft
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Censer of Controlling Air Elementals
-linter-yaml-title-alias: Rauchfass der Luftelementar-Herrschaft
+  - Rauchfass der Luftelementar-Herrschaft
 ---
 #  Rauchfass der Luftelementar-Herrschaft
 *Wundersamer Gegenstand, selten*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Occupied Space
+linter-yaml-title-alias: Occupied Space
 tags:
   - Quelle/5e/xphb
 aliases:

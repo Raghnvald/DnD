@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Krull
+linter-yaml-title-alias: Krull
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Krull
-linter-yaml-title-alias: Krull
 ---
 # Krull
 *Source: Baldur's Gate: Descent Into Avernus p. 110*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Arrow
+linter-yaml-title-alias: Arrow
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Arrow
-linter-yaml-title-alias: Arrow
 ---
 # Arrow
 *Ammunition*  

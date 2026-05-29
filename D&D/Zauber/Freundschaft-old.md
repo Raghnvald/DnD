@@ -8,6 +8,7 @@ Angriff: nichts
 Schaden: Stärkung
 status:
   - completed
+linter-yaml-title-alias: Freundschaft
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -18,6 +19,7 @@ tags:
   - Zauber/Original/Friends
   - Zauber/Schule/Verzauberung
 aliases:
+  - Freundschaft
   - Friends
 ---
 # Freundschaft

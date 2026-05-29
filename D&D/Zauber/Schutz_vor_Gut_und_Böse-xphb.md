@@ -7,6 +7,23 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Protection from Evil and Good
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Ranger (Horizon Walker)
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Neutrality)
+  - Warlock
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -27,25 +44,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Ranger (Horizon Walker)
-  - Ranger (Monster Slayer)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Clockwork Sorcery)
-  - Sorcerer (Divine Soul, Neutrality)
-  - Warlock
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Protection from Evil and Good
-linter-yaml-title-alias: Protection from Evil and Good
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  

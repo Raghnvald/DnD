@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wooden Staff
+linter-yaml-title-alias: Wooden Staff
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Wooden Staff
-linter-yaml-title-alias: Wooden Staff
 ---
 # Wooden Staff
 *Weapon, spellcasting focus*  

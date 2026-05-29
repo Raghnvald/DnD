@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Navigator's Helm"
+linter-yaml-title-alias: "Navigator's Helm"
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa

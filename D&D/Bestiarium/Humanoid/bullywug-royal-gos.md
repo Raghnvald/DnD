@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bullywug Royal
+linter-yaml-title-alias: Bullywug Royal
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

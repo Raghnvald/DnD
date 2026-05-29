@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Zauberstab von Orcus
 Kategorie: Zauberstab
+linter-yaml-title-alias: Zauberstab von Orcus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,12 +10,11 @@ tags:
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg
 aliases:
-  - Wand of Orcus
-linter-yaml-title-alias: Wand of Orcus
+  - Zauberstab von Orcus
 ---
 # Zauberstab von Orcus
 *Weapon ([mace](/3-Mechanics/CLI/items/mace.md)), wand, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/wand-of-orcus.webp#right)
+![](img/wand-of-orcus.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

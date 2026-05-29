@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Way of the Sun Soul
+linter-yaml-title-alias: Spells for Way of the Sun Soul
 tags:
   - Zauber/list/subclass/way-of-the-sun-soul
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cold Snap Spirit
+linter-yaml-title-alias: Cold Snap Spirit
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

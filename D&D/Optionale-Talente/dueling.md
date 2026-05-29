@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dueling
+linter-yaml-title-alias: Dueling
 tags:
   - Kompendium/Optionales/fs-b
   - Kompendium/Optionales/fs-f

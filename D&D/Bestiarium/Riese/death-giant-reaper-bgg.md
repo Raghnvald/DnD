@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Giant Reaper
+linter-yaml-title-alias: Death Giant Reaper
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/12

@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: 1 Stunde
 Angriff: WEI
 Schaden: Bezaubern
+linter-yaml-title-alias: Monster bezaubern
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -19,6 +20,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Charm Monster
+  - Monster bezaubern
 ---
 # Monster bezaubern
 *Verzauberung des 4. Grades*

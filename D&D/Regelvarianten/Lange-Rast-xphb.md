@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Long Rest
+linter-yaml-title-alias: Long Rest
 tags:
   - Quelle/5e/xphb
 aliases:

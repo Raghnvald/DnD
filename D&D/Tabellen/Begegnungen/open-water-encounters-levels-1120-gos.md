@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Open Water Encounters (Levels 11—20)
+linter-yaml-title-alias: Open Water Encounters (Levels 11—20)
 tags:
   - Quelle/5e/gos
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sign of Ill Omen
+linter-yaml-title-alias: Sign of Ill Omen
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

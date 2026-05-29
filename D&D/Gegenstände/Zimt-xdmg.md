@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cinnamon
+linter-yaml-title-alias: Cinnamon
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Cinnamon
-linter-yaml-title-alias: Cinnamon
 ---
 # Cinnamon
 *Trade good*  

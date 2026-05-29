@@ -1,16 +1,16 @@
 ---
 Bezeichnung: Power Word Heal
 Zaubergrad: 9
+linter-yaml-title-alias: Power Word Heal
+classes:
+  - Bard (Magical Secrets)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
 aliases:
   - Power Word Heal
-linter-yaml-title-alias: Power Word Heal
 ---
 # Power Word Heal
 *9th-level, Evocation*  

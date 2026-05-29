@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keranos
+linter-yaml-title-alias: Keranos
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/tempest
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Keranos"
+  - Keranos
 ---
 # Keranos
 *Source: Mythic Odysseys of Theros p. 55* 

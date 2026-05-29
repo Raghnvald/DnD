@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior Sidekick
+linter-yaml-title-alias: Warrior Sidekick
 tags:
   - Klasse/warrior-sidekick
   - Quelle/5e/tce

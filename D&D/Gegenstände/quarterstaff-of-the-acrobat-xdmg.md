@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quarterstaff of the Acrobat
+linter-yaml-title-alias: Quarterstaff of the Acrobat
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Quarterstaff of the Acrobat
-linter-yaml-title-alias: Quarterstaff of the Acrobat
 ---
 # Quarterstaff of the Acrobat
 *Staff, weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), very rare (requires attunement)*  

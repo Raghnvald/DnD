@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Keranos's Votary"
+linter-yaml-title-alias: "Keranos's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

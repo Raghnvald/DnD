@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lahnis
+linter-yaml-title-alias: Lahnis
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Lahnis
-linter-yaml-title-alias: Lahnis
 ---
 # [Lahnis](3-Mechanics\CLI\bestiary\npc/lahnis-tftyp.md)
 *Source: Tales from the Yawning Portal p. 131*  

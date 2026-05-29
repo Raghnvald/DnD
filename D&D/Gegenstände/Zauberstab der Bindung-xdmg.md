@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Binding
+linter-yaml-title-alias: Wand of Binding
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Binding
-linter-yaml-title-alias: Wand of Binding
 ---
 # Wand of Binding
 *Wand, rare (requires attunement)*  

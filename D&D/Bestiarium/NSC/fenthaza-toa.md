@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fenthaza
+linter-yaml-title-alias: Fenthaza
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Fenthaza
-linter-yaml-title-alias: Fenthaza
 ---
 # [Fenthaza](3-Mechanics\CLI\bestiary\npc/fenthaza-toa.md)
 *Source: Tomb of Annihilation p. 113*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Crystal Ball of True Seeing
+linter-yaml-title-alias: Crystal Ball of True Seeing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Crystal Ball of True Seeing
-linter-yaml-title-alias: Crystal Ball of True Seeing
 ---
 # Crystal Ball of True Seeing
 *Wondrous item, legendary (requires attunement)*  

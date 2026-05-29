@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spell Scroll (Level 8)
+linter-yaml-title-alias: Spell Scroll (Level 8)
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Spell Scroll (Level 8)
-linter-yaml-title-alias: Spell Scroll (Level 8)
 ---
 # Spell Scroll (Level 8)
 *Scroll, very rare*  

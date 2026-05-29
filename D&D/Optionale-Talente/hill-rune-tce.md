@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hill Rune
+linter-yaml-title-alias: Hill Rune
 tags:
   - Kompendium/Optionales/rn
   - Quelle/5e/tce

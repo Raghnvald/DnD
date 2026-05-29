@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Spellwrought Tattoo (1st Level)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Spellwrought Tattoo (1st Level)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
   - Spellwrought Tattoo (1st Level)
-linter-yaml-title-alias: Spellwrought Tattoo (1st Level)
 ---
 # Spellwrought Tattoo (1st Level)
 *Wondrous item (tattoo), common*  

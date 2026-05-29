@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Raiding Parties; Duergar Purpose of Raid
+linter-yaml-title-alias: Duergar Raiding Parties; Duergar Purpose of Raid
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 1)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Level 1)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Level 1) Splint Armor
   - Enspelled (Level 1) Studded Leather Armor
   - Enspelled Armor (Level 1)
-linter-yaml-title-alias: Enspelled Armor (Level 1)
 ---
 # Enspelled Armor (Level 1)
 *Uncommon (requires attunement)*  

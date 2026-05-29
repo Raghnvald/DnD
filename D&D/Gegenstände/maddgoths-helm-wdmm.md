@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Maddgoth's Helm"
+linter-yaml-title-alias: "Maddgoth's Helm"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/other
   - Quelle/5e/wdmm
 aliases:
-  - Maddgoth's Helm
-linter-yaml-title-alias: Maddgoth's Helm
+  - "Maddgoth's Helm"
 ---
 # Maddgoth's Helm
 *Very rare (requires attunement by a humanoid)*  

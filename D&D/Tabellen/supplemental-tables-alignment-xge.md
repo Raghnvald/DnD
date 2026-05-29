@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supplemental Tables; Alignment
+linter-yaml-title-alias: Supplemental Tables; Alignment
 tags:
   - Quelle/5e/xge
 aliases:

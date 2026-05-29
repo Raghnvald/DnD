@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hell of a Summer
+linter-yaml-title-alias: Hell of a Summer
 tags:
   - Quelle/5e/wdh
 aliases:

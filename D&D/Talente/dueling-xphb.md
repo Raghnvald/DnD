@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dueling
+linter-yaml-title-alias: Dueling
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

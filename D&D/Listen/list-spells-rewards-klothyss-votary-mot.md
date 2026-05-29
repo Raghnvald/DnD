@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Klothys's Votary"
+linter-yaml-title-alias: "Spells for Klothys's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/klothyss-votary
 aliases:

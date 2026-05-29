@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Grovelthrash (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Grovelthrash (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Grovelthrash (Dormant)
-linter-yaml-title-alias: Grovelthrash (Dormant)
 ---
 # Grovelthrash (Dormant)
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement)*  

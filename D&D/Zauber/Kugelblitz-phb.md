@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Chain Lightning
 Zaubergrad: 6
+linter-yaml-title-alias: Chain Lightning
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Chain Lightning
-linter-yaml-title-alias: Chain Lightning
 ---
 # Chain Lightning
 *6th-level, Evocation*  

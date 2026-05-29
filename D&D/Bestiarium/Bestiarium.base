@@ -35,10 +35,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
-      - property: aliases
-        direction: ASC
     cardSize: 120
-    image: note.IMAGE
+    image: note.Image
   - type: table
     name: Bestiarium MM
     filters:

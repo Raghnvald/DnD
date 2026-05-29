@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Adamantine Armor
 Rüstung: Mittel oder Schwer
+linter-yaml-title-alias: Adamantine Armor
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -17,7 +18,6 @@ aliases:
   - Adamantine Ring Mail
   - Adamantine Scale Mail
   - Adamantine Splint Armor
-linter-yaml-title-alias: Adamantine Armor
 ---
 # Adamantine Armor
 *Uncommon*  

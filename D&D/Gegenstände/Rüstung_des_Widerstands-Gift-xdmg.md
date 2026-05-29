@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Poison Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Poison Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Poison Resistance
   - Splint Armor of Poison Resistance
   - Studded Leather Armor of Poison Resistance
-linter-yaml-title-alias: Armor of Poison Resistance
 ---
 # Armor of Poison Resistance
 *Rare (requires attunement)*  

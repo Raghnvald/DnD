@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Monsterjägerpaket
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 23 GM
-Gew.: 24,25 kg.
+Gew.: 24,25 kg
+status: WIP
+linter-yaml-title-alias: Monsterjägerpaket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/vrgr
 aliases:
-  - Monster Hunter's Pack
-linter-yaml-title-alias: "Monster Hunter's Pack"
+  - Monsterjägerpaket
 ---
 # Monsterjägerpaket
 *Adventuring gear*  

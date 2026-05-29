@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Chain Shirt
 Rüstung: Mittel
+linter-yaml-title-alias: Chain Shirt
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Chain Shirt
-linter-yaml-title-alias: Chain Shirt
 ---
 # Chain Shirt
 *Medium armor*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Khenra
+linter-yaml-title-alias: Khenra
 tags:
   - Quelle/5e/psa
   - Rasse/khenra
 aliases:
   - "Khenra"
+  - Khenra
 ---
 # Khenra
 *Source: Plane Shift: Amonkhet p. 17*  

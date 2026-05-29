@@ -2,20 +2,21 @@
 Bezeichnung: Bronze-Drachenschuppen-Panzer
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 4.000 GM
 Gew.: 20,0 kg
 RK: 14 + GES (max +2)
 STR: n/v
 Heiml.: Nachteil
+linter-yaml-title-alias: Bronze-Drachenschuppen-Panzer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Bronze Dragon Scale Mail
-linter-yaml-title-alias: Bronze Dragon Scale Mail
+  - Bronze-Drachenschuppen-Panzer
 ---
 # Bronze-Drachenschuppen-Panzer
 *Rüstung ([[Schuppenpanzer-phb|Schuppenpanzer]]), sehr selten (erfordert Einstimmung)*  

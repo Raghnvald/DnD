@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Vulnerability (Slashing)
 Rüstung: Schwer
+linter-yaml-title-alias: Armor of Vulnerability (Slashing)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Vulnerability (Slashing)
   - Splint Armor of Vulnerability (Slashing)
   - Studded Leather Armor of Vulnerability (Slashing)
-linter-yaml-title-alias: Armor of Vulnerability (Slashing)
 ---
 # Armor of Vulnerability (Slashing)
 *Cursed item, rare (requires attunement)*  

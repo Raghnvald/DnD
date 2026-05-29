@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Tinderbox
+linter-yaml-title-alias: Tinderbox
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Tinderbox
-linter-yaml-title-alias: Tinderbox
 ---
 # Tinderbox
 *Adventuring gear*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Disguise Kit
+linter-yaml-title-alias: Disguise Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Disguise Kit
-linter-yaml-title-alias: Disguise Kit
 ---
 # Disguise Kit
 *Tool*  

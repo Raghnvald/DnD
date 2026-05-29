@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spirit Tales
+linter-yaml-title-alias: Spirit Tales
 tags:
   - Quelle/5e/vrgr
 aliases:

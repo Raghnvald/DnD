@@ -10,6 +10,7 @@ Habitat:
   - Sumpf
 image:
 status:
+linter-yaml-title-alias: Schwarm von Ratten
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -18,6 +19,7 @@ tags:
   - Monster/Typ/Tier
   - Quelle/5e/mm
 aliases:
+  - Schwarm von Ratten
   - Swarm of Rats
 ---
 # Schwarm von Ratten

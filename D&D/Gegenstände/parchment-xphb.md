@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Parchment
+linter-yaml-title-alias: Parchment
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Parchment
-linter-yaml-title-alias: Parchment
 ---
 # Parchment
 *Adventuring gear*  

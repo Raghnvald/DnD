@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Waythe
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Waythe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Waythe
-linter-yaml-title-alias: Waythe
 ---
 # Waythe
 *Weapon (greatsword), legendary (requires attunement)*  

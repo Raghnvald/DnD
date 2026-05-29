@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Pregenerated Characters
+linter-yaml-title-alias: Pregenerated Characters
 tags:
   - Quelle/5e/azfyt
 aliases:
   - "Pregenerated Characters"
+  - Pregenerated Characters
 ---
 # Pregenerated Characters
 *Source: A Zib for Your Thoughts* 

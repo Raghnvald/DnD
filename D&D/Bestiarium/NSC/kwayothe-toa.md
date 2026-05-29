@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kwayothé
+linter-yaml-title-alias: Kwayothé
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Kwayothé
-linter-yaml-title-alias: Kwayothé
 ---
 # [Kwayothé](3-Mechanics\CLI\bestiary\npc/kwayothe-toa.md)
 *Source: Tomb of Annihilation p. 26*  

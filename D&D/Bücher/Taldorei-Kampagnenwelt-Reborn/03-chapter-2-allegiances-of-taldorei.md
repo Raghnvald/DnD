@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Allegiances of Tal'Dorei"
+linter-yaml-title-alias: "Chapter 2: Allegiances of Tal'Dorei"
 tags:
   - Quelle/5e/tdcsr
 aliases:
+  - "Chapter 2: Allegiances of Tal'Dorei"
   - Chapter 2: Allegiances of Tal'Dorei
 ---
 # Chapter 2: Allegiances of Tal'Dorei

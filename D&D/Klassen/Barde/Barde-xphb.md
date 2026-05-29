@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bard
+linter-yaml-title-alias: Bard
 tags:
   - Klasse/Barde
   - Quelle/5e/xphb

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Quiver of Ehlonna
+linter-yaml-title-alias: Quiver of Ehlonna
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Quiver of Ehlonna
-linter-yaml-title-alias: Quiver of Ehlonna
 ---
 # Quiver of Ehlonna
 *Wondrous item, uncommon*  

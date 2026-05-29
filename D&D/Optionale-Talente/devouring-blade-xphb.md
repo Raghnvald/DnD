@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Devouring Blade
+linter-yaml-title-alias: Devouring Blade
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Autognome
+linter-yaml-title-alias: Autognome
 tags:
   - Quelle/5e/aag
   - Rasse/autognome
 aliases:
   - "Autognome"
+  - Autognome
 ---
 # Autognome
 *Source: Astral Adventurer's Guide p. 11*  

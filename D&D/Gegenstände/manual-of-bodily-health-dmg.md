@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Bodily Health
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Bodily Health
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Bodily Health
-linter-yaml-title-alias: Manual of Bodily Health
 ---
 # Manual of Bodily Health
 *Wondrous item, major, very rare*  

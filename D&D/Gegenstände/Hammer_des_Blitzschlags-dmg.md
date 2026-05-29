@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Hammer des Blitzschlags
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Hammer des Blitzschlags
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Hammer of Thunderbolts
-linter-yaml-title-alias: Hammer of Thunderbolts
+  - Hammer des Blitzschlags
 ---
 # Hammer des Blitzschlags
 *Weapon ([maul](/3-Mechanics/CLI/items/maul.md)), major, legendary*  

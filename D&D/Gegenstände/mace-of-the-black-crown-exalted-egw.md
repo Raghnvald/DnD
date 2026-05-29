@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mace of the Black Crown (Exalted)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Mace of the Black Crown (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Mace of the Black Crown (Exalted)
-linter-yaml-title-alias: Mace of the Black Crown (Exalted)
 ---
 # Mace of the Black Crown (Exalted)
 *Weapon ([mace](Streitkolben-xphb)), artifact (requires attunement)*  

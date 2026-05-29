@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cheese (wedge)
+linter-yaml-title-alias: Cheese (wedge)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Cheese (wedge)
-linter-yaml-title-alias: Cheese (wedge)
 ---
 # Cheese (wedge)
 *Food and drink*  

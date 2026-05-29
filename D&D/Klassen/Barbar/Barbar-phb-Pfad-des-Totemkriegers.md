@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Totem Warrior
+linter-yaml-title-alias: Path of the Totem Warrior
 tags:
   - Klasse/Barbar/totem-warrior
   - Quelle/5e/phb

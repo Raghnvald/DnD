@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Shaman
+linter-yaml-title-alias: Lizardfolk Shaman
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

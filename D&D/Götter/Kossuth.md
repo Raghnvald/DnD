@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Akadi, Göttin der Luft
+linter-yaml-title-alias: Akadi, Göttin der Luft
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Licht
@@ -7,6 +8,7 @@ tags:
   - Kompendium/Götter/Pantheon/Faerun
   - Quelle/5e/phb
 aliases:
+  - Akadi, Göttin der Luft
   - Kossuth
 ---
 # Akadi, Göttin der Luft

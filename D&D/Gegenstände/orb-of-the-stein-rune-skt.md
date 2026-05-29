@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Orb of the Stein Rune
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Orb of the Stein Rune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Orb of the Stein Rune
-linter-yaml-title-alias: Orb of the Stein Rune
 ---
 # Orb of the Stein Rune
 *Wondrous item, rare (requires attunement)*  

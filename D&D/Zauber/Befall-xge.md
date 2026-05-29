@@ -7,6 +7,16 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d6 Gift
+linter-yaml-title-alias: Befall
+classes:
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
@@ -25,18 +35,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
+  - Befall
   - Infestation
-linter-yaml-title-alias: Befall
 ---
 # Befall
 *Zaubertrick  der Beschwörung*

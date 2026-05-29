@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Verführerischer Einfluss
+linter-yaml-title-alias: Verführerischer Einfluss
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb
 aliases:
   - Beguiling Influence
+  - Verführerischer Einfluss
 ---
 # Verführerischer Einfluss
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Blauer Drache
+linter-yaml-title-alias: Blauer Drache
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm
 aliases:
+  - Blauer Drache
   - Blue Dragon
 ---
 # Blauer Drache

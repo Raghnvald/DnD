@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Races
+linter-yaml-title-alias: Index of Races
+aliases:
+  - Index of Races
 ---
 # Index of Races
 

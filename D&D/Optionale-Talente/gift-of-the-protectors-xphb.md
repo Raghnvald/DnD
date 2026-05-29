@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Protectors
+linter-yaml-title-alias: Gift of the Protectors
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

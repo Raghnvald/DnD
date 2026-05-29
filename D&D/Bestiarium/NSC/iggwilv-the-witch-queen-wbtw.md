@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iggwilv the Witch Queen
+linter-yaml-title-alias: Iggwilv the Witch Queen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/20
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Iggwilv the Witch Queen
-linter-yaml-title-alias: Iggwilv the Witch Queen
 ---
 # [Iggwilv the Witch Queen](3-Mechanics\CLI\bestiary\npc/iggwilv-the-witch-queen-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 205, Vecna: Eve of Ruin*  

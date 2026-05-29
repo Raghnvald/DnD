@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Rune
+linter-yaml-title-alias: Storm Rune
 tags:
   - Kompendium/Optionales/rn
   - Quelle/5e/tce

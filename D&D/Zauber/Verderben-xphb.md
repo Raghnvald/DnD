@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Bane
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Grave Domain)
+  - Paladin (Oath of Vengeance)
+  - Sorcerer (Divine Soul, Chaos)
+  - Warlock
+  - Warlock (The Undead)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -22,18 +32,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/thief-of-five-fates
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Grave Domain)
-  - Paladin (Oath of Vengeance)
-  - Sorcerer (Divine Soul, Chaos)
-  - Warlock
-  - Warlock (The Undead)
 aliases:
   - Bane
-linter-yaml-title-alias: Bane
 ---
 # Bane
 *1st-level, Enchantment*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Moon Domain
+linter-yaml-title-alias: Spells for Moon Domain
 tags:
   - Zauber/list/subclass/moon-domain
 aliases:

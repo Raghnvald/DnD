@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warlock
+linter-yaml-title-alias: Warlock
 tags:
   - Klasse/Hexenmeister
   - Quelle/5e/phb

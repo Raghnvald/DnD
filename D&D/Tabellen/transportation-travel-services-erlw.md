@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Transportation; Travel Services
+linter-yaml-title-alias: Transportation; Travel Services
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ismark Kolyanovich
+linter-yaml-title-alias: Ismark Kolyanovich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Ismark Kolyanovich
-linter-yaml-title-alias: Ismark Kolyanovich
 ---
 # Ismark Kolyanovich
 *Source: Curse of Strahd p. 43*  

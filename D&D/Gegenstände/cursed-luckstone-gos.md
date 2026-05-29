@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Cursed Luckstone
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Cursed Luckstone
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/gos
 aliases:
   - Cursed Luckstone
-linter-yaml-title-alias: Cursed Luckstone
 ---
 # Cursed Luckstone
 *Wondrous item, cursed item, uncommon (requires attunement)*  

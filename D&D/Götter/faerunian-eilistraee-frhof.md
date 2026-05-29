@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eilistraee
+linter-yaml-title-alias: Eilistraee
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Lady of the Dance"
   - "Lady Silverhair"
   - "The Dark Maiden"
+  - Eilistraee
 ---
 # Eilistraee
 *Source: Forgotten Realms: Heroes of Faerûn p. 106* 

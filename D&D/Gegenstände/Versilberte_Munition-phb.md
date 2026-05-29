@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Silvered Ammunition
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Silvered Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/unbekannt
@@ -13,7 +19,6 @@ aliases:
   - Silvered Firearm Bullet
   - Silvered Needle
   - Silvered Sling Bullet
-linter-yaml-title-alias: Silvered Ammunition
 ---
 # Silvered Ammunition
 *Ammunition, minor*  

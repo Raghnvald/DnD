@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Divination Spells
+linter-yaml-title-alias: Divination Spells
 tags:
   - Zauber/list/school/divination
 aliases:

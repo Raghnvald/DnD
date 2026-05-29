@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gem of Brightness
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Gem of Brightness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Gem of Brightness
-linter-yaml-title-alias: Gem of Brightness
 ---
 # Gem of Brightness
 *Wondrous item, major, uncommon*  

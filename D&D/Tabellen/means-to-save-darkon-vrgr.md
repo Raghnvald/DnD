@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Means to Save Darkon
+linter-yaml-title-alias: Means to Save Darkon
 tags:
   - Quelle/5e/vrgr
 aliases:

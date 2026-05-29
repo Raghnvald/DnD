@@ -2,12 +2,14 @@
 Bezeichnung: Zephyr-Rüstung
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Zephyr-Rüstung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -15,11 +17,10 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/bgg
 aliases:
-  - Zephyr Armor
   - Zephyr Leather Armor
   - Zephyr Padded Armor
   - Zephyr Studded Leather Armor
-linter-yaml-title-alias: Zephyr Armor
+  - Zephyr-Rüstung
 ---
 # Zephyr-Rüstung
 *Rare (requires attunement)*  

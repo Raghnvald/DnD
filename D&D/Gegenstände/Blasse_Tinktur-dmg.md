@@ -1,23 +1,23 @@
 ---
-Bezeichnung: Blasse Tinktur (Einnahme)
+Bezeichnung: Pale Tincture
 Kategorie: Gift
-Eigenschaften: Gift
 Kst.: 250 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Pale Tincture
 tags:
-  - Gegenstand/Ausrüstung/Gift
-  - Gegenstand/Eigenschaft/Gift
+  - Gegenstand/Ausrüstung/
+  - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Pale Tincture
-linter-yaml-title-alias: Blasse Tinktur (Einnahme)
 ---
-# Blasse Tinktur (Einnahme)
-*Abenteuerausrüstung, Gift*  
-<img src="Symbolik/Gegenstände.webp" align="right" width="150">
+# Pale Tincture
+*Adventuring gear, poison (ingested)*  
 
-- **Eigenschaft**: Gift
-- **Kosten**: 250 Goldmünzen
-- **Gewicht**: n/v
+- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
+- **Cost**: 250 gp
 
-Eine Kreatur, die diesem Gift ausgesetzt wird, muss einen `Konstitutions-Rettungswurf` gegen SG 16 schaffen, sonst erhält sie `3` (`1W6`) Giftschaden und ist [[01. Grundregelwerk 2014/Anhang PH-A#Vergiftet|vergiftet]]. Die vergiftete Kreatur muss den Rettungswurf alle 24 Stunden wiederholen und erleidet `3` (`1W6`) Giftschaden bei einem misslungenen Wurf. Bis die Wirkung des Gifts nachlässt, kann der Schaden, den das Gift verursacht, mit keinen Mitteln geheilt werden. Nach sieben erfolgreichen Rettungswürfen endet der Effekt und die Kreatur kann normal geheilt werden.
+A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (`1d6`) poison damage and become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned). The [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) creature must repeat the saving throw every 24 hours, taking 3 (`1d6`) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.
+
+*Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

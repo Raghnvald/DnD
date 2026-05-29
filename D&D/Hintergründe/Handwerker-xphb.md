@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artisan
+linter-yaml-title-alias: Artisan
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

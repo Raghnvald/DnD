@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Explorer's Pack"
+linter-yaml-title-alias: "Explorer's Pack"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Explorer's Pack
-linter-yaml-title-alias: Explorer's Pack
+  - "Explorer's Pack"
 ---
 # Explorer's Pack
 *Adventuring gear*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Charm of Dhakaan
+linter-yaml-title-alias: Charm of Dhakaan
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/efa
 aliases:
   - "Charm of Dhakaan"
+  - Charm of Dhakaan
 ---
 # Charm of Dhakaan
 

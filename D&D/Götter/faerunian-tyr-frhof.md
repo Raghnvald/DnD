@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyr
+linter-yaml-title-alias: Tyr
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "The Evenhanded"
   - "The Maimed God"
   - "Tyr"
+  - Tyr
 ---
 # Tyr
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 

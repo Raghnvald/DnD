@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Portable Hole
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Portable Hole
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Portable Hole
-linter-yaml-title-alias: Portable Hole
 ---
 # Portable Hole
 *Wondrous item, minor, rare*  

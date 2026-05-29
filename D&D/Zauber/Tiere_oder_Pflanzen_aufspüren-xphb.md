@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Locate Animals or Plants
+linter-yaml-title-alias: Locate Animals or Plants
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,14 +15,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Locate Animals or Plants
-linter-yaml-title-alias: Locate Animals or Plants
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

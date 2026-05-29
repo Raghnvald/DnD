@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Fragment of Attachment
+linter-yaml-title-alias: Fragment of Attachment
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
   - "Fragment of Attachment"
+  - Fragment of Attachment
 ---
 # Fragment of Attachment
 *Fragment of Suffering*  

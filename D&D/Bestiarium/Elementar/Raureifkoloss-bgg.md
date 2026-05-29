@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rime Hulk
+linter-yaml-title-alias: Rime Hulk
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

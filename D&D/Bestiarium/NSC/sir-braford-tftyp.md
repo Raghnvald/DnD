@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sir Braford
+linter-yaml-title-alias: Sir Braford
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/tftyp
 aliases:
   - Sir Braford
-linter-yaml-title-alias: Sir Braford
 ---
 # [Sir Braford](3-Mechanics\CLI\bestiary\npc/sir-braford-tftyp.md)
 *Source: Tales from the Yawning Portal p. 243*  

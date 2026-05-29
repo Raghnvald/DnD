@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Coins; Coin Values
+linter-yaml-title-alias: Coins; Coin Values
 tags:
   - Quelle/5e/xphb
 aliases:

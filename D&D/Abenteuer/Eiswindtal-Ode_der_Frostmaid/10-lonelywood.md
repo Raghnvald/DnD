@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lonelywood
+linter-yaml-title-alias: Lonelywood
 tags:
   - Quelle/5e/idrotf
 aliases:

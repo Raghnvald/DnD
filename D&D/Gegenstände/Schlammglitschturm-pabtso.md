@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Mudslick Tower
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mudslick Tower
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/pabtso
 aliases:
   - Mudslick Tower
-linter-yaml-title-alias: Mudslick Tower
 ---
 # Mudslick Tower
 *Wondrous item, very rare*  

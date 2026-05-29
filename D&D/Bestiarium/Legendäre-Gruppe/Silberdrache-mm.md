@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silver Dragon
+linter-yaml-title-alias: Silver Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

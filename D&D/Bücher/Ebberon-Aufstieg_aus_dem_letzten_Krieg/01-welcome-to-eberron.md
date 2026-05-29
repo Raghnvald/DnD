@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Eberron
+linter-yaml-title-alias: Welcome to Eberron
 tags:
   - Quelle/5e/erlw
 aliases:

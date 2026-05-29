@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: K, <10 Minuten
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Rascher Rückzug
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -16,6 +17,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Expeditious Retreat
+  - Rascher Rückzug
 ---
 # Rascher Rückzug
 _Verwandlung des 1. Grades_

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: "Fortune's Favor"
 Zaubergrad: 2
+linter-yaml-title-alias: "Fortune's Favor"
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
 aliases:
+  - "Fortune's Favor"
   - Fortune's Favor
 ---
 # Fortune's Favor

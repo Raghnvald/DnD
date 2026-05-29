@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pole (10-foot)
+linter-yaml-title-alias: Pole (10-foot)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Pole (10-foot)
-linter-yaml-title-alias: Pole (10-foot)
 ---
 # Pole (10-foot)
 *Adventuring gear*  

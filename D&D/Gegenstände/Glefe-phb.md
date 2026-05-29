@@ -2,17 +2,18 @@
 Bezeichnung: Glefe
 Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W10 Hieb
-Eigenschaften: Schwer, weitreichend, zweihändig
+Eigenschaften:
+  - Schwer, weitreichend, zweihändig
 Kst.: 20 GM
 Gew.: 3,0 kg
+linter-yaml-title-alias: Glefe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Glaive
-linter-yaml-title-alias: Glaive
+  - Glefe
 ---
 # Glefe
 *Waffe*  

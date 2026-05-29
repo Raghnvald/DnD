@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mimic
+linter-yaml-title-alias: Mimic
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

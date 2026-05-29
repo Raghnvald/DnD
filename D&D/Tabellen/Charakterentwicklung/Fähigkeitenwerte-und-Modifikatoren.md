@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Fähigkeitenwerte und Modifikatoren
+linter-yaml-title-alias: Fähigkeitenwerte und Modifikatoren
 tags:
   - Quelle/5e/phb
 aliases:
   - Ability Scores and Modifiers
+  - Fähigkeitenwerte und Modifikatoren
 ---
 # Fähigkeitenwerte und Modifikatoren
 *Quelle: SRD / Grundregelwerk*

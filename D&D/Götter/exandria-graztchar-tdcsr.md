@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Graz'tchar"
+linter-yaml-title-alias: "Graz'tchar"
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr
 aliases:
+  - "Graz'tchar"
   - Graz'tchar
 ---
 # Graz'tchar

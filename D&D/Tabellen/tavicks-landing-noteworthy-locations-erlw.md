@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Tavick's Landing: Noteworthy Locations"
+linter-yaml-title-alias: "Tavick's Landing: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Tavick's Landing: Noteworthy Locations"
   - Tavick's Landing: Noteworthy Locations
 ---
 # Tavick's Landing: Noteworthy Locations

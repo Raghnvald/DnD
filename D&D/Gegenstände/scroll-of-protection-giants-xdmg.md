@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Giants)
+linter-yaml-title-alias: Scroll of Protection (Giants)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Giants)
-linter-yaml-title-alias: Scroll of Protection (Giants)
 ---
 # Scroll of Protection (Giants)
 *Scroll, rare*  

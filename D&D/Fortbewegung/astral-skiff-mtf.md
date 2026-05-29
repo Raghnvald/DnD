@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Astral Skiff
+linter-yaml-title-alias: Astral Skiff
 tags:
   - Gegenstand/Fortbewegung/size/huge
   - Gegenstand/Fortbewegung/terrain/air

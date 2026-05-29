@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Urban Encounters
+linter-yaml-title-alias: Random Urban Encounters
 tags:
   - Quelle/5e/dmg
 aliases:

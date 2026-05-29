@@ -8,6 +8,7 @@ Angriff: KON
 Schaden: 1d12 Gift
 status:
   - completed
+linter-yaml-title-alias: Gift versprühen
 tags:
   - Klasse/Artifizient
   - Klasse/Druide
@@ -19,6 +20,7 @@ tags:
   - Zauber/Original/Poison_Spray
   - Zauber/Schule/Beschwörung
 aliases:
+  - Gift versprühen
   - Poison Spray
 ---
 # Gift versprühen

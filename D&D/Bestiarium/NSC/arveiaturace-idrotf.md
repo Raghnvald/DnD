@@ -5,6 +5,7 @@ Bezeichnung: Arveiaturace
 Kategorie: Drache
 Größe: Gigantisch
 status: WIP
+linter-yaml-title-alias: Arveiaturace
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/20
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Arveiaturace
-linter-yaml-title-alias: Arveiaturace
 ---
 # [Arveiaturace](3-Mechanics\CLI\bestiary\npc/arveiaturace-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 105*  

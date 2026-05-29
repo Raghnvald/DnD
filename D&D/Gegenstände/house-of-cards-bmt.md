@@ -1,11 +1,11 @@
 ---
 Bezeichnung: House of Cards
+linter-yaml-title-alias: House of Cards
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
   - House of Cards
-linter-yaml-title-alias: House of Cards
 ---
 # House of Cards
 *Wondrous item, uncommon*  

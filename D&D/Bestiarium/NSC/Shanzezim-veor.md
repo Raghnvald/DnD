@@ -5,9 +5,11 @@ Bezeichnung: Shanzezim
 Kategorie: Elementar
 Größe: Groß
 HG: 11
-Habitat: /
+Habitat:
+  - /
 image: token/shanzezim-veor.webp
 status: completed
+linter-yaml-title-alias: Shanzezim
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Shanzezim
-linter-yaml-title-alias: Shanzezim
 ---
 # Shanzezim
 *Quelle: Vecna: Vorabend der Verdammnis*  

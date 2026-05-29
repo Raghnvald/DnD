@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Random Height and Weight
+linter-yaml-title-alias: Gith Random Height and Weight
 tags:
   - Quelle/5e/mtf
 aliases:

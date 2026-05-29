@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mixing Potions
+linter-yaml-title-alias: Mixing Potions
 tags:
   - Quelle/5e/xdmg
 aliases:

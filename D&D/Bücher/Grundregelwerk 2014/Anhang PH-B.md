@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Pantheons in Geschichte und Fantasy-Welten
+linter-yaml-title-alias: Pantheons in Geschichte und Fantasy-Welten
 tags: []
+aliases:
+  - Pantheons in Geschichte und Fantasy-Welten
 ---
 # Pantheons in Geschichte und Fantasy-Welten
 

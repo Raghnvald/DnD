@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Restoration
+linter-yaml-title-alias: Spells for Charm of Restoration
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-restoration
 aliases:
   - "Spells for Charm of Restoration"
+  - Spells for Charm of Restoration
 ---
 # Spells for Charm of Restoration
 

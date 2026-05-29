@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Verkleidungsausrüstung
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Verkleidungsausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Disguise Kit
+  - Verkleidungsausrüstung
 Aktiv: false
-linter-yaml-title-alias: Disguise Kit
 Menge: "1"
 ---
 # Verkleidungsausrüstung

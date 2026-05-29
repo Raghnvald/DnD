@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duvessa Shane
+linter-yaml-title-alias: Duvessa Shane
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Duvessa Shane
-linter-yaml-title-alias: Duvessa Shane
 ---
 # [Duvessa Shane](3-Mechanics\CLI\bestiary\npc/duvessa-shane-skt.md)
 *Source: Storm King's Thunder p. 248*  

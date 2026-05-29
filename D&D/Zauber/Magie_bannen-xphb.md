@@ -1,5 +1,23 @@
 ---
 Bezeichnung: Dispel Magic
+linter-yaml-title-alias: Dispel Magic
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -21,26 +39,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Clockwork Sorcery)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Dispel Magic
-linter-yaml-title-alias: Dispel Magic
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  

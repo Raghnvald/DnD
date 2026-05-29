@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Polynesian, Male
+linter-yaml-title-alias: Human Names – Polynesian, Male
 tags:
   - Quelle/5e/xge
 aliases:

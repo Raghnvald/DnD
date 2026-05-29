@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mizzium Apparatus
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mizzium Apparatus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Mizzium Apparatus
-linter-yaml-title-alias: Mizzium Apparatus
 ---
 # Mizzium Apparatus
 *Wondrous item, uncommon (requires attunement by a sorcerer, warlock, or wizard)*  

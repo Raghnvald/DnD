@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Vulnerability (Bludgeoning)
 Rüstung: Schwer
+linter-yaml-title-alias: Armor of Vulnerability (Bludgeoning)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Vulnerability (Bludgeoning)
   - Splint Armor of Vulnerability (Bludgeoning)
   - Studded Leather Armor of Vulnerability (Bludgeoning)
-linter-yaml-title-alias: Armor of Vulnerability (Bludgeoning)
 ---
 # Armor of Vulnerability (Bludgeoning)
 *Cursed item, rare (requires attunement)*  

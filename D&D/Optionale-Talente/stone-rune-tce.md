@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stone Rune
+linter-yaml-title-alias: Stone Rune
 tags:
   - Kompendium/Optionales/rn
   - Quelle/5e/tce

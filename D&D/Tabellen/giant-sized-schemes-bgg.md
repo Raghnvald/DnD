@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant-Sized Schemes
+linter-yaml-title-alias: Giant-Sized Schemes
 tags:
   - Quelle/5e/bgg
 aliases:

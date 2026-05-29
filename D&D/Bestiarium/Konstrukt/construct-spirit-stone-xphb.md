@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Construct Spirit (Stone)
+linter-yaml-title-alias: Construct Spirit (Stone)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

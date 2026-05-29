@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Battleforce Angel
+linter-yaml-title-alias: Battleforce Angel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

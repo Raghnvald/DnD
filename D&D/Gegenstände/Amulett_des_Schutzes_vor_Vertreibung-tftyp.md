@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Amulet of Protection from Turning
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Amulet of Protection from Turning
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Amulet of Protection from Turning
-linter-yaml-title-alias: Amulet of Protection from Turning
 ---
 # Amulet of Protection from Turning
 *Wondrous item, rare (requires attunement)*  

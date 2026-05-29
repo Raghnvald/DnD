@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Haela Brightaxe
+linter-yaml-title-alias: Haela Brightaxe
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/dwarven

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Ikone von Ravenloft
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: erfordert Einstimmung durch eine Kreatur guter Gesinnung
-Kst.: n/v
+Eigenschaften:
+  - erfordert Einstimmung durch eine Kreatur guter Gesinnung
+Kst.: /
 Gew.: 5,0 kg
 image: Ikone-von-Ravenloft.webp
+linter-yaml-title-alias: Ikone von Ravenloft
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/legendär
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Icon of Ravenloft
+  - Ikone von Ravenloft
 ---
 # Ikone von Ravenloft
 *Wundersamer Gegenstand, legendär (benötigt Einstimmung durch eine Kreatur guter Gesinnung)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Spinel
+linter-yaml-title-alias: Spinel
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Spinel
-linter-yaml-title-alias: Spinel
 ---
 # Spinel
 *Treasure (gemstone)*  

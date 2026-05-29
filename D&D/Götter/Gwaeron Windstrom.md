@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gwaeron Windstrom, Gott des Spurenlesens
+linter-yaml-title-alias: Gwaeron Windstrom, Gott des Spurenlesens
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Natur
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Gwaeron Windstrom
+  - Gwaeron Windstrom, Gott des Spurenlesens
 ---
 # Gwaeron Windstrom, Gott des Spurenlesens
 *Quelle: SRD / Grundregelwerk* 

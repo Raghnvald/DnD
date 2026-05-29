@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Newspaper Contact
+linter-yaml-title-alias: Newspaper Contact
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Torm
+linter-yaml-title-alias: Torm
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "The Loyal Fury"
   - "Torm the True"
   - "Torm"
+  - Torm
 ---
 # Torm
 *Source: Forgotten Realms: Heroes of Faerûn p. 125* 

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Answering (Retorter)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sword of Answering (Retorter)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sword of Answering (Retorter)
-linter-yaml-title-alias: Sword of Answering (Retorter)
 ---
 # Sword of Answering (Retorter)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a lawful good creature)*  

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Beast Sense
 Zaubergrad: 2
+linter-yaml-title-alias: Beast Sense
+classes:
+  - Barbarian (Path of the Totem Warrior)
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -10,14 +16,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Totem Warrior)
-  - Bard (Magical Secrets)
-  - Druid
-  - Ranger
 aliases:
   - Beast Sense
-linter-yaml-title-alias: Beast Sense
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  

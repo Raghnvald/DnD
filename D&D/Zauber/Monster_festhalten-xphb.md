@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Hold Monster
+linter-yaml-title-alias: Hold Monster
+classes:
+  - Bard
+  - Cleric (War Domain)
+  - Druid (Circle of the Sea)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of the Watchers)
+  - Paladin (Oath of Vengeance)
+  - Ranger (Monster Slayer)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide/circle-of-the-sea
@@ -15,20 +27,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/optfeature/chains-of-carceri
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric (War Domain)
-  - Druid (Circle of the Sea)
-  - Paladin (Oath of Redemption)
-  - Paladin (Oath of the Watchers)
-  - Paladin (Oath of Vengeance)
-  - Ranger (Monster Slayer)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Hold Monster
-linter-yaml-title-alias: Hold Monster
 ---
 # Hold Monster
 *5th-level, Enchantment*  

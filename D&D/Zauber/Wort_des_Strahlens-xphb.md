@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Word of Radiance
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
@@ -17,13 +22,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (College of Lore)
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Word of Radiance
-linter-yaml-title-alias: Word of Radiance
 ---
 # Word of Radiance
 *cantrip, Evocation*  

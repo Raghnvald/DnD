@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Shovel
+linter-yaml-title-alias: Shovel
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Shovel
-linter-yaml-title-alias: Shovel
 ---
 # Shovel
 *Adventuring gear*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cobalt Golem
+linter-yaml-title-alias: Cobalt Golem
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/18

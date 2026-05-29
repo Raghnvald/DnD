@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Boss Archer
+Image: token/goblin-boss-archer-pabtso.webp
+linter-yaml-title-alias: Goblin Boss Archer
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1
@@ -9,7 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Goblin Boss Archer
-Image: token/goblin-boss-archer-pabtso.webp
 ---
 # Goblin Boss Archer
 *Source: Phandelver and Below: The Shattered Obelisk p. 60*  

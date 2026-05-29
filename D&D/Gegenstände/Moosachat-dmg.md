@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Moosachat
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Moosachat
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Moss Agate
-linter-yaml-title-alias: Moss Agate
+  - Moosachat
 ---
 # Moosachat
 *Schatz (Edelstein)*  

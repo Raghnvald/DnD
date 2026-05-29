@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "5: Sinister Names"
+linter-yaml-title-alias: "5: Sinister Names"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "5: Sinister Names"
   - "5": Sinister Names
 ---
 # 5: Sinister Names

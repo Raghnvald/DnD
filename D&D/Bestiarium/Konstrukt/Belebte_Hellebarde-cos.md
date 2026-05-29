@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Halberd
+linter-yaml-title-alias: Animated Halberd
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

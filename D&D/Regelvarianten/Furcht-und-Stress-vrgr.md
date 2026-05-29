@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fear and Stress
+linter-yaml-title-alias: Fear and Stress
 tags:
   - Quelle/5e/vrgr
 aliases:

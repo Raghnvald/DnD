@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gong of the Summit
+linter-yaml-title-alias: Gong of the Summit
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

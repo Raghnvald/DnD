@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Scale Sorcerer
+linter-yaml-title-alias: Kobold Scale Sorcerer
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning
+linter-yaml-title-alias: Scroll of Titan Summoning
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning
-linter-yaml-title-alias: Scroll of Titan Summoning
 ---
 # Scroll of Titan Summoning
 *Scroll, legendary*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horror Adventures
+linter-yaml-title-alias: Horror Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

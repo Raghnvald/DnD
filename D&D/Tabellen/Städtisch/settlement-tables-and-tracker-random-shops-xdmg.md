@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlement Tables and Tracker; Random Shops
+linter-yaml-title-alias: Settlement Tables and Tracker; Random Shops
 tags:
   - Quelle/5e/xdmg
 aliases:

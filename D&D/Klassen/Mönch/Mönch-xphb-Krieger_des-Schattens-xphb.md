@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior of Shadow
+linter-yaml-title-alias: Warrior of Shadow
 tags:
   - Klasse/Mönch/shadow
   - Quelle/5e/xphb

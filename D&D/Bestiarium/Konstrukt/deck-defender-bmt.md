@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deck Defender
+linter-yaml-title-alias: Deck Defender
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

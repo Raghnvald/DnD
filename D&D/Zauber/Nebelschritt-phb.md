@@ -1,6 +1,17 @@
 ---
 Bezeichnung: Misty Step
 Zaubergrad: 2
+linter-yaml-title-alias: Misty Step
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Coast)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Ancients)
+  - Paladin (Oath of Vengeance)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/coast
@@ -16,19 +27,8 @@ tags:
   - Zauber/Belohnung/boon-of-dimensional-travel
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Coast)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Ancients)
-  - Paladin (Oath of Vengeance)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Misty Step
-linter-yaml-title-alias: Misty Step
 ---
 # Misty Step
 *2nd-level, Conjuration*  

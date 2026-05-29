@@ -1,11 +1,13 @@
 ---
 Bezeichnung: The Head
+linter-yaml-title-alias: The Head
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/unknown
   - Quelle/5e/rmbre
 aliases:
   - "The Head"
+  - The Head
 ---
 # The Head
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 25*  

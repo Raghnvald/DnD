@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +2 Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: +2 Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -23,7 +24,6 @@ aliases:
   - +2 Spiked Armor
   - +2 Splint Armor
   - +2 Studded Leather Armor
-linter-yaml-title-alias: +2 Armor
 ---
 # +2 Armor
 *Major, very rare*  

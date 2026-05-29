@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Human (Zendikar)
+linter-yaml-title-alias: Human (Zendikar)
 tags:
   - Quelle/5e/psz
   - Rasse/human/zendikar
 aliases:
   - "Human (Zendikar)"
+  - Human (Zendikar)
 ---
 # Human (Zendikar)
 *Source: Plane Shift: Zendikar p. 9*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Lightning Bolts
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Lightning Bolts
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Lightning Bolts
-linter-yaml-title-alias: Wand of Lightning Bolts
 ---
 # Wand of Lightning Bolts
 *Wand, major, rare (requires attunement by a spellcaster)*  

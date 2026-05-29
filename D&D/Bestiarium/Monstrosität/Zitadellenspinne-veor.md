@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Citadel Spider
+Image: token/citadel-spider-veor.webp
 status: WIP
+linter-yaml-title-alias: Citadel Spider
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/18
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Citadel Spider
-IMAGE: token/citadel-spider-veor.webp
 ---
 # [Citadel Spider](3-Mechanics\CLI\bestiary\monstrosity/citadel-spider-veor.md)
 *Source: Vecna: Eve of Ruin p. 214*  

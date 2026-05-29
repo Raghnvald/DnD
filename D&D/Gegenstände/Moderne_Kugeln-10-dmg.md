@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Modern Bullets (10)
+linter-yaml-title-alias: Modern Bullets (10)
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Modern Bullets (10)
-linter-yaml-title-alias: Modern Bullets (10)
 ---
 # Modern Bullets (10)
 *Ammunition (firearm)*  

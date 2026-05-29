@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ezzat
+linter-yaml-title-alias: Ezzat
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Ezzat
-linter-yaml-title-alias: Ezzat
 ---
 # [Ezzat](3-Mechanics\CLI\bestiary\npc/ezzat-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 262*  

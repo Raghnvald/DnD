@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spindle of Fate
 Kategorie: Zauberstab
+linter-yaml-title-alias: Spindle of Fate
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Spindle of Fate
-linter-yaml-title-alias: Spindle of Fate
 ---
 # Spindle of Fate
 *Wand, legendary (requires attunement)*  

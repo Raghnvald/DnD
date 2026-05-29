@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reghed Warrior
+linter-yaml-title-alias: Reghed Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

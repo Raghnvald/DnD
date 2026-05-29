@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spirit Naga
+linter-yaml-title-alias: Spirit Naga
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

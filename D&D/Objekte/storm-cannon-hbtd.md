@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Storm Cannon
+linter-yaml-title-alias: Storm Cannon
 tags:
   - Kompendium/Objekt/size/medium
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/hbtd
 aliases:
   - "Storm Cannon"
+  - Storm Cannon
 ---
 # Storm Cannon
 *Source: Hold Back The Dead p. 4*  

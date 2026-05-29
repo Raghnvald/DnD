@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Horror Villains
+linter-yaml-title-alias: Folk Horror Villains
 tags:
   - Quelle/5e/vrgr
 aliases:

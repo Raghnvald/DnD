@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Winzig
 HG: 0
 status: WIP
+linter-yaml-title-alias: Cranium Rat Squeaker
 tags:
   - Quelle/5e/mpp
   - ttrpg-cli/monster/cr/0

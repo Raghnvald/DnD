@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Eyescratch
 Kategorie: Gift
+Eigenschaften:
+  - Gift
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Eyescratch
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Eyescratch
-linter-yaml-title-alias: Eyescratch
 ---
 # Eyescratch
 *Adventuring gear, poison (contact)*  

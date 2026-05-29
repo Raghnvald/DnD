@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Ancient Black Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Ancient Black Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

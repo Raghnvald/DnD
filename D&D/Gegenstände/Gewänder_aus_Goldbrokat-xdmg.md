@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cloth-of-gold vestments
+linter-yaml-title-alias: Cloth-of-gold vestments
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Cloth-of-gold vestments
-linter-yaml-title-alias: Cloth-of-gold vestments
 ---
 # Cloth-of-gold vestments
 *Treasure (art object)*  

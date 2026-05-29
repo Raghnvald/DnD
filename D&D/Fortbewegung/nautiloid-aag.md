@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Nautiloid
+linter-yaml-title-alias: Nautiloid
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/space
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Nautiloid"
+  - Nautiloid
 ---
 # Nautiloid
 *Source: Astral Adventurer's Guide p. 38*  

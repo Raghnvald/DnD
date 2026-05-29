@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crystal Helm Nothic
+linter-yaml-title-alias: Crystal Helm Nothic
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Crystal Helm Nothic
-linter-yaml-title-alias: Crystal Helm Nothic
 ---
 # [Crystal Helm Nothic](3-Mechanics\CLI\bestiary\npc/crystal-helm-nothic-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 130*  

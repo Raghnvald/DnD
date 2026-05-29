@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Swarm
+linter-yaml-title-alias: Skeletal Swarm
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Skeletal Swarm
-linter-yaml-title-alias: Skeletal Swarm
 ---
 # [Skeletal Swarm](3-Mechanics\CLI\bestiary\undead/skeletal-swarm-gos.md)
 *Source: Ghosts of Saltmarsh p. 254*  

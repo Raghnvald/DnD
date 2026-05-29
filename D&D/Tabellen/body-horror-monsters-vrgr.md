@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Body Horror Monsters
+linter-yaml-title-alias: Body Horror Monsters
 tags:
   - Quelle/5e/vrgr
 aliases:

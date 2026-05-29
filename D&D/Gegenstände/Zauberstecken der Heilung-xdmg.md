@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Healing
+linter-yaml-title-alias: Staff of Healing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Healing
-linter-yaml-title-alias: Staff of Healing
 ---
 # Staff of Healing
 *Staff, weapon, rare (requires attunement by a bard, cleric, or druid)*  

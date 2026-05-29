@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Healing Word
+linter-yaml-title-alias: Healing Word
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,16 +19,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Healing Word
-linter-yaml-title-alias: Healing Word
 ---
 # Healing Word
 *1st-level, Abjuration*  

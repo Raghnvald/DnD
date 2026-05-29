@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Halberd
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Halberd
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Halberd
-linter-yaml-title-alias: Halberd
 ---
 # Halberd
 *Weapon*  

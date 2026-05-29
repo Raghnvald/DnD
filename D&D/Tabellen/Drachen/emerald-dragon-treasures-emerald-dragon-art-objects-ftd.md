@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Emerald Dragon Treasures; Emerald Dragon Art Objects
+linter-yaml-title-alias: Emerald Dragon Treasures; Emerald Dragon Art Objects
 tags:
   - Quelle/5e/ftd
 aliases:

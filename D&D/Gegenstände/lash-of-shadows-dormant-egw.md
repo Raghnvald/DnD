@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Lash of Shadows (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Lash of Shadows (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Lash of Shadows (Dormant)
-linter-yaml-title-alias: Lash of Shadows (Dormant)
 ---
 # Lash of Shadows (Dormant)
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), artifact (requires attunement)*  

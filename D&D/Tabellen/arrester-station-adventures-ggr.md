@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arrester Station Adventures
+linter-yaml-title-alias: Arrester Station Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: "9"
 Habitat:
   - /
+image: token/ahmaergo-wdh.webp
 status: WIP
+linter-yaml-title-alias: Ahmaergo
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Ahmaergo
-linter-yaml-title-alias: Ahmaergo
 ---
 # [Ahmaergo](3-Mechanics\CLI\bestiary\npc/ahmaergo-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 193*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Jumping
+linter-yaml-title-alias: Ring of Jumping
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Jumping
-linter-yaml-title-alias: Ring of Jumping
 ---
 # Ring of Jumping
 *Ring, uncommon (requires attunement)*  

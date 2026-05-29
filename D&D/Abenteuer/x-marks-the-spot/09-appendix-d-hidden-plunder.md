@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Hidden Plunder"
+linter-yaml-title-alias: "Appendix D: Hidden Plunder"
 tags:
   - Quelle/5e/xmts
 aliases:

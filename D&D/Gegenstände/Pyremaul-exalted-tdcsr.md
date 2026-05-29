@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pyremaul (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Pyremaul (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Pyremaul (Exalted)
-linter-yaml-title-alias: Pyremaul (Exalted)
 ---
 # Pyremaul (Exalted)
 *Weapon ([maul](/3-Mechanics/CLI/items/maul-xphb.md)), legendary (requires attunement)*  

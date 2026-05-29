@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beyond 1st Level; Character Advancement
+linter-yaml-title-alias: Beyond 1st Level; Character Advancement
 tags:
   - Quelle/5e/phb
 aliases:

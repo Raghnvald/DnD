@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Harengon
+linter-yaml-title-alias: Harengon
 tags:
   - Quelle/5e/wbtw
   - Rasse/harengon
 aliases:
   - "Harengon"
+  - Harengon
 ---
 # Harengon
 *Source: The Wild Beyond the Witchlight p. 13*  

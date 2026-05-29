@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 1: Hidden Chambers"
+linter-yaml-title-alias: "Part 1: Hidden Chambers"
 tags:
   - Quelle/5e/aitfr-thp
 aliases:

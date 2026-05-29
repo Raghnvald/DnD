@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Psionic Field
+linter-yaml-title-alias: Psionic Field
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/fraif
 aliases:
   - "Psionic Field"
+  - Psionic Field
 ---
 # Psionic Field
 *Environmental Hazard*  

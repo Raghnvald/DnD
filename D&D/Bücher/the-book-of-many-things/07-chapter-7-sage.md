@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 7: Sage"
+linter-yaml-title-alias: "Chapter 7: Sage"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 7: Sage"
   - Chapter 7: Sage
 ---
 # Chapter 7: Sage

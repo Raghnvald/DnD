@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ceremonial gold armor with black pearls
+linter-yaml-title-alias: Ceremonial gold armor with black pearls
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Ceremonial gold armor with black pearls
-linter-yaml-title-alias: Ceremonial gold armor with black pearls
 ---
 # Ceremonial gold armor with black pearls
 *Treasure (art object)*  

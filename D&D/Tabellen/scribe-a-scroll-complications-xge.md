@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scribe a Scroll Complications
+linter-yaml-title-alias: Scribe a Scroll Complications
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beholder Pets
+linter-yaml-title-alias: Beholder Pets
 tags:
   - Quelle/5e/vgm
 aliases:

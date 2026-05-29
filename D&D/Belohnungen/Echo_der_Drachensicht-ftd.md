@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Echo of Dragonsight
+linter-yaml-title-alias: Echo of Dragonsight
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

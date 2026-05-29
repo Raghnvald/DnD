@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Darkmantle
+linter-yaml-title-alias: Reduced-Threat Darkmantle
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-2

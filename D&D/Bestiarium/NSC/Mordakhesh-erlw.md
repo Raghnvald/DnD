@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mordakhesh
+linter-yaml-title-alias: Mordakhesh
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Mordakhesh
-linter-yaml-title-alias: Mordakhesh
 ---
 # [Mordakhesh](3-Mechanics\CLI\bestiary\npc/mordakhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 301*  

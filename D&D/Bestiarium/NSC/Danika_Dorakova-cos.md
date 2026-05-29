@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Danika Dorakova
+linter-yaml-title-alias: Danika Dorakova
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/cos
 aliases:
   - Danika Dorakova
-linter-yaml-title-alias: Danika Dorakova
 ---
 # Danika Dorakova
 *Source: Curse of Strahd p. 98*  

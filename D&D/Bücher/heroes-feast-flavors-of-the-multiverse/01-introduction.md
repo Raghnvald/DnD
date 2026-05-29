@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/hffotm
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: Heroes' Feast Flavors of the Multiverse, p. xi* 

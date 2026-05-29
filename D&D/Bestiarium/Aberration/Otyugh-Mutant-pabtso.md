@@ -8,7 +8,9 @@ HG: 6
 Habitat:
   - /
 image: token/otyugh-mutate-pabtso.webp
+Image: aberration/token/otyugh-mutate-pabtso.webp
 status: completed
+linter-yaml-title-alias: Otyugh-Mutant
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6
@@ -16,7 +18,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Otyugh Mutate
-Image: aberration/token/otyugh-mutate-pabtso.webp
+  - Otyugh-Mutant
 ---
 # Otyugh-Mutant
 *Quelle: Die Tieffen von Phandelver: Der zersplitterte Obelisk S. 213*  

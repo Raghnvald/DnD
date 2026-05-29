@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Schriftrollenunfälle
+linter-yaml-title-alias: Schriftrollenunfälle
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Schriftrollenunfälle
   - Scroll Mishaps
 ---
 # Schriftrollenunfälle

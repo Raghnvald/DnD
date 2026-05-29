@@ -2,6 +2,7 @@
 Bezeichnung: Spear of Backbiting
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
+linter-yaml-title-alias: Spear of Backbiting
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Spear of Backbiting
-linter-yaml-title-alias: Spear of Backbiting
 ---
 # Spear of Backbiting
 *Weapon (spear), cursed item, very rare (requires attunement)*  

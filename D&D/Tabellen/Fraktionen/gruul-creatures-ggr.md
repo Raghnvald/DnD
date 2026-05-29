@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Creatures
+linter-yaml-title-alias: Gruul Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

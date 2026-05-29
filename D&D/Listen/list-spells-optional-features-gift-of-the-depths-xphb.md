@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Gift of the Depths
+linter-yaml-title-alias: Spells for Gift of the Depths
 tags:
   - Zauber/list/optfeature/gift-of-the-depths
 aliases:

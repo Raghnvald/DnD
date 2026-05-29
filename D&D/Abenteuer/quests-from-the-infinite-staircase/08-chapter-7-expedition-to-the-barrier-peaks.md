@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 7: Expedition to the Barrier Peaks"
+linter-yaml-title-alias: "Chapter 7: Expedition to the Barrier Peaks"
 tags:
   - Quelle/5e/qftis
 aliases:

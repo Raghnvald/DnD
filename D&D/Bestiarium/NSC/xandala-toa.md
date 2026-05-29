@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xandala
+linter-yaml-title-alias: Xandala
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Xandala
-linter-yaml-title-alias: Xandala
 ---
 # [Xandala](3-Mechanics\CLI\bestiary\npc/xandala-toa.md)
 *Source: Tomb of Annihilation p. 236*  

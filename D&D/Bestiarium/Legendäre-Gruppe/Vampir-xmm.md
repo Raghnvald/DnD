@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vampire
+linter-yaml-title-alias: Vampire
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Summon Draconic Spirit
 Zaubergrad: 5
+linter-yaml-title-alias: Summon Draconic Spirit
 tags:
   - Quelle/5e/ftd
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
 aliases:
   - Summon Draconic Spirit
-linter-yaml-title-alias: Summon Draconic Spirit
 ---
 # Summon Draconic Spirit
 *5th-level, Conjuration*  

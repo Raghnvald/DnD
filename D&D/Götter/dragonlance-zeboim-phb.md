@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zeboim
+linter-yaml-title-alias: Zeboim
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/dragonlance

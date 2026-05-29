@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Answering (Back Talker)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sword of Answering (Back Talker)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sword of Answering (Back Talker)
-linter-yaml-title-alias: Sword of Answering (Back Talker)
 ---
 # Sword of Answering (Back Talker)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a chaotic evil creature)*  

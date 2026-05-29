@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Ochse
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 15 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Ochse
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Ox
-linter-yaml-title-alias: Ox
+  - Ochse
 ---
 # Ochse
 *Handelsgut*  

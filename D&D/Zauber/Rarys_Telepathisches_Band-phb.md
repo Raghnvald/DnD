@@ -1,6 +1,10 @@
 ---
 Bezeichnung: "Rary's Telepathic Bond"
 Zaubergrad: 5
+linter-yaml-title-alias: "Rary's Telepathic Bond"
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,12 +12,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
-  - Rary's Telepathic Bond
-linter-yaml-title-alias: Rary's Telepathic Bond
+  - "Rary's Telepathic Bond"
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

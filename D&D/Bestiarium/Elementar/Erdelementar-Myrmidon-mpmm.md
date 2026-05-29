@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Earth Elemental Myrmidon
+linter-yaml-title-alias: Earth Elemental Myrmidon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

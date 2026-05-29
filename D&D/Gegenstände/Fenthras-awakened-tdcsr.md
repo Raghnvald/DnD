@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fenthras (Awakened)
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Fenthras (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Fenthras (Awakened)
-linter-yaml-title-alias: Fenthras (Awakened)
 ---
 # Fenthras (Awakened)
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow-xphb.md)), legendary (requires attunement)*  

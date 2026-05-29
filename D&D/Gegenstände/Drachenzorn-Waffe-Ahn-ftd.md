@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Ascendant Dragon's Wrath Weapon"
+linter-yaml-title-alias: "Ascendant Dragon's Wrath Weapon"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -65,7 +66,6 @@ aliases:
   - Ascendant Dragon's Wrath Weapon
   - Ascendant Dragon's Wrath Whip
   - Ascendant Dragon's Wrath Yklwa
-linter-yaml-title-alias: "Ascendant Dragon's Wrath Weapon"
 ---
 # Ascendant Dragon's Wrath Weapon
 *Legendary (requires attunement)*  

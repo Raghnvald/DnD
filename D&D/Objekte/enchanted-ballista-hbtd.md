@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Enchanted Ballista
+linter-yaml-title-alias: Enchanted Ballista
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/hbtd
 aliases:
   - "Enchanted Ballista"
+  - Enchanted Ballista
 ---
 # Enchanted Ballista
 *Source: Hold Back The Dead p. 4*  

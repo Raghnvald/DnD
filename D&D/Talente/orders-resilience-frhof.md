@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Order's Resilience"
+linter-yaml-title-alias: "Order's Resilience"
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof

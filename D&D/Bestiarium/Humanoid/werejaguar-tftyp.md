@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Werejaguar
+linter-yaml-title-alias: Werejaguar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/tftyp
 aliases:

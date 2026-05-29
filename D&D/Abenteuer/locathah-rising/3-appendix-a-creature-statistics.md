@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Creature statistics"
+linter-yaml-title-alias: "Appendix A: Creature statistics"
 tags:
   - Quelle/5e/lr
 aliases:

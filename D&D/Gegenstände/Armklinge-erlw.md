@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Armblade
 Kategorie: Beliebig, Nahkampfwaffe
+Eigenschaften:
+  - erfordert Einstimmung durch einen Kriegsgeschmiedeten
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Armblade
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
@@ -34,7 +39,6 @@ aliases:
   - Warhammer Armblade
   - Whip Armblade
   - Yklwa Armblade
-linter-yaml-title-alias: Armblade
 ---
 # Armblade
 *Common (requires attunement by a warforged)*  

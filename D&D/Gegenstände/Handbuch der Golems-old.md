@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Handbuch der Golems
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Handbuch der Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Handbuch der Golems
   - Manual of Golems
 ---
 # Handbuch der Golems

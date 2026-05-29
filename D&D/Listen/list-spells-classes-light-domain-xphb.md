@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Light Domain
+linter-yaml-title-alias: Spells for Light Domain
 tags:
   - Zauber/list/subclass/light-domain
 aliases:

@@ -6,6 +6,15 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Aura of Life
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Twilight Domain)
+  - Druid (Circle of Wildfire)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide/circle-of-wildfire
@@ -17,17 +26,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Life Domain)
-  - Cleric (Twilight Domain)
-  - Druid (Circle of Wildfire)
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Aura of Life
-linter-yaml-title-alias: Aura of Life
 ---
 # Aura of Life
 *4th-level, Abjuration*  

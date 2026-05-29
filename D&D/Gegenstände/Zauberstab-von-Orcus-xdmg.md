@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Orcus
+linter-yaml-title-alias: Wand of Orcus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Orcus
-linter-yaml-title-alias: Wand of Orcus
 ---
 # Wand of Orcus
 *Weapon ([mace](Streitkolben-xphb)), wand, artifact (requires attunement)*  

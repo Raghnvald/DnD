@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nester
+linter-yaml-title-alias: Nester
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Nester
-linter-yaml-title-alias: Nester
 ---
 # [Nester](3-Mechanics\CLI\bestiary\npc/nester-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 131*  

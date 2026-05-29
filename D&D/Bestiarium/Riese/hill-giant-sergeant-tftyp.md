@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hill Giant Sergeant
+linter-yaml-title-alias: Hill Giant Sergeant
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5

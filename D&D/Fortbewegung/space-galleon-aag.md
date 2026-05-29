@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Space Galleon
+linter-yaml-title-alias: Space Galleon
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Space Galleon"
+  - Space Galleon
 ---
 # Space Galleon
 *Source: Astral Adventurer's Guide p. 46*  

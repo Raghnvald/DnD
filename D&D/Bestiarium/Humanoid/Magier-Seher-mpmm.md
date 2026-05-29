@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Diviner Wizard
+linter-yaml-title-alias: Diviner Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

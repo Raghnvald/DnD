@@ -1,5 +1,24 @@
 ---
 Bezeichnung: Protection from Energy
+linter-yaml-title-alias: Protection from Energy
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Forge Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Glory)
+  - Paladin (Oath of the Ancients)
+  - Paladin (Oath of Vengeance)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -21,27 +40,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Forge Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Glory)
-  - Paladin (Oath of the Ancients)
-  - Paladin (Oath of Vengeance)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Clockwork Sorcery)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Protection from Energy
-linter-yaml-title-alias: Protection from Energy
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

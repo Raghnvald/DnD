@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Magic Item Special Features; Magic Item's Quirk"
+linter-yaml-title-alias: "Magic Item Special Features; Magic Item's Quirk"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Magic Item Special Features; Magic Item's Quirk"
   - Magic Item Special Features; Magic Item's Quirk
 ---
 # Magic Item Special Features; Magic Item's Quirk

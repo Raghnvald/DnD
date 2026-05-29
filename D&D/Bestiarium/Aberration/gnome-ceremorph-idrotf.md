@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 5
 status: WIP
+linter-yaml-title-alias: Gnome Ceremorph
 tags:
   - Monster/Größe/Klein
   - Monster/HG/5

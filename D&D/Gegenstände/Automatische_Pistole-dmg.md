@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Automatic Pistol
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Automatic Pistol
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Automatic Pistol
-linter-yaml-title-alias: Automatic Pistol
 ---
 # Automatic Pistol
 *Weapon*  

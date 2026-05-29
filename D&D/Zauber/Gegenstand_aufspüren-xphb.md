@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Locate Object
+linter-yaml-title-alias: Locate Object
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,21 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Locate Object
-linter-yaml-title-alias: Locate Object
 ---
 # Locate Object
 *2nd-level, Divination*  

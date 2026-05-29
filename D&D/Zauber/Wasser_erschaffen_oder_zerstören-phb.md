@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Create or Destroy Water
 Zaubergrad: 1
+linter-yaml-title-alias: Create or Destroy Water
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,13 +14,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
   - Create or Destroy Water
-linter-yaml-title-alias: Create or Destroy Water
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  

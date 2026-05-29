@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 8
 status: WIP
+linter-yaml-title-alias: Ettin-Zeremorph
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8
@@ -13,6 +14,7 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Ettin Ceremorph
+  - Ettin-Zeremorph
 ---
 # Ettin-Zeremorph
 *Source: Bigby Presents: Glory of the Giants p. 133*  

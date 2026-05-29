@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Green Abishai
+Kategorie: Unhold
+image: token/green-abishai-mpmm.webp
+linter-yaml-title-alias: Green Abishai
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

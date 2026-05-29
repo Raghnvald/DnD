@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hybrid Brute
+linter-yaml-title-alias: Hybrid Brute
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

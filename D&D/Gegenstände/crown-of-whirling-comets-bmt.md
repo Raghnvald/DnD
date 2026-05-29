@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Crown of Whirling Comets
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Crown of Whirling Comets
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bmt
 aliases:
   - Crown of Whirling Comets
-linter-yaml-title-alias: Crown of Whirling Comets
 ---
 # Crown of Whirling Comets
 *Wondrous item, very rare (requires attunement)*  

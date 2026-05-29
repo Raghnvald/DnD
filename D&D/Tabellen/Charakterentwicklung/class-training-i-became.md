@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Class Training; I became...
+linter-yaml-title-alias: Class Training; I became...
 tags:
   - Quelle/5e/xge
 aliases:

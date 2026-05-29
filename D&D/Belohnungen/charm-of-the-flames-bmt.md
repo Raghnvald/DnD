@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Flames
+linter-yaml-title-alias: Charm of the Flames
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

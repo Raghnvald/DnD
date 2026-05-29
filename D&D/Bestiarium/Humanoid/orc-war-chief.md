@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc War Chief
+linter-yaml-title-alias: Orc War Chief
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

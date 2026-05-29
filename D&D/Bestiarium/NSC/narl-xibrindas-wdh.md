@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Nar'l Xibrindas"
+linter-yaml-title-alias: "Nar'l Xibrindas"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Nar'l Xibrindas"
   - Nar'l Xibrindas
-linter-yaml-title-alias: "Nar'l Xibrindas"
 ---
 # [Nar'l Xibrindas](3-Mechanics\CLI\bestiary\npc/narl-xibrindas-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 211*  

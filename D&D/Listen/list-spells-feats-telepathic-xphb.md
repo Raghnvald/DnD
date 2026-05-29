@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Telepathic
+linter-yaml-title-alias: Spells for Telepathic
 tags:
   - Zauber/list/feat/telepathic
 aliases:

@@ -1,18 +1,18 @@
 ---
 Bezeichnung: "Otiluke's Freezing Sphere"
 Zaubergrad: 6
+linter-yaml-title-alias: "Otiluke's Freezing Sphere"
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
-  - Otiluke's Freezing Sphere
-linter-yaml-title-alias: Otiluke's Freezing Sphere
+  - "Otiluke's Freezing Sphere"
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

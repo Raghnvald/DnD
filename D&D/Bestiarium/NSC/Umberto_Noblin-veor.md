@@ -5,17 +5,18 @@ Bezeichnung: Umberto Noblin
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 6
-Habitat: /
+Habitat:
+  - /
 image: token/umberto-noblin-veor.webp
 status: WIP
+linter-yaml-title-alias: Umberto Noblin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
   - Quelle/5e/veor
 aliases:
   - Umberto Noblin
-linter-yaml-title-alias: Umberto Noblin
 ---
 # Umberto Noblin
 *Quelle: Vecna: Eve of Ruin*  

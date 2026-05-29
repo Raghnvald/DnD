@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kerze
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 KM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Kerze
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Candle
-linter-yaml-title-alias: Candle
+  - Kerze
 ---
 # Kerze
 *Adventuring gear*  

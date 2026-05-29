@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guard Drake (Red)
 status: WIP
+linter-yaml-title-alias: Guard Drake (Red)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
@@ -17,7 +18,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Guard Drake (Red)
-linter-yaml-title-alias: Guard Drake (Red)
 ---
 # [Guard Drake (Red)](3-Mechanics\CLI\bestiary\dragon/guard-drake-red-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  

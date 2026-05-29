@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Odur
+linter-yaml-title-alias: Odur
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/norse

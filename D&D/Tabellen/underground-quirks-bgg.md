@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Underground Quirks
+linter-yaml-title-alias: Underground Quirks
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix E: Maps"
+linter-yaml-title-alias: "Appendix E: Maps"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Appendix E: Maps"
   - Appendix E: Maps
 ---
 # Appendix E: Maps

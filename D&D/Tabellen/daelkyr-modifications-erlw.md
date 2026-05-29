@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daelkyr Modifications
+linter-yaml-title-alias: Daelkyr Modifications
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -3,8 +3,6 @@ Bezeichnung: Phantom
 tags:
   - Klasse/Schurke
   - Quelle/5e/tce
-aliases:
-  - Phantom
 ---
 # Phantom
 _[[Schurke]]_: Schurkenarchetyp

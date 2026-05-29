@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Egyptian Pantheon; Egyptian Deities
+linter-yaml-title-alias: The Egyptian Pantheon; Egyptian Deities
 tags:
   - Quelle/5e/phb
 aliases:

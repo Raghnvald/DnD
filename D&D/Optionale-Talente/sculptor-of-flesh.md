@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sculptor of Flesh
+linter-yaml-title-alias: Sculptor of Flesh
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

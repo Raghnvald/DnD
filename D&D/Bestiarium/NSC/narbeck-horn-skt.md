@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Narbeck Horn
+linter-yaml-title-alias: Narbeck Horn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Narbeck Horn
-linter-yaml-title-alias: Narbeck Horn
 ---
 # [Narbeck Horn](3-Mechanics\CLI\bestiary\npc/narbeck-horn-skt.md)
 *Source: Storm King's Thunder p. 114*  

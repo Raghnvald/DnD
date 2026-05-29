@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya Character Goals; Selesnya Assignments
+linter-yaml-title-alias: Selesnya Character Goals; Selesnya Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

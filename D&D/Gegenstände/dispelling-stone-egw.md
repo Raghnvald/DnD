@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dispelling Stone
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Dispelling Stone
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/egw
 aliases:
   - Dispelling Stone
-linter-yaml-title-alias: Dispelling Stone
 ---
 # Dispelling Stone
 *Wondrous item, very rare*  

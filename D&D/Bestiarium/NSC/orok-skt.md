@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orok
+linter-yaml-title-alias: Orok
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/skt
 aliases:
   - Orok
-linter-yaml-title-alias: Orok
 ---
 # [Orok](3-Mechanics\CLI\bestiary\npc/orok-skt.md)
 *Source: Storm King's Thunder p. 115*  

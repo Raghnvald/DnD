@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Tiefling (Devil's Tongue)"
+linter-yaml-title-alias: "Tiefling (Devil's Tongue)"
 tags:
   - Quelle/5e/scag
   - Rasse/tiefling/devils-tongue
 aliases:
+  - "Tiefling (Devil's Tongue)"
   - Tiefling (Devil's Tongue)
 ---
 # Tiefling (Devil's Tongue)

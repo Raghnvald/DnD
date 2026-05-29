@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Seal
+linter-yaml-title-alias: Seal
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fiendish Flesh Golem
+linter-yaml-title-alias: Fiendish Flesh Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

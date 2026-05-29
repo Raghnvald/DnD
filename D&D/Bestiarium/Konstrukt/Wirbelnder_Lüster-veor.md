@@ -5,9 +5,10 @@ Bezeichnung: Whirling Chandelier
 Kategorie: 
 Größe: 
 HG: 
-Habitat: 
+Habitat: []
 image: token/whirling-chandelier-veor.webp
 status: WIP
+linter-yaml-title-alias: Whirling Chandelier
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Alchemy Jug (Orange)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Alchemy Jug (Orange)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/cm
 aliases:
   - Alchemy Jug (Orange)
-linter-yaml-title-alias: Alchemy Jug (Orange)
 ---
 # Alchemy Jug (Orange)
 *Wondrous item, uncommon*  

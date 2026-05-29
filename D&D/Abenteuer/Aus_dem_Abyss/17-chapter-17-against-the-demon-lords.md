@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 17: Against the Demon Lords"
+linter-yaml-title-alias: "Chapter 17: Against the Demon Lords"
 tags:
   - Quelle/5e/oota
 aliases:

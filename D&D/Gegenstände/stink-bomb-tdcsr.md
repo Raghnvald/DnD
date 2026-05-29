@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Stink Bomb
 Kategorie: Explosives 
+linter-yaml-title-alias: Stink Bomb
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Quelle/5e/tdcsr
 aliases:
   - Stink Bomb
-linter-yaml-title-alias: Stink Bomb
 ---
 # Stink Bomb
 *Explosive*  

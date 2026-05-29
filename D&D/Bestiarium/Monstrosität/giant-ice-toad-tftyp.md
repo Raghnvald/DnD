@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Ice Toad
+linter-yaml-title-alias: Giant Ice Toad
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

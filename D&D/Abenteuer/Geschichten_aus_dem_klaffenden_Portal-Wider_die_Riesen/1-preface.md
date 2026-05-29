@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Preface
+linter-yaml-title-alias: Preface
 tags:
   - Quelle/5e/tftyp-atg
 aliases:
   - "Preface"
+  - Preface
 ---
 # Preface
 *Source: Tales from the Yawning Portal: Against the Giants, p. 4* 

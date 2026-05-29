@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Zikran's Zephyrean Tome"
+linter-yaml-title-alias: "Zikran's Zephyrean Tome"
 tags:
   - Quelle/5e/cm
 aliases:
+  - "Zikran's Zephyrean Tome"
   - Zikran's Zephyrean Tome
 ---
 # Zikran's Zephyrean Tome

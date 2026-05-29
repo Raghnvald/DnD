@@ -5,9 +5,11 @@ Bezeichnung: Deathwolf
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 15
-Habitat: /
+Habitat:
+  - /
 image: token/deathwolf-veor.webp
 status: WIP
+linter-yaml-title-alias: Deathwolf
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Deathwolf
-linter-yaml-title-alias: Deathwolf
 ---
 # [Deathwolf](3-Mechanics\CLI\bestiary\undead/deathwolf-veor.md)
 *Source: Vecna: Eve of Ruin p. 217*  

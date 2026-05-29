@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bountiful Luck
+linter-yaml-title-alias: Bountiful Luck
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

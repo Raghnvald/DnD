@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn Names – Female
+linter-yaml-title-alias: Dragonborn Names – Female
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Nine Lives Stealer
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Nine Lives Stealer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -16,7 +17,6 @@ aliases:
   - Nine Lives Stealer Rapier
   - Nine Lives Stealer Scimitar
   - Nine Lives Stealer Shortsword
-linter-yaml-title-alias: Nine Lives Stealer
 ---
 # Nine Lives Stealer
 *Major, very rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hadrosaurus
+linter-yaml-title-alias: Hadrosaurus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

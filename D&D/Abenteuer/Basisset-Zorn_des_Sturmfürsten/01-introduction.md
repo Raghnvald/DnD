@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/slw
 aliases:

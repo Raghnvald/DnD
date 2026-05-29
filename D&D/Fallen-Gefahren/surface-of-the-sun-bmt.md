@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Surface of the Sun
+linter-yaml-title-alias: Surface of the Sun
 tags:
   - Kompendium/Bedrohung/mag
   - Quelle/5e/bmt

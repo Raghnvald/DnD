@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Frog
+linter-yaml-title-alias: Giant Frog
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

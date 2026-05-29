@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Boots of Elvenkind
+linter-yaml-title-alias: Boots of Elvenkind
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Boots of Elvenkind
-linter-yaml-title-alias: Boots of Elvenkind
 ---
 # Boots of Elvenkind
 *Wondrous item, uncommon*  

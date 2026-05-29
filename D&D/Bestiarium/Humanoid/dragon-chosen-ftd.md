@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragon Chosen
+linter-yaml-title-alias: Dragon Chosen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon History
+linter-yaml-title-alias: Dungeon History
 tags:
   - Quelle/5e/dmg
 aliases:

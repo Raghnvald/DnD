@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vecna
+linter-yaml-title-alias: Vecna
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

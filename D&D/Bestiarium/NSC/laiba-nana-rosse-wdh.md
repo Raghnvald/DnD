@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Laiba "Nana" Rosse'
+linter-yaml-title-alias: 'Laiba "Nana" Rosse'
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -10,7 +11,6 @@ tags:
 aliases:
   - 'Laiba "Nana" Rosse'
   - Laiba "Nana" Rosse
-linter-yaml-title-alias: 'Laiba "Nana" Rosse'
 ---
 # [Laiba "Nana" Rosse](3-Mechanics\CLI\bestiary\npc/laiba-nana-rosse-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

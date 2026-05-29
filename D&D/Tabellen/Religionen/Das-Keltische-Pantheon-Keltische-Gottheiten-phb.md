@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Celtic Pantheon; Celtic Deities
+linter-yaml-title-alias: The Celtic Pantheon; Celtic Deities
 tags:
   - Quelle/5e/phb
 aliases:

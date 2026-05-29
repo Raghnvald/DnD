@@ -8,6 +8,7 @@ HG: "9"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Tree
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9

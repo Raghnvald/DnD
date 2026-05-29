@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sildar Hallwinter
+Image: token/sildar-hallwinter-pabtso.webp
+linter-yaml-title-alias: Sildar Hallwinter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/pabtso
 aliases:
   - Sildar Hallwinter
-Image: token/sildar-hallwinter-pabtso.webp
-linter-yaml-title-alias: Sildar Hallwinter
 ---
 # Sildar Hallwinter
 *Source: Phandelver and Below: The Shattered Obelisk p. 22*  

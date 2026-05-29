@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nimuel
+linter-yaml-title-alias: Nimuel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Nimuel
-linter-yaml-title-alias: Nimuel
 ---
 # [Nimuel](3-Mechanics\CLI\bestiary\npc/nimuel-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 136*  

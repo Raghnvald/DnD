@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Teeth of Dahlver-Nar
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Teeth of Dahlver-Nar
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Teeth of Dahlver-Nar
-linter-yaml-title-alias: Teeth of Dahlver-Nar
 ---
 # Teeth of Dahlver-Nar
 *Wondrous item, artifact (requires attunement)*  

@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inquisitor of the Tome
+Kategorie: Humanoid
+image: token/inquisitor-of-the-tome-vrgr.webp
+linter-yaml-title-alias: Inquisitor of the Tome
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

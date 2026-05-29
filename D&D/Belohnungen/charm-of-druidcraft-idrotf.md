@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Druidcraft
+linter-yaml-title-alias: Charm of Druidcraft
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +2 Moon Sickle
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: +2 Moon Sickle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +2 Moon Sickle
-linter-yaml-title-alias: +2 Moon Sickle
 ---
 # +2 Moon Sickle
 *Weapon ([sickle](/3-Mechanics/CLI/items/sickle-xphb.md)), rare (requires attunement by a druid or ranger)*  

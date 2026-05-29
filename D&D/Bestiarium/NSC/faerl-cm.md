@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerl
+linter-yaml-title-alias: Faerl
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Faerl
-linter-yaml-title-alias: Faerl
 ---
 # [Faerl](3-Mechanics\CLI\bestiary\npc/faerl-cm.md)
 *Source: Candlekeep Mysteries p. 104*  

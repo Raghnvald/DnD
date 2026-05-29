@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Sternensaphir
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Sternensaphir
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Star Sapphire
-linter-yaml-title-alias: Star Sapphire
+  - Sternensaphir
 ---
 # Sternensaphir
 *Schatz (Edelstein)*  

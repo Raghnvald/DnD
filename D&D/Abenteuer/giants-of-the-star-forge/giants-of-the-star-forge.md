@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Giants of the Star Forge
+linter-yaml-title-alias: Index of Giants of the Star Forge
+aliases:
+  - Index of Giants of the Star Forge
 ---
 # Index of Giants of the Star Forge
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: The Leave-Taking"
+linter-yaml-title-alias: "Chapter 2: The Leave-Taking"
 tags:
   - Quelle/5e/crcotn
 aliases:

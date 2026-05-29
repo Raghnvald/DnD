@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deep Rothé
+linter-yaml-title-alias: Deep Rothé
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

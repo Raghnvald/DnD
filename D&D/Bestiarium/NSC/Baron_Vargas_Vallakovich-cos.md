@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Baron Vargas Vallakovich
+linter-yaml-title-alias: Baron Vargas Vallakovich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Baron Vargas Vallakovich
-linter-yaml-title-alias: Baron Vargas Vallakovich
 ---
 # Baron Vargas Vallakovich
 *Source: Curse of Strahd p. 105*  

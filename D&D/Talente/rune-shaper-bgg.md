@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rune Shaper
+linter-yaml-title-alias: Rune Shaper
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

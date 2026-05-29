@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Degloth
+Image: token/degloth-veor.webp
 status: WIP
+linter-yaml-title-alias: Degloth
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Degloth
-IMAGE: token/degloth-veor.webp
 ---
 # [Degloth](3-Mechanics\CLI\bestiary\fiend/degloth-veor.md)
 *Source: Vecna: Eve of Ruin p. 218*  

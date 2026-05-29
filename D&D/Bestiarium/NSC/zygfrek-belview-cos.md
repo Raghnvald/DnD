@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zygfrek Belview
+linter-yaml-title-alias: Zygfrek Belview
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Zygfrek Belview
-linter-yaml-title-alias: Zygfrek Belview
 ---
 # [Zygfrek Belview](3-Mechanics\CLI\bestiary\npc/zygfrek-belview-cos.md)
 *Source: Curse of Strahd p. 148*  

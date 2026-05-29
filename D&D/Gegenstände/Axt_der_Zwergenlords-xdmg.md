@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Axe of the Dwarvish Lords
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Axe of the Dwarvish Lords
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Axe of the Dwarvish Lords
-linter-yaml-title-alias: Axe of the Dwarvish Lords
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md)), artifact (requires attunement)*  

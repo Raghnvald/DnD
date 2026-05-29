@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Sidekicks
+linter-yaml-title-alias: Sidekicks
 tags:
   - Quelle/5e/esk
 aliases:
   - "Sidekicks"
+  - Sidekicks
 ---
 # Sidekicks
 *Source: Essentials Kit p. 63* 

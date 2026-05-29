@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Hex
 Zaubergrad: 1
+linter-yaml-title-alias: Hex
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -8,12 +12,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
 aliases:
   - Hex
-linter-yaml-title-alias: Hex
 ---
 # Hex
 *1st-level, Enchantment*  

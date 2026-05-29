@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hitting Cover
+linter-yaml-title-alias: Hitting Cover
 tags:
   - Quelle/5e/dmg
 aliases:

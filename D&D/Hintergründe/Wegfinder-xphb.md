@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guide
+linter-yaml-title-alias: Guide
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/xphb

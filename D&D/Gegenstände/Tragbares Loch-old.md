@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Tragbares Loch
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: n/v
-Kst.: n/v
-Gew.: n/v
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Tragbares Loch
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Portable Hole
+  - Tragbares Loch
 ---
 # Tragbares Loch
 _Wundersamer Gegenstand, selten_

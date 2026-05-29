@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hera
+linter-yaml-title-alias: Hera
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/greek

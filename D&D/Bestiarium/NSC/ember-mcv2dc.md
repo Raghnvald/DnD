@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ember
+linter-yaml-title-alias: Ember
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/22
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mcv2dc
 aliases:
   - Ember
-linter-yaml-title-alias: Ember
 ---
 # [Ember](3-Mechanics\CLI\bestiary\npc/ember-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 5*  

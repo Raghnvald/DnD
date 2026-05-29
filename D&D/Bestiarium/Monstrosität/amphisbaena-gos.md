@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 1/2
 Habitat:
   - /
+image: token/amphisbaena-gos.webp
 status: WIP
+linter-yaml-title-alias: Amphisbaena
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

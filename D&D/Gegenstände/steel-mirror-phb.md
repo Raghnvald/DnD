@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Steel Mirror
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 GM
+Gew.: 0,25 kg
+status: WIP
+linter-yaml-title-alias: Steel Mirror
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Steel Mirror
-linter-yaml-title-alias: Steel Mirror
 ---
 # Steel Mirror
 *Adventuring gear*  

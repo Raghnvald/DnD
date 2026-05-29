@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Marid (Disguises)
+linter-yaml-title-alias: Marid (Disguises)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

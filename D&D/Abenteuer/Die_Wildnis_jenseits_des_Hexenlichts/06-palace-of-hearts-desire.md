@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Palace of Heart's Desire"
+linter-yaml-title-alias: "Palace of Heart's Desire"
 tags:
   - Quelle/5e/wbtw
 aliases:

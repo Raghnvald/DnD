@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonmark Appearance; Dragonmark Quirks
+linter-yaml-title-alias: Dragonmark Appearance; Dragonmark Quirks
 tags:
   - Quelle/5e/erlw
 aliases:

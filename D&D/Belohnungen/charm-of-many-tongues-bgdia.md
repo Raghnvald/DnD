@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Many Tongues
+linter-yaml-title-alias: Charm of Many Tongues
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bgdia

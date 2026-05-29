@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hag Eye
+linter-yaml-title-alias: Hag Eye
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/mm
 aliases:
   - Hag Eye
-linter-yaml-title-alias: Hag Eye
 ---
 # Hag Eye
 

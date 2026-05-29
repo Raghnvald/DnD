@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zuggtmoy
+linter-yaml-title-alias: Zuggtmoy
 tags:
   - Monster/Größe/Groß
   - Monster/HG/23
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Zuggtmoy
-linter-yaml-title-alias: Zuggtmoy
 ---
 # [Zuggtmoy](3-Mechanics\CLI\bestiary\npc/zuggtmoy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281*  

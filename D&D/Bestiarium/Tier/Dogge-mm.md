@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mastiff
+linter-yaml-title-alias: Mastiff
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Hügel

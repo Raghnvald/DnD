@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Swan
+linter-yaml-title-alias: Giant Swan
 tags:
   - Quelle/5e/wbtw
   - ttrpg-cli/monster/cr/1
@@ -9,6 +10,7 @@ tags:
   - ttrpg-cli/monster/type/beast
 aliases:
   - "Giant Swan"
+  - Giant Swan
 ---
 # [Giant Swan](3-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 38*  

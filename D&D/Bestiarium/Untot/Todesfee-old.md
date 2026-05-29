@@ -4,16 +4,17 @@ Bezeichnung: Beschreibung
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 4
-Habitat: Jedes
+Habitat:
+  - Jedes
 image:
 status:
+linter-yaml-title-alias: Beschreibung
 tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
   - Banshee
   - Beschreibung
-linter-yaml-title-alias: Beschreibung
 ---
 
 ```statblock

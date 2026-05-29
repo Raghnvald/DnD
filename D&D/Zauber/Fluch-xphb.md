@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Bestow Curse
+linter-yaml-title-alias: Bestow Curse
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,19 +25,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/sign-of-ill-omen
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Conquest)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 aliases:
   - Bestow Curse
-linter-yaml-title-alias: Bestow Curse
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

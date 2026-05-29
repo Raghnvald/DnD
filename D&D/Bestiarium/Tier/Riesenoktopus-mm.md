@@ -10,6 +10,7 @@ Habitat:
   - Unterwasser
 image: token/giant-octopus.webp
 status: completed
+linter-yaml-title-alias: Riesenoktopus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/underwater
@@ -18,6 +19,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Giant Octopus
+  - Riesenoktopus
 ---
 # Riesenoktopus
 *Quelle: Monsterhandbuch S. 332. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*   

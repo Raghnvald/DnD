@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Troglodyte
+linter-yaml-title-alias: Troglodyte
 tags:
   - Quelle/5e/dmg
   - Rasse/troglodyte

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Elf (Kaladesh; Vahadar)
+linter-yaml-title-alias: Spells for Elf (Kaladesh; Vahadar)
 tags:
   - ttrpg-cli/spell/list/subrace/elf-kaladesh-vahadar
 aliases:
   - "Spells for Elf (Kaladesh; Vahadar)"
+  - Spells for Elf (Kaladesh; Vahadar)
 ---
 # Spells for Elf (Kaladesh; Vahadar)
 

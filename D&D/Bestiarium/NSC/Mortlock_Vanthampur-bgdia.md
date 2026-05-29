@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mortlock Vanthampur
+linter-yaml-title-alias: Mortlock Vanthampur
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Mortlock Vanthampur
-linter-yaml-title-alias: Mortlock Vanthampur
 ---
 # Mortlock Vanthampur
 *Source: Baldur's Gate: Descent Into Avernus p. 26*  

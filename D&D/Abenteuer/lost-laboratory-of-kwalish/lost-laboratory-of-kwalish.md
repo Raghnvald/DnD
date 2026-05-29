@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Lost Laboratory of Kwalish
+linter-yaml-title-alias: Index of Lost Laboratory of Kwalish
+aliases:
+  - Index of Lost Laboratory of Kwalish
 ---
 # Index of Lost Laboratory of Kwalish
 

@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Danse Macabre
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -13,13 +18,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/5
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 aliases:
   - Danse Macabre
-linter-yaml-title-alias: Danse Macabre
 ---
 # Danse Macabre
 *5th-level, Necromancy*  

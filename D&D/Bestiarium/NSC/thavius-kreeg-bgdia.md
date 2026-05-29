@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thavius Kreeg
+linter-yaml-title-alias: Thavius Kreeg
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Thavius Kreeg
-linter-yaml-title-alias: Thavius Kreeg
 ---
 # [Thavius Kreeg](3-Mechanics\CLI\bestiary\npc/thavius-kreeg-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 42*  

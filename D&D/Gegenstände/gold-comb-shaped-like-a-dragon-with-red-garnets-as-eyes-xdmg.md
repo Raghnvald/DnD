@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gold comb shaped like a dragon with red garnets as eyes
+linter-yaml-title-alias: Gold comb shaped like a dragon with red garnets as eyes
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Gold comb shaped like a dragon with red garnets as eyes
-linter-yaml-title-alias: Gold comb shaped like a dragon with red garnets as eyes
 ---
 # Gold comb shaped like a dragon with red garnets as eyes
 *Treasure (art object)*  

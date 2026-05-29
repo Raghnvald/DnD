@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Riesig
 HG: 11
 status: WIP
+linter-yaml-title-alias: Death Embrace
 tags:
   - Quelle/5e/crcotn
   - ttrpg-cli/monster/cr/11

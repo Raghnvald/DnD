@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Purphoros
+linter-yaml-title-alias: Purphoros
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Purphoros"
+  - Purphoros
 ---
 # Purphoros
 *Source: Mythic Odysseys of Theros p. 76* 

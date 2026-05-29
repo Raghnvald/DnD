@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Sling Bullet
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: 0,0375 kg
+status: WIP
+linter-yaml-title-alias: Sling Bullet
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Sling Bullet
-linter-yaml-title-alias: Sling Bullet
 ---
 # Sling Bullet
 *Ammunition*  

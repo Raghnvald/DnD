@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Drachenflügelbogen
 Kategorie: Beliebig, Bogen
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Drachenflügelbogen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -10,10 +15,9 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:
-  - Dragon Wing Bow
+  - Drachenflügelbogen
   - Dragon Wing Longbow
   - Dragon Wing Shortbow
-linter-yaml-title-alias: Dragon Wing Bow
 ---
 # Drachenflügelbogen
 *Rare (requires attunement)*  

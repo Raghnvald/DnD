@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Archery
+linter-yaml-title-alias: Archery
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

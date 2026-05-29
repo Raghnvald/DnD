@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter (Beasthide)
+linter-yaml-title-alias: Shifter (Beasthide)
 tags:
   - Quelle/5e/erlw
   - Rasse/shifter/beasthide

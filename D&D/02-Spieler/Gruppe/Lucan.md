@@ -1,36 +1,68 @@
 ---
 Bezeichnung: Lucan
-RK: 19
 tags:
   - player
 ac: 19
-hp: 69
+AssociatedGroup:
+Geschlecht: Männlich
+Gesinnung: Neutral
+Hintergrund: Eremit
+hp: 80
 Klasse: Druide
-level: 11
 modifier: 2
-pW: "13"
+pW: 19
 Rasse: Elf
+Stufe: 11
+Talente:
+  - Attributswerterhöhung
+Trefferwürfel: W8
 Unterklasse: Zirkel des Mondes
-ZR: "15"
+ZR: 17
 ---
 # Lucan
+
+## Allgemeine Informationen
+>[!column|flex 2]
+>> [!infobox]
+>> ###### Bio
+>>   |
+>> ---|---|
+>> **Rasse** | `=this.Rasse` |
+>> **Geschlecht** | `=this.Geschlecht` |
+>> **Alter** | `=this.Alter` |
+>> **Gesinnung** | `=this.Gesinnung` |
+>> **Sprachen** | `=this.Sprachen`
+>> ###### Info
+>>   |
+>> ---|---|
+>> **Klassen** | `=this.Klasse` |
+>> **Unterklassen** | `=this.Unterklasse` |
+>> **Hintergrund** | `=this.Hintergrund` |
+>> **Gruppe(n)** | `=this.AssociatedGroup` |
+>> **Talente** | `=this.Talente` |
+>
+>> [!infobox]
+>> ###### Stats
+>>  |
+>> ---|---|
+>> **Stufe** |`=this.Stufe` |
+>> **Initiative** | +`=this.modifier` |
+>> **Max. Trefferpunkte** | `=this.hp` |
+>> **Rüstungsklasse** | `=this.ac`
+>> **Trefferwürfel** | `=this.Stufe + this.Trefferwürfel`  |
+>> **Zauberrettungswurf** | `=this.ZR`
+>> **Passive Wahrnehmung** | `=this.pW` |
 
 # Ring
 
 ## Ring der Feuerelementar-Herrschaft
+
+![[Ring_der_Feuerelementar-Herrschaft-dmg#Ring der Feuerelementar-Herrschaft]]
  
-While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Fire and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Fire.
-
-The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
-
-You can expend 2 of the ring's charges to cast [dominate monster](/3-Mechanics/CLI/spells/dominate-monster.md) on a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md). In addition, you have resistance to fire damage. You can also speak and understand Ignan.
-
-If you help slay a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) while attuned to the ring, you gain access to the following additional properties:
-
-- You are immune to fire damage.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [burning hands](/3-Mechanics/CLI/spells/burning-hands.md) (1 charge), [fireball](/3-Mechanics/CLI/spells/fireball.md) (2 charges), and [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire.md) (3 charges).  
-
 ---
 
-Cloak of the Bat
-Panzerhandschuhe der Ogerkraft
+## Einstimmungen
+
+[[Ring_der_Feuerelementar-Herrschaft-dmg|Ring der Feuerelementar-Herrschaft]]
+[[Panzerhandschuhe_der_Ogerkraft-dmg|Panzerhandschuhe der Ogerkraft]]
+[[Umhang_der_Fledermaus-dmg|Umhang der Fledermaus]]

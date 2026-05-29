@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Outer Essence Shard
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Outer Essence Shard
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Outer Essence Shard
-linter-yaml-title-alias: Outer Essence Shard
 ---
 # Outer Essence Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

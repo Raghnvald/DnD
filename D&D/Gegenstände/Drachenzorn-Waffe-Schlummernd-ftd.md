@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Slumbering Dragon's Wrath Weapon"
+linter-yaml-title-alias: "Slumbering Dragon's Wrath Weapon"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -65,7 +66,6 @@ aliases:
   - Slumbering Dragon's Wrath Weapon
   - Slumbering Dragon's Wrath Whip
   - Slumbering Dragon's Wrath Yklwa
-linter-yaml-title-alias: "Slumbering Dragon's Wrath Weapon"
 ---
 # Slumbering Dragon's Wrath Weapon
 *Uncommon (requires attunement)*  

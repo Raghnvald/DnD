@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Sternenrubin
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Sternenrubin
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Star Ruby
-linter-yaml-title-alias: Star Ruby
+  - Sternenrubin
 ---
 # Sternenrubin
 *Schatz (Edelstein)*  

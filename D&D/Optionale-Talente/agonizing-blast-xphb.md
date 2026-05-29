@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Agonizing Blast
+linter-yaml-title-alias: Agonizing Blast
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

@@ -5,6 +5,8 @@ Bezeichnung: Aarakocra Skirmisher
 Kategorie: Elementar
 Größe: Mittelgroß
 HG: 1/4
+Image: token/aarakocra-skirmisher-xmm.webp
+linter-yaml-title-alias: Aarakocra Skirmisher
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/air
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Aarakocra Skirmisher
-IMAGE: token/aarakocra-skirmisher-xmm.webp
 ---
 # [Aarakocra Skirmisher](3-Mechanics\CLI\bestiary\elemental/aarakocra-skirmisher-xmm.md)
 *Source: Monster Manual (2024) p. 10*  

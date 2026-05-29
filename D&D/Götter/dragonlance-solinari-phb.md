@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solinari
+linter-yaml-title-alias: Solinari
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/dragonlance

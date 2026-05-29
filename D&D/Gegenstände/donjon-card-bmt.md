@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Donjon Card
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Donjon Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Donjon Card
-linter-yaml-title-alias: Donjon Card
 ---
 # Donjon Card
 *Wondrous item, legendary*  

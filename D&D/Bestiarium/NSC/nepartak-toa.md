@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nepartak
+linter-yaml-title-alias: Nepartak
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Nepartak
-linter-yaml-title-alias: Nepartak
 ---
 # [Nepartak](3-Mechanics\CLI\bestiary\npc/nepartak-toa.md)
 *Source: Tomb of Annihilation p. 137*  

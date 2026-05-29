@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Rope
+linter-yaml-title-alias: Rope
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Rope
-linter-yaml-title-alias: Rope
 ---
 # Rope
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Lairs; Lair Location
+linter-yaml-title-alias: Dragon Lairs; Lair Location
 tags:
   - Quelle/5e/ftd
 aliases:

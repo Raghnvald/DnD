@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Red Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Adult Red Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

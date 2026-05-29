@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Silver Flame
+linter-yaml-title-alias: The Silver Flame
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

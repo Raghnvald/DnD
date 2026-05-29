@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/coa
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Chains of Asmodeus* 

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Caltrops
+linter-yaml-title-alias: Caltrops
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Caltrops
-linter-yaml-title-alias: Caltrops
 ---
 # Caltrops
 *Adventuring gear*  

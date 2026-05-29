@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ireena Kolyana
+linter-yaml-title-alias: Ireena Kolyana
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Ireena Kolyana
-linter-yaml-title-alias: Ireena Kolyana
 ---
 # Ireena Kolyana
 *Source: Curse of Strahd p. 44*  

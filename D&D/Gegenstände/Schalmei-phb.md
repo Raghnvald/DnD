@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Shawm
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: 2 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Shawm
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Shawm
-linter-yaml-title-alias: Shawm
 ---
 # Shawm
 *Instrument*  

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Lightning Keep
+linter-yaml-title-alias: Index of Lightning Keep
+aliases:
+  - Index of Lightning Keep
 ---
 # Index of Lightning Keep
 

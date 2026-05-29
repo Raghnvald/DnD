@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crystal Golem
+linter-yaml-title-alias: Crystal Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

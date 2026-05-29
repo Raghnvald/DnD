@@ -1,6 +1,13 @@
 ---
 Bezeichnung: True Seeing
 Zaubergrad: 6
+linter-yaml-title-alias: True Seeing
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -10,15 +17,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - True Seeing
-linter-yaml-title-alias: True Seeing
 ---
 # True Seeing
 *6th-level, Divination*  

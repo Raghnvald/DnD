@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deinonychus
+linter-yaml-title-alias: Deinonychus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

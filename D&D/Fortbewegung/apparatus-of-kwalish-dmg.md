@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Apparatus of Kwalish
+linter-yaml-title-alias: Apparatus of Kwalish
 tags:
   - Gegenstand/Fortbewegung/size/large
   - Gegenstand/Fortbewegung/terrain/sea

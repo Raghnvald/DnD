@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Flesh Golems
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Flesh Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Flesh Golems
-linter-yaml-title-alias: Manual of Flesh Golems
 ---
 # Manual of Flesh Golems
 *Wondrous item, major, very rare*  

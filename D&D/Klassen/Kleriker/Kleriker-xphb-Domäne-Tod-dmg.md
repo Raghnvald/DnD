@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Death Domain
+linter-yaml-title-alias: Death Domain
 tags:
   - Klasse/Kleriker/death
   - Kompendium/Götter/Domäne/death

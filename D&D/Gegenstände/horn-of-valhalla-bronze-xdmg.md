@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horn of Valhalla, Bronze
+linter-yaml-title-alias: Horn of Valhalla, Bronze
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Horn of Valhalla, Bronze
-linter-yaml-title-alias: Horn of Valhalla, Bronze
 ---
 # Horn of Valhalla, Bronze
 *Wondrous item, very rare*  

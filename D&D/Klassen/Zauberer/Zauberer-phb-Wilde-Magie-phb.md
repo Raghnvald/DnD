@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic
+linter-yaml-title-alias: Wild Magic
 tags:
   - Klasse/Zauberer/wild
   - Quelle/5e/phb

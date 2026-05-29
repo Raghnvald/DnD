@@ -9,6 +9,7 @@ Habitat:
   - Planar (Schattensaum)
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Wraith
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/planar
@@ -19,7 +20,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Wraith
-linter-yaml-title-alias: Wraith
 ---
 # [Wraith](3-Mechanics\CLI\bestiary\undead/wraith-xmm.md)
 *Source: Monster Manual (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

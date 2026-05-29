@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Artefakt-Eigenschaften; Kleinere nachteilige Eigenschaften
+linter-yaml-title-alias: Artefakt-Eigenschaften; Kleinere nachteilige Eigenschaften
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Artefakt-Eigenschaften; Kleinere nachteilige Eigenschaften
   - Artifact Properties; Minor Detrimental Properties
 ---
 # Artefakt-Eigenschaften; Kleinere nachteilige Eigenschaften

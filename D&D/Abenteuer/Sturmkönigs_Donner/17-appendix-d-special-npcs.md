@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix D: Special NPCs"
+linter-yaml-title-alias: "Appendix D: Special NPCs"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Appendix D: Special NPCs"
   - Appendix D: Special NPCs
 ---
 # Appendix D: Special NPCs

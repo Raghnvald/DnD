@@ -7,6 +7,13 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Detect Poison and Disease
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -20,15 +27,8 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Paladin
-  - Ranger
 aliases:
   - Detect Poison and Disease
-linter-yaml-title-alias: Detect Poison and Disease
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

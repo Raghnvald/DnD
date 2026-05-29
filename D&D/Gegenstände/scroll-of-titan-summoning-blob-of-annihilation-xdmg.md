@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Blob of Annihilation)
+linter-yaml-title-alias: Scroll of Titan Summoning (Blob of Annihilation)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning (Blob of Annihilation)
-linter-yaml-title-alias: Scroll of Titan Summoning (Blob of Annihilation)
 ---
 # Scroll of Titan Summoning (Blob of Annihilation)
 *Scroll, legendary*  

@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Soul Cage
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -13,13 +18,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 aliases:
   - Soul Cage
-linter-yaml-title-alias: Soul Cage
 ---
 # Soul Cage
 *6th-level, Necromancy*  

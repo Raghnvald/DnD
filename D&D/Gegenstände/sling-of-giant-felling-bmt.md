@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Sling of Giant Felling
 Kategorie: Einfache Fernkampfwaffe
+Eigenschaften:
+  - Geschosse
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Sling of Giant Felling
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -8,7 +13,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Sling of Giant Felling
-linter-yaml-title-alias: Sling of Giant Felling
 ---
 # Sling of Giant Felling
 *Weapon (sling), uncommon*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bait and Switch
+linter-yaml-title-alias: Bait and Switch
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

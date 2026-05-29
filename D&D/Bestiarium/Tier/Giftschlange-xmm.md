@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Venomous Snake
+linter-yaml-title-alias: Venomous Snake
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Grasland

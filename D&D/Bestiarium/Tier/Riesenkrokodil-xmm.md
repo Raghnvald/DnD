@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Crocodile
+linter-yaml-title-alias: Giant Crocodile
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Küste

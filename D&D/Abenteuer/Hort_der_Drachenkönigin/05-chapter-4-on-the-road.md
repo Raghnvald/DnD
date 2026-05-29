@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: On the Road"
+linter-yaml-title-alias: "Chapter 4: On the Road"
 tags:
   - Quelle/5e/hotdq
 aliases:

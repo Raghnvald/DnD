@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Haunted Traps
+linter-yaml-title-alias: Haunted Traps
 tags:
   - Quelle/5e/vrgr
 aliases:

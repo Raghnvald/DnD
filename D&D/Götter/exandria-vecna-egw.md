@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vecna
+linter-yaml-title-alias: Vecna
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - "Vecna"
+  - Vecna
 ---
 # Vecna
 *Source: Explorer's Guide to Wildemount p. 29, Sword Coast Adventurer's Guide p. 125* 

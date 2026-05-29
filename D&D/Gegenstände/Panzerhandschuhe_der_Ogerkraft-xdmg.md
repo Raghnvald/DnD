@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gauntlets of Ogre Power
+linter-yaml-title-alias: Gauntlets of Ogre Power
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Gauntlets of Ogre Power
-linter-yaml-title-alias: Gauntlets of Ogre Power
 ---
 # Gauntlets of Ogre Power
 *Wondrous item, uncommon (requires attunement)*  

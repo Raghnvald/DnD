@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Gem"
+linter-yaml-title-alias: "Chapter 5: Gem"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 5: Gem"
   - Chapter 5: Gem
 ---
 # Chapter 5: Gem

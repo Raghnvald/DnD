@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Silver Dragon Scale Mail
 Rüstung: Mittel
+linter-yaml-title-alias: Silver Dragon Scale Mail
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Silver Dragon Scale Mail
-linter-yaml-title-alias: Silver Dragon Scale Mail
 ---
 # Silver Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

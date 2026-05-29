@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Evoker
+linter-yaml-title-alias: Evoker
 tags:
   - Klasse/Magier/evoker
   - Quelle/5e/xphb

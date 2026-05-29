@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Warding
+linter-yaml-title-alias: Mark of Warding
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Warding"
+  - Mark of Warding
 ---
 # Mark of Warding
 *Source: Eberron: Forge of the Artificer p. 42*  

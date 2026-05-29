@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Second Chance
+linter-yaml-title-alias: Second Chance
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

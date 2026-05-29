@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Body Horror Adventure Sites
+linter-yaml-title-alias: Body Horror Adventure Sites
 tags:
   - Quelle/5e/vrgr
 aliases:

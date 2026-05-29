@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Stone Shape
+linter-yaml-title-alias: Stone Shape
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -13,19 +24,8 @@ tags:
   - Subklasse/the-genie/dao
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Genie, Dao)
-  - Wizard
 aliases:
   - Stone Shape
-linter-yaml-title-alias: Stone Shape
 ---
 # Stone Shape
 *4th-level, Transmutation*  

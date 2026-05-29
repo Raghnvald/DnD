@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Travelers in the Mists; Strangers in the Mists
+linter-yaml-title-alias: Travelers in the Mists; Strangers in the Mists
 tags:
   - Quelle/5e/vrgr
 aliases:

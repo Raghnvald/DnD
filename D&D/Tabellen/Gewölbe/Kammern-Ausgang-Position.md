@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Chambers; Position des Ausgangs
+linter-yaml-title-alias: Chambers; Position des Ausgangs
 tags:
   - Quelle/5e/dmg
 aliases:
   - Chambers; Exit Location
+  - Chambers; Position des Ausgangs
 ---
 # Chambers; Position des Ausgangs
 *Source: Dungeon Master's Guide p. 291* 

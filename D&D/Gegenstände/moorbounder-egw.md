@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Moorbounder
+Kst.: 400 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Moorbounder
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Moorbounder
-linter-yaml-title-alias: Moorbounder
 ---
 # Moorbounder
 *Mount*  

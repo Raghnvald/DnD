@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Character Goals; Golgari Assignments
+linter-yaml-title-alias: Golgari Character Goals; Golgari Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

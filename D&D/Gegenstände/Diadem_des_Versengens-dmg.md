@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Diadem des Versengens
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Diadem des Versengens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Diadem des Versengens
-linter-yaml-title-alias: Diadem des Versengens
 ---
 # Diadem des Versengens
 *Wundersamer Gegenstand, ungewöhnlich*  

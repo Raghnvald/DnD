@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mace of the Black Crown (Awakened)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Mace of the Black Crown (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Mace of the Black Crown (Awakened)
-linter-yaml-title-alias: Mace of the Black Crown (Awakened)
 ---
 # Mace of the Black Crown (Awakened)
 *Weapon ([mace](Streitkolben-xphb)), artifact (requires attunement)*  

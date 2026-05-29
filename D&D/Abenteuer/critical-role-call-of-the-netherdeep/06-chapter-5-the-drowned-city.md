@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: The Drowned City"
+linter-yaml-title-alias: "Chapter 5: The Drowned City"
 tags:
   - Quelle/5e/crcotn
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Player Options"
+linter-yaml-title-alias: "Chapter 3: Player Options"
 tags:
   - Quelle/5e/ai
 aliases:

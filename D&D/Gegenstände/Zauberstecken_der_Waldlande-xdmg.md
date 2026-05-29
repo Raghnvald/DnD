@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of the Woodlands
+linter-yaml-title-alias: Staff of the Woodlands
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of the Woodlands
-linter-yaml-title-alias: Staff of the Woodlands
 ---
 # Staff of the Woodlands
 *Staff, weapon, rare (requires attunement by a druid)*  

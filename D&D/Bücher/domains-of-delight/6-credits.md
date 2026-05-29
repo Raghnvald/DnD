@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/dod
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Domains of Delight* 

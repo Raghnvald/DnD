@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sekolah
+linter-yaml-title-alias: Sekolah
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

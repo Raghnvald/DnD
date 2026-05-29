@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wizard
+linter-yaml-title-alias: Wizard
 tags:
   - Klasse/Magier
   - Quelle/5e/phb

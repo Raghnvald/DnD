@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Fiendish Vigor
+linter-yaml-title-alias: Spells for Fiendish Vigor
 tags:
   - Zauber/list/optfeature/fiendish-vigor
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bracer of Flying Daggers
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Bracer of Flying Daggers
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Bracer of Flying Daggers
-linter-yaml-title-alias: Bracer of Flying Daggers
 ---
 # Bracer of Flying Daggers
 *Wondrous item, rare (requires attunement)*  

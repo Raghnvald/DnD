@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Joy of Extradimensional Spaces
+linter-yaml-title-alias: The Joy of Extradimensional Spaces
 tags:
   - Quelle/5e/cm
 aliases:

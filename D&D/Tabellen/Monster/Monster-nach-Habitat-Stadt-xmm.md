@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Urban Monsters
+linter-yaml-title-alias: Monsters by Habitat; Urban Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

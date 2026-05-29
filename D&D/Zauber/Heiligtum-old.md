@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Heiligtum
+linter-yaml-title-alias: Heiligtum
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Bann
 aliases:
+  - Heiligtum
   - Sanctuary
 ---
 # Heiligtum

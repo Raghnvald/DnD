@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Horror Plots
+linter-yaml-title-alias: Folk Horror Plots
 tags:
   - Quelle/5e/vrgr
 aliases:

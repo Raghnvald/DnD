@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Keresta Delvingstone
+linter-yaml-title-alias: Keresta Delvingstone
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Keresta Delvingstone
-linter-yaml-title-alias: Keresta Delvingstone
 ---
 # [Keresta Delvingstone](3-Mechanics\CLI\bestiary\npc/keresta-delvingstone-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 232*  

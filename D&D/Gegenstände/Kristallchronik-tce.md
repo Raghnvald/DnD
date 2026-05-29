@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Crystalline Chronicle
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Crystalline Chronicle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Crystalline Chronicle
-linter-yaml-title-alias: Crystalline Chronicle
 ---
 # Crystalline Chronicle
 *Wondrous item, very rare (requires attunement by a wizard)*  

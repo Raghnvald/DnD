@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/paf
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: Puncheons and Flagons, p. 7* 

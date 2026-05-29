@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hobgoblin Iron Shadow
+linter-yaml-title-alias: Hobgoblin Iron Shadow
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

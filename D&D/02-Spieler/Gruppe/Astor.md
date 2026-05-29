@@ -1,34 +1,70 @@
 ---
-Bezeichnung: Nebenhand
+Bezeichnung: 'Astor "Doodle" Dash'
+linter-yaml-title-alias: 'Astor "Doodle" Dash'
 tags:
   - player
+aliases:
+  - 'Astor "Doodle" Dash'
 ac: 19
+AssociatedGroup:
+Geschlecht: Männlich
+Gesinnung: Chaotisch Gut
+Hintergrund:
 hp: 73
 Klasse: Magier
-level: 11
 modifier: 2
-pW: "11"
-Rasse:
-Unterklasse:
-ZR: "16"
+pW: 11
+Rasse: Gnom
+Stufe: 11
+Talente: 
+Trefferwürfel: W6
+Unterklasse: Beschwörer
+ZR: 17
 ---
+# Astor "Doodle" Dash
+
+## Allgemeine Informationen
+>[!column|flex 2]
+>> [!infobox]
+>> ###### Bio
+>>   |
+>> ---|---|
+>> **Rasse** | `=this.Rasse` |
+>> **Geschlecht** | `=this.Geschlecht` |
+>> **Alter** | `=this.Alter` |
+>> **Gesinnung** | `=this.Gesinnung` |
+>> **Sprachen** | `=this.Sprachen`
+>> ###### Info
+>>   |
+>> ---|---|
+>> **Klassen** | `=this.Klasse` |
+>> **Unterklassen** | `=this.Unterklasse` |
+>> **Hintergrund** | `=this.Hintergrund` |
+>> **Gruppe(n)** | `=this.AssociatedGroup` |
+>> **Talente** | `=this.Talente` |
+>
+>> [!infobox]
+>> ###### Stats
+>>  |
+>> ---|---|
+>> **Stufe** |`=this.Stufe` |
+>> **Initiative** | +`=this.modifier` |
+>> **Max. Trefferpunkte** | `=this.hp` |
+>> **Rüstungsklasse** | `=this.ac`
+>> **Trefferwürfel** | `=this.Stufe + this.Trefferwürfel`  |
+>> **Zauberrettungswurf** | `=this.ZR`
+>> **Passive Wahrnehmung** | `=this.pW` |
 
 # Nebenhand
 
-## Tome of the Stilled Tongue
-*Wondrous item, major, legendary (requires attunement by a wizard)*  
+## Leitfaden der verstummten Sprache
 
-- **Weight**: 5.0 lbs.
-
-This thick leather-bound volume has a desiccated tongue pinned to the front cover. Five of these tomes exist, and it's unknown which one is the original. The grisly cover decoration on the first tome of the stilled tongue once belonged to a treacherous former servant of the lich-god Vecna, keeper of secrets. The tongues pinned to the covers of the four copies came from other spellcasters who crossed Vecna. The first few pages of each tome are filled with indecipherable scrawls. The remaining pages are blank and pristine.
-
-If you can attune to this item, you can use it as a spellbook and an arcane focus. In addition, while holding the tome, you can use a bonus action to cast a spell you have written in this tome, without expending a spell slot or using any verbal or somatic component. Once used, this property of the tome can't be used again until the next dawn.
-
-While attuned to the book, you can remove the tongue from the book's cover. If you do so, all spells written in the book are permanently erased.
-
-Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read.
+![[Leitfaden_der_verstummten_Sprache-dmg#Leitfaden der verstummten Sprache]]
 
 ---
 
-Gem of Seeing
-Spinnenstab
+## Einstimmungen
+
+[[Leitfaden_der_verstummten_Sprache-dmg|Leitfaden der verstummten Sprache]]
+[[Umhang_des_Schutzes-dmg|Umhang des Schutzes]]
+????

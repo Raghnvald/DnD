@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lich
+linter-yaml-title-alias: Lich
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

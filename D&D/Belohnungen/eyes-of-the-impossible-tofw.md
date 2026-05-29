@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Eyes of the Impossible
+linter-yaml-title-alias: Eyes of the Impossible
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/tofw
 aliases:
   - "Eyes of the Impossible"
+  - Eyes of the Impossible
 ---
 # Eyes of the Impossible
 *Charm*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Twinned Spell
+linter-yaml-title-alias: Twinned Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/phb

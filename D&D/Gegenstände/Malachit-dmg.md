@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Malachite
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Malachite
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Malachite
-linter-yaml-title-alias: Malachite
 ---
 # Malachite
 *Schatz (Edelstein)*  

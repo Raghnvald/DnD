@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Magic Items - Implements
+linter-yaml-title-alias: Random Magic Items - Implements
 tags:
   - Quelle/5e/xdmg
 aliases:

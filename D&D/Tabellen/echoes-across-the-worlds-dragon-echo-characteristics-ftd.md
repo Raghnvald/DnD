@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Echoes across the Worlds; Dragon Echo Characteristics
+linter-yaml-title-alias: Echoes across the Worlds; Dragon Echo Characteristics
 tags:
   - Quelle/5e/ftd
 aliases:

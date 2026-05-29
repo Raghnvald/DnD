@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grandolpha Muzgardt
+linter-yaml-title-alias: Grandolpha Muzgardt
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Grandolpha Muzgardt
-linter-yaml-title-alias: Grandolpha Muzgardt
 ---
 # [Grandolpha Muzgardt](3-Mechanics\CLI\bestiary\npc/grandolpha-muzgardt-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 176*  

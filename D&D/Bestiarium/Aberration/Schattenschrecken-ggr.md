@@ -6,12 +6,14 @@ Kategorie: Aberration
 Größe: Groß
 HG: 9
 status: WIP
+linter-yaml-title-alias: Schattenschrecken
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9
   - Monster/Typ/Aberration
   - Quelle/5e/ggr
 aliases:
+  - Schattenschrecken
   - Shadow Horror
 ---
 # Schattenschrecken

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sharwyn Hucrele
+linter-yaml-title-alias: Sharwyn Hucrele
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/tftyp
 aliases:
   - Sharwyn Hucrele
-linter-yaml-title-alias: Sharwyn Hucrele
 ---
 # [Sharwyn Hucrele](3-Mechanics\CLI\bestiary\npc/sharwyn-hucrele-tftyp.md)
 *Source: Tales from the Yawning Portal p. 242*  

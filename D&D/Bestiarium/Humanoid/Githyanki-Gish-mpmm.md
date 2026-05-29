@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Gish
+linter-yaml-title-alias: Githyanki Gish
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -9,7 +10,7 @@ tags:
   - Monster/Habitat/Wüste
   - Monster/HG/10
   - Monster/Typ/Humanoid/gith
-  - Monster/Typ/Humanoid/wizard
+  - Monster/Typ/Humanoid/Magier
   - Quelle/5e/mpmm
 aliases:
   - Githyanki Gish

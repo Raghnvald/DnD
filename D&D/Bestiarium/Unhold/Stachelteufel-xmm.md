@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spined Devil
+linter-yaml-title-alias: Spined Devil
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/nine-hells

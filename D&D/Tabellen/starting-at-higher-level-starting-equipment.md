@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Starting at Higher Level; Starting Equipment
+linter-yaml-title-alias: Starting at Higher Level; Starting Equipment
 tags:
   - Quelle/5e/dmg
 aliases:

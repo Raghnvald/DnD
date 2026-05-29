@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gods and Religion; Gods of the Ordning
+linter-yaml-title-alias: Gods and Religion; Gods of the Ordning
 tags:
   - Quelle/5e/bgg
 aliases:

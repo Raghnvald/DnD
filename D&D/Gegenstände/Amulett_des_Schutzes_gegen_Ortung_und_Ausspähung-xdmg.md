@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Amulett des Schutzes gegen Ortung und Ausspähung
+linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Amulet of Proof against Detection and Location
-linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
+  - Amulett des Schutzes gegen Ortung und Ausspähung
 ---
 # Amulett des Schutzes gegen Ortung und Ausspähung
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

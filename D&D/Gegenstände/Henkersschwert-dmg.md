@@ -2,9 +2,11 @@
 Bezeichnung: Henkersschwert
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
 Schaden: /
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+linter-yaml-title-alias: Henkersschwert
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/legendär
@@ -14,7 +16,6 @@ tags:
 aliases:
   - Henkersschwert
   - Vorpal Sword
-linter-yaml-title-alias: Henkersschwert
 ---
 # Henkersschwert
 _Waffe (beliebiges Schwert, das Hiebschaden verursacht), legendär (erfordert Einstimmung)_

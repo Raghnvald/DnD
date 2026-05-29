@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Restoration
+linter-yaml-title-alias: Charm of Restoration
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

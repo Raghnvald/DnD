@@ -6,6 +6,7 @@ Kategorie: Aberration (Betrachter)
 Größe: Mittelgroß
 HG: 6
 status: WIP
+linter-yaml-title-alias: Gauth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

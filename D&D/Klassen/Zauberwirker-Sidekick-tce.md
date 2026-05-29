@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spellcaster Sidekick
+linter-yaml-title-alias: Spellcaster Sidekick
 tags:
   - Klasse/spellcaster-sidekick
   - Quelle/5e/tce

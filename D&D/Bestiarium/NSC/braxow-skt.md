@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Braxow
+linter-yaml-title-alias: Braxow
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Braxow
-linter-yaml-title-alias: Braxow
 ---
 # [Braxow](3-Mechanics\CLI\bestiary\npc/braxow-skt.md)
 *Source: Storm King's Thunder p. 207*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Whisper (Awakened)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Whisper (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Whisper (Awakened)
-linter-yaml-title-alias: Whisper (Awakened)
 ---
 # Whisper (Awakened)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  

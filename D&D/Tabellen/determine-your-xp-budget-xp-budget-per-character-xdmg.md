@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Determine Your XP Budget; XP Budget per Character
+linter-yaml-title-alias: Determine Your XP Budget; XP Budget per Character
 tags:
   - Quelle/5e/xdmg
 aliases:

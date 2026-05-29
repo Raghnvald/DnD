@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scion of Skoraeus
+linter-yaml-title-alias: Scion of Skoraeus
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/23

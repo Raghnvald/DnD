@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Moonshae Isles"
+linter-yaml-title-alias: "Chapter 5: Moonshae Isles"
 tags:
   - Quelle/5e/fraif
 aliases:

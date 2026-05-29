@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Faction Guide
+linter-yaml-title-alias: Faction Guide
 tags:
   - Quelle/5e/al
 aliases:
   - "Faction Guide"
+  - Faction Guide
 ---
 # Faction Guide
 *Source: Adventurers League* 

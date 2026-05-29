@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Foresworn
+linter-yaml-title-alias: Foresworn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mcv2dc
 aliases:
   - Foresworn
-linter-yaml-title-alias: Foresworn
 ---
 # [Foresworn](3-Mechanics\CLI\bestiary\undead/foresworn-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 7*  

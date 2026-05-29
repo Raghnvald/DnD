@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rush of the Gale Spirits
+linter-yaml-title-alias: Rush of the Gale Spirits
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dancing Item
+linter-yaml-title-alias: Dancing Item
 tags:
   - Monster/Größe/Groß
   - Monster/HG/

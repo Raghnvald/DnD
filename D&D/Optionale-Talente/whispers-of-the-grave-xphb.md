@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Whispers of the Grave
+linter-yaml-title-alias: Whispers of the Grave
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

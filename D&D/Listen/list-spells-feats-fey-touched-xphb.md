@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Fey-Touched
+linter-yaml-title-alias: Spells for Fey-Touched
 tags:
   - Zauber/list/feat/fey-touched
 aliases:

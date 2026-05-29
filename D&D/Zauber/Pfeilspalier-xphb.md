@@ -1,15 +1,15 @@
 ---
 Bezeichnung: Cordon of Arrows
+linter-yaml-title-alias: Cordon of Arrows
+classes:
+  - Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Ranger
 aliases:
   - Cordon of Arrows
-linter-yaml-title-alias: Cordon of Arrows
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  

@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Plant Growth
+linter-yaml-title-alias: Plant Growth
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Warlock (Archfey Patron)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,18 +22,8 @@ tags:
   - Subklasse/archfey-patron
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of Wildfire)
-  - Paladin (Oath of the Ancients)
-  - Ranger
-  - Warlock (Archfey Patron)
 aliases:
   - Plant Growth
-linter-yaml-title-alias: Plant Growth
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

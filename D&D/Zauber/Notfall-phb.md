@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Contingency
 Zaubergrad: 6
+linter-yaml-title-alias: Contingency
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Contingency
-linter-yaml-title-alias: Contingency
 ---
 # Contingency
 *6th-level, Evocation*  

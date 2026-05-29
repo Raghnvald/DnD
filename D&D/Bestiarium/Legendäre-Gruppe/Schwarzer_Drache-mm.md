@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Black Dragon
+linter-yaml-title-alias: Black Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

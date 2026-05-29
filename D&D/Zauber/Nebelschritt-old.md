@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nebelschritt
+linter-yaml-title-alias: Nebelschritt
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Misty Step
+  - Nebelschritt
 ---
 # Nebelschritt
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Beschwörungszauber.webp#token)

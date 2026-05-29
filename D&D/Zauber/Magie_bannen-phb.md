@@ -7,6 +7,19 @@ Komponenten: V, G
 Wirkungsdauer: unmittelbar
 Angriff: /
 Schaden: /
+linter-yaml-title-alias: Magie bannen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Trickery Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -22,21 +35,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Trickery Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Dispel Magic
-linter-yaml-title-alias: Dispel Magic
+  - Magie bannen
 ---
 # Magie bannen
 *Bann des 3. Grades*  

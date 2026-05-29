@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rod of Alertness
+linter-yaml-title-alias: Rod of Alertness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Rod of Alertness
-linter-yaml-title-alias: Rod of Alertness
 ---
 # Rod of Alertness
 *Rod, very rare (requires attunement)*  

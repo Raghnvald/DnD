@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hirelings
+linter-yaml-title-alias: Hirelings
 tags:
   - Quelle/5e/xphb
 aliases:

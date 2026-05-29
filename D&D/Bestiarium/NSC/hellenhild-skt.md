@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hellenhild
+linter-yaml-title-alias: Hellenhild
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Hellenhild
-linter-yaml-title-alias: Hellenhild
 ---
 # [Hellenhild](3-Mechanics\CLI\bestiary\npc/hellenhild-skt.md)
 *Source: Storm King's Thunder p. 207*  

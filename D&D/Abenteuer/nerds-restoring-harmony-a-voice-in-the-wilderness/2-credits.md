@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/nrh-avitw
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: NERDS Restoring Harmony: A Voice in the Wilderness* 

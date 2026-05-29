@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Hämatit
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Hämatit
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Hematite
-linter-yaml-title-alias: Hematite
+  - Hämatit
 ---
 # Hämatit
 *Schatz (Edelstein)*  

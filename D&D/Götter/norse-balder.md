@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Balder
+linter-yaml-title-alias: Balder
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

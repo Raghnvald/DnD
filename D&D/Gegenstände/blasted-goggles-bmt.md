@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blasted Goggles
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Blasted Goggles
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Blasted Goggles
-linter-yaml-title-alias: Blasted Goggles
 ---
 # Blasted Goggles
 *Wondrous item, uncommon (requires attunement)*  

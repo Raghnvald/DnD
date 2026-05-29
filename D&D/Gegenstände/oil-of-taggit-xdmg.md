@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Oil of Taggit
+linter-yaml-title-alias: Oil of Taggit
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Oil of Taggit
-linter-yaml-title-alias: Oil of Taggit
 ---
 # Oil of Taggit
 *Adventuring gear, poison (contact)*  

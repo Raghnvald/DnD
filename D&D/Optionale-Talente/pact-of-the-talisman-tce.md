@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact of the Talisman
+linter-yaml-title-alias: Pact of the Talisman
 tags:
   - Kompendium/Optionales/pb
   - Quelle/5e/tce

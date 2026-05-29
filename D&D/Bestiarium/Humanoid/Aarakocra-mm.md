@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Berg
+Image: token/aarakocra.webp
 status: WIP
+linter-yaml-title-alias: Aarakocra
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -16,7 +18,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Aarakocra
-IMAGE: token/aarakocra.webp
 ---
 # [Aarakocra](3-Mechanics\CLI\bestiary\humanoid/aarakocra.md)
 *Source: Monster Manual p. 12*  

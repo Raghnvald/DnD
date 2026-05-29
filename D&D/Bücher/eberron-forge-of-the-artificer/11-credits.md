@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/efa
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Eberron: Forge of the Artificer* 

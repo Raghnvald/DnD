@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Human (Amonkhet)
+linter-yaml-title-alias: Human (Amonkhet)
 tags:
   - Quelle/5e/psa
   - Rasse/human/amonkhet
 aliases:
   - "Human (Amonkhet)"
+  - Human (Amonkhet)
 ---
 # Human (Amonkhet)
 *Source: Plane Shift: Amonkhet p. 14*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Fighter
+linter-yaml-title-alias: Fighter
 tags:
   - Klasse/Kämpfer
   - Quelle/5e/phb
 aliases:
   - Fighter
-linter-yaml-title-alias: Fighter
 ---
 # Fighter
 *Source: Player's Handbook p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

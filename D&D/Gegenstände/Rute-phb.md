@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Rute
 Kategorie: Fokus, Arkan
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 1,0 kg
+status: completed
+linter-yaml-title-alias: Rute
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Rod
   - Rute
-linter-yaml-title-alias: Rute
 ---
 # Rute
 *Zauberfokus*  

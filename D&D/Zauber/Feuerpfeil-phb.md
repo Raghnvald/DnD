@@ -7,6 +7,13 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: Fernkampf
 Schaden: 1d10 Feuer
+linter-yaml-title-alias: Feuerpfeil
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -19,15 +26,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
+  - Feuerpfeil
   - Fire Bolt
-linter-yaml-title-alias: Feuerpfeil
 ---
 # Feuerpfeil
 *Zaubertrick der Hervorrufung*  

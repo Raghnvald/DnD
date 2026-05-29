@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Moonbeam
+linter-yaml-title-alias: Moonbeam
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Twilight Domain)
+  - Druid
+  - Druid (Circle of the Moon)
+  - Paladin (Oath of the Ancients)
+  - Paladin (Oath of the Watchers)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,17 +20,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Twilight Domain)
-  - Druid
-  - Druid (Circle of the Moon)
-  - Paladin (Oath of the Ancients)
-  - Paladin (Oath of the Watchers)
 aliases:
   - Moonbeam
-linter-yaml-title-alias: Moonbeam
 ---
 # Moonbeam
 *2nd-level, Evocation*  

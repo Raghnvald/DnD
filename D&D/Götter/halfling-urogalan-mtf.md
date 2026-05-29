@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urogalan
+linter-yaml-title-alias: Urogalan
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave

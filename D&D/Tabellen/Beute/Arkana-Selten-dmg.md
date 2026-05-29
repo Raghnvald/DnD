@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Arkana - Selten
+linter-yaml-title-alias: Arkana - Selten
 tags:
   - Quelle/5e/xdmg
 aliases:
   - Arcana - Rare
+  - Arkana - Selten
 ---
 # Arkana - Selten
 *Source: Dungeon Master's Guide (2024) p. 326* 

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Elixir of Health
 Kategorie: Trank
+linter-yaml-title-alias: Elixir of Health
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Elixir of Health
-linter-yaml-title-alias: Elixir of Health
 ---
 # Elixir of Health
 *Potion, minor, rare*  

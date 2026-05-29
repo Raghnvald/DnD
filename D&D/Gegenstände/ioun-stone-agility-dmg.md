@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Agility
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Agility
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Agility
-linter-yaml-title-alias: Ioun Stone, Agility
 ---
 # Ioun Stone, Agility
 *Wondrous item, major, very rare (requires attunement)*  

@@ -5,6 +5,7 @@ Bezeichnung: Black Guard Drake
 Kategorie: Drache
 Größe: Mittelgroß
 HG: 2
+linter-yaml-title-alias: Black Guard Drake
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -14,7 +15,6 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Black Guard Drake
-linter-yaml-title-alias: Black Guard Drake
 ---
 # [Black Guard Drake](3-Mechanics\CLI\bestiary\dragon/black-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

@@ -7,6 +7,18 @@ Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Alarm
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Watchers)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Clockwork Sorcery)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -27,20 +39,8 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Ritual
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Watchers)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Clockwork Sorcery)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Alarm
-linter-yaml-title-alias: Alarm
 ---
 # Alarm
 *Bann des 1. Grades (Ritual)*  

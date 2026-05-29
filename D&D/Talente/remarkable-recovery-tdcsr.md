@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Remarkable Recovery
+linter-yaml-title-alias: Remarkable Recovery
 tags:
   - Kompendium/Talent
   - Quelle/5e/tdcsr

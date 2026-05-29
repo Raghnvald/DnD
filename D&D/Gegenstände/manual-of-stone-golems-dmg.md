@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Stone Golems
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Stone Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Stone Golems
-linter-yaml-title-alias: Manual of Stone Golems
 ---
 # Manual of Stone Golems
 *Wondrous item, major, very rare*  

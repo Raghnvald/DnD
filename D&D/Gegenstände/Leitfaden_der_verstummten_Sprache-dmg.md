@@ -1,26 +1,28 @@
 ---
-Bezeichnung: Tome of the Stilled Tongue
+Bezeichnung: Leitfaden der verstummten Sprache
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Leitfaden der verstummten Sprache
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Tome of the Stilled Tongue
-linter-yaml-title-alias: Tome of the Stilled Tongue
+  - Leitfaden der verstummten Sprache
 ---
-# Tome of the Stilled Tongue
-*Wondrous item, major, legendary (requires attunement by a wizard)*  
+# Leitfaden der verstummten Sprache
+*Wundersamer Gegenstand, legendär (benötigt Einstimmung durch einen Magier*  
 
-- **Weight**: 5.0 lbs.
+- **Gewicht**: 2,5 kg.
 
-This thick leather-bound volume has a desiccated tongue pinned to the front cover. Five of these tomes exist, and it's unknown which one is the original. The grisly cover decoration on the first tome of the stilled tongue once belonged to a treacherous former servant of the lich-god Vecna, keeper of secrets. The tongues pinned to the covers of the four copies came from other spellcasters who crossed Vecna. The first few pages of each tome are filled with indecipherable scrawls. The remaining pages are blank and pristine.
+Dieses dicke, in Leder gebundene Buch hat eine vertrocknete Zunge auf dem Einband kleben. Fünf dieser Leitfäden existieren und es ist nicht bekannt, welches das Original ist. Die grausige Dekoration auf dem ersten Leitfaden der verstummten Sprache gehörte einst einem treulosen ehemaligen Diener des Lich-Gottes Vecna, Hüter der Geheimnisse. Die Zungen, die auf den vier Einbänden der vier Kopien angebracht sind, gehörten anderen Zauberwirkern, die Vecna begegneten. Die ersten paar Seiten des Leitfadens sind gefüllt mit unentzifferbarem Geschmiere. Die restlichen Seiten sind leer und unberührt.
 
-If you can attune to this item, you can use it as a spellbook and an arcane focus. In addition, while holding the tome, you can use a bonus action to cast a spell you have written in this tome, without expending a spell slot or using any verbal or somatic component. Once used, this property of the tome can't be used again until the next dawn.
+Wenn du dich auf diesen Gegenstand einstimmen kannst, kannst du ihn als Zauberbuch und als Arkanen Fokus benutzen. Zusätzlich kannst du eine Bonusaktion verwenden, während du den Leitfaden hältst, um einen Zauber, den du ins Buch geschrieben hast, zu wirken, ohne einen Zauberplatz zu verbrauchen oder verbale oder Gestenkomponenten benutzen zu müssen.
 
-While attuned to the book, you can remove the tongue from the book's cover. If you do so, all spells written in the book are permanently erased.
+Einmal benutzt, kann diese Eigenschaft des Leitfadens bis zur nächsten Morgendämmerung nicht erneut verwendet werden.
 
-Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read.
+Während du auf das Buch eingestimmt bist, kannst du die Zunge vom Buchdeckel ablösen. Wenn du das machst, bewirkt es, dass alle in das Buch geschriebene Zauber endgültig ausgelöscht werden.
 
-*Source: Dungeon Master's Guide p. 208*
+Vecna beobachtet jeden, der den Leitfaden benutzt. Er kann außerdem kryptische Nachrichten in das Buch schreiben. Diese Nachrichten erscheinen um Mitternacht und verschwinden, wenn sie gelesen wurden.
+
+*Quelle: Spielleiterhandbuch S. 172*

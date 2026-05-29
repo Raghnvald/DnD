@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Gigantisch
 HG: 13
 status: WIP
+linter-yaml-title-alias: Neothelid
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Unterreich

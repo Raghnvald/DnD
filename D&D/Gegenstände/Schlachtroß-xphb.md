@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Warhorse
+linter-yaml-title-alias: Warhorse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Warhorse
-linter-yaml-title-alias: Warhorse
 ---
 # Warhorse
 *Mount*  

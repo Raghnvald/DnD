@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Villains
+linter-yaml-title-alias: Guild Villains
 tags:
   - Quelle/5e/ggr
 aliases:

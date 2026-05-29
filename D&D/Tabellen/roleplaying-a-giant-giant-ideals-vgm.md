@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Giant; Giant Ideals
+linter-yaml-title-alias: Roleplaying a Giant; Giant Ideals
 tags:
   - Quelle/5e/vgm
 aliases:

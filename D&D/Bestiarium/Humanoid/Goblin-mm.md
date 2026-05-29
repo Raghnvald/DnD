@@ -9,6 +9,7 @@ Habitat:
   - Stadt
 image: token/goblin.webp
 status: WIP
+linter-yaml-title-alias: Goblin
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Grasland

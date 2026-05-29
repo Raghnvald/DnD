@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Stars
+linter-yaml-title-alias: Circle of the Stars
 tags:
   - Klasse/Druide/stars
   - Quelle/5e/xphb

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Rope of Entanglement
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Rope of Entanglement
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Rope of Entanglement
-linter-yaml-title-alias: Rope of Entanglement
 ---
 # Rope of Entanglement
 *Wondrous item, major, rare*  

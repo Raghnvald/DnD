@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sheep
+linter-yaml-title-alias: Sheep
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Sheep
-linter-yaml-title-alias: Sheep
 ---
 # Sheep
 *Trade good*  

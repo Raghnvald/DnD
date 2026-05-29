@@ -2,20 +2,21 @@
 Bezeichnung: Drachenschuppen-Panzer
 Kategorie: Rüstung
 Rüstung: Mittel
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 20,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: Nachteil
+linter-yaml-title-alias: Drachenschuppen-Panzer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Dragon Scale Mail
-linter-yaml-title-alias: Dragon Scale Mail
+  - Drachenschuppen-Panzer
 ---
 # Drachenschuppen-Panzer
 *Rüstung ([[Schuppenpanzer-phb|Schuppenpanzer]]), sehr selten (erfordert Einstimmung)*  

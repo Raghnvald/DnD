@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bucket
+linter-yaml-title-alias: Bucket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bucket
-linter-yaml-title-alias: Bucket
 ---
 # Bucket
 *Adventuring gear*  

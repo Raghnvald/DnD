@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Moonstone Dragon Wyrmling Connections
+linter-yaml-title-alias: Connected Creatures; Moonstone Dragon Wyrmling Connections
 tags:
   - Quelle/5e/ftd
 aliases:

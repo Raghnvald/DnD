@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fenthras (Dormant)
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Fenthras (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Fenthras (Dormant)
-linter-yaml-title-alias: Fenthras (Dormant)
 ---
 # Fenthras (Dormant)
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow-xphb.md)), legendary (requires attunement)*  

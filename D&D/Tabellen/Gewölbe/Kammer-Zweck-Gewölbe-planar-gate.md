@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Planar Gate"
+linter-yaml-title-alias: "Chamber Purpose; Dungeon: Planar Gate"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Chamber Purpose; Dungeon: Planar Gate"
   - Chamber Purpose; Dungeon: Planar Gate
 ---
 # Chamber Purpose; Dungeon: Planar Gate

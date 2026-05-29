@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghostly Gaze
+linter-yaml-title-alias: Ghostly Gaze
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

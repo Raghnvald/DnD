@@ -5,9 +5,11 @@ Bezeichnung: Jerot Galgin
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 9
-Habitat: /
+Habitat:
+  - /
 image: token/jerot-galgin-veor.webp
 status: WIP
+linter-yaml-title-alias: Jerot Galgin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Jerot Galgin
-linter-yaml-title-alias: Jerot Galgin
 ---
 # Jerot Galgin
 *Quelle: Vecna: Vorabend der Verdammnis*  

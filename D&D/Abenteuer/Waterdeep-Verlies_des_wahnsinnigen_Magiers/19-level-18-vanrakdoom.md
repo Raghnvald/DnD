@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 18: Vanrakdoom"
+linter-yaml-title-alias: "Level 18: Vanrakdoom"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 18: Vanrakdoom"
   - Level 18: Vanrakdoom
 ---
 # Level 18: Vanrakdoom

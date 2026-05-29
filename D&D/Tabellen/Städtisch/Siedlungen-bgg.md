@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlements
+linter-yaml-title-alias: Settlements
 tags:
   - Quelle/5e/bgg
 aliases:

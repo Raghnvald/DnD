@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände kaufen; Magische Gegenstände kaufen
+linter-yaml-title-alias: Magische Gegenstände kaufen; Magische Gegenstände kaufen
 tags:
   - Quelle/5e/xge
 aliases:
   - Buying a Magic Item; Buying Magic Items
+  - Magische Gegenstände kaufen; Magische Gegenstände kaufen
 ---
 # Magische Gegenstände kaufen; Magische Gegenstände kaufen
 *Quelle: Xanathars Ratgeber für Alles S. 126* 

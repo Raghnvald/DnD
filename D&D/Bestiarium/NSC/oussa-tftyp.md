@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oussa
+linter-yaml-title-alias: Oussa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Oussa
-linter-yaml-title-alias: Oussa
 ---
 # [Oussa](3-Mechanics\CLI\bestiary\npc/oussa-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

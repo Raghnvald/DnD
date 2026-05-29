@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thrown Arms Master
+linter-yaml-title-alias: Thrown Arms Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/tdcsr

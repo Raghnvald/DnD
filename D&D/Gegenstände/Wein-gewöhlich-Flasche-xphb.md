@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Common Wine (bottle)
+linter-yaml-title-alias: Common Wine (bottle)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Common Wine (bottle)
-linter-yaml-title-alias: Common Wine (bottle)
 ---
 # Common Wine (bottle)
 *Food and drink*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Prince Kirina
+linter-yaml-title-alias: Prince Kirina
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Prince Kirina
-linter-yaml-title-alias: Prince Kirina
 ---
 # [Prince Kirina](3-Mechanics\CLI\bestiary\npc/prince-kirina-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 94*  

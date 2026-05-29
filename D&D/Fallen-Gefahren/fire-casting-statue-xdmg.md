@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire-Casting Statue
+linter-yaml-title-alias: Fire-Casting Statue
 tags:
   - Kompendium/Bedrohung/trp
   - Quelle/5e/xdmg

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Crowbar
+linter-yaml-title-alias: Crowbar
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Crowbar
-linter-yaml-title-alias: Crowbar
 ---
 # Crowbar
 *Adventuring gear*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cyrus Belview
+linter-yaml-title-alias: Cyrus Belview
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Cyrus Belview
-linter-yaml-title-alias: Cyrus Belview
 ---
 # Cyrus Belview
 *Source: Curse of Strahd p. 77*  

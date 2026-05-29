@@ -1,15 +1,15 @@
 ---
 Bezeichnung: Hail of Thorns
+linter-yaml-title-alias: Hail of Thorns
+classes:
+  - Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Ranger
 aliases:
   - Hail of Thorns
-linter-yaml-title-alias: Hail of Thorns
 ---
 # Hail of Thorns
 *1st-level, Conjuration*  

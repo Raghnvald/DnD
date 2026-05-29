@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Eisen
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 SM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Eisen
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Iron
-linter-yaml-title-alias: Iron
+  - Eisen
 ---
 # Eisen
 *Handelsgut*  

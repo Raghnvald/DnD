@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Genasi (Fire)
+linter-yaml-title-alias: Spells for Genasi (Fire)
 tags:
   - Zauber/list/subrace/genasi-fire
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Elemental Cataclysm)
+linter-yaml-title-alias: Scroll of Titan Summoning (Elemental Cataclysm)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning (Elemental Cataclysm)
-linter-yaml-title-alias: Scroll of Titan Summoning (Elemental Cataclysm)
 ---
 # Scroll of Titan Summoning (Elemental Cataclysm)
 *Scroll, legendary*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shemshime
+linter-yaml-title-alias: Shemshime
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Shemshime
-linter-yaml-title-alias: Shemshime
 ---
 # [Shemshime](3-Mechanics\CLI\bestiary\npc/shemshime-cm.md)
 *Source: Candlekeep Mysteries p. 69*  

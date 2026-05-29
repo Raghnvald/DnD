@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Onyx Dog
+linter-yaml-title-alias: Figurine of Wondrous Power, Onyx Dog
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Figurine of Wondrous Power, Onyx Dog
-linter-yaml-title-alias: Figurine of Wondrous Power, Onyx Dog
 ---
 # Figurine of Wondrous Power, Onyx Dog
 *Wondrous item, rare*  

@@ -7,15 +7,16 @@ Größe: Mittelgroß
 HG: "5"
 Habitat:
   - /
+Image: token/ammalia-cassalanter-wdh.webp
 status: WIP
+linter-yaml-title-alias: Ammalia Cassalanter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Ammalia Cassalanter
-linter-yaml-title-alias: Ammalia Cassalanter
 ---
 # [Ammalia Cassalanter](3-Mechanics\CLI\bestiary\npc/ammalia-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 193*  

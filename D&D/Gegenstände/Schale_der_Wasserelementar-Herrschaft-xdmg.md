@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Bowl of Commanding Water Elementals
+linter-yaml-title-alias: Bowl of Commanding Water Elementals
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Bowl of Commanding Water Elementals
-linter-yaml-title-alias: Bowl of Commanding Water Elementals
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous item, rare*  

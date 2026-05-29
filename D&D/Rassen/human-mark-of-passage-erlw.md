@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human (Mark of Passage)
+linter-yaml-title-alias: Human (Mark of Passage)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-passage

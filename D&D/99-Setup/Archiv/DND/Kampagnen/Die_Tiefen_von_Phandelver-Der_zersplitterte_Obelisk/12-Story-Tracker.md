@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Story Tracker
+linter-yaml-title-alias: Story Tracker
 tags:
   - Quelle/5e/pabtso
 aliases:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Special Purpose; Sentient Item's Communication"
+linter-yaml-title-alias: "Special Purpose; Sentient Item's Communication"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Special Purpose; Sentient Item's Communication"
   - Special Purpose; Sentient Item's Communication
 ---
 # Special Purpose; Sentient Item's Communication

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Dust of Dryness
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Dust of Dryness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Dust of Dryness
-linter-yaml-title-alias: Dust of Dryness
 ---
 # Dust of Dryness
 *Wondrous item, minor, uncommon*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Abjurer Wizard
+linter-yaml-title-alias: Abjurer Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Research Outcomes
+linter-yaml-title-alias: Research Outcomes
 tags:
   - Quelle/5e/xge
 aliases:

@@ -2,10 +2,15 @@
 Bezeichnung: Dolch der Verweigerung
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W4 Stich
-Eigenschaften: Finesse, Leicht, Wurfwaffe
+Eigenschaften:
+  - erfordert Einstimmung
+  - Finesse
+  - Leicht
+  - Wurfwaffe
 Einstimmung: erfordert
 Kst.: /
 Gew.: 0,5 kg
+linter-yaml-title-alias: Dolch der Verweigerung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -14,7 +19,7 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Dagger of Denial
-linter-yaml-title-alias: Dolch der Verweigerung
+  - Dolch der Verweigerung
 ---
 # Dolch der Verweigerung
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare (requires attunement)*  

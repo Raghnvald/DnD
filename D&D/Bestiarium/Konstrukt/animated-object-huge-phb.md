@@ -8,6 +8,7 @@ HG: /
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Object (Huge)
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/

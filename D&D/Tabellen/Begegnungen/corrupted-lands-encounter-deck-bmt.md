@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Corrupted Lands Encounter Deck
+linter-yaml-title-alias: Corrupted Lands Encounter Deck
 tags:
   - Quelle/5e/bmt
 aliases:

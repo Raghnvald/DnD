@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix E: The Tarokka Deck"
+linter-yaml-title-alias: "Appendix E: The Tarokka Deck"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Appendix E: The Tarokka Deck"
   - Appendix E: The Tarokka Deck
 ---
 # Appendix E: The Tarokka Deck

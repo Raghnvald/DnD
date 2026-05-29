@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Vicious Mockery
+linter-yaml-title-alias: Charm of Vicious Mockery
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Knight of the Order
+linter-yaml-title-alias: Knight of the Order
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

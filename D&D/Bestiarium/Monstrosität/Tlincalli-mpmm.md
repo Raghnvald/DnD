@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tlincalli
+linter-yaml-title-alias: Tlincalli
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

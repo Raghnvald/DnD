@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fluch
+linter-yaml-title-alias: Fluch
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Bestow Curse
+  - Fluch
 ---
 # Fluch
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Nekromantiezauber.webp#token)

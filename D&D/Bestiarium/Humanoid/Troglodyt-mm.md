@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Troglodyte
+linter-yaml-title-alias: Troglodyte
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

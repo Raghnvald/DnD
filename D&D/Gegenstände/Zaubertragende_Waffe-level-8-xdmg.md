@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 8)
+linter-yaml-title-alias: Enspelled Weapon (Level 8)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Enspelled (Level 8) Wooden Staff
   - Enspelled (Level 8) Yklwa
   - Enspelled Weapon (Level 8)
-linter-yaml-title-alias: Enspelled Weapon (Level 8)
 ---
 # Enspelled Weapon (Level 8)
 *Legendary (requires attunement)*  

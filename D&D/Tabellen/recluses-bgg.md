@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Recluses
+linter-yaml-title-alias: Recluses
 tags:
   - Quelle/5e/bgg
 aliases:

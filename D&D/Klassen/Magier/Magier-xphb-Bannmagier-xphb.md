@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Abjurer
+linter-yaml-title-alias: Abjurer
 tags:
   - Klasse/Magier/abjurer
   - Quelle/5e/xphb

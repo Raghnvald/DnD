@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Storm Giants
+linter-yaml-title-alias: Giants by Kind; Storm Giants
 tags:
   - Quelle/5e/bgg
 aliases:

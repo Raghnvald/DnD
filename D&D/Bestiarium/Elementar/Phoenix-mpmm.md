@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phoenix
+linter-yaml-title-alias: Phoenix
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Berg

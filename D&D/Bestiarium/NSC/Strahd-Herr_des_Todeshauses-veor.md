@@ -5,9 +5,11 @@ Bezeichnung: Strahd, Master of Death House
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 15
-Habitat: /
+Habitat:
+  - /
 image: token/strahd-master-of-death-house-veor.webp
 status: WIP
+linter-yaml-title-alias: Strahd, Master of Death House
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -16,7 +18,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Strahd, Master of Death House
-linter-yaml-title-alias: Strahd, Master of Death House
 ---
 # Strahd, Master of Death House
 *Quelle: Vecna: Vorabend der Verdammnis S. 250*  

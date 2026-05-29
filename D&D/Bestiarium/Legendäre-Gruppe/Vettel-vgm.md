@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hag
+linter-yaml-title-alias: Hag
 tags:
   - Monster/legendary-group
   - Quelle/5e/vgm

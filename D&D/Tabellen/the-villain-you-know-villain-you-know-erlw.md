@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Villain You Know; Villain You Know
+linter-yaml-title-alias: The Villain You Know; Villain You Know
 tags:
   - Quelle/5e/erlw
 aliases:

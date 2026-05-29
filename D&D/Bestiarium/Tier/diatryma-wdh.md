@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Diatryma
+linter-yaml-title-alias: Diatryma
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-4

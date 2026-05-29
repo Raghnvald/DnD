@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beguiling Arrow
+linter-yaml-title-alias: Beguiling Arrow
 tags:
   - Kompendium/Optionales/as
   - Quelle/5e/xge

@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Faerie Fire
+linter-yaml-title-alias: Faerie Fire
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Light Domain)
+  - Cleric (Twilight Domain)
+  - Druid
+  - Ranger (Swarmkeeper)
+  - Warlock (Archfey Patron)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -16,18 +26,8 @@ tags:
   - Subklasse/swarmkeeper
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Light Domain)
-  - Cleric (Twilight Domain)
-  - Druid
-  - Ranger (Swarmkeeper)
-  - Warlock (Archfey Patron)
 aliases:
   - Faerie Fire
-linter-yaml-title-alias: Faerie Fire
 ---
 # Faerie Fire
 *1st-level, Evocation*  

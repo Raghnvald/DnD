@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warlord; Relationships and Adventures
+linter-yaml-title-alias: Warlord; Relationships and Adventures
 tags:
   - Quelle/5e/ftd
 aliases:

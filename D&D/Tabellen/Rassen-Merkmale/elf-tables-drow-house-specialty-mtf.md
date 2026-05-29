@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf Tables; Drow House Specialty
+linter-yaml-title-alias: Elf Tables; Drow House Specialty
 tags:
   - Quelle/5e/mtf
 aliases:

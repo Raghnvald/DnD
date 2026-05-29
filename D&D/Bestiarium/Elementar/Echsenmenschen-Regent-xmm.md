@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Sovereign
+linter-yaml-title-alias: Lizardfolk Sovereign
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

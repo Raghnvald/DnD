@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Khirad, the Star of Secrets
+linter-yaml-title-alias: Dark Gift of Khirad, the Star of Secrets
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

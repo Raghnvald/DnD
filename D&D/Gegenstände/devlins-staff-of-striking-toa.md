@@ -1,13 +1,18 @@
 ---
 Bezeichnung: "Devlin's Staff of Striking"
+Eigenschaften:
+  - erfordert Einstimmung
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: "Devlin's Staff of Striking"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/toa
 aliases:
-  - Devlin's Staff of Striking
-linter-yaml-title-alias: Devlin's Staff of Striking
+  - "Devlin's Staff of Striking"
 ---
 # Devlin's Staff of Striking
 *Staff, weapon, cursed item, very rare (requires attunement)*  

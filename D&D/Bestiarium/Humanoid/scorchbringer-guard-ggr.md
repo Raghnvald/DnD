@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scorchbringer Guard
+linter-yaml-title-alias: Scorchbringer Guard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

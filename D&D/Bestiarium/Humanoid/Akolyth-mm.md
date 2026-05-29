@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
+image: token/acolyte.webp
 status: WIP
+linter-yaml-title-alias: Acolyte
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

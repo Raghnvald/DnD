@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Blessing of the Frostmaiden
+linter-yaml-title-alias: Spells for Blessing of the Frostmaiden
 tags:
   - ttrpg-cli/spell/list/reward/blessing-of-the-frostmaiden
 aliases:
   - "Spells for Blessing of the Frostmaiden"
+  - Spells for Blessing of the Frostmaiden
 ---
 # Spells for Blessing of the Frostmaiden
 

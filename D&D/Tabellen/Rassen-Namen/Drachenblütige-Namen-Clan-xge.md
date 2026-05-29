@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn Names – Clan
+linter-yaml-title-alias: Dragonborn Names – Clan
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 7: The Lost Library of Lethchauntos"
+linter-yaml-title-alias: "Chapter 7: The Lost Library of Lethchauntos"
 tags:
   - Quelle/5e/fraif
 aliases:

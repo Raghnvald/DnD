@@ -6,18 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Druidenhain
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xge
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Druid
 aliases:
-  - Druid Grove
-linter-yaml-title-alias: Druid Grove
+  - Druidenhain
 ---
 # Druidenhain
 *Bann des 6. Grades* 

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Longbow of the Healing Hearth
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Longbow of the Healing Hearth
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Longbow of the Healing Hearth
-linter-yaml-title-alias: Longbow of the Healing Hearth
 ---
 # Longbow of the Healing Hearth
 *Weapon (longbow), legendary (requires attunement)*  

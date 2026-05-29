@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Helm of Comprehending Languages
+linter-yaml-title-alias: Helm of Comprehending Languages
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Helm of Comprehending Languages
-linter-yaml-title-alias: Helm of Comprehending Languages
 ---
 # Helm of Comprehending Languages
 *Wondrous item, minor, uncommon*  

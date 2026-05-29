@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Scarab of Protection
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Scarab of Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Scarab of Protection
-linter-yaml-title-alias: Scarab of Protection
 ---
 # Scarab of Protection
 *Wondrous item, major, legendary (requires attunement)*  

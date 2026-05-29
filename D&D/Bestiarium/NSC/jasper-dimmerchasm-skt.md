@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jasper Dimmerchasm
+linter-yaml-title-alias: Jasper Dimmerchasm
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Jasper Dimmerchasm
-linter-yaml-title-alias: Jasper Dimmerchasm
 ---
 # [Jasper Dimmerchasm](3-Mechanics\CLI\bestiary\npc/jasper-dimmerchasm-skt.md)
 *Source: Storm King's Thunder p. 184*  

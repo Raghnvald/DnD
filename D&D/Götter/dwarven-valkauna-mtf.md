@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valkauna
+linter-yaml-title-alias: Valkauna
 tags:
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/life

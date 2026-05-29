@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 8)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 40.000 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 8)
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (8th Level)
   - Zauberschriftrolle (Zaubergrad 8)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 8)
 ---
 # Zauberschriftrolle (Zaubergrad 8)
 *Schriftrolle, sehr selten*  

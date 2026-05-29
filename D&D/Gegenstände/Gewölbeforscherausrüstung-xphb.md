@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Dungeoneer's Pack"
+linter-yaml-title-alias: "Dungeoneer's Pack"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Dungeoneer's Pack
-linter-yaml-title-alias: Dungeoneer's Pack
+  - "Dungeoneer's Pack"
 ---
 # Dungeoneer's Pack
 *Adventuring gear*  

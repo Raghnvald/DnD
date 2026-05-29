@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Serpent Venom
 Kategorie: Gift
+Kst.: 200 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Serpent Venom
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Serpent Venom
-linter-yaml-title-alias: Serpent Venom
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

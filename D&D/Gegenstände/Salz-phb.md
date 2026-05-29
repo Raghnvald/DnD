@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Salz
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 KM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Salz
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Salt
-linter-yaml-title-alias: Salt
+  - Salz
 ---
 # Salz
 *Handelsgut*  

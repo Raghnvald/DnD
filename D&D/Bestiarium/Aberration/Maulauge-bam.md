@@ -5,7 +5,9 @@ Bezeichnung: Eye Monger
 Kategorie: Aberration
 Größe: Groß
 HG: 10
+image: token/eye-monger-bam.webp
 status: WIP
+linter-yaml-title-alias: Eye Monger
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

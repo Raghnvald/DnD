@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Returning Weapon
+linter-yaml-title-alias: Returning Weapon
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

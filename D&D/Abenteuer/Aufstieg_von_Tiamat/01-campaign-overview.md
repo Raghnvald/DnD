@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Campaign Overview
+linter-yaml-title-alias: Campaign Overview
 tags:
   - Quelle/5e/rot
 aliases:

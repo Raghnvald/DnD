@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPCs by Guild
+linter-yaml-title-alias: NPCs by Guild
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Hellish Rebuke
+linter-yaml-title-alias: Charm of Hellish Rebuke
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bgdia

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 6
 status: WIP
+linter-yaml-title-alias: Core Spawn Emissary
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

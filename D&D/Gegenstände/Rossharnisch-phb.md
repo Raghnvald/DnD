@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Rossharnisch
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Rossharnisch
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Barding
   - Breastplate Barding
   - Chain Mail Barding
   - Chain Shirt Barding
@@ -19,11 +21,11 @@ aliases:
   - Padded Barding
   - Plate Barding
   - Ring Mail Barding
+  - Rossharnisch
   - Scale Mail Barding
   - Spiked Barding
   - Splint Barding
   - Studded Leather Barding
-linter-yaml-title-alias: Barding
 ---
 # Rossharnisch
 *Zaumzeug und Harnisch*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Underling
+linter-yaml-title-alias: Kobold Underling
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-8

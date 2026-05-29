@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trinket
+linter-yaml-title-alias: Trinket
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Trinket
-linter-yaml-title-alias: Trinket
 ---
 # [Trinket](3-Mechanics\CLI\bestiary\npc/trinket-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 266*  

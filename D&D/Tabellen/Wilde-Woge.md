@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Wilde Woge
+linter-yaml-title-alias: Wilde Woge
 tags:
   - Quelle/5e/tce
 aliases:
   - Wild Magic
+  - Wilde Woge
 ---
 # Wilde Woge
 *Source: SRD / Basic Rules* 

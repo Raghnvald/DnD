@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghast
+linter-yaml-title-alias: Ghast
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ghast
-linter-yaml-title-alias: Ghast
 ---
 # [Ghast](3-Mechanics\CLI\bestiary\undead/ghast-xmm.md)
 *Source: Monster Manual (2024) p. 130. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

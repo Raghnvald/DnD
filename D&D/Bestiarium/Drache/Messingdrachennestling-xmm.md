@@ -5,6 +5,7 @@ Bezeichnung: Brass Dragon Wyrmling
 Kategorie: Drache (Metallisch)
 Größe: Mittelgroß
 HG: 1
+linter-yaml-title-alias: Brass Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wüste
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Brass Dragon Wyrmling
-linter-yaml-title-alias: Brass Dragon Wyrmling
 ---
 # [Brass Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/brass-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

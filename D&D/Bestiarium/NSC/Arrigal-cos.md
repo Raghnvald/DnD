@@ -5,14 +5,14 @@ Bezeichnung: Arrigal
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Arrigal
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Arrigal
-linter-yaml-title-alias: Arrigal
 ---
 # Arrigal
 *Source: Curse of Strahd p. 121*  

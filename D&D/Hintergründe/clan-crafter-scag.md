@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clan Crafter
+linter-yaml-title-alias: Clan Crafter
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hazard
+linter-yaml-title-alias: Hazard
 tags:
   - Quelle/5e/xphb
 aliases:

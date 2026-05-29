@@ -5,6 +5,7 @@ Bezeichnung: Ashen Heir Veteran
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ashen Heir Veteran
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

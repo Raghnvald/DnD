@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Clairvoyance
+linter-yaml-title-alias: Clairvoyance
+classes:
+  - Barbarian (Path of the Ancestral Guardian)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Great Old One Patron)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,21 +28,8 @@ tags:
   - Subklasse/path-of-the-ancestral-guardian
   - Zauber/Grad/3
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Ancestral Guardian)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Great Old One Patron)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Clairvoyance
-linter-yaml-title-alias: Clairvoyance
 ---
 # Clairvoyance
 *3rd-level, Divination*  

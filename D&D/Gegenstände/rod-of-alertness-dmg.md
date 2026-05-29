@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of Alertness
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of Alertness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rod of Alertness
-linter-yaml-title-alias: Rod of Alertness
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  

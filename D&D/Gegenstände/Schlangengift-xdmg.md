@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Serpent Venom
+linter-yaml-title-alias: Serpent Venom
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Serpent Venom
-linter-yaml-title-alias: Serpent Venom
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

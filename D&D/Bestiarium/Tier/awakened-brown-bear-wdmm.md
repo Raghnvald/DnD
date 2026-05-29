@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awakened Brown Bear
+linter-yaml-title-alias: Awakened Brown Bear
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Smoldering Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Smoldering Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -22,7 +23,6 @@ aliases:
   - Smoldering Scale Mail
   - Smoldering Splint Armor
   - Smoldering Studded Leather Armor
-linter-yaml-title-alias: Smoldering Armor
 ---
 # Smoldering Armor
 *Common*  

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Tierbote
 Zaubergrad: 2
+linter-yaml-title-alias: Tierbote
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,12 +14,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Ranger
 aliases:
   - Animal Messenger
+  - Tierbote
 ---
 # Tierbote
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

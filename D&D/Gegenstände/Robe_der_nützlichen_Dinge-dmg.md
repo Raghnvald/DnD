@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Robe of Useful Items
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Robe of Useful Items
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Robe of Useful Items
-linter-yaml-title-alias: Robe of Useful Items
 ---
 # Robe of Useful Items
 *Wondrous item, minor, uncommon*  

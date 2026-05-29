@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Lifewell Tattoo
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Lifewell Tattoo
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Lifewell Tattoo
-linter-yaml-title-alias: Lifewell Tattoo
 ---
 # Lifewell Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

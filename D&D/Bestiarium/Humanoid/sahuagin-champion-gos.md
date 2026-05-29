@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Champion
+linter-yaml-title-alias: Sahuagin Champion
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

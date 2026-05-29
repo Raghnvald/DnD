@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Fount of Moonlight
+linter-yaml-title-alias: Fount of Moonlight
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of the Moon)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Druid
-  - Druid (Circle of the Moon)
 aliases:
   - Fount of Moonlight
-linter-yaml-title-alias: Fount of Moonlight
 ---
 # Fount of Moonlight
 *4th-level, Evocation*  

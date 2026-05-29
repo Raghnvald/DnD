@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poster Map
+linter-yaml-title-alias: Poster Map
 tags:
   - Quelle/5e/wdh
 aliases:

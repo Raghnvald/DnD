@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for College of Spirits
+linter-yaml-title-alias: Spells for College of Spirits
 tags:
   - Zauber/list/subclass/college-of-spirits
 aliases:

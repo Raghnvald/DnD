@@ -7,17 +7,17 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Vicious Mockery
+classes:
+  - Bard
 tags:
   - Klasse/Barde
   - Quelle/5e/xphb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
 aliases:
   - Vicious Mockery
-linter-yaml-title-alias: Vicious Mockery
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Half Plate Armor
 Rüstung: Mittel
+linter-yaml-title-alias: Half Plate Armor
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Half Plate Armor
-linter-yaml-title-alias: Half Plate Armor
 ---
 # Half Plate Armor
 *Medium armor*  

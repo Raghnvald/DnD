@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dao (Disguises)
+linter-yaml-title-alias: Dao (Disguises)
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

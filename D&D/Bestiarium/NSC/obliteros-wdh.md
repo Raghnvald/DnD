@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Obliteros
+linter-yaml-title-alias: Obliteros
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Obliteros
-linter-yaml-title-alias: Obliteros
 ---
 # [Obliteros](3-Mechanics\CLI\bestiary\npc/obliteros-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 66*  

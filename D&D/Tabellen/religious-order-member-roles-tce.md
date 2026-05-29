@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Religious Order Member Roles
+linter-yaml-title-alias: Religious Order Member Roles
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Bead of Refreshment
+linter-yaml-title-alias: Bead of Refreshment
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Bead of Refreshment
-linter-yaml-title-alias: Bead of Refreshment
 ---
 # Bead of Refreshment
 *Wondrous item, common*  

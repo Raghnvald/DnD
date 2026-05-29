@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Fragments of Suffering
+linter-yaml-title-alias: Fragments of Suffering
 tags:
   - Quelle/5e/crcotn
 aliases:
   - "Fragments of Suffering"
+  - Fragments of Suffering
 ---
 # Fragments of Suffering
 *Source: Critical Role: Call of the Netherdeep p. 218*  

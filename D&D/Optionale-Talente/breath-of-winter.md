@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Breath of Winter
+linter-yaml-title-alias: Breath of Winter
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

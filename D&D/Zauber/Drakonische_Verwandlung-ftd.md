@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Draconic Transformation
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,14 +21,8 @@ tags:
   - Quelle/5e/ftd
   - Zauber/Grad/7
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
   - Draconic Transformation
-linter-yaml-title-alias: Draconic Transformation
 ---
 # Draconic Transformation
 *7th-level, Transmutation*  

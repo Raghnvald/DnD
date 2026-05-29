@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Willifort Crowelle
+linter-yaml-title-alias: Willifort Crowelle
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Willifort Crowelle
-linter-yaml-title-alias: Willifort Crowelle
 ---
 # [Willifort Crowelle](3-Mechanics\CLI\bestiary\npc/willifort-crowelle-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 62*  

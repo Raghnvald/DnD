@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Tree"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Quaal's Feather Token, Tree"
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Quaal's Feather Token, Tree
-linter-yaml-title-alias: Quaal's Feather Token, Tree
+  - "Quaal's Feather Token, Tree"
 ---
 # Quaal's Feather Token, Tree
 *Wondrous item, minor, rare*  

@@ -5,6 +5,7 @@ Bezeichnung: Atash
 Kategorie: Celestisch
 Größe: Groß
 status: WIP
+linter-yaml-title-alias: Atash
 tags:
   - Monster/Größe/Groß
   - Monster/HG/21
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Atash
-linter-yaml-title-alias: Atash
 ---
 # [Atash](3-Mechanics\CLI\bestiary\npc/atash-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 166*  

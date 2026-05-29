@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Riding Saddle
+linter-yaml-title-alias: Riding Saddle
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Riding Saddle
-linter-yaml-title-alias: Riding Saddle
 ---
 # Riding Saddle
 *Tack and harness*  

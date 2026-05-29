@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Yuan-ti Pureblood
+linter-yaml-title-alias: Spells for Yuan-ti Pureblood
 tags:
   - ttrpg-cli/spell/list/race/yuan-ti-pureblood
 aliases:
   - "Spells for Yuan-ti Pureblood"
+  - Spells for Yuan-ti Pureblood
 ---
 # Spells for Yuan-ti Pureblood
 

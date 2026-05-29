@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell-Refueling Ring
+linter-yaml-title-alias: Spell-Refueling Ring
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

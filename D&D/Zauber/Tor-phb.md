@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Gate
 Zaubergrad: 9
+linter-yaml-title-alias: Gate
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Sorcerer
-  - Wizard
 aliases:
   - Gate
-linter-yaml-title-alias: Gate
 ---
 # Gate
 *9th-level, Conjuration*  

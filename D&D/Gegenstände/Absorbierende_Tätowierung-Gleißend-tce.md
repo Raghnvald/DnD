@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Gleißend-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Gleißend-Absorbierende Tätowierung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
-  - Radiant Absorbing Tattoo
-linter-yaml-title-alias: Radiant Absorbing Tattoo
-Status: completed
+  - Gleißend-Absorbierende Tätowierung
 ---
 # Gleißend-Absorbierende Tätowierung
 *Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Condemner (Awakened)
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Condemner (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Condemner (Awakened)
-linter-yaml-title-alias: Condemner (Awakened)
 ---
 # Condemner (Awakened)
 *Weapon ([heavy crossbow](/3-Mechanics/CLI/items/heavy-crossbow-xphb.md)), legendary (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Undying Court
+linter-yaml-title-alias: The Undying Court
 tags:
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/knowledge

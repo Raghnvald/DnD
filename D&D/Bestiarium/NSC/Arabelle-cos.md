@@ -5,14 +5,14 @@ Bezeichnung: Arabelle
 Kategorie: Humanoid
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Arabelle
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Arabelle
-linter-yaml-title-alias: Arabelle
 ---
 # Arabelle
 *Source: Curse of Strahd p. 38*  

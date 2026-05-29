@@ -1,7 +1,12 @@
 ---
 Bezeichnung: Mace of the Black Crown
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - erfordert Einstimmung
 Einstimmung: erfordert
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Mace of the Black Crown
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -10,7 +15,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Mace of the Black Crown
-linter-yaml-title-alias: Mace of the Black Crown
 ---
 # Mace of the Black Crown
 *Weapon ([mace](Streitkolben-xphb)), artifact (requires attunement)*  

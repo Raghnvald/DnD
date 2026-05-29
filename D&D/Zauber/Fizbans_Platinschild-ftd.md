@@ -1,6 +1,12 @@
 ---
 Bezeichnung: "Fizban's Platinum Shield"
 Zaubergrad: 6
+linter-yaml-title-alias: "Fizban's Platinum Shield"
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/abjurer
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
-  - Fizban's Platinum Shield
-linter-yaml-title-alias: Fizban's Platinum Shield
+  - "Fizban's Platinum Shield"
 ---
 # Fizban's Platinum Shield
 *6th-level, Abjuration*  

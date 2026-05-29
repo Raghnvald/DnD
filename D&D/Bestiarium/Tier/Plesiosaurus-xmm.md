@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Plesiosaurus
+linter-yaml-title-alias: Plesiosaurus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

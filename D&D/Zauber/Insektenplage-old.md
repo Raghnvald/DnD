@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Insect Plague
+linter-yaml-title-alias: Insect Plague
 tags:
   - Klasse/Druide
   - Klasse/Kleriker
@@ -9,7 +10,6 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Insect Plague
-linter-yaml-title-alias: Insect Plague
 ---
 # Insect Plague
 *5th-level, Conjuration*  

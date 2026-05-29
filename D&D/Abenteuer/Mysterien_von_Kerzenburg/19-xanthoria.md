@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Xanthoria
+linter-yaml-title-alias: Xanthoria
 tags:
   - Quelle/5e/cm
 aliases:

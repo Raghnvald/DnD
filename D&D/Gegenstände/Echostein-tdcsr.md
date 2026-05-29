@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Echo Stone
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Echo Stone
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/tdcsr
 aliases:
   - Echo Stone
-linter-yaml-title-alias: Echo Stone
 ---
 # Echo Stone
 *Wondrous item, uncommon*  

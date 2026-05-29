@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Creating Campaigns"
+linter-yaml-title-alias: "Chapter 5: Creating Campaigns"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Chapter 5: Creating Campaigns"
   - Chapter 5: Creating Campaigns
 ---
 # Chapter 5: Creating Campaigns

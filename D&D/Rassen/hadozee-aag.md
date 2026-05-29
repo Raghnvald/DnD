@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Hadozee
+linter-yaml-title-alias: Hadozee
 tags:
   - Quelle/5e/aag
   - Rasse/hadozee
 aliases:
   - "Hadozee"
+  - Hadozee
 ---
 # Hadozee
 *Source: Astral Adventurer's Guide p. 13*  

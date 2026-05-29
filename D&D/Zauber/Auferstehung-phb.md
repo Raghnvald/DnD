@@ -7,18 +7,19 @@ Komponenten: V, G, M
 Wirkungsdauer: unmittelbar
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Auferstehung
+classes:
+  - Barde (Magische Geheimnisse)
+  - Kleriker
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Nekromantie
-classes:
-  - Barde (Magische Geheimnisse)
-  - Kleriker
 aliases:
+  - Auferstehung
   - Resurrection
-linter-yaml-title-alias: Auferstehung
 ---
 # Auferstehung
 *Nekromantie des 7. Grades*

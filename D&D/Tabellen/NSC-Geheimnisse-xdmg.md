@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Secrets
+linter-yaml-title-alias: NPC Secrets
 tags:
   - Quelle/5e/xdmg
 aliases:

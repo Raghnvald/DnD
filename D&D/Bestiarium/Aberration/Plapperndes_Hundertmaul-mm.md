@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
 status: WIP
+linter-yaml-title-alias: Plapperndes Hundertmaul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
@@ -14,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Gibbering Mouther
+  - Plapperndes Hundertmaul
 ---
 # Plapperndes Hundertmaul
 *Source: Monster Manual p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Torm
+linter-yaml-title-alias: Torm
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/faerunian

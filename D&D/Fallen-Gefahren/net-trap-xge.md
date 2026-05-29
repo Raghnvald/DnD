@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Net Trap
+linter-yaml-title-alias: Net Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

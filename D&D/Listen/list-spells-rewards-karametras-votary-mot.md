@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Karametra's Votary"
+linter-yaml-title-alias: "Spells for Karametra's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/karametras-votary
 aliases:

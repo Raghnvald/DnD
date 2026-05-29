@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enchanted Springs; Enchanted Spring Effects
+linter-yaml-title-alias: Enchanted Springs; Enchanted Spring Effects
 tags:
   - Quelle/5e/tce
 aliases:

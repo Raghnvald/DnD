@@ -8,6 +8,7 @@ HG: "11"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Statue of Lolth
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11

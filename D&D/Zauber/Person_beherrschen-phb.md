@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Dominate Person
 Zaubergrad: 5
+linter-yaml-title-alias: Dominate Person
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Trickery Domain)
+  - Paladin (Oathbreaker)
+  - Sorcerer
+  - Warlock (The Archfey)
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/trickery-domain
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Trickery Domain)
-  - Paladin (Oathbreaker)
-  - Sorcerer
-  - Warlock (The Archfey)
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
   - Dominate Person
-linter-yaml-title-alias: Dominate Person
 ---
 # Dominate Person
 *5th-level, Enchantment*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maiar, Gott der Jagd
+linter-yaml-title-alias: Maiar, Gott der Jagd
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Natur
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Maiar
+  - Maiar, Gott der Jagd
 ---
 # Maiar, Gott der Jagd
 *Quelle: SRD / Grundregelwerk* 

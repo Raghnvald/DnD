@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Comprehension
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Comprehension
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/wdmm
 aliases:
   - Potion of Comprehension
-linter-yaml-title-alias: Potion of Comprehension
 ---
 # Potion of Comprehension
 *Potion, common*  

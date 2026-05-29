@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Potent Dragonmark
+linter-yaml-title-alias: Potent Dragonmark
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Potent Dragonmark"
+  - Potent Dragonmark
 ---
 # Potent Dragonmark
 *Source: Eberron: Forge of the Artificer p. 45*  

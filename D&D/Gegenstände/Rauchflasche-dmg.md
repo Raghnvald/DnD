@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Eversmoking Bottle
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Eversmoking Bottle
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Eversmoking Bottle
-linter-yaml-title-alias: Eversmoking Bottle
 ---
 # Eversmoking Bottle
 *Wondrous item, major, uncommon*  

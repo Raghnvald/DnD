@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animal Lord; Forager
+linter-yaml-title-alias: Animal Lord; Forager
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/beastlands

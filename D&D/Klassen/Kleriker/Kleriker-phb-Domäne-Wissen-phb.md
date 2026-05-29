@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Knowledge Domain
+linter-yaml-title-alias: Knowledge Domain
 tags:
   - Klasse/Kleriker/knowledge
   - Kompendium/Götter/Domäne/knowledge

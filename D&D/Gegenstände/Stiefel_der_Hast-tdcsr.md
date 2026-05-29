@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Boots of Haste
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Boots of Haste
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Boots of Haste
-linter-yaml-title-alias: Boots of Haste
 ---
 # Boots of Haste
 *Wondrous item, very rare (requires attunement)*  

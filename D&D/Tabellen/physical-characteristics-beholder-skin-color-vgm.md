@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Skin Color
+linter-yaml-title-alias: Physical Characteristics; Beholder Skin Color
 tags:
   - Quelle/5e/vgm
 aliases:

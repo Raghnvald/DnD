@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Backgrounds"
+linter-yaml-title-alias: "Appendix A: Backgrounds"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Appendix A: Backgrounds"
   - Appendix A: Backgrounds
 ---
 # Appendix A: Backgrounds

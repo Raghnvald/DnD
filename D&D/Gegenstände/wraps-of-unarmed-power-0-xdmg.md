@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Wraps of Unarmed Power
+linter-yaml-title-alias: Wraps of Unarmed Power
 tags:
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Wraps of Unarmed Power
-linter-yaml-title-alias: Wraps of Unarmed Power
 ---
 # Wraps of Unarmed Power
 *Wondrous item*  

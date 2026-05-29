@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction–A Collection of Heists
+linter-yaml-title-alias: Introduction–A Collection of Heists
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Introduction–A Collection of Heists"
+  - Introduction–A Collection of Heists
 ---
 # Introduction–A Collection of Heists
 *Source: Keys from the Golden Vault, p. 5* 

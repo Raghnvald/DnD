@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fortified Outpost Adventures
+linter-yaml-title-alias: Fortified Outpost Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

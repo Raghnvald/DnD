@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Weretiger
+linter-yaml-title-alias: Weretiger
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Grasland

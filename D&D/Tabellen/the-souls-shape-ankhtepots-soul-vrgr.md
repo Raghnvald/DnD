@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "The Soul's Shape; Ankhtepot's Soul"
+linter-yaml-title-alias: "The Soul's Shape; Ankhtepot's Soul"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "The Soul's Shape; Ankhtepot's Soul"
   - The Soul's Shape; Ankhtepot's Soul
 ---
 # The Soul's Shape; Ankhtepot's Soul

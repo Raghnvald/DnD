@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Human (Innistrad; Gavony)
+linter-yaml-title-alias: Human (Innistrad; Gavony)
 tags:
   - Quelle/5e/psi
   - Rasse/human/innistrad-gavony
 aliases:
   - "Human (Innistrad; Gavony)"
+  - Human (Innistrad; Gavony)
 ---
 # Human (Innistrad; Gavony)
 *Source: Plane Shift: Innistrad p. 8*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Flute
+linter-yaml-title-alias: Flute
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Flute
-linter-yaml-title-alias: Flute
 ---
 # Flute
 *Instrument*  

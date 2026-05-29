@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Trefferpunkte eines Gegenstands
+linter-yaml-title-alias: Trefferpunkte eines Gegenstands
 tags:
   - Quelle/5e/dmg
 aliases:
   - Object Hit Points
+  - Trefferpunkte eines Gegenstands
 ---
 # Trefferpunkte eines Gegenstands
 *Quelle: SRD / Grundregelwerk*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Dragon Hatchery"
+linter-yaml-title-alias: "Chapter 3: Dragon Hatchery"
 tags:
   - Quelle/5e/hotdq
 aliases:

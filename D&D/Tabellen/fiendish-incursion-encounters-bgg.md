@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiendish Incursion Encounters
+linter-yaml-title-alias: Fiendish Incursion Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

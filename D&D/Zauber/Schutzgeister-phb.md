@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <10 Min
 Angriff: WEI
 Schaden: 3d8
+linter-yaml-title-alias: Schutzgeister
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (War Domain)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -14,13 +19,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (War Domain)
 aliases:
-  - Spirit Guardians
-linter-yaml-title-alias: Spirit Guardians
+  - Schutzgeister
 ---
 # Schutzgeister
 *Beschwörung des 3. Grades*  

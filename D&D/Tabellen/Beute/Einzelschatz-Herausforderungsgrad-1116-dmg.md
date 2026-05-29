@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Einzelschatz: Herausforderungsgrad 11 - 16"
+linter-yaml-title-alias: "Einzelschatz: Herausforderungsgrad 11 - 16"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Einzelschatz: Herausforderungsgrad 11 - 16"
   - Individual Treasure: Challenge 11—16
 ---
 # Einzelschatz: Herausforderungsgrad 11 - 16

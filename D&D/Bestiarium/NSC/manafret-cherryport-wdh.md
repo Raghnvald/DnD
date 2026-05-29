@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manafret Cherryport
+linter-yaml-title-alias: Manafret Cherryport
 tags:
   - Monster/Größe/Klein
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Manafret Cherryport
-linter-yaml-title-alias: Manafret Cherryport
 ---
 # [Manafret Cherryport](3-Mechanics\CLI\bestiary\npc/manafret-cherryport-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 149*  

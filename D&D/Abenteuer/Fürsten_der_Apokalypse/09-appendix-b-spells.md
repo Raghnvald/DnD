@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Spells"
+linter-yaml-title-alias: "Appendix B: Spells"
 tags:
   - Quelle/5e/pota
 aliases:

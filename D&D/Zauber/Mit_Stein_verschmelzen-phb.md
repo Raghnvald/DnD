@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Meld into Stone
 Zaubergrad: 3
+linter-yaml-title-alias: Meld into Stone
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Druid (Circle of the Land, Mountain)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -10,14 +16,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Druid (Circle of the Land, Mountain)
 aliases:
   - Meld into Stone
-linter-yaml-title-alias: Meld into Stone
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

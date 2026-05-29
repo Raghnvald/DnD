@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Abilities
+linter-yaml-title-alias: NPC Abilities
 tags:
   - Quelle/5e/dmg
 aliases:

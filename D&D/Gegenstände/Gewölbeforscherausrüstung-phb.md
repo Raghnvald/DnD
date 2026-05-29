@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Gewölbeforscherausrüstung
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 12 GM
 Gew.: 30,0 kg
+status: WIP
+linter-yaml-title-alias: Gewölbeforscherausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Dungeoneer's Pack
-linter-yaml-title-alias: Dungeoneer's Pack
+  - Gewölbeforscherausrüstung
 ---
 # Gewölbeforscherausrüstung
 *Adventuring gear*  

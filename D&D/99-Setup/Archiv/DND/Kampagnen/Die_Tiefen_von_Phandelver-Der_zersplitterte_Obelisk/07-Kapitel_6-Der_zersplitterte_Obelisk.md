@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: The Shattered Obelisk"
+linter-yaml-title-alias: "Chapter 6: The Shattered Obelisk"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "Chapter 6: The Shattered Obelisk"
   - Chapter 6: The Shattered Obelisk
 ---
 # Chapter 6: The Shattered Obelisk

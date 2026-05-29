@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Icewind Dale"
+linter-yaml-title-alias: "Chapter 3: Icewind Dale"
 tags:
   - Quelle/5e/fraif
 aliases:

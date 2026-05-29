@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Piercing Arrow
+linter-yaml-title-alias: Piercing Arrow
 tags:
   - Kompendium/Optionales/as
   - Quelle/5e/xge

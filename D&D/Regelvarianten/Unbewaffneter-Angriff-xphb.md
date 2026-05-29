@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unarmed Strike
+linter-yaml-title-alias: Unarmed Strike
 tags:
   - Quelle/5e/xphb
 aliases:

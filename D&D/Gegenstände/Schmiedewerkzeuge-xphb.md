@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Smith's Tools"
+linter-yaml-title-alias: "Smith's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
 aliases:
   - "Smith's Tools"
   - Smith's Tools
-linter-yaml-title-alias: "Smith's Tools"
 ---
 # Smith's Tools
 *Artisan's tools*  

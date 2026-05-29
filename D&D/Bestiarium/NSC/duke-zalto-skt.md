@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duke Zalto
+linter-yaml-title-alias: Duke Zalto
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Duke Zalto
-linter-yaml-title-alias: Duke Zalto
 ---
 # [Duke Zalto](3-Mechanics\CLI\bestiary\npc/duke-zalto-skt.md)
 *Source: Storm King's Thunder p. 184*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Fireballs
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Fireballs
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Fireballs
-linter-yaml-title-alias: Wand of Fireballs
 ---
 # Wand of Fireballs
 *Wand, major, rare (requires attunement by a spellcaster)*  

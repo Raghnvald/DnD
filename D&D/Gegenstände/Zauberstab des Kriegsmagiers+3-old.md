@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab des Kriegsmagiers +3
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung durch einen Zauberwirker
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
 Kst.: 40.000 GM
 Gew.: 0,5 kg
 image: wand.webp
+linter-yaml-title-alias: Zauberstab des Kriegsmagiers +3
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,7 +15,6 @@ tags:
 aliases:
   - Wand of the War Mage +3
   - Zauberstab des Kriegsmagiers +3
-linter-yaml-title-alias: Zauberstab des Kriegsmagiers +3
 ---
 # Zauberstab des Kriegsmagiers +3
 _Zauberstab, sehr selten (erfordert Einstimmung durch einen Zauberwirker)_

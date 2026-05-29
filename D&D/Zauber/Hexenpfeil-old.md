@@ -7,6 +7,7 @@ Wirkungsdauer: K, <1 Minute
 Angriff: n/v
 Schaden: n/v
 status: completed
+linter-yaml-title-alias: Hexenpfeil
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -16,6 +17,7 @@ tags:
   - Zauber/Original/Witch_Bolt
   - Zauber/Schule/Hervorrufung
 aliases:
+  - Hexenpfeil
   - Witch Bolt
 ---
 # Hexenpfeil

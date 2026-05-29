@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backgrounds
+linter-yaml-title-alias: Backgrounds
 tags:
   - Quelle/5e/scag
 aliases:

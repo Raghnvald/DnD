@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Mason's Tools"
+linter-yaml-title-alias: "Mason's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Mason's Tools
-linter-yaml-title-alias: Mason's Tools
+  - "Mason's Tools"
 ---
 # Mason's Tools
 *Artisan's tools*  

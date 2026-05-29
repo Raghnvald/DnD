@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Tinker's Tools"
+linter-yaml-title-alias: "Tinker's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
 aliases:
   - "Tinker's Tools"
   - Tinker's Tools
-linter-yaml-title-alias: "Tinker's Tools"
 ---
 # Tinker's Tools
 *Artisan's tools*  

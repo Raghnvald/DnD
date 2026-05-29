@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Schlachtross
 Kategorie: Reit- und Lastentier
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 400 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Schlachtross
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Warhorse
+  - Schlachtross
 Bew.: 18 m
-linter-yaml-title-alias: Warhorse
 Traglast: 540 Pfd.
 ---
 # Schlachtross

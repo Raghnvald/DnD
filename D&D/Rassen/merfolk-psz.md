@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Merfolk
+linter-yaml-title-alias: Merfolk
 tags:
   - Quelle/5e/psz
   - Rasse/merfolk
 aliases:
   - "Merfolk"
+  - Merfolk
 ---
 # Merfolk
 *Source: Plane Shift: Zendikar p. 13, Plane Shift: Ixalan p. 12*  

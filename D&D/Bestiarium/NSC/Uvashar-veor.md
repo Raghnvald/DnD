@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uvashar
+Image: token/uvashar-veor.webp
 status: WIP
+linter-yaml-title-alias: Uvashar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Uvashar
-IMAGE: token/uvashar-veor.webp
-linter-yaml-title-alias: Uvashar
 ---
 # [Uvashar](3-Mechanics\CLI\bestiary\npc/uvashar-veor.md)
 *Source: Vecna: Eve of Ruin*  

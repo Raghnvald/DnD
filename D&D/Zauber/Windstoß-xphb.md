@@ -1,5 +1,20 @@
 ---
 Bezeichnung: Gust of Wind
+linter-yaml-title-alias: Gust of Wind
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Djinni)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -20,23 +35,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/rush-of-the-gale-spirits
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fathomless)
-  - Warlock (The Genie, Djinni)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Gust of Wind
-linter-yaml-title-alias: Gust of Wind
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urban Encounters (Levels 17—20)
+linter-yaml-title-alias: Urban Encounters (Levels 17—20)
 tags:
   - Quelle/5e/xge
 aliases:

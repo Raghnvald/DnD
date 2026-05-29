@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rüstung des Energie-Widerstands
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Rüstung des Energie-Widerstands
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -24,7 +25,6 @@ aliases:
   - Spiked Armor of Force Resistance
   - Splint Armor of Force Resistance
   - Studded Leather Armor of Force Resistance
-linter-yaml-title-alias: Rüstung des Energie-Widerstands
 ---
 # Rüstung des Energie-Widerstands
 *Major, rare (requires attunement)*  

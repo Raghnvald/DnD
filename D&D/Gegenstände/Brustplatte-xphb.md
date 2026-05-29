@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Breastplate
 Rüstung: Mittel
+linter-yaml-title-alias: Breastplate
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Breastplate
-linter-yaml-title-alias: Breastplate
 ---
 # Breastplate
 *Medium armor*  

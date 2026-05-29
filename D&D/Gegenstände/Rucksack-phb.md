@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Rucksack
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Rucksack
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Backpack
   - Rucksack
-linter-yaml-title-alias: Rucksack
 ---
 # Rucksack
 *Abenteuerausrüstung*

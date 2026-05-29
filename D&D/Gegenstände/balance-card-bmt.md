@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Balance Card
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Balance Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Balance Card
-linter-yaml-title-alias: Balance Card
 ---
 # Balance Card
 *Wondrous item, legendary*  

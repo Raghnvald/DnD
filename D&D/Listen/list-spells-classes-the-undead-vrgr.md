@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for The Undead
+linter-yaml-title-alias: Spells for The Undead
 tags:
   - Zauber/list/subclass/the-undead
 aliases:

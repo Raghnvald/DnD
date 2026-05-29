@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Gegenstandseigenschaften
+linter-yaml-title-alias: Gegenstandseigenschaften
 aliases:
+  - Gegenstandseigenschaften
   - Item Properties
 ---
 # Gegenstandseigenschaften

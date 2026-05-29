@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Copper Dragon
+linter-yaml-title-alias: Ancient Copper Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Hügel
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ancient Copper Dragon
-linter-yaml-title-alias: Ancient Copper Dragon
 ---
 # [Ancient Copper Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-copper-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 80. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

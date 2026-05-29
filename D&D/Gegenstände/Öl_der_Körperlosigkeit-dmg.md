@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Oil of Etherealness
 Kategorie: Trank
+linter-yaml-title-alias: Oil of Etherealness
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Oil of Etherealness
-linter-yaml-title-alias: Oil of Etherealness
 ---
 # Oil of Etherealness
 *Potion, minor, rare*  

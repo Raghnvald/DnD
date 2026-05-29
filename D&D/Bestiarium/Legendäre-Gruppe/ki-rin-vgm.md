@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ki-rin
+linter-yaml-title-alias: Ki-rin
 tags:
   - Monster/legendary-group
   - Quelle/5e/vgm

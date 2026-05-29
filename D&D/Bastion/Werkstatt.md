@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Workshop
+linter-yaml-title-alias: Workshop
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

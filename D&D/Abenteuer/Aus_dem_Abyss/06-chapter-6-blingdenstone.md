@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: Blingdenstone"
+linter-yaml-title-alias: "Chapter 6: Blingdenstone"
 tags:
   - Quelle/5e/oota
 aliases:

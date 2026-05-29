@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Topas
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 500 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Topas
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Topaz
-linter-yaml-title-alias: Topaz
+  - Topas
 ---
 # Topas
 *Schatz (Edelstein)*  

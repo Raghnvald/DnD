@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Welcome to Strixhaven
+linter-yaml-title-alias: Welcome to Strixhaven
 tags:
   - Quelle/5e/scc
 aliases:
   - "Welcome to Strixhaven"
+  - Welcome to Strixhaven
 ---
 # Welcome to Strixhaven
 *Source: Strixhaven: A Curriculum of Chaos, p. 4* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sling
+linter-yaml-title-alias: Sling
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Sling
-linter-yaml-title-alias: Sling
 ---
 # Sling
 *Weapon*  

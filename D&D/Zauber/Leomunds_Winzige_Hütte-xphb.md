@@ -1,5 +1,14 @@
 ---
 Bezeichnung: "Leomund's Tiny Hut"
+linter-yaml-title-alias: "Leomund's Tiny Hut"
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Twilight Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,17 +21,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Twilight Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Leomund's Tiny Hut
-linter-yaml-title-alias: Leomund's Tiny Hut
+  - "Leomund's Tiny Hut"
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  

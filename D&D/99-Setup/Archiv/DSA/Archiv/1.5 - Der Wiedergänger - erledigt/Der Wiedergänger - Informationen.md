@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Schauplätze
+linter-yaml-title-alias: Schauplätze
+aliases:
+  - Schauplätze
 ---
 # Schauplätze
 ## Rucken

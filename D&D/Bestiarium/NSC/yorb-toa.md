@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yorb
+linter-yaml-title-alias: Yorb
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Yorb
-linter-yaml-title-alias: Yorb
 ---
 # [Yorb](3-Mechanics\CLI\bestiary\npc/yorb-toa.md)
 *Source: Tomb of Annihilation p. 108*  

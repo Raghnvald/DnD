@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Domains of Ravenloft
+linter-yaml-title-alias: Domains of Ravenloft
 tags:
   - Quelle/5e/vrgr
 aliases:

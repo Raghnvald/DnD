@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spire of Conflux (Exalted)
+linter-yaml-title-alias: Spire of Conflux (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Spire of Conflux (Exalted)
-linter-yaml-title-alias: Spire of Conflux (Exalted)
 ---
 # Spire of Conflux (Exalted)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

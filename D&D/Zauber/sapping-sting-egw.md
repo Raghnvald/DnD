@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Sapping Sting
 Zaubergrad: 0 (Zaubertrick)
+linter-yaml-title-alias: Sapping Sting
+classes:
+  - Cleric (Death Domain)
 tags:
   - Quelle/5e/egw
   - Subklasse/death-domain
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
-classes:
-  - Cleric (Death Domain)
 aliases:
   - Sapping Sting
 ---

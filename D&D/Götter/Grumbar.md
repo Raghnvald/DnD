@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grumbar, Gott der Erde
+linter-yaml-title-alias: Grumbar, Gott der Erde
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Wissen
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Grumbar
+  - Grumbar, Gott der Erde
 ---
 # Grumbar, Gott der Erde
 *Quelle: SRD / Grundregelwerk* 

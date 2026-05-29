@@ -1,15 +1,19 @@
 ---
 Bezeichnung: Lampe
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 SM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Lampe
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Lamp
+  - Lampe
 ---
 # Lampe
 *Abenteuerausrüstung*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Dawnfather
+linter-yaml-title-alias: The Dawnfather
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

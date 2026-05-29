@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Power Word Kill
+linter-yaml-title-alias: Power Word Kill
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/9
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Power Word Kill
-linter-yaml-title-alias: Power Word Kill
 ---
 # Power Word Kill
 *9th-level, Enchantment*  

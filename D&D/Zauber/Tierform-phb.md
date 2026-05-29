@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Animal Shapes
 Zaubergrad: 8
+linter-yaml-title-alias: Animal Shapes
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/magical-secrets
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Animal Shapes
 ---

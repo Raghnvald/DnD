@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Knight of the Rose
+linter-yaml-title-alias: Knight of the Rose
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
   - "Knight of the Rose"
+  - Knight of the Rose
 ---
 # Knight of the Rose
 *Source: Dragonlance: Shadow of the Dragon Queen p. 33*  

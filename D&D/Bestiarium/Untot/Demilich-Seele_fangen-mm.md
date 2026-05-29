@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demilich (Trap Soul)
+linter-yaml-title-alias: Demilich (Trap Soul)
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/21
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Demilich (Trap Soul)
-linter-yaml-title-alias: Demilich (Trap Soul)
 ---
 # [Demilich (Trap Soul)](3-Mechanics\CLI\bestiary\undead/demilich-trap-soul.md)
 *Source: Monster Manual p. 48*  

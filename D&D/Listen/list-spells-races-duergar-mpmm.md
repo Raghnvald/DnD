@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Duergar
+linter-yaml-title-alias: Spells for Duergar
 tags:
   - Zauber/list/race/duergar
 aliases:

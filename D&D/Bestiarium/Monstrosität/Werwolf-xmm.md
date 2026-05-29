@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Werewolf
+linter-yaml-title-alias: Werewolf
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Hügel

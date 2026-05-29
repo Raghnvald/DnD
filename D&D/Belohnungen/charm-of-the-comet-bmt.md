@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Comet
+linter-yaml-title-alias: Charm of the Comet
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

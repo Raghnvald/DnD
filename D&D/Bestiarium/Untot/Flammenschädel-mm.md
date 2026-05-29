@@ -10,6 +10,7 @@ Habitat:
   - Unterreich
 image: token/flameskull.webp
 status: completed
+linter-yaml-title-alias: Flammenschädel
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich
@@ -18,7 +19,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Flameskull
-linter-yaml-title-alias: Flammenschädel
+  - Flammenschädel
 ---
 # Flammenschädel
 *Quelle: Monsterhandbuch S. 316. Verfügbar im  Grundregelwerk (2014)*  

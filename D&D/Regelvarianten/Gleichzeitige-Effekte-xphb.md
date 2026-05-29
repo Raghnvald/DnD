@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simultaneous Effects
+linter-yaml-title-alias: Simultaneous Effects
 tags:
   - Quelle/5e/xphb
 aliases:

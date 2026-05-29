@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Ray of Sickness
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Death Domain)
+  - Druid (Circle of the Land, Tropical Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -22,19 +33,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Nekromantie
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Death Domain)
-  - Druid (Circle of the Land, Tropical Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Ray of Sickness
-linter-yaml-title-alias: Ray of Sickness
 ---
 # Ray of Sickness
 *1st-level, Necromancy*  

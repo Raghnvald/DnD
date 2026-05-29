@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eagle
 image: token/eagle-xmm.webp
+linter-yaml-title-alias: Eagle
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Discipline
+linter-yaml-title-alias: Elemental Discipline
 tags:
   - Quelle/5e/phb
 aliases:

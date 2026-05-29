@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Ever-Living Ones
+linter-yaml-title-alias: Gift of the Ever-Living Ones
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

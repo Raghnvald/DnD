@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bristled Moorbounder
+linter-yaml-title-alias: Bristled Moorbounder
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

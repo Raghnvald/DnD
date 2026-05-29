@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Salamander Fire Snake
+linter-yaml-title-alias: Salamander Fire Snake
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/fire

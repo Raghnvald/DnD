@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harrow Hound
+linter-yaml-title-alias: Harrow Hound
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Harrow Hound
-linter-yaml-title-alias: Harrow Hound
 ---
 # [Harrow Hound](3-Mechanics\CLI\bestiary\undead/harrow-hound-bmt.md)
 *Source: The Book of Many Things p. 164*  

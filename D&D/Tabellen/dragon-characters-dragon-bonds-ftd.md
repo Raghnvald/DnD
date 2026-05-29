@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Characters; Dragon Bonds
+linter-yaml-title-alias: Dragon Characters; Dragon Bonds
 tags:
   - Quelle/5e/ftd
 aliases:

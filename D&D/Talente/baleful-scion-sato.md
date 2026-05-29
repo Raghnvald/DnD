@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Baleful Scion
+linter-yaml-title-alias: Baleful Scion
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
   - "Baleful Scion"
+  - Baleful Scion
 ---
 # Baleful Scion
 *Source: Sigil and the Outlands p. 10*  

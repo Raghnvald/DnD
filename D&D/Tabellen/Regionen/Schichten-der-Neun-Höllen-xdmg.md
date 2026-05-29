@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of the Nine Hells
+linter-yaml-title-alias: Layers of the Nine Hells
 tags:
   - Quelle/5e/xdmg
 aliases:

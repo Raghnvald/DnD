@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sanctum
+linter-yaml-title-alias: Sanctum
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

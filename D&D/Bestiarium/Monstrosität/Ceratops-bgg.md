@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ceratops
+linter-yaml-title-alias: Ceratops
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/9

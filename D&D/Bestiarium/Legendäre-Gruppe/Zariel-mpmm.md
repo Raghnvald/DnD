@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zariel
+linter-yaml-title-alias: Zariel
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

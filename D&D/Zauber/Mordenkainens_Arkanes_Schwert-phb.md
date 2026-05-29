@@ -1,18 +1,18 @@
 ---
 Bezeichnung: "Mordenkainen's Sword"
 Zaubergrad: 7
+linter-yaml-title-alias: "Mordenkainen's Sword"
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
-  - Mordenkainen's Sword
-linter-yaml-title-alias: Mordenkainen's Sword
+  - "Mordenkainen's Sword"
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

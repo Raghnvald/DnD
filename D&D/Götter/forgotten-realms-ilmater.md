@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ilmater
+linter-yaml-title-alias: Ilmater
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/twilight

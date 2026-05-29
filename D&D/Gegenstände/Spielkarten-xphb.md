@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Playing Cards
+linter-yaml-title-alias: Playing Cards
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Playing Cards
-linter-yaml-title-alias: Playing Cards
 ---
 # Playing Cards
 *Gaming set*  

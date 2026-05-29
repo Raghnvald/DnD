@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Schall-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Schall-Absorbierende Tätowierung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
-  - Thunder Absorbing Tattoo
-linter-yaml-title-alias: Thunder Absorbing Tattoo
-Status: completed
+  - Schall-Absorbierende Tätowierung
 ---
 # Schall-Absorbierende Tätowierung
 *Wundersamer Gegenstand (Tätowierung), sehr selten (erfordert Einstimmung)*

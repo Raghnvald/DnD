@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Staff (Level 8)
+linter-yaml-title-alias: Enspelled Staff (Level 8)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Staff (Level 8)
-linter-yaml-title-alias: Enspelled Staff (Level 8)
 ---
 # Enspelled Staff (Level 8)
 *Staff, weapon, legendary (requires attunement by a Spellcaster)*  

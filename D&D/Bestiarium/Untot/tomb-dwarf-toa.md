@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tomb Dwarf
+linter-yaml-title-alias: Tomb Dwarf
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Tomb Dwarf
-linter-yaml-title-alias: Tomb Dwarf
 ---
 # [Tomb Dwarf](3-Mechanics\CLI\bestiary\undead/tomb-dwarf-toa.md)
 *Source: Tomb of Annihilation p. 135*  

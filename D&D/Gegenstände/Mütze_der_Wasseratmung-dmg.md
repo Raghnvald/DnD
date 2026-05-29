@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Cap of Water Breathing
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cap of Water Breathing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Cap of Water Breathing
-linter-yaml-title-alias: Cap of Water Breathing
 ---
 # Cap of Water Breathing
 *Wondrous item, minor, uncommon*  

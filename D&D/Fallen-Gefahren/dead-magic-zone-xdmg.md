@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dead Magic Zone
+linter-yaml-title-alias: Dead Magic Zone
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

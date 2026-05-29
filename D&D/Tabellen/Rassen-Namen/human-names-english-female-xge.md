@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – English, Female
+linter-yaml-title-alias: Human Names – English, Female
 tags:
   - Quelle/5e/xge
 aliases:

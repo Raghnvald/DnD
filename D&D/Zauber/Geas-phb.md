@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Geas
 Zaubergrad: 5
+linter-yaml-title-alias: Geas
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Paladin
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -10,15 +17,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Paladin
-  - Wizard
 aliases:
   - Geas
-linter-yaml-title-alias: Geas
 ---
 # Geas
 *5th-level, Enchantment*  

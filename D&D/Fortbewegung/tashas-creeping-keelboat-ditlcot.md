@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Tasha's Creeping Keelboat"
+linter-yaml-title-alias: "Tasha's Creeping Keelboat"
 tags:
   - Quelle/5e/ditlcot
   - ttrpg-cli/vehicle/size/gargantuan

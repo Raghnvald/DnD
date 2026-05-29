@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pushing Attack
+linter-yaml-title-alias: Pushing Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

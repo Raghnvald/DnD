@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection
+linter-yaml-title-alias: Protection
 tags:
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-p

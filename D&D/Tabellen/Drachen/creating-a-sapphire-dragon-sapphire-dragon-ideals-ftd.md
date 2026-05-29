@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Sapphire Dragon; Sapphire Dragon Ideals
+linter-yaml-title-alias: Creating a Sapphire Dragon; Sapphire Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

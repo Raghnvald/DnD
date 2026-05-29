@@ -5,14 +5,14 @@ Bezeichnung: Arrant Quill
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Arrant Quill
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cm
 aliases:
   - Arrant Quill
-linter-yaml-title-alias: Arrant Quill
 ---
 # [Arrant Quill](3-Mechanics\CLI\bestiary\npc/arrant-quill-cm.md)
 *Source: Candlekeep Mysteries p. 157*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Unwelcome Spirits
+linter-yaml-title-alias: Unwelcome Spirits
 tags:
   - Quelle/5e/us
 aliases:
   - "Unwelcome Spirits"
+  - Unwelcome Spirits
 ---
 # Unwelcome Spirits
 *Source: Wildemount: Unwelcome Spirits, p. 250* 

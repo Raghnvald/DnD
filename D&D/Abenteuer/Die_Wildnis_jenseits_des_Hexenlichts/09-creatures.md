@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Creatures
+linter-yaml-title-alias: Creatures
 tags:
   - Quelle/5e/wbtw
 aliases:
   - "Creatures"
+  - Creatures
 ---
 # Creatures
 *Source: The Wild Beyond the Witchlight, p. 229* 

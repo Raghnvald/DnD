@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Obad-Hai
+linter-yaml-title-alias: Obad-Hai
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

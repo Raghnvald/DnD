@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Torogar Steelfist
+linter-yaml-title-alias: Torogar Steelfist
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Torogar Steelfist
-linter-yaml-title-alias: Torogar Steelfist
 ---
 # [Torogar Steelfist](3-Mechanics\CLI\bestiary\npc/torogar-steelfist-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 112*  

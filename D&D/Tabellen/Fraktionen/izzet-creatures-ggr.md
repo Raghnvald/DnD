@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet Creatures
+linter-yaml-title-alias: Izzet Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Death Domain
+linter-yaml-title-alias: Spells for Death Domain
 tags:
   - Zauber/list/subclass/death-domain
 aliases:

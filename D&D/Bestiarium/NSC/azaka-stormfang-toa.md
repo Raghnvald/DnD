@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Azaka Stormfang
+linter-yaml-title-alias: Azaka Stormfang
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/toa
 aliases:
   - Azaka Stormfang
-linter-yaml-title-alias: Azaka Stormfang
 ---
 # [Azaka Stormfang](3-Mechanics\CLI\bestiary\npc/azaka-stormfang-toa.md)
 *Source: Tomb of Annihilation p. 33*  

@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: Blind
+linter-yaml-title-alias: Feuerwerk
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -16,6 +17,7 @@ tags:
   - Zauber/Original/Pyrotechnics
   - Zauber/Schule/Verwandlung
 aliases:
+  - Feuerwerk
   - Pyrotechnics
 ---
 # Feuerwerk

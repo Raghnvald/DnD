@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Settings
+linter-yaml-title-alias: Gothic Horror Settings
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solonor Thelandira
+linter-yaml-title-alias: Solonor Thelandira
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/war

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bear Trap
+linter-yaml-title-alias: Bear Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

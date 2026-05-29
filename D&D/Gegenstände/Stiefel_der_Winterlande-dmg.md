@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Boots of the Winterlands
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Boots of the Winterlands
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Boots of the Winterlands
-linter-yaml-title-alias: Boots of the Winterlands
 ---
 # Boots of the Winterlands
 *Wondrous item, major, uncommon (requires attunement)*  

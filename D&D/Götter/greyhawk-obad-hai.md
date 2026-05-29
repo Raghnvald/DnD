@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Obad-Hai
+linter-yaml-title-alias: Obad-Hai
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/greyhawk

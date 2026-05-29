@@ -2,6 +2,7 @@
 Bezeichnung: Strahl der Übelkeit
 Zaubergrad: 1
 status: WIP
+linter-yaml-title-alias: Strahl der Übelkeit
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -10,6 +11,7 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Ray of Sickness
+  - Strahl der Übelkeit
 ---
 # Strahl der Übelkeit
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Nekromantiezauber.webp#token)

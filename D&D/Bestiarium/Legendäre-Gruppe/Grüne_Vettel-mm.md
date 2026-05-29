@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Green Hag
+linter-yaml-title-alias: Green Hag
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

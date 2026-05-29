@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Psionic Shambling Mound
+Image: token/psionic-shambling-mound-pabtso.webp
+linter-yaml-title-alias: Psionic Shambling Mound
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Psionic Shambling Mound
-Image: token/psionic-shambling-mound-pabtso.webp
 ---
 # Psionic Shambling Mound
 *Source: Phandelver and Below: The Shattered Obelisk p. 108*  

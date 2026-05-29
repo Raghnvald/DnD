@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dreadful Word
+linter-yaml-title-alias: Dreadful Word
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

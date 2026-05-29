@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Wall of Ice
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -14,13 +19,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Wall of Ice
-linter-yaml-title-alias: Wall of Ice
 ---
 # Wall of Ice
 *6th-level, Evocation*  

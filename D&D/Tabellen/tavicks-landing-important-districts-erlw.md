@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Tavick's Landing: Important Districts"
+linter-yaml-title-alias: "Tavick's Landing: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Tavick's Landing: Important Districts"
   - Tavick's Landing: Important Districts
 ---
 # Tavick's Landing: Important Districts

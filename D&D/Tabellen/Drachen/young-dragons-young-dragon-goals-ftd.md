@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Young Dragons; Young Dragon Goals
+linter-yaml-title-alias: Young Dragons; Young Dragon Goals
 tags:
   - Quelle/5e/ftd
 aliases:

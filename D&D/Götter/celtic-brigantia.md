@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brigantia
+linter-yaml-title-alias: Brigantia
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/life

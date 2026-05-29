@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Hunger of Hadar
 Zaubergrad: 3
+linter-yaml-title-alias: Hunger of Hadar
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
 aliases:
   - Hunger of Hadar
-linter-yaml-title-alias: Hunger of Hadar
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  

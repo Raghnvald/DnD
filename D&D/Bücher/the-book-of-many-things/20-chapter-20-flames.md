@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 20: Flames"
+linter-yaml-title-alias: "Chapter 20: Flames"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 20: Flames"
   - Chapter 20: Flames
 ---
 # Chapter 20: Flames

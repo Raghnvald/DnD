@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human (Mark of Making)
+linter-yaml-title-alias: Human (Mark of Making)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-making

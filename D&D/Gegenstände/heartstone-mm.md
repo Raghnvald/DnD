@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Heartstone
+linter-yaml-title-alias: Heartstone
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/other
   - Quelle/5e/mm
 aliases:
   - Heartstone
-linter-yaml-title-alias: Heartstone
 ---
 # Heartstone
 *Very rare*  

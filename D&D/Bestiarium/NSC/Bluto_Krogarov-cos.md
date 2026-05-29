@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bluto Krogarov
+linter-yaml-title-alias: Bluto Krogarov
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Bluto Krogarov
-linter-yaml-title-alias: Bluto Krogarov
 ---
 # Bluto Krogarov
 *Source: Curse of Strahd p. 38*  

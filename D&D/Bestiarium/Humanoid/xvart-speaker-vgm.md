@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xvart Speaker
+linter-yaml-title-alias: Xvart Speaker
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Hügel

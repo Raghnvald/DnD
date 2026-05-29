@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Candle
+linter-yaml-title-alias: Candle
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Candle
-linter-yaml-title-alias: Candle
 ---
 # Candle
 *Adventuring gear*  

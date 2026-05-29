@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moderately Armored
+linter-yaml-title-alias: Moderately Armored
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

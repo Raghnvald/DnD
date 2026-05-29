@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elemental Essence Shard (Fire)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Elemental Essence Shard (Fire)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Elemental Essence Shard (Fire)
-linter-yaml-title-alias: Elemental Essence Shard (Fire)
 ---
 # Elemental Essence Shard (Fire)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Green Dragon
+linter-yaml-title-alias: Green Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

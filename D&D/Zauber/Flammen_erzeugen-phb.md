@@ -7,6 +7,12 @@ Komponenten: V, G
 Wirkungsdauer: 10 Minuten
 Angriff: Fernkampf
 Schaden: 1d8 Feuer
+linter-yaml-title-alias: Flammen erzeugen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -17,14 +23,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
 aliases:
+  - Flammen erzeugen
   - Produce Flame
-linter-yaml-title-alias: Flammen erzeugen
 ---
 # Flammen erzeugen
 *Zaubertrick der Beschwörung*

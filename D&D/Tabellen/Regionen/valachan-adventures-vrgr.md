@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valachan Adventures
+linter-yaml-title-alias: Valachan Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forge Domain
+linter-yaml-title-alias: Forge Domain
 tags:
   - Klasse/Kleriker/forge
   - Kompendium/Götter/Domäne/forge

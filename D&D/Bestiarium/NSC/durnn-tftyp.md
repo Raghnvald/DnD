@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Durnn
+linter-yaml-title-alias: Durnn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Durnn
-linter-yaml-title-alias: Durnn
 ---
 # [Durnn](3-Mechanics\CLI\bestiary\npc/durnn-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  

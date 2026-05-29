@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Breath
+linter-yaml-title-alias: Animated Breath
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 10: Sun"
+linter-yaml-title-alias: "Chapter 10: Sun"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 10: Sun"
   - Chapter 10: Sun
 ---
 # Chapter 10: Sun

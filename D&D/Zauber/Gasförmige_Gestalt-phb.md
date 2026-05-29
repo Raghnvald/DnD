@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Gaseous Form
 Zaubergrad: 3
+linter-yaml-title-alias: Gaseous Form
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Underdark)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/underdark
@@ -13,17 +22,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/mist-stance
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Underdark)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Gaseous Form
-linter-yaml-title-alias: Gaseous Form
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  

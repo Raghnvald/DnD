@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jessamine
+linter-yaml-title-alias: Jessamine
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Jessamine
-linter-yaml-title-alias: Jessamine
 ---
 # [Jessamine](3-Mechanics\CLI\bestiary\npc/jessamine-toa.md)
 *Source: Tomb of Annihilation p. 26*  

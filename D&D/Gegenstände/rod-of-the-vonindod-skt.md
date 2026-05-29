@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of the Vonindod
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of the Vonindod
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Rod of the Vonindod
-linter-yaml-title-alias: Rod of the Vonindod
 ---
 # Rod of the Vonindod
 *Rod, rare (requires attunement)*  

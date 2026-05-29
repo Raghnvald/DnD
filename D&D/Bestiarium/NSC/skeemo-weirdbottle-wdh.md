@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeemo Weirdbottle
+linter-yaml-title-alias: Skeemo Weirdbottle
 tags:
   - Monster/Größe/Klein
   - Monster/HG/6
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
   - Quelle/5e/wdh
 aliases:
   - Skeemo Weirdbottle
-linter-yaml-title-alias: Skeemo Weirdbottle
 ---
 # [Skeemo Weirdbottle](3-Mechanics\CLI\bestiary\npc/skeemo-weirdbottle-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 200*  

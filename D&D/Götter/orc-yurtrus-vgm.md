@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yurtrus
+linter-yaml-title-alias: Yurtrus
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/orc

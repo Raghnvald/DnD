@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Star rose quartz
+linter-yaml-title-alias: Star rose quartz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Star rose quartz
-linter-yaml-title-alias: Star rose quartz
 ---
 # Star rose quartz
 *Treasure (gemstone)*  

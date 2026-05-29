@@ -6,6 +6,13 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Wall of Light
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -15,15 +22,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Wall of Light
-linter-yaml-title-alias: Wall of Light
 ---
 # Wall of Light
 *5th-level, Evocation*  

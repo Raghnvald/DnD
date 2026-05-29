@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Cli Lyre
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung durch einen Barden
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Instrument of the Bards, Cli Lyre
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -9,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Instrument of the Bards, Cli Lyre
-linter-yaml-title-alias: Instrument of the Bards, Cli Lyre
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, instrument, major, rare (requires attunement by a bard)*  

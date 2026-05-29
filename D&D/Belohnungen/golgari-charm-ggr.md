@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Charm
+linter-yaml-title-alias: Golgari Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kord
+linter-yaml-title-alias: Kord
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war

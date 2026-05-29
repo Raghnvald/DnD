@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1/2
 status: WIP
+linter-yaml-title-alias: Dolgrim
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-2

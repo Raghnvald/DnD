@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xvart Warlock of Raxivort
+linter-yaml-title-alias: Xvart Warlock of Raxivort
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Hügel

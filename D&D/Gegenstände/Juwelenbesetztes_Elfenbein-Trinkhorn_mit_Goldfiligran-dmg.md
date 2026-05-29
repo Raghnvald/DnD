@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 Kategorie: Kunstobjekt
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 7.500 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Bejeweled ivory drinking horn with gold filigree
-linter-yaml-title-alias: Bejeweled ivory drinking horn with gold filigree
+  - Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 ---
 # Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 *Treasure (art object)*  

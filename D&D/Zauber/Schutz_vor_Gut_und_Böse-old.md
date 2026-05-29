@@ -2,6 +2,7 @@
 Bezeichnung: Schutz vor Gut und Böse
 Zaubergrad: 1
 status: WIP
+linter-yaml-title-alias: Schutz vor Gut und Böse
 tags:
   - Klasse/Hexenmeister
   - Klasse/Kleriker
@@ -12,6 +13,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Protection from Evil and Good
+  - Schutz vor Gut und Böse
 ---
 # Schutz vor Gut und Böse
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

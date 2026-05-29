@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Distended Corpse
+linter-yaml-title-alias: Distended Corpse
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

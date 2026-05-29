@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Robe of the Archmagi
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Robe of the Archmagi
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Robe of the Archmagi
-linter-yaml-title-alias: Robe of the Archmagi
 ---
 # Robe of the Archmagi
 *Wondrous item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

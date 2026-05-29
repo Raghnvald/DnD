@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Istus
+linter-yaml-title-alias: Istus
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

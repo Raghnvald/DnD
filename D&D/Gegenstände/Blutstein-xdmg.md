@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Bloodstone
+Kst.: 50 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Bloodstone
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Bloodstone
-linter-yaml-title-alias: Bloodstone
 ---
 # Bloodstone
 *Treasure (gemstone)*  

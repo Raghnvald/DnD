@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pulse Wave
 Zaubergrad: 3
+linter-yaml-title-alias: Pulse Wave
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/3

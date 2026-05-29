@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Locathah Rising
+linter-yaml-title-alias: Index of Locathah Rising
+aliases:
+  - Index of Locathah Rising
 ---
 # Index of Locathah Rising
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blood Witch
+linter-yaml-title-alias: Blood Witch
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

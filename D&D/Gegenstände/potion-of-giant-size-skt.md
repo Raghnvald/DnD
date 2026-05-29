@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Giant Size
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Giant Size
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Trank
   - Quelle/5e/skt
 aliases:
   - Potion of Giant Size
-linter-yaml-title-alias: Potion of Giant Size
 ---
 # Potion of Giant Size
 *Potion, legendary*  

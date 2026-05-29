@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Strawbundle's Charm"
+linter-yaml-title-alias: "Strawbundle's Charm"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/toa
 aliases:
+  - "Strawbundle's Charm"
   - Strawbundle's Charm
 ---
 # Strawbundle's Charm

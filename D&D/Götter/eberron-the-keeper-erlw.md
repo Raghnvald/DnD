@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Keeper
+linter-yaml-title-alias: The Keeper
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/eberron

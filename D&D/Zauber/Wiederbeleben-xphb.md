@@ -1,5 +1,19 @@
 ---
 Bezeichnung: Revivify
+linter-yaml-title-alias: Revivify
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Grave Domain)
+  - Cleric (Life Domain)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Paladin
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -16,22 +30,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Grave Domain)
-  - Cleric (Life Domain)
-  - Druid
-  - Druid (Circle of Wildfire)
-  - Paladin
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Revivify
-linter-yaml-title-alias: Revivify
 ---
 # Revivify
 *3rd-level, Necromancy*  

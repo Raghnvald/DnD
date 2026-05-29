@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brontosaurus
+linter-yaml-title-alias: Brontosaurus
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Grasland

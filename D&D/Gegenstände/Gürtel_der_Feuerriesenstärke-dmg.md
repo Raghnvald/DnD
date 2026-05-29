@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Belt of Fire Giant Strength
+linter-yaml-title-alias: Belt of Fire Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Belt of Fire Giant Strength
-linter-yaml-title-alias: Belt of Fire Giant Strength
 ---
 # Belt of Fire Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

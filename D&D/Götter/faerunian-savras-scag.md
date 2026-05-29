@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Savras
+linter-yaml-title-alias: Savras
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

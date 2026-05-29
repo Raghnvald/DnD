@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Karren
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 15 GM
 Gew.: 100,0 kg
+status: WIP
+linter-yaml-title-alias: Karren
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Ausrüstung/Fahrzeug/Land
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Cart
-linter-yaml-title-alias: Cart
+  - Karren
 ---
 # Karren
 *Fahrzeug (Land)*

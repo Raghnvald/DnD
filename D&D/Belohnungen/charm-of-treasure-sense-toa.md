@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Treasure Sense
+linter-yaml-title-alias: Charm of Treasure Sense
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/toa

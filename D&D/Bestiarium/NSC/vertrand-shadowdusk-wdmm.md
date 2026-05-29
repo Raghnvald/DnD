@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vertrand Shadowdusk
+linter-yaml-title-alias: Vertrand Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdmm
 aliases:
   - Vertrand Shadowdusk
-linter-yaml-title-alias: Vertrand Shadowdusk
 ---
 # [Vertrand Shadowdusk](3-Mechanics\CLI\bestiary\npc/vertrand-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 282*  

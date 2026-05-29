@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Control Weather
+linter-yaml-title-alias: Control Weather
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 aliases:
   - Control Weather
-linter-yaml-title-alias: Control Weather
 ---
 # Control Weather
 *8th-level, Transmutation*  

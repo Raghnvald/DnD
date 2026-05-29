@@ -1,6 +1,7 @@
 ---
 Bezeichnung: The Bloody End (Exalted)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: The Bloody End (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - The Bloody End (Exalted)
-linter-yaml-title-alias: The Bloody End (Exalted)
 ---
 # The Bloody End (Exalted)
 *Weapon ([morningstar](/3-Mechanics/CLI/items/morningstar-xphb.md)), artifact (requires attunement)*  

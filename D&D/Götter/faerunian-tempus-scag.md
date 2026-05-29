@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tempus
+linter-yaml-title-alias: Tempus
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/faerunian

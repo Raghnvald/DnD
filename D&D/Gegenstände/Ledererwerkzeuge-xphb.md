@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Leatherworker's Tools"
+linter-yaml-title-alias: "Leatherworker's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
 aliases:
   - "Leatherworker's Tools"
   - Leatherworker's Tools
-linter-yaml-title-alias: "Leatherworker's Tools"
 ---
 # Leatherworker's Tools
 *Artisan's tools*  

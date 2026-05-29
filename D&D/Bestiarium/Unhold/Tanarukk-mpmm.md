@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tanarukk
+linter-yaml-title-alias: Tanarukk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weather
+linter-yaml-title-alias: Weather
 tags:
   - Quelle/5e/dmg
 aliases:

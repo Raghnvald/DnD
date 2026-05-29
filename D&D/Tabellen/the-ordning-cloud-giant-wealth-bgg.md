@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Ordning; Cloud Giant Wealth
+linter-yaml-title-alias: The Ordning; Cloud Giant Wealth
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Kin Encounters
+linter-yaml-title-alias: Giant Kin Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

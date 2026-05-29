@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elemental Essence Shard (Air)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Elemental Essence Shard (Air)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Elemental Essence Shard (Air)
-linter-yaml-title-alias: Elemental Essence Shard (Air)
 ---
 # Elemental Essence Shard (Air)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

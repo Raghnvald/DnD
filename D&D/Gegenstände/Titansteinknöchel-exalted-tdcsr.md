@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Titanstone Knuckles (Exalted)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Titanstone Knuckles (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Titanstone Knuckles (Exalted)
-linter-yaml-title-alias: Titanstone Knuckles (Exalted)
 ---
 # Titanstone Knuckles (Exalted)
 *Wondrous item, legendary (requires attunement)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Sustenance
+linter-yaml-title-alias: Ioun Stone, Sustenance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Sustenance
-linter-yaml-title-alias: Ioun Stone, Sustenance
 ---
 # Ioun Stone, Sustenance
 *Wondrous item, rare (requires attunement)*  

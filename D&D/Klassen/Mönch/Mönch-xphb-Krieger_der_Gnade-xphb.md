@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior of Mercy
+linter-yaml-title-alias: Warrior of Mercy
 tags:
   - Klasse/Mönch/mercy
   - Quelle/5e/xphb

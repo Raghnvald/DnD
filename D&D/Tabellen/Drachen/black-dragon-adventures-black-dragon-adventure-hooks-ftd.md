@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Black Dragon Adventures; Black Dragon Adventure Hooks
+linter-yaml-title-alias: Black Dragon Adventures; Black Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

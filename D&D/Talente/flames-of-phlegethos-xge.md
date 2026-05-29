@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flames of Phlegethos
+linter-yaml-title-alias: Flames of Phlegethos
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

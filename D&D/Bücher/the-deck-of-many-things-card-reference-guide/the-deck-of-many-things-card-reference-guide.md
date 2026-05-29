@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of The Deck of Many Things Card Reference Guide
+linter-yaml-title-alias: Index of The Deck of Many Things Card Reference Guide
+aliases:
+  - Index of The Deck of Many Things Card Reference Guide
 ---
 # Index of The Deck of Many Things Card Reference Guide
 

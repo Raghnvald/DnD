@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Phantasmal Force
+linter-yaml-title-alias: Phantasmal Force
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Warlock (Great Old One Patron)
+  - Warlock (The Genie, Dao)
+  - Warlock (The Undead)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,21 +28,8 @@ tags:
   - Subklasse/the-undead
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Archfey Patron)
-  - Warlock (Great Old One Patron)
-  - Warlock (The Genie, Dao)
-  - Warlock (The Undead)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Phantasmal Force
-linter-yaml-title-alias: Phantasmal Force
 ---
 # Phantasmal Force
 *2nd-level, Illusion*  

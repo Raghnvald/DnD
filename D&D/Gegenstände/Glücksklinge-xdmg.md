@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Luck Blade
+linter-yaml-title-alias: Luck Blade
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -17,7 +18,6 @@ aliases:
   - Luck Scimitar
   - Luck Shortsword
   - Luck Sickle
-linter-yaml-title-alias: Luck Blade
 ---
 # Luck Blade
 *Legendary (requires attunement)*  

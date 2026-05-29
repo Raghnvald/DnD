@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Tent
+linter-yaml-title-alias: Tent
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Tent
-linter-yaml-title-alias: Tent
 ---
 # Tent
 *Adventuring gear*  

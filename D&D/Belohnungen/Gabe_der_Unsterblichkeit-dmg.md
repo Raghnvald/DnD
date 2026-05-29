@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe der Unsterblichkeit
+linter-yaml-title-alias: Gabe der Unsterblichkeit
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Immortality
+  - Gabe der Unsterblichkeit
 ---
 # Gabe der Unsterblichkeit
 

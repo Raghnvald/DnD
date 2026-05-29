@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Fiona Wachter
+linter-yaml-title-alias: Lady Fiona Wachter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Lady Fiona Wachter
-linter-yaml-title-alias: Lady Fiona Wachter
 ---
 # Lady Fiona Wachter
 *Source: Curse of Strahd p. 110*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Incabulos
+linter-yaml-title-alias: Incabulos
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

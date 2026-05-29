@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Specter
+linter-yaml-title-alias: Specter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Specter
-linter-yaml-title-alias: Specter
 ---
 # [Specter](3-Mechanics\CLI\bestiary\undead/specter-xmm.md)
 *Source: Monster Manual (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

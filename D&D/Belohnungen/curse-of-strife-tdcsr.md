@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Curse of Strife
+linter-yaml-title-alias: Curse of Strife
 tags:
   - Kompendium/Belohnung/curse
   - Quelle/5e/tdcsr

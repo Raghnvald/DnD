@@ -1,5 +1,6 @@
 ---
 Bezeichnung: A Deep and Creeping Darkness
+linter-yaml-title-alias: A Deep and Creeping Darkness
 tags:
   - Quelle/5e/cm
 aliases:

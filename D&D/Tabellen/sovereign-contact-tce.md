@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Contact
+linter-yaml-title-alias: Sovereign Contact
 tags:
   - Quelle/5e/tce
 aliases:

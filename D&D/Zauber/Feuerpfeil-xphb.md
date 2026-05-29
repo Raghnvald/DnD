@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Fire Bolt
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Druid (Circle of the Land, Arid Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -24,18 +34,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Druid (Circle of the Land, Arid Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Fire Bolt
-linter-yaml-title-alias: Fire Bolt
 ---
 # Fire Bolt
 *cantrip, Evocation*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vellynne Harpell
+linter-yaml-title-alias: Vellynne Harpell
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Vellynne Harpell
-linter-yaml-title-alias: Vellynne Harpell
 ---
 # [Vellynne Harpell](3-Mechanics\CLI\bestiary\npc/vellynne-harpell-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 273*  

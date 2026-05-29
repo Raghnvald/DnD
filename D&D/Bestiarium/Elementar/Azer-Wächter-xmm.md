@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Azer Sentinel
 Kategorie: Elementar
+linter-yaml-title-alias: Azer Sentinel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

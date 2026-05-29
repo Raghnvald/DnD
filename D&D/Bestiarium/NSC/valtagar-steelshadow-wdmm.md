@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valtagar Steelshadow
+linter-yaml-title-alias: Valtagar Steelshadow
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Valtagar Steelshadow
-linter-yaml-title-alias: Valtagar Steelshadow
 ---
 # [Valtagar Steelshadow](3-Mechanics\CLI\bestiary\npc/valtagar-steelshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 271*  

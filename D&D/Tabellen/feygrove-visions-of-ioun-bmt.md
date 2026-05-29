@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feygrove; Visions of Ioun
+linter-yaml-title-alias: Feygrove; Visions of Ioun
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stonecloak
+linter-yaml-title-alias: Stonecloak
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

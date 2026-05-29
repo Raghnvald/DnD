@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Old Bonegrinder"
+linter-yaml-title-alias: "Chapter 6: Old Bonegrinder"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 6: Old Bonegrinder"
   - Chapter 6: Old Bonegrinder
 ---
 # Chapter 6: Old Bonegrinder

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Khaspere Drylund
+linter-yaml-title-alias: Khaspere Drylund
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/skt
 aliases:
   - Khaspere Drylund
-linter-yaml-title-alias: Khaspere Drylund
 ---
 # [Khaspere Drylund](3-Mechanics\CLI\bestiary\npc/khaspere-drylund-skt.md)
 *Source: Storm King's Thunder p. 216*  

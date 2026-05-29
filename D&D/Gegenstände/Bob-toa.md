@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bob
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Bob
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Bob
-linter-yaml-title-alias: Bob
 ---
 # Bob
 *Weapon (battleaxe)*  

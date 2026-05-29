@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Spellwrought Tattoo
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Spellwrought Tattoo
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce
 aliases:
   - Spellwrought Tattoo
-linter-yaml-title-alias: Spellwrought Tattoo
 ---
 # Spellwrought Tattoo
 *Wondrous item (tattoo)*  

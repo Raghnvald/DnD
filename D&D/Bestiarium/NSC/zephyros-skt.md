@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zephyros
+linter-yaml-title-alias: Zephyros
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Zephyros
-linter-yaml-title-alias: Zephyros
 ---
 # [Zephyros](3-Mechanics\CLI\bestiary\npc/zephyros-skt.md)
 *Source: Storm King's Thunder p. 33*  

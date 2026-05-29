@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Plot Points
+linter-yaml-title-alias: Plot Points
 tags:
   - Quelle/5e/dmg
 aliases:

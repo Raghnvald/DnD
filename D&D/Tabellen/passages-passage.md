@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Passages; Passage
+linter-yaml-title-alias: Passages; Passage
 tags:
   - Quelle/5e/dmg
 aliases:

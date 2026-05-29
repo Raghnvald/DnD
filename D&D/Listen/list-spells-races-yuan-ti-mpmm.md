@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Yuan-Ti
+linter-yaml-title-alias: Spells for Yuan-Ti
 tags:
   - Zauber/list/race/yuan-ti
 aliases:

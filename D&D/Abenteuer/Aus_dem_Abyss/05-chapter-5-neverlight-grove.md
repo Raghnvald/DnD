@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Neverlight Grove"
+linter-yaml-title-alias: "Chapter 5: Neverlight Grove"
 tags:
   - Quelle/5e/oota
 aliases:

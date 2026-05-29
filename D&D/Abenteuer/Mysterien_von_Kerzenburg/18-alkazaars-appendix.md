@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Alkazaar's Appendix"
+linter-yaml-title-alias: "Alkazaar's Appendix"
 tags:
   - Quelle/5e/cm
 aliases:
+  - "Alkazaar's Appendix"
   - Alkazaar's Appendix
 ---
 # Alkazaar's Appendix

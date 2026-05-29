@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Nib
 Kategorie: Währung
+Eigenschaften:
+  - /
+Kst.: 1 KM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Nib
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Nib
-linter-yaml-title-alias: Nib
 ---
 # Nib
 *Treasure (coinage)*  

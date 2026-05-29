@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Huge Polar Bear
+linter-yaml-title-alias: Huge Polar Bear
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/2

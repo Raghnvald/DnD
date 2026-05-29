@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Mannerisms
+linter-yaml-title-alias: NPC Mannerisms
 tags:
   - Quelle/5e/dmg
 aliases:

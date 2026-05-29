@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hrossk
+linter-yaml-title-alias: Hrossk
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Hrossk
-linter-yaml-title-alias: Hrossk
 ---
 # [Hrossk](3-Mechanics\CLI\bestiary\npc/hrossk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 183*  

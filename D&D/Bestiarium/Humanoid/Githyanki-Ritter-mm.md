@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Knight
+linter-yaml-title-alias: Githyanki Knight
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

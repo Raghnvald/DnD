@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Fragment of Despondence
+linter-yaml-title-alias: Fragment of Despondence
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
   - "Fragment of Despondence"
+  - Fragment of Despondence
 ---
 # Fragment of Despondence
 *Fragment of Suffering*  

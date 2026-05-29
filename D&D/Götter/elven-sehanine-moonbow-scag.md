@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Sehanine Moonbow
+linter-yaml-title-alias: Sehanine Moonbow
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/elven
   - Quelle/5e/scag
 aliases:
   - "Sehanine Moonbow"
+  - Sehanine Moonbow
 ---
 # Sehanine Moonbow
 *Source: Sword Coast Adventurer's Guide p. 23* 

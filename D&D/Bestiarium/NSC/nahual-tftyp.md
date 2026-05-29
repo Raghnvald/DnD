@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nahual
+linter-yaml-title-alias: Nahual
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Nahual
-linter-yaml-title-alias: Nahual
 ---
 # [Nahual](3-Mechanics\CLI\bestiary\npc/nahual-tftyp.md)
 *Source: Tales from the Yawning Portal p. 91*  

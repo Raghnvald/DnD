@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Thassa's Disciple"
+linter-yaml-title-alias: "Thassa's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

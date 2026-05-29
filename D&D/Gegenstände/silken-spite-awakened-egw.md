@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Silken Spite (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Silken Spite (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Silken Spite (Awakened)
-linter-yaml-title-alias: Silken Spite (Awakened)
 ---
 # Silken Spite (Awakened)
 *Weapon ([rapier](/3-Mechanics/CLI/items/rapier-xphb.md)), artifact (requires attunement)*  

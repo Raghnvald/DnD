@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guthash
+linter-yaml-title-alias: Guthash
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Guthash
-linter-yaml-title-alias: Guthash
 ---
 # [Guthash](3-Mechanics\CLI\bestiary\npc/guthash-tftyp.md)
 *Source: Tales from the Yawning Portal p. 21*  

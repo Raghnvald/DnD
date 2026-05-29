@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling Names – Virtue
+linter-yaml-title-alias: Tiefling Names – Virtue
 tags:
   - Quelle/5e/xge
 aliases:

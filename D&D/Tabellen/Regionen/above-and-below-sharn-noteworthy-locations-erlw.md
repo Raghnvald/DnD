@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Above and Below Sharn: Noteworthy Locations"
+linter-yaml-title-alias: "Above and Below Sharn: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Above and Below Sharn: Noteworthy Locations"
   - Above and Below Sharn: Noteworthy Locations
 ---
 # Above and Below Sharn: Noteworthy Locations

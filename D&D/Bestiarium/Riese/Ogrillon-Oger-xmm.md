@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogrillon Ogre
+linter-yaml-title-alias: Ogrillon Ogre
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

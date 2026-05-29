@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trident
+linter-yaml-title-alias: Trident
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Trident
-linter-yaml-title-alias: Trident
 ---
 # Trident
 *Weapon*  

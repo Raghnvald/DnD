@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Doss Lute
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung durch einen Barden
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Instrument of the Bards, Doss Lute
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -9,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Instrument of the Bards, Doss Lute
-linter-yaml-title-alias: Instrument of the Bards, Doss Lute
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  

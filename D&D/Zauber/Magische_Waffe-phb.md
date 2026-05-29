@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Magic Weapon
 Zaubergrad: 2
+linter-yaml-title-alias: Magic Weapon
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (War Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/war-domain
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (War Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Magic Weapon
-linter-yaml-title-alias: Magic Weapon
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  

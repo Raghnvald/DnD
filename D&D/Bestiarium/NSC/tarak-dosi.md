@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tarak
+linter-yaml-title-alias: Tarak
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/dosi
 aliases:
   - Tarak
-linter-yaml-title-alias: Tarak
 ---
 # [Tarak](3-Mechanics\CLI\bestiary\npc/tarak-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  

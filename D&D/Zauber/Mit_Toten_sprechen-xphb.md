@@ -1,5 +1,16 @@
 ---
 Bezeichnung: Speak with Dead
+linter-yaml-title-alias: Speak with Dead
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Undead)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,19 +25,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/whispers-of-the-grave
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Undead)
-  - Wizard
 aliases:
   - Speak with Dead
-linter-yaml-title-alias: Speak with Dead
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parlor
+linter-yaml-title-alias: Parlor
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

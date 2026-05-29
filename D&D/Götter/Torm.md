@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Torm, Gott der Tapferkeit und Selbstaufopferung
+linter-yaml-title-alias: Torm, Gott der Tapferkeit und Selbstaufopferung
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Krieg
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Torm
+  - Torm, Gott der Tapferkeit und Selbstaufopferung
 ---
 # Torm, Gott der Tapferkeit und Selbstaufopferung
 *Quelle: SRD / Grundregelwerk* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blowgun
+linter-yaml-title-alias: Blowgun
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Blowgun
-linter-yaml-title-alias: Blowgun
 ---
 # Blowgun
 *Weapon*  

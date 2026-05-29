@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Villains
+linter-yaml-title-alias: Simic Villains
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Fabulist Gem
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Fabulist Gem
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
   - Fabulist Gem
-linter-yaml-title-alias: Fabulist Gem
 ---
 # Fabulist Gem
 *Wondrous item, uncommon (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Stagefright's Lines"
+linter-yaml-title-alias: "Stagefright's Lines"
 tags:
   - Quelle/5e/wbtw
 aliases:

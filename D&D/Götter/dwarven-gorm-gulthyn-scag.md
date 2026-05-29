@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Gorm Gulthyn
+linter-yaml-title-alias: Gorm Gulthyn
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:
   - "Gorm Gulthyn"
+  - Gorm Gulthyn
 ---
 # Gorm Gulthyn
 *Source: Sword Coast Adventurer's Guide p. 22* 

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Strixhaven Mascot
+linter-yaml-title-alias: Spells for Strixhaven Mascot
 tags:
   - ttrpg-cli/spell/list/feat/strixhaven-mascot
 aliases:
   - "Spells for Strixhaven Mascot"
+  - Spells for Strixhaven Mascot
 ---
 # Spells for Strixhaven Mascot
 

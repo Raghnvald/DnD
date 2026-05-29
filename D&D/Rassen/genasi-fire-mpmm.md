@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Genasi (Fire)
+linter-yaml-title-alias: Genasi (Fire)
 tags:
   - Quelle/5e/mpmm
   - Rasse/genasi/fire

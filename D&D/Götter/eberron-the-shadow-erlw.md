@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Shadow
+linter-yaml-title-alias: The Shadow
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/eberron

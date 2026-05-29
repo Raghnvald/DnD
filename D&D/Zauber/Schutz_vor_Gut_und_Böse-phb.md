@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Protection from Evil and Good
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -20,18 +30,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of Devotion)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
   - Protection from Evil and Good
-linter-yaml-title-alias: Protection from Evil and Good
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  

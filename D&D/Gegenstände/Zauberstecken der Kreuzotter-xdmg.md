@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of the Adder
+linter-yaml-title-alias: Staff of the Adder
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of the Adder
-linter-yaml-title-alias: Staff of the Adder
 ---
 # Staff of the Adder
 *Staff, weapon, uncommon (requires attunement)*  

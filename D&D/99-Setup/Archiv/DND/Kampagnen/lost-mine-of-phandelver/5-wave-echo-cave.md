@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wave Echo Cave
+linter-yaml-title-alias: Wave Echo Cave
 tags:
   - Quelle/5e/lmop
 aliases:

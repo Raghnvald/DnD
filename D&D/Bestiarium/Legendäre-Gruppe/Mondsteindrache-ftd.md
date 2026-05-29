@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moonstone Dragon
+linter-yaml-title-alias: Moonstone Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

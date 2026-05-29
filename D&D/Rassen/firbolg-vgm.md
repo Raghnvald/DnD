@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Firbolg
+linter-yaml-title-alias: Firbolg
 tags:
   - Quelle/5e/vgm
   - Rasse/firbolg

@@ -9,6 +9,7 @@ Habitat:
   - /
 image: token/Adult-Lunar-Dragon-bam.webp
 status: WIP
+linter-yaml-title-alias: Adult Lunar Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13

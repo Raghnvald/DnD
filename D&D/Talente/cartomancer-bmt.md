@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cartomancer
+linter-yaml-title-alias: Cartomancer
 tags:
   - Kompendium/Talent
   - Quelle/5e/bmt

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Dreadful Word
+linter-yaml-title-alias: Spells for Dreadful Word
 tags:
   - Zauber/list/optfeature/dreadful-word
 aliases:

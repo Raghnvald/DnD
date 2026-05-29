@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to the Realms
+linter-yaml-title-alias: Welcome to the Realms
 tags:
   - Quelle/5e/scag
 aliases:

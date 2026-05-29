@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Norse, Male
+linter-yaml-title-alias: Human Names – Norse, Male
 tags:
   - Quelle/5e/xge
 aliases:

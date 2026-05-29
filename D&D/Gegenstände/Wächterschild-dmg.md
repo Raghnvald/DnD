@@ -2,19 +2,20 @@
 Bezeichnung: Wächterschild
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Wächterschild
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Sentinel Shield
-linter-yaml-title-alias: Sentinel Shield
+  - Wächterschild
 ---
 # Wächterschild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), ungewöhnlich*  

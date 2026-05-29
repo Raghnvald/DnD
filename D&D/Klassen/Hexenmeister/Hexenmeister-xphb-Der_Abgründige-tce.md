@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Fathomless
+linter-yaml-title-alias: The Fathomless
 tags:
   - Klasse/Hexenmeister/fathomless
   - Quelle/5e/tce

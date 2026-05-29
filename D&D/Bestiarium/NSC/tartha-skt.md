@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tartha
+linter-yaml-title-alias: Tartha
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Tartha
-linter-yaml-title-alias: Tartha
 ---
 # [Tartha](3-Mechanics\CLI\bestiary\npc/tartha-skt.md)
 *Source: Storm King's Thunder p. 207*  

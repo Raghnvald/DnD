@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Stabling (per day)
+linter-yaml-title-alias: Stabling (per day)
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Stabling (per day)
-linter-yaml-title-alias: Stabling (per day)
 ---
 # Stabling (per day)
 *Tack and harness*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Sword of Zariel"
+linter-yaml-title-alias: "Chapter 4: Sword of Zariel"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Chapter 4: Sword of Zariel"
   - Chapter 4: Sword of Zariel
 ---
 # Chapter 4: Sword of Zariel

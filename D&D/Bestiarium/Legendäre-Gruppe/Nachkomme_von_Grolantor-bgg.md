@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Grolantor
+linter-yaml-title-alias: Scion of Grolantor
 tags:
   - Monster/legendary-group
   - Quelle/5e/bgg

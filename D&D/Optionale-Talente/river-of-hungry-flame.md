@@ -1,5 +1,6 @@
 ---
 Bezeichnung: River of Hungry Flame
+linter-yaml-title-alias: River of Hungry Flame
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

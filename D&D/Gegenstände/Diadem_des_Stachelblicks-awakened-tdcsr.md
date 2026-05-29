@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Circlet of Barbed Vision (Awakened)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Circlet of Barbed Vision (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
   - Circlet of Barbed Vision (Awakened)
-linter-yaml-title-alias: Circlet of Barbed Vision (Awakened)
 ---
 # Circlet of Barbed Vision (Awakened)
 *Wondrous item, legendary (requires attunement by a creature of non-good alignment)*  

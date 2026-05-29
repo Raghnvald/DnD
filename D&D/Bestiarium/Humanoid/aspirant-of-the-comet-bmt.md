@@ -5,6 +5,7 @@ Bezeichnung: Aspirant of the Comet
 Kategorie: Humanoid
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Aspirant of the Comet
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

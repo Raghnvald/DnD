@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githyanki
+linter-yaml-title-alias: Githyanki
 tags:
   - Quelle/5e/mpmm
   - Rasse/githyanki

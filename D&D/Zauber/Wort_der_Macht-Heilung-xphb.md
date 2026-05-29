@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Power Word Heal
+linter-yaml-title-alias: Power Word Heal
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/9
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Power Word Heal
-linter-yaml-title-alias: Power Word Heal
 ---
 # Power Word Heal
 *9th-level, Enchantment*  

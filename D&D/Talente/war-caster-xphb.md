@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Caster
+linter-yaml-title-alias: War Caster
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

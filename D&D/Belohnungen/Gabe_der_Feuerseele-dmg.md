@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe der Feuerseele
+linter-yaml-title-alias: Gabe der Feuerseele
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of the Fire Soul
+  - Gabe der Feuerseele
 ---
 # Gabe der Feuerseele
 

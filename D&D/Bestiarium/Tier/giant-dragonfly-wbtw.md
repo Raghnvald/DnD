@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Dragonfly
+linter-yaml-title-alias: Giant Dragonfly
 tags:
   - Quelle/5e/wbtw
   - ttrpg-cli/monster/cr/1-2
@@ -9,6 +10,7 @@ tags:
   - ttrpg-cli/monster/type/beast
 aliases:
   - "Giant Dragonfly"
+  - Giant Dragonfly
 ---
 # [Giant Dragonfly](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 234*  

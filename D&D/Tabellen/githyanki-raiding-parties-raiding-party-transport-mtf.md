@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githyanki Raiding Parties; Raiding Party Transport
+linter-yaml-title-alias: Githyanki Raiding Parties; Raiding Party Transport
 tags:
   - Quelle/5e/mtf
 aliases:

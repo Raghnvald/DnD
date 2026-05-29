@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Blessing of the Lone Champion
+linter-yaml-title-alias: Blessing of the Lone Champion
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/drde
 aliases:
   - "Blessing of the Lone Champion"
+  - Blessing of the Lone Champion
 ---
 # Blessing of the Lone Champion
 

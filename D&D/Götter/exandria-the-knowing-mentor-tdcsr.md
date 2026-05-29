@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Knowing Mentor
+linter-yaml-title-alias: The Knowing Mentor
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/knowledge

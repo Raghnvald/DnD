@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Recognized in House
+linter-yaml-title-alias: Recognized in House
 tags:
   - Kompendium/Optionales/rp
   - Quelle/5e/efa
 aliases:
   - "Recognized in House"
+  - Recognized in House
 ---
 # Recognized in House
 *Source: Eberron: Forge of the Artificer p. 68*  

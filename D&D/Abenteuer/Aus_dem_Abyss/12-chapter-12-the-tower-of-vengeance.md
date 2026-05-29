@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 12: The Tower of Vengeance"
+linter-yaml-title-alias: "Chapter 12: The Tower of Vengeance"
 tags:
   - Quelle/5e/oota
 aliases:

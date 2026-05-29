@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Fang of Yeenoghu
+linter-yaml-title-alias: Gnoll Fang of Yeenoghu
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

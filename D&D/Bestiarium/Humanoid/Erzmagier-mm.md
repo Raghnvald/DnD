@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archmage
+linter-yaml-title-alias: Archmage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

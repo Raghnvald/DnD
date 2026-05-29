@@ -1,7 +1,10 @@
 ---
 Bezeichnung: "**Anhang B: Dramatis Personae**"
+linter-yaml-title-alias: "**Anhang B: Dramatis Personae**"
 tags:
   - Quelle/5e/cos
+aliases:
+  - "**Anhang B: Dramatis Personae**"
 ---
 # **Anhang B: Dramatis Personae**
 

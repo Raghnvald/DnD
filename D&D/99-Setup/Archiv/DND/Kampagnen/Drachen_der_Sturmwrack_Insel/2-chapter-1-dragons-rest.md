@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Dragon's Rest"
+linter-yaml-title-alias: "Chapter 1: Dragon's Rest"
 tags:
   - Quelle/5e/dosi
 aliases:
+  - "Chapter 1: Dragon's Rest"
   - Chapter 1: Dragon's Rest
 ---
 # Chapter 1: Dragon's Rest

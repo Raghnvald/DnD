@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Word of Recall
+linter-yaml-title-alias: Word of Recall
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Word of Recall
-linter-yaml-title-alias: Word of Recall
 ---
 # Word of Recall
 *6th-level, Conjuration*  

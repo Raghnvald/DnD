@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Adapting to Other Worlds"
+linter-yaml-title-alias: "Appendix C: Adapting to Other Worlds"
 tags:
   - Quelle/5e/pota
 aliases:

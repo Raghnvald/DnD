@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artificer Spells
+linter-yaml-title-alias: Artificer Spells
 tags:
   - Zauber/list/class/artificer
 aliases:

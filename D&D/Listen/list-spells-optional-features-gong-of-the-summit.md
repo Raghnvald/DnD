@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Gong of the Summit
+linter-yaml-title-alias: Spells for Gong of the Summit
 tags:
   - Zauber/list/optfeature/gong-of-the-summit
 aliases:

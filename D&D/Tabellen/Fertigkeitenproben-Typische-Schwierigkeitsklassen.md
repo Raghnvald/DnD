@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Fertigkeitenproben; Typische Schwierigkeitsklassen
+linter-yaml-title-alias: Fertigkeitenproben; Typische Schwierigkeitsklassen
 tags:
   - Quelle/5e/phb
 aliases:
   - Ability Checks; Typical Difficulty Classes
+  - Fertigkeitenproben; Typische Schwierigkeitsklassen
 ---
 # Fertigkeitenproben; Typische Schwierigkeitsklassen
 *Quelle: SRD / Grundregelwerk*

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Earthboard
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Earthboard
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tdcsr
 aliases:
   - Earthboard
-linter-yaml-title-alias: Earthboard
 ---
 # Earthboard
 *Wondrous item, rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undying Councilor
+linter-yaml-title-alias: Undying Councilor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Undying Councilor
-linter-yaml-title-alias: Undying Councilor
 ---
 # [Undying Councilor](3-Mechanics\CLI\bestiary\undead/undying-councilor-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  

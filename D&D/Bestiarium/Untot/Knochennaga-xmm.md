@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Naga
+linter-yaml-title-alias: Bone Naga
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Bone Naga
-linter-yaml-title-alias: Bone Naga
 ---
 # [Bone Naga](3-Mechanics\CLI\bestiary\undead/bone-naga-xmm.md)
 *Source: Monster Manual (2024) p. 53*  

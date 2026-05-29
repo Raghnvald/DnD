@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zlanic Chardalyn
+linter-yaml-title-alias: Zlanic Chardalyn
 tags:
   - Quelle/5e/fraif
 aliases:
   - "Zlanic Chardalyn"
+  - Zlanic Chardalyn
 ---
 # Zlanic Chardalyn
 *Generic Hazard*  

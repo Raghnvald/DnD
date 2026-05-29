@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goibhniu
+linter-yaml-title-alias: Goibhniu
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/forge

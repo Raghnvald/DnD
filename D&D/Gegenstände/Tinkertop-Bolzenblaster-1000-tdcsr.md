@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tinkertop Boltblaster 1000
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Tinkertop Boltblaster 1000
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Tinkertop Boltblaster 1000
-linter-yaml-title-alias: Tinkertop Boltblaster 1000
 ---
 # Tinkertop Boltblaster 1000
 *Weapon ([hand crossbow](/3-Mechanics/CLI/items/hand-crossbow-xphb.md)), very rare (requires attunement)*  

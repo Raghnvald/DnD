@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blinded Troll
+linter-yaml-title-alias: Blinded Troll
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Blinded Troll
-linter-yaml-title-alias: Blinded Troll
 ---
 # [Blinded Troll](3-Mechanics\CLI\bestiary\npc/blinded-troll-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 114*  

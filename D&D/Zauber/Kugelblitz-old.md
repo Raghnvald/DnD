@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kugelblitz
+linter-yaml-title-alias: Kugelblitz
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -8,6 +9,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Chain Lightning
+  - Kugelblitz
 ---
 # Kugelblitz
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

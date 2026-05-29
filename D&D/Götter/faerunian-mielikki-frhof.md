@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mielikki
+linter-yaml-title-alias: Mielikki
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Mielikki"
   - "Our Lady of the Forest"
   - "The Forest Queen"
+  - Mielikki
 ---
 # Mielikki
 *Source: Forgotten Realms: Heroes of Faerûn p. 115* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Death Tyrant
+linter-yaml-title-alias: Death Tyrant
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

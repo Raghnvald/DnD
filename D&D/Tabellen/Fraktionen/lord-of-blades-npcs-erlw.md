@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lord of Blades NPCs
+linter-yaml-title-alias: Lord of Blades NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

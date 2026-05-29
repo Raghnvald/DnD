@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Telekinesis
 Zaubergrad: 5
+linter-yaml-title-alias: Telekinesis
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
   - Telekinesis
-linter-yaml-title-alias: Telekinesis
 ---
 # Telekinesis
 *5th-level, Transmutation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: About the Adventure
+linter-yaml-title-alias: About the Adventure
 tags:
   - Quelle/5e/bgdia
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Tockworth's Clockworks"
+linter-yaml-title-alias: "Tockworth's Clockworks"
 tags:
   - Quelle/5e/kftgv
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grimlock
+linter-yaml-title-alias: Grimlock
 tags:
   - Quelle/5e/dmg
   - Rasse/grimlock

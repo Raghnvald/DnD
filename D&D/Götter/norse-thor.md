@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thor
+linter-yaml-title-alias: Thor
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/war

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavy Crossbow
+linter-yaml-title-alias: Heavy Crossbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Heavy Crossbow
-linter-yaml-title-alias: Heavy Crossbow
 ---
 # Heavy Crossbow
 *Weapon*  

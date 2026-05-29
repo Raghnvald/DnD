@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kadroth
+linter-yaml-title-alias: Kadroth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Kadroth
-linter-yaml-title-alias: Kadroth
 ---
 # [Kadroth](3-Mechanics\CLI\bestiary\npc/kadroth-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 42*  

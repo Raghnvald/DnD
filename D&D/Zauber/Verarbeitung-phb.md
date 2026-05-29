@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Fabricate
 Zaubergrad: 4
+linter-yaml-title-alias: Fabricate
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Fabricate
-linter-yaml-title-alias: Fabricate
 ---
 # Fabricate
 *4th-level, Transmutation*  

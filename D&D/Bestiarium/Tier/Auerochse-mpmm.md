@@ -5,6 +5,7 @@ Bezeichnung: Aurochs
 Kategorie: Tier (Rind)
 Größe: Groß
 status: WIP
+linter-yaml-title-alias: Aurochs
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

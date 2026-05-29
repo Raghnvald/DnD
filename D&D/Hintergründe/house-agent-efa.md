@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Agent
+linter-yaml-title-alias: House Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Agent"
+  - House Agent
 ---
 # House Agent
 *Source: Eberron: Forge of the Artificer p. 26*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Modifiers
+linter-yaml-title-alias: Ability Modifiers
 tags:
   - Quelle/5e/xphb
 aliases:

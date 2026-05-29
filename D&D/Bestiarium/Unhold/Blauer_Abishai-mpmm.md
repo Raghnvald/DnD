@@ -2,6 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blue Abishai
+Kategorie: Unhold
+image: token/blue-abishai-mpmm.webp
+linter-yaml-title-alias: Blue Abishai
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

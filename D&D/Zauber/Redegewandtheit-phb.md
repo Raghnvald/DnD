@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Glibness
 Zaubergrad: 8
+linter-yaml-title-alias: Glibness
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
 aliases:
   - Glibness
-linter-yaml-title-alias: Glibness
 ---
 # Glibness
 *8th-level, Transmutation*  

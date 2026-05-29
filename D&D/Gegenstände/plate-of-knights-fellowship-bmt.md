@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Plate of Knight's Fellowship"
 Rüstung: Schwer
+linter-yaml-title-alias: "Plate of Knight's Fellowship"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
-  - Plate of Knight's Fellowship
-linter-yaml-title-alias: Plate of Knight's Fellowship
+  - "Plate of Knight's Fellowship"
 ---
 # Plate of Knight's Fellowship
 *Heavy armor (plate armor), uncommon (requires attunement)*  

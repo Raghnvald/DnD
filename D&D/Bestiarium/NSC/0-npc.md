@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Index of Npc
+linter-yaml-title-alias: Index of Npc
 aliases:
   - Index of Npc
-linter-yaml-title-alias: Index of Npc
 ---
 # Index of Npc
 

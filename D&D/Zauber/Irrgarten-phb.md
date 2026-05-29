@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Maze
 Zaubergrad: 8
+linter-yaml-title-alias: Maze
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Maze
-linter-yaml-title-alias: Maze
 ---
 # Maze
 *8th-level, Conjuration*  

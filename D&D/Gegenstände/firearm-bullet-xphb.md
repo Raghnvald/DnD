@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Firearm Bullet
+linter-yaml-title-alias: Firearm Bullet
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Firearm Bullet
-linter-yaml-title-alias: Firearm Bullet
 ---
 # Firearm Bullet
 *Ammunition*  

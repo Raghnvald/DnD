@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Oloore Root Teabag
+Kst.: 100 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Oloore Root Teabag
 tags:
   - Gegenstand/Ausrüstung/illegal-drug
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/tdcsr
 aliases:
   - Oloore Root Teabag
-linter-yaml-title-alias: Oloore Root Teabag
 ---
 # Oloore Root Teabag
 *Illegal drug*  

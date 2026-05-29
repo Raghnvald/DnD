@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of Blades
+linter-yaml-title-alias: Path of Blades
 tags:
   - Kompendium/Bedrohung/cmpx
   - Quelle/5e/xge

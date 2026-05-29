@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shroud of Shadow
+linter-yaml-title-alias: Shroud of Shadow
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

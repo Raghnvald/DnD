@@ -1,46 +1,49 @@
 ---
-Bezeichnung: Ring of Resistance
+Bezeichnung: Ring des Widerstands
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring des Widerstands
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Resistance
-linter-yaml-title-alias: Ring of Resistance
+  - Ring des Widerstands
 ---
-# Ring of Resistance
-*Ring, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-resistance.webp#right)
+# Ring des Widerstands
+*Ring, selten (benötigt Einstimmung)*  
+![](img/ring-of-resistance.webp#right)
 
-You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.
+Du hast Resistenz gegen eine Schadensart, während du diesen Ring trägst. Der Edelstein im Ring bestimmt die Schadensart, welche der SL vorgibt oder zufällig bestimmt.
 
-| dice: d10 | Damage Type | Gem |
-|-----------|-------------|-----|
-| 1 | [Acid](/3-Mechanics/CLI/items/ring-of-acid-resistance.md) | Pearl |
-| 2 | [Cold](/3-Mechanics/CLI/items/ring-of-cold-resistance.md) | Tourmaline |
-| 3 | [Fire](/3-Mechanics/CLI/items/ring-of-fire-resistance.md) | Garnet |
-| 4 | [Force](/3-Mechanics/CLI/items/ring-of-force-resistance.md) | Sapphire |
-| 5 | [Lightning](/3-Mechanics/CLI/items/ring-of-lightning-resistance.md) | Citrine |
-| 6 | [Necrotic](/3-Mechanics/CLI/items/ring-of-necrotic-resistance.md) | Jet |
-| 7 | [Poison](/3-Mechanics/CLI/items/ring-of-poison-resistance.md) | Amethyst |
-| 8 | [Psychic](/3-Mechanics/CLI/items/ring-of-psychic-resistance.md) | Jade |
-| 9 | [Radiant](/3-Mechanics/CLI/items/ring-of-radiant-resistance.md) | Topaz |
-| 10 | [Thunder](/3-Mechanics/CLI/items/ring-of-thunder-resistance.md) | Spinel |
+| W10 | Schadensart                                       | Edelstein |
+| --- | ------------------------------------------------- | --------- |
+| 1   | [Säure](Ring_des_Widerstands-Säure-dmg)           | Perle     |
+| 2   | [Kälte](Ring_des_Widerstands-Kälte-dmg)           | Turmalin  |
+| 3   | [Feuer](Ring_des_Widerstands-Feuer-dmg)           | Granat    |
+| 4   | [Energie](Ring_des_Widerstands-Energie-dmg)       | Saphir    |
+| 5   | [Blitz](Ring_des_Widerstands-Blitz-dmg)           | Zitrin    |
+| 6   | [Nekrotisch](Ring_des_Widerstands-Nekrotisch-dmg) | Gagat     |
+| 7   | [Gift](Ring_des_Widerstands-Gift-dmg)             | Amethyst  |
+| 8   | [Psychisch](Ring_des_Widerstands-Psychisch-dmg)   | Jade      |
+| 9   | [Gleißend](Ring_des_Widerstands-Gleißend-dmg)     | Topas     |
+| 10  | [Schall](Ring_des_Widerstands-Schall-dmg)         | Spinell   |
 ^damage-type-gem
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
-- [Ring of Acid Resistance](/3-Mechanics/CLI/items/ring-of-acid-resistance.md)
-- [Ring of Cold Resistance](/3-Mechanics/CLI/items/ring-of-cold-resistance.md)
-- [Ring of Fire Resistance](/3-Mechanics/CLI/items/ring-of-fire-resistance.md)
-- [Ring of Force Resistance](/3-Mechanics/CLI/items/ring-of-force-resistance.md)
-- [Ring of Lightning Resistance](/3-Mechanics/CLI/items/ring-of-lightning-resistance.md)
-- [Ring of Necrotic Resistance](/3-Mechanics/CLI/items/ring-of-necrotic-resistance.md)
-- [Ring of Poison Resistance](/3-Mechanics/CLI/items/ring-of-poison-resistance.md)
-- [Ring of Psychic Resistance](/3-Mechanics/CLI/items/ring-of-psychic-resistance.md)
-- [Ring of Radiant Resistance](/3-Mechanics/CLI/items/ring-of-radiant-resistance.md)
-- [Ring of Thunder Resistance](/3-Mechanics/CLI/items/ring-of-thunder-resistance.md)
+- [[Ring_des_Widerstands-Blitz-dmg|Ring des Blitzwiderstands]]
+- [[Ring_des_Widerstands-Energie-dmg|Ring des Energiewiderstands]]
+- [[Ring_des_Widerstands-Feuer-dmg|Ring des Feuerwiderstands]]
+- [[Ring_des_Widerstands-Gift-dmg|Ring des Giftwiderstands]]
+- [[Ring_des_Widerstands-Gleißend-dmg|Ring des Gleißenden Widerstands]]
+- [[Ring_des_Widerstands-Kälte-dmg|Ring des Kältewiderstands]]
+- [[Ring_des_Widerstands-Nekrotisch-dmg|Ring des Nekrotischen Widerstands]]
+- [[Ring_des_Widerstands-Psychisch-dmg|Ring des Psychischen Widerstands]]
+- [[Ring_des_Widerstands-Säure-dmg|Ring des Säurewiderstands]]
+- [[Ring_des_Widerstands-Schall-dmg|Ring des Schallwiderstands]]
 
-*Source: Dungeon Master's Guide p. 192*
+*Quelle: Spielleiterhandbuch S. 179*

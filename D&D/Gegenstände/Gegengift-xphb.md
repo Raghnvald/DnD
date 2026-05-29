@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Antitoxin
+linter-yaml-title-alias: Antitoxin
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Antitoxin
-linter-yaml-title-alias: Antitoxin
 ---
 # Antitoxin
 *Adventuring gear*  

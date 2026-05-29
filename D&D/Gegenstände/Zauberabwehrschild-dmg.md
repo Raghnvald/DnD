@@ -2,20 +2,21 @@
 Bezeichnung: Zauberabwehrschild
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Zauberabwehrschild
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Spellguard Shield
-linter-yaml-title-alias: Spellguard Shield
+  - Zauberabwehrschild
 ---
 # Zauberabwehrschild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*

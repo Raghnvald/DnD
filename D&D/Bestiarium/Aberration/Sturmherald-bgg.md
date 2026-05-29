@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Riesig
 HG: 17
 status: WIP
+linter-yaml-title-alias: Storm Herald
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17

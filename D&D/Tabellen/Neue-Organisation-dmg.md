@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Neue Organisation
+linter-yaml-title-alias: Neue Organisation
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Neue Organisation
   - New Organizations
 ---
 # Neue Organisation

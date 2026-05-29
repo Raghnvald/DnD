@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Noble"
+linter-yaml-title-alias: "Baldur's Gate Noble"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Noble"
   - Baldur's Gate Noble
 ---
 # Baldur's Gate Noble

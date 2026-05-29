@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iron Defender
+linter-yaml-title-alias: Iron Defender
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Traveler's Clothes"
+linter-yaml-title-alias: "Traveler's Clothes"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Traveler's Clothes
-linter-yaml-title-alias: Traveler's Clothes
+  - "Traveler's Clothes"
 ---
 # Traveler's Clothes
 *Adventuring gear*  

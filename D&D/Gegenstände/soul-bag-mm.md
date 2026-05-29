@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Soul Bag
+linter-yaml-title-alias: Soul Bag
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/other
   - Quelle/5e/mm
 aliases:
   - Soul Bag
-linter-yaml-title-alias: Soul Bag
 ---
 # Soul Bag
 *Very rare*  

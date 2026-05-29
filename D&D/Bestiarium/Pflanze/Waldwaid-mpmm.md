@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wood Woad
+linter-yaml-title-alias: Wood Woad
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hypnos Magen
+linter-yaml-title-alias: Hypnos Magen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix E: Player Handouts"
+linter-yaml-title-alias: "Appendix E: Player Handouts"
 tags:
   - Quelle/5e/toa
 aliases:
+  - "Appendix E: Player Handouts"
   - Appendix E: Player Handouts
 ---
 # Appendix E: Player Handouts

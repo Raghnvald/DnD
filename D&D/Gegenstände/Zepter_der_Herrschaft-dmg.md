@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of Rulership
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of Rulership
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rod of Rulership
-linter-yaml-title-alias: Rod of Rulership
 ---
 # Rod of Rulership
 *Rod, major, rare (requires attunement)*  

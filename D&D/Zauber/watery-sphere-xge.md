@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Watery Sphere
 Zaubergrad: 4
+linter-yaml-title-alias: Watery Sphere
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,13 +19,6 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Watery Sphere
 ---

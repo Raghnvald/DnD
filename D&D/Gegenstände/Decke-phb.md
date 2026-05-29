@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Blanket
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 SM
 Gew.: 1,5 kg
+status: WIP
+linter-yaml-title-alias: Blanket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Blanket
-linter-yaml-title-alias: Blanket
 ---
 # Blanket
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Fates
+linter-yaml-title-alias: Charm of the Fates
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

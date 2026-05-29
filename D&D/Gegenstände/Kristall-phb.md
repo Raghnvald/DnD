@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Kristall
 Kategorie: Fokus, Arkan
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 0,5 kg
+status: completed
+linter-yaml-title-alias: Kristall
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Crystal
   - Kristall
-linter-yaml-title-alias: Kristall
 ---
 # Kristall
 *Zauberfokus*  

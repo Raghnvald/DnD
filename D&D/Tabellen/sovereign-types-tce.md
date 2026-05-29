@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Types
+linter-yaml-title-alias: Sovereign Types
 tags:
   - Quelle/5e/tce
 aliases:

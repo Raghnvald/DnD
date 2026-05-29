@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Amulett
 Kategorie: Fokus, Heiliges Symbol
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 0,5 kg
+status: completed
+linter-yaml-title-alias: Amulett
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -13,7 +16,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Amulet
-linter-yaml-title-alias: Amulett
+  - Amulett
 ---
 # Amulett
 *Zauberfokus* 

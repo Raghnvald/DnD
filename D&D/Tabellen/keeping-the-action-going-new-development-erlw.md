@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keeping the Action Going; New Development
+linter-yaml-title-alias: Keeping the Action Going; New Development
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gem of Seeing
+linter-yaml-title-alias: Gem of Seeing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Gem of Seeing
-linter-yaml-title-alias: Gem of Seeing
 ---
 # Gem of Seeing
 *Wondrous item, rare (requires attunement)*  

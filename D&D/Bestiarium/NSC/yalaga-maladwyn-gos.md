@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yalaga Maladwyn
+linter-yaml-title-alias: Yalaga Maladwyn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Yalaga Maladwyn
-linter-yaml-title-alias: Yalaga Maladwyn
 ---
 # [Yalaga Maladwyn](3-Mechanics\CLI\bestiary\npc/yalaga-maladwyn-gos.md)
 *Source: Ghosts of Saltmarsh p. 226*  

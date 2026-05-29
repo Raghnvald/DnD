@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Mind Flayer; Mind Flayer Flaws
+linter-yaml-title-alias: Roleplaying a Mind Flayer; Mind Flayer Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

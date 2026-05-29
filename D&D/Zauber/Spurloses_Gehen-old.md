@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spurloses Gehen
 Zaubergrad: 2
+linter-yaml-title-alias: Spurloses Gehen
 tags:
   - Klasse/Druide
   - Klasse/Waldläufer
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Pass without Trace
+  - Spurloses Gehen
 ---
 # Spurloses Gehen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

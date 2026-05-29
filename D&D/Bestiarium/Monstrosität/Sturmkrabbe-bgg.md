@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Storm Crab
+linter-yaml-title-alias: Storm Crab
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/11

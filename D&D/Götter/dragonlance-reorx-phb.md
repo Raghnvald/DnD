@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reorx
+linter-yaml-title-alias: Reorx
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge

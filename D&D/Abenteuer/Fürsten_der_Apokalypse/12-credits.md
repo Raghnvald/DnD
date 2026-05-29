@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/pota
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Princes of the Apocalypse* 

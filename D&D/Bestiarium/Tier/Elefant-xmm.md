@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elephant
+linter-yaml-title-alias: Elephant
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

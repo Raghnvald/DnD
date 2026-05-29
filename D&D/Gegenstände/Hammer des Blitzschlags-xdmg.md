@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hammer of Thunderbolts
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Hammer of Thunderbolts
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +13,6 @@ aliases:
   - Hammer of Thunderbolts
   - Maul of Thunderbolts
   - Warhammer of Thunderbolts
-linter-yaml-title-alias: Hammer of Thunderbolts
 ---
 # Hammer of Thunderbolts
 *Legendary (requires attunement)*  

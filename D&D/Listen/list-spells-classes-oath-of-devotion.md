@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Oath of Devotion
+linter-yaml-title-alias: Spells for Oath of Devotion
 tags:
   - Zauber/list/subclass/oath-of-devotion
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rao
+linter-yaml-title-alias: Rao
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

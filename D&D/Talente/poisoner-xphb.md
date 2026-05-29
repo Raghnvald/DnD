@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisoner
+linter-yaml-title-alias: Poisoner
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

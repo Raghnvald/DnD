@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Backgrounds
+linter-yaml-title-alias: Backstory; Backgrounds
 tags:
   - Quelle/5e/egw
 aliases:

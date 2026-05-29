@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Ring of the Orator
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: WIP
+linter-yaml-title-alias: Ring of the Orator
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +12,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Ring of the Orator
-linter-yaml-title-alias: Ring of the Orator
 ---
 # Ring of the Orator
 *Ring, uncommon (requires attunement)*  

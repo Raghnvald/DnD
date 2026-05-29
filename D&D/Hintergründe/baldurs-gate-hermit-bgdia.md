@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Hermit"
+linter-yaml-title-alias: "Baldur's Gate Hermit"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Hermit"
   - Baldur's Gate Hermit
 ---
 # Baldur's Gate Hermit

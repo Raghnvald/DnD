@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cave Fisher
+linter-yaml-title-alias: Cave Fisher
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

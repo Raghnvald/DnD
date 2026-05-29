@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire Giant Bag Contents; Fire Giant Bag Items
+linter-yaml-title-alias: Fire Giant Bag Contents; Fire Giant Bag Items
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sailing Ship
+linter-yaml-title-alias: Sailing Ship
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/sea

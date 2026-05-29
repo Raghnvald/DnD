@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Animal Messenger
+linter-yaml-title-alias: Animal Messenger
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,14 +15,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Animal Messenger
-linter-yaml-title-alias: Animal Messenger
 ---
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  

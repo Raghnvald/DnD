@@ -7,18 +7,18 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Wrathful Smite
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
   - Wrathful Smite
-linter-yaml-title-alias: Wrathful Smite
 ---
 # Wrathful Smite
 *1st-level, Evocation*  

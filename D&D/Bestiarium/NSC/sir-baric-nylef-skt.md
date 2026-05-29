@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sir Baric Nylef
+linter-yaml-title-alias: Sir Baric Nylef
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Sir Baric Nylef
-linter-yaml-title-alias: Sir Baric Nylef
 ---
 # [Sir Baric Nylef](3-Mechanics\CLI\bestiary\npc/sir-baric-nylef-skt.md)
 *Source: Storm King's Thunder p. 249*  

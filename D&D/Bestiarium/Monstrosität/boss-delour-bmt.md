@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boss Delour
+linter-yaml-title-alias: Boss Delour
 tags:
   - Monster/Größe/Klein
   - Monster/HG/9

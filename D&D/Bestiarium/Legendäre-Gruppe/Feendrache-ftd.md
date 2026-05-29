@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faerie Dragon
+linter-yaml-title-alias: Faerie Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Stone of Controlling Earth Elementals
+linter-yaml-title-alias: Stone of Controlling Earth Elementals
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Stone of Controlling Earth Elementals
-linter-yaml-title-alias: Stone of Controlling Earth Elementals
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous item, rare*  

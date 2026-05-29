@@ -10,6 +10,7 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Warhorse Skeleton
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/planar
@@ -21,7 +22,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Warhorse Skeleton
-linter-yaml-title-alias: Warhorse Skeleton
 ---
 # [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

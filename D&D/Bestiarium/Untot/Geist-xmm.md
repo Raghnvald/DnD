@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghost
+linter-yaml-title-alias: Ghost
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ghost
-linter-yaml-title-alias: Ghost
 ---
 # [Ghost](3-Mechanics\CLI\bestiary\undead/ghost-xmm.md)
 *Source: Monster Manual (2024) p. 131. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

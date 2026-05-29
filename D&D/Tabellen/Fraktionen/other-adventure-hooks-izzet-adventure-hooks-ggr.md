@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Other Adventure Hooks; Izzet Adventure Hooks
+linter-yaml-title-alias: Other Adventure Hooks; Izzet Adventure Hooks
 tags:
   - Quelle/5e/ggr
 aliases:

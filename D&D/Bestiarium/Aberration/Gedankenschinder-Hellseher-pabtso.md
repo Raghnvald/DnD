@@ -5,7 +5,9 @@ Bezeichnung: Mind Flayer Clairvoyant
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 11
+Image: token/mind-flayer-clairvoyant-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Mind Flayer Clairvoyant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Clairvoyant
-Image: token/mind-flayer-clairvoyant-pabtso.webp
 ---
 # Mind Flayer Clairvoyant
 *Source: Phandelver and Below: The Shattered Obelisk p. 209*  

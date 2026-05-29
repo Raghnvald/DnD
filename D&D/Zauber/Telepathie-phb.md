@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Telepathy
 Zaubergrad: 8
+linter-yaml-title-alias: Telepathy
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Telepathy
-linter-yaml-title-alias: Telepathy
 ---
 # Telepathy
 *8th-level, Evocation*  

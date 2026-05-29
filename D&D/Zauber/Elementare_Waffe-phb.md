@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Elemental Weapon
 Zaubergrad: 3
+linter-yaml-title-alias: Elemental Weapon
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
   - Elemental Weapon
-linter-yaml-title-alias: Elemental Weapon
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  

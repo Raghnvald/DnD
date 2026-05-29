@@ -5,6 +5,11 @@ Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: K, <1 Minute
+linter-yaml-title-alias: Gefühle besänftigen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Warlock (The Archfey)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -12,13 +17,9 @@ tags:
   - Subklasse/the-archfey
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Warlock (The Archfey)
 aliases:
   - Calm Emotions
-linter-yaml-title-alias: Gefühle besänftigen
+  - Gefühle besänftigen
 ---
 # Gefühle besänftigen
 *Verzauberung des 2. Grades*  

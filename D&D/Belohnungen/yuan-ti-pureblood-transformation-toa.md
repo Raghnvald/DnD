@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yuan-Ti Pureblood Transformation
+linter-yaml-title-alias: Yuan-Ti Pureblood Transformation
 tags:
   - Kompendium/Belohnung/other
   - Quelle/5e/toa

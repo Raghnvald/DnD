@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Double-Bladed Scimitar
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Double-Bladed Scimitar
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Double-Bladed Scimitar
-linter-yaml-title-alias: Double-Bladed Scimitar
 ---
 # Double-Bladed Scimitar
 *Weapon*  

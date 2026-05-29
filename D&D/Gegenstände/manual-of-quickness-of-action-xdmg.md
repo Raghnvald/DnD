@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Quickness of Action
+linter-yaml-title-alias: Manual of Quickness of Action
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Quickness of Action
-linter-yaml-title-alias: Manual of Quickness of Action
 ---
 # Manual of Quickness of Action
 *Wondrous item, very rare*  

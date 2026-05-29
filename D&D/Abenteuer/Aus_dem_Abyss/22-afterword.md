@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Afterword
+linter-yaml-title-alias: Afterword
 tags:
   - Quelle/5e/oota
 aliases:
   - "Afterword"
+  - Afterword
 ---
 # Afterword
 *Source: Out of the Abyss, p. 250* 

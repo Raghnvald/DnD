@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Talisman of Pure Good
+linter-yaml-title-alias: Talisman of Pure Good
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Talisman of Pure Good
-linter-yaml-title-alias: Talisman of Pure Good
 ---
 # Talisman of Pure Good
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  

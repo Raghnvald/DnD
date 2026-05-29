@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact of the Chain
+linter-yaml-title-alias: Pact of the Chain
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

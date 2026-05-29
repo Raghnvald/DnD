@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Battle Balloon
+linter-yaml-title-alias: Battle Balloon
 tags:
   - Quelle/5e/ai
   - ttrpg-cli/vehicle/size/gargantuan
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/ship
 aliases:
   - "Battle Balloon"
+  - Battle Balloon
 ---
 # Battle Balloon
 *Source: Acquisitions Incorporated p. 218*  

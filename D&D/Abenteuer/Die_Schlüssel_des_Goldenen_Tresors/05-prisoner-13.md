@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Prisoner 13
+linter-yaml-title-alias: Prisoner 13
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Prisoner 13"
+  - Prisoner 13
 ---
 # Prisoner 13
 *Source: Keys from the Golden Vault, p. 55* 

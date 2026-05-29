@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix F: Story Concept Art"
+linter-yaml-title-alias: "Appendix F: Story Concept Art"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Appendix F: Story Concept Art"
   - Appendix F: Story Concept Art
 ---
 # Appendix F: Story Concept Art

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Test of the Empty Moon
+linter-yaml-title-alias: Test of the Empty Moon
 tags:
   - Kompendium/Bedrohung/mech
   - Quelle/5e/bmt

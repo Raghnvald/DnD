@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alignment
+linter-yaml-title-alias: Alignment
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -7,6 +7,12 @@ Komponenten: V, G
 Wirkungsdauer: 7 Tage
 Angriff: Nah
 Schaden: n/a
+linter-yaml-title-alias: Ansteckung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Paladin (Oathbreaker)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -15,14 +21,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Paladin (Oathbreaker)
 aliases:
+  - Ansteckung
   - Contagion
-linter-yaml-title-alias: Ansteckung
 ---
 # Ansteckung
 *Nekromantie des 5. Grades*

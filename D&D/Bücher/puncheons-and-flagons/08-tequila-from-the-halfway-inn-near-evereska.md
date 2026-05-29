@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Tequila from The Halfway Inn near Evereska
+linter-yaml-title-alias: Tequila from The Halfway Inn near Evereska
 tags:
   - Quelle/5e/paf
 aliases:
   - "Tequila from The Halfway Inn near Evereska"
+  - Tequila from The Halfway Inn near Evereska
 ---
 # Tequila from The Halfway Inn near Evereska
 *Source: Puncheons and Flagons, p. 83* 

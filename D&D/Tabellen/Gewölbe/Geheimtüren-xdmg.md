@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secret Doors
+linter-yaml-title-alias: Secret Doors
 tags:
   - Quelle/5e/xdmg
 aliases:

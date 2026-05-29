@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Apprentice Wizard
+linter-yaml-title-alias: Apprentice Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

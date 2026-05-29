@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 1: Riverside"
+linter-yaml-title-alias: "Part 1: Riverside"
 tags:
   - Quelle/5e/aitfr-avt
 aliases:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Fertigkeiten
+linter-yaml-title-alias: Fertigkeiten
 tags:
   - Quelle/5e/phb
 aliases:
+  - Fertigkeiten
   - Skills
 ---
 # Fertigkeiten

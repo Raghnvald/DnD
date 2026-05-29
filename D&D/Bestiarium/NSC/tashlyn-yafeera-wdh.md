@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tashlyn Yafeera
+linter-yaml-title-alias: Tashlyn Yafeera
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Tashlyn Yafeera
-linter-yaml-title-alias: Tashlyn Yafeera
 ---
 # [Tashlyn Yafeera](3-Mechanics\CLI\bestiary\npc/tashlyn-yafeera-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 200*  

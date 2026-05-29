@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Devil, Metal, Die!
+linter-yaml-title-alias: Devil, Metal, Die!
 tags:
   - Quelle/5e/wtthc
 aliases:
   - "Devil, Metal, Die!"
+  - Devil, Metal, Die!
 ---
 # Devil, Metal, Die!
 *Source: Stranger Things: Welcome to the Hellfire Club* 

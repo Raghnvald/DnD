@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monk Spells
+linter-yaml-title-alias: Monk Spells
 tags:
   - Zauber/list/class/monk
 aliases:

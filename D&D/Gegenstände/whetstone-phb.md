@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Whetstone
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 KM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Whetstone
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Whetstone
-linter-yaml-title-alias: Whetstone
 ---
 # Whetstone
 *Adventuring gear*  

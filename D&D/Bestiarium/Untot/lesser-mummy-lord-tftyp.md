@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lesser Mummy Lord
+linter-yaml-title-alias: Lesser Mummy Lord
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Lesser Mummy Lord
-linter-yaml-title-alias: Lesser Mummy Lord
 ---
 # Lesser Mummy Lord
 *Source: Tales from the Yawning Portal p. 224*  

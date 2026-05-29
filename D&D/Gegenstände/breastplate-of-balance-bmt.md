@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Breastplate of Balance
 Rüstung: Mittel
+linter-yaml-title-alias: Breastplate of Balance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Breastplate of Balance
-linter-yaml-title-alias: Breastplate of Balance
 ---
 # Breastplate of Balance
 *Medium armor (breastplate), rare (requires attunement)*  

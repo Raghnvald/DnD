@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Greataxe
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Greataxe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Greataxe
-linter-yaml-title-alias: Greataxe
 ---
 # Greataxe
 *Weapon*  

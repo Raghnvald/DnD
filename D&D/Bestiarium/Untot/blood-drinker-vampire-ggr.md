@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blood Drinker Vampire
+linter-yaml-title-alias: Blood Drinker Vampire
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Blood Drinker Vampire
-linter-yaml-title-alias: Blood Drinker Vampire
 ---
 # [Blood Drinker Vampire](3-Mechanics\CLI\bestiary\undead/blood-drinker-vampire-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 223*  

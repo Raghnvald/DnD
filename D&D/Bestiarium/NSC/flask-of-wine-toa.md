@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flask of Wine
+linter-yaml-title-alias: Flask of Wine
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Flask of Wine
-linter-yaml-title-alias: Flask of Wine
 ---
 # [Flask of Wine](3-Mechanics\CLI\bestiary\npc/flask-of-wine-toa.md)
 *Source: Tomb of Annihilation p. 35*  

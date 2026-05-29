@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Adventure Sites
+linter-yaml-title-alias: Gothic Horror Adventure Sites
 tags:
   - Quelle/5e/vrgr
 aliases:

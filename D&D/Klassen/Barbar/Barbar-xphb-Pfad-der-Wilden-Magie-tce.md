@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of Wild Magic
+linter-yaml-title-alias: Path of Wild Magic
 tags:
   - Klasse/Barbar/wild-magic
   - Quelle/5e/tce

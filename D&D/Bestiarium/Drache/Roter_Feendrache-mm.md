@@ -8,6 +8,7 @@ HG: 1
 Habitat:
   - Wald
 status: WIP
+linter-yaml-title-alias: Faerie Dragon (Red)
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Wald
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Faerie Dragon (Red)
-linter-yaml-title-alias: Faerie Dragon (Red)
 ---
 # [Faerie Dragon (Red)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-red.md)
 *Source: Monster Manual p. 133*  

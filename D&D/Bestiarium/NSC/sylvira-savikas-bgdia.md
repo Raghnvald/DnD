@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sylvira Savikas
+linter-yaml-title-alias: Sylvira Savikas
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Sylvira Savikas
-linter-yaml-title-alias: Sylvira Savikas
 ---
 # [Sylvira Savikas](3-Mechanics\CLI\bestiary\npc/sylvira-savikas-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 46*  

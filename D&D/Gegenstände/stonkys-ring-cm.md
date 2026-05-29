@@ -1,14 +1,19 @@
 ---
 Bezeichnung: "Stonky's ring"
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: "Stonky's ring"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/ring
   - Quelle/5e/cm
 aliases:
-  - Stonky's ring
-linter-yaml-title-alias: Stonky's ring
+  - "Stonky's ring"
 ---
 # Stonky's ring
 *Ring (requires attunement)*  

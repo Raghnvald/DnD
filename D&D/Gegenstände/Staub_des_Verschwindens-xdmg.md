@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Dust of Disappearance
+linter-yaml-title-alias: Dust of Disappearance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Dust of Disappearance
-linter-yaml-title-alias: Dust of Disappearance
 ---
 # Dust of Disappearance
 *Wondrous item, uncommon*  

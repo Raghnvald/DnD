@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quetzalcoatlus
+linter-yaml-title-alias: Quetzalcoatlus
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg

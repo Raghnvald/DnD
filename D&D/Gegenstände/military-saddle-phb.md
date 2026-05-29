@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Military Saddle
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Eigenschaften:
+  - /
+Kst.: 20 GM
+Gew.: 15,0 kg
+status: WIP
+linter-yaml-title-alias: Military Saddle
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Military Saddle
-linter-yaml-title-alias: Military Saddle
 ---
 # Military Saddle
 *Tack and harness*  

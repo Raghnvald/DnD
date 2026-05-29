@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cyclops; Treasure Drops
+linter-yaml-title-alias: Cyclops; Treasure Drops
 tags:
   - Quelle/5e/toa
 aliases:

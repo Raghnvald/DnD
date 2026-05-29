@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Vorahnung
 Zaubergrad: 2
+linter-yaml-title-alias: Vorahnung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Knowledge Domain)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,13 +14,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Knowledge Domain)
 aliases:
   - Augury
-linter-yaml-title-alias: Vorahnung
+  - Vorahnung
 ---
 # Vorahnung
 *Erkenntnismagie des 2. Grades (Ritual)*

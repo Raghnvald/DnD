@@ -1,9 +1,11 @@
 ---
 Bezeichnung: 2.500 GM Kunstgegenstände
+linter-yaml-title-alias: 2.500 GM Kunstgegenstände
 tags:
   - Quelle/5e/dmg
 aliases:
   - 2,500 gp Art Objects
+  - 2.500 GM Kunstgegenstände
 ---
 # 2.500 GM Kunstgegenstände
 *Quelle: Spielleiterhandbuch S. 134* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Infested Effects
+linter-yaml-title-alias: Infested Effects
 tags:
   - Quelle/5e/tce
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bodytaker Plant
+linter-yaml-title-alias: Bodytaker Plant
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7

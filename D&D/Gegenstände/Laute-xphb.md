@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Lute
+linter-yaml-title-alias: Lute
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Lute
-linter-yaml-title-alias: Lute
 ---
 # Lute
 *Instrument*  

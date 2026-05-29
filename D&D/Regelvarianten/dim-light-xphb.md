@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dim Light
+linter-yaml-title-alias: Dim Light
 tags:
   - Quelle/5e/xphb
 aliases:

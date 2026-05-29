@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Book of the Raven
+linter-yaml-title-alias: Book of the Raven
 tags:
   - Quelle/5e/cm
 aliases:

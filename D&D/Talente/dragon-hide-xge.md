@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Hide
+linter-yaml-title-alias: Dragon Hide
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Sightless
+linter-yaml-title-alias: The Sightless
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Nolzur's Marvelous Pigments"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Nolzur's Marvelous Pigments"
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Nolzur's Marvelous Pigments
-linter-yaml-title-alias: Nolzur's Marvelous Pigments
+  - "Nolzur's Marvelous Pigments"
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, minor, very rare*  

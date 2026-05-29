@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Jester Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Jester Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Jester Card
-linter-yaml-title-alias: Jester Card
 ---
 # Jester Card
 *Wondrous item, legendary*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Pureblood
+linter-yaml-title-alias: Yuan-ti Pureblood
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

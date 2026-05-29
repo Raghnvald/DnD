@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Blue Dragon
 status: WIP
+linter-yaml-title-alias: Young Blue Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Young Blue Dragon
-linter-yaml-title-alias: Young Blue Dragon
 ---
 # [Young Blue Dragon](3-Mechanics\CLI\bestiary\dragon/young-blue-dragon.md)
 *Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

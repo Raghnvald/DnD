@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Sage Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Sage Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Sage Card
-linter-yaml-title-alias: Sage Card
 ---
 # Sage Card
 *Wondrous item, legendary*  

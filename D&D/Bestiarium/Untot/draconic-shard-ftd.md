@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconic Shard
+linter-yaml-title-alias: Draconic Shard
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Draconic Shard
-linter-yaml-title-alias: Draconic Shard
 ---
 # [Draconic Shard](3-Mechanics\CLI\bestiary\undead/draconic-shard-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 181*  

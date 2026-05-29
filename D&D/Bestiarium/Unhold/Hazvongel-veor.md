@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hazvongel
+Image: token/hazvongel-veor.webp
 status: WIP
+linter-yaml-title-alias: Hazvongel
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/14
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Hazvongel
-IMAGE: token/hazvongel-veor.webp
 ---
 # [Hazvongel](3-Mechanics\CLI\bestiary\fiend/hazvongel-veor.md)
 *Source: Vecna: Eve of Ruin p. 222*  

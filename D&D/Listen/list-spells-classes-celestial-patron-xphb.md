@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Celestial Patron
+linter-yaml-title-alias: Spells for Celestial Patron
 tags:
   - Zauber/list/subclass/celestial-patron
 aliases:

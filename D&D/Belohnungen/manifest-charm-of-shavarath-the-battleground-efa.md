@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Shavarath, the Battleground
+linter-yaml-title-alias: Manifest Charm of Shavarath, the Battleground
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/efa
 aliases:
   - "Manifest Charm of Shavarath, the Battleground"
+  - Manifest Charm of Shavarath, the Battleground
 ---
 # Manifest Charm of Shavarath, the Battleground
 *Charm*  

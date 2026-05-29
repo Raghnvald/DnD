@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Habbakuk
+linter-yaml-title-alias: Habbakuk
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

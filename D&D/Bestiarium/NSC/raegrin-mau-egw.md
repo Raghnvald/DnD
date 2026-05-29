@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Raegrin Mau
+linter-yaml-title-alias: Raegrin Mau
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Raegrin Mau
-linter-yaml-title-alias: Raegrin Mau
 ---
 # [Raegrin Mau](3-Mechanics\CLI\bestiary\npc/raegrin-mau-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  

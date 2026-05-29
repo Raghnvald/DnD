@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Verbannung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Vengeance)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -20,19 +31,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of Vengeance)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Banishment
-linter-yaml-title-alias: Verbannung
+  - Verbannung
 ---
 # Verbannung
 *Bann des 4. Grad*

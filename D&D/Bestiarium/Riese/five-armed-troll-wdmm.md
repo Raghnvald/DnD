@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Five-Armed Troll
+linter-yaml-title-alias: Five-Armed Troll
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

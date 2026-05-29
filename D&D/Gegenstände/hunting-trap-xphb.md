@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hunting Trap
+linter-yaml-title-alias: Hunting Trap
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Hunting Trap
-linter-yaml-title-alias: Hunting Trap
 ---
 # Hunting Trap
 *Adventuring gear*  

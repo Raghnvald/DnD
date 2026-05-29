@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myx Nargis Ruba
+linter-yaml-title-alias: Myx Nargis Ruba
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Myx Nargis Ruba
-linter-yaml-title-alias: Myx Nargis Ruba
 ---
 # [Myx Nargis Ruba](3-Mechanics\CLI\bestiary\npc/myx-nargis-ruba-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 71*  

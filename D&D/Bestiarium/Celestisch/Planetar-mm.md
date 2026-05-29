@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Planetar
+linter-yaml-title-alias: Planetar
 tags:
   - Monster/Größe/Groß
   - Monster/HG/16

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Per Day
+linter-yaml-title-alias: Per Day
 tags:
   - Quelle/5e/xphb
 aliases:

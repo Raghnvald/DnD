@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Greater Healing
+linter-yaml-title-alias: Potion of Greater Healing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Greater Healing
-linter-yaml-title-alias: Potion of Greater Healing
 ---
 # Potion of Greater Healing
 *Potion, uncommon*  

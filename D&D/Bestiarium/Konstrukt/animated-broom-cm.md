@@ -8,6 +8,7 @@ HG: 1/4
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Broom
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Orb
+linter-yaml-title-alias: Orb
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Orb
-linter-yaml-title-alias: Orb
 ---
 # Orb
 *Spellcasting focus*  

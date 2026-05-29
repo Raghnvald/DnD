@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Boons
+linter-yaml-title-alias: Secondary Tables; Boons
 tags:
   - Quelle/5e/xge
 aliases:

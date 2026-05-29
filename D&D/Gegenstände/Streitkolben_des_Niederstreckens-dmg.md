@@ -2,10 +2,12 @@
 Bezeichnung: Mace of Smiting
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: /
+Eigenschaften:
+  - /
 Einstimmung: /
 Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: Mace of Smiting
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Mace of Smiting
-linter-yaml-title-alias: Mace of Smiting
 ---
 # Mace of Smiting
 *Weapon ([[Streikolben-phb|Streitkolben]]), major, rare*

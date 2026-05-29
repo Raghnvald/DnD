@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Blowgun Needle
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: 2 KM
+Gew.: 0,01 kg
+status: WIP
+linter-yaml-title-alias: Blowgun Needle
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Blowgun Needle
-linter-yaml-title-alias: Blowgun Needle
 ---
 # Blowgun Needle
 *Ammunition*  

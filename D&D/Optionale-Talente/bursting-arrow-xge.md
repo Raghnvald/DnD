@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bursting Arrow
+linter-yaml-title-alias: Bursting Arrow
 tags:
   - Kompendium/Optionales/as
   - Quelle/5e/xge

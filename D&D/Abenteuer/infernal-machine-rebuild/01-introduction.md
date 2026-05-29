@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/imr
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: Infernal Machine Rebuild, p. 1* 

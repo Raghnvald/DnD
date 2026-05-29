@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Charred Wand of Magic Missiles
 Kategorie: Zauberstab
+linter-yaml-title-alias: Charred Wand of Magic Missiles
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/wand
   - Quelle/5e/wdh
 aliases:
   - Charred Wand of Magic Missiles
-linter-yaml-title-alias: Charred Wand of Magic Missiles
 ---
 # Charred Wand of Magic Missiles
 *Wand, uncommon*  

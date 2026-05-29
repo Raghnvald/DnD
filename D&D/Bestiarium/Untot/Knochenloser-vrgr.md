@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boneless
+linter-yaml-title-alias: Boneless
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Boneless
-linter-yaml-title-alias: Boneless
 ---
 # [Boneless](3-Mechanics\CLI\bestiary\undead/boneless-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 228*  

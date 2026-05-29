@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Light Hammer
+linter-yaml-title-alias: Light Hammer
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Light Hammer
-linter-yaml-title-alias: Light Hammer
 ---
 # Light Hammer
 *Weapon*  

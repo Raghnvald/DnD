@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falling onto a Creature
+linter-yaml-title-alias: Falling onto a Creature
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/tce

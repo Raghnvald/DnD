@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Silence
 Zaubergrad: 2
+linter-yaml-title-alias: Silence
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid (Circle of the Land, Desert)
+  - Monk (Way of Shadow)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/desert
@@ -11,15 +18,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid (Circle of the Land, Desert)
-  - Monk (Way of Shadow)
-  - Ranger
 aliases:
   - Silence
-linter-yaml-title-alias: Silence
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

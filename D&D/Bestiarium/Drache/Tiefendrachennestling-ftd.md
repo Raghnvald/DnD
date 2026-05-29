@@ -8,6 +8,7 @@ HG: 1
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Deep Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Deep Dragon Wyrmling
-linter-yaml-title-alias: Deep Dragon Wyrmling
 ---
 # [Deep Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/deep-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 175*  

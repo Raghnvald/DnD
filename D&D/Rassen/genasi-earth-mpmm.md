@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Genasi (Earth)
+linter-yaml-title-alias: Genasi (Earth)
 tags:
   - Quelle/5e/mpmm
   - Rasse/genasi/earth

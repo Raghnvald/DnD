@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Draft Horse
+linter-yaml-title-alias: Draft Horse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Draft Horse
-linter-yaml-title-alias: Draft Horse
 ---
 # Draft Horse
 *Mount*  

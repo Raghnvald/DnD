@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Magier: Nekromant"
+image: token/necromancer-wizard-mpmm.webp
+linter-yaml-title-alias: "Magier: Nekromant"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -11,6 +13,7 @@ tags:
   - Quelle/5e/mpmm
   - Quelle/5e/veor
 aliases:
+  - "Magier: Nekromant"
   - Necromancer Wizard
 ---
 # Magier: Nekromant

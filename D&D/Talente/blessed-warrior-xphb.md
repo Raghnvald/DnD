@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessed Warrior
+linter-yaml-title-alias: Blessed Warrior
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

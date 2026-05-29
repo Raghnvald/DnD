@@ -2,16 +2,16 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sarusanda Allester
+Image: token/sarusanda-allester-veor.webp
 status: WIP
+linter-yaml-title-alias: Sarusanda Allester
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/veor
 aliases:
   - Sarusanda Allester
-IMAGE: token/sarusanda-allester-veor.webp
-linter-yaml-title-alias: Sarusanda Allester
 ---
 # [Sarusanda Allester](3-Mechanics\CLI\bestiary\npc/sarusanda-allester-veor.md)
 *Source: Vecna: Eve of Ruin*  

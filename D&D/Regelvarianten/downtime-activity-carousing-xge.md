@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Carousing"
+linter-yaml-title-alias: "Downtime Activity: Carousing"
 tags:
   - Quelle/5e/xge
 aliases:
+  - "Downtime Activity: Carousing"
   - Downtime Activity: Carousing
 ---
 # Downtime Activity: Carousing

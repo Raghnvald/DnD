@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dragonchess Set
+linter-yaml-title-alias: Dragonchess Set
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Dragonchess Set
-linter-yaml-title-alias: Dragonchess Set
 ---
 # Dragonchess Set
 *Gaming set*  

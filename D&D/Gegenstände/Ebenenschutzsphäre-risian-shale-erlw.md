@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Orb of Shielding (Risian Shale)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Orb of Shielding (Risian Shale)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -11,7 +17,6 @@ aliases:
   - Orb of Shielding (Risian Shale)
   - Risian Shale Crystal
   - Risian Shale Orb
-linter-yaml-title-alias: Orb of Shielding (Risian Shale)
 ---
 # Orb of Shielding (Risian Shale)
 *Wondrous item, common (requires attunement)*  

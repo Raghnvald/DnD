@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shockerstomper
+linter-yaml-title-alias: Shockerstomper
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/14
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Shockerstomper
-linter-yaml-title-alias: Shockerstomper
 ---
 # [Shockerstomper](3-Mechanics\CLI\bestiary\npc/shockerstomper-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 174*  

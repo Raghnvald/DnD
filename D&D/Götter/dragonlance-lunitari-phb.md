@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lunitari
+linter-yaml-title-alias: Lunitari
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/dragonlance

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 10: The War of Pandesmos"
+linter-yaml-title-alias: "Chapter 10: The War of Pandesmos"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 10: The War of Pandesmos"
   - Chapter 10: The War of Pandesmos
 ---
 # Chapter 10: The War of Pandesmos

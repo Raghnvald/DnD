@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goblinoid NPCs
+linter-yaml-title-alias: Goblinoid NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of the Eldritch Eye
+linter-yaml-title-alias: Spells for Charm of the Eldritch Eye
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-the-eldritch-eye
 aliases:
   - "Spells for Charm of the Eldritch Eye"
+  - Spells for Charm of the Eldritch Eye
 ---
 # Spells for Charm of the Eldritch Eye
 

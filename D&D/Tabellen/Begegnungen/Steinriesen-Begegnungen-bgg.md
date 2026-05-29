@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stone Giant Encounters
+linter-yaml-title-alias: Stone Giant Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

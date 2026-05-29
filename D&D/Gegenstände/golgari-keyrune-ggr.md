@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Golgari Keyrune
+linter-yaml-title-alias: Golgari Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ggr
 aliases:
   - Golgari Keyrune
-linter-yaml-title-alias: Golgari Keyrune
 ---
 # Golgari Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Golgari guild)*  

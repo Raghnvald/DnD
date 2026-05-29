@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Scaled Ornament
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Scaled Ornament
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Scaled Ornament
-linter-yaml-title-alias: Scaled Ornament
 ---
 # Scaled Ornament
 *Wondrous item (requires attunement)*  

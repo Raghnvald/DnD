@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eadro
+linter-yaml-title-alias: Eadro
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

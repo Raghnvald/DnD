@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Cloaked Serpent
+linter-yaml-title-alias: The Cloaked Serpent
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery

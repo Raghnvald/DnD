@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pegasus
+linter-yaml-title-alias: Pegasus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

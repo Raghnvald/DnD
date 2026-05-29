@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Illusory Dragon
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -13,13 +18,8 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/8
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Illusory Dragon
-linter-yaml-title-alias: Illusory Dragon
 ---
 # Illusory Dragon
 *8th-level, Illusion*  

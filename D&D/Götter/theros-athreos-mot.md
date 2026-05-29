@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Athreos
+linter-yaml-title-alias: Athreos
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Athreos"
+  - Athreos
 ---
 # Athreos
 *Source: Mythic Odysseys of Theros p. 37* 

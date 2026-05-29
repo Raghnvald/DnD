@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monstrous Transformations
+linter-yaml-title-alias: Monstrous Transformations
 tags:
   - Quelle/5e/vrgr
 aliases:

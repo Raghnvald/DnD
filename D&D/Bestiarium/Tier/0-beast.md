@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Beast
+linter-yaml-title-alias: Index of Beast
+aliases:
+  - Index of Beast
 ---
 # Index of Beast
 

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Chains of Asmodeus
+linter-yaml-title-alias: Index of Chains of Asmodeus
+aliases:
+  - Index of Chains of Asmodeus
 ---
 # Index of Chains of Asmodeus
 

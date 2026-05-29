@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Instrument of Scribing
+linter-yaml-title-alias: Instrument of Scribing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Instrument of Scribing
-linter-yaml-title-alias: Instrument of Scribing
 ---
 # Instrument of Scribing
 *Wondrous item, common*  

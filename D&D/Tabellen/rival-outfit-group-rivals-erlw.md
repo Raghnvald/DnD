@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rival Outfit; Group Rivals
+linter-yaml-title-alias: Rival Outfit; Group Rivals
 tags:
   - Quelle/5e/erlw
 aliases:

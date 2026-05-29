@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 12: Comet"
+linter-yaml-title-alias: "Chapter 12: Comet"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 12: Comet"
   - Chapter 12: Comet
 ---
 # Chapter 12: Comet

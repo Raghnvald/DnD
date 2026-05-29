@@ -7,6 +7,14 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Minute
 Angriff: Fern
 Schaden: 4d4 Hieb
+linter-yaml-title-alias: Dolchwolke
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -17,16 +25,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Cloud of Daggers
-linter-yaml-title-alias: Cloud of Daggers
+  - Dolchwolke
 ---
 # Dolchwolke
 *Beschwörung des 2. Grades*

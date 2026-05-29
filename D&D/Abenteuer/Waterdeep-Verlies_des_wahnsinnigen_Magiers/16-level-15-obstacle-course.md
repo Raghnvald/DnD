@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 15: Obstacle Course"
+linter-yaml-title-alias: "Level 15: Obstacle Course"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 15: Obstacle Course"
   - Level 15: Obstacle Course
 ---
 # Level 15: Obstacle Course

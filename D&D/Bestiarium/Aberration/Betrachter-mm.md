@@ -8,6 +8,7 @@ HG: 13
 Habitat:
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Betrachter
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -16,6 +17,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Beholder
+  - Betrachter
 ---
 # Betrachter
 *Source: Monster Manual p. 28*  

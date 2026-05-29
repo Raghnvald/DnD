@@ -6,9 +6,11 @@ Bezeichnung: Slaad Tadpole
 Kategorie: Aberration
 Größe: Winzig
 HG: 1/8
-Habitat: Planar (Limbo)
+Habitat:
+  - Planar (Limbo)
 image:
 status: WIP
+linter-yaml-title-alias: Slaad Tadpole
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/limbo

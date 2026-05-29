@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Juiblex
+linter-yaml-title-alias: Juiblex
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/23
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Juiblex
-linter-yaml-title-alias: Juiblex
 ---
 # Juiblex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160*  

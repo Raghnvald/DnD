@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Eyes of Minute Seeing
+linter-yaml-title-alias: Eyes of Minute Seeing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Eyes of Minute Seeing
-linter-yaml-title-alias: Eyes of Minute Seeing
 ---
 # Eyes of Minute Seeing
 *Wondrous item, uncommon*  

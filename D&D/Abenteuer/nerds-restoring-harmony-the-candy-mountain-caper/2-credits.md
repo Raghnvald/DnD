@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/nrh-tcmc
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: NERDS Restoring Harmony: The Candy Mountain Caper* 

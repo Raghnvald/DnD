@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Experience Points by Challenge Rating
+linter-yaml-title-alias: Experience Points by Challenge Rating
 tags:
   - Quelle/5e/xmm
 aliases:

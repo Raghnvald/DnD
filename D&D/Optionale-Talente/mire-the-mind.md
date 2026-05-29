@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mire the Mind
+linter-yaml-title-alias: Mire the Mind
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

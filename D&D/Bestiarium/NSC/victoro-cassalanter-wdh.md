@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Victoro Cassalanter
+linter-yaml-title-alias: Victoro Cassalanter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Victoro Cassalanter
-linter-yaml-title-alias: Victoro Cassalanter
 ---
 # [Victoro Cassalanter](3-Mechanics\CLI\bestiary\npc/victoro-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 218*  

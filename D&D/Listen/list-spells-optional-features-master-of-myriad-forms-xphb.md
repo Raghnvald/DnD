@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Master of Myriad Forms
+linter-yaml-title-alias: Spells for Master of Myriad Forms
 tags:
   - Zauber/list/optfeature/master-of-myriad-forms
 aliases:

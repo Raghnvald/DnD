@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Traxigor
+linter-yaml-title-alias: Traxigor
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Traxigor
-linter-yaml-title-alias: Traxigor
 ---
 # [Traxigor](3-Mechanics\CLI\bestiary\npc/traxigor-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 50*  

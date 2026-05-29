@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Graz'zt"
+linter-yaml-title-alias: "Graz'zt"
 tags:
   - Monster/Größe/Groß
   - Monster/HG/24
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Graz'zt"
   - Graz'zt
-linter-yaml-title-alias: "Graz'zt"
 ---
 # Graz'zt
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148*  

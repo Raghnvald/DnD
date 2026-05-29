@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Efreeti Bottle
+linter-yaml-title-alias: Efreeti Bottle
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Efreeti Bottle
-linter-yaml-title-alias: Efreeti Bottle
 ---
 # Efreeti Bottle
 *Wondrous item, very rare*  

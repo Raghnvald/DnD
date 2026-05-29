@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Dahlver-Nar, He of the Many Teeth
+linter-yaml-title-alias: Dark Gift of Dahlver-Nar, He of the Many Teeth
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

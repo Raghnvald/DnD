@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mountain Goat
+linter-yaml-title-alias: Mountain Goat
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

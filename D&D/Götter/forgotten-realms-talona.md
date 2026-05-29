@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talona
+linter-yaml-title-alias: Talona
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/forgotten-realms

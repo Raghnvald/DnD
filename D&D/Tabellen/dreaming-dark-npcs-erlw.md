@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dreaming Dark NPCs
+linter-yaml-title-alias: Dreaming Dark NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

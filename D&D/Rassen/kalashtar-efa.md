@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Kalashtar
+linter-yaml-title-alias: Kalashtar
 tags:
   - Quelle/5e/efa
   - Rasse/kalashtar
 aliases:
   - "Kalashtar"
+  - Kalashtar
 ---
 # Kalashtar
 *Source: Eberron: Forge of the Artificer p. 35*  

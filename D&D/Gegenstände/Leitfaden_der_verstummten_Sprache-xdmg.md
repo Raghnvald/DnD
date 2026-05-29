@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Tome of the Stilled Tongue
+linter-yaml-title-alias: Tome of the Stilled Tongue
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Tome of the Stilled Tongue
-linter-yaml-title-alias: Tome of the Stilled Tongue
 ---
 # Tome of the Stilled Tongue
 *Wondrous item, legendary (requires attunement by a wizard)*  

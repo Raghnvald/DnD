@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Astral Color Pools
+linter-yaml-title-alias: Astral Color Pools
 tags:
   - Quelle/5e/xdmg
 aliases:

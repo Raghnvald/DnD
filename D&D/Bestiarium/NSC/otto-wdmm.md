@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Otto
+linter-yaml-title-alias: Otto
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Otto
-linter-yaml-title-alias: Otto
 ---
 # [Otto](3-Mechanics\CLI\bestiary\npc/otto-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 96*  

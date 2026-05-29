@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barrowghast
+linter-yaml-title-alias: Barrowghast
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Barrowghast
-linter-yaml-title-alias: Barrowghast
 ---
 # [Barrowghast](3-Mechanics\CLI\bestiary\undead/barrowghast-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 121*  

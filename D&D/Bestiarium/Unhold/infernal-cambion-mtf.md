@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Infernal Cambion
+linter-yaml-title-alias: Infernal Cambion
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

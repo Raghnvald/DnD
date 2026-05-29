@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Oath of Glory
+linter-yaml-title-alias: Spells for Oath of Glory
 tags:
   - ttrpg-cli/spell/list/subclass/oath-of-glory
 aliases:
   - "Spells for Oath of Glory"
+  - Spells for Oath of Glory
 ---
 # Spells for Oath of Glory
 

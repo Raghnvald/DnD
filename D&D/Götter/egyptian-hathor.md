@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hathor
+linter-yaml-title-alias: Hathor
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

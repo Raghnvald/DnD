@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Plots and Intrigue; Intrigue Guilds
+linter-yaml-title-alias: Plots and Intrigue; Intrigue Guilds
 tags:
   - Quelle/5e/ggr
 aliases:

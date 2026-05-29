@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Agent
+linter-yaml-title-alias: House Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/erlw

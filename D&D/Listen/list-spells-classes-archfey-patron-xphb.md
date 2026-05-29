@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Archfey Patron
+linter-yaml-title-alias: Spells for Archfey Patron
 tags:
   - Zauber/list/subclass/archfey-patron
 aliases:

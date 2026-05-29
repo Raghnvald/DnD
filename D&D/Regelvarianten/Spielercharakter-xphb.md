@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Player Character
+linter-yaml-title-alias: Player Character
 tags:
   - Quelle/5e/xphb
 aliases:

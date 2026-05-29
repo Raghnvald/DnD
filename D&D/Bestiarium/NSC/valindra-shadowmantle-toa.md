@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valindra Shadowmantle
+linter-yaml-title-alias: Valindra Shadowmantle
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Valindra Shadowmantle
-linter-yaml-title-alias: Valindra Shadowmantle
 ---
 # [Valindra Shadowmantle](3-Mechanics\CLI\bestiary\npc/valindra-shadowmantle-toa.md)
 *Source: Tomb of Annihilation p. 58*  

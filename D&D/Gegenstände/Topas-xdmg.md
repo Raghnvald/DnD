@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Topaz
+linter-yaml-title-alias: Topaz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Topaz
-linter-yaml-title-alias: Topaz
 ---
 # Topaz
 *Treasure (gemstone)*  

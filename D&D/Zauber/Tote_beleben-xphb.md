@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Animate Dead
+linter-yaml-title-alias: Animate Dead
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Death Domain)
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -15,20 +27,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/undying-servitude
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Death Domain)
-  - Druid (Circle of Spores)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 aliases:
   - Animate Dead
-linter-yaml-title-alias: Animate Dead
 ---
 # Animate Dead
 *3rd-level, Necromancy*  

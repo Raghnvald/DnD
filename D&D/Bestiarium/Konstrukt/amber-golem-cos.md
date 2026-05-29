@@ -7,7 +7,9 @@ Größe: Groß
 HG: "10"
 Habitat:
   - /
+Image: token/amber-golem-cos.webp
 status: WIP
+linter-yaml-title-alias: Amber Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

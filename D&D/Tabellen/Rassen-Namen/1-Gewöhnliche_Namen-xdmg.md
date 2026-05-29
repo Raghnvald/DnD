@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "1: Gewöhnliche Namen"
 Kategorie: Namen
+linter-yaml-title-alias: "1: Gewöhnliche Namen"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "1: Gewöhnliche Namen"
   - 1: Common Names
 ---
 # 1: Gewöhnliche Namen

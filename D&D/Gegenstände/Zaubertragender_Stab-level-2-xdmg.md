@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Staff (Level 2)
+linter-yaml-title-alias: Enspelled Staff (Level 2)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Staff (Level 2)
-linter-yaml-title-alias: Enspelled Staff (Level 2)
 ---
 # Enspelled Staff (Level 2)
 *Staff, weapon, rare (requires attunement by a Spellcaster)*  

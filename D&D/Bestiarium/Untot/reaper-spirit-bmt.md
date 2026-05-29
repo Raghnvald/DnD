@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reaper Spirit
+linter-yaml-title-alias: Reaper Spirit
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Reaper Spirit
-linter-yaml-title-alias: Reaper Spirit
 ---
 # [Reaper Spirit](3-Mechanics\CLI\bestiary\undead/reaper-spirit-bmt.md)
 *Source: The Book of Many Things p. 50*  

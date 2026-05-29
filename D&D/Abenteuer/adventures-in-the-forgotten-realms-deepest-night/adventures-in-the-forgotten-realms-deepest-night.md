@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Adventures in the Forgotten Realms Deepest Night
+linter-yaml-title-alias: Index of Adventures in the Forgotten Realms Deepest Night
+aliases:
+  - Index of Adventures in the Forgotten Realms Deepest Night
 ---
 # Index of Adventures in the Forgotten Realms Deepest Night
 

@@ -7,7 +7,9 @@ Größe: Groß
 HG: 12
 Habitat:
   - /
+Image: token/brain-breaker-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Gehirnbrecher
 tags:
   - Monster/Größe/Groß
   - Monster/HG/12
@@ -15,7 +17,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Brain Breaker
-Image: token/brain-breaker-pabtso.webp
+  - Gehirnbrecher
 ---
 # Gehirnbrecher
 *Source: Phandelver and Below: The Shattered Obelisk p. 199*  

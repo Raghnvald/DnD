@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Animated Shield
 Rüstung: Schild
+linter-yaml-title-alias: Animated Shield
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Animated Shield
-linter-yaml-title-alias: Animated Shield
 ---
 # Animated Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  

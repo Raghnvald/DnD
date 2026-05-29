@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Workshop Adventures
+linter-yaml-title-alias: Arcane Workshop Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

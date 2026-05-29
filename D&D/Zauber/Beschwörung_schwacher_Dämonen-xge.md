@@ -7,6 +7,14 @@ Komponenten: V, G, M
 Wirkungsdauer: K, <1 Stunde
 Angriff: n/v
 Schaden: Beschwörung
+linter-yaml-title-alias: Beschwörung schwacher Dämonen
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -17,16 +25,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
-  - Summon Lesser Demons
-linter-yaml-title-alias: Summon Lesser Demons
+  - Beschwörung schwacher Dämonen
 ---
 # Beschwörung schwacher Dämonen
 *Beschwörung des 3. Grades*

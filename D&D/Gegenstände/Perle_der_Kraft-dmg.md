@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Bead of Force
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Bead of Force
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Bead of Force
-linter-yaml-title-alias: Bead of Force
 ---
 # Bead of Force
 *Wondrous item, minor, rare*  

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Netherils Fall
+linter-yaml-title-alias: Index of Netherils Fall
+aliases:
+  - Index of Netherils Fall
 ---
 # Index of Netherils Fall
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Golgari Agent
+linter-yaml-title-alias: Spells for Golgari Agent
 tags:
   - Zauber/list/background/golgari-agent
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome
+linter-yaml-title-alias: Gnome
 tags:
   - Quelle/5e/phb
   - Rasse/gnome

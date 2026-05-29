@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vesh
+linter-yaml-title-alias: Vesh
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/life

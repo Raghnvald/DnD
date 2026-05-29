@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Uni and the Hunt for the Lost Horn
+linter-yaml-title-alias: Index of Uni and the Hunt for the Lost Horn
+aliases:
+  - Index of Uni and the Hunt for the Lost Horn
 ---
 # Index of Uni and the Hunt for the Lost Horn
 

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kartographenwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 15 GM
 Gew.: 3,0 kg
+status: WIP
+linter-yaml-title-alias: Kartographenwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Cartographer's Tools
-linter-yaml-title-alias: Cartographer's Tools
+  - Kartographenwerkzeuge
 ---
 # Kartographenwerkzeuge
 *Handwerkszeug*

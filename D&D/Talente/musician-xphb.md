@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Musician
+linter-yaml-title-alias: Musician
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

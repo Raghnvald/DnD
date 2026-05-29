@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Saffron
+linter-yaml-title-alias: Saffron
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Saffron
-linter-yaml-title-alias: Saffron
 ---
 # Saffron
 *Trade good*  

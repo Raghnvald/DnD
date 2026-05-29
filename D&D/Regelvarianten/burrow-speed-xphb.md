@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Burrow Speed
+linter-yaml-title-alias: Burrow Speed
 tags:
   - Quelle/5e/xphb
 aliases:

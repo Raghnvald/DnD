@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orzhov Creatures
+linter-yaml-title-alias: Orzhov Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

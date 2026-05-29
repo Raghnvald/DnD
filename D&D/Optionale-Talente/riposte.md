@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Riposte
+linter-yaml-title-alias: Riposte
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

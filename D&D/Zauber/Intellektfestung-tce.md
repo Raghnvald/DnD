@@ -1,6 +1,17 @@
 ---
 Bezeichnung: Intellect Fortress
 Zaubergrad: 3
+linter-yaml-title-alias: Intellect Fortress
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -14,19 +25,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Intellect Fortress
-linter-yaml-title-alias: Intellect Fortress
 ---
 # Intellect Fortress
 *3rd-level, Abjuration*  

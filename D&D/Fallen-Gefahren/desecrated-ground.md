@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Desecrated Ground
+linter-yaml-title-alias: Desecrated Ground
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/dmg

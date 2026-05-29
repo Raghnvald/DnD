@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Rüstung und Schilde; Rüstungen
+linter-yaml-title-alias: Rüstung und Schilde; Rüstungen
 tags:
   - Quelle/5e/phb
 aliases:
   - Armor and Shields; Armor
+  - Rüstung und Schilde; Rüstungen
 ---
 # Rüstung und Schilde; Rüstungen
 *Quellen: Spielerhandbuch S. 144. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

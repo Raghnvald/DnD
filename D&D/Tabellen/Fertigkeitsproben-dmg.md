@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Checks
+linter-yaml-title-alias: Ability Checks
 tags:
   - Quelle/5e/dmg
 aliases:

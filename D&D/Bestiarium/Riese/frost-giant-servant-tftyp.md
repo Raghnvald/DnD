@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Servant
+linter-yaml-title-alias: Frost Giant Servant
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5

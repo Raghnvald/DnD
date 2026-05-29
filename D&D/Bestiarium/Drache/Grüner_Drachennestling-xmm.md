@@ -7,6 +7,7 @@ Größe: Mittelgroß
 Habitat:
   - Wald
 status: WIP
+linter-yaml-title-alias: Green Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Green Dragon Wyrmling
-linter-yaml-title-alias: Green Dragon Wyrmling
 ---
 # [Green Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/green-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

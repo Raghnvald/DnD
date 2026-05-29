@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: n/a
 Schaden: 3d8 Heilung
+linter-yaml-title-alias: Massen-Wunden heilen
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,6 +16,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Mass Cure Wounds
+  - Massen-Wunden heilen
 ---
 # Massen-Wunden heilen
 _Hervorrufung des 5. Grades_

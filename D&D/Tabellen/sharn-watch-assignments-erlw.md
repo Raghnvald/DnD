@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharn Watch Assignments
+linter-yaml-title-alias: Sharn Watch Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

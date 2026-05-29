@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Initial Attitudes
+linter-yaml-title-alias: Initial Attitudes
 tags:
   - Quelle/5e/bgg
 aliases:

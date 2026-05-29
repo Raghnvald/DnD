@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf Names – Male Adult
+linter-yaml-title-alias: Elf Names – Male Adult
 tags:
   - Quelle/5e/xge
 aliases:

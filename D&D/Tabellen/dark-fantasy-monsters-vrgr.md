@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Fantasy Monsters
+linter-yaml-title-alias: Dark Fantasy Monsters
 tags:
   - Quelle/5e/vrgr
 aliases:

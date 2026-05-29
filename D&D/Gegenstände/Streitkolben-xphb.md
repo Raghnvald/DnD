@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mace
+linter-yaml-title-alias: Mace
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Mace
-linter-yaml-title-alias: Mace
 ---
 # Mace
 *Weapon*  

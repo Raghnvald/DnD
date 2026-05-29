@@ -7,6 +7,20 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Fog Cloud
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Tempest Domain)
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Genie, Marid)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -25,22 +39,8 @@ tags:
   - Subklasse/the-genie/marid
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Tempest Domain)
-  - Druid
-  - Druid (Circle of the Land, Polar Land)
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Genie, Marid)
-  - Wizard
 aliases:
   - Fog Cloud
-linter-yaml-title-alias: Fog Cloud
 ---
 # Fog Cloud
 *1st-level, Conjuration*  

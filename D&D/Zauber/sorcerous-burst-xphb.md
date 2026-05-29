@@ -7,6 +7,9 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Sorcerous Burst
+classes:
+  - Sorcerer
 tags:
   - Klasse/Zauberer
   - Quelle/5e/xphb
@@ -14,11 +17,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Sorcerer
 aliases:
   - Sorcerous Burst
-linter-yaml-title-alias: Sorcerous Burst
 ---
 # Sorcerous Burst
 *cantrip, Evocation*  

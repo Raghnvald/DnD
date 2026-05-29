@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Heward's Handy Spice Pouch"
+linter-yaml-title-alias: "Heward's Handy Spice Pouch"
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Heward's Handy Spice Pouch
-linter-yaml-title-alias: Heward's Handy Spice Pouch
+  - "Heward's Handy Spice Pouch"
 ---
 # Heward's Handy Spice Pouch
 *Wondrous item, common*  

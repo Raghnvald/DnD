@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Everyone Has Regrets; Regrets
+linter-yaml-title-alias: Everyone Has Regrets; Regrets
 tags:
   - Quelle/5e/erlw
 aliases:

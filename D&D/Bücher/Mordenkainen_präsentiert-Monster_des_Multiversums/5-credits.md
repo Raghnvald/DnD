@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/mpmm
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lifferlas
+linter-yaml-title-alias: Lifferlas
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Lifferlas
-linter-yaml-title-alias: Lifferlas
 ---
 # [Lifferlas](3-Mechanics\CLI\bestiary\npc/lifferlas-skt.md)
 *Source: Storm King's Thunder p. 250*  

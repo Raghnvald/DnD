@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hammer of Runic Focus
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Hammer of Runic Focus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Hammer of Runic Focus
-linter-yaml-title-alias: Hammer of Runic Focus
 ---
 # Hammer of Runic Focus
 *Weapon (warhammer), very rare (requires attunement)*  

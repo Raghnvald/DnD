@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor
+linter-yaml-title-alias: Armor
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Hufeisen des Zephyrs
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Hufeisen des Zephyrs
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Horseshoes of a Zephyr
+  - Hufeisen des Zephyrs
 ---
 # Hufeisen des Zephyrs
 *Wundersamer Gegenstand, sehr selten*  

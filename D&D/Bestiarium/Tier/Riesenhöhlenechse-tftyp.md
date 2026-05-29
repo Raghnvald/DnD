@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riesenhöhlenechse
+linter-yaml-title-alias: Riesenhöhlenechse
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/4
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Giant Subterranean Lizard
+  - Riesenhöhlenechse
 ---
 # Riesenhöhlenechse
 *Source: Tales from the Yawning Portal p. 236*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Night of Blue Fire"
+linter-yaml-title-alias: "Chapter 6: Night of Blue Fire"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 6: Night of Blue Fire"
   - Chapter 6: Night of Blue Fire
 ---
 # Chapter 6: Night of Blue Fire

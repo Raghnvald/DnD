@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Lightning Bolt
+linter-yaml-title-alias: Charm of Lightning Bolt
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

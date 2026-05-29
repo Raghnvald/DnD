@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of the Soul Drinker
+linter-yaml-title-alias: Boon of the Soul Drinker
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Boon of the Soul Drinker"
+  - Boon of the Soul Drinker
 ---
 # Boon of the Soul Drinker
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

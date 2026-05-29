@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Estia
+linter-yaml-title-alias: Estia
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Estia
-linter-yaml-title-alias: Estia
 ---
 # [Estia](3-Mechanics\CLI\bestiary\npc/estia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 189*  

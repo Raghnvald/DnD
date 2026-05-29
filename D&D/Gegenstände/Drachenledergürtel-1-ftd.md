@@ -1,13 +1,13 @@
 ---
 Bezeichnung: +1 Dragonhide Belt
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: +1 Dragonhide Belt
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/ftd
 aliases:
   - +1 Dragonhide Belt
-linter-yaml-title-alias: +1 Dragonhide Belt
 ---
 # +1 Dragonhide Belt
 *Wondrous item, uncommon (requires attunement by a monk)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Topaz Dragon; Topaz Dragon Personality Traits
+linter-yaml-title-alias: Creating a Topaz Dragon; Topaz Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

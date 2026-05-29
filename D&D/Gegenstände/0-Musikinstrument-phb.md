@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Musikinstrument
+Status:
+linter-yaml-title-alias: Musikinstrument
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Musical Instrument
-linter-yaml-title-alias: Musical Instrument
-Status:
+  - Musikinstrument
 ---
 # Musikinstrument
 *Instrument*  

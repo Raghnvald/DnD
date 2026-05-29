@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Isarr Kronenstrom
+linter-yaml-title-alias: Isarr Kronenstrom
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Isarr Kronenstrom
-linter-yaml-title-alias: Isarr Kronenstrom
 ---
 # [Isarr Kronenstrom](3-Mechanics\CLI\bestiary\npc/isarr-kronenstrom-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 307*  

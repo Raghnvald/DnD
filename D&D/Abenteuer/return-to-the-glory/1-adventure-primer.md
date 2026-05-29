@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adventure Primer
+linter-yaml-title-alias: Adventure Primer
 tags:
   - Quelle/5e/rtg
 aliases:
   - "Adventure Primer"
+  - Adventure Primer
 ---
 # Adventure Primer
 *Source: Return to the Glory, p. 2* 

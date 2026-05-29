@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sseth
+linter-yaml-title-alias: Sseth
 tags:
   - Kompendium/Götter/yuan-ti
   - Quelle/5e/vgm

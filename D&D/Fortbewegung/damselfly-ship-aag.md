@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Damselfly Ship
+linter-yaml-title-alias: Damselfly Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/space
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Damselfly Ship"
+  - Damselfly Ship
 ---
 # Damselfly Ship
 *Source: Astral Adventurer's Guide p. 26*  

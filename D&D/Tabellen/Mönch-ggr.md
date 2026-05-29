@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monk
+linter-yaml-title-alias: Monk
 tags:
   - Quelle/5e/ggr
 aliases:

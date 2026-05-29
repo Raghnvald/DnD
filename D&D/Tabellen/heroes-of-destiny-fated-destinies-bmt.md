@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heroes of Destiny; Fated Destinies
+linter-yaml-title-alias: Heroes of Destiny; Fated Destinies
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bearded Devil
+linter-yaml-title-alias: Bearded Devil
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

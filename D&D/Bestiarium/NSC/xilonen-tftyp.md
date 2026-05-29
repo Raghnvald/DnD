@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xilonen
+linter-yaml-title-alias: Xilonen
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Xilonen
-linter-yaml-title-alias: Xilonen
 ---
 # [Xilonen](3-Mechanics\CLI\bestiary\npc/xilonen-tftyp.md)
 *Source: Tales from the Yawning Portal p. 83*  

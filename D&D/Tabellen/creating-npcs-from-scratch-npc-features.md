@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating NPCs from Scratch; NPC Features
+linter-yaml-title-alias: Creating NPCs from Scratch; NPC Features
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Renown Perk
+linter-yaml-title-alias: Renown Perk
 tags:
   - Quelle/5e/phb
 aliases:
   - "Renown Perk"
+  - Renown Perk
 ---
 # Renown Perk
 *Source: Player's Handbook, Eberron: Forge of the Artificer* 

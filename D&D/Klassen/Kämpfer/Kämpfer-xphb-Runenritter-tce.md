@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Rune Knight
+linter-yaml-title-alias: Rune Knight
 tags:
   - Klasse/Kämpfer/rune-knight
   - Quelle/5e/tce
 aliases:
   - Rune Knight
-linter-yaml-title-alias: Rune Knight
 ---
 # Rune Knight
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

@@ -2,12 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Living Bigby's Hand"
+linter-yaml-title-alias: "Living Bigby's Hand"
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4
   - Monster/Typ/Konstrukt
   - Quelle/5e/idrotf
 aliases:
+  - "Living Bigby's Hand"
   - Living Bigby's Hand
 ---
 # [Living Bigby's Hand](3-Mechanics\CLI\bestiary\construct/living-bigbys-hand-idrotf.md)

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Snake
+linter-yaml-title-alias: Fire Snake
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

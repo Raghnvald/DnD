@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barnibus Blastwind
+linter-yaml-title-alias: Barnibus Blastwind
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Barnibus Blastwind
-linter-yaml-title-alias: Barnibus Blastwind
 ---
 # [Barnibus Blastwind](3-Mechanics\CLI\bestiary\npc/barnibus-blastwind-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 195*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "The Spider's Web"
+linter-yaml-title-alias: "The Spider's Web"
 tags:
   - Quelle/5e/lmop
 aliases:
+  - "The Spider's Web"
   - The Spider's Web
 ---
 # The Spider's Web

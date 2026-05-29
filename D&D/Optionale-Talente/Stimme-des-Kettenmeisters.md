@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Stimme des Kettenmeisters
+linter-yaml-title-alias: Stimme des Kettenmeisters
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb
 aliases:
+  - Stimme des Kettenmeisters
   - Voice of the Chain Master
 ---
 # Stimme des Kettenmeisters

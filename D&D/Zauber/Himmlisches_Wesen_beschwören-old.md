@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Celestisches Wesen beschwören
+linter-yaml-title-alias: Celestisches Wesen beschwören
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
 aliases:
+  - Celestisches Wesen beschwören
   - Conjure Celestial
-linter-yaml-title-alias: Celestisches Wesen beschwören
 ---
 # Celestisches Wesen beschwören
 *7th-level, Conjuration*  

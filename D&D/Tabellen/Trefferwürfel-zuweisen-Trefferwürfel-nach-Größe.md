@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Trefferwürfel zuweisen; Trefferwürfel nach Größe
+linter-yaml-title-alias: Trefferwürfel zuweisen; Trefferwürfel nach Größe
 tags:
   - Quelle/5e/dmg
 aliases:
   - Assign Hit Dice; Hit Dice by Size
+  - Trefferwürfel zuweisen; Trefferwürfel nach Größe
 ---
 # Trefferwürfel zuweisen; Trefferwürfel nach Größe
 *Quelle: SRD / Grundregelwerk*

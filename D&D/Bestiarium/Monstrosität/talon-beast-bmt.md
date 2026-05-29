@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Talon Beast
+linter-yaml-title-alias: Talon Beast
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7

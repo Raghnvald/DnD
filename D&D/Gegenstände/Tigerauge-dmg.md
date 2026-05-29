@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Tigerauge
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Tigerauge
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Tiger Eye
-linter-yaml-title-alias: Tiger Eye
+  - Tigerauge
 ---
 # Tigerauge
 *Schatz (Edelstein)*  

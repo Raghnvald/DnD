@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cryovain
+linter-yaml-title-alias: Cryovain
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Cryovain
-linter-yaml-title-alias: Cryovain
 ---
 # [Cryovain](3-Mechanics\CLI\bestiary\npc/cryovain-skt.md)
 *Source: Storm King's Thunder p. 165*  

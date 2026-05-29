@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Kapitel 2: Die Schwertküste und der Norden "
+linter-yaml-title-alias: "Kapitel 2: Die Schwertküste und der Norden "
 tags:
   - Quelle/5e/scag
 aliases:
+  - "Kapitel 2: Die Schwertküste und der Norden "
   - The Sword Coast and the North
 ---
 # Kapitel 2: Die Schwertküste und der Norden 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Names – Githyanki, Male
+linter-yaml-title-alias: Gith Names – Githyanki, Male
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Boon of the Fire Soul
+linter-yaml-title-alias: Spells for Boon of the Fire Soul
 tags:
   - Zauber/list/reward/boon-of-the-fire-soul
 aliases:

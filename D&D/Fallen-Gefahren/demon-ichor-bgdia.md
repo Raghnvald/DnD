@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Ichor
+linter-yaml-title-alias: Demon Ichor
 tags:
   - Quelle/5e/bgdia
 aliases:

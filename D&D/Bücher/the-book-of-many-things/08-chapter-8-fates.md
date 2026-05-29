@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 8: Fates"
+linter-yaml-title-alias: "Chapter 8: Fates"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 8: Fates"
   - Chapter 8: Fates
 ---
 # Chapter 8: Fates

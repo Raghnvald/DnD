@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tactical Assessment
+linter-yaml-title-alias: Tactical Assessment
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

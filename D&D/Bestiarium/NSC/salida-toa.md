@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Salida
+linter-yaml-title-alias: Salida
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Salida
-linter-yaml-title-alias: Salida
 ---
 # [Salida](3-Mechanics\CLI\bestiary\npc/salida-toa.md)
 *Source: Tomb of Annihilation p. 35*  

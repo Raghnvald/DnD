@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cruel
+linter-yaml-title-alias: Cruel
 tags:
   - Kompendium/Talent
   - Quelle/5e/tdcsr

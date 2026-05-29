@@ -6,6 +6,19 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Scrying
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Cleric (Light Domain)
+  - Druid
+  - Paladin (Oath of the Watchers)
+  - Paladin (Oath of Vengeance)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -21,21 +34,8 @@ tags:
   - Subklasse/diviner
   - Zauber/Grad/5
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Cleric (Light Domain)
-  - Druid
-  - Paladin (Oath of the Watchers)
-  - Paladin (Oath of Vengeance)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Scrying
-linter-yaml-title-alias: Scrying
 ---
 # Scrying
 *5th-level, Divination*  

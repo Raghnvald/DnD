@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drow +3 Weapon
+linter-yaml-title-alias: Drow +3 Weapon
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Einfach
@@ -63,7 +64,6 @@ aliases:
   - Drow +3 Weapon
   - Drow +3 Whip
   - Drow +3 Yklwa
-linter-yaml-title-alias: Drow +3 Weapon
 ---
 # Drow +3 Weapon
 

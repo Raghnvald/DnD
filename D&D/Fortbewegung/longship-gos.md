@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Longship
+linter-yaml-title-alias: Longship
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/sea

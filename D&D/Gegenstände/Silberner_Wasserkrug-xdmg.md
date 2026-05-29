@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Silver ewer
+linter-yaml-title-alias: Silver ewer
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Silver ewer
-linter-yaml-title-alias: Silver ewer
 ---
 # Silver ewer
 *Treasure (art object)*  

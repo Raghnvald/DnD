@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Multiclassing Prerequisites
+linter-yaml-title-alias: Multiclassing Prerequisites
 tags:
   - Quelle/5e/phb
 aliases:

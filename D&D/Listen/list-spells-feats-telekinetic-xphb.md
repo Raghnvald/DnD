@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Telekinetic
+linter-yaml-title-alias: Spells for Telekinetic
 tags:
   - Zauber/list/feat/telekinetic
 aliases:

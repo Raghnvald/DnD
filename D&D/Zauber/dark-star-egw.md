@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dark Star
 Zaubergrad: 8
+linter-yaml-title-alias: Dark Star
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/8

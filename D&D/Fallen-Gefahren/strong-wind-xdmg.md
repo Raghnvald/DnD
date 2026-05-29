@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Strong Wind
+linter-yaml-title-alias: Strong Wind
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

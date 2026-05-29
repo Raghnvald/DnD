@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventure
+linter-yaml-title-alias: Adventure
 tags:
   - Quelle/5e/xphb
 aliases:

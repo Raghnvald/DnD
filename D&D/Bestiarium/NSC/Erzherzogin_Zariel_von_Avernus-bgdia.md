@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archduke Zariel of Avernus
+linter-yaml-title-alias: Archduke Zariel of Avernus
 tags:
   - Monster/Größe/Groß
   - Monster/HG/26
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Archduke Zariel of Avernus
-linter-yaml-title-alias: Archduke Zariel of Avernus
 ---
 # Archduke Zariel of Avernus
 *Source: Baldur's Gate: Descent Into Avernus p. 243*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yakfolk Priest
+linter-yaml-title-alias: Yakfolk Priest
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4

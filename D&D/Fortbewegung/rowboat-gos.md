@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rowboat
+linter-yaml-title-alias: Rowboat
 tags:
   - Gegenstand/Fortbewegung/size/large
   - Gegenstand/Fortbewegung/terrain/sea

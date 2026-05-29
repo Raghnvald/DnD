@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Power Level; Magic Item Power by Rarity
+linter-yaml-title-alias: Power Level; Magic Item Power by Rarity
 tags:
   - Quelle/5e/xdmg
 aliases:

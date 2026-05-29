@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Heroes Feast Saving the Childrens Menu
+linter-yaml-title-alias: Index of Heroes Feast Saving the Childrens Menu
+aliases:
+  - Index of Heroes Feast Saving the Childrens Menu
 ---
 # Index of Heroes Feast Saving the Childrens Menu
 

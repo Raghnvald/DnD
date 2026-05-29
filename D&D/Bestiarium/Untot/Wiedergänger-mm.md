@@ -13,6 +13,7 @@ Habitat:
   - Sumpf
   - Wald
   - Wüste
+linter-yaml-title-alias: Wiedergänger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
@@ -26,6 +27,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Revenant
+  - Wiedergänger
 ---
 # Wiedergänger
 *Quelle: Monsterhandbuch S. 259*  

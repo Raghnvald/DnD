@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeleton
+linter-yaml-title-alias: Skeleton
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/planar
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Skeleton
-linter-yaml-title-alias: Skeleton
 ---
 # [Skeleton](3-Mechanics\CLI\bestiary\undead/skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

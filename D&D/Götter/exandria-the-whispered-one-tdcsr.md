@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Whispered One
+linter-yaml-title-alias: The Whispered One
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death

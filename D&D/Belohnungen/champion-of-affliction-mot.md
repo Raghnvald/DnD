@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of Affliction
+linter-yaml-title-alias: Champion of Affliction
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of Affliction"
+  - Champion of Affliction
 ---
 # Champion of Affliction
 *Piety Trait*  

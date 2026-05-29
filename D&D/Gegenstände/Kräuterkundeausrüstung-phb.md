@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kräuterkundeausrüstung
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 1,5 kg
+status: WIP
+linter-yaml-title-alias: Kräuterkundeausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Herbalism Kit
-linter-yaml-title-alias: Herbalism Kit
+  - Kräuterkundeausrüstung
 ---
 # Kräuterkundeausrüstung
 *Werkzeug*  

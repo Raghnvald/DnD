@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wereboar
+linter-yaml-title-alias: Wereboar
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Grasland

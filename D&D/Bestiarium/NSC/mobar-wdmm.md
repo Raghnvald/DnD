@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mobar
+linter-yaml-title-alias: Mobar
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Mobar
-linter-yaml-title-alias: Mobar
 ---
 # [Mobar](3-Mechanics\CLI\bestiary\npc/mobar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 77*  

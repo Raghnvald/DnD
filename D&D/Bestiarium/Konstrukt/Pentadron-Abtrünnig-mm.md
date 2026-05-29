@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pentadrone (Rogue)
+linter-yaml-title-alias: Pentadrone (Rogue)
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

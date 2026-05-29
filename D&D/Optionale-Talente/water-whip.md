@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Water Whip
+linter-yaml-title-alias: Water Whip
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

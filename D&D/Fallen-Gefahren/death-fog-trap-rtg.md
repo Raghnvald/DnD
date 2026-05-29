@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Death Fog Trap
+linter-yaml-title-alias: Death Fog Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/rtg
 aliases:
   - "Death Fog Trap"
+  - Death Fog Trap
 ---
 # Death Fog Trap
 *Generic Hazard*  

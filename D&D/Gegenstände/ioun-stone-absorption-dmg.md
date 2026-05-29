@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Absorption
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Absorption
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Absorption
-linter-yaml-title-alias: Ioun Stone, Absorption
 ---
 # Ioun Stone, Absorption
 *Wondrous item, major, very rare (requires attunement)*  

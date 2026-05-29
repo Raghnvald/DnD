@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Disguise Self
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/trickery-domain
@@ -20,16 +28,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/mask-of-many-faces
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Disguise Self
-linter-yaml-title-alias: Disguise Self
 ---
 # Disguise Self
 *1st-level, Illusion*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kraul Warrior
+linter-yaml-title-alias: Kraul Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

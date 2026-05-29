@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Rats
+linter-yaml-title-alias: Swarm of Rats
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Anhang B: Charakter-Dossier"
 status: completed
+linter-yaml-title-alias: "Anhang B: Charakter-Dossier"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Anhang B: Charakter-Dossier"
   - Appendix B: Character Dossier
 ---
 # Anhang B: Charakter-Dossier

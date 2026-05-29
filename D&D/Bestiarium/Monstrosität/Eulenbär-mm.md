@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Owlbear
+linter-yaml-title-alias: Owlbear
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wald

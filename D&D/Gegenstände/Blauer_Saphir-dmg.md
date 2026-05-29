@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Blauer Saphir
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Blauer Saphir
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Blue Sapphire
-linter-yaml-title-alias: Blue Sapphire
+  - Blauer Saphir
 ---
 # Blauer Saphir
 *Schatz (Edelstein)*  

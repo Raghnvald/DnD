@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Character Creation
+linter-yaml-title-alias: Character Creation
 tags:
   - Quelle/5e/vrgr
 aliases:

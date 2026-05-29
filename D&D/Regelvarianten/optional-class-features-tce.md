@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Optional Class Features
+linter-yaml-title-alias: Optional Class Features
 tags:
   - Quelle/5e/tce
 aliases:

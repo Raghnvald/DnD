@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ruby Weave Gem
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ruby Weave Gem
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ruby Weave Gem
-linter-yaml-title-alias: Ruby Weave Gem
 ---
 # Ruby Weave Gem
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

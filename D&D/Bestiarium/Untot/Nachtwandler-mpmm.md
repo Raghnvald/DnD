@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nightwalker
+linter-yaml-title-alias: Nightwalker
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Nightwalker
-linter-yaml-title-alias: Nightwalker
 ---
 # [Nightwalker](3-Mechanics\CLI\bestiary\undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194*  

@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Phantasmal Force
 Zaubergrad: 2
+linter-yaml-title-alias: Phantasmal Force
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Archfey)
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Archfey)
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
   - Phantasmal Force
-linter-yaml-title-alias: Phantasmal Force
 ---
 # Phantasmal Force
 *2nd-level, Illusion*  

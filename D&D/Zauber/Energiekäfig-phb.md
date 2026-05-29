@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Energiekäfig
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -14,13 +19,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
-  - Wizard
 aliases:
-  - Forcecage
-linter-yaml-title-alias: Forcecage
+  - Energiekäfig
 ---
 # Energiekäfig
 *Hervorrufung des 7. Grades*

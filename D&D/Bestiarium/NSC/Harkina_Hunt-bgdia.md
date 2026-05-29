@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harkina Hunt
+linter-yaml-title-alias: Harkina Hunt
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Harkina Hunt
-linter-yaml-title-alias: Harkina Hunt
 ---
 # Harkina Hunt
 *Source: Baldur's Gate: Descent Into Avernus p. 53*  

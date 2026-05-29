@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Generic Object
+linter-yaml-title-alias: Generic Object
 tags:
   - Kompendium/Objekt/size/varies
   - Kompendium/Objekt/type/generic

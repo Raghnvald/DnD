@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Grand Masquerade; Grand Masquerade Objectives
+linter-yaml-title-alias: The Grand Masquerade; Grand Masquerade Objectives
 tags:
   - Quelle/5e/vrgr
 aliases:

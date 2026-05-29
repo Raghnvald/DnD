@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quajath
+linter-yaml-title-alias: Quajath
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/war

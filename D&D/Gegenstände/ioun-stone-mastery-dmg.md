@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Mastery
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Mastery
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Mastery
-linter-yaml-title-alias: Ioun Stone, Mastery
 ---
 # Ioun Stone, Mastery
 *Wondrous item, major, legendary (requires attunement)*  

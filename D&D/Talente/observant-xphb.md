@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Observant
+linter-yaml-title-alias: Observant
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

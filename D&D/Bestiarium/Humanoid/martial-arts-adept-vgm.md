@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Martial Arts Adept
+linter-yaml-title-alias: Martial Arts Adept
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

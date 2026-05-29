@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lords of Dust Adventure Hooks
+linter-yaml-title-alias: Lords of Dust Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Settlements; Race Relations
+linter-yaml-title-alias: Random Settlements; Race Relations
 tags:
   - Quelle/5e/dmg
 aliases:

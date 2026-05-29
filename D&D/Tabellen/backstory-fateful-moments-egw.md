@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Fateful Moments
+linter-yaml-title-alias: Backstory; Fateful Moments
 tags:
   - Quelle/5e/egw
 aliases:

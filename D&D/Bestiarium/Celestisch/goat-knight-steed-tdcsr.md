@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goat-Knight Steed
+linter-yaml-title-alias: Goat-Knight Steed
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

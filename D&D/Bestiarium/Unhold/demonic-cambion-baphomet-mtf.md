@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demonic Cambion (Baphomet)
+linter-yaml-title-alias: Demonic Cambion (Baphomet)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

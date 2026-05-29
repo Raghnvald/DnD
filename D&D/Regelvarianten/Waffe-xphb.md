@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weapon
+linter-yaml-title-alias: Weapon
 tags:
   - Quelle/5e/xphb
 aliases:

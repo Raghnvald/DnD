@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fey Teleportation
+linter-yaml-title-alias: Fey Teleportation
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

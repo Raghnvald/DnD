@@ -7,6 +7,16 @@ Komponenten: V, G
 Wirkungsdauer: K, <1 Minute
 Angriff: Nah
 Schaden: 2d8 psychisch
+linter-yaml-title-alias: Schattenklinge
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -19,18 +29,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
+  - Schattenklinge
   - Shadow Blade
-linter-yaml-title-alias: Schattenklinge
 ---
 # Schattenklinge
 *Illusion des 2. Grades*  

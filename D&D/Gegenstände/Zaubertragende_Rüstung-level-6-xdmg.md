@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 6)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Level 6)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Level 6) Splint Armor
   - Enspelled (Level 6) Studded Leather Armor
   - Enspelled Armor (Level 6)
-linter-yaml-title-alias: Enspelled Armor (Level 6)
 ---
 # Enspelled Armor (Level 6)
 *Legendary (requires attunement)*  

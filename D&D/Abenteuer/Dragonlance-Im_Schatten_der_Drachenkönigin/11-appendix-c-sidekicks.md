@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix C: Sidekicks"
+linter-yaml-title-alias: "Appendix C: Sidekicks"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Appendix C: Sidekicks"
   - Appendix C: Sidekicks
 ---
 # Appendix C: Sidekicks

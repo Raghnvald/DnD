@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Great Old One
+linter-yaml-title-alias: The Great Old One
 tags:
   - Klasse/Hexenmeister/great-old-one
   - Quelle/5e/phb

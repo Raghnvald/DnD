@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Arcana - Sehr selten
+linter-yaml-title-alias: Arcana - Sehr selten
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - Arcana - Sehr selten
   - Arcana - Very Rare
 ---
 # Arcana - Sehr selten

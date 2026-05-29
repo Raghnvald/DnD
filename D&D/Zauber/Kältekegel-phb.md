@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Cone of Cold
 Zaubergrad: 5
+linter-yaml-title-alias: Cone of Cold
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Arctic)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/arctic
@@ -10,14 +16,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/optfeature/breath-of-winter
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Arctic)
-  - Sorcerer
-  - Wizard
 aliases:
   - Cone of Cold
-linter-yaml-title-alias: Cone of Cold
 ---
 # Cone of Cold
 *5th-level, Evocation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arms of the Betrayers
+linter-yaml-title-alias: Arms of the Betrayers
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/war

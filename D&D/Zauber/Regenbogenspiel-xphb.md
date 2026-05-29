@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Prismatic Spray
+linter-yaml-title-alias: Prismatic Spray
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -8,14 +14,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Prismatic Spray
-linter-yaml-title-alias: Prismatic Spray
 ---
 # Prismatic Spray
 *7th-level, Evocation*  

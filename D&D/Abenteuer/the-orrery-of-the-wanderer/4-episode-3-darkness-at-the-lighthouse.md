@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Episode 3: Darkness at the Lighthouse"
+linter-yaml-title-alias: "Episode 3: Darkness at the Lighthouse"
 tags:
   - Quelle/5e/oow
 aliases:

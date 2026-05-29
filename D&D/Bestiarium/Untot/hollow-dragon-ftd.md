@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hollow Dragon
+linter-yaml-title-alias: Hollow Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/18
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Hollow Dragon
-linter-yaml-title-alias: Hollow Dragon
 ---
 # [Hollow Dragon](3-Mechanics\CLI\bestiary\undead/hollow-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 206*  

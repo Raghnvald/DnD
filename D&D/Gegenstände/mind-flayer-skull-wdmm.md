@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Flayer Skull
+linter-yaml-title-alias: Mind Flayer Skull
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/wdmm
 aliases:
   - Mind Flayer Skull
-linter-yaml-title-alias: Mind Flayer Skull
 ---
 # Mind Flayer Skull
 

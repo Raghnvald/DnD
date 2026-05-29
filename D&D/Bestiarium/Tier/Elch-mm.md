@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elk
+linter-yaml-title-alias: Elk
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

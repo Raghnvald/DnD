@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mercenary Veteran
+linter-yaml-title-alias: Mercenary Veteran
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

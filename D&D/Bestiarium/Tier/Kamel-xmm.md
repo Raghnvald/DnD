@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Camel
+linter-yaml-title-alias: Camel
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wüste

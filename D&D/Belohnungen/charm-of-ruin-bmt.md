@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Ruin
+linter-yaml-title-alias: Charm of Ruin
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

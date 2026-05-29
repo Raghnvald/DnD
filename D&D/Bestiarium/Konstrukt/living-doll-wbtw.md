@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Doll
+linter-yaml-title-alias: Living Doll
 tags:
   - Quelle/5e/wbtw
   - ttrpg-cli/monster/cr/2
@@ -9,6 +10,7 @@ tags:
   - ttrpg-cli/monster/type/construct
 aliases:
   - "Living Doll"
+  - Living Doll
 ---
 # [Living Doll](3-Mechanics/CLI/bestiary/construct/living-doll-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 238*  

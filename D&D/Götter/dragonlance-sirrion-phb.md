@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sirrion
+linter-yaml-title-alias: Sirrion
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/dragonlance

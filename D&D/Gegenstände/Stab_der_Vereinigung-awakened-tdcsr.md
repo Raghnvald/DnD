@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spire of Conflux (Awakened)
+linter-yaml-title-alias: Spire of Conflux (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Spire of Conflux (Awakened)
-linter-yaml-title-alias: Spire of Conflux (Awakened)
 ---
 # Spire of Conflux (Awakened)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

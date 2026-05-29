@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spezielles Merkmal; Was ist eine Einzelheit aus seiner Vergangenheit?
+linter-yaml-title-alias: Spezielles Merkmal; Was ist eine Einzelheit aus seiner Vergangenheit?
 tags:
   - Quelle/5e/dmg
 aliases:
   - Special Features; What Is a Detail from Its History?
+  - Spezielles Merkmal; Was ist eine Einzelheit aus seiner Vergangenheit?
 ---
 # Spezielles Merkmal; Was ist eine Einzelheit aus seiner Vergangenheit?
 *Quelle: Spielleiterhandbuch, S. 141* 

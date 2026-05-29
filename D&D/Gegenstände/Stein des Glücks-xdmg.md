@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Stone of Good Luck
+linter-yaml-title-alias: Stone of Good Luck
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Stone of Good Luck
-linter-yaml-title-alias: Stone of Good Luck
 ---
 # Stone of Good Luck
 *Wondrous item, uncommon (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mace of Terror
+linter-yaml-title-alias: Mace of Terror
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Mace of Terror
-linter-yaml-title-alias: Mace of Terror
 ---
 # Mace of Terror
 *Weapon ([mace](Streitkolben-xphb)), rare (requires attunement)*  

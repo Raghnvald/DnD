@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Pony
 Kategorie: Reit- und Lastentier
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 30 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Pony
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Pony
 Bew.: 12 m
-linter-yaml-title-alias: Pony
 Traglast: 225 Pfd.
 ---
 # Pony

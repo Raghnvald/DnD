@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Conjuration
+linter-yaml-title-alias: School of Conjuration
 tags:
   - Klasse/Magier/conjuration
   - Quelle/5e/phb

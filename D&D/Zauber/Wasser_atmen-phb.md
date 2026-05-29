@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Water Breathing
 Zaubergrad: 3
+linter-yaml-title-alias: Water Breathing
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Druid (Circle of the Land, Coast)
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,18 +24,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Druid (Circle of the Land, Coast)
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Water Breathing
-linter-yaml-title-alias: Water Breathing
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

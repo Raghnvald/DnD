@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Aven (Hawk-Headed)
+linter-yaml-title-alias: Aven (Hawk-Headed)
 tags:
   - Quelle/5e/psa
   - Rasse/aven/hawk-headed
 aliases:
   - "Aven (Hawk-Headed)"
+  - Aven (Hawk-Headed)
 ---
 # Aven (Hawk-Headed)
 *Source: Plane Shift: Amonkhet p. 16*  

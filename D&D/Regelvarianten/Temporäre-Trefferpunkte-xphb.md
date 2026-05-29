@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Temporary Hit Points
+linter-yaml-title-alias: Temporary Hit Points
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Sea Eel
+linter-yaml-title-alias: Giant Sea Eel
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-2

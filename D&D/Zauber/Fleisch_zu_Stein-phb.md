@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Flesh to Stone
 Zaubergrad: 6
+linter-yaml-title-alias: Flesh to Stone
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
-  - Wizard
 aliases:
   - Flesh to Stone
-linter-yaml-title-alias: Flesh to Stone
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

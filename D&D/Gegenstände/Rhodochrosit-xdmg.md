@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Rhodochrosite
+linter-yaml-title-alias: Rhodochrosite
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Rhodochrosite
-linter-yaml-title-alias: Rhodochrosite
 ---
 # Rhodochrosite
 *Treasure (gemstone)*  

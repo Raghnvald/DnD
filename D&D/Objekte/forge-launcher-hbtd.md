@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Forge Launcher
+linter-yaml-title-alias: Forge Launcher
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/hbtd
 aliases:
   - "Forge Launcher"
+  - Forge Launcher
 ---
 # Forge Launcher
 *Source: Hold Back The Dead p. 4*  

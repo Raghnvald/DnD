@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Maimed
+linter-yaml-title-alias: Charm of the Maimed
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/toa

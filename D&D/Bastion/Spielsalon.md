@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaming Hall
+linter-yaml-title-alias: Gaming Hall
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Heiltrank
+linter-yaml-title-alias: Heiltrank
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
+  - Heiltrank
   - Potion of Healing
-linter-yaml-title-alias: Heiltrank
 ---
 # Heiltrank
 *Trank, gewöhnlich*  

@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Raise Dead
+linter-yaml-title-alias: Raise Dead
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric
+  - Cleric (Grave Domain)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -10,16 +18,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Nekromantie
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Cleric
-  - Cleric (Grave Domain)
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Raise Dead
-linter-yaml-title-alias: Raise Dead
 ---
 # Raise Dead
 *5th-level, Necromancy*  

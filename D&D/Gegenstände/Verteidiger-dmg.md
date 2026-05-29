@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Defender
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+linter-yaml-title-alias: Defender
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -16,7 +17,6 @@ aliases:
   - Defender Rapier
   - Defender Scimitar
   - Defender Shortsword
-linter-yaml-title-alias: Defender
 ---
 # Defender
 *Major, legendary (requires attunement)*  

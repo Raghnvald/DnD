@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Glocke des Öffnens
+linter-yaml-title-alias: Glocke des Öffnens
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Chime of Opening
-linter-yaml-title-alias: Chime of Opening
+  - Glocke des Öffnens
 ---
 # Glocke des Öffnens
 *Wondrous item, minor, rare*  

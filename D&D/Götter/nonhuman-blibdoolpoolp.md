@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blibdoolpoolp
+linter-yaml-title-alias: Blibdoolpoolp
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/nonhuman

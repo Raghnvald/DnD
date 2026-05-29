@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Juwelierwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Juwelierwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Jeweler's Tools
-linter-yaml-title-alias: Jeweler's Tools
+  - Juwelierwerkzeuge
 ---
 # Juwelierwerkzeuge
 *Handwerkszeug*

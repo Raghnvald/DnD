@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cauldron of Plenty
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Cauldron of Plenty
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/idrotf
 aliases:
   - Cauldron of Plenty
-linter-yaml-title-alias: Cauldron of Plenty
 ---
 # Cauldron of Plenty
 *Wondrous item, rare*  

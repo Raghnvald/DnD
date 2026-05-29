@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Oceanic Weapon
 Kategorie: Beliebige Waffe
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Oceanic Weapon
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -40,7 +45,6 @@ aliases:
   - Oceanic Trident
   - Oceanic Weapon
   - Oceanic Yklwa
-linter-yaml-title-alias: Oceanic Weapon
 ---
 # Oceanic Weapon
 *Rare (requires attunement)*  

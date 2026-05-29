@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demilich
+linter-yaml-title-alias: Demilich
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

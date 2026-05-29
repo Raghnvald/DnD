@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Simic Keyrune
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Simic Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Simic Keyrune
-linter-yaml-title-alias: Simic Keyrune
 ---
 # Simic Keyrune
 *Wondrous item, uncommon (requires attunement by a member of the Simic guild)*  

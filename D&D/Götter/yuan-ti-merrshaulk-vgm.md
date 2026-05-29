@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Merrshaulk
+linter-yaml-title-alias: Merrshaulk
 tags:
   - Kompendium/Götter/yuan-ti
   - Quelle/5e/vgm

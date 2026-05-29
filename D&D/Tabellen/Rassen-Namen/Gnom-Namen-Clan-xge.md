@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome Names – Clan
+linter-yaml-title-alias: Gnome Names – Clan
 tags:
   - Quelle/5e/xge
 aliases:

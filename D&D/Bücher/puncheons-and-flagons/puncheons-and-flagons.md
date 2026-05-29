@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Puncheons and Flagons
+linter-yaml-title-alias: Index of Puncheons and Flagons
+aliases:
+  - Index of Puncheons and Flagons
 ---
 # Index of Puncheons and Flagons
 

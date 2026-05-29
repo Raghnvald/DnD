@@ -8,6 +8,11 @@ Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: n/v
 status: completed
+linter-yaml-title-alias: Beistand
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -15,13 +20,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Paladin
 aliases:
-  - Aid
-linter-yaml-title-alias: Aid
+  - Beistand
 ---
 # Beistand
 *Bann des 2. Grades*

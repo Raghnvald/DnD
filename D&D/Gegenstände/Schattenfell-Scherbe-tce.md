@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shadowfell Shard
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Shadowfell Shard
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Shadowfell Shard
-linter-yaml-title-alias: Shadowfell Shard
 ---
 # Shadowfell Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

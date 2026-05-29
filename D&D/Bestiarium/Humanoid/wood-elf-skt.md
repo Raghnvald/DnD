@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wood Elf
+linter-yaml-title-alias: Wood Elf
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

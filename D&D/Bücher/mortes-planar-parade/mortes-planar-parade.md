@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Mortes Planar Parade
+linter-yaml-title-alias: Index of Mortes Planar Parade
+aliases:
+  - Index of Mortes Planar Parade
 ---
 # Index of Mortes Planar Parade
 

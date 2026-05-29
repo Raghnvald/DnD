@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Immunity
+linter-yaml-title-alias: Immunity
 tags:
   - Quelle/5e/xphb
 aliases:

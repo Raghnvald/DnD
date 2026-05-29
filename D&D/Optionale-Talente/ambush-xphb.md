@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ambush
+linter-yaml-title-alias: Ambush
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

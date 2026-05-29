@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Items Awarded by Level
+linter-yaml-title-alias: Magic Items Awarded by Level
 tags:
   - Quelle/5e/xdmg
 aliases:

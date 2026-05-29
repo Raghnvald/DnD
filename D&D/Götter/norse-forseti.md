@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forseti
+linter-yaml-title-alias: Forseti
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/order

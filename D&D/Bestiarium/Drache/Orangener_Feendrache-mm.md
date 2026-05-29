@@ -8,6 +8,7 @@ HG: 1
 Habitat:
   - Wald
 status: WIP
+linter-yaml-title-alias: Faerie Dragon (Orange)
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Wald
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Faerie Dragon (Orange)
-linter-yaml-title-alias: Faerie Dragon (Orange)
 ---
 # [Faerie Dragon (Orange)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-orange.md)
 *Source: Monster Manual p. 133*  

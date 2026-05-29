@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ice Troll
+linter-yaml-title-alias: Ice Troll
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

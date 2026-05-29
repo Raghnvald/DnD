@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Hero
+linter-yaml-title-alias: Folk Hero
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

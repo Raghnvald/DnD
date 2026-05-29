@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archdruid
+linter-yaml-title-alias: Archdruid
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

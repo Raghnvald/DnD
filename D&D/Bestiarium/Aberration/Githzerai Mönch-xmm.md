@@ -5,6 +5,7 @@ Bezeichnung: Githzerai Monk
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 2
+linter-yaml-title-alias: Githzerai Monk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/limbo

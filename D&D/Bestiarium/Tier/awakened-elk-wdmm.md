@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awakened Elk
+linter-yaml-title-alias: Awakened Elk
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-4

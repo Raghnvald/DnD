@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unicorn
+linter-yaml-title-alias: Unicorn
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

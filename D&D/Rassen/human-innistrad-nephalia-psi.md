@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Human (Innistrad; Nephalia)
+linter-yaml-title-alias: Human (Innistrad; Nephalia)
 tags:
   - Quelle/5e/psi
   - Rasse/human/innistrad-nephalia
 aliases:
   - "Human (Innistrad; Nephalia)"
+  - Human (Innistrad; Nephalia)
 ---
 # Human (Innistrad; Nephalia)
 *Source: Plane Shift: Innistrad p. 8*  

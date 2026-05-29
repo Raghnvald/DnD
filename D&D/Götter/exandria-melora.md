@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Melora
+linter-yaml-title-alias: Melora
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

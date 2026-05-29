@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ythryn Mythallar
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ythryn Mythallar
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Ythryn Mythallar
-linter-yaml-title-alias: Ythryn Mythallar
 ---
 # Ythryn Mythallar
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

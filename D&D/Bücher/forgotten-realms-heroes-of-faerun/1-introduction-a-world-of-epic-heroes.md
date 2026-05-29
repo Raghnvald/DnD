@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: A World of Epic Heroes"
+linter-yaml-title-alias: "Introduction: A World of Epic Heroes"
 tags:
   - Quelle/5e/frhof
 aliases:

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Lydia Petrovna
+linter-yaml-title-alias: Lady Lydia Petrovna
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Lady Lydia Petrovna
-linter-yaml-title-alias: Lady Lydia Petrovna
 ---
 # Lady Lydia Petrovna
 *Source: Curse of Strahd p. 105*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Izek Strazni
+linter-yaml-title-alias: Izek Strazni
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Izek Strazni
-linter-yaml-title-alias: Izek Strazni
 ---
 # Izek Strazni
 *Source: Curse of Strahd p. 232*  

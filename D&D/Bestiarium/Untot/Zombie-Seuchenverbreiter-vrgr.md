@@ -8,6 +8,7 @@ HG: 4
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Zombie Plague Spreader
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Zombie Plague Spreader
-linter-yaml-title-alias: Zombie Plague Spreader
 ---
 # [Zombie Plague Spreader](3-Mechanics\CLI\bestiary\undead/zombie-plague-spreader-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  

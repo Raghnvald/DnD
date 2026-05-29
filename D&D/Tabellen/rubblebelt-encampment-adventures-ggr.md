@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rubblebelt Encampment Adventures
+linter-yaml-title-alias: Rubblebelt Encampment Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

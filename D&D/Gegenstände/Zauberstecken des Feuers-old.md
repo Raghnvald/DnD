@@ -2,9 +2,11 @@
 Bezeichnung: Zauberstecken des Feuers
 Kategorie: Zauberstecken
 Schaden: 1W6 Hieb
-Eigenschaften: Vielseitig (1W8)
+Eigenschaften:
+  - Vielseitig (1W8)
 Kst.: 40.000 GM
 Gew.: 2,0 kg
+linter-yaml-title-alias: Zauberstecken des Feuers
 tags:
   - Gegenstand/Eigenschaft/Vielseitig
   - Gegenstand/Einstimmung/Druide
@@ -16,6 +18,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Staff of Fire
+  - Zauberstecken des Feuers
 ---
 # Zauberstecken des Feuers
 *Zauberstecken, sehr selten (erfordert Einstimmung durch einen Druiden, Hexenmeister, Magier oder Zauberer)* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scholarly Standing
+linter-yaml-title-alias: Scholarly Standing
 tags:
   - Quelle/5e/erlw
 aliases:

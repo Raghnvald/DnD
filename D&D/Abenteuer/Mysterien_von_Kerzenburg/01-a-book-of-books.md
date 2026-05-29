@@ -1,5 +1,6 @@
 ---
 Bezeichnung: A Book of Books
+linter-yaml-title-alias: A Book of Books
 tags:
   - Quelle/5e/cm
 aliases:

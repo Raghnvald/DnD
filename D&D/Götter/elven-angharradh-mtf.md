@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Angharradh
+linter-yaml-title-alias: Angharradh
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life

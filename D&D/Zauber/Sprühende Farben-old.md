@@ -2,6 +2,7 @@
 Bezeichnung: Sprühende Farben
 Zaubergrad: 1
 status: WIP
+linter-yaml-title-alias: Sprühende Farben
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -10,6 +11,7 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Color Spray
+  - Sprühende Farben
 ---
 # Sprühende Farben
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Illusionszauber.webp#token)

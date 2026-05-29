@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bread (loaf)
+linter-yaml-title-alias: Bread (loaf)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bread (loaf)
-linter-yaml-title-alias: Bread (loaf)
 ---
 # Bread (loaf)
 *Food and drink*  

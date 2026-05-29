@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The Deck
+linter-yaml-title-alias: The Deck
 tags:
   - Quelle/5e/td
 aliases:
   - "The Deck"
+  - The Deck
 ---
 # The Deck
 *Source: Tarot Deck, p. 8* 

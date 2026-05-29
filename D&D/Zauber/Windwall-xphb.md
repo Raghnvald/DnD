@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Wind Wall
+linter-yaml-title-alias: Wind Wall
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
+  - Warlock (The Genie, Djinni)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,17 +20,8 @@ tags:
   - Subklasse/the-genie/djinni
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
-  - Warlock (The Genie, Djinni)
 aliases:
   - Wind Wall
-linter-yaml-title-alias: Wind Wall
 ---
 # Wind Wall
 *3rd-level, Evocation*  

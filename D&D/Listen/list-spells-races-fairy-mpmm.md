@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Fairy
+linter-yaml-title-alias: Spells for Fairy
 tags:
   - Zauber/list/race/fairy
 aliases:

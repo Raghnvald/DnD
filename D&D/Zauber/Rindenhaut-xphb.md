@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Barkskin
+linter-yaml-title-alias: Barkskin
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,15 +16,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Ranger
 aliases:
   - Barkskin
-linter-yaml-title-alias: Barkskin
 ---
 # Barkskin
 *2nd-level, Transmutation*  

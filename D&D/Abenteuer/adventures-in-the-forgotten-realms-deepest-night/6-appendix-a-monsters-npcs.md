@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Monsters & NPCs"
+linter-yaml-title-alias: "Appendix A: Monsters & NPCs"
 tags:
   - Quelle/5e/aitfr-dn
 aliases:

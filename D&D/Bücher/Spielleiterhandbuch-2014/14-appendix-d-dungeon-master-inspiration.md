@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix D: Dungeon Master Inspiration"
+linter-yaml-title-alias: "Appendix D: Dungeon Master Inspiration"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Appendix D: Dungeon Master Inspiration"
   - Appendix D: Dungeon Master Inspiration
 ---
 # Appendix D: Dungeon Master Inspiration

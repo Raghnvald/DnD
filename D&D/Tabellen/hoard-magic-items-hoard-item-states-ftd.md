@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hoard Magic Items; Hoard Item States
+linter-yaml-title-alias: Hoard Magic Items; Hoard Item States
 tags:
   - Quelle/5e/ftd
 aliases:

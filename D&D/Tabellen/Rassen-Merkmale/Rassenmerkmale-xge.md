@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Racial Feats
+linter-yaml-title-alias: Racial Feats
 tags:
   - Quelle/5e/xge
 aliases:

@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Ring of Truth Telling
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: WIP
+linter-yaml-title-alias: Ring of Truth Telling
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +12,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Ring of Truth Telling
-linter-yaml-title-alias: Ring of Truth Telling
 ---
 # Ring of Truth Telling
 *Ring, uncommon (requires attunement)*  

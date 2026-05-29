@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Ionenstein
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: erfordert Einstimmung
-Kst.: n/v
-Gew.: n/v
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Ionenstein
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/legendär
@@ -12,6 +14,7 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Ionenstein
   - Ioun Stone
 ---
 # Ionenstein

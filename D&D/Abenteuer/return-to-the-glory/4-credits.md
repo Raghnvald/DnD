@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/rtg
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Return to the Glory* 

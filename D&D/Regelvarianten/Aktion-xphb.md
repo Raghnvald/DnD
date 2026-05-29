@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Action
+linter-yaml-title-alias: Action
 tags:
   - Quelle/5e/xphb
 aliases:

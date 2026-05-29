@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merregon
+linter-yaml-title-alias: Merregon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

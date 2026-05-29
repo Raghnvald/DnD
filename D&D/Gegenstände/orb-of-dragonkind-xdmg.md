@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Orb of Dragonkind
+linter-yaml-title-alias: Orb of Dragonkind
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:
   - Orb of Dragonkind
-linter-yaml-title-alias: Orb of Dragonkind
 ---
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  

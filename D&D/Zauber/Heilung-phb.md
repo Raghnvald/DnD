@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Heal
 Zaubergrad: 6
+linter-yaml-title-alias: Heal
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
   - Heal
-linter-yaml-title-alias: Heal
 ---
 # Heal
 *6th-level, Evocation*  

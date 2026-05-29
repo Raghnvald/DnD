@@ -6,6 +6,11 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Guardian of Nature
+classes:
+  - Bard
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -13,13 +18,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/4
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
-  - Ranger
 aliases:
   - Guardian of Nature
-linter-yaml-title-alias: Guardian of Nature
 ---
 # Guardian of Nature
 *4th-level, Transmutation*  

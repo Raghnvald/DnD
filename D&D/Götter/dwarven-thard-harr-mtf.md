@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thard Harr
+linter-yaml-title-alias: Thard Harr
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/dwarven

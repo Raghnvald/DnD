@@ -7,6 +7,15 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: INT
 Schaden: Kontrolle
+linter-yaml-title-alias: Feindüberfluss
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -18,17 +27,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Enemies Abound
-linter-yaml-title-alias: Enemies Abound
+  - Feindüberfluss
 ---
 # Feindüberfluss
 *Verzauberung des 3. Grades*

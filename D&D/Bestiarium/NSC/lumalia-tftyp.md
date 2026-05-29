@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lumalia
+linter-yaml-title-alias: Lumalia
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Lumalia
-linter-yaml-title-alias: Lumalia
 ---
 # [Lumalia](3-Mechanics\CLI\bestiary\npc/lumalia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 153*  

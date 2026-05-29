@@ -7,6 +7,13 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Magic Stone
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
+  - Warlock
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -21,15 +28,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
-  - Warlock
 aliases:
   - Magic Stone
-linter-yaml-title-alias: Magic Stone
 ---
 # Magic Stone
 *cantrip, Transmutation*  

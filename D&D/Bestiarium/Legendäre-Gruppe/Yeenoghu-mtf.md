@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yeenoghu
+linter-yaml-title-alias: Yeenoghu
 tags:
   - Monster/legendary-group
   - Quelle/5e/mtf

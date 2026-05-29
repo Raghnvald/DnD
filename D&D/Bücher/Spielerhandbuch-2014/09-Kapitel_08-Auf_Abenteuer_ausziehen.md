@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Auf Abenteuer ausziehen
+linter-yaml-title-alias: Auf Abenteuer ausziehen
 tags:
   - Quelle/5e/phb
 aliases:
   - Adventuring
+  - Auf Abenteuer ausziehen
 ---
 # Auf Abenteuer ausziehen
 *Source: Player's Handbook (2014), p. 181* 

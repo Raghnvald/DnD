@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vergadain
+linter-yaml-title-alias: Vergadain
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/dwarven

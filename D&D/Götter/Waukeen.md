@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waukeen, Göttin des Handels
+linter-yaml-title-alias: Waukeen, Göttin des Handels
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/List
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Waukeen
+  - Waukeen, Göttin des Handels
 ---
 # Waukeen, Göttin des Handels
 _Unsere Dame des Goldes, die Münzmaid, Kaufmannsfreund_

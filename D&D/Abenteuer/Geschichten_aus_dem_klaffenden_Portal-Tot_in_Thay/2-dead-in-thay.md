@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Dead in Thay
+linter-yaml-title-alias: Dead in Thay
 tags:
   - Quelle/5e/tftyp-dit
 aliases:
   - "Dead in Thay"
+  - Dead in Thay
 ---
 # Dead in Thay
 *Source: Tales from the Yawning Portal: Dead in Thay, p. 109* 

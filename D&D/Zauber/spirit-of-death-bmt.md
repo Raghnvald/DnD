@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spirit of Death
 Zaubergrad: 4
+linter-yaml-title-alias: Spirit of Death
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/4

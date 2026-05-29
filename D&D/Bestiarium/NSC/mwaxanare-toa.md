@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mwaxanaré
+linter-yaml-title-alias: Mwaxanaré
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Mwaxanaré
-linter-yaml-title-alias: Mwaxanaré
 ---
 # [Mwaxanaré](3-Mechanics\CLI\bestiary\npc/mwaxanare-toa.md)
 *Source: Tomb of Annihilation p. 228*  

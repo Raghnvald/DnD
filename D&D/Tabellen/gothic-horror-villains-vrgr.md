@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Villains
+linter-yaml-title-alias: Gothic Horror Villains
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Lyrandar Helm
+linter-yaml-title-alias: Lyrandar Helm
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
   - "Lyrandar Helm"
+  - Lyrandar Helm
 ---
 # Lyrandar Helm
 *Level 13 Bastion facility*  

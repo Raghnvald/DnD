@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr (Exalted)
 Rüstung: Schwer
+linter-yaml-title-alias: Plate of the Dawnmartyr (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Plate of the Dawnmartyr (Exalted)
-linter-yaml-title-alias: Plate of the Dawnmartyr (Exalted)
 ---
 # Plate of the Dawnmartyr (Exalted)
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary (requires attunement)*  

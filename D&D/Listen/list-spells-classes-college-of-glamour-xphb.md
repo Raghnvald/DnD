@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for College of Glamour
+linter-yaml-title-alias: Spells for College of Glamour
 tags:
   - Zauber/list/subclass/college-of-glamour
 aliases:

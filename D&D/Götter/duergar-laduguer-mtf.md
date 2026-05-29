@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Laduguer
+linter-yaml-title-alias: Laduguer
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/forge

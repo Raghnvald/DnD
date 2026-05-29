@@ -7,18 +7,18 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Hellish Rebuke
+classes:
+  - Paladin (Oathbreaker)
+  - Warlock
 tags:
   - Klasse/Hexenmeister
   - Klasse/Paladin/Eidbrecher
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Paladin (Oathbreaker)
-  - Warlock
 aliases:
   - Hellish Rebuke
-linter-yaml-title-alias: Hellish Rebuke
 ---
 # Hellish Rebuke
 *1st-level, Evocation*  

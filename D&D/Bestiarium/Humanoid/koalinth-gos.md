@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Koalinth
+linter-yaml-title-alias: Koalinth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

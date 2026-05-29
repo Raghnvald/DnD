@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Aerenal Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Aerenal Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
   - Aerenal Trinket
-linter-yaml-title-alias: Aerenal Trinket
 ---
 # Aerenal Trinket
 *Adventuring gear*  

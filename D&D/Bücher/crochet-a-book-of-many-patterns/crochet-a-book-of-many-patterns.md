@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Crochet a Book of Many Patterns
+linter-yaml-title-alias: Index of Crochet a Book of Many Patterns
+aliases:
+  - Index of Crochet a Book of Many Patterns
 ---
 # Index of Crochet a Book of Many Patterns
 

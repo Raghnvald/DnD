@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Pride Silk
+Kst.: 100 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Pride Silk
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Pride Silk
-linter-yaml-title-alias: Pride Silk
 ---
 # Pride Silk
 *Adventuring gear*  

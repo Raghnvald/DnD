@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Baldur's Gate Acolyte"
+linter-yaml-title-alias: "Baldur's Gate Acolyte"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
+  - "Baldur's Gate Acolyte"
   - Baldur's Gate Acolyte
 ---
 # Baldur's Gate Acolyte

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Raiding Parties; Duergar Group Leader
+linter-yaml-title-alias: Duergar Raiding Parties; Duergar Group Leader
 tags:
   - Quelle/5e/mtf
 aliases:

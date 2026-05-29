@@ -9,6 +9,7 @@ Habitat:
   - Planar (Schattensaum)
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Shadow Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/planar
@@ -19,7 +20,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Shadow Dragon
-linter-yaml-title-alias: Shadow Dragon
 ---
 # [Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/shadow-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 275*  

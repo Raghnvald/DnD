@@ -1,5 +1,6 @@
 ---
 Bezeichnung: What Happens Next?; Skyway Street Events
+linter-yaml-title-alias: What Happens Next?; Skyway Street Events
 tags:
   - Quelle/5e/erlw
 aliases:

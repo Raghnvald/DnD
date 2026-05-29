@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Nerds Restoring Harmony the Candy Mountain Caper
+linter-yaml-title-alias: Index of Nerds Restoring Harmony the Candy Mountain Caper
+aliases:
+  - Index of Nerds Restoring Harmony the Candy Mountain Caper
 ---
 # Index of Nerds Restoring Harmony the Candy Mountain Caper
 

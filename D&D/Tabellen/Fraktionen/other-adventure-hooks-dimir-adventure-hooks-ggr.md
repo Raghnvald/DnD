@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Other Adventure Hooks; Dimir Adventure Hooks
+linter-yaml-title-alias: Other Adventure Hooks; Dimir Adventure Hooks
 tags:
   - Quelle/5e/ggr
 aliases:

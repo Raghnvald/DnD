@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kubazan
+linter-yaml-title-alias: Kubazan
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa

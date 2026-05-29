@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Galley
+linter-yaml-title-alias: Galley
 tags:
   - Gegenstand/Fortbewegung/size/gargantuan
   - Gegenstand/Fortbewegung/terrain/sea

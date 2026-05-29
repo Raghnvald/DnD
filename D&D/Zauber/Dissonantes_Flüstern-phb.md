@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Dissonantes Flüstern
 Zaubergrad: 1
+linter-yaml-title-alias: Dissonantes Flüstern
+classes:
+  - Bard (Magical Secrets)
+  - Warlock (The Great Old One)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Kompendium/Talent/magic-initiate/bard-spells
@@ -8,12 +12,9 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Warlock (The Great Old One)
 aliases:
   - Dissonant Whispers
-linter-yaml-title-alias: Dissonantes Flüstern
+  - Dissonantes Flüstern
 ---
 # Dissonantes Flüstern
 *Hervorrufung des 1. Grades*

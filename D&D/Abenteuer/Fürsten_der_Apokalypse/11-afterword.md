@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Afterword
+linter-yaml-title-alias: Afterword
 tags:
   - Quelle/5e/pota
 aliases:
   - "Afterword"
+  - Afterword
 ---
 # Afterword
 *Source: Princes of the Apocalypse, p. 251* 

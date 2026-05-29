@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/lox
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Light of Xaryxis* 

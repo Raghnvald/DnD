@@ -7,7 +7,9 @@ Größe: Groß
 HG: "7"
 Habitat:
   - /
+image: token/advanced-detention-drone-bmt.webp
 status: WIP
+linter-yaml-title-alias: Advanced Detention Drone
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7

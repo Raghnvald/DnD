@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Ledererwerkzeuge
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Ledererwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Leatherworker's Tools
-linter-yaml-title-alias: Leatherworker's Tools
+  - Ledererwerkzeuge
 ---
 # Ledererwerkzeuge
 *Handwerkszeug*

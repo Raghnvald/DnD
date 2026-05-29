@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Maps"
+linter-yaml-title-alias: "Appendix B: Maps"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Appendix B: Maps"
   - Appendix B: Maps
 ---
 # Appendix B: Maps

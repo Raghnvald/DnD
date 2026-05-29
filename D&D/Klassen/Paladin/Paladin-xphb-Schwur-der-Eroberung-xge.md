@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Conquest
+linter-yaml-title-alias: Oath of Conquest
 tags:
   - Klasse/Paladin/Schwur-der-Eroberung
   - Quelle/5e/xge

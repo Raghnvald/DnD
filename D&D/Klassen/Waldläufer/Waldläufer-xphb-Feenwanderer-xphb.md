@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fey Wanderer
+linter-yaml-title-alias: Fey Wanderer
 tags:
   - Klasse/Waldläufer/fey-wanderer
   - Quelle/5e/xphb

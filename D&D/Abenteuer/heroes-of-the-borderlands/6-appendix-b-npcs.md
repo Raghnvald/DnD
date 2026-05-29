@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: NPCs"
+linter-yaml-title-alias: "Appendix B: NPCs"
 tags:
   - Quelle/5e/hotb
 aliases:

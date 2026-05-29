@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Derro Madness
+linter-yaml-title-alias: Derro Madness
 tags:
   - Quelle/5e/mtf
 aliases:

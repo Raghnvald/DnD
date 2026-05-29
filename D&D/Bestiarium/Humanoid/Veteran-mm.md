@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Veteran
+linter-yaml-title-alias: Veteran
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

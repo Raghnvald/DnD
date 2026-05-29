@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chamber Adventure Hooks
+linter-yaml-title-alias: Chamber Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thunder Cliffs
+linter-yaml-title-alias: Thunder Cliffs
 tags:
   - Quelle/5e/slw
 aliases:

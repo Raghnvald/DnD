@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Holy Aura
 Zaubergrad: 8
+linter-yaml-title-alias: Holy Aura
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Holy Aura
-linter-yaml-title-alias: Holy Aura
 ---
 # Holy Aura
 *8th-level, Abjuration*  

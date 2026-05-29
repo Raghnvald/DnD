@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monk
+linter-yaml-title-alias: Monk
 tags:
   - Klasse/Mönch
   - Quelle/5e/xphb

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Deck of Many Things (13 Cards)
+linter-yaml-title-alias: Deck of Many Things (13 Cards)
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Deck of Many Things (13 Cards)"
+  - Deck of Many Things (13 Cards)
 ---
 # Deck of Many Things (13 Cards)
 *Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

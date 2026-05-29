@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Geschirr und Zaumzeug
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Geschirr und Zaumzeug
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Bit and bridle
-linter-yaml-title-alias: Bit and bridle
+  - Geschirr und Zaumzeug
 ---
 # Geschirr und Zaumzeug
 *Zaumzeug und Harnisch*  

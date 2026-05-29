@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chest
+linter-yaml-title-alias: Chest
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Chest
-linter-yaml-title-alias: Chest
 ---
 # Chest
 *Adventuring gear*  

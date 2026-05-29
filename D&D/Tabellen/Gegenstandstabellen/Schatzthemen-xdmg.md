@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Schatzthemen
+linter-yaml-title-alias: Schatzthemen
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - Schatzthemen
   - Treasure Themes
 ---
 # Schatzthemen

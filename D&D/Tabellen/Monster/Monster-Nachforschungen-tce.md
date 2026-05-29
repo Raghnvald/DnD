@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Research
+linter-yaml-title-alias: Monster Research
 tags:
   - Quelle/5e/tce
 aliases:

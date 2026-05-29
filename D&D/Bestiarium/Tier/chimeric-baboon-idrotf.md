@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chimeric Baboon
+linter-yaml-title-alias: Chimeric Baboon
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0

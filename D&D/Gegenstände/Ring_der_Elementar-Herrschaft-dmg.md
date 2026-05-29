@@ -1,23 +1,30 @@
 ---
-Bezeichnung: Ring of Elemental Command
+Bezeichnung: Ring der Elementar-Herrschaft
 Kategorie: Ring
+status: completed
+linter-yaml-title-alias: Ring der Elementar-Herrschaft
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Elemental Command
-linter-yaml-title-alias: Ring of Elemental Command
+  - Ring der Elementar-Herrschaft
 ---
-# Ring of Elemental Command
-*Ring, major, legendary (requires attunement)*  
+# Ring der Elementar-Herrschaft
+*Ring, legendär (benötigt Einstimmung)*  
 
-**Items in this group:**
+Dieser Ring ist mit einer der vier Elementarebenen verbunden. Der SL entscheidet über die verknüpfte Ebene oder wählt diese zufällig aus.
 
-- [Ring of Air Elemental Command](/3-Mechanics/CLI/items/ring-of-air-elemental-command.md)
-- [Ring of Earth Elemental Command](/3-Mechanics/CLI/items/ring-of-earth-elemental-command.md)
-- [Ring of Fire Elemental Command](/3-Mechanics/CLI/items/ring-of-fire-elemental-command.md)
-- [Ring of Water Elemental Command](/3-Mechanics/CLI/items/ring-of-water-elemental-command.md)
+Während du diesen Ring trägst, hast du einen Vorteil auf Angriffswürfe gegen Elementare der verknüpften Ebene und diese einen Nachteil auf Angriffswürfe gegen dich. Zusätzlich hast du Zugriff auf Eigenschaften, die mit der jeweiligen Ebene verknüpft sind.
 
-*Source: Dungeon Master's Guide p. 190*
+Der Ring hat 5 Ladungen. Er erhält zu jeder Morgendämmerung `1W4 + 1` der verbrauchten Ladungen zurück. Zauber, die mit dem Ring gewirkt werden, haben einen Rettungswurf-SG von 17.
+
+**Gegenstände in dieser Gruppe:**
+
+- [[Ring_der_Erdelementar-Herrschaft-dmg|Ring der Erdelementar-Herrschaft]]
+- [[Ring_der_Luftelementar-Herrschaft-dmg|Ring der Luftelementar-Herrschaft]]
+- [[Ring_der_Feuerelementar-Herrschaft-dmg|Ring der Feuerelementar-Herrschaft]]
+- [[Ring_der_Wasserelementar-Herrschaft-dmg|Ring der Wasserelementar-Herrschaft]]
+
+*Quelle: Spielleiterhandbuch S. 177*

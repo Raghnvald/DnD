@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Vos'skyriss Serpentfolk Ghost"
+linter-yaml-title-alias: "Vos'skyriss Serpentfolk Ghost"
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste
@@ -14,7 +15,6 @@ tags:
 aliases:
   - "Vos'skyriss Serpentfolk Ghost"
   - Vos'skyriss Serpentfolk Ghost
-linter-yaml-title-alias: "Vos'skyriss Serpentfolk Ghost"
 ---
 # [Vos'skyriss Serpentfolk Ghost](3-Mechanics\CLI\bestiary\undead/vosskyriss-serpentfolk-ghost-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 258*  

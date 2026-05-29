@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Ordning; Frost Giant Might
+linter-yaml-title-alias: The Ordning; Frost Giant Might
 tags:
   - Quelle/5e/bgg
 aliases:

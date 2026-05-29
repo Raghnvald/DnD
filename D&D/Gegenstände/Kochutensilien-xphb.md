@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Cook's Utensils"
+linter-yaml-title-alias: "Cook's Utensils"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Cook's Utensils
-linter-yaml-title-alias: Cook's Utensils
+  - "Cook's Utensils"
 ---
 # Cook's Utensils
 *Artisan's tools*  

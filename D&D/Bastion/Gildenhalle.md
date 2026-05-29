@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guildhall
+linter-yaml-title-alias: Guildhall
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Copper Dragon
+linter-yaml-title-alias: Copper Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

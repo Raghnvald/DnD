@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lolth's Sting"
+linter-yaml-title-alias: "Lolth's Sting"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
 aliases:
   - "Lolth's Sting"
   - Lolth's Sting
-linter-yaml-title-alias: "Lolth's Sting"
 ---
 # Lolth's Sting
 *Adventuring gear, poison (injury)*  

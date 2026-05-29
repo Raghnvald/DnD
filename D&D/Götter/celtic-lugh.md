@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lugh
+linter-yaml-title-alias: Lugh
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/knowledge

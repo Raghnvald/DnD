@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Young Blue Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Young Blue Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

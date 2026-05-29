@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faerie Dragon Adventures; Faerie Dragon Adventure Hooks
+linter-yaml-title-alias: Faerie Dragon Adventures; Faerie Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

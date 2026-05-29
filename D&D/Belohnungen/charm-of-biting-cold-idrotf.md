@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Biting Cold
+linter-yaml-title-alias: Charm of Biting Cold
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/idrotf

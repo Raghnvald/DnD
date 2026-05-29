@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fey Spirit (Tricksy)
+linter-yaml-title-alias: Fey Spirit (Tricksy)
 tags:
   - Monster/Größe/Klein
   - Monster/HG/

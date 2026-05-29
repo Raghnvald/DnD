@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Conjure Animals
+linter-yaml-title-alias: Conjure Animals
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of the Moon)
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,15 +16,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Druid (Circle of the Moon)
-  - Ranger
 aliases:
   - Conjure Animals
-linter-yaml-title-alias: Conjure Animals
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Danoth's Visor (Exalted)"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Danoth's Visor (Exalted)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
-  - Danoth's Visor (Exalted)
-linter-yaml-title-alias: Danoth's Visor (Exalted)
+  - "Danoth's Visor (Exalted)"
 ---
 # Danoth's Visor (Exalted)
 *Wondrous item, legendary (requires attunement)*  

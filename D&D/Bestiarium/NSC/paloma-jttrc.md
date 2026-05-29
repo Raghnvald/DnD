@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Paloma
+linter-yaml-title-alias: Paloma
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Paloma
-linter-yaml-title-alias: Paloma
 ---
 # [Paloma](3-Mechanics\CLI\bestiary\npc/paloma-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 52*  

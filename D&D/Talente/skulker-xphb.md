@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skulker
+linter-yaml-title-alias: Skulker
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

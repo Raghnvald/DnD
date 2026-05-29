@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Blue Dragon
+linter-yaml-title-alias: Ancient Blue Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Küste
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ancient Blue Dragon
-linter-yaml-title-alias: Ancient Blue Dragon
 ---
 # [Ancient Blue Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

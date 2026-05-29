@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yeti Leader
+linter-yaml-title-alias: Yeti Leader
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

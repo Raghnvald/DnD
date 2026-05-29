@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Anhang B: Magische Gegenstände"
+linter-yaml-title-alias: "Anhang B: Magische Gegenstände"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "Anhang B: Magische Gegenstände"
   - Appendix B: Magic Items
 ---
 # Anhang B: Magische Gegenstände

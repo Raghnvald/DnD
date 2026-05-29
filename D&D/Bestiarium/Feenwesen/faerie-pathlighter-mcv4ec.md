@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerie Pathlighter
+linter-yaml-title-alias: Faerie Pathlighter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

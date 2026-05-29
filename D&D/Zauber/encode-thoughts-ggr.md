@@ -7,6 +7,7 @@ Komponenten: G
 Wirkungsdauer: 8 Stunden
 Angriff: KON
 Schaden: /
+linter-yaml-title-alias: Encode Thoughts
 tags:
   - Kompendium/Hintergrund/dimir-operative
   - Quelle/5e/ggr
@@ -14,7 +15,6 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Encode Thoughts
-linter-yaml-title-alias: Encode Thoughts
 ---
 # Encode Thoughts
 *cantrip, Enchantment*  

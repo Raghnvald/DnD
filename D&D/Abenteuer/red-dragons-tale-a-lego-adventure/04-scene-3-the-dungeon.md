@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Scene 3: The Dungeon"
+linter-yaml-title-alias: "Scene 3: The Dungeon"
 tags:
   - Quelle/5e/lrdt
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Matchless Pipe
+linter-yaml-title-alias: Matchless Pipe
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/wdh
 aliases:
   - Matchless Pipe
-linter-yaml-title-alias: Matchless Pipe
 ---
 # Matchless Pipe
 

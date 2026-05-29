@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mighty Servant of Leuk-o
+linter-yaml-title-alias: Mighty Servant of Leuk-o
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/

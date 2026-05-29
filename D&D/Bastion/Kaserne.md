@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barrack
+linter-yaml-title-alias: Barrack
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

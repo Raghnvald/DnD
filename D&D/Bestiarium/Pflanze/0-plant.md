@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Plant
+linter-yaml-title-alias: Index of Plant
+aliases:
+  - Index of Plant
 ---
 # Index of Plant
 

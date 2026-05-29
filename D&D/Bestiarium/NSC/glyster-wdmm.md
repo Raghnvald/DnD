@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Glyster
+linter-yaml-title-alias: Glyster
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Glyster
-linter-yaml-title-alias: Glyster
 ---
 # [Glyster](3-Mechanics\CLI\bestiary\npc/glyster-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 241*  

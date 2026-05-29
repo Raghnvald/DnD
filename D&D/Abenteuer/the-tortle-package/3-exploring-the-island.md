@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Exploring the Island
+linter-yaml-title-alias: Exploring the Island
 tags:
   - Quelle/5e/ttp
 aliases:
   - "Exploring the Island"
+  - Exploring the Island
 ---
 # Exploring the Island
 *Source: The Tortle Package, p. 5* 

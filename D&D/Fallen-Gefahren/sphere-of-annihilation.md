@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sphere of Annihilation
+linter-yaml-title-alias: Sphere of Annihilation
 tags:
   - Kompendium/Bedrohung/mag
   - Quelle/5e/dmg

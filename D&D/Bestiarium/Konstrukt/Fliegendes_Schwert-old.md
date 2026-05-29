@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Animated Flying Sword
+linter-yaml-title-alias: Animated Flying Sword
 tags:
   - Monster/Größe/Klein
   - Monster/Typ/Konstrukt
   - Quelle/5e/MM
 aliases:
+  - Animated Flying Sword
   - Flying Sword
 ---
 # Animated Flying Sword

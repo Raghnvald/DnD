@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Instrument of Illusions
+linter-yaml-title-alias: Instrument of Illusions
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Instrument of Illusions
-linter-yaml-title-alias: Instrument of Illusions
 ---
 # Instrument of Illusions
 *Wondrous item, common*  

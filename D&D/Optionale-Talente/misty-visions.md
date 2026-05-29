@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Misty Visions
+linter-yaml-title-alias: Misty Visions
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

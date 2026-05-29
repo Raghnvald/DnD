@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hades
+linter-yaml-title-alias: Hades
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave

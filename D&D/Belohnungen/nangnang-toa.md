@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nangnang
+linter-yaml-title-alias: Nangnang
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa

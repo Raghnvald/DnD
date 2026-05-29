@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Volstrucker Agent
+linter-yaml-title-alias: Volstrucker Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Tarkanan Assignments
+linter-yaml-title-alias: House Tarkanan Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

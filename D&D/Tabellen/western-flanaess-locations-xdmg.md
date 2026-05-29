@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Western Flanaess Locations
+linter-yaml-title-alias: Western Flanaess Locations
 tags:
   - Quelle/5e/xdmg
 aliases:

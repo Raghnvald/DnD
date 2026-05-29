@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Greater Invisibility
+linter-yaml-title-alias: Potion of Greater Invisibility
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Greater Invisibility
-linter-yaml-title-alias: Potion of Greater Invisibility
 ---
 # Potion of Greater Invisibility
 *Potion, very rare*  

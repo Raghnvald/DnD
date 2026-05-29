@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Carnelian
+linter-yaml-title-alias: Carnelian
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Carnelian
-linter-yaml-title-alias: Carnelian
 ---
 # Carnelian
 *Treasure (gemstone)*  

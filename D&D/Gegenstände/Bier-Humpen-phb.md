@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Bier (Humpen)
 Kategorie: Essen und Trinken
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 4 KM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Bier (Humpen)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Ale (Mug)
-linter-yaml-title-alias: Bier (Humpen)
+  - Bier (Humpen)
 ---
 # Bier (Humpen)
 *Essen und Trinken*  

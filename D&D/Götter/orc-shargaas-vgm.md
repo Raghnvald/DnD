@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shargaas
+linter-yaml-title-alias: Shargaas
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/orc

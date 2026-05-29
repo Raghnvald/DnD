@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Quicksmithing
+linter-yaml-title-alias: Quicksmithing
 tags:
   - Kompendium/Talent
   - Quelle/5e/psk
 aliases:
   - "Quicksmithing"
+  - Quicksmithing
 ---
 # Quicksmithing
 *Source: Plane Shift: Kaladesh p. 13*  

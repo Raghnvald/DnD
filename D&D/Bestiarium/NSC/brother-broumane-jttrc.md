@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brother Broumane
+linter-yaml-title-alias: Brother Broumane
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Brother Broumane
-linter-yaml-title-alias: Brother Broumane
 ---
 # [Brother Broumane](3-Mechanics\CLI\bestiary\npc/brother-broumane-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 178*  

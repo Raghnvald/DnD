@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Expeditious Messenger
+linter-yaml-title-alias: Expeditious Messenger
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-8

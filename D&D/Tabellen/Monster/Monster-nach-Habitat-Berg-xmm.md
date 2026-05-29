@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Mountain Monsters
+linter-yaml-title-alias: Monsters by Habitat; Mountain Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

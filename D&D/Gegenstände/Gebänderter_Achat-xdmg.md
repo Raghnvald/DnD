@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Banded Agate
+linter-yaml-title-alias: Banded Agate
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Banded Agate
-linter-yaml-title-alias: Banded Agate
 ---
 # Banded Agate
 *Treasure (gemstone)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azuth
+linter-yaml-title-alias: Azuth
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Lord of Spells"
   - "The High One"
   - "The Shining Hand of Sorcery"
+  - Azuth
 ---
 # Azuth
 *Source: Forgotten Realms: Heroes of Faerûn p. 101* 

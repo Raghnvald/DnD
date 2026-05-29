@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Wounding
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+linter-yaml-title-alias: Sword of Wounding
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -16,7 +17,6 @@ aliases:
   - Scimitar of Wounding
   - Shortsword of Wounding
   - Sword of Wounding
-linter-yaml-title-alias: Sword of Wounding
 ---
 # Sword of Wounding
 *Major, rare (requires attunement)*  

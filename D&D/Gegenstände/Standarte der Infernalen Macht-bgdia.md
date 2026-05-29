@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Battle Standard of Infernal Power
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Battle Standard of Infernal Power
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Battle Standard of Infernal Power
-linter-yaml-title-alias: Battle Standard of Infernal Power
 ---
 # Battle Standard of Infernal Power
 *Wondrous item, very rare (requires attunement)*  

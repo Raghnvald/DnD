@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 7)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Level 7)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Level 7) Splint Armor
   - Enspelled (Level 7) Studded Leather Armor
   - Enspelled Armor (Level 7)
-linter-yaml-title-alias: Enspelled Armor (Level 7)
 ---
 # Enspelled Armor (Level 7)
 *Legendary (requires attunement)*  

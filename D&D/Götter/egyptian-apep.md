@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Apep
+linter-yaml-title-alias: Apep
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/egyptian

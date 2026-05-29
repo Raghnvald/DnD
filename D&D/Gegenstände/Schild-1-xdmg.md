@@ -1,13 +1,13 @@
 ---
 Bezeichnung: +1 Shield
 Rüstung: Schild
+linter-yaml-title-alias: +1 Shield
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - +1 Shield
-linter-yaml-title-alias: +1 Shield
 ---
 # +1 Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), uncommon*  

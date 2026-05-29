@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: Phlegethos, the Fiery Wasteland"
+linter-yaml-title-alias: "Chapter 6: Phlegethos, the Fiery Wasteland"
 tags:
   - Quelle/5e/coa
 aliases:

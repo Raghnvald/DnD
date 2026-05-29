@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Harper Hideout
+linter-yaml-title-alias: Harper Hideout
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof
 aliases:
   - "Harper Hideout"
+  - Harper Hideout
 ---
 # Harper Hideout
 *Level 5 Bastion facility*  

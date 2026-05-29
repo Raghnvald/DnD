@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Fire Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Fire Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -24,7 +25,6 @@ aliases:
   - Spiked Armor of Fire Resistance
   - Splint Armor of Fire Resistance
   - Studded Leather Armor of Fire Resistance
-linter-yaml-title-alias: Armor of Fire Resistance
 ---
 # Armor of Fire Resistance
 *Major, rare (requires attunement)*  

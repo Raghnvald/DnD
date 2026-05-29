@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Modron Pentadrone
+linter-yaml-title-alias: Modron Pentadrone
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/mechanus

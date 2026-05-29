@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Radiant Weapon
+linter-yaml-title-alias: Radiant Weapon
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

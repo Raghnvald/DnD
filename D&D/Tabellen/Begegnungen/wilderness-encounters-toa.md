@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wilderness Encounters
+linter-yaml-title-alias: Wilderness Encounters
 tags:
   - Quelle/5e/toa
 aliases:

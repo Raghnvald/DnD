@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forest Encounter Deck
+linter-yaml-title-alias: Forest Encounter Deck
 tags:
   - Quelle/5e/bmt
 aliases:

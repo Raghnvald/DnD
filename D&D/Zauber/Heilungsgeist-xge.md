@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Healing Spirit
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,14 +20,8 @@ tags:
   - Quelle/5e/xge
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Healing Spirit
-linter-yaml-title-alias: Healing Spirit
 ---
 # Healing Spirit
 *2nd-level, Conjuration*  

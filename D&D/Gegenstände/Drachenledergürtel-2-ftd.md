@@ -1,13 +1,13 @@
 ---
 Bezeichnung: +2 Dragonhide Belt
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: +2 Dragonhide Belt
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ftd
 aliases:
   - +2 Dragonhide Belt
-linter-yaml-title-alias: +2 Dragonhide Belt
 ---
 # +2 Dragonhide Belt
 *Wondrous item, rare (requires attunement by a monk)*  

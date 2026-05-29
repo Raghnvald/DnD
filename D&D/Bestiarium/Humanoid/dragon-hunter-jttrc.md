@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragon Hunter
+linter-yaml-title-alias: Dragon Hunter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

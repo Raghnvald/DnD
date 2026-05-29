@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Fernia, the Sea of Fire
+linter-yaml-title-alias: Manifest Charm of Fernia, the Sea of Fire
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/efa
 aliases:
   - "Manifest Charm of Fernia, the Sea of Fire"
+  - Manifest Charm of Fernia, the Sea of Fire
 ---
 # Manifest Charm of Fernia, the Sea of Fire
 *Charm*  

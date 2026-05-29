@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Laboratory
+linter-yaml-title-alias: Laboratory
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

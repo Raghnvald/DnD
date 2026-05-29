@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Carpet of Flying, 5 ft. × 7 ft.
+linter-yaml-title-alias: Carpet of Flying, 5 ft. × 7 ft.
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Carpet of Flying, 5 ft. × 7 ft.
-linter-yaml-title-alias: Carpet of Flying, 5 ft. × 7 ft.
 ---
 # Carpet of Flying, 5 ft. × 7 ft.
 *Wondrous item, very rare*  

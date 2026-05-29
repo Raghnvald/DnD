@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 6)
+linter-yaml-title-alias: Enspelled Weapon (Level 6)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Enspelled (Level 6) Wooden Staff
   - Enspelled (Level 6) Yklwa
   - Enspelled Weapon (Level 6)
-linter-yaml-title-alias: Enspelled Weapon (Level 6)
 ---
 # Enspelled Weapon (Level 6)
 *Legendary (requires attunement)*  

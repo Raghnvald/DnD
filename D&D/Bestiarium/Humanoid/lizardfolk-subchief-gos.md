@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Subchief
+linter-yaml-title-alias: Lizardfolk Subchief
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

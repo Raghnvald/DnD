@@ -7,7 +7,16 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d8 Feuer
-status: Completed
+status: completed
+linter-yaml-title-alias: Aganazzars Versenger
+classes:
+  - Barde
+  - Barde (Schule des Wissens)
+  - Kämpfer (Mystischer Ritter)
+  - Magier
+  - Magier (Hervorrufer)
+  - Schurke (Arkaner Betrüger)
+  - Zauberer
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -20,17 +29,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Original/Aganazzars_Scorcher
   - Zauber/Schule/Hervorrufung
-classes:
-  - Barde
-  - Barde (Schule des Wissens)
-  - Kämpfer (Mystischer Ritter)
-  - Magier
-  - Magier (Hervorrufer)
-  - Schurke (Arkaner Betrüger)
-  - Zauberer
 aliases:
   - Aganazzars Scorcher
-linter-yaml-title-alias: Aganazzars Versenger
+  - Aganazzars Versenger
 ---
 # Aganazzars Versenger
 *Hervorrufung des 2. Grades*

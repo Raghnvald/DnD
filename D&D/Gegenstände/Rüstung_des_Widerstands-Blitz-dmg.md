@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Lightning Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Lightning Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -24,7 +25,6 @@ aliases:
   - Spiked Armor of Lightning Resistance
   - Splint Armor of Lightning Resistance
   - Studded Leather Armor of Lightning Resistance
-linter-yaml-title-alias: Armor of Lightning Resistance
 ---
 # Armor of Lightning Resistance
 *Major, rare (requires attunement)*  

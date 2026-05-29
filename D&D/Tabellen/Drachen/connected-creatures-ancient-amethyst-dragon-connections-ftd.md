@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Ancient Amethyst Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Ancient Amethyst Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

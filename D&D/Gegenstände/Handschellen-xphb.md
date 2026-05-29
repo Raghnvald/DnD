@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Manacles
+linter-yaml-title-alias: Manacles
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Manacles
-linter-yaml-title-alias: Manacles
 ---
 # Manacles
 *Adventuring gear*  

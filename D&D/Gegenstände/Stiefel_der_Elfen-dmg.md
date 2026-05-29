@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Boots of Elvenkind
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Boots of Elvenkind
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Boots of Elvenkind
-linter-yaml-title-alias: Boots of Elvenkind
 ---
 # Boots of Elvenkind
 *Wondrous item, major, uncommon*  

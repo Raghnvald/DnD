@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix G: Infernal Script"
+linter-yaml-title-alias: "Appendix G: Infernal Script"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Appendix G: Infernal Script"
   - Appendix G: Infernal Script
 ---
 # Appendix G: Infernal Script

@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Portable Ram
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 4 GM
+Gew.: 17,5 kg
+status: WIP
+linter-yaml-title-alias: Portable Ram
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Portable Ram
-linter-yaml-title-alias: Portable Ram
 ---
 # Portable Ram
 *Adventuring gear*  

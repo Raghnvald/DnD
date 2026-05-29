@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Tharashk Heir
+linter-yaml-title-alias: House Tharashk Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Tharashk Heir"
+  - House Tharashk Heir
 ---
 # House Tharashk Heir
 *Source: Eberron: Forge of the Artificer p. 32*  

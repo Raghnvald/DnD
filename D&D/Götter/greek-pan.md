@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pan
+linter-yaml-title-alias: Pan
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/greek

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter
+linter-yaml-title-alias: Shifter
 tags:
   - Quelle/5e/erlw
   - Rasse/shifter

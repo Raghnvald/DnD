@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Magic of Faerûn"
+linter-yaml-title-alias: "Chapter 5: Magic of Faerûn"
 tags:
   - Quelle/5e/frhof
 aliases:

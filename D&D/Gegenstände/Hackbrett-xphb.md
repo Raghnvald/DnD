@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dulcimer
+linter-yaml-title-alias: Dulcimer
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Dulcimer
-linter-yaml-title-alias: Dulcimer
 ---
 # Dulcimer
 *Instrument*  

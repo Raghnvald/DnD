@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Factions
+linter-yaml-title-alias: Factions
 tags:
   - Quelle/5e/wbtw
 aliases:
   - "Factions"
+  - Factions
 ---
 # Factions
 *Source: The Wild Beyond the Witchlight, p. 215* 

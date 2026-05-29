@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warforged Soldier
+linter-yaml-title-alias: Warforged Soldier
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

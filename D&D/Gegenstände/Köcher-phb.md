@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Köcher
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Köcher
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Quiver
-linter-yaml-title-alias: Quiver
+  - Köcher
 ---
 # Köcher
 *Abenteuerausrüstung*  

@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Summon Fey
+linter-yaml-title-alias: Summon Fey
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Ranger (Fey Wanderer)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,20 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Ranger (Fey Wanderer)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Summon Fey
-linter-yaml-title-alias: Summon Fey
 ---
 # Summon Fey
 *3rd-level, Conjuration*  

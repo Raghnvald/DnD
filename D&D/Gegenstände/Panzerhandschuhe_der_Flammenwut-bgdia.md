@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gauntlets of Flaming Fury
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Gauntlets of Flaming Fury
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Gauntlets of Flaming Fury
-linter-yaml-title-alias: Gauntlets of Flaming Fury
 ---
 # Gauntlets of Flaming Fury
 *Wondrous item, rare (requires attunement)*  

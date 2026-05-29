@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demonfeed Spider
+linter-yaml-title-alias: Demonfeed Spider
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

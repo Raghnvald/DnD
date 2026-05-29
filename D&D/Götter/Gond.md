@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gond, Gott des Handwerks
+linter-yaml-title-alias: Gond, Gott des Handwerks
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Wissen
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Gond
+  - Gond, Gott des Handwerks
 ---
 # Gond, Gott des Handwerks
 *Quelle: SRD / Grundregelwerk* 

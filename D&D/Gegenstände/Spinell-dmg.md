@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Spinell
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 100 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Spinell
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Spinel
-linter-yaml-title-alias: Spinel
+  - Spinell
 ---
 # Spinell
 *Schatz (Edelstein)*  

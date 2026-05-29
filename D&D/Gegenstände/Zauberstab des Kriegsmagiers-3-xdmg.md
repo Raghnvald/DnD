@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Wand of the War Mage
+linter-yaml-title-alias: +3 Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - +3 Wand of the War Mage
-linter-yaml-title-alias: +3 Wand of the War Mage
 ---
 # +3 Wand of the War Mage
 *Wand, very rare (requires attunement by a spellcaster)*  

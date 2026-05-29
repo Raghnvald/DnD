@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Zealot
+linter-yaml-title-alias: Path of the Zealot
 tags:
   - Klasse/Barbar/zealot
   - Quelle/5e/xphb

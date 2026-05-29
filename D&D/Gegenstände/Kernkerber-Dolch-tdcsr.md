@@ -1,7 +1,12 @@
 ---
 Bezeichnung: Corecut Dagger
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - Finesse, Leicht, Verflucht, Wurfwaffe
 Einstimmung: erfordert
+Kst.: /
+Gew.: 0,5 kg
+linter-yaml-title-alias: Corecut Dagger
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -10,7 +15,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Corecut Dagger
-linter-yaml-title-alias: Corecut Dagger
 ---
 # Corecut Dagger
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), cursed item, very rare (requires attunement)*  

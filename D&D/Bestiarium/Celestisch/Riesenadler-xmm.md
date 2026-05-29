@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Eagle
+linter-yaml-title-alias: Giant Eagle
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

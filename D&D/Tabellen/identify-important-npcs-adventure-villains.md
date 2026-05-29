@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Identify Important NPCs; Adventure Villains
+linter-yaml-title-alias: Identify Important NPCs; Adventure Villains
 tags:
   - Quelle/5e/dmg
 aliases:

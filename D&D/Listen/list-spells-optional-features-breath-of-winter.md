@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Breath of Winter
+linter-yaml-title-alias: Spells for Breath of Winter
 tags:
   - Zauber/list/optfeature/breath-of-winter
 aliases:

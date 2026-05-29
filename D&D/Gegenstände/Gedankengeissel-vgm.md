@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gedankengeissel
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Gedankengeissel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/vgm
 aliases:
-  - Mind Lash
-linter-yaml-title-alias: Mind Lash
+  - Gedankengeissel
 ---
 # Gedankengeissel
 *Melee weapon, rare (requires attunement by a mind flayer)*  

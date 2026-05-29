@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maddening Hex
+linter-yaml-title-alias: Maddening Hex
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

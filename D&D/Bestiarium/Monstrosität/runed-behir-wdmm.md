@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Runed Behir
+linter-yaml-title-alias: Runed Behir
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11

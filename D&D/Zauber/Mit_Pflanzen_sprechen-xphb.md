@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Speak with Plants
+linter-yaml-title-alias: Speak with Plants
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Speak with Plants
-linter-yaml-title-alias: Speak with Plants
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

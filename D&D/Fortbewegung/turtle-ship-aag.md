@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Turtle Ship
+linter-yaml-title-alias: Turtle Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Turtle Ship"
+  - Turtle Ship
 ---
 # Turtle Ship
 *Source: Astral Adventurer's Guide p. 52*  

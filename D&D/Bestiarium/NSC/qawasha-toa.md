@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Qawasha
+linter-yaml-title-alias: Qawasha
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Qawasha
-linter-yaml-title-alias: Qawasha
 ---
 # [Qawasha](3-Mechanics\CLI\bestiary\npc/qawasha-toa.md)
 *Source: Tomb of Annihilation p. 35*  

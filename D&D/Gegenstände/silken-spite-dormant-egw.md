@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Silken Spite (Dormant)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Silken Spite (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Silken Spite (Dormant)
-linter-yaml-title-alias: Silken Spite (Dormant)
 ---
 # Silken Spite (Dormant)
 *Weapon ([rapier](/3-Mechanics/CLI/items/rapier-xphb.md)), artifact (requires attunement)*  

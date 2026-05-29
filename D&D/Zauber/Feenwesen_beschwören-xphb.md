@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Conjure Fey
+linter-yaml-title-alias: Conjure Fey
+classes:
+  - Bard
+  - Druid
+  - Warlock
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -7,13 +12,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Warlock
 aliases:
   - Conjure Fey
-linter-yaml-title-alias: Conjure Fey
 ---
 # Conjure Fey
 *6th-level, Conjuration*  

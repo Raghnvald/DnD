@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moradin
+linter-yaml-title-alias: Moradin
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/forge

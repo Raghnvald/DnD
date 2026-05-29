@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: The Darklake"
+linter-yaml-title-alias: "Chapter 3: The Darklake"
 tags:
   - Quelle/5e/oota
 aliases:

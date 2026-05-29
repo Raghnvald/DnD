@@ -9,14 +9,15 @@ Habitat:
   - /
 image: token/ruxithid-the-chosen-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Ruxithid der Auserwählte
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
   - Monster/Typ/Aberration/Goblinoid
   - Quelle/5e/pabtso
 aliases:
+  - Ruxithid der Auserwählte
   - Ruxithid the Chosen
-linter-yaml-title-alias: Ruxithid der Auserwählte
 ---
 # Ruxithid der Auserwählte
 *Quelle: Phandelver and Below: The Shattered Obelisk p. 99*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 01: The Artificer"
+linter-yaml-title-alias: "Chapter 01: The Artificer"
 tags:
   - Quelle/5e/efa
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poseidon
+linter-yaml-title-alias: Poseidon
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/greek

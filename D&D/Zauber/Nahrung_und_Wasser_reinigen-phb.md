@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Purify Food and Drink
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -19,14 +25,8 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Paladin
 aliases:
   - Purify Food and Drink
-linter-yaml-title-alias: Purify Food and Drink
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Gigantisch
 HG: 15
 status: WIP
+linter-yaml-title-alias: Core Spawn Worm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/15

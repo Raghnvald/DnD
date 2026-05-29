@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1/4
 status: WIP
+linter-yaml-title-alias: Derro Raider
 tags:
   - Quelle/5e/qftis
   - ttrpg-cli/monster/cr/1-4

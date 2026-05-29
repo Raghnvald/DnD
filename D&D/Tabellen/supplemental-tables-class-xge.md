@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supplemental Tables; Class
+linter-yaml-title-alias: Supplemental Tables; Class
 tags:
   - Quelle/5e/xge
 aliases:

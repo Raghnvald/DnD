@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation - Group Patrons"
+linter-yaml-title-alias: "Chapter 1: Character Creation - Group Patrons"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Chapter 1: Character Creation - Group Patrons"
   - Chapter 1: Character Creation - Group Patrons
 ---
 # Chapter 1: Character Creation - Group Patrons

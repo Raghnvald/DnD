@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Loggers' Camp"
+linter-yaml-title-alias: "Loggers' Camp"
 tags:
   - Quelle/5e/dip
 aliases:
+  - "Loggers' Camp"
   - Loggers' Camp
 ---
 # Loggers' Camp

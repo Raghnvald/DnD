@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chauntea, Göttin der Landwirtschaft
+linter-yaml-title-alias: Chauntea, Göttin der Landwirtschaft
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Chauntea
+  - Chauntea, Göttin der Landwirtschaft
 ---
 # Chauntea, Göttin der Landwirtschaft
 *Quelle: SRD / Grundregelwerk* 

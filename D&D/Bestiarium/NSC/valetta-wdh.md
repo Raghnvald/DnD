@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valetta
+linter-yaml-title-alias: Valetta
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Valetta
-linter-yaml-title-alias: Valetta
 ---
 # [Valetta](3-Mechanics\CLI\bestiary\npc/valetta-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 47*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Rules"
+linter-yaml-title-alias: "Appendix A: Rules"
 tags:
   - Quelle/5e/uthftlh
 aliases:

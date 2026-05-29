@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Firefist
+linter-yaml-title-alias: Firefist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

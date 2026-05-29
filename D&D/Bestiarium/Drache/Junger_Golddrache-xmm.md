@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Gold Dragon
+linter-yaml-title-alias: Young Gold Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Young Gold Dragon
-linter-yaml-title-alias: Young Gold Dragon
 ---
 # [Young Gold Dragon](3-Mechanics\CLI\bestiary\dragon/young-gold-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

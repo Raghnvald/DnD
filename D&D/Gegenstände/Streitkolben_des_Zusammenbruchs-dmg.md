@@ -2,10 +2,12 @@
 Bezeichnung: Streitkolben des Zusammenbruchs
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: /
+Eigenschaften:
+  - /
 Einstimmung: erfordert
 Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: Streitkolben des Zusammenbruchs
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -13,8 +15,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Mace of Disruption
-linter-yaml-title-alias: Mace of Disruption
+  - Streitkolben des Zusammenbruchs
 ---
 # Streitkolben des Zusammenbruchs
 *Waffe ([[Streitkolben]], selten (erfordert Einstimmung)* 

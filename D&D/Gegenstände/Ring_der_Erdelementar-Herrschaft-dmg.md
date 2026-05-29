@@ -1,28 +1,29 @@
 ---
-Bezeichnung: Ring of Earth Elemental Command
+Bezeichnung: Ring der Erdelementar-Herrschaft
 Kategorie: Ring
+status: completed
+linter-yaml-title-alias: Ring der Erdelementar-Herrschaft
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Earth Elemental Command
-linter-yaml-title-alias: Ring of Earth Elemental Command
+  - Ring der Erdelementar-Herrschaft
 ---
-# Ring of Earth Elemental Command
-*Ring, major, legendary (requires attunement)*  
+# Ring der Erdelementar-Herrschaft
+*Ring, legendär (benötigt Einstimmung)*  
 
-While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Earth and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Earth.
+Während du diesen Ring trägst, hast du einen Vorteil auf Angriffswürfe gegen Elementare der Ebene der Erde und diese einen Nachteil auf Angriffswürfe gegen dich. Zusätzlich hast du Zugriff auf Eigenschaften, die mit der Ebene der Erde verknüpft sind.
 
-The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+Der Ring hat 5 Ladungen. Er erhält zu jeder Morgendämmerung `1W4 + 1` der verbrauchten Ladungen zurück. Zauber, die mit dem Ring gewirkt werden, haben einen Rettungswurf-SG von 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](/3-Mechanics/CLI/spells/dominate-monster.md) on an [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental.md). In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
+Du kannst 2 Ladungen des Ringes ausgeben, um [[Monster_beherrschen-phb|Monster beherrschen]] auf einen [[Erdelementar-mm|Erdelementar]] zu wirken. Außerdem kannst du dich über schwieriges Gelände, das aus Schutt, Felsen oder Dreck besteht, bewegen, als wäre es normales Gelände. Du kannst zusätzlich Terral verstehen und sprechen.
 
-If you help slay an [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental.md) while attuned to the ring, you gain access to the following additional properties:
+Wenn du dabei hilfst, einen [[Erdelementar-mm|Erdelementar]] zu töten, während du auf diesen Ring eingestimmt bist, erhältst du folgende zusätzliche Effekte:
 
-- You have resistance to acid damage.  
-- You can move through solid earth or rock as if those areas were difficult terrain. If you end your turn there, you are shunted out to the nearest unoccupied space you last occupied.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [stone shape](/3-Mechanics/CLI/spells/stone-shape.md) (2 charges), [stoneskin](/3-Mechanics/CLI/spells/stoneskin.md) (3 charges), or [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone.md) (3 charges).  
+- Du hast Resistenz gegen Säureschaden.  
+- Du kannst dich durch solide Erde oder Stein bewegen, als wären diese Bereiche schwieriges Gelände. Wenn du deinen Zug dort beendest, wirst du zu der nächstgelegenen nicht besetzten Stelle, wo du bereits warst, geschoben.  
+- Du kannst mit diesem Ring einen der folgenden Zauber wirken, wenn du dafür Ladungen verbrauchst: [[Stein_formen-phb|Stein formen]] (2 Ladungen), [[Steinhaut-phb|Steinhaut]] (3 Ladungen) oder [[Steinwand-phb|Steinwand]] (3 Ladungen).  
 
-*Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 177. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

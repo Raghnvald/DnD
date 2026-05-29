@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faceless Malice
+linter-yaml-title-alias: Faceless Malice
 tags:
   - Kompendium/Bedrohung/haunt
   - Quelle/5e/vrgr

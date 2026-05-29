@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hand of Vecna
+linter-yaml-title-alias: Hand of Vecna
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/dmg
 aliases:
   - Hand of Vecna
-linter-yaml-title-alias: Hand of Vecna
 ---
 # Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  

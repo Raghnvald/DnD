@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blaze
+linter-yaml-title-alias: Blaze
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Lantern of Tracking
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Lantern of Tracking
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/idrotf
 aliases:
   - Lantern of Tracking
-linter-yaml-title-alias: Lantern of Tracking
 ---
 # Lantern of Tracking
 *Wondrous item, common*  

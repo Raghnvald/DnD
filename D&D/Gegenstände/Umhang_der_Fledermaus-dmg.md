@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Umhang der Fledermaus "
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Umhang der Fledermaus "
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Cloak of the Bat
-linter-yaml-title-alias: Cloak of the Bat
+  - "Umhang der Fledermaus "
 ---
 # Umhang der Fledermaus 
 *Wundersamer Gegenstand, selten (erfordert Einstimmung)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Vehicles"
+linter-yaml-title-alias: "Appendix C: Vehicles"
 tags:
   - Quelle/5e/ai
 aliases:

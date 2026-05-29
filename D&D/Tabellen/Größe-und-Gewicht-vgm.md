@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Height and Weight
+linter-yaml-title-alias: Height and Weight
 tags:
   - Quelle/5e/vgm
 aliases:

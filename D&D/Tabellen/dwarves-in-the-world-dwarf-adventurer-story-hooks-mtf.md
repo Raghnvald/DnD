@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarves in the World; Dwarf Adventurer Story Hooks
+linter-yaml-title-alias: Dwarves in the World; Dwarf Adventurer Story Hooks
 tags:
   - Quelle/5e/mtf
 aliases:

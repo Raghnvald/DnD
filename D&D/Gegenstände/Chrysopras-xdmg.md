@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chrysoprase
+linter-yaml-title-alias: Chrysoprase
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Chrysoprase
-linter-yaml-title-alias: Chrysoprase
 ---
 # Chrysoprase
 *Treasure (gemstone)*  

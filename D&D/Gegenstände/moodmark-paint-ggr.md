@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Moodmark Paint
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Moodmark Paint
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/ggr
 aliases:
   - Moodmark Paint
-linter-yaml-title-alias: Moodmark Paint
 ---
 # Moodmark Paint
 *Wondrous item, common*  

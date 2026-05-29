@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnoll Names
+linter-yaml-title-alias: Gnoll Names
 tags:
   - Quelle/5e/vgm
 aliases:

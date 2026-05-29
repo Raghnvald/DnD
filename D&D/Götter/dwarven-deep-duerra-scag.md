@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Duerra
+linter-yaml-title-alias: Deep Duerra
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/war

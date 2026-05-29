@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Drachenblütige
+linter-yaml-title-alias: Drachenblütige
 tags:
   - Quelle/5e/phb
 aliases:
   - "Dragonborn"
+  - Drachenblütige
 ---
 # Drachenblütige
 *Quelle: SRD / Grundregelwerk*  

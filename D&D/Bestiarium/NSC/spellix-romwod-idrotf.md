@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spellix Romwod
+linter-yaml-title-alias: Spellix Romwod
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
   - Quelle/5e/idrotf
 aliases:
   - Spellix Romwod
-linter-yaml-title-alias: Spellix Romwod
 ---
 # [Spellix Romwod](3-Mechanics\CLI\bestiary\npc/spellix-romwod-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 144*  

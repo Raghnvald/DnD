@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blood Hawk
+linter-yaml-title-alias: Blood Hawk
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Arktis

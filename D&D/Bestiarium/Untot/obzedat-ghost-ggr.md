@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Obzedat Ghost
+linter-yaml-title-alias: Obzedat Ghost
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Obzedat Ghost
-linter-yaml-title-alias: Obzedat Ghost
 ---
 # [Obzedat Ghost](3-Mechanics\CLI\bestiary\undead/obzedat-ghost-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 245*  

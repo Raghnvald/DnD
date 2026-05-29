@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Poisonous Snake
+linter-yaml-title-alias: Giant Poisonous Snake
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merfolk
+linter-yaml-title-alias: Merfolk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

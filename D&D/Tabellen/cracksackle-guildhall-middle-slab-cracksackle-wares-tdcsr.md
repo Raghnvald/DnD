@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cracksackle Guildhall (Middle Slab); Cracksackle Wares
+linter-yaml-title-alias: Cracksackle Guildhall (Middle Slab); Cracksackle Wares
 tags:
   - Quelle/5e/tdcsr
 aliases:

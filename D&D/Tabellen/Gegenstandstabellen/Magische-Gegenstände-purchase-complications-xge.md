@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Item Purchase Complications
+linter-yaml-title-alias: Magic Item Purchase Complications
 tags:
   - Quelle/5e/xge
 aliases:

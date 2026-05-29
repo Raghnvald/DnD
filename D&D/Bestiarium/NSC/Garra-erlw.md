@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Garra
+linter-yaml-title-alias: Garra
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Garra
-linter-yaml-title-alias: Garra
 ---
 # [Garra](3-Mechanics\CLI\bestiary\npc/garra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 272*  

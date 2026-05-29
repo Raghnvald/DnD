@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: Danger at Dunwater"
+linter-yaml-title-alias: "Chapter 3: Danger at Dunwater"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Chapter 3: Danger at Dunwater"
   - Chapter 3: Danger at Dunwater
 ---
 # Chapter 3: Danger at Dunwater

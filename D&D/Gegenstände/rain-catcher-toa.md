@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Rain Catcher
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 1 GM
+Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Rain Catcher
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/toa
 aliases:
   - Rain Catcher
-linter-yaml-title-alias: Rain Catcher
 ---
 # Rain Catcher
 *Adventuring gear*  

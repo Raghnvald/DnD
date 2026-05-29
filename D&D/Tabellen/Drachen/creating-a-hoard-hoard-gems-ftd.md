@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Hoard; Hoard Gems
+linter-yaml-title-alias: Creating a Hoard; Hoard Gems
 tags:
   - Quelle/5e/ftd
 aliases:

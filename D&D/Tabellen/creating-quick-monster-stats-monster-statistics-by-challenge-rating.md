@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating Quick Monster Stats; Monster Statistics by Challenge Rating
+linter-yaml-title-alias: Creating Quick Monster Stats; Monster Statistics by Challenge Rating
 tags:
   - Quelle/5e/dmg
 aliases:

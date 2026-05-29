@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ice Troll Heart
+linter-yaml-title-alias: Ice Troll Heart
 tags:
   - Kompendium/Objekt/size/tiny
   - Kompendium/Objekt/type/unknown

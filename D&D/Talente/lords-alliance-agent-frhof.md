@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lords' Alliance Agent"
+linter-yaml-title-alias: "Lords' Alliance Agent"
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof

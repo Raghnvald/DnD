@@ -6,6 +6,21 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Burning Hands
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Light Domain)
+  - Druid (Circle of the Land, Arid Land)
+  - Druid (Circle of Wildfire)
+  - Fighter (Eldritch Knight)
+  - Monk (Way of the Sun Soul)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Fiend Patron)
+  - Warlock (The Genie, Efreeti)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -27,23 +42,8 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/sweeping-cinder-strike
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Light Domain)
-  - Druid (Circle of the Land, Arid Land)
-  - Druid (Circle of Wildfire)
-  - Fighter (Eldritch Knight)
-  - Monk (Way of the Sun Soul)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Fiend Patron)
-  - Warlock (The Genie, Efreeti)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Burning Hands
-linter-yaml-title-alias: Burning Hands
 ---
 # Burning Hands
 *1st-level, Evocation*  

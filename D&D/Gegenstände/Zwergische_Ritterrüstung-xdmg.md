@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dwarven Plate
 Rüstung: Mittel oder Schwer
+linter-yaml-title-alias: Dwarven Plate
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -11,7 +12,6 @@ aliases:
   - Dwarven Half Plate Armor
   - Dwarven Plate
   - Dwarven Plate Armor
-linter-yaml-title-alias: Dwarven Plate
 ---
 # Dwarven Plate
 *Very rare*  

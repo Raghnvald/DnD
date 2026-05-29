@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The Darkening
+linter-yaml-title-alias: The Darkening
 tags:
   - Quelle/5e/lr
 aliases:
   - "The Darkening"
+  - The Darkening
 ---
 # The Darkening
 *Source: Locathah Rising, p. 3* 

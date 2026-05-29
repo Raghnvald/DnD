@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Perfume (vial)
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Perfume (vial)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Perfume (vial)
-linter-yaml-title-alias: Perfume (vial)
 ---
 # Perfume (vial)
 *Adventuring gear*  

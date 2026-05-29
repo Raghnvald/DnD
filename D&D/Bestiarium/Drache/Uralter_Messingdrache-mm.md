@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Brass Dragon
+linter-yaml-title-alias: Ancient Brass Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Wüste
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ancient Brass Dragon
-linter-yaml-title-alias: Ancient Brass Dragon
 ---
 # Ancient Brass Dragon
 *Source: Monster Manual p. 104. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

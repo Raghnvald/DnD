@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adeliger
+linter-yaml-title-alias: Adeliger
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
+  - Adeliger
   - Noble
 ---
 # Adeliger

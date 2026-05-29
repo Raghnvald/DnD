@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Invisibility
+linter-yaml-title-alias: Ring of Invisibility
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Invisibility
-linter-yaml-title-alias: Ring of Invisibility
 ---
 # Ring of Invisibility
 *Ring, legendary (requires attunement)*  

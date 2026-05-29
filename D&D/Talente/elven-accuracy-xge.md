@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elven Accuracy
+linter-yaml-title-alias: Elven Accuracy
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge

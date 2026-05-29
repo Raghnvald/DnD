@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Kampf mit großen Waffen
+linter-yaml-title-alias: Kampf mit großen Waffen
 tags:
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-p
   - Quelle/5e/phb
 aliases:
   - Great Weapon Fighting
+  - Kampf mit großen Waffen
 ---
 # Kampf mit großen Waffen
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

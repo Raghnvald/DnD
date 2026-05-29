@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Modifying Backgrounds"
+linter-yaml-title-alias: "Appendix A: Modifying Backgrounds"
 tags:
   - Quelle/5e/oota
 aliases:

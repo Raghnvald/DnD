@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drakewarden
+linter-yaml-title-alias: Drakewarden
 tags:
   - Klasse/Waldläufer/drakewarden
   - Quelle/5e/ftd

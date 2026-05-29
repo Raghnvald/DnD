@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Prelude to War"
+linter-yaml-title-alias: "Chapter 2: Prelude to War"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Chapter 2: Prelude to War"
   - Chapter 2: Prelude to War
 ---
 # Chapter 2: Prelude to War

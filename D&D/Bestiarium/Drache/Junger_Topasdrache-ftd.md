@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Topaz Dragon
+linter-yaml-title-alias: Young Topaz Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Topaz Dragon
-linter-yaml-title-alias: Young Topaz Dragon
 ---
 # [Young Topaz Dragon](3-Mechanics\CLI\bestiary\dragon/young-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  

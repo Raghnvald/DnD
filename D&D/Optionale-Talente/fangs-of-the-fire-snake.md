@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fangs of the Fire Snake
+linter-yaml-title-alias: Fangs of the Fire Snake
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

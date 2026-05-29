@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fruit Stalls; Fey Fruit Effects
+linter-yaml-title-alias: Fruit Stalls; Fey Fruit Effects
 tags:
   - Quelle/5e/bmt
 aliases:

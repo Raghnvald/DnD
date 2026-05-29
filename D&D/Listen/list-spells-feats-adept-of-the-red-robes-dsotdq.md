@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Adept of the Red Robes
+linter-yaml-title-alias: Spells for Adept of the Red Robes
 tags:
   - ttrpg-cli/spell/list/feat/adept-of-the-red-robes
 aliases:
   - "Spells for Adept of the Red Robes"
+  - Spells for Adept of the Red Robes
 ---
 # Spells for Adept of the Red Robes
 

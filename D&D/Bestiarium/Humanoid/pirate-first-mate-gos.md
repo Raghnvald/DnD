@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pirate First Mate
+linter-yaml-title-alias: Pirate First Mate
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

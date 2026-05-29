@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Arcane Archer
+linter-yaml-title-alias: Arcane Archer
 tags:
   - Klasse/Kämpfer/arcane-archer
   - Quelle/5e/xge
 aliases:
   - Arcane Archer
-linter-yaml-title-alias: Arcane Archer
 ---
 # Arcane Archer
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

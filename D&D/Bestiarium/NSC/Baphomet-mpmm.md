@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Baphomet
+linter-yaml-title-alias: Baphomet
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/23
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Baphomet
-linter-yaml-title-alias: Baphomet
 ---
 # [Baphomet](3-Mechanics\CLI\bestiary\npc/baphomet-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58*  

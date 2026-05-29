@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Stern-Rosenquartz
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Stern-Rosenquartz
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Star rose quartz
-linter-yaml-title-alias: Star rose quartz
+  - Stern-Rosenquartz
 ---
 # Stern-Rosenquartz
 *Schatz (Edelstein)*  

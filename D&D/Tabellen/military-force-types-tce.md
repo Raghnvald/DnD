@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Military Force Types
+linter-yaml-title-alias: Military Force Types
 tags:
   - Quelle/5e/tce
 aliases:

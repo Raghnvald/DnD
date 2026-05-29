@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Helm
+linter-yaml-title-alias: Helm
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Helm"
   - "The Vigilant"
   - "The Watcher"
+  - Helm
 ---
 # Helm
 *Source: Forgotten Realms: Heroes of Faerûn p. 108* 

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Torch
+linter-yaml-title-alias: Torch
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Torch
-linter-yaml-title-alias: Torch
 ---
 # Torch
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Fragments of Suffering"
+linter-yaml-title-alias: "Appendix D: Fragments of Suffering"
 tags:
   - Quelle/5e/crcotn
 aliases:

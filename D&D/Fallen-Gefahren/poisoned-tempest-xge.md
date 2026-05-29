@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisoned Tempest
+linter-yaml-title-alias: Poisoned Tempest
 tags:
   - Kompendium/Bedrohung/cmpx
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horror Characteristics; Horror Character Personality Traits
+linter-yaml-title-alias: Horror Characteristics; Horror Character Personality Traits
 tags:
   - Quelle/5e/vrgr
 aliases:

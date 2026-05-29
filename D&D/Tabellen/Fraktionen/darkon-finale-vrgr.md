@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Darkon Finale
+linter-yaml-title-alias: Darkon Finale
 tags:
   - Quelle/5e/vrgr
 aliases:

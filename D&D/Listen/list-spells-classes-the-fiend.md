@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for The Fiend
+linter-yaml-title-alias: Spells for The Fiend
 tags:
   - Zauber/list/subclass/the-fiend
 aliases:

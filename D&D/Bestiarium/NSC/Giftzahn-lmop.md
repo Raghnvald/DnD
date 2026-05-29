@@ -7,7 +7,9 @@ Größe: Groß
 HG: 8
 Habitat:
   - /
+Image: token/venomfang-lmop.webp
 status: WIP
+linter-yaml-title-alias: Giftzahn
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8
@@ -16,8 +18,6 @@ tags:
 aliases:
   - Giftzahn
   - Venomfang
-Image: token/venomfang-lmop.webp
-linter-yaml-title-alias: Giftzahn
 ---
 # Giftzahn
 *Quellen: Die verlorene Mine von Phandelver S. 63*  

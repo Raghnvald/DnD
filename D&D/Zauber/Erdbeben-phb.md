@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Earthquake
 Zaubergrad: 8
+linter-yaml-title-alias: Earthquake
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Sorcerer
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Sorcerer
 aliases:
   - Earthquake
-linter-yaml-title-alias: Earthquake
 ---
 # Earthquake
 *8th-level, Evocation*  

@@ -6,18 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: "Tenser's Transformation"
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xge
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Wizard
 aliases:
-  - Tenser's Transformation
-linter-yaml-title-alias: Tenser's Transformation
+  - "Tenser's Transformation"
 ---
 # Tenser's Transformation
 *6th-level, Transmutation*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: When Home Burns"
+linter-yaml-title-alias: "Chapter 3: When Home Burns"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Chapter 3: When Home Burns"
   - Chapter 3: When Home Burns
 ---
 # Chapter 3: When Home Burns

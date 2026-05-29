@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Wind Fan
+linter-yaml-title-alias: Wind Fan
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Wind Fan
-linter-yaml-title-alias: Wind Fan
 ---
 # Wind Fan
 *Wondrous item, uncommon*  

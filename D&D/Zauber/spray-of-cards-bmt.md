@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spray of Cards
 Zaubergrad: 2
+linter-yaml-title-alias: Spray of Cards
 tags:
   - Quelle/5e/bmt
   - Zauber/Grad/2

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Eversmoking Bottle
+linter-yaml-title-alias: Eversmoking Bottle
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Eversmoking Bottle
-linter-yaml-title-alias: Eversmoking Bottle
 ---
 # Eversmoking Bottle
 *Wondrous item, uncommon*  

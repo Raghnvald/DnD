@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 19
 status: WIP
+linter-yaml-title-alias: Lesser Star Spawn Emissary
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/19

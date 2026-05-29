@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sheela Peryroyl
+linter-yaml-title-alias: Sheela Peryroyl
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

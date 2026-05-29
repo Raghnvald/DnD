@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Character Secrets"
+linter-yaml-title-alias: "Appendix B: Character Secrets"
 tags:
   - Quelle/5e/idrotf
 aliases:
+  - "Appendix B: Character Secrets"
   - Appendix B: Character Secrets
 ---
 # Appendix B: Character Secrets

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Jumping
+linter-yaml-title-alias: Jumping
 tags:
   - Quelle/5e/xphb
 aliases:

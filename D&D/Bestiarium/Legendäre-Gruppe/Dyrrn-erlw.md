@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dyrrn
+linter-yaml-title-alias: Dyrrn
 tags:
   - Monster/legendary-group
   - Quelle/5e/erlw

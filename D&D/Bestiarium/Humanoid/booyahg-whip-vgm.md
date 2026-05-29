@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Booyahg Whip
+linter-yaml-title-alias: Booyahg Whip
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

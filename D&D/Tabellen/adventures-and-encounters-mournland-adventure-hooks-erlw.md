@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventures and Encounters; Mournland Adventure Hooks
+linter-yaml-title-alias: Adventures and Encounters; Mournland Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

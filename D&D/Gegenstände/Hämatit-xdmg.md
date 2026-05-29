@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Hematite
+linter-yaml-title-alias: Hematite
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Hematite
-linter-yaml-title-alias: Hematite
 ---
 # Hematite
 *Treasure (gemstone)*  

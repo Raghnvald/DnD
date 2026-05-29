@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Cabal's Ruin (Dormant)"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Cabal's Ruin (Dormant)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
-  - Cabal's Ruin (Dormant)
-linter-yaml-title-alias: Cabal's Ruin (Dormant)
+  - "Cabal's Ruin (Dormant)"
 ---
 # Cabal's Ruin (Dormant)
 *Wondrous item, legendary (requires attunement)*  

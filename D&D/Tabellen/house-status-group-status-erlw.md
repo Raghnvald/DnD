@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Status; Group Status
+linter-yaml-title-alias: House Status; Group Status
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Dust of Deliciousness
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Dust of Deliciousness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/egw
 aliases:
   - Dust of Deliciousness
-linter-yaml-title-alias: Dust of Deliciousness
 ---
 # Dust of Deliciousness
 *Wondrous item, uncommon*  

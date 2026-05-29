@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus (Vampiric Boon)
+linter-yaml-title-alias: Priest of Osybus (Vampiric Boon)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Priest of Osybus (Vampiric Boon)
-linter-yaml-title-alias: Priest of Osybus (Vampiric Boon)
 ---
 # [Priest of Osybus (Vampiric Boon)](3-Mechanics\CLI\bestiary\undead/priest-of-osybus-vampiric-boon-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 241*  

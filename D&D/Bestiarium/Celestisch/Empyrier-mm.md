@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Empyrean
+linter-yaml-title-alias: Empyrean
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/23

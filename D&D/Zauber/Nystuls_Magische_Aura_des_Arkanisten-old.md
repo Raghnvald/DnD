@@ -1,13 +1,14 @@
 ---
 Bezeichnung: "Nystul's Magische Aura des Arkanisten"
+linter-yaml-title-alias: "Nystul's Magische Aura des Arkanisten"
 tags:
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
 aliases:
+  - "Nystul's Magische Aura des Arkanisten"
   - Nystul's Magic Aura
-linter-yaml-title-alias: Nystul's Magische Aura des Arkanisten
 ---
 # Nystul's Magische Aura des Arkanisten
 *2nd-level, Illusion*  

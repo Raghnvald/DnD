@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ether Cyclones
+linter-yaml-title-alias: Ether Cyclones
 tags:
   - Quelle/5e/dmg
 aliases:

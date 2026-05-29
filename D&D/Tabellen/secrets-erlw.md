@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secrets
+linter-yaml-title-alias: Secrets
 tags:
   - Quelle/5e/erlw
 aliases:

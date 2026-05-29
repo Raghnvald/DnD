@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Bead of Nourishment
+linter-yaml-title-alias: Bead of Nourishment
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Bead of Nourishment
-linter-yaml-title-alias: Bead of Nourishment
 ---
 # Bead of Nourishment
 *Wondrous item, common*  

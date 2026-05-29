@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Handelsgüter
+linter-yaml-title-alias: Handelsgüter
 tags:
   - Quelle/5e/phb
 aliases:
+  - Handelsgüter
   - Trade Goods
 ---
 # Handelsgüter

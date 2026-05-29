@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Adventures in the Forgotten Realms in Scarlet Flames
+linter-yaml-title-alias: Index of Adventures in the Forgotten Realms in Scarlet Flames
+aliases:
+  - Index of Adventures in the Forgotten Realms in Scarlet Flames
 ---
 # Index of Adventures in the Forgotten Realms in Scarlet Flames
 

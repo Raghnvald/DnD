@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Military Force Contact; Commanding Officer
+linter-yaml-title-alias: Military Force Contact; Commanding Officer
 tags:
   - Quelle/5e/tce
 aliases:

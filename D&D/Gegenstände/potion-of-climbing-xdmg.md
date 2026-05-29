@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Climbing
+linter-yaml-title-alias: Potion of Climbing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Climbing
-linter-yaml-title-alias: Potion of Climbing
 ---
 # Potion of Climbing
 *Potion, common*  

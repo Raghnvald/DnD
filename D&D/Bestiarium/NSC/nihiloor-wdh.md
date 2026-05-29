@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nihiloor
+linter-yaml-title-alias: Nihiloor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Nihiloor
-linter-yaml-title-alias: Nihiloor
 ---
 # [Nihiloor](3-Mechanics\CLI\bestiary\npc/nihiloor-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 212*  

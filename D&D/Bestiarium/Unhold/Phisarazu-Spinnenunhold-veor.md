@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phisarazu Spyder-Fiend
+image: token/phisarazu-spyder-fiend-veor.webp
 status: WIP
+linter-yaml-title-alias: Phisarazu Spyder-Fiend
 tags:
   - Monster/Größe/Groß
   - Monster/HG/13

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/td
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Tarot Deck, p. 48* 

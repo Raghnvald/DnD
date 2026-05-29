@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Schwarze Perle
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 500 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Schwarze Perle
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Black Pearl
-linter-yaml-title-alias: Black Pearl
+  - Schwarze Perle
 ---
 # Schwarze Perle
 *Schatz (Edelstein)*  

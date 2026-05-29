@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Elf
+linter-yaml-title-alias: Spells for Elf
 tags:
   - Zauber/list/race/elf
 aliases:

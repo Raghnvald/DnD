@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hide of the Feral Guardian (Exalted)
 Rüstung: Leicht
+linter-yaml-title-alias: Hide of the Feral Guardian (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Hide of the Feral Guardian (Exalted)
-linter-yaml-title-alias: Hide of the Feral Guardian (Exalted)
 ---
 # Hide of the Feral Guardian (Exalted)
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  

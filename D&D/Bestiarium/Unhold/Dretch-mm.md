@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dretch
+linter-yaml-title-alias: Dretch
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

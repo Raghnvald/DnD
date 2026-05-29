@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kraul Death Priest
+linter-yaml-title-alias: Kraul Death Priest
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

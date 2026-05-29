@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Observatory
+linter-yaml-title-alias: Observatory
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

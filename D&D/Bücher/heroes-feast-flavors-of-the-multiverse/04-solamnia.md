@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Solamnia
+linter-yaml-title-alias: Solamnia
 tags:
   - Quelle/5e/hffotm
 aliases:
   - "Solamnia"
+  - Solamnia
 ---
 # Solamnia
 *Source: Heroes' Feast Flavors of the Multiverse, p. 65* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix F: Poster Map"
+linter-yaml-title-alias: "Appendix F: Poster Map"
 tags:
   - Quelle/5e/crcotn
 aliases:

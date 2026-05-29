@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Linguist
+linter-yaml-title-alias: Linguist
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

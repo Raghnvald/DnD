@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creatures
+linter-yaml-title-alias: Creatures
 tags:
   - Quelle/5e/dip
 aliases:

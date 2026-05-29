@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Scions of Elemental Evil
+linter-yaml-title-alias: Index of Scions of Elemental Evil
+aliases:
+  - Index of Scions of Elemental Evil
 ---
 # Index of Scions of Elemental Evil
 

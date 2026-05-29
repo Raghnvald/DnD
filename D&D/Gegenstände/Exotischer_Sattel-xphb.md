@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Exotic Saddle
+linter-yaml-title-alias: Exotic Saddle
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Exotic Saddle
-linter-yaml-title-alias: Exotic Saddle
 ---
 # Exotic Saddle
 *Tack and harness*  

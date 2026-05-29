@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact Boon
+linter-yaml-title-alias: Pact Boon
 tags:
   - Quelle/5e/phb
 aliases:

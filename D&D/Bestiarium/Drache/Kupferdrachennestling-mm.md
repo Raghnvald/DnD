@@ -5,6 +5,7 @@ Bezeichnung: Copper Dragon Wyrmling
 Kategorie: Drache
 Größe: Mittelgroß
 image: token/Copper-Dragon-Wyrmling.webp
+linter-yaml-title-alias: Copper Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Copper Dragon Wyrmling
-linter-yaml-title-alias: Copper Dragon Wyrmling
 ---
 # Copper Dragon Wyrmling
 *Source: Monster Manual p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

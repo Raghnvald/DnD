@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Satyr
+linter-yaml-title-alias: Satyr
 tags:
   - Quelle/5e/mpmm
   - Rasse/satyr

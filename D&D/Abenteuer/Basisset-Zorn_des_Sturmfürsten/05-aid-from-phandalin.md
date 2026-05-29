@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aid from Phandalin
+linter-yaml-title-alias: Aid from Phandalin
 tags:
   - Quelle/5e/slw
 aliases:

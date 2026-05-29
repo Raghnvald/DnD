@@ -1,11 +1,22 @@
 ---
 Bezeichnung: Poison Spray
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
+Angriff: KON
+linter-yaml-title-alias: Poison Spray
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -22,19 +33,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Poison Spray
-linter-yaml-title-alias: Poison Spray
 ---
 # Poison Spray
 *cantrip, Conjuration*  

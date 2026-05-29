@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Booyahg Slave of the Great Old One
+linter-yaml-title-alias: Booyahg Slave of the Great Old One
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

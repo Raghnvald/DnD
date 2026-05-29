@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Schwache Elementare beschwören
 Zaubergrad: 4
+linter-yaml-title-alias: Schwache Elementare beschwören
 tags:
   - Klasse/Druide
   - Klasse/Magier
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Conjure Minor Elementals
+  - Schwache Elementare beschwören
 ---
 # Schwache Elementare beschwören
 *4th-level, Conjuration*  

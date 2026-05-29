@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Hybrid
+linter-yaml-title-alias: Simic Hybrid
 tags:
   - Quelle/5e/ggr
   - Rasse/simic-hybrid

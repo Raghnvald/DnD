@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Galeb Duhr
+linter-yaml-title-alias: Galeb Duhr
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Bohnenbeutel
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Bohnenbeutel
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Bag of Beans
-linter-yaml-title-alias: Bohnenbeutel
+  - Bohnenbeutel
 ---
 # Bohnenbeutel
 *Wundersamer Gegenstand, selten*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Wonder
+linter-yaml-title-alias: Wand of Wonder
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Wonder
-linter-yaml-title-alias: Wand of Wonder
 ---
 # Wand of Wonder
 *Wand, rare (requires attunement)*  

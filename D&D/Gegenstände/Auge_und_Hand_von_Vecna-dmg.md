@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Auge und Hand von Vecna
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Auge und Hand von Vecna
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Eye and Hand of Vecna
-linter-yaml-title-alias: Eye and Hand of Vecna
+  - Auge und Hand von Vecna
 ---
 # Auge und Hand von Vecna
 *Wondrous item, artifact (requires attunement)*  

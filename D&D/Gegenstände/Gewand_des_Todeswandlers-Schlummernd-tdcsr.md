@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Dormant)"
 Rüstung: Leicht
+linter-yaml-title-alias: "Deathwalker's Ward (Dormant)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:
-  - Deathwalker's Ward (Dormant)
-linter-yaml-title-alias: Deathwalker's Ward (Dormant)
+  - "Deathwalker's Ward (Dormant)"
 ---
 # Deathwalker's Ward (Dormant)
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), legendary (requires attunement)*  

@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Allzweckwerkzeug +3
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Allzweckwerkzeug +3
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
-  - +3 All-Purpose Tool
-linter-yaml-title-alias: +3 All-Purpose Tool
-Status: completed
+  - Allzweckwerkzeug +3
 ---
 # Allzweckwerkzeug +3
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung durch einen Artifizienten)*

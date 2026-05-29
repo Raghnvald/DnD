@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Poison Weird
+linter-yaml-title-alias: Poison Weird
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4

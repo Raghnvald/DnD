@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Undying Servitude
+linter-yaml-title-alias: Undying Servitude
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/tce

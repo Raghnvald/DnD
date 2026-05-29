@@ -1,6 +1,7 @@
 ---
 Bezeichnung: War Pick
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: War Pick
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - War Pick
-linter-yaml-title-alias: War Pick
 ---
 # War Pick
 *Weapon*  

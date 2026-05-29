@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Deep Dragon; Deep Dragon Personality Traits
+linter-yaml-title-alias: Creating a Deep Dragon; Deep Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

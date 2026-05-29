@@ -7,6 +7,18 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Sleep
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Twilight Domain)
+  - Druid (Circle of the Land, Temperate Land)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Redemption)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -23,20 +35,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Twilight Domain)
-  - Druid (Circle of the Land, Temperate Land)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Redemption)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Archfey Patron)
-  - Wizard
 aliases:
   - Sleep
-linter-yaml-title-alias: Sleep
 ---
 # Sleep
 *1st-level, Enchantment*  

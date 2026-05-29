@@ -2,11 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archmage
+linter-yaml-title-alias: Archmage
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes
   - Monster/HG/12
-  - Monster/Typ/Humanoid/wizard
+  - Monster/Typ/Humanoid/Magier
   - Quelle/5e/xmm
 aliases:
   - Archmage

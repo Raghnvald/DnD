@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Candle of Invocation
+linter-yaml-title-alias: Candle of Invocation
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Candle of Invocation
-linter-yaml-title-alias: Candle of Invocation
 ---
 # Candle of Invocation
 *Wondrous item, very rare (requires attunement)*  

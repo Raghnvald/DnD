@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Trickbeutel
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Trickbeutel
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Bag of Tricks
-linter-yaml-title-alias: Bag of Tricks
+  - Trickbeutel
 ---
 # Trickbeutel
 *Wundersamer Gegenstand, major, ungewöhnlich*  

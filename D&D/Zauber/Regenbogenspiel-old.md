@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: unmittelbar
 Angriff: GES
 Schaden: n/a
+linter-yaml-title-alias: Regenbogenspiel
 tags:
   - Klasse/Magier
   - Klasse/Zauberer
@@ -15,6 +16,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Prismatic Spray
+  - Regenbogenspiel
 ---
 # Regenbogenspiel
 _Hervorrufung des 7. Grades_

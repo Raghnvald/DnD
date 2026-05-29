@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Fire Breath
+linter-yaml-title-alias: Potion of Fire Breath
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Fire Breath
-linter-yaml-title-alias: Potion of Fire Breath
 ---
 # Potion of Fire Breath
 *Potion, uncommon*  

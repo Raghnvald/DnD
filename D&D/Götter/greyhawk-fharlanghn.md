@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fharlanghn
+linter-yaml-title-alias: Fharlanghn
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: A World of Adventure"
+linter-yaml-title-alias: "Introduction: A World of Adventure"
 tags:
   - Quelle/5e/fraif
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Body Horror Settings
+linter-yaml-title-alias: Body Horror Settings
 tags:
   - Quelle/5e/vrgr
 aliases:

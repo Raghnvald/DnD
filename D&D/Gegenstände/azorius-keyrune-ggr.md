@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Azorius Keyrune
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Azorius Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Azorius Keyrune
-linter-yaml-title-alias: Azorius Keyrune
 ---
 # Azorius Keyrune
 *Wondrous item, rare (requires attunement by a member of the Azorius guild)*  

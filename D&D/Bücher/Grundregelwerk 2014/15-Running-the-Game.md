@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Platzhalter für Abschnitt Objekte
+linter-yaml-title-alias: Platzhalter für Abschnitt Objekte
 tags: []
+aliases:
+  - Platzhalter für Abschnitt Objekte
 ---
 # Platzhalter für Abschnitt Objekte
 

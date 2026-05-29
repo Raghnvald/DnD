@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gas Spore
+linter-yaml-title-alias: Gas Spore
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

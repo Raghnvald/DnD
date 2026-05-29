@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow
+linter-yaml-title-alias: Drow
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

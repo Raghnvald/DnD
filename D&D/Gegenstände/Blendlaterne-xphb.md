@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Bullseye Lantern
+Kst.: 10 GM
+Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Bullseye Lantern
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Bullseye Lantern
-linter-yaml-title-alias: Bullseye Lantern
 ---
 # Bullseye Lantern
 *Adventuring gear*  

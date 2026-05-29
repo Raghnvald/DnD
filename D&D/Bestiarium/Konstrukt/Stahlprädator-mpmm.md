@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Steel Predator
+linter-yaml-title-alias: Steel Predator
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt

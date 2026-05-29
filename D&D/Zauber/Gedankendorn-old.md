@@ -6,6 +6,7 @@ Komponenten: G
 Wirkungsdauer: K, <1 Minute
 Angriff: KON
 Schaden: 3d8 psychisch
+linter-yaml-title-alias: Gedankendorn
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -15,6 +16,7 @@ tags:
   - Zauber/Original/Mind_Spike
   - Zauber/Schule/Verwandlung
 aliases:
+  - Gedankendorn
   - Mind Spike
 ---
 # Gedankendorn

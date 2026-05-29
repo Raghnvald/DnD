@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Ochre Jelly
+linter-yaml-title-alias: Reduced-Threat Ochre Jelly
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

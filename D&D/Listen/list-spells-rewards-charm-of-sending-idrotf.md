@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Sending
+linter-yaml-title-alias: Spells for Charm of Sending
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-sending
 aliases:
   - "Spells for Charm of Sending"
+  - Spells for Charm of Sending
 ---
 # Spells for Charm of Sending
 

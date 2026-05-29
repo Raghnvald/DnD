@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Giftmischerausrüstung
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Giftmischerausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Poisoner's Kit
-linter-yaml-title-alias: Poisoner's Kit
+  - Giftmischerausrüstung
 ---
 # Giftmischerausrüstung
 *Werkzeug*

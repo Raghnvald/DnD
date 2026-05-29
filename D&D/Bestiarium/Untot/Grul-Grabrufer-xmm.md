@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghast Gravecaller
+linter-yaml-title-alias: Ghast Gravecaller
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ghast Gravecaller
-linter-yaml-title-alias: Ghast Gravecaller
 ---
 # [Ghast Gravecaller](3-Mechanics\CLI\bestiary\undead/ghast-gravecaller-xmm.md)
 *Source: Monster Manual (2024) p. 130*  

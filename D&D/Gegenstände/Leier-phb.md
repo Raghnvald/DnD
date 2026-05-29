@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Lyre
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: 30 GM
+Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Lyre
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Lyre
-linter-yaml-title-alias: Lyre
 ---
 # Lyre
 *Instrument*  

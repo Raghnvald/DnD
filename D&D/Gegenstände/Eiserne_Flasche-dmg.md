@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Eiserne Flasche
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Eiserne Flasche
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
-  - Iron Flask
-linter-yaml-title-alias: Iron Flask
+  - Eiserne Flasche
 ---
 # Eiserne Flasche
 *Wundersamer Gegenstand, legendär*  

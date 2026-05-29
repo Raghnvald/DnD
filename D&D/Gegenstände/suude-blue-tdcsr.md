@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Suude (Blue)
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Suude (Blue)
 tags:
   - Gegenstand/Ausrüstung/illegal-drug
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/tdcsr
 aliases:
   - Suude (Blue)
-linter-yaml-title-alias: Suude (Blue)
 ---
 # Suude (Blue)
 *Illegal drug*  

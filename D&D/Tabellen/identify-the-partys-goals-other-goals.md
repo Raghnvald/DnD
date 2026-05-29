@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Identify the Party's Goals; Other Goals"
+linter-yaml-title-alias: "Identify the Party's Goals; Other Goals"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Identify the Party's Goals; Other Goals"
   - Identify the Party's Goals; Other Goals
 ---
 # Identify the Party's Goals; Other Goals

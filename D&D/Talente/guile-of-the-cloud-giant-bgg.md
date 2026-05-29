@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guile of the Cloud Giant
+linter-yaml-title-alias: Guile of the Cloud Giant
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

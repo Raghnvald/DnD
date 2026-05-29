@@ -5,6 +5,7 @@ Bezeichnung: Aruk Thundercaller Thuunlakalaga
 Kategorie: Humanoid (Goliath)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Aruk Thundercaller Thuunlakalaga
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Aruk Thundercaller Thuunlakalaga
-linter-yaml-title-alias: Aruk Thundercaller Thuunlakalaga
 ---
 # [Aruk Thundercaller Thuunlakalaga](3-Mechanics\CLI\bestiary\npc/aruk-thundercaller-thuunlakalaga-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 169*  

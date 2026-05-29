@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spawn of Kyuss
+linter-yaml-title-alias: Spawn of Kyuss
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Spawn of Kyuss
-linter-yaml-title-alias: Spawn of Kyuss
 ---
 # [Spawn of Kyuss](3-Mechanics\CLI\bestiary\undead/spawn-of-kyuss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225*  

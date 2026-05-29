@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Luxonborn (Acolyte)
+linter-yaml-title-alias: Luxonborn (Acolyte)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/egw

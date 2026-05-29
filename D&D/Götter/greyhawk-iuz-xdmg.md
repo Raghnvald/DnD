@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Iuz
+linter-yaml-title-alias: Iuz
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Kundarak Vault
+linter-yaml-title-alias: Kundarak Vault
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
   - "Kundarak Vault"
+  - Kundarak Vault
 ---
 # Kundarak Vault
 *Level 9 Bastion facility*  

@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Copper Greatwyrm
 Kategorie: Drache (Metallisch)
 Größe: Gigantisch
+linter-yaml-title-alias: Copper Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/28
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Copper Greatwyrm
-linter-yaml-title-alias: Copper Greatwyrm
 ---
 # [Copper Greatwyrm](3-Mechanics\CLI\bestiary\dragon/copper-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  

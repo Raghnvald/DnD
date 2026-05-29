@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Forest Monsters
+linter-yaml-title-alias: Monsters by Habitat; Forest Monsters
 tags:
   - Quelle/5e/xmm
 aliases:

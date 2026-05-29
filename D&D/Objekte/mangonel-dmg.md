@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mangonel
+linter-yaml-title-alias: Mangonel
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon

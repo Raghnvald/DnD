@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Dream of the Blue Veil
 Zaubergrad: 7
+linter-yaml-title-alias: Dream of the Blue Veil
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/tce
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Dream of the Blue Veil
-linter-yaml-title-alias: Dream of the Blue Veil
 ---
 # Dream of the Blue Veil
 *7th-level, Conjuration*  

@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Entangle
+linter-yaml-title-alias: Entangle
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Entangle
-linter-yaml-title-alias: Entangle
 ---
 # Entangle
 *1st-level, Conjuration*  

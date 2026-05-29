@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potions for Sale
+linter-yaml-title-alias: Potions for Sale
 tags:
   - Quelle/5e/xge
 aliases:

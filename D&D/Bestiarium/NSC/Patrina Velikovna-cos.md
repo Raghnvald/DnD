@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Patrina Velikovna
+linter-yaml-title-alias: Patrina Velikovna
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Patrina Velikovna
-linter-yaml-title-alias: Patrina Velikovna
 ---
 # [Patrina Velikovna](3-Mechanics\CLI\bestiary\npc/patrina-velikovna-cos.md)
 *Source: Curse of Strahd p. 89*  

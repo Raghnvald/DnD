@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iron Golem
+linter-yaml-title-alias: Iron Golem
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Jedes

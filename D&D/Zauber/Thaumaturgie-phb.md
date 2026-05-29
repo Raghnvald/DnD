@@ -7,6 +7,10 @@ Komponenten: V
 Wirkungsdauer: bis zu 1 Minute
 Angriff: /
 Schaden: Kontrolle
+linter-yaml-title-alias: Thaumaturgie
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -17,12 +21,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Thaumaturgie
-linter-yaml-title-alias: Thaumaturgie
 ---
 # Thaumaturgie
 *Zaubertrick der Verwandlung*

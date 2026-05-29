@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Juvenile Mimic
+linter-yaml-title-alias: Juvenile Mimic
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Ensnaring Strike
+classes:
+  - Bard (Magical Secrets)
+  - Paladin (Oath of the Ancients)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Paladin/Schwur-der-Alten
@@ -14,13 +19,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Paladin (Oath of the Ancients)
-  - Ranger
 aliases:
   - Ensnaring Strike
-linter-yaml-title-alias: Ensnaring Strike
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  

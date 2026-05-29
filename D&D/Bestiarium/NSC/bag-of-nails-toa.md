@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bag of Nails
+linter-yaml-title-alias: Bag of Nails
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Bag of Nails
-linter-yaml-title-alias: Bag of Nails
 ---
 # [Bag of Nails](3-Mechanics\CLI\bestiary\npc/bag-of-nails-toa.md)
 *Source: Tomb of Annihilation p. 102*  

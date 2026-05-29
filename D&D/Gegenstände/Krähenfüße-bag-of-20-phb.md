@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Caltrops (bag of 20)
+linter-yaml-title-alias: Caltrops (bag of 20)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Caltrops (bag of 20)
-linter-yaml-title-alias: Caltrops (bag of 20)
 ---
 # Caltrops (bag of 20)
 *Adventuring gear*  

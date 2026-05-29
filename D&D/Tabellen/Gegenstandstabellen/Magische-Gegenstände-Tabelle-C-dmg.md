@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle C
+linter-yaml-title-alias: Magische Gegenstände Tabelle C
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table C
+  - Magische Gegenstände Tabelle C
 ---
 # Magische Gegenstände Tabelle C
 *Quelle: Spielleiterhandbuch, S. 145* 
@@ -12,17 +14,17 @@ aliases:
 
 | W100  | Magischer Gegenstand                                                       |
 | ----- | -------------------------------------------------------------------------- |
-| 01-15 | [[potion-of-superior-healing-dmg\|Trank der überlegenen Heilung]]          |
+| 01-15 | [[Trank_der_Überlegenen_Heilung-dmg\|Trank der überlegenen Heilung]]          |
 | 16-22 | [[Zauberschriftrolle-Zaubergrad-4-dmg\|Zauberschriftrolle (Zaubergrad 4)]] |
 | 23-27 | [[Geschosse-2-dmg\|Geschosse, +2]]                                         |
-| 28-32 | [[potion-of-clairvoyance-dmg\|Trank des Hellsehens]]                       |
-| 33-37 | [[potion-of-diminution-dmg\|Trank der Verkleinerung]]                      |
-| 38-42 | [[potion-of-gaseous-form-dmg\|Trank der gasförmigen Gestalt]]              |
+| 28-32 | [[Trank_des_Hellsehens-dmg\|Trank des Hellsehens]]                       |
+| 33-37 | [[Trank_der_Verkleinerung-dmg\|Trank der Verkleinerung]]                      |
+| 38-42 | [[Trank_der_Gasförmigen_Gestalt-dmg\|Trank der gasförmigen Gestalt]]              |
 | 43-47 | [[Trank_der_Riesenstärke-Frostriese-dmg\|Trank der Frostriesenstärke]]     |
 | 48-52 | [[Trank_der_Riesenstärke-Steinriese-dmg\|Trank der Steinriesenstärke]]     |
 | 53-57 | [[Trank_des_Heldenmuts-dmg\|Trank des Heldenmuts]]                         |
 | 58-62 | [[Trank_der_Unverwundbarkeit-dmg\|Trank der Unverwundbarkeit]]             |
-| 63-67 | [[potion-of-mind-reading-dmg\|Trank des Gedankenlesens]]                   |
+| 63-67 | [[Trank_des_Gedankenlesens-dmg\|Trank des Gedankenlesens]]                   |
 | 68-72 | [[Zauberschriftrolle-Zaubergrad-5-dmg\|Zauberschriftrolle (Zaubergrad 5)]] |
 | 73-75 | [[Elixir_der_Gesundheit-dmg\|Elixir der Gesundheit]]                       |
 | 76-78 | [[Öl_der_Körperlosigkeit-dmg\|Öl der Körperlosigkeit]]                     |

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rogue
+linter-yaml-title-alias: Rogue
 tags:
   - Quelle/5e/ggr
 aliases:

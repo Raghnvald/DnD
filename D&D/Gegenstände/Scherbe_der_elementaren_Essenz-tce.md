@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elemental Essence Shard
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Elemental Essence Shard
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Elemental Essence Shard
-linter-yaml-title-alias: Elemental Essence Shard
 ---
 # Elemental Essence Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

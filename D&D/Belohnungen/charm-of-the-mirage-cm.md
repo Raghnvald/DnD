@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Mirage
+linter-yaml-title-alias: Charm of the Mirage
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cm

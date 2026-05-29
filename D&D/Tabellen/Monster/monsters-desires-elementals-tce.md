@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Elementals"
+linter-yaml-title-alias: "Monsters' Desires; Elementals"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Elementals"
   - Monsters' Desires; Elementals
 ---
 # Monsters' Desires; Elementals

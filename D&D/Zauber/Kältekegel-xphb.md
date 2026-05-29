@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Cone of Cold
+linter-yaml-title-alias: Cone of Cold
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Marid)
+  - Warlock (The Hexblade)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -15,20 +27,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/optfeature/breath-of-winter
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Druid
-  - Druid (Circle of the Land, Polar Land)
-  - Sorcerer
-  - Warlock (The Fathomless)
-  - Warlock (The Genie, Marid)
-  - Warlock (The Hexblade)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Cone of Cold
-linter-yaml-title-alias: Cone of Cold
 ---
 # Cone of Cold
 *5th-level, Evocation*  

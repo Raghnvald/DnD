@@ -1,14 +1,16 @@
 ---
 Bezeichnung: Handbuch der körperlichen Ertüchtigung
 Kategorie: Wundersamer Gegenstand
-Eigenschaften:
-Kst.: n/v
+Eigenschaften: []
+Kst.: /
 Gew.: 2,5 kg
+linter-yaml-title-alias: Handbuch der körperlichen Ertüchtigung
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Handbuch der körperlichen Ertüchtigung
   - Manual of Gainful Exercise
 ---
 # Handbuch der körperlichen Ertüchtigung

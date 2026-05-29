@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hare
+linter-yaml-title-alias: Hare
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

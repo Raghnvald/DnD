@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Moon Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Moon Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Moon Card
-linter-yaml-title-alias: Moon Card
 ---
 # Moon Card
 *Wondrous item, legendary*  

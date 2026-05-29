@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Arabic, Female
+linter-yaml-title-alias: Human Names – Arabic, Female
 tags:
   - Quelle/5e/xge
 aliases:

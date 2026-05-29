@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bulette
+linter-yaml-title-alias: Bulette
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Enthrall
+linter-yaml-title-alias: Enthrall
+classes:
+  - Bard
+  - Warlock
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
   - Quelle/5e/xphb
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Warlock
 aliases:
   - Enthrall
-linter-yaml-title-alias: Enthrall
 ---
 # Enthrall
 *2nd-level, Enchantment*  

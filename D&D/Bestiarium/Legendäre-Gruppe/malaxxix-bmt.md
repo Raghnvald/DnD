@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Malaxxix
+linter-yaml-title-alias: Malaxxix
 tags:
   - Monster/legendary-group
   - Quelle/5e/bmt

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kuo-toa
+linter-yaml-title-alias: Kuo-toa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

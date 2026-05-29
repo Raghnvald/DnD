@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Winged Thrull
+linter-yaml-title-alias: Winged Thrull
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-2

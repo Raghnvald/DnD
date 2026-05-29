@@ -1,6 +1,12 @@
 ---
 Bezeichnung: "Mordenkainen's Private Sanctum"
 Zaubergrad: 4
+linter-yaml-title-alias: "Mordenkainen's Private Sanctum"
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -9,14 +15,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
-  - Mordenkainen's Private Sanctum
-linter-yaml-title-alias: Mordenkainen's Private Sanctum
+  - "Mordenkainen's Private Sanctum"
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  

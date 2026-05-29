@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Raven Queen
+linter-yaml-title-alias: Raven Queen
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/death

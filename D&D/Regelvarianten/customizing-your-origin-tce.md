@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Customizing Your Origin
+linter-yaml-title-alias: Customizing Your Origin
 tags:
   - Quelle/5e/tce
 aliases:

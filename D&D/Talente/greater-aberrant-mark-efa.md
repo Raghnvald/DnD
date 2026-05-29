@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Greater Aberrant Mark
+linter-yaml-title-alias: Greater Aberrant Mark
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Greater Aberrant Mark"
+  - Greater Aberrant Mark
 ---
 # Greater Aberrant Mark
 *Source: Eberron: Forge of the Artificer p. 43*  

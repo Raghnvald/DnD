@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Bronze Dragon; Bronze Dragon Spellcasting
+linter-yaml-title-alias: Creating a Bronze Dragon; Bronze Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

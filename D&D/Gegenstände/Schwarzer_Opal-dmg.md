@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Schwarzer Opal
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Schwarzer Opal
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Black Opal
-linter-yaml-title-alias: Black Opal
+  - Schwarzer Opal
 ---
 # Schwarzer Opal
 *Schatz (Edelstein)*  

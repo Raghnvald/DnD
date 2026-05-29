@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tug
+linter-yaml-title-alias: Tug
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Tug
-linter-yaml-title-alias: Tug
 ---
 # [Tug](3-Mechanics\CLI\bestiary\npc/tug-skt.md)
 *Source: Storm King's Thunder p. 209*  

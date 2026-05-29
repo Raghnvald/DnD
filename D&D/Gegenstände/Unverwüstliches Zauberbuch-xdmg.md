@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Enduring Spellbook
+linter-yaml-title-alias: Enduring Spellbook
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Enduring Spellbook
-linter-yaml-title-alias: Enduring Spellbook
 ---
 # Enduring Spellbook
 *Wondrous item, common*  

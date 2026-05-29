@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Scribing
+linter-yaml-title-alias: Mark of Scribing
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Scribing"
+  - Mark of Scribing
 ---
 # Mark of Scribing
 *Source: Eberron: Forge of the Artificer p. 41*  

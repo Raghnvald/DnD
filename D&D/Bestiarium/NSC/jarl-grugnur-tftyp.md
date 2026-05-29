@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarl Grugnur
+linter-yaml-title-alias: Jarl Grugnur
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Jarl Grugnur
-linter-yaml-title-alias: Jarl Grugnur
 ---
 # [Jarl Grugnur](3-Mechanics\CLI\bestiary\npc/jarl-grugnur-tftyp.md)
 *Source: Tales from the Yawning Portal p. 189*  

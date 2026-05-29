@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Iroas's Devotee"
+linter-yaml-title-alias: "Spells for Iroas's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/iroass-devotee
 aliases:

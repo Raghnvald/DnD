@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle A
+Status: completed
+linter-yaml-title-alias: Magische Gegenstände Tabelle A
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table A
-Status: completed
+  - Magische Gegenstände Tabelle A
 ---
 # Magische Gegenstände Tabelle A
 *Quelle: Spielleiterhandbuch, S. 144* 
@@ -13,7 +15,7 @@ Status: completed
 
 | W100  | Magischer Gegenstand                                                       |
 | ----- | -------------------------------------------------------------------------- |
-| 01-50 | [[Heiltrank-dmg\|Heiltrank]]                                               |
+| 01-50 | [[Trank_der_Heilung-dmg\|Heiltrank]]                                               |
 | 51-60 | [[Zauberschriftrolle-Zaubergrad-0-dmg\|Zauberschriftrolle (Zaubertrick)]]  |
 | 61-70 | [[Trank_des_Kletterns-dmg\|Trank des Kletterns]]                           |
 | 71-90 | [[Zauberschriftrolle-Zaubergrad-1-dmg\|Zauberschriftrolle (Zaubergrad 1)]] |

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Medicine; Healing Services
+linter-yaml-title-alias: Medicine; Healing Services
 tags:
   - Quelle/5e/erlw
 aliases:

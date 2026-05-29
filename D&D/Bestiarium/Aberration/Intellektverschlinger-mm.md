@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Winzig
 HG: 2
 status: WIP
+linter-yaml-title-alias: Intellektverschlinger
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich
@@ -14,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Intellect Devourer
+  - Intellektverschlinger
 ---
 # Intellektverschlinger
 *Source: Monster Manual p. 191*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skill List; Skills
+linter-yaml-title-alias: Skill List; Skills
 tags:
   - Quelle/5e/xphb
 aliases:

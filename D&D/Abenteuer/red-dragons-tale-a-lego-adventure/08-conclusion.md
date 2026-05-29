@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Conclusion
+linter-yaml-title-alias: Conclusion
 tags:
   - Quelle/5e/lrdt
 aliases:
   - "Conclusion"
+  - Conclusion
 ---
 # Conclusion
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 11* 

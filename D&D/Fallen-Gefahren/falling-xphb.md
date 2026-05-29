@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falling
+linter-yaml-title-alias: Falling
 tags:
   - Quelle/5e/xphb
 aliases:

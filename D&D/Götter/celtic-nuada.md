@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nuada
+linter-yaml-title-alias: Nuada
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/order

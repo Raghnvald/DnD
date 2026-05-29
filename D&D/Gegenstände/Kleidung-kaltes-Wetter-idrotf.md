@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Kleidung, kaltes Wetter
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 10 GM
+Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Kleidung, kaltes Wetter
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
-  - Clothing, cold weather
-linter-yaml-title-alias: Clothing, cold weather
+  - Kleidung, kaltes Wetter
 ---
 # Kleidung, kaltes Wetter
 *Adventuring gear*  

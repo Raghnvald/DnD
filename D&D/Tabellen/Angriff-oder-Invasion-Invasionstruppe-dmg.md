@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Angriff oder Invasion; Invasionstruppe
+linter-yaml-title-alias: Angriff oder Invasion; Invasionstruppe
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Angriff oder Invasion; Invasionstruppe
   - Assault or Invasion; Invading Forces
 ---
 # Angriff oder Invasion; Invasionstruppe

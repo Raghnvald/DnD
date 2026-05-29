@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Plants"
+linter-yaml-title-alias: "Monsters' Desires; Plants"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Plants"
   - Monsters' Desires; Plants
 ---
 # Monsters' Desires; Plants

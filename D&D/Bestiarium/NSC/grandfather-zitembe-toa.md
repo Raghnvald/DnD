@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grandfather Zitembe
+linter-yaml-title-alias: Grandfather Zitembe
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Grandfather Zitembe
-linter-yaml-title-alias: Grandfather Zitembe
 ---
 # [Grandfather Zitembe](3-Mechanics\CLI\bestiary\npc/grandfather-zitembe-toa.md)
 *Source: Tomb of Annihilation p. 20*  

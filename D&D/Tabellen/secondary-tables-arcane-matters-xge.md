@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Arcane Matters
+linter-yaml-title-alias: Secondary Tables; Arcane Matters
 tags:
   - Quelle/5e/xge
 aliases:

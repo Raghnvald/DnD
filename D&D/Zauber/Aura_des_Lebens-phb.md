@@ -7,18 +7,19 @@ Komponenten: V
 Wirkungsdauer: K, <10 Minute
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Aura des Lebens
+classes:
+  - Bard (Magical Secrets)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Paladin
 aliases:
+  - Aura des Lebens
   - Aura of Life
-linter-yaml-title-alias: Aura des Lebens
 ---
 # Aura des Lebens
 *Bann des 4. Grades*  

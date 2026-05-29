@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wandering the Mists
+linter-yaml-title-alias: Wandering the Mists
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Cantrip)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Cantrip)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Cantrip) Splint Armor
   - Enspelled (Cantrip) Studded Leather Armor
   - Enspelled Armor (Cantrip)
-linter-yaml-title-alias: Enspelled Armor (Cantrip)
 ---
 # Enspelled Armor (Cantrip)
 *Uncommon (requires attunement)*  

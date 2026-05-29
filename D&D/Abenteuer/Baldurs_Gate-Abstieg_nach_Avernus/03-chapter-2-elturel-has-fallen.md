@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Elturel Has Fallen"
+linter-yaml-title-alias: "Chapter 2: Elturel Has Fallen"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Chapter 2: Elturel Has Fallen"
   - Chapter 2: Elturel Has Fallen
 ---
 # Chapter 2: Elturel Has Fallen

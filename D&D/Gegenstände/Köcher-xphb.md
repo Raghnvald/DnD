@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Quiver
+linter-yaml-title-alias: Quiver
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Quiver
-linter-yaml-title-alias: Quiver
 ---
 # Quiver
 *Adventuring gear*  

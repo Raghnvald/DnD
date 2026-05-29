@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Globe of Invulnerability
 Zaubergrad: 6
+linter-yaml-title-alias: Globe of Invulnerability
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Globe of Invulnerability
-linter-yaml-title-alias: Globe of Invulnerability
 ---
 # Globe of Invulnerability
 *6th-level, Abjuration*  

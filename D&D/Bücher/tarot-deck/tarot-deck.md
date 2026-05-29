@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Tarot Deck
+linter-yaml-title-alias: Index of Tarot Deck
+aliases:
+  - Index of Tarot Deck
 ---
 # Index of Tarot Deck
 

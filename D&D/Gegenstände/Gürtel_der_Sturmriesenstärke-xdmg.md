@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Belt of Storm Giant Strength
+linter-yaml-title-alias: Belt of Storm Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Belt of Storm Giant Strength
-linter-yaml-title-alias: Belt of Storm Giant Strength
 ---
 # Belt of Storm Giant Strength
 *Wondrous item, legendary (requires attunement)*  

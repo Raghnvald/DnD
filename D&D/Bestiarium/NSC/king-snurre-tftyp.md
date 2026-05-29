@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: King Snurre
+linter-yaml-title-alias: King Snurre
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - King Snurre
-linter-yaml-title-alias: King Snurre
 ---
 # [King Snurre](3-Mechanics\CLI\bestiary\npc/king-snurre-tftyp.md)
 *Source: Tales from the Yawning Portal p. 193*  

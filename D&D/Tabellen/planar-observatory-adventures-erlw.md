@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Planar Observatory Adventures
+linter-yaml-title-alias: Planar Observatory Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

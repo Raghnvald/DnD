@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Diabolical Inspiration
+linter-yaml-title-alias: Charm of Diabolical Inspiration
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bgdia

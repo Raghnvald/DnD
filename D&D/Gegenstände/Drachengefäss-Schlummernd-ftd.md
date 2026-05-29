@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Slumbering Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Slumbering Dragon Vessel
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/ftd
 aliases:
   - Slumbering Dragon Vessel
-linter-yaml-title-alias: Slumbering Dragon Vessel
 ---
 # Slumbering Dragon Vessel
 *Wondrous item, uncommon (requires attunement)*  

@@ -2,11 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mage
+linter-yaml-title-alias: Mage
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes
   - Monster/HG/6
-  - Monster/Typ/Humanoid/wizard
+  - Monster/Typ/Humanoid/Magier
   - Quelle/5e/xmm
 aliases:
   - Mage

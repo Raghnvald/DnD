@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amethyst Dragon
+linter-yaml-title-alias: Amethyst Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

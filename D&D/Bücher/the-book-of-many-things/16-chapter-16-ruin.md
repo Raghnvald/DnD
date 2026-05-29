@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 16: Ruin"
+linter-yaml-title-alias: "Chapter 16: Ruin"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 16: Ruin"
   - Chapter 16: Ruin
 ---
 # Chapter 16: Ruin

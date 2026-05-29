@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cair Ophidian Flowers
+linter-yaml-title-alias: Cair Ophidian Flowers
 tags:
   - Quelle/5e/bmt
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Icon of Ravenloft
+linter-yaml-title-alias: Icon of Ravenloft
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/cos
 aliases:
   - Icon of Ravenloft
-linter-yaml-title-alias: Icon of Ravenloft
 ---
 # Icon of Ravenloft
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*  

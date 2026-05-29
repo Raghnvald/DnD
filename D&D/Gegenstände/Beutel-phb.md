@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Beutel
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 SM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Beutel
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Beutel
   - Pouch
-linter-yaml-title-alias: Beutel
 ---
 # Beutel
 *Abenteuerausrüstung*  

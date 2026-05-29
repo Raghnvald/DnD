@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Blendlaterne
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Blendlaterne
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Blendlaterne
-linter-yaml-title-alias: Blendlaterne
 ---
 # Blendlaterne
 *Abenteuerausrüstung*  

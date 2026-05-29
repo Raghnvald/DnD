@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skull Lord
+linter-yaml-title-alias: Skull Lord
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Skull Lord
-linter-yaml-title-alias: Skull Lord
 ---
 # [Skull Lord](3-Mechanics\CLI\bestiary\undead/skull-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220*  

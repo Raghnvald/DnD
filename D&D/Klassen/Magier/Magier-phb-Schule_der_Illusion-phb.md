@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Illusion
+linter-yaml-title-alias: School of Illusion
 tags:
   - Klasse/Magier/illusion
   - Quelle/5e/phb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Mesoamerican, Female
+linter-yaml-title-alias: Human Names – Mesoamerican, Female
 tags:
   - Quelle/5e/xge
 aliases:

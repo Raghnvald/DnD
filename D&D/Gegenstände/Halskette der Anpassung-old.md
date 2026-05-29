@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Halskette der Anpassung
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Halskette der Anpassung
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Halskette der Anpassung
   - Necklace of Adaptation
 ---
 # Halskette der Anpassung

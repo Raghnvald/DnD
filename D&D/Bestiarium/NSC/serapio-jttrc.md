@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Serapio
+linter-yaml-title-alias: Serapio
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Serapio
-linter-yaml-title-alias: Serapio
 ---
 # [Serapio](3-Mechanics\CLI\bestiary\npc/serapio-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 61*  

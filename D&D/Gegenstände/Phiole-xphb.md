@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Vial
+linter-yaml-title-alias: Vial
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Vial
-linter-yaml-title-alias: Vial
 ---
 # Vial
 *Adventuring gear*  

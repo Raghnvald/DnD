@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Erebos's Votary"
+linter-yaml-title-alias: "Spells for Erebos's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/ereboss-votary
 aliases:

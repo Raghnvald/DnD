@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Ravnica
+linter-yaml-title-alias: Welcome to Ravnica
 tags:
   - Quelle/5e/ggr
 aliases:

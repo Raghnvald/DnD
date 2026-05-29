@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iymrith
+linter-yaml-title-alias: Iymrith
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/23
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Iymrith
-linter-yaml-title-alias: Iymrith
 ---
 # [Iymrith](3-Mechanics\CLI\bestiary\npc/iymrith-skt.md)
 *Source: Storm King's Thunder p. 241*  

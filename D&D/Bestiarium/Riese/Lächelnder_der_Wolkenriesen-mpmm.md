@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cloud Giant Smiling One
+linter-yaml-title-alias: Cloud Giant Smiling One
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg

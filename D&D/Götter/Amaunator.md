@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amaunator, Gott der Sonne
+linter-yaml-title-alias: Amaunator, Gott der Sonne
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Amaunator
+  - Amaunator, Gott der Sonne
 ---
 # Amaunator, Gott der Sonne
 *Quelle: SRD / Grundregelwerk* 

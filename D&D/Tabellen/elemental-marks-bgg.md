@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Marks
+linter-yaml-title-alias: Elemental Marks
 tags:
   - Quelle/5e/bgg
 aliases:

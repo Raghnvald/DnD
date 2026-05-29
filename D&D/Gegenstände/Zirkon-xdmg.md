@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Zircon
+linter-yaml-title-alias: Zircon
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Zircon
-linter-yaml-title-alias: Zircon
 ---
 # Zircon
 *Treasure (gemstone)*  

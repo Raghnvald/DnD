@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Slithering Tracker
+linter-yaml-title-alias: Slithering Tracker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

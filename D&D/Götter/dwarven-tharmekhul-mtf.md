@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tharmekhûl
+linter-yaml-title-alias: Tharmekhûl
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/light

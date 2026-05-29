@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Krähenfüße (Beutel mit 20)
+linter-yaml-title-alias: Krähenfüße (Beutel mit 20)
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
   - Caltrops (bag of 20)
-linter-yaml-title-alias: Krähenfüße (Beutel mit 20)
+  - Krähenfüße (Beutel mit 20)
 ---
 # Krähenfüße (Beutel mit 20)
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Gegenstände.webp#token)

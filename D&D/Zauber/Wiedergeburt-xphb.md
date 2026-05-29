@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Reincarnate
+linter-yaml-title-alias: Reincarnate
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Druid
 aliases:
   - Reincarnate
-linter-yaml-title-alias: Reincarnate
 ---
 # Reincarnate
 *5th-level, Necromancy*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Dhampir
+linter-yaml-title-alias: Dhampir
 tags:
   - Quelle/5e/abh
   - Rasse/dhampir
 aliases:
   - "Dhampir"
+  - Dhampir
 ---
 # Dhampir
 *Source: Astarion's Book of Hungers p. 7*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Elemental Myrmidon
+linter-yaml-title-alias: Fire Elemental Myrmidon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

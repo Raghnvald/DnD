@@ -7,6 +7,15 @@ Komponenten: V, G
 Wirkungsdauer: K, <1 Minute
 Angriff: STR
 Schaden: 1d8 Wucht
+linter-yaml-title-alias: Staubteufel
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -18,17 +27,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Dust Devil
-linter-yaml-title-alias: Dust Devil
+  - Staubteufel
 ---
 # Staubteufel
 _Beschwörung des 2. Grades_

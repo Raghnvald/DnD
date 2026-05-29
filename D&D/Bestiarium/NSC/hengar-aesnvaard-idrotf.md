@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hengar Aesnvaard
+linter-yaml-title-alias: Hengar Aesnvaard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Hengar Aesnvaard
-linter-yaml-title-alias: Hengar Aesnvaard
 ---
 # [Hengar Aesnvaard](3-Mechanics\CLI\bestiary\npc/hengar-aesnvaard-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Doors; Beyond a Door
+linter-yaml-title-alias: Doors; Beyond a Door
 tags:
   - Quelle/5e/dmg
 aliases:

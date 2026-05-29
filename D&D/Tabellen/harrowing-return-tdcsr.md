@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Harrowing Return
+linter-yaml-title-alias: Harrowing Return
 tags:
   - Quelle/5e/tdcsr
 aliases:

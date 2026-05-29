@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Blade Barrier
 Zaubergrad: 6
+linter-yaml-title-alias: Blade Barrier
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Blade Barrier
-linter-yaml-title-alias: Blade Barrier
 ---
 # Blade Barrier
 *6th-level, Evocation*  

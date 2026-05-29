@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Heward's Handy Haversack"
+linter-yaml-title-alias: "Heward's Handy Haversack"
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
-  - Heward's Handy Haversack
-linter-yaml-title-alias: Heward's Handy Haversack
+  - "Heward's Handy Haversack"
 ---
 # Heward's Handy Haversack
 *Wondrous item, rare*  

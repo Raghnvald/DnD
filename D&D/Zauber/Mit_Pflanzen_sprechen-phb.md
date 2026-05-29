@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Speak with Plants
 Zaubergrad: 3
+linter-yaml-title-alias: Speak with Plants
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Ranger
 aliases:
   - Speak with Plants
-linter-yaml-title-alias: Speak with Plants
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

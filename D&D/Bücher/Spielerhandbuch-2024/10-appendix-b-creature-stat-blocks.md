@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Creature Stat Blocks"
+linter-yaml-title-alias: "Appendix B: Creature Stat Blocks"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Appendix B: Creature Stat Blocks"
   - Appendix B: Creature Stat Blocks
 ---
 # Appendix B: Creature Stat Blocks

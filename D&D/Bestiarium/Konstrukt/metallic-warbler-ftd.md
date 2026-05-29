@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Metallic Warbler
+linter-yaml-title-alias: Metallic Warbler
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1-4

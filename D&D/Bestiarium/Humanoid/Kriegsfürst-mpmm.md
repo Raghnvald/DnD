@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warlord
+linter-yaml-title-alias: Warlord
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

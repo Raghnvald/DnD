@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Introduction: Welcome to Adventure"
+linter-yaml-title-alias: "Introduction: Welcome to Adventure"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Introduction: Welcome to Adventure"
   - Introduction: Welcome to Adventure
 ---
 # Introduction: Welcome to Adventure

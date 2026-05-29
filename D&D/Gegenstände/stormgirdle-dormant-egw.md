@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stormgirdle (Dormant)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stormgirdle (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Stormgirdle (Dormant)
-linter-yaml-title-alias: Stormgirdle (Dormant)
 ---
 # Stormgirdle (Dormant)
 *Wondrous item, legendary (requires attunement)*  

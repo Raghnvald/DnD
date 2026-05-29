@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Creatures
+linter-yaml-title-alias: Azorius Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

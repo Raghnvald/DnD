@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant
+linter-yaml-title-alias: Frost Giant
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis

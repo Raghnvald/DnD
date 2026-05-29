@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Orc (Ixalan)
+linter-yaml-title-alias: Orc (Ixalan)
 tags:
   - Quelle/5e/psx
   - Rasse/orc/ixalan
 aliases:
   - "Orc (Ixalan)"
+  - Orc (Ixalan)
 ---
 # Orc (Ixalan)
 *Source: Plane Shift: Ixalan p. 15*  

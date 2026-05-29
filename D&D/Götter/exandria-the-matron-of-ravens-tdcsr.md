@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Matron of Ravens
+linter-yaml-title-alias: The Matron of Ravens
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave

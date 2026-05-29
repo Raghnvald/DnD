@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Giff
+linter-yaml-title-alias: Giff
 tags:
   - Quelle/5e/aag
   - Rasse/giff
 aliases:
   - "Giff"
+  - Giff
 ---
 # Giff
 *Source: Astral Adventurer's Guide p. 12*  

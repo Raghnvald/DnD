@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 10d6+40 Energie
+linter-yaml-title-alias: Auflösung
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -14,13 +19,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
+  - Auflösung
   - Disintegrate
-linter-yaml-title-alias: Auflösung
 ---
 # Auflösung
 _Verwandlung des 6. Grades_

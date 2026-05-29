@@ -2,18 +2,19 @@
 Bezeichnung: Name
 Kategorie:
 Rüstung:
-Eigenschaften:
+Eigenschaften: []
 Kst.:
 Gew.:
 RK:
 STR:
 Heiml.:
+linter-yaml-title-alias: Name
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
-aliases: []
-linter-yaml-title-alias:
+aliases:
+  - Name
 ---
 # Name
 *Leichte Rüstung*  

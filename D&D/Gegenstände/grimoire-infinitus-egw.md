@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Grimoire Infinitus
+linter-yaml-title-alias: Grimoire Infinitus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
   - Grimoire Infinitus
-linter-yaml-title-alias: Grimoire Infinitus
 ---
 # Grimoire Infinitus
 *Wondrous item, legendary (requires attunement by a wizard)*  

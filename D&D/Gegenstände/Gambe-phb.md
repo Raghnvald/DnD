@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Viol
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: 30 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Viol
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Viol
-linter-yaml-title-alias: Viol
 ---
 # Viol
 *Instrument*  

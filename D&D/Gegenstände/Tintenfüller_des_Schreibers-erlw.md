@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Scribe's Pen"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Scribe's Pen"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
-  - Scribe's Pen
-linter-yaml-title-alias: Scribe's Pen
+  - "Scribe's Pen"
 ---
 # Scribe's Pen
 *Wondrous item, common (requires attunement by a creature with the Mark of Scribing)*  

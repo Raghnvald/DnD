@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Imbued Wood (Lamannian Oak)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Imbued Wood (Lamannian Oak)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +19,6 @@ aliases:
   - Lamannian Oak Rod
   - Lamannian Oak Staff
   - Lamannian Oak Wand
-linter-yaml-title-alias: Imbued Wood (Lamannian Oak)
 ---
 # Imbued Wood (Lamannian Oak)
 *Wondrous item, common (requires attunement)*  

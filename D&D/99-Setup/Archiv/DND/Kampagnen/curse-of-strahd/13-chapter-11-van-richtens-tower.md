@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 11: Van Richten's Tower"
+linter-yaml-title-alias: "Chapter 11: Van Richten's Tower"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Chapter 11: Van Richten's Tower"
   - Chapter 11: Van Richten's Tower
 ---
 # Chapter 11: Van Richten's Tower

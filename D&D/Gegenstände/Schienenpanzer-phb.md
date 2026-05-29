@@ -2,19 +2,20 @@
 Bezeichnung: Schienenpanzer
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 200 GM
 Gew.: 30,0 kg
 RK: 17
 STR: 15
 Heiml.: Nachteil
+linter-yaml-title-alias: Schienenpanzer
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Splint Armor
-linter-yaml-title-alias: Splint Armor
+  - Schienenpanzer
 ---
 # Schienenpanzer
 *Schwere Rüstung*  

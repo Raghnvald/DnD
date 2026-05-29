@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artifact Properties; Major Detrimental Properties
+linter-yaml-title-alias: Artifact Properties; Major Detrimental Properties
 tags:
   - Quelle/5e/xdmg
 aliases:

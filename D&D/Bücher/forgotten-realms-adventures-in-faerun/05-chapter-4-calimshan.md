@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Calimshan"
+linter-yaml-title-alias: "Chapter 4: Calimshan"
 tags:
   - Quelle/5e/fraif
 aliases:

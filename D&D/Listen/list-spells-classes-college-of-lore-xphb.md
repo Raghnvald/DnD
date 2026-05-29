@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for College of Lore
+linter-yaml-title-alias: Spells for College of Lore
 tags:
   - Zauber/list/subclass/college-of-lore
 aliases:

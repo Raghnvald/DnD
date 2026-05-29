@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kostchtchie
+linter-yaml-title-alias: Kostchtchie
 tags:
   - Monster/Größe/Groß
   - Monster/HG/25
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Kostchtchie
-linter-yaml-title-alias: Kostchtchie
 ---
 # Kostchtchie
 *Source: Baldur's Gate: Descent Into Avernus p. 105*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Clay Golem
+linter-yaml-title-alias: Reduced-Threat Clay Golem
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9

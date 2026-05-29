@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Medallion of Thoughts
+linter-yaml-title-alias: Medallion of Thoughts
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Medallion of Thoughts
-linter-yaml-title-alias: Medallion of Thoughts
 ---
 # Medallion of Thoughts
 *Wondrous item, uncommon (requires attunement)*  

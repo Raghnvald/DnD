@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enhanced Weapon
+linter-yaml-title-alias: Enhanced Weapon
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

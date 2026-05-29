@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Augury
+linter-yaml-title-alias: Augury
+classes:
+  - Barbarian (Path of the Ancestral Guardian)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -16,21 +29,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Ancestral Guardian)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Augury
-linter-yaml-title-alias: Augury
 ---
 # Augury
 *2nd-level, Divination (ritual)*  

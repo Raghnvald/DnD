@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wolf
+linter-yaml-title-alias: Wolf
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

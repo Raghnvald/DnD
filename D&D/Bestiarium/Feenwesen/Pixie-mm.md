@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pixie
+Image: token/Pixie.webp
+linter-yaml-title-alias: Pixie
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Wald
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Pixie
-Image: token/Pixie.webp
 ---
 # [Pixie](3-Mechanics\CLI\bestiary\fey/pixie.md)
 *Source: Monster Manual p. 253*  

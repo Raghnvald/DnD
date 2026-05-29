@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Canary
+linter-yaml-title-alias: Giant Canary
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-2

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thrakkus
+linter-yaml-title-alias: Thrakkus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Thrakkus
-linter-yaml-title-alias: Thrakkus
 ---
 # [Thrakkus](3-Mechanics\CLI\bestiary\npc/thrakkus-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 89*  

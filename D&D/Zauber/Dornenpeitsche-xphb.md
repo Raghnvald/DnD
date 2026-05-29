@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Thorn Whip
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric (Nature Domain)
+  - Druid
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -19,14 +25,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Cleric (Nature Domain)
-  - Druid
 aliases:
   - Thorn Whip
-linter-yaml-title-alias: Thorn Whip
 ---
 # Thorn Whip
 *cantrip, Transmutation*  

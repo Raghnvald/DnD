@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sacristy
+linter-yaml-title-alias: Sacristy
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

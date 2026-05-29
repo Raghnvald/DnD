@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pteranodon
+linter-yaml-title-alias: Pteranodon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

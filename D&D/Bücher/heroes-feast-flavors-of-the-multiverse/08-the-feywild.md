@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The Feywild
+linter-yaml-title-alias: The Feywild
 tags:
   - Quelle/5e/hffotm
 aliases:
   - "The Feywild"
+  - The Feywild
 ---
 # The Feywild
 *Source: Heroes' Feast Flavors of the Multiverse, p. 181* 

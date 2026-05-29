@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Boon of Siberys
+linter-yaml-title-alias: Boon of Siberys
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Boon of Siberys"
+  - Boon of Siberys
 ---
 # Boon of Siberys
 *Source: Eberron: Forge of the Artificer p. 45*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Darkon's Destruction"
+linter-yaml-title-alias: "Darkon's Destruction"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Darkon's Destruction"
   - Darkon's Destruction
 ---
 # Darkon's Destruction

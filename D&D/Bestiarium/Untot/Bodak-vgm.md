@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bodak
+linter-yaml-title-alias: Bodak
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Bodak
-linter-yaml-title-alias: Bodak
 ---
 # [Bodak](3-Mechanics\CLI\bestiary\undead/bodak-vgm.md)
 *Source: Volo's Guide to Monsters p. 127, Tomb of Annihilation*  

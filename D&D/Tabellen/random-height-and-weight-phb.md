@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Height and Weight
+linter-yaml-title-alias: Random Height and Weight
 tags:
   - Quelle/5e/phb
 aliases:

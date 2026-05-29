@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiamat
+linter-yaml-title-alias: Tiamat
 tags:
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/trickery

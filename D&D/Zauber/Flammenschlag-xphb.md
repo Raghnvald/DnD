@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Flame Strike
+linter-yaml-title-alias: Flame Strike
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Light Domain)
+  - Druid (Circle of Wildfire)
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Efreeti)
 tags:
   - Klasse/Barde
   - Klasse/Druide/circle-of-wildfire
@@ -11,17 +20,8 @@ tags:
   - Subklasse/the-genie/efreeti
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Cleric (Light Domain)
-  - Druid (Circle of Wildfire)
-  - Paladin (Oath of Devotion)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Genie, Efreeti)
 aliases:
   - Flame Strike
-linter-yaml-title-alias: Flame Strike
 ---
 # Flame Strike
 *5th-level, Evocation*  

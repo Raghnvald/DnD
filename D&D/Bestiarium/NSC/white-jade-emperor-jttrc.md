@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: White Jade Emperor
+linter-yaml-title-alias: White Jade Emperor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - White Jade Emperor
-linter-yaml-title-alias: White Jade Emperor
 ---
 # [White Jade Emperor](3-Mechanics\CLI\bestiary\npc/white-jade-emperor-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 197*  

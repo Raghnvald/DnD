@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Aberrant Dragonmark
+linter-yaml-title-alias: Aberrant Dragonmark
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Aberrant Dragonmark"
+  - Aberrant Dragonmark
 ---
 # Aberrant Dragonmark
 *Source: Eberron: Forge of the Artificer p. 39*  

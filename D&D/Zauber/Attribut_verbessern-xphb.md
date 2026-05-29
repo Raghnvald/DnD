@@ -6,6 +6,20 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Enhance Ability
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Glory)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -22,22 +36,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Glory)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 aliases:
   - Enhance Ability
-linter-yaml-title-alias: Enhance Ability
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  

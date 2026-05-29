@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wreath of the Prism (Dormant)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wreath of the Prism (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Wreath of the Prism (Dormant)
-linter-yaml-title-alias: Wreath of the Prism (Dormant)
 ---
 # Wreath of the Prism (Dormant)
 *Wondrous item, legendary (requires attunement)*  

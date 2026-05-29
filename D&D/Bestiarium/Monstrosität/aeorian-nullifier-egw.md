@@ -7,7 +7,9 @@ Größe: Groß
 HG: "12"
 Habitat:
   - /
+image: token/aeorian-nullifier-egw.webp
 status: WIP
+linter-yaml-title-alias: Aeorian Nullifier
 tags:
   - Monster/Größe/Groß
   - Monster/HG/12

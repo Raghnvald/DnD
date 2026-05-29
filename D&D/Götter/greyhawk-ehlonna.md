@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ehlonna
+linter-yaml-title-alias: Ehlonna
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

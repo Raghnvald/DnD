@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Rhodochrosit
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Rhodochrosit
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Rhodochrosite
-linter-yaml-title-alias: Rhodochrosite
+  - Rhodochrosit
 ---
 # Rhodochrosit
 *Schatz (Edelstein)*  

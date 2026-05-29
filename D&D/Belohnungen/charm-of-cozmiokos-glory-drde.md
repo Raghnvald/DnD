@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Charm of Cozmioko's Glory"
+linter-yaml-title-alias: "Charm of Cozmioko's Glory"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/drde

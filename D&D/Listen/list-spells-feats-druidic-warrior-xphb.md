@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Druidic Warrior
+linter-yaml-title-alias: Spells for Druidic Warrior
 tags:
   - Zauber/list/feat/druidic-warrior
 aliases:

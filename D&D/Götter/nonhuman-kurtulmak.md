@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kurtulmak
+linter-yaml-title-alias: Kurtulmak
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/nonhuman

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mirror
+linter-yaml-title-alias: Mirror
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Mirror
-linter-yaml-title-alias: Mirror
 ---
 # Mirror
 *Adventuring gear*  

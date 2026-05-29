@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Heat Metal
+linter-yaml-title-alias: Heat Metal
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Forge Domain)
+  - Druid
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -9,15 +16,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Forge Domain)
-  - Druid
 aliases:
   - Heat Metal
-linter-yaml-title-alias: Heat Metal
 ---
 # Heat Metal
 *2nd-level, Transmutation*  

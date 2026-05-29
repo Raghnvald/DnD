@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Deck of Many Things
+linter-yaml-title-alias: Deck of Many Things
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Deck of Many Things
-linter-yaml-title-alias: Deck of Many Things
 ---
 # Deck of Many Things
 *Wondrous item, legendary*  

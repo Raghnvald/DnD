@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Reincarnation Dust
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Reincarnation Dust
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Reincarnation Dust
-linter-yaml-title-alias: Reincarnation Dust
 ---
 # Reincarnation Dust
 *Wondrous item, very rare*  

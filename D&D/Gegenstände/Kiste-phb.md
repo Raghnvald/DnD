@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Kiste
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 12,5 kg
+status: WIP
+linter-yaml-title-alias: Kiste
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Chest
-linter-yaml-title-alias: Chest
+  - Kiste
 ---
 # Kiste
 *Abenteuerausrüstung*  

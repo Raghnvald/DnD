@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: Sunblight"
+linter-yaml-title-alias: "Chapter 3: Sunblight"
 tags:
   - Quelle/5e/idrotf
 aliases:
+  - "Chapter 3: Sunblight"
   - Chapter 3: Sunblight
 ---
 # Chapter 3: Sunblight

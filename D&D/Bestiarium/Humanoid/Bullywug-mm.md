@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bullywug
+linter-yaml-title-alias: Bullywug
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

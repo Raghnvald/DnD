@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artifact Properties; Minor Beneficial Properties
+linter-yaml-title-alias: Artifact Properties; Minor Beneficial Properties
 tags:
   - Quelle/5e/xdmg
 aliases:

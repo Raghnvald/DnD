@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mordent Adventures
+linter-yaml-title-alias: Mordent Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,6 +1,15 @@
 ---
 Bezeichnung: "Nathair's Mischief"
 Zaubergrad: 2
+linter-yaml-title-alias: "Nathair's Mischief"
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
-  - Nathair's Mischief
-linter-yaml-title-alias: Nathair's Mischief
+  - "Nathair's Mischief"
 ---
 # Nathair's Mischief
 *2nd-level, Illusion*  

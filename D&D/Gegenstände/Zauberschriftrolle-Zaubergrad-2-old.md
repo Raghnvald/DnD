@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 2)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 400 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 2)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (2nd Level)
   - Zauberschriftrolle (Zaubergrad 2)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 2)
 ---
 # Zauberschriftrolle (Zaubergrad 2)
 *Schriftrolle, ungewöhnlich*  

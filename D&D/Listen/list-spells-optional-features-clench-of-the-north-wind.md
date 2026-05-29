@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Clench of the North Wind
+linter-yaml-title-alias: Spells for Clench of the North Wind
 tags:
   - Zauber/list/optfeature/clench-of-the-north-wind
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phandalin
+linter-yaml-title-alias: Phandalin
 tags:
   - Quelle/5e/lmop
 aliases:

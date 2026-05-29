@@ -7,6 +7,11 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Imprisonment
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -14,13 +19,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
-  - Wizard
 aliases:
   - Imprisonment
-linter-yaml-title-alias: Imprisonment
 ---
 # Imprisonment
 *9th-level, Abjuration*  

@@ -1,37 +1,45 @@
 ---
-Bezeichnung: Ring of Shooting Stars
+Bezeichnung: Ring der Sternschnuppen
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung nachts im Freien
+status: completed
+linter-yaml-title-alias: Ring der Sternschnuppen
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Shooting Stars
-linter-yaml-title-alias: Ring of Shooting Stars
+  - Ring der Sternschnuppen
 ---
-# Ring of Shooting Stars
-*Ring, major, very rare (requires attunement outdoors at night)*  
-![](/3-Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right)
+# Ring der Sternschnuppen
+*Ring, sehr selten (benötigt Einstimmung nachts im Freien)*  
+![](img/ring-of-shooting-stars.webp#right)
 
-While wearing this ring in dim light or darkness, you can cast [dancing lights](/3-Mechanics/CLI/spells/dancing-lights.md) and [light](/3-Mechanics/CLI/spells/light.md) from the ring at will. Casting either spell from the ring requires an action.
+Während du diesen Ring in dämmrigem Licht oder in Dunkelheit trägst, kannst du damit nach Belieben [[Tanzende_Lichter-phb|Tanzende Lichter]] oder [[Licht-phb|Licht]] wirken. Es erfordert eine Aktion, um einen der Zauber zu wirken. Der Ring hat 6 Ladungen für die folgenden anderen Eigenschaften. Der Ring erhält zu jeder Morgendämmerung `1W6` der verbrauchten Ladungen zurück.
 
-The ring has 6 charges for the following other properties. The ring regains `1d6` expended charges daily at dawn.
+## Feenfeuer
 
-## Faerie Fire
+Du kannst 1 Ladung verbrauchen, um mit diesem Ring [[Feenfeuer-phb|Feenfeuer]] als eine Aktion zu wirken.
 
-You can expend 1 charge as an action to cast [faerie fire](/3-Mechanics/CLI/spells/faerie-fire.md) from the ring.
+## Blitzkugeln
 
-## Ball Lightning
+Du kannst als Aktion 2 Ladungen ausgeben und zwischen einer und vier Blitzkugeln erschaffen, die je einen Durchmesser von 1 m haben. Je mehr Kugeln du erschaffst, desto schwächer werden die einzelnen Kugeln.
 
-You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
+Jede Kugel erscheint an einer unbesetzten Stelle, die du sehen kannst, nicht weiter als 36 m von dir entfernt. Die Kugeln bleiben solange bestehen, wie du dich [[Zustände-phb#Konzentration|konzentrierst]] (wie auf einen Zauber) oder bis zu 1 Minute. Jede Kugel strahlt dämmriges Licht in einem Radius von 9 m aus. Als eine Bonusaktion kannst du jede Kugel bis zu 9 Meter weit bewegen, aber nicht weiter weg als 36 m von dir entfernt.
 
-Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last as long as you concentrate (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration) on a spell), up to 1 minute. Each sphere sheds dim light in a 30-foot radius.
+Wenn eine Kreatur, abgesehen von dir, sich einer Kugel auf 1,50 Meter nähert, wird die Kugel Blitze auf diese Kreatur entladen und verschwinden. Die Kreatur muss einen Geschicklichkeits-Rettungswurf gegen `SG 15` schaffen. Bei einem Fehlschlag erhält die Kreatur Blitzschaden abhängig von der Anzahl der von dir erschaffenen Kugeln.
 
-As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a DC 15 Dexterity saving throw. On a failed save, the creature takes lightning damage based on the number of spheres you created. (4 spheres = `2d4`, 3 spheres = `2d6`, 2 spheres = `5d4`, 1 sphere = `4d12`)
+| Kugeln | Blitzschaden |
+| ------ | ------------ |
+| 4      | 2W4          |
+| 3      | 2W6          |
+| 2      | 5W4          |
+| 1      | 4W12         |
 
-## Shooting Stars
+## Sternschnuppen
 
-You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 Dexterity saving throw, taking `5d4` fire damage on a failed save, or half as much damage on a successful one.
+Du kannst zwischen 1 und 3 Ladungen als eine Aktion verbrauchen. Für jede ausgegebene Ladung lässt du einen glühenden Lichtpartikel auf einen Punkt in deinem Sichtfeld, der sich innerhalb von 18 Meter zu dir befindet, aus deinem Ring schießen. Jede Kreatur innerhalb eines Würfels mit 4,50 Meter Kantenlänge, der von diesem Punkt ausgeht, wird mit Funken überhäuft und muss einen Geschicklichkeits-Rettungswurf gegen SG 15 schaffen. Bei einem Fehlschlag erleidet die Kreatur `5W4` Feuerschaden, und bei einem Erfolg nur halb so viel.
 
-*Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

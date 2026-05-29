@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Elf (Kaladesh; Bishatar and Tirahar)
+linter-yaml-title-alias: Elf (Kaladesh; Bishatar and Tirahar)
 tags:
   - Quelle/5e/psk
   - Rasse/elf/kaladesh-bishatar-and-tirahar
 aliases:
   - "Elf (Kaladesh; Bishatar and Tirahar)"
+  - Elf (Kaladesh; Bishatar and Tirahar)
 ---
 # Elf (Kaladesh; Bishatar and Tirahar)
 *Source: Plane Shift: Kaladesh p. 21*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poison Darts
+linter-yaml-title-alias: Poison Darts
 tags:
   - Kompendium/Bedrohung/mech
   - Quelle/5e/dmg

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Rumblings"
+linter-yaml-title-alias: "Chapter 2: Rumblings"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 2: Rumblings"
   - Chapter 2: Rumblings
 ---
 # Chapter 2: Rumblings

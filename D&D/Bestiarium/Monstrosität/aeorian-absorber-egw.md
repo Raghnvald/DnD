@@ -7,7 +7,9 @@ Größe: Groß
 HG: "10"
 Habitat:
   - /
+image: token/aeorian-absorber-egw.webp
 status: WIP
+linter-yaml-title-alias: Aeorian Absorber
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

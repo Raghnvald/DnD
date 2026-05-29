@@ -1,9 +1,11 @@
 ---
 Bezeichnung: A Zib for Your Thoughts
+linter-yaml-title-alias: A Zib for Your Thoughts
 tags:
   - Quelle/5e/azfyt
 aliases:
   - "A Zib for Your Thoughts"
+  - A Zib for Your Thoughts
 ---
 # A Zib for Your Thoughts
 *Source: A Zib for Your Thoughts, p. 2* 

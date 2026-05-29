@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swashbuckler
+linter-yaml-title-alias: Swashbuckler
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

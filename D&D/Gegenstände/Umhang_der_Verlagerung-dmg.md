@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cloak of Displacement
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cloak of Displacement
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Cloak of Displacement
-linter-yaml-title-alias: Cloak of Displacement
 ---
 # Cloak of Displacement
 *Wondrous item, major, rare (requires attunement)*  

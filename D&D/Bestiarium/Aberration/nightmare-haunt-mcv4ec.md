@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
 status: WIP
+linter-yaml-title-alias: Nightmare Haunt
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

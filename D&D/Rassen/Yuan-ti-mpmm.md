@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yuan-Ti
+linter-yaml-title-alias: Yuan-Ti
 tags:
   - Quelle/5e/mpmm
   - Rasse/yuan-ti

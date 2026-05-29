@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Jergal
+linter-yaml-title-alias: Jergal
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/knowledge

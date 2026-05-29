@@ -5,6 +5,8 @@ Bezeichnung: Aarakocra Aeromancer
 Kategorie: Elementar
 Größe: Mittelgroß
 HG: 4
+Image: token/aarakocra-aeromancer-xmm.webp
+linter-yaml-title-alias: Aarakocra Aeromancer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/air
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Aarakocra Aeromancer
-IMAGE: token/aarakocra-aeromancer-xmm.webp
 ---
 # [Aarakocra Aeromancer](3-Mechanics\CLI\bestiary\elemental/aarakocra-aeromancer-xmm.md)
 *Source: Monster Manual (2024) p. 10*  

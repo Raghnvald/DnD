@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sentinel
+linter-yaml-title-alias: Sentinel
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

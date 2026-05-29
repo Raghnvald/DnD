@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Smite
+linter-yaml-title-alias: Eldritch Smite
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

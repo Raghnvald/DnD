@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lords' Alliance Noble Residence"
+linter-yaml-title-alias: "Lords' Alliance Noble Residence"
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof

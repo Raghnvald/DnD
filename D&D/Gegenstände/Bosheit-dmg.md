@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Bosheit
 Kategorie: Gift
+Kst.: 250 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Bosheit
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Bosheit
-linter-yaml-title-alias: Bosheit
 ---
 # Bosheit
 *Abenteuerausrüstung, Gift (Eingeatmet)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cleric
+linter-yaml-title-alias: Cleric
 tags:
   - Klasse/Kleriker
   - Quelle/5e/xphb

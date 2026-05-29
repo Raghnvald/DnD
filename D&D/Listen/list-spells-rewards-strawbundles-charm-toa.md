@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Strawbundle's Charm"
+linter-yaml-title-alias: "Spells for Strawbundle's Charm"
 tags:
   - ttrpg-cli/spell/list/reward/strawbundles-charm
 aliases:

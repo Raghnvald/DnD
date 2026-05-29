@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Meteor Swarm
 Zaubergrad: 9
+linter-yaml-title-alias: Meteor Swarm
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Meteor Swarm
-linter-yaml-title-alias: Meteor Swarm
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

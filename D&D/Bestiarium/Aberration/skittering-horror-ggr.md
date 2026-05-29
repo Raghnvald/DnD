@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Riesig
 HG: 15
 status: WIP
+linter-yaml-title-alias: Skittering Horror
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15

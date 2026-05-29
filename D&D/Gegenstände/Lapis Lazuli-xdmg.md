@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Lapis Lazuli
+linter-yaml-title-alias: Lapis Lazuli
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Lapis Lazuli
-linter-yaml-title-alias: Lapis Lazuli
 ---
 # Lapis Lazuli
 *Treasure (gemstone)*  

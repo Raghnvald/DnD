@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orc Names; Orc Male Names
+linter-yaml-title-alias: Orc Names; Orc Male Names
 tags:
   - Quelle/5e/vgm
 aliases:

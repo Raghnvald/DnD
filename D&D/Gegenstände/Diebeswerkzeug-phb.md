@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Diebeswerkzeug
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Diebeswerkzeug
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Diebeswerkzeug
   - Thieves' Tools
-linter-yaml-title-alias: Diebeswerkzeug
 ---
 # Diebeswerkzeug
 *Werkzeug*  

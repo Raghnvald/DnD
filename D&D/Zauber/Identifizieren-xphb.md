@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Identify
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Forge Domain)
+  - Cleric (Knowledge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -27,19 +38,8 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Forge Domain)
-  - Cleric (Knowledge Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Identify
-linter-yaml-title-alias: Identify
 ---
 # Identify
 *1st-level, Divination (ritual)*  

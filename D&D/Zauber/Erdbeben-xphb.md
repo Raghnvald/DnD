@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Earthquake
+linter-yaml-title-alias: Earthquake
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Earthquake
-linter-yaml-title-alias: Earthquake
 ---
 # Earthquake
 *8th-level, Transmutation*  

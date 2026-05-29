@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Antilife Shell
+linter-yaml-title-alias: Antilife Shell
+classes:
+  - Bard
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Druid
+  - Warlock (The Undead)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Subklasse/the-undead
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric (Death Domain)
-  - Cleric (Grave Domain)
-  - Druid
-  - Warlock (The Undead)
 aliases:
   - Antilife Shell
-linter-yaml-title-alias: Antilife Shell
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

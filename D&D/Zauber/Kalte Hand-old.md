@@ -8,6 +8,7 @@ Angriff: Fernkampf
 Schaden: 1d8 nekrotisch
 status:
   - completed
+linter-yaml-title-alias: Kalte Hand
 tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
@@ -18,6 +19,7 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Chill Touch
+  - Kalte Hand
 ---
 # Kalte Hand
 _Zaubertrick der Nekromantie_

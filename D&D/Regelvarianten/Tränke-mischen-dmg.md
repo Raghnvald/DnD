@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Tränke mischen
+linter-yaml-title-alias: Tränke mischen
 tags:
   - Quelle/5e/dmg
 aliases:
   - Mixing Potions
+  - Tränke mischen
 ---
 # Tränke mischen
 *Quelle: Spielleiterhandbuch, S. 140* 
@@ -23,5 +25,5 @@ Wenn ein Charakter zwei Tränke vermischt, kannst du einen Wurf auf die Trank-Mi
 | 26-35 | Beide Tränke funktionieren, aber ihre auf Zahlen basierenden Effekte und ihre Dauer sind halbiert. Wenn der Effekt eines Tranks nicht auf diese Art halbiert werden kann, hat der Trank keinen Effekt. |
 | 36-90 | Beide Tränke funktionieren normal. |
 | 91-99 | Die auf Zahlen basierenden Effekte und Dauer eines Tranks wurden verdoppelt. Wenn keiner der Tränke eine Wirkung hat, die auf diese Art verdoppelt werden könnte, funktionieren beide normal. |
-| 00 | Nur ein Trank wirkt, aber die Wirkung ist permanent. Wähle den einfachsten Effekt und fasse ihn permanent werden oder wähle den, der am meisten Spaß verspricht. Zum Beispiel könnte ein [[Heiltrank-dmg\|Heiltrank]] das Trefferpunktemaximum des Trinkers permanent um 4 erhöhen, oder das [[Öl_der_Körperlosigkeit-dmg\|Öl der Körperlosigkeit]] könnte den Nutzer permanent in der Ätherebene gefangen halten. Auf dein Ermessen hin könnten angemessene Zauber wie [[Magie_bannen-phb\|Magie bannen]] oder [[Fluch_brechen-phb\|Fluch brechen]] den permanenten Effekt entfernen. |
+| 00 | Nur ein Trank wirkt, aber die Wirkung ist permanent. Wähle den einfachsten Effekt und fasse ihn permanent werden oder wähle den, der am meisten Spaß verspricht. Zum Beispiel könnte ein [[Trank_der_Heilung-dmg\|Heiltrank]] das Trefferpunktemaximum des Trinkers permanent um 4 erhöhen, oder das [[Öl_der_Körperlosigkeit-dmg\|Öl der Körperlosigkeit]] könnte den Nutzer permanent in der Ätherebene gefangen halten. Auf dein Ermessen hin könnten angemessene Zauber wie [[Magie_bannen-phb\|Magie bannen]] oder [[Fluch_brechen-phb\|Fluch brechen]] den permanenten Effekt entfernen. |
 ^potion-miscibility

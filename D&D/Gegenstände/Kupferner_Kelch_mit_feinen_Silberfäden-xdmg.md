@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Copper chalice with silver filigree
+Kst.: 25 GM
+linter-yaml-title-alias: Copper chalice with silver filigree
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Copper chalice with silver filigree
-linter-yaml-title-alias: Copper chalice with silver filigree
 ---
 # Copper chalice with silver filigree
 *Treasure (art object)*  

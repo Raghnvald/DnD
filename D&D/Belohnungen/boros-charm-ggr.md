@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Charm
+linter-yaml-title-alias: Boros Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

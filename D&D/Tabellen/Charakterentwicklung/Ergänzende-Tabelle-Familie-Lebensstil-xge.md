@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Ergänzende Tabelle; Lebenstil der Familie
+linter-yaml-title-alias: Ergänzende Tabelle; Lebenstil der Familie
 tags:
   - Quelle/5e/xge
 aliases:
+  - Ergänzende Tabelle; Lebenstil der Familie
   - Supplemental Tables; Family Lifestyle
 ---
 # Ergänzende Tabelle; Lebenstil der Familie

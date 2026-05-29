@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Compulsion
+linter-yaml-title-alias: Compulsion
+classes:
+  - Bard
+  - Cleric (Order Domain)
+  - Paladin (Oath of Glory)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/order-domain
@@ -8,13 +13,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/bewitching-whispers
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric (Order Domain)
-  - Paladin (Oath of Glory)
 aliases:
   - Compulsion
-linter-yaml-title-alias: Compulsion
 ---
 # Compulsion
 *4th-level, Enchantment*  

@@ -5,6 +5,7 @@ Bezeichnung: Ashtyrranthor
 Kategorie: Drache
 Größe: Riesig
 status: WIP
+linter-yaml-title-alias: Ashtyrranthor
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/17
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Ashtyrranthor
-linter-yaml-title-alias: Ashtyrranthor
 ---
 # [Ashtyrranthor](3-Mechanics\CLI\bestiary\npc/ashtyrranthor-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 210*  

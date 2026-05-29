@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Path of the Giant
+linter-yaml-title-alias: Spells for Path of the Giant
 tags:
   - Zauber/list/subclass/path-of-the-giant
 aliases:

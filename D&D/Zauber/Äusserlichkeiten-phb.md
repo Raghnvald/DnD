@@ -7,6 +7,12 @@ Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: CHA
 Schaden: n/v
+linter-yaml-title-alias: Äusserlichkeiten
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Warlock (The Archfey)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -15,14 +21,9 @@ tags:
   - Subklasse/the-archfey
   - Zauber/Grad/5
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Warlock (The Archfey)
-  - Wizard
 aliases:
+  - Äusserlichkeiten
   - Seeming
-linter-yaml-title-alias: Äusserlichkeiten
 ---
 # Äusserlichkeiten
 *Bann des 1. Grades (Ritual)*

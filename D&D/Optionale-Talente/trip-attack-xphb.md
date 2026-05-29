@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trip Attack
+linter-yaml-title-alias: Trip Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

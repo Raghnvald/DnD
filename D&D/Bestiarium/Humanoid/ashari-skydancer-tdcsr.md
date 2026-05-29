@@ -5,6 +5,7 @@ Bezeichnung: Ashari Skydancer
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 status: WIP
+linter-yaml-title-alias: Ashari Skydancer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystra, Göttin der Magie
+linter-yaml-title-alias: Mystra, Göttin der Magie
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Arkana
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Mystra
+  - Mystra, Göttin der Magie
 ---
 # Mystra, Göttin der Magie
 *Quelle: SRD / Grundregelwerk* 

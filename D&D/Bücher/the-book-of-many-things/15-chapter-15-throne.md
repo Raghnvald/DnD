@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 15: Throne"
+linter-yaml-title-alias: "Chapter 15: Throne"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 15: Throne"
   - Chapter 15: Throne
 ---
 # Chapter 15: Throne

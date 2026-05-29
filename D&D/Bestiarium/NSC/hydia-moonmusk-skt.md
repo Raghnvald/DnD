@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hydia Moonmusk
+linter-yaml-title-alias: Hydia Moonmusk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/skt
 aliases:
   - Hydia Moonmusk
-linter-yaml-title-alias: Hydia Moonmusk
 ---
 # [Hydia Moonmusk](3-Mechanics\CLI\bestiary\npc/hydia-moonmusk-skt.md)
 *Source: Storm King's Thunder p. 148*  

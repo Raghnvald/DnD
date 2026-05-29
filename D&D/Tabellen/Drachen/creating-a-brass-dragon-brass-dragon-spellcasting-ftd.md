@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Brass Dragon; Brass Dragon Spellcasting
+linter-yaml-title-alias: Creating a Brass Dragon; Brass Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dendar
+linter-yaml-title-alias: Dendar
 tags:
   - Kompendium/Götter/yuan-ti
   - Quelle/5e/vgm

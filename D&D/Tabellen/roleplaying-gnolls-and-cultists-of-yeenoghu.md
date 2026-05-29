@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying Gnolls and Cultists of Yeenoghu
+linter-yaml-title-alias: Roleplaying Gnolls and Cultists of Yeenoghu
 tags:
   - Quelle/5e/vgm
 aliases:

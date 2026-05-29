@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Optionen für Charaktere; Unterklassen
+linter-yaml-title-alias: Optionen für Charaktere; Unterklassen
 tags:
   - Quelle/5e/xge
 aliases:
   - Character Options; Subclasses
+  - Optionen für Charaktere; Unterklassen
 ---
 # Optionen für Charaktere; Unterklassen
 *Quellen: Xanathars Ratgeber für Alles S. 7* 

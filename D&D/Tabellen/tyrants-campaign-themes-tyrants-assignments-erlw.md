@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyrants Campaign Themes; Tyrants Assignments
+linter-yaml-title-alias: Tyrants Campaign Themes; Tyrants Assignments
 tags:
   - Quelle/5e/erlw
 aliases:

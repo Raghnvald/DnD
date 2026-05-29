@@ -7,6 +7,16 @@ Komponenten: V, M
 Wirkungsdauer: 1 Runde
 Angriff: Nahkampf
 Schaden: 1d8 Schall
+linter-yaml-title-alias: Dröhnende Klinge
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -24,18 +34,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Booming Blade
-linter-yaml-title-alias: Dröhnende Klinge
+  - Dröhnende Klinge
 ---
 # Dröhnende Klinge
 *Zaubertrick der Hervorrufung*

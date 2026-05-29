@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Egg Hunter Adult
+linter-yaml-title-alias: Egg Hunter Adult
 tags:
   - Monster/Größe/Klein
   - Monster/HG/5

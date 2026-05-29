@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flail of Tiamat
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Flail of Tiamat
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Flail of Tiamat
-linter-yaml-title-alias: Flail of Tiamat
 ---
 # Flail of Tiamat
 *Weapon ([flail](/3-Mechanics/CLI/items/flail-xphb.md)), legendary (requires attunement)*  

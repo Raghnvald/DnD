@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Colossus)
+linter-yaml-title-alias: Scroll of Titan Summoning (Colossus)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning (Colossus)
-linter-yaml-title-alias: Scroll of Titan Summoning (Colossus)
 ---
 # Scroll of Titan Summoning (Colossus)
 *Scroll, legendary*  

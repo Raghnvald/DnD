@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Calendar of Harptos
+linter-yaml-title-alias: The Calendar of Harptos
 tags:
   - Quelle/5e/dmg
 aliases:

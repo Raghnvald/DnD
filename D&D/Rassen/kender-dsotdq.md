@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Kender
+linter-yaml-title-alias: Kender
 tags:
   - Quelle/5e/dsotdq
   - Rasse/kender
 aliases:
   - "Kender"
+  - Kender
 ---
 # Kender
 *Source: Dragonlance: Shadow of the Dragon Queen p. 27*  

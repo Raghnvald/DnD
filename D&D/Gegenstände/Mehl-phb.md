@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Mehl
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 KM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Mehl
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Flour
-linter-yaml-title-alias: Flour
+  - Mehl
 ---
 # Mehl
 *Handelsgut*  

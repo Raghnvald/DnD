@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fist of Four Thunders
+linter-yaml-title-alias: Fist of Four Thunders
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

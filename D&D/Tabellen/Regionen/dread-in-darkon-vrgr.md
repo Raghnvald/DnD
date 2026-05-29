@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dread in Darkon
+linter-yaml-title-alias: Dread in Darkon
 tags:
   - Quelle/5e/vrgr
 aliases:

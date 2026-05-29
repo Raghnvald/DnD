@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Juvenile Kraken
+linter-yaml-title-alias: Juvenile Kraken
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/14

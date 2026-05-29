@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tiger
+linter-yaml-title-alias: Tiger
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

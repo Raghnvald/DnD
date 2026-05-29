@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Battle Smith
+linter-yaml-title-alias: Spells for Battle Smith
 tags:
   - Zauber/list/subclass/battle-smith
 aliases:

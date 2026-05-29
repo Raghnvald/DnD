@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Major Adaptations
+linter-yaml-title-alias: Major Adaptations
 tags:
   - Quelle/5e/ggr
 aliases:

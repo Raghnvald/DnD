@@ -8,6 +8,12 @@ Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 12d8 nekrotisch
 status: completed
+linter-yaml-title-alias: Abi-Dalzims schreckliches Welken
+classes:
+  - Barde
+  - Kleriker (Domäne Arcana)
+  - Magier
+  - Zauberer
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/arcana-domain
@@ -17,14 +23,9 @@ tags:
   - Zauber/Grad/8
   - Zauber/Original/Abi-Dalzims_Horrid_Wilting
   - Zauber/Schule/Nekromantie
-classes:
-  - Barde
-  - Kleriker (Domäne Arcana)
-  - Magier
-  - Zauberer
 aliases:
   - Abi-Dalzim's Horrid Wilting
-linter-yaml-title-alias: Abi-Dalzims schreckliches Welken
+  - Abi-Dalzims schreckliches Welken
 ---
 # Abi-Dalzims schreckliches Welken
 *Nekromantie des 8. Grades*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zuggtmoy
+linter-yaml-title-alias: Zuggtmoy
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

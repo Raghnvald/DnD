@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghaunadaur
+linter-yaml-title-alias: Ghaunadaur
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/drow

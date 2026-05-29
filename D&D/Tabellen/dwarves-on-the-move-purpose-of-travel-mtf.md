@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarves on the Move; Purpose of Travel
+linter-yaml-title-alias: Dwarves on the Move; Purpose of Travel
 tags:
   - Quelle/5e/mtf
 aliases:

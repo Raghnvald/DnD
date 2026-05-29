@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Don-Jon Raskin
+linter-yaml-title-alias: Don-Jon Raskin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/dip
 aliases:
   - Don-Jon Raskin
-linter-yaml-title-alias: Don-Jon Raskin
 ---
 # [Don-Jon Raskin](3-Mechanics\CLI\bestiary\npc/don-jon-raskin-dip.md)
 *Source: Dragon of Icespire Peak p. 56*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goading Attack
+linter-yaml-title-alias: Goading Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

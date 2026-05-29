@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kartakass Adventures
+linter-yaml-title-alias: Kartakass Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

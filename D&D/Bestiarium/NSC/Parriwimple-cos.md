@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Parriwimple
+linter-yaml-title-alias: Parriwimple
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Parriwimple
-linter-yaml-title-alias: Parriwimple
 ---
 # [Parriwimple](3-Mechanics\CLI\bestiary\npc/parriwimple-cos.md)
 *Source: Curse of Strahd p. 43*  

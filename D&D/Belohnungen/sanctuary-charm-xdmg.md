@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sanctuary Charm
+linter-yaml-title-alias: Sanctuary Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

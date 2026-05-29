@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Warforged
+linter-yaml-title-alias: Warforged
 tags:
   - Quelle/5e/efa
   - Rasse/warforged
 aliases:
   - "Warforged"
+  - Warforged
 ---
 # Warforged
 *Source: Eberron: Forge of the Artificer p. 38*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Level-Based Renown
+linter-yaml-title-alias: Level-Based Renown
 tags:
   - Quelle/5e/xdmg
 aliases:

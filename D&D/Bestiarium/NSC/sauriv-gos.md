@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sauriv
+linter-yaml-title-alias: Sauriv
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Sauriv
-linter-yaml-title-alias: Sauriv
 ---
 # [Sauriv](3-Mechanics\CLI\bestiary\npc/sauriv-gos.md)
 *Source: Ghosts of Saltmarsh p. 79*  

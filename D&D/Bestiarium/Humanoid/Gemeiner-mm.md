@@ -15,6 +15,7 @@ Habitat:
   - Wüste
 image: token/commoner.webp
 status: WIP
+linter-yaml-title-alias: Gemeiner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
@@ -29,6 +30,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Commoner
+  - Gemeiner
 ---
 # Gemeiner
 *Quelle: Monsterhandbuch S. 346. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

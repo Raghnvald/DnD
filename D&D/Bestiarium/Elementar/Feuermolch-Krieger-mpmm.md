@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Firenewt Warrior
+linter-yaml-title-alias: Firenewt Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

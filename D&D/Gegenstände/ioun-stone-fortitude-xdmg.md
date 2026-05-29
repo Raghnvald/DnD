@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Fortitude
+linter-yaml-title-alias: Ioun Stone, Fortitude
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Fortitude
-linter-yaml-title-alias: Ioun Stone, Fortitude
 ---
 # Ioun Stone, Fortitude
 *Wondrous item, very rare (requires attunement)*  

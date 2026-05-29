@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Mazfroth's Mighty Digressions"
+linter-yaml-title-alias: "Mazfroth's Mighty Digressions"
 tags:
   - Quelle/5e/cm
 aliases:
+  - "Mazfroth's Mighty Digressions"
   - Mazfroth's Mighty Digressions
 ---
 # Mazfroth's Mighty Digressions

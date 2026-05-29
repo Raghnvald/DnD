@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Welle
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Welle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Wave
-linter-yaml-title-alias: Wave
+  - Welle
 ---
 # Welle
 *Weapon ([trident](/3-Mechanics/CLI/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)*  

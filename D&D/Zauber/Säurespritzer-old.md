@@ -8,6 +8,13 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d6 Säure
 status: completed
+linter-yaml-title-alias: Säurespritzer
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Magische-Geheimnisse
@@ -22,14 +29,9 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Original/Acid_Splash
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Acid Splash
+  - Säurespritzer
 ---
 # Säurespritzer
 _Zaubertrick der Beschwörung_

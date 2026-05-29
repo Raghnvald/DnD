@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orc Names; Orc Epithets
+linter-yaml-title-alias: Orc Names; Orc Epithets
 tags:
   - Quelle/5e/vgm
 aliases:

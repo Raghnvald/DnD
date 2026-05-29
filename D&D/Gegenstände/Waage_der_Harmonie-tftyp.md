@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Balance of Harmony
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Balance of Harmony
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/tftyp
 aliases:
   - Balance of Harmony
-linter-yaml-title-alias: Balance of Harmony
 ---
 # Balance of Harmony
 *Wondrous item, uncommon*  

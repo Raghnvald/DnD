@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Whirlpools; Whirlpool Rank
+linter-yaml-title-alias: Whirlpools; Whirlpool Rank
 tags:
   - Quelle/5e/gos
 aliases:

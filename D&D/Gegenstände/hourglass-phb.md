@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Hourglass
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 25 GM
+Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Hourglass
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Hourglass
-linter-yaml-title-alias: Hourglass
 ---
 # Hourglass
 *Adventuring gear*  

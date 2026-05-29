@@ -7,6 +7,13 @@ Komponenten: V, M
 Wirkungsdauer: 1 Minute
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Federfall
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -17,14 +24,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Feather Fall
+  - Federfall
 ---
 # Federfall
 *Verwandlung des 1. Grades*  

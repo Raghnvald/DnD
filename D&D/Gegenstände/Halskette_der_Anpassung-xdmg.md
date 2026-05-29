@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Necklace of Adaptation
+linter-yaml-title-alias: Necklace of Adaptation
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Necklace of Adaptation
-linter-yaml-title-alias: Necklace of Adaptation
 ---
 # Necklace of Adaptation
 *Wondrous item, uncommon (requires attunement)*  

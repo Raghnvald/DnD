@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rool
+linter-yaml-title-alias: Rool
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Rool
-linter-yaml-title-alias: Rool
 ---
 # [Rool](3-Mechanics\CLI\bestiary\npc/rool-skt.md)
 *Source: Storm King's Thunder p. 221*  

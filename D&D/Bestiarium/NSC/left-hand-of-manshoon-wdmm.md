@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Left Hand of Manshoon
+linter-yaml-title-alias: Left Hand of Manshoon
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Left Hand of Manshoon
-linter-yaml-title-alias: Left Hand of Manshoon
 ---
 # [Left Hand of Manshoon](3-Mechanics\CLI\bestiary\npc/left-hand-of-manshoon-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 119*  

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Einbrecherausrüstung
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 16 GM
 Gew.: 22,25 kg
+status: WIP
+linter-yaml-title-alias: Einbrecherausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Burglar's Pack
-linter-yaml-title-alias: Burglar's Pack
+  - Einbrecherausrüstung
 ---
 # Einbrecherausrüstung
 *Adventuring gear*  

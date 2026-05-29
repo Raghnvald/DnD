@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Dornenhagel
 Zaubergrad: 1
+linter-yaml-title-alias: Dornenhagel
+classes:
+  - Bard (Magical Secrets)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Waldläufer
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Ranger
 aliases:
-  - Hail of Thorns
-linter-yaml-title-alias: Hail of Thorns
+  - Dornenhagel
 ---
 # Dornenhagel
 *Beschwörung des 1. Grades*

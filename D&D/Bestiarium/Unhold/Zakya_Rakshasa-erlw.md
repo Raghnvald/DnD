@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zakya Rakshasa
+linter-yaml-title-alias: Zakya Rakshasa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

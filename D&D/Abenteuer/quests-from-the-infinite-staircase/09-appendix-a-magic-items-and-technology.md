@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Magic Items and Technology"
+linter-yaml-title-alias: "Appendix A: Magic Items and Technology"
 tags:
   - Quelle/5e/qftis
 aliases:

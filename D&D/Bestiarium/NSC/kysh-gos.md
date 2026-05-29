@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kysh
+linter-yaml-title-alias: Kysh
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Kysh
-linter-yaml-title-alias: Kysh
 ---
 # [Kysh](3-Mechanics\CLI\bestiary\npc/kysh-gos.md)
 *Source: Ghosts of Saltmarsh p. 240*  

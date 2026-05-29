@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Hill Giant Strength
+linter-yaml-title-alias: Potion of Hill Giant Strength
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Hill Giant Strength
-linter-yaml-title-alias: Potion of Hill Giant Strength
 ---
 # Potion of Hill Giant Strength
 *Potion, uncommon*  

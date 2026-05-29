@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Common Purpose; Lauth Goals
+linter-yaml-title-alias: Common Purpose; Lauth Goals
 tags:
   - Quelle/5e/ftd
 aliases:

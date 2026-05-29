@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/hfstcm
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Heroes' Feast: Saving the Children's Menu* 

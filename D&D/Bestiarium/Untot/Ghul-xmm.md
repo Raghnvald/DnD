@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghoul
+linter-yaml-title-alias: Ghoul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ghoul
-linter-yaml-title-alias: Ghoul
 ---
 # [Ghoul](3-Mechanics\CLI\bestiary\undead/ghoul-xmm.md)
 *Source: Monster Manual (2024) p. 132. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

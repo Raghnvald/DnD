@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orzhov Representative
+linter-yaml-title-alias: Orzhov Representative
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

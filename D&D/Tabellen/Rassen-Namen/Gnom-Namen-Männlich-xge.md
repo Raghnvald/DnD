@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome Names – Male
+linter-yaml-title-alias: Gnome Names – Male
 tags:
   - Quelle/5e/xge
 aliases:

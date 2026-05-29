@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Final Breath
+linter-yaml-title-alias: Final Breath
 tags:
   - Kompendium/Belohnung/curse
   - Quelle/5e/vrgr
 aliases:
   - "Final Breath"
+  - Final Breath
 ---
 # Final Breath
 *Curse*  

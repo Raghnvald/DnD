@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of Resurrection
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of Resurrection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rod of Resurrection
-linter-yaml-title-alias: Rod of Resurrection
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  

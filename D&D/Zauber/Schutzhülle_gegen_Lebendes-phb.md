@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Antilife Shell
 Zaubergrad: 5
+linter-yaml-title-alias: Antilife Shell
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Death Domain)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Death Domain)
-  - Druid
 aliases:
   - Antilife Shell
-linter-yaml-title-alias: Antilife Shell
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

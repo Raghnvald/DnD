@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ruby of the War Mage
+linter-yaml-title-alias: Ruby of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Ruby of the War Mage
-linter-yaml-title-alias: Ruby of the War Mage
 ---
 # Ruby of the War Mage
 *Wondrous item, common (requires attunement by a spellcaster)*  

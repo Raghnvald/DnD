@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of X-ray Vision
+linter-yaml-title-alias: Ring of X-ray Vision
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of X-ray Vision
-linter-yaml-title-alias: Ring of X-ray Vision
 ---
 # Ring of X-ray Vision
 *Ring, rare (requires attunement)*  

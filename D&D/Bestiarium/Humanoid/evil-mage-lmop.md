@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Evil Mage
+Image: token/evil-mage-lmop.webp
+linter-yaml-title-alias: Evil Mage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/lmop
 aliases:
   - Evil Mage
-Image: token/evil-mage-lmop.webp
 ---
 # Evil Mage
 *Source: Lost Mine of Phandelver p. 57*  

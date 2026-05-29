@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Chime of Opening
+linter-yaml-title-alias: Chime of Opening
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Chime of Opening
-linter-yaml-title-alias: Chime of Opening
 ---
 # Chime of Opening
 *Wondrous item, rare*  

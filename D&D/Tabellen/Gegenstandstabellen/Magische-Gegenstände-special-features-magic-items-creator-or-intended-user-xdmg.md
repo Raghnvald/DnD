@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Magic Item Special Features; Magic Item's Creator or Intended User"
+linter-yaml-title-alias: "Magic Item Special Features; Magic Item's Creator or Intended User"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Magic Item Special Features; Magic Item's Creator or Intended User"
   - Magic Item Special Features; Magic Item's Creator or Intended User
 ---
 # Magic Item Special Features; Magic Item's Creator or Intended User

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Octopus
+linter-yaml-title-alias: Giant Octopus
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/underwater

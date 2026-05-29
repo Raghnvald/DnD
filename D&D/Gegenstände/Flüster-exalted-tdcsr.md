@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Whisper (Exalted)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Whisper (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Whisper (Exalted)
-linter-yaml-title-alias: Whisper (Exalted)
 ---
 # Whisper (Exalted)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  

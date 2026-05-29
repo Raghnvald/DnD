@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Yarn List and Charts
+linter-yaml-title-alias: Yarn List and Charts
 tags:
   - Quelle/5e/cabomp
 aliases:
   - "Yarn List and Charts"
+  - Yarn List and Charts
 ---
 # Yarn List and Charts
 *Source: Crochet: A Book of Many Patterns, p. 157* 

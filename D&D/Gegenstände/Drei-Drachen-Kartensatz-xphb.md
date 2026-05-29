@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Three-Dragon Ante Set
+linter-yaml-title-alias: Three-Dragon Ante Set
 tags:
   - Gegenstand/Ausrüstung/Spielset
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Three-Dragon Ante Set
-linter-yaml-title-alias: Three-Dragon Ante Set
 ---
 # Three-Dragon Ante Set
 *Gaming set*  

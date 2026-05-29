@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ishel
+linter-yaml-title-alias: Ishel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Ishel
-linter-yaml-title-alias: Ishel
 ---
 # [Ishel](3-Mechanics\CLI\bestiary\npc/ishel-egw.md)
 *Source: Explorer's Guide to Wildemount p. 231*  

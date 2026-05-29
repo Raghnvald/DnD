@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Faerie Dust
+linter-yaml-title-alias: Faerie Dust
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/other
   - Quelle/5e/skt
 aliases:
   - Faerie Dust
-linter-yaml-title-alias: Faerie Dust
 ---
 # Faerie Dust
 

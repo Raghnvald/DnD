@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Specter of Night
+linter-yaml-title-alias: Specter of Night
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mcv4ec
 aliases:
   - Specter of Night
-linter-yaml-title-alias: Specter of Night
 ---
 # [Specter of Night](3-Mechanics\CLI\bestiary\undead/specter-of-night-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of Absorption
 Kategorie: Zepter
+linter-yaml-title-alias: Rod of Absorption
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rod of Absorption
-linter-yaml-title-alias: Rod of Absorption
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  

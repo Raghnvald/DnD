@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Random Dungeons"
+linter-yaml-title-alias: "Appendix A: Random Dungeons"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Appendix A: Random Dungeons"
   - Appendix A: Random Dungeons
 ---
 # Appendix A: Random Dungeons

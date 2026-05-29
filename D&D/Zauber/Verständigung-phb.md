@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Sending
 Zaubergrad: 3
+linter-yaml-title-alias: Sending
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -11,16 +19,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
   - Sending
-linter-yaml-title-alias: Sending
 ---
 # Sending
 *3rd-level, Evocation*  

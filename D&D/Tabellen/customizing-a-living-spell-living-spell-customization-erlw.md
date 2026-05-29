@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Customizing a Living Spell; Living Spell Customization
+linter-yaml-title-alias: Customizing a Living Spell; Living Spell Customization
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,7 +1,10 @@
 ---
 Bezeichnung: "<center> Kapitel 5: Flucht aus Avernus </center>"
+linter-yaml-title-alias: "<center> Kapitel 5: Flucht aus Avernus </center>"
 tags:
   - Quelle/5e/bgdia
+aliases:
+  - "<center> Kapitel 5: Flucht aus Avernus </center>"
 ---
 # <center> Kapitel 5: Flucht aus Avernus </center>
 

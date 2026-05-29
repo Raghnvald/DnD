@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of the Valiant Soul (Dormant)
 Rüstung: Mittel
+linter-yaml-title-alias: Armor of the Valiant Soul (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Armor of the Valiant Soul (Dormant)
-linter-yaml-title-alias: Armor of the Valiant Soul (Dormant)
 ---
 # Armor of the Valiant Soul (Dormant)
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), legendary (requires attunement)*  

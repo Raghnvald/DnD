@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vhaeraun
+linter-yaml-title-alias: Vhaeraun
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/Domäne/war

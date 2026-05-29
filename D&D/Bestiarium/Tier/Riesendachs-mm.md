@@ -10,6 +10,7 @@ Habitat:
   - Wald
 image: token/giant-badger-webp
 status: completed
+linter-yaml-title-alias: Riesendachs
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald
@@ -18,6 +19,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Giant Badger
+  - Riesendachs
 ---
 # Riesendachs
 *Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

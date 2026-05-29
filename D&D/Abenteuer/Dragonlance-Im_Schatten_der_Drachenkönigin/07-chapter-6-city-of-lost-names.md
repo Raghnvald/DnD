@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: City of Lost Names"
+linter-yaml-title-alias: "Chapter 6: City of Lost Names"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Chapter 6: City of Lost Names"
   - Chapter 6: City of Lost Names
 ---
 # Chapter 6: City of Lost Names

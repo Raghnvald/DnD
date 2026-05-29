@@ -1,5 +1,6 @@
 ---
 Bezeichnung: High Altitude
+linter-yaml-title-alias: High Altitude
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

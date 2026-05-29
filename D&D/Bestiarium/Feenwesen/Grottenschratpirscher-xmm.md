@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bugbear Stalker
+linter-yaml-title-alias: Bugbear Stalker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/feywild

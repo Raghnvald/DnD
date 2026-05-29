@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Infiltrator's Key (Awakened)"
+linter-yaml-title-alias: "Infiltrator's Key (Awakened)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
-  - Infiltrator's Key (Awakened)
-linter-yaml-title-alias: Infiltrator's Key (Awakened)
+  - "Infiltrator's Key (Awakened)"
 ---
 # Infiltrator's Key (Awakened)
 *Wondrous item, legendary (requires attunement)*  

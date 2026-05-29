@@ -1,5 +1,6 @@
 ---
 Bezeichnung: River Styx
+linter-yaml-title-alias: River Styx
 tags:
   - Quelle/5e/xdmg
 aliases:

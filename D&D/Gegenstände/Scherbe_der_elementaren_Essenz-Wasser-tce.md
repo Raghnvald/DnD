@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elemental Essence Shard (Water)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Elemental Essence Shard (Water)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Elemental Essence Shard (Water)
-linter-yaml-title-alias: Elemental Essence Shard (Water)
 ---
 # Elemental Essence Shard (Water)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

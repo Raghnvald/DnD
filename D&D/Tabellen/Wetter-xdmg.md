@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Wetter
+linter-yaml-title-alias: Wetter
 tags:
   - Quelle/5e/xdmg
 aliases:
   - Weather
+  - Wetter
 ---
 # Wetter
 *Source: Dungeon Master's Guide (2024) p. 38* 

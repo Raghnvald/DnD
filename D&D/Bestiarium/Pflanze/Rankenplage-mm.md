@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rankenplage
+linter-yaml-title-alias: Rankenplage
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald
@@ -9,6 +10,7 @@ tags:
   - Monster/Typ/Pflanze
   - Quelle/5e/mm
 aliases:
+  - Rankenplage
   - Vine Blight
 ---
 # Rankenplage

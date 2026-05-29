@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fisher
+linter-yaml-title-alias: Fisher
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/gos

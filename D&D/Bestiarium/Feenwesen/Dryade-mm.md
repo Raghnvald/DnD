@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dryad
+linter-yaml-title-alias: Dryad
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

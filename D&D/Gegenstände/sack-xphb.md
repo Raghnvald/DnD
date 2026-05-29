@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sack
+linter-yaml-title-alias: Sack
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Sack
-linter-yaml-title-alias: Sack
 ---
 # Sack
 *Adventuring gear*  

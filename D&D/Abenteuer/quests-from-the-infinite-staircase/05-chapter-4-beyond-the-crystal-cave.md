@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Beyond the Crystal Cave"
+linter-yaml-title-alias: "Chapter 4: Beyond the Crystal Cave"
 tags:
   - Quelle/5e/qftis
 aliases:

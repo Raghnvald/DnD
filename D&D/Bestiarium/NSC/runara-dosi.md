@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Runara
+linter-yaml-title-alias: Runara
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dosi
 aliases:
   - Runara
-linter-yaml-title-alias: Runara
 ---
 # [Runara](3-Mechanics\CLI\bestiary\npc/runara-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 40*  

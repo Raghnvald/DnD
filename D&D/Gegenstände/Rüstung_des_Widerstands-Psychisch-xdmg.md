@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Psychic Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Psychic Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Psychic Resistance
   - Splint Armor of Psychic Resistance
   - Studded Leather Armor of Psychic Resistance
-linter-yaml-title-alias: Armor of Psychic Resistance
 ---
 # Armor of Psychic Resistance
 *Rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Replicate Magic Item
+linter-yaml-title-alias: Replicate Magic Item
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

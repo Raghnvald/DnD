@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fensir Devourer
+linter-yaml-title-alias: Fensir Devourer
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

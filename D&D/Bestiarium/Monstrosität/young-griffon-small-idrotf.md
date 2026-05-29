@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Griffon (Small)
+linter-yaml-title-alias: Young Griffon (Small)
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

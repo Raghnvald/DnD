@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hand Crossbow
+linter-yaml-title-alias: Hand Crossbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Hand Crossbow
-linter-yaml-title-alias: Hand Crossbow
 ---
 # Hand Crossbow
 *Weapon*  

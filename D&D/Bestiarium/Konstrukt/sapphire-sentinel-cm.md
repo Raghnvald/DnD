@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sapphire Sentinel
+linter-yaml-title-alias: Sapphire Sentinel
 tags:
   - Monster/Größe/Groß
   - Monster/HG/10

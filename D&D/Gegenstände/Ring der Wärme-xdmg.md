@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Warmth
+linter-yaml-title-alias: Ring of Warmth
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Warmth
-linter-yaml-title-alias: Ring of Warmth
 ---
 # Ring of Warmth
 *Ring, uncommon (requires attunement)*  

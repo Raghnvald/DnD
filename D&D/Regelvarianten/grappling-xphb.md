@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grappling
+linter-yaml-title-alias: Grappling
 tags:
   - Quelle/5e/xphb
 aliases:

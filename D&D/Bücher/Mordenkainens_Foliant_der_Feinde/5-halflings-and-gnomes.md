@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halflings and Gnomes
+linter-yaml-title-alias: Halflings and Gnomes
 tags:
   - Quelle/5e/mtf
 aliases:

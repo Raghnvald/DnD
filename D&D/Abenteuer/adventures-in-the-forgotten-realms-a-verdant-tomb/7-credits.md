@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/aitfr-avt
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Adventures in the Forgotten Realms: A Verdant Tomb* 

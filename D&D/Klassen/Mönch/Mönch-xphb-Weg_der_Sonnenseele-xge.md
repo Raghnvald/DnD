@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Sun Soul
+linter-yaml-title-alias: Way of the Sun Soul
 tags:
   - Klasse/Mönch/sun-soul
   - Quelle/5e/xge

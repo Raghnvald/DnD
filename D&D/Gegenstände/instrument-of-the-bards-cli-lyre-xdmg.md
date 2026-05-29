@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Cli Lyre
+linter-yaml-title-alias: Instrument of the Bards, Cli Lyre
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Instrument of the Bards, Cli Lyre
-linter-yaml-title-alias: Instrument of the Bards, Cli Lyre
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, rare (requires attunement by a bard)*  

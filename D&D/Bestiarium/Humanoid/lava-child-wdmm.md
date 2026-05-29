@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lava Child
+linter-yaml-title-alias: Lava Child
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

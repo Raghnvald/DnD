@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brain in a Jar
+linter-yaml-title-alias: Brain in a Jar
 tags:
   - Monster/Größe/Klein
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Brain in a Jar
-linter-yaml-title-alias: Brain in a Jar
 ---
 # [Brain in a Jar](3-Mechanics\CLI\bestiary\undead/brain-in-a-jar-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 278*  

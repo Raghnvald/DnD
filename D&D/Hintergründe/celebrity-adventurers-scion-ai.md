@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Celebrity Adventurer's Scion"
+linter-yaml-title-alias: "Celebrity Adventurer's Scion"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ai

@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fiendish Auger
+Image: token/fiendish-auger-pabtso.webp
+linter-yaml-title-alias: Fiendish Auger
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -9,7 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Fiendish Auger
-Image: token/fiendish-auger-pabtso.webp
 ---
 # Fiendish Auger
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  

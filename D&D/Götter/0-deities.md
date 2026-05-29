@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Deities
+linter-yaml-title-alias: Index of Deities
+aliases:
+  - Index of Deities
 ---
 # Index of Deities
 

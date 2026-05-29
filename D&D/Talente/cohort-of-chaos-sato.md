@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Cohort of Chaos
+linter-yaml-title-alias: Cohort of Chaos
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
   - "Cohort of Chaos"
+  - Cohort of Chaos
 ---
 # Cohort of Chaos
 *Source: Sigil and the Outlands p. 10*  

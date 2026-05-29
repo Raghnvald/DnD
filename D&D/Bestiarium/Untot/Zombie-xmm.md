@@ -10,6 +10,7 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Zombie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/planar
@@ -21,7 +22,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Zombie
-linter-yaml-title-alias: Zombie
 ---
 # [Zombie](3-Mechanics\CLI\bestiary\undead/zombie-xmm.md)
 *Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

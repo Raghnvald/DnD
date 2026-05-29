@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Types
+linter-yaml-title-alias: Guild Types
 tags:
   - Quelle/5e/tce
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sleep
+linter-yaml-title-alias: Sleep
 tags:
   - Quelle/5e/xge
 aliases:

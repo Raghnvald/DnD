@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Telepathic
+linter-yaml-title-alias: Telepathic
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

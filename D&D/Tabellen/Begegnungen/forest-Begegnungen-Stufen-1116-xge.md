@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forest Encounters (Levels 11—16)
+linter-yaml-title-alias: Forest Encounters (Levels 11—16)
 tags:
   - Quelle/5e/xge
 aliases:

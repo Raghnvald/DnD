@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Candlekeep
+linter-yaml-title-alias: Candlekeep
 tags:
   - Quelle/5e/cm
 aliases:

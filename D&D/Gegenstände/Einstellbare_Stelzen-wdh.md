@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Adjustable Stilts
+linter-yaml-title-alias: Adjustable Stilts
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/wdh
 aliases:
   - Adjustable Stilts
-linter-yaml-title-alias: Adjustable Stilts
 ---
 # Adjustable Stilts
 

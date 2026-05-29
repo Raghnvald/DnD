@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Naviask
+linter-yaml-title-alias: Naviask
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

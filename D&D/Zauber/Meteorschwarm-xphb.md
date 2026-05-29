@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Meteor Swarm
+linter-yaml-title-alias: Meteor Swarm
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -8,14 +14,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/9
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Meteor Swarm
-linter-yaml-title-alias: Meteor Swarm
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet Charm
+linter-yaml-title-alias: Izzet Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

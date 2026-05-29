@@ -2,17 +2,19 @@
 Bezeichnung: Kurzschwert
 Kategorie: Nahkampf-Kriegswaffe
 Schaden: 1W6 Stich
-Eigenschaften: Finesse, Leicht
+Eigenschaften:
+  - Finesse, Leicht
 Kst.: 10 GM
 Gew.: 1,0 kg
+linter-yaml-title-alias: Kurzschwert
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
+  - Kurzschwert
   - Shortsword
-linter-yaml-title-alias: Kurzschwert
 ---
 # Kurzschwert
 *Nahkampf-Kriegswaffe, gewöhnlich*

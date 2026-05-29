@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wizard Spells
+linter-yaml-title-alias: Wizard Spells
 tags:
   - Zauber/list/class/wizard
 aliases:

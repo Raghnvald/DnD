@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fear and Horror
+linter-yaml-title-alias: Fear and Horror
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Dream
+linter-yaml-title-alias: Dream
+classes:
+  - Bard
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/5
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Dream
-linter-yaml-title-alias: Dream
 ---
 # Dream
 *5th-level, Illusion*  

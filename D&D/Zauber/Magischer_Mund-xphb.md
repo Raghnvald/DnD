@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Magic Mouth
+linter-yaml-title-alias: Magic Mouth
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -12,17 +21,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Illusion
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Magic Mouth
-linter-yaml-title-alias: Magic Mouth
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

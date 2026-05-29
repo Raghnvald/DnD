@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sentient Gray Ooze
+linter-yaml-title-alias: Sentient Gray Ooze
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

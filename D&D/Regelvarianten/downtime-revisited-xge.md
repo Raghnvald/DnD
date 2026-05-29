@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Downtime Revisited
+linter-yaml-title-alias: Downtime Revisited
 tags:
   - Quelle/5e/xge
 aliases:

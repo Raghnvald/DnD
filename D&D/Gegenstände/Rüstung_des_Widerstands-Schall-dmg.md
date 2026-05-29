@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Thunder Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Thunder Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -24,7 +25,6 @@ aliases:
   - Spiked Armor of Thunder Resistance
   - Splint Armor of Thunder Resistance
   - Studded Leather Armor of Thunder Resistance
-linter-yaml-title-alias: Armor of Thunder Resistance
 ---
 # Armor of Thunder Resistance
 *Major, rare (requires attunement)*  

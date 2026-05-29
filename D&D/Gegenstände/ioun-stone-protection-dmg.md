@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Protection
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Protection
-linter-yaml-title-alias: Ioun Stone, Protection
 ---
 # Ioun Stone, Protection
 *Wondrous item, major, rare (requires attunement)*  

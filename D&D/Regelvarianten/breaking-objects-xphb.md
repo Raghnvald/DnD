@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Breaking Objects
+linter-yaml-title-alias: Breaking Objects
 tags:
   - Quelle/5e/xphb
 aliases:

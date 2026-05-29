@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorthok the Thunder Boar
+linter-yaml-title-alias: Gorthok the Thunder Boar
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dip
 aliases:
   - Gorthok the Thunder Boar
-linter-yaml-title-alias: Gorthok the Thunder Boar
 ---
 # [Gorthok the Thunder Boar](3-Mechanics\CLI\bestiary\npc/gorthok-the-thunder-boar-dip.md)
 *Source: Dragon of Icespire Peak p. 58*  

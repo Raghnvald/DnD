@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kiril Stoyanovich
+linter-yaml-title-alias: Kiril Stoyanovich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/cos
 aliases:
   - Kiril Stoyanovich
-linter-yaml-title-alias: Kiril Stoyanovich
 ---
 # Kiril Stoyanovich
 *Source: Curse of Strahd p. 203*  

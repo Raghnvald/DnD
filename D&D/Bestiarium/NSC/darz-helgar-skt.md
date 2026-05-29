@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darz Helgar
+linter-yaml-title-alias: Darz Helgar
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Darz Helgar
-linter-yaml-title-alias: Darz Helgar
 ---
 # [Darz Helgar](3-Mechanics\CLI\bestiary\npc/darz-helgar-skt.md)
 *Source: Storm King's Thunder p. 253*  

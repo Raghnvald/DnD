@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Topaz Dragon
+linter-yaml-title-alias: Topaz Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

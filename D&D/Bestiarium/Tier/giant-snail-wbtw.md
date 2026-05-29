@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Snail
+linter-yaml-title-alias: Giant Snail
 tags:
   - Quelle/5e/wbtw
   - ttrpg-cli/monster/cr/1-4
@@ -9,6 +10,7 @@ tags:
   - ttrpg-cli/monster/type/beast
 aliases:
   - "Giant Snail"
+  - Giant Snail
 ---
 # [Giant Snail](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 234*  

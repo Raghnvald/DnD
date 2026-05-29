@@ -7,7 +7,9 @@ Größe: Klein
 HG: "0"
 Habitat:
   - /
+Image: token/almiraj-toa.webp
 status: WIP
+linter-yaml-title-alias: Almiraj
 tags:
   - Monster/Größe/Klein
   - Monster/HG/0

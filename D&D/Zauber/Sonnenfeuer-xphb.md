@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Sunburst
+linter-yaml-title-alias: Sunburst
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,17 +20,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/8
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Sunburst
-linter-yaml-title-alias: Sunburst
 ---
 # Sunburst
 *8th-level, Evocation*  

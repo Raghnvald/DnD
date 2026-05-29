@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Athena
+linter-yaml-title-alias: Athena
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order

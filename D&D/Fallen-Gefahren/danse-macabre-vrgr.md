@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Danse Macabre
+linter-yaml-title-alias: Danse Macabre
 tags:
   - Kompendium/Bedrohung/haunt
   - Quelle/5e/vrgr

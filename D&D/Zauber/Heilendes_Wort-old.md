@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Heilendes Wort
 status: WIP
+linter-yaml-title-alias: Heilendes Wort
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -10,7 +11,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Healing Word
-linter-yaml-title-alias: Heilendes Wort
+  - Heilendes Wort
 ---
 # Heilendes Wort
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Hervorrufungszauber.webp#token)

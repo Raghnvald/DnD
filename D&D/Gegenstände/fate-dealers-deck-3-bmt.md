@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "+3 Fate Dealer's Deck"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "+3 Fate Dealer's Deck"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
-  - +3 Fate Dealer's Deck
-linter-yaml-title-alias: +3 Fate Dealer's Deck
+  - "+3 Fate Dealer's Deck"
 ---
 # +3 Fate Dealer's Deck
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  

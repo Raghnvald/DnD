@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spring Madness
+linter-yaml-title-alias: Spring Madness
 tags:
   - Quelle/5e/wdh
 aliases:

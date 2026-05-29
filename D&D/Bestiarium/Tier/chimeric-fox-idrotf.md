@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chimeric Fox
+linter-yaml-title-alias: Chimeric Fox
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

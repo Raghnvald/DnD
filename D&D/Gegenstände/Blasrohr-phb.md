@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blowgun
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Blowgun
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Blowgun
-linter-yaml-title-alias: Blowgun
 ---
 # Blowgun
 *Weapon*  

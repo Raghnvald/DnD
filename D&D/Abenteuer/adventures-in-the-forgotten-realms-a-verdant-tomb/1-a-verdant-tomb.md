@@ -1,9 +1,11 @@
 ---
 Bezeichnung: A Verdant Tomb
+linter-yaml-title-alias: A Verdant Tomb
 tags:
   - Quelle/5e/aitfr-avt
 aliases:
   - "A Verdant Tomb"
+  - A Verdant Tomb
 ---
 # A Verdant Tomb
 *Source: Adventures in the Forgotten Realms: A Verdant Tomb, p. 2* 

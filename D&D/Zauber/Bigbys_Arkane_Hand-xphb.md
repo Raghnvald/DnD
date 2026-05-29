@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Bigby's Hand"
+classes:
+  - Artificer
+  - Bard
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -17,16 +25,8 @@ tags:
   - Subklasse/the-fathomless
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer
-  - Bard
-  - Sorcerer
-  - Warlock (The Fathomless)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Bigby's Hand
-linter-yaml-title-alias: Bigby's Hand
+  - "Bigby's Hand"
 ---
 # Bigby's Hand
 *5th-level, Evocation*  

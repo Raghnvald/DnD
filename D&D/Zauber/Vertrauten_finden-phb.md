@@ -7,6 +7,12 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Vertrauten finden
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -20,14 +26,9 @@ tags:
   - Zauber/optfeature/pact-of-the-chain
   - Zauber/Ritual
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Find Familiar
-linter-yaml-title-alias: Vertrauten finden
+  - Vertrauten finden
 ---
 # Vertrauten finden
 _Beschwörung des 1. Grades (Ritual)_

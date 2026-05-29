@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "What's on the Menu Solution"
+linter-yaml-title-alias: "What's on the Menu Solution"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "What's on the Menu Solution"
   - What's on the Menu Solution
 ---
 # What's on the Menu Solution

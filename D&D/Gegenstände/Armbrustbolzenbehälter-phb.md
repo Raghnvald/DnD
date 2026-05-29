@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Armbrustbolzenbehälter
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Armbrustbolzenbehälter
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
+  - Armbrustbolzenbehälter
   - Crossbow Bolt Case
-linter-yaml-title-alias: Armbrustbolzenbehälter
 ---
 # Armbrustbolzenbehälter
 *Abenteuerausrüstung*

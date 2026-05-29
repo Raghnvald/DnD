@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Shining Smite
+linter-yaml-title-alias: Shining Smite
+classes:
+  - Artificer (Battle Smith)
+  - Paladin
+  - Warlock (The Hexblade)
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb
@@ -7,13 +12,8 @@ tags:
   - Subklasse/the-hexblade
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer (Battle Smith)
-  - Paladin
-  - Warlock (The Hexblade)
 aliases:
   - Shining Smite
-linter-yaml-title-alias: Shining Smite
 ---
 # Shining Smite
 *2nd-level, Transmutation*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Purple Dragon Commandant
+linter-yaml-title-alias: Purple Dragon Commandant
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Purple Dragon Commandant"
+  - Purple Dragon Commandant
 ---
 # Purple Dragon Commandant
 *Source: Forgotten Realms: Heroes of Faerûn p. 40*  

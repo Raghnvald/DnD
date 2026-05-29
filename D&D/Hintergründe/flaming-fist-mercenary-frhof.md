@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Flaming Fist Mercenary
+linter-yaml-title-alias: Flaming Fist Mercenary
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Flaming Fist Mercenary"
+  - Flaming Fist Mercenary
 ---
 # Flaming Fist Mercenary
 *Source: Forgotten Realms: Heroes of Faerûn p. 30*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silvanus
+linter-yaml-title-alias: Silvanus
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/faerunian

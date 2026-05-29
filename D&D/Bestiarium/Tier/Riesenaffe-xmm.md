@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Ape
+linter-yaml-title-alias: Giant Ape
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Wald

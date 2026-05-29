@@ -2,6 +2,7 @@
 Bezeichnung: Whisper
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
+linter-yaml-title-alias: Whisper
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Whisper
-linter-yaml-title-alias: Whisper
 ---
 # Whisper
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  

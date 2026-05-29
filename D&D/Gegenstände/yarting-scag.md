@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Yarting
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Yarting
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Yarting
-linter-yaml-title-alias: Yarting
 ---
 # Yarting
 *Instrument*  

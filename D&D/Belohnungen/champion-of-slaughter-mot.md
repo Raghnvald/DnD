@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of Slaughter
+linter-yaml-title-alias: Champion of Slaughter
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of Slaughter"
+  - Champion of Slaughter
 ---
 # Champion of Slaughter
 *Piety Trait*  

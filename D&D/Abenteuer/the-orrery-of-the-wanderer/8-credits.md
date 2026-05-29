@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/oow
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: The Orrery of the Wanderer* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dolphin
+linter-yaml-title-alias: Dolphin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

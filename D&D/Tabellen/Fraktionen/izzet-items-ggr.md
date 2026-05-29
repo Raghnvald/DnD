@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet Items
+linter-yaml-title-alias: Izzet Items
 tags:
   - Quelle/5e/ggr
 aliases:

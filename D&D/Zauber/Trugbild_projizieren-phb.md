@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Project Image
 Zaubergrad: 7
+linter-yaml-title-alias: Project Image
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Project Image
-linter-yaml-title-alias: Project Image
 ---
 # Project Image
 *7th-level, Illusion*  

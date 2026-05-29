@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Bronze Dragon; Bronze Dragon Ideals
+linter-yaml-title-alias: Creating a Bronze Dragon; Bronze Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

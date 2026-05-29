@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awa
+linter-yaml-title-alias: Awa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Awa
-linter-yaml-title-alias: Awa
 ---
 # [Awa](3-Mechanics\CLI\bestiary\npc/awa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 95*  

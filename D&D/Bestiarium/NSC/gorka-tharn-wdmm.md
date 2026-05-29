@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorka Tharn
+linter-yaml-title-alias: Gorka Tharn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Gorka Tharn
-linter-yaml-title-alias: Gorka Tharn
 ---
 # [Gorka Tharn](3-Mechanics\CLI\bestiary\npc/gorka-tharn-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 257*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Evasive Footwork
+linter-yaml-title-alias: Evasive Footwork
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

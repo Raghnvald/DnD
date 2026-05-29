@@ -5,9 +5,11 @@ Bezeichnung: Arcanaloth
 Kategorie: Unhold
 Größe: Mittelgroß
 HG: 12
-Habitat: Planar
+Habitat:
+  - Planar
 image: pictures/arcanaloth-2024.webp
 status: completed
+linter-yaml-title-alias: Arcanaloth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

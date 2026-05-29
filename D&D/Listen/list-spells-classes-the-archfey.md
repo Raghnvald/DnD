@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for The Archfey
+linter-yaml-title-alias: Spells for The Archfey
 tags:
   - Zauber/list/subclass/the-archfey
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Markham Southwell
+linter-yaml-title-alias: Markham Southwell
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Markham Southwell
-linter-yaml-title-alias: Markham Southwell
 ---
 # [Markham Southwell](3-Mechanics\CLI\bestiary\npc/markham-southwell-skt.md)
 *Source: Storm King's Thunder p. 248*  

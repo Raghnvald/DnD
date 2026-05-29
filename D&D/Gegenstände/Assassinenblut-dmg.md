@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Assassinenblut
 Kategorie: Gift
-Eigenschaften: Gift
+Eigenschaften:
+  - Gift
 Kst.: 150 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Assassinenblut
 tags:
   - Gegenstand/Ausrüstung/Gift
   - Gegenstand/Eigenschaft/Gift
@@ -11,7 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Assassin's Blood
-linter-yaml-title-alias: Assassinenblut
+  - Assassinenblut
 ---
 # Assassinenblut
 *Abenteuerausrüstung, Gift (Einnahme)*  

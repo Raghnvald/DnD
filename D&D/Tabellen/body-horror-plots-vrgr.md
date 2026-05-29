@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Body Horror Plots
+linter-yaml-title-alias: Body Horror Plots
 tags:
   - Quelle/5e/vrgr
 aliases:

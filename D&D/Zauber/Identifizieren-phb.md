@@ -7,6 +7,13 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: n/v
 Schaden: n/v
+linter-yaml-title-alias: Identifizieren
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Knowledge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/knowledge-domain
@@ -20,13 +27,8 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Knowledge Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
+  - Identifizieren
   - Identify
 ---
 # Identifizieren

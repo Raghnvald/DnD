@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grog Strongjaw
+linter-yaml-title-alias: Grog Strongjaw
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Grog Strongjaw
-linter-yaml-title-alias: Grog Strongjaw
 ---
 # [Grog Strongjaw](3-Mechanics\CLI\bestiary\npc/grog-strongjaw-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 261*  

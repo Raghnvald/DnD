@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Metamagic
+linter-yaml-title-alias: Metamagic
 tags:
   - Quelle/5e/phb
 aliases:

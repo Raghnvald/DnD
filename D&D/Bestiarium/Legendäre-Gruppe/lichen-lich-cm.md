@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lichen Lich
+linter-yaml-title-alias: Lichen Lich
 tags:
   - Monster/legendary-group
   - Quelle/5e/cm

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valenar Hound
+linter-yaml-title-alias: Valenar Hound
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

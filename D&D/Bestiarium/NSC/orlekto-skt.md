@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orlekto
+linter-yaml-title-alias: Orlekto
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Orlekto
-linter-yaml-title-alias: Orlekto
 ---
 # [Orlekto](3-Mechanics\CLI\bestiary\npc/orlekto-skt.md)
 *Source: Storm King's Thunder p. 256*  

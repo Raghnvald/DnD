@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gloom Stalker
+linter-yaml-title-alias: Gloom Stalker
 tags:
   - Klasse/Waldläufer/gloom-stalker
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Giant
+linter-yaml-title-alias: Fire Giant
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg

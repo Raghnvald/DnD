@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Giant Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Giant Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/bgg
 aliases:
   - Giant Trinket
-linter-yaml-title-alias: Giant Trinket
 ---
 # Giant Trinket
 *Adventuring gear*  

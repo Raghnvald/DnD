@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goliath Werebear
+linter-yaml-title-alias: Goliath Werebear
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

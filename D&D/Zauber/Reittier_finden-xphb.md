@@ -1,15 +1,15 @@
 ---
 Bezeichnung: Find Steed
+linter-yaml-title-alias: Find Steed
+classes:
+  - Paladin
 tags:
   - Klasse/paladin
   - Quelle/5e/xphb
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Paladin
 aliases:
   - Find Steed
-linter-yaml-title-alias: Find Steed
 ---
 # Find Steed
 *2nd-level, Conjuration*  

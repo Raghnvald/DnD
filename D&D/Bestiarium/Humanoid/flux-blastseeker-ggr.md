@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flux Blastseeker
+linter-yaml-title-alias: Flux Blastseeker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

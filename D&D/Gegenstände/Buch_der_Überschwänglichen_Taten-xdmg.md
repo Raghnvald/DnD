@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Book of Exalted Deeds
+linter-yaml-title-alias: Book of Exalted Deeds
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:
   - Book of Exalted Deeds
-linter-yaml-title-alias: Book of Exalted Deeds
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement)*  

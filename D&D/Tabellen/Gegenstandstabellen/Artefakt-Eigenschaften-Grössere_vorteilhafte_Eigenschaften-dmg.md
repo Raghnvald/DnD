@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Artefakt-Eigenschaften; Grössere vorteilhafte Eigenschaften
+linter-yaml-title-alias: Artefakt-Eigenschaften; Grössere vorteilhafte Eigenschaften
 tags:
   - Quelle/5e/dmg
 aliases:
+  - Artefakt-Eigenschaften; Grössere vorteilhafte Eigenschaften
   - Artifact Properties; Major Beneficial Properties
 ---
 # Artefakt-Eigenschaften; Grössere vorteilhafte Eigenschaften

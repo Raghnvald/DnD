@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Frost Giant Strength
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Frost Giant Strength
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Frost Giant Strength
-linter-yaml-title-alias: Potion of Frost Giant Strength
 ---
 # Potion of Frost Giant Strength
 *Potion, minor, rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Oath of Vengeance
+linter-yaml-title-alias: Spells for Oath of Vengeance
 tags:
   - Zauber/list/subclass/oath-of-vengeance
 aliases:

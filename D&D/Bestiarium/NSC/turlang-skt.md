@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Turlang
+linter-yaml-title-alias: Turlang
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Turlang
-linter-yaml-title-alias: Turlang
 ---
 # [Turlang](3-Mechanics\CLI\bestiary\npc/turlang-skt.md)
 *Source: Storm King's Thunder p. 107*  

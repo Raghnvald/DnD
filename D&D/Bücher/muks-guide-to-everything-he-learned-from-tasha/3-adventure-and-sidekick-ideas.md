@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adventure and Sidekick Ideas!
+linter-yaml-title-alias: Adventure and Sidekick Ideas!
 tags:
   - Quelle/5e/mgelft
 aliases:
   - "Adventure and Sidekick Ideas!"
+  - Adventure and Sidekick Ideas!
 ---
 # Adventure and Sidekick Ideas!
 *Source: Muk's Guide to Everything He Learned From Tasha, p. 30* 

@@ -7,6 +7,10 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Drawmij's Instant Summons"
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -14,12 +18,8 @@ tags:
   - Zauber/Grad/6
   - Zauber/Ritual
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
-  - Drawmij's Instant Summons
-linter-yaml-title-alias: Drawmij's Instant Summons
+  - "Drawmij's Instant Summons"
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

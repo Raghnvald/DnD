@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Karten der Illusionen
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Karten der Illusionen
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Deck of Illusions
-linter-yaml-title-alias: Karten der Illusionen
+  - Karten der Illusionen
 ---
 # Karten der Illusionen
 *Wundersamer Gegenstand, ungewöhnlich*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pit Trap
+linter-yaml-title-alias: Pit Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Branchala
+linter-yaml-title-alias: Branchala
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Branchala"
+  - Branchala
 ---
 # Branchala
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

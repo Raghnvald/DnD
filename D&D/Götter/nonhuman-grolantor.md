@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grolantor
+linter-yaml-title-alias: Grolantor
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/nonhuman

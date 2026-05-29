@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Silken Spite
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Silken Spite
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Silken Spite
-linter-yaml-title-alias: Silken Spite
 ---
 # Silken Spite
 *Weapon ([rapier](/3-Mechanics/CLI/items/rapier-xphb.md)), artifact (requires attunement)*  

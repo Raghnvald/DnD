@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bluetspur Adventures
+linter-yaml-title-alias: Bluetspur Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

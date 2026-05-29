@@ -9,6 +9,7 @@ Habitat:
   - Stadt
 image:
 status: WIP
+linter-yaml-title-alias: Barlgura
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

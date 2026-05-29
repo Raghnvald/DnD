@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ancient White Dragon
 Kategorie: Drache (Chromatisch)
 status: WIP
+linter-yaml-title-alias: Ancient White Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Arktis
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ancient White Dragon
-linter-yaml-title-alias: Ancient White Dragon
 ---
 # [Ancient White Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-white-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 330. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

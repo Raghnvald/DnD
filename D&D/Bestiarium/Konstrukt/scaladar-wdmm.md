@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scaladar
+linter-yaml-title-alias: Scaladar
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8

@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Detect Thoughts
 Zaubergrad: 2
+linter-yaml-title-alias: Detect Thoughts
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -11,16 +19,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
   - Detect Thoughts
-linter-yaml-title-alias: Detect Thoughts
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

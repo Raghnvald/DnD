@@ -7,6 +7,15 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d6 Feuer
+linter-yaml-title-alias: Brennende Hände
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Light Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fiend)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/light-domain
@@ -21,17 +30,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/optfeature/sweeping-cinder-strike
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Light Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fiend)
-  - Wizard
 aliases:
+  - Brennende Hände
   - Burning Hands
-linter-yaml-title-alias: Brennende Hände
 ---
 # Brennende Hände
 *Hervorrufung des 1. Grades*

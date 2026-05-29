@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Menacing Attack
+linter-yaml-title-alias: Menacing Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/phb

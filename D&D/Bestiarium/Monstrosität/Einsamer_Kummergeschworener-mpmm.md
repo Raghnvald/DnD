@@ -11,8 +11,9 @@ Habitat:
   - Stadt
   - Unterreich
   - Wüste
-image: token/lost-sorrowsworn.webp
+image: token/lost-sorrowsworn-mpmm.webp
 status: completed
+linter-yaml-title-alias: Einsamer Kummergeschworener
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -25,6 +26,7 @@ tags:
   - Quelle/5e/mpmm
   - Quelle/5e/veor
 aliases:
+  - Einsamer Kummergeschworener
   - Lonely Sorrowsworn
 ---
 # Einsamer Kummergeschworener

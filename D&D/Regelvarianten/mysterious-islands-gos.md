@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Mysterious Islands
+linter-yaml-title-alias: Mysterious Islands
 tags:
   - Quelle/5e/gos
 aliases:
   - "Mysterious Islands"
+  - Mysterious Islands
 ---
 # Mysterious Islands
 *Source: Ghosts of Saltmarsh p. 211* 

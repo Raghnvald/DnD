@@ -2,16 +2,16 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Iarno "Glasstab" Albrek'
+Image: token/iarno-glasstaff-albrek-pabtso.webp
+linter-yaml-title-alias: 'Iarno "Glasstab" Albrek'
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
-  - Monster/Typ/Humanoid/wizard
+  - Monster/Typ/Humanoid/Magier
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/pabtso
 aliases:
-  - Iarno "Glasstaff" Albrek
-Image: token/iarno-glasstaff-albrek-pabtso.webp
-linter-yaml-title-alias: Iarno "Glasstaff" Albrek
+  - 'Iarno "Glasstab" Albrek'
 ---
 # Iarno "Glasstab" Albrek
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  

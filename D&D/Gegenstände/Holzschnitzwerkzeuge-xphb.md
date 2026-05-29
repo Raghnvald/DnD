@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Woodcarver's Tools"
+linter-yaml-title-alias: "Woodcarver's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
 aliases:
   - "Woodcarver's Tools"
   - Woodcarver's Tools
-linter-yaml-title-alias: "Woodcarver's Tools"
 ---
 # Woodcarver's Tools
 *Artisan's tools*  

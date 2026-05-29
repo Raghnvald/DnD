@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Prismari Student
+linter-yaml-title-alias: Spells for Prismari Student
 tags:
   - ttrpg-cli/spell/list/background/prismari-student
 aliases:
   - "Spells for Prismari Student"
+  - Spells for Prismari Student
 ---
 # Spells for Prismari Student
 

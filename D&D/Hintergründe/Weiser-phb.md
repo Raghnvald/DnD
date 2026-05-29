@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sage
+linter-yaml-title-alias: Sage
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

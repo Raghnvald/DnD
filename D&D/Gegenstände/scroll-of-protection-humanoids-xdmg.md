@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Humanoids)
+linter-yaml-title-alias: Scroll of Protection (Humanoids)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Humanoids)
-linter-yaml-title-alias: Scroll of Protection (Humanoids)
 ---
 # Scroll of Protection (Humanoids)
 *Scroll, rare*  

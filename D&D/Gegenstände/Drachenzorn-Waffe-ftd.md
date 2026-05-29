@@ -1,6 +1,11 @@
 ---
 Bezeichnung: "Dragon's Wrath Weapon"
 Kategorie: Beliebige Waffe
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: "Dragon's Wrath Weapon"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
@@ -8,8 +13,7 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:
-  - Dragon's Wrath Weapon
-linter-yaml-title-alias: Dragon's Wrath Weapon
+  - "Dragon's Wrath Weapon"
 ---
 # Dragon's Wrath Weapon
 *(Requires attunement)*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Victor Vallakovich
+linter-yaml-title-alias: Victor Vallakovich
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Victor Vallakovich
-linter-yaml-title-alias: Victor Vallakovich
 ---
 # [Victor Vallakovich](3-Mechanics\CLI\bestiary\npc/victor-vallakovich-cos.md)
 *Source: Curse of Strahd p. 105*  

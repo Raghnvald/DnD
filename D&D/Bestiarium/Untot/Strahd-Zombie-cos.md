@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Strahd Zombie
+linter-yaml-title-alias: Strahd Zombie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Strahd Zombie
-linter-yaml-title-alias: Strahd Zombie
 ---
 # [Strahd Zombie](3-Mechanics\CLI\bestiary\undead/strahd-zombie-cos.md)
 *Source: Curse of Strahd p. 241*  

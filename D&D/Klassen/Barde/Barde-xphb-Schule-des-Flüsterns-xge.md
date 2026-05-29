@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Whispers
+linter-yaml-title-alias: College of Whispers
 tags:
   - Klasse/Barde/Schule-des-Flüsterns
   - Quelle/5e/xge
 aliases:
   - College of Whispers
-linter-yaml-title-alias: College of Whispers
 ---
 # College of Whispers
 *[Bard](Barde-xphb.md): Bard Subclass*  

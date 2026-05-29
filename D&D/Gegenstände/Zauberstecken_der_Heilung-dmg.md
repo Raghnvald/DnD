@@ -2,9 +2,11 @@
 Bezeichnung: Staff of Healing
 Kategorie: Zauberstecken
 Schaden: 1W6 Hieb
-Eigenschaften: Vielseitig (1W8)
+Eigenschaften:
+  - Vielseitig (1W8)
 Kst.: 4.000 GM
 Gew.: 2,0 kg
+linter-yaml-title-alias: Staff of Healing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -12,7 +14,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Staff of Healing
-linter-yaml-title-alias: Staff of Healing
 ---
 # Staff of Healing
 *Zauberstecken, sehr selten (erfordert Einstimmung durch einen Barden, Druiden oder Kleriker)*  

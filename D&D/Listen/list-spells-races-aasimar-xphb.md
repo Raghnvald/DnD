@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Aasimar
+linter-yaml-title-alias: Spells for Aasimar
 tags:
   - Zauber/list/race/aasimar
 aliases:

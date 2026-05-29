@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Great Weapon Fighting
+linter-yaml-title-alias: Great Weapon Fighting
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

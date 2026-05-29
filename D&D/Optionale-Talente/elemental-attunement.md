@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Attunement
+linter-yaml-title-alias: Elemental Attunement
 tags:
   - Kompendium/Optionales/ed
   - Quelle/5e/phb

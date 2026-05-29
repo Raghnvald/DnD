@@ -1,17 +1,20 @@
 ---
 Bezeichnung: Armbrustbolzen
 Kategorie: Munition
-Eigenschaften: Munition
+Eigenschaften:
+  - Munition
 Kst.: 5 KM
 Gew.: 0,0375 kg
+status: WIP
+linter-yaml-title-alias: Armbrustbolzen
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - Armbrustbolzen
   - Crossbow Bolt
-linter-yaml-title-alias: Armbrustbolzen
 ---
 # Armbrustbolzen
 *Munition* 

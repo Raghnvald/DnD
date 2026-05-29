@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lizardfolk
+linter-yaml-title-alias: Lizardfolk
 tags:
   - Quelle/5e/dmg
   - Rasse/lizardfolk

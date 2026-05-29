@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Anstruth Harp
+linter-yaml-title-alias: Instrument of the Bards, Anstruth Harp
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Instrument of the Bards, Anstruth Harp
-linter-yaml-title-alias: Instrument of the Bards, Anstruth Harp
 ---
 # Instrument of the Bards, Anstruth Harp
 *Wondrous item, very rare (requires attunement by a bard)*  

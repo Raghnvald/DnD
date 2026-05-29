@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Starshot Crossbow
 Kategorie: Beliebig, Armbrust
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Starshot Crossbow
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -15,7 +20,6 @@ aliases:
   - Starshot Heavy Crossbow
   - Starshot Light Crossbow
   - Starshot Light Repeating Crossbow
-linter-yaml-title-alias: Starshot Crossbow
 ---
 # Starshot Crossbow
 *Rare (requires attunement)*  

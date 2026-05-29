@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Running the Adventure
+linter-yaml-title-alias: Running the Adventure
 tags:
   - Quelle/5e/dip
 aliases:

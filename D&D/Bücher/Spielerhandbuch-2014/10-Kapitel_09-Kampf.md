@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Combat
+linter-yaml-title-alias: Combat
 tags:
   - Quelle/5e/phb
 aliases:

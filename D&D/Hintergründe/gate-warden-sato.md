@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gate Warden
+linter-yaml-title-alias: Gate Warden
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/sato
 aliases:
   - "Gate Warden"
+  - Gate Warden
 ---
 # Gate Warden
 *Source: Sigil and the Outlands p. 7*  

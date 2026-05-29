@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Health
+linter-yaml-title-alias: Blessing of Health
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/xdmg

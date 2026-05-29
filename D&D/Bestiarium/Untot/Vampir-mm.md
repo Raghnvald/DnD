@@ -9,6 +9,7 @@ Habitat:
   - Stadt
 image:
 status: completed
+linter-yaml-title-alias: Vampir
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -16,8 +17,7 @@ tags:
   - Monster/Typ/Untote/shapechanger
   - Quelle/5e/mm
 aliases:
-  - Vampire
-linter-yaml-title-alias: Vampire
+  - Vampir
 ---
 # Vampir
 *Quelle: Monsterhandbuch S. 294. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

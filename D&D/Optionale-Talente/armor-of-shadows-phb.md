@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Shadows
+linter-yaml-title-alias: Armor of Shadows
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Viktal; Sights in Viktal
+linter-yaml-title-alias: Welcome to Viktal; Sights in Viktal
 tags:
   - Quelle/5e/vrgr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halaster Blackcloak
+linter-yaml-title-alias: Halaster Blackcloak
 tags:
   - Monster/legendary-group
   - Quelle/5e/wdmm

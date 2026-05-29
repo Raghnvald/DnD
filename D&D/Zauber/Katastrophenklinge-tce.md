@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Blade of Disaster
 Zaubergrad: 9
+linter-yaml-title-alias: Blade of Disaster
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/tce
   - Zauber/Grad/9
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Blade of Disaster
-linter-yaml-title-alias: Blade of Disaster
 ---
 # Blade of Disaster
 *9th-level, Conjuration*  

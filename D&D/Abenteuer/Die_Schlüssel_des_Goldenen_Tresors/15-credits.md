@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Keys from the Golden Vault* 

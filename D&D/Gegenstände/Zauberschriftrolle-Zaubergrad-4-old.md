@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 4)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 4.000 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 4)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (4th Level)
   - Zauberschriftrolle (Zaubergrad 4)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 4)
 ---
 # Zauberschriftrolle (Zaubergrad 4)
 *Schriftrolle, selten*  

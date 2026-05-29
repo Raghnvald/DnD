@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Serpentine Owl
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Figurine of Wondrous Power, Serpentine Owl
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - Figurine of Wondrous Power, Serpentine Owl
-linter-yaml-title-alias: Figurine of Wondrous Power, Serpentine Owl
 ---
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous item, major, rare*  

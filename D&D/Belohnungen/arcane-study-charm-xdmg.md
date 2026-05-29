@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Study Charm
+linter-yaml-title-alias: Arcane Study Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

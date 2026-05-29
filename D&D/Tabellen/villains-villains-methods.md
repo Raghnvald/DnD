@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Villains; Villain's Methods"
+linter-yaml-title-alias: "Villains; Villain's Methods"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Villains; Villain's Methods"
   - Villains; Villain's Methods
 ---
 # Villains; Villain's Methods

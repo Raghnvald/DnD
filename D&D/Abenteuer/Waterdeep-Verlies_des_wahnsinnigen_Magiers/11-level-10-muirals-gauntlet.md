@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 10: Muiral's Gauntlet"
+linter-yaml-title-alias: "Level 10: Muiral's Gauntlet"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 10: Muiral's Gauntlet"
   - Level 10: Muiral's Gauntlet
 ---
 # Level 10: Muiral's Gauntlet

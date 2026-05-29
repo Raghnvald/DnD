@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Deck of Oracles
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Deck of Oracles
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bmt
 aliases:
   - Deck of Oracles
-linter-yaml-title-alias: Deck of Oracles
 ---
 # Deck of Oracles
 *Wondrous item, rare (requires attunement)*  

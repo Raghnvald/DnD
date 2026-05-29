@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Guardian of Faith
 Zaubergrad: 4
+linter-yaml-title-alias: Guardian of Faith
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Light Domain)
+  - Paladin (Oath of Devotion)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -10,15 +17,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Cleric (Light Domain)
-  - Paladin (Oath of Devotion)
 aliases:
   - Guardian of Faith
-linter-yaml-title-alias: Guardian of Faith
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

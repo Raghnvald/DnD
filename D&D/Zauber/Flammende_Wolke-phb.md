@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Incendiary Cloud
 Zaubergrad: 8
+linter-yaml-title-alias: Incendiary Cloud
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Incendiary Cloud
-linter-yaml-title-alias: Incendiary Cloud
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  

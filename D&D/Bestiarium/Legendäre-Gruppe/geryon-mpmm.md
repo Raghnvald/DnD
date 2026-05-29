@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Geryon
+linter-yaml-title-alias: Geryon
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm

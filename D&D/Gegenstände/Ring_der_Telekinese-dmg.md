@@ -1,19 +1,22 @@
 ---
-Bezeichnung: Ring of Telekinesis
+Bezeichnung: Ring der Telekinese
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring der Telekinese
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Telekinesis
-linter-yaml-title-alias: Ring of Telekinesis
+  - Ring der Telekinese
 ---
-# Ring of Telekinesis
-*Ring, major, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-telekinesis.webp#right)
+# Ring der Telekinese
+*Ring, sehr selten (benötigt Einstimmung)*  
+![](img/ring-of-telekinesis.webp#right)
 
-While wearing this ring, you can cast the [telekinesis](/3-Mechanics/CLI/spells/telekinesis.md) spell at will, but you can target only objects that aren't being worn or carried.
+Während du diesen Ring trägst, kannst du nach Belieben den Zauber [[Telekinese-phb|Telekinese]] wirken, solange du keine Objekte als Ziel wählst, die jemand bei sich oder am Körper trägt.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gloves of Swimming and Climbing
+linter-yaml-title-alias: Gloves of Swimming and Climbing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Gloves of Swimming and Climbing
-linter-yaml-title-alias: Gloves of Swimming and Climbing
 ---
 # Gloves of Swimming and Climbing
 *Wondrous item, uncommon (requires attunement)*  

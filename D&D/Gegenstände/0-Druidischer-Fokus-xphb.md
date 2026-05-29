@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Druidischer Fokus
+linter-yaml-title-alias: Druidischer Fokus
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Druidic Focus
-linter-yaml-title-alias: Druidischer Fokus
+  - Druidischer Fokus
 ---
 # Druidischer Fokus
 *Zauberfokus*

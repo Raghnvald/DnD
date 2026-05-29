@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thwad Underbrew
+linter-yaml-title-alias: Thwad Underbrew
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Thwad Underbrew
-linter-yaml-title-alias: Thwad Underbrew
 ---
 # [Thwad Underbrew](3-Mechanics\CLI\bestiary\npc/thwad-underbrew-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 204*  

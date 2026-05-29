@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Battle Smith
+linter-yaml-title-alias: Battle Smith
 tags:
   - Klasse/Artifizient/battle-smith
   - Quelle/5e/tce

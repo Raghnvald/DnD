@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kruphix's Devotee"
+linter-yaml-title-alias: "Kruphix's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

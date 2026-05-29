@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Modify Total XP for Multiple Monsters; Encounter Multipliers
+linter-yaml-title-alias: Modify Total XP for Multiple Monsters; Encounter Multipliers
 tags:
   - Quelle/5e/dmg
 aliases:

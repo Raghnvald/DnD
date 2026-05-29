@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Item Values by Rarity; Magic Item Rarities and Values
+linter-yaml-title-alias: Magic Item Values by Rarity; Magic Item Rarities and Values
 tags:
   - Quelle/5e/xdmg
 aliases:

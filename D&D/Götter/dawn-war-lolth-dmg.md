@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lolth
+linter-yaml-title-alias: Lolth
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/trickery

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mournland Villains
+linter-yaml-title-alias: Mournland Villains
 tags:
   - Quelle/5e/erlw
 aliases:

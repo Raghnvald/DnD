@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Sanctuary
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Peace Domain)
+  - Paladin (Oath of Redemption)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -21,18 +31,8 @@ tags:
   - Subklasse/the-genie/dao
   - Zauber/Grad/1
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Peace Domain)
-  - Paladin (Oath of Redemption)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Genie, Dao)
 aliases:
   - Sanctuary
-linter-yaml-title-alias: Sanctuary
 ---
 # Sanctuary
 *1st-level, Abjuration*  

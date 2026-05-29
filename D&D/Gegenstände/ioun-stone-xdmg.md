@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone
+linter-yaml-title-alias: Ioun Stone
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone
-linter-yaml-title-alias: Ioun Stone
 ---
 # Ioun Stone
 *Wondrous item (requires attunement)*  

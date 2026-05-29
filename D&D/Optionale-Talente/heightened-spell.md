@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heightened Spell
+linter-yaml-title-alias: Heightened Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/phb

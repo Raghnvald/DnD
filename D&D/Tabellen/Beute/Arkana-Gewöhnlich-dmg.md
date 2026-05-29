@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcana - Common
+linter-yaml-title-alias: Arcana - Common
 tags:
   - Quelle/5e/xdmg
 aliases:

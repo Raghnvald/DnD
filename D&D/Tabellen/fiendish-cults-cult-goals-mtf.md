@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiendish Cults; Cult Goals
+linter-yaml-title-alias: Fiendish Cults; Cult Goals
 tags:
   - Quelle/5e/mtf
 aliases:

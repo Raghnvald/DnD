@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Anarch
+linter-yaml-title-alias: Gruul Anarch
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

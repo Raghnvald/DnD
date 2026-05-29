@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sinda berries (10)
+linter-yaml-title-alias: Sinda berries (10)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/toa
 aliases:
   - Sinda berries (10)
-linter-yaml-title-alias: Sinda berries (10)
 ---
 # Sinda berries (10)
 *Adventuring gear*  

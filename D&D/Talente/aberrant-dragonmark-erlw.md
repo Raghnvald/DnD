@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aberrant Dragonmark
+linter-yaml-title-alias: Aberrant Dragonmark
 tags:
   - Kompendium/Talent
   - Quelle/5e/erlw

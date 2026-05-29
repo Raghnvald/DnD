@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lords' Alliance Vassal"
+linter-yaml-title-alias: "Lords' Alliance Vassal"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof

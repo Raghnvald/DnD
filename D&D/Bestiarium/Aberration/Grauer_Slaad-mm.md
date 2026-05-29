@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 9
 status: WIP
+linter-yaml-title-alias: Grauer Slaad
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -13,6 +14,7 @@ tags:
   - Monster/Typ/Aberration/Gestaltwandler
   - Quelle/5e/mm
 aliases:
+  - Grauer Slaad
   - Gray Slaad
 ---
 # Grauer Slaad

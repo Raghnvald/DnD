@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Krone der Lügen "
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Krone der Lügen "
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/veor
 aliases:
-  - Crown of Lies
-linter-yaml-title-alias: Crown of Lies
+  - "Krone der Lügen "
 ---
 # Krone der Lügen 
 *Wundersamer Gegenstand, Artefakt (erfordert Einstimmung)*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Shard of the Accursed
+linter-yaml-title-alias: Shard of the Accursed
 tags:
   - Quelle/5e/kftgv
 aliases:
   - "Shard of the Accursed"
+  - Shard of the Accursed
 ---
 # Shard of the Accursed
 *Source: Keys from the Golden Vault, p. 133* 

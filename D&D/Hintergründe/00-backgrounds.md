@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Backgrounds
+linter-yaml-title-alias: Index of Backgrounds
+aliases:
+  - Index of Backgrounds
 ---
 # Index of Backgrounds
 

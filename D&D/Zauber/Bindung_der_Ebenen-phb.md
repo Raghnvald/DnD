@@ -6,6 +6,12 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Planar Binding
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,14 +20,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Wizard
 aliases:
   - Planar Binding
-linter-yaml-title-alias: Planar Binding
 ---
 # Planar Binding
 *5th-level, Abjuration*  

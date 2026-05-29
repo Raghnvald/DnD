@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dol Dorn
+linter-yaml-title-alias: Dol Dorn
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/eberron

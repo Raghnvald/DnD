@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shambling Mound
+linter-yaml-title-alias: Shambling Mound
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Sumpf

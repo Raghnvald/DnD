@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Rashemi Wanderer
+linter-yaml-title-alias: Rashemi Wanderer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Rashemi Wanderer"
+  - Rashemi Wanderer
 ---
 # Rashemi Wanderer
 *Source: Forgotten Realms: Heroes of Faerûn p. 35*  

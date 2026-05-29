@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith
+linter-yaml-title-alias: Gith
 tags:
   - Quelle/5e/mtf
   - Rasse/gith

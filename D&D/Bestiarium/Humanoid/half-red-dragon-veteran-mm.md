@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Half-Red Dragon Veteran
+linter-yaml-title-alias: Half-Red Dragon Veteran
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/mm
 aliases:
   - Half-Red Dragon Veteran

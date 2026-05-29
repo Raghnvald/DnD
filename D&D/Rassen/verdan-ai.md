@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Verdan
+linter-yaml-title-alias: Verdan
 tags:
   - Quelle/5e/ai
   - Rasse/verdan
 aliases:
   - "Verdan"
+  - Verdan
 ---
 # Verdan
 *Source: Acquisitions Incorporated p. 72*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 3)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 400 GM
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 3)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (3rd Level)
   - Zauberschriftrolle (Zaubergrad 3)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 3)
 ---
 # Zauberschriftrolle (Zaubergrad 3)
 *Schriftrolle, ungewöhnlich*  

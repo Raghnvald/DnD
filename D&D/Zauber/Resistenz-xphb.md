@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Resistance
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Nature Domain)
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde/Schule-des-Wissens
@@ -23,16 +31,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Nature Domain)
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Resistance
-linter-yaml-title-alias: Resistance
 ---
 # Resistance
 *cantrip, Abjuration*  

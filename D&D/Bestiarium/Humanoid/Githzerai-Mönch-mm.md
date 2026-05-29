@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githzerai Monk
+linter-yaml-title-alias: Githzerai Monk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

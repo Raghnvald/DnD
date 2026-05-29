@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Flour
+linter-yaml-title-alias: Flour
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Flour
-linter-yaml-title-alias: Flour
 ---
 # Flour
 *Trade good*  

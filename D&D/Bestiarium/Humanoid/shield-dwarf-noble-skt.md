@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shield Dwarf Noble
+linter-yaml-title-alias: Shield Dwarf Noble
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

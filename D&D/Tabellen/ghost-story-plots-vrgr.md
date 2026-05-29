@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghost Story Plots
+linter-yaml-title-alias: Ghost Story Plots
 tags:
   - Quelle/5e/vrgr
 aliases:

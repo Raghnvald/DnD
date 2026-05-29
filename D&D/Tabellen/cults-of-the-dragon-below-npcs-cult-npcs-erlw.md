@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cults of the Dragon Below NPCs; Cult NPCs
+linter-yaml-title-alias: Cults of the Dragon Below NPCs; Cult NPCs
 tags:
   - Quelle/5e/erlw
 aliases:

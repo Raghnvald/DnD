@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Goblin (Dankwood)
+linter-yaml-title-alias: Goblin (Dankwood)
 tags:
   - Quelle/5e/awm
   - Rasse/goblin/dankwood
 aliases:
   - "Goblin (Dankwood)"
+  - Goblin (Dankwood)
 ---
 # Goblin (Dankwood)
 *Source: Adventure with Muk p. 35*  

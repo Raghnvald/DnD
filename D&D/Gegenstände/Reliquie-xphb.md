@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Reliquary
+linter-yaml-title-alias: Reliquary
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Reliquary
-linter-yaml-title-alias: Reliquary
 ---
 # Reliquary
 *Spellcasting focus*  

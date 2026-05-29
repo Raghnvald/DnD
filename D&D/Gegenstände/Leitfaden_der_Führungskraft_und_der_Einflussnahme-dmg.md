@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Tome of Leadership and Influence
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Tome of Leadership and Influence
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Tome of Leadership and Influence
-linter-yaml-title-alias: Tome of Leadership and Influence
 ---
 # Tome of Leadership and Influence
 *Wondrous item, major, very rare*  

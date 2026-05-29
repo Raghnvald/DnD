@@ -2,20 +2,21 @@
 Bezeichnung: Rüstung der Verwundbarkeit (Hieb)
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: erfordert Einstimmung
-Kst.: n/v
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+linter-yaml-title-alias: Rüstung der Verwundbarkeit (Hieb)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
-  - Armor of Vulnerability (Slashing)
-linter-yaml-title-alias: Armor of Vulnerability (Slashing)
+  - Rüstung der Verwundbarkeit (Hieb)
 ---
 # Rüstung der Verwundbarkeit (Hieb)
 Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)

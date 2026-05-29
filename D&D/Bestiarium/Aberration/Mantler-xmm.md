@@ -5,6 +5,7 @@ Bezeichnung: Cloaker
 Kategorie: Aberration
 Größe: Groß
 HG: 8
+linter-yaml-title-alias: Cloaker
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

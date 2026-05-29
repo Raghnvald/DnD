@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Droaam Adventure Hooks
+linter-yaml-title-alias: Droaam Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

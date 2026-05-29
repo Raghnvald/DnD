@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Fool Card
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Fool Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Fool Card
-linter-yaml-title-alias: Fool Card
 ---
 # Fool Card
 *Wondrous item, legendary*  

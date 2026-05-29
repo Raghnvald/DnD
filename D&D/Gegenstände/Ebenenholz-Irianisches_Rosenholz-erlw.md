@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Imbued Wood (Irian Rosewood)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Imbued Wood (Irian Rosewood)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -13,7 +19,6 @@ aliases:
   - Irian Rosewood Rod
   - Irian Rosewood Staff
   - Irian Rosewood Wand
-linter-yaml-title-alias: Imbued Wood (Irian Rosewood)
 ---
 # Imbued Wood (Irian Rosewood)
 *Wondrous item, common (requires attunement)*  

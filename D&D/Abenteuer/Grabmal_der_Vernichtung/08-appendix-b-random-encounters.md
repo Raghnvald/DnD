@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Random Encounters"
+linter-yaml-title-alias: "Appendix B: Random Encounters"
 tags:
   - Quelle/5e/toa
 aliases:
+  - "Appendix B: Random Encounters"
   - Appendix B: Random Encounters
 ---
 # Appendix B: Random Encounters

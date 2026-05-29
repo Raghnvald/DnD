@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Evocation Spells
+linter-yaml-title-alias: Evocation Spells
 tags:
   - Zauber/list/school/evocation
 aliases:

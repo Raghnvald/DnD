@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Grimoire Infinitus (Dormant)
+linter-yaml-title-alias: Grimoire Infinitus (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:
   - Grimoire Infinitus (Dormant)
-linter-yaml-title-alias: Grimoire Infinitus (Dormant)
 ---
 # Grimoire Infinitus (Dormant)
 *Wondrous item, legendary (requires attunement by a wizard)*  

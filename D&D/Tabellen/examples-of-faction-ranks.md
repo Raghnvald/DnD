@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Examples of Faction Ranks
+linter-yaml-title-alias: Examples of Faction Ranks
 tags:
   - Quelle/5e/dmg
 aliases:

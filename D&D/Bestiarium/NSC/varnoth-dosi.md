@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Varnoth
+linter-yaml-title-alias: Varnoth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/dosi
 aliases:
   - Varnoth
-linter-yaml-title-alias: Varnoth
 ---
 # [Varnoth](3-Mechanics\CLI\bestiary\npc/varnoth-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/tftyp-toh
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: Tales from the Yawning Portal: Tomb of Horrors, p. 4* 

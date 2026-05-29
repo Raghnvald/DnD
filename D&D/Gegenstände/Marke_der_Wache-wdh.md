@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Badge of the Watch
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Badge of the Watch
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Badge of the Watch
-linter-yaml-title-alias: Badge of the Watch
 ---
 # Badge of the Watch
 *Wondrous item, rare (requires attunement)*  

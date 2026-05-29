@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Malyk
+linter-yaml-title-alias: Malyk
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/Domäne/trickery

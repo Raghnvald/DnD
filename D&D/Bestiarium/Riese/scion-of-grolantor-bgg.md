@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scion of Grolantor
+linter-yaml-title-alias: Scion of Grolantor
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/22

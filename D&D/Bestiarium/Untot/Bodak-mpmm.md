@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bodak
+linter-yaml-title-alias: Bodak
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Bodak
-linter-yaml-title-alias: Bodak
 ---
 # [Bodak](3-Mechanics\CLI\bestiary\undead/bodak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64*  

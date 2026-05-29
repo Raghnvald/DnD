@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Cape of the Mountebank
+linter-yaml-title-alias: Cape of the Mountebank
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Cape of the Mountebank
-linter-yaml-title-alias: Cape of the Mountebank
 ---
 # Cape of the Mountebank
 *Wondrous item, rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Equipment
+linter-yaml-title-alias: Equipment
 tags:
   - Quelle/5e/phb
 aliases:

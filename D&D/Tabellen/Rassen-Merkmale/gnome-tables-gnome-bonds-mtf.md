@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome Tables; Gnome Bonds
+linter-yaml-title-alias: Gnome Tables; Gnome Bonds
 tags:
   - Quelle/5e/mtf
 aliases:

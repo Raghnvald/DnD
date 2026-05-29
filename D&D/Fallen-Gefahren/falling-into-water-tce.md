@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falling into Water
+linter-yaml-title-alias: Falling into Water
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/tce

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Sovereign Glue
+linter-yaml-title-alias: Sovereign Glue
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Sovereign Glue
-linter-yaml-title-alias: Sovereign Glue
 ---
 # Sovereign Glue
 *Wondrous item, legendary*  

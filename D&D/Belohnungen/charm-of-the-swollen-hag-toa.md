@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Swollen Hag
+linter-yaml-title-alias: Charm of the Swollen Hag
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/toa

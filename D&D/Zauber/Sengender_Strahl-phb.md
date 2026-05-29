@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Scorching Ray
 Zaubergrad: 2
+linter-yaml-title-alias: Scorching Ray
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Light Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fiend)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/light-domain
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Light Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fiend)
-  - Wizard
 aliases:
   - Scorching Ray
-linter-yaml-title-alias: Scorching Ray
 ---
 # Scorching Ray
 *2nd-level, Evocation*  

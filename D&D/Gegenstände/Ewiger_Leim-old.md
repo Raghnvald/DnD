@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Ewiger Leim
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Ewiger Leim
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Ewiger Leim
   - Sovereign Glue
 ---
 # Ewiger Leim

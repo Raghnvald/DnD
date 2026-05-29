@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Spirits of the Past
+linter-yaml-title-alias: The Spirits of the Past
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/war

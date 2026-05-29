@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir Operative
+linter-yaml-title-alias: Dimir Operative
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ggr

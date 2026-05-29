@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Emerald Claw Adventure Hooks
+linter-yaml-title-alias: Emerald Claw Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

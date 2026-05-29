@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cloves
+linter-yaml-title-alias: Cloves
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Cloves
-linter-yaml-title-alias: Cloves
 ---
 # Cloves
 *Trade good*  

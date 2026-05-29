@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skullport
+linter-yaml-title-alias: Skullport
 tags:
   - Quelle/5e/wdmm
 aliases:

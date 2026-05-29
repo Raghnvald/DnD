@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Merfolk (Zendikar; Emeria Creed)
+linter-yaml-title-alias: Merfolk (Zendikar; Emeria Creed)
 tags:
   - Quelle/5e/psz
   - Rasse/merfolk/zendikar-emeria-creed
 aliases:
   - "Merfolk (Zendikar; Emeria Creed)"
+  - Merfolk (Zendikar; Emeria Creed)
 ---
 # Merfolk (Zendikar; Emeria Creed)
 *Source: Plane Shift: Zendikar p. 13*  

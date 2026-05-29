@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Mind Blank
 Zaubergrad: 8
+linter-yaml-title-alias: Mind Blank
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Mind Blank
-linter-yaml-title-alias: Mind Blank
 ---
 # Mind Blank
 *8th-level, Abjuration*  

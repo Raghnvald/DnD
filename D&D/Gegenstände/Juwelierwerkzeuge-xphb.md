@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Jeweler's Tools"
+linter-yaml-title-alias: "Jeweler's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Jeweler's Tools
-linter-yaml-title-alias: Jeweler's Tools
+  - "Jeweler's Tools"
 ---
 # Jeweler's Tools
 *Artisan's tools*  

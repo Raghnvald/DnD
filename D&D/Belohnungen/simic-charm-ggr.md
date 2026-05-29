@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Charm
+linter-yaml-title-alias: Simic Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

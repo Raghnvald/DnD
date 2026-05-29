@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
+linter-yaml-title-alias: "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
   - Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
 ---
 # Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations

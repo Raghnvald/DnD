@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Elven Trinket
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Elven Trinket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/mtf
 aliases:
   - Elven Trinket
-linter-yaml-title-alias: Elven Trinket
 ---
 # Elven Trinket
 *Adventuring gear*  

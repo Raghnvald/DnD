@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Investment of the Chain Master
+linter-yaml-title-alias: Investment of the Chain Master
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

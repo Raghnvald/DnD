@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Skill
+linter-yaml-title-alias: Boon of Skill
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

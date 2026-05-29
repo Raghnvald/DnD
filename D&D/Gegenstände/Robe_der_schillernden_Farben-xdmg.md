@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Robe of Scintillating Colors
+linter-yaml-title-alias: Robe of Scintillating Colors
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Robe of Scintillating Colors
-linter-yaml-title-alias: Robe of Scintillating Colors
 ---
 # Robe of Scintillating Colors
 *Wondrous item, very rare (requires attunement)*  

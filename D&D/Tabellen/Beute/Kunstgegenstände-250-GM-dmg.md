@@ -1,8 +1,10 @@
 ---
 Bezeichnung: 250 GM Kunstgegenstände
+linter-yaml-title-alias: 250 GM Kunstgegenstände
 tags:
   - Quelle/5e/dmg
 aliases:
+  - 250 GM Kunstgegenstände
   - 250 gp Art Objects
 ---
 # 250 GM Kunstgegenstände

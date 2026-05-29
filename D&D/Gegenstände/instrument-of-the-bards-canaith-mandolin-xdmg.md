@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Canaith Mandolin
+linter-yaml-title-alias: Instrument of the Bards, Canaith Mandolin
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Instrument of the Bards, Canaith Mandolin
-linter-yaml-title-alias: Instrument of the Bards, Canaith Mandolin
 ---
 # Instrument of the Bards, Canaith Mandolin
 *Wondrous item, rare (requires attunement by a bard)*  

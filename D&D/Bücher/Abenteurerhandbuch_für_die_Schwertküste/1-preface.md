@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Preface
+linter-yaml-title-alias: Preface
 tags:
   - Quelle/5e/scag
 aliases:

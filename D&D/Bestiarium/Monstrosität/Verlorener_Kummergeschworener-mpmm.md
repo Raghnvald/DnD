@@ -13,8 +13,9 @@ Habitat:
   - Unterreich
   - Wald
   - Wüste
-image: token/lost-sorrowsworn.webp
+image: token/lost-sorrowsworn-mpmm.webp
 status: completed
+linter-yaml-title-alias: Verlorener Kummergeschworener
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
@@ -30,6 +31,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Lost Sorrowsworn
+  - Verlorener Kummergeschworener
 ---
 # Verlorener Kummergeschworener
 *Quelle: Mordenkainen präsentiert: Monster des Multiversums S. 167*  

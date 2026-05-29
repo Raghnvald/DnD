@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swarmkeeper
+linter-yaml-title-alias: Swarmkeeper
 tags:
   - Klasse/Waldläufer/swarmkeeper
   - Quelle/5e/tce

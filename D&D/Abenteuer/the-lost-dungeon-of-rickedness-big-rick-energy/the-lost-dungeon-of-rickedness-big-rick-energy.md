@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of The Lost Dungeon of Rickedness Big Rick Energy
+linter-yaml-title-alias: Index of The Lost Dungeon of Rickedness Big Rick Energy
+aliases:
+  - Index of The Lost Dungeon of Rickedness Big Rick Energy
 ---
 # Index of The Lost Dungeon of Rickedness Big Rick Energy
 

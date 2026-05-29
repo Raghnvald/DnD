@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hobgoblin Devastator
+linter-yaml-title-alias: Hobgoblin Devastator
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

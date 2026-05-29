@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Hag Eye
+linter-yaml-title-alias: Hag Eye
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Hag Eye
-linter-yaml-title-alias: Hag Eye
 ---
 # Hag Eye
 *Wondrous item, uncommon*  

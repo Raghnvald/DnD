@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakshasa
+linter-yaml-title-alias: Rakshasa
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/nine-hells

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zhentarim Mercenary
+linter-yaml-title-alias: Zhentarim Mercenary
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Zhentarim Mercenary"
+  - Zhentarim Mercenary
 ---
 # Zhentarim Mercenary
 *Source: Forgotten Realms: Heroes of Faerûn p. 36*  

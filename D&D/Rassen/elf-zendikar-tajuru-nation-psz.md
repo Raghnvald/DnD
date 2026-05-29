@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Elf (Zendikar; Tajuru Nation)
+linter-yaml-title-alias: Elf (Zendikar; Tajuru Nation)
 tags:
   - Quelle/5e/psz
   - Rasse/elf/zendikar-tajuru-nation
 aliases:
   - "Elf (Zendikar; Tajuru Nation)"
+  - Elf (Zendikar; Tajuru Nation)
 ---
 # Elf (Zendikar; Tajuru Nation)
 *Source: Plane Shift: Zendikar p. 18*  

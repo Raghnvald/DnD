@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Maultier
 Kategorie: Reit- und Lastentier
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 8 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Maultier
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Mule
+  - Maultier
 Bew.: 12 m
-linter-yaml-title-alias: Mule
 Traglast: 420 Pfd.
 ---
 # Maultier

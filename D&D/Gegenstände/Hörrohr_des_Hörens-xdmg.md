@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Ear Horn of Hearing
+linter-yaml-title-alias: Ear Horn of Hearing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Ear Horn of Hearing
-linter-yaml-title-alias: Ear Horn of Hearing
 ---
 # Ear Horn of Hearing
 *Wondrous item, common*  

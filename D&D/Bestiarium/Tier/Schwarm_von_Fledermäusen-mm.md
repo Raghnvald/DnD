@@ -11,6 +11,7 @@ Habitat:
   - Unterreich
 image:
 status: completed
+linter-yaml-title-alias: Schwarm von Fledermäusen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -21,6 +22,7 @@ tags:
   - Monster/Typ/Tier
   - Quelle/5e/mm
 aliases:
+  - Schwarm von Fledermäusen
   - Swarm of Bats
 ---
 # Schwarm von Fledermäusen

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Running the Realms"
+linter-yaml-title-alias: "Chapter 1: Running the Realms"
 tags:
   - Quelle/5e/fraif
 aliases:

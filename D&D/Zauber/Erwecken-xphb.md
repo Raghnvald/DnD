@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Awaken
+linter-yaml-title-alias: Awaken
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Druid
 aliases:
   - Awaken
-linter-yaml-title-alias: Awaken
 ---
 # Awaken
 *5th-level, Transmutation*  

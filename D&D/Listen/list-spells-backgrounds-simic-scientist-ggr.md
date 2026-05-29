@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Simic Scientist
+linter-yaml-title-alias: Spells for Simic Scientist
 tags:
   - Zauber/list/background/simic-scientist
 aliases:

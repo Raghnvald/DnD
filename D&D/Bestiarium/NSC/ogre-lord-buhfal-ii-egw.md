@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Lord Buhfal II
+linter-yaml-title-alias: Ogre Lord Buhfal II
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Ogre Lord Buhfal II
-linter-yaml-title-alias: Ogre Lord Buhfal II
 ---
 # [Ogre Lord Buhfal II](3-Mechanics\CLI\bestiary\npc/ogre-lord-buhfal-ii-egw.md)
 *Source: Explorer's Guide to Wildemount p. 251*  

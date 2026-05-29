@@ -2,18 +2,19 @@
 Bezeichnung: Kampfstab
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: Vielseitig
+Eigenschaften:
+  - Vielseitig (1W8)
 Einstimmung: /
 Kst.: 2 SM
 Gew.: 2,0 kg
+linter-yaml-title-alias: Kampfstab
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Quarterstaff
-linter-yaml-title-alias: Quarterstaff
+  - Kampfstab
 ---
 # Kampfstab
 *Waffe*  

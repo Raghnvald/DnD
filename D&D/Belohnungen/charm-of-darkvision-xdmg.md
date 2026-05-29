@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Darkvision
+linter-yaml-title-alias: Charm of Darkvision
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

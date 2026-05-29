@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Elemental Gem, Yellow Diamond
+linter-yaml-title-alias: Elemental Gem, Yellow Diamond
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Elemental Gem, Yellow Diamond
-linter-yaml-title-alias: Elemental Gem, Yellow Diamond
 ---
 # Elemental Gem, Yellow Diamond
 *Wondrous item, uncommon*  

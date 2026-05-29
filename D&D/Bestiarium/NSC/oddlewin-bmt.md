@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oddlewin
+linter-yaml-title-alias: Oddlewin
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Oddlewin
-linter-yaml-title-alias: Oddlewin
 ---
 # [Oddlewin](3-Mechanics\CLI\bestiary\npc/oddlewin-bmt.md)
 *Source: The Book of Many Things p. 111*  

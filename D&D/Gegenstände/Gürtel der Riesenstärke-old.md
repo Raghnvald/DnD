@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gürtel der Riesenstärke
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: n/v
-Kst.: n/v
-Gew.: n/v
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Gürtel der Riesenstärke
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/legendär
@@ -13,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Belt of Giant Strength
+  - Gürtel der Riesenstärke
 ---
 # Gürtel der Riesenstärke
 *Wundersamer Gegenstand, Seltenheitsgrad variiert (erfordert Einstimmung)*  

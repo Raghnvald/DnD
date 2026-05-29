@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Feueropal
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Feueropal
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Fire Opal
-linter-yaml-title-alias: Fire Opal
+  - Feueropal
 ---
 # Feueropal
 *Schatz (Edelstein)*  

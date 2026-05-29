@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle; Zauberschriftrolle
+linter-yaml-title-alias: Zauberschriftrolle; Zauberschriftrolle
 tags:
   - Quelle/5e/dmg
 aliases:
   - Spell Scrolls; Spell Scroll
+  - Zauberschriftrolle; Zauberschriftrolle
 ---
 # Zauberschriftrolle; Zauberschriftrolle
 *Quelle: Spielleiterhandbuch, S. 140. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>* 

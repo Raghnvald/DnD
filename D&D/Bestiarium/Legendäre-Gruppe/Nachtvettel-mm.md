@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Night Hag
+linter-yaml-title-alias: Night Hag
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boromar Villains
+linter-yaml-title-alias: Boromar Villains
 tags:
   - Quelle/5e/erlw
 aliases:

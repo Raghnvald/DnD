@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dragonlance
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Dragonlance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -12,7 +13,6 @@ aliases:
   - Dragonlance
   - Dragonlance Lance
   - Dragonlance Pike
-linter-yaml-title-alias: Dragonlance
 ---
 # Dragonlance
 *Legendary (requires attunement)*  

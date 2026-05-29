@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Whelm
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Whelm
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Whelm
-linter-yaml-title-alias: Whelm
 ---
 # Whelm
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  

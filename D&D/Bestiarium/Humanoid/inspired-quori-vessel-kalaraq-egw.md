@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inspired (Quori Vessel; Kalaraq)
+linter-yaml-title-alias: Inspired (Quori Vessel; Kalaraq)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/egw
 aliases:
   - Inspired (Quori Vessel; Kalaraq)

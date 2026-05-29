@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Shooting Stars
+linter-yaml-title-alias: Ring of Shooting Stars
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Shooting Stars
-linter-yaml-title-alias: Ring of Shooting Stars
 ---
 # Ring of Shooting Stars
 *Ring, very rare (requires attunement)*  

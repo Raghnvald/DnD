@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Escape from Avernus"
+linter-yaml-title-alias: "Chapter 5: Escape from Avernus"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Chapter 5: Escape from Avernus"
   - Chapter 5: Escape from Avernus
 ---
 # Chapter 5: Escape from Avernus

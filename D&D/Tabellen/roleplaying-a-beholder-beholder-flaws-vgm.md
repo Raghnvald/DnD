@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Beholder; Beholder Flaws
+linter-yaml-title-alias: Roleplaying a Beholder; Beholder Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

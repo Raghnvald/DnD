@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githzerai Zerth
+linter-yaml-title-alias: Githzerai Zerth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

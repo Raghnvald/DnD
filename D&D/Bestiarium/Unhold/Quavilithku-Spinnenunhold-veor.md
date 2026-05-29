@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quavilithku Spyder-Fiend
+image: token/quavilithku-spyder-fiend-veor.webp
 status: WIP
+linter-yaml-title-alias: Quavilithku Spyder-Fiend
 tags:
   - Monster/Größe/Groß
   - Monster/HG/17

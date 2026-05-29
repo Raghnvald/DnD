@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Diamond
+linter-yaml-title-alias: Diamond
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Diamond
-linter-yaml-title-alias: Diamond
 ---
 # Diamond
 *Treasure (gemstone)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Trickery Domain
+linter-yaml-title-alias: Spells for Trickery Domain
 tags:
   - Zauber/list/subclass/trickery-domain
 aliases:

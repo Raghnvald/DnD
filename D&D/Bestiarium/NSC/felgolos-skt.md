@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Felgolos
+linter-yaml-title-alias: Felgolos
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Felgolos
-linter-yaml-title-alias: Felgolos
 ---
 # [Felgolos](3-Mechanics\CLI\bestiary\npc/felgolos-skt.md)
 *Source: Storm King's Thunder p. 192*  

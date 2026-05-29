@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Possibility
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Possibility
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/egw
 aliases:
   - Potion of Possibility
-linter-yaml-title-alias: Potion of Possibility
 ---
 # Potion of Possibility
 *Potion, very rare*  

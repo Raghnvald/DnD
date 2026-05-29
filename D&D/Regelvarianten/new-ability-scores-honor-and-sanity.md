@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "New Ability Scores: Honor and Sanity"
+linter-yaml-title-alias: "New Ability Scores: Honor and Sanity"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "New Ability Scores: Honor and Sanity"
   - New Ability Scores: Honor and Sanity
 ---
 # New Ability Scores: Honor and Sanity

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/bqgt
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Borderlands Quest: Goblin Trouble* 

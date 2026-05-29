@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snapping Hydra
+linter-yaml-title-alias: Snapping Hydra
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11

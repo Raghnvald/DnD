@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Inquisitor
+linter-yaml-title-alias: Inquisitor
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/psi
 aliases:
   - "Inquisitor"
+  - Inquisitor
 ---
 # Inquisitor
 *Source: Plane Shift: Innistrad p. 12*  

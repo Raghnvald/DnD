@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Gavel of the Venn Rune
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Gavel of the Venn Rune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/skt
 aliases:
   - Gavel of the Venn Rune
-linter-yaml-title-alias: Gavel of the Venn Rune
 ---
 # Gavel of the Venn Rune
 *Wondrous item, rare (requires attunement)*  

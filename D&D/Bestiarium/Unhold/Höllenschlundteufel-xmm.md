@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pit Fiend
+linter-yaml-title-alias: Pit Fiend
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/nine-hells

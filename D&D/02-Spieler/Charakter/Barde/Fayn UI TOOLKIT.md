@@ -1,5 +1,9 @@
 ---
 Bezeichnung: "**Fayn**"
+Image:
+linter-yaml-title-alias: "**Fayn**"
+aliases:
+  - "**Fayn**"
 ac: 15
 AC1: false
 AC2: true
@@ -23,7 +27,6 @@ HAIR: Braun
 HI:
 hp: 57
 IDEAL: Menschen. Ich liebe es, wenn die Menschen sich freuen wenn ich spiele. Das ist alles was zählt (neutral)
-IMAGE:
 LBS:
 level: 6
 PERS: |-

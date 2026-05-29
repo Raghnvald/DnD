@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Warding Bond
 Zaubergrad: 2
+linter-yaml-title-alias: Warding Bond
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Warding Bond
-linter-yaml-title-alias: Warding Bond
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inferno
+linter-yaml-title-alias: Inferno
 tags:
   - Quelle/5e/xdmg
 aliases:

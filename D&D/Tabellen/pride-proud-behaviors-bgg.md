@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pride; Proud Behaviors
+linter-yaml-title-alias: Pride; Proud Behaviors
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Roman, Male
+linter-yaml-title-alias: Human Names – Roman, Male
 tags:
   - Quelle/5e/xge
 aliases:

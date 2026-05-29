@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trade Goods
+linter-yaml-title-alias: Trade Goods
 tags:
   - Quelle/5e/phb
 aliases:

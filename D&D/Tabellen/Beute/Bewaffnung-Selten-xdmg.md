@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armaments - Rare
+linter-yaml-title-alias: Armaments - Rare
 tags:
   - Quelle/5e/xdmg
 aliases:

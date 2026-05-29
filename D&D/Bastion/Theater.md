@@ -3,8 +3,6 @@ Bezeichnung: Theater
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg
-aliases:
-  - Theater
 ---
 # Theater
 *Level 9 Bastion facility*  

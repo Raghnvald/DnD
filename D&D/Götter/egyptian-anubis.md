@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Anubis
+linter-yaml-title-alias: Anubis
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave

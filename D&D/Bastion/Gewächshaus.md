@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Greenhouse
+linter-yaml-title-alias: Greenhouse
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

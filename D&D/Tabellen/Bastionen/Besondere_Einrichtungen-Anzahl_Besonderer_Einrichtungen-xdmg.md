@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Besondere Einrichtungen: Anzahl Besonderer Einrichtungen"
 Kategorie: Bastion
+linter-yaml-title-alias: "Besondere Einrichtungen: Anzahl Besonderer Einrichtungen"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Besondere Einrichtungen: Anzahl Besonderer Einrichtungen"
   - Special Facilities; Special Facility Acquisition
 ---
 # Besondere Einrichtungen: Anzahl Besonderer Einrichtungen

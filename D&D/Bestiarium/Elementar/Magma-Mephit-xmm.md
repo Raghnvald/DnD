@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Magma Mephit
+linter-yaml-title-alias: Magma Mephit
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/elemental

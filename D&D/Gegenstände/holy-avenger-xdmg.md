@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Holy Avenger
+linter-yaml-title-alias: Holy Avenger
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Holy Avenger Whip
   - Holy Avenger Wooden Staff
   - Holy Avenger Yklwa
-linter-yaml-title-alias: Holy Avenger
 ---
 # Holy Avenger
 *Legendary (requires attunement by a paladin)*  

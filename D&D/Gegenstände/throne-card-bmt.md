@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Throne Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Throne Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Throne Card
-linter-yaml-title-alias: Throne Card
 ---
 # Throne Card
 *Wondrous item, legendary*  

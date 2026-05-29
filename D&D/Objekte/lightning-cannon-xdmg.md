@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lightning Cannon
+linter-yaml-title-alias: Lightning Cannon
 tags:
   - Kompendium/Objekt/size/medium
   - Kompendium/Objekt/type/siege-weapon

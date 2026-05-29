@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potions of Healing
+linter-yaml-title-alias: Potions of Healing
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potions of Healing
-linter-yaml-title-alias: Potions of Healing
 ---
 # Potions of Healing
 *Potion*  

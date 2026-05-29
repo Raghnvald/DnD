@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Gluebomb
 Kategorie: Explosives 
+linter-yaml-title-alias: Gluebomb
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Quelle/5e/tdcsr
 aliases:
   - Gluebomb
-linter-yaml-title-alias: Gluebomb
 ---
 # Gluebomb
 *Explosive*  

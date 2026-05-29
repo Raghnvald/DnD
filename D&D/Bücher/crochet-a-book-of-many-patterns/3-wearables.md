@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Wearables
+linter-yaml-title-alias: Wearables
 tags:
   - Quelle/5e/cabomp
 aliases:
   - "Wearables"
+  - Wearables
 ---
 # Wearables
 *Source: Crochet: A Book of Many Patterns, p. 73* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Green Hag
+linter-yaml-title-alias: Green Hag
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Hügel

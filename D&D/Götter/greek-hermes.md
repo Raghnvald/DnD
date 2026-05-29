@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hermes
+linter-yaml-title-alias: Hermes
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/greek

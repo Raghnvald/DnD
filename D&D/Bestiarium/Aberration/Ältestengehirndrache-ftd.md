@@ -7,13 +7,16 @@ Größe: Gigantisch
 HG: 22
 Habitat:
   - /
+Image: token/elder-brain-dragon-ftd.webp
 status: WIP
+linter-yaml-title-alias: Ältestengehirndrache
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/22
   - Monster/Typ/Aberration
   - Quelle/5e/ftd
 aliases:
+  - Ältestengehirndrache
   - Elder Brain Dragon
 ---
 # Ältestengehirndrache

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lessons of the First Ones
+linter-yaml-title-alias: Lessons of the First Ones
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

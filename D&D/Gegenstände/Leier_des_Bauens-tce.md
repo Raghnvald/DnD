@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Lyre of Building
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung durch einen Barden
+Kst.: /
+Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Lyre of Building
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -9,7 +15,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Lyre of Building
-linter-yaml-title-alias: Lyre of Building
 ---
 # Lyre of Building
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

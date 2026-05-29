@@ -1,13 +1,18 @@
 ---
 Bezeichnung: "Merchant's Scale"
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 GM
+Gew.: 1,5kg
+status: WIP
+linter-yaml-title-alias: "Merchant's Scale"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Merchant's Scale
-linter-yaml-title-alias: Merchant's Scale
+  - "Merchant's Scale"
 ---
 # Merchant's Scale
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artificer Infusion
+linter-yaml-title-alias: Artificer Infusion
 tags:
   - Quelle/5e/tce
 aliases:

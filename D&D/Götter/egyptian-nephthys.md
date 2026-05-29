@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nephthys
+linter-yaml-title-alias: Nephthys
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/egyptian

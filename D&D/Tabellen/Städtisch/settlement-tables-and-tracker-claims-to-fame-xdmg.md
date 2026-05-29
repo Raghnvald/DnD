@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Settlement Tables and Tracker; Claims to Fame
+linter-yaml-title-alias: Settlement Tables and Tracker; Claims to Fame
 tags:
   - Quelle/5e/xdmg
 aliases:

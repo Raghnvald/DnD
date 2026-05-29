@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vincent Trench
+linter-yaml-title-alias: Vincent Trench
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Vincent Trench
-linter-yaml-title-alias: Vincent Trench
 ---
 # [Vincent Trench](3-Mechanics\CLI\bestiary\npc/vincent-trench-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

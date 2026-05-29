@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Three Earrings
+linter-yaml-title-alias: Three Earrings
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Three Earrings
-linter-yaml-title-alias: Three Earrings
 ---
 # [Three Earrings](3-Mechanics\CLI\bestiary\npc/three-earrings-egw.md)
 *Source: Explorer's Guide to Wildemount p. 211*  

@@ -5,6 +5,7 @@ Bezeichnung: Assassin Vine
 Kategorie: Pflanze
 Größe: Groß
 status: WIP
+linter-yaml-title-alias: Assassin Vine
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

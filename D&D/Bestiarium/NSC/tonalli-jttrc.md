@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tonalli
+linter-yaml-title-alias: Tonalli
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Tonalli
-linter-yaml-title-alias: Tonalli
 ---
 # [Tonalli](3-Mechanics\CLI\bestiary\npc/tonalli-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 110*  

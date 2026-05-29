@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Shapechange
 Zaubergrad: 9
+linter-yaml-title-alias: Shapechange
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Wizard
 aliases:
   - Shapechange
-linter-yaml-title-alias: Shapechange
 ---
 # Shapechange
 *9th-level, Transmutation*  

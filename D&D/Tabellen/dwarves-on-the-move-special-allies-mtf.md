@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarves on the Move; Special Allies
+linter-yaml-title-alias: Dwarves on the Move; Special Allies
 tags:
   - Quelle/5e/mtf
 aliases:

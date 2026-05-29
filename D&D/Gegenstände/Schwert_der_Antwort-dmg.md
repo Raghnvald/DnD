@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Schwert der Antwort
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Schwert der Antwort
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Sword of Answering
-linter-yaml-title-alias: Sword of Answering
+  - Schwert der Antwort
 ---
 # Schwert der Antwort
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement)*  

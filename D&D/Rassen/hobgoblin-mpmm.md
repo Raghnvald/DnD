@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hobgoblin
+linter-yaml-title-alias: Hobgoblin
 tags:
   - Quelle/5e/mpmm
   - Rasse/hobgoblin

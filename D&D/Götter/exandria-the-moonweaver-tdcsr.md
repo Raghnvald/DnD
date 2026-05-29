@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Moonweaver
+linter-yaml-title-alias: The Moonweaver
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/moon

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 9)
 Kategorie: Schriftrolle
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: unbezahlbar
-Gew.: n/v
+Gew.: /
+linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 9)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
@@ -11,7 +13,6 @@ tags:
 aliases:
   - Spell Scroll (7th Level)
   - Zauberschriftrolle (Zaubergrad 9)
-linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 9)
 ---
 # Zauberschriftrolle (Zaubergrad 9)
 *Schriftrolle, legendär*  

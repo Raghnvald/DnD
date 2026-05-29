@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solar Bastion Quests
+linter-yaml-title-alias: Solar Bastion Quests
 tags:
   - Quelle/5e/bmt
 aliases:

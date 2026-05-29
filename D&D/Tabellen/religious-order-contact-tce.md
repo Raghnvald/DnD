@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Religious Order Contact
+linter-yaml-title-alias: Religious Order Contact
 tags:
   - Quelle/5e/tce
 aliases:

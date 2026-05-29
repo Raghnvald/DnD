@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oathbow
+linter-yaml-title-alias: Oathbow
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -12,7 +13,6 @@ aliases:
   - Oath Longbow
   - Oath Shortbow
   - Oathbow
-linter-yaml-title-alias: Oathbow
 ---
 # Oathbow
 *Very rare (requires attunement)*  

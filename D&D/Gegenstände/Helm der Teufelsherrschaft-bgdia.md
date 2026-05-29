@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Helm of Devil Command
+linter-yaml-title-alias: Helm of Devil Command
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/bgdia
 aliases:
   - Helm of Devil Command
-linter-yaml-title-alias: Helm of Devil Command
 ---
 # Helm of Devil Command
 *Wondrous item, very rare (requires attunement by a creature that can speak Infernal)*  

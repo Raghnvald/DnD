@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Clone
 Zaubergrad: 8
+linter-yaml-title-alias: Clone
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Clone
-linter-yaml-title-alias: Clone
 ---
 # Clone
 *8th-level, Necromancy*  

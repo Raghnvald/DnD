@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Crystal Blade
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Crystal Blade
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -16,7 +17,6 @@ aliases:
   - Crystal Rapier
   - Crystal Scimitar
   - Crystal Shortsword
-linter-yaml-title-alias: Crystal Blade
 ---
 # Crystal Blade
 *Rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Healer
+linter-yaml-title-alias: Healer
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

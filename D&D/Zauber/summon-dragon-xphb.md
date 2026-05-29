@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Summon Dragon
+linter-yaml-title-alias: Summon Dragon
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Sorcerer (Draconic Sorcery)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Subklasse/draconic-sorcery
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Sorcerer (Draconic Sorcery)
-  - Wizard
 aliases:
   - Summon Dragon
-linter-yaml-title-alias: Summon Dragon
 ---
 # Summon Dragon
 *5th-level, Conjuration*  

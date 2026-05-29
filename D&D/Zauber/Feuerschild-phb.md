@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Fire Shield
 Zaubergrad: 4
+linter-yaml-title-alias: Fire Shield
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Fiend)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -10,15 +17,8 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/4
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock (The Fiend)
-  - Wizard
 aliases:
   - Fire Shield
-linter-yaml-title-alias: Fire Shield
 ---
 # Fire Shield
 *4th-level, Evocation*  

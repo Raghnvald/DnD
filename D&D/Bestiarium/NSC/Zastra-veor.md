@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zastra
+Image: token/zastra-veor.webp
 status: WIP
+linter-yaml-title-alias: Zastra
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
@@ -10,8 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Zastra
-IMAGE: token/zastra-veor.webp
-linter-yaml-title-alias: Zastra
 ---
 # [Zastra](3-Mechanics\CLI\bestiary\npc/zastra-veor.md)
 *Source: Vecna: Eve of Ruin*  

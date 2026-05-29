@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alien Technology
+linter-yaml-title-alias: Alien Technology
 tags:
   - Quelle/5e/dmg
 aliases:

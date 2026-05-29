@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unborn Palanquin
+linter-yaml-title-alias: Unborn Palanquin
 tags:
   - Kompendium/Objekt/size/gargantuan
   - Kompendium/Objekt/type/unknown

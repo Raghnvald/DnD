@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Madam Eva
+linter-yaml-title-alias: Madam Eva
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/10
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Madam Eva
-linter-yaml-title-alias: Madam Eva
 ---
 # Madam Eva
 *Source: Curse of Strahd p. 233*  

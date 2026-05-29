@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Laser Pistol
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Laser Pistol
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Laser Pistol
-linter-yaml-title-alias: Laser Pistol
 ---
 # Laser Pistol
 *Weapon*  

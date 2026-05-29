@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Handouts
+linter-yaml-title-alias: Handouts
 tags:
   - Quelle/5e/wdh
 aliases:

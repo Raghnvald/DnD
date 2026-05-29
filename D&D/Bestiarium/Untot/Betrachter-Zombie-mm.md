@@ -8,6 +8,7 @@ HG: 5
 Habitat:
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Beholder Zombie
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Beholder Zombie
-linter-yaml-title-alias: Beholder Zombie
 ---
 # [Beholder Zombie](3-Mechanics\CLI\bestiary\undead/beholder-zombie.md)
 *Source: Monster Manual p. 316*  

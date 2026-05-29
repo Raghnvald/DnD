@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Klein
 HG: 1/4
 status: WIP
+linter-yaml-title-alias: Derro
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Berg

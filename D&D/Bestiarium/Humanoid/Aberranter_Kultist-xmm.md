@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aberrant Cultist
 image: token/aberrant-cultist-xmm.webp
+linter-yaml-title-alias: Aberrant Cultist
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating an Amethyst Dragon; Amethyst Dragon Personality Traits
+linter-yaml-title-alias: Creating an Amethyst Dragon; Amethyst Dragon Personality Traits
 tags:
   - Quelle/5e/ftd
 aliases:

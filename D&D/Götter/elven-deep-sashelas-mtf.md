@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Sashelas
+linter-yaml-title-alias: Deep Sashelas
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/nature

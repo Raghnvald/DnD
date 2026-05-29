@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Glory
+linter-yaml-title-alias: Oath of Glory
 tags:
   - Klasse/Paladin/glory
   - Quelle/5e/xphb

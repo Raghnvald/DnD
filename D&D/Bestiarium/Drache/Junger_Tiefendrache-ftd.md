@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Deep Dragon
+linter-yaml-title-alias: Young Deep Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Deep Dragon
-linter-yaml-title-alias: Young Deep Dragon
 ---
 # [Young Deep Dragon](3-Mechanics\CLI\bestiary\dragon/young-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 175*  

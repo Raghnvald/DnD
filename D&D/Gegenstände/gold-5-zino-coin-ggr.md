@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Gold 5-Zino Coin
 Kategorie: Währung
+linter-yaml-title-alias: Gold 5-Zino Coin
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/ggr
 aliases:
   - Gold 5-Zino Coin
-linter-yaml-title-alias: Gold 5-Zino Coin
 ---
 # Gold 5-Zino Coin
 *Treasure (coinage)*  

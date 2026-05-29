@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elder Giant Lizard
+linter-yaml-title-alias: Elder Giant Lizard
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5

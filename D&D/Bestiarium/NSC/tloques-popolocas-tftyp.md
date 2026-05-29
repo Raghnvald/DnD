@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tloques-Popolocas
+linter-yaml-title-alias: Tloques-Popolocas
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Tloques-Popolocas
-linter-yaml-title-alias: Tloques-Popolocas
 ---
 # [Tloques-Popolocas](3-Mechanics\CLI\bestiary\npc/tloques-popolocas-tftyp.md)
 *Source: Tales from the Yawning Portal p. 68*  

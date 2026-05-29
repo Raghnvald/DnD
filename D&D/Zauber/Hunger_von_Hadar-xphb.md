@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Hunger of Hadar
+linter-yaml-title-alias: Hunger of Hadar
+classes:
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock
+  - Warlock (Great Old One Patron)
 tags:
   - Klasse/Hexenmeister
   - Quelle/5e/xphb
@@ -7,13 +12,8 @@ tags:
   - Subklasse/great-old-one-patron
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock
-  - Warlock (Great Old One Patron)
 aliases:
   - Hunger of Hadar
-linter-yaml-title-alias: Hunger of Hadar
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  

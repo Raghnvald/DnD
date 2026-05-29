@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bane
+linter-yaml-title-alias: Bane
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/order

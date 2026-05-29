@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Turn of Fortunes Wheel
+linter-yaml-title-alias: Index of Turn of Fortunes Wheel
+aliases:
+  - Index of Turn of Fortunes Wheel
 ---
 # Index of Turn of Fortunes Wheel
 

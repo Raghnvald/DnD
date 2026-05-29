@@ -9,6 +9,7 @@ Habitat:
   - Stadt
 image: token/draft-horse.webp
 status: WIP
+linter-yaml-title-alias: Zugpferd
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt
@@ -17,6 +18,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Draft Horse
+  - Zugpferd
 ---
 # Zugpferd
 *Quelle: Monsterhandbuch S. 341. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

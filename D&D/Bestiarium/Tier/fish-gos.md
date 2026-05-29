@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fish
+linter-yaml-title-alias: Fish
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

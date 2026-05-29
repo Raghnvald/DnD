@@ -5,17 +5,18 @@ Bezeichnung: Eldon Schlüsselwart
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 2
-Habitat: /
+Habitat:
+  - /
 image: token/eldon-keyward-veor.webp
 status: completed
+linter-yaml-title-alias: Eldon Schlüsselwart
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
   - Monster/Typ/Humanoid/any-race
   - Quelle/5e/veor
 aliases:
-  - Eldon Keyward
-linter-yaml-title-alias: Eldon Keyward
+  - Eldon Schlüsselwart
 ---
 # Eldon Schlüsselwart
 *Quelle: Vecna: Vorabend der Verdammnis*  

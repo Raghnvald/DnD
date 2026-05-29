@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inspiring Leader
+linter-yaml-title-alias: Inspiring Leader
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -10,6 +10,7 @@ Habitat:
   - Stadt
 image:
 status: WIP
+linter-yaml-title-alias: Phantomkrieger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -18,7 +19,6 @@ tags:
 aliases:
   - Phantom Warrior
   - Phantomkrieger
-linter-yaml-title-alias: Phantomkrieger
 ---
 # Phantomkrieger
 *Quellen: Fluch des Strahd S. 235*  

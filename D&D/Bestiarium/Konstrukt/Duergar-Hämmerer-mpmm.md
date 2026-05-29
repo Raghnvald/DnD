@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Hammerer
+linter-yaml-title-alias: Duergar Hammerer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

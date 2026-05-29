@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Manual of Bodily Health
+linter-yaml-title-alias: Manual of Bodily Health
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - Manual of Bodily Health
-linter-yaml-title-alias: Manual of Bodily Health
 ---
 # Manual of Bodily Health
 *Wondrous item, very rare*  

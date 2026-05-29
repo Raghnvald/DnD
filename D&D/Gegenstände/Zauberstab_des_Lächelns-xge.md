@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wand of Smiles
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Smiles
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xge
 aliases:
   - Wand of Smiles
-linter-yaml-title-alias: Wand of Smiles
 ---
 # Wand of Smiles
 *Wand, minor, common*  

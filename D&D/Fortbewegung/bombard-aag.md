@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bombard
+linter-yaml-title-alias: Bombard
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Bombard"
+  - Bombard
 ---
 # Bombard
 *Source: Astral Adventurer's Guide p. 26*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Constructs"
+linter-yaml-title-alias: "Monsters' Desires; Constructs"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Constructs"
   - Monsters' Desires; Constructs
 ---
 # Monsters' Desires; Constructs

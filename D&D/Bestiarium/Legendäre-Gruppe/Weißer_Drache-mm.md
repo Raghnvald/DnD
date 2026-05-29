@@ -1,5 +1,6 @@
 ---
 Bezeichnung: White Dragon
+linter-yaml-title-alias: White Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/mm

@@ -6,6 +6,15 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Aura of Purity
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric
+  - Cleric (Peace Domain)
+  - Paladin
+  - Paladin (Oath of the Watchers)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -17,17 +26,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/4
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Battle Smith)
-  - Bard
-  - Cleric
-  - Cleric (Peace Domain)
-  - Paladin
-  - Paladin (Oath of the Watchers)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Aura of Purity
-linter-yaml-title-alias: Aura of Purity
 ---
 # Aura of Purity
 *4th-level, Abjuration*  

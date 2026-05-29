@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Winged Kraul Warrior
+linter-yaml-title-alias: Winged Kraul Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

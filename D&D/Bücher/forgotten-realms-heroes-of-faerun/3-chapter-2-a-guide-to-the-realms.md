@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: A Guide to the Realms"
+linter-yaml-title-alias: "Chapter 2: A Guide to the Realms"
 tags:
   - Quelle/5e/frhof
 aliases:

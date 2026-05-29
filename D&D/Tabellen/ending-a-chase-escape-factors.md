@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ending a Chase; Escape Factors
+linter-yaml-title-alias: Ending a Chase; Escape Factors
 tags:
   - Quelle/5e/dmg
 aliases:

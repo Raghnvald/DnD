@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Purple Wormling
+linter-yaml-title-alias: Purple Wormling
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

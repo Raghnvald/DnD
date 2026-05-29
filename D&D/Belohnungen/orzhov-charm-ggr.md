@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orzhov Charm
+linter-yaml-title-alias: Orzhov Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

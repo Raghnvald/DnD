@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Winged Felidar
+linter-yaml-title-alias: Winged Felidar
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

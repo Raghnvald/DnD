@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Polar Bear
+linter-yaml-title-alias: Polar Bear
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Arktis

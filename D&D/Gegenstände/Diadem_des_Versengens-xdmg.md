@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Circlet of Blasting
+linter-yaml-title-alias: Circlet of Blasting
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Circlet of Blasting
-linter-yaml-title-alias: Circlet of Blasting
 ---
 # Circlet of Blasting
 *Wondrous item, uncommon*  

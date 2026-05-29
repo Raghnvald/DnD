@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reporting Repercussions; Story Aftermath
+linter-yaml-title-alias: Reporting Repercussions; Story Aftermath
 tags:
   - Quelle/5e/erlw
 aliases:

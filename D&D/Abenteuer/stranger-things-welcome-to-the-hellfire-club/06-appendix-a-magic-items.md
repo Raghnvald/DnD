@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Appendix A - Magic Items
+linter-yaml-title-alias: Appendix A - Magic Items
 tags:
   - Quelle/5e/wtthc
 aliases:
   - "Appendix A - Magic Items"
+  - Appendix A - Magic Items
 ---
 # Appendix A - Magic Items
 *Source: Stranger Things: Welcome to the Hellfire Club* 

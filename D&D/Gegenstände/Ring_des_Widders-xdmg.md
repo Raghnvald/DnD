@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of the Ram
+linter-yaml-title-alias: Ring of the Ram
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of the Ram
-linter-yaml-title-alias: Ring of the Ram
 ---
 # Ring of the Ram
 *Ring, rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Belenus
+linter-yaml-title-alias: Belenus
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/light

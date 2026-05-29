@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frigid Water
+linter-yaml-title-alias: Frigid Water
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/xdmg

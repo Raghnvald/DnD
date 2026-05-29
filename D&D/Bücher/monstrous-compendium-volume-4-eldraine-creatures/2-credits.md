@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/mcv4ec
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures* 

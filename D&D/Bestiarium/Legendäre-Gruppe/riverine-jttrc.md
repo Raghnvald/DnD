@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Riverine
+linter-yaml-title-alias: Riverine
 tags:
   - Monster/legendary-group
   - Quelle/5e/jttrc

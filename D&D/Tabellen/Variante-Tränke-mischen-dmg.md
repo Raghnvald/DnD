@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Variant: Mixing Potions; Potion Miscibility"
+linter-yaml-title-alias: "Variant: Mixing Potions; Potion Miscibility"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Variant: Mixing Potions; Potion Miscibility"
   - Variant: Mixing Potions; Potion Miscibility
 ---
 # Variant: Mixing Potions; Potion Miscibility

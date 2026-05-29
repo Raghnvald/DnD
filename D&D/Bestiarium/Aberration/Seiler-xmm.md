@@ -5,6 +5,7 @@ Bezeichnung: Roper
 Kategorie: Aberration
 Größe: Groß
 HG: 5
+linter-yaml-title-alias: Roper
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

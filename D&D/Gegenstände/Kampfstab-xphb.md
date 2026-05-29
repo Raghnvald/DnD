@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quarterstaff
+linter-yaml-title-alias: Quarterstaff
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Quarterstaff
-linter-yaml-title-alias: Quarterstaff
 ---
 # Quarterstaff
 *Weapon*  

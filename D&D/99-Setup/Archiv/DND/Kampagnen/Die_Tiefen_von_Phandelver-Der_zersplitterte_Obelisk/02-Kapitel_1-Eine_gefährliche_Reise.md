@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "<center> Kapitel 1: Eine gefährliche Reise </center>"
+linter-yaml-title-alias: "<center> Kapitel 1: Eine gefährliche Reise </center>"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "<center> Kapitel 1: Eine gefährliche Reise </center>"
   - Chapter 1: A Dangerous Journey
 ---
 # <center> Kapitel 1: Eine gefährliche Reise </center>

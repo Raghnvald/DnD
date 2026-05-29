@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Energy Resistance
+linter-yaml-title-alias: Boon of Energy Resistance
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

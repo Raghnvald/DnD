@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Sharpener
+linter-yaml-title-alias: Mind Sharpener
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

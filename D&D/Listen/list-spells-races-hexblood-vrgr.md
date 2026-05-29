@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Hexblood
+linter-yaml-title-alias: Spells for Hexblood
 tags:
   - Zauber/list/race/hexblood
 aliases:

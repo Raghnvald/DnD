@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Contact Other Plane
+linter-yaml-title-alias: Contact Other Plane
+classes:
+  - Bard
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -10,14 +16,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Warlock
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Contact Other Plane
-linter-yaml-title-alias: Contact Other Plane
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

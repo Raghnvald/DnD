@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Materialkomponentenbeutel
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Materialkomponentenbeutel
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Component Pouch
   - Materialkomponentenbeutel
-linter-yaml-title-alias: Materialkomponentenbeutel
 ---
 # Materialkomponentenbeutel
 *Abenteuerausrüstung*

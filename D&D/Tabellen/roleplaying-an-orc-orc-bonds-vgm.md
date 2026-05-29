@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying an Orc; Orc Bonds
+linter-yaml-title-alias: Roleplaying an Orc; Orc Bonds
 tags:
   - Quelle/5e/vgm
 aliases:

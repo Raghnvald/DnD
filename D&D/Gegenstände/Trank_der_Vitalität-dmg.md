@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Vitality
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Vitality
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Vitality
-linter-yaml-title-alias: Potion of Vitality
 ---
 # Potion of Vitality
 *Potion, minor, very rare*  

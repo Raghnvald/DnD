@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wee Jas
+linter-yaml-title-alias: Wee Jas
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/death

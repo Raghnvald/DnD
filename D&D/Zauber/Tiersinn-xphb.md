@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Beast Sense
+linter-yaml-title-alias: Beast Sense
+classes:
+  - Barbarian (Path of the Wild Heart)
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -10,15 +17,8 @@ tags:
   - Zauber/Grad/2
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Wild Heart)
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Beast Sense
-linter-yaml-title-alias: Beast Sense
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  

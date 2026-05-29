@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Prince Simbon
+linter-yaml-title-alias: Prince Simbon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Prince Simbon
-linter-yaml-title-alias: Prince Simbon
 ---
 # [Prince Simbon](3-Mechanics\CLI\bestiary\npc/prince-simbon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 94*  

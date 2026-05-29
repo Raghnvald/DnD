@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Saeth Cromley
+linter-yaml-title-alias: Saeth Cromley
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Saeth Cromley
-linter-yaml-title-alias: Saeth Cromley
 ---
 # [Saeth Cromley](3-Mechanics\CLI\bestiary\npc/saeth-cromley-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

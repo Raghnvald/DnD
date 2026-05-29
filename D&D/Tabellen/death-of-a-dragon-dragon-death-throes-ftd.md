@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Death of a Dragon; Dragon Death Throes
+linter-yaml-title-alias: Death of a Dragon; Dragon Death Throes
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Coral Snake
+linter-yaml-title-alias: Giant Coral Snake
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4

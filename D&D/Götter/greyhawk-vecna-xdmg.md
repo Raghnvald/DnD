@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vecna
+linter-yaml-title-alias: Vecna
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

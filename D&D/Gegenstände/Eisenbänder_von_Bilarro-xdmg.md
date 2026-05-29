@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Eisenbänder von Bilarro
+linter-yaml-title-alias: Eisenbänder von Bilarro
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
-  - Iron Bands of Bilarro
-linter-yaml-title-alias: Iron Bands of Bilarro
+  - Eisenbänder von Bilarro
 ---
 # Eisenbänder von Bilarro
 *Wondrous item, rare*  

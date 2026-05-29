@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flanking
+linter-yaml-title-alias: Flanking
 tags:
   - Quelle/5e/dmg
 aliases:

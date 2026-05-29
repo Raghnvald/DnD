@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Mirror Image
 Zaubergrad: 2
+linter-yaml-title-alias: Mirror Image
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Trickery Domain)
+  - Druid (Circle of the Land, Coast)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/coast
@@ -13,18 +23,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Trickery Domain)
-  - Druid (Circle of the Land, Coast)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Mirror Image
-linter-yaml-title-alias: Mirror Image
 ---
 # Mirror Image
 *2nd-level, Illusion*  

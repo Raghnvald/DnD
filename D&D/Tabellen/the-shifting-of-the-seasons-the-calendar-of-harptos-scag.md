@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Shifting of the Seasons; The Calendar of Harptos
+linter-yaml-title-alias: The Shifting of the Seasons; The Calendar of Harptos
 tags:
   - Quelle/5e/scag
 aliases:

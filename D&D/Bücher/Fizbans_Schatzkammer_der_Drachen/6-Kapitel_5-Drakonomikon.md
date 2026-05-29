@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconomicon
+linter-yaml-title-alias: Draconomicon
 tags:
   - Quelle/5e/ftd
 aliases:

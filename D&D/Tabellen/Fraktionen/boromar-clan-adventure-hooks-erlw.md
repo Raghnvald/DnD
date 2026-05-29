@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boromar Clan Adventure Hooks
+linter-yaml-title-alias: Boromar Clan Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

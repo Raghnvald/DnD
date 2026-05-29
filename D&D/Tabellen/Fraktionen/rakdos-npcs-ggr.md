@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos NPCs
+linter-yaml-title-alias: Rakdos NPCs
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Orien Helm
+linter-yaml-title-alias: Orien Helm
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
   - "Orien Helm"
+  - Orien Helm
 ---
 # Orien Helm
 *Level 9 Bastion facility*  

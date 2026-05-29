@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chief Nosnra
+linter-yaml-title-alias: Chief Nosnra
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Chief Nosnra
-linter-yaml-title-alias: Chief Nosnra
 ---
 # [Chief Nosnra](3-Mechanics\CLI\bestiary\npc/chief-nosnra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  

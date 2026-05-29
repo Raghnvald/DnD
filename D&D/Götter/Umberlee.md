@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Umberlee, Göttin des Meeres
+linter-yaml-title-alias: Umberlee, Göttin des Meeres
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Sturm
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Umberlee
+  - Umberlee, Göttin des Meeres
 ---
 # Umberlee, Göttin des Meeres
 *Quelle: SRD / Grundregelwerk* 

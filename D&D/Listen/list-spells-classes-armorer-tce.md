@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Armorer
+linter-yaml-title-alias: Spells for Armorer
 tags:
   - Zauber/list/subclass/armorer
 aliases:

@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Conjure Minor Elementals
+linter-yaml-title-alias: Conjure Minor Elementals
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Conjure Minor Elementals
-linter-yaml-title-alias: Conjure Minor Elementals
 ---
 # Conjure Minor Elementals
 *4th-level, Conjuration*  

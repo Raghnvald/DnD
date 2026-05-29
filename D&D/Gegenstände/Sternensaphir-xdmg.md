@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Star Sapphire
+linter-yaml-title-alias: Star Sapphire
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Star Sapphire
-linter-yaml-title-alias: Star Sapphire
 ---
 # Star Sapphire
 *Treasure (gemstone)*  

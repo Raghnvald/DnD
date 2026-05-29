@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Boots of the Vigilant
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Boots of the Vigilant
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Boots of the Vigilant
-linter-yaml-title-alias: Boots of the Vigilant
 ---
 # Boots of the Vigilant
 *Wondrous item, uncommon*  

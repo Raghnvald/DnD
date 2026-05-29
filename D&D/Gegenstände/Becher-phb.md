@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Becher
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 KM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Becher
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Flask
-linter-yaml-title-alias: Flask
+  - Becher
 ---
 # Becher
 *Abenteuerausrüstung*  

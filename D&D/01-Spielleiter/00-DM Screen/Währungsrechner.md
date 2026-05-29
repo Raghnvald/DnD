@@ -1,7 +1,10 @@
 ---
 Bezeichnung: Amount
+linter-yaml-title-alias: Amount
 tags:
   - Quelle/5e/cos
+aliases:
+  - Amount
 CoinsCopper: 0
 CoinsElectrum: 1
 CoinsGold: 0

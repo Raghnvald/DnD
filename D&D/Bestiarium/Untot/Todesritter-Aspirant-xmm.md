@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Knight Aspirant
+linter-yaml-title-alias: Death Knight Aspirant
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Death Knight Aspirant
-linter-yaml-title-alias: Death Knight Aspirant
 ---
 # [Death Knight Aspirant](3-Mechanics\CLI\bestiary\undead/death-knight-aspirant-xmm.md)
 *Source: Monster Manual (2024) p. 93*  

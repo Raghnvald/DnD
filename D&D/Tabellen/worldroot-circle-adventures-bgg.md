@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Worldroot Circle Adventures
+linter-yaml-title-alias: Worldroot Circle Adventures
 tags:
   - Quelle/5e/bgg
 aliases:

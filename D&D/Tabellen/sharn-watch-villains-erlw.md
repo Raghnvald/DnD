@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharn Watch Villains
+linter-yaml-title-alias: Sharn Watch Villains
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tomb of Levistus
+linter-yaml-title-alias: Tomb of Levistus
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

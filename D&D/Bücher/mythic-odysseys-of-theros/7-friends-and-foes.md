@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Friends and Foes
+linter-yaml-title-alias: Friends and Foes
 tags:
   - Quelle/5e/mot
 aliases:
   - "Friends and Foes"
+  - Friends and Foes
 ---
 # Friends and Foes
 *Source: Mythic Odysseys of Theros, p. 203* 

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bomb
+linter-yaml-title-alias: Bomb
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Quelle/5e/xdmg
 aliases:
   - Bomb
-linter-yaml-title-alias: Bomb
 ---
 # Bomb
 *Explosive*  

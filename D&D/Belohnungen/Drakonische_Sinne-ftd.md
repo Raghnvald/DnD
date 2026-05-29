@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Senses
+linter-yaml-title-alias: Draconic Senses
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

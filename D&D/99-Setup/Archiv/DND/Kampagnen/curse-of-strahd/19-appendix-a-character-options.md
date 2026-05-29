@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Character Options"
+linter-yaml-title-alias: "Appendix A: Character Options"
 tags:
   - Quelle/5e/cos
 aliases:
+  - "Appendix A: Character Options"
   - Appendix A: Character Options
 ---
 # Appendix A: Character Options

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: Giant Adventures"
+linter-yaml-title-alias: "Chapter 3: Giant Adventures"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Chapter 3: Giant Adventures"
   - Chapter 3: Giant Adventures
 ---
 # Chapter 3: Giant Adventures

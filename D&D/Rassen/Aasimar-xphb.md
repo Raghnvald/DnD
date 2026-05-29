@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aasimar
+linter-yaml-title-alias: Aasimar
 tags:
   - Quelle/5e/xphb
   - Rasse/aasimar

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Überschutt
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Überschutt
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Whelm
-linter-yaml-title-alias: Whelm
+  - Überschutt
 ---
 # Überschutt
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer.md)), legendary (requires attunement by a dwarf)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fluch brechen
+linter-yaml-title-alias: Fluch brechen
 tags:
   - Klasse/Hexenmeister
   - Klasse/Kleriker
@@ -9,8 +10,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Bann
 aliases:
+  - Fluch brechen
   - Remove Curse
-linter-yaml-title-alias: Fluch brechen
 ---
 # Fluch brechen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

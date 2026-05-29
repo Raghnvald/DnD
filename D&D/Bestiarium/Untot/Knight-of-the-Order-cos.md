@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knight of the Order
+linter-yaml-title-alias: Knight of the Order
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Knight of the Order
-linter-yaml-title-alias: Knight of the Order
 ---
 # [Knight of the Order](3-Mechanics\CLI\bestiary\undead/knight-of-the-order-cos.md)
 *Source: Curse of Strahd p. 139*  

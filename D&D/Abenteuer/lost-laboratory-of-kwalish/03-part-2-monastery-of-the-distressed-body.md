@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 2: Monastery of the Distressed Body"
+linter-yaml-title-alias: "Part 2: Monastery of the Distressed Body"
 tags:
   - Quelle/5e/llk
 aliases:

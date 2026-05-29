@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Brazier of Commanding Fire Elementals
+linter-yaml-title-alias: Brazier of Commanding Fire Elementals
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Brazier of Commanding Fire Elementals
-linter-yaml-title-alias: Brazier of Commanding Fire Elementals
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous item, rare*  

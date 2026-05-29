@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Calm Emotions
+linter-yaml-title-alias: Calm Emotions
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin (Oath of Redemption)
+  - Sorcerer (Aberrant Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Archfey Patron)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,17 +20,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Paladin (Oath of Redemption)
-  - Sorcerer (Aberrant Sorcery)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Archfey Patron)
 aliases:
   - Calm Emotions
-linter-yaml-title-alias: Calm Emotions
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

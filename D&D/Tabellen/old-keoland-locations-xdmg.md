@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Old Keoland Locations
+linter-yaml-title-alias: Old Keoland Locations
 tags:
   - Quelle/5e/xdmg
 aliases:

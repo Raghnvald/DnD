@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Seagrow Caves"
+linter-yaml-title-alias: "Chapter 2: Seagrow Caves"
 tags:
   - Quelle/5e/dosi
 aliases:

@@ -1,7 +1,10 @@
 ---
 Bezeichnung: Recap nach dem Fall von Strahd
+linter-yaml-title-alias: Recap nach dem Fall von Strahd
 tags:
   - Quelle/5e/pabtso
+aliases:
+  - Recap nach dem Fall von Strahd
 ---
 # Recap nach dem Fall von Strahd
 

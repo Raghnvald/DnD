@@ -1,7 +1,10 @@
 ---
 Bezeichnung: "Kapitel 5: Abenteuerumgebungen"
+linter-yaml-title-alias: "Kapitel 5: Abenteuerumgebungen"
 tags:
   - Quelle/5e/dmg
+aliases:
+  - "Kapitel 5: Abenteuerumgebungen"
 ---
 # Kapitel 5: Abenteuerumgebungen
 Viele D&D-Abenteuer spielen in einer Gewölbeumgebung. Gewölbe in D&D beinhalten große Hallen und Grüfte, unterirdische Monsternester, Labyrinthe voller Todesfallen, natürliche Höhlen, die sich kilometerweit unter der Oberfläche erstrecken, und Burgruinen.

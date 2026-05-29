@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Doppelganger
+linter-yaml-title-alias: Doppelganger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

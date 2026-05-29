@@ -2,12 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Sahuagin Warlock of Uk'otoa"
+linter-yaml-title-alias: "Sahuagin Warlock of Uk'otoa"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
   - Monster/Typ/Humanoid/sahuagin
   - Quelle/5e/egw
 aliases:
+  - "Sahuagin Warlock of Uk'otoa"
   - Sahuagin Warlock of Uk'otoa
 ---
 # [Sahuagin Warlock of Uk'otoa](3-Mechanics\CLI\bestiary\humanoid/sahuagin-warlock-of-ukotoa-egw.md)

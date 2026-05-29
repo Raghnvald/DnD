@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Geteilte Kampagnen
+linter-yaml-title-alias: Geteilte Kampagnen
 tags:
   - Quelle/5e/xge
 aliases:
+  - Geteilte Kampagnen
   - Shared Campaigns
 ---
 # Geteilte Kampagnen

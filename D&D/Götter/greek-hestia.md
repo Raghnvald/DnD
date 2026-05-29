@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hestia
+linter-yaml-title-alias: Hestia
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/greek

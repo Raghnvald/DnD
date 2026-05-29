@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beast of the Land
+linter-yaml-title-alias: Beast of the Land
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

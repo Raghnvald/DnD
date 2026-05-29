@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Circle of Spores
+linter-yaml-title-alias: Spells for Circle of Spores
 tags:
   - Zauber/list/subclass/circle-of-spores
 aliases:

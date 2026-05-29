@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Purphoros's Votary"
+linter-yaml-title-alias: "Purphoros's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

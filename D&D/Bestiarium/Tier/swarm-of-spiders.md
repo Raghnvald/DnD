@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Spiders
+linter-yaml-title-alias: Swarm of Spiders
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

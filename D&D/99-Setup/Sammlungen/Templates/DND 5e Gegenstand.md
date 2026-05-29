@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Name
 Kategorie:
-Eigenschaften:
+Eigenschaften: []
 Kst.:
 Gew.:
+linter-yaml-title-alias: Name
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
-aliases: []
-linter-yaml-title-alias: Abakus
+aliases:
+  - Name
 ---
 # Name
 *Abenteuerausrüstung*

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cracked Driftglobe
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Cracked Driftglobe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/cm
 aliases:
   - Cracked Driftglobe
-linter-yaml-title-alias: Cracked Driftglobe
 ---
 # Cracked Driftglobe
 *Wondrous item, uncommon*  

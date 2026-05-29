@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Harengon
+linter-yaml-title-alias: Harengon
 tags:
   - Quelle/5e/mpmm
   - Rasse/harengon

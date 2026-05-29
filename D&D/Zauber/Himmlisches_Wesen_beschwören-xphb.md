@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Conjure Celestial
+linter-yaml-title-alias: Conjure Celestial
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Conjure Celestial
-linter-yaml-title-alias: Conjure Celestial
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  

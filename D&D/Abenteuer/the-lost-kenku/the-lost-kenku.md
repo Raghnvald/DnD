@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of The Lost Kenku
+linter-yaml-title-alias: Index of The Lost Kenku
+aliases:
+  - Index of The Lost Kenku
 ---
 # Index of The Lost Kenku
 

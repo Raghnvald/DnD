@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Handaxe
+linter-yaml-title-alias: Handaxe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Handaxe
-linter-yaml-title-alias: Handaxe
 ---
 # Handaxe
 *Weapon*  

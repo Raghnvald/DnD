@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talos
+linter-yaml-title-alias: Talos
 tags:
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/faerunian

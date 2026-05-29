@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Teleportation Circle
+linter-yaml-title-alias: Teleportation Circle
+classes:
+  - Bard
+  - Ranger (Horizon Walker)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -9,15 +16,8 @@ tags:
   - Subklasse/horizon-walker
   - Zauber/Grad/5
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Ranger (Horizon Walker)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Teleportation Circle
-linter-yaml-title-alias: Teleportation Circle
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

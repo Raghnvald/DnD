@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sul Khatesh
+linter-yaml-title-alias: Sul Khatesh
 tags:
   - Monster/Größe/Groß
   - Monster/HG/28
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Sul Khatesh
-linter-yaml-title-alias: Sul Khatesh
 ---
 # [Sul Khatesh](3-Mechanics\CLI\bestiary\npc/sul-khatesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 304*  

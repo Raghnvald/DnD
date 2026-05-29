@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bleredd
+linter-yaml-title-alias: Bleredd
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/light

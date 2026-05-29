@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Difficulty Class
+linter-yaml-title-alias: Difficulty Class
 tags:
   - Quelle/5e/xphb
 aliases:

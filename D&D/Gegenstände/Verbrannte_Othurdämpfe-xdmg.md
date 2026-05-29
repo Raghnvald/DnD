@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Burnt Othur Fumes
+linter-yaml-title-alias: Burnt Othur Fumes
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Burnt Othur Fumes
-linter-yaml-title-alias: Burnt Othur Fumes
 ---
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vesh
+linter-yaml-title-alias: Vesh
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

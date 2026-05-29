@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dragon Slayer
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Dragon Slayer
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
@@ -15,7 +16,6 @@ aliases:
   - Dragon Slayer Rapier
   - Dragon Slayer Scimitar
   - Dragon Slayer Shortsword
-linter-yaml-title-alias: Dragon Slayer
 ---
 # Dragon Slayer
 *Major, rare*  

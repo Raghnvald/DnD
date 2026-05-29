@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mennek Ariz
+linter-yaml-title-alias: Mennek Ariz
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/tftyp
 aliases:
   - Mennek Ariz
-linter-yaml-title-alias: Mennek Ariz
 ---
 # [Mennek Ariz](3-Mechanics\CLI\bestiary\npc/mennek-ariz-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

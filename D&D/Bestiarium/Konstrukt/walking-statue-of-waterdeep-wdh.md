@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Walking Statue of Waterdeep
+linter-yaml-title-alias: Walking Statue of Waterdeep
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/18

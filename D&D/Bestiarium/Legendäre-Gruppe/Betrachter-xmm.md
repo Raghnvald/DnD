@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beholder
+linter-yaml-title-alias: Beholder
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

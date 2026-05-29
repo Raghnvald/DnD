@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shield of the Tortoise
 Rüstung: Schild
+linter-yaml-title-alias: Shield of the Tortoise
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Shield of the Tortoise
-linter-yaml-title-alias: Shield of the Tortoise
 ---
 # Shield of the Tortoise
 *Armor (shield), cursed item, uncommon (requires attunement)*  

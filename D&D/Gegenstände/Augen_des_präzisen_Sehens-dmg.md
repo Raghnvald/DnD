@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Augen des präzisen Sehens
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Augen des präzisen Sehens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Eyes of Minute Seeing
-linter-yaml-title-alias: Eyes of Minute Seeing
+  - Augen des präzisen Sehens
 ---
 # Augen des präzisen Sehens
 *Wundersamer Gegenstand, ungewöhnlich *  

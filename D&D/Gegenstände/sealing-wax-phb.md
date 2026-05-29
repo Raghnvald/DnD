@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Sealing Wax
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 SM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Sealing Wax
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Sealing Wax
-linter-yaml-title-alias: Sealing Wax
 ---
 # Sealing Wax
 *Adventuring gear*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Armbrustexperte
+linter-yaml-title-alias: Armbrustexperte
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
+  - Armbrustexperte
   - Crossbow Expert
 ---
 # Armbrustexperte

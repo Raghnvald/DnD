@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Knave's Eye Patch"
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: "Knave's Eye Patch"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/wdh
 aliases:
-  - Knave's Eye Patch
-linter-yaml-title-alias: Knave's Eye Patch
+  - "Knave's Eye Patch"
 ---
 # Knave's Eye Patch
 *Wondrous item, rare (requires attunement)*  

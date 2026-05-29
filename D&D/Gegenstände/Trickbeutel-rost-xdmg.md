@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Trickbeutel, rostfarben
+linter-yaml-title-alias: Trickbeutel, rostfarben
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Bag of Tricks, Rust
-linter-yaml-title-alias: Bag of Tricks, Rust
+  - Trickbeutel, rostfarben
 ---
 # Trickbeutel, rostfarben
 *Wondrous item, uncommon*  

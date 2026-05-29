@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Forbiddance
+linter-yaml-title-alias: Forbiddance
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -8,13 +13,8 @@ tags:
   - Zauber/Grad/6
   - Zauber/Ritual
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Forbiddance
-linter-yaml-title-alias: Forbiddance
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  

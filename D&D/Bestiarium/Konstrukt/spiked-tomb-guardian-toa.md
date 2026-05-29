@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spiked Tomb Guardian
+linter-yaml-title-alias: Spiked Tomb Guardian
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

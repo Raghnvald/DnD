@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Items
+linter-yaml-title-alias: Gruul Items
 tags:
   - Quelle/5e/ggr
 aliases:

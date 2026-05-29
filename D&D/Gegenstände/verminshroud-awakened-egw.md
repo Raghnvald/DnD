@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Verminshroud (Awakened)
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Verminshroud (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Verminshroud (Awakened)
-linter-yaml-title-alias: Verminshroud (Awakened)
 ---
 # Verminshroud (Awakened)
 *Wondrous item, legendary (requires attunement)*  

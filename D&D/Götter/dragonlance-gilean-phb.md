@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gilean
+linter-yaml-title-alias: Gilean
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/dragonlance

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiery Blast Trap
+linter-yaml-title-alias: Fiery Blast Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Strixhaven a Curriculum of Chaos
+linter-yaml-title-alias: Index of Strixhaven a Curriculum of Chaos
+aliases:
+  - Index of Strixhaven a Curriculum of Chaos
 ---
 # Index of Strixhaven a Curriculum of Chaos
 

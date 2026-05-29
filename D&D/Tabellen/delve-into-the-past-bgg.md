@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Delve into the Past
+linter-yaml-title-alias: Delve into the Past
 tags:
   - Quelle/5e/bgg
 aliases:

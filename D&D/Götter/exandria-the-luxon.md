@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Luxon
+linter-yaml-title-alias: The Luxon
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/light

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inspiration
+linter-yaml-title-alias: Inspiration
 tags:
   - Quelle/5e/dmg
 aliases:

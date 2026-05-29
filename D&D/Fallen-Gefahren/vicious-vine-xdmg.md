@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vicious Vine
+linter-yaml-title-alias: Vicious Vine
 tags:
   - Quelle/5e/xdmg
 aliases:

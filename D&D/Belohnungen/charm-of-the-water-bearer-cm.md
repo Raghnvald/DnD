@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Water Bearer
+linter-yaml-title-alias: Charm of the Water Bearer
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cm

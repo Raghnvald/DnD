@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Chained Oblivion
+linter-yaml-title-alias: The Chained Oblivion
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave

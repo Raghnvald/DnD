@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Truesight
+linter-yaml-title-alias: Boon of Truesight
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

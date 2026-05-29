@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trophy Room
+linter-yaml-title-alias: Trophy Room
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ladder
+linter-yaml-title-alias: Ladder
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Ladder
-linter-yaml-title-alias: Ladder
 ---
 # Ladder
 *Adventuring gear*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Purple Worm Poison
+linter-yaml-title-alias: Purple Worm Poison
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Purple Worm Poison
-linter-yaml-title-alias: Purple Worm Poison
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

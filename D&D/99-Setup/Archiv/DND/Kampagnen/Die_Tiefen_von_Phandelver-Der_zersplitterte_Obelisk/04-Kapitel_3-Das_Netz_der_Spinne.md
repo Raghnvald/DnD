@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "<center>Teil 3: Das Netz der Spinne</center>"
+linter-yaml-title-alias: "<center>Teil 3: Das Netz der Spinne</center>"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "<center>Teil 3: Das Netz der Spinne</center>"
   - Chapter 3: The Spider's Web
 ---
 # <center>Teil 3: Das Netz der Spinne</center>
@@ -110,7 +112,7 @@ Wenn die Charaktere nach Bowgentles Zauberbuch fragen, erzählt Agatha ihnen, da
 Die Charaktere könnten Agatha stattdessen nach etwas anderem fragen - zum Beispiel nach dem Standort von Burg Cragmaw, dem Ort der Wellenecho-Höhle, der Identität der Spinne oder Hamun Kosts Frage nach dem Alten Eulenbrunnen (siehe diesen Abschnitt weiter unten). Agatha ist gut informiert und eine fähige Wahrsagerin, so dass sie fast jede einzelne Frage zum Abenteuer beantworten kann, die die Spieler ihren Charakteren zu stellen gedenken. Allerdings warnt die [[Todesfee-mm|Todesfee]] die Charaktere, dass sie nur eine einzige Frage beantworten wird, also sollten sie diese sorgfältig auswählen.
 
 ### Schwester Garaeles Aufgabe
-Wenn man erfährt, was Agatha über das verschwundene Zauberbuch weiß, schließt man eine Aufgabe ab, die der Gruppe von Schwester Garaele in Phandalin gegeben wurde. Die Charaktere sollten sich bei Schwester Garaele melden, um ihre Bezahlung von drei [[Gegenstände/Heiltrank-dmg|Heiltränken]] zu erhalten.
+Wenn man erfährt, was Agatha über das verschwundene Zauberbuch weiß, schließt man eine Aufgabe ab, die der Gruppe von Schwester Garaele in Phandalin gegeben wurde. Die Charaktere sollten sich bei Schwester Garaele melden, um ihre Bezahlung von drei [[Trank_der_Heilung-dmg|Heiltränken]] zu erhalten.
 
 ## Alter Eulenbrunnen
 Der Alte Eulenbrunnen wurde vor Tausenden von Jahren von einem lange verschwundenen Imperium erbaut. Es handelt sich um einen zerstörten Wachturm, der heute wenig mehr ist als einige bröckelige Mauern und der abgebrochene Stumpf eines Turms. Im Hof des Turms steht ein alter Brunnen, aus dem noch immer sauberes, klares Wasser gefördert werden kann. Der Alte Eulenbrunnen liegt in den wilden und rauen Hügeln südlich des Dreieber-Pfads. Der Ort ist relativ leicht zu finden, und jeder NSC in Phandalin kann den Weg zur Ruine beschreiben.
@@ -139,7 +141,7 @@ $\quad$Kost schweigt allerdings über den Grund für seine Anwesenheit in der Re
 - Er will der [[Todesfee-mm|Todesfee]] Agatha eine Frage stellen: „Wie lautet der Name des Magiers, der den Turm am Alten Eulenbrunnen gebaut hat?“ Kost will nicht den Zorn der [[Todesfee-mm|Todesfee]] riskieren, aber die Charaktere könnten die Frage für ihn stellen. (Agatha kennt die Antwort: Arthindol.)
 
 ### Schätze 
-In Hamun Kosts Zelt befindet sich bequeme Reiseausrüstung, darunter ein Feldbett, ein Stuhl, ein Schreibtisch, Vorräte und eine Truhe voller Kleider. In der Truhe befindet sich ein Lederbeutel mit 35 <font color="Silver">Silbermünzen</font>, 20 <font color="SkyBlue">Elektrummünzen</font>, 20 <font color="Gold">Goldmünzen</font>, 5 Platinmünzen und einer Perle (100 GM). Ausserdem ein ein [[Gegenstände/Heiltrank-dmg|Heiltrank]], eine [[Zauberschriftrolle-Zaubergrad-2-old|Zauberschriftrolle]] der [[Dunkelheit-phb|Dunkelheit]] in einer Knochenröhre und eine kleine juwelenbesetzte Schachtel im Wert von 25 <font color="Gold">Goldmünzen</font>.
+In Hamun Kosts Zelt befindet sich bequeme Reiseausrüstung, darunter ein Feldbett, ein Stuhl, ein Schreibtisch, Vorräte und eine Truhe voller Kleider. In der Truhe befindet sich ein Lederbeutel mit 35 <font color="Silver">Silbermünzen</font>, 20 <font color="SkyBlue">Elektrummünzen</font>, 20 <font color="Gold">Goldmünzen</font>, 5 Platinmünzen und einer Perle (100 GM). Ausserdem ein ein [[Trank_der_Heilung-dmg|Heiltrank]], eine [[Zauberschriftrolle-Zaubergrad-2-old|Zauberschriftrolle]] der [[Dunkelheit-phb|Dunkelheit]] in einer Knochenröhre und eine kleine juwelenbesetzte Schachtel im Wert von 25 <font color="Gold">Goldmünzen</font>.
 
 $\quad$Das Schmuckkästchen enthält die bisher interessanteste Entdeckung des roten Zauberers: einen [[Ring_des_Schutzes-dmg|Ring des Schutzes]] aus dem alten Netheril. Der Ring ist aus einem einzigen Stück mystischen grünen Glases gefertigt, das stärker als Stahl ist. Er hat die zusätzliche Eigenschaft, dass der Träger weniger Gefahr läuft, etwas fallen zu lassen oder zu verlieren, das er in der Hand hält, an der er den Ring trägt. Der Träger erhält einen +4-Bonus auf Schutzwürfe oder Überprüfungen, um zu verhindern, dass er einen Gegenstand in dieser Hand fallen lässt oder entwaffnet wird.
 
@@ -254,7 +256,7 @@ Zwei [[Riesenspinne-mm|Riesenspinnen]] lauern in dem Gebäude und verstecken sic
 
 Es ist schwierig, um die Spinnweben herumzukommen, weil sich auf der Nordseite der Straße ein Dickicht befindet. Wenn man das Gebäude im Süden umgeht, gelangt man zu den [[Bestiarium/plant/Zweigplagen im Gebiet [[#U5 Zerstörtes Bauernhaus|U5]].
 
-**Schatz.** Die Leiche eines unglücklichen Abenteurers liegt in Spinnenseide eingehüllt in der westlichen Hälfte des Gebäudes. Der Körper ist verschrumpelt und ausgetrocknet, aber es scheint ein männlicher Elf gewesen zu sein. Der Leichnam trägt eine [[Gegenstände/Lederrüstung-phb|Lederrüstung]]+1 und ein [[Kurzschwert-old]] in der Scheide an seiner Hüfte. Eine sorgfältige Durchsuchung ergibt auch einen [[Gegenstände/Heiltrank-dmg|Heiltrank]] in einer Gürteltasche, zusammen mit 23 <font color="Gold">Goldmünzen</font> und 35 <font color="Silver">Silbermünzen</font>.
+**Schatz.** Die Leiche eines unglücklichen Abenteurers liegt in Spinnenseide eingehüllt in der westlichen Hälfte des Gebäudes. Der Körper ist verschrumpelt und ausgetrocknet, aber es scheint ein männlicher Elf gewesen zu sein. Der Leichnam trägt eine [[Gegenstände/Lederrüstung-phb|Lederrüstung]]+1 und ein [[Kurzschwert-old]] in der Scheide an seiner Hüfte. Eine sorgfältige Durchsuchung ergibt auch einen [[Trank_der_Heilung-dmg|Heiltrank]] in einer Gürteltasche, zusammen mit 23 <font color="Gold">Goldmünzen</font> und 35 <font color="Silver">Silbermünzen</font>.
 
 #### U7: Drachenturm
 >[!readaloud] 
@@ -514,7 +516,7 @@ Die Cragmaws glauben, dass es in diesem Turm spukt, aber sie irren sich. Der Rau
 
 Dieser Raum war einst eine Bibliothek und eine Werkstatt, aber von seinem ursprünglichen Inhalt ist nichts mehr erhalten.
 
-**Schatz.** The grell's nest in the upper part of the tower contains a battered wooden chest the monster found in the wreckage of the room below. Die Truhe ist vom Boden aus schwer zu sehen, sodass ein erfolgreicher Wurf auf `Weisheit (Wahrnehmung)` gegen `SG 15` notwendig ist. Um den Vorsprung, auf dem die Kiste ruht, zu erklimmen ist ein Wurf auf `Stärke (Athletik) (SG 15)` notwendig. Die Truhe ist nicht verschlossen und enthält 90 Elektrummünzen, 120 Goldmünzen, einen [[Gegenstände/Heiltrank-dmg|Heiltrank]], eine [[Zauberschriftrolle-Zaubergrad-2-dmg|Schriftrolle]] der [[Zauber/Stille-phb|Stille]] und eine [[Zauberschriftrolle-Zaubergrad-3-dmg|Schriftrolle]] des [[Zauber/Wiederbeleben-phb|Wiederbelebens]]. 
+**Schatz.** The grell's nest in the upper part of the tower contains a battered wooden chest the monster found in the wreckage of the room below. Die Truhe ist vom Boden aus schwer zu sehen, sodass ein erfolgreicher Wurf auf `Weisheit (Wahrnehmung)` gegen `SG 15` notwendig ist. Um den Vorsprung, auf dem die Kiste ruht, zu erklimmen ist ein Wurf auf `Stärke (Athletik) (SG 15)` notwendig. Die Truhe ist nicht verschlossen und enthält 90 Elektrummünzen, 120 Goldmünzen, einen [[Trank_der_Heilung-dmg|Heiltrank]], eine [[Zauberschriftrolle-Zaubergrad-2-dmg|Schriftrolle]] der [[Zauber/Stille-phb|Stille]] und eine [[Zauberschriftrolle-Zaubergrad-3-dmg|Schriftrolle]] des [[Zauber/Wiederbeleben-phb|Wiederbelebens]]. 
 
 #### C14: Das Königsgemach
 Jeder Charakter, der an der Tür lauscht, hört zwei Stimmen in einer hitzigen Diskussion - eine laute, knurrende Stimme, die eine Bezahlung für etwas fordert, und eine seidenweiche Antwort.

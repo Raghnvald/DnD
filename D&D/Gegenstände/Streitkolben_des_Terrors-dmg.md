@@ -2,10 +2,12 @@
 Bezeichnung: Streitkolben des Terrors
 Kategorie: Einfache Nahkampfwaffe
 Schaden: 1W6 Wucht
-Eigenschaften: /
+Eigenschaften:
+  - /
 Einstimmung: erfordert
 Kst.: /
 Gew.: 2,0 kg
+linter-yaml-title-alias: Streitkolben des Terrors
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -13,8 +15,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Mace of Terror
-linter-yaml-title-alias: Mace of Terror
+  - Streitkolben des Terrors
 ---
 # Streitkolben des Terrors
 *Waffe ([[Streitkolben-phb|Streitkolben]]), selten (erfordert Einstimmung)*  

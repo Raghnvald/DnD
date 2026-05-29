@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Mogis's Votary"
+linter-yaml-title-alias: "Mogis's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

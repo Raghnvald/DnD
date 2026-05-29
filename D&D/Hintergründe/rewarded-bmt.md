@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rewarded
+linter-yaml-title-alias: Rewarded
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bmt

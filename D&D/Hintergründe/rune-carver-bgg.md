@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rune Carver
+linter-yaml-title-alias: Rune Carver
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgg

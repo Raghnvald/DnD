@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Dunkelsicht
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Monk (Way of Shadow)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -19,18 +29,8 @@ tags:
   - Subklasse/way-of-shadow
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Monk (Way of Shadow)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
-  - Darkvision
-linter-yaml-title-alias: Darkvision
+  - Dunkelsicht
 ---
 # Dunkelsicht
 *Verwandlung des 2. Grades.*

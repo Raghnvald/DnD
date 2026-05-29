@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Alchemist
+linter-yaml-title-alias: Skeletal Alchemist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Skeletal Alchemist
-linter-yaml-title-alias: Skeletal Alchemist
 ---
 # [Skeletal Alchemist](3-Mechanics\CLI\bestiary\undead/skeletal-alchemist-gos.md)
 *Source: Ghosts of Saltmarsh p. 253*  

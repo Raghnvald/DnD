@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow-Touched
+linter-yaml-title-alias: Shadow-Touched
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

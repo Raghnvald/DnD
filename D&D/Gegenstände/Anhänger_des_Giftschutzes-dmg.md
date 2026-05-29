@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Anhänger des Giftschutzes
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 0,5 kg
+linter-yaml-title-alias: Anhänger des Giftschutzes
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Anhänger des Giftschutzes
   - Periapt of Proof against Poison
-linter-yaml-title-alias: Anhänger des Giftschutzes
 ---
 # Anhänger des Giftschutzes
 *Wundersamer Gegenstand, selten*

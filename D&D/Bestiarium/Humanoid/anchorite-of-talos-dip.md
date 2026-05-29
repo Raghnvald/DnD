@@ -8,6 +8,7 @@ HG: "3"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Anchorite of Talos
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

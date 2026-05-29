@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaerdal Ironhand
+linter-yaml-title-alias: Gaerdal Ironhand
 tags:
   - Kompendium/Götter/Domäne/peace
   - Kompendium/Götter/Domäne/war

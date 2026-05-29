@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe des Magiewiderstands
+linter-yaml-title-alias: Gabe des Magiewiderstands
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Magic Resistance
+  - Gabe des Magiewiderstands
 ---
 # Gabe des Magiewiderstands
 

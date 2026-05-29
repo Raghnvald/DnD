@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Obsidian-Feuersteindrachen-Ritterrüstung
 Rüstung: Schwer
+linter-yaml-title-alias: Obsidian-Feuersteindrachen-Ritterrüstung
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bgdia
 aliases:
-  - Obsidian Flint Dragon Plate
-linter-yaml-title-alias: Obsidian Flint Dragon Plate
+  - Obsidian-Feuersteindrachen-Ritterrüstung
 ---
 # Obsidian-Feuersteindrachen-Ritterrüstung
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary*  

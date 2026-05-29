@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Staff of the Rooted Hills
+Eigenschaften:
+  - erfordert Einstimmung
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Staff of the Rooted Hills
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +14,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Staff of the Rooted Hills
-linter-yaml-title-alias: Staff of the Rooted Hills
 ---
 # Staff of the Rooted Hills
 *Staff, weapon, rare (requires attunement)*  

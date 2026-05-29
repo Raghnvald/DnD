@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Arrow of Slaying
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: 0,025 kg
+status: WIP
+linter-yaml-title-alias: Arrow of Slaying
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Arrow of Slaying
-linter-yaml-title-alias: Arrow of Slaying
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  

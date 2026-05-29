@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Mythic Odysseys of Theros
+linter-yaml-title-alias: Index of Mythic Odysseys of Theros
+aliases:
+  - Index of Mythic Odysseys of Theros
 ---
 # Index of Mythic Odysseys of Theros
 

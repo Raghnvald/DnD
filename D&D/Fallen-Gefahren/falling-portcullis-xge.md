@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falling Portcullis
+linter-yaml-title-alias: Falling Portcullis
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bezauberung des Heldenmuts
+linter-yaml-title-alias: Bezauberung des Heldenmuts
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dmg
 aliases:
+  - Bezauberung des Heldenmuts
   - Charm of Heroism
 ---
 # Bezauberung des Heldenmuts

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darathra Shendrel
+linter-yaml-title-alias: Darathra Shendrel
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Darathra Shendrel
-linter-yaml-title-alias: Darathra Shendrel
 ---
 # [Darathra Shendrel](3-Mechanics\CLI\bestiary\npc/darathra-shendrel-skt.md)
 *Source: Storm King's Thunder p. 253*  

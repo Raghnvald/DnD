@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix A: Dungeon Denizens"
+linter-yaml-title-alias: "Appendix A: Dungeon Denizens"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Appendix A: Dungeon Denizens"
   - Appendix A: Dungeon Denizens
 ---
 # Appendix A: Dungeon Denizens

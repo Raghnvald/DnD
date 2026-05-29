@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Psychic Wind Psychic Effects
+linter-yaml-title-alias: Psychic Wind Psychic Effects
 tags:
   - Quelle/5e/xdmg
 aliases:

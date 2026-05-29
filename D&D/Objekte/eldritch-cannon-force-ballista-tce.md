@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Cannon, Force Ballista
+linter-yaml-title-alias: Eldritch Cannon, Force Ballista
 tags:
   - Kompendium/Objekt/size/unknown
   - Kompendium/Objekt/type/unknown

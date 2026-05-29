@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Kor
+linter-yaml-title-alias: Kor
 tags:
   - Quelle/5e/psz
   - Rasse/kor
 aliases:
   - "Kor"
+  - Kor
 ---
 # Kor
 *Source: Plane Shift: Zendikar p. 10*  

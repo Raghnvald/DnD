@@ -7,6 +7,7 @@ Größe: Unbekannt
 HG: /
 Habitat:
   - /
+linter-yaml-title-alias: Animated Object (Medium or Smaller)
 tags:
   - Monster/Größe/Unbekannt
   - Monster/HG/

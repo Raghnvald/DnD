@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Amulett der Ebenen
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: erfordert Einstimmung
+Eigenschaften:
+  - erfordert Einstimmung
 Kst.: /
 Gew.: 0,5 kg
+linter-yaml-title-alias: Amulett der Ebenen
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
@@ -11,7 +13,7 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Amulet of the Planes
-linter-yaml-title-alias: Amulett der Ebenen
+  - Amulett der Ebenen
 ---
 # Amulett der Ebenen
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  

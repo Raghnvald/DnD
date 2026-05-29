@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Feylost
+linter-yaml-title-alias: Feylost
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/wbtw
 aliases:
   - "Feylost"
+  - Feylost
 ---
 # Feylost
 *Source: The Wild Beyond the Witchlight p. 9*  

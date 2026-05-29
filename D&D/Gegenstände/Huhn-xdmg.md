@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chicken
+linter-yaml-title-alias: Chicken
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Chicken
-linter-yaml-title-alias: Chicken
 ---
 # Chicken
 *Trade good*  

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Divination
 Zaubergrad: 4
+linter-yaml-title-alias: Divination
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid (Circle of the Land, Forest)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/forest
@@ -9,13 +14,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid (Circle of the Land, Forest)
 aliases:
   - Divination
-linter-yaml-title-alias: Divination
 ---
 # Divination
 *4th-level, Divination (ritual)*  

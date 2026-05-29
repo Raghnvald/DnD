@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bond of the Talisman
+linter-yaml-title-alias: Bond of the Talisman
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/tce

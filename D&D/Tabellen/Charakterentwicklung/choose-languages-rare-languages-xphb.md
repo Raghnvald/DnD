@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Choose Languages; Rare Languages
+linter-yaml-title-alias: Choose Languages; Rare Languages
 tags:
   - Quelle/5e/xphb
 aliases:

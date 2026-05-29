@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow
+linter-yaml-title-alias: Shadow
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Shadow
-linter-yaml-title-alias: Shadow
 ---
 # [Shadow](3-Mechanics\CLI\bestiary\undead/shadow.md)
 *Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

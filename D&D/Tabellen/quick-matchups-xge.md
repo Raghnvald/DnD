@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quick Matchups
+linter-yaml-title-alias: Quick Matchups
 tags:
   - Quelle/5e/xge
 aliases:

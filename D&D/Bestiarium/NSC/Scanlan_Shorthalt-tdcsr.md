@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scanlan Shorthalt
+linter-yaml-title-alias: Scanlan Shorthalt
 tags:
   - Monster/Größe/Klein
   - Monster/HG/15
-  - Monster/Typ/Humanoid/gnome
+  - Monster/Typ/Humanoid/Gnom
   - Quelle/5e/tdcsr
 aliases:
   - Scanlan Shorthalt
-linter-yaml-title-alias: Scanlan Shorthalt
 ---
 # [Scanlan Shorthalt](3-Mechanics\CLI\bestiary\npc/scanlan-shorthalt-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 271*  

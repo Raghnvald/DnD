@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Ebony Fly
+linter-yaml-title-alias: Figurine of Wondrous Power, Ebony Fly
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Figurine of Wondrous Power, Ebony Fly
-linter-yaml-title-alias: Figurine of Wondrous Power, Ebony Fly
 ---
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous item, rare*  

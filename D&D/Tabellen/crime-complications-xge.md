@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crime Complications
+linter-yaml-title-alias: Crime Complications
 tags:
   - Quelle/5e/xge
 aliases:

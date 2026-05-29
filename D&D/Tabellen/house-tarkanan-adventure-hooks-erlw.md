@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Tarkanan Adventure Hooks
+linter-yaml-title-alias: House Tarkanan Adventure Hooks
 tags:
   - Quelle/5e/erlw
 aliases:

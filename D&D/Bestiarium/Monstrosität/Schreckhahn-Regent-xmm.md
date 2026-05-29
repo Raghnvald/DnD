@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cockatrice Regent
+linter-yaml-title-alias: Cockatrice Regent
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

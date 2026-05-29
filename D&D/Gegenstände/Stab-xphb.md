@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff
+linter-yaml-title-alias: Staff
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Staff
-linter-yaml-title-alias: Staff
 ---
 # Staff
 *Staff, weapon, spellcasting focus*  

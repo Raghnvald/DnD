@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gold for Fools and Princes
+linter-yaml-title-alias: Gold for Fools and Princes
 tags:
   - Quelle/5e/jttrc
 aliases:
   - "Gold for Fools and Princes"
+  - Gold for Fools and Princes
 ---
 # Gold for Fools and Princes
 *Source: Journeys through the Radiant Citadel, p. 92* 

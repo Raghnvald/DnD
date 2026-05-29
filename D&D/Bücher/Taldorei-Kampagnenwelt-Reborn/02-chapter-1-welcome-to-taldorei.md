@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Welcome to Tal'Dorei"
+linter-yaml-title-alias: "Chapter 1: Welcome to Tal'Dorei"
 tags:
   - Quelle/5e/tdcsr
 aliases:
+  - "Chapter 1: Welcome to Tal'Dorei"
   - Chapter 1: Welcome to Tal'Dorei
 ---
 # Chapter 1: Welcome to Tal'Dorei

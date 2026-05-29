@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bracers of Defense
+linter-yaml-title-alias: Bracers of Defense
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Bracers of Defense
-linter-yaml-title-alias: Bracers of Defense
 ---
 # Bracers of Defense
 *Wondrous item, rare (requires attunement)*  

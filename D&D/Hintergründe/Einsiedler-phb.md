@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Einsiedler
+linter-yaml-title-alias: Einsiedler
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
+  - Einsiedler
   - Hermit
 ---
 # Einsiedler

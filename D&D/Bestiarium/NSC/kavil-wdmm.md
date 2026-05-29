@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kavil
+linter-yaml-title-alias: Kavil
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdmm
 aliases:
   - Kavil
-linter-yaml-title-alias: Kavil
 ---
 # [Kavil](3-Mechanics\CLI\bestiary\npc/kavil-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 205*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Friends and Foes"
+linter-yaml-title-alias: "Chapter 6: Friends and Foes"
 tags:
   - Quelle/5e/ggr
 aliases:
+  - "Chapter 6: Friends and Foes"
   - Chapter 6: Friends and Foes
 ---
 # Chapter 6: Friends and Foes

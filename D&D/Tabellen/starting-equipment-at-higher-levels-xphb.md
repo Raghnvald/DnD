@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Starting Equipment at Higher Levels
+linter-yaml-title-alias: Starting Equipment at Higher Levels
 tags:
   - Quelle/5e/xphb
 aliases:

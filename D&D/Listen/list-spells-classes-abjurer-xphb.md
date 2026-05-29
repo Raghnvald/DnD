@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Abjurer
+linter-yaml-title-alias: Spells for Abjurer
 tags:
   - Zauber/list/subclass/abjurer
 aliases:

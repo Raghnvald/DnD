@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horn of Valhalla, Silver
+linter-yaml-title-alias: Horn of Valhalla, Silver
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Horn of Valhalla, Silver
-linter-yaml-title-alias: Horn of Valhalla, Silver
 ---
 # Horn of Valhalla, Silver
 *Wondrous item, rare*  

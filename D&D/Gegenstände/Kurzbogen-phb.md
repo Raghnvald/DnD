@@ -2,17 +2,20 @@
 Bezeichnung: Kurzbogen
 Kategorie: Einfache Fernkampfwaffe
 Schaden: 1W6 Stich
-Eigenschaften: Geschosse, Zweihändig
+Eigenschaften:
+  - Geschosse
+  - Zweihändig
 Einstimmung: /
 Kst.: 25 GM
-Gew.: 1,0 kg.
+Gew.: 1,0 kg
+linter-yaml-title-alias: Kurzbogen
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/phb
 aliases:
+  - Kurzbogen
   - Shortbow
-linter-yaml-title-alias: Kurzbogen
 RW: 24m / 96m
 Schadensart: Stichschaden
 ---

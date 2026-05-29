@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 9: Knight"
+linter-yaml-title-alias: "Chapter 9: Knight"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 9: Knight"
   - Chapter 9: Knight
 ---
 # Chapter 9: Knight

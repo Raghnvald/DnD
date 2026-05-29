@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Animal Friendship
+linter-yaml-title-alias: Potion of Animal Friendship
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Animal Friendship
-linter-yaml-title-alias: Potion of Animal Friendship
 ---
 # Potion of Animal Friendship
 *Potion, uncommon*  

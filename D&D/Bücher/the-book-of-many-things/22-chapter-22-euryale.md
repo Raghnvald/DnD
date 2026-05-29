@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 22: Euryale"
+linter-yaml-title-alias: "Chapter 22: Euryale"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 22: Euryale"
   - Chapter 22: Euryale
 ---
 # Chapter 22: Euryale

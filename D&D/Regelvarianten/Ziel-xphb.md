@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Target
+linter-yaml-title-alias: Target
 tags:
   - Quelle/5e/xphb
 aliases:

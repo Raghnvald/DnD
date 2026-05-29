@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Automatic Ballista
+linter-yaml-title-alias: Automatic Ballista
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/hbtd
 aliases:
   - "Automatic Ballista"
+  - Automatic Ballista
 ---
 # Automatic Ballista
 *Source: Hold Back The Dead p. 4*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisons
+linter-yaml-title-alias: Poisons
 tags:
   - Quelle/5e/dmg
 aliases:

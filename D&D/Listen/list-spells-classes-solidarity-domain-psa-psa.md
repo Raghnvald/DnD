@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Solidarity Domain (PSA)
+linter-yaml-title-alias: Spells for Solidarity Domain (PSA)
 tags:
   - ttrpg-cli/spell/list/subclass/solidarity-domain-psa
 aliases:
   - "Spells for Solidarity Domain (PSA)"
+  - Spells for Solidarity Domain (PSA)
 ---
 # Spells for Solidarity Domain (PSA)
 

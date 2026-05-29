@@ -6,6 +6,16 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Water Walk
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -21,18 +31,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Ranger
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Water Walk
-linter-yaml-title-alias: Water Walk
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  

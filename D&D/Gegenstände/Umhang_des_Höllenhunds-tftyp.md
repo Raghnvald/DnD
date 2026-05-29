@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hell Hound Cloak
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Hell Hound Cloak
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Hell Hound Cloak
-linter-yaml-title-alias: Hell Hound Cloak
 ---
 # Hell Hound Cloak
 *Wondrous item, cursed item, rare (requires attunement)*  

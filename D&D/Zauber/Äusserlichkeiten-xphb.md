@@ -7,6 +7,15 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Seeming
+classes:
+  - Bard
+  - Ranger (Gloom Stalker)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Warlock (The Genie, Djinni)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -18,17 +27,8 @@ tags:
   - Subklasse/the-genie/djinni
   - Zauber/Grad/5
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Ranger (Gloom Stalker)
-  - Sorcerer
-  - Warlock (Archfey Patron)
-  - Warlock (The Genie, Djinni)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Seeming
-linter-yaml-title-alias: Seeming
 ---
 # Seeming
 *5th-level, Illusion*  

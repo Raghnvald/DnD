@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Emblem
+linter-yaml-title-alias: Emblem
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Emblem
-linter-yaml-title-alias: Emblem
 ---
 # Emblem
 *Spellcasting focus*  

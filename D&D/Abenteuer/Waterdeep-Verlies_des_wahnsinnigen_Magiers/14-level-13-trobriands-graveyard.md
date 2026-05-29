@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 13: Trobriand's Graveyard"
+linter-yaml-title-alias: "Level 13: Trobriand's Graveyard"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 13: Trobriand's Graveyard"
   - Level 13: Trobriand's Graveyard
 ---
 # Level 13: Trobriand's Graveyard

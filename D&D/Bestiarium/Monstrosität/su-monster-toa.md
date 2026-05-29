@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Su-monster
+linter-yaml-title-alias: Su-monster
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

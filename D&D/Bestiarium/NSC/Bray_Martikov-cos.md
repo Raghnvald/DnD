@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bray Martikov
+linter-yaml-title-alias: Bray Martikov
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/cos
 aliases:
   - Bray Martikov
-linter-yaml-title-alias: Bray Martikov
 ---
 # Bray Martikov
 *Source: Curse of Strahd p. 98*  

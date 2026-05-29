@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Heroes of the Borderlands
+linter-yaml-title-alias: Index of Heroes of the Borderlands
+aliases:
+  - Index of Heroes of the Borderlands
 ---
 # Index of Heroes of the Borderlands
 

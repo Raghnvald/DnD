@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Iron Flask
+linter-yaml-title-alias: Iron Flask
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Iron Flask
-linter-yaml-title-alias: Iron Flask
 ---
 # Iron Flask
 *Wondrous item, legendary*  

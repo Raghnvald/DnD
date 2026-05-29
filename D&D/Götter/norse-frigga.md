@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frigga
+linter-yaml-title-alias: Frigga
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

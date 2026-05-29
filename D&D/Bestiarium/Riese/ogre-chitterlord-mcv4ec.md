@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Chitterlord
+linter-yaml-title-alias: Ogre Chitterlord
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

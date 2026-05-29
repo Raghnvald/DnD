@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Irisoth
+linter-yaml-title-alias: Irisoth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Irisoth
-linter-yaml-title-alias: Irisoth
 ---
 # [Irisoth](3-Mechanics\CLI\bestiary\npc/irisoth-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Optionen für Charaktere
+linter-yaml-title-alias: Optionen für Charaktere
 tags:
   - Quelle/5e/xge
 aliases:
   - Character Options
+  - Optionen für Charaktere
 ---
 # Optionen für Charaktere
 *Source: Xanathar's Guide to Everything, p. 7* 

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Chrysopras
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Chrysopras
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Chrysoprase
-linter-yaml-title-alias: Chrysoprase
+  - Chrysopras
 ---
 # Chrysopras
 *Schatz (Edelstein)*  

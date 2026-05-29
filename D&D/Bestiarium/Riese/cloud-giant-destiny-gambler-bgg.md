@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cloud Giant Destiny Gambler
+linter-yaml-title-alias: Cloud Giant Destiny Gambler
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/19

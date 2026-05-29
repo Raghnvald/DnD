@@ -1,17 +1,18 @@
 ---
 Bezeichnung: Alexandrit
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 500 GM
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Alexandrit
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Alexandrite
-linter-yaml-title-alias: Alexandrite
-Status: completed
+  - Alexandrit
 ---
 # Alexandrit
 *Schatz (Edelstein)*  

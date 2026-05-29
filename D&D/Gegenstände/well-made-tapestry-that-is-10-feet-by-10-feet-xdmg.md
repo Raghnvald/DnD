@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Well-made tapestry that is 10 feet by 10 feet
+linter-yaml-title-alias: Well-made tapestry that is 10 feet by 10 feet
 tags:
   - Gegenstand/Ausrüstung/treasure-art-object
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Well-made tapestry that is 10 feet by 10 feet
-linter-yaml-title-alias: Well-made tapestry that is 10 feet by 10 feet
 ---
 # Well-made tapestry that is 10 feet by 10 feet
 *Treasure (art object)*  

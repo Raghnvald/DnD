@@ -1,13 +1,13 @@
 ---
 Bezeichnung: War Horn of Valor
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: War Horn of Valor
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - War Horn of Valor
-linter-yaml-title-alias: War Horn of Valor
 ---
 # War Horn of Valor
 *Wondrous item, rare*  

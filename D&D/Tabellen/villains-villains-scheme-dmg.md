@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Villains; Villain's Scheme"
+linter-yaml-title-alias: "Villains; Villain's Scheme"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Villains; Villain's Scheme"
   - Villains; Villain's Scheme
 ---
 # Villains; Villain's Scheme

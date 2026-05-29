@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Sack
 Kategorie: Behälter
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 KM
 Gew.: 0,25 kg
+status: WIP
+linter-yaml-title-alias: Sack
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Sack
-linter-yaml-title-alias: Sack
 ---
 # Sack
 *Abenteuerausrüstung*  

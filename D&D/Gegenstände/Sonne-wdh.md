@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Sun
 Kategorie: Währung
+Eigenschaften:
+  - /
+Kst.: 10 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Sun
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Sun
-linter-yaml-title-alias: Sun
 ---
 # Sun
 *Treasure (coinage)*  

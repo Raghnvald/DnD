@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Podling
+linter-yaml-title-alias: Podling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Gelber Saphir
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Gelber Saphir
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Yellow Sapphire
-linter-yaml-title-alias: Yellow Sapphire
+  - Gelber Saphir
 ---
 # Gelber Saphir
 *Schatz (Edelstein)*  

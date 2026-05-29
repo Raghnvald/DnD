@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Harm
+linter-yaml-title-alias: Harm
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -7,13 +12,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Harm
-linter-yaml-title-alias: Harm
 ---
 # Harm
 *6th-level, Necromancy*  

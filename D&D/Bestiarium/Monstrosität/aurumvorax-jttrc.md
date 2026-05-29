@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aurumvorax
 status: WIP
+linter-yaml-title-alias: Aurumvorax
 tags:
   - Monster/Größe/Klein
   - Monster/HG/2

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ferol Sal
+linter-yaml-title-alias: Ferol Sal
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Ferol Sal
-linter-yaml-title-alias: Ferol Sal
 ---
 # [Ferol Sal](3-Mechanics\CLI\bestiary\npc/ferol-sal-egw.md)
 *Source: Explorer's Guide to Wildemount p. 249*  

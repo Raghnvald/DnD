@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Elemental Gem, Blue Sapphire
+linter-yaml-title-alias: Elemental Gem, Blue Sapphire
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Elemental Gem, Blue Sapphire
-linter-yaml-title-alias: Elemental Gem, Blue Sapphire
 ---
 # Elemental Gem, Blue Sapphire
 *Wondrous item, uncommon*  

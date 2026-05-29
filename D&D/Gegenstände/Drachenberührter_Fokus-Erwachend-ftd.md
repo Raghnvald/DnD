@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Stirring Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Stirring Dragon-Touched Focus
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ftd
 aliases:
   - Stirring Dragon-Touched Focus
-linter-yaml-title-alias: Stirring Dragon-Touched Focus
 ---
 # Stirring Dragon-Touched Focus
 *Wondrous item, rare (requires attunement by a spellcaster)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thassa
+linter-yaml-title-alias: Thassa
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/tempest
@@ -7,6 +8,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Thassa"
+  - Thassa
 ---
 # Thassa
 *Source: Mythic Odysseys of Theros p. 79* 

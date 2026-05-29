@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Stage Two: Outbreak; Stage Two Encounters"
+linter-yaml-title-alias: "Stage Two: Outbreak; Stage Two Encounters"
 tags:
   - Quelle/5e/vrgr
 aliases:
+  - "Stage Two: Outbreak; Stage Two Encounters"
   - Stage Two: Outbreak; Stage Two Encounters
 ---
 # Stage Two: Outbreak; Stage Two Encounters

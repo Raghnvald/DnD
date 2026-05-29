@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Dragonscarred
+linter-yaml-title-alias: Dragonscarred
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
   - "Dragonscarred"
+  - Dragonscarred
 ---
 # Dragonscarred
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

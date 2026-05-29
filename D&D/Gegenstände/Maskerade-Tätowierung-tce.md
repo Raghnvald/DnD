@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Masquerade Tattoo
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Masquerade Tattoo
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Masquerade Tattoo
-linter-yaml-title-alias: Masquerade Tattoo
 ---
 # Masquerade Tattoo
 *Wondrous item (tattoo), common (requires attunement)*  

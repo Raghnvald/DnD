@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Artists
+linter-yaml-title-alias: Index of Artists
 tags:
   - Quelle/5e/tdcsr
 aliases:

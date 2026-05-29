@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fragmentation Grenade
+linter-yaml-title-alias: Fragmentation Grenade
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Fragmentation Grenade
-linter-yaml-title-alias: Fragmentation Grenade
 ---
 # Fragmentation Grenade
 *Explosive*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Ivory Goats
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Figurine of Wondrous Power, Ivory Goats
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - Figurine of Wondrous Power, Ivory Goats
-linter-yaml-title-alias: Figurine of Wondrous Power, Ivory Goats
 ---
 # Figurine of Wondrous Power, Ivory Goats
 *Wondrous item, major, rare*  

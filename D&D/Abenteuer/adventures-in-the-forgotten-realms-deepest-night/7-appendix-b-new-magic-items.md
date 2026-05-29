@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: New Magic Items"
+linter-yaml-title-alias: "Appendix B: New Magic Items"
 tags:
   - Quelle/5e/aitfr-dn
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stab der Verteidigung
 Kategorie: Zauberstecken
+linter-yaml-title-alias: Stab der Verteidigung
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -11,7 +12,6 @@ tags:
 aliases:
   - Stab der Verteidigung
   - Staff of Defense
-linter-yaml-title-alias: Stab der Verteidigung
 ---
 # Stab der Verteidigung
 *Stab, selten (erfordert Einstimmung durch einen Barden, Hexenmeister, Magier oder Zauberer)*

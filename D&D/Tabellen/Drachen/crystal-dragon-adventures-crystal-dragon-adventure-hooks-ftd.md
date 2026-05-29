@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crystal Dragon Adventures; Crystal Dragon Adventure Hooks
+linter-yaml-title-alias: Crystal Dragon Adventures; Crystal Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd
 aliases:

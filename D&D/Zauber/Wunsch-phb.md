@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Wunsch
 Zaubergrad: 9
+linter-yaml-title-alias: Wunsch
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Wish
-linter-yaml-title-alias: Wunsch
+  - Wunsch
 ---
 # Wunsch
 *Beschwörung des 9. Grades*

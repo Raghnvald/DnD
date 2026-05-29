@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: "0"
 Habitat:
   - /
+image: token/alastrah-skt.webp
 status: WIP
+linter-yaml-title-alias: Alastrah
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0
@@ -15,7 +17,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Alastrah
-linter-yaml-title-alias: Alastrah
 ---
 # [Alastrah](3-Mechanics\CLI\bestiary\npc/alastrah-skt.md)
 *Source: Storm King's Thunder p. 197*  

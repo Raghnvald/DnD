@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Divine Word
 Zaubergrad: 7
+linter-yaml-title-alias: Divine Word
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Divine Word
-linter-yaml-title-alias: Divine Word
 ---
 # Divine Word
 *7th-level, Evocation*  

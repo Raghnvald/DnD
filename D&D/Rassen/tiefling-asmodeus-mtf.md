@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Asmodeus)
+linter-yaml-title-alias: Tiefling (Asmodeus)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/asmodeus

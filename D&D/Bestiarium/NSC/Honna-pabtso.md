@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Honna
+Image: token/honna-pabtso.webp
+linter-yaml-title-alias: Honna
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Honna
-Image: token/honna-pabtso.webp
-linter-yaml-title-alias: Honna
 ---
 # Honna
 *Source: Phandelver and Below: The Shattered Obelisk p. 110*  

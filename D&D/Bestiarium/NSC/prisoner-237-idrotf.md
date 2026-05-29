@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Prisoner 237
+linter-yaml-title-alias: Prisoner 237
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Prisoner 237
-linter-yaml-title-alias: Prisoner 237
 ---
 # [Prisoner 237](3-Mechanics\CLI\bestiary\npc/prisoner-237-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 160*  

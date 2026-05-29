@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Radiance
 Kategorie: Zauberstab
+linter-yaml-title-alias: Radiance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Radiance
-linter-yaml-title-alias: Radiance
 ---
 # Radiance
 *Wand (requires attunement by a spellcaster)*  

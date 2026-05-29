@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Guilds of Ravnica"
+linter-yaml-title-alias: "Chapter 2: Guilds of Ravnica"
 tags:
   - Quelle/5e/ggr
 aliases:
+  - "Chapter 2: Guilds of Ravnica"
   - Chapter 2: Guilds of Ravnica
 ---
 # Chapter 2: Guilds of Ravnica

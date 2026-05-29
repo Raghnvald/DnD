@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blind Fighting
+linter-yaml-title-alias: Blind Fighting
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

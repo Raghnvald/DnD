@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Heroism
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric (Order Domain)
+  - Cleric (Peace Domain)
+  - Paladin
+  - Paladin (Oath of Glory)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/order-domain
@@ -18,16 +26,8 @@ tags:
   - Subklasse/battle-smith
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
-classes:
-  - Artificer (Battle Smith)
-  - Bard
-  - Cleric (Order Domain)
-  - Cleric (Peace Domain)
-  - Paladin
-  - Paladin (Oath of Glory)
 aliases:
   - Heroism
-linter-yaml-title-alias: Heroism
 ---
 # Heroism
 *1st-level, Enchantment*  

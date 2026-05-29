@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Dulcimer
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: 25 GM
+Gew.: 5,0 kg
+status: WIP
+linter-yaml-title-alias: Dulcimer
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Dulcimer
-linter-yaml-title-alias: Dulcimer
 ---
 # Dulcimer
 *Instrument*  

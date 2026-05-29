@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Fortune's Grace"
+linter-yaml-title-alias: "Fortune's Grace"
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/tdcsr
 aliases:
+  - "Fortune's Grace"
   - Fortune's Grace
 ---
 # Fortune's Grace

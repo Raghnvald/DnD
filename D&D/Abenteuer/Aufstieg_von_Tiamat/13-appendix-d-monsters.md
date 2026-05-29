@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix D: Monsters"
+linter-yaml-title-alias: "Appendix D: Monsters"
 tags:
   - Quelle/5e/rot
 aliases:
+  - "Appendix D: Monsters"
   - Appendix D: Monsters
 ---
 # Appendix D: Monsters

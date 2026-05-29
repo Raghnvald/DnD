@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Escape From the Past"
+linter-yaml-title-alias: "Chapter 4: Escape From the Past"
 tags:
   - Quelle/5e/nf
 aliases:

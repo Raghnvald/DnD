@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sweeping Attack
+linter-yaml-title-alias: Sweeping Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

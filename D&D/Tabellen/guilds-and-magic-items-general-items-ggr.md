@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guilds and Magic Items; General Items
+linter-yaml-title-alias: Guilds and Magic Items; General Items
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Monodrone (Rogue)
+linter-yaml-title-alias: Monodrone (Rogue)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

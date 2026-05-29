@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boccob
+linter-yaml-title-alias: Boccob
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

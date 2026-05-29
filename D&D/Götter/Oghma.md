@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oghma, Gott des Wissens
+linter-yaml-title-alias: Oghma, Gott des Wissens
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Wissen
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Oghma
+  - Oghma, Gott des Wissens
 ---
 # Oghma, Gott des Wissens
 *Quelle: SRD / Grundregelwerk* 

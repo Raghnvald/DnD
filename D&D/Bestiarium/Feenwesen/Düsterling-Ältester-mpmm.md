@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darkling Elder
+linter-yaml-title-alias: Darkling Elder
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

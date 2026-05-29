@@ -8,6 +8,7 @@ Angriff: GES
 Schaden: Erschaffung
 status:
   - completed
+linter-yaml-title-alias: Licht
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -19,6 +20,7 @@ tags:
   - Zauber/Original/Light
   - Zauber/Schule/Hervorrufung
 aliases:
+  - Licht
   - Light
 ---
 # Licht

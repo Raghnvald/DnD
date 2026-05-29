@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tharizdun
+linter-yaml-title-alias: Tharizdun
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/greyhawk

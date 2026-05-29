@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/azfyt
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: A Zib for Your Thoughts* 

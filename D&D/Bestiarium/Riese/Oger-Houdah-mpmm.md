@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Howdah
+linter-yaml-title-alias: Ogre Howdah
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

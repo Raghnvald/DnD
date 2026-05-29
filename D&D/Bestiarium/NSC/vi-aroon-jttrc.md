@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vi Aroon
+linter-yaml-title-alias: Vi Aroon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Vi Aroon
-linter-yaml-title-alias: Vi Aroon
 ---
 # [Vi Aroon](3-Mechanics\CLI\bestiary\npc/vi-aroon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 28*  

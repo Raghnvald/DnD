@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +2 Wand of the War Mage
 Kategorie: Zauberstab 
+linter-yaml-title-alias: +2 Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +2 Wand of the War Mage
-linter-yaml-title-alias: +2 Wand of the War Mage
 ---
 # +2 Wand of the War Mage
 *Wand, major, rare (requires attunement by a spellcaster)*  

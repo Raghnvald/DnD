@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Buch
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 25 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Buch
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/keine
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Book
   - Buch
-linter-yaml-title-alias: Buch
 ---
 # Buch
 *Abenteuerausrüstung*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bracers of Defense
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Bracers of Defense
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Bracers of Defense
-linter-yaml-title-alias: Bracers of Defense
 ---
 # Bracers of Defense
 *Wondrous item, major, rare (requires attunement)*  

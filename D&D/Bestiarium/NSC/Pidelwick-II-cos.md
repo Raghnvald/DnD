@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pidlwick II
+linter-yaml-title-alias: Pidlwick II
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Pidlwick II
-linter-yaml-title-alias: Pidlwick II
 ---
 # Pidlwick II
 *Quelle: Fluch des Strahd S. 236*  

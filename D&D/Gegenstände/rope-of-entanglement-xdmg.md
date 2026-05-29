@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Rope of Entanglement
+linter-yaml-title-alias: Rope of Entanglement
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Rope of Entanglement
-linter-yaml-title-alias: Rope of Entanglement
 ---
 # Rope of Entanglement
 *Wondrous item, rare*  

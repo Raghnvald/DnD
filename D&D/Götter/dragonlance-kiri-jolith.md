@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Kiri-Jolith
+linter-yaml-title-alias: Kiri-Jolith
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Kiri-Jolith"
+  - Kiri-Jolith
 ---
 # Kiri-Jolith
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

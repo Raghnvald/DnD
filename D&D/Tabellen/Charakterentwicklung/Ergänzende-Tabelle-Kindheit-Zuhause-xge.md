@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Ergänzende Tabelle; Zuhause der Kindheit
+linter-yaml-title-alias: Ergänzende Tabelle; Zuhause der Kindheit
 tags:
   - Quelle/5e/xge
 aliases:
+  - Ergänzende Tabelle; Zuhause der Kindheit
   - Supplemental Tables; Childhood Home
 ---
 # Ergänzende Tabelle; Zuhause der Kindheit

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizard
+linter-yaml-title-alias: Lizard
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Küste

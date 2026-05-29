@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Short Rest
+linter-yaml-title-alias: Short Rest
 tags:
   - Quelle/5e/xphb
 aliases:

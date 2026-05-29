@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Riesig
 HG: 21
 status: WIP
+linter-yaml-title-alias: Greater Star Spawn Emissary
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/21

@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Phantom Steed
+linter-yaml-title-alias: Phantom Steed
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Undead)
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,17 +21,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock (The Undead)
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Phantom Steed
-linter-yaml-title-alias: Phantom Steed
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

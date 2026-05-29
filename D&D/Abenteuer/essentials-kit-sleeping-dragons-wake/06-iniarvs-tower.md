@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Iniarv's Tower"
+linter-yaml-title-alias: "Iniarv's Tower"
 tags:
   - Quelle/5e/sdw
 aliases:

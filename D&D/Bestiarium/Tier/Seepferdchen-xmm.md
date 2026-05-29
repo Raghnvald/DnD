@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Seahorse
+linter-yaml-title-alias: Seahorse
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/underwater

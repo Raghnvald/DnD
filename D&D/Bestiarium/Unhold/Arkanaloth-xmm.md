@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Arcanaloth
+linter-yaml-title-alias: Arcanaloth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/lower

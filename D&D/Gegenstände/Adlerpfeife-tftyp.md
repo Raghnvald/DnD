@@ -1,17 +1,18 @@
 ---
 Bezeichnung: Adlerpfeife
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status:
+linter-yaml-title-alias: Adlerpfeife
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tftyp
 aliases:
-  - Eagle Whistle
-linter-yaml-title-alias: Eagle Whistle
-Status:
+  - Adlerpfeife
 ---
 # Adlerpfeife
 *Wundersamer Gegenstand, selten*  

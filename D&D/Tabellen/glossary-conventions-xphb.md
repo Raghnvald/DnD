@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glossary Conventions
+linter-yaml-title-alias: Glossary Conventions
 tags:
   - Quelle/5e/xphb
 aliases:

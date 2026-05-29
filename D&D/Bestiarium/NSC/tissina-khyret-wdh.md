@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tissina Khyret
+linter-yaml-title-alias: Tissina Khyret
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Tissina Khyret
-linter-yaml-title-alias: Tissina Khyret
 ---
 # [Tissina Khyret](3-Mechanics\CLI\bestiary\npc/tissina-khyret-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

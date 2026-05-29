@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zauberstab der Angst
 Kategorie: Zauberstab
-Eigenschaften: erfordert Einstimmung
+Eigenschaften:
+  - erfordert Einstimmung
 Kst.: 4.000 GM
 Gew.: 0,5 kg
 image: wand-of-fear.webp
+linter-yaml-title-alias: Zauberstab der Angst
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/selten
@@ -12,6 +14,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Fear
+  - Zauberstab der Angst
 ---
 # Zauberstab der Angst
 _Zauberstab, sehr selten (erfordert Einstimmung )_

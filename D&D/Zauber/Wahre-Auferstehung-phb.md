@@ -1,6 +1,11 @@
 ---
 Bezeichnung: True Resurrection
 Zaubergrad: 9
+linter-yaml-title-alias: True Resurrection
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
 aliases:
   - True Resurrection
-linter-yaml-title-alias: True Resurrection
 ---
 # True Resurrection
 *9th-level, Necromancy*  

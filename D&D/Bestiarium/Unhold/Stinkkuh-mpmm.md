@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stench Kow
+linter-yaml-title-alias: Stench Kow
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

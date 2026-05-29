@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Lock
+linter-yaml-title-alias: Lock
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Lock
-linter-yaml-title-alias: Lock
 ---
 # Lock
 *Adventuring gear*  

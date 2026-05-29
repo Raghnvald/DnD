@@ -1,5 +1,19 @@
 ---
 Bezeichnung: Fireball
+linter-yaml-title-alias: Fireball
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Light Domain)
+  - Druid (Circle of the Land, Arid Land)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (Fiend Patron)
+  - Warlock (The Genie, Efreeti)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -17,22 +31,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/flames-of-the-phoenix
   - Zauber/Schule/Hervorrufung
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Light Domain)
-  - Druid (Circle of the Land, Arid Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (Fiend Patron)
-  - Warlock (The Genie, Efreeti)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Fireball
-linter-yaml-title-alias: Fireball
 ---
 # Fireball
 *3rd-level, Evocation*  

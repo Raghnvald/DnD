@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weird Locales
+linter-yaml-title-alias: Weird Locales
 tags:
   - Quelle/5e/dmg
 aliases:

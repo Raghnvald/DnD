@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Astral Elf
+linter-yaml-title-alias: Astral Elf
 tags:
   - Quelle/5e/aag
   - Rasse/astral-elf
 aliases:
   - "Astral Elf"
+  - Astral Elf
 ---
 # Astral Elf
 *Source: Astral Adventurer's Guide p. 10*  

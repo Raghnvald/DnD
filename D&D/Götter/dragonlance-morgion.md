@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Morgion
+linter-yaml-title-alias: Morgion
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Morgion"
+  - Morgion
 ---
 # Morgion
 *Source: Dragonlance: Shadow of the Dragon Queen p. 18* 

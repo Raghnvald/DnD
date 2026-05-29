@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dust Mephit
+linter-yaml-title-alias: Dust Mephit
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Wüste

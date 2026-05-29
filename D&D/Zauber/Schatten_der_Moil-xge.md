@@ -6,16 +6,16 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Shadow of Moil
+classes:
+  - Warlock
 tags:
   - Klasse/Hexenmeister
   - Quelle/5e/xge
   - Zauber/Grad/4
   - Zauber/Schule/Nekromantie
-classes:
-  - Warlock
 aliases:
   - Shadow of Moil
-linter-yaml-title-alias: Shadow of Moil
 ---
 # Shadow of Moil
 *4th-level, Necromancy*  

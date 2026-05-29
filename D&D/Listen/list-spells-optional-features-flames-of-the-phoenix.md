@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Flames of the Phoenix
+linter-yaml-title-alias: Spells for Flames of the Phoenix
 tags:
   - Zauber/list/optfeature/flames-of-the-phoenix
 aliases:

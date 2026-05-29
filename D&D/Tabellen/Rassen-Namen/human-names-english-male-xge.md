@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – English, Male
+linter-yaml-title-alias: Human Names – English, Male
 tags:
   - Quelle/5e/xge
 aliases:

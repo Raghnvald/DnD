@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ralishaz
+linter-yaml-title-alias: Ralishaz
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/greyhawk

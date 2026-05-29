@@ -10,6 +10,7 @@ Habitat:
   - /
 image: token/ash-zombie-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Aschezombie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
@@ -18,7 +19,6 @@ tags:
 aliases:
   - Aschezombie
   - Ash Zombie
-linter-yaml-title-alias: Aschezombie
 ---
 # Aschezombie
 *Source: Phandelver and Below: The Shattered Obelisk p. 52*  

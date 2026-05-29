@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 2: The Mosaic Mimir"
+linter-yaml-title-alias: "Part 2: The Mosaic Mimir"
 tags:
   - Quelle/5e/tofw
 aliases:

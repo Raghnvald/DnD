@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Fire Giant Strength
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Fire Giant Strength
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Fire Giant Strength
-linter-yaml-title-alias: Potion of Fire Giant Strength
 ---
 # Potion of Fire Giant Strength
 *Potion, minor, rare*  

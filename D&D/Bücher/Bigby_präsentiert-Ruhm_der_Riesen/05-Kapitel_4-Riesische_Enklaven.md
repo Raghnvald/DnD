@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Giant Enclaves"
+linter-yaml-title-alias: "Chapter 4: Giant Enclaves"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Chapter 4: Giant Enclaves"
   - Chapter 4: Giant Enclaves
 ---
 # Chapter 4: Giant Enclaves

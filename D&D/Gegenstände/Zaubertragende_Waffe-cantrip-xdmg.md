@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Weapon (Cantrip)
+linter-yaml-title-alias: Enspelled Weapon (Cantrip)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Enspelled (Cantrip) Wooden Staff
   - Enspelled (Cantrip) Yklwa
   - Enspelled Weapon (Cantrip)
-linter-yaml-title-alias: Enspelled Weapon (Cantrip)
 ---
 # Enspelled Weapon (Cantrip)
 *Uncommon (requires attunement)*  

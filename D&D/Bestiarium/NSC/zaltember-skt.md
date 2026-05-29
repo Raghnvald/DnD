@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zaltember
+linter-yaml-title-alias: Zaltember
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Zaltember
-linter-yaml-title-alias: Zaltember
 ---
 # [Zaltember](3-Mechanics\CLI\bestiary\npc/zaltember-skt.md)
 *Source: Storm King's Thunder p. 180*  

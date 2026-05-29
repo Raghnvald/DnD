@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Bier (Faß, 4L)
 Kategorie: Essen und Trinken
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 2 SM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Bier (Faß, 4L)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Ale (Gallon)
-linter-yaml-title-alias: Bier (Faß, 4L)
+  - Bier (Faß, 4L)
 ---
 # Bier (Faß, 4L)
 *Essen und Trinken*  

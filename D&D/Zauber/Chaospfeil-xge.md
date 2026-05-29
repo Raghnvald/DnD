@@ -6,16 +6,16 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Chaospfeil
+classes:
+  - Sorcerer
 tags:
   - Klasse/Zauberer
   - Quelle/5e/xge
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
-classes:
-  - Sorcerer
 aliases:
-  - Chaos Bolt
-linter-yaml-title-alias: Chaos Bolt
+  - Chaospfeil
 ---
 # Chaospfeil
 *Hervorrufung des 1. Grades*  

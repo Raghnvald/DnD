@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Lavender's Spell Scrolls"
+linter-yaml-title-alias: "Lavender's Spell Scrolls"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Lavender's Spell Scrolls"
   - Lavender's Spell Scrolls
 ---
 # Lavender's Spell Scrolls

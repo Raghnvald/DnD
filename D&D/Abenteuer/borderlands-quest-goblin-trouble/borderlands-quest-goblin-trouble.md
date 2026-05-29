@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Borderlands Quest Goblin Trouble
+linter-yaml-title-alias: Index of Borderlands Quest Goblin Trouble
+aliases:
+  - Index of Borderlands Quest Goblin Trouble
 ---
 # Index of Borderlands Quest Goblin Trouble
 

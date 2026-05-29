@@ -1,13 +1,15 @@
 ---
 Bezeichnung: "Kapitel 1: Rückkehr vom Nimmertod-Friedhof"
 status: WIP
+linter-yaml-title-alias: "Kapitel 1: Rückkehr vom Nimmertod-Friedhof"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Kapitel 1: Rückkehr vom Nimmertod-Friedhof"
   - Chapter 1: Return from Neverdeath Graveyard
 ---
 # Kapitel 1: Rückkehr vom Nimmertod-Friedhof
-*Quelle: Vecna: Vorabend des Ruin* 
+*Quelle: Vecna: Vorabend der Verdammnis* 
 
 ![Ein bizarres Ritual enthüllt die grausigen Aktivitäten des Kults von Vecna](Vecna-Vorabend_der_Verdammnis/img/008-01-001-vecnas-ritual.webp#center)
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Witherling
+linter-yaml-title-alias: Gnoll Witherling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Gnoll Witherling
-linter-yaml-title-alias: Gnoll Witherling
 ---
 # [Gnoll Witherling](3-Mechanics\CLI\bestiary\undead/gnoll-witherling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*  

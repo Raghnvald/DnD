@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Midnight Tears
+linter-yaml-title-alias: Midnight Tears
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Midnight Tears
-linter-yaml-title-alias: Midnight Tears
 ---
 # Midnight Tears
 *Adventuring gear, poison (ingested)*  

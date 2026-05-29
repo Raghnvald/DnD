@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Behir
+linter-yaml-title-alias: Behir
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Unterreich

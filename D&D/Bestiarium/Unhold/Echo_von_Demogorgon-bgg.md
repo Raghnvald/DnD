@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Echo of Demogorgon
+linter-yaml-title-alias: Echo of Demogorgon
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

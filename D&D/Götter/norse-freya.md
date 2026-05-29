@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Freya
+linter-yaml-title-alias: Freya
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/norse

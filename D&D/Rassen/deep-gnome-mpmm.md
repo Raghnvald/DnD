@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Gnome
+linter-yaml-title-alias: Deep Gnome
 tags:
   - Quelle/5e/mpmm
   - Rasse/deep-gnome

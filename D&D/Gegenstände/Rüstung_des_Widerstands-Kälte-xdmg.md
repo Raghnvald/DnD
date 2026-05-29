@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Cold Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Cold Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Cold Resistance
   - Splint Armor of Cold Resistance
   - Studded Leather Armor of Cold Resistance
-linter-yaml-title-alias: Armor of Cold Resistance
 ---
 # Armor of Cold Resistance
 *Rare (requires attunement)*  

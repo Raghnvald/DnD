@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of the Night Spirit
+linter-yaml-title-alias: Boon of the Night Spirit
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

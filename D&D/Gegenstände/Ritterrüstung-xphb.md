@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Plate Armor
 Rüstung: Schwer
+linter-yaml-title-alias: Plate Armor
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Plate Armor
-linter-yaml-title-alias: Plate Armor
 ---
 # Plate Armor
 *Heavy armor*  

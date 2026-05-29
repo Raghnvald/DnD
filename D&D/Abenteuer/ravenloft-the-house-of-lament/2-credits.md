@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/hol
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Ravenloft: The House of Lament* 

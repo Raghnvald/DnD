@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Slasher
+linter-yaml-title-alias: Slasher
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

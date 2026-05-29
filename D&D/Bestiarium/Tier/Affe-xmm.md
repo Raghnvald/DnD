@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ape
+image: token/ape-xmm.webp
+linter-yaml-title-alias: Ape
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

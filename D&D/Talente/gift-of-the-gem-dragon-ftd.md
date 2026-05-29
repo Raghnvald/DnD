@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Gem Dragon
+linter-yaml-title-alias: Gift of the Gem Dragon
 tags:
   - Kompendium/Talent
   - Quelle/5e/ftd

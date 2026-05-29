@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crab
+linter-yaml-title-alias: Crab
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Küste

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Rogue"
+linter-yaml-title-alias: "Chapter 6: Rogue"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 6: Rogue"
   - Chapter 6: Rogue
 ---
 # Chapter 6: Rogue

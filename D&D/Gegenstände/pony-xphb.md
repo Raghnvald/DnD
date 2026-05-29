@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pony
+linter-yaml-title-alias: Pony
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Pony
-linter-yaml-title-alias: Pony
 ---
 # Pony
 *Mount*  

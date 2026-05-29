@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Swords
+linter-yaml-title-alias: College of Swords
 tags:
   - Klasse/Barde/Schule-der-Schwerter
   - Quelle/5e/xge
 aliases:
   - College of Swords
-linter-yaml-title-alias: College of Swords
 ---
 # College of Swords
 *[Bard](Barde-xphb.md): Bard Subclass*  

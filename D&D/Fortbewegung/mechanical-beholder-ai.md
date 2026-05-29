@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mechanical Beholder
+linter-yaml-title-alias: Mechanical Beholder
 tags:
   - Quelle/5e/ai
   - ttrpg-cli/vehicle/size/huge
@@ -9,6 +10,7 @@ tags:
   - ttrpg-cli/vehicle/type/ship
 aliases:
   - "Mechanical Beholder"
+  - Mechanical Beholder
 ---
 # Mechanical Beholder
 *Source: Acquisitions Incorporated p. 219*  

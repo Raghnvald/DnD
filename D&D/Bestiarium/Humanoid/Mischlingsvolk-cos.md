@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mongrelfolk
+linter-yaml-title-alias: Mongrelfolk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

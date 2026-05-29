@@ -6,6 +6,7 @@ Komponenten: G, M
 Wirkungsdauer: 10 Minuten
 Angriff: n/v
 Schaden: Verstärkung
+linter-yaml-title-alias: Nickerchen
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -17,6 +18,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Catnap
+  - Nickerchen
 ---
 # Nickerchen
 _Verzauberung des 3. Grades_

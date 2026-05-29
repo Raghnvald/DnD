@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Mariner's Armor"
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: "Mariner's Armor"
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -23,7 +24,6 @@ aliases:
   - Mariner's Scale Mail
   - Mariner's Splint Armor
   - Mariner's Studded Leather Armor
-linter-yaml-title-alias: "Mariner's Armor"
 ---
 # Mariner's Armor
 *Uncommon*  

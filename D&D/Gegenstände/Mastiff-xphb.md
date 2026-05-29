@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mastiff
+linter-yaml-title-alias: Mastiff
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Mastiff
-linter-yaml-title-alias: Mastiff
 ---
 # Mastiff
 *Mount*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonblood Ooze
+linter-yaml-title-alias: Dragonblood Ooze
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

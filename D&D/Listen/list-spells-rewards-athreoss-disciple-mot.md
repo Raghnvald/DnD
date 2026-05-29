@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Athreos's Disciple"
+linter-yaml-title-alias: "Spells for Athreos's Disciple"
 tags:
   - ttrpg-cli/spell/list/reward/athreoss-disciple
 aliases:

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Poison
+linter-yaml-title-alias: Potion of Poison
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Poison
-linter-yaml-title-alias: Potion of Poison
 ---
 # Potion of Poison
 *Potion, uncommon*  

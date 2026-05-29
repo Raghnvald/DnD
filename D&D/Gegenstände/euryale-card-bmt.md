@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Euryale Card
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Euryale Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Euryale Card
-linter-yaml-title-alias: Euryale Card
 ---
 # Euryale Card
 *Wondrous item, legendary*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Boots of Speed
+linter-yaml-title-alias: Boots of Speed
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Boots of Speed
-linter-yaml-title-alias: Boots of Speed
 ---
 # Boots of Speed
 *Wondrous item, rare (requires attunement)*  

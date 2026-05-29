@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Rüstungsklasse eines Gegenstands
+linter-yaml-title-alias: Rüstungsklasse eines Gegenstands
 tags:
   - Quelle/5e/dmg
 aliases:
   - Object Armor Class
+  - Rüstungsklasse eines Gegenstands
 ---
 # Rüstungsklasse eines Gegenstands
 *Quelle: SRD / Grundregelwerk*

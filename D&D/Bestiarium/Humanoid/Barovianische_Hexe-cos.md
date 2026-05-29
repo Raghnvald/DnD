@@ -8,13 +8,15 @@ Größe: Mittelgroß
 HG: 1/2
 image:
 status:
+linter-yaml-title-alias: Barovianische Hexe
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - Barovian Witch
+  - Barovianische Hexe
 ---
 # Barovianische Hexe
 *Source: Curse of Strahd p. 229*  

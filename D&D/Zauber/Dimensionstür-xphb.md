@@ -7,6 +7,17 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Dimension Door
+classes:
+  - Bard
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of Vengeance)
+  - Ranger (Fey Wanderer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -20,19 +31,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of Vengeance)
-  - Ranger (Fey Wanderer)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Dimension Door
-linter-yaml-title-alias: Dimension Door
 ---
 # Dimension Door
 *4th-level, Conjuration*  

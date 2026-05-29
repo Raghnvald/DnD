@@ -6,6 +6,7 @@ Kategorie: Aberration (Zauberer)
 Größe: Klein
 HG: 3
 status: WIP
+linter-yaml-title-alias: Derro-Wissender
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Unterreich
@@ -14,6 +15,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Derro Savant
+  - Derro-Wissender
 ---
 # Derro-Wissender
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  

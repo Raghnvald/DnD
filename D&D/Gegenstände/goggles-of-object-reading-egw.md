@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Goggles of Object Reading
+linter-yaml-title-alias: Goggles of Object Reading
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/egw
 aliases:
   - Goggles of Object Reading
-linter-yaml-title-alias: Goggles of Object Reading
 ---
 # Goggles of Object Reading
 *Wondrous item, uncommon (requires attunement)*  

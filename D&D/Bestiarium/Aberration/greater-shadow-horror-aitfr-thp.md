@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Riesig
 HG: 12
 status: WIP
+linter-yaml-title-alias: Greater Shadow Horror
 tags:
   - Quelle/5e/aitfr-thp
   - ttrpg-cli/monster/cr/12

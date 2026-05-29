@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Leviathan
+linter-yaml-title-alias: Leviathan
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Küste

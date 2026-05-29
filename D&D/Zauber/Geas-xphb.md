@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Geas
+linter-yaml-title-alias: Geas
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Fiend Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,17 +20,8 @@ tags:
   - Subklasse/fiend-patron
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Fiend Patron)
-  - Wizard
 aliases:
   - Geas
-linter-yaml-title-alias: Geas
 ---
 # Geas
 *5th-level, Enchantment*  

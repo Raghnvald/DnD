@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/dc
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: Essentials Kit: Divine Contention* 

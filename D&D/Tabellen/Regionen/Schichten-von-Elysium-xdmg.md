@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Elysium
+linter-yaml-title-alias: Layers of Elysium
 tags:
   - Quelle/5e/xdmg
 aliases:

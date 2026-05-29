@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "4: Monosyllabic Names"
+linter-yaml-title-alias: "4: Monosyllabic Names"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "4: Monosyllabic Names"
   - 4: Monosyllabic Names
 ---
 # 4: Monosyllabic Names

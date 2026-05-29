@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Elemental Gem, Red Corundum
+linter-yaml-title-alias: Elemental Gem, Red Corundum
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Elemental Gem, Red Corundum
-linter-yaml-title-alias: Elemental Gem, Red Corundum
 ---
 # Elemental Gem, Red Corundum
 *Wondrous item, uncommon*  

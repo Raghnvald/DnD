@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nivix Cyclops
+linter-yaml-title-alias: Nivix Cyclops
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

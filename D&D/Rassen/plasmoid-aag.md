@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Plasmoid
+linter-yaml-title-alias: Plasmoid
 tags:
   - Quelle/5e/aag
   - Rasse/plasmoid
 aliases:
   - "Plasmoid"
+  - Plasmoid
 ---
 # Plasmoid
 *Source: Astral Adventurer's Guide p. 14*  

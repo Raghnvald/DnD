@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mace of Smiting
+linter-yaml-title-alias: Mace of Smiting
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Mace of Smiting
-linter-yaml-title-alias: Mace of Smiting
 ---
 # Mace of Smiting
 *Weapon ([mace](Streitkolben-xphb)), rare*  

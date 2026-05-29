@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Initial Attitudes; Initial Attitude
+linter-yaml-title-alias: Initial Attitudes; Initial Attitude
 tags:
   - Quelle/5e/xdmg
 aliases:

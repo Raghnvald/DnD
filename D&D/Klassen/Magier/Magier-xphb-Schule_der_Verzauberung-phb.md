@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Enchantment
+linter-yaml-title-alias: School of Enchantment
 tags:
   - Klasse/Magier/enchantment
   - Quelle/5e/phb

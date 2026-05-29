@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yak
+linter-yaml-title-alias: Yak
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-4

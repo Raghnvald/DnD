@@ -2,13 +2,15 @@
 Bezeichnung: Rüstung des Bewahrens
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
-Einstimmung: erfordert
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
 Kst.: /
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Rüstung des Bewahrens
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -16,12 +18,11 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/bgg
 aliases:
-  - Armor of Safeguarding
   - Chain Mail of Safeguarding
   - Plate Armor of Safeguarding
   - Ring Mail of Safeguarding
+  - Rüstung des Bewahrens
   - Splint Armor of Safeguarding
-linter-yaml-title-alias: Armor of Safeguarding
 ---
 # Rüstung des Bewahrens
 *Very rare (requires attunement)*  

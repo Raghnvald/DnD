@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Moonstone
+linter-yaml-title-alias: Moonstone
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Moonstone
-linter-yaml-title-alias: Moonstone
 ---
 # Moonstone
 *Treasure (gemstone)*  

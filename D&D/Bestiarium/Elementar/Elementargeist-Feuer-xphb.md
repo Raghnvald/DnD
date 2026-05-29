@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elemental Spirit (Fire)
+linter-yaml-title-alias: Elemental Spirit (Fire)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Slavic, Male
+linter-yaml-title-alias: Human Names – Slavic, Male
 tags:
   - Quelle/5e/xge
 aliases:

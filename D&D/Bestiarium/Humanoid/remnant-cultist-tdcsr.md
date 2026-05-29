@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Remnant Cultist
+linter-yaml-title-alias: Remnant Cultist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

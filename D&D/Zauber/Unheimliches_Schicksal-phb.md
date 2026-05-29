@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Weird
 Zaubergrad: 9
+linter-yaml-title-alias: Weird
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/9
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
   - Weird
-linter-yaml-title-alias: Weird
 ---
 # Weird
 *9th-level, Illusion*  

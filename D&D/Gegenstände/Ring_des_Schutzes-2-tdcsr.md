@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +2 Ring of Protection
+linter-yaml-title-alias: +2 Ring of Protection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - +2 Ring of Protection
-linter-yaml-title-alias: +2 Ring of Protection
 ---
 # +2 Ring of Protection
 *Ring, major, rare (requires attunement)*  

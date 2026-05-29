@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House of Thalivar
+linter-yaml-title-alias: House of Thalivar
 tags:
   - Quelle/5e/slw
 aliases:

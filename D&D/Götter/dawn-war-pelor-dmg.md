@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pelor
+linter-yaml-title-alias: Pelor
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/life

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Style, Fighter
+linter-yaml-title-alias: Fighting Style, Fighter
 tags:
   - Quelle/5e/phb
 aliases:

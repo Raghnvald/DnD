@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Final Challenge Rating; Experience Points by Challenge Rating
+linter-yaml-title-alias: Final Challenge Rating; Experience Points by Challenge Rating
 tags:
   - Quelle/5e/dmg
 aliases:

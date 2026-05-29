@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Iron
+linter-yaml-title-alias: Iron
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Iron
-linter-yaml-title-alias: Iron
 ---
 # Iron
 *Trade good*  

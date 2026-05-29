@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Points
+linter-yaml-title-alias: Spell Points
 tags:
   - Quelle/5e/dmg
 aliases:

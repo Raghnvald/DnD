@@ -5,9 +5,11 @@ Bezeichnung: Warforged Warrior
 Kategorie: Konstrukt
 Größe: Mittelgroß
 HG: 1
-Habitat: /
+Habitat:
+  - /
 image: token/warforged-warrior-veor.webp
 status: WIP
+linter-yaml-title-alias: Warforged Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

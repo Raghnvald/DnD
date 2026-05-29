@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Ink Pen
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 2 KM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Ink Pen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Ink Pen
-linter-yaml-title-alias: Ink Pen
 ---
 # Ink Pen
 *Adventuring gear*  

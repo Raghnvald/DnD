@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome (Mark of Scribing)
+linter-yaml-title-alias: Gnome (Mark of Scribing)
 tags:
   - Quelle/5e/erlw
   - Rasse/gnome/mark-of-scribing

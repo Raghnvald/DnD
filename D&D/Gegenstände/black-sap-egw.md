@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Black Sap
+Kst.: 300 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Black Sap
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Black Sap
-linter-yaml-title-alias: Black Sap
 ---
 # Black Sap
 *Adventuring gear*  

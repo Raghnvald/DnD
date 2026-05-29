@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gold Dragon; Gold Dragon Spellcasting
+linter-yaml-title-alias: Creating a Gold Dragon; Gold Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vampiric Jade Statue
+linter-yaml-title-alias: Vampiric Jade Statue
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8

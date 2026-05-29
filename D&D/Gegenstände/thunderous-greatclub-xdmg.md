@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thunderous Greatclub
+linter-yaml-title-alias: Thunderous Greatclub
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Thunderous Greatclub
-linter-yaml-title-alias: Thunderous Greatclub
 ---
 # Thunderous Greatclub
 *Weapon ([greatclub](/3-Mechanics/CLI/items/greatclub-xphb.md)), very rare (requires attunement)*  

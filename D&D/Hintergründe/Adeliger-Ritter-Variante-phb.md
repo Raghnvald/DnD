@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adeliger (Ritter) (Variante)
+linter-yaml-title-alias: Adeliger (Ritter) (Variante)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
+  - Adeliger (Ritter) (Variante)
   - Noble (Knight) (Variant)
 ---
 # Adeliger (Ritter) (Variante)

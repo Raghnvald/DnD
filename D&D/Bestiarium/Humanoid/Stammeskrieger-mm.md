@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tribal Warrior
+linter-yaml-title-alias: Tribal Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

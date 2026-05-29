@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Odor
+linter-yaml-title-alias: Dungeon Dressing; Odor
 tags:
   - Quelle/5e/dmg
 aliases:

@@ -3,6 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Avatar of Death
+linter-yaml-title-alias: Avatar of Death
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Avatar of Death
-linter-yaml-title-alias: Avatar of Death
 ---
 # [Avatar of Death](3-Mechanics\CLI\bestiary\undead/avatar-of-death-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 252*  

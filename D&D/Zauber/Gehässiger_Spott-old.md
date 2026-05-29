@@ -8,6 +8,7 @@ Angriff: WEI
 Schaden: 1d4 psychisch
 status:
   - completed
+linter-yaml-title-alias: Gehässiger Spott
 tags:
   - Klasse/Barde
   - Quelle/5e/phb
@@ -15,8 +16,8 @@ tags:
   - Zauber/Original/Vicious_Mockery
   - Zauber/Schule/Verzauberung
 aliases:
+  - Gehässiger Spott
   - Vicious Mockery
-linter-yaml-title-alias: Gehässiger Spott
 ---
 # Gehässiger Spott
 *Zaubertrick der Verzauberung*

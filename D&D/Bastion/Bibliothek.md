@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Library
+linter-yaml-title-alias: Library
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Fine Wine (bottle)
+linter-yaml-title-alias: Fine Wine (bottle)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Fine Wine (bottle)
-linter-yaml-title-alias: Fine Wine (bottle)
 ---
 # Fine Wine (bottle)
 *Food and drink*  

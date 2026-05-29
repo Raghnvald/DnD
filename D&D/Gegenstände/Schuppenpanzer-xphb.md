@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Scale Mail
 Rüstung: Mittel
+linter-yaml-title-alias: Scale Mail
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Scale Mail
-linter-yaml-title-alias: Scale Mail
 ---
 # Scale Mail
 *Medium armor*  

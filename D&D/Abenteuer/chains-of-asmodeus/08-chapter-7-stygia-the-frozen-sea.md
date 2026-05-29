@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 7: Stygia, the Frozen Sea"
+linter-yaml-title-alias: "Chapter 7: Stygia, the Frozen Sea"
 tags:
   - Quelle/5e/coa
 aliases:

@@ -8,6 +8,7 @@ HG: /
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Aberrant Spirit (Slaad)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zeboim
+linter-yaml-title-alias: Zeboim
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Zeboim"
+  - Zeboim
 ---
 # Zeboim
 *Source: Dragonlance: Shadow of the Dragon Queen p. 19* 

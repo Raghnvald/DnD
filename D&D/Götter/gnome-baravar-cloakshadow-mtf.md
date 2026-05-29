@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Baravar Cloakshadow
+linter-yaml-title-alias: Baravar Cloakshadow
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/trickery

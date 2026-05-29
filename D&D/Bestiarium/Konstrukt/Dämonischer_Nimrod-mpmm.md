@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Retriever
+linter-yaml-title-alias: Retriever
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

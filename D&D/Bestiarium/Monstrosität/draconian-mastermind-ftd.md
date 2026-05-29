@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconian Mastermind
+linter-yaml-title-alias: Draconian Mastermind
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6

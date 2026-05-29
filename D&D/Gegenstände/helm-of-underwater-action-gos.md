@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Helm of Underwater Action
+linter-yaml-title-alias: Helm of Underwater Action
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/gos
 aliases:
   - Helm of Underwater Action
-linter-yaml-title-alias: Helm of Underwater Action
 ---
 # Helm of Underwater Action
 *Wondrous item, uncommon (requires attunement)*  

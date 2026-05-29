@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Invisibility
 Zaubergrad: 2
+linter-yaml-title-alias: Invisibility
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Grassland)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/grassland
@@ -12,17 +21,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Grassland)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Invisibility
-linter-yaml-title-alias: Invisibility
 ---
 # Invisibility
 *2nd-level, Illusion*  

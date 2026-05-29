@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Note from the Author
+linter-yaml-title-alias: Note from the Author
 tags:
   - Quelle/5e/tlk
 aliases:
   - "Note from the Author"
+  - Note from the Author
 ---
 # Note from the Author
 *Source: The Lost Kenku, p. 2* 

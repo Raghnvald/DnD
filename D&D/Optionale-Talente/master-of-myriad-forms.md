@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Master of Myriad Forms
+linter-yaml-title-alias: Master of Myriad Forms
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

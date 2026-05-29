@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Diplomatenausrüstung
 Kategorie: Ausrüstungspaket
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 39 GM
-Gew.: 18,0 kg.
+Gew.: 18,0 kg
+status: WIP
+linter-yaml-title-alias: Diplomatenausrüstung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Diplomat's Pack
-linter-yaml-title-alias: Diplomat's Pack
+  - Diplomatenausrüstung
 ---
 # Diplomatenausrüstung
 *Adventuring gear*  

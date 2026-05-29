@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adeliger (Gefolge) (Variante)
+linter-yaml-title-alias: Adeliger (Gefolge) (Variante)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb
 aliases:
+  - Adeliger (Gefolge) (Variante)
   - Noble (Retainers) (Variant)
 ---
 Noble

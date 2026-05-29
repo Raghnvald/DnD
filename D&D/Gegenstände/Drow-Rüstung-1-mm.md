@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Drow +1 Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Drow +1 Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -23,7 +24,6 @@ aliases:
   - Drow +1 Spiked Armor
   - Drow +1 Splint Armor
   - Drow +1 Studded Leather Armor
-linter-yaml-title-alias: Drow +1 Armor
 ---
 # Drow +1 Armor
 

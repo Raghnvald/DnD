@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Flaschenzug
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Flaschenzug
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Block and Tackle
-linter-yaml-title-alias: Block and Tackle
+  - Flaschenzug
 ---
 # Flaschenzug
 *Adventuring gear*  

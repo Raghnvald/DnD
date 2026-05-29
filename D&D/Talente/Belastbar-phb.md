@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Belastbar
+linter-yaml-title-alias: Belastbar
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
+  - Belastbar
   - Resilient
 ---
 # Belastbar

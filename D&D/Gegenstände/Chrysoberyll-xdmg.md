@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chrysoberyl
+linter-yaml-title-alias: Chrysoberyl
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Chrysoberyl
-linter-yaml-title-alias: Chrysoberyl
 ---
 # Chrysoberyl
 *Treasure (gemstone)*  

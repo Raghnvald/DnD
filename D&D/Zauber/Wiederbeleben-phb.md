@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Revivify
 Zaubergrad: 3
+linter-yaml-title-alias: Revivify
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Life Domain)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Life Domain)
-  - Paladin
 aliases:
   - Revivify
-linter-yaml-title-alias: Revivify
 ---
 # Revivify
 *3rd-level, Necromancy*  

@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Longhorn
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Longhorn
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Longhorn
-linter-yaml-title-alias: Longhorn
 ---
 # Longhorn
 *Instrument*  

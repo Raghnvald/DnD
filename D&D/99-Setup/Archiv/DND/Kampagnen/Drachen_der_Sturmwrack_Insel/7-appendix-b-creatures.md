@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Creatures"
+linter-yaml-title-alias: "Appendix B: Creatures"
 tags:
   - Quelle/5e/dosi
 aliases:
+  - "Appendix B: Creatures"
   - Appendix B: Creatures
 ---
 # Appendix B: Creatures

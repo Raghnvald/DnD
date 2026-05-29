@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Einswerden mit der Natur
 Zaubergrad: 5
+linter-yaml-title-alias: Einswerden mit der Natur
+classes:
+  - Barbarian (Path of the Totem Warrior)
+  - Bard (Magical Secrets)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
+  - Paladin (Oath of the Ancients)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -12,16 +20,9 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Totem Warrior)
-  - Bard (Magical Secrets)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
-  - Paladin (Oath of the Ancients)
-  - Ranger
 aliases:
   - Commune with Nature
-linter-yaml-title-alias: Einswerden mit der Natur
+  - Einswerden mit der Natur
 ---
 # Einswerden mit der Natur
 *Erkenntniszauber des 5. Grades (Ritual)*

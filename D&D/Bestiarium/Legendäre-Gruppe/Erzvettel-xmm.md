@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arch-hag
+linter-yaml-title-alias: Arch-hag
 tags:
   - Monster/legendary-group
   - Quelle/5e/xmm

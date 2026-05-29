@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sea Hag (Coven)
+linter-yaml-title-alias: Sea Hag (Coven)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

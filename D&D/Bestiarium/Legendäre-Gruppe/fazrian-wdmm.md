@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fazrian
+linter-yaml-title-alias: Fazrian
 tags:
   - Monster/legendary-group
   - Quelle/5e/wdmm

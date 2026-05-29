@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Ezmerelda d'Avenir"
+linter-yaml-title-alias: "Ezmerelda d'Avenir"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/cos
 aliases:
   - "Ezmerelda d'Avenir"
   - Ezmerelda d'Avenir
-linter-yaml-title-alias: "Ezmerelda d'Avenir"
 ---
 # [Ezmerelda d'Avenir](3-Mechanics\CLI\bestiary\npc/ezmerelda-davenir-cos.md)
 *Source: Curse of Strahd p. 231*  

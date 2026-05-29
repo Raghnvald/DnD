@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Plant Growth
 Zaubergrad: 3
+linter-yaml-title-alias: Plant Growth
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Forest)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Warlock (The Archfey)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-archfey
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Forest)
-  - Paladin (Oath of the Ancients)
-  - Ranger
-  - Warlock (The Archfey)
 aliases:
   - Plant Growth
-linter-yaml-title-alias: Plant Growth
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

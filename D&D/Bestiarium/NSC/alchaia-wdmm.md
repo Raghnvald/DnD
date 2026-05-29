@@ -7,15 +7,16 @@ Größe: Mittelgroß
 HG: "8"
 Habitat:
   - /
+image: token/alchaia-wdmm.webp
 status: WIP
+linter-yaml-title-alias: "Al'chaia"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
   - Monster/Typ/Humanoid/gith
   - Quelle/5e/wdmm
 aliases:
-  - Al'chaia
-linter-yaml-title-alias: Al'chaia
+  - "Al'chaia"
 ---
 # [Al'chaia](3-Mechanics\CLI\bestiary\npc/alchaia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 218*  

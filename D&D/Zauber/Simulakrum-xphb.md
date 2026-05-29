@@ -1,5 +1,10 @@
 ---
 Bezeichnung: Simulacrum
+linter-yaml-title-alias: Simulacrum
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -7,13 +12,8 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/7
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Simulacrum
-linter-yaml-title-alias: Simulacrum
 ---
 # Simulacrum
 *7th-level, Illusion*  

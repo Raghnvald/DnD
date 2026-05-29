@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharindlar
+linter-yaml-title-alias: Sharindlar
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/dwarven

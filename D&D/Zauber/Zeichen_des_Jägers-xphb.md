@@ -7,6 +7,10 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: "Hunter's Mark"
+classes:
+  - Paladin (Oath of Vengeance)
+  - Ranger
 tags:
   - Klasse/Paladin/oath-of-vengeance
   - Klasse/Waldläufer
@@ -14,12 +18,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
-classes:
-  - Paladin (Oath of Vengeance)
-  - Ranger
 aliases:
-  - Hunter's Mark
-linter-yaml-title-alias: Hunter's Mark
+  - "Hunter's Mark"
 ---
 # Hunter's Mark
 *1st-level, Divination*  

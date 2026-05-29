@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Greater Conscription
+linter-yaml-title-alias: Charm of Greater Conscription
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bgdia

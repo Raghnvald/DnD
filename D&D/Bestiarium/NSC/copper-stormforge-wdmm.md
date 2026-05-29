@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Copper Stormforge
+linter-yaml-title-alias: Copper Stormforge
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Copper Stormforge
-linter-yaml-title-alias: Copper Stormforge
 ---
 # [Copper Stormforge](3-Mechanics\CLI\bestiary\npc/copper-stormforge-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 30*  

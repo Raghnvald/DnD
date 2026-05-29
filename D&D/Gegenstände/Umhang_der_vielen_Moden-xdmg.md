@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Cloak of Many Fashions
+linter-yaml-title-alias: Cloak of Many Fashions
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Cloak of Many Fashions
-linter-yaml-title-alias: Cloak of Many Fashions
 ---
 # Cloak of Many Fashions
 *Wondrous item, common*  

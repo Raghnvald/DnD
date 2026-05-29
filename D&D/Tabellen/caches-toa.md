@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Caches
+linter-yaml-title-alias: Caches
 tags:
   - Quelle/5e/toa
 aliases:

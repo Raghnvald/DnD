@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pfeile (20)
 Kategorie: Munition
+linter-yaml-title-alias: Pfeile (20)
 tags:
   - Gegenstand/Eigenschaft/Munition
   - Gegenstand/Seltenheit/keine
@@ -8,7 +9,6 @@ tags:
 aliases:
   - Arrows (20)
   - Pfeile (20)
-linter-yaml-title-alias: Pfeile (20)
 ---
 # Pfeile (20)
 *Munition*  

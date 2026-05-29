@@ -2,19 +2,21 @@
 Bezeichnung: Schild +2
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schild +2
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:
   - +2 Shield
-linter-yaml-title-alias: Schild +2
+  - Schild +2
 ---
 # Schild +2
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten*  

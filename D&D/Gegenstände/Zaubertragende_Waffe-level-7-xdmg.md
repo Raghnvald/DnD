@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 7)
+linter-yaml-title-alias: Enspelled Weapon (Level 7)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Enspelled (Level 7) Wooden Staff
   - Enspelled (Level 7) Yklwa
   - Enspelled Weapon (Level 7)
-linter-yaml-title-alias: Enspelled Weapon (Level 7)
 ---
 # Enspelled Weapon (Level 7)
 *Legendary (requires attunement)*  

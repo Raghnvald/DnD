@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shield of Missile Attraction
 Rüstung: Schild
+linter-yaml-title-alias: Shield of Missile Attraction
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Shield of Missile Attraction
-linter-yaml-title-alias: Shield of Missile Attraction
 ---
 # Shield of Missile Attraction
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), cursed item, rare (requires attunement)*  

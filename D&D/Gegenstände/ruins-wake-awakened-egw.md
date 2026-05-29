@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Ruin's Wake (Awakened)"
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: "Ruin's Wake (Awakened)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -8,8 +9,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
-  - Ruin's Wake (Awakened)
-linter-yaml-title-alias: Ruin's Wake (Awakened)
+  - "Ruin's Wake (Awakened)"
 ---
 # Ruin's Wake (Awakened)
 *Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md)), artifact (requires attunement)*  

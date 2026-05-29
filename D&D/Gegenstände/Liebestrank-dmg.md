@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Philter of Love
 Kategorie: Trank
+linter-yaml-title-alias: Philter of Love
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Philter of Love
-linter-yaml-title-alias: Philter of Love
 ---
 # Philter of Love
 *Potion, minor, uncommon*  

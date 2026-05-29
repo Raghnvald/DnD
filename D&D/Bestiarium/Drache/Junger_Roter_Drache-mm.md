@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Red Dragon
+linter-yaml-title-alias: Young Red Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Young Red Dragon
-linter-yaml-title-alias: Young Red Dragon
 ---
 # [Young Red Dragon](3-Mechanics\CLI\bestiary\dragon/young-red-dragon.md)
 *Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

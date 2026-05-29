@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zweigplage
+linter-yaml-title-alias: Zweigplage
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Wald
@@ -10,6 +11,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Twig Blight
+  - Zweigplage
 ---
 # Zweigplage
 *Source: Monster Manual p. 32. Available in the Basic Rules (2014)*  

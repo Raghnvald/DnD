@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of Shadow
+linter-yaml-title-alias: Way of Shadow
 tags:
   - Klasse/Mönch/shadow
   - Quelle/5e/phb

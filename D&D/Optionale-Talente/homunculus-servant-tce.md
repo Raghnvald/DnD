@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Homunculus Servant
+linter-yaml-title-alias: Homunculus Servant
 tags:
   - Kompendium/Optionales/ai
   - Quelle/5e/tce

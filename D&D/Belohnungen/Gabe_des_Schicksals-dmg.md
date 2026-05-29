@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe des Schicksals
+linter-yaml-title-alias: Gabe des Schicksals
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Fate
+  - Gabe des Schicksals
 ---
 # Gabe des Schicksals
 

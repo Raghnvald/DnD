@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Warding Bond
+linter-yaml-title-alias: Warding Bond
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Peace Domain)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,17 +20,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Battle Smith)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Peace Domain)
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Warding Bond
-linter-yaml-title-alias: Warding Bond
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

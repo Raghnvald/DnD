@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Das Zhentarim
+linter-yaml-title-alias: Das Zhentarim
 tags:
   - Quelle/5e/phb
-aliases: []
+aliases:
+  - Das Zhentarim
 ---
 # Das Zhentarim
 

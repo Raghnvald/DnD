@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Squiddly
+linter-yaml-title-alias: Squiddly
 tags:
   - Monster/Größe/Klein
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Squiddly
-linter-yaml-title-alias: Squiddly
 ---
 # [Squiddly](3-Mechanics\CLI\bestiary\npc/squiddly-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  

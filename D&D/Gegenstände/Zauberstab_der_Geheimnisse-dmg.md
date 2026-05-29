@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wand of Secrets
 Kategorie: Zauberstab
+linter-yaml-title-alias: Wand of Secrets
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg
 aliases:
   - Wand of Secrets
-linter-yaml-title-alias: Wand of Secrets
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  

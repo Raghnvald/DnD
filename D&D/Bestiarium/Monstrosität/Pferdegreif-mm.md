@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hippogriff
+linter-yaml-title-alias: Hippogriff
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

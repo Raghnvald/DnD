@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Crystal (Heightened)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Mind Crystal (Heightened)
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal (Heightened)
-linter-yaml-title-alias: Mind Crystal (Heightened)
 ---
 # Mind Crystal (Heightened)
 *Wondrous item, rare*  

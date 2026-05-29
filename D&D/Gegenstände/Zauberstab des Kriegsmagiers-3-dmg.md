@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Wand of the War Mage
 Kategorie: Zauberstab 
+linter-yaml-title-alias: +3 Wand of the War Mage
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +3 Wand of the War Mage
-linter-yaml-title-alias: +3 Wand of the War Mage
 ---
 # +3 Wand of the War Mage
 *Wand, major, very rare (requires attunement by a spellcaster)*  

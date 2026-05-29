@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sprite
+linter-yaml-title-alias: Sprite
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Wald

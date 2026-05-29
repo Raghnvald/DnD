@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle H
+linter-yaml-title-alias: Magische Gegenstände Tabelle H
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table H
+  - Magische Gegenstände Tabelle H
 ---
 # Magische Gegenstände Tabelle H
 *Quelle: Spielleiterhandbuch, S. 148* 

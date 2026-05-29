@@ -8,6 +8,7 @@ HG: 27
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Black Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/27
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Black Greatwyrm
-linter-yaml-title-alias: Black Greatwyrm
 ---
 # [Black Greatwyrm](3-Mechanics\CLI\bestiary\dragon/black-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

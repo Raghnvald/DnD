@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Initiate
+linter-yaml-title-alias: Fighting Initiate
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce

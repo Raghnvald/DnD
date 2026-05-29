@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Owl
+linter-yaml-title-alias: Owl
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Arktis

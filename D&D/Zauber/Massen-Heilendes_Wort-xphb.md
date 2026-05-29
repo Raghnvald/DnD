@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Mass Healing Word
+linter-yaml-title-alias: Mass Healing Word
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Order Domain)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -11,17 +20,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Life Domain)
-  - Cleric (Order Domain)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Mass Healing Word
-linter-yaml-title-alias: Mass Healing Word
 ---
 # Mass Healing Word
 *3rd-level, Abjuration*  

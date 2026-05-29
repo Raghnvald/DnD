@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mind Drinker Vampire
+linter-yaml-title-alias: Mind Drinker Vampire
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Mind Drinker Vampire
-linter-yaml-title-alias: Mind Drinker Vampire
 ---
 # [Mind Drinker Vampire](3-Mechanics\CLI\bestiary\undead/mind-drinker-vampire-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 224*  

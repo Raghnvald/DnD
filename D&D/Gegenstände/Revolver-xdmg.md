@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Revolver
+linter-yaml-title-alias: Revolver
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Revolver
-linter-yaml-title-alias: Revolver
 ---
 # Revolver
 *Weapon*  

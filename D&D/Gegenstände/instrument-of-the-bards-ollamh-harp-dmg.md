@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Ollamh Harp
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung durch einen Barden
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Instrument of the Bards, Ollamh Harp
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Einstimmung/required
@@ -9,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Instrument of the Bards, Ollamh Harp
-linter-yaml-title-alias: Instrument of the Bards, Ollamh Harp
 ---
 # Instrument of the Bards, Ollamh Harp
 *Wondrous item, instrument, major, legendary (requires attunement by a bard)*  

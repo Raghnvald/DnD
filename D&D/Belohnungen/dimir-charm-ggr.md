@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir Charm
+linter-yaml-title-alias: Dimir Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

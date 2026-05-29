@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Junior Drow Priestess of Lolth
+linter-yaml-title-alias: Junior Drow Priestess of Lolth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

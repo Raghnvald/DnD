@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crystal Dragon
+linter-yaml-title-alias: Crystal Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

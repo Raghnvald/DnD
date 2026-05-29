@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Old Troglodyte
+linter-yaml-title-alias: Old Troglodyte
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

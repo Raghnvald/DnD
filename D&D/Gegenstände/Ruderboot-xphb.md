@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Rowboat
+linter-yaml-title-alias: Rowboat
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Rowboat
-linter-yaml-title-alias: Rowboat
 ---
 # Rowboat
 *Ship, vehicle (water)*  

@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Dominate Person
+linter-yaml-title-alias: Dominate Person
+classes:
+  - Bard
+  - Cleric (Order Domain)
+  - Cleric (Trickery Domain)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oathbreaker)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Kleriker/order-domain
@@ -12,18 +22,8 @@ tags:
   - Subklasse/archfey-patron
   - Zauber/Grad/5
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Cleric (Order Domain)
-  - Cleric (Trickery Domain)
-  - Paladin (Oath of Conquest)
-  - Paladin (Oathbreaker)
-  - Sorcerer
-  - Warlock (Archfey Patron)
-  - Wizard
 aliases:
   - Dominate Person
-linter-yaml-title-alias: Dominate Person
 ---
 # Dominate Person
 *5th-level, Enchantment*  

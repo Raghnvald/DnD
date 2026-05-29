@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Mark of Storm
+linter-yaml-title-alias: Mark of Storm
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
   - "Mark of Storm"
+  - Mark of Storm
 ---
 # Mark of Storm
 *Source: Eberron: Forge of the Artificer p. 42*  

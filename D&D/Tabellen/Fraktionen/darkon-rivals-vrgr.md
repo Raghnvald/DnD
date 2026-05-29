@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Darkon Rivals
+linter-yaml-title-alias: Darkon Rivals
 tags:
   - Quelle/5e/vrgr
 aliases:

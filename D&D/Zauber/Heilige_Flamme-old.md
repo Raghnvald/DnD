@@ -8,14 +8,15 @@ Angriff: GES
 Schaden: 1d8 gleißend
 status:
   - completed
+linter-yaml-title-alias: Heilige Flamme
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/Schule/Hervorrufung
 aliases:
+  - Heilige Flamme
   - Sacred Flame
-linter-yaml-title-alias: Heilige Flamme
 ---
 # Heilige Flamme
 _Zaubertrick der Hervorrufung_

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bullywug Croaker
+linter-yaml-title-alias: Bullywug Croaker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

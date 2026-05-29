@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Obaya Uday
+linter-yaml-title-alias: Obaya Uday
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Obaya Uday
-linter-yaml-title-alias: Obaya Uday
 ---
 # [Obaya Uday](3-Mechanics\CLI\bestiary\npc/obaya-uday-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

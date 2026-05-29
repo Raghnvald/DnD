@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Villains
+linter-yaml-title-alias: Boros Villains
 tags:
   - Quelle/5e/ggr
 aliases:

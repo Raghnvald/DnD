@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Careful Spell
+linter-yaml-title-alias: Careful Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/xphb

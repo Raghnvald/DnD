@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Flensing Claws (Small)
+linter-yaml-title-alias: Flensing Claws (Small)
 tags:
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/other
   - Quelle/5e/vgm
 aliases:
   - Flensing Claws (Small)
-linter-yaml-title-alias: Flensing Claws (Small)
 ---
 # Flensing Claws (Small)
 

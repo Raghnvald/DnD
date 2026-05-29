@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gnoll War Band; Shared Physical Trait
+linter-yaml-title-alias: Creating a Gnoll War Band; Shared Physical Trait
 tags:
   - Quelle/5e/vgm
 aliases:

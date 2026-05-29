@@ -8,6 +8,7 @@ HG: 14
 Habitat:
   - Sumpf
 status: WIP
+linter-yaml-title-alias: Adult Black Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Sumpf
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Adult Black Dragon
-linter-yaml-title-alias: Adult Black Dragon
 ---
 # [Adult Black Dragon](3-Mechanics\CLI\bestiary\dragon/adult-black-dragon.md)
 *Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

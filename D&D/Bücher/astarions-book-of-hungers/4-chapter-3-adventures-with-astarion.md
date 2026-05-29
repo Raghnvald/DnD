@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Adventures with Astarion"
+linter-yaml-title-alias: "Chapter 3: Adventures with Astarion"
 tags:
   - Quelle/5e/abh
 aliases:

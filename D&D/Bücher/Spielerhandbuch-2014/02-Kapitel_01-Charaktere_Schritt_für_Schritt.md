@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Step-by-Step Characters
+linter-yaml-title-alias: Step-by-Step Characters
 tags:
   - Quelle/5e/phb
 aliases:

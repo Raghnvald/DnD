@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tempus
+linter-yaml-title-alias: Tempus
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -7,6 +8,7 @@ aliases:
   - "Tempus"
   - "The Foehammer"
   - "The Lord of Battles"
+  - Tempus
 ---
 # Tempus
 *Source: Forgotten Realms: Heroes of Faerûn p. 124* 

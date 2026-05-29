@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dining Room
+linter-yaml-title-alias: Dining Room
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Vampire Spawn
+linter-yaml-title-alias: Kobold Vampire Spawn
 tags:
   - Monster/Größe/Klein
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Kobold Vampire Spawn
-linter-yaml-title-alias: Kobold Vampire Spawn
 ---
 # [Kobold Vampire Spawn](3-Mechanics\CLI\bestiary\undead/kobold-vampire-spawn-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  

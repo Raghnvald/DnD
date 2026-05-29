@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Meld into Stone
+linter-yaml-title-alias: Meld into Stone
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -12,17 +21,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Genie, Dao)
 aliases:
   - Meld into Stone
-linter-yaml-title-alias: Meld into Stone
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

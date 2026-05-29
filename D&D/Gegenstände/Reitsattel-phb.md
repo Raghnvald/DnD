@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Reitsattel
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 12,5 kg
+status: WIP
+linter-yaml-title-alias: Reitsattel
 tags:
   - Gegenstand/Ausrüstung/tack-and-harness
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Riding Saddle
-linter-yaml-title-alias: Riding Saddle
+  - Reitsattel
 ---
 # Reitsattel
 *Zaumzeug und Harnisch*  

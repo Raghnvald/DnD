@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Divination
+linter-yaml-title-alias: Divination
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Diviner)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -13,18 +23,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Diviner)
 aliases:
   - Divination
-linter-yaml-title-alias: Divination
 ---
 # Divination
 *4th-level, Divination (ritual)*  

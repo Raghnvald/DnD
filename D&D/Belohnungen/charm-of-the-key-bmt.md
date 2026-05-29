@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Key
+linter-yaml-title-alias: Charm of the Key
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

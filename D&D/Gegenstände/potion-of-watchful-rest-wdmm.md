@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Watchful Rest
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Watchful Rest
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/wdmm
 aliases:
   - Potion of Watchful Rest
-linter-yaml-title-alias: Potion of Watchful Rest
 ---
 # Potion of Watchful Rest
 *Potion, common*  

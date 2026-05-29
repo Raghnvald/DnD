@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Spike Growth
 Zaubergrad: 2
+linter-yaml-title-alias: Spike Growth
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Arctic)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -10,15 +17,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Arctic)
-  - Ranger
 aliases:
   - Spike Growth
-linter-yaml-title-alias: Spike Growth
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

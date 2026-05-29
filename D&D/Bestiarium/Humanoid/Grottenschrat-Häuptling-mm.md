@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bugbear Chief
+linter-yaml-title-alias: Bugbear Chief
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tracking DCs
+linter-yaml-title-alias: Tracking DCs
 tags:
   - Quelle/5e/dmg
 aliases:

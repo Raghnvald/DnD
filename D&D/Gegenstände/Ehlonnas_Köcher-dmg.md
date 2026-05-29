@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Quiver of Ehlonna
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Quiver of Ehlonna
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Quiver of Ehlonna
-linter-yaml-title-alias: Quiver of Ehlonna
 ---
 # Quiver of Ehlonna
 *Wondrous item, major, uncommon*  

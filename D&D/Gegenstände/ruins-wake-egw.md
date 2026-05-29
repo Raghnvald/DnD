@@ -2,6 +2,7 @@
 Bezeichnung: "Ruin's Wake"
 Kategorie: Einfache Nahkampfwaffe
 Einstimmung: erfordert
+linter-yaml-title-alias: "Ruin's Wake"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,8 +10,7 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
-  - Ruin's Wake
-linter-yaml-title-alias: Ruin's Wake
+  - "Ruin's Wake"
 ---
 # Ruin's Wake
 *Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md)), artifact (requires attunement)*  

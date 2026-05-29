@@ -7,7 +7,9 @@ Größe: Winzig
 HG: 3
 Habitat:
   - /
+Image: token/encephalon-gemmule-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Encephalonen-Spore
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/3
@@ -15,7 +17,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Encephalon Gemmule
-Image: token/encephalon-gemmule-pabtso.webp
+  - Encephalonen-Spore
 ---
 # Encephalonen-Spore
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  

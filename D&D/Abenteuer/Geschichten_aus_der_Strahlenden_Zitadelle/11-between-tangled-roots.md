@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Between Tangled Roots
+linter-yaml-title-alias: Between Tangled Roots
 tags:
   - Quelle/5e/jttrc
 aliases:

@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Heal
+linter-yaml-title-alias: Heal
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Heal
-linter-yaml-title-alias: Heal
 ---
 # Heal
 *6th-level, Abjuration*  

@@ -7,6 +7,16 @@ Komponenten: G, M
 Wirkungsdauer: 1 Minute
 Angriff: INT
 Schaden: Kontrolle
+linter-yaml-title-alias: Einfache Illusion
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Monk (Way of Shadow)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (School of Illusion)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -23,18 +33,9 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Monk (Way of Shadow)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (School of Illusion)
 aliases:
+  - Einfache Illusion
   - Minor Illusion
-linter-yaml-title-alias: Einfache Illusion
 ---
 # Einfache Illusion
 *Zaubertrick der Illusion*  

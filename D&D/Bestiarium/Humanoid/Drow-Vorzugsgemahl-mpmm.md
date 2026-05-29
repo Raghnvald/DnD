@@ -2,12 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Favored Consort
+linter-yaml-title-alias: Drow Favored Consort
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
   - Monster/HG/18
   - Monster/Typ/Humanoid/elf
-  - Monster/Typ/Humanoid/wizard
+  - Monster/Typ/Humanoid/Magier
   - Quelle/5e/mpmm
 aliases:
   - Drow Favored Consort

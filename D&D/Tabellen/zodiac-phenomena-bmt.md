@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zodiac Phenomena
+linter-yaml-title-alias: Zodiac Phenomena
 tags:
   - Quelle/5e/bmt
 aliases:

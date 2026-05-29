@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Thassa's Votary"
+linter-yaml-title-alias: "Spells for Thassa's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/thassas-votary
 aliases:

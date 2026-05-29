@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Renaissance Bullets (10)
+linter-yaml-title-alias: Renaissance Bullets (10)
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Renaissance Bullets (10)
-linter-yaml-title-alias: Renaissance Bullets (10)
 ---
 # Renaissance Bullets (10)
 *Ammunition (firearm)*  

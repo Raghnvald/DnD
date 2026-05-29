@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kiri-Jolith
+linter-yaml-title-alias: Kiri-Jolith
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/dragonlance

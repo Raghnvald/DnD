@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow Magic
+linter-yaml-title-alias: Shadow Magic
 tags:
   - Klasse/Zauberer/shadow
   - Quelle/5e/xge

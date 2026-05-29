@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter (Wildhunt)
+linter-yaml-title-alias: Shifter (Wildhunt)
 tags:
   - Quelle/5e/erlw
   - Rasse/shifter/wildhunt

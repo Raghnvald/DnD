@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Greater Absorption
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Ioun Stone, Greater Absorption
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ioun Stone, Greater Absorption
-linter-yaml-title-alias: Ioun Stone, Greater Absorption
 ---
 # Ioun Stone, Greater Absorption
 *Wondrous item, major, legendary (requires attunement)*  

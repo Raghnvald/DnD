@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Rope of Climbing
+linter-yaml-title-alias: Rope of Climbing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Rope of Climbing
-linter-yaml-title-alias: Rope of Climbing
 ---
 # Rope of Climbing
 *Wondrous item, uncommon*  

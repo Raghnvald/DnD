@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Adept of the Black Robes
+linter-yaml-title-alias: Adept of the Black Robes
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
   - "Adept of the Black Robes"
+  - Adept of the Black Robes
 ---
 # Adept of the Black Robes
 *Source: Dragonlance: Shadow of the Dragon Queen p. 31*  

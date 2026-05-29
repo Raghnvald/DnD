@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Shadow of War"
+linter-yaml-title-alias: "Chapter 4: Shadow of War"
 tags:
   - Quelle/5e/dsotdq
 aliases:
+  - "Chapter 4: Shadow of War"
   - Chapter 4: Shadow of War
 ---
 # Chapter 4: Shadow of War

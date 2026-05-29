@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Othokent
+linter-yaml-title-alias: Othokent
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Othokent
-linter-yaml-title-alias: Othokent
 ---
 # [Othokent](3-Mechanics\CLI\bestiary\npc/othokent-gos.md)
 *Source: Ghosts of Saltmarsh p. 81*  

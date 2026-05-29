@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Davian Martikov
+linter-yaml-title-alias: Davian Martikov
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/cos
 aliases:
   - Davian Martikov
-linter-yaml-title-alias: Davian Martikov
 ---
 # Davian Martikov
 *Source: Curse of Strahd p. 173*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Giant Strength
+linter-yaml-title-alias: Potion of Giant Strength
 tags:
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Giant Strength
-linter-yaml-title-alias: Potion of Giant Strength
 ---
 # Potion of Giant Strength
 *Potion*  

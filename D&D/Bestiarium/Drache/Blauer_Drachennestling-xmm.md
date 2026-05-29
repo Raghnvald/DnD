@@ -9,6 +9,7 @@ Habitat:
   - Küste
   - Wüste
 status: WIP
+linter-yaml-title-alias: Blue Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste
@@ -18,7 +19,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Blue Dragon Wyrmling
-linter-yaml-title-alias: Blue Dragon Wyrmling
 ---
 # [Blue Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/blue-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

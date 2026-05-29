@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome (Forest)
+linter-yaml-title-alias: Gnome (Forest)
 tags:
   - Quelle/5e/phb
   - Rasse/gnome/forest

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hellsehen
+linter-yaml-title-alias: Hellsehen
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -10,6 +11,7 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Clairvoyance
+  - Hellsehen
 ---
 # Hellsehen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Erkenntniszauber.webp#token)

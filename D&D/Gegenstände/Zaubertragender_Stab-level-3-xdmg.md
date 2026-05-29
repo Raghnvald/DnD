@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enspelled Staff (Level 3)
+linter-yaml-title-alias: Enspelled Staff (Level 3)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Enspelled Staff (Level 3)
-linter-yaml-title-alias: Enspelled Staff (Level 3)
 ---
 # Enspelled Staff (Level 3)
 *Staff, weapon, rare (requires attunement by a Spellcaster)*  

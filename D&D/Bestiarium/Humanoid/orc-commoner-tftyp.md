@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc Commoner
+linter-yaml-title-alias: Orc Commoner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

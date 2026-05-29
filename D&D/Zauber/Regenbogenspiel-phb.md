@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Prismatic Spray
 Zaubergrad: 7
+linter-yaml-title-alias: Prismatic Spray
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Prismatic Spray
-linter-yaml-title-alias: Prismatic Spray
 ---
 # Prismatic Spray
 *7th-level, Evocation*  

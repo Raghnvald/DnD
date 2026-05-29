@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Erinyes (Rope of Entanglement)
+linter-yaml-title-alias: Erinyes (Rope of Entanglement)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12

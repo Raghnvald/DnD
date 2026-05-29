@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Hag; Hag Flaws
+linter-yaml-title-alias: Roleplaying a Hag; Hag Flaws
 tags:
   - Quelle/5e/vgm
 aliases:

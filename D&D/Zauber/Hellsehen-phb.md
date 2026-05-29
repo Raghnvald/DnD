@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Clairvoyance
 Zaubergrad: 3
+linter-yaml-title-alias: Clairvoyance
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/3
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
   - Clairvoyance
-linter-yaml-title-alias: Clairvoyance
 ---
 # Clairvoyance
 *3rd-level, Divination*  

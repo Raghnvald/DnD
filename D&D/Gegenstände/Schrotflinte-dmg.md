@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shotgun
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Shotgun
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Shotgun
-linter-yaml-title-alias: Shotgun
 ---
 # Shotgun
 *Weapon*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Deep Dragon; Deep Dragon Spellcasting
+linter-yaml-title-alias: Creating a Deep Dragon; Deep Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

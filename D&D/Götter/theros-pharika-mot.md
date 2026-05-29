@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pharika
+linter-yaml-title-alias: Pharika
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/knowledge
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/mot
 aliases:
   - "Pharika"
+  - Pharika
 ---
 # Pharika
 *Source: Mythic Odysseys of Theros p. 70* 

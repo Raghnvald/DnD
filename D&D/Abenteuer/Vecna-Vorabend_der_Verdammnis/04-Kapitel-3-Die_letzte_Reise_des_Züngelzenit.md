@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: The Lambent Zenith's Last Voyage"
+linter-yaml-title-alias: "Chapter 3: The Lambent Zenith's Last Voyage"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 3: The Lambent Zenith's Last Voyage"
   - Chapter 3: The Lambent Zenith's Last Voyage
 ---
 # Chapter 3: The Lambent Zenith's Last Voyage

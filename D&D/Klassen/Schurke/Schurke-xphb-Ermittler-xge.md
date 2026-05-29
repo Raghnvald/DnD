@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inquisitive
+linter-yaml-title-alias: Inquisitive
 tags:
   - Klasse/Schurke/inquisitive
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Telekinesis
+linter-yaml-title-alias: Ring of Telekinesis
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Telekinesis
-linter-yaml-title-alias: Ring of Telekinesis
 ---
 # Ring of Telekinesis
 *Ring, very rare (requires attunement)*  

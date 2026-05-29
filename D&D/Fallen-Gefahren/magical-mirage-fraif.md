@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Magical Mirage
+linter-yaml-title-alias: Magical Mirage
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/fraif
 aliases:
   - "Magical Mirage"
+  - Magical Mirage
 ---
 # Magical Mirage
 *Environmental Hazard*  

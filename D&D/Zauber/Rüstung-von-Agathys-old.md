@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Rüstung von Agathys
 Zaubergrad: 2
+linter-yaml-title-alias: Rüstung von Agathys
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
 tags:
   - Klasse/Hexenmeister
   - Kompendium/Talent/magic-initiate/warlock-spells
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
 aliases:
   - Armor of Agathys
-linter-yaml-title-alias: Rüstung von Agathys
+  - Rüstung von Agathys
 ---
 # Rüstung von Agathys
 

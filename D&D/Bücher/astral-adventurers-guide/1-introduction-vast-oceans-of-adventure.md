@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Vast Oceans of Adventure"
+linter-yaml-title-alias: "Introduction: Vast Oceans of Adventure"
 tags:
   - Quelle/5e/aag
 aliases:

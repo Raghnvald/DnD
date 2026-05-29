@@ -1,25 +1,22 @@
 ---
-Bezeichnung: Ring of Protection
+Bezeichnung: Ring des Schutzes
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: completed
+linter-yaml-title-alias: Ring des Schutzes
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
-  - Ring of Protection
-linter-yaml-title-alias: Ring of Protection
+  - Ring des Schutzes
 ---
-# Ring of Protection
+# Ring des Schutzes
 *Ring, selten (erfordert Einstimmung)*  
-![](/3-Mechanics/CLI/items/img/ring-of-protection.webp#right)
+![](img/ring-of-protection.webp#right)
 
-- **Eigenschaften**: erfordert Einstimmung
-- **Kosten**: ⏤
-- **Gewicht**: ⏤
+Du erhältst einen Bonus von+ 1 auf deine Rüstungsklasse und auf Rettungswürfe, während du diesen Ring trägst.
 
-Du erhältst einen Bonus von +1 auf deine RK und alle Rettungswürfe, während du diesen Ring trägst.
-
-You gain a +1 bonus to AC and saving throws while wearing this ring.
-
-*Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielleiterhandbuch S. 179. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

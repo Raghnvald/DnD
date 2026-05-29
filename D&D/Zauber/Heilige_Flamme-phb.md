@@ -4,9 +4,13 @@ Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 18 m
 Komponenten: V, G
-Wirkungsdauer: unmittelbar
+Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d8
+linter-yaml-title-alias: Heilige Flamme
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -15,12 +19,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
-  - Sacred Flame
-linter-yaml-title-alias: Sacred Flame
+  - Heilige Flamme
 ---
 # Heilige Flamme
 *Zaubertrick der Hervorrufung*  

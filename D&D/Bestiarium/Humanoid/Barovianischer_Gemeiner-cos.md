@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barovian Commoner
+linter-yaml-title-alias: Barovian Commoner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

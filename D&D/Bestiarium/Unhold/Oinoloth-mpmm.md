@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oinoloth
+linter-yaml-title-alias: Oinoloth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

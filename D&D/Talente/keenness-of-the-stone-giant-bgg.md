@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keenness of the Stone Giant
+linter-yaml-title-alias: Keenness of the Stone Giant
 tags:
   - Kompendium/Talent
   - Quelle/5e/bgg

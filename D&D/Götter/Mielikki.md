@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mielikki, Göttin der Wälder
+linter-yaml-title-alias: Mielikki, Göttin der Wälder
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Natur
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Mielikki
+  - Mielikki, Göttin der Wälder
 ---
 # Mielikki, Göttin der Wälder
 *Quelle: SRD / Grundregelwerk* 

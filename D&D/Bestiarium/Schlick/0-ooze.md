@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Ooze
+linter-yaml-title-alias: Index of Ooze
+aliases:
+  - Index of Ooze
 ---
 # Index of Ooze
 

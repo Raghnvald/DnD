@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Amethyst-Magnetstein
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Amethyst-Magnetstein
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/ftd
 aliases:
-  - Amethyst Lodestone
-linter-yaml-title-alias: Amethyst Lodestone
-Status: completed
+  - Amethyst-Magnetstein
 ---
 # Amethyst-Magnetstein
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  

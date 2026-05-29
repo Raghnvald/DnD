@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Moon
+linter-yaml-title-alias: Charm of the Moon
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

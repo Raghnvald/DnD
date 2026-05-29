@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Winged Boots
+linter-yaml-title-alias: Winged Boots
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Winged Boots
-linter-yaml-title-alias: Winged Boots
 ---
 # Winged Boots
 *Wondrous item, uncommon (requires attunement)*  

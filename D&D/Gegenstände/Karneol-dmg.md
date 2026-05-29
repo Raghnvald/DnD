@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Karneol
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Karneol
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Carnelian
-linter-yaml-title-alias: Carnelian
+  - Karneol
 ---
 # Karneol
 *Schatz (Edelstein)*  

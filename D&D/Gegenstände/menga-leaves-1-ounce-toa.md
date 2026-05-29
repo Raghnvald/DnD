@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Menga leaves (1 ounce)
+linter-yaml-title-alias: Menga leaves (1 ounce)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/toa
 aliases:
   - Menga leaves (1 ounce)
-linter-yaml-title-alias: Menga leaves (1 ounce)
 ---
 # Menga leaves (1 ounce)
 *Adventuring gear*  

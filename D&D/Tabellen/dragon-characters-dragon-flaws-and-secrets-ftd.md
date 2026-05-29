@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Characters; Dragon Flaws and Secrets
+linter-yaml-title-alias: Dragon Characters; Dragon Flaws and Secrets
 tags:
   - Quelle/5e/ftd
 aliases:

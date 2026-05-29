@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Friends and Foes
+linter-yaml-title-alias: Friends and Foes
 tags:
   - Quelle/5e/scc
 aliases:
   - "Friends and Foes"
+  - Friends and Foes
 ---
 # Friends and Foes
 *Source: Strixhaven: A Curriculum of Chaos, p. 183* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Franchise Restructuring"
+linter-yaml-title-alias: "Downtime and Franchise Activity: Franchise Restructuring"
 tags:
   - Quelle/5e/ai
 aliases:

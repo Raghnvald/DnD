@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nellik
+Image: token/nellik-pabtso.webp
+linter-yaml-title-alias: Nellik
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9
@@ -9,8 +11,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Nellik
-Image: token/nellik-pabtso.webp
-linter-yaml-title-alias: Nellik
 ---
 # Nellik
 *Source: Phandelver and Below: The Shattered Obelisk p. 193*  

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "What's on the Bill?; Shows in Menthis"
+linter-yaml-title-alias: "What's on the Bill?; Shows in Menthis"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "What's on the Bill?; Shows in Menthis"
   - What's on the Bill?; Shows in Menthis
 ---
 # What's on the Bill?; Shows in Menthis

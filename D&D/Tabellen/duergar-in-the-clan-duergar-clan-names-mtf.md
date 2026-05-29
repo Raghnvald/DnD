@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar in the Clan; Duergar Clan Names
+linter-yaml-title-alias: Duergar in the Clan; Duergar Clan Names
 tags:
   - Quelle/5e/mtf
 aliases:

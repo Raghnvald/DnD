@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shrieker
+linter-yaml-title-alias: Shrieker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Order of Scribes
+linter-yaml-title-alias: Order of Scribes
 tags:
   - Klasse/Magier/scribes
   - Quelle/5e/tce

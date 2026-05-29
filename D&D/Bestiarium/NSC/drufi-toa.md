@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drufi
+linter-yaml-title-alias: Drufi
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Drufi
-linter-yaml-title-alias: Drufi
 ---
 # [Drufi](3-Mechanics\CLI\bestiary\npc/drufi-toa.md)
 *Source: Tomb of Annihilation p. 64*  

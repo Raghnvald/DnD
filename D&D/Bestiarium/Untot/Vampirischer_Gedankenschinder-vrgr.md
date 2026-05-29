@@ -8,6 +8,7 @@ HG: 5
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Vampiric Mind Flayer
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Vampiric Mind Flayer
-linter-yaml-title-alias: Vampiric Mind Flayer
 ---
 # [Vampiric Mind Flayer](3-Mechanics\CLI\bestiary\undead/vampiric-mind-flayer-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 252*  

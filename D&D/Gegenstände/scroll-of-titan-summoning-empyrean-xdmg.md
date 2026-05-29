@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Empyrean)
+linter-yaml-title-alias: Scroll of Titan Summoning (Empyrean)
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Titan Summoning (Empyrean)
-linter-yaml-title-alias: Scroll of Titan Summoning (Empyrean)
 ---
 # Scroll of Titan Summoning (Empyrean)
 *Scroll, legendary*  

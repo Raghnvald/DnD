@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hybrid Spy
+linter-yaml-title-alias: Hybrid Spy
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

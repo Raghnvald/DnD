@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Elemental Gem, Emerald
+linter-yaml-title-alias: Elemental Gem, Emerald
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Elemental Gem, Emerald
-linter-yaml-title-alias: Elemental Gem, Emerald
 ---
 # Elemental Gem, Emerald
 *Wondrous item, uncommon*  

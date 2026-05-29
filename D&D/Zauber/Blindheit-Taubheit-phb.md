@@ -6,6 +6,16 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Blindheit/Taubheit
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Death Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fiend)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -19,18 +29,8 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/2
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Death Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fiend)
-  - Wizard
 aliases:
-  - Blindness/Deafness
-linter-yaml-title-alias: Blindness/Deafness
+  - Blindheit/Taubheit
 ---
 # Blindheit/Taubheit
 *Nekromantie des 2. Grades*

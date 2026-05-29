@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gravity Sinkhole
 Zaubergrad: 4
+linter-yaml-title-alias: Gravity Sinkhole
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/4

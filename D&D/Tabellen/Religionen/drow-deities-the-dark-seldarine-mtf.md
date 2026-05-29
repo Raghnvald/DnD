@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drow Deities (The Dark Seldarine)
+linter-yaml-title-alias: Drow Deities (The Dark Seldarine)
 tags:
   - Quelle/5e/mtf
 aliases:

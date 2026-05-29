@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Eldritch Knight
+linter-yaml-title-alias: Spells for Eldritch Knight
 tags:
   - Zauber/list/subclass/eldritch-knight
 aliases:

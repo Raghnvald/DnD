@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Artisan's Tools"
+linter-yaml-title-alias: "Artisan's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Artisan's Tools
-linter-yaml-title-alias: Artisan's Tools
+  - "Artisan's Tools"
 ---
 # Artisan's Tools
 *Artisan's tools*  

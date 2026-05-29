@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grassland Encounters (Levels 6—10)
+linter-yaml-title-alias: Grassland Encounters (Levels 6—10)
 tags:
   - Quelle/5e/xge
 aliases:

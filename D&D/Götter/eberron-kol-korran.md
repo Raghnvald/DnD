@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kol Korran
+linter-yaml-title-alias: Kol Korran
 tags:
   - Kompendium/Götter/Domäne/trickery
   - Kompendium/Götter/eberron

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ladder (10-foot)
+linter-yaml-title-alias: Ladder (10-foot)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Ladder (10-foot)
-linter-yaml-title-alias: Ladder (10-foot)
 ---
 # Ladder (10-foot)
 *Adventuring gear*  

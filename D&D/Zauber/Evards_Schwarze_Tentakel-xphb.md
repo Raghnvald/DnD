@@ -1,5 +1,13 @@
 ---
 Bezeichnung: "Evard's Black Tentacles"
+linter-yaml-title-alias: "Evard's Black Tentacles"
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock (The Fathomless)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -10,16 +18,8 @@ tags:
   - Subklasse/the-fathomless
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock (The Fathomless)
-  - Wizard
 aliases:
-  - Evard's Black Tentacles
-linter-yaml-title-alias: Evard's Black Tentacles
+  - "Evard's Black Tentacles"
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

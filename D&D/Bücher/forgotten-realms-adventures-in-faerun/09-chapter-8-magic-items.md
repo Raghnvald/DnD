@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 8: Magic Items"
+linter-yaml-title-alias: "Chapter 8: Magic Items"
 tags:
   - Quelle/5e/fraif
 aliases:

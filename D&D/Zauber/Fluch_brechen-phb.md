@@ -5,6 +5,15 @@ Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
+linter-yaml-title-alias: Fluch brechen
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -16,17 +25,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
+  - Fluch brechen
   - Remove Curse
-linter-yaml-title-alias: Fluch brechen
 ---
 # Fluch brechen
 *Bann des 3. Grades*  

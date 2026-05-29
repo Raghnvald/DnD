@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nerull
+linter-yaml-title-alias: Nerull
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/greyhawk

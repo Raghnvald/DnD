@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Favorite Foods (Menagerie Coast)
+linter-yaml-title-alias: Backstory; Favorite Foods (Menagerie Coast)
 tags:
   - Quelle/5e/egw
 aliases:

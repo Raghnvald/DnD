@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Pale Tincture
+linter-yaml-title-alias: Pale Tincture
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Pale Tincture
-linter-yaml-title-alias: Pale Tincture
 ---
 # Pale Tincture
 *Adventuring gear, poison (ingested)*  

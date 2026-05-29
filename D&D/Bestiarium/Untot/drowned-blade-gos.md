@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drowned Blade
+linter-yaml-title-alias: Drowned Blade
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Drowned Blade
-linter-yaml-title-alias: Drowned Blade
 ---
 # [Drowned Blade](3-Mechanics\CLI\bestiary\undead/drowned-blade-gos.md)
 *Source: Ghosts of Saltmarsh p. 235*  

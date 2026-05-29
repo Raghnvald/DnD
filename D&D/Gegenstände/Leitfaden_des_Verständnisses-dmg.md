@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Tome of Understanding
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Tome of Understanding
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Tome of Understanding
-linter-yaml-title-alias: Tome of Understanding
 ---
 # Tome of Understanding
 *Wondrous item, major, very rare*  

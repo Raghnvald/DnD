@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daask Contacts
+linter-yaml-title-alias: Daask Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

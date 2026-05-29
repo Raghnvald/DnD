@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nightsea Chil-liren
+linter-yaml-title-alias: Nightsea Chil-liren
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8

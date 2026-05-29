@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Seltenheit magischer Gegenstände
+linter-yaml-title-alias: Seltenheit magischer Gegenstände
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Rarity
+  - Seltenheit magischer Gegenstände
 ---
 # Seltenheit magischer Gegenstände
 *Quelle: Spielleiterhandbuch, S. 135* 

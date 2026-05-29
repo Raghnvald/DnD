@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix D: Dungeon Key"
+linter-yaml-title-alias: "Appendix D: Dungeon Key"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Appendix D: Dungeon Key"
   - Appendix D: Dungeon Key
 ---
 # Appendix D: Dungeon Key

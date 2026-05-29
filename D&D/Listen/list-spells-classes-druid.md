@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Druid Spells
+linter-yaml-title-alias: Druid Spells
 tags:
   - Zauber/list/class/druid
 aliases:

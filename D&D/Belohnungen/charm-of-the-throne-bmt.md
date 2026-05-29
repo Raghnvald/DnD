@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Throne
+linter-yaml-title-alias: Charm of the Throne
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

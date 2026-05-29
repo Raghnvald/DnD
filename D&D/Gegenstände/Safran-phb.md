@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Safran
 Kategorie: Handelsgut
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 15 GM
 Gew.: 0,5 kg
+status: WIP
+linter-yaml-title-alias: Safran
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Saffron
-linter-yaml-title-alias: Saffron
+  - Safran
 ---
 # Safran
 *Handelsgut*  

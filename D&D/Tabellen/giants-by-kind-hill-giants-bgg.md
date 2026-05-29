@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Hill Giants
+linter-yaml-title-alias: Giants by Kind; Hill Giants
 tags:
   - Quelle/5e/bgg
 aliases:

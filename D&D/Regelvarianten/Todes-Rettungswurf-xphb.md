@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Death Saving Throw
+linter-yaml-title-alias: Death Saving Throw
 tags:
   - Quelle/5e/xphb
 aliases:

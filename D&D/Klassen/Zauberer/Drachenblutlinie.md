@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Drakonische Blutlinie
+linter-yaml-title-alias: Drakonische Blutlinie
 tags:
   - Klasse/Zauberer
   - Quelle/5e/phb
 aliases:
   - Draconic Bloodline
+  - Drakonische Blutlinie
 ---
 # Drakonische Blutlinie
 _[[Zauberer]]_: Magische Herkunft

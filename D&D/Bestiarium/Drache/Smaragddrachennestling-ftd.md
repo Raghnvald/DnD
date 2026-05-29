@@ -8,6 +8,7 @@ HG: 2
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Emerald Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Emerald Dragon Wyrmling
-linter-yaml-title-alias: Emerald Dragon Wyrmling
 ---
 # [Emerald Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/emerald-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 197*  

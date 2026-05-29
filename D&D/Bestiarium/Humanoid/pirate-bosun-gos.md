@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pirate Bosun
+linter-yaml-title-alias: Pirate Bosun
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

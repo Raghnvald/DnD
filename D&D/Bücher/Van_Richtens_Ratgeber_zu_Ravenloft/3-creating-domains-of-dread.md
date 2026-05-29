@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating Domains of Dread
+linter-yaml-title-alias: Creating Domains of Dread
 tags:
   - Quelle/5e/vrgr
 aliases:

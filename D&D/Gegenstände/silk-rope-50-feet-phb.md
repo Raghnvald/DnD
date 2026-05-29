@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Silk Rope (50 feet)
+linter-yaml-title-alias: Silk Rope (50 feet)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Silk Rope (50 feet)
-linter-yaml-title-alias: Silk Rope (50 feet)
 ---
 # Silk Rope (50 feet)
 *Adventuring gear*  

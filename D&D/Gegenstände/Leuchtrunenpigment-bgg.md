@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Glowrune Pigment
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Glowrune Pigment
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/bgg
 aliases:
   - Glowrune Pigment
-linter-yaml-title-alias: Glowrune Pigment
 ---
 # Glowrune Pigment
 *Wondrous item, rare*  

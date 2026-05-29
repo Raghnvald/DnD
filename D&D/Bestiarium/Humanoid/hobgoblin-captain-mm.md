@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hobgoblin Captain
+linter-yaml-title-alias: Hobgoblin Captain
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland

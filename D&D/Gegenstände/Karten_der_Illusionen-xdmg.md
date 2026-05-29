@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Deck of Illusions
+linter-yaml-title-alias: Deck of Illusions
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Deck of Illusions
-linter-yaml-title-alias: Deck of Illusions
 ---
 # Deck of Illusions
 *Wondrous item, uncommon*  

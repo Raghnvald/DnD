@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Ride the Wind
+linter-yaml-title-alias: Spells for Ride the Wind
 tags:
   - Zauber/list/optfeature/ride-the-wind
 aliases:

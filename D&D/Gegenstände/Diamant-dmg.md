@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Diamant
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Diamant
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Diamond
-linter-yaml-title-alias: Diamond
+  - Diamant
 ---
 # Diamant
 *Schatz (Edelstein)*  

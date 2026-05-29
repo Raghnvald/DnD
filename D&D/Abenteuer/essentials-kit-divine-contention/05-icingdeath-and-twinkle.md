@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Icingdeath and Twinkle
+linter-yaml-title-alias: Icingdeath and Twinkle
 tags:
   - Quelle/5e/dc
 aliases:
   - "Icingdeath and Twinkle"
+  - Icingdeath and Twinkle
 ---
 # Icingdeath and Twinkle
 *Source: Essentials Kit: Divine Contention* 

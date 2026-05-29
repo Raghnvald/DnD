@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Spellfire Initiate
+linter-yaml-title-alias: Spellfire Initiate
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Spellfire Initiate"
+  - Spellfire Initiate
 ---
 # Spellfire Initiate
 *Source: Forgotten Realms: Heroes of Faerûn p. 36*  

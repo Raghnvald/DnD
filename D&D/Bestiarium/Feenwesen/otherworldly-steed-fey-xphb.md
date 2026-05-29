@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Otherworldly Steed (Fey)
+linter-yaml-title-alias: Otherworldly Steed (Fey)
 tags:
   - Monster/Größe/Groß
   - Monster/HG/

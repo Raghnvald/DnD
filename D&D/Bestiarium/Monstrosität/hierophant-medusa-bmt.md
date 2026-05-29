@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hierophant Medusa
+linter-yaml-title-alias: Hierophant Medusa
 tags:
   - Monster/Größe/Groß
   - Monster/HG/17

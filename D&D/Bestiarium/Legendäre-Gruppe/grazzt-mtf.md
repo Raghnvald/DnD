@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Graz'zt"
+linter-yaml-title-alias: "Graz'zt"
 tags:
   - Monster/legendary-group
   - Quelle/5e/mtf
 aliases:
+  - "Graz'zt"
   - Graz'zt
 ---
 # Graz'zt

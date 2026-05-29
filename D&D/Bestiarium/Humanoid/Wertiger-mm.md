@@ -2,13 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Weretiger
+linter-yaml-title-alias: Weretiger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Grasland
   - Monster/Habitat/Wald
   - Monster/Habitat/Wüste
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/mm
 aliases:

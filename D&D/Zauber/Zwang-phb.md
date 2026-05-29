@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Compulsion
 Zaubergrad: 4
+linter-yaml-title-alias: Compulsion
+classes:
+  - Bard (Magical Secrets)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Quelle/5e/phb
   - Zauber/Grad/4
   - Zauber/optfeature/bewitching-whispers
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
 aliases:
   - Compulsion
-linter-yaml-title-alias: Compulsion
 ---
 # Compulsion
 *4th-level, Enchantment*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Slumbering Scaled Ornament
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Slumbering Scaled Ornament
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Slumbering Scaled Ornament
-linter-yaml-title-alias: Slumbering Scaled Ornament
 ---
 # Slumbering Scaled Ornament
 *Wondrous item, uncommon (requires attunement)*  

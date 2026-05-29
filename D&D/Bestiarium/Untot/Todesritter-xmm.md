@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Knight
+linter-yaml-title-alias: Death Knight
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
   - Monster/Habitat/Jedes
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Death Knight
-linter-yaml-title-alias: Death Knight
 ---
 # [Death Knight](3-Mechanics\CLI\bestiary\undead/death-knight-xmm.md)
 *Source: Monster Manual (2024) p. 92*  

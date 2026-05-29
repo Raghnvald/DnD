@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Whisper (Dormant)
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: Whisper (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Whisper (Dormant)
-linter-yaml-title-alias: Whisper (Dormant)
 ---
 # Whisper (Dormant)
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Activity Pages
+linter-yaml-title-alias: Activity Pages
 tags:
   - Quelle/5e/mgelft
 aliases:
   - "Activity Pages"
+  - Activity Pages
 ---
 # Activity Pages
 *Source: Muk's Guide to Everything He Learned From Tasha, p. 1* 

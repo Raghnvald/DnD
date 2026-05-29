@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Soulknife
+linter-yaml-title-alias: Soulknife
 tags:
   - Klasse/Schurke/soulknife
   - Quelle/5e/xphb

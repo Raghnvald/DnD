@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ring of Acid Resistance
+linter-yaml-title-alias: Ring of Acid Resistance
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
   - Ring of Acid Resistance
-linter-yaml-title-alias: Ring of Acid Resistance
 ---
 # Ring of Acid Resistance
 *Ring, rare*  

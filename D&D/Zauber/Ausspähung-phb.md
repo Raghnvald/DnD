@@ -6,6 +6,17 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Ausspähung
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Cleric (Knowledge Domain)
+  - Cleric (Light Domain)
+  - Druid
+  - Druid (Circle of the Land, Coast)
+  - Paladin (Oath of Vengeance)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -19,19 +30,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Cleric (Knowledge Domain)
-  - Cleric (Light Domain)
-  - Druid
-  - Druid (Circle of the Land, Coast)
-  - Paladin (Oath of Vengeance)
-  - Warlock
-  - Wizard
 aliases:
+  - Ausspähung
   - Scrying
-linter-yaml-title-alias: Ausspähung
 ---
 # Ausspähung
 *Erkenntniszauber des 5. Grades*

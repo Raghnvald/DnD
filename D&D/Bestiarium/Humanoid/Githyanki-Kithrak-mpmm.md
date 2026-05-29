@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Githyanki Kith'rak"
+linter-yaml-title-alias: "Githyanki Kith'rak"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg
@@ -11,6 +12,7 @@ tags:
   - Monster/Typ/Humanoid/gith
   - Quelle/5e/mpmm
 aliases:
+  - "Githyanki Kith'rak"
   - Githyanki Kith'rak
 ---
 # [Githyanki Kith'rak](3-Mechanics\CLI\bestiary\humanoid/githyanki-kithrak-mpmm.md)

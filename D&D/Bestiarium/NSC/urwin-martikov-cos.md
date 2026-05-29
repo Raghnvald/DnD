@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Urwin Martikov
+linter-yaml-title-alias: Urwin Martikov
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Monster/Typ/Humanoid/shapechanger
   - Quelle/5e/cos
 aliases:
   - Urwin Martikov
-linter-yaml-title-alias: Urwin Martikov
 ---
 # [Urwin Martikov](3-Mechanics\CLI\bestiary\npc/urwin-martikov-cos.md)
 *Source: Curse of Strahd p. 98*  

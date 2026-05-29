@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Horror Settings
+linter-yaml-title-alias: Folk Horror Settings
 tags:
   - Quelle/5e/vrgr
 aliases:

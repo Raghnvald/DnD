@@ -8,6 +8,7 @@ HG: /
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Wand
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/

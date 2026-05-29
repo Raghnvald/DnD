@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of Vitality
+linter-yaml-title-alias: Charm of Vitality
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

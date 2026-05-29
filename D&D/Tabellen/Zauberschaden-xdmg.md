@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Damage
+linter-yaml-title-alias: Spell Damage
 tags:
   - Quelle/5e/xdmg
 aliases:

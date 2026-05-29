@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Half Plate Armor of Etherealness
 Rüstung: Mittel
+linter-yaml-title-alias: Half Plate Armor of Etherealness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Mittel
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Half Plate Armor of Etherealness
-linter-yaml-title-alias: Half Plate Armor of Etherealness
 ---
 # Half Plate Armor of Etherealness
 *Medium armor, legendary (requires attunement)*  

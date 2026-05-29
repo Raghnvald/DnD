@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Wyllow's Staff of Flowers"
 Kategorie: Zauberstecken
+linter-yaml-title-alias: "Wyllow's Staff of Flowers"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/wdmm
 aliases:
-  - Wyllow's Staff of Flowers
-linter-yaml-title-alias: Wyllow's Staff of Flowers
+  - "Wyllow's Staff of Flowers"
 ---
 # Wyllow's Staff of Flowers
 *Staff, weapon, common (requires attunement)*  

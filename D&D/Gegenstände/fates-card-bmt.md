@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Fates Card
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Fates Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Fates Card
-linter-yaml-title-alias: Fates Card
 ---
 # Fates Card
 *Wondrous item, legendary*  

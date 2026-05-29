@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Component Pouch
+linter-yaml-title-alias: Component Pouch
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Component Pouch
-linter-yaml-title-alias: Component Pouch
 ---
 # Component Pouch
 *Adventuring gear*  

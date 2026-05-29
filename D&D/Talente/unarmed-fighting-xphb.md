@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unarmed Fighting
+linter-yaml-title-alias: Unarmed Fighting
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

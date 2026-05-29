@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hammerhead Ship
+linter-yaml-title-alias: Hammerhead Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Hammerhead Ship"
+  - Hammerhead Ship
 ---
 # Hammerhead Ship
 *Source: Astral Adventurer's Guide p. 32, Spelljammer Academy*  

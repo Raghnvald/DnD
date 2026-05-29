@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Teleporter Ring
 Kategorie: Ring
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Teleporter Ring
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/ring
   - Quelle/5e/wdh
 aliases:
   - Teleporter Ring
-linter-yaml-title-alias: Teleporter Ring
 ---
 # Teleporter Ring
 *Ring*  

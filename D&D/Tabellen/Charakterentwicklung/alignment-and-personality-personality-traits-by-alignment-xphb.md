@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alignment and Personality; Personality Traits by Alignment
+linter-yaml-title-alias: Alignment and Personality; Personality Traits by Alignment
 tags:
   - Quelle/5e/xphb
 aliases:

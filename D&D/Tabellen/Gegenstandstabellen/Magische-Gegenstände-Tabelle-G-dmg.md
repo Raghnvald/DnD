@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle G
+linter-yaml-title-alias: Magische Gegenstände Tabelle G
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table G
+  - Magische Gegenstände Tabelle G
 ---
 # Magische Gegenstände Tabelle G
 *Quelle: Spielleiterhandbuch, S. 147* 

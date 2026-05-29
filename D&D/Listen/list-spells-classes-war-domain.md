@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for War Domain
+linter-yaml-title-alias: Spells for War Domain
 tags:
   - Zauber/list/subclass/war-domain
 aliases:

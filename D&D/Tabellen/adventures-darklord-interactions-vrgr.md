@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventures; Darklord Interactions
+linter-yaml-title-alias: Adventures; Darklord Interactions
 tags:
   - Quelle/5e/vrgr
 aliases:

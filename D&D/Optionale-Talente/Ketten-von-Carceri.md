@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Ketten von Carceri
+linter-yaml-title-alias: Ketten von Carceri
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb
 aliases:
   - Chains of Carceri
+  - Ketten von Carceri
 ---
 # Ketten von Carceri
 _Quellen:_ Spielerhandbuch

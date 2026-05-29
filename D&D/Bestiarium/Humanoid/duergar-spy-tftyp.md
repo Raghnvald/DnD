@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Spy
+linter-yaml-title-alias: Duergar Spy
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

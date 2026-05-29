@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Basilisk
+linter-yaml-title-alias: Reduced-Threat Basilisk
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

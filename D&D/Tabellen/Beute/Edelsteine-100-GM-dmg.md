@@ -1,8 +1,10 @@
 ---
 Bezeichnung: 100 GM Edelsteine
+linter-yaml-title-alias: 100 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
+  - 100 GM Edelsteine
   - 100 gp Gemstones
 ---
 # 100 GM Edelsteine

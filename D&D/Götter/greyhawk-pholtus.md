@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pholtus
+linter-yaml-title-alias: Pholtus
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/order

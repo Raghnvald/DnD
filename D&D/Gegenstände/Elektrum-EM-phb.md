@@ -1,13 +1,19 @@
 ---
 Bezeichnung: Elektrum (EM)
 Kategorie: Währung
+Eigenschaften:
+  - /
+Kst.: 5 SM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Elektrum (EM)
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Electrum (ep)
-linter-yaml-title-alias: Elektrum (EM)
+  - Elektrum (EM)
 ---
 # Elektrum (EM)
 *Treasure (coinage)*  

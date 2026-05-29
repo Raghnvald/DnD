@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Assassin
+linter-yaml-title-alias: Assassin
 tags:
   - Klasse/Schurke/Assassine
   - Quelle/5e/xphb

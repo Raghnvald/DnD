@@ -2,12 +2,15 @@
 Bezeichnung: "Lederrüstung "
 Kategorie: Rüstung
 Rüstung: Leicht
-Eigenschaften: /
+Eigenschaften:
+  - /
+Einstimmung:
 Kst.: 10 GM
 Gew.: 5,0 kg
 RK: 11 + GES
 STR: /
 Heiml.: /
+linter-yaml-title-alias: "Lederrüstung "
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine
@@ -15,7 +18,6 @@ tags:
 aliases:
   - "Lederrüstung "
   - Leather Armor
-linter-yaml-title-alias: "Lederrüstung "
 ---
 # Lederrüstung 
 *Leichte Rüstung*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Undead
+linter-yaml-title-alias: The Undead
 tags:
   - Klasse/Hexenmeister/undead
   - Quelle/5e/vrgr

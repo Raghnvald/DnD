@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jandar Chergoba
+linter-yaml-title-alias: Jandar Chergoba
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Jandar Chergoba
-linter-yaml-title-alias: Jandar Chergoba
 ---
 # [Jandar Chergoba](3-Mechanics\CLI\bestiary\npc/jandar-chergoba-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

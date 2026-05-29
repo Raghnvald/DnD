@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Muiral
+linter-yaml-title-alias: Muiral
 tags:
   - Monster/Größe/Groß
   - Monster/HG/13
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Muiral
-linter-yaml-title-alias: Muiral
 ---
 # [Muiral](3-Mechanics\CLI\bestiary\npc/muiral-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 314*  

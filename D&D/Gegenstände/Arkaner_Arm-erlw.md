@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Arcane Propulsion Arm
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Arcane Propulsion Arm
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Arcane Propulsion Arm
-linter-yaml-title-alias: Arcane Propulsion Arm
 ---
 # Arcane Propulsion Arm
 *Wondrous item, very rare (requires attunement by a creature missing a hand or an arm)*  

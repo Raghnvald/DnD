@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Figurine of Wondrous Power
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Figurine of Wondrous Power
 tags:
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/dmg
 aliases:
   - Figurine of Wondrous Power
-linter-yaml-title-alias: Figurine of Wondrous Power
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  

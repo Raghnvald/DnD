@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Smithy
+linter-yaml-title-alias: Smithy
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

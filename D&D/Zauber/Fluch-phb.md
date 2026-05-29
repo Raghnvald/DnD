@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Bestow Curse
 Zaubergrad: 3
+linter-yaml-title-alias: Bestow Curse
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -12,16 +20,8 @@ tags:
   - Zauber/Grad/3
   - Zauber/optfeature/sign-of-ill-omen
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Bestow Curse
-linter-yaml-title-alias: Bestow Curse
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

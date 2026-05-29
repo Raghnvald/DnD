@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wilderness Chase Complications
+linter-yaml-title-alias: Wilderness Chase Complications
 tags:
   - Quelle/5e/dmg
 aliases:

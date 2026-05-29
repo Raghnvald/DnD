@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Feather Token
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Feather Token
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Feather Token
-linter-yaml-title-alias: Feather Token
 ---
 # Feather Token
 *Wondrous item, common*  

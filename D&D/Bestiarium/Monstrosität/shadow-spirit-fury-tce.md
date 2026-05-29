@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow Spirit (Fury)
+linter-yaml-title-alias: Shadow Spirit (Fury)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/

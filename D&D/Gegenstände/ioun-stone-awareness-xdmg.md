@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ioun Stone, Awareness
+linter-yaml-title-alias: Ioun Stone, Awareness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Ioun Stone, Awareness
-linter-yaml-title-alias: Ioun Stone, Awareness
 ---
 # Ioun Stone, Awareness
 *Wondrous item, rare (requires attunement)*  

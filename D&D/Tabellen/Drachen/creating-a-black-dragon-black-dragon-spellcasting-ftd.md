@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Black Dragon; Black Dragon Spellcasting
+linter-yaml-title-alias: Creating a Black Dragon; Black Dragon Spellcasting
 tags:
   - Quelle/5e/ftd
 aliases:

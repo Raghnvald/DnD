@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Implements - Common
+linter-yaml-title-alias: Implements - Common
 tags:
   - Quelle/5e/xdmg
 aliases:

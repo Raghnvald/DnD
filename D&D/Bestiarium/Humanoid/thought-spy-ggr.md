@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thought Spy
+linter-yaml-title-alias: Thought Spy
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

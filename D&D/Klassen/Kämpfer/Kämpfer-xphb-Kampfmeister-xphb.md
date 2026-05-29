@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Battle Master
+linter-yaml-title-alias: Battle Master
 tags:
   - Klasse/Kämpfer/battle-master
   - Quelle/5e/xphb
 aliases:
   - Battle Master
-linter-yaml-title-alias: Battle Master
 ---
 # Battle Master
 *[Fighter](Kämpfer-xphb.md): Fighter Subclass*  

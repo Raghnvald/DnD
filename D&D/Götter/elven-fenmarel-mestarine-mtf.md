@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fenmarel Mestarine
+linter-yaml-title-alias: Fenmarel Mestarine
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Underdark Encounters (Levels 11—16)
+linter-yaml-title-alias: Underdark Encounters (Levels 11—16)
 tags:
   - Quelle/5e/xge
 aliases:

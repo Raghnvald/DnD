@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githzerai Anarch
+linter-yaml-title-alias: Githzerai Anarch
 tags:
   - Monster/legendary-group
   - Quelle/5e/mtf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Body Horror Torments
+linter-yaml-title-alias: Body Horror Torments
 tags:
   - Quelle/5e/vrgr
 aliases:

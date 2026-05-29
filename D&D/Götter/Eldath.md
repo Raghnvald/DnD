@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldath, Göttin des Friedens
+linter-yaml-title-alias: Eldath, Göttin des Friedens
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Eldath
+  - Eldath, Göttin des Friedens
 ---
 # Eldath, Göttin des Friedens
 *Quelle: SRD / Grundregelwerk* 

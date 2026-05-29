@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yorn
+linter-yaml-title-alias: Yorn
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Yorn
-linter-yaml-title-alias: Yorn
 ---
 # [Yorn](3-Mechanics\CLI\bestiary\npc/yorn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 150*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghost Story Adventure Sites
+linter-yaml-title-alias: Ghost Story Adventure Sites
 tags:
   - Quelle/5e/vrgr
 aliases:

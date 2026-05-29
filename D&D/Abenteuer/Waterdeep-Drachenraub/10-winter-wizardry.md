@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Winter Wizardry
+linter-yaml-title-alias: Winter Wizardry
 tags:
   - Quelle/5e/wdh
 aliases:

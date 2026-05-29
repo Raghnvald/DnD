@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Set
+linter-yaml-title-alias: Set
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/tempest

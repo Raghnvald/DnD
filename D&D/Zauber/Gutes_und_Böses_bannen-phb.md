@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Dispel Evil and Good
 Zaubergrad: 5
+linter-yaml-title-alias: Dispel Evil and Good
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Paladin
 aliases:
   - Dispel Evil and Good
-linter-yaml-title-alias: Dispel Evil and Good
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  

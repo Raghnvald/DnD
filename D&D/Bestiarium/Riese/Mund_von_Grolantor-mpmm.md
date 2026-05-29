@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mouth of Grolantor
+linter-yaml-title-alias: Mouth of Grolantor
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

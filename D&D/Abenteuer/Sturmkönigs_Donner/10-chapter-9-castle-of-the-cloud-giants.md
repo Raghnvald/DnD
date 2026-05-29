@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 9: Castle of the Cloud Giants"
+linter-yaml-title-alias: "Chapter 9: Castle of the Cloud Giants"
 tags:
   - Quelle/5e/skt
 aliases:
+  - "Chapter 9: Castle of the Cloud Giants"
   - Chapter 9: Castle of the Cloud Giants
 ---
 # Chapter 9: Castle of the Cloud Giants

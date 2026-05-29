@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cinderhild
+linter-yaml-title-alias: Cinderhild
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Cinderhild
-linter-yaml-title-alias: Cinderhild
 ---
 # [Cinderhild](3-Mechanics\CLI\bestiary\npc/cinderhild-skt.md)
 *Source: Storm King's Thunder p. 182*  

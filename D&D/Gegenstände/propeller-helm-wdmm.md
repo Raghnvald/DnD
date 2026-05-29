@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Propeller Helm
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Propeller Helm
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Propeller Helm
-linter-yaml-title-alias: Propeller Helm
 ---
 # Propeller Helm
 *Wondrous item, uncommon (requires attunement by a small humanoid)*  

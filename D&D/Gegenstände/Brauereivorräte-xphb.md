@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Brewer's Supplies"
+linter-yaml-title-alias: "Brewer's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Brewer's Supplies
-linter-yaml-title-alias: Brewer's Supplies
+  - "Brewer's Supplies"
 ---
 # Brewer's Supplies
 *Artisan's tools*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Belt of Frost Giant Strength
+linter-yaml-title-alias: Belt of Frost Giant Strength
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Belt of Frost Giant Strength
-linter-yaml-title-alias: Belt of Frost Giant Strength
 ---
 # Belt of Frost Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

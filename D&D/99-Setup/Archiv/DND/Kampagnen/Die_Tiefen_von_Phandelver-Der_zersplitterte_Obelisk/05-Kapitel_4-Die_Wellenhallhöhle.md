@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Kapitel 4: Die Wellenhallhöhle"
+linter-yaml-title-alias: "Kapitel 4: Die Wellenhallhöhle"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "Kapitel 4: Die Wellenhallhöhle"
   - Chapter 4: Wave Echo Cave
   - Kapitel 4: Die Wellenhallhöhle
-linter-yaml-title-alias: "Kapitel 4: Die Wellenhallhöhle </center>"
 ---
 # Kapitel 4: Die Wellenhallhöhle
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk, S. 65* 
@@ -264,7 +265,7 @@ Sechs [[Grottenschrat-mm|Grottenschrate]] sind in dieser Kammer untergebracht. E
 
 Wie Bereich [[#W6 Südliche Quartiere|W6]] war auch dies früher eine Unterkunft für Minenarbeiter. Die Grottenschrate haben die Leichen, die sie hier gefunden haben, entfernt und die Barrikade errichtet.
 
-**_Schätze:_** Der größere [[Grottenschrat-mm|Grottenschrat]] trägt einen [[Beutel-phb|Beutel]] mit 15 <font color="#B87333">Kupfermünzen</font>, 13 <font color="SkyBlue">Elektrummünzen</font>, zwei Achaten (je 10 <font color="Gold">Goldmünzen</font> wert) und einem [[Heiltrank-dmg|Heiltrank]] bei sich.
+**_Schätze:_** Der größere [[Grottenschrat-mm|Grottenschrat]] trägt einen [[Beutel-phb|Beutel]] mit 15 <font color="#B87333">Kupfermünzen</font>, 13 <font color="SkyBlue">Elektrummünzen</font>, zwei Achaten (je 10 <font color="Gold">Goldmünzen</font> wert) und einem [[Trank_der_Heilung-dmg|Heiltrank]] bei sich.
 
 ```encounter
 name: W11

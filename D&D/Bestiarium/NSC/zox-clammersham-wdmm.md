@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zox Clammersham
+linter-yaml-title-alias: Zox Clammersham
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Zox Clammersham
-linter-yaml-title-alias: Zox Clammersham
 ---
 # [Zox Clammersham](3-Mechanics\CLI\bestiary\npc/zox-clammersham-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 176*  

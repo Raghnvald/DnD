@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sphinx of Lore
+linter-yaml-title-alias: Sphinx of Lore
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/planar

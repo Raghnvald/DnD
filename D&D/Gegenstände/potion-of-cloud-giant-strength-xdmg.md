@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Potion of Cloud Giant Strength
+linter-yaml-title-alias: Potion of Cloud Giant Strength
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/xdmg
 aliases:
   - Potion of Cloud Giant Strength
-linter-yaml-title-alias: Potion of Cloud Giant Strength
 ---
 # Potion of Cloud Giant Strength
 *Potion, very rare*  

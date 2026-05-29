@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Die Rote Ritterin, Göttin der Strategie
+linter-yaml-title-alias: Die Rote Ritterin, Göttin der Strategie
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Krieg
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Die Rote Ritterin
+  - Die Rote Ritterin, Göttin der Strategie
 ---
 # Die Rote Ritterin, Göttin der Strategie
 *Quelle: SRD / Grundregelwerk* 

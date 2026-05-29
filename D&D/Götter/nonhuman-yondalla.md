@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yondalla
+linter-yaml-title-alias: Yondalla
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/twilight

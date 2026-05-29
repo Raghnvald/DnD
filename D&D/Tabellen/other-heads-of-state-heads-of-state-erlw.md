@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Other Heads of State; Heads of State
+linter-yaml-title-alias: Other Heads of State; Heads of State
 tags:
   - Quelle/5e/erlw
 aliases:

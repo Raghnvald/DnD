@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix: Monsters and Magic Items"
+linter-yaml-title-alias: "Appendix: Monsters and Magic Items"
 tags:
   - Quelle/5e/aitfr-thp
 aliases:

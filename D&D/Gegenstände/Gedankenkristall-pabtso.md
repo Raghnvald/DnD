@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mind Crystal
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Mind Crystal
 tags:
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/pabtso
 aliases:
   - Mind Crystal
-linter-yaml-title-alias: Mind Crystal
 ---
 # Mind Crystal
 *Wondrous item*  

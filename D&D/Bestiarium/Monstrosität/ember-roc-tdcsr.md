@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ember Roc
+linter-yaml-title-alias: Ember Roc
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Berg

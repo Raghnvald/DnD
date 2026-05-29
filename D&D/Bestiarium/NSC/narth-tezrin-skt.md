@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Narth Tezrin
+linter-yaml-title-alias: Narth Tezrin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Narth Tezrin
-linter-yaml-title-alias: Narth Tezrin
 ---
 # [Narth Tezrin](3-Mechanics\CLI\bestiary\npc/narth-tezrin-skt.md)
 *Source: Storm King's Thunder p. 254*  

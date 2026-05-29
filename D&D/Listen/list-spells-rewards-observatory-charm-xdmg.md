@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Observatory Charm
+linter-yaml-title-alias: Spells for Observatory Charm
 tags:
   - ttrpg-cli/spell/list/reward/observatory-charm
 aliases:
   - "Spells for Observatory Charm"
+  - Spells for Observatory Charm
 ---
 # Spells for Observatory Charm
 

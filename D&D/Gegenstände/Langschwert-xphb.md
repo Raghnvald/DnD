@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Longsword
+linter-yaml-title-alias: Longsword
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Longsword
-linter-yaml-title-alias: Longsword
 ---
 # Longsword
 *Weapon*  

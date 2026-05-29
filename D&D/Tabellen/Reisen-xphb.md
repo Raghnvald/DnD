@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Travel
+linter-yaml-title-alias: Travel
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Pharika's Devotee"
+linter-yaml-title-alias: "Spells for Pharika's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/pharikas-devotee
 aliases:

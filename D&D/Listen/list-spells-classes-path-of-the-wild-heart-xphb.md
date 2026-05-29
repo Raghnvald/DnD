@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Path of the Wild Heart
+linter-yaml-title-alias: Spells for Path of the Wild Heart
 tags:
   - Zauber/list/subclass/path-of-the-wild-heart
 aliases:

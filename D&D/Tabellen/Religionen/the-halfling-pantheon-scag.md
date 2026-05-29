@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Halfling Pantheon
+linter-yaml-title-alias: The Halfling Pantheon
 tags:
   - Quelle/5e/scag
 aliases:

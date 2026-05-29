@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Fraz-Urb'luu"
+linter-yaml-title-alias: "Fraz-Urb'luu"
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm
 aliases:
+  - "Fraz-Urb'luu"
   - Fraz-Urb'luu
 ---
 # Fraz-Urb'luu

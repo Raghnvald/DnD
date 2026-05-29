@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Introduction
+linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/hotb
 aliases:
   - "Introduction"
+  - Introduction
 ---
 # Introduction
 *Source: Heroes of the Borderlands* 

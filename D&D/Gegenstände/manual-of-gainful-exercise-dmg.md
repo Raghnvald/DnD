@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Manual of Gainful Exercise
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Manual of Gainful Exercise
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Manual of Gainful Exercise
-linter-yaml-title-alias: Manual of Gainful Exercise
 ---
 # Manual of Gainful Exercise
 *Wondrous item, major, very rare*  

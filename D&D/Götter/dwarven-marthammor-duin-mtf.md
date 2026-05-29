@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Marthammor Duin
+linter-yaml-title-alias: Marthammor Duin
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 8
 status: WIP
+linter-yaml-title-alias: Mantler
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -14,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Cloaker
+  - Mantler
 ---
 # Mantler
 *Source: Monster Manual p. 41. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

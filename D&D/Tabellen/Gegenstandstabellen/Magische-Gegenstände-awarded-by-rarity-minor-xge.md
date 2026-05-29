@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Items Awarded by Rarity - Minor
+linter-yaml-title-alias: Magic Items Awarded by Rarity - Minor
 tags:
   - Quelle/5e/xge
 aliases:

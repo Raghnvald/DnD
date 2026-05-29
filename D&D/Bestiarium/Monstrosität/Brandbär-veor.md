@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blazebear
+Image: token/Blazebear-veor.webp
 status: WIP
+linter-yaml-title-alias: Blazebear
 tags:
   - Monster/Größe/Groß
   - Monster/HG/12
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Blazebear
-IMAGE: token/Blazebear-veor.webp
 ---
 # [Blazebear](3-Mechanics\CLI\bestiary\monstrosity/blazebear-veor.md)
 *Source: Vecna: Eve of Ruin p. 210*  

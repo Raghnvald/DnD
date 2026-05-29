@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Malutensilien
 Kategorie: Werkzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: 2,5 kg
+status: WIP
+linter-yaml-title-alias: Malutensilien
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Painter's Supplies
-linter-yaml-title-alias: Painter's Supplies
+  - Malutensilien
 ---
 # Malutensilien
 *Handwerkszeug*

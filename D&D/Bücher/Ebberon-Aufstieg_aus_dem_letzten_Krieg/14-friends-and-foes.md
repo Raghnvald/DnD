@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Friends and Foes
+linter-yaml-title-alias: Friends and Foes
 tags:
   - Quelle/5e/erlw
 aliases:

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Durnan
+linter-yaml-title-alias: Durnan
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/9
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Durnan
-linter-yaml-title-alias: Durnan
 ---
 # [Durnan](3-Mechanics\CLI\bestiary\npc/durnan-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 203*  

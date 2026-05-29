@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Air
+linter-yaml-title-alias: Dungeon Dressing; Air
 tags:
   - Quelle/5e/dmg
 aliases:

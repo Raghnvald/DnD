@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oghma
+linter-yaml-title-alias: Oghma
 tags:
   - Kompendium/Götter/celtic
   - Kompendium/Götter/Domäne/knowledge

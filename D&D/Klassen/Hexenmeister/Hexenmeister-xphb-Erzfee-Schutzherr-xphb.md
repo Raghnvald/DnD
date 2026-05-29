@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Archfey Patron
+linter-yaml-title-alias: Archfey Patron
 tags:
   - Klasse/Hexenmeister/archfey
   - Quelle/5e/xphb

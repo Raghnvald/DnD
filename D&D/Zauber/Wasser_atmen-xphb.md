@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Water Breathing
+linter-yaml-title-alias: Water Breathing
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -16,20 +28,8 @@ tags:
   - Zauber/optfeature/gift-of-the-depths
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Water Breathing
-linter-yaml-title-alias: Water Breathing
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tomb Guardian
+linter-yaml-title-alias: Tomb Guardian
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

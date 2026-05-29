@@ -1,6 +1,13 @@
 ---
 Bezeichnung: "Evard's Black Tentacles"
 Zaubergrad: 4
+linter-yaml-title-alias: "Evard's Black Tentacles"
+classes:
+  - Bard (Magical Secrets)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Great Old One)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -10,15 +17,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock (The Great Old One)
-  - Wizard
 aliases:
-  - Evard's Black Tentacles
-linter-yaml-title-alias: Evard's Black Tentacles
+  - "Evard's Black Tentacles"
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

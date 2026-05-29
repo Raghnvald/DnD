@@ -1,8 +1,10 @@
 ---
 Bezeichnung: 500 GM Edelsteine
+linter-yaml-title-alias: 500 GM Edelsteine
 tags:
   - Quelle/5e/dmg
 aliases:
+  - 500 GM Edelsteine
   - 500 gp Gemstones
 ---
 # 500 GM Edelsteine

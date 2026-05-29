@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Carrion Crawler
+linter-yaml-title-alias: Reduced-Threat Carrion Crawler
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

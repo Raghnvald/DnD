@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior of the Elements
+linter-yaml-title-alias: Warrior of the Elements
 tags:
   - Klasse/Mönch/elements
   - Quelle/5e/xphb

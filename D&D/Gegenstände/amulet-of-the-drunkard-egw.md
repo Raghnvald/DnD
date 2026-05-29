@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Amulet of the Drunkard
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Amulet of the Drunkard
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/egw
 aliases:
   - Amulet of the Drunkard
-linter-yaml-title-alias: Amulet of the Drunkard
 ---
 # Amulet of the Drunkard
 *Wondrous item, uncommon*  

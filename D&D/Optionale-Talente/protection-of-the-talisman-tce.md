@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection of the Talisman
+linter-yaml-title-alias: Protection of the Talisman
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/tce

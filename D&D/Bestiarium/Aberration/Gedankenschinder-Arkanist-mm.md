@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 8
 status: WIP
+linter-yaml-title-alias: Mind Flayer Arcanist
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

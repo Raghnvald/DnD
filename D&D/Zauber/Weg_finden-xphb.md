@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Find the Path
+linter-yaml-title-alias: Find the Path
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/6
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Find the Path
-linter-yaml-title-alias: Find the Path
 ---
 # Find the Path
 *6th-level, Divination*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hlam
+linter-yaml-title-alias: Hlam
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/16
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/wdh
 aliases:
   - Hlam
-linter-yaml-title-alias: Hlam
 ---
 # [Hlam](3-Mechanics\CLI\bestiary\npc/hlam-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 204*  

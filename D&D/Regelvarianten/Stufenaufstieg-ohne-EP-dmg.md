@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Level Advancement without XP
+linter-yaml-title-alias: Level Advancement without XP
 tags:
   - Quelle/5e/dmg
 aliases:

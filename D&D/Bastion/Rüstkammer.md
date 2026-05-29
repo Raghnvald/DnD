@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armory
+linter-yaml-title-alias: Armory
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Signet Ring
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Signet Ring
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Signet Ring
-linter-yaml-title-alias: Signet Ring
 ---
 # Signet Ring
 *Adventuring gear*  

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bjornhild Solvigsdottir
+linter-yaml-title-alias: Bjornhild Solvigsdottir
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/idrotf
 aliases:
   - Bjornhild Solvigsdottir
-linter-yaml-title-alias: Bjornhild Solvigsdottir
 ---
 # [Bjornhild Solvigsdottir](3-Mechanics\CLI\bestiary\npc/bjornhild-solvigsdottir-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 306*  

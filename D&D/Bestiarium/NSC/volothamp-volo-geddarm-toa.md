@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Volothamp "Volo" Geddarm'
+linter-yaml-title-alias: 'Volothamp "Volo" Geddarm'
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - 'Volothamp "Volo" Geddarm'
   - Volothamp "Volo" Geddarm
-linter-yaml-title-alias: 'Volothamp "Volo" Geddarm'
 ---
 # [Volothamp "Volo" Geddarm](3-Mechanics\CLI\bestiary\npc/volothamp-volo-geddarm-toa.md)
 *Source: Tomb of Annihilation p. 235*  

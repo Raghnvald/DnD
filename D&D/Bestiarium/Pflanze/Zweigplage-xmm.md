@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Twig Blight
+linter-yaml-title-alias: Twig Blight
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Wald

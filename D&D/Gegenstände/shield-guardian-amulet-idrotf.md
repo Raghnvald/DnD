@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Shield Guardian Amulet
+linter-yaml-title-alias: Shield Guardian Amulet
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/idrotf
 aliases:
   - Shield Guardian Amulet
-linter-yaml-title-alias: Shield Guardian Amulet
 ---
 # Shield Guardian Amulet
 *Wondrous item, rare (requires attunement by a humanoid)*  

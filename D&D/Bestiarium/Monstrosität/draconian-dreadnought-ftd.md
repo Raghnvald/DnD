@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconian Dreadnought
+linter-yaml-title-alias: Draconian Dreadnought
 tags:
   - Monster/Größe/Groß
   - Monster/HG/4

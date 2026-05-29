@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Citrine
+linter-yaml-title-alias: Citrine
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Citrine
-linter-yaml-title-alias: Citrine
 ---
 # Citrine
 *Treasure (gemstone)*  

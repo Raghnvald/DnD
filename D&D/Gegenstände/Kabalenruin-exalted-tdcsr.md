@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Cabal's Ruin (Exalted)"
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: "Cabal's Ruin (Exalted)"
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
-  - Cabal's Ruin (Exalted)
-linter-yaml-title-alias: Cabal's Ruin (Exalted)
+  - "Cabal's Ruin (Exalted)"
 ---
 # Cabal's Ruin (Exalted)
 *Wondrous item, legendary (requires attunement)*  

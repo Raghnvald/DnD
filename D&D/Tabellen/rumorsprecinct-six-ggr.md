@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rumors—Precinct Six
+linter-yaml-title-alias: Rumors—Precinct Six
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,6 +1,15 @@
 ---
 Bezeichnung: Stinking Cloud
 Zaubergrad: 3
+linter-yaml-title-alias: Stinking Cloud
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Swamp)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock (The Fiend)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/swamp
@@ -12,17 +21,8 @@ tags:
   - Subklasse/the-fiend
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Swamp)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock (The Fiend)
-  - Wizard
 aliases:
   - Stinking Cloud
-linter-yaml-title-alias: Stinking Cloud
 ---
 # Stinking Cloud
 *3rd-level, Conjuration*  

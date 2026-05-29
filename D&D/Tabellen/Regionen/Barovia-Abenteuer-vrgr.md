@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barovia Adventures
+linter-yaml-title-alias: Barovia Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

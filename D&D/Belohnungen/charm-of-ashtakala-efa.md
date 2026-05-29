@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Charm of Ashtakala
+linter-yaml-title-alias: Charm of Ashtakala
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/efa
 aliases:
   - "Charm of Ashtakala"
+  - Charm of Ashtakala
 ---
 # Charm of Ashtakala
 

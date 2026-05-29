@@ -5,9 +5,11 @@ Bezeichnung: Magier
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 6
-Habitat: Stadt
+Habitat:
+  - Stadt
 image: token/mage.webp
 status: completed
+linter-yaml-title-alias: Magier
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -16,6 +18,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Mage
+  - Magier
 ---
 # Magier
 *Quelle: Monsterhandbuch S. 348. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

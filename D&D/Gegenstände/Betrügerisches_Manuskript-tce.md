@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Duplicitous Manuscript
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Duplicitous Manuscript
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Duplicitous Manuscript
-linter-yaml-title-alias: Duplicitous Manuscript
 ---
 # Duplicitous Manuscript
 *Wondrous item, rare (requires attunement by a wizard)*  

@@ -8,6 +8,7 @@ HG: 1/2
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Warhorse Skeleton
 tags:
   - Monster/Größe/Groß
   - Monster/HG/1-2
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Warhorse Skeleton
-linter-yaml-title-alias: Warhorse Skeleton
 ---
 # [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton.md)
 *Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Contact Other Plane
 Zaubergrad: 5
+linter-yaml-title-alias: Contact Other Plane
+classes:
+  - Bard (Magical Secrets)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -9,13 +14,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Warlock
-  - Wizard
 aliases:
   - Contact Other Plane
-linter-yaml-title-alias: Contact Other Plane
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

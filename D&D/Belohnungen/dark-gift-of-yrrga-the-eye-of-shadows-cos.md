@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Gift of Yrrga, the Eye of Shadows
+linter-yaml-title-alias: Dark Gift of Yrrga, the Eye of Shadows
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/cos

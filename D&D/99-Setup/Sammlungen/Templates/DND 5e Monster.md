@@ -14,7 +14,6 @@ tags:
   - Monster/HG/
   - Monster/Typ/
   - Quelle/
-aliases: []
 ---
 # DND 5e Monster
 

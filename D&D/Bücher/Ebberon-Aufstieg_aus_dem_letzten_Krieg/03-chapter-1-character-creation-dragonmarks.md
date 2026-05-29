@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation - Dragonmarks"
+linter-yaml-title-alias: "Chapter 1: Character Creation - Dragonmarks"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Chapter 1: Character Creation - Dragonmarks"
   - Chapter 1: Character Creation - Dragonmarks
 ---
 # Chapter 1: Character Creation - Dragonmarks

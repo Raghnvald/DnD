@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Red Dragon
+linter-yaml-title-alias: Ancient Red Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/Habitat/Berg
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ancient Red Dragon
-linter-yaml-title-alias: Ancient Red Dragon
 ---
 # [Ancient Red Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-red-dragon.md)
 *Source: Monster Manual p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Evoker Wizard
+linter-yaml-title-alias: Evoker Wizard
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

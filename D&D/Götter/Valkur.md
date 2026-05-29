@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valkur, nordländischer Gott der Seeleute
+linter-yaml-title-alias: Valkur, nordländischer Gott der Seeleute
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Krieg
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Valkur
+  - Valkur, nordländischer Gott der Seeleute
 ---
 # Valkur, nordländischer Gott der Seeleute
 *Quelle: SRD / Grundregelwerk* 

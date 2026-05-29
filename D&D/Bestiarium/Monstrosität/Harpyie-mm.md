@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harpy
+linter-yaml-title-alias: Harpy
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

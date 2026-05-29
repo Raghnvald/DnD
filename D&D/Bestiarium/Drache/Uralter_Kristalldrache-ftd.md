@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Crystal Dragon
+linter-yaml-title-alias: Ancient Crystal Dragon
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/19
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ancient Crystal Dragon
-linter-yaml-title-alias: Ancient Crystal Dragon
 ---
 # [Ancient Crystal Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 170*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sune
+linter-yaml-title-alias: Sune
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

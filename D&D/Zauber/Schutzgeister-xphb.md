@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Spirit Guardians
+linter-yaml-title-alias: Spirit Guardians
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (War Domain)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,15 +16,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (War Domain)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Spirit Guardians
-linter-yaml-title-alias: Spirit Guardians
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

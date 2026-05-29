@@ -1,5 +1,19 @@
 ---
 Bezeichnung: Magic Weapon
+linter-yaml-title-alias: Magic Weapon
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Forge Domain)
+  - Cleric (War Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Paladin (Oath of Glory)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -16,22 +30,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Forge Domain)
-  - Cleric (War Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Paladin (Oath of Glory)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Magic Weapon
-linter-yaml-title-alias: Magic Weapon
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  

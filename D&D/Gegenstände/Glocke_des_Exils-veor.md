@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chime of Exile
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Chime of Exile
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/veor
 aliases:
   - Chime of Exile
-linter-yaml-title-alias: Chime of Exile
 ---
 # Chime of Exile
 *Wondrous item, very rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Slayer
+linter-yaml-title-alias: Charm of the Slayer
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

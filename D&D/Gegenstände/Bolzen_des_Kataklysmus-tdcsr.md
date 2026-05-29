@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Cataclysm Bolts
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: 0,0375 kg
+status: WIP
+linter-yaml-title-alias: Cataclysm Bolts
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/tdcsr
 aliases:
   - Cataclysm Bolts
-linter-yaml-title-alias: Cataclysm Bolts
 ---
 # Cataclysm Bolts
 *Ammunition, very rare*  

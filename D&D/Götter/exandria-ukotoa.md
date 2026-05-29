@@ -1,11 +1,13 @@
 ---
 Bezeichnung: "Uk'otoa"
+linter-yaml-title-alias: "Uk'otoa"
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/tempest
   - Kompendium/Götter/exandria
   - Quelle/5e/egw
 aliases:
+  - "Uk'otoa"
   - Uk'otoa
 ---
 # Uk'otoa

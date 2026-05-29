@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Psi Warrior
+linter-yaml-title-alias: Spells for Psi Warrior
 tags:
   - Zauber/list/subclass/psi-warrior
 aliases:

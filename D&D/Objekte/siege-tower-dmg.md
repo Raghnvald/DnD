@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Siege Tower
+linter-yaml-title-alias: Siege Tower
 tags:
   - Kompendium/Objekt/size/gargantuan
   - Kompendium/Objekt/type/siege-weapon

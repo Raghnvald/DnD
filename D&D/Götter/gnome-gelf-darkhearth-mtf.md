@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gelf Darkhearth
+linter-yaml-title-alias: Gelf Darkhearth
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/gnome

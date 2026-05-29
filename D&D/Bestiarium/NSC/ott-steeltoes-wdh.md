@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ott Steeltoes
+linter-yaml-title-alias: Ott Steeltoes
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Ott Steeltoes
-linter-yaml-title-alias: Ott Steeltoes
 ---
 # [Ott Steeltoes](3-Mechanics\CLI\bestiary\npc/ott-steeltoes-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 214*  

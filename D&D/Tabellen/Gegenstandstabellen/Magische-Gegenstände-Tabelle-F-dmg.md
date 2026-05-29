@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle F
+linter-yaml-title-alias: Magische Gegenstände Tabelle F
 tags:
   - Quelle/5e/dmg
 aliases:
   - Magic Item Table F
+  - Magische Gegenstände Tabelle F
 ---
 # Magische Gegenstände Tabelle F
 *Quelle: Spielleiterhandbuch, S. 146* 

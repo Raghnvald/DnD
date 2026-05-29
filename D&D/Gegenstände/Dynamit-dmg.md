@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dynamite (stick)
 Kategorie: Explosives
+linter-yaml-title-alias: Dynamite (stick)
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Dynamite (stick)
-linter-yaml-title-alias: Dynamite (stick)
 ---
 # Dynamite (stick)
 *Explosive*  

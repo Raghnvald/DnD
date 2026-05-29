@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Foraging DCs
+linter-yaml-title-alias: Foraging DCs
 tags:
   - Quelle/5e/dmg
 aliases:

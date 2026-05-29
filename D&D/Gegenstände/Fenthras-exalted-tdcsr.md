@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fenthras (Exalted)
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Fenthras (Exalted)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Fenthras (Exalted)
-linter-yaml-title-alias: Fenthras (Exalted)
 ---
 # Fenthras (Exalted)
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow-xphb.md)), legendary (requires attunement)*  

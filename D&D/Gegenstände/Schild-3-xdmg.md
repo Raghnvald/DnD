@@ -1,13 +1,13 @@
 ---
 Bezeichnung: +3 Shield
 Rüstung: Schild
+linter-yaml-title-alias: +3 Shield
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:
   - +3 Shield
-linter-yaml-title-alias: +3 Shield
 ---
 # +3 Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare*  

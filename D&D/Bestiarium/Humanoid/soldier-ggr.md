@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Soldier
+linter-yaml-title-alias: Soldier
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

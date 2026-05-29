@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Between Tangled Roots
+linter-yaml-title-alias: Between Tangled Roots
 tags:
   - Quelle/5e/jttrc
 aliases:
   - "Between Tangled Roots"
+  - Between Tangled Roots
 ---
 # Between Tangled Roots
 *Source: Journeys through the Radiant Citadel, p. 134* 

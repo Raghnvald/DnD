@@ -2,10 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Percival de Rolo
+linter-yaml-title-alias: Percival de Rolo
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/18
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/tdcsr
 aliases:
   - Percival de Rolo

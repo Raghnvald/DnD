@@ -6,18 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Mighty Fortress
+classes:
+  - Bard
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
   - Quelle/5e/xge
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Wizard
 aliases:
   - Mighty Fortress
-linter-yaml-title-alias: Mighty Fortress
 ---
 # Mighty Fortress
 *8th-level, Conjuration*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stone of Good Luck
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stone of Good Luck
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Stone of Good Luck
-linter-yaml-title-alias: Stone of Good Luck
 ---
 # Stone of Good Luck
 *Wondrous item, major, uncommon (requires attunement)*  

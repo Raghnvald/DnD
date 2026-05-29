@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Zemni Fields Settlements
+linter-yaml-title-alias: Backstory; Zemni Fields Settlements
 tags:
   - Quelle/5e/egw
 aliases:

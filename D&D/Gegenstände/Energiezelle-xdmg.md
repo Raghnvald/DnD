@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Energy Cell
+linter-yaml-title-alias: Energy Cell
 tags:
   - Gegenstand/Ausrüstung/ammunition-firearm
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Energy Cell
-linter-yaml-title-alias: Energy Cell
 ---
 # Energy Cell
 *Ammunition (firearm)*  

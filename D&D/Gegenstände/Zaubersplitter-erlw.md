@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Spellshard
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Spellshard
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
   - Spellshard
-linter-yaml-title-alias: Spellshard
 ---
 # Spellshard
 *Wondrous item, common*  

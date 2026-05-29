@@ -1,18 +1,21 @@
 ---
 Bezeichnung: Ring des Winters
 Kategorie: Ring
+Eigenschaften:
+  - erfordert Einstimmung
+status: WIP
+linter-yaml-title-alias: Ring des Winters
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam/ring
   - Quelle/5e/toa
 aliases:
-  - Ring of Winter
-linter-yaml-title-alias: Ring of Winter
+  - Ring des Winters
 ---
 # Ring des Winters
 *Ring, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-winter.webp#right)
+![](img/ring-of-winter.webp#right)
 
 - **Weight**: 1.0 lbs.
 

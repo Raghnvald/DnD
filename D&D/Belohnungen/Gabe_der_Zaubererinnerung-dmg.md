@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe der Zaubererinnerung
+linter-yaml-title-alias: Gabe der Zaubererinnerung
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Spell Recall
+  - Gabe der Zaubererinnerung
 ---
 # Gabe der Zaubererinnerung
 

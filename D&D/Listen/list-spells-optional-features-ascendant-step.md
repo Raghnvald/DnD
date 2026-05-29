@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Ascendant Step
+linter-yaml-title-alias: Spells for Ascendant Step
 tags:
   - Zauber/list/optfeature/ascendant-step
 aliases:

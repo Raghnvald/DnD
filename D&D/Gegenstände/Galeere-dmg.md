@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Galeere
 Kategorie: Luft- und Wasserfahrzeug
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 30.000 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Galeere
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Galley
+  - Galeere
 Bew.: 6 km/h
-linter-yaml-title-alias: Galley
 ---
 # Galeere
 *Schiff, Fahrzeug (Wasser)*  

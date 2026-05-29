@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Common Clothes
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 SM
+Gew.: 1,5 kg
+status: WIP
+linter-yaml-title-alias: Common Clothes
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Common Clothes
-linter-yaml-title-alias: Common Clothes
 ---
 # Common Clothes
 *Adventuring gear*  

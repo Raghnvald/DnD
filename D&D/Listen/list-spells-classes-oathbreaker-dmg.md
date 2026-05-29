@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Oathbreaker
+linter-yaml-title-alias: Spells for Oathbreaker
 tags:
   - Zauber/list/subclass/oathbreaker
 aliases:

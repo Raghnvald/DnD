@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Focus (Varies); Arcane Focuses
+linter-yaml-title-alias: Arcane Focus (Varies); Arcane Focuses
 tags:
   - Quelle/5e/xphb
 aliases:

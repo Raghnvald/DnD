@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Trickbeutel, beige
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Trickbeutel, beige
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Bag of Tricks, Tan
-linter-yaml-title-alias: Bag of Tricks, Tan
+  - Trickbeutel, beige
 ---
 # Trickbeutel, beige
 *Wondrous item, major, uncommon*  

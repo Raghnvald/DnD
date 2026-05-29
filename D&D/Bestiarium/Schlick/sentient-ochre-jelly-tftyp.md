@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sentient Ochre Jelly
+linter-yaml-title-alias: Sentient Ochre Jelly
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Erythnul
+linter-yaml-title-alias: Erythnul
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Lord of the Hells
+linter-yaml-title-alias: The Lord of the Hells
 tags:
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/trickery

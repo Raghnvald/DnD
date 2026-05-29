@@ -1,8 +1,10 @@
 ---
 Bezeichnung: 750 GM Kunstgegenstände
+linter-yaml-title-alias: 750 GM Kunstgegenstände
 tags:
   - Quelle/5e/dmg
 aliases:
+  - 750 GM Kunstgegenstände
   - 750 gp Art Objects
 ---
 # 750 GM Kunstgegenstände

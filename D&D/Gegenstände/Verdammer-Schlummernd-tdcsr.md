@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Condemner (Dormant)
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Condemner (Dormant)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Condemner (Dormant)
-linter-yaml-title-alias: Condemner (Dormant)
 ---
 # Condemner (Dormant)
 *Weapon ([heavy crossbow](/3-Mechanics/CLI/items/heavy-crossbow-xphb.md)), legendary (requires attunement)*  

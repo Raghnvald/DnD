@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Black Pearl
+linter-yaml-title-alias: Black Pearl
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Black Pearl
-linter-yaml-title-alias: Black Pearl
 ---
 # Black Pearl
 *Treasure (gemstone)*  

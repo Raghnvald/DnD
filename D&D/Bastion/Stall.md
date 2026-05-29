@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stable
+linter-yaml-title-alias: Stable
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

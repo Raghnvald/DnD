@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Benefits of Renown; Loyalist Benefits
+linter-yaml-title-alias: Benefits of Renown; Loyalist Benefits
 tags:
   - Quelle/5e/vrgr
 aliases:

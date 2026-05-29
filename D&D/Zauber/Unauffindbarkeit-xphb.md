@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Nondetection
+linter-yaml-title-alias: Nondetection
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Knowledge Domain)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Watchers)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
+  - Wizard (Abjurer)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -16,20 +28,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Knowledge Domain)
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Watchers)
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Wizard
-  - Wizard (Abjurer)
 aliases:
   - Nondetection
-linter-yaml-title-alias: Nondetection
 ---
 # Nondetection
 *3rd-level, Abjuration*  

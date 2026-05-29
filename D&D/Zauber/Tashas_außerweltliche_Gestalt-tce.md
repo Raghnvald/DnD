@@ -1,6 +1,12 @@
 ---
 Bezeichnung: "Tasha's Otherworldly Guise"
 Zaubergrad: 6
+linter-yaml-title-alias: "Tasha's Otherworldly Guise"
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/tce
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
-  - Tasha's Otherworldly Guise
-linter-yaml-title-alias: Tasha's Otherworldly Guise
+  - "Tasha's Otherworldly Guise"
 ---
 # Tasha's Otherworldly Guise
 *6th-level, Transmutation*  

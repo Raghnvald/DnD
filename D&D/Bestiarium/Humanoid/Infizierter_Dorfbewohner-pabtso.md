@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Infizierter Dorfbewohner
+Image: token/infected-townsperson-pabtso.webp
+linter-yaml-title-alias: Infizierter Dorfbewohner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -9,7 +11,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Infected Townsperson
-Image: token/infected-townsperson-pabtso.webp
+  - Infizierter Dorfbewohner
 ---
 # Infizierter Dorfbewohner
 *Source: Phandelver and Below: The Shattered Obelisk p. 139*  

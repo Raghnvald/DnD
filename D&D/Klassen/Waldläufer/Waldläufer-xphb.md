@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ranger
+linter-yaml-title-alias: Ranger
 tags:
   - Klasse/Waldläufer
   - Quelle/5e/xphb

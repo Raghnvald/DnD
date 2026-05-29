@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/ai
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Acquisitions Incorporated* 

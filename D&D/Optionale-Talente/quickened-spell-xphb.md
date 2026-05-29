@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quickened Spell
+linter-yaml-title-alias: Quickened Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/xphb

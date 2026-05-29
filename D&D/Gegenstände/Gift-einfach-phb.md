@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Basic Poison (vial)
 Kategorie: Gift
+Kst.: 100 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Basic Poison (vial)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Basic Poison (vial)
-linter-yaml-title-alias: Basic Poison (vial)
 ---
 # Basic Poison (vial)
 *Adventuring gear, poison*  

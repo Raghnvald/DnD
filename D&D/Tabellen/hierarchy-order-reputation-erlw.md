@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hierarchy; Order Reputation
+linter-yaml-title-alias: Hierarchy; Order Reputation
 tags:
   - Quelle/5e/erlw
 aliases:

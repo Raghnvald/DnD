@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Adventures in the Forgotten Realms the Hidden Page
+linter-yaml-title-alias: Index of Adventures in the Forgotten Realms the Hidden Page
+aliases:
+  - Index of Adventures in the Forgotten Realms the Hidden Page
 ---
 # Index of Adventures in the Forgotten Realms the Hidden Page
 

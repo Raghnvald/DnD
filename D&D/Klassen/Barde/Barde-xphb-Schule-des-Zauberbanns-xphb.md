@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Glamour
+linter-yaml-title-alias: College of Glamour
 tags:
   - Klasse/Barde/Schule-des-Zauberbanns
   - Quelle/5e/xphb
 aliases:
   - College of Glamour
-linter-yaml-title-alias: College of Glamour
 ---
 # College of Glamour
 *[Bard](Barde-xphb.md): Bard Subclass*  

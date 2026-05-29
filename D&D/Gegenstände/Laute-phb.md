@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Lute
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: 35 GM
+Gew.: 1,0 kg
+status: WIP
+linter-yaml-title-alias: Lute
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Lute
-linter-yaml-title-alias: Lute
 ---
 # Lute
 *Instrument*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beast of the Sky
+linter-yaml-title-alias: Beast of the Sky
 tags:
   - Monster/Größe/Klein
   - Monster/HG/

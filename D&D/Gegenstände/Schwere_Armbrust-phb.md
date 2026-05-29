@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Heavy Crossbow
 Kategorie: Fernkampf-Kriegswaffe
+linter-yaml-title-alias: Heavy Crossbow
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Heavy Crossbow
-linter-yaml-title-alias: Heavy Crossbow
 ---
 # Heavy Crossbow
 *Weapon*  

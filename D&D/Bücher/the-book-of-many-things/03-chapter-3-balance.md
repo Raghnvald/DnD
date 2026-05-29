@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: Balance"
+linter-yaml-title-alias: "Chapter 3: Balance"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 3: Balance"
   - Chapter 3: Balance
 ---
 # Chapter 3: Balance

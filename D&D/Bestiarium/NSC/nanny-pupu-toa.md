@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Nanny Pu'pu"
+linter-yaml-title-alias: "Nanny Pu'pu"
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -10,7 +11,6 @@ tags:
 aliases:
   - "Nanny Pu'pu"
   - Nanny Pu'pu
-linter-yaml-title-alias: "Nanny Pu'pu"
 ---
 # [Nanny Pu'pu](3-Mechanics\CLI\bestiary\npc/nanny-pupu-toa.md)
 *Source: Tomb of Annihilation p. 72*  

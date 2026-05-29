@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ralishaz
+linter-yaml-title-alias: Ralishaz
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

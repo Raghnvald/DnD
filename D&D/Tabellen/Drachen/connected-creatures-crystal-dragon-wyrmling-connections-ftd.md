@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Crystal Dragon Wyrmling Connections
+linter-yaml-title-alias: Connected Creatures; Crystal Dragon Wyrmling Connections
 tags:
   - Quelle/5e/ftd
 aliases:

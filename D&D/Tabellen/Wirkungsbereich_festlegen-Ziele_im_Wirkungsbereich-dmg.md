@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Wirkungsbereich festlegen; Ziele im Wirkungsbereich
+linter-yaml-title-alias: Wirkungsbereich festlegen; Ziele im Wirkungsbereich
 tags:
   - Quelle/5e/dmg
 aliases:
   - Adjudicating Areas of Effect; Targets in Areas of Effect
+  - Wirkungsbereich festlegen; Ziele im Wirkungsbereich
 ---
 # Wirkungsbereich festlegen; Ziele im Wirkungsbereich
 *Quelle: Spielleiterhandbuch S. 249* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Carceri
+linter-yaml-title-alias: Layers of Carceri
 tags:
   - Quelle/5e/xdmg
 aliases:

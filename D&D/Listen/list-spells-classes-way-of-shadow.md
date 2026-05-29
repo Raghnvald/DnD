@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Way of Shadow
+linter-yaml-title-alias: Spells for Way of Shadow
 tags:
   - Zauber/list/subclass/way-of-shadow
 aliases:

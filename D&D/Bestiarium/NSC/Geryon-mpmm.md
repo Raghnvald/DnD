@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Geryon
+linter-yaml-title-alias: Geryon
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/22
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Geryon
-linter-yaml-title-alias: Geryon
 ---
 # Geryon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  

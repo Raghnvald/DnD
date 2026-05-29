@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Stufenbereiche; Charakteraufstieg
+linter-yaml-title-alias: Stufenbereiche; Charakteraufstieg
 tags:
   - Quelle/5e/xphb
 aliases:
   - Level Advancement; Character Advancement
+  - Stufenbereiche; Charakteraufstieg
 ---
 # Stufenbereiche; Charakteraufstieg
 *Quelle: Spielerhandbuch (2024) S. 41. Verfügbar im <span title='Systems Reference Document (5.2)'>SRD</span> und dem freien Regelwerk (2024)*

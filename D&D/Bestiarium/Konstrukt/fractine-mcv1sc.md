@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fractine
+linter-yaml-title-alias: Fractine
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9

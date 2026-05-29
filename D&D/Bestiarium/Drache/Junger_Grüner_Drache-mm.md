@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Green Dragon
+linter-yaml-title-alias: Young Green Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wald
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Young Green Dragon
-linter-yaml-title-alias: Young Green Dragon
 ---
 # [Young Green Dragon](3-Mechanics\CLI\bestiary\dragon/young-green-dragon.md)
 *Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

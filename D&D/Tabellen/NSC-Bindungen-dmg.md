@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Bonds
+linter-yaml-title-alias: NPC Bonds
 tags:
   - Quelle/5e/dmg
 aliases:

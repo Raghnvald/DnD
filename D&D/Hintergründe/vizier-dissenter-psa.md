@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Vizier (Dissenter)
+linter-yaml-title-alias: Vizier (Dissenter)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/psa
 aliases:
   - "Vizier (Dissenter)"
+  - Vizier (Dissenter)
 ---
 # Vizier (Dissenter)
 *Source: Plane Shift: Amonkhet p. 11*  

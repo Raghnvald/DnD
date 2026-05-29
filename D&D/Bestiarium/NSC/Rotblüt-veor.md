@@ -2,7 +2,10 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Redbud
+image: token/redbud-veor.webp
+Image: token/redbuld-veor.webp
 status: WIP
+linter-yaml-title-alias: Redbud
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/9
@@ -10,8 +13,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Redbud
-IMAGE: token/redbuld-veor.webp
-linter-yaml-title-alias: Redbud
 ---
 # [Redbud](3-Mechanics\CLI\bestiary\npc/redbud-veor.md)
 *Source: Vecna: Eve of Ruin*  

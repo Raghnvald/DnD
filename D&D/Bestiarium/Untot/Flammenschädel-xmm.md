@@ -9,6 +9,7 @@ Habitat:
   - Unterreich
 image: token/flameskull-xmm.webp
 status: WIP
+linter-yaml-title-alias: Flameskull
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Unterreich
@@ -17,7 +18,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Flameskull
-linter-yaml-title-alias: Flameskull
 ---
 # [Flameskull](3-Mechanics\CLI\bestiary\undead/flameskull-xmm.md)
 *Source: Monster Manual (2024) p. 120*  

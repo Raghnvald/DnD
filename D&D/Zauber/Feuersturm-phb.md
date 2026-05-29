@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Fire Storm
 Zaubergrad: 7
+linter-yaml-title-alias: Fire Storm
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Sorcerer
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Sorcerer
 aliases:
   - Fire Storm
-linter-yaml-title-alias: Fire Storm
 ---
 # Fire Storm
 *7th-level, Evocation*  

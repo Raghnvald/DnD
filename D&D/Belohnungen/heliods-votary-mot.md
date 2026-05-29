@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heliod's Votary"
+linter-yaml-title-alias: "Heliod's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

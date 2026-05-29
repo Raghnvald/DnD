@@ -7,18 +7,18 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Ensnaring Strike
+classes:
+  - Paladin (Oath of the Ancients)
+  - Ranger
 tags:
   - Klasse/Paladin/Schwur-der-Alten
   - Klasse/Waldläufer
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Paladin (Oath of the Ancients)
-  - Ranger
 aliases:
   - Ensnaring Strike
-linter-yaml-title-alias: Ensnaring Strike
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  

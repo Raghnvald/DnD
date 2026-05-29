@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quicksand
+linter-yaml-title-alias: Quicksand
 tags:
   - Kompendium/Bedrohung/wld
   - Quelle/5e/dmg

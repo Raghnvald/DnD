@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nine Lives Stealer
+linter-yaml-title-alias: Nine Lives Stealer
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -67,7 +68,6 @@ aliases:
   - Nine Lives Stealer Whip
   - Nine Lives Stealer Wooden Staff
   - Nine Lives Stealer Yklwa
-linter-yaml-title-alias: Nine Lives Stealer
 ---
 # Nine Lives Stealer
 *Very rare (requires attunement)*  

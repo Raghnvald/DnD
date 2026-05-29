@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Celestial Patron
+linter-yaml-title-alias: Celestial Patron
 tags:
   - Klasse/Hexenmeister/celestial
   - Quelle/5e/xphb

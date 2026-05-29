@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resources; Spell Scroll Costs
+linter-yaml-title-alias: Resources; Spell Scroll Costs
 tags:
   - Quelle/5e/xge
 aliases:

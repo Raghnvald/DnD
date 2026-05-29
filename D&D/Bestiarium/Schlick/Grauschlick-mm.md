@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gray Ooze
+linter-yaml-title-alias: Gray Ooze
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

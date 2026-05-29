@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf Names – Female
+linter-yaml-title-alias: Dwarf Names – Female
 tags:
   - Quelle/5e/xge
 aliases:

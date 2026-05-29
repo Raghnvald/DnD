@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Whitestone Rifle Corps (Grey Hunter) (Variant)
+linter-yaml-title-alias: Whitestone Rifle Corps (Grey Hunter) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

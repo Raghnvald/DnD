@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Animated Ghaunadaur Statue
+linter-yaml-title-alias: Animated Ghaunadaur Statue
 tags:
   - Kompendium/Objekt/size/large
   - Kompendium/Objekt/type/unknown
   - Quelle/5e/wdmm
 aliases:
   - "Animated Ghaunadaur Statue"
+  - Animated Ghaunadaur Statue
 ---
 # Animated Ghaunadaur Statue
 *Source: Waterdeep: Dungeon of the Mad Mage p. 250*  

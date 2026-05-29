@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Attribute
+linter-yaml-title-alias: Attribute
 tags: []
+aliases:
+  - Attribute
 ---
 # Attribute
 

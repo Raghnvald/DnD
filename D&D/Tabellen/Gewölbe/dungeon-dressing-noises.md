@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Noises
+linter-yaml-title-alias: Dungeon Dressing; Noises
 tags:
   - Quelle/5e/dmg
 aliases:

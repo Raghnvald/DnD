@@ -1,5 +1,6 @@
 ---
 Bezeichnung: General House Missions
+linter-yaml-title-alias: General House Missions
 tags:
   - Quelle/5e/erlw
 aliases:

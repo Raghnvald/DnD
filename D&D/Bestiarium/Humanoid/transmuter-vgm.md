@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Transmuter
+linter-yaml-title-alias: Transmuter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

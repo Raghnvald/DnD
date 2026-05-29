@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Commoner
+linter-yaml-title-alias: Goblin Commoner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

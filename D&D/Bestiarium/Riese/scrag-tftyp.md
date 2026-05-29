@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scrag
+linter-yaml-title-alias: Scrag
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

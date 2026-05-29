@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quick Toss
+linter-yaml-title-alias: Quick Toss
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/tce

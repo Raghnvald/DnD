@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Giant; Giant Bonds
+linter-yaml-title-alias: Roleplaying a Giant; Giant Bonds
 tags:
   - Quelle/5e/vgm
 aliases:

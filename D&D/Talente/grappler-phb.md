@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grappler
+linter-yaml-title-alias: Grappler
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

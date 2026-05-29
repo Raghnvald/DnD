@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of Destiny
+linter-yaml-title-alias: Champion of Destiny
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of Destiny"
+  - Champion of Destiny
 ---
 # Champion of Destiny
 *Piety Trait*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dimetrodon
+linter-yaml-title-alias: Dimetrodon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

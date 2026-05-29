@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Goodberry
+linter-yaml-title-alias: Goodberry
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 aliases:
   - Goodberry
-linter-yaml-title-alias: Goodberry
 ---
 # Goodberry
 *1st-level, Conjuration*  

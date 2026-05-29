@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Untergebene des Chaos
+linter-yaml-title-alias: Untergebene des Chaos
+aliases:
+  - Untergebene des Chaos
 ---
 [---
 obsidianUIMode: preview

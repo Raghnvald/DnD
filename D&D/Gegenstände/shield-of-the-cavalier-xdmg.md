@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shield of the Cavalier
 Rüstung: Schild
+linter-yaml-title-alias: Shield of the Cavalier
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Shield of the Cavalier
-linter-yaml-title-alias: Shield of the Cavalier
 ---
 # Shield of the Cavalier
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  

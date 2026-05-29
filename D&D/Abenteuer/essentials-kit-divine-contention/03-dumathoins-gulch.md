@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Dumathoin's Gulch"
+linter-yaml-title-alias: "Dumathoin's Gulch"
 tags:
   - Quelle/5e/dc
 aliases:

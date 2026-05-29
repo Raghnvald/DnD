@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Watchful Helm
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Watchful Helm
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Watchful Helm
-linter-yaml-title-alias: Watchful Helm
 ---
 # Watchful Helm
 *Wondrous item, very rare (requires attunement)*  

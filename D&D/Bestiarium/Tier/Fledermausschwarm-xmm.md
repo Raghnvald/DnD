@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Bats
+linter-yaml-title-alias: Swarm of Bats
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

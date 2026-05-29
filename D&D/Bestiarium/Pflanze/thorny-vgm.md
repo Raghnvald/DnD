@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thorny
+linter-yaml-title-alias: Thorny
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Sumpf

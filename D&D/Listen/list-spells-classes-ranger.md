@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ranger Spells
+linter-yaml-title-alias: Ranger Spells
 tags:
   - Zauber/list/class/ranger
 aliases:

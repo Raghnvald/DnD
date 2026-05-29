@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Malachite
+linter-yaml-title-alias: Malachite
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Malachite
-linter-yaml-title-alias: Malachite
 ---
 # Malachite
 *Treasure (gemstone)*  

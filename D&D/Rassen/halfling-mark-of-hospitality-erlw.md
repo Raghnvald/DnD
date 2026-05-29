@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Mark of Hospitality)
+linter-yaml-title-alias: Halfling (Mark of Hospitality)
 tags:
   - Quelle/5e/erlw
   - Rasse/halfling/mark-of-hospitality

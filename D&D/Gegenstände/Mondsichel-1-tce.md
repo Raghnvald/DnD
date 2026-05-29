@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +1 Moon Sickle
 Kategorie: Einfache Nahkampfwaffe
+linter-yaml-title-alias: +1 Moon Sickle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - +1 Moon Sickle
-linter-yaml-title-alias: +1 Moon Sickle
 ---
 # +1 Moon Sickle
 *Weapon ([sickle](/3-Mechanics/CLI/items/sickle-xphb.md)), uncommon (requires attunement by a druid or ranger)*  

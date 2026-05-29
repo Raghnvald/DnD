@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kasem Aroon
+linter-yaml-title-alias: Kasem Aroon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/jttrc
 aliases:
   - Kasem Aroon
-linter-yaml-title-alias: Kasem Aroon
 ---
 # [Kasem Aroon](3-Mechanics\CLI\bestiary\npc/kasem-aroon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 21*  

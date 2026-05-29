@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Transmutation
+linter-yaml-title-alias: School of Transmutation
 tags:
   - Klasse/Magier/transmutation
   - Quelle/5e/phb

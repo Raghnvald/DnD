@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Restoring Harmony: The Candy Mountain Caper"
+linter-yaml-title-alias: "Restoring Harmony: The Candy Mountain Caper"
 tags:
   - Quelle/5e/nrh-tcmc
 aliases:

@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Abenteuerschutzherren; Schutzherren-Einstieg
+linter-yaml-title-alias: Abenteuerschutzherren; Schutzherren-Einstieg
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - Abenteuerschutzherren; Schutzherren-Einstieg
   - Adventure Patrons; Patron Hooks
 ---
 # Abenteuerschutzherren; Schutzherren-Einstieg

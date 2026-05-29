@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Quandrix Student
+linter-yaml-title-alias: Quandrix Student
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scc
 aliases:
   - "Quandrix Student"
+  - Quandrix Student
 ---
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  

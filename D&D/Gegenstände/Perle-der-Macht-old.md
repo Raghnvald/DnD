@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Perle der Macht
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Perle der Macht
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Bead of Force
-linter-yaml-title-alias: Perle der Macht
+  - Perle der Macht
 ---
 # Perle der Macht
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung durch einen Zauberwirker)*  

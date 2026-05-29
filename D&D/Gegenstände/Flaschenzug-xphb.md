@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Block and Tackle
+linter-yaml-title-alias: Block and Tackle
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Block and Tackle
-linter-yaml-title-alias: Block and Tackle
 ---
 # Block and Tackle
 *Adventuring gear*  

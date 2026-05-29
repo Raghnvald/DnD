@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 3: Sargauth Level"
+linter-yaml-title-alias: "Level 3: Sargauth Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 3: Sargauth Level"
   - Level 3: Sargauth Level
 ---
 # Level 3: Sargauth Level

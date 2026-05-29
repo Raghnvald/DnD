@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Einrichtungsfläche
 Kategorie: Bastion
+linter-yaml-title-alias: Einrichtungsfläche
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - Einrichtungsfläche
   - Facility Space
 ---
 # Einrichtungsfläche

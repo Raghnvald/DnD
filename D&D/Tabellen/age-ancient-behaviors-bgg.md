@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Age; Ancient Behaviors
+linter-yaml-title-alias: Age; Ancient Behaviors
 tags:
   - Quelle/5e/bgg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zorak Lightdrinker
+linter-yaml-title-alias: Zorak Lightdrinker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/14
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Zorak Lightdrinker
-linter-yaml-title-alias: Zorak Lightdrinker
 ---
 # [Zorak Lightdrinker](3-Mechanics\CLI\bestiary\npc/zorak-lightdrinker-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 204*  

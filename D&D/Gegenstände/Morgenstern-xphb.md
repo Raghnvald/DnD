@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morningstar
+linter-yaml-title-alias: Morningstar
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Morningstar
-linter-yaml-title-alias: Morningstar
 ---
 # Morningstar
 *Weapon*  

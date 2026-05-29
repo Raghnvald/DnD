@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters and Motivations; Monster Motivation
+linter-yaml-title-alias: Monsters and Motivations; Monster Motivation
 tags:
   - Quelle/5e/dmg
 aliases:

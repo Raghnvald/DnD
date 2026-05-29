@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aureon
+linter-yaml-title-alias: Aureon
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/order

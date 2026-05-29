@@ -1,11 +1,11 @@
 ---
 Bezeichnung: College of Lore
+linter-yaml-title-alias: College of Lore
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Quelle/5e/phb
 aliases:
   - College of Lore
-linter-yaml-title-alias: College of Lore
 ---
 # College of Lore
 *[Bard](Barde-phb.md): Bard College*  

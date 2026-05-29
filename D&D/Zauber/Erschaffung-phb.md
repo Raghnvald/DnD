@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Creation
 Zaubergrad: 5
+linter-yaml-title-alias: Creation
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Illusion
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Wizard
 aliases:
   - Creation
-linter-yaml-title-alias: Creation
 ---
 # Creation
 *5th-level, Illusion*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Meditation Chamber
+linter-yaml-title-alias: Meditation Chamber
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

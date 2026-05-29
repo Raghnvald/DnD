@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sir Godfrey Gwilym
+linter-yaml-title-alias: Sir Godfrey Gwilym
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/6
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Sir Godfrey Gwilym
-linter-yaml-title-alias: Sir Godfrey Gwilym
 ---
 # [Sir Godfrey Gwilym](3-Mechanics\CLI\bestiary\npc/sir-godfrey-gwilym-cos.md)
 *Source: Curse of Strahd p. 139*  

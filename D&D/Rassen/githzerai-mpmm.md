@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githzerai
+linter-yaml-title-alias: Githzerai
 tags:
   - Quelle/5e/mpmm
   - Rasse/githzerai

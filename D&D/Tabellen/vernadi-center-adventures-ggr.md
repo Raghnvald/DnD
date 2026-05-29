@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vernadi Center Adventures
+linter-yaml-title-alias: Vernadi Center Adventures
 tags:
   - Quelle/5e/ggr
 aliases:

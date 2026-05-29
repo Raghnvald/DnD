@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Irian, the Eternal Dawn
+linter-yaml-title-alias: Manifest Charm of Irian, the Eternal Dawn
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/efa
 aliases:
   - "Manifest Charm of Irian, the Eternal Dawn"
+  - Manifest Charm of Irian, the Eternal Dawn
 ---
 # Manifest Charm of Irian, the Eternal Dawn
 *Charm*  

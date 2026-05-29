@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Karametra's Votary"
+linter-yaml-title-alias: "Karametra's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot

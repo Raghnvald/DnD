@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighter
+linter-yaml-title-alias: Fighter
 tags:
   - Quelle/5e/ggr
 aliases:

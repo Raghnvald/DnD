@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Appendix B: Magic Items"
+linter-yaml-title-alias: "Appendix B: Magic Items"
 tags:
   - Quelle/5e/gos
 aliases:
+  - "Appendix B: Magic Items"
   - Appendix B: Magic Items
 ---
 # Appendix B: Magic Items

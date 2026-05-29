@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Lonely Genius
+linter-yaml-title-alias: Blessing of Lonely Genius
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/bmt

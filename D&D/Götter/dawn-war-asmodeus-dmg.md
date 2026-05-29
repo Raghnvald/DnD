@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Asmodeus
+linter-yaml-title-alias: Asmodeus
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/order

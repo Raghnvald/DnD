@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Halskette der Anpassung
+linter-yaml-title-alias: Halskette der Anpassung
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - Necklace of Adaptation
-linter-yaml-title-alias: Necklace of Adaptation
+  - Halskette der Anpassung
 ---
 # Halskette der Anpassung
 *Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)*  

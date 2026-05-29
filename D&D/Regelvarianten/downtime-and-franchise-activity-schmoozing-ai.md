@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Schmoozing"
+linter-yaml-title-alias: "Downtime and Franchise Activity: Schmoozing"
 tags:
   - Quelle/5e/ai
 aliases:

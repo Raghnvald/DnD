@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Menu Items
+linter-yaml-title-alias: Menu Items
 tags:
   - Quelle/5e/tce
 aliases:

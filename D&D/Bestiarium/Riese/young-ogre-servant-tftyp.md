@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Ogre Servant
+linter-yaml-title-alias: Young Ogre Servant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

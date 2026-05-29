@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Terracotta Warrior
+linter-yaml-title-alias: Terracotta Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

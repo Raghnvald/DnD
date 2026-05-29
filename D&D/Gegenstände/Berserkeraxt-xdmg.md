@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Berserker Axe
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Berserker Axe
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -13,7 +14,6 @@ aliases:
   - Berserker Battleaxe
   - Berserker Greataxe
   - Berserker Halberd
-linter-yaml-title-alias: Berserker Axe
 ---
 # Berserker Axe
 *Cursed item, rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Counterflux Blastseeker
+linter-yaml-title-alias: Counterflux Blastseeker
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2

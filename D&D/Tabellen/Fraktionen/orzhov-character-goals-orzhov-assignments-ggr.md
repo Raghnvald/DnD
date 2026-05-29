@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orzhov Character Goals; Orzhov Assignments
+linter-yaml-title-alias: Orzhov Character Goals; Orzhov Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

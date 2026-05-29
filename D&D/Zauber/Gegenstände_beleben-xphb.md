@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Animate Objects
+linter-yaml-title-alias: Animate Objects
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Forge Domain)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -9,15 +16,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/5
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Cleric (Forge Domain)
-  - Sorcerer
-  - Wizard
 aliases:
   - Animate Objects
-linter-yaml-title-alias: Animate Objects
 ---
 # Animate Objects
 *5th-level, Transmutation*  

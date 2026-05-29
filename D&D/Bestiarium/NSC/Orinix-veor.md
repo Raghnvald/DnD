@@ -2,7 +2,9 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orinix
+image: token/orinix-veor.webp
 status: WIP
+linter-yaml-title-alias: Orinix
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/13
@@ -10,7 +12,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Orinix
-linter-yaml-title-alias: Orinix
 ---
 # [Orinix](3-Mechanics\CLI\bestiary\npc/orinix-veor.md)
 *Source: Vecna: Eve of Ruin*  

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 4
 status: WIP
+linter-yaml-title-alias: Chaos Quadrapod
 tags:
   - Quelle/5e/ai
   - ttrpg-cli/monster/cr/4

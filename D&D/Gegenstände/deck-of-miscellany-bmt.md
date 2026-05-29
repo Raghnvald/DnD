@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Deck of Miscellany
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Deck of Miscellany
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt
 aliases:
   - Deck of Miscellany
-linter-yaml-title-alias: Deck of Miscellany
 ---
 # Deck of Miscellany
 *Wondrous item, uncommon*  

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Lyrandar Skyskiff
+linter-yaml-title-alias: Lyrandar Skyskiff
 tags:
   - Quelle/5e/efa
   - ttrpg-cli/vehicle/terrain/air
   - ttrpg-cli/vehicle/type/elemental-airship
 aliases:
   - "Lyrandar Skyskiff"
+  - Lyrandar Skyskiff
 ---
 # Lyrandar Skyskiff
 *Source: Eberron: Forge of the Artificer p. 107*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Black Dragon; Black Dragon Ideals
+linter-yaml-title-alias: Creating a Black Dragon; Black Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

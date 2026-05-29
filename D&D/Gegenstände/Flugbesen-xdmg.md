@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Broom of Flying
+linter-yaml-title-alias: Broom of Flying
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Broom of Flying
-linter-yaml-title-alias: Broom of Flying
 ---
 # Broom of Flying
 *Wondrous item, uncommon (requires attunement)*  

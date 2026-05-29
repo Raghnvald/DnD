@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Flame Blade
 Zaubergrad: 2
+linter-yaml-title-alias: Flame Blade
+classes:
+  - Bard (Magical Secrets)
+  - Druid
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
 aliases:
   - Flame Blade
-linter-yaml-title-alias: Flame Blade
 ---
 # Flame Blade
 *2nd-level, Evocation*  

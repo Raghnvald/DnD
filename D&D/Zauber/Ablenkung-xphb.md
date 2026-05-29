@@ -7,6 +7,14 @@ Komponenten: G
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Ablenkung
+classes:
+  - Bard
+  - Cleric (Twilight Domain)
+  - Ranger (Fey Wanderer)
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -17,16 +25,9 @@ tags:
   - Subklasse/illusionist
   - Zauber/Grad/5
   - Zauber/Schule/Illusion
-classes:
-  - Bard
-  - Cleric (Twilight Domain)
-  - Ranger (Fey Wanderer)
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
+  - Ablenkung
   - Mislead
-linter-yaml-title-alias: Ablenkung
 ---
 # Ablenkung
 *Illusion des 5. Grades*

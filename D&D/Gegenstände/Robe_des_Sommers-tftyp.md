@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Robe of Summer
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Robe of Summer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Robe of Summer
-linter-yaml-title-alias: Robe of Summer
 ---
 # Robe of Summer
 *Wondrous item, rare (requires attunement)*  

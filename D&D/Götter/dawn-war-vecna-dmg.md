@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vecna
+linter-yaml-title-alias: Vecna
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/arcana

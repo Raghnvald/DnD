@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Trickbeutel, grau
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Trickbeutel, grau
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Bag of Tricks, Gray
-linter-yaml-title-alias: Bag of Tricks, Gray
+  - Trickbeutel, grau
 ---
 # Trickbeutel, grau
 *Wundersamer Gegenstand, ungewöhnlich*  

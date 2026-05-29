@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Dura Quarter: Important Districts"
+linter-yaml-title-alias: "Dura Quarter: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Dura Quarter: Important Districts"
   - Dura Quarter: Important Districts
 ---
 # Dura Quarter: Important Districts

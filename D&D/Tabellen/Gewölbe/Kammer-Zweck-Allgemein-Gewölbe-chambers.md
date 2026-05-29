@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chamber Purpose; General Dungeon Chambers
+linter-yaml-title-alias: Chamber Purpose; General Dungeon Chambers
 tags:
   - Quelle/5e/dmg
 aliases:

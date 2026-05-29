@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Ephara's Devotee"
+linter-yaml-title-alias: "Spells for Ephara's Devotee"
 tags:
   - ttrpg-cli/spell/list/reward/epharas-devotee
 aliases:

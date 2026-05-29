@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Optional-features
+linter-yaml-title-alias: Index of Optional-features
+aliases:
+  - Index of Optional-features
 ---
 # Index of Optional-features
 

@@ -1,7 +1,14 @@
 ---
 Bezeichnung: Fate Cutter Shears
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - Finesse
+  - Leicht
+  - Wurfwaffe
 Einstimmung: erfordert
+Kst.: /
+Gew.: 0,5 kg
+linter-yaml-title-alias: Fate Cutter Shears
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -10,7 +17,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Fate Cutter Shears
-linter-yaml-title-alias: Fate Cutter Shears
 ---
 # Fate Cutter Shears
 *Weapon (dagger), very rare (requires attunement)*  

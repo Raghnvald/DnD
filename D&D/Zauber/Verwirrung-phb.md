@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Confusion
 Zaubergrad: 4
+linter-yaml-title-alias: Confusion
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Knowledge Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -14,18 +24,8 @@ tags:
   - Zauber/Grad/4
   - Zauber/optfeature/dreadful-word
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Knowledge Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Confusion
-linter-yaml-title-alias: Confusion
 ---
 # Confusion
 *4th-level, Enchantment*  

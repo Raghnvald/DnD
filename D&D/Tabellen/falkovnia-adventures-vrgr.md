@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falkovnia Adventures
+linter-yaml-title-alias: Falkovnia Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

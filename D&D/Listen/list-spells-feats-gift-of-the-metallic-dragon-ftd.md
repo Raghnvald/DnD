@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Gift of the Metallic Dragon
+linter-yaml-title-alias: Spells for Gift of the Metallic Dragon
 tags:
   - Zauber/list/feat/gift-of-the-metallic-dragon
 aliases:

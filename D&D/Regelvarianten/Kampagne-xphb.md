@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Campaign
+linter-yaml-title-alias: Campaign
 tags:
   - Quelle/5e/xphb
 aliases:

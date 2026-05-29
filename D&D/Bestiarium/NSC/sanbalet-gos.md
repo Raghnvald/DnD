@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sanbalet
+linter-yaml-title-alias: Sanbalet
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/gos
 aliases:
   - Sanbalet
-linter-yaml-title-alias: Sanbalet
 ---
 # [Sanbalet](3-Mechanics\CLI\bestiary\npc/sanbalet-gos.md)
 *Source: Ghosts of Saltmarsh p. 252*  

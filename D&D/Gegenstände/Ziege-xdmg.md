@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Goat
+linter-yaml-title-alias: Goat
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Goat
-linter-yaml-title-alias: Goat
 ---
 # Goat
 *Trade good*  

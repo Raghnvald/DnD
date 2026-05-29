@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Desirat
+linter-yaml-title-alias: Desirat
 tags:
   - Kompendium/Götter/Domäne/light
   - Kompendium/Götter/Domäne/trickery

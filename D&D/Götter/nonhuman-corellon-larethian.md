@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Corellon Larethian
+linter-yaml-title-alias: Corellon Larethian
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/light

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Sight
+linter-yaml-title-alias: Eldritch Sight
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

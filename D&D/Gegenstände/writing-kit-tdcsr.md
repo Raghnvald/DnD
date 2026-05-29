@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Writing Kit
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Writing Kit
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/tdcsr
 aliases:
   - Writing Kit
-linter-yaml-title-alias: Writing Kit
 ---
 # Writing Kit
 *Adventuring gear*  

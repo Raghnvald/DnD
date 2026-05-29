@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome Tables; Gnome Personality Traits
+linter-yaml-title-alias: Gnome Tables; Gnome Personality Traits
 tags:
   - Quelle/5e/mtf
 aliases:

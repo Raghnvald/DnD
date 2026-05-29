@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azuth, Gott der Magier
+linter-yaml-title-alias: Azuth, Gott der Magier
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Arkana
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Azuth
+  - Azuth, Gott der Magier
 ---
 # Azuth, Gott der Magier
 *Quelle: SRD / Grundregelwerk* 

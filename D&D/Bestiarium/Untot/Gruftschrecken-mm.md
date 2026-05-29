@@ -12,6 +12,7 @@ Habitat:
   - Wüste
 image: token/wight.webp
 status: completed
+linter-yaml-title-alias: Gruftschrecken
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -22,8 +23,7 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
-  - Wight
-linter-yaml-title-alias: Wight
+  - Gruftschrecken
 ---
 # Gruftschrecken
 *Quelle: Monsterhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

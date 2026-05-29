@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Spider Queen
+linter-yaml-title-alias: The Spider Queen
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/trickery

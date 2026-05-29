@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Artillerist
+linter-yaml-title-alias: Spells for Artillerist
 tags:
   - Zauber/list/subclass/artillerist
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zisatta
+linter-yaml-title-alias: Zisatta
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Zisatta
-linter-yaml-title-alias: Zisatta
 ---
 # [Zisatta](3-Mechanics\CLI\bestiary\npc/zisatta-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 177*  

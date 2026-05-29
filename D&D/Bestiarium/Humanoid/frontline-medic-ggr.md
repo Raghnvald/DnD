@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frontline Medic
+linter-yaml-title-alias: Frontline Medic
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

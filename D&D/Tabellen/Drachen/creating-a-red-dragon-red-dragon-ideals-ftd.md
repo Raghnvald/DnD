@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Red Dragon; Red Dragon Ideals
+linter-yaml-title-alias: Creating a Red Dragon; Red Dragon Ideals
 tags:
   - Quelle/5e/ftd
 aliases:

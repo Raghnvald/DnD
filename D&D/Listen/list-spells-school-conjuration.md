@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conjuration Spells
+linter-yaml-title-alias: Conjuration Spells
 tags:
   - Zauber/list/school/conjuration
 aliases:

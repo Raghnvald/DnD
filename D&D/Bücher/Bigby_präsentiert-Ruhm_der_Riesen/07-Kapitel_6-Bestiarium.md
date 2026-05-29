@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Bestiary"
+linter-yaml-title-alias: "Chapter 6: Bestiary"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Chapter 6: Bestiary"
   - Chapter 6: Bestiary
 ---
 # Chapter 6: Bestiary

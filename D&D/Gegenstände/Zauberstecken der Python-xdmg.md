@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of the Python
+linter-yaml-title-alias: Staff of the Python
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of the Python
-linter-yaml-title-alias: Staff of the Python
 ---
 # Staff of the Python
 *Staff, weapon, uncommon (requires attunement)*  

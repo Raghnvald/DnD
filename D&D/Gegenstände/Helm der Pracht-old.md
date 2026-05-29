@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Helm der Pracht
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: erfordert Einstimmung
-Kst.: n/v
-Gew.: n/v
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Helm der Pracht
 tags:
   - Gegenstand/Einstimmung
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
+  - Helm der Pracht
   - Helm of Brilliance
 ---
 # Helm der Pracht

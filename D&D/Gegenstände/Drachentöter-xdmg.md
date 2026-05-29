@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Slayer
+linter-yaml-title-alias: Dragon Slayer
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/selten
@@ -66,7 +67,6 @@ aliases:
   - Dragon Slayer Whip
   - Dragon Slayer Wooden Staff
   - Dragon Slayer Yklwa
-linter-yaml-title-alias: Dragon Slayer
 ---
 # Dragon Slayer
 *Rare*  

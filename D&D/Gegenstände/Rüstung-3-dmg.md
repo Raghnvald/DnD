@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Armor
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: +3 Armor
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
@@ -23,7 +24,6 @@ aliases:
   - +3 Spiked Armor
   - +3 Splint Armor
   - +3 Studded Leather Armor
-linter-yaml-title-alias: +3 Armor
 ---
 # +3 Armor
 *Major, legendary*  

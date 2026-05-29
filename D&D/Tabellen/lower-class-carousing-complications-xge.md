@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lower-Class Carousing Complications
+linter-yaml-title-alias: Lower-Class Carousing Complications
 tags:
   - Quelle/5e/xge
 aliases:

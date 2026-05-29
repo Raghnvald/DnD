@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Web
+linter-yaml-title-alias: Wand of Web
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Wand of Web
-linter-yaml-title-alias: Wand of Web
 ---
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tall Tales
+linter-yaml-title-alias: Tall Tales
 tags:
   - Quelle/5e/bgg
 aliases:

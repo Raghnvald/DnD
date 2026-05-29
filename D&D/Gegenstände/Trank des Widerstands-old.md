@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Trank des Widerstands
 Kategorie: Trank
-Eigenschaften: n/v
+Eigenschaften:
+  - /
 Kst.: 200 GM
 Gew.: 0,25 kg
+linter-yaml-title-alias: Trank des Widerstands
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Resistance
+  - Trank des Widerstands
 ---
 # Trank des Widerstands
 *Trank, ungewöhnlich*  

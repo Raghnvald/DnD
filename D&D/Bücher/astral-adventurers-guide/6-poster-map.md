@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Poster Map
+linter-yaml-title-alias: Poster Map
 tags:
   - Quelle/5e/aag
 aliases:
   - "Poster Map"
+  - Poster Map
 ---
 # Poster Map
 *Source: Astral Adventurer's Guide* 

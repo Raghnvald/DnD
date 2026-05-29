@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Icon of the Lower Aerial Kingdoms
+linter-yaml-title-alias: Icon of the Lower Aerial Kingdoms
 tags:
   - Kompendium/Bedrohung/haunt
   - Quelle/5e/vrgr

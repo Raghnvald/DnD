@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Irda Veil Keeper
+linter-yaml-title-alias: Irda Veil Keeper
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

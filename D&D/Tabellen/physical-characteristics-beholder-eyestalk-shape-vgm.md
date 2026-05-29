@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Eyestalk Shape
+linter-yaml-title-alias: Physical Characteristics; Beholder Eyestalk Shape
 tags:
   - Quelle/5e/vgm
 aliases:

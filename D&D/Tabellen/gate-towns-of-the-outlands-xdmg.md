@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gate-Towns of the Outlands
+linter-yaml-title-alias: Gate-Towns of the Outlands
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Avarice
+linter-yaml-title-alias: Avarice
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Avarice
-linter-yaml-title-alias: Avarice
 ---
 # [Avarice](3-Mechanics\CLI\bestiary\npc/avarice-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 269*  

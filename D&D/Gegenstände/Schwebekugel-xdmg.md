@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Driftglobe
+linter-yaml-title-alias: Driftglobe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Driftglobe
-linter-yaml-title-alias: Driftglobe
 ---
 # Driftglobe
 *Wondrous item, uncommon*  

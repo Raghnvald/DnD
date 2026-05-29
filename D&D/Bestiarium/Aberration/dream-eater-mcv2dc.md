@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 7
 status: WIP
+linter-yaml-title-alias: Dream Eater
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/7

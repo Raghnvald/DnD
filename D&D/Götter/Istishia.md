@@ -1,5 +1,6 @@
 ---
 Bezeichnung: lstishia, Göttin des Wassers
+linter-yaml-title-alias: lstishia, Göttin des Wassers
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Sturm
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Istishia
+  - lstishia, Göttin des Wassers
 ---
 # lstishia, Göttin des Wassers
 *Quelle: SRD / Grundregelwerk* 

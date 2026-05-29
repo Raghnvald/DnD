@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lightly Obscured
+linter-yaml-title-alias: Lightly Obscured
 tags:
   - Quelle/5e/xphb
 aliases:

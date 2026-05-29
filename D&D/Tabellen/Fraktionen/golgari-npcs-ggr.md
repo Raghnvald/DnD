@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari NPCs
+linter-yaml-title-alias: Golgari NPCs
 tags:
   - Quelle/5e/ggr
 aliases:

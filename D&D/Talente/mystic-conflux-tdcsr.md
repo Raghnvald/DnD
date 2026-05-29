@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystic Conflux
+linter-yaml-title-alias: Mystic Conflux
 tags:
   - Kompendium/Talent
   - Quelle/5e/tdcsr

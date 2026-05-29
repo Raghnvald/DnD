@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Bile Lichen
+linter-yaml-title-alias: Bile Lichen
 tags:
   - Quelle/5e/fraif
 aliases:
   - "Bile Lichen"
+  - Bile Lichen
 ---
 # Bile Lichen
 *Generic Hazard*  

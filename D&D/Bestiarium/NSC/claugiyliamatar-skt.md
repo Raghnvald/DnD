@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Claugiyliamatar
+linter-yaml-title-alias: Claugiyliamatar
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/22
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Claugiyliamatar
-linter-yaml-title-alias: Claugiyliamatar
 ---
 # [Claugiyliamatar](3-Mechanics\CLI\bestiary\npc/claugiyliamatar-skt.md)
 *Source: Storm King's Thunder p. 96, Storm Lord's Wrath*  

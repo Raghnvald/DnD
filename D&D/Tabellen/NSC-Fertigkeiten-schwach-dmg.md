@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Low Abilities
+linter-yaml-title-alias: NPC Low Abilities
 tags:
   - Quelle/5e/dmg
 aliases:

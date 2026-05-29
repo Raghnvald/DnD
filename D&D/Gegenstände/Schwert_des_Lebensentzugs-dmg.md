@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Life Stealing
 Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+linter-yaml-title-alias: Sword of Life Stealing
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -16,7 +17,6 @@ aliases:
   - Scimitar of Life Stealing
   - Shortsword of Life Stealing
   - Sword of Life Stealing
-linter-yaml-title-alias: Sword of Life Stealing
 ---
 # Sword of Life Stealing
 *Major, rare (requires attunement)*  

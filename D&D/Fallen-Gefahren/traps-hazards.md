@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Traps-hazards
+linter-yaml-title-alias: Index of Traps-hazards
+aliases:
+  - Index of Traps-hazards
 ---
 # Index of Traps-hazards
 

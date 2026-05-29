@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kiss of the Changebringer
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Kiss of the Changebringer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Kiss of the Changebringer
-linter-yaml-title-alias: Kiss of the Changebringer
 ---
 # Kiss of the Changebringer
 *Wondrous item, legendary (requires attunement)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Will of the Talon (Awakened)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Will of the Talon (Awakened)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Will of the Talon (Awakened)
-linter-yaml-title-alias: Will of the Talon (Awakened)
 ---
 # Will of the Talon (Awakened)
 *Weapon ([war pick](/3-Mechanics/CLI/items/war-pick-xphb.md)), artifact (requires attunement)*  

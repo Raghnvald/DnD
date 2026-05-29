@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Incendiary Cloud
+linter-yaml-title-alias: Incendiary Cloud
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
 aliases:
   - Incendiary Cloud
-linter-yaml-title-alias: Incendiary Cloud
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  

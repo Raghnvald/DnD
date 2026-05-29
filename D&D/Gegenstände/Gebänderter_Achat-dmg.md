@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Gebänderter Achat
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Gebänderter Achat
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Banded Agate
-linter-yaml-title-alias: Banded Agate
+  - Gebänderter Achat
 ---
 # Gebänderter Achat
 *Schatz (Edelstein)*  

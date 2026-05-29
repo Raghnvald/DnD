@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eternal Throne Adventures
+linter-yaml-title-alias: Eternal Throne Adventures
 tags:
   - Quelle/5e/bgg
 aliases:

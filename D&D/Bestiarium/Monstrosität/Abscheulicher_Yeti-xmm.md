@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Abominable Yeti
 image: token/abominable-yeti-xmm.webp
+linter-yaml-title-alias: Abominable Yeti
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Arktis

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Champion of Harvests
+linter-yaml-title-alias: Champion of Harvests
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
   - "Champion of Harvests"
+  - Champion of Harvests
 ---
 # Champion of Harvests
 *Piety Trait*  

@@ -6,6 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 19
 status: WIP
+linter-yaml-title-alias: Kalaraq Quori
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/19

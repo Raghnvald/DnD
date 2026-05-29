@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tepest Adventures
+linter-yaml-title-alias: Tepest Adventures
 tags:
   - Quelle/5e/vrgr
 aliases:

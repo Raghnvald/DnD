@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Adventure Credits
+linter-yaml-title-alias: Adventure Credits
 tags:
   - Quelle/5e/scoee
 aliases:
   - "Adventure Credits"
+  - Adventure Credits
 ---
 # Adventure Credits
 *Source: Scions of Elemental Evil* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn (Gem)
+linter-yaml-title-alias: Dragonborn (Gem)
 tags:
   - Quelle/5e/ftd
   - Rasse/dragonborn/gem

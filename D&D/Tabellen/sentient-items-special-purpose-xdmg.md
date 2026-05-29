@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Sentient Item's Special Purpose"
+linter-yaml-title-alias: "Sentient Item's Special Purpose"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Sentient Item's Special Purpose"
   - Sentient Item's Special Purpose
 ---
 # Sentient Item's Special Purpose

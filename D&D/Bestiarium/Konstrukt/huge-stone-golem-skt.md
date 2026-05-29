@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Huge Stone Golem
+linter-yaml-title-alias: Huge Stone Golem
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/10

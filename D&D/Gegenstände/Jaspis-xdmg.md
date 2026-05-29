@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Jasper
+Kst.: 50 GM
+linter-yaml-title-alias: Jasper
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Jasper
-linter-yaml-title-alias: Jasper
 ---
 # Jasper
 *Treasure (gemstone)*  

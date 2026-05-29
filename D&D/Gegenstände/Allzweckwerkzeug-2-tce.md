@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Allzweckwerkzeug +2
 Kategorie: Wundersamer Gegenstand
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: /
+Status: completed
+linter-yaml-title-alias: Allzweckwerkzeug +2
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
-  - +2 All-Purpose Tool
-linter-yaml-title-alias: +2 All-Purpose Tool
-Status: completed
+  - Allzweckwerkzeug +2
 ---
 # Allzweckwerkzeug +2
 *Wundersamer Gegenstand, selten (erfordert Einstimmung durch einen Artifizienten)*

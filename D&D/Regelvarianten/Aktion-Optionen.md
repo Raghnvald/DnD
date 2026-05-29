@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Action Options
+linter-yaml-title-alias: Action Options
 tags:
   - Quelle/5e/dmg
 aliases:

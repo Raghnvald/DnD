@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gloomstalker
+linter-yaml-title-alias: Gloomstalker
 tags:
   - Monster/Größe/Groß
   - Monster/HG/6

@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Invisibility
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Invisibility
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Invisibility
-linter-yaml-title-alias: Potion of Invisibility
 ---
 # Potion of Invisibility
 *Potion, minor, very rare*  

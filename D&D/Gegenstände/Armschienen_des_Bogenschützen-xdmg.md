@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Bracers of Archery
+linter-yaml-title-alias: Bracers of Archery
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Bracers of Archery
-linter-yaml-title-alias: Bracers of Archery
 ---
 # Bracers of Archery
 *Wondrous item, uncommon (requires attunement)*  

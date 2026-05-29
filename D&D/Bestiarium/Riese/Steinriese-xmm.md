@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Giant
+linter-yaml-title-alias: Stone Giant
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg

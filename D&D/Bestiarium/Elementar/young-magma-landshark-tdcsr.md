@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Magma Landshark
+linter-yaml-title-alias: Young Magma Landshark
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Reliquie
 Kategorie: Fokus, Heiliges Symbol
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 GM
 Gew.: 1,0 kg
+status: completed
+linter-yaml-title-alias: Reliquie
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Seltenheit/gewöhnlich
@@ -13,6 +16,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Reliquary
+  - Reliquie
 ---
 # Reliquie
 *Zauberfokus, heilig, gewöhnlich* 

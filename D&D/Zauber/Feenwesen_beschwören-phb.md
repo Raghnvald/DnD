@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Conjure Fey
 Zaubergrad: 6
+linter-yaml-title-alias: Conjure Fey
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid
-  - Warlock
 aliases:
   - Conjure Fey
-linter-yaml-title-alias: Conjure Fey
 ---
 # Conjure Fey
 *6th-level, Conjuration*  

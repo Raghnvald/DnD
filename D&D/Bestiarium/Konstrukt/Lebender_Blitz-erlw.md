@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Lightning Bolt
+linter-yaml-title-alias: Living Lightning Bolt
 tags:
   - Monster/Größe/Groß
   - Monster/HG/5

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hybrid Poisoner
+linter-yaml-title-alias: Hybrid Poisoner
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1

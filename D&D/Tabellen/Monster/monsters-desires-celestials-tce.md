@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Monsters' Desires; Celestials"
+linter-yaml-title-alias: "Monsters' Desires; Celestials"
 tags:
   - Quelle/5e/tce
 aliases:
+  - "Monsters' Desires; Celestials"
   - Monsters' Desires; Celestials
 ---
 # Monsters' Desires; Celestials

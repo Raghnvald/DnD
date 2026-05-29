@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Solinari
+linter-yaml-title-alias: Solinari
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Solinari"
+  - Solinari
 ---
 # Solinari
 *Source: Dragonlance: Shadow of the Dragon Queen p. 15* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sune, Göttin der Liebe und Schönheit
+linter-yaml-title-alias: Sune, Göttin der Liebe und Schönheit
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Leben
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Sune
+  - Sune, Göttin der Liebe und Schönheit
 ---
 # Sune, Göttin der Liebe und Schönheit
 *Quelle: SRD / Grundregelwerk* 

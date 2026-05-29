@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vegepygmy Chief
+linter-yaml-title-alias: Vegepygmy Chief
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Sumpf

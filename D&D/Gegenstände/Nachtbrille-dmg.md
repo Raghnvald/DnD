@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Goggles of Night
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Goggles of Night
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Goggles of Night
-linter-yaml-title-alias: Goggles of Night
 ---
 # Goggles of Night
 *Wondrous item, minor, uncommon*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hutijin
+linter-yaml-title-alias: Hutijin
 tags:
   - Monster/Größe/Groß
   - Monster/HG/21
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Hutijin
-linter-yaml-title-alias: Hutijin
 ---
 # Hutijin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Regeneration
+linter-yaml-title-alias: Ring of Regeneration
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Regeneration
-linter-yaml-title-alias: Ring of Regeneration
 ---
 # Ring of Regeneration
 *Ring, very rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Jergal, Schreiber der Toten
+linter-yaml-title-alias: Jergal, Schreiber der Toten
 tags:
   - Kompendium/Götter
   - Kompendium/Götter/Domäne/Tod
@@ -9,6 +10,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Jergal
+  - Jergal, Schreiber der Toten
 ---
 # Jergal, Schreiber der Toten
 *Quelle: SRD / Grundregelwerk* 

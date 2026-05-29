@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Scaled Tyrant
+linter-yaml-title-alias: The Scaled Tyrant
 tags:
   - Kompendium/Götter/Domäne/order
   - Kompendium/Götter/Domäne/trickery

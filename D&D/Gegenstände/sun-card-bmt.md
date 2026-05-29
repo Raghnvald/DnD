@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Sun Card
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Sun Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt
 aliases:
   - Sun Card
-linter-yaml-title-alias: Sun Card
 ---
 # Sun Card
 *Wondrous item, legendary*  

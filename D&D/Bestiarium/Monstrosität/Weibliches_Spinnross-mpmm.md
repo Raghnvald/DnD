@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Female Steeder
+linter-yaml-title-alias: Female Steeder
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich

@@ -1,12 +1,17 @@
 ---
 Bezeichnung: Torpor
+Eigenschaften:
+  - Gift
+Kst.: 600 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Torpor
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Torpor
-linter-yaml-title-alias: Torpor
 ---
 # Torpor
 *Adventuring gear, poison (ingested)*  

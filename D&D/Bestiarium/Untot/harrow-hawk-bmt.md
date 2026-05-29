@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harrow Hawk
+linter-yaml-title-alias: Harrow Hawk
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Harrow Hawk
-linter-yaml-title-alias: Harrow Hawk
 ---
 # [Harrow Hawk](3-Mechanics\CLI\bestiary\undead/harrow-hawk-bmt.md)
 *Source: The Book of Many Things p. 177*  

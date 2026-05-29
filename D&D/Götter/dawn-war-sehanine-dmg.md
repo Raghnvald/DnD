@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sehanine
+linter-yaml-title-alias: Sehanine
 tags:
   - Kompendium/Götter/dawn-war
   - Kompendium/Götter/Domäne/trickery

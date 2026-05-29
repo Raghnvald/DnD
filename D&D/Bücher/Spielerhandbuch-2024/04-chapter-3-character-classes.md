@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: Character Classes"
+linter-yaml-title-alias: "Chapter 3: Character Classes"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Chapter 3: Character Classes"
   - Chapter 3: Character Classes
 ---
 # Chapter 3: Character Classes

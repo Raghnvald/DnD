@@ -8,6 +8,7 @@ HG: 27
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Red Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/27
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Red Greatwyrm
-linter-yaml-title-alias: Red Greatwyrm
 ---
 # [Red Greatwyrm](3-Mechanics\CLI\bestiary\dragon/red-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

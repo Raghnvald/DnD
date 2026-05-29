@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Collapsing Roof
+linter-yaml-title-alias: Collapsing Roof
 tags:
   - Kompendium/Bedrohung/trp
   - Quelle/5e/xdmg

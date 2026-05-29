@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Infernal Machine Rebuild
+linter-yaml-title-alias: Index of Infernal Machine Rebuild
+aliases:
+  - Index of Infernal Machine Rebuild
 ---
 # Index of Infernal Machine Rebuild
 

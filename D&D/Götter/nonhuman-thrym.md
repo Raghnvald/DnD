@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thrym
+linter-yaml-title-alias: Thrym
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/nonhuman

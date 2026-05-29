@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Watch Station Adventures
+linter-yaml-title-alias: Watch Station Adventures
 tags:
   - Quelle/5e/erlw
 aliases:

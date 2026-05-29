@@ -8,6 +8,7 @@ HG: 7
 Habitat:
   - Planar (Limbo)
 status: WIP
+linter-yaml-title-alias: Blue Slaad
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/limbo

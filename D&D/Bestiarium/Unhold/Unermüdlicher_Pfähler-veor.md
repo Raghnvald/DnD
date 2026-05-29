@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Relentless Impaler
 image: token/relentless-impaler-veor.webp
 status: WIP
+linter-yaml-title-alias: Relentless Impaler
 tags:
   - Monster/Größe/Groß
   - Monster/HG/15

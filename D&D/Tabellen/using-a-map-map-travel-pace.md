@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Using a Map; Map Travel Pace
+linter-yaml-title-alias: Using a Map; Map Travel Pace
 tags:
   - Quelle/5e/dmg
 aliases:

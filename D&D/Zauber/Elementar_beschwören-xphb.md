@@ -7,6 +7,12 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Conjure Elemental
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of the Sea)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -16,14 +22,8 @@ tags:
   - Zauber/Grad/5
   - Zauber/optfeature/minions-of-chaos
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Druid
-  - Druid (Circle of the Sea)
-  - Wizard
 aliases:
   - Conjure Elemental
-linter-yaml-title-alias: Conjure Elemental
 ---
 # Conjure Elemental
 *5th-level, Conjuration*  

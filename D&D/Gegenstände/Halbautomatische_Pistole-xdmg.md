@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Semiautomatic Pistol
+linter-yaml-title-alias: Semiautomatic Pistol
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Semiautomatic Pistol
-linter-yaml-title-alias: Semiautomatic Pistol
 ---
 # Semiautomatic Pistol
 *Weapon*  

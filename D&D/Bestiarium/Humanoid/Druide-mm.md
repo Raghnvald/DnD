@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Druid
+linter-yaml-title-alias: Druid
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Arktis

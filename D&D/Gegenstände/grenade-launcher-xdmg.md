@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grenade Launcher
+linter-yaml-title-alias: Grenade Launcher
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Grenade Launcher
-linter-yaml-title-alias: Grenade Launcher
 ---
 # Grenade Launcher
 *Adventuring gear*  

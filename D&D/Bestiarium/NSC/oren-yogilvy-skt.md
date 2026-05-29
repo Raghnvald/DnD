@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oren Yogilvy
+linter-yaml-title-alias: Oren Yogilvy
 tags:
   - Monster/Größe/Klein
   - Monster/HG/
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Oren Yogilvy
-linter-yaml-title-alias: Oren Yogilvy
 ---
 # [Oren Yogilvy](3-Mechanics\CLI\bestiary\npc/oren-yogilvy-skt.md)
 *Source: Storm King's Thunder p. 252*  

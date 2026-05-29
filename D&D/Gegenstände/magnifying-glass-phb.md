@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Magnifying Glass
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 100 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Magnifying Glass
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Magnifying Glass
-linter-yaml-title-alias: Magnifying Glass
 ---
 # Magnifying Glass
 *Adventuring gear*  

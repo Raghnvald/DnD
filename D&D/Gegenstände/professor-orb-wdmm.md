@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Professor Orb
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Professor Orb
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/wdmm
 aliases:
   - Professor Orb
-linter-yaml-title-alias: Professor Orb
 ---
 # Professor Orb
 *Wondrous item, rare*  

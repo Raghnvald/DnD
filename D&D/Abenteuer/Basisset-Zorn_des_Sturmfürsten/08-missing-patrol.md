@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Missing Patrol
+linter-yaml-title-alias: Missing Patrol
 tags:
   - Quelle/5e/slw
 aliases:

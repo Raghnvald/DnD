@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beucephalus
+linter-yaml-title-alias: Beucephalus
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Beucephalus
-linter-yaml-title-alias: Beucephalus
 ---
 # Beucephalus
 *Source: Curse of Strahd p. 93*  

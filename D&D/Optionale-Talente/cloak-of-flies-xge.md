@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloak of Flies
+linter-yaml-title-alias: Cloak of Flies
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xge

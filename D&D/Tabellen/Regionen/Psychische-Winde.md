@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Psychische Winde
+linter-yaml-title-alias: Psychische Winde
 tags:
   - Quelle/5e/dmg
 aliases:
   - Psychic Wind
+  - Psychische Winde
 ---
 # Psychische Winde
 *Source: Dungeon Master's Guide p. 47* 

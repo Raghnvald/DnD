@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zehir
+linter-yaml-title-alias: Zehir
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/trickery

@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Web
 Zaubergrad: 2
+linter-yaml-title-alias: Web
+classes:
+  - Bard (Magical Secrets)
+  - Druid (Circle of the Land, Underdark)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/circle-of-the-land/underdark
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Druid (Circle of the Land, Underdark)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
 aliases:
   - Web
-linter-yaml-title-alias: Web
 ---
 # Web
 *2nd-level, Conjuration*  

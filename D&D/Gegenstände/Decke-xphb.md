@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Blanket
+linter-yaml-title-alias: Blanket
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Blanket
-linter-yaml-title-alias: Blanket
 ---
 # Blanket
 *Adventuring gear*  

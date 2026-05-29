@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Platinum Scarf
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Platinum Scarf
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Platinum Scarf
-linter-yaml-title-alias: Platinum Scarf
 ---
 # Platinum Scarf
 *Wondrous item, legendary (requires attunement)*  

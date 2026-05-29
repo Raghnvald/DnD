@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Celestian
+linter-yaml-title-alias: Celestian
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

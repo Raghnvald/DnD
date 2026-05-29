@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ki-rin
+linter-yaml-title-alias: Ki-rin
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Berg

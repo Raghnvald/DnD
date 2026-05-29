@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bonus Action
+linter-yaml-title-alias: Bonus Action
 tags:
   - Quelle/5e/xphb
 aliases:

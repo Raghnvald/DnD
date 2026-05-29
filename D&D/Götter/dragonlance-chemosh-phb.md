@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chemosh
+linter-yaml-title-alias: Chemosh
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/dragonlance

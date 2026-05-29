@@ -9,6 +9,7 @@ Habitat:
   - Stadt
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Cranium Rat
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Stadt

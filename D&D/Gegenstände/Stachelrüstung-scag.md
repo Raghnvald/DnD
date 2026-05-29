@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stachelrüstung
 Rüstung: Mittel
+linter-yaml-title-alias: Stachelrüstung
 tags:
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/keine
@@ -8,7 +9,6 @@ tags:
 aliases:
   - Spiked Armor
   - Stachelrüstung
-linter-yaml-title-alias: Stachelrüstung
 ---
 # Stachelrüstung
 *Medium armor*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of Unearned Riches
+linter-yaml-title-alias: Blessing of Unearned Riches
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/bmt

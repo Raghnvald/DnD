@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Recovery
+linter-yaml-title-alias: Boon of Recovery
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

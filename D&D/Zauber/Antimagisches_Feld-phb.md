@@ -7,6 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/a
 Schaden: n/a
+linter-yaml-title-alias: Antimagisches Feld
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -15,13 +20,9 @@ tags:
   - Zauber/Grad/8
   - Zauber/Original/Antimagic_Field
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Wizard
 aliases:
   - Antimagic Field
-linter-yaml-title-alias: Antimagisches Feld
+  - Antimagisches Feld
 ---
 # Antimagisches Feld
 *Bann des 8. Grades*

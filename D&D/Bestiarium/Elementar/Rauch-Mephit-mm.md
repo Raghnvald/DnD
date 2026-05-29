@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Smoke Mephit
+linter-yaml-title-alias: Smoke Mephit
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Stadt

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mezzoloth
+linter-yaml-title-alias: Mezzoloth
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/gehenna

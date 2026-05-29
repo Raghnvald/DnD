@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Salted Legacy
+linter-yaml-title-alias: Salted Legacy
 tags:
   - Quelle/5e/jttrc
 aliases:

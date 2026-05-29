@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Shawm
+linter-yaml-title-alias: Shawm
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Shawm
-linter-yaml-title-alias: Shawm
 ---
 # Shawm
 *Instrument*  

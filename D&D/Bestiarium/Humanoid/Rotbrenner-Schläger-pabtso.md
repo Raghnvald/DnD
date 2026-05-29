@@ -2,6 +2,8 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rotbrenner-Schläger
+Image: token/redbrand-ruffian-pabtso.webp
+linter-yaml-title-alias: Rotbrenner-Schläger
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +11,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Redbrand Ruffian
-Image: token/redbrand-ruffian-pabtso.webp
+  - Rotbrenner-Schläger
 ---
 # Rotbrenner-Schläger
 *Quellen: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 216*  

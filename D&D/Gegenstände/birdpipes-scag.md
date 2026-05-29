@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Birdpipes
 Kategorie: Werkzeug
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Birdpipes
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/scag
 aliases:
   - Birdpipes
-linter-yaml-title-alias: Birdpipes
 ---
 # Birdpipes
 *Instrument*  

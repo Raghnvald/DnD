@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Hoard; Hoard Mundane Items
+linter-yaml-title-alias: Creating a Hoard; Hoard Mundane Items
 tags:
   - Quelle/5e/ftd
 aliases:

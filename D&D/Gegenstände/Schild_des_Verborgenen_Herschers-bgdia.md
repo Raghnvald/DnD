@@ -2,20 +2,21 @@
 Bezeichnung: Schild des Verborgenen Herschers
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Schild des Verborgenen Herschers
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bgdia
 aliases:
-  - Shield of the Hidden Lord
-linter-yaml-title-alias: Shield of the Hidden Lord
+  - Schild des Verborgenen Herschers
 ---
 # Schild des Verborgenen Herschers
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), legendär (erfordert Einstimmung)*

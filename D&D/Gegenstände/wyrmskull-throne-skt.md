@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Wyrmskull Throne
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Wyrmskull Throne
 tags:
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam
   - Quelle/5e/skt
 aliases:
   - Wyrmskull Throne
-linter-yaml-title-alias: Wyrmskull Throne
 ---
 # Wyrmskull Throne
 *Wondrous item, artifact*  

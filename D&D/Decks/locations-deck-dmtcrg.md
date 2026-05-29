@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Locations Deck
+linter-yaml-title-alias: Locations Deck
 tags:
   - Quelle/5e/dmtcrg
 aliases:
   - "Locations Deck"
+  - Locations Deck
 ---
 # Locations Deck
 *Source: The Deck of Many Things: Card Reference Guide p. 11*  

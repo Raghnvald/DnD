@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Object
+linter-yaml-title-alias: Object
 tags:
   - Quelle/5e/xphb
 aliases:

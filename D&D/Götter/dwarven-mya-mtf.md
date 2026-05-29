@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mya
+linter-yaml-title-alias: Mya
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/life

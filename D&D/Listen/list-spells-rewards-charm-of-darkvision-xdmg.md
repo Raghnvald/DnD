@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Darkvision
+linter-yaml-title-alias: Spells for Charm of Darkvision
 tags:
   - ttrpg-cli/spell/list/reward/charm-of-darkvision
 aliases:
   - "Spells for Charm of Darkvision"
+  - Spells for Charm of Darkvision
 ---
 # Spells for Charm of Darkvision
 

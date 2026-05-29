@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Fiend
+linter-yaml-title-alias: The Fiend
 tags:
   - Klasse/Hexenmeister/fiend
   - Quelle/5e/phb

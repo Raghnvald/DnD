@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Item Categories
+linter-yaml-title-alias: Magic Item Categories
 tags:
   - Quelle/5e/xdmg
 aliases:

@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duke Thalamra Vanthampur
+linter-yaml-title-alias: Duke Thalamra Vanthampur
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/bgdia
 aliases:
   - Duke Thalamra Vanthampur
-linter-yaml-title-alias: Duke Thalamra Vanthampur
 ---
 # Duke Thalamra Vanthampur
 *Source: Baldur's Gate: Descent Into Avernus p. 38*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonborn of Bahamut
+linter-yaml-title-alias: Dragonborn of Bahamut
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hunter Shark
+linter-yaml-title-alias: Hunter Shark
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/underwater

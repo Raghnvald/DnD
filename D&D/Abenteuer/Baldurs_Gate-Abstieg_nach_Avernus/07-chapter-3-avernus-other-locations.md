@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 3: Avernus - Other Locations"
+linter-yaml-title-alias: "Chapter 3: Avernus - Other Locations"
 tags:
   - Quelle/5e/bgdia
 aliases:
+  - "Chapter 3: Avernus - Other Locations"
   - Chapter 3: Avernus - Other Locations
 ---
 # Chapter 3: Avernus - Other Locations

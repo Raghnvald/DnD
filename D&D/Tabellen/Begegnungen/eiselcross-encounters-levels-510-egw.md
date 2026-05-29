@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Eiselcross Encounters: Levels 5–10"
+linter-yaml-title-alias: "Eiselcross Encounters: Levels 5–10"
 tags:
   - Quelle/5e/egw
 aliases:
+  - "Eiselcross Encounters: Levels 5–10"
   - Eiselcross Encounters: Levels 5–10
 ---
 # Eiselcross Encounters: Levels 5–10

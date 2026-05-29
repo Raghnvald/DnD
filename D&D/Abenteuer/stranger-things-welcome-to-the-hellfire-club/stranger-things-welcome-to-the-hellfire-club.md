@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Stranger Things Welcome to the Hellfire Club
+linter-yaml-title-alias: Index of Stranger Things Welcome to the Hellfire Club
+aliases:
+  - Index of Stranger Things Welcome to the Hellfire Club
 ---
 # Index of Stranger Things Welcome to the Hellfire Club
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chwinga
+linter-yaml-title-alias: Chwinga
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/0

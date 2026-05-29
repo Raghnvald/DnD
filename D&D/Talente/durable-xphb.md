@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Durable
+linter-yaml-title-alias: Durable
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

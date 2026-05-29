@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fey-Touched
+linter-yaml-title-alias: Fey-Touched
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow Dragon
+linter-yaml-title-alias: Shadow Dragon
 tags:
   - Monster/legendary-group
   - Quelle/5e/ftd

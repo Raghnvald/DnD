@@ -6,6 +6,8 @@ Kategorie: Unhold (Dämon)
 HG: 1
 Habitat:
   - /
+Image: token/zeond-pabtso.webp
+linter-yaml-title-alias: Zeond
 tags:
   - Monster/Größe/Winzig
   - Monster/HG/1
@@ -13,8 +15,6 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Zeond
-Image: token/zeond-pabtso.webp
-linter-yaml-title-alias: Zeond
 ---
 # Zeond
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fungal Servant
+linter-yaml-title-alias: Fungal Servant
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/15
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Fungal Servant
-linter-yaml-title-alias: Fungal Servant
 ---
 # [Fungal Servant](3-Mechanics\CLI\bestiary\undead/fungal-servant-cm.md)
 *Source: Candlekeep Mysteries p. 217*  

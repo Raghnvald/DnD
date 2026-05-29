@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flying Fish Ship
+linter-yaml-title-alias: Flying Fish Ship
 tags:
   - Quelle/5e/aag
   - ttrpg-cli/vehicle/terrain/sea
@@ -7,6 +8,7 @@ tags:
   - ttrpg-cli/vehicle/type/spelljammer
 aliases:
   - "Flying Fish Ship"
+  - Flying Fish Ship
 ---
 # Flying Fish Ship
 *Source: Astral Adventurer's Guide p. 26*  

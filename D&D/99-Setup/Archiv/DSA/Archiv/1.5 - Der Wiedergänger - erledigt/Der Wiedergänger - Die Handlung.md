@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Einleitung
+linter-yaml-title-alias: Einleitung
+aliases:
+  - Einleitung
 ---
 # Einleitung
 ## Hintergrund

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Mind Shielding
+linter-yaml-title-alias: Ring of Mind Shielding
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Ring of Mind Shielding
-linter-yaml-title-alias: Ring of Mind Shielding
 ---
 # Ring of Mind Shielding
 *Ring, uncommon (requires attunement)*  

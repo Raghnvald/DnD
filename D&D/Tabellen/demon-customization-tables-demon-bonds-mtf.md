@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Customization Tables; Demon Bonds
+linter-yaml-title-alias: Demon Customization Tables; Demon Bonds
 tags:
   - Quelle/5e/mtf
 aliases:

@@ -7,6 +7,16 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+linter-yaml-title-alias: Chill Touch
+classes:
+  - Bard (College of Lore)
+  - Cleric (Death Domain)
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide/circle-of-spores
@@ -23,18 +33,8 @@ tags:
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (College of Lore)
-  - Cleric (Death Domain)
-  - Druid (Circle of Spores)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Chill Touch
-linter-yaml-title-alias: Chill Touch
 ---
 # Chill Touch
 *cantrip, Necromancy*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Indentured Spirit
+linter-yaml-title-alias: Indentured Spirit
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Indentured Spirit
-linter-yaml-title-alias: Indentured Spirit
 ---
 # [Indentured Spirit](3-Mechanics\CLI\bestiary\undead/indentured-spirit-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 206*  

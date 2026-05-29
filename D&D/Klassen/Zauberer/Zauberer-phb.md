@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sorcerer
+linter-yaml-title-alias: Sorcerer
 tags:
   - Klasse/Zauberer
   - Quelle/5e/phb

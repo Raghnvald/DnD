@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 17: Seadeeps"
+linter-yaml-title-alias: "Level 17: Seadeeps"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 17: Seadeeps"
   - Level 17: Seadeeps
 ---
 # Level 17: Seadeeps

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aasimar (Protector)
+linter-yaml-title-alias: Aasimar (Protector)
 tags:
   - Quelle/5e/vgm
   - Rasse/aasimar/protector

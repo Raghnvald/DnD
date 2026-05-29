@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Elementarer Edelstein, Smaragd
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Elementarer Edelstein, Smaragd
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
   - Elemental Gem, Emerald
-linter-yaml-title-alias: Elementarer Edelstein, Smaragd
+  - Elementarer Edelstein, Smaragd
 ---
 # Elementarer Edelstein, Smaragd
 *Wundersamer Gegenstand, ungewöhnlich*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lifedrinker
+linter-yaml-title-alias: Lifedrinker
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

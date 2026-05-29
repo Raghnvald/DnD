@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Centaur
+linter-yaml-title-alias: Centaur
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

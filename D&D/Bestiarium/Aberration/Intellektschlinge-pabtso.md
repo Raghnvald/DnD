@@ -5,7 +5,9 @@ Bezeichnung: Intellektschlinge
 Kategorie: Aberration
 Größe: Klein
 HG: 8
+Image: token/intellect-snare-pabtso.webp
 status: WIP
+linter-yaml-title-alias: Intellektschlinge
 tags:
   - Monster/Größe/Klein
   - Monster/HG/8
@@ -13,7 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Intellect Snare
-Image: token/intellect-snare-pabtso.webp
+  - Intellektschlinge
 ---
 # Intellektschlinge
 *Source: Phandelver and Below: The Shattered Obelisk p. 208*  

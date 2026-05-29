@@ -6,6 +6,11 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+linter-yaml-title-alias: Disintegrate
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Magier
@@ -13,13 +18,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
 aliases:
   - Disintegrate
-linter-yaml-title-alias: Disintegrate
 ---
 # Disintegrate
 *6th-level, Transmutation*  

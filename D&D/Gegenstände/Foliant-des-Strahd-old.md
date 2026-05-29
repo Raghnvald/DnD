@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Foliant des Strahd
+linter-yaml-title-alias: Foliant des Strahd
 tags:
   - Quelle/5e/cos
 aliases:
   - Foliant des Strahd
-linter-yaml-title-alias: Foliant des Strahd
 ---
 # Foliant des Strahd
 ![](Pictures/Foliant-des-Strahd.webp#token)

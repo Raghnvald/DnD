@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dead Explorers
+linter-yaml-title-alias: Dead Explorers
 tags:
   - Quelle/5e/toa
 aliases:

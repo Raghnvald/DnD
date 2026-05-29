@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Armor of Necrotic Resistance
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Armor of Necrotic Resistance
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Scale Mail of Necrotic Resistance
   - Splint Armor of Necrotic Resistance
   - Studded Leather Armor of Necrotic Resistance
-linter-yaml-title-alias: Armor of Necrotic Resistance
 ---
 # Armor of Necrotic Resistance
 *Rare (requires attunement)*  

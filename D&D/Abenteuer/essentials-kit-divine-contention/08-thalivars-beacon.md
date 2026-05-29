@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Thalivar's Beacon"
+linter-yaml-title-alias: "Thalivar's Beacon"
 tags:
   - Quelle/5e/dc
 aliases:

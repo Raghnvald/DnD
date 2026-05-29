@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Fierna)
+linter-yaml-title-alias: Tiefling (Fierna)
 tags:
   - Quelle/5e/mtf
   - Rasse/tiefling/fierna

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scion of Thrym
+linter-yaml-title-alias: Scion of Thrym
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/24

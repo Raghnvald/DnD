@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ring of Animal Influence
+linter-yaml-title-alias: Ring of Animal Influence
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
   - Ring of Animal Influence
-linter-yaml-title-alias: Ring of Animal Influence
 ---
 # Ring of Animal Influence
 *Ring, rare*  

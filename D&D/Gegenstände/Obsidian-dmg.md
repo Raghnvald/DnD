@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Obsidian
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 10 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Obsidian
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Obsidian
-linter-yaml-title-alias: Obsidian
 ---
 # Obsidian
 *Schatz (Edelstein)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Ammunition
+linter-yaml-title-alias: +3 Ammunition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Ausrüstung/ammunition-firearm
@@ -15,7 +16,6 @@ aliases:
   - +3 Firearm Bullet
   - +3 Needle
   - +3 Sling Bullet
-linter-yaml-title-alias: +3 Ammunition
 ---
 # +3 Ammunition
 *Ammunition, very rare*  

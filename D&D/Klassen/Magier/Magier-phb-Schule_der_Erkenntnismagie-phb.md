@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Divination
+linter-yaml-title-alias: School of Divination
 tags:
   - Klasse/Magier/divination
   - Quelle/5e/phb

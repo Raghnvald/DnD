@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 7: Spells"
+linter-yaml-title-alias: "Chapter 7: Spells"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Chapter 7: Spells"
   - Chapter 7: Spells
 ---
 # Chapter 7: Spells

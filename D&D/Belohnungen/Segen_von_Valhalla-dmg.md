@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Segen von Valhalla
+linter-yaml-title-alias: Segen von Valhalla
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/dmg
 aliases:
   - Blessing of Valhalla
+  - Segen von Valhalla
 ---
 # Segen von Valhalla
 

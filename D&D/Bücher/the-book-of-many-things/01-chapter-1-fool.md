@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Fool"
+linter-yaml-title-alias: "Chapter 1: Fool"
 tags:
   - Quelle/5e/bmt
 aliases:
+  - "Chapter 1: Fool"
   - Chapter 1: Fool
 ---
 # Chapter 1: Fool

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Character Goals; Azorius Assignments
+linter-yaml-title-alias: Azorius Character Goals; Azorius Assignments
 tags:
   - Quelle/5e/ggr
 aliases:

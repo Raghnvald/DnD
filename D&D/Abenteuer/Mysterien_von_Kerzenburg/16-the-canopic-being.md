@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Canopic Being
+linter-yaml-title-alias: The Canopic Being
 tags:
   - Quelle/5e/cm
 aliases:

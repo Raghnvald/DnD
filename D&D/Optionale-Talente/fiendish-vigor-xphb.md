@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiendish Vigor
+linter-yaml-title-alias: Fiendish Vigor
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

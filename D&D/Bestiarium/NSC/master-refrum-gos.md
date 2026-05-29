@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master Refrum
+linter-yaml-title-alias: Master Refrum
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/gos
 aliases:
   - Master Refrum
-linter-yaml-title-alias: Master Refrum
 ---
 # [Master Refrum](3-Mechanics\CLI\bestiary\npc/master-refrum-gos.md)
 *Source: Ghosts of Saltmarsh p. 165*  

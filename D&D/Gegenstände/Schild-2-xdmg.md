@@ -1,13 +1,13 @@
 ---
 Bezeichnung: +2 Shield
 Rüstung: Schild
+linter-yaml-title-alias: +2 Shield
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - +2 Shield
-linter-yaml-title-alias: +2 Shield
 ---
 # +2 Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare*  

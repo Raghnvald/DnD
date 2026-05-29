@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clockwork Stone Defender
+linter-yaml-title-alias: Clockwork Stone Defender
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Berg

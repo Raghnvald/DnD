@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: When a Star Falls"
+linter-yaml-title-alias: "Chapter 3: When a Star Falls"
 tags:
   - Quelle/5e/qftis
 aliases:

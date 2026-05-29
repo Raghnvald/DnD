@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Invulnerability
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Invulnerability
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Invulnerability
-linter-yaml-title-alias: Potion of Invulnerability
 ---
 # Potion of Invulnerability
 *Potion, minor, rare*  

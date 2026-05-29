@@ -1,13 +1,18 @@
 ---
 Bezeichnung: "Xen'drik Trinket"
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: "Xen'drik Trinket"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Xen'drik Trinket
-linter-yaml-title-alias: Xen'drik Trinket
+  - "Xen'drik Trinket"
 ---
 # Xen'drik Trinket
 *Adventuring gear*  

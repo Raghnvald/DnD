@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Wand
+linter-yaml-title-alias: Wand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Wand
-linter-yaml-title-alias: Wand
 ---
 # Wand
 *Spellcasting focus*  

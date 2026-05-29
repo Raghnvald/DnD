@@ -1,5 +1,14 @@
 ---
 Bezeichnung: Sunbeam
+linter-yaml-title-alias: Sunbeam
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -11,17 +20,8 @@ tags:
   - Subklasse/evoker
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Evoker)
 aliases:
   - Sunbeam
-linter-yaml-title-alias: Sunbeam
 ---
 # Sunbeam
 *6th-level, Evocation*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Blessed of Corellon
+linter-yaml-title-alias: The Blessed of Corellon
 tags:
   - Kompendium/Belohnung/other
   - Quelle/5e/mtf

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fey Spirit (Fuming)
+linter-yaml-title-alias: Fey Spirit (Fuming)
 tags:
   - Monster/Größe/Klein
   - Monster/HG/

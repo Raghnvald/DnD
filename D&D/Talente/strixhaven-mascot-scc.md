@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Strixhaven Mascot
+linter-yaml-title-alias: Strixhaven Mascot
 tags:
   - Kompendium/Talent
   - Quelle/5e/scc
 aliases:
   - "Strixhaven Mascot"
+  - Strixhaven Mascot
 ---
 # Strixhaven Mascot
 *Source: Strixhaven: A Curriculum of Chaos p. 37*  

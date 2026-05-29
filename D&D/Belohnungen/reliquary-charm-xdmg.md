@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reliquary Charm
+linter-yaml-title-alias: Reliquary Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/xdmg

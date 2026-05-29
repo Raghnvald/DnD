@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 2)
 Rüstung: Leicht, Mittel oder Schwer
+linter-yaml-title-alias: Enspelled Armor (Level 2)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Leicht
@@ -23,7 +24,6 @@ aliases:
   - Enspelled (Level 2) Splint Armor
   - Enspelled (Level 2) Studded Leather Armor
   - Enspelled Armor (Level 2)
-linter-yaml-title-alias: Enspelled Armor (Level 2)
 ---
 # Enspelled Armor (Level 2)
 *Rare (requires attunement)*  

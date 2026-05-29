@@ -1,10 +1,12 @@
 ---
 Bezeichnung: House Kundarak Heir
+linter-yaml-title-alias: House Kundarak Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
   - "House Kundarak Heir"
+  - House Kundarak Heir
 ---
 # House Kundarak Heir
 *Source: Eberron: Forge of the Artificer p. 29*  

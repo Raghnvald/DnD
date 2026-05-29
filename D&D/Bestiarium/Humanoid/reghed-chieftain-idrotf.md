@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reghed Chieftain
+linter-yaml-title-alias: Reghed Chieftain
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

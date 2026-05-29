@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Medallion of Thoughts
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Medallion of Thoughts
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Medallion of Thoughts
-linter-yaml-title-alias: Medallion of Thoughts
 ---
 # Medallion of Thoughts
 *Wondrous item, major, uncommon (requires attunement)*  

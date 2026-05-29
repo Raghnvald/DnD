@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spells for Heliod's Votary"
+linter-yaml-title-alias: "Spells for Heliod's Votary"
 tags:
   - ttrpg-cli/spell/list/reward/heliods-votary
 aliases:

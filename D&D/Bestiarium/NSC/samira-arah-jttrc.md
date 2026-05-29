@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Samira Arah
+linter-yaml-title-alias: Samira Arah
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Samira Arah
-linter-yaml-title-alias: Samira Arah
 ---
 # [Samira Arah](3-Mechanics\CLI\bestiary\npc/samira-arah-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 68*  

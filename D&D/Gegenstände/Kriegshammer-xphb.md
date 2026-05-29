@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Warhammer
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Warhammer
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Warhammer
-linter-yaml-title-alias: Warhammer
 ---
 # Warhammer
 *Weapon*  

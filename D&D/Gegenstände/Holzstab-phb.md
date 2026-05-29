@@ -2,9 +2,12 @@
 Bezeichnung: Holzstab
 Kategorie: Fokus, Druidisch
 Schaden: 1W6 Wucht
-Eigenschaften: Vielseitig
+Eigenschaften:
+  - Vielseitig
 Kst.: 5 GM
 Gew.: 2,0 kg
+status: completed
+linter-yaml-title-alias: Holzstab
 tags:
   - Gegenstand/Ausrüstung
   - Gegenstand/Eigenschaft/Vielseitig
@@ -13,6 +16,7 @@ tags:
   - Klasse/Druide
   - Quelle/5e/phb
 aliases:
+  - Holzstab
   - Wooden Staff
 ---
 # Holzstab

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature
+linter-yaml-title-alias: Creature
 tags:
   - Quelle/5e/xphb
 aliases:

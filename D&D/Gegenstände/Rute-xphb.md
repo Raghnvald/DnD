@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Rod
+linter-yaml-title-alias: Rod
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Rod
-linter-yaml-title-alias: Rod
 ---
 # Rod
 *Spellcasting focus*  

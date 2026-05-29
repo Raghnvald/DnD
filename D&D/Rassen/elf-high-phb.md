@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (High)
+linter-yaml-title-alias: Elf (High)
 tags:
   - Quelle/5e/phb
   - Rasse/elf/high

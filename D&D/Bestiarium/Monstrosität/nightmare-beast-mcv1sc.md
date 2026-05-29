@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nightmare Beast
+linter-yaml-title-alias: Nightmare Beast
 tags:
   - Monster/Größe/Gigantisch
   - Monster/HG/16

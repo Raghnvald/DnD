@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Items
+linter-yaml-title-alias: Magic Items
 tags:
   - Quelle/5e/tce
 aliases:

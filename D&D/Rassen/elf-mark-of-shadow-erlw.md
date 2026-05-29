@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Mark of Shadow)
+linter-yaml-title-alias: Elf (Mark of Shadow)
 tags:
   - Quelle/5e/erlw
   - Rasse/elf/mark-of-shadow

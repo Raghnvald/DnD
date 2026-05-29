@@ -2,15 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brusipha
+linter-yaml-title-alias: Brusipha
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
+  - Monster/Typ/Humanoid/Hexenmeister
   - Monster/Typ/Humanoid/minotaur
-  - Monster/Typ/Humanoid/warlock
   - Quelle/5e/bmt
 aliases:
   - Brusipha
-linter-yaml-title-alias: Brusipha
 ---
 # [Brusipha](3-Mechanics\CLI\bestiary\npc/brusipha-bmt.md)
 *Source: The Book of Many Things p. 127*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Protective Verses
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Protective Verses
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Protective Verses
-linter-yaml-title-alias: Protective Verses
 ---
 # Protective Verses
 *Wondrous item, rare (requires attunement by a wizard)*  

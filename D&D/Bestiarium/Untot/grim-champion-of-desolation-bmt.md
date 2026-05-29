@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grim Champion of Desolation
+linter-yaml-title-alias: Grim Champion of Desolation
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/25
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Grim Champion of Desolation
-linter-yaml-title-alias: Grim Champion of Desolation
 ---
 # [Grim Champion of Desolation](3-Mechanics\CLI\bestiary\undead/grim-champion-of-desolation-bmt.md)
 *Source: The Book of Many Things p. 162*  

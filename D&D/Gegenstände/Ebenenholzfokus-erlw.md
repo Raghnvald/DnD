@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Ebenenholzfokus
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - /
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Ebenenholzfokus
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -8,8 +14,8 @@ tags:
   - Gegenstand/wundersam
   - Quelle/5e/erlw
 aliases:
+  - Ebenenholzfokus
   - Imbued Wood Focus
-linter-yaml-title-alias: Ebenenholzfokus
 ---
 # Ebenenholzfokus
 *Wundersamer Gegenstand, Zauberfokus, gewöhnlich (erfordert Einstimmung)*  

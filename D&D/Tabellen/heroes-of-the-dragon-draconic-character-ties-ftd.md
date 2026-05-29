@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heroes of the Dragon; Draconic Character Ties
+linter-yaml-title-alias: Heroes of the Dragon; Draconic Character Ties
 tags:
   - Quelle/5e/ftd
 aliases:

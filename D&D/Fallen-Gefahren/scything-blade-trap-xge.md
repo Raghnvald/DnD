@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scything Blade Trap
+linter-yaml-title-alias: Scything Blade Trap
 tags:
   - Kompendium/Bedrohung/smpl
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Detect Evil and Good
+linter-yaml-title-alias: Detect Evil and Good
 tags:
   - Klasse/Kleriker
   - Klasse/Paladin
@@ -8,7 +9,6 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Detect Evil and Good
-linter-yaml-title-alias: Detect Evil and Good
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

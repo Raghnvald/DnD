@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 6: Equipment"
+linter-yaml-title-alias: "Chapter 6: Equipment"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Chapter 6: Equipment"
   - Chapter 6: Equipment
 ---
 # Chapter 6: Equipment

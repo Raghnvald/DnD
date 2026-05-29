@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ulaa
+linter-yaml-title-alias: Ulaa
 tags:
   - Kompendium/Götter/greyhawk
   - Quelle/5e/xdmg

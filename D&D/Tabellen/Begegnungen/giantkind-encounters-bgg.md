@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giantkind Encounters
+linter-yaml-title-alias: Giantkind Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

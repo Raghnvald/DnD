@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Level 6: Lost Level"
+linter-yaml-title-alias: "Level 6: Lost Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
+  - "Level 6: Lost Level"
   - Level 6: Lost Level
 ---
 # Level 6: Lost Level

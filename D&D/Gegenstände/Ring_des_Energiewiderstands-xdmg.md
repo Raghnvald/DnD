@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ring of Force Resistance
+linter-yaml-title-alias: Ring of Force Resistance
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg
 aliases:
   - Ring of Force Resistance
-linter-yaml-title-alias: Ring of Force Resistance
 ---
 # Ring of Force Resistance
 *Ring, rare*  

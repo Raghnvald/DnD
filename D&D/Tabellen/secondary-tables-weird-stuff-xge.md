@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Weird Stuff
+linter-yaml-title-alias: Secondary Tables; Weird Stuff
 tags:
   - Quelle/5e/xge
 aliases:

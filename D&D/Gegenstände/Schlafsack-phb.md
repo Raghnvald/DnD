@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Bedroll
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1 GM
 Gew.: 3,5 kg
+status: WIP
+linter-yaml-title-alias: Bedroll
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Bedroll
 Aktiv: false
-linter-yaml-title-alias: Bedroll
 Menge: "1"
 ---
 # Bedroll

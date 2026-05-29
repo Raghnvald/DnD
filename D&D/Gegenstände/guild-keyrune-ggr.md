@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Guild Keyrune
+linter-yaml-title-alias: Guild Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/ggr
 aliases:
   - Guild Keyrune
-linter-yaml-title-alias: Guild Keyrune
 ---
 # Guild Keyrune
 *Wondrous item (requires attunement by a member of the relevant guild)*  

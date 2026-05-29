@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Northedge Quarter: Noteworthy Locations"
+linter-yaml-title-alias: "Northedge Quarter: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Northedge Quarter: Noteworthy Locations"
   - Northedge Quarter: Noteworthy Locations
 ---
 # Northedge Quarter: Noteworthy Locations

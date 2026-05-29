@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathlock Mastermind
+linter-yaml-title-alias: Deathlock Mastermind
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Deathlock Mastermind
-linter-yaml-title-alias: Deathlock Mastermind
 ---
 # [Deathlock Mastermind](3-Mechanics\CLI\bestiary\undead/deathlock-mastermind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  

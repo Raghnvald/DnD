@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Charm
+linter-yaml-title-alias: Azorius Charm
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/ggr

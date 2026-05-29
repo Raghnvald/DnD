@@ -1,7 +1,10 @@
 ---
 Bezeichnung: Needle of Mending
 Kategorie: Einfache Nahkampfwaffe
+Eigenschaften:
+  - Finesse, Leicht, Wurfwaffe
 Einstimmung: erfordert
+linter-yaml-title-alias: Needle of Mending
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -10,7 +13,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Needle of Mending
-linter-yaml-title-alias: Needle of Mending
 ---
 # Needle of Mending
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare (requires attunement)*  

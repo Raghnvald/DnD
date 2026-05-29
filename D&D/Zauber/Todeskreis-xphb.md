@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Circle of Death
+linter-yaml-title-alias: Circle of Death
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -8,14 +14,8 @@ tags:
   - Quelle/5e/xphb
   - Zauber/Grad/6
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Circle of Death
-linter-yaml-title-alias: Circle of Death
 ---
 # Circle of Death
 *6th-level, Necromancy*  

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Medals of Merit
+linter-yaml-title-alias: Medals of Merit
 tags:
   - Quelle/5e/crcotn
 aliases:
   - "Medals of Merit"
+  - Medals of Merit
 ---
 # Medals of Merit
 *Source: Critical Role: Call of the Netherdeep p. 217*  

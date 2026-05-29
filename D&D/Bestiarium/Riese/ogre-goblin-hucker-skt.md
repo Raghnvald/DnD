@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Goblin Hucker
+linter-yaml-title-alias: Ogre Goblin Hucker
 tags:
   - Monster/Größe/Groß
   - Monster/HG/2

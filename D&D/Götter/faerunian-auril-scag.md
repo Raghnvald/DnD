@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Auril
+linter-yaml-title-alias: Auril
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Witch Sight
+linter-yaml-title-alias: Witch Sight
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb

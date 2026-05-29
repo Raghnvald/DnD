@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Subtle Spell
+linter-yaml-title-alias: Subtle Spell
 tags:
   - Kompendium/Optionales/mm
   - Quelle/5e/phb

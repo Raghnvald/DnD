@@ -5,17 +5,18 @@ Bezeichnung: Laysa Matulin
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 8
-Habitat: /
+Habitat:
+  - /
 image: token/laysa-matulin-veor.webp
 status: WIP
+linter-yaml-title-alias: Laysa Matulin
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/veor
 aliases:
   - Laysa Matulin
-linter-yaml-title-alias: Laysa Matulin
 ---
 # [Laysa Matulin](3-Mechanics\CLI\bestiary\npc/laysa-matulin-veor.md)
 *Source: Vecna: Eve of Ruin*  

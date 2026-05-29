@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Tarkanan; Tarkanan Contacts
+linter-yaml-title-alias: House Tarkanan; Tarkanan Contacts
 tags:
   - Quelle/5e/erlw
 aliases:

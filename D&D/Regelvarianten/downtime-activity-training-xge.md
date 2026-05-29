@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Downtime Activity: Training"
+linter-yaml-title-alias: "Downtime Activity: Training"
 tags:
   - Quelle/5e/xge
 aliases:
+  - "Downtime Activity: Training"
   - Downtime Activity: Training
 ---
 # Downtime Activity: Training

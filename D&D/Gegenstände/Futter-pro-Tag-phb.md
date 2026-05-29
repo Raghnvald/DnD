@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Futter (pro Tag)
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 KM
 Gew.: 5,0 kg
+status: WIP
+linter-yaml-title-alias: Futter (pro Tag)
 tags:
   - Gegenstand/Ausrüstung/Zaumzeug-Harnisch-gezogene-Fahrzeuge
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/phb
 aliases:
   - Feed (per day)
-linter-yaml-title-alias: Futter (pro Tag)
+  - Futter (pro Tag)
 ---
 # Futter (pro Tag)
 *Zaumzeug und Harnisch*  

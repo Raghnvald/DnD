@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Dread Helm
+linter-yaml-title-alias: Dread Helm
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Dread Helm
-linter-yaml-title-alias: Dread Helm
 ---
 # Dread Helm
 *Wondrous item, common*  

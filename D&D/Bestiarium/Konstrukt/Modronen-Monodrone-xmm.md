@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Modron Monodrone
+linter-yaml-title-alias: Modron Monodrone
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/mechanus

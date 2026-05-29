@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Dragon Cultist
+linter-yaml-title-alias: Dragon Cultist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
   - "Dragon Cultist"
+  - Dragon Cultist
 ---
 # Dragon Cultist
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  

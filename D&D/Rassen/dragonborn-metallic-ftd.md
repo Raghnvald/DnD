@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn (Metallic)
+linter-yaml-title-alias: Dragonborn (Metallic)
 tags:
   - Quelle/5e/ftd
   - Rasse/dragonborn/metallic

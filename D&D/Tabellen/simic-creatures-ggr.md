@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Creatures
+linter-yaml-title-alias: Simic Creatures
 tags:
   - Quelle/5e/ggr
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scaled Toughness
+linter-yaml-title-alias: Scaled Toughness
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

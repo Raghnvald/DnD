@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Scroll of Protection (Celestials)
+linter-yaml-title-alias: Scroll of Protection (Celestials)
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Schriftrolle
   - Quelle/5e/xdmg
 aliases:
   - Scroll of Protection (Celestials)
-linter-yaml-title-alias: Scroll of Protection (Celestials)
 ---
 # Scroll of Protection (Celestials)
 *Scroll, rare*  

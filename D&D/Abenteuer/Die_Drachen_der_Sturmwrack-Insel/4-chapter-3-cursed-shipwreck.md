@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Cursed Shipwreck"
+linter-yaml-title-alias: "Chapter 3: Cursed Shipwreck"
 tags:
   - Quelle/5e/dosi
 aliases:

@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Lesser Restoration
+linter-yaml-title-alias: Lesser Restoration
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -15,21 +28,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/2
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Life Domain)
-  - Druid
-  - Paladin
-  - Ranger
-  - Sorcerer (Clockwork Sorcery)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Lesser Restoration
-linter-yaml-title-alias: Lesser Restoration
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  

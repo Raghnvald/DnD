@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Creator; NPC Class
+linter-yaml-title-alias: Dungeon Creator; NPC Class
 tags:
   - Quelle/5e/dmg
 aliases:

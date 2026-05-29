@@ -7,18 +7,18 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Eiswand
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
-  - Wall of Ice
-linter-yaml-title-alias: Wall of Ice
+  - Eiswand
 ---
 # Eiswand
 *Hervorrufung des 6. Grades*

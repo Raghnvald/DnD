@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shield Master
+linter-yaml-title-alias: Shield Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

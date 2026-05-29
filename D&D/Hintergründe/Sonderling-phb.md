@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Outlander
+linter-yaml-title-alias: Outlander
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/phb

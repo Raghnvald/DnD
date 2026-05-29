@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The Hidden Shrine of Tamoachan
+linter-yaml-title-alias: The Hidden Shrine of Tamoachan
 tags:
   - Quelle/5e/tftyp-thsot
 aliases:
   - "The Hidden Shrine of Tamoachan"
+  - The Hidden Shrine of Tamoachan
 ---
 # The Hidden Shrine of Tamoachan
 *Source: Tales from the Yawning Portal: The Hidden Shrine of Tamoachan, p. 61* 

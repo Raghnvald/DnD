@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Infernal Puzzle Box
+linter-yaml-title-alias: Infernal Puzzle Box
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bgdia
 aliases:
   - Infernal Puzzle Box
-linter-yaml-title-alias: Infernal Puzzle Box
 ---
 # Infernal Puzzle Box
 *Wondrous item, uncommon*  

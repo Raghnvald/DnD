@@ -7,7 +7,9 @@ Größe: Groß
 HG: "3"
 Habitat:
   - /
+Image: token/allowak-yeti-egw.webp
 status: WIP
+linter-yaml-title-alias: Allowak Yeti
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

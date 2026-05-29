@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakdos
+linter-yaml-title-alias: Rakdos
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/24
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Rakdos
-linter-yaml-title-alias: Rakdos
 ---
 # [Rakdos](3-Mechanics\CLI\bestiary\npc/rakdos-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 247*  

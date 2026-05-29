@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Symbol
 Zaubergrad: 7
+linter-yaml-title-alias: Symbol
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Bann
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Wizard
 aliases:
   - Symbol
-linter-yaml-title-alias: Symbol
 ---
 # Symbol
 *7th-level, Abjuration*  

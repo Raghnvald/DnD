@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Onatar
+linter-yaml-title-alias: Onatar
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/knowledge

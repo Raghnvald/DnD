@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Realms of Gods and Mortals
+linter-yaml-title-alias: Realms of Gods and Mortals
 tags:
   - Quelle/5e/mot
 aliases:
   - "Realms of Gods and Mortals"
+  - Realms of Gods and Mortals
 ---
 # Realms of Gods and Mortals
 *Source: Mythic Odysseys of Theros, p. 83* 

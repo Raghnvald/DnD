@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Restoring Harmony: A Voice in the Wilderness"
+linter-yaml-title-alias: "Restoring Harmony: A Voice in the Wilderness"
 tags:
   - Quelle/5e/nrh-avitw
 aliases:

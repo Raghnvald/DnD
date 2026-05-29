@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Flaming Sphere
 Zaubergrad: 2
+linter-yaml-title-alias: Flaming Sphere
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Light Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Light Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Flaming Sphere
-linter-yaml-title-alias: Flaming Sphere
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  

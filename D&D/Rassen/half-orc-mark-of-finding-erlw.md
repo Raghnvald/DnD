@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Orc (Mark of Finding)
+linter-yaml-title-alias: Half-Orc (Mark of Finding)
 tags:
   - Quelle/5e/erlw
   - Rasse/half-orc/mark-of-finding

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessing of the Morninglord
+linter-yaml-title-alias: Blessing of the Morninglord
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/idrotf

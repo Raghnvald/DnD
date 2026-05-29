@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 10: Cania, the Relentless Cold"
+linter-yaml-title-alias: "Chapter 10: Cania, the Relentless Cold"
 tags:
   - Quelle/5e/coa
 aliases:

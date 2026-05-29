@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/hotb
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Heroes of the Borderlands* 

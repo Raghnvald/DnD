@@ -1,5 +1,11 @@
 ---
 Bezeichnung: Spire of Conflux
+Eigenschaften:
+  - erfordert Einstimmung durch einen Zauberwirker
+  - Vielseitig (1W8)
+Kst.: /
+Gew.: 2,0 kg
+linter-yaml-title-alias: Spire of Conflux
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -8,7 +14,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Spire of Conflux
-linter-yaml-title-alias: Spire of Conflux
 ---
 # Spire of Conflux
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

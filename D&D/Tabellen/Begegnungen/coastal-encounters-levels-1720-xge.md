@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Coastal Encounters (Levels 17—20)
+linter-yaml-title-alias: Coastal Encounters (Levels 17—20)
 tags:
   - Quelle/5e/xge
 aliases:

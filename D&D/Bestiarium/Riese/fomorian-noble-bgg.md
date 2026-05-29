@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fomorian Noble
+linter-yaml-title-alias: Fomorian Noble
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/15

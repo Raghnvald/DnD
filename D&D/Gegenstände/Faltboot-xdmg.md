@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Folding Boat
+linter-yaml-title-alias: Folding Boat
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - Folding Boat
-linter-yaml-title-alias: Folding Boat
 ---
 # Folding Boat
 *Wondrous item, rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Animals
+linter-yaml-title-alias: Animals
 tags:
   - Quelle/5e/xmm
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circlet of Human Perfection
+linter-yaml-title-alias: Circlet of Human Perfection
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Circlet of Human Perfection
-linter-yaml-title-alias: Circlet of Human Perfection
 ---
 # Circlet of Human Perfection
 *Uncommon (requires attunement by a humanoid)*  

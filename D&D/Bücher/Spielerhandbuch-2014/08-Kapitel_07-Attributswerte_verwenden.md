@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Using Ability Scores
+linter-yaml-title-alias: Using Ability Scores
 tags:
   - Quelle/5e/phb
 aliases:

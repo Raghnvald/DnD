@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Conjure Celestial
 Zaubergrad: 7
+linter-yaml-title-alias: Conjure Celestial
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Quelle/5e/phb
   - Zauber/Grad/7
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
 aliases:
   - Conjure Celestial
-linter-yaml-title-alias: Conjure Celestial
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  

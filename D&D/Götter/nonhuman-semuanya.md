@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Semuanya
+linter-yaml-title-alias: Semuanya
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/nonhuman

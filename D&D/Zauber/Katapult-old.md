@@ -7,6 +7,7 @@ Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d8 Wucht
 status: completed
+linter-yaml-title-alias: Katapult
 tags:
   - Klasse/Artifizient
   - Klasse/Magier
@@ -17,6 +18,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Catapult
+  - Katapult
 ---
 # Katapult
 _Verwandlung des 1. Grades_

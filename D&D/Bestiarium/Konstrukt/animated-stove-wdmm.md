@@ -8,6 +8,7 @@ HG: "3"
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Stove
 tags:
   - Monster/Größe/Groß
   - Monster/HG/3

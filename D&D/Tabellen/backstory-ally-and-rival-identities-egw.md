@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Ally and Rival Identities
+linter-yaml-title-alias: Backstory; Ally and Rival Identities
 tags:
   - Quelle/5e/egw
 aliases:

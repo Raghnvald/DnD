@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Abishai
+linter-yaml-title-alias: Black Abishai
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt

@@ -1,17 +1,17 @@
 ---
 Bezeichnung: Glibness
+linter-yaml-title-alias: Glibness
+classes:
+  - Bard
+  - Warlock
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
   - Quelle/5e/xphb
   - Zauber/Grad/8
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard
-  - Warlock
 aliases:
   - Glibness
-linter-yaml-title-alias: Glibness
 ---
 # Glibness
 *8th-level, Enchantment*  

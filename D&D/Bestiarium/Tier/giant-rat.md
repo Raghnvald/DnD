@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Rat
+linter-yaml-title-alias: Giant Rat
 tags:
   - Monster/Größe/Klein
   - Monster/Habitat/Stadt

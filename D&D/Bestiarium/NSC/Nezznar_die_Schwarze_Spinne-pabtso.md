@@ -7,7 +7,9 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
+Image: token/nezznar-the-spider-pabtso.webp
 status: completed
+linter-yaml-title-alias: Nezznar die Schwarze Spinne
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/2
@@ -15,8 +17,8 @@ tags:
   - Monster/Typ/Humanoid/Magier
   - Quelle/5e/pabtso
 aliases:
+  - Nezznar die Schwarze Spinne
   - Nezznar the Spider
-Image: token/nezznar-the-spider-pabtso.webp
 ---
 # Nezznar die Schwarze Spinne
 *Quellen: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 74*  

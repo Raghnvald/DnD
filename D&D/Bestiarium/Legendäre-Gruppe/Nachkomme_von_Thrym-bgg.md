@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Thrym
+linter-yaml-title-alias: Scion of Thrym
 tags:
   - Monster/legendary-group
   - Quelle/5e/bgg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Servitor Thrull
+linter-yaml-title-alias: Servitor Thrull
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4

@@ -1,18 +1,18 @@
 ---
 Bezeichnung: "Otto's Irresistible Dance"
 Zaubergrad: 6
+linter-yaml-title-alias: "Otto's Irresistible Dance"
+classes:
+  - Bard (Magical Secrets)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/6
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Wizard
 aliases:
-  - Otto's Irresistible Dance
-linter-yaml-title-alias: Otto's Irresistible Dance
+  - "Otto's Irresistible Dance"
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

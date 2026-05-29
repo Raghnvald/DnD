@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Secondary Tables; Punishment
+linter-yaml-title-alias: Secondary Tables; Punishment
 tags:
   - Quelle/5e/xge
 aliases:

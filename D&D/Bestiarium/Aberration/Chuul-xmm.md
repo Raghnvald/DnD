@@ -10,6 +10,7 @@ Habitat:
   - Sumpf
   - Unterreich
 status: WIP
+linter-yaml-title-alias: Chuul
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Küste

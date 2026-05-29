@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Burnt Othur Fumes
 Kategorie: Gift
+Kst.: 500 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Burnt Othur Fumes
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Burnt Othur Fumes
-linter-yaml-title-alias: Burnt Othur Fumes
 ---
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Coin of Delving
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Coin of Delving
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/egw
 aliases:
   - Coin of Delving
-linter-yaml-title-alias: Coin of Delving
 ---
 # Coin of Delving
 *Wondrous item, common*  

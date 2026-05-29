@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Stormrider Boots
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Stormrider Boots
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Stormrider Boots
-linter-yaml-title-alias: Stormrider Boots
 ---
 # Stormrider Boots
 *Wondrous item, rare*  

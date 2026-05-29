@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myla
+linter-yaml-title-alias: Myla
 tags:
   - Monster/Größe/Klein
   - Monster/HG/1-4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dosi
 aliases:
   - Myla
-linter-yaml-title-alias: Myla
 ---
 # [Myla](3-Mechanics\CLI\bestiary\npc/myla-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 9*  

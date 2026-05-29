@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Drakewarden
+linter-yaml-title-alias: Spells for Drakewarden
 tags:
   - Zauber/list/subclass/drakewarden
 aliases:

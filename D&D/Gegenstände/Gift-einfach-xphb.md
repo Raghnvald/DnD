@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Basic Poison
+linter-yaml-title-alias: Basic Poison
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Basic Poison
-linter-yaml-title-alias: Basic Poison
 ---
 # Basic Poison
 *Adventuring gear, poison*  

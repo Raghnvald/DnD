@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hierophant Medusa
+linter-yaml-title-alias: Hierophant Medusa
 tags:
   - Monster/legendary-group
   - Quelle/5e/bmt

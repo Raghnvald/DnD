@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Playing the Game"
+linter-yaml-title-alias: "Chapter 1: Playing the Game"
 tags:
   - Quelle/5e/xphb
 aliases:
+  - "Chapter 1: Playing the Game"
   - Chapter 1: Playing the Game
 ---
 # Chapter 1: Playing the Game

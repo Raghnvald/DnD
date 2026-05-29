@@ -8,6 +8,7 @@ HG: 15
 Habitat:
   - Stadt
 status: WIP
+linter-yaml-title-alias: Vampire Spellcaster
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Vampire Spellcaster
-linter-yaml-title-alias: Vampire Spellcaster
 ---
 # [Vampire Spellcaster](3-Mechanics\CLI\bestiary\undead/vampire-spellcaster.md)
 *Source: Monster Manual p. 298*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flesh Golem
+linter-yaml-title-alias: Flesh Golem
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5

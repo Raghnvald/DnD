@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Radiant Idol
+linter-yaml-title-alias: Radiant Idol
 tags:
   - Monster/Größe/Groß
   - Monster/HG/11

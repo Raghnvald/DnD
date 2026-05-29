@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dolphin Delighter
+linter-yaml-title-alias: Dolphin Delighter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Küste

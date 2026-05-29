@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 750 GP Art Objects
+linter-yaml-title-alias: 750 GP Art Objects
 tags:
   - Quelle/5e/xdmg
 aliases:

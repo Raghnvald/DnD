@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Iroas
+linter-yaml-title-alias: Iroas
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
   - "Iroas"
+  - Iroas
 ---
 # Iroas
 *Source: Mythic Odysseys of Theros p. 49* 

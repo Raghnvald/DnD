@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Joho's Charm"
+linter-yaml-title-alias: "Joho's Charm"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/toa
 aliases:
+  - "Joho's Charm"
   - Joho's Charm
 ---
 # Joho's Charm

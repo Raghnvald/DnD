@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Keoghtom's Ointment"
+linter-yaml-title-alias: "Keoghtom's Ointment"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
-  - Keoghtom's Ointment
-linter-yaml-title-alias: Keoghtom's Ointment
+  - "Keoghtom's Ointment"
 ---
 # Keoghtom's Ointment
 *Wondrous item, uncommon*  

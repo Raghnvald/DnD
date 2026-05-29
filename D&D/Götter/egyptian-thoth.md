@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thoth
+linter-yaml-title-alias: Thoth
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/egyptian

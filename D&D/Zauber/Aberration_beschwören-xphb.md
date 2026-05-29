@@ -6,6 +6,15 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Summon Aberration
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock
+  - Warlock (Great Old One Patron)
+  - Wizard
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister
@@ -17,17 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/4
   - Zauber/Schule/Beschwörung
-classes:
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock
-  - Warlock (Great Old One Patron)
-  - Wizard
 aliases:
   - Summon Aberration
-linter-yaml-title-alias: Summon Aberration
 ---
 # Summon Aberration
 *4th-level, Conjuration*  

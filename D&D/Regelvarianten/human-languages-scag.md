@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Human Languages
+linter-yaml-title-alias: Human Languages
 tags:
   - Quelle/5e/scag
 aliases:
   - "Human Languages"
+  - Human Languages
 ---
 # Human Languages
 *Source: Sword Coast Adventurer's Guide p. 112* 

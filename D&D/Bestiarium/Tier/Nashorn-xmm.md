@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rhinoceros
+linter-yaml-title-alias: Rhinoceros
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

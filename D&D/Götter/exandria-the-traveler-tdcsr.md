@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Traveler
+linter-yaml-title-alias: The Traveler
 tags:
   - Kompendium/Götter/exandria
   - Quelle/5e/tdcsr

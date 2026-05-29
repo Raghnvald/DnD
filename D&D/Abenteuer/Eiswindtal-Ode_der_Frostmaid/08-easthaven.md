@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Easthaven
+linter-yaml-title-alias: Easthaven
 tags:
   - Quelle/5e/idrotf
 aliases:

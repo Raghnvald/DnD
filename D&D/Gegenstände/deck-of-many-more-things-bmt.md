@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Deck of Many More Things
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Deck of Many More Things
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Deck of Many More Things
-linter-yaml-title-alias: Deck of Many More Things
 ---
 # Deck of Many More Things
 *Wondrous item, legendary*  

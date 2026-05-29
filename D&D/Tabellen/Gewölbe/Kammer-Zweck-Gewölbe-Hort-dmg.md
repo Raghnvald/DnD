@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Der Zweck von Kammern; Gewölbe: Hort"
+linter-yaml-title-alias: "Der Zweck von Kammern; Gewölbe: Hort"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Der Zweck von Kammern; Gewölbe: Hort"
   - Chamber Purpose; Dungeon: Lair
 ---
 # Der Zweck von Kammern; Gewölbe: Hort

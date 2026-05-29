@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix F: Additional Rumors"
+linter-yaml-title-alias: "Appendix F: Additional Rumors"
 tags:
   - Quelle/5e/llk
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Habbakuk's Blessing"
+linter-yaml-title-alias: "Habbakuk's Blessing"
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/dsotdq

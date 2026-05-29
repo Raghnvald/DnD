@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Devourer
+linter-yaml-title-alias: Devourer
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Unterreich
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Devourer
-linter-yaml-title-alias: Devourer
 ---
 # [Devourer](3-Mechanics\CLI\bestiary\undead/devourer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  

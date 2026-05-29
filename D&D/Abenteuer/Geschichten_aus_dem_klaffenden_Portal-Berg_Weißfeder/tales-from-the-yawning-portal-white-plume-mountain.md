@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Tales From the Yawning Portal White Plume Mountain
+linter-yaml-title-alias: Index of Tales From the Yawning Portal White Plume Mountain
+aliases:
+  - Index of Tales From the Yawning Portal White Plume Mountain
 ---
 # Index of Tales From the Yawning Portal White Plume Mountain
 

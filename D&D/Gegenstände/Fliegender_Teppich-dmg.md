@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Carpet of Flying
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Carpet of Flying
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Carpet of Flying
-linter-yaml-title-alias: Carpet of Flying
 ---
 # Carpet of Flying
 *Wondrous item, major, very rare*  

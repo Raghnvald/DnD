@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Robe of Useful Items
+linter-yaml-title-alias: Robe of Useful Items
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Robe of Useful Items
-linter-yaml-title-alias: Robe of Useful Items
 ---
 # Robe of Useful Items
 *Wondrous item, uncommon*  

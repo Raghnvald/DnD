@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Paladin
+linter-yaml-title-alias: Paladin
 tags:
   - Klasse/paladin
   - Quelle/5e/phb

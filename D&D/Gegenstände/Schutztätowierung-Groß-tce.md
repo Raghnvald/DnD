@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Barrier Tattoo (Large)
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Barrier Tattoo (Large)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/tce
 aliases:
   - Barrier Tattoo (Large)
-linter-yaml-title-alias: Barrier Tattoo (Large)
 ---
 # Barrier Tattoo (Large)
 *Wondrous item (tattoo), very rare (requires attunement)*  

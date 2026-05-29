@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maneuvering Attack
+linter-yaml-title-alias: Maneuvering Attack
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb

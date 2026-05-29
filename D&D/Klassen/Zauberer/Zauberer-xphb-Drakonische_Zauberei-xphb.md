@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Sorcery
+linter-yaml-title-alias: Draconic Sorcery
 tags:
   - Klasse/Zauberer/draconic
   - Quelle/5e/xphb

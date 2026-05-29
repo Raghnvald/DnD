@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Instrument of the Bards, Doss Lute
+linter-yaml-title-alias: Instrument of the Bards, Doss Lute
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Instrument of the Bards, Doss Lute
-linter-yaml-title-alias: Instrument of the Bards, Doss Lute
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, uncommon (requires attunement by a bard)*  

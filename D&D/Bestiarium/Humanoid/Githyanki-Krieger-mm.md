@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Warrior
+linter-yaml-title-alias: Githyanki Warrior
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3

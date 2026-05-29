@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Epilogue
+linter-yaml-title-alias: Epilogue
 tags:
   - Quelle/5e/idrotf
 aliases:

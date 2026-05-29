@@ -8,6 +8,14 @@ Wirkungsdauer:
 Angriff:
 Schaden:
 status: WIP
+linter-yaml-title-alias: Gestalt verändern
+classes:
+  - Barde (Magische Geheimnisse)
+  - Druide (Zirkel des Mondes)
+  - Fighter (Eldritch Knight)
+  - Magier
+  - Schurke (Arkaner Betrüger)
+  - Zauberer
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide/Zirkel-des-Mondes
@@ -19,16 +27,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/optfeature/master-of-myriad-forms
   - Zauber/Schule/Verwandlung
-classes:
-  - Barde (Magische Geheimnisse)
-  - Druide (Zirkel des Mondes)
-  - Fighter (Eldritch Knight)
-  - Magier
-  - Schurke (Arkaner Betrüger)
-  - Zauberer
 aliases:
   - Alter Self
-linter-yaml-title-alias: Gestalt verändern
+  - Gestalt verändern
 ---
 # Gestalt verändern
 *Verwandlung des 2. Grades*

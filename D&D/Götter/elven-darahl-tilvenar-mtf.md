@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Darahl Tilvenar
+linter-yaml-title-alias: Darahl Tilvenar
 tags:
   - Kompendium/Götter/Domäne/forge
   - Kompendium/Götter/Domäne/light

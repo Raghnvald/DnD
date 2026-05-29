@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Wands That Don't Recharge"
+linter-yaml-title-alias: "Wands That Don't Recharge"
 tags:
   - Quelle/5e/dmg
 aliases:
+  - "Wands That Don't Recharge"
   - Wands That Don't Recharge
 ---
 # Wands That Don't Recharge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaze of Two Minds
+linter-yaml-title-alias: Gaze of Two Minds
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

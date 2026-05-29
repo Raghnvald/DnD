@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Choose a Class; Class Overview
+linter-yaml-title-alias: Choose a Class; Class Overview
 tags:
   - Quelle/5e/xphb
 aliases:

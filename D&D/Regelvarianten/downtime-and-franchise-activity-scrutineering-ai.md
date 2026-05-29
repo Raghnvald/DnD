@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Scrutineering"
+linter-yaml-title-alias: "Downtime and Franchise Activity: Scrutineering"
 tags:
   - Quelle/5e/ai
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clasp Member (Myriad Operative) (Variant)
+linter-yaml-title-alias: Clasp Member (Myriad Operative) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/tdcsr

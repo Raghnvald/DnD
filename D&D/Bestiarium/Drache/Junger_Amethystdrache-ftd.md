@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Young Amethyst Dragon
 image: token/Young-Amethyst-Dragon-ftd.webp
 status: WIP
+linter-yaml-title-alias: Young Amethyst Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/HG/9
@@ -11,7 +12,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Amethyst Dragon
-linter-yaml-title-alias: Young Amethyst Dragon
 ---
 # [Young Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/young-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 161*  

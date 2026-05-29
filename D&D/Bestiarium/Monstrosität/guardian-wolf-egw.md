@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guardian Wolf
+linter-yaml-title-alias: Guardian Wolf
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/4

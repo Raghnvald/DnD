@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 1: Port Nyanzaru"
+linter-yaml-title-alias: "Chapter 1: Port Nyanzaru"
 tags:
   - Quelle/5e/toa
 aliases:
+  - "Chapter 1: Port Nyanzaru"
   - Chapter 1: Port Nyanzaru
 ---
 # Chapter 1: Port Nyanzaru

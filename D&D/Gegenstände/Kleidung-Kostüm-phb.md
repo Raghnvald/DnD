@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Costume Clothes
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 GM
+Gew.: 2,0 kg
+status: WIP
+linter-yaml-title-alias: Costume Clothes
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Costume Clothes
-linter-yaml-title-alias: Costume Clothes
 ---
 # Costume Clothes
 *Adventuring gear*  

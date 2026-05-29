@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Brandy from The Driftwood Tavern in Neverwinter
+linter-yaml-title-alias: Brandy from The Driftwood Tavern in Neverwinter
 tags:
   - Quelle/5e/paf
 aliases:
   - "Brandy from The Driftwood Tavern in Neverwinter"
+  - Brandy from The Driftwood Tavern in Neverwinter
 ---
 # Brandy from The Driftwood Tavern in Neverwinter
 *Source: Puncheons and Flagons, p. 100* 

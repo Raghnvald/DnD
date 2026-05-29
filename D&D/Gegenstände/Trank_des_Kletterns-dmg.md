@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Potion of Climbing
 Kategorie: Trank
+linter-yaml-title-alias: Potion of Climbing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
   - Potion of Climbing
-linter-yaml-title-alias: Potion of Climbing
 ---
 # Potion of Climbing
 *Potion, minor, common*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Buildings; Tavern
+linter-yaml-title-alias: Random Buildings; Tavern
 tags:
   - Quelle/5e/dmg
 aliases:

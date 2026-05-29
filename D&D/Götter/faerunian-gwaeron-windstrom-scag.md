@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gwaeron Windstrom
+linter-yaml-title-alias: Gwaeron Windstrom
 tags:
   - Kompendium/Götter/Domäne/knowledge
   - Kompendium/Götter/Domäne/nature

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mistral Mantle
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mistral Mantle
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Mistral Mantle
-linter-yaml-title-alias: Mistral Mantle
 ---
 # Mistral Mantle
 *Wondrous item, very rare (requires attunement)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Larva
+linter-yaml-title-alias: Larva
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/0

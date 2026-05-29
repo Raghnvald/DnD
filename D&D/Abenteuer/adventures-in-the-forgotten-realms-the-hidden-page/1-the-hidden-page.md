@@ -1,9 +1,11 @@
 ---
 Bezeichnung: The Hidden Page
+linter-yaml-title-alias: The Hidden Page
 tags:
   - Quelle/5e/aitfr-thp
 aliases:
   - "The Hidden Page"
+  - The Hidden Page
 ---
 # The Hidden Page
 *Source: Adventures in the Forgotten Realms: The Hidden Page, p. 2* 

@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Vampiric Touch
 Zaubergrad: 3
+linter-yaml-title-alias: Vampiric Touch
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Death Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -11,16 +19,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Death Domain)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Wizard
 aliases:
   - Vampiric Touch
-linter-yaml-title-alias: Vampiric Touch
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daanvi, the Perfect Order; Daanvi Manifest Zone Features
+linter-yaml-title-alias: Daanvi, the Perfect Order; Daanvi Manifest Zone Features
 tags:
   - Quelle/5e/erlw
 aliases:

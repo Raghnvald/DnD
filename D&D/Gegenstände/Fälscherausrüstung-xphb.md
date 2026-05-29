@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Forgery Kit
+linter-yaml-title-alias: Forgery Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Forgery Kit
-linter-yaml-title-alias: Forgery Kit
 ---
 # Forgery Kit
 *Tool*  

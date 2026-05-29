@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcana - Uncommon
+linter-yaml-title-alias: Arcana - Uncommon
 tags:
   - Quelle/5e/xdmg
 aliases:

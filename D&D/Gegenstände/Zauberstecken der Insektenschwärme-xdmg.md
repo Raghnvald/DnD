@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Swarming Insects
+linter-yaml-title-alias: Staff of Swarming Insects
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Staff of Swarming Insects
-linter-yaml-title-alias: Staff of Swarming Insects
 ---
 # Staff of Swarming Insects
 *Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

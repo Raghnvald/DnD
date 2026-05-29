@@ -6,6 +6,12 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Holy Weapon
+classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
@@ -14,14 +20,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Holy Weapon
-linter-yaml-title-alias: Holy Weapon
 ---
 # Holy Weapon
 *5th-level, Evocation*  

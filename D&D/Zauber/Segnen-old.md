@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Segnen
 Zaubergrad: 1
+linter-yaml-title-alias: Segnen
 tags:
   - Klasse/Kleriker
   - Klasse/Paladin
@@ -9,6 +10,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Bless
+  - Segnen
 ---
 # Segnen
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Verzauberungszauber.webp#token)

@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Orb of Shielding (Irian Quartz)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Orb of Shielding (Irian Quartz)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Einstimmung/required
@@ -11,7 +17,6 @@ aliases:
   - Irian Quartz Crystal
   - Irian Quartz Orb
   - Orb of Shielding (Irian Quartz)
-linter-yaml-title-alias: Orb of Shielding (Irian Quartz)
 ---
 # Orb of Shielding (Irian Quartz)
 *Wondrous item, common (requires attunement)*  

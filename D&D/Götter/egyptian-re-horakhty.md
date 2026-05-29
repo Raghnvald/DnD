@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Re-Horakhty
+linter-yaml-title-alias: Re-Horakhty
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/light

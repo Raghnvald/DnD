@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Cloak of the Manta Ray
+linter-yaml-title-alias: Cloak of the Manta Ray
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - Cloak of the Manta Ray
-linter-yaml-title-alias: Cloak of the Manta Ray
 ---
 # Cloak of the Manta Ray
 *Wondrous item, uncommon (requires attunement)*  

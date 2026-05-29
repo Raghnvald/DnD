@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Trickbeutel, rostfarben
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Trickbeutel, rostfarben
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Bag of Tricks, Rust
-linter-yaml-title-alias: Bag of Tricks, Rust
+  - Trickbeutel, rostfarben
 ---
 # Trickbeutel, rostfarben
 *Wondrous item, major, uncommon*  

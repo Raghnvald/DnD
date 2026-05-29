@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn (Draconblood)
+linter-yaml-title-alias: Dragonborn (Draconblood)
 tags:
   - Quelle/5e/egw
   - Rasse/dragonborn/draconblood

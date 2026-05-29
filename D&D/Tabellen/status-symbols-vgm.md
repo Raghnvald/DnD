@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Status Symbols
+linter-yaml-title-alias: Status Symbols
 tags:
   - Quelle/5e/vgm
 aliases:

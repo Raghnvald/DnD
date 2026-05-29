@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Cubic Gate
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Cubic Gate
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Cubic Gate
-linter-yaml-title-alias: Cubic Gate
 ---
 # Cubic Gate
 *Wondrous item, major, legendary*  

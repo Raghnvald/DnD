@@ -1,5 +1,18 @@
 ---
 Bezeichnung: Greater Restoration
+linter-yaml-title-alias: Greater Restoration
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Peace Domain)
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -15,21 +28,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Artificer
-  - Bard
-  - Cleric
-  - Cleric (Life Domain)
-  - Cleric (Peace Domain)
-  - Druid
-  - Paladin
-  - Ranger
-  - Sorcerer (Clockwork Sorcery)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (Celestial Patron)
 aliases:
   - Greater Restoration
-linter-yaml-title-alias: Greater Restoration
 ---
 # Greater Restoration
 *5th-level, Abjuration*  

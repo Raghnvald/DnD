@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Segen der Magieresistenz
+linter-yaml-title-alias: Segen der Magieresistenz
 tags:
   - Kompendium/Belohnung/blessing
   - Quelle/5e/dmg
 aliases:
   - Blessing of Magic Resistance
+  - Segen der Magieresistenz
 ---
 # Segen der Magieresistenz
 

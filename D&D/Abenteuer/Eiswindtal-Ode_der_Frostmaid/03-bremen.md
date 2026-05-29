@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bremen
+linter-yaml-title-alias: Bremen
 tags:
   - Quelle/5e/idrotf
 aliases:

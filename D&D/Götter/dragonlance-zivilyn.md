@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Zivilyn
+linter-yaml-title-alias: Zivilyn
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
   - "Zivilyn"
+  - Zivilyn
 ---
 # Zivilyn
 *Source: Dragonlance: Shadow of the Dragon Queen p. 17* 

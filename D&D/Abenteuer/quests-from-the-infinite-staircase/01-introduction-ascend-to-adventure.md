@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Ascend to Adventure"
+linter-yaml-title-alias: "Introduction: Ascend to Adventure"
 tags:
   - Quelle/5e/qftis
 aliases:

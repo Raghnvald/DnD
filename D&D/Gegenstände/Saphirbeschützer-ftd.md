@@ -2,20 +2,21 @@
 Bezeichnung: Saphirbeschützer
 Kategorie: Rüstung
 Rüstung: Schild
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: /
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+linter-yaml-title-alias: Saphirbeschützer
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ftd
 aliases:
-  - Sapphire Buckler
-linter-yaml-title-alias: Sapphire Buckler
+  - Saphirbeschützer
 ---
 # Saphirbeschützer
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*  

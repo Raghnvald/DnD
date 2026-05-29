@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ideals
+linter-yaml-title-alias: Ideals
 tags:
   - Quelle/5e/dmg
 aliases:

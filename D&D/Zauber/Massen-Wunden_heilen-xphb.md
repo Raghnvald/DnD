@@ -1,5 +1,15 @@
 ---
 Bezeichnung: Mass Cure Wounds
+linter-yaml-title-alias: Mass Cure Wounds
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
+  - Druid (Circle of the Moon)
+  - Druid (Circle of Wildfire)
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -12,18 +22,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/5
   - Zauber/Schule/Bann
-classes:
-  - Artificer (Battle Smith)
-  - Bard
-  - Cleric
-  - Cleric (Life Domain)
-  - Druid
-  - Druid (Circle of the Moon)
-  - Druid (Circle of Wildfire)
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Mass Cure Wounds
-linter-yaml-title-alias: Mass Cure Wounds
 ---
 # Mass Cure Wounds
 *5th-level, Abjuration*  

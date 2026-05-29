@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Descent Into the Lost Caverns of Tsojcanth
+linter-yaml-title-alias: Index of Descent Into the Lost Caverns of Tsojcanth
+aliases:
+  - Index of Descent Into the Lost Caverns of Tsojcanth
 ---
 # Index of Descent Into the Lost Caverns of Tsojcanth
 

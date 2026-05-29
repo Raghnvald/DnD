@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heroic Inspiration
+linter-yaml-title-alias: Heroic Inspiration
 tags:
   - Quelle/5e/xphb
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quaggoth Thonot
+linter-yaml-title-alias: Quaggoth Thonot
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich

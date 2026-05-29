@@ -1,6 +1,14 @@
 ---
 Bezeichnung: Dominate Beast
 Zaubergrad: 4
+linter-yaml-title-alias: Dominate Beast
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Sorcerer
+  - Warlock (The Archfey)
+  - Warlock (The Great Old One)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -11,16 +19,8 @@ tags:
   - Subklasse/the-great-old-one
   - Zauber/Grad/4
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Sorcerer
-  - Warlock (The Archfey)
-  - Warlock (The Great Old One)
 aliases:
   - Dominate Beast
-linter-yaml-title-alias: Dominate Beast
 ---
 # Dominate Beast
 *4th-level, Enchantment*  

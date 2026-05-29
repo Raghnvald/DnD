@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Magic Item Special Features; Magic Item's History"
+linter-yaml-title-alias: "Magic Item Special Features; Magic Item's History"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Magic Item Special Features; Magic Item's History"
   - Magic Item Special Features; Magic Item's History
 ---
 # Magic Item Special Features; Magic Item's History

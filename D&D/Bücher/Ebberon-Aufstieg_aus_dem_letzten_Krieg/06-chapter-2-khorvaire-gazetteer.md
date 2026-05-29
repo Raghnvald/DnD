@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 2: Khorvaire Gazetteer"
+linter-yaml-title-alias: "Chapter 2: Khorvaire Gazetteer"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Chapter 2: Khorvaire Gazetteer"
   - Chapter 2: Khorvaire Gazetteer
 ---
 # Chapter 2: Khorvaire Gazetteer

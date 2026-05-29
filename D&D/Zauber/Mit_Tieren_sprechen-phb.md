@@ -7,6 +7,14 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+linter-yaml-title-alias: Speak with Animals
+classes:
+  - Barbarian (Path of the Totem Warrior)
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Paladin (Oath of the Ancients)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -22,16 +30,8 @@ tags:
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
-classes:
-  - Barbarian (Path of the Totem Warrior)
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Paladin (Oath of the Ancients)
-  - Ranger
 aliases:
   - Speak with Animals
-linter-yaml-title-alias: Speak with Animals
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  

@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Rindenhaut
 Zaubergrad: 2
+linter-yaml-title-alias: Rindenhaut
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Nature Domain)
+  - Druid
+  - Druid (Circle of the Land, Forest)
+  - Ranger
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -10,15 +17,9 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Nature Domain)
-  - Druid
-  - Druid (Circle of the Land, Forest)
-  - Ranger
 aliases:
   - Barkskin
-linter-yaml-title-alias: Rindenhaut
+  - Rindenhaut
 ---
 # Rindenhaut
 *Verwandlung des 2. Grades*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kelemvor
+linter-yaml-title-alias: Kelemvor
 tags:
   - Kompendium/Götter/Domäne/death
   - Kompendium/Götter/Domäne/grave

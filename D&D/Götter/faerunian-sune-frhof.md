@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sune
+linter-yaml-title-alias: Sune
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Sune"
   - "The Lady of Love"
   - "The Princess of Passion"
+  - Sune
 ---
 # Sune
 *Source: Forgotten Realms: Heroes of Faerûn p. 122* 

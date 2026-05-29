@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 4: Building Eberron Adventures - Sharn"
+linter-yaml-title-alias: "Chapter 4: Building Eberron Adventures - Sharn"
 tags:
   - Quelle/5e/erlw
 aliases:
+  - "Chapter 4: Building Eberron Adventures - Sharn"
   - Chapter 4: Building Eberron Adventures - Sharn
 ---
 # Chapter 4: Building Eberron Adventures - Sharn

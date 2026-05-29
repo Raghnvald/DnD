@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silvered Weapon
+linter-yaml-title-alias: Silvered Weapon
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
   - Gegenstand/Seltenheit/gewöhnlich
@@ -66,7 +67,6 @@ aliases:
   - Silvered Whip
   - Silvered Wooden Staff
   - Silvered Yklwa
-linter-yaml-title-alias: Silvered Weapon
 ---
 # Silvered Weapon
 *Common*  

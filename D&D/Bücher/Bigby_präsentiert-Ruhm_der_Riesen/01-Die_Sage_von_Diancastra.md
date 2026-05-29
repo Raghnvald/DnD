@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Diancastra's Saga"
+linter-yaml-title-alias: "Diancastra's Saga"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Diancastra's Saga"
   - Diancastra's Saga
 ---
 # Diancastra's Saga

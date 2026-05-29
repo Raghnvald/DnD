@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Corellon
+linter-yaml-title-alias: Corellon
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/light

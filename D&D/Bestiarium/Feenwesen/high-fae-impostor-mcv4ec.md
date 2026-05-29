@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: High Fae Impostor
+linter-yaml-title-alias: High Fae Impostor
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/11

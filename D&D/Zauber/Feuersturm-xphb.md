@@ -1,5 +1,12 @@
 ---
 Bezeichnung: Fire Storm
+linter-yaml-title-alias: Fire Storm
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
 tags:
   - Klasse/Barde
   - Klasse/Druide
@@ -9,15 +16,8 @@ tags:
   - Subklasse/divine-soul/good
   - Zauber/Grad/7
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
 aliases:
   - Fire Storm
-linter-yaml-title-alias: Fire Storm
 ---
 # Fire Storm
 *7th-level, Evocation*  

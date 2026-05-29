@@ -1,5 +1,17 @@
 ---
 Bezeichnung: Mirror Image
+linter-yaml-title-alias: Mirror Image
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Bard (College of Glamour)
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -14,20 +26,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
-classes:
-  - Artificer (Armorer)
-  - Bard
-  - Bard (College of Glamour)
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 aliases:
   - Mirror Image
-linter-yaml-title-alias: Mirror Image
 ---
 # Mirror Image
 *2nd-level, Illusion*  

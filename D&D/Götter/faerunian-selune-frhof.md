@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selûne
+linter-yaml-title-alias: Selûne
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "Selûne"
   - "The Moonmaiden"
   - "The Night White Lady"
+  - Selûne
 ---
 # Selûne
 *Source: Forgotten Realms: Heroes of Faerûn p. 119* 

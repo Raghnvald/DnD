@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathless Rider
+linter-yaml-title-alias: Deathless Rider
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/5
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/mcv4ec
 aliases:
   - Deathless Rider
-linter-yaml-title-alias: Deathless Rider
 ---
 # [Deathless Rider](3-Mechanics\CLI\bestiary\undead/deathless-rider-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

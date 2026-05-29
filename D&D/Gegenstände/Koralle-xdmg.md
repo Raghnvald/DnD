@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Coral
+linter-yaml-title-alias: Coral
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Coral
-linter-yaml-title-alias: Coral
 ---
 # Coral
 *Treasure (gemstone)*  

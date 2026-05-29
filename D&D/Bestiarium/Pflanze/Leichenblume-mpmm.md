@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Corpse Flower
+linter-yaml-title-alias: Corpse Flower
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Stadt

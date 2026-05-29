@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Zitrin
 Kategorie: Edelstein
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 50 GM
 Gew.: /
+status: WIP
+linter-yaml-title-alias: Zitrin
 tags:
   - Gegenstand/Ausrüstung/treasure-gemstone
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Citrine
-linter-yaml-title-alias: Citrine
+  - Zitrin
 ---
 # Zitrin
 *Schatz (Edelstein)*  

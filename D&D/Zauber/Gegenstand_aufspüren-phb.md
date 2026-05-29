@@ -1,6 +1,16 @@
 ---
 Bezeichnung: Locate Object
 Zaubergrad: 2
+linter-yaml-title-alias: Locate Object
+classes:
+  - Bard (Magical Secrets)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
@@ -13,18 +23,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
-classes:
-  - Bard (Magical Secrets)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Paladin
-  - Ranger
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Locate Object
-linter-yaml-title-alias: Locate Object
 ---
 # Locate Object
 *2nd-level, Divination*  

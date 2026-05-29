@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Leucrotta
+linter-yaml-title-alias: Leucrotta
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Grasland

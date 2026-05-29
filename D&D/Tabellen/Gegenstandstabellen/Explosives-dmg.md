@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Explosives
+linter-yaml-title-alias: Explosives
 tags:
   - Quelle/5e/dmg
 aliases:

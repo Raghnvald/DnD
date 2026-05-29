@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sanctuary
+linter-yaml-title-alias: Sanctuary
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

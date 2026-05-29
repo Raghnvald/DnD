@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Copper Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Adult Copper Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

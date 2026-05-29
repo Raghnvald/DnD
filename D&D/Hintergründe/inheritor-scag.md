@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inheritor
+linter-yaml-title-alias: Inheritor
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

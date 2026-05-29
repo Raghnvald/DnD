@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Emerald Dragon
+linter-yaml-title-alias: Young Emerald Dragon
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Emerald Dragon
-linter-yaml-title-alias: Young Emerald Dragon
 ---
 # [Young Emerald Dragon](3-Mechanics\CLI\bestiary\dragon/young-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 197*  

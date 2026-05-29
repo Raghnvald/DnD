@@ -6,18 +6,18 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+linter-yaml-title-alias: Primordial Ward
+classes:
+  - Bard
+  - Druid
 tags:
   - Klasse/Barde
   - Klasse/Druide
   - Quelle/5e/xge
   - Zauber/Grad/6
   - Zauber/Schule/Bann
-classes:
-  - Bard
-  - Druid
 aliases:
   - Primordial Ward
-linter-yaml-title-alias: Primordial Ward
 ---
 # Primordial Ward
 *6th-level, Abjuration*  

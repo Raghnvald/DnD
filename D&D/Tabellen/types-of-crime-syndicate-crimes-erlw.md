@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Types of Crime; Syndicate Crimes
+linter-yaml-title-alias: Types of Crime; Syndicate Crimes
 tags:
   - Quelle/5e/erlw
 aliases:

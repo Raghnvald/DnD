@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Deep Dragon Connections
+linter-yaml-title-alias: Connected Creatures; Adult Deep Dragon Connections
 tags:
   - Quelle/5e/ftd
 aliases:

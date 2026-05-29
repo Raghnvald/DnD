@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Crossbow Bolt of Slaying
 Kategorie: Munition
+Eigenschaften:
+  - Munition
+Kst.: /
+Gew.: 0,0375 kg
+status: WIP
+linter-yaml-title-alias: Crossbow Bolt of Slaying
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Crossbow Bolt of Slaying
-linter-yaml-title-alias: Crossbow Bolt of Slaying
 ---
 # Crossbow Bolt of Slaying
 *Ammunition, minor, very rare*  

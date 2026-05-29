@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Defensive Duelist
+linter-yaml-title-alias: Defensive Duelist
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

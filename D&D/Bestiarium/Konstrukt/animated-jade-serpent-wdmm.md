@@ -8,6 +8,7 @@ HG: 1/4
 Habitat:
   - /
 status: WIP
+linter-yaml-title-alias: Animated Jade Serpent
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-4

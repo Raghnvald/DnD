@@ -1,8 +1,10 @@
 ---
 Bezeichnung: Waffen
+linter-yaml-title-alias: Waffen
 tags:
   - Quelle/5e/phb
 aliases:
+  - Waffen
   - Weapons
 ---
 # Waffen

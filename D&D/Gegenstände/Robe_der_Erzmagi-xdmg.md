@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Robe of the Archmagi
+linter-yaml-title-alias: Robe of the Archmagi
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:
   - Robe of the Archmagi
-linter-yaml-title-alias: Robe of the Archmagi
 ---
 # Robe of the Archmagi
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

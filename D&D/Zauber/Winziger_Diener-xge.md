@@ -7,6 +7,14 @@ Komponenten: V, G
 Wirkungsdauer: 8 Stunden
 Angriff:
 Schaden: Utility
+linter-yaml-title-alias: Winziger Diener
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Wizard
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -17,16 +25,9 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Wizard
 aliases:
   - Tiny Servant
-linter-yaml-title-alias: Winziger Diener
+  - Winziger Diener
 ---
 # Winziger Diener
 _Verwandlung des 3. Grades_

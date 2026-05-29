@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hoar
+linter-yaml-title-alias: Hoar
 tags:
   - Kompendium/Götter/Domäne/war
   - Kompendium/Götter/faerunian

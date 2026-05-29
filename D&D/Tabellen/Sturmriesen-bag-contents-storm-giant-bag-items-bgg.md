@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Giant Bag Contents; Storm Giant Bag Items
+linter-yaml-title-alias: Storm Giant Bag Contents; Storm Giant Bag Items
 tags:
   - Quelle/5e/bgg
 aliases:

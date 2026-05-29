@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature Size and Space
+linter-yaml-title-alias: Creature Size and Space
 tags:
   - Quelle/5e/xdmg
 aliases:

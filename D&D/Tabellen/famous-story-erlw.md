@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Famous Story
+linter-yaml-title-alias: Famous Story
 tags:
   - Quelle/5e/erlw
 aliases:

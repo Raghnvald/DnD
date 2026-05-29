@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Comet Card
 Kategorie: Wundersamer Gegenstand
+linter-yaml-title-alias: Comet Card
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:
   - Comet Card
-linter-yaml-title-alias: Comet Card
 ---
 # Comet Card
 *Wondrous item, legendary*  

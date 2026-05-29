@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Dougan's Hole"
+linter-yaml-title-alias: "Dougan's Hole"
 tags:
   - Quelle/5e/idrotf
 aliases:
+  - "Dougan's Hole"
   - Dougan's Hole
 ---
 # Dougan's Hole

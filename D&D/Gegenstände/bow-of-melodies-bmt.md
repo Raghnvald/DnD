@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Bow of Melodies
 Kategorie: Beliebig, Bogen
+Eigenschaften:
+  - erfordert Einstimmung
+Kst.: /
+Gew.: /
+linter-yaml-title-alias: Bow of Melodies
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
@@ -13,11 +18,10 @@ aliases:
   - Bow of Melodies
   - Longbow of Melodies
   - Shortbow of Melodies
-linter-yaml-title-alias: Bow of Melodies
 ---
 # Bow of Melodies
 *Very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/bow-of-melodies.webp#right)
+![](img/bow-of-melodies.webp#right)
 
 This bow has multiple strings and resembles a lyre or small harp. By strumming the strings while setting an arrow to the bow, you imbue the arrow with magic.
 

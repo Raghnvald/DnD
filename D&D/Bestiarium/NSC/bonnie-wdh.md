@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bonnie
+linter-yaml-title-alias: Bonnie
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Bonnie
-linter-yaml-title-alias: Bonnie
 ---
 # [Bonnie](3-Mechanics\CLI\bestiary\npc/bonnie-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

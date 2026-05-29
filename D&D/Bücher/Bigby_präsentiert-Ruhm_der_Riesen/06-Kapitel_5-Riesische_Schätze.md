@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Chapter 5: Giant Treasures"
+linter-yaml-title-alias: "Chapter 5: Giant Treasures"
 tags:
   - Quelle/5e/bgg
 aliases:
+  - "Chapter 5: Giant Treasures"
   - Chapter 5: Giant Treasures
 ---
 # Chapter 5: Giant Treasures

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glossary
+linter-yaml-title-alias: Glossary
 tags:
   - Quelle/5e/egw
 aliases:

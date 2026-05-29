@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Layout
+linter-yaml-title-alias: Layout
+aliases:
+  - Layout
 ---
 # Layout
 

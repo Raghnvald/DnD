@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Orc Names – Female
+linter-yaml-title-alias: Half-Orc Names – Female
 tags:
   - Quelle/5e/xge
 aliases:

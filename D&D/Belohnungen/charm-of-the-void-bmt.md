@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm of the Void
+linter-yaml-title-alias: Charm of the Void
 tags:
   - Kompendium/Belohnung/charm
   - Quelle/5e/bmt

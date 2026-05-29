@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tridrone (Rogue)
+linter-yaml-title-alias: Tridrone (Rogue)
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2

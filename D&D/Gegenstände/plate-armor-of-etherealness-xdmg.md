@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Plate Armor of Etherealness
 Rüstung: Schwer
+linter-yaml-title-alias: Plate Armor of Etherealness
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -8,7 +9,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Plate Armor of Etherealness
-linter-yaml-title-alias: Plate Armor of Etherealness
 ---
 # Plate Armor of Etherealness
 *Heavy armor, legendary (requires attunement)*  

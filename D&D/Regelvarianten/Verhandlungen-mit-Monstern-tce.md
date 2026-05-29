@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parleying with Monsters
+linter-yaml-title-alias: Parleying with Monsters
 tags:
   - Quelle/5e/tce
 aliases:

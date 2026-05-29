@@ -8,6 +8,7 @@ HG: 15
 Habitat:
   - Küste
 status: WIP
+linter-yaml-title-alias: Adult Bronze Dragon
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Küste
@@ -16,7 +17,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Adult Bronze Dragon
-linter-yaml-title-alias: Adult Bronze Dragon
 ---
 # [Adult Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/adult-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 59. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

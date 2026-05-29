@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Mirror of Infinite Transpondence
 Kategorie: Wundersamer Gegenstand 
+linter-yaml-title-alias: Mirror of Infinite Transpondence
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr
 aliases:
   - Mirror of Infinite Transpondence
-linter-yaml-title-alias: Mirror of Infinite Transpondence
 ---
 # Mirror of Infinite Transpondence
 *Wondrous item, very rare*  

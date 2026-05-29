@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mounted Combatant
+linter-yaml-title-alias: Mounted Combatant
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb

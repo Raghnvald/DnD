@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Overview
+linter-yaml-title-alias: Overview
 tags:
   - Quelle/5e/xmts
 aliases:
   - "Overview"
+  - Overview
 ---
 # Overview
 *Source: X Marks the Spot, p. 2* 

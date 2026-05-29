@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 12: Nessus, the Bastion of Asmodeus"
+linter-yaml-title-alias: "Chapter 12: Nessus, the Bastion of Asmodeus"
 tags:
   - Quelle/5e/coa
 aliases:

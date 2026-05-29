@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inquisitor of the Mind Fire
+linter-yaml-title-alias: Inquisitor of the Mind Fire
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Triceratops
+linter-yaml-title-alias: Triceratops
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Grasland

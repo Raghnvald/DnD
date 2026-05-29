@@ -1,8 +1,10 @@
 ---
 Bezeichnung: "Shemshime's Bedtime Rhyme"
+linter-yaml-title-alias: "Shemshime's Bedtime Rhyme"
 tags:
   - Quelle/5e/cm
 aliases:
+  - "Shemshime's Bedtime Rhyme"
   - Shemshime's Bedtime Rhyme
 ---
 # Shemshime's Bedtime Rhyme

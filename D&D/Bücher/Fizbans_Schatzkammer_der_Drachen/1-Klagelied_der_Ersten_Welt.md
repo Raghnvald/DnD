@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elegy for the First World
+linter-yaml-title-alias: Elegy for the First World
 tags:
   - Quelle/5e/ftd
 aliases:

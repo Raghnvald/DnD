@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Destructive Wave
 Zaubergrad: 5
+linter-yaml-title-alias: Destructive Wave
+classes:
+  - Bard (Magical Secrets)
+  - Cleric (Tempest Domain)
+  - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker/tempest-domain
@@ -8,13 +13,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard (Magical Secrets)
-  - Cleric (Tempest Domain)
-  - Paladin
 aliases:
   - Destructive Wave
-linter-yaml-title-alias: Destructive Wave
 ---
 # Destructive Wave
 *5th-level, Evocation*  

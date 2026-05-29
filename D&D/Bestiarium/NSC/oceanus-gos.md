@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oceanus
+linter-yaml-title-alias: Oceanus
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/1-2
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Oceanus
-linter-yaml-title-alias: Oceanus
 ---
 # [Oceanus](3-Mechanics\CLI\bestiary\npc/oceanus-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  

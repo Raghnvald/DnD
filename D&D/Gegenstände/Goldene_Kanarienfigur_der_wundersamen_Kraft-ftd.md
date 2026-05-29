@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Gold Canary Figurine of Wondrous Power
+linter-yaml-title-alias: Gold Canary Figurine of Wondrous Power
 tags:
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/ftd
 aliases:
   - Gold Canary Figurine of Wondrous Power
-linter-yaml-title-alias: Gold Canary Figurine of Wondrous Power
 ---
 # Gold Canary Figurine of Wondrous Power
 *Wondrous item, legendary*  

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Clockwork Trebuchet
+linter-yaml-title-alias: Clockwork Trebuchet
 tags:
   - Kompendium/Objekt/size/huge
   - Kompendium/Objekt/type/siege-weapon
   - Quelle/5e/hbtd
 aliases:
   - "Clockwork Trebuchet"
+  - Clockwork Trebuchet
 ---
 # Clockwork Trebuchet
 *Source: Hold Back The Dead p. 4*  

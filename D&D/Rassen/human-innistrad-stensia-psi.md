@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Human (Innistrad; Stensia)
+linter-yaml-title-alias: Human (Innistrad; Stensia)
 tags:
   - Quelle/5e/psi
   - Rasse/human/innistrad-stensia
 aliases:
   - "Human (Innistrad; Stensia)"
+  - Human (Innistrad; Stensia)
 ---
 # Human (Innistrad; Stensia)
 *Source: Plane Shift: Innistrad p. 8*  

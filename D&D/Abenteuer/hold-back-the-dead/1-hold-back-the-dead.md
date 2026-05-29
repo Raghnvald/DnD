@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Hold Back The Dead
+linter-yaml-title-alias: Hold Back The Dead
 tags:
   - Quelle/5e/hbtd
 aliases:
   - "Hold Back The Dead"
+  - Hold Back The Dead
 ---
 # Hold Back The Dead
 *Source: Hold Back The Dead, p. 1* 

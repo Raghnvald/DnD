@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Initiate
+linter-yaml-title-alias: Magic Initiate
 tags:
   - Kompendium/Talent
   - Quelle/5e/xphb

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sword of Answering (Squelcher)
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sword of Answering (Squelcher)
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/legendär
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sword of Answering (Squelcher)
-linter-yaml-title-alias: Sword of Answering (Squelcher)
 ---
 # Sword of Answering (Squelcher)
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a neutral evil creature)*  

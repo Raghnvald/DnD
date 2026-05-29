@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Renaer Neverember
+linter-yaml-title-alias: Renaer Neverember
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Renaer Neverember
-linter-yaml-title-alias: Renaer Neverember
 ---
 # [Renaer Neverember](3-Mechanics\CLI\bestiary\npc/renaer-neverember-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 215*  

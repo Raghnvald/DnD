@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loviatar
+linter-yaml-title-alias: Loviatar
 tags:
   - Kompendium/Götter/faerunian
   - Quelle/5e/frhof
@@ -8,6 +9,7 @@ aliases:
   - "The Maiden of Pain"
   - "The Scourge Mistress"
   - "The Willing Whip"
+  - Loviatar
 ---
 # Loviatar
 *Source: Forgotten Realms: Heroes of Faerûn p. 114* 

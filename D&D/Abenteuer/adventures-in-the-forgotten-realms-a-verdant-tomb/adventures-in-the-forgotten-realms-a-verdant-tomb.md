@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Adventures in the Forgotten Realms a Verdant Tomb
+linter-yaml-title-alias: Index of Adventures in the Forgotten Realms a Verdant Tomb
+aliases:
+  - Index of Adventures in the Forgotten Realms a Verdant Tomb
 ---
 # Index of Adventures in the Forgotten Realms a Verdant Tomb
 

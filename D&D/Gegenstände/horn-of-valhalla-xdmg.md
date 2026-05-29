@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Horn of Valhalla
+linter-yaml-title-alias: Horn of Valhalla
 tags:
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - Horn of Valhalla
-linter-yaml-title-alias: Horn of Valhalla
 ---
 # Horn of Valhalla
 *Wondrous item*  

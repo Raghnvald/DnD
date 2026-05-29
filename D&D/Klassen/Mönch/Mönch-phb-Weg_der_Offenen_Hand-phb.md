@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Open Hand
+linter-yaml-title-alias: Way of the Open Hand
 tags:
   - Klasse/Mönch/open-hand
   - Quelle/5e/phb

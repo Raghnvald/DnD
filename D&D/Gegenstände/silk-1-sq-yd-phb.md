@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Silk (1 sq. yd.)
+linter-yaml-title-alias: Silk (1 sq. yd.)
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Silk (1 sq. yd.)
-linter-yaml-title-alias: Silk (1 sq. yd.)
 ---
 # Silk (1 sq. yd.)
 *Trade good*  

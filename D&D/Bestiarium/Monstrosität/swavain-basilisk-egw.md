@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swavain Basilisk
+linter-yaml-title-alias: Swavain Basilisk
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/7

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: City Watch (Investigator) (Variant)
+linter-yaml-title-alias: City Watch (Investigator) (Variant)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scag

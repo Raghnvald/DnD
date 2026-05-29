@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Armor of Shadows
+linter-yaml-title-alias: Spells for Armor of Shadows
 tags:
   - Zauber/list/optfeature/armor-of-shadows
 aliases:

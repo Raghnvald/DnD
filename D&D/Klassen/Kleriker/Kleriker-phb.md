@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Kleriker
+linter-yaml-title-alias: Kleriker
 tags:
   - Klasse/Kleriker
   - Quelle/5e/phb
 aliases:
   - Cleric
+  - Kleriker
 ---
 # Kleriker
 *Quellen: Spielerhandbuch S. 56. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Gabe der Kampffähigkeit
+linter-yaml-title-alias: Gabe der Kampffähigkeit
 tags:
   - Kompendium/Belohnung/boon
   - Quelle/5e/dmg
 aliases:
   - Boon of Combat Prowess
+  - Gabe der Kampffähigkeit
 ---
 # Gabe der Kampffähigkeit
 

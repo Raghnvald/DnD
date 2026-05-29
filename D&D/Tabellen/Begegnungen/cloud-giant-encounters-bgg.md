@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloud Giant Encounters
+linter-yaml-title-alias: Cloud Giant Encounters
 tags:
   - Quelle/5e/bgg
 aliases:

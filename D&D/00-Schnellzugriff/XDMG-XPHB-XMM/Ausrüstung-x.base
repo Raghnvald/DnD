@@ -1,3 +1,10 @@
+filters:
+  and:
+    - and:
+        - '!file.fullname.containsAny("-dmg.md", "-phb.md", "-mm.md")'
+        - '!file.fullname.containsAny("0", "1", "2", "3", "4", "5", "6", "7", "8", "9")'
+formulas:
+  Bezeichnung: link(file, Bezeichnung)
 properties:
   file.basename:
     displayName: Name
@@ -8,15 +15,18 @@ views:
     name: Ausrüstung
     filters:
       and:
-        - file.tags.contains("Gegenstand/Ausrüstung")
+        - and:
+            - file.folder == "D&D/Gegenstände"
+            - file.tags.contains("Gegenstand/Ausrüstung")
     groupBy:
       property: Typ
       direction: ASC
     order:
-      - file.name
+      - formula.Bezeichnung
       - Kst.
       - Gew.
       - Eigenschaften
+      - status
     sort:
       - property: file.basename
         direction: ASC

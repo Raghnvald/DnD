@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mask of Many Faces
+linter-yaml-title-alias: Mask of Many Faces
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/xphb

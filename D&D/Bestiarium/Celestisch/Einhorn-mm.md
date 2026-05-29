@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Unicorn
+linter-yaml-title-alias: Unicorn
 tags:
   - Monster/Größe/Groß
   - Monster/Habitat/Wald

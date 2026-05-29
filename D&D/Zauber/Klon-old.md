@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Klon
+linter-yaml-title-alias: Klon
 tags:
   - Klasse/Magier
   - Quelle/5e/phb
@@ -7,6 +8,7 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Clone
+  - Klon
 ---
 # Klon
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Nekromantiezauber.webp#token)

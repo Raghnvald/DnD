@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human (Mark of Handling)
+linter-yaml-title-alias: Human (Mark of Handling)
 tags:
   - Quelle/5e/erlw
   - Rasse/human/mark-of-handling

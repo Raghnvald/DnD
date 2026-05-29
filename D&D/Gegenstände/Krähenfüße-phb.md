@@ -1,16 +1,18 @@
 ---
 Bezeichnung: Krähenfüße
 Kategorie: Abenteuerausrüstung
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 5 KM
 Gew.: 0,05 kg
+status: WIP
+linter-yaml-title-alias: Krähenfüße
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Caltrop
-linter-yaml-title-alias: Caltrop
+  - Krähenfüße
 ---
 # Krähenfüße
 *Adventuring gear*  

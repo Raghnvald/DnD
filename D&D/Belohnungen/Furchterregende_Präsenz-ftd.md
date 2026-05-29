@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frightful Presence
+linter-yaml-title-alias: Frightful Presence
 tags:
   - Kompendium/Belohnung/draconic-gift
   - Quelle/5e/ftd

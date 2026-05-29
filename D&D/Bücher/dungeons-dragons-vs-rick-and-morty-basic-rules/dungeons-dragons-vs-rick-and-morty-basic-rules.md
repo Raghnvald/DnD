@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Index of Dungeons Dragons Vs Rick and Morty Basic Rules
+linter-yaml-title-alias: Index of Dungeons Dragons Vs Rick and Morty Basic Rules
+aliases:
+  - Index of Dungeons Dragons Vs Rick and Morty Basic Rules
 ---
 # Index of Dungeons Dragons Vs Rick and Morty Basic Rules
 

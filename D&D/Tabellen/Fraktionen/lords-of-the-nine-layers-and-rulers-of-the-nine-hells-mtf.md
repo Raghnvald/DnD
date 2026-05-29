@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lords of the Nine; Layers and Rulers of the Nine Hells
+linter-yaml-title-alias: Lords of the Nine; Layers and Rulers of the Nine Hells
 tags:
   - Quelle/5e/mtf
 aliases:

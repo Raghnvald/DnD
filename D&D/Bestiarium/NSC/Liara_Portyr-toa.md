@@ -2,14 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Liara Portyr
+linter-yaml-title-alias: Liara Portyr
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4
-  - Monster/Typ/Humanoid/human
+  - Monster/Typ/Humanoid/Mensch
   - Quelle/5e/toa
 aliases:
   - Liara Portyr
-linter-yaml-title-alias: Liara Portyr
 ---
 # Liara Portyr
 *Source: Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mythrien Sarath
+linter-yaml-title-alias: Mythrien Sarath
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/forge

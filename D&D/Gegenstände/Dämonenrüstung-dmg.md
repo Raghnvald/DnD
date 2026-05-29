@@ -2,13 +2,15 @@
 Bezeichnung: Demon Armor
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
-Einstimmung: erfordert
-Kst.: n/v
+Eigenschaften:
+  - erfordert Einstimmung
+Einstimmung:
+Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+linter-yaml-title-alias: Demon Armor
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Rüstung/Schwer
@@ -16,7 +18,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Demon Armor
-linter-yaml-title-alias: Demon Armor
 ---
 # Demon Armor
 *Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), sehr selten (erfordert Einstimmung)*  

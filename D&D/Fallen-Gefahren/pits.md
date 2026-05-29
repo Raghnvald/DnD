@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pits
+linter-yaml-title-alias: Pits
 tags:
   - Kompendium/Bedrohung/mech
   - Quelle/5e/dmg

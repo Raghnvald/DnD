@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Champion of Ravens
+linter-yaml-title-alias: Champion of Ravens
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21

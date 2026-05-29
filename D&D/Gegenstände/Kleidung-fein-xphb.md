@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Fine Clothes
+linter-yaml-title-alias: Fine Clothes
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Fine Clothes
-linter-yaml-title-alias: Fine Clothes
 ---
 # Fine Clothes
 *Adventuring gear*  

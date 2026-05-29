@@ -1,13 +1,18 @@
 ---
 Bezeichnung: Piton
 Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - /
+Kst.: 5 KM
+Gew.: 0,125 kg
+status: WIP
+linter-yaml-title-alias: Piton
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Piton
-linter-yaml-title-alias: Piton
 ---
 # Piton
 *Adventuring gear*  

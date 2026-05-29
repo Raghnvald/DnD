@@ -10,6 +10,7 @@ Habitat:
   - Unterreich
 image: token/vampire-spawn.webp
 status: completed
+linter-yaml-title-alias: Vampirbrut
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -18,8 +19,7 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/mm
 aliases:
-  - Vampire Spawn
-linter-yaml-title-alias: Vampire Spawn
+  - Vampirbrut
 ---
 # Vampirbrut
 *Quelle: Monsterhandbuch S. 294. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

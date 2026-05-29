@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Gruul Keyrune
+linter-yaml-title-alias: Gruul Keyrune
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ggr
 aliases:
   - Gruul Keyrune
-linter-yaml-title-alias: Gruul Keyrune
 ---
 # Gruul Keyrune
 *Wondrous item, rare (requires attunement by a member of the Gruul guild)*  

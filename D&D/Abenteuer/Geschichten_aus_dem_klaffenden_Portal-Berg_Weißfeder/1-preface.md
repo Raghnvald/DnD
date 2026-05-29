@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Preface
+linter-yaml-title-alias: Preface
 tags:
   - Quelle/5e/tftyp-wpm
 aliases:
   - "Preface"
+  - Preface
 ---
 # Preface
 *Source: Tales from the Yawning Portal: White Plume Mountain, p. 4* 

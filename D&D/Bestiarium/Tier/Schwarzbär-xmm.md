@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Bear
+linter-yaml-title-alias: Black Bear
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Wald

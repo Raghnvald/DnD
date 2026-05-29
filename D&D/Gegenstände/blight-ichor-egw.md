@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Blight Ichor
+Kst.: 200 GM
+Gew.: /
+status: WIP
+linter-yaml-title-alias: Blight Ichor
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/egw
 aliases:
   - Blight Ichor
-linter-yaml-title-alias: Blight Ichor
 ---
 # Blight Ichor
 *Adventuring gear*  

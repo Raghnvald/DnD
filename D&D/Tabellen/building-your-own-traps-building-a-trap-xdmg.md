@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Building Your Own Traps; Building a Trap
+linter-yaml-title-alias: Building Your Own Traps; Building a Trap
 tags:
   - Quelle/5e/xdmg
 aliases:

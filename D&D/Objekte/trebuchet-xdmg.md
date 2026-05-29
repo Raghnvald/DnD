@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trebuchet
+linter-yaml-title-alias: Trebuchet
 tags:
   - Kompendium/Objekt/size/huge
   - Kompendium/Objekt/type/siege-weapon

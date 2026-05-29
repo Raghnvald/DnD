@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Wildmother
+linter-yaml-title-alias: The Wildmother
 tags:
   - Kompendium/Götter/Domäne/life
   - Kompendium/Götter/Domäne/nature

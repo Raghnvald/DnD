@@ -7,6 +7,16 @@ Komponenten: V
 Wirkungsdauer: K, <10 Minuten
 Angriff: nichts
 Schaden: Taub
+linter-yaml-title-alias: Schutzwind
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
@@ -19,18 +29,8 @@ tags:
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 aliases:
-  - Warding Wind
-linter-yaml-title-alias: Warding Wind
+  - Schutzwind
 ---
 # Schutzwind
 _Hervorrufung des 2. Grades_

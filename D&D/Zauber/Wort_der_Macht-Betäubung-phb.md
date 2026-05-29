@@ -1,6 +1,12 @@
 ---
 Bezeichnung: Power Word Stun
 Zaubergrad: 8
+linter-yaml-title-alias: Power Word Stun
+classes:
+  - Bard (Magical Secrets)
+  - Sorcerer
+  - Warlock
+  - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
@@ -9,14 +15,8 @@ tags:
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Verzauberung
-classes:
-  - Bard (Magical Secrets)
-  - Sorcerer
-  - Warlock
-  - Wizard
 aliases:
   - Power Word Stun
-linter-yaml-title-alias: Power Word Stun
 ---
 # Power Word Stun
 *8th-level, Enchantment*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Items
+linter-yaml-title-alias: Rakdos Items
 tags:
   - Quelle/5e/ggr
 aliases:

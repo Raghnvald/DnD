@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Karrnathi Undead Soldier
+linter-yaml-title-alias: Karrnathi Undead Soldier
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/3
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Karrnathi Undead Soldier
-linter-yaml-title-alias: Karrnathi Undead Soldier
 ---
 # [Karrnathi Undead Soldier](3-Mechanics\CLI\bestiary\undead/karrnathi-undead-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 295*  

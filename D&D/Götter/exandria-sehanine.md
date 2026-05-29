@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sehanine
+linter-yaml-title-alias: Sehanine
 tags:
   - Kompendium/Götter/Domäne/arcana
   - Kompendium/Götter/Domäne/nature

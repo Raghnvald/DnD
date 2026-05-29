@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sunforger
 Kategorie: Nahkampf-Kriegswaffe
+linter-yaml-title-alias: Sunforger
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/selten
@@ -9,7 +10,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Sunforger
-linter-yaml-title-alias: Sunforger
 ---
 # Sunforger
 *Weapon (warhammer), rare (requires attunement)*  

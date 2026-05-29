@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: K, <1 Stunde
 Angriff: n/v
 Schaden: Kommunikation
+linter-yaml-title-alias: Himmelsschreiben
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
@@ -17,6 +18,7 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
 aliases:
+  - Himmelsschreiben
   - Skywrite
 ---
 # Himmelsschreiben

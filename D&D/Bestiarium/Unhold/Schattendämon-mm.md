@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow Demon
+linter-yaml-title-alias: Shadow Demon
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/4

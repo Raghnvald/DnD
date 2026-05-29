@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demilich
+linter-yaml-title-alias: Demilich
 tags:
   - Monster/Größe/Winzig
   - Monster/Habitat/Jedes
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Demilich
-linter-yaml-title-alias: Demilich
 ---
 # [Demilich](3-Mechanics\CLI\bestiary\undead/demilich-xmm.md)
 *Source: Monster Manual (2024) p. 96*  

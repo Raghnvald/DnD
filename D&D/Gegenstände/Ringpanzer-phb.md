@@ -2,19 +2,20 @@
 Bezeichnung: Ringpanzer
 Kategorie: Rüstung
 Rüstung: Schwer
-Eigenschaften: /
+Eigenschaften:
+  - /
 Kst.: 1.500 GM
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+linter-yaml-title-alias: Ringpanzer
 tags:
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Ring Mail
-linter-yaml-title-alias: Ring Mail
+  - Ringpanzer
 ---
 # Ringpanzer
 *Schwere Rüstung*  

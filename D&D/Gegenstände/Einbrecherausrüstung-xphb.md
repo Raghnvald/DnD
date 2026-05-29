@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Burglar's Pack"
+linter-yaml-title-alias: "Burglar's Pack"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - Burglar's Pack
-linter-yaml-title-alias: Burglar's Pack
+  - "Burglar's Pack"
 ---
 # Burglar's Pack
 *Adventuring gear*  

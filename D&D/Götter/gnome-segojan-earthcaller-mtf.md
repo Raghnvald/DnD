@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Segojan Earthcaller
+linter-yaml-title-alias: Segojan Earthcaller
 tags:
   - Kompendium/Götter/Domäne/grave
   - Kompendium/Götter/Domäne/light

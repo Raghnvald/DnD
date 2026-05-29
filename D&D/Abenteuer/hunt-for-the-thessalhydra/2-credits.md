@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Credits
+linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/hftt
 aliases:
   - "Credits"
+  - Credits
 ---
 # Credits
 *Source: Hunt for the Thessalhydra* 

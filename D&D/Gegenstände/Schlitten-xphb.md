@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Sled
+linter-yaml-title-alias: Sled
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
   - Sled
-linter-yaml-title-alias: Sled
 ---
 # Sled
 *Vehicle (land)*  

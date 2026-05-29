@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Njord
+linter-yaml-title-alias: Njord
 tags:
   - Kompendium/Götter/Domäne/nature
   - Kompendium/Götter/Domäne/tempest

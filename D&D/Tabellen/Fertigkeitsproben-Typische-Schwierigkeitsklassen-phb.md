@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Checks; Typical Difficulty Classes
+linter-yaml-title-alias: Ability Checks; Typical Difficulty Classes
 tags:
   - Quelle/5e/phb
 aliases:

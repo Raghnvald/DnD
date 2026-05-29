@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mindblasting Cap
+linter-yaml-title-alias: Mindblasting Cap
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/pabtso
 aliases:
   - Mindblasting Cap
-linter-yaml-title-alias: Mindblasting Cap
 ---
 # Mindblasting Cap
 *Wondrous item, very rare (requires attunement)*  
