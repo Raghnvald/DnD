@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Atlas of Endless Horizons
+Bezeichnung: Atlas der endlosen Horizonte
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Atlas of Endless Horizons
 tags:
@@ -12,7 +12,7 @@ aliases:
 ---
 # Atlas of Endless Horizons
 *Wondrous item, rare (requires attunement by a wizard)*  
-![](/3-Mechanics/CLI/items/img/atlas-of-endless-horizons.webp#right)
+![](img/atlas-of-endless-horizons.webp#right)
 
 - **Weight**: 3.0 lbs.
 

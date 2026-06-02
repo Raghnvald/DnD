@@ -1,5 +1,5 @@
 ---
-Bezeichnung: +2 Arcane Grimoire
+Bezeichnung: Arkanes Grimoire +2
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: +2 Arcane Grimoire
 tags:

@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Bosheit
+Eigenschaften:
+  - Gift
 ---
 # Bosheit
 *Abenteuerausrüstung, Gift (Eingeatmet)*  

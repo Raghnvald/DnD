@@ -189,11 +189,11 @@ Ein Kultist von Vecna hat versucht, die Harfe aus der Grube zu holen, ist dabei 
 
 ##### Gitterfalle
 
-Ein Charakter, der das Gitter untersucht und einen SG-14-Intelligenzwurf (Nachforschungen) besteht, erkennt, dass das Gitter mit einer Falle versehen ist. Die Falle wird ausgelöst, wenn Druck von mehr als fünf Kilogramm auf das Gitter ausgeübt wird. Dann schnellen aus Nuten im Gitter vergiftete Klingen hervor und fügen dem Auslöser `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Hiebschaden zu. Wenn das Ziel der Falle eine Kreatur ist, muss sie einen SG-14-Konstitutionsrettungswurf bestehen, oder sie erleidet außerdem `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Giftschaden. Die Falle ist eine Minute nach dem Auslösen wieder scharf.
+Ein Charakter, der das Gitter untersucht und einen `SG-14-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, erkennt, dass das Gitter mit einer Falle versehen ist. Die Falle wird ausgelöst, wenn Druck von mehr als fünf Kilogramm auf das Gitter ausgeübt wird. Dann schnellen aus Nuten im Gitter vergiftete Klingen hervor und fügen dem Auslöser `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Hiebschaden zu. Wenn das Ziel der Falle eine Kreatur ist, muss sie einen `SG-14-Konstitutions-Rettungswurf` bestehen, oder sie erleidet außerdem `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Giftschaden. Die Falle ist eine Minute nach dem Auslösen wieder scharf.
 
 ##### Notizen
 
-Die Papiere enthalten Planungen zur Entführung der Adeligen Indrina Lamsettel aus Niewinter. Auch ein Grundriss ihres Anwesens ist dabei, ferner Übersichten über ihre Bewegungen sowie Mutmaßungen, dass sie ein wichtiges Geheimnis über Vogt Nieglut kennt. Auf dem Rand eines der Zettel steht „Ihre Geheimnisse werden ein würdiges Opfer sein." (Die Charaktere können mehr erfahren, wenn sieJerots Papiere in Bereich K25 untersuchen.)
+Die Papiere enthalten Planungen zur Entführung der Adeligen [[Indrina_Lamsettel-veor|Indrina Lamsettel]] aus Niewinter. Auch ein Grundriss ihres Anwesens ist dabei, ferner Übersichten über ihre Bewegungen sowie Mutmaßungen, dass sie ein wichtiges Geheimnis über Vogt Nieglut kennt. Auf dem Rand eines der Zettel steht „Ihre Geheimnisse werden ein würdiges Opfer sein." (Die Charaktere können mehr erfahren, wenn sie Jerots Papiere in Bereich K25 untersuchen.)
 
 ##### Schätze
 
@@ -288,7 +288,7 @@ Die Zahnräder hier sind verkantet und rühren sich nicht. Der Mechanismus, an d
 
 ##### Geheimtür
 
-Ein Zahnrad an der Nordwand hat keinerlei Kontakt zu anderen Elementen an der Wand. Eine Kreatur muss einen SG-14-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) bestehen, um dieses vereinzelte Zahnrad zu entdecken. Wenn es gedreht wird, lässt es einen Teil der Wand als Geheimtür zur Seite gleiten. Die Kultisten wissen nichts von dieser Tür. Der kleine Durchgang dahinter endet bei einer weiteren Geheimtür, die sich vom Tunnel aus leicht erkennen und öffnen lässt. Sie führt in Bereich K2.
+Ein Zahnrad an der Nordwand hat keinerlei Kontakt zu anderen Elementen an der Wand. Eine Kreatur muss einen `SG-14-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) bestehen, um dieses vereinzelte Zahnrad zu entdecken. Wenn es gedreht wird, lässt es einen Teil der Wand als Geheimtür zur Seite gleiten. Die Kultisten wissen nichts von dieser Tür. Der kleine Durchgang dahinter endet bei einer weiteren Geheimtür, die sich vom Tunnel aus leicht erkennen und öffnen lässt. Sie führt in Bereich K2.
 
 #### K10: Improvisierte Werkstatt
 
@@ -322,7 +322,7 @@ Unter den Uhrwerkteilen ist auch ein goldfarbenes Schwungrad, das nicht zu dem U
 
 #### K11: Umbertos Zelle
 
-Die einzige Tür zu diesem Raum ist von außen mit einem neuen, stabilen Vorhängeschloss verschlossen. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen SG-18-Geschicklichkeitswurf ([[01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) zu knacken. Die vier Magier des Kults in den Bereichen K14, K16 und K26 tragen jeweils einen Schlüssel zum Schloss bei sich. Wenn die Charaktere sich mit dem [[Wasserelementar-mm|Wasserelementar]] (siehe Bereich K7) oder Shanzezim (siehe Bereich K10) angefreundet haben, erklären beide sich gerne bereit, durch den Riss um die Tür zu fließen und sie von innen aufzusprengen - zur großen Überraschung von Umberto Noblin, dem Insassen des Raums. 
+Die einzige Tür zu diesem Raum ist von außen mit einem neuen, stabilen Vorhängeschloss verschlossen. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen `SG-18-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) zu knacken. Die vier Magier des Kults in den Bereichen K14, K16 und K26 tragen jeweils einen Schlüssel zum Schloss bei sich. Wenn die Charaktere sich mit dem [[Wasserelementar-mm|Wasserelementar]] (siehe Bereich K7) oder Shanzezim (siehe Bereich K10) angefreundet haben, erklären beide sich gerne bereit, durch den Riss um die Tür zu fließen und sie von innen aufzusprengen - zur großen Überraschung von Umberto Noblin, dem Insassen des Raums. 
 
 > [!readaloud] 
 > 
@@ -339,7 +339,7 @@ Umberto weiß, dass er von Kultisten von Vecna entführt wurde, weil er zu Niewi
 
 Um sich nicht zu sehr mit dem Albtraum seiner Entführung und Gefangenschaft zu befassen, hält Umberto sich daran fest, sich über das Essen zu beklagen. Wenn die Charaktere Umberto befreien und ihm etwas Leckeres geben, gibt er sich als Vecna-Historiker zu erkennen. Umberto isst besonders gerne magisch erzeugte Nahrung wie die Beeren des Zaubers [[Gute_Beeren-phb|Gute Beeren]]. 
 
-Sobald er seine Rolle als Vecna-Historiker enthüllt hat, spricht er über nichts anderes mehr. Er erzählt von seinem neuesten geheimen Forschungsprojekt: die uralte Rivalität zwischen Vecna und seinem verräterischen Feldherrn, dem Vampir Kas. Diese Forschung hat der Historiker bis jetzt für sich behalten, damit andere Gelehrte ihm nicht zuvorkommen - Umberto weiß, dass er nicht der schnellste Autor ist. Die umfangreichen Ausführungen des Gnoms sollten eher drollig als nervtötend sein. Zudem kann Umberto grundlegendes Geschichtswissen zu Vecna und Kas wie in der Einführung beschrieben mitteilen. 
+Sobald er seine Rolle als Vecna-Historiker enthüllt hat, spricht er über nichts anderes mehr. Er erzählt von seinem neuesten geheimen Forschungsprojekt: die uralte Rivalität zwischen Vecna und seinem verräterischen Feldherrn, dem Vampir [[Kas_der_Verräter-veor|Kas]]. Diese Forschung hat der Historiker bis jetzt für sich behalten, damit andere Gelehrte ihm nicht zuvorkommen - Umberto weiß, dass er nicht der schnellste Autor ist. Die umfangreichen Ausführungen des Gnoms sollten eher drollig als nervtötend sein. Zudem kann Umberto grundlegendes Geschichtswissen zu Vecna und Kas wie in der Einführung beschrieben mitteilen. 
 
 Umbertos geheimes Forschungsthema zählt als Geheimnis, für das die Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten. 
 
@@ -350,7 +350,7 @@ Umbertos geheimes Forschungsthema zählt als Geheimnis, für das die Regeln unte
 > An der Nordwand führen Rohrleitungen hinauf und verschwinden knapp unter der Decke durch die Wand. Eine unübersichtliche Mischung aus Zahnrädern und drei Handrädern ist mit ihnen verbunden. 
 ^065
 
-Mit den Rädern wird der Wasserdruck in den Leitungen gesteuert. Wie in Bereich K8 kann ein Charakter binnen einer Stunde - oder zehn Minuten, wenn er einen SG-14-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht oder Shanzezims Anweisungen folgt - durch Ausprobieren erkennen, wie der Wasserdruck sich erhöhen oder verringern lässt. 
+Mit den Rädern wird der Wasserdruck in den Leitungen gesteuert. Wie in Bereich K8 kann ein Charakter binnen einer Stunde - oder zehn Minuten, wenn er einen `SG-14-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht oder Shanzezims Anweisungen folgt - durch Ausprobieren erkennen, wie der Wasserdruck sich erhöhen oder verringern lässt. 
 
 ##### Verringerten Druck
 
@@ -358,7 +358,7 @@ Wird hier der Druck verringert, so hat dies keine Auswirkungen auf die Rohröffn
 
 ##### Erhöhter Druck
 
-Wenn die Charaktere sowohl hier als auch in Bereich K8 den Wasserdruck erhöhen, fließen die Becken in den Bereichen K14 und KlS über (weitere Informationen findest du im Text zu Bereich K8). 
+Wenn die Charaktere sowohl hier als auch in Bereich K8 den Wasserdruck erhöhen, fließen die Becken in den Bereichen K14 und K15 über (weitere Informationen findest du im Text zu Bereich K8). 
 
 #### K13: Mauerkreuzung
 
@@ -388,7 +388,7 @@ Kommt es hier zu Lärm, so alarmiert dies die beiden [[Magier-mm|Magier]], die i
 
 ##### Unheiliges Becken
 
-Die Kultisten haben das Becken entweiht, indem sie Vecnas Symbole darüber angebracht haben. Kreaturen, die aus dem Becken trinken und keine Anhänger Vecnas sind, müssen einen SG-17-Konstitutions-Rettungswurf bestehen, oder sie sind eine Stunde lang vergiftet. Kultisten, die einander verdächtigen, Vecna nicht treu genug ergeben zu sein, fordern sich gegenseitig heraus, aus dem Becken zu trinken, um ihren Glauben zu beweisen. Wenn die Charaktere als Anhänger Vecnas verkleidet erscheinen, verlangen die Kultisten, dass sie ihren Glauben auf diese Art unter Beweis stellen. 
+Die Kultisten haben das Becken entweiht, indem sie Vecnas Symbole darüber angebracht haben. Kreaturen, die aus dem Becken trinken und keine Anhänger Vecnas sind, müssen einen `SG-17-Konstitutions-Rettungswurf` bestehen, oder sie sind eine Stunde lang vergiftet. Kultisten, die einander verdächtigen, Vecna nicht treu genug ergeben zu sein, fordern sich gegenseitig heraus, aus dem Becken zu trinken, um ihren Glauben zu beweisen. Wenn die Charaktere als Anhänger Vecnas verkleidet erscheinen, verlangen die Kultisten, dass sie ihren Glauben auf diese Art unter Beweis stellen. 
 
 #### K15: Küche 
 
@@ -412,7 +412,7 @@ Die Magier kämpfen umgehend, wenn sie Eindringlinge erblicken, da sie nicht wol
 
 ##### Geheimtür
 
-Wenn eine Urne in der Südwand gedreht wird, gleitet ein Wandstück beiseite und gibt den Weg in einen Tunnel zwischen diesem Raum und Bereich K25 frei. Ein Charakter, der den Raum durchsucht und einen SG-15-Weisheitswurf ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Die Magier wissen von diesem Geheimgang, die Kultfanatiker jedoch nicht. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
+Wenn eine Urne in der Südwand gedreht wird, gleitet ein Wandstück beiseite und gibt den Weg in einen Tunnel zwischen diesem Raum und Bereich K25 frei. Ein Charakter, der den Raum durchsucht und einen `SG-15-Weisheitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Die Magier wissen von diesem Geheimgang, die Kultfanatiker jedoch nicht. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
 
 #### K17: Bibliothek 
 
@@ -433,7 +433,7 @@ Alle hier sind angespannt und dankbar für die Ablenkung, die ein Kampf bietet. 
 
 ##### Geheimtür
 
-Ein Regal schwingt zurück und gibt einen Geheimgang zu Bereich K19 frei. Ein Charakter, der die Regale untersucht und einen SG-15-Intelligenzwurf ([[Nachforschungen]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Alle Kultisten kennen diese Geheimtür. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
+Ein Regal schwingt zurück und gibt einen Geheimgang zu Bereich K19 frei. Ein Charakter, der die Regale untersucht und einen `SG-15-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Alle Kultisten kennen diese Geheimtür. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
 
 ##### Schätze
 
@@ -465,11 +465,11 @@ Die beiden [[Barlgura-mm|Barlguras]] hier arbeiten als Entführer des Kults. Zwi
 
 ##### Geheimtür
 
-Eine der Namenstafeln lässt sich schwenken und gibt einen Geheimgang zu Bereich K17 frei. Ein Charakter, der den Raum durchsucht und einen SG-17-Weisheitswurf ([[Wahrnehmung]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Die Dämonen wissen nichts von der Geheimtür, die Kultisten hingegen schon. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
+Eine der Namenstafeln lässt sich schwenken und gibt einen Geheimgang zu Bereich K17 frei. Ein Charakter, der den Raum durchsucht und einen `SG-17-Weisheitswurf` ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, entdeckt die Geheimtür und kriegt heraus, wie man sie öffnet. Die Dämonen wissen nichts von der Geheimtür, die Kultisten hingegen schon. Am anderen Ende des Tunnels befindet sich eine weitere Geheimtür, die man vom Tunnel aus problemlos entdecken und öffnen kann. 
 
 #### K20: Indrinas Zelle
 
-Die einzige offenkundige Tür dieses Raums ist außen mit einem stabilen neuen Vorhängeschloss versehen. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen SG-18-Geschicklichkeitswurf ([[Fingerfertigkeit]]) zu knacken. Jeder der vier Magier des Kults in den Bereichen K14, K16 und K26 trägt einen Schlüssel zu diesem Schloss bei sich. Wenn die Charaktere die Tür öffnen, lies Folgendes vor: 
+Die einzige offenkundige Tür dieses Raums ist außen mit einem stabilen neuen Vorhängeschloss versehen. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen `SG-18-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) zu knacken. Jeder der vier Magier des Kults in den Bereichen K14, K16 und K26 trägt einen Schlüssel zu diesem Schloss bei sich. Wenn die Charaktere die Tür öffnen, lies Folgendes vor: 
 
 > [!readaloud] 
 > 
@@ -482,13 +482,13 @@ Die Gefangene ist eine menschliche Schauspielerin namens [[Indrina_Lamsettel-veo
 
 ##### Geheimtür 
 
-Ein Teil der Südwand schwingt auf, wenn man dagegendrückt. Der kurze Korridor dahinter führt zur Latrine und stinkt noch schlimmer als Indrinas Zelle. Ein Charakter, der den Raum durchsucht und einen SG-18-Weisheitswurf ([[Wahrnehmung]]) besteht, entdeckt die Geheimtür. Indrina weiß nichts von dieser Tür. 
+Ein Teil der Südwand schwingt auf, wenn man dagegendrückt. Der kurze Korridor dahinter führt zur Latrine und stinkt noch schlimmer als Indrinas Zelle. Ein Charakter, der den Raum durchsucht und einen `SG-18-Weisheitswurf` ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, entdeckt die Geheimtür. Indrina weiß nichts von dieser Tür. 
 
 ##### Indrinas Geheimnis
 
 Indrina hat Informationen von fähigen Genealogen zusammengetragen und kann beweisen, dass Vogt Nieglut entgegen seiner Behauptungen nicht von Niewinters großem Helden abstammt, dem Fürsten Nasher Alagondar. Sie nimmt an, dass Nieglut sie deswegen zum Schweigen bringen will. 
 
-Wenn die Charaktere zugeben, dass sie für Vogt Nieglut arbeiten, sagt Indrina ihnen nicht, was sie weiß. Fragt ein Charakter, warum sie hier ist, ohne zu erkennen zu geben, wer die Charaktere beauftragt hat, so kann er einen SG-18-Charismawurf ([[Überzeugen]]) ausführen. Der Wurf ist im Vorteil, wenn Indrina Parfüm erhält oder anderweitig vom üblen Gestank der Zelle befreit wird. Bei einem Erfolg offenbart Indrina ihr geheimes Wissen. 
+Wenn die Charaktere zugeben, dass sie für Vogt Nieglut arbeiten, sagt Indrina ihnen nicht, was sie weiß. Fragt ein Charakter, warum sie hier ist, ohne zu erkennen zu geben, wer die Charaktere beauftragt hat, so kann er einen `SG-18-Charismawurf` ([[Fertigkeiten-phb#Überzeugen|Überzeugen]]) ausführen. Der Wurf ist im Vorteil, wenn Indrina Parfüm erhält oder anderweitig vom üblen Gestank der Zelle befreit wird. Bei einem Erfolg offenbart Indrina ihr geheimes Wissen. 
 
 Indrinas Entdeckung zählt als Geheimnis, für das die Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten. Vogt Nieglut tut ihre Anschuldigung beiläufig ab, wenn sie ihm später mitgeteilt wird, und beharrt darauf, dass die Frau nichts beweisen kann. 
 
@@ -512,7 +512,7 @@ Die Kultisten haben beim Plündern dieses Raums zwei [[Todesalb-mm|Todesalben]] 
 
 ##### Geheimtür 
 
-Die Nordwand dieses abstoßenden Raums schwingt zur Seite, wenn auf einen bestimmten Stein gedrückt wird. Ein Charakter, der den Raum untersucht und einen SG-15-Intelligenzwurf ([[Nachforschungen]]) besteht, entdeckt die Geheimtür. Alle Kultisten kennen diese Geheimtür und öffnen sie dann und wann, um den Gestank in Indrinas Zelle (Bereich K20) zu lassen. 
+Die Nordwand dieses abstoßenden Raums schwingt zur Seite, wenn auf einen bestimmten Stein gedrückt wird. Ein Charakter, der den Raum untersucht und einen `SG-15-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt die Geheimtür. Alle Kultisten kennen diese Geheimtür und öffnen sie dann und wann, um den Gestank in Indrinas Zelle (Bereich K20) zu lassen. 
 
 #### K23: Korridor
 
@@ -525,7 +525,7 @@ Die Nordwand dieses abstoßenden Raums schwingt zur Seite, wenn auf einen bestim
 
 ##### Ein statuiertes Exempel
 
-Raina Kairls wurde erwischt, wie sie plante, den Kult an die Wachen von Niewinter zu verraten.Jerot hat das Opferritual bei Raina erstmalig ausgeführt und hält sie für eine nützliche Erinnerung daran, welchen Preis ein Verrat hat. 
+Raina Kairls wurde erwischt, wie sie plante, den Kult an die Wachen von Niewinter zu verraten. Jerot hat das Opferritual bei Raina erstmalig ausgeführt und hält sie für eine nützliche Erinnerung daran, welchen Preis ein Verrat hat. 
 
 #### K24: Leere Grüfte
 
@@ -555,11 +555,11 @@ Jerot ist damit beschäftigt, das Ritual zu verfeinern, das in der Opfergalerie 
 
 Jerots Notizen zum Ritual beschreiben, wie man einem Opfer seine Geheimnisse und sein Wissen entreißt und Vecna darbringt. Sie schildern den ersten Durchlauf des Rituals, bei dem eine abtrünnige Kultistin das Opfer war. Für die weiteren Durchläufe hat Jerot Bürger von Niewinter ausgewählt, von denen er glaubt, dass sie besonders bedeutsame Geheimnisse hüten. Solche Geheimnisse sind die besten Opfergaben der Kultisten für Vecna. 
 
-Ein Charakter, der Jerots Notizen untersucht und einen SG-14-Intelligenzwurf (Nachforschungen) besteht, stößt auf die Erwähnung magischer Phänomene namens „Dämmerrisse", die in Niewinter schon einige Male aufgetreten sind. Aus den Notizen geht hervor, dass diese magischen Tore zu einer Ebene führen, die von Untoten bevölkert ist, aber es wird deutlich, dass Jerot nicht viel mehr darüber weiß. Offenbar will er nach Abschluss seiner aktuellen Experimente, Vecna Geheimnisse darzubringen, mehr über das Phänomen herausfinden.  
+Ein Charakter, der Jerots Notizen untersucht und einen `SG-14-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, stößt auf die Erwähnung magischer Phänomene namens „Dämmerrisse", die in Niewinter schon einige Male aufgetreten sind. Aus den Notizen geht hervor, dass diese magischen Tore zu einer Ebene führen, die von Untoten bevölkert ist, aber es wird deutlich, dass Jerot nicht viel mehr darüber weiß. Offenbar will er nach Abschluss seiner aktuellen Experimente, Vecna Geheimnisse darzubringen, mehr über das Phänomen herausfinden.  
 
 ##### Geheimtür 
 
-Ein Wandbehang, der einen fressenden Ghul darstellt, tarnt eine geheime Schiebetür, die zu einem kurzen Tunriel zwischen diesem Raum und Bereich K16 führt. Ein Charakter, der hinter dem Wandbehang nachsieht und einen SG-10-Weisheitswurf ([[Wahrnehmung]]) besteht, entdeckt die Geheimtür. Im Geheimgang kann ein Charakter die Geheimtür am anderen Ende problemlos entdecken und öffnen. 
+Ein Wandbehang, der einen fressenden Ghul darstellt, tarnt eine geheime Schiebetür, die zu einem kurzen Tunriel zwischen diesem Raum und Bereich K16 führt. Ein Charakter, der hinter dem Wandbehang nachsieht und einen `SG-10-Weisheitswurf` ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, entdeckt die Geheimtür. Im Geheimgang kann ein Charakter die Geheimtür am anderen Ende problemlos entdecken und öffnen. 
 
 #### K26: Opfergalerie 
 
@@ -572,13 +572,13 @@ Ein Wandbehang, der einen fressenden Ghul darstellt, tarnt eine geheime Schiebet
 
 Der Boden dieses Raums ist drei Meter niedriger als die Galerien. 
 
-Hier halten zahlreiche Kultisten ein langwieriges Ritual ab, um Vecna die Geheimnisse des Elfen Eldon Schlüsselwart zu opfern. Die Ritualleiterin ist eine hochgewachsene, stolze, neutral böse [[Magier-mm|Magierin]] namens Kendri Nex. Die fünf [[Nothic-mm|Nothics]] bei ihr greifen Eindringlinge an, sobald sie diese sehen. Kendri setzt ihre Magie defensiv ein und zieht sich notfalls auf den Boden des Raums zurück. Sie trägt Schlüssel zu allen Gefängniszellen (Bereiche KS, Kll, Kl8 und K20) bei sich, aber wenn die Charaktere die anderen Gefangenen jetzt noch nicht gerettet haben, kommen sie vermutlich nicht mehr dazu, da diese Begegnung wahrscheinlich damit endet, dass sie durch einen Ebenenriss gezogen werden. 
+Hier halten zahlreiche Kultisten ein langwieriges Ritual ab, um Vecna die Geheimnisse des Elfen Eldon Schlüsselwart zu opfern. Die Ritualleiterin ist eine hochgewachsene, stolze, neutral böse [[Magier-mm|Magierin]] namens Kendri Nex. Die fünf [[Nothic-mm|Nothics]] bei ihr greifen Eindringlinge an, sobald sie diese sehen. Kendri setzt ihre Magie defensiv ein und zieht sich notfalls auf den Boden des Raums zurück. Sie trägt Schlüssel zu allen Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich, aber wenn die Charaktere die anderen Gefangenen jetzt noch nicht gerettet haben, kommen sie vermutlich nicht mehr dazu, da diese Begegnung wahrscheinlich damit endet, dass sie durch einen Ebenenriss gezogen werden. 
 
 Die sechs neutral bösen [[Kultfanatiker-mm|Kultfanatiker]] auf der östlichen Galerie kämpfen nicht, da sie das komplizierte Ritual nicht unterbrechen wollen. Sie singen und gestikulieren weiter. 
 
 ##### Der Käfig 
 
-Eldon ist ein rechtschaffen guter Elf und ein [[Priester-mm|Priester]] des Deneir, Gott der Schriften und des Wissens. Der Elf kann keine Zauber wirken, solange er sich im Käfig befindet. Dieser hängt an einer stabilen Kette, die mit der Decke verbunden ist und sechs Meter über dem Boden endet. Die Tür an der Seite des Käfigs ist zugeklinkt, aber nicht verschlossen. Ein Charakter, der den Käfig erreicht, kann die Tür mit einer Aktion öffnen. 
+Eldon ist ein rechtschaffen guter Elf und ein [[Priester-mm|Priester]] des [[Deneir|Deneir]], Gott der Schriften und des Wissens. Der Elf kann keine Zauber wirken, solange er sich im Käfig befindet. Dieser hängt an einer stabilen Kette, die mit der Decke verbunden ist und sechs Meter über dem Boden endet. Die Tür an der Seite des Käfigs ist zugeklinkt, aber nicht verschlossen. Ein Charakter, der den Käfig erreicht, kann die Tür mit einer Aktion öffnen. 
 
 #### Ende des Kampfes
 
@@ -606,7 +606,7 @@ Die Charaktere erhalten jeweils eine metaphysische Verbindung mit Vecna, die sic
 
 > [!readaloud] 
 > 
-> **Verbindung mit Vecna.** Du erhältst eine besondere Intuition für Geheimnisse. Du bist bei Weisheitswürfen ([[Motiv erkennen]]) im Vorteil. Außerdem kannst du eine Aktion verwenden, um Unsichtbares sehen zu wirken, ohne einen Zauberplatz zu verbrauchen. Wirkst du den Zauber auf diese Art, so kannst du dies erst nach einer langen Rast erneut tun. 
+> **Verbindung mit Vecna.** Du erhältst eine besondere Intuition für Geheimnisse. Du bist bei Weisheitswürfen ([[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) im Vorteil. Außerdem kannst du eine Aktion verwenden, um Unsichtbares sehen zu wirken, ohne einen Zauberplatz zu verbrauchen. Wirkst du den Zauber auf diese Art, so kannst du dies erst nach einer langen Rast erneut tun. 
 ^097
 
 Wenn die Charaktere diese Verbindung erhalten haben, erinnere sie an die Regeln unter „Die Macht der Geheimnisse". Gestatte ihnen, bisher erworbene Geheimnisse auf diese Art zu verwenden. 
@@ -617,17 +617,17 @@ Wenn die Charaktere diese Verbindung erhalten haben, erinnere sie an die Regeln 
 
 Immernacht ist eine triste Metropole im Shadowfell. Ihre Geografie entspricht der von Niewinter, allerdings ist Immernacht das düstere Gegenstück Niewinters. Hier scheint niemals die Sonne, und von der Lava, die anstelle des niewinterischen Flusses durch die Stadt fließt, steigen dichte Aschewolken auf. 
 
-Während Niewinter von lebendigen Kreaturen bevölkert ist, die auf eine bessere Zukunft hinarbeiten, ist Immernacht eine Stadt der Untaten, die über einander und über Reisende herfallen - allen voran Ghule und Vampire. 
+Während Niewinter von lebendigen Kreaturen bevölkert ist, die auf eine bessere Zukunft hinarbeiten, ist Immernacht eine Stadt der Untoten, die über einander und über Reisende herfallen - allen voran Ghule und Vampire. 
 
 Immernacht ist ein Handelsknotenpunkt im Shadowfell und hat zahlreiche Märkte, darunter den gut besuchten Leichenmarkt. Auf diesem verkaufen untote Händler die Leichen und das Blut der Toten - manchmal sind es ganz frische Leichen. 
 
 ### Erwachen in Immernacht
 
-Da die Charaktere sich unter dem Friendhof von Niewinter befanden, als sie nach Immernacht gerieten, befinden sie sich nun unter dem Friedhof von Immernacht. 
+Da die Charaktere sich unter dem Friedhof von Niewinter befanden, als sie nach Immernacht gerieten, befinden sie sich nun unter dem Friedhof von Immernacht. 
 
 Jeder Charakter erscheint in einem offenen Sarg. Die Särge stehen unregelmäßig und nicht weit voneinander entfernt in einer großen, drei Meter tiefen Grabaushebung. 
 
-Zwölf [[Ghul-mm|Ghule]] treiben sich in der Nähe dieser Grabaushebung herum. Die Charaktere in der Grube hören die hungrigen Schreie und das Gegeifer der anrückenden Ghule. Du kannst die Spannung noch weiter steigern, indem du die genaue Anzahl der Ghule geheim hältst, bis ein Charakter aus der Grube schaut und sich umblickt. Der Grund der Grube mit den Särgen ist schwieriges Gelände. Die Wände der Grube sind steil und glitschig. Der Aufstieg erfordert einen erfolgreichen SG-10-Stärkewurf ([[Athletik]]). Hinab gelangt man allerdings ohne Wurf. 
+Zwölf [[Ghul-mm|Ghule]] treiben sich in der Nähe dieser Grabaushebung herum. Die Charaktere in der Grube hören die hungrigen Schreie und das Gegeifer der anrückenden Ghule. Du kannst die Spannung noch weiter steigern, indem du die genaue Anzahl der Ghule geheim hältst, bis ein Charakter aus der Grube schaut und sich umblickt. Der Grund der Grube mit den Särgen ist schwieriges Gelände. Die Wände der Grube sind steil und glitschig. Der Aufstieg erfordert einen erfolgreichen `SG-10-Stärkewurf` ([[Fertigkeiten-phb#Athletik|Athletik]]). Hinab gelangt man allerdings ohne Wurf. 
 
 #### Eldons neue Gefangenschaft
 
@@ -780,7 +780,7 @@ Nuumi ruht in einem BegräbnisAlkoven, in den der Leichnam einer mittelgroßen K
 > In diesem Raum stehen zwei Steinsärge. Sie wurden aufgebrochen, und der Boden ist mit Trümmern und Staub bedeckt. Eine Kreatur mit zu vielen Armen und Stacheln anstelle von Händen tippt an die Wände des Raums.
 ^0b4
 
-Die hier bestatteten Dolindar-Geschwister wurden in zwei [[Verlorener_Kummergeschworener-mpmm|Verlorene Kummergeschworene ]](siehe Anhang A) verwandelt. Eine Kummergeschworene ist zu sehen, kreischt wütend und greift jeden an, den sie sehen kann. Der zweite Kummergeschworene ruht in einem der kaputten Särge und ist zunächst nicht zu sehen, steht seiner Schwester aber rasch im Kampf bei. Die Kummergeschworenen kämpfen, bis sie zerstört werden.
+Die hier bestatteten Dolindar-Geschwister wurden in zwei [[Verlorener_Kummergeschworener-mpmm|Verlorene Kummergeschworene ]] (siehe Anhang A) verwandelt. Eine Kummergeschworene ist zu sehen, kreischt wütend und greift jeden an, den sie sehen kann. Der zweite Kummergeschworene ruht in einem der kaputten Särge und ist zunächst nicht zu sehen, steht seiner Schwester aber rasch im Kampf bei. Die Kummergeschworenen kämpfen, bis sie zerstört werden.
 
 ##### Schätze
 
@@ -825,9 +825,9 @@ Die Tür ist mit einem Rätsel versiegelt: Die Buchstabenfelder müssen in der r
 
 **H** in HEIMAT
 
-Wenn die fünf Wörter in der falschen Reihenfolge in die Wand sinken oder falsche Buchstaben gedrückt werden, ist eine Welle schmerzlicher Einsamkeit spürbar, und alle versenkten Wörter schnellen wieder aus der Wand.Jede Kreatur im Raum muss einen SG-16-Charismarettungswurf ausführen. Scheitert der Wurf, so erleidet sie `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychischen Schaden, anderenfalls die Hälfte. Wenn die Charaktere dieses Rätsel nicht alleine lösen können, gibt Eldon ihnen Hinweise. Dabei hält er sich in sicherer Entfernung von der Falle und erleidet keinen Schaden, wenn sie ausgelöst wird. 
+Wenn die fünf Wörter in der falschen Reihenfolge in die Wand sinken oder falsche Buchstaben gedrückt werden, ist eine Welle schmerzlicher Einsamkeit spürbar, und alle versenkten Wörter schnellen wieder aus der Wand. Jede Kreatur im Raum muss einen `SG-16-Charisma-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet sie `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychischen Schaden, anderenfalls die Hälfte. Wenn die Charaktere dieses Rätsel nicht alleine lösen können, gibt Eldon ihnen Hinweise. Dabei hält er sich in sicherer Entfernung von der Falle und erleidet keinen Schaden, wenn sie ausgelöst wird. 
 
-Wenn die Felder erstmalig falsch gedrückt werden, ist ein kleiner Mechanismus unter dem Satz „FERN UNSERER HEIMAAT SCHLAFEND" sichtbar. Dieser Mechanismus ist ein Schloss. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen SG-16Geschicklichkeitswurf (Fingerfertigkeit) zu knacken. Dies hat den gleichen Effekt wie das Lösen des Rätsels und gewährt Zugang zum Bereich G6. 
+Wenn die Felder erstmalig falsch gedrückt werden, ist ein kleiner Mechanismus unter dem Satz „FERN UNSERER HEIMAT SCHLAFEND" sichtbar. Dieser Mechanismus ist ein Schloss. Ein Charakter mit Diebeswerkzeug kann als Aktion versuchen, das Schloss damit und mit einem erfolgreichen `SG-16-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) zu knacken. Dies hat den gleichen Effekt wie das Lösen des Rätsels und gewährt Zugang zum Bereich G6. 
 
 #### B6: Kammer der Matriarchin
 

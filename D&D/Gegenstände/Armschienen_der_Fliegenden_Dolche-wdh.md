@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bracer of Flying Daggers
+Bezeichnung: Armschienen der Fliegenden Dolche
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Bracer of Flying Daggers
 tags:

@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 1 SM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Huhn
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

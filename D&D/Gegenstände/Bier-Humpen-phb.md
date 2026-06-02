@@ -5,20 +5,19 @@ Eigenschaften:
   - /
 Kst.: 4 KM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Bier (Humpen)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Ale (Mug)
   - Bier (Humpen)
+  - Ale (Mug)
 ---
 # Bier (Humpen)
 *Essen und Trinken*  
 
-- **Gewicht**: n/v
-- **Kosten**: 4 Kupfermünzen
+- **Kosten**: 4 KM
 
-*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 158. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

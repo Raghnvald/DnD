@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 5 SM
 Gew.: 0,5 kg
-status: WIP
+status: completed
 linter-yaml-title-alias: Kupfer
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

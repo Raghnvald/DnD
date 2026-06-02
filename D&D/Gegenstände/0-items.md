@@ -554,7 +554,7 @@ aliases:
 - [Illuminator's Tattoo](Tätowierung_des-Erleuchtens-tce.md)
 - [Immovable Rod](./immovable-rod-xdmg.md)
 - [Infernal Puzzle Box](Höllische%20Rätselkiste-bgdia.md)
-- [Infernal Tack](Infernales%20Zaumzeug-mtf.md)
+- [Infernal Tack](Infernales_Zaumzeug-mtf.md)
 - [Ink Pen](./ink-pen-xphb.md)
 - [Ink](./ink-xphb.md)
 - [Instrument of Illusions](./instrument-of-illusions-xdmg.md)

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: +2 Amulet of the Devout
+Bezeichnung: Amulett der Hingabe +2
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: +2 Amulet of the Devout
 tags:

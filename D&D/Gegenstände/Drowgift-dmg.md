@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Drow Poison
+Eigenschaften:
+  - Gift
 ---
 # Drow Poison
 *Adventuring gear, poison (injury)*  

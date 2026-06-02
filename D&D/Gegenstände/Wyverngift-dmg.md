@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wyvern Poison
+Eigenschaften:
+  - Gift
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  

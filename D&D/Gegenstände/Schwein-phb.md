@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 3 GM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Schwein
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

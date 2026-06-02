@@ -23,11 +23,11 @@ aliases:
 *Zauberfokus, druidisch*  
 <img src="Symbolik/Gegenstände.webp" align="right" width="150">
 
-- **Damage**:
+- **Schaden**:
   - Einhändig: 1d6 Wucht
   - Zweihändig: 1d8 Wucht
 - **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
 - **Kosten**: 5 GM
 - **Gewicht**: 2,0 kg.
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

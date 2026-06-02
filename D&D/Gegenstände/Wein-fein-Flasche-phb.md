@@ -1,22 +1,22 @@
 ---
-Bezeichnung: Fine Wine (bottle)
+Bezeichnung: Feiner Wein (Flasche)
 Kategorie: Essen und Trinken
 Eigenschaften:
   - /
 Kst.: 10 GM
 Gew.: /
-status: WIP
-linter-yaml-title-alias: Fine Wine (bottle)
+status: completed
+linter-yaml-title-alias: Feiner Wein (Flasche)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Fine Wine (bottle)
+  - Feiner Wein (Flasche)
 ---
-# Fine Wine (bottle)
-*Food and drink*  
+# Feiner Wein (Flasche)
+*Essen und Trinken*  
 
-- **Cost**: 10 gp
+- **Kosten**: 10 GM
 
-*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 158. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

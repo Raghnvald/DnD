@@ -1,0 +1,39 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - '!file.basename.containsAny("-xdmg", "-xphb", "-egw", "-ggr", "-bmt", "-idrotf", "-tdcsr", "-pabtso", "-cos", "-bgdia", "-erlw")'
+views:
+  - type: table
+    name: Gewöhnlich
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit/gewöhnlich")
+  - type: table
+    name: Ungewöhnlich
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit/ungewöhnlich")
+  - type: table
+    name: Selten
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit/selten")
+  - type: table
+    name: Sehr selten
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit/sehr_selten")
+  - type: table
+    name: Legendär
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit/legendär")
+  - type: table
+    name: Artefakt
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit/Artefakt")

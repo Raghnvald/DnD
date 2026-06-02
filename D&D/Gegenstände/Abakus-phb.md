@@ -12,7 +12,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Abacus
   - Abakus
 ---
 # Abakus

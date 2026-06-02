@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Astral Shard
+Bezeichnung: Astrale Scherbe
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Astral Shard
 tags:

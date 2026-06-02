@@ -12,7 +12,7 @@ aliases:
 ---
 # Bigby's Beneficent Bracelet
 *Wondrous item, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/bigbys-beneficent-bracelet.webp#right)
+![](img/bigbys-beneficent-bracelet.webp#right)
 
 This gorgeous jewelry piece, crafted by the wizard Bigby himself, consists of four gold rings attached via delicate chains to a wrist cuff studded with sapphires and diamonds.
 

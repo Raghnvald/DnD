@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Midnight Tears
+Eigenschaften:
+  - Gift
 ---
 # Midnight Tears
 *Adventuring gear, poison (ingested)*  

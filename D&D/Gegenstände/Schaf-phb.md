@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 2 GM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Schaf
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Astromancy Archive
+Bezeichnung: Archiv der Astromantik
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Astromancy Archive
 tags:

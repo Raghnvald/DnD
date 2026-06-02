@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 15 GM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Ochse
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

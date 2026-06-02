@@ -1,22 +1,22 @@
 ---
-Bezeichnung: Loaf of Bread
+Bezeichnung: Brotlaib
 Kategorie: Essen und Trinken
 Eigenschaften:
   - /
 Kst.: 2 KM
 Gew.: /
-status: WIP
-linter-yaml-title-alias: Loaf of Bread
+status: completed
+linter-yaml-title-alias: Brotlaib
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Loaf of Bread
+  - Brotlaib
 ---
-# Loaf of Bread
-*Food and drink*  
+# Brotlaib
+*Essen und Trinken*  
 
-- **Cost**: 2 cp
+- **Kosten**: 2 KM
 
-*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 158. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

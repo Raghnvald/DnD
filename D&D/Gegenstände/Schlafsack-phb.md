@@ -1,25 +1,25 @@
 ---
-Bezeichnung: Bedroll
+Bezeichnung: Schlafsack
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 1 GM
 Gew.: 3,5 kg
-status: WIP
-linter-yaml-title-alias: Bedroll
+status: completed
+linter-yaml-title-alias: Schlafsack
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Bedroll
+  - Schlafsack
 Aktiv: false
 Menge: "1"
 ---
-# Bedroll
-*Adventuring gear*  
+# Schlafsack
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 7.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 3,5 kg.
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quellen: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

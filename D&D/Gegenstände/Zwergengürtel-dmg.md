@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Belt of Dwarvenkind
+Bezeichnung: Zwergengürtel
 Kategorie: Wundersamer Gegenstand 
 linter-yaml-title-alias: Belt of Dwarvenkind
 tags:
@@ -12,7 +12,7 @@ aliases:
 ---
 # Belt of Dwarvenkind
 *Wondrous item, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/belt-of-dwarvenkind.webp#right)
+![](img/belt-of-dwarvenkind.webp#right)
 
 - **Eigenschaften**: Erfordert Einstimmung
 - **Kosten**: 6.000 Goldmünzen

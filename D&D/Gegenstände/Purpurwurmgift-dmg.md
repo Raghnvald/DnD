@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Purple Worm Poison
+Eigenschaften:
+  - Gift
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

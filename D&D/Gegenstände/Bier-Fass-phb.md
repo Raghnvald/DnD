@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 2 SM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Bier (Faß, 4L)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -18,7 +18,6 @@ aliases:
 # Bier (Faß, 4L)
 *Essen und Trinken*  
 
-- **Gewicht**: n/v
-- **Kosten**: 2 Silbermünzen
+- **Kosten**: 2 SM
 
-*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 158. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 5 GM
 Gew.: 0,5 kg
-status: WIP
+status: completed
 linter-yaml-title-alias: Silber
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

@@ -1,32 +1,32 @@
 ---
-Bezeichnung: The Outlands and Sigil; Gate-Towns of the Outlands
+Bezeichnung: Die Fremde und Sigil; Portalstädte der Fremde
 linter-yaml-title-alias: The Outlands and Sigil; Gate-Towns of the Outlands
 tags:
   - Quelle/5e/dmg
 aliases:
   - The Outlands and Sigil; Gate-Towns of the Outlands
 ---
-# The Outlands and Sigil; Gate-Towns of the Outlands
-*Source: Dungeon Master's Guide p. 67* 
+# Die Fremde und Sigil; Portalstädte der Fremde
+*Quelle: Spielleiterhandbuch S. 67* 
 
-**Gate-Towns of the Outlands**
+**Portalstädte der Fremde**
 
-| Town | Gate Destination |
+| Stadt | Portalziel |
 |------|------------------|
-| Excelsior | The Seven Heavens of Mount Celestia |
-| Tradegate | The Twin Paradises of Bytopia |
-| Ecstasy | The Blessed Fields of Elysium |
-| Faunel | The Wilderness of the Beastlands |
-| Sylvania | The Olympian Glades of Arborea |
-| Glorium | The Heroic Domains of Ysgard |
-| Xaos | The Ever-Changing Chaos of Limbo |
-| Bedlam | The Windswept Depths of Pandemonium |
-| Plague-Mort | The Infinite Layers of the Abyss |
-| Curst | The Tarterian Depths of Carceri |
-| Hopeless | The Gray Waste of Hades |
-| Torch | The Bleak Eternity of Gehenna |
-| Ribcage | The Nine Hells of Baator |
-| Rigus | The Infinite Battlefield of Acheron |
-| Automata | The Clockwork Nirvana of Mechanus |
-| Fortitude | The Peaceable Kingdoms of Arcadia |
+| Excelsior | Die sieben Himmel des Berges Celestia |
+| Handelstor | Die Zwillingsparadisse von Bystopia |
+| Ekstase | Die Gesegneten Felder von Elysium |
+| Faunel | Die Wildnis der Biestlande |
+| Sylvania | Die Olympischen Lichtungen von Arborea |
+| Glorium | Die heroische Domäne von Ysgard |
+| Xaos | Der lmmerwandelnde Limbus |
+| Bedlam | Die Windumtosten Tiefen von Pandämonium |
+| Pest-Mort | Die unendlichen Schichten des Abyss |
+| Curst | Die Tarterianischen Tiefen von Carceri  |
+| Hoffnungslosigkeit | Die graue Einöde des Hades |
+| Fackel | Die Trostlose Ewigkeit von Gehenna |
+| Rippenbogen | Die Neun Höllen von Baator |
+| Rigus | Das Unendliche Schlachtfeld von Acheron |
+| Automata | Das Uhrwerk-Nirvana von Mechanus  |
+| Zähigkeit | Das Friedfertige Königreich von Arcadia |
 ^gate-towns-of-the-outlands

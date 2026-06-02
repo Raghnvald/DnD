@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Truth Serum
+Eigenschaften:
+  - Gift
 ---
 # Truth Serum
 *Adventuring gear, poison (ingested)*  

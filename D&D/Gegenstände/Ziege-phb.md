@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 1 GM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Ziege
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

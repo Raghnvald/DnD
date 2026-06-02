@@ -21,4 +21,4 @@ aliases:
 
 Ein druidischer Fokus kann ein Mistel- oder Stechpalmenzweig sein, ein Stab oder Zepter aus Eibe oder einem anderen besonderen Holz, ein Stab, der ganz aus einem lebenden Baum gezogen wurde, oder ein Totemobjekt mit Federn, Fell, Knochen und Zähnen von heiligen Tieren. Ein Druide kann ein solches Objekt als Zauberfokus verwenden.
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

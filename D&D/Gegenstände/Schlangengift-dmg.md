@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Serpent Venom
+Eigenschaften:
+  - Gift
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

@@ -1,22 +1,22 @@
 ---
-Bezeichnung: Common Wine (pitcher)
+Bezeichnung: Gewöhnlicher Wein (Karaffe)
 Kategorie: Essen und Trinken
 Eigenschaften:
   - /
 Kst.: 2 SM
 Gew.: /
-status: WIP
-linter-yaml-title-alias: Common Wine (pitcher)
+status: completed
+linter-yaml-title-alias: Gewöhnlicher Wein (Karaffe)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Common Wine (pitcher)
+  - Gewöhnlicher Wein (Karaffe)
 ---
-# Common Wine (pitcher)
-*Food and drink*  
+# Gewöhnlicher Wein (Karaffe)
+*Essen und Trinken*  
 
-- **Cost**: 2 sp
+- **Kosten**: 2 SM
 
-*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 158. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

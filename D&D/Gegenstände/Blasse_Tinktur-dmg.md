@@ -11,6 +11,11 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Pale Tincture
+Eigenschaften:
+  - Gift
+  - |-
+    
+    *Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 ---
 # Pale Tincture
 *Adventuring gear, poison (ingested)*  

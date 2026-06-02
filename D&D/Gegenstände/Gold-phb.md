@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 50 GM
 Gew.: 0,5 kg
-status: WIP
+status: completed
 linter-yaml-title-alias: Gold
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

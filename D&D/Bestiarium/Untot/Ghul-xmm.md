@@ -14,23 +14,23 @@ tags:
 aliases:
   - Ghoul
 ---
-# [Ghoul](3-Mechanics\CLI\bestiary\undead/ghoul-xmm.md)
-*Source: Monster Manual (2024) p. 132. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+# Ghul
+*Quelle: Monsterhandbuch (2024) p. 101. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-Ghouls rise from the bodies of cannibals and villains with depraved hungers. They form packs out of shared voracity.
+Ghule erheben sich aus den Leichen von Kannibalen jnd Halunken mit verkommenen Gelüsten. Sie schließen sich zu Rudeln zusammen, um gemeinsam ihre Gier zu stillen
 
-## Ghouls
+## Ghule
 
-*Eaters of the Dead*
+*Fresser der Toten*
 
-- **Habitat.** Swamp, Underdark, Urban  
-- **Treasure.** Any  
+- **Habitat.** Stadt, Sumpf, Unterreich  
+- **Schätze.** Beliebig
 
-Packs of ghouls haunt the rotten corners of the world, ravenously hunting for corpses and those soon to be corpses. These gaunt, animate cadavers with unnaturally long tongues dwell in catacombs and ruins where they devour the contents of graves and paralyze foes with vicious claws.
+In den verrotteten Ecken der Welt jagen Rudel von Ghulen gierig nach Leichen und Kreaturen, die bald Leichen sein werden. Ghule sind hagere belebte Kadaver mit unnatürlich langen Zungen. Sie hausen in Katakomben und Ruinen, wo sie den Inhalt von Gräbern verschlingen. Mit ihren üblen Klauen können sie Kreaturen lähmen.
 
-> [!quote]  
+> [!quote] Anrufung von Doresain, König der Ghule
 > 
-> On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
+> Auf einer Ebene voller Zähne in einem Tempel aus Dreck verschwendet der hungernde König keinen Bissen. Jeder Sarg ist ein Festmahl. Jeder Grabstein ein Tablett. Dies ist die Zeit des Schlemmens!
 
 ```statblock
 "name": "Ghoul (XMM)"

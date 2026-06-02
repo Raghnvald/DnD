@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 1 GM
 Gew.: 0,5 kg
-status: WIP
+status: completed
 linter-yaml-title-alias: Ingwer
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

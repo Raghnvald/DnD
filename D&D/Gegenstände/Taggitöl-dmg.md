@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Oil of Taggit
+Eigenschaften:
+  - Gift
 ---
 # Oil of Taggit
 *Adventuring gear, poison (contact)*  

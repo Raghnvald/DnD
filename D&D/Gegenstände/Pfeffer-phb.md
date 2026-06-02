@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Pepper
+Bezeichnung: Pfeffer
 Kategorie: Handelsgut
 Eigenschaften:
   - /
 Kst.: 2 GM
 Gew.: 0,5 kg
-status: WIP
-linter-yaml-title-alias: Pepper
+status: completed
+linter-yaml-title-alias: Pfeffer
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Pepper
+  - Pfeffer
 ---
-# Pepper
+# Pfeffer
 *Handelsgut*  
 
 - **Kosten**: 2 GM

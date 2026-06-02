@@ -24,4 +24,4 @@ aliases:
 
 Ein Kristall, eine Rute, ein speziell konstruierter Stab, ein zauberstabähnliches Stück Holz oder ein ähnlicher Gegenstand - der dazu dient, die Macht arkaner Zauber zu kanalisieren. Ein Magier, Hexenmeister oder Zauberer kann einen solchen Gegenstand als Zauberfokus verwenden.
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

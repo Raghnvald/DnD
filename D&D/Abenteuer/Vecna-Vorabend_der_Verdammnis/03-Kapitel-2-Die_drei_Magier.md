@@ -18,7 +18,7 @@ Seit den Erlebnissen der Charaktere auf dem Nimmertod-Friedhof ist einige Zeit v
 
 Dieses Kapitel beginnt einige Zeit nach dem Abenteuer der Charaktere in Niewinter - nach deinem Ermessen Tage, Monate oder Jahre. Wenn du mit den Spielern besprochen hast, was die Charaktere nach den Eskapaden in Niewinter getrieben haben, verschlägt es die Helden abrupt in ein mysteriöses Heiligtum in Sigil, der Stadt in der Mitte des Multiversums (siehe Abschnitt „Überraschende Entwicklung" weiter hinten in diesem Kapitel). 
 
-Die Charaktere erfahren von den berühmten Magiern [[Alustriel_Silberhand-veor|Alustriel Silberhand]], Mordenkainen und [[Tasha_die_Hexe-veor|Tasha]] eine ernüchternde Tatsache: Der Lich-Gott [[Vecna_der_Erzlich-veor|Vecna]] hat vor, das Multiversum umzugestalten und sich als dessen nun mächtigstes Wesen alles und jeden zu unterwerfen. Mordenkainen - in Wahrheit der getarnte Vampir Kas - glaubt, dass nur die Charaktere [[Vecna_der_Erzlich-veor|Vecnas]] Plan durchkreuzen können und dazu den legendären [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] brauchen, dessen Bruchstücke im gesamten Multiversum verteilt sind. 
+Die Charaktere erfahren von den berühmten Magiern [[Alustriel_Silberhand-veor|Alustriel Silberhand]], Mordenkainen und [[Tasha_die_Hexe-veor|Tasha]] eine ernüchternde Tatsache: Der Lich-Gott [[Vecna_der_Erzlich-veor|Vecna]] hat vor, das Multiversum umzugestalten und sich als dessen nun mächtigstes Wesen alles und jeden zu unterwerfen. Mordenkainen - in Wahrheit der getarnte Vampir [[Kas_der_Verräter-veor|Kas]] - glaubt, dass nur die Charaktere [[Vecna_der_Erzlich-veor|Vecnas]] Plan durchkreuzen können und dazu den legendären [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] brauchen, dessen Bruchstücke im gesamten Multiversum verteilt sind. 
 
 [[Alustriel_Silberhand-veor|Alustriel]], Mordenkainen und [[Tasha_die_Hexe-veor|Tasha]] helfen den Charakteren bei dieser Aufgabe. Diese Mission führt die Charaktere tief ins Unterreich in Faerûn, wo das erste Teil des Stabs in Netzrand verborgen liegt, einer geheimen Zuflucht für Kultisten der Dämonengöttin Lolth. 
 
@@ -110,7 +110,7 @@ Die Decken im Erdgeschoss des Heiligtums sind sechs Meter hoch. Die Decken im ob
 
 #### Türen
 
-Die Bereiche H1-H3 sind nicht durch Türen vom Heiligtum getrennt, sondern durch offene Torbögen erreichbar. Die Türen in den Bereichen H5-H7 des Heiligtums sind nicht verschlossen. Die Tür zu Bereich H8, Mordenkainens Raum, ist mit dem Zauber [[Arkanes_Schloss-phb|Arkanes Schloss]] versiegelt. Sie zu öffnen erfordert einen erfolgreichen SG-30-Geschicklichkeitswurf ([[D&D/01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]].
+Die Bereiche H1-H3 sind nicht durch Türen vom Heiligtum getrennt, sondern durch offene Torbögen erreichbar. Die Türen in den Bereichen H5-H7 des Heiligtums sind nicht verschlossen. Die Tür zu Bereich H8, Mordenkainens Raum, ist mit dem Zauber [[Arkanes_Schloss-phb|Arkanes Schloss]] versiegelt. Sie zu öffnen erfordert einen erfolgreichen `SG-30-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]].
 
 #### Vor neugierigen Blicken geschützt 
 
@@ -194,7 +194,7 @@ Drei legendäre Erzmagier dienen den Charakteren für den Rest dieses Abenteuers
 
 ### Alustriel Silberhand
 
-[[Alustriel_Silberhand-veor|Alustriel Silberhand]] ist über siebenhundert Jahre alt und in ganz Faerun beliebt, weil sie so freundlich ist und ihre enormen Zauberkräfte einsetzt, um Unschuldige zu beschützen. Sie ist eine chaotisch gute menschliche Magierin und unsterbliche Tochter von Mystra, einer Göttin der Magie. Die ehemalige Hochmagierin von Silbrigmond hat gegen Dämonen in den äußeren Ebenen gekämpft und den Lich Larloch daran gehindert, zur Göttlichkeit aufzusteigen. Zahlreiche böse Mächte hat sie schon kommen und gehen sehen, doch Vecnas Plan bereitet ihr große Sorgen. Mehr über Alustriel sowie ihre Spielwerte findest du in Anhang B.
+[[Alustriel_Silberhand-veor|Alustriel Silberhand]] ist über siebenhundert Jahre alt und in ganz Faerun beliebt, weil sie so freundlich ist und ihre enormen Zauberkräfte einsetzt, um Unschuldige zu beschützen. Sie ist eine chaotisch gute menschliche Magierin und unsterbliche Tochter von [[Mystra|Mystra]], einer Göttin der Magie. Die ehemalige Hochmagierin von Silbrigmond hat gegen Dämonen in den äußeren Ebenen gekämpft und den Lich Larloch daran gehindert, zur Göttlichkeit aufzusteigen. Zahlreiche böse Mächte hat sie schon kommen und gehen sehen, doch Vecnas Plan bereitet ihr große Sorgen. Mehr über Alustriel sowie ihre Spielwerte findest du in Anhang B.
 
 ### Mordenkainen
 
@@ -202,7 +202,7 @@ Mordenkainen, ein mächtiger Zauberwirker von Oerth, ist für seine Tapferkeit,j
 
 ### Tasha
 
-[[Tasha_die_Hexe-veor|Tasha]] ist eine chaotisch neutrale Erzmagierin von Oerth, renommierte Dämonologin und die Adoptivtochter von Baba Yaga. Sie ist als größte Abyss-Expertin des Multiversums bekannt und hat das legendäre Dämonomikon von Iggwilv geschrieben. Ihre Motive mögen wechselhaft sein, doch Alustriel hat in Tasha eine unvergleichliche Verbündete gefunden, da sie dieselben Interessen verfolgen und Tasha Orte erreichen und beeinflussen kann, die selbst Mystras Tochter nicht zu betreten wagt. Die Version von Tasha, die Alustriels Ruf folgt, stammt aus der Vergangenheit, ehe Tasha zu Iggwilv der Hexenkönigin wurde. Mehr über Tasha sowie ihre Spielwerte findest du in Anhang B.
+[[Tasha_die_Hexe-veor|Tasha]] ist eine chaotisch neutrale Erzmagierin von Oerth, renommierte Dämonologin und die Adoptivtochter von Baba Yaga. Sie ist als größte Abyss-Expertin des Multiversums bekannt und hat das legendäre [[Dämonomikon_von_Iggwilv-xdmg|Dämonomikon von Iggwilv]] geschrieben. Ihre Motive mögen wechselhaft sein, doch Alustriel hat in Tasha eine unvergleichliche Verbündete gefunden, da sie dieselben Interessen verfolgen und Tasha Orte erreichen und beeinflussen kann, die selbst Mystras Tochter nicht zu betreten wagt. Die Version von Tasha, die Alustriels Ruf folgt, stammt aus der Vergangenheit, ehe Tasha zu Iggwilv der Hexenkönigin wurde. Mehr über Tasha sowie ihre Spielwerte findest du in Anhang B.
 
 ![Tasha](Vecna-Vorabend_der_Verdammnis/img/030-02-003-tasha.webp#center)
 
@@ -226,11 +226,11 @@ Solange Kas als Mordenkainen auftritt, ist er stets wachsam und entfernt niemals
 
 Im Heiligtum achtet Kas streng darauf, keine direkten Beweise zu liefern, dass er nicht Mordenkainen ist. In Mordenkainens Gemach (Bereich H8) hat er Zauberbücher und Sammlungen von Notizen drapiert, um seine Rolle glaubwürdiger zu spielen.
 
-Ein Charakter, der Mordenkainens Gemach durchsucht und einen SG-30-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, bemerkt, dass in diesen Unterlagen keiner der berühmten Zauber Mordenkainens erwähnt wird. Außerdem sind die Notizen stümperhaft verfasst, obwohl Mordenkainen für seine akademisch-methodische Vorgehensweise bekannt ist.
+Ein Charakter, der Mordenkainens Gemach durchsucht und einen `SG-30-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, bemerkt, dass in diesen Unterlagen keiner der berühmten Zauber Mordenkainens erwähnt wird. Außerdem sind die Notizen stümperhaft verfasst, obwohl Mordenkainen für seine akademisch-methodische Vorgehensweise bekannt ist.
 
 Bei einer gründlichen Durchsuchung von Mordenkainens Quartier kommt ein schwarzer Nimmervoller Beutel zum Vorschein, der unter der Matratze versteckt lag. Im Beutel befindet sich eine schlichte Silberkette mit einem schwertförmigen Anhänger, in den schwarze Diamanten gefasst sind. Das Schmuckstück ist insgesamt 5.000 GM wert. Ebenfalls im Beutel enthalten ist ein auf magische Art erhaltenes Tagebuch mit Ledereinband.
 
-Der Inhalt des Tagebuchs ist verschlüsselt. Ein Charakter, der mindestens eine Stunde lang den Text untersucht, kann einen SG-30-Intelligenzwurf (Nachforschungen) ausführen. Bei einem Erfolg kann er den Text entschlüsseln. Das Tagebuch erzählt die Geschichte zweier Personen namens „K." und „V.", die einst gemeinsam mörderische Kampfpläne geschmiedet hatten, sich dann jedoch in Bitterkeit trennten und Feinde wurden. Ein erfolgreicher SG-20-Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Geschichte|Geschichte]]) enthüllt, dass es sich um die Geschichte von Kas und Vecna handelt.
+Der Inhalt des Tagebuchs ist verschlüsselt. Ein Charakter, der mindestens eine Stunde lang den Text untersucht, kann einen `SG-30-Intelligenzwurf` ([[Nachforschungen]]) ausführen. Bei einem Erfolg kann er den Text entschlüsseln. Das Tagebuch erzählt die Geschichte zweier Personen namens „K." und „V.", die einst gemeinsam mörderische Kampfpläne geschmiedet hatten, sich dann jedoch in Bitterkeit trennten und Feinde wurden. Ein erfolgreicher `SG-20-Intelligenzwurf` ([[Fertigkeiten-phb#Geschichte|Geschichte]]) enthüllt, dass es sich um die Geschichte von Kas und Vecna handelt.
 
 ##### Mordenkainens Geheimnis
 
@@ -244,7 +244,7 @@ Es ist zwar unwahrscheinlich, doch die Charaktere könnten Mordenkainen gegenüb
 
 ##### Kas besiegt die Charaktere
 
-Wenn die Charaktere [[Kas]] vor Kapitel 9 konfrontieren, lass den Kampf stattfinden und nutze für Kas die Spielwerte in Anhang B. Falls Kas die Charaktere besiegt, tötet er sie und verschwindet ins Pandämonium. Alustriel sorgt dafür, dass die Charaktere von den Klerikern von Silbrigmonds wiedererweckt werden. Sie bedauert, Kas' List nicht durchschaut zu haben, und ist wütend, dass sie betrogen wurde. Sie argwöhnt, dass Kas weiß, wo Vecna sein Ritual vorbereitet, und ermutigt die Charaktere, dem Vampir ins Pandämonium zu folgen, wenn möglich.
+Wenn die Charaktere [[Kas_der_Verräter-veor|Kas]] vor Kapitel 9 konfrontieren, lass den Kampf stattfinden und nutze für Kas die Spielwerte in Anhang B. Falls Kas die Charaktere besiegt, tötet er sie und verschwindet ins Pandämonium. Alustriel sorgt dafür, dass die Charaktere von den Klerikern von Silbrigmonds wiedererweckt werden. Sie bedauert, Kas' List nicht durchschaut zu haben, und ist wütend, dass sie betrogen wurde. Sie argwöhnt, dass Kas weiß, wo Vecna sein Ritual vorbereitet, und ermutigt die Charaktere, dem Vampir ins Pandämonium zu folgen, wenn möglich.
 
 In diesem Fall verfügt Kas nicht über den kompletten [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]]. Passe Kapitel 10 entsprechend an, um der Tatsache Rechnung zu tragen, dass Miska nicht aus seinem Gefängnis entkommen kann. Die Priorität der Charaktere besteht weiterhin darin, Vecna zu stoppen, doch wenn sie Kas nicht endgültig zerstören, jagt er sie irgendwann. Besiegen die Charaktere Kas schließlich, erfahren sie, wo Vecna sein Ritual vorbereitet, und es geht mit Kapitel 11 weiter.
 
@@ -277,7 +277,7 @@ Als die Charaktere herauszufinden, was los ist, fragt Alustriel, ob sie irgendwe
 
 Während die Charaktere mit Alustriel sprechen, steht Tasha in der Nähe, gibt sich distanziert und wirft gelegentlich eine bissige Bemerkung ein. Mordenkainen schweigt und hört den Charakteren genau zu.
 
-Nach einigen Gesprächsminuten bemerken die Charaktere, dass die drei Magier müde und geschwächt wirken. Ein in Heilkunde geübter Charakter begreift, dass sie überaus erschöpft sind. Ein in Arkaner Kunde geübter Charakter stellt fest, dass die Magier sehr viel arkane Energie investiert haben, um den Wunsch-Zauber zu wirken. (Mordenkainen täuscht die Erschöpfung nur vor, doch angesichts Alustriels und Tashas tatsächlicher körperlicher Schwäche fällt das nicht weiter auf.)
+Nach einigen Gesprächsminuten bemerken die Charaktere, dass die drei Magier müde und geschwächt wirken. Ein in Heilkunde geübter Charakter begreift, dass sie überaus erschöpft sind. Ein in [[Fertigkeiten-phb#Arkane Kunde|Arkaner Kunde]] geübter Charakter stellt fest, dass die Magier sehr viel arkane Energie investiert haben, um den Wunsch-Zauber zu wirken. (Mordenkainen täuscht die Erschöpfung nur vor, doch angesichts Alustriels und Tashas tatsächlicher körperlicher Schwäche fällt das nicht weiter auf.)
 
 ### Ein neuer Plan
 
@@ -327,7 +327,7 @@ Die [[Glocke_des_Exils-veor]] gehört Alustriel und kann Vecna schließlich nach
 
 *Wundersamer Gegenstand, sehr selten*
 
-Die silberne Glocke ist mit zarten magischen Siegeln versehen. Wer sie hält, kann eine Aktion verwenden, um den Zauber Verbannung (Zauberrettungswurf-SG 20) zu wirken. Wenn das Ziel des Zaubers höchstens 50 Trefferpunkte hat, scheitert sein Rettungswurf automatisch. Wurde die Glocke eingesetzt, um den Zauber zu wirken, so ist dies erst im nächsten Morgengrauen wieder möglich. 
+Die silberne Glocke ist mit zarten magischen Siegeln versehen. Wer sie hält, kann eine Aktion verwenden, um den Zauber Verbannung (`Zauberrettungswurf-SG 20`) zu wirken. Wenn das Ziel des Zaubers höchstens 50 Trefferpunkte hat, scheitert sein Rettungswurf automatisch. Wurde die Glocke eingesetzt, um den Zauber zu wirken, so ist dies erst im nächsten Morgengrauen wieder möglich. 
 
 ## Nach Netzrand
 
@@ -339,7 +339,7 @@ Die Charaktere treten dort durch einen türförmigen Riss in der Wand eines enge
 
 ### Eingang von Netzrand
 
-Der Eingang von Netzrand liegt nur wenige Schritte von der Stelle entfernt, an der die Charaktere im Unterreich eintreffen. Er ist drei Meter breit, verschlossen und mit einem permanenten Unsichtbarkeitseffekt versehen. Charaktere, die unsichtbare Gegenstände wahrnehmen können, sehen eine unscheinbare Eisentür. Die Tür ist mit dem Zauber [[Arkanes_Schloss-phb]] versiegelt. Sie zu öffnen erfordert einen erfolgreichen SG-22-Geschicklichkeitswurf ([[Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb]]. 
+Der Eingang von Netzrand liegt nur wenige Schritte von der Stelle entfernt, an der die Charaktere im Unterreich eintreffen. Er ist drei Meter breit, verschlossen und mit einem permanenten Unsichtbarkeitseffekt versehen. Charaktere, die unsichtbare Gegenstände wahrnehmen können, sehen eine unscheinbare Eisentür. Die Tür ist mit dem Zauber [[Arkanes_Schloss-phb|Arkanes Schloss]] versiegelt. Sie zu öffnen erfordert einen erfolgreichen `SG-22-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]]. 
 
 Charaktere, die unsichtbare Gegenstände wahrnehmen können, sehen acht subtile Symbole im Fels über dem Eingang. Jedes Symbol enthält winzige Buchstaben in der Gemeinsprache der Unterreiche. Wenn sie in der richtigen Reihenfolge berührt werden, um das Wort ,,Netzrand" zu bilden, öffnet sich der Eingang. 
 

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: "Knave's Eye Patch"
+Bezeichnung: Augenklappe des Schurken
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: "Knave's Eye Patch"
 tags:

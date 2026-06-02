@@ -11,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Burnt Othur Fumes
+Eigenschaften:
+  - Gift
 ---
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  

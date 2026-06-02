@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 5 KM
 Gew.: 0,5 kg
-status: WIP
+status: completed
 linter-yaml-title-alias: Salz
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

@@ -1,22 +1,22 @@
 ---
-Bezeichnung: Bell
+Bezeichnung: Glocke
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 1 GM
 Gew.: /
-status: WIP
-linter-yaml-title-alias: Bell
+Status: completed
+linter-yaml-title-alias: Glocke
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Bell
+  - Glocke
 ---
-# Bell
-*Adventuring gear*  
+# Glocke
+*Abenteuerausrüstung*
 
-- **Cost**: 1 gp
+- **Kosten**: 1 GM
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quellen: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

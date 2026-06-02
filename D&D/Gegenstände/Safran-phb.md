@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 15 GM
 Gew.: 0,5 kg
-status: WIP
+status: completed
 linter-yaml-title-alias: Safran
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

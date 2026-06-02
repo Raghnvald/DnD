@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 2 GM
 Gew.: 0,5 kg
-status: WIP
+status: completed
 linter-yaml-title-alias: Zimt
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

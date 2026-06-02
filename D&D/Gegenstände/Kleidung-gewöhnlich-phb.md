@@ -1,23 +1,24 @@
 ---
-Bezeichnung: Common Clothes
+Bezeichnung: Gewöhnliche Kleidung
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 5 SM
 Gew.: 1,5 kg
-status: WIP
-linter-yaml-title-alias: Common Clothes
+status: completed
+linter-yaml-title-alias: Gewöhnliche Kleidung
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Common Clothes
+  - common clothes
+  - Gewöhnliche Kleidung
 ---
-# Common Clothes
-*Adventuring gear*  
+# Gewöhnliche Kleidung
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 sp
-- **Weight**: 3.0 lbs.
+- **Kosten**: 5 SM
+- **Gewicht**: 1,5 kg.
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quellen: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

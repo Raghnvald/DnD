@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 10 GM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Kuh
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -17,6 +17,6 @@ aliases:
 # Kuh
 *Handelsgut*  
 
-- **Cost**: 10 gp
+- **Kosten**: 10 GM
 
 *Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

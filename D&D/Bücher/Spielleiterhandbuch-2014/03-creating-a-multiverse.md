@@ -780,29 +780,29 @@ Hidden below Arcadia's beautiful mountains are numerous dwarven kingdoms that ha
 
 While on this plane, creatures can't be frightened or poisoned, and they are immune to disease and poison.
 
-## Other Planes
+## Andere Ebenen
 
-A variety of realms exist between or beyond the other planes.
+Es existiert eine Vielzahl von Reichen zwischen oder jenseits der anderen Ebenen. 
 
-### The Outlands and Sigil
+### Die Fremde und  das Sigil
 
-The Outlands is the plane between the Outer Planes. It is the plane of neutrality, incorporating a little of everything and keeping all aspects in a paradoxical balance-simultaneously concordant and in opposition. The plane has varied terrain, with prairies, mountains, and shallow rivers.
+Die Fremde ist die Ebene, die zwischen den Äußeren Ebenen liegt. Sie ist die Ebene der Neutralität, die ein wenig von allem einbezieht und alle Aspekte in einem paradoxen Gleichgewicht hält -gleichzeitig einstimmig und gegensätzlich. Die Ebene hat mit Prärien, Bergen und flachen Flüssen ein sehr abwechslungsreiches Gelände. 
 
-The Outlands is circular, like a great disk. In fact, those who envision the Outer Planes as a wheel point to the Outlands as proof, calling it a microcosm of the planes. That argument might be circular, since the arrangement of the Outlands inspired the idea of the Great Wheel in the first place.
+Die Fremde ist kreisförmig, ähnlich einer großen Scheibe. Diejenigen, die sich die Äußeren Ebenen als ein Rad vorstellen, sehen die Fremde als Beweis für diese Theorie an und nennen sie einen Mikrokosmos von Ebenen. Diese Argumentation dreht sich jedoch im Kreis, denn die Form der Fremde als großes Rad war überhaupt erst die Inspiration für diese Theorie. 
 
-Around the outside edge of the circle, evenly spaced, are the gate-towns: sixteen settlements, each built around a portal leading to one of the Outer Planes. Each town shares many of the characteristics of the plane where its gate leads. Planar emissaries often meet in these towns, so it isn't unusual to see strange pairings, such as a celestial and a fiend arguing in a tavern while sharing a fine bottle of wine.
+Um den äußeren Rand des Kreises befinden sich in gleichmäßigen Abschnitten die Portalstädte: sechzehn Siedlungen, die jeweils um ein Portal herum errichtet wurden, das zu einer der Äußeren Ebenen führt.Jede Stadt teilt viele der Eigenschaften der Ebene, auf die ihr Portal führt. Planare Abgesandte treffen sich häufig in diesen Städten, und so ist es nicht ungewöhnlich, seltsame Gesprächspartner, wie ein celestisches Wesen und einen Teufel, argumentierend in einer Taverne zu sehen, während sie sich eine gute Flasche Wein teilen. 
 
-Given the fact that you can ride a horse in the Outlands from a heaven to a hell, a planar-themed campaign can be set there without the need for planar travel. The Outlands is the closest the Outer Planes come to being like a world on the Material Plane.
+Angesichts der Tatsache, dass man auf dem Rücken eines Pferdes in der Fremde von einem Himmel in eine Hölle reiten kann, kann eine Kampagne, die die Ebenen zum Thema hat, hier ohne die Notwendigkeit für planare Reisen angelegt werden. Die Fremde ähnelt von allen Orten auf den Äußeren Ebenen einer Welt auf der Materiellen Ebene noch am meisten. 
 
-![The Outlands and Sigil; Gate-Towns of the Outlands](/3-Mechanics/CLI/tables/the-outlands-and-sigil-gate-towns-of-the-outlands.md)
+![Die Fremde und Sigil; Portastädte in der Fremde](Tabellen/the-outlands-and-sigil-gate-towns-of-the-outlands#^gate-towns-of-the-outlands)
 
-#### Sigil, City of Doors
+#### Sigil, die Stadt der Türen
 
-At the center of the Outlands, like the axle of a great wheel, is the Spire-a needle-shaped mountain that rises high into the sky. Above this mountain's narrow peak floats the ring-shaped city of Sigil, its myriad structures built on the ring's inner rim. Creatures standing on one of Sigil's streets can see the city curve up over their heads and-most disconcerting of all-the far side of the city directly overhead. Called the City of Doors, this bustling planar metropolis holds countless portals to other planes and worlds.
+Im Zentrum der Fremde, wie die Achse eines großen Rades, liegt die Felsnadel - ein nadelförmiger Berg, der hoch in den Himmel steigt. Über dem schmalen Gipfel des Berges schwebt die ringförmige Stadt Sigil, deren unzählige Bauten auf dem inneren Rand des Rings errichtet sind. Kreaturen, die auf einer von Sigils Straßen stehen, können sehen, wie die Stadt sich über ihre Köpfe wölbt. Ebenso können sie das andere Ende der Stadt an der gegenüberliegenden Seite sehen. Die Planare Metropole wird auch die Stadt der Türen genannt und enthält unzählige Portale zu anderen Ebenen und Welten. 
 
-Sigil is a trader's paradise. Goods, merchandise, and information come here from across the planes. The city sustains a brisk trade in information about the planes, particularly the command words or items required for the operation of particular portals. Portal keys of all kinds are bought and sold here.
+Sigil ist ein Paradies für Händler. Waren, Ausrüstung und Informationen von allen Ebenen sammeln sich hier. In der Stadt wird rege mit Informationen über die Ebenen gehandelt, insbesondere mit den Befehlswörtern oder Gegenständen, die für den Betrieb bestimmter Portale erforderlich sind. Portalschlüssel aller Art werden hier erworben und veräußert. 
 
-The city is the domain of the inscrutable Lady of Pain, a being as old as gods and with purposes unknown to even the sages of her city. Is Sigil her prison? Is she the fallen creator of the multiverse? No one knows. Or if they do, they aren't telling.
+Die Stadt wird beherrscht von der unergründlichen Dame der Schmerzen, einem Wesen, das so alt wie die Götter ist, und deren Beweggründe selbst den Weisen ihrer Stadt unbekannt sind. Ist Sigi! ihr Gefängnis? Ist sie die gefallene Schöpferin des Multiversums? Niemand weiß es. Oder wenn es jemand weiß, wird er es nicht verraten. 
 
 ### Demiplanes
 

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bracers of Defense
+Bezeichnung: Armschienen der Verteidigung
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Bracers of Defense
 tags:

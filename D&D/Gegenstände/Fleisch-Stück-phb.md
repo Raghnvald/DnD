@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: 3 SM
 Gew.: /
-status: WIP
+status: completed
 linter-yaml-title-alias: Fleisch, Stück
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -15,8 +15,8 @@ aliases:
   - Fleisch, Stück
 ---
 # Fleisch, Stück
-*Food and drink*  
+*Essen und Trinken*  
 
-- **Cost**: 3 sp
+- **Kosten**: 3 SM
 
-*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 158. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
