@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Truth Serum
+Bezeichnung: Wahrheitsserum
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 150 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Truth Serum
+linter-yaml-title-alias: Wahrheitsserum
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Truth Serum
-Eigenschaften:
-  - Gift
+  - Wahrheitsserum
 ---
-# Truth Serum
+# Wahrheitsserum
 *Adventuring gear, poison (ingested)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Icewind Dale Trinket
+Bezeichnung: Tand des Eiswindtals
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Icewind Dale Trinket
+linter-yaml-title-alias: Tand des Eiswindtals
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
-  - Icewind Dale Trinket
+  - Tand des Eiswindtals
 ---
-# Icewind Dale Trinket
+# Tand des Eiswindtals
 *Adventuring gear*  
 ![](img/icewind-dale-trinket.webp#right)
 

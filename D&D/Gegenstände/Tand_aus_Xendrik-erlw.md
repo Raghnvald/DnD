@@ -1,20 +1,20 @@
 ---
-Bezeichnung: "Xen'drik Trinket"
+Bezeichnung: "Tand aus Xen'drik"
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: "Xen'drik Trinket"
+linter-yaml-title-alias: "Tand aus Xen'drik"
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - "Xen'drik Trinket"
+  - "Tand aus Xen'drik"
 ---
-# Xen'drik Trinket
+# Tand aus Xen'drik
 *Adventuring gear*  
 
 **Trinkets from Xen'drik**

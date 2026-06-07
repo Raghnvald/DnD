@@ -15,7 +15,7 @@ aliases:
 
 - [Horn of Valhalla, Brass](horn-of-valhalla-brass-dmg.md)
 - [Horn of Valhalla, Bronze](horn-of-valhalla-bronze-dmg.md)
-- [Horn of Valhalla, Iron](horn-of-valhalla-iron-dmg.md)
+- [Horn of Valhalla, Iron](Horn_von_Valhalla-Eisen-dmg.md)
 - [Horn of Valhalla, Silver](horn-of-valhalla-silver-dmg.md)
 
 *Source: Dungeon Master's Guide p. 175*

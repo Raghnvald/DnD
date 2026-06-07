@@ -477,7 +477,7 @@ Die hier aufgeführten Artefakte sind bereits in einer oder mehreren D&D-Welten 
 
 - ![[Schwert_von_Kas-dmg#Schwert von Kas]]
 
-- ![[Zauberstab-von-Orcus-dmg#Zauberstab von Orcus]]
+- ![[Zauberstab_von_Orcus-dmg#Zauberstab von Orcus]]
 
 ## Andere Belohnungen
 

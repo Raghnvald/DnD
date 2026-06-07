@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Tome of Strahd
+Bezeichnung: Foliant des Strahd
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: 0,25 kg
 status: WIP
-linter-yaml-title-alias: Tome of Strahd
+linter-yaml-title-alias: Foliant des Strahd
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/cos
 aliases:
-  - Tome of Strahd
+  - Foliant des Strahd
 ---
-# Tome of Strahd
+# Foliant des Strahd
 *Adventuring gear*  
 ![](img/tome-of-strahd.webp#right)
 

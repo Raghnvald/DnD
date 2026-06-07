@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Blowgun Needle
+Bezeichnung: Blasrohrpfeil
 Kategorie: Munition
 Eigenschaften:
   - Munition
 Kst.: 2 KM
 Gew.: 0,01 kg
 status: WIP
-linter-yaml-title-alias: Blowgun Needle
+linter-yaml-title-alias: Blasrohrpfeil
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Blowgun Needle
+  - Blasrohrpfeil
 ---
-# Blowgun Needle
+# Blasrohrpfeil
 *Ammunition*  
 
 - **Cost**: 2 cp

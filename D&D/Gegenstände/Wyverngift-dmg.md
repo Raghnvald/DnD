@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Wyvern Poison
+Bezeichnung: Wyverngift
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 1.200 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Wyvern Poison
+linter-yaml-title-alias: Wyverngift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Wyvern Poison
-Eigenschaften:
-  - Gift
+  - Wyverngift
 ---
-# Wyvern Poison
+# Wyverngift
 *Adventuring gear, poison (injury)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

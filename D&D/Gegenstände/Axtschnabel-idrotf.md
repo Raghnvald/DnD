@@ -1,24 +1,24 @@
 ---
-Bezeichnung: Axe Beak
+Bezeichnung: Axtschnabel
 Kategorie: Reit- und Lastentier
 Eigenschaften:
   - /
 Kst.: 50 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Axe Beak
+linter-yaml-title-alias: Axtschnabel
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
-  - Axe Beak
+  - Axtschnabel
 Bew.: 15 m
 Traglast: 420 Pfd.
 ---
-# Axe Beak
+# Axtschnabel
 *Mount*  
-![](/3-Mechanics/CLI/items/img/axe-beak.webp#right)
+![](img/axe-beak.webp#right)
 
 - **Cost**: 50 gp
 

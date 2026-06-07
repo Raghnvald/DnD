@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Serpent Venom
+Bezeichnung: Schlangengift
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 200 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Serpent Venom
+linter-yaml-title-alias: Schlangengift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Serpent Venom
-Eigenschaften:
-  - Gift
+  - Schlangengift
 ---
-# Serpent Venom
+# Schlangengift
 *Adventuring gear, poison (injury)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

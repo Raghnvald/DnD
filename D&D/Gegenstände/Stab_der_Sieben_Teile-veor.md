@@ -20,7 +20,9 @@ aliases:
 ---
 # Stab der Sieben Teile
 *Waffe ([[Kampfstab-phb|Kampfstab]]), Artefakt (erfordert Einstimmung)*  
-![](img/rod-of-seven-parts.webp#right)
+<div src="rod-of-seven-parts.webp" class="internal-embed">
+<img align="right" width="150" src="rod-of-seven-parts.webp">
+</div>
 
 - **Schaden**:
   - Einhändig: 1d6 Wucht

@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Viol
+Bezeichnung: Gambe
 Kategorie: Werkzeug
 Eigenschaften:
   - /
 Kst.: 30 GM
 Gew.: 0,5 kg
 status: WIP
-linter-yaml-title-alias: Viol
+linter-yaml-title-alias: Gambe
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Viol
+  - Gambe
 ---
-# Viol
+# Gambe
 *Instrument*  
 
 - **Cost**: 30 gp

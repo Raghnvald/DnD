@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Manacles
+Bezeichnung: Handschellen
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 2 GM
 Gew.: 3,0 kg
 status: WIP
-linter-yaml-title-alias: Manacles
+linter-yaml-title-alias: Handschellen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Manacles
+  - Handschellen
 ---
-# Manacles
+# Handschellen
 *Adventuring gear*  
 
 - **Cost**: 2 gp

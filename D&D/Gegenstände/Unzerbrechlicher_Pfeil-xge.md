@@ -1,23 +1,23 @@
 ---
-Bezeichnung: Unbreakable Arrow
+Bezeichnung: Unzerbrechlicher Pfeil
 Kategorie: Munition
 Eigenschaften:
   - Munition
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Unbreakable Arrow
+linter-yaml-title-alias: Unzerbrechlicher Pfeil
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xge
 aliases:
-  - Unbreakable Arrow
+  - Unzerbrechlicher Pfeil
 ---
-# Unbreakable Arrow
-*Ammunition, minor, common*  
+# Unzerbrechlicher Pfeil
+*Munition, gewöhnlich*  
 ![](img/unbreakable-arrow.webp#right)
 
-This arrow can't be broken, except when it is within an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).
+This arrow can't be broken, except when it is within an [[Antimagisches_Feld-phb|Antimagischen Feld]].
 
 *Source: Xanathar's Guide to Everything p. 139*

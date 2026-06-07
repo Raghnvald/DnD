@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Lock
+Bezeichnung: Schloss
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 10 GM
 Gew.: 0,5 kg
 status: WIP
-linter-yaml-title-alias: Lock
+linter-yaml-title-alias: Schloss
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Lock
+  - Schloss
 ---
-# Lock
+# Schloss
 *Adventuring gear*  
 
 - **Cost**: 10 gp

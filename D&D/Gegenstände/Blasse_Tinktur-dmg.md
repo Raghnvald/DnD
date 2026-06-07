@@ -1,23 +1,20 @@
 ---
-Bezeichnung: Pale Tincture
+Bezeichnung: Blasse Tinktur
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 250 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Pale Tincture
+linter-yaml-title-alias: Blasse Tinktur
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Pale Tincture
-Eigenschaften:
-  - Gift
-  - |-
-    
-    *Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+  - Blasse Tinktur
 ---
-# Pale Tincture
+# Blasse Tinktur
 *Adventuring gear, poison (ingested)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

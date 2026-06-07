@@ -1,18 +1,18 @@
 ---
-Bezeichnung: Boots of the Winterlands
+Bezeichnung: Stiefel der Winterlande
 Kategorie: Wundersamer Gegenstand 
-linter-yaml-title-alias: Boots of the Winterlands
+linter-yaml-title-alias: Stiefel der Winterlande
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Boots of the Winterlands
+  - Stiefel der Winterlande
 ---
-# Boots of the Winterlands
+# Stiefel der Winterlande
 *Wondrous item, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/boots-of-the-winterlands.webp#right)
+![](img/boots-of-the-winterlands.webp#right)
 
 Diese bequemen Pelzstiefel fühlen sich ziemlich warm an. Wenn du sie trägst, erhältst du die folgenden Vorteile:
 

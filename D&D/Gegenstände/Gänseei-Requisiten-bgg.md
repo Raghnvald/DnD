@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Goose Egg Trinket
+Bezeichnung: Gänseei-Requisiten
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Goose Egg Trinket
+linter-yaml-title-alias: Gänseei-Requisiten
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/bgg
 aliases:
-  - Goose Egg Trinket
+  - Gänseei-Requisiten
 ---
-# Goose Egg Trinket
+# Gänseei-Requisiten
 *Adventuring gear*  
 
 Sometimes, an egg laid by a [giant goose](/3-Mechanics/CLI/bestiary/fey/giant-goose-bgg.md) inexplicably contains some kind of small trinket or minor magic item. Once it lays a golden egg, a giant goose can't do so again for a year and a day.

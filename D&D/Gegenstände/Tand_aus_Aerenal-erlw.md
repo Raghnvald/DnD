@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Aerenal Trinket
+Bezeichnung: Tand aus Aerenal
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Aerenal Trinket
+linter-yaml-title-alias: Tand aus Aerenal
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Aerenal Trinket
+  - Tand aus Aerenal
 ---
-# Aerenal Trinket
+# Tand aus Aerenal
 *Adventuring gear*  
 
 **Trinkets from Aerenal**

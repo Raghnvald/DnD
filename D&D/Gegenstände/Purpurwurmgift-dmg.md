@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Purple Worm Poison
+Bezeichnung: Purpurwurmgift
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 2.000 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Purple Worm Poison
+linter-yaml-title-alias: Purpurwurmgift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Purple Worm Poison
-Eigenschaften:
-  - Gift
+  - Purpurwurmgift
 ---
-# Purple Worm Poison
+# Purpurwurmgift
 *Adventuring gear, poison (injury)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

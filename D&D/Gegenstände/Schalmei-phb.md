@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Shawm
+Bezeichnung: Schalmei
 Kategorie: Werkzeug
 Eigenschaften:
   - /
 Kst.: 2 GM
 Gew.: 0,5 kg
 status: WIP
-linter-yaml-title-alias: Shawm
+linter-yaml-title-alias: Schalmei
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Shawm
+  - Schalmei
 ---
-# Shawm
+# Schalmei
 *Instrument*  
 
 - **Cost**: 2 gp

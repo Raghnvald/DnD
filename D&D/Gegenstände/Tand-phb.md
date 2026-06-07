@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Trinket
+Bezeichnung: Tand
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Trinket
+linter-yaml-title-alias: Tand
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Trinket
+  - Tand
 ---
-# Trinket
+# Tand
 *Adventuring gear*  
 ![](img/trinket-phb.webp#right)
 

@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Argonnessen Trinket
+Bezeichnung: Tand aus Argonnessen
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Argonnessen Trinket
+linter-yaml-title-alias: Tand aus Argonnessen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Argonnessen Trinket
+  - Tand aus Argonnessen
 ---
-# Argonnessen Trinket
+# Tand aus Argonnessen
 *Adventuring gear*  
 
 **Trinkets from Argonnessen**

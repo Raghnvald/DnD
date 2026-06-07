@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Shard
+Bezeichnung: Scherbe
 Kategorie: Währung
 Eigenschaften:
   - /
 Kst.: 1 SM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Shard
+linter-yaml-title-alias: Scherbe
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
-  - Shard
+  - Scherbe
 ---
-# Shard
+# Scherbe
 *Treasure (coinage)*  
 
 - **Cost**: 1 sp

@@ -1,14 +1,14 @@
 ---
-Bezeichnung: Soulknife
-linter-yaml-title-alias: Soulknife
+Bezeichnung: Seelenmesser
+linter-yaml-title-alias: Seelenmesser
 tags:
   - Klasse/Schurke/soulknife
   - Quelle/5e/xphb
 aliases:
-  - Soulknife
+  - Seelenmesser
 ---
-# Soulknife
-*[Rogue](Schurke-xphb.md): Rogue Subclass*  
+# Seelenmesser
+*[Schurke](Schurke-xphb.md): Schurken-Archetyp*  
 *Source: Player's Handbook (2024) p. 135*  
 
 > [!tldr] Class and Feature Progression

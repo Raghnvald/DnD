@@ -12,8 +12,8 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Bier (Humpen)
   - Ale (Mug)
+  - Bier (Humpen)
 ---
 # Bier (Humpen)
 *Essen und Trinken*  

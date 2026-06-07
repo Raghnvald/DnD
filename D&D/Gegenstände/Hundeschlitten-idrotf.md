@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Dogsled
+Bezeichnung: Hundeschlitten
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
 Eigenschaften:
   - /
 Kst.: 20 GM
 Gew.: 150,0 kg
 status: WIP
-linter-yaml-title-alias: Dogsled
+linter-yaml-title-alias: Hundeschlitten
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/idrotf
 aliases:
-  - Dogsled
+  - Hundeschlitten
 ---
-# Dogsled
+# Hundeschlitten
 *Vehicle (land)*  
 
 - **Cost**: 20 gp

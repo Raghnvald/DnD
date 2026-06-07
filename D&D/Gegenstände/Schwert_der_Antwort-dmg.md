@@ -12,7 +12,7 @@ aliases:
   - Schwert der Antwort
 ---
 # Schwert der Antwort
-*Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement)*  
+*Weapon ([longsword](Langschwert-phb)), major, legendary (requires attunement)*  
 
 - **Schaden**:
   - One-handed: 1d8 slashing
@@ -22,14 +22,14 @@ aliases:
 
 **Gegenstände in dieser Gruppe:**
 
-- [Sword of Answering (Answerer)](sword-of-answering-answerer.md)
-- [Sword of Answering (Back Talker)](sword-of-answering-back-talker.md)
-- [Sword of Answering (Concluder)](sword-of-answering-concluder.md)
-- [Sword of Answering (Last Quip)](sword-of-answering-last-quip.md)
-- [Sword of Answering (Rebutter)](sword-of-answering-rebutter.md)
-- [Sword of Answering (Replier)](sword-of-answering-replier.md)
-- [Sword of Answering (Retorter)](sword-of-answering-retorter.md)
-- [Sword of Answering (Scather)](sword-of-answering-scather.md)
-- [Sword of Answering (Squelcher)](sword-of-answering-squelcher.md)
+- [[Schwert_der_Antwort-Antwortender-dmg]]
+- [[Schwert_der_Antwort-Beleidigender-dmg]]
+- [[Schwert_der_Antwort-Entkräfter-dmg]]
+- [[Schwert_der_Antwort-Erwidernder-dmg]]
+- [[Schwert_der_Antwort-Konternder-dmg]]
+- [[Schwert_der_Antwort-Letzte_Stichelei-dmg]]
+- [[Schwert_der_Antwort-Schlussfolgernder-dmg]]
+- [[Schwert_der_Antwort-Unterdrücker-dmg]]
+- [[Schwert_der_Antwort-Widerredender-dmg]]
 
 *Source: Dungeon Master's Guide p. 206*

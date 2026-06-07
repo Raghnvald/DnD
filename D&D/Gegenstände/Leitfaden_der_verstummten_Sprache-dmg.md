@@ -11,7 +11,7 @@ aliases:
   - Leitfaden der verstummten Sprache
 ---
 # Leitfaden der verstummten Sprache
-*Wundersamer Gegenstand, legendär (benötigt Einstimmung durch einen Magier*  
+*Wundersamer Gegenstand, legendär (benötigt Einstimmung durch einen Magier)*  
 
 - **Gewicht**: 2,5 kg.
 

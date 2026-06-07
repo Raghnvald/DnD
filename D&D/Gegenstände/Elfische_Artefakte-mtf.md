@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Elven Trinket
+Bezeichnung: Elfische Artefakte
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Elven Trinket
+linter-yaml-title-alias: Elfische Artefakte
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/mtf
 aliases:
-  - Elven Trinket
+  - Elfische Artefakte
 ---
-# Elven Trinket
+# Elfische Artefakte
 *Adventuring gear*  
 
 `dice: [](elven-trinket-mtf.md#^trinket)`

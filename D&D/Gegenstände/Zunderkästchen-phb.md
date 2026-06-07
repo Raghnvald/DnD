@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Tinderbox
+Bezeichnung: Zunderkästchen
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 5 SM
 Gew.: 0,5 kg
 status: WIP
-linter-yaml-title-alias: Tinderbox
+linter-yaml-title-alias: Zunderkästchen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Tinderbox
+  - Zunderkästchen
 ---
-# Tinderbox
+# Zunderkästchen
 *Adventuring gear*  
 
 - **Cost**: 5 sp

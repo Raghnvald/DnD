@@ -10,7 +10,7 @@ aliases:
 ---
 # Sovereign Glue
 *Wondrous item, minor, legendary*  
-![](/3-Mechanics/CLI/items/img/sovereign-glue.webp#right)
+![](img/sovereign-glue.webp#right)
 
 This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with [oil of slipperiness](/3-Mechanics/CLI/items/oil-of-slipperiness.md). When found, a container contains `1d6 + 1` ounces.
 

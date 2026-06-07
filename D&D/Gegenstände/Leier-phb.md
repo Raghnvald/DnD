@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Lyre
+Bezeichnung: Leier
 Kategorie: Werkzeug
 Eigenschaften:
   - /
 Kst.: 30 GM
 Gew.: 1,0 kg
 status: WIP
-linter-yaml-title-alias: Lyre
+linter-yaml-title-alias: Leier
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Lyre
+  - Leier
 ---
-# Lyre
+# Leier
 *Instrument*  
 
 - **Cost**: 30 gp

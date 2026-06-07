@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Drow Poison
+Bezeichnung: Drowgift
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 200 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Drow Poison
+linter-yaml-title-alias: Drowgift
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Drow Poison
-Eigenschaften:
-  - Gift
+  - Drowgift
 ---
-# Drow Poison
+# Drowgift
 *Adventuring gear, poison (injury)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

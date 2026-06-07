@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Blanket
+Bezeichnung: Decke
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 5 SM
 Gew.: 1,5 kg
 status: WIP
-linter-yaml-title-alias: Blanket
+linter-yaml-title-alias: Decke
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Blanket
+  - Decke
 ---
-# Blanket
+# Decke
 *Adventuring gear*  
 
 - **Cost**: 5 sp

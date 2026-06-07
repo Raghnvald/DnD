@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Burnt Othur Fumes
+Bezeichnung: Verbrannte_Othurdämpfe
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 500 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Burnt Othur Fumes
+linter-yaml-title-alias: Verbrannte_Othurdämpfe
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Burnt Othur Fumes
-Eigenschaften:
-  - Gift
+  - Verbrannte_Othurdämpfe
 ---
-# Burnt Othur Fumes
+# Verbrannte_Othurdämpfe
 *Adventuring gear, poison (inhaled)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

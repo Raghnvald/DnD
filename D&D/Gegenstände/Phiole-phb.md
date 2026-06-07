@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Vial
+Bezeichnung: Phiole
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 1 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Vial
+linter-yaml-title-alias: Phiole
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Vial
+  - Phiole
 ---
-# Vial
+# Phiole
 *Adventuring gear*  
 
 - **Cost**: 1 gp

@@ -12,6 +12,10 @@ views:
     filters:
       and:
         - file.tags.contains("Gegenstand/Seltenheit/keine")
+    groupBy:
+      property: Kategorie
+      direction: ASC
+    sort: []
   - type: table
     name: Gewöhnlich
     filters:

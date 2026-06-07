@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Eyescratch
+Bezeichnung: Augenkratzer
 Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Eyescratch
+linter-yaml-title-alias: Augenkratzer
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
-  - Eyescratch
+  - Augenkratzer
 ---
-# Eyescratch
+# Augenkratzer
 *Adventuring gear, poison (contact)*  
 
 - **Properties**: Poison

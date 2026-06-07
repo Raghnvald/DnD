@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Giant Trinket
+Bezeichnung: Riesische Requisiten
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Giant Trinket
+linter-yaml-title-alias: Riesische Requisiten
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/bgg
 aliases:
-  - Giant Trinket
+  - Riesische Requisiten
 ---
-# Giant Trinket
+# Riesische Requisiten
 *Adventuring gear*  
 
 While exploring your home, you discovered some trivial remnant of the ancient inhabitants, as determined by rolling on the Giant Trinkets table. The items in parentheses are the normal-sized objects most analogous to the described giant trinkets.

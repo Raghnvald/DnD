@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Drum
+Bezeichnung: Trommel
 Kategorie: Werkzeug
 Eigenschaften:
   - /
 Kst.: 6 GM
 Gew.: 1,5kg
 status: WIP
-linter-yaml-title-alias: Drum
+linter-yaml-title-alias: Trommel
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Drum
+  - Trommel
 ---
-# Drum
+# Trommel
 *Instrument*  
 
 - **Cost**: 6 gp

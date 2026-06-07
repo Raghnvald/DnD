@@ -20,6 +20,6 @@ aliases:
 - **Kosten**: 1 GM
 - **Gewicht**: 0,5 kg.
 
-Dieser zylindrische Lederbehälter kann bis zu zehn zusammengerollte [[paper-one-sheet-phb|Blatt Papier]] oder fünf zusammengerollte [[parchment-one-sheet-phb|Blatt Pergament]] enthalten.
+Dieser zylindrische Lederbehälter kann bis zu zehn zusammengerollte [[Papier-ein-Blatt-phb|Blatt Papier]] oder fünf zusammengerollte [[Pergament-ein-Blatt-phb|Blatt Pergament]] enthalten.
 
 *Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

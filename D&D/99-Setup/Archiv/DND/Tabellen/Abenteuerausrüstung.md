@@ -77,7 +77,7 @@ _Quellen:_ Spielerhandbuch
 | [Laterne (abdeckbar)](Abdeckbare-Laterne.md)                                   |     5 GM |        1,0 kg. |
 | [Laterne (Blendlaterne)](../Gegenstände/Blendlaterne.md)                         |    10 GM |          1 kg. |
 | [Leiter (3 Meter)](../Gegenstände/Leiter-3-Meter.md)                             |     1 SM |       12,5 kg. |
-| [Lupe](magnifying-glass-phb.md)                                       |   100 GM |              — |
+| [Lupe](Vergrößerungsglas-phb.md)                                       |   100 GM |              — |
 | [Materialkomponentenbeutel](../Gegenstände/Materialkomponentenbeutel.md)         |    25 GM |        1,0 kg. |
 | [Metallkugeln (Beutel mit 1000)](Metallkugeln-Beutel-mit-1000.md) |     1 GM |        1,0 kg. |
 | *Munition*                                                                       |          |                |
@@ -86,14 +86,14 @@ _Quellen:_ Spielerhandbuch
 | [Pfeile (20)](Pfeile-20-phb.md)                                       |     1 GM |        0,5 kg. |
 | [Schleuderkugeln (20)](Schleuderkugeln-20-phb.md)                       |     4 KM |       0,75 kg. |
 |                                                                                  |          |                |
-| [Öl (Flasche)](oil-flask-phb.md)                                      |     1 SM |        0,5 kg. |
+| [Öl (Flasche)](Öl-Flasche-phb.md)                                      |     1 SM |        0,5 kg. |
 | [Papier (ein Blatt)](Papier-ein-Blatt-old.md)                         |     2 SM |              — |
-| [Parfüm (Phiole)](perfume-vial-phb.md)                                |     5 GM |              — |
+| [Parfüm (Phiole)](Parfüm-Phiole-phb.md)                                |     5 GM |              — |
 | [Pergament (ein Blatt)](Pergament-ein-Blatt-old.md)                   |     1 SM |              — |
 | [Phiole-old](Phiole-old.md)                                               |     1 GM |              — |
-| [Rammbock, tragbar](portable-ram-phb.md)                              |     4 GM |       17,5 kg. |
+| [Rammbock, tragbar](Tragbarer_Rammbock-phb.md)                              |     4 GM |       17,5 kg. |
 | [Rationen (1 Tag)](Tagesration.md)                                |     5 SM |        1,0 kg. |
-| [Reisegeschirr](mess-kit-phb.md)                                      |     2 SM |        0,5 kg. |
+| [Reisegeschirr](Reisegeschirr-phb.md)                                      |     2 SM |        0,5 kg. |
 | [Robe](Roben-phb.md)                                                  |     1 GM |        2,0 kg. |
 | [Rucksack](../Gegenstände/Rucksack.md)                                           |     2 GM |       2,5 kg.. |
 | [Sack-phb](Sack-phb.md)                                                   |     1 KM |       0,25 kg. |
@@ -102,17 +102,17 @@ _Quellen:_ Spielerhandbuch
 | [Schaufel](Schaufel.md)                                           |     2 GM |        2,5 kg. |
 | [Schlafsack-old](Schlafsack-old.md)                                       |     1 GM |        3,5 kg. |
 | [Schloss-old](Schloss-old.md)                                             |    10 GM |        0,5 kg. |
-| [Schreibfeder](ink-pen-phb.md)                                        |     2 KM |              — |
+| [Schreibfeder](Schreibfeder-phb.md)                                        |     2 KM |              — |
 | [Seife](Seife.md)                                                 |     2 KM |              — |
-| [Seil, Hanf (15 Meter)](hempen-rope-50-feet-phb.md)                   |     1 GM |        5,0 kg. |
-| [Seil, Seide (15 Meter)](silk-rope-50-feet-phb.md)                    |    10 GM |        2,5 kg. |
+| [Seil, Hanf (15 Meter)](Hanfseil-15-Meter-phb.md)                   |     1 GM |        5,0 kg. |
+| [Seil, Seide (15 Meter)](Seidenseil-15-Meter-phb.md)                    |    10 GM |        2,5 kg. |
 | [Siegelring](Siegelring-phb.md)                                      |     5 GM |              — |
-| [Siegelwachs](sealing-wax-phb.md)                                     |     5 SM |              — |
-| [Signalpfeife](signal-whistle-phb.md)                                 |     5 KM |              — |
-| [Spiegel (Stahl)](steel-mirror-phb.md)                                |     5 GM |       0,25 kg. |
-| [Spitzhacke](miners-pick-dmg.md)                                      |     2 GM |       5,0 kg.. |
-| [Stange (3 Meter)](pole-10-foot-phb.md)                               |     5 KM |        3,5 kg. |
-| [Tinte (Flasche, 30 ml)](ink-1-ounce-bottle-phb.md)                   |    10 GM |              — |
+| [Siegelwachs](Siegelwachs-phb.md)                                     |     5 SM |              — |
+| [Signalpfeife](Signalpfeife-phb.md)                                 |     5 KM |              — |
+| [Spiegel (Stahl)](Stahlspiegel-phb.md)                                |     5 GM |       0,25 kg. |
+| [Spitzhacke](Spitzhacke-phb.md)                                      |     2 GM |       5,0 kg.. |
+| [Stange (3 Meter)](Stange-3-Meter-phb.md)                               |     5 KM |        3,5 kg. |
+| [Tinte (Flasche, 30 ml)](Tinte-Flasche-30ml-phb.md)                   |    10 GM |              — |
 | [Topf (Eisen)](Eisentopf-phb.md)                                       |     2 GM |        5,0 kg. |
 | [Kiste-old](Kiste-old.md)                                                                |     5 GM |       12,5 kg. |
 | [Verkleidungsausrüstung](Verkleidungsausrüstung.md)               |    25 GM |        1,5 kg. |

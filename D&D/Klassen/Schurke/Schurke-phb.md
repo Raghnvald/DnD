@@ -239,9 +239,9 @@ Trifft dich ab Stufe 5 der Angriff einer Kreatur, die du sehen kannst, darfst du
 
 Auf der 6. Stufe kannst du dir zwei weitere geübte Fertigkeiten oder eine geübte Fertigkeit und den Umgang mit [[Diebeswerkzeug-phb|Diebeswerkzeug]] aussuchen, auf die du den gleichen Vorzug erhältst.
 
-### Entrinnen (Level 7)
+### Entrinnen (Stufe 7)
 
-Ab der 7. Stufe kannst du dich dank deiner instinktiven Gewandheit dem Wirkungsbereich bestimmter Effekte entziehen, wie etwa dem Blitzodem eines blauen Drachen oder dem Zauber [[Feuerball-phb|Feuerball]]. Bist du einem Effekt ausgesetzt, der einen Geschicklichkeits-Rettungswurf erlaubt, um den Schaden zu halbieren, nimmst du bei einem erfolgreichen Rettungswurf gar keinen Schaden und bei einem Misserfolg lediglich die Hälfte des Schadens.
+Ab der 7. Stufe kannst du dich dank deiner instinktiven Gewandheit dem Wirkungsbereich bestimmter Effekte entziehen, wie etwa dem Blitzodem eines blauen Drachen oder dem Zauber [[Feuerball-phb|Feuerball]]. Bist du einem Effekt ausgesetzt, der einen `Geschicklichkeits-Rettungswurf` erlaubt, um den Schaden zu halbieren, nimmst du bei einem erfolgreichen Rettungswurf gar keinen Schaden und bei einem Misserfolg lediglich die Hälfte des Schadens.
 
 ### Attributswerterhöhung (Stufe 8)
 
@@ -275,7 +275,7 @@ Auf der 13. Stufe erhältst du ein Merkmal deines Schurkenarchetypen.
 
 ### Blindgespür (Level 14)
 
-Angefangen mit der 14. Stufe bist du fähig, mit deinen scharfen Sinnen den Aufenthaltsort einer versteckten oder [[ [[Zustände-phb#Unsichtbar|unsichtbaren]] Kreatur, die du hören kannst, innerhalb von 3 m festzustellen.
+Angefangen mit der 14. Stufe bist du fähig, mit deinen scharfen Sinnen den Aufenthaltsort einer versteckten oder [[Zustände-phb#Unsichtbar|unsichtbaren]] Kreatur, die du hören kannst, innerhalb von 3 m festzustellen.
 
 ### Entschlüpfender Geist (Level 15)
 
@@ -294,8 +294,6 @@ Auf der 17. Stufe erhältst du ein Merkmal deines Schurkenarchetypen.
 ### Schwer zu fassen (Stufe 18)
 
 Beginnend mit der 18. Stufe hast du deine Fähigkeit auszuweichen so perfektioniert, dass Angreifer kaum die Oberhand über dich gewinnen. Kein Angriffswurf gegen dich ist im Vorteil, solange du nicht [[Zustände-phb#Kampfunfähig|kampfunfähig]] bist.
-
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Attributswerterhöhung (Stufe 19)
 

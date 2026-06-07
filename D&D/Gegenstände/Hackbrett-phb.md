@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Dulcimer
+Bezeichnung: Hackbrett
 Kategorie: Werkzeug
 Eigenschaften:
   - /
 Kst.: 25 GM
 Gew.: 5,0 kg
 status: WIP
-linter-yaml-title-alias: Dulcimer
+linter-yaml-title-alias: Hackbrett
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Dulcimer
+  - Hackbrett
 ---
-# Dulcimer
+# Hackbrett
 *Instrument*  
 
 - **Cost**: 25 gp

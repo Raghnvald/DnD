@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Flute
+Bezeichnung: Flöte
 Kategorie: Werkzeug
 Eigenschaften:
   - /
 Kst.: 2 GM
 Gew.: 0,5 kg
 status: WIP
-linter-yaml-title-alias: Flute
+linter-yaml-title-alias: Flöte
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Flute
+  - Flöte
 ---
-# Flute
+# Flöte
 *Instrument*  
 
 - **Cost**: 2 gp

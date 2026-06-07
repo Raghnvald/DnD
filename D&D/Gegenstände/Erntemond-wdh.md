@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Harbor Moon
+Bezeichnung: Erntemond
 Kategorie: Währung
 Eigenschaften:
   - /
 Kst.: 50 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Harbor Moon
+linter-yaml-title-alias: Erntemond
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
-  - Harbor Moon
+  - Erntemond
 ---
-# Harbor Moon
+# Erntemond
 *Treasure (coinage)*  
 
 - **Cost**: 50 gp

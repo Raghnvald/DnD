@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Arrow of Slaying
+Bezeichnung: Pfeil des Tötens
 Kategorie: Munition
 Eigenschaften:
   - Munition
 Kst.: /
 Gew.: 0,025 kg
 status: WIP
-linter-yaml-title-alias: Arrow of Slaying
+linter-yaml-title-alias: Pfeil des Tötens
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Arrow of Slaying
+  - Pfeil des Tötens
 ---
-# Arrow of Slaying
+# Pfeil des Tötens
 *Ammunition, minor, very rare*  
 ![](/3-Mechanics/CLI/items/img/arrow-of-slaying.webp#right)
 

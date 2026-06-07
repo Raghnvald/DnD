@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Sun
+Bezeichnung: Sonne
 Kategorie: Währung
 Eigenschaften:
   - /
 Kst.: 10 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Sun
+linter-yaml-title-alias: Sonne
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
-  - Sun
+  - Sonne
 ---
-# Sun
+# Sonne
 *Treasure (coinage)*  
 
 - **Cost**: 10 gp

@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Nib
+Bezeichnung: Feder
 Kategorie: Währung
 Eigenschaften:
   - /
 Kst.: 1 KM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Nib
+linter-yaml-title-alias: Feder
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
-  - Nib
+  - Feder
 ---
-# Nib
+# Feder
 *Treasure (coinage)*  
 
 - **Cost**: 1 cp

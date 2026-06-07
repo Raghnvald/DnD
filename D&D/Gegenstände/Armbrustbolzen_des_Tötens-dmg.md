@@ -1,22 +1,22 @@
 ---
-Bezeichnung: Crossbow Bolt of Slaying
+Bezeichnung: Armbrustbolzen des Tötens
 Kategorie: Munition
 Eigenschaften:
   - Munition
 Kst.: /
 Gew.: 0,0375 kg
 status: WIP
-linter-yaml-title-alias: Crossbow Bolt of Slaying
+linter-yaml-title-alias: Armbrustbolzen des Tötens
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Crossbow Bolt of Slaying
+  - Armbrustbolzen des Tötens
 ---
-# Crossbow Bolt of Slaying
+# Armbrustbolzen des Tötens
 *Ammunition, minor, very rare*  
-![](/3-Mechanics/CLI/items/img/arrow-of-slaying.webp#right)
+![](img/arrow-of-slaying.webp#right)
 
 - **Weight**: 0.075 lbs.
 

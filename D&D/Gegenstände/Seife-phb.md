@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Soap
+Bezeichnung: Seife
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 2 KM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Soap
+linter-yaml-title-alias: Seife
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Soap
+  - Seife
 ---
-# Soap
+# Seife
 *Adventuring gear*  
 
 - **Cost**: 2 cp

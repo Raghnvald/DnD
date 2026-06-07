@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Mournland Trinket
+Bezeichnung: Tand des Klagelands
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Mournland Trinket
+linter-yaml-title-alias: Tand des Klagelands
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Mournland Trinket
+  - Tand des Klagelands
 ---
-# Mournland Trinket
+# Tand des Klagelands
 *Adventuring gear*  
 
 **Mournland Trinkets**

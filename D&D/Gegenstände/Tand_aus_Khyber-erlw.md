@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Khyber Trinket
+Bezeichnung: Tand aus Khyber
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Khyber Trinket
+linter-yaml-title-alias: Tand aus Khyber
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Khyber Trinket
+  - Tand aus Khyber
 ---
-# Khyber Trinket
+# Tand aus Khyber
 *Adventuring gear*  
 
 **Trinkets from Khyber**

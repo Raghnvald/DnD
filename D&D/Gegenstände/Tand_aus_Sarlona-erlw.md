@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Sarlona Trinket
+Bezeichnung: Tand aus Sarlona
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Sarlona Trinket
+linter-yaml-title-alias: Tand aus Sarlona
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Sarlona Trinket
+  - Tand aus Sarlona
 ---
-# Sarlona Trinket
+# Tand aus Sarlona
 *Adventuring gear*  
 
 **Trinkets from Sarlona**

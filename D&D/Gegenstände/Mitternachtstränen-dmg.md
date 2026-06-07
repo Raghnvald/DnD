@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Midnight Tears
+Bezeichnung: Mitternachtstränen
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 1.500 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Midnight Tears
+linter-yaml-title-alias: Mitternachtstränen
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Midnight Tears
-Eigenschaften:
-  - Gift
+  - Mitternachtstränen
 ---
-# Midnight Tears
+# Mitternachtstränen
 *Adventuring gear, poison (ingested)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Signet Ring
+Bezeichnung: Siegelring
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 5 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Signet Ring
+linter-yaml-title-alias: Siegelring
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Signet Ring
+  - Siegelring
 ---
-# Signet Ring
+# Siegelring
 *Adventuring gear*  
 
 - **Cost**: 5 gp

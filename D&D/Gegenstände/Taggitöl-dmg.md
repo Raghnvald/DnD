@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Oil of Taggit
+Bezeichnung: Taggitöl
 Kategorie: Gift
+Eigenschaften:
+  - Gift
 Kst.: 400 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Oil of Taggit
+linter-yaml-title-alias: Taggitöl
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Oil of Taggit
-Eigenschaften:
-  - Gift
+  - Taggitöl
 ---
-# Oil of Taggit
+# Taggitöl
 *Adventuring gear, poison (contact)*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

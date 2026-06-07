@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Cataclysm Bolts
+Bezeichnung: Bolzen des Kataklysmus
 Kategorie: Munition
 Eigenschaften:
   - Munition
 Kst.: /
 Gew.: 0,0375 kg
 status: WIP
-linter-yaml-title-alias: Cataclysm Bolts
+linter-yaml-title-alias: Bolzen des Kataklysmus
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/tdcsr
 aliases:
-  - Cataclysm Bolts
+  - Bolzen des Kataklysmus
 ---
-# Cataclysm Bolts
+# Bolzen des Kataklysmus
 *Ammunition, very rare*  
 
 - **Weight**: 0.075 lbs.

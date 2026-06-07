@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Holy Water (flask)
+Bezeichnung: Weihwasser (Flasche)
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: 25 GM
 Gew.: 0,5 kg
 status: WIP
-linter-yaml-title-alias: Holy Water (flask)
+linter-yaml-title-alias: Weihwasser (Flasche)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Holy Water (flask)
+  - Weihwasser (Flasche)
 ---
-# Holy Water (flask)
+# Weihwasser (Flasche)
 *Adventuring gear*  
 
 - **Cost**: 25 gp

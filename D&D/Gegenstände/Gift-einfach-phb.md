@@ -1,18 +1,18 @@
 ---
-Bezeichnung: Basic Poison (vial)
+Bezeichnung: Einfaches Gift (Phiole)
 Kategorie: Gift
 Kst.: 100 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Basic Poison (vial)
+linter-yaml-title-alias: Einfaches Gift (Phiole)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Basic Poison (vial)
+  - Einfaches Gift (Phiole)
 ---
-# Basic Poison (vial)
+# Einfaches Gift (Phiole)
 *Adventuring gear, poison*  
 
 - **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)

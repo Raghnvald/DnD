@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Frostfell and Everice Trinket
+Bezeichnung: Tand aus Frostdach und Everiss
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Frostfell and Everice Trinket
+linter-yaml-title-alias: Tand aus Frostdach und Everiss
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - Frostfell and Everice Trinket
+  - Tand aus Frostdach und Everiss
 ---
-# Frostfell and Everice Trinket
+# Tand aus Frostdach und Everiss
 *Adventuring gear*  
 
 **Trinkets from the Frostfell and Everice**

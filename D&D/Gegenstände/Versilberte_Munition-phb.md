@@ -1,26 +1,26 @@
 ---
-Bezeichnung: Silvered Ammunition
+Bezeichnung: Versilberte Munition
 Kategorie: Munition
 Eigenschaften:
   - Munition
 Kst.: /
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Silvered Ammunition
+linter-yaml-title-alias: Versilberte Munition
 tags:
   - Gegenstand/Ausrüstung/ammunition
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/phb
 aliases:
-  - Silvered Ammunition
+  - Versilberte Munition
   - Silvered Arrow
   - Silvered Bolt
   - Silvered Firearm Bullet
   - Silvered Needle
   - Silvered Sling Bullet
 ---
-# Silvered Ammunition
+# Versilberte Munition
 *Ammunition, minor*  
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver ammunition, so cautious adventurers invest extra coin to plate their ammunition in silver. You can silver ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the ammunition without making it less effective.

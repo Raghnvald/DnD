@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Dragon
+Bezeichnung: Drache
 Kategorie: Währung
 Eigenschaften:
   - /
 Kst.: 1 GM
 Gew.: /
 status: WIP
-linter-yaml-title-alias: Dragon
+linter-yaml-title-alias: Drache
 tags:
   - Gegenstand/Ausrüstung/treasure-coinage
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
-  - Dragon
+  - Drache
 ---
-# Dragon
+# Drache
 *Treasure (coinage)*  
 
 - **Cost**: 1 gp

@@ -1,20 +1,20 @@
 ---
-Bezeichnung: Pan Flute
+Bezeichnung: Panflöte
 Kategorie: Werkzeug
 Eigenschaften:
   - /
 Kst.: 12 GM
 Gew.: 1,0 kg
 status: WIP
-linter-yaml-title-alias: Pan Flute
+linter-yaml-title-alias: Panflöte
 tags:
   - Gegenstand/Ausrüstung/Instrument
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Pan Flute
+  - Panflöte
 ---
-# Pan Flute
+# Panflöte
 *Instrument*  
 
 - **Cost**: 12 gp
