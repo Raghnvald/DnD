@@ -43,84 +43,64 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
 
 > [!note] The Book of Vile Darkness
 > 
-> While Vecna always carries the Book of Vile Darkness on his person—in fact, he fashioned his lich form to encompass the Book—he typically has no need to call upon its foul magic in battle. If the DM wishes to run a more challenging (and more complex) encounter, Vecna may call upon any of the book's abilities as appropriate.
+> While Vecna always carries the [[Buch_der_niederträchtigen_Dunkelheit-dmg|Book of Vile Darkness]] on his person—in fact, he fashioned his lich form to encompass the Book—he typically has no need to call upon its foul magic in battle. If the DM wishes to run a more challenging (and more complex) encounter, Vecna may call upon any of the book's abilities as appropriate.
 ^the-book-of-vile-darkness
 
-```statblock
-name: Vecna der Erzlich
-image: NSC/token/vecna-the-archlich-veor.webp
-source:
-  - VEoR
-size: Mittelgroßer
-type: Untoter
-subtype: Magier
-alignment: rechtschaffen böse
-ac: 18
-ac_class: natürliche Rüstung
-hp: 272
-hit_dice: 32d8 + 128
-modifier: 3
-stats:
-  - 14
-  - 16
-  - 18
-  - 22
-  - 24
-  - 16
-speed: 9 Meter
-saves:
-  - Konstitution: 12
-  - Intelligenz: 14
-  - Weisheit: 15
-skillsaves:
-  - name: Arkane Kunde
-    desc: "+22"
-  - name: Geschichte
-    desc: "+14"
-  - name: Motiv erkennen
-    desc: "+15"
-  - name: Wahrnehmung
-    desc: "+15"
-damage_resistances: Blitz, Kälte, Nekrotisch
-damage_immunities: Gift; Hieb, Stich und Wucht durch nichtmagischen Angriffen
-condition_immunities: Betäubt, Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet
-senses: passive Wahrnehmung 25, Wahrer Blick 36m
-languages: Drakonisch, Elfisch, Gemeinsprache, Infernalisch
-cr: "26"
-traits:
-  - name: Legendäre Resistenz (5-mal täglich)
-    desc: Wenn sein Rettungswurf scheitert, kann Vecna den Wurf in einen Erfolg verwandeln.
-  - name: Besondere Ausrüstung
-    desc: Vecna trägt einen magischen Dolch namens Nachlese. In den Händen jedes anderen ist Nachlese ein Dolch +2.
-  - name: Unsterblich
-    desc: Wenn Vecna getötet wird, weigert seine Seele sich, ihr Schicksal zu akzeptieren. Sie existiert als körperloser Geist weiter, der sich nach 1W100 Jahren einen neuen Körper erschafft. Dieser erscheint im Abstand von bis zu 160 Kilometern von der Stelle, an der Vecna getötet wurde. Wenn der neue Körper fertig ist, erhält Vecna all seine Trefferpunkte zurück und wird wieder aktiv.
-actions:
-  - name: Mehrfachangriff
-    desc: Vecna setzt Flug der Verdammten (sofern verfügbar), Verdorbenes Schicksal oder Zauberwirken ein. Dann führt er zwei Angriffe mit Nachlese aus. 
-  - name: Nachlese
-    desc: "*Nahkampfwaffenangriff:* + 13 auf Treffer, Reichweite l, 5 m, ein Ziel. Treffer: 7 (1W4+5) Stichschaden plus 9 (2W8) nekrotischer Schaden. Wenn das Ziel eine Kreatur ist, wird es mit entropischer Magie belegt. Scheitert der Wurf, so erleidet es zu Beginn jedes seiner Züge 9 (2W8) nekrotischen Schaden. Das Ziel führt sofort nach Erleiden dieses Schadens in seinem Zug einen SG-20-Konstitutionsrettungswurf aus und beendet den Effekt bei einem Erfolg. Bis das betroffene Ziel diesen Rettungswurf besteht, kann es keine Trefferpunkte zurückerhalten."
-  - name: Flug der Verdammten (Aufladung 5-6)
-    desc: Vecna beschwört eine Vielzahl fliegender geisterhafter Wesen, die einen Kegel von 36 Metern füllen und alle Kreaturen in diesem Bereich durchdringen, ehe sie sich auflösen. Jede Kreatur in diesem Bereich muss einen SG-22-Konstitutionsrettungswurf ausführen. Scheitert der Wurf, so erleidet die Kreatur 36 (8W8) nekrotischen Schaden und ist eine Minute lang verängstigt. Bei einem erfolgreichen Rettungswurf erleidet die Kreatur nur halb so viel Schaden. Eine verängstigte Kreatur kann den Rettungswurf am Ende jedes ihrer Züge wiederholen und den Effekt bei einem Erfolg beenden. 
-  - name: Verdorbenes Schicksal
-    desc: Vecna hüllt eine Kreatur im Abstand von bis zu 36 Metern von sich, die er sehen kann, in nekrotische Magie. Das Ziel muss einen SG-22-Konstitutionsrettungswurf ausführen. Scheitert der Wurf, so erleidet es 96 (8W8+60) nekrotischen Schaden, anderenfalls die Hälfte. Ein Humanoide, der durch diese Magie getötet wird, erhebt sich zu Beginn von Vecnas nächstem Zug als Zombie und handelt in der lnitiativereihenfolge direkt nach Vecna. Der Zombie steht unter Vecnas Kontrolle.
-  - name: Zauberwirken
-    desc: |-
-      Vecna wirkt einen der folgenden Zauber. Er benötigt dazu keine Materialkomponenten und verwendet Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SG 22):
-
-      **Beliebig oft:** Blitz, Fliegen, Magie bannen, Magie entdecken, Magierhand, Taschenspielerei, Tote beleben (als Aktion) 
-
-      **Je 2-mal täglich:** Ausspähung (als Aktion), Dimensionstür, Unsichtbarkeit 
-
-      **Je 1-mal täglich:** Ebenenwechsel (nur auf sich selbst), Kugel der Unverwundbarkeit, Monster beherrschen 
-bonus_actions:
-  - name: Abscheuliches Teleportieren
-    desc: Vecna teleportiert sich mit jeglicher Ausrüstung, die er trägt oder bei sich hat, bis zu neun Meter weit an eine freie Stelle, die er sehen kann. Er kann jeder Kreatur seiner Wahl im Abstand von bis zu 4,5 Metern von seinem Zielort 10 (3W6) psychischen Schaden zufügen. Wenn mindestens eine Kreatur diesen Schaden erleidet, erhält Vecna 80 Trefferpunkte zurück. 
-reactions:
-  - name: 
-    desc: Vecna kann bis zu drei Reaktionen pro Runde ausführen, jedoch nur eine pro Zug. 
-  - name: Grässlicher Gegenzauber
-    desc: Vecna spricht ein Wort der Furcht aus, um eine Kreatur, die er sehen kann und die einen Zauber wirkt, am Wirken des Zaubers zu hindern. Wenn es sich um einen Zauber des höchstens 4. Grades handelt, schlägt er fehl und hat keine Wirkung. Bei einem Zauber ab dem 5. Grad führt Vecna einen Intelligenzwurf (SG 10 plus Zaubergrad) aus. Bei einem Erfolg schlägt der Zauber fehl und hat keine Wirkung. Unabhängig vom Grad des Zaubers erleidet der Zauberwirker 10 (3W6) psychischen Schaden, wenn der Zauber fehlschlägt
-  - name: Tödlicher Tadel
-    desc: Wird Vecna durch einen Angriff getroffen, so spricht er ein tödliches Wort aus, fügt dem Angreifer 10 (3W6) nekrotischen SJhaden zu und teleportiert sich mit jeglicher Ausrüstung, die er trägt oder bei sich hat, bis zu neun Meter weit an eine freie Stelle, die er sehen kann. 
-```
+> [!statblock] Vecna der Erzlich
+> ![[vecna-the-archlich-veor.webp|right|100]]
+> *Mittelgroßer Untoter (Magier), Rechtschaffen Böse*
+> 
+> - **Rüstungsklasse** 18 (natürliche Rüstung))
+> - **Trefferpunkte** 272 (`32d8 + 128`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 14 (+2)|16 (+3)|18 (+4)|22 (+6)|24 (+7)|16 (+3)|
+> 
+> - **Rettungswürfe** KON +11, INT +14, WEI +15
+> - **Fertigkeiten** Arkane Kunde +22, Geschichte +14, Motiv erkennen +15, Wahrnehmung +15
+> - **Sinne** Wahrer Blick 36m, passive Wahrnehmung 25
+> - **Schadensresistenzen** Blitz, Kälte, Nekrotisch
+> - **Schadensimmunitäten** Gift; Hieb, Stich und Wucht durch nichtmagischen Angriffen
+> - **Zustandsimmunitäten** Betäubt, Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet<br><br>
+> - **Sprachen** Drakonisch, Elfisch, Gemeinsprache, Infernalisch
+> - **Herausforderungsgrad** 26 (90.000 EP)
+> - **Übungsbonus** +8
+> 
+> ## Merkmale
+> 
+> ***Besondere Ausrüstung:*** Vecna trägt einen magischen Dolch namens *Nachlese*. In den Händen jedes anderen ist Nachlese ein Dolch +2.
+> 
+> ***Legendäre Resistenz (5-mal täglich):*** Wenn sein Rettungswurf scheitert, kann Vecna den Wurf in einen Erfolg verwandeln.
+>
+>***Unsterblich:*** Wenn Vecna getötet wird, weigert seine Seele sich, ihr Schicksal zu akzeptieren. Sie existiert als körperloser Geist weiter, der sich nach `1d100` Jahren einen neuen Körper erschafft. Dieser erscheint im Abstand von bis zu 160 Kilometern von der Stelle, an der Vecna getötet wurde. Wenn der neue Körper fertig ist, erhält Vecna all seine Trefferpunkte zurück und wird wieder aktiv.
+>
+> ## Aktionen
+> 
+>  ***Mehrfachangriff:*** Vecna setzt Flug der Verdammten (sofern verfügbar), Verdorbenes Schicksal oder Zauberwirken ein. Dann führt er zwei Angriffe mit Nachlese aus.
+> 
+> ***Nachlese:*** *Nahkampf-Waffenangriff:* 13 auf Treffer, Reichweite 1,5 m, ein Ziel. Treffer: 7 (`1d4+5`) Stichschaden plus 9 (`2d8`) nekrotischer Schaden. Wenn das Ziel eine Kreatur ist, wird es mit entropischer Magie belegt. Scheitert der Wurf, so erleidet es zu Beginn jedes seiner Züge 9 (`2d8`) nekrotischen Schaden. Das Ziel führt sofort nach Erleiden dieses Schadens in seinem Zug einen `SG-20-Konstitutions-Rettungswurf` aus und beendet den Effekt bei einem Erfolg. Bis das betroffene Ziel diesen Rettungswurf besteht, kann es keine Trefferpunkte zurückerhalten.
+> 
+> ***Flug der Verdammten (Aufladung 5-6):*** Vecna beschwört eine Vielzahl fliegender geisterhafter Wesen, die einen Kegel von 36 Metern füllen und alle Kreaturen in diesem Bereich durchdringen, ehe sie sich auflösen. Jede Kreatur in diesem Bereich muss einen `SG-22-Konstitutions-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet die Kreatur 36 (`8d8`) nekrotischen Schaden und ist eine Minute lang verängstigt. Bei einem erfolgreichen Rettungswurf erleidet die Kreatur nur halb so viel Schaden. Eine verängstigte Kreatur kann den Rettungswurf am Ende jedes ihrer Züge wiederholen und den Effekt bei einem Erfolg beenden
+> 
+>  ***Verdorbenes Schicksal:*** Vecna hüllt eine Kreatur im Abstand von bis zu 36 Metern von sich, die er sehen kann, in nekrotische Magie. Das Ziel muss einen `SG-22-Konstitutions-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet es 96 (`8d8+60`) nekrotischen Schaden, anderenfalls die Hälfte. Ein Humanoide, der durch diese Magie getötet wird, erhebt sich zu Beginn von Vecnas nächstem Zug als Zombie und handelt in der lnitiativereihenfolge direkt nach Vecna. Der Zombie steht unter Vecnas Kontrolle.
+>  
+>  ***Zauberwirken:*** Vecna wirkt einen der folgenden Zauber. Er benötigt dazu keine Materialkomponenten und verwendet Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SG 22):
+>
+> **Beliebig oft:** Blitz, Fliegen, Magie bannen, Magie entdecken, Magierhand, Taschenspielerei, Tote beleben (als Aktion)  <br>
+> **jeweils 2/Tag:** Ausspähung (als Aktion), Dimensionstür, Unsichtbarkeit<br>
+> **jeweils 1/Tag:** Ebenenwechsel (nur auf sich selbst), Kugel der Unverwundbarkeit, Monster beherrschen
+> 
+> ## Bonusaktionen
+> 
+> ***Abscheuliches Teleportieren:*** Vecna teleportiert sich mit jeglicher Ausrüstung, die er trägt oder bei sich hat, bis zu neun Meter weit an eine freie Stelle, die er sehen kann. Er kann jeder Kreatur seiner Wahl im Abstand von bis zu 4,5 Metern von seinem Zielort 10 (`3d6`) psychischen Schaden zufügen. Wenn mindestens eine Kreatur diesen Schaden erleidet, erhält Vecna 80 Trefferpunkte zurück.
+> 
+> ## Reaktionen
+> 
+> Vecna kann bis zu drei Reaktionen pro Runde ausführen, jedoch nur eine pro Zug. 
+> 
+> ***Grässlicher Gegenzauber:*** Vecna spricht ein Wort der Furcht aus, um eine Kreatur, die er sehen kann und die einen Zauber wirkt, am Wirken des Zaubers zu hindern. Wenn es sich um einen Zauber des höchstens 4. Grades handelt, schlägt er fehl und hat keine Wirkung. Bei einem Zauber ab dem 5. Grad führt Vecna einen Intelligenzwurf (SG 10 plus Zaubergrad) aus. Bei einem Erfolg schlägt der Zauber fehl und hat keine Wirkung. Unabhängig vom Grad des Zaubers erleidet der Zauberwirker 10 (`3d6`) psychischen Schaden, wenn der Zauber fehlschlägt
+> 
+> ***Tödlicher Tadel:*** Wird Vecna durch einen Angriff getroffen, so spricht er ein tödliches Wort aus, fügt dem Angreifer 10 (`3d6`) nekrotischen Schaden zu und teleportiert sich mit jeglicher Ausrüstung, die er trägt oder bei sich hat, bis zu 9 Meter weit an eine freie Stelle, die er sehen kann. 
 ^statblock

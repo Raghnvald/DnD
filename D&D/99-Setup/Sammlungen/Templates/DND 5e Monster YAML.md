@@ -30,16 +30,15 @@ aliases:
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | X (+-)|X (+-)|X (+-)|X (+-)|X (+-)|X (+-)|
 > 
-> - **Übungsbonus** +X
 > - **Rettungswürfe** ⏤
 > - **Fertigkeiten** X +Y
 > - **Sinne** X Y Meter, passive Wahrnehmung X
 > - **Schadensresistenzen** -
 > - **Schadensimmunitäten** -
-> - **Zustandsimmunitäten** -
-> 
+> - **Zustandsimmunitäten** - <br><br>
 > - **Sprachen** 
 > - **Herausforderungsgrad** X (Y EP)
+> - **Übungsbonus** +X
 > 
 > ## Merkmale
 > 
@@ -50,7 +49,15 @@ aliases:
 > ***Krummsäbel.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Hiebschaden.
 > 
 > ***Kurzbogen.*** *Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 24/96 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Stichschaden.
-
+> 
+> ## Bonusaktion
+> 
+> ***Name:***
+> 
+> ## Reaktionen
+> 
+> ***Name:***
+> 
 ^statblock
 
 ## Vorkommen

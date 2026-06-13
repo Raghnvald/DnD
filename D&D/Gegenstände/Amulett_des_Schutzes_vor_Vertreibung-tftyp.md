@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Amulett des Schutzes vor Vertreibung
+Bezeichnung: Amulet of Protection from Turning
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Amulet of Protection from Turning
 tags:

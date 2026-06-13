@@ -51,7 +51,7 @@ aliases:
 ## Übung
 
 - **Rüstungen**: [[Gegenstandsarten-phb#Leichte Rüstung|Leichte Rüstung]]
-- **Waffen**: einfache Waffen, [[Handarmbrust-phb|Handarmbrust]], [[Langschwert-phb|Langschwert]], [[Rapier-phb|Rapier]], [[Kurzschwert-phb|Kurzschwert]]
+- **Waffen**: einfache Waffen, [[Armbrust-Hand-phb|Handarmbrust]], [[Langschwert-phb|Langschwert]], [[Rapier-phb|Rapier]], [[Kurzschwert-phb|Kurzschwert]]
 - **Werkzeuge**: [[Diebeswerkzeug-phb|Diebeswerkzeug]] <br><br>
 - **Rettungswürfe**: Geschicklichkeit und Intelligenz
 - **Fertigkeiten**: vier nach Wahl: [[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]], [[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]],  [[01-Spielleiter/Fertigkeiten-phb#Auftreten|Auftreten]],  [[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]], [[01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]], [[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]], [[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]], [[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]], [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]], [[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]

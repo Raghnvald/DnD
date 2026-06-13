@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Stone of Good Luck
+Bezeichnung: Stein des Glücks
 Kategorie: Wundersamer Gegenstand 
 linter-yaml-title-alias: Stone of Good Luck
 tags:
@@ -10,10 +10,10 @@ tags:
 aliases:
   - Stone of Good Luck
 ---
-# Stone of Good Luck
-*Wondrous item, major, uncommon (requires attunement)*  
-![](Gegenstände/img/stone-of-good-luck.webp#right)
+# Stein des Glücks
+*Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  
+![](img/stone-of-good-luck.webp#right)
 
-While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
+Während du diesen polierten Achat bei dir trägst, erhältst du einen Bonus von +1 auf Attributs- und Rettungswürfe. 
 
-*Source: Dungeon Master's Guide p. 205. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 191. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span>*

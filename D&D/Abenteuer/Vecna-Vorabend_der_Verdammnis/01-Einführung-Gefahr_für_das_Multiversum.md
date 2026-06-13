@@ -287,16 +287,16 @@ In der Tabelle „Spielwerte nach Herausforderungsgrad" sind die Kreaturen in di
 | 5   | [[Kakkuu-Spinnenunhold-veor\|Kakkuu-Spinnenunhold]]                   | Unhold       | A       |
 | 6   | [[Schwarzrosenträger-veor\|Schwarzrosenträger]]                       | Untoter      | A       |
 | 6   | [[Mondscheinwächter-veor\|Mondscheinwächter]]                         | Konstrukt    | A       |
-| 6   | [[Priester_von_Osybus-vrgr\|Priester von Osybus]]                     | Humanoide    | A       |
+| 6   | [[D&D/Bestiarium/Humanoid/Priester_von_Osybus-vrgr\|Priester von Osybus]]                     | Humanoide    | A       |
 | 7   | [[Klingenspäher-veor\|Klingenspäher]]                                 | Konstrukt    | A       |
 | 7   | [[Verlorener_Kummergeschworener-mpmm\|Verlorener Kummergeschworener]] | Monstrosität | A       |
 | 8   | [[Knochenroch-veor\|Knochenroch]]                                     | Untoter      | A       |
-| 8   | [[Inquisitor_des_Folianten-vrgr\|Inquisitor des Folianten]]           | Humanoide    | A       |
+| 8   | [[D&D/Bestiarium/Humanoid/Inquisitor_des_Folianten-vrgr\|Inquisitor des Folianten]]           | Humanoide    | A       |
 | 8   | [[Sternangler-veor\|Sternangler]]                                     | Monstrosität | A       |
 | 8   | [[Wirbelnder_Lüster-veor\|Wirbelnder Lüster]]                         | Konstrukt    | A       |
 | 9   | [[Klingenleutnant-veor\|Klingenleutnant]]                             | Konstrukt    | A       |
 | 9   | [[Einsamer_Kummergeschworener-mpmm\|Einsamer Kummergeschworener]]     | Monstrosität | A       |
-| 9   | [[Magier-Nekromant-mpmm\|Magier-Nekromant]]                           | Humanoide    | A       |
+| 9   | [[D&D/Bestiarium/Humanoid/Magier-Nekromant-mpmm\|Magier-Nekromant]]                           | Humanoide    | A       |
 | 10  | [[Maulauge-bam\|Maulauge]]                                            | Aberration   | A       |
 | 10  | [[Spiegelschatten-veor\|Spiegelschatten]]                             | Untoter      | A       |
 | 11  | [[Degloth-veor\|Degloth]]                                             | Unhold       | A       |

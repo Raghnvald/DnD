@@ -96,30 +96,30 @@ Während die Charaktere in Phandalin Untersuchungen anstellen, treffen sie mögl
 | d20   | Schabernack                                                                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | Ein [[Goblin-Psi-Befehlshaber-pabtso\|Goblin-Psi-Befehlshaber]] entzündet rund um den Erlenblatt-Hofkleine Feuer, die drohen, die Ernte in Brand zu setzen.                                                                                                           |
-| 2     | Vier [[Goblin-mm\|Goblins]] umzingeln eine ältere Menschenfrau und versuchen, ihre Geldbörse zu stehlen. Die Frau (verwende den Wertekasten für [[Gemeiner-mm\|Gemeine]]) kämpft aggressiv gegen die Goblins.                                                            |
-| 3     | Drei [[Goblin-mm\|Goblins]] haben eine [[Ziege-mm\|Ziege]] gestohlen und versuchen, mit ihr wegzulaufen. Die [[Ziege-mm\|Ziege]] weigert sich jedoch.                                                                                                                 |
+| 2     | Vier [[D&D/Bestiarium/Humanoid/Goblin-mm\|Goblins]] umzingeln eine ältere Menschenfrau und versuchen, ihre Geldbörse zu stehlen. Die Frau (verwende den Wertekasten für [[D&D/Bestiarium/Humanoid/Gemeiner-mm\|Gemeine]]) kämpft aggressiv gegen die Goblins.                                                            |
+| 3     | Drei [[D&D/Bestiarium/Humanoid/Goblin-mm\|Goblins]] haben eine [[Ziege-mm\|Ziege]] gestohlen und versuchen, mit ihr wegzulaufen. Die [[Ziege-mm\|Ziege]] weigert sich jedoch.                                                                                                                 |
 | 4     | Zwei [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbolde]] verstecken sich in den Bäumen des EdermathObstgartens. Die Goblins nutzen ihre Telepathie, um sich als Geister auszugeben und andere abzuschrecken, damit sie ungestört Äpfel stehlen können.               |
-| 5     | Fünf [[Goblin-mm\|Goblins]] werfen aus der Gasse hinter dem Gasthaus Steinhügel Abfall auf Passanten.                                                                                                                                                                 |
-| 6     | Drei [[Goblin-mm\|Goblins]] spritzen Farbe auf eine Wand von Harbin Westers Haus.                                                                                                                                                                                     |
+| 5     | Fünf [[D&D/Bestiarium/Humanoid/Goblin-mm\|Goblins]] werfen aus der Gasse hinter dem Gasthaus Steinhügel Abfall auf Passanten.                                                                                                                                                                 |
+| 6     | Drei [[D&D/Bestiarium/Humanoid/Goblin-mm\|Goblins]] spritzen Farbe auf eine Wand von Harbin Westers Haus.                                                                                                                                                                                     |
 | 7     | Schindeln vom Dach des Schlafenden Riesen fliegen auf eine Gruppe von fünf verwirrten Bergleuten zu (alle Gemeine). Sie wissen nicht, dass ein [[Goblin-Psi-Befehlshaber-pabtso\|Goblin-Psi-Befehlshaber]] auf dem Dach der Taverne für den Unfug verantwortlich ist. | 
-| 8     | Ein [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbold]] und zwei [[Goblin-mm\|Goblins]] liegen am Eingang zum Dreieberpfad im Hinterhalt, um ahnungslose Reisende anzugreifen.                                                                                        |
-| 9     | Zwei [[Goblin-mm\|Goblins]] haben zwei [[Zugpferd-mm\|Zugpferde]] freigelassen, die jetzt durch die Stadt galoppieren.                                                                                                                                                |
+| 8     | Ein [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbold]] und zwei [[D&D/Bestiarium/Humanoid/Goblin-mm\|Goblins]] liegen am Eingang zum Dreieberpfad im Hinterhalt, um ahnungslose Reisende anzugreifen.                                                                                        |
+| 9     | Zwei [[D&D/Bestiarium/Humanoid/Goblin-mm\|Goblins]] haben zwei [[Zugpferd-mm\|Zugpferde]] freigelassen, die jetzt durch die Stadt galoppieren.                                                                                                                                                |
 | 10    | Zwei [[Goblin-Psi-Raufbold-pabtso\|Goblin-Psi-Raufbolde]] haben sich dürftig als Kinder verkleidet und betteln einen Bäcker in der Nähe des Gasthauses Steinhügel um Süßigkeiten an.                                                                                 |
 | 11–20 | Es wird kein Schabernack getrieben.                                                                                                                                                                                                                                   |
 ^goblin-mischief
 
 #### Was die Goblins wissen
 
-Werden [[Goblin-mm|Goblins]] bei den vier Tatortermittlungen oder bei einem zufälligen Schabernack im Dorf von den Charakteren gefangen genommen, bestochen oder [[Zustände-phb#Bezaubert|bezaubert]], haben die [[Goblin-mm|Goblins]] eventuell ein paar hilfreiche Informationen für die Abenteurergruppe. Ein erfolgreicher `SG-13-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] `oder` [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) bringt einen [[Goblin-mm|Goblin]] dazu, eine der folgenden Informationen preiszugeben:
+Werden [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] bei den vier Tatortermittlungen oder bei einem zufälligen Schabernack im Dorf von den Charakteren gefangen genommen, bestochen oder [[Zustände-phb#Bezaubert|bezaubert]], haben die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] eventuell ein paar hilfreiche Informationen für die Abenteurergruppe. Ein erfolgreicher `SG-13-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] `oder` [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) bringt einen [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblin]] dazu, eine der folgenden Informationen preiszugeben:
 
-- **Duergar-Außenposten:** Die [[Goblin-mm|Goblins]] sind in einem alten Duergar-Minenaußenposten in der Nähe unter der Erde stationiert.
-- **Goblin-Anführer:** Sie arbeiten für einen [[Goblin-mm|Goblin]] namens [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]]. [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] hat ein „großes Gehirn". Die [[Goblin-mm|Goblins]] glauben, dass mächtige Götter es ihm verliehen haben.
-- **Amok laufen:** Einige [[Goblin-mm|Goblins]] haben im Dorf Chaos angerichtet, weil sie zum ersten Mal ihre unterirdische Heimat verlassen haben und ihre Freiheit genießen wollen.
-- **Splitter stehlen:** Den [[Goblin-mm|Goblins]] wurde aufgetragen, Splitter eines uralten Obelisken zu stehlen. Sie glauben, dass dieser Obelisk die Macht hat, Phandalin zu zerstören.
+- **Duergar-Außenposten:** Die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] sind in einem alten Duergar-Minenaußenposten in der Nähe unter der Erde stationiert.
+- **Goblin-Anführer:** Sie arbeiten für einen [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblin]] namens [[Ruxithid_der_Auserwählte-pabtso|Ruxithid der Auserwählte]]. [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] hat ein „großes Gehirn". Die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] glauben, dass mächtige Götter es ihm verliehen haben.
+- **Amok laufen:** Einige [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] haben im Dorf Chaos angerichtet, weil sie zum ersten Mal ihre unterirdische Heimat verlassen haben und ihre Freiheit genießen wollen.
+- **Splitter stehlen:** Den [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] wurde aufgetragen, Splitter eines uralten Obelisken zu stehlen. Sie glauben, dass dieser Obelisk die Macht hat, Phandalin zu zerstören.
 
 ### Akademische Hilfe
 
-Während ihrer Ermittlungen treffen die Charaktere auf [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]], eine Zwergengelehrte auf Besuch in Phandalin. Sie kann dabei helfen, den Plan der [[Goblin-mm|Goblins]] zu entschlüsseln.
+Während ihrer Ermittlungen treffen die Charaktere auf [[Gwyn_Erzsang-pabtso|Gwyn Erzsang]], eine Zwergengelehrte auf Besuch in Phandalin. Sie kann dabei helfen, den Plan der [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] zu entschlüsseln.
 
 $\quad$Nachdem die Charaktere mindestens einen Tatort untersucht haben, lies die folgende Beschreibung vor oder formuliere sie frei:
 
@@ -134,7 +134,7 @@ Gwyn ist neu in der Stadt und fühlt sich etwas verloren. Sie bittet Abenteurerg
 
 #### Gwyn Erzsang
 
-Gwyn ist eine neutral gute Zwerg-[[Akolyth-mm|Akolythin]] aus der Stadt Niewinter. Sie ist ein paar Monate in Phandalin zu Besuch, um Zeit mit ihrer Schwester Eisa zu verbringen, die als Wirtin im Gasthaus arbeitet, und um Feldforschung in der Umgebung zu betreiben.
+Gwyn ist eine neutral gute Zwerg-[[D&D/Bestiarium/Humanoid/Akolyth-mm|Akolythin]] aus der Stadt Niewinter. Sie ist ein paar Monate in Phandalin zu Besuch, um Zeit mit ihrer Schwester Eisa zu verbringen, die als Wirtin im Gasthaus arbeitet, und um Feldforschung in der Umgebung zu betreiben.
 
 $\quad$Gwyn hat von ihrer Schwester von den Verbrechen gehört und erkennt die Charaktere als die Gruppe, die den Untaten ein Ende setzen soll. Obwohl sie zugibt, dass sie im Kampf gegen Vandalen nicht viel ausrichten kann, bietet Gwyn der Gruppe ihre Hilfe an. Wenn ihr die Charaktere Hinweise bringen, kann sie ihnen bei der Aufklärung der Verbrechen helfen.
 
@@ -149,7 +149,7 @@ Während der Ermittlungen der Charaktere finden sie Hinweise auf die Ziele, die 
 - **Fragmente eines Ortes:** Die Charaktere haben einen Teil des Namens des Goblin-Außenpostens, Zorzulas Ruh. (Diesen Hinweis können die Abenteurer entweder durch ein Gespräch mit Ander bei Barthens Brunnen oder durch die Untersuchung des Graffiti im Schlafenden Riesen finden.)
 - **Name des Anführers:** Die Goblins stehen unter dem Kommando eines Goblins namens Ruxithid. (Diesen Hinweis erhalten die Abenteurer entweder durch Belauschen des Goblin-Lagers in der Nähe der Minenbörse oder durch das erfolgreiche Verhör eines entführten Goblins.)
 
-Die Charaktere können aus diesen Hinweisen selbst schließen, dass sie [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] in Zorzulas Ruh gegenübertreten müssen, um den Verbrechen der Sägezank-Goblins Einhalt zu gebieten. Wenn die Charaktere alle vier Hinweise finden, kann Gwyn die Basis der [[Goblin-mm|Goblins]] leicht auf den verlassenen Duergar-Minenaußenposten zurückführen, der als Zorzulas Ruh bekannt ist. Gwyn sorgt sich darüber, was die [[Goblin-mm|Goblins]] mit den gestohlenen Splittern vorhaben. Sie bittet die Charaktere, sich schnell zu Zorzulas Ruh zu begeben und die Pläne der Goblins zu verteilen, was auch immer diese sein mögen.
+Die Charaktere können aus diesen Hinweisen selbst schließen, dass sie [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] in Zorzulas Ruh gegenübertreten müssen, um den Verbrechen der Sägezank-Goblins Einhalt zu gebieten. Wenn die Charaktere alle vier Hinweise finden, kann Gwyn die Basis der [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] leicht auf den verlassenen Duergar-Minenaußenposten zurückführen, der als Zorzulas Ruh bekannt ist. Gwyn sorgt sich darüber, was die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] mit den gestohlenen Splittern vorhaben. Sie bittet die Charaktere, sich schnell zu Zorzulas Ruh zu begeben und die Pläne der Goblins zu verteilen, was auch immer diese sein mögen.
 
 $\quad$Falls die Charaktere weniger als vier Hinweise finden und Gwyn um Hilfe bitten, stimmt sie zwar zu, ihre Notizen sind jedoch durcheinander. Ein Charakter kann einen `SG-15-Intelligenzwurf` ([[D&D/01-Spielleiter/Fertigkeiten-phb#Geschichte|Geschichte]]) ausführen, um Gwyn beim Ordnen ihrer Forschung zu helfen. Bei einem Erfolg findet Gwyn ihre Notizen zu Zorzulas Ruh. Sie schlägt vor, dass der Außenposten ein guter Anhaltspunkt sein könnte. Scheitert der Wurf, findet Gwyn die passenden Notizen nicht. Die Charaktere müssen weitere Hinweise aufdecken, um Zorzulas Ruh zu finden. Wenn sie nicht weiterkommen und Gwyn um Hilfe bitten, kann sie ihnen den Standort mitteilen.
 
@@ -161,9 +161,9 @@ Die Goblins haben die folgenden Verbrechen begangen, um die Obeliskensplitter zu
 
 ### Barthens Brunnen
 
-Der Brunnen, den die [[Goblin-mm|Goblins]] zerstört haben, befindet sich hinter Barthens Proviant. Vor Jahren wurde der Brunnen mit Material aus der näheren Umgebung gebaut - darunter ein Obeliskensplitter, der als Trommel für die Seilwinde des Brunnens diente. 
+Der Brunnen, den die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] zerstört haben, befindet sich hinter Barthens Proviant. Vor Jahren wurde der Brunnen mit Material aus der näheren Umgebung gebaut - darunter ein Obeliskensplitter, der als Trommel für die Seilwinde des Brunnens diente. 
 
-Vor Kurzem kamen in der Nacht [[Goblin-mm|Goblins]], um den Obeliskensplitter zu stehlen, und zerstörten dabei den Brunnen. Ihr Überfall wurde jedoch von Ander unterbrochen, einem von Barthens Angestellten. Die [[Goblin-mm|Goblins]] flohen mit dem Splitter, sprangen in den Brunnen und brachten einen Tunnel zum Einsturz, so dass sie niemand nach Zorzulas Ruh verfolgen kann. Diese Flucht staute jedoch nicht nur den unterirdischen Fluss, der den Brunnen mit Wasser versorgt, sondern weckte auch einen mürrischen [[Otyugh-mm|Otyugh]], der sich unter der Stadt an Abfall labt. 
+Vor Kurzem kamen in der Nacht [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]], um den Obeliskensplitter zu stehlen, und zerstörten dabei den Brunnen. Ihr Überfall wurde jedoch von Ander unterbrochen, einem von Barthens Angestellten. Die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] flohen mit dem Splitter, sprangen in den Brunnen und brachten einen Tunnel zum Einsturz, so dass sie niemand nach Zorzulas Ruh verfolgen kann. Diese Flucht staute jedoch nicht nur den unterirdischen Fluss, der den Brunnen mit Wasser versorgt, sondern weckte auch einen mürrischen [[Otyugh-mm|Otyugh]], der sich unter der Stadt an Abfall labt. 
 
 #### Tatort
 
@@ -180,7 +180,7 @@ Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb.m
 
 #### Mit Ander sprechen
 
-Ander ist ein blauäugiger, schnell sprechender halbwüchsiger Halbling ([[Gemeiner-mm|Gemeiner]]) und arbeitet als einer von Bartens Angestellten. Er befand sich gerade im Laden, als die Goblins den Brunnen zerstörten. Ander wartet bei Barthens Proviant, um bei ihrer Ankunft mit den Charakteren zu sprechen. Er gibt folgende Informationen preis: 
+Ander ist ein blauäugiger, schnell sprechender halbwüchsiger Halbling ([[D&D/Bestiarium/Humanoid/Gemeiner-mm|Gemeiner]]) und arbeitet als einer von Bartens Angestellten. Er befand sich gerade im Laden, als die Goblins den Brunnen zerstörten. Ander wartet bei Barthens Proviant, um bei ihrer Ankunft mit den Charakteren zu sprechen. Er gibt folgende Informationen preis: 
 
 ![Goblins haben Barthens Brunnen beim Diebstahl eines Obeliskensplitters aus der Seilwinde zerstört.](058-05-004-barthens-well.webp#center "Goblins destroyed Barthen's Well when they stole an obelisk shard from the winch")
 
@@ -201,7 +201,7 @@ Ander weiß nicht, dass die negativen Auswirkungen durch den Splitter in der Sei
 
 #### Begegnung: Brunnenhöhle
 
-Falls die Charaktere die Verfolgung der [[Goblin-mm|Goblins]] aufnehmen oder die Ursache für den blockierten Brunnen untersuchen wollen, kann ein Charakter mit einem Seil und einem erfolgreichen `SG-10-Stärkewurf` ([[01-Spielleiter/Fertigkeiten-phb.md#Athletik|Athletik]]) in den Brunnen hinabklettern. Wenn die Charaktere kein Seil haben, leiht Ander ihnen eins aus dem Lager des Ladens. Bei einem Erfolg klettert ein Charakter sechs Meter tief in die Höhle unter dem Brunnen (Karte 5.1). Scheitert der Wurf, stürzt der Charakter ab, erleidet 7 (`2W6`) Wuchtschaden und wird [[Zustände-phb#Liegend|umgestoßen]]. 
+Falls die Charaktere die Verfolgung der [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] aufnehmen oder die Ursache für den blockierten Brunnen untersuchen wollen, kann ein Charakter mit einem Seil und einem erfolgreichen `SG-10-Stärkewurf` ([[01-Spielleiter/Fertigkeiten-phb.md#Athletik|Athletik]]) in den Brunnen hinabklettern. Wenn die Charaktere kein Seil haben, leiht Ander ihnen eins aus dem Lager des Ladens. Bei einem Erfolg klettert ein Charakter sechs Meter tief in die Höhle unter dem Brunnen (Karte 5.1). Scheitert der Wurf, stürzt der Charakter ab, erleidet 7 (`2W6`) Wuchtschaden und wird [[Zustände-phb#Liegend|umgestoßen]]. 
 
 > [!gallery]
 > ![Map 5.1: Well Cavern](059-map-5-01-well-cavern.webp#gallery)
@@ -517,11 +517,11 @@ Auf beiden Seiten der Tür befindet sich eine dünne Wendeltreppe, die zu einer 
 > Auf einer Seite des Raums gibt ein Fenster den Blick auf die Küche des Außenpostens frei.
 ^1db
 
-In der Speisehalle essen jederzeit `2W4` [[Goblin-mm|Goblins]] zusammen mit `1W6` [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolden]] und `1W4` [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshabern]].
+In der Speisehalle essen jederzeit `2W4` [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] zusammen mit `1W6` [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolden]] und `1W4` [[Goblin-Psi-Befehlshaber-pabtso|Goblin-Psi-Befehlshabern]].
 
-Wenn sie Eindringlinge in der Speisehalle bemerken, geraten die [[Goblin-mm|Goblins]] in Panik und greifen an. Die [[Goblin-mm|Goblins]] versuchen, Eindringlinge mit ihrer schieren Anzahl abzuwehren, und zielen darauf ab, sie zu überwältigen, anstatt sie zu töten. Wenn die Trefferpunkte aller Charaktere auf 0 sinken, wachen sie als Gefangene im linken Flügel des Indigoblauen Heiligtums (siehe Abschnitt [[#Konfrontation im Heiligtum|„Konfrontation im Heiligtum"]]) neben Phandalins Entführungsopfern auf. Charaktere, die die Speisehalle als [[Goblin-mm|Goblins]] verkleidet betreten, können einen `SG-15-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]]) ausführen. Bei einem Erfolg können sie unbemerkt passieren.
+Wenn sie Eindringlinge in der Speisehalle bemerken, geraten die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] in Panik und greifen an. Die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] versuchen, Eindringlinge mit ihrer schieren Anzahl abzuwehren, und zielen darauf ab, sie zu überwältigen, anstatt sie zu töten. Wenn die Trefferpunkte aller Charaktere auf 0 sinken, wachen sie als Gefangene im linken Flügel des Indigoblauen Heiligtums (siehe Abschnitt [[#Konfrontation im Heiligtum|„Konfrontation im Heiligtum"]]) neben Phandalins Entführungsopfern auf. Charaktere, die die Speisehalle als [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] verkleidet betreten, können einen `SG-15-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]]) ausführen. Bei einem Erfolg können sie unbemerkt passieren.
 
-$\quad$Ein Charakter kann versuchen, die Goblins vom Angriff abzuhalten, indem er einen `SG-13-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) ausführt. Bei einem Erfolg brechen die [[Goblin-mm|Goblins]] den Angriff ab, bleiben der Abenteurergruppe gegenüber jedoch argwöhnisch. Anschließend versuchen die [[Goblin-mm|Goblins]], einen Kompromiss auszuhandeln: Sie erlauben der Abenteurergruppe, den Außenposten zu durchqueren, wenn sie sich um die Monster kümmern, die die Schmiede des Außenpostens heimsuchen (Bereich [[#Z7 Aussichts-Schmiede|Z7]]).
+$\quad$Ein Charakter kann versuchen, die Goblins vom Angriff abzuhalten, indem er einen `SG-13-Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) ausführt. Bei einem Erfolg brechen die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] den Angriff ab, bleiben der Abenteurergruppe gegenüber jedoch argwöhnisch. Anschließend versuchen die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]], einen Kompromiss auszuhandeln: Sie erlauben der Abenteurergruppe, den Außenposten zu durchqueren, wenn sie sich um die Monster kümmern, die die Schmiede des Außenpostens heimsuchen (Bereich [[#Z7 Aussichts-Schmiede|Z7]]).
 
 #### Z4: Schlafkammer
 
@@ -532,11 +532,11 @@ Die Tür zur Schlafkammer ist unverschlossen und angelehnt.
 > Schnarchen erfüllt diesen Raum. Zahlreiche unordentliche Betten säumen die Wände. Ihre Laken sind zerknittert. Eine dunkle Öffnung in der Westwand gibt den Blick auf einen leeren Schacht mit einem Metallgitter frei.
 ^1dd
 
-Dort schlafen jederzeit `1W6` [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]]. Charaktere, die den Raum betreten, müssen einen `SG-17-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) bestehen, um die [[Goblin-mm|Goblins]] nicht aufzuwecken.
+Dort schlafen jederzeit `1W6` [[Goblin-Psi-Raufbold-pabtso|Goblin-Psi-Raufbolde]]. Charaktere, die den Raum betreten, müssen einen `SG-17-Geschicklichkeitswurf` ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) bestehen, um die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] nicht aufzuwecken.
 
-Wenn die [[Goblin-mm|Goblins]] in den Betten aufwachen, fliehen sie und rufen um Hilfe. Ein Charakter, der einen `SG-16- Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) besteht, kann die [[Goblin-mm|Goblins]] jedoch überreden, still zu sein und die Anwesenheit der Abenteurergruppe geheim zu halten - unter der Bedingung, dass die Charaktere die Monster in der Schmiede besiegen (Bereich [[#Z7 Aussichts-Schmiede|Z7]]).
+Wenn die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] in den Betten aufwachen, fliehen sie und rufen um Hilfe. Ein Charakter, der einen `SG-16- Charismawurf` ([[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]] oder [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]]) besteht, kann die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] jedoch überreden, still zu sein und die Anwesenheit der Abenteurergruppe geheim zu halten - unter der Bedingung, dass die Charaktere die Monster in der Schmiede besiegen (Bereich [[#Z7 Aussichts-Schmiede|Z7]]).
 
-$\quad$Wenn sie nach [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] gefragt werden, geben die [[Goblin-mm|Goblins]] an, dass er sich wahrscheinlich im blauen Raum aufhält. Dort kommuniziert er mit den mächtigen Göttern, die ihm und den anderen psionischen [[Goblin-mm|Goblins]] ihre Kräfte verliehen haben. Gemeint ist das Indigoblaue Heiligtum, das sich auf der anderen Seite der Brücke befindet (Bereich [[#Z19 Übergang zum Heiligtum|Z19]]). Die [[Goblin-mm|Goblins]] kennen keine weiteren Einzelheiten über [[Ruxithid_der_Auserwählte-pabtso|Ruxithids]] großen Plan.
+$\quad$Wenn sie nach [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] gefragt werden, geben die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] an, dass er sich wahrscheinlich im blauen Raum aufhält. Dort kommuniziert er mit den mächtigen Göttern, die ihm und den anderen psionischen [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] ihre Kräfte verliehen haben. Gemeint ist das Indigoblaue Heiligtum, das sich auf der anderen Seite der Brücke befindet (Bereich [[#Z19 Übergang zum Heiligtum|Z19]]). Die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] kennen keine weiteren Einzelheiten über [[Ruxithid_der_Auserwählte-pabtso|Ruxithids]] großen Plan.
 
 ##### Z4: Minenschaft
 
@@ -780,7 +780,7 @@ Wenn Charaktere der Aufmerksamkeit des [[Otyugh-Mutant-pabtso|Otyugh-Mutanten]] 
 
 ##### Z16: Schätze
 
-Durch die durchscheinende Haut des Otyughs kann man in seinen Magen sehen. Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) von mindestens 14 bemerken glitzerndes Metall in seinem Bauch. Dabei handelt es sich um eine [[Leuchtende_Kriegspicke-pabtso|Leuchtende Kriegspicke]]. Der [[Otyugh-Mutant-pabtso|Otyugh-Mutant]] hat sie aus Versehen verschluckt, als er sich an der Leiche eines [[Goblin-mm|Goblins]] labte. Der magische Gegenstand kann leicht aus dem Körper des [[Otyugh-Mutant-pabtso|Otyugh-Mutanten]] geborgen werden, sobald dieser tot ist.
+Durch die durchscheinende Haut des Otyughs kann man in seinen Magen sehen. Charaktere mit einem passiven Weisheitswert ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) von mindestens 14 bemerken glitzerndes Metall in seinem Bauch. Dabei handelt es sich um eine [[Leuchtende_Kriegspicke-pabtso|Leuchtende Kriegspicke]]. Der [[Otyugh-Mutant-pabtso|Otyugh-Mutant]] hat sie aus Versehen verschluckt, als er sich an der Leiche eines [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] labte. Der magische Gegenstand kann leicht aus dem Körper des [[Otyugh-Mutant-pabtso|Otyugh-Mutanten]] geborgen werden, sobald dieser tot ist.
 
 #### Z17: Ilsensine-Schrein
 
@@ -791,7 +791,7 @@ Durch die durchscheinende Haut des Otyughs kann man in seinen Magen sehen. Chara
 
 Ein Charakter, der einen `SG-17-Intelligenzwurf` ([[01-Spielleiter/Fertigkeiten-phb#Religion|Religion]]) besteht, erkennt anhand der Ikonografie auf dem verunstalteten Schrein, dass er Ilsensine gewidmet ist, dem Schutzgott des Illithidenimperiums. Der Schrein wurde auf einer zerbrochenen Duergar-Statue errichtet und kürzlich von jemandem verunstaltet.
 
-Nachdem [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] die Führung der Enklave übernommen hatte, entdeckten ein paar [[Goblin-mm|Goblins]] den Schrein und zerstörten ihn. Werden die [[Goblin-mm|Goblins]] gefragt, warum sie den Schrein zerstört haben, beharren sie darauf, dass sie die Anwesenheit des Schreins verabscheuen. Sie erläutern dies jedoch nicht näher. (Sie wissen nicht, dass der Drang zur Zerstörung des Schreins auf [[Ruxithid_der_Auserwählte-pabtso|Ruxithids]] Verbindung zu Ilvaash zurückzuführen ist, einer Gottheit aus dem Fernen Reich, die Ilsensine verachtet.)
+Nachdem [[Ruxithid_der_Auserwählte-pabtso|Ruxithid]] die Führung der Enklave übernommen hatte, entdeckten ein paar [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] den Schrein und zerstörten ihn. Werden die [[D&D/Bestiarium/Humanoid/Goblin-mm|Goblins]] gefragt, warum sie den Schrein zerstört haben, beharren sie darauf, dass sie die Anwesenheit des Schreins verabscheuen. Sie erläutern dies jedoch nicht näher. (Sie wissen nicht, dass der Drang zur Zerstörung des Schreins auf [[Ruxithid_der_Auserwählte-pabtso|Ruxithids]] Verbindung zu Ilvaash zurückzuführen ist, einer Gottheit aus dem Fernen Reich, die Ilsensine verachtet.)
 
 ##### Z17: Böse Energie
 
@@ -936,7 +936,7 @@ Ruxithid trägt einen Schlüssel zu seinem Gemach (Bereich Z10 in Zorzulas Ruh) 
 
 Die Goblins benutzen den Westflügel des Heiligtums für die Entführungsopfer. Die meisten von ihnen wurden als „Opfergaben für die Götter" - beziehungsweise als Nahrung für die Gedankenschinder - an einen anderen Ort gebracht. Einige wurden jedoch für untauglich erachtet und in den Tiefen des Heiligtums dem Hungertod überlassen.
 
-Hier befinden sich drei Geiseln. Alle nutzen den Wertekasten von [[Gemeiner-mm|Gemeinen]]. Es handelt sich um Dareth Grint, einen menschlichen Bauern und Cousin zweiten Grads von Bürgermeister Harbin Wester, Paulina Previne, eine menschliche Stallmagd, die gelegentlich im Gasthaus Steinhügel arbeitet, und Tumblewick Rollins, ein Gnomenapotheker.
+Hier befinden sich drei Geiseln. Alle nutzen den Wertekasten von [[D&D/Bestiarium/Humanoid/Gemeiner-mm|Gemeinen]]. Es handelt sich um Dareth Grint, einen menschlichen Bauern und Cousin zweiten Grads von Bürgermeister Harbin Wester, Paulina Previne, eine menschliche Stallmagd, die gelegentlich im Gasthaus Steinhügel arbeitet, und Tumblewick Rollins, ein Gnomenapotheker.
 
 Sie sind kränklich und kaum bei Bewusstsein. Die Goblins haben ihnen nicht viel erklärt. Daher können sie sich nur an wenige Dinge aus ihrer Zeit als Gefangene erinnern:
 

@@ -50,7 +50,7 @@ $\quad$Würfle mit einem `W12` und prüfe anhand der Tabelle „Umherwandernde M
 | 1-3   | 2d4 [[Blutmücke-mm\|Blutmücken]]         |
 | 4-5   | 1d4 [[Ghul-mm\|Ghule]]                   | 
 | 6     | 1d4 [[Grick-mm\|Gricks]]                 |
-| 7-8   | 1d4 [[Grottenschrat-mm\|Grottenschrate]] |
+| 7-8   | 1d4 [[D&D/Bestiarium/Humanoid/Grottenschrat-mm\|Grottenschrate]] |
 | 9     | 1d6 [[Skelett-mm\|Skelette]]             |
 | 10    | 1d6 [[Zombie-mm\|Zombies]]               |
 | 11-12 | 1 [[Ockergallerte-mm\|Ockergallerte]]    |
@@ -261,11 +261,11 @@ Wenn die Abenteurergruppe von Westen her eintritt, füge hinzu:
 > [!readaloud] W11: Nördliche Quartiere
 > Am anderen Ende des Raums befindet sich eine weitere Tür, die mit einem kaputten Holztisch verbarrikadiert wurde.
 
-Sechs [[Grottenschrat-mm|Grottenschrate]] sind in dieser Kammer untergebracht. Es handelt sich um treue Diener von [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]]. Dieser Raum bildet die Frontlinie beim Angriff der Spinne auf die Wellenhallhöhle, und die [[Grottenschrat-mm|Grottenschrate]] sind hier, um Ghule, Zombies und sonstige Untote vom Quartier ihres Anführers (Bereich [[#W19 Tempel des Dumathoin|W19]]) fernzuhalten.
+Sechs [[D&D/Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] sind in dieser Kammer untergebracht. Es handelt sich um treue Diener von [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]]. Dieser Raum bildet die Frontlinie beim Angriff der Spinne auf die Wellenhallhöhle, und die [[D&D/Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] sind hier, um Ghule, Zombies und sonstige Untote vom Quartier ihres Anführers (Bereich [[#W19 Tempel des Dumathoin|W19]]) fernzuhalten.
 
 Wie Bereich [[#W6 Südliche Quartiere|W6]] war auch dies früher eine Unterkunft für Minenarbeiter. Die Grottenschrate haben die Leichen, die sie hier gefunden haben, entfernt und die Barrikade errichtet.
 
-**_Schätze:_** Der größere [[Grottenschrat-mm|Grottenschrat]] trägt einen [[Beutel-phb|Beutel]] mit 15 <font color="#B87333">Kupfermünzen</font>, 13 <font color="SkyBlue">Elektrummünzen</font>, zwei Achaten (je 10 <font color="Gold">Goldmünzen</font> wert) und einem [[Trank_der_Heilung-dmg|Heiltrank]] bei sich.
+**_Schätze:_** Der größere [[D&D/Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrat]] trägt einen [[Beutel-phb|Beutel]] mit 15 <font color="#B87333">Kupfermünzen</font>, 13 <font color="SkyBlue">Elektrummünzen</font>, zwei Achaten (je 10 <font color="Gold">Goldmünzen</font> wert) und einem [[Trank_der_Heilung-dmg|Heiltrank]] bei sich.
 
 ```encounter
 name: W11
@@ -405,7 +405,7 @@ $\quad$Die Zwerge haben den Bach in den Kanal in Bereich [[#W12 Hochofenhöhle|W
 
 Diese Höhle ist von [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznars]] Lakaien besetzt. Die Weissagungen der Spinne lassen darauf schließen, dass sich wertvolle Schätze am Grund des Spalts befinden, der entstand, als dieser Bereich zerstört wurde.
 
-$\quad$Zwei der vier [[Grottenschrat-mm|Grottenschrate]] in diesem Bereich räumen Geröll aus dem Riss, die anderen beiden stehen im westlichen Teil der Höhle Wache, falls Untote hier eindringen sollten. Ein als Drow getarnter [[Doppelgänger-mm|Doppelgänger]] namens Vhalak überwacht den Vorgang. Wenn es in der Haupthöhle zum Kampf kommt, klettern die beiden [[Grottenschrat-mm|Grottenschrate]] im Riss an den Seilen hoch und stürzen sich ins Getümmel.
+$\quad$Zwei der vier [[D&D/Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] in diesem Bereich räumen Geröll aus dem Riss, die anderen beiden stehen im westlichen Teil der Höhle Wache, falls Untote hier eindringen sollten. Ein als Drow getarnter [[Doppelgänger-mm|Doppelgänger]] namens Vhalak überwacht den Vorgang. Wenn es in der Haupthöhle zum Kampf kommt, klettern die beiden [[D&D/Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]] im Riss an den Seilen hoch und stürzen sich ins Getümmel.
 
 $\quad$**_Riss:_** Der Riss ist sechs Meter tief.
 
@@ -435,7 +435,7 @@ Wenn die Kreaturen im Raum die Charaktere beim Eintreten nicht bemerken, füge F
 > [!readaloud] W19: Tempel des Dumathoin
 > Beim Tisch stehen zwei Grottenschrate. Sie flankieren einen Drow in schwarzer Lederrüstung und schwarzer Robe. Der Drow hält einen schwarzen Stab mit einer geschnitzten Spinne an der Spitze. Als er euch sieht, runzelt er die Stirn. ,,Offenbar muss ich selbst mit Euch fertig werden. Ein Jammer, dass es so enden muss."
 
-[[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar die Spinne]] ist in Begleitung zweier [[Grottenschrat-mm|Grottenschrate]], die ihren Anführer bis zum Tod verteidigen. Wenn sich der Doppelgänger aus Bereich [[#W18 Eingestürzte Höhle|W18]] in diesen Bereich zurückgezogen hat, nimmt er die Gestalt von [[Nundro_Felssucher-pabtso|Nundro Felssucher]] an, damit [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]] die Abenteurergruppe zum Kapitulieren zwingen kann, indem er den vermeintlichen Zwerg bedroht - wobei die Spinne dem Doppelgänger keinen Schaden zufügen würde. Unter „Rollenspiel: [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]]" findest du weitere Informationen zur Spinne.
+[[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar die Spinne]] ist in Begleitung zweier [[D&D/Bestiarium/Humanoid/Grottenschrat-mm|Grottenschrate]], die ihren Anführer bis zum Tod verteidigen. Wenn sich der Doppelgänger aus Bereich [[#W18 Eingestürzte Höhle|W18]] in diesen Bereich zurückgezogen hat, nimmt er die Gestalt von [[Nundro_Felssucher-pabtso|Nundro Felssucher]] an, damit [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]] die Abenteurergruppe zum Kapitulieren zwingen kann, indem er den vermeintlichen Zwerg bedroht - wobei die Spinne dem Doppelgänger keinen Schaden zufügen würde. Unter „Rollenspiel: [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]]" findest du weitere Informationen zur Spinne.
 
 $\quad$Wenn sie mit Ärger rechnen, verstecken die Grottenschrate sich hinter den Säulen, und [[Nezznar_die_Schwarze_Spinne-pabtso|Nezznar]] wirkt Unsichtbarkeit auf sich selbst und hält sich beim Tisch auf. Führe einen `Geschicklichkeitswurf (Heimlichkeit)` für jeden der Grottenschrate aus. Das niedrigste Ergebnis ist der `SG` für den `Weisheitswurf (Wahrnehmung)`, den die Charaktere ausführen müssen, damit sie nicht überrascht werden.
 

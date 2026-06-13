@@ -40,40 +40,39 @@ Ein Wassergeist muss nicht atmen, essen, trinken oder schlafen.
 > [!quote] Die 2. Regel des Überlebens im Gewölbe von X dem Mystiker
 > Ehe du aus einem Brunnen oder Tümpel trinkst, wirf eine Kupfermünze hinein. Dies ist ein kleiner Preis, den du für dein Überleben bezahlst. 
 
-```statblock
-name: Wassergeist
-image: Elementar/token/water-weird.webp
-source:
-  - MM
-size: Groß
-type: Elementar
-alignment: Neutral
-ac: 13
-hp: 58
-hit_dice: 9d10 + 9
-modifier: 3
-stats:
-  - 17
-  - 16
-  - 13
-  - 11
-  - 10
-  - 10
-speed: 0 m, schwimmen 18 m
-damage_resistances: Feuer; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe 
-damage_immunities: Gift
-condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bewusstlos|bewusstlos<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Liegend|liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
-senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Blindsicht|Blindsicht<STATBLOCK-MARKDOWN-LINK> 9 m, passive Wahrnehmung 10
-languages: Versteht Aqual, kann aber nicht sprechen
-cr: "3"
-environment: Stadt, Unterreich
-traits:
-  - name: Unsichtbar im Wasser.  
-    desc: Der Wassergeist is <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Unsichtbar|Unsichtbar<STATBLOCK-MARKDOWN-LINK>, solange er voll im Wasser untergetaucht ist
-  - name: Wassergebunden
-    desc: Der Wassergeist stirbt, wenn er das Wasser verlässt, an das er gebunden ist, oder wenn dieses Wasser zerstört wird. 
-actions:
-  - name: Umschlingen
-    desc: "*Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 3 m, eine Kreatur. *Treffer:* 13 (3d6 + 3) Wuchtschaden. Wenn das Ziel mittelgroß oder kleiner ist, wird es <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 13) und 1,5 min Richtung des Wassergeists gezogen. Bis der Haltegriff endet, ist das Ziel <STATBLOCK-MARKDOWN-LINK>Zustände-phb#festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, der Wassergeist versucht es zu ertränken, und der Wassergeist kann kein anderes Ziel umschlingen."
-```
+> [!statblock] Wassergeist
+> ![[token/water-weird.webp|right|100]]
+> *Großer Elementar, Neutral*
+> 
+> - **Rüstungsklasse** 13
+> - **Trefferpunkte** 58 (`9d10 + 9`)
+> - **Bewegungsrate** 0 Meter, schwimmen 18 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** X +Y
+> - **Sinne** [[Sinne-phb#Blindsicht|Blindsicht]] 9 m, passive Wahrnehmung 10
+> - **Schadensresistenzen** Feuer; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe 
+> - **Schadensimmunitäten** Gift
+> - **Zustandsimmunitäten** [[Zustände-phb#Bewusstlos|bewusstlos]], [[Zustände-phb#Erschöpfung|erschöpft]], [[Zustände-phb#Festgesetzt|festgesetzt]], [[Zustände-phb#Gelähmt|gelähmt]], [[Zustände-phb#Gepackt|gepackt]], [[Zustände-phb#Liegend|liegend]], [[Zustände-phb#Vergiftet|vergiftet]] <br><br>
+> - **Sprachen** Versteht Aqual, kann aber nicht sprechen
+> - **Herausforderungsgrad** 3 (700 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Unsichtbar im Wasser:*** Der Wassergeist is [[Zustände-phb#Unsichtbar|Unsichtbar]], solange er voll im Wasser untergetaucht ist.
+> 
+> ***Wassergebunden:*** Der Wassergeist stirbt, wenn er das Wasser verlässt, an das er gebunden ist, oder wenn dieses Wasser zerstört wird. 
+> 
+> ## Aktionen
+> 
+> ***Umschlingen.*** *Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 3 m, eine Kreatur. *Treffer:* 13 (`3d6 + 3`) Wuchtschaden. Wenn das Ziel mittelgroß oder kleiner ist, wird es [[Zustände-phb#gepackt|gepackt]] (SG zum Entkommen 13) und 1,5 min Richtung des Wassergeists gezogen. Bis der Haltegriff endet, ist das Ziel [[Zustände-phb#festgesetzt|festgesetzt]], der Wassergeist versucht es zu ertränken, und der Wassergeist kann kein anderes Ziel umschlingen.
 ^statblock
+
+## Vorkommen
+
+Stadt, Unterreich

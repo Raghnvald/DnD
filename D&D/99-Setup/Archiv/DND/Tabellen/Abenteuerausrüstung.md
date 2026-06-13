@@ -44,7 +44,7 @@ _Quellen:_ Spielerhandbuch
 | [Flasche, Glas](Flasche-phb.md)                                                  |     2 GM |        1,0 kg. |
 | [[Becher-old]] oder [[Tonhumpen]]                                                       |     2 KM |        0,5 kg. |
 | [[Flaschenzug]]                                                                  |     1 GM |        2,5 kg. |
-| [[Gegengiftphiole-old]]                                                              |    50 GM |              — |
+| [[Gegengiftphiole-phb]]                                                              |    50 GM |              — |
 | [[Giftmischerausrüstung-old]]                                                          |    50 GM |        1,0 kg. |
 | [Giftphiole, einfach](Giftphiole-einfach.md)                      |   100 GM |              — |
 | [[Glocke-old]]                                                                       |     1 GM |              — |

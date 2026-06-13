@@ -38,8 +38,8 @@ Ein [[Identifzieren-phb|Identifizieren]]-Zauber zeigt, dass sich eine Kreatur in
 | 73-74 | [[Djinni-mm\|Djinni]] |
 | 75-76 | [[Ifrit-mm\|Ifrit]] |
 | 77-78 | Elementar (irgendeins) |
-| 79 | [[Githyanki-Ritter-mm\|Githyanki-Ritter]] |
-| 80 | [[Githzerai-Zerth-mm\|Githzerai-Zerth]] |
+| 79 | [[D&D/Bestiarium/Humanoid/Githyanki-Ritter-mm\|Githyanki-Ritter]] |
+| 80 | [[D&D/Bestiarium/Humanoid/Githzerai-Zerth-mm\|Githzerai-Zerth]] |
 | 81-82 | [[Unsichtbarer_Pirscher-mm\|Unsichtbarer Pirscher]] |
 | 83-84 | [[Marid-mm\|Marid]] |
 | 85-86 | [[Mezzoloth-mm\|Mezzoloth]] |

@@ -29,85 +29,71 @@ Kas sieht aus wie ein muskulöser schwarzhaariger menschlicher Mann in seinen Dr
 
 Kas ist grausam, boshaft und unerbittlich in seinem Streben nach Rache an Vecna. Er lügt bereitwillig, bricht Versprechen, verrät Verbündete und verhöhnt diejenigen, die auf seine Finten hereinfallen. Wer seine Überlegenheit nicht bestätigt oder ihm nicht hilft, seine Ziele zu erreichen, für den hat er nichts übrig. 
 
-In "_Vecna: Vorabend der Verdammnis_" hält Kas die beiden mächtigen Magierinnen Tasha und Alustriel zum Narren. Er will nicht nur Vecna besiegen, die Magierinnen sollen auch unbedingt seine Stärke sehen und würdigen. 
+In "_Vecna: Vorabend der Verdammnis_" hält Kas die beiden mächtigen Magierinnen [[Tasha_die_Hexe-veor|Tasha]] und [[Alustriel_Silberhand-veor|Alustriel]] zum Narren. Er will nicht nur [[Vecna_der_Erzlich-veor|Vecna]] besiegen, die Magierinnen sollen auch unbedingt seine Stärke sehen und würdigen.
 
-```statblock
-name: Kas der Verräter
-image: token/kas-the-betrayer-veor.webp
-source:
-  - VEoR
-size: Mittelgroß
-type: Untot
-subtype: Vampir
-alignment: Neutral böse
-ac: 18
-ac_class: <STATBLOCK-MARKDOWN-LINK>Ritterrüstung-phb|Ritterrüstung<STATBLOCK-MARKDOWN-LINK>
-hp: 315
-hit_dice: 30d8 + 180
-modifier: 5
-stats:
-  - 26
-  - 20
-  - 22
-  - 24
-  - 19
-  - 26
-speed: 12 m
-saves:
-  - Konstitution: 13
-  - Weisheit: 11
-  - Charisma: 15
-skillsaves:
-  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
-    desc: "+14"
-  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
-    desc: "+12"
-  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Täuschung|Täuschung<STATBLOCK-MARKDOWN-LINK>
-    desc: "+22"
-  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
-    desc: "+11"
-damage_immunities: Gift, Nekrotisch; Hieb, Stich und Wucht durch nichtmagische Angriffe
-condition_immunities: Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet
-senses: Dunkelsicht 36 m, passive Wahrnehmung 21
-languages: Abyssisch, Drakonisch, Gemeinsprache, Infernalisch
-cr: "23"
-traits:
-  - desc: Kas adds 1d10 to his initiative rolls. He has advantage on attack rolls against any creature that has the frightened condition.
-    name: Eager Betrayer
-  - desc: If Kas fails a saving throw, he can choose to succeed instead.
-    name: Legendary Resistance (3/Day)
-  - desc: Kas regains 20 hit points at the start of his turn if he has at least 1 hit point. If he takes radiant damage, this trait doesn't function at the start of his next turn.
-    name: Regeneration
-  - desc: "Kas wears the <STATBLOCK-MARKDOWN-LINK>/3-Mechanics/CLI/items/crown-of-lies-veor.md|Crown of Lies<STATBLOCK-MARKDOWN-LINK> (see the Introduction of Vecna: Eve of Ruin)."
-    name: Special Equipment
-  - desc: Kas can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-    name: Spider Climb
-  - desc: Kas doesn't require a coffin, and he drinks blood to sow terror rather than for sustenance. If destroyed, Kas revives in 1d100 nights in an unoccupied space in Tovag, his Domain of Dread. He can be permanently destroyed only by having a stake driven through his heart and then being beheaded. The stake must be cut from a tree growing in soil from Oerth, Kas's home world.
-    name: Strength of the Night
-  - desc: While in sunlight, Kas takes 20 radiant damage at the start of his turn, has disadvantage on attack rolls and ability checks, and can't use his Change Shape bonus action.
-    name: Sunlight Hypersensitivity
-actions:
-  - desc: Kas makes three Vengeful Sword attacks. He can replace one of these attacks with a Bite attack.
-    name: Multiattack
-  - desc: "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 20 (2d8 + 11) slashing damage. The sword scores a critical hit on a roll of 19 or 20."
-    name: Vengeful Sword
-  - desc: "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one creature. *Hit:* 11 (1d6 + 8) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Kas regains a number of hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0. A Humanoid slain in this way and then buried rises the following night as a vampire spawn under Kas's control."
-    name: Bite
-bonus_actions:
-  - desc: Kas transforms into a Medium cloud of mist. While in this form, Kas has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. While in mist form, Kas can pass through a space without squeezing as long as air can pass through that space, but he can't pass through water. Kas has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage except the damage he takes as part of his Vampire Weaknesses trait. While in mist form, Kas can't take any actions, speak, or manipulate objects.
-    name: Change Shape
-  - desc: Kas targets one creature he can see within 60 feet of himself. The target must succeed on a DC 23 Wisdom saving throw or have the frightened condition until the start of Kas's next turn.
-    name: Menacing Glare
-reactions:
-  - desc: Kas adds 3 to his AC against one melee attack roll that would hit him. He then makes one Vengeful Sword attack against the attacker if it is within his reach. On a hit, the target takes an additional 9 (2d8) slashing damage.
-    name: Parrying Riposte
-legendary_description: "Legendary Action Uses: 3. Immediately after another creature's turn, Kas can expend a use to take one of the following actions. Kas regains all expended uses at the start of each of their turns."
-legendary_actions:
-  - desc: Kas moves up to his speed without provoking opportunity attacks.
-    name: Move
-  - desc: Kas makes one Vengeful Sword attack.
-    name: Sword (Costs 2 Actions)
-  - desc: Kas magically summons a specter. The specter appears in an unoccupied space within 30 feet of Kas, whom it obeys. The specter takes its turn immediately after Kas. It lasts for 1 hour, until Kas dies, or until Kas dismisses it as a bonus action. Kas can't have more than two specters summoned at a time.
-    name: Rise, Fallen Soldier (Costs 3 Actions)
-```
+> [!statblock] Kas der Verräter
+> ![[kas-the-betrayer-veor.webp|right|100]]
+> *Mittelgroßer Untoter (Vampir), Neutral Böse*
+> 
+> - **Rüstungsklasse** 18 ( [[Ritterrüstung-phb|Ritterrüstung]])
+> - **Trefferpunkte** 315 (`30d8 + 180`)
+> - **Bewegungsrate** 12 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 26 (+8)|20 (+5)|22 (+6)|24 (+7)|19 (+4)|26 (+8)|
+> 
+> - **Rettungswürfe** KON +13, WEI +11, CHA +15
+> - **Fertigkeiten** Arkane Kunde +14, Heimlichkeit +11, Täuschung +22, Wahrnehmung +11
+> - **Sinne** Dunkelsicht 36 m, passive Wahrnehmung 21
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** Gift, Nekrotisch; Hieb, Stich und Wucht durch nichtmagische Angriffe
+> - **Zustandsimmunitäten** Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet<br><br>
+> - **Sprachen** Abyssisch, Drakonisch, Gemeinsprache, Infernalisch
+> - **Herausforderungsgrad** 23 (50.000 EP)
+> - **Übungsbonus** +7
+> 
+> ## Merkmale
+> 
+> ***Besondere Ausrüstung:*** Kas trägt die [[Krone_der_Lügen-veor|Krone der Lügen]].
+> 
+>***Eifriger Verräter:*** Kas fügt seinen lnitiativewürfen `1d10` hinzu. Er ist bei Angriffswürfen gegen verängstigte Kreaturen im Vorteil. 
+>
+> ***Hyperempfindlich gegenüber Sonnenlicht:*** Im Sonnenlicht erleidet Kas zu Beginn seines Zugs 20 gleißenden Schaden, ist bei Angriffs- und Attributswürfen im Nachteil und kann seine Gestalt nicht ändern. 
+> 
+> ***Legendäre Resistenz (3-mal täglich):*** Wenn sein Rettungswurf scheitert, kann Kas den Wurf in einen Erfolg verwandeln. 
+> 
+> ***Regeneration:*** Kas erhält zu Beginn seines Zugs 20 Trefferpunkte zurück, wenn er noch mindestens 1 Trefferpunkt hat. Wenn er gleißenden Schaden erleidet, wirkt dieses Merkmal zu Beginn seines nächsten Zugs nicht. 
+> 
+> ***Spinnenklettern:*** Kas kann ohne Attributswürfe schwierige Oberflächen erklimmen und sich kopfüber an Decken entlang bewegen. 
+> 
+> ***Stärke der Nacht:*** Kas braucht keinen Sarg und trinkt Blut nur, um Angst und Schrecken zu verbreiten. Zu seiner Ernährung braucht er es nicht. Wenn er zerstört wird, ersteht er in `1d100` Nächten an einer freie Stelle in Tovag, seiner Domäne des Schreckens, wieder auf. Er kann nur dauerhaft besiegt werden, indem ihm ein Pflock durchs Herz getrieben und er dann enthauptet wird. Der Pflock muss aus dem Holz eines Baumes aus Kas' Heimatwelt Oerth bestehen. 
+>
+> ## Aktionen
+> 
+>  ***Mehrfachangriff:*** Kas führt drei Rachsüchtiges-Schwert-Angriffe aus. Er kann einen dieser Angriffe durch einen Bissangriff ersetzen. 
+> 
+> ***Biss:*** *Nahkampf-Waffenangriff:* +15 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 11 (`1d6+8`) Stichschaden plus 10 (`3d6`) nekrotischer Schaden. Das Trefferpunktemaximum des Ziels wird um den Betrag des erlittenen nekrotischen Schadens verringert, und Kas erhält Trefferpunkte in Höhe dieses Betrags zurück. Das Trefferpunktemaximum bleibt verringert, bis das Ziel eine lange Rast beendet. Wird das Trefferpunktemaximum auf 0 verringert, stirbt das Ziel. Ein Humanoide, der auf diese Art stirbt und dann begraben wird, erhebt sich in der folgenden Nacht als [[Vampirbrut-mm|Vampirbrut]] unter Kas' Kontrolle. 
+> 
+> ***Rachsüchtiges Schwert :*** *Nahkampf-Waffenangriff:* +15 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 20 (`2d8+11`) Hiebschaden. Bei einem Ergebnis von 19 oder 20 erzielt das Schwert einen kritischen Treffer. 
+> 
+> ## Bonusaktionen
+> 
+> ***Bedrohliches Starren:*** Kas zielt auf eine Kreatur im Abstand von bis zu 18 Metern, die er sehen kann. Das Ziel muss einen `SG-23-Weisheits-Rettungswurf` bestehen, oder es ist bis zum Beginn von Kas' nächstem Zug verängstigt. 
+> 
+> ***Gestalt ändern:*** Kas verwandelt sich in eine mittelgroße Nebelwolke oder wieder zurück in seine wahre Gestalt. Kleidung, die er trägt, verwandelt sich mit ihm, Gegenstände, die er mit sich führt, jedoch nicht. Wenn er stirbt, nimmt er seine wahre Gestalt an. In Nebelgestalt hat Kaseine Flugbewegungsrate von sechs Metern, kann schweben, in den Bereich einer feindlich gesinnten Kreatur eindringen und dort stoppen. Er kann durch jeden Bereich gelangen, ohne sich quetschen zu müssen, sofern Luft durch diesen Bereich gelangen kann. Durch Wasser kann er jedoch nicht gelangen. Kas ist bei Stärke-, Geschicklichkeits- und Konstitutionsrettungswürfen im Vorteil, und er ist gegen alle nichtmagischen Schadensarten außer gegen Schaden, den er im Rahmen seines Merkmals Hyperempfindlich gegenüber Sonnenlicht erleidet, immun. In Nebelgestalt kann Kas keine Aktionen ausführen, nicht sprechen und nicht mit Gegenständen interagieren. 
+> 
+> ## Reaktionen
+> 
+> ***Parierende Riposte:*** Kas erhöht bei einem Nahkampfangriff, der ihn treffen würde, seine RK um 3. Dann führt er einen Rachsüchtiges-Schwert-Angriff gegen den Angreifer aus, sofern sich dieser in Reichweite befindet. Bei einem Treffer erleidet das Ziel zusätzlich 9 (`2d8`) Hiebschaden.
+> 
+> ## Legendäre Aktionen
+> 
+> Kas kann drei legendäre Aktionen entsprechend den unten aufgeführten Optionen ausführen. Er kann jeweils nur eine legendäre Aktion und nur am Ende des Zugs einer anderen Kreatur ausführen. Verbrauchte legendäre Aktionen erhält Kas am Anfang seines Zugs zurück. 
+> 
+> ***Bewegung:*** Kas nutzt seine Bewegungsrate, ohne Gelegenheitsangriffe zu provozieren. 
+> 
+> ***Schwert (kostet 2 Aktionen):*** Kas führt einen RachsüchtigesSchwert-Angriff aus. 
+> 
+> ***Erhebt Euch von den Toten! (kostet 3 Aktionen):*** Kas beschwört auf magische Art ein [[Schreckgespenst-mm|Schreckgespenst]]. Dieses erscheint an einer freien Stelle im Abstand von bis zu neun Metern von Kas und gehorcht ihm. Das Schreckgespenst ist sofort nach Kas am Zug. Es bleibt bestehen, bis eine Stunde vergangen ist, Kas stirbt oder es als Bonusaktion entlässt. Kas kann nicht mehr als zwei Schreckgespenster zugleich beschwören.
 ^statblock

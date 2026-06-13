@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Zwergengürtel
+Bezeichnung: Belt of Dwarvenkind
 Kategorie: Wundersamer Gegenstand 
 linter-yaml-title-alias: Belt of Dwarvenkind
 tags:

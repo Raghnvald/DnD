@@ -18,8 +18,8 @@ aliases:
 # Rucksack
 *Abenteuerausrüstung*
 
-- **Gewicht**: 2,5 kg.
 - **Kosten**: 2 Goldmünzen
+- **Gewicht**: 2,5 kg.
 
 Ein Rucksack fasst 30 Liter oder 15,0 kg. Ausrüstung. [^¹]
 

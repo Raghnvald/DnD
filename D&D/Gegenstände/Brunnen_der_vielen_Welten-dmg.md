@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Well of Many Worlds
+Bezeichnung: Brunnen der vielen Welten
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Well of Many Worlds
 tags:
@@ -9,11 +9,11 @@ tags:
 aliases:
   - Well of Many Worlds
 ---
-# Well of Many Worlds
-*Wondrous item, major, legendary*  
+# Brunnen der vielen Welten 
+*Wundersamer Gegenstand, legendär*  
 
-This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+Dieses feine schwarze Tuch, weich wie Seide, ist auf die Abmessungen eines Taschentuchs zusammengefaltet. Es entfaltet sich in ein kreisförmiges Tuch von 1,80 m Durchmesser. 
 
-You can use an action to unfold and place the well of many worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the DM decides where it leads. You can use an action to close an open portal by taking hold of the edges of the cloth and folding it up. Once well of many worlds has opened a portal, it can't do so again for `1d8` hours.
+Du kannst eine Aktion aufwenden und den Brunnen der vielen Welten auf eine solide Oberfläche platzieren, woraufhin er ein beidseitig passierbares Portal zu einer anderen Ebene erschafft. Jedes Mal, wenn der Gegenstand ein Portal öffnet, entscheidet der SL, wohin es führt. Du kannst eine Aktion aufwenden, um das Portal zu schließen, indem du die Kanten des Tuchs nimmst und es zusammenfaltest. Wenn der Brunnen der vielen Welten ein Portal geöffnet hat. kann er das für `1d8` Stunden nicht wiederholen. 
 
-*Source: Dungeon Master's Guide p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch p. 154. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

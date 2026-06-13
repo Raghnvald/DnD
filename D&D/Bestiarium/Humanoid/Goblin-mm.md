@@ -59,42 +59,38 @@ Maglubiyet, der Mächtige, der Fürst der Tiefe und Dunkelheit, ist der höchste
 > 
 > **Bree-Yark!**
 
-```statblock
-name: Goblin
-image: token/goblin.webp
-source: MM
-size: Klein
-type: Humanoid
-subtype: Goblinoid
-alignment: Neutral Böse
-ac: 15
-ac_class: <STATBLOCK-MARKDOWN-LINK>Gegenstände/Lederrüstung-phb|Lederrüstung<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Gegenstände/Schild-phb|Schild<STATBLOCK-MARKDOWN-LINK>
-hp: 7
-hit_dice: 2d6
-modifier: 2
-stats:
-  - 8
-  - 14
-  - 10
-  - 10
-  - 8
-  - 8
-speed: 9 m
-skillsaves:
-  - name: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
-    desc: "+6"
-senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 9
-languages: Gemeinsprache, Goblininisch
-cr: 1/4
-traits:
-  - desc: Der Goblin kann in jedem seiner Züge die Aktion <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Aktionen-phb#Rückzug|Rückzug<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Aktionen-phb#Verstecken|Verstecken<STATBLOCK-MARKDOWN-LINK> als Bonusaktion verwenden.
-    name: Behändes Entkommen
-actions:
-  - desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 5 (1d6+2) Hiebschaden."
-    name: Krummsäbel
-  - desc: "*Fernkampf-Waffenangriff:* +4 Zum Treffen, Reichweite 24/96 m, ein Ziel. *Treffer:* 5 (1d6+2) Stichschaden."
-    name: Kurzbogen
-```
+> [!statblock] Goblin
+> ![[token/Goblin.webp|right|100]]
+> *kleiner Humanoid (Goblinoid), neutral böse*
+> 
+> - **Rüstungsklasse** 15 ([[Lederrüstung-phb|Lederrüstung]])
+> - **Trefferpunkte**  (`2d6`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]] +6
+> - **Sinne** Dunkelsicht 18 Meter, passive Wahrnehmung 9
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** - <br><br>
+> - **Sprachen** Gemeinsprache, Goblinisch
+> - **Herausforderungsgrad** 1/2 (50 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Behändes Entkommen.*** Der Goblin kann in jedem seiner Züge die Aktion [[Aktionen-phb#Rückzug|Rückzug]] oder [[Aktionen-phb#Verstecken|Verstecken]] als Bonusaktion verwenden.
+> 
+> ## Aktionen
+> 
+> ***Krummsäbel.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Hiebschaden.
+> 
+> ***Kurzbogen.*** *Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 24/96 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Stichschaden.
+
 ^statblock
 
 ## Vorkommen

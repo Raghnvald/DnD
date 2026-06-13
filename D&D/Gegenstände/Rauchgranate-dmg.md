@@ -1,16 +1,16 @@
 ---
-Bezeichnung: Smoke Grenade
+Bezeichnung: Rauchgranate
 Kategorie: Explosives
-linter-yaml-title-alias: Smoke Grenade
+linter-yaml-title-alias: Rauchgranate
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
-  - Smoke Grenade
+  - Rauchgranate
 ---
-# Smoke Grenade
+# Rauchgranate
 *Explosive*  
 
 - **Weight**: 2.0 lbs.

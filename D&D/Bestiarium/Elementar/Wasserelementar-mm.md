@@ -50,48 +50,42 @@ Die Stärke der Magie und Materialien, die einen Elementar binden, bestimmt, wie
 
 Ein Elementar braucht keine Luft, Nahrung, Wasser oder Schlaf.
 
-```statblock
-name: Wasserelementar
-image: token/water-elemental.webp
-source:
-  - MM
-size: Groß
-type: Elementar
-alignment: Neutral
-ac: 14
-ac_class: natürliche Rüstung
-hp: 114
-hit_dice: 12d10 + 48
-modifier: 2
-stats:
-  - 18
-  - 14
-  - 18
-  - 5
-  - 10
-  - 8
-speed: 9 m, schwimmen 27 m
-damage_resistances: Säure; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe
-damage_immunities: Gift
-condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bewusstlos|Bewusstlos<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Liegend|liegend<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Versteinert|versteinert<STATBLOCK-MARKDOWN-LINK>
-senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 10
-languages: Aqual
-cr: "5"
-environment: Küste, Sumpf, Unterwasser
-traits:
-  - name: Wasserform
-    desc: Der Elementar kann den Bereich einer feindlichen Kreatur betreten und dort anhalten. Er kann sich durch Bereiche, die nur 2,5 cm groß sind, bewegen, ohne sich quetschen zu müssen.
-  - name: Gefrieren
-    desc: Wenn der Elementar Kälteschaden erleidet, friert er zum Teil ein; seine Bewegungsrate wird bis zum Ende des nächsten Zugs um 6 m verringert.
-actions:
-  - name: Mehrfachangriff
-    desc: Der Elementar führt zwei Hieb-Angriffe aus.
-  - name: Hieb
-    desc: "*Nahkampf-Waffenangriff:* +7 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 13 (2d8 + 4) Wuchtschaden."
-  - name: Überschütten (Aufladung 4-6)
-    desc: |-
-      jede Kreatur im Bereich des Elementars muss einen Stärkerettungswurf gegen SG 15 ablegen. Bei einem Fehlschlag erleidet ein Ziel 13 (2d8 + 4) Wuchtschaden. Wenn es sich um ein Großes oder kleineres Ziel handelt, wird es außerdem <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> (SG zum Entkommen 14). Bis der Haltegriffendet, ist das Ziel <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK> und kann nicht atmen, es sei denn, es kann Wasser atmen. Wenn der Rettungswurf erfolgreich ist, wird das Ziel aus dem Bereich des Elementars geschoben.
-
-      Der Elementar kann mit dieser Fähigkeit eine große Kreatur oder bis zu zwei mittelgroße oder kleinere Kreaturen auf einmal festhalten. Zu Beginn eines jeden Zuges des Elementars erleidet jedes <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Gepackt|gepackte<STATBLOCK-MARKDOWN-LINK> Ziel 13 (2d8 + 4) Wuchtschaden. Als Aktion kann eine Kreatur innerhalb von 1,5 m um den Elementar eine Kreatur oder einen Gegenstand aus dem Elementar herausziehen, indem sie einen Stärkewurf gegen SG 14 schafft.
-```
+> [!statblock] Wasserelementar
+> ![[token/water-elemental.webp|right|100]]
+> *Großer Elementar, Neutral*
+> 
+> - **Rüstungsklasse** 14 (natürliche Rüstung)
+> - **Trefferpunkte** 114 (`12d10 + 48`)
+> - **Bewegungsrate** 9 Meter, schwimmen 27 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** -
+> - **Sinne** [[Sinne-phb#Dunkelsicht|Dunkelsicht]] 18 m, passive Wahrnehmung 10
+> - **Schadensresistenzen** Säure; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe
+> - **Schadensimmunitäten** Gift
+> - **Zustandsimmunitäten** [[Zustände-phb#Bewusstlos|Bewusstlos]], [[Zustände-phb#Erschöpfung|erschöpft]], [[Zustände-phb#Festgesetzt|festgesetzt]], [[Zustände-phb#Gelähmt|gelähmt]], [[Zustände-phb#Gepackt|gepackt]], [[Zustände-phb#Liegend|liegend]], [[Zustände-phb#Vergiftet|vergiftet]], [[Zustände-phb#Versteinert|versteinert]] <br><br>
+> - **Sprachen** Aqual
+> - **Herausforderungsgrad** 5 (1.800 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Wasserform:*** Der Elementar kann den Bereich einer feindlichen Kreatur betreten und dort anhalten. Er kann sich durch Bereiche, die nur 2,5 cm groß sind, bewegen, ohne sich quetschen zu müssen.
+> 
+> ***Gefrieren:*** Wenn der Elementar Kälteschaden erleidet, friert er zum Teil ein; seine Bewegungsrate wird bis zum Ende des nächsten Zugs um 6 m verringert.
+> 
+> ## Aktionen
+> 
+> ***Hieb.*** *Nahkampf-Waffenangriff:* +7 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 13 (`2d8 + 4`) Wuchtschaden."
+> 
+> ***Überschütten (Aufladung 4-6):*** Jede Kreatur im Bereich des Elementars muss einen `Stärk-Rettungswurf` gegen `SG 15` ablegen. Bei einem Fehlschlag erleidet ein Ziel 13 (`2d8 + 4`) Wuchtschaden. Wenn es sich um ein Großes oder kleineres Ziel handelt, wird es außerdem [[Zustände-phb#Gepackt|gepackt]] (SG zum Entkommen 14). Bis der Haltegriffendet, ist das Ziel [[Zustände-phb#Festgesetzt|festgesetzt]] und kann nicht atmen, es sei denn, es kann Wasser atmen. Wenn der Rettungswurf erfolgreich ist, wird das Ziel aus dem Bereich des Elementars geschoben.
+> $\quad$ Der Elementar kann mit dieser Fähigkeit eine große Kreatur oder bis zu zwei mittelgroße oder kleinere Kreaturen auf einmal festhalten. Zu Beginn eines jeden Zuges des Elementars erleidet jedes [[Zustände-phb#Gepackt|gepackte]] Ziel 13 (`2d8 + 4`) Wuchtschaden. Als Aktion kann eine Kreatur innerhalb von 1,5 m um den Elementar eine Kreatur oder einen Gegenstand aus dem Elementar herausziehen, indem sie einen Stärkewurf gegen SG 14 schafft.
 ^statblock
+
+## Vorkommen
+
+Küste, Sumpf, Unterwasser

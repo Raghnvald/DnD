@@ -36,7 +36,7 @@ aliases:
 # Rüstung des Wassermanns
 *Rüstung (leicht, mittelschwer oder schwer), ungewöhnlich*  
 
-Während du diese Rüstung trägst, ist deine Schwimmbewegungsrate gleich deiner normalen Bewegungsrate. Zusätzlich sorgt die Rüstung dafür, dass du jedes Mal, wer:in du deinen Zug unter Wasser mit O Trefferpunkten beginnst, 18 Meter in Richtung der Oberfläche getrieben wirst. Die Rüstung ist mit Fisch- und Muschelmotiven verziert.
+Während du diese Rüstung trägst, ist deine Schwimmbewegungsrate gleich deiner normalen Bewegungsrate. Zusätzlich sorgt die Rüstung dafür, dass du jedes Mal, wenn du deinen Zug unter Wasser mit 0 Trefferpunkten beginnst, 18 Meter in Richtung der Oberfläche getrieben wirst. Die Rüstung ist mit Fisch- und Muschelmotiven verziert.
 
 **Variants**:
 - [Mariner's Breastplate](#Mariner's%20Breastplate)

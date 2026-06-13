@@ -25,151 +25,104 @@ aliases:
 <tr><td><a href='Alchemistenfeuer-Fläschchen-phb.md' class='internal-link'>Alchemistenfeuer (Fläschchen)</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Alchemistenlabor-phb.md' class='internal-link'>Alchemistenlabor</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Amulett-phb.md' class='internal-link'>Amulett</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Armbrustbolzenbehälter-phb.md' class='internal-link'>Armbrustbolzenbehälter</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Becher-phb.md' class='internal-link'>Becher</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Beutel-phb.md' class='internal-link'>Beutel</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Bier-Fass-phb.md' class='internal-link'>Bier (Fass)</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Bier-Humpen-phb.md' class='internal-link'>Bier (Humpen)</a></td><td align="right">4 KM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Blendlaterne-phb.md' class='internal-link'>Blendlaterne</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Brechstange-phb.md' class='internal-link'>Brechstange</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Brotlaib-phb.md' class='internal-link'>Brotlaib</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Buch-phb.md' class='internal-link'>Buch</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Decke-phb.md' class='internal-link'>Decke</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Drachenschach-Spielsatz-phb.md' class='internal-link'>Drachenschach-Spielsatz</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Drei-Drachen-Kartensatz-phb.md' class='internal-link'>Drei-Drachen-Kartensatz</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Dudelsack-phb.md' class='internal-link'>Dudelsack</a></td><td align="right">30 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Eimer-phb.md' class='internal-link'>Eimer</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Eisenstachel-phb.md' class='internal-link'>Eisenstachel</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Eisenstacheln-10-phb.md' class='internal-link'>Eisenstacheln (10)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Eisentopf-phb.md' class='internal-link'>Eisentopf</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Emblem-phb.md' class='internal-link'>Emblem</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Enterhaken-phb.md' class='internal-link'>Enterhaken</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Exotischer_Sattel-phb.md' class='internal-link'>Exotischer Sattel</a></td><td align="right">60 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Fackel-phb.md' class='internal-link'>Fackel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Fangeisen-phb.md' class='internal-link'>Fangeisen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Fernglas-phb.md' class='internal-link'>Fernglas</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Flasche-phb.md' class='internal-link'>Flasche</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Flaschenzug-phb.md' class='internal-link'>Flaschenzug</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Fleisch-Stück-phb.md' class='internal-link'>Fleisch, Stück</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Fackel-phb.md' class='internal-link'>Fackel</a></td><td align="right">1 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Fangeisen-phb.md' class='internal-link'>Fangeisen</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Fernglas-phb.md' class='internal-link'>Fernglas</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Flaschenzug-phb.md' class='internal-link'>Flaschenzug</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Flöte-phb.md' class='internal-link'>Flöte</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Galeere-dmg.md' class='internal-link'>Galeere</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gambe-phb.md' class='internal-link'>Gambe</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gegengiftphiole-old.md' class='internal-link'>Gegengiftphiole</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Gambe-phb.md' class='internal-link'>Gambe</a></td><td align="right">30 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Gegengiftphiole-phb.md' class='internal-link'>Gegengiftphiole</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Glaur-scag.md' class='internal-link'>Glaur</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Glocke-phb.md' class='internal-link'>Glocke</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Hackbrett-phb.md' class='internal-link'>Hackbrett</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Hammer-phb.md' class='internal-link'>Hammer</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Handtrommel-scag.md' class='internal-link'>Handtrommel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Glocke-phb.md' class='internal-link'>Glocke</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Hackbrett-phb.md' class='internal-link'>Hackbrett</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Hammer-phb.md' class='internal-link'>Hammer</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Handtrommel-scag.md' class='internal-link'>Handtrommel</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Handschellen-phb.md' class='internal-link'>Handschellen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Hanfseil-15-Meter-phb.md' class='internal-link'>Hanfseil (15 Meter)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Horn-phb.md' class='internal-link'>Horn</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Insektenabwehr-Räucherwerkwürfel-toa.md' class='internal-link'>Insektenabwehr (Räucherwerkwürfel)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Insektenabwehr-fettreiche_Salbe-toa.md' class='internal-link'>Insektenabwehr (fettreiche Salbe)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kanne-phb.md' class='internal-link'>Kanne</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kanu-toa.md' class='internal-link'>Kanu</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Karren-phb.md' class='internal-link'>Karren</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Karten-oder_Schriftrollenbehälter-phb.md' class='internal-link'>Karten- oder Schriftrollenbehälter</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Käselaib-phb.md' class='internal-link'>Käselaib</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kaufmannswaage-phb.md' class='internal-link'>Kaufmannswaage</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kerze-phb.md' class='internal-link'>Kerze</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kette-3m-phb.md' class='internal-link'>Kette (3m)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kielboot-dmg.md' class='internal-link'>Kielboot</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kiste-phb.md' class='internal-link'>Kiste</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kleidung-fein-phb.md' class='internal-link'>Kleidung (fein)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kleidung-gewöhnlich-phb.md' class='internal-link'>Kleidung (gewöhnlich)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kleidung-Kostüm-phb.md' class='internal-link'>Kleidung (Kostüm)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Hanfseil-15-Meter-phb.md' class='internal-link'>Hanfseil (15 Meter)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Horn-phb.md' class='internal-link'>Horn</a></td><td align="right">3 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kaufmannswaage-phb.md' class='internal-link'>Kaufmannswaage</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kerze-phb.md' class='internal-link'>Kerze</a></td><td align="right">1 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kette-3m-phb.md' class='internal-link'>Kette (3m)</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kleidung-fein-phb.md' class='internal-link'>Kleidung (fein)</a></td><td align="right">15 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kleidung-gewöhnlich-phb.md' class='internal-link'>Kleidung (gewöhnlich)</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kleidung-Kostüm-phb.md' class='internal-link'>Kleidung (Kostüm)</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Kleidung-Reise-phb.md' class='internal-link'>Kleidung (Reise)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kletterhaken-phb.md' class='internal-link'>Kletterhaken</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Korb-phb.md' class='internal-link'>Korb</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Krähenfüße-phb.md' class='internal-link'>Krähenfüße</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Krähenfüße-Beutel-20-phb.md' class='internal-link'>Krähenfüße-Beutel-20</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kreide-1-Stück-phb.md' class='internal-link'>Kreide-1-Stück</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kriegsgong-scag.md' class='internal-link'>Kriegsgong</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kriegsschiff-phb.md' class='internal-link'>Kriegsschiff</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kristall-phb.md' class='internal-link'>Kristall</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kugel-phb.md' class='internal-link'>Kugel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kutsche-phb.md' class='internal-link'>Kutsche</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Lampe-phb.md' class='internal-link'>Lampe</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Langboot-dmg.md' class='internal-link'>Langboot</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Langhorn-scag.md' class='internal-link'>Langhorn</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Laute-phb.md' class='internal-link'>Laute</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Leier-phb.md' class='internal-link'>Leier</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Leiter-3-Meter-phb.md' class='internal-link'>Leiter-3-Meter</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Liedhorn-scag.md' class='internal-link'>Liedhorn</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Luftschiff-dmg.md' class='internal-link'>Luftschiff</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Materialkomponentenbeutel-phb.md' class='internal-link'>Materialkomponentenbeutel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Mehl-phb.md' class='internal-link'>Mehl</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Metallkügelchen-phb.md' class='internal-link'>Metallkügelchen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Metallkügelchen-Beutel-mit-1000-phb.md' class='internal-link'>Metallkügelchen-Beutel-mit-1000</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Mistelzweigsprössling-phb.md' class='internal-link'>Mistelzweigsprössling</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Öl-Flasche-phb.md' class='internal-link'>Öl (Flasche)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Papier-ein-Blatt-phb.md' class='internal-link'>Papier (ein Blatt)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Parfüm-Phiole-phb.md' class='internal-link'>Parfüm (Phiole)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Pergament-ein-Blatt-phb.md' class='internal-link'>Pergament (ein Blatt)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Phiole-phb.md' class='internal-link'>Phiole</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Pony-phb.md' class='internal-link'>Pony</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Reliquie-phb.md' class='internal-link'>Reliquie</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Reisegeschirr-phb.md' class='internal-link'>Reisegeschirr</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Roben-phb.md' class='internal-link'>Roben</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Rucksack-phb.md' class='internal-link'>Rucksack</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Ruderboot-dmg.md' class='internal-link'>Ruderboot</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Rute-phb.md' class='internal-link'>Rute</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Sack-phb.md' class='internal-link'>Sack</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Sanduhr-phb.md' class='internal-link'>Sanduhr</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Säurephiole-phb.md' class='internal-link'>Säurephiole</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kletterhaken-phb.md' class='internal-link'>Kletterhaken</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Krähenfüße-phb.md' class='internal-link'>Krähenfüße</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Krähenfüße-Beutel-20-phb.md' class='internal-link'>Krähenfüße (Beutel mit 20 Stück)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kreide-1-Stück-phb.md' class='internal-link'>Kreide (1 Stück)</a></td><td align="right">1 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kriegsgong-scag.md' class='internal-link'>Kriegsgong</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kristall-phb.md' class='internal-link'>Kristall</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kugel-phb.md' class='internal-link'>Kugel</a></td><td align="right">20 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Lampe-phb.md' class='internal-link'>Lampe</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Langhorn-scag.md' class='internal-link'>Langhorn</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Laute-phb.md' class='internal-link'>Laute</a></td><td align="right">35 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Leier-phb.md' class='internal-link'>Leier</a></td><td align="right">30 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Leiter-3-Meter-phb.md' class='internal-link'>Leiter (3 Meter)</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Liedhorn-scag.md' class='internal-link'>Liedhorn</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Mehl-phb.md' class='internal-link'>Mehl</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Metallkügelchen-phb.md' class='internal-link'>Metallkügelchen</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Metallkügelchen-Beutel-mit-1000-phb.md' class='internal-link'>Metallkügelchen-Beutel-mit-1000</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Mistelzweigsprössling-phb.md' class='internal-link'>Mistelzweigsprössling</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Öl-Flasche-phb.md' class='internal-link'>Öl (Flasche)</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Papier-ein-Blatt-phb.md' class='internal-link'>Papier (ein Blatt)</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Parfüm-Phiole-phb.md' class='internal-link'>Parfüm (Phiole)</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Pergament-ein-Blatt-phb.md' class='internal-link'>Pergament (ein Blatt)</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Reliquie-phb.md' class='internal-link'>Reliquie</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Reisegeschirr-phb.md' class='internal-link'>Reisegeschirr</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Roben-phb.md' class='internal-link'>Roben</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Rute-phb.md' class='internal-link'>Rute</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Sanduhr-phb.md' class='internal-link'>Sanduhr</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Säurephiole-phb.md' class='internal-link'>Säurephiole</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Schalmei-phb.md' class='internal-link'>Schalmei</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Schaufel-phb.md' class='internal-link'>Schaufel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schießpulver-Fass-dmg.md' class='internal-link'>Schießpulver (Fass)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schießpulver-Horn-dmg.md' class='internal-link'>Schießpulver (Horn)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schlafsack-phb.md' class='internal-link'>Schlafsack</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schlafsack-phb.md' class='internal-link'>Schlafsack</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schleifstein-phb.md' class='internal-link'>Schleifstein</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schlitten-phb.md' class='internal-link'>Schlitten</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schloss-phb.md' class='internal-link'>Schloss</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schreibfeder-phb.md' class='internal-link'>Schreibfeder</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schwarzer_Geisterorchideensamen-jttrc.md' class='internal-link'>Schwarzer Geisterorchideensamen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Segelschiff-dmg.md' class='internal-link'>Segelschiff</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Seidenseil-15-Meter-phb.md' class='internal-link'>Seidenseil (15 Meter)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Seife-phb.md' class='internal-link'>Seife</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Siegelring-phb.md' class='internal-link'>Siegelring</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Siegelwachs-phb.md' class='internal-link'>Siegelwachs</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Signalpfeife-phb.md' class='internal-link'>Signalpfeife</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Spielkarten-Satz-phb.md' class='internal-link'>Spielkarten (Satz)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schießpulver-Fass-dmg.md' class='internal-link'>Schießpulver (Fass)</a></td><td align="right">250 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schießpulver-Horn-dmg.md' class='internal-link'>Schießpulver (Horn)</a></td><td align="right">35 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schlafsack-phb.md' class='internal-link'>Schlafsack</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schleifstein-phb.md' class='internal-link'>Schleifstein</a></td><td align="right">1 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schloss-phb.md' class='internal-link'>Schloss</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schreibfeder-phb.md' class='internal-link'>Schreibfeder</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schwarzer_Geisterorchideensamen-jttrc.md' class='internal-link'>Schwarzer Geisterorchideensamen</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Seidenseil-15-Meter-phb.md' class='internal-link'>Seidenseil (15 Meter)</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Seife-phb.md' class='internal-link'>Seife</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Siegelring-phb.md' class='internal-link'>Siegelring</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Siegelwachs-phb.md' class='internal-link'>Siegelwachs</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Signalpfeife-phb.md' class='internal-link'>Signalpfeife</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Spielkarten-Satz-phb.md' class='internal-link'>Spielkarten (Satz)</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Spitzhacke-phb.md' class='internal-link'>Spitzhacke</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Stahlspiegel-phb.md' class='internal-link'>Stahlspiegel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Stallungen-pro-Tag-phb.md' class='internal-link'>Stallungen (pro Tag)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Stange-3-Meter-phb.md' class='internal-link'>Stange (3 Meter)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Streitwagen-phb.md' class='internal-link'>Streitwagen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tagesration-phb.md' class='internal-link'>Tagesration</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tantan-scag.md' class='internal-link'>Tantan</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tej-toa.md' class='internal-link'>Tej</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Thelarr-scag.md' class='internal-link'>Thelarr</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tinte-Flasche-30ml-phb.md' class='internal-link'>Tinte (Flasche mit 30ml)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tocken-scag.md' class='internal-link'>Tocken</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tonhumpen-phb.md' class='internal-link'>Tonhumpen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tonkrug-phb.md' class='internal-link'>Tonkrug</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Totem-phb.md' class='internal-link'>Totem</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tragbarer_Rammbock-phb.md' class='internal-link'>Tragbarer Rammbock</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Trommel-phb.md' class='internal-link'>Trommel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Vergrößerungsglas-phb.md' class='internal-link'>Vergrößerungsglas</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Vogelflöte-scag.md' class='internal-link'>Vogelflöte</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Stahlspiegel-phb.md' class='internal-link'>Stahlspiegel</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Stange-3-Meter-phb.md' class='internal-link'>Stange (3 Meter)</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tantan-scag.md' class='internal-link'>Tantan</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Thelarr-scag.md' class='internal-link'>Thelarr</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tinte-Flasche-30ml-phb.md' class='internal-link'>Tinte (Flasche mit 30ml)</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tocken-scag.md' class='internal-link'>Tocken</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Totem-phb.md' class='internal-link'>Totem</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tragbarer_Rammbock-phb.md' class='internal-link'>Tragbarer Rammbock</a></td><td align="right">4 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trommel-phb.md' class='internal-link'>Trommel</a></td><td align="right">6 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Vergrößerungsglas-phb.md' class='internal-link'>Vergrößerungsglas</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Vogelflöte-scag.md' class='internal-link'>Vogelflöte</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Vorschlaghammer-phb.md' class='internal-link'>Vorschlaghammer</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Wagen-phb.md' class='internal-link'>Wagen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Wasserschlauch-phb.md' class='internal-link'>Wasserschlauch</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Weihwasser-Flasche-phb.md' class='internal-link'>Weihwasser (Flasche)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Wein-fein-Flasche-phb.md' class='internal-link'>Wein, fein (Flasche)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Wein-gewöhnlich-Karaffe-phb.md' class='internal-link'>Wein, gewöhnlich (Karaffe)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Weißer_Geisterorchideensamen-jttrc.md' class='internal-link'>Weißer Geisterorchideensamen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Würfel-Satz-phb.md' class='internal-link'>Würfel (Satz)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Yahcha-toa.md' class='internal-link'>Yahcha</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Yarting-scag.md' class='internal-link'>Yarting</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zabou-toa.md' class='internal-link'>Zabou</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zauberbuch-phb.md' class='internal-link'>Zauberbuch</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zauberstab-phb.md' class='internal-link'>Zauberstab</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Weihwasser-Flasche-phb.md' class='internal-link'>Weihwasser (Flasche)</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Weißer_Geisterorchideensamen-jttrc.md' class='internal-link'>Weißer Geisterorchideensamen</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Würfel-Satz-phb.md' class='internal-link'>Würfel (Satz)</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Yarting-scag.md' class='internal-link'>Yarting</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zauberbuch-phb.md' class='internal-link'>Zauberbuch</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zauberstab-phb.md' class='internal-link'>Zauberstab</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Zelt-2-Personen-phb.md' class='internal-link'>Zelt (2 Personen)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zugpferd-phb.md' class='internal-link'>Zugpferd</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zulkoon-scag.md' class='internal-link'>Zulkoon</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zunderkästchen-phb.md' class='internal-link'>Zunderkästchen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zulkoon-scag.md' class='internal-link'>Zulkoon</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zunderkästchen-phb.md' class='internal-link'>Zunderkästchen</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Ausrüstungspakete</th></tr>
@@ -178,11 +131,80 @@ aliases:
 <tr><td><a href='Diplomatenausrüstung-phb.md' class='internal-link'>Diplomatenausrüstung</a></td><td align="right">39 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Einbrecherausrüstung-phb.md' class='internal-link'>Einbrecherausrüstung</a></td><td align="right">16 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Entdeckerausrüstung-phb.md' class='internal-link'>Entdeckerausrüstung</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gelehrtenausrüstung-phb.md' class='internal-link'>Gelehrtenausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gewölbeforscherausrüstung-phb.md' class='internal-link'>Gewölbeforscherausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Monsterjägerpaket-vrgr.md' class='internal-link'>Monsterjägerpaket</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Priesterausrüstung-phb.md' class='internal-link'>Priesterausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Unterhaltungskünstler-Ausrüstung-phb.md' class='internal-link'>Unterhaltungskünstler-Ausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr><tr><td><a href='Panflöte-phb.md' cl<tr><td><a href='Mastiff-phb.md' class='internal-link'>Mastiff</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>ass='internal-link'>Panflöte</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Gelehrtenausrüstung-phb.md' class='internal-link'>Gelehrtenausrüstung</a></td><td align="right">40 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Gewölbeforscherausrüstung-phb.md' class='internal-link'>Gewölbeforscherausrüstung</a></td><td align="right">12 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Monsterjägerpaket-vrgr.md' class='internal-link'>Monsterjägerpaket</a></td><td align="right">33 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Priesterausrüstung-phb.md' class='internal-link'>Priesterausrüstung</a></td><td align="right">19 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Unterhaltungskünstler-Ausrüstung-phb.md' class='internal-link'>Unterhaltungskünstler-Ausrüstung</a></td><td align="right">40 GM</td><td>nein</td><td></td>
+</tbody>
+<thead>
+<tr><th colspan='4'>Behälter</th></tr>
+</thead>
+<tbody>
+<tr><td><a href='Armbrustbolzenbehälter-phb.md' class='internal-link'>Armbrustbolzenbehälter</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Beutel-phb.md' class='internal-link'>Beutel</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Eimer-phb.md' class='internal-link'>Eimer</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Eisentopf-phb.md' class='internal-link'>Eisentopf</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Flasche-phb.md' class='internal-link'>Flasche</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kanne-phb.md' class='internal-link'>Kanne</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Karten-oder_Schriftrollenbehälter-phb.md' class='internal-link'>Karten- oder Schriftrollenbehälter</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kiste-phb.md' class='internal-link'>Kiste</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Korb-phb.md' class='internal-link'>Korb</a></td><td align="right">4 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Materialkomponentenbeutel-phb.md' class='internal-link'>Materialkomponentenbeutel</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Phiole-phb.md' class='internal-link'>Phiole</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Rucksack-phb.md' class='internal-link'>Rucksack</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Sack-phb.md' class='internal-link'>Sack</a></td><td align="right">1 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tonhumpen-phb.md' class='internal-link'>Tonhumpen</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tonkrug-phb.md' class='internal-link'>Tonkrug</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wasserschlauch-phb.md' class='internal-link'>Wasserschlauch</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Essen & Trinken</th></tr>
+</thead>
+<tbody>
+<tr><td><a href='Bier-Fass-phb.md' class='internal-link'>Bier (Fass)</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Bier-Humpen-phb.md' class='internal-link'>Bier (Humpen)</a></td><td align="right">4 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Brotlaib-phb.md' class='internal-link'>Brotlaib</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Fleisch-Stück-phb.md' class='internal-link'>Fleisch, Stück</a></td><td align="right">3 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Käselaib-phb.md' class='internal-link'>Käselaib</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tagesration-phb.md' class='internal-link'>Tagesration</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wein-fein-Flasche-phb.md' class='internal-link'>Wein, fein (Flasche)</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wein-gewöhnlich-Karaffe-phb.md' class='internal-link'>Wein, gewöhnlich (Karaffe)</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Fahrzeuge & Reit-/Lasttiere</th></tr>
+</thead>
+<tbody>
+<tr><td><a href='Elefant-phb.md' class='internal-link'>Elefant</a></td><td align="right">200 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Esel-phb.md' class='internal-link'>Esel</a></td><td align="right">8 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Exotischer_Sattel-phb.md' class='internal-link'>Exotischer Sattel</a></td><td align="right">60 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Futter-pro-Tag-phb.md' class='internal-link'>Futter (pro Tag)</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Galeere-dmg.md' class='internal-link'>Galeere</a></td><td align="right">30.000 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Geschirr_und_Zaumzeug-phb.md' class='internal-link'>Geschirr und Zaumzeug</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kamel-phb.md' class='internal-link'>Kamel</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Karren-phb.md' class='internal-link'>Karren</a></td><td align="right">15 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kielboot-dmg.md' class='internal-link'>Kielboot</a></td><td align="right">3.000 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kriegsschiff-phb.md' class='internal-link'>Kriegsschiff</a></td><td align="right">25.000 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kutsche-phb.md' class='internal-link'>Kutsche</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Langboot-dmg.md' class='internal-link'>Langboot</a></td><td align="right">10.000 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Luftschiff-dmg.md' class='internal-link'>Luftschiff</a></td><td align="right">20.000 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Mastiff-phb.md' class='internal-link'>Mastiff</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Maultier-phb.md' class='internal-link'>Maultier</a></td><td align="right">8 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Militärsattel-phb.md' class='internal-link'>Militärsattel</a></td><td align="right">20 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Packsattel-phb.md' class='internal-link'>Packsattel</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Pony-phb.md' class='internal-link'>Pony</a></td><td align="right">30 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Reitpferd-phb.md' class='internal-link'>Reitpferd</a></td><td align="right">75 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Reitsattel-phb.md' class='internal-link'>Reitsattel</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Rossharnisch-phb.md' class='internal-link'>Rossharnisch</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Ruderboot-dmg.md' class='internal-link'>Ruderboot</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Satteltaschen-phb.md' class='internal-link'>Satteltaschen</a></td><td align="right">4 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schlachtross-phb.md' class='internal-link'>Schlachtross</a></td><td align="right">400 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schlitten-phb.md' class='internal-link'>Schlitten</a></td><td align="right">20 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Segelschiff-dmg.md' class='internal-link'>Segelschiff</a></td><td align="right">10.000 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Stallungen-pro-Tag-phb.md' class='internal-link'>Stallungen (pro Tag)</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Streitwagen-phb.md' class='internal-link'>Streitwagen</a></td><td align="right">250 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wagen-phb.md' class='internal-link'>Wagen</a></td><td align="right">35 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zugpferd-phb.md' class='internal-link'>Zugpferd</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Gift</th></tr>
@@ -233,31 +255,14 @@ aliases:
 <tr><td><a href='Zimt-phb.md' class='internal-link'>Zimt</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan='4'>Reit- und Lasttiere</th></tr>
-</thead>
-<tbody>
-<tr><td><a href='Elefant-phb.md' class='internal-link'>Elefant</a></td><td align="right">200 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Esel-phb.md' class='internal-link'>Esel</a></td><td align="right">8 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Futter-pro-Tag-phb.md' class='internal-link'>Futter (pro Tag)</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Geschirr_und_Zaumzeug-phb.md' class='internal-link'>Geschirr und Zaumzeug</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kamel-phb.md' class='internal-link'>Kamel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Mastiff-phb.md' class='internal-link'>Mastiff</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Maultier-phb.md' class='internal-link'>Maultier</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Militärsattel-phb.md' class='internal-link'>Militärsattel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Packsattel-phb.md' class='internal-link'>Packsattel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Reitpferd-phb.md' class='internal-link'>Reitpferd</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Reitsattel-phb.md' class='internal-link'>Reitsattel</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Rossharnisch-phb.md' class='internal-link'>Rossharnisch</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Satteltaschen-phb.md' class='internal-link'>Satteltaschen</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schlachtross-phb.md' class='internal-link'>Schlachtross</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-</tbody>
-<thead>
 <tr><th colspan='4'>Rüstungen</th></tr>
 </thead><tbody>
 <tr><td><a href='Beschlagene_Lederrüstung-phb.md' class='internal-link'>Beschlagene Lederrüstung</a></td><td align="right">45 GM</td><td>nein</td><td>Leicht</td></tr>
 <tr><td><a href='Brustplatte-phb.md' class='internal-link'>Brustplatte</a></td><td align="right">400 GM</td><td>nein</td><td>Mittel</td></tr>
 <tr><td><a href='Fellrüstung-phb.md' class='internal-link'>Fellrüstung</a></td><td align="right">10 GM</td><td>nein</td><td>Mittel</td></tr>
 <tr><td><a href='Gefütterte_Rüstung-phb.md' class='internal-link'>Gefütterte Rüstung</a></td><td align="right">5 GM</td><td>nein</td><td>Leicht</td></tr>
+<tr><td><a href='Kettenhemd-phb.md' class='internal-link'>Kettenhemd</a></td><td align="right">10 GM</td><td>nein</td><td>Leicht</td></tr>
+<tr><td><a href='Kettenpanzer-phb.md' class='internal-link'>Kettenpanzer</a></td><td align="right">10 GM</td><td>nein</td><td>Leicht</td></tr>
 <tr><td><a href='Lederrüstung-phb.md' class='internal-link'>Lederrüstung</a></td><td align="right">10 GM</td><td>nein</td><td>Leicht</td></tr>
 <tr><td><a href='Plattenpanzer-phb.md' class='internal-link'>Plattenpanzer</a></td><td align="right">750 GM</td><td>nein</td><td>Mittel</td></tr>
 <tr><td><a href='Ringpanzer-phb.md' class='internal-link'>Ringpanzer</a></td><td align="right">30 GM</td><td>nein</td><td>Schwer</td></tr>
@@ -268,72 +273,85 @@ aliases:
 <tr><td><a href='Stachelrüstung-scag.md' class='internal-link'>Stachelrüstung</a></td><td align="right">75 GM</td><td>nein</td><td>Mittel</td></tr>
 </tbody>
 <thead>
-<tr><th colspan='4'>Schätze</th></tr>
-</thead><tbody>
-<tr><td>Edelsteine</td><td></td><td></td><td></td></tr>
-<tr><td><a href='Alexandrit-dmg.md' class='internal-link'>Alexandrit</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Amethyst-dmg.md' class='internal-link'>Amethyst</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Aquamarin-dmg.md' class='internal-link'>Aquamarin</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Augenachat-dmg.md' class='internal-link'>Augenachat</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Azurit-dmg.md' class='internal-link'>Azurit</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Bernstein-dmg.md' class='internal-link'>Bernstein</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Blauer_Quartz-dmg.md' class='internal-link'>Blauer Quartz</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Blauer_Saphir-dmg.md' class='internal-link'>Blauer Saphir</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Blauer_Spinell-dmg.md' class='internal-link'>Blauer Spinell</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Blutstein-dmg.md' class='internal-link'>Blutstein</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Chalcedon-dmg.md' class='internal-link'>Chalcedon</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Chrysoberyll-dmg.md' class='internal-link'>Chrysoberyll</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Chrysopras-dmg.md' class='internal-link'>Chrysopras</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Feueropal-dmg.md' class='internal-link'>Feueropal</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gagat-dmg.md' class='internal-link'>Gagat</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gebänderter_Achat-dmg.md' class='internal-link'>Gebänderter Achat</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gelber_Saphir-dmg.md' class='internal-link'>Gelber Saphir</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Granat-dmg.md' class='internal-link'>Granat</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Hämatit-dmg.md' class='internal-link'>Hämatit</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Jade-dmg.md' class='internal-link'>Jade</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Jaspis-dmg.md' class='internal-link'>Jaspis</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Karneol-dmg.md' class='internal-link'>Karneol</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Koralle-dmg.md' class='internal-link'>Koralle</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Lapis_Lazuli-dmg.md' class='internal-link'>Lapis Lazuli</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Malachit-dmg.md' class='internal-link'>Malachit</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Mondstein-dmg.md' class='internal-link'>Mondstein</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Moosachat-dmg.md' class='internal-link'>Moosachat</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Obsidian-dmg.md' class='internal-link'>Obsidian</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Onyx-dmg.md' class='internal-link'>Onyx</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Opal-dmg.md' class='internal-link'>Opal</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Peridot-dmg.md' class='internal-link'>Peridot</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Perle-dmg.md' class='internal-link'>Perle</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Quartz-dmg.md' class='internal-link'>Quartz</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Rhodochrosit-dmg.md' class='internal-link'>Rhodochrosit</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Roter_Zirkon-dmg.md' class='internal-link'>Roter Zirkon</a></td><td align="right">5.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Rubin-dmg.md' class='internal-link'>Rubin</a></td><td align="right">5.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Sardonyx-dmg.md' class='internal-link'>Sardonyx</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schwarze_Perle-dmg.md' class='internal-link'>Schwarze Perle</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schwarzer_Opal-dmg.md' class='internal-link'>Schwarzer Opal</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schwarzer_Saphir-dmg.md' class='internal-link'>Schwarzer Saphir</a></td><td align="right">5.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Smaragd-dmg.md' class='internal-link'>Smaragd</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Spinell-dmg.md' class='internal-link'>Spinell</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Stern-Rosenquartz-dmg.md' class='internal-link'>Stern-Rosenquartz</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Sternenrubin-dmg.md' class='internal-link'>Sternenrubin</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Sternensaphir-dmg.md' class='internal-link'>Sternensaphir</a></td><td align="right">1.000 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tigerauge-dmg.md' class='internal-link'>Tigerauge</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Topas-dmg.md' class='internal-link'>Topas</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Türkis-dmg.md' class='internal-link'>Türkis</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Turmalin-dmg.md' class='internal-link'>Turmalin</a></td><td align="right">100 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zirkon-dmg.md' class='internal-link'>Zirkon</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Zitrin-dmg.md' class='internal-link'>Zitrin</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
-<tr><td>Kunstgegenstände</td><td></td><td></td><td></td></tr>
-<tr><td><a href='Augenklappe_mit_einem_unechten_Auge_bestückt_mit_blauen_Saphiren_und_einem_Mondstein-dmg.md' class='internal-link'>Augenklappe mit einem unechten Auge, bestückt mit blauen Saphiren und einem Mondstein</a></td><td align="right">2.500 GM</td><td>nein</td><td></td></tr>
-</tbody>
-<thead>
 <tr><th colspan='4'>Tränke</th></tr>
 </thead><tbody>
 <tr><td><a href='Trank_der_Heilung-dmg.md' class='internal-link'>Trank der Heilung</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_des_Kletterns-dmg.md' class='internal-link'>Trank des Kletterns</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_des_Verstehens-wdmm.md' class='internal-link'>Trank des Verstehens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Wachsamen_Ruhe-wdmm.md' class='internal-link'>Trank der Wachsamen Ruhe</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Waffen</th></tr>
 </thead><tbody>
 <tr><td><a href='Antimaterie-Gewehr-dmg.md' class='internal-link'>Antimaterie-Gewehr</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Armbrust-Hand-phb.md' class='internal-link'>Armbrust (Hand-)</a></td><td align="right">75 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Armbrust-Leicht-phb.md' class='internal-link'>Armbrust (Leicht</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Armbrust-Schwer-phb.md' class='internal-link'>Armbrust (schwer)</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Armbrustbolzen-phb.md' class='internal-link'>Armbrustbolzen</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Armbrustbolzen-20-phb.md' class='internal-link'>Armbrustbolzen (20)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Automatisches_Gewehr-dmg.md' class='internal-link'>Automatisches Gewehr</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Automatische_Pistole-dmg.md' class='internal-link'>Automatische Pistole</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Beil-phb.md' class='internal-link'>Beil</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Blasrohr-phb.md' class='internal-link'>Blasrohr</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Blasrohrpfeil-phb.md' class='internal-link'>Blasrohrpfeil</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Blasrohrpfeile-50-phb.md' class='internal-link'>Blasrohrpfeile (50)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Bombe-dmg.md' class='internal-link'>Bombe</a></td><td align="right">150 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Dolch-phb.md' class='internal-link'>Dolch</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Dreizack-phb.md' class='internal-link'>Dreizack</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Dynamit-dmg.md' class='internal-link'>Dynamit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Eibenzauberstab-phb.md' class='internal-link'>Eibenzauberstab</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Energiezelle-dmg.md' class='internal-link'>Energiezelle</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Flegel-phb.md' class='internal-link'>Flegel</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Glefe-phb.md' class='internal-link'>Glefe</a></td><td align="right">20 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Granatenwerfer-dmg.md' class='internal-link'>Granatenwerfer</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Hellebarde-phb.md' class='internal-link'>Hellebarde</a></td><td align="right">20 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Holzstab-phb.md' class='internal-link'>Holzstab</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Jagdgewehr-dmg.md' class='internal-link'>Jagdgewehr</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kampfstab-phb.md' class='internal-link'>Kampfstab</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Knüppel-phb.md' class='internal-link'>Knüppel</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Köcher-phb.md' class='internal-link'>Köcher</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kriegshacke-phb.md' class='internal-link'>Kriegshacke</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kriegshammer-phb.md' class='internal-link'>Kriegshammer</a></td><td align="right">15 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Krummsäbel-phb.md' class='internal-link'>Krummsäbel</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kurzbogen-phb.md' class='internal-link'>Kurzbogen</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kurzschwert-phb.md' class='internal-link'>Kurzschwert</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Langbogen-phb.md' class='internal-link'>Langbogen</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Langschwert-phb.md' class='internal-link'>Langschwert</a></td><td align="right">15 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Lanze-phb.md' class='internal-link'>Lanze</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Lasergewehr-dmg.md' class='internal-link'>Lasergewehr</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Laserpistole-dmg.md' class='internal-link'>Laserpistole</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Leichter_Hammer-phb.md' class='internal-link'>Leichter Hammer</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Moderne_Kugel-dmg.md' class='internal-link'>Moderne Kugel</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Moderne_Kugeln-10-dmg.md' class='internal-link'>Moderne Kugeln (10)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Morgenstern-phb.md' class='internal-link'>Morgenstern</a></td><td align="right">15 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Muskete-dmg.md' class='internal-link'>Muskete</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Netz-phb.md' class='internal-link'>Netz</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Peitsche-phb.md' class='internal-link'>Peitsche</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Pfeil-phb.md' class='internal-link'>Pfeil</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Pfeile-20-phb.md' class='internal-link'>Pfeile (20)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Pike-phb.md' class='internal-link'>Pike</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Pistole-dmg.md' class='internal-link'>Pistole</a></td><td align="right">250 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Rapier-phb.md' class='internal-link'>Rapier</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Rauchgranate-dmg.md' class='internal-link'>Rauchgranate</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Renaissance-Kugel-dmg.md' class='internal-link'>Renaissance-Kugel</a></td><td align="right">3 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Renaissance-Kugeln-10-dmg.md' class='internal-link'>Renaissance-Kugeln (10)</a></td><td align="right">3 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Revolver-dmg.md' class='internal-link'>Revolver</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schleuder-phb.md' class='internal-link'>Schleuder</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schleuderkugel-phb.md' class='internal-link'>Schleuderkugel</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schleuderkugeln-20-phb.md' class='internal-link'>Schleuderkugeln (20)</a></td><td align="right">4 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schrotflinte-dmg.md' class='internal-link'>Schrotflinte</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Sichel-phb.md' class='internal-link'>Sichel</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Speer-phb.md' class='internal-link'>Speer</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Splittergranate-dmg.md' class='internal-link'>Splittergranate</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Stab-phb.md' class='internal-link'>Stab</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Streitaxt-phb.md' class='internal-link'>Streitaxt</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Verstrickungsgranate-wdmm.md' class='internal-link'>Verstrickungsgranate</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wurfpfeil-phb.md' class='internal-link'>Wurfpfeil</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wurfspeer-phb.md' class='internal-link'>Wurfspeer</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zweihandaxt-phb.md' class='internal-link'>Zweihandaxt</a></td><td align="right">30 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zweihandhammer-phb.md' class='internal-link'>Zweihandhammer</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zweihandknüppel-phb.md' class='internal-link'>Zweihandknüppel</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zweihandschwert-phb.md' class='internal-link'>Zweihandschwert</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Währung</th></tr>
@@ -356,40 +374,33 @@ aliases:
 <tbody>
 <tr><td><a href='Angelausrüstung-phb.md' class='internal-link'>Angelausrüstung</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Brauereivorräte-phb.md' class='internal-link'>Brauereivorräte</a></td><td align="right">20 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Giftmischerausrüstung-phb.md' class='internal-link'>Giftmischerausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Glasbläserwerkzeuge-phb.md' class='internal-link'>Glasbläserwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Heilerausrüstung-phb.md' class='internal-link'>Heilerausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Holzschnitzwerkzeuge-phb.md' class='internal-link'>Holzschnitzwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Juwelierwerkzeuge-phb.md' class='internal-link'>Juwelierwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kalligraphiewerkzeuge-phb.md' class='internal-link'>Kalligraphiewerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kartographenwerkzeuge-phb.md' class='internal-link'>Kartographenwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kletterausrüstung-phb.md' class='internal-link'>Kletterausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kochutensilien-phb.md' class='internal-link'>Kochutensilien</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kräuterkundeausrüstung-phb.md' class='internal-link'>Kräuterkundeausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Ledererwerkzeuge-phb.md' class='internal-link'>Ledererwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Malutensilien-phb.md' class='internal-link'>Malutensilien</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Maurerwerkzeuge-phb.md' class='internal-link'>Maurerwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Navigationswerkzeuge-phb.md' class='internal-link'>Navigationswerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schmiedewerkzeuge-phb.md' class='internal-link'>Schmiedewerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schreinerwerkzeuge-phb.md' class='internal-link'>Schreinerwerkzeuge></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Schusterwerkzeuge-phb.md' class='internal-link'>Schusterwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Töpferwerkzeuge-phb.md' class='internal-link'>Töpferwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tüftlerwerkzeuge-phb.md' class='internal-link'>Tüftlerwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Verkleidungsausrüstung-phb.md' class='internal-link'>Verkleidungsausrüstung</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Weberwerkzeuge-phb.md' class='internal-link'>Weberwerkzeuge</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Giftmischerausrüstung-phb.md' class='internal-link'>Giftmischerausrüstung</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Glasbläserwerkzeuge-phb.md' class='internal-link'>Glasbläserwerkzeuge</a></td><td align="right">30 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Heilerausrüstung-phb.md' class='internal-link'>Heilerausrüstung</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Holzschnitzwerkzeuge-phb.md' class='internal-link'>Holzschnitzwerkzeuge</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Juwelierwerkzeuge-phb.md' class='internal-link'>Juwelierwerkzeuge</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kalligraphiewerkzeuge-phb.md' class='internal-link'>Kalligraphiewerkzeuge</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kartographenwerkzeuge-phb.md' class='internal-link'>Kartographenwerkzeuge</a></td><td align="right">15 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kletterausrüstung-phb.md' class='internal-link'>Kletterausrüstung</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kochutensilien-phb.md' class='internal-link'>Kochutensilien</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Kräuterkundeausrüstung-phb.md' class='internal-link'>Kräuterkundeausrüstung</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Ledererwerkzeuge-phb.md' class='internal-link'>Ledererwerkzeuge</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Malutensilien-phb.md' class='internal-link'>Malutensilien</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Maurerwerkzeuge-phb.md' class='internal-link'>Maurerwerkzeuge</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Navigationswerkzeuge-phb.md' class='internal-link'>Navigationswerkzeuge</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schmiedewerkzeuge-phb.md' class='internal-link'>Schmiedewerkzeuge</a></td><td align="right">20 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schreinerwerkzeuge-phb.md' class='internal-link'>Schreinerwerkzeuge</td><td align="right">8 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schusterwerkzeuge-phb.md' class='internal-link'>Schusterwerkzeuge</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Töpferwerkzeuge-phb.md' class='internal-link'>Töpferwerkzeuge</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tüftlerwerkzeuge-phb.md' class='internal-link'>Tüftlerwerkzeuge</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Verkleidungsausrüstung-phb.md' class='internal-link'>Verkleidungsausrüstung</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Weberwerkzeuge-phb.md' class='internal-link'>Weberwerkzeuge</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Wundersame Gegenstände</th></tr>
 </thead><tbody>
-<tr><td><a href='Druckkapsel-gos.md' class='internal-link'>Druckkapsel</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Gebetsstatuette_des_Sekolah-gos.md' class='internal-link'>Gebetsstatuette des Sekolah</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Hewards_handlicher_Kräuterbeutel-xge.md' class='internal-link'>Hewards handlicher Kräuterbeutel</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Kugel_des_Dröhnens-wdmm.md' class='internal-link'>Kugel des Dröhnens</a></td><td align="right"></td><td>nein</td><td></td></tr>
-<tr><td><a href='Maskerade-Tätowierung-tce.md' class='internal-link'>Maskerade-Tätowierung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Pfeife_der_Erinnerungen-gos.md' class='internal-link'>Pfeife der Erinnerungen</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tätowierung_des_Zauberwirkers-Zaubergrad-0-tce.md' class='internal-link'>Tätowierung des Zauberwirkers (Zaubertrick)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tätowierung_des_Zauberwirkers-Zaubergrad-1-tce.md' class='internal-link'>Tätowierung des Zauberwirkers (Zaubergrad 1)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Tätowierung_des-Erleuchtens-tce.md' class='internal-link'>Tätowierung des Erleuchtens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Kugel_des_Dröhnens-wdmm.md' class='internal-link'>Kugel des Dröhnens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Truhe_der_Konservierung-wdmm.md' class='internal-link'>Truhe der Konservierung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Unzerbrechlicher_Pfeil-xge.md' class='internal-link'>Unzerbrechlicher Pfeil</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Zauberschriftrolle-Zaubergrad-0-dmg.md' class='internal-link'>Zauberschriftrolle (Zaubertrick)</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
@@ -398,147 +409,6 @@ aliases:
 <tr><td><a href='Zauberstab_des_Unmuts-xge.md' class='internal-link'>Zauberstab des Unmuts</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 </tbody>
 </tbody></table>
-
-### Schätze
-
-#### Kunstgegenstände
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Augenklappe_mit_einem_unechten_Auge_bestückt_mit_blauen_Saphiren_und_einem_Mondstein-dmg]]
-[[Bestickter_Handschuh-mit_Juwelenstücken_besetzt-dmg]]
-[[Bestickter_Seiden-und_Samtumhang-mit_zahlreichen_Mondsteinen_besetzt-dmg]]
-[[Besticktes_Seidentaschentuch-dmg]]
-[[Bronzene_Krone-dmg]]
-[[Brosche_aus_Silber_und_Gold-dmg]]
-[[Flaschenverschluss-Korken-geprägt_mit_Blattgold_und_mit_Amethysten_besetzt-dmg]]
-[[Geschnitzte_Elfenbeinstatuette-dmg]]
-[[Geschnitzte_Harfe_aus_exotischem_Holz_mit_Elfenbeineinlage_und_Zirkon-Edelsteinen-dmg]]
-[[Geschnitzte_Knochenstatue-dmg]]
-[[Gewänder_aus_Goldbrokat-dmg]]
-[[gold-bird-cage-with-electrum-filigree-dmg]]
-[[gold-circlet-set-with-four-aquamarines-dmg]]
-[[gold-cup-set-with-emeralds-dmg]]
-[[gold-dragon-comb-set-with-red-garnets-as-eyes-dmg]]
-[[gold-ring-set-with-bloodstones-dmg]]
-[[Goldene_Schmuckschatulle_mit_Platinfiligran-dmg]]
-[[Goldenes_Medaillon_mit_gemaltem_Porträt_im_Innenraum-dmg]]
-[[Goldenes_Musikkästchen-dmg]]
-[[Großer_gut_verarbeiteter_Wandteppich-dmg]]
-[[Großes_Goldarmband-dmg]]
-[[jeweled-anklet-dmg]]
-[[jeweled-gold-crown-dmg]]
-[[jeweled-platinum-ring-dmg]]
-[[Juwelenbesetztes_Elfenbein-Trinkhorn_mit_Goldfiligran-dmg]]
-[[Kleiner_Spiegel_im_bemalten_Holzrahmen-dmg]]
-[[Kleines_Goldarmband-dmg]]
-[[Kupferner_Kelch_mit_feinen_Silberfäden-dmg]]
-[[Messingbecher_mit_Jadeeinlage-dmg]]
-[[necklace-string-of-small-pink-pearls-dmg]]
-[[Obsidian-Statuette mit goldenen Armaturen und Einlässen-dmg]]
-[[old-masterpiece-painting-dmg]]
-[[Paar_gravierter_Knochenwürfel-dmg]]
-[[painted-gold-childs-sarcophagus-dmg]]
-[[painted-gold-war-mask-dmg]]
-[[platinum-bracelet-set-with-a-sapphire-dmg]]
-[[Schachtel_mit_Tierfiguren_aus_Türkis-dmg]]
-[[Schöne Goldkette mit einem Feueropal besetzt-dmg]]
-[[Schwarze_Samtmaske-mit_einem_Silberfaden_bestickt-dmg]]
-[[Silberner_Wasserkrug-dmg]]
-[[silk-robe-with-gold-embroidery-dmg]]
-[[silver-chalice-set-with-moonstones-dmg]]
-[[silver-necklace-with-a-gemstone-pendant-dmg]]
-[[silver-plated-steel-longsword-with-jet-set-in-hilt-dmg]]
-[[small-gold-idol-dmg]]
-[[small-gold-statuette-set-with-rubies-dmg]]
-[[Spielbrett aus Jade mit goldenen Spielfiguren aus reinem Gold-dmg]]
-[[Zeremonieller_Elektrumdolch_mit_einer_schwarzen_Perle_im_Knauf-dmg]]
-
-### Tränke
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[potion-of-comprehension-wdmm]]
-[[potion-of-watchful-rest-wdmm]]
-[[Trank_des_Kletterns-dmg]]
-
-### Waffen
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Armbrust-Leicht-phb]]
-[[Armbrustbolzen-20-phb]]
-[[Armbrustbolzen-phb]]
-[[Automatische_Pistole-dmg]]
-[[Automatisches_Gewehr-dmg]]
-[[Beil-phb]]
-[[Blasrohr-phb]]
-[[Blasrohrpfeil-phb]]
-[[Blasrohrpfeile-50-phb]]
-[[Bombe-dmg]]
-[[Dolch-phb]]
-[[Dreizack-phb]]
-[[Dynamit-dmg]]
-[[Eibenzauberstab-phb]]
-[[Energiezelle-dmg]]
-[[Flegel-phb]]
-[[Glefe-phb]]
-[[grenade-launcher-dmg]]
-[[Handarmbrust-phb]]
-[[Hellebarde-phb]]
-[[Holzstab-phb]]
-[[Jagdgewehr-dmg]]
-[[Kampfstab-phb]]
-[[Kettenhemd-phb]]
-[[Kettenpanzer-phb]]
-[[Knüppel-phb]]
-[[Köcher-phb]]
-[[Kriegshacke-phb]]
-[[Kriegshammer-phb]]
-[[Krummsäbel-phb]]
-[[Kurzbogen-phb]]
-[[Kurzschwert-phb]]
-[[Langbogen-phb]]
-[[Langschwert-phb]]
-[[Lanze-phb]]
-[[laser-pistol-dmg]]
-[[laser-rifle-dmg]]
-[[Leichter_Hammer-phb]]
-[[Moderne_Kugel-dmg]]
-[[Moderne_Kugeln-10-dmg]]
-[[Morgenstern-phb]]
-[[Muskete-dmg]]
-[[Netz-phb]]
-[[Peitsche-phb]]
-[[Pfeil-phb]]
-[[Pfeile-20-phb]]
-[[pike-phb]]
-[[Pistole-dmg]]
-[[Rapier-phb]]
-[[Renaissance-Kugel-dmg]]
-[[Renaissance-Kugeln-10-dmg]]
-[[Revolver-dmg]]
-[[Schleuder-phb]]
-[[Schleuderkugel-phb]]
-[[Schleuderkugeln-20-phb]]
-[[Schrotflinte-dmg]]
-[[Schwere_Armbrust-phb]]
-[[Sichel-phb]]
-[[Speer-phb]]
-[[Splittergranate-dmg]]
-[[Stab-phb]]
-[[Streitaxt-phb]]
-[[smoke-grenade-dmg]]
-[[tangler-grenade-wdmm]]
-[[Wurfpfeil-phb]]
-[[Wurfspeer-phb]]
-[[yklwa-toa]]
-[[Zweihandaxt-phb]]
-[[Zweihandhammer-phb]]
-[[Zweihandknüppel-phb]]
-[[Zweihandschwert-phb]]
-
----
 
 ## Ungewöhnlich
 
@@ -568,7 +438,14 @@ aliases:
 <thead>
 <tr><th colspan='4'>Helm</th></tr>
 </thead><tbody>
-<tr><td><a href='Liebestrank-dmg.md' class='internal-link'>Liebestrank</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Diadem_der_menschlichen_Perfektion-wdmm.md' class='internal-link'>Diadem der menschlichen Perfektiion</a></td><td align="right">/</td><td>ja</td><td>Humanoid</td></tr>
+<tr><td><a href='Diadem_des_Versengens-dmg.md' class='internal-link'>Diadem des Versengens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Helm_der_Telepathie-dmg.md' class='internal-link'>Helm der Telepathie</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Helm_des_Sprachenverstehens-dmg.md' class='internal-link'>Helm des Sprachenverstehens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Hut_der_Verkleidung-dmg.md' class='internal-link'>Hut der Verkleidung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Mütze_der_Wasseratmung-dmg.md' class='internal-link'>Mütze der Wasseratmung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Propellerhelm-wdmm.md' class='internal-link'>Propellerhelm</a></td><td align="right">/</td><td>ja</td><td>kleiner Humanoid</td></tr>
+<tr><td><a href='Stirnband_der_Intelligenz-dmg.md' class='internal-link'>Stirnband der Intelligenz</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Hüfte</th></tr>
@@ -588,7 +465,10 @@ aliases:
 <thead>
 <tr><th colspan='4'>Rüstungen</th></tr>
 </thead><tbody>
-<tr><td><a href='Liebestrank-dmg.md' class='internal-link'>Liebestrank</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Adamantrüstung-dmg.md' class='internal-link'>Adamantrüstung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Mithrilrüstung-dmg.md' class='internal-link'>Mithrilrüstung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Rüstung_des_Wassermanns-dmg.md' class='internal-link'>Rüstung des Wassermanns</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schlangenschuppenrüstung-cm.md' class='internal-link'>Schlangenschuppenrüstung</a></td><td align="right">/</td><td>nein</td><td>Mittel</td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Stiefel</th></tr>
@@ -623,172 +503,124 @@ aliases:
 <thead>
 <tr><th colspan='4'>Waffen</th></tr>
 </thead><tbody>
-<tr><td><a href='Liebestrank-dmg.md' class='internal-link'>Liebestrank</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Drachenzorn-Waffe-Schlummernd-ftd.md' class='internal-link'>Drachenzorn-Waffe (Schlummernd)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Dreizack_der_Fischherrschaft-dmg.md' class='internal-link'>Dreizack_der_Fischherrschaft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Geschosse-1-dmg.md' class='internal-link'>Geschosse +1</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Mondsichel-1-tce.md' class='internal-link'>Mondsichel +1</a></td><td align="right">/</td><td>ja</td><td>Druide, Waldläufer</td></tr>
+<tr><td><a href='Schild-1-dmg.md' class='internal-link'>Schild +1</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schmetterdorn-tftyp.md' class='internal-link'>Schmetterdorn</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Unbewegliches_Zepter-dmg.md' class='internal-link'>Unbewegliches Zepter</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wächterschild-dmg.md' class='internal-link'>Wächterschild</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Waffe_der_Warnung-dmg.md' class='internal-link'>Waffe_der_Warnung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Waffe-1-dmg.md' class='internal-link'>Waffe +1</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Wurfspeer_des_Blitzes-dmg.md' class='internal-link'>Wurfspeer des Blitzes</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zauberstecken_der_Kreuzotter-dmg.md' class='internal-link'>Zauberstecken der Kreuzotter</a></td><td align="right">/</td><td>ja</td><td>Druide, Hexenmeister, Kleriker</td></tr>
+<tr><td><a href='Zauberstecken_der_Python-dmg.md' class='internal-link'>Zauberstecken_der_Python</a></td><td align="right">/</td><td>ja</td><td>Druide, Hexenmeister, Kleriker</td></tr>
+<tr><td><a href='Zepter_des_Paktbewahrers-1-dmg.md' class='internal-link'>Zepter_des_Paktbewahrers +1</a></td><td align="right">/</td><td>ja</td><td>Hexenmeister</td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Wundersame Gegenstände</th></tr>
 </thead><tbody>
-<tr><td><a href='Liebestrank-dmg.md' class='internal-link'>Liebestrank</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Alchemiekrug-dmg.md' class='internal-link'>Alchemiekrug</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Alchemiekrug-blau-cm.md' class='internal-link'>Alchemiekrug (blau)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Alchemiekrug-orange-cm.md' class='internal-link'>Alchemiekrug (orange)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Allzweckwerkzeug-1-tce.md' class='internal-link'>Allzweckwerkzeug +1</a></td><td align="right">/</td><td>ja</td><td>Artifizient</td></tr>
+<tr><td><a href='Arkanes_Grimoire-1-tce.md' class='internal-link'>Arkanes Grimoire +1</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Augen_des_Adlers-dmg.md' class='internal-link'>Augen des Adlers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Augen_der_Bezauberung-dmg.md' class='internal-link'>Augen der Bezauberung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Augen_des_präzisen_Sehens-dmg.md' class='internal-link'>Augen des präzisen Sehens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Bardeninstrument-Doss-Laute-dmg.md' class='internal-link'>Bardeninstrument (Doss-Laute)</a></td><td align="right">/</td><td>ja</td><td>Barde</td></tr>
+<tr><td><a href='Bardeninstrument-Fochlucan-Pandora-dmg.md' class='internal-link'>Bardeninstrument (Fochlucan-Pandora)</a></td><td align="right">/</td><td>ja</td><td>Barde</td></tr>
+<tr><td><a href='Bardeninstrument-Mac-Fuimidh-Cister-dmg.md' class='internal-link'>Bardeninstrument (Mac-Fuimidh-Cister)</a></td><td align="right">/</td><td>ja</td><td>Barde</td></tr>
+<tr><td><a href='Drachenberührter_Fokus-Schlummernd-ftd.md' class='internal-link'>Drachenberührter Fokus (Schlummernd)</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Drachengefäss-Schlummernd-ftd.md' class='internal-link'>Drachengefäss (Schlummernd)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Edelstein_der_Helligkeit-dmg.md' class='internal-link'>Edelstein der Helligkeit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Ehlonnas_Köcher-dmg.md' class='internal-link'>Ehlonnas Köcher</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Elementarer_Edelstein-dmg.md' class='internal-link'>Elementarer Edelstein</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Feenwild-Scherbe-tce.md' class='internal-link'>Feenwild-Scherbe</a></td><td align="right">/</td><td>ja</td><td>Zauberer</td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Silber-Rabe-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Silber-Rabe)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Flöte_des_Rattenfängers-dmg.md' class='internal-link'>Flöte des Rattenfängers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Flöte_des_Unheimlichen-dmg.md' class='internal-link'>Flöte des Unheimlichen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Flugbesen-dmg.md' class='internal-link'>Flugbesen</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Karaffe_des_endlosen_Wassers-dmg.md' class='internal-link'>Karaffe des endlosen Wassers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Karten_der_Illusionen-dmg.md' class='internal-link'>Karten der Illusionen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Keoghtoms_Salbe-dmg.md' class='internal-link'>Keoghtoms Salbe</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Laterne_der_Enttarnung-dmg.md' class='internal-link'>Laterne der Enttarnung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Nachtbrille-dmg.md' class='internal-link'>Nachtbrille</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Nachtrufer-tftyp.md' class='internal-link'>Nachtrufer</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Nimmervoller_Beutel-dmg.md' class='internal-link'>Nimmervoller Beutel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Öl_der_Glätte-dmg.md' class='internal-link'>Öl der Glätte</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Perle_der_Macht-dmg.md' class='internal-link'>Perle der Macht</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Phiole_des_Blutquells-1-tce.md' class='internal-link'>Phiole des Blutquells +1</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Prähistorische_Figuren_der_wundersamen_Kraft-Pyrit-Plesiosaurus-bgg.md' class='internal-link'>Prähistorische Figuren der wundersamen Kraft (Pyrit-Plesiosaurus)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Rauchflasche-dmg.md' class='internal-link'>Rauchflasche</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Robe_der_nützlichen_Dinge-dmg.md' class='internal-link'>Robe der nützlichen Dinge</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Sattel_des_Kavaliers-dmg.md' class='internal-link'>Sattel des Kavaliers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schlangenrobe-skt.md' class='internal-link'>Schlangenrobe</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schuppenornament-Schlummernd-ftd.md' class='internal-link'>Schuppenornament (Schlummernd)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schwebekugel-dmg.md' class='internal-link'>Schwebekugel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Seil_des_Kletterns-dmg.md' class='internal-link'>Seil des Kletterns</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Smaragdstift-ftd.md' class='internal-link'>Smaragdstift</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Staub_der_Trockenheit-dmg.md' class='internal-link'>Staub der Trockenheit</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Staub_des_Niesens_und_Erstickens-dmg.md' class='internal-link'>Staub des Niesens und Erstickens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Staub_des_Verschwindens-dmg.md' class='internal-link'>Staub des Verschwindens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Stein_des_Glücks-dmg.md' class='internal-link'>Stein des Glücks</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Steine der Verständigung-dmg.md' class='internal-link'>Steine der Verständigung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Trickbeutel-dmg.md' class='internal-link'>Trickbeutel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Trommel_des_Perkussionisten-1-tce.md' class='internal-link'>Trommel des Perkussionisten +1</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Waage_der_Harmonie-tftyp.md' class='internal-link'>Waage der Harmonie</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Wächteremblem-tce.md' class='internal-link'>Wächteremblem</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Windfächer-dmg.md' class='internal-link'>Windfächer</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberschriftrolle-Zaubergrad-2-dmg.md' class='internal-link'>Zauberschriftrolle (Zaubergrad 2)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberschriftrolle-Zaubergrad-3-dmg.md' class='internal-link'>Zauberschriftrolle (Zaubergrad 3)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_der_Geheimnisse-dmg.md' class='internal-link'>Zauberstab der Geheimnisse</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_des_Kriegsmagiers-1-dmg.md' class='internal-link'>Zauberstab des Kriegsmagiers +1</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_der_Magieerkennung-dmg.md' class='internal-link'>Zauberstab der Magieerkennung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_der_magischen_Geschosse-dmg.md' class='internal-link'>Zauberstab der magischen Geschosse</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_des_Netzes-dmg.md' class='internal-link'>Zauberstab des Netzes</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_des_Verstrickens-tftyp.md' class='internal-link'>Zauberstab des Verstrickens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 </tbody>
 </tbody></table>
-
-### Helm
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Diadem_der_menschlichen_Perfektion-wdmm]]
-[[Diadem_des_Versengens-dmg]]
-[[Helm_der_Telepathie-dmg]]
-[[Helm_des_Sprachenverstehens-dmg]]
-[[Hut_der_Verkleidung-dmg]]
-[[Maske_der_Bestie-toa]]
-[[Mütze_der_Wasseratmung-dmg]]
-[[Propellerhelm-wdmm]]
-[[Stirnband der Intelligenz-dmg]]
-[[Taucherhelm-gos]]
-
-### Rüstungen
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Adamantrüstung-dmg]]
-[[Gedankenpanzer-vgm]]
-[[Mithrilrüstung-dmg]]
-[[Rüstung_des_Wassermanns-dmg]]
-[[Schlangenschuppenrüstung-cm]]
-[[Vanraks-Mithralrüstung-wdmm]]
-
-### Waffen
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Drachenzorn-Waffe-Schlummernd-ftd]]
-[[Dreizack_der_Fischherrschaft-dmg]]
-[[Ehlonnas_Köcher-dmg]]
-[[Geschosse-1-dmg]]
-[[Mondsichel-1-tce]]
-[[Schild-1-dmg]]
-[[Schmetterdorn-tftyp]]
-[[Schwert_der_Vergeltung-dmg]]
-[[Unbewegliches_Zepter-dmg]]
-[[Wächterschild-dmg]]
-[[Waffe der Warnung-dmg]]
-[[Waffe-1-dmg]]
-[[Waffe-1-kein-Schaden-dmg]]
-[[Wurfspeer_des_Blitzes-dmg]]
-[[Zauberstab der Magieerkennung-dmg]]
-[[Zauberstab des Kriegsmagiers-1-dmg]]
-[[Zauberstab_der_Geheimnisse-dmg]]
-[[Zauberstab_der_magischen_Geschosse-dmg]]
-[[Zauberstab_des_Netzes-dmg]]
-[[Zauberstab_des_Verstrickens-tftyp]]
-[[Zauberstecken_der_Kreuzotter-dmg]]
-[[Zauberstecken_der_Python-dmg]]
-[[Zepter_des_Paktbewahrers-1-dmg]]
-
-### Wundersame Gegenstände
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Alchemiekrug-blau-cm]]
-[[Alchemiekrug-dmg]]
-[[Alchemiekrug-orange-cm]]
-[[Allzweckwerkzeug-1-tce]]
-[[Arkanes_Grimoire-1-tce]]
-[[Augen_der_Bezauberung-dmg]]
-[[Augen_des_Adlers-dmg]]
-[[Augen_des_präzisen_Sehens-dmg]]
-[[cracked-driftglobe-cm]]
-[[Drachenberührter_Fokus-Schlummernd-ftd]]
-[[Drachengefäss-Schlummernd-ftd]]
-[[Edelstein_der_Helligkeit-dmg]]
-[[Elementarer_Edelstein-dmg]]
-[[Feenwild-Scherbe-tce]]
-[[Figur_der_wundersamen_Kraft-Silber-Rabe-dmg]]
-[[Flugbesen-dmg]]
-[[harkons-bite-vrgr]]
-[[Bardeninstrument-Doss-Laute-dmg]]
-[[Bardeninstrument-Fochlucan-Pandora-dmg]]
-[[Bardeninstrument-Mac-Fuimidh-Cister-dmg]]
-[[Karaffe_des_endlosen_Wassers-dmg]]
-[[Karten_der_Illusionen-dmg]]
-[[Keoghtoms_Salbe-dmg]]
-[[Laterne_der_Enttarnung-dmg]]
-[[Mystische-Klaue-Tätowierung-tce]]
-[[Nachtbrille-dmg]]
-[[Nachtrufer-tftyp]]
-[[Nimmervoller_Beutel-dmg]]
-[[Öl_der_Glätte-dmg]]
-[[Papiervogel-wdh]]
-[[pearl-of-power-dmg]]
-[[Phiole_des_Blutquells-1-tce]]
-[[pipes-of-haunting-dmg]]
-[[pipes-of-the-sewers-dmg]]
-[[Prähistorische_Figuren_der_wundersamen_Kraft-Pyrit-Plesiosaurus-bgg]]
-[[Rauchflasche-dmg]]
-[[Rauchpulver-wdh]]
-[[Robe_der_nützlichen_Dinge-dmg]]
-[[robe-of-serpents-skt]]
-[[Sattel_des_Kavaliers-dmg]]
-[[Schlingengriff-Tätowierung-tce]]
-[[Schuppenornament-Schlummernd-ftd]]
-[[Schutztätowierung-Klein-tce]]
-[[Schwebekugel-dmg]]
-[[Seil_des_Kletterns-dmg]]
-[[Smaragdstift-ftd]]
-[[Staub_der_Trockenheit-dmg]]
-[[Staub_des_Niesens_und_Erstickens-dmg]]
-[[Staub_des_Verschwindens-dmg]]
-[[Stein_des_Glücks-dmg]]
-[[Stein_des_Unglücks-tftyp]]
-[[Steine der Verständigung-dmg]]
-[[Tätowierung_des_Zauberwirkers-2nd-level-tce]]
-[[Tätowierung_des_Zauberwirkers-3rd-level-tce]]
-[[Trickbeutel-dmg]]
-[[Trommel_des_Perkussionisten-1-tce]]
-[[Waage_der_Harmonie-tftyp]]
-[[Wächteremblem-tce]]
-[[Windfächer-dmg]]
-[[Zauberschriftrolle-Zaubergrad-2-dmg]]
-[[Zauberschriftrolle-Zaubergrad-3-dmg]]
 
 ---
 
 ## Selten
 
-### Hals
+<table class="Item-Rarity">
+<thead>
+<tr class="class-progression"><th class"name">Bezeichnung</th><th class"cost">Kosten</th><th class"attunemenr">Einstimmung</th><th class="value"></th></tr>
+</thead><tbody>
+<thead>
+<tr><th colspan='4'>Hals</th></tr>
+</thead><tbody>
+<tr><td><a href='Amulett_der_Gesundheit-dmg.md' class='internal-link'>Amulett der Gesundheit</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Amulett_der_Hingabe-2-tce.md' class='internal-link'>Amulett der Hingabe +2</a></td><td align="right">/</td><td>ja</td><td>Kleriker, Paladin</td></tr>
+<tr><td><a href='Amulett_des_Schutzes_vor_Vertreibung-tftyp.md' class='internal-link'>Amulett des Schutzes vor Vertreibung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Anhänger_des_Giftschutzes-dmg.md' class='internal-link'>Anhänger des Giftschutzes </a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Halskette_der_Feuerbälle-dmg.md' class='internal-link'>Halskette der Feuerbälle </a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Halskette_der_Gebetsperlen-dmg.md' class='internal-link'>Halskette der Gebetsperlen </a></td><td align="right">/</td><td>ja</td><td>Druide, Kleriker, Paladin</td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Hände</th></tr>
+</thead><tbody>
+<tr><td><a href='Armschienen_der_Fliegenden_Dolche-wdh.md' class='internal-link'>Armschienen der Fliegenden Dolche</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Armschienen_der_Verteidigung-dmg.md' class='internal-link'>Armschienen der Verteidigung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Forscherkrallen-bgg.md' class='internal-link'>Forscherkrallen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Helm</th></tr>
+</thead><tbody>
+<tr><td><a href='Helm_der_Teleportation-dmg.md' class='internal-link'>Helm der Teleportation</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Krone_des_Zornbringers-bgg.md' class='internal-link'>Krone des Zornbringers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Hüfte</th></tr>
+</thead><tbody>
+<tr><td><a href='Drachenledergürtel-2-ftd.md' class='internal-link'>Drachenledergürtel +2</a></td><td align="right">/</td><td>ja</td><td>Mönch</td></tr>
+<tr><td><a href='Gürtel_der_Hügelriesenstärke-dmg.md' class='internal-link'>Gürtel der Hügelriesenstärke</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zwergengürtel-dmg.md' class='internal-link'>Zwergengürtel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+</tbody>
 
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Amulett_der_Gesundheit-dmg]]
-[[Amulett_der_Hingabe-2-tce]]
-[[Amulett_des_Schutzes_vor_Vertreibung-tftyp]]
-[[Anhänger_des_Giftschutzes-dmg]]
-[[Halskette_der_Feuerbälle-dmg]]
-[[Halskette_der_Gebetsperlen-dmg]]
-
-### Hand
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Armschienen_der_Fliegenden_Dolche-wdh]]
-[[Armschienen_der_Verteidigung-dmg]]
-[[Forscherkrallen-bgg]]
-
-### Helm
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Helm_der_Teleportation-dmg]]
-[[Krone_des_Zornbringers-bgg]]
-
-### Hüfte
-
-| Bezeichnung                                | Kosten | Einstimmung |
-| ------------------------------------------ | ------:| ----------- |
-[[Drachenledergürtel-2-ftd]]
-[[Gürtel_der_Hügelriesenstärke-dmg]]
-[[Zwergengürtel-dmg]]
 
 ### Ringe
 
@@ -910,7 +742,6 @@ aliases:
 [[Betrügerisches_Manuskript-tce]]
 [[blod-stone-skt]]
 [[Bohnenbeutel-dmg]]
-[[Amulett_der_Pflanzenherrschaft-gos]]
 [[claw-of-the-wyrm-rune-skt]]
 [[Daerns_flotte_Festung-dmg]]
 [[Dimensionsfesseln-dmg]]
@@ -970,7 +801,6 @@ aliases:
 [[rod-of-the-vonindod-skt]]
 [[rope-of-entanglement-dmg]]
 [[Schale_der_Wasserelementar-Herrschaft-dmg]]
-[[Schattenfell-Brandzeichentätowierung-tce]]
 [[Schattenfell-Scherbe-tce]]
 [[Scherbe_der_elementaren_Essenz-tce]]
 [[Scherbe_der-außerweltlichen_Essenz-tce]]
@@ -980,14 +810,11 @@ aliases:
 [[Schild-2-dmg]]
 [[Schriftrolle_des_Schutzes-dmg]]
 [[Schuppenornament-Erwachend-ftd]]
-[[Schutztätowierung-Medium-tce]]
 [[Schutzverse-tce]]
 [[serpents-fang-cm]]
 [[Spiegel_der_Vergangenheit-tftyp]]
 [[Stab_der_Wurzelhügel-bgg]]
 [[Stein_der_Erdelementar-Herrschaft-dmg]]
-[[Tätowierung_des_Zauberwirkers-4th-level-tce]]
-[[Tätowierung_des_Zauberwirkers-5th-level-tce]]
 [[Tragbares_Loch-dmg]]
 [[Trommel_des_Perkussionisten-2-tce]]
 [[Würfel_der_Kraft-dmg]]
@@ -1000,7 +827,6 @@ aliases:
 
 ## Sehr selten
 
-[[Absorbierende_Tätowierung-tce]]
 [[Allzweckwerkzeug-3-tce]]
 Amethyst-Magnetstein-ftd
 Amulett_der_Ebenen-dmg
@@ -1016,7 +842,6 @@ Blutvergiesserklinge-bgg
 Bronze-Drachenschuppen-Panzer-dmg
 conch-of-teleportation-skt
 Dämonenrüstung-dmg
-devlins-staff-of-striking-toa
 Dieb_der_neun_Leben-dmg
 Donnerbüchse-bgg
 Drachenberührter_Fokus-Erweckt-ftd
@@ -1034,7 +859,6 @@ Fliegender_Teppich-6-ft-9-ft-dmg
 [[Fliegender_Teppich-dmg]]
 Fraßbeutel-dmg
 Fürstengewand-wdh
-Geisterschritt-Tätowierung-tce
 Geschosse-3-dmg
 Glocke_des_Exils-veor
 Gold-Drachenschuppen-Panzer-dmg
@@ -1072,7 +896,6 @@ Kristallchronik-tce
 Kristallkugel-dmg
 Krummsäbel_der_Geschwindigkeit-dmg
 Kupfer-Drachenschuppen-Panzer-dmg
-Lebensbrunnen-Tätowierung-tce
 Leitfaden_der_Führungskraft_und_der_Einflussnahme-dmg
 Leitfaden_des_klaren_Denkens-dmg
 Leitfaden_des_Verständnisses-dmg
@@ -1114,7 +937,6 @@ Saphirbeschützer-ftd
 Schild_der_Uven-Rune-wdmm
 Schild-3-dmg
 Schuppenornament-Erweckt-ftd
-Schutztätowierung-Groß-tce
 Schwarzer_Drachenschuppen-Panzer-dmg
 Schwert_der_Schärfe-dmg
 Schwurbogen-dmg
@@ -1255,7 +1077,6 @@ Zwergischer_Wurfhammer-dmg
 <tr><th colspan='4'>Wundersame Gegenstände</th></tr>
 </thead><tbody>
 <tr><td><a href='Apparat_von_Kwalish-dmg.md' class='internal-link'>Apparat von Kwalish</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Blutdurst-Tätowierung-tce.md' class='internal-link'>Blutdurst-Tätowierung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 <tr><td><a href='Brunnen_der_vielen_Welten-dmg.md' class='internal-link'>Brunnen der vielen Welten</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Drachenberührter_Fokus-Ahn-ftd.md' class='internal-link'>Drachenberührter Fokus (Ahn)</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
 <tr><td><a href='Drachengefäss-Ahn-ftd.md' class='internal-link'>Drachengefäß (Ahn)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
@@ -1273,7 +1094,6 @@ Zwergischer_Wurfhammer-dmg
 <tr><td><a href='Karten_des_Schicksals-dmg.md' class='internal-link'>Karten des Schicksals</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Kristallkugel-Legendäre_Version-dmg.md' class='internal-link'>Kristallkugel (Legendäre Version)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 <tr><td><a href='Kugel_von_Skoraeus-bgg.md' class='internal-link'>Kugel von Skoraeus</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
-<tr><td><a href='Leitfaden_der_verstummten_Sprache-dmg.md' class='internal-link'>Leitfaden der verstummten Sprache</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
 <tr><td><a href='Nether-Schriftrolle_von_Azumar-cm.md' class='internal-link'>Nether-Schriftrolle von Azumar</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Platintuch-ftd.md' class='internal-link'>Platintuch</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 <tr><td><a href='Prähistorische_Figuren_der_wundersamen_Kraft-Jaspis-Tyrannosaurus-Rex-bgg.md' class='internal-link'>Prähistorische Figur der wundersamen Kraft (Jaspis-Tyrannosaurus-Rex)</a></td><td align="right">/</td><td>nein</td><td></td></tr>

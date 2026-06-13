@@ -1,21 +1,21 @@
 ---
-Bezeichnung: Grenade Launcher
+Bezeichnung: Granatenwerfer
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
   - /
 Kst.: /
 Gew.: 3,5 kg
 status: WIP
-linter-yaml-title-alias: Grenade Launcher
+linter-yaml-title-alias: Granatenwerfer
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
-  - Grenade Launcher
+  - Granatenwerfer
 ---
-# Grenade Launcher
+# Granatenwerfer
 *Adventuring gear*  
 
 - **Weight**: 7.0 lbs.

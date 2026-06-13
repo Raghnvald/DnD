@@ -18,7 +18,7 @@ aliases:
 ---
 # Schwarzklinge
 *Waffe ([[Zweihandschwert-phb|Zweihandschwert]]), legendär (benötigt Einstimmung durch eine Kreatur, die keine gute Gesinnung hat)*  
-![](img/blackrazor.webp#right)
+<img src="blackrazor.webp" align="right" width="150">
 
 - **Schaden**: 2d6 Hieb
 - **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]

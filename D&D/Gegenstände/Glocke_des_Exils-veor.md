@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Chime of Exile
+Bezeichnung: Glocke des Exila
 Kategorie: Wundersamer Gegenstand
 linter-yaml-title-alias: Chime of Exile
 tags:
@@ -8,10 +8,10 @@ tags:
 aliases:
   - Chime of Exile
 ---
-# Chime of Exile
-*Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/chime-of-exile.webp#right)
+# Glocke des Exils
+*Wundersamer Gegenstand, sehr selten*  
+![](img/chime-of-exile.webp#right)
 
-This silver chime is engraved with delicate magic sigils. While holding the chime, you can use an action to cast the Banishment spell (spell save DC 20). If the target of the spell has 50 hit points or fewer, it automatically fails its saving throw. Once the chime has been used to cast the spell, it can't be used this way again until the next dawn.
+Die silberne Glocke ist mit zarten magischen Siegeln versehen. Wer sie hält, kann eine Aktion verwenden, um den Zauber [[Verbannung-phb|Verbannung]] (Zauberrettungswurf-SG 20) zu wirken. Wenn das Ziel des Zaubers höchstens 50 Trefferpunkte hat, scheitert sein Rettungswurf automatisch. Wurde die Glocke eingesetzt, um den Zauber zu wirken, so ist dies erst im nächsten Morgengrauen wieder möglich. 
 
-*Source: Vecna: Eve of Ruin p. 46*
+*Quelle: Vecna: Vorabend  der Verdammnis S. 46*

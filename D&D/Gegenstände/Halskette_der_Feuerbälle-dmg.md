@@ -9,7 +9,7 @@ aliases:
 ---
 # Necklace of Fireballs
 *Wondrous item, minor, rare*  
-![](/3-Mechanics/CLI/items/img/necklace-of-fireballs.webp#right)
+![](img/necklace-of-fireballs.webp#right)
 
 - **Weight**: 1.0 lbs.
 

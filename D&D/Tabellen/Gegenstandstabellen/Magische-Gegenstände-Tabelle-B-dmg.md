@@ -47,6 +47,6 @@ aliases:
 | 96    | [[Robe_der_nützlichen_Dinge-dmg\|Robe der nützlichen Dinge]]               |
 | 97    | [[Seil_des_Kletterns-dmg\|Seil des Kletterns]]                             |
 | 98    | [[Sattel_des_Kavaliers-dmg\|Sattel des Kavaliers]]                         |
-| 99    | [[Zauberstab der Magieerkennung-dmg\|Zauberstab der Magieerkennung]]       |
+| 99    | [[Zauberstab_der_Magieerkennung-dmg\|Zauberstab der Magieerkennung]]       |
 | 00    | [[Zauberstab_der_Geheimnisse-dmg\|Zauberstab der Geheimnisse]]             |
 ^magic-item-table-b

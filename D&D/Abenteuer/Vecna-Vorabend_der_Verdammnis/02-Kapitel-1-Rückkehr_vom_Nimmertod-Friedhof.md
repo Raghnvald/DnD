@@ -49,9 +49,9 @@ Sorge außerdem dafür, dass sich der [[Marid-mm|Marid]] in Bereich K10 ergibt, 
 | ---------------------- | ------------------------------------------ |
 | K2                     | Zwei [[Gruftschrecken-mm\|Gruftschrecken]] |
 | K7                     | Zwei [[Wassergeist-mm\|Wassergeister]]     |
-| K14                    | Zwei [[Kultfanatiker-mm\|Kultfanatiker]]   |
-| K16                    | Ein [[Magier-mm\|Magier]]                  | 
-| K17                    | Zwei [[Kultfanatiker-mm\|Kultfanatiker]]   |
+| K14                    | Zwei [[D&D/Bestiarium/Humanoid/Kultfanatiker-mm\|Kultfanatiker]]   |
+| K16                    | Ein [[D&D/Bestiarium/Humanoid/Magier-mm\|Magier]]                  | 
+| K17                    | Zwei [[D&D/Bestiarium/Humanoid/Kultfanatiker-mm\|Kultfanatiker]]   |
 | K25                    | Ein [[Nothic-mm\|Nothic]]                  |
 | K26                    | Drei [[Nothic-mm\|Nothics]]                |
 | Erwachen in Immernacht | Drei [[Ghul-mm\|Ghule]]                    |
@@ -212,7 +212,7 @@ Die einzige Tür zu diesem Raum ist von außen mit einem Vorhängeschloss versch
 
 Die Kultisten haben diese Gruft zweckentfremdet und zur Zelle für Sarcelle Malinosch gemacht, die sie als Ritual-Opfer vorgesehen haben. Sarcelle döst in die Decken gewickelt im Sarg, sodass nur ihr Haar sichtbar ist.
 
-Sarcelle ist eine menschliche Wildmagie-Zauberin, deren Zauberkräfte bei der letzten Exkursion auf eine ferne Ebene verloren gegangen sind. Bis sie auf natürliche Weise zurückkehren, hat Sarcelle die Spielwerte einer neutralen [[Magier-xmm|Magierin]] ohne Zauberwirken. Auf Fragen reagiert sie manchmal mit rätselhaften Vorhersagen, sie versucht jedoch, diese irritierende Gewohnheit abzulegen.
+Sarcelle ist eine menschliche Wildmagie-Zauberin, deren Zauberkräfte bei der letzten Exkursion auf eine ferne Ebene verloren gegangen sind. Bis sie auf natürliche Weise zurückkehren, hat Sarcelle die Spielwerte einer neutralen [[D&D/Bestiarium/Humanoid/Magier-xmm|Magierin]] ohne Zauberwirken. Auf Fragen reagiert sie manchmal mit rätselhaften Vorhersagen, sie versucht jedoch, diese irritierende Gewohnheit abzulegen.
 
 Sarcelle möchte, dass ihr jemand hilft, sich zu befreien. Sie erklärt, dass sie sich ohne ihre Magie unwohl fühlt und sich eine Eskorte vom Nimmertod-Friedhofwünscht. Den Rest des Heimwegs würde sie alleine schaffen.
 
@@ -331,7 +331,7 @@ Die einzige Tür zu diesem Raum ist von außen mit einem neuen, stabilen Vorhän
 
 ![Umberto Noblin](Vecna-Vorabend_der_Verdammnis/img/015-01-006-umberto-noblin.webp#center)
 
-Umberto Noblin ist ein gnomischer Historiker, der unbedingt vom Nimmertod-Friedhof entkommen will. Er hat die Spielwerte eines rechtschaffen neutralen [[Magier-mm|Magiers]] ohne Zauberwirken. 
+Umberto Noblin ist ein gnomischer Historiker, der unbedingt vom Nimmertod-Friedhof entkommen will. Er hat die Spielwerte eines rechtschaffen neutralen [[D&D/Bestiarium/Humanoid/Magier-mm|Magiers]] ohne Zauberwirken. 
 
 ##### Umbertos Geheimnis
 
@@ -378,13 +378,13 @@ Die eintreffenden Kultisten läuten je nach ihrem Rang bestimmte Glocken in fest
 > In dieser Gruft sind Tische und Stühle angeordnet wie in einem Konferenzraum oder einer Kantine. In der Südostecke tropft Wasser aus einem Rohr in eine Zisterne unter dem fein ausgearbeiteten Bild eines starrenden Auges, ergriffen von einer dürren Hand. Fünf Kultisten in Roben befinden sich in diesem Raum. Einer schikaniert die anderen. 
 ^06b
 
-Ein neutral böser [[Magier-mm|Magier]] und vier neutral böse [[Kultfanatiker-mm|Kultfanatiker]] befinden sich in diesem Raum. Der Magier ist ein hämischer menschlicher Leuteschinder namens Oxtu. Er besteht darauf, von den Kultfanatikern formell als „Zähne von Vecna" angeredet zu werden. Im Gegenzug nennt er sie bei ihrem Rang: ,,Erinnerungen von Vecna". Oxtu beschreibt gerne grausame Methoden, den Leuten ihre Geheimnisse zu entreißen, und die Kultfanatiker lauschen ihm gebannt. Er trägt die Schlüssel zu allen Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich. 
+Ein neutral böser [[D&D/Bestiarium/Humanoid/Magier-mm|Magier]] und vier neutral böse [[D&D/Bestiarium/Humanoid/Kultfanatiker-mm|Kultfanatiker]] befinden sich in diesem Raum. Der Magier ist ein hämischer menschlicher Leuteschinder namens Oxtu. Er besteht darauf, von den Kultfanatikern formell als „Zähne von Vecna" angeredet zu werden. Im Gegenzug nennt er sie bei ihrem Rang: ,,Erinnerungen von Vecna". Oxtu beschreibt gerne grausame Methoden, den Leuten ihre Geheimnisse zu entreißen, und die Kultfanatiker lauschen ihm gebannt. Er trägt die Schlüssel zu allen Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich. 
 
 Wenn sie Eindringlinge entdecken, fackeln die Kultisten nicht lange. Dabei versuchen die Fanatiker, Oxtus Zaubern aus dem Weg zu gehen, aber Oxtu strengt sich nicht an, die Fanatiker nicht zu treffen. Die Kultisten kämpfen alle bis zum Tod. 
 
 ##### Ein geräuschvoller Kampf
 
-Kommt es hier zu Lärm, so alarmiert dies die beiden [[Magier-mm|Magier]], die in Bereich K16 dösen. 
+Kommt es hier zu Lärm, so alarmiert dies die beiden [[D&D/Bestiarium/Humanoid/Magier-mm|Magier]], die in Bereich K16 dösen. 
 
 ##### Unheiliges Becken
 
@@ -406,7 +406,7 @@ Die Küche ist nur während der Mahlzeiten nicht leer, und niemand kümmert sich
 > In diesem Raum wurden Knochen in Nischen beiseitegeschoben, um Platz für gefaltete Roben und weitere persönliche Gegenstände zu schaffen. An der Nordwand lehnen vier schmale Pritschen. Zwei davon sind belegt, eine mit einer Menschenfrau, eine mit einem Elf. Beide Personen tragen Roben. 
 ^071
 
-Hier ruhen sich zwei neutral böse [[Magier-mm|Magier]] aus, ein Elf namens Hannel und eine Menschenfrau namens Algra. Sie sind griesgrämige, schweigsame Eiferer, die Vecna schon viele Jahre vor ihrer Aufnahme in den Kult heimlich bewundert haben. Nichts tun sie lieber, als jüngere Kultisten ihre Autorität spüren zu lassen. Beide tragen eine Kette aus Menschenzähnen zu Ehren ihrer Titel in der Kulthierarchie: „Zähne von Vecna". Ferner haben beide Schlüssel zu den Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich. 
+Hier ruhen sich zwei neutral böse [[D&D/Bestiarium/Humanoid/Magier-mm|Magier]] aus, ein Elf namens Hannel und eine Menschenfrau namens Algra. Sie sind griesgrämige, schweigsame Eiferer, die Vecna schon viele Jahre vor ihrer Aufnahme in den Kult heimlich bewundert haben. Nichts tun sie lieber, als jüngere Kultisten ihre Autorität spüren zu lassen. Beide tragen eine Kette aus Menschenzähnen zu Ehren ihrer Titel in der Kulthierarchie: „Zähne von Vecna". Ferner haben beide Schlüssel zu den Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich. 
 
 Die Magier kämpfen umgehend, wenn sie Eindringlinge erblicken, da sie nicht wollen, dass der Kult enttarnt wird. Sie sind entschlossen, Eindringlinge zu besiegen und dem Kult ihren Wert zu beweisen, auch wenn das bedeutet, bis zum Tod zu kämpfen. 
 
@@ -425,7 +425,7 @@ Wenn eine Urne in der Südwand gedreht wird, gleitet ein Wandstück beiseite und
 > An der Nordwand steht ein Steinsarg. Der obere Bereich des Deckels ist wie ein geöffnetes Buch gestaltet. In die steinernen Buchseiten ist ein Name eingraviert: Ayren Greifenstein. 
 ^074
 
-Vier chaotisch böse [[Kultfanatiker-mm|Kultfanatiker]] beaufsichtigen zwei [[Ghul-mm|Ghule]] beim Versuch, einen Haufen Bücher zu sortieren, welche die Kultisten in dieses Grab geschleppt haben. Die Bibliothek gehört Ayren Greifenstein, einem menschlichen Historiker aus Niewinter. Die Verwerfungen auf dem Friedhof sind dem Raum nicht gut bekommen. Sein unebener Boden macht diesen Raum zu [[09-Kapitel_08-Auf_Abenteuer_ausziehen#Schwieriges Gelände|schwierigem Gelände]]. 
+Vier chaotisch böse [[D&D/Bestiarium/Humanoid/Kultfanatiker-mm|Kultfanatiker]] beaufsichtigen zwei [[Ghul-mm|Ghule]] beim Versuch, einen Haufen Bücher zu sortieren, welche die Kultisten in dieses Grab geschleppt haben. Die Bibliothek gehört Ayren Greifenstein, einem menschlichen Historiker aus Niewinter. Die Verwerfungen auf dem Friedhof sind dem Raum nicht gut bekommen. Sein unebener Boden macht diesen Raum zu [[09-Kapitel_08-Auf_Abenteuer_ausziehen#Schwieriges Gelände|schwierigem Gelände]]. 
 
 Da Vecna ein Gott des Wissens sowie der Geheimnisse ist, haben alle Kultisten ihre Bücher dieser Sammlung beigefügt.Jeder Kultfanatiker hat eigene Vorstellungen davon, wie das Durcheinander erlesener Werke zu organisieren sei, daher müssen die Ghule sich unter ständigen widersprüchlichen Anweisungen arbeiten. 
 
@@ -437,7 +437,7 @@ Ein Regal schwingt zurück und gibt einen Geheimgang zu Bereich K19 frei. Ein Ch
 
 ##### Schätze
 
-Die Sammlung finsterer Bücher, viele davon Duplikate, enthält auch einige wertvolle Folianten. Einer von diesen beschreibt das [[Auge_von_Vecna-dmg|Auge von Vecna]] und die [[Hand_von_Vecna-dmg|Hand von Vecna]]. Er ist ein literarisches und künstlerisches Meisterwerk und 450 GM wert. Ein anderes Buch mit unsinnigen Gedichten trägt den Titel _Richtig gute Reime_, hat einen vergoldeten Einband und ist 200 GM wert. Zwischen die Seiten eines Buchs über Niewinters Geschichte sind eine [[Zauberschriftrolle-dmg|Zauberschriftrolle]] der [[Mächtige_Unsichtbarkeit-phb|Mächtigen Unsichtbarkeit]] und eine [[Zauberschriftrolle-dmg|Zauberschriftrolle]] des [[Mächtiges_Trugbild-phbMächtigen Trugbilds]] gefaltet. Die Charaktere können diese Schätze finden, wenn sie zehn Minuten konzentriert danach suchen. 
+Die Sammlung finsterer Bücher, viele davon Duplikate, enthält auch einige wertvolle Folianten. Einer von diesen beschreibt das [[Auge_von_Vecna-dmg|Auge von Vecna]] und die [[Hand_von_Vecna-dmg|Hand von Vecna]]. Er ist ein literarisches und künstlerisches Meisterwerk und 450 GM wert. Ein anderes Buch mit unsinnigen Gedichten trägt den Titel _Richtig gute Reime_, hat einen vergoldeten Einband und ist 200 GM wert. Zwischen die Seiten eines Buchs über Niewinters Geschichte sind eine [[Zauberschriftrolle-dmg|Zauberschriftrolle]] der [[Mächtige_Unsichtbarkeit-phb|Mächtigen Unsichtbarkeit]] und eine [[Zauberschriftrolle-dmg|Zauberschriftrolle]] des [[Mächtiges_Trugbild-phb|Mächtigen Trugbilds]] gefaltet. Die Charaktere können diese Schätze finden, wenn sie zehn Minuten konzentriert danach suchen. 
 
 #### K18: Leere Zelle
 
@@ -478,7 +478,7 @@ Die einzige offenkundige Tür dieses Raums ist außen mit einem stabilen neuen V
 
 ![Indrina Lamsettel](Vecna-Vorabend_der_Verdammnis/img/017-01-008-indrina-lamsensettle.webp#center)
 
-Die Gefangene ist eine menschliche Schauspielerin namens [[Indrina_Lamsettel-veor|Indrina Lamsettel]]. Ihr üblicher Hochmut ist ihr in der Gefangenschaft abhandengekommen, auch wenn sie entschlossen ist, den Kult büßen zu lassen, wenn sie wieder frei ist. Indrina träumt davon, in ihr Anwesen zurückzukehren, ausgiebig zu baden und sich mit Parfüm zu überschütten. Sie weiß nichts von Vecna und ahnt nicht, was der Kult mit ihr vorhat. Sie glaubt, dass Vogt Nieglut hinter ihrer Einkerkerung steckt. Indrina hat die Spielwerte einer rechtschaffen neutralen [[Adeliger-mm|Adeligen]], ist jedoch unbewaffnet und ungerüstet. 
+Die Gefangene ist eine menschliche Schauspielerin namens [[Indrina_Lamsettel-veor|Indrina Lamsettel]]. Ihr üblicher Hochmut ist ihr in der Gefangenschaft abhandengekommen, auch wenn sie entschlossen ist, den Kult büßen zu lassen, wenn sie wieder frei ist. Indrina träumt davon, in ihr Anwesen zurückzukehren, ausgiebig zu baden und sich mit Parfüm zu überschütten. Sie weiß nichts von Vecna und ahnt nicht, was der Kult mit ihr vorhat. Sie glaubt, dass Vogt Nieglut hinter ihrer Einkerkerung steckt. Indrina hat die Spielwerte einer rechtschaffen neutralen [[D&D/Bestiarium/Humanoid/Adeliger-mm|Adeligen]], ist jedoch unbewaffnet und ungerüstet. 
 
 ##### Geheimtür 
 
@@ -545,7 +545,7 @@ Diese vier Räume sind leer.
 
 ![Jerot Galgin](Vecna-Vorabend_der_Verdammnis/img/018-01-009-jerot-galgin.webp#center)
 
-Der Anführer des Kults ist ein neutral böser menschlicher [[Magier-Nekromant-mpmm|Magier-Nekromant]] (siehe Anhang A) namens [[Jerot_Galgin-veor|Jerot Galgin]]. Ein loyaler [[Nothic-mm|Nothic]] namens Maszundrin ist Jerots Assistent und weicht ihm nicht von der Seite. Er verehrt Vecna und hat Jahrzehnte lang in den Katakomben gelauert, wobei er die Gemeinsprache gelernt hat. Die Kultisten betrachtet er als wichtige Diener des Lich-Gottes. 
+Der Anführer des Kults ist ein neutral böser menschlicher [[D&D/Bestiarium/Humanoid/Magier-Nekromant-mpmm|Magier-Nekromant]] (siehe Anhang A) namens [[Jerot_Galgin-veor|Jerot Galgin]]. Ein loyaler [[Nothic-mm|Nothic]] namens Maszundrin ist Jerots Assistent und weicht ihm nicht von der Seite. Er verehrt Vecna und hat Jahrzehnte lang in den Katakomben gelauert, wobei er die Gemeinsprache gelernt hat. Die Kultisten betrachtet er als wichtige Diener des Lich-Gottes. 
 
 Jerot ist ein Adeliger, der sein ganzes Leben in Niewinter zugebracht hat. Unter der Nase seiner Kollegen hat er über viele Jahre hinweg großes Vertrauen in Vecna aufgebaut und umfassendes nekromantisches Wissen erworben. Er beschäftigt sich mit seiner aktuellen Forschung, während Freunde und Angehörige ihn auf einer verlängerten Reise in Tiefwasser wähnen. Sein geheimes Leben als Anführer des Kults oder „Gedanke von Vecna" betrachtet er als weitere Methode, seinen bösen Schutzherrn zu ehren. 
 
@@ -572,13 +572,13 @@ Ein Wandbehang, der einen fressenden Ghul darstellt, tarnt eine geheime Schiebet
 
 Der Boden dieses Raums ist drei Meter niedriger als die Galerien. 
 
-Hier halten zahlreiche Kultisten ein langwieriges Ritual ab, um Vecna die Geheimnisse des Elfen Eldon Schlüsselwart zu opfern. Die Ritualleiterin ist eine hochgewachsene, stolze, neutral böse [[Magier-mm|Magierin]] namens Kendri Nex. Die fünf [[Nothic-mm|Nothics]] bei ihr greifen Eindringlinge an, sobald sie diese sehen. Kendri setzt ihre Magie defensiv ein und zieht sich notfalls auf den Boden des Raums zurück. Sie trägt Schlüssel zu allen Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich, aber wenn die Charaktere die anderen Gefangenen jetzt noch nicht gerettet haben, kommen sie vermutlich nicht mehr dazu, da diese Begegnung wahrscheinlich damit endet, dass sie durch einen Ebenenriss gezogen werden. 
+Hier halten zahlreiche Kultisten ein langwieriges Ritual ab, um Vecna die Geheimnisse des Elfen Eldon Schlüsselwart zu opfern. Die Ritualleiterin ist eine hochgewachsene, stolze, neutral böse [[D&D/Bestiarium/Humanoid/Magier-mm|Magierin]] namens Kendri Nex. Die fünf [[Nothic-mm|Nothics]] bei ihr greifen Eindringlinge an, sobald sie diese sehen. Kendri setzt ihre Magie defensiv ein und zieht sich notfalls auf den Boden des Raums zurück. Sie trägt Schlüssel zu allen Gefängniszellen (Bereiche K5, K11, K18 und K20) bei sich, aber wenn die Charaktere die anderen Gefangenen jetzt noch nicht gerettet haben, kommen sie vermutlich nicht mehr dazu, da diese Begegnung wahrscheinlich damit endet, dass sie durch einen Ebenenriss gezogen werden. 
 
-Die sechs neutral bösen [[Kultfanatiker-mm|Kultfanatiker]] auf der östlichen Galerie kämpfen nicht, da sie das komplizierte Ritual nicht unterbrechen wollen. Sie singen und gestikulieren weiter. 
+Die sechs neutral bösen [[D&D/Bestiarium/Humanoid/Kultfanatiker-mm|Kultfanatiker]] auf der östlichen Galerie kämpfen nicht, da sie das komplizierte Ritual nicht unterbrechen wollen. Sie singen und gestikulieren weiter. 
 
 ##### Der Käfig 
 
-Eldon ist ein rechtschaffen guter Elf und ein [[Priester-mm|Priester]] des [[Deneir|Deneir]], Gott der Schriften und des Wissens. Der Elf kann keine Zauber wirken, solange er sich im Käfig befindet. Dieser hängt an einer stabilen Kette, die mit der Decke verbunden ist und sechs Meter über dem Boden endet. Die Tür an der Seite des Käfigs ist zugeklinkt, aber nicht verschlossen. Ein Charakter, der den Käfig erreicht, kann die Tür mit einer Aktion öffnen. 
+Eldon ist ein rechtschaffen guter Elf und ein [[D&D/Bestiarium/Humanoid/Priester-mm|Priester]] des [[Deneir|Deneir]], Gott der Schriften und des Wissens. Der Elf kann keine Zauber wirken, solange er sich im Käfig befindet. Dieser hängt an einer stabilen Kette, die mit der Decke verbunden ist und sechs Meter über dem Boden endet. Die Tür an der Seite des Käfigs ist zugeklinkt, aber nicht verschlossen. Ein Charakter, der den Käfig erreicht, kann die Tür mit einer Aktion öffnen. 
 
 #### Ende des Kampfes
 
@@ -756,7 +756,7 @@ Hier liegen die weniger bekannten Dolindars. Sie wurden in den Alkoven hinter de
 
 Das Papierstück befindet sich an einer Platte vor einem offenen Alkoven, in dem nie ein Dolindar bestattet wurde. Stattdessen wohnt eine Geisterwächterin namens Nuumi darin. Sie hat einen Zettel mit der Aufschrift „Nuumis Kammer" in der Gemeinsprache an der Platte befestigt. Wenn sich jemand der Platte nähert, springt Nuumi hervor und stammelt Entschuldigungen.
 
-Nuumi ist ein rechtschaffen neutraler [[Geist-mm|Geist]]. Einst war sie eine Mondelfe. Sie kann beliebig oft Taschenspielerei wirken. Nuumi ist etwa 1,5 Meter groß, hat krauses blaues Haar und blasse, von blauen Adern durchzogene Haut. Sie ist nicht an Kämpfen interessiert, weil sie Dreck machen.
+Nuumi ist ein rechtschaffen neutraler [[Geist-mm|Geist]]. Einst war sie eine Mondelfe. Sie kann beliebig oft [[Taschenspielerei-phb|Taschenspielerei]] wirken. Nuumi ist etwa 1,5 Meter groß, hat krauses blaues Haar und blasse, von blauen Adern durchzogene Haut. Sie ist nicht an Kämpfen interessiert, weil sie Dreck machen.
 
 ![Nuumi](Vecna-Vorabend_der_Verdammnis/img/024-01-014-newmy-ghost.webp#center)
 
@@ -803,7 +803,7 @@ Auf den Sockeln befinden sich folgende Schätze der Familie Dolindar:
 - Ein goldener Helm im Wert von 280 GM
 - Eine [[Schwebekugel-dmg|Schwebekugel]], in die eine Karte der Stadttore der Außenlande eingeschnitten wurde
 - Eine [[Halskette_der_Anpassung-dmg|Halskette der Anpassung]] mit der Inschrift „Mein Atem ist der Eure, Kevetta - nehmt ihn" 
-- Ein Buch mit dem Titel _Flucht aus dem Endlosen Kerker_, das Methoden zum Entkommen aus der GefängnisEbene Carceri beschreibt und Ebenengelehrten wie Eldon, der verspricht, das Buch nach der Rückkehr nach Niewinter zu kaufen, 500 GM wert ist.
+- Ein Buch mit dem Titel _Flucht aus dem Endlosen Kerker_, das Methoden zum Entkommen aus der Gefängnisebene Carceri beschreibt und Ebenengelehrten wie Eldon, der verspricht, das Buch nach der Rückkehr nach Niewinter zu kaufen, 500 GM wert ist.
 - Eine Schneekugel mit einer Miniatur von Niewinter im Wert von 350 GM
 
 #### B5: Puzzle Door

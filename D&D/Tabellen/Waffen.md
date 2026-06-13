@@ -43,7 +43,7 @@ aliases:
 | [Lanze-old](Lanze-old.md)                      |  10 GM | `1W12` Stichschaden |  3,0 kg. | Weitreichend, Besonders                                        |
 | [Morgenstern](../Gegenstände/Morgenstern.md)          |  15 GM | `1W8` Stichschaden  |  2,0 kg. | —                                                              |
 | [Peitsche-old](Peitsche-old.md)                    |   2 GM | `1W4` Hiebschaden   |  1,5 kg. | Finesse, Weitreichend                                          |
-| [pike-phb](pike-phb.md)                        |   5 GM | `1W10` Stichschaden |  9,0 kg. | Schwer, Weitreichend, Zweihändig                               |
+| [Pike-phb](Pike-phb.md)                        |   5 GM | `1W10` Stichschaden |  9,0 kg. | Schwer, Weitreichend, Zweihändig                               |
 | [Rapier](../Gegenstände/Rapier.md)                    |  25 GM | `1W8` Stichschaden  |  1,0 kg. | Finesse                                                        |
 | [[Streitaxt-old]]              |  10 GM | `1W8` Hiebschaden   |  2,0 kg. | Vielseitig (`1W10`)                                            |
 | [Zweihandaxt-old](Zweihandaxt-old.md)          |  30 GM | `1W12` Hiebschaden  |  3,5 kg. | Schwer, Zweihändig                                             |

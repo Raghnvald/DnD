@@ -1,7 +1,7 @@
 ---
-Bezeichnung: Laser Rifle
+Bezeichnung: Lasergewehr
 Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Laser Rifle
+linter-yaml-title-alias: Lasergewehr
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,9 +9,9 @@ tags:
   - Gegenstand/Zeitalter/Futuristisch
   - Quelle/5e/dmg
 aliases:
-  - Laser Rifle
+  - Lasergewehr
 ---
-# Laser Rifle
+# Lasergewehr
 *Weapon*  
 
 - **Damage**: 3d8 radiant

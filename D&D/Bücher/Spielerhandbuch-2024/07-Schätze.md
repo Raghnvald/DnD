@@ -844,7 +844,7 @@ Wenn sein Träger sich weigert, den Forderungen des Gegenstands nachzukommen, ka
 | 21    | [Staub der Trockenheit](05%20-%20Wikipedia/Gegenstände/Staub-der-Trockenheit.md)                                                                                                                      |
 | 22    | [Staub des Niesens und Erstickens](05%20-%20Wikipedia/Gegenstände/Staub-des-Niesens-und-Erstickens.md)                                                                                                |
 | 19-20 | [Staub des Verschwindens](05%20-%20Wikipedia/Gegenstände/Staub-des-Verschwindens.md)                                                                                                                  |
-| 34    | [Stirnband des Intellekts](Stirnband%20der%20Intelligenz-dmg.md)                                                                                                                   |
+| 34    | [Stirnband des Intellekts](Stirnband_der_Intelligenz-dmg.md)                                                                                                                   |
 | 11    | [Stirnreif des Sprengens](05%20-%20Wikipedia/Gegenstände/Stirnreif-des-Sprengens.md)                                                                                                                  |
 | 48-49 | [Trank der Tierfreundschaft](05%20-%20Wikipedia/Gegenstände/Trank-der-Tierfreundschaft.md)                                                                                                            |
 | 50-51 | [Trank des Feueratems](Gegenstände/Trank-des-Feueratems.md)                                                                                                                        |

@@ -75,7 +75,7 @@ Sie setzt ihre erkenntnismagischen Fähigkeiten ein und kann den magischen Impul
 
 [[Alustriel_Silberhand-veor|Alustriel]] ist entschlossen, [[Vecna_der_Erzlich-veor|Vecna]] aufzuhalten, aber sie weiß nicht, wie genau der Lich-Gott die angesammelte Energie einsetzen will. Daher wendet sie sich an ihre mächtigsten Verbündeten. Der Erzmagier Mordenkainen und eine Version von [[Tasha_die_Hexe-veor|Tasha]] von Oerth erhören ihren Ruf. [[Alustriel_Silberhand-veor|Alustriel]] und [[Tasha_die_Hexe-veor|Tasha]] wissen allerdings nicht, dass sie es nicht mit Mordenkainen zu tun haben, sondern mit [[Kas_der_Verräter-veor|Kas dem Zerstörer]] in Maskerade. Die drei Magier ziehen sich in [[Alustriel_Silberhand-veor|Alustriels]] Heiligtum in Sigil zurück. Mit vereinten magischen Kräften weben die Erzmagier einen [[Wunsch-phb|Wunsch]]-Zauber - in der Hoffnung, [[Vecna_der_Erzlich-veor|Vecnas]] gesammelte Energie und damit das Ritual sabotieren zu können.
 
-Doch der [[Wunsch-phb|Wunsch]]-Zauber hat nicht die erhoffte Wirkung, sondern schleudert die Charaktere in [[Alustriel_Silberhand-veor|Alustriel Silberhands]] Heiligtum in Sigil, wie im Abschnitt „Überraschende Entwicklung" weiter hinten in diesem Kapitel erläutert. Die Zeit drängt, und die Erzmagier sind geschwächt. Da schlägt Mordenkainen einen verzweifelten Notfallplan vor: Die Charaktere könnten [[Vecna_der_Erzlich-veor|Vecna]] mit dem legendären [[Stab_der_Sieben_Teile-veor|Stab der Siebel Teile]] stoppen. Die sieben Teile des Stabs sind im ganzen Multiversum verstreut, doch Mordenkainen weiß immerhin, wo sich das erste befindet.
+Doch der [[Wunsch-phb|Wunsch]]-Zauber hat nicht die erhoffte Wirkung, sondern schleudert die Charaktere in [[Alustriel_Silberhand-veor|Alustriel Silberhands]] Heiligtum in Sigil, wie im Abschnitt „Überraschende Entwicklung" weiter hinten in diesem Kapitel erläutert. Die Zeit drängt, und die Erzmagier sind geschwächt. Da schlägt Mordenkainen einen verzweifelten Notfallplan vor: Die Charaktere könnten [[Vecna_der_Erzlich-veor|Vecna]] mit dem legendären [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] stoppen. Die sieben Teile des Stabs sind im ganzen Multiversum verstreut, doch Mordenkainen weiß immerhin, wo sich das erste befindet.
 
 ## Das Heiligtum in Sigil
 
@@ -89,7 +89,7 @@ Planare Magie funktioniert in Sigil anders. Zum Beispiel kann man Sigil nur durc
 
 ![Lady Alustriel Silberhand](Vecna-Vorabend_der_Verdammnis/img/027-02-001-lady-alustriel-silverhand.webp#center)
 
-- **Beschwörung.** Zauber, magische Gegenstände und Effekte, die Kreaturen oder Gegenstände von anderen Ebenen beschwören, beispielsweise ein [[Ring_der_Djinni-Beschwörung-dmg|Ring der Dschinni-Beschwörung]], beschwören stattdessen Ziele aus Sigil, sofern möglich. Anderenfalls scheitern sie. Effekte, die ein bestimmtes Ziel von außerhalb von Sigil beschwören, etwa die Zauber [[Drawmijs_Sofortige_Herbeizauberung-phb|Drawmijs sofortige Herbei]] und [[Leomunds geheime Truhe]], scheitern automatisch . 
+- **Beschwörung.** Zauber, magische Gegenstände und Effekte, die Kreaturen oder Gegenstände von anderen Ebenen beschwören, beispielsweise ein [[Ring_der_Djinni-Beschwörung-dmg|Ring der Dschinni-Beschwörung]], beschwören stattdessen Ziele aus Sigil, sofern möglich. Anderenfalls scheitern sie. Effekte, die ein bestimmtes Ziel von außerhalb von Sigil beschwören, etwa die Zauber [[Drawmijs_Sofortige_Herbeizauberung-phb|Drawmijs sofortige Herbei]] und [[Leomunds_geheime_Truhe-phb|Leomunds geheime Truhe]], scheitern automatisch . 
 - **Ebenenreisen.** Effekte, die Ebenenreisen ermöglichen, wie die Zauber [[Astrale_Projektion-phb|Astrale Projektion]] und [[Ebenenwechsel-phb|Ebenenwechsel]], scheitern, wenn sie eingesetzt werden, um Sigil zu erreichen oder zu verlassen. Es gibt nur eine Ausnahme (siehe „Kreise der Teleportation" unten).
 - **Extradimensionaler Raum.** Extradimensionale Räume, Halbebenen und Taschendimensionen wie die durch einen [[Nimmervoller_Beutel-dmg|Nimmervollen Beutel]] oder den Zauber [[Seiltrick-phb|Seiltrick]] funktionieren in Sigil, doch die Räume unterliegen diesen Einschränkungen, als wären sie Teil der Stadt. 
 - **Kreise der Teleportation.** Es gibt in Sigil dauerhafte Kreise der Teleportation, doch es können keine neuen geschaffen werden. Wenn die Fürstin der Schmerzen es gestattet, können die vorhandenen Kreise verwendet werden, um mit dem Zauber [[Ebenenwechsel-phb|Ebenenwechsel]] in die Stadt zu gelangen, aber nicht, um die Stadt zu verlassen.
@@ -184,9 +184,9 @@ Wenn die Charaktere ins Heiligtum geraten, bietet Alustriel ihnen an, den Salon 
 
 Diese kleinen, aber komfortablen Schlafräume werden von Alustriel und ihren Gästen als Privatgemächer genutzt, um zu schlafen oder sich zurückzuziehen.
 
-Bereich H5 ist der Schlafraum von Alustriel und ihrer Gattin Malaina van Talstiv. Die ehemalige Abenteurerin Malaina ist eine neutral gute Menschenfrau mit den Spielwerten einer [[Assassine-mm|Assassine]]. Sie trifft sich gerade mit Verbündeten, um eine Intrige gegen Tiefwasser zu vereiteln, als die Charaktere eintreffen. Wenn die Charaktere anschließend zurückkehren, spricht Malaina mit ihnen (siehe Abschnitt „Nächste Schritte" am Ende dieses Kapitels).
+Bereich H5 ist der Schlafraum von [[Alustriel_Silberhand-veor|Alustriel]] und ihrer Gattin [[Malaina_van_Talstiv-veor|Malaina van Talstiv]]. Die ehemalige Abenteurerin [[Malaina_van_Talstiv-veor|Malaina]] ist eine neutral gute Menschenfrau mit den Spielwerten einer [[Humanoid/Assassine-mm|Assassine]]. Sie trifft sich gerade mit Verbündeten, um eine Intrige gegen Tiefwasser zu vereiteln, als die Charaktere eintreffen. Wenn die Charaktere anschließend zurückkehren, spricht Malaina mit ihnen (siehe Abschnitt „Nächste Schritte" am Ende dieses Kapitels).
 
-Bereich H6 ist Tashas Raum. Bereich H7 ist ein freier Raum, den Alustriel den Charakteren zur Verfügung stellt. Bereich H8 ist Mordenkainens Schlafraum und enthält Hinweise auf seine List (siehe Abschnitt „Hinweise auf Täuschung" weiter hinten in diesem Kapitel).
+Bereich H6 ist [[Tasha_die_Hexe-veor|Tashas]] Raum. Bereich H7 ist ein freier Raum, den [[Alustriel_Silberhand-veor|Alustriel]] den Charakteren zur Verfügung stellt. Bereich H8 ist Mordenkainens Schlafraum und enthält Hinweise auf seine List (siehe Abschnitt „Hinweise auf Täuschung" weiter hinten in diesem Kapitel).
 
 ## Die drei Magier
 
@@ -214,7 +214,7 @@ Der Vampir-Kriegsherr [[Kas_der_Verräter-veor|Kas]] gibt sich als Mordenkainen 
 
 Als die Dunklen Mächte Kas freigaben, suchte dieser eine Zelle von Vecnas Kultisten auf und brachte dort mehr über das geplante Ritual des Lich-Gottes in Erfahrung. Der Vampir benutzte die [[Krone_der_Lügen-veor|Krone der Lügen]], um eine Botschaft von Alustriel an Mordenkainen abzufangen und um sich dann als dieser zu tarnen. Er suchte Alustriel auf, und sie vertraute ihm.
 
-Getarnt als Mordenkainen sabotiert Kas den [[Wunsch]]-Zauber der Erzmagier. Als Folge schleudert der Zauber die Charaktere in Alustriels Heiligtum. Kas ahnt, dass die Charaktere irgendwie mit Vecna verbunden sind, und drängt sie, die Teile des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] zu beschaffen. Als Mordenkainen behauptet er, der Stab wäre die einzige Möglichkeit, Vecna so zu schwächen, dass die Charaktere sein Ritual vereiteln und den Lich-Gott nach Oerth verbannen können.
+Getarnt als Mordenkainen sabotiert Kas den [[Wunsch-phb|Wunsch]]-Zauber der Erzmagier. Als Folge schleudert der Zauber die Charaktere in Alustriels Heiligtum. Kas ahnt, dass die Charaktere irgendwie mit Vecna verbunden sind, und drängt sie, die Teile des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] zu beschaffen. Als Mordenkainen behauptet er, der Stab wäre die einzige Möglichkeit, Vecna so zu schwächen, dass die Charaktere sein Ritual vereiteln und den Lich-Gott nach Oerth verbannen können.
 
 Tatsächlich will Kas den [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] stehlen, sobald dieser vollständig ist. Er plant, das Pandämonium aufzusuchen, dort mit dem Artefakt den Dämon Miska Wolfsspinne zu befreien und dann Vecna zu töten. Der Vampir weiß noch nicht, dass sich auch der Schauplatz von Vecnas Ritual im Pandämonium befindet, wo Miska gefangen ist, wird es jedoch später in diesem Abenteuer erfahren.
 
@@ -230,7 +230,7 @@ Ein Charakter, der Mordenkainens Gemach durchsucht und einen `SG-30-Intelligenzw
 
 Bei einer gründlichen Durchsuchung von Mordenkainens Quartier kommt ein schwarzer Nimmervoller Beutel zum Vorschein, der unter der Matratze versteckt lag. Im Beutel befindet sich eine schlichte Silberkette mit einem schwertförmigen Anhänger, in den schwarze Diamanten gefasst sind. Das Schmuckstück ist insgesamt 5.000 GM wert. Ebenfalls im Beutel enthalten ist ein auf magische Art erhaltenes Tagebuch mit Ledereinband.
 
-Der Inhalt des Tagebuchs ist verschlüsselt. Ein Charakter, der mindestens eine Stunde lang den Text untersucht, kann einen `SG-30-Intelligenzwurf` ([[Nachforschungen]]) ausführen. Bei einem Erfolg kann er den Text entschlüsseln. Das Tagebuch erzählt die Geschichte zweier Personen namens „K." und „V.", die einst gemeinsam mörderische Kampfpläne geschmiedet hatten, sich dann jedoch in Bitterkeit trennten und Feinde wurden. Ein erfolgreicher `SG-20-Intelligenzwurf` ([[Fertigkeiten-phb#Geschichte|Geschichte]]) enthüllt, dass es sich um die Geschichte von Kas und Vecna handelt.
+Der Inhalt des Tagebuchs ist verschlüsselt. Ein Charakter, der mindestens eine Stunde lang den Text untersucht, kann einen `SG-30-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) ausführen. Bei einem Erfolg kann er den Text entschlüsseln. Das Tagebuch erzählt die Geschichte zweier Personen namens „K." und „V.", die einst gemeinsam mörderische Kampfpläne geschmiedet hatten, sich dann jedoch in Bitterkeit trennten und Feinde wurden. Ein erfolgreicher `SG-20-Intelligenzwurf` ([[Fertigkeiten-phb#Geschichte|Geschichte]]) enthüllt, dass es sich um die Geschichte von Kas und Vecna handelt.
 
 ##### Mordenkainens Geheimnis
 
@@ -315,13 +315,13 @@ Ehe die Charaktere nach Netzrand aufbrechen, versorgt Alustriel sie mit allen In
 
 #### Eine gewichtige Lüge
 
-Kas in Gestalt von Mordenkainen hat die Charaktere belogen, was den [[Stab_der_Sieben_Teile-veor]] betrifft. Dieser ist zwar nützlich gegen Vecna, doch Kas will ihn für sich haben, damit er Miska befreien kann. 
+Kas in Gestalt von Mordenkainen hat die Charaktere belogen, was den [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] betrifft. Dieser ist zwar nützlich gegen Vecna, doch Kas will ihn für sich haben, damit er Miska befreien kann. 
 
 Kas weiß nicht, dass Vecna durch die Vorbereitung des Rituals der Umformung so geschwächt ist, dass er nicht mehr den Status eines Gottes hat. Die Charaktere werden dies erfahren, wenn sie Vecna in Kapitel 11 stellen. 
 
 ### Vecna zurückschicken
 
-Die [[Glocke_des_Exils-veor]] gehört Alustriel und kann Vecna schließlich nach Oerth zurückschicken, wodurch sein Ritual unterbrochen wird. Diese Unterbrechung würde die Geheimnismagie auflösen, die Vecna sammelt, seinem Plan einen großen Rückschlag versetzen und den Lich-Gott in einen geschwächten Zustand versetzen. Wenn die Charaktere die Glocke mitnehmen wollen, ist Alustriel einverstanden. 
+Die [[Glocke_des_Exils-veor|Glocke des Exils]] gehört Alustriel und kann Vecna schließlich nach Oerth zurückschicken, wodurch sein Ritual unterbrochen wird. Diese Unterbrechung würde die Geheimnismagie auflösen, die Vecna sammelt, seinem Plan einen großen Rückschlag versetzen und den Lich-Gott in einen geschwächten Zustand versetzen. Wenn die Charaktere die Glocke mitnehmen wollen, ist Alustriel einverstanden. 
 
 #### Glocke des Exils
 
@@ -383,7 +383,7 @@ The walls in Web's Edge are rocky, jagged, and uneven. Decades ago, Lolth's fait
 
 ### Infiltrating Web's Edge
 
-![Heroes who stumble into We...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/036-02-009-webs-edge.webp#center "Heroes who stumble into Web's Edge unaware of its dangers usually meet a gruesome end")
+![Heroes who stumble into We...](Vecna-Vorabend_der_Verdammnis/img/036-02-009-webs-edge.webp#center "Heroes who stumble into Web's Edge unaware of its dangers usually meet a gruesome end")
 
 Web's Edge is a dangerous place. If the characters burst into the complex without a plan, they're unlikely to survive the experience, let alone retrieve the first piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). See the advice below for handling strategies the characters might adopt.
 
@@ -406,8 +406,8 @@ Devotees in Web's Edge who identify the characters as impostors scream for help 
 The following locations are keyed to map 2.2.
 
 > [!gallery]
-> ![Map 2.2: Web's Edge](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/037-2-02-webs-edge.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/038-2-02-webs-edge-player.webp#gallery)
+> ![Map 2.2: Web's Edge](Vecna-Vorabend_der_Verdammnis/img/037-2-02-webs-edge.webp#gallery)
+> ![Player Version](Vecna-Vorabend_der_Verdammnis/img/038-2-02-webs-edge-player.webp#gallery)
 
 #### W1: False Front
 
@@ -442,8 +442,8 @@ Both Makubli and Torkner operate along the well-traveled route between Menzoberr
 The cultists who maintain Web's Edge are friendly with both agents, making Makubli and Torkner good candidates for the characters to impersonate. If either agent suspects that the characters aren't fellow Lolth operatives, they attack.
 
 > [!gallery]
-> ![Makubli Khee](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/039-02-015-makubli-khee.webp#gallery)
-> ![Torkner Ironteeth](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/040-02-016-torkner-ironteeth.webp#gallery)
+> ![Makubli Khee](Vecna-Vorabend_der_Verdammnis/img/039-02-015-makubli-khee.webp#gallery)
+> ![Torkner Ironteeth](Vecna-Vorabend_der_Verdammnis/img/040-02-016-torkner-ironteeth.webp#gallery)
 
 #### W3: Summoning Chamber
 
@@ -458,7 +458,7 @@ Cultists and agents gather here to commune with Lolth's Abyssal servants and occ
 
 Grottenelle is in the middle of a summoning ritual. Have Grottenelle and the characters roll initiative. If the characters attack or otherwise interrupt Grottenelle before the start of her first turn, the summoning fails. Otherwise, a [glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu.md) appears in the center of the pentagram at the start of Grottenelle's turn. Grottenelle attacks intruders and commands the glabrezu to do the same if the summoning is successful.
 
-![High Summoner Grottenelle ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/041-02-010-glabrezu.webp#center "High Summoner Grottenelle Stonecutter calls on a glabrezu to help with an evil mission the Lolth cultists are planning")
+![High Summoner Grottenelle ...](Vecna-Vorabend_der_Verdammnis/img/041-02-010-glabrezu.webp#center "High Summoner Grottenelle Stonecutter calls on a glabrezu to help with an evil mission the Lolth cultists are planning")
 
 Grottenelle needs the glabrezu to assist in the operation being planned in area W7. At your discretion, the noise from a battle might alert the agents in that area, prompting them to investigate.
 
@@ -566,14 +566,14 @@ Whether the characters are masquerading as Lolth worshipers or not, Sril begs to
 
 #### W7: Meeting Room
 
-![The Lolth cultists are pla...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/042-02-011-lolth-cultist.webp#center "The Lolth cultists are planning an assault on a nearby svirfneblin mining operation")
+![The Lolth cultists are pla...](Vecna-Vorabend_der_Verdammnis/img/042-02-011-lolth-cultist.webp#center "The Lolth cultists are planning an assault on a nearby svirfneblin mining operation")
 
 > [!readaloud] 
 > 
 > Relief carvings of spiders in webs decorate this chamber's walls, which are papered over with tactical maps and schematics. Gathered around a paperwork-covered table in the room's center are several cloaked figures as well as a horned, winged devil with a whip on her belt.
 ^124
 
-![Jolera Hartoph](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/043-02-014-jolera.webp#center)
+![Jolera Hartoph](Vecna-Vorabend_der_Verdammnis/img/043-02-014-jolera.webp#center)
 
 Seven Lolth devotees are meeting in this room to plan an assault on a svirfneblin mining operation located about 20 miles from Web's Edge. The devotees have coordinated with two Lolth operatives embedded in the mining operation. The devotees plan to kidnap the most powerful miners and feed them to Ker-arach in area W12. They'll kill any remaining miners who don't worship Lolth.
 
@@ -645,7 +645,7 @@ The bones are remnants of meals eaten by Ker-arach, the spiderdragon in area W12
 
 This cavern's ceilings are 50 feet tall. The cavern is the lair of Ker-arach, the [spiderdragon](/3-Mechanics/CLI/bestiary/monstrosity/spiderdragon-veor.md) (see appendix A). Ker-arach crawled into this cavern through a temporary rift to the Abyss that opened during a ritual conducted here about half a year ago. Ker-arach brought with her a piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), which she uses to answer questions posed directly to the Spider Queen. Ker-arach is essentially a tourist attraction for the few Lolth devotees who know she exists. The cultists consider her a sign of Lolth's favor, even though she eats hundreds of pounds of meat every few days and doesn't otherwise contribute to the complex.
 
-![A piece of the Rod of Seven Parts](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/044-02-012-first-rod-of-seven-parts-piece.webp#center)
+![A piece of the Rod of Seven Parts](Vecna-Vorabend_der_Verdammnis/img/044-02-012-first-rod-of-seven-parts-piece.webp#center)
 
 Standing near Ker-arach is a [yochlol](/3-Mechanics/CLI/bestiary/fiend/yochlol.md) named Ylellith, which the cultists recently summoned to help with a mission. When the creatures see the characters and realize the characters are enemies, they attack and fight to the death.
 
@@ -661,7 +661,7 @@ The [first piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod
 
 ## Next Steps
 
-![The spiderdragon Ker-arach...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/045-02-013-ker-arach.webp#center "The spiderdragon Ker-arach and the yochlol Ylellith use a piece of the Rod of Seven Parts to communicate directly with the demon-god Lolth")
+![The spiderdragon Ker-arach...](Vecna-Vorabend_der_Verdammnis/img/045-02-013-ker-arach.webp#center "The spiderdragon Ker-arach and the yochlol Ylellith use a piece of the Rod of Seven Parts to communicate directly with the demon-god Lolth")
 
 Once the characters have acquired the first piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), they can return to Sigil through the portal that remains open outside Web's Edge. At this point, the characters will likely want to rest, confer with their allies in Sigil, and see where this first rod piece points them to go next.
 

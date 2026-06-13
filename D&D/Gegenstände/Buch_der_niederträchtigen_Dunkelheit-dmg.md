@@ -11,62 +11,69 @@ aliases:
   - Buch der niederträchtigen Dunkelheit
 ---
 # Buch der niederträchtigen Dunkelheit
-*Wondrous item, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/book-of-vile-darkness.webp#right)
+*Wundersamer Gegenstand, Artefakt (benötigt Einstimmung)*  
+![](img/book-of-vile-darkness.webp#right)
 
-- **Weight**: 5.0 lbs.
+- **Gewicht**: 2,5 kg
 
-The contents of this foul manuscript of ineffable wickedness are the meat and drink of those in evil's thrall. No mortal was meant to know the secrets it contains, knowledge so horrid that to even glimpse the scrawled pages invites madness.
+Der Inhalt dieses widerwärtigen Manuskripts von unaussprechlicher Bosheit ist der Nährboden für die Knechte des Bösen. Kein Sterblicher sollte je die Geheimnisse erfahren, die es enthält, so schreckliches Wissen, dass bereits ein Blick in die beschmierten Seiten Wahnsinn hervorrufen kann. 
 
-Most believe the lich-god Vecna authored the Book of Vile Darkness. He recorded in its pages every diseased idea, every unhinged thought, and every example of blackest magic he came across or devised. Vecna covered every vile topic he could, making the book a gruesome catalog of all mortal wrongs.
+Die meisten glauben, dass der Lich-Gott Vecna Autor des *Buchs der niederträchtigen Dunkelheit* ist. Er hat in seinen Seiten jede kranke Idee, jeden verstörten Gedanken und jedes Beispiel schwärzester Magie, die ihm begegnet ist oder die er selbst erschuf, festgehalten. Vecna hat jedes abscheuliche Thema angesprochen, das er konnte und somit ein Buch erschaffen, das einen grausamen Katalog aller moralischen Falschheiten darstellt. 
 
-Other practitioners of evil have held the book and added their own input to its catalog of vile knowledge. Their additions are clear, for the writers of later works stitched whatever they were writing into the tome or, in some cases, made notations and additions to existing text. There are places where pages are missing, torn. or covered so completely with ink, blood, and scratches that the original text can't be divined.
+Andere Praktizierende des Bösen hatten das Buch in Besitz und haben ihre Kenntnisse in den Katalog des abscheulichen Wissens einfließen lassen. Ihre Einfügungen sind deutlich erkennbar, da die Verfasser späterer Arbeiten ihre Schriften in das Handbuch eingenäht oder, in manchen Fällen, Zusätze und Anmerkungen zu bereits existenten Texten verfasst haben. An manchen Stellen fehlen Seiten, Seiten sind zerrissen oder so komplett mit Tinte oder Blut bedeckt, dass man den Originaltext nicht mehr erahnen kann. 
 
-Nature can't abide the book's presence. Ordinary plants wither in its presence, animals are unwilling to approach it, and the book gradually destroys whatever it touches. Even stone cracks and turns to powder if the book rests on it long enough.
+Die Natur kann die Präsenz des Buchs nicht ertragen. Gewöhnliche Pflanzen verwelken in seiner Anwesenheit, Tiere wagen es nicht, sich ihm zu nähern, und alles, was das Buch berührt, wird allmählich zerstört. Selbst Stein bricht und wird zu Pulver, wenn das Buch lange genug auf ihm ruht. 
 
-A creature attuned to the book must spend 80 hours reading and studying it to digest its contents and reap its benefits. The creature can then freely modify the book's contents, provided that those modifications advance evil and expand the lore already contained within.
+Eine Kreatur, die auf das Buch eingestimmt ist, muss 80 Stunden damit verbringen, es zu lesen und zu studieren, um seine Inhalte aufzunehmen und von seinen Vorteilen zu profitieren. Die Kreatur kann dann die Inhalte des Buchs frei verändern, vorausgesetzt, dass diese Änderungen das Böse voranbringen und die bereits enthaltenen Überlieferungen ergänzen. 
 
-Whenever a non-evil creature attunes to the Book of Vile Darkness, that creature must make a DC 17 Charisma saving throw. On a failed save, the creature's alignment changes to neutral evil.
+Jedes Mal. wenn eine nicht-böse Kreatur sich auf das *Buch der niederträchtigen Dunkelheit* einstimmt, muss diese Kreatur einen Konstitutionswurf gegen `SG 17` schaffen. Bei einem Fehlschlag wird die Gesinnung der Kreatur zu neutral böse. 
 
-The Book of Vile Darkness remains with you only as long as you strive to work evil in the world. If you fail to perform at least one evil act within the span of 10 days, or if you willingly perform a good act, the book disappears. If you die while attuned to the book, an entity of great evil claims your soul. You can't be restored to life by any means while your soul remains imprisoned.
+Das *Buch der niederträchtigen Dunkelheit* bleibt nur solange bei dir, wie du danach strebst, Böses in der Welt zu verrichten. Wenn du es nicht schaffst, in einem Zeitraum von 10 Tagen mindestens eine böse Handlung zu vollziehen oder wenn du willentlich eine gute Handlung vollziehst, verschwindet das Buch. Wenn du stirbst, während du auf das Buch eingestimmt bist, wird eine Wesenheit großer Bosheit deine Seele beanspruchen. Du kannst auf keine Weise zum Leben zurückgeholt werden, während deine Seele gefangen ist. 
 
-## Random Properties
+## Zufällige Eigenschaften
 
-The Book of Vile Darkness has the following random properties:
+Das *Buch der niederträchtigen Dunkelheit* hat die zufällig ausgewählten Eigenschaften: 
 
-- 3 [minor beneficial properties](/3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](/3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
-- 3 [minor detrimental properties](/3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)  
-- 2 [major detrimental properties](/3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)  
+- 3 [kleinere vorteilhafte Eigenschaften](Artefakt-Eigenschaften-Kleinere_vorteilhafte_Eigenschaften-dmg.md)  
+- 1 [größere vorteilhafte Eigenschaft](Artefakt-Eigenschaften-Grössere_vorteilhafte_Eigenschaften-dmg.md)  
+- 3 [kleinere nachteilige Eigenschaften](Artefakt-Eigenschaften-Kleinere_nachteilige_Eigenschaften-dmg.md)  
+- 2 [größere nachteilige Eigenschaften](Artefakt-Eigenschaften-Grössere_nachteilige_Eigenschaften-dmg.md)  
 
-## Adjusted Ability Scores
+## Angepasste Attributswerte
 
-After you spend the requisite amount of time reading and studying the book, one ability score of your choice increases by 2, to a maximum of 24. Another ability score of your choice decreases by 2, to a minimum of 3. The book can't adjust your ability scores again.
+Nachdem du die erforderliche Zeit damit verbracht hast das Buch zu lesen und zu studieren, wird ein Attributswert deiner Wahl um 2 erhöht, bis zu einem Maximum von 24. Ein anderer Attributswert deiner Wahl sinkt um 2, bis zu einem Minimum von 3. Das Buch kann die Attributswerte nicht erneut verändern. 
 
-## Mark of Darkness
+## Zeichen der Dunkelheit
 
-After you spend the requisite amount of time reading and studying the book, you acquire a physical disfigurement as a hideous sign of your devotion to vile darkness. An evil rune might appear on your face, your eyes might become glossy black, or horns might sprout from your forehead. Or you might become wizened and hideous, lose all facial features, gain a forked tongue, or some other feature the DM chooses. The mark of darkness grants you advantage on Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) checks made to interact with evil creatures and Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) checks made to interact with non-evil creatures.
+Nachdem du die erforderliche Zeit damit verbracht hast, das Buch zu lesen und zu studieren, erhältst du eine physische Entstellung als ein scheußliches Zeichen deiner Hingabe zur niederträchtigen Dunkelheit. Eine böse Rune könnte in deinem Gesicht erscheinen oder Hörner könnten aus deiner Stirn wachsen. Vielleicht wirst du auch schrumpelig und abstoßend, verlierst alle Gesichtszüge, erhältst eine gespaltene Zunge oder ein anderes Merkmal nach Wahl des SLs. Mit dem Zeichen der Dunkelheit hast du bei Würfen auf Charisma ([[Fertigkeiten-phb#Überzeugen|Überzeugen]]), die du ablegst, um mit bösen Kreaturen zu interagieren, und auf Charisma ([[Fertigkeiten-phb#Einschüchtern|Einschüchtern]]), die du ablegst, um mit guten Kreaturen zu interagieren, einen Vorteil. 
 
-## Command Evil
+## Böses beherrschen
 
-While you are attuned to the book and holding it, you can use an action to cast the [dominate monster](/3-Mechanics/CLI/spells/dominate-monster.md) spell on an evil target (save DC 18). You can't use this property again until the next dawn.
+Während du auf das Buch eingestimmt bist und es hältst, kannst du eine Aktion verwenden, um damit den Zauber [[Monster_beherrschen-phb|Monster beherrschen]] auf ein böses Ziel zu wirken (Rettungswurf SG 18). Du kannst diese Eigenschaft bis zur nächsten Morgendämmerung nicht erneut verwenden. 
 
-## Dark Lore
+## Dunkle Überlieferung
 
-You can reference the Book of Vile Darkness whenever you make an Intelligence check to recall information about some aspect of evil, such as lore about demons. When you do so, double your proficiency bonus on that check.
+Du kannst das *Buch der niederträchtigen Dunkelheit* zu Rate ziehen, wenn du einen Wurf auf Intelligenz ablegst, um dir Informationen über einen Aspekt des Bösen, wie z.B. Überlieferungen über Dämonen, ins Gedächtnis zu rufen. Wenn du das tust, verdoppelt sich dein Übungsbonus auf diesen Wurf. 
 
-## Dark Speech
+## Dunkle Sprache
 
-While you carry the Book of Vile Darkness and are attuned to it, you can use an action to recite words from its pages in a foul language known as Dark Speech. Each time you do so, you take `1d12` psychic damage, and each non-evil creature within 15 feet of you takes `3d6` psychic damage.
+Während du das *Buch der niederträchtigen Dunkelheit* bei dir trägst und darauf eingestimmt bist, kannst du eine Aktion verwenden, um Worte aus seinen Seiten zu zitieren, die in einer verdorbenen Sprache verfasst sind, die als Dunkle Sprache bekannt ist. Jedes Mal, wenn du das tust, erhältst du `1W12` psychischen Schaden und jede nicht-böse Kreatur innerhalb von 4,50 Meter zu dir erleidet `3W6` psychischen Schaden. 
 
-## Destroying the Book
+## Das Buch zerstören
 
-The Book of Vile Darkness allows pages to be torn from it, but any evil lore contained on those pages finds its way back into the book eventually, usually when a new author adds pages to the tome.
+Das Buch der niederträchtigen Dunkelheit erlaubt, dass man ihm Seiten ausreißt, aber jede böse Überlieferung, die auf diesen Seiten vermerkt war, wird irgendwann ihren Weg zurück in das Buch finden, normalerweise dann, wenn ein neuer Autor dem Handbuch neue Seiten hinzufügt. 
 
-If a [solar](/3-Mechanics/CLI/bestiary/celestial/solar.md) tears the book in two, the book is destroyed for `1d100` years, after which it reforms in some dark corner of the multiverse.
+Wenn ein [[Solar-mm|Solar]] das Buch in zwei Hälften reißt, ist das Buch für `1W100` Jahre zerstört, wonach es sich an einem dunklen Ort im Multiversum wieder neu formt. 
 
-A creature attuned to the book for one hundred years can unearth a phrase hidden in the original text that, when translated to Celestial and spoken aloud, destroys both the speaker and the book in a blinding flash of radiance. However, as long as evil exists in the multiverse, the book reforms `1d10 × 100` years later.
+Eine Kreatur, die für einhundert Jahre auf das Buch eingestimmt ist, kann im Originaltext einen Satz entdecken, der den Sprecher und das Buch in einem blendenden Blitz zerstört wenn er in Celestisch übersetzt und laut ausgesprochen wird. Solange jedoch Böses im Multiversum existiert, wird sich das Buch `1W10 x 100` Jahre später wieder bilden. 
 
-If all evil in the multiverse is wiped out, the book turns to dust and is forever destroyed.
+Wenn alles Böse im Multiversum ausgelöscht wird, wird das Buch zu Staub und ist für immer zerstört. 
+
+> [!Niederträchtige Überlieferungen]
+> Das *Buch der niederträchtigen Dunkelheit* zieht sämtliche Übel im Kosmos an. Ein Charakter kann die Überlieferungen, die im Buch enthalten sind, benutzen, um schreckliche Geheimnisse zu entdecken, die kein Sterblicher wissen sollte. Unter diesen Inhalten kann ein Charakter folgendes finden, plus alles andere nach deiner Wahl: 
+> 
+> **Niederträchtige Apotheose.** Das Buch könnte ein Ritual beinhalten, das einem Charakter erlaubt, zu einem Lich oder zu einem Todesritter zu werden. <br>
+> **Wahre Namen.** Die wahren Namen jeder beliebigen Menge von Unholden könnten in dem Buch stehen. <br>
+> **Dunkle Magie.** Mehrere schrecklich böse Zauber nach der Kreation und der Wahl des SL könnten in dem Buch enthalten sein. Zauber können furchtbare Flüche verhängen, andere entstellen, Menschenopfer benötigen, Kreaturen mit lähmenden Schmerzen belegen, schädliche Plagen verbreiten und so weiter. 
 
 *Source: Dungeon Master's Guide p. 222*

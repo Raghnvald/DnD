@@ -28,71 +28,55 @@ Tasha schlug den Pfad zu wahrer Größe ein, als sie von der Erzvettel Baba Yaga
 
 Als Zybilna von Alustriel Silberhand gerufen wurde, um gegen Vecna zu kämpfen, wurde die Erzfee jedoch dringend in Prismeer gebraucht. Als Kompromiss und zu Ehren von Tashas Freundschaft mit Alustriel schickte Zybilna eine vergangene Version von sich zu Alustriel. Die Tasha im Abenteuer ist eine mächtige Magierin, doch noch keine Hexenkönigin und auch keine Erzfee. 
 
-```statblock
-name: Tasha die Hexe
-image: token/tasha-the-witch-veor.webp
-source:
-  - VEoR
-size: Mittelgroß
-type: Humanoid
-subtype: Mensch, Magierin
-alignment: Chaotisch Neutral
-ac: 19
-ac_class: robe of the archmagi
-hp: 210
-hit_dice: 28d8 + 84
-modifier: 4
-stats:
-  - 10
-  - 18
-  - 17
-  - 23
-  - 12
-  - 22
-speed: 9 m
-saves:
-  - Intelligenz: 12
-  - Weisheit: 7
-  - Charisma: 12
-skillsaves:
-  - name: Arcana
-    desc: "+18"
-  - name: History
-    desc: "+12"
-  - name: Persuasion
-    desc: "+12"
-condition_immunities: charmed, frightened
-senses: passive Perception 11
-languages: Abyssal, Celestial, Common, Draconic, Elvish, Infernal, Sylvan
-cr: "19"
-traits:
-  - desc: If Tasha fails a saving throw, she can choose to succeed instead.
-    name: Legendary Resistance (3/Day)
-  - desc: Tasha has advantage on saving throws against spells and other magical effects. (This trait is bestowed by her Robe of the Archmagi.)
-    name: Magic Resistance
-  - desc: Tasha wears a Robe of the Archmagi.
-    name: Special Equipment
-actions:
-  - desc: Tasha makes two Caustic Blast attacks and uses Psychic Whip once.
-    name: Multiattack
-  - desc: "*Melee  or Ranged Spell Attack:* +14 to hit, reach 5 ft. or range 120 ft., one target. *Hit:* 21 (6d4 + 6) acid damage."
-    name: Caustic Blast
-  - desc: Tasha psychically lashes out at one creature she can see within 90 feet of herself. The target must make a DC 20 Intelligence saving throw. On a failed save, the target takes 21 (6d6) psychic damage and has the stunned condition until the start of Tasha's next turn. On a successful save, the target takes half as much damage only.
-    name: Psychic Whip
-  - desc: |-
-      Tasha casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 22, +14 to hit with spell attacks):
-
-      **At will:** Detect Magic, Disguise Self, Dispel Magic, Light, Mage Hand, Message, Prestidigitation, Tasha's Hideous Laughter
-
-      **2/day:** Polymorph
-
-      **1/day each:** Maze, Telekinesis
-    name: Spellcasting
-bonus_actions:
-  - desc: For 1 minute, Tasha gains a flying speed of 30 feet, is immune to poison damage and the poisoned condition, and has advantage on attack rolls against any creature that doesn't have all its hit points. These benefits end early if Tasha has the incapacitated condition or if she uses another bonus action to dismiss them.
-    name: Abyssal Visage (2/Day)
-reactions:
-  - desc: Immediately after Tasha takes damage, she unleashes arcane energy in a 10-foot-radius sphere centered on herself. All other creatures in that area must make a DC 20 Dexterity saving throw, taking 19 (3d12) lightning damage on a failed save or half as much damage on a successful one. Tasha then teleports, along with any equipment she is wearing or carrying, to an unoccupied space she can see within 60 feet of herself.
-    name: Arcane Rebuff
-```
+> [!statblock] Tasha die Hexe
+> ![[tasha-the-witch-veor.webp|right|100]]
+> *Mittelgroßer Humanoid (Mensch, Magier), Chaotisch Neutral*
+> 
+> - **Rüstungsklasse** 19 ([[Robe_der_Erzmagi-dmg|Robe der Erzmagi]])
+> - **Trefferpunkte** 210 (`28d8 + 84`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 10 (+0)|18 (+4)|17 (+3)|23 (+6)|12 (+1)|22 (+6)|
+> 
+> - **Rettungswürfe** INT +12, WEI +7, CHA +12
+> - **Fertigkeiten** Arkane Kunde +18, Geschichte +12, Überzeugen +12
+> - **Sinne** passive Wahrnehmung 11
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** Bezaubert, Verängstigt <br><br>
+> - **Sprachen** Abyssisch, Celestisch, Drakonisch, Elfisch, Gemeinsprache, Infernalisch, Sylvanisch
+> - **Herausforderungsgrad** 19 (22.000 EP)
+> - **Übungsbonus** +6
+> 
+> ## Merkmale
+> 
+> ***Besondere Ausrüstung:*** Tasha trägt eine [[Robe_der_Erzmagi-dmg|Robe der Erzmagi]].
+> 
+> ***Legendäre Resistenz (3-mal täglich):*** Wenn ihr Rettungswurf scheitert, kann Tasha den Wurf in einen Erfolg verwandeln.
+>
+>***Magieresistenz:*** Tasha ist bei Rettungswürfen gegen Zauber und andere magische Effekte im Vorteil. (Dieses Merkmal stammt von ihrer [[Robe_der_Erzmagi-dmg|Robe der Erzmagi]].) 
+>
+> ## Aktionen
+> 
+>  ***Mehrfachangriff:*** Tasha führt zwei Ätzende-Explosion-Angriffe aus und setzt einmal Psychische Peitsche ein.
+> 
+> ***Ätzende Explosion:*** *Nah- oder Fernkampf-Zauberangriff:* +14 zum Treffen, Reichweite 1,5 m oder 36 m, ein Ziel. *Treffer:* 21 (`6d4 + 6`) Säureschaden.
+> 
+> ***Psychische Peitsche:*** Tasha schlägt psychisch auf eine Kreatur im Abstand von bis zu 27 Metern von sich ein, die sie sehen kann. Das Ziel muss einen `SG-20-lntelligenz-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet das Ziel 21 (`6d6`) psychischen Schaden und ist bis zum Beginn von Tashas nächstem Zug betäubt. Bei einem erfolgreichen Rettungswurf erleidet das Ziel nur halb so viel Schaden. 
+> 
+>  ***Zauberwirken:*** Tasha wirkt einen der folgenden Zauber und verwendet Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SG 22, +14 auf Treffer mit Zauberangriffen): 
+>
+> **Beliebig oft:** Botschaft, Licht, Magie bannen, Magie entdecken, Magierhand, Selbstverkleidung, Taschenspielerei, Tashas fürchterlicher Lachanfall  <br>
+> **jeweils 2/Tag:** Verwandlung <br>
+> **jeweils 1/Tag:** Irrgarten, Telekinese
+> 
+> ## Bonusaktionen
+> 
+> ***Abyssisches Antlitz (2-mal täglich):*** Tasha erhält eine Minute lang eine Flugbewegungsrate von neun Metern, ist gegen Giftschaden und den Zustand Vergiftet immun und bei Angriffswürfen gegen jede Kreatur, die nicht mehr alle Trefferpunkte hat, im Vorteil. Diese Vorzüge enden vorzeitig, wenn Tasha kampfunfähig ist oder eine weitere Bonusaktion verwendet, um sie zu beenden. 
+> 
+> ## Reaktionen
+> 
+> ***Arkane Abfuhr:*** Unmittelbar nachdem Tasha Schaden erlitten hat, entfesselt sie arkane Energie in einer Sphäre mit einem Radius von drei Metern um sich herum. Alle anderen Kreaturen in diesem Bereich müssen einen `SG-20-Geschicklichkeits-Rettungswurf` ausführen. Scheitert der Wurf, so erleiden sie 19 (`3d12`) Blitzschaden, anderenfalls die Hälfte. Dann teleportiert Tasha sich und alle Ausrüstung, die sie trägt oder bei sich hat, bis zu 18 Meter weit an eine freie Stelle, die sie sehen kann. 
 ^statblock

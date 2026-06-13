@@ -19,7 +19,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 19 GM
-- **Gewichz**: 12,0 kg.
+- **Gewicht**: 12,0 kg.
 
 Includes:
 

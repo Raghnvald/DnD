@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nothic
 Kategorie: Aberration
+Typ:
 Größe: Mittelgroß
 HG: 2
 Habitat:
@@ -11,12 +12,17 @@ image: token/Nothic.webp
 status: completed
 linter-yaml-title-alias: Nothic
 tags:
+  - Habitat/GRÖSSE
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Unterreich
   - Monster/HG/2
   - Monster/Typ/Aberration
   - Quelle/5e/mm
+  - Quelle/QUELLE
+  - Typ/TYP/SUBTYP
+  - Vorkommen/VORKOMMEN
 aliases:
+  - NAME
   - Nothic
 ---
 # Nothic
@@ -36,51 +42,43 @@ Nothics verfügen über eine seltsame magische Einsicht, die es ihnen erlaubt, W
 
 Nothics sind dafür berüchtigt, in arkane Akademien und andere Orte, die reich an magischem Wissen sind, einzudringen. Sie werden vom vagen Wissen angetrieben, dass es eine Methode gibt, ihren Zustand umzukehren. Dies ist kein klares, bewusstes Ziel, mehr ein zwanghaftes Zerren an ihrem Verstand. Einige Nothics sind schlau genug, um zu begreifen, dass dies nur ein Teil dieser seltsamen Lektion für ihre Narrheit ist, eine falsche Hoffnung, die sie dazu treibt, noch mehr arkane Geheimnisse zu suchen.
 
-```statblock
-name: Nothic
-image: Aberration/token/nothic.webp
-source:
-  - MM
-size: Mittelgroß
-type: Aberration
-alignment: neutral böse
-ac: 15
-ac_class: natürliche Rüstung
-hp: 45
-hit_dice: 6d8 + 18
-modifier: 3
-stats:
-  - 14
-  - 16
-  - 16
-  - 13
-  - 10
-  - 8
-speed: 9 m
-skillsaves:
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Arkane%20Kunde|Arkane Kunde<STATBLOCK-MARKDOWN-LINK>
-    desc: "+3"
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
-    desc: "+5"
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>
-    desc: "+4"
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
-    desc: "+2"
-senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Wahre%20Sicht|Wahre Sicht<STATBLOCK-MARKDOWN-LINK> 36 m, passive Wahrnehmung 12
-languages: Gemeinsprache der Unterreiche
-cr: "2"
-environment: Unterreich
-traits:
-  - name: Scharfe Sicht
-    desc: Der Nothic hat einen Vorteil bei Würfen auf Weisheit (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>) die mit Sicht zusammenhängen.
-actions:
-  - name: Mehrfachangriff
-    desc: Der Nothic führt zwei Klauenangriffe durch.
-  - name: Klaue
-    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 6 (1d6 + 3) Hiebschaden."
-  - name: Verfaulender Blick
-    desc: Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen Konstitutionsrettungswurf gegen SG 12 schaffen, sonst erleidet es 10 (3W6) nekrotischen Schaden.
-  - name: Seltsame Einsicht
-    desc: Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen vergleichenden Wurf auf Charisma (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Täuschung|Täuschung<STATBLOCK-MARKDOWN-LINK>) gegen Weisheit (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>) des Nothics ablegen. Wenn der Nothic gewinnt, erfährt er auf magische Weise eine Tatsache oder ein Geheimnis über die Kreatur. Das Ziel gewinnt automatisch, wenn es nicht <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Bezaubert|bezaubert<STATBLOCK-MARKDOWN-LINK> werden kann.
-```
+> [!statblock] Nothic
+> ![[token/nothic.webp|right|100]]
+> *Mittelgroße Aberration, Neutral Böse*
+> 
+> - **Rüstungsklasse** 15 (natürliche Rüstung)
+> - **Trefferpunkte** 45 (`6d8 + 18`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 14 (+-)|16 (+-)|16 (+-)|13 (+-)|10 (+-)|8 (+-)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** Arkane Kunde +3, Heimlichkeit +5, Motiv erkennen +4, Wahrnehmung +2
+> - **Sinne** [[Sinne-phb#Wahre Sicht|Wahre Sicht]] 36 Meter, passive Wahrnehmung 12
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** - <br><br>
+> - **Sprachen** Gemeinsprache der Unterreiche
+> - **Herausforderungsgrad** 2 (450 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Scharfe Sicht*** Der Nothic hat einen Vorteil bei Würfen auf Weisheit ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) die mit Sicht zusammenhängen.
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Der Nothic führt zwei Klauenangriffe durch.
+> 
+> ***Klaue.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 6 (`1d6 + 3`) Hiebschaden.
+> 
+> ***Verfaulender Blick.*** Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen `Konstitutions-Rettungswurf` gegen `SG 12` schaffen, sonst erleidet es 10 (`3d6`) nekrotischen Schaden.
+> 
+> ***Seltsame Einsicht.*** Der Nothic wählt eine Kreatur innerhalb von 9 m um sich aus, die er sehen kann. Das Ziel muss einen vergleichenden Wurf auf Charisma ([[Fertigkeiten-phb#Täuschung|Täuschung]]) gegen Weisheit ([[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) des Nothics ablegen. Wenn der Nothic gewinnt, erfährt er auf magische Weise eine Tatsache oder ein Geheimnis über die Kreatur. Das Ziel gewinnt automatisch, wenn es nicht [[Zustände-phb#Bezaubert|bezaubert]] werden kann.
 ^statblock
+
+## Vorkommen
+
+Unterreich
