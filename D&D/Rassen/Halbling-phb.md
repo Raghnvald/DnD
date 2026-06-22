@@ -7,7 +7,7 @@ tags:
 aliases:
   - Halfling
 ---
-# Halfling
+# Halbling
 *Source: Player's Handbook p. 26. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](/3-Mechanics/CLI/races/img/halfling.webp#right)
 

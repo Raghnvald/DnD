@@ -11,98 +11,83 @@ tags:
 aliases:
   - Githyanki Knight
 ---
-# [Githyanki Knight](3-Mechanics\CLI\bestiary\humanoid/githyanki-knight.md)
+# Githyanki-Ritter
 *Source: Monster Manual p. 160*  
 
-The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
+Die Githyanki plündern zahllose Welten von den Decks ihrer astralen Schiffe und von den Rücken roter Drachen aus. Federn, Perlen, Juwelen und Edelmetalle schmücken ihre Rüstungen und Waffen - die legendären Silberschwerter, mit denen sie durch ihre Feinde schneiden. Seit sie ihre Freiheit von den Gedankenschindern erlangt haben, sind die Githyanki skrupellose Eroberer unter der Herrschaft der grässlichen Lich-Königin Vlaakith geworden. 
 
-## Astral Raiders
+## Astrale Plünderer
 
-The githyanki despise all other races, undertaking devastating raids that take them from their strongholds in the Astral Plane to the far flung corners of the multiverse. War is the ultimate expression of githyanki culture, and their pitiless black eyes know no mercy. After a raid, they leave shattered survivors enough food and resources to weakly endure. Later, the githyanki return to their conquered foes, plundering them again and again.
+Die Githyanki verachten alle anderen Völker und führen vernichtende Überfälle durch, die sie von ihren Festungen in der Astralebene in die entferntesten Ecken des Multiversums bringen. Krieg ist der ultimative Ausdruck der Kultur der Githyanki, und ihre mitleidlosen schwarzen Augen kennen keine Gnade. Nach einem Überfall lassen sie den zerschmetterten Überlebenden genug Nahrung und Ressourcen, um schwach zu überleben. Später kehren die Githyanki zu ihren eroberten Feinden zurück, um sie wieder und wieder auszuplündern. 
 
-## Followers of Gith
+## Anhänger von Gith
 
-In their own language, githyanki means "followers of Gith." Under the guidance of Gith, the githyanki stratified into a militaristic society, with a strict caste system, dedicated to the ongoing fight against the victims and sworn enemies of their race. When their leader Gith perished, she was replaced by her undead adviser, Vlaakith. The lich-queen forbade worship of all beings except herself.
+In ihrer eigenen Sprache bedeutet Githyanki „Anhänger der Gith". Unter der Weisung Giths haben sich die Githyanki zu einer militaristischen Gesellschaft geordnet, mit einem strengen Kastensystem, das dem anhaltenden Kampf gegen die Opfer und Erzfeinde ihres Volkes verschrieben ist. 
 
-Of all their enemies, the githyanki most hate their former masters, the mind flayers. Their close kin, the githzerai, are second in their enmity. All other creatures are treated with simple contempt by the githyanki, whose xenophobic pride defines their view of inferior races.
+Als ihre Anführerin Gith starb, wurde sie von ihrer untoten Ratgeberin Vlaakith ersetzt. Die Lich-Königin verbot die Anbetung aller Wesen außer ihr selbst. 
+
+Von all ihren Feinden hassen die Githyanki ihre ehemaligen Meister, die Gedankenschinder, am meisten. Ihre engen Vettern, die Githzerai, sind ihre zweitgrößten Feinde. Alle anderen Wesen werden von den Githyanki mit schlichter Verachtung behandelt. Ihr fremdenfeindlicher Stolz definiert ihre Sichtweise auf die unterlegenen Völker. 
 
 ## Silver Swords
 
-In ancient times, gith knights created special weapons to combat their mind flayer masters.
+In uralten Zeiten erschufen die Gith-Ritter besondere Waffen, um ihre Gedankenschinder-Meister zu bekämpfen. Diese Silberschwerter kanalisieren die Macht des Willens dessen, der sie führt, und verursachen geistigen und körperlichen Schaden. Ein Githyanki kann kein Ritter werden, bis er die einzigartige Disziplin aufbringt, eine solche Klinge durch seinen Willen entstehen zu lassen. Ein Silberschwert entspricht einem Zweihandschwert, und hat in den Händen seines Erschaffers die Merkmale eines [[Waffe-3-dmg|Zweihandschwerts +3]]. 
 
-These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [greatsword](/3-Mechanics/CLI/items/greatsword.md), and takes on the properties of a [+3 greatsword](/3-Mechanics/CLI/items/3-weapon.md) in the hands of its creator.
+In den Augen der Githyanki ist jedes Silberschwert ein unbezahlbares Relikt und ein Kunstwerk. Githyanki-Ritter werden alle Nicht-Githyanki jagen und töten, die es wagen, ein Silberschwert bei sich zu tragen oder zu führen und es im Kampf zu nutzen, um es wieder für ihr Volk zu beanspruchen. 
 
-In the eyes of the githyanki, each silver sword is a priceless relic and a work of art. Githyanki knights will hunt down and destroy any non-githyanki that dares to carry or wield a silver sword, reclaiming it for their people.
+## Reiter von roten Drachen
+Im Aufstand gegen die Illithiden suchte Gith Verbündete. Ihre Ratgeberin Vlaakith wandte sich an [[nonhuman-tiamat|Tiamat]], die Göttin der bösen Drachen, und Gith reiste in die Neun Höllen, um sie zu treffen. Nur Tiamat weiß, was zwischen den beiden vor sich ging, doch kehrte Vlaakith mit Ephelomon, dem roten Drachenverbündeten der Drachenkönigin, auf die Astralebene zurück. Er verkündete, dass seine Art für immer als Verbündete der Githyanki dienen würde. Nicht alle roten Drachen ehren das Bündnis, das vor so langer Zeit geschlossen wurde, doch die meisten betrachten die Githyanki zumindest nicht als ihre Feinde. 
 
-## Red Dragon Riders
+### Außenposten in der Sterblichen Welt
 
-In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to [Tiamat](/3-Mechanics/CLI/deities/dawn-war-tiamat-dmg.md), the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen's red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don't consider the githyanki their enemies.
-
-### Outposts in the Mortal Realm
-
-Since creatures that dwell on the Astral Plane don't age, the githyanki establish creches in remote areas of the Material Plane to raise their young. Doubling as military academies, these creches train young githyanki to harness their psychic and combat abilities. When a githyanki grows to adulthood and slays a mind flayer as part of a sacred rite of passage, it is permitted to rejoin its people on the Astral Plane.
+Da Kreaturen, die auf der Astralebene leben, nicht altern, legen die Githyanki Horte in abgelegenen Gebieten der Materiellen Ebene an, um ihre Kinder großzuziehen. Diese Horte dienen gleichzeitig als Militärakademien und trainieren junge Githyanki darin, ihre psychischen und kämpferischen Fähigkeiten zu nutzen. Wenn ein Githyanki erwachsen wird und einen Gedankenschinder als Übergangsritus erschlägt, darf er sich seinem Volk auf der Astralebene anschließen. 
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+Die kriegerischen Githyanki und die nachdenklichen Githzerai sind ein zerrissenes Volk - zwei Kulturen, die einander absolut verabscheuen. Ehe sie die Githyanki oder Githzerai waren, waren diese Wesen ein einziges Volk, das von den [[Gedankenschinder-mm|Gedankenschindern]] versklavt wurde. Auch wenn sie viele Male versuchten, ihre Gebieter zu stürzen, wurden diese Rebellen immer wieder niedergeschlagen, bis sich eine große Anführerin namens Gith erhob.
 
-After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
+Nach viel Blutvergießen warfen Gith und ihre Anhänger das Joch ihrer Illithid-Meister ab, doch ein weiterer Anführer namens Zerthimon tauchte nach der Schlacht auf. 
 
-Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
+Zenthimon hinterfragte Giths Motive und behauptete, dass ihre strikt militaristische Führung und ihre Rachsucht wenig mehr als eine weitere Form der Sklaverei für ihr Volk bedeuteten. Es kam zu einer Spaltung zwischen Anhängern beider Anführer, und sie wurden schließlich zu den beiden Völkern, deren Feindschaft bis zum heutigen Tage anhält. 
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Ob diese großen, hageren Kreaturen friedlich oder wild, kultiviert oder primitiv waren, ehe die [[Gedankenschinder-mm|Gedankenschinder]] sie versklavten, das kann heute niemand mehr sagen. Sogar der ursprüngliche Name ihres Volks ist in den Nebeln der Zeit verschwunden. 
 
 > [!quote] A quote from Aristul the Yellow, master of planar lore  
 > 
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
 
-```statblock
-"name": "Githyanki Knight"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "gith"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor.md)"
-"hp": !!int "91"
-"hit_dice": "14d8 + 28"
-"modifier": !!int "2"
-"stats":
-  - !!int "16"
-  - !!int "14"
-  - !!int "15"
-  - !!int "14"
-  - !!int "14"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "5"
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "5"
-"senses": "passive Perception 12"
-"languages": "Gith"
-"cr": "8"
-"traits":
-  - "desc": "The githyanki's innate spellcasting ability is Intelligence (spell save\
-      \ DC 13, +5 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no components:\n\n**At will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand.md)\
-      \ (the hand is invisible)\n\n**3/day each:** [jump](/3-Mechanics/CLI/spells/jump.md),\
-      \ [misty step](/3-Mechanics/CLI/spells/misty-step.md), [nondetection](/3-Mechanics/CLI/spells/nondetection.md)\
-      \ (self only), [tongues](/3-Mechanics/CLI/spells/tongues.md)\n\n**1/day each:**\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis.md)"
-    "name": "Innate Spellcasting (Psionics)"
-"actions":
-  - "desc": "The githyanki makes two silver greatsword attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon\
-      \ attack. On a critical hit against a target in an astral body (as with the\
-      \ [astral projection](/3-Mechanics/CLI/spells/astral-projection.md) spell),\
-      \ the githyanki can cut the silvery cord that tethers the target to its material\
-      \ body, instead of dealing damage."
-    "name": "Silver Greatsword"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/githyanki-knight.webp"
-```
+> [!statblock] Githyanki-Ritter
+> ![[token/githyanki-knight.webp|right|100]]
+> *Mittelgroßer Humanoid (Gith), Rechtschaffen Böse*
+> 
+> - **Rüstungsklasse** 18 ([[Ritterrüstung-phb|Ritterrüstung]])
+> - **Trefferpunkte** 91 (`14d8 + 28`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 16 (+3)|14 (+2)|15 (+2)|14 (+2)|14 (+2)|15 (+2)|
+> 
+> - **Rettungswürfe** KON +5, INT +5, WEI +5
+> - **Fertigkeiten** ⏤
+> - **Sinne** passive Wahrnehmung 12
+> - **Schadensresistenzen** ⏤
+> - **Schadensimmunitäten** ⏤
+> - **Zustandsimmunitäten** ⏤ <br><br>
+> - **Sprachen** Gith
+> - **Herausforderungsgrad** 8 (3.900 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Angeborenes Zauberwirken (Psionik).*** Das Attribut zum Wirken angeborener Zauber ist für den Githyanki Intelligenz (Zauberrettungswurf-SG 13, +5 zum Treffen mit Zauberangriffen). Er kann angeboren die folgenden Zauber wirken, wobei keine Materialkomponenten nötig sind: 
+> 
+> - **Willentlich:** [[Magierhand-phb|Magierhand]] (die Hand ist unsichtbar)
+> - **jeweils 3/Tag:** [[Nebelschritt-phb|Nebelschritt]], [[Springen-phb|Springen]], [[Unauffindbarkeit-phb|Unauffindbarkeit]] (nur selbst), [[Zungen-phb|Zungen]]
+> - **jeweils 1/Tag:** [[Ebenenwechsel-phb|Ebenenwechsel]], [[Telekinese-phb|Telekinese]]
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Der Githyanki führt zwei Silberzweihandschwert-Angriffe aus. 
+> 
+> ***Silberzweihandschwert.*** *Nahkampf-Waffenangriff:* +9 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 13 (`2d6 + 6`) Hiebschaden plus 10 (`3d6`) psychischer Schaden. Dies ist ein magischer Waffenangriff. Bei einem kritischen Treffer gegen ein Wesen in einem Astralkörper (wie beim Zauber [[Astrale_Projektion-phb|Astrale Projektion]]) kann der Githyanki die Silberschnur durchtrennen, die das Ziel mit seinem physischen Körper verbindet, anstatt Schaden zu verursachen. 
 ^statblock

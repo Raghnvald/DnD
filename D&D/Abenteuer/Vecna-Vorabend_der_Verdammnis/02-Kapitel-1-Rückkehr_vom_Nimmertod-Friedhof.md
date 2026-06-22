@@ -267,7 +267,7 @@ Ein Silberarmband mit sieben kleinen Diamanten ist in die Zisterne gefallen und 
 
 ![Viele von Vecnas Kultisten auf dem Nimmertod-Friedhof tragen das unheilige Symbol des Lich-Gottes als Tätowierung](Vecna-Vorabend_der_Verdammnis/img/013-01-004-vecna-cult-symbol.webp#center)
 
-Die Räder dienen der Steuerung des Wasserdrucks in den Leitungen. Es gibt jedoch keinerlei Druckmesser, aus denen ersichtlich würde, wie die Räder den Druck genau beeinflussen. Ein Charakter kann binnen einer Stunde durch Ausprobieren erkennen, dass das Wasser nach Westen fließt und wie der Wasserdruck sich erhöhen oder verringern lässt. Ein Charakter, der einen SG-16- Intelligenzwurf ([[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt diese Informationen in nur zehn Minuten. Alternativ kann auch der [[Marid-mm|Marid]] Shanzezim in Bereich K10 beschreiben, wie die Räder funktionieren.
+Die Räder dienen der Steuerung des Wasserdrucks in den Leitungen. Es gibt jedoch keinerlei Druckmesser, aus denen ersichtlich würde, wie die Räder den Druck genau beeinflussen. Ein Charakter kann binnen einer Stunde durch Ausprobieren erkennen, dass das Wasser nach Westen fließt und wie der Wasserdruck sich erhöhen oder verringern lässt. Ein Charakter, der einen `SG-16- Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, entdeckt diese Informationen in nur zehn Minuten. Alternativ kann auch der [[Marid-mm|Marid]] Shanzezim in Bereich K10 beschreiben, wie die Räder funktionieren.
 
 ##### Erhöhter Druck
 
@@ -292,7 +292,7 @@ Ein Zahnrad an der Nordwand hat keinerlei Kontakt zu anderen Elementen an der Wa
 
 #### K10: Improvisierte Werkstatt
 
-![Der Marid Shanzezim ist an die Gruft gebunden und verbringt seine Zeit damit, in einer improvisierten WErkstatt an Uhrwerken herumzubasteln.](Vecna-Vorabend_der_Verdammnis/img/014-01-005-marid-shanzezim.webp#center)
+![Der Marid Shanzezim ist an die Gruft gebunden und verbringt seine Zeit damit, in einer improvisierten Werkstatt an Uhrwerken herumzubasteln.](Vecna-Vorabend_der_Verdammnis/img/014-01-005-marid-shanzezim.webp#center)
 
 > [!readaloud] 
 > 
@@ -578,7 +578,7 @@ Die sechs neutral bösen [[D&D/Bestiarium/Humanoid/Kultfanatiker-mm|Kultfanatike
 
 ##### Der Käfig 
 
-Eldon ist ein rechtschaffen guter Elf und ein [[D&D/Bestiarium/Humanoid/Priester-mm|Priester]] des [[Deneir|Deneir]], Gott der Schriften und des Wissens. Der Elf kann keine Zauber wirken, solange er sich im Käfig befindet. Dieser hängt an einer stabilen Kette, die mit der Decke verbunden ist und sechs Meter über dem Boden endet. Die Tür an der Seite des Käfigs ist zugeklinkt, aber nicht verschlossen. Ein Charakter, der den Käfig erreicht, kann die Tür mit einer Aktion öffnen. 
+[[Eldon_Schlüsselwart-veor|Eldon]] ist ein rechtschaffen guter Elf und ein [[D&D/Bestiarium/Humanoid/Priester-mm|Priester]] des [[Deneir|Deneir]], Gott der Schriften und des Wissens. Der Elf kann keine Zauber wirken, solange er sich im Käfig befindet. Dieser hängt an einer stabilen Kette, die mit der Decke verbunden ist und sechs Meter über dem Boden endet. Die Tür an der Seite des Käfigs ist zugeklinkt, aber nicht verschlossen. Ein Charakter, der den Käfig erreicht, kann die Tür mit einer Aktion öffnen. 
 
 #### Ende des Kampfes
 

@@ -41,35 +41,35 @@ Ghuls stammen aus dem Abyss. Doresain, der erste ihrer Art, war ein elfischer An
 
 Orcus erfüllt einen Ghul manchmal mit einer größeren Dosis abyssischer Energie, um einen Grul zu erschaffen. Wo Ghule kaum mehr als wilde Bestien sind, sind Grule gerissen und können ein Rudel von Ghulen dazu bringen, ihren Befehlen zu folgen.
 
-```statblock
-name: Ghul
-image: token/ghoul.webp
-source: MM
-size: Mittelgroß
-type: Untoter
-alignment: chaotisch böse
-ac: 12
-hp: 22
-hit_dice: 5d8
-modifier: 2
-stats:
-  - 13
-  - 15
-  - 10
-  - 7
-  - 10
-  - 6
-speed: 9 Meter
-damage_immunities: Gift
-condition_immunities: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Bezaubert|Bezaubert<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Erschöpft|Erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Vergiftet|Vergiftet<STATBLOCK-MARKDOWN-LINK>
-senses: <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 Meter, passive Wahrnehmung 10
-languages: Gemeinsprache
-cr: 1
-environment: Stadt, Sumpf, Unterreich
-actions:
-  - name: Biss
-    desc: "*Nahkampf-Waffenangriff:* +2 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 9 (2d6+2) Stichschaden."
-  - name: Klauen
-    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 7 (2d4+2) Hiebschaden. Wenn das Ziel eine Kreatur und kein Elf oder Untoter ist, muss es einen Konstitutionsrettungswurf gegen SG 10 ablegen, um nicht für 1 Minute <STATBLOCK-MARKDOWN-LINK>01-Spielleiter/Zustände-phb#Gelähmt|gelähmt<STATBLOCK-MARKDOWN-LINK> zu werden. Das Ziel kann den gleichen Rettungswurf am Ende eines jeden seiner Züge wiederholen und den Effekt auf sich selbst bei einem Erfolg beenden."
-```
+> [!statblock] Ghul
+> ![[token/ghoul.webp|right|100]]
+> *Mittelgroßer Untoter, Chaotisch Böse*
+> 
+> - **Rüstungsklasse** 12
+> - **Trefferpunkte** 22 (`5d8`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 13 (+1)|15 (+2)|10 (+0)|7 (-2)|10 (+0)|6 (+2)|
+> 
+> - **Rettungswürfe** -
+> - **Fertigkeiten** -
+> - **Sinne** [[Sinne-phb#Dunkelsicht|Dunkelsicht]] 18 Meter, passive Wahrnehmung 10
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** Gift
+> - **Zustandsimmunitäten** [[Zustände-phb#Bezaubert|Bezaubert]], [[Zustände-phb#Erschöpft|Erschöpft]], [[Zustände-phb#Vergiftet|Vergiftet]] <br><br>
+> - **Sprachen** Gemeinsprache 
+> - **Herausforderungsgrad** 1 (200 EP)
+> - **Übungsbonus** +2
+> 
+> ## Aktionen
+> 
+> ***Biss.*** *Nahkampf-Waffenangriff:* +2 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 9 (`2d6 + 2`) Stichschaden."
+> 
+> ***Klauen.*** *Nahkampf-Waffenangriff:* +4 zum Treffer, Reichweite 1,5 m, ein Ziel. *Treffer:* 7 (`2d4 + 2`) Hiebschaden. Wenn das Ziel eine Kreatur und kein Elf oder Untoter ist, muss es einen `Konstitutions-Rettungswurf` gegen `SG 10` ablegen, um nicht für 1 Minute [[Zustände-phb#Gelähmt|gelähmt]] zu werden. Das Ziel kann den gleichen Rettungswurf am Ende eines jeden seiner Züge wiederholen und den Effekt auf sich selbst bei einem Erfolg beenden.
 ^statblock
+
+## Vorkommen
+
+Stadt, Sumpf, Unterreich

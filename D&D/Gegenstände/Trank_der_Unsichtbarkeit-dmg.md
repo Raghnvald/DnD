@@ -1,17 +1,17 @@
 ---
-Bezeichnung: Potion of Invisibility
+Bezeichnung: Trank der Unsichtbarkeit
 Kategorie: Trank
-linter-yaml-title-alias: Potion of Invisibility
+linter-yaml-title-alias: Trank der Unsichtbarkeit
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Trank
   - Quelle/5e/dmg
 aliases:
-  - Potion of Invisibility
+  - Trank der Unsichtbarkeit
 ---
-# Potion of Invisibility
-*Potion, minor, very rare*  
+# Trank der Unsichtbarkeit
+*Trank, sehr selten*  
 
-This potion's container looks empty but feels as though it holds liquid. When you drink it, you become [invisible](/3-Mechanics/CLI/conditions.md#Invisible) for 1 hour. Anything you wear or carry is [invisible](/3-Mechanics/CLI/conditions.md#Invisible) with you. The effect ends early if you attack or cast a spell.
+Der Behälter dieses Tranks sieht leer aus, fühlt sich aber so an, als würde er eine Flüssigkeit beinhalten. Wenn du ihn trinkst, wirst du für 1 Stunde [[Zustände-phb#Unsichtbar|unsichtbar]]. Alles, was du am Körper oder bei dir trägst, wird ebenfalls [[Zustände-phb#Unsichtbar|unsichtbar]]. Der Effekt endet, wenn du angreifst oder einen Zauber wirkst.
 
-*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielleiterhandbuch S. 196. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

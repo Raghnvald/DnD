@@ -160,6 +160,6 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     "name": "Splinter (Costs 3 Actions)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/auril-second-form-idrotf.webp"
+"image": "token/auril-second-form-idrotf.webp"
 ```
 ^statblock

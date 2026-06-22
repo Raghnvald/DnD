@@ -21,6 +21,6 @@ Manchmal steigen Abenteurer in mehr als einer Klasse auf. Ein Schurke könnte se
 
 Die zwölf Klassen, die in der folgenden Tabelle aufgelistet werden, findet man in fast jeder Welt von DUNGEONS & DRAGONS, sie definieren das Spektrum der typischen Abenteurer. 
 
-![](Spielerhandbuch-2014/img/ch3.webp#center)
+![](img/ch3.webp#center)
 
-![Klassen](Tabellen/Charakterentwicklung/Klassen-phb#classes)
+![[Klassen-phb#^class-description-hit-die-primary-ability-saving-throw-proficiencies-armor-and-weapon-proficiencies]]

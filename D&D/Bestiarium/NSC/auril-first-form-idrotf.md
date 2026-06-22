@@ -139,6 +139,6 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     "name": "Touch of Frost (Costs 2 Actions)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/auril-first-form-idrotf.webp"
+"image": "token/auril-first-form-idrotf.webp"
 ```
 ^statblock

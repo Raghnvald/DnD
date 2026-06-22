@@ -38,7 +38,7 @@ aliases:
 | 94    | [[Augen_des_präzisen_Sehens-dmg\|Augen des präzisen Sehens]]               |
 | 95    | [[Faltboot-dmg\|Faltboot]]                                                 |
 | 96    | [[Hewards_Praktischer_Rucksack-dmg\|Hewards praktischer Rucksack]]         |
-| 97    | [[horseshoes-of-speed-dmg\|Hufeisen der Geschwindigkeit]]                  |
+| 97    | [[Hufeisen_der_Geschwindigkeit-dmg\|Hufeisen der Geschwindigkeit]]                  |
 | 98    | [[Halskette_der_Feuerbälle-dmg\|Halskette der Feuerbälle]]                 |
 | 99    | [[Anhänger_der_Gesundheit-dmg\|Anhänger der Gesundheit]]                   |
 | 00    | [[Steine der Verständigung-dmg\|Steine der Verständigung]]                 | 

@@ -13,63 +13,46 @@ tags:
 aliases:
   - Star Angler
 ---
-# [Star Angler](3-Mechanics\CLI\bestiary\monstrosity/star-angler-veor.md)
-*Source: Vecna: Eve of Ruin p. 237*  
+# Sternangler
+*Quelle: Vecna: Vorabend der Verdammnis S. 237*  
 
-Distantly related to scavvers, star anglers are astral predators that resemble hulking, golden anglerfish with iridescent fins and tails. A star angler lacks eyes, and its hide is dotted with bioluminescent specks, allowing it to easily blend into the vast expanse of the Astral Plane. A star angler's signature lure emits an enchanting glow that has pulled many Wildspace explorers to their demises.
+Sternangler sind entfernt mit Nachtplünderern verwandt. Es handelt sich um astrale Räuber, die wie riesige goldene Anglerfische mit schillernden Flossen aussehen. Sie haben keine Augen, und ihre Haut ist mit biolumineszenten Flecken gesprenkelt, sodass sie in den Weiten der Astralebene gut getarnt sind. Der charakteristische Köder eines Sternanglers leuchtet bezaubernd und hat schon viele Entdecker im Wildall ins Verderben gelockt. 
 
-```statblock
-"name": "Star Angler (VEoR)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"ac_class": "natural armor"
-"hp": !!int "119"
-"hit_dice": "14d10 + 42"
-"modifier": !!int "2"
-"stats":
-  - !!int "21"
-  - !!int "15"
-  - !!int "17"
-  - !!int "3"
-  - !!int "14"
-  - !!int "6"
-"speed": "0 ft., fly 40 ft."
-"skillsaves":
-  - "name": "Perception"
-    "desc": "+5"
-  - "name": "Stealth"
-    "desc": "+8"
-"senses": "blindsight 120 ft. (can't see beyond this radius), passive Perception 15"
-"languages": ""
-"cr": "8"
-"traits":
-  - "desc": "If the star angler is subjected to an effect that allows it to make a\
-      \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-      \ on the saving throw and only half damage if it fails."
-    "name": "Avoidance"
-  - "desc": "The star angler's lure sheds bright light in a 30-foot radius and dim\
-      \ light for an additional 30 feet."
-    "name": "Illumination"
-"actions":
-  - "desc": "The star angler makes three Bite attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage."
-    "name": "Bite"
-"bonus_actions":
-  - "desc": "The star angler's lure flares with enchanting starlight, targeting one\
-      \ creature the star angler can see within 120 feet of itself. The target must\
-      \ succeed on a DC 13 Wisdom saving throw or have the charmed condition until\
-      \ the start of the star angler's next turn. While charmed in this way, the target\
-      \ has the incapacitated condition and must use its movement on its turn to move\
-      \ directly toward the star angler; a charmed target doesn't avoid opportunity\
-      \ attacks, but it does avoid damaging terrain. A target can be charmed by only\
-      \ one star angler at a time."
-    "name": "Lure Charm"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/star-angler-veor.webp"
-```
+> [!statblock] Sternangler
+> ![[token/star-angler-veor.webp|right|100]]
+> *Große Monstrosität, gesinnungslos*
+> 
+> - **Rüstungsklasse** 15 (natürliche Rüstung)
+> - **Trefferpunkte** 119 (`14d10 + 42`)
+> - **Bewegungsrate** 0 Meter, fliegen 12 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 21 (+5)|15 (+2)|17 (+3)|3 (-4)|14 (+2)|6 (-2)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]] +8, [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +5
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** -
+> - **Sinne** [[Sinne-phb#Blindsicht|Blindsicht]] 36 Meter (kann außerhalb dieses Radius nicht sehen), passive Wahrnehmung 15
+> - **Sprachen** -
+> - **Herausforderungsgrad** 8 (3.900 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Illumination.*** Der Köder des Sternanglers spendet in einem Radius von neun Metern helles Licht und in einem Radius von weiteren neun Metern dämmriges Licht.
+> 
+> ***Meiden.*** Wenn der Sternangler von einem Effekt betroffen ist, der ihm erlaubt, einen Rettungswurf auszuführen, um halb so viel Schaden zu erleiden, erleidet er stattdessen keinen Schaden, wenn der Rettungswurf erfolgreich ist, und nur halb so viel Schaden, wenn der Rettungswurf scheitert.
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Der Sternangler führt drei Bissangriffe aus.
+> 
+> ***Biss.*** *Nahkampf-Waffenangriff:* +8 zum Treffen, Reichweite 1,5 m, ein Ziel. *Treffer:* 16 (`2d10 + 5`) Stichschaden.
+> 
+> ## Bonusaktionen
+> 
+> ***Köder-Bezauberung.*** Der Köder des Sternanglers leuchtet mit bezauberndem Sternenlicht und zielt auf eine Kreatur im Abstand von bis zu 36 Metern vom Sternangler, die er sehen kann. Das Ziel muss einen `SG-13-Weisheits-Rettungswurf` bestehen, oder es ist bis zum Beginn des nächsten Zugs des Sternanglers [[Zustände-phb#Bezaubert|bezaubert]]. Ein auf diese Art [[Zustände-phb#Bezaubert|bezaubertes]] Ziel ist [[Zustände-phb#Kampfunfähig|kampfunfähig]] und muss in seinem Zug seine Bewegungsrate einsetzen, um sich direkt auf den Sternangler zuzubewegen. [[Zustände-phb#Bezaubert|Bezauberte]] Ziele vermeiden keine Gelegenheitsangriffe. Sie meiden jedoch Gelände, das Schaden bewirkt. Ein Ziel kann jeweils nur von einem Sternangler [[Zustände-phb#Bezaubert|bezaubert]] werden.
 ^statblock

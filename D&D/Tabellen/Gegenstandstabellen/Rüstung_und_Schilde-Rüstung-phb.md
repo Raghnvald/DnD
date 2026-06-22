@@ -12,39 +12,37 @@ aliases:
 
 **Rüstungen**
 
-## Leichte Rüstung
-
-| Rüstung | Kosten | Rüstungsklasse (RK) | Stärke | Heimlichkeit | Gewicht |
-| ----------------------------------------------------------------------------- | -----: | ----------------- | -------- | ------------ | ------ |
-| [Gefütterte Rüstung](Gefütterte_Rüstung-phb.md)                   | 5 GM  | 11 + GES Mod | —        | Nachteil | 4,0 kg.  |
-| [Lederrüstung](Gegenstände/Lederrüstung-phb)                 | 10 GM | 11 + GES Mod | —        | —            | 5,0 kg. |
-| [Beschlagene Lederrüstung](Beschlagene_Lederrüstung-phb.md) | 45 GM | 12 + GES Mod | —        | —            | 7,5 kg. |
-^light
-
-## Mittlerschwere Rüstung
-
-| Rüstung                                                       | Kosten | Rüstungsklasse (RK)  | Stärke | Heimlichkeit | Gewicht |
-| ------------------------------------------------------------- | ------:| -------------------- | ------ | ------------ | ------- |
-| [Fellrüstung](Gegenstände/Fellrüstung-phb)             |  10 GM | 12 + GES Mod (max 2) | —      | —            | 12 lb.  |
-| [Kettenhemd](Gegenstände/Kettenhemd-phb.md)     |  50 GM | 13 + GES Mod (max 2) | —      | —            | 20 lb.  |
-| [Schuppenpanzer](Gegenstände/Schuppenpanzer-phb.md)       |  50 GM | 14 + GES Mod (max 2) | —      | Nachteil     | 45 lb.  |
-| [Brustplatte](Gegenstände/Brustplatte-phb.md)     | 400 GM | 14 + GES Mod (max 2) | —      | —            | 20 lb.  |
-| [Plattenpanzer](Gegenstände/Plattenpanzer-phb.md) | 750 GM | 15 + GES Mod (max 2) | —      | Nachteil     | 40 lb.  |
-^medium
-
-## Schwere Rüstung
-
-| Rüstung                                                       | Kosten   | Rüstungsklasse (RK) | Stärke | Heimlichkeit | Gewicht |
-| ------------------------------------------------------------- | --------: | ------------------- | ------ | ------------ | ------- |
-| [Ringpanzer](Gegenstände/Ringpanzer-phb.md)   | 30 GM    | 14                  | —      | Nachteil | 40 lb.  |
-| [Kettenpanzer](Gegenstände/Kettenpanzer-phb.md) | 75 GM    | 16                  | Str 13 | Nachteil | 55 lb.  |
-| [Schienenpanzer](Gegenstände/Schienenpanzer-phb.md)   | 200 GM   | 17                  | Str 15 | Nachteil | 60 lb.  |
-| [Ritterrüstung](Gegenstände/Ritterrüstung-phb.md)     | 1.500 GM | 18                  | Str 15 | Nachteil | 65 lb.  |
-^heavy
-
-## Schilde
-
-| Rüstung | Kosten | Rüstungsklasse (RK) | Stärke | Heimlichkeit | Gewicht |
-| ------- | ------: | ------------------- | ------ | ------------ | ------- |
-| [Schild](Gegenstände/Schild-phb.md) | 10 GM | +2 | — | — | 3,0 kg. |
-^shield
+<table class="Armor and Shields">
+<thead>
+<tr class="class-progression"><th class"armor">Rüstung</th><th class"cost">Kosten</th><th class"armor class">Rüstungsklasse (RK)</th><th class="strength">Stärke</th><th class="stealth">Heimlichkeit</th><th class="weight">Gewicht</th></tr>
+</thead><tbody>
+<thead>
+<tr><th colspan='6'>Leichte Rüstung</th></tr>
+</thead><tbody>
+<tr><td><a href='Gefütterte_Rüstung-phb.md' class='internal-link'>Gefütterte Rüstung</a></td><td align="right">5 GM</td><td>11 + GES Mod</td><td>-</td><td>Nachteil</td><td>4 kg</td></tr>
+<tr><td><a href='Lederrüstung-phb.md' class='internal-link'>Lederrüstung</a></td><td align="right">10 GM</td><td>11 + GES Mod</td><td>-</td><td>-</td><td>5 kg</td></tr>
+<tr><td><a href='Beschlagene_Lederrüstung-phb.md' class='internal-link'>Beschlagene Lederrüstung</a></td><td align="right">45 GM</td><td>12 + GES Mod</td><td>-</td><td>Nachteil</td><td>7,5 kg</td></tr>
+</tbody>
+<thead>
+<tr><th colspan='6'>Mittlerschwere Rüstung</th></tr>
+</thead><tbody>
+<tr><td><a href='Fellrüstung-phb.md' class='internal-link'>Fellrüstung</a></td><td align="right">10 GM</td><td>12 + GES Mod (max. +2)</td><td>-</td><td>-</td><td>6 kg</td></tr>
+<tr><td><a href='Kettenhemd-phb.md' class='internal-link'>Kettenhemd</a></td><td align="right">50 GM</td><td>13 + GES Mod (max. +2)</td><td>-</td><td>-</td><td>10 kg</td></tr>
+<tr><td><a href='Schuppenpanzer-phb.md' class='internal-link'>Schuppenpanzer</a></td><td align="right">50 GM</td><td>14 + GES Mod (max. +2)</td><td>-</td><td>Nachteil</td><td>22,5 kg</td></tr>
+<tr><td><a href='Brustplatte-phb.md' class='internal-link'>Brustplatte</a></td><td align="right">400 GM</td><td>14 + GES Mod (max. +2)</td><td>-</td><td>-</td><td>10 kg</td></tr>
+<tr><td><a href='Plattenpanzer-phb.md' class='internal-link'>Plattenpanzer</a></td><td align="right">750 GM</td><td>15 + GES Mod (max. +2)</td><td>-</td><td>Nachteil</td><td>20 kg</td></tr>
+</tbody>
+<thead>
+<tr><th colspan='6'>Schwere Rüstung</th></tr>
+</thead><tbody>
+<tr><td><a href='Ringpanzer-phb.md' class='internal-link'>Ringpanzer</a></td><td align="right">30 GM</td><td>14</td><td>-</td><td>Nachteil</td><td>20 kg</td></tr>
+<tr><td><a href='Kettenpanzer-phb.md' class='internal-link'>Kettenpanzer</a></td><td align="right">75 GM</td><td>16</td><td>13</td><td>Nachteil</td><td>27,5 kg</td></tr>
+<tr><td><a href='Schienenpanzer-phb.md' class='internal-link'>Schienenpanzer</a></td><td align="right">200 GM</td><td>17</td><td>15</td><td>Nachteil</td><td>30 kg</td></tr>
+<tr><td><a href='Ritterrüstung-phb.md' class='internal-link'>Ritterrüstung</a></td><td align="right">1.500 GM</td><td>18</td><td>15</td><td>Nachteil</td><td>32,5 kg</td></tr>
+</tbody>
+<thead>
+<tr><th colspan='6'>Schild</th></tr>
+</thead><tbody>
+<tr><td><a href='Gegenstände/Schild-phb.md' class='internal-link'>Schild</a></td><td align="right">10 GM</td><td>+2</td><td>-</td><td>-</td><td>3 kg</td></tr>
+</tbody>
+</tbody></table>

@@ -6,110 +6,111 @@ tags:
 aliases:
   - Step-by-Step Characters
 ---
-# Step-by-Step Characters
-*Source: Player's Handbook (2014), p. 11* 
+# Charaktere Schritt für Schritt
+*Quelle: Spielerhandbuch (2014), S. 11* 
 
-Your first step in playing an adventurer in the Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of various statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
+Der erste Schritt, um ein Abenteuer in der Welt von DUNGEONS & DRAGONS zu erleben, ist, dir einen Charakter auszudenken und ihn mit Hilfe der Regeln zu erschaffen. Dein Charakter ist eine Kombination aus Spielwerten, Anregungen fürs Rollenspiel und deiner Vorstellungskraft. Du suchst dir ein Volk aus (etwa Mensch oder Halbling) und eine Klasse (wie Kämpfer oder Magier). Du erfindest außerdem die Persönlichkeit, das Aussehen und die Hintergrundgeschichte deines Abenteurers. Ist er erst einmal fertiggestellt, dient dir dein Charakter als Repräsentant im Spiel, als Avatar in der Welt von DUNGEONS & DRAGONS. 
 
-Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or a flamboyant wizard. Or you might be more interested in an unconventional character, such as a brave rogue who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like fantasy fiction featuring dwarves or elves? Try building a character of one of those races. Do you want your character to be the toughest adventurer at the table? Consider a class like barbarian or paladin. If you don't know where else to begin, take a look at the illustrations in this book to see what catches your interest.
+Bevor du dich mit Schritt 1 weiter unten befasst, solltest du dir überlegen, welche Art von Abenteurer du spielen möchtest. Du könntest ein tapferer Kämpfer sein, ein inbrünstiger Kleriker, ein extravaganter Magier oder ein raffinierter Schurke. Vielleicht bist du auch mehr an einem unkonventionellen Charakter interessiert wie einem eher rauflustigen Schurken, der das Handgemenge liebt, oder einem Scharfschützen, der seine Gegner aus sicherer Entfernung ausschaltet. Gefallen dir Fantasygeschichten, in denen Elfen und Zwerge vorkommen? Erschaffe einen Charakter dieser Völker! Willst du, dass dein Charakter der härteste Abenteurer am Tisch ist? Dann ziehe eine Klasse wie den Barbar oder den Paladin in Betracht. Wenn du nicht weißt, wo du anfangen sollst, sieh dir einfach die Illustrationen in diesem Buch an und lass dich davon inspirieren. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch1.webp#center)
+![](img/ch1.webp#center)
 
-Once you have a character in mind, roll on these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What's important is that you come to the table with a character you're excited to play.
+Sobald du eine Vorstellung von deinem Charakter hast, gehe die folgenden Schritte der Reihe nach durch. Orientiere dich bei deinen Entscheidungen an dem Konzept deines Charakters. Mit jeder Wahl, die du triffst, kann sich dieses weiterentwickeln. Entscheidend ist, dass du mit einem Charakter an den Tisch kommst, den zu spielen du kaum erwarten kannst. 
 
-Throughout this chapter, we use the term **character sheet** to mean whatever you use to track your character, whether it's a formal character sheet (like the one at the end of this book), some form of digital record, or a piece of notebook paper. An official D&D character sheet is a fine place to start until you know what information you need and how you use it during the game.
+Überall in diesem Kapitel verwenden wir den Begriff **Charakterbogen** und meinen damit alles, was du verwendest, um deine Charakterinformationen festzuhalten, sei es ein strukturiertes Charakterblatt (wie du es am Ende dieses Buches findest), eine digitale Aufzeichnung oder ein Zettel aus einem Notizbuch. Ein offizieller D&D-Charakterbogen ist ein guter Anfang, bis du genau weißt, welche Informationen du im Laufe des Spiels brauchst und wie man sie benutzt. 
 
-## Building Bruenor
+## Bruenor erschaffen
 
-Each step of character creation includes an example of that step, with a player named Bob building his dwarf character, Bruenor.
+Alle nachfolgenden Schritte werden von einer beispielhaften Charaktererschaffung begleitet, in welcher der Spieler Bob seinen Zwergencharakter Bruenor erstellt. 
 
-## 1. Choose a Race
+## 1. Wähle ein Volk
 
-Every character belongs to a race, one of the many intelligent humanoid species in the D&D world. The most common player character races are dwarves, elves, halflings, and humans. Some races also have **subraces**, such as mountain dwarf or wood elf. Chapter 2 provides more information about these races.
+Jeder Charakter gehört einem Volk an, einer der vielen intelligenten humanoiden Spezies, die es in der Welt von DUNGEONS & DRAGONS gibt. Die meist verbreiteten Völker für Spielercharaktere sind Zwerge, Elfen, Halblinge und Menschen. Manche Völker weisen **Unterarten** auf wie den Gebirgszwerg oder den Waldelf. Kapitel 2 ,,Völker" bietet Informationen zu diesen Völkern und auch zu den weniger verbreiteten der Drachenblütigen, der Gnome, der Halbelfen, der Halborks und der Tieflinge. 
 
-The race you choose contributes to your character's identity in an important way, by establishing a general appearance and the natural talents gained from culture and ancestry. Your character's race grants particular racial traits, such as special senses, proficiency with certain weapons or tools, proficiency in one or more skills, or the ability to use minor spells. These traits sometimes dovetail with the capabilities of certain classes (see step 2). For example, the racial traits of lightfoot halflings make them exceptional rogues, and high elves tend to be powerful wizards. Sometimes playing against type can be fun, too. Halfling paladins and mountain dwarf wizards, for example, can be unusual but memorable characters.
+Das Volk, das du wählst, trägt entscheidend zur Identität deines Charakters bei, da es seine allgemeine Erscheinung bestimmt und durch Kultur und Vorfahren auch seine natürlichen Talente. Das Volk deines Charakters gewährt dir gewisse Volksmerkmale, wie etwa spezielle Sinne, Übung im Umgang mit bestimmten Waffen oder Werkzeugen, das Beherrschen einer oder mehrerer Fertigkeiten oder die Fähigkeit, schwache Zauber zu wirken. Diese Merkmale passen manchmal genau mit den Fähigkeiten von bestimmten Klassen zusammen (siehe Schritt 2). Beispielsweise machen die Volksmerkmale eines Leichtfuß-Halblings ihn zu einem außergewöhnlichen Schurken und Hochelfen neigen dazu, mächtige Magier zu werden. Es kann auch Spaß machen, absichtlich untypische Kombinationen zu spielen. Halborkische Paladine und gebirgszwergische Magier sind eher unübliche Charaktere, bleiben aber mit Sicherheit in Erinnerung. 
 
-Your race also increases one or more of your ability scores, which you determine in step 3. Note these increases and remember to apply them later.
+Durch das Volk erhöhen sich auch eins oder mehrere deiner Attributswerte, die du in Schritt 3 festlegst. Notiere dir diese Erhöhungen und vergiss nicht, sie später anzuwenden. 
 
-Record the traits granted by your race on your character sheet. Be sure to note your starting languages and your base speed as well.
+Trage die Merkmale, die dir durch deine Volkszugehörigkeit verliehen werden, auf deinem Charakterbogen ein. Denke auch daran, dir sowohl deine Grundbewegungsrate aufzuschreiben als auch die Sprachen, die du von Anfang an beherrschst. 
 
-### Building Bruenor, Step 1
+### Bruenor erschaffen, Schritt 1
 
-Bob is sitting down to create his character. He decides that a gruff mountain dwarf fits the character he wants to play. He notes all the racial traits of dwarves on his character sheet, including his speed of 25 feet and the languages he knows: Common and Dwarvish.
+Bob sitzt an der Charaktererschaffung. Er findet, dass ein schroffer Zwerg am besten zu dem Abenteurer passt, den er spielen möchte. Er notiert sich alle Volksmerkmale der Zwerge auf seinem Charakterbogen, inklusive der Grundbewegungsrate von 7 ,50 m und der Sprachen, die er kennt: die Gemeinsprache und Zwergisch. 
 
-## 2. Choose a Class
+## 2. Wähle eine Klasse
 
-Every adventurer is a member of a class. Class broadly describes a character's vocation, what special talents he or she possesses, and the tactics he or she is most likely to employ when exploring a dungeon, fighting monsters, or engaging in a tense negotiation. The character classes are described in chapter 3.
+Alle Abenteurer gehören einer bestimmten Klasse an. Im weitesten Sinne beschreibt diese die Berufung eines Charakters, welche speziellen Talente er besitzt sowie die Taktiken, die er am wahrscheinlichsten anwenden wird, wenn er ein Gewölbe erforscht, Monster bekämpft oder eine hitzige Verhandlung führt. Die Charakterklassen sind in Kapitel 3 ,.Klassen" beschrieben. 
 
-Your character receives a number of benefits from your choice of class. Many of these benefits are **class features**-capabilities (including spellcasting) that set your character apart from members of other classes. You also gain a number of **proficiencies:** armor, weapons, skills, saving throws, and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
+Durch die Wahl der Klasse erhält dein Charakter eine Anzahl von Vorzügen. Viele dieser Vorzüge sind **Klassenmerkmale**: Fähigkeiten (inklusive Zaubern), die deinen Charakter von Vertretern anderer Klassen unterscheiden. Du erhältst zudem Übung: Du bist geübt im Umgang mit Rüstungen, Waffen und manchmal Werkzeugen, in Fertigkeiten und Rettungswürfen. Deine **Übung** definiert, was dein Charakter besonders gut kann, vom Benutzen bestimmter Waffen bis zum Auftischen einer überzeugenden Lüge. 
 
-On your character sheet, record all the features that your class gives you at 1st level.
+Trage auf deinem Charakterbogen sämtliche Merkmale ein, die dir deine Klasse auf der 1. Stufe verleiht. 
 
-![Bruenor](/3-Mechanics/CLI/books/players-handbook-2014/img/01-001-bruenor.webp#center)
+![Bruenor](img/01-001-bruenor.webp#center)
 
-### Level
+### Stufen
 
-Typically, a character starts at 1st level and advances in level by adventuring and gaining **experience points** (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before.
+Für gewöhnlich beginnt ein Charakter das Spiel auf der 1. Stufe und steigt dann weitere auf, indem er Abenteuer erlebt und **Erfahrungspunkte** (EP) sammelt. Ein Charakter der Stufe 1 ist unerfahren in der Welt der Abenteuer, obwohl er ein Soldat oder Pirat gewesen sein oder andere gefährliche Dinge gemacht haben könnte. 
 
-Starting off at 1st level marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing D&D campaign, your DM might decide to have you begin at a higher level, on the assumption that your character has already survived a few harrowing adventures.
+Stufe 1 markiert den Eintritt des Charakters in ein Leben als Abenteurer. Falls du schon mit dem Spiel vertraut bist oder einer bestehenden D&D-Kampagne beitrittst, könnte der SL annehmen, dass dein Charakter bereits einige prägende Abenteuer überlebt hat, und ihn auf einer höheren Stufe anfangen lassen. 
 
-Record your level on your character sheet. If you're starting at a higher level, record the additional elements your class gives you for your levels past 1st. Also record your experience points. A 1st-level character has 0 XP. A higher-level character typically begins with the minimum amount of XP required to reach that level (see "Beyond 1st Level" later in this chapter).
+Notiere die Stufe deines Abenteurers auf dem Charakterbogen. Solltest du auf einer höheren Stufe anfangen, schreibe dir alle zusätzlichen Vorzüge deiner Klasse nach der 1. Stufe auf. Trage auch deine Erfahrungspunkte ein. Ein Charakter der 1. Stufe besitzt 0 EP. Ein höherstufiger Charakter beginnt normalerweise mit dem Mindestwert an EP, die zum Erreichen seiner Stufe nötig sind (siehe „Nach der 1. Stufe" weiter unten in diesem Kapitel). 
 
-> [!note] Quick Build
+> [!note] Schnelle Erschaffung
 > 
-> Each class description in chapter 3 includes a section offering suggestions to quickly build a character of that class, including how to assign your highest ability scores, a background suitable to the class, and starting spells.
+> Jede Klassenbeschreibung in Kapitel 3 enthält einen Abschnitt mit Vorschlägen für eine schnelle Erschaffung eines Charakters dieser Klasse, inklusive des höchsten Attributswerts, einem passenden Hintergrund und gegebenenfalls anfänglichen Zaubersprüchen. 
 ^quick-build
 
-### Hit Points and Hit Dice
+### Trefferpunkte und Trefferwürfel
 
-Your character's hit points define how tough your character is in combat and other dangerous situations. Your hit points are determined by your Hit Dice (short for Hit Point Dice).
+Die Trefferpunkte deines Charakters stellen dar, wie zäh er im Kampf und anderen gefährlichen Situationen ist. Die Trefferpunkte werden durch deine Trefferwürfel bestimmt. 
 
-At 1st level, your character has 1 Hit Die, and the die type is determined by your class. You start with hit points equal to the highest roll of that die, as indicated in your class description. (You also add your Constitution modifier, which you'll determine in step 3.) This is also your **hit point maximum**.
+Auf Stufe 1 besitzt dein Charakter einen Trefferwürfel. Die Art des Würfels wird durch deine Klasse festgelegt. Du beginnst mit Trefferpunkten in Höhe des höchstmöglichen Wurfs mit deinem Trefferwürfel, zu dem zusätzlich noch dein Konstitutionsmodifikator addiert wird (den du in Schritt 3 bestimmst). Dies ist gleichzeitig auch dein **Trefferpunktemaximum**. 
 
-Record your character's hit points on your character sheet. Also record the type of Hit Die your character uses and the number of Hit Dice you have. After you rest, you can spend Hit Dice to regain hit points (see "Resting" in chapter 8).
+Trage die Trefferpunkte deines Abenteurers auf deinem Charakterbogen ein. Notiere dir auch die Art deines Trefferwürfels und dessen Anzahl. Wenn sich dein Charakter ausruht, kannst du Trefferwürfel einsetzen, um Trefferpunkte zurückzugewinnen (siehe „Rasten" in Kapitel 8 „Auf Abenteuer ausziehen"). 
 
-### Proficiency Bonus
+### Übungsbonus
 
-The table that appears in your class description shows your proficiency bonus, which is +2 for a 1st-level character. Your proficiency bonus applies to many of the numbers you'll be recording on your character sheet:
+Die Tabelle in deiner Klassenbeschreibung führt einen Übungsbonus auf, der für Charaktere der 1. Stufe +2 beträgt. Dein Übungsbonus wird auf viele der Werte addiert, die du auf deinem Charakterbogen notierst. Er wird angewendet bei: 
 
-- Attack rolls using weapons you're proficient with  
-- Attack rolls with spells you cast  
-- Ability checks using skills you're proficient in  
-- Ability checks using tools you're proficient with  
-- Saving throws you're proficient in  
-- Saving throw DCs for spells you cast (explained in each spellcasting class)  
+- Angriffswürfen mit Waffen, in deren Umgang du geübt bist. 
+- Angriffswürfen mit Zaubern, die du wirkst. 
+- Attributswürfen, bei denen du Werkzeuge verwendest, in deren Umgang du geübt bist. 
+- Attributswürfen mit Fertigkeiten, in denen du geübt bist. 
+- Rettungswürfen, in denen du geübt bist. 
+- Schwierigkeitsgraden von Rettungswürfen gegen Zauber, die du wirkst (wird bei jeder zauberwirkenden Klasse erläutert). 
 
-Your class determines your weapon proficiencies, your saving throw proficiencies, and some of your skill and tool proficiencies. (Skills are described in chapter 7, tools in chapter 5.) Your background gives you additional skill and tool proficiencies, and some races give you more proficiencies. Be sure to note all of these proficiencies, as well as your proficiency bonus, on your character sheet.
+Deine Klasse bestimmt, mit welchen Waffen du umgehen kannst, in welchen Rettungswürfen du geübt bist und bei welchen Fertigkeiten und Werkzeugen du deinen Übungsbonus anwenden darfst (Fertigkeiten werden in Kapitel 7 „Attributswerte verwenden" beschrieben und Werkzeuge im Kapitel 5 „Ausrüstung"). Dein Hintergrund gibt dir weitere Übung im Umgang mit Werkzeugen oder bei der Anwendung von Fertigkeiten. Auch manche Völker sind von Beginn an geübt in bestimmten Dingen. 
 
-Your proficiency bonus can't be added to a single die roll or other number more than once. Occasionally, your proficiency bonus might be modified (doubled or halved, for example) before you apply it. If a circumstance suggests that your proficiency bonus applies more than once to the same roll or that it should be multiplied more than once, you nevertheless add it only once, multiply it only once, and halve it only once.
+Gehe sicher, dass du dir alle Bereiche, in denen du geübt bist, aufschreibst und den Übungsbonus auf deinem Charakterbogen festhältst. 
 
-### Building Bruenor, Step 2
+Dein Übungsbonus kann auf keinen Würfelwurf oder anderen Wert mehr als einmal addiert werden. Gelegentlich wird er auch modifiziert (z. B. verdoppelt oder halbiert), bevor du ihn anwendest. 
 
-Bob imagines Bruenor charging into battle with an axe, one horn on his helmet broken off. He makes Bruenor a fighter and notes the fighter's proficiencies and 1st-level class features on his character sheet.
+Selbst wenn die Umstände nahelegen, dass dein Übungsbonus mehr als einmal auf denselben Wurf angewendet oder mehr als einmal multipliziert werden sollte, addierst, multiplizierst oder halbierst du ihn trotzdem nur ein einziges Mal. 
 
-As a 1st-level fighter, Bruenor has 1 Hit Die—a d10 and starts with hit points equal to 10 + his Constitution modifier. Bob notes this, and will record the final number after he determines Bruenor's Constitution score (see step 3). Bob also notes the proficiency bonus for a 1st-level character, which is +2.
+### Bruenor erschaffen, Schritt 2
 
-## 3. Determine Ability Scores
+Bob stellt sich vor, wie Bruenor mit einer Axt in den Kampf stürmt und dabei einen Helm mit einem abgebrochenen Horn trägt. Er macht Bruenor zu einem Kämpfer. Anschließend notiert er sich die Bereiche, in denen diese Klasse geübt ist, sowie die entsprechenden Klassenmerkmale der 1. Stufe. 
 
-Much of what your character does in the game depends on his or her six abilities: **Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.** Each ability has a score, which is a number you record on your character sheet.
+Als Kämpfer der Stufe 1 besitzt Bruenor einen Trefferwürfel, einen W10. Er beginnt also mit Trefferpunkten in Höhe von 10 plus seinem Konstitutionsmodifikator. Bob notiert sich das und wird die endgültige Zahl eintragen, sobald er Bruenors Konstitutionswert bestimmt hat (siehe Schritt 3). Bob hält außerdem den Übungsbonus fest, der für einen Charakter der 1. Stufe +2 beträgt. 
 
-The six abilities and their use in the game are described in chapter 7. The Ability Score Summary table provides a quick reference for what qualities are measured by each ability, what races increases which abilities, and what classes consider each ability particularly important.
+## 3. Attributswerte festlegen
 
-You generate your character's six **ability scores** randomly. Roll four 6-sided dice and record the total of the highest three dice on a piece of scratch paper. Do this five more times, so that you have six numbers. If you want to save time or don't like the idea of randomly determining ability scores, you can use the following scores instead: 15, 14, 13, 12, 10, 8.
+Die meisten Handlungen, die dein Charakter im Spiel unternimmt, hängen von den sechs Attributswerten ah: **Stärke, Geschicklichkeit, Konstitution, Intelligenz, Weisheit** und **Charisma***. Jedes Attribut besitzt einen Wert, den du auf deinem Charakterbogen einträgst. 
 
-Now take your six numbers and write each number beside one of your character's six abilities to assign scores to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Afterward, make any changes to your ability scores as a result of your race choice.
+Die Attribute und ihre Anwendung im Spiel werden in Kapitel 7 „Attributswerte verwenden" beschrieben. Die Tabelle „Attributswertzusammenfassung" gibt einen schnellen Überblick, welche Eigenschaften das jeweilige Attribut umfasst, bei welchen Völkern es erhöht wird und für welche Klassen es besonders wichtig ist. 
 
-After assigning your ability scores, determine your **ability modifiers** using the Ability Scores and Modifiers table. To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the result by 2 (round down). Write the modifier next to each of your scores.
+Du generierst die sechs Attributswerte deines Charakters zufällig. Würfle mit vier sechsseitigen Würfeln und schreibe die Summe der drei höchsten Ergebnisse auf einen Notizzettel. Wiederhole das fünfmal, sodass du sechs Zahlen erhälst. Falls du Zeit sparen möchtest oder dir zufällig bestimmte Attributswerte nicht gefallen, kannst du auch die folgenden Werte verwenden: 15, 14, 13, 12, 10, 8. 
 
-**Ability Score Summary**
+Teile jetzt die sechs Zahlen den sechs Attributen deines Charakters zu (Stärke, Geschicklichkeit, Konstitution, Intelligenz, Weisheit und Charisma). Modifiziere die Werte anschließend aufgrund des von dir gewählten Volkes. 
 
-|    |
+Nachdem du deine Attributswerte festgelegt hast, bestimme nun die **Attributsmodifikatoren** unter Verwendung der Tabelle „Attributswerte und Modifikatoren". Du kannst den Attributsmodifikator auch ohne die Tabelle ermitteln, indem du von dem entsprechden Attributswert 10 abziehst und das Ergebnis durch 2 teilst (abgerundet). Trage die Modifikatoren neben den Attributswerten ein. 
+
+**Attributswertzusammenfassung**
+
+|  **Stärke**  |
 |----|
-| **Strength** |
-| *Measures:* Natural athleticism, bodily power<br /><br />*Important for:* Barbarian, fighter, paladin<br /><br />Races that have a bonus to Strength |
+| *steht für:* natürliche Sportlichkeit, körperliche Kraft <br /><br />*wichtig für:* Barbar, Kämpfer, Paladin <br /><br />Erhöhungen durch Volkszugehörigkeit |
 ^ability-score-summary
-
-**Ability Score Summary**
 
 |    |
 |----|
@@ -149,131 +150,121 @@ After assigning your ability scores, determine your **ability modifiers** using 
 | *Measures:* Confidence, eloquence, leadership<br /><br />*Important for:* Bard, sorcerer, warlock<br /><br />Races that have a bonus to Charisma |
 ^ability-score-summary
 
-### Building Bruenor, Step 3
+### Bruenor erstellen, Schritt 3
 
-Bob decides to use the standard set of scores (15, 14, 13, 12, 10, 8) for Bruenor's abilities. Since he's a fighter, he puts his highest score, 15, in Strength. His next highest, 14, goes in Constitution. Bruenor might be a brash fighter, but Bob decides he wants the dwarf to be older, wiser, and a good leader, so he puts decent scores in Wisdom and Charisma. After applying his racial benefits (increasing Bruenor's Constitution by 2 and his Strength by 2), Bruenor's ability scores and modifiers look like this: Strength 17 (+3), Dexterity 10 (+0), Constitution 16 (+3), Intelligence 8 (-1), Wisdom 13 (+1), Charisma 12 (+1).
+Bob entscheidet sich, für Bruenors Attribute die Standardwerte (15, 14, 13, 12, 10, 8) zu verwenden. Da sein Abenteurer ein Kämpfer ist, setzt er den höchsten Wert, 15, auf Stärke. Den zweithöchsten, 14, nimmt er als Konstitutionswert. Bruenor mag zwar ein unerschrockener Krieger sein, doch Bob möchte, dass der Zwerg auch älter, weiser und ein guter Anführer ist. Daher teilt er Weisheit und Charisma ebenfalls hohe Werte zu. Nachdem Bob die Vorzüge seiner Volkswahl angewendet hat (die Bruenors Konstitution und Stärke jeweils um 2 erhöhen), sehen die Attributswerte des Kämpfers und die dazugehörigen Modifikatoren folgendermaßen aus: Stärke 17 (+3), Geschicklichkeit 10 (+0), Konstitution 16 (+3), Intelligenz 8(-1), Weisheit 13 (+l), Charisma 12 (+1). 
 
-Bob fills in Bruenor's final hit points: 10 + his Constitution modifier of +3, for a total of 13 hit points.
+Bob trägt Bruenors endgültige Trefferpunkte ein: 10 den Konstitutionsmodifikator von +3, also zusammengenommen 13 Trefferpunkte. 
 
-### Variant: Customizing Ability Scores
+### Variante: Attributswerte massschneidern
 
-At your Dungeon Master's option, you can use this variant for determining your ability scores. The method described here allows you to build a character with a set of ability scores you choose individually.
+Ist dein SL damit einverstanden, kannst du diese Variante verwenden, um deine Attributswerte zu bestimmen. Die hier beschriebene Methode erlaubt dir, einen Charakter mit individuell angepassten Attributswerten zu erschaffen. 
 
-You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Cost table. For example, a score of 14 costs 7 points. Using this method, 15 is the highest ability score you can end up with, before applying racial increases. You can't have a score lower than 8.
+Du verfügst dabei über 27 Punkte, mit denen du deine Attributswerte bezahlst. Die Kosten für die jeweiligen Werte sind in der Tabelle unten angegeben. Ein Attributswert von 14 beispielsweise kostet 7 Punkte. Der Maximalwert eines Attributs beträgt 15, kann aber noch durch die Volkszugehörigkeit erhöht werden. Keiner deiner Werte darf niedriger als 8 sein. 
 
-This method of determining ability scores enables you to create a set of three high numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
+Diese Vorgehensweise ermöglicht dir drei hohe und drei niedrige Werte (15, 15, 15, 8, 8, 8), eine Reihe von Werten, die alle fast gleich und leicht überdurchschnittlich sind (13. 13, 13, 12, 12, 12), oder jegliche Kombination zwischen diesen beiden Extremen. 
 
-![Variant: Customizing Ability Scores; Ability Score Point Cost](/3-Mechanics/CLI/tables/variant-customizing-ability-scores-ability-score-point-cost-phb.md)
+![[Tabellen/variant-customizing-ability-scores-ability-score-point-cost-phb.md#^ability-score-point-cost]]
 
-![Ability Scores and Modifiers](/3-Mechanics/CLI/tables/ability-scores-and-modifiers-phb.md)
+![[Tabellen/Attributswerte_und_Modifikatoren-phb.md#^ability-scores-and-modifiers]]
 
-## 4. Describe Your Character
+## 4. Beschreibe deinen Charakter
 
-Once you know the basic game aspects of your character, it's time to flesh him or her out as a person. Your character needs a name. Spend a few minutes thinking about what he or she looks like and how he or she behaves in general terms.
+Sobald du die grundlegenden Spielwerte deines Charakters kennst, ist es an der Zeit, ihn mit Persönlichkeit auszustatten. Dein Charakter braucht einen Namen. Überlege dir auch, wie er aussieht und wie er sich im Allgemeinen verhält. 
 
-Using the information in chapter 4, you can flesh out your character's physical appearance and personality traits. Choose your character's **alignment** (the moral compass that guides his or her decisions) and **ideals**. Chapter 4 also helps you identify the things your character holds most dear, called **bonds**, and the **flaws** that could one day undermine him or her.
+Nutze die Informationen in Kapitel 4 „Persönlichkeit und Hintergrund", um deinem Charakter Individualität zu verleihen. Wähle eine **Gesinnung** ( der moralische Kompass, nach dem er seine Entscheidungen fällt) und suche dir **Ideale** aus. **Bindungen** helfen dir, die Dinge zu bestimmen, die deinem Charakter besonders am Herzen liegen. Außerdem findest du dort auch die **Makel**, die ihn eines Tages zu Fall bringen könnten. 
 
-Your character's **background** describes where he or she came from, his or her original occupation, and the character's place in the D&D world.
+Der **Hintergrund** deines Charakters beschreibt, wo er herkommt, was sein ursprünglicher Beruf war und welchen Platz er in der D&D-Welt hat. Dein SL könnte über die in Kapitel 4 aufgeführten Hintergründe hinaus zusätzliche kennen oder bereit sein, mit dir einen noch präziser auf dein Charakterkonzept passenden Hintergrund auszuarbeiten. 
 
-Your DM might offer additional backgrounds beyond the ones included in chapter 4, and might be willing to work with you to craft a background that's a more precise fit for your character concept.
+Der Hintergrund verleiht deinem Charakter ein Hintergrundmerkmal (ein allgemeiner Vorzug) und Übung in zwei Fertigkeiten. Außerdem kann er dir zusätzliche Sprachen oder Übung im Umgang mit bestimmten Werkzeugen gewähren. Trage diese Informationen zusammen mit den Angaben zur Persönlichkeit, die du ausgearbeitet hast, auf deinem Charakterbogen ein. 
 
-A background gives your character a background feature (a general benefit) and proficiency in two skills, and it might also give you additional languages or proficiency with certain kinds of tools. Record this information, along with the personality information you develop, on your character sheet.
+### Die Attributswerte deines Charakters
 
-### Your Character's Abilities
+Beziehe die Attributswerte und das Volk deines Charakters mit ein, wenn du sein Aussehen und seine Persönlichkeit ausarbeitest. Ein sehr starker Abenteurer mit niedriger Intelligenz dürfte sich ganz anders verhalten und anders denken als ein sehr schlauer Charakter mit niedriger Stärke. 
 
-Take your character's ability scores and race into account as you flesh out his or her appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
+Zum Beispiel fällt eine hohe Stärke für gewöhnlich mit einem stämmigen oder athletischen Körperbau zusammen, wohingegen ein Charakter mit niedriger Stärke dürr oder mollig sein könnte. 
 
-For example, high **Strength** usually corresponds with a burly or athletic body, while a character with low Strength might be scrawny or plump.
+Ein Charakter mit hoher Geschicklichkeit ist womöglich gelenkig und schlank, während einer mit niedriger entweder schlaksig und unbeholfen oder schwer und dickfingrig sein könnte. 
 
-A character with high **Dexterity** is probably lithe and slim, while a character with low Dexterity might be either gangly and awkward or heavy and thick-fingered.
+Eine hohe Konstitution lässt einen Charakter für gewöhnlich gesund aussehen, mit strahlenden Augen und reichlich Energie, eine niedrige ihn eher kränklich und gebrechlich. 
 
-A character with high **Constitution** usually looks healthy, with bright eyes and abundant energy. A character with low Constitution might be sickly or frail.
+Ein Charakter mit hoher Intelligenz könnte sehr wissbegierig und belesen sein, während sich ein Charakter mit niedriger Intelligenz einfach ausdrückt und leicht Einzelheiten vergisst. 
 
-A character with high **Intelligence** might be highly inquisitive and studious, while a character with low Intelligence might speak simply or easily forget details.
+Eine hohe Weisheit könnte sich in einem guten Urteilsvermögen zeigen, großer Empathie und einem guten Bewusstsein für das, was um einen herum geschieht. Ein Charakter mit wenig Weisheit könnte eher geistesabwesend oder tollkühn sein. 
 
-A character with high **Wisdom** has good judgment, empathy, and a general awareness of what's going on. A character with low Wisdom might be absent-minded, foolhardy, or oblivious.
+Ein Charakter mit hohem Charisma strahlt Selbstvertrauen aus, das meist mit einer anmutigen oder einschüchternden Präsenz einhergeht. Niedriges Charisma könnte bedeuten, dass ein Charakter ungehobelt oder bedrohlich erscheint oder unfähig ist, sich auszudrücken. 
 
-A character with high **Charisma** exudes confidence, which is usually mixed with a graceful or intimidating presence. A character with a low Charisma might come across as abrasive, inarticulate, or timid.
+### Bruenor erschaffen, Schritt 4
 
-### Building Bruenor, Step 4
+Bob hält einige Basisinformationen zu Bruenor fest: seinen Namen, sein Geschlecht, seine Größe, sein Gewicht und seine Gesinnung (rechtschaffen gut). Seine hohe Stärke und Konstitution sprechen für einen gesunden, athletischen Körper, seine niedrige Intelligenz weist auf ein gewisses Maß an Vergesslichkeit hin. 
 
-Bob fills in some of Bruenor's basic details: his name, his sex (male), his height and weight, and his alignment (lawful good). His high Strength and Constitution suggest a healthy, athletic body, and his low Intelligence suggests a degree of forgetfulness.
+Bob beschließt, dass Bruenor eine adelige Abstammung haben soll, sein Klan jedoch aus der Heimat vertrieben wurde, als er noch sehr jung war. Während er aufwuchs, arbeitete er als Schmied in einem abgelegenen Dorf des Eiswindtals. Doch Bruenor hat das heldenhafte Schicksal, sein Heimatland zurückzufordern, daher wählt Bob den Hintergrund Volksheld. Er notiert sich die Bereiche, in denen sein Charakter aus diesem Grund geübt ist, und das besondere Merkmal, mit dem der Hintergrund ihn ausstattet. 
 
-Bob decides that Bruenor comes from a noble line, but his clan was expelled from its homeland when Bruenor was very young. He grew up working as a smith in the remote villages of Icewind Dale. But Bruenor has a heroic destiny—to reclaim his homeland—so Bob chooses the folk hero background for his dwarf. He notes the proficiencies and special feature this background gives him.
+Bob hat ein ziemlich klares Bild vor Augen, was die Persönlichkeit von Bruenor angeht. Daher überspringt er die Persönlichkeitsmerkmale, die im Hintergrund zum Volksheld vorgeschlagen werden. Stattdessen schreibt er auf, dass Bruenor ein fürsorglicher, einfühlsamer Zwerg ist, der seine Freunde und Verbündeten aufrichtig liebt, der sein weiches Herz jedoch hinter einem schroffen, knurrigen Verhalten versteckt. Er wählt aus der Liste seines Hintergrunds das Ideal der Gerechtigkeit und notiert sich, dass Bruenor daran glaubt, dass niemand über dem Gesetz steht. 
 
-Bob has a pretty clear picture of Bruenor's personality in mind, so he skips the personality traits suggested in the folk hero background, noting instead that Bruenor is a caring, sensitive dwarf who genuinely loves his friends and allies, but he hides this soft heart behind a gruff, snarling demeanor. He chooses the ideal of fairness from the list in his background, noting that Bruenor believes that no one is above the law.
+Aufgrund seiner Geschichte ist Bruenors Bindung offensichtlich: Er strebt an, Mithral-Halle, seine Heimatstadt, eines Tages von dem Schattendrachen zurückzufordern, der die Zwerge von dort vertrieben hat. Sein Makel hängt mit seinem fürsorglichen, einfühlsamen Wesen zusammen, denn er hat eine Schwäche für Waisen und eigenwillige Seelen, die ihn dazu bringt, sogar dann Gnade zu zeigen, wenn es nicht angebracht wäre. 
 
-Given his history, Bruenor's bond is obvious: he aspires to someday reclaim Mithral Hall, his homeland, from the shadow dragon that drove the dwarves out.
+## 5. Wähle deine Ausrüstung aus
 
-His flaw is tied to his caring, sensitive nature—he has a soft spot for orphans and wayward souls, leading him to show mercy even when it might not be warranted.
+Die Klasse und der Hintergrund bestimmen die **Anfangsausrüstung** deines Charakters inklusive Waffen, Rüstung und anderer Gegenstände. Halte diese Ausrüstung auf deinem Charakterbogen fest. Eine genaue Beschreibung aller Objekte findest du in Kapitel 5 „Ausrüstung". 
 
-## 5. Choose Equipment
+Anstatt die Anfangsausrüstung zu nehmen, die dir durch deine Klasse und deinen Hintergrund zusteht, kannst du dir diese auch kaufen. Je nach Klasse verfügst du dazu über eine bestimmte Anzahl von **Goldmünzen** (GM). Nutze die ausführlichen Ausrüstungslisten mit Preisen in Kapitel 5. Wenn du möchtest, kannst du auch ein Stück Tand besitzen, das dich nichts kostet (siehe die Tabelle für Tand am Ende von Kapitel 5).
 
-Your class and background determine your character's **starting equipment**, including weapons, armor, and other adventuring gear. Record this equipment on your character sheet. All such items are detailed in chapter 5.
+Dein Stärkewert begrenzt die Menge an Ausrüstung, die du tragen kannst. Versuche, Ausrüstung mit einem Gesamtgewicht (in Pfund) von weniger als dem 15-fachen deines Stärkewerts zu kaufen. Kapitel 7 „Attributswerte verwenden" enthält mehr Informationen zur Traglast. 
 
-Instead of taking the gear given to you by your class and background, you can purchase your starting equipment. You have a number of **gold pieces** (gp) to spend based on your class, as shown in chapter 5. Extensive lists of equipment, with prices, also appear in that chapter.
+### Rüstungsklasse 
 
-If you wish, you can also have one trinket at no cost (see the Trinkets table at the end of chapter 5).
+Die **Rüstungsklasse** (RK) zeigt an, wie gut dein Charakter gegen Verwundungen im Kampf geschützt ist beziehungsweise wie gut er diese vermeiden kann. Rüstung, Schild und Geschicklichkeitsmodifikator tragen zur RK bei. 
 
-Your Strength score limits the amount of gear you can carry. Try not to purchase equipment with a total weight (in pounds) exceeding your Strength score times 15. Chapter 7 has more information on carrying capacity.
+Doch nicht alle Abenteurer verwenden eine Rüstung oder einen Schild. Ohne solche Ausrüstung ist die RK deines Charakters gleich 10 + dem Geschicklichkeitsmodifikator. Falls dein Charakter eine Rüstung und/oder einen Schild trägt, berechne die RK entsprechend der Regeln in Kapitel 5. Notiere die RK auf deinem Charakterbogen. 
 
-### Armor Class
+Dein Charakter muss im Umgang mit der Rüstung oder dem Schild geübt sein (wozu ihn seine Klasse befähigt), um die Ausrüstung effektiv einsetzen zu können. Es gibt Abzüge, wenn man eine Rüstung oder einen Schild ungeübt verwendet (siehe Kapitel 5). 
 
-Your **Armor Class** (AC) represents how well your character avoids being wounded in battle. Things that contribute to your AC include the armor you wear, the shield you carry, and your Dexterity modifier. Not all characters wear armor or carry shields, however.
+Manche Zauber und Klassenmerkmale lassen dich deine RK anders berechnen. Sollte es mehrere Merkmale geben, die dich deine Rüstungsklasse auf unterschiedliche Arten berechnen lassen, kannst du wählen, welche Methode du anwendest. 
 
-Without armor or a shield, your character's AC equals 10 + his or her Dexterity modifier. If your character wears armor, carries a shield, or both, calculate your AC using the rules in chapter 5. Record your AC on your character sheet.
+### Waffen
 
-Your character needs to be proficient with armor and shields to wear and use them effectively, and your armor and shield proficiencies are determined by your class.
+Berechne für jede einzelne Waffe deines Charakters die Modifikatoren, die angewandt werden, wenn du mit der Waffe angreifst und bei einem Treffer Schaden verursachst. 
 
-There are drawbacks to wearing armor or carrying a shield if you lack the required proficiency, as explained in chapter 5.
+Führst du einen Angriff mit einer Waffe aus, würfelst du mit einem W20 und addierst deinen Übungsbonus (jedoch nur, wenn du geübt im Umgang mit der Waffe bist) sowie den entsprechenden Attributsmodifikator. 
 
-Some spells and class features give you a different way to calculate your AC. If you have multiple features that give you different ways to calculate your AC, you choose which one to use.
+- Zu Angriffs- und Schadenswürfen mit **Nahkampfwaffen** wird dein Stärkemodifikator addiert. Bei einer Waffe mit der Eigenschaft Finesse, wie dem [[Rapier-phb|Rapier]], kannst du stattdessen deinen Geschicklichkeitsmodifikator verwenden. 
+- Zu Angriffs- und Schadenswürfen mit **Fernkampfwaffen** wird dein Geschicklichkeitsmodifikator addiert. Bei einer Nahkampfwaffe mit der Eigenschaft Wurfwaffe, wie dem [[Beil-phb|Beil]], kannst du stattdessen deinen Stärkemodifikator verwenden .   
 
-### Weapons
+### Bruenor erschaffen, Schritt 5
 
-For each weapon your character wields, calculate the modifier you use when you attack with the weapon and the damage you deal when you hit.
+Bob notiert sich die Anfangsausrüstung der Klasse Kämpfer und des Hintergrunds Volksheld. Sie beinhaltet einen Kettenpanzer und einen Schild, die Bruenor eine Rüstungsklasse von 18 verleihen. 
 
-When you make an attack with a weapon, you roll a d20 and add your proficiency bonus (but only if you are proficient with the weapon) and the appropriate ability modifier.
+Als Waffen sucht sich Bob für seinen Charakter eine Streitaxt und zwei Beile aus. Die Streitaxt ist eine Nahkampfwaffe, also verwendet er Bruenors Stärkemodifikator für Angriffs- und Schadenswürfe. Sein Angriffsbonus setzt sich aus dem Stärkemodifikator (+3) und dem Übungsbonus (+2) zusammen und ergibt insgesamt +5. Die Streitaxt verursacht 1W8 Punkte Hiebschaden, zu dem Bob Bruenors Stärkemodifikator addieren darf. Insgesamt verursacht er bei einem Treffer also 1W8+ 3 Punkte Hiebschaden. Wirft Bruenor ein Beil, verfügt er über den gleichen Angriffsbonus (Beile als Wurfwaffe nutzen den Stärkemodifikator bei Angriffs- und Schadenswürfen) und die Waffe verursacht 1W6 + 3 Punkte Hiebschaden, wenn sie trifft. 
 
-- For attacks with **melee weapons**, use your Strength modifier for attack and damage rolls. A weapon that has the finesse property, such as a [rapier](/3-Mechanics/CLI/items/rapier-xphb.md), can use your Dexterity modifier instead.  
-- For attacks with **ranged weapons**, use your Dexterity modifier for attack and damage rolls. A melee weapon that has the thrown property, such as a [handaxe](/3-Mechanics/CLI/items/handaxe-xphb.md), can use your Strength modifier instead.  
+## 6. Gruppenbildung
 
-### Building Bruenor, Step 5
+Die meisten D&D-Charaktere würden als Einzelgänger nicht lange überleben, denn jeder Charakter erfüllt eine Rolle in der Abenteurergruppe - einer Gemeinschaft von Helden, die für ein gemeinsames Ziel zusammenarbeitet. Teamwork erhöht maßgeblich die Chancen eurer Gruppe, die vielen Gefahren der D&D-Welten zu überleben. Sprich mit deinen Mitspielern und deinem SL und entscheidet, ob sich eure Charaktere kennen, wie sie sich getroffen haben und welchen Aufgaben sie sich als Gruppe stellen könnten. 
 
-Bob writes down the starting equipment from the fighter class and the folk hero background. His starting equipment includes chain mail and a shield, which combine to give Bruenor an Armor Class of 18.
+![](img/c0-03.webp#center)
 
-For Bruenor's weapons, Bob chooses a battleaxe and two handaxes. His battleaxe is a melee weapon, so Bruenor uses his Strength modifier for his attacks and damage. His attack bonus is his Strength modifier (+3) plus his proficiency bonus (+2), for a total of +5.
+## Nach der 1. Stufe
 
-The battleaxe deals 1d8 slashing damage, and Bruenor adds his Strength modifier to the damage when he hits, for a total of 1d8 + 3 slashing damage. When throwing a handaxe, Bruenor has the same attack bonus (handaxes, as thrown weapons, use Strength for attacks and damage), and the weapon deals 1d6 + 3 slashing damage when it hits.
+Durch das Bestehen von Abenteuern und das Meistern von Herausforderungen gewinnt dein Charakter an Erfahrung, die durch Erfahrungspunkte dargestellt wird. Ein Charakter, der eine festgelegte Grenze von Erfahrungspunkten erreicht, verbessert sich in seinen Fähigkeiten. Dieser Fortschritt wird **Stufenaufstieg** genannt. 
 
-## 6. Come Together
+Steigt dein Charakter eine Stufe auf, verleiht ihm seine Klasse oft weitere Merkmale. Manche dieser Merkmale erlauben dir, deine Attributswerte zu steigern. In diesem Fall kannst du entweder einen Wert um 2 Punkte oder zwei Werte um je 1 Punkt erhöhen, wobei kein Attribut dadurch einen Wert von 20 übersteigen darf. Zusätzlich erhöht sich der Übungsbonus deines Charakters auf bestimmten Stufen. 
 
-Most D&D characters don't work alone. Each character plays a role within a **party,** a group of adventurers working together for a common purpose. Teamwork and cooperation greatly improve your party's chances to survive the many perils in the worlds of Dungeons & Dragons. Talk to your fellow players and your DM to decide whether your characters know one another, how they met, and what sorts of quests the group might undertake.
+Jedes Mal, wenn du eine Stufe aufsteigst, erhältst du einen zusätzlichen Trefferwürfel. Würfle mit diesem, addiere deinen Konstitutionsmodifikator zum Ergebnis und füge die Summe (mindestens 1) deinem Trefferpunktemaximum hinzu. Alternativ kannst du auch den festgelegten Wert verwenden, der in dem entsprechenden Eintrag deiner Klasse angegeben ist und der dem aufgerundeten Durchschnittsergebnis des Würfelwurfs entspricht. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c0-03.webp#center)
+Wenn sich dein Konstitutionsmodifikator um 1 erhöht, steigt gleichzeitig auch dein Trefferpunktemaximum um 1 pro Stufe, die du bereits erreicht hast. Erreicht Bruenor beispielsweise die 8. Stufe als Kämpfer und verbessert seinen Konstitutionswert von 17 auf 18, steigt dadurch auch sein Konstitutionsmodifikator von +3 auf +4. Sein Trefferpunktemaximum erhöht sich also um 8 Punkte. 
 
-## Beyond 1st Level
+Die Charakteraufstiegstabelle fasst die EP zusammen, die du für die einzelnen Stufen von 1 bis 20 benötigst, und führt den Übungsbonus an, den du auf jeder Stufe besitzt. Siehe in deiner Klassenbeschreibung nach, welche anderen Verbesserungen du mit den jeweiligen Stufen erhältst. 
 
-As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
+### Stufenbereiche
 
-When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can't increase an ability score above 20. In addition, every character's proficiency bonus increases at certain levels.
+Die farblich abgesetzten Zeilen der Charakteraufstiegstabelle markieren die vier verschiedenen Stufenbereiche des Spiels. Diese sind nicht mit bestimmten Regeln verbunden, sondern beschreiben nur generell, wie sich die Spielerfahrung mit steigender Charakterstufe verändert. 
 
-Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
+Im ersten Bereich (Stufen 1-4) sind die Charaktere Abenteurer in Ausbildung. Sie lernen die Merkmale kennen, die sie als Angehörige einer bestimmten Klasse definieren, und treffen Entscheidungen, die ihrer Klasse eine bestimmte Richtung geben (etwa die Arkanen Traditionen der Magier oder die Kampfarchetypen der Kämpfer). Die Bedrohungen, mit denen es die Gruppe aufnimmt, sind relativ gering und stellen in der Regel nur eine Gefahr für ein Dorf oder die örtlichen Gehöfte dar. 
 
-When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, when Bruenor reaches 8th level as a fighter, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+Im zweiten Bereich (Stufen 5-10) finden die Charaktere ihre Berufung. Viele Zauberwirker erhalten am Anfang dieser Phase Zugriff auf Sprüche des 3. Grades und Zaubersprüche wie [[Feuerball-phb|Feuerball]] oder [[Blitz-phb|Blitz]] werden mächtiger. Viele waffenschwingende Klassen sind nun in der Lage, mehrere Angriffe in einer Runde auszuführen. Charaktere dieses Stufenbereichs sind bedeutsam geworden und sehen sich Gefahren gegenüber, die Städte oder ganze Königreiche bedrohen. 
 
-The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
+Im dritten Bereich (Stufen 11-16) haben die Charaktere ein Ausmaß an Macht erlangt, das sie weit von der normalen Bevölkerung absetzt und sie selbst unter Abenteurern zu etwas Besonderem macht. Auf Stufe 11 bekommen viele Zauberwirker Zugang zu Zaubern des 6. Grades, von denen einige Dinge erlauben, die davor unmöglich zu erreichen waren. Andere Charaktere erhalten Merkmale, die sie mehr Angriffe ausführen oder diese mit eindrucksvollen Effekten versehen lassen. Diese mächtigen Abenteurer werden oft mit Bedrohungen für ganze Regionen oder Kontinente konfrontiert. 
 
-### Tiers of Play
+Im vierten Bereich (Stufen 17-20) erklimmen die Charaktere den Gipfel ihrer Klassenmerkmale und werden selbst zu heldenhaften (oder schurkenhaften) Archetypen. Das Schicksal der Welt oder sogar die grundlegende Ordnung des Multiversums könnte während ihrer Abenteuer in der Schwebe sein. 
 
-The shading in the Character Advancement table shows the four tiers of play. The tiers don't have any rules associated with them; they are a general description of how the play experience changes as characters gain levels.
-
-**In the first tier (levels 1-4),** characters are effectively apprentice adventurers. They are learning the features that define them as members of particular classes, including the major choices that flavor their class features as they advance (such as a wizard's Arcane Tradition or a fighter's Martial Archetype). The threats they face are relatively minor, usually posing a danger to local farmsteads or villages.
-
-**In the second tier (levels 5-10),** characters come into their own. Many spellcasters gain access to 3rd-level spells at the start of this tier, crossing a new threshold of magical power with spells such as [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) and [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md). At this tier, many weapon-using classes gain the ability to make multiple attacks in one round. These characters have become important, facing dangers that threaten cities and kingdoms.
-
-**In the third tier (levels 11-16),** characters have reached a level of power that sets them high above the ordinary populace and makes them special even among adventurers. At 11th level, many spellcasters gain access to 6th-level spells, some of which create effects previously impossible for player characters to achieve. Other characters gain features that allow them to make more attacks or do more impressive things with those attacks. These mighty adventurers often confront threats to whole regions and continents.
-
-**At the fourth tier (levels 17-20),** characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures.
-
-![Beyond 1st Level; Character Advancement](/3-Mechanics/CLI/tables/beyond-1st-level-character-advancement-phb.md)
+![[Tabellen/beyond-1st-level-character-advancement-phb#^character-advancement]]

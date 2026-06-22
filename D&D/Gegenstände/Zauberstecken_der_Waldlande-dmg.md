@@ -16,7 +16,7 @@ aliases:
 ---
 # Staff of the Woodlands
 *Staff, weapon, major, rare (requires attunement by a druid)*  
-![](/3-Mechanics/CLI/items/img/staff-of-the-woodlands.webp#right)
+![](img/staff-of-the-woodlands.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

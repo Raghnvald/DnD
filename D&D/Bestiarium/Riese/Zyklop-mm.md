@@ -17,65 +17,63 @@ tags:
 aliases:
   - Cyclops
 ---
-# [Cyclops](3-Mechanics\CLI\bestiary\giant/cyclops.md)
-*Source: Monster Manual p. 45. Available in the Basic Rules (2014)*  
+# Zyklop
+*Quelle: Monsterhandbuch S. 317. Verfügbar im Grundregelwerk (2014)*  
 
-Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
+Zyklopen sind einäugige Riesen, die ein karges Leben in der Wildnis führen. Sie sind von Natur aus einzelgängerisch und versuchen, den Kontakt zu anderen Völkern zu meiden und Fremde aus ihrem Gebiet zu vertreiben. 
 
-## Nonreligious
+## Unreligiös
 
-Legends claim that the cyclopes are the spawn of one of the gods of the giants, but these creatures pay little heed to any deities. They see little benefit in prayer and dislike ritual, which they perceive as complex and foreign. However, a cyclops that gains direct benefit from some site of divine power, or which is threatened by a supernatural force or creature, will pay homage as long as the benefit or threat remains.
+Legenden besagen, dass die Zyklopen die Brut eines der Götter der Riesen sind, doch scheren sich diese Kreaturen wenig um jegliche Gottheiten. Sie sehen wenig Nutzen in Gebeten und mögen keine Rituale, die sie als kompliziert und fremdartig ansehen. Ein Zyklop allerdings, der direkten Nutzen aus einer Stätte heiliger Macht zieht oder von einer übernatürlichen Macht oder Kreatur bedroht wird, wird Tribut zollen, solange der Nutzen oder die Bedrohung besteht. 
 
-## Unsophisticated
+## Primitiv
 
-Though they are reasonably intelligent, cyclopes live simple, reclusive lives, keeping herds of animals for food. They prefer to dwell alone or in small family groups, lairing in caves, ruins, or rough structures of dry stone construction they build themselves. A cyclops keeps its herd animals with it at night, sealing the entrance to its home with boulders to let it serve double duty as a barn.
+Auch wenn sie halbwegs intelligent sind, führen Zyk· lopen einfache, zurückgezogene Leben. Aus Nahrungszwecken halten sie Herden von Tieren. Sie ziehen es vor, allein oder in kleinen Familiengruppen zu leben und hausen in Höhlen, Ruinen oder grobschlächtigen Steinbauten, die sie selbst errichtet haben. Zyklopen halten ihre Herdentiere in der Nacht in ihrer Nähe, indem sie den Eingang in ihre Behausung mit einem Felsen versiegeln, sodass diese auch gleichzeitig als Scheune dient.
 
-A cyclops lairs within a day's journey of other cyclopes, so that they can meet to trade goods or seek mates. They craft weapons and tools of wood and stone, but will use metal when they can find it. Although cyclopes understand the Giant tongue, they write nothing and speak little, using grunts and gestures for their interactions with each other. Cyclopes don't use money for trade, but they value gold, shells, and other glittering and colorful objects as jewelry. A cyclops might wear a necklace strung with feathers and silver coins, but also with pewter goblets, cutlery, and other bits of ruined metal.
+Zyklopen hausen innerhalb einer Tagesreise zu anderen Zyklopen, sodass sie sich treffen können, um zu handeln oder Partner zu finden. Sie erschaffen Waffen und Werkzeuge aus Holz und Stein, doch verwenden sie Metall, wenn sie es finden können. Auch wenn Zyklopen die Riesensprache verstehen, schreiben sie nicht und sprechen nur wenig. Sie nutzen Grunzlaute und Gesten für ihre Interaktionen miteinander. 
 
-## Unwise
+Zyklopen nutzen beim Handeln untereinander kein Geld, doch schätzen sie Gold, Muscheln und andere glitzernde und farbenfrohe Gegenstände als Schmuck. Ein Zyklop trägt vielleicht eine Halskette, an der Federn und Silbermünzen hängen, zusammen mit Zinnbechern, Besteck und anderem Metallschrott. 
 
-Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their traditional ways, they find innovation difficult. Although they are a terrifying threat in combat due to their size and strength, they can often be tricked by clever foes. Cyclopes can be cowed and awed by obvious displays of magic. Rustics with little exposure to magic, they can be deceived into mistaking a warlock, cleric, or other caster for a powerful divine figure. However, their sense of pride causes them to react with vengeful, bloodthirsty violence once they learn that the individual they assumed was a "god" is a mere mortal.
+## Unklug
 
-```statblock
-"name": "Cyclops"
-"size": "Huge"
-"type": "giant"
-"alignment": "Chaotic Neutral"
-"ac": !!int "14"
-"ac_class": "natural armor"
-"hp": !!int "138"
-"hit_dice": "12d12 + 60"
-"modifier": !!int "0"
-"stats":
-  - !!int "22"
-  - !!int "11"
-  - !!int "20"
-  - !!int "8"
-  - !!int "6"
-  - !!int "10"
-"speed": "30 ft."
-"senses": "passive Perception 8"
-"languages": "Giant"
-"cr": "6"
-"traits":
-  - "desc": "The cyclops has disadvantage on any attack roll against a target more\
-      \ than 30 feet away."
-    "name": "Poor Depth Perception"
-"actions":
-  - "desc": "The cyclops makes two greatclub attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
-    "name": "Greatclub"
-  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:*\
-      \ 28 (4d10 + 6) bludgeoning damage."
-    "name": "Rock"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/cyclops.webp"
-```
-^statblock
+Zyklopen sind keine großen Denker oder Strategen. Sie lernen langsam und halten sich an ihre traditionelle Lebensweise, sodass ihnen Innovation schwerfällt. Auch wenn sie im Kampf aufgrund ihrer Größe und Stärke eine schreckliche Gefahr darstellen, können sie oft von schlauen Gegnern ausgetrickst werden. 
 
-## Environment
+Zyklopen können durch offensichtliche Zurschaustellung von Magie eingeschüchtert und in Ehrfurcht versetzt werden. Als Landeier, die mit Magie wenig zu tun haben, können sie leicht davon überzeugt werden, dass ein Hexenmeister, ein Kleriker oder ein anderer Zauberwirker eine machtvolle göttliche Wesenheit ist. Allerdings sorgt ihr Stolz dafür, dass sie mit rachsüchtiger, blutrünstiger Gewalt reagieren, wenn sie erfahren, dass eine Person, die sie für einen „Gott" hielten, nur ein Sterblicher ist. 
 
-underdark, mountain, grassland, hill, desert, coastal
+> [!statblock] Zyklop
+> ![[token/cyclops.webp|right|100]]
+> *Riesiger Riese, Chaotisch Neutral*
+> 
+> - **Rüstungsklasse** 14 (natürliche Rüstung)
+> - **Trefferpunkte** 138 (`12d12 + 60`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 22 (+6)|11 (+0)|20 (+5)|8 (-1)|6 (-2)|10 (+0)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** ⏤
+> - **Sinne** passive Wahrnehmung 8
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** - <br><br>
+> - **Sprachen** Riesisch
+> - **Herausforderungsgrad** 6 (2.300 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Schlechte Tiefenwahrnehmung.*** Der Zyklop erleidet einen Nachteil auf alle Angriffswürfe gegen Ziele, die mehr als 9 m entfernt sind. 
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Der Zyklop führt zwei Angriffe mit seiner Zweihandkeule durch. 
+> 
+> ***Zweihandkeule.*** *Nahkampf-Waffenangriff:* +9 zum Treffen, Reichweite 3 Meter, ein Ziel. *Treffer:* 19 (`3d8 + 6`) Wuchtschaden.
+> 
+> ***Fels.*** *Fernkampf-Waffenangriff:* +9 zum Treffen, Reichweite 9/36 Meter, ein Ziel. *Treffer:* 28 (`4d10 + 6`) Wuchtschaden.
+
+## Vorkommen
+
+Berg, Grasland, Hügel, Küste, Unterreich, Wüste

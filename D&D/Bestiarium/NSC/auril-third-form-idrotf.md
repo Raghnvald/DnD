@@ -142,6 +142,6 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     "name": "Blinding Gleam (Costs 2 Actions)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/auril-third-form-idrotf.webp"
+"image": "token/auril-third-form-idrotf.webp"
 ```
 ^statblock

@@ -143,6 +143,8 @@ Bezeichnung: DND Formatierung
 
 ![](image.webp#token)
 
+<img src="image.webp" align="right" width="150">
+
 ```encounter-table
 name: V2 - Die Tür öffnen
 party: Default

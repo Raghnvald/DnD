@@ -7,7 +7,7 @@ tags:
 aliases:
   - Human
 ---
-# Human
+# Mensch
 *Source: Player's Handbook p. 29. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](/3-Mechanics/CLI/races/img/human.webp#right)
 

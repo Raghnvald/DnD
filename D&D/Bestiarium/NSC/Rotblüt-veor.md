@@ -3,7 +3,6 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Redbud
 image: token/redbud-veor.webp
-Image: token/redbuld-veor.webp
 status: WIP
 linter-yaml-title-alias: Redbud
 tags:

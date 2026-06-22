@@ -1,13 +1,13 @@
 ---
-Bezeichnung: Brunnen der vielen Welten
+Bezeichnung: "Brunnen der vielen Welten "
 Kategorie: Wundersamer Gegenstand
-linter-yaml-title-alias: Well of Many Worlds
+linter-yaml-title-alias: "Brunnen der vielen Welten "
 tags:
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Well of Many Worlds
+  - "Brunnen der vielen Welten "
 ---
 # Brunnen der vielen Welten 
 *Wundersamer Gegenstand, legendär*  

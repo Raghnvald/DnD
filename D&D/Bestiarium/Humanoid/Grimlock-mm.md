@@ -12,79 +12,64 @@ tags:
 aliases:
   - Grimlock
 ---
-# [Grimlock](3-Mechanics\CLI\bestiary\humanoid/grimlock.md)
+# Grimlock
 *Source: Monster Manual p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
+Die degenerierten, unterirdischen Grimlocks waren einst Menschen, doch ihre Anbetung der Gedankenschinder über Generationen hinweg, die sie im Unterreich verbracht haben, hat sie vor langer Zeit in blinde, monströse Kannibalen verwandelt. 
 
-## Debased Cultists
+## Verkommene Kultisten
 
-The empire of the mind flayers once spread across many worlds, enslaving countless races. Among those were human cultures whose high priests the mind flayers subverted using their insidious powers of thought control. Those leaders gradually turned the faiths of their followers toward the illithids, which they worshiped as blasphemous deities.
+Das Imperium der Gedankenschinder breitete sich einst über viele Welten aus und versklavte zahllose andere Völker. Unter ihnen waren auch menschliche Kulturen, deren Hohepriester von den Gedankenschindern mit ihrer hinterhältigen Macht der Gedankenkontrolle unterwandert wurden. Diese Anführer richteten den Glauben ihrer Anhänger langsam auf die Illithiden aus, die sie als blasphemische Gottheiten anbeteten. 
 
-Over time, the rituals of these enslaved humans created fervent cannibal cults that regarded the brain eating of the mind flayers as a holy sacrament. The illithids commanded their worshipers to abduct other sentient creatures to be sacrificed. After the victims' brains had been consumed, the mind flayers gave the lifeless bodies to the cultists.
+Im Lauf der Zeit erschufen die Riten dieser versklavten Menschen fanatische Kannibalenkulte, die das Verzehren der Gehirne durch die Gedankenfresser als heiliges Sak;:ament betrachteten. Die Illithiden befahlen ihren Anhängern, andere denkende Kreaturen zu fangen, um sie zu opfern. Nachdem die Gehirne der Opfer verzehrt worden waren, gaben die Gedankenschinder den Kultisten die leblosen Leiber. 
 
-## Blind Hunters
+## Blinde Jäger
 
-When the rule of the mind flayers crumbled, their cults faced constant warfare from their enemies, the same creatures that had once been their victims. The cults fled into the Underdark domains of their illithid gods. Over generations in that lightless realm, the cultists learned to rely on their other senses for survival. In time, their eyes withered away and eyelids sealed, leaving only covered eye sockets behind.
+Als die Herrschaft der Gedankenschinder zusammenbrach, wurden ihre Kulte von ihren Feinden, den Kreaturen, die einst ihre Opfer gewesen waren, in anhaltende Kriege verwickelt. Die Kulte flüchteten ins Unterreich, in die Domänen ihrer Illithid-Götter. Im Lauf der Generationen, die sie in diesem lichtlosen Reich verbrachten, lernten die Kultisten, sich auf ihre übrigen Sinne zu verlassen, um zu überleben. Irgendwann verdorrten ihre Augen, und ihre Augenlider wuchsen zu, sodass nur bedeckte Augenhöhlen blieben. 
 
-A grimlock's ears prick up at the faintest footfall or whisper echoing down stone passageways. It can speak in tones too low for most other humanoids to hear. The odors of sweat, flesh, and blood awaken its hunger, and it can track by such scents like a bloodhound. To enhance their senses, grimlocks leave trails of blood, piles of dung, or the viscera of slain prey in places far from their lairs. When intruders pass through those areas, they carry the foul scents with them, warning the grimlocks of their approach.
+Die Ohren eines Grimlocks werden beim leisesten Schritt oder Flüstern, das durch steinerne Tunnel hallt, hellhörig. Sie können so leise reden, dass die meisten Humanoiden sie nicht hören können. Der Geruch von Schweiß, Fleisch und Blut macht sie hungrig, und sie können wie ein Bluthund mit dem Geruchssinn Spuren verfolgen. Um ihre Sinne zu verbessern, lassen Grimlocks Fährten aus Blut, Haufen aus Dung oder die Eingeweide getöteter Beute an Orten weit von ihren Behausungen entfernt zurück. Wenn Eindringlinge diese Gebiete durchqueren, tragen sie diese üblen Gerüche mit sich und warnen so die Grimlocks, dass sie näher kommen. 
 
-For most creatures, blindness is an enormous hindrance. For a grimlock with its other heightened senses, sightlessness is a boon. A grimlock isn't fooled by visual illusions or misperceptions. It is fearless as it stalks prey.
+Für die meisten Kreaturen ist Blindheit eine extreme Einschränkung. Für einen Grimlock mit seinen scharfen Sinnen ist die Blindheit ein Segen. Grimlocks können nicht durch visuelle Illusionen oder falsche Wahrnehmungen getäuscht werden. Sie sind absolut furchtlos, wenn sie ihre Beute verfolgen. 
 
-## Endless War
+## Endlose Kriege
 
-Grimlocks still venerate the mind flayers, serving them whenever possible. Grimlocks also recall the war in which they were driven underground. To them, it has never ended. They continue to return to the surface world to abduct captives for their illithid masters.
+Grimlocks verehren noch immer die Gedankenschinder und dienen ihnen, wenn es möglich ist. Grimlocks erinnern sich auch an den Krieg, in dem sie unter die Erde getrieben wurden. Für sie hat er niemals aufgehört. Sie kehren noch immer an die Oberflächenwelt zurück, um Gefangene für ihre Illithid-Meister zu machen. 
 
-```statblock
-"name": "Grimlock"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "grimlock"
-"alignment": "Neutral Evil"
-"ac": !!int "11"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"modifier": !!int "1"
-"stats":
-  - !!int "16"
-  - !!int "12"
-  - !!int "12"
-  - !!int "9"
-  - !!int "8"
-  - !!int "6"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
-    "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
-    "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
-    "desc": "+3"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. or 10 ft. while\
-  \ deafened (blind beyond this radius), passive Perception 13"
-"languages": "Undercommon"
-"cr": "1/4"
-"traits":
-  - "desc": "The grimlock can't use its blindsight while [deafened](/3-Mechanics/CLI/conditions.md#Deafened)\
-      \ and unable to smell."
-    "name": "Blind Senses"
-  - "desc": "The grimlock has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks that rely on hearing or smell."
-    "name": "Keen Hearing and Smell"
-  - "desc": "The grimlock has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
-      \ checks made to hide in rocky terrain."
-    "name": "Stone Camouflage"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) bludgeoning damage plus 2 (1d4) piercing damage."
-    "name": "Spiked Bone Club"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/grimlock.webp"
-```
+> [!statblock] Grimlock
+> ![[token/grimlock.webp|right|100]]
+> Mittelgroßer Humanoid (Grimlock), Neutral Böse*
+> 
+> - **Rüstungsklasse** 11
+> - **Trefferpunkte** 11 (`2d8 + 2`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 16 (+3)|12 (+1)|12 (+1)|9 (-1)|8 (-1)|6 (-2)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** [[Fertigkeiten-phb#Athletik|Athletik]] +5, [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]] +3, [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +3
+> - **Schadensresistenzen** ⏤
+> - **Schadensimmunitäten** ⏤
+> - **Zustandsimmunitäten** Blind
+> - **Sinne** [[Sinne-phb#Blindsicht|Blindsicht]] 9 m, oder 3 m, wenn taub (darüber hinaus blind), passive Wahrnehmung 13 
+> - **Sprachen** Gemeinsprache der Unterreiche
+> - **Herausforderungsgrad** 1/4 (50 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Blinde Sinne.*** Der Grimlock kann seine Blindsicht nicht verwenden, solange er taub ist und nicht riechen kann. 
+> 
+> ***Scharfes Gehör und scharfer Geruchssinn.*** Der Grimlock erhält einen Vorteil bei Würfen auf Weisheit ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]), die mit dem Gehör und Geruchssinn zusammenhängen. 
+> 
+> ***Steintarnung.*** Der Grimlock hat einen Vorteil bei Würfen auf Geschicklichkeit ([[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]), wenn er sich in felsigem Gelände verstecken möchte. 
+> 
+> ## Aktionen
+> 
+> ***Stachelige Knochenkeule.*** *Nahkampf-Waffenangriff:* +5 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 5 (`1d4 + 3`) Wuchtschaden plus 2 (`1d4`) Stichschaden.
 ^statblock
 
-## Environment
+## Vorkommen
 
-underdark
+Unterreich

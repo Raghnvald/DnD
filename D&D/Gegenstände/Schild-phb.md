@@ -19,7 +19,7 @@ aliases:
   - Shield
 ---
 # Schild
-*Rüstung ([Schild](Gegenstände/Schild.md))*  
+*Rüstung ([Schild](Gegenstände/Schild-phb.md))*  
 
 - **Rüstungsklasse**: 2
 - **Kosten**: 10 GM

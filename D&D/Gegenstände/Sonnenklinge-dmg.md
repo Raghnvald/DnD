@@ -12,8 +12,8 @@ aliases:
   - Sun Blade
 ---
 # Sun Blade
-*Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/sun-blade.webp#right)
+*Weapon ([Langschwert](Langschwert-phb)), major, rare (requires attunement)*  
+![](img/sun-blade.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 radiant

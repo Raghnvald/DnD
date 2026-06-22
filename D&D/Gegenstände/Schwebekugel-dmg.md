@@ -10,8 +10,8 @@ aliases:
   - Schwebekugel
 ---
 # Schwebekugel
-*Wundersamer Gegenstand, ungewöhnlich*  
-![](img/driftglobe.webp#right)
+*Wundersamer Gegenstand, ungewöhnlich*
+<img src="driftglobe.webp" align="right" width="150">
 
 - **Gewicht**: 0,5 kg.
 

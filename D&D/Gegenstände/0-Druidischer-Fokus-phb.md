@@ -18,6 +18,6 @@ aliases:
 - [[Eibenzauberstab-phb|Eibenzauberstab]]
 - [[Holzstab-phb|Holzstab]]
 - [[Mistelzweigsprössling-phb|Mistelzweigsprössling]]
-- [[Totem-phb]]
+- [[Totem-phb|Totem]]
 
 *Quelle: Spielerhandbuch S. 151*

@@ -19,7 +19,7 @@ aliases:
 ---
 # Dragon Slayer
 *Major, rare*  
-![](/3-Mechanics/CLI/items/img/dragon-slayer.webp#right)
+![](img/dragon-slayer.webp#right)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

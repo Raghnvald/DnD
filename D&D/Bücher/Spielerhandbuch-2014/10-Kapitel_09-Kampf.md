@@ -343,7 +343,7 @@ Using the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, you can make a sp
 
 The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you either knock the target [prone](/3-Mechanics/CLI/conditions.md#Prone) or push it 5 feet away from you.
 
-## Cover
+## Deckung
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
 

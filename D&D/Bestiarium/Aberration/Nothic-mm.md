@@ -3,7 +3,6 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nothic
 Kategorie: Aberration
-Typ:
 Größe: Mittelgroß
 HG: 2
 Habitat:
@@ -52,7 +51,7 @@ Nothics sind dafür berüchtigt, in arkane Akademien und andere Orte, die reich 
 > 
 > |STR|GES|KON|INT|WEI|CHA|
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | 14 (+-)|16 (+-)|16 (+-)|13 (+-)|10 (+-)|8 (+-)|
+> | 14 (+2)|16 (+3)|16 (+3)|13 (+1)|10 (+0)|8 (-1)|
 > 
 > - **Rettungswürfe** ⏤
 > - **Fertigkeiten** Arkane Kunde +3, Heimlichkeit +5, Motiv erkennen +4, Wahrnehmung +2

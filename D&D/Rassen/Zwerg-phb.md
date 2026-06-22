@@ -7,7 +7,7 @@ tags:
 aliases:
   - Dwarf
 ---
-# Dwarf
+# Zwerg
 *Source: Player's Handbook p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](/3-Mechanics/CLI/races/img/dwarf.webp#right)
 

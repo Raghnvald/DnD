@@ -1,180 +1,179 @@
 ---
-Bezeichnung: "Chapter 3: The Lambent Zenith's Last Voyage"
-linter-yaml-title-alias: "Chapter 3: The Lambent Zenith's Last Voyage"
+Bezeichnung: "Kapitel 3: Die letzte Reise des Züngelzenit"
+linter-yaml-title-alias: "Kapitel 3: Die letzte Reise des Züngelzenit"
 tags:
   - Quelle/5e/veor
 aliases:
-  - "Chapter 3: The Lambent Zenith's Last Voyage"
-  - Chapter 3: The Lambent Zenith's Last Voyage
+  - "Kapitel 3: Die letzte Reise des Züngelzenit"
 ---
-# Chapter 3: The Lambent Zenith's Last Voyage
-*Source: Vecna: Eve of Ruin* 
+# Kapitel 3: Die letzte Reise des Züngelzenit
+*Quelle: Vecna: Vorabend der Verdammnis* 
 
-![The spelljamming ship Lamb...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/046-03-001-the-lambent-zenith.webp#center "The spelljamming ship Lambent Zenith was carrying a piece of the rod before the ship crashed in the Astral Sea")
+![Das Spelljammer-Schiff Züngelzenit war mit einem Teil des Stabs unterwegs, ehe es in die Astralsee stürzte.](Vecna-Vorabend_der_Verdammnis/img/046-03-001-the-lambent-zenith.webp#center)
 
-The hunt for the second piece of the Rod of Seven Parts brings the characters to the starry void of the Astral Plane. Within its silvery depths, alien predators lurk in silence and fallen gods lie in stasis. Adventurers known across the multiverse as spelljammers gallivant through space in ships powered by magic.
+Die Jagd nach dem zweiten Teil des Stabs der Sieben Teile führt die Charaktere in die sternübersäte Leere der Astralebene. In ihren silbrigen Tiefen lauern leise fremdartige Raubkreaturen, während gefallene Götter reglos wie in Stase liegen. Abenteurer, die im Multiversum als Spelljammer bekannt sind, stoßen auf magisch angetriebenen Schiffen in den Raum vor
 
-In this chapter, the characters search the Astral Sea for the second rod piece. The characters need to explore the wreckage of a spelljamming ship called the *Lambent Zenith*, then retrieve the rod piece from a dragon-like creature that guards it inside the heart of a fallen god.
+In diesem Kapitel suchen die Charaktere in der Astralsee nach dem zweiten Stabteil. Sie müssen das Wrack eines Spelljammer-Schiffs namens *Züngelzenit* erkunden und das Stabteil einer drachenhaften Kreatur abnehmen, die ihn im Herzen eines gefallenen Gottes bewacht.
 
-## Running the Adventure
+## Dieses Kapitel leiten
 
-This chapter begins after the characters retrieve the first piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). A character who holds that piece knows instinctively that the next piece is in the part of the Astral Plane called the Astral Sea. As Mordenkainen previously explained, the portal in the Sigil sanctum leads to the general area of the rod piece the characters seek.
+Dieses Kapitel beginnt, nachdem die Charaktere das erste Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] erlangt haben. Ein Charakter, der das Teil hält, weiß instinktiv, dass das nächste sich in der Astralsee auf der Astralebene befindet. Wie Mordenkainen schon erklärt hat, führt das Portal im Heiligtum in Sigil zur allgemeinen Gegend des Stabteils, das die Charaktere suchen.
 
-### Features of the Astral Sea
+### Merkmale der Astralsee
 
-In the Astral Sea, time is meaningless, and creatures can survive there indefinitely without food or drink.
+In der Astralsee ist Zeit ohne Bedeutung, und Kreaturen können dort unbegrenzt lange ohne Nahrung und Wasser überleben.
 
-The locations explored within this chapter are a small fraction of what can be found in the Astral Sea. As such, the guidance here focuses on information relevant to the chapter's contents.
+Die Orte, die im Rahmen dieses Kapitels erkundet werden, sind nur ein kleiner Teil dessen, was es in der Astralsee zu finden gibt. Daher konzentrieren sich die Ratschläge hier auf Informationen, die für den Inhalt des Kapitels relevant sind.
 
-#### Air
+#### Bewegung
 
-The Astral Plane contains breathable, comfortable air. Unless otherwise stated, creatures can breathe normally.
+Es nutzen zwar viele Kreaturen Spelljammer-Schiffe oder andere Fahrzeuge, um die Astralsee zu überqueren, doch eigentlich ist kein Fahrzeug erforderlich. In der Astralsee können Reisende sich durch reine Gedankenkraft bewegen. Eine Kreatur kann sich in jede Richtung mit einer Flugbewegungsrate von 1,5 Meter x Intelligenzwert der Kreatur bewegen.
 
-#### Gravity
+#### Luft
 
-The characters are in an area of normal gravity during this chapter.
+Die Astralebene enthält Luft, die sich komfortabel atmen lässt. Kreaturen können normal atmen, sofern nicht anders vermerkt.
 
-#### Movement
+#### Schwerkraft
 
-Though many creatures use spelljamming ships or other vessels to traverse the Astral Sea, a vehicle isn't required. In the Astral Sea, a traveler can propel themself by thought alone. A creature can move in any direction at a flying speed in feet equal to 5 × its Intelligence score.
+Die Charaktere befinden sich in diesem Kapitel in einem Bereich von normaler Schwerkraft.
 
-### Character Advancement
+### Charakterentwicklung
 
-The characters should be 12th level when this chapter begins. The characters gain a level after they retrieve the [second piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from the hertilod.
+Die Charaktere sollten die 12. Stufe erreicht haben, wenn dieses Kapitel beginnt. Sie steigen eine Stufe auf, wenn sie das zweite Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] vom [[Hertilod-veor|Hertilod]] errungen haben.
 
-### Power of Secrets
+### Macht der Geheimnisse
 
-The characters can learn two secrets in this chapter that are applicable to the rules in "The Power of Secrets" section in this book's introduction:
+Die Charaktere können in diesem Kapitel zwei Geheimnisse erfahren, für die die Regeln im Abschnitt „Die Macht der Geheimnisse" in der Einführung dieses Buchs gelten:
 
-- **Figaro's Secret.** Figaro, the tiefling first mate of the Lambent Zenith, knew about the dangers of the portion of the Astral Sea the ship was passing through but deliberately hid this information from the captain. The characters can learn his secret in area Z8 of the ship's wreckage.  
-- **Ikasa's Secret.** The blink dog Ikasa knows about another survivor of the pirate attack that stranded him and his best friend, the elf Daveras. The characters can learn this secret in area Z12 of the ship's wreckage.  
+- **Figaros Geheimnis.** Der Tiefling [[Figaro-veor|Figaro]], Erster Offizier der Züngelzenit, wusste um die Gefahren in jenem Teil der Astralsee, den das Schiff durchreiste, verschwieg sie dem Kapitän jedoch. Die Charaktere können sein Geheimnis in Bereich Z8 des Schiffswracks erfahren.
+- **Ikasas Geheimnis.** Der [[Flimmerhund-mm|Flimmerhund]] Ikasa weiß von einem weiteren Überlebenden des Piratenangriffs, der ihn und seinen besten Freund, den Elfen Daveras, stranden ließ. Die Charaktere können dieses Geheimnis in Bereich Z12 des Schiffswracks erfahren.
 
-### Second Rod Piece
+### Zweites Stabteil
 
-The second piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is inside the hertilod in area A2 in the "Heart of Havock" section later in this chapter. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+Das zweite Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] befindet sich im [[Hertilod-veor|Hertilod]] in Bereich H2 (siehe Abschnitt „Herz von Havock" weiter hinten in diesem Kapitel). Weitere Informationen zum Stab und dem Zauber, den dieses Teil dem Träger zu wirken ermöglicht, findest du in der Einführung dieses Buchs.
 
-## A Doorway to Space
+## Ein Tor zum Raum
 
-When the characters are ready to continue their adventure, they can step through the portal in the Sigil sanctum and emerge on the Astral Plane in the Astral Sea. Like with the first rod piece, the portal opens near where the second piece is located, but it's up to the characters to find exactly where the piece is ensconced.
+Wenn die Charaktere bereit sind, ihr Abenteuer fortzusetzen, können sie durch das Portal im Heiligtum in Sigil treten und erscheinen auf der Astralebene in der Astralsee. Wie beim ersten Stabteil bringt das Portal sie in die Nähe des zweiten Teils, doch den genauen Fundort müssen sie selbst entdecken.
 
-### The Astral Plane
+### Die Astralebene
 
-By researching in the Sigil sanctum or talking with the wizards, the characters can learn the following information about the Astral Plane and the Astral Sea:
+Durch Nachforschungen im Heiligtum in Sigil oder in Gesprächen mit den Magiern können die Charaktere Folgendes über die Astralebene und die Astralsee erfahren:
 
-- **Planar Nature.** The Astral Sea is in the Astral Plane, which is colloquially known as the realm of thought and dream. Creatures can propel themselves through the plane by merely thinking about moving in a specific direction. Creatures can also traverse the Astral Plane using vessels called spelljamming ships.  
-- **Dead Gods.** Scattered throughout the Astral Sea are the remains of dead and dying gods who are here either because they were forgotten by their worshipers or slain at the hands of more powerful entities.  
+- **Planare Natur.** Die Astralsee befindet sich auf der Astralebene, welche gemeinhin als Reich der Gedanken und Träume bekannt ist. Kreaturen können sich auf dieser Ebene fortbewegen, indem sie einfach daran denken, sich in eine bestimmte Richtung zu bewegen. Sie können die Astralebene auch mit Fahrzeugen durchqueren, den Spelljammer-Schiffen.
+- **Tote Götter.** In der Astralsee befinden sich die Überreste toter und sterbender Götter, die entweder hier sind, weil sie von ihren Anhängern vergessen wurden, oder weil sie von noch mächtigeren Wesenheiten getötet wurden.
 
-If the characters ask about the location the rod piece points to, Alustriel determines that the dying god Havock is near the piece.
+Wenn die Charaktere nach dem Ort fragen, auf den das Stabteil hindeutet, stellt Alustriel fest, dass der sterbende Gott Havock sich in der Nähe des Teils befindet
 
-- **Havock.** Havock's petrified form is hundreds of miles long and weighs thousands of tons. It once had eight legs and two heads that each held a single, unblinking eye, but as Havock lost worshipers and power over millennia, its legs and heads snapped off, destined to drift forever in the Astral Sea.  
-- **Timelessness.** Time has no meaning on the Astral Plane. Creatures on the Astral Plane don't age or experience hunger or thirst.  
+- **Havock.** Havocks versteinerte Gestalt ist Hunderte von Kilometern groß und wiegt Tausende von Tonnen. Einst hatte er acht Beine und zwei Köpfe mit jeweils einem einzelnen starrenden Auge, doch als Havock im Laufe der Jahrtausende seine Anhänger und seine Macht verlor, brachen seine Beine und Köpfe ab und sind nun dazu verdammt, auf ewig durch die Astralsee zu treiben.
+- **Zeitlosigkeit.** Zeit ist auf der Astralebene ohne Bedeutung. Kreaturen auf der Astralebene altern nicht und haben weder Hunger noch Durst.
 
-## Into the Astral Sea
+## In die Astralsee
 
-![The Astral Sea is home to ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/047-03-002-star-anglers.webp#center "The Astral Sea is home to many terrifying predators, including star anglers")
+![In der Astralsee gibt es viele grausige Raubkreaturen, auch Sternangler](Vecna-Vorabend_der_Verdammnis/img/047-03-002-star-anglers.webp#center)
 
-When the characters step through the portal to the Astral Sea to pursue the second rod piece, read or paraphrase the following:
+Wenn die Charaktere durch das Portal in die Astralsee gelangen, um das zweite Stabteil zu bergen, lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
-> You step through the doorway and enter a silver-clouded void. Lucent wisps of white and gray fog swirl in the distance among pinpricks of starlight. For a split second, you have no sense of direction. Then, you start plummeting. The silver clouds shift, and you see that you're falling toward a colossal, misshapen mass.
+> Ihr tretet durch das Tor in eine leere mit silbrigen Wolken. Weiße und graue leuchtende Nebelstreifen wirbeln in der Ferne, dazwischen seht ihr punktgroße Sterne. Einen Augenblick lang kommt euch jeder Richtungssinn abhanden. Dann beginnt ihr zu fallen. Die silbrigen Wolken ziehen an euch vorbei, und ihr seht, dass ihr auf eine gigantische unförmige Masse zustürzt.
 ^141
 
-The characters emerge from a free-floating doorway on the Astral Plane. On passing through, the characters are subject to the gravity field that extends from the stony mass they're falling toward: the petrified body of a dying god called Havock. The characters can immediately propel themselves using their thoughts as described in the "Movement" section earlier in this chapter.
+Die Charaktere treten aus einem schwebenden Tor auf die Astralebene. Ist dies geschehen, wirkt ein Gravitationsfeld auf die Charaktere, das von der steinernen Masse ausgeht, auf welche sie zustürzen: der versteinerte Körper des sterbenden Gottes Havock. Die Charaktere können sich sofort fortbewegen wie unter „Bewegung" weiter vorne in diesem Kapitel beschrieben.
 
-The character holding the rod piece divines that the next rod piece is located within the stony mass. The doorway is anchored approximately 1 mile from the mass's surface.
+Der Charakter, der das Stabteil hält, spürt, dass sich das nächste Stabteil innerhalb dieser Gesteinsmasse befindet. Das Tor ist etwa 1,6 Kilometer von deren Oberfläche entfernt.
 
-### Stalkers in the Stars
+### Verfolger in den Sternen
 
-As the characters move toward the mass, something follows them. Read or paraphrase the following:
+Als die Charaktere sich auf die Masse zubewegen, werden sie verfolgt. Lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
-> Amid the clouds, two large globes of light bob toward you.
+> Inmitten der Wolken seht ihr zwei große Lichtkugeln, die auf euch zutanzen.
 ^143
 
-Characters can make a DC 18 Wisdom (Perception) check. On a successful check, a character notices a large, anglerfish-shaped outline following each bobbing light—two hungry [star anglers](/3-Mechanics/CLI/bestiary/monstrosity/star-angler-veor.md) (see appendix A) are stalking the party. The star anglers attack immediately.
+Die Charakter können einen `SG-18-Weisheitswurf` ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) ausführen. Bei einem Erfolg bemerkt ein Charakter hinter den tanzenden Lichtern jeweils einen Anglerfisch-förmigen Umriss - zwei hungrige [[Sternangler-veor|Sternangler]] verfolgen die Abenteurergruppe. Die [[Sternangler-veor|Sternangler]] greifen sofort an.
 
-Once the star anglers are dispatched, the characters can continue on to the surface of the dying god, where the wreckage of the *Lambent Zenith* lies.
+Wenn die [[Sternangler-veor|Sternangler]] besiegt sind, können die Charaktere sich zur Oberfläche des sterbenden Gottes begeben, wo das Wrack der Züngelzenit liegt.
 
-## Wreck of the Lambent Zenith
+## Das Wrack der Züngelzenit
 
-With its navy-blue hull and golden gossamer sails, the spelljamming galleon *Lambent Zenith* once cut an elegant silhouette through the Astral Sea's silver clouds. Its captain, the deva Inda Malayuri, was an arcanist and emissary tasked with guiding the lost and bringing peace to tumultuous worlds. During a voyage, Inda uncovered a piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md).
+Die Spelljammer-Galeone Züngelzenit mit ihrem marineblauen Rumpf und den goldenen hauchzarten Segeln war einst eine elegante Silhouette in den silbrigen Wolken der Astralsee. Ihr Kapitän, die Deva Inda Malayuri, war Arkanistin und Gesandte mit dem Auftrag, die Verlorenen zu führen und den Welten in Aufruhr Frieden zu bringen. Auf einer der Reisen entdeckte Inda ein Teil des Stabs der Sieben Teile.
 
-Using her extensive arcane knowledge, Inda harnessed the magic within the rod piece to augment the *Lambent Zenith*, allowing the ship to travel to the farthest corners of the multiverse in the blink of an eye.
+Dank ihres umfassenden arkanen Wissens konnte sie die Magie des Stabteils für die Züngelzenit nutzen, welche fortan in der Lage war, jeden Winkel des Multiversums im Nu zu erreichen.
 
-But the *Lambent Zenith*'s expedition screeched to a halt when it encountered a dying god of chaos named Havock drifting through the Astral Sea. The latent chaos magic around Havock twisted the ship's capabilities; the *Lambent Zenith* was ripped asunder, and its prow plunged into Havock's heart.
+Doch die Expedition fand ein jähes Ende, als die Züngelzenit Havock begegnete, dem sterbenden Gott des Chaos, der durch die Astralsee treibt. Die latente Chaosmagie um Havock wirkte auf die Fähigkeiten des Schiffs. Die Züngelzenit wurde zerrissen, und ihr Bug stürzte in Havocks Herz.
 
-When the characters approach Havock and the wreckage (shown on map 3.1), read or paraphrase the following:
+Wenn die Charaktere sich Havock und dem Wrack (siehe Karte 3.1) nähern, lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
-> The stony mass isn't a planet or an asteroid, but a colossal creature that appears lifeless. Shattered ribs arch over the creature's mossy spine, and the air crackles with decaying magic.
+> Die Steinmasse ist weder ein Planet noch ein Asteroid, sondern eine kolossale Kreatur, die augenscheinlich leblos ist. Über die moosbewachsene Wirbelsäule wölben sich zerschmetterte Rippen. Die Luft knistert vor zerfallender Magie.
 > 
-> Among the bones is the shipwreck of a large galleon broken into three large chunks: the sterncastle, nestled in the corpse's hip bones; the starboard section, embedded in the ribcage; and the prow, stabbed into the creature's heart.
+> Inmitten der Knochen befindet sich das Wrack einer großen Galeone. Diese ist in drei große Teile zerbrochen: Das Achterdeck liegt in den Hüftknochen der Kreatur, das Steuerbordsegment steckt im Brustkorb, und der Bug hat sich ins Herz der Kreatur gebohrt.
 ^145
 
-The *Lambent Zenith* broke into three distinct pieces: the stern segment, the starboard segment, and the prow segment. On their initial approach, the characters are closest to the stern segment and area Z1, but they can approach the segments in whichever order they like.
+Die Züngelzenit ist in drei Teile zerbrochen: Hecksegment, Steuerbordsegment und Bugsegment. Wenn die Charaktere sich ihr das erste Mal nähern, sind sie dem Hecksegment und Bereich Zl am nächsten. Sie können sich den Segmenten jedoch in beliebiger Reihenfolge nähern.
 
-The character holding the rod piece senses that the next piece is located somewhere in the ship's wreckage.
+Der Charakter mit dem Stabteil spürt, dass sich das nächste Teil irgendwo im Schiffswrack befindet.
 
-### Accessing the Rod Piece
+### Das Stabteil erreichen
 
-The rod piece was stored in a safe room in the *Lambent Zenith*'s prow (area Z19). When the ship crashed, the safe room's security wards activated, and the room's doors sealed magically. To access the safe room and uncover the rod piece, the characters must first deactivate the security wards.
+Das Stabteil war in einem gesicherten Bugraum der Züngelzenit (Bereich Z19) gelagert. Während des Schiffbruchs wurden die Sicherheitsmechanismen des Raums aktiviert und seine Türen auf magische Art versiegelt. Die Charaktere müssen zunächst die Sicherheitsmechanismen deaktivieren, um in den Raum zu gelangen.
 
-#### Ward Runes
+#### Schutzrunen
 
-The security wards are powered by two magical runes: one in area Z8 and one in area Z13. The runes are invisible. If a creature can see invisible objects, each rune looks like a stylized carving of a crescent moon pulsing with silver light. Casting Dispel Magic (DC 17) on a rune destroys it. A rune can also be deactivated if a creature within 5 feet of it says, "The moon sings a song for the lost."
+Die Sicherheitsmechanismen basieren auf zwei magischen Runen. Eine davon befindet sich in Bereich Z8, die andere in Bereich Z13. Die Runen sind unsichtbar. Wenn eine Kreatur unsichtbare Gegenstände sehen kann, stellen sich beide Rune wie stilisierte Halbmonde dar, die silbrig pulsierend leuchten. Wird [[Magie_bannen-phb|Magie bannen]] (`SG-17`) auf eine Rune gewirkt, so wird die Rune zerstört. Die Runen können auch deaktiviert werden, wenn eine Kreatur im Abstand von bis zu 1,5 Metern von ihnen sagt „Der Mond singt ein Lied für die Verlorenen".
 
-Both runes must be either rendered inactive or destroyed for the safe room's door to open. This allows access to the heart of Havock, where the rod piece is located.
+Es müssen beide Runen entweder deaktiviert oder zerstört werden, damit sich die Türen des gesicherten Raums öffnen. Dadurch ist der Zugang zum Herzen von Havock möglich, wo sich das Stabteil befindet.
 
-### Arcane Portals
+### Arkane Portale
 
-The crew of the *Lambent Zenith* used the magic contained within the rod piece to create portals through which the ship could travel across the multiverse with ease. However, when the *Lambent Zenith* approached Havock, the rod's magic mixed with the latent power in Havock's dying body and went awry. This volatile combination now causes teleportation spells and effects to function strangely in the segments of the shipwreck.
+Die Besatzung der Züngelzenit hat die Magie des Stabteils genutzt, um Portale zu schaffen, durch die das Schiff problemlos durch das Multiversum reisen konnte. Als die Züngelzenit sich Havock näherte, hat sich die Stabmagie jedoch mit der latenten Energie in Havocks sterbendem Körper verbunden und wurde verändert. Diese volatile Kombination bewirkt, dass Teleportationszauber und -effekte in den Segmenten des Schiffswracks merkwürdige Folgen haben.
 
-When a creature within a wreck segment casts a spell (or uses a similar magical effect) that would teleport it or another creature, instead of the normal effect, a 5-foot-diameter circular portal appears in an unoccupied space within 30 feet of the casting creature. The portal is a glowing ring filled with opaque mist and remains open for 1 minute.
+Wenn eine Kreatur in einem Wracksegment einen Zauber wirkt oder einen ähnlichen magischen Effekt nutzt, der sie oder eine andere Kreatur teleportieren würde, erscheint anstatt des erwarteten Effekts ein rundes Portal von 1,5 Metern Durchmesser an einer freien Stelle im Abstand von bis zu neun Metern von der zauberwirkenden Kreatur. Das Portal sieht aus wie ein leuchtender, mit undurchsichtigem Nebel gefüllter Ring und bleibt eine Minute lang geöffnet.
 
-When a portal appears, roll on the Portal Exit table to determine where the portal leads. If the result is where the characters already are, roll again. Any creature or object that passes through an open portal appears in a random unoccupied space in the exit location.
+Wenn ein solches Portal erscheint, würfle anhand der Tabelle „Portalausgang", um zu bestimmen, wohin es führt. Wenn das Ergebnis der Ort ist, an dem die Charaktere sich bereits befinden, würfle noch einmal. Kreaturen und Gegenstände, die ein offenes Portal passieren, erscheinen an einer zufällig bestimmten freien Stelle am Zielort.
 
-**Portal Exit**
+**Portalausgang**
 
-`dice: [](04-chapter-3-the-lambent-zeniths-last-voyage.md#^portal-exit)`
+`dice: [](04-Kapitel-3-Die_letzte_Reise_des_Züngelzenit#^portal-exit)`
 
-| dice: d6 | Exit Location |
-|----------|---------------|
-| 1 | Sterncastle deck (stern segment; area Z1a) |
-| 2 | Companionway (stern segment; area Z5) |
-| 3 | Starboard top deck (starboard segment; area Z10) |
-| 4 | Grell nest (starboard segment; area Z11) |
-| 5 | Study (starboard segment; area Z13) |
-| 6 | Bridge (prow segment; area Z17) |
+| W6  | Zielort                                              |
+| --- | ---------------------------------------------------- |
+| 1   | Achterdeck (Hecksegment; Bereich Z1a)                |
+| 2   | Niedergang (Hecksegment; Bereich Z5)                 |
+| 3   | Steuerbord-Oberdeck (Steuerbordsegment, Bereich Z10) |
+| 4   | Grell-Nest (Steuerbordsegment, Bereich Z11)          |
+| 5   | Studierzimmer (Steuerbordsegment, Bereich Z13)       |
+| 6   | Brücke (Bugsegment, Bereich Z17)                     | 
 ^portal-exit
 
-### Traversing Wreck Segments
+### Zwischen Wracksegmenten wechseln
 
-Characters can forgo the portals and travel between the wreck segments on their own, either by walking or by flying. The segments are 300 feet from each other.
+Die Charaktere brauchen keine Portale, um zwischen den Wracksegmenten zu wechseln. Sie können dies auch gehend oder fliegend tun. Die Segmente liegen 90 Meter voneinander entfernt.
 
-The areas between the segments contain a multitude of hungry astral predators. The creatures trapped in the segments don't traverse the wreck for this reason. When the characters enter one of these areas, roll on the Random Wreck Encounters table to see what confronts the characters.
+In den Bereichen zwischen den Segmenten befinden sich zahlreiche hungrige Astralräuber. Aus diesem Grund bewegen sich die in den Segmenten gefangenen Kreaturen nicht zwischen den Wrackteilen. Wenn die Charaktere einen dieser Bereiche betreten, würfle anhand der Tabelle „Zufallsbegegnungen im Wrack", um zu bestimmen, womit die Charaktere es zu tun bekommen.
 
-**Random Wreck Encounters**
+**Zufallsbegegnungen im Wrack**
 
-`dice: [](04-chapter-3-the-lambent-zeniths-last-voyage.md#^random-wreck-encounters)`
+`dice: [](04-Kapitel-3-Die_letzte_Reise_des_Züngelzenit#^random-wreck-encounters)`
 
-| dice: d10 | Creature |
-|-----------|----------|
-| 1–2 | Two [night scavvers](/3-Mechanics/CLI/bestiary/monstrosity/night-scavver-bam.md) (see appendix A) |
-| 3–4 | One [star angler](/3-Mechanics/CLI/bestiary/monstrosity/star-angler-veor.md) (see appendix A) |
-| 5–6 | One [cloaker](/3-Mechanics/CLI/bestiary/aberration/cloaker.md) |
-| 7–10 | No encounter |
+| W10  | Kreatur                                     |
+| ---- | ------------------------------------------- |
+| 1–2  | Zwei [[Nachtplünderer-bam\|Nachtplünderer]] |
+| 3–4  | Ein [[Sternangler-veor\|Sternangler]]       |
+| 5–6  | Ein [[Mantler-mm\|Mantler]]                 | 
+| 7–10 | Keine Begegnung                             |
 ^random-wreck-encounters
 
-#### Stern Segment
+#### Hecksegment
 
-The largest piece of the wreck, the stern segment, is nestled in Havock's hip bones. A handful of stranded shipwreck survivors led by the *Lambent Zenith*'s first mate, Figaro, are encamped on this segment.
+Das Hecksegment ist das größte Wrackteil. Es befindet sich in Havocks Hüftknochen. Eine Handvoll Überlebende des Schiffs haben hier ihr Lager aufgeschlagen. [[Figaro-veor|Figaro]], der Erste Offizier der Züngelzenit, führt sie an.
 
-A [death slaad](/3-Mechanics/CLI/bestiary/aberration/death-slaad.md) recently infiltrated the camp, sowing chaos and magically manipulating Figaro's mind. This drove Figaro into a paranoid state, causing him to lock himself in his quarters, where one of the safe room's ward runes is located.
+Neulich ist ein [[Todesslaad-mm|Todesslaad]] ins Lager eingedrungen, hat Chaos gestiftet und Figaros Verstand auf magische Art manipuliert. Seitdem ist Figaro paranoid und schließt sich in seinem Quartier ein, in dem sich auch eine der Schutzrunen des gesicherten Raums befindet.
 
-Characters approaching this wreck segment can land on either the sterncastle deck (area Z1a) or in the companionway (area Z5).
+Charaktere, die sich diesem Wracksegment nähern, können entweder auf dem Achterdeck (Bereich Z1a) oder im Niedergang (Bereich Z5) landen.
 
 #### Starboard Segment
 
@@ -201,8 +200,8 @@ The areas of the *Lambent Zenith*'s wreckage have the following features:
 The areas of the wreck are keyed to map 3.1.
 
 > [!gallery]
-> ![Map 3.1: Lambent Zenith](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/048-map-lambent-zenith.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/049-map-3-01-lambent-zenith-player.webp#gallery)
+> ![Map 3.1: Lambent Zenith](Vecna-Vorabend_der_Verdammnis/img/048-map-lambent-zenith.webp#gallery)
+> ![Player Version](Vecna-Vorabend_der_Verdammnis/img/049-map-3-01-lambent-zenith-player.webp#gallery)
 
 #### Z1a–Z1b: Sterncastle Deck and Below
 
@@ -225,7 +224,7 @@ Lysan and Zastra know the following information:
 - **Strange Magic.** The ship's prow was outfitted with "fancy magic stuff" beyond the githyanki's understanding. This magic malfunctioned when the ship crashed, and now teleportation magic used within the wreck is warped. Instead of teleporting creatures, the magic instead spawns a portal that leads somewhere else in the wreckage.  
 - **Terrors of Space.** The areas beyond the wreck are teeming with hungry astral predators. The survivors are too afraid of these predators to risk traveling between the segments. The camp has also been plagued recently by aberrant monsters such as cloakers, though the survivors don't know why.  
 
-![Ilren](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/050-03-010-ilren.webp#center)
+![Ilren](Vecna-Vorabend_der_Verdammnis/img/050-03-010-ilren.webp#center)
 
 If asked for specifics, Lysan and Zastra share a look before directing the characters to speak with the second mate, Kycera, in the galley (area Z3). A character who succeeds on a DC 14 Wisdom (Insight) check intuits that the two are uneasy about some of their crewmates. If the characters press the issue, the githyanki pull them aside and admit that the camp's interim leader, Ilren, and the *Lambent Zenith*'s first mate, Figaro, would have more information. However, Figaro has been acting paranoid of late and refuses to leave his quarters (area Z8).
 
@@ -239,7 +238,7 @@ Ilren welcomes the characters to explore the *Lambent Zenith*'s wreck and make t
 
 Ilren doesn't reveal its true form unless attacked.
 
-![Lysan and Zastra are wary ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/051-03-003-lysan-and-zastra.webp#center "Lysan and Zastra are wary of strangers but glad for friendly company")
+![Lysan and Zastra are wary of strangers but glad for friendly company](Vecna-Vorabend_der_Verdammnis/img/051-03-003-lysan-and-zastra.webp#center)
 
 #### Z2: Upper Crew Quarters
 
@@ -261,7 +260,7 @@ These sailors were lackeys aboard the *Lambent Zenith*. Though they can recount 
 
 Kycera Duskstride is the *Lambent Zenith*'s second mate and is a chaotic good, orc [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md). A former pirate, Kycera saw the error of her ways and joined the *Lambent Zenith*'s crew to find redemption. Now she spends her time in the wreck's galley. Though the survivors don't require food in the timeless void of the Astral Sea, Kycera finds that cooking and eating bring the restless survivors comfort.
 
-![Kycera Duskstride](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/052-03-011-kycera-duskstride.webp#center)
+![Kycera Duskstride](Vecna-Vorabend_der_Verdammnis/img/052-03-011-kycera-duskstride.webp#center)
 
 ##### Talking with Kycera
 
@@ -284,7 +283,7 @@ Within the pantry are `dice:2d4|noform|noparens|avg` (`2d4`) unopened casks of a
 > Empty wooden tables and chairs fill the mess hall. In the corner, an elf man plays a game of cards.
 ^15a
 
-![Daveras](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/053-03-009-daveras.webp#center)
+![Daveras](Vecna-Vorabend_der_Verdammnis/img/053-03-009-daveras.webp#center)
 
 The elf is Daveras, a neutral [druid](/3-Mechanics/CLI/bestiary/humanoid/druid.md). Daveras joined the camp after his lifeboat crashed into Havock. The remains of his lifeboat rest on the starboard segment.
 
@@ -343,7 +342,7 @@ Loose floorboards on the room's port side can be pried up, allowing access to th
 
 #### Z8: Stateroom
 
-![The Lambent Zenith's first...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/054-03-004-figaro.webp#center "The Lambent Zenith's first mate, Figaro, is experiencing the effects of a Modify Memory spell")
+![The Lambent Zenith's first mate, Figaro, is experiencing the effects of a Modify Memory spell](Vecna-Vorabend_der_Verdammnis/img/054-03-004-figaro.webp#center)
 
 > [!readaloud] 
 > 
@@ -396,7 +395,7 @@ On seeing the characters, Cirit is relieved and immediately asks for their assis
 
 Cirit implores the characters to help her thwart Ilren. If the characters defeat Ilren, Cirit vouches for them when talking with Figaro in area Z5.
 
-![Cirit](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/055-03-008-cirit.webp#center)
+![Cirit](Vecna-Vorabend_der_Verdammnis/img/055-03-008-cirit.webp#center)
 
 #### Z10: Starboard Top Deck
 
@@ -413,7 +412,7 @@ Redbud remains silent and motionless until a creature attempts to enter the segm
 
 If the characters question the treant's sincerity, Redbud admits to the deception. Redbud explains that a dear friend is trapped below, and the treant's roots are protecting this friend from being eaten by the monsters nesting on the lower deck. Redbud implores the characters to clear out the nest, allowing the characters to proceed further only if they agree.
 
-![A treant named Redbud live...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/056-03-005-redbud.webp#center "A treant named Redbud lives in a lifeboat that crashed into the Lambent Zenith")
+![A treant named Redbud lives in a lifeboat that crashed into the Lambent Zenith](Vecna-Vorabend_der_Verdammnis/img/056-03-005-redbud.webp#center)
 
 #### Z11: Grell Nest
 
@@ -481,7 +480,7 @@ The mast blocks the entrance to the navigation room (area Z16). The door to the 
 
 #### Z15: Captain's Quarters
 
-![Captain Inda Malayuri surv...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/057-03-006-captain-inda-malayuri.webp#center "Captain Inda Malayuri survived the crash of the Lambent Zenith but now must fix her prosthetic wing")
+![Captain Inda Malayuri survived the crash of the Lambent Zenith but now must fix her prosthetic wing](Vecna-Vorabend_der_Verdammnis/img/057-03-006-captain-inda-malayuri.webp#center)
 
 > [!readaloud] 
 > 
@@ -581,8 +580,8 @@ The areas of the heart of Havock have the following notable features:
 The areas of the heart are keyed to map 3.2.
 
 > [!gallery]
-> ![Map 3.2: Heart of Havock](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/058-3-02-heart-of-havock.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/059-3-02-heart-of-havock-player.webp#gallery)
+> ![Map 3.2: Heart of Havock](Vecna-Vorabend_der_Verdammnis/img/058-3-02-heart-of-havock.webp#gallery)
+> ![Player Version](Vecna-Vorabend_der_Verdammnis/img/059-3-02-heart-of-havock-player.webp#gallery)
 
 #### A1: Entry Atrium
 
@@ -599,7 +598,7 @@ The heart absorbed detritus from the wreckage of the Lambent Zenith's safe room 
 
 #### A2: Ventricle Chamber
 
-![Deep in the heart of Havoc...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/060-03-007-hertilod.webp#center "Deep in the heart of Havock lurks a creature called a hertilod, which has swallowed a piece of the Rod of Seven Parts")
+![Deep in the heart of Havock lurks a creature called a hertilod, which has swallowed a piece of the Rod of Seven Parts](Vecna-Vorabend_der_Verdammnis/img/060-03-007-hertilod.webp#center)
 
 > [!readaloud] 
 > 

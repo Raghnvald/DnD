@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Night Scavver
+Bezeichnung: Nachtplünderer
 image: token/night-scavver-bam.webp
 status: WIP
 linter-yaml-title-alias: Night Scavver
@@ -14,50 +14,42 @@ tags:
 aliases:
   - Night Scavver
 ---
-# [Night Scavver](3-Mechanics\CLI\bestiary\monstrosity/night-scavver-bam.md)
-*Source: Boo's Astral Menagerie p. 49, Vecna: Eve of Ruin*  
+# Nachtplünderer
+*Quelle: Boo's Astral Menagerie p. 49, Vecna: Vorabend der Verdammnis*  
 
-Night scavvers are 15 feet long. Their coloration resembles that of Wildspace itself: white spots (representing stars) sprinkled amid dark patches and patterns of color. They fearlessly invade the air envelopes of spelljamming ships and attack crew members on deck.
+Nachtplünderer sind haifischartige Raubkreaturen, die vorwiegend auf der Astralebene durch den Raum fliegen und alles fressen, was in ihren Rachen passt. Sie sind nicht immer aggressiv und ernähren sich überwiegend von Trümmern, Abfällen und Ausscheidungen. Daher folgen sie häufig größeren Kreaturen, Schiffen und Asteroiden. 
 
-Cooked night scavver meat is a popular offering in taverns across Wildspace.
+Nachtplünderer sind 4,5 Meter lang. Ihre Färbung erinnert ans Wildall: weiße Punkte besprenkeln wie Sterne dunkle Bereiche und farbige Muster. 
 
-```statblock
-"name": "Night Scavver (BAM)"
-"size": "Huge"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "14"
-"ac_class": "natural armor"
-"hp": !!int "114"
-"hit_dice": "12d12 + 36"
-"modifier": !!int "2"
-"stats":
-  - !!int "20"
-  - !!int "15"
-  - !!int "17"
-  - !!int "1"
-  - !!int "10"
-  - !!int "1"
-"speed": "0 ft., fly 40 ft."
-"skillsaves":
-  - "name": "Perception"
-    "desc": "+6"
-  - "name": "Stealth"
-    "desc": "+8"
-"senses": "darkvision 120 ft., passive Perception 16"
-"languages": ""
-"cr": "5"
-"traits":
-  - "desc": "The scavver doesn't require air."
-    "name": "Unusual Nature"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +8 to hit (with advantage if the target is a creature\
-      \ that is missing any hit points), reach 10 ft., one target. *Hit:* 27 (4d10\
-      \ + 5) piercing damage."
-    "name": "Bite"
-"source":
-  - "BAM"
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/night-scavver-bam.webp"
-```
+Gekochtes Nachtplündererfleisch ist in den Tavernen des Wildalls ein beliebtes Gericht.
+
+> [!statblock] Nachtplünderer
+> ![[token/night-scavver-bam.webp|right|100]]
+> *Riesige Monstrosität, gesinnungslos*
+> 
+> - **Rüstungsklasse** 14 (natürliche Rüstung)
+> - **Trefferpunkte** 114 (`12d12 + 36`)
+> - **Bewegungsrate** 0 Meter, fliegen 12 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 20 (+5)|15 (+2)|17 (+3)|1 (-5)|10 (+0)|1 (-5)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** [[|Heimlichkeit]] +8, [[|Wahrnehmung]] +6
+> - **Schadensresistenzen** ⏤
+> - **Schadensimmunitäten** ⏤
+> - **Zustandsimmunitäten** ⏤
+> - **Sinne** [[|Dunkelsicht]] 36 Meter, passive Wahrnehmung 16
+> - **Sprachen** ⏤
+> - **Herausforderungsgrad** 5 (1.800 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Ungewöhnliche Natur.*** Der Nachtplünderer benötigt keine Luft.
+> 
+> ## Aktionen
+> 
+> ***Biss.*** *Nahkampf-Waffenangriff:* +8 zum Treffen (im Vorteil, wenn das Ziel eine Kreatur mit verringerten Trefferpunkten ist), Reichweite 3 Meter, ein Ziel. *Treffer:* 27 (`4W10 + 5`) Stichschaden.
 ^statblock

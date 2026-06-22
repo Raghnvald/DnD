@@ -9,8 +9,8 @@ aliases:
   - Halskette der Anpassung
 ---
 # Halskette der Anpassung
-*Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)*  
-![](img/necklace-of-adaptation.webp#right)
+*Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)*
+<img src="necklace-of-adaptation.webp" align="right" width="150">
 
 - **Gewicht**: 0,5 kg.
 

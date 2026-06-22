@@ -1,41 +1,30 @@
 ---
 Bezeichnung: Name
-Typ: 
-Größe: 
-HG: 
-image: 
-status:
 linter-yaml-title-alias: Name
-tags:
-  - Habitat/GRÖSSE
-  - Quelle/QUELLE
-  - Typ/TYP/SUBTYP
-  - Vorkommen/VORKOMMEN
 aliases:
   - Name
-  - NAME
 ---
 # Name
-*Quelle: SRD / Grundregelwerk*  
+*Quelle: *  
 
 > [!statblock] Name
-> ![[Bestiarium/Humanoid/token/Goblin.webp|right|100]]
+> ![[token/image.webp|right|100]]
 > *Größe Typ, Gesinnung*
 > 
 > - **Rüstungsklasse** X
-> - **Trefferpunkte**  (`XdY`)
+> - **Trefferpunkte** X (`XdY`)
 > - **Bewegungsrate** X Meter
 > 
 > |STR|GES|KON|INT|WEI|CHA|
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | X (+-)|X (+-)|X (+-)|X (+-)|X (+-)|X (+-)|
 > 
-> - **Rettungswürfe** ⏤
-> - **Fertigkeiten** X +Y
-> - **Sinne** X Y Meter, passive Wahrnehmung X
-> - **Schadensresistenzen** -
-> - **Schadensimmunitäten** -
-> - **Zustandsimmunitäten** - <br><br>
+> - **Rettungswürfe** 
+> - **Fertigkeiten** 
+> - **Schadensresistenzen** 
+> - **Schadensimmunitäten** 
+> - **Zustandsimmunitäten**  <br><br>
+> - **Sinne** 
 > - **Sprachen** 
 > - **Herausforderungsgrad** X (Y EP)
 > - **Übungsbonus** +X
@@ -46,9 +35,9 @@ aliases:
 > 
 > ## Aktionen
 > 
-> ***Krummsäbel.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Hiebschaden.
+> ***Name.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 5 (`1d6 + 2`) Hiebschaden.
 > 
-> ***Kurzbogen.*** *Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 24/96 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Stichschaden.
+> ***Name.*** *Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 24/96 Meter, ein Ziel. *Treffer:* 5 (`1d6 + 2`) Stichschaden.
 > 
 > ## Bonusaktion
 > 
@@ -57,7 +46,6 @@ aliases:
 > ## Reaktionen
 > 
 > ***Name:***
-> 
 ^statblock
 
 ## Vorkommen

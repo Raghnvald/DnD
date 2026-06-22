@@ -17,11 +17,11 @@ aliases:
   - Mace of Smiting
 ---
 # Mace of Smiting
-*Weapon ([[Streikolben-phb|Streitkolben]]), major, rare*
+*Weapon ([[Streitkolben-phb|Streitkolben]]), major, rare*
 <img src="mace-of-smiting.webp" align="right" width="150">
 
 - **Schaden:** 1d6 Wucht
-- **Gewicht:** 2,0 kg
+- **Gewicht:** 2,0 kgBerserkeraxt
 
 Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die du mit dieser magischen Waffe ausführst. Der Bonus erhöht sich auf +3, wenn du ein Konstrukt mit dem Streitkolben angreifst.
 

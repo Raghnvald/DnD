@@ -46,53 +46,42 @@ Humanoide, die von einem Gruftschrecken erschlagen werden, können sich als Zomb
 
 Ein Gruftschrecken braucht keine Luft, keine Nahrung, kein Wasser und keinen Schlaf. 
 
-```statblock
-name: Gruftschrecken
-image: Untot/token/wight.webp
-source:
-  - MM
-size: Mittelgroß
-type: Untot
-alignment: neutral böse
-ac: 14
-ac_class: <STATBLOCK-MARKDOWN-LINK>Gegenstände/Beschlagene_Lederrüstung-phb|Beschlagene Lederrüstung<STATBLOCK-MARKDOWN-LINK>
-hp: 45
-hit_dice: 6d8 + 18
-modifier: 2
-stats:
-  - 15
-  - 14
-  - 16
-  - 10
-  - 13
-  - 15
-speed: 9 m
-skillsaves:
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
-    desc: "+4"
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
-    desc: "+3"
-damage_resistances: Nekrotisch; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, wenn die Waffe nicht versilbert ist.
-damage_immunities: Gift
-condition_immunities: <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Erschöpfung|erschöpft<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Vergiftet|vergiftet<STATBLOCK-MARKDOWN-LINK>
-senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m, passive Wahrnehmung 13
-languages: die Sprachen, die er im Leben kannte 
-cr: "3"
-environment: Stadt, Sumpf, Unterreich, Wüste
-traits:
-  - name: Empfindlich gegenüber Sonnenlicht
-    desc: Solange sich der Gruftschrecken im Sonnenlicht befindet, hat er einen Nachteil bei Angriffswürfen und Würfen auf Weisheit (<STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>) die Sicht verwenden.
-actions:
-  - name: Mehrfachangriff
-    desc: Der Gruftschrecken führt zwei Langschwert-Angriffe oder zwei Langbogen-Angriffe durch. Er kann Lebensentzug anstelle eines Langschwert-Angriffs verwenden. 
-  - name: Lebensentzug
-    desc: |-
-      *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 5 (1W6 + 2) nekrotischer Schaden. Das Ziel muss einen Konstitutionsrettungswurf gegen SG 13 ablegen, sonst werden seine maximalen Trefferpunkte um den erlittenen Schaden verringert. Diese Verringerung hält an, bis das Ziel eine lange Rast durchführt. Das Ziel stirbt, wenn dieser Effekt es auf 0 maximale Trefferpunkte reduziert.
-
-      Ein Humanoider, der von diesem Angriff getötet wird, erhebt sich 24 Stunden später als <STATBLOCK-MARKDOWN-LINK>Untot/Zombie-mm|Zombie<STATBLOCK-MARKDOWN-LINK> unter der Kontrolle des Gruftschrecken, es sei denn, der Humanoide wird zum Leben erweckt oder sein Körper zerstört. Der Gruftschrecken kann nicht mehr als zwölf Zombies auf einmal unter seiner Kontrolle haben.
-  - name: Langschwert
-    desc: "*Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 6 (1W8 + 2) Hiebschaden, oder 7 (2W10 +2) Hiebschaden, wenn die Waffe mit zwei Händen verwendet wird."
-  - name: Langbogen
-    desc: "*Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 45/180 m, ein Ziel. Treffer: 6 (1W8 + 2) Stichschaden."
-```
+> [!statblock] Gruftschrecken
+> ![[token/wight.webp|right|100]]
+> *Mittelgroßer Untoter, Neutral Böse*
+> 
+> - **Rüstungsklasse** 14 ([[Beschlagene_Lederrüstung-phb|Beschlagene Lederrüstung]])
+> - **Trefferpunkte** 45 (`6d8 + 18`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]] +4, [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +3
+> - **Sinne** [[Sinne-phb#Dunkelsicht|Dunkelsicht]] 18 m, passive Wahrnehmung 13
+> - **Schadensresistenzen** Nekrotisch; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, wenn die Waffe nicht versilbert ist.
+> - **Schadensimmunitäten** Gift
+> - **Zustandsimmunitäten** [[Zustände-phb#Erschöpfung|erschöpft]], [[Zustände-phb#Vergiftet|vergiftet]] <br><br>
+> - **Sprachen** die Sprachen, die er im Leben kannte 
+> - **Herausforderungsgrad** 3 (700 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Empfindlich gegenüber Sonnenlicht*** Solange sich der Gruftschrecken im Sonnenlicht befindet, hat er einen Nachteil bei Angriffswürfen und Würfen auf Weisheit ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) die Sicht verwenden.
+> 
+> ## Aktionen
+> 
+> ***Lebensentzug.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 5 (`1d6 + 2`) nekrotischer Schaden. Das Ziel muss einen `Konstitutions-Rettungswurf` gegen `SG 13` ablegen, sonst werden seine maximalen Trefferpunkte um den erlittenen Schaden verringert. Diese Verringerung hält an, bis das Ziel eine lange Rast durchführt. Das Ziel stirbt, wenn dieser Effekt es auf 0 maximale Trefferpunkte reduziert.
+> Ein Humanoider, der von diesem Angriff getötet wird, erhebt sich 24 Stunden später als [[Untot/Zombie-mm|Zombie]] unter der Kontrolle des Gruftschrecken, es sei denn, der Humanoide wird zum Leben erweckt oder sein Körper zerstört. Der Gruftschrecken kann nicht mehr als zwölf Zombies auf einmal unter seiner Kontrolle haben.
+> 
+> ***Langschwert.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 6 (`1d8 + 2`) Hiebschaden, oder 7 (`2d10 + 2`) Hiebschaden, wenn die Waffe mit zwei Händen verwendet wird.
+> 
+> ***Langbogen.*** *Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 45/180 m, ein Ziel. Treffer: 6 (`1d8 + 2`) Stichschaden.
 ^statblock
+
+## Vorkommen
+
+Stadt, Sumpf, Unterreich, Wüste

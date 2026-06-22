@@ -1,24 +1,24 @@
 ---
-Bezeichnung: Standard Languages
-linter-yaml-title-alias: Standard Languages
+Bezeichnung: Standardsprachen
+linter-yaml-title-alias: Standardsprachen
 tags:
   - Quelle/5e/phb
 aliases:
-  - Standard Languages
+  - Standardsprachen
 ---
-# Standard Languages
-*Source: Player's Handbook p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
+# Standardsprachen
+*Quellen: Spielerhandbuch S. 123. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 
-**Standard Languages**
+**Standardsprachen**
 
-| Language | Typical Speakers | Script |
-|----------|------------------|--------|
-| Common | Humans | Common |
-| Dwarvish | Dwarves | Dwarvish |
-| Elvish | Elves | Elvish |
-| Giant | Ogres, giants | Dwarvish |
-| Gnomish | Gnomes | Dwarvish |
-| Goblin | Goblinoids | Dwarvish |
-| Halfling | Halflings | Common |
-| Orc | Orcs | Dwarvish |
+| Sprache       | Typische Völker | Schrift       |
+| ------------- | --------------- | ------------- |
+| Gemeinsprache | Menschen        | Gemeinsprache |
+| Zwergisch     | Zwerge          | Zwergisch     |
+| Elfisch       | Elfen           | Elfisch       |
+| Riesisch      | Oger, Roesen    | Zwergisch     |
+| Gnomisch      | Gnome           | Zwergisch     |
+| Goblinisch    | Goblinoide      | Zwergisch     |
+| Halblingisch  | Halblinge       | Gemeinsprache | 
+| Orkisch       | Orks            | Zwergisch     |
 ^standard-languages

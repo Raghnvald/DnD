@@ -18,7 +18,7 @@ aliases:
   - Streitkolben des Zusammenbruchs
 ---
 # Streitkolben des Zusammenbruchs
-*Waffe ([[Streitkolben]], selten (erfordert Einstimmung)* 
+*Waffe ([[Streitkolben-phb|Streitkolben]], selten (erfordert Einstimmung)* 
 <img src="mace-of-disruption.webp" align="right" width="150">
 
 - **Schaden**: 1d6 Wucht

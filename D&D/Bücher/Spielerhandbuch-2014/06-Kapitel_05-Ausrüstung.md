@@ -1,655 +1,660 @@
 ---
-Bezeichnung: Equipment
-linter-yaml-title-alias: Equipment
+Bezeichnung: Ausrüstung
+linter-yaml-title-alias: Ausrüstung
 tags:
   - Quelle/5e/phb
 aliases:
-  - Equipment
+  - Ausrüstung
 ---
-# Equipment
-*Source: Player's Handbook (2014), p. 143* 
+# Ausrüstung
+*Quelle: Spielerhandbuch (2014), S. 143* 
 
-The marketplace of a large city teems with buyers and sellers of many sorts: dwarf smiths and elf woodcarvers, halfling farmers and gnome jewelers, not to mention humans of every shape, size, and color drawn from a spectrum of nations and cultures. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to wicker baskets and practical swords.
+Der Marktplatz einer großen Stadt wimmelt von mannigfaltigen Käufern und Verkäufern: Zwergenschmiede und elfische Schnitzer, Halblingbauern und Gnomenjuweliere, nicht zu vergessen die unzähligen Menschen aus dem gesamten Spektrum ihrer Nationen und Kulturen. In den großen Städten wird alles Erdenkliche zum Kauf angeboten, von exotischen Gewürzen und luxuriöser Kleidung bis hin zu geflochtenen Weidenkörben und fein verzierten Schwertern. 
 
-For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a dungeon or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
+Für einen Abenteurer ist die Verfügbarkeit von Rüstungen, Waffen, Rucksäcken, Seilen und ähnlichen Waren von entscheidender Wichtigkeit, denn gute Ausrüstung kann den Unterschied zwischen Leben und Tod bedeuten, wenn man in einem dunklen Gewölbe oder der ungezähmten Wildnis unterwegs ist. Dieses Kapitel erläutert die alltäglichen und ausgefallenen Güter, die Abenteurer für gewöhnlich als nützlich erachten, wenn sie sich den Gefahren der Welten von DuNGEONS & DRAGONS stellen. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch5.webp#center)
+![](img/ch5.webp#center)
 
-## Starting Equipment
+## Anfangsausrüstung
 
-When you create your character, you receive equipment based on a combination of your class and background. Alternatively, you can start with a number of gold pieces based on your class and spend them on items from the lists in this chapter. See the Starting Wealth by Class table to determine how much gold you have to spend.
+Wenn du deinen Charakter erschaffst, erhältst du Ausrüstung auf der Basis sowohl deiner Klasse als auch deines Hintergrunds. Alternativ kannst du das Spiel auch mit einer gewissen Anzahl von Goldmünzen beginnen, die von deiner Klasse abhängig ist und die du für Gegenstände aus den Listen in diesem Kapitel ausgibst. Bestimme anhand der Tabelle „Anfangsvermögen nach Klasse", wie viel Gold dir zur Verfügung steht. 
 
-You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armor, and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
+Du entscheidest, wie dein Charakter an diese Anfangsausrüstung gekommen ist. Dein Abenteurer könnte sie geerbt oder erstanden haben, während er aufgewachsen ist. Er könnte als Teil seines Militärdienstes mit einer Waffe, einer Rüstung und einem Rucksack ausgestattet worden sein. Vielleicht hat er die Ausrüstung sogar gestohlen. Eine Waffe könnte ein Familienerbstück darstellen, das bereits seit Generationen weitergegeben wurde, bis dein Charakter schließlich in die Fußstapfen eines abenteuerlustigen Vorfahren getreten ist. 
 
-![Starting Equipment; Starting Wealth by Class](/3-Mechanics/CLI/tables/starting-equipment-starting-wealth-by-class-phb.md)
+**Anfangsvermögen nach Klasse**
 
-## Wealth
+![[Anfangsausrüstung-Anfangsvermögen-nach-Klasse-phb#^starting-wealth-by-class]]
 
-Wealth appears in many forms in a D&D world. Coins, gemstones, trade goods, art objects, animals, and property can reflect your character's financial well-being. Members of the peasantry trade in goods, bartering for what they need and paying taxes in grain and cheese. Members of the nobility trade in legal rights, such as the rights to mine, a port, or farmland, or in gold bars, measuring gold by the pound rather than by the coin. Only merchants, adventurers, and those offering professional services for hire deal in coins.
+## Reichtümer
 
-### Coinage
+Reichtümer gibt es in vielen Formen: Sowohl Münzen, Edelsteine, Handelsgüter, Kunstwerke, Tiere als auch Grundstücke können das finanzielle Wohlbefinden deines Charakters widerspiegeln. Mitglieder der Bauernschaft tauschen Waren und zahlen Steuern mit Getreide und Käse. Adelige handeln mit Rechten und Privilegien, wie etwa dem Schürfrecht für eine Mine oder Handelsrechten, mit Ackerland oder in Goldbarren statt einzelnen Münzen. Nur Händler, Abenteurer und die Anbieter professioneller Mietdienste verwenden für gewöhnlich Münzgeld. 
 
-Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
+### Münzwerte
 
-With one gold piece, a character can buy a quiver, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
+Die üblichen Münzen gibt es in verschiedenen Werten, die auf dem relativen Wert der Metalle beruhen, aus denen sie gefertigt sind. Die drei häufigsten Münzen sind Goldmünzen (GM), Silbermünzen (SM) und Kupfermünzen (KM). 
 
-One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a set of dice, a flask of lamp oil, or a night's rest in a poor inn.
+Mit einer Goldmünze kann sich ein Charakter einen Schlafsack, 15 m guten Seils oder eine Ziege leisten. Ein fähiger (doch nicht außergewöhnlicher) Handwerker verdient am Tag etwa den gleichen Betrag. Die Goldmünze zählt als Standardeinheit für den Wert von Reichtümern, obwohl die Münze selbst nicht in großen Mengen im Umlauf ist. Wenn Kaufleute Geschäfte besprechen, die Waren und Dienstleistungen im Wert von Hunderten oder Tausenden Goldmünzen umfassen, wechseln bei den tatsächlichen Transaktionen selten einzelne Münzen den Besitzer. Der eigentliche Austausch findet in Goldbarren, Schuldscheinen oder wertvollen Waren statt. 
 
-One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.
+Eine Goldmünze ist zehn Silbermünzen wert, die unter dem gemeinen Volk am weitesten verbreitete Währungseinheit. Eine Silbermünze hat den Gegenwert eines halben Tagessolds eines Arbeiters, einer Flasche Lampenöl oder der Übernachtungskosten in einem ärmlichen Gasthof. 
 
-In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
+Eine Silbermünze ist zehn Kupfermünzen wert, welche das gewöhnliche Zahlungsmittel von Arbeitern und Bettlern sind. Von einer einzelnen Kupfermünze kann man eine Kerze, eine Fackel oder ein Stück Kreide kaufen. 
 
-A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+Außerdem gibt es noch unüblichere Münzen, die aus wertvollem Metall gefertigt sind und in Schatzhorten gefunden werden können. Die Elektrummünze (EM) und die Platinmünze (PM) stammen aus untergegangenen Königreichen und gefallenen Imperien. Sie erregen oft Verdacht oder Misstrauen, wenn sie für Transaktionen eingesetzt werden. Eine Elektrummünze ist fünf Silbermünzen wert, eine Platinmünze entspricht zehn Goldmünzen. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c51.webp#center)
+Eine gewöhnliche Münze wiegt etwa eine Drittel Unze, 50 Münzen wiegen also 1 Pfund. 
 
-![Coinage; Standard Exchange Rates](/3-Mechanics/CLI/tables/coinage-standard-exchange-rates-phb.md)
+![](img/c51.webp#center)
 
-### Selling Treasure
+**Standardwechselkurse**
 
-Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+![[Münzwerte-Standardwechselkurse-phb#^standard-exchange-rates]]
 
-#### Arms, Armor, and Other Equipment
+### Schätze verkaufen
 
-As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell.
+Mit Sicherheit werden sich dir Gelegenheiten bieten, bei denen du in finsteren Gewölben oder an anderen Orten Schätze, Ausrüstung, Waffen, Rüstungen und anderes entdeckst. Für gewöhnlich kannst du Schätze und Tand bei der Rückkehr in ein Dorf, eine Stadt oder eine andere Siedlung verkaufen, gesetzt den Fall, du findest Käufer oder Kaufleute, die an deiner Beute interessiert sind. 
 
-#### Magic Items
+#### Waffen, Rüstungen und andere Ausrüstung
 
-Selling magic items is problematic. Finding someone to buy a potion or a scroll isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won't normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such.
+Als generelle Regel erzielen unbeschädigte Waffen, Rüstungen und andere Ausrüstungsgegenstände die Hälfte ihres Listenpreises, wenn sie auf dem Markt verkauft werden. Waffen und Rüstungen, die von Monstern verwendet wurden, sind selten in einem ausreichend guten Zustand, um verkauft werden zu können. 
 
-#### Gems, Jewelry, and Art Objects
+#### Magische Gegenstände
 
-These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the DM might require you to find a buyer in a large town or larger community first.
+Magische Gegenstände zu verkaufen, ist problematisch. Zwar ist es nicht allzu schwierig, jemanden zu finden, der einen Trank oder eine Schriftrolle kaufen will. Doch andere Gegenstände liegen außerhalb dessen, was sich Leute, die nicht gerade zu den wohlhabendsten Adeligen zählen, leisten können. Im Gegenzug bedeutet das, dass du kaum Zauber und magische Gegenstände finden wirst, die zum Verkauf stehen. Der Wert von Magie liegt jenseits von einfachem Gold und sollte auch immer so behandelt werden. 
 
-#### Trade Goods and Other
+#### Edelsteine, Schmuck und Kunstgegenstände
 
-On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+Diese Gegenstände behalten bei einem Verkauf ihren vollen Wert, und du kannst sie entweder gegen Münzen eintauschen oder sie als Währung für andere Transaktionen verwenden. Bei besonders wertvollen Schätzen entscheidet der SL eventuell, dass du einen Käufer nur in einer großen Stadt oder sogar nur in einer Metropole findest. 
 
-## Armor and Shields
+#### Handelsgüter
 
-D&D worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
+In den Grenzgebieten werden Waren meist getauscht. Wie Edelsteine und Kunstgegenstände behalten Handelsgüter bei einem Verkauf oder Tauschhandel ihren Marktwert, seien es nun Eisenbarren, Säcke mit Salz, Vieh oder dergleichen. Diese Waren können wie eine Währung behandelt werden. 
 
-The Armor table shows the cost, weight, and other properties of the common types of armor worn in the worlds of D&D.
+## Rüstungen und Schilde
 
-![Armor and Shields; Armor](/3-Mechanics/CLI/tables/armor-and-shields-armor-phb.md)
+D&D-Welten sind wie ein riesiger Flickenteppich, der aus vielen verschiedenen Kulturen besteht, jede mit ihrem eigenen technologischen Entwicklungsstand. Aus diesem Grund ha ben Abenteurer Zugang zu einer Vielzahl von Rüstungsarten, die von Lederrüstungen über Kettenpanzer bis zu kostspieligen Plattenrüstungen reichen. Die Rüstungstabelle fasst die am häufigsten verfügbaren Arten von Rüstungen zusammei:i, die im Spiel vorkommen können, und unterteilt sie in drei Kategorien: leichte Rüstungen, mittelschwere Rüstungen und schwere Rüstungen. Außerdem gibt sie die Kosten, das Gewicht und andere Eigenschaften an. Viele Krieger ergänzen ihre Rüstung mit einem Schild. 
 
-### Armor Proficiency
+![[Rüstung_und_Schilde-Rüstung-phb#Rüstung und Schilde; Rüstungen]]
 
-Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor's use know how to wear it effectively, however.
+### Geübt im Umgang mit Rüstungen
 
-Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
+Jedermann kann sich eine Rüstung anziehen und einen Schild an den Arm binden. Doch nur diejenigen, die auch geübt im Umgang mit dieser Rüstung sind, können sie effizient tragen und kommen in den Genuss all ihre Vorzüge. Deine Klasse verleiht dir Übung im Umgang mit bestimmten Rüstungsarten. Wenn du eine Rüstung trägst, in deren Umgang du nicht geübt bist, bist du bei sämtlichen Attributs-, Rettungs- und Angriffswürfen im Nachteil, bei denen Stärke oder Geschicklichkeit angewendet wird. Außerdem ist es dir nicht möglich, Zauber zu wirken. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c52.webp#center)
+![](img/c52.webp#center)
 
-### Armor Class (AC)
+### Rüstungsklasse (RK)
+Rüstung schützt ihren Träger vor Angriffen. Die Rüstung (und der Schild), die du trägst, bestimmen deine Basis-Rüstungsklasse. 
 
-Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+### Schwere Rüstung
 
-### Heavy Armor
+Schwere Rüstungen behindern ihren Träger und lassen ihn sich weniger schnell, heimlich und frei bewegen. Ist in der Spalte „Stärke" der Rüstungstabelle „STR 13" oder „STR 15" angegeben, reduziert die Rüstung die Bewegungsrate des Trägers um 3 m, falls dieser nicht mindestens einen entsprechenden Stärkewert besitzt. 
 
-Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armor table shows "Str 13" or "Str 15" in the Strength column for an armor type, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+### Heimlichkeit
 
-### Stealth
+Findet sich in der Spalte „Heimlichkeit" der Rüstungstabelle der Eintrag „Nachteil", so ist der Träger bei Würfen auf Geschicklichkeit ([[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) im Nachteil.
 
-If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.
+### Schilde
 
-### Shields
+Ein Schild ist aus Holz oder Metall gefertigt und wird in einer Hand getragen. Einen Schild zu führen, erhöht die Rüstungsklasse um 2. Du kannst immer nur von einem Schild gleichzeitig profitieren. 
 
-A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
-
-> [!note] Variant: Equipment Sizes
+> [!note] Variante: Ausrüstungsgrößen
 > 
-> In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, a burly half-orc won't fit in a halfling's leather armor, and a gnome would be swallowed up in a cloud giant's elegant robe.
+> In den meisten Kampagnen können von Abenteurern gefundene Ausrüstungsgegenstände von jedem angezogen werden, solange der gesunde Menschenverstand dies erlaubt. Beispielsweise wird ein breiter Halbork kaum in die Lederrüstung eines Halblings passen und ein Gnom von der Robe eines Wolkenriesen verschluckt werden, wenn er sie anzuziehen versucht. 
 > 
-> The DM can impose more realism. For example, a suit of plate armor made for one human might not fit another one without significant alterations, and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
+> Der SL kann dem Spiel mehr Realismus verleihen, indem er die Regelvariante anwendet, dass Ausrüstung in verschiedenen Größen gefertigt wird. Zum Beispiel mag ein Plattenpanzer nicht ohne signifikante Änderungsarbeiten jemand anderem passen, und die Stadtwachenuniform könnte eindeutig schlecht sitzen, wenn ein Abenteurer sie als Verkleidung benutzen möchte.
 > 
-> Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit an armorsmith, tailor, leatherworker, or similar expert to make the item wearable. The cost for such work varies from 10 to 40 percent of the market price of the item. The DM can either roll 1d4 × 10 or determine the increase in cost based on the extent of the alterations required.
+> Diese Variante beinhaltet, dass gefundene Rüstungen, Kleidung und ähnliche anziehbare Gegenstände erst bei einem Rüstungsschmied, Schneider, Lederer oder anderen geeigneten Experten angepasst werden müssen, bevor ein Abenteurer sie tragen kann. Die Kosten für eine solche Anpassung variieren zwischen 10 und 40 Prozent des Marktpreises des Gegenstandes. Der SL kann entweder das Ergebnis eines W4 mit 10% multiplizieren oder den Betrag festlegen, der für die Änderungen aufgebracht werden muss. 
 ^variant-equipment-sizes
 
-### Light Armor
+### Leichte Rüstung
 
-Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
+Aus weichen und dünnen Materialien gefertigt, begünstigen leichte Rüstungen agile Abenteurer, da sie Schutz bieten, ohne die Beweglichkeit einzuschränken. Wenn du eine leichte Rüstung trägst, addierst du deinen Geschicklichkeitsmodifikator zu der Basis-Rüstungsklasse deiner Rüstung, um deine Rüstungsklasse zu ermitteln. 
 
-#### Padded
+#### Gefütterte Rüstung 
 
-Padded armor consists of quilted layers of cloth and batting.
+Gefütterte beziehungsweise wattierte Rüstungen bestehen aus verwobenen Schichten von Stoff und Futtermaterial. 
 
-#### Leather
+#### Lederrüstung
 
-The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
+Brust-und Schulterschutz dieser Rüstung sind aus Leder gemacht, das versteift wurde, bevor man es in Öl gekocht hat. Die übrigen Teile der Rüstung sind aus weichen und flexiblen Materialien gefertigt. 
 
-#### Studded Leather
+#### Beschlagene Lederrüstung
 
-Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+Diese Rüstung wurde aus strapazierfähigem oder flexiblem Leder hergestellt und mit eng aneinanderliegenden Nieten oder Stacheln verstärkt. 
 
-### Medium Armor
+### Mittelschwere Rüstung
 
-Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
+Mittelschwere Rüstung bietet mehr Schutz als leichte Rüstung, doch schränkt sie die Beweglichkeit auch mehr ein. Wenn du mittelschwere Rüstung trägst, addierst du deinen Geschicklichkeitsmodifikator auf die Basis-Rüstungsklasse der Rüstung, allerdings nur bis zu einem Maximum von +2, um deine Rüstungsklasse zu bestimmen.
 
-#### Hide
+#### Fellrüstung
 
-This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
+Diese primitive Rüstung besteht aus dicken Pelzen und Tierhäuten. Sie wird für gewöhnlich von Barbarenstämmen, bösen Humanoiden und anderen Individuen getragen, die keinen Zugang zu Werkzeugen und Materialien für die Herstellung von besserer Rüstung besitzen.
 
-#### Chain Shirt
+#### Kettenhemd
 
-Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+Aus ineinandergreifenden Metallringen gearbeitet, wird das Kettenhemd über Schichten aus Stoff oder Leder getragen. Diese Rüstung bietet dem Oberkörper des Trägers wirksam Schutz und dämpft durch äußere Schichten das Geräusch der aneinanderschlagenden Ringe.
 
-#### Scale Mail
+#### Schuppenpanzer
 
-This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
+Ein Schuppenpanzer setzt sich aus einem Mantel und Hosenbeinen (oder einem separaten Rock) aus Leder zusammen, die mit sich überlappenden Metallsegmenten bedeckt sind, ganz wie die Schuppen eines Fisches. Zur Rüstung gehören Handschuhe.
 
-#### Breastplate
+#### Brustplatte
 
-This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
+Diese Rüstung besteht aus einem maßgefertigten Brustteil aus Metall, das mit weichem Leder zusammen getragen wird. Obwohl sie die Arme und Beine relativ ungeschützt lässt, bietet diese Rüstung guten Schutz für die lebenswichtigen Organe des Trägers, während sie ihn in seiner Bewegung nur wenig einschränkt.
 
-#### Half Plate
+#### Plattenpanzer
 
-Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
+Ein Plattenpanzer besteht aus geformten Metallplatten, die den Großteil des Körpers bedecken. Als Beinschutz verfügt er nur über einfache Schienen, die mit Lederriemen befestigt sind.
 
-### Heavy Armor
+### Schwere Rüstung
 
-Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but it also doesn't penalize you if your Dexterity modifier is negative.
+Von allen Rüstungsarten bietet schwere Rüstung den besten Schutz. Sie bedeckt den Körper fast völlig und wurde entworfen, um eine ganze Reibe unterschiedlicher Angriffe abzuwehren. Nur geübte Krieger sind in der Lage, trotz des hohen Gewichts und der Sperrigkeit effektiv zu kämpfen. 
 
-#### Ring Mail
+Bei schweren Rüstungen darfst du deinen Geschicklichkeitsmodifikator nicht auf deine Rüstungsklasse anrechnen. Allerdings bekommst du auch keine Abzüge, falls dein Geschicklichkeitsmodifikator negativ sein sollte. 
 
-This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.
+#### Ringpanzer
 
-#### Chain Mail
+In diese Lederrüstung wurden massive Ringe aus Metall eingenäht, welche die Rüstung gegen Hiebe von Schwertern und Äxten verstärken. Ringpanzer sind von minderer Qualität als Kettenpanzer und werden meist nur von denjenigen getragen, die sich keine bessere Rüstung leisten können.
 
-Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+#### Kettenpanzer
 
-#### Splint
+Diese Rüstung besteht aus ineinandergreifenden Metallringen mit darunterliegenden Lagen gefütterten Materials, um Prellungen und Schürfwunden durch die Wucht der Schläge zu reduzieren. Dieser Rüstung liegen Handschuhe bei.
 
-This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
+#### Schienenpanzer
 
-#### Plate
+Ein Schienenpanzer setzt sich aus schmalen vertikalen Metallstreifen zusammen, die auf einen Träger aus Leder genietet sind, der über einer Lage wattierter Kleidung getragen wird. Flexible Kettenpanzerstücke bedecken die Gelenke.
 
-Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
+#### Ritterrüstung
 
-### Getting Into and Out of Armor
+Die Ritterrüstung besteht aus geformten, ineinandergreifenden Metallplatten, die den gesamten Körper bedecken. Zu diesem Harnisch gehören Handschuhe, schwere Lederstiefel, ein Helm mit Visier und dicke Lagen von Polsterung unter der Rüstung. Schnallen und Riemen verteilen das Gewicht über den Körper.
 
-The time it takes to don or doff armor depends on the armor's category.
+### Rüstungen an- und ablegen
 
-#### Don
+Die Zeit, die man benötigt, um Rüstungen an-und abzulegen, hängt von der Kategorie der Rüstung ab. 
 
-This is the time it takes to put on armor. You benefit from the armor's AC only if you take the full time to don the suit of armor.
+#### Anlegen
 
-#### Doff
+Das ist die Zeit, die man aufbringen muss, um die Rüstung anzuziehen. Du erhältst die entsprechende Rüstungsklasse nur, wenn du die volle Zeit, die nötig ist, mit dem Anlegen verbracht hast. 
 
-This is the time it takes to take off armor. If you have help, reduce this time by half.
+#### Ablegen
 
-![Getting Into and Out of Armor; Donning and Doffing Armor](/3-Mechanics/CLI/tables/getting-into-and-out-of-armor-donning-and-doffing-armor-phb.md)
+Das ist die Zeit, die du benötigst, um die Rüstung auszuziehen. Wenn du dabei Hilfe hast, kannst du die Dauer halbieren. 
 
-## Weapons
+**Rüstungen anlegen und ablegen**
 
-Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
+![[Rüstungen_an-und_ablegen-Rüstungen_anlegen_und_ablegen-phb#^donning-and-doffing-armor]]
 
-The Weapons table shows the most common weapons used in the worlds of D&D, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A melee weapon is used to attack a target within 5 feet of you, whereas a ranged weapon is used to attack a target at a distance.
+## Waffen
 
-![Weapons](/3-Mechanics/CLI/tables/weapons-phb.md)
+Deine Klasse verleiht dir Übung im Umgang mit bestimmten Waffen. Daran kannst du den Schwerpunkt deiner Klasse erkennen und planen, welche Waffen du am ehesten benutzen wirst. Ob du nun ein Langschwert bevorzugst oder einen Langbogen, die Wahl deiner Waffen und deine Fähigkeit, sie effektiv zu führen, können auf deinen Abenteuern den Unterschied zwischen Leben und Tod ausmachen. 
 
-### Weapon Proficiency
+Die Waffentabelle führt die am häufigsten verwendeten Waffen in den Welten von D&D auf sowie ihren Preis, ihr Gewicht und den Schaden, den sie verursachen. Darüber hinaus sind etwaige besondere Eigenschaften angegeben, die sie besitzen. Jede Waffe wird entweder als **Nahkampfwaffe** oder als **Fernkampfwaffe** eingestuft. Eine Nahkampfwaffe wird verwendet, um einen Gegner im Umkreis von 1,50 m anzugreifen, wohingegen man mit Fernkampfwaffen Ziele aus der Entfernung attackiert.
 
-Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+![[Waffen-phb]]
 
-Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
+### Übung mit Waffen
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c56.webp#center)
+Deine Volkszugehörigkeit, deine Klasse und deine Talente können dir Übung im Umgang mit einzelnen Waffen oder ganzen Kategorien verleihen. Es gibt zwei Kategorien: **einfache Waffen** und **Kriegswaffen**. Ein Großteil der Bevölkerung ist im Umgang mit einfachen Waffen geübt. Dies umfasst Keulen, Streitkolben und andere Waffen, die oft von gewöhnlichen Leuten geführt werden. Als Kriegswaffen zählen zum Beispiel Schwerter, Äxte und Stangenwaffen. Sie erfordern ein spezialisiertes Training, um effektiv eingesetzt werden zu können. Meist sieht man sie in der Hand von Kriegern, da diese mit ihnen ihren Kampfstil und ihr Training am besten umzusetzen vermögen. 
 
-### Weapon Properties
+Hast du Übung im Umgang mit einer Waffe, darfst du bei einem Angriff mit dieser deinen Übungsbonus auf den Wurf addieren. Führst du einen Angriffswurf mit einer Waffe aus, in deren Umgang du nicht geübt bist, erhältst du deinen Übungsbonus nicht auf den Wurf. 
 
-Many weapons have special properties related to their use, as shown in the Weapons table.
+![](img/c56.webp#center)
 
-#### Ammunition
+### Waffeneigenschaften
 
-You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
-
-If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see "Improvised Weapons" late in the section). A sling must be loaded to deal any damage when used in this way.
+Viele Waffen besitzen spezielle Eigenschaften, die mit der Art ihrer Benutzung zusammenhängen und die in der Waffentabelle an der entsprechenden Stelle aufgeführt werden. 
 
 #### Finesse
 
-When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+Führst du einen Angriff mit einer Waffe aus, die über diese Eigenschaft verfügt, kannst du wählen, ob du deinen Stärke- oder Geschicklichkeitsmodifikator zu den Angriffs- und Schadenswürfen addieren willst. Du musst den gleichen Modifikator für beide Würfe verwenden.
 
-#### Heavy
+#### Geschosse
 
-Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.
+Du kannst eine Waffe mit der Eigenschaft Geschosse nur dann für einen Fernkampfangriff verwenden, wenn du entsprechende Munition besitzt. Jeder Angriff mit der Waffe verbraucht ein Geschoss. Dieses aus dem Köcher, dem Beutel oder einem anderen Behältnis zu ziehen, ist Teil des Angriffs (du benötigst eine freie Hand, um eine einhändige Waffe zu laden). Am Ende des Kampfes kannst du die Hälfte der verbrauchten Geschosse wieder einsammeln, wenn du für 1 Minute das Schlachtfeld absuchst. Verwendest du eine Waffe mit dieser Eigenschaft für einen Nahkampfangriff, wird sie wie eine improvisierte Waffe behandelt (siehe weiter unten in diesem Abschnitt). Eine Schleuder muss geladen sein, um auf diese Weise Schaden verursachen zu können.
 
-#### Light
+#### Laden
 
-A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. See the rules for two-weapon fighting in chapter 9.
+Das Laden dieser Waffe benötigt eine gewisse Zeit. Wendest du für einen Angriff eine Aktion, Bonusaktion oder Reaktion auf, kannst du nur ein Geschoss verschießen, unabhängig davon, wie viele Angriffe dir zur Verfügung stehen.
 
-#### Loading
+#### Leicht
 
-Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+Eine Waffe mit dieser Eigenschaft ist klein und einfach zu handhaben, was sie ideal für den Kampf mit zwei Waffen macht (die entsprechenden Regeln findest du in Kapitel 9 „Kampf").
 
-#### Range
+#### Reichweite
 
-A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+Eine Waffe, mit der man Fernkampfangriffe ausführen kann, weist eine in Klammern gesetzte Angabe zur Reichweite auf. Diese besteht aus zwei Zahlen: Die erste ist die Grundreichweite der Waffe in Metern, die zweite die Maximalreichweite in Metern. Greifst du ein über die Grundreichweite entferntes Ziel an, bist du bei deinem Angriffswurf im Nachteil. Du kannst kein Ziel angreifen, das sich außerhalb der Maximalreichweite der Waffe befindet.
 
-#### Reach
+#### Speziell
 
-This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon.
+Eine Waffe mit der Eigenschaft Speziell verfügt über ungewöhnliche Regeln, die ihre Anwendung betreffen und die in der Waffenbeschreibung angegeben werden (siehe weiter unten in diesem Abschnitt).
 
-#### Special
+#### Schwer
 
-A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).
+Kleine oder winzige Kreaturen sind bei Angriffswürfen mit schweren Waffen im Nachteil. Masse und Sperrigkeit einer schweren Waffe machen sie zu unhandlich, als dass sie von kleinen oder winzigen Kreaturen effektiv eingesetzt werden können.
 
-#### Thrown
+#### Vielseitig
 
-If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+Diese Waffe kann mit einer oder mit zwei Händen geführt werden. Der Schadenswert in Klammern gibt den Schaden an, der verursacht wird, wenn die Waffe bei einem Angriff mit zwei Händen geführt wird.
 
-#### Two-Handed
+#### Weitreichend
 
-This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
+Bei weitreichenden Waffen erhöht sich die normale Angriffsreichweite um zusätzliche 1,50 m (das gilt auch für Gelegenheitsangriffe, siehe Kapitel 9 „Kampf").
 
-#### Versatile
+#### Wurfwaffe
 
-This weapon can be used with one or two hands. A damage value in parentheses appears with the property-the damage when the weapon is used with two hands to make a melee attack.
+Besitzt eine Waffe die Eigenschaft Wurfwaffe, kannst du mit ihr einen Fernkampfangriff ausführen. Falls es sich um eine Nahkampfwaffe handelt, verwendest du für den Angriffs- und Schadenswurf den gleichen Attributsmodifikator, den du für einen Nahkampfangriff mit dieser Waffe nutzen würdest. Wirfst du zum Beispiel ein Beil, verwendest du Stärke, wirfst du einen Dolch, kannst du zwischen Stärke und Geschicklichkeit wählen, da der Dolch die Eigenschaft Finesse besitzt.
+
+#### Zweihändig
+
+Diese Waffe erfordert beide Hände, um mit ihr angreifen zu können.
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/books/players-handbook-2014/img/c53.webp#gallery)
-> ![](/3-Mechanics/CLI/books/players-handbook-2014/img/c54.webp#gallery)
+> ![](img/c53.webp#gallery)
+> ![](img/c54.webp#gallery)
 
-#### Improvised Weapons
+#### Improvisierte Waffen
 
-Sometimes characters don't have their weapons and have to attack with whatever is close at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+Manchmal haben die Charaktere ihre Waffen nicht bei sich und müssen mit dem angreifen, was gerade in der Nähe ist. Als improvisierte Waffe zij.hlt alles, was für einen Angriff in einer oder zwei Händen geführt werden kann, wie etwa ein zerbrochenes Glas, ein Tischbein, eine Bratpfanne, ein Wagenrad oder ein toter Goblin. 
 
-In many cases, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the DM's option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
+Oft ähneln improvisierte Waffen einer tatsächlichen Waffe und können als solche verwendet werden. Der SL entscheidet, ob ein Charakter seinen Übungsbonus beim Angriff mit einer improvisierten Waffe verwenden darf oder nicht (beispielsweise weil das Tischbein stark einer Keule ähnelt und der Charakter im Umgang mit einfachen Waffen geübt ist). 
 
-An object that bears no resemblance to a weapon deals 1d4 damage (the DM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+Ein Gegenstand, der keine Ähnlichkeit mit einer Waffe besitzt, verursacht 1W4 Schaden ( der SL entscheidet, welcher Art dieser Schaden ist). Wenn der Charakter eine Fernkampfwaffe dazu verwendet, einen Nahkampfangriff ausführen, oder eine Nahkampfwaffe wirft, die nicht die Eigenschaft Wurfwaffe besitzt, verursacht dies ebenfalls 1W4 Schaden. Wird eine improvisierte Waffe geworfen, hat sie eine Grundreichweite von 6 m und eine Maximalreichweite von 18 m. 
 
-#### Silvered Weapons
+#### Versilberte Waffen
 
-Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+Manche Monster, die eine Immunität oder Resistenz gegen nicht-magische Waffen besitzen, sind anfällig für silberne Waffen. Daher investieren vorsichtige Abenteurer in die Versilberung ihrer Klingen oder Pfeile. Du kannst eine einzelne Waffe oder 10 Geschosse für 100 GM mit Silber überziehen lassen. Diese Kosten repräsentieren nicht nur den Preis für das Material an sich, sondern auch für den Prozess des Versilberns. Die sonstige Funktion der Waffe oder der Geschosse bleibt erhalten. 
 
-#### Special Weapons
+#### Spezielle Waffen
 
-Weapons with special rules are described here.
+Waffen mit speziellen Regeln werden hier beschrieben. 
 
-##### Lance
+##### Lanze
 
-You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+Du bist bei deinem Angriffswurf im Nachteil, wenn du die Lanze gegen ein Ziel im Umkreis von 1,50 m oder weniger einsetzt. Außerdem benötigst du beide Hände, um die Lanze effektiv zu führen, wenn du nicht auf einem Reittier sitzt.
 
-##### Net
+##### Netz
 
-A Large or smaller creature hit by a net is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+Eine Kreatur der Größenkategorie groß oder kleiner, die vom Angriff mit einem Netz getroffen wird, gilt als [[Zustände-phb#Festgesetzt|festgesetzt]], bis sie sich befreien kann oder befreit wird. Ein Netz hat keinen Einfluss auf körperlose Kreaturen oder solche der Größenkategorie riesig oder größer. Die betroffene Kreatur kann ihre Aktion verwenden, um einen Stärkewurf gegen SG 10 auszuführen. Bei einem erfolgreichen Wurf kann sie sich selbst oder eine andere Kreatur in Reichweite aus dem Netz befreien. Dem Netz 5 Punkte Hiebschaden zuzufügen (RK 10), befreit die Kreatur ebenfalls, ohne sie dabei zu verletzen. Der Zustand festgesetzt ist beendet und das Netz zerstört.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c55.webp#center)
+Wenn du deine Aktion, Bonusaktion oder Reaktion verwendest, um mit einem Netz anzugreifen, kannst du nur diesen einen Angriff ausführen, gleichgültig wie viele Angriffe dir zur Verfügung stehen.
 
-## Adventuring Gear
+![](img/c55.webp#center)
 
-This section describes items that have special rules or require further explanation.
+## Abenteuerausrüstung
 
-![Adventuring Gear](/3-Mechanics/CLI/tables/adventuring-gear-phb.md)
+Dieser Abschnitt beschreibt Gegenstände, die einer näheren Erklärung bedürfen oder für die spezielle Regeln gelten. 
 
-### Acid
+![[Tabellen/Abenteuerausrüstung-phb]]
 
-As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+### Alchemistenfeuer
 
-### Alchemist's Fire
+Diese zähe, klebrige Flüssigkeit entzündet sich, wenn sie in Kontakt mit Luft kommt. Als Aktion kannst du das Fläschchen bis zu 6 m weit werfen, wo es beim Aufprall zerspringt. Führe einen Fernkampfangriff gegen ein Objekt oder eine Kreatur aus, wobei das Alchemistenfeuer als improvisierte Waffe behandelt wird. Bei einem Treffer erleidet das Ziel zu Beginn jedes seiner Züge 1 W 4 Feuerschaden. Eine Kreatur kann diesen Schaden beenden, indem es eine Aktion aufwendet und einen Geschicklichkeitswurf gegen SG 10 ablegt, um die Flammen zu löschen.
 
-This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+### Angelausrüstung
 
-### Antitoxin
+Diese Zusammenstellung beinhaltet eine Angelrute, Angelschnur, Korkschwimmer, Stahlhaken, Bleigewichte, Seidenköder und engmaschige Netze.
 
-A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
+### Arkaner Fokus
 
-### Arcane Focus
+Ein arkaner Fokus ist ein spezieller Gegenstand wie eine Kristallkugel, ein Edelstein, ein Stab, ein besonders gearbeiteter Stecken, ein zauberstabartiges Stück Holz oder ein ähnlicher Gegenstand, der dazu entworfen wurde, die Kraft von arkanen Zaubern zu bündeln. Ein Zauberer, Hexenmeister oder Magier kann einen solchen Gegenstand als Zauberfokus verwenden, wie es im Kapitel 10 „Zauber wirken" beschrieben wird.
 
-An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item—designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in chapter 10.
+### Behälter, Armbrustbolzen
 
-### Ball Bearings
+Dieser hölzerne Kasten fasst bis zu 20 Armbrustbolzen.
 
-As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone). A creature moving through the area at half speed doesn't need to make this save.
+### Behälter, Karten oder Schriftrollen
 
-### Block and Tackle
+Dieser zylindrische Lederbehälter kann bis zu zehn zusammengerollte Blatt Papier oder fünf zusammengerollte Blatt Pergament enthalten.
 
-A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
+### Beutel
 
-### Book
+Ein Stoff- oder Lederbeutel fasst (neben anderen Dingen) bis zu 20 [[Schleuderkugel-phb|Schleuderkugeln]] oder 50 [[Blasrohrpfeil-phb|Blasrohrpfeile]]. Ein [[#Materialkomponentenbeutel|Materialkomponentenbeutel]], den man für Zauber verwendet, wird separat beschrieben.
 
-A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
+### Brechstange
 
-### Caltrops
+Verwendest du eine Brechstange als Hebel, bist du im Vorteil bei entsprechenden Stärkewürfen.
 
-As an action, you can spend a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.
+### Buch
 
-### Candle
+Ein Buch könnte Poesie, geschichtliche Aufzeichnungen, Informationen über ein bestimmtes Fachgebiet, Diagramme und Notizen zu gnomischen Apparaten oder jeglichem anderen Inhalt enthalten, den man mit Text und Zeichnungen festhalten kann. Ein Buch mit Zaubernsprüchen ist ein Zauberbuch (siehe weiter unten in diesem Abschnitt).
 
-For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+### Druidischer Fokus
 
-### Case, Crossbow Bolt
+Ein druidischer Fokus kann ein Mistelzweig, ein Eibenstock oder ein anderer Gegenstand aus speziellem Holz sein, wie etwa ein Kampfstab. Es kann sich auch um ein Totemobjekt handeln, in das Federn, Fell, Knochen und Zähne eines heiligen Tieres eingearbeitet sind. Ein Druide kann ein solches Objekt als Zauberfokus verwenden, wie es in Kapitel 10 .,Zauberwirken" beschrieben wird.
 
-This wooden case can hold up to twenty crossbow bolts
+### Fackel
 
-### Case, Map or Scroll
+Eine Fackel brennt 1 Stunde lang und liefert im Umkreis von 6 m helles Licht sowie in weiteren 6 m Abstand dämmriges Licht. Wenn du mit der Fackel einen Nahkampfangriff ausführst und triffst, verursachst du 1 Punkt Feuerschaden.
 
-This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.
+### Fangeisen (Falle)
 
-### Chain
+Als Aktion kannst du das Fangeisen auslegen und einsatzbereit machen. Der sägezahnbesetzte Stahlring schnappt zusammen, sobald eine Kreatur auf die Druckplatte in dessen Mitte tritt. Die Falle wird an einer Kette an einem unbeweglichen Objekt befestigt, wie etwa einem Baum oder einem im Boden steckenden Pfahl. Eine Kreatur, die auf die Druckplatte tritt, muss einen `Geschicklichkeits-Rettungswurf` gegen `SG 13` ablegen. Bei einem Misserfolg erleidet sie `1W4` Stichschaden und ihre Bewegung ist beendet. Anschließend ist die Bewegungsfreiheit der Kreatur durch die Kette eingeschränkt, bis sie sich befreien kann. Eine Kreatur kann ihre Aktion dazu verwenden, um einen `Stärkewurf` gegen `SG 13` abzulegen. Bei einem Erfolg kann sie sich selbst oder eine Kreatur in Reichweite befreien.Jeder erfolglose Versuch fügt der gefangenen Kreatur 1 Punkt Stichschaden zu. Die Kette ist typischerweise 1 m lang.
 
-A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+### Fernglas
 
-### Climber's Kit
+Objekte, die durch ein Fernglas betrachtet werden, erscheinen doppelt so groß.
 
-A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
+### Flaschenzug
 
-### Component Pouch
+Bestehend aus Seilen, Rollen und einem Holzblock, an dem ein Haken befestigt ist, dient der Flaschenzug dazu, bis zu viermal höheres Gewicht anzuheben, als dies ohne ihn möglich wäre.
 
-A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+### Gegengift
 
-### Crowbar
+Eine Kreatur, die diese Phiole mit Flüssigkeit trinkt, ist für die nächste Stunde bei ihren Rettungswürfen gegen Gifte im Vorteil. Untote und Konstrukte können diesen Vorteil nicht erhalten.
 
-Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
+### Gift, einfach
 
-### Druidic Focus
+Du kannst das Gift in diesem Gefäß verwenden, um als Aktion eine Hieb- oder Stichwaffe oder 3 Geschosse zu vergiften. Eine Kreatur, die von einer vergifteten Waffe oder einem vergifteten Geschoss getroffen wird, muss einen `Konstitutions-Rettungswurf` gegen `SG 10` ablegen oder nimmt `1W4` Giftschaden. Ist das Gift erst einmal aufgetragen, behält es seine Wirksamkeit für 1 Minute, bevor es eintrocknet.
 
-A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid (see chapter 3 of the Player's Handbook) can use such an object as a spellcasting focus, as described in chapter 10.
+### Handschellen
 
-### Fishing Tackle
+Diese metallenen Fesseln können einer kleinen oder mittelgroßen Kreatur angelegt werden. Sich den Handschellen zu entwinden, erfordert einen erfolgreichen `Geschicklichkeitswurf` gegen `SG 20`. Mit einem `Stärkewurf` gegen `SG 20` können sie auch aufgebrochen werden.Jedem Paar Handschellen liegt ein Schlüssel bei. Eine Kreatur, die geübt im Umgang mit Diebeswerkzeug ist, kann die Handschellen auch ohne Schlüssel mit einem erfolgreichen `Geschicklichkeitswurf` gegen `SG 15` öffnen. Handschellen haben 15 Trefferpunkte.
 
-This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
+### Heilerausrüstung
 
-### Healer's Kit
+Dieses Set ist ein Lederbeutel, der Bandagen, Salben und Schienen enthält. Es reicht für zehn Anwendungen. Als Aktion kannst du eine Anwendung aufbrauchen, um eine Kreatur mit 0 Trefferpunkten zu stabilisieren, ohne dass du einen Wurf auf Weisheit ([[Fertigkeiten-phb#Heilkunde|Heilkunde]]) ablegen musst.
 
-This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check.
+### Heiltrank
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c57.webp#center)
+Ein Charakter, der die magische rote Flüssigkeit aus der Phiole trinkt, erhält `2W4 + 2` Trefferpunkte zurück. Den Trank zu trinken oder zu verabreichen, benötigt eine Aktion.
 
-### Holy Symbol
+### Heiliges Symbol
 
-A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred rite. Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in Part 3: The Rules of Magic. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
+Ein heiliges Symbol repräsentiert eine Gottheit oder ein Pantheon von Göttern. Es könnte auf ein Amulett geprägt, aber auch auf einen Schild graviert sein oder sich als Einlegearbeit auf diesem befinden. Auch eine kleine Schatulle mit einem winzigen Fragment einer heiligen Reliquie kann als heiliges Symbol dienen. Anhang B „Götter des Multiversums" führt das verbreitetste Symbol jeder Gottheit auf. Ein Kleriker oder Paladin kann das heilige Symbol als Zauberfokus verwenden, so wie es in Kapitel 10 „Zauber wirken" beschrieben wird. Um das heilige Symbol auf diese Weise nutzen zu können, muss man es sichtbar in einer Hand halten oder es muss auf einem Schild angebracht sein.
 
-### Holy Water
+![](img/c57.webp#center)
 
-As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact.
+### Kaufmannswaage
 
-In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
+Eine Waage besteht aus einem Gegengewicht, zwei Waagschalen und einem passenden Sortiment an Gewichten von bis zu zwei Pfund. Mit ihrer Hilfe kannst du das genaue Gewicht von kleinen Gegenständen wie Rohmaterialien oder Handelsgütern abwiegen und so ihren Wert bestimmen.
 
-### Hunting Trap
+### Kette
 
-When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+Eine Kette hat 10 Trefferpunkte. Sie kann mit einem erfolgreichen `Stärkewurf` gegen `SG 20` gesprengt werden.
 
-### Lamp
+### Kerze
 
-A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+Eine Kerze spendet für 1 Stunde helles Licht in einem Radius von 1,50 m und dämmriges Licht in weiteren 1,50 m Entfernung.
 
-### Lantern, Bullseye
+### Kletterausrüstung
 
-A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+Eine Kletterausrüstung beinhaltet spezielle Felshaken, Steigeisen, Handschuhe und einen Klettergurt. Als Aktion kannst du die Kletterausrüstung nutzen, um dich in einer Wand zu verankern. Von dem Punkt, an dem du dich verankert hast, kannst du nicht tiefer als 7 ,50 m fallen und dich nicht weiter als 7,50 m entfernen, ohne die Verankerung zu lösen.
 
-### Lantern, Hooded
+### Köcher
 
-A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
+Ein Köcher fasst bis zu 20 [[Pfeil-phb|Pfeile]].
 
-### Lock
+### Krähenfüße
 
-A key is provided with the lock. Without the key, a creature proficient with [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
+Als Aktion kannst du die Krähenfüße in diesem Beutel über einen Bereich mit höchstens 1,50 m Seitenlänge verteilen.Jede Kreatur, die den Bereich betritt, muss einen erfolgreichen `Geschicklichkeits-Rettungswurf` gegen `SG 15` ablegen oder sie erleidet 1 Punkt Stichschaden und ihre Bewegung ist beendet. Erleidet sie diesen Schaden, ist die Bewegungsrate der Kreatur um 3 m verringert, bis sie mindestens 1 Trefferpunkt wiedererlangt. Eine Kreatur, die sich nur mit halber Bewegungsrate durch den Bereich bewegt, muss keinen Rettungswurf ablegen. Fliegende Kreaturen werden von Krähenfüßen nicht beeinflusst.
 
-### Magnifying Glass
+### Lampe
 
-This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.
+Eine Lampe verbreitet helles Licht in einem Radius von 4,50 m und dämmriges Licht im Umkreis von weiteren 9 m. Ab dem Entfachen brennt die Lampe mit einem Fläschchen Öl (0,5l) für 6 Stunden.
 
-### Manacles
+### Laterne, abdeckbar
 
-These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+Die abdeckbare Laterne erhellt einen Umkreis von 9 m mit hellem Licht und weitere 9 m mit dämmrigem Licht. Nach dem Entzünden brennt sie mit einem Fläschchen Öl (0,5l) 6 Stunden lang. Im Rahmen einer Aktion kannst du die Abdeckung herunterlassen und das Licht der Laterne auf einen Radius von 1,50 m aus dämmrigem Licht reduzieren.
 
-### Mess Kit
+### Laterne, Blend-
 
-This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
+Eine Blendlaterne wirft einen 18 m langen Kegel hellen Lichts, der weitere 18 min dämmriges Licht taucht. Einmal entfacht, brennt die Laterne mit einem Fläschchen Öl (0,5 l) für 6 Stunden.
 
-### Oil
+### Materialkomponentenbeutel
 
-Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
+Ein Materialkomponentenbeutel ist eine kleine, wasserdichte Ledergürteltasche. In ihm befinden sich in separaten Fächern all jene Materialien und anderen speziellen Gegenstände, die du zum Wirken deiner Zauber benötigst. Komponenten, die in der Beschreibung des Zaubers mit Kosten aufgeführt sind, sind nicht im Beutel enthalten.
 
-### Poison, Basic
+### Metallkügelchen
 
-You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+Als Aktion kannst du die kleinen Metallkugeln auf einer Fläche verschütten, die höchstens 3 m pro Seite misst. Eine Kreatur, die sich über die bedeckte Fläche (die eben sein muss) bewegt, muss einen erfolgreichen `Geschicklichkeits-Rettungswurf` gegen `SG 10` ablegen, um nicht hinzufallen und den Zustand [[Zustände-phb#Liegend|liegend]] zu erhalten. Eine Kreatur, die sich nur mit halber Bewegungsrate durch diesen Bereich bewegt, muss keinen Rettungswurf ablegen.
 
-### Potion of Healing
+### Öl
 
-A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
+Öl wird üblicherweise in tönernen Flaschen verkauft, die 0,5 Liter enthalten. Als Aktion kannst du das Öl auf eine Kreatur innerhalb von 1,50 m schütten oder es bis zu 6 m weit werfen, wo das Fläschchen beim Aufprall zerbricht. In beiden Fällen führst du einen Fernkampfangriff gegen das Objekt oder die Kreatur aus, wobei das Ölfläschchen als improvisierte Waffe behandelt wird. Bei einem Treffer ist das Ziel mit Öl benetzt. Erleidet es Feuerschaden, bevor das Öl eintrocknet (nach 1 Minute), fügt ihm das Öl weitere 5 Punkte Feuerschaden zu. Du kannst ein Fläschchen auch auf dem Boden ausleeren und eine Fläche von 1,50 m x 1,50 m mit Öl bedecken, vorausgesetzt der Boden ist eben. Wird es entzündet, brennt das Öl für 2 Runden und fügt jeder Kreatur, die den Bereich betritt oder ihren Zug in diesem beendet, 5 Punkte Feuerschaden zu.
 
-### Pouch
+### Rammbock, tragbar
 
-A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).
+Du kannst den tragbaren Rammbock dazu verwenden, um Türen einzuschlagen. In diesem Fall erhältst du einen Bonus von +4 auf deinen Stärkewurf. Hilft dir ein weiterer Charakter, den Rammbock zu benutzen, bist du bei deinem Wurf im Vorteil.
 
-### Quiver
+### Rationen
 
-A quiver can hold up to 20 arrows.
+Rationen bestehen aus getrocknetem Essen, das für lange Reisen geeignet ist. Darunter findet man Dörrfleisch, Trockenfrüchte, Nüsse und Hartkäse.
 
-### Ram, Portable
+### Reisegeschirr
 
-You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
+Diese Blechdose enthält einen Becher und einfaches Besteck. Die Blechdose ist zusammengesteckt, sodass eine Seite als Pfanne und die andere als Teller oder flache Schale verwendet werden kann.
 
-### Rations
+### Säure
 
-Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
+Als Aktion kannst du den Inhalt dieser Phiole auf eine Kreatur innerhalb von 1,50 m verspritzen oder die Phiole bis zu 6 m weit werfen, wo sie beim Aufprall zerbricht. In beiden Fällen führst du gegen das Objekt oder die Kreatur einen Fernkampfangriff aus, bei dem die Säure als improvisierte Waffe behandelt wird. Bei einem Treffer erleidet das Ziel `2W6` Säureschaden.
 
-### Rope, hempen (50 feet)
+### Schloss
 
-Rope, made of hemp, has 2 hit points and can be burst with a DC 17 Strength check.
+Jedes Schloss wird mit einem passenden Schlüssel verkauft. Eine Kreatur, die geübt im Umgang mit [[Diebeswerkzeug-phb|Diebeswerkzeug]] ist, kann das Schloss auch ohne den Schlüssel mit einem erfolgreichen `Geschicklichkeitswurf` gegen `SG 15` öffnen. Dein SL kann bestimmen, ob es für mehr Geld bessere Schlösser zu kaufen gibt.
 
-### Rope, silk (50 feet)
+### Seil, Hanf (15m)
 
-Rope, made of silk, has 2 hit points and can be burst with a DC 17 Strength check.
+Seile, aus Hanf gefertigt, haben 2 Trefferpunkte und können mit einem `Stärkewurf` gegen `SG 17` zerrissen werden.
 
-### Scale, Merchant's
+### Seil, Seide (15m)
 
-A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
+Seile, aus Seide gefertigt, haben 2 Trefferpunkte und können mit einem `Stärkewurf` gegen `SG 17` zerrissen werden.
 
-### Spellbook
+### Vergrößerungsglas
 
-Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
+Diese Linse ermöglicht einen besseren Blick auf kleine Objekte. Verwendest du ein Vergrößerungsglas bist du im Vorteil bei jeglichen Fertigkeitswürfen, die mit der Untersuchung oder dem Schätzen eines Objekts in Verbindung stehen, das klein oder sehr detailliert ist. Die Linse ist auch hilfreich als Ersatz für Feuerstein und Stahl. Ein Feuer mit dem Vergrößerungsglas zu entfachen, erfordert taghelles Licht, um die Strahlen zu bündeln, Zunder und etwa 5 Minuten Zeit, bis der Zunder brennt.
 
-### Spyglass
+### Weihwasser
 
-Objects viewed through a spyglass are magnified to twice their size.
+Als Aktion kannst du den Inhalt des Fläschchens auf eine Kreatur innerhalb von 1,50 m verspritzen oder dieses bis zu 6 m weit werfen, wo es beim Aufprall zerbricht.
 
-### Tent
+In beiden Fällen führst du einen Fernkampfangriff gegen die Zielkreatur aus, wobei das Weihwasser als improvisierte Waffe behandelt wird. Wenn das Ziel ein Untoter oder ein Unhold ist, nimmt es 2W6 gleißenden Schaden. Ein Kleriker oder ein Paladin kann Weihwasser mit einem speziellen Ritual erschaffen. Das Ritual benötigt 1 Stunde, um durchgeführt zu werden, und verbraucht 25 GM an Silberstaub und einen Zauberplatz des 1. Grades.
 
-A simple and portable canvas shelter, a tent sleeps two.
+### Zauberbuch
 
-### Tinderbox
+Unverzichtbar für Magier ist das Zauberbuch aus ledergebundenen 100 leeren Pergamentseiten.
 
-This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
+### Zelt
 
-### Torch
+Ein einfacher und tragbarer Leinenunterschlupf, in dem zwei Personen übernachten können.
 
-A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+### Zunderkästchen
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c58.webp#center)
+Dieses kleine Kästchen enthält Feuerstein, Stahl und Zunder (in der Regel Stoff, der leicht mit Öl getränkt ist), um ein Feuer entfachen zu können. Zum Anzünden einer Fackel oder einem ähnlichen mit Brennstoff versehenen Gegenstand, benötigt man eine Aktion.Jedes andere Feuer zu entfachen, dauert 1 Minute.
 
-![Adventuring Gear; Container Capacity](/3-Mechanics/CLI/tables/adventuring-gear-container-capacity-phb.md)
+![](img/c58.webp#center)
 
-> [!note] Equipment Packs
+![Abenteuerausrüstung; Behälterkapazität](Tabellen/Abenteuerausrüstung-Behälterkapazität-phb#^container-capacity)
+
+> [!note] Ausrüstungspakete
 > 
-> The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+> Die Anfangsausrüstung, die du durch deine Klasse erhältst, beinhaltet eine in einem Paket zusammengefasste Sammlung nützlicher Abenteuerausrüstung. Die Inhalte dieser Pakete sind nachfolgend aufgelistet. Wenn du deine Anfangsausrüstung mit Geld selbst zusammenstellst, kannst du ein Paket für den angegebenen Preis erwerben, was möglicherweise günstiger ist, als alle Gegenstände einzeln zu kaufen.
 > 
-> **Burglar's Pack (16 gp).** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Diplomatenausrüstung (39 GM):** Enthält eine Truhe, 2 Behälter für Karten und Schriftrollen, einen Satz feine Kleidung, eine Flasche Tinte, eine Schreibfeder, eine Lampe, 2 Flaschen Öl, 5 Blatt Papier, eine Phiole mit Parfüm, Siegelwachs und Seife
 > 
-> **Diplomat's Pack (39 gp).** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+> **Einbrecherausrüstung (16 GM):** Enthält einen Rucksack, einen Beutel mit 1.000 Metallkügelchen, eine 3 m lange Kette, eine Glocke, 5 Kerzen, eine Brechstange, einen Hammer, 10 Kletterhaken, eine abdeckbare Laterne, 2 Flaschen Öl, 5 Tagesrationen, ein Zunderkästchen, einen Trinkschlauch und ein l 5 m langes Seil aus Hanf.
 > 
-> **Dungeoneer's Pack (12 gp).** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Entdeckerausrüstung (10 GM):** Enthält einen Rucksack, einen Schlafsack, ein Reisegeschirr, ein Zunderkästchen, 10 Fackeln, 10 Tagesrationen, einen Trinkschlauch und ein 15 m langes Seil aus Hanf.
 > 
-> **Entertainer's Pack (40 gp).** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+> **Gelehrtenausrüstung (40 GM):** Enthält einen Rucksack, ein Buch mit Überlieferungen, eine Flasche Tinte, eine Schreibfeder, 10 Blätter Pergament, einen kleinen Beutel mit Sand und ein kleines Messer
 > 
-> **Explorer's Pack (10 gp).** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Gewölbeforscherausrüstung (12 GM):** Enthält einen Rucksack, eine Brechstange, einen Hammer, 10 Kletterhaken, 10 Fackeln, ein Zunderkästchen, 10 Tagesrationen, einen Trinkschlauch und ein 15 m langes Seil aus Hanf.
 > 
-> **Priest's Pack (19 gp).** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
+> **Priesterausrüstung (19 GM):** Enthält einen Rucksack, eine Decke, 10 Kerzen, ein Zunderkästchen, eine Opferbüchse, 2 Blöcke Räucherwerk, ein Räuchergefäß, Gewänder, 2 Tagesrationen und einen Trinkschlauch.
 > 
-> **Scholar's Pack (40 gp).** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+> **Unterhaltungskünstler-Ausrüstung (40 GM):** Enthält einen Rucksack, einen Schlafsack, 2 Kostüme, 5 Kerzen, 5 Tagesrationen, einen Trinkschlauch und eine Verkleidungsausrüstung.
 ^equipment-packs
 
-## Tools
+## Werkzeuge
 
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the DM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
+Mit einem Werkzeug kannst du etwas vollbringen, wozu du andernfalls nicht in der Lage wärst. Dazu zählt das Herstellen oder Reparieren von Gegenständen, das Fälschen von Dokumenten oder das Knacken von Schlössern. Deine Volkszugehörigkeit, deine Klasse, dein Hintergrund oder deine Talente verleihen dir Übung mit bestimmten Werkzeugen. Dies erlaubt dir, deinen Übungsbonus bei jedem Fertigkeits- oder Attributswurf anzuwenden, bei dem das Werkzeug zum Einsatz kommt. Die Benutzung des Werkzeugs ist nicht an ein einzelnes Attribut oder eine einzelne Fertigkeit gebunden, da es für jedes verschiedene Anwendungsmöglichkeiten gibt. Bei einem Holzschnitzwerkzeug könnte dein SL beispielsweise einen Geschicklichkeitswurf verlangen, wenn du feine Details herausarbeiten willst, oder einen Stärkewurf, wenn du etwas aus besonders hartem Holz herstellen möchtest. 
 
-### Artisan's Tools
+### Diebeswerkzeug
 
-These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+Dieser Satz Werkzeuge enthält eine kleine Feile, verschiedene Dietriche, einen kleinen Spiegel mit Handgriff, unterschiedliche Scheren mit dünnen Schneiden und einige Pinzetten. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Entschärfen von Fallen oder dem Öffnen von Schlössern in Verbindung stehen.
 
-### Disguise Kit
+### Fälscherausrüstung
 
-This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
+Dieser kleine Kasten enthält ein breites Spektrum an Papieren und Pergamenten, Schreibwerkzeugen und Tinten, Siegeln und Siegelwachs, Gold- und Silberplättchen sowie andere Ausrüstung, die notwendig ist, um überzeugende Fälschungen von tatsächlichen Dokumenten zu erschaffen. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Fälschen von Dokumenten in Verbindung stehen.
 
-### Forgery Kit
+### Giftmischerausrüstung
 
-This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
+Die Giftmischerausrüstung enthält Phiolen, Chemikalien und andere Gegenstände, die zum Herstellen von Giften benötigt werden. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit der Herstellung und Anwendung von Giften in Verbindung stehen.
 
-### Gaming Set
+### Handwerkzeug
 
-This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+Diese speziellen Werkzeuge umfassen alles, was man benötigt, um einem bestimmten Handwerk oder einer bestimmten Tatigkeit nachzugehen. In der Tabelle sind die häufigsten und meistverbreiteten Werkzeuge angeführt. Bist du im Umgang mit einem von diesen geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit der Ausübung des entsprechenden Handwerks oder der Tätigkeit in Verbindung stehen. Jede Art von Handwerkzeug benötigt seine eigene Übung.
 
-### Herbalism Kit
+### Kräuterkundeausrüstung
 
-This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions.
+Diese Ausrüstung enthält eine Auswahl von Instrumenten wie Pinzetten, Mörser und Stößel sowie Phiolen und Beutelehen, die von Kräuterkundigen verwendet werden, um Salben und Tränke herzustellen. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Anwenden und Identifizieren von Kräutern sowie dem Herstellen von Gegengiften und Heiltränken in Verbindung stehen .
 
-Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.
+### Musikinstrument
 
-### Musical Instrument
+Einige der meistverbreiteten Musikinstrumente sind als Beispiele in der Tabelle aufgeführt. Bist du im Umgang mit einem Musikinstrument geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Spielen des Instruments in Verbindung stehen. Ein Barde kann sein Instrument als Zauberfokus verwenden, so wie es in Kapitel 10 „Zauber wirken" beschrieben wird. Jedes Musikinstrument benötigt seine eigene Übung.
 
-Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in Part 3: The Rules of Magic, Casting a Spell. Each type of musical instrument requires a separate proficiency.
+### Navigationswerkzeuge
 
-### Navigator's Tools
+Dieser Satz von Instrumenten wird bei der Navigation auf See verwendet. Übung mit diesem Werkzeug lässt dich den Kurs eines Schiffes aufzeichnen und Navigationstabellen befolgen. Außerdem darfst du deinen Übungsbonus addieren, wenn du Attributs- oder Fertigkeitswürfe ablegen musst, um dich nicht auf dem Meer zu verirren.
 
-This set of instruments is used for navigation at sea. Proficiency with [navigator's tools](/3-Mechanics/CLI/items/navigators-tools-xphb.md) lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+### Spiel
 
-### Poisoner's Kit
+Hierunter fallen eine ganze Auswahl von Spielen, unter anderem ein Würfelset und Spielkarten. Die Tabelle gibt einige verbreitete Beispiele für Spiele, doch es existieren unzählige weitere. Bist du im Umgang mit einem Spiel geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, wenn du es spielst.Jedes Spiel erfordert seine eigene Übung.
 
-A [poisoner's kit](/3-Mechanics/CLI/items/poisoners-kit-xphb.md) includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+### Verkleidungsausrüstung
 
-### Thieves' Tools
+Dieser Beutel mit Schminke, Haarfärbemitteln und kleinen Requisiten lässt dich Verkleidungen entwerfen, die dein Äußeres verändern. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, wenn du dich äußerlich verkleidest.
 
-This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+![](img/c59.webp#center)
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c59.webp#center)
+![[Werkzeuge-phb#^item-cost-weight]]
 
-![Tools](/3-Mechanics/CLI/tables/tools-phb.md)
+## Reittiere und Fahrzeuge
 
-## Mounts and Vehicles
+Mit einem guten Reittier vermagst du dich schneller durch die Wildnis zu bewegen, doch seine primäre Aufgabe ist es, die Ausrüstung zu tragen, die dich andernfalls verlangsamen würde. In der Reit- und Lasttiertabelle sind verschiedene Tiere aufgeführt, die sich zum Reiten eignen, zusammen mit der entsprechenden Bewegungsrate und Traglast. 
 
-A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's speed and base carrying capacity.
+Ein Tier, das einen Wagen, Karren, Schlitten oder Streitwagen zieht, kann bis zum fünffachen seiner Traglast damit transportieren, einschließlich des Gewichts des Fahrzeugs. Ziehen mehrere Tiere dasselbe Fahrzeug, summiert sich ihre Traglast. 
 
-An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+In den Welten von DUNGEONS & DRAGONS existieren zwar auch andere Reittiere als die aufgeführten, diese sind jedoch selten und stehen für gewöhnlich nicht zum Verkauf. Darin inbegriffen sind fliegende Reittiere (Pegasi, Greifen, Hippogreifen und ähnliche Wesen) und auch Meeresreittiere (wie zum Beispiel Riesenseepferdchen). An ein solches Reittier gelangen Abenteurer meist nur, indem sie einen Handel mit einem mächtigen Wesen oder dem Reittier selbst eingehen oder wenn sie ein Ei finden, es selbst ausbrüten und das Junge aufziehen. 
 
-Mounts other than those listed here are available in the worlds of D&D, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
+### Rossharnisch
 
-### Barding
+Hierbei handelt es sich um eine Rüstung, die dafür entworfen wurde, Kopf, Nacken, Brust und Körper eines Reittieres zu schützen. Jede Art von Rüstung, die in der Rüstungstabelle aufgeführt ist, kann als Rossharnisch angefertigt werden. Die Kosten entsprechen dem vierfachen Preis für Humanoide und das Gewicht ist doppelt so hoch. Nicht nur Pferde können einen Rossharnisch tragen.
 
-Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+### Sattel
 
-### Saddles
+Ein Militärsattel stützt den Reiter und hilft ihm dabei, während des Kampfes auf einem Reittier nicht hinunterzufallen. Du bist im Vorteil bei Würfen, um im Sattel zu bleiben. Ein exotischer Sattel wird zum Reiten von fliegenden oder Wasserreittieren benötigt.
 
-A [military saddle](/3-Mechanics/CLI/items/military-saddle-xphb.md) braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An [exotic saddle](/3-Mechanics/CLI/items/exotic-saddle-xphb.md) is required for riding any aquatic or flying mount.
+### Fahrzeugübung
 
-### Vehicle Proficiency
+Bist du im Umgang mit einem Fahrzeug (Land oder Wasser) geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die damit in Verbindung stehen, das Fahrzeug in schwierigen Situationen unter Kontrolle zu halten.
 
-If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
+### Ruderboot
 
-### Rowed Vessels
+Kielboote und Ruderboote werden auf Seen und Flüssen eingesetzt. Wenn du flussabwärts fährst, kannst du die Geschwindigkeit der Strömung beim Bestimmen des Reisetempos des Fahrzeugs mit einrechnen (typischerweise 4,5 km pro Stunde). Mit diesen Booten kann man nicht flussaufwärts rudern, wenn eine erwähnenswerte Strömung besteht, doch können sie von Tieren am Ufer in diese Richtung gezogen werden. Ein Ruderboot wiegt 100 Pfund, für den Fall, dass Abenteurer es über Land tragen müssen.
 
-Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+![](img/c510.webp#center)
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c510.webp#center)
+**Reit- und Lasttiere**
 
-![Mounts and Vehicles; Mounts and Other Animals](/3-Mechanics/CLI/tables/mounts-and-vehicles-mounts-and-other-animals-phb.md)
+![[Reittiere-und-Fahrzeuge-Reit-und-Lasttier-phb#^mounts-and-other-animals]]
 
-![Mounts and Vehicles; Tack, Harness, and Drawn Vehicles](/3-Mechanics/CLI/tables/mounts-and-vehicles-tack-harness-and-drawn-vehicles-phb.md)
+**Zaumzeug, Harnisch und gezogene Fahrzeuge**
 
-![Mounts and Vehicles; Waterborne Vehicles](/3-Mechanics/CLI/tables/mounts-and-vehicles-waterborne-vehicles-phb.md)
+![[Reittiere_und_Fahrzeuge-Zaumzeug_Geschirr_und_gezogene_Fahrzeuge-phb#^tack-harness-and-drawn-vehicles]]
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c511.webp#center)
+**Wasserfahrzeuge**
 
-## Trade Goods
+![[mounts-and-vehicles-waterborne-vehicles-phb#^waterborne-vehicles]]
 
-Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
+![](img/c511.webp#center)
 
-Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
+## Handelsgüter
 
-![Trade Goods](/3-Mechanics/CLI/tables/trade-goods-phb.md)
+Die meisten Reichtümer bestehen nicht aus Gold. Reichtum wird in Vieh, Getreide, Land, Steuerrechten und dem Recht auf Ressourcen gemessen (wie dem Schürfrecht oder dem Forstrecht). Gilden, Adelige und Edelleute kontrollieren den Handel. Beauftragten Unternehmen wird das Recht verliehen, Handel auf bestimmten Strecken zu betreiben, Schiffe in verschiedene Häfen zu schicken oder festgelegte Waren zu kaufen oder zu verkaufen. Gilden setzen Preise für Güter und Dienstleistungen fest, die sie kontrollieren, und bestimmen, wer diese anbieten darf und wer nicht. Kaufleute tauschen Handelsgüter für gewöhnlich aus, ohne Währungen zu verwenden. Die Handelsgütertabelle zeigt den Wert der am häufigsten getauschten Güter. 
 
-## Expenses
+![[Handelsgüter-phb#^trade-goods]]
 
-When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
+## Ausgaben
 
-### Lifestyle Expenses
+Wenn Abenteurer nicht gerade in die Tiefen eines Gewölbes hinabsteigen, Ruinen erkunden, Schatzhorte plündern oder Krieg gegen die um sich greifende Dunkelheit führen, stellen sie sich der Realität des Alltags. Sogar in den fantastischen Welten von D&D muss jeder Bewohner Grundbedürfnisse wie ein Zuhause, Nahrung und Kleidung befriedigen. Diese Dinge kosten Geld, auch wenn manche Lebensstile höhere Ausgaben verlangen als andere. 
 
-Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
+### Lebenshaltungskosten
 
-At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career.
+Die folgende Tabelle hilft dir dabei, auf einfache Weise die Kosten für das alltägliche Leben in den fantastischen Welten von D&D abzurechnen. Die Ausgaben für einen bestimmten Lebensstil decken Unterkunft, Essen und Trinken sowie alle sonstigen Bedürfnisse ab. Darüberhinaus sind darin auch die Instandhaltungskosten für deine Ausrüstung enthalten, sodass du jederzeit bereit bist, wenn das Abenteuer ruft. 
 
-Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
+Am Anfang jeder Woche oder jedes Monats (deine Wahl) kannst du dir einen Lebensstil aus der unten stehenden Tabelle aussuchen und die entsprechenden Kosten begleichen, um diesen zu unterhalten. Die aufgeführten Preise gelten für einen Tag. Um die monatlichen Kosten auszurechnen, multipliziere also einfach den angegebenen Wert mit 30. Dein Lebensstil kann deine gesamte Abenteurerkarriere hindurch gleich bleiben oder sich von Zeit zu Zeit ändern, weil dir mehr oder weniger Geld zur Verfügung steht. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c512.webp#center)
+Die Wahl deines Lebensstils hat Konsequenzen. Einen wohlhabenden Lebensstil zu unterhalten, könnte dir helfen, Kontakte mit den Reichen und Mächtigen zu knüpfen, gleichzeitig erhöht sich aber auch die Gefahr eines Überfalls. Umgekehrt bewahrt dich ein ärmlicher Lebensstil vermutlich davor, von Dieben behelligt zu werden, doch verwehrt er dir den Kontakt zu einflussreichen Personen. 
 
-![Lifestyle Expenses](/3-Mechanics/CLI/tables/lifestyle-expenses-phb.md)
+![](img/c512.webp#center)
 
-#### Wretched
+![[lifestyle-expenses-phb#^lifestyle-expenses]]
 
-You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
+#### Jämmerlich
 
-#### Squalid
+Du lebst in unmenschlichen Verhältnissen. Ohne ein Zuhause schläfst du, wo es sich gerade anbietet (etwa bei bessergestellten Leuten), oder du schleichst dich in eine Scheune, kauerst dich in alte Transportkisten oder suchst Unterschlupf in der freien Natur. Ein derartiger Lebensstil ist mit einigen Gefahren verbunden. Gewalt, Krankheiten und Hunger verfolgen dich, wo immer du hingehst.Jene, die genauso abgebrannt sind wie du, haben es auf deine Rüstung, Waffen und sonstige Ausrüstung abgesehen, da diese für ihre Verhältnisse ein Vermögen wert ist. Der Großteil der Bevölkerung nimmt dich gar nicht wahr.
 
-You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed, marked as exiles, or suffer from disease.
+#### Ärmlich
 
-#### Poor
+Du haust in einem dreckigen Stall, einer Hütte mit matschigem Boden vor den Toren der Stadt oder in einem ungezieferverseuchten, abrissreifen Haus in einem der schlimmsten Viertel. Du hast zwar Zuflucht vor den Elementen, doch du lebst in einer hoffnungslosen und oft gewalttätigen Umgebung, an Orten, die von Krankheiten, Hunger und Unglück heimgesucht werden. Die meisten Leute nehmen dich nicht wahr und du besitzt nur wenig rechtlichen Schutz. Jemand, der diesen Lebensstil pflegt, hat oft einen schrecklichen Rückschlag erlitten. Er könnte verwirrt, als Aussätziger gebrandmarkt oder krank sein.
 
-A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
+#### Schlecht
 
-#### Modest
+In schlechten Verhältnissen zu leben, bedeutet, auf die Annehmlichkeiten einer stabilen Gemeinschaft verzichten zu müssen. Einfaches Essen und simple Unterkunft, zerschlissene Kleidung und unvorhersehbare Verhältnisse prägen diesen ausreichenden, wenn auch eher unangenehmen Lebensstil. Deine Unterkunft könnte ein Raum in einem Wohnhaus oder ein Zimmer über einer Taverne sein. Du genießt einigen rechtlichen Schutz, doch musst dich noch oft mit Gewalt, Verbrechen und Krankheiten auseinandersetzen. Personen mit diesem Lebensstil sind häufig ungelernte Arbeiter, Tagelöhner, Diebe, Söldner oder anderweitig verrufene Gestalten.
 
-A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like.
+#### Einfach
 
-#### Comfortable
+Ein einfacher Lebensstil ermöglicht dir ein Heim abseits der Elendsviertel und sichert dir den Erhalt deiner Ausrüstung. Du lebst in einem älteren Viertel der Stadt, hast ein Zimmer in einem Gasthof, Tempel oder einer Pension. Du musst nie hungrig oder durstig sein und deine Lebensverhältnisse sind gepflegt, aber schlicht. Zur Bevölkerung mit einem einfachen Lebensstil gehören Soldaten mit Familien, Arbeiter, Gelehrte, Priester, angehende Magier und dergleichen.
 
-Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
+#### Komfortabel
 
-#### Wealthy
+Einen komfortablen Lebensstil zu pflegen, bedeutet, sich schönere Kleidung leisten zu können und mit Leichtigkeit für die Instandhaltung der Ausrüstung aufzukommen. Du lebst in einem kleinen Häuschen in einer beschaulichen Gegend oder in einem Privatzimmer eines feinen Gasthofs. Zu deinem sozialen Umfeld gehören Kaufleute, fähige Handwerker und Offiziere.
 
-Choosing a wealthy lifestyle means living a life of luxury, though you might not have achieved the social status associated with the old money of nobility or royalty. You live a lifestyle comparable to that of a highly successful merchant, a favored servant of the royalty, or the owner of a few small businesses. You have respectable lodgings, usually a spacious home in a good part of town or a comfortable suite at a fine inn. You likely have a small staff of servants.
+#### Wohlhabend
 
-#### Aristocratic
+Wer einen wohlhabenden Lebensstil wählt, entscheidet sich für ein Leben im Luxus. Zwar besitzt du nicht den sozialen Status von Edelleuten und Adeligen, doch ist dein Leben vergleichbar mit dem eines sehr erfolgreichen Kaufmanns, eines bevorzugten Dieners des Adels oder eines Eigentümers einiger kleiner Geschäfte. Du verfügst über eine respektable Behausung, für gewöhnlich ein großräumiges Heim in einem guten Viertel der Stadt oder eine komfortable Suite in einem der besten Gasthöfe. Es ist wahrscheinlich, dass du ein kleines Gefolge aus Dienern unterhältst.
 
-You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery.
+#### Edel
 
-The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.
+Du lebst ein Leben voller Überfluss und Komfort und bewegst dich in den Kreisen der mächtigsten Personen einer Gemeinschaft. Deine Unterkunft ist exzellent, vielleicht ein Haus im besten Teil der Stadt oder Räumlichkeiten im besten Gasthof. Du isst in den besten Speiselokalen, unterhältst den fähigsten und angesagtesten Schneider und hast Diener, die sich all deiner Wünsche annehmen. Die Abende verbringst du in Gesellschaft der Reichen und Mächtigen, mit Politikern, Gildenoberhäuptern, Hohepriestern und Edelleuten, bei exklusiven Veranstaltungen, zu denen du selbstverständlich stets eingeladen bist. Allerdings musst du auch mit dem höchsten Maß an Betrug und Verrat umgehen. Je wohlhabender du bist, desto größer wird die Wahrscheinlichkeit, in politische Intrigen verstrickt zu werden, als Ränkeschmied oder Leidtragender.
 
-### Food, Drink, and Lodging
+### Essen, Trinken und Unterkunft
 
-The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
+Die Tabelle Essen, Trinken und Unterkunft gibt Preise für einzelne Nahrungsmittel und Übernachtungen in bestimmten Unterkünften an. Diese Kosten sind in deine Lebenshaltungskosten mit eingerechnet. 
 
-![Food, Drink, and Lodging](/3-Mechanics/CLI/tables/food-drink-and-lodging-phb.md)
+![[Essen-Trinken-und-Unterkunft-phb#^food-drink-and-lodging]]
 
-> [!note] Self-Sufficiency
+> [!note] Selbstversorgung
 > 
-> The expenses and lifestyles described in this chapter assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
+> Die Lebensstile, die in diesem Kapitel beschriebenwerden, setzen voraus, dass du die Zeit zwischen deinen Abenteuern in einer Stadt verbringst, wo du dir Dienstleistungen gönnst, für Essen und Unterkunft aufkommst und dafür bezahlst, dass man dein Schwert schärft und deine Rüstung repariert. Manche Charaktere bevorzugen es jedoch, ihr Leben fern von der Zivilisation zu verbringen und in der Wildnis für sich selbst zu sorgen, indem sie jagen, Vorräte sammeln und ihre Ausrüstung selbst instand halten. Diesen Lebensstil zu pflegen, erfordert keine einzige Münze, aber Zeit
 > 
-> Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, as described in chapter 8, you can eke out the equivalent of a poor lifestyle. Proficiency in the [Survival](/3-Mechanics/CLI/skills.md#Survival) skill lets you live at the equivalent of a comfortable lifestyle.
+> Verbringst du die Tage oder Wochen zwischen den Abenteuern mit der Ausübung deines Berufs (siehe Kapitel 8 „Auf Abenteuer ausziehen"), kannst du dir in einem Dorf oder einer Stadt einen schlechten Lebensstil leisten. Wenn du geübt in der [[Fertigkeiten-phb#Überlebenskunst|Überlebenskunst]] bist, kannst du in der Wildnis die Entsprechung eines komfortablen Lebensstils führen.
 ^self-sufficiency
 
-### Services
+### Dienstleistungen
 
-Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
+Abenteurer können Nichtspielercharaktere dafür bezahlen, ihnen bei einer Vielzahl von Tätigkeiten zu assistieren oder diese ganz zu übernehmen. Die meiste n dieser Mietlinge besitzen durchschnittliche Fähigkeiten, während andere Meister ihres Faches sind und einige wenige Experten sogar über spezialisierte Abenteurerfähigkeiten verfügen.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the [Leomund's secret chest](/3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+Die grundlegenden Arten von Mietlingen, die in der Tabelle ,,Dienstleistungen" aufgeführt sind, umfassen jede Person, die eine Ansiedlung bewohnt und eine bestimmte Aufgabe erledigt, wenn die Abenteurer sie dafür bezahlen. Beispielsweise könnte ein Magier einen Zimmermann beauftragen, eine anständige Truhe (samt Miniaturentsprechung) zu fertigen, um sie für den Zauberspruch [[Leomunds_Geheime_Truhe-phb|Leomunds Geheime Truhe]] zu verwenden. Ein Kämpfer könnte einen Schmied dafür bezahlen, ein spezielles Schwert anzufe rtigen, oder ein Barde einen Schneider, damit dieser exquisite Kleidung für einen anstehenden Auftritt vor dem Grafen herstellt.
 
-Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
+Andere Mietlinge erbringen speziellere und gefährlichere Dienste: Etwa ziehen bezahlte Söldner mit in den Kampf, um den Abenteurern in der Schlacht mit einer Hobgoblinarmee beizustehen, oder angeheuerte Gelehrte durchforsten antike Schriftrollen oder betreiben geheimnisvolle Forschungen. Erwirbt ein hochstufiger Abenteurer gar eine Festung, benötigt er einen ganzen Stab an Dienern und Angestellten. Dies kann vom Kastellan über einen Truchsess bis hin zu Arbeitern reichen, welche die Stallungen sauber halten. Diese Mietlinge freuen sich über langfristige Verträge, die Kost und Logis innerhalb der Festung beinhalten.
 
-Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
+Ausgebildete Mietlinge sind jene, die für eine Tatigkeit bezahlt werden, in der sie geübt sind (dazu zählen Waffen, Fertigkeiten und Werkzeuge): ein Kaufmann, ein Handwerker, ein Schreiber und so weiter. Die angegebene Bezahlung ist ein Minimum, manch erfahrener Mietling fordert mehr Geld. Ungelernte Mietlinge werden für Aufgaben angeheuert, die keine besonderen Fähigkeiten erfordern, etwa Arbeiter, Träger oder Hausmädchen.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c513.webp#center)
+![](img/c513.webp#center)
 
-![Services](/3-Mechanics/CLI/tables/services-phb.md)
+![[Dienstleistungen-phb#^services]]
 
-### Spellcasting Services
+### Magische Dienstleistungen
 
-People who are able to cast spells don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
+Personen, die fähig sind, Zauber zu wirken, fallen nicht in die Kategorie gewöhnlicher Mietlinge. Möglicherweise begegnen die Abenteurer jemandem, der bereit ist, im Tausch gegen bare Münze oder einen Gefallen, Magie anzuwenden. Diese Art von Diensten ist jedoch selten, und es gibt dafür keine festen Preise. Als Regel gilt:Je höher der Grad eines Zaubers, desto schwieriger ist es, jemanden zu finden, der ihn wirkt, und desto mehr kostet es. 
 
-Hiring someone to cast a relatively common spell of 1st or 2nd level, such as [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) or [identify](/3-Mechanics/CLI/spells/identify-xphb.md), is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster infested wilderness to deliver something important to a distant settlement.
+Ein Kleriker, Magier oder dergleichen, der einen relativ einfachen Spruch des 1. oder 2. Grades wirken kann (etwa Wunden heilen oder Identifizieren), findet sich bereits in einem Dorf oder einer kleinen Stadt und veranschlagt zwischen 10 und 50 GM für seine Dienste (plus teurer Materialkomponenten).Jemanden, der bereit ist, gegen Bezahlung einen höhergradigen Spruch zu wirken, trifft man vermutlich nur in einer großen Stadt an, die eine Akademie oder einen berühmten Tempel besitzt. 
 
-## Trinkets
+Ist der Zauberwirker erst einmal ausfindig gemacht, könnte dieser statt einer monetären Bezahlung einen bestimmten Dienst verlangen -einen, den nur Abenteurer zu leisten vermögen, wie etwa das Bergen eines seltenen Gegenstands von einem gefährlichen Ort oder das Durchqueren einer monsterverseuchten Region, um etwas Wichtiges an eine weit entfernte Siedlung zu liefern. 
 
-When you make your character, you can roll once on the [Trinkets](/3-Mechanics/CLI/items/trinket-xphb.md) table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+## Tand
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c514.webp#center)
+Bei der Erschaffung deines Charakters darfst du mit Hilfe der Tabelle für Tand zufällig einen Gegenstand bestimmen, den du zu Beginn erhältst und der etwas leicht Mystisches besitzt. Der SL kann diese Tabelle verwenden, um Räume in Gewölben auszuschmücken oder die Taschen von Monstern zu füllen. 
+
+![](img/c514.webp#center)

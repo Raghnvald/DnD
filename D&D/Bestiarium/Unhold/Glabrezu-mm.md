@@ -11,178 +11,181 @@ tags:
 aliases:
   - Glabrezu
 ---
-# [Glabrezu](3-Mechanics\CLI\bestiary\fiend/glabrezu.md)
-*Source: Monster Manual p. 58. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Glabrezu
+*Quelle: Monsterhandbuch S. 38. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
+Ein Glabrezu hat großes Vergnügen dabei, Sterbliche durch Versuchung zu zerstören, und diese Kreaturen gehören zu den wenigen Dämonen, die ihre Dienste Kreaturen anbieten, die närrisch genug sind, sie zu beschwören. 
 
-Although glabrezus are devastating in combat, they prefer to tempt victims into ruin, using power or wealth as a lure. Engaging in guile, trickery, and evil bargains, a glabrezu hoards riches that it uses to fulfill promises to shortsighted summoners and weak-willed mortals. However, if its attempts to entice or deceive fail, a glabrezu has the strength to fight and win.
+Auch wenn Glabrezus im Kampf extrem gefährlich sind, ziehen sie es vor, ihre Opfer zu verführen und in den Untergang zu leiten. Dabei verwenden sie Macht oder Wohlstand als Köder. Durch List, Tricks und böse Abmachungen häuft ein Glabrezu Reichtümer an, die er nutzt, um die Versprechungen zu erfüllen, die si~ kurzsichtigen Beschwörern und willensschwachen Sterblichen gemacht haben. Wenn aber seine Versuche, das Opfer zu verführen oder zu täuschen misslingen, dann hat der Glabrezu die Stärke, um zu kämpfen und zu gewinnen. 
 
-## Demons
+## Dämonen
 
-Spawned in the Infinite Layers of the Abyss, demons are the embodiment of chaos and evil-engines of destruction barely contained in monstrous form. Possessing no compassion, empathy, or mercy, they exist only to destroy.
+Dämonen, die in den Unendlichen Schichten des Abyss erschaffen werden, sind eine Verkörperung des Chaos und des Bösen - Maschinen der Zerstörung, die kaum von einer monströsen Gestalt im Zaum gehalten werden. Sie verfügen über kein Mitleid, kein Einfühlungsvermögen, keine Gnade und existieren nur, um zu zerstören.
 
-### Spawn of Chaos
+### Brut des Chaos
 
-The Abyss creates demons as extensions of itself, spontaneously forming fiends out of filth and carnage. Some are unique monstrosities, while others represent uniform strains virtually identical to each other. Other demons (such as manes) are created from mortal souls shunned or cursed by the gods, or which are otherwise trapped in the Abyss.
+Der Abyss erschafft Dämonen als Erweiterung seiner selbst und formt die Unholde spontan aus Schmutz und Gewalt. Einige sind einzigartige Monstren, andere stellen einheitliche Arten dar, die untereinander fast identisch sind. Andere Dämonen (wie Manen) werden aus sterblichen Seelen erschaffen, die von den Göttern abgelehnt oder verflucht wurden oder die aus anderen Gründen im Abyss gefangen worden sind.
 
-### Capricious Elevation
+### Launenhafter Aufstieg
 
-Demons respect power and power alone. A greater demon commands shrieking mobs of lesser demons because it can destroy any lesser demon that dares to refuse its commands. A demon's status grows with the blood it spills; the more enemies that fall before it, the greater it becomes.
+Dämonen respektieren einzig und allein Macht. Ein mächtiger Dämon befehligt deshalb kreischende Meuten schwächerer Dämonen, weil er schwächere Dämonen, die seinen Befehlen nicht folgen wollen, einfach zerstören kann. Der Status eines Dämons wächst mit dem Blut, das er vergießt; je mehr Feinde ihm zum Opfer fallen, umso machtvoller wird er.
 
-A demon might spawn as a manes, then become a dretch, and eventually transform to a vrock after untold time spent fighting and surviving in the Abyss. Such elevations are rare, however, for most demons are destroyed before they attain significant power. The greatest of those that do survive make up the ranks of the demon lords that threaten to tear the Abyss apart with their endless warring.
+Ein Dämon könnte als Mane in die Welt gebracht werden, dann zu einem Dretch werden und sich schließlich in einen Vrock verwandeln, nachdem er unendlich lange im Abyss gekämpft und überlebt hat. Solche Erhebungen sind allerdings selten, da die meisten Dämonen zerstört werden, ehe sie nennenswerte Macht erlangen können. Die Mächtigsten unter jenen, die überleben, sind die Dämonenfürsten, die drohen, den Abyss mit ihren endlosen Kriegen zu zerfetzen.
 
-By expending considerable magical power, demon lords can raise lesser demons into greater forms, though such promotions never stem from a demon's deeds or accomplishments. Rather, a demon lord might warp a manes into a quasit when it needs an invisible spy, or turn an army of dretches into hezrous when marching against a rival lord. Demon lords only rarely elevate demons to the highest ranks, fearful of inadvertently creating rivals to their own power.
+Indem sie beträchtliche magische Macht aufwenden, können Dämonenfürsten schwächere Dämonen zu mächtigeren machen, doch sind solche Beförderungen niemals die Folge der Taten oder Leistungen des Dämons. Vielmehr verwandelt ein Dämonenfürst vielleicht einen Mane in einen Quasit, wenn er einen unsichtbaren Spion braucht, oder er verwandelt eine Armee von Dretchs in Hezrous, wenn er gegen einen feindlichen Fürsten in die Schlacht zieht. Dämonenfürsten erheben Dämonen nur selten in den höchsten Rang, da sie fürchten, Rivalen um ihre eigene Macht zu erschaffen.
 
-### Abyssal Invasions
+### Invasion aus dem Abyss
 
-Wherever they wander across the Abyss, demons search for portals to the other planes. They crave the chance to slip free of their native realm and spread their dark influence across the multiverse, undoing the works of the gods, tearing down civilizations, and reducing the cosmos to despair and ruin.
+Wo auch immer sie durch den Abyss wandern suchen Dämonen nach Portalen auf andere Ebenen. Sie sehnen sich nach der Gelegenheit, ihrem Heimatreich zu entkommen und ihren dunklen Einfluss im ganzen Multiversum zu verbreiten. Sie wollen die Werke der Götter zunichte machen, Zivilisationen niederreißen und den Kosmos in Verzweiflung und Unheil stürzen. Einige der finstersten Legenden der sterblichen Welt drehen sich um die Zerstörung, die von Dämonen verursacht wird, die in die Welt losgelassen wurden. Und so werden selbst Nationen, die in bittere Auseinandersetzungen verwickelt sind, ihre Meinungsverschiedenheiten beiseite legen, um zu helfen, einen Dämonenausbruch einzudämmen oder Durchbrüche aus dem Abyss zu versiegeln, ehe diese Unholde ausbrechen können.
 
-Some of the darkest legends of the mortal realm are built around the destruction wrought by demons set loose in the world. As such, even nations embroiled in bitter conflict will set their differences aside to help contain an outbreak of demons, or to seal off abyssal breaches before these fiends can break free.
+### Zeichen der Korruption
 
-### Signs of Corruption
+Dämonen tragen den Makel der Korruption des Abyss in sich. Ihre bloße Anwesenheit macht die Welt zu einem schlechteren Ort. Pflanzen verdorren und sterben in Gegenden, in denen es zu Durchbrüchen aus dem Abyss kommt und wo Dämonen auftauchen. Tiere meiden Orte, an denen Dämonen getötet haben. Die Stätte einer dämonischen Heimsuchung könnte von einem Gestank verdorben sein, der niemals schwindet, von Gegenden bitterer Kälte oder sengender Hitze oder von dauerhaften Schatten, die die Orte kennzeichnen, wo sich die Unholde aufgehalten haben.
 
-Demons carry the stain of abyssal corruption with them, and their mere presence changes the world for the worse. Plants wither and die in areas where abyssal breaches and demons appear. Animals shun the sites where a demon has made a kill. The site of a demonic infestation might be fouled by a stench that never abates, by areas of bitter cold or burning heat, or by permanent shadows that mark the places where these fiends lingered.
+### Ewiges Böse
 
-### Eternal Evil
+Außerhalb des Abyss ist der Tod nur ein unbedeutendes Ärgernis, das kein Dämon fürchtet. GewöhnJiche Waffen können diese Unholde nicht aufhalten, und viele Dämonen sind resistent gegen die Energie der mächtigsten Zauber. Wenn _ ein glücklicher Held es schafft, einen Dämon im Kampf niederzustrecken, dann löst sich dieser in faulig stinkendes Blut auf. Er formt sich dann augenblicklich im Abyss neu. Sein Geist und seine Essenz sind intakt und sein Hass entflammt
 
-Outside the Abyss, death is a minor nuisance that no demon fears. Mundane weapons can't stop these fiends, and many demons are resistant to the energy of the most potent spells. When a lucky hero manages to drop a demon in combat, the fiend dissolves into foul ichor. It then instantly reforms in the Abyss, its mind and essence intact even as its hatred is inflamed.
+Die einzige Art, einen Dämon wirklich zu töten, ist es, ihn im Abyss ausfindig zu machen und dort zu töten.
 
-The only way to truly destroy a demon is to seek it in the Abyss and kill it there.
+### Geschützte Essenz
 
-### Protected Essence
+Ein mächtiger Dämon kann Schritte einleiten, um seine Lebensessenz zu schützen. Dabei verwendet er geheime Methoden und Metalle aus dem Abyss, um ein Amulett zu erschaffen, in das ein Teil dieser Essenz eingearbeitet wird. Wenn die Gestalt des Dämons im Abyss jemals zerstört wird, erlaubt es ihm das Amulett, sich an einem Ort und einer Zeit seiner Wahl neu zu formen
 
-A powerful demon can take steps to safeguard its life essence, using secret methods and abyssal metals to create an amulet into which part of that essence is ceded. If the demon's abyssal form is ever destroyed, the amulet allows the fiend to reform at a time and place of its choosing.
+Ein Dämonenamulett zu erlangen ist ein gefährliches Unterfangen, und es nur zu suchen bringt schon das Risiko, die Aufmerksamkeit des Dämons auf sich zu ziehen, der es erschaffen hat. Eine Kreatur, die ein Dämonenamulett in ihrem Besitz hat, kann dem Dämon, dessen Lebensessenz das Amulett birgt, Gefallen abtrotzen - oder große Schmerzen verursachen, wenn sich der Unhold widersetzt. Wenn das Amulett zerstört wird, ist der Dämon, der es erschaffen hat, für ein Jahr und einen Tag im Abyss gefangen.
 
-Obtaining a demonic amulet is a dangerous enterprise, and simply seeking such a device risks drawing the attention of the demon that created it. A creature possessing a demonic amulet can exact favors from the demon whose life essence the amulet holds—or inflict great pain if the fiend resists. If an amulet is destroyed, the demon that created it is trapped in the Abyss for a year and a day.
+### Dämonenkulte
 
-### Demonic Cults
+Trotz der dunklen Risiken, die jeder Umgang mit Unholden birgt, ist das sterbliche Reich voller Kreaturen, die sich nach dämonischer Macht sehnen. Dämonenfürsten manipulieren diese sterblichen Diener, sodass sie immer verderbtere Taten ausführen und so die Pläne des Dämonenfürsten vorantreiben. Im Austausch erhalten sie Magie und andere Gaben.
 
-Despite the dark risks involved in dealing with fiends, the mortal realm is filled with creatures that covet demonic power. Demon lords manipulate these mortal servants into performing ever greater acts of depravity, furthering the demon lord's ambitions in exchange for magic and other boons. However, a demon regards any mortals in its service as tools to use and then discard at its whim, consigning their mortal souls to the Abyss.
+Allerdings betrachtet ein Dämon alle Sterblichen, die ihm dienen, als bloße Werkzeuge, die er verwenden und dann auf eine Laune hin wegwerfen kann, was ihre sterbliche Seele dem Abyss übereignet.
 
-### Demon Summoning
+### Dämonenbeschwörung
 
-Few acts are as dangerous as summoning a demon, and even mages who bargain freely with devils fear the fiends of the Abyss. Though demons yearn to sow chaos on the Material Plane, they show no gratitude when brought there, raging against their prisons and demanding release.
+Wenige Taten sind so gefährlich wie die Beschwörung eines Dämons. Selbst Magier, die unverhohlen mit Teufeln verhandeln, fürchten die Unholde des Abyss. Auch wenn Dämonen sich danach sehnen, Chaos auf der Materiellen Ebene zu verbreiten, zeigen sie keine Dankbarkeit, wenn sie dorthin gebracht werden. Sie zürnen gegen ihren Kerker und verlangen, freigelassen zu werden.
 
-Those who would risk summoning a demon might do so to wrest information from it, press it into service, or send it on a mission that only a creature of absolute evil can complete. Preparation is key, and experienced summoners know the specific spells and magic items that can force a demon to bend to another's will. If a single mistake is made, a demon that breaks free shows no mercy as it makes its summoner the first victim of its wrath.
+Wer das Risiko eingeht, einen Dämonen zu beschwören, könnte dies tun, um Informationen von ihm zu erhalten, ihn in seinen Dienst zu zwingen oder ihn auf eine Mission auszuschicken, die nur eine Kreatur des absoluten Bösen vollenden kann. Vorbereitung ist der Schlüssel: Erfahrene Beschwörer wissen, welche Zauber und magischen Gegenstände sie nutzen können, um einen Dämon dazu zu zwingen, sich dem Willen eines anderen zu beugen. Wenn nur ein einzelner Fehler gemacht wird, zeigt ein Dämon, der sich losreißt, keine Gnade und macht seinen Beschwörer zum ersten Opfer seines Zorns.
 
-### Bound Demons
+### Gebundene Dämonen
 
-The Book of Vile Darkness, the Black Scrolls of Ahm, and the Demonomicon of Iggwilv are the foremost authorities on demonic matters. These ancient tomes describe techniques that can trap the essence of a demon on the Material Plane, placing it within a weapon, idol, or piece of jewelry and preventing the fiend's return to the Abyss.
+Das Buch der niederträchtigen Dunkelheit, die Schwarzen Schriftrollen von Ahm und das Demonomicon von lggwilv sind die wichtigsten Werke zu allen dämonischen Fragen. Diese uralten Schriften beschreiben Techniken, die die Essenz eines Dämons auf der Materiellen Ebene einsperren kann, um ihn in eine Waffe, ein Götzenbild oder ein Schmuckstück zu sperren und so seine Rückkehr in den Abyss zu verhindern
 
-An object that binds a demon must be specially prepared with unholy incantations and innocent blood. It radiates a palpable evil, chilling and fouling the air around it. A creature that handles such an object experiences unsettling dreams and wicked impulses, but is able to control the demon whose essence is trapped within the object. Destroying the object frees the demon, which immediately seeks revenge against its binder.
+Ein Gegenstand, der einen Dämon binden soll, muss speziell mit unheiligen Anrufungen und unschuldigem Blut vorbereitet werden. Er strahlt greifbares Böse aus und lässt die Luft in der Umgebung kühl und übelriechend werden. Eine Kreatur, die einen solchen Gegenstand verwendet, durchlebt verstörende Träume und bösartige Impulse, kann aber den Dämon, dessen Essenz in dem Gegenstand gefangen ist, kontrollieren. Den Gegenstand zu zerstören befreit den Dämon, der sofort Rache gegen den anstrebt, der ihn gebunden hat.
 
-### Demonic Possession
+### Dämonische Besessenheit
 
-No matter how secure its bindings, a powerful demon often finds a way to escape an object that holds it. When a demonic essence emerges from its container, it can possess a mortal host. Sometimes a fiend employs stealth to hide a successful possession. Other times, it unleashes the full brunt of its fiendish drives through its new form.
+Egal, wie sicher er gebunden ist, ein mächtiger Dämon findet oft eine Möglichkeit, einem Gegenstand zu entkommen, der ihn birgt. Wenn eine dämonische Essenz ihrem Behältnis entkommt, kann sie einen sterblichen Wirt in Besitz nehmen. Manchmal kann ein solcher Unhold heimlich genug sein, um diese Inbesitznahme zu verbergen. Zu anderen Zeiten entfesselt er die volle Wucht seiner unheiligen Triebe durch seine neue Gestalt.
 
-As long as the demon remains in possession of its host, the soul of that host is in danger of being dragged to the Abyss with the demon if it is exorcised from the flesh, or if the host dies. If a demon possesses a creature and the object binding the demon is destroyed, the possession lasts until powerful magic is used to drive the demonic spirit out of its host.
+Solange der Dämon seinen Wirt in Besitz hat, ist die Seele des Wirts in Gefahr, mit dem Dämon in den Abyss gerissen zu werden, wenn dieser aus dem Fleisch ausgetrieben wird oder wenn der Wirtskörper stirbt. Wenn ein Dämon eine Kreatur in Besitz nimmt und der Gegenstand, der den Dämon bindet, zerstört wird, dann hält die Besessenheit an, bis mächtige Magie verwendet wird, um den dämonischen Geist aus seinem Wirt zu vertreiben.
 
-### Demon Lords
+### Dämonenfürsten
 
-The chaotic power of the Abyss rewards demons of particular ruthlessness and ingenuity with a dark blessing, transforming them into unique fiends whose power can rival the gods. These demon lords rule through cunning or brute force, hoping to one day claim the prize of absolute control over all the Abyss.
+Die chaotische Macht des Abyss belohnt Dämonen von besonderer Skrupellosigkeit und Einfallsreichtum mit einem dunklen Segen. Sie verwandelt sie in einzigartige Unholde, deren Macht den Göttern gleichkommen kann. Diese Dämonenfürsten herrschen durch Gerissenheit oder rohe Gewalt und hoffen, eines Tages die absolute Kontrolle über den gesamten Abyss an sich reißen zu können.
 
-#### Reward for Outsiders
+#### Belohnung für Außenstehende
 
-Although most demon lords rise up from the vast and uncountable mobs of demons rampaging across the Abyss, the plane also rewards outsiders that conquer any of its infinite layers. The elven goddess Lolth became a demon lord after Corellon Larethian cast her into the Abyss for betraying elvenkind. Sages claim that the Dark Prince Graz'zt originated on some other plane before stealing his abyssal title from another long-forgotten demon lord.
+Auch wenn sich die meisten Dämonenfürsten aus den gigantischen und unzählbaren Dämonenhorden erheben, die durch den Abyss wüten, belohnt die Ebene auch Fremde, die es schaffen, eine ihrer unzähligen Schichten zu erobern. Die elfische Göttin Lolth wurde zu einer Dämonenfürstin, nachdem Corellon Larethian sie in den Abyss schleuderte, weil sie die Elfenheit verraten hatte. Gelehrte behaupten, dass der Dunkle Prinz Graz'zt irgendwo auf einer anderen Ebene entstanden ist und sich seinen Titel im Abyss von einem lange vergessenen Dämonenfürsten raubte.
 
-#### Power and Control
+#### Macht und Kontrolle
 
-The greatest sign of a demon lord's power is its ability to reshape an abyssal realm. A layer of the Abyss controlled by a demon lord becomes a twisted reflection of that fiend's vile personality, and demon lords seldom leave their realms for fear of allowing another creature to reshape and seize it.
+Das größte Zeichen der Macht eines Dämonenfürsten ist seine Fähigkeit, ein Reich im Abyss umzuformen. Eine Schicht des Abyss, die von einem Dämonenfürsten beherrscht wird, wird zu einer verdrehten Spiegelung der bösartigen Persönlichkeit des Unholdes. Selten verlassen Dämonenfürsten ihr Reich, da sie Angst haben, eine andere Kreatur könnte es erobern und umformen.
 
-As with other demons, a demon lord that dies on another plane has its essence return to the Abyss, where it reforms into a new body. Likewise, a demon lord that dies in the Abyss is permanently destroyed. Most demon lords keep a portion of their essence safely stored away to prevent such a fate.
+Wie bei anderen Dämonen kehrt die Essenz eines Dämonenfürsten, der auf einer anderen Ebene stirbt, in den Abyss zurück, wo sie einen neuen Körper bildet. Gleichermaßen wird ein Dämonenfürst, der im Abyss stirbt, dauerhaft zerstört. Die meisten Dämonenfürsten bewahren einen Teil ihrer Essenz an einem sicheren Ort auf, um ein solches Schicksal zu meiden.
 
 #### Baphomet
 
-The demon lord Baphomet, also known as the Horned King and the Prince of Beasts, rules over minotaurs and other savage creatures. If he had his way, civilization would crumble and all races would embrace their base animal savagery.
+Der Dämonenfürst Baphomet, auch bekannt als der Gehörnte König und der Prinz der Bestien, herrscht über Minotauren und andere wilde Kreaturen. Wenn er seinen Willen durchsetzen könnte, würden alle Zivilisationen zusämmenbrechen und die Völker würden sich ihrer tierischen Wildheit hingeben.
 
-The Prince of Beasts appears as a huge, black-furred minotaur with iron horns, red eyes, and a blood-soaked mouth. His iron crown is topped with the rotting heads of his enemies, while his dark armor is set with spikes and skull-like serrations. He carries a huge glaive named Heartcleaver, but often hurls it into the fray so as to face his enemies with horns and hooves.
+Der Prinz der Bestien erscheint als riesiger, schwarzpelziger Minotaurus mit eisernen Hörnern, roten Augen und einem blutbeschmierten Mund. Seine eiserne Krone ist mit den verfaulenden Köpfen seiner Feinde verziert, während seine dunkle Rüstung von Stacheln und schädelartigen Verzahnungen bedeckt ist. Er führt eine gewaltige Glefe, die den Namen Herzteiler trägt, doch oft schleudert er sie in die Schlacht, um seine Feinde mit Hörnern und Hufen zu stellen.
 
 #### Demogorgon
 
-The Sibilant Beast and the self-styled Prince of Demons, Demogorgon yearns for nothing less than undoing the order of the multiverse. An insane assemblage of features and drives, the Prince of Demons inspires fear and hatred among other demons and demon lords.
+Demogorgon, die Zischende Bestie, der selbsternannte Prinz der Dämonen, begehrt nicht weniger, als die Ordnung des Multiversums zunichte zu machen. Der Prinz der Dämonen ist eine wahnsinnige Ansammlung von Merkmalen und Trieben. Er erfüllt selbst andere Dämonen und Dämonenfürsten mit Angst und Hass.
 
-Demogorgon towers three times the height of a human, his body as sinuous as a snake's and as powerful as a great ape's. Suckered tentacles take the place of his arms. His saurian lower torso ends in webbed and clawed feet, and a forked tail whose whip-like tips are armed with cruel blades. The Prince of Demons has two baleful baboon heads, both of them mad. It is only the conflict between the two halves of his dual nature that keeps the demon lord's ambitions in check.
+Demogorgon ist dreimal so groß wie ein Mensch. Sein Körper ist geschmeidig wie der einer Schlange und kraftvoll wie der eines großen Affen. Anstelle von Armen hat er Tentakel mit Saugnäpfen. Sein echsenartiger Unterleib endet in Füßen mit Schwimmhäuten und Klauen und einem gegabelten Schwanz, dessen peitschenartige Spitzen in grausamen Klingen enden. Der Prinz der Dämonen hat zwei hasserfüllte Pavianköpfe, die beide wahnsinnig sind. Es ist nur der Konflikt der beiden Hälften seines doppelten Wesens, der den Ehrgeiz des Dämonenfürsten im Zaum hält.
 
 #### Graz'zt
 
-The demon lord Graz'zt appears as a darkly handsome figure nearly nine feet tall. Those who refer to the Dark Prince as the most humanoid of the demon lords vastly underestimate the capacity for evil in his scheming heart.
+Der Dämonenfürst Graz'zt erscheint als fast drei Meter große, · finstere, gut aussehende Gestalt. Wer den Dunklen Prinzen als den humanoidesten der Dämonenfürsten ansieht, unterschätzt drastisch, wie viel Böses in seinem intriganten Herzen lauert.
 
-Graz'zt is a striking physical specimen, whose demonic nature shows in his ebon skin, pointed ears, yellow fangs, crown of horns, and six-fingered hands. He delights in finery, pageantry, and sating his decadent desires with subjects and consorts alike, among whom incubi and succubi are often his favorites.
+Graz'zt ist körperlich sehr eindrucksvoll, und sein dämonisches Wesen zeigt sich in seiner ebenholzschwarzen Haut, seinen spitzen Ohren, den gelben Reißzähnen, der Krone aus Hörnern und seinen sechsfingrigen Händen. Er ergötzt sich an Prunk, Gepränge und an der Erfüllung seiner dekadenten Begierden mit gleichermaßen Untertanen wie Gefährten. Die Inkubi und Sukkubi sind ihm oft die liebsten Diener.
 
 #### Juiblex
 
-The demon lord of slimes and oozes, Juiblex is a stew of noxious fluids that lurks in the abyssal depths. The wretched Faceless Lord cares nothing for cultists or mortal servants, and its sole desire is to turn all creatures into formless copies of its horrid self.
+Jubilex, der Dämonenfürst der Schleime und Schlicke, ist eine Brühe aus ekelhaften Flüssigkeiten, die in den Tiefen des Abgrunds lauert. Der ekelhafte Gesichtslose Fürst schert sich nicht um Kultisten und sterbliche Diener. Sein einziger Wunsch ist es, alle Kreaturen in formlose Kopien seines grässlichen Selbst zu verwandeln.
 
-In its resting state, Juiblex spreads out in a noxious mass, bubbling and filling the air with a profound stench. On the rare occasions when creatures confront the demon lord, Juiblex draws itself up into a shuddering cone of slime striated with veins of black and green. Baleful red eyes swim within its gelatinous body, while dripping pseudopods of ooze lash out hungrily at any creature they can reach.
+Im Ruhezustand breitet sich Jubilex in eine abscheuliche Masse aus, die blubbert und die Luft mit einem grauenvollen Gestank erfüllt. In den seltenen Situationen, in denen sich Kreaturen mit dem Dämonenfürsten anlegen, zieht sich Jubilex zu einem bebenden Kegel aus Schleim zusammen, der von schwarzen und grünen Adern durchzogen ist.
+
+Hasserfüllte rote Augen schwimmen in dem gallertartigen Körper, während tropfende Scheinfüße hungrig nach jeder Kreatur schlagen, die sie erreichen können.
 
 #### Lolth
 
-The Demon Queen of Spiders is the evil matron of the drow. Her every thought is touched by malice, and the depth of her viciousness can surprise even her most faithful priestesses. She directs her faithful while she weaves plots across the worlds of the Material Plane, looking forward to the time when her drow followers bring those worlds under her control.
+Die Dämonenkönigin der Spinnen ist die böse Matrone der Drow. Jeder ihrer Gedanken ist von Bosheit erfüllt, und das Ausmaß ihrer Grausamkeit kann selbst ihre gläubigsten Priester noch überraschen. Sie leitet ihre Gläubigen an, während sie Intrigen webt, die die Welten der Materiellen Ebene umspannen. Sie freut sich auf eine Zeit, wenn ihre Drow-Anhänger die Welt unter ihre Kontrolle gebracht haben werden.
 
-Lolth appears as a lithe, imperious drow matriarch when she manifests to her followers in the mortal realm, which she does with unusual frequency. When battle breaks out-or if she has a reason to remind her followers to fear her—Lolth's lower body transforms into that of a huge demonic spider, whose spike—tipped legs and mandibles tear foes apart.
+Lolth erscheint als geschmeidige, herrschaftliche Drow-Matriarchin, wenn sie sich für ihre Anhänger in der sterblichen Welt materialisiert, was sie mit ungewöhnlich hoher Regelmäßigkeit tut. Wenn es zu einem Kampf kommt - oder sie einen Grund hat, ihre Anhänger daran zu erinnern, sie zu fürchten - dann verwandelt sich Lolths Körper in den einer riesigen, dämonischen Spinne, deren in Stacheln mündenden Beine und Fresswerkzeuge ihre Feinde in Stücke reißen können.
 
 #### Orcus
 
-Known as the Demon Prince of Undeath and the Blood Lord, the demon lord Orcus is worshiped by the undead and by living creatures that channel the power of undeath. A brooding and nihilistic entity, Orcus yearns to make the multiverse a place of death and darkness, forever unchanging except by his will.
+Der Dämonenfürst Orcus ist als der Dämonenprinz des Untodes und als Blutfürst bekannt. Er wird von Untoten und von lebenden Kreaturen verehrt, die die Macht des Untodes kanalisieren. Orcus ist eine brütende und nihilistische Wesenheit. Er sehnt sich danach, das Multiversum zu einem Ort des Todes und der Dunkelheit zu machen, der sich nie verändert, es sei denn, er will es.
 
-The Demon Prince of Undeath is a foul and corpulent creature, with a humanoid torso, powerful goat legs, and the desiccated head of a ram. His sore-ridden body stinks of disease, but his decaying head and glowing red eyes are as a creature already dead. Great black bat wings sprout from his back, stirring reeking air as he moves.
+Der Dämonenprinz des Untodes ist eine verderbte, korpulente Kreatur mit einem humanoiden Torso, mächtigen Ziegenbeinen und dem verwesten Schädel eines Widders. Sein von Geschwüren bedeckter Körper stinkt nach Krankheit, doch sein verfaulter Kopf und seine leuchtend roten Augen sind die einer bereits verstorbenen Kreatur. Große schwarze Fledermausschwingen breiten sich von seinen Schultern aus und wirbeln stinkende Luft auf, wenn er sich bewegt.
 
-Orcus wields a malevolent artifact known as the Wand of Orcus, a mace-like rod of obsidian topped by a humanoid skull. He surrounds himself with undead, and living creatures not under his control are anathema to him.
+Orcus führt ein böses Artefakt, das als der Stab des Orcus bekannt ist, ein streitkolbenartiger Stab, der von einem menschlichen Schädel gekrönt wird. Er umgibt sich mit Untoten; lebende Kreaturen, die nicht unter seiner Kontrolle stehen, sind ihm zuwider.
 
 #### Yeenoghu
 
-Known as the Gnoll Lord and the Beast of Butchery, the demon lord Yeenoghu hungers for slaughter and senseless destruction. Gnolls are his mortal instruments, and he drives them to ever-greater atrocities in his name. Delighting in sorrow and hopelessness, the Gnoll Lord yearns to turn the world into a wasteland in which the last surviving gnolls tear each other apart for the right to feast upon the dead.
+Der Dämonenfürst Yeenoghu ist als der Gnollfürst und die Bestie des Gemetzels bekannt. Er giert nach Blutvergießen und sinnloser Zerstörung. Gnolle sind seine sterblichen Werkzeuge, und er treibt sie zu immer schrecklicheren Gräueltaten in seinem Namen an. Der Gnollfürst erfreut sich an Leid und Hoffnungslosigkeit und sehnt sich danach, die Welt in ein Ödland zu verwandeln, in dem sich die letzten überlebenden Gnolle für das Recht, sich an den Toten zu laben, gegenseitig in Stücke reißen.
 
-Yeenoghu appears as a huge, scarred gnoll with a spiky crest of black spines, and eyes that burn with emerald flame. His armor is a patchwork of shields and breastplates claimed from fallen foes, and decorated by those foes' flayed skins. Yeenoghu can summon a triple flail he calls the Butcher, which he wields to deadly effect or wills to fly independently into battle as he tears foes apart with teeth and claws.
+Yeenoghu erscheint als riesiger, vernarbter Gnoll mit einem stachligen Kamm aus schwarzen Dornen und Augen, in denen ein smaragdgrünes Feuer brennt. Seine Rüstung ist ein Flickwerk aus Schilden und Harnischen, die er gefallenen Feinden abgenommen hat und ist mit der abgezogenen Haut jener Feinde verziert. Yeenoghu kann einen dreifachen Flegel beschwören, den er den Schlächter nennt. Er führt ihn mit tödlichem Geschick oder lässt ihn unabhängig in die Schlacht fliegen, während er seine Feinde mit Zähnen und Klauen zerfetzt.
 
-#### Other Demon Lords
+#### Andere Dämonenfürsten
 
-No one knows the full number of demon lords that rage in the Abyss. Given the infinite depths of that plane, powerful demons constantly rise to become demon lords, then fall almost as quickly. Among the demon lords whose power has endured long enough for demonologists to name them are Fraz-Urb'luu, the Prince of Deception; Kostchtchie, the Prince of Wrath; Pazuzu, Prince of the Lower Aerial Kingdoms; and Zuggtmoy, Lady of Fungi.
+Niemand kennt die genaue Zahl von Dämonenfürsten, die durch den Abyss wüten. Aufgrund der unendlichen Tiefe dieser Ebene erheben sich ständig machtvolle Dämonen, um Dämonenfürsten zu werden. Allerdings fallen sie ebenso schnell. Zu den Dämonenfürsten, deren Macht lange genug gewährt hat, auf dass die Dämonologen ihnen einen Namen gegeben haben, gehören Fraz-Urb'luu, der Prinz der Täuschung; Kostchtchie, der Prinz des Zorns; Pazuzu, Prinz der Unteren Königreiche der Luft; und Zuggtmoy, Fürstin der Fungi.
 
-#### Demon Types
+#### Typen von Dämonen
 
-Demonologists organize the chaotic distribution of demons into broad categories of power known as types. Most demons fit into one of six major types, with the weakest categorized as Type 1 and the strongest as Type 6. Demons outside the six main types are categorized as minor demons and demon lords.
+Dämonologen organisieren die chaotische Ansammlung von Dämonen in weit gefasste Machtkategorien, die als Typen bekannt sind. Die meisten Dämonen passen in die sechs Hauptarten, wobei die schwächsten Dämonen Typ 1 und die stärksten Typ 6 sind. Dämonen außerhalb der sechs Haupttypen werden als mindere Dämonen und Dämonenfürsten kategorisiert.·
 
-**Demons by Type**
+**Typen von Dämonen**
 
-| Type | Examples |
-|------|----------|
-| 1 | barlgura, shadow demon, vrock |
-| 2 | chasme, hezrou |
-| 3 | glabrezu, yochlol |
-| 4 | nalfeshnee |
-| 5 | marilith |
-| 6 | balor, goristro |
+| Typ | Beispiele                      |
+| --- | ------------------------------ |
+| 1   | Barlgura, Schattendämon, Vrock |
+| 2   | Chasme, Hezrou                 | 
+| 3   | Glabrezu, Yochlol              |
+| 4   | Nalfeshnee                     |
+| 5   | Marilith                       |
+| 6   | Balor, Goristro                |
 ^demons-by-type
 
-> [!note] Demon True Names
+> [!note] Wahre Namen von Dämonen
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Auch wenn alle Dämonen allgemein bekannte Namen haben, hat jeder Dämonenfürst und jeder Dämon des Typs 1 bis 6 einen wahren Namen, den er geheim hält. Ein Dämon kann gezwungen werden, seinen wahren Namen zu verraten, wenn er [[Zustände-phb#Bezaubert|bezaubert]] wird, und es soll uralte Schriftrollen geben, auf denen die wahren Namen der mächtigsten Dämonen verzeichnet sind.
 > 
-> A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
+> Ein Sterblicher, der den wahren Namen eines Dämons in Erfahrung bringt, kann mächtige Beschwörungsmagie nutzen, um den Dämon aus dem Abyss zu rufen und eine gewisse Kontrolle über ihn auszuüben. Allerdings tun die meisten Dämonen, die auf diese Weise auf die Materielle Ebene gebracht werden, alles, was in ihrer Macht steht, um Chaos zu säen oder für Zwietracht und Streit zu sorgen.
 ^demon-true-names
 
-> [!note] Variant: Demon Summoning
+> [!note] Variante: Dämonenbeschwörung
 > 
-> Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
+> Einige Dämonen haben eine Aktionsoption, die es ihnen erlaubt, andere Dämonen zu beschwören. 
+> $\quad$**Beschwöre Dämon (1/Tag).** Der Dämon entscheidet, was er beschwören will und führt eine magische Beschwörung durch.
 > 
-> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.  
-> - A barlgura has a 30 percent chance of summoning one barlgura.  
-> - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.  
-> - A yochlol has a 50 percent chance of summoning one yochlol.  
+> - Ein **Balor** hat eine Chance von 50%, `1d8` Vrocks, 1d6 Hezrous, `1d4` Glabrezus, `1W3` Nalfeshnees, `1d2` Mariliths oder einen Goristro zu beschwören.  
+> - Ein **Barlgura** hat eine Chance von 30%, einen Barlgura zu beschwören.  
+> - Eine **Chasme** hat eine Chance von 30%, eine Chasme zu beschwören.  
+> - Ein **Glabrezu** hat eine Chance von 30%, `1d3` Vrocks, `1d2` Hezrous oder einen Glabrezu zu beschwören.  
+> - Ein **Hezrou** hat eine Chance von 30%, `2d6` Dretchs oder einen Hezrou zu beschwören.  
+> - Eine **Marilith** hat eine Chance von 50%, `1d6` Vrocks, `1d4` Hezrous, `1d3` Glabrezus, `1d2` Nalfeshnees oder eine Marilith zu beschwören.  
+> - Ein **Nalfeshnee** hat eine Chance von 50%, `1d4` Vrocks, `1d3` Hezrous, `1d2` Glabrezus oder einen Nalfeshnees zu beschwören.  
+> - Ein **Vrock** hat eine Chance von 30%, `2d4` Dretchs oder einen Vrock zu beschwören.  
+> - Ein **Yochlol** hat eine Chance von 50%, einen Yochlol zu beschwören.  
 > 
-> A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+> Ein beschworener Dämon erscheint in einem nicht besetzten Bereich innerhalb von 18 m um seinen Beschwörer, dient als Ver• bündeter des Beschwörers und kann selbst keine anderen Dämonen beschwören. Er bleibt für l Minute, bis sein Beschwörer getötet worden ist oder bis der Beschwörer ihn als Bonusaktion fortschickt.
 ^variant-demon-summoning
 
-> [!quote] A quote from From the Demonomicon of Iggwilv  
+> [!quote] Aus dem Demonomicon von Iggwilv
 > 
-> Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
+> Dämonen zu beschwören und zu kontrollieren ist quälend schwierig. Es ist keine Bürde für jene, die schwachen Herzens oder schwacher Seele sind.
 
 ```statblock
 "name": "Glabrezu"
@@ -244,4 +247,42 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "MM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/glabrezu.webp"
 ```
+^statblock
+
+> [!statblock] Glabrezu
+> ![[token/glabrezu.webp|right|100]]
+> *Großer Unhold (Dämon), Chaotisch Böse*
+> 
+> - **Rüstungsklasse** 17 (natürliche Rüstung )
+> - **Trefferpunkte** 157 (`15d10 + 75`)
+> - **Bewegungsrate** 12 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
+> 
+> - **Rettungswürfe** STR +9, KON +9, WEI +7, CHA +7
+> - **Fertigkeiten** -
+> - **Schadensresistenzen** Blitz, Feuer, Kälte; Wucht-, Stich-und Hiebschaden durch nicht-magische Angriffe 
+> - **Schadensimmunitäten** Gift
+> - **Zustandsimmunitäten** [[Zustände-phb#Vergiftet|Vergiftet]] <br><br>
+> - **Sinne** [[Sinne-phb#Wahre Sicht|Wahre Sicht]] 36 Meter, passive Wahrnehmung 13
+> - **Sprachen** Abyssisch, Telepathie 36 Meter
+> - **Herausforderungsgrad** 9 (5.000 EP)
+> - **Übungsbonus** +4
+> 
+> ## Merkmale
+> 
+> ***Angeborenes Zauberwirken*** Das Attribut zum Wirken angeborener Zauber für den Glabrezu ist Intelligenz (sein Zauberrettungswurf-SG beträgt 16). Der Glabrezu kann die folgenden Zaubersprüche angeboren wirken, wobei keine Materialkomponenten notwendig sind: 
+> 
+> ***Beliebig oft:*** Dunkelheit, Magie bannen, Magie entdecken 
+> ***jeweils 1/Tag:*** Fliegen, Verwirrung, Wort der Macht -Betäubung 
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Der Glabrezu führt vier Angriffe aus: zwei mit seinem Zangen und zwei mit seinen Fäusten. Alternativ kann er zwei Angriffe mit seinen Zangen machen und einen Zauber wirken. 
+> 
+> ***Zangen.*** *Nahkampf Waffenangriff:* +9 zum Treffen, Reichweite 3 m, ein Ziel. Treffer: 16 (`2d10 + 5`) Wuchtschaden. Wenn das Ziel eine mittelgroße oder kleinere Kreatur ist, wird es gepackt (Rettungswurf zum Entkommen 15). Der Glabrezu hat zwei Zangen, und mit jeder kann er ein Ziel packen. 
+> 
+> ***Faust.*** *Nahkampf-Waffenangriff:* +9 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 7 (`2d4 + 2`) Wuchtschaden
 ^statblock

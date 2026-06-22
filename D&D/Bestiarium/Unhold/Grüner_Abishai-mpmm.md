@@ -15,18 +15,18 @@ tags:
 aliases:
   - Green Abishai
 ---
-# [Green Abishai](3-Mechanics\CLI\bestiary\fiend/green-abishai-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
+# Grüner Abishai
+*Quelle: Mordenkainen präsentiert: Monster des Multiversums S. 39*  
 
-Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
+Grüne Abishai sind geschickt darin, Geheimnisse zu lüften und an sensible Informationen zu gelangen. Dank ihrer Magie und ihren diplomatischen Fertigkeiten können sie sogar die abgefeimtesten Gegner manipulieren. 
 
-## Abishais
+## Abishai
 
-Each abishai was once a mortal who somehow won Tiamat's favor before death and, as a reward, found its soul transformed into a draconic devil to serve at her pleasure in the Nine Hells. Each type of abishai is associated with one of Tiamat's five dragon heads: black, blue, green, red, and white.
+Jeder Abishai war einmal ein Sterblicher, der vor seinem Tod irgendwie Tiamats Gunst erlangt hat. Zur Belohnung wurde seine Seele in einen drakonischen Teufel verwandelt und dient Tiamat in den Neun Höllen.Jede Art von Abishai gemahnt an einen der fünf Drachenköpfe Tiamats: schwarz, blau, grün, rot und weiß. 
 
-Tiamat deploys abishais as her agents, sending them forth to represent her interests in the Hells and across the multiverse. Some have simple tasks, such as delivering a message to cultists. Others have greater responsibilities, such as leading large groups, assassinating targets, and serving in armies. In all cases, abishais are fanatically loyal to Tiamat, ready to lay down their lives if needed.
+Tiamat entsendet die Abishai auch als Agenten, um ihre Interessen in den Höllen und im Multiversum durchzusetzen. Bisweilen haben ihre Boten schlichte Aufgaben, etwa Kultisten Botschaften zu überbringen. Andere müssen große Gruppen anführen, Zielpersonen töten und in Armeen dienen. Abishai sind Tiamat in jedem Fall fanatisch ergeben und stets bereit, ihr Leben für sie zu opfern, falls nötig. 
 
-Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
+Sie stehen außerhalb der Hierarchie der Neun Höllen, haben ihre eigene Befehlskette und gehorchen letztlich Tiamat - und auch Asmodeus, wenn er sie nutzen will. Auch andere Erzteufel können Abishai befehlen, für sie zu arbeiten. Aber sie tun es selten, denn es ist nie klar, ob ein Abishai gerade Tiamat oder Asmodeus gehorcht. Tiamats Befehle zu durchkreuzen ist riskant, und jede Einmischung in Asmodeus' Pläne bringt den sicheren Untergang. 
 
 ```statblock
 "name": "Green Abishai (MPMM)"
@@ -98,6 +98,46 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/green-abishai-mpmm.webp"
 ```
 ^statblock
+
+> [!statblock] Grüner Abishai
+> ![[token/green-abishai-mpmm.webp|right|100]]
+> *Mittelgroßer Unhold (Teufel), typischerweise Rechtschaffen Böse*
+> 
+> - **Rüstungsklasse** 18 (natürliche Rüstung)
+> - **Trefferpunkte** 195 (`26d8 + 78`)
+> - **Bewegungsrate** 9 Meter, Flug 12 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 12 (+1)|17 (+3)|16 (+3)|17 (+3)|12 (+1)|19 (+4)|
+> 
+> - **Rettungswürfe** INT +8, CHA +9
+> - **Fertigkeiten** [[|Motiv erkennen]] +6, [[|Täuschung]] +9, [[|Überreden]] +9, [[|Wahrnehmung]] +6
+> - **Schadensresistenzen** Kälte; Hieb, Stich und Wucht durch nichtmagische Angriffe ohne Silber 
+> - **Schadensimmunitäten** Feuer, Gift
+> - **Zustandsimmunitäten** [[|Vergiftet]] <br><br>
+> - **Sinne** [[|Dunkelsicht]] 36 Meter, passive Wahrnehmung 16
+> - **Sprachen** Diabolisch, Drakonisch, Telepathie 36 Meter
+> - **Herausforderungsgrad** 15 (13.000 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Teufelsblick.*** Magische Dunkelheit behindert nicht den Dunkelsicht des Abishais.
+> 
+> ***Magieresistenz.*** Der Abishai hat Vorteil auf Rettungswürfe gegen Zauber und andere magische Effekte.
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Der Abishai führt zwei Angriff mit den teuflischen Klauen aus, oder er führt einen Angriff mit den teuflischen Klauen aus und nutzt seine Zauberwirken.
+> 
+> ***Teuflische Klaue.*** *Nahkampf-Waffenangriff:* +8 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 12 (`2W8 + 3`) Kraftschaden. Wenn das Ziel eine Kreatur ist, muss es einen SG 16 Konstitutionsrettungswurf bestehen oder erleidet zusätzlich 16 (`3W10`) Giftschaden und ist für 1 Minute *vergiftet*. Das *vergiftete* Ziel kann am Ende jedes seiner Züge einen neuen Rettungswurf ablegen, um den Effekt zu beenden.
+> 
+> ***Zauberwirken.*** Der Abishai wirkt einen der folgenden Zauber, ohne materielle Komponenten zu benötigen, und verwendet Charisma als zaubernde Fähigkeit (SG 17):
+> 
+> - **Jederzeit:** *Gestalt ändern*, *Großes Bild*
+> - **3×/Tag:** *Mensch bezaubern*, *Gedanken lesen*, *Angst*
+> - **1×/Tag:** *Verwirrung*, *Menschen beherrschen*, *Massenvorschlag*
 
 ## Environment
 

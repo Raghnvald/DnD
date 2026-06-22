@@ -7,7 +7,7 @@ tags:
 aliases:
   - Gnome
 ---
-# Gnome
+# Gnom
 *Source: Player's Handbook p. 35. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](/3-Mechanics/CLI/races/img/gnome.webp#right)
 

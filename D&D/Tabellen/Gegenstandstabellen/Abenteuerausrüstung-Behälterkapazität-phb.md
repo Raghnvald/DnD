@@ -5,7 +5,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Abenteuerausrüstung; Behälterkapazität
-  - Adventuring Gear; Container Capacity
 ---
 # Abenteuerausrüstung; Behälterkapazität
 *Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

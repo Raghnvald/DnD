@@ -1,96 +1,76 @@
 ---
-Bezeichnung: Races
+Bezeichnung: Völker
 linter-yaml-title-alias: Races
 tags:
   - Quelle/5e/phb
 aliases:
   - Races
 ---
-# Races
-*Source: Player's Handbook (2014), p. 17* 
+# Völker
+*Quelle: Spielerhandbuch (2014), S. 17* 
 
-A visit to one of the great cities in the worlds of Dungeons & Dragons—Waterdeep, the Free City of Greyhawk, or even uncanny Sigil, the City of Doors overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens of different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants.
+Ein Besuch in einer der großen Städte der Welten von DUNGEONS & DRAGONS, sei es nun Waterdeep, die freie Stadt von Greyhawk oder das ungewöhnliche Sigil, die Stadt der Türen, überwältigt die Sinne. Stimmen plappern in unzähligen verschiedenen Sprachen. Die Düfte Dutzender unterschiedlicher Küchen mischen sich mit den Gerüchen der überfüllten Straßen und dem Gestank schlechter Hygiene. Gebäude in einer Myriade von Architekturstilen zeigen die vielfältige Herkunft ihrer Bewohner. 
 
-And the people themselves—people of varying size, shape, and color, dressed in a dazzling spectrum of styles and hues—represent many different races, from diminutive halflings and stout dwarves to majestically beautiful elves, mingling among a variety of human ethnicities.
+Und die Leute selbst: Mit ihren unterschiedlichen Größen, Gestalten und Hautfarben, gekleidet in ein schwindelerregendes Spektrum an Stilen und verschiedenfarbigen Stoffen, bilden sie ein Kaleidoskop der Vielfalt. Von kleinen Halblingen und stämmigen Zwergen bis zu majestätisch schönen Elfen, gemischt mit einer Vielzahl von menschlichen Kulturen. 
 
-Scattered among the members of these more common races are the true exotics: a hulking dragonborn here, pushing his way through the crowd, and a sly tiefling there, lurking in the shadows with mischief in her eyes. A group of gnomes laughs as one of them activates a clever wooden toy that moves of its own accord. Half-elves and half-orcs live and work alongside humans, without fully belonging to the races of either of their parents. And there, well out of the sunlight, is a lone drow—a fugitive from the subterranean expanse of the Underdark, trying to make his way in a world that fears his kind. The Player's Handbook has more information about these unusual races.
+Unter den eher verbreiteten Völkern finden sich auch einige seltenere: ein bulliger Drachengeborener, der sich seinen Weg durch die Menge bahnt, und eine verstohlen im Schatten lauernde Tieflingsfrau, welcher der Schalk in den Augen blitzt. Eine Gruppe von Gnomen lacht, als einer von ihnen ein ausgefeiltes hölzernes Spielzeug in Gang setzt, das sich aus eigenem Antrieb bewegt. Halbelfen und Halborks arbeiten in der Stadt, ohne ganz einem der Völker ihrer Eltern anzugehören. Und da, weit vom Sonnenlicht entfernt, ist ein einzelner Drow, ein Flüchtling aus der unterirdischen Weite des Unterrreiches, der seinen Platz in einer Welt sucht, die seinesgleichen fürchtet. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch2.webp#center)
+![](img/ch2.webp#center)
 
-## Uncommon Races
+## Ein Volk auswählen 
 
-The dragonborn and the rest of the races in this list are uncommon. They don't exist in every world of D&D, and even where they are found, they are less widespread than dwarves, elves, halflings, and humans. In the cosmopolitan cities of the D&D multiverse, most people hardly look twice at members of even the most exotic races. But the small towns and villages that dot the countryside are different. The common folk aren't accustomed to seeing members of these races, and they react accordingly.
+Menschen sind das verbreiteste Volk in den D&D-Welten, doch leben sie mit Zwergen, Elfen, Halblingen und unzähligen anderen fantastischen Spezies zusammen. Dein Abenteurer gehört einem dieser Völker an. 
 
-### Dragonborn
+Nicht jedes intelligente Volk des Multiversums ist angemessen für einen Spielercharakter. Zwerge, Elfen, Halblinge und Menschen sind für gewöhnlich die Völker, aus denen eine typische Gruppe besteht. Drachenblütige, Gnome, Halbelfen, Halborks und Tieflinge sind als Abenteurer weniger üblich. Drow, eine Unterart der Elfen, sind ebenfalls eine Seltenheit. 
 
-It's easy to assume that a dragonborn is a monster, especially if his or her scales betray a chromatic heritage. Unless the dragonborn starts breathing fire and causing destruction, though, people are likely to respond with caution rather than outright fear.
+Die Wahl des Volkes beeinflusst viele verschiedene Aspekte. Sie legt das Fundament fest, auf dem die gesamte Abenteurerkarriere deines Charakters aufbaut. Behalte bei deiner Entscheidung also die Art von Charakter im Hinterkopf, die du spielen möchtest. Ein Halbling könnte zum Beispiel eine gute Wahl für einen schleichenden Schurken sein, Zwerge geben zähe Kämpfer ab und Elfen können zu Meistern der arkanen Magie werden. 
 
-### Gnome
+Das Volk deines Charakters wirkt sich nicht nur auf Attributswerte und Merkmale aus, sondern kann dir auch Hinweise für eine spannende Hintergrundgeschichte geben. Jede Beschreibung eines Volkes in diesem Kapitel enthält Informationen, die dir beim Ausspielen deines Charakters helfen, etwa Persönlichkeit, körperliche Erscheinung oder Gesellschaftsmerkmale. Diese Details sind Vorschläge, die es dir erleichtern sollen, dir deinen Charakter vorzustellen. Abenteurer können weit von der Norm ihres Volkes abweichen. Überlegungen dazu, warum dein Charakter anders ist, helfen dir vielleicht dabei, den Hintergrund und die Persönlichkeit deines Charakters auszuarbeiten. 
 
-Gnomes don't look like a threat and can quickly disarm suspicion with good humor. The common folk are often curious about gnomes, likely never having seen one before, but they are rarely hostile or fearful.
+### Volksmerkmale
 
-### Half-Elf
+Die Beschreibung jedes Volkes beinhaltet bestimmte Merkmale, die unter dessen Angehörigen weit verbreitet sind. Die folgenden Einträge finden sich in den meisten Volksmerkmalen. 
 
-Although many people have never seen a half-elf, virtually everyone knows they exist. A half-elf stranger's arrival is followed by gossip behind the half-elf's back and stolen glances across the common room, rather than any confrontation or open curiosity.
+#### Erhöhung der Attributswerte
 
-### Half-Orc
+Bei einem Volk mit diesem Merkmal werden ein oder mehrere Attributswerte des Charakters erhöht. 
 
-It's usually safe to assume that a half-orc is belligerent and quick to anger, so people watch themselves around an unfamiliar half-orc. Shopkeepers might surreptitiously hide valuable or fragile goods when a half-orc comes in, and people slowly clear out of a tavern, assuming a fight will break out soon.
+#### Alter
 
-### Tiefling
+Dieser Eintrag gibt an, zu welchem Zeitpunkt ein Angehöriger des Volkes als erwachsen angesehen wird. Darüber hinaus wird auch die übliche Lebenserwartung angegeben. Diese Informationen können dir bei der Entscheidung helfen, wie alt dein Charakter zu Beginn des Spiels sein soll. Du kannst dir ein beliebiges Alter aussuchen und damit gleichzeitig eine Erklärung für einige deiner Attributswerte lieferen. Spielst du beispielsweise einen sehr jungen oder alten Charakter, könnte das erklären, warum Stärke oder Konstitution besonders niedrig sind. Andererseits ist ein fortgeschrittenes Alter vielleicht der Grund dafür, dass der Intelligenz- oder Weisheitswert überdurchschnittlich hoch ist. 
 
-Half-orcs are greeted with a practical caution, but tieflings are the subject of supernatural fear. The evil of their heritage is plainly visible in their features, and as far as most people are concerned, a tiefling could very well be a devil straight from the Nine Hells. People might make warding signs as a tiefling approaches, cross the street to avoid passing near, or bar shop doors before a tiefling can enter.
+#### Größe 
 
-## Choosing a Race
+Charaktere der meisten Völker sind mittelgroß, eine Größenkategorie, die Kreaturen zwischen 120 cm und 240 cm umfasst. Nur die Mitglieder weniger Völker fallen in die Kategorie klein (zwischen 60 cm und 120 cm), wodurch einige Regeln des Spiels anders auf sie angewendet werden. Der wichtigste Unterschied ist, dass kleine Charaktere Probleme damit haben, schwere Waffen zu führen, wie es in Kapitel 5 „Ausrüstung" näher beschrieben wird. 
 
-Humans are the most common people in the worlds of D&D, but they live and work alongside dwarves, elves, halflings, and countless other fantastic species. Your character belongs to one of these peoples.
+#### Bewegungsrate 
 
-Not every intelligent race of the multiverse is appropriate for a player-controlled adventurer. Dwarves, elves, halflings, and humans are the most common races to produce the sort of adventurers who make up typical parties. Other races and subraces are less common as adventurers.
+Die Bewegungsrate bestimmt, welche Strecke dein Charakter auf Reisen (Kapitel 8 „Auf Abenteuer ausziehen") und im Kampf (Kapitel 9 „Kampf") zurücklegen kann. 
 
-Your choice of race affects many different aspects of your character. It establishes fundamental qualities that exist throughout your character's adventuring career.
+#### Sprachen
 
-When making this decision, keep in mind the kind of character you want to play. For example, a halfling could be a good choice for a sneaky rogue, a dwarf makes a tough warrior, and an elf can be a master of arcane magic.
+Dein Charakter kann bestimmte Sprachen sprechen, lesen und schreiben. 
 
-Your character race not only affects your ability scores and traits but also provides the cues for building your character's story. Each race's description in this chapter includes information to help you roleplay a character of that race, including personality, physical appearance, features of society, and racial alignment tendencies.
+#### Volksunterarten
 
-These details are suggestions to help you think about your character; adventurers can deviate widely from the norm for their race. It's worthwhile to consider why your character is different, as a helpful way to think about your character's background and personality.
+Manche Völker weisen Unterarten auf. Deren Angehörige besitzen zusätzlich zu den Merkmalen des Ursprungsvolks auch die Merkmale der Unterart. Die Beziehungen zwischen den Unterarten eines Volkes variieren stark von Volk zu Volk und von Welt zu Welt. 
 
-### Racial Traits
+Im Drachenlanzen-Kampagnensetting sind beispielsweise Hügel- und Gebirgszwerge verschiedene Klans desselben Volkes, wohingegen sie in den Vergessenen Reichen weit voneinander entfernt in unterschiedlichen Reichen leben und sich selbst als Schildzwerge beziehungsweise Goldzwerge bezeichnen. 
 
-The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races.
+![[Elf-phb#Elf]]
 
-#### Ability Score Increase
+![[Halbling-phb#Halbling]]
 
-Every race increases one or more of a character's ability scores.
+![[Mensch-phb#Mensch]]
 
-#### Age
+![[Zwerg-phb#Zwerg]]
 
-The age entry notes the age when a member of the race is considered an adult, as well as the race's expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
+![[Drachenblütige-phb#Drachenblütige]]
 
-#### Size
+![[Gnom-phb#Gnom]]
 
-Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall.
+![[Halbelf-phb#Halbelf]]
 
-Members of a few races are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in chapter 5.
+![[Halbork-phb#Halbork]]
 
-#### Speed
-
-Your speed determines how far you can move when traveling (chapter 8) and fighting (chapter 9).
-
-#### Languages
-
-By virtue of your race, your character can speak, read, and write certain languages. Chapter 4 lists the most common languages of the D&D multiverse.
-
-#### Subraces
-
-Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. In the Dragonlance campaign setting, for example, mountain dwarves and hill dwarves live together as different clans of the same people, but in the Forgotten Realms, they live far apart in separate kingdoms and call themselves shield dwarves and gold dwarves, respectively.
-
-- [Dragonborn](/3-Mechanics/CLI/races/dragonborn-xphb.md)  
-- [Dwarf](/3-Mechanics/CLI/races/dwarf-xphb.md)  
-- [Elf](/3-Mechanics/CLI/races/elf-xphb.md)  
-- [Gnome](/3-Mechanics/CLI/races/gnome-xphb.md)  
-- [Half-Elf](/3-Mechanics/CLI/races/half-elf.md)  
-- [Half-Orc](/3-Mechanics/CLI/races/half-orc.md)  
-- [Halfling](/3-Mechanics/CLI/races/halfling-xphb.md)  
-- [Human](/3-Mechanics/CLI/races/human-xphb.md)  
-- [Tiefling](/3-Mechanics/CLI/races/tiefling-xphb.md)
+![[Tiefling-phb#Tiefling]]

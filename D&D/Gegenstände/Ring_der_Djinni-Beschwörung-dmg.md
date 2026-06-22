@@ -14,8 +14,8 @@ aliases:
   - Ring der Djinni-Beschwörung
 ---
 # Ring der Djinni-Beschwörung
-*Ring, legendär (benötigt Einstimmung)*  
-![](img/ring-of-djinni-summoning.webp#right)
+*Ring, legendär (benötigt Einstimmung)*
+<img src="ring-of-djinni-summoning.webp" align="right" width="150">
 
 Während du diesen Ring trägst, kannst du als eine Aktion sein Befehlswort sprechen, um einen bestimmten [[Djinni-mm|Djinni]] von der Elementarebene der Luft zu beschwören. Der [[Djinni-mm|Djinni]] erscheint an einer nicht besetzten Stelle innerhalb von 36 Metern zu dir. Er bleibt solange, wie du dich konzentrierst (als würdest du dich auf deinen Zauber konzentrieren), bis zu einem Maximum von 1 Stunde oder bis seine Trefferpunkte auf 0 sinken. Er kehrt dann zu seiner eigenen Ebene zurück.
 

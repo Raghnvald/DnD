@@ -2,11 +2,11 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barlgura
-Kategorie: Humanoid
+Kategorie: Unhold
 Größe: Mittelgroß
 HG: 2
 Habitat:
-  - Stadt
+  - /
 image:
 status: WIP
 linter-yaml-title-alias: Barlgura
@@ -190,7 +190,7 @@ Dämonologen organisieren die chaotische Ansammlung von Dämonen in weit gefasst
 
 > [!quote] Aus dem Demonomicon von Iggwilv
 > 
-> Dämonen zu beschwören und zu kontrollieren ist quälend schwierig. Es ist keine Bürde für jene, die schwachen Herzens oder schwacher Seele sind..
+> Dämonen zu beschwören und zu kontrollieren ist quälend schwierig. Es ist keine Bürde für jene, die schwachen Herzens oder schwacher Seele sind.
 
 ```statblock
 name: Barlgura

@@ -12,7 +12,7 @@ aliases:
 ---
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/tentacle-rod.webp#right)
+![](img/tentacle-rod.webp#right)
 
 - **Weight**: 2.0 lbs.
 

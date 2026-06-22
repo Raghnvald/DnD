@@ -64,59 +64,49 @@ Ein Vampir wählt einen prachtvollen, aber gut zu verteidigenden Ort als Behausu
 > 
 > Ich bin der Uralte, ich bin das Land. Meine Anfänge sind in der Dunkelheit der Vergangenheit verloren. Ich war der Krieger, ich war gut und gerecht. Ich donnerte über das Land wie der Zorn eines gerechten Gottes, doch die Jahre des Krieges und die Jahre des Tötens zermürbten meine Seele, so wie der Wind Stein zu Sand schleift.
 
-```statblock
-name: Vampirbrut
-image: token/vampire-spawn.webp
-source:
-  - MM
-size: Mittelgroß
-type: Untot
-alignment: neutral böse
-ac: 15
-ac_class: natürliche Rüstung
-hp: 82
-hit_dice: 11d8 + 33
-modifier: 3
-stats:
-  - 16
-  - 16Aberration
-  - 16
-  - 11
-  - 10
-  - 12
-speed: 9 m
-saves:
-  - Geschicklichkeit: 6
-  - Weisheit: 3
-skillsaves:
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Heimlichkeit|Heimlichkeit<STATBLOCK-MARKDOWN-LINK>
-    desc: "+6"
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Wahrnehmung|Wahrnehmung<STATBLOCK-MARKDOWN-LINK>
-    desc: "+3"
-damage_resistances: Nekrotisch; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe 
-senses: <STATBLOCK-MARKDOWN-LINK>Sinne-phb#Dunkelsicht|Dunkelsicht<STATBLOCK-MARKDOWN-LINK> 18 m., passive Wahrnehmung 13
-languages: die Sprachen, die sie im Leben kannte
-cr: "5"
-environment: Stadt, Unterreich
-traits:
-  - name: Regeneration
-    desc: Die Vampirbrut erhält zu Beginn seines Zugs 10 Trefferpunkte zurück, wenn sie mindestens 1 Trefferpunkt besitzt und sich nicht im Sonnenlicht oder in fließendem Wasser befindet. Wenn die Vampirbrut gleißenden Schaden oder Schaden durch Weihwasser erleidet, funktioniert dieses Merkmal zu Beginn des nächsten Zuges nicht.
-  - name: Spinnenklettern
-    desc: Die Vampirbrut kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen.
-  - name: Vampirschwächen
-    desc: |-
-      Die Vampirbrut hat die folgenden Nachteile:
-
-      - **Verbot.** Die Vampirbrut kann keinen Wohnsitz betreten, ohne eine Einladung von einem der Bewohner erhalten zu haben.  
-      - **Verletzt durch fließendes Wasser.** Die Vampirbrut erleidet 20 Säureschaden, wenn sie ihren Zug in fließendem Wasser beendet  
-      - **Pflock ins Herz.** Die Vampirbrut wird zerstört, wenn eine Stichwaffe aus Holz in ihr Herz getrieben wird, solange sie sich <STATBLOCK-MARKDOWN-LINK>Zustände-phb#Kampfunfähig|kampfunfähig<STATBLOCK-MARKDOWN-LINK> in ihrer Ruhestätte befindet.  
-      - **Hyperempfindlich gegenüber Sonnenlicht.** Die Vampirbrut erleidet 20 gleißenden Schaden, wenn sie ihren Zug im Sonnenlicht beginnt. Solange sie sich im Sonnenlicht befindet, erleidet sie einen Nachteil auf Angriffswürfe und Attributswürfe. 
-actions:
-  - name: Mehrfachangriff
-    desc: Die Vampirbrut führt zwei Angriffe durch, von denen nur einer ein Biss-Angriff sein darf.
-  - name: Klauen
-    desc: "*Nahkampf-Waffenangriff* +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. *Treffer*: 8 (2d4 + 3) Hiebschaden. Anstatt Schaden zu verursachen, kann die Brut das Ziel packen (SG zum Entkommen 13)"
-  - name: Biss
-    desc: "*Nahkampf-Waffenangriff:* +6 um Treffen, Reichweite 1,5 m, eine bereitwillige Kreatur oder eine Kreatur, die die Vampirbrut <STATBLOCK-MARKDOWN-LINK>Zustände-phb#gepackt|gepackt<STATBLOCK-MARKDOWN-LINK> hat, die <STATBLOCK-MARKDOWN-LINK>Zustände-phb#kampfunfähig|kampfunfähig<STATBLOCK-MARKDOWN-LINK> oder <STATBLOCK-MARKDOWN-LINK>Zustände-phb#festgesetzt|festgesetzt<STATBLOCK-MARKDOWN-LINK> ist. *Treffer:* 6 (1d6 + 3) Stichschaden plus 7 (2d6) nekrotischer Schaden. Die maximalen Trefferpunkte des Ziels werden um den nekrotischen Schaden verringert, und die Brut erhält die gleiche Menge an Trefferpunkten zurück. Diese Verringerung hält an, bis das Ziel eine lange Rast abschließt. Das Ziel stirbt, wenn dieser Effekt seine maximalen Trefferpunkte auf 0 reduziert."
-```
+> [!statblock] Vampirbrut
+> ![[token/vampire-spawn.webp|right|100]]
+> *Mittelgroßer Untoter, Neutral Böse*
+> 
+> - **Rüstungsklasse** 15 (natürliche Rüstung)
+> - **Trefferpunkte** 82 (`11d8 + 33`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
+> 
+> - **Rettungswürfe** GES +6, WEI +3
+> - **Fertigkeiten** [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]] +6, [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +3
+> - **Sinne** [[Sinne-phb#Dunkelsicht|Dunkelsicht]] 18 m., passive Wahrnehmung 13
+> - **Schadensresistenzen** Nekrotisch; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** - <br><br>
+> - **Sprachen** die Sprachen, die sie im Leben kannte
+> - **Herausforderungsgrad** 5 (1.800 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Regeneration.*** Die Vampirbrut erhält zu Beginn seines Zugs 10 Trefferpunkte zurück, wenn sie mindestens 1 Trefferpunkt besitzt und sich nicht im Sonnenlicht oder in fließendem Wasser befindet. Wenn die Vampirbrut gleißenden Schaden oder Schaden durch Weihwasser erleidet, funktioniert dieses Merkmal zu Beginn des nächsten Zuges nicht.
+> 
+> ***Spinnenklettern.*** Die Vampirbrut kann an schwierigen Oberflächen klettern, auch kopfüber an der Decke, ohne Attributswürfe ablegen zu müssen.
+> 
+> ***Vampirschwächen.*** Die Vampirbrut hat die folgenden Nachteile:
+> - **Verbot.** Die Vampirbrut kann keinen Wohnsitz betreten, ohne eine Einladung von einem der Bewohner erhalten zu haben.  
+> - **Verletzt durch fließendes Wasser.** Die Vampirbrut erleidet 20 Säureschaden, wenn sie ihren Zug in fließendem Wasser beendet  
+> - **Pflock ins Herz.** Die Vampirbrut wird zerstört, wenn eine Stichwaffe aus Holz in ihr Herz getrieben wird, solange sie sich [[Zustände-phb#Kampfunfähig|kampfunfähig]] in ihrer Ruhestätte befindet.  
+> - **Hyperempfindlich gegenüber Sonnenlicht.** Die Vampirbrut erleidet 20 gleißenden Schaden, wenn sie ihren Zug im Sonnenlicht beginnt. Solange sie sich im Sonnenlicht befindet, erleidet sie einen Nachteil auf Angriffswürfe und Attributswürfe. 
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Die Vampirbrut führt zwei Angriffe durch, von denen nur einer ein Biss-Angriff sein darf.
+> 
+> ***Klauen.*** *Nahkampf-Waffenangriff* +6 zum Treffen, Reichweite 1,5 m, eine Kreatur. *Treffer*: 8 (`2d4 + 3`) Hiebschaden. Anstatt Schaden zu verursachen, kann die Brut das Ziel packen (SG zum Entkommen 13)"
+> 
+> ***Biss.*** *Nahkampf-Waffenangriff:* +6 um Treffen, Reichweite 1,5 m, eine bereitwillige Kreatur oder eine Kreatur, die die Vampirbrut [[Zustände-phb#gepackt|gepackt]] hat, die [[Zustände-phb#kampfunfähig|kampfunfähig]] oder [[Zustände-phb#festgesetzt|festgesetzt]] ist. *Treffer:* 6 (`1d6 + 3`) Stichschaden plus 7 (`2d6`) nekrotischer Schaden. Die maximalen Trefferpunkte des Ziels werden um den nekrotischen Schaden verringert, und die Brut erhält die gleiche Menge an Trefferpunkten zurück. Diese Verringerung hält an, bis das Ziel eine lange Rast abschließt. Das Ziel stirbt, wenn dieser Effekt seine maximalen Trefferpunkte auf 0 reduziert.
 ^statblock
+
+## Vorkommen
+
+Stadt, Unterreich

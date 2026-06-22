@@ -17,46 +17,40 @@ aliases:
   - Red Slaad
 ---
 # Roter Slaad 
-*Source: Monster Manual p. 276*  
+*Quelle: Monsterhandbuch S. 258*  
 
-When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `2d12` hours.
+Wenn ein roter Slaad eine humanoide Kreatur mit den Klauen trifft, kann er ein Ei aus einer Drüse unter einer Kralle einpflanzen. Das Ei arbeitet sich in den Wirt und nistet sich ein, was schließlich zur Erschaffung einer Slaad-Kaulquappe führt. Die Kaulquappe frisst sich dann aus dem Wirtskörper heraus, frisst seine Überreste und sucht dann mehr frisches Fleisch. Die Kaulquappe verwandelt sich dann innerhalb von `2d12` Stunden in einen ausgewachsenen blauen Slaad - oder grünen Slaad, wenn der Wirt die Fähigkeit hatte, Zauber des 3. Grades oder höher zu wirken.
 
 ## Slaadi
 
-In the Ever-Changing Chaos of Limbo, bits of forest and meadow, ruined castles, and isolated islands drift through a tumult of fire, water, earth, and wind. The foremost inhabitants of this inhospitable plane are the toad-like slaadi. Slaadi are undisciplined and have no formal hierarchy, although weaker slaadi obey stronger ones under threat of annihilation.
+Im Immerwandelnden Chaos des Limbus treiben Stücke von Wäldern und Wiesen, zerstörten Burgen und isolierten Inseln durch einen Tumult von Feuer, Wasser, Erde und Wind. Die wichtigsten Bewohner dieser lebensfeindlichen Ebene sind die krötenartigen Slaadi. Slaadi sind undiszipliniert und haben keine formelle Hierarchie, doch schwächere Slaadi gehorchen den stärkeren, wenn ihnen mit Auslöschung gedroht wird.
 
-### The Spawning Stone
+### Der Brutstein
 
-Long ago, Primus, overlord of the modrons, created a gigantic, geometrically complex stone imbued with the power of law. He then cast it adrift in Limbo, believing that the stone would bring order to the chaos of that plane and halt the spread of chaos to other planes. As the stone's power grew, it became possible for creatures with ordered minds, such as modrons and githzerai, to create enclaves in Limbo. However, Primus's creation had an unforeseen side effect: the chaotic energy absorbed by the stone spawned the horrors that came to be known as slaadi. Sages refer to Primus's massive creation as the Spawning Stone for this reason.
+Vor langer Zeit erschuf Primus, Gebieter der Modrons, einen gigantischen, geometrisch komplexen Stein, der von der Macht des Gesetzes erfüllt war. Er warf diesen in den Limbus, im Glauben, dass der Stein Ordnung ins Chaos bringen und die Ausbreitung des Chaos auf andere Ebenen verhindern würde. Als die Macht des Steins wuchs, wurde es für Kreaturen mit geordnetem Geist, wie Modrons und Githzerai, möglich, Enklaven im Limbus zu erschaffen. Allerdings hatte Primus' Schöpfung eine unvorhergesehene Nebenwirkung: die chaotische Energie, die vom Stein absorbiert wurde, erschuf die Monster, die heute als Slaadi bekannt sind. Gelehrte bezeichnen Primus' gewaltige Schöpfung aus diesem Grund als den Brutstein. Die Slaadi löschten jede Modron-Enklave im Limbus aus. Als Kreaturen des absoluten Chaos verabscheuen Slaadi Modrons und greifen sie an, wenn sie sie erblicken. Nichtsdestotrotz steht Primus zu seiner Schöpfung und sieht die Slaadi entweder nicht als Bedrohung oder ignoriert sie.
 
-The slaadi wiped out every last modron enclave in Limbo. As creatures of utter chaos, slaadi loathe modrons and attack them on sight. Nonetheless, Primus stands by his creation and either doesn't perceive the slaadi as threats or chooses to ignore them.
+### Geburt und Verwandlung
 
-### Birth and Transformation
+Slaadi haben einen grauenvollen Fortpflanzungszyklus. Slaadi vermehren sich, indem sie entweder Eier in humanoide Wirte einpflanzen oder sie mit einer verwandelnden Krankheit anstecken, die als Chaosphage bekannt ist. Jede Farbe der Slaadi vermehrt oder verwandelt sich auf andere Weise. Rote Slaadi bringen blaue und grüne Slaadi hervor, und die blauen Slaadi erschaffen rote und grüne Slaadi.Jeder grüne Slaad durchläuft einen lebenslangen Zyklus der Verwandlung in die mächtigeren grauen Slaadi und Todesslaadi. Bei jeder Verwandlung behält der Slaad seine Erinnerungen.
 
-Slaadi have horrific cycles of reproduction. Slaadi reproduce either by implanting humanoid hosts with eggs or by infecting them with a transformative disease called chaos phage. Each color of slaad reproduces or transforms in a different way, with red slaadi spawning blue and green slaadi, and blue slaadi spawning red and green. Each green slaad undergoes a lifelong cycle of transformation into the more powerful gray and death slaadi. With each transformation, the slaad retains its memories.
+### Gestaltwandler
 
-### Shapechangers
+Einige Slaadi können sich in die humanoiden Kreaturen verwandeln, aus denen sie ursprünglich hervorgegangen sind. Diese Slaadi kehren auf die Materielle Ebene zurück, um in der Gestalt ihres ehemaligen Selbst für Chaos zu sorgen.
 
-Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
-
-> [!note] Variant: Slaad Control Gems
+> [!note] Variante: Slaadi-Kontrolljuwelen
 > 
-> As a slaad emerges from the Spawning Stone, the stone magically implants a fragment of itself in the slaad's brain. This fragment takes the form of a magic gem roughly the size and shape of a human child's fist. The gem is the same color as the slaad. Another creature can use magic to draw forth a slaad's gem and use it to subjugate the slaad. The slaad must obey whoever possesses its gem. If a slaad's gem is destroyed, the slaad can no longer be controlled in this way.
+> Wenn ein Slaad aus dem Brutstein geboren wird, implantiert der Stein auf magische Weise ein Fragment seiner Selbst im Gehirn des Slaad. Dieses Fragment nimmt die Gestalt eines magischen Juwels an, das ungefähr die Größe und Form der Faust eines menschlichen Kindes hat. Das Juwel hat die gleiche Farbe wie der Slaad. Eine andere Kreatur kann Magie verwenden, um das Juwel herauszuziehen und es verwenden, um den Slaad zu unterwerfen. Der Slaad muss demjenigen gehorchen, der das Juwel in Besitz hat. Wenn das Juwel des Slaad zerstört wird, kann der Slaad nicht mehr auf diese Weise kontrolliert werden. Ein Slaad, der auf andere Weise als aus einem Brutstein geboren wird, hat kein Juwel in seinem Gehirn, doch er erhält eines, wenn er jemals in Kontakt mit dem Brutstein kommt. Slaadi im Limbus werden vom Brutstein angelockt, sodass die meisten von ihnen irgendwann ein Juwel besitzen. Ein Slaad mit einem Kontrolljuwel im Gehirn hat das folgende zusätzliche Merkmal.
 > 
-> A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
+> **Kontrolljuwel.** In das Gehirn des Slaad ist ein magisches Kontrolljuwel eingesetzt. Der Slaad muss demjenigen gehorchen, der das Juwel in seinem Besitz hat, und kann nicht [[Zustände-phb#Bezaubert|bezaubert]] werden, solange er auf diese Weise kontrolliert wird. Bestimmte Zauber können verwendet werden, um das Juwel zu erlangen. Wenn der Slaad seinen Rettungswurf gegen [[Einkerkerung-phb|Einkerkerung]] nicht schafft, kann der Zauber das Juwel in die offene Handfläche des Zauberwirkers übertragen anstatt den Slaad einzuschließen. Ein [[Wunsch-phb|Wunsch]]-Zauber, der in der Präsenz des Slaad gewirkt wird, kann so formuliert werden, dass der Zauberwirker das Juwel erhält.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/3-Mechanics/CLI/conditions.md#Charmed) while so controlled.
+> Der Zauber [[Vollständige_Genesung-phb|Vollständige Genesung]], wenn er auf den Slaad gewirkt wird, zerstört das Juwel, ohne dem Slaad zu schaden.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/3-Mechanics/CLI/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
-> 
-> A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
-> 
-> Someone who is proficient in Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) can remove the gem from an [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Jemand mit Übung in Weisheit ([[Fertigkeiten-phb#Heilkunde|Heilkunde]]) kann das Juwel aus einem [[Zustände-phb#Kampfunfähig|kampfunfähigen]] Slaad entfernen. Jeder Versuch erfordert 1 Minute ununterbrochener Arbeit und einen erfolgreichen Wurf auf Weisheit ([[Fertigkeiten-phb#Heilkunde|Heilkunde]]) gegen SG 20. Jeder misslungene Versuch fügt dem Slaad 22 (`4d10`) Psychischen Schaden zu.
 ^variant-slaad-control-gems
 
 > [!quote]  
 > 
-> Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
+> In das Gehirn eines Slaad ist ein magisches Juwel eingesetzt. Wenn du es erlangst, kannst du den Slaad kontrollieren.
 
 ```statblock
 "name": "Red Slaad"

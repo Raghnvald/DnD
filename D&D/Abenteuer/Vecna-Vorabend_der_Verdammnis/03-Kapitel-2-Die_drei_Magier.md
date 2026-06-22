@@ -53,8 +53,6 @@ Wenn die Spieler nicht sicher sind oder du ihnen Vorschläge machen möchtest, z
 
 **Ereignisse in der Zwischenzeit**
 
-`dice: [](03-Kapitel-2-Die_drei_Magier#^interim-events)`
-
 | W6  | Ereignis                                                                                                                                                                                                                                                                                                                           |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Die Charaktere wollten genauer wissen, was ihnen zugestoßen ist, und haben als Totengräber auf dem Nimmertod-Friedhof gearbeitet. Sie haben gegen Untote, Grabräuber und manchmal sogar gegen Teufel gekämpft, die bösen Kultisten gedient haben.                                                                                  | 
@@ -254,7 +252,7 @@ Wenn die Charaktere Kas besiegt haben, lass sie selbst entscheiden, wie sie fort
 
 ## Überraschende Entwicklung
 
-Wenn die Charaktere durch den fehlgeschlagenen WunschZauber in Alustriels Heiligtum gelangen, lies die folgende Beschreibung vor oder formuliere sie frei:
+Wenn die Charaktere durch den fehlgeschlagenen [[Wunsch-phb|Wunsch]]-Zauber in Alustriels Heiligtum gelangen, lies die folgende Beschreibung vor oder formuliere sie frei:
 
 > [!readaloud] 
 > 
@@ -329,9 +327,9 @@ Die [[Glocke_des_Exils-veor|Glocke des Exils]] gehört Alustriel und kann Vecna 
 
 Die silberne Glocke ist mit zarten magischen Siegeln versehen. Wer sie hält, kann eine Aktion verwenden, um den Zauber Verbannung (`Zauberrettungswurf-SG 20`) zu wirken. Wenn das Ziel des Zaubers höchstens 50 Trefferpunkte hat, scheitert sein Rettungswurf automatisch. Wurde die Glocke eingesetzt, um den Zauber zu wirken, so ist dies erst im nächsten Morgengrauen wieder möglich. 
 
-## Nach Netzrand
-
 ![Alustriel's Chime of Exile...](Vecna-Vorabend_der_Verdammnis/img/034-02-007-mordenkainen-holding-chime-of-exile.webp#center "Alustriel's Chime of Exile might help the characters defeat Vecna")
+
+## Nach Netzrand
 
 Wenn die Charaktere durch das Portal getreten sind, befinden sie sich tief im Unterreich in Faerûn. Das Stabteil liegt in Netzrand verborgen, einer nahen Zuflucht für Agenten der Dämonengöttin Lolth. 
 
@@ -353,318 +351,318 @@ Die Agenten verbringen dann einige Stunden mit taktischen Besprechungen in Netzr
 
 Da hier höchst geheime und böse Arbeiten ausgeführt werden, ist Netzrand ein wohlgehütetes Geheimnis. Nur die höchstrangigen Geheimagenten und Mitglieder von Lolths Klerus sowie mächtige Dämonen und Teufel, die mit der Spinnenkönigin im Bunde sind, wissen von diesem Ort. Ein paar Kultisten leben in Netzrand, um die Einrichtung zu pflegen und den Agenten als Unterstützung zu dienen. Diese Kultisten sind dazu verpflichtet, ihr gesamtes Leben hier zu verbringen dieses Opfer bringen sie allerdings gerne, um der Spinnenkönigin ihre Ergebenheit zu beweisen. 
 
-### General Features
+### Allgemeine Merkmale
 
-Recurring features of Web's Edge are described in the following sections.
+In den folgenden Abschnitten werden die allgemeinen Merkmale von Netzrand beschrieben.
 
-#### Agents and Cultists
+#### Agenten und Kultisten
 
-No matter why they're in Web's Edge, all Lolth worshipers here are fanatics devoted to the demon-god. In a battle against the characters, these fanatics always fight to the death.
+Unabhängig vom Anlass ihres Aufenthalts in Netzrand sind alle Anhänger von Lolth hier Fanatiker und der Dämonengöttin bedingungslos ergeben. Sie kämpfen sie stets bis zum Tod gegen die Charaktere.
 
-#### Ceilings
+#### Beleuchtung
 
-The ceilings in most areas of Web's Edge are 20 feet high, with stalactites occasionally jutting down a few feet. The ceilings in the fodder chamber (area W9) and Sacred Web Hall (area W12) are 50 feet tall and relatively smooth.
+Es gibt im Komplex weder natürliche noch magische Lichtquellen. Gebietsbeschreibungen setzen voraus, dass die Charaktere eine Lichtquelle oder andere Möglichkeiten haben, um im Dunkeln zu sehen. Lichtquellen erregen die Aufmerksamkeit der Bewohner des Komplexes, wobei die Charaktere nicht unbedingt sofort als Eindringlinge erkannt werden (siehe „Netzrand infiltrieren" weiter unten).
 
-#### Doors
+#### Decken
 
-The doors in Web's Edge are made of iron. The doors to areas W3, W4, and W5 are sealed with Arcane Lock spells, requiring a successful DC 20 Dexterity (Sleight of Hand) check using thieves' tools to unlock. Additionally, areas W6a–W6d are locked and each require a successful DC 15 Dexterity (Sleight of Hand) check using thieves' tools to unlock. The [nalfeshnee](/3-Mechanics/CLI/bestiary/fiend/nalfeshnee.md) in area W5 carries keys to all the cells in area W6. All other doors in Web's Edge are unlocked.
+Die Decken in den meisten Bereichen von Netzrand sind sechs Meter hoch. Hier und da hängen einige Stalaktiten ein, zwei Meter weit herunter. Die Decken in der Futterkammer (Bereich N9) und in der Halle des Heiligen Netzes (Bereich N12) sind 15 Meter hoch und relativ glatt.
 
-#### Lighting
+#### Türen
 
-There are no natural or magical light sources in the complex. Area descriptions assume the characters have a light source or some other means of seeing in the dark. Light sources bring the attention of the complex's denizens, although the characters might not immediately be recognized as intruders (see "Infiltrating Web's Edge" below).
+Die Türen in Netzrand bestehen aus Eisen. Die Türen zu den Bereichen N3, N4 und NS sind mit dem Zauber Arkanes Schloss versiegelt. Sie zu öffnen erfordert einen erfolgreichen `SG-20-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]]. Auch die Türen zu den Bereichen N6a-N6d sind verschlossen und können mit einem erfolgreichen `SG-15- Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]] geöffnet werden. Der [[Nalfeshnee-mm|Nalfeshnee]] in Bereich N5 trägt Schlüssel zu allen Zellen in Bereich N6. Die anderen Türen in Netzrand sind nicht verschlossen.
 
-#### Safe from Prying Eyes
+#### Vor neugierigen Blicken geschützt
 
-Everyone in Web's Edge is under the effect of a Nondetection spell while inside the structure.
+Jede Kreatur in Netzrand steht unter dem Effekt des Zaubers [[Unauffindbarkeit-phb|Unauffindbarkeit]], solange sie sich innerhalb des Komplexes aufhält.
 
-#### Walls
+#### Wände
 
-The walls in Web's Edge are rocky, jagged, and uneven. Decades ago, Lolth's faithful enlarged the chamber that contains Sacred Web Hall (area W12) using the Stone Shape spell. As such, the walls in area W12 are smooth.
+Die Wände in Netzrand sind felsig, schartig und uneben. Vor Jahrzehnten haben Lolths Anhänger die Kammer, in der sich die Halle des Heiligen Netzes (Bereich N12) befindet, mithilfe des Zaubers Stein formen erweitert. Daher sind die Wände in Bereich N12 glatt.
 
-### Infiltrating Web's Edge
+![Helden, die Netzrand betreten, ohne sich dessen Gefahren bewusst zu sein, erwartet üblicherweise ein grausiges Ende.](Vecna-Vorabend_der_Verdammnis/img/036-02-009-webs-edge.webp#center)
 
-![Heroes who stumble into We...](Vecna-Vorabend_der_Verdammnis/img/036-02-009-webs-edge.webp#center "Heroes who stumble into Web's Edge unaware of its dangers usually meet a gruesome end")
+### Netzrand infiltieren
 
-Web's Edge is a dangerous place. If the characters burst into the complex without a plan, they're unlikely to survive the experience, let alone retrieve the first piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). See the advice below for handling strategies the characters might adopt.
+Netzrand ist ein gefährlicher Ort. Wenn die Charaktere in den Komplex eindringen, ohne einen Plan zu haben, ist es unwahrscheinlich, dass sie das Unterfangen überleben, geschweige denn das erste Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] erlangen. Unten findest du Ratschläge zu Strategien, welche die Charaktere verfolgen könnten.
 
-#### Being Sneaky
+#### Heimlich vorgehen
 
-If the characters are careful, they might be able to sneak through Web's Edge and steal the rod piece without anyone catching them.
+Sofern die Charaktere vorsichtig sind, können sie vielleicht durch Netzrand schleichen und das Stabteil stehlen, ohne erwischt zu werden.
 
-If any devotees in Web's Edge spot the characters infiltrating the safe house, they scream for help to any denizen within earshot and attack unless otherwise noted.
+Wenn irgendwelche Agenten in Netzrand die Charaktere entdecken, wie diese die geheime Zuflucht infiltrieren, rufen sie alle Bewohner in Hörweite herbei und greifen an, sofern nicht anders vermerkt.
 
-#### Impersonating Worshipers
+#### Sich als Gläubige tarnen
 
-Masquerading as devotees of Lolth could be an effective strategy. Creatures of all backgrounds and origins use Web's Edge as a meeting place, a safe house, and a place of worship. Web's Edge has only a handful of permanent attendants, none of whom could possibly be familiar with every Lolth agent in the Underdark.
+Es könnte eine taugliche Strategie sein, sich als Anhänger von Lolth zu tarnen. Kreaturen aller Hintergründe und Herkünfte nutzen Netzrand als Treffpunkt, Zuflucht und Anbetungsort. Es gibt nur wenige dauerhafte Bewohner, von denen keiner jeden Agenten von Lolth im Unterreich kennen kann.
 
-If the characters want to blend in with the Lolth worshipers, any disguises they use (magical or otherwise) should include spider-shaped paraphernalia. A successful DC 14 Wisdom (Religion) or Intelligence (History) check reveals that "The Spider Queen smiles on you" is a typical religious greeting that those in Web's Edge expect to hear from fellow devotees. Any creature in Web's Edge who sees a character wearing something spider-shaped or hears the character speak this greeting has disadvantage on ability checks to see through the characters' disguises.
+Wenn die Charaktere sich unter die Anhänger Lolths mischen wollen, sollten sie zu Verkleidungen (magisch oder anderweitig) greifen, die das Spinnenthema aufgreift. Ein erfolgreicher `SG-14-Weisheitswurf` ([[Fertigkeiten-phb#Religion|Religion]]) oder -`Intelligenzwurf` ([[Fertigkeiten-phb#Geschichte|Geschichte]]) enthüllt, dass „Die Spinnenkönigin lächelt auf Euch herab" ein typischer religiöser Gruß ist, wie er in Netzrand von Glaubensgeschwistern erwartet wird. Jede Kreatur in Netzrand, die einen Charakter sieht, der etwas Spinnenförmiges trägt, oder hört, wie ein Charakter diese Grußformel ausspricht, ist bei Attributswürfen zum Durchschauen der Tarnung der Charaktere im Nachteil.
 
-Devotees in Web's Edge who identify the characters as impostors scream for help and attack.
+Gläubige in Netzrand, die die Charaktere als Hochstapler erkennen, schreien um Hilfe und greifen an.
 
-### Web's Edge Locations
+### Orte in Netzrand
 
-The following locations are keyed to map 2.2.
+Die folgenden Orte sind auf Karte 2.2 dargestellt.
 
 > [!gallery]
 > ![Map 2.2: Web's Edge](Vecna-Vorabend_der_Verdammnis/img/037-2-02-webs-edge.webp#gallery)
 > ![Player Version](Vecna-Vorabend_der_Verdammnis/img/038-2-02-webs-edge-player.webp#gallery)
 
-#### W1: False Front
+#### N1: False Front
 
 > [!readaloud] 
 > 
-> The remains of mold-covered broken wagons and barrels languish in this large foyer. Humanoid skeletal remains lie strewn about, their swords and armor bent and rusted. Something gleams next to the bodies propped along the northern wall. Double doors on the east, northeast, and southeast walls are rusted shut, and a semicircular chamber that opens in the southwest wall contains a shrine.
+> In diesem großen Vorraum gammeln die Überreste schimmliger Karren und Fässer vor sich hin. Humanoide Skelettreste, rostige Schwerter und verbeulte Rüstungen liegen verstreut herum. Neben den Überresten an der Nordwand leuchtet irgendwas Glitzerndes. Die Doppeltüren in den Wänden im Osten, im Nordosten und im Südosten sind zu verrostet, um sich noch öffnen zu lassen. In der Südwestwand befindet sich eine Öff'}l'ng zu einer halbrunden Kammer, die einen Schrein enthält.
 ^105
 
-To convince unwelcome visitors that this cave is unused, the facility's cultists created a false front in this foyer. The skeletal remains and rusted gear belong to five long-dead adventurers whom the characters can identify as two dwarves, an elf, a gnome, and a tiefling.
+Die Kultisten haben in diesem Vorraum eine falsche Front geschaffen, um ungebetene Gäste davon zu überzeugen, dass diese Höhle ungenutzt ist. Die Überreste und die rostige Ausrüstung gehören zu fünf längst toten Abenteurern. Die Charaktere können sie als zwei Zwerge, einen Elfen, einen Gnom und einen Tiefling identifizieren.
 
-##### Traps
+##### Fallen
 
-The gleams in the northern part of the chamber are magical traps placed on fist-size, fake rubies tucked conspicuously next to two skeletons. The fake rubies are fixed to the floor and can't be removed. Any character who touches one of the rubies must make a DC 20 Dexterity saving throw, taking `dice:12d8|noform|noparens|avg|text(54)` (`12d8`) lightning damage on a failed save or half as much damage on a successful one.
+Was da im Norden der Kammer glitzert, sind faustgroße falsche Rubine, die gut sichtbar neben zwei Skeletten liegen und magische Fallen darstellen. Die falschen Rubine sind am Boden befestigt und können nicht entfernt werden. Ein Charakter, der einen der Rubine berührt, muss einen `SG-20- Geschicklichkeits-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet er `dice:12d8|noform|noparens|avg|text(54)` (`12d8`)  Blitzschaden, anderenfalls die Hälfte.
 
-The traps can't be disabled, but a character who comes within 5 feet of one of the rubies and examines it can make a DC 18 Intelligence (Investigation) check. On a success, the character deduces that the ruby is fake, worthless, and magically trapped to release a violent electric shock.
+Die Fallen lassen sich nicht entschärfen, aber ein Charakter, der sich den Rubinen auf höchstens 1,5 Meter nähert und sie untersucht, kann einen `SG-18-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) ausführen. Bei einem Erfolg erkennt der Charakter, dass es sich um falsche, wertlose Rubine handelt, die auf magische Art befestigt wurden und Elektroschocks abgeben können.
 
-#### W2: Lolth Shrine
+#### N2: Schrein der Lolth
 
 > [!readaloud] 
 > 
-> This semicircular chamber forms a natural alcove. Shelves carved into the wall from floor to ceiling hold small, repulsive items, including bloody baubles, shriveled fingers, and idols carved from bone. Two figures crouch before the shelves.
+> Diese halbrunde Kammer bildet einen natürlichen Alkoven. In die Wand wurden deckenhohe Regale geschlagen, welche kleine abstoßende Gegenstände wie blutigen Tand, verschrumpelte Finger und Götzenfigürchen aus Knochen enthalten. Vor den Regalen kauern zwei Gestalten.
 ^108
 
-Two agents of Lolth have come to pray at this shrine. They are Makubli Khee, a chaotic evil, hobgoblin [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md), and Torkner Ironteeth, a chaotic evil, duergar [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md). Because they're engrossed in their prayers, Makubli and Torkner don't notice the characters unless a member of the party deliberately hails them or the characters have a light source.
+Zwei Agenten von Lolth sind zum Schrein gekommen, um zu beten. Es handelt sich um Makubli Kii, einen chaotisch bösen Hobgoblin-[[Assassine-mm|Assassinen]], und Torkner Eisenzahn, einen chaotisch bösen Duergar-[[Magier-mm|Magier]]. Die beiden sind so in ihre Andacht versunken, dass sie die Charaktere nur bemerken, wenn ein Mitglied der Abenteurergruppe sie grüßt oder die Charaktere eine Lichtquelle haben.
 
-The items on the shelves are nonmagical. Any character who looks at the ceiling and succeeds on a DC 15 Wisdom (Perception) check spots a small, spider-shaped carving in the rock—a hint of this shrine's purpose.
+Die Gegenstände in den Regalen sind nichtmagisch. Ein Charakter, der zur Decke blickt und einen `SG-15-Weisheitswurf` ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) besteht, entdeckt eine kleine spinnenförmige Figur, die in den Fels geritzt wurde - ein Hinweis auf den Zweck dieses Schreins.
 
-##### Makubli and Torkner
+##### Makubli und Torkner
 
-Both Makubli and Torkner operate along the well-traveled route between Menzoberranzan and Blingdenstone, sabotaging supply caravans and generally causing mayhem. They usually kill or convert victims who survive their initial attacks, although Makubli recently turned over custody of a cyclops to the Web's Edge prison (see area W6a). Makubli and Torkner dislike each other intensely. Neither knows many other covert Lolth operatives, so clever characters could masquerade as allies (see "Impersonating Worshipers" earlier in this chapter).
+Makubli und Torkner operieren an der vielgenutzten Route zwischen Menzoberranzan und Blingdenstein, um Karawanen zu sabotieren und Chaos zu stiften. Üblicherweise töten oder bekehren sie Opfer, die ihre ursprünglichen Angriffe überlebt haben, wobei Makubli neulich eine Zyklopin ins Gefängnis von Netzrand (siehe Bereich N6a) überstellt hat. Makubli und Torkner können einander nicht leiden. Keiner von beiden kennt allzu viele andere verdeckte Agenten von Lolth, daher können clevere Charaktere sich als Verbündete ausgeben (siehe „Sich als Gläubige tarnen" weiter vorne in diesem Kapitel).
 
-The cultists who maintain Web's Edge are friendly with both agents, making Makubli and Torkner good candidates for the characters to impersonate. If either agent suspects that the characters aren't fellow Lolth operatives, they attack.
+Die Kultisten, die Netzrand pflegen, kennen beide Agenten, weswegen es eine gute Idee ist, dass die Charaktere sich als Makubli und Torkner ausgeben. Wenn mindestens einer der beiden Agenten argwöhnt, dass die Charaktere keine Agenten von Lolth sind, greifen sie an.
 
 > [!gallery]
 > ![Makubli Khee](Vecna-Vorabend_der_Verdammnis/img/039-02-015-makubli-khee.webp#gallery)
 > ![Torkner Ironteeth](Vecna-Vorabend_der_Verdammnis/img/040-02-016-torkner-ironteeth.webp#gallery)
 
-#### W3: Summoning Chamber
+#### N3: Beschwörungskammer
 
 > [!readaloud] 
 > 
-> An enormous pentagram drawn in chalk, with stubby unlit candles placed at each of its five points, covers the floor of this open chamber. A hooded figure hunches over a cluttered table in the southwest corner, mumbling profane phrases.
+> Auf den Boden dieser offenen Kammer wurde mit Kreide ein riesiges Pentagramm gemalt. Auf dessen Ecken wurden fünf Kerzenstumpen platziert, die gerade nicht brennen. Eine Kapuzengestalt beugt sich über einen Tisch voller Gegenstände in der südwestlichen Ecke und murmelt lästerliche Sätze.
 ^10b
 
-Cultists and agents gather here to commune with Lolth's Abyssal servants and occasionally summon Fiends to assist with missions. The figure at the table is Grottenelle Stonecutter, a chaotic evil, svirfneblin [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) who serves as the facility's high summoner.
+Hier versammeln sich Kultisten und Agenten, um mit Lolths abyssischen Dienern zu kommunizieren und gelegentlich Unholde zu beschwören, die ihnen bei Missionen helfen. Die Gestalt am Tisch ist [[Grottenelle_Steinschneider-veor|Grottenelle Steinschneider]], eine chaotisch böse Svirfneblin-[[Magier-mm|Magierin]], die in Netzrand als Oberste Beschwörerin dient.
 
-##### Summoning in Progress
+##### Beschwörung in Arbeit
 
-Grottenelle is in the middle of a summoning ritual. Have Grottenelle and the characters roll initiative. If the characters attack or otherwise interrupt Grottenelle before the start of her first turn, the summoning fails. Otherwise, a [glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu.md) appears in the center of the pentagram at the start of Grottenelle's turn. Grottenelle attacks intruders and commands the glabrezu to do the same if the summoning is successful.
+[[Grottenelle_Steinschneider-veor|Grottenelle]] ist gerade mitten in einem Beschwörungsritual. Lass [[Grottenelle_Steinschneider-veor|Grottenelle]] sowie die Charaktere die Initiative auswürfeln. Wenn die Charaktere [[Grottenelle_Steinschneider-veor|Grottenelle]] vor Beginn ihres ersten Zugs angreifen oder anderweitig unterbrechen, scheitert die Beschwörung. Anderenfalls erscheint zu Beginn von [[Grottenelle_Steinschneider-veor|Grottenelles]] Zug ein [[Glabrezu-mm|Glabrezu]] in der Mitte des Pentagramms. [[Grottenelle_Steinschneider-veor|Grottenelle]] greift Eindringlinge an und befiehlt dem [[Glabrezu-mm|Glabrezu]], ebenfalls anzugreifen, sofern die Beschwörung erfolgreich ist.
 
-![High Summoner Grottenelle ...](Vecna-Vorabend_der_Verdammnis/img/041-02-010-glabrezu.webp#center "High Summoner Grottenelle Stonecutter calls on a glabrezu to help with an evil mission the Lolth cultists are planning")
+![Die Oberste Beschwörerin Grottenelle Steinschneider ruft einen Glabrezu herbei, der den Kultisten von Lolth bei einer bösen Mission helfen soll.](Vecna-Vorabend_der_Verdammnis/img/041-02-010-glabrezu.webp#center)
 
-Grottenelle needs the glabrezu to assist in the operation being planned in area W7. At your discretion, the noise from a battle might alert the agents in that area, prompting them to investigate.
+[[Grottenelle_Steinschneider-veor|Grottenelle]] braucht den [[Glabrezu-mm|Glabrezu]] für die Operation, die in Bereich N7 geplant ist. Nach deinem Ermessen könnte der Kampflärm die Agenten in dem Bereich alarmieren, sodass sie nachsehen kommen.
 
-##### Treasure
+##### Schätze
 
-Grottenelle's table holds a Spell Scroll of Circle of Death, an ornate +2 Dagger, and an assortment of unguents and oils worth 500 gp.
+Auf [[Grottenelle_Steinschneider-veor|Grottenelles]] Tisch befinden sich eine [[Zauberschriftrolle-Zaubergrad-6-dmg|Zauberschriftrolle]] des [[Todeskreis-phb|Todeskreises]], ein verzierter [[Dolch-phb|Dolch]] +2 und eine Auswahl an Salben und Ölen im Wert von 500 GM.
 
-#### W4: Corridor
+#### N4: Korridor
 
 > [!readaloud] 
 > 
-> This corridor is empty. Heavy iron double doors bookend the western and eastern access points.
+> Dieser Korridor ist leer. Am westlichen und am östlichen Zugangspunkt befindet sich jeweils eine schwere eiserne Doppeltür.
 ^10f
 
-Additionally, if the characters haven't yet explored area W3, read the following aloud:
+Wenn die Charaktere Bereich N3 noch nicht erkundet haben, lies zusätzlich Folgendes vor:
 
 > [!readaloud] 
 > 
-> From the north, you hear a faint voice mumbling profane phrases.
+> Von Norden könnt ihr eine leise Stimme hören, die lästerliche Sätze murmelt.
 ^110
 
-The cultists keep the door to the fodder chamber (area W9) closed in case the food intended for Ker-arach in the Sacred Web Hall (area W12) tries to escape.
+Die Kultisten halten die Tür zur Futterkammer (Bereich N9) geschlossen, damit das Futter für [[Ker-arach-veor|Ker-arach]] in der Halle des Heiligen Netzes (Bereich N12) nicht flüchtet.
 
-#### W5: Guardian Chamber
+#### N5: Wächterkammer
 
 > [!readaloud] 
 > 
-> An enormous, winged biped with a boar's head paces in front of a barred prison door to the southwest. A ring of keys hangs from a hook on the creature's trident.
+> Eine gigantische zweibeinige Kreatur mit Flügeln und Eberkopf geht unruhig vor einer verriegelten Gefängnistür im Südwesten auf und ab. An ihrem Dreizack hängt ein Schlüsselbund.
 ^112
 
-The creature is a [nalfeshnee](/3-Mechanics/CLI/bestiary/fiend/nalfeshnee.md) named Maaltok, the guardian and keeper of the prison cells (areas W6a–W6d). Sometime in the last few decades, Maaltok switched allegiance from Graz'zt to Lolth. Since he is a recent recruit, Maaltok's yochlol handlers assigned him guard duty, which he performs grudgingly.
+Die Kreatur ist ein [[Nalfeshnee-mm|Nalfeshnee]] namens Maaltok, der als Wärter der Gefängniszellen (Bereiche N6a-N6d) fungiert. Irgendwann in den letzten paar Jahrzehnten ist Maaltok von Graz'zt zu Lolth übergelaufen. Da er noch ein relativ neuer Rekrut ist, haben seine YochlolFührer ihm den Wärterdienst übertragen, den er zähneknirschend versieht.
 
-Maaltok knows each of the prison cells' inhabitants and doesn't expect infiltrators. If the characters are impersonating devotees of Lolth, Maaltok tells them who's imprisoned in each cell.
+Maaltok kennt alle Insassen der Gefängniszellen und erwartet keine Infiltratoren. Wenn die Charaktere vorgeben, Anhänger von Lolth zu sein, sagt Maaltok ihnen, wer in welcher Zelle sitzt.
 
-##### Cell Keys
+##### Zellenschlüssel
 
-Maaltok carries keys to each of the cells in the prison (areas W6a–W6d). Stealing Maaltok's key ring without his knowledge requires a successful DC 16 Dexterity (Sleight of Hand) check.
+Maaltok trägt Schlüssel zu allen Zellen im Gefängnis (Bereiche N6a-N6d) bei sich. Es erfordert einen erfolgreichen `SG-16-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]), ihm den Schlüsselring zu stehlen, ohne dass er es merkt.
 
-#### W6: Holding Cells
+#### N6: Arrestzellen
 
 > [!readaloud] 
 > 
-> Four jail cells are arrayed along the south wall of this cavern. The first holds a cyclops; the second holds a dead elf; the third holds a bugbear slumped against a bench; and the fourth holds a hunched, gray-skinned figure in robes. A worn chest sits along the room's northwest wall. Leaning next to it is a giant-size club.
+> An der Südwand dieser Höhle befinden sich nebeneinander vier Arrestzellen. In der ersten sitzt eine Zyklopin, in der zweiten liegt ein toter Elf, in der dritten ist eine Grottenschratin gegen eine Bank gesunken, und in der vierten befindet sich eine gebeugte, grauhäutige Gestalt, die eine Robe trägt. An der Nordwestwand des Raums steht eine abgenutzte Truhe. Neben ihr lehnt ein riesiger Knüppel.
 ^115
 
-The chest contains confiscated weapons and equipment from prisoners kept in the nearby cells. It's locked and requires a DC 20 Dexterity (Sleight of Hand) check using thieves' tools to open.
+Die Truhe enthält konfiszierte Waffen und Ausrüstung der Gefangenen in den Zellen. Sie ist verschlossen. Sie zu öffnen erfordert einen erfolgreichen `SG-20- Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]].
 
-##### Treasure
+##### Schätze
 
-Inside the chest are a +1 Dagger and a +1 Longsword confiscated from the recently deceased elf prisoner, Fernil, whose body is in area W6b. The giant-size club next to the chest is a +2 Greatclub that belongs to Gertrude, the cyclops imprisoned in area W6a. The greatclub resizes to serve its wielder.
+Die Truhe enthält einen [[Dolch-phb|Dolch]] +l und ein [[Langschwert-phb|Langschwert]] +1, konfisziert vom neulich verstorbenen Elfengefangenen Fernil, dessen Leiche sich in Bereich N6b befindet. Der Riesenknüppel neben der Truhe ist ein [[Zweihandknüppel-phb|Zweihandknüppel]] +2, der Gertrude gehört, der Zyklopin, die in Bereich N6a gefangen ist. Der Zweihandknüppel kann seine Größe an die Kreatur anpassen, die ihn führt.
 
-#### W6a: Holding Cell A
+#### N6a: Arrestzelle A
 
 > [!readaloud] 
 > 
-> A burly cyclops sits on a bench in this jail cell, shackled to the walls by her hands and legs. She holds her head in her hands, looking defeated.
+> In dieser Gefängniszelle sitzt eine stämmige, an die Wand festgekettete Zyklopin auf einer Bank. Sie hat den Kopf in die Hände gelegt und sieht hoffnungslos aus.
 ^118
 
-This jail cell contains a bench and a bucket. The inhabitant is Gertrude, a chaotic neutral [cyclops](/3-Mechanics/CLI/bestiary/giant/cyclops.md) who was the lone survivor of an attack on a supply caravan near the ruins of the city of Ched Nasad. Makubli (see area W2) captured Gertrude weeks ago and brought her here as a prisoner, hoping she would reveal information about Blingdenstone's interest in Ched Nasad. Gertrude is a caravan guard and has no information the cultists can use; as soon as they realize this, they'll kill Gertrude, and she knows it. Her prized +2 Greatclub is stashed in the chest in area W6.
+Diese Zelle enthält eine Bank und einen Eimer. Hier ist Gertrude gefangen, eine chaotisch neutrale [[Zyklop-mm|Zyklopin]] und einzige Überlebende eines Angriffs auf eine Karawane nahe der Stadt Ched Nasad. Makubli (siehe Bereich N2) hat Gertrude vor einigen Wochen als Gefangene hergebracht - in der Hoffnung, sie könnte Informationen zu Blingdensteins Interesse an Ched Nasad enthüllen. Gertrude ist eine Karawanenwächterin und hat keine Informationen, die den Kultisten nutzen könnten. Sobald diesen das klar wird, werden sie Gertrude töten, was wiederum ihr klar ist. Ihr geliebter [[Zweihandknüppel-phb|Zweihandknüppel]] +2 befindet sich bei der Truhe in Bereich N6.
 
-##### Recruiting Gertrude
+##### Gertrude rekrutieren
 
-Gertrude hates Lolth and is eager to escape Web's Edge. If she realizes the characters are infiltrators, she begs them to free her. In exchange for her freedom, Gertrude offers to help the characters, including giving them her greatclub from the chest in area W6.
+Gertrude hasst Lolth und will unbedingt aus Netzrand entkommen. Wenn ihr klar wird, dass die Charaktere Eindringlinge sind, fleht sie darum, sie zu befreien. Im Gegenzug bietet sie ihre Hilfe und sogar ihren [[Zweihandknüppel-phb|Zweihandknüppel]] bei der Truhe in Bereich N6 an.
 
-##### Gertrude's Secret
+##### Gertrudes Geheimnis
 
-Even if the characters free her, Gertrude remains despondent. If the characters ask her what's wrong, Gertrude reveals that her friend, a svirfneblin named Rockzanna, was involved in a nearby mining operation and discovered that two of the operation's leaders were secret Lolth cultists planning an attack on the operation. Rockzanna was too scared to tell anyone besides Gertrude, and the cyclops fears a terrible fate for the miners.
+Gertrude bleibt auch dann niedergeschlagen, wenn die Charaktere sie befreien. Wenn die Charaktere sie fragen , was sie bedrückt, erzählt sie Folgendes: Ihre Freundin, eine Svirfneblin namens Mina, war bei einem Bergbauprojekt in der Nähe beschäftigt und hat entdeckt, dass zwei der Projektleiter insgeheim Kultisten von Lolth waren und einen Angriff auf das Projekt planten. Mina war zu verängstigt, um irgendwem außer Gertrude davon zu erzählen, und die Zyklopin befürchtet hinsichtlich des Schicksals der Bergleute das Schlimmste.
 
-Regardless of the characters' reaction to this revelation, learning it counts for the purposes of the Power of Secrets rules in this book's introduction. The mining operation is the same one the cultists in area W7 are discussing.
+Unabhängig von der Reaktion der Charaktere auf die Enthüllung zählt diese als Geheimnis entsprechend den Regeln unter „Die Macht der Geheimnisse" in der Einführung dieses Buchs. Das Bergbauprojekt ist dasselbe, über das auch die Kultisten in Bereich N7 diskutieren.
 
-#### W6b: Holding Cell B
+#### N6b: Arrestzelle B
 
 > [!readaloud] 
 > 
-> This jail cell contains a bench and a tattered blanket. The desiccated corpse of an elf lies on the floor.
+> Diese Zelle enthält eine Bank und eine zerschlissene Decke. Auf dem Boden liegt die vertrocknete Leiche eines Elfen .
 ^11c
 
-The body was once an elf named Fernil Orellian, an adventurer and priest of Corellon Larethian. A cloaker in the Underdark injured Fernil and killed his companions. An agent of Lolth came upon Fernil and marched him to Web's Edge, where he died shortly thereafter.
+Der Leichnam ist der eines Elfen namens Fernil Orellian, Abenteurer und Priester von [[elven-corellon-larethian-mtf|Corellon Larethian]]. Ein [[Mantler-mm|Mantler]] im Unterreich hat Fernil verletzt und seine Gefährten getötet. Dann kam ein Agent von Lolth und verschleppte Fernil nach Netzrand, wo dieser kurz darauf starb.
 
-##### Treasure
+##### Schätze
 
-Any character who examines the body and succeeds on a DC 16 Intelligence (Investigation) check notices a vial tucked into the corpse's belt. This is a Potion of Fire Resistance—the agent of Lolth never noticed it.
+Ein Charakter, der die Leiche untersucht und einen `SG-16-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, bemerkt eine Phiole, die hinter ihrem Gürtel steckt. Sie enthält einen [[Trank_des_Widerstands-dmg|Trank des Feuerwiderstands]] - Lolths Schergen haben sie nicht bemerkt.
 
-#### W6c: Holding Cell C
+#### N6c: Arrestzelle C
 
 > [!readaloud] 
 > 
-> A bugbear with thick eyebrows is slumped on the bench against the wall in this jail cell.
+> Eine Grottenschratin mit dichten Augenbrauen sitzt zusammengesunken auf der Bank an der Wand dieser Gefängniszelle.
 ^11f
 
-Although she looks like she's sleeping, the bugbear in this cell, Rothgral, is dead. She deserted a band of mercenaries based near Mithral Hall after meeting a persuasive duergar agent of Lolth named Vundren. Vundren brought Rothgral here, but the cultists determined the bugbear didn't have the skills necessary to become a covert Lolth operative. The cultists imprisoned her until they could determine what to do with her, and she died about a day ago due to neglect.
+Die Grottenschratin Rothgral sieht zwar aus, als schliefe sie, doch sie ist tot. Sie hat einen Söldnertrupp nahe der Mithralhalle verlassen, nachdem sie einen überzeugenden Duergar-Agenten von Lolth namens Vundren getroffen hatte. Vundren hat Rothgral hergebracht, doch die Kultisten haben entschieden, dass sie nicht über die nötigen Fähigkeiten verfügt, um eine Geheimagentin von Lolth zu werden. Die Kultisten sperrten sie ein, um zu entscheiden, was mit ihr zu tun sei, und gestern ist sie aufgrund der schlechten Versorgung gestorben.
 
-#### W6d: Holding Cell D
+#### N6d: Arrestzelle D
 
 > [!readaloud] 
 > 
-> A gray-skinned creature with stringy, black hair and cultist's robes sits hunched in a corner of this cell.
+> Eine grauhäutige Kreatur mit strähnigem schwarzem Haar und Kultistenrobe sitzt zusammengesunken in einer Ecke dieser Zelle.
 ^121
 
-This prisoner is Sril Brayspoke, a chaotic evil [grimlock](/3-Mechanics/CLI/bestiary/humanoid/grimlock.md). Until a week ago, Sril was a cultist in residence at Web's Edge devoted to serving the Spider Queen. However, the bumbling Sril accidentally insulted the yochlol in area W12. The powerful Fiend had Sril thrown into jail, and the cultists are considering feeding him to Ker-arach to appease Lolth.
+Dieser Gefangene ist Sril Iaah, ein chaotisch böser [[Grimlock-mm|Grimlock]]. Bis vor einer Woche war er noch selbst Kultist in Netzrand und diente der Spinnenkönigin. Dann beleidigte er aus Ungeschick versehentlich den Yochlol in Bereich N12. Der mächtige Unhold ließ Sril in eine Zelle sperren, und die Kultisten erwägen, ihn an Ker-arach zu verfüttern, um Lolth zu besänftigen.
 
-##### Recruiting Sril
+##### Sril rekrutieren
 
-Whether the characters are masquerading as Lolth worshipers or not, Sril begs to join the characters. A character who succeeds on a DC 14 Wisdom (Insight) check knows that Sril is still devoted to Lolth and will betray the characters if necessary to return to the cultists' good graces. If Sril is freed and knows the characters are impostors, he reveals their charade as soon as he sees another Lolth devotee.
+Unabhängig davon, ob die Charaktere sich als Lolth-Anhänger tarnen, fleht Sril sie an, ihn mitzunehmen. Ein Charakter, der einen `SG-14-Weisheitswurf` ([[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]]) besteht, erkennt, dass Sril Lolth weiterhin ergeben ist und die Charaktere verraten wird, wenn er damit die Gunst der Kultisten zurückgewinnen kann. Wenn Sril befreit wird und weiß, dass die Charaktere Hochstapler sind, verrät er sie, sobald er einen anderen Anhänger von Lolth sieht.
 
-#### W7: Meeting Room
+#### N7: Besprechungsraum
 
-![The Lolth cultists are pla...](Vecna-Vorabend_der_Verdammnis/img/042-02-011-lolth-cultist.webp#center "The Lolth cultists are planning an assault on a nearby svirfneblin mining operation")
+![Die Kultisten von Lolth planen einen Angriff auf ein Svirfneblin-Bergbauprojekt in der Nähe](Vecna-Vorabend_der_Verdammnis/img/042-02-011-lolth-cultist.webp#center)
 
 > [!readaloud] 
 > 
-> Relief carvings of spiders in webs decorate this chamber's walls, which are papered over with tactical maps and schematics. Gathered around a paperwork-covered table in the room's center are several cloaked figures as well as a horned, winged devil with a whip on her belt.
+> Reliefs von Spinnen in Netzen zieren die Wände dieser Kammer, außerdem wurden zahlreiche taktische Karten und Skizzen aufgehängt. Einige Gestalten mit Kapuzen und eine gehörnte, geflügelte Teufelin mit Peitsche am Gürtel sitzen um den Tisch in der Mitte, der mit weiteren Papieren bedeckt ist.
 ^124
 
 ![Jolera Hartoph](Vecna-Vorabend_der_Verdammnis/img/043-02-014-jolera.webp#center)
 
-Seven Lolth devotees are meeting in this room to plan an assault on a svirfneblin mining operation located about 20 miles from Web's Edge. The devotees have coordinated with two Lolth operatives embedded in the mining operation. The devotees plan to kidnap the most powerful miners and feed them to Ker-arach in area W12. They'll kill any remaining miners who don't worship Lolth.
+In diesem Raum sitzen sieben Anhänger von Lolth zusammen und planen einen Überfall auf ein Svirfneblin-Bergbauprojekt, das etwa 30 Kilometer von Netzrand entfernt liegt. Sie haben sich mit zwei Lolth-Agenten abgesprochen, die sich in das Projekt eingeschlichen haben. Geplant ist, die stärksten Bergleute zu entführen und Ker-arach in Bereich N12 zum Fraß vorzuwerfen. Die anderen Bergleute sollen direkt getötet werden, sofern sie keine Anhänger von Lolth sind.
 
-The devotees include a chaotic evil, elf [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md) named Jolera Hartoph; two [mages](/3-Mechanics/CLI/bestiary/humanoid/mage.md) named Bromtok and Shiroktu, who are chaotic evil orcs; two [grimlocks](/3-Mechanics/CLI/bestiary/humanoid/grimlock.md) named Roltharni and Sharlotte, who are chaotic evil; and an [erinyes](/3-Mechanics/CLI/bestiary/fiend/erinyes.md) named Fernitha.
+Zu den Anhängern gehören ein chaotisch böser Elfen-[[Assassine-mm|Assassine]] namens Jolera Hartoph, zwei chaotisch böse Ork-[[Magier-mm|Magier]] namens Bromtok und Shiroktu, zwei chaotisch böse [[Grimlock-mm|Grimlocks]] namens Roltharni und Sharlotte und eine [[Erinnyen-mm|Erinnye]] namens Fernitha.
 
-Fernitha, Bromtok, and Shiroktu plan to attack the svirfneblin while the deep gnomes rest. If the characters eavesdrop on the planning before they investigate the summoning chamber (area W3), they learn that the high summoner, Grottenelle Stonecutter, is summoning a glabrezu to help with the operation.
+Fernitha, Bromtok und Shiroktu wollen die Svirfneblin angreifen, während diese rasten. Wenn die Charaktere die Planungen belauschen, bevor sie die Beschwörungskammer (Bereich N3) untersuchen, erfahren sie, dass die Oberste Beschwörerin [[Grottenelle_Steinschneider-veor|Grottenelle Steinschneider]] einen [[Glabrezu-mm|Glabrezu]] beschwört, um bei der Mission zu helfen
 
-The Lolth devotees here attack any apparent interlopers. The [glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu.md) summoned in area W3 joins the fight if the characters haven't already defeated the demon (or prevented its summoning).
+Die Anhänger von Lolth hier greifen Eindringlinge sofort an, wenn sie sie sehen. Der in Bereich N3 beschworene [[Glabrezu-mm|Glabrezu]] kämpft mit, wenn die Charaktere ihn nicht schon besiegt oder seine Beschwörung verhindert haben.
 
-#### W8: Mission Hall
+#### N8: Missionshalle
 
-The east end of this hallway holds a secret door that leads into the Sacred Web Hall (area W12). A character who examines the wall and succeeds on a DC 16 Intelligence (Investigation) check finds the door, which serves as an escape for the cultists who attend to Ker-arach when the creature is in a particularly foul mood.
+Am östlichen Ende dieses Raums befindet sich eine Geheimtür zur Halle des Heiligen Netzes (Bereich N12). Ein Charakter, der die Wand untersucht und einen `SG-16-Intelligenzwurf` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) besteht, findet die Tür, die den Kultisten als Notausgang dient, wenn sie sich um [[Ker-arach-veor|Ker-arach]] „kümmern" und die Kreatur besonders übel gelaunt ist.
 
-#### W9: Fodder Chamber
+#### N9: Futterkammer
 
 > [!readaloud] 
 > 
-> Peering from this rocky room's center are four large lizards. The pungent smell of raw meat hangs in the air.
+> Vier große Eidechsen hocken blinzelnd in der Mitte dieses steinigen Raums. In der Luft liegt der durchdringende Geruch von rohem Fleisch.
 ^127
 
-The cultists keep a supply of prey creatures here to feed Ker-arach. Right now, the chamber is occupied by four [giant lizards](/3-Mechanics/CLI/bestiary/beast/giant-lizard.md). The cultists release a lizard into the Sacred Web Hall (area W12) whenever Ker-arach is grumpy, providing her with recreation and a meal.
+Hier verwahren die Kultisten einen Vorrat an Beutekreaturen, mit denen sie [[Ker-arach-veor|Ker-arach]] füttern. Gegenwärtig befinden sich vier [[Rieseneidechse-mm|Rieseneidechsen]] darin. Wenn [[Ker-arach-veor|Ker-arach]] launisch ist, kredenzen die Kultisten ihr in der Halle des Heiligen Netzes (Bereich Nl2) eine der Echsen, um sie zu füttern und zu unterhalten.
 
-##### Releasing the Lizards
+##### Die Eidechsen befreien
 
-The cultists recently fed the lizards raw meat from the pantry in area W10, so the creatures are complacent. A character who holds raw meat near a giant lizard can successfully give that lizard simple commands (such as "follow me," "go where I point," or "bite her") for 10 minutes without giving the lizard the meat. If the lizard doesn't get the meat after 10 minutes, it attacks that character.
+Die Kultisten haben die Eidechsen gerade mit rohem Fleisch aus der Vorratskammer in Bereich N10 gefüttert, sodass die Kreaturen zufrieden sind. Ein Charakter, der einer der [[Rieseneidechse-mm|Rieseneidechsen]] rohes Fleisch anbietet, kann ihr zehn Minuten lang erfolgreich einfache Befehle erteilen - etwa „mir nach", „geh, wohin ich zeige" oder „beiße diese Person" -, ohne der Eidechse das Fleisch zu geben. Bekommt die Eidechse das Fleisch nach diesen zehn Minuten nicht, greift sie den Charakter an. 
 
-If either exit is left open, the lizards meander into the complex. If a lizard wanders into area W12, Ker-arach has disadvantage on Wisdom (Perception) checks and initiative rolls made in relation to the characters, since she is distracted while trying to capture the lizard and cocoon it in the chamber's central web.
+Wenn einer der Eingänge offen gelassen wird, ziehen die Eidechsen gemächlich durch den Komplex. Begibt sich eine von ihnen in Bereich N12, so ist [[Ker-arach-veor|Ker-arach]] bei Weisheitswürfen ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]) und lnitiativewürfen im Zusammenhang mit den Charakteren im Nachteil, weil sie versucht, die Eidechse zu fangen und im zentralen Netz der Kammer einzuspinnen.
 
-#### W10: Barrack of the Faithful
+#### N10: Unterkunft der Gläubigen
 
 > [!readaloud] 
 > 
-> Five bedrolls, each with a small chest beside it, are tucked into this room. A large desk stands near the east wall. A small room to the south holds a long table with chairs around it.
+> In diesem Raum befinden sich fünf Pritschen mit jeweils einer kleinen Truhe daneben. An der Ostwand steht ein großer Schreibtisch. Im Süden schließt sich ein kleiner Raum mit einem langen Tisch und Stühlen an.
 ^12a
 
-This meager barrack houses the cultists who live in Web's Edge.
+In dieser schlichten Unterkunft nächtigen die Kultisten, die in Netzrand wohnen.
 
-##### Chests
+##### Truhen
 
-The chests contain the personal belongings of each cultist. Each chest is locked and requires a successful DC 18 Dexterity (Sleight of Hand) check using thieves' tools to open.
+Die Truhen enthalten die persönlichen Habseligkeiten der Kultisten. Sie sind verschlossen. Es erfordert einen erfolgreichen `SG-18-Geschicklichkeitswurf` ([[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb|Diebeswerkzeug]], sie zu öffnen.
 
-Each chest contains a ceremonial holy symbol of Lolth worth 50 gp. The chest near the bedroll closest to the entrance also contains two Potions of Healing (superior). The chest near the southernmost bedroll contains a Gem of Seeing.
+Jede Truhe enthält ein zeremonielles heiliges Symbol der Lolth im Wert von 50 GM. Die Truhe, die dem Eingang am nächsten ist, enthält außerdem zwei Tränke der überlegenen Heilung. Die südlichste Truhe enthält einen Edelstein des Sehens.
 
-##### Desk
+##### Schreibtisch
 
-A Detect Magic spell reveals an aura of conjuration magic around the desk, which bears a magical trap. Any character who touches the desk releases a swarm of spiders and must make a DC 18 Dexterity saving throw, taking `dice:8d4|noform|noparens|avg|text(20)` (`8d4`) poison damage on a failed save or half as much damage on a successful one. The trap triggers once, after which the spiders disappear and the desk becomes nonmagical. Casting Dispel Magic on the desk removes the trap.
+Der Zauber [[Magie_entdecken-phb|Magie entdecken]] offenbart eine Aura der Beschwörungsmagie um den Schreibtisch, der mit einer magischen Falle versehen ist. Ein Charakter, der den Tisch berührt, setzt einen Spinnenschwarm frei und muss einen `SG-18-Geschicklichkeits-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet er 20 (`8d4`) Giftschaden, anderenfalls die Hälfte. Die Falle löst einmal aus. Danach verschwinden die Spinnen, und der Schreibtisch wird nichtmagisch. Wird der Zauber Magie bannen auf den Tisch gewirkt, so wird die Falle entfernt.
 
-The desk contains notes about covert missions the Lolth worshipers are planning in the next few months. Additionally, it contains gold- and gem-encrusted, spider-shaped knickknacks worth 500 gp total.
+Der Schreibtisch enthält Notizen zu Geheimmissionen der Anhänger von Lolth, die für die nächsten Monate geplant sind. Ferner enthält er gold- und edelsteinbesetzte spinnenförmige Devotionalien im Wert von insgesamt 500 GM.
 
-##### Dining Area
+##### Essbereich
 
-The resident cultists eat and store their food in the room to the south. Characters who search the room find boxes of dried meat and other shelf-stable provisions. An ice box in the southeast corner is full of raw meat, which the characters can use to command the giant lizards in area W9.
+Die Kultisten, die hier wohnen, nehmen ihre Mahlzeiten im südlichen Raum ein und lagern dort auch ihre Lebensmittel. Charaktere, die den Raum durchsuchen finden hier Kisten mit Trockenfleisch und anderen haltbaren Vorräten. Eine Eistruhe in der Südostecke ist mit rohem Fleisch gefüllt, das die Charaktere verwenden können um den [[Rieseneidechse-mm|Rieseneidechsen]] in Bereich N9 Befehle zu erteilen.
 
-#### W11: Passageway
+#### N11: Korridor
 
 > [!readaloud] 
 > 
-> At the east end of this hallway is an enormous pile of bones.
+> Am östlichen Ende dieses Korridors liegt ein riesiger Knochenhaufen.
 ^12f
 
-The bones are remnants of meals eaten by Ker-arach, the spiderdragon in area W12.
+Die Knochen sind Überreste der Mahlzeiten von [[Ker-arach-veor|Ker-arach]], dem Spinnendrachenweibchen. in Bereich N12.
 
-#### W12: Sacred Web Hall
+#### N12: Halle des Heiligen Netzes
 
 > [!readaloud] 
 > 
-> An enormous web stretches across this open cavern's center, its strands plastered over stalagmites and stalactites. Crawling on the web is a gigantic reptilian creature with eight legs. Near that creature stands a smaller, one-eyed creature with a body that resembles melting wax.
+> In der Mitte dieser großen Höhle erstreckt sich ein riesiges Netz, dessen Klebefäden die Stalaktiten und Stalagmiten bedecken. Eine gigantische reptilienhafte Kreatur mit acht Beinen krabbelt im Netz umher. Bei dieser Kreatur steht eine kleinere, einäugige Kreatur mit einem Körper, der an schmelzendes Wachs erinnert.
 ^131
 
-This cavern's ceilings are 50 feet tall. The cavern is the lair of Ker-arach, the [spiderdragon](/3-Mechanics/CLI/bestiary/monstrosity/spiderdragon-veor.md) (see appendix A). Ker-arach crawled into this cavern through a temporary rift to the Abyss that opened during a ritual conducted here about half a year ago. Ker-arach brought with her a piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), which she uses to answer questions posed directly to the Spider Queen. Ker-arach is essentially a tourist attraction for the few Lolth devotees who know she exists. The cultists consider her a sign of Lolth's favor, even though she eats hundreds of pounds of meat every few days and doesn't otherwise contribute to the complex.
+Die Decke dieser Höhle ist 15 Meter hoch. Die Höhle ist der Hort von [[Ker-arach-veor|Ker-arach]], einem [[Spinnendrache-veor|Spinnendrachenweibchen]]. Dieses kam durch einen temporären Riss aus dem Abyss gekrochen, welcher sich vor einem halben Jahr bei einem Ritual aufgetan hatte. Ker-arach hat ein Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] mitgebracht. Sie benutzt es, um Fragen zu beantworten, die direkt an die Spinnenkönigin gerichtet werden. Das Drachenweibchen ist in erster Linie eine Touristenattraktion für die wenigen Anhänger von Lolth, die von seiner Existenz wissen. Die Kultisten betrachten es als Zeichen von Lolths Gunst, obwohl es alle paar Tage ein paar Hundert Kilo Fleisch verschlingt und dem Komplex keinen konkreten Nutzen bringt.
 
-![A piece of the Rod of Seven Parts](Vecna-Vorabend_der_Verdammnis/img/044-02-012-first-rod-of-seven-parts-piece.webp#center)
+![Ein Teil des Stabs der Sieben Teile.](Vecna-Vorabend_der_Verdammnis/img/044-02-012-first-rod-of-seven-parts-piece.webp#center)
 
-Standing near Ker-arach is a [yochlol](/3-Mechanics/CLI/bestiary/fiend/yochlol.md) named Ylellith, which the cultists recently summoned to help with a mission. When the creatures see the characters and realize the characters are enemies, they attack and fight to the death.
+In der Nähe von [[Ker-arach-veor|Ker-arach]] steht ein [[Yochlol-mm|Yochlol]] namens Ylellith, den die Kultisten unlängst beschworen haben, damit er ihnen bei einer Mission hilft. Wenn die Kreaturen die Charaktere sehen und ihnen klar ist, dass es sich um Gegner handelt, greifen sie an und kämpfen bis zum Tod.
 
-##### Ker-arach's Web
+##### Ker-arachs Netz
 
-The web in the center of the cavern is made of ultra-strong, ultra-sticky strands of Ker-arach's silk. Additionally, Ker-arach has spun other, smaller webs throughout the area. The webs are "difficult terrain". Any creature that enters the webbing for the first time on a turn or ends its turn there must succeed on a DC 12 Strength saving throw or it becomes stuck and has the restrained condition. As an action, a creature can try to pull itself or another creature within its reach from the webbing, doing so with a successful DC 15 Strength (Athletics) check. A creature freed in this way is no longer restrained by the webbing.
+Das Netz in der Höhlenmitte besteht aus extrem stabilen und höchst klebrigen Fäden aus [[Ker-arach-veor|Ker-arachs]] Seide. [[Ker-arach-veor|Ker-arach]] hat im ganzen Bereich noch weitere, kleinere Netze gesponnen. Die Netze sind schwieriges Gelände. Eine Kreatur, die das Netz in ihrem Zug betritt oder den Zug darin beendet, muss einen `SG-12-Stärkerettungswurf` bestehen, oder sie bleibt im Netz hängen und ist festgesetzt. Eine Kreatur kann als Aktion versuchen, sich selbst oder eine andere Kreatur innerhalb ihrer Reichweite vom Netz zu befreien, was ihr mit einem erfolgreichen `SG-15-Stärkewurf` ([[Fertigkeiten-phb#Athletik|Athletik]]) gelingt. Auf diese Art befreite Kreaturen sind nicht mehr festgesetzt.
 
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away, dealing `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) fire damage to any creature in that area.
+Die Netze sind brennbar. Ein Würfel der Netze mit 1,5 Metern Kantenlänge verbrennt, wenn er Feuer ausgesetzt wird, und fügt jeder Kreatur in diesem Bereich `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) Feuerschaden zu.
 
-##### Retrieving the Rod Piece
+##### Das Stabteil bergen
 
-The [first piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is wrapped tightly in silk at the center of this cavern's web. Characters who have darkvision or a light source can see the rod piece from up to 30 feet away. A character within reach of the rod piece can use a sharp tool to cut it free of the web as an action. For more about the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), see this book's introduction.
+Das erste Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] ist in der Mitte des Netzes in dieser Höhle fest eingesponnen. Charaktere, die über Dunkelsicht oder eine Lichtquelle verfügen, können das Stabteil aus bis zu neun Metern Entfernung entdecken. Ein Charakter, in dessen Reichweite sich das Stabteil befindet, kann es als Aktion mit einem scharfen Gegenstand aus dem Netz schneiden. Weitere Informationen über den [[Stab_der_Sieben_Teile-veor|Stab der Sieben Teile]] findest du in der Einführung dieses Buchs.
 
-## Next Steps
+![Das Spinnendrachenweibchen Ker-arach und der Yochlol Ylellith benutzen ein Teil des Stabs der Sieben Teile um direkt mit der Dämonengöttin Lolth zu kommunizieren.](Vecna-Vorabend_der_Verdammnis/img/045-02-013-ker-arach.webp#center)
 
-![The spiderdragon Ker-arach...](Vecna-Vorabend_der_Verdammnis/img/045-02-013-ker-arach.webp#center "The spiderdragon Ker-arach and the yochlol Ylellith use a piece of the Rod of Seven Parts to communicate directly with the demon-god Lolth")
+## Nächste Schritte
 
-Once the characters have acquired the first piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), they can return to Sigil through the portal that remains open outside Web's Edge. At this point, the characters will likely want to rest, confer with their allies in Sigil, and see where this first rod piece points them to go next.
+Wenn die Charaktere das erste Teil des [[Stab_der_Sieben_Teile-veor|Stabs der Sieben Teile]] an sich gebracht haben, können sie durch das Portal, das außerhalb von Netzrand offen bleibt, nach Sigil zurückkehren. Vermutlich möchten sie rasten, sich mit ihren Verbündeten in Sigi! beraten und erfahren, wohin sie das erste Stabteil als Nächstes schickt.
 
-When the characters return to the sanctum, Malaina is there (see "The Sigil Sanctum" earlier in this chapter for more details). Malaina offers to help however she can, including seeking information outside of Sigil or retrieving specific magic items the characters might want.
+Wenn die Charaktere zum Heiligtum zurückkehren, ist Malaina dort anwesend (unter „Das Heiligtum in Sigi!" weiter vorne in diesem Kapitel findest du weitere Details). Malaina bietet an, nach Kräften zu helfen, auch Informationen von außerhalb Sigils zu beschaffen oder bestimmte magische Gegenstände zu holen, welche die Charaktere mitführen möchten.
 
-Once the characters have concluded their business in the sanctum, they can begin their quest for the location of the second rod piece, as described in the next chapter.
+Wenn die Charaktere ihre Angelegenheiten im Heiligtum erledigt haben, können sie zum Fundort deszweiten Stabteils aufbrechen, wie im nächsten Kapitel beschrieben wird.

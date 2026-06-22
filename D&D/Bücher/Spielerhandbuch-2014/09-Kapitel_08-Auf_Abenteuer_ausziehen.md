@@ -8,7 +8,7 @@ aliases:
   - Auf Abenteuer ausziehen
 ---
 # Auf Abenteuer ausziehen
-*Source: Player's Handbook (2014), p. 181* 
+*Quelle: Spielerhandbuch (2014), S. 181* 
 
 In die Tiefen einer uralten Grabkammer voller Schrecken einzudringen, durch die Hintergassen von Waterdeep zu schleichen, einen neuen Pfad durch den dichten Dschungel auf der Insel des Schreckens zu schlagen - das sind die Dinge, die Abenteuer in DUNGEONS & DRAGONS auszeichnen. Dein Charakter könnte vergessene Ruinen und unerforschte Landschaften erkunden, finstere Geheimnisse aufdecken, teuflische Pläne enthüllen oder übellaunige Monster besiegen. Wenn alles gut geht, überlebt dein Charakter und erlangt Reichtümer, bevor er sich wieder in ein neues Abenteuer stürzt. 
 
@@ -16,13 +16,13 @@ Dieses Kapitel behandelt die Grundlagen des Abenteurerlebens, von der einfachen 
 
 Ob die Abenteurer nun ein staubiges Gewölbe erkunden oder die verflochtenen Ränke und Intrigen an einem königlichen Hof untersuchen - immer folgt das Spiel einem natürlichen Rhythmus, der bereits in der Einleitung des Buches dargelegt wurde: 
 
-- 1. Der SL beschreibt die Umgebung.   
-- 2. Die Spieler erläutern, was sie tun wollen.  
-- 3. Der SL beschreibt die Ergebnisse ihrer Handlungen.  
+1. Der SL beschreibt die Umgebung.   
+2. Die Spieler erläutern, was sie tun wollen.  
+3. Der SL beschreibt die Ergebnisse ihrer Handlungen.  
 
 Für gewöhnlich nutzt der SL eine Karte, um dem Abenteuer einen Rahmen zu geben. Auf dieser kann er die Bewegungen der Charaktere festhalten und ihren Fortschritt beim Erkunden von Gängen in Gewölben oder Regionen in der Wildnis darstellen. Die Aufzeichnungen des SL, die er den Spielern zu Verfügung stellt (einschließlich der Legende zur Karte), beschreiben, was die Charaktere beim Betreten jedes neuen Bereichs vorfinden. Manchmal bestimmt auch das Verstreichen der Zeit die Geschehnisse, sodass der SL unter Umständen eine Zeitlinie oder ein Flussdiagramm anstelle einer Karte verwendet, um den Fortschritt der Abenteurer darzustellen. 
 
-![](Spielerhandbuch-2014/img/ch8.webp#center)
+![](img/ch8.webp#center)
 
 ## Zeit
 

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Todeskreis
 Zaubergrad: 6
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
-Schaden:
+Zeitaufwand: 1 Aktion
+Reichweite: 45 m
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
+Angriff: KON
+Schaden: 8d6
 linter-yaml-title-alias: Todeskreis
 classes:
   - Bard (Magical Secrets)
@@ -30,19 +30,13 @@ aliases:
 
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite / Fläche:** 45 Meter
-- **Komponenten:** V, G, M (das Pulver einer zerstoßenen schwarzen Perle im Wert von mindestens 500 GM)
+- **Komponenten:** V, G, M (der Staub einer zermahlenen schwarzen Perle im Wert von mindestens 500 GM)
 - **Wirkungsdauer:** Unmittelbar
 
-Negative Energie breitet sich von einem Punkt in Reichweite in einer Sphäre mit einem Radius von 18 Metern aus. Jede Kreatur in dem Bereich muss einen `Konstitutions-Rettungswurf` ausführen. Scheitert der Wurf, erleidet das Ziel `8W6` nekrotischen Schaden, anderenfalls die Hälfte. 
+Negative Energie wogt in einer Sphäre mit einem Radius von 18 m um einen Punkt in Reichweite.Jede Kreatur in diesem Bereich muss einen `Konstitutions-Rettungswurf` ablegen. Bei einem Misserfolg erleidet ein Ziel `8W6` nekrotischen Schaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf. 
 
-**Auf höheren Graden.** Wirkst du diesen Zauber, indem du einen Zauberplatz des 7. Grades oder höher nutzt, steigt der Schaden für jeden Grad über dem 6. um `2W6`.
+**Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 7. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 6. hinaus um `2W6`.
 
----
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Hexenmeister](Listen/list-spells-classes-warlock.md); [Magier](Listen/list-spells-classes-wizard.md); [Zauberer](Listen/list-spells-classes-sorcerer.md)
 
-A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes `8d6` necrotic damage on a failed save, or half as much damage on a successful one.
-
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `2d6` for each slot level above 6th.
-
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
-
-*Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch p. 274. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span>*

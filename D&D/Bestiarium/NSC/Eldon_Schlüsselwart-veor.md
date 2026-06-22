@@ -34,7 +34,7 @@ aliases:
 > | 10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 > 
 > - **Rettungswürfe** -
-> - **Fertigkeiten** [[Fertigkeiten-phb#Heilkunde|Heilkunde]] +7, [[Fertikeiten-phb#Religion|Religion]] +5, [[Fertigkeiten-phb#Überzeugen|Überzeugen]] +3
+> - **Fertigkeiten** [[Fertigkeiten-phb#Heilkunde|Heilkunde]] +7, [[Fertigkeiten-phb#Religion|Religion]] +5, [[Fertigkeiten-phb#Überzeugen|Überzeugen]] +3
 > - **Sinne** passive Wahrnehmung 13
 > - **Schadensresistenzen** -
 > - **Schadensimmunitäten** -

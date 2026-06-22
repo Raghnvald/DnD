@@ -13,93 +13,62 @@ tags:
 aliases:
   - Hertilod
 ---
-# [Hertilod](3-Mechanics\CLI\bestiary\monstrosity/hertilod-veor.md)
-*Source: Vecna: Eve of Ruin p. 223*  
+# Hertilod
+*Quelle: Vecna: Vorabend derVerdammnis S. 214*  
 
-> [!quote] A quote from Melthena Vellaine, Wizard and Spelljammer  
+> [!quote] Melthena Vellaine, Magierin und Spelljammer  
 > 
-> They ain't dragons. They ain't lizards. Oh no, they're much worse."
+> Sie sind keine Drachen. Sie sind keine Echsen. Oh nein, sie sind viel schlimmer."
 
-When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a parasitic monster known as a hertilod. Voracious and terrifying, a hertilod resembles a skinless, serpentine lizard, with sharp claws and a gaping maw that drips venom. A hertilod's gruesomely exposed muscle renders it susceptible to lightning.
+Wenn ein toter Gott durch die Astralsee treibt, entsteht in seinem Leichnam manchmal ein parasitisches Monster, das Hertilod genannt wird. Ein Hertilod ist gefräßig und furchterregend und erinnert an eine schlangenhafte, hautlose Echse mit scharfen Krallen und einem klaffenden Maul, aus dem Gift tropft. Aufgrund seiner auf grausige Weise freiliegenden Muskeln ist ein Hertilod besonders empfindlich gegen Blitzschaden.
 
-```statblock
-"name": "Hertilod (VEoR)"
-"size": "Huge"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "14"
-"hp": !!int "241"
-"hit_dice": "21d12 + 105"
-"modifier": !!int "4"
-"stats":
-  - !!int "23"
-  - !!int "18"
-  - !!int "20"
-  - !!int "3"
-  - !!int "15"
-  - !!int "10"
-"speed": "50 ft., climb 50 ft."
-"saves":
-  - "strength": !!int "12"
-  - "dexterity": !!int "10"
-"skillsaves":
-  - "name": "Perception"
-    "desc": "+8"
-"damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 30 ft., tremorsense 60 ft., passive Perception 18"
-"languages": ""
-"cr": "17"
-"traits":
-  - "desc": "If the hertilod fails a saving throw, it can choose to succeed instead."
-    "name": "Legendary Resistances (3/Day)"
-  - "desc": "The hertilod has advantage on saving throws against spells and other\
-      \ magical effects."
-    "name": "Magic Resistance"
-  - "desc": "If the hertilod takes lightning damage, its speed is halved until the\
-      \ end of its next turn, and it must succeed on a DC 15 Constitution saving throw\
-      \ or immediately regurgitate all swallowed creatures, each of which lands in\
-      \ a space within 10 feet of the hertilod and has the prone condition."
-    "name": "Shock Susceptibility"
-  - "desc": "The hertilod can climb difficult surfaces, including upside down on ceilings,\
-      \ without needing to make an ability check."
-    "name": "Spider Climb"
-"actions":
-  - "desc": "The hertilod makes one Bite attack and two Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) piercing damage plus 13 (2d12) poison damage. If the target is a\
-      \ Large or smaller creature, it must succeed on a DC 20 Strength saving throw\
-      \ or be swallowed by the hertilod. A swallowed creature has the blinded and\
-      \ restrained conditions, and it has total cover against attacks and other effects\
-      \ outside the hertilod. At the start of each of the hertilod's turns, each swallowed\
-      \ creature takes 13 (2d12) poison damage from the poisonous secretion in the\
-      \ hertilod's gullet.\n\nThe hertilod's gullet can hold up to two creatures at\
-      \ a time. If the hertilod takes 40 damage or more on a single turn from a swallowed\
-      \ creature, the hertilod must succeed on a DC 15 Constitution saving throw at\
-      \ the end of that turn or regurgitate all swallowed creatures, each of which\
-      \ lands in a space within 10 feet of the hertilod and has the prone condition.\
-      \ If the hertilod dies, a swallowed creature is no longer restrained and can\
-      \ escape from the corpse by using 10 feet of movement, exiting with the prone\
-      \ condition."
-    "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) slashing damage."
-    "name": "Claw"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, the hertilod can expend a use to take one of the following actions. The\
-  \ hertilod regains all expended uses at the start of each of its turns."
-"legendary_actions":
-  - "desc": "The hertilod moves up to its speed. This movement doesn't provoke opportunity\
-      \ attacks."
-    "name": "Sprint"
-  - "desc": "The hertilod drains life from the creatures in its gullet to bolster\
-      \ itself. Each creature in the hertilod's gullet takes 10 (3d6) necrotic damage,\
-      \ and the hertilod regains a number of hit points equal to the damage."
-    "name": "Feed (Costs 2 Actions)"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hertilod-veor.webp"
-```
+> [!statblock] Hertilod
+> ![[token/hertilod-veor.webp|right|100]]
+> *Riesige Monstrosität, gesinnungslos*
+> 
+> - **Rüstungsklasse** 14 (natürliche Rüstung)
+> - **Trefferpunkte** 241 (`21d12 + 105`)
+> - **Bewegungsrate** 15 Meter, Klettern 15 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 23 (+6)|18 (+4)|20 (+5)|3 (-4)|15 (+2)|10 (+0)|
+> 
+> - **Rettungswürfe** STR +12, GES +10
+> - **Fertigkeiten** [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +8
+> - **Schadensresistenzen** Nekrotisch; Hieb, Stich und Wucht durch nichtmagische Angriffe 
+> - **Schadensimmunitäten** Gift
+> - **Zustandsimmunitäten** [[Zustände-phb#Vergiftet|vergiftet]] <br><br>
+> - **Sinne** [[Sinne-phb#Blindsicht|Blindsicht]] 9 Meter, [[Sinne-phb#Erschütterungssinn|Erschütterungssinn]] 18 Meter, passive Wahrnehmung 18
+> - **Sprachen** ⏤
+> - **Herausforderungsgrad** 17 (18.000 EP)
+> - **Übungsbonus** +4
+> 
+> ## Merkmale
+> 
+> ***Blitzempfindlichkeit.*** Wenn der Hertilod Blitzschaden erleidet, ist seine Bewegungsrate bis zum Ende seines nächsten Zugs halbiert. Außerdem muss er einen `SG-15-Konstitutions-Rettungswurf` bestehen, oder er würgt sofort alle verschluckten Kreaturen wieder aus. Diese landen an einer Stelle im Abstand von bis zu drei Metern vom Hertilod und sind [[Zustände-phb#Liegend|liegend]]. 
+> 
+> ***Legendäre Resistenz (3/Tag).*** Wenn sein Rettungswurf scheitert, kann der Hertilod den Wurf in einen Erfolg verwandeln.
+> 
+> ***Magieresistenz.*** Der Hertilod ist bei Rettungswürfen gegen Zauber und andere magische Effekte im Vorteil.
+> 
+> ***Spinnenklettern.*** Der Hertilod kann ohne Attributswürfe schwierige Oberflächen erklimmen und sich kopfüber an Decken entlang bewegen.
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Der Hertilod führt einen Bissangriff und zwei Klauenangriffe aus. 
+> 
+> ***Biss.*** *Nahkampf-Waffenangriff:* +12 zum Treffen, Reichweite 3 Meter, ein Ziel. *Treffer:* 15 (`2d8 + 6`) Stichschaden plus 13 (`2d12`) Giftschaden. Wenn das Ziel eine höchstens große Kreatur ist, muss es einen `SG-20-Stärke-Rettungswurf` bestehen, oder es wird vom Hertilod verschluckt. Verschluckte Kreaturen sind [[Zustände-phb#Blind|blind]] und [[Zustände-phb#Festgesetzt|festgesetzt]]. Sie haben [[10-Kapitel_09-Kampf#Deckung|vollständige Deckung]] gegen Angriffe und andere Effekte von außerhalb des Hertilods. Zu Beginn jedes Zugs des Hertilods erleidet jede verschluckte Kreatur 13 (`2d12`) Giftschaden durch die giftigen Sekrete im Schlund des Hertilods. 
+> 
+> In den Schlund des Hertilods passen bis zu zwei Kreaturen auf einmal. Wenn der Hertilod in einem einzigen Zug mindestens 40 Schaden durch eine verschluckte Kreatur erleidet, muss er am Ende des Zugs einen `SG-15-Konstitutions-Rettungswurf` bestehen, oder er würgt sofort alle verschluckten Kreaturen wieder aus. Diese landen an einer Stelle im Abstand von bis zu drei Metern vom Hertilod und sind [[Zustände-phb#Liegend|liegend]]. Stirbt der Hertilod, so ist eine verschluckte Kreatur nicht mehr [[Zustände-phb#Festgesetzt|festgesetzt]] und kann aus dem Kadaver entkommen, indem sie drei Meter ihrer Bewegungsrate verwendet. Anschließend ist sie [[Zustände-phb#Liegend|liegend]]. 
+> 
+> ***Klaue.*** *Nahkampf-Waffenangriff:* +12 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 17 (`2d10 + 6`) Hiebschaden.
+> 
+> ## Legendäre Aktionen
+> 
+> Der Hertilod kann drei legendäre Aktionen entsprechend den unten aufgeführten Optionen ausführen. Er kann jeweils nur eine legendäre Aktion und nur am Ende des Zugs einer anderen Kreatur ausführen. Verbrauchte legendäre Aktionen erhält der Hertilod am Anfang seines Zugs zurück. 
+> 
+> ***Sprinten.*** Der Hertilod nutzt seine Bewegungsrate. Diese Bewegung löst keine Gelegenheitsangriffe aus. 
+> 
+> ***Nähren (kostet 2 Aktionen).*** Der Hertilod entzieht den Kreaturen in seinem Schlund ihre Lebenskraft und nutzt sie für sich selbst. Jede Kreatur im Schlund des Hertilods erleidet 10 (`3d6`) nekrotischen Schaden, und der Hertilod erhält Trefferpunkte in Höhe dieses Schadens zurück. 
 ^statblock

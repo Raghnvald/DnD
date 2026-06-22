@@ -1,106 +1,90 @@
 ---
-Bezeichnung: Customization Options
-linter-yaml-title-alias: Customization Options
+Bezeichnung: Anpassungsmöglichkeiten
+linter-yaml-title-alias: Anpassungsmöglichkeiten
 tags:
   - Quelle/5e/phb
 aliases:
-  - Customization Options
+  - Anpassungsmöglichkeiten
 ---
-# Customization Options
-*Source: Player's Handbook (2014), p. 163* 
+# Anpassungsmöglichkeiten
+*Quelle: Spielleiterhandbuch (2014), S. 163* 
 
-The combination of ability scores, race, class, and background defines your character's capabilities in the game, and the personal details you create set your character apart from every other character. Even within your class and race, you have options to fine-tune what your character can do. But a few players—with the DM's permission—want to go a step further.
+Das Zusammenspiel von Attributswerten, Volkszugehörigkeit, Klasse und Hintergrund definiert die Fähigkeiten deines Charakters im Spiel. Und die persönlichen Einzelheiten, die du festlegst, unterscheiden ihn von jedem anderen. Selbst innerhalb deiner Klasse und deines Volkes hast du die Möglichkeit, deinen Abenteurer zu individualisieren. Dieses Kapitel ist vor allem für Spieler gedacht, die noch einen Schritt weitergehen wollen -die Erlaubnis des SL vorausgesetzt. Es stellt zwei optionale Regelsätze vor, um deinen Charakter weiter anzupassen: Klassenkombinationen und Talente. Durch Klassenkombinationen bist du in der Lage, Stufen in unterschiedlichen Klassen aufzusteigen und so deren Fähigkeiten miteinander zu verbinden. Talente sind spezielle Merkmale, die du anstelle einer Attributswerterhöhung wählen kannst. Dein SL entscheidet, ob diese Optionen in einer Kampagne zur Verfügung stehen oder nicht. 
 
-Chapter 6 of the Player's Handbook defines two optional sets of rules for customizing your character: multiclassing and feats. Multiclassing lets you combine classes together, and feats are special options you can choose instead of increasing your ability scores as you gain levels. Your DM decides whether these options are available in a campaign.
+![](img/ch6.webp#center)
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch6.webp#center)
+## Klassenkombinationen
 
-## Multiclassing
+Klassenkombinationen erlauben dir, Stufen in mehreren Klassen zu erlangen. Auf diese Weise kannst du eine individuelle Auswahl von Merkmalen zusammenstellen, die einen Abenteurer bildet, der nicht von den Standardklassen abgedeckt wird. Mit dieser Regel hast du die Wahlmöglichkeit, wann immer du eine Stufe aufsteigst, dies in einer beliebigen Klasse zu tun (für die du die Voraussetzungen erfüllst), statt nur in deiner jetzigen. Die Stufen all deiner Klassen werden zusammengezählt, um deine Charakterstufe zu bestimmen. Wenn du beispielsweise 3 Stufen als Magier und 2 als Kämpfer besitzt, ist deine Charakterstufe 5. 
 
-Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
+Während du Stufen aufsteigst, könntest du vorrangig ein Mitglied deiner ursprünglichen Klasse bleiben wollen, mit nur einigen Stufen in einer anderen. Vielleicht möchtest du deinen Kurs aber auch vollständig ändern, ohne je auf die Klasse zurückzublicken, die du einst gewählt hast. Du kannst sogar in einer dritten oder vierten Klasse aufsteigen. Verglichen mit einem gleichstufigen Charakter mit nur einer Klasse, gibst du dabei Spezialisierung zugunsten von Vielseitigkeit auf. 
 
-With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you're a 5th-level character.
+### Voraussetzungen
 
-As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you'll sacrifice some focus in exchange for versatility.
+Um dich für eine neue Klasse zu qualifizieren, musst du bestimmte Voraussetzungen bei den Attributswerten erfüllen, die sowohl für deine aktuelle als auch die angestrebte Klasse gelten (siehe dazu die Tabelle unten). Beispielsweise muss ein Barbar, der eine Stufe als Druide aufsteigen möchte, sowohl in Stärke als auch in Weisheit einen Wert von 13 oder höher besitzen. Ohne das volle Training der Anfangsklasse müssen Abenteurer über eine schnelle Auffassungsgabe verfügen, um sich die Fähigkeiten einer neuen Klasse anzueignen. Dies wird durch einen überdurchschnittlichen Attributswert ausgedrückt. 
 
-### Prerequisites
+![[Voraussetzungen-Klassenkombinationen#^multiclassing-prerequisites]]
 
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class. having a natural aptitude that is reflected by higher-than-average ability scores.
+### Erfahrungspunkte
 
-![Multiclassing Prerequisites](/3-Mechanics/CLI/tables/multiclassing-prerequisites-phb.md)
+Die Kosten an Erfahrungspunkten, die für den Aufstieg in eine neue Stufe benötigt werden, hängen von deiner Charakterstufe ab, nicht von der Stufe in einer einzelnen Klasse und sind in Kapitel 1 in der Charakteraufstiegstabelle angegeben. Wenn du also ein Kleriker 6 / Kämpfer 1 bist, musst du ausreichend EP erhalten, um in Stufe 8 aufsteigen zu können, bevor du eine 2. Stufe als Kämpfer oder eine 7. als Kleriker erhältst. 
 
-### Experience Points
+### Trefferpunkte und Trefferwürfel
 
-The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table in chapter I, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.
+Du erhältst die Trefferpunkte deiner neuen Klasse, so wie es für Stufen über die 1. hinaus angegeben ist. Die Trefferpunkte für Stufe 1 bekommst du nur, wenn auch deine Charakterstufe 1 ist. Zähle die Trefferwürfel, die du von all deinen Klassen bekommst, für deinen Pool an Trefferwürfeln zusammen. Sind die Trefferwürfel von derselben Art, kannst du sie einfach summieren. Zum Beispiel besitzen sowohl der Kämpfer als auch der Paladin Wlü als Trefferwürfel. Wenn du also ein Paladin 5 / Kämpfer 5 bist, stehen dir 10W10 zur Verfügung. Verleihen deine Klassen dir unterschiedliche Arten von Trefferwürfeln, solltest du sie getrennt voneinander notieren. Als Paladin 5 / Kleriker 5 erlangst du beispielsweise 5W10 von deiner Stufe als Paladin und SWS von der des Klerikers. 
 
-### Hit Points and Hit Dice
+### Übungsbonus
 
-You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
+Dein Übungsbonus basiert immer auf deiner gesamten Charakterstufe, so wie es in der Charakteraufstiegstabelle in Kapitel 1 angegeben ist, und nicht auf der Stufe in einer einzelnen Klasse. Wenn du beispielsweise ein Kämpfer 3 / Schurke 2 bist, hast du den Übungsbonus eines Charakters der 5. Stufe, der +3 beträgt. 
 
-You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
+### Übung
 
-### Proficiency Bonus
+Erlangst du die 1. Stufe in einer Klasse, die nicht deine Anfangsklasse ist, bist du nur in einigen anfänglichen Bereichen der neuen Klasse geübt. Welche das sind, kannst du der folgenden Tabelle entnehmen. 
 
-Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
+![[Klassenkombinationen-Übung-phb#^multiclassing-proficiencies]]
 
-### Proficiencies
+### Klassenmerkmale
 
-When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
+Steigst du in einer Klasse eine neue Stufe auf, erhältst du deren sämtliche Merkmale für die jeweilige Stufe. Die Anfangsausrüstung einer Klasse bekommst du allerdings nicht. Einige Merkmale haben bei Klassenkombinationen zusätzliche Regeln, die beachtet werden müssen. Dies betrifft Göttliche Macht fokussieren, Zusätzlicher Angriff, Ungerüstete Verteidigung und Zauberwirken. 
 
-![Multiclassing Proficiencies](/3-Mechanics/CLI/tables/multiclassing-proficiencies-phb.md)
+#### Göttliche Macht fokussieren
 
-### Class Features
+Verfügst du bereits über das Merkmal Göttliche Macht fokussieren, wenn du eine Stufe in einer anderen Klasse aufsteigst, die dir ebenfalls dieses Merkmal verleiht, erhältst du zwar die neuen Effekte von Göttliche Macht fokussieren, aber keine zusätzlichen Anwendungen. Zusätzliche Anwendungen erlangst du nur, wenn du eine Klassenstufe erreichst, die dies ausdrücklich besagt. Bist du beispielsweise ein Kleriker 6 / Paladin 4 kannst du aufgrund deiner Stufe als Kleriker Göttliche Macht fokussieren zweimal einsetzen, bevor du rasten musst. Wenn du Göttliche Macht fokussieren einsetzt, kannst du frei zwischen den Effekten wählen, die dir von deinen Klassen verliehen werden. 
 
-When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
+#### Zusätzlicher Angriff
 
-#### Channel Divinity
+Erlangst du das Merkmal Zusätzlicher Angriff von mehr als einer Klasse, addieren sich die erhaltenen Angriffe nicht. Du kannst mit dieser Fähigkeit nicht mehr als zwei Angriffe ausführen, außer dies wird ausdrücklich beschrieben (wie es bei der Kämpfervariante dieses Merkmals der Fall ist). Gleichermaßen bekommst du als Hexenmeister durch die Schauerliche Anrufung Dürstende Klinge keinen weiteren Angriff, wenn du bereits Zusätzlicher Angriff besitzt. 
 
-If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn't give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a cleric 6/paladin 4, you can use Channel Divinity twice between rests because you are high enough level in the cleric class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
+#### Ungerüstete Verteidigung
 
-#### Extra Attack
+Wenn du bereits über das Merkmal Ungerüstete Verteidigung verfügst, kannst du es nicht erneut durch eine andere Klasse erhalten. 
 
-If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does). Similarly, the warlock's eldritch invocation Thirsting Blade doesn't give you additional attacks if you also have Extra Attack.
+#### Zauberwirken
 
-#### Unarmored Defense
+Deine Fähigkeit, Zauber zu wirken, hängt teilweise von den kombinierten Stufen deiner zauberwirkenden Klassen ab und teilweise von deren einzelnen Stufen. Sobald du das Merkmal Zauberwirken durch mehr als eine Klasse erlangst, wendest. du die unten aufgeführten Regeln an. Wenn du eine Klassenkombinationen mit nur einer einzigen zauberwirkenden Klasse gewählt hast, benutzt du deren Regeln zum Zaubern. 
 
-If you already have the Unarmored Defense feature, you can't gain it again from another class.
+##### Bekannte Zauber und vorbereitete Zauber
 
-#### Spellcasting
+Du bestimmst für jede Klasse separat, welche Zauber dir bekannt sind und welche du vorbereitest, als ob du jeweils nur diese einzelne Klasse besitzen würdest. Wenn du ein Waldläufer 4 / Magier 3 bist, kennst du beispielsweise drei Waldläuferzauber des 1. Grades auf Grundlage deiner Waldläuferklasse sowie als Magier drei Magierzaubertricks. Weiterhin enthält dein Zauberbuch zehn Magierzauber, von denen zwei den 2. Grad haben können (die beiden, die du erhalten hast, als du in die 3. Stufe als Magier aufgestiegen bist). Falls deine Intelligenz mindestens 16 beträgt, kannst du sechs Magierzauber aus deinem Zauberbuch vorbereiten. 
 
-Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.
+Jeder Zauber, den du kennst und vorbereitest, ist mit einer deiner Klassen verbunden. Wenn du einen Zauber wirkst, wendest du also das Merkmal Zauberwirken dieser Klasse an. Ebenso verfährst du mit dem Zauberfokus: Dieser kann nur für die jeweils damit verbundenen Zauber der entsprechenden Klasse verwendet werden. Wenn einer deiner Zaubertricks auf einer höheren Stufe stärker wird, gilt dabei deine Charakterstufe, nicht die Stufe in einer bestimmten Klasse. 
 
-##### Spells Known and Prepared
+##### Zauberplätze
 
-You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your intelligence is 16, you can prepare six wizard spells from your spellbook.
+Wie viele Zauberplätze dir zur Verfügung stehen, ermittelst du, indem du deine Stufen als Barde, Kleriker, Druide, Zauberer und Magier zusammenzählst, die Hälfte der Stufen (abgerundet) als Paladin und Waldläufer addierst und ein Drittel deiner Stufen als Kämpfer oder Schurke (abgerundet) dazurechnest, falls du die Variante Mystischer Ritter oder Arkaner Betrüger gewählt hast. Anhand dieser summierten Stufe kannst du in der Tabelle „Klassenkombinationen für Zauberwirker" bestimmen, wie viele Zauberplätze welchen Grades du besitzt. 
 
-Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
+Kombinierst du mehr als eine zauberwirkende Klasse miteinander, erhältst du möglicherweise Zauberplätze eines höheren Grades als der jener Zauber, die dir bekannt sind und die du vorbereiten kannst. Diese Zauberplätze kannst du zwar benut" zen, aber nur für Zauber eines niedrigeren Grades. Zauber (wie Brennende Hände), die einen verstärkten Effekt haben, wenn sie mit einem höheren Zauberplatz gewirkt werden, können auf diese Weise verstärkte Effekte hervorrufen, obwohl du keine Zauber dieses höheren Grades besitzt. Bist du zum Beispiel der eingangs erwähnte Waldläufer 4 / Magier 3, zählst du zur Bestimmung deiner Zauberplätze als Charakter der 5. Stufe. Du besitzt also vier Zauberplätze des 1. Grades, drei des 2. Grades und zwei des 3. Grades. Jedoch kennst du weder Zauber des 3. Grades noch Waldläuferzauber des 2. Grades. Du kannst allerdings die Zauberplätze dieser höheren Grade verwenden, um die dir bekannten Zauber zu wirken und auch deren potenziell verstärkte Effekte zu nutzen. 
 
-If a cantrip of yours increases in power at higher levels, the increase is based on your character level, not your level in a particular class.
+##### Paktmagie
 
-##### Spell Slots
+Hast du neben dem Hexenmeister noch eine andere zauberwirkende Klasse gewählt, kannst du deine Zauberplätze, die du aus dem Merkmal Paktmagie erhältst, auch zum Wirken von Zaubern verwenden, die dir aus einer anderen Klasse zur Verfügung stehen. Außerdem darfst du die Zauberplätze, die du durch andere zauberwirkende Klassen bekommst, auch verwenden, um dir bekannte Hexenmeisterzauber zu wirken. 
 
-You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
+![[Zauberwirken-Klassenkombination_Zauberwirker-Zauberplätze_nach_Graden-phb#^multiclass-spellcaster-spell-slots-per-spell-level]]
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+## Talente
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
+Ein Talent repräsentiert eine Begabung oder Expertise, die deinem Charakter spezielle Fähigkeiten verleiht. Es verkörpert über eine Klasse hinausgehendes Training und Erfahrungen.
 
-##### Pact Magic
+Auf bestimmten Stufen erhältst du durch deine Klasse eine Attributswerterhöhung. Die optionale Regel für Talente erlaubt es dir, diese Erhöhung auszulassen und stattdessen ein Talent zu wählen, dessen Voraussetzungen du erfüllst. Du kannst jedes Talent nur einmal erlangen, außer in dessen Beschreibung steht etwas Gegenteiliges. 
 
-If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
-
-![Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level](/3-Mechanics/CLI/tables/spellcasting-multiclass-spellcaster-spell-slots-per-spell-level-phb.md)
-
-#### Starting Equipment
-
-You gain the starting equipment of your first class only.
-
-## Feats
-
-A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides. See chapter 6 of the Player's Handbook for more information.
-
-At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
-
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can't benefit from the Grappler feat until your Strength is restored.
-
-See the Feats section for more information.
+Solltest du jemals die Voraussetzungen für ein Talent nicht mehr erfüllen, kannst du es so lange nicht nutzen, bis du diese wieder erfüllst. Für das Talent Ringer benötigst du beispielsweise eine Stärke von 13 oder höher. Sinkt dein Attributswert etwa durch einen Fluch unter 13, erhältst du erst wieder die Vorzüge dieses Talents, wenn deine Stärke wiederhergestellt ist.

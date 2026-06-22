@@ -21,39 +21,31 @@ aliases:
 # Indrina Lamsettel
 *Quelle: Vecna: Vorabend der Verdammnis*  
 
-```statblock
-name: Indrina Lamsettel
-image: token/indrina-lamsensettle-veor.webp
-source:
-  - VEoR
-size: Mittelgroß
-type: Humanoid
-subtype: Mensch
-alignment: Rechtschaffen Neutral
-ac: 11
-hp: 9
-hit_dice: 2d8
-modifier: 1
-stats:
-  - 11
-  - 12
-  - 11
-  - 12
-  - 14
-  - 16
-speed: 9 m
-skillsaves:
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Motiv%20erkennen|Motiv erkennen<STATBLOCK-MARKDOWN-LINK>
-    desc: "+4"
-  - name: <STATBLOCK-MARKDOWN-LINK>Fertigkeiten-phb#Täuschung|Täuschung<STATBLOCK-MARKDOWN-LINK>
-    desc: "+5"
-  - name: <STATBLOCK-MARKDOWN-LINK>/Fertigkeiten-phb#Überzeugen|Überzeugen<STATBLOCK-MARKDOWN-LINK>
-    desc: "+5"
-senses: passive Wahrnehmung 12
-languages: Zwei beliebige Sprachen
-cr: 1/8
-reactions:
-  - desc: Indrina addiert 2 auf ihre RK gegen einen Nahkampfangriff, der sie treffen würde. Dazu muss Indrina den Angreifer sehen und eine Nahkampfwaffe führen.
-    name: Parade
-```
+> [!statblock] Indrina Lamsettel
+> ![[token/indrina-lamsensettle-veor.webp|right|100]]
+> *Mittelgroßer Humanoid (Mensch), Rechtschaffen Neutral*
+> 
+> - **Rüstungsklasse** 11
+> - **Trefferpunkte** 9 (`2d8`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
+> 
+> - **Rettungswürfe** ⏤
+> - **Fertigkeiten** [[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]] +4, [[Fertigkeiten-phb#Täuschung|Täuschung]] +5, [[Fertigkeiten-phb#Überzeugen|Überzeugen]] +5
+> - **Sinne** passive Wahrnehmung 12
+> - **Schadensresistenzen** -
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** - <br><br>
+> - **Sprachen** Zwei beliebige Sprachen
+> - **Herausforderungsgrad** 1/8 (25 EP)
+> - **Übungsbonus** +2
+> 
+> ## Reaktionen
+> 
+> ***Parade:*** Indrina addiert 2 auf ihre RK gegen einen Nahkampfangriff, der sie treffen würde. Dazu muss Indrina den Angreifer sehen und eine Nahkampfwaffe führen.
 ^statblock
+
+## Vorkommen

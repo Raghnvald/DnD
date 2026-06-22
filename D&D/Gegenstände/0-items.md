@@ -725,7 +725,7 @@ aliases:
 - [Outer Essence Shard (Evil)](Scherbe_der-außerweltlichen_Essenz-evil-tce.md)
 - [Outer Essence Shard (Good)](Scherbe_der-außerweltlichen_Essenz-good-tce.md)
 - [Outer Essence Shard (Lawful)](Scherbe_der-außerweltlichen_Essenz-lawful-tce.md)
-- [Outer Essence Shard](Scherbe_der-außerweltlichen_Essenz-tce.md)
+- [Outer Essence Shard](Scherbe_der_außerweltlichen_Essenz-tce.md)
 - [Ox](./ox-xdmg.md)
 - [Pack Saddle](Packsattel-phb.md)
 - [Padded Armor](Gefütterte_Rüstung-xphb.md)

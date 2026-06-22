@@ -90,7 +90,6 @@ Maglubiyet, der Mächtige, der Fürst der Tiefe und Dunkelheit, ist der höchste
 > ***Krummsäbel.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Hiebschaden.
 > 
 > ***Kurzbogen.*** *Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 24/96 Meter, ein Ziel. *Treffer:* 5 (`1W6 + 2`) Stichschaden.
-
 ^statblock
 
 ## Vorkommen

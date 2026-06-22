@@ -11,109 +11,113 @@ tags:
 aliases:
   - Erinyes
 ---
-# [Erinyes](3-Mechanics\CLI\bestiary\fiend/erinyes.md)
-*Source: Monster Manual p. 73. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Erinnyen
+*Quelle: Monsterhandbuch  S. 73. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-The most beautiful and striking of all lesser and greater devils, the erinyes are fierce and disciplined warriors. Sweeping down from the skies, they bring swift death to creatures that have wronged their masters or defied the edicts of Asmodeus. The erinyes appear as male or female humanoids with statuesque builds and large feathery wings. Most wear stylized armor and horned helms, and carry exquisite swords and bows. A few also use ropes of entanglement to ensnare powerful foes.
+Erinnyen sind die schönsten und beeindruckendsten aller niederen und hohen Teufel. Sie sind wilde und disziplinierte Krieger. Sie tauchen aus dem Himmel herab und bringen den Kreaturen, die ihren Meistern geschadet oder sich den Edikten von Asmodeus widersetzt haben, einen schnellen Tod. Die Erinnyen erscheinen als männliche oder weibliche Humanoide mit dem Körperbau klassischer Statuen und großen gefiederten Schwingen. Die meisten tragen stilisierte Rüstungen und Hörnerhelme und führen hervorragend gefertigte Schwerter und Bögen. Einige von ihnen nutzen auch [[Fesselseil-dmg|Fesselseile]], um mächtige Feinde zu umschlingen. 
 
-Legends tell that the first erinyes were angels that fell from the Upper Planes because of temptation or misdeed. Erinyes are always willing to take advantage of being mistaken for celestials in their missions of conquest and corruption.
+Legenden besagen, dass die ersten Erinnyen Engel waren, die aus den Oberen Ebenen gefallen sind, weil sie versucht wurden oder sich ein Fehlverhalten geleistet haben. Erinnyen sind immer willens, den Vorteil auszunutzen, wenn sie für celestische Wesen gehalten werden, um ihre Mission der Eroberung und des Verderbens voranzubringen. 
 
-> [!quote] A quote from From The Book of Vile Darkness  
+> [!quote] Aus dem Buch der niederträchtigen Dunkelheit  
 > 
-> They live by the sword and kill by the sword. Their beauty is nothing compared to their wrath.
+> Sie leben durch das Schwert und töten durch das Schwert. Ihre Schönheit ist nichts verglichen mit ihrer Wut.
 
-> [!note] Variant: Rope of Entanglement
+> [!note] Variante: Fesselseil
 > 
-> Some erinyes carry a [rope of entanglement](/3-Mechanics/CLI/items/rope-of-entanglement.md) (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
+> Einige Erinnyen tragen ein [[Fesselseil-dmg|Fesselseil]] bei sich (dieses ist im Spielleiterhandbuch beschrieben). Wenn eine solche Erinnye ihren Mehrfachangriff verwendet, kann sie das Seil anstelle von zweien ihrer Angriffe nutzen. 
 ^variant-rope-of-entanglement
 
-## Devils
+## Teufel
 
-Devils personify tyranny, with a totalitarian society dedicated to the domination of mortal life. The shadow of the Nine Hells of Baator extends far across the multiverse, and Asmodeus, the dark lord of Nessus, strives to subjugate the cosmos to satisfy his thirst for power. To do so, he must continually expand his infernal armies, sending his servants to the mortal realm to corrupt the souls from which new devils are spawned.
+Teufel verkörpern Tyrannei und leben in einer totalitären Gesellschaft, die sich der Aufgabe verschrieben hat, über jedes sterbliche Leben zu herrschen. Der Schatten der Neun Höllen von Baator erstreckt sich weit über das Multiversum, und Asmodeus, der dunkle Fürst von Nessus, strebt nach der Unterwerfung des Kosmos, um seine Gier nach Macht zu befriedigen. Dazu muss er beständig seine höllischen Armeen vergrößern, indem er seine Diener in die Welt der Sterblichen , schickt, um die Seelen zu korrumpieren, aus denen neue Teufel erschaffen werden. 
 
-### Lords of Tyranny
+### Fürsten der Tyrannei
 
-Devils live to conquer, enslave, and oppress. They take perverse delight in exercising authority over the weak, and any creature that defies the authority of a devil faces swift and cruel punishment. Every interaction is an opportunity for a devil to display its power, and all devils have a keen understanding of how to use and abuse their power.
+Teufel leben, um zu erobern, zu versklaven und zu unterdrücken. Sie empfinden perverses Vergnügen dabei, Autorität über Schwächere auszuüben, und jede Kreatur, die sich der Autorität eines Teufels widersetzt, wird schnell und grausam bestraft. Jede Interaktion ist eine Gelegenheit für einen Teufel, seine Macht zur Schau zu stellen, und sie alle haben ein genaues Verständnis davon, wie sie ihre Macht nutzen und missbrauchen können. 
 
-Devils understand the failings that plague intelligent mortals, and they use that knowledge to lead mortals into temptation and darkness, turning creatures into slaves to their own corruption. Devils on the Material Plane use their influence to manipulate humanoid rulers, whispering evil thoughts, fomenting paranoia, and eventually driving them to tyrannical actions.
+Teufel begreifen die Schwächen, die intelligente Sterbliche anfällig machen, und sie nutzen dieses Wissen, um Sterbliche in die Versuchung und in die Dunkelheit zu locken und diese Kreaturen in Sklaven ihrer eigenen Verderbtheit zu verwandeln. Teufel auf der Materiellen Ebene verwenden ihren Einfluss, um humanoide Herrscher zu beeinflussen, ihnen böse Gedanken einzuflüstern, ihre Paranoia anzufachen und sie schließlich in die Tyrannei zu treiben. 
 
-### Obedience and Ambition
+### Gehorsam und Ehrgeiz
 
-In accordance with their lawful alignment, devils obey even when they envy or dislike their superiors, knowing that their obedience will be rewarded. The hierarchy of the Nine Hells depends on this unswerving loyalty, without which that fiendish plane would become as anarchic as the Abyss.
+Im Einklang mit ihrer rechtschaffenen Gesinnung gehorchen Teufel selbst dann, wenn sie ihre Vorgesetzten hassen oder beneiden, da sie wissen, dass ihr Gehorsam belohnt werden wird. Die Hierarchie der Neun Höllen hängt von dieser unerschütterlichen Loyalität ab, ohne welche diese unheilige Ebene so anarchisch wie der Abyss werden würde. Gleichzeitig liegt es in der Natur der Teufel, zu intrigieren, was in einigen eine Begierde zu herrschen erweckt, die ihre Zufriedenheit damit, beherrscht zu werden, übertrifft. Dieser einzigartige Ehrgeiz ist unter den Erzteufeln am stärksten.Jene werden von Asmodeus als Herrscher der neun Schichten der Neun Höllen ernannt. Diese hochrangigen Unholde sind die einzigen Teufel, die jemals wahre Macht kosten, die sie wie süßestes Ambrosia begehren. 
 
-At the same time, it is in the nature of devils to scheme, creating in some a desire to rule that eclipses their contentment to be ruled. This singular ambition is strongest among the archdevils whom Asmodeus appoints to rule the nine layers of the Nine Hells. These high-ranking fiends are the only devils to ever sample true power, which they crave like the sweetest ambrosia.
+### Dunkle Pakte und Seelenhandel
 
-### Dark Dealers and Soul Mongers
+Teufel sind an die Unteren Ebenen gebunden, doch können sie über Portale und mächtige Beschwörungsmagie jenseits dieser Ebenen reisen. Sie lieben es, Handel mit Sterblichen zu schließen, die einen Vorteil oder einen Gewinn zu erlangen hoffen, doch muss ein Sterblicher, der ein solches Abkommen trifft, vorsichtig sein. Teufel sind geschickt im Verhandeln und absolut skrupellos, wenn sie einen Vertrag durchsetzen wollen. Außerdem wird ein Vertrag selbst mit dem schwächsten Teufel durch Asmodeus' Willen bekräftigt.Jede sterbliche Kreatur, die einen solchen Vertrag bricht, verliert sofort den Anspruch auf ihre Seele, die in die Neun Höllen gerissen wird. 
 
-Devils are confined to the Lower Planes, but they can travel beyond those planes by way of portals or powerful summoning magic. They love to strike bargains with mortals seeking to gain some benefit or prize, but a mortal making such a bargain must be wary. Devils are crafty negotiators and positively ruthless at enforcing the terms of an agreement. Moreover, a contract with even the lowliest devil is enforced by Asmodeus's will. Any mortal creature that breaks such a contract instantly forfeits its soul, which is spirited away to the Nine Hells.
+Die Seele einer Kreatur zu besitzen bedeutet, die absolute Kontrolle über sie zu haben, und die meisten Teufel akzeptieren keine andere Währung für die teuflische Macht und die Segnungen, die sie gewähren können. Eine Seele geht normalerweise dann in ihren Besitz über, wenn der Sterbliche einen natürlichen Tod stirbt, da Teufel unsterblich sind und Jahre warten können, bis sie Profit aus einem Vertrag ziehen. Wenn ein Vertrag es einem Teufel erlaubt, die Seele eines Sterblichen vor seinem Tod zu beanspruchen, dann kann er sofort mit der Seele in seinem Besitz in die Neun Höllen zurückkehren. Nur eine göttliche Intervention kann eine Seele befreien, nachdem ein Teufel sie beansprucht hat. 
 
-To own a creature's soul is to have absolute control over that creature, and most devils accept no other currency in exchange for the fiendish power and boons they can provide. A soul is usually forfeited when a mortal dies naturally, for devils are immortal and can wait years for a contract to play out. If a contract allows a devil to claim a mortal's soul before death, it can instantly return to the Nine Hells with the soul in its possession. Only divine intervention can release a soul after a devil has claimed it.
+### Die Höllische Hierarchie
 
-### The Infernal Hierarchy
+Die Neun Höllen verfügen über eine starre Struktur, die jeden Aspekt ihrer Gesellschaft definiert. Asmodeus ist der oberste Herrscher aller Teufel, und die einzige Kreatur in den Neun Höllen mit der Macht eines geringeren Gottes. Asmodeus wird als solcher auf der Materiellen Ebene verehrt und inspiriert böse, nach ihm benannte Kulte von Humanoiden. In den Neun Höllen befehligt er unzählige Höllenschlundteufel-Generäle, die wiederum Legionen von Untergebenen kommandieren. 
 
-The Nine Hells has a rigid hierarchy that defines every aspect of its society. Asmodeus is the supreme ruler of all devils, and the only creature in the Nine Hells with the powers of a lesser god. Worshiped as such in the Material Plane, Asmodeus inspires the evil humanoid cults that take his name. In the Nine Hells, he commands scores of pit fiend generals, which in turn command legions of subordinates.
+Asmodeus ist ein überlegener Tyrann, ein genialer Täuscher und ein Meister der Subtilität. Er beschützt seinen Thron, indem er seine Freunde nahe bei sich und seine Feinde noch näher hält. Er delegiert die meisten Aufgaben der Herrschaft an seine Höllenschlundteufel und die niederen Erzteufel, die die infernalische Bürokratie der Neun Höllen bilden, auch wenn er weiß, dass diese mächtigen Teufel intrigieren, um den Thron von Baator zu rauben, von dem aus er regiert. Asmodeus ernennt Erzteufel und kann jedem Mitglied der höllischen Hierarchie nach Belieben Rang und Status entziehen. 
 
-A supreme tyrant, a brilliant deceiver, and a master of subtlety, Asmodeus protects his throne by keeping his friends close and his enemies closer. He delegates most matters of rulership to the pit fiends and lesser archdevils that make up the infernal bureaucracy of the Nine Hells, even as he knows that those powerful devils conspire to usurp the Throne of Baator from which he rules. Asmodeus appoints archdevils, and he can strip any member of the infernal hierarchy of rank and status as he likes.
+Wenn ein Teufel außerhalb der Neun Höllen stirbt, verschwindet er in einer Wolke aus schwefeligem Rauch oder löst sich in eine Pfütze aus Blut auf. Er kehrt sofort auf seine Heimatschicht zurück, wo er mit voller Kraft neu geformt wird. Teufel, die in den Neun Höllen sterben, werden für immer zerstört - und selbst Asmodeus fürchtet dieses Schicksal. 
 
-If it dies outside the Nine Hells, a devil disappears in a cloud of sulfurous smoke or dissolves into a pool of ichor, instantly returning to its home layer, where it reforms at full strength. Devils that die in the Nine Hells are destroyed forever-a fate that even Asmodeus fears.
+#### Erzteufel
 
-#### Archdevils
+Die Erzteufel umfassen alle aktuellen und abgesetzten Herrscher der Neun Höllen (siehe die Tabelle der Schichten und Fürsten der Neun Höllen), sowie die Herzöge und Herzoginnen, die ihre Höfe bevölkern, ihnen als Ratgeber dienen und hoffen, an ihre Stelle zu treten.Jeder Erzteufel ist ein einzigartiges Wesen mit einem Erscheinungsbild, dass seine individuelle teuflische Natur widerspiegelt. 
 
-The archdevils include all the current and deposed rulers of the Nine Hells (see the Layers and Lords of the Nine Hells table), as well as the dukes and duchesses that make up their courts, attend them as advisers, and hope to supplant them. Every archdevil is a unique being with an appearance that reflects its particular evil nature.
+#### Hohe Teufel
 
-#### Greater Devils
+Die hohen Teufel umfassen die Höllenschlundteufel, Erinnyen, Hornteufel und Eisteufel, die die niederen Teufel befehligen und den Erzteufeln dienen. 
 
-The greater devils include the pit fiends, erinyes, horned devils, and ice devils that command lesser devils and attend the archdevils.
+#### Niedere Teufel
 
-#### Lesser Devils
+Zu den niederen Teufeln gehören unzählige Arten von Unholden, darunter Teufelchen, Kettenteufel, Stachelteufel, Bartteufel, Klingenteufel und Knochenteufel.
 
-The lesser devils include numerous strains of fiends, including imps, chain devils, spined devils, bearded devils, barbed devils, and bone devils.
+#### Lemuren
 
-#### Lemures
+Lemuren sind die niederste Form von Dämonen. Sie sind verdrehte und gequälte Seelen von bösen und korrumpierten Sterblichen. Eine Lemure, die in den Neun Höllen getötet wird, wird nur dann dauerhaft zerstört, wenn sie mit einer gesegneten Waffe getötet oder wenn ihr formloser Leichnam mit Weihwasser besprenkelt wird, ehe er zum Leben erwachen kann. 
 
-The lowest form of devil, lemures are the twisted and tormented souls of evil and corrupted mortals. A lemure killed in the Nine Hells is only permanently destroyed if it is killed with a blessed weapon or if its shapeless corpse is splashed with holy water before it can return to life.
+#### Beförderung und Degradierung
 
-#### Promotion and Demotion
+ Wenn die Seele eines bösen Sterblichen in die Neun Höllen sinkt, nimmt sie die körperliche Gestalt einer elenden Lemure an. Erzteufel und hohe Teufel haben die Macht, Lemuren zu niederen Teufeln zu befördern. Erzteufel können niedere Teufel zu hohen Teufeln befördern, und Asmodeus allein kann einen hohen Teufel zum Status eines Erzteufels erheben. Diese teuflische Beförderung geht mit einer kurzen, qualvollen Verwandlung einher, wobei die Erinnerungen des Teufels vollständig von einer Form auf die andere übergehen. 
 
-When the soul of an evil mortal sinks into the Nine Hells, it takes on the physical form of a wretched lemure. Archdevils and greater devils have the power to promote lemures to lesser devils. Archdevils can promote lesser devils to greater devils, and Asmodeus alone can promote a greater devil to archdevil status. This diabolic promotion invokes a brief, painful transformation, with the devil's memories passing intact from one form to the next.
+Beförderungen auf den unteren Ebenen werden normalerweise nach Bedarf durchgeführt, beispielsweise wenn ein Höllenschlundteufel Lemuren in Teufelchen verwandelt, um unsichtbare Spione zu erhalten, die seinem Befehl folgen. Beförderungen auf den höheren Ebenen sind normalerweise eine Belohnung für Leistungen. So kann ein Knochenteufel, der sich in der Schlacht auszeichnet, von dem Erzteufel, dem er dient, in einen Hornteufel verwandelt werden. Ein Teufel wird selten mehr als einen Schritt auf einmal in der Hierarchie der höllischen Formen befördert. 
 
-Low-level promotions are typically based on need, such as when a pit fiend transforms lemures into imps to gain invisible spies under its command. High-level promotions are almost always based on merit, such as when a bone devil that distinguishes itself in battle is transformed into a horned devil by the archdevil it serves. A devil is seldom promoted more than one step at a time in the hierarchy of infernal forms.
+Degradierungen sind die häufigste Strafe für Versagen oder Ungehorsam unter den Teufeln. Erzteufel oder hohe Teufel können niedere Teufel in eine Lemure verwandeln, wodurch sie alle Erinnerungen an ihre frühere Existenz verliert. Ein Erzteufel kann einen hohen Teufel zum Status eines niederen Teufels degradieren, doch der degradierte Teufel bewahrt seine Erinnerungen - und könnte auf Rache aus sein, wenn die Schwere der Degradierung exzessiv ist. 
 
-Demotion is the customary punishment for failure or disobedience among the devils. Archdevils or greater devils can demote a lesser devil to a lemure, which loses all memory of its prior existence. An archdevil can demote a greater devil to lesser devil status, but the demoted devil retains its memories-and might seek vengeance if the severity of the demotion is excessive.
+Kein Teufel kann einen anderen Teufel befördern oder degradieren, der ihm nicht die Lehnstreue geschworen hat, sodass rivalisierende Erzteufel nicht die mächtigsten Diener ihrer Feinde degradieren können. Da alle Teufel Asmodeus Treue geschworen haben, kann er jeden anderen Teufel degradieren und in jede höllische Gestalt verwandeln, die er möchte. 
 
-No devil can promote or demote another devil that has not sworn fealty to it, preventing rival archdevils from demoting each other's most powerful servants. Since all devils swear fealty to Asmodeus, he can freely demote any other devil, transforming it into whatever infernal form he desires.
+**Höllische Hierarchie**
 
-**Infernal Hierarchy**
-
-| Rank | Devil(s) |
-|------|----------|
-| 1. | lemure |
-| 2. (Lesser devils) | imp |
-| 3. | spined devil |
-| 4. | bearded devil |
-| 5. | barbed devil |
-| 6. | chain devil |
-| 7. | bone devil |
-| 8. (Greater devils) | horned devil |
-| 9. | erinyes |
-| 10. | ice devil |
-| 11. | pit fiend |
-| 12. (Archdevils) | duke or duchess |
-| 13. | archduke or archduchess |
+| Rang           | Teufel                     |
+| -------------- | -------------------------- |
+| 1.             | Lemuren                    |
+| Niedere Teufel |                            |
+| 2.             | Teufelchen                 |
+| 3.             | Stachelteufel              |
+| 4.             | Bartteufel                 |
+| 5.             | Klingenteufel              |
+| 6.             | Kettenteufel               |
+| 7.             | Knochenteufel              |
+| Hohe Teufel    |                            |
+| 8.             | Hornteufel                 |
+| 9.             | Erinnyen                   |
+| 10.            | Eisteufel                  |
+| 11.            | Höllenschlundteufel        |
+| Erzteufel      |                            |
+| 12.            | Herzog oder Herzogin       |
+| 13.            | Erzherzog oder Erzherzogin |
+|                |                            |
 ^infernal-hierarchy
 
-#### The Nine Hells
+#### Die Neun Höllen
 
-The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
+Die Neun Höllen sind eine einzelne Ebene, die aus neun einzelnen Schichten besteht (siehe die Tabelle Schichten und Fürsten der Neun Höllen). Die ersten acht Schichten werden alle von Erzteufeln regiert, die dem größten Erzteufel von allen unterstellt sind: Asmodeus, dem Erzherzog von Nessus, der neunten Schicht. 
 
-**Layers and Lords of the Nine Hells Layer**
+Um die tiefsten Schichten der Neun Höllen zu erreichen, muss man in Reihenfolge durch die acht obersten Schichten reisen. Der schnellste Weg ist hierbei der Fluss Styx, der immer tiefer herabfällt, während er von einer Schicht zur nächsten strömt. Nur die mutigsten Abenteuer können den Qualen und Schrecken dieser Reise widerstehen. 
 
-| Layer | Layer Name | Archduke or Archduchess | Previous Rulers | Primary Inhabitants |
+**Schichten und Fürsten der Neun Höllen**
+
+| Schicht | Name der Schicht | Erzherzog oder Erzherzogin | Vorherige Herrscher| Hauptbewohner |
 |-------|------------|-------------------------|-----------------|---------------------|
 | 1 | Avernus | Zariel | Bel, Tiamat | Erinyes, imps, spined devils |
 | 2 | Dis | Dispater | — | Bearded devils, erinyes, imps, spined devils |
 | 3 | Minauros | Mammon | — | Bearded devils, chain devils, imps, spined devils |
-| 4 | Phlegethos | Belial and Fierna | — | Barbed devils, bone devils, imps, spined devils |
+| 4 | Phlegethos | Belial und Fierna | — | Barbed devils, bone devils, imps, spined devils |
 | 5 | Stygia | Levistus | Geryon | Bone devils, erinyes, ice devils, imps |
 | 6 | Malbolge | Glasya | Malagard, Moloch | Barbed devils, bone devils, horned devils, imps |
 | 7 | Maladomini | Baalzebul | — | Barbed devils, bone devils, horned devils, imps |
@@ -121,20 +125,20 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!note] Devil True Names and Talismans
+> [!note] Wahre Namen von Teufeln und Talismane
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Auch wenn Teufel allgemein bekannte Namen haben, so hat jeder von ihnen, der über der Lemure steht, auch einen einzigartigen Namen, den er geheim hält. Ein Teufel kann gezwungen werden, seinen wahren Namen zu verraten, wenn er bezaubert wird, und es soll uralte Schriftrollen geben, auf denen die wahren Namen bestimmter Teufel verzeichnet sind. 
 > 
-> A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
+> Ein Sterblicher, der den wahren Namen eines Teufels in Erfahrung bringt, kann mächtige Beschwörungsmagie nutzen, um den Teufel aus den Neun Höllen zu rufen und ihn in den Dienst zu binden. Die Bindung kann auch mithilfe eines Teufelstalismans durchgeführt werden. In jedes dieser uralten Relikte ist der wahre Name des Teufels graviert, den es kontrolliert, und jeder Talisman wurde im Blut eines würdigen sterblichen Opfers gebadet - normalerweise eine Person, die der Erschaffer liebte - als sie hergestellt wurden. 
 > 
-> However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
+> Wie auch immer er beschworen wurde: Wenn ein Teufel auf die Materielle Ebene geholt wird, hasst er es normalerweise, in den Dienst gezwungen zu werden. Allerdings nutzt der Teufel jede Gelegenheit, den Beschwörer zu korrumpieren, sodass seine Seele in den Neun Höllen endet. Nur Teufelchen sind wirklich damit zufrieden, beschworen zu werden, und sie erklären sich schnell bereit, als Vertrauter zu dienen, doch tun sie selbst dann immer noch ihr Möglichstes, um jene zu verderben, die sie beschworen haben. 
 ^devil-true-names-and-talismans
 
-> [!note] Variant: Devil Summoning
+> [!note] Variante: Teufelsbeschwörung
 > 
-> Some devils can have an action option that allows them to summon other devils.
+> Einige Teufel haben eine Aktionsoption, die es ihnen erlaubt, andere Teufel zu beschwören. 
 > 
-> **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
+> **Teufel beschwören (1 /Tag).** Der Teufel entscheidet, was erbeschwören will, und führt eine magische Beschwörung durch. 
 > 
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
@@ -144,67 +148,46 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
 > - A pit fiend summons `2d4` bearded devils, `1d4` barbed devils, or one erinyes with no chance of failure.  
 > 
-> A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+> Ein beschworener Teufel erscheint in einem nicht besetzten Bereich innerhalb von 18 m um seinen Beschwörer, dient als Verbündeter des Beschwörers und kann selbst keine anderen Dämonen beschwören. Er bleibt für 1 Minute, bis sein Beschwörer getötet worden ist oder bis der Beschwörer ihn als Bonusaktion fort schickt. 
 ^variant-devil-summoning
 
-```statblock
-"name": "Erinyes"
-"size": "Medium"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor.md)"
-"hp": !!int "153"
-"hit_dice": "18d8 + 72"
-"modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "16"
-  - !!int "18"
-  - !!int "14"
-  - !!int "14"
-  - !!int "18"
-"speed": "30 ft., fly 60 ft."
-"saves":
-  - "dexterity": !!int "7"
-  - "constitution": !!int "8"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "8"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 12"
-"languages": "Infernal, telepathy 120 ft."
-"cr": "12"
-"traits":
-  - "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison\
-      \ damage on a hit (included in the attacks)."
-    "name": "Hellish Weapons"
-  - "desc": "The erinyes has advantage on saving throws against spells and other magical\
-      \ effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The erinyes makes three attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
-      \ plus 13 (3d8) poison damage."
-    "name": "Longsword"
-  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
-      \ The poison lasts until it is removed by the [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration.md)\
-      \ spell or similar magic."
-    "name": "Longbow"
-"reactions":
-  - "desc": "The erinyes adds 4 to its AC against one melee attack that would hit\
-      \ it. To do so, the erinyes must see the attacker and be wielding a melee weapon."
-    "name": "Parry"
-"source":
-  - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/erinyes.webp"
-```
+> [!statblock] Erinyes
+> ![[token/erinyes.webp|right|100]]
+> *Mittelgroßer Unhold (Teufel), Rechtschaffen Böse*
+> 
+> - **Rüstungsklasse** 18 ([[Ritterrüstung-phb|Ritterrüstung]])
+> - **Trefferpunkte** 153 (`18d8 + 72`)
+> - **Bewegungsrate** 9 Meter, fliegen 18 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
+> 
+> - **Rettungswürfe** GES +7, KON +8, WEI +6, CHA +8
+> - **Fertigkeiten** ⏤
+> - **Sinne** [[Wahrer Blick]] 36 Meter, passive Wahrnehmung 12
+> - **Schadensresistenzen** Kälte; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, die nicht von versilberten Waffen zugefügt werden. 
+> - **Schadensimmunitäten** Feuer, Gift
+> - **Zustandsimmunitäten** [[Vergiftet]] <br><br>
+> - **Sprachen** Infernalisch, Telepathie 36 Meter
+> - **Herausforderungsgrad** 12 (8.400 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Höllische Waffen.*** Die Waffen der Erinnyen sind magisch und fügen bei einem Treffer zusätzliche 13 (3d8) Giftschaden zu (ist in den Angriff bereits eingerechnet). 
+> 
+> ***Magieresistenz.*** Die Erinnye hat einen Vorteil auf Rettungswürfe gegen Zauber und andere magische Effekte. 
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Die Erinnye führt drei Angriffe aus.
+> 
+> ***Langschwert.*** *Nahkampf-Waffenangriff:* +8 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 8 (`1d8 + 4`) Hiebschaden, oder 9 (`1d10 + 4`) Hiebschaden, wenn die Waffe mit beiden Händen geführt wird, plus 13 (`3d8`) Giftschaden.
+> 
+> ***Langbogen.*** *Fernkampf-Waffenangriff:* +7 zum Treffen, Reichweite 45/180 Meter, ein Ziel. *Treffer:* 7 (`1d8 + 3`) Stichschaden plus 13 (`3d8`) Giftschaden, und das Ziel muss einen Konstitutionsrettungswurf gegen SG 14 ablegen, um nicht den Zustand vergiftet zu erleiden. Das Gift hält an, bis es durch den Zauber Schwache Genesung oder ähnliche Magie geheilt wird. 
+> 
+> ## Reaktionen
+> 
+> ***Parade.*** Die Erinnye addiert 4 auf ihre RK gegen einen Nahkampfangriff, der sie treffen würde. Dazu muss die Erynnie den Angreifer sehen und eine Nahkampfwaffe führen. 
 ^statblock

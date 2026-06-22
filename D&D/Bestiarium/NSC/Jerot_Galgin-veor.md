@@ -25,13 +25,13 @@ aliases:
 > ![[jerot-galgin-veor.webp|right|100]]
 > *Mittelgroßer Humanoid, jede Gesinnung*
 > 
-> - **Rüstungsklasse** 16
+> - **Rüstungsklasse** 12 (15 mit [[Magierrüstung-phb|Magierrüstung]]
 > - **Trefferpunkte**  110 (`20d8 + 20`)
 > - **Bewegungsrate** 9 Meter
 > 
 > |STR|GES|KON|INT|WEI|CHA|
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | 9 (-1)|14 (+-)|12 (+1)|17 (+3-)|12 (+1)|11 (+0)|
+> | 9 (-1)|14 (+2-)|12 (+1)|17 (+3-)|12 (+1)|11 (+0)|
 > 
 > - **Rettungswürfe** INT 7, WEI 5
 > - **Fertigkeiten** Arkane Kunde +7, Geschichte +7
@@ -56,9 +56,9 @@ aliases:
 > 
 > ## Bonusaktionen
 > 
-> ***Untote beschwören (1/Tag):*** Jerot verwendet Magie, um fünf [[Skelett-mm|Skelette]] oder [[Zombie-mm|Zombies]] zu beschwören. Die beschworenen Kreaturen erscheinen in einem freien Bereich innerhalb von 18 Metern von Jerot und gehorchen seinen Befehlen. Ihre Züge geschehen direkt nach dem Jerots. Jede Kreatur bleibt eine Stunde lang bestehen, bis sie oder der Nekromant stirbt, oder bis der Nekromant sie als Bonusaktion entlässt. 
+> ***Untote beschwören (1/Tag):*** Jerot verwendet Magie, um fünf [[Skelett-mm|Skelette]] oder [[Zombie-mm|Zombies]] zu beschwören. Die beschworenen Kreaturen erscheinen in einem freien Bereich innerhalb von 18 Metern von Jerot und gehorchen seinen Befehlen. Ihre Züge geschehen direkt nach dem Jerots. Jede Kreatur bleibt eine Stunde lang bestehen, bis sie oder Jerot stirbt, oder bis Jerot sie als Bonusaktion entlässt. 
 > 
 > ## Reaktionen 
 > 
-> ***Grausame Ernte:*** Wenn Jerot eine Kreatur mit nekrotischem Schaden tötet, erhält der Nekromant 9 (`2d8`) Trefferpunkte zurück.
+> ***Grausame Ernte:*** Wenn Jerot eine Kreatur mit nekrotischem Schaden tötet, erhält Jerot 9 (`2d8`) Trefferpunkte zurück.
 ^statblock
