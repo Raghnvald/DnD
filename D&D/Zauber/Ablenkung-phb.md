@@ -6,7 +6,7 @@ Reichweite: selbst
 Komponenten: G
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Ablenkung
 classes:
   - Bard (Magical Secrets)

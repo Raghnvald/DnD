@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: G, M
 Wirkungsdauer: 1 Minute
 Angriff: INT
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Einfache Illusion
 classes:
   - Bard (Magical Secrets)

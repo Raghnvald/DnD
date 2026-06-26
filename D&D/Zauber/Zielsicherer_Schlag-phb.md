@@ -4,9 +4,9 @@ Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: G
-Wirkungsdauer: K, <1 Runde
+Wirkungsdauer: Konzentration, bis zu 1 Runde
 Angriff: nichts
-Schaden: Voraussicht
+Schaden: /
 linter-yaml-title-alias: Zielsicherer Schlag
 classes:
   - Bard (Magical Secrets)

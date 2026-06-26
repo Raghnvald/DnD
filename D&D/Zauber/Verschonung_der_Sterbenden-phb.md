@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Verschonung der Sterbenden
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
 Angriff: 
 Schaden: 
 linter-yaml-title-alias: Verschonung der Sterbenden

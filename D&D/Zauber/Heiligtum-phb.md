@@ -2,11 +2,11 @@
 Bezeichnung: Heiligtum
 Zaubergrad: 1
 Zeitaufwand: 1 Bonusaktion
-Reichweite: 9 m
+Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 1 Minute
-Angriff: 
-Schaden: 
+Angriff:
+Schaden:
 linter-yaml-title-alias: Heiligtum
 classes:
   - Bard (Magical Secrets)

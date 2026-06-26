@@ -8,7 +8,7 @@ HG: 6
 Habitat:
   - /
 image: token/umberto-noblin-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Umberto Noblin
 tags:
   - Monster/Größe/Mittelgroß

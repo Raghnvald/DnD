@@ -3,9 +3,9 @@ Bezeichnung: Magie bannen
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
 Komponenten: V, G
-Wirkungsdauer: unmittelbar
+Wirkungsdauer: Unmittelbar
 Angriff: n/a
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Magie bannen
 tags:
   - Klasse/Artifizient

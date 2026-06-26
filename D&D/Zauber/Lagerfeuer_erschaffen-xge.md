@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Create Bonfire
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Metwr
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff:
 Schaden:
 linter-yaml-title-alias: Create Bonfire

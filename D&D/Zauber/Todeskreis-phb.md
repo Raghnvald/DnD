@@ -2,7 +2,7 @@
 Bezeichnung: Todeskreis
 Zaubergrad: 6
 Zeitaufwand: 1 Aktion
-Reichweite: 45 m
+Reichweite: 45 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: KON

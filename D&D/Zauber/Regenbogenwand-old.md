@@ -5,7 +5,7 @@ Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: 10 Minuten
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Regenbogenwand
 tags:
   - Klasse/Magier

@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Blade Ward
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G
+Wirkungsdauer: 1 Runde
 Angriff:
 Schaden:
 linter-yaml-title-alias: Blade Ward

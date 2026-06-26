@@ -8,7 +8,7 @@ HG: 19
 Habitat:
   - /
 image: token/Tasha-the-witch-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Tasha die Hexe
 tags:
   - Monster/Größe/Mittelgroß
@@ -41,11 +41,11 @@ Als Zybilna von Alustriel Silberhand gerufen wurde, um gegen Vecna zu kämpfen, 
 > | 10 (+0)|18 (+4)|17 (+3)|23 (+6)|12 (+1)|22 (+6)|
 > 
 > - **Rettungswürfe** INT +12, WEI +7, CHA +12
-> - **Fertigkeiten** Arkane Kunde +18, Geschichte +12, Überzeugen +12
-> - **Sinne** passive Wahrnehmung 11
+> - **Fertigkeiten** [[Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]] +18, [[Fertigkeiten-phb#Geschichte|Geschichte]] +12, [[Fertigkeiten-phb#Überzeugen|Überzeugen]] +12
 > - **Schadensresistenzen** -
 > - **Schadensimmunitäten** -
-> - **Zustandsimmunitäten** Bezaubert, Verängstigt <br><br>
+> - **Zustandsimmunitäten** [[Zustände-phb#Bezaubert|Bezaubert]], [[Zustände-phb#Verängstigt|Verängstigt]]
+> - **Sinne** passive Wahrnehmung 11
 > - **Sprachen** Abyssisch, Celestisch, Drakonisch, Elfisch, Gemeinsprache, Infernalisch, Sylvanisch
 > - **Herausforderungsgrad** 19 (22.000 EP)
 > - **Übungsbonus** +6
@@ -66,11 +66,11 @@ Als Zybilna von Alustriel Silberhand gerufen wurde, um gegen Vecna zu kämpfen, 
 > 
 > ***Psychische Peitsche:*** Tasha schlägt psychisch auf eine Kreatur im Abstand von bis zu 27 Metern von sich ein, die sie sehen kann. Das Ziel muss einen `SG-20-lntelligenz-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet das Ziel 21 (`6d6`) psychischen Schaden und ist bis zum Beginn von Tashas nächstem Zug betäubt. Bei einem erfolgreichen Rettungswurf erleidet das Ziel nur halb so viel Schaden. 
 > 
->  ***Zauberwirken:*** Tasha wirkt einen der folgenden Zauber und verwendet Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SG 22, +14 auf Treffer mit Zauberangriffen): 
+>  ***Zauberwirken:*** Tasha wirkt einen der folgenden Zauber und verwendet Intelligenz als Attribut zum Zauberwirken (`Zauberrettungswurf-SG 22`, +14 auf Treffer mit Zauberangriffen): 
 >
-> **Beliebig oft:** Botschaft, Licht, Magie bannen, Magie entdecken, Magierhand, Selbstverkleidung, Taschenspielerei, Tashas fürchterlicher Lachanfall  <br>
-> **jeweils 2/Tag:** Verwandlung <br>
-> **jeweils 1/Tag:** Irrgarten, Telekinese
+> **Beliebig oft:** [[Botschaft-phb|Botschaft]], [[Licht-phb|Licht]], [[Magie_bannen-phb|Magie bannen]], [[Magie_entdecken-phb|Magie entdecken]], [[Magierhand-phb|Magierhand]], [[Selbstverkleidung-phb|Selbstverkleidung]], [[Taschenspielerei-phb|Taschenspielerei]], [[Tashas_Fürchterlicher_Lachanfall-phb|Tasha's Fürchterlicher Lachanfall]]
+> **jeweils 2/Tag:** [[Verwandlung-phb|Verwandlung]]
+> **jeweils 1/Tag:** [[Irrgarten-phb|Irrgarten]], [[Telekinese-phb|Telekinese]]
 > 
 > ## Bonusaktionen
 > 

@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: 1 Stunde
 Angriff: WEI
-Schaden: Bezaubern
+Schaden: /
 linter-yaml-title-alias: Monster bezaubern
 tags:
   - Klasse/Barde

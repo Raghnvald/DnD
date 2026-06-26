@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hertilod
 Image: token/hertilod-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Hertilod
 tags:
   - Monster/Größe/Riesig
@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Hertilod
+Kategorie: Monstrosität
+Größe: Riesig
+HG: "17"
+Habitat:
+  - /
+IMAGE:
 ---
 # Hertilod
 *Quelle: Vecna: Vorabend derVerdammnis S. 214*  

@@ -5,7 +5,7 @@ Reichweite: 36 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: WEI
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Massen-Verwandlung
 tags:
   - Klasse/Barde

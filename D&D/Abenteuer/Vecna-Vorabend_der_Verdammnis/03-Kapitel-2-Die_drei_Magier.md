@@ -104,7 +104,7 @@ Die Merkmale von Alustriels Heiligtum werden in den folgenden Abschnitten beschr
 
 #### Decken
 
-Die Decken im Erdgeschoss des Heiligtums sind sechs Meter hoch. Die Decken im oberen Stockwerk sind drei Meterhoch.
+Die Decken im Erdgeschoss des Heiligtums sind sechs Meter hoch. Die Decken im oberen Stockwerk sind drei Meter hoch.
 
 #### Türen
 
@@ -411,7 +411,7 @@ Die folgenden Orte sind auf Karte 2.2 dargestellt.
 
 > [!readaloud] 
 > 
-> In diesem großen Vorraum gammeln die Überreste schimmliger Karren und Fässer vor sich hin. Humanoide Skelettreste, rostige Schwerter und verbeulte Rüstungen liegen verstreut herum. Neben den Überresten an der Nordwand leuchtet irgendwas Glitzerndes. Die Doppeltüren in den Wänden im Osten, im Nordosten und im Südosten sind zu verrostet, um sich noch öffnen zu lassen. In der Südwestwand befindet sich eine Öff'}l'ng zu einer halbrunden Kammer, die einen Schrein enthält.
+> In diesem großen Vorraum gammeln die Überreste schimmliger Karren und Fässer vor sich hin. Humanoide Skelettreste, rostige Schwerter und verbeulte Rüstungen liegen verstreut herum. Neben den Überresten an der Nordwand leuchtet irgendwas Glitzerndes. Die Doppeltüren in den Wänden im Osten, im Nordosten und im Südosten sind zu verrostet, um sich noch öffnen zu lassen. In der Südwestwand befindet sich eine Öffnung zu einer halbrunden Kammer, die einen Schrein enthält.
 ^105
 
 Die Kultisten haben in diesem Vorraum eine falsche Front geschaffen, um ungebetene Gäste davon zu überzeugen, dass diese Höhle ungenutzt ist. Die Überreste und die rostige Ausrüstung gehören zu fünf längst toten Abenteurern. Die Charaktere können sie als zwei Zwerge, einen Elfen, einen Gnom und einen Tiefling identifizieren.

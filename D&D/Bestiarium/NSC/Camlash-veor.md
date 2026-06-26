@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Camlash
+Kategorie: Unhold (Dämon)
+Größe: Riesig
+HG: "19"
+Habitat:
+  - /
+IMAGE:
 ---
 # [Camlash](3-Mechanics\CLI\bestiary\npc/camlash-veor.md)
 *Source: Vecna: Eve of Ruin p. 181*  

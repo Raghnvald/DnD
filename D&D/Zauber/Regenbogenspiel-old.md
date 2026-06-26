@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Regenbogenspiel
 Zeitaufwand: 1 Aktion
-Reichweite: selbst (Kegel von 18 m)
+Reichweite: selbst (Kegel von 18,0m)
 Komponenten: V, G
-Wirkungsdauer: unmittelbar
+Wirkungsdauer: Unmittelbar
 Angriff: GES
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Regenbogenspiel
 tags:
   - Klasse/Magier

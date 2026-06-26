@@ -5,7 +5,7 @@ Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
-Schaden: Blind
+Schaden: /
 linter-yaml-title-alias: Feuerwerk
 tags:
   - Klasse/Artifizient

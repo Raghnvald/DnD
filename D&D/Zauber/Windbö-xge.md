@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: STR
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Windbö
 classes:
   - Bard (College of Lore)

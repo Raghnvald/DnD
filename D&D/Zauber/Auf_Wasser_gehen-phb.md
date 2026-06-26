@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 linter-yaml-title-alias: Auf Wasser gehen
 classes:
   - Bard (Magical Secrets)

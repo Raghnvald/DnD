@@ -5,7 +5,7 @@ Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 linter-yaml-title-alias: Rarys Telepathisches Band
 tags:
   - Klasse/Magier

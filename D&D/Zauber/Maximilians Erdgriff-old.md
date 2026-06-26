@@ -3,7 +3,7 @@ Bezeichnung: Maximilians Erdgriff
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V, G, M
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: STR
 Schaden: 2d6 Wucht
 linter-yaml-title-alias: Maximilians Erdgriff

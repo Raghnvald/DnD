@@ -6,7 +6,7 @@ Reichweite: 18 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 10 Tage
 Angriff: WEI
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Antipathie/Sympathie
 classes:
   - Bard (Magical Secrets)

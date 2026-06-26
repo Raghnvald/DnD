@@ -5,7 +5,7 @@ Reichweite: selbst
 Komponenten: V
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Kreuzfahrermantel
 tags:
   - Klasse/Kleriker

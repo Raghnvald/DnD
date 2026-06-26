@@ -716,95 +716,93 @@ aliases:
 <thead>
 <tr><th colspan='4'>Wundersame Gegenstände</th></tr>
 </thead><tbody>
-<tr><td><a href='Adlerpfeife-tftyp.md' class='internal-link'>Adlerpfeife</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Allzweckwerkzeug-2-tce.md' class='internal-link'>Allzweckwerkzeug +2</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Archiv_der_Astromantik-tce.md' class='internal-link'>Archiv_der_Astromantik</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Arkanes_Grimoire-2-tce.md' class='internal-link'>Arkanes_Grimoire +2</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Astrale_Scherbe-tce.md' class='internal-link'>Astrale_Scherbe</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Atlas_der_endlosen_Horizonte-tce.md' class='internal-link'>Atlas_der_endlosen_Horizonte</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Augenklappe_des_Schurken-wdh.md' class='internal-link'>Augenklappe_des_Schurken</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Bardeninstrument-Canaith-Mandoline-dmg.md' class='internal-link'>Bardeninstrument-Canaith-Mandoline</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Bardeninstrument-Cli-Leier-dmg.md' class='internal-link'>Bardeninstrument-Cli-Leier</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Betrügerisches_Manuskript-tce.md' class='internal-link'>Betrügerisches_Manuskript</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Bohnenbeutel-dmg.md' class='internal-link'>Bohnenbeutel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Daerns_flotte_Festung-dmg.md' class='internal-link'>Daerns_flotte_Festung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Dimensionsfesseln-dmg.md' class='internal-link'>Dimensionsfesseln</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Dodekaeder_des_Verderbens-wdmm.md' class='internal-link'>Dodekaeder des Verderbens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Donnernde_Abhandlung-tce.md' class='internal-link'>Donnernde_Abhandlung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Drachenberührter_Fokus-Erwachend-ftd.md' class='internal-link'>Drachenberührter_Fokus-Erwachend</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Drachengefäss-Erwachend-ftd.md' class='internal-link'>Drachengefäss-Erwachend</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Edelstein_des_Sehens-dmg.md' class='internal-link'>Edelstein_des_Sehens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Eisenbänder_von_Bilarro-dmg.md' class='internal-link'>Eisenbänder_von_Bilarro</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Faltboot-dmg.md' class='internal-link'>Faltboot</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Feder_der_Diatryma-Beschwörung-wdh.md' class='internal-link'>Feder_der_Diatryma-Beschwörung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Fesselseil-dmg.md' class='internal-link'>Fesselseil</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Feuerschale_der_Feuerelementar-Herrschaft-dmg.md' class='internal-link'>Feuerschale_der_Feuerelementar-Herrschaft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Figur_der_wundersamen_Kraft-Bronze-Greif-dmg.md' class='internal-link'>Figur_der_wundersamen_Kraft-Bronze-Greif</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Figur_der_wundersamen_Kraft-Ebenholz-Fliege-dmg.md' class='internal-link'>Figur_der_wundersamen_Kraft-Ebenholz-Fliege</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Figur_der_wundersamen_Kraft-Elfenbein-Ziegen-dmg.md' class='internal-link'>Figur_der_wundersamen_Kraft-Elfenbein-Ziegen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Figur_der_wundersamen_Kraft-Goldene_Löwen-dmg.md' class='internal-link'>Figur_der_wundersamen_Kraft-Goldene_Löwen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Figur_der_wundersamen_Kraft-Marmor-Elefant-dmg.md' class='internal-link'>Figur_der_wundersamen_Kraft-Marmor-Elefant</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Figur_der_wundersamen_Kraft-Onyx-Hund-dmg.md' class='internal-link'>Figur_der_wundersamen_Kraft-Onyx-Hund</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Figur_der_wundersamen_Kraft-Serpentin-Eule-dmg.md' class='internal-link'>Figur_der_wundersamen_Kraft-Serpentin-Eule</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Adlerpfeife-tftyp.md' class='internal-link'>Adlerpfeife</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Allzweckwerkzeug-2-tce.md' class='internal-link'>Allzweckwerkzeug +2</a></td><td align="right">/</td><td>ja</td><td>Artifizient</td></tr>
+<tr><td><a href='Archiv_der_Astromantik-tce.md' class='internal-link'>Archiv der Astromantik</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Arkanes_Grimoire-2-tce.md' class='internal-link'>Arkanes Grimoire +2</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Astrale_Scherbe-tce.md' class='internal-link'>Astrale Scherbe</a></td><td align="right">/</td><td>ja</td><td>Zauberer</td></tr>
+<tr><td><a href='Atlas_der_endlosen_Horizonte-tce.md' class='internal-link'>Atlas der endlosen Horizonte</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Augenklappe_des_Schurken-wdh.md' class='internal-link'>Augenklappe des Schurken</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Bardeninstrument-Canaith-Mandoline-dmg.md' class='internal-link'>Bardeninstrument (Canaith-Mandoline)</a></td><td align="right">/</td><td>ja</td>Barde<td></td></tr>
+<tr><td><a href='Bardeninstrument-Cli-Leier-dmg.md' class='internal-link'>Bardeninstrument (Cli-Leier)</a></td><td align="right">/</td><td>ja</td><td>Barde</td></tr>
+<tr><td><a href='Betrügerisches_Manuskript-tce.md' class='internal-link'>Betrügerisches Manuskript</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Bohnenbeutel-dmg.md' class='internal-link'>Bohnenbeutel</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Daerns_flotte_Festung-dmg.md' class='internal-link'>Daerns flotte Festung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Dimensionsfesseln-dmg.md' class='internal-link'>Dimensionsfesseln</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Dodekaeder_des_Verderbens-wdmm.md' class='internal-link'>Dodekaeder des Verderbens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Donnernde_Abhandlung-tce.md' class='internal-link'>Donnernde Abhandlung</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Drachenberührter_Fokus-Erwachend-ftd.md' class='internal-link'>Drachenberührter Fokus (Erwachend)</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Drachengefäss-Erwachend-ftd.md' class='internal-link'>Drachengefäss (Erwachend)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Edelstein_des_Sehens-dmg.md' class='internal-link'>Edelstein des Sehens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Eisenbänder_von_Bilarro-dmg.md' class='internal-link'>Eisenbänder von Bilarro</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Faltboot-dmg.md' class='internal-link'>Faltboot</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Feder_der_Diatryma-Beschwörung-wdh.md' class='internal-link'>Feder der Diatryma-Beschwörung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Fesselseil-dmg.md' class='internal-link'>Fesselseil</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Feuerschale_der_Feuerelementar-Herrschaft-dmg.md' class='internal-link'>Feuerschale der Feuerelementar-Herrschaft</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Bronze-Greif-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Bronze-Greif)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Ebenholz-Fliege-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Ebenholz-Fliege)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Elfenbein-Ziegen-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Elfenbein-Ziegen)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Goldene_Löwen-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Goldene Löwen)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Marmor-Elefant-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Marmor-Elefant)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Onyx-Hund-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Onyx-Hund)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Figur_der_wundersamen_Kraft-Serpentin-Eule-dmg.md' class='internal-link'>Figur der wundersamen Kraft (Serpentin-Eule)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Gespensterlaterne-toa.md' class='internal-link'>Gespensterlaterne</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Glocke_des_Öffnens-dmg.md' class='internal-link'>Glocke_des_Öffnens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Glockenzweig-tce.md' class='internal-link'>Glockenzweig</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Handbuch_der_Alchemie-tce.md' class='internal-link'>Handbuch_der_Alchemie</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Hewards_Praktischer_Rucksack-dmg.md' class='internal-link'>Hewards_Praktischer_Rucksack</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Horn_der_Sprengung-dmg.md' class='internal-link'>Horn_der_Sprengung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Horn_des_Endlosen_Irrgartens-wdmm.md' class='internal-link'>Berserkeraxt</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Horn_von_Valhalla-Messing-dmg.md' class='internal-link'>Horn_von_Valhalla-Messing</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Horn_von_Valhalla-Silber-dmg.md' class='internal-link'>Horn_von_Valhalla-Silber</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Hufeisen_der_Geschwindigkeit-dmg.md' class='internal-link'>Hufeisen_der_Geschwindigkeit</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Ionenstein-Ernährung-dmg.md' class='internal-link'>Ionenstein-Ernährung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Ionenstein-Reserve-dmg.md' class='internal-link'>Ionenstein-Reserve</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Ionenstein-Schutz-dmg.md' class='internal-link'>Ionenstein-Schutz</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Ionenstein-Wahrnehmung-dmg.md' class='internal-link'>Ionenstein-Wahrnehmung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Kodex_des_Ebenenrufers-tce.md' class='internal-link'>Kodex_des_Ebenenrufers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Kriegshorn_des_Wagemuts-bgg.md' class='internal-link'>Kriegshorn_des_Wagemuts</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Lehrbuch_des_Herzwebers-tce.md' class='internal-link'>Lehrbuch_des_Herzwebers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Leier_des_Bauens-tce.md' class='internal-link'>Leier_des_Bauens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Leuchtrunenpigment-bgg.md' class='internal-link'>Leuchtrunenpigment</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Libram_der_Seelen_und_des_Fleisches-tce.md' class='internal-link'>Libram_der_Seelen_und_des_Fleisches</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Magnetit-tftyp.md' class='internal-link'>Magnetit</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Öl_der_Körperlosigkeit-dmg.md' class='internal-link'>Öl_der_Körperlosigkeit</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Perle_der_Kraft-dmg.md' class='internal-link'>Perle_der_Kraft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Phiole_des_Blutquells-2-tce.md' class='internal-link'>Phiole_des_Blutquells +2</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Prähistorische_Figuren_der_wundersamen_Kraft-Kyanit-Pteranodon-bgg.md' class='internal-link'>Prähistorische_Figuren_der_wundersamen_Kraft-Kyanit-Pteranodon</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Quaals_Feder-dmg.md' class='internal-link'>Quaals_Feder</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Räuchergefäß_des_Gläubigen-tce.md' class='internal-link'>Räuchergefäß_des_Gläubigen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Rauchfass_der_Luftelementar-Herrschaft-dmg.md' class='internal-link'>Rauchfass_der_Luftelementar-Herrschaft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Robe_der_Augen-dmg.md' class='internal-link'>Robe_der_Augen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Robe_des_Sommers-tftyp.md' class='internal-link'>Robe_des_Sommers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schale_der_Wasserelementar-Herrschaft-dmg.md' class='internal-link'>Schale_der_Wasserelementar-Herrschaft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schattenfell-Scherbe-tce.md' class='internal-link'>Schattenfell-Scherbe</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Scherbe_der_elementaren_Essenz-tce.md' class='internal-link'>Scherbe_der_elementaren_Essenz</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Scherbe_der_außerweltlichen_Essenz-tce.md' class='internal-link'>Scherbe_der_außerweltlichen_Essenz</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Scherbe_des_Fernen_Reiches-tce.md' class='internal-link'>Scherbe_des_Fernen_Reiches</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schild_der_Geschossanziehung-dmg.md' class='internal-link'>Schild_der_Geschossanziehung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schild_der_Weitsicht-vgm.md' class='internal-link'>Schild_der_Weitsicht</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schild-2-dmg.md' class='internal-link'>Schild +2</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schriftrolle_des_Schutzes-dmg.md' class='internal-link'>Schriftrolle_des_Schutzes</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schuppenornament-Erwachend-ftd.md' class='internal-link'>Schuppenornament-Erwachend</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Schutzverse-tce.md' class='internal-link'>Schutzverse</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Spiegel_der_Vergangenheit-tftyp.md' class='internal-link'>Spiegel_der_Vergangenheit</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Stab_der_Wurzelhügel-bgg.md' class='internal-link'>Stab_der_Wurzelhügel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Stein_der_Erdelementar-Herrschaft-dmg.md' class='internal-link'>Stein_der_Erdelementar-Herrschaft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Tragbares_Loch-dmg.md' class='internal-link'>Tragbares_Loch</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Trommel_des_Perkussionisten-2-tce.md' class='internal-link'>Trommel_des_Perkussionisten-2</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Würfel_der_Kraft-dmg.md' class='internal-link'>Würfel_der_Kraft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Glocke_des_Öffnens-dmg.md' class='internal-link'>Glocke des Öffnens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Glockenzweig-tce.md' class='internal-link'>Glockenzweig</a></td><td align="right">/</td><td>ja</td><td>Druide, Hexenmeister</td></tr>
+<tr><td><a href='Handbuch_der_Alchemie-tce.md' class='internal-link'>Handbuch der Alchemie</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Hewards_Praktischer_Rucksack-dmg.md' class='internal-link'>Hewards Praktischer Rucksack</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Horn_der_Sprengung-dmg.md' class='internal-link'>Horn der Sprengung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Horn_des_Endlosen_Irrgartens-wdmm.md' class='internal-link'>Horn des Endlosen Irrgartens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Horn_von_Valhalla-Messing-dmg.md' class='internal-link'>Horn von Valhalla (Messing)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Horn_von_Valhalla-Silber-dmg.md' class='internal-link'>Horn von Valhalla (Silber)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Hufeisen_der_Geschwindigkeit-dmg.md' class='internal-link'>Hufeisen der Geschwindigkeit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Ionenstein-Ernährung-dmg.md' class='internal-link'>Ionenstein (Ernährung)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Ionenstein-Reserve-dmg.md' class='internal-link'>Ionenstein (Reserve)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Ionenstein-Schutz-dmg.md' class='internal-link'>Ionenstein (Schutz)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Ionenstein-Wahrnehmung-dmg.md' class='internal-link'>Ionenstein (Wahrnehmung)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Kodex_des_Ebenenrufers-tce.md' class='internal-link'>Kodex des Ebenenrufers</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Kriegshorn_des_Wagemuts-bgg.md' class='internal-link'>Kriegshorn des Wagemuts</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Lehrbuch_des_Herzwebers-tce.md' class='internal-link'>Lehrbuch des Herzwebers</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Leier_des_Bauens-tce.md' class='internal-link'>Leier des Bauens</a></td><td align="right">/</td><td>ja</td><td>Barde</td></tr>
+<tr><td><a href='Leuchtrunenpigment-bgg.md' class='internal-link'>Leuchtrunenpigment</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Libram_der_Seelen_und_des_Fleisches-tce.md' class='internal-link'>Libram der Seelen und des Fleisches</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Öl_der_Körperlosigkeit-dmg.md' class='internal-link'>Öl der Körperlosigkeit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Perle_der_Kraft-dmg.md' class='internal-link'>Perle der Kraft</a></td><td align="right">/</td><td> ein</td><td></td></tr>
+<tr><td><a href='Phiole_des_Blutquells-2-tce.md' class='internal-link'>Phiole des Blutquells +2</a></td><td align="right">/</td><td>ja</td><td>Zauberer</td></tr>
+<tr><td><a href='Prähistorische_Figuren_der_wundersamen_Kraft-Kyanit-Pteranodon-bgg.md' class='internal-link'>Prähistorische Figuren der wundersamen Kraft (Kyanit-Pteranodon)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Quaals_Feder-dmg.md' class='internal-link'>Quaals Feder</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Räuchergefäß_des_Gläubigen-tce.md' class='internal-link'>Räuchergefäß des Gläubigen</a></td><td align="right">/</td><td>ja</td><td>Kleriker, Paladin</td></tr>
+<tr><td><a href='Rauchfass_der_Luftelementar-Herrschaft-dmg.md' class='internal-link'>Rauchfass der Luftelementar-Herrschaft</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Robe_der_Augen-dmg.md' class='internal-link'>Robe der Augen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Robe_des_Sommers-tftyp.md' class='internal-link'>Robe des Sommers</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schale_der_Wasserelementar-Herrschaft-dmg.md' class='internal-link'>Schale der Wasserelementar-Herrschaft</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schattenfell-Scherbe-tce.md' class='internal-link'>Schattenfell-Scherbe</a></td><td align="right">/</td><td>ja</td><td>Zauberer</td></tr>
+<tr><td><a href='Scherbe_der_elementaren_Essenz-tce.md' class='internal-link'>Scherbe der elementaren Essenz</a></td><td align="right">/</td><td>ja</td><td>Zauberer</td></tr>
+<tr><td><a href='Scherbe_der_außerweltlichen_Essenz-tce.md' class='internal-link'>Scherbe der außerweltlichen Essenz</a></td><td align="right">/</td><td>ja</td><td>Zauberer</td></tr>
+<tr><td><a href='Scherbe_des_Fernen_Reiches-tce.md' class='internal-link'>Scherbe des Fernen Reiches</a></td><td align="right">/</td><td>ja</td><td>Zauberer</td></tr>
+<tr><td><a href='Schild_der_Weitsicht-vgm.md' class='internal-link'>Schild der Weitsicht</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schild-2-dmg.md' class='internal-link'>Schild +2</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schriftrolle_des_Schutzes-dmg.md' class='internal-link'>Schriftrolle des Schutzes</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schuppenornament-Erwachend-ftd.md' class='internal-link'>Schuppenornament (Erwachend)</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schutzverse-tce.md' class='internal-link'>Schutzverse</a></td><td align="right">/</td><td>ja</td><td>Magier</td></tr>
+<tr><td><a href='Spiegel_der_Vergangenheit-tftyp.md' class='internal-link'>Spiegel der Vergangenheit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Stab_der_Wurzelhügel-bgg.md' class='internal-link'>Stab der Wurzelhügel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Stein_der_Erdelementar-Herrschaft-dmg.md' class='internal-link'>Stein der Erdelementar-Herrschaft</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Tragbares_Loch-dmg.md' class='internal-link'>Tragbares Loch</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trommel_des_Perkussionisten-2-tce.md' class='internal-link'>Trommel des Perkussionisten +2</a></td><td align="right">/</td><td>ja</td><td>Barde</td></tr>
+<tr><td><a href='Würfel_der_Kraft-dmg.md' class='internal-link'>Würfel der Kraft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 <tr><td><a href='Zauberflügel-dmg.md' class='internal-link'>Zauberflügel</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberschriftrolle-Zaubergrad-4-dmg.md' class='internal-link'>Zauberschriftrolle-Zaubergrad-4</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberschriftrolle-Zaubergrad-5-dmg.md' class='internal-link'>Zauberschriftrolle-Zaubergrad-5</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_der_Angst-dmg.md' class='internal-link'>Zauberstab_der_Angst</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_der_Bindung-dmg.md' class='internal-link'>Zauberstab_der_Bindung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_der_Blitzschläge-dmg.md' class='internal-link'>Zauberstab_der_Blitzschläge</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_der_Feindeslokalisierung-dmg.md' class='internal-link'>Zauberstab_der_Feindeslokalisierung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_der_Feuerbälle-dmg.md' class='internal-link'>Zauberstab_der_Feuerbälle</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_des_Kriegsmagiers-2-dmg.md' class='internal-link'>Zauberstab_des_Kriegsmagiers-2</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_der_Paralyse-dmg.md' class='internal-link'>Zauberstab_der_Paralyse</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Zauberstab_des_Wunders-dmg.md' class='internal-link'>Zauberstab_des_Wunders</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Ziehharmonika_des_Zechers-tce.md' class='internal-link'>BerserZiehharmonika_des_Zecherskeraxt</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberschriftrolle-Zaubergrad-4-dmg.md' class='internal-link'>Zauberschriftrolle (Zaubergrad 4)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zauberschriftrolle-Zaubergrad-5-dmg.md' class='internal-link'>Zauberschriftrolle (Zaubergrad 5)</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zauberstab_der_Angst-dmg.md' class='internal-link'>Zauberstab der Angst</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_der_Bindung-dmg.md' class='internal-link'>Zauberstab der Bindung</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Zauberstab_der_Blitzschläge-dmg.md' class='internal-link'>Zauberstab der Blitzschläge</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Zauberstab_der_Feindeslokalisierung-dmg.md' class='internal-link'>Zauberstab der Feindeslokalisierung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstab_der_Feuerbälle-dmg.md' class='internal-link'>Zauberstab der Feuerbälle</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Zauberstab_des_Kriegsmagiers-2-dmg.md' class='internal-link'>Zauberstab des Kriegsmagiers +2</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Zauberstab_der_Paralyse-dmg.md' class='internal-link'>Zauberstab der Paralyse</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Zauberstab_des_Wunders-dmg.md' class='internal-link'>Zauberstab des Wunders</a></td><td align="right">/</td><td>ja</td><td>Zauberwirker</td></tr>
+<tr><td><a href='Ziehharmonika_des_Zechers-tce.md' class='internal-link'>Ziehharmonika des Zechers</a></td><td align="right">/</td><td>ja</td><td>Barde</td></tr>
 </tbody>
 </tbody></table>
 
@@ -1074,7 +1072,6 @@ Zauberstab_der_Verwandlung-dmg
 <tr><th colspan='4'>Helme</th></tr>
 </thead><tbody>
 <tr><td><a href='Helm_des_perfekten_Potenzials-bgg.md' class='internal-link'>Helm des perfekten Potenzials</a></td><td align="right">/</td><td>ja</td><td></td></tr>
-<tr><td><a href='Krone_der_Lügen-veor.md' class='internal-link'>Krone der Lügen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan='4'>Ringe</th></tr>

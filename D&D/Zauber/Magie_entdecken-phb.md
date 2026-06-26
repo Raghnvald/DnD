@@ -4,7 +4,7 @@ Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V, G
-Wirkungsdauer: K, <10 Minuten
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: nichts
 Schaden:
 linter-yaml-title-alias: Magie entdecken

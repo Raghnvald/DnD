@@ -2,11 +2,11 @@
 Bezeichnung: Arkanes Tor
 Zaubergrad: 6
 Zeitaufwand: 1 Aktion
-Reichweite: 150 m
+Reichweite: 150 Meter
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Arkanes Tor
 classes:
   - Bard (Magical Secrets)

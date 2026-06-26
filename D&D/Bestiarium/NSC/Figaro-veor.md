@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Figaro
+Kategorie: Humanoid (jedes Volk)
+Größe: Mittelgroß
+HG: "6"
+Habitat:
+  - /
+IMAGE:
 ---
 # [Figaro](3-Mechanics\CLI\bestiary\npc/figaro-veor.md)
 *Source: Vecna: Eve of Ruin*  

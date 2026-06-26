@@ -3,9 +3,9 @@ Bezeichnung: Reittier finden
 Zeitaufwand: 10 Minute
 Reichweite: 9 Meter
 Komponenten: V, G
-Wirkungsdauer: unmittelbar
+Wirkungsdauer: Unmittelbar
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Reittier finden
 tags:
   - Klasse/Paladin

@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Inquisitor of the Tome
+status: WIP
 ---
 # [Inquisitor of the Tome](3-Mechanics\CLI\bestiary\humanoid/inquisitor-of-the-tome-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 249*  

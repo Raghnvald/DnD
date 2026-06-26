@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V
 Wirkungsdauer: bis zu 1 Minute
 Angriff: /
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Thaumaturgie
 classes:
   - Bard (Magical Secrets)

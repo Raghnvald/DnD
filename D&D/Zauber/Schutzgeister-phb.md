@@ -2,9 +2,9 @@
 Bezeichnung: Schutzgeister
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
-Reichweite: selbst (Radius 4,5 m)
+Reichweite: selbst (Radius von 4,5m)
 Komponenten: V, G, M
-Wirkungsdauer: K, <10 Min
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: WEI
 Schaden: 3d8
 linter-yaml-title-alias: Schutzgeister

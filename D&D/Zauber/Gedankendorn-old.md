@@ -3,7 +3,7 @@ Bezeichnung: Gedankendorn
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: G
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: KON
 Schaden: 3d8 psychisch
 linter-yaml-title-alias: Gedankendorn

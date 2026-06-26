@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Blazebear
+Kategorie: Monstrosität
+Größe: Groß
+HG: "12"
+Habitat:
+  - /
+IMAGE:
 ---
 # [Blazebear](3-Mechanics\CLI\bestiary\monstrosity/blazebear-veor.md)
 *Source: Vecna: Eve of Ruin p. 210*  

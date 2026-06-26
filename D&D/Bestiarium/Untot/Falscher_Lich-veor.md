@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - False Lich
+Kategorie: Untoter
+Größe: Mittelgroß
+HG: "21"
+Habitat:
+  - /
+IMAGE:
 ---
 # [False Lich](3-Mechanics\CLI\bestiary\undead/false-lich-veor.md)
 *Source: Vecna: Eve of Ruin p. 220*  

@@ -6,7 +6,7 @@ Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: 1 Tag
 Angriff: n/v
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Zutritt verwehren
 classes:
   - Bard (Magical Secrets)

@@ -16,8 +16,8 @@ aliases:
   - Thieves' Tools
 ---
 # Diebeswerkzeug
-*Werkzeug*  
-![](Gegenstände/img/thieves-tools.webp#right)
+*Werkzeug*
+<img src="thieves-tools.webp" align="right" width="150">
 
 - **Kosten**: 25 GM
 - **Gewicht**: 0,5 kg.

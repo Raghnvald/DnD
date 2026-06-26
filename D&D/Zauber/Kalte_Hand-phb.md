@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Chill Touch
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
-Schaden:
+Zeitaufwand: 1 Aktion
+Reichweite: 36 Meter
+Komponenten: V, G
+Wirkungsdauer: 1 Runde
+Angriff: Fern
+Schaden: 1d8 Nekrotisch
 linter-yaml-title-alias: Chill Touch
 classes:
   - Bard (Magical Secrets)

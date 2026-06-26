@@ -2,7 +2,7 @@
 Bezeichnung: Dröhnende Klinge
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Minute
-Reichweite: 1,5 m
+Reichweite: 1,5 Meter
 Komponenten: V, M
 Wirkungsdauer: 1 Runde
 Angriff: Nahkampf

@@ -4,9 +4,9 @@ Zaubergrad: 7
 Zeitaufwand: 1 Stunde
 Reichweite: Berührung
 Komponenten: V, G, M
-Wirkungsdauer: unmittelbar
+Wirkungsdauer: Unmittelbar
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Auferstehung
 classes:
   - Barde (Magische Geheimnisse)

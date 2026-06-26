@@ -12,66 +12,53 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Fernitha
+Kategorie: Unhold (Teufel)
+Größe: Mittelgroß
+HG: "12"
+Habitat:
+  - /
+IMAGE:
 ---
-# [Fernitha](3-Mechanics\CLI\bestiary\npc/fernitha-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# Fernitha
+*Source: Vecna: Eve of Ruin*
 
-```statblock
-"name": "Fernitha (VEoR)"
-"size": "Medium"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"ac_class": "plate armor"
-"hp": !!int "153"
-"hit_dice": "18d8 + 72"
-"modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "16"
-  - !!int "18"
-  - !!int "14"
-  - !!int "14"
-  - !!int "18"
-"speed": "30 ft., fly 60 ft."
-"saves":
-  - "dexterity": !!int "7"
-  - "constitution": !!int "8"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "8"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 12"
-"languages": "Infernal, telepathy 120 ft."
-"cr": "12"
-"traits":
-  - "desc": "Fernitha's weapon attacks are magical and deal an extra 13 (3d8) poison\
-      \ damage on a hit (included in the attacks)."
-    "name": "Hellish Weapons"
-  - "desc": "Fernitha has advantage on saving throws against spells and other magical\
-      \ effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "Fernitha makes three attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
-      \ plus 13 (3d8) poison damage."
-    "name": "Longsword"
-  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts\
-      \ until it is removed by the lesser restoration spell or similar magic."
-    "name": "Longbow"
-"reactions":
-  - "desc": "Fernitha adds 4 to its AC against one melee attack that would hit it.\
-      \ To do so, Fernitha must see the attacker and be wielding a melee weapon."
-    "name": "Parry"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/fernitha-veor.webp"
-```
+> [!statblock] Fernitha
+> ![[token/Fernitha-veor.webp|right|100]]
+> *Mittelgroßer Unhold (Teufel), Rechtschaffen Böse*
+> 
+> - **Rüstungsklasse** 18 ([[Ritterrüstung-phb|Ritterrüstung]])
+> - **Trefferpunkte** 153 (`18d8 + 72`)
+> - **Bewegungsrate** 9 Meter, fliegen 18 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
+> 
+> - **Rettungswürfe** GES +7, KON +8, WEI +6, CHA +8
+> - **Fertigkeiten** ⏤
+> - **Sinne** [[Sinne-phb#Wahre Sicht|Wahre Sicht]] 36 Meter, passive Wahrnehmung 12
+> - **Schadensresistenzen** Kälte; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, die nicht von versilberten Waffen zugefügt werden. 
+> - **Schadensimmunitäten** Feuer, Gift
+> - **Zustandsimmunitäten** [[Zustände-phb#Vergiftet|Vergiftet]]
+> - **Sprachen** Infernalisch, Telepathie 36 Meter
+> - **Herausforderungsgrad** 12 (8.400 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Höllische Waffen.*** Fernithas Waffen sind magisch und fügen bei einem Treffer zusätzliche 13 (3d8) Giftschaden zu (ist in den Angriff bereits eingerechnet). 
+> 
+> ***Magieresistenz.*** Fernitha hat einen Vorteil auf Rettungswürfe gegen Zauber und andere magische Effekte. 
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Fernitha führt drei Angriffe aus.
+> 
+> ***Langschwert.*** *Nahkampf-Waffenangriff:* +8 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 8 (`1d8 + 4`) Hiebschaden, oder 9 (`1d10 + 4`) Hiebschaden, wenn die Waffe mit beiden Händen geführt wird, plus 13 (`3d8`) Giftschaden.
+> 
+> ***Langbogen.*** *Fernkampf-Waffenangriff:* +7 zum Treffen, Reichweite 45/180 Meter, ein Ziel. *Treffer:* 7 (`1d8 + 3`) Stichschaden plus 13 (`3d8`) Giftschaden, und das Ziel muss einen Konstitutionsrettungswurf gegen SG 14 ablegen, um nicht den Zustand vergiftet zu erleiden. Das Gift hält an, bis es durch den Zauber Schwache Genesung oder ähnliche Magie geheilt wird. 
+> 
+> ## Reaktionen
+> 
+> ***Parade.*** Fernitha addiert 4 auf ihre RK gegen einen Nahkampfangriff, der sie treffen würde. Dazu muss Fernitha den Angreifer sehen und eine Nahkampfwaffe führen. 
 ^statblock

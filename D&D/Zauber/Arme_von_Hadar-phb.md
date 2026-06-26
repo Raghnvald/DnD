@@ -2,7 +2,7 @@
 Bezeichnung: Arme von Hadar
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
-Reichweite: selbst (Radius von 3 m)
+Reichweite: selbst (Radius von 3,0m)
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: STR

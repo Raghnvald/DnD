@@ -5,7 +5,7 @@ Reichweite: selbst
 Komponenten: V
 Wirkungsdauer: 1 Stunde
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Redegewandtheit
 tags:
   - Klasse/Barde

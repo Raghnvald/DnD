@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Red Abishai
+status: WIP
 ---
 # [Red Abishai](3-Mechanics\CLI\bestiary\fiend/red-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  

@@ -8,7 +8,7 @@ HG: 9
 Habitat:
   - /
 image: token/jerot-galgin-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Jerot Galgin
 tags:
   - Monster/Größe/Mittelgroß

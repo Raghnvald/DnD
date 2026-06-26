@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Primal Savagery
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
-Schaden:
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: G
+Wirkungsdauer: Unmittelbar
+Angriff: Nah
+Schaden: 1d10 Säure
 linter-yaml-title-alias: Primal Savagery
 classes:
   - Bard (College of Lore)

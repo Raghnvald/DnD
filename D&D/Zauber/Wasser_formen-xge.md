@@ -6,7 +6,7 @@ Reichweite: 9 Meter (Würfel von 1,5m)
 Komponenten: G
 Wirkungsdauer: Unmittelbar oder 1 Stunde
 Angriff: nichts
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Wasser formen
 classes:
   - Bard (College of Lore)

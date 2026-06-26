@@ -6,7 +6,7 @@ Reichweite: 27 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
-Schaden: Blind
+Schaden: /
 linter-yaml-title-alias: Sandwand
 classes:
   - Bard

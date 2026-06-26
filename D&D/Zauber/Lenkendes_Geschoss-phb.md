@@ -2,7 +2,7 @@
 Bezeichnung: Lenkendes Geschoss
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
-Reichweite: 36 m
+Reichweite: 36 Meter
 Komponenten: V, G
 Wirkungsdauer: 1 Runde
 Angriff: Fern

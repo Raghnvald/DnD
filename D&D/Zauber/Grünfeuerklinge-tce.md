@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Grünfeuerklinge
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 1,5 Meter
+Komponenten: V, M
+Wirkungsdauer: Sofort
 Angriff:
-Schaden:
+Schaden: 1d8 Feuer
 linter-yaml-title-alias: Grünfeuerklinge
 classes:
   - Artificer

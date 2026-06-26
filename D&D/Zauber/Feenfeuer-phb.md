@@ -4,9 +4,9 @@ Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: GES
-Schaden: n/v
+Schaden: /
 linter-yaml-title-alias: Feenfeuer
 classes:
   - Bard (Magical Secrets)

@@ -6,7 +6,7 @@ Reichweite: 36 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 1 Runde
 Angriff: nichts
-Schaden: Kommunikation
+Schaden: /
 linter-yaml-title-alias: Botschaft
 classes:
   - Bard (Magical Secrets)

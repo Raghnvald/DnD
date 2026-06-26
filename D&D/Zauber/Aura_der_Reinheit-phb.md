@@ -2,11 +2,11 @@
 Bezeichnung: Aura der Reinheit
 Zaubergrad: 4
 Zeitaufwand: 1 Aktion
-Reichweite: selbst (Radius von 9 m)
+Reichweite: selbst (Radius von 9,0m)
 Komponenten: V
-Wirkungsdauer: K, <10 Minute
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 linter-yaml-title-alias: Aura der Reinheit
 classes:
   - Bard (Magical Secrets)

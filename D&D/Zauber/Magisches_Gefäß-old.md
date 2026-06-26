@@ -5,7 +5,7 @@ Reichweite: selbst
 Komponenten: V, G, M
 Wirkungsdauer: bis der Zauber gebannt wird
 Angriff: n/a
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Magisches Gefäß
 tags:
   - Klasse/Magier

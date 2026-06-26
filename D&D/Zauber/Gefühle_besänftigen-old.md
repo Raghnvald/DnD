@@ -5,7 +5,7 @@ Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: Charisma
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Gefühle besänftigen
 tags:
   - Klasse/Barde

@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Degloth
+Kategorie: Unhold (Dämon)
+Größe: Groß
+HG: "11"
+Habitat:
+  - /
+IMAGE:
 ---
 # [Degloth](3-Mechanics\CLI\bestiary\fiend/degloth-veor.md)
 *Source: Vecna: Eve of Ruin p. 218*  

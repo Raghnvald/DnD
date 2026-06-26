@@ -2,7 +2,7 @@
 Bezeichnung: Waffe des Glaubens
 Zaubergrad: 2
 Zeitaufwand: 1 Bonusaktion
-Reichweite: 18 m
+Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: 1 Minute
 Angriff: /

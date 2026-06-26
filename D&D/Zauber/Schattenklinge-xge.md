@@ -4,7 +4,7 @@ Zaubergrad: 2
 Zeitaufwand: 1 Bonusaktion
 Reichweite: selbst
 Komponenten: V, G
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: Nah
 Schaden: 2d8 psychisch
 linter-yaml-title-alias: Schattenklinge

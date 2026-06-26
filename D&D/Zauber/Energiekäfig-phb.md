@@ -3,10 +3,10 @@ Bezeichnung: Energiekäfig
 Zaubergrad: 7
 Zeitaufwand: 1 Aktion
 Reichweite: 30 Meter
-Komponenten: V, G, M 
+Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Energiekäfig
 classes:
   - Bard (Magical Secrets)

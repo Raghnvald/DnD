@@ -3,9 +3,9 @@ Bezeichnung: Himmelsschreiben
 Zeitaufwand: 1 Aktion
 Reichweite: Sichtweite
 Komponenten: V, G
-Wirkungsdauer: K, <1 Stunde
+Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/v
-Schaden: Kommunikation
+Schaden: /
 linter-yaml-title-alias: Himmelsschreiben
 tags:
   - Klasse/Artifizient

@@ -3,9 +3,9 @@ Bezeichnung: Hexenpfeil
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V, G, M
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 status: completed
 linter-yaml-title-alias: Hexenpfeil
 tags:

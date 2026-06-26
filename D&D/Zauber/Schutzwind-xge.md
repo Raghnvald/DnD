@@ -4,9 +4,9 @@ Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V
-Wirkungsdauer: K, <10 Minuten
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: nichts
-Schaden: Taub
+Schaden: /
 linter-yaml-title-alias: Schutzwind
 classes:
   - Bard

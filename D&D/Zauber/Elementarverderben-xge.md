@@ -6,7 +6,7 @@ Reichweite: 27 Meter
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: KON
-Schaden: variabel
+Schaden: 2d6 variabel
 linter-yaml-title-alias: Elemental Bane
 classes:
   - Artificer

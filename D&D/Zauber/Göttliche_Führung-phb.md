@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Guidance
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff: /
+Schaden: /
 linter-yaml-title-alias: Guidance
 classes:
   - Bard (Magical Secrets)

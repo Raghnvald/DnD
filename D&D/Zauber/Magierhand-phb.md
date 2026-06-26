@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Mage Hand
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G
+Wirkungsdauer: 1 Minute
 Angriff:
 Schaden:
 linter-yaml-title-alias: Mage Hand

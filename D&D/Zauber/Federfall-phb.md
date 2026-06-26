@@ -6,7 +6,7 @@ Reichweite: 18 Meter
 Komponenten: V, M
 Wirkungsdauer: 1 Minute
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 linter-yaml-title-alias: Federfall
 classes:
   - Bard (Magical Secrets)

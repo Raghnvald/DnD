@@ -15,6 +15,13 @@ tags:
 aliases:
   - "Magier: Nekromant"
   - Necromancer Wizard
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: "9"
+Habitat:
+  - Stadt
+  - Wüste
+status: WIP
 ---
 # Magier: Nekromant
 *Quelle: Mordenkainen präsentiert: Monster des Multiversums S. 178*  

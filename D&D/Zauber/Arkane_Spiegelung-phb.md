@@ -6,7 +6,7 @@ Reichweite: Sicht
 Komponenten: V, G
 Wirkungsdauer: 10 Tage
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Arkane Spiegelung
 classes:
   - Bard (Magical Secrets)

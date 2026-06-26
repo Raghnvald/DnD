@@ -6,7 +6,7 @@ Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: nichts
-Schaden: Utility
+Schaden: /
 linter-yaml-title-alias: Ausbessern
 classes:
   - Bard (Magical Secrets)

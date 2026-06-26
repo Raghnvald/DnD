@@ -6,7 +6,7 @@ Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: bis der Zauber gebannt wird
 Angriff: CHA
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Weihen
 classes:
   - Bard (Magical Secrets)

@@ -8,7 +8,7 @@ HG: 26
 Habitat:
   - /
 image: token/vecna-the-archlich-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Vecna der Erzlich
 tags:
   - Monster/Größe/Mittelgroß
@@ -59,11 +59,11 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
 > | 14 (+2)|16 (+3)|18 (+4)|22 (+6)|24 (+7)|16 (+3)|
 > 
 > - **Rettungswürfe** KON +11, INT +14, WEI +15
-> - **Fertigkeiten** Arkane Kunde +22, Geschichte +14, Motiv erkennen +15, Wahrnehmung +15
-> - **Sinne** Wahrer Blick 36m, passive Wahrnehmung 25
+> - **Fertigkeiten** [[Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]] +22, [[Fertigkeiten-phb#Geschichte|Geschichte]] +14, [[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]] +15, [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +15
 > - **Schadensresistenzen** Blitz, Kälte, Nekrotisch
 > - **Schadensimmunitäten** Gift; Hieb, Stich und Wucht durch nichtmagischen Angriffen
-> - **Zustandsimmunitäten** Betäubt, Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet<br><br>
+> - **Zustandsimmunitäten** [[Zustände-phb#Betäubt|Betäubt]], [[Zustände-phb#Bezaubert|Bezaubert]], [[Zustände-phb#Erschöpfung|Erschöpft]], [[Zustände-phb#Gelähmt|Gelähmt]], [[Zustände-phb#Verängstigt|Verängstigt]], [[Zustände-phb#Vergiftet|Vergiftet]]
+> - **Sinne** [[Sinne-phb#Wahre Sicht|Wahre Sicht]] 36m, passive Wahrnehmung 25
 > - **Sprachen** Drakonisch, Elfisch, Gemeinsprache, Infernalisch
 > - **Herausforderungsgrad** 26 (90.000 EP)
 > - **Übungsbonus** +8
@@ -86,11 +86,11 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
 > 
 >  ***Verdorbenes Schicksal:*** Vecna hüllt eine Kreatur im Abstand von bis zu 36 Metern von sich, die er sehen kann, in nekrotische Magie. Das Ziel muss einen `SG-22-Konstitutions-Rettungswurf` ausführen. Scheitert der Wurf, so erleidet es 96 (`8d8+60`) nekrotischen Schaden, anderenfalls die Hälfte. Ein Humanoide, der durch diese Magie getötet wird, erhebt sich zu Beginn von Vecnas nächstem Zug als Zombie und handelt in der lnitiativereihenfolge direkt nach Vecna. Der Zombie steht unter Vecnas Kontrolle.
 >  
->  ***Zauberwirken:*** Vecna wirkt einen der folgenden Zauber. Er benötigt dazu keine Materialkomponenten und verwendet Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SG 22):
+>  ***Zauberwirken:*** Vecna wirkt einen der folgenden Zauber. Er benötigt dazu keine Materialkomponenten und verwendet Intelligenz als Attribut zum Zauberwirken (`Zauberrettungswurf-SG 22`):
 >
-> **Beliebig oft:** Blitz, Fliegen, Magie bannen, Magie entdecken, Magierhand, Taschenspielerei, Tote beleben (als Aktion)  <br>
-> **jeweils 2/Tag:** Ausspähung (als Aktion), Dimensionstür, Unsichtbarkeit<br>
-> **jeweils 1/Tag:** Ebenenwechsel (nur auf sich selbst), Kugel der Unverwundbarkeit, Monster beherrschen
+> **Beliebig oft:** [[Blitz-phb|Blitz]], [[Fliegen-phb|Fliegen]], [[Magie_bannen-phb|Magie bannen]], [[Magie_entdecken-phb|Magie entdecken]], [[Magierhand-phb|Magierhand]], [[Taschenspielerei-phb|Taschenspielerei]], [[Tote_beleben-phb|Tote beleben]] (als Aktion)  <br>
+> **jeweils 2/Tag:** [[Ausspähung-phb|Ausspähung]] (als Aktion), [[Dimensionstür-phb|Dimensionstür]], [[Unsichtbarkeit-phb|Unsichtbarkeit]]<br>
+> **jeweils 1/Tag:** [[Ebenenwechsel-phb|Ebenenwechsel]] (nur auf sich selbst), [[Kugel_der_Unverwundbarkeit-phb|Kugel der Unverwundbarkeit]], [[Monster_beherrschen-phb|Monster beherrschen]]
 > 
 > ## Bonusaktionen
 > 
@@ -100,7 +100,7 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
 > 
 > Vecna kann bis zu drei Reaktionen pro Runde ausführen, jedoch nur eine pro Zug. 
 > 
-> ***Grässlicher Gegenzauber:*** Vecna spricht ein Wort der Furcht aus, um eine Kreatur, die er sehen kann und die einen Zauber wirkt, am Wirken des Zaubers zu hindern. Wenn es sich um einen Zauber des höchstens 4. Grades handelt, schlägt er fehl und hat keine Wirkung. Bei einem Zauber ab dem 5. Grad führt Vecna einen Intelligenzwurf (SG 10 plus Zaubergrad) aus. Bei einem Erfolg schlägt der Zauber fehl und hat keine Wirkung. Unabhängig vom Grad des Zaubers erleidet der Zauberwirker 10 (`3d6`) psychischen Schaden, wenn der Zauber fehlschlägt
+> ***Grässlicher Gegenzauber:*** Vecna spricht ein Wort der Furcht aus, um eine Kreatur, die er sehen kann und die einen Zauber wirkt, am Wirken des Zaubers zu hindern. Wenn es sich um einen Zauber des höchstens 4. Grades handelt, schlägt er fehl und hat keine Wirkung. Bei einem Zauber ab dem 5. Grad führt Vecna einen Intelligenzwurf (`SG 10 plus Zaubergrad`) aus. Bei einem Erfolg schlägt der Zauber fehl und hat keine Wirkung. Unabhängig vom Grad des Zaubers erleidet der Zauberwirker 10 (`3d6`) psychischen Schaden, wenn der Zauber fehlschlägt
 > 
 > ***Tödlicher Tadel:*** Wird Vecna durch einen Angriff getroffen, so spricht er ein tödliches Wort aus, fügt dem Angreifer 10 (`3d6`) nekrotischen Schaden zu und teleportiert sich mit jeglicher Ausrüstung, die er trägt oder bei sich hat, bis zu 9 Meter weit an eine freie Stelle, die er sehen kann. 
 ^statblock

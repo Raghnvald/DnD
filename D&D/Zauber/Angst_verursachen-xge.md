@@ -6,7 +6,7 @@ Reichweite: 18 Meter
 Komponenten: V
 Wirkungsdauer: K, <1 Minute
 Angriff: WEI
-Schaden: n/a
+Schaden: /
 status: completed
 linter-yaml-title-alias: Angst verursachen
 classes:

@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grottenelle Steinschneider
 Image: token/grottenelle-stonecutter-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Grottenelle Stonecutter
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Grottenelle Stonecutter
+Kategorie: Humanoid (jedes Volk)
+Größe: Mittelgroß
+HG: "6"
+Habitat:
+  - /
+IMAGE:
 ---
 # Grottenelle Steinschneider
 *Quelle: Vecna: Vorabend der Verdammnis*  

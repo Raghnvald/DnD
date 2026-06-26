@@ -15,6 +15,10 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Argentia Skywright
+HG: "3"
+Habitat:
+  - /
+IMAGE:
 ---
 # [Argentia Skywright](3-Mechanics\CLI\bestiary\npc/argentia-skywright-veor.md)
 *Source: Vecna: Eve of Ruin*  

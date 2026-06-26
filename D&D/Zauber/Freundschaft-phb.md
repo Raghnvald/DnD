@@ -4,7 +4,7 @@ Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: G, M
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: /
 Schaden: /
 linter-yaml-title-alias: Friends

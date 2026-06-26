@@ -2,7 +2,7 @@
 Bezeichnung: Blitzköder
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
-Reichweite: 4,5 m
+Reichweite: 4,5 Meter
 Komponenten: V
 Wirkungsdauer: Sofort
 Angriff: STR

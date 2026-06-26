@@ -12,6 +12,10 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Sapping Sting
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
 ---
 # Sapping Sting
 *cantrip, Necromancy*  

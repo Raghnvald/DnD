@@ -5,7 +5,7 @@ Reichweite: Berührung
 Komponenten: G, M
 Wirkungsdauer: 10 Tage
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 status: completed
 linter-yaml-title-alias: Illusionsschrift
 tags:

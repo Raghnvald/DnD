@@ -8,7 +8,7 @@ HG: 23
 Habitat:
   - /
 image: token/Kas-the-betrayer-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Kas der Verräter
 tags:
   - Monster/Größe/Mittelgroß
@@ -44,11 +44,11 @@ In "_Vecna: Vorabend der Verdammnis_" hält Kas die beiden mächtigen Magierinne
 > | 26 (+8)|20 (+5)|22 (+6)|24 (+7)|19 (+4)|26 (+8)|
 > 
 > - **Rettungswürfe** KON +13, WEI +11, CHA +15
-> - **Fertigkeiten** Arkane Kunde +14, Heimlichkeit +11, Täuschung +22, Wahrnehmung +11
-> - **Sinne** Dunkelsicht 36 m, passive Wahrnehmung 21
+> - **Fertigkeiten** [[Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]] +14, [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]] +11, [[Fertigkeiten-phb#Täuschung|Täuschung]] +22, [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +11
 > - **Schadensresistenzen** -
 > - **Schadensimmunitäten** Gift, Nekrotisch; Hieb, Stich und Wucht durch nichtmagische Angriffe
-> - **Zustandsimmunitäten** Bezaubert, Erschöpft, Gelähmt, Verängstigt, Vergiftet<br><br>
+> - **Zustandsimmunitäten** [[Zustände-phb#Bezaubert|Bezaubert]], [[Zustände-phb#Erschöpfung|Erschöpft]], [[Zustände-phb#Gelähmt|Gelähmt]], [[Zustände-phb#Verängstigt|Verängstigt]], [[Zustände-phb#Vergiftet|Vergiftet]]
+> - **Sinne** [[Sinne-phb#Dunkelsicht|Dunkelsicht]] 36 m, passive Wahrnehmung 21
 > - **Sprachen** Abyssisch, Drakonisch, Gemeinsprache, Infernalisch
 > - **Herausforderungsgrad** 23 (50.000 EP)
 > - **Übungsbonus** +7
@@ -81,7 +81,7 @@ In "_Vecna: Vorabend der Verdammnis_" hält Kas die beiden mächtigen Magierinne
 > 
 > ***Bedrohliches Starren:*** Kas zielt auf eine Kreatur im Abstand von bis zu 18 Metern, die er sehen kann. Das Ziel muss einen `SG-23-Weisheits-Rettungswurf` bestehen, oder es ist bis zum Beginn von Kas' nächstem Zug verängstigt. 
 > 
-> ***Gestalt ändern:*** Kas verwandelt sich in eine mittelgroße Nebelwolke oder wieder zurück in seine wahre Gestalt. Kleidung, die er trägt, verwandelt sich mit ihm, Gegenstände, die er mit sich führt, jedoch nicht. Wenn er stirbt, nimmt er seine wahre Gestalt an. In Nebelgestalt hat Kaseine Flugbewegungsrate von sechs Metern, kann schweben, in den Bereich einer feindlich gesinnten Kreatur eindringen und dort stoppen. Er kann durch jeden Bereich gelangen, ohne sich quetschen zu müssen, sofern Luft durch diesen Bereich gelangen kann. Durch Wasser kann er jedoch nicht gelangen. Kas ist bei Stärke-, Geschicklichkeits- und Konstitutionsrettungswürfen im Vorteil, und er ist gegen alle nichtmagischen Schadensarten außer gegen Schaden, den er im Rahmen seines Merkmals Hyperempfindlich gegenüber Sonnenlicht erleidet, immun. In Nebelgestalt kann Kas keine Aktionen ausführen, nicht sprechen und nicht mit Gegenständen interagieren. 
+> ***Gestalt ändern:*** Kas verwandelt sich in eine mittelgroße Nebelwolke oder wieder zurück in seine wahre Gestalt. Kleidung, die er trägt, verwandelt sich mit ihm, Gegenstände, die er mit sich führt, jedoch nicht. Wenn er stirbt, nimmt er seine wahre Gestalt an. In Nebelgestalt hat Kaseine Flugbewegungsrate von sechs Metern, kann schweben, in den Bereich einer feindlich gesinnten Kreatur eindringen und dort stoppen. Er kann durch jeden Bereich gelangen, ohne sich quetschen zu müssen, sofern Luft durch diesen Bereich gelangen kann. Durch Wasser kann er jedoch nicht gelangen. Kas ist bei `Stärke`-, `Geschicklichkeits`- und `Konstitutions-Rettungswürfen` im Vorteil, und er ist gegen alle nichtmagischen Schadensarten außer gegen Schaden, den er im Rahmen seines Merkmals Hyperempfindlich gegenüber Sonnenlicht erleidet, immun. In Nebelgestalt kann Kas keine Aktionen ausführen, nicht sprechen und nicht mit Gegenständen interagieren. 
 > 
 > ## Reaktionen
 > 
@@ -93,7 +93,7 @@ In "_Vecna: Vorabend der Verdammnis_" hält Kas die beiden mächtigen Magierinne
 > 
 > ***Bewegung:*** Kas nutzt seine Bewegungsrate, ohne Gelegenheitsangriffe zu provozieren. 
 > 
-> ***Schwert (kostet 2 Aktionen):*** Kas führt einen RachsüchtigesSchwert-Angriff aus. 
+> ***Schwert (kostet 2 Aktionen):*** Kas führt einen Rachsüchtiges-Schwert-Angriff aus. 
 > 
 > ***Erhebt Euch von den Toten! (kostet 3 Aktionen):*** Kas beschwört auf magische Art ein [[Schreckgespenst-mm|Schreckgespenst]]. Dieses erscheint an einer freien Stelle im Abstand von bis zu neun Metern von Kas und gehorcht ihm. Das Schreckgespenst ist sofort nach Kas am Zug. Es bleibt bestehen, bis eine Stunde vergangen ist, Kas stirbt oder es als Bonusaktion entlässt. Kas kann nicht mehr als zwei Schreckgespenster zugleich beschwören.
 ^statblock

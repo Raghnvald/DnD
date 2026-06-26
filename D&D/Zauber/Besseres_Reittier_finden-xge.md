@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Besseres Reittier finden
 classes:
   - Paladin

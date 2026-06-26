@@ -4,7 +4,7 @@ Zaubergrad: 2
 Zeitaufwand: 1 Bonusaktion
 Reichweite: Berührung
 Komponenten: V, G, M
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: GES
 Schaden: 3d6 variabel
 linter-yaml-title-alias: Drachenodem

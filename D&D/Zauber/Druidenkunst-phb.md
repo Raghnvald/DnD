@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: nichts
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Druidenkunst
 classes:
   - Bard (Magical Secrets)

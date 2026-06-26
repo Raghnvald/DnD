@@ -6,7 +6,7 @@ Reichweite: 27 Meter
 Komponenten: G
 Wirkungsdauer: 1 Runde
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 status:
 linter-yaml-title-alias: Elemente absorbieren
 classes:

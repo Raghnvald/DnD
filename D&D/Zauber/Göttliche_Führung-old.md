@@ -3,9 +3,9 @@ Bezeichnung: Göttliche Führung
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: nichts
-Schaden: Verstärkung
+Schaden: /
 status:
   - completed
 linter-yaml-title-alias: Göttliche Führung

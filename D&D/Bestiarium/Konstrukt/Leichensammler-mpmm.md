@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Cadaver Collector
+status: WIP
 ---
 # [Cadaver Collector](3-Mechanics\CLI\bestiary\construct/cadaver-collector-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68*  

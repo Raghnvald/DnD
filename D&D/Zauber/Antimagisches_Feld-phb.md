@@ -6,7 +6,7 @@ Reichweite: selbst
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Antimagisches Feld
 classes:
   - Bard (Magical Secrets)

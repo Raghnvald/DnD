@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Priest of Osybus
+status: WIP
 ---
 # [Priest of Osybus](3-Mechanics\CLI\bestiary\humanoid/priest-of-osybus-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 241*  

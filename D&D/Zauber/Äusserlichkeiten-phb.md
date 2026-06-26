@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: CHA
-Schaden: n/v
+Schaden: /
 linter-yaml-title-alias: Äusserlichkeiten
 classes:
   - Bard (Magical Secrets)

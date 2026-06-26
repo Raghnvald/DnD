@@ -6,7 +6,7 @@ Reichweite: 3 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Speziell
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Astrale Projektion
 classes:
   - Bard (Magical Secrets)

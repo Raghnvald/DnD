@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Shillelagh
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand: 1 Bonusaktion
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: 1 Minute
+Angriff:
+Schaden:
 linter-yaml-title-alias: Shillelagh
 classes:
   - Bard (Magical Secrets)

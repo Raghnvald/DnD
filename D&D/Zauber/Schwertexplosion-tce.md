@@ -2,7 +2,7 @@
 Bezeichnung: Schwertexplosion
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
-Reichweite: 1,5 m
+Reichweite: 1,5 Meter
 Komponenten: V, M
 Wirkungsdauer: 1 Runde
 Angriff: GES

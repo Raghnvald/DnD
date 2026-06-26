@@ -3,9 +3,9 @@ Bezeichnung: Rascher Rückzug
 Zeitaufwand: 1 Bonusaktion
 Reichweite: selbst
 Komponenten: V, G
-Wirkungsdauer: K, <10 Minuten
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/a
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Rascher Rückzug
 tags:
   - Klasse/Hexenmeister

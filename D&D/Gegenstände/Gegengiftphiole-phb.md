@@ -10,6 +10,10 @@ tags:
 aliases:
   - "Gegengiftphiole "
   - Antitoxin (vial)
+Kst.: 50 GM
+Gew.: /
+Eigenschaften:
+  - /
 ---
 # Gegengiftphiole 
 *Abenteuerausrüstung*  

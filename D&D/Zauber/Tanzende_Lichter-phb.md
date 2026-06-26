@@ -4,9 +4,9 @@ Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
 Komponenten: V, G, M
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: nichts
-Schaden: Utility
+Schaden: /
 linter-yaml-title-alias: Tanzende Lichter
 classes:
   - Bard (Magical Secrets)

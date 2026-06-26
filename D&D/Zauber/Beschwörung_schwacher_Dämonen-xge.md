@@ -4,9 +4,9 @@ Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V, G, M
-Wirkungsdauer: K, <1 Stunde
+Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/v
-Schaden: Beschwörung
+Schaden: /
 linter-yaml-title-alias: Beschwörung schwacher Dämonen
 classes:
   - Bard

@@ -2,11 +2,11 @@
 Bezeichnung: Arkanes Schloss
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
-Reichweite: 9 m
+Reichweite: 9 Meter
 Komponenten: V, G, M
-Wirkungsdauer: K, <1 Stunde
+Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: nichts
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Arkanes Schloss
 classes:
   - Bard (Magical Secrets)

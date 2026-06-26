@@ -5,7 +5,7 @@ Reichweite: Berührung
 Komponenten: V, M
 Wirkungsdauer: 1 Stunde
 Angriff: GES
-Schaden: Erschaffung
+Schaden: /
 status:
   - completed
 linter-yaml-title-alias: Licht

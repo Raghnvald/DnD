@@ -3,9 +3,9 @@ Bezeichnung: Freundschaft
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: G, M
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: nichts
-Schaden: Stärkung
+Schaden: /
 status:
   - completed
 linter-yaml-title-alias: Freundschaft

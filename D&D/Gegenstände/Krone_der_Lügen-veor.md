@@ -10,8 +10,8 @@ aliases:
   - "Krone der Lügen "
 ---
 # Krone der Lügen 
-*Wundersamer Gegenstand, Artefakt (erfordert Einstimmung)*  
-![](img/crown-of-lies.webp#right)
+*Wundersamer Gegenstand, Artefakt (erfordert Einstimmung)*
+<img src="crown-of-lies.webp" align="right" width="150">
 
 Nachdem der Krieger Kas den Lich Vecna verraten und beinahe besiegt hatte, fand er sich selbst im Shadowfell wieder, gefangen in einer Domäne des Schreckens namens Tovag. Dort schmachtete er als Vampir dahin. Schließlich lockten die Dunklen Mächte des Shadowfells ihn zu einer verborgenen Schmiede, wo er die Krone der Lügen fand. Kas schwor, Vecna den Dunklen Mächten auszuliefern, und setzte sich die Krone auf. Da ließen die Dunklen Mächte ihn frei. Er brach auf, um seinem ehemaligen Meister den Untergang zu bringen. Schafft er dies nicht, werden die Dunklen Mächte ihn zurückfordern.
 

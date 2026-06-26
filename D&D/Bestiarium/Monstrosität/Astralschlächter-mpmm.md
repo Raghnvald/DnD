@@ -15,6 +15,10 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Astral Dreadnought
+HG: "21"
+Habitat:
+  - /
+IMAGE:
 ---
 # [Astral Dreadnought](3-Mechanics\CLI\bestiary\monstrosity/astral-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51*  

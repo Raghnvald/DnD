@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Magic Stone
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Bonusaktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: 1 Minute
 Angriff:
 Schaden:
 linter-yaml-title-alias: Magic Stone

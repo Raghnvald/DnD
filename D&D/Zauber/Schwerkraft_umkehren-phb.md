@@ -2,11 +2,11 @@
 Bezeichnung: Schwerkraft umkehren
 Zaubergrad: 7
 Zeitaufwand: 1 Aktion
-Reichweite: 30 m
+Reichweite: 30 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: GES
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Schwerkraft umkehren
 classes:
   - Bard (Magical Secrets)

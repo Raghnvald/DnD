@@ -6,7 +6,7 @@ Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: n/v
-Schaden: n/v
+Schaden: /
 status: completed
 linter-yaml-title-alias: Beistand
 classes:

@@ -4,7 +4,7 @@ Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V, G
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: STR
 Schaden: 1d8 Wucht
 linter-yaml-title-alias: Staubteufel

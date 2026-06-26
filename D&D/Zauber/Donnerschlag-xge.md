@@ -2,7 +2,7 @@
 Bezeichnung: Donnerschlag
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
-Reichweite: 1,5 m
+Reichweite: 1,5 Meter
 Komponenten: G
 Wirkungsdauer: Unmittelbar
 Angriff: KON

@@ -1,18 +1,18 @@
 ---
 Bezeichnung: Stein des Glücks
 Kategorie: Wundersamer Gegenstand 
-linter-yaml-title-alias: Stone of Good Luck
+linter-yaml-title-alias: Stein des Glücks
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Stone of Good Luck
+  - Stein des Glücks
 ---
 # Stein des Glücks
-*Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  
-![](img/stone-of-good-luck.webp#right)
+*Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*
+<img src="stone-of-good-luck.webp" align="right" width="150">
 
 Während du diesen polierten Achat bei dir trägst, erhältst du einen Bonus von +1 auf Attributs- und Rettungswürfe. 
 

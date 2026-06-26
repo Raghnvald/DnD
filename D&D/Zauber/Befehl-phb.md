@@ -6,7 +6,7 @@ Reichweite: 18 Meter
 Komponenten: V
 Wirkungsdauer: 1 Runde
 Angriff: Weisheit
-Schaden: kein
+Schaden: /
 linter-yaml-title-alias: Befehl
 classes:
   - Bard (Magical Secrets)

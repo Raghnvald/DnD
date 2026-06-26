@@ -16,6 +16,13 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Blue Abishai
+Größe: Mittelgroß
+HG: "17"
+Habitat:
+  - Küste
+  - Wüste
+status: WIP
+IMAGE:
 ---
 # [Blue Abishai](3-Mechanics\CLI\bestiary\fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39*  

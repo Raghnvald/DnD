@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Ray of Frost
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
-Schaden:
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
+Angriff: Fern
+Schaden: 1d8 Kälte
 linter-yaml-title-alias: Ray of Frost
 classes:
   - Bard (Magical Secrets)

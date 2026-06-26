@@ -6,7 +6,7 @@ Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: 7 Tage
 Angriff: Nah
-Schaden: n/a
+Schaden: /
 linter-yaml-title-alias: Ansteckung
 classes:
   - Bard (Magical Secrets)

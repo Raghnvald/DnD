@@ -5,7 +5,7 @@ Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: 1 Minute
 Angriff: nichts
-Schaden: Utility
+Schaden: /
 status:
   - completed
 linter-yaml-title-alias: Magierhand

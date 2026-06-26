@@ -4,7 +4,7 @@ Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: selbst (Radius von 9 m)
 Komponenten: V
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: n/v
 Schaden: 2d6 Heilung
 linter-yaml-title-alias: Aura der Gesundheit

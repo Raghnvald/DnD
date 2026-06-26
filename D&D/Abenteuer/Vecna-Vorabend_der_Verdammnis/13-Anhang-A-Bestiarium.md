@@ -16,7 +16,23 @@ In diesem Anhang werden Kreaturen, die im Abenteuer auftreten, in alphabetischer
 filters:
   and:
     - file.folder.startsWith("D&D/Bestiarium")
+formulas:
+  Bezeichnung: link(file, Bezeichnung)
 views:
+  - type: table
+    name: Status
+    filters:
+      and:
+        - file.tags.contains("Quelle/5e/veor")
+    order:
+      - file.name
+      - formula.Bezeichnung
+      - Kategorie
+      - Größe
+      - HG
+      - Habitat
+      - status
+      - Image
   - type: cards
     name: Anhang A Kreaturen
     filters:
@@ -27,61 +43,5 @@ views:
     cardSize: 130
     image: note.Image
     imageFit: contain
-  - type: table
-    name: Status
-    filters:
-      and:
-        - file.tags.contains("Quelle/5e/veor")
-    order:
-      - file.name
-      - Bezeichnung
-      - Kategorie
-      - Größe
-      - HG
-      - Habitat
-      - status
-      - IMAGE
+
 ```
-
----
-
-- [[Blauer_Abishai-mpmm|Blauer Abishai]]
-- [[Grüner_Abishai-mpmm|Grüner Abishai]]
-- [[Roter_Abishai-mpmm|Roter Abishai]]
-- [[Astralschlächter-mpmm|Astralschlächter]] 
-- [[Borthak-veor|Borthak]] 
-- [[Brandbär-veor|Brandbär]]
-- [[Degloth-veor|Degloth]]
-- [[Falscher_Lich-veor|Falscher Lich]]
-- [[Granit-Moloch-veor|Granit-Moloch]]
-- [[Hazvongel-veor|Hazvongel]]
-- [[Hertilod-veor|Hertilod]]
-- [[D&D/Bestiarium/Humanoid/Inquisitor_des_Folianten-vrgr|Inquisitor des Folianten]]
-- [[Klingenleutnant-veor|Klingenleutnant]]
-- [[Klingenspäher-veor|Klingenspäher]]
-- [[Knochenroch-veor|Knochenroch]]
-- [[Kosmischer_Horror-bam|Kosmischer Horror]]
-- [[Kriegsgeschmiedeter_Krieger-veor|Kriegsgeschmiedeter Krieger]]
-- [[Einsamer_Kummergeschworener-mpmm|Einsamer Kummergeschworener]]
-- [[Verlorener_Kummergeschworener-mpmm|Verlorener Kummergeschworener]]
-- [[Leichensammler-mpmm|Leichensammler]]
-- [[D&D/Bestiarium/Humanoid/Magier-Nekromant-mpmm|Magier-Nekromant]]
-- [[Maulauge-bam|Maulauge]]
-- [[Ausgewachsener_Monddrache-bam|Ausgewachsener Monddrache]]
-- [[Mondscheinwächter-veor|Mondscheinwächter]]
-- [[Nachtplünderer-bam|Nachtplünderer]]
-- [[D&D/Bestiarium/Humanoid/Priester_von_Osybus-vrgr|Priester von Osybus]]
-- [[Schwarzrosenträger-veor|Schwarzrosenträger]]
-- [[Spiegelschatten-veor|Spiegelschatten]] 
-- [[Spinnendrache-veor|Spinnendrache]]
-- [[Kakkuu-Spinnenunhold-veor|Kakkuu-Spinnenunhold]]
-- [[Phisarazu-Spinnenunhold-veor|Phisarazu-Spinnenunhold]]
-- [[Quavilithku-Spinnenunhold-veor|Quavilithku-Spinnenunhold]]
-- [[Raklupis-Spinnenunhold-veor|Raklupis-Spinnenunhold]]
-- [[Sternangler-veor|Sternangler]]
-- [[Todesrinden-Dryade-veor|Todesrinden-Dryade]]
-- [[Todeswolf-veor|Todeswolf]]
-- [[Unermüdlicher_Pfähler-veor|Unermüdlicher Pfähler]] 
-- [[Vlazok-veor|Vlazok]]
-- [[Wirbelnder_Lüster-veor|Wirbelnder Lüster]]
-- [[Zitadellenspinne-veor|Zitadellenspinne]]

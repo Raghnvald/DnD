@@ -6,7 +6,7 @@ Reichweite: Berührung
 Komponenten: G, M
 Wirkungsdauer: 8 Stunden
 Angriff: GES
-Schaden: Festgesetzt
+Schaden: /
 linter-yaml-title-alias: Fangschlinge
 classes:
   - Artificer

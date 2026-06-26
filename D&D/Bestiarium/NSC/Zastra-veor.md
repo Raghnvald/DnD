@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zastra
 Image: token/zastra-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Zastra
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,6 +12,10 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Zastra
+Kategorie: Humanoid (Gith)
+Größe: Mittelgroß
+Habitat:
+  - /
 ---
 # Zastra
 *Source: Vecna: Eve of Ruin*  

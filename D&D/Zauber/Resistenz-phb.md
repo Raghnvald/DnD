@@ -4,9 +4,9 @@ Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: Berührung
 Reichweite: 9 Meter
 Komponenten: V, G, M
-Wirkungsdauer: K, <1 Minute
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: nichts
-Schaden: Verstärkung
+Schaden: /
 linter-yaml-title-alias: Resistenz
 classes:
   - Bard (Magical Secrets)

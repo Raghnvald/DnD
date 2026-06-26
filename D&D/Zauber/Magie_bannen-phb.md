@@ -2,9 +2,9 @@
 Bezeichnung: Magie bannen
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
-Reichweite: 36 m
+Reichweite: 36 Meter
 Komponenten: V, G
-Wirkungsdauer: unmittelbar
+Wirkungsdauer: Unmittelbar
 Angriff: /
 Schaden: /
 linter-yaml-title-alias: Magie bannen

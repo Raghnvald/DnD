@@ -2,10 +2,11 @@
 Bezeichnung: Poison Spray
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
-Reichweite:
+Reichweite: 3 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
+Schaden: 1d12 Gift
 linter-yaml-title-alias: Poison Spray
 classes:
   - Bard (Magical Secrets)

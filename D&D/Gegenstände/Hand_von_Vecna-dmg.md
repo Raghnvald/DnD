@@ -1,32 +1,32 @@
 ---
-Bezeichnung: Hand of Vecna
-linter-yaml-title-alias: Hand of Vecna
+Bezeichnung: Hand von Vecna
+linter-yaml-title-alias: Hand von Vecna
 tags:
   - Gegenstand/Einstimmung/required
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/dmg
 aliases:
-  - Hand of Vecna
+  - Hand von Vecna
 ---
-# Hand of Vecna
-*Wondrous item, artifact (requires attunement)*  
-![](img/eye-and-hand-of-vecna.webp#right)
+# Hand von Vecna
+*Wundersamer Gegenstand, Artefakt (erfordert Einstimmung)*
+<img src="eye-and-hand-of-vecna.webp" align="right" width="150">
 
-Seldom is the name of Vecna spoken except in a hushed voice. Vecna was, in his time, one of the mightiest of all wizards. Through dark magic and conquest, he forged a terrible empire. For all his power, Vecna couldn't escape his own mortality. He began to fear death and take steps to prevent his end from ever coming about.
+Selten wird der Name Vecna ausgesprochen, außer in einer geflüsterten Stimme. Vecna war, zu seiner Zeit, einer der mächtigsten von allen Magiern. Durch dunkle Magie und Eroberungen erschuf er ein schreckliches Imperium. Doch trotz all seiner Kraft konnte Vecna nicht seiner eigenen Sterblichkeit entkommen. Er begann, den Tod zu fürchten und unternahm Schritte, um sein eigenes Ende zu verhindern.
 
-Orcus, the demon prince of undeath, taught Vecna a ritual that would allow him to live on as a [lich](/3-Mechanics/CLI/bestiary/undead/lich.md). Beyond death, he became the greatest of all liches. Even though his body gradually withered and decayed, Vecna continued to expand his evil dominion. So formidable and hideous was his temper that his subjects feared to speak his name. He was the Whispered One, the Master of the Spider Throne, the Undying King, and the Lord of the Rotted Tower.
+Orcus, der Dämonenprinz der Untoten, lehrte Vecna ein Ritual, welches ihm ermöglichen würde, als ein Lich weiterzuleben. Nach dem Tod wurde er zu einem der größten Liche aller Zeiten. Obgleich sein Körper allmählich verdarb und zerfiel, baute Vecna sein böses Imperium weiter aus. So gewaltig und abscheulich war sein Wille, dass selbst seine Untertanen fürchteten, seinen Namen auszusprechen. Er wurde als der Geflüsterte bekannt, der Meister des Spinnenthrons, der Unsterbliche König und als der Herr des Verotteten Turms.
 
-Some say that Vecna's lieutenant Kas coveted the Spider Throne for himself, or that the sword his lord made for him seduced him into rebellion. Whatever the reason, Kas brought the Undying King's rule to an end in a terrible battle that left Vecna's tower a heap of ash. Of Vecna, all that remained were one hand and one eye, grisly artifacts that still seek to work the Whispered One's will in the world.
+Manche sagen, dass Vecnas Leutnant Kas den Spinnenthron selbst begehrte, oder dass das Schwert, welches sein Herr eigens für ihn erschaffen hatte, ihn zur Rebellion verführte. Was auch immer der Grund war, Kas brachte die Herrschaft des Unsterblichen Königs in einem schrecklichen Kampf zu einem Ende, der Vecnas Turm als einen Haufen Asche zurückließ. Von Vecna selbst verblieb lediglich eine Hand und ein Auge, grausame Artefakte, die immer noch für den Willen des Geflüsterten in der Welt arbeiten.
 
-The [Eye of Vecna](/3-Mechanics/CLI/items/eye-of-vecna.md) and the Hand of Vecna might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a mummified and shriveled left extremity.
+Das [[Auge_von_Vecna-dmg|Auge von Vecna]] und die Hand von Vecna können zusammen oder getrennt gefunden werden. Das Auge sieht aus wie ein blutunterlaufenes Organ, das aus seiner Höhle entfernt wurde. Die Hand ist eine mumifizierte und geschrumpfte linke Gliedmaße.
 
-To attune to the eye, you must gouge out your own eye and press the artifact into the empty socket. The eye grafts itself to your head and remains there until you die. Once in place, the eye transforms into a golden eye with a slit for a pupil, much like that of a cat. If the eye is ever removed, you die.
+Um sich auf das Auge einzustimmen, musst du dir dein eigenes Auge entfernen und das Artefakt in die leere Höhle drücken. Das Auge pflanzt sich selbst in deinen Kopf ein und bleibt dort, bis du stirbst. Ist es erst einmal an seinem Platz, verwandelt es sich in ein goldenes Auge mit einem Schlitz als Pupille, ähnlich wie bei einer Katze. Wenn das Auge jemals entfernt wird, stirbst du.
 
-To attune to the hand, you must lop off your left hand at the wrist and the press the artifact against the stump. The hand grafts itself to your arm and becomes a functioning appendage. If the hand is ever removed, you die.
+Um dich auf die Hand einzustimmen, musst du dir deine linke Hand am Handgelenk abschneiden und das Artefakt gegen den Stummel drücken. Die Hand pflanzt sich von selbst an deinen Arm und wird zu einer funktionierenden Gliedmaße. Wenn die Hand je entfernt wird, stirbst du.
 
-## Random Properties
+## Zufällige Eigenschaften
 
-The [Eye of Vecna](/3-Mechanics/CLI/items/eye-of-vecna.md) and the Hand of Vecna each have the following random properties:
+Das [[Auge_von_Vecna-dmg|Auge von Vecna]] und die Hand von Vecna haben jeweils die folgenden zufällig ausgewählten Eigenschaften:
 
 - 1 [minor beneficial property](/3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
 - 1 [major beneficial property](/3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
@@ -51,8 +51,8 @@ If you are attuned to both the hand and eye, you gain the following additional b
 - If a creature has a skeleton, you can attempt to turn its bones to jelly with a touch of the Hand of Vecna. You can do so by using an action to make a melee attack against a creature you can reach, using your choice of your melee attack bonus for weapons or spells. On a hit, the target must succeed on a DC 18 Constitution saving throw or drop to 0 hit points.  
 - You can use an action to cast [wish](/3-Mechanics/CLI/spells/wish.md). This property can't be used again until 30 days have passed.  
 
-## Destroying the Eye and Hand
+## Das Auge und die Hand zerstören
 
-If the [Eye of Vecna](/3-Mechanics/CLI/items/eye-of-vecna.md) and the Hand of Vecna are both attached to the same creature, and that creature is slain by the [Sword of Kas](/3-Mechanics/CLI/items/sword-of-kas.md), both the eye and the hand burst into flame, turn to ash, and are destroyed forever. Any other attempt to destroy the eye or hand seems to work, but the artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
+Wenn sowohl das [[Auge von Vecna]] als auch die Hand von Vecna beide an derselben Kreatur angebracht sind und diese Kreatur mit dem [[Schwert_von_Kas-dmg|Schwert von Kas]] getötet wird, gehen sowohl das Auge als auch die Hand in Flammen auf, werden zu Asche und sind für immer zerstört. Jeglicher andere Versuch, das Auge oder die Hand zu zerstören, scheint zu wirken, aber das jeweilige Artefakt taucht in einem von Vecnas zahlreichen verborgenen Gewölben wieder auf, wo es nur darauf wartet, wieder entdeckt zu werden.
 
 *Source: Dungeon Master's Guide p. 224*

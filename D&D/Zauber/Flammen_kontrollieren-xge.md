@@ -6,7 +6,7 @@ Reichweite: 18 Meter
 Komponenten: G
 Wirkungsdauer: Unmittelbar oder 1 Stunde
 Angriff: nichts
-Schaden: Kontrolle
+Schaden: /
 linter-yaml-title-alias: Flammen kontrollieren
 classes:
   - Bard (College of Lore)

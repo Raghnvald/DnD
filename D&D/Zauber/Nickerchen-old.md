@@ -5,7 +5,7 @@ Reichweite: 9 Meter
 Komponenten: G, M
 Wirkungsdauer: 10 Minuten
 Angriff: n/v
-Schaden: Verstärkung
+Schaden: /
 linter-yaml-title-alias: Nickerchen
 tags:
   - Klasse/Artifizient

@@ -2,7 +2,7 @@
 Bezeichnung: Donnerwoge
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
-Reichweite: selbst (Würfel von 4,5 m)
+Reichweite: selbst (Würfel von 4,5m)
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON

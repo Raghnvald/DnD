@@ -2,11 +2,11 @@
 Bezeichnung: Grünfeuerklinge
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
-Reichweite: 1,5 m
+Reichweite: 1,5 Meter
 Komponenten: V, M
 Wirkungsdauer: Sofort
 Angriff: Nahkampf
-Schaden: 1d8 Schall
+Schaden: 1d8 Feuer
 status:
   - completed
 linter-yaml-title-alias: Grünfeuerklinge
@@ -36,7 +36,7 @@ _Quellen:_ Abenteurerhandbusch für die Schwertküste, Tashas Kessel mit Allem
 - **Komponenten:** V, M (eine Waffe)
 - **Wirkungsdauer:** Sofort
 - **Angriff/Rettung:** Nahkampf
-- **Schaden/Effekt:** 1d8 Schall
+- **Schaden/Effekt:** 1d8 Feuer
 
 Als Teil der Aktion, mit der du diesen Zauber wirkst, musst du einen Nahkampfangriff mit einer Waffe gegen eine Kreatur in der Reichweite des Zaubers ausführen, sonst misslingt der Zauber. Bei einem Treffer erleidet das Ziel die normalen Auswirkungen des Angriffs, und grünes Feuer springt vom Ziel auf eine andere Kreatur deiner Wahl, die du sehen kannst und die sich innerhalb von 1,5 Metern zum Ziel befindet. Die zweite Kreatur erleidet Feuerschaden gleich dem Modifikator deines Attributs zum Zauberwirken.
 

@@ -12,6 +12,12 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Borthak
+Kategorie: Monstrosität
+Größe: Riesig
+HG: "15"
+Habitat:
+  - /
+IMAGE:
 ---
 # [Borthak](3-Mechanics\CLI\bestiary\monstrosity/borthak-veor.md)
 *Source: Vecna: Eve of Ruin p. 212*  

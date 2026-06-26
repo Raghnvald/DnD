@@ -165,10 +165,10 @@ Um die tiefsten Schichten der Neun Höllen zu erreichen, muss man in Reihenfolge
 > 
 > - **Rettungswürfe** GES +7, KON +8, WEI +6, CHA +8
 > - **Fertigkeiten** ⏤
-> - **Sinne** [[Wahrer Blick]] 36 Meter, passive Wahrnehmung 12
+> - **Sinne** [[Sinne-phb#Wahre Sicht|Wahre Sicht]] 36 Meter, passive Wahrnehmung 12
 > - **Schadensresistenzen** Kälte; Wucht-, Stich- und Hiebschaden durch nichtmagische Angriffe, die nicht von versilberten Waffen zugefügt werden. 
 > - **Schadensimmunitäten** Feuer, Gift
-> - **Zustandsimmunitäten** [[Vergiftet]] <br><br>
+> - **Zustandsimmunitäten** [[Zustände-phb#Vergiftet|Vergiftet]] <br><br>
 > - **Sprachen** Infernalisch, Telepathie 36 Meter
 > - **Herausforderungsgrad** 12 (8.400 EP)
 > - **Übungsbonus** +3

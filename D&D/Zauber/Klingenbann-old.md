@@ -5,7 +5,7 @@ Reichweite: Selbst
 Komponenten: V, G
 Wirkungsdauer: 1 Runde
 Angriff: nichts
-Schaden: Kampf
+Schaden: /
 status:
   - completed
 linter-yaml-title-alias: Klingenbann

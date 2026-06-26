@@ -8,7 +8,7 @@ HG: 21
 Habitat:
   - /
 image: token/Alustriel-silverhand-veor.webp
-status: WIP
+status: completed
 linter-yaml-title-alias: Alustriel Silberhand
 tags:
   - Monster/Größe/Mittelgroß
@@ -53,11 +53,11 @@ Alustriel hat vor und nach ihrer Amtszeit als Silbrigmonds Hochmagierin zahllose
 > | 12 (+1)|20 (+5)|18 (+4)|24 (+7)|23 (+6)|22 (+6)|
 > 
 > - **Rettungswürfe** KON +11, INT +14, WEI +13
-> - **Fertigkeiten** Arkane Kunde +14, Geschichte +14, Motiv erkennen +13, Religion +14
-> - **Sinne** passive Wahrnehmung 16
+> - **Fertigkeiten** [[Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]] +14, [[Fertigkeiten-phb#Geschichte|Geschichte]] +14, [[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]] +13, [[Fertigkeiten-phb#Religion|Religion]] +14
 > - **Schadensresistenzen** Gleißend
 > - **Schadensimmunitäten** Gift
-> - **Zustandsimmunitäten** Bezaubert, Erschöpft, Vergiftet<br><br>
+> - **Zustandsimmunitäten** [[Zustände-phb#Bezaubert|Bezaubert]], [[Zustände-phb#Erschöpfung|Erschöpft]], [[Zustände-phb#Vergiftet|Vergiftet]]
+> - **Sinne** passive Wahrnehmung 16
 > - **Sprachen** Drakonisch, Elfisch, Gemeinsprache
 > - **Herausforderungsgrad** 21 (33.000 EP)
 > - **Übungsbonus** +7
@@ -82,9 +82,9 @@ Alustriel hat vor und nach ihrer Amtszeit als Silbrigmonds Hochmagierin zahllose
 >  
 >  ***Zauberwirken:*** Alustriel wirkt einen der folgenden Zauber mit Intelligenz als Attribut zum Zauberwirken (Zauberrettungswurf-SG 22):
 >
-> **Beliebig oft:** [[Magie_entdecken-phb|Magie entdecken]], [[Magierhand-phb|Magierhand]], Detect Magic, Mage Armor (self only), Mage Hand <br>
-> **jeweils 2/Tag:** Detect Thoughts, Dispel Magic, Tongues <br>
-> **jeweils 1/Tag:** Telepathy, Teleport, Time Stop
+> **Beliebig oft:** [[Magie_entdecken-phb|Magie entdecken]], [[Magierhand-phb|Magierhand]], [[Magierrüstung-phb|Magierrüstung]] (nur auf sich selbst), [[Tanzende_Lichter-phb|Tanzende Lichter]] 
+> **jeweils 2/Tag:** [[Gedanken_wahrnehmen-phb|Gedanken wahrnehmen]], [[Magie_bannen-phb|Magie bannen]], [[Zungen-phb|Zungen]] 
+> **jeweils 1/Tag:** [[Telepathie-phb|Telepathie]], [[Teleportieren-phb|Teleportieren]], [[Zeitstop-phb|Zeitstop]]
 > 
 > ## Bonusaktionen
 > 
@@ -92,5 +92,5 @@ Alustriel hat vor und nach ihrer Amtszeit als Silbrigmonds Hochmagierin zahllose
 > 
 > ## Reaktionen
 > 
-> ***Strahlender Gegenzauber:*** Alustriel unterbricht eine Kreatur im Abstand von bis zu 18 Metern, die sie sehen kann und die einen Zauber wirkt. Wenn es sich um einen Zauber des höchstens 5. Grades handelt, schlägt er fehl und hat keine Wirkung. Bei einem Zauber ab dem 6. Grad führt Alustriel einen Intelligenzwurf (SG 10 plus Zaubergrad) aus. Bei einem Erfolg schlägt der Zauber fehl und hat keine Wirkung. Unabhängig vom Grad des Zaubers erleidet der Zauberwirker 11 (`2d10`) gleißenden Schaden, wenn der Zauber fehlschlägt.
+> ***Strahlender Gegenzauber:*** Alustriel unterbricht eine Kreatur im Abstand von bis zu 18 Metern, die sie sehen kann und die einen Zauber wirkt. Wenn es sich um einen Zauber des höchstens 5. Grades handelt, schlägt er fehl und hat keine Wirkung. Bei einem Zauber ab dem 6. Grad führt Alustriel einen Intelligenzwurf (`SG 10 plus Zaubergrad`) aus. Bei einem Erfolg schlägt der Zauber fehl und hat keine Wirkung. Unabhängig vom Grad des Zaubers erleidet der Zauberwirker 11 (`2d10`) gleißenden Schaden, wenn der Zauber fehlschlägt.
 ^statblock

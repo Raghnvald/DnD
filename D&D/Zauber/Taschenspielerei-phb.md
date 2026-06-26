@@ -6,7 +6,7 @@ Reichweite: 3 Meter
 Komponenten: V, G
 Wirkungsdauer: Bis zu 1 Stunde
 Angriff: nichts
-Schaden: Utility
+Schaden: /
 linter-yaml-title-alias: Taschenspielerei
 classes:
   - Bard (Magical Secrets)
