@@ -1,13 +1,14 @@
 ---
-Bezeichnung: "Tasha's Fürchterlicher Lachanfall"
+Bezeichnung: Tashas Fürchterlicher Lachanfall
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff:
 Schaden:
-linter-yaml-title-alias: "Tasha's Fürchterlicher Lachanfall"
+Status: WIP
+linter-yaml-title-alias: Tashas Fürchterlicher Lachanfall
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -18,17 +19,17 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subklasse/the-great-old-one
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - "Tasha's Fürchterlicher Lachanfall"
-  - "Tasha's Hideous Laughter"
+  - Tasha's Hideous Laughter
+  - Tashas Fürchterlicher Lachanfall
 ---
-# Tasha's Fürchterlicher Lachanfall
+# Tashas Fürchterlicher Lachanfall
 *Verzauberung des 1. Grades*
 
 - **Zeitaufwand:** 1 Aktion

@@ -2,13 +2,13 @@
 Bezeichnung: Amethyst
 Kategorie: Edelstein
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 100 GM
-Gew.: /
+Gew.: n/v
 Status: completed
 linter-yaml-title-alias: Amethyst
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

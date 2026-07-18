@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Armor of Vulnerability
+Status: WIP
 linter-yaml-title-alias: Armor of Vulnerability
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/xdmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Meazel
+Status: WIP
 linter-yaml-title-alias: Meazel
 tags:
   - Monster/Größe/Mittelgroß

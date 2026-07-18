@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "**Anhang B: Dramatis Personae**"
+Status: WIP
 linter-yaml-title-alias: "**Anhang B: Dramatis Personae**"
 tags:
   - Quelle/5e/cos

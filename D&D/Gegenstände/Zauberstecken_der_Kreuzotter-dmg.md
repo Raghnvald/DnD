@@ -6,14 +6,17 @@ Eigenschaften:
   - Vielseitig (1W8)
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Staff of the Adder
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
   - Staff of the Adder
+status: WIP
+Original: Staff of the Adder
 ---
 # Staff of the Adder
 *Zauberstecken, ungewöhnlich (erfordert Einstimmung durch einen Druiden, Hexenmeister oder Kleriker)*  

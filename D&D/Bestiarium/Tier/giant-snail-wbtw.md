@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Snail
+Status: WIP
 linter-yaml-title-alias: Giant Snail
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/beast
+  - Monster/HG/1-4
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
-  - "Giant Snail"
+  - Giant Snail
   - Giant Snail
 ---
 # [Giant Snail](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw.md)

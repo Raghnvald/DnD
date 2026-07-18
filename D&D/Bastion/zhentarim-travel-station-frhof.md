@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zhentarim Travel Station
+Status: WIP
 linter-yaml-title-alias: Zhentarim Travel Station
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof
 aliases:
-  - "Zhentarim Travel Station"
+  - Zhentarim Travel Station
   - Zhentarim Travel Station
 ---
 # Zhentarim Travel Station

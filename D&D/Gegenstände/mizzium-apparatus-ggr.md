@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Mizzium Apparatus
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Mizzium Apparatus
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/ggr

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kenku
+Status: WIP
 linter-yaml-title-alias: Kenku
 tags:
   - Quelle/5e/vgm

@@ -1,10 +1,13 @@
 ---
 Bezeichnung: Ring der Erdelementar-Herrschaft
 Kategorie: Ring
-status: completed
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Status: completed
 linter-yaml-title-alias: Ring der Erdelementar-Herrschaft
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg

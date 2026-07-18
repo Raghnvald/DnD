@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Tidal Wave
+Bezeichnung: Flutwelle
 Zaubergrad: 3
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Status: WIP
 linter-yaml-title-alias: Tidal Wave
 classes:
   - Bard
@@ -28,8 +29,9 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Tidal Wave
+Schaden:
 ---
-# Tidal Wave
+# Flutwelle
 *3rd-level, Conjuration*  
 
 - **Casting time:** 1 Action

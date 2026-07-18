@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnomes of Zilargo; Zil Schemes
+Status: WIP
 linter-yaml-title-alias: Gnomes of Zilargo; Zil Schemes
 tags:
   - Quelle/5e/erlw

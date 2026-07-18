@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Items
+Status: WIP
 linter-yaml-title-alias: Golgari Items
 tags:
   - Quelle/5e/ggr

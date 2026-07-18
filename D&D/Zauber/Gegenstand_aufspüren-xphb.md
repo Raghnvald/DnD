@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Locate Object
+Status: WIP
 linter-yaml-title-alias: Locate Object
 classes:
   - Bard

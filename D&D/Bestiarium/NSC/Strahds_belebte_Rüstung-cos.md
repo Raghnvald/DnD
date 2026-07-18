@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Strahd's Animated Armor"
+Status: WIP
 linter-yaml-title-alias: "Strahd's Animated Armor"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - "Strahd's Animated Armor"
-  - Strahd's Animated Armor
 ---
 # [Strahd's Animated Armor](3-Mechanics\CLI\bestiary\npc/strahds-animated-armor-cos.md)
 *Source: Curse of Strahd p. 227*  

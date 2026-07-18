@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Communication
+Status: WIP
 linter-yaml-title-alias: Boon of Communication
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of Communication"
+  - Boon of Communication
   - Boon of Communication
 ---
 # Boon of Communication

@@ -2,10 +2,10 @@
 Bezeichnung: Schusterwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 2,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schusterwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schusterwerkzeuge
+status: WIP
 ---
 # Schusterwerkzeuge
 *Handwerkszeug*

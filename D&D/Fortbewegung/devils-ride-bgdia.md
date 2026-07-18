@@ -1,14 +1,14 @@
 ---
 Bezeichnung: "Devil's Ride"
+Status: WIP
 linter-yaml-title-alias: "Devil's Ride"
 tags:
-  - Gegenstand/Fortbewegung/size/large
-  - Gegenstand/Fortbewegung/terrain/land
-  - Gegenstand/Fortbewegung/type/infernal-war-machine
+  - Gegenstand/Fortbewegung/Größe/Groß
+  - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Kategorie/Höllische-Kriegsmaschine
   - Quelle/5e/bgdia
 aliases:
   - "Devil's Ride"
-  - Devil's Ride
 ---
 # Devil's Ride
 %%-- Embedded content starts on the next line. --%%

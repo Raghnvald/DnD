@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Keep on the Borderlands
+Status: WIP
 linter-yaml-title-alias: Keep on the Borderlands
 tags:
   - Quelle/5e/hotb
 aliases:
-  - "Keep on the Borderlands"
+  - Keep on the Borderlands
   - Keep on the Borderlands
 ---
 # Keep on the Borderlands

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters and Motivations; Monster Motivation
+Status: WIP
 linter-yaml-title-alias: Monsters and Motivations; Monster Motivation
 tags:
   - Quelle/5e/dmg

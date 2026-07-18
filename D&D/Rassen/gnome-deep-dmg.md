@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome (Deep)
+Status: WIP
 linter-yaml-title-alias: Gnome (Deep)
 tags:
   - Quelle/5e/dmg

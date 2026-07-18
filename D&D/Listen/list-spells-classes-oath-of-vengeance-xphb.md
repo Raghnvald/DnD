@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Oath of Vengeance
+Status: WIP
 linter-yaml-title-alias: Spells for Oath of Vengeance
 tags:
-  - Zauber/list/subclass/oath-of-vengeance
+  - Zauber/Liste/subclass/oath-of-vengeance
 aliases:
   - Spells for Oath of Vengeance
 ---

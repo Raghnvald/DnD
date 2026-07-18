@@ -2,10 +2,10 @@
 Bezeichnung: Laute
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 35 GM
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Laute
 tags:
   - Gegenstand/Ausrüstung/Instrument
@@ -17,7 +17,7 @@ aliases:
 # Laute
 *Instrument*  
 
-- **Cost**: 35 gp
-- **Weight**: 2.0 lbs.
+- **Kosten**: 35 GM
+- **Gewicht**: 2.0 lbs.
 
 *Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

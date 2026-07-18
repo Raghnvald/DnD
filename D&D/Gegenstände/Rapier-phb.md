@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rapier
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Rapier
 tags:
   - Gegenstand/Seltenheit/keine
@@ -9,6 +10,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Rapier
+status: WIP
+Original: Rapier
 ---
 # Rapier
 *Weapon*  

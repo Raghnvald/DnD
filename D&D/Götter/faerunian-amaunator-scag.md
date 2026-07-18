@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Amaunator
+Status: WIP
 linter-yaml-title-alias: Amaunator
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Amaunator

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Arch Heart
+Status: WIP
 linter-yaml-title-alias: The Arch Heart
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Corellon

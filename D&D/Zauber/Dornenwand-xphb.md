@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wall of Thorns
+Status: WIP
 linter-yaml-title-alias: Wall of Thorns
 classes:
   - Bard

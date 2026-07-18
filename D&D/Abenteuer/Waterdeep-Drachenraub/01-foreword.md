@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Foreword
+Status: WIP
 linter-yaml-title-alias: Foreword
 tags:
   - Quelle/5e/wdh

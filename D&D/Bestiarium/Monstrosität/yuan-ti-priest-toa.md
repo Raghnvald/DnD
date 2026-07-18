@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Priest
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Priest
 tags:
   - Monster/Größe/Mittelgroß

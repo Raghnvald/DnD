@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Strixhaven Initiate
+Status: WIP
 linter-yaml-title-alias: Spells for Strixhaven Initiate
 tags:
-  - ttrpg-cli/spell/list/feat/strixhaven-initiate
+  - Zauber/Liste/feat/strixhaven-initiate
 aliases:
-  - "Spells for Strixhaven Initiate"
+  - Spells for Strixhaven Initiate
   - Spells for Strixhaven Initiate
 ---
 # Spells for Strixhaven Initiate

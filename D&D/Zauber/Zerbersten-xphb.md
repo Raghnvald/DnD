@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shatter
+Status: WIP
 linter-yaml-title-alias: Shatter
 classes:
   - Artificer (Armorer)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Manual of Golems
+Status: WIP
 linter-yaml-title-alias: Manual of Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten

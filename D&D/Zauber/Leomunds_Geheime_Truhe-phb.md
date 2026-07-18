@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Leomund's Secret Chest"
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: "Leomund's Secret Chest"
 classes:
   - Bard (Magical Secrets)

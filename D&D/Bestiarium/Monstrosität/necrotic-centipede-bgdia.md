@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Necrotic Centipede
+Status: WIP
 linter-yaml-title-alias: Necrotic Centipede
 tags:
   - Monster/Größe/Riesig

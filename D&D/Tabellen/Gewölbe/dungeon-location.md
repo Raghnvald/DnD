@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Location
+Status: WIP
 linter-yaml-title-alias: Dungeon Location
 tags:
   - Quelle/5e/dmg

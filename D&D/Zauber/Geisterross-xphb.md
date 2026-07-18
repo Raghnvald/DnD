@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phantom Steed
+Status: WIP
 linter-yaml-title-alias: Phantom Steed
 classes:
   - Bard

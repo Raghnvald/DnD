@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Maul
 Kategorie: Nahkampf-Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Maul
 tags:
   - Gegenstand/Seltenheit/keine

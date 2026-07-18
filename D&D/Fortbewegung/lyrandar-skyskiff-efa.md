@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Lyrandar Skyskiff
+Status: WIP
 linter-yaml-title-alias: Lyrandar Skyskiff
 tags:
   - Quelle/5e/efa
-  - ttrpg-cli/vehicle/terrain/air
-  - ttrpg-cli/vehicle/type/elemental-airship
+  - Gegenstand/Fortbewegung/Gelände/Luft
+  - Gegenstand/Fortbewegung/Kategorie/Elementar-Luftschiff
 aliases:
-  - "Lyrandar Skyskiff"
+  - Lyrandar Skyskiff
   - Lyrandar Skyskiff
 ---
 # Lyrandar Skyskiff

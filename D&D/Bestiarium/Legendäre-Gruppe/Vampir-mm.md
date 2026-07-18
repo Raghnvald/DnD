@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vampire
+Status: WIP
 linter-yaml-title-alias: Vampire
 tags:
   - Monster/legendary-group

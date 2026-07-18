@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Initiate of the Comet
+Status: WIP
 linter-yaml-title-alias: Initiate of the Comet
 tags:
   - Monster/Größe/Mittelgroß

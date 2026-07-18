@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Zeboim
+Status: WIP
 linter-yaml-title-alias: Zeboim
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

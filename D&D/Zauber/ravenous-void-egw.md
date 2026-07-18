@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ravenous Void
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Ravenous Void
 tags:
   - Quelle/5e/egw

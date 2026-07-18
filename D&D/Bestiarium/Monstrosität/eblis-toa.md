@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eblis
+Status: WIP
 linter-yaml-title-alias: Eblis
 tags:
   - Monster/Größe/Groß

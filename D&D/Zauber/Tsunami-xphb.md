@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tsunami
+Status: WIP
 linter-yaml-title-alias: Tsunami
 classes:
   - Bard

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Relaxation"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Relaxation"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Relaxation"
-  - Downtime Activity: Relaxation
 ---
 # Downtime Activity: Relaxation
 *Source: Xanathar's Guide to Everything p. 131* 

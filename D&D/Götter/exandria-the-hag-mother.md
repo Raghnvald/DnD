@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Hag Mother
+Status: WIP
 linter-yaml-title-alias: The Hag Mother
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - The Hag Mother

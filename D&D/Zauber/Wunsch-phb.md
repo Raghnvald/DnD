@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wunsch
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Wunsch
 classes:
   - Bard (Magical Secrets)

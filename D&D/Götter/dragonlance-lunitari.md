@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Lunitari
+Status: WIP
 linter-yaml-title-alias: Lunitari
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Lunitari"
+  - Lunitari
   - Lunitari
 ---
 # Lunitari

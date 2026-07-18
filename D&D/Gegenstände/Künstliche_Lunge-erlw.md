@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ventilating Lungs
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Ventilating Lungs
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/erlw

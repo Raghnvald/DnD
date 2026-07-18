@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Otiluke's Freezing Sphere"
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: "Otiluke's Freezing Sphere"
 classes:
   - Bard (Magical Secrets)

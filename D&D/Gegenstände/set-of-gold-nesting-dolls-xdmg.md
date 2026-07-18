@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Set of gold nesting dolls
+Status: WIP
 linter-yaml-title-alias: Set of gold nesting dolls
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

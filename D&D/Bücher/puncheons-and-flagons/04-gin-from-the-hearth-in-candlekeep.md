@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Gin from The Hearth in Candlekeep
+Status: WIP
 linter-yaml-title-alias: Gin from The Hearth in Candlekeep
 tags:
   - Quelle/5e/paf
 aliases:
-  - "Gin from The Hearth in Candlekeep"
+  - Gin from The Hearth in Candlekeep
   - Gin from The Hearth in Candlekeep
 ---
 # Gin from The Hearth in Candlekeep

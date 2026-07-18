@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Haste
+Status: WIP
 linter-yaml-title-alias: Haste
 classes:
   - Artificer

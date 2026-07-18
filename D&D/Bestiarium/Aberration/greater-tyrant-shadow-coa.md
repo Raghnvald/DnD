@@ -5,15 +5,16 @@ Bezeichnung: Greater Tyrant Shadow
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 22
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Greater Tyrant Shadow
 tags:
   - Quelle/5e/coa
-  - ttrpg-cli/monster/cr/22
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/22
+  - Monster/Größe/Gigantisch
+  - Monster/Typ/Aberration
 aliases:
   - Greater Tyrant Shadow
+status: WIP
 ---
 # [Greater Tyrant Shadow](3-Mechanics/CLI/bestiary/aberration/greater-tyrant-shadow-coa.md)
 *Source: Chains of Asmodeus p. 256*  

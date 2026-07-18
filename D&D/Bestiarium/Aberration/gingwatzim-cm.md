@@ -5,7 +5,7 @@ Bezeichnung: Gingwatzim
 Kategorie: Aberration (Gestaltwandler)
 Größe: Klein
 HG: 2
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gingwatzim
 tags:
   - Monster/Größe/Klein
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Gingwatzim
+status: WIP
 ---
 # [Gingwatzim](3-Mechanics\CLI\bestiary\aberration/gingwatzim-cm.md)
 *Source: Candlekeep Mysteries p. 27*  

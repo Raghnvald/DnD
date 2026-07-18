@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Telekinesis
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Telekinesis
 classes:
   - Bard (Magical Secrets)

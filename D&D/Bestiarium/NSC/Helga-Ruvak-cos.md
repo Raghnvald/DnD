@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Helga Ruvak
+Status: WIP
 linter-yaml-title-alias: Helga Ruvak
 tags:
   - Monster/Größe/Mittelgroß

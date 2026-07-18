@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Restoring Harmony
+Status: WIP
 linter-yaml-title-alias: Restoring Harmony
 tags:
   - Quelle/5e/nrh-at
 aliases:
-  - "Restoring Harmony"
+  - Restoring Harmony
   - Restoring Harmony
 ---
 # Restoring Harmony

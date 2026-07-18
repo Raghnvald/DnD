@@ -1,9 +1,17 @@
 ---
 Bezeichnung: "Plate of Knight's Fellowship"
+Original: "Plate of Knight's Fellowship"
 Rüstung: Schwer
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: 32,5 kg
+RK: "18"
+STR: 15
+Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: "Plate of Knight's Fellowship"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt

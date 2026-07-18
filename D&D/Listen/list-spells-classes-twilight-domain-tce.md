@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Twilight Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Twilight Domain
 tags:
-  - Zauber/list/subclass/twilight-domain
+  - Zauber/Liste/subclass/twilight-domain
 aliases:
   - Spells for Twilight Domain
 ---

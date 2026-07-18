@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Flesh Golem
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Flesh Golem
 tags:
   - Monster/Größe/Mittelgroß

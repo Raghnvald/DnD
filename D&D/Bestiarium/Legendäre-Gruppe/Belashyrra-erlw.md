@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Belashyrra
+Status: WIP
 linter-yaml-title-alias: Belashyrra
 tags:
   - Monster/legendary-group

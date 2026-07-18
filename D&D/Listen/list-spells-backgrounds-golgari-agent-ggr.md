@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Golgari Agent
+Status: WIP
 linter-yaml-title-alias: Spells for Golgari Agent
 tags:
-  - Zauber/list/background/golgari-agent
+  - Zauber/Liste/background/golgari-agent
 aliases:
   - Spells for Golgari Agent
 ---

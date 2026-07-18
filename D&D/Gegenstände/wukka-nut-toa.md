@@ -2,10 +2,10 @@
 Bezeichnung: Wukka Nut
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Wukka Nut
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Docent
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Docent
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/erlw
 aliases:

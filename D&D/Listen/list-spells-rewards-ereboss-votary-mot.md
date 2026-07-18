@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Erebos's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Erebos's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/ereboss-votary
+  - Zauber/Liste/reward/ereboss-votary
 aliases:
   - "Spells for Erebos's Votary"
 ---

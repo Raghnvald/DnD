@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Elemental Essence Shard (Earth)
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Elemental Essence Shard (Earth)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce

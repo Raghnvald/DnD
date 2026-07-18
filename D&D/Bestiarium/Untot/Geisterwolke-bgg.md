@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spectral Cloud
+Status: WIP
 linter-yaml-title-alias: Spectral Cloud
 tags:
   - Monster/Größe/Riesig

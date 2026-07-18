@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Kiaransalee
+Status: WIP
 linter-yaml-title-alias: Kiaransalee
 tags:
-  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/Arkan
   - Kompendium/Götter/drow
   - Quelle/5e/scag
 aliases:
-  - "Kiaransalee"
+  - Kiaransalee
   - Kiaransalee
 ---
 # Kiaransalee

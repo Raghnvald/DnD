@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconian Infiltrator
+Status: WIP
 linter-yaml-title-alias: Draconian Infiltrator
 tags:
   - Monster/Größe/Mittelgroß

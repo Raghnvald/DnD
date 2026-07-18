@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cairnwight
+Status: WIP
 linter-yaml-title-alias: Cairnwight
 tags:
   - Monster/Größe/Riesig

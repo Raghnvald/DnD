@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Behir
+Status: WIP
 linter-yaml-title-alias: Behir
 tags:
   - Monster/Größe/Riesig

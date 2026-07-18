@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hollyphant
+Status: WIP
 linter-yaml-title-alias: Hollyphant
 tags:
   - Monster/Größe/Klein

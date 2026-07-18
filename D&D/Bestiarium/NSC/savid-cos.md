@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Savid
+Status: WIP
 linter-yaml-title-alias: Savid
 tags:
   - Monster/Größe/Mittelgroß

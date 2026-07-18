@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Fantasy Villains
+Status: WIP
 linter-yaml-title-alias: Dark Fantasy Villains
 tags:
   - Quelle/5e/vrgr

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Creation
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Creation
 classes:
   - Bard (Magical Secrets)

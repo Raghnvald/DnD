@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thought Spy
+Status: WIP
 linter-yaml-title-alias: Thought Spy
 tags:
   - Monster/Größe/Mittelgroß

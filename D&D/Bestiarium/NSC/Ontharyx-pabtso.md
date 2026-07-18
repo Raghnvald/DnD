@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ontharyx
 Image: token/ontharyx-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Ontharyx
 tags:
   - Monster/Größe/Mittelgroß

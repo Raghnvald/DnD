@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Emmek Frewn
+Status: WIP
 linter-yaml-title-alias: Emmek Frewn
 tags:
   - Monster/Größe/Mittelgroß

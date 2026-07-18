@@ -2,18 +2,20 @@
 Bezeichnung: Horned Ring
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Horned Ring
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/wdmm
 aliases:
   - Horned Ring
+status: WIP
 ---
 # Horned Ring
 *Ring, very rare (requires attunement)*  

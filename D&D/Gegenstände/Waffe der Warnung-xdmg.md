@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Weapon of Warning
+Status: WIP
 linter-yaml-title-alias: Weapon of Warning
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

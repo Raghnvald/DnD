@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nepartak
+Status: WIP
 linter-yaml-title-alias: Nepartak
 tags:
   - Monster/Größe/Winzig

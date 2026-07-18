@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Helm
+Status: WIP
 linter-yaml-title-alias: Helm
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "He of the Unsleeping Eyes"
-  - "Helm"
-  - "The Vigilant"
-  - "The Watcher"
+  - He of the Unsleeping Eyes
   - Helm
+  - Helm
+  - The Vigilant
+  - The Watcher
 ---
 # Helm
 *Source: Forgotten Realms: Heroes of Faerûn p. 108* 

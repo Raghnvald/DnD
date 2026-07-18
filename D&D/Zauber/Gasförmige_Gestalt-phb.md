@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Gaseous Form
+Bezeichnung: Gasförmige Gestalt
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Gaseous Form
 classes:
   - Bard (Magical Secrets)
@@ -24,8 +26,12 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Gaseous Form
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
-# Gaseous Form
+# Gasförmige Gestalt
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 Action

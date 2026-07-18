@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Musikinstrument
-Status:
+Status: WIP
 linter-yaml-title-alias: Musikinstrument
 tags:
   - Gegenstand/Ausrüstung/Instrument

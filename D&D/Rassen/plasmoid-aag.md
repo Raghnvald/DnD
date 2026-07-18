@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Plasmoid
+Status: WIP
 linter-yaml-title-alias: Plasmoid
 tags:
   - Quelle/5e/aag
   - Rasse/plasmoid
 aliases:
-  - "Plasmoid"
+  - Plasmoid
   - Plasmoid
 ---
 # Plasmoid

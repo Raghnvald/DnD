@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Mine"
+Status: WIP
 linter-yaml-title-alias: "Chamber Purpose; Dungeon: Mine"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Chamber Purpose; Dungeon: Mine"
-  - Chamber Purpose; Dungeon: Mine
 ---
 # Chamber Purpose; Dungeon: Mine
 *Source: Dungeon Master's Guide p. 292* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lamordia Adventures
+Status: WIP
 linter-yaml-title-alias: Lamordia Adventures
 tags:
   - Quelle/5e/vrgr

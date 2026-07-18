@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zhent Martial Arts Adept
+Status: WIP
 linter-yaml-title-alias: Zhent Martial Arts Adept
 tags:
   - Monster/Größe/Klein

@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: Fernkampf
+Angriff: Fern
 Schaden: 1d10 Feuer
+Status: WIP
 linter-yaml-title-alias: Feuerpfeil
 classes:
   - Bard (Magical Secrets)
@@ -19,7 +20,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high

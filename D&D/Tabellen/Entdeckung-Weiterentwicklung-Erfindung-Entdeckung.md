@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Entdeckung, Weiterentwicklung, Erfindung; Entdeckung
+Status: WIP
 linter-yaml-title-alias: Entdeckung, Weiterentwicklung, Erfindung; Entdeckung
 tags:
   - Quelle/5e/dmg

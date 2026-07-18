@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Wee Jas
+Status: WIP
 linter-yaml-title-alias: Wee Jas
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Wee Jas

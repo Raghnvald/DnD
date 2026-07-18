@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 14: Jester"
+Status: WIP
 linter-yaml-title-alias: "Chapter 14: Jester"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 14: Jester"
-  - Chapter 14: Jester
 ---
 # Chapter 14: Jester
 *Source: The Book of Many Things, p. 106* 

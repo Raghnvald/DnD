@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Energy Resistance
+Status: WIP
 linter-yaml-title-alias: Boon of Energy Resistance
 tags:
   - Kompendium/Talent

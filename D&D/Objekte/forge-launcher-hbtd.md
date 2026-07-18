@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Forge Launcher
+Status: WIP
 linter-yaml-title-alias: Forge Launcher
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/hbtd
 aliases:
-  - "Forge Launcher"
+  - Forge Launcher
   - Forge Launcher
 ---
 # Forge Launcher

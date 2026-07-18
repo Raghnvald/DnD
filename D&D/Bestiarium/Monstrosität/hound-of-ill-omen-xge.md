@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hound of Ill Omen
+Status: WIP
 linter-yaml-title-alias: Hound of Ill Omen
 tags:
   - Monster/Größe/Mittelgroß

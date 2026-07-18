@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Medani Heir
+Status: WIP
 linter-yaml-title-alias: House Medani Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Medani Heir"
+  - House Medani Heir
   - House Medani Heir
 ---
 # House Medani Heir

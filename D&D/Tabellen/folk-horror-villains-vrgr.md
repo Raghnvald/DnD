@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Horror Villains
+Status: WIP
 linter-yaml-title-alias: Folk Horror Villains
 tags:
   - Quelle/5e/vrgr

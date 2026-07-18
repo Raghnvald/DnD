@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Kurzbeinige Behändigkeit
-linter-yaml-title-alias: Squat Nimbleness
+Status: WIP
+linter-yaml-title-alias: Kurzbeinige Behändigkeit
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Squat Nimbleness
+  - Kurzbeinige Behändigkeit
 ---
 # Kurzbeinige Behändigkeit
 *Source: Xanathar's Guide to Everything p. 75*  

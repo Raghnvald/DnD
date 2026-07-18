@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tungsten Ward
+Status: WIP
 linter-yaml-title-alias: Tungsten Ward
 tags:
   - Monster/Größe/Mittelgroß

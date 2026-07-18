@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spellcasting Services; Magewright Casting Fees
+Status: WIP
 linter-yaml-title-alias: Spellcasting Services; Magewright Casting Fees
 tags:
   - Quelle/5e/erlw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Menagerie
+Status: WIP
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

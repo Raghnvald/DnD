@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 11: Moon"
+Status: WIP
 linter-yaml-title-alias: "Chapter 11: Moon"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 11: Moon"
-  - Chapter 11: Moon
 ---
 # Chapter 11: Moon
 *Source: The Book of Many Things, p. 81* 

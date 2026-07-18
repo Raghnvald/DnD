@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Circlet of Barbed Vision (Dormant)
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Circlet of Barbed Vision (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:

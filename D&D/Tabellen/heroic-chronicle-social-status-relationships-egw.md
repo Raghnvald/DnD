@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heroic Chronicle; Social Status Relationships
+Status: WIP
 linter-yaml-title-alias: Heroic Chronicle; Social Status Relationships
 tags:
   - Quelle/5e/egw

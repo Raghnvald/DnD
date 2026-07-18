@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Geryon
+Status: WIP
 linter-yaml-title-alias: Geryon
 tags:
   - Monster/legendary-group

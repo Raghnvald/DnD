@@ -1,21 +1,24 @@
 ---
-Bezeichnung: Luck Blade
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+Bezeichnung: Glücksklinge
+Original: Luck Blade
+Kategorie: Nahkampfwaffe, beliebiges Schwert
 Schaden: /
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-linter-yaml-title-alias: Luck Blade
+  - variiert
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+Status: completed
+linter-yaml-title-alias: Glücksklinge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Luck Blade
+  - Glücksklinge
   - Luck Blade Double-Bladed Scimitar
   - Luck Blade Greatsword
   - Luck Blade Longsword
@@ -23,64 +26,64 @@ aliases:
   - Luck Blade Scimitar
   - Luck Blade Shortsword
 ---
-# Luck Blade
-*Major, legendary (requires attunement)*  
-![](img/luck-blade.webp#right)
+# Glücksklinge
+*Waffe (irgendein Schwert), legendär (erfordert Einstimmung)*
+<img src="luck-blade.webp" align="right" width="150">
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
+Du erhältst einen Bonus von +lauf Angriffs- und Schadenswürfe, die du mit dieser magischen Waffe ausführst. Solange du das Schwert am Körper trägst, erhältst du außerdem einen Bonus von+ 1 auf Rettungswürfe.
 
-## Luck
+## Glück
 
-If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.
+Wenn du das Schwert bei dir hast, kannst du dich auf dessen Glück berufen (keine Aktion notwendig), um einen Angriffs-, Attributs- oder Rettungswurf, der dir missfällt, zu wiederholen. Du musst den zweiten Wurf dann verwenden. Diese Eigenschaft kann vor der nächsten Morgendämmerung nicht erneut verwendet werden.
 
-## Wish
+## Wunsch
 
-The sword has `1d4 - 1` charges. While holding it, you can use an action to expend 1 charge and cast the [wish](/3-Mechanics/CLI/spells/wish.md) spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
+Das Schwert hat `1W4 - 1` Ladungen. Während du es hältst, kannst du eine Aktion verwenden und 1 Ladung ausgeben, um damit den Zauber [[Wunsch-phb|Wunsch]] zu wirken. Diese Eigenschaft kann bis zur nächsten Morgendämmerung nicht erneut verwendet werden. Das Schwert verliert diese Eigenschaft, wenn es über keine Ladungen mehr verfügt.
 
-**Variants**:
-- [Luck Blade Double-Bladed Scimitar](#Luck%20Blade%20Double-Bladed%20Scimitar)
-- [Luck Blade Greatsword](#Luck%20Blade%20Greatsword)
-- [Luck Blade Longsword](#Luck%20Blade%20Longsword)
-- [Luck Blade Rapier](#Luck%20Blade%20Rapier)
-- [Luck Blade Scimitar](#Luck%20Blade%20Scimitar)
-- [Luck Blade Shortsword](#Luck%20Blade%20Shortsword)
+**Varianten**:
+- [[#Glücksklinge-Krummsäbel]]
+- [[#Glücksklinge-Kurzschwert]]
+- [[#Glücksklinge-Langschwert]]
+- [[#Glücksklinge-Rapier]]
+- [[#Glücksklinge-Zweihandschwert]]
+- [[#Glücksklinge-Zweiklingiger Krummsäbel]]
 
-### Luck Blade Double-Bladed Scimitar
+### Glücksklinge-Krummsäbel
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Luck Blade Greatsword
+### Glücksklinge-Kurzschwert
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Luck Blade Longsword
+### Glücksklinge-Langschwert
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Luck Blade Rapier
+### Glücksklinge-Rapier
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Luck Blade Scimitar
+### Glücksklinge-Zweihandschwert
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Luck Blade Shortsword
+### Glücksklinge-Zweiklingiger Krummsäbel
 
-- **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-*Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 163. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Garl Glittergold
+Status: WIP
 linter-yaml-title-alias: Garl Glittergold
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

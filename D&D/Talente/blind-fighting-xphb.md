@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blind Fighting
+Status: WIP
 linter-yaml-title-alias: Blind Fighting
 tags:
   - Kompendium/Talent

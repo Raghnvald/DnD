@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Talona
+Status: WIP
 linter-yaml-title-alias: Talona
 tags:
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact of the Talisman
+Status: WIP
 linter-yaml-title-alias: Pact of the Talisman
 tags:
   - Kompendium/Optionales/pb

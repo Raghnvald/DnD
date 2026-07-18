@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Jar
+Status: WIP
 linter-yaml-title-alias: Magic Jar
 classes:
   - Bard

@@ -7,8 +7,7 @@ Größe: Groß
 HG: 7
 Habitat:
   - Stadt
-image: token/shield-guardian.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schildwächter
 tags:
   - Monster/Größe/Groß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Schildwächter
   - Shield Guardian
+image: token/shield-guardian.webp
+status: WIP
 ---
 # Schildwächter
 *Quelle: Monsterhandbuch S. 247. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -5,7 +5,7 @@ Bezeichnung: Core Spawn Seer
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 13
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Core Spawn Seer
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Core Spawn Seer
+status: WIP
 ---
 # [Core Spawn Seer](3-Mechanics\CLI\bestiary\aberration/core-spawn-seer-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  

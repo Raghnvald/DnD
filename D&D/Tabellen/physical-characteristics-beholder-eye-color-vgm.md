@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Eye Color
+Status: WIP
 linter-yaml-title-alias: Physical Characteristics; Beholder Eye Color
 tags:
   - Quelle/5e/vgm

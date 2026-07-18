@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Kurzschwert
-Kategorie: Nahkampf-Kriegswaffe
-Schaden: 1W6 Stich
+Original: Shortsword
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1d6 Stich
 Eigenschaften:
-  - Finesse, Leicht
+  - Finesse
+  - Leicht
 Kst.: 10 GM
 Gew.: 1,0 kg
+Status: completed
 linter-yaml-title-alias: Kurzschwert
 tags:
   - Gegenstand/Seltenheit/keine
@@ -15,13 +18,14 @@ tags:
 aliases:
   - Kurzschwert
   - Shortsword
+status: WIP
 ---
 # Kurzschwert
-*Nahkampf-Kriegswaffe, gewöhnlich*
+*Nahkampf-Kriegswaffe*
 
-- **Schaden**: 1d6 Stich
+- **Schaden**: 1W6 Stich
 - **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
 - **Kosten**: 10 GM
-- **Gewicht**: 1.0 kg.
+- **Gewicht**: 1,0 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

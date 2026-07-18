@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire Storm
+Status: WIP
 linter-yaml-title-alias: Fire Storm
 classes:
   - Bard

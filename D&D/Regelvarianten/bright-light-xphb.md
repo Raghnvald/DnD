@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bright Light
+Status: WIP
 linter-yaml-title-alias: Bright Light
 tags:
   - Quelle/5e/xphb

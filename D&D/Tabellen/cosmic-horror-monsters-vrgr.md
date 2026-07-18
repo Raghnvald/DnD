@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cosmic Horror Monsters
+Status: WIP
 linter-yaml-title-alias: Cosmic Horror Monsters
 tags:
   - Quelle/5e/vrgr

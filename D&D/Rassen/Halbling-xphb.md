@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling
+Status: WIP
 linter-yaml-title-alias: Halfling
 tags:
   - Quelle/5e/xphb

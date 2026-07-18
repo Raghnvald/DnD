@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Gondafrey
+Status: WIP
 linter-yaml-title-alias: Lady Gondafrey
 tags:
   - Monster/Größe/Mittelgroß

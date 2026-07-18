@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manes Vaporspawn
+Status: WIP
 linter-yaml-title-alias: Manes Vaporspawn
 tags:
   - Monster/Größe/Mittelgroß

@@ -6,7 +6,8 @@ Reichweite: 3 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: n/v
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Vertrauten finden
 classes:
   - Bard (Magical Secrets)
@@ -17,8 +18,8 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1

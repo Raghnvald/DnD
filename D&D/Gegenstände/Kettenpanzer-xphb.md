@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Chain Mail
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Chain Mail
 tags:
   - Gegenstand/Rüstung/Schwer

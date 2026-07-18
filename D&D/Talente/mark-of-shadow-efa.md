@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Shadow
+Status: WIP
 linter-yaml-title-alias: Mark of Shadow
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Shadow"
+  - Mark of Shadow
   - Mark of Shadow
 ---
 # Mark of Shadow

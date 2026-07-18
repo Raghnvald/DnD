@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skeleton
+Status: WIP
 linter-yaml-title-alias: Skeleton
 tags:
   - Quelle/5e/dmg

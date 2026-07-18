@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snurrevin
+Status: WIP
 linter-yaml-title-alias: Snurrevin
 tags:
   - Monster/Größe/Mittelgroß

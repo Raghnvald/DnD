@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Goblin (Dankwood)
+Status: WIP
 linter-yaml-title-alias: Goblin (Dankwood)
 tags:
   - Quelle/5e/awm
   - Rasse/goblin/dankwood
 aliases:
-  - "Goblin (Dankwood)"
+  - Goblin (Dankwood)
   - Goblin (Dankwood)
 ---
 # Goblin (Dankwood)

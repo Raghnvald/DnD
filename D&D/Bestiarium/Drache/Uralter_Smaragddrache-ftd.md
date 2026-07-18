@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Emerald Dragon
 Kategorie: Drache (Edelstein)
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ancient Emerald Dragon
 tags:
   - Monster/Größe/Gigantisch
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ancient Emerald Dragon
+status: WIP
 ---
 # [Ancient Emerald Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 195*  

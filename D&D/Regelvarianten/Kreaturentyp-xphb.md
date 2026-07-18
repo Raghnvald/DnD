@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature Type
+Status: WIP
 linter-yaml-title-alias: Creature Type
 tags:
   - Quelle/5e/xphb

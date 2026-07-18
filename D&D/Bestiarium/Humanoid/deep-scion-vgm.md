@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deep Scion
+Status: WIP
 linter-yaml-title-alias: Deep Scion
 tags:
   - Monster/Größe/Mittelgroß

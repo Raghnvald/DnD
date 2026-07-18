@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maw Demon
+Status: WIP
 linter-yaml-title-alias: Maw Demon
 tags:
   - Monster/Größe/Mittelgroß

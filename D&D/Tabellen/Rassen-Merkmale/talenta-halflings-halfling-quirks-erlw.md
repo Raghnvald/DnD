@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talenta Halflings; Halfling Quirks
+Status: WIP
 linter-yaml-title-alias: Talenta Halflings; Halfling Quirks
 tags:
   - Quelle/5e/erlw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yuan-ti Names
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Names
 tags:
   - Quelle/5e/vgm

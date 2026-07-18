@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crafter
+Status: WIP
 linter-yaml-title-alias: Crafter
 tags:
   - Kompendium/Talent

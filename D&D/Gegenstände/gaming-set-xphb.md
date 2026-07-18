@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaming Set
+Status: WIP
 linter-yaml-title-alias: Gaming Set
 tags:
   - Gegenstand/Ausrüstung/Spielset

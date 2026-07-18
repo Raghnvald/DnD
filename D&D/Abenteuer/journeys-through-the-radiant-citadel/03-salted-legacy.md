@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Salted Legacy
+Status: WIP
 linter-yaml-title-alias: Salted Legacy
 tags:
   - Quelle/5e/jttrc
 aliases:
-  - "Salted Legacy"
+  - Salted Legacy
   - Salted Legacy
 ---
 # Salted Legacy

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nahual
+Status: WIP
 linter-yaml-title-alias: Nahual
 tags:
   - Monster/Größe/Mittelgroß

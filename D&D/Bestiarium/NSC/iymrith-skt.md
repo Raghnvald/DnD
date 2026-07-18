@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iymrith
+Status: WIP
 linter-yaml-title-alias: Iymrith
 tags:
   - Monster/Größe/Gigantisch

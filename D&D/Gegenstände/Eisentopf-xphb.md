@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Iron Pot
+Status: WIP
 linter-yaml-title-alias: Iron Pot
 tags:
   - Gegenstand/Ausrüstung/

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Moonstone Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Moonstone Dragon
 tags:
   - Monster/Größe/Gigantisch

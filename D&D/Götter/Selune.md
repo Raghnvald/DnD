@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selune, Göttin des Mondes
+Status: WIP
 linter-yaml-title-alias: Selune, Göttin des Mondes
 tags:
   - Kompendium/Götter

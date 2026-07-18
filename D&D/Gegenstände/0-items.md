@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Items
+Status: WIP
 linter-yaml-title-alias: Index of Items
 aliases:
   - Index of Items
@@ -913,7 +914,7 @@ aliases:
 - [Saddlebags](Satteltaschen-phb.md)
 - [Saffron](Safran-xdmg.md)
 - [Sailing Ship](./sailing-ship-xphb.md)
-- [Saint Markovia's Thighbone](Sankt_Markovias_Oberschenkelknoche-cos.md)
+- [Saint Markovia's Thighbone](Sankt_Markovias_Oberschenkelknochen-cos.md)
 - [Salt](Salz-xdmg.md)
 - [Sapphire Buckler](Saphirbeschützer-ftd.md)
 - [Sardonyx](Sardonyx-xdmg.md)

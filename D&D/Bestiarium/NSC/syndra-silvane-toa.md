@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Syndra Silvane
+Status: WIP
 linter-yaml-title-alias: Syndra Silvane
 tags:
   - Monster/Größe/Mittelgroß

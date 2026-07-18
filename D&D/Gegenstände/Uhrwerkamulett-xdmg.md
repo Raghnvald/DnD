@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clockwork Amulet
+Status: WIP
 linter-yaml-title-alias: Clockwork Amulet
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

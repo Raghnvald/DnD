@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Greenest in Flames"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Greenest in Flames"
 tags:
   - Quelle/5e/hotdq

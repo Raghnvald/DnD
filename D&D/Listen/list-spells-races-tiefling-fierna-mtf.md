@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Fierna)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Fierna)
 tags:
-  - Zauber/list/subrace/tiefling-fierna
+  - Zauber/Liste/subrace/tiefling-fierna
 aliases:
   - Spells for Tiefling (Fierna)
 ---

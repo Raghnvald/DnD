@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Hewards handlicher Kräuterbeutel
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Hewards handlicher Kräuterbeutel
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/xge
 aliases:
-  - Heward's Handy Spice Pouch
+  - "Heward's Handy Spice Pouch"
   - Hewards handlicher Kräuterbeutel
 ---
 # Hewards handlicher Kräuterbeutel

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Contingency
+Status: WIP
 linter-yaml-title-alias: Contingency
 classes:
   - Bard

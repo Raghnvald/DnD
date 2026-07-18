@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lords of Dust NPCs
+Status: WIP
 linter-yaml-title-alias: Lords of Dust NPCs
 tags:
   - Quelle/5e/erlw

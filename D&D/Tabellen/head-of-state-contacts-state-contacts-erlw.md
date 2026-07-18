@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Head of State Contacts; State Contacts
+Status: WIP
 linter-yaml-title-alias: Head of State Contacts; State Contacts
 tags:
   - Quelle/5e/erlw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Disaster Guilds
+Status: WIP
 linter-yaml-title-alias: Disaster Guilds
 tags:
   - Quelle/5e/ggr

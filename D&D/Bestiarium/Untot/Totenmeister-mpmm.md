@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathlock
+Status: WIP
 linter-yaml-title-alias: Deathlock
 tags:
   - Monster/Größe/Mittelgroß

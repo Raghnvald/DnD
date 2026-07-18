@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Locate Creature
+Status: WIP
 linter-yaml-title-alias: Locate Creature
 classes:
   - Bard

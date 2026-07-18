@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Storm Giant Tempest Caller
+Status: WIP
 linter-yaml-title-alias: Storm Giant Tempest Caller
 tags:
   - Monster/Größe/Riesig

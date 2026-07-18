@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Resistance
+Status: WIP
 linter-yaml-title-alias: Potion of Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

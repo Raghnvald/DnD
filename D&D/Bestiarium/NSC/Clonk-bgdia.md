@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clonk
+Status: WIP
 linter-yaml-title-alias: Clonk
 tags:
   - Monster/Größe/Mittelgroß

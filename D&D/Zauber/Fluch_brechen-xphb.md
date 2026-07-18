@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Remove Curse
+Status: WIP
 linter-yaml-title-alias: Remove Curse
 classes:
   - Bard

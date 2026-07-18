@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarves and Duergar
+Status: WIP
 linter-yaml-title-alias: Dwarves and Duergar
 tags:
   - Quelle/5e/mtf

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Immovable Rod
 Kategorie: Zepter
+Status: WIP
 linter-yaml-title-alias: Immovable Rod
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

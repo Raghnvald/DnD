@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Melira Taralen
+Status: WIP
 linter-yaml-title-alias: Melira Taralen
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lazav
+Status: WIP
 linter-yaml-title-alias: Lazav
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Relentless Juggernaut
+Status: WIP
 linter-yaml-title-alias: Relentless Juggernaut
 tags:
   - Monster/Größe/Groß

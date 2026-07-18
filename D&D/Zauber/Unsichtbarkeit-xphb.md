@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Invisibility
+Status: WIP
 linter-yaml-title-alias: Invisibility
 classes:
   - Artificer

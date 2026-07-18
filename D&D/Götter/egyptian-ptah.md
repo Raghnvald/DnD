@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ptah
+Status: WIP
 linter-yaml-title-alias: Ptah
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

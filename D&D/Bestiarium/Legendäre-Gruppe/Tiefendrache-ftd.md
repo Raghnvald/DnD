@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deep Dragon
+Status: WIP
 linter-yaml-title-alias: Deep Dragon
 tags:
   - Monster/legendary-group

@@ -2,10 +2,10 @@
 Bezeichnung: Schlitten
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 20 GM
 Gew.: 150,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schlitten
 tags:
   - Gegenstand/Ausrüstung
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schlitten
+status: completed
 ---
 # Schlitten
 *Fahrzeug (Land)*

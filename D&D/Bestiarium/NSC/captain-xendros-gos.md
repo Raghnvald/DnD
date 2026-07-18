@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Captain Xendros
+Status: WIP
 linter-yaml-title-alias: Captain Xendros
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Restorative Ointment
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Restorative Ointment
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

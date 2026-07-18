@@ -5,7 +5,7 @@ Bezeichnung: Mantler
 Kategorie: Aberration
 Größe: Groß
 HG: 8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Mantler
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Cloaker
   - Mantler
+status: WIP
 ---
 # Mantler
 *Source: Monster Manual p. 41. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -88,7 +89,6 @@ Mantler ziehen die Isolation vor, aber manchmal kommen sie mit anderen Mantlern 
 > Wenn eine Kreatur den Mantler zum Ziel eines Angriffs oder schädigenden Zaubers macht, solange noch ein Duplikat existiert, würfelt die Kreatur zufällig, um zu bestimmen, ob sie den Mantler oder eines der Duplikate erwischt. Eine Kreatur ist nicht von diesem magischen Effekt betroffen, wenn sie nicht sehen kann oder andere Sinne als ihre Sicht nutzt. 
 > Ein Duplikat hat die RK des Mantlers und nutzt seine Rettungswürfe. Wenn ein Angriff das Duplikat trifft oder es einen Rettungswurf gegen einen Effekt, der Schaden verursacht, nicht schafft, dann verschwindet das Duplikat. 
 ^statblock
-
 
 ## Vorkommen 
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riverine
+Status: WIP
 linter-yaml-title-alias: Riverine
 tags:
   - Monster/Größe/Groß

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Daanvi, the Perfect Order
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Daanvi, the Perfect Order
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Daanvi, the Perfect Order"
+  - Manifest Charm of Daanvi, the Perfect Order
   - Manifest Charm of Daanvi, the Perfect Order
 ---
 # Manifest Charm of Daanvi, the Perfect Order

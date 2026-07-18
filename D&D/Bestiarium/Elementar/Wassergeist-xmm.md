@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Water Weird
+Status: WIP
 linter-yaml-title-alias: Water Weird
 tags:
   - Monster/Größe/Groß

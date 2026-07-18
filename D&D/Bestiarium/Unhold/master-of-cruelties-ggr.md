@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master of Cruelties
+Status: WIP
 linter-yaml-title-alias: Master of Cruelties
 tags:
   - Monster/Größe/Groß

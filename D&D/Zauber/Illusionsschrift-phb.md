@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Illusory Script
+Bezeichnung: Illusionsschrift
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Minute
+Reichweite: Berührung
+Komponenten: G, M
+Wirkungsdauer: 10 Tage
 Angriff:
 Schaden:
-linter-yaml-title-alias: Illusory Script
+Status: WIP
+linter-yaml-title-alias: Illusionsschrift
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,8 +20,8 @@ tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
@@ -28,9 +29,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Illusion
 aliases:
-  - Illusory Script
+  - Illusionsschrift
 ---
-# Illusory Script
+# Illusionsschrift
 *1st-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

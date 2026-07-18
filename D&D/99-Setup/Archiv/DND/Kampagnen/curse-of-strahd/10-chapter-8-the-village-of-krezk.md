@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 8: The Village of Krezk"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: The Village of Krezk"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 8: The Village of Krezk"
-  - Chapter 8: The Village of Krezk
 ---
 # Chapter 8: The Village of Krezk
 *Source: Curse of Strahd, p. 143* 

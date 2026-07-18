@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Trickery Domain
+Status: WIP
 linter-yaml-title-alias: Trickery Domain
 tags:
   - Klasse/Kleriker/trickery
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Quelle/5e/xphb
 aliases:
   - Trickery Domain

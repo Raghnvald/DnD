@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Entertainer's Pack"
+Status: WIP
 linter-yaml-title-alias: "Entertainer's Pack"
 tags:
   - Gegenstand/Ausrüstung/

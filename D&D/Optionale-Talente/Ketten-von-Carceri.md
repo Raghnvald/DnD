@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ketten von Carceri
+Status: WIP
 linter-yaml-title-alias: Ketten von Carceri
 tags:
   - Kompendium/Optionales/Anrufungen

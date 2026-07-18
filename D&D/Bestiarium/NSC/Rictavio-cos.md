@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rictavio
+Status: WIP
 linter-yaml-title-alias: Rictavio
 tags:
   - Monster/Größe/Mittelgroß

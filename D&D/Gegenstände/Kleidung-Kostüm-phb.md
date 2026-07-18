@@ -1,23 +1,23 @@
 ---
-Bezeichnung: Kleidung (Kostüm)
+Bezeichnung: Kleidung, Kostüm
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 2,0 kg
-status: WIP
-linter-yaml-title-alias: Kleidung (Kostüm)
+Status: completed 
+linter-yaml-title-alias: Kleidung, Kostüm
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Kleidung (Kostüm)
+  - Kleidung, Kostüm
 ---
-# Kleidung (Kostüm)
-*Adventuring gear*  
+# Kleidung, Kostüm
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 gp
-- **Weight**: 4.0 lbs.
+- **Kosten**: 5 GM
+- **Gewicht**: 2,0 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

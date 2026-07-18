@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ginger
 Kst.: 1 GM
+Status: WIP
 linter-yaml-title-alias: Ginger
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

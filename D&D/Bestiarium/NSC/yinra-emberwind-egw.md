@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yinra Emberwind
+Status: WIP
 linter-yaml-title-alias: Yinra Emberwind
 tags:
   - Monster/Größe/Mittelgroß

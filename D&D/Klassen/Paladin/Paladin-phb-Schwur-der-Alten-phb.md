@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of the Ancients
+Status: WIP
 linter-yaml-title-alias: Oath of the Ancients
 tags:
   - Klasse/Paladin/Schwur-der-Alten

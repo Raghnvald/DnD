@@ -1,7 +1,15 @@
 ---
-Bezeichnung: Hunting Rifle
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Hunting Rifle
+Bezeichnung: Gewehr, Jagd
+Original: Hunting Rifle
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Eigenschaften:
+  - Geschosse
+  - Nachladen (5 Schuss)
+  - Zweihändig
+Kst.: n/v
+Gew.: 4,0 kg
+Status: completed
+linter-yaml-title-alias: Gewehr, Jagd
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,14 +17,14 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
-  - Hunting Rifle
+  - Gewehr, Jagd
 ---
-# Hunting Rifle
-*Weapon*  
+# Gewehr, Jagd
+*Fernkampf-Kriegswaffe, modern*
 
-- **Damage**: 2d10 piercing
-- **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 8.0 lbs.
+- **Schaden**: 2W10 Stich
+- **Reichweite**: 24/72
+- **Properties**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Nachladen|Nachladen]] (5 Schuss), [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 4,0 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

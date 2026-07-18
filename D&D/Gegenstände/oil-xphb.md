@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oil
+Status: WIP
 linter-yaml-title-alias: Oil
 tags:
   - Gegenstand/Ausrüstung/

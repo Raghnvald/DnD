@@ -5,7 +5,7 @@ Bezeichnung: Star Spawn Larva Mage
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 16
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Star Spawn Larva Mage
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mtf
 aliases:
   - Star Spawn Larva Mage
+status: WIP
 ---
 # [Star Spawn Larva Mage](3-Mechanics\CLI\bestiary\aberration/star-spawn-larva-mage-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 235, Waterdeep: Dungeon of the Mad Mage*  

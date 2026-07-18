@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Norse Pantheon; Norse Deities
+Status: WIP
 linter-yaml-title-alias: The Norse Pantheon; Norse Deities
 tags:
   - Quelle/5e/phb

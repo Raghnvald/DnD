@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 10: Descent into the Depths"
+Status: WIP
 linter-yaml-title-alias: "Chapter 10: Descent into the Depths"
 tags:
   - Quelle/5e/oota

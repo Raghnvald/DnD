@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rotbrenner-Schläger
 Image: token/redbrand-ruffian-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Rotbrenner-Schläger
 tags:
   - Monster/Größe/Mittelgroß

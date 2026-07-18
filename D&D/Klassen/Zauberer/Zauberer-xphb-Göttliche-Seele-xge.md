@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Divine Soul
+Status: WIP
 linter-yaml-title-alias: Divine Soul
 tags:
   - Klasse/Zauberer/divine-soul

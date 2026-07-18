@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Talons Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Talons Card
 tags:
   - Gegenstand/Seltenheit/legendär

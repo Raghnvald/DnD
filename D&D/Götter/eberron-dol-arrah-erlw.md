@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Dol Arrah
+Status: WIP
 linter-yaml-title-alias: Dol Arrah
 tags:
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/twilight
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

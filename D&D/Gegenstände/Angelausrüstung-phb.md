@@ -2,10 +2,10 @@
 Bezeichnung: Angelausrüstung
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 2,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Angelausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,11 +15,11 @@ aliases:
   - Angelausrüstung
 ---
 # Angelausrüstung
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 4.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 2,0 kg
 
 Diese Zusammenstellung beinhaltet eine Angelrute, Angelschnur, Korkschwimmer, Stahlhaken, Bleigewichte, Seidenköder und engmaschige Netze
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

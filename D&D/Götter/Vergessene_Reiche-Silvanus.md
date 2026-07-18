@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Silvanus
+Status: WIP
 linter-yaml-title-alias: Silvanus
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

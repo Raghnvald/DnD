@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Piercing Arrow
+Status: WIP
 linter-yaml-title-alias: Piercing Arrow
 tags:
   - Kompendium/Optionales/as

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zorbo
+Status: WIP
 linter-yaml-title-alias: Zorbo
 tags:
   - Monster/Größe/Klein

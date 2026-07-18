@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Helm, Gott der Wachsamkeit
+Status: WIP
 linter-yaml-title-alias: Helm, Gott der Wachsamkeit
 tags:
   - Kompendium/Götter

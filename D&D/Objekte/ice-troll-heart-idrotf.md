@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ice Troll Heart
+Status: WIP
 linter-yaml-title-alias: Ice Troll Heart
 tags:
-  - Kompendium/Objekt/size/tiny
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/Winzig
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/idrotf
 aliases:
   - Ice Troll Heart

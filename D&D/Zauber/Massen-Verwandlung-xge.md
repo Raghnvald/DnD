@@ -6,6 +6,7 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Status: WIP
 linter-yaml-title-alias: Mass Polymorph
 classes:
   - Bard

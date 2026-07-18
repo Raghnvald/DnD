@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff
+Status: WIP
 linter-yaml-title-alias: Staff
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

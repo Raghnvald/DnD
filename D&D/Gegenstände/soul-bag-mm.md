@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Soul Bag
+Status: WIP
 linter-yaml-title-alias: Soul Bag
 tags:
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/mm
 aliases:
   - Soul Bag

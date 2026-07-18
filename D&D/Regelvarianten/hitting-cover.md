@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hitting Cover
+Status: WIP
 linter-yaml-title-alias: Hitting Cover
 tags:
   - Quelle/5e/dmg

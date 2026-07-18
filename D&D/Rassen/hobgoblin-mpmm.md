@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hobgoblin
+Status: WIP
 linter-yaml-title-alias: Hobgoblin
 tags:
   - Quelle/5e/mpmm

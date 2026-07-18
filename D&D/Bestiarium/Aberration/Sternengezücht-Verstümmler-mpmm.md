@@ -5,7 +5,7 @@ Bezeichnung: Star Spawn Mangler
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Star Spawn Mangler
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Star Spawn Mangler
+status: WIP
 ---
 # [Star Spawn Mangler](3-Mechanics\CLI\bestiary\aberration/star-spawn-mangler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229*  

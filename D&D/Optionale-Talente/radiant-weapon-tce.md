@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Radiant Weapon
+Status: WIP
 linter-yaml-title-alias: Radiant Weapon
 tags:
   - Kompendium/Optionales/ai

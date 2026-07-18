@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dyrrn
+Status: WIP
 linter-yaml-title-alias: Dyrrn
 tags:
   - Monster/Größe/Mittelgroß

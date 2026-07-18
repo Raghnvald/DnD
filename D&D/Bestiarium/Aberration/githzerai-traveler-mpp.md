@@ -5,15 +5,16 @@ Bezeichnung: Githzerai Traveler
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 3
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Githzerai Traveler
 tags:
   - Quelle/5e/mpp
-  - ttrpg-cli/monster/cr/3
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration/gith
+  - Monster/HG/3
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration/gith
 aliases:
   - Githzerai Traveler
+status: WIP
 ---
 # [Githzerai Traveler](3-Mechanics/CLI/bestiary/aberration/githzerai-traveler-mpp.md)
 *Source: Morte's Planar Parade p. 31*  

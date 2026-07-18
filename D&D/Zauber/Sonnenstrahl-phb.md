@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sunbeam
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Sunbeam
 classes:
   - Bard (Magical Secrets)

@@ -2,10 +2,10 @@
 Bezeichnung: Giftmischerausrüstung
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Giftmischerausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

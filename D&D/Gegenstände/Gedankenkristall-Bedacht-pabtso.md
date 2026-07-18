@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mind Crystal (Careful)
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Mind Crystal (Careful)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

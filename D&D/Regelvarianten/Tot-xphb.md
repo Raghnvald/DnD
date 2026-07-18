@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dead
+Status: WIP
 linter-yaml-title-alias: Dead
 tags:
   - Quelle/5e/xphb

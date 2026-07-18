@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unicorn
+Status: WIP
 linter-yaml-title-alias: Unicorn
 tags:
   - Monster/legendary-group

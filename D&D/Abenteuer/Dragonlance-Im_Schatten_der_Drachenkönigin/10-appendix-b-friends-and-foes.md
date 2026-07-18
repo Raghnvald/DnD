@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Friends and Foes"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Friends and Foes"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Appendix B: Friends and Foes"
-  - Appendix B: Friends and Foes
 ---
 # Appendix B: Friends and Foes
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 191* 

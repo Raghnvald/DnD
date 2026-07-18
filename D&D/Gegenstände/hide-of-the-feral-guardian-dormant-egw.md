@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hide of the Feral Guardian (Dormant)
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Hide of the Feral Guardian (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw

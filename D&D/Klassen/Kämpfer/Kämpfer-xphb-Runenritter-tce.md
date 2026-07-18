@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rune Knight
+Status: WIP
 linter-yaml-title-alias: Rune Knight
 tags:
   - Klasse/Kämpfer/rune-knight

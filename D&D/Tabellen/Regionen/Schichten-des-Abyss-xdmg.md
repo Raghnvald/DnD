@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schichten des Abyss
+Status: WIP
 linter-yaml-title-alias: Schichten des Abyss
 tags:
   - Quelle/5e/xdmg

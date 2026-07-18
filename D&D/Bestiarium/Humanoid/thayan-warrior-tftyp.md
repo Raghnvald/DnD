@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thayan Warrior
+Status: WIP
 linter-yaml-title-alias: Thayan Warrior
 tags:
   - Monster/Größe/Mittelgroß

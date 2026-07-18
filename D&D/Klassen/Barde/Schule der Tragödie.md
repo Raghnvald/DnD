@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schule der Tragödie
+Status: WIP
 tags:
   - Klasse/Barde
   - Quelle/5e/tdcsr

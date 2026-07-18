@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bronze Dragon Treasures; Bronze Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Bronze Dragon Treasures; Bronze Dragon Art Objects
 tags:
   - Quelle/5e/ftd

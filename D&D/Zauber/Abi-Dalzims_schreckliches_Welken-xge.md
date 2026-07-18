@@ -7,11 +7,11 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 12d8 nekrotisch
-status: completed
+Status: completed
 linter-yaml-title-alias: Abi-Dalzims schreckliches Welken
 classes:
   - Barde
-  - Kleriker (Domäne Arcana)
+  - Kleriker (Domäne Arkan)
   - Magier
   - Zauberer
 tags:
@@ -24,8 +24,8 @@ tags:
   - Zauber/Original/Abi-Dalzims_Horrid_Wilting
   - Zauber/Schule/Nekromantie
 aliases:
-  - Abi-Dalzim's Horrid Wilting
   - Abi-Dalzims schreckliches Welken
+Original: "Abi-Dalzim's Horrid Wilting"
 ---
 # Abi-Dalzims schreckliches Welken
 *Nekromantie des 8. Grades*
@@ -36,9 +36,8 @@ aliases:
 - **Wirkungsdauer:** Unmittelbar
 
 Du entziehst allen Kreaturen in einem Würfel mit 9 m Kantenlänge, zentriert auf einen Punkt deiner Wahl innerhalb der Reichweite, die Feuchtigkeit. Jede Kreatur in diesem Bereich muss einen `Konstitutions-Rettungswurf` durchführen. Konstrukte und Untote sind davon nicht betroffen, und Pflanzen sowie Wasserelementare müssen diesen Rettungswurf mit Nachteil durchführen. Bei einem Fehlschlag erleidet eine Kreatur  `12d8` nekrotischen Schaden, die Hälfte davon bei einem Erfolg.
-
 $\quad$Nicht-magische Pflanzen im Bereich, die keine Kreaturen sind, etwa Bäume und Büsche, verwelken und sterben sofort.
 
-**Klassen**: [Barde](Listen/list-spells-classes-bard.md); [Kleriker (Domäne Arkan)](Listen/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magier](Listen/list-spells-classes-wizard.md) [Zauberer](Listen/list-spells-classes-sorcerer.md); [
+**Klassen**: [[list-spells-classes-bard|Barde]]; [[list-spells-classes-arcana-domain-scag|Kleriker (Domäne Arkan)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quelle: Xanathar's Guide to Everything p. 150*

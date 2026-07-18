@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Dre
+Status: WIP
 linter-yaml-title-alias: Lady Dre
 tags:
   - Monster/Größe/Mittelgroß

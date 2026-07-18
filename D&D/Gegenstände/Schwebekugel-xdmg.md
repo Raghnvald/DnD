@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Driftglobe
+Status: WIP
 linter-yaml-title-alias: Driftglobe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Genie
+Status: WIP
 linter-yaml-title-alias: The Genie
 tags:
   - Klasse/Hexenmeister/genie

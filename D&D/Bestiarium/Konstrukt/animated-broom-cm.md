@@ -7,7 +7,7 @@ Größe: Klein
 HG: 1/4
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Broom
 tags:
   - Monster/Größe/Klein
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Animated Broom
+status: WIP
 ---
 # [Animated Broom](3-Mechanics\CLI\bestiary\construct/animated-broom-cm.md)
 *Source: Candlekeep Mysteries p. 20*  

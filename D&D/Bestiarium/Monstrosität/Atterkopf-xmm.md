@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ettercap
+Status: WIP
 linter-yaml-title-alias: Ettercap
 tags:
   - Monster/Größe/Mittelgroß

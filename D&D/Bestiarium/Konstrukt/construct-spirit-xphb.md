@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Construct Spirit
+Status: WIP
 linter-yaml-title-alias: Construct Spirit
 tags:
   - Monster/Größe/Mittelgroß

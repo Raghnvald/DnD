@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Control Water
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Control Water
 classes:
   - Bard (Magical Secrets)

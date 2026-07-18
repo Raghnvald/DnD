@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Heironeous
+Status: WIP
 linter-yaml-title-alias: Heironeous
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Heironeous

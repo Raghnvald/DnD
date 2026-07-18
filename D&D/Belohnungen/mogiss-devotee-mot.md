@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Mogis's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Mogis's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

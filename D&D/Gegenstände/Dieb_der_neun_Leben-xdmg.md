@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Nine Lives Stealer
+Status: WIP
 linter-yaml-title-alias: Nine Lives Stealer
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

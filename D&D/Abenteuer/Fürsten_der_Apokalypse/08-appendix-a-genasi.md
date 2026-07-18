@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Genasi"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Genasi"
 tags:
   - Quelle/5e/pota

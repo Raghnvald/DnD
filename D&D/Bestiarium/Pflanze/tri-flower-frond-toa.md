@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tri-flower Frond
+Status: WIP
 linter-yaml-title-alias: Tri-flower Frond
 tags:
   - Monster/Größe/Mittelgroß

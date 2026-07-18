@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hulking Crab
+Status: WIP
 linter-yaml-title-alias: Hulking Crab
 tags:
   - Monster/Größe/Riesig

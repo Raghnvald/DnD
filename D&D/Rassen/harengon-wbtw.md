@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Harengon
+Status: WIP
 linter-yaml-title-alias: Harengon
 tags:
   - Quelle/5e/wbtw
   - Rasse/harengon
 aliases:
-  - "Harengon"
+  - Harengon
   - Harengon
 ---
 # Harengon

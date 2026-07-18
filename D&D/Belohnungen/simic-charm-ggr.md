@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Simic Charm
+Status: WIP
 linter-yaml-title-alias: Simic Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Simic Charm

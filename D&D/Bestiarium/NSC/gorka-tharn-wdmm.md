@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorka Tharn
+Status: WIP
 linter-yaml-title-alias: Gorka Tharn
 tags:
   - Monster/Größe/Mittelgroß

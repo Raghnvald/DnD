@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hook Horror
+Status: WIP
 linter-yaml-title-alias: Hook Horror
 tags:
   - Monster/Größe/Groß

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Tammeraut's Fate"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Tammeraut's Fate"
 tags:
   - Quelle/5e/gos
 aliases:
   - "Chapter 7: Tammeraut's Fate"
-  - Chapter 7: Tammeraut's Fate
 ---
 # Chapter 7: Tammeraut's Fate
 *Source: Ghosts of Saltmarsh, p. 141* 

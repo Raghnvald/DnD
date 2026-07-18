@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Sinne
+Status: WIP
 linter-yaml-title-alias: Sinne
 tags:
   - Quelle/5e/phb
 aliases:
-  - Sinne
   - Senses
+  - Sinne
 ---
 # Sinne
 

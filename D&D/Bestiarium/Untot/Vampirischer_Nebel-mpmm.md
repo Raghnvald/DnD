@@ -5,7 +5,7 @@ Bezeichnung: Vampiric Mist
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 3
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vampiric Mist
 tags:
   - Monster/Größe/Mittelgroß
@@ -22,6 +22,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Vampiric Mist
+status: WIP
 ---
 # [Vampiric Mist](3-Mechanics\CLI\bestiary\undead/vampiric-mist-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250*  

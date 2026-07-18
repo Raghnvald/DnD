@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sunbeam
+Status: WIP
 linter-yaml-title-alias: Sunbeam
 classes:
   - Bard

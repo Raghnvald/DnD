@@ -3,15 +3,17 @@ Bezeichnung: Zauberabwehrschild
 Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Einstimmung: erforderlich
+Status: completed
 linter-yaml-title-alias: Zauberabwehrschild
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
@@ -23,8 +25,8 @@ aliases:
 <img src="spellguard-shield.webp" align="right" width="150">
 
 - **Rüstungsklasse**: 2
-- **Gewicht**: 3,0 kg.s.
+- **Gewicht**: 3,0 kg
 
 Während du diesen Schild trägst, hast du einen Vorteil auf Rettungswürfe gegen Zauber und andere magische Eigenschaften, und Zauberangriffe gegen dich sind im Nachteil.
 
-*Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic Zone
+Status: WIP
 linter-yaml-title-alias: Wild Magic Zone
 tags:
   - Kompendium/Bedrohung/env

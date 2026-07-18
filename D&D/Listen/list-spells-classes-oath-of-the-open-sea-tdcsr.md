@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Oath of the Open Sea
+Status: WIP
 linter-yaml-title-alias: Spells for Oath of the Open Sea
 tags:
-  - Zauber/list/subclass/oath-of-the-open-sea
+  - Zauber/Liste/subclass/oath-of-the-open-sea
 aliases:
   - Spells for Oath of the Open Sea
 ---

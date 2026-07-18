@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scaled Toughness
+Status: WIP
 linter-yaml-title-alias: Scaled Toughness
 tags:
   - Kompendium/Belohnung/draconic-gift

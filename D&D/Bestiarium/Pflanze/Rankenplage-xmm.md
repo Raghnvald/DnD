@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vine Blight
+Status: WIP
 linter-yaml-title-alias: Vine Blight
 tags:
   - Monster/Größe/Mittelgroß

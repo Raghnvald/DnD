@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Moonstone Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Moonstone Dragon Wyrmling
+status: WIP
 ---
 # [Moonstone Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/moonstone-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 213*  

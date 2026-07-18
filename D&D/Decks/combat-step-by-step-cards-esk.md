@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Combat Step by Step Cards
+Status: WIP
 linter-yaml-title-alias: Combat Step by Step Cards
 tags:
   - Quelle/5e/esk
 aliases:
-  - "Combat Step by Step Cards"
+  - Combat Step by Step Cards
   - Combat Step by Step Cards
 ---
 # Combat Step by Step Cards

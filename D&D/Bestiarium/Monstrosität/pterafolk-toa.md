@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pterafolk
+Status: WIP
 linter-yaml-title-alias: Pterafolk
 tags:
   - Monster/Größe/Groß

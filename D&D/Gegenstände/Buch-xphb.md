@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Buch
+Status: WIP
 linter-yaml-title-alias: Buch
 tags:
   - Gegenstand/Ausrüstung/

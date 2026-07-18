@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bandagh
+Status: WIP
 linter-yaml-title-alias: Bandagh
 tags:
   - Monster/Größe/Mittelgroß

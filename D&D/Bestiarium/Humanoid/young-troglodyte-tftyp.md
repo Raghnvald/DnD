@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Troglodyte
+Status: WIP
 linter-yaml-title-alias: Young Troglodyte
 tags:
   - Monster/Größe/Klein

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Travel at Sea
+Status: WIP
 linter-yaml-title-alias: Travel at Sea
 tags:
   - Quelle/5e/gos
 aliases:
-  - "Travel at Sea"
+  - Travel at Sea
   - Travel at Sea
 ---
 # Travel at Sea

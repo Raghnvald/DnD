@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Foresworn
+Status: WIP
 linter-yaml-title-alias: Foresworn
 tags:
   - Monster/Größe/Mittelgroß

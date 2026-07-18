@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hill Giant Subchief
+Status: WIP
 linter-yaml-title-alias: Hill Giant Subchief
 tags:
   - Monster/Größe/Riesig

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Gear and Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Gear and Magic Items"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Appendix A: Gear and Magic Items"
-  - Appendix A: Gear and Magic Items
 ---
 # Appendix A: Gear and Magic Items
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 188* 

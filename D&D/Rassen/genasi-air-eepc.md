@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Genasi (Air)
+Status: WIP
 linter-yaml-title-alias: Genasi (Air)
 tags:
   - Quelle/5e/eepc

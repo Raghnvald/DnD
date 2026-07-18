@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Map
+Status: WIP
 linter-yaml-title-alias: Map
 tags:
   - Gegenstand/Ausrüstung/

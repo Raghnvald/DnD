@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pits
+Status: WIP
 linter-yaml-title-alias: Pits
 tags:
   - Kompendium/Bedrohung/mech

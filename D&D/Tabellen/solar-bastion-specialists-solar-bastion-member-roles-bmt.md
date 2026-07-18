@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solar Bastion Specialists; Solar Bastion Member Roles
+Status: WIP
 linter-yaml-title-alias: Solar Bastion Specialists; Solar Bastion Member Roles
 tags:
   - Quelle/5e/bmt

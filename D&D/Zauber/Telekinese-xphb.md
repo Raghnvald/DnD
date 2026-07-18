@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Telekinesis
+Status: WIP
 linter-yaml-title-alias: Telekinesis
 classes:
   - Bard

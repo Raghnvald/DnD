@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Story Tracker
+Status: WIP
 linter-yaml-title-alias: Story Tracker
 tags:
   - Quelle/5e/pabtso

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snow Maiden
+Status: WIP
 linter-yaml-title-alias: Snow Maiden
 tags:
   - Monster/Größe/Mittelgroß

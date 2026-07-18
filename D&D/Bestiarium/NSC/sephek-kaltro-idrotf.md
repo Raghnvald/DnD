@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sephek Kaltro
+Status: WIP
 linter-yaml-title-alias: Sephek Kaltro
 tags:
   - Monster/Größe/Mittelgroß

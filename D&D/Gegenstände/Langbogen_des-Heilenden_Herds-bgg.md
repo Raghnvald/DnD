@@ -1,38 +1,48 @@
 ---
-Bezeichnung: Longbow of the Healing Hearth
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Longbow of the Healing Hearth
+Bezeichnung: Langbogen des Heilenden Herds
+Original: Longbow of the Healing Hearth
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 1d8 Stich
+Eigenschaften:
+  - Geschosse
+  - Schwer
+  - Zweihändig
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: 1,0 kg
+Status: completed
+linter-yaml-title-alias: Langbogen des Heilenden Herds
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/bgg
 aliases:
-  - Longbow of the Healing Hearth
+  - Langbogen des Heilenden Herds
 ---
-# Longbow of the Healing Hearth
-*Weapon (longbow), legendary (requires attunement)*  
+# Langbogen des Heilenden Herds
+*Waffe ([[Langbogen-phb|Langbogen]]), legendär (erfordert Einstimmung)*  
 
-- **Damage**: 1d8 piercing
-- **Range**: 150/600
-- **Properties**: Ammunition, Heavy, Two-Handed
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d8 Stich
+- **Reichweite**: 45/180
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 1,0 kg
 
-This ivory longbow is inscribed with a prayer to the god Hiatea, the runes of which are entwined with gilded engravings of wheat stalks and deer antlers.
+In diesen Langbogen aus Elfenbein wurde ein Gebet an den Gott Hiatea graviert, dessen Runen mit vergoldeten Darstellungen von Weizenhalmen und Hirschgeweihen verschlungen sind.
 
-You gain a +3 bonus to attack and damage rolls made with this weapon. If you load no ammunition in the weapon, it produces its own, automatically creating one magic arrow when you pull back the string. The arrow created by the bow vanishes the instant after it hits or misses a target.
+Du erhältst einen Bonus von + 3 auf Angriffs- und Schadenswürfe, die du mit dieser Waffe ausführst. Ist die Waffe nicht geladen, erschafft sie automatisch eigene Geschosse ~ jeweils einen magischen Pfeil, wenn du die Sehne spannst. Die vom Bogen erzeugten Geschosse verschwinden, sobald sie ein Ziel getroffen oder verfehlt haben.
 
-The bow has 8 charges for the following properties, which you can use while wielding the bow. The bow regains `1d4 + 1` charges daily at dawn.
+Der Bogen hat acht Ladungen für die folgenden Eigenschaften, die du nutzen kannst, solange du den Bogen führst. Der Bogen erhält täglich im Morgengrauen `1W4+ 1` verbrauchte Ladungen zurück.
 
-## Curative Arrow
+## Heilender Pfeil
 
-When you take the Attack action using the bow, you can expend 1 charge to replace one of your attacks with a blazing arrow of curative magic, which automatically hits one creature you can see within 150 feet of you. The target can then immediately spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your Wisdom modifier (minimum of +1).
+Führst du die Angriffsaktion mit dem Bogen aus, kannst du eine Ladung verbrauchen, um einen deiner Angriffe durch einen lodernden Pfeil heilender Magie zu ersetzen, der automatisch eine für dich sichtbare Kreatur im Abstand von bis zu 45 Metern von dir trifft. Das Ziel kann dann sofort einen seiner unverbrauchten Trefferwürfel verbrauchen und mit diesem würfeln, um Trefferpunkte in Höhe des Würfelergebnisses plus seines Weisheitsmodifikators (mindestens + 1) zurückzuerhalten.
 
-If the target has no unspent Hit Dice remaining, nothing happens. You can use a curative arrow only once per turn.
+Wenn das Ziel keine unverbrauchten Trefferwürfel übrig hat, geschieht nichts. Du kannst nur einmal pro Zug einen Heilenden Pfeil verwenden.
 
-## Spellcasting
+## Zauberwirken
 
-While holding the bow, you can use an action to expend 1 or more of its charges to cast one of the following spells from it (save DC 18): create food and water (1 charge), warding bond (2 charges), guardian of faith (3 charges).
+Solange du den Bogen hältst, kannst du als Aktion eine oder mehrere Ladungen verbrauchen, um einen der folgenden Zauber mit ihm zu wirken (`Zauberrettungswurf-SG 18`): [[Nahrung_und_Wasser_erschaffen-phb|Nahrung und Wasser erschaffen]] (eine Ladung), [[Schützendes_Band-phb|Schützendes Band]] (zwei Ladungen) oder [[Hüter_des_Glaubens-phb|Hüter des Glaubens]] ( drei Ladungen).
 
-*Source: Bigby Presents: Glory of the Giants p. 113*
+*Quelle: Bigby präsentiert: Ruhm der Riesen S. 114*

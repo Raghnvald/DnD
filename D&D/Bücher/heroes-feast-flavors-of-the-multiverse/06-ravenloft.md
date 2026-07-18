@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ravenloft
+Status: WIP
 linter-yaml-title-alias: Ravenloft
 tags:
   - Quelle/5e/hffotm
 aliases:
-  - "Ravenloft"
+  - Ravenloft
   - Ravenloft
 ---
 # Ravenloft

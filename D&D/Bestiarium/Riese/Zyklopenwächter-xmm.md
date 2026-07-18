@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cyclops Sentry
+Status: WIP
 linter-yaml-title-alias: Cyclops Sentry
 tags:
   - Monster/Größe/Riesig

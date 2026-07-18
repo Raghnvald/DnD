@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Undead Snakes
+Status: WIP
 linter-yaml-title-alias: Swarm of Undead Snakes
 tags:
   - Monster/Größe/Mittelgroß

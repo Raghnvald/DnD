@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gnoll War Band; Demonic Influence
+Status: WIP
 linter-yaml-title-alias: Creating a Gnoll War Band; Demonic Influence
 tags:
   - Quelle/5e/vgm

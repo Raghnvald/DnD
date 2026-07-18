@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Titivilus
+Status: WIP
 linter-yaml-title-alias: Titivilus
 tags:
   - Monster/Größe/Mittelgroß

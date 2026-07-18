@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Strahd von Zarovich
+Status: WIP
 linter-yaml-title-alias: Strahd von Zarovich
 tags:
   - Monster/legendary-group

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Soul's Shape; Ankhtepot's Soul"
+Status: WIP
 linter-yaml-title-alias: "The Soul's Shape; Ankhtepot's Soul"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "The Soul's Shape; Ankhtepot's Soul"
-  - The Soul's Shape; Ankhtepot's Soul
 ---
 # The Soul's Shape; Ankhtepot's Soul
 *Source: Van Richten's Guide to Ravenloft p. 110* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcana - Selten
+Status: WIP
 linter-yaml-title-alias: Arcana - Selten
 tags:
   - Quelle/5e/xdmg

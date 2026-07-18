@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Red Shadow Dragon
+Status: WIP
 linter-yaml-title-alias: Young Red Shadow Dragon
 tags:
   - Monster/Größe/Groß

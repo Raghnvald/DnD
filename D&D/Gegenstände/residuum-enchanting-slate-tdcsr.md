@@ -2,10 +2,10 @@
 Bezeichnung: Residuum Enchanting Slate
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 20.000 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Residuum Enchanting Slate
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Residuum Enchanting Slate
+status: WIP
 ---
 # Residuum Enchanting Slate
 *Wondrous item, tool*  

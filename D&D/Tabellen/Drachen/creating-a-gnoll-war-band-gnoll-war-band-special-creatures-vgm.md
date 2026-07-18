@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gnoll War Band; Gnoll War Band Special Creatures
+Status: WIP
 linter-yaml-title-alias: Creating a Gnoll War Band; Gnoll War Band Special Creatures
 tags:
   - Quelle/5e/vgm

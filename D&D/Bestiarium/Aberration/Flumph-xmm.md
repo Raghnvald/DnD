@@ -5,6 +5,7 @@ Bezeichnung: Flumph
 Kategorie: Aberration
 Größe: Klein
 HG: 1/8
+Status: WIP
 linter-yaml-title-alias: Flumph
 tags:
   - Monster/Größe/Klein

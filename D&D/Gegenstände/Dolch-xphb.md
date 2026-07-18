@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dagger
+Status: WIP
 linter-yaml-title-alias: Dagger
 tags:
   - Gegenstand/Seltenheit/keine

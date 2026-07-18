@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Thard Harr
+Status: WIP
 linter-yaml-title-alias: Thard Harr
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

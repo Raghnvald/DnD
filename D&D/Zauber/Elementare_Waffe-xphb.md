@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Weapon
+Status: WIP
 linter-yaml-title-alias: Elemental Weapon
 classes:
   - Artificer

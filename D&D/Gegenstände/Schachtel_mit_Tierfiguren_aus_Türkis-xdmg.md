@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Box of turquoise animal figurines
+Status: WIP
 linter-yaml-title-alias: Box of turquoise animal figurines
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

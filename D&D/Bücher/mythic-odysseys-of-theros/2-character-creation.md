@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Character Creation
+Status: WIP
 linter-yaml-title-alias: Character Creation
 tags:
   - Quelle/5e/mot
 aliases:
-  - "Character Creation"
+  - Character Creation
   - Character Creation
 ---
 # Character Creation

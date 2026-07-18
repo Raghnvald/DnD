@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Signature Case
+Status: WIP
 linter-yaml-title-alias: Signature Case
 tags:
   - Quelle/5e/erlw

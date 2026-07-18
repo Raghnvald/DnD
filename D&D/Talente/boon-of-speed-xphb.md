@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Speed
+Status: WIP
 linter-yaml-title-alias: Boon of Speed
 tags:
   - Kompendium/Talent

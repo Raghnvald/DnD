@@ -2,10 +2,10 @@
 Bezeichnung: Eisentopf
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 5,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Eisentopf
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 2 GM
-- **Gewicht**: 5,0 kg.
+- **Gewicht**: 5,0 kg
 
 Ein Eisentopf fasst 4,0 Liter Flüssigkeit.
 

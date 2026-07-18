@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Traps; Trap Effects
+Status: WIP
 linter-yaml-title-alias: Random Traps; Trap Effects
 tags:
   - Quelle/5e/dmg

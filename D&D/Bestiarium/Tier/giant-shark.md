@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Shark
+Status: WIP
 linter-yaml-title-alias: Giant Shark
 tags:
   - Monster/Größe/Riesig

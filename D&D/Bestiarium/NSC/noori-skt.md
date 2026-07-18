@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Noori
+Status: WIP
 linter-yaml-title-alias: Noori
 tags:
   - Monster/Größe/Mittelgroß

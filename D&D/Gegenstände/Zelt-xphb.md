@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tent
+Status: WIP
 linter-yaml-title-alias: Tent
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heliod's Votary"
+Status: WIP
 linter-yaml-title-alias: "Heliod's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; General Features
+Status: WIP
 linter-yaml-title-alias: Dungeon Dressing; General Features
 tags:
   - Quelle/5e/dmg

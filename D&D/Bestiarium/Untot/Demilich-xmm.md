@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demilich
+Status: WIP
 linter-yaml-title-alias: Demilich
 tags:
   - Monster/Größe/Winzig

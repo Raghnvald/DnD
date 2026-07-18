@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loviatar, Göttin der Schmerzen
+Status: WIP
 linter-yaml-title-alias: Loviatar, Göttin der Schmerzen
 tags:
   - Kompendium/Götter

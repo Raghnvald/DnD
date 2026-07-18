@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kitchen
+Status: WIP
 linter-yaml-title-alias: Kitchen
 tags:
   - Kompendium/Bastion

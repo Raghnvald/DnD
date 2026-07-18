@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barkskin
+Status: WIP
 linter-yaml-title-alias: Barkskin
 classes:
   - Bard

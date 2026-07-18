@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seltenheit magischer Gegenstände
+Status: WIP
 linter-yaml-title-alias: Seltenheit magischer Gegenstände
 tags:
   - Quelle/5e/dmg

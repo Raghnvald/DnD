@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Staff of the Python
+Status: WIP
 linter-yaml-title-alias: Staff of the Python
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

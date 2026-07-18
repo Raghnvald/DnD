@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Shargaas
+Status: WIP
 linter-yaml-title-alias: Shargaas
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/orc
   - Quelle/5e/vgm
 aliases:

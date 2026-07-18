@@ -2,16 +2,18 @@
 Bezeichnung: "Sage's Signet (Serpent)"
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung durch einen Zauberwirker
-status: WIP
+  - n/v
+Einstimmung: durch einen Zauberwirker
+Status: WIP
 linter-yaml-title-alias: "Sage's Signet (Serpent)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Serpent)"
+status: WIP
 ---
 # Sage's Signet (Serpent)
 *Ring, rare (requires attunement by a spellcaster)*  

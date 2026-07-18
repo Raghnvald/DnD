@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Eiselcross Encounters: Levels 11–16"
+Status: WIP
 linter-yaml-title-alias: "Eiselcross Encounters: Levels 11–16"
 tags:
   - Quelle/5e/egw
 aliases:
   - "Eiselcross Encounters: Levels 11–16"
-  - Eiselcross Encounters: Levels 11–16
 ---
 # Eiselcross Encounters: Levels 11–16
 *Source: Explorer's Guide to Wildemount p. 122* 

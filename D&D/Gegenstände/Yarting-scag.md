@@ -2,10 +2,10 @@
 Bezeichnung: Yarting
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Yarting
 tags:
   - Gegenstand/Ausrüstung/Instrument

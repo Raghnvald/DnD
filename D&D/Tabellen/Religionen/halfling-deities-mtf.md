@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Deities
+Status: WIP
 linter-yaml-title-alias: Halfling Deities
 tags:
   - Quelle/5e/mtf

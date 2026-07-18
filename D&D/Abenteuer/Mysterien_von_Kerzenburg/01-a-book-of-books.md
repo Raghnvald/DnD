@@ -1,5 +1,6 @@
 ---
 Bezeichnung: A Book of Books
+Status: WIP
 linter-yaml-title-alias: A Book of Books
 tags:
   - Quelle/5e/cm

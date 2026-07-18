@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Creating Adventures"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Creating Adventures"
 tags:
   - Quelle/5e/ggr
 aliases:
   - "Chapter 4: Creating Adventures"
-  - Chapter 4: Creating Adventures
 ---
 # Chapter 4: Creating Adventures
 *Source: Guildmasters' Guide to Ravnica, p. 123* 

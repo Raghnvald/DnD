@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Saddle of the Cavalier
+Status: WIP
 linter-yaml-title-alias: Saddle of the Cavalier
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

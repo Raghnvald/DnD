@@ -5,7 +5,7 @@ Bezeichnung: Living Star (Necrotic)
 Kategorie: Aberration
 Größe: M oder S
 HG: 3
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Living Star (Necrotic)
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Living Star (Necrotic)
+status: WIP
 ---
 # [Living Star (Necrotic)](3-Mechanics\CLI\bestiary\aberration/living-star-necrotic-bmt.md)
 *Source: The Book of Many Things p. 180*  

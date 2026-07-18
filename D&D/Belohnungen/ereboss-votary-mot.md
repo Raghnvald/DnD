@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Erebos's Votary"
+Status: WIP
 linter-yaml-title-alias: "Erebos's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Life at Strixhaven
+Status: WIP
 linter-yaml-title-alias: Life at Strixhaven
 tags:
   - Quelle/5e/scc
 aliases:
-  - "Life at Strixhaven"
+  - Life at Strixhaven
   - Life at Strixhaven
 ---
 # Life at Strixhaven

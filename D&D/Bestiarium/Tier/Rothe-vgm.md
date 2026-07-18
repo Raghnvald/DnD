@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rothé
+Status: WIP
 linter-yaml-title-alias: Rothé
 tags:
   - Monster/Größe/Groß

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Sun
+Status: WIP
 linter-yaml-title-alias: Charm of the Sun
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of the Sun

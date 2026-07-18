@@ -2,10 +2,10 @@
 Bezeichnung: Ledererwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Ledererwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parry
+Status: WIP
 linter-yaml-title-alias: Parry
 tags:
   - Kompendium/Optionales/mv-b

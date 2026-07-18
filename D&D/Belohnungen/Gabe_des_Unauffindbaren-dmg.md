@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe des Unauffindbaren
+Status: WIP
 linter-yaml-title-alias: Gabe des Unauffindbaren
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Undetectability

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frostmourn
+Status: WIP
 linter-yaml-title-alias: Frostmourn
 tags:
   - Monster/Größe/Riesig

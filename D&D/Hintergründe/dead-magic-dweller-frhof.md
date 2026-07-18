@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Dead Magic Dweller
+Status: WIP
 linter-yaml-title-alias: Dead Magic Dweller
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Dead Magic Dweller"
+  - Dead Magic Dweller
   - Dead Magic Dweller
 ---
 # Dead Magic Dweller

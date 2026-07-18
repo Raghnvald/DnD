@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Storm Cannon
+Status: WIP
 linter-yaml-title-alias: Storm Cannon
 tags:
-  - Kompendium/Objekt/size/medium
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Mittelgroß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/hbtd
 aliases:
-  - "Storm Cannon"
+  - Storm Cannon
   - Storm Cannon
 ---
 # Storm Cannon

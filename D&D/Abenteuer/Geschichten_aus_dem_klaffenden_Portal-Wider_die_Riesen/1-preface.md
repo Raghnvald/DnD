@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Preface
+Status: WIP
 linter-yaml-title-alias: Preface
 tags:
   - Quelle/5e/tftyp-atg
 aliases:
-  - "Preface"
+  - Preface
   - Preface
 ---
 # Preface

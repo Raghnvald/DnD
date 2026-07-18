@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Healing
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Healing
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Healing"
+  - Greater Mark of Healing
   - Greater Mark of Healing
 ---
 # Greater Mark of Healing

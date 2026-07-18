@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Multiversum
+Status: WIP
 ---
 # Multiversum
 Als Multiversum, Universum oder Kosmos wird alles was in den Vergessenen Reiche existiert bezeichnet.

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Muk and Friends
+Status: WIP
 linter-yaml-title-alias: Muk and Friends
 tags:
   - Quelle/5e/awm
 aliases:
-  - "Muk and Friends"
+  - Muk and Friends
   - Muk and Friends
 ---
 # Muk and Friends

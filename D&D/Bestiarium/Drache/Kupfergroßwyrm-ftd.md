@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Copper Greatwyrm
 Kategorie: Drache (Metallisch)
 Größe: Gigantisch
+Status: WIP
 linter-yaml-title-alias: Copper Greatwyrm
 tags:
   - Monster/Größe/Gigantisch

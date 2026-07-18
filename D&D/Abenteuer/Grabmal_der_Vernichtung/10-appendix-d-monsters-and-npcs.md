@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix D: Monsters and NPCs"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Monsters and NPCs"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Appendix D: Monsters and NPCs"
-  - Appendix D: Monsters and NPCs
 ---
 # Appendix D: Monsters and NPCs
 *Source: Tomb of Annihilation, p. 209* 

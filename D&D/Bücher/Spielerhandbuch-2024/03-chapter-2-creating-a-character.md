@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Creating a Character"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Creating a Character"
 tags:
   - Quelle/5e/xphb
 aliases:
   - "Chapter 2: Creating a Character"
-  - Chapter 2: Creating a Character
 ---
 # Chapter 2: Creating a Character
 *Source: Player's Handbook (2024), p. 33* 

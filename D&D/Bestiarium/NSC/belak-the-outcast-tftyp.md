@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Belak the Outcast
+Status: WIP
 linter-yaml-title-alias: Belak the Outcast
 tags:
   - Monster/Größe/Mittelgroß

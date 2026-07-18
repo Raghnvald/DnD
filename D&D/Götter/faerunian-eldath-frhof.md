@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Eldath
+Status: WIP
 linter-yaml-title-alias: Eldath
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Eldath"
-  - "The Guardian of Groves"
-  - "The Mother of the Waters"
-  - "The Quiet One"
   - Eldath
+  - Eldath
+  - The Guardian of Groves
+  - The Mother of the Waters
+  - The Quiet One
 ---
 # Eldath
 *Source: Forgotten Realms: Heroes of Faerûn p. 106* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clockwork Mule
+Status: WIP
 linter-yaml-title-alias: Clockwork Mule
 tags:
   - Monster/Größe/Mittelgroß

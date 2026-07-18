@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dezmyr Shadowdusk
+Status: WIP
 linter-yaml-title-alias: Dezmyr Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß

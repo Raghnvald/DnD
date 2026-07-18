@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scholarly Standing
+Status: WIP
 linter-yaml-title-alias: Scholarly Standing
 tags:
   - Quelle/5e/erlw

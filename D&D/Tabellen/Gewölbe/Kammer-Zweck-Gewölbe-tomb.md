@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Tomb"
+Status: WIP
 linter-yaml-title-alias: "Chamber Purpose; Dungeon: Tomb"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Chamber Purpose; Dungeon: Tomb"
-  - Chamber Purpose; Dungeon: Tomb
 ---
 # Chamber Purpose; Dungeon: Tomb
 *Source: Dungeon Master's Guide p. 292* 

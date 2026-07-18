@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a White Dragon; White Dragon Spellcasting
+Status: WIP
 linter-yaml-title-alias: Creating a White Dragon; White Dragon Spellcasting
 tags:
   - Quelle/5e/ftd

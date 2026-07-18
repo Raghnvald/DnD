@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Loki
+Status: WIP
 linter-yaml-title-alias: Loki
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

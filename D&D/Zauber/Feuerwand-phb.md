@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wall of Fire
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Wall of Fire
 classes:
   - Bard (Magical Secrets)
@@ -14,7 +15,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer

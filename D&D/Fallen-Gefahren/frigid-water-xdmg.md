@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frigid Water
+Status: WIP
 linter-yaml-title-alias: Frigid Water
 tags:
   - Kompendium/Bedrohung/env

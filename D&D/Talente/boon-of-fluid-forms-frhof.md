@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Fluid Forms
+Status: WIP
 linter-yaml-title-alias: Boon of Fluid Forms
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of Fluid Forms"
+  - Boon of Fluid Forms
   - Boon of Fluid Forms
 ---
 # Boon of Fluid Forms

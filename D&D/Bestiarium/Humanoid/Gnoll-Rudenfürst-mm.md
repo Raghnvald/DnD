@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Pack Lord
+Status: WIP
 linter-yaml-title-alias: Gnoll Pack Lord
 tags:
   - Monster/Größe/Mittelgroß

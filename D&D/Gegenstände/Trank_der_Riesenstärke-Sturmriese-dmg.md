@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Storm Giant Strength
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Storm Giant Strength
 tags:
   - Gegenstand/Seltenheit/legendär

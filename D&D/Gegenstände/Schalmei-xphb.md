@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shawm
+Status: WIP
 linter-yaml-title-alias: Shawm
 tags:
   - Gegenstand/Ausrüstung/Instrument

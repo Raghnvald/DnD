@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Map Test
+Status: WIP
 ---
 # Map Test
 ```base

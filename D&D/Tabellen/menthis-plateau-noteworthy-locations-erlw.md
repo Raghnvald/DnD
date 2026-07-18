@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Menthis Plateau: Noteworthy Locations"
+Status: WIP
 linter-yaml-title-alias: "Menthis Plateau: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Menthis Plateau: Noteworthy Locations"
-  - Menthis Plateau: Noteworthy Locations
 ---
 # Menthis Plateau: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 169* 

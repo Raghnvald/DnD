@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Emerald Enclave Grove
+Status: WIP
 linter-yaml-title-alias: Emerald Enclave Grove
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof
 aliases:
-  - "Emerald Enclave Grove"
+  - Emerald Enclave Grove
   - Emerald Enclave Grove
 ---
 # Emerald Enclave Grove

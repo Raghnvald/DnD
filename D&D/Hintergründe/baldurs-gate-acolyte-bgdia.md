@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Acolyte"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Acolyte"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Acolyte"
-  - Baldur's Gate Acolyte
 ---
 # Baldur's Gate Acolyte
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 127*  

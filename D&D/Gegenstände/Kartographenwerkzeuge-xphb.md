@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Cartographer's Tools"
+Status: WIP
 linter-yaml-title-alias: "Cartographer's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling
+Status: WIP
 linter-yaml-title-alias: Tiefling
 tags:
   - Quelle/5e/xphb

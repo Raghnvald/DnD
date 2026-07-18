@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Qawasha
+Status: WIP
 linter-yaml-title-alias: Qawasha
 tags:
   - Monster/Größe/Mittelgroß

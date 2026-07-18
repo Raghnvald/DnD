@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Diminution
+Status: WIP
 linter-yaml-title-alias: Potion of Diminution
 tags:
   - Gegenstand/Seltenheit/selten

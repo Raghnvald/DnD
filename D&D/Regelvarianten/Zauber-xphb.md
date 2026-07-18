@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell
+Status: WIP
 linter-yaml-title-alias: Spell
 tags:
   - Quelle/5e/xphb

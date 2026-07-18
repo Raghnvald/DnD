@@ -5,7 +5,7 @@ Bezeichnung: Ankylosaurus
 Kategorie: Tier
 Größe: Riesig
 HG: "3"
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ankylosaurus
 tags:
   - Monster/Größe/Riesig
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ankylosaurus
+status: WIP
 ---
 # [Ankylosaurus](3-Mechanics\CLI\bestiary\beast/ankylosaurus.md)
 *Source: Monster Manual p. 79. Available in the Basic Rules (2014)*  

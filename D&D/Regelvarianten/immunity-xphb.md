@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Immunity
+Status: WIP
 linter-yaml-title-alias: Immunity
 tags:
   - Quelle/5e/xphb

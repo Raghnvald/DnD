@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poster Map
+Status: WIP
 linter-yaml-title-alias: Poster Map
 tags:
   - Quelle/5e/wdh

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cyric, Gott der Lügen
+Status: WIP
 linter-yaml-title-alias: Cyric, Gott der Lügen
 tags:
   - Kompendium/Götter

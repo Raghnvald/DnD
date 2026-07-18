@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mud Hulk
+Status: WIP
 linter-yaml-title-alias: Mud Hulk
 tags:
   - Monster/Größe/Groß

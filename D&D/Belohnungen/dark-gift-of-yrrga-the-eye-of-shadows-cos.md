@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Yrrga, the Eye of Shadows
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Yrrga, the Eye of Shadows
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Yrrga, the Eye of Shadows

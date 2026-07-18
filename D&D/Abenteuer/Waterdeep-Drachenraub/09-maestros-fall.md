@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Maestro's Fall"
+Status: WIP
 linter-yaml-title-alias: "Maestro's Fall"
 tags:
   - Quelle/5e/wdh
 aliases:
   - "Maestro's Fall"
-  - Maestro's Fall
 ---
 # Maestro's Fall
 *Source: Waterdeep: Dragon Heist, p. 131* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seemann (Pirat) (Variante)
+Status: WIP
 linter-yaml-title-alias: Seemann (Pirat) (Variante)
 tags:
   - Kompendium/Hintergrund

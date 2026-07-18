@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Halbork
+Status: WIP
 linter-yaml-title-alias: Halbork
 tags:
   - Quelle/5e/phb
 aliases:
-  - "Half-Orc"
   - Halbork
+  - Half-Orc
 ---
 # Halbork
 *Quelle: SRD / Grundregelwerk*  

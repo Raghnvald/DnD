@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scorpion
+Status: WIP
 linter-yaml-title-alias: Scorpion
 tags:
   - Monster/Größe/Winzig

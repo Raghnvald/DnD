@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Genie Touched
+Status: WIP
 linter-yaml-title-alias: Genie Touched
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Genie Touched"
+  - Genie Touched
   - Genie Touched
 ---
 # Genie Touched

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters of Ravenloft
+Status: WIP
 linter-yaml-title-alias: Monsters of Ravenloft
 tags:
   - Quelle/5e/vrgr

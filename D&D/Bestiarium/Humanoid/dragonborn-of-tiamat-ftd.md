@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonborn of Tiamat
+Status: WIP
 linter-yaml-title-alias: Dragonborn of Tiamat
 tags:
   - Monster/Größe/Mittelgroß

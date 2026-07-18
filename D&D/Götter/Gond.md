@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gond, Gott des Handwerks
+Status: WIP
 linter-yaml-title-alias: Gond, Gott des Handwerks
 tags:
   - Kompendium/Götter

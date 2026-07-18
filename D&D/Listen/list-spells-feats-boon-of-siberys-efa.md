@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Boon of Siberys
+Status: WIP
 linter-yaml-title-alias: Spells for Boon of Siberys
 tags:
-  - ttrpg-cli/spell/list/feat/boon-of-siberys
+  - Zauber/Liste/feat/boon-of-siberys
 aliases:
-  - "Spells for Boon of Siberys"
+  - Spells for Boon of Siberys
   - Spells for Boon of Siberys
 ---
 # Spells for Boon of Siberys

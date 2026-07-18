@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Dunkelsicht
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Dunkelsicht
 classes:
   - Bard (Magical Secrets)

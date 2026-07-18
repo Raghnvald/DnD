@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Earthboard
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Earthboard
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tdcsr
 aliases:

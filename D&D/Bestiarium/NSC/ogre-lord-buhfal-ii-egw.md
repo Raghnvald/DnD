@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Lord Buhfal II
+Status: WIP
 linter-yaml-title-alias: Ogre Lord Buhfal II
 tags:
   - Monster/Größe/Groß

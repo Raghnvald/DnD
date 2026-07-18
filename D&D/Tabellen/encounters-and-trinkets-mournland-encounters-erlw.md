@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Encounters and Trinkets; Mournland Encounters
+Status: WIP
 linter-yaml-title-alias: Encounters and Trinkets; Mournland Encounters
 tags:
   - Quelle/5e/erlw

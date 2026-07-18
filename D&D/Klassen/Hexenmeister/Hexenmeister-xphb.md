@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warlock
+Status: WIP
 linter-yaml-title-alias: Warlock
 tags:
   - Klasse/Hexenmeister

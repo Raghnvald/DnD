@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Brass Dragon; Brass Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a Brass Dragon; Brass Dragon Ideals
 tags:
   - Quelle/5e/ftd

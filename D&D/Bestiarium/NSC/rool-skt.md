@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rool
+Status: WIP
 linter-yaml-title-alias: Rool
 tags:
   - Monster/Größe/Mittelgroß

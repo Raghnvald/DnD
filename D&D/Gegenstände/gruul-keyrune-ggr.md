@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gruul Keyrune
+Status: WIP
 linter-yaml-title-alias: Gruul Keyrune
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ggr
 aliases:

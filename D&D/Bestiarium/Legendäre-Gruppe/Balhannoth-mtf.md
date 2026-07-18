@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Balhannoth
+Status: WIP
 linter-yaml-title-alias: Balhannoth
 tags:
   - Monster/legendary-group

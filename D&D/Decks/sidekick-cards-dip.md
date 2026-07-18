@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sidekick Cards
+Status: WIP
 linter-yaml-title-alias: Sidekick Cards
 tags:
   - Quelle/5e/dip

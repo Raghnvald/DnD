@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zorak Lightdrinker
+Status: WIP
 linter-yaml-title-alias: Zorak Lightdrinker
 tags:
   - Monster/Größe/Mittelgroß

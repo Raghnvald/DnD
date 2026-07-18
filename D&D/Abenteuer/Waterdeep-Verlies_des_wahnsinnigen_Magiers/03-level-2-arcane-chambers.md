@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 2: Arcane Chambers"
+Status: WIP
 linter-yaml-title-alias: "Level 2: Arcane Chambers"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 2: Arcane Chambers"
-  - Level 2: Arcane Chambers
 ---
 # Level 2: Arcane Chambers
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 27* 

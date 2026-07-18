@@ -6,7 +6,8 @@ Reichweite: Berührung
 Komponenten: G, M
 Wirkungsdauer: 8 Stunden
 Angriff: GES
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Fangschlinge
 classes:
   - Artificer
@@ -26,8 +27,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xge
   - Subklasse/abjurer
   - Subklasse/Mystischer-Ritter

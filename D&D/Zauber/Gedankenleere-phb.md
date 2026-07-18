@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mind Blank
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Mind Blank
 classes:
   - Bard (Magical Secrets)

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Pennant of the Vind Rune
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Pennant of the Vind Rune
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/skt

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dunbarrow Witch
+Status: WIP
 linter-yaml-title-alias: Dunbarrow Witch
 tags:
   - Monster/Größe/Mittelgroß

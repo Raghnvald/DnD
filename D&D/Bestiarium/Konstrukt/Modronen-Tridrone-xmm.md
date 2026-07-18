@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Modron Tridrone
+Status: WIP
 linter-yaml-title-alias: Modron Tridrone
 tags:
   - Monster/Größe/Mittelgroß

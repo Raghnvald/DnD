@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Schutzhülle gegen Lebendes
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Schutzhülle gegen Lebendes
 tags:
   - Klasse/Druide

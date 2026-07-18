@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nihiloor
+Status: WIP
 linter-yaml-title-alias: Nihiloor
 tags:
   - Monster/Größe/Mittelgroß

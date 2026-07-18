@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bursting Arrow
+Status: WIP
 linter-yaml-title-alias: Bursting Arrow
 tags:
   - Kompendium/Optionales/as

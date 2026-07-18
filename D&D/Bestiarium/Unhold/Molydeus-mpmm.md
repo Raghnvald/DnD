@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Molydeus
+Status: WIP
 linter-yaml-title-alias: Molydeus
 tags:
   - Monster/Größe/Riesig

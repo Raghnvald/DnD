@@ -1,19 +1,20 @@
 ---
-Bezeichnung: Chain (10 feet)
-linter-yaml-title-alias: Chain (10 feet)
+Bezeichnung: Kette (3 Meter)
+Status: WIP
+linter-yaml-title-alias: Kette (3 Meter)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Chain (10 feet)
+  - Kette (3 Meter)
 ---
-# Chain (10 feet)
-*Adventuring gear*  
+# Kette (3 Meter)
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 gp
-- **Weight**: 10.0 lbs.
+- **Kosten**: 5 GM
+- **Gewicht**: 10.0 lbs.
 
-A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+Eine Kette hat 10 Trefferpunkte. Sie kann mit einem erfolgreichen `Stärkewurf` gegen `SG 20` gesprengt werden. 
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

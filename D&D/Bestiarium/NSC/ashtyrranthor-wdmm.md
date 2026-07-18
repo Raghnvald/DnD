@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ashtyrranthor
 Kategorie: Drache
 Größe: Riesig
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ashtyrranthor
 tags:
   - Monster/Größe/Riesig
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Ashtyrranthor
+status: WIP
 ---
 # [Ashtyrranthor](3-Mechanics\CLI\bestiary\npc/ashtyrranthor-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 210*  

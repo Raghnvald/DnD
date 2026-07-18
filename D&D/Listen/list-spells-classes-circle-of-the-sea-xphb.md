@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Circle of the Sea
+Status: WIP
 linter-yaml-title-alias: Spells for Circle of the Sea
 tags:
-  - Zauber/list/subclass/circle-of-the-sea
+  - Zauber/Liste/subclass/circle-of-the-sea
 aliases:
   - Spells for Circle of the Sea
 ---

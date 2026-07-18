@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Suude (Brown)
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Suude (Brown)
 tags:
-  - Gegenstand/Ausrüstung/illegal-drug
+  - Gegenstand/Ausrüstung/Illegale-Droge
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/tdcsr
 aliases:
   - Suude (Brown)
+status: WIP
 ---
 # Suude (Brown)
 *Illegal drug*  

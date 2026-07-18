@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Lucent Destroyer
-Kategorie: Fernkampf-Kriegswaffe
+Original: Lucent Destroyer
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Lucent Destroyer
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
@@ -11,6 +13,7 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Lucent Destroyer
+status: WIP
 ---
 # Lucent Destroyer
 *Weapon (musket), very rare (requires attunement)*  

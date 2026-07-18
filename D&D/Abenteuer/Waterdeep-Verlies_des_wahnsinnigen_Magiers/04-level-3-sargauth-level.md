@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 3: Sargauth Level"
+Status: WIP
 linter-yaml-title-alias: "Level 3: Sargauth Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 3: Sargauth Level"
-  - Level 3: Sargauth Level
 ---
 # Level 3: Sargauth Level
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 43* 

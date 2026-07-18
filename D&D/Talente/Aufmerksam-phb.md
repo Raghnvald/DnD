@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aufmerksam
+Status: WIP
 linter-yaml-title-alias: Aufmerksam
 tags:
   - Kompendium/Talent

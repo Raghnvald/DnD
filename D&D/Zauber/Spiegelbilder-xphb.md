@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mirror Image
+Status: WIP
 linter-yaml-title-alias: Mirror Image
 classes:
   - Artificer (Armorer)

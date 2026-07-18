@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Prophet's Gambit"
+Status: WIP
 linter-yaml-title-alias: "Prophet's Gambit"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Prophet's Gambit"
-  - Prophet's Gambit
 ---
 # Prophet's Gambit
 *Source: Curse of Strahd* 

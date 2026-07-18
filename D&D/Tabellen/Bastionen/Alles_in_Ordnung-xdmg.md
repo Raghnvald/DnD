@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Alles in Ordnung
 Kategorie: Bastion
+Status: WIP
 linter-yaml-title-alias: Alles in Ordnung
 tags:
   - Quelle/5e/xdmg

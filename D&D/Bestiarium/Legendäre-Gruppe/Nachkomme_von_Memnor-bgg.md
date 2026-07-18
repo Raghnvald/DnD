@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Memnor
+Status: WIP
 linter-yaml-title-alias: Scion of Memnor
 tags:
   - Monster/legendary-group

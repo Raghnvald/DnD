@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Hither
+Status: WIP
 linter-yaml-title-alias: Hither
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Hither"
+  - Hither
   - Hither
 ---
 # Hither

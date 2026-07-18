@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Circlet of Barbed Vision
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Circlet of Barbed Vision
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr
 aliases:

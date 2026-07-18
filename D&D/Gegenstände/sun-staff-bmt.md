@@ -1,19 +1,23 @@
 ---
 Bezeichnung: Sun Staff
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung durch einen Druiden, Kleriker oder Magier
   - Vielseitig (1W8)
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
+Einstimmung: durch einen Druiden, Kleriker oder Magier
 linter-yaml-title-alias: Sun Staff
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bmt
 aliases:
   - Sun Staff
+status: WIP
+Original: Sun Staff
 ---
 # Sun Staff
 *Staff, weapon, rare (requires attunement by a cleric, druid, or wizard)*  

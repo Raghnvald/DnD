@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yorb
+Status: WIP
 linter-yaml-title-alias: Yorb
 tags:
   - Monster/Größe/Klein

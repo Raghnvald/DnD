@@ -7,8 +7,7 @@ Größe: Groß
 HG: "2"
 Habitat:
   - Grasland
-image: token/allosaurus.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Allosaurus
 tags:
   - Monster/Größe/Groß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Allosaurus
+image: token/allosaurus.webp
+status: WIP
 ---
 # [Allosaurus](3-Mechanics\CLI\bestiary\beast/allosaurus.md)
 *Source: Monster Manual p. 79. Available in the Basic Rules (2014)*  

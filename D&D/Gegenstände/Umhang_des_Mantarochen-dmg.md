@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cloak of the Manta Ray
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Cloak of the Manta Ray
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Riding Horse
+Status: WIP
 linter-yaml-title-alias: Skeletal Riding Horse
 tags:
   - Monster/Größe/Groß

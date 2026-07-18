@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thurstwell Vanthampur
+Status: WIP
 linter-yaml-title-alias: Thurstwell Vanthampur
 tags:
   - Monster/Größe/Mittelgroß

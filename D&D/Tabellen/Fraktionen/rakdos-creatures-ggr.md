@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Creatures
+Status: WIP
 linter-yaml-title-alias: Rakdos Creatures
 tags:
   - Quelle/5e/ggr

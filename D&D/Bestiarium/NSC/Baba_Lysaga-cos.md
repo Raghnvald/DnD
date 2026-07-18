@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Baba Lysaga
+Status: WIP
 linter-yaml-title-alias: Baba Lysaga
 tags:
   - Monster/Größe/Mittelgroß

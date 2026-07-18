@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Voice of the Chain Master
+Status: WIP
 linter-yaml-title-alias: Voice of the Chain Master
 tags:
   - Kompendium/Optionales/ei

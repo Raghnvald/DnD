@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shovel
+Status: WIP
 linter-yaml-title-alias: Shovel
 tags:
   - Gegenstand/Ausrüstung/

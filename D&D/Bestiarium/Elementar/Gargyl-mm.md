@@ -6,8 +6,7 @@ Bezeichnung: Gargoyle
 Kategorie: Elementar
 Größe: Mittelgroß
 HG: 2
-image: token/Gargyl.webp
-status:
+Status: WIP
 linter-yaml-title-alias: Gargoyle
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Gargoyle
+image: token/Gargyl.webp
+status:
 ---
 # [Gargoyle](3-Mechanics\CLI\bestiary\elemental/gargoyle.md)
 *Source: Monster Manual p. 140. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Bestow Curse
+Bezeichnung: Fluch
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Bestow Curse
 classes:
   - Bard (Magical Secrets)
@@ -22,8 +24,12 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Bestow Curse
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
-# Bestow Curse
+# Fluch
 *3rd-level, Necromancy*  
 
 - **Casting time:** 1 Action

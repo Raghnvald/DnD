@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bast
+Status: WIP
 linter-yaml-title-alias: Bast
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

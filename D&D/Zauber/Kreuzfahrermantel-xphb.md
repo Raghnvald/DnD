@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Crusader's Mantle"
+Status: WIP
 linter-yaml-title-alias: "Crusader's Mantle"
 classes:
   - Cleric (War Domain)

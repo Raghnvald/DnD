@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Elementals)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Elementals)
 tags:
   - Gegenstand/Seltenheit/selten

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Ooze
+Status: WIP
 linter-yaml-title-alias: Index of Ooze
 aliases:
   - Index of Ooze

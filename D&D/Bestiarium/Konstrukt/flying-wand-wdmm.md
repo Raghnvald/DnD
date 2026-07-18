@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Wand
+Status: WIP
 linter-yaml-title-alias: Flying Wand
 tags:
   - Monster/Größe/Klein

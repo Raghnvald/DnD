@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Bird"
+Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token, Bird"
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - "Quaal's Feather Token, Bird"
-  - Quaal's Feather Token, Bird
 ---
 # Quaal's Feather Token, Bird
 *Wondrous item, rare*  

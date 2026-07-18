@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Necropolis Encounters
+Status: WIP
 linter-yaml-title-alias: Giant Necropolis Encounters
 tags:
   - Quelle/5e/bgg

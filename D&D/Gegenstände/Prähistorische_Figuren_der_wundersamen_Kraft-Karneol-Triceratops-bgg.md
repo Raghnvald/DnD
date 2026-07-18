@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power, Carnelian Triceratops
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power, Carnelian Triceratops
 tags:
   - Gegenstand/Seltenheit/sehr_selten

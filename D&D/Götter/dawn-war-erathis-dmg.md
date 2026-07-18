@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Erathis
+Status: WIP
 linter-yaml-title-alias: Erathis
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Ordnung
   - Quelle/5e/dmg
 aliases:
   - Erathis

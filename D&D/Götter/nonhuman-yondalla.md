@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Yondalla
+Status: WIP
 linter-yaml-title-alias: Yondalla
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Dämmerung
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

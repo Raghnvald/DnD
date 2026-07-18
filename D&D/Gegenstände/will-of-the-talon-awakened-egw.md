@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Will of the Talon (Awakened)
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Will of the Talon (Awakened)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf

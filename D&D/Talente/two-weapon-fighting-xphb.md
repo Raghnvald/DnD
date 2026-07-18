@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Two-Weapon Fighting
+Status: WIP
 linter-yaml-title-alias: Two-Weapon Fighting
 tags:
   - Kompendium/Talent

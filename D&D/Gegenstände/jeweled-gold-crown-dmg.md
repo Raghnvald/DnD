@@ -2,13 +2,13 @@
 Bezeichnung: Jeweled gold crown
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 7.500 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Jeweled gold crown
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

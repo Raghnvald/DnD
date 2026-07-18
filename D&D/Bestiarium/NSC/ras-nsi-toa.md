@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ras Nsi
+Status: WIP
 linter-yaml-title-alias: Ras Nsi
 tags:
   - Monster/Größe/Mittelgroß

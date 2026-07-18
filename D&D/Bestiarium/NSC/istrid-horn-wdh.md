@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Istrid Horn
+Status: WIP
 linter-yaml-title-alias: Istrid Horn
 tags:
   - Monster/Größe/Mittelgroß

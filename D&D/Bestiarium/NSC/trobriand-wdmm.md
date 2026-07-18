@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trobriand
+Status: WIP
 linter-yaml-title-alias: Trobriand
 tags:
   - Monster/Größe/Groß

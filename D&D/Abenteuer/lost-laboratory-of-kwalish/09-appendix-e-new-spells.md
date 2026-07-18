@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix E: New Spells"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: New Spells"
 tags:
   - Quelle/5e/llk

@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Cure Wounds
 classes:
   - Artificer
@@ -28,12 +29,12 @@ tags:
   - Klasse/Druide/circle-of-the-moon
   - Klasse/Druide/circle-of-wildfire
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
   - Klasse/Waldläufer
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/gift-of-the-metallic-dragon
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/xphb
   - Subklasse/celestial-patron
   - Subklasse/divine-soul/good

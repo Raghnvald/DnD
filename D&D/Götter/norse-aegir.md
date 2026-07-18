@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Aegir
+Status: WIP
 linter-yaml-title-alias: Aegir
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

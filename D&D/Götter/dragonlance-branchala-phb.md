@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Branchala
+Status: WIP
 linter-yaml-title-alias: Branchala
 tags:
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Sword of Wounding
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+Status: WIP
 linter-yaml-title-alias: Sword of Wounding
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf

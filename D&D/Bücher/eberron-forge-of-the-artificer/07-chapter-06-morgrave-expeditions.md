@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 06: Morgrave Expeditions"
+Status: WIP
 linter-yaml-title-alias: "Chapter 06: Morgrave Expeditions"
 tags:
   - Quelle/5e/efa

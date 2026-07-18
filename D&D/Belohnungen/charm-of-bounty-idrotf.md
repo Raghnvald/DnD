@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Bounty
+Status: WIP
 linter-yaml-title-alias: Charm of Bounty
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - Charm of Bounty

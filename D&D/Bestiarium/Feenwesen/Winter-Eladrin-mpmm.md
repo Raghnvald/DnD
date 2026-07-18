@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Winter Eladrin
+Status: WIP
 linter-yaml-title-alias: Winter Eladrin
 tags:
   - Monster/Größe/Mittelgroß

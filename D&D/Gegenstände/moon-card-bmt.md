@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Moon Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Moon Card
 tags:
   - Gegenstand/Seltenheit/legendär

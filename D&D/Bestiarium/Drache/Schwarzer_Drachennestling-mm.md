@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Black Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Black Dragon Wyrmling
+status: WIP
 ---
 # [Black Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/black-dragon-wyrmling.md)
 *Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jade Statue
+Status: WIP
 linter-yaml-title-alias: Jade Statue
 tags:
   - Monster/Größe/Groß

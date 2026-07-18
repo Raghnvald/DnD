@@ -1,7 +1,9 @@
 ---
-Bezeichnung: "Melf's Acid Arrow"
+Bezeichnung: Melfs Säurepfeil
 Zaubergrad: 2
-linter-yaml-title-alias: "Melf's Acid Arrow"
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Melfs Säurepfeil
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Swamp)
@@ -18,9 +20,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 aliases:
-  - "Melf's Acid Arrow"
+  - Melfs Säurepfeil
 ---
-# Melf's Acid Arrow
+# Melfs Säurepfeil
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 Action

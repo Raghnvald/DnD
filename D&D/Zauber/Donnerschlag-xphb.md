@@ -6,6 +6,7 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Status: WIP
 linter-yaml-title-alias: Donnerschlag
 classes:
   - Artificer
@@ -29,13 +30,13 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xphb
   - Rasse/Elf/Hochelf
-  - Rasse/Kobold
+  - Rasse/kobold
   - Subklasse/evoker
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/0

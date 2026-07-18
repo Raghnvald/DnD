@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Sapphire Dragon; Sapphire Dragon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Creating a Sapphire Dragon; Sapphire Dragon Personality Traits
 tags:
   - Quelle/5e/ftd

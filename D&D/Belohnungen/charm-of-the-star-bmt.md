@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Star
+Status: WIP
 linter-yaml-title-alias: Charm of the Star
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of the Star

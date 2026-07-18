@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 23: Mad Wizard's Lair"
+Status: WIP
 linter-yaml-title-alias: "Level 23: Mad Wizard's Lair"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 23: Mad Wizard's Lair"
-  - Level 23: Mad Wizard's Lair
 ---
 # Level 23: Mad Wizard's Lair
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 289* 

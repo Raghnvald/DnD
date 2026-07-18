@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Calligrapher's Supplies"
+Status: WIP
 linter-yaml-title-alias: "Calligrapher's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

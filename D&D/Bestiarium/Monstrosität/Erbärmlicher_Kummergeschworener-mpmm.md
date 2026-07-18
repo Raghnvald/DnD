@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wretched Sorrowsworn
+Status: WIP
 linter-yaml-title-alias: Wretched Sorrowsworn
 tags:
   - Monster/Größe/Klein

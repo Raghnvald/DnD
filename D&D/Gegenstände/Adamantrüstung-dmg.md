@@ -3,9 +3,9 @@ Bezeichnung: Adamantrüstung
 Kategorie: Rüstung
 Rüstung: Mittel oder Schwer
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
+  - n/v
+Kst.: n/v
+Gew.: n/v
 RK: /
 STR: /
 Heiml.: /
@@ -98,7 +98,7 @@ Diese Rüstung ist mit Adamant verstärkt, eines der härtesten Materialien, die
 ### Adamant-Stachelrüstung 
 
 - **Rüstungsklasse**: 14 + GES Modifikator (max +2)
-- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Heimlichkeit**: The wearer has disadvantage on Stealth (DEX) checks. 
 - **Gewicht**: 45.0 lbs.
 
 *Quelle: Spielleiterhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cradle of the Frost Scion
+Status: WIP
 linter-yaml-title-alias: Cradle of the Frost Scion
 tags:
   - Monster/Größe/Gigantisch

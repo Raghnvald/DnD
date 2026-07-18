@@ -1,26 +1,27 @@
 ---
-Bezeichnung: Vicious Mockery
+Bezeichnung: Gehässiger Spott
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Vicious Mockery
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V
+Wirkungsdauer: Unmittelbar
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Gehässiger Spott
 classes:
   - Bard (Magical Secrets)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
-  - Kompendium/Talent/magic-initiate/bard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Barde-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verzauberung
 aliases:
-  - Vicious Mockery
+  - Gehässiger Spott
 ---
-# Vicious Mockery
+# Gehässiger Spott
 *cantrip, Enchantment*  
 
 - **Casting time:** 1 Action

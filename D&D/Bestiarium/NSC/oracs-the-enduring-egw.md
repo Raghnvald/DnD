@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oracs the Enduring
+Status: WIP
 linter-yaml-title-alias: Oracs the Enduring
 tags:
   - Monster/Größe/Gigantisch

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Purphoros's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Purphoros's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/purphoross-devotee
+  - Zauber/Liste/reward/purphoross-devotee
 aliases:
   - "Spells for Purphoros's Devotee"
 ---

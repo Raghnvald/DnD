@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gwyn
+Status: WIP
 tags:
   - player
 ac: 16
@@ -9,6 +10,7 @@ Gesinnung: Chaotisch Gut
 Hintergrund: Scharlatan
 hp: 67
 Klasse: Schurke
+level: 11
 modifier: 5
 pW: 10+5
 Rasse: Vulpin

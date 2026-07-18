@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Imp
+Status: WIP
 linter-yaml-title-alias: Imp
 tags:
   - Monster/Größe/Winzig

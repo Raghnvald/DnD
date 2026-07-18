@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sending Stones
+Status: WIP
 linter-yaml-title-alias: Sending Stones
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

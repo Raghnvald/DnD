@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Character Goals; Rakdos Assignments
+Status: WIP
 linter-yaml-title-alias: Rakdos Character Goals; Rakdos Assignments
 tags:
   - Quelle/5e/ggr

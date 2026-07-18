@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pub
+Status: WIP
 linter-yaml-title-alias: Pub
 tags:
   - Kompendium/Bastion

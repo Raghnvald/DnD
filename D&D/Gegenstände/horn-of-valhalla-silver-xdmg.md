@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horn of Valhalla, Silver
+Status: WIP
 linter-yaml-title-alias: Horn of Valhalla, Silver
 tags:
   - Gegenstand/Seltenheit/selten

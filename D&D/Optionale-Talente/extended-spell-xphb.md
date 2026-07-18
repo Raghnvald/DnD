@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Extended Spell
+Status: WIP
 linter-yaml-title-alias: Extended Spell
 tags:
   - Kompendium/Optionales/mm

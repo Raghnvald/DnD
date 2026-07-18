@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eyes of Minute Seeing
+Status: WIP
 linter-yaml-title-alias: Eyes of Minute Seeing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

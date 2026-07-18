@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grinda Garloth
+Status: WIP
 linter-yaml-title-alias: Grinda Garloth
 tags:
   - Monster/Größe/Mittelgroß

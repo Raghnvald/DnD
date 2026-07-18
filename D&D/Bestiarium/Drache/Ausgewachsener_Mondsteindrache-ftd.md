@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 15
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Moonstone Dragon
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Adult Moonstone Dragon
+status: WIP
 ---
 # [Adult Moonstone Dragon](3-Mechanics\CLI\bestiary\dragon/adult-moonstone-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 212*  

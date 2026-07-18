@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Topaz Dragon
+Status: WIP
 linter-yaml-title-alias: Young Topaz Dragon
 tags:
   - Monster/Größe/Groß

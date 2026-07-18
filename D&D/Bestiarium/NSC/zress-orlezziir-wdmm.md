@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zress Orlezziir
+Status: WIP
 linter-yaml-title-alias: Zress Orlezziir
 tags:
   - Monster/Größe/Mittelgroß

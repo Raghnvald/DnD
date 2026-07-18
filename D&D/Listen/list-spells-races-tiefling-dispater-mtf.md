@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Dispater)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Dispater)
 tags:
-  - Zauber/list/subrace/tiefling-dispater
+  - Zauber/Liste/subrace/tiefling-dispater
 aliases:
   - Spells for Tiefling (Dispater)
 ---

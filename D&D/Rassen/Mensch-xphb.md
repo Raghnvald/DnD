@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human
+Status: WIP
 linter-yaml-title-alias: Human
 tags:
   - Quelle/5e/xphb

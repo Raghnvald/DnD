@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Shambling Mound
+Status: WIP
 linter-yaml-title-alias: Undead Shambling Mound
 tags:
   - Monster/Größe/Groß

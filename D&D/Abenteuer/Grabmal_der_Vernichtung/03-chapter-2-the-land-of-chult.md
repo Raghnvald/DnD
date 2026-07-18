@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: The Land of Chult"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: The Land of Chult"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Chapter 2: The Land of Chult"
-  - Chapter 2: The Land of Chult
 ---
 # Chapter 2: The Land of Chult
 *Source: Tomb of Annihilation, p. 37* 

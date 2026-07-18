@@ -7,7 +7,7 @@ Größe: Groß
 HG: "2"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Table
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Animated Table
+status: WIP
 ---
 # [Animated Table](3-Mechanics\CLI\bestiary\construct/animated-table-tftyp.md)
 *Source: Tales from the Yawning Portal p. 230*  

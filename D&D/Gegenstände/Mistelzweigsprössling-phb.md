@@ -2,10 +2,10 @@
 Bezeichnung: Mistelzweigsprössling
 Kategorie: Fokus, Druidisch
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Mistelzweigsprössling
 tags:
   - Gegenstand/Ausrüstung

@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Spider Climb
+Bezeichnung: Spinnenklettern
 Zaubergrad: 2
-linter-yaml-title-alias: Spider Climb
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Spinnenklettern
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Forest)
@@ -22,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Spider Climb
+  - Spinnenklettern
 ---
-# Spider Climb
+# Spinnenklettern
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

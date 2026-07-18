@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Wave Shaper
+Status: WIP
 linter-yaml-title-alias: Sahuagin Wave Shaper
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Falcon the Hunter
+Status: WIP
 linter-yaml-title-alias: Falcon the Hunter
 tags:
   - Monster/Größe/Mittelgroß

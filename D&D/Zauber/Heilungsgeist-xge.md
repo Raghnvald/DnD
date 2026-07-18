@@ -1,12 +1,13 @@
 ---
-Bezeichnung: Healing Spirit
+Bezeichnung: Heilungsgeist
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Bonusaktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
-linter-yaml-title-alias: Healing Spirit
+Status: WIP
+linter-yaml-title-alias: Heilungsgeist
 classes:
   - Bard
   - Bard (College of Lore)
@@ -21,9 +22,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
 aliases:
-  - Healing Spirit
+  - Heilungsgeist
 ---
-# Healing Spirit
+# Heilungsgeist
 *2nd-level, Conjuration*  
 
 - **Casting time:** 1 Bonus Action

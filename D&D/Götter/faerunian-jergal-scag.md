@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Jergal
+Status: WIP
 linter-yaml-title-alias: Jergal
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Jergal

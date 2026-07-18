@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Dungeon Master's Workshop"
+Status: WIP
 linter-yaml-title-alias: "Dungeon Master's Workshop"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Dungeon Master's Workshop"
-  - Dungeon Master's Workshop
 ---
 # Dungeon Master's Workshop
 *Source: Dungeon Master's Guide (2014), p. 263* 

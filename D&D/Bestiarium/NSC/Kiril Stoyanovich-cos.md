@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kiril Stoyanovich
+Status: WIP
 linter-yaml-title-alias: Kiril Stoyanovich
 tags:
   - Monster/Größe/Mittelgroß

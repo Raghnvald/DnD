@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hammock of Worlds
+Status: WIP
 linter-yaml-title-alias: Hammock of Worlds
 tags:
   - Gegenstand/Seltenheit/legendär

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf
+Status: WIP
 linter-yaml-title-alias: Dwarf
 tags:
   - Quelle/5e/xphb

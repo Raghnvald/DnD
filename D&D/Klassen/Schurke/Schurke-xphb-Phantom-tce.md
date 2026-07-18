@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phantom
+Status: WIP
 linter-yaml-title-alias: Phantom
 tags:
   - Klasse/Schurke/phantom

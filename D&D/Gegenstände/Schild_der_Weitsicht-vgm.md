@@ -4,11 +4,12 @@ Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
   - /
-Kst.: /
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schild der Weitsicht
 tags:
   - Gegenstand/Rüstung/Schild/
@@ -16,6 +17,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Schild der Weitsicht
+status: WIP
 ---
 # Schild der Weitsicht
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Glassblower's Tools"
+Status: WIP
 linter-yaml-title-alias: "Glassblower's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

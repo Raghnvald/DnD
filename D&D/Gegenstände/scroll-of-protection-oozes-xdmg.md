@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Oozes)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Oozes)
 tags:
   - Gegenstand/Seltenheit/selten

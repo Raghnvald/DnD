@@ -2,10 +2,10 @@
 Bezeichnung: Parfüm (Phiole)
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Parfüm (Phiole)
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,8 +15,8 @@ aliases:
   - Parfüm (Phiole)
 ---
 # Parfüm (Phiole)
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 gp
+- **Kosten**: 5 GM
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

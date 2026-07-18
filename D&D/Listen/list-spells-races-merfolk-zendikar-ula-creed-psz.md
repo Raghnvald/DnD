@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Merfolk (Zendikar; Ula Creed)
+Status: WIP
 linter-yaml-title-alias: Spells for Merfolk (Zendikar; Ula Creed)
 tags:
-  - ttrpg-cli/spell/list/subrace/merfolk-zendikar-ula-creed
+  - Zauber/Liste/subrace/merfolk-zendikar-ula-creed
 aliases:
-  - "Spells for Merfolk (Zendikar; Ula Creed)"
+  - Spells for Merfolk (Zendikar; Ula Creed)
   - Spells for Merfolk (Zendikar; Ula Creed)
 ---
 # Spells for Merfolk (Zendikar; Ula Creed)

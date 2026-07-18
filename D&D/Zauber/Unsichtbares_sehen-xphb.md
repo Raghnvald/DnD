@@ -1,5 +1,6 @@
 ---
 Bezeichnung: See Invisibility
+Status: WIP
 linter-yaml-title-alias: See Invisibility
 classes:
   - Artificer
@@ -17,7 +18,7 @@ tags:
   - Klasse/Artifizient
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Kleriker/twilight-domain
   - Klasse/Magier
   - Klasse/Paladin/oath-of-the-watchers

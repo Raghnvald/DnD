@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Lost in Realmspace
+Status: WIP
 linter-yaml-title-alias: Lost in Realmspace
 tags:
   - Quelle/5e/hffotm
 aliases:
-  - "Lost in Realmspace"
+  - Lost in Realmspace
   - Lost in Realmspace
 ---
 # Lost in Realmspace

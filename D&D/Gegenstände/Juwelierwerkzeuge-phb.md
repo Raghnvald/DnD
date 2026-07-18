@@ -2,10 +2,10 @@
 Bezeichnung: Juwelierwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Juwelierwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

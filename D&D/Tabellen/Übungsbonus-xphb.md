@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Proficiency Bonus
+Status: WIP
 linter-yaml-title-alias: Proficiency Bonus
 tags:
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghost Story Monsters
+Status: WIP
 linter-yaml-title-alias: Ghost Story Monsters
 tags:
   - Quelle/5e/vrgr

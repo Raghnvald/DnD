@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Initiate of High Sorcery
+Status: WIP
 linter-yaml-title-alias: Initiate of High Sorcery
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
-  - "Initiate of High Sorcery"
+  - Initiate of High Sorcery
   - Initiate of High Sorcery
 ---
 # Initiate of High Sorcery

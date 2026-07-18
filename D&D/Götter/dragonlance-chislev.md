@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Chislev
+Status: WIP
 linter-yaml-title-alias: Chislev
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Chislev"
+  - Chislev
   - Chislev
 ---
 # Chislev

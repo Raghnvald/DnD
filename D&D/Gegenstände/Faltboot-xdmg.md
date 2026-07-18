@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folding Boat
+Status: WIP
 linter-yaml-title-alias: Folding Boat
 tags:
   - Gegenstand/Seltenheit/selten

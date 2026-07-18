@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Everlasting One
+Status: WIP
 linter-yaml-title-alias: Frost Giant Everlasting One
 tags:
   - Monster/Größe/Riesig

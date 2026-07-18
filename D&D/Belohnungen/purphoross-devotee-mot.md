@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Purphoros's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Purphoros's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

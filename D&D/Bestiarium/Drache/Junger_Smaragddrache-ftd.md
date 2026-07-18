@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Emerald Dragon
+Status: WIP
 linter-yaml-title-alias: Young Emerald Dragon
 tags:
   - Monster/Größe/Groß

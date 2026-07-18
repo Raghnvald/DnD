@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sea Spawn
+Status: WIP
 linter-yaml-title-alias: Sea Spawn
 tags:
   - Monster/Größe/Mittelgroß

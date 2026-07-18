@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Crusader's Mantle"
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: "Crusader's Mantle"
 classes:
   - Bard (Magical Secrets)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aurum NPCs
+Status: WIP
 linter-yaml-title-alias: Aurum NPCs
 tags:
   - Quelle/5e/erlw

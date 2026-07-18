@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lock
+Status: WIP
 linter-yaml-title-alias: Lock
 tags:
   - Gegenstand/Ausrüstung/

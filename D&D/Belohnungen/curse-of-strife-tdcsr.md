@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Curse of Strife
+Status: WIP
 linter-yaml-title-alias: Curse of Strife
 tags:
-  - Kompendium/Belohnung/curse
+  - Kompendium/Belohnung/Fluch
   - Quelle/5e/tdcsr
 aliases:
   - Curse of Strife

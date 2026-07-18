@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Legend Lore
+Status: WIP
 linter-yaml-title-alias: Legend Lore
 classes:
   - Bard
@@ -13,7 +14,7 @@ classes:
 tags:
   - Klasse/Barde
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Paladin/oath-of-glory
   - Quelle/5e/xphb

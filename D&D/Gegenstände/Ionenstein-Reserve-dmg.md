@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ioun Stone, Reserve
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Reserve
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg

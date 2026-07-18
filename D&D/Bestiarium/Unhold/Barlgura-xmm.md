@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barlgura
+Status: WIP
 linter-yaml-title-alias: Barlgura
 tags:
   - Monster/Größe/Groß

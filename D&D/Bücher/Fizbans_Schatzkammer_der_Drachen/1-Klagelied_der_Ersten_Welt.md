@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elegy for the First World
+Status: WIP
 linter-yaml-title-alias: Elegy for the First World
 tags:
   - Quelle/5e/ftd

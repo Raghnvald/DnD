@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Against the Giants
+Status: WIP
 linter-yaml-title-alias: Against the Giants
 tags:
   - Quelle/5e/tftyp-atg
 aliases:
-  - "Against the Giants"
+  - Against the Giants
   - Against the Giants
 ---
 # Against the Giants

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Steel Wind Strike
+Status: WIP
 linter-yaml-title-alias: Steel Wind Strike
 classes:
   - Bard

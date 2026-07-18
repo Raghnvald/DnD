@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gallows Speaker
+Status: WIP
 linter-yaml-title-alias: Gallows Speaker
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Ravenloft
+Status: WIP
 linter-yaml-title-alias: Welcome to Ravenloft
 tags:
   - Quelle/5e/vrgr

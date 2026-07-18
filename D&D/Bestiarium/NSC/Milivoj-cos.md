@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Milivoj
+Status: WIP
 linter-yaml-title-alias: Milivoj
 tags:
   - Monster/Größe/Mittelgroß

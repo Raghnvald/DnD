@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Summon Draconic Spirit
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Summon Draconic Spirit
 tags:
   - Quelle/5e/ftd

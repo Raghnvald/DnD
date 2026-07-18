@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sphere of Annihilation
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Sphere of Annihilation
 tags:
   - Gegenstand/Seltenheit/legendär

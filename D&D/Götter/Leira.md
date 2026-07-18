@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Leira, Göttin der Illusion
+Status: WIP
 linter-yaml-title-alias: Leira, Göttin der Illusion
 tags:
   - Kompendium/Götter

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Karkethzerethzerus, the Sable Despoiler
+Status: WIP
 linter-yaml-title-alias: Karkethzerethzerus, the Sable Despoiler
 tags:
   - Monster/Größe/Gigantisch

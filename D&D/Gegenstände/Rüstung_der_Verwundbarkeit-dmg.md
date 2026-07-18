@@ -3,16 +3,17 @@ Bezeichnung: Rüstung der Verwundbarkeit
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
+  - Verflucht
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Rüstung der Verwundbarkeit
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
@@ -20,7 +21,7 @@ aliases:
   - Rüstung der Verwundbarkeit
 ---
 # Rüstung der Verwundbarkeit
-*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)*
+*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (erfordert Einstimmung)*
 
 - **Rüstungsklasse**: 18
 - **Eigenschaften**: [[Gegenstandseigenschaften-phb#Verfluchte Gegenstände|Verflucht]]

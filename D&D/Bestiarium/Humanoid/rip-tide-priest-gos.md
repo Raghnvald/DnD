@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rip Tide Priest
+Status: WIP
 linter-yaml-title-alias: Rip Tide Priest
 tags:
   - Monster/Größe/Mittelgroß

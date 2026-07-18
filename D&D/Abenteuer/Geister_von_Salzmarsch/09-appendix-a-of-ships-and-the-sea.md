@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Of Ships and the Sea"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Of Ships and the Sea"
 tags:
   - Quelle/5e/gos
 aliases:
   - "Appendix A: Of Ships and the Sea"
-  - Appendix A: Of Ships and the Sea
 ---
 # Appendix A: Of Ships and the Sea
 *Source: Ghosts of Saltmarsh, p. 186* 

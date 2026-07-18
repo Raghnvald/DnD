@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jaculi
+Status: WIP
 linter-yaml-title-alias: Jaculi
 tags:
   - Monster/Größe/Groß

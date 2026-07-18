@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Assorted Beasts
+Status: WIP
 linter-yaml-title-alias: Assorted Beasts
 tags:
   - Quelle/5e/vgm

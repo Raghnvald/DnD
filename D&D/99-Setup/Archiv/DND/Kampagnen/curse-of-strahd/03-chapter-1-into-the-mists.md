@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: Into the Mists"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Into the Mists"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 1: Into the Mists"
-  - Chapter 1: Into the Mists
 ---
 # Chapter 1: Into the Mists
 *Source: Curse of Strahd, p. 9* 

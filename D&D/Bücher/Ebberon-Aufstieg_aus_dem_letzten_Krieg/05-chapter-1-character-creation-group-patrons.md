@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation - Group Patrons"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Character Creation - Group Patrons"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Chapter 1: Character Creation - Group Patrons"
-  - Chapter 1: Character Creation - Group Patrons
 ---
 # Chapter 1: Character Creation - Group Patrons
 *Source: Eberron: Rising from the Last War, p. 64* 

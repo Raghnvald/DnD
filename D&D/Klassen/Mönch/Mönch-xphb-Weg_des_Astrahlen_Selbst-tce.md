@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Astral Self
+Status: WIP
 linter-yaml-title-alias: Way of the Astral Self
 tags:
   - Klasse/Mönch/astral-self

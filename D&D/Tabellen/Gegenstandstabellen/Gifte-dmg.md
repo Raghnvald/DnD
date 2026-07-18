@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisons
+Status: WIP
 linter-yaml-title-alias: Poisons
 tags:
   - Quelle/5e/dmg

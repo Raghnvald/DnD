@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: Saltmarsh"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Saltmarsh"
 tags:
   - Quelle/5e/gos
 aliases:
   - "Chapter 1: Saltmarsh"
-  - Chapter 1: Saltmarsh
 ---
 # Chapter 1: Saltmarsh
 *Source: Ghosts of Saltmarsh, p. 7* 

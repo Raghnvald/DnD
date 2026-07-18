@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Yarn List and Charts
+Status: WIP
 linter-yaml-title-alias: Yarn List and Charts
 tags:
   - Quelle/5e/cabomp
 aliases:
-  - "Yarn List and Charts"
+  - Yarn List and Charts
   - Yarn List and Charts
 ---
 # Yarn List and Charts

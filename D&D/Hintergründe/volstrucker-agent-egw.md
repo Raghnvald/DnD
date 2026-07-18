@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Volstrucker Agent
+Status: WIP
 linter-yaml-title-alias: Volstrucker Agent
 tags:
   - Kompendium/Hintergrund

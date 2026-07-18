@@ -7,8 +7,7 @@ Größe: Groß
 HG: "10"
 Habitat:
   - /
-image: token/aeorian-absorber-egw.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aeorian Absorber
 tags:
   - Monster/Größe/Groß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Aeorian Absorber
+image: token/aeorian-absorber-egw.webp
+status: WIP
 ---
 # [Aeorian Absorber](3-Mechanics\CLI\bestiary\monstrosity/aeorian-absorber-egw.md)
 *Source: Explorer's Guide to Wildemount p. 283*  

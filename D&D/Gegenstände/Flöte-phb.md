@@ -2,10 +2,10 @@
 Bezeichnung: Flöte
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Flöte
 tags:
   - Gegenstand/Ausrüstung/Instrument
@@ -17,7 +17,7 @@ aliases:
 # Flöte
 *Instrument*  
 
-- **Cost**: 2 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 2 GM
+- **Gewicht**: 0,5 kg
 
-*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

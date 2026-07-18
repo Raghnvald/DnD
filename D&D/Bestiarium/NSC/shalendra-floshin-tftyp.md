@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shalendra Floshin
+Status: WIP
 linter-yaml-title-alias: Shalendra Floshin
 tags:
   - Monster/Größe/Mittelgroß

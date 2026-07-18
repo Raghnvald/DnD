@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Mariner's Armor"
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: "Mariner's Armor"
 tags:
   - Gegenstand/Rüstung/Leicht
@@ -11,19 +12,18 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - "Mariner's Armor"
-  - Mariner's Armor
-  - Mariner's Breastplate
-  - Mariner's Chain Mail
-  - Mariner's Chain Shirt
-  - Mariner's Half Plate Armor
-  - Mariner's Hide Armor
-  - Mariner's Leather Armor
-  - Mariner's Padded Armor
-  - Mariner's Plate Armor
-  - Mariner's Ring Mail
-  - Mariner's Scale Mail
-  - Mariner's Splint Armor
-  - Mariner's Studded Leather Armor
+  - "Mariner's Breastplate"
+  - "Mariner's Chain Mail"
+  - "Mariner's Chain Shirt"
+  - "Mariner's Half Plate Armor"
+  - "Mariner's Hide Armor"
+  - "Mariner's Leather Armor"
+  - "Mariner's Padded Armor"
+  - "Mariner's Plate Armor"
+  - "Mariner's Ring Mail"
+  - "Mariner's Scale Mail"
+  - "Mariner's Splint Armor"
+  - "Mariner's Studded Leather Armor"
 ---
 # Mariner's Armor
 *Uncommon*  

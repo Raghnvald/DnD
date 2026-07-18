@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sildar Hallwinter
 Image: token/sildar-hallwinter-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Sildar Hallwinter
 tags:
   - Monster/Größe/Mittelgroß

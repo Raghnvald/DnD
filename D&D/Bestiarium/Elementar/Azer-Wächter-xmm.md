@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Azer Sentinel
 Kategorie: Elementar
+Status: WIP
 linter-yaml-title-alias: Azer Sentinel
 tags:
   - Monster/Größe/Mittelgroß

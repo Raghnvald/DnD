@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Trickbeutel, grau
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Trickbeutel, grau
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

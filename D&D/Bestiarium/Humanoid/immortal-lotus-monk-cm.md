@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Immortal Lotus Monk
+Status: WIP
 linter-yaml-title-alias: Immortal Lotus Monk
 tags:
   - Monster/Größe/Mittelgroß

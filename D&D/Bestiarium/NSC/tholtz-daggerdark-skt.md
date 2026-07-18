@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tholtz Daggerdark
+Status: WIP
 linter-yaml-title-alias: Tholtz Daggerdark
 tags:
   - Monster/Größe/Mittelgroß

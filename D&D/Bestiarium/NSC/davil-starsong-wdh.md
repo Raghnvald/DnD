@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Davil Starsong
+Status: WIP
 linter-yaml-title-alias: Davil Starsong
 tags:
   - Monster/Größe/Mittelgroß

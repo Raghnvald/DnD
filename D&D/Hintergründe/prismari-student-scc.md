@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Prismari Student
+Status: WIP
 linter-yaml-title-alias: Prismari Student
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scc
 aliases:
-  - "Prismari Student"
+  - Prismari Student
   - Prismari Student
 ---
 # Prismari Student

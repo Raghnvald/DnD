@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gods of Greyhawk
+Status: WIP
 linter-yaml-title-alias: Gods of Greyhawk
 tags:
   - Quelle/5e/xdmg

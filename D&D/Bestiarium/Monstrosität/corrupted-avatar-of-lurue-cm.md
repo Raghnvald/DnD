@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Corrupted Avatar of Lurue
+Status: WIP
 linter-yaml-title-alias: Corrupted Avatar of Lurue
 tags:
   - Monster/Größe/Groß

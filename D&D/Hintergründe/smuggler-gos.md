@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Smuggler
+Status: WIP
 linter-yaml-title-alias: Smuggler
 tags:
   - Kompendium/Hintergrund

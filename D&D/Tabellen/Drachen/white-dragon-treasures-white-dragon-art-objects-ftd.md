@@ -1,5 +1,6 @@
 ---
 Bezeichnung: White Dragon Treasures; White Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: White Dragon Treasures; White Dragon Art Objects
 tags:
   - Quelle/5e/ftd

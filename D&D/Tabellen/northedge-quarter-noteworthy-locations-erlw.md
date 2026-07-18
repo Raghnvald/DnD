@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Northedge Quarter: Noteworthy Locations"
+Status: WIP
 linter-yaml-title-alias: "Northedge Quarter: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Northedge Quarter: Noteworthy Locations"
-  - Northedge Quarter: Noteworthy Locations
 ---
 # Northedge Quarter: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 171* 

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Jade game board with gold playing pieces
+Status: WIP
 linter-yaml-title-alias: Jade game board with gold playing pieces
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

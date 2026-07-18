@@ -1,18 +1,19 @@
 ---
-Bezeichnung: Blowgun Needles (50)
+Bezeichnung: Blasrohrpfeile (50)
 Kategorie: Munition
-linter-yaml-title-alias: Blowgun Needles (50)
+Status: WIP
+linter-yaml-title-alias: Blasrohrpfeile (50)
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Blowgun Needles (50)
+  - Blasrohrpfeile (50)
 ---
-# Blowgun Needles (50)
-*Ammunition*  
+# Blasrohrpfeile (50)
+*Munition*  
 
-- **Cost**: 1 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 0,5 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

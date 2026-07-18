@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Extreme Heat
+Status: WIP
 linter-yaml-title-alias: Extreme Heat
 tags:
   - Kompendium/Bedrohung/wth

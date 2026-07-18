@@ -1,15 +1,16 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Githyanki Knight
-linter-yaml-title-alias: Githyanki Knight
+Bezeichnung: Githyanki-Ritter
+Status: WIP
+linter-yaml-title-alias: Githyanki-Ritter
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/8
   - Monster/Typ/Humanoid/gith
   - Quelle/5e/mm
 aliases:
-  - Githyanki Knight
+  - Githyanki-Ritter
 ---
 # Githyanki-Ritter
 *Source: Monster Manual p. 160*  

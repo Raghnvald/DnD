@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Corpse Flower
+Status: WIP
 linter-yaml-title-alias: Corpse Flower
 tags:
   - Monster/Größe/Groß

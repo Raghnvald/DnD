@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thwad Underbrew
+Status: WIP
 linter-yaml-title-alias: Thwad Underbrew
 tags:
   - Monster/Größe/Mittelgroß

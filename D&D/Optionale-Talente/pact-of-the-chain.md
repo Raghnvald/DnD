@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact of the Chain
+Status: WIP
 linter-yaml-title-alias: Pact of the Chain
 tags:
   - Kompendium/Optionales/pb

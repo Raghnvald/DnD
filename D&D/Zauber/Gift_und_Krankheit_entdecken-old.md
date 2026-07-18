@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Detect Poison and Disease
+Status: WIP
 linter-yaml-title-alias: Detect Poison and Disease
 tags:
   - Klasse/Druide

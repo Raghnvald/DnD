@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix C: Creatures"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Creatures"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Appendix C: Creatures"
-  - Appendix C: Creatures
 ---
 # Appendix C: Creatures
 *Source: Storm King's Thunder, p. 240* 

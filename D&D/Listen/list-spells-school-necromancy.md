@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Necromancy Spells
+Status: WIP
 linter-yaml-title-alias: Necromancy Spells
 tags:
-  - Zauber/list/school/necromancy
+  - Zauber/Liste/school/necromancy
 aliases:
   - Necromancy Spells
 ---

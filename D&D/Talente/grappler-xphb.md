@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grappler
+Status: WIP
 linter-yaml-title-alias: Grappler
 tags:
   - Kompendium/Talent

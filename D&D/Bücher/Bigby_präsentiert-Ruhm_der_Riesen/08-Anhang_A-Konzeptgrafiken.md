@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Concept Art"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Concept Art"
 tags:
   - Quelle/5e/bgg
 aliases:
   - "Appendix A: Concept Art"
-  - Appendix A: Concept Art
 ---
 # Appendix A: Concept Art
 *Source: Bigby Presents: Glory of the Giants, p. 190* 

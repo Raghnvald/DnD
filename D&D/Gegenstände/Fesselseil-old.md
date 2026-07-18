@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fesselseil
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Fesselseil
 tags:
   - Gegenstand/Seltenheit/selten

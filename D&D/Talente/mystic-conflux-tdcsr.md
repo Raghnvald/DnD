@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystic Conflux
+Status: WIP
 linter-yaml-title-alias: Mystic Conflux
 tags:
   - Kompendium/Talent

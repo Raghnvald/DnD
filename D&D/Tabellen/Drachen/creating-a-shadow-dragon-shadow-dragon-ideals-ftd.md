@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Shadow Dragon; Shadow Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a Shadow Dragon; Shadow Dragon Ideals
 tags:
   - Quelle/5e/ftd

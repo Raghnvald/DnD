@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: Fernkampf
+Angriff: Fern
 Schaden: 1d10 Energie
+Status: WIP
 linter-yaml-title-alias: Schauriger Strahl
 classes:
   - Bard (Magical Secrets)
@@ -14,7 +15,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
-  - Kompendium/Talent/magic-initiate/warlock-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Hexenmeister-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keelboat
+Status: WIP
 linter-yaml-title-alias: Keelboat
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

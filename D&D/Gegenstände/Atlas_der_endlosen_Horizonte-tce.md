@@ -1,9 +1,10 @@
 ---
-Bezeichnung: Atlas der endlosen Horizonte
+Bezeichnung: Atlas of Endless Horizons
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Atlas of Endless Horizons
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce

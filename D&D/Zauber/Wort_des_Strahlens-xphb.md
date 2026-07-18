@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Word of Radiance
 classes:
   - Bard (College of Lore)
@@ -16,7 +17,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
   - Kompendium/Talent/blessed-warrior
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Zauber/Grad/0

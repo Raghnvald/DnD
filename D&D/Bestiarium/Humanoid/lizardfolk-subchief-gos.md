@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Subchief
+Status: WIP
 linter-yaml-title-alias: Lizardfolk Subchief
 tags:
   - Monster/Größe/Mittelgroß

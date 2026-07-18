@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Light Domain
+Status: WIP
 linter-yaml-title-alias: Light Domain
 tags:
-  - Klasse/Kleriker/light
-  - Kompendium/Götter/Domäne/light
+  - Klasse/Kleriker/Licht
+  - Kompendium/Götter/Domäne/Licht
   - Quelle/5e/xphb
 aliases:
   - Light Domain

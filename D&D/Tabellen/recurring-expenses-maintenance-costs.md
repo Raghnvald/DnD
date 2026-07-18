@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Recurring Expenses; Maintenance Costs
+Status: WIP
 linter-yaml-title-alias: Recurring Expenses; Maintenance Costs
 tags:
   - Quelle/5e/dmg

@@ -1,7 +1,8 @@
 ---
-Bezeichnung: Flaming Sphere
+Bezeichnung: Flammenkugel
 Zaubergrad: 2
-linter-yaml-title-alias: Flaming Sphere
+Status: WIP
+linter-yaml-title-alias: Flammenkugel
 classes:
   - Bard (Magical Secrets)
   - Cleric (Light Domain)
@@ -12,7 +13,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/phb
@@ -20,9 +21,10 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
 aliases:
-  - Flaming Sphere
+  - Flammenkugel
+Zeitaufwand: 1 Aktion
 ---
-# Flaming Sphere
+# Flammenkugel
 *2nd-level, Conjuration*  
 
 - **Casting time:** 1 Action

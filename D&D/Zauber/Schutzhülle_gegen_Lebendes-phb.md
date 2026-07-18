@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Antilife Shell
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Antilife Shell
 classes:
   - Bard (Magical Secrets)

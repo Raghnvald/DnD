@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mishakal
+Status: WIP
 linter-yaml-title-alias: Mishakal
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Mishakal"
+  - Mishakal
   - Mishakal
 ---
 # Mishakal

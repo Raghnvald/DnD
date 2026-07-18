@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Rill Cleverthrush
+Status: WIP
 linter-yaml-title-alias: Rill Cleverthrush
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

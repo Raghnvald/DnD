@@ -5,6 +5,7 @@ Bezeichnung: Red Guard Drake
 Kategorie: Drache
 Größe: Mittelgroß
 HG: 2
+Status: WIP
 linter-yaml-title-alias: Red Guard Drake
 tags:
   - Monster/Größe/Mittelgroß

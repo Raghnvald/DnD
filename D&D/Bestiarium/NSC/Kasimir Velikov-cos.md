@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kasimir Velikov
+Status: WIP
 linter-yaml-title-alias: Kasimir Velikov
 tags:
   - Monster/Größe/Mittelgroß

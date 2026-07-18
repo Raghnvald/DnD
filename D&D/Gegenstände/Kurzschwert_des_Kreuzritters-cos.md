@@ -1,15 +1,18 @@
 ---
 Bezeichnung: "Crusader's Shortsword"
-Kategorie: Nahkampf-Kriegswaffe
+Original: "Crusader's Shortsword"
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: "Crusader's Shortsword"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cos
 aliases:
   - "Crusader's Shortsword"
+status: WIP
 ---
 # Crusader's Shortsword
 *Weapon ([shortsword](/3-Mechanics/CLI/items/shortsword-xphb.md)) (requires attunement)*  

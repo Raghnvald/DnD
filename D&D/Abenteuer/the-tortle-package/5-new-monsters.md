@@ -1,10 +1,11 @@
 ---
 Bezeichnung: New Monsters
+Status: WIP
 linter-yaml-title-alias: New Monsters
 tags:
   - Quelle/5e/ttp
 aliases:
-  - "New Monsters"
+  - New Monsters
   - New Monsters
 ---
 # New Monsters

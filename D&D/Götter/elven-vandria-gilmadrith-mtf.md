@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Vandria Gilmadrith
+Status: WIP
 linter-yaml-title-alias: Vandria Gilmadrith
 tags:
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

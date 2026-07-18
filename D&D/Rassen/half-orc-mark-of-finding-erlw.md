@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Orc (Mark of Finding)
+Status: WIP
 linter-yaml-title-alias: Half-Orc (Mark of Finding)
 tags:
   - Quelle/5e/erlw

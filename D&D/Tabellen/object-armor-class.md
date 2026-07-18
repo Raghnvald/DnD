@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Object Armor Class
+Status: WIP
 linter-yaml-title-alias: Object Armor Class
 tags:
   - Quelle/5e/dmg

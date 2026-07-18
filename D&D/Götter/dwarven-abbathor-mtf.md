@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Abbathor
+Status: WIP
 linter-yaml-title-alias: Abbathor
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stinking Cloud
+Status: WIP
 linter-yaml-title-alias: Stinking Cloud
 classes:
   - Bard

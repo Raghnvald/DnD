@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Gem, Red Corundum
+Status: WIP
 linter-yaml-title-alias: Elemental Gem, Red Corundum
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

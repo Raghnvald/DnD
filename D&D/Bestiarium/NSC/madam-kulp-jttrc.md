@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Madam Kulp
+Status: WIP
 linter-yaml-title-alias: Madam Kulp
 tags:
   - Monster/Größe/Mittelgroß

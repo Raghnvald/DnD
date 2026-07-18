@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Knight of the Rose
+Status: WIP
 linter-yaml-title-alias: Knight of the Rose
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
-  - "Knight of the Rose"
+  - Knight of the Rose
   - Knight of the Rose
 ---
 # Knight of the Rose

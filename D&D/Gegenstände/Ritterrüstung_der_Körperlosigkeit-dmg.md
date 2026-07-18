@@ -3,23 +3,26 @@ Bezeichnung: Ritterrüstung der Körperlosigkeit
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Ritterrüstung der Körperlosigkeit
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:
   - Ritterrüstung der Körperlosigkeit
+status: WIP
+Einstimmung: erforderlich
 ---
 # Ritterrüstung der Körperlosigkeit
-*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), legendär (benötigt Einstimmung)*
+*Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), legendär (erfordert Einstimmung)*
 
 - **Rüstungsklasse**: 18
 - **Stärke:** 15

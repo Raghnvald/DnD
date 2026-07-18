@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Emil Toranescu
+Status: WIP
 linter-yaml-title-alias: Emil Toranescu
 tags:
   - Monster/Größe/Mittelgroß

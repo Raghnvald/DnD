@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Joining the Gruul Clans; Gruul Clan Options
+Status: WIP
 linter-yaml-title-alias: Joining the Gruul Clans; Gruul Clan Options
 tags:
   - Quelle/5e/ggr

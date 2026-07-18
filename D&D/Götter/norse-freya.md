@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Freya
+Status: WIP
 linter-yaml-title-alias: Freya
 tags:
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

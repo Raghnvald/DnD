@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ravager Slaughter Lord
+Status: WIP
 linter-yaml-title-alias: Ravager Slaughter Lord
 tags:
   - Monster/Größe/Groß

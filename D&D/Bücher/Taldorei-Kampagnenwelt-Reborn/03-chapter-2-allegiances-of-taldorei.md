@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Allegiances of Tal'Dorei"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Allegiances of Tal'Dorei"
 tags:
   - Quelle/5e/tdcsr
 aliases:
   - "Chapter 2: Allegiances of Tal'Dorei"
-  - Chapter 2: Allegiances of Tal'Dorei
 ---
 # Chapter 2: Allegiances of Tal'Dorei
 *Source: Tal'Dorei Campaign Setting Reborn, p. 27* 

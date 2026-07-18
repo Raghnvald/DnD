@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Violet Fungus
+Status: WIP
 linter-yaml-title-alias: Violet Fungus
 tags:
   - Monster/Größe/Mittelgroß

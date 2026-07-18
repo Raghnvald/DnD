@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fates Card
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Fates Card
 tags:
   - Gegenstand/Seltenheit/legendär

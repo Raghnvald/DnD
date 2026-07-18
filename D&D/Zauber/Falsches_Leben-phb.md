@@ -2,11 +2,12 @@
 Bezeichnung: Falsches Leben
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
-Reichweite: Selbst
+Reichweite: selbst
 Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
 Schaden: 1d4+4 temp. TP
+Status: WIP
 linter-yaml-title-alias: Falsches Leben
 classes:
   - Bard (Magical Secrets)
@@ -21,7 +22,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1

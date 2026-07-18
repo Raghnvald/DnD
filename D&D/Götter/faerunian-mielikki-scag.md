@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Mielikki
+Status: WIP
 linter-yaml-title-alias: Mielikki
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Mielikki

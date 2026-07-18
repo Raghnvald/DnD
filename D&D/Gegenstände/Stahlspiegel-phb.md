@@ -2,10 +2,10 @@
 Bezeichnung: Stahlspiegel
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 0,25 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Stahlspiegel
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,9 +15,9 @@ aliases:
   - Stahlspiegel
 ---
 # Stahlspiegel
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 gp
-- **Weight**: 0.5 lbs.
+- **Kosten**: 5 GM
+- **Gewicht**: 0,25 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

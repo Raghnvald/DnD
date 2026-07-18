@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Skeleton
+Status: WIP
 linter-yaml-title-alias: Frost Giant Skeleton
 tags:
   - Monster/Größe/Riesig

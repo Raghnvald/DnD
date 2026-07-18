@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Friends
+Bezeichnung: Freundschaft
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: G, M
 Wirkungsdauer: Konzentration, bis zu 1 Minute
-Angriff: /
-Schaden: /
-linter-yaml-title-alias: Friends
+Angriff: n/v
+Schaden: n/v
+Status: WIP
+linter-yaml-title-alias: Freundschaft
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -21,7 +22,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high
@@ -29,9 +30,9 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verzauberung
 aliases:
-  - Friends
+  - Freundschaft
 ---
-# Friends
+# Freundschaft
 *cantrip, Enchantment*  
 
 - **Casting time:** 1 Action

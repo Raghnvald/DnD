@@ -5,7 +5,7 @@ Bezeichnung: Neogi-Schlüpfling
 Kategorie: Aberration
 Größe: Winzig
 HG: 1/8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Neogi-Schlüpfling
 tags:
   - Monster/Größe/Winzig
@@ -17,6 +17,7 @@ tags:
 aliases:
   - Neogi Hatchling
   - Neogi-Schlüpfling
+status: WIP
 ---
 # Neogi-Schlüpfling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191*  

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Whiskey from The Gilded Horseshoe Inn in Longsaddle
+Status: WIP
 linter-yaml-title-alias: Whiskey from The Gilded Horseshoe Inn in Longsaddle
 tags:
   - Quelle/5e/paf
 aliases:
-  - "Whiskey from The Gilded Horseshoe Inn in Longsaddle"
+  - Whiskey from The Gilded Horseshoe Inn in Longsaddle
   - Whiskey from The Gilded Horseshoe Inn in Longsaddle
 ---
 # Whiskey from The Gilded Horseshoe Inn in Longsaddle

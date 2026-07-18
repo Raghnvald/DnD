@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wristpocket
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Wristpocket
 tags:
   - Quelle/5e/egw

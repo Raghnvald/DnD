@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Order of the Emerald Claw NPCs; Emerald Claw NPCs
+Status: WIP
 linter-yaml-title-alias: Order of the Emerald Claw NPCs; Emerald Claw NPCs
 tags:
   - Quelle/5e/erlw

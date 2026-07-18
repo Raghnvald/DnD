@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Cli Lyre
+Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Cli Lyre
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

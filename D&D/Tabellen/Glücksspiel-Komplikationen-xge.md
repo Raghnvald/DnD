@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Komplikationen beim Glücksspiel
+Status: WIP
 linter-yaml-title-alias: Komplikationen beim Glücksspiel
 tags:
   - Quelle/5e/xge

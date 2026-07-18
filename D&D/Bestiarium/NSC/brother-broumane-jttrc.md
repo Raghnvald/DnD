@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brother Broumane
+Status: WIP
 linter-yaml-title-alias: Brother Broumane
 tags:
   - Monster/Größe/Mittelgroß

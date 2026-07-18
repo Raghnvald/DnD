@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kruphix's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Kruphix's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

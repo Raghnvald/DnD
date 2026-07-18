@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grinner
+Status: WIP
 linter-yaml-title-alias: Grinner
 tags:
   - Kompendium/Hintergrund

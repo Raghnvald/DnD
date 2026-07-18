@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Amulett des Schwarzen Schädels
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Amulett des Schwarzen Schädels
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/toa

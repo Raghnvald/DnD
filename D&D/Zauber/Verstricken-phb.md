@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Verstricken
 Zaubergrad: 1
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Verstricken
 classes:
   - Bard (Magical Secrets)
@@ -8,13 +10,16 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
 aliases:
   - Entangle
   - Verstricken
+Reichweite: 27 Meter
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 ---
 # Verstricken
 *Beschwörung des 1. Grades*

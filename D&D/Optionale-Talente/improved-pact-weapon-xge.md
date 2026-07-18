@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Improved Pact Weapon
+Status: WIP
 linter-yaml-title-alias: Improved Pact Weapon
 tags:
   - Kompendium/Optionales/ei

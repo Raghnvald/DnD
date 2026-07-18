@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Fragment of Melancholy
+Status: WIP
 linter-yaml-title-alias: Fragment of Melancholy
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
-  - "Fragment of Melancholy"
+  - Fragment of Melancholy
   - Fragment of Melancholy
 ---
 # Fragment of Melancholy

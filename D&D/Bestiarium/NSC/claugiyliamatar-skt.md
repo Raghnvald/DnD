@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Claugiyliamatar
+Status: WIP
 linter-yaml-title-alias: Claugiyliamatar
 tags:
   - Monster/Größe/Gigantisch

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Exploring the Mine
+Status: WIP
 linter-yaml-title-alias: Exploring the Mine
 tags:
   - Quelle/5e/xdmg

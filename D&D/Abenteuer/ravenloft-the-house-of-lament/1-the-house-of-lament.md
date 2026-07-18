@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The House of Lament
+Status: WIP
 linter-yaml-title-alias: The House of Lament
 tags:
   - Quelle/5e/hol
 aliases:
-  - "The House of Lament"
+  - The House of Lament
   - The House of Lament
 ---
 # The House of Lament

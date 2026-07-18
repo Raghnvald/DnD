@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dryad
+Status: WIP
 linter-yaml-title-alias: Dryad
 tags:
   - Monster/Größe/Mittelgroß

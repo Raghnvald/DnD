@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elemental Cultist
+Status: WIP
 linter-yaml-title-alias: Elemental Cultist
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

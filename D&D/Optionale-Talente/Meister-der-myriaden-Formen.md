@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Meister der myriaden Formen
+Status: WIP
 linter-yaml-title-alias: Meister der myriaden Formen
 tags:
   - Kompendium/Optionales/Anrufungen

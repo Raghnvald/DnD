@@ -1,19 +1,20 @@
 ---
-Bezeichnung: Hempen Rope (50 feet)
-linter-yaml-title-alias: Hempen Rope (50 feet)
+Bezeichnung: Hanfseil (15 Meter)
+Status: WIP
+linter-yaml-title-alias: Hanfseil (15 Meter)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Hempen Rope (50 feet)
+  - Hanfseil (15 Meter)
 ---
-# Hempen Rope (50 feet)
-*Adventuring gear*  
+# Hanfseil (15 Meter)
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 10.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 10.0 lbs.
 
-Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
+Seile, ob aus Hanf oder Seide gefertigt, haben 2 Trefferpunkte und können mit einem `Stärkewurf` gegen `SG 17` zerrissen werden. 
 
 *Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

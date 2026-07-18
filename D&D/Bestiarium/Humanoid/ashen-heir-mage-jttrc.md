@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ashen Heir Mage
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ashen Heir Mage
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Ashen Heir Mage
+status: WIP
 ---
 # [Ashen Heir Mage](3-Mechanics\CLI\bestiary\humanoid/ashen-heir-mage-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 158*  

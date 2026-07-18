@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Compelled Duel
+Bezeichnung: Erzwungenes Duell
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
+Zeitaufwand: 1 Bonusaktion
+Reichweite: 9 Meter
+Komponenten: V
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: 
 Schaden: 
-linter-yaml-title-alias: Compelled Duel
+Status: WIP
+linter-yaml-title-alias: Erzwungenes Duell
 classes:
   - Bard (Magical Secrets)
   - Paladin
@@ -18,9 +19,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Compelled Duel
+  - Erzwungenes Duell
 ---
-# Compelled Duel
+# Erzwungenes Duell
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 Bonus Action

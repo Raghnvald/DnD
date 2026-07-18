@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: 1 Runde
 Angriff: Fern
 Schaden: 4d6
+Status: WIP
 linter-yaml-title-alias: Lenkendes Geschoss
 classes:
   - Bard (Magical Secrets)
@@ -14,7 +15,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung

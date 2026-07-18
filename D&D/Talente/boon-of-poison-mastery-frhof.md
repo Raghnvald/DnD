@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Poison Mastery
+Status: WIP
 linter-yaml-title-alias: Boon of Poison Mastery
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of Poison Mastery"
+  - Boon of Poison Mastery
   - Boon of Poison Mastery
 ---
 # Boon of Poison Mastery

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Reading the Cards
+Status: WIP
 linter-yaml-title-alias: Reading the Cards
 tags:
   - Quelle/5e/dmtcrg
 aliases:
-  - "Reading the Cards"
+  - Reading the Cards
   - Reading the Cards
 ---
 # Reading the Cards

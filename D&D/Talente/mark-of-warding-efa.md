@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Warding
+Status: WIP
 linter-yaml-title-alias: Mark of Warding
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Warding"
+  - Mark of Warding
   - Mark of Warding
 ---
 # Mark of Warding

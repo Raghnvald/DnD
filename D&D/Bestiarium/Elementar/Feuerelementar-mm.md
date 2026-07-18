@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Elemental
+Status: WIP
 linter-yaml-title-alias: Fire Elemental
 tags:
   - Monster/Größe/Groß

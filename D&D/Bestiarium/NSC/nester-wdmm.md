@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nester
+Status: WIP
 linter-yaml-title-alias: Nester
 tags:
   - Monster/Größe/Mittelgroß

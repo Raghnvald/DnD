@@ -2,10 +2,10 @@
 Bezeichnung: Wasserschlauch
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 SM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Wasserschlauch
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 2 SM
-- **Gewicht**: 2,5 kg.
+- **Gewicht**: 2,5 kg
 
 Ein Wasserschlauch fasst 2,0 Liter Flüssigkeit.
 

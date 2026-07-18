@@ -1,19 +1,20 @@
 ---
-Bezeichnung: Ball Bearings (bag of 1,000)
-linter-yaml-title-alias: Ball Bearings (bag of 1,000)
+Bezeichnung: Metallkügelchen (Beutel mit 1.000 Stück)
+Status: WIP
+linter-yaml-title-alias: Metallkügelchen (Beutel mit 1.000 Stück)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Ball Bearings (bag of 1,000)
+  - Metallkügelchen (Beutel mit 1.000 Stück)
 ---
-# Ball Bearings (bag of 1,000)
-*Adventuring gear*  
+# Metallkügelchen (Beutel mit 1.000 Stück)
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 2.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 2.0 lbs.
 
-As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone). A creature moving through the area at half speed doesn't need to make the saving throw.
+Als Aktion kannst du die kleinen Metallkugeln auf einer Fläche verschütten, die höchstens 3 m pro Seite misst. Eine Kreatur, die sich über die bedeckte Fläche (die eben sein muss) bewegt, muss einen erfolgreichen `Geschicklichkeits-Rettungswurf` gegen `SG 10` ablegen, um nicht hinzufallen und den Zustand [[Zustände-phb#Liegend|liegend]] zu erhalten. Eine Kreatur, die sich nur mit halber Bewegungsrate durch diesen Bereich bewegt, muss keinen Rettungswurf ablegen. 
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

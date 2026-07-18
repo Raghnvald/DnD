@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seeking Spell
+Status: WIP
 linter-yaml-title-alias: Seeking Spell
 tags:
   - Kompendium/Optionales/mm

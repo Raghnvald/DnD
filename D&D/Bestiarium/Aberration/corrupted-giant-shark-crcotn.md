@@ -5,15 +5,16 @@ Bezeichnung: Corrupted Giant Shark
 Kategorie: Aberration
 Größe: Riesig
 HG: 9
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Corrupted Giant Shark
 tags:
   - Quelle/5e/crcotn
-  - ttrpg-cli/monster/cr/9
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/9
+  - Monster/Größe/Riesig
+  - Monster/Typ/Aberration
 aliases:
   - Corrupted Giant Shark
+status: WIP
 ---
 # [Corrupted Giant Shark](3-Mechanics/CLI/bestiary/aberration/corrupted-giant-shark-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 196*  

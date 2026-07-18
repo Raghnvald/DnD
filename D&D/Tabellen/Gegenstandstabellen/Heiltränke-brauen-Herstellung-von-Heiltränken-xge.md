@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heiltränke brauen; Herstellung von Heiltränken
+Status: WIP
 linter-yaml-title-alias: Heiltränke brauen; Herstellung von Heiltränken
 tags:
   - Quelle/5e/xge

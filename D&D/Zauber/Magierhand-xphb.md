@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Mage Hand
 classes:
   - Artificer
@@ -26,9 +27,9 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/telekinetic
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/telekinetisch
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/githyanki

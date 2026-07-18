@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grung
+Status: WIP
 linter-yaml-title-alias: Grung
 tags:
   - Monster/Größe/Klein

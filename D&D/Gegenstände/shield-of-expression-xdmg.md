@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shield of Expression
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: Shield of Expression
 tags:
   - Gegenstand/Rüstung/Schild/

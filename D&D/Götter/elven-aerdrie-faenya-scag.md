@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Aerdrie Faenya
+Status: WIP
 linter-yaml-title-alias: Aerdrie Faenya
 tags:
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/elven
   - Quelle/5e/scag
 aliases:
-  - "Aerdrie Faenya"
+  - Aerdrie Faenya
   - Aerdrie Faenya
 ---
 # Aerdrie Faenya

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Pugilism
+Status: WIP
 linter-yaml-title-alias: Potion of Pugilism
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

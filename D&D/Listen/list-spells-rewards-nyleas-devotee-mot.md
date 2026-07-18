@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Nylea's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Nylea's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/nyleas-devotee
+  - Zauber/Liste/reward/nyleas-devotee
 aliases:
   - "Spells for Nylea's Devotee"
 ---

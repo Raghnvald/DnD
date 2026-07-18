@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Piercer
+Status: WIP
 linter-yaml-title-alias: Piercer
 tags:
   - Kompendium/Talent

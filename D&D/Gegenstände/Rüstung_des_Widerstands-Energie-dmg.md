@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Rüstung des Energie-Widerstands
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Rüstung des Energie-Widerstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

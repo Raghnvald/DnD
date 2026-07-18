@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Owlbear
+Status: WIP
 linter-yaml-title-alias: Owlbear
 tags:
   - Monster/Größe/Groß

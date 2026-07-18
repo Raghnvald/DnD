@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Cloying Mists
+Status: WIP
 linter-yaml-title-alias: Cloying Mists
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Cloying Mists"
+  - Cloying Mists
   - Cloying Mists
 ---
 # Cloying Mists

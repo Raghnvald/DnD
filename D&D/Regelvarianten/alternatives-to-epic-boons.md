@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alternatives to Epic Boons
+Status: WIP
 linter-yaml-title-alias: Alternatives to Epic Boons
 tags:
   - Quelle/5e/dmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Selesnya Initiate
+Status: WIP
 linter-yaml-title-alias: Selesnya Initiate
 tags:
   - Kompendium/Hintergrund

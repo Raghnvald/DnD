@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ascendant Scaled Ornament
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Ascendant Scaled Ornament
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/ftd

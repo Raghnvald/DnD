@@ -5,7 +5,7 @@ Bezeichnung: Sharkbody Abomination
 Kategorie: Aberration
 Größe: Groß
 HG: 2
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Sharkbody Abomination
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Sharkbody Abomination
+status: WIP
 ---
 # [Sharkbody Abomination](3-Mechanics\CLI\bestiary\aberration/sharkbody-abomination-egw.md)
 *Source: Explorer's Guide to Wildemount p. 215*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Lore
+Status: WIP
 linter-yaml-title-alias: Monster Lore
 tags:
   - Quelle/5e/vgm

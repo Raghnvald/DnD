@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Torogar Steelfist
+Status: WIP
 linter-yaml-title-alias: Torogar Steelfist
 tags:
   - Monster/Größe/Groß

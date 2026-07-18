@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yorn
+Status: WIP
 linter-yaml-title-alias: Yorn
 tags:
   - Monster/Größe/Mittelgroß

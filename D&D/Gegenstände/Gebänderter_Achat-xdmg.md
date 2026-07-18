@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Banded Agate
+Status: WIP
 linter-yaml-title-alias: Banded Agate
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

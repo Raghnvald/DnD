@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zhentarim Mercenary
+Status: WIP
 linter-yaml-title-alias: Zhentarim Mercenary
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Zhentarim Mercenary"
+  - Zhentarim Mercenary
   - Zhentarim Mercenary
 ---
 # Zhentarim Mercenary

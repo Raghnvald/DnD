@@ -1,7 +1,15 @@
 ---
-Bezeichnung: Automatic Pistol
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Automatic Pistol
+Bezeichnung: Pistole, automatisch
+Original: Automatic Pistole
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 2d6 Stich
+Eigenschaften:
+  - Geschosse
+  - Nachladen (15 Schuss)
+Kst.: n/v
+Gew.: 1,5kg
+Status: completed
+linter-yaml-title-alias: Pistole, automatisch
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,14 +17,14 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
-  - Automatic Pistol
+  - Pistole, automatisch
 ---
-# Automatic Pistol
-*Weapon*  
+# Pistole, automatisch
+*Fernkampf-Kriegswaffe, modern*
 
-- **Damage**: 2d6 piercing
-- **Range**: 50/150
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2d6 Stich
+- **Reichweite**: 15/45
+- **Properties**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Nachladen|Nachladen]] (15 Schuss)
+- **Gewicht**: 1,5 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

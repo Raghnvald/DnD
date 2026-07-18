@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cinderhild
+Status: WIP
 linter-yaml-title-alias: Cinderhild
 tags:
   - Monster/Größe/Groß

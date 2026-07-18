@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sharda
+Status: WIP
 linter-yaml-title-alias: Sharda
 tags:
   - Monster/Größe/Mittelgroß

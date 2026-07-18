@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chief Kartha-Kaya
+Status: WIP
 linter-yaml-title-alias: Chief Kartha-Kaya
 tags:
   - Monster/Größe/Groß

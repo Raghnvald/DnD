@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Ephara's Votary"
+Status: WIP
 linter-yaml-title-alias: "Ephara's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

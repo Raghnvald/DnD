@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Parriwimple
+Status: WIP
 linter-yaml-title-alias: Parriwimple
 tags:
   - Monster/Größe/Mittelgroß

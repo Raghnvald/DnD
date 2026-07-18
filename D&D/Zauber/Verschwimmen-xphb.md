@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blur
+Status: WIP
 linter-yaml-title-alias: Blur
 classes:
   - Artificer

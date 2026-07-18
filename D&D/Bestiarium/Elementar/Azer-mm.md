@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Azer
 Kategorie: Elementar
 Größe: Mittelgroß
+Status: WIP
 linter-yaml-title-alias: Azer
 tags:
   - Monster/Größe/Mittelgroß

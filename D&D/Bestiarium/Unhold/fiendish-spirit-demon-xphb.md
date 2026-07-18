@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fiendish Spirit (Demon)
+Status: WIP
 linter-yaml-title-alias: Fiendish Spirit (Demon)
 tags:
   - Monster/Größe/Groß

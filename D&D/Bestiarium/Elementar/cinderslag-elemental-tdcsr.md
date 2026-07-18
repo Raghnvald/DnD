@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cinderslag Elemental
+Status: WIP
 linter-yaml-title-alias: Cinderslag Elemental
 tags:
   - Monster/Größe/Groß

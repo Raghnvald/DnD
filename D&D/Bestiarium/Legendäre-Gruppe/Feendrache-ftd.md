@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faerie Dragon
+Status: WIP
 linter-yaml-title-alias: Faerie Dragon
 tags:
   - Monster/legendary-group

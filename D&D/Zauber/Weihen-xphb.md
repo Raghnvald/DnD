@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hallow
+Status: WIP
 linter-yaml-title-alias: Hallow
 classes:
   - Bard

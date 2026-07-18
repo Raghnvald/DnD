@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sing-Along
+Status: WIP
 linter-yaml-title-alias: Sing-Along
 tags:
   - Monster/Größe/Mittelgroß

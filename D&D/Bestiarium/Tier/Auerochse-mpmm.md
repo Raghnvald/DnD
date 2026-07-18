@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Aurochs
 Kategorie: Tier (Rind)
 Größe: Groß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aurochs
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Aurochs
+status: WIP
 ---
 # [Aurochs](3-Mechanics\CLI\bestiary\beast/aurochs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Klothys's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Klothys's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

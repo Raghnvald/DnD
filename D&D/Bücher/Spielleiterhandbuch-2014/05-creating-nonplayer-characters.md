@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating Nonplayer Characters
+Status: WIP
 linter-yaml-title-alias: Creating Nonplayer Characters
 tags:
   - Quelle/5e/dmg

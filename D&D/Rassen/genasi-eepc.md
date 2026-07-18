@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Genasi
+Status: WIP
 linter-yaml-title-alias: Genasi
 tags:
   - Quelle/5e/eepc

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Nightmare Speaker
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Nightmare Speaker
 tags:
   - Monster/Größe/Mittelgroß

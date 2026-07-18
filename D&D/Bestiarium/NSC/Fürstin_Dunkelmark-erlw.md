@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Illmarrow
+Status: WIP
 linter-yaml-title-alias: Lady Illmarrow
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Tables; Githzerai Ideals
+Status: WIP
 linter-yaml-title-alias: Gith Tables; Githzerai Ideals
 tags:
   - Quelle/5e/mtf

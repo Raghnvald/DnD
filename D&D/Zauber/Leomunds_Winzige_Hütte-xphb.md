@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Leomund's Tiny Hut"
+Status: WIP
 linter-yaml-title-alias: "Leomund's Tiny Hut"
 classes:
   - Bard

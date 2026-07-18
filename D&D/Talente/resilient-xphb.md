@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resilient
+Status: WIP
 linter-yaml-title-alias: Resilient
 tags:
   - Kompendium/Talent

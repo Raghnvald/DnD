@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Using a Published Setting; D&D Settings
+Status: WIP
 linter-yaml-title-alias: Using a Published Setting; D&D Settings
 tags:
   - Quelle/5e/xdmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Male Steeder
+Status: WIP
 linter-yaml-title-alias: Male Steeder
 tags:
   - Monster/Größe/Mittelgroß

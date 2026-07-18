@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Modify Memory
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Modify Memory
 classes:
   - Bard (Magical Secrets)

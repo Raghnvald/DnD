@@ -5,6 +5,7 @@ Bezeichnung: Brass Dragon Wyrmling
 Kategorie: Drache
 Größe: Mittelgroß
 HG: 1
+Status: WIP
 linter-yaml-title-alias: Brass Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß

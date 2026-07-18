@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Crew
+Status: WIP
 linter-yaml-title-alias: Crew
 tags:
   - Quelle/5e/aag
 aliases:
-  - "Crew"
+  - Crew
   - Crew
 ---
 # Crew

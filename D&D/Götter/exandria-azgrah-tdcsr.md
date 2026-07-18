@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Azgrah
+Status: WIP
 linter-yaml-title-alias: Azgrah
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Azgrah

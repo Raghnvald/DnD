@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Synaptic Static
+Status: WIP
 linter-yaml-title-alias: Synaptic Static
 classes:
   - Bard

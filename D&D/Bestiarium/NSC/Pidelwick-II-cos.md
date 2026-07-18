@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pidlwick II
+Status: WIP
 linter-yaml-title-alias: Pidlwick II
 tags:
   - Monster/Größe/Klein

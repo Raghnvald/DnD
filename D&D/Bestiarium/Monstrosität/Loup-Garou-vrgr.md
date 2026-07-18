@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Loup Garou
+Status: WIP
 linter-yaml-title-alias: Loup Garou
 tags:
   - Monster/Größe/Mittelgroß

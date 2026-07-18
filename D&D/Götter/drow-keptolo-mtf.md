@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Keptolo
+Status: WIP
 linter-yaml-title-alias: Keptolo
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/drow
   - Quelle/5e/mtf
 aliases:

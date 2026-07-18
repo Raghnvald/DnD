@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Scene 4: The Basement"
+Status: WIP
 linter-yaml-title-alias: "Scene 4: The Basement"
 tags:
   - Quelle/5e/lrdt

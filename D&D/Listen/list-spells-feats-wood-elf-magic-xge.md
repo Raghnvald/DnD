@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Wood Elf Magic
+Status: WIP
 linter-yaml-title-alias: Spells for Wood Elf Magic
 tags:
-  - Zauber/list/feat/wood-elf-magic
+  - Zauber/Liste/feat/wood-elf-magic
 aliases:
   - Spells for Wood Elf Magic
 ---

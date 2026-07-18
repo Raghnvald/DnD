@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Construct Spirit (Clay)
+Status: WIP
 linter-yaml-title-alias: Construct Spirit (Clay)
 tags:
   - Monster/Größe/Mittelgroß

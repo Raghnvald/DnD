@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 9: Maladomini, the Domain of Ruined Cities"
+Status: WIP
 linter-yaml-title-alias: "Chapter 9: Maladomini, the Domain of Ruined Cities"
 tags:
   - Quelle/5e/coa

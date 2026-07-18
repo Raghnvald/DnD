@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Fire Resistance
+Status: WIP
 linter-yaml-title-alias: Potion of Fire Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

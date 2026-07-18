@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Play-by-Play Generator
+Status: WIP
 linter-yaml-title-alias: Play-by-Play Generator
 tags:
   - Monster/Größe/Mittelgroß

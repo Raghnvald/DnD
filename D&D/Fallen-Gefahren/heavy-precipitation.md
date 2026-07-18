@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavy Precipitation
+Status: WIP
 linter-yaml-title-alias: Heavy Precipitation
 tags:
   - Kompendium/Bedrohung/wth

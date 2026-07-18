@@ -2,10 +2,10 @@
 Bezeichnung: Schwein
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 3 GM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Schwein
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -13,6 +13,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schwein
+status: completed
+Original: Pig
 ---
 # Schwein
 *Handelsgut*  

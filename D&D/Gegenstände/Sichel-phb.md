@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Sichel
-Kategorie: Einfache Nahkampfwaffe
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W4 Hieb
 Eigenschaften:
   - Leicht
-Einstimmung: /
+Einstimmung: n/v
 Kst.: 1 GM
 Gew.: 1,0 kg
+Status: WIP
 linter-yaml-title-alias: Sichel
 tags:
   - Gegenstand/Seltenheit/keine
@@ -15,6 +16,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Sichel
+status: WIP
+Original: Sickle
 ---
 # Sichel
 *Waffe*  

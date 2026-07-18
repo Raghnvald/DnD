@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Summon Undead
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Summon Undead
 classes:
   - Bard

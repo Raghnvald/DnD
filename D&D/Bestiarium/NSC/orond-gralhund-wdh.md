@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orond Gralhund
+Status: WIP
 linter-yaml-title-alias: Orond Gralhund
 tags:
   - Monster/Größe/Mittelgroß

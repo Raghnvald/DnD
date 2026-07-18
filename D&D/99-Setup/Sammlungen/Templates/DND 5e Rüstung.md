@@ -8,6 +8,7 @@ Gew.:
 RK:
 STR:
 Heiml.:
+Status: WIP
 linter-yaml-title-alias: Name
 tags:
   - Gegenstand/Ausrüstung

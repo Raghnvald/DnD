@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Belastbar
+Status: WIP
 linter-yaml-title-alias: Belastbar
 tags:
   - Kompendium/Talent

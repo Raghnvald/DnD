@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Trident
+Status: WIP
 linter-yaml-title-alias: Flying Trident
 tags:
   - Monster/Größe/Klein

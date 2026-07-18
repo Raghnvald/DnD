@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sphere of Annihilation
+Status: WIP
 linter-yaml-title-alias: Sphere of Annihilation
 tags:
   - Kompendium/Bedrohung/mag

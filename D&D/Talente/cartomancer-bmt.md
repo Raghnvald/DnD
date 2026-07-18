@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cartomancer
+Status: WIP
 linter-yaml-title-alias: Cartomancer
 tags:
   - Kompendium/Talent

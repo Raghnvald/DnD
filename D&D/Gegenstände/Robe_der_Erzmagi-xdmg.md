@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Robe of the Archmagi
+Status: WIP
 linter-yaml-title-alias: Robe of the Archmagi
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

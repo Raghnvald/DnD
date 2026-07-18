@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ki-rin
+Status: WIP
 linter-yaml-title-alias: Ki-rin
 tags:
   - Monster/legendary-group

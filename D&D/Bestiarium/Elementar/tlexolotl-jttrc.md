@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tlexolotl
+Status: WIP
 linter-yaml-title-alias: Tlexolotl
 tags:
   - Monster/Größe/Riesig

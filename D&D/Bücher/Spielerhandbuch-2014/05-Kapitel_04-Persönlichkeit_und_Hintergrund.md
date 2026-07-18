@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Persönlichkeit und Hintergrund
+Status: completed
 linter-yaml-title-alias: Persönlichkeit und Hintergrund
 tags:
   - Quelle/5e/phb

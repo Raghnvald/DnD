@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trapper
+Status: WIP
 linter-yaml-title-alias: Trapper
 tags:
   - Monster/Größe/Groß

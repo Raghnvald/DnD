@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heroes' Feast"
+Status: WIP
 linter-yaml-title-alias: "Heroes' Feast"
 classes:
   - Bard

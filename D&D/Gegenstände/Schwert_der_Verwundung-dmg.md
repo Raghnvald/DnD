@@ -1,9 +1,17 @@
 ---
-Bezeichnung: Sword of Wounding
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
-linter-yaml-title-alias: Sword of Wounding
+Bezeichnung: Schwert der Verwundung
+Original: Sword of Wounding
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Schaden: variiert
+Eigenschaften:
+  - variiert
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+Status: completed
+linter-yaml-title-alias: Schwert der Verwundung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -14,61 +22,60 @@ aliases:
   - Greatsword of Wounding
   - Longsword of Wounding
   - Rapier of Wounding
+  - Schwert der Verwundung
   - Scimitar of Wounding
   - Shortsword of Wounding
-  - Sword of Wounding
 ---
-# Sword of Wounding
-*Major, rare (requires attunement)*  
+# Schwert der Verwundung
+*Waffe (irgendein Schwert), selten (erfordert Einstimmung)*
 
-Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+Trefferpunkte, die durch Schaden, den diese Waffe zufügt, verloren gehen, können nur durch eine kurze oder lange Rast wiedergewonnen werden anstatt durch Regeneration, Magie oder auf andere Weisen.
+$\quad$Einmal pro Zug kannst du eine Kreatur verwunden, indem du sie mit dieser magischen Waffe angreifst. Wenn eine verwundete Kreatur ihren Zug startet, erhält sie `1W4` nekrotischen Schaden für jede von dir zugefügte Verwundung. Sie kann dann einen `Konstitutions-Rettungswurf` gegen `SG 15` ablegen, um diesen Effekt bei einem Erfolg für alle Wunden zu beenden. Alternativ kann die verwundete Kreatur, oder eine Kreatur innerhalb von 1,50 Meter von ihr, eine Aktion benutzen, um einen Wurf auf `Weisheit` ([[Fertigkeiten-phb#Heilkunde|Heilkunde]]) gegen `SG 15` abzulegen und bei Erfolg den Effekt für alle Wunden zu beenden.
 
-Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes `1d4` necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check, ending the effect of such wounds on it on a success.
+**Varianten**:
+- [[#Krummsäbel der Verwundung]]
+- [[#Kurzschwert der Verwundung]]
+- [[#Langschwert der Verwundung]]
+- [[#Rapier der Verwundung]]
+- [[#Zweihandschwert der Verwundung]]
+- [[#Zweiklingiger Krummsäbel der Verwundung]]
 
-**Variants**:
-- [Double-Bladed Scimitar of Wounding](#Double-Bladed%20Scimitar%20of%20Wounding)
-- [Greatsword of Wounding](#Greatsword%20of%20Wounding)
-- [Longsword of Wounding](#Longsword%20of%20Wounding)
-- [Rapier of Wounding](#Rapier%20of%20Wounding)
-- [Scimitar of Wounding](#Scimitar%20of%20Wounding)
-- [Shortsword of Wounding](#Shortsword%20of%20Wounding)
+### Krummsäbel der Verwundung
 
-### Double-Bladed Scimitar of Wounding
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+### Kurzschwert der Verwundung
 
-### Greatsword of Wounding
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+### Langschwert der Verwundung
 
-### Longsword of Wounding
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+### Rapier der Verwundung
 
-### Rapier of Wounding
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+### Zweihandschwert der Verwundung
 
-### Scimitar of Wounding
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
+### Zweiklingiger Krummsäbel der Verwundung
 
-### Shortsword of Wounding
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-- **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
-
-*Source: Dungeon Master's Guide p. 207. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 188. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

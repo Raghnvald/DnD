@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Samurai
+Status: WIP
 linter-yaml-title-alias: Samurai
 tags:
   - Klasse/Kämpfer/samurai

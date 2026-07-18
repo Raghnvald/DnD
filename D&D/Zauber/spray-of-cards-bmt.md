@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Spray of Cards
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Spray of Cards
 tags:
   - Quelle/5e/bmt

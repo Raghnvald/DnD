@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Merrenoloth
+Status: WIP
 linter-yaml-title-alias: Merrenoloth
 tags:
   - Monster/legendary-group

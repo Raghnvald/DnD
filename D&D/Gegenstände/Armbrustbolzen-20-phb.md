@@ -5,6 +5,7 @@ Eigenschaften:
   - Munition
 Kst.: 1 GM
 Gew.: 0,75 kg
+Status: WIP
 linter-yaml-title-alias: Armbrustbolzen (20)
 tags:
   - Gegenstand/Ausrüstung
@@ -18,8 +19,8 @@ aliases:
 # Armbrustbolzen (20)
 *Munition*    
 
-- **Eigenschaften**: Munition
-- **Kosten**: 1 Goldmünze
-- **Gewicht**: 0,75 kg.
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]]
+- **Kosten**: 1 GM
+- **Gewicht**: 0,75 kg
 
 *Quellen: Spielerhandbuch S. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

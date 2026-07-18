@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Growth
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Growth
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

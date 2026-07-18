@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Condition Cards
+Status: WIP
 linter-yaml-title-alias: Condition Cards
 tags:
   - Quelle/5e/esk
 aliases:
-  - "Condition Cards"
+  - Condition Cards
   - Condition Cards
 ---
 # Condition Cards

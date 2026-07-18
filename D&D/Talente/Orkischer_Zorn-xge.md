@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Orcish Fury
-linter-yaml-title-alias: Orcish Fury
+Bezeichnung: Orkischer Zorn
+Status: WIP
+linter-yaml-title-alias: Orkischer Zorn
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Orcish Fury
+  - Orkischer Zorn
 ---
 # Orkischer Zorn
 *Source: Xanathar's Guide to Everything p. 75*  

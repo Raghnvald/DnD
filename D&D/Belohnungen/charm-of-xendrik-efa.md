@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Charm of Xen'drik"
+Status: WIP
 linter-yaml-title-alias: "Charm of Xen'drik"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
   - "Charm of Xen'drik"

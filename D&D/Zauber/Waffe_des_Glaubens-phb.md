@@ -5,8 +5,9 @@ Zeitaufwand: 1 Bonusaktion
 Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: 1 Minute
-Angriff: /
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Waffe des Glaubens
 classes:
   - Bard (Magical Secrets)
@@ -16,7 +17,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/Kleriker/war-domain
   - Quelle/5e/phb
   - Zauber/Grad/2

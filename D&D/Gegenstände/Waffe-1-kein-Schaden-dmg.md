@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +1 Weapon (no damage)
+Status: WIP
 linter-yaml-title-alias: +1 Weapon (no damage)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

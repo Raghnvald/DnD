@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Types
+Status: WIP
 linter-yaml-title-alias: Guild Types
 tags:
   - Quelle/5e/tce

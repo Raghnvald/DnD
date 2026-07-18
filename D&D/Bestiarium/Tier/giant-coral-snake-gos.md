@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Coral Snake
+Status: WIP
 linter-yaml-title-alias: Giant Coral Snake
 tags:
   - Monster/Größe/Groß

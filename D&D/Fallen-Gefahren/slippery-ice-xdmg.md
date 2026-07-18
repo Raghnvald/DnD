@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Slippery Ice
+Status: WIP
 linter-yaml-title-alias: Slippery Ice
 tags:
   - Kompendium/Bedrohung/env

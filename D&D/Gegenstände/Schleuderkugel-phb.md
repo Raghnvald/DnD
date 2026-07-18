@@ -3,16 +3,17 @@ Bezeichnung: Schleuderkugel
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
+Kst.: n/v
 Gew.: 0,0375 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schleuderkugel
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Schleuderkugel
+status: WIP
 ---
 # Schleuderkugel
 *Ammunition*  

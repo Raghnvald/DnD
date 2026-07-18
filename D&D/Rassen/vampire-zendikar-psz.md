@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampire (Zendikar)
+Status: WIP
 linter-yaml-title-alias: Vampire (Zendikar)
 tags:
   - Quelle/5e/psz
   - Rasse/vampire/zendikar
 aliases:
-  - "Vampire (Zendikar)"
+  - Vampire (Zendikar)
   - Vampire (Zendikar)
 ---
 # Vampire (Zendikar)

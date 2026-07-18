@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Heroic Stories
+Status: WIP
 linter-yaml-title-alias: Heroic Stories
 tags:
   - Quelle/5e/mabjov
 aliases:
-  - "Heroic Stories"
+  - Heroic Stories
   - Heroic Stories
 ---
 # Heroic Stories

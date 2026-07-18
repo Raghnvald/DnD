@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trostani
+Status: WIP
 linter-yaml-title-alias: Trostani
 tags:
   - Monster/Größe/Groß

@@ -2,10 +2,10 @@
 Bezeichnung: Drei-Drachen-Kartensatz
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Drei-Drachen-Kartensatz
 tags:
   - Gegenstand/Ausrüstung/Spielset

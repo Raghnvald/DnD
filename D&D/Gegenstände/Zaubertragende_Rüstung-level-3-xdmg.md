@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Enspelled Armor (Level 3)
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Enspelled Armor (Level 3)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

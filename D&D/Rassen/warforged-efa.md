@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Warforged
+Status: WIP
 linter-yaml-title-alias: Warforged
 tags:
   - Quelle/5e/efa
   - Rasse/warforged
 aliases:
-  - "Warforged"
+  - Warforged
   - Warforged
 ---
 # Warforged

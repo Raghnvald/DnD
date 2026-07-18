@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Delve Guilds
+Status: WIP
 linter-yaml-title-alias: Dungeon Delve Guilds
 tags:
   - Quelle/5e/ggr

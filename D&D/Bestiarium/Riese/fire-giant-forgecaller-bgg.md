@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Giant Forgecaller
+Status: WIP
 linter-yaml-title-alias: Fire Giant Forgecaller
 tags:
   - Monster/Größe/Riesig

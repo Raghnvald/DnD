@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Infernalische Konstitution
-linter-yaml-title-alias: Infernal Constitution
+Status: WIP
+linter-yaml-title-alias: Infernalische Konstitution
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Infernal Constitution
+  - Infernalische Konstitution
 ---
 # Infernalische Konstitution
 *Source: Xanathar's Guide to Everything p. 75*  

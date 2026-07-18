@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Icon of the Lower Aerial Kingdoms
+Status: WIP
 linter-yaml-title-alias: Icon of the Lower Aerial Kingdoms
 tags:
   - Kompendium/Bedrohung/haunt

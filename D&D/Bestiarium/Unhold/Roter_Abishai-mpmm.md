@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Red Abishai
 Kategorie: Unhold
-image: token/red-abishai-mpmm.webp
+Status: WIP
 linter-yaml-title-alias: Red Abishai
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Red Abishai
+image: token/red-abishai-mpmm.webp
 status: WIP
 ---
 # [Red Abishai](3-Mechanics\CLI\bestiary\fiend/red-abishai-mpmm.md)

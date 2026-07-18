@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Wolf Spider
+Status: WIP
 linter-yaml-title-alias: Giant Wolf Spider
 tags:
   - Monster/Größe/Mittelgroß

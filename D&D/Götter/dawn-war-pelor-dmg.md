@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Pelor
+Status: WIP
 linter-yaml-title-alias: Pelor
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
   - Quelle/5e/dmg
 aliases:
   - Pelor

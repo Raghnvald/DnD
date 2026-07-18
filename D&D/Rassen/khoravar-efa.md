@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Khoravar
+Status: WIP
 linter-yaml-title-alias: Khoravar
 tags:
   - Quelle/5e/efa
   - Rasse/khoravar
 aliases:
-  - "Khoravar"
+  - Khoravar
   - Khoravar
 ---
 # Khoravar

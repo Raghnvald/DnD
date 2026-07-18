@@ -2,10 +2,10 @@
 Bezeichnung: Esel
 Kategorie: Reit- und Lastentier
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 8 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Esel
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
@@ -15,6 +15,7 @@ aliases:
   - Esel
 Bew.: 12 m
 Traglast: 420 Pfd.
+Original: Donkey
 ---
 # Esel
 *Reit- und Lasttiere*  

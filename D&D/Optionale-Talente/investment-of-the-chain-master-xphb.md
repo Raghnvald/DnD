@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Investment of the Chain Master
+Status: WIP
 linter-yaml-title-alias: Investment of the Chain Master
 tags:
   - Kompendium/Optionales/ei

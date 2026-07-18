@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Demeter
+Status: WIP
 linter-yaml-title-alias: Demeter
 tags:
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

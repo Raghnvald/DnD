@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for The Hexblade
+Status: WIP
 linter-yaml-title-alias: Spells for The Hexblade
 tags:
-  - Zauber/list/subclass/the-hexblade
+  - Zauber/Liste/subclass/the-hexblade
 aliases:
   - Spells for The Hexblade
 ---

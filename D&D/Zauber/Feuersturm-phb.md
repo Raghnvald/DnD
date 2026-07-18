@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fire Storm
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Fire Storm
 classes:
   - Bard (Magical Secrets)

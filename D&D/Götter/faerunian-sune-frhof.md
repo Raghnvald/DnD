@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Sune
+Status: WIP
 linter-yaml-title-alias: Sune
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Lady Firehair"
-  - "Sune"
-  - "The Lady of Love"
-  - "The Princess of Passion"
+  - Lady Firehair
   - Sune
+  - Sune
+  - The Lady of Love
+  - The Princess of Passion
 ---
 # Sune
 *Source: Forgotten Realms: Heroes of Faerûn p. 122* 

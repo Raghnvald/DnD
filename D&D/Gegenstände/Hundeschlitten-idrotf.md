@@ -2,10 +2,10 @@
 Bezeichnung: Hundeschlitten
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 20 GM
 Gew.: 150,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Hundeschlitten
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug
@@ -17,8 +17,8 @@ aliases:
 # Hundeschlitten
 *Vehicle (land)*  
 
-- **Cost**: 20 gp
-- **Weight**: 300.0 lbs.
+- **Kosten**: 20 GM
+- **Gewicht**: 150,0 kg
 
 An empty sled costs 20 gp, weighs 300 pounds, and has room at the back for one driver.
 

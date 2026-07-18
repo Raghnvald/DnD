@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Meditation Chamber
+Status: WIP
 linter-yaml-title-alias: Meditation Chamber
 tags:
   - Kompendium/Bastion

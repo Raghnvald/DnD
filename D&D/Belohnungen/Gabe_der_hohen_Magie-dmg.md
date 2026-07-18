@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der hohen Magie
+Status: WIP
 linter-yaml-title-alias: Gabe der hohen Magie
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of High Magic

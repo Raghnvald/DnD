@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of Power
+Status: WIP
 linter-yaml-title-alias: Circle of Power
 classes:
   - Bard

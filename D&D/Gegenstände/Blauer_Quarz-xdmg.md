@@ -2,14 +2,15 @@
 Bezeichnung: Blue Quartz
 Kst.: 10 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Blue Quartz
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Blue Quartz
+status: WIP
 ---
 # Blue Quartz
 *Treasure (gemstone)*  

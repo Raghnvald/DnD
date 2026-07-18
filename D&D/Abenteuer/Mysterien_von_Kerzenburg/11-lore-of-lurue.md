@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lore of Lurue
+Status: WIP
 linter-yaml-title-alias: Lore of Lurue
 tags:
   - Quelle/5e/cm

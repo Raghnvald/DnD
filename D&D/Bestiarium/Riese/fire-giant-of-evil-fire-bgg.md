@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Giant of Evil Fire
+Status: WIP
 linter-yaml-title-alias: Fire Giant of Evil Fire
 tags:
   - Monster/Größe/Riesig

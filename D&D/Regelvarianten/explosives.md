@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Explosives
+Status: WIP
 linter-yaml-title-alias: Explosives
 tags:
   - Quelle/5e/dmg

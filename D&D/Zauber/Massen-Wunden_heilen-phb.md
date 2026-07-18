@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mass Cure Wounds
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Mass Cure Wounds
 classes:
   - Bard (Magical Secrets)
@@ -11,7 +12,7 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Quelle/5e/phb
   - Zauber/Grad/5
   - Zauber/Schule/Hervorrufung

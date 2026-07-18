@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Unsichtbarer Diener
 classes:
   - Bard (Magical Secrets)
@@ -19,8 +20,8 @@ tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1

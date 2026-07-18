@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Gift Descriptions; Draconic Gift Rarity
+Status: WIP
 linter-yaml-title-alias: Draconic Gift Descriptions; Draconic Gift Rarity
 tags:
   - Quelle/5e/ftd

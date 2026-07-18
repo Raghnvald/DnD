@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Azra Nir
+Status: WIP
 linter-yaml-title-alias: Azra Nir
 tags:
   - Monster/Größe/Mittelgroß

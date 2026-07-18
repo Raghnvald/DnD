@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Griffon
+Status: WIP
 linter-yaml-title-alias: Griffon
 tags:
   - Monster/Größe/Groß

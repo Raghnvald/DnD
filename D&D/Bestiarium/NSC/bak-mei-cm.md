@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bak Mei
+Status: WIP
 linter-yaml-title-alias: Bak Mei
 tags:
   - Monster/Größe/Mittelgroß

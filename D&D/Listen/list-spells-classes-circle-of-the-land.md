@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Circle of the Land
+Status: WIP
 linter-yaml-title-alias: Spells for Circle of the Land
 tags:
-  - Zauber/list/subclass/circle-of-the-land
+  - Zauber/Liste/subclass/circle-of-the-land
 aliases:
   - Spells for Circle of the Land
 ---

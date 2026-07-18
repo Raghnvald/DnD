@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Rod of the Vonindod
 Kategorie: Zepter
+Status: WIP
 linter-yaml-title-alias: Rod of the Vonindod
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/skt

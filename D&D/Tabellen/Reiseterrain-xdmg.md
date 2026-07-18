@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Travel Terrain
+Status: WIP
 linter-yaml-title-alias: Travel Terrain
 tags:
   - Quelle/5e/xdmg

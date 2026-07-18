@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Lliira
+Status: WIP
 linter-yaml-title-alias: Lliira
 tags:
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

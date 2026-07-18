@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elder Brain
+Status: WIP
 linter-yaml-title-alias: Elder Brain
 tags:
   - Monster/legendary-group

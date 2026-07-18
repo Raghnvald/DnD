@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Lightfoot)
+Status: WIP
 linter-yaml-title-alias: Halfling (Lightfoot)
 tags:
   - Quelle/5e/phb

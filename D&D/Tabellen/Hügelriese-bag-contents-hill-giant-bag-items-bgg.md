@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hill Giant Bag Contents; Hill Giant Bag Items
+Status: WIP
 linter-yaml-title-alias: Hill Giant Bag Contents; Hill Giant Bag Items
 tags:
   - Quelle/5e/bgg

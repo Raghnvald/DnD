@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hellwasp
+Status: WIP
 linter-yaml-title-alias: Hellwasp
 tags:
   - Monster/Größe/Groß

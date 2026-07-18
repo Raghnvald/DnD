@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heiligtum
+Status: WIP
 linter-yaml-title-alias: Heiligtum
 tags:
   - Klasse/Kleriker

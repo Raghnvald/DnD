@@ -5,6 +5,7 @@ Bezeichnung: Sword Wraith Warrior
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 3
+Status: WIP
 linter-yaml-title-alias: Sword Wraith Warrior
 tags:
   - Monster/Größe/Mittelgroß

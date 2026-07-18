@@ -1,5 +1,6 @@
 ---
 Bezeichnung: National Affairs; Cyran Affairs
+Status: WIP
 linter-yaml-title-alias: National Affairs; Cyran Affairs
 tags:
   - Quelle/5e/erlw

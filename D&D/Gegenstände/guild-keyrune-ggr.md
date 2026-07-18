@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Guild Keyrune
+Status: WIP
 linter-yaml-title-alias: Guild Keyrune
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/ggr
 aliases:

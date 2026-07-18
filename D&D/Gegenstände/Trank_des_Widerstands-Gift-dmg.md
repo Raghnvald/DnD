@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Poison Resistance
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Poison Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

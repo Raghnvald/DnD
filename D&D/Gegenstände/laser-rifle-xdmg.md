@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Laser Rifle
+Status: WIP
 linter-yaml-title-alias: Laser Rifle
 tags:
   - Gegenstand/Seltenheit/keine

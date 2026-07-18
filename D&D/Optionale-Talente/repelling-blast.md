@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Repelling Blast
+Status: WIP
 linter-yaml-title-alias: Repelling Blast
 tags:
   - Kompendium/Optionales/ei

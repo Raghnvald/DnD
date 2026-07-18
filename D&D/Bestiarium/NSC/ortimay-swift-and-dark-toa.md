@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ortimay Swift and Dark
+Status: WIP
 linter-yaml-title-alias: Ortimay Swift and Dark
 tags:
   - Monster/Größe/Mittelgroß

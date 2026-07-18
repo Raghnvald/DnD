@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armaments - Very Rare
+Status: WIP
 linter-yaml-title-alias: Armaments - Very Rare
 tags:
   - Quelle/5e/xdmg

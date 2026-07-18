@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Scene 6: The Dragon"
+Status: WIP
 linter-yaml-title-alias: "Scene 6: The Dragon"
 tags:
   - Quelle/5e/lrdt

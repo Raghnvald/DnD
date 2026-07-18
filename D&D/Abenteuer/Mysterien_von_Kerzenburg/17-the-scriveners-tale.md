@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Scrivener's Tale"
+Status: WIP
 linter-yaml-title-alias: "The Scrivener's Tale"
 tags:
   - Quelle/5e/cm
 aliases:
   - "The Scrivener's Tale"
-  - The Scrivener's Tale
 ---
 # The Scrivener's Tale
 *Source: Candlekeep Mysteries, p. 184* 

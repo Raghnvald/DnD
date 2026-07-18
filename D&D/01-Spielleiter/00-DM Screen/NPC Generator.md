@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Generator
+Status: WIP
 tags:
   - Quelle/5e/dmg
 ---

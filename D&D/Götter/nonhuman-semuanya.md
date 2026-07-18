@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Semuanya
+Status: WIP
 linter-yaml-title-alias: Semuanya
 tags:
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

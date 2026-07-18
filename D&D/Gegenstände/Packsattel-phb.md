@@ -2,17 +2,18 @@
 Bezeichnung: Packsattel
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 7,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Packsattel
 tags:
-  - Gegenstand/Ausrüstung/tack-and-harness
+  - Gegenstand/Ausrüstung/Zaumzeug-und-Harnisch
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Packsattel
+status: completed
 ---
 # Packsattel
 *Zaumzeug und Harnisch*  

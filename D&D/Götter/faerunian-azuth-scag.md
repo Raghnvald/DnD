@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Azuth
+Status: WIP
 linter-yaml-title-alias: Azuth
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Azuth

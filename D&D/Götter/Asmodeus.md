@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Asmodeus, Gott des Genusses
+Status: WIP
 linter-yaml-title-alias: Asmodeus, Gott des Genusses
 tags:
   - Kompendium/Götter

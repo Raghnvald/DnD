@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Bulette
+Status: WIP
 linter-yaml-title-alias: Undead Bulette
 tags:
   - Monster/Größe/Groß

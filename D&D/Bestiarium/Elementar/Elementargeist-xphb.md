@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elemental Spirit
+Status: WIP
 linter-yaml-title-alias: Elemental Spirit
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guards and Wards
+Status: WIP
 linter-yaml-title-alias: Guards and Wards
 classes:
   - Bard

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Tasha's Creeping Keelboat"
+Status: WIP
 linter-yaml-title-alias: "Tasha's Creeping Keelboat"
 tags:
   - Quelle/5e/ditlcot
-  - ttrpg-cli/vehicle/size/gargantuan
-  - ttrpg-cli/vehicle/terrain/sea
-  - ttrpg-cli/vehicle/type/object
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
+  - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Kategorie/Objekt
 aliases:
   - "Tasha's Creeping Keelboat"
 ---

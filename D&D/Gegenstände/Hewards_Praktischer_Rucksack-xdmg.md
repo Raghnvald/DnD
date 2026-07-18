@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heward's Handy Haversack"
+Status: WIP
 linter-yaml-title-alias: "Heward's Handy Haversack"
 tags:
   - Gegenstand/Seltenheit/selten

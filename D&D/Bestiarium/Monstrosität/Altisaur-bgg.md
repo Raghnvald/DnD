@@ -8,7 +8,7 @@ HG: "13"
 Habitat:
   - /
 Image: token/altisaur-bgg.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Altisaur
 tags:
   - Monster/Größe/Gigantisch
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Altisaur
+status: WIP
 ---
 # [Altisaur](3-Mechanics\CLI\bestiary\monstrosity/altisaur-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 129*  

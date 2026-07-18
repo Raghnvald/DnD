@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Deep Diver
+Status: WIP
 linter-yaml-title-alias: Sahuagin Deep Diver
 tags:
   - Monster/Größe/Mittelgroß

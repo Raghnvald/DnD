@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Leicht gerüstet
-linter-yaml-title-alias: Lightly Armored
+Status: WIP
+linter-yaml-title-alias: Leicht gerüstet
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Lightly Armored
+  - Leicht gerüstet
 ---
 # Leicht gerüstet
 *Source: Player's Handbook p. 167*  

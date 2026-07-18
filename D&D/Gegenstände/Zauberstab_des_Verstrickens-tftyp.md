@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Wand of Entangle
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Wand of Entangle
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/wand
   - Quelle/5e/tftyp

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Gaining Renown"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Gaining Renown"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Downtime Activity: Gaining Renown"
-  - Downtime Activity: Gaining Renown
 ---
 # Downtime Activity: Gaining Renown
 *Source: Dungeon Master's Guide p. 129* 

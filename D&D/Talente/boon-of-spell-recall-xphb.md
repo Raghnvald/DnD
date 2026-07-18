@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Spell Recall
+Status: WIP
 linter-yaml-title-alias: Boon of Spell Recall
 tags:
   - Kompendium/Talent

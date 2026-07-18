@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knight of the Order
+Status: WIP
 linter-yaml-title-alias: Knight of the Order
 tags:
   - Monster/Größe/Mittelgroß

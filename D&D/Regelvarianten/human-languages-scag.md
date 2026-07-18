@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Human Languages
+Status: WIP
 linter-yaml-title-alias: Human Languages
 tags:
   - Quelle/5e/scag
 aliases:
-  - "Human Languages"
+  - Human Languages
   - Human Languages
 ---
 # Human Languages

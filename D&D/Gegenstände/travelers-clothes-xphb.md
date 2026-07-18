@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Traveler's Clothes"
+Status: WIP
 linter-yaml-title-alias: "Traveler's Clothes"
 tags:
   - Gegenstand/Ausrüstung/

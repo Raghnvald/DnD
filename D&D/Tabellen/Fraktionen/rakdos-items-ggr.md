@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Items
+Status: WIP
 linter-yaml-title-alias: Rakdos Items
 tags:
   - Quelle/5e/ggr

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dzaan
+Status: WIP
 linter-yaml-title-alias: Dzaan
 tags:
   - Monster/Größe/Mittelgroß

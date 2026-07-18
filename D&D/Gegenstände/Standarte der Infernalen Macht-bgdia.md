@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Battle Standard of Infernal Power
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Battle Standard of Infernal Power
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/bgdia

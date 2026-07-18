@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Stygian Gambit
+Status: WIP
 linter-yaml-title-alias: The Stygian Gambit
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "The Stygian Gambit"
+  - The Stygian Gambit
   - The Stygian Gambit
 ---
 # The Stygian Gambit

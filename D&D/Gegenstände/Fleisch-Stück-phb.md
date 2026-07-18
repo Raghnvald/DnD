@@ -2,10 +2,10 @@
 Bezeichnung: Fleisch, Stück
 Kategorie: Essen und Trinken
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 3 SM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Fleisch, Stück
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

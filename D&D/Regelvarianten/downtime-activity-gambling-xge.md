@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Gambling"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Gambling"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Gambling"
-  - Downtime Activity: Gambling
 ---
 # Downtime Activity: Gambling
 *Source: Xanathar's Guide to Everything p. 130* 

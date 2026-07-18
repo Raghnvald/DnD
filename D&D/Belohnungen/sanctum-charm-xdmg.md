@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sanctum Charm
+Status: WIP
 linter-yaml-title-alias: Sanctum Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Sanctum Charm

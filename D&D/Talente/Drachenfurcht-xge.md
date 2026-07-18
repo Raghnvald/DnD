@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Drachenfurcht
-linter-yaml-title-alias: Dragon Fear
+Status: WIP
+linter-yaml-title-alias: Drachenfurcht
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Dragon Fear
+  - Drachenfurcht
 ---
 # Drachenfurcht
 *Source: Xanathar's Guide to Everything p. 74*  

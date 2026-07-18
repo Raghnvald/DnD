@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Geteilte Kampagnen
+Status: WIP
 linter-yaml-title-alias: Geteilte Kampagnen
 tags:
   - Quelle/5e/xge

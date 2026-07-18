@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Conjurer
+Status: WIP
 linter-yaml-title-alias: Conjurer
 tags:
   - Monster/Größe/Mittelgroß

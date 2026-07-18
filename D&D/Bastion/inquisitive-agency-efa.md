@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Inquisitive Agency
+Status: WIP
 linter-yaml-title-alias: Inquisitive Agency
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
-  - "Inquisitive Agency"
+  - Inquisitive Agency
   - Inquisitive Agency
 ---
 # Inquisitive Agency

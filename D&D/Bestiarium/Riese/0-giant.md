@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Giant
+Status: WIP
 linter-yaml-title-alias: Index of Giant
 aliases:
   - Index of Giant

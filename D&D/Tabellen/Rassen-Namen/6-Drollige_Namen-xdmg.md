@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "6: Whimsical Names"
+Status: WIP
 linter-yaml-title-alias: "6: Whimsical Names"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - '"6": Whimsical Names'
   - "6: Whimsical Names"
-  - "6": Whimsical Names
 ---
 # 6: Whimsical Names
 *Source: Dungeon Master's Guide (2024) p. 84* 

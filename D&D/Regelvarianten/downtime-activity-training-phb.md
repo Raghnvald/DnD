@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Training"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Training"
 tags:
   - Quelle/5e/phb
 aliases:
   - "Downtime Activity: Training"
-  - Downtime Activity: Training
 ---
 # Downtime Activity: Training
 *Source: Player's Handbook p. 187* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Vos'skyriss Serpentfolk"
+Status: WIP
 linter-yaml-title-alias: "Vos'skyriss Serpentfolk"
 tags:
   - Monster/Größe/Groß
@@ -14,7 +15,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - "Vos'skyriss Serpentfolk"
-  - Vos'skyriss Serpentfolk
 ---
 # [Vos'skyriss Serpentfolk](3-Mechanics\CLI\bestiary\monstrosity/vosskyriss-serpentfolk-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 258*  

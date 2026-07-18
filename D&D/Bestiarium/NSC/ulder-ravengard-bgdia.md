@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ulder Ravengard
+Status: WIP
 linter-yaml-title-alias: Ulder Ravengard
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inspired
+Status: WIP
 linter-yaml-title-alias: Inspired
 tags:
   - Monster/Größe/Mittelgroß

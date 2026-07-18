@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shrieker Fungus
+Status: WIP
 linter-yaml-title-alias: Shrieker Fungus
 tags:
   - Monster/Größe/Mittelgroß

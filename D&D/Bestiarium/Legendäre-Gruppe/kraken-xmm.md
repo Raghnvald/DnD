@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kraken
+Status: WIP
 linter-yaml-title-alias: Kraken
 tags:
   - Monster/legendary-group

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Long Jump
+Status: WIP
 linter-yaml-title-alias: Long Jump
 tags:
   - Quelle/5e/xphb

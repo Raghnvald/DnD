@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Stronmaus
+Status: WIP
 linter-yaml-title-alias: Scion of Stronmaus
 tags:
   - Monster/legendary-group

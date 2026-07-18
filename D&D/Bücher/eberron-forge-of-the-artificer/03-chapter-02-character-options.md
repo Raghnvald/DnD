@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 02: Character Options"
+Status: WIP
 linter-yaml-title-alias: "Chapter 02: Character Options"
 tags:
   - Quelle/5e/efa

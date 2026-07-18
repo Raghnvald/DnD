@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Mammon)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Mammon)
 tags:
-  - Zauber/list/subrace/tiefling-mammon
+  - Zauber/Liste/subrace/tiefling-mammon
 aliases:
   - Spells for Tiefling (Mammon)
 ---

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Aberrant Sorcery
+Status: WIP
 linter-yaml-title-alias: Spells for Aberrant Sorcery
 tags:
-  - Zauber/list/subclass/aberrant-sorcery
+  - Zauber/Liste/subclass/aberrant-sorcery
 aliases:
   - Spells for Aberrant Sorcery
 ---

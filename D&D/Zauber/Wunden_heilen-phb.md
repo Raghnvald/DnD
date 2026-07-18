@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: n/v
 Schaden: 1d8 Heilung
+Status: WIP
 linter-yaml-title-alias: Wunden heilen
 classes:
   - Bard (Magical Secrets)
@@ -19,10 +20,10 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
   - Klasse/Waldläufer
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung

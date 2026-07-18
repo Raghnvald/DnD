@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Death's Head"
+Status: WIP
 linter-yaml-title-alias: "Death's Head"
 tags:
   - Monster/Größe/Winzig
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - "Death's Head"
-  - Death's Head
 ---
 # [Death's Head](3-Mechanics\CLI\bestiary\undead/deaths-head-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 232*  

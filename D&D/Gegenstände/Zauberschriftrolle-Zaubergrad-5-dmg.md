@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 5)
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 5)
 tags:
   - Gegenstand/Seltenheit/selten
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberschriftrolle (Zaubergrad 5)
+status: completed
 ---
 # Zauberschriftrolle (Zaubergrad 5)
 *Schriftrolle, selten*  

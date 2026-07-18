@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Human (Innistrad; Gavony)
+Status: WIP
 linter-yaml-title-alias: Human (Innistrad; Gavony)
 tags:
   - Quelle/5e/psi
   - Rasse/human/innistrad-gavony
 aliases:
-  - "Human (Innistrad; Gavony)"
+  - Human (Innistrad; Gavony)
   - Human (Innistrad; Gavony)
 ---
 # Human (Innistrad; Gavony)

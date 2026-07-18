@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Mind Sliver
 classes:
   - Bard (College of Lore)
@@ -22,7 +23,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/kobold

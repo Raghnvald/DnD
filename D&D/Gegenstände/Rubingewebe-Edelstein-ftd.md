@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ruby Weave Gem
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Ruby Weave Gem
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/ftd

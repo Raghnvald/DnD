@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azuth, Gott der Magier
+Status: WIP
 linter-yaml-title-alias: Azuth, Gott der Magier
 tags:
   - Kompendium/Götter

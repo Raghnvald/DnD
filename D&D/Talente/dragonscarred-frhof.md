@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Dragonscarred
+Status: WIP
 linter-yaml-title-alias: Dragonscarred
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Dragonscarred"
+  - Dragonscarred
   - Dragonscarred
 ---
 # Dragonscarred

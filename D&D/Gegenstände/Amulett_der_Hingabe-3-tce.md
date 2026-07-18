@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Amulet of the Devout
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: +3 Amulet of the Devout
 tags:
   - Gegenstand/Einstimmung

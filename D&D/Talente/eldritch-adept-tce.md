@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Adept
+Status: WIP
 linter-yaml-title-alias: Eldritch Adept
 tags:
   - Kompendium/Talent

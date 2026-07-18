@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Further Information
+Status: WIP
 linter-yaml-title-alias: Further Information
 tags:
   - Quelle/5e/al
 aliases:
-  - "Further Information"
+  - Further Information
   - Further Information
 ---
 # Further Information

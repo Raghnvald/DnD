@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lightning Golem
+Status: WIP
 linter-yaml-title-alias: Lightning Golem
 tags:
   - Monster/Größe/Mittelgroß

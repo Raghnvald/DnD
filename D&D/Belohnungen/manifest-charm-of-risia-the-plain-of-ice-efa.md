@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Risia, the Plain of Ice
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Risia, the Plain of Ice
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Risia, the Plain of Ice"
+  - Manifest Charm of Risia, the Plain of Ice
   - Manifest Charm of Risia, the Plain of Ice
 ---
 # Manifest Charm of Risia, the Plain of Ice

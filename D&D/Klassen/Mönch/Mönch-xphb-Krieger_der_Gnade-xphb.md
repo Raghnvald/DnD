@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior of Mercy
+Status: WIP
 linter-yaml-title-alias: Warrior of Mercy
 tags:
   - Klasse/Mönch/mercy

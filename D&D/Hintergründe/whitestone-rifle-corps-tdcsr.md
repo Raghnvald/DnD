@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Whitestone Rifle Corps
+Status: WIP
 linter-yaml-title-alias: Whitestone Rifle Corps
 tags:
   - Kompendium/Hintergrund

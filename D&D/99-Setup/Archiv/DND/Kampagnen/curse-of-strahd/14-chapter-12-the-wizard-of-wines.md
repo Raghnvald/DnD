@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 12: The Wizard of Wines"
+Status: WIP
 linter-yaml-title-alias: "Chapter 12: The Wizard of Wines"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 12: The Wizard of Wines"
-  - Chapter 12: The Wizard of Wines
 ---
 # Chapter 12: The Wizard of Wines
 *Source: Curse of Strahd, p. 173* 

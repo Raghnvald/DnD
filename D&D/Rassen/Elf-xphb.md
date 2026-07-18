@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf
+Status: WIP
 linter-yaml-title-alias: Elf
 tags:
   - Quelle/5e/xphb

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Monk Spells
+Status: WIP
 linter-yaml-title-alias: Monk Spells
 tags:
-  - Zauber/list/class/monk
+  - Zauber/Liste/class/monk
 aliases:
   - Monk Spells
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Was ist ein Zauber?
+Status: WIP
 linter-yaml-title-alias: Was ist ein Zauber?
 tags: []
 aliases:

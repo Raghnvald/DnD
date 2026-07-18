@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Hadozee
+Status: WIP
 linter-yaml-title-alias: Hadozee
 tags:
   - Quelle/5e/aag
   - Rasse/hadozee
 aliases:
-  - "Hadozee"
+  - Hadozee
   - Hadozee
 ---
 # Hadozee

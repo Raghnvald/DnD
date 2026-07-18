@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gloves of Thievery
+Status: WIP
 linter-yaml-title-alias: Gloves of Thievery
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

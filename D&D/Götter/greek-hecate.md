@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Hecate
+Status: WIP
 linter-yaml-title-alias: Hecate
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

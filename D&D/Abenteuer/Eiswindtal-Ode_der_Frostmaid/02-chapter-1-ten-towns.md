@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: Ten-Towns"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Ten-Towns"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Chapter 1: Ten-Towns"
-  - Chapter 1: Ten-Towns
 ---
 # Chapter 1: Ten-Towns
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 17* 

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aurumvorax Den Leader
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aurumvorax Den Leader
 tags:
   - Monster/Größe/Mittelgroß
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Aurumvorax Den Leader
+status: WIP
 ---
 # [Aurumvorax Den Leader](3-Mechanics\CLI\bestiary\monstrosity/aurumvorax-den-leader-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 105*  

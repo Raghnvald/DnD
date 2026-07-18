@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tabaxi
+Status: WIP
 linter-yaml-title-alias: Tabaxi
 tags:
   - Quelle/5e/vgm

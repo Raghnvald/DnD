@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Shemshime's Bedtime Rhyme"
+Status: WIP
 linter-yaml-title-alias: "Shemshime's Bedtime Rhyme"
 tags:
   - Quelle/5e/cm
 aliases:
   - "Shemshime's Bedtime Rhyme"
-  - Shemshime's Bedtime Rhyme
 ---
 # Shemshime's Bedtime Rhyme
 *Source: Candlekeep Mysteries, p. 61* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix E: Corruption"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: Corruption"
 tags:
   - Quelle/5e/coa

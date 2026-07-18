@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Druidic Warrior
+Status: WIP
 linter-yaml-title-alias: Druidic Warrior
 tags:
   - Kompendium/Talent

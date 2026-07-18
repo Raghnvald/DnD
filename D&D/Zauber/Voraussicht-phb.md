@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Foresight
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Foresight
 classes:
   - Bard (Magical Secrets)

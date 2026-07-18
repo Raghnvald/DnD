@@ -5,7 +5,7 @@ Bezeichnung: Annis Hag
 Kategorie: Feenwesen
 Größe: Groß
 HG: "6"
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Annis Hag
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Annis Hag
+status: WIP
 ---
 # [Annis Hag](3-Mechanics\CLI\bestiary\fey/annis-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47*  

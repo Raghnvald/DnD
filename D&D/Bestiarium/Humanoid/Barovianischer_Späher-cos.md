@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barovian Scout
+Status: WIP
 linter-yaml-title-alias: Barovian Scout
 tags:
   - Monster/Größe/Mittelgroß

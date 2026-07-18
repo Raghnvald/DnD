@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Saeth Cromley
+Status: WIP
 linter-yaml-title-alias: Saeth Cromley
 tags:
   - Monster/Größe/Mittelgroß

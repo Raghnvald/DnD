@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Reality Break
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Reality Break
 tags:
   - Quelle/5e/egw

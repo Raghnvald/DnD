@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Sea
+Status: WIP
 linter-yaml-title-alias: Circle of the Sea
 tags:
   - Klasse/Druide/sea

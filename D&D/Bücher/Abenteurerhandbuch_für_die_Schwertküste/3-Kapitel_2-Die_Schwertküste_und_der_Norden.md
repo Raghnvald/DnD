@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 2: Die Schwertküste und der Norden "
+Status: WIP
 linter-yaml-title-alias: "Kapitel 2: Die Schwertküste und der Norden "
 tags:
   - Quelle/5e/scag

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Many Tongues
+Status: WIP
 linter-yaml-title-alias: Charm of Many Tongues
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bgdia
 aliases:
   - Charm of Many Tongues

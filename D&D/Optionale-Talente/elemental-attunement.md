@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Attunement
+Status: WIP
 linter-yaml-title-alias: Elemental Attunement
 tags:
   - Kompendium/Optionales/ed

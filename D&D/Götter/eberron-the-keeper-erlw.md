@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Keeper
+Status: WIP
 linter-yaml-title-alias: The Keeper
 tags:
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Ephara's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Ephara's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/epharas-devotee
+  - Zauber/Liste/reward/epharas-devotee
 aliases:
   - "Spells for Ephara's Devotee"
 ---

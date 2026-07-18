@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Jester's Mask"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "Jester's Mask"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/bmt

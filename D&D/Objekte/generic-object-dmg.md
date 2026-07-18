@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Generic Object
+Status: WIP
 linter-yaml-title-alias: Generic Object
 tags:
-  - Kompendium/Objekt/size/varies
-  - Kompendium/Objekt/type/generic
+  - Kompendium/Objekt/Größe/variiert
+  - Kompendium/Objekt/Kategorie/generisch
   - Quelle/5e/dmg
 aliases:
   - Generic Object

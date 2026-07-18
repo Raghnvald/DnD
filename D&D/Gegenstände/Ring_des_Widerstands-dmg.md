@@ -2,11 +2,12 @@
 Bezeichnung: Ring des Widerstands
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Status: completed
 linter-yaml-title-alias: Ring des Widerstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
@@ -14,7 +15,7 @@ aliases:
   - Ring des Widerstands
 ---
 # Ring des Widerstands
-*Ring, selten (benötigt Einstimmung)*  
+*Ring, selten (erfordert Einstimmung)*  
 ![](img/ring-of-resistance.webp#right)
 
 Du hast Resistenz gegen eine Schadensart, während du diesen Ring trägst. Der Edelstein im Ring bestimmt die Schadensart, welche der SL vorgibt oder zufällig bestimmt.

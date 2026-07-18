@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Sending
+Status: WIP
 linter-yaml-title-alias: Charm of Sending
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - Charm of Sending

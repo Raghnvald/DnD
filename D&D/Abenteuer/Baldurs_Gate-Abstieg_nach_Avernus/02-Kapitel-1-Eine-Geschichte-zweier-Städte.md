@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "<center> Kapitel 1: Eine Geschichte zweier Städte </center>"
+Status: WIP
 linter-yaml-title-alias: "<center> Kapitel 1: Eine Geschichte zweier Städte </center>"
 tags:
   - Quelle/5e/bgdia

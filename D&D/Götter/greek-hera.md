@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hera
+Status: WIP
 linter-yaml-title-alias: Hera
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

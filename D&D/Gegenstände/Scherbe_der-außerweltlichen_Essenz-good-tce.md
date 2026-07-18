@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Outer Essence Shard (Good)
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Outer Essence Shard (Good)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce

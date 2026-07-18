@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Create Food and Water
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Create Food and Water
 classes:
   - Bard (Magical Secrets)

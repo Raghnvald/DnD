@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tribal Warrior Spore Servant
+Status: WIP
 linter-yaml-title-alias: Tribal Warrior Spore Servant
 tags:
   - Monster/Größe/Mittelgroß

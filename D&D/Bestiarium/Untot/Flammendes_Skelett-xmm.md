@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flaming Skeleton
+Status: WIP
 linter-yaml-title-alias: Flaming Skeleton
 tags:
   - Monster/Größe/Mittelgroß

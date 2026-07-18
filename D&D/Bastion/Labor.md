@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Laboratory
+Status: WIP
 linter-yaml-title-alias: Laboratory
 tags:
   - Kompendium/Bastion

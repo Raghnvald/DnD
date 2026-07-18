@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Making
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Making
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Making"
+  - Greater Mark of Making
   - Greater Mark of Making
 ---
 # Greater Mark of Making

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spellcaster (Healer)
+Status: WIP
 linter-yaml-title-alias: Spellcaster (Healer)
 tags:
   - Monster/Größe/Mittelgroß

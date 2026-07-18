@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Wave of Rolling Earth
+Status: WIP
 linter-yaml-title-alias: Spells for Wave of Rolling Earth
 tags:
-  - Zauber/list/optfeature/wave-of-rolling-earth
+  - Zauber/Liste/optfeature/wave-of-rolling-earth
 aliases:
   - Spells for Wave of Rolling Earth
 ---

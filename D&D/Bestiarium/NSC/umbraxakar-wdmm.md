@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Umbraxakar
+Status: WIP
 linter-yaml-title-alias: Umbraxakar
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire Rune
+Status: WIP
 linter-yaml-title-alias: Fire Rune
 tags:
   - Kompendium/Optionales/rn

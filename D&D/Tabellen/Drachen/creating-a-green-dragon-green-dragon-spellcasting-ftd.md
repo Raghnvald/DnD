@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Green Dragon; Green Dragon Spellcasting
+Status: WIP
 linter-yaml-title-alias: Creating a Green Dragon; Green Dragon Spellcasting
 tags:
   - Quelle/5e/ftd

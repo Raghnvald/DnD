@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: King Hekaton
+Status: WIP
 linter-yaml-title-alias: King Hekaton
 tags:
   - Monster/Größe/Riesig

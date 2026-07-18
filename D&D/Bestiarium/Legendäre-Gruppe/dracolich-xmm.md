@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dracolich
+Status: WIP
 linter-yaml-title-alias: Dracolich
 tags:
   - Monster/legendary-group

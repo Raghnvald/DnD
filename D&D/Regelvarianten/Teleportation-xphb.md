@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Teleportation
+Status: WIP
 linter-yaml-title-alias: Teleportation
 tags:
   - Quelle/5e/xphb

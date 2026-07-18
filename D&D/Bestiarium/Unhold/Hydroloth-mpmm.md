@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hydroloth
+Status: WIP
 linter-yaml-title-alias: Hydroloth
 tags:
   - Monster/Größe/Mittelgroß

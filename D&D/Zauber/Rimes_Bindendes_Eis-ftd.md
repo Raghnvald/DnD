@@ -1,7 +1,9 @@
 ---
-Bezeichnung: "Rime's Binding Ice"
+Bezeichnung: Rimes Bindendes Eis
 Zaubergrad: 2
-linter-yaml-title-alias: "Rime's Binding Ice"
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Rimes Bindendes Eis
 classes:
   - Bard
   - Bard (College of Lore)
@@ -22,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 aliases:
-  - "Rime's Binding Ice"
+  - Rimes Bindendes Eis
 ---
-# Rime's Binding Ice
+# Rimes Bindendes Eis
 *2nd-level, Evocation*  
 ![Rime's binding ice adds in...](/3-Mechanics/CLI/spells/img/rimes-binding-ice.webp#right "Rime's binding ice adds insult to injury in the hands of a spellcasting white dragon.")
 

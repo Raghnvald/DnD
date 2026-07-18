@@ -1,5 +1,6 @@
 ---
 Bezeichnung: llmater, Gott der Ausdauer
+Status: WIP
 linter-yaml-title-alias: llmater, Gott der Ausdauer
 tags:
   - Kompendium/Götter

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Daylight
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Daylight
 classes:
   - Bard (Magical Secrets)
@@ -16,7 +18,7 @@ tags:
   - Klasse/Druide
   - Klasse/Druide/circle-of-the-land/grassland
   - Klasse/Kleriker
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/paladin
   - Klasse/Waldläufer
   - Klasse/Zauberer

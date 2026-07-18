@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Gift of the Depths
+Status: WIP
 linter-yaml-title-alias: Spells for Gift of the Depths
 tags:
-  - Zauber/list/optfeature/gift-of-the-depths
+  - Zauber/Liste/optfeature/gift-of-the-depths
 aliases:
   - Spells for Gift of the Depths
 ---

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Revelry
+Status: WIP
 linter-yaml-title-alias: Boon of Revelry
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of Revelry"
+  - Boon of Revelry
   - Boon of Revelry
 ---
 # Boon of Revelry

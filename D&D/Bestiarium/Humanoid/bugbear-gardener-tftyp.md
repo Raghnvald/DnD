@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bugbear Gardener
+Status: WIP
 linter-yaml-title-alias: Bugbear Gardener
 tags:
   - Monster/Größe/Mittelgroß

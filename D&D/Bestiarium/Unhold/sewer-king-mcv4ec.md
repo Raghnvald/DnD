@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sewer King
+Status: WIP
 linter-yaml-title-alias: Sewer King
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gondolo
+Status: WIP
 linter-yaml-title-alias: Gondolo
 tags:
   - Monster/Größe/Mittelgroß

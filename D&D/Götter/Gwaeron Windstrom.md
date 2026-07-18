@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gwaeron Windstrom, Gott des Spurenlesens
+Status: WIP
 linter-yaml-title-alias: Gwaeron Windstrom, Gott des Spurenlesens
 tags:
   - Kompendium/Götter

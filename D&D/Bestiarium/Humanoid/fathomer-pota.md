@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fathomer
+Status: WIP
 linter-yaml-title-alias: Fathomer
 tags:
   - Monster/Größe/Mittelgroß

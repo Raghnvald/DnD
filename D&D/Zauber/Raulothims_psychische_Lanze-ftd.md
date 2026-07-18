@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Raulothim's Psychic Lance"
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: "Raulothim's Psychic Lance"
 classes:
   - Bard

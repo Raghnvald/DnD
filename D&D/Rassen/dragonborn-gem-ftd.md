@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn (Gem)
+Status: WIP
 linter-yaml-title-alias: Dragonborn (Gem)
 tags:
   - Quelle/5e/ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Chamber Contents
+Status: WIP
 linter-yaml-title-alias: Dungeon Chamber Contents
 tags:
   - Quelle/5e/dmg

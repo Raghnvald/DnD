@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Ghost's History"
+Status: WIP
 linter-yaml-title-alias: "Ghost's History"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "Ghost's History"
-  - Ghost's History
 ---
 # Ghost's History
 *Source: Van Richten's Guide to Ravenloft p. 148* 

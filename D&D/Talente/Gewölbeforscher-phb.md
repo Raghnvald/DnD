@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Gewölbeforscher
-linter-yaml-title-alias: Dungeon Delver
+Status: WIP
+linter-yaml-title-alias: Gewölbeforscher
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Dungeon Delver
+  - Gewölbeforscher
 ---
 # Gewölbeforscher
 *Source: Player's Handbook p. 166*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Torm, Gott der Tapferkeit und Selbstaufopferung
+Status: WIP
 linter-yaml-title-alias: Torm, Gott der Tapferkeit und Selbstaufopferung
 tags:
   - Kompendium/Götter

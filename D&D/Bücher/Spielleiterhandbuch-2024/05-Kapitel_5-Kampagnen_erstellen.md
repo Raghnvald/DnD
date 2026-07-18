@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Creating Campaigns"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Creating Campaigns"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Chapter 5: Creating Campaigns"
-  - Chapter 5: Creating Campaigns
 ---
 # Chapter 5: Creating Campaigns
 *Source: Dungeon Master's Guide (2024), p. 127* 

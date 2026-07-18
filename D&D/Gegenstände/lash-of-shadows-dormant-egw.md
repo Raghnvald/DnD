@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Lash of Shadows (Dormant)
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Lash of Shadows (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf

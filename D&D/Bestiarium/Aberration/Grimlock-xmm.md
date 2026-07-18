@@ -5,6 +5,7 @@ Bezeichnung: Grimlock
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 1/4
+Status: WIP
 linter-yaml-title-alias: Grimlock
 tags:
   - Monster/Größe/Mittelgroß

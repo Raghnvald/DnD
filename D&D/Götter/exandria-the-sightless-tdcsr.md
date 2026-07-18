@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Sightless
+Status: WIP
 linter-yaml-title-alias: The Sightless
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Borrower of Eyes

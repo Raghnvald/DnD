@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Sapphire Dragon
+Status: WIP
 linter-yaml-title-alias: Young Sapphire Dragon
 tags:
   - Monster/Größe/Groß

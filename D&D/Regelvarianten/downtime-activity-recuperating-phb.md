@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Recuperating"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Recuperating"
 tags:
   - Quelle/5e/phb
 aliases:
   - "Downtime Activity: Recuperating"
-  - Downtime Activity: Recuperating
 ---
 # Downtime Activity: Recuperating
 *Source: Player's Handbook p. 187* 

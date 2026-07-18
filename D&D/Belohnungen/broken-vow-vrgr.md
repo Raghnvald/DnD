@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Broken Vow
+Status: WIP
 linter-yaml-title-alias: Broken Vow
 tags:
-  - Kompendium/Belohnung/curse
+  - Kompendium/Belohnung/Fluch
   - Quelle/5e/vrgr
 aliases:
-  - "Broken Vow"
+  - Broken Vow
   - Broken Vow
 ---
 # Broken Vow

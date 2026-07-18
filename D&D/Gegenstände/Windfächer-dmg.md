@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wind Fan
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Wind Fan
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

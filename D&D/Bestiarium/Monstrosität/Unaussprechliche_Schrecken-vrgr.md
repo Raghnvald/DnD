@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Unspeakable Horror
+Status: WIP
 linter-yaml-title-alias: Unspeakable Horror
 tags:
   - Monster/Größe/Riesig

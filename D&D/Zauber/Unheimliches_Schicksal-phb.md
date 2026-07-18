@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Weird
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Weird
 classes:
   - Bard (Magical Secrets)

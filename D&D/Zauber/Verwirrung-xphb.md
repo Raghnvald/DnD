@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Confusion
+Status: WIP
 linter-yaml-title-alias: Confusion
 classes:
   - Bard
@@ -17,8 +18,8 @@ tags:
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Druide/circle-of-spores
-  - Klasse/Kleriker/knowledge-domain
   - Klasse/Kleriker/trickery-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Paladin/Eidbrecher
   - Klasse/Schurke/Arkaner-Betrüger

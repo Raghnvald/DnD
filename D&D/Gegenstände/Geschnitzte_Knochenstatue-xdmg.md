@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Carved bone statuette
+Status: WIP
 linter-yaml-title-alias: Carved bone statuette
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

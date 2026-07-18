@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gong of the Summit
+Status: WIP
 linter-yaml-title-alias: Gong of the Summit
 tags:
   - Kompendium/Optionales/ed

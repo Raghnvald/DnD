@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters in This Book; Stat Blocks by Challenge Rating
+Status: WIP
 linter-yaml-title-alias: Monsters in This Book; Stat Blocks by Challenge Rating
 tags:
   - Quelle/5e/bmt

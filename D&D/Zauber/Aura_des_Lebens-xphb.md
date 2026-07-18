@@ -6,6 +6,7 @@ Reichweite:
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+Status: WIP
 linter-yaml-title-alias: Aura of Life
 classes:
   - Bard
@@ -19,7 +20,7 @@ tags:
   - Klasse/Barde
   - Klasse/Druide/circle-of-wildfire
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/Kleriker/twilight-domain
   - Klasse/paladin
   - Quelle/5e/xphb

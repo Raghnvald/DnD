@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ship-to-Ship Combat
+Status: WIP
 linter-yaml-title-alias: Ship-to-Ship Combat
 tags:
   - Quelle/5e/aag
 aliases:
-  - "Ship-to-Ship Combat"
+  - Ship-to-Ship Combat
   - Ship-to-Ship Combat
 ---
 # Ship-to-Ship Combat

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Magic Items"
 tags:
   - Quelle/5e/rmbre

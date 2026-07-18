@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Axtschnabel
+Original: Axebeak
 Kategorie: Reit- und Lastentier
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Axtschnabel
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

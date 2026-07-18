@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Drakewarden
+Status: WIP
 linter-yaml-title-alias: Spells for Drakewarden
 tags:
-  - Zauber/list/subclass/drakewarden
+  - Zauber/Liste/subclass/drakewarden
 aliases:
   - Spells for Drakewarden
 ---

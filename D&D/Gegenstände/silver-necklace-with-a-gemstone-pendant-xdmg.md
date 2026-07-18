@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Silver necklace with a gemstone pendant
+Status: WIP
 linter-yaml-title-alias: Silver necklace with a gemstone pendant
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

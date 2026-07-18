@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Malar
+Status: WIP
 linter-yaml-title-alias: Malar
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Malar"
-  - "The Beastlord"
-  - "The Bloodgod"
-  - "The Wild Hunter"
   - Malar
+  - Malar
+  - The Beastlord
+  - The Bloodgod
+  - The Wild Hunter
 ---
 # Malar
 *Source: Forgotten Realms: Heroes of Faerûn p. 114* 

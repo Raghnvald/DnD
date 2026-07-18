@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Brandmarkendes Niederstrecken
 Zaubergrad: 2
+Status: WIP
 linter-yaml-title-alias: Brandmarkendes Niederstrecken
 classes:
   - Bard (Magical Secrets)
@@ -13,6 +14,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Brandmarkendes Niederstrecken
+Zeitaufwand: 1 Bonusaktion
 ---
 # Brandmarkendes Niederstrecken
 *Hervorrufung des 2. Grades*

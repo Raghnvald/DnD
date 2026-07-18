@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Walrus
+Status: WIP
 linter-yaml-title-alias: Giant Walrus
 tags:
   - Monster/Größe/Riesig

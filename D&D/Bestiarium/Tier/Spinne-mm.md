@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spider
+Status: WIP
 linter-yaml-title-alias: Spider
 tags:
   - Monster/Größe/Winzig

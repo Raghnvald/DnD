@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schießpulver-Fass
-Kategorie: Explosives
+Original: Gunpowder Keg
+Kategorie: Sprengstoff
+Status: WIP
 linter-yaml-title-alias: Schießpulver-Fass
 tags:
   - Gegenstand/Seltenheit/keine
@@ -13,8 +15,8 @@ aliases:
 # Schießpulver-Fass
 *Explosive*  
 
-- **Cost**: 250 gp
-- **Weight**: 20.0 lbs.
+- **Kosten**: 250 GM
+- **Gewicht**: 20.0 lbs.
 
 Schießpulver wird hauptsächlich verwendet, um Kugeln aus Läufen von Pistolen oder Gewehren zu feuern, oder um daraus eine Bombe zu machen. Schießpulver wird in kleinen hölzernen Fässern und in wasserdichten Pulverhörnern verkauft.
 

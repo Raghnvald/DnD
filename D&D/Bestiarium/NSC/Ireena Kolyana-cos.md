@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ireena Kolyana
+Status: WIP
 linter-yaml-title-alias: Ireena Kolyana
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fastieth
+Status: WIP
 linter-yaml-title-alias: Fastieth
 tags:
   - Monster/Größe/Mittelgroß

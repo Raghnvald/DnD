@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hermes
+Status: WIP
 linter-yaml-title-alias: Hermes
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

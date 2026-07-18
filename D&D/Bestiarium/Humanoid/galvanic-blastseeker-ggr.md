@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Galvanic Blastseeker
+Status: WIP
 linter-yaml-title-alias: Galvanic Blastseeker
 tags:
   - Monster/Größe/Mittelgroß

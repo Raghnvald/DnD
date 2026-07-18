@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Runechild
+Status: WIP
 linter-yaml-title-alias: Spells for Runechild
 tags:
-  - Zauber/list/subclass/runechild
+  - Zauber/Liste/subclass/runechild
 aliases:
   - Spells for Runechild
 ---

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duodrone (Rogue)
+Status: WIP
 linter-yaml-title-alias: Duodrone (Rogue)
 tags:
   - Monster/Größe/Mittelgroß

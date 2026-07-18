@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spiked Pit
+Status: WIP
 linter-yaml-title-alias: Spiked Pit
 tags:
   - Kompendium/Bedrohung/trp

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Unwelcome Spirits
+Status: WIP
 linter-yaml-title-alias: Unwelcome Spirits
 tags:
   - Quelle/5e/us
 aliases:
-  - "Unwelcome Spirits"
+  - Unwelcome Spirits
   - Unwelcome Spirits
 ---
 # Unwelcome Spirits

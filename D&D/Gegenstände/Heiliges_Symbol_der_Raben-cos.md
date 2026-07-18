@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Holy Symbol of Ravenkind
+Status: WIP
 linter-yaml-title-alias: Holy Symbol of Ravenkind
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/cos
 aliases:

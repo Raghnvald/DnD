@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Dragon Cultist
+Status: WIP
 linter-yaml-title-alias: Dragon Cultist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Dragon Cultist"
+  - Dragon Cultist
   - Dragon Cultist
 ---
 # Dragon Cultist

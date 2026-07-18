@@ -2,10 +2,10 @@
 Bezeichnung: Kerze
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 KM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Kerze
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,10 +15,10 @@ aliases:
   - Kerze
 ---
 # Kerze
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 cp
+- **Kosten**: 1 KM
 
-For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+Eine Kerze spendet für 1 Stunde helles Licht in einem Radius von 1,50 m und dämmriges Licht in weiteren 1,50 m Entfernung. 
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Sargonnas
+Status: WIP
 linter-yaml-title-alias: Sargonnas
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Sargonnas"
+  - Sargonnas
   - Sargonnas
 ---
 # Sargonnas

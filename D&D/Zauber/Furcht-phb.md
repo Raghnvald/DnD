@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Fear
+Bezeichnung: Furcht
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Fear
 classes:
   - Bard (Magical Secrets)
@@ -21,8 +23,12 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Fear
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
-# Fear
+# Furcht
 *3rd-level, Illusion*  
 
 - **Casting time:** 1 Action

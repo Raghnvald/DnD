@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Weevil
+Status: WIP
 linter-yaml-title-alias: The Weevil
 tags:
   - Monster/Größe/Mittelgroß

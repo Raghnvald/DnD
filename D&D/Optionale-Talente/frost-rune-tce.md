@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frost Rune
+Status: WIP
 linter-yaml-title-alias: Frost Rune
 tags:
   - Kompendium/Optionales/rn

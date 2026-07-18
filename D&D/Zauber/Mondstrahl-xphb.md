@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moonbeam
+Status: WIP
 linter-yaml-title-alias: Moonbeam
 classes:
   - Bard

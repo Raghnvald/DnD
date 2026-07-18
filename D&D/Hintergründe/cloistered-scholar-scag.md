@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloistered Scholar
+Status: WIP
 linter-yaml-title-alias: Cloistered Scholar
 tags:
   - Kompendium/Hintergrund

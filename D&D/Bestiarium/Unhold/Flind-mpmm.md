@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flind
+Status: WIP
 linter-yaml-title-alias: Flind
 tags:
   - Monster/Größe/Mittelgroß

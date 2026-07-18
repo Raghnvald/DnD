@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Insect Plague
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Insect Plague
 classes:
   - Bard (Magical Secrets)

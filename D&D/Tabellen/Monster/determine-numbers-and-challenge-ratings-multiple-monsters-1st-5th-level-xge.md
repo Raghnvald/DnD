@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level"
+Status: WIP
 linter-yaml-title-alias: "Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level"
-  - Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level
 ---
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level
 *Source: Xanathar's Guide to Everything p. 88* 

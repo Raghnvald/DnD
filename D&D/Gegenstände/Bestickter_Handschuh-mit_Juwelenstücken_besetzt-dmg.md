@@ -2,13 +2,13 @@
 Bezeichnung: Embroidered glove set with jewel chips
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2.500 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Embroidered glove set with jewel chips
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

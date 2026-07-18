@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Beast
+Status: WIP
 linter-yaml-title-alias: Path of the Beast
 tags:
   - Klasse/Barbar/beast

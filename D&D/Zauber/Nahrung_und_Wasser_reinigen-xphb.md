@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Purify Food and Drink
 classes:
   - Artificer
@@ -23,9 +24,9 @@ tags:
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/paladin
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Zauber/Grad/1

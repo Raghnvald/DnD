@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Merfolk
+Status: WIP
 linter-yaml-title-alias: Merfolk
 tags:
   - Quelle/5e/psz
   - Rasse/merfolk
 aliases:
-  - "Merfolk"
+  - Merfolk
   - Merfolk
 ---
 # Merfolk

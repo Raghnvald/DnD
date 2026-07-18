@@ -2,10 +2,10 @@
 Bezeichnung: Airship
 Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 20.000 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Airship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

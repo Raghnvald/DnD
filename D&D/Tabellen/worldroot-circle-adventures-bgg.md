@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Worldroot Circle Adventures
+Status: WIP
 linter-yaml-title-alias: Worldroot Circle Adventures
 tags:
   - Quelle/5e/bgg

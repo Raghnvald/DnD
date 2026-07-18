@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vrock
+Status: WIP
 linter-yaml-title-alias: Vrock
 tags:
   - Monster/Größe/Groß

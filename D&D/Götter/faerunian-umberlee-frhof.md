@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Umberlee
+Status: WIP
 linter-yaml-title-alias: Umberlee
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "The Queen of the Depths"
-  - "The Wavemother"
-  - "Umberlee"
+  - The Queen of the Depths
+  - The Wavemother
+  - Umberlee
   - Umberlee
 ---
 # Umberlee

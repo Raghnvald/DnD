@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Conversions; Stat Block Conversions
+Status: WIP
 linter-yaml-title-alias: Monster Conversions; Stat Block Conversions
 tags:
   - Quelle/5e/xmm

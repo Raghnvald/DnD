@@ -1,13 +1,14 @@
 ---
-Bezeichnung: "Hunter's Mark"
+Bezeichnung: Zeichen des Jägers
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Bonusaktion
+Reichweite: 18 Meter
+Komponenten: V
+Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff:
 Schaden:
-linter-yaml-title-alias: "Hunter's Mark"
+Status: WIP
+linter-yaml-title-alias: Zeichen des Jägers
 classes:
   - Bard (Magical Secrets)
   - Paladin (Oath of Vengeance)
@@ -20,9 +21,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
 aliases:
-  - "Hunter's Mark"
+  - Zeichen des Jägers
 ---
-# Hunter's Mark
+# Zeichen des Jägers
 *1st-level, Divination*  
 
 - **Casting time:** 1 Bonus Action

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goliath Giant-Kin
+Status: WIP
 linter-yaml-title-alias: Goliath Giant-Kin
 tags:
   - Monster/Größe/Mittelgroß

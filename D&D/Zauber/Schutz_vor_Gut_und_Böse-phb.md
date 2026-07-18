@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Protection from Evil and Good
+Bezeichnung: Schutz vor Gut und Böse
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff:
 Schaden:
-linter-yaml-title-alias: Protection from Evil and Good
+Status: WIP
+linter-yaml-title-alias: Schutz vor Gut und Böse
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -25,15 +26,15 @@ tags:
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Hingabe
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Bann
 aliases:
-  - Protection from Evil and Good
+  - Schutz vor Gut und Böse
 ---
-# Protection from Evil and Good
+# Schutz vor Gut und Böse
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 Action

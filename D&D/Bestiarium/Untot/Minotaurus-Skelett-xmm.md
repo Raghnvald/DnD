@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Minotaur Skeleton
+Status: WIP
 linter-yaml-title-alias: Minotaur Skeleton
 tags:
   - Monster/Größe/Groß

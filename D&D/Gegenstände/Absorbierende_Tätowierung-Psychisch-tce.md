@@ -2,13 +2,13 @@
 Bezeichnung: Psychich-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
+  - n/v
+Kst.: n/v
+Gew.: n/v
 Status: completed
 linter-yaml-title-alias: Psychich-Absorbierende Tätowierung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce

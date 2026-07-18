@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Baba Lysaga's Creeping Hut"
+Status: WIP
 linter-yaml-title-alias: "Baba Lysaga's Creeping Hut"
 tags:
   - Monster/Größe/Gigantisch
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - "Baba Lysaga's Creeping Hut"
-  - Baba Lysaga's Creeping Hut
 ---
 # [Baba Lysaga's Creeping Hut](3-Mechanics\CLI\bestiary\npc/baba-lysagas-creeping-hut-cos.md)
 *Source: Curse of Strahd p. 226*  

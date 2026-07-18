@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Freedom of the Waves
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Freedom of the Waves
 classes:
   - Bard
@@ -21,6 +23,10 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Freedom of the Waves
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
 # Freedom of the Waves
 *3rd-level, Conjuration*  

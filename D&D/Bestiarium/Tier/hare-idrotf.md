@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hare
+Status: WIP
 linter-yaml-title-alias: Hare
 tags:
   - Monster/Größe/Winzig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grumbar, Gott der Erde
+Status: WIP
 linter-yaml-title-alias: Grumbar, Gott der Erde
 tags:
   - Kompendium/Götter

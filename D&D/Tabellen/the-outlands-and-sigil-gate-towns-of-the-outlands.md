@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Die Fremde und Sigil; Portalstädte der Fremde
-linter-yaml-title-alias: The Outlands and Sigil; Gate-Towns of the Outlands
+Status: WIP
+linter-yaml-title-alias: Die Fremde und Sigil; Portalstädte der Fremde
 tags:
   - Quelle/5e/dmg
 aliases:
-  - The Outlands and Sigil; Gate-Towns of the Outlands
+  - Die Fremde und Sigil; Portalstädte der Fremde
 ---
 # Die Fremde und Sigil; Portalstädte der Fremde
 *Quelle: Spielleiterhandbuch S. 67* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin High Priestess
+Status: WIP
 linter-yaml-title-alias: Sahuagin High Priestess
 tags:
   - Monster/Größe/Mittelgroß

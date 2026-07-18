@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Flying Spider
+Status: WIP
 linter-yaml-title-alias: Giant Flying Spider
 tags:
   - Monster/Größe/Groß

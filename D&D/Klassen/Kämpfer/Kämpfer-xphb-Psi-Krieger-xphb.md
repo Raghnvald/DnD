@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Psi Warrior
+Status: WIP
 linter-yaml-title-alias: Psi Warrior
 tags:
   - Klasse/Kämpfer/psi-warrior

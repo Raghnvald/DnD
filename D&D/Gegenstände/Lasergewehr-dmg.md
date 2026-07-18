@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Lasergewehr
-Kategorie: Fernkampf-Kriegswaffe
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Lasergewehr
 tags:
   - Gegenstand/Seltenheit/keine
@@ -10,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Lasergewehr
+status: WIP
+Original: Laser Rifle
 ---
 # Lasergewehr
 *Weapon*  

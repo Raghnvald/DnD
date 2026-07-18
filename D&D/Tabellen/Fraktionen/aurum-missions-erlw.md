@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aurum Missions
+Status: WIP
 linter-yaml-title-alias: Aurum Missions
 tags:
   - Quelle/5e/erlw

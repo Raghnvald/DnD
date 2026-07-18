@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Prismatic Wall
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Prismatic Wall
 classes:
   - Bard (Magical Secrets)

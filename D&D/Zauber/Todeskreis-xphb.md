@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of Death
+Status: WIP
 linter-yaml-title-alias: Circle of Death
 classes:
   - Bard

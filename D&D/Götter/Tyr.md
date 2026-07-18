@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyr, Gott der Gerechtigkeit
+Status: WIP
 linter-yaml-title-alias: Tyr, Gott der Gerechtigkeit
 tags:
   - Kompendium/Götter

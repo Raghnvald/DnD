@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Disguise Self
 classes:
   - Artificer
@@ -27,8 +28,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Kompendium/Talent/shadow-touched
   - Quelle/5e/xphb
   - Rasse/deep-gnome

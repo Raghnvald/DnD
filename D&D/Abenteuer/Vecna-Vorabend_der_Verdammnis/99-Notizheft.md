@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Allgemeine Idee:"
+Status: WIP
 linter-yaml-title-alias: "Allgemeine Idee:"
 aliases:
   - "Allgemeine Idee:"
@@ -15,7 +16,6 @@ aliases:
 Informationen aus dem DMG S. 67:
 
 ![[03-creating-a-multiverse#Die Fremde und das Sigil]]
-
 
 # Ideen für Kapitel 5 Barovia
 - Durch die geänderte Zeitlinie treffen sie nicht auf Strahd sondern auf Lyssa von Zarowitsch, Nichte von Strahd, mit ihren Experimenten (Gedankenschinder-Vampire)

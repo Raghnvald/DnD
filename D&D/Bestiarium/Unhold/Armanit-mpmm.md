@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Armanite
 Kategorie: Unhold (Dämon)
 Größe: Groß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Armanite
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Armanite
+status: WIP
 ---
 # [Armanite](3-Mechanics\CLI\bestiary\fiend/armanite-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50*  

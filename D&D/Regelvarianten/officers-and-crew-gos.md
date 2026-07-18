@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Officers and Crew
+Status: WIP
 linter-yaml-title-alias: Officers and Crew
 tags:
   - Quelle/5e/gos
 aliases:
-  - "Officers and Crew"
+  - Officers and Crew
   - Officers and Crew
 ---
 # Officers and Crew

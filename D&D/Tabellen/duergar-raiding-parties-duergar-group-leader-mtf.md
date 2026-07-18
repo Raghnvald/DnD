@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Raiding Parties; Duergar Group Leader
+Status: WIP
 linter-yaml-title-alias: Duergar Raiding Parties; Duergar Group Leader
 tags:
   - Quelle/5e/mtf

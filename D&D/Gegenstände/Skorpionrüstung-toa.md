@@ -3,16 +3,17 @@ Bezeichnung: Skorpionrüstung
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - erfordert Einstimmung
   - Verflucht
-Kst.: /
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 32,5 kg
 RK: 18
 STR: 15
-Heiml.: /
+Heiml.: n/v
+Status: WIP
 linter-yaml-title-alias: Skorpionrüstung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/toa

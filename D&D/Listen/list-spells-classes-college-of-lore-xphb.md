@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for College of Lore
+Status: WIP
 linter-yaml-title-alias: Spells for College of Lore
 tags:
-  - Zauber/list/subclass/college-of-lore
+  - Zauber/Liste/subclass/college-of-lore
 aliases:
   - Spells for College of Lore
 ---

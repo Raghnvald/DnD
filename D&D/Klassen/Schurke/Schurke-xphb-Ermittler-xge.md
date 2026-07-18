@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inquisitive
+Status: WIP
 linter-yaml-title-alias: Inquisitive
 tags:
   - Klasse/Schurke/inquisitive

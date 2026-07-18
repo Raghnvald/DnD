@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-image: token/albino-dwarf-warrior-toa.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Albino Dwarf Warrior
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Albino Dwarf Warrior
+image: token/albino-dwarf-warrior-toa.webp
+status: WIP
 ---
 # [Albino Dwarf Warrior](3-Mechanics\CLI\bestiary\humanoid/albino-dwarf-warrior-toa.md)
 *Source: Tomb of Annihilation p. 210*  

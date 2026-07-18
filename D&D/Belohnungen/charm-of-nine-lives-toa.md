@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Nine Lives
+Status: WIP
 linter-yaml-title-alias: Charm of Nine Lives
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/toa
 aliases:
   - Charm of Nine Lives

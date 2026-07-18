@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Greater Invisibility
+Status: WIP
 linter-yaml-title-alias: Greater Invisibility
 classes:
   - Artificer (Armorer)

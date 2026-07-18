@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Study
+Status: WIP
 linter-yaml-title-alias: Arcane Study
 tags:
   - Kompendium/Bastion

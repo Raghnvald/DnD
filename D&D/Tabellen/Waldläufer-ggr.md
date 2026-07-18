@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ranger
+Status: WIP
 linter-yaml-title-alias: Ranger
 tags:
   - Quelle/5e/ggr

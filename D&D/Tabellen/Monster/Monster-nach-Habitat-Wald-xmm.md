@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Forest Monsters
+Status: WIP
 linter-yaml-title-alias: Monsters by Habitat; Forest Monsters
 tags:
   - Quelle/5e/xmm

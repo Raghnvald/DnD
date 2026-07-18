@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic NPCs
+Status: WIP
 linter-yaml-title-alias: Simic NPCs
 tags:
   - Quelle/5e/ggr

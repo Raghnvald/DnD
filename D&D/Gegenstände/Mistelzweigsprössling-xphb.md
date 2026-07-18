@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sprig of Mistletoe
+Status: WIP
 linter-yaml-title-alias: Sprig of Mistletoe
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

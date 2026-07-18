@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos Cultist
+Status: WIP
 linter-yaml-title-alias: Rakdos Cultist
 tags:
   - Kompendium/Hintergrund

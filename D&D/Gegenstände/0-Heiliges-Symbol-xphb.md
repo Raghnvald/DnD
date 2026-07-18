@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Holy Symbol
+Status: WIP
 linter-yaml-title-alias: Holy Symbol
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconian Foot Soldier
+Status: WIP
 linter-yaml-title-alias: Draconian Foot Soldier
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scribe
+Status: WIP
 linter-yaml-title-alias: Scribe
 tags:
   - Kompendium/Hintergrund

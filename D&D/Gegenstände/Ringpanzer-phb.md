@@ -3,12 +3,13 @@ Bezeichnung: Ringpanzer
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1.500 GM
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+Status: completed
 linter-yaml-title-alias: Ringpanzer
 tags:
   - Gegenstand/Rüstung/Schwer
@@ -16,13 +17,14 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ringpanzer
+Einstimmung: n/v
 ---
 # Ringpanzer
 *Schwere Rüstung*  
 
 - **Rüstungsklasse**: 14
-- **Heimlichkeit:** Nachteil
-- **Kosten:** 30 Goldmünzen
+- **Heimlichkeit:** Der Träger ist bei Würfen auf Geschicklichkeit ([[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) im Nachteil.
+- **Kosten:** 30 GM
 - **Gewicht:** 20,0 kg
 
 Diese Rüstung ist eine Lederrüstung, in die schwere Ringe eingenäht wurden. Die Ringe helfen, die Rüstung gegen Schwert- und Axthiebe zu verstärken. Ringpanzer sind weniger effektiv als Kettenpanzer und werden üblicherweise von jenen getragen, die sich keine bessere Rüstung leisten können.

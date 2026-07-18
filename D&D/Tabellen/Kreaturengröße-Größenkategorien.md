@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kreaturengröße; Größenkategorien
+Status: WIP
 linter-yaml-title-alias: Kreaturengröße; Größenkategorien
 tags:
   - Quelle/5e/phb

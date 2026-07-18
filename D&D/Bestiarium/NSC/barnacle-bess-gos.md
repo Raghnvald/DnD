@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barnacle Bess
+Status: WIP
 linter-yaml-title-alias: Barnacle Bess
 tags:
   - Monster/Größe/Mittelgroß

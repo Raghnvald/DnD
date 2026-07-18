@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crafting an Item; Resources and Resolution
+Status: WIP
 linter-yaml-title-alias: Crafting an Item; Resources and Resolution
 tags:
   - Quelle/5e/xge

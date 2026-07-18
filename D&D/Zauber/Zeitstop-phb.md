@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Time Stop
 Zaubergrad: 9
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Time Stop
 classes:
   - Bard (Magical Secrets)

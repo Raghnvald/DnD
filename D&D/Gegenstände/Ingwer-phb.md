@@ -2,10 +2,10 @@
 Bezeichnung: Ingwer
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 0,5 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Ingwer
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ingwer
+Original: Ginger
 ---
 # Ingwer
 *Handelsgut*  

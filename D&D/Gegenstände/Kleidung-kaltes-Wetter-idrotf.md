@@ -2,10 +2,10 @@
 Bezeichnung: Kleidung, kaltes Wetter
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
 Gew.: 2,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Kleidung, kaltes Wetter
 tags:
   - Gegenstand/Ausrüstung/

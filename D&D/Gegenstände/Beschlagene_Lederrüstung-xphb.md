@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Beschlagene Lederrüstung
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Beschlagene Lederrüstung
 tags:
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:
-  - "Studded Leather Armor"
   - Beschlagene Lederrüstung
+  - Studded Leather Armor
 ---
 # Beschlagene Lederrüstung
 *Leichte Rüstung* 

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Sunblight"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Sunblight"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Chapter 3: Sunblight"
-  - Chapter 3: Sunblight
 ---
 # Chapter 3: Sunblight
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 171* 

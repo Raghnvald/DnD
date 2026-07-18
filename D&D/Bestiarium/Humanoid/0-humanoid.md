@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Humanoid
+Status: WIP
 linter-yaml-title-alias: Index of Humanoid
 aliases:
   - Index of Humanoid

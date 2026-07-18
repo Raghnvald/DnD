@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 2: Terrors of the Void"
+Status: WIP
 linter-yaml-title-alias: "Part 2: Terrors of the Void"
 tags:
   - Quelle/5e/lox

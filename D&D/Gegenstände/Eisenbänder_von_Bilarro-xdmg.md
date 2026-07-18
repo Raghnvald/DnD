@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eisenbänder von Bilarro
+Status: WIP
 linter-yaml-title-alias: Eisenbänder von Bilarro
 tags:
   - Gegenstand/Seltenheit/selten

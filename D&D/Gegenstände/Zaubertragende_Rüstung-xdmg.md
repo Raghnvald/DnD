@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Enspelled Armor
+Status: WIP
 linter-yaml-title-alias: Enspelled Armor
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/xdmg

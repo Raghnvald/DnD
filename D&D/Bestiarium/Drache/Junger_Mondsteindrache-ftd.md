@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Moonstone Dragon
+Status: WIP
 linter-yaml-title-alias: Young Moonstone Dragon
 tags:
   - Monster/Größe/Groß

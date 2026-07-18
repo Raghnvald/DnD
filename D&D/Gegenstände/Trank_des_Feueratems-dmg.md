@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Fire Breath
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Fire Breath
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

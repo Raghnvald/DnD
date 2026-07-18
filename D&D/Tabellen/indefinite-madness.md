@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Indefinite Madness
+Status: WIP
 linter-yaml-title-alias: Indefinite Madness
 tags:
   - Quelle/5e/dmg

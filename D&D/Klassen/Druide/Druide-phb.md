@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Druide
+Status: WIP
 linter-yaml-title-alias: Druide
 tags:
   - Klasse/Druide

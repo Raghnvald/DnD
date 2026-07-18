@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Navigator's Helm"
+Status: WIP
 linter-yaml-title-alias: "Navigator's Helm"
 tags:
   - Kompendium/Bastion

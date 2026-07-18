@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Slumbering Dragon's Wrath Weapon"
+Status: WIP
 linter-yaml-title-alias: "Slumbering Dragon's Wrath Weapon"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -13,59 +14,58 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/ftd
 aliases:
+  - "Slumbering Dragon's Wrath Antimatter Rifle"
+  - "Slumbering Dragon's Wrath Automatic Rifle"
+  - "Slumbering Dragon's Wrath Battleaxe"
+  - "Slumbering Dragon's Wrath Blowgun"
+  - "Slumbering Dragon's Wrath Club"
+  - "Slumbering Dragon's Wrath Dagger"
+  - "Slumbering Dragon's Wrath Dart"
+  - "Slumbering Dragon's Wrath Double-Bladed Scimitar"
+  - "Slumbering Dragon's Wrath Flail"
+  - "Slumbering Dragon's Wrath Glaive"
+  - "Slumbering Dragon's Wrath Greataxe"
+  - "Slumbering Dragon's Wrath Greatclub"
+  - "Slumbering Dragon's Wrath Greatsword"
+  - "Slumbering Dragon's Wrath Halberd"
+  - "Slumbering Dragon's Wrath Hand Crossbow"
+  - "Slumbering Dragon's Wrath Handaxe"
+  - "Slumbering Dragon's Wrath Heavy Crossbow"
+  - "Slumbering Dragon's Wrath Hooked Shortspear"
+  - "Slumbering Dragon's Wrath Hoopak"
+  - "Slumbering Dragon's Wrath Hunting Rifle"
+  - "Slumbering Dragon's Wrath Javelin"
+  - "Slumbering Dragon's Wrath Lance"
+  - "Slumbering Dragon's Wrath Laser Pistol"
+  - "Slumbering Dragon's Wrath Laser Rifle"
+  - "Slumbering Dragon's Wrath Light Crossbow"
+  - "Slumbering Dragon's Wrath Light Hammer"
+  - "Slumbering Dragon's Wrath Light Repeating Crossbow"
+  - "Slumbering Dragon's Wrath Longbow"
+  - "Slumbering Dragon's Wrath Longsword"
+  - "Slumbering Dragon's Wrath Mace"
+  - "Slumbering Dragon's Wrath Maul"
+  - "Slumbering Dragon's Wrath Morningstar"
+  - "Slumbering Dragon's Wrath Musket"
+  - "Slumbering Dragon's Wrath Pike"
+  - "Slumbering Dragon's Wrath Pistol"
+  - "Slumbering Dragon's Wrath Quarterstaff"
+  - "Slumbering Dragon's Wrath Rapier"
+  - "Slumbering Dragon's Wrath Revolver"
+  - "Slumbering Dragon's Wrath Scimitar"
+  - "Slumbering Dragon's Wrath Semiautomatic Pistol"
+  - "Slumbering Dragon's Wrath Shortbow"
+  - "Slumbering Dragon's Wrath Shortsword"
+  - "Slumbering Dragon's Wrath Shotgun"
+  - "Slumbering Dragon's Wrath Sickle"
+  - "Slumbering Dragon's Wrath Sling"
+  - "Slumbering Dragon's Wrath Spear"
+  - "Slumbering Dragon's Wrath Trident"
+  - "Slumbering Dragon's Wrath War Pick"
+  - "Slumbering Dragon's Wrath Warhammer"
   - "Slumbering Dragon's Wrath Weapon"
-  - Slumbering Dragon's Wrath Antimatter Rifle
-  - Slumbering Dragon's Wrath Automatic Rifle
-  - Slumbering Dragon's Wrath Battleaxe
-  - Slumbering Dragon's Wrath Blowgun
-  - Slumbering Dragon's Wrath Club
-  - Slumbering Dragon's Wrath Dagger
-  - Slumbering Dragon's Wrath Dart
-  - Slumbering Dragon's Wrath Double-Bladed Scimitar
-  - Slumbering Dragon's Wrath Flail
-  - Slumbering Dragon's Wrath Glaive
-  - Slumbering Dragon's Wrath Greataxe
-  - Slumbering Dragon's Wrath Greatclub
-  - Slumbering Dragon's Wrath Greatsword
-  - Slumbering Dragon's Wrath Halberd
-  - Slumbering Dragon's Wrath Hand Crossbow
-  - Slumbering Dragon's Wrath Handaxe
-  - Slumbering Dragon's Wrath Heavy Crossbow
-  - Slumbering Dragon's Wrath Hooked Shortspear
-  - Slumbering Dragon's Wrath Hoopak
-  - Slumbering Dragon's Wrath Hunting Rifle
-  - Slumbering Dragon's Wrath Javelin
-  - Slumbering Dragon's Wrath Lance
-  - Slumbering Dragon's Wrath Laser Pistol
-  - Slumbering Dragon's Wrath Laser Rifle
-  - Slumbering Dragon's Wrath Light Crossbow
-  - Slumbering Dragon's Wrath Light Hammer
-  - Slumbering Dragon's Wrath Light Repeating Crossbow
-  - Slumbering Dragon's Wrath Longbow
-  - Slumbering Dragon's Wrath Longsword
-  - Slumbering Dragon's Wrath Mace
-  - Slumbering Dragon's Wrath Maul
-  - Slumbering Dragon's Wrath Morningstar
-  - Slumbering Dragon's Wrath Musket
-  - Slumbering Dragon's Wrath Pike
-  - Slumbering Dragon's Wrath Pistol
-  - Slumbering Dragon's Wrath Quarterstaff
-  - Slumbering Dragon's Wrath Rapier
-  - Slumbering Dragon's Wrath Revolver
-  - Slumbering Dragon's Wrath Scimitar
-  - Slumbering Dragon's Wrath Semiautomatic Pistol
-  - Slumbering Dragon's Wrath Shortbow
-  - Slumbering Dragon's Wrath Shortsword
-  - Slumbering Dragon's Wrath Shotgun
-  - Slumbering Dragon's Wrath Sickle
-  - Slumbering Dragon's Wrath Sling
-  - Slumbering Dragon's Wrath Spear
-  - Slumbering Dragon's Wrath Trident
-  - Slumbering Dragon's Wrath War Pick
-  - Slumbering Dragon's Wrath Warhammer
-  - Slumbering Dragon's Wrath Weapon
-  - Slumbering Dragon's Wrath Whip
-  - Slumbering Dragon's Wrath Yklwa
+  - "Slumbering Dragon's Wrath Whip"
+  - "Slumbering Dragon's Wrath Yklwa"
 ---
 # Slumbering Dragon's Wrath Weapon
 *Uncommon (requires attunement)*  

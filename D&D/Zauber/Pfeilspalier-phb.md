@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Cordon of Arrows
+Bezeichnung: Pfeilspalier
 Zaubergrad: 2
-linter-yaml-title-alias: Cordon of Arrows
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Pfeilspalier
 classes:
   - Bard (Magical Secrets)
   - Ranger
@@ -12,9 +14,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Cordon of Arrows
+  - Pfeilspalier
 ---
-# Cordon of Arrows
+# Pfeilspalier
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

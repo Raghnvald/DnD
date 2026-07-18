@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Legionnaire
+Status: WIP
 linter-yaml-title-alias: Boros Legionnaire
 tags:
   - Kompendium/Hintergrund

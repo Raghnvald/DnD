@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Warrior of the Elements
+Status: WIP
 linter-yaml-title-alias: Spells for Warrior of the Elements
 tags:
-  - Zauber/list/subclass/warrior-of-the-elements
+  - Zauber/Liste/subclass/warrior-of-the-elements
 aliases:
   - Spells for Warrior of the Elements
 ---

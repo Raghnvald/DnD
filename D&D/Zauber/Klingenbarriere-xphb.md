@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blade Barrier
+Status: WIP
 linter-yaml-title-alias: Blade Barrier
 classes:
   - Bard

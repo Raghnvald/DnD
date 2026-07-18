@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Diviner
+Status: WIP
 linter-yaml-title-alias: Diviner
 tags:
   - Klasse/Magier/diviner

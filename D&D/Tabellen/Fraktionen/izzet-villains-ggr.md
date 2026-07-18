@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet Villains
+Status: WIP
 linter-yaml-title-alias: Izzet Villains
 tags:
   - Quelle/5e/ggr

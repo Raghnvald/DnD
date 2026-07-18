@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Figuring Out Alien Technology
+Status: WIP
 linter-yaml-title-alias: Figuring Out Alien Technology
 tags:
   - Quelle/5e/dmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Die Rote Ritterin, Göttin der Strategie
+Status: WIP
 linter-yaml-title-alias: Die Rote Ritterin, Göttin der Strategie
 tags:
   - Kompendium/Götter

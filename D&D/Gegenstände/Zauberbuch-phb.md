@@ -2,10 +2,9 @@
 Bezeichnung: Zauberbuch
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
 Gew.: 1,5kg
-status: WIP
 linter-yaml-title-alias: Zauberbuch
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,13 +12,14 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Zauberbuch
+Status: completed
 ---
 # Zauberbuch
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 50 gp
-- **Weight**: 3.0 lbs.
+- **Kosten**: 50 GM
+- **Gewicht**: 1,5 kg
 
-Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
+Unverzichtbar für Magier ist das Zauberbuch aus ledergebundenen 100 leeren Pergamentseiten.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

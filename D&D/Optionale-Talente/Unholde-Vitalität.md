@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unholde Vitalität
+Status: WIP
 linter-yaml-title-alias: Unholde Vitalität
 tags:
   - Kompendium/Optionales/Anrufungen

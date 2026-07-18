@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pass without Trace
+Status: WIP
 linter-yaml-title-alias: Pass without Trace
 classes:
   - Bard
@@ -13,7 +14,7 @@ tags:
   - Klasse/Druide
   - Klasse/Kleriker/trickery-domain
   - Klasse/Waldläufer
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xphb
   - Rasse/elf/wood-elf
   - Subrasse/genasi-earth

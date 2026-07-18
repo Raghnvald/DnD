@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Krebbyg Masq'il'yr"
+Status: WIP
 linter-yaml-title-alias: "Krebbyg Masq'il'yr"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - "Krebbyg Masq'il'yr"
-  - Krebbyg Masq'il'yr
 ---
 # [Krebbyg Masq'il'yr](3-Mechanics\CLI\bestiary\npc/krebbyg-masqilyr-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 67*  

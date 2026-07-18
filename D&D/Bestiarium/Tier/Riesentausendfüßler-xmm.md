@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Centipede
+Status: WIP
 linter-yaml-title-alias: Giant Centipede
 tags:
   - Monster/Größe/Klein

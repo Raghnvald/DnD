@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duvessa Shane
+Status: WIP
 linter-yaml-title-alias: Duvessa Shane
 tags:
   - Monster/Größe/Mittelgroß

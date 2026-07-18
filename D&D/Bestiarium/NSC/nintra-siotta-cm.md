@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nintra Siotta
+Status: WIP
 linter-yaml-title-alias: Nintra Siotta
 tags:
   - Monster/Größe/Groß

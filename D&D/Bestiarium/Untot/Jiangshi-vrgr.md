@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jiangshi
+Status: WIP
 linter-yaml-title-alias: Jiangshi
 tags:
   - Monster/Größe/Mittelgroß

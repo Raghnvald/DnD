@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Selûne
+Status: WIP
 linter-yaml-title-alias: Selûne
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Dämmerung
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

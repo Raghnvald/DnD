@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Niger-Congo, Male
+Status: WIP
 linter-yaml-title-alias: Human Names – Niger-Congo, Male
 tags:
   - Quelle/5e/xge

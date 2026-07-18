@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monk
+Status: WIP
 linter-yaml-title-alias: Monk
 tags:
   - Quelle/5e/ggr

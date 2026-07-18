@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Understanding
+Status: WIP
 linter-yaml-title-alias: Blessing of Understanding
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/xdmg
 aliases:
   - Blessing of Understanding

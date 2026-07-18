@@ -6,8 +6,7 @@ Kategorie:
 Größe: 
 HG: 
 Habitat: []
-image: token/whirling-chandelier-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Whirling Chandelier
 tags:
   - Monster/Größe/Groß
@@ -16,6 +15,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Whirling Chandelier
+image: token/whirling-chandelier-veor.webp
+status: WIP
 ---
 # [Whirling Chandelier](3-Mechanics\CLI\bestiary\construct/whirling-chandelier-veor.md)
 *Source: Vecna: Eve of Ruin p. 239*  

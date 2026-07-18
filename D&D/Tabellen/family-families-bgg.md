@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Family; Families
+Status: WIP
 linter-yaml-title-alias: Family; Families
 tags:
   - Quelle/5e/bgg

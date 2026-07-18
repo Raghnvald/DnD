@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Verdan
+Status: WIP
 linter-yaml-title-alias: Verdan
 tags:
   - Quelle/5e/ai
   - Rasse/verdan
 aliases:
-  - "Verdan"
+  - Verdan
   - Verdan
 ---
 # Verdan

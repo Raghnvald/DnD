@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Giff
+Status: WIP
 linter-yaml-title-alias: Giff
 tags:
   - Quelle/5e/aag
   - Rasse/giff
 aliases:
-  - "Giff"
+  - Giff
   - Giff
 ---
 # Giff

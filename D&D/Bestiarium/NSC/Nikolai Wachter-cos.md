@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nikolai Wachter
+Status: WIP
 linter-yaml-title-alias: Nikolai Wachter
 tags:
   - Monster/Größe/Mittelgroß

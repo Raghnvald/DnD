@@ -4,7 +4,7 @@ Eigenschaften:
   - Gift
 Kst.: /
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Malice
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Malice
+status: WIP
 ---
 # Malice
 *Adventuring gear, poison (inhaled)*  

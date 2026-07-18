@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Dwarf (Duergar)
+Status: WIP
 linter-yaml-title-alias: Spells for Dwarf (Duergar)
 tags:
-  - ttrpg-cli/spell/list/subrace/dwarf-duergar
+  - Zauber/Liste/subrace/dwarf-duergar
 aliases:
-  - "Spells for Dwarf (Duergar)"
+  - Spells for Dwarf (Duergar)
   - Spells for Dwarf (Duergar)
 ---
 # Spells for Dwarf (Duergar)

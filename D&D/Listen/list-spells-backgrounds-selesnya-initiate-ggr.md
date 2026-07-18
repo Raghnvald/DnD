@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Selesnya Initiate
+Status: WIP
 linter-yaml-title-alias: Spells for Selesnya Initiate
 tags:
-  - Zauber/list/background/selesnya-initiate
+  - Zauber/Liste/background/selesnya-initiate
 aliases:
   - Spells for Selesnya Initiate
 ---

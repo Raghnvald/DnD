@@ -89,7 +89,7 @@ views:
         - file.tags.contains("Klasse/Barde")
         - file.tags.contains("Zauber/Grad/2")
     order:
-      - file.name
+      - formula.Bezeichnung
       - Zeitaufwand
       - Reichweite
       - Komponenten
@@ -260,3 +260,27 @@ views:
       note.Schaden: 150
   - type: table
     name: View
+    filters:
+      and:
+        - file.tags.contains("Klasse/Barde")
+  - type: table
+    name: Bardenzauber 2
+    filters:
+      and:
+        - file.tags.contains("Klasse/Barde")
+        - file.folder == "D&D/Zauber"
+    groupBy:
+      property: Zaubergrad
+      direction: ASC
+    order:
+      - formula.Bezeichnung
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      note.Reichweite: 100
+      note.Komponenten: 100
+      note.Wirkungsdauer: 150
+      note.Angriff: 75
+      note.Schaden: 150

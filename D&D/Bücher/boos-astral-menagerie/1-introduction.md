@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Introduction
+Status: WIP
 linter-yaml-title-alias: Introduction
 tags:
   - Quelle/5e/bam
 aliases:
-  - "Introduction"
+  - Introduction
   - Introduction
 ---
 # Introduction

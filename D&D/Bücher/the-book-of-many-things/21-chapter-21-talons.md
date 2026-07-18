@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 21: Talons"
+Status: WIP
 linter-yaml-title-alias: "Chapter 21: Talons"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 21: Talons"
-  - Chapter 21: Talons
 ---
 # Chapter 21: Talons
 *Source: The Book of Many Things, p. 175* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventuring Options; Firearms
+Status: WIP
 linter-yaml-title-alias: Adventuring Options; Firearms
 tags:
   - Quelle/5e/dmg

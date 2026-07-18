@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Luthic
+Status: WIP
 linter-yaml-title-alias: Luthic
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/orc
   - Quelle/5e/vgm
 aliases:

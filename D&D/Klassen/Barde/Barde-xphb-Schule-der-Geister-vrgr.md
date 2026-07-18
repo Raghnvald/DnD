@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Spirits
+Status: WIP
 linter-yaml-title-alias: College of Spirits
 tags:
   - Klasse/Barde/Schule-der-Geister

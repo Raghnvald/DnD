@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hutijin
+Status: WIP
 linter-yaml-title-alias: Hutijin
 tags:
   - Monster/Größe/Groß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Book of the Raven
+Status: WIP
 linter-yaml-title-alias: Book of the Raven
 tags:
   - Quelle/5e/cm

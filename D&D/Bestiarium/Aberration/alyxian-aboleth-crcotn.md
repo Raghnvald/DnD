@@ -8,15 +8,16 @@ HG: 12
 Habitat:
   - /
 Image: token/alyxian-aboleth-crcotn.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Alyxian Aboleth
 tags:
   - Quelle/5e/crcotn
-  - ttrpg-cli/monster/cr/12
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/12
+  - Monster/Größe/Groß
+  - Monster/Typ/Aberration
 aliases:
   - Alyxian Aboleth
+status: WIP
 ---
 # [Alyxian Aboleth](3-Mechanics/CLI/bestiary/aberration/alyxian-aboleth-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 195*  

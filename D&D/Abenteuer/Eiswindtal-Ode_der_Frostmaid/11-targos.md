@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Targos
+Status: WIP
 linter-yaml-title-alias: Targos
 tags:
   - Quelle/5e/idrotf

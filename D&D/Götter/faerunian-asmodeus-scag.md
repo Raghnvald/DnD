@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Asmodeus
+Status: WIP
 linter-yaml-title-alias: Asmodeus
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/order
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Asmodeus

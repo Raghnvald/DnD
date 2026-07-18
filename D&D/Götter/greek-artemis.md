@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Artemis
+Status: WIP
 linter-yaml-title-alias: Artemis
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

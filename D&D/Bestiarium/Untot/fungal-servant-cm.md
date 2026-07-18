@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fungal Servant
+Status: WIP
 linter-yaml-title-alias: Fungal Servant
 tags:
   - Monster/Größe/Mittelgroß

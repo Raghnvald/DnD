@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghostly Gaze
+Status: WIP
 linter-yaml-title-alias: Ghostly Gaze
 tags:
   - Kompendium/Optionales/ei

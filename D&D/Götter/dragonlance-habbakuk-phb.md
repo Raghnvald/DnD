@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Habbakuk
+Status: WIP
 linter-yaml-title-alias: Habbakuk
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

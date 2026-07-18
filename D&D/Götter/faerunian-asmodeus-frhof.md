@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Asmodeus
+Status: WIP
 linter-yaml-title-alias: Asmodeus
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Asmodeus"
-  - "Old Hoof and Horn"
-  - "The Cloven"
-  - "The Lord of the Ninth"
   - Asmodeus
+  - Asmodeus
+  - Old Hoof and Horn
+  - The Cloven
+  - The Lord of the Ninth
 ---
 # Asmodeus
 *Source: Forgotten Realms: Heroes of Faerûn p. 100* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Treant
+Status: WIP
 linter-yaml-title-alias: Treant
 tags:
   - Monster/Größe/Riesig

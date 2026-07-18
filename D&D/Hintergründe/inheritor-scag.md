@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inheritor
+Status: WIP
 linter-yaml-title-alias: Inheritor
 tags:
   - Kompendium/Hintergrund

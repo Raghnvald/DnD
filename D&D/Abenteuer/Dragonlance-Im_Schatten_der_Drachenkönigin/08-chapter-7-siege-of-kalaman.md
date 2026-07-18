@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Siege of Kalaman"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Siege of Kalaman"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Chapter 7: Siege of Kalaman"
-  - Chapter 7: Siege of Kalaman
 ---
 # Chapter 7: Siege of Kalaman
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 161* 

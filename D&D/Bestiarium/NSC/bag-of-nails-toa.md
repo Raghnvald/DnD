@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bag of Nails
+Status: WIP
 linter-yaml-title-alias: Bag of Nails
 tags:
   - Monster/Größe/Mittelgroß

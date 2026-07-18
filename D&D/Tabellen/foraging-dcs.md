@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Foraging DCs
+Status: WIP
 linter-yaml-title-alias: Foraging DCs
 tags:
   - Quelle/5e/dmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kella Darkhope
+Status: WIP
 linter-yaml-title-alias: Kella Darkhope
 tags:
   - Monster/Größe/Mittelgroß

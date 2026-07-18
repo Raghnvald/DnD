@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Animal Messenger
+Status: WIP
 linter-yaml-title-alias: Animal Messenger
 classes:
   - Bard

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Rod of Rulership
 Kategorie: Zepter
+Status: WIP
 linter-yaml-title-alias: Rod of Rulership
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg

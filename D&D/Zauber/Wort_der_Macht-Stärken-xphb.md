@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Power Word Fortify
+Status: WIP
 linter-yaml-title-alias: Power Word Fortify
 classes:
   - Bard

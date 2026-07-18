@@ -5,7 +5,7 @@ Bezeichnung: Star Spawn Seer
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 13
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Star Spawn Seer
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Star Spawn Seer
+status: WIP
 ---
 # [Star Spawn Seer](3-Mechanics\CLI\bestiary\aberration/star-spawn-seer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230*  

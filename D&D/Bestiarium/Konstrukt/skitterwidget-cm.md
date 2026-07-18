@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skitterwidget
+Status: WIP
 linter-yaml-title-alias: Skitterwidget
 tags:
   - Monster/Größe/Mittelgroß

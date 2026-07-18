@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Foreword: Ravenloft Revisited"
+Status: WIP
 linter-yaml-title-alias: "Foreword: Ravenloft Revisited"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Foreword: Ravenloft Revisited"
-  - Foreword: Ravenloft Revisited
 ---
 # Foreword: Ravenloft Revisited
 *Source: Curse of Strahd, p. 4* 

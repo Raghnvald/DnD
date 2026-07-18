@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection of the Talisman
+Status: WIP
 linter-yaml-title-alias: Protection of the Talisman
 tags:
   - Kompendium/Optionales/ei

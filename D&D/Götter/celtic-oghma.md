@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Oghma
+Status: WIP
 linter-yaml-title-alias: Oghma
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Quelle/5e/phb
 aliases:
   - Oghma

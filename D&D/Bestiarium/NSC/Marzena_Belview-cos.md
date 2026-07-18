@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Marzena Belview
+Status: WIP
 linter-yaml-title-alias: Marzena Belview
 tags:
   - Monster/Größe/Mittelgroß

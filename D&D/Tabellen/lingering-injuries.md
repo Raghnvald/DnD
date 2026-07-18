@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lingering Injuries
+Status: WIP
 linter-yaml-title-alias: Lingering Injuries
 tags:
   - Quelle/5e/dmg

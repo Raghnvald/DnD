@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Lesser Conscription
+Status: WIP
 linter-yaml-title-alias: Charm of Lesser Conscription
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bgdia
 aliases:
   - Charm of Lesser Conscription

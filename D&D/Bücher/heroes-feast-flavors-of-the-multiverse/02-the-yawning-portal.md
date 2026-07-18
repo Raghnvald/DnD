@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Yawning Portal
+Status: WIP
 linter-yaml-title-alias: The Yawning Portal
 tags:
   - Quelle/5e/hffotm
 aliases:
-  - "The Yawning Portal"
+  - The Yawning Portal
   - The Yawning Portal
 ---
 # The Yawning Portal

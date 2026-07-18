@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ankylosaurus
+Status: WIP
 linter-yaml-title-alias: Ankylosaurus
 tags:
   - Monster/Größe/Riesig

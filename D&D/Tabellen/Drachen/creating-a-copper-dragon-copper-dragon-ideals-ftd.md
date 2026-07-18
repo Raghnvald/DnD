@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Copper Dragon; Copper Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a Copper Dragon; Copper Dragon Ideals
 tags:
   - Quelle/5e/ftd

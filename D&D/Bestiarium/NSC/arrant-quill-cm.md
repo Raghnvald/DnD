@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Arrant Quill
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Arrant Quill
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Arrant Quill
+status: WIP
 ---
 # [Arrant Quill](3-Mechanics\CLI\bestiary\npc/arrant-quill-cm.md)
 *Source: Candlekeep Mysteries p. 157*  

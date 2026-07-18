@@ -5,15 +5,16 @@ Bezeichnung: Githzerai Uniter
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 7
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Githzerai Uniter
 tags:
   - Quelle/5e/mpp
-  - ttrpg-cli/monster/cr/7
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration/gith
+  - Monster/HG/7
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration/gith
 aliases:
   - Githzerai Uniter
+status: WIP
 ---
 # [Githzerai Uniter](3-Mechanics/CLI/bestiary/aberration/githzerai-uniter-mpp.md)
 *Source: Morte's Planar Parade p. 31*  

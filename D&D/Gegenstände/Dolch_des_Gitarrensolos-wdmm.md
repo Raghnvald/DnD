@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dolch des Gitarrensolos
-Kategorie: Einfache Nahkampfwaffe
+Original: Dagger of Guitar Solos
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W4 Stich
 Eigenschaften:
   - Finesse
@@ -8,6 +9,7 @@ Eigenschaften:
   - Wurfwaffe
 Kst.: 750 GM
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Dolch des Gitarrensolos
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -16,6 +18,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Dolch des Gitarrensolos
+status: WIP
 ---
 # Dolch des Gitarrensolos
 *Waffe ([[Dolch-phb|Dolch]])*  

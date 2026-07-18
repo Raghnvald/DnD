@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Iron Spike
+Status: WIP
 linter-yaml-title-alias: Iron Spike
 tags:
   - Gegenstand/Ausrüstung/

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harpy Matriarch
+Status: WIP
 linter-yaml-title-alias: Harpy Matriarch
 tags:
   - Monster/Größe/Mittelgroß

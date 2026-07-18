@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Foliant des Strahd
+Status: WIP
 linter-yaml-title-alias: Foliant des Strahd
 tags:
   - Quelle/5e/cos

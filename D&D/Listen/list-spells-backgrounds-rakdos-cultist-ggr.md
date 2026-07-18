@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Rakdos Cultist
+Status: WIP
 linter-yaml-title-alias: Spells for Rakdos Cultist
 tags:
-  - Zauber/list/background/rakdos-cultist
+  - Zauber/Liste/background/rakdos-cultist
 aliases:
   - Spells for Rakdos Cultist
 ---

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Thoth
+Status: WIP
 linter-yaml-title-alias: Thoth
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

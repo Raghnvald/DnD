@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thrown Weapon Fighting
+Status: WIP
 linter-yaml-title-alias: Thrown Weapon Fighting
 tags:
   - Kompendium/Talent

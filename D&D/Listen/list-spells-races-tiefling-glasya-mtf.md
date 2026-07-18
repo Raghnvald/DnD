@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Glasya)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Glasya)
 tags:
-  - Zauber/list/subrace/tiefling-glasya
+  - Zauber/Liste/subrace/tiefling-glasya
 aliases:
   - Spells for Tiefling (Glasya)
 ---

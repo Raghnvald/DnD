@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul NPCs
+Status: WIP
 linter-yaml-title-alias: Gruul NPCs
 tags:
   - Quelle/5e/ggr

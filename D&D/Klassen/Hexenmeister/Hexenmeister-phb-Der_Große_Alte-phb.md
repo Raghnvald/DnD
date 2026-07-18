@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Great Old One
+Status: WIP
 linter-yaml-title-alias: The Great Old One
 tags:
   - Klasse/Hexenmeister/great-old-one

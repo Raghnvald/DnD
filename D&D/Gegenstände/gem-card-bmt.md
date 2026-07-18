@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gem Card
+Status: WIP
 linter-yaml-title-alias: Gem Card
 tags:
   - Gegenstand/Seltenheit/legendär

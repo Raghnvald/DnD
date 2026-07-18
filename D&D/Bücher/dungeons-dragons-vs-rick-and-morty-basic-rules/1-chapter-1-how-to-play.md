@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: How to Play"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: How to Play"
 tags:
   - Quelle/5e/rmr

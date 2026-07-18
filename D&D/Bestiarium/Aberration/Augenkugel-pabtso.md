@@ -6,7 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 9
 Image: token/oculorb-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Oculorb
 tags:
   - Monster/Größe/Groß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Oculorb
+status: WIP
 ---
 # Oculorb
 *Source: Phandelver and Below: The Shattered Obelisk p. 214*  

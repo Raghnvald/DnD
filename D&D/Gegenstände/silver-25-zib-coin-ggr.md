@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Silver 25-Zib Coin
+Status: WIP
 linter-yaml-title-alias: Silver 25-Zib Coin
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/ggr
 aliases:

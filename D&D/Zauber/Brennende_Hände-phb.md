@@ -2,11 +2,12 @@
 Bezeichnung: Brennende Hände
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
-Reichweite: selbst (Kegel mit 4,5m)
+Reichweite: selbst (Kegel von 4,5m)
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d6 Feuer
+Status: WIP
 linter-yaml-title-alias: Brennende Hände
 classes:
   - Bard (Magical Secrets)
@@ -18,11 +19,11 @@ classes:
   - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subklasse/the-fiend

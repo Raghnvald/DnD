@@ -2,10 +2,10 @@
 Bezeichnung: Crampons
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 0,125 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Crampons
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Crampons
+Original: Crampons
 ---
 # Crampons
 *Adventuring gear*  

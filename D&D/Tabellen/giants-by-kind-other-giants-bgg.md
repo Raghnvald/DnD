@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Other Giants
+Status: WIP
 linter-yaml-title-alias: Giants by Kind; Other Giants
 tags:
   - Quelle/5e/bgg

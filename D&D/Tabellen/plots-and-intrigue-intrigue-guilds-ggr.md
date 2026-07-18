@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Plots and Intrigue; Intrigue Guilds
+Status: WIP
 linter-yaml-title-alias: Plots and Intrigue; Intrigue Guilds
 tags:
   - Quelle/5e/ggr

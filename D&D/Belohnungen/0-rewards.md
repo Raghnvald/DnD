@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Rewards
+Status: WIP
 linter-yaml-title-alias: Index of Rewards
 aliases:
   - Index of Rewards

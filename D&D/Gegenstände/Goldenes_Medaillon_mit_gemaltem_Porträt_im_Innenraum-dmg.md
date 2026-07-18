@@ -2,13 +2,13 @@
 Bezeichnung: Gold locket with a painted portrait inside
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Gold locket with a painted portrait inside
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

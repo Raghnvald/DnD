@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adeliger (Ritter) (Variante)
+Status: WIP
 linter-yaml-title-alias: Adeliger (Ritter) (Variante)
 tags:
   - Kompendium/Hintergrund

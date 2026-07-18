@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deneir, Gott der Schrift
+Status: WIP
 linter-yaml-title-alias: Deneir, Gott der Schrift
 tags:
   - Kompendium/Götter

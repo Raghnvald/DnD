@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Golgari Charm
+Status: WIP
 linter-yaml-title-alias: Golgari Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Golgari Charm

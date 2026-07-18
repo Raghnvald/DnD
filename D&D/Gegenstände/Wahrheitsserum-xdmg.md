@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Truth Serum
+Status: WIP
 linter-yaml-title-alias: Truth Serum
 tags:
   - Gegenstand/Ausrüstung/

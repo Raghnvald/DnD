@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Naxa
-image: token/naxa-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Naxa
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,6 +11,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Naxa
+image: token/naxa-veor.webp
+status: WIP
 ---
 # [Naxa](3-Mechanics\CLI\bestiary\npc/naxa-veor.md)
 *Source: Vecna: Eve of Ruin*  

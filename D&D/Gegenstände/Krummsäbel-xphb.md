@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Scimitar
 Kategorie: Nahkampf-Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Scimitar
 tags:
   - Gegenstand/Seltenheit/keine

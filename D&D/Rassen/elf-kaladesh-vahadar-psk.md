@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Elf (Kaladesh; Vahadar)
+Status: WIP
 linter-yaml-title-alias: Elf (Kaladesh; Vahadar)
 tags:
   - Quelle/5e/psk
   - Rasse/elf/kaladesh-vahadar
 aliases:
-  - "Elf (Kaladesh; Vahadar)"
+  - Elf (Kaladesh; Vahadar)
   - Elf (Kaladesh; Vahadar)
 ---
 # Elf (Kaladesh; Vahadar)

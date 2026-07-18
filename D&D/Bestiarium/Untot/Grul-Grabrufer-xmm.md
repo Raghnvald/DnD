@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghast Gravecaller
+Status: WIP
 linter-yaml-title-alias: Ghast Gravecaller
 tags:
   - Monster/Größe/Mittelgroß

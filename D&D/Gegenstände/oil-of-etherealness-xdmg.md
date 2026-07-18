@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oil of Etherealness
+Status: WIP
 linter-yaml-title-alias: Oil of Etherealness
 tags:
   - Gegenstand/Seltenheit/selten

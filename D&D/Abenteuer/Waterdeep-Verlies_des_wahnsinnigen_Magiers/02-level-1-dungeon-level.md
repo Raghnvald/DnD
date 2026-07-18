@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 1: Dungeon Level"
+Status: WIP
 linter-yaml-title-alias: "Level 1: Dungeon Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 1: Dungeon Level"
-  - Level 1: Dungeon Level
 ---
 # Level 1: Dungeon Level
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 13* 

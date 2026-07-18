@@ -8,7 +8,7 @@ HG: "3"
 Habitat:
   - /
 Image: token/allowak-yeti-egw.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Allowak Yeti
 tags:
   - Monster/Größe/Groß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Allowak Yeti
+status: WIP
 ---
 # [Allowak Yeti](3-Mechanics\CLI\bestiary\monstrosity/allowak-yeti-egw.md)
 *Source: Explorer's Guide to Wildemount p. 126*  

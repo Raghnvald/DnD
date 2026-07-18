@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hyena
+Status: WIP
 linter-yaml-title-alias: Hyena
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: The Path of Light
+Status: WIP
 linter-yaml-title-alias: The Path of Light
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

@@ -13,6 +13,7 @@ Habitat:
   - Sumpf
   - Wald
   - Wüste
+Status: WIP
 linter-yaml-title-alias: Wiedergänger
 tags:
   - Monster/Größe/Mittelgroß

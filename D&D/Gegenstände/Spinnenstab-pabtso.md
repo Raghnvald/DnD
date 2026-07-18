@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Spinnenstab
+Original: Spider Staff
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung durch einen Barden, Hexenmeister, Magier oder Zauberer
   - Vielseitig (1W8)
+Einstimmung: durch einen Barden, Hexenmeister, Magier oder Zauberer
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Spinnenstab
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
@@ -15,6 +18,7 @@ tags:
 aliases:
   - Spider Staff
   - Spinnenstab
+status: WIP
 ---
 # Spinnenstab
 *Stab, selten (erfordert Einstimmung durch einen Barden, Hexenmeister, Magier oder Zauberer)*  

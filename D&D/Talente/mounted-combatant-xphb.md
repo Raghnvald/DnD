@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mounted Combatant
+Status: WIP
 linter-yaml-title-alias: Mounted Combatant
 tags:
   - Kompendium/Talent

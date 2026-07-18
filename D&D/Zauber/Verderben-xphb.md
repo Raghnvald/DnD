@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Bane
 classes:
   - Bard
@@ -25,7 +26,7 @@ tags:
   - Klasse/Kleriker/grave-domain
   - Klasse/Paladin/oath-of-vengeance
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/xphb
   - Subklasse/divine-soul/chaos
   - Subklasse/the-undead

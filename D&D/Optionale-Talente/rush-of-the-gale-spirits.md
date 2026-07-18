@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rush of the Gale Spirits
+Status: WIP
 linter-yaml-title-alias: Rush of the Gale Spirits
 tags:
   - Kompendium/Optionales/ed

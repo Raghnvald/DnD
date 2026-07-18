@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Celestials)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Celestials)
 tags:
   - Gegenstand/Seltenheit/selten

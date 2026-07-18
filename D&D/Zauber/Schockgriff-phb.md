@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: Nah
 Schaden: 1d8 Blitz
+Status: WIP
 linter-yaml-title-alias: Schockgriff
 classes:
   - Bard (Magical Secrets)
@@ -19,7 +20,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high

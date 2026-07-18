@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: nichts
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Druidenkunst
 classes:
   - Bard (Magical Secrets)
@@ -18,7 +19,7 @@ tags:
   - Klasse/Druide
   - Klasse/Druide/circle-of-the-land/arctic
   - Klasse/Kleriker/nature-domain
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome

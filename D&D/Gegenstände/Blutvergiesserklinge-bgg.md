@@ -1,82 +1,89 @@
 ---
-Bezeichnung: Bloodshed Blade
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
-linter-yaml-title-alias: Bloodshed Blade
+Bezeichnung: Blutvergießerklinge
+Original: Bloodshed Blade
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Eigenschaften:
+  - variiert
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+Status: completed
+linter-yaml-title-alias: Blutvergießerklinge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/bgg
 aliases:
-  - Bloodshed Blade
-  - Bloodshed Double-Bladed Scimitar
-  - Bloodshed Greatsword
-  - Bloodshed Longsword
-  - Bloodshed Rapier
-  - Bloodshed Scimitar
-  - Bloodshed Shortsword
+  - Blutvergießer Double-Bladed Scimitar
+  - Blutvergießer Greatsword
+  - Blutvergießer Longsword
+  - Blutvergießer Rapier
+  - Blutvergießer Scimitar
+  - Blutvergießer Shortsword
+  - Blutvergießerklinge
 ---
-# Bloodshed Blade
-*Very rare (requires attunement)*  
+# Blutvergießerklinge
+*Waffe (beliebiges Schwert), sehr selten (erfordert Einstimmung)*  
 
-The hilt of this sword bears a carnelian engraved with the blood rune.
+Der Griff dieses Schwerts trägt einen Karneol, in den die Blutrune eingraviert wurde.
 
-You can add your Constitution modifier (minimum of +1) to the damage rolls of attacks made with this weapon.
+Du kannst deinen Konstitutionsmodifikator (mindestens +1) zum Schadenswurf deiner Angriffe mit dieser Waffe hinzufügen.
 
-## Invoking the Rune
+## Anrufung der Rune
 
-When you target a creature with an attack using this weapon, you can invoke the sword's rune, causing it to flare with crimson light and infusing your attack with bloodthirsty precision. You then spend and roll one of your unspent Hit Dice and add the number rolled to the attack roll. You can choose to invoke the rune after rolling the `d20`.
+Zielst du mit dieser Waffe bei einem Angriff auf eine Kreatur, kannst du die Rune des Schwerts anrufen. Sie leuchtet dann in einem blutroten Licht und deine Angriffe sind von einer blutrünstigen Präzision. Danach verbrauchst du einen deiner noch nicht verbrauchten Trefferwürfel, indem du mit ihm würfelst und die gewürfelte Zahl zum Angriffswurf addierst. Du kannst dich auch dazu entscheiden, die Rune erst dann anzurufen, nachdem du den `W20` gewürfelt hast.
 
-If this attack hits, you can also spend and roll any number of your unspent Hit Dice and add the total rolled to the weapon's damage.
+Trifft dieser Angriff, kannst du beliebig viele unverbrauchte Trefferwürfel verwenden und ihr Ergebnis zum Schaden der Waffe hinzufügen.
 
-Once the rune has been invoked, it can't be invoked again until the next dawn.
+Wurde die Rune angerufen, kann sie erst im nächsten Morgengrauen erneut angerufen werden.
 
-**Variants**:
-- [Bloodshed Double-Bladed Scimitar](#Bloodshed%20Double-Bladed%20Scimitar)
-- [Bloodshed Greatsword](#Bloodshed%20Greatsword)
-- [Bloodshed Longsword](#Bloodshed%20Longsword)
-- [Bloodshed Rapier](#Bloodshed%20Rapier)
-- [Bloodshed Scimitar](#Bloodshed%20Scimitar)
-- [Bloodshed Shortsword](#Bloodshed%20Shortsword)
+**Varianten**:
+- [[#Blutvergießender Doppelklingiger Krummsäbel]]
+- [[#Blutvergießer-Krummsäbel]]
+- [[#Blutvergießer-Kurzschwert]]
+- [[#Blutvergießer-Langschwert]]
+- [[#Blutvergießer-Rapier]]
+- [[#Blutvergießer-Zweihandschwert]]
 
-### Bloodshed Double-Bladed Scimitar
+### Blutvergießender Doppelklingiger Krummsäbel
 
-- **Damage**: 2d4 slashing
-- **Properties**: Two-Handed, special
-- **Weight**: 6.0 lbs.
+- **Schaden**: 2d4 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]], [[Zweiklingiger_Krummsäbel-erlw# Spezial|Spezial]]
+- **Gewicht**: 3,0 kg
 
-### Bloodshed Greatsword
+### Blutvergießer-Krummsäbel
 
-- **Damage**: 2d6 slashing
-- **Properties**: Heavy, Two-Handed
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1d6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]], [[Gegenstandseigenschaften-phb#Leicht|Leicht]]
+- **Gewicht**: 1,5 kg
 
-### Bloodshed Longsword
+### Blutvergießer-Kurzschwert
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: Versatile
-- **Weight**: 3.0 lbs.
+- **Schaden**: 1d6 Stich
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]], [[Gegenstandseigenschaften-phb#Leicht|Leicht]]
+- **Gewicht**: 1,0 kg
 
-### Bloodshed Rapier
+### Blutvergießer-Langschwert
 
-- **Damage**: 1d8 piercing
-- **Properties**: Finesse
-- **Weight**: 2.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d8 Hieb
+  - Zweihändig: 1d10 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Bloodshed Scimitar
+### Blutvergießer-Rapier
 
-- **Damage**: 1d6 slashing
-- **Properties**: Finesse, Light
-- **Weight**: 3.0 lbs.
+- **Schaden**: 1d8 Stich
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]]
+- **Gewicht**: 1,0 kg
 
-### Bloodshed Shortsword
+### Blutvergießer-Zweihandschwert
 
-- **Damage**: 1d6 piercing
-- **Properties**: Finesse, Light
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2d6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-*Source: Bigby Presents: Glory of the Giants p. 111*
+*Quelle: Bigby präsentiert: Ruhm der Riesen S. 111*

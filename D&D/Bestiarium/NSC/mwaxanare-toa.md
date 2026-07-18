@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mwaxanaré
+Status: WIP
 linter-yaml-title-alias: Mwaxanaré
 tags:
   - Monster/Größe/Mittelgroß

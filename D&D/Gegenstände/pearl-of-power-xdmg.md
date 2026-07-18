@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Pearl of Power
+Status: WIP
 linter-yaml-title-alias: Pearl of Power
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

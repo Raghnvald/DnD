@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Phantasmal Force
+Bezeichnung: Macht der Vorstellungskraft
 Zaubergrad: 2
-linter-yaml-title-alias: Phantasmal Force
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Macht der Vorstellungskraft
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -22,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
 aliases:
-  - Phantasmal Force
+  - Macht der Vorstellungskraft
 ---
-# Phantasmal Force
+# Macht der Vorstellungskraft
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 Action

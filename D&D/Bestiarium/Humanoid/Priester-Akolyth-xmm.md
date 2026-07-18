@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest Acolyte
+Status: WIP
 linter-yaml-title-alias: Priest Acolyte
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

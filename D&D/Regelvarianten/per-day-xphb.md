@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Per Day
+Status: WIP
 linter-yaml-title-alias: Per Day
 tags:
   - Quelle/5e/xphb

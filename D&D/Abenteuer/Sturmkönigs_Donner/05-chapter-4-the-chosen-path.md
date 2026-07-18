@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: The Chosen Path"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: The Chosen Path"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Chapter 4: The Chosen Path"
-  - Chapter 4: The Chosen Path
 ---
 # Chapter 4: The Chosen Path
 *Source: Storm King's Thunder, p. 121* 

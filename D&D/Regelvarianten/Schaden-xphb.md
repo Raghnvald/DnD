@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Damage
+Status: WIP
 linter-yaml-title-alias: Damage
 tags:
   - Quelle/5e/xphb

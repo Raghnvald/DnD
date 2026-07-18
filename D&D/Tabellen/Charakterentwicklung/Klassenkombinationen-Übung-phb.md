@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Übung durch Klassenkombination
+Status: WIP
 linter-yaml-title-alias: Übung durch Klassenkombination
 tags:
   - Quelle/5e/phb

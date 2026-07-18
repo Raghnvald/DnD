@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gute Beeren
+Status: WIP
 linter-yaml-title-alias: Gute Beeren
 tags:
   - Klasse/Druide

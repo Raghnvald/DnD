@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Goliath
+Status: WIP
 linter-yaml-title-alias: Goliath
 tags:
   - Quelle/5e/mpmm
   - Rasse/goliath
 aliases:
-  - "Goliath"
+  - Goliath
   - Goliath
 ---
 # Goliath

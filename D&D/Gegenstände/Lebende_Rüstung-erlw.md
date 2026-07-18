@@ -3,15 +3,16 @@ Bezeichnung: Lebende Rüstung
 Kategorie: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-RK: /
-STR: /
-Heiml.: /
+  - n/v
+Kst.: n/v
+Gew.: variiert
+RK: variiert
+STR: variiert
+Heiml.: variiert
+Status: WIP
 linter-yaml-title-alias: Lebende Rüstung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -33,6 +34,7 @@ aliases:
   - Living Spiked Armor
   - Living Splint Armor
   - Living Studded Leather Armor
+Original: Living Armor
 ---
 # Lebende Rüstung
 *Very rare (requires attunement)*  

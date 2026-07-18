@@ -1,17 +1,20 @@
 ---
-Bezeichnung: Bomb
-Kategorie: Explosives
-linter-yaml-title-alias: Bomb
+Bezeichnung: Bombe
+Original: Bomb
+Kategorie: Sprengstoff
+Status: WIP
+linter-yaml-title-alias: Bombe
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Gegenstand/Zeitalter/Renaissance
   - Quelle/5e/dmg
 aliases:
-  - Bomb
+  - Bombe
+status: WIP
 ---
-# Bomb
-*Explosive*  
+# Bombe
+*Sprengstoff*  
 
 - **Cost**: 150 gp
 - **Weight**: 1.0 lbs.

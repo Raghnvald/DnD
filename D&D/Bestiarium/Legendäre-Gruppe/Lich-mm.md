@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lich
+Status: WIP
 linter-yaml-title-alias: Lich
 tags:
   - Monster/legendary-group

@@ -7,7 +7,7 @@ Größe: Winzig
 HG: 2
 Habitat:
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Faerie Dragon Adult
 tags:
   - Monster/Größe/Winzig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Faerie Dragon Adult
+status: WIP
 ---
 # [Faerie Dragon Adult](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-adult-xmm.md)
 *Source: Monster Manual (2024) p. 117*  

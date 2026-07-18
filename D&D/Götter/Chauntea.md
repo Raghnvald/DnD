@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chauntea, Göttin der Landwirtschaft
+Status: WIP
 linter-yaml-title-alias: Chauntea, Göttin der Landwirtschaft
 tags:
   - Kompendium/Götter

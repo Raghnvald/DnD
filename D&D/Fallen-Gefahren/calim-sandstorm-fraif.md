@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Calim Sandstorm
+Status: WIP
 linter-yaml-title-alias: Calim Sandstorm
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/fraif
 aliases:
-  - "Calim Sandstorm"
+  - Calim Sandstorm
   - Calim Sandstorm
 ---
 # Calim Sandstorm

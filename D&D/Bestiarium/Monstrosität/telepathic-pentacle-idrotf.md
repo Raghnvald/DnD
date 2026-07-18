@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Telepathic Pentacle
+Status: WIP
 linter-yaml-title-alias: Telepathic Pentacle
 tags:
   - Monster/Größe/Riesig

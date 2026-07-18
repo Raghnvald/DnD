@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Skoraeus
+Status: WIP
 linter-yaml-title-alias: Scion of Skoraeus
 tags:
   - Monster/legendary-group

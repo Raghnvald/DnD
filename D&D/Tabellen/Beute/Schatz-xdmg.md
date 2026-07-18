@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schatz
+Status: WIP
 linter-yaml-title-alias: Schatz
 tags:
   - Quelle/5e/xdmg

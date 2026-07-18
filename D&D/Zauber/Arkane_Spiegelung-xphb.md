@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mirage Arcane
+Status: WIP
 linter-yaml-title-alias: Mirage Arcane
 classes:
   - Bard

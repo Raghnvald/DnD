@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Elemental Weapon
+Bezeichnung: Elementare Waffe
 Zaubergrad: 3
-linter-yaml-title-alias: Elemental Weapon
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Elementare Waffe
 classes:
   - Bard (Magical Secrets)
   - Paladin
@@ -12,9 +14,9 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
 aliases:
-  - Elemental Weapon
+  - Elementare Waffe
 ---
-# Elemental Weapon
+# Elementare Waffe
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 Action

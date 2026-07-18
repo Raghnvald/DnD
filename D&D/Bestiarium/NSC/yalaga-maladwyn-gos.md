@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yalaga Maladwyn
+Status: WIP
 linter-yaml-title-alias: Yalaga Maladwyn
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Tavick's Landing: Important Districts"
+Status: WIP
 linter-yaml-title-alias: "Tavick's Landing: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Tavick's Landing: Important Districts"
-  - Tavick's Landing: Important Districts
 ---
 # Tavick's Landing: Important Districts
 *Source: Eberron: Rising from the Last War p. 164* 

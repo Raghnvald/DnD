@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wish
+Status: WIP
 linter-yaml-title-alias: Wish
 classes:
   - Bard

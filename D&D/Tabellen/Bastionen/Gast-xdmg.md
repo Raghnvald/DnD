@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gast
 Kategorie: Bastion
+Status: WIP
 linter-yaml-title-alias: Gast
 tags:
   - Quelle/5e/xdmg

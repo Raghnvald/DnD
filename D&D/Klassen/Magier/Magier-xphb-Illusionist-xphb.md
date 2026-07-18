@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Illusionist
+Status: WIP
 linter-yaml-title-alias: Illusionist
 tags:
   - Klasse/Magier/illusionist

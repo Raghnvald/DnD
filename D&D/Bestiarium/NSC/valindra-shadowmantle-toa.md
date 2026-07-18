@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valindra Shadowmantle
+Status: WIP
 linter-yaml-title-alias: Valindra Shadowmantle
 tags:
   - Monster/Größe/Mittelgroß

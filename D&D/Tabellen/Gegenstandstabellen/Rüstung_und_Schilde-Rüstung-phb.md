@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rüstung und Schilde; Rüstungen
+Status: WIP
 linter-yaml-title-alias: Rüstung und Schilde; Rüstungen
 tags:
   - Quelle/5e/phb

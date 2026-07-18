@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Coldlight Walker
+Status: WIP
 linter-yaml-title-alias: Coldlight Walker
 tags:
   - Monster/Größe/Mittelgroß

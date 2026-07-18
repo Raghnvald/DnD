@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drowned Blade
+Status: WIP
 linter-yaml-title-alias: Drowned Blade
 tags:
   - Monster/Größe/Mittelgroß

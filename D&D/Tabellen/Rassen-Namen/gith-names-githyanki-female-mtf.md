@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Names – Githyanki, Female
+Status: WIP
 linter-yaml-title-alias: Gith Names – Githyanki, Female
 tags:
   - Quelle/5e/mtf

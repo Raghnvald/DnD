@@ -8,7 +8,7 @@ HG: "1"
 Habitat:
   - /
 Image: token/amanisha-manivarshi-jttrc.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amanisha Manivarshi
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Amanisha Manivarshi
+status: WIP
 ---
 # [Amanisha Manivarshi](3-Mechanics\CLI\bestiary\npc/amanisha-manivarshi-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 127*  

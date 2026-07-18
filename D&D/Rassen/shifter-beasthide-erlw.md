@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter (Beasthide)
+Status: WIP
 linter-yaml-title-alias: Shifter (Beasthide)
 tags:
   - Quelle/5e/erlw

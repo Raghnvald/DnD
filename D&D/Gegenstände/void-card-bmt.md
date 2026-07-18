@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Void Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Void Card
 tags:
   - Gegenstand/Seltenheit/legendär

@@ -2,10 +2,10 @@
 Bezeichnung: Kiste
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 12,5 kg
-status: WIP
+Status: completed 
 linter-yaml-title-alias: Kiste
 tags:
   - Gegenstand/Ausrüstung/

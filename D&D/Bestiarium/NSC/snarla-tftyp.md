@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Snarla
+Status: WIP
 linter-yaml-title-alias: Snarla
 tags:
   - Monster/Größe/Mittelgroß

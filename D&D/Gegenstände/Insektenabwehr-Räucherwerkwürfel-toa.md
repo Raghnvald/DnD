@@ -2,10 +2,10 @@
 Bezeichnung: Insektenabwehr (Räucherwerkwürfel)
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Insektenabwehr (Räucherwerkwürfel)
 tags:
   - Gegenstand/Ausrüstung/

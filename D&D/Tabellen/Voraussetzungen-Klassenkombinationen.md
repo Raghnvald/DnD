@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Voraussetzungen Klassenkombinationen
+Status: WIP
 linter-yaml-title-alias: Voraussetzungen Klassenkombinationen
 tags:
   - Quelle/5e/phb

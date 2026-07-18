@@ -1,5 +1,6 @@
 ---
 Bezeichnung: DND Notizheft für den faulen Spielleiter
+Status: WIP
 tags:
   - Quelle/5e/dmg
 ---

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Harp of Gilded Plenty
+Status: WIP
 linter-yaml-title-alias: Harp of Gilded Plenty
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bgg
 aliases:

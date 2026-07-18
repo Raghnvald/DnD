@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weapon Mastery Properties
+Status: WIP
 linter-yaml-title-alias: Weapon Mastery Properties
 tags:
   - Quelle/5e/xphb

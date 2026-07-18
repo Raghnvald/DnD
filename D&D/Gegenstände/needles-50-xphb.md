@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Needles (50)
+Status: WIP
 linter-yaml-title-alias: Needles (50)
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

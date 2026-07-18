@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githzerai Groups; Githzerai Special Allies
+Status: WIP
 linter-yaml-title-alias: Githzerai Groups; Githzerai Special Allies
 tags:
   - Quelle/5e/mtf

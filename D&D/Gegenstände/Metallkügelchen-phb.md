@@ -2,10 +2,10 @@
 Bezeichnung: Metallkügelchen
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 0,001 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Metallkügelchen
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,10 +15,10 @@ aliases:
   - Metallkügelchen
 ---
 # Metallkügelchen
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Weight**: 0.002 lbs.
+- **Gewicht**: 0,001 kg
 
-Most commonly found inside a [bag of ball bearings](/3-Mechanics/CLI/items/ball-bearings-bag-of-1000.md).
+Als Aktion kannst du die kleinen Metallkugeln auf einer Fläche verschütten, die höchstens 3 m pro Seite misst. Eine Kreatur, die sich über die bedeckte Fläche (die eben sein muss) bewegt, muss einen erfolgreichen `Geschicklichkeits-Rettungswurf` gegen `SG 10` ablegen, um nicht hinzufallen und den Zustand liegend zu erhalten. Eine Kreatur, die sich nur mit halber Bewegungsrate durch diesen Bereich bewegt, muss keinen Rettungswurf ablegen. 
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

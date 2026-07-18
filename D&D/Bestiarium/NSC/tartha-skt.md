@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tartha
+Status: WIP
 linter-yaml-title-alias: Tartha
 tags:
   - Monster/Größe/Riesig

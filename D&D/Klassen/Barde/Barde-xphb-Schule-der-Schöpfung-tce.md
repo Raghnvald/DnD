@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Creation
+Status: WIP
 linter-yaml-title-alias: College of Creation
 tags:
   - Klasse/Barde/Schule-der-Schöpfung

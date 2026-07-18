@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Water Walking
+Status: WIP
 linter-yaml-title-alias: Ring of Water Walking
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

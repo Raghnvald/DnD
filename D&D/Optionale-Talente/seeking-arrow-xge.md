@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seeking Arrow
+Status: WIP
 linter-yaml-title-alias: Seeking Arrow
 tags:
   - Kompendium/Optionales/as

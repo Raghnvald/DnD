@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Boon of the Stormborn
+Status: WIP
 linter-yaml-title-alias: Spells for Boon of the Stormborn
 tags:
-  - Zauber/list/reward/boon-of-the-stormborn
+  - Zauber/Liste/reward/boon-of-the-stormborn
 aliases:
   - Spells for Boon of the Stormborn
 ---

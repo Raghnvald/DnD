@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Staff of the Woodlands
+Status: WIP
 linter-yaml-title-alias: Staff of the Woodlands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

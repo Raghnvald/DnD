@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Elven Cuisine"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Elven Cuisine"
 tags:
   - Quelle/5e/hf

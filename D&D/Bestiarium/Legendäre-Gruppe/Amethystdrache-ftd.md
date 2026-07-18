@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amethyst Dragon
+Status: WIP
 linter-yaml-title-alias: Amethyst Dragon
 tags:
   - Monster/legendary-group

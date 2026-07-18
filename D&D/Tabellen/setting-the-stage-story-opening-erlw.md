@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Setting the Stage; Story Opening
+Status: WIP
 linter-yaml-title-alias: Setting the Stage; Story Opening
 tags:
   - Quelle/5e/erlw

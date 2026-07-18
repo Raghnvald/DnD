@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mask, Gott der Diebe
+Status: WIP
 linter-yaml-title-alias: Mask, Gott der Diebe
 tags:
   - Kompendium/Götter

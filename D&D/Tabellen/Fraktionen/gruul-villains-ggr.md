@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Villains
+Status: WIP
 linter-yaml-title-alias: Gruul Villains
 tags:
   - Quelle/5e/ggr

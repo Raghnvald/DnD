@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Club
+Status: WIP
 linter-yaml-title-alias: Club
 tags:
   - Gegenstand/Seltenheit/keine

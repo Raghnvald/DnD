@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Wound Closure
+Status: WIP
 linter-yaml-title-alias: Blessing of Wound Closure
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/xdmg
 aliases:
   - Blessing of Wound Closure

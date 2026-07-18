@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Rose Bearer
-image: token/black-rose-bearer-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Black Rose Bearer
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,6 +11,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Black Rose Bearer
+image: token/black-rose-bearer-veor.webp
+status: WIP
 ---
 # [Black Rose Bearer](3-Mechanics\CLI\bestiary\undead/black-rose-bearer-veor.md)
 *Source: Vecna: Eve of Ruin p. 208*  

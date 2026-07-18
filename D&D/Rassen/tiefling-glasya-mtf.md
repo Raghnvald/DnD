@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Glasya)
+Status: WIP
 linter-yaml-title-alias: Tiefling (Glasya)
 tags:
   - Quelle/5e/mtf

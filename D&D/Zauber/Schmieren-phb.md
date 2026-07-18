@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Grease
+Bezeichnung: Schmieren
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V, G, M
+Wirkungsdauer: 1 Minute
 Angriff:
 Schaden:
-linter-yaml-title-alias: Grease
+Status: WIP
+linter-yaml-title-alias: Schmieren
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -17,15 +18,15 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
 aliases:
-  - Grease
+  - Schmieren
 ---
-# Grease
+# Schmieren
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 Action

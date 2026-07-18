@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Griffon (Tiny)
+Status: WIP
 linter-yaml-title-alias: Young Griffon (Tiny)
 tags:
   - Monster/Größe/Winzig

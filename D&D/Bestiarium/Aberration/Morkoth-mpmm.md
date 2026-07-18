@@ -5,7 +5,7 @@ Bezeichnung: Morkoth
 Kategorie: Aberration
 Größe: Groß
 HG: 11
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Morkoth
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Morkoth
+status: WIP
 ---
 # [Morkoth](3-Mechanics\CLI\bestiary\aberration/morkoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186*  

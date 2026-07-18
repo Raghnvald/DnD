@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Changeling
+Status: WIP
 linter-yaml-title-alias: Changeling
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armaments - Common
+Status: WIP
 linter-yaml-title-alias: Armaments - Common
 tags:
   - Quelle/5e/xdmg

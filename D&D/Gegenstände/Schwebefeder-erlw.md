@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Feather Token
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Feather Token
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

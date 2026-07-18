@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stone Shape
+Status: WIP
 linter-yaml-title-alias: Stone Shape
 classes:
   - Artificer

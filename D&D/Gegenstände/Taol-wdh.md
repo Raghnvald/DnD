@@ -2,17 +2,18 @@
 Bezeichnung: Taol
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Taol
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Taol
+status: WIP
 ---
 # Taol
 *Treasure (coinage)*  

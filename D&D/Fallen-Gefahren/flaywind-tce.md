@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flaywind
+Status: WIP
 linter-yaml-title-alias: Flaywind
 tags:
   - Kompendium/Bedrohung/est

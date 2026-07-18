@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tloques-Popolocas
+Status: WIP
 linter-yaml-title-alias: Tloques-Popolocas
 tags:
   - Monster/Größe/Mittelgroß

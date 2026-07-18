@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nondetection
+Status: WIP
 linter-yaml-title-alias: Nondetection
 classes:
   - Bard
@@ -15,8 +16,8 @@ classes:
 tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
-  - Klasse/Kleriker/knowledge-domain
   - Klasse/Kleriker/trickery-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Paladin/oath-of-the-watchers
   - Klasse/Schurke/Arkaner-Betrüger

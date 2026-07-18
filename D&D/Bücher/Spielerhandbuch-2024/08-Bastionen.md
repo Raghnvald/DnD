@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaining a Bastion
+Status: WIP
 linter-yaml-title-alias: Gaining a Bastion
 tags:
   - Quelle/5e/dmg

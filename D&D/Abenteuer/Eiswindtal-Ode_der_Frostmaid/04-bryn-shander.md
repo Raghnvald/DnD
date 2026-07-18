@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bryn Shander
+Status: WIP
 linter-yaml-title-alias: Bryn Shander
 tags:
   - Quelle/5e/idrotf

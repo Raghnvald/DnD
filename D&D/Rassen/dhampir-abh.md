@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Dhampir
+Status: WIP
 linter-yaml-title-alias: Dhampir
 tags:
   - Quelle/5e/abh
   - Rasse/dhampir
 aliases:
-  - "Dhampir"
+  - Dhampir
   - Dhampir
 ---
 # Dhampir

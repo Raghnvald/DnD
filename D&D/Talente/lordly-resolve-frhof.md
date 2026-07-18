@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Lordly Resolve
+Status: WIP
 linter-yaml-title-alias: Lordly Resolve
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Lordly Resolve"
+  - Lordly Resolve
   - Lordly Resolve
 ---
 # Lordly Resolve

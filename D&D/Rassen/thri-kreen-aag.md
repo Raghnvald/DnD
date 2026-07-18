@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Thri-kreen
+Status: WIP
 linter-yaml-title-alias: Thri-kreen
 tags:
   - Quelle/5e/aag
   - Rasse/thri-kreen
 aliases:
-  - "Thri-kreen"
+  - Thri-kreen
   - Thri-kreen
 ---
 # Thri-kreen

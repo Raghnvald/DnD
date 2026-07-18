@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Rebuke
+Status: WIP
 linter-yaml-title-alias: Rebuke
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Rebuke"
+  - Rebuke
   - Rebuke
 ---
 # Rebuke

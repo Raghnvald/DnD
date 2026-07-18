@@ -1,15 +1,15 @@
 ---
-Bezeichnung: Gwyn
-linter-yaml-title-alias: Gwyn
-aliases:
-  - Gwyn
+Bezeichnung: Magische Gegenstände und wo sie zu finden sind
+Status: WIP
 ---
+# Magische Gegenstände und wo sie zu finden sind
+
 # Gwyn
 - [Dieb_der_neun_Leben-dmg](Dieb_der_neun_Leben-dmg.md)
-- [[Elfenumhang]]
-- [Stiefel der Elfen](../../05%20-%20Wikipedia/Gegenstände/Stiefel-der-Elfen.md)
-- [Handschuhe der Diebeskunst](../../05%20-%20Wikipedia/Gegenstände/Handschuhe-des-Diebstahls.md)
-- [[Kurzschwert des Kreuzritters-old]]
+- Elfenumhang
+- Stiefel der Elfen
+- Handschuhe der Diebeskunst
+- Schwert der Antwort (Antwortender)
 
 Nach CoS eventuell das Sonnenschwert "entfernen", dafür einen schattenhaften Fuchs, welcher sich in eine psychische Waffe (Langschwert oder Kurzschwert?) mit ähnlichen Effekten verwandeln kann?
 
@@ -20,10 +20,10 @@ Du erhältst einen Bonus von +3 auf Angriffs- und Schadenswürfe, die mit dieser
 
 # Lucan
 - [[Amulett_der_Gesundheit-dmg]]
-- [Rute der Absorption](../../05%20-%20Wikipedia/Gegenstände/rod-of-absorption.md)
-- [Ring des Schutzes](../../05%20-%20Wikipedia/Gegenstände/Ring-des-Schutzes.md)
-- [Umhang des Schutzes](Umhang%20des%20Schutzes.md)
-- [[Schild des Silbernen Drachen-old]]
+- Rute der Absorption
+- Ring des Schutzes
+- Flammenzunge
+- Schwert der Antwort (Erwidernder)
 
 Nach CoS eher ratlos für Belohnung. Eventuell [[Quaals_Feder-Baum-dmg]]? Mehrfach nutzbar?
 
@@ -31,12 +31,12 @@ Nach CoS eher ratlos für Belohnung. Eventuell [[Quaals_Feder-Baum-dmg]]? Mehrfa
 - egal, Hauptsache besser
 
 # Astor
-- [Arcane Grimoire](Arcane-Grimoire)
-- [[Elfenrüstung-old]]
-- [Verheerende Abhandlung](Fulminating-Treatise)
-- [[Zauberhut-old]]
-- [Robe des Erzmagiers](../../05%20-%20Wikipedia/Gegenstände/Robe-des-Erzmagiers.md)
-- [Stab des Magus](Zauberstecken_der_Magi-dmg.md)
+- Arcane Grimoire
+- Elfenrüstung
+- Verheerende Abhandlung
+- Zauberhut
+- Robe des Erzmagiers
+- Stab des Magus
 
 Nach CoS den Folianten "entfernen", dafür ein vergleichbares Zauberbuch bzw Foliant? [[tome-of-the-stilled-tongue]]?
 

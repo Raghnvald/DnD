@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Feign Death
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Feign Death
 classes:
   - Bard (Magical Secrets)

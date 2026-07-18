@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Quandrix Student
+Status: WIP
 linter-yaml-title-alias: Spells for Quandrix Student
 tags:
-  - ttrpg-cli/spell/list/background/quandrix-student
+  - Zauber/Liste/background/quandrix-student
 aliases:
-  - "Spells for Quandrix Student"
+  - Spells for Quandrix Student
   - Spells for Quandrix Student
 ---
 # Spells for Quandrix Student

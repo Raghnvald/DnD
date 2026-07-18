@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sidekicks
+Status: WIP
 linter-yaml-title-alias: Sidekicks
 tags:
   - Quelle/5e/dip

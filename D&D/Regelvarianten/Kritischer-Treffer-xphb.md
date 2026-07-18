@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Critical Hit
+Status: WIP
 linter-yaml-title-alias: Critical Hit
 tags:
   - Quelle/5e/xphb

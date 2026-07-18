@@ -1,15 +1,16 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Erinyes
-linter-yaml-title-alias: Erinyes
+Bezeichnung: Erinnyen
+Status: WIP
+linter-yaml-title-alias: Erinnyen
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/12
   - Monster/Typ/Unhold/devil
   - Quelle/5e/mm
 aliases:
-  - Erinyes
+  - Erinnyen
 ---
 # Erinnyen
 *Quelle: Monsterhandbuch  S. 73. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gynosphinx
+Status: WIP
 linter-yaml-title-alias: Gynosphinx
 tags:
   - Monster/Größe/Groß

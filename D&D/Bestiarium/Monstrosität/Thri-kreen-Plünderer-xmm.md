@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thri-kreen Marauder
+Status: WIP
 linter-yaml-title-alias: Thri-kreen Marauder
 tags:
   - Monster/Größe/Mittelgroß

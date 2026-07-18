@@ -5,10 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 1,5 Meter
 Komponenten: V, M
 Wirkungsdauer: Sofort
-Angriff: Nahkampf
+Angriff: Nah
 Schaden: 1d8 Feuer
-status:
-  - completed
+Status: WIP
 linter-yaml-title-alias: Grünfeuerklinge
 tags:
   - Klasse/Artifizient
@@ -22,6 +21,8 @@ tags:
 aliases:
   - Green‑Flame Blade
   - Grünfeuerklinge
+status:
+  - completed
 ---
 # Grünfeuerklinge
 _Zaubertrick der Hervorrufung_

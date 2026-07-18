@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chamber NPCs
+Status: WIP
 linter-yaml-title-alias: Chamber NPCs
 tags:
   - Quelle/5e/erlw

@@ -3,16 +3,17 @@ Bezeichnung: Unzerbrechlicher Pfeil
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Unzerbrechlicher Pfeil
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xge
 aliases:
   - Unzerbrechlicher Pfeil
+status: WIP
 ---
 # Unzerbrechlicher Pfeil
 *Munition, gewöhnlich*  

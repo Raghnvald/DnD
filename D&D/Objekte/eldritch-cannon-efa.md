@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Eldritch Cannon
+Status: WIP
 linter-yaml-title-alias: Eldritch Cannon
 tags:
-  - Kompendium/Objekt/size/unknown
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/unbekannt
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/efa
 aliases:
-  - "Eldritch Cannon"
+  - Eldritch Cannon
   - Eldritch Cannon
 ---
 # Eldritch Cannon

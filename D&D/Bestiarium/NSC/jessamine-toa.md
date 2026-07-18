@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jessamine
+Status: WIP
 linter-yaml-title-alias: Jessamine
 tags:
   - Monster/Größe/Mittelgroß

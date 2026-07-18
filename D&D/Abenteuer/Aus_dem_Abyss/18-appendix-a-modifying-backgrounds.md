@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Modifying Backgrounds"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Modifying Backgrounds"
 tags:
   - Quelle/5e/oota

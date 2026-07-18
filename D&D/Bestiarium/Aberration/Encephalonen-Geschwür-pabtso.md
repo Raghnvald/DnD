@@ -8,7 +8,7 @@ HG: 10
 Habitat:
   - /
 Image: token/encephalon-cluster-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Encephalonen-Geschwür
 tags:
   - Monster/Größe/Groß
@@ -18,6 +18,7 @@ tags:
 aliases:
   - Encephalon Cluster
   - Encephalonen-Geschwür
+status: WIP
 ---
 # Encephalonen-Geschwür
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  

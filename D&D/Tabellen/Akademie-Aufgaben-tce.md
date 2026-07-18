@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Academy Quests
+Status: WIP
 linter-yaml-title-alias: Academy Quests
 tags:
   - Quelle/5e/tce

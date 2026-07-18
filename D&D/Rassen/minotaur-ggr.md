@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Minotaur
+Status: WIP
 linter-yaml-title-alias: Minotaur
 tags:
   - Quelle/5e/ggr

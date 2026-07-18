@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Schauspieler
-linter-yaml-title-alias: Actor
+Status: WIP
+linter-yaml-title-alias: Schauspieler
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Actor
+  - Schauspieler
 ---
 # Schauspieler
 *Source: Player's Handbook p. 165*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Witchkite
+Status: WIP
 linter-yaml-title-alias: Witchkite
 tags:
   - Monster/Größe/Riesig

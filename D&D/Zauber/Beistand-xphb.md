@@ -7,7 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aid
 classes:
   - Artificer
@@ -29,7 +29,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/Kleriker/peace-domain
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Hingabe
@@ -42,6 +42,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Aid
+status: WIP
 ---
 # Aid
 *2nd-level, Abjuration*  

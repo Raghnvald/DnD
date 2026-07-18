@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Light
 classes:
   - Artificer
@@ -28,9 +29,9 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/blessed-warrior
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xphb
   - Rasse/aasimar
   - Rasse/elf/high-elf

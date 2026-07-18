@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adamantine Weapons
+Status: WIP
 linter-yaml-title-alias: Adamantine Weapons
 tags:
   - Quelle/5e/xge

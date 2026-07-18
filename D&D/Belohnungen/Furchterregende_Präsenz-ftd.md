@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frightful Presence
+Status: WIP
 linter-yaml-title-alias: Frightful Presence
 tags:
   - Kompendium/Belohnung/draconic-gift

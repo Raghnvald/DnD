@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: DM's Toolbox"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: DM's Toolbox"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Chapter 3: DM's Toolbox"
-  - Chapter 3: DM's Toolbox
 ---
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 

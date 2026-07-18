@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githzerai Groups; Githzerai Group Leader
+Status: WIP
 linter-yaml-title-alias: Githzerai Groups; Githzerai Group Leader
 tags:
   - Quelle/5e/mtf

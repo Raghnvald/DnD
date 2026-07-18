@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deck of Illusions
+Status: WIP
 linter-yaml-title-alias: Deck of Illusions
 tags:
   - Quelle/5e/xdmg

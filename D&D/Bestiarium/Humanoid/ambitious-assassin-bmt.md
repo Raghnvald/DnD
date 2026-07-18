@@ -8,7 +8,7 @@ HG: "5"
 Habitat:
   - /
 Image: token/ambitious-assassin-bmt.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ambitious Assassin
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Ambitious Assassin
+status: WIP
 ---
 # [Ambitious Assassin](3-Mechanics\CLI\bestiary\humanoid/ambitious-assassin-bmt.md)
 *Source: The Book of Many Things p. 45*  

@@ -1,12 +1,13 @@
 ---
-Bezeichnung: Skywrite
+Bezeichnung: Himmelsschreiben
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
-linter-yaml-title-alias: Skywrite
+Status: WIP
+linter-yaml-title-alias: Himmelsschreiben
 classes:
   - Artificer
   - Bard
@@ -28,9 +29,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
 aliases:
-  - Skywrite
+  - Himmelsschreiben
 ---
-# Skywrite
+# Himmelsschreiben
 *2nd-level, Transmutation (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

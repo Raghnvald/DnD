@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Create Magen
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Create Magen
 tags:
   - Quelle/5e/idrotf

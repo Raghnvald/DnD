@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Coastal Encounters (Levels 1—4)
+Status: WIP
 linter-yaml-title-alias: Coastal Encounters (Levels 1—4)
 tags:
   - Quelle/5e/xge

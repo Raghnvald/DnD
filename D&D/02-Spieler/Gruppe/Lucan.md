@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lucan
+Status: WIP
 tags:
   - player
 ac: 19
@@ -9,6 +10,7 @@ Gesinnung: Neutral
 Hintergrund: Eremit
 hp: 80
 Klasse: Druide
+level: 11
 modifier: 2
 pW: 19
 Rasse: Elf

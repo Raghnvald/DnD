@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Foresight
+Status: WIP
 linter-yaml-title-alias: Foresight
 classes:
   - Bard

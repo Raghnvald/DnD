@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Exquisite Rarities from One-Eyed Jax in Luskan
+Status: WIP
 linter-yaml-title-alias: Exquisite Rarities from One-Eyed Jax in Luskan
 tags:
   - Quelle/5e/paf
 aliases:
-  - "Exquisite Rarities from One-Eyed Jax in Luskan"
+  - Exquisite Rarities from One-Eyed Jax in Luskan
   - Exquisite Rarities from One-Eyed Jax in Luskan
 ---
 # Exquisite Rarities from One-Eyed Jax in Luskan

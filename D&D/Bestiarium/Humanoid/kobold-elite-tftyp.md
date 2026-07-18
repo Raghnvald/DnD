@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Elite
+Status: WIP
 linter-yaml-title-alias: Kobold Elite
 tags:
   - Monster/Größe/Klein

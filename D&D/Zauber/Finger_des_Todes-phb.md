@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Finger of Death
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Finger of Death
 classes:
   - Bard (Magical Secrets)

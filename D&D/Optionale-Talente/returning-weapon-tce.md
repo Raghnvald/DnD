@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Returning Weapon
+Status: WIP
 linter-yaml-title-alias: Returning Weapon
 tags:
   - Kompendium/Optionales/ai

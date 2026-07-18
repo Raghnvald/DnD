@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Legion Garrison Adventures
+Status: WIP
 linter-yaml-title-alias: Legion Garrison Adventures
 tags:
   - Quelle/5e/ggr

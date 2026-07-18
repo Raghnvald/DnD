@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix E: Trinkets"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: Trinkets"
 tags:
   - Quelle/5e/ai

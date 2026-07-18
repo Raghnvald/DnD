@@ -2,10 +2,10 @@
 Bezeichnung: Trommel
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 6 GM
 Gew.: 1,5kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Trommel
 tags:
   - Gegenstand/Ausrüstung/Instrument
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Trommel
+status: WIP
 ---
 # Trommel
 *Instrument*  

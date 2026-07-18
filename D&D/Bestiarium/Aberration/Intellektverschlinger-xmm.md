@@ -5,6 +5,7 @@ Bezeichnung: Intellect Devourer
 Kategorie: Aberration
 Größe: Winzig
 HG: 2
+Status: WIP
 linter-yaml-title-alias: Intellect Devourer
 tags:
   - Monster/Größe/Winzig

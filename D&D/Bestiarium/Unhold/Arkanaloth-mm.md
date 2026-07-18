@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 12
 Habitat:
   - Planar
-image: pictures/arcanaloth-2024.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Arcanaloth
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Arcanaloth
+image: pictures/arcanaloth-2024.webp
+status: completed
 ---
 # [Arcanaloth](3-Mechanics\CLI\bestiary\fiend/arcanaloth.md)
 *Source: Monster Manual p. 313*  

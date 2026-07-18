@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Crawling King
+Status: WIP
 linter-yaml-title-alias: The Crawling King
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - The Crawling King

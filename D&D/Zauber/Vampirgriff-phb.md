@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Vampiric Touch
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Vampiric Touch
 classes:
   - Bard (Magical Secrets)

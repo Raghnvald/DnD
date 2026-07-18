@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Remarkable Recovery
+Status: WIP
 linter-yaml-title-alias: Remarkable Recovery
 tags:
   - Kompendium/Talent

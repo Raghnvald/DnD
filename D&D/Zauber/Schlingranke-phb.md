@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Grasping Vine
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Grasping Vine
 classes:
   - Bard (Magical Secrets)

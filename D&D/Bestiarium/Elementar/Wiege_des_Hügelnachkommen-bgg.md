@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cradle of the Hill Scion
+Status: WIP
 linter-yaml-title-alias: Cradle of the Hill Scion
 tags:
   - Monster/Größe/Gigantisch

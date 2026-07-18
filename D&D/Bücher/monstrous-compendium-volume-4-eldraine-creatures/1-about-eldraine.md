@@ -1,10 +1,11 @@
 ---
 Bezeichnung: About Eldraine
+Status: WIP
 linter-yaml-title-alias: About Eldraine
 tags:
   - Quelle/5e/mcv4ec
 aliases:
-  - "About Eldraine"
+  - About Eldraine
   - About Eldraine
 ---
 # About Eldraine

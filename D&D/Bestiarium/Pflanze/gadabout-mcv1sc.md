@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gadabout
+Status: WIP
 linter-yaml-title-alias: Gadabout
 tags:
   - Monster/Größe/Mittelgroß

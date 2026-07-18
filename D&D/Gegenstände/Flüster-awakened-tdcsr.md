@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Whisper (Awakened)
-Kategorie: Einfache Nahkampfwaffe
+Original: Whisper (Awakened)
+Kategorie: Nahkampfwaffe, einfach
+Status: WIP
 linter-yaml-title-alias: Whisper (Awakened)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

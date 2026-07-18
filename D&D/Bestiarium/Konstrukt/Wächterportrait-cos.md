@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guardian Portrait
+Status: WIP
 linter-yaml-title-alias: Guardian Portrait
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wayfarer
+Status: WIP
 linter-yaml-title-alias: Wayfarer
 tags:
   - Kompendium/Hintergrund

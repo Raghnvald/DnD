@@ -3,16 +3,17 @@ Bezeichnung: Bolzen des Kataklysmus
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
+Kst.: n/v
 Gew.: 0,0375 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Bolzen des Kataklysmus
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/tdcsr
 aliases:
   - Bolzen des Kataklysmus
+status: WIP
 ---
 # Bolzen des Kataklysmus
 *Ammunition, very rare*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Tal'Dorei Campaign Setting Reborn"
+Status: WIP
 linter-yaml-title-alias: "Tal'Dorei Campaign Setting Reborn"
 tags:
   - Quelle/5e/tdcsr
 aliases:
   - "Tal'Dorei Campaign Setting Reborn"
-  - Tal'Dorei Campaign Setting Reborn
 ---
 # Tal'Dorei Campaign Setting Reborn
 *Source: Tal'Dorei Campaign Setting Reborn, p. 1* 

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Merfolk (Zendikar; Emeria Creed)
+Status: WIP
 linter-yaml-title-alias: Merfolk (Zendikar; Emeria Creed)
 tags:
   - Quelle/5e/psz
   - Rasse/merfolk/zendikar-emeria-creed
 aliases:
-  - "Merfolk (Zendikar; Emeria Creed)"
+  - Merfolk (Zendikar; Emeria Creed)
   - Merfolk (Zendikar; Emeria Creed)
 ---
 # Merfolk (Zendikar; Emeria Creed)

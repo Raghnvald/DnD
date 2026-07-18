@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Encumbrance
+Status: WIP
 linter-yaml-title-alias: Encumbrance
 tags:
   - Quelle/5e/phb

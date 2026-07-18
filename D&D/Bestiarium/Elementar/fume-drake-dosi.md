@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fume Drake
+Status: WIP
 linter-yaml-title-alias: Fume Drake
 tags:
   - Monster/Größe/Klein

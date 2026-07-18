@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Wereraven
+Status: WIP
 linter-yaml-title-alias: Young Wereraven
 tags:
   - Monster/Größe/Klein

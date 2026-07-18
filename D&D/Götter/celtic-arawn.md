@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Arawn
+Status: WIP
 linter-yaml-title-alias: Arawn
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Leben
   - Quelle/5e/phb
 aliases:
   - Arawn

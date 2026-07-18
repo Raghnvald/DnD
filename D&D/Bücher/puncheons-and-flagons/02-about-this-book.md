@@ -1,10 +1,11 @@
 ---
 Bezeichnung: About This Book
+Status: WIP
 linter-yaml-title-alias: About This Book
 tags:
   - Quelle/5e/paf
 aliases:
-  - "About This Book"
+  - About This Book
   - About This Book
 ---
 # About This Book

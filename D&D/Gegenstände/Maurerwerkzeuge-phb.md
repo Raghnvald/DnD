@@ -2,10 +2,10 @@
 Bezeichnung: Maurerwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
 Gew.: 4,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Maurerwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

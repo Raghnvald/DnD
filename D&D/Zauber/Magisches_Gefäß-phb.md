@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Magic Jar
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Magic Jar
 classes:
   - Bard (Magical Secrets)

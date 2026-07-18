@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Hohe Drowmagie
-linter-yaml-title-alias: Drow High Magic
+Status: WIP
+linter-yaml-title-alias: Hohe Drowmagie
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Drow High Magic
+  - Hohe Drowmagie
 ---
 # Hohe Drowmagie
 *Source: Xanathar's Guide to Everything p. 74*  

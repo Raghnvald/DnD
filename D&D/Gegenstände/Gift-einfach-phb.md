@@ -2,8 +2,8 @@
 Bezeichnung: Einfaches Gift (Phiole)
 Kategorie: Gift
 Kst.: 100 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Einfaches Gift (Phiole)
 tags:
   - Gegenstand/Ausrüstung/
@@ -11,6 +11,9 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Einfaches Gift (Phiole)
+status: WIP
+Eigenschaften:
+  - Gift
 ---
 # Einfaches Gift (Phiole)
 *Adventuring gear, poison*  

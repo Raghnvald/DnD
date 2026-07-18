@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Nystul's Magic Aura"
+Status: WIP
 linter-yaml-title-alias: "Nystul's Magic Aura"
 classes:
   - Bard

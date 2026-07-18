@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cantrip
+Status: WIP
 linter-yaml-title-alias: Cantrip
 tags:
   - Quelle/5e/xphb

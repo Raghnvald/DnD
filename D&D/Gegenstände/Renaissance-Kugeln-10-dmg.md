@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Renaissance Bullets (10)
+Status: WIP
 linter-yaml-title-alias: Renaissance Bullets (10)
 tags:
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zeitalter/Renaissance
   - Quelle/5e/dmg

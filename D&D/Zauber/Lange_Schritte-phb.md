@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Longstrider
+Bezeichnung: Lange Schritte
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
-linter-yaml-title-alias: Longstrider
+Status: WIP
+linter-yaml-title-alias: Lange Schritte
 classes:
   - Bard (Magical Secrets)
   - Druid
@@ -21,15 +22,15 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
 aliases:
-  - Longstrider
+  - Lange Schritte
 ---
-# Longstrider
+# Lange Schritte
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 Action

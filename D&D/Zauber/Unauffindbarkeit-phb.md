@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Unauffindbarkeit
 Zaubergrad: 3
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Schaden:
+Status: WIP
 linter-yaml-title-alias: Unauffindbarkeit
 classes:
   - Bard (Magical Secrets)
@@ -17,7 +18,7 @@ classes:
   - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer

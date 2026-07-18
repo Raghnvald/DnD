@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Necrotic Tempest
+Status: WIP
 linter-yaml-title-alias: Necrotic Tempest
 tags:
   - Kompendium/Bedrohung/est

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Types of Criminal Syndicates; Syndicate Types
+Status: WIP
 linter-yaml-title-alias: Types of Criminal Syndicates; Syndicate Types
 tags:
   - Quelle/5e/tce

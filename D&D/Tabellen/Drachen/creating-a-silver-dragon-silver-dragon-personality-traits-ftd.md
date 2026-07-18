@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Silver Dragon; Silver Dragon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Creating a Silver Dragon; Silver Dragon Personality Traits
 tags:
   - Quelle/5e/ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pole
+Status: WIP
 linter-yaml-title-alias: Pole
 tags:
   - Gegenstand/Ausrüstung/

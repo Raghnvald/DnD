@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Steadings
+Status: WIP
 linter-yaml-title-alias: Steadings
 tags:
   - Quelle/5e/bgg

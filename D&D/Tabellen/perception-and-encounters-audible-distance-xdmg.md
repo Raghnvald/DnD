@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Perception and Encounters; Audible Distance
+Status: WIP
 linter-yaml-title-alias: Perception and Encounters; Audible Distance
 tags:
   - Quelle/5e/xdmg

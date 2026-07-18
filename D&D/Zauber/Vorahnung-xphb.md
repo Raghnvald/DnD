@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Augury
+Status: WIP
 linter-yaml-title-alias: Augury
 classes:
   - Barbarian (Path of the Ancestral Guardian)
@@ -18,7 +19,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb

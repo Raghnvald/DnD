@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Grung
+Status: WIP
 linter-yaml-title-alias: Grung
 tags:
   - Quelle/5e/oga
   - Rasse/grung
 aliases:
-  - "Grung"
+  - Grung
   - Grung
 ---
 # Grung

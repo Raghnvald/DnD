@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Item Properties
+Status: WIP
 linter-yaml-title-alias: Item Properties
 aliases:
   - Item Properties

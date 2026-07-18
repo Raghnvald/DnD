@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Ride the Wind
+Status: WIP
 linter-yaml-title-alias: Spells for Ride the Wind
 tags:
-  - Zauber/list/optfeature/ride-the-wind
+  - Zauber/Liste/optfeature/ride-the-wind
 aliases:
   - Spells for Ride the Wind
 ---

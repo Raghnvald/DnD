@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Glyster
+Status: WIP
 linter-yaml-title-alias: Glyster
 tags:
   - Monster/Größe/Riesig

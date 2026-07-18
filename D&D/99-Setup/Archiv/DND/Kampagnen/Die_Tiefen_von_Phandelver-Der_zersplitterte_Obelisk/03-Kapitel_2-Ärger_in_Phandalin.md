@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "<center> Kapitel 2: Ärger in Phandalin </center>"
+Status: WIP
 linter-yaml-title-alias: "<center> Kapitel 2: Ärger in Phandalin </center>"
 tags:
   - Quelle/5e/pabtso
 aliases:
   - "<center> Kapitel 2: Ärger in Phandalin </center>"
-  - Chapter 2: Trouble in Phandalin
+  - "Chapter 2: Trouble in Phandalin"
 ---
 # <center> Kapitel 2: Ärger in Phandalin </center>
 Die Grenzstadt Phandalin ist auf den Ruinen einer viel älteren Siedlung erbaut. Vor Hunderten von Jahren war das alte Phandalin eine blühende Stadt, deren Bewohner fest mit den Zwergen und Gnomen des Phandelver-Paktes verbündet waren. Doch dieselben Banditen, die die Minen in der Wellenecho-Höhle geplündert hatten, griffen die Siedlung an, und Phandalin wurde für Jahrhunderte verlassen.

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Crawling Claws
+Status: WIP
 linter-yaml-title-alias: Swarm of Crawling Claws
 tags:
   - Monster/Größe/Mittelgroß

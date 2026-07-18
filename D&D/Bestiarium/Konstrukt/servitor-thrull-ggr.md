@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Servitor Thrull
+Status: WIP
 linter-yaml-title-alias: Servitor Thrull
 tags:
   - Monster/Größe/Klein

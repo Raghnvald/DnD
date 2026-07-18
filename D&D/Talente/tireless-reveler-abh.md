@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Tireless Reveler
+Status: WIP
 linter-yaml-title-alias: Tireless Reveler
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Tireless Reveler"
+  - Tireless Reveler
   - Tireless Reveler
 ---
 # Tireless Reveler

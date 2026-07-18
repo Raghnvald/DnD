@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Relics - Legendary
+Status: WIP
 linter-yaml-title-alias: Relics - Legendary
 tags:
   - Quelle/5e/xdmg

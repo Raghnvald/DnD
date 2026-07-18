@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Klopfen
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Klopfen
 classes:
   - Bard (Magical Secrets)

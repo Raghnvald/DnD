@@ -3,16 +3,17 @@ Bezeichnung: Rüstung des Bewahrens
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
-Gew.: /
-RK: /
-STR: /
-Heiml.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+RK: variiert
+STR: variiert
+Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Rüstung des Bewahrens
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
@@ -23,6 +24,7 @@ aliases:
   - Ring Mail of Safeguarding
   - Rüstung des Bewahrens
   - Splint Armor of Safeguarding
+status: WIP
 ---
 # Rüstung des Bewahrens
 *Very rare (requires attunement)*  

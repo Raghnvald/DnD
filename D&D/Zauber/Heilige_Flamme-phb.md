@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d8
+Status: WIP
 linter-yaml-title-alias: Heilige Flamme
 classes:
   - Bard (Magical Secrets)
@@ -14,7 +15,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome

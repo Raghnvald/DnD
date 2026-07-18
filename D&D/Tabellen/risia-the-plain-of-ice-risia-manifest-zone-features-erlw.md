@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Risia, the Plain of Ice; Risia Manifest Zone Features
+Status: WIP
 linter-yaml-title-alias: Risia, the Plain of Ice; Risia Manifest Zone Features
 tags:
   - Quelle/5e/erlw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Witherling
+Status: WIP
 linter-yaml-title-alias: Gnoll Witherling
 tags:
   - Monster/Größe/Mittelgroß

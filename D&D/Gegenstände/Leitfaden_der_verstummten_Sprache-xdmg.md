@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Tome of the Stilled Tongue
+Status: WIP
 linter-yaml-title-alias: Tome of the Stilled Tongue
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

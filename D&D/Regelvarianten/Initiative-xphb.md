@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Initiative
+Status: WIP
 linter-yaml-title-alias: Initiative
 tags:
   - Quelle/5e/xphb

@@ -5,6 +5,7 @@ Bezeichnung: Kuo-toa
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 1/4
+Status: WIP
 linter-yaml-title-alias: Kuo-toa
 tags:
   - Monster/Größe/Mittelgroß

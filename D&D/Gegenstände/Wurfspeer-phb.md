@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Wurfspeer
-Kategorie: Einfache Nahkampfwaffe
+Original: Javelin
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W6 Stich
 Eigenschaften:
   - Wurfwaffe
-Einstimmung: /
+Einstimmung: n/v
 Kst.: 5 SM
 Gew.: 1,0 kg
+Status: WIP
 linter-yaml-title-alias: Wurfspeer
 tags:
   - Gegenstand/Seltenheit/keine
@@ -15,6 +17,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Wurfspeer
+status: WIP
 ---
 # Wurfspeer
 *Waffe*  

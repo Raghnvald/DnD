@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Pharaoh"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Pharaoh"
 tags:
   - Quelle/5e/qftis

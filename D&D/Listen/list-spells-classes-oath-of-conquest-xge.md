@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Oath of Conquest
+Status: WIP
 linter-yaml-title-alias: Spells for Oath of Conquest
 tags:
-  - Zauber/list/subclass/oath-of-conquest
+  - Zauber/Liste/subclass/oath-of-conquest
 aliases:
   - Spells for Oath of Conquest
 ---

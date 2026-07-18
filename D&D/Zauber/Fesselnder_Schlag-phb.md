@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Ensnaring Strike
+Bezeichnung: Fesselnder Schlag
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Ensnaring Strike
+Zeitaufwand: 1 Bonusaktion
+Reichweite: selbst
+Komponenten: V
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Fesselnder Schlag
 classes:
   - Bard (Magical Secrets)
   - Paladin (Oath of the Ancients)
@@ -20,9 +21,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
 aliases:
-  - Ensnaring Strike
+  - Fesselnder Schlag
 ---
-# Ensnaring Strike
+# Fesselnder Schlag
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 Bonus Action

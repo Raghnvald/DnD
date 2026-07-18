@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Leatherworker's Tools"
+Status: WIP
 linter-yaml-title-alias: "Leatherworker's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - "Leatherworker's Tools"
-  - Leatherworker's Tools
 ---
 # Leatherworker's Tools
 *Artisan's tools*  

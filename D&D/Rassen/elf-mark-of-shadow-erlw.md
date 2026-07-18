@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Mark of Shadow)
+Status: WIP
 linter-yaml-title-alias: Elf (Mark of Shadow)
 tags:
   - Quelle/5e/erlw

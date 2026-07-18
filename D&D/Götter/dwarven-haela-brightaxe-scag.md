@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Haela Brightaxe
+Status: WIP
 linter-yaml-title-alias: Haela Brightaxe
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:
-  - "Haela Brightaxe"
+  - Haela Brightaxe
   - Haela Brightaxe
 ---
 # Haela Brightaxe

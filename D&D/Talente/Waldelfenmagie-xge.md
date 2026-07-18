@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Waldelfenmagie
-linter-yaml-title-alias: Wood Elf Magic
+Status: WIP
+linter-yaml-title-alias: Waldelfenmagie
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Wood Elf Magic
+  - Waldelfenmagie
 ---
 # Waldelfenmagie
 *Source: Xanathar's Guide to Everything p. 75*  

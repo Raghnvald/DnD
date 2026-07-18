@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tarul Var
+Status: WIP
 linter-yaml-title-alias: Tarul Var
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stimme des Kettenmeisters
+Status: WIP
 linter-yaml-title-alias: Stimme des Kettenmeisters
 tags:
   - Kompendium/Optionales/Anrufungen

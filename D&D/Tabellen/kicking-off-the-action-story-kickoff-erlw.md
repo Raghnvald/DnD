@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kicking Off the Action; Story Kickoff
+Status: WIP
 linter-yaml-title-alias: Kicking Off the Action; Story Kickoff
 tags:
   - Quelle/5e/erlw

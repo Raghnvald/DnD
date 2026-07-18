@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Prosthetic Limb
+Status: WIP
 linter-yaml-title-alias: Prosthetic Limb
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

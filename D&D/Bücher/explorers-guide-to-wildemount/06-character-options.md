@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Character Options
+Status: WIP
 linter-yaml-title-alias: Character Options
 tags:
   - Quelle/5e/egw

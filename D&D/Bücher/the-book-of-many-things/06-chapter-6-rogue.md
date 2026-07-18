@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: Rogue"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Rogue"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 6: Rogue"
-  - Chapter 6: Rogue
 ---
 # Chapter 6: Rogue
 *Source: The Book of Many Things, p. 40* 

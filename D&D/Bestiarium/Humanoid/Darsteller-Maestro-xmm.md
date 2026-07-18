@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Performer Maestro
+Status: WIP
 linter-yaml-title-alias: Performer Maestro
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

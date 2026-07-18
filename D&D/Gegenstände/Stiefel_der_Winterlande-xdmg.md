@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Boots of the Winterlands
+Status: WIP
 linter-yaml-title-alias: Boots of the Winterlands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 1: Die Grundlage"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 1: Die Grundlage"
 tags:
   - Quelle/5e/dmg

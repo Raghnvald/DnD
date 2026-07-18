@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 7: Hunting Lodge"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Hunting Lodge"
 tags:
   - Quelle/5e/hotdq

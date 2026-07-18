@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Street Justice
+Status: WIP
 linter-yaml-title-alias: Street Justice
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Street Justice"
+  - Street Justice
   - Street Justice
 ---
 # Street Justice

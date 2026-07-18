@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Hag; Hag Personality Traits
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Hag; Hag Personality Traits
 tags:
   - Quelle/5e/vgm

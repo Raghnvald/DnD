@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bugbear Lieutenant
+Status: WIP
 linter-yaml-title-alias: Bugbear Lieutenant
 tags:
   - Monster/Größe/Mittelgroß

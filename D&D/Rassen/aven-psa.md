@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Aven
+Status: WIP
 linter-yaml-title-alias: Aven
 tags:
   - Quelle/5e/psa
   - Rasse/aven
 aliases:
-  - "Aven"
+  - Aven
   - Aven
 ---
 # Aven

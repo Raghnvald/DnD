@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Character Goals; Simic Assignments
+Status: WIP
 linter-yaml-title-alias: Simic Character Goals; Simic Assignments
 tags:
   - Quelle/5e/ggr

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Krell Grohlg
+Status: WIP
 linter-yaml-title-alias: Krell Grohlg
 tags:
   - Monster/Größe/Mittelgroß

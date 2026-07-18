@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Iron Flask
+Status: WIP
 linter-yaml-title-alias: Iron Flask
 tags:
   - Gegenstand/Seltenheit/legendär

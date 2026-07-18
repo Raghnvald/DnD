@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Minions of Chaos
+Status: WIP
 linter-yaml-title-alias: Minions of Chaos
 tags:
   - Kompendium/Optionales/ei

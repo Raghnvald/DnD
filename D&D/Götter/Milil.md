@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Milil, Gott der Dichtung und Lieder
+Status: WIP
 linter-yaml-title-alias: Milil, Gott der Dichtung und Lieder
 tags:
   - Kompendium/Götter

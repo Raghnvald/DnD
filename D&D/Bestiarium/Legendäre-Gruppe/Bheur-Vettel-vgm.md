@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bheur Hag
+Status: WIP
 linter-yaml-title-alias: Bheur Hag
 tags:
   - Monster/legendary-group

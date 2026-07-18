@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Mogis's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Mogis's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

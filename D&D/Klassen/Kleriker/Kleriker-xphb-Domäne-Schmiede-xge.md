@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Forge Domain
+Status: WIP
 linter-yaml-title-alias: Forge Domain
 tags:
   - Klasse/Kleriker/forge
-  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/Schmiede
   - Quelle/5e/xge
 aliases:
   - Forge Domain

@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Bhaal
+Status: WIP
 linter-yaml-title-alias: Bhaal
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Bhaal"
-  - "The Lord of Murder"
   - Bhaal
+  - Bhaal
+  - The Lord of Murder
 ---
 # Bhaal
 *Source: Forgotten Realms: Heroes of Faerûn p. 103* 

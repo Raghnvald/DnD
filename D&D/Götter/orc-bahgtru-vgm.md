@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bahgtru
+Status: WIP
 linter-yaml-title-alias: Bahgtru
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/orc
   - Quelle/5e/vgm
 aliases:

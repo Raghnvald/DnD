@@ -6,6 +6,7 @@ Kategorie: Elementar
 Größe: Mittelgroß
 HG: 1/4
 Image: token/aarakocra-skirmisher-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Aarakocra Skirmisher
 tags:
   - Monster/Größe/Mittelgroß

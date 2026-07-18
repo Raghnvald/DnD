@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Felidar
+Status: WIP
 linter-yaml-title-alias: Felidar
 tags:
   - Monster/Größe/Groß

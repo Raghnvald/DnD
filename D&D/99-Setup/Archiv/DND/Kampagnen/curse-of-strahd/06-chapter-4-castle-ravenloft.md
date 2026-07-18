@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Castle Ravenloft"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Castle Ravenloft"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 4: Castle Ravenloft"
-  - Chapter 4: Castle Ravenloft
 ---
 # Chapter 4: Castle Ravenloft
 *Source: Curse of Strahd, p. 49* 

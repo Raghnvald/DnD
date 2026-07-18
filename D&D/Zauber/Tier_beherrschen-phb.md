@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dominate Beast
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Dominate Beast
 classes:
   - Bard (Magical Secrets)

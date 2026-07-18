@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Mordenheim's Designs; Serving Dr. Mordenheim"
+Status: WIP
 linter-yaml-title-alias: "Mordenheim's Designs; Serving Dr. Mordenheim"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "Mordenheim's Designs; Serving Dr. Mordenheim"
-  - Mordenheim's Designs; Serving Dr. Mordenheim
 ---
 # Mordenheim's Designs; Serving Dr. Mordenheim
 *Source: Van Richten's Guide to Ravenloft p. 142* 

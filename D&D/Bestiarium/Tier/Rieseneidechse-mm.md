@@ -11,6 +11,7 @@ Habitat:
   - Unterreich
   - Wald
   - Wüste
+Status: WIP
 linter-yaml-title-alias: Rieseneidechse
 tags:
   - Monster/Größe/Groß

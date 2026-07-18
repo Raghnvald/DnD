@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Far Scribe
+Status: WIP
 linter-yaml-title-alias: Spells for Far Scribe
 tags:
-  - Zauber/list/optfeature/far-scribe
+  - Zauber/Liste/optfeature/far-scribe
 aliases:
   - Spells for Far Scribe
 ---

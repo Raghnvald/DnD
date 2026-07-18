@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ehlonna
+Status: WIP
 linter-yaml-title-alias: Ehlonna
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Ehlonna

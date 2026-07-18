@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Adventure Aids
+Status: WIP
 linter-yaml-title-alias: Adventure Aids
 tags:
   - Quelle/5e/dod
 aliases:
-  - "Adventure Aids"
+  - Adventure Aids
   - Adventure Aids
 ---
 # Adventure Aids

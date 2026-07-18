@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Haint
+Status: WIP
 linter-yaml-title-alias: Haint
 tags:
   - Monster/Größe/Mittelgroß

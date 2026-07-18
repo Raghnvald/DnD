@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Fizban's Platinum Shield"
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: "Fizban's Platinum Shield"
 classes:
   - Bard

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Slayer
+Status: WIP
 linter-yaml-title-alias: Giant Slayer
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

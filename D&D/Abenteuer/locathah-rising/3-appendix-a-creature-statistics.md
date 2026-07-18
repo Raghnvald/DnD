@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Creature statistics"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Creature statistics"
 tags:
   - Quelle/5e/lr

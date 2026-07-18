@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Stahlmaster
+Status: WIP
 linter-yaml-title-alias: Stahlmaster
 tags:
   - Quelle/5e/dd
-  - ttrpg-cli/vehicle/size/large
-  - ttrpg-cli/vehicle/terrain/land
-  - ttrpg-cli/vehicle/type/creature
+  - Gegenstand/Fortbewegung/Größe/Groß
+  - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Kategorie/Kreatur
 aliases:
-  - "Stahlmaster"
+  - Stahlmaster
   - Stahlmaster
 ---
 # Stahlmaster

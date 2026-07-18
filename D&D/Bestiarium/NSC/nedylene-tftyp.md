@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nedylene
+Status: WIP
 linter-yaml-title-alias: Nedylene
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,13 +1,16 @@
 ---
-Bezeichnung: Weapon of Warning
-Kategorie: Beliebige Waffe
+Bezeichnung: Waffe der Warnung
+Original: Weapon of Warning
+Kategorie: Waffe, beliebig
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
-linter-yaml-title-alias: Weapon of Warning
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
+linter-yaml-title-alias: Waffe der Warnung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -67,15 +70,15 @@ aliases:
   - Sling of Warning
   - Spear of Warning
   - Trident of Warning
+  - Waffe der Warnung
   - War Pick of Warning
   - Warhammer of Warning
-  - Weapon of Warning
   - Whip of Warning
   - Yklwa of Warning
 ---
-# Weapon of Warning
+# Waffe der Warnung
 *Major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/weapon-of-warning.webp#right)
+![](img/weapon-of-warning.webp#right)
 
 This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised), except when [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
 

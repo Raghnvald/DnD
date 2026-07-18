@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: King of Feathers
+Status: WIP
 linter-yaml-title-alias: King of Feathers
 tags:
   - Monster/Größe/Riesig

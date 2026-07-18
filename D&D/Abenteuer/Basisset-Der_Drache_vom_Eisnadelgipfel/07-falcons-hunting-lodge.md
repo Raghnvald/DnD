@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Falcon's Hunting Lodge"
+Status: WIP
 linter-yaml-title-alias: "Falcon's Hunting Lodge"
 tags:
   - Quelle/5e/dip
 aliases:
   - "Falcon's Hunting Lodge"
-  - Falcon's Hunting Lodge
 ---
 # Falcon's Hunting Lodge
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 24* 

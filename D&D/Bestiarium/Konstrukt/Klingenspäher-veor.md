@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 7
 Habitat:
   - /
-image: token/blade-scout-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Blade Scout
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Blade Scout
+image: token/blade-scout-veor.webp
+status: WIP
 ---
 # Blade Scout
 *Source: Vecna: Eve of Ruin p. 209*  

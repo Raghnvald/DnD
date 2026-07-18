@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Fey-Touched
+Status: WIP
 linter-yaml-title-alias: Spells for Fey-Touched
 tags:
-  - Zauber/list/feat/fey-touched
+  - Zauber/Liste/feat/fey-touched
 aliases:
   - Spells for Fey-Touched
 ---

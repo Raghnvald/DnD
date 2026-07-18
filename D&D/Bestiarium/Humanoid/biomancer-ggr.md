@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Biomancer
+Status: WIP
 linter-yaml-title-alias: Biomancer
 tags:
   - Monster/Größe/Mittelgroß

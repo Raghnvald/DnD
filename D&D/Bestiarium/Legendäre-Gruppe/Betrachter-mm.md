@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beholder
+Status: WIP
 linter-yaml-title-alias: Beholder
 tags:
   - Monster/legendary-group

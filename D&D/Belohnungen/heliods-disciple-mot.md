@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heliod's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Heliod's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

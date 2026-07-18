@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Giants in Play"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Giants in Play"
 tags:
   - Quelle/5e/bgg
 aliases:
   - "Chapter 2: Giants in Play"
-  - Chapter 2: Giants in Play
 ---
 # Chapter 2: Giants in Play
 *Source: Bigby Presents: Glory of the Giants, p. 21* 

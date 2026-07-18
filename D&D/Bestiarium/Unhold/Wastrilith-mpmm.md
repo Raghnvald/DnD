@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wastrilith
+Status: WIP
 linter-yaml-title-alias: Wastrilith
 tags:
   - Monster/Größe/Groß

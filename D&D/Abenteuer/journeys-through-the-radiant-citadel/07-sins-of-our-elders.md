@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Sins of Our Elders
+Status: WIP
 linter-yaml-title-alias: Sins of Our Elders
 tags:
   - Quelle/5e/jttrc
 aliases:
-  - "Sins of Our Elders"
+  - Sins of Our Elders
   - Sins of Our Elders
 ---
 # Sins of Our Elders

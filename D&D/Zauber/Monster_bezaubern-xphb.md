@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charm Monster
+Status: WIP
 linter-yaml-title-alias: Charm Monster
 classes:
   - Bard

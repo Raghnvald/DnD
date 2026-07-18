@@ -5,7 +5,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Adult Blue Dracolich
 Kategorie: Untoter
 Größe: Riesig
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Blue Dracolich
 tags:
   - Monster/Größe/Riesig
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Adult Blue Dracolich
+status: WIP
 ---
 # [Adult Blue Dracolich](3-Mechanics\CLI\bestiary\undead/adult-blue-dracolich.md)
 *Source: Monster Manual p. 84*  

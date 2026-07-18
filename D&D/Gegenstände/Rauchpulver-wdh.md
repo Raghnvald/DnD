@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Smokepowder
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Smokepowder
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

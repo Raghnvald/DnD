@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Shatter
+Bezeichnung: Zerbersten
 Zaubergrad: 2
-linter-yaml-title-alias: Shatter
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Zerbersten
 classes:
   - Bard (Magical Secrets)
   - Cleric (Tempest Domain)
@@ -23,9 +25,9 @@ tags:
   - Zauber/optfeature/gong-of-the-summit
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Shatter
+  - Zerbersten
 ---
-# Shatter
+# Zerbersten
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 Action

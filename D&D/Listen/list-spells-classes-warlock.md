@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Warlock Spells
+Status: WIP
 linter-yaml-title-alias: Warlock Spells
 tags:
-  - Zauber/list/class/warlock
+  - Zauber/Liste/class/warlock
 aliases:
   - Warlock Spells
 ---

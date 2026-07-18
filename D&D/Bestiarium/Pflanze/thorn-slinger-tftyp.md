@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thorn Slinger
+Status: WIP
 linter-yaml-title-alias: Thorn Slinger
 tags:
   - Monster/Größe/Groß

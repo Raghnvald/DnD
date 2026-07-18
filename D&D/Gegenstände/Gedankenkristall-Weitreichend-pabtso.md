@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mind Crystal (Distant)
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Mind Crystal (Distant)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

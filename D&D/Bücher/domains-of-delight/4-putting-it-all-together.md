@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Putting It All Together
+Status: WIP
 linter-yaml-title-alias: Putting It All Together
 tags:
   - Quelle/5e/dod
 aliases:
-  - "Putting It All Together"
+  - Putting It All Together
   - Putting It All Together
 ---
 # Putting It All Together

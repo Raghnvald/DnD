@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Vadalis Heir
+Status: WIP
 linter-yaml-title-alias: House Vadalis Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Vadalis Heir"
+  - House Vadalis Heir
   - House Vadalis Heir
 ---
 # House Vadalis Heir

@@ -2,18 +2,20 @@
 Bezeichnung: Staff of Striking
 Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung
   - Vielseitig (1W8)
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Staff of Striking
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
   - Staff of Striking
+Original: Staff of Striking
 ---
 # Staff of Striking
 *Staff, weapon, major, very rare (requires attunement)*  

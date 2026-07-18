@@ -2,13 +2,14 @@
 Bezeichnung: Ring of Obscuring
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Ring of Obscuring
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/egw
 aliases:
   - Ring of Obscuring

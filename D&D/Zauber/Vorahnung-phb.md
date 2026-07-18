@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Vorahnung
 Zaubergrad: 2
+Zeitaufwand: 1 Minute
+Status: WIP
 linter-yaml-title-alias: Vorahnung
 classes:
   - Bard (Magical Secrets)
@@ -9,7 +11,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Quelle/5e/phb
   - Zauber/Grad/2
   - Zauber/Ritual

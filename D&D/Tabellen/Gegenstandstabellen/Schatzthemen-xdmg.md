@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schatzthemen
+Status: WIP
 linter-yaml-title-alias: Schatzthemen
 tags:
   - Quelle/5e/xdmg

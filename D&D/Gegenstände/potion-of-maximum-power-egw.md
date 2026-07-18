@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Maximum Power
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Maximum Power
 tags:
   - Gegenstand/Seltenheit/selten

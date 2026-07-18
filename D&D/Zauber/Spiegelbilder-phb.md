@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Mirror Image
+Bezeichnung: Spiegelbilder
 Zaubergrad: 2
-linter-yaml-title-alias: Mirror Image
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Spiegelbilder
 classes:
   - Bard (Magical Secrets)
   - Cleric (Trickery Domain)
@@ -24,9 +26,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
 aliases:
-  - Mirror Image
+  - Spiegelbilder
 ---
-# Mirror Image
+# Spiegelbilder
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 Action

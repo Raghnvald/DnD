@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Mind Flayer; Mind Flayer Personality Traits
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Mind Flayer; Mind Flayer Personality Traits
 tags:
   - Quelle/5e/vgm

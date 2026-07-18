@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Storm
+Status: WIP
 linter-yaml-title-alias: Charm of the Storm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dip
 aliases:
   - Charm of the Storm

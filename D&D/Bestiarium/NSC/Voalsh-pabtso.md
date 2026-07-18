@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Voalsh
 Image: token/voalsh-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Voalsh
 tags:
   - Monster/Größe/Mittelgroß

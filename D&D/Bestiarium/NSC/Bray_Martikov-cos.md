@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bray Martikov
+Status: WIP
 linter-yaml-title-alias: Bray Martikov
 tags:
   - Monster/Größe/Klein

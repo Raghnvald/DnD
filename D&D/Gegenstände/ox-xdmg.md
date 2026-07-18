@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ox
+Status: WIP
 linter-yaml-title-alias: Ox
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

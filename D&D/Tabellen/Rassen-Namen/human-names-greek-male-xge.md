@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Greek, Male
+Status: WIP
 linter-yaml-title-alias: Human Names – Greek, Male
 tags:
   - Quelle/5e/xge

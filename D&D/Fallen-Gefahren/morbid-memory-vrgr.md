@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morbid Memory
+Status: WIP
 linter-yaml-title-alias: Morbid Memory
 tags:
   - Kompendium/Bedrohung/haunt

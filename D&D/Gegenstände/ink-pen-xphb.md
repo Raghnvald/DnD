@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ink Pen
+Status: WIP
 linter-yaml-title-alias: Ink Pen
 tags:
   - Gegenstand/Ausrüstung/

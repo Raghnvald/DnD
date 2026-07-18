@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schriftrollenunfälle
+Status: WIP
 linter-yaml-title-alias: Schriftrollenunfälle
 tags:
   - Quelle/5e/dmg

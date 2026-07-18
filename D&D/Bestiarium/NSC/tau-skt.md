@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tau
+Status: WIP
 linter-yaml-title-alias: Tau
 tags:
   - Monster/Größe/Mittelgroß

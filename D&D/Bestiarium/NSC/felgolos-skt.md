@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Felgolos
+Status: WIP
 linter-yaml-title-alias: Felgolos
 tags:
   - Monster/Größe/Riesig

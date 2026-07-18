@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Borborygmos
+Status: WIP
 linter-yaml-title-alias: Borborygmos
 tags:
   - Monster/Größe/Riesig

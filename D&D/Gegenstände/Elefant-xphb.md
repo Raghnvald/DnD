@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elephant
+Status: WIP
 linter-yaml-title-alias: Elephant
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

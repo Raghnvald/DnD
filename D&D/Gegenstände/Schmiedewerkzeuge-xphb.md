@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Smith's Tools"
+Status: WIP
 linter-yaml-title-alias: "Smith's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - "Smith's Tools"
-  - Smith's Tools
 ---
 # Smith's Tools
 *Artisan's tools*  

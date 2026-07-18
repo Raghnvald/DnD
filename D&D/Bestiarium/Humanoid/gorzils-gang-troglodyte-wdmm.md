@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Gorzil's Gang Troglodyte"
+Status: WIP
 linter-yaml-title-alias: "Gorzil's Gang Troglodyte"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - "Gorzil's Gang Troglodyte"
-  - Gorzil's Gang Troglodyte
 ---
 # [Gorzil's Gang Troglodyte](3-Mechanics\CLI\bestiary\humanoid/gorzils-gang-troglodyte-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 150*  

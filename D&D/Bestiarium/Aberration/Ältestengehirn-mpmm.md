@@ -8,7 +8,7 @@ HG: 14
 Habitat:
   - Unterreich
 Image: token/elder-brain-mpmm.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ältestengehirn
 tags:
   - Monster/Größe/Groß
@@ -19,6 +19,7 @@ tags:
 aliases:
   - Ältestengehirn
   - Elder Brain
+status: WIP
 ---
 # Ältestengehirn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Phandelver and Below: The Shattered Obelisk*  

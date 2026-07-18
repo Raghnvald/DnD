@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sequester
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Sequester
 classes:
   - Bard (Magical Secrets)

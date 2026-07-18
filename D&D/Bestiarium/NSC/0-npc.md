@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Npc
+Status: WIP
 linter-yaml-title-alias: Index of Npc
 aliases:
   - Index of Npc

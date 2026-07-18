@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mind Crystal
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Mind Crystal
 tags:
   - Gegenstand/Seltenheit/variiert

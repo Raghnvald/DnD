@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eira
+Status: WIP
 linter-yaml-title-alias: Eira
 tags:
   - Monster/Größe/Mittelgroß

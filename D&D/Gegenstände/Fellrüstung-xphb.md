@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hide Armor
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Hide Armor
 tags:
   - Gegenstand/Rüstung/Mittel

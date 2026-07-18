@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Alchemical Compendium
+Status: WIP
 linter-yaml-title-alias: Alchemical Compendium
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:

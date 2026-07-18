@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Random Dungeons"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Random Dungeons"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Appendix A: Random Dungeons"
-  - Appendix A: Random Dungeons
 ---
 # Appendix A: Random Dungeons
 *Source: Dungeon Master's Guide (2014), p. 290* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dire Troll
+Status: WIP
 linter-yaml-title-alias: Dire Troll
 tags:
   - Monster/Größe/Riesig

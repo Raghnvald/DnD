@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Tearulai
-Kategorie: Nahkampf-Kriegswaffe
+Original: Tearulai
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Tearulai
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/wdmm
 aliases:
   - Tearulai
+status: WIP
 ---
 # Tearulai
 *Weapon (longsword), very rare (requires attunement)*  

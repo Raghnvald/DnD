@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blauer Drache
+Status: WIP
 linter-yaml-title-alias: Blauer Drache
 tags:
   - Monster/legendary-group

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silver Dragon Treasures; Silver Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Silver Dragon Treasures; Silver Dragon Art Objects
 tags:
   - Quelle/5e/ftd

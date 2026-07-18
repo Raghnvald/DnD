@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Torch
+Status: WIP
 linter-yaml-title-alias: Torch
 tags:
   - Gegenstand/Ausrüstung/

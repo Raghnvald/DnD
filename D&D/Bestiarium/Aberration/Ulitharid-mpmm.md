@@ -5,7 +5,7 @@ Bezeichnung: Ulitharid
 Kategorie: Aberration (Gedankenschinder)
 Größe: Groß
 HG: 9
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ulitharid
 tags:
   - Monster/Größe/Groß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Ulitharid
+status: WIP
 ---
 # [Ulitharid](3-Mechanics\CLI\bestiary\aberration/ulitharid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249*  

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerie Dragon (Violet)
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Faerie Dragon (Violet)
 tags:
   - Monster/Größe/Winzig
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Faerie Dragon (Violet)
+status: WIP
 ---
 # [Faerie Dragon (Violet)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-violet.md)
 *Source: Monster Manual p. 133*  

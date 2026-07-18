@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sirrion
+Status: WIP
 linter-yaml-title-alias: Sirrion
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

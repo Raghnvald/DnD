@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-image: token/ash-zombie-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aschezombie
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Aschezombie
   - Ash Zombie
+image: token/ash-zombie-pabtso.webp
+status: WIP
 ---
 # Aschezombie
 *Source: Phandelver and Below: The Shattered Obelisk p. 52*  

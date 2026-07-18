@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 19: Skull"
+Status: WIP
 linter-yaml-title-alias: "Chapter 19: Skull"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 19: Skull"
-  - Chapter 19: Skull
 ---
 # Chapter 19: Skull
 *Source: The Book of Many Things, p. 155* 

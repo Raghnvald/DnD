@@ -2,10 +2,10 @@
 Bezeichnung: Holzschnitzwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Holzschnitzwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

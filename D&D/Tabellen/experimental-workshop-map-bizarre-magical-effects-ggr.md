@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Experimental Workshop Map; Bizarre Magical Effects
+Status: WIP
 linter-yaml-title-alias: Experimental Workshop Map; Bizarre Magical Effects
 tags:
   - Quelle/5e/ggr

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ehlonna
+Status: WIP
 linter-yaml-title-alias: Ehlonna
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Ehlonna

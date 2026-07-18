@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Einzelschatz: Herausforderungsgrad 0 - 4"
+Status: WIP
 linter-yaml-title-alias: "Einzelschatz: Herausforderungsgrad 0 - 4"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Einzelschatz: Herausforderungsgrad 0 - 4"
-  - Individual Treasure: Challenge 0—4
+  - "Individual Treasure: Challenge 0—4"
 ---
 # Einzelschatz: Herausforderungsgrad 0 - 4
 *Quelle: Spielleiterhandbuch, S. 133* 

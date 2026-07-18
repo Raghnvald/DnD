@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Fate
+Status: WIP
 linter-yaml-title-alias: Boon of Fate
 tags:
   - Kompendium/Talent

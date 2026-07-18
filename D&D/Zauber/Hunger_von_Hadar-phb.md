@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hunger of Hadar
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Hunger of Hadar
 classes:
   - Bard (Magical Secrets)

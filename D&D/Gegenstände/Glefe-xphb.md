@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glaive
+Status: WIP
 linter-yaml-title-alias: Glaive
 tags:
   - Gegenstand/Seltenheit/keine

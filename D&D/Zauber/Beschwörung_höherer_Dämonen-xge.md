@@ -6,7 +6,8 @@ Reichweite: 18 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/v
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Beschwörung höherer Dämonen
 classes:
   - Bard

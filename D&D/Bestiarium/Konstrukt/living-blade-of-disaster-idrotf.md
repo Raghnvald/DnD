@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Blade of Disaster
+Status: WIP
 linter-yaml-title-alias: Living Blade of Disaster
 tags:
   - Monster/Größe/Klein

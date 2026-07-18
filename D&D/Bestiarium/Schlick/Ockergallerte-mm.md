@@ -8,8 +8,7 @@ Größe: Groß
 HG: 2
 Habitat:
   - Unterreich
-image: image/ocre-jelly-webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ockergallerte
 tags:
   - Monster/Größe/Groß
@@ -20,6 +19,8 @@ tags:
 aliases:
   - Ochre Jelly
   - Ockergallerte
+image: image/ocre-jelly-webp
+status: completed
 ---
 # Ockergallerte
 *Quelle: Monsterhandbuch S. 250. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

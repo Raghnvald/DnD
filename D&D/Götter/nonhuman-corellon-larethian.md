@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Corellon Larethian
+Status: WIP
 linter-yaml-title-alias: Corellon Larethian
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

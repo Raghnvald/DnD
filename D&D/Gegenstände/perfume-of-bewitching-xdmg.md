@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Perfume of Bewitching
+Status: WIP
 linter-yaml-title-alias: Perfume of Bewitching
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

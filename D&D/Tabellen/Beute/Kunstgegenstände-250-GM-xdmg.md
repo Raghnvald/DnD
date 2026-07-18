@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 250 GP Art Objects
+Status: WIP
 linter-yaml-title-alias: 250 GP Art Objects
 tags:
   - Quelle/5e/xdmg

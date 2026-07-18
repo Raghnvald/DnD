@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Sun Blade
 Kategorie: Nahkampf-Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Sun Blade
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf

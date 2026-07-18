@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lightning Arrow
+Status: WIP
 linter-yaml-title-alias: Lightning Arrow
 classes:
   - Ranger

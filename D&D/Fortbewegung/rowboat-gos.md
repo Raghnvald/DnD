@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Rowboat
+Status: WIP
 linter-yaml-title-alias: Rowboat
 tags:
-  - Gegenstand/Fortbewegung/size/large
-  - Gegenstand/Fortbewegung/terrain/sea
-  - Gegenstand/Fortbewegung/type/ship
+  - Gegenstand/Fortbewegung/Größe/Groß
+  - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Kategorie/Schiff
   - Quelle/5e/gos
 aliases:
   - Rowboat

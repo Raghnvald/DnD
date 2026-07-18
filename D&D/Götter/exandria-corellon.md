@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Corellon
+Status: WIP
 linter-yaml-title-alias: Corellon
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Corellon

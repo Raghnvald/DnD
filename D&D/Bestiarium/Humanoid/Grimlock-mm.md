@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grimlock
+Status: WIP
 linter-yaml-title-alias: Grimlock
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spellcasting
+Status: WIP
 linter-yaml-title-alias: Spellcasting
 tags:
   - Quelle/5e/xge

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Burning Hands
+Status: WIP
 linter-yaml-title-alias: Living Burning Hands
 tags:
   - Monster/Größe/Mittelgroß

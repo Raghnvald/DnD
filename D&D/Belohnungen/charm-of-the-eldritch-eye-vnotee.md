@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Charm of the Eldritch Eye
+Status: WIP
 linter-yaml-title-alias: Charm of the Eldritch Eye
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/vnotee
 aliases:
-  - "Charm of the Eldritch Eye"
+  - Charm of the Eldritch Eye
   - Charm of the Eldritch Eye
 ---
 # Charm of the Eldritch Eye

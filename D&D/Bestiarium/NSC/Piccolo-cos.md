@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Piccolo
+Status: WIP
 linter-yaml-title-alias: Piccolo
 tags:
   - Monster/Größe/Klein

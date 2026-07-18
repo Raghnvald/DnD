@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ram Sugar
+Status: WIP
 linter-yaml-title-alias: Ram Sugar
 tags:
   - Monster/Größe/Mittelgroß

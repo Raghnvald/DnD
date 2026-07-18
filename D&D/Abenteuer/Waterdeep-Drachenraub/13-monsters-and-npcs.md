@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters and NPCs
+Status: WIP
 linter-yaml-title-alias: Monsters and NPCs
 tags:
   - Quelle/5e/wdh

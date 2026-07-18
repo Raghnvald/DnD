@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cosmic Horror Settings
+Status: WIP
 linter-yaml-title-alias: Cosmic Horror Settings
 tags:
   - Quelle/5e/vrgr

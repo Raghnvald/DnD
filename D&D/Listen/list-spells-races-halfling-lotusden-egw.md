@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Halfling (Lotusden)
+Status: WIP
 linter-yaml-title-alias: Spells for Halfling (Lotusden)
 tags:
-  - Zauber/list/subrace/halfling-lotusden
+  - Zauber/Liste/subrace/halfling-lotusden
 aliases:
   - Spells for Halfling (Lotusden)
 ---

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Genasi (Water)
+Status: WIP
 linter-yaml-title-alias: Spells for Genasi (Water)
 tags:
-  - Zauber/list/subrace/genasi-water
+  - Zauber/Liste/subrace/genasi-water
 aliases:
   - Spells for Genasi (Water)
 ---

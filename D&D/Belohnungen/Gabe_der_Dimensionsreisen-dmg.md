@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Dimensionsreisen
+Status: WIP
 linter-yaml-title-alias: Gabe der Dimensionsreisen
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Dimensional Travel

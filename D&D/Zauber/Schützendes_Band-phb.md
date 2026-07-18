@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Warding Bond
+Bezeichnung: Schützendes Band
 Zaubergrad: 2
-linter-yaml-title-alias: Warding Bond
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Schützendes Band
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -12,9 +14,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Bann
 aliases:
-  - Warding Bond
+  - Schützendes Band
 ---
-# Warding Bond
+# Schützendes Band
 *2nd-level, Abjuration*  
 
 - **Casting time:** 1 Action

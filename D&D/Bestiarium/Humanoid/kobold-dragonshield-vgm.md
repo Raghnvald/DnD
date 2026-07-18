@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Dragonshield
+Status: WIP
 linter-yaml-title-alias: Kobold Dragonshield
 tags:
   - Monster/Größe/Klein

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zaroum Al-Saryak
+Status: WIP
 linter-yaml-title-alias: Zaroum Al-Saryak
 tags:
   - Monster/Größe/Mittelgroß

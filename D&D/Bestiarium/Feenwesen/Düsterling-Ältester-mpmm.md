@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darkling Elder
+Status: WIP
 linter-yaml-title-alias: Darkling Elder
 tags:
   - Monster/Größe/Mittelgroß

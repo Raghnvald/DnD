@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tooth-N-Claw
+Status: WIP
 linter-yaml-title-alias: Tooth-N-Claw
 tags:
   - Monster/Größe/Mittelgroß

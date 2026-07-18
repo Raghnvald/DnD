@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Halberd
+Status: WIP
 linter-yaml-title-alias: Animated Halberd
 tags:
   - Monster/Größe/Klein

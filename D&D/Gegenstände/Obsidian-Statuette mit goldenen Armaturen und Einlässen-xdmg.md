@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Obsidian statuette with gold fittings and inlay
+Status: WIP
 linter-yaml-title-alias: Obsidian statuette with gold fittings and inlay
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

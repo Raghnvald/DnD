@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yuan-ti Pureblood
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Pureblood
 tags:
   - Quelle/5e/vgm

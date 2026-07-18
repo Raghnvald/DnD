@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hand of Vecna
+Status: WIP
 linter-yaml-title-alias: Hand of Vecna
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:

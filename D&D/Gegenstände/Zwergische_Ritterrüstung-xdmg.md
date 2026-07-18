@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dwarven Plate
 Rüstung: Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Dwarven Plate
 tags:
   - Gegenstand/Rüstung/Mittel

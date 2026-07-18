@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Restoration
+Status: WIP
 linter-yaml-title-alias: Charm of Restoration
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Charm of Restoration

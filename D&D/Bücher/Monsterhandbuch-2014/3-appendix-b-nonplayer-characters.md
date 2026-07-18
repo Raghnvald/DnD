@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Nonplayer Characters"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Nonplayer Characters"
 tags:
   - Quelle/5e/mm
 aliases:
   - "Appendix B: Nonplayer Characters"
-  - Appendix B: Nonplayer Characters
 ---
 # Appendix B: Nonplayer Characters
 *Source: Monster Manual (2014), p. 342* 

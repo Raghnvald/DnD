@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inquisitor of the Tome
 Kategorie: Humanoid
-image: token/inquisitor-of-the-tome-vrgr.webp
+Status: WIP
 linter-yaml-title-alias: Inquisitor of the Tome
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Inquisitor of the Tome
+image: token/inquisitor-of-the-tome-vrgr.webp
 status: WIP
 ---
 # [Inquisitor of the Tome](3-Mechanics\CLI\bestiary\humanoid/inquisitor-of-the-tome-vrgr.md)

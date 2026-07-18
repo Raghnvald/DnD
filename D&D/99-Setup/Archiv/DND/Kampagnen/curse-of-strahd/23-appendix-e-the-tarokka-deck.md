@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix E: The Tarokka Deck"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: The Tarokka Deck"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Appendix E: The Tarokka Deck"
-  - Appendix E: The Tarokka Deck
 ---
 # Appendix E: The Tarokka Deck
 *Source: Curse of Strahd, p. 243* 

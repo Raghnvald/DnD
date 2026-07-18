@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sanctuary
+Status: WIP
 linter-yaml-title-alias: Sanctuary
 tags:
   - Kompendium/Bastion

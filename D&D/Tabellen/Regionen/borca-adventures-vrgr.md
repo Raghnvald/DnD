@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Borca Adventures
+Status: WIP
 linter-yaml-title-alias: Borca Adventures
 tags:
   - Quelle/5e/vrgr

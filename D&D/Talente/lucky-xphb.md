@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lucky
+Status: WIP
 linter-yaml-title-alias: Lucky
 tags:
   - Kompendium/Talent

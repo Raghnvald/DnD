@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Intellect
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Intellect
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:

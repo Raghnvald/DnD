@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Green Hag (Coven)
+Status: WIP
 linter-yaml-title-alias: Green Hag (Coven)
 tags:
   - Monster/Größe/Mittelgroß

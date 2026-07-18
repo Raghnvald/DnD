@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Tethrin Veraldé
+Status: WIP
 linter-yaml-title-alias: Tethrin Veraldé
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

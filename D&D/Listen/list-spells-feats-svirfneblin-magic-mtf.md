@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Svirfneblin Magic
+Status: WIP
 linter-yaml-title-alias: Spells for Svirfneblin Magic
 tags:
-  - Zauber/list/feat/svirfneblin-magic
+  - Zauber/Liste/feat/svirfneblin-magic
 aliases:
   - Spells for Svirfneblin Magic
 ---

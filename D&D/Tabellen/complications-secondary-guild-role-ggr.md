@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Complications; Secondary Guild Role
+Status: WIP
 linter-yaml-title-alias: Complications; Secondary Guild Role
 tags:
   - Quelle/5e/ggr

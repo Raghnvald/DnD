@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Astral Skiff
+Status: WIP
 linter-yaml-title-alias: Astral Skiff
 tags:
-  - Gegenstand/Fortbewegung/size/huge
-  - Gegenstand/Fortbewegung/terrain/air
-  - Gegenstand/Fortbewegung/type/ship
+  - Gegenstand/Fortbewegung/Größe/Riesig
+  - Gegenstand/Fortbewegung/Gelände/Luft
+  - Gegenstand/Fortbewegung/Kategorie/Schiff
   - Quelle/5e/mtf
 aliases:
   - Astral Skiff

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Troll (Loathsome Limb; Severed Head)
+Status: WIP
 linter-yaml-title-alias: Troll (Loathsome Limb; Severed Head)
 tags:
   - Monster/Größe/Winzig

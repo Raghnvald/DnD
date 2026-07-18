@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Segen des Verständnisses
+Status: WIP
 linter-yaml-title-alias: Segen des Verständnisses
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/dmg
 aliases:
   - Blessing of Understanding

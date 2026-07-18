@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reghed Shaman
+Status: WIP
 linter-yaml-title-alias: Reghed Shaman
 tags:
   - Monster/Größe/Mittelgroß

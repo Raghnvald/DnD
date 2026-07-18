@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Customization Tables; Demon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Demon Customization Tables; Demon Personality Traits
 tags:
   - Quelle/5e/mtf

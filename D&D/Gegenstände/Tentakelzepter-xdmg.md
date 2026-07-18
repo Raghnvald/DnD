@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Tentacle Rod
+Status: WIP
 linter-yaml-title-alias: Tentacle Rod
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg

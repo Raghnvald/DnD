@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gegenstandsarten
+Status: WIP
 linter-yaml-title-alias: Gegenstandsarten
 tags:
   - Quelle/5e/dmg

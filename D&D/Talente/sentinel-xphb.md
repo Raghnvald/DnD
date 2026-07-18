@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sentinel
+Status: WIP
 linter-yaml-title-alias: Sentinel
 tags:
   - Kompendium/Talent

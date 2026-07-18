@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Moonwell Pilgrim
+Status: WIP
 linter-yaml-title-alias: Moonwell Pilgrim
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Moonwell Pilgrim"
+  - Moonwell Pilgrim
   - Moonwell Pilgrim
 ---
 # Moonwell Pilgrim

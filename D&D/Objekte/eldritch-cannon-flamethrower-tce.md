@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Eldritch Cannon, Flamethrower
+Status: WIP
 linter-yaml-title-alias: Eldritch Cannon, Flamethrower
 tags:
-  - Kompendium/Objekt/size/unknown
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/unbekannt
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/tce
 aliases:
   - Eldritch Cannon, Flamethrower

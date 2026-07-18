@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schloss Nie
+Status: WIP
 ---
 # Schloss Nie
 Die hohen, glänzenden Türme von Schloss Nie waren das Erste, was Besucher sahen, wenn sie mit dem Schiff in Niewinter ankamen. Es war ein imposantes Steingebäude1 und diente als Zeugnis für die architektonischen Errungenschaften der Stadt. Das Schloss war von einer kreisförmigen Straße umgeben, und die drei Wahrzeichenbrücken der Stadt – die Dolphin, die Winged Wyvern und die Sleeping Dragon Brücken – strahlten von ihm aus, um sich mit dem südwestlichen Stadtteil zu verbinden2.

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orlekto
+Status: WIP
 linter-yaml-title-alias: Orlekto
 tags:
   - Monster/Größe/Riesig

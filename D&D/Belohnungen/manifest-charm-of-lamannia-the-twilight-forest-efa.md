@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Lamannia, the Twilight Forest
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Lamannia, the Twilight Forest
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Lamannia, the Twilight Forest"
+  - Manifest Charm of Lamannia, the Twilight Forest
   - Manifest Charm of Lamannia, the Twilight Forest
 ---
 # Manifest Charm of Lamannia, the Twilight Forest

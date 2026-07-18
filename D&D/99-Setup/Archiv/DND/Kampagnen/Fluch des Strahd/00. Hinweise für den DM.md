@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Informationen über Barovia - allgemein
+Status: WIP
 linter-yaml-title-alias: Informationen über Barovia - allgemein
 tags:
   - Quelle/5e/cos

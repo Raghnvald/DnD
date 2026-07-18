@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Halskette der Anpassung
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Halskette der Anpassung
 tags:
   - Gegenstand/Einstimmung

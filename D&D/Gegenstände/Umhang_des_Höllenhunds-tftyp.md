@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hell Hound Cloak
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Hell Hound Cloak
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tftyp

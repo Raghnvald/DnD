@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bead of Force
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Bead of Force
 tags:
   - Gegenstand/Seltenheit/selten

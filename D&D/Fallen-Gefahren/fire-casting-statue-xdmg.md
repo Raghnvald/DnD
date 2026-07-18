@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire-Casting Statue
+Status: WIP
 linter-yaml-title-alias: Fire-Casting Statue
 tags:
   - Kompendium/Bedrohung/trp

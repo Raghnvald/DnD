@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Henchmen
+Status: WIP
 linter-yaml-title-alias: Henchmen
 tags:
   - Quelle/5e/mabjov
 aliases:
-  - "Henchmen"
+  - Henchmen
   - Henchmen
 ---
 # Henchmen

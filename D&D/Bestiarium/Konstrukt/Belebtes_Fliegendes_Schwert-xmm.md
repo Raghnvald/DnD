@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Flying Sword
+Status: WIP
 linter-yaml-title-alias: Animated Flying Sword
 tags:
   - Monster/Größe/Klein

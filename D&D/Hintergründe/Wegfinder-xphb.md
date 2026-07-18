@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guide
+Status: WIP
 linter-yaml-title-alias: Guide
 tags:
   - Kompendium/Hintergrund

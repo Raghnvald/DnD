@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alert
+Status: WIP
 linter-yaml-title-alias: Alert
 tags:
   - Kompendium/Talent

@@ -2,11 +2,12 @@
 Bezeichnung: Ring des Federfalls
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Status: completed
 linter-yaml-title-alias: Ring des Federfalls
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
@@ -14,7 +15,7 @@ aliases:
   - Ring des Federfalls
 ---
 # Ring des Federfalls
-*Ring, selten (benötigt Einstimmung)*  
+*Ring, selten (erfordert Einstimmung)*  
 ![](img/ring-of-feather-falling.webp#right)
 
 Während du diesen Ring trägst und fällst, sinkst du 18 Meter pro Runde und nimmst dabei keinen Schaden.

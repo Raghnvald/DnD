@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Bombard
+Status: WIP
 linter-yaml-title-alias: Bombard
 tags:
   - Quelle/5e/aag
-  - ttrpg-cli/vehicle/terrain/sea
-  - ttrpg-cli/vehicle/terrain/space
-  - ttrpg-cli/vehicle/type/spelljammer
+  - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Gelände/Weltall
+  - Gegenstand/Fortbewegung/Kategorie/Spelljammer
 aliases:
-  - "Bombard"
+  - Bombard
   - Bombard
 ---
 # Bombard

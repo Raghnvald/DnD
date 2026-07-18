@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hit Point Dice
+Status: WIP
 linter-yaml-title-alias: Hit Point Dice
 tags:
   - Quelle/5e/xphb

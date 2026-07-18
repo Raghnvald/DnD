@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spezielles Merkmal; Welche kleineren Eigenschaften hat er?
+Status: WIP
 linter-yaml-title-alias: Spezielles Merkmal; Welche kleineren Eigenschaften hat er?
 tags:
   - Quelle/5e/dmg

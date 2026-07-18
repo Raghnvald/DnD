@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Knocking Out a Creature
+Status: WIP
 linter-yaml-title-alias: Knocking Out a Creature
 tags:
   - Quelle/5e/xphb

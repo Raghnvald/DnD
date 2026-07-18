@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rune Shaper
+Status: WIP
 linter-yaml-title-alias: Rune Shaper
 tags:
   - Kompendium/Talent

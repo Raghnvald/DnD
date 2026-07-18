@@ -9,8 +9,7 @@ HG: 1
 Habitat:
   - Stadt
   - Unterreich
-image:
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Specter
 tags:
   - Monster/Größe/Mittelgroß
@@ -21,6 +20,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Specter
+image:
+status: WIP
 ---
 # [Specter](3-Mechanics\CLI\bestiary\undead/specter.md)
 *Source: Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

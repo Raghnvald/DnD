@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Enclave Magic
+Status: WIP
 linter-yaml-title-alias: Enclave Magic
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Enclave Magic"
+  - Enclave Magic
   - Enclave Magic
 ---
 # Enclave Magic

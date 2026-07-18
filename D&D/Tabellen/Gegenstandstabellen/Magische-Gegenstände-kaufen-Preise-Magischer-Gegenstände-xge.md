@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magische Gegenstände kaufen, Preise für Magische Gegenstände
+Status: WIP
 linter-yaml-title-alias: Magische Gegenstände kaufen, Preise für Magische Gegenstände
 tags:
   - Quelle/5e/xge

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ring of Evasion
+Status: WIP
 linter-yaml-title-alias: Ring of Evasion
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg

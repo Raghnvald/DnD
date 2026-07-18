@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heat Metal
+Status: WIP
 linter-yaml-title-alias: Heat Metal
 classes:
   - Artificer

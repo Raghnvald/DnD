@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix E: Story Concept Art"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: Story Concept Art"
 tags:
   - Quelle/5e/crcotn

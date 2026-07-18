@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sheep
+Status: WIP
 linter-yaml-title-alias: Sheep
 tags:
   - Monster/Größe/Klein

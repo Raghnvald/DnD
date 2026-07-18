@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Foundling
+Status: WIP
 linter-yaml-title-alias: Giant Foundling
 tags:
   - Kompendium/Hintergrund

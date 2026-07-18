@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hobgoblin
+Status: WIP
 linter-yaml-title-alias: Hobgoblin
 tags:
   - Monster/Größe/Mittelgroß

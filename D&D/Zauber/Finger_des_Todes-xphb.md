@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Finger of Death
+Status: WIP
 linter-yaml-title-alias: Finger of Death
 classes:
   - Bard

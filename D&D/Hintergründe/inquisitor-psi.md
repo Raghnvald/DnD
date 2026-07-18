@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Inquisitor
+Status: WIP
 linter-yaml-title-alias: Inquisitor
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/psi
 aliases:
-  - "Inquisitor"
+  - Inquisitor
   - Inquisitor
 ---
 # Inquisitor

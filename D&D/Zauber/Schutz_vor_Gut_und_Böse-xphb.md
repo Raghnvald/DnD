@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Protection from Evil and Good
 classes:
   - Bard
@@ -34,7 +35,7 @@ tags:
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Hingabe
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xphb
   - Subklasse/abjurer
   - Subklasse/clockwork-sorcery

@@ -2,10 +2,10 @@
 Bezeichnung: Granatenwerfer
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 3,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Granatenwerfer
 tags:
   - Gegenstand/Ausrüstung/

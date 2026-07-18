@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature Size; Size Categories
+Status: WIP
 linter-yaml-title-alias: Creature Size; Size Categories
 tags:
   - Quelle/5e/phb

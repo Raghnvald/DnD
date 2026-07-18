@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 1: Seeds of Destruction"
+Status: WIP
 linter-yaml-title-alias: "Part 1: Seeds of Destruction"
 tags:
   - Quelle/5e/lox

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Net Trap
+Status: WIP
 linter-yaml-title-alias: Net Trap
 tags:
   - Kompendium/Bedrohung/smpl

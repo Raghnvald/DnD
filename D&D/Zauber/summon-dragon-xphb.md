@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Summon Dragon
+Status: WIP
 linter-yaml-title-alias: Summon Dragon
 classes:
   - Bard

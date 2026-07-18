@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cone of Cold
+Status: WIP
 linter-yaml-title-alias: Cone of Cold
 classes:
   - Artificer (Artillerist)

@@ -2,11 +2,14 @@
 Bezeichnung: Ring des Widders
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Status: completed
+Kst.: n/v
+Gew.: n/v
 linter-yaml-title-alias: Ring des Widders
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
@@ -14,7 +17,7 @@ aliases:
   - Ring des Widders
 ---
 # Ring des Widders
-*Ring, selten (benötigt Einstimmung)*  
+*Ring, selten (erfordert Einstimmung)*  
 ![](img/ring-of-the-ram.webp#right)
 
 Dieser Ring hat 3 Ladungen und erhält zu jeder Morgendämmerung `1W3` der verbrauchten Ladungen zurück. Während du den Ring trägst, kannst du eine Aktion verwenden, um 1 bis 3 Ladungen zu verbrauchen und eine Kreatur in deinem Sichtfeld innerhalb von 18 Metern zu dir anzugreifen. Der Ring erschafft einen geisterhaften Widderkopf und führt seinen Angriffswurf mit einem Bonus von + 7 durch. Bei einem Treffer nimmt das Ziel für jede ausgegebene Ladung `2W10` Energieschaden und wird 1,50 Meter von dir weggestoßen.

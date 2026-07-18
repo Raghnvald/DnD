@@ -1,9 +1,19 @@
 ---
 Bezeichnung: Clockwork Armor
+Original: Clockwork Armor
 Rüstung: Schwer
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+RK: variiert
+STR: variiert
+Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Clockwork Armor
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant

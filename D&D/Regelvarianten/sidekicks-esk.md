@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Sidekicks
+Status: WIP
 linter-yaml-title-alias: Sidekicks
 tags:
   - Quelle/5e/esk
 aliases:
-  - "Sidekicks"
+  - Sidekicks
   - Sidekicks
 ---
 # Sidekicks

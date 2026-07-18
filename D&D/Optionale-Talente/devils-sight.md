@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Devil's Sight"
+Status: WIP
 linter-yaml-title-alias: "Devil's Sight"
 tags:
   - Kompendium/Optionales/ei
   - Quelle/5e/phb
 aliases:
   - "Devil's Sight"
-  - Devil's Sight
 ---
 # Devil's Sight
 *Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Jeweled platinum ring
+Status: WIP
 linter-yaml-title-alias: Jeweled platinum ring
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

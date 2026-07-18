@@ -1,16 +1,19 @@
 ---
 Bezeichnung: Beil
-Kategorie: Einfache Nahkampfwaffe
-Schaden: 1W6 Hieb
+Original: Handaxe
+Kategorie: Nahkampfwaffe, einfach
+Schaden: 1d6 Hieb
 Eigenschaften:
   - Leicht
   - Wurfwaffe
-Einstimmung: /
+Einstimmung: n/v
 Kst.: 5 GM
 Gew.: 1,0 kg
+Status: completed
 linter-yaml-title-alias: Beil
 tags:
   - Gegenstand/Seltenheit/keine
+  - Gegenstand/Waffe
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
@@ -18,12 +21,12 @@ aliases:
   - Beil
 ---
 # Beil
-*Waffe*  
+*Einfache Nahkampfwaffe*  
 
-- **Schaden:** 1W6 Hieb
+- **Schaden:** 1d6 Hieb
 - **Reichweite:** 6/18
-- **Eigenschaften:** Leicht, Wurfwaffe (Reichweite 6/18)
-- **Kosten**: 5 Goldmünzen
+- **Eigenschaften:** [[Gegenstandseigenschaften-phb#Leicht|Leicht]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Kosten**: 5 GM
 - **Gewicht:** 1,0 kg
 
 *Quellen: Spielerhandbuch S. 149 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

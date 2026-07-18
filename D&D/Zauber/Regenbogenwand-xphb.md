@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Prismatic Wall
+Status: WIP
 linter-yaml-title-alias: Prismatic Wall
 classes:
   - Bard

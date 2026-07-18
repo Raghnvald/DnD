@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Segojan Earthcaller
+Status: WIP
 linter-yaml-title-alias: Segojan Earthcaller
 tags:
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

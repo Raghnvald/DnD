@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phandalin
+Status: WIP
 linter-yaml-title-alias: Phandalin
 tags:
   - Quelle/5e/lmop

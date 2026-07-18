@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Left Hand of Manshoon
+Status: WIP
 linter-yaml-title-alias: Left Hand of Manshoon
 tags:
   - Monster/Größe/Winzig

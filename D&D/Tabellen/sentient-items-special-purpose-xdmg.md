@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Sentient Item's Special Purpose"
+Status: WIP
 linter-yaml-title-alias: "Sentient Item's Special Purpose"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Sentient Item's Special Purpose"
-  - Sentient Item's Special Purpose
 ---
 # Sentient Item's Special Purpose
 *Source: Dungeon Master's Guide (2024) p. 226* 

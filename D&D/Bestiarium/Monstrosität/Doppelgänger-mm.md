@@ -9,8 +9,7 @@ HG: 3
 Habitat:
   - Stadt
   - Unterreich
-image: image/doppelganger-webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Doppelgänger
 tags:
   - Monster/Größe/Mittelgroß
@@ -22,6 +21,8 @@ tags:
 aliases:
   - Doppelganger
   - Doppelgänger
+image: image/doppelganger-webp
+status: completed
 ---
 # Doppelgänger
 *Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

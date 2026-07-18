@@ -5,7 +5,7 @@ Bezeichnung: Schädelrattenschwarm
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schädelrattenschwarm
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
 aliases:
   - Schädelrattenschwarm
   - Swarm of Cranium Rats
+status: WIP
 ---
 # Schädelrattenschwarm
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Involving the Characters; Cross Purposes
+Status: WIP
 linter-yaml-title-alias: Involving the Characters; Cross Purposes
 tags:
   - Quelle/5e/ggr

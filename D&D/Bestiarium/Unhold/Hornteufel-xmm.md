@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Horned Devil
+Status: WIP
 linter-yaml-title-alias: Horned Devil
 tags:
   - Monster/Größe/Groß

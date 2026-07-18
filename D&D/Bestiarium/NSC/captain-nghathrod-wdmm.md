@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Captain N'ghathrod"
+Status: WIP
 linter-yaml-title-alias: "Captain N'ghathrod"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - "Captain N'ghathrod"
-  - Captain N'ghathrod
 ---
 # [Captain N'ghathrod](3-Mechanics\CLI\bestiary\npc/captain-nghathrod-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 250*  

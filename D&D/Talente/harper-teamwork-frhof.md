@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Harper Teamwork
+Status: WIP
 linter-yaml-title-alias: Harper Teamwork
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Harper Teamwork"
+  - Harper Teamwork
   - Harper Teamwork
 ---
 # Harper Teamwork

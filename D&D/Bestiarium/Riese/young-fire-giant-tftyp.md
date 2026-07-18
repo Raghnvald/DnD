@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Fire Giant
+Status: WIP
 linter-yaml-title-alias: Young Fire Giant
 tags:
   - Monster/Größe/Groß

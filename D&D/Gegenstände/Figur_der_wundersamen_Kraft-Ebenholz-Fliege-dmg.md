@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Ebony Fly
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Ebony Fly
 tags:
   - Gegenstand/Seltenheit/selten

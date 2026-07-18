@@ -5,8 +5,9 @@ Zeitaufwand: 10 Minuten
 Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: n/a
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Besseres Reittier finden
 classes:
   - Paladin

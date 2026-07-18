@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hestia
+Status: WIP
 linter-yaml-title-alias: Hestia
 tags:
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

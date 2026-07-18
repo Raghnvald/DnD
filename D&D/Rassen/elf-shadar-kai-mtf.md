@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Shadar-kai)
+Status: WIP
 linter-yaml-title-alias: Elf (Shadar-kai)
 tags:
   - Quelle/5e/mtf

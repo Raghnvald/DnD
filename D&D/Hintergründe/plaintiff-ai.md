@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Plaintiff
+Status: WIP
 linter-yaml-title-alias: Plaintiff
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ai
 aliases:
-  - "Plaintiff"
+  - Plaintiff
   - Plaintiff
 ---
 # Plaintiff

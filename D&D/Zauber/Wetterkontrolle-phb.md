@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Control Weather
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Control Weather
 classes:
   - Bard (Magical Secrets)

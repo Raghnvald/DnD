@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Charm Cards
+Status: WIP
 linter-yaml-title-alias: Magic Charm Cards
 tags:
   - Quelle/5e/dip

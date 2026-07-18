@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Veteran's Cane"
+Status: WIP
 linter-yaml-title-alias: "Veteran's Cane"
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Sustenance
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Sustenance
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

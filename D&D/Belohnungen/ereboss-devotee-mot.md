@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Erebos's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Erebos's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

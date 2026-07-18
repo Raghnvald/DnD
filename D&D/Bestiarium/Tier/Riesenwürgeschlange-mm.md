@@ -12,8 +12,7 @@ Habitat:
   - Unterwasser
   - Wald
   - Wüste
-image: token/giant-constrictor-snake-webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Riesenwürgeschlange
 tags:
   - Monster/Größe/Riesig
@@ -28,6 +27,8 @@ tags:
 aliases:
   - Giant Constrictor Snake
   - Riesenwürgeschlange
+image: token/giant-constrictor-snake-webp
+status: completed
 ---
 # Riesenwürgeschlange
 *Quelle: Monsterhandbuch S. 334. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

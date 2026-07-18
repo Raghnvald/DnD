@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gate
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Gate
 classes:
   - Bard (Magical Secrets)

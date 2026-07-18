@@ -7,7 +7,7 @@ Größe: Groß
 HG: 13
 Habitat:
   - /
-image:
+Status: WIP
 linter-yaml-title-alias: Nalfeshnee
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Nalfeshnee
+image:
 ---
 # Nalfeshnee
 *Quelle: Monsterhandbuch S. 62. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Black Dragon Treasures; Black Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Black Dragon Treasures; Black Dragon Art Objects
 tags:
   - Quelle/5e/ftd

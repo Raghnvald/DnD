@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Silver Dragon
 Kategorie: Drache (Metallisch)
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ancient Silver Dragon
 tags:
   - Monster/Größe/Gigantisch
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ancient Silver Dragon
+status: WIP
 ---
 # [Ancient Silver Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-silver-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

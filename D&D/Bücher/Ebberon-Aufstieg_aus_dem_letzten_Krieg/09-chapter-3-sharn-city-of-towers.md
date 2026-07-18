@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Sharn, City of Towers"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Sharn, City of Towers"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Chapter 3: Sharn, City of Towers"
-  - Chapter 3: Sharn, City of Towers
 ---
 # Chapter 3: Sharn, City of Towers
 *Source: Eberron: Rising from the Last War* 

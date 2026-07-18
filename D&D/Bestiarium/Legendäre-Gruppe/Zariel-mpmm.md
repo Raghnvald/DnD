@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zariel
+Status: WIP
 linter-yaml-title-alias: Zariel
 tags:
   - Monster/legendary-group

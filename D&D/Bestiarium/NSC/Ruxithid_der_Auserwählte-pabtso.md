@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
-image: token/ruxithid-the-chosen-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ruxithid der Auserwählte
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
 aliases:
   - Ruxithid der Auserwählte
   - Ruxithid the Chosen
+image: token/ruxithid-the-chosen-pabtso.webp
+status: WIP
 ---
 # Ruxithid der Auserwählte
 *Quelle: Phandelver and Below: The Shattered Obelisk p. 99*  

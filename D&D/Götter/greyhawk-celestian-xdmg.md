@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Celestian
+Status: WIP
 linter-yaml-title-alias: Celestian
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Celestian

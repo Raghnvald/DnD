@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Laleh Ghorbani
+Status: WIP
 linter-yaml-title-alias: Laleh Ghorbani
 tags:
   - Monster/Größe/Mittelgroß

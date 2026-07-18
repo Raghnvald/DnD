@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix F: Story Concept Art"
+Status: WIP
 linter-yaml-title-alias: "Appendix F: Story Concept Art"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Appendix F: Story Concept Art"
-  - Appendix F: Story Concept Art
 ---
 # Appendix F: Story Concept Art
 *Source: Baldur's Gate: Descent Into Avernus, p. 246* 

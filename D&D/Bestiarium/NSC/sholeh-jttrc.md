@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sholeh
+Status: WIP
 linter-yaml-title-alias: Sholeh
 tags:
   - Monster/Größe/Gigantisch

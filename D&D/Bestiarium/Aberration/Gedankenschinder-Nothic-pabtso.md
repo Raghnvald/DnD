@@ -6,7 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
 Image: token/mind-flayer-nothic-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Mind Flayer Nothic
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Nothic
+status: WIP
 ---
 # Mind Flayer Nothic
 *Source: Phandelver and Below: The Shattered Obelisk p. 155*  

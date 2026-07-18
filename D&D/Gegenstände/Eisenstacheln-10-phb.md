@@ -1,17 +1,23 @@
 ---
-Bezeichnung: Iron Spikes (10)
-linter-yaml-title-alias: Iron Spikes (10)
+Bezeichnung: Eisenstacheln (10)
+Kategorie: Abenteuerausrüstung
+Eigenschaften:
+  - n/v
+Kst.: 1 GM
+Gew.: 2,5 kg
+Status: completed
+linter-yaml-title-alias: Eisenstacheln (10)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Iron Spikes (10)
+  - Eisenstacheln (10)
 ---
-# Iron Spikes (10)
-*Adventuring gear*  
+# Eisenstacheln (10)
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 5.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 5.0 lbs.
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

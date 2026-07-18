@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Xalicas
+Status: WIP
 linter-yaml-title-alias: Xalicas
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Xalicas

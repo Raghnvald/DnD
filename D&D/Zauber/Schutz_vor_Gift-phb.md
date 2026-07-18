@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Protection from Poison
+Bezeichnung: Schutz vor Gift
 Zaubergrad: 2
-linter-yaml-title-alias: Protection from Poison
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Schutz vor Gift
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -18,9 +20,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Bann
 aliases:
-  - Protection from Poison
+  - Schutz vor Gift
 ---
-# Protection from Poison
+# Schutz vor Gift
 *2nd-level, Abjuration*  
 
 - **Casting time:** 1 Action

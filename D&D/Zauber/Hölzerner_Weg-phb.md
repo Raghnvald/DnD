@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tree Stride
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Tree Stride
 classes:
   - Bard (Magical Secrets)

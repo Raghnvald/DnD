@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Antitoxin
+Status: WIP
 linter-yaml-title-alias: Antitoxin
 tags:
   - Gegenstand/Ausrüstung/

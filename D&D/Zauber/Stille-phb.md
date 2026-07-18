@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Silence
+Bezeichnung: Stille
 Zaubergrad: 2
-linter-yaml-title-alias: Silence
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Stille
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -19,9 +21,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Illusion
 aliases:
-  - Silence
+  - Stille
 ---
-# Silence
+# Stille
 *2nd-level, Illusion (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

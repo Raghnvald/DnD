@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Manual of Stone Golems
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Manual of Stone Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Euryale
+Status: WIP
 linter-yaml-title-alias: Charm of Euryale
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of Euryale

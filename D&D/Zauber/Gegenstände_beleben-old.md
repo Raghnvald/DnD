@@ -1,5 +1,13 @@
 ---
 Bezeichnung: Gegenstände beleben
+Status: WIP
+linter-yaml-title-alias: Gegenstände beleben
+aliases:
+  - Gegenstände beleben
+---
+Bewegungsfreiheit---
+Bezeichnung: Gegenstände beleben
+Status: WIP
 linter-yaml-title-alias: Gegenstände beleben
 classes:
   - Bard (Magical Secrets)

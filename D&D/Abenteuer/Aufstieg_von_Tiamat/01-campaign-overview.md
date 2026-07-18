@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Campaign Overview
+Status: WIP
 linter-yaml-title-alias: Campaign Overview
 tags:
   - Quelle/5e/rot

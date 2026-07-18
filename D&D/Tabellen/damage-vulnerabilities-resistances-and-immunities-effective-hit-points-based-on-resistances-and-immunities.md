@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
+Status: WIP
 linter-yaml-title-alias: Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
 tags:
   - Quelle/5e/dmg

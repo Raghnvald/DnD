@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Keoghtom's Ointment"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "Keoghtom's Ointment"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

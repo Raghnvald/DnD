@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Dretches
+Status: WIP
 linter-yaml-title-alias: Swarm of Dretches
 tags:
   - Monster/Größe/Groß

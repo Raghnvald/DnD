@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horn
+Status: WIP
 linter-yaml-title-alias: Horn
 tags:
   - Gegenstand/Ausrüstung/Instrument

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Copper Dragon
-image: token/Ancient-Copper-Dragon.webp
+Status: WIP
 linter-yaml-title-alias: Ancient Copper Dragon
 tags:
   - Monster/Größe/Gigantisch
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ancient Copper Dragon
+image: token/Ancient-Copper-Dragon.webp
 ---
 # Ancient Copper Dragon
 *Source: Monster Manual p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

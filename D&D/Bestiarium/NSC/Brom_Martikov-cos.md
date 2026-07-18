@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brom Martikov
+Status: WIP
 linter-yaml-title-alias: Brom Martikov
 tags:
   - Monster/Größe/Klein

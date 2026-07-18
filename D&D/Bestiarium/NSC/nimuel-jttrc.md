@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nimuel
+Status: WIP
 linter-yaml-title-alias: Nimuel
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eternal Mountain Defense
+Status: WIP
 linter-yaml-title-alias: Eternal Mountain Defense
 tags:
   - Kompendium/Optionales/ed

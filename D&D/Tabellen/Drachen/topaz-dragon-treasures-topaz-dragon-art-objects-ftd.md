@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Topaz Dragon Treasures; Topaz Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Topaz Dragon Treasures; Topaz Dragon Art Objects
 tags:
   - Quelle/5e/ftd

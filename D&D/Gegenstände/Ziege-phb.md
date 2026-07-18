@@ -2,10 +2,10 @@
 Bezeichnung: Ziege
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Ziege
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ziege
+Original: Goat
 ---
 # Ziege
 *Handelsgut*  

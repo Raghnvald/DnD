@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Shifter
+Status: WIP
 linter-yaml-title-alias: Shifter
 tags:
   - Quelle/5e/efa
   - Rasse/shifter
 aliases:
-  - "Shifter"
+  - Shifter
   - Shifter
 ---
 # Shifter

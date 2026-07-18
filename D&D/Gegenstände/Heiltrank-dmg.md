@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Heiltrank
 Kategorie: Trank
-status: completed
+Status: WIP
 linter-yaml-title-alias: Heiltrank
 tags:
   - Gegenstand/Seltenheit/variiert
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Heiltrank
+status: completed
 ---
 # Heiltrank
 *Trank*  

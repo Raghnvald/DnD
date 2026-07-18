@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zindar
+Status: WIP
 linter-yaml-title-alias: Zindar
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scout
+Status: WIP
 linter-yaml-title-alias: Scout
 tags:
   - Klasse/Schurke/scout

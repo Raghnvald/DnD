@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Parson Pellinost
+Status: WIP
 linter-yaml-title-alias: Parson Pellinost
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Basilisk
+Status: WIP
 linter-yaml-title-alias: Basilisk
 tags:
   - Monster/Größe/Mittelgroß

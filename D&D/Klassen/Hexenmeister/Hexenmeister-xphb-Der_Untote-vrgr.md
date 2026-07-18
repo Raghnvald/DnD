@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Undead
+Status: WIP
 linter-yaml-title-alias: The Undead
 tags:
   - Klasse/Hexenmeister/undead

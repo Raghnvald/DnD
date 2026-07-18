@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Boar
+Status: WIP
 linter-yaml-title-alias: Giant Boar
 tags:
   - Monster/Größe/Groß

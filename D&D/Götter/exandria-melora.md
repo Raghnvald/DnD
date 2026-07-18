@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Melora
+Status: WIP
 linter-yaml-title-alias: Melora
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Melora

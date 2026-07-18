@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Determine the Party's Goals; Event-Based Goals"
+Status: WIP
 linter-yaml-title-alias: "Determine the Party's Goals; Event-Based Goals"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Determine the Party's Goals; Event-Based Goals"
-  - Determine the Party's Goals; Event-Based Goals
 ---
 # Determine the Party's Goals; Event-Based Goals
 *Source: Dungeon Master's Guide p. 76* 

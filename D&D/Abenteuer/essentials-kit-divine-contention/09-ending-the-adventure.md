@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ending the Adventure
+Status: WIP
 linter-yaml-title-alias: Ending the Adventure
 tags:
   - Quelle/5e/dc
 aliases:
-  - "Ending the Adventure"
+  - Ending the Adventure
   - Ending the Adventure
 ---
 # Ending the Adventure

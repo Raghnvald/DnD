@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin Hatchling Swarm
+Status: WIP
 linter-yaml-title-alias: Sahuagin Hatchling Swarm
 tags:
   - Monster/Größe/Groß

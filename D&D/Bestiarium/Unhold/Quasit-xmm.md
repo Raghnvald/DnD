@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quasit
+Status: WIP
 linter-yaml-title-alias: Quasit
 tags:
   - Monster/Größe/Winzig

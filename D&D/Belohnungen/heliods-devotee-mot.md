@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heliod's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Heliod's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

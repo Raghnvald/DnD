@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morale
+Status: WIP
 linter-yaml-title-alias: Morale
 tags:
   - Quelle/5e/dmg

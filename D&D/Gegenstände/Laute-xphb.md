@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lute
+Status: WIP
 linter-yaml-title-alias: Lute
 tags:
   - Gegenstand/Ausrüstung/Instrument

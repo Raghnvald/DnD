@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Strahd Zombie
+Status: WIP
 linter-yaml-title-alias: Strahd Zombie
 tags:
   - Monster/Größe/Mittelgroß

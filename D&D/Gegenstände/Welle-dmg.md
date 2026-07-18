@@ -1,26 +1,34 @@
 ---
 Bezeichnung: Welle
-Kategorie: Nahkampf-Kriegswaffe
+Original: Wave
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Eigenschaften:
+  - Vielseitig (1W8)
+  - Wurfwaffe
+Kst.: n/v
+Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Welle
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
   - Welle
+status: WIP
 ---
 # Welle
-*Weapon ([trident](/3-Mechanics/CLI/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)*  
-![](/3-Mechanics/CLI/items/img/wave.webp#right)
+*Weapon ([trident](Dreizack-phb)), legendary (requires attunement by a creature that worships a god of the sea)*
+<img src="wave.webp" align="right" width="350">
 
-- **Damage**:
-  - One-handed: 1d6 piercing
-  - Two-handed: 1d8 piercing
-- **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 4.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d6 Stich
+  - Zweihändig: 1d8 Stich
+- **Reichweite**: 6/18
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Gewicht**: 2,0 kg
 
 Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon engraved with images of waves, shells, and sea creatures. Although you must worship a god of the sea to attune to this weapon, Wave happily accepts new converts.
 

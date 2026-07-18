@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc Eye of Gruumsh
+Status: WIP
 linter-yaml-title-alias: Orc Eye of Gruumsh
 tags:
   - Monster/Größe/Mittelgroß

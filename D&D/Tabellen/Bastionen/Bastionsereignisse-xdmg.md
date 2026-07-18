@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bastionsereignisse
 Kategorie: Bastion
+Status: WIP
 linter-yaml-title-alias: Bastionsereignisse
 tags:
   - Quelle/5e/xdmg

@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ashen Heir Anarchist
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ashen Heir Anarchist
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Ashen Heir Anarchist
+status: WIP
 ---
 # [Ashen Heir Anarchist](3-Mechanics\CLI\bestiary\humanoid/ashen-heir-anarchist-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 150*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 8: The Styes"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: The Styes"
 tags:
   - Quelle/5e/gos
 aliases:
   - "Chapter 8: The Styes"
-  - Chapter 8: The Styes
 ---
 # Chapter 8: The Styes
 *Source: Ghosts of Saltmarsh, p. 163* 

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Power Word Stun
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Power Word Stun
 classes:
   - Bard (Magical Secrets)

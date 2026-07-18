@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beshaba, Göttin des Unglücks
+Status: WIP
 linter-yaml-title-alias: Beshaba, Göttin des Unglücks
 tags:
   - Kompendium/Götter

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beguiling Arrow
+Status: WIP
 linter-yaml-title-alias: Beguiling Arrow
 tags:
   - Kompendium/Optionales/as

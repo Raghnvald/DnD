@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trinket
+Status: WIP
 linter-yaml-title-alias: Trinket
 tags:
   - Gegenstand/Ausrüstung/

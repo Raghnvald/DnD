@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Morrigan
+Status: WIP
 linter-yaml-title-alias: Morrigan
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Quelle/5e/phb
 aliases:
   - Morrigan

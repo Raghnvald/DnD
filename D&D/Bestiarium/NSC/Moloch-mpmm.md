@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Moloch
+Status: WIP
 linter-yaml-title-alias: Moloch
 tags:
   - Monster/Größe/Groß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eku
+Status: WIP
 linter-yaml-title-alias: Eku
 tags:
   - Monster/Größe/Mittelgroß

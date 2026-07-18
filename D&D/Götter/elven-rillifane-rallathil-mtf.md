@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Rillifane Rallathil
+Status: WIP
 linter-yaml-title-alias: Rillifane Rallathil
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

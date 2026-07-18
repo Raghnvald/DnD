@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Living the Giant Life; Giant Life Spans
+Status: WIP
 linter-yaml-title-alias: Living the Giant Life; Giant Life Spans
 tags:
   - Quelle/5e/vgm

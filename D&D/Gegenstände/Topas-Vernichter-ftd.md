@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Topaz Annihilator
-Kategorie: Fernkampf-Kriegswaffe
+Original: Toaster Annihilator
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Topaz Annihilator
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/ftd
 aliases:
   - Topaz Annihilator
+status: WIP
 ---
 # Topaz Annihilator
 *Ranged weapon, legendary (requires attunement)*  

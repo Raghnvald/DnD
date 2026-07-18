@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chain
+Status: WIP
 linter-yaml-title-alias: Chain
 tags:
   - Gegenstand/Ausrüstung/

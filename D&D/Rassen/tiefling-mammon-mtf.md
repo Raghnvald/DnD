@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Mammon)
+Status: WIP
 linter-yaml-title-alias: Tiefling (Mammon)
 tags:
   - Quelle/5e/mtf

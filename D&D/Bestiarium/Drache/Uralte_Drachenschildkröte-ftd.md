@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 24
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ancient Dragon Turtle
 tags:
   - Monster/Größe/Gigantisch
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ancient Dragon Turtle
+status: WIP
 ---
 # [Ancient Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/ancient-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 191*  

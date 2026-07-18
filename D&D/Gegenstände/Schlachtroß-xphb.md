@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warhorse
+Status: WIP
 linter-yaml-title-alias: Warhorse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

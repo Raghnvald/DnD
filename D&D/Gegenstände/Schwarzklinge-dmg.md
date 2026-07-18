@@ -1,20 +1,25 @@
 ---
 Bezeichnung: Schwarzklinge
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
 Schaden: 2W6 Hieb
 Eigenschaften:
-  - Schwer, Zweihändig
+  - Schwer
+  - Zweihändig
 Kst.: /
 Gew.: 3,0 kg
+Status: WIP
+Einstimmung: durch eine Kreatur, die keine gute Gesinnung hat
 linter-yaml-title-alias: Schwarzklinge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
   - Schwarzklinge
+status: WIP
+Original: Blackrazor
 ---
 # Schwarzklinge
 *Waffe ([[Zweihandschwert-phb|Zweihandschwert]]), legendär (benötigt Einstimmung durch eine Kreatur, die keine gute Gesinnung hat)*  

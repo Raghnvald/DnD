@@ -2,10 +2,10 @@
 Bezeichnung: Kleidung, fein
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 15 GM
 Gew.: 3,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Kleidung, fein
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,9 +15,9 @@ aliases:
   - Kleidung, fein
 ---
 # Kleidung, fein
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 15 gp
-- **Weight**: 6.0 lbs.
+- **Kosten**: 15 GM
+- **Gewicht**: 3,0 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

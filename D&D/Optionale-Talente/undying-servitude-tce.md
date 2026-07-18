@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Undying Servitude
+Status: WIP
 linter-yaml-title-alias: Undying Servitude
 tags:
   - Kompendium/Optionales/ei

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Manual of Iron Golems
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Manual of Iron Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Haungharassk
+Status: WIP
 linter-yaml-title-alias: Haungharassk
 tags:
   - Monster/Größe/Riesig

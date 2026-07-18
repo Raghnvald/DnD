@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Hellion
+Status: WIP
 linter-yaml-title-alias: Fire Hellion
 tags:
   - Monster/Größe/Riesig

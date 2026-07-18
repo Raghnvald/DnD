@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Amethyst Dragon Den
+Status: WIP
 linter-yaml-title-alias: Amethyst Dragon Den
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof
 aliases:
-  - "Amethyst Dragon Den"
+  - Amethyst Dragon Den
   - Amethyst Dragon Den
 ---
 # Amethyst Dragon Den

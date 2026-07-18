@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crown of Madness
+Status: WIP
 linter-yaml-title-alias: Crown of Madness
 classes:
   - Bard

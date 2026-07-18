@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yakfolk Warrior
+Status: WIP
 linter-yaml-title-alias: Yakfolk Warrior
 tags:
   - Monster/Größe/Groß

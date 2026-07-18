@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Inquisitor
+Status: WIP
 linter-yaml-title-alias: Drow Inquisitor
 tags:
   - Monster/Größe/Mittelgroß

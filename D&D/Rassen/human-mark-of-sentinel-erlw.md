@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human (Mark of Sentinel)
+Status: WIP
 linter-yaml-title-alias: Human (Mark of Sentinel)
 tags:
   - Quelle/5e/erlw

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Boots of the Vigilant
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Boots of the Vigilant
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

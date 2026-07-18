@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hrossk
+Status: WIP
 linter-yaml-title-alias: Hrossk
 tags:
   - Monster/Größe/Riesig

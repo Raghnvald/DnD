@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Turtle Treasures; Dragon Turtle Art Objects
+Status: WIP
 linter-yaml-title-alias: Dragon Turtle Treasures; Dragon Turtle Art Objects
 tags:
   - Quelle/5e/ftd

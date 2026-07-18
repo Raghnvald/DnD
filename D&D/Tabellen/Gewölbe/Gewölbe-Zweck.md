@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Purpose
+Status: WIP
 linter-yaml-title-alias: Dungeon Purpose
 tags:
   - Quelle/5e/dmg

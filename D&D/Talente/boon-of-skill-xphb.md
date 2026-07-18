@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Skill
+Status: WIP
 linter-yaml-title-alias: Boon of Skill
 tags:
   - Kompendium/Talent

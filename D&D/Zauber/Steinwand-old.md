@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Steinwand
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Steinwand
 tags:
   - Klasse/Druide

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cover
+Status: WIP
 linter-yaml-title-alias: Cover
 tags:
   - Quelle/5e/xphb

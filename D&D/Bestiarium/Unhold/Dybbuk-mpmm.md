@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dybbuk
+Status: WIP
 linter-yaml-title-alias: Dybbuk
 tags:
   - Monster/Größe/Mittelgroß

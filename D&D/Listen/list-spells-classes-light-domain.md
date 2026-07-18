@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Light Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Light Domain
 tags:
-  - Zauber/list/subclass/light-domain
+  - Zauber/Liste/subclass/light-domain
 aliases:
   - Spells for Light Domain
 ---

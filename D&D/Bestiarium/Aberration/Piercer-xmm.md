@@ -5,6 +5,7 @@ Bezeichnung: Piercer
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 1/2
+Status: WIP
 linter-yaml-title-alias: Piercer
 tags:
   - Monster/Größe/Mittelgroß

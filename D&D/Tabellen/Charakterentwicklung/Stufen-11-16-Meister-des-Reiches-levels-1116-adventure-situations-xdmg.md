@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"
+Status: WIP
 linter-yaml-title-alias: "Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"
-  - Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
 ---
 # Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 

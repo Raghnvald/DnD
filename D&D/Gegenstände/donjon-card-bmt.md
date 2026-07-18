@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Donjon Card
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Donjon Card
 tags:
   - Gegenstand/Seltenheit/legendär

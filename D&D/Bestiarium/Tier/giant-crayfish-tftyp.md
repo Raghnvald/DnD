@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Crayfish
+Status: WIP
 linter-yaml-title-alias: Giant Crayfish
 tags:
   - Monster/Größe/Groß

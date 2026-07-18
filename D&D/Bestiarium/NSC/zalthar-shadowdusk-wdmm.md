@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zalthar Shadowdusk
+Status: WIP
 linter-yaml-title-alias: Zalthar Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß

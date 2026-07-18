@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Cult of the Dragon Archive
+Status: WIP
 linter-yaml-title-alias: Cult of the Dragon Archive
 tags:
   - Kompendium/Bastion
   - Quelle/5e/frhof
 aliases:
-  - "Cult of the Dragon Archive"
+  - Cult of the Dragon Archive
   - Cult of the Dragon Archive
 ---
 # Cult of the Dragon Archive

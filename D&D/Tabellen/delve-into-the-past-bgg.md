@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Delve into the Past
+Status: WIP
 linter-yaml-title-alias: Delve into the Past
 tags:
   - Quelle/5e/bgg

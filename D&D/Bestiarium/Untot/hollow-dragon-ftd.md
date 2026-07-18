@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hollow Dragon
+Status: WIP
 linter-yaml-title-alias: Hollow Dragon
 tags:
   - Monster/Größe/Riesig

@@ -9,7 +9,7 @@ Habitat:
   - Berg
   - Küste
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Balhannoth
 tags:
   - Monster/Größe/Groß
@@ -21,6 +21,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Balhannoth
+status: WIP
 ---
 # [Balhannoth](3-Mechanics\CLI\bestiary\aberration/balhannoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55*  

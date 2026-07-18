@@ -2,13 +2,13 @@
 Bezeichnung: Gold bird cage with electrum filigree
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 250 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Gold bird cage with electrum filigree
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

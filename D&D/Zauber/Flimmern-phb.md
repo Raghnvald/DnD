@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Blink
+Bezeichnung: Flimmern
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Blink
 classes:
   - Bard (Magical Secrets)
@@ -23,8 +25,12 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Blink
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
-# Blink
+# Flimmern
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 Action

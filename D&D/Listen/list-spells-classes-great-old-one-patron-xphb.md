@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Great Old One Patron
+Status: WIP
 linter-yaml-title-alias: Spells for Great Old One Patron
 tags:
-  - Zauber/list/subclass/great-old-one-patron
+  - Zauber/Liste/subclass/great-old-one-patron
 aliases:
   - Spells for Great Old One Patron
 ---

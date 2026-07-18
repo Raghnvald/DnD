@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Giant Quintessent
+Status: WIP
 linter-yaml-title-alias: Storm Giant Quintessent
 tags:
   - Monster/legendary-group

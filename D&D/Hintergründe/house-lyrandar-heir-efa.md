@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Lyrandar Heir
+Status: WIP
 linter-yaml-title-alias: House Lyrandar Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Lyrandar Heir"
+  - House Lyrandar Heir
   - House Lyrandar Heir
 ---
 # House Lyrandar Heir

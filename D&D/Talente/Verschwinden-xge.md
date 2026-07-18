@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Verschwinden
-linter-yaml-title-alias: Fade Away
+Status: WIP
+linter-yaml-title-alias: Verschwinden
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Fade Away
+  - Verschwinden
 ---
 # Verschwinden
 *Source: Xanathar's Guide to Everything p. 74*  

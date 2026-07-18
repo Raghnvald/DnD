@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spiritual Weapon
+Status: WIP
 linter-yaml-title-alias: Spiritual Weapon
 classes:
   - Bard

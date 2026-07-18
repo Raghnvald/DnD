@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Kerzenstreitkolben
-Kategorie: Einfache Nahkampfwaffe
+Original: Candela Mace
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W6 Wucht
 Eigenschaften:
-  - /
-Einstimmung: /
-Kst.: /
+  - n/v
+Einstimmung: n/v
+Kst.: n/v
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Kerzenstreitkolben
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

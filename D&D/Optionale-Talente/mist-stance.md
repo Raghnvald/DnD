@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mist Stance
+Status: WIP
 linter-yaml-title-alias: Mist Stance
 tags:
   - Kompendium/Optionales/ed

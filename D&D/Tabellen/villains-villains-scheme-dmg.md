@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Villains; Villain's Scheme"
+Status: WIP
 linter-yaml-title-alias: "Villains; Villain's Scheme"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Villains; Villain's Scheme"
-  - Villains; Villain's Scheme
 ---
 # Villains; Villain's Scheme
 *Source: Dungeon Master's Guide p. 94* 

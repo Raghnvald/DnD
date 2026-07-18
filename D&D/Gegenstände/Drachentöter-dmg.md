@@ -1,7 +1,14 @@
 ---
-Bezeichnung: Dragon Slayer
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Dragon Slayer
+Bezeichnung: Drachentöter
+Original: Dragon Slayer
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Schaden: variiert
+Eigenschaften:
+  - n/v
+Kst.: n/v
+Gew.: variiert
+Status: WIP
+linter-yaml-title-alias: Drachentöter
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
@@ -9,7 +16,7 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Dragon Slayer
+  - Drachentöter
   - Dragon Slayer Double-Bladed Scimitar
   - Dragon Slayer Greatsword
   - Dragon Slayer Longsword
@@ -17,7 +24,7 @@ aliases:
   - Dragon Slayer Scimitar
   - Dragon Slayer Shortsword
 ---
-# Dragon Slayer
+# Drachentöter
 *Major, rare*  
 ![](img/dragon-slayer.webp#right)
 
@@ -25,50 +32,50 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When you hit a dragon with this weapon, the dragon takes an extra `3d6` damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
 
-**Variants**:
-- [Dragon Slayer Double-Bladed Scimitar](#Dragon%20Slayer%20Double-Bladed%20Scimitar)
-- [Dragon Slayer Greatsword](#Dragon%20Slayer%20Greatsword)
-- [Dragon Slayer Longsword](#Dragon%20Slayer%20Longsword)
-- [Dragon Slayer Rapier](#Dragon%20Slayer%20Rapier)
-- [Dragon Slayer Scimitar](#Dragon%20Slayer%20Scimitar)
-- [Dragon Slayer Shortsword](#Dragon%20Slayer%20Shortsword)
+**Varianten**:
+- [[#Drachentöter-Krummsäbel]]
+- [[#Drachentöter-Kurzschwert]]
+- [[#Drachentöter-Langschwert]]
+- [[#Drachentöter-Rapier]]
+- [[#Drachentöter-Zweihandschwert]]
+- [[#Drachentöter-Zweiklingiger Krummsäbel]]
 
-### Dragon Slayer Double-Bladed Scimitar
+### Drachentöter-Krummsäbel
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Dragon Slayer Greatsword
+### Drachentöter-Kurzschwert
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Dragon Slayer Longsword
+### Drachentöter-Langschwert
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Dragon Slayer Rapier
+### Drachentöter-Rapier
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Dragon Slayer Scimitar
+### Drachentöter-Zweihandschwert
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Dragon Slayer Shortsword
+### Drachentöter-Zweiklingiger Krummsäbel
 
-- **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
 *Source: Dungeon Master's Guide p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

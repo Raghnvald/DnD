@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Thunder Resistance
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Thunder Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Lash of Shadows
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Lash of Shadows
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
   - Lash of Shadows
+status: WIP
+Original: Lash of Shadows
 ---
 # Lash of Shadows
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), artifact (requires attunement)*  

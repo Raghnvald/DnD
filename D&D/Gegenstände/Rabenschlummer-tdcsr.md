@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Raven's Slumber"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "Raven's Slumber"
 tags:
   - Gegenstand/Seltenheit/sehr_selten

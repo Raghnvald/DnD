@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Lost Beacon of Unknown Light
+Status: WIP
 linter-yaml-title-alias: The Lost Beacon of Unknown Light
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - The Lost Beacon of Unknown Light

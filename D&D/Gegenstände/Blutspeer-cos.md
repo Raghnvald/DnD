@@ -1,22 +1,25 @@
 ---
 Bezeichnung: Blutspeer
-Kategorie: Einfache Nahkampfwaffe
+Original: Blood-Spear
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W6 Stich
 Eigenschaften:
   - Leicht
   - Vielseitig (1W8)
   - Wurfwaffe
-Kst.: /
+Kst.: n/v
 Gew.: 1,5kg
+Status: WIP
 linter-yaml-title-alias: Blutspeer
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cos
 aliases:
   - Blutspeer
+status: WIP
 ---
 # Blutspeer
 *Waffe ([[Speer-phb|Speer]], ungewöhnlich (erfordert Einstimmung)*

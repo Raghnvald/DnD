@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bodak
+Status: WIP
 linter-yaml-title-alias: Bodak
 tags:
   - Monster/Größe/Mittelgroß

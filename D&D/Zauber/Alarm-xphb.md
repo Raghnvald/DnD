@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Alarm
 classes:
   - Artificer
@@ -27,9 +28,9 @@ tags:
   - Klasse/Paladin/oath-of-the-watchers
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xphb
   - Subklasse/abjurer
   - Subklasse/clockwork-sorcery

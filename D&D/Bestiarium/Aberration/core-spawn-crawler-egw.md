@@ -5,7 +5,7 @@ Bezeichnung: Core Spawn Crawler
 Kategorie: Aberration
 Größe: Klein
 HG: 1
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Core Spawn Crawler
 tags:
   - Monster/Größe/Klein
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Core Spawn Crawler
+status: WIP
 ---
 # [Core Spawn Crawler](3-Mechanics\CLI\bestiary\aberration/core-spawn-crawler-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Academy Contact
+Status: WIP
 linter-yaml-title-alias: Academy Contact
 tags:
   - Quelle/5e/tce

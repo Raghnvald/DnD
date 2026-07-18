@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Harper Agent
+Status: WIP
 linter-yaml-title-alias: Harper Agent
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Harper Agent"
+  - Harper Agent
   - Harper Agent
 ---
 # Harper Agent

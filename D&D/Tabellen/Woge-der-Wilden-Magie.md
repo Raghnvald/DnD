@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Woge der Wilden Magie
+Status: WIP
 linter-yaml-title-alias: Woge der Wilden Magie
 tags:
   - Quelle/5e/phb

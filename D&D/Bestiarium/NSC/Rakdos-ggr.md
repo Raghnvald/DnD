@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakdos
+Status: WIP
 linter-yaml-title-alias: Rakdos
 tags:
   - Monster/Größe/Riesig

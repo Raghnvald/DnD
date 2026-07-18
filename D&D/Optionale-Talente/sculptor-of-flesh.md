@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sculptor of Flesh
+Status: WIP
 linter-yaml-title-alias: Sculptor of Flesh
 tags:
   - Kompendium/Optionales/ei

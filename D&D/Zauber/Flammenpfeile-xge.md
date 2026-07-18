@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff: n/v
 Schaden: 1d6 Feuer
+Status: WIP
 linter-yaml-title-alias: Flammenpfeile
 classes:
   - Artificer

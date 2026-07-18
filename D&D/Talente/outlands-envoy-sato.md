@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Outlands Envoy
+Status: WIP
 linter-yaml-title-alias: Outlands Envoy
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
-  - "Outlands Envoy"
+  - Outlands Envoy
   - Outlands Envoy
 ---
 # Outlands Envoy

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valin Sarnaster
+Status: WIP
 linter-yaml-title-alias: Valin Sarnaster
 tags:
   - Monster/legendary-group

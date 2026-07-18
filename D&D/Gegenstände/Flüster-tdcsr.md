@@ -1,19 +1,28 @@
 ---
-Bezeichnung: Whisper
-Kategorie: Einfache Nahkampfwaffe
-Einstimmung: erfordert
-linter-yaml-title-alias: Whisper
+Bezeichnung: Flüster
+Original: Whisper
+Kategorie: Nahkampfwaffe, einfach
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: 0,5 kg
+Status: WIP
+linter-yaml-title-alias: Flüster
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Whisper
+  - Flüster
+Eigenschaften:
+  - Finesse
+  - Leicht
+  - Wurfwaffe
+  - Relikt der Divergenz
 ---
-# Whisper
-*Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  
+# Flüster
+*Weapon ([Dolch](Dolch-xphb)), legendary (requires attunement)*  
 ![A sleek, silver dagger wit...](/3-Mechanics/CLI/items/img/whisper.webp#right "A sleek, silver dagger with a black, slender hilt and two raven feathers tied onto the pummel.")
 
 - **Damage**: 1d4 piercing

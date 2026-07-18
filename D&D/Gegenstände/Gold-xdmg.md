@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gold
+Status: WIP
 linter-yaml-title-alias: Gold
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

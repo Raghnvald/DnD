@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Nylea's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Nylea's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

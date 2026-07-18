@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Battering Ram
+Status: WIP
 linter-yaml-title-alias: Ogre Battering Ram
 tags:
   - Monster/Größe/Groß

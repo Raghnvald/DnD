@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goat
+Status: WIP
 linter-yaml-title-alias: Goat
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

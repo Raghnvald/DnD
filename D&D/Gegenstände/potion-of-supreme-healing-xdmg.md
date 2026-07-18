@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Supreme Healing
+Status: WIP
 linter-yaml-title-alias: Potion of Supreme Healing
 tags:
   - Gegenstand/Seltenheit/sehr_selten

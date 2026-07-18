@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Deities of Dragonlance: Good"
+Status: WIP
 linter-yaml-title-alias: "Deities of Dragonlance: Good"
 tags:
   - Quelle/5e/phb
 aliases:
   - "Deities of Dragonlance: Good"
-  - Deities of Dragonlance: Good
 ---
 # Deities of Dragonlance: Good
 *Source: Player's Handbook p. 293* 

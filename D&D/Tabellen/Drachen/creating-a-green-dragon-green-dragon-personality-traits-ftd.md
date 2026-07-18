@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Green Dragon; Green Dragon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Creating a Green Dragon; Green Dragon Personality Traits
 tags:
   - Quelle/5e/ftd

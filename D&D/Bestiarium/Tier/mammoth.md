@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mammoth
+Status: WIP
 linter-yaml-title-alias: Mammoth
 tags:
   - Monster/Größe/Riesig

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quipper
+Status: WIP
 linter-yaml-title-alias: Quipper
 tags:
   - Monster/Größe/Winzig

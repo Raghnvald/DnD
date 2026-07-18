@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Markham Southwell
+Status: WIP
 linter-yaml-title-alias: Markham Southwell
 tags:
   - Monster/Größe/Mittelgroß

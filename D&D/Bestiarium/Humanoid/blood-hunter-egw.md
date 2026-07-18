@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blood Hunter
+Status: WIP
 linter-yaml-title-alias: Blood Hunter
 tags:
   - Monster/Größe/Mittelgroß

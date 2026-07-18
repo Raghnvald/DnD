@@ -5,7 +5,7 @@ Bezeichnung: Dolgrim
 Kategorie: Aberration
 Größe: Klein
 HG: 1/2
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Dolgrim
 tags:
   - Monster/Größe/Klein
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Dolgrim
+status: WIP
 ---
 # [Dolgrim](3-Mechanics\CLI\bestiary\aberration/dolgrim-erlw.md)
 *Source: Eberron: Rising from the Last War p. 291*  

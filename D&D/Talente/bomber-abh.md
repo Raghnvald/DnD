@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Bomber
+Status: WIP
 linter-yaml-title-alias: Bomber
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Bomber"
+  - Bomber
   - Bomber
 ---
 # Bomber

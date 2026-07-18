@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ladder
+Status: WIP
 linter-yaml-title-alias: Ladder
 tags:
   - Gegenstand/Ausrüstung/

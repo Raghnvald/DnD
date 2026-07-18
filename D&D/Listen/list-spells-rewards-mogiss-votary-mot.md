@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Mogis's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Mogis's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/mogiss-votary
+  - Zauber/Liste/reward/mogiss-votary
 aliases:
   - "Spells for Mogis's Votary"
 ---

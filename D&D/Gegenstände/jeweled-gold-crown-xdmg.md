@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Jeweled gold crown
+Status: WIP
 linter-yaml-title-alias: Jeweled gold crown
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mister Threadneedle
+Status: WIP
 linter-yaml-title-alias: Mister Threadneedle
 tags:
   - Monster/Größe/Mittelgroß

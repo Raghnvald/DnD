@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Salida
+Status: WIP
 linter-yaml-title-alias: Salida
 tags:
   - Monster/Größe/Mittelgroß

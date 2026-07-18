@@ -5,15 +5,16 @@ Bezeichnung: Derro Apprentice
 Kategorie: Aberration
 Größe: Klein
 HG: 1
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Derro Apprentice
 tags:
   - Quelle/5e/qftis
-  - ttrpg-cli/monster/cr/1
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/1
+  - Monster/Größe/Klein
+  - Monster/Typ/Aberration
 aliases:
   - Derro Apprentice
+status: WIP
 ---
 # [Derro Apprentice](3-Mechanics/CLI/bestiary/aberration/derro-apprentice-qftis.md)
 *Source: Quests from the Infinite Staircase p. 196*  

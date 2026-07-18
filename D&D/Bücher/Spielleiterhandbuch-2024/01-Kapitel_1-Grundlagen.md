@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: The Basics"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: The Basics"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Chapter 1: The Basics"
-  - Chapter 1: The Basics
 ---
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 

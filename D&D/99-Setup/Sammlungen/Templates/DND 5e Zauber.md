@@ -7,7 +7,7 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Name
 classes:
   - Barde
@@ -22,6 +22,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Name
+status: WIP
 ---
 # Name
 *Hervorrufung des 2. Grades*

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ziraj the Hunter
+Status: WIP
 linter-yaml-title-alias: Ziraj the Hunter
 tags:
   - Monster/Größe/Mittelgroß

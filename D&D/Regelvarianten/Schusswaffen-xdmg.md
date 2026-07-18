@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Firearms
+Status: WIP
 linter-yaml-title-alias: Firearms
 tags:
   - Quelle/5e/xdmg

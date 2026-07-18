@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pack Beasts
+Status: WIP
 linter-yaml-title-alias: Pack Beasts
 tags:
   - Quelle/5e/ggr

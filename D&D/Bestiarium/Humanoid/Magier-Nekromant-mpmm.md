@@ -2,7 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Magier: Nekromant"
-image: token/necromancer-wizard-mpmm.webp
+Kategorie: Humanoid
+Größe: Mittelgroß
+HG: "9"
+Habitat:
+  - Stadt
+  - Wüste
+Status: WIP
 linter-yaml-title-alias: "Magier: Nekromant"
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,12 +21,7 @@ tags:
 aliases:
   - "Magier: Nekromant"
   - Necromancer Wizard
-Kategorie: Humanoid
-Größe: Mittelgroß
-HG: "9"
-Habitat:
-  - Stadt
-  - Wüste
+image: token/necromancer-wizard-mpmm.webp
 status: WIP
 ---
 # Magier: Nekromant

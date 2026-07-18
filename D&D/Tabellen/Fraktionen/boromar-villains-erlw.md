@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boromar Villains
+Status: WIP
 linter-yaml-title-alias: Boromar Villains
 tags:
   - Quelle/5e/erlw

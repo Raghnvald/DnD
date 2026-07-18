@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Twinned Spell
+Status: WIP
 linter-yaml-title-alias: Twinned Spell
 tags:
   - Kompendium/Optionales/mm

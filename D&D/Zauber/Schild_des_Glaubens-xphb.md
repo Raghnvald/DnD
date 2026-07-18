@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Shield of Faith
 classes:
   - Bard
@@ -23,7 +24,7 @@ tags:
   - Klasse/Kleriker/war-domain
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Hingabe
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Zauber/Grad/1

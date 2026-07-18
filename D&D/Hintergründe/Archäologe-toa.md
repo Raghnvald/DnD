@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Archaeologist
+Status: WIP
 linter-yaml-title-alias: Archaeologist
 tags:
   - Kompendium/Hintergrund

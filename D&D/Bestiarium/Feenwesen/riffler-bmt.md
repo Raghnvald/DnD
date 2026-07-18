@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riffler
+Status: WIP
 linter-yaml-title-alias: Riffler
 tags:
   - Monster/Größe/Klein

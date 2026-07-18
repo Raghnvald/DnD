@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Aasimar
+Status: WIP
 linter-yaml-title-alias: Aasimar
 tags:
   - Quelle/5e/mpmm
   - Rasse/aasimar
 aliases:
-  - "Aasimar"
+  - Aasimar
   - Aasimar
 ---
 # Aasimar

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Hybrid
+Status: WIP
 linter-yaml-title-alias: Simic Hybrid
 tags:
   - Quelle/5e/ggr

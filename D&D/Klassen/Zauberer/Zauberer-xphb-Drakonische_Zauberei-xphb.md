@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Sorcery
+Status: WIP
 linter-yaml-title-alias: Draconic Sorcery
 tags:
   - Klasse/Zauberer/draconic

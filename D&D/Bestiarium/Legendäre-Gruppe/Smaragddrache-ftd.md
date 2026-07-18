@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Emerald Dragon
+Status: WIP
 linter-yaml-title-alias: Emerald Dragon
 tags:
   - Monster/legendary-group

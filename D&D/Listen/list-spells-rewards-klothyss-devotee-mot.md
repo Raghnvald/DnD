@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Klothys's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Klothys's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/klothyss-devotee
+  - Zauber/Liste/reward/klothyss-devotee
 aliases:
   - "Spells for Klothys's Devotee"
 ---

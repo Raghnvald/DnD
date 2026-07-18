@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 200 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Schlangengift
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schlangengift
+status: WIP
 ---
 # Schlangengift
 *Adventuring gear, poison (injury)*  

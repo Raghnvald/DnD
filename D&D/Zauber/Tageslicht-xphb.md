@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daylight
+Status: WIP
 linter-yaml-title-alias: Daylight
 classes:
   - Bard
@@ -17,7 +18,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/paladin
   - Klasse/Waldläufer
   - Klasse/Zauberer

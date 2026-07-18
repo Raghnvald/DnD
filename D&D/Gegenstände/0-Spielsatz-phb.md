@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spielsatz
 Kategorie: Werkzeug
+Status: completed
 linter-yaml-title-alias: Spielsatz
 tags:
   - Gegenstand/Ausrüstung/Spielset
@@ -10,7 +11,7 @@ aliases:
   - Spielsatz
 ---
 # Spielsatz
-*Gaming set*  
+*Spiel*  
 
 **Gegenstände in dieser Gruppe:**
 

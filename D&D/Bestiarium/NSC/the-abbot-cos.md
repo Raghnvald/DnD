@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Abbot
+Status: WIP
 linter-yaml-title-alias: The Abbot
 tags:
   - Monster/Größe/Mittelgroß

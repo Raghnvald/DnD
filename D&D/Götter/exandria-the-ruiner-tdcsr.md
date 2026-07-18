@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Ruiner
+Status: WIP
 linter-yaml-title-alias: The Ruiner
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Gruumsh

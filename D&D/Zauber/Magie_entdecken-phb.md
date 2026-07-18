@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
-Angriff: nichts
-Schaden:
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Magie entdecken
 classes:
   - Bard (Magical Secrets)
@@ -27,8 +28,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1

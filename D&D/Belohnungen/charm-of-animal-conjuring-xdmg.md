@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Animal Conjuring
+Status: WIP
 linter-yaml-title-alias: Charm of Animal Conjuring
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Charm of Animal Conjuring

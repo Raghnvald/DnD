@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enthrall
+Status: WIP
 linter-yaml-title-alias: Enthrall
 classes:
   - Bard

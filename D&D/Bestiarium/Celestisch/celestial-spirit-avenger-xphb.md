@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Celestial Spirit (Avenger)
+Status: WIP
 linter-yaml-title-alias: Celestial Spirit (Avenger)
 tags:
   - Monster/Größe/Groß

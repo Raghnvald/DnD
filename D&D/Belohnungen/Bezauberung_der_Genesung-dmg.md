@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bezauberung der Genesung
+Status: WIP
 linter-yaml-title-alias: Bezauberung der Genesung
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dmg
 aliases:
   - Bezauberung der Genesung

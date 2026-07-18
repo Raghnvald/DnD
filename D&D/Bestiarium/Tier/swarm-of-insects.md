@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Insects
+Status: WIP
 linter-yaml-title-alias: Swarm of Insects
 tags:
   - Monster/Größe/Mittelgroß

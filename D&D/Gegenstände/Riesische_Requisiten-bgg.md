@@ -2,10 +2,10 @@
 Bezeichnung: Riesische Requisiten
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Riesische Requisiten
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Riesische Requisiten
+status: WIP
 ---
 # Riesische Requisiten
 *Adventuring gear*  

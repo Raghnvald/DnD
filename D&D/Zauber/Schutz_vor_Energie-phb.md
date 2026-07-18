@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Protection from Energy
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Protection from Energy
 classes:
   - Bard (Magical Secrets)

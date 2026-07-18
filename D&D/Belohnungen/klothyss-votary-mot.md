@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Klothys's Votary"
+Status: WIP
 linter-yaml-title-alias: "Klothys's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

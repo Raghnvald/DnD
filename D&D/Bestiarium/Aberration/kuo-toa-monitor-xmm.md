@@ -5,6 +5,7 @@ Bezeichnung: Kuo-toa Monitor
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
+Status: WIP
 linter-yaml-title-alias: Kuo-toa Monitor
 tags:
   - Monster/Größe/Mittelgroß

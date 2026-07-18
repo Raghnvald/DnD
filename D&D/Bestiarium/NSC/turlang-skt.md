@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Turlang
+Status: WIP
 linter-yaml-title-alias: Turlang
 tags:
   - Monster/Größe/Riesig

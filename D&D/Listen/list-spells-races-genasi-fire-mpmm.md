@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Genasi (Fire)
+Status: WIP
 linter-yaml-title-alias: Spells for Genasi (Fire)
 tags:
-  - Zauber/list/subrace/genasi-fire
+  - Zauber/Liste/subrace/genasi-fire
 aliases:
   - Spells for Genasi (Fire)
 ---

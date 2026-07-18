@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grung Wildling (Red)
+Status: WIP
 linter-yaml-title-alias: Grung Wildling (Red)
 tags:
   - Monster/Größe/Klein

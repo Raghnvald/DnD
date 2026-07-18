@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Lightning Keep
+Status: WIP
 linter-yaml-title-alias: Lightning Keep
 tags:
   - Quelle/5e/lk
 aliases:
-  - "Lightning Keep"
+  - Lightning Keep
   - Lightning Keep
 ---
 # Lightning Keep

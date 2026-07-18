@@ -5,15 +5,16 @@ Bezeichnung: Cranium Rat Squeaker
 Kategorie: Aberration
 Größe: Winzig
 HG: 0
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Cranium Rat Squeaker
 tags:
   - Quelle/5e/mpp
-  - ttrpg-cli/monster/cr/0
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/Aberration
 aliases:
   - Cranium Rat Squeaker
+status: WIP
 ---
 # [Cranium Rat Squeaker](3-Mechanics/CLI/bestiary/aberration/cranium-rat-squeaker-mpp.md)
 *Source: Morte's Planar Parade p. 22*  

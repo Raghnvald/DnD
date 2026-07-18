@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Arawai
+Status: WIP
 linter-yaml-title-alias: Arawai
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

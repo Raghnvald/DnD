@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavily Obscured
+Status: WIP
 linter-yaml-title-alias: Heavily Obscured
 tags:
   - Quelle/5e/xphb

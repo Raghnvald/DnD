@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sundeth
+Status: WIP
 linter-yaml-title-alias: Sundeth
 tags:
   - Monster/Größe/Groß

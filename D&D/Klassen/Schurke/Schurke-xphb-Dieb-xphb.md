@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thief
+Status: WIP
 linter-yaml-title-alias: Thief
 tags:
   - Klasse/Schurke/Dieb

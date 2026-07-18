@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Estia
+Status: WIP
 linter-yaml-title-alias: Estia
 tags:
   - Monster/Größe/Riesig

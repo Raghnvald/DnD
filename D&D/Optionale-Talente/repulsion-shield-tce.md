@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Repulsion Shield
+Status: WIP
 linter-yaml-title-alias: Repulsion Shield
 tags:
   - Kompendium/Optionales/ai

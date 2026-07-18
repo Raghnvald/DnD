@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Enspelled Weapon (Cantrip)
+Status: WIP
 linter-yaml-title-alias: Enspelled Weapon (Cantrip)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

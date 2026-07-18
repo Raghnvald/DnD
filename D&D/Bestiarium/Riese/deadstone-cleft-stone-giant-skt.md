@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deadstone Cleft Stone Giant
+Status: WIP
 linter-yaml-title-alias: Deadstone Cleft Stone Giant
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lifestyle Expenses
+Status: WIP
 linter-yaml-title-alias: Lifestyle Expenses
 tags:
   - Quelle/5e/phb

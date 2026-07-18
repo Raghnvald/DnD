@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kalka-Kylla
+Status: WIP
 linter-yaml-title-alias: Kalka-Kylla
 tags:
   - Monster/Größe/Groß

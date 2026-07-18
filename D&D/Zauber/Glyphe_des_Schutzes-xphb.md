@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glyph of Warding
+Status: WIP
 linter-yaml-title-alias: Glyph of Warding
 classes:
   - Artificer

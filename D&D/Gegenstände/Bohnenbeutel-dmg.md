@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bohnenbeutel
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Bohnenbeutel
 tags:
   - Gegenstand/Seltenheit/selten

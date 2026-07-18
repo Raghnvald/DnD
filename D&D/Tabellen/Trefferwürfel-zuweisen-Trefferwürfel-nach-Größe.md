@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trefferwürfel zuweisen; Trefferwürfel nach Größe
+Status: WIP
 linter-yaml-title-alias: Trefferwürfel zuweisen; Trefferwürfel nach Größe
 tags:
   - Quelle/5e/dmg

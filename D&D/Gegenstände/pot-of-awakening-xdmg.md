@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pot of Awakening
+Status: WIP
 linter-yaml-title-alias: Pot of Awakening
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Cube of Force
+Status: WIP
 linter-yaml-title-alias: Cube of Force
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

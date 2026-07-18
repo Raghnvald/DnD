@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 3: Abenteuer erschaffen"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 3: Abenteuer erschaffen"
 tags:
   - Quelle/5e/dmg

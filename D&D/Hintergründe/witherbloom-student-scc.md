@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Witherbloom Student
+Status: WIP
 linter-yaml-title-alias: Witherbloom Student
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scc
 aliases:
-  - "Witherbloom Student"
+  - Witherbloom Student
   - Witherbloom Student
 ---
 # Witherbloom Student

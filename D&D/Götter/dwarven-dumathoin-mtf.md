@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Dumathoin
+Status: WIP
 linter-yaml-title-alias: Dumathoin
 tags:
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

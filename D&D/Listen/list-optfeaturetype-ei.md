@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Invocation
+Status: WIP
 linter-yaml-title-alias: Eldritch Invocation
 tags:
   - Quelle/5e/phb

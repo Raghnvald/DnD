@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Agent
+Status: WIP
 linter-yaml-title-alias: House Agent
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Agent"
+  - House Agent
   - House Agent
 ---
 # House Agent

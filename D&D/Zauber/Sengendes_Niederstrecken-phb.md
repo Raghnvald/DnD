@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Searing Smite
+Bezeichnung: Sengendes Niederstrecken
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Searing Smite
+Zeitaufwand: 1 Bonusaktion
+Reichweite: selbst
+Komponenten: V
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Sengendes Niederstrecken
 classes:
   - Bard (Magical Secrets)
   - Paladin
@@ -18,9 +19,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Searing Smite
+  - Sengendes Niederstrecken
 ---
-# Searing Smite
+# Sengendes Niederstrecken
 *1st-level, Evocation*  
 
 - **Casting time:** 1 Bonus Action

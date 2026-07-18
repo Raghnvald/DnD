@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavy Crossbow
+Status: WIP
 linter-yaml-title-alias: Heavy Crossbow
 tags:
   - Gegenstand/Seltenheit/keine
@@ -11,7 +12,7 @@ aliases:
 ---
 # Heavy Crossbow
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/heavy-crossbow.webp#right)
+![](img/heavy-crossbow.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Charm of Water Breathing
+Status: WIP
 linter-yaml-title-alias: Charm of Water Breathing
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/tor
 aliases:
-  - "Charm of Water Breathing"
+  - Charm of Water Breathing
   - Charm of Water Breathing
 ---
 # Charm of Water Breathing

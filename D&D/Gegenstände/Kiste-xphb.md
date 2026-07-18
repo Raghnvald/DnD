@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chest
+Status: WIP
 linter-yaml-title-alias: Chest
 tags:
   - Gegenstand/Ausrüstung/

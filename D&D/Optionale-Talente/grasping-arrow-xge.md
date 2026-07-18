@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grasping Arrow
+Status: WIP
 linter-yaml-title-alias: Grasping Arrow
 tags:
   - Kompendium/Optionales/as

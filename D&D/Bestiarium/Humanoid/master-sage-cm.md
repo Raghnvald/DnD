@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master Sage
+Status: WIP
 linter-yaml-title-alias: Master Sage
 tags:
   - Monster/Größe/Mittelgroß

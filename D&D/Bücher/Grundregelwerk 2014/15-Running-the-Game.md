@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Platzhalter für Abschnitt Objekte
+Status: WIP
 linter-yaml-title-alias: Platzhalter für Abschnitt Objekte
 tags: []
 aliases:

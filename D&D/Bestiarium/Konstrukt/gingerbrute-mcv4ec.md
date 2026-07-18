@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gingerbrute
+Status: WIP
 linter-yaml-title-alias: Gingerbrute
 tags:
   - Monster/Größe/Winzig

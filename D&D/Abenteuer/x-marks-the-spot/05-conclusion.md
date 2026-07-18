@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Conclusion
+Status: WIP
 linter-yaml-title-alias: Conclusion
 tags:
   - Quelle/5e/xmts
 aliases:
-  - "Conclusion"
+  - Conclusion
   - Conclusion
 ---
 # Conclusion

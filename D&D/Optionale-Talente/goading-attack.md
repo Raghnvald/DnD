@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goading Attack
+Status: WIP
 linter-yaml-title-alias: Goading Attack
 tags:
   - Kompendium/Optionales/mv-b

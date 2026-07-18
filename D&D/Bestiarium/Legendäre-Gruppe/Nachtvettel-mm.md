@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Night Hag
+Status: WIP
 linter-yaml-title-alias: Night Hag
 tags:
   - Monster/legendary-group

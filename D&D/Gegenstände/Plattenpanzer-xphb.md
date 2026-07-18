@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Half Plate Armor
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Half Plate Armor
 tags:
   - Gegenstand/Rüstung/Mittel

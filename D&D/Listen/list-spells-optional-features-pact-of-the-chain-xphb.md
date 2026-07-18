@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Pact of the Chain
+Status: WIP
 linter-yaml-title-alias: Spells for Pact of the Chain
 tags:
-  - Zauber/list/optfeature/pact-of-the-chain
+  - Zauber/Liste/optfeature/pact-of-the-chain
 aliases:
   - Spells for Pact of the Chain
 ---

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow
+Status: WIP
 linter-yaml-title-alias: Shadow
 tags:
   - Monster/Größe/Mittelgroß

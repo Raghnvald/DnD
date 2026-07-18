@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Athreos's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Athreos's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

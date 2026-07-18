@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Prince Kirina
+Status: WIP
 linter-yaml-title-alias: Prince Kirina
 tags:
   - Monster/Größe/Mittelgroß

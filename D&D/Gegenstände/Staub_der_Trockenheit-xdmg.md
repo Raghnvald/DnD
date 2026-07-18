@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dust of Dryness
+Status: WIP
 linter-yaml-title-alias: Dust of Dryness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

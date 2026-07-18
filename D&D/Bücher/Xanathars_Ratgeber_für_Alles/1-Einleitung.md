@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Einleitung
+Status: WIP
 linter-yaml-title-alias: Einleitung
 tags:
   - Quelle/5e/xge
@@ -8,93 +9,93 @@ aliases:
   - Introduction
 ---
 # Einleitung
-*Source: Xanathar's Guide to Everything, p. 4* 
+*Quelle: Xanathars Ratgeber für Alles, p. 4* 
 
-Beneath the bustling City of Waterdeep, a beholder crime lord keeps tabs on everyone and everything—or so the beholder thinks. Known as Xanathar, this bizarre being believes it can gather information on everything in the Dungeons & Dragons multiverse. The beholder desires to know it all! But no matter what the beholder learns and what treasures it acquires, its most prized possession in all the multiverse remains its goldfish, Sylgar.
+Unter der geschäftigen Stadt Tiefwasser hat ein Betrachter-Verbrecherboss ein wachsames Auge auf alles und jeden - zumindest ist der Betrachter selbst davon überzeugt. Bekannt als Xanathar, ist dieses groteske Wesen der Meinung, dass es in der Lage sei, Informationen über alles im Multiversum von DUNGEONS & DRAGONS zu beschaffen. Der Betrachter strebt danach, alles in Erfahrung zu bringen, was es zu wissen gibt! Doch egal, was der Betrachter herausfindet und welche Schätze er erlangt, sein kostbarster Besitz im ganzen Multiversum wird stets sein Goldfisch Sylgar bleiben. 
 
-The first major rules expansion to the fifth edition of D&D, *Xanathar's Guide to Everything* provides a wealth of new options for the game. Xanathar might not be able to realize its dream to know everything, but this book does delve into every major part of the game: adventurers, their adventures, and the magic they wield.
+Als erste große Regelerweiterung der fünften Edition von D&D birgt Xanathars Ratgeber für alles eine Fülle neuer Möglichkeiten für das Spiel. Xanathar wird möglicherweise nicht in der Lage sein, seinen Traum, alles zu wissen, zu verwirklichen, aber dieses Buch befasst sich mit allen zentralen Aspekten des Spiels: Abenteurer, ihre Abenteuer und die Magie, die sie verwenden.
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/intro01.webp#center)
+![](img/intro01.webp#center)
 
-## Using this Book
+## Wie man dieses Buch verwendet
 
-Written for both players and Dungeon Masters, this book offers options to enhance campaigns in any world, whether you're adventuring in the Forgotten Realms, another official D&D setting, or a world of your own creation. The options here build on the official rules contained within the player's handbook, the monster manual, and the dungeon master's guide. Think of this book as the companion to those volumes. It builds on their foundation, exploring pathways first laid in those publications. Nothing herein is required for a D&D campaign—this is not a fourth core rulebook—but we hope it will provide you new ways to enjoy the game.
+Dieses Buch wurde sowohl für Spieler als auch Spielleiter geschrieben und bietet dir Möglichkeiten, deine Kampagnen zu erweitern, ganz egal, ob du in den Vergessenen Reichen, einer anderen offiziellen D&D-Kampagnenwelt oder in einer von dir selbst erschaffenen Welt auf Abenteuer ziehst. Die hier enthaltenen Optionen stützen sich auf die offiziellen Regeln, die im Spielerhandbuch, dem Monsterhandbuch und dem Spielleiterhandbuch zu finden sind. Betrachte diesen Band als ein Begleitwerk zu jenen Büchern. Er baut auf ihnen auf und verfolgt Ansätze, die in diesen Publikationen erstmals aufgegriffen wurden. Nichts in diesem Band ist ein unbedingtes Muss für eine D&D-Kampagne - es handelt sich hierbei nicht um ein viertes Grundregelwerk-, aber wir hoffen, dass er dir neue Wege aufzeigt, Spaß am Spiel zu haben. 
 
-Chapter 1 offers character options that expand on those offered in the player's handbook. Chapter 2 is a toolkit for the DM that provides new resources for running the game and designing adventures, all of it building on the Monster Manual and the Dungeon Master's Guide. Chapter 3 presents new spells for player characters and spellcasting monsters to unleash.
+Kapitel 1 bietet Charakteroptionen, die jene aus dem Spielerhandbuch erweitern. Kapitel 2 liefert dem SL neue Ressourcen für das Leiten von Spielen und das Entwerfen von Abenteuern auf Grundlage des Monsterhandbuchs und des Spielleiterhandbuchs. Kapitel 3 stellt neue Zauber vor, die Spielercharaktere und zauberwirkende Monster entfesseln können. 
 
-Appendix A provides guidance on running a shared campaign, similar to the activities staged by the D&D Adventurers League, and appendix B contains a host of tables that allow you to quickly generate names for the characters in your D&D stories.
+Anhang A dient als Orientierungshilfe für das Leiten von geteilten Kampagnen, ähnlich wie die von der D&D Adventurers League organisierten Aktivitäten, und Anhang B beinhaltet eine Vielzahl von Tabellen, die dir ermöglichen, rasch Namen für Charaktere in deinen D&D-Geschichten zu generieren.
 
-As you peruse the many options herein, you'll come across observations from Xanathar itself. Like the beholder's roving mind, your reading will take you to places in the game familiar and new. May you enjoy the journey!
+Während du dir die vielen hierin enthaltenen Möglichkeiten durchsiehst, wirst du auf Anmerkungen von Xanathar selbst stoßen. Wie die verschlungenen Gedankengänge des Betrachters wird die Lektüre dieses Bandes dich an vertraute und neue Orte in diesem Spiel führen. Mögest du die Reise genießen!
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/intro02.webp#center)
+![](img/intro02.webp#center)
 
 > [!note] Unearthed Arcana
 > 
-> Much of the material in this book originally appeared in Unearthed Arcana, a series of online articles we publish to explore rules that might officially become part of the game. Some Unearthed Arcana offerings don't end up resonating with fans and are set aside for the time being. The Unearthed Arcana material that inspired the options in the following chapters was well received and, thanks to feedback from thousands of you, has been refined into the official forms presented here.
+> Ein Großteil der in diesem Buch enthaltenen Inhalte erschien zunächst in Unearthed Arcana, einer Reihe von Online-Artikeln, die wir veröffentlichen, um uns eingehend mit Regeln zu befassen, die möglicherweise offiziell Teil des Spiels werden könnten. Einige der Artikel von Unearthed Arcana finden keinen Anklang bei den Fans und werden für den Augenblick beiseitegelegt. Die Inhalte aus Unearthed Arcana, von denen die Möglichkeiten in den folgenden Kapiteln inspiriert sind, haben sich großer Beliebtheit erfreut, und erscheinen nun, dank des Feedbacks von Tausenden von euch, hier in ihrer überarbeiteten, vollendeten Fassung.
 ^unearthed-arcana
 
-## The Core Rules
+## Die Grundregeln
 
-This book relies on the rules in the three core rulebooks. The game especially makes frequent use of the rules in chapters 7-10 of the player's handbook: "Using Ability Scores," "Adventuring," "Combat," and "Spellcasting." That book's appendix A is also crucial; it contains definitions of conditions, like [invisible](/3-Mechanics/CLI/conditions.md#Invisible) and [prone](/3-Mechanics/CLI/conditions.md#Prone). You don't need to know the rules by heart, but it's helpful to know where to find them when you need them.
+Dieses Buch stützt sich auf die Regeln in den drei Grundregelbüchern. Das Spiel macht besonders häufig Gebrauch von den Regeln in Kapitel 7-10 des Spielerhandbuchs: "Attributswerte verwenden", ,,Auf Abenteuer ausziehen", ,,Kampf" und „Zauber wirken". Der Anhang Ajenes Buches ist ebenfalls essenziell; darin finden sich Beschreibungen von Zuständen, wie [[Zustände-phb#Unsichtbar|unsichtbar]] und [[Zustände-phb#Liegend]]|liegend. Du musst nicht alle Regeln auswendig kennen, aber es ist hilfreich zu wissen, wo du nachschlagen musst, wenn du sie brauchst. 
 
-If you're a DM, you should also know where to look things up in the dungeon master's guide, especially the rules on how magic items work (see chapter 7 of that book). The introduction of the monster manual is your guide on how to use a monster's stat block.
+Falls du ein SL bist, solltest du außerdem wissen, wo du Sachen im Spielleiterhandbuch findest, insbesondere die Regeln zu magischen Gegenständen (siehe Kapitel 7 jenes Buches). Die Einleitung im Monsterhandbuch erklärt dir, wie du die Spielwerte von Monstern verwendest. 
 
-### The DM Adjudicates the Rules
+### Der SL legt die Regeln aus
 
-One rule overrides all others: the DM is the final authority on how the rules work in play.
+Eine Regel gilt vor allen anderen: Der SL hat das letzte Wort, wenn es darum geht, wie die Regeln im Spiel funktionieren.
 
-Rules are part of what makes D&D a game, rather than just improvised storytelling. The game's rules are meant to help organize, and even inspire, the action of a D&D campaign. The rules are a tool, and we want our tools to be as effective as possible. No matter how good those tools might be, they need a group of players to bring them to life and a DM to guide their use.
+Regeln sind Teil dessen, was D&D zu einem Spiel macht, statt nur zu der improvisierten Erzählung einer Geschichte. Die Regeln des Spiels sind dazu gedacht, die Geschehnisse einer Kampagne zu organisieren und sogar zu inspirieren. Die Regeln stellen ein Werkzeug dar, und wir wollen, dass unsere Werkzeuge so effektiv wie möglich sind. So gut diese Werkzeuge jedoch auch sein mögen, eine Gruppe von Spielern ist notwendig, um ihnen Leben einzuhauchen, und ein SL, um bei ihrer Auslegung zu helfen.
 
-The DM is key. Many unexpected events can occur in a D&D campaign, and no set of rules could reasonably account for every contingency. If the rules tried to do so, the game would become a slog. An alternative would be for the rules to severely limit what characters can do, which would be contrary to the open-endedness of D&D. Here's the path the game takes: it lays a foundation of rules that a DM can build on, and it embraces the DM's role as the bridge between the things the rules address and the things they don't.
+Der SL ist die zentrale Schlüsselfigur. In einer D&D-Kampagne können viele unerwartete Ereignisse eintreten, und es existiert keine bestimmte Zusammenstellung von Regeln, die jede Eventualität abdecken könnte. Würden die Regeln dies dennoch versuchen, würde dies das Spiel zäh und mühselig machen. Alternativ könnten die Regeln die Spieler auch drastisch in ihrer Handlungsfreiheit einschränken, was jedoch im Widerspruch zum Prinzip der Entscheidungsfreiheit von D&D stünde. Das Spiel geht stattdessen folgendermaßen vor: Es legt einige grundlegende Regeln fest, auf denen der SL aufbauen kann, und weist dem SL dabei ausdrücklich die Rolle als Brücke zwischen den Dingen zu, welche die Regeln abdecken, und jenen, die sie nicht abdecken.
 
-### Ten Rules to Remember
+### Zehn Faustregeln
 
-A few rules in the core rulebooks sometimes trip up a new player or DM. Here are ten of those rules. Keeping them in mind will help you interpret the options in this book.
+Einige Regeln in den Grundregelwerken können einem neuen Spieler oder SL manchmal Probleme bereiten. Zehn dieser Regeln folgen nun hier. Wenn du sie dir merkst, wird dir das bei der Interpretation der Optionen in diesem Buch helfen.
 
-#### Exceptions Supersede General Rules
+#### Ausnahmen heben bestehende Regeln auf
 
-General rules govern each part of the game. For example, the combat rules tell you that melee weapon attacks use Strength and ranged weapon attacks use Dexterity. That's a general rule, and a general rule is in effect as long as something in the game doesn't explicitly say otherwise.
+Die allgemeinen Regeln bestimmen jeden einzelnen Teil des Spiels. Beispielsweise besagen die Kampfregeln, dass Angriffe mit Nahkampfwaffen Stärke verwenden und Angriffe mit Fernkampfwaffen Geschicklichkeit. Das ist eine allgemeine Regel, und eine allgemeine Regel ist gültig, solange vom Spiel nicht ausdrücklich etwas anderes gesagt wird.
 
-The game also includes elements-class features, spells, magic items, monster abilities, and the like-that sometimes contradict a general rule. When an exception and a general rule disagree, the exception wins. For example, if a feature says you can make melee weapon attacks using your Charisma, you can do so, even though that statement disagrees with the general rule.
+Im Spiel kommen auch Elemente vor - Klassenmerkmale, Zauber, magische Gegenstände, Fähigkeiten von Monstern und dergleichen-, die manchmal im Widerspruch zu einer allgemeinen Regel stehen. Wenn sich eine Ausnahme und eine allgemeine Regel widersprechen, gilt die Ausnahme. Wenn ein Merkmal zum Beispiel vorsieht, dass du dein Charisma für einen Nahkampfangriffverwenden kannst, ist dir das erlaubt, obwohl dies laut der allgemeinen Regel nicht gestattet ist.
 
-#### Round Down
+#### Abrunden
 
-Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater.
+Immer wenn du im Spiel dividierst oder multiplizierst, wird abgerundet, falls du keine glatte Zahl erhältst, selbst wenn die Bruchzahl gleich oder größer als 0,5 ist.
 
-#### Advantage and Disadvantage
+#### Der richtige Zeitpunkt für Reaktionen
 
-Even if more than one factor gives you advantage or disadvantage on a roll, you have it only once, and if you have advantage and disadvantage on the same roll, they cancel each other.
+Bestimmte Gegebenheiten im Spiel erlauben dir, eine spezielle Aktion auszuführen, die Reaktion genannt wird. Das Durchführen von Gelegenheitsangriffen und das Wirken des Zaubers [[Zauber/Schild-phb|Schild]] sind typische Beispiele für Reaktionen. Wenn du dir unsicher bist, wann eine Reaktion nach ihrem Auslöser erfolgt, merke dir die folgende Regel: Die Reaktion tritt ein, nachdem der Auslöser abgehandelt wurde, es sei denn in der Beschreibung der Reaktion ist ausdrücklich etwas anderes vermerkt. 
 
-#### Combining Different Effects
+Nachdem du eine Reaktion ausgeführt hast, kannst du bis zum Beginn deines nächsten Zuges keine weitere einsetzen. 
 
-Different game effects can affect a target at the same time. For example, two different benefits can give you a bonus to your Armor Class. But when two or more effects have the same proper name, only one of them (the most powerful one if their benefits aren't identical) applies while the durations of the effects overlap. For example, if bless is cast on you when you're still under the effect of an earlier bless, you gain the benefit of only one casting. Similarly, if you're in the radius of more than one Aura of Protection, you benefit only from the one that grants the highest bonus.
+#### Resistenz umd Empfindlichkeit
 
-#### Reaction Timing
+In der folgenden Reihenfolge werden Modifikatoren auf Schaden angewandt: (1) jede relevante Schadensimmunität, (2) jeder Schadensbonus oder -abzug, (3) eine relevante Schadensresistenz und (4) eine relevante Schadensempfindlichkeit.
 
-Certain game features let you take a special action, called a reaction, in response to some event. Making opportunity attacks and casting the shield spell are two typical uses of reactions. If you're unsure when a reaction occurs in relation to its trigger, here's the rule: the reaction happens after its trigger completes, unless the description of the reaction explicitly says otherwise.
+Selbst wenn du aus mehreren Quellen Resistenz gegen eine Art von Schaden erhältst, kann nur eine davon angewandt werden. Dasselbe gilt für Empfindlichkeit.
 
-Once you take a reaction, you can't take another one until the start of your next turn.
+#### Konzentration
 
-#### Resistance and Vulnerability
+Sobald du beginnst, einen Zauber zu wirken oder eine besondere Fähigkeit ein>z.usetzen, für die es notwendig ist, sich zu konzentrieren, endet deine Konzentration auf einen anderen Effekt sofort. 
 
-Here's the order that you apply modifiers to damage: (1) any relevant damage immunity, (2) any addition or subtraction to the damage, (3) one relevant damage resistance, and (4) one relevant damage vulnerability.
+#### Temporäre Trefferpunkte
 
-Even if multiple sources give you resistance to a type of damage you're taking, you can apply resistance to it only once. The same is true of vulnerability.
+Temporäre Trefferpunkte sind nicht kumulativ. Wenn du über temporäre Trefferpunkte verfügst und noch zusätzliche erhältst, werden diese Trefferpunkte nicht hinzugerechnet, es sei denn, eine Gegebenheit im Spiel gestattet dir dies. Stattdessen entscheidest du, welche temporären Trefferpunkte du behalten willst.
 
-#### Proficiency Bonus
+#### Übungsbonus
 
-If your proficiency bonus applies to a roll, you can add the bonus only once to the roll, even if multiple things in the game say your bonus applies. Moreover, if more than one thing tells you to double or halve your bonus, you double it only once or halve it only once before applying it. Whether multiplied, divided, or left at its normal value, the bonus can be used only once per roll.
+Wenn dein Übungsbonus zu einem Wurf addiert wird, kann dieser nur ein einziges Mal auf den Wurf gerechnet werden, selbst wenn mehrere Gegebenheiten im Spiel dir erlauben, deinen Bonus zu verwenden. Sollten außerdem mehrere Quellen besagen, dass du den Bonus verdoppeln oder halbieren sollst, wird er dennoch nur einmal verdoppelt oder halbiert, ehe er hinzugezählt wird. Egal, ob der Bonus vervielfacht, geteilt oder bei seinem ursprünglichen Wert belassen wird, er kann nur einmal auf den Wurf angewandt werden.
 
-#### Bonus Action Spells
+#### Verschiedene Effekte kombinieren
 
-If you want to cast a spell that has a casting time of 1 bonus action, remember that you can't cast any other spells before or after it on the same turn, except for cantrips with a casting time of 1 action.
+Ein Ziel kann von verschiedenen Effekten im Spiel gleichzeitig betroffen werden. Beispielsweise können zwei unterschiedliche Vorzüge dir einen Bonus auf deine Rüstungsklasse geben. Aber wenn zwei oder mehr Effekte genau denselben Namen tragen, wird nur einer angewandt (der stärkste, wenn ihre Vorzüge nicht identisch sind), während die Wirkungsdauer der Effekte sich überschneidet. Wenn zum Beispiel [[Segnen-phb|Segnen]] auf dich gewirkt wird, während du noch von den Effekten eines früheren [[Segnen-phb|Segnens]] betroffen wirst, erhältst du nur die Vorzüge von einem dieser Zauber. Befindest du dich im Radius von mehr als einer Aura des Schutzes, profitierst du ebenso nur von der Aura, die dir den höchsten Bonus gewährt. 
 
-#### Concentration
+#### Vorteil und Nachteil
 
-As soon as you start casting a spell or using a special ability that requires concentration, your concentration on another effect ends instantly.
+Selbst wenn dir verschiedene Quellen mehrere Vorteile oder Nachteile auf deinen Wurf verschaffen, zählt dies nur wie ein einziger Vorteil oder Nachteil, und falls du bei einem Wurf sowohl im Vorteil als auch im Nachteil bist, heben sich diese gegenseitig auf.
 
-#### Temporary Hit Points
+#### Zauber als Bonusaktion
 
-Temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. Instead, you decide which temporary hit points to keep.
+Wenn du einen Zauber wirken willst, dessen Zeitaufwand 1 Bonusaktion beträgt, vergiss nicht, dass du davor oder danach im selben Zug keine anderen Zauber mehr einsetzen kannst, mit Ausnahme von Zaubertricks mit einem Zeitaufwand von 1 Aktion.
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/intro03.webp#center)
+![](img/intro03.webp#center)

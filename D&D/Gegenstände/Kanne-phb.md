@@ -2,10 +2,10 @@
 Bezeichnung: Kanne
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 KM
 Gew.: 2,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Kanne
 tags:
   - Gegenstand/Ausrüstung/

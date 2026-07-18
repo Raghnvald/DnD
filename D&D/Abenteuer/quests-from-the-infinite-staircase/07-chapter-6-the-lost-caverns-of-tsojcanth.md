@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: The Lost Caverns of Tsojcanth"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: The Lost Caverns of Tsojcanth"
 tags:
   - Quelle/5e/qftis

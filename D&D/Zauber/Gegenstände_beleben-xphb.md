@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Animate Objects
+Status: WIP
 linter-yaml-title-alias: Animate Objects
 classes:
   - Artificer

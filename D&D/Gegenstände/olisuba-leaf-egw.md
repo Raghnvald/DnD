@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Olisuba Leaf
 Kst.: 50 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Olisuba Leaf
 tags:
   - Gegenstand/Ausrüstung/
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Olisuba Leaf
+status: WIP
 ---
 # Olisuba Leaf
 *Adventuring gear*  

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Pearl of Undead Detection
+Status: WIP
 linter-yaml-title-alias: Pearl of Undead Detection
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdmm
 aliases:
   - Pearl of Undead Detection

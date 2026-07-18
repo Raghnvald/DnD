@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Component Pouch
+Status: WIP
 linter-yaml-title-alias: Component Pouch
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Book of Ancient Secrets
+Status: WIP
 linter-yaml-title-alias: Spells for Book of Ancient Secrets
 tags:
-  - Zauber/list/optfeature/book-of-ancient-secrets
+  - Zauber/Liste/optfeature/book-of-ancient-secrets
 aliases:
   - Spells for Book of Ancient Secrets
 ---

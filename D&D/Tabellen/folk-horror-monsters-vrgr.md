@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Horror Monsters
+Status: WIP
 linter-yaml-title-alias: Folk Horror Monsters
 tags:
   - Quelle/5e/vrgr

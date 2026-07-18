@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Zombie
+Status: WIP
 linter-yaml-title-alias: Ogre Zombie
 tags:
   - Monster/Größe/Groß

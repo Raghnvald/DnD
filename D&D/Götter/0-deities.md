@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Deities
+Status: WIP
 linter-yaml-title-alias: Index of Deities
 aliases:
   - Index of Deities

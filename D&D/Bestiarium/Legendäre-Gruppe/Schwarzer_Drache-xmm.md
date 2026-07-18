@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Black Dragon
+Status: WIP
 linter-yaml-title-alias: Black Dragon
 tags:
   - Monster/legendary-group

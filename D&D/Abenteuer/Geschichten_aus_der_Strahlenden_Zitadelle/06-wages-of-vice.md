@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wages of Vice
+Status: WIP
 linter-yaml-title-alias: Wages of Vice
 tags:
   - Quelle/5e/jttrc

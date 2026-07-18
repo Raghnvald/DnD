@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cordon of Arrows
+Status: WIP
 linter-yaml-title-alias: Cordon of Arrows
 classes:
   - Ranger

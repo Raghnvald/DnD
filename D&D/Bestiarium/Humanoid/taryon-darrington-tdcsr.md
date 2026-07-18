@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Taryon Darrington
+Status: WIP
 linter-yaml-title-alias: Taryon Darrington
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hawk
+Status: WIP
 linter-yaml-title-alias: Hawk
 tags:
   - Monster/Größe/Winzig

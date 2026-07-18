@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bel
+Status: WIP
 linter-yaml-title-alias: Bel
 tags:
   - Monster/Größe/Groß

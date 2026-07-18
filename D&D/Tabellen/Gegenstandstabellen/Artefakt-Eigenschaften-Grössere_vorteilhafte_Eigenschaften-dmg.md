@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artefakt-Eigenschaften; Grössere vorteilhafte Eigenschaften
+Status: WIP
 linter-yaml-title-alias: Artefakt-Eigenschaften; Grössere vorteilhafte Eigenschaften
 tags:
   - Quelle/5e/dmg

@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
-image: token/feral-ashenwight-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Wilder Ascheschrecken
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Feral Ashenwight
   - Wilder Ascheschrecken
+image: token/feral-ashenwight-pabtso.webp
+status: WIP
 ---
 # Wilder Ascheschrecken
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 204*  

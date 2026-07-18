@@ -1,16 +1,19 @@
 ---
-Bezeichnung: Halberd
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Halberd
+Bezeichnung: Hellebarde
+Original: Halberd
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Hellebarde
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Halberd
+  - Hellebarde
+status: WIP
 ---
-# Halberd
+# Hellebarde
 *Weapon*  
 
 - **Damage**: 1d10 slashing

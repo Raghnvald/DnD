@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Summon Beast
+Status: WIP
 linter-yaml-title-alias: Summon Beast
 classes:
   - Bard

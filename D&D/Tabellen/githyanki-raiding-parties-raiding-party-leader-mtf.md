@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githyanki Raiding Parties; Raiding Party Leader
+Status: WIP
 linter-yaml-title-alias: Githyanki Raiding Parties; Raiding Party Leader
 tags:
   - Quelle/5e/mtf

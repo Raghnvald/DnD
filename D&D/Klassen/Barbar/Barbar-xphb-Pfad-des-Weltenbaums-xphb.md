@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the World Tree
+Status: WIP
 linter-yaml-title-alias: Path of the World Tree
 tags:
   - Klasse/Barbar/world-tree

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Bat
+Status: WIP
 linter-yaml-title-alias: Giant Bat
 tags:
   - Monster/Größe/Groß

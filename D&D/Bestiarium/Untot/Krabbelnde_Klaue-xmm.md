@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crawling Claw
+Status: WIP
 linter-yaml-title-alias: Crawling Claw
 tags:
   - Monster/Größe/Winzig

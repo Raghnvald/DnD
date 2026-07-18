@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Devotion
+Status: WIP
 linter-yaml-title-alias: Oath of Devotion
 tags:
   - Klasse/Paladin/Schwur-der-Hingabe

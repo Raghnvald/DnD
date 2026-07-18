@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Widerstandsfähig
-linter-yaml-title-alias: Durable
+Status: WIP
+linter-yaml-title-alias: Widerstandsfähig
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Durable
+  - Widerstandsfähig
 ---
 # Widerstandsfähig
 *Source: Player's Handbook p. 166*  

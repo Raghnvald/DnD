@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hill Giant
+Status: WIP
 linter-yaml-title-alias: Hill Giant
 tags:
   - Monster/Größe/Riesig

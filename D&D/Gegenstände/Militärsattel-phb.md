@@ -2,24 +2,24 @@
 Bezeichnung: Militärsattel
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 20 GM
 Gew.: 15,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Militärsattel
 tags:
-  - Gegenstand/Ausrüstung/tack-and-harness
+  - Gegenstand/Ausrüstung/Zaumzeug-und-Harnisch
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Militärsattel
 ---
 # Militärsattel
-*Tack and harness*  
+*Zaumzeug und Harnisch*  
 
-- **Cost**: 20 gp
-- **Weight**: 30.0 lbs.
+- **Kosten**: 20 GM
+- **Gewicht**: 15,0 kg
 
-A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted.
+Ein Militärsattel stützt den Reiter und hilft ihm dabei, während des Kampfes auf einem Reittier nicht hinunterzufallen. Du bist im Vorteil bei Würfen, um im Sattel zu bleiben.
 
-*Source: Player's Handbook p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

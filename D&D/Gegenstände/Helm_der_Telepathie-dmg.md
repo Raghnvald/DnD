@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Helm of Telepathy
+Status: WIP
 linter-yaml-title-alias: Helm of Telepathy
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:

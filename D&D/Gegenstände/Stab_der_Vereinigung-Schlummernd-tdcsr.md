@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spire of Conflux (Dormant)
+Status: WIP
 linter-yaml-title-alias: Spire of Conflux (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

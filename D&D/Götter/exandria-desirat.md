@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Desirat
+Status: WIP
 linter-yaml-title-alias: Desirat
 tags:
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Desirat

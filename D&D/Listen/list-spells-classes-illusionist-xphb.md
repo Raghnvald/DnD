@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Illusionist
+Status: WIP
 linter-yaml-title-alias: Spells for Illusionist
 tags:
-  - Zauber/list/subclass/illusionist
+  - Zauber/Liste/subclass/illusionist
 aliases:
   - Spells for Illusionist
 ---

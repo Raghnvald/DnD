@@ -5,8 +5,8 @@ Reichweite: Berührung
 Komponenten: G, M
 Wirkungsdauer: 10 Tage
 Angriff: n/v
-Schaden: /
-status: completed
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Illusionsschrift
 tags:
   - Klasse/Barde
@@ -20,6 +20,7 @@ tags:
 aliases:
   - Illusionsschrift
   - Illusory Script
+status: completed
 ---
 # Illusionsschrift
 _Illusion des 1. Grades (Ritual)_

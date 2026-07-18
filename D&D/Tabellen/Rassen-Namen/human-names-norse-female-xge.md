@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Norse, Female
+Status: WIP
 linter-yaml-title-alias: Human Names – Norse, Female
 tags:
   - Quelle/5e/xge

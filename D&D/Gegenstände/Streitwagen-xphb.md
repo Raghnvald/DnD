@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chariot
+Status: WIP
 linter-yaml-title-alias: Chariot
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

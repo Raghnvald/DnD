@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Druid of the Old Ways
+Status: WIP
 linter-yaml-title-alias: Druid of the Old Ways
 tags:
   - Monster/Größe/Mittelgroß

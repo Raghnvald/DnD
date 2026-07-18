@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter
+Status: WIP
 linter-yaml-title-alias: Shifter
 tags:
   - Quelle/5e/mpmm

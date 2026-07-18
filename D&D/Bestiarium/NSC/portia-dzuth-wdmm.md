@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Portia Dzuth
+Status: WIP
 linter-yaml-title-alias: Portia Dzuth
 tags:
   - Monster/Größe/Mittelgroß

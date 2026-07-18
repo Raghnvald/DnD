@@ -2,12 +2,14 @@
 Bezeichnung: +2 Rod of the Pact Keeper
 Kategorie: Zepter
 Eigenschaften:
-  - erfordert Einstimmung durch einen Hexenmeister
-Kst.: /
-Gew.: /
+  - n/v
+Einstimmung: durch einen Hexenmeister
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: +2 Rod of the Pact Keeper
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg

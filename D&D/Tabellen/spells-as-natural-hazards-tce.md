@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells as Natural Hazards
+Status: WIP
 linter-yaml-title-alias: Spells as Natural Hazards
 tags:
   - Quelle/5e/tce

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome
+Status: WIP
 linter-yaml-title-alias: Gnome
 tags:
   - Quelle/5e/xphb

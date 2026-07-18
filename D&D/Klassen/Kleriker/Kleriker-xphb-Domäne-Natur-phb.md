@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Nature Domain
+Status: WIP
 linter-yaml-title-alias: Nature Domain
 tags:
   - Klasse/Kleriker/nature
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Quelle/5e/phb
 aliases:
   - Nature Domain

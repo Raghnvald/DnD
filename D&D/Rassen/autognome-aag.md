@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Autognome
+Status: WIP
 linter-yaml-title-alias: Autognome
 tags:
   - Quelle/5e/aag
   - Rasse/autognome
 aliases:
-  - "Autognome"
+  - Autognome
   - Autognome
 ---
 # Autognome

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Otherworldly Steed (Celestial)
+Status: WIP
 linter-yaml-title-alias: Otherworldly Steed (Celestial)
 tags:
   - Monster/Größe/Groß

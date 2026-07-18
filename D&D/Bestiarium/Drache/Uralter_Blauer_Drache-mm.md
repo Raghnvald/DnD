@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Uralter Blauer Drache "
+Status: WIP
 linter-yaml-title-alias: "Uralter Blauer Drache "
 tags:
   - Monster/Größe/Gigantisch

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: War Pick
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: War Pick
 tags:
   - Gegenstand/Seltenheit/keine
@@ -9,6 +10,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - War Pick
+status: WIP
+Original: Stonemaker War Pick
 ---
 # War Pick
 *Weapon*  

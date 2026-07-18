@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe des wahren Blicks
+Status: WIP
 linter-yaml-title-alias: Gabe des wahren Blicks
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Truesight

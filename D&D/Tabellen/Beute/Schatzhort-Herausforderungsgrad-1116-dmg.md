@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Schatzhort: Herausforderungsgrad 11 - 16"
+Status: WIP
 linter-yaml-title-alias: "Schatzhort: Herausforderungsgrad 11 - 16"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Schatzhort: Herausforderungsgrad 11 - 16"
-  - Treasure Hoard: Challenge 11—16
+  - "Treasure Hoard: Challenge 11—16"
 ---
 # Schatzhort: Herausforderungsgrad 11 - 16
 *Quelle: Spielleiterhandbuch, S. 133* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scorching Ray
+Status: WIP
 linter-yaml-title-alias: Scorching Ray
 classes:
   - Artificer (Artillerist)
@@ -18,7 +19,7 @@ tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide/circle-of-wildfire
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer

@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Fog Cloud
 classes:
   - Bard
@@ -32,7 +33,7 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xphb
   - Rasse/triton
   - Subklasse/Mystischer-Ritter

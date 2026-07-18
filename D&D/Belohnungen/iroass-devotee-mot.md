@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Iroas's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Iroas's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

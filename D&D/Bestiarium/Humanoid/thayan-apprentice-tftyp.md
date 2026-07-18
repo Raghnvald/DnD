@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thayan Apprentice
+Status: WIP
 linter-yaml-title-alias: Thayan Apprentice
 tags:
   - Monster/Größe/Mittelgroß

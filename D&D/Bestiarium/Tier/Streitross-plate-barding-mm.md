@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warhorse (Plate Barding)
+Status: WIP
 linter-yaml-title-alias: Warhorse (Plate Barding)
 tags:
   - Monster/Größe/Groß

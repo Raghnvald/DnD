@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Half-Orc
-linter-yaml-title-alias: Half-Orc
+Bezeichnung: Halbork
+Status: WIP
+linter-yaml-title-alias: Halbork
 tags:
   - Quelle/5e/phb
   - Rasse/half-orc
 aliases:
-  - Half-Orc
+  - Halbork
 ---
 # Halbork
 *Source: Player's Handbook p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

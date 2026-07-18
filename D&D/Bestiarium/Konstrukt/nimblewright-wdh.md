@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nimblewright
+Status: WIP
 linter-yaml-title-alias: Nimblewright
 tags:
   - Monster/Größe/Mittelgroß

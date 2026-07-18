@@ -4,10 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Aberrant Spirit (Slaad)
 Kategorie: Aberration
 Größe: Mittelgroß
-HG: /
+HG: n/v
 Habitat:
-  - /
-status: WIP
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Aberrant Spirit (Slaad)
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Alobal Lorfiril
+Status: WIP
 linter-yaml-title-alias: Alobal Lorfiril
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

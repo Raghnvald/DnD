@@ -5,7 +5,7 @@ Bezeichnung: Todeskuss
 Kategorie: Aberration (Betrachter)
 Größe: Groß
 HG: 10
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Todeskuss
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Death Kiss
   - Todeskuss
+status: WIP
 ---
 # Todeskuss
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85*  

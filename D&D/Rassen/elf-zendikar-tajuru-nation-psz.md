@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Elf (Zendikar; Tajuru Nation)
+Status: WIP
 linter-yaml-title-alias: Elf (Zendikar; Tajuru Nation)
 tags:
   - Quelle/5e/psz
   - Rasse/elf/zendikar-tajuru-nation
 aliases:
-  - "Elf (Zendikar; Tajuru Nation)"
+  - Elf (Zendikar; Tajuru Nation)
   - Elf (Zendikar; Tajuru Nation)
 ---
 # Elf (Zendikar; Tajuru Nation)

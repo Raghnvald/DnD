@@ -1,16 +1,18 @@
 ---
-Bezeichnung: Fragmentation Grenade
-Kategorie: Explosives
-linter-yaml-title-alias: Fragmentation Grenade
+Bezeichnung: Splittergranate
+Original: Fragmentation Grenade
+Kategorie: Sprengstoff
+Status: WIP
+linter-yaml-title-alias: Splittergranate
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/explosive
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
-  - Fragmentation Grenade
+  - Splittergranate
 ---
-# Fragmentation Grenade
+# Splittergranate
 *Explosive*  
 
 - **Weight**: 1.0 lbs.

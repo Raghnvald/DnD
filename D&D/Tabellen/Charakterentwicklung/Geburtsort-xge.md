@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Geburtsort
+Status: WIP
 linter-yaml-title-alias: Geburtsort
 tags:
   - Quelle/5e/xge

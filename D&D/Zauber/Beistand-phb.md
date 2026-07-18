@@ -6,8 +6,8 @@ Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
 Angriff: n/v
-Schaden: /
-status: completed
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Beistand
 classes:
   - Bard (Magical Secrets)
@@ -22,6 +22,7 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Beistand
+status: completed
 ---
 # Beistand
 *Bann des 2. Grades*

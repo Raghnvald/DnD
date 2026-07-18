@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Vex'ahlia"
+Status: WIP
 linter-yaml-title-alias: "Vex'ahlia"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - "Vex'ahlia"
-  - Vex'ahlia
 ---
 # [Vex'ahlia](3-Mechanics\CLI\bestiary\humanoid/vexahlia-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 267*  

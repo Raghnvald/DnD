@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Augrek Brighthelm
 Kategorie: Humanoid (Schildzwerg)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Augrek Brighthelm
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Augrek Brighthelm
+status: WIP
 ---
 # [Augrek Brighthelm](3-Mechanics\CLI\bestiary\npc/augrek-brighthelm-skt.md)
 *Source: Storm King's Thunder p. 247*  

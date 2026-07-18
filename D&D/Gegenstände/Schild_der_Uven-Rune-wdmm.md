@@ -3,16 +3,17 @@ Bezeichnung: Schild der Uven-Rune
 Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schild der Uven-Rune
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/wdmm

@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 7
 Habitat:
   - Stadt
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Wladimir Horngaard
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
 aliases:
   - Vladimir Horngaard
   - Wladimir Horngaard
+status: WIP
 ---
 # Wladimir Horngaard
 *Quelle: Fluch des Strahd S. 241*  

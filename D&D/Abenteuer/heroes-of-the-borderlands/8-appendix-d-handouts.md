@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Handouts"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Handouts"
 tags:
   - Quelle/5e/hotb

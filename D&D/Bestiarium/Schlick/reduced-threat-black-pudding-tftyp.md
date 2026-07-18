@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Black Pudding
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Black Pudding
 tags:
   - Monster/Größe/Groß

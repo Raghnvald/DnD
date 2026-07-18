@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighter
+Status: WIP
 linter-yaml-title-alias: Fighter
 tags:
   - Klasse/Kämpfer

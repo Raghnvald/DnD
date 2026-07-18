@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solution; Gem Inventory
+Status: WIP
 linter-yaml-title-alias: Solution; Gem Inventory
 tags:
   - Quelle/5e/tce

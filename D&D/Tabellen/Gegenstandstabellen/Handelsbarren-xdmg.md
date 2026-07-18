@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Handelsbarren
+Status: WIP
 linter-yaml-title-alias: Handelsbarren
 tags:
   - Quelle/5e/xdmg

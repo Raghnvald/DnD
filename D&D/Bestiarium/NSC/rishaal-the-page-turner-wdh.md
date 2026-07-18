@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rishaal the Page-Turner
+Status: WIP
 linter-yaml-title-alias: Rishaal the Page-Turner
 tags:
   - Monster/Größe/Mittelgroß

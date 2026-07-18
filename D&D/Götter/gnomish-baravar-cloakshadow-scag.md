@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Baravar Cloakshadow
+Status: WIP
 linter-yaml-title-alias: Baravar Cloakshadow
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/gnomish
   - Quelle/5e/scag
 aliases:

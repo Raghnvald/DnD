@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gatekeeper Seal Adventures
+Status: WIP
 linter-yaml-title-alias: Gatekeeper Seal Adventures
 tags:
   - Quelle/5e/erlw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trickster Gods of Omu
+Status: WIP
 linter-yaml-title-alias: Trickster Gods of Omu
 tags:
   - Quelle/5e/toa

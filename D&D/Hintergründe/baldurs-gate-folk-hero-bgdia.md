@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Folk Hero"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Folk Hero"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Folk Hero"
-  - Baldur's Gate Folk Hero
 ---
 # Baldur's Gate Folk Hero
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 131*  

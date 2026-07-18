@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Bow of Melodies
-Kategorie: Beliebig, Bogen
+Kategorie: Fernkampfwaffe, beliebiger Bogen
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
+  - n/v
+Einstimmung: erforderlich
+Original: Bowling of Melodies
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Bow of Melodies
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

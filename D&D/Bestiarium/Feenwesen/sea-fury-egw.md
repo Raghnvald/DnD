@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sea Fury
+Status: WIP
 linter-yaml-title-alias: Sea Fury
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wetter; Niederschlag
+Status: WIP
 linter-yaml-title-alias: Wetter; Niederschlag
 tags:
   - Quelle/5e/dmg

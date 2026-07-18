@@ -1,11 +1,14 @@
 ---
-Bezeichnung: Hellfire Weapon
-Kategorie: Beliebige Waffe
+Bezeichnung: Höllenfeuerwaffe
+Original: Hellfire Weapon
+Kategorie: Waffe, beliebig
+Schaden: variiert
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-linter-yaml-title-alias: Hellfire Weapon
+  - n/v
+Kst.: n/v
+Gew.: variiert
+Status: WIP
+linter-yaml-title-alias: Höllenfeuerwaffe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
@@ -66,13 +69,14 @@ aliases:
   - Hellfire Trident
   - Hellfire War Pick
   - Hellfire Warhammer
-  - Hellfire Weapon
   - Hellfire Whip
   - Hellfire Yklwa
+  - Höllenfeuerwaffe
+status: WIP
 ---
-# Hellfire Weapon
+# Höllenfeuerwaffe
 *Uncommon*  
-![](/3-Mechanics/CLI/items/img/hellfire-weapon.webp#right)
+![](img/hellfire-weapon.webp#right)
 
 This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
 

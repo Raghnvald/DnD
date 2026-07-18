@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloves
+Status: WIP
 linter-yaml-title-alias: Cloves
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

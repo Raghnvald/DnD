@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Regenerate
+Status: WIP
 linter-yaml-title-alias: Regenerate
 classes:
   - Bard

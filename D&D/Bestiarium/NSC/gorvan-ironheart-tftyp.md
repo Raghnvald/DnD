@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorvan Ironheart
+Status: WIP
 linter-yaml-title-alias: Gorvan Ironheart
 tags:
   - Monster/Größe/Mittelgroß

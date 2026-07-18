@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Panopticus Wizard
+Status: WIP
 linter-yaml-title-alias: Panopticus Wizard
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iron Spider
+Status: WIP
 linter-yaml-title-alias: Iron Spider
 tags:
   - Monster/Größe/Mittelgroß

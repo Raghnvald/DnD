@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Na
+Status: WIP
 linter-yaml-title-alias: Na
 tags:
   - Monster/Größe/Klein

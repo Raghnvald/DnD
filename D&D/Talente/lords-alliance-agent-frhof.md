@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lords' Alliance Agent"
+Status: WIP
 linter-yaml-title-alias: "Lords' Alliance Agent"
 tags:
   - Kompendium/Talent

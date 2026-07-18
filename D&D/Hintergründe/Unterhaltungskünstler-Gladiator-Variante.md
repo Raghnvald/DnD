@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Entertainer (Gladiator) (Variant)
+Status: WIP
 linter-yaml-title-alias: Entertainer (Gladiator) (Variant)
 tags:
   - Kompendium/Hintergrund

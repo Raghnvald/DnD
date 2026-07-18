@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Deep Gnome
+Status: WIP
 linter-yaml-title-alias: Spells for Deep Gnome
 tags:
-  - Zauber/list/race/deep-gnome
+  - Zauber/Liste/race/deep-gnome
 aliases:
   - Spells for Deep Gnome
 ---

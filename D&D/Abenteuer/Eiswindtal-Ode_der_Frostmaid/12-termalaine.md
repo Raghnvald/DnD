@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Termalaine
+Status: WIP
 linter-yaml-title-alias: Termalaine
 tags:
   - Quelle/5e/idrotf

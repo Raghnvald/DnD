@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Ring des Psychischen Widerstands
 Kategorie: Ring
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Psychischen Widerstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring des Psychischen Widerstands
+status: completed
 ---
 # Ring des Psychischen Widerstands
 *Ring, selten (benötigt Einstimmung)*  

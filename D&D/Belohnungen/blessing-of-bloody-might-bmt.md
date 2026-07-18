@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Bloody Might
+Status: WIP
 linter-yaml-title-alias: Blessing of Bloody Might
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/bmt
 aliases:
   - Blessing of Bloody Might

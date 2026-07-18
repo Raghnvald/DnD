@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backpack
+Status: WIP
 linter-yaml-title-alias: Backpack
 tags:
   - Gegenstand/Ausrüstung/

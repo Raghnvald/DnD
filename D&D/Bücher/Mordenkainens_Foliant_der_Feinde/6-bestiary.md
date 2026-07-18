@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bestiary
+Status: WIP
 linter-yaml-title-alias: Bestiary
 tags:
   - Quelle/5e/mtf

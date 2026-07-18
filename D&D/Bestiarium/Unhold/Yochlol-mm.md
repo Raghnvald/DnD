@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yochlol
+Status: WIP
 linter-yaml-title-alias: Yochlol
 tags:
   - Monster/Größe/Mittelgroß

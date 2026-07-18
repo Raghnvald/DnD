@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Euryale
+Status: WIP
 linter-yaml-title-alias: Euryale
 tags:
   - Monster/Größe/Mittelgroß

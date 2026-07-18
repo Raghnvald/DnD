@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Karametra's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Karametra's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

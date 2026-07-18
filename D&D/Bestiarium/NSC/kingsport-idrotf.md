@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kingsport
+Status: WIP
 linter-yaml-title-alias: Kingsport
 tags:
   - Monster/Größe/Mittelgroß

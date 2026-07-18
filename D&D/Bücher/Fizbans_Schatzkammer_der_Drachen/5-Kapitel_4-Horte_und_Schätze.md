@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lairs and Hoards
+Status: WIP
 linter-yaml-title-alias: Lairs and Hoards
 tags:
   - Quelle/5e/ftd

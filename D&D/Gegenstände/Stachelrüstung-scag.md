@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stachelrüstung
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Stachelrüstung
 tags:
   - Gegenstand/Rüstung/Mittel

@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Charm Person
+Bezeichnung: Person bezaubern
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G
+Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
-linter-yaml-title-alias: Charm Person
+Status: WIP
+linter-yaml-title-alias: Person bezaubern
 classes:
   - Bard (Magical Secrets)
   - Cleric (Trickery Domain)
@@ -25,15 +26,15 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Charm Person
+  - Person bezaubern
 ---
-# Charm Person
+# Person bezaubern
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 Action

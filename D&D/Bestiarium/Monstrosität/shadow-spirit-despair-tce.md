@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow Spirit (Despair)
+Status: WIP
 linter-yaml-title-alias: Shadow Spirit (Despair)
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Poltergeist
+Status: WIP
 linter-yaml-title-alias: Poltergeist
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

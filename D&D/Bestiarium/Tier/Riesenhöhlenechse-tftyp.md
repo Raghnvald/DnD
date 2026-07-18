@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riesenhöhlenechse
+Status: WIP
 linter-yaml-title-alias: Riesenhöhlenechse
 tags:
   - Monster/Größe/Riesig

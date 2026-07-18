@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guthash
+Status: WIP
 linter-yaml-title-alias: Guthash
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Langfristiger Wahnsinn
+Status: WIP
 linter-yaml-title-alias: Langfristiger Wahnsinn
 tags:
   - Quelle/5e/dmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Red Tiger)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Red Tiger)
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,10 +2,10 @@
 Bezeichnung: Gewöhnlicher Wein (Karaffe)
 Kategorie: Essen und Trinken
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 SM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Gewöhnlicher Wein (Karaffe)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

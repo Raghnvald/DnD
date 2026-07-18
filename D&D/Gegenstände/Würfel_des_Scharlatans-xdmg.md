@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Charlatan's Die"
+Status: WIP
 linter-yaml-title-alias: "Charlatan's Die"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Fire Giant Strength
+Status: WIP
 linter-yaml-title-alias: Potion of Fire Giant Strength
 tags:
   - Gegenstand/Seltenheit/selten

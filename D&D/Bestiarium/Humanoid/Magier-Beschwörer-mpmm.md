@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Conjurer Wizard
+Status: WIP
 linter-yaml-title-alias: Conjurer Wizard
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Thelanis, the Faerie Court
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Thelanis, the Faerie Court
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Thelanis, the Faerie Court"
+  - Manifest Charm of Thelanis, the Faerie Court
   - Manifest Charm of Thelanis, the Faerie Court
 ---
 # Manifest Charm of Thelanis, the Faerie Court

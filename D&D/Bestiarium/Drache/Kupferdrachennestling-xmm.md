@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Copper Dragon Wyrmling
 Kategorie: Drache (Metallisch)
 Größe: Mittelgroß
+Status: WIP
 linter-yaml-title-alias: Copper Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß

@@ -6,7 +6,8 @@ Reichweite: 18 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Wasserwand
 classes:
   - Bard

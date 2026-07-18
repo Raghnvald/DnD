@@ -7,8 +7,7 @@ Größe: Gigantisch
 HG: "10"
 Habitat:
   - /
-image: token/aerosaur-bgg.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aerosaur
 tags:
   - Monster/Größe/Gigantisch
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Aerosaur
+image: token/aerosaur-bgg.webp
+status: WIP
 ---
 # [Aerosaur](3-Mechanics\CLI\bestiary\monstrosity/aerosaur-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 128*  

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Strixhaven Mascot
+Status: WIP
 linter-yaml-title-alias: Spells for Strixhaven Mascot
 tags:
-  - ttrpg-cli/spell/list/feat/strixhaven-mascot
+  - Zauber/Liste/feat/strixhaven-mascot
 aliases:
-  - "Spells for Strixhaven Mascot"
+  - Spells for Strixhaven Mascot
   - Spells for Strixhaven Mascot
 ---
 # Spells for Strixhaven Mascot

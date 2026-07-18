@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Stars
+Status: WIP
 linter-yaml-title-alias: Circle of the Stars
 tags:
   - Klasse/Druide/stars

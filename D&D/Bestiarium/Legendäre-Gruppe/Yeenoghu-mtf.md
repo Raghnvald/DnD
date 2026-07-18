@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yeenoghu
+Status: WIP
 linter-yaml-title-alias: Yeenoghu
 tags:
   - Monster/legendary-group

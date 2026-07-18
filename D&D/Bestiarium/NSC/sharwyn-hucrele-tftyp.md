@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sharwyn Hucrele
+Status: WIP
 linter-yaml-title-alias: Sharwyn Hucrele
 tags:
   - Monster/Größe/Mittelgroß

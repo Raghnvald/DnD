@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Scale Color
+Status: WIP
 linter-yaml-title-alias: Physical Variations; Scale Color
 tags:
   - Quelle/5e/vgm

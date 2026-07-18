@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Standard Languages
+Status: WIP
 linter-yaml-title-alias: Standard Languages
 tags:
   - Quelle/5e/ggr

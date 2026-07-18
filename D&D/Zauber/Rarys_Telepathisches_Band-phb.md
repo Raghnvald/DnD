@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Rary's Telepathic Bond"
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: "Rary's Telepathic Bond"
 classes:
   - Bard (Magical Secrets)

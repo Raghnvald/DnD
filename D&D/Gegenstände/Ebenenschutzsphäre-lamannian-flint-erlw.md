@@ -2,14 +2,15 @@
 Bezeichnung: Orb of Shielding (Lamannian Flint)
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Orb of Shielding (Lamannian Flint)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/erlw
@@ -17,6 +18,7 @@ aliases:
   - Lamannian Flint Crystal
   - Lamannian Flint Orb
   - Orb of Shielding (Lamannian Flint)
+status: WIP
 ---
 # Orb of Shielding (Lamannian Flint)
 *Wondrous item, common (requires attunement)*  

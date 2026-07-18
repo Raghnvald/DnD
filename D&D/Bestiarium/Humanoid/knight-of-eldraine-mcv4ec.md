@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knight of Eldraine
+Status: WIP
 linter-yaml-title-alias: Knight of Eldraine
 tags:
   - Monster/Größe/Mittelgroß

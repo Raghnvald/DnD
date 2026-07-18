@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hew Hackinstone
+Status: WIP
 linter-yaml-title-alias: Hew Hackinstone
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Contact Other Plane
+Status: WIP
 linter-yaml-title-alias: Contact Other Plane
 classes:
   - Bard

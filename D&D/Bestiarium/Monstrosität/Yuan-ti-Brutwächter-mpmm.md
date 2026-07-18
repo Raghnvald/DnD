@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Broodguard
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Broodguard
 tags:
   - Monster/Größe/Mittelgroß

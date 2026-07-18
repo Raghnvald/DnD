@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Zariel)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Zariel)
 tags:
-  - Zauber/list/subrace/tiefling-zariel
+  - Zauber/Liste/subrace/tiefling-zariel
 aliases:
   - Spells for Tiefling (Zariel)
 ---

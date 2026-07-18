@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brain in a Jar
+Status: WIP
 linter-yaml-title-alias: Brain in a Jar
 tags:
   - Monster/Größe/Klein

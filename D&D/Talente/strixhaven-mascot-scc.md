@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Strixhaven Mascot
+Status: WIP
 linter-yaml-title-alias: Strixhaven Mascot
 tags:
   - Kompendium/Talent
   - Quelle/5e/scc
 aliases:
-  - "Strixhaven Mascot"
+  - Strixhaven Mascot
   - Strixhaven Mascot
 ---
 # Strixhaven Mascot

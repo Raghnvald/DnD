@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Vampire
+Status: WIP
 linter-yaml-title-alias: Gnoll Vampire
 tags:
   - Monster/Größe/Mittelgroß

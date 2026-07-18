@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Challenge Ratings; Creatures by Challenge Rating
+Status: WIP
 linter-yaml-title-alias: Challenge Ratings; Creatures by Challenge Rating
 tags:
   - Quelle/5e/ftd

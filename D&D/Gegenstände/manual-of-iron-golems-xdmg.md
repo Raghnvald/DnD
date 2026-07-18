@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Manual of Iron Golems
+Status: WIP
 linter-yaml-title-alias: Manual of Iron Golems
 tags:
   - Gegenstand/Seltenheit/sehr_selten

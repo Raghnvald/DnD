@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Specter
+Status: WIP
 linter-yaml-title-alias: Specter
 tags:
   - Monster/Größe/Mittelgroß

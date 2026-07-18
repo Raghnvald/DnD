@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Holy Aura
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Holy Aura
 classes:
   - Bard (Magical Secrets)

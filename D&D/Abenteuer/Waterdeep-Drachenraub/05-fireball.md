@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fireball
+Status: WIP
 linter-yaml-title-alias: Fireball
 tags:
   - Quelle/5e/wdh

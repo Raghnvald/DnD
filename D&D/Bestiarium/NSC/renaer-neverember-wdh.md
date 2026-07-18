@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Renaer Neverember
+Status: WIP
 linter-yaml-title-alias: Renaer Neverember
 tags:
   - Monster/Größe/Mittelgroß

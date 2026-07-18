@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shield Dwarf Guard
+Status: WIP
 linter-yaml-title-alias: Shield Dwarf Guard
 tags:
   - Monster/Größe/Mittelgroß

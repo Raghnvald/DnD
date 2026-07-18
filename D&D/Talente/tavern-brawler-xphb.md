@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tavern Brawler
+Status: WIP
 linter-yaml-title-alias: Tavern Brawler
 tags:
   - Kompendium/Talent

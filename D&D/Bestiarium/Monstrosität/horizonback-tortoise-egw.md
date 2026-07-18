@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Horizonback Tortoise
+Status: WIP
 linter-yaml-title-alias: Horizonback Tortoise
 tags:
   - Monster/Größe/Gigantisch

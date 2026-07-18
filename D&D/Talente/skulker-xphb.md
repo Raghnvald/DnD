@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skulker
+Status: WIP
 linter-yaml-title-alias: Skulker
 tags:
   - Kompendium/Talent

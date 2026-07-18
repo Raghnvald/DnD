@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Metallic Peacekeeper
+Status: WIP
 linter-yaml-title-alias: Metallic Peacekeeper
 tags:
   - Monster/Größe/Mittelgroß

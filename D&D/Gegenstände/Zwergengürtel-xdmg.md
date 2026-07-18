@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Belt of Dwarvenkind
+Status: WIP
 linter-yaml-title-alias: Belt of Dwarvenkind
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

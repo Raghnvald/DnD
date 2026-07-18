@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Abomination
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Abomination
 tags:
   - Monster/Größe/Groß

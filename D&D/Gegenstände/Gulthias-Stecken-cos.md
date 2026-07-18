@@ -1,14 +1,17 @@
 ---
 Bezeichnung: Gulthias Staff
 Kategorie: Zauberstecken
+Status: WIP
 linter-yaml-title-alias: Gulthias Staff
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/cos
 aliases:
   - Gulthias Staff
+status: WIP
+Original: Gulthias Staff
 ---
 # Gulthias Staff
 *Staff, weapon, rare (requires attunement)*  

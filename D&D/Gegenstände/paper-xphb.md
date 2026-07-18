@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Paper
+Status: WIP
 linter-yaml-title-alias: Paper
 tags:
   - Gegenstand/Ausrüstung/

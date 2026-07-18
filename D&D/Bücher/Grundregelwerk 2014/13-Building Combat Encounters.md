@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 13-Building Combat Encounters
+Status: WIP
 tags: []
 ---
 # 13-Building Combat Encounters

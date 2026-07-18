@@ -2,10 +2,10 @@
 Bezeichnung: Tand aus Aerenal
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Tand aus Aerenal
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Tand aus Aerenal
+status: WIP
 ---
 # Tand aus Aerenal
 *Adventuring gear*  

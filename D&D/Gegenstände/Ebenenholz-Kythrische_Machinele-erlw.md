@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Imbued Wood (Kythrian Manchineel)
+Original: Imbued Wood (Kythrian Manchineel)
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Imbued Wood (Kythrian Manchineel)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/wundersam/generic-variant

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sweeping Cinder Strike
+Status: WIP
 linter-yaml-title-alias: Sweeping Cinder Strike
 tags:
   - Kompendium/Optionales/ed

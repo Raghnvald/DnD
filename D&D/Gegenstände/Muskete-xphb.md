@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Musket
+Status: WIP
 linter-yaml-title-alias: Musket
 tags:
   - Gegenstand/Seltenheit/keine

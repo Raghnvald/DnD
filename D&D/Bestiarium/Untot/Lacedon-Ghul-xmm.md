@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lacedon Ghoul
+Status: WIP
 linter-yaml-title-alias: Lacedon Ghoul
 tags:
   - Monster/Größe/Mittelgroß

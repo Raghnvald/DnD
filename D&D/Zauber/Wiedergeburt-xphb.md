@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reincarnate
+Status: WIP
 linter-yaml-title-alias: Reincarnate
 classes:
   - Bard

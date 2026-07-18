@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Anhang A: Charakter-Optionen"
+Status: WIP
 linter-yaml-title-alias: "Anhang A: Charakter-Optionen"
 tags:
   - Quelle/5e/cos

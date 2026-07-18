@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zeboim
+Status: WIP
 linter-yaml-title-alias: Zeboim
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Zeboim"
+  - Zeboim
   - Zeboim
 ---
 # Zeboim

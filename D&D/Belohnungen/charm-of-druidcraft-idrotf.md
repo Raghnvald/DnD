@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Druidcraft
+Status: WIP
 linter-yaml-title-alias: Charm of Druidcraft
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - Charm of Druidcraft

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deep Gnome (Svirfneblin)
+Status: WIP
 linter-yaml-title-alias: Deep Gnome (Svirfneblin)
 tags:
   - Monster/Größe/Klein

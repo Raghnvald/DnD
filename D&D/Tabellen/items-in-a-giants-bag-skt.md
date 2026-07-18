@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Items in a Giant's Bag"
+Status: WIP
 linter-yaml-title-alias: "Items in a Giant's Bag"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Items in a Giant's Bag"
-  - Items in a Giant's Bag
 ---
 # Items in a Giant's Bag
 *Source: Storm King's Thunder p. 18* 

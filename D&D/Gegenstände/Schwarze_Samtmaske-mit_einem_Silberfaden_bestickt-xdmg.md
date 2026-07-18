@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Black velvet mask stitched with silver thread
+Status: WIP
 linter-yaml-title-alias: Black velvet mask stitched with silver thread
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

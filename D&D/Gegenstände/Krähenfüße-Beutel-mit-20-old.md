@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Krähenfüße (Beutel mit 20)
+Status: WIP
 linter-yaml-title-alias: Krähenfüße (Beutel mit 20)
 tags:
   - Gegenstand/Ausrüstung

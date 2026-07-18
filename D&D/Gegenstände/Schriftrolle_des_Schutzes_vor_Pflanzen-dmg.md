@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Schriftrolle des Schutzes vor Pflanzen
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Schriftrolle des Schutzes vor Pflanzen
 tags:
   - Gegenstand/Seltenheit/selten
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schriftrolle des Schutzes vor Pflanzen
+status: completed
 ---
 # Schriftrolle des Schutzes vor Pflanzen
 *Schriftrolle, selten*  

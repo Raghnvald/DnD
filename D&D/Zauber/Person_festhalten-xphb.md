@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hold Person
+Status: WIP
 linter-yaml-title-alias: Hold Person
 classes:
   - Bard

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Campus Kerfuffle
+Status: WIP
 linter-yaml-title-alias: Campus Kerfuffle
 tags:
   - Quelle/5e/scc
 aliases:
-  - "Campus Kerfuffle"
+  - Campus Kerfuffle
   - Campus Kerfuffle
 ---
 # Campus Kerfuffle

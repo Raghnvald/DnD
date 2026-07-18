@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thorny Vegepygmy
+Status: WIP
 linter-yaml-title-alias: Thorny Vegepygmy
 tags:
   - Monster/Größe/Mittelgroß

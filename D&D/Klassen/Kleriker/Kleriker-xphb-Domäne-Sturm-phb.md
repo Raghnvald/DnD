@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Tempest Domain
+Status: WIP
 linter-yaml-title-alias: Tempest Domain
 tags:
   - Klasse/Kleriker/tempest
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Quelle/5e/phb
 aliases:
   - Tempest Domain

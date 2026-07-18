@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warrior Commander
+Status: WIP
 linter-yaml-title-alias: Warrior Commander
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

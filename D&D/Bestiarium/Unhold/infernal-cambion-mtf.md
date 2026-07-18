@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Infernal Cambion
+Status: WIP
 linter-yaml-title-alias: Infernal Cambion
 tags:
   - Monster/Größe/Mittelgroß

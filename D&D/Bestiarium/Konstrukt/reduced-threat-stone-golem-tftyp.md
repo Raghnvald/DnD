@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Stone Golem
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Stone Golem
 tags:
   - Monster/Größe/Groß

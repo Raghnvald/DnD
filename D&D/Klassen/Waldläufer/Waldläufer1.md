@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waldläufer
+Status: WIP
 linter-yaml-title-alias: Waldläufer
 tags:
   - Klasse/Waldläufer

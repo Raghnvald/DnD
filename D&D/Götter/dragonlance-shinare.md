@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Shinare
+Status: WIP
 linter-yaml-title-alias: Shinare
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Shinare"
+  - Shinare
   - Shinare
 ---
 # Shinare

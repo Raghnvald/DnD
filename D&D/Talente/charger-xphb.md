@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charger
+Status: WIP
 linter-yaml-title-alias: Charger
 tags:
   - Kompendium/Talent

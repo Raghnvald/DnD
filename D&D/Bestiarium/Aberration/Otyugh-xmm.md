@@ -5,6 +5,7 @@ Bezeichnung: Otyugh
 Kategorie: Aberration
 Größe: Groß
 HG: 5
+Status: WIP
 linter-yaml-title-alias: Otyugh
 tags:
   - Monster/Größe/Groß

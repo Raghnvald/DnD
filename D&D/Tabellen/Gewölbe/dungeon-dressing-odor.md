@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Odor
+Status: WIP
 linter-yaml-title-alias: Dungeon Dressing; Odor
 tags:
   - Quelle/5e/dmg

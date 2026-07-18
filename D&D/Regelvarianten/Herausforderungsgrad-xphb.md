@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Challenge Rating
+Status: WIP
 linter-yaml-title-alias: Challenge Rating
 tags:
   - Quelle/5e/xphb

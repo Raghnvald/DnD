@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Bazzoxan"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Bazzoxan"
 tags:
   - Quelle/5e/crcotn

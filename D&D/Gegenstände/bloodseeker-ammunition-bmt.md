@@ -3,13 +3,13 @@ Bezeichnung: Bloodseeker Ammunition
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Bloodseeker Ammunition
 tags:
-  - Gegenstand/Ausrüstung/ammunition
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
   - Gegenstand/Zeitalter/Futuristisch
@@ -22,6 +22,7 @@ aliases:
   - Bloodseeker Firearm Bullet
   - Bloodseeker Needle
   - Bloodseeker Sling Bullet
+status: WIP
 ---
 # Bloodseeker Ammunition
 *Ammunition, very rare*  

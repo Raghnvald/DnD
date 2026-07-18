@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Commoner
+Status: WIP
 linter-yaml-title-alias: Lizardfolk Commoner
 tags:
   - Monster/Größe/Mittelgroß

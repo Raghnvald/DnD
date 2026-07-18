@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Kneipenschläger
-linter-yaml-title-alias: Tavern Brawler
+Status: WIP
+linter-yaml-title-alias: Kneipenschläger
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Tavern Brawler
+  - Kneipenschläger
 ---
 # Kneipenschläger
 *Source: Player's Handbook p. 170*  

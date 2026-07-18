@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Selesnya Charm
+Status: WIP
 linter-yaml-title-alias: Selesnya Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Selesnya Charm

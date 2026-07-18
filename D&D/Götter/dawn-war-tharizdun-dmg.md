@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Tharizdun
+Status: WIP
 linter-yaml-title-alias: Tharizdun
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Quelle/5e/dmg
 aliases:
   - Tharizdun

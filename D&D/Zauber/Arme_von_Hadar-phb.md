@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: STR
 Schaden: 2d6 nekrotisch
+Status: completed
 linter-yaml-title-alias: Arme von Hadar
 classes:
   - Bard (Magical Secrets)
@@ -14,13 +15,14 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
-  - Kompendium/Talent/magic-initiate/warlock-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Hexenmeister-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
 aliases:
   - Arme von Hadar
   - Arms of Hadar
+Original: Arms of Hadar
 ---
 # Arme von Hadar
 *Beschwörung des 1. Grades*  
@@ -34,6 +36,6 @@ Du berufst dich auf die Macht Hadars, des Dunklen Hungers. Tentakel aus finstere
 
 **_Auf höheren Graden:_** Wenn du diesen Zauber mit einem Zauberplatz des 2. Grades oder höher wirkst, dann steigt der Schaden für jeden Zauberplatz-Grad über dem ersten um `1W6`.
 
-**Klassen**: [Barde (Magische Geheimnisse)](CLI/lists/list-spells-classes-bard.md); [Hexenmeister](CLI/lists/list-spells-classes-warlock.md)
+**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]
 
 *Quellen: Spielerhandbuch S. 215*

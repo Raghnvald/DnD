@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Primeval Owlbear
+Status: WIP
 linter-yaml-title-alias: Primeval Owlbear
 tags:
   - Monster/Größe/Riesig

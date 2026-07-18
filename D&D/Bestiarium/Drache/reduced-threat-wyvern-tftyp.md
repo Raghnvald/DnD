@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Wyvern
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Wyvern
 tags:
   - Monster/Größe/Groß

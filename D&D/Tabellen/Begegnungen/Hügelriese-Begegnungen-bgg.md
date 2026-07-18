@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hill Giant Encounters
+Status: WIP
 linter-yaml-title-alias: Hill Giant Encounters
 tags:
   - Quelle/5e/bgg

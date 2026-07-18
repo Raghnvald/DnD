@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Giant Rockspeaker
+Status: WIP
 linter-yaml-title-alias: Stone Giant Rockspeaker
 tags:
   - Monster/Größe/Riesig

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Flame Tongue
+Status: WIP
 linter-yaml-title-alias: Flame Tongue
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Kriegswaffe

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Githzerai
+Status: WIP
 linter-yaml-title-alias: Spells for Githzerai
 tags:
-  - Zauber/list/race/githzerai
+  - Zauber/Liste/race/githzerai
 aliases:
   - Spells for Githzerai
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phantasmal Force
+Status: WIP
 linter-yaml-title-alias: Phantasmal Force
 classes:
   - Bard

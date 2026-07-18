@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Musharib
+Status: WIP
 linter-yaml-title-alias: Musharib
 tags:
   - Monster/Größe/Mittelgroß

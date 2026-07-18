@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Banishing Smite
+Status: WIP
 linter-yaml-title-alias: Banishing Smite
 classes:
   - Artificer (Battle Smith)

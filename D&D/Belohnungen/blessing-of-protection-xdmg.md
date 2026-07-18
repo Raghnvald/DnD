@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Protection
+Status: WIP
 linter-yaml-title-alias: Blessing of Protection
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/xdmg
 aliases:
   - Blessing of Protection

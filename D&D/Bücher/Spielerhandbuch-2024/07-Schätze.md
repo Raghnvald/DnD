@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 7: Schätze"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 7: Schätze"
 tags:
   - Quelle/5e/dmg

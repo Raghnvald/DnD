@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glossary
+Status: WIP
 linter-yaml-title-alias: Glossary
 tags:
   - Quelle/5e/egw

@@ -2,13 +2,13 @@
 Bezeichnung: Ceremonial electrum dagger with a black pearl in the pommel
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 750 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Ceremonial electrum dagger with a black pearl in the pommel
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

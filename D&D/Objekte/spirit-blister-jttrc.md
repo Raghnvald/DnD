@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Spirit Blister
+Status: WIP
 linter-yaml-title-alias: Spirit Blister
 tags:
-  - Kompendium/Objekt/size/medium
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Mittelgroß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/jttrc
 aliases:
   - Spirit Blister

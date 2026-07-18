@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Artificer Initiate
+Status: WIP
 linter-yaml-title-alias: Spells for Artificer Initiate
 tags:
-  - Zauber/list/feat/artificer-initiate
+  - Zauber/Liste/feat/artificer-initiate
 aliases:
   - Spells for Artificer Initiate
 ---

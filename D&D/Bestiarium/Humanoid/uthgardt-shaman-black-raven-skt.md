@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Black Raven)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Black Raven)
 tags:
   - Monster/Größe/Mittelgroß

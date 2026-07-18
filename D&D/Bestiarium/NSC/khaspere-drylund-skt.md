@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Khaspere Drylund
+Status: WIP
 linter-yaml-title-alias: Khaspere Drylund
 tags:
   - Monster/Größe/Mittelgroß

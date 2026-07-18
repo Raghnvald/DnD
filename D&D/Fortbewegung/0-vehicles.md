@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Vehicles
+Status: WIP
 linter-yaml-title-alias: Index of Vehicles
 aliases:
   - Index of Vehicles

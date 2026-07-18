@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skills with Different Abilities
+Status: WIP
 linter-yaml-title-alias: Skills with Different Abilities
 tags:
   - Quelle/5e/phb

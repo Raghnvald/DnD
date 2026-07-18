@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: The Lands of Barovia"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: The Lands of Barovia"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 2: The Lands of Barovia"
-  - Chapter 2: The Lands of Barovia
 ---
 # Chapter 2: The Lands of Barovia
 *Source: Curse of Strahd, p. 23* 

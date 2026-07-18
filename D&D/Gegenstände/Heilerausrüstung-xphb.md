@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Healer's Kit"
+Status: WIP
 linter-yaml-title-alias: "Healer's Kit"
 tags:
   - Gegenstand/Ausrüstung/

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Statue of Talos
+Status: WIP
 linter-yaml-title-alias: Statue of Talos
 tags:
   - Monster/Größe/Groß

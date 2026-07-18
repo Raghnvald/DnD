@@ -2,9 +2,9 @@
 Bezeichnung: Glocke
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
+Gew.: n/v
 Status: completed
 linter-yaml-title-alias: Glocke
 tags:

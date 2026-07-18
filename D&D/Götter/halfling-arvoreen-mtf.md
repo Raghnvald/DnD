@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Arvoreen
+Status: WIP
 linter-yaml-title-alias: Arvoreen
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/halfling
   - Quelle/5e/mtf
 aliases:

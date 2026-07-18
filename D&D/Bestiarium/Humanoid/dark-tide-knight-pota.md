@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dark Tide Knight
+Status: WIP
 linter-yaml-title-alias: Dark Tide Knight
 tags:
   - Monster/Größe/Mittelgroß

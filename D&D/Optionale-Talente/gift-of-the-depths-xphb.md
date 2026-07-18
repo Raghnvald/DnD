@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Depths
+Status: WIP
 linter-yaml-title-alias: Gift of the Depths
 tags:
   - Kompendium/Optionales/ei

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Wand of Orcus
+Status: WIP
 linter-yaml-title-alias: Wand of Orcus
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

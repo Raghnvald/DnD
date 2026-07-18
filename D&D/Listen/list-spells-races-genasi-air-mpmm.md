@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Genasi (Air)
+Status: WIP
 linter-yaml-title-alias: Spells for Genasi (Air)
 tags:
-  - Zauber/list/subrace/genasi-air
+  - Zauber/Liste/subrace/genasi-air
 aliases:
   - Spells for Genasi (Air)
 ---

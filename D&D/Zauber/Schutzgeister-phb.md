@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: WEI
 Schaden: 3d8
+Status: WIP
 linter-yaml-title-alias: Schutzgeister
 classes:
   - Bard (Magical Secrets)

@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Ring der Wasserelementar-Herrschaft
 Kategorie: Ring
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Status: completed
 linter-yaml-title-alias: Ring der Wasserelementar-Herrschaft
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
@@ -11,7 +15,7 @@ aliases:
   - Ring der Wasserelementar-Herrschaft
 ---
 # Ring der Wasserelementar-Herrschaft
-*Ring, legendär (benötigt Einstimmung)*  
+*Ring, legendär (erfordert Einstimmung)*  
 
 Während du diesen Ring trägst, hast du einen Vorteil auf Angriffswürfe gegen Elementare der Ebene des Wassers und diese einen Nachteil auf Angriffswürfe gegen dich. Zusätzlich hast du Zugriff auf Eigenschaften, die mit der Ebene des Wassers verknüpft sind.
 

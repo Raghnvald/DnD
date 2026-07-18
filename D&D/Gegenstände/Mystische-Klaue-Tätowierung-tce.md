@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Eldritch Claw Tattoo
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Eldritch Claw Tattoo
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce

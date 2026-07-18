@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Illusory Script
 classes:
   - Bard
@@ -22,8 +23,8 @@ tags:
   - Klasse/Hexenmeister
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Kompendium/Talent/shadow-touched
   - Quelle/5e/xphb
   - Subklasse/illusionist

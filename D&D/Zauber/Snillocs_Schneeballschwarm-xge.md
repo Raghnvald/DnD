@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d6 Kälte
+Status: WIP
 linter-yaml-title-alias: Snillocs Schneeballschwarm
 classes:
   - Bard

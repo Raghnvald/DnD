@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hat of Wizardry
+Status: WIP
 linter-yaml-title-alias: Hat of Wizardry
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:

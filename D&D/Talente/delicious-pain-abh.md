@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Delicious Pain
+Status: WIP
 linter-yaml-title-alias: Delicious Pain
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Delicious Pain"
+  - Delicious Pain
   - Delicious Pain
 ---
 # Delicious Pain

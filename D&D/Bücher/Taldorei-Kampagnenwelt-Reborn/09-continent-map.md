@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Continent Map
+Status: WIP
 linter-yaml-title-alias: Continent Map
 tags:
   - Quelle/5e/tdcsr

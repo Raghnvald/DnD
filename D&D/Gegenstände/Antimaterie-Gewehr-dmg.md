@@ -1,7 +1,16 @@
 ---
-Bezeichnung: Antimatter Rifle
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Antimatter Rifle
+Bezeichnung: Antimaterie-Gewehr
+Original: Antimatter Rifle
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 6d8 Nekrotisch
+Eigenschaften:
+  - Geschosse
+  - Nachladen (2 Schuss)
+  - Zweihändig
+Kst.: n/v
+Gew.: 5,0 kg
+Status: completed
+linter-yaml-title-alias: Antimaterie-Gewehr
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,14 +18,14 @@ tags:
   - Gegenstand/Zeitalter/Futuristisch
   - Quelle/5e/dmg
 aliases:
-  - Antimatter Rifle
+  - Antimaterie-Gewehr
 ---
-# Antimatter Rifle
-*Weapon*  
+# Antimaterie-Gewehr
+*Fernkampf-Kriegswaffe, futuristisch*  
 
-- **Damage**: 6d8 necrotic
-- **Range**: 120/360
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 10.0 lbs.
+- **Schaden**: 6d8 Nekrotisch
+- **Reichweite**: 36/108
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Nachladen|Nachladen]] (2 Schuss), [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 5,0 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

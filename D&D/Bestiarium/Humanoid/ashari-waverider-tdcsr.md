@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ashari Waverider
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ashari Waverider
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Ashari Waverider
+status: WIP
 ---
 # [Ashari Waverider](3-Mechanics\CLI\bestiary\humanoid/ashari-waverider-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 230*  

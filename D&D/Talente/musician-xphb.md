@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Musician
+Status: WIP
 linter-yaml-title-alias: Musician
 tags:
   - Kompendium/Talent

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Party at Paliset Hall
+Status: WIP
 linter-yaml-title-alias: Party at Paliset Hall
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Party at Paliset Hall"
+  - Party at Paliset Hall
   - Party at Paliset Hall
 ---
 # Party at Paliset Hall

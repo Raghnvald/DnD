@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yagra Stonefist
+Status: WIP
 linter-yaml-title-alias: Yagra Stonefist
 tags:
   - Monster/Größe/Mittelgroß

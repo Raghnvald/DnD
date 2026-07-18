@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Unsterblichkeit
+Status: WIP
 linter-yaml-title-alias: Gabe der Unsterblichkeit
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Immortality

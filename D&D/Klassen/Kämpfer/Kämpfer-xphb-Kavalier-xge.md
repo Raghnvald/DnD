@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cavalier
+Status: WIP
 linter-yaml-title-alias: Cavalier
 tags:
   - Klasse/Kämpfer/cavalier

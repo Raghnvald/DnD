@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Braxow
+Status: WIP
 linter-yaml-title-alias: Braxow
 tags:
   - Monster/Größe/Riesig

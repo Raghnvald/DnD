@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Tarrasque)
+Status: WIP
 linter-yaml-title-alias: Scroll of Titan Summoning (Tarrasque)
 tags:
   - Gegenstand/Seltenheit/legendär

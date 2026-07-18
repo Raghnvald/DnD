@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Leitfaden der verstummten Sprache
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Leitfaden der verstummten Sprache
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg

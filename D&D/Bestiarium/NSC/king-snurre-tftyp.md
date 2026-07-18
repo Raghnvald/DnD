@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: King Snurre
+Status: WIP
 linter-yaml-title-alias: King Snurre
 tags:
   - Monster/Größe/Riesig

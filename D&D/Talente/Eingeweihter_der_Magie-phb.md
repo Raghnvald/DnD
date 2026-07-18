@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Eingeweihter der Magie
-linter-yaml-title-alias: Magic Initiate
+Status: WIP
+linter-yaml-title-alias: Eingeweihter der Magie
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Magic Initiate
+  - Eingeweihter der Magie
 ---
 # Eingeweihter der Magie
 *Source: Player's Handbook p. 168*  

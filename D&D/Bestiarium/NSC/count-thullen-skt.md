@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Count Thullen
+Status: WIP
 linter-yaml-title-alias: Count Thullen
 tags:
   - Monster/Größe/Riesig

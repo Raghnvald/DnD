@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stable
+Status: WIP
 linter-yaml-title-alias: Stable
 tags:
   - Kompendium/Bastion

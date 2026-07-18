@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sun Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Sun Card
 tags:
   - Gegenstand/Seltenheit/legendär

@@ -2,10 +2,10 @@
 Bezeichnung: Horn
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 3 GM
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Horn
 tags:
   - Gegenstand/Ausrüstung/Instrument
@@ -17,7 +17,7 @@ aliases:
 # Horn
 *Instrument*  
 
-- **Cost**: 3 gp
-- **Weight**: 2.0 lbs.
+- **Kosten**: 3 GM
+- **Gewicht**: 2.0 lbs.
 
 *Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

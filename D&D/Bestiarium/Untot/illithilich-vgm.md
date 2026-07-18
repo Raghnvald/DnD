@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Illithilich
+Status: WIP
 linter-yaml-title-alias: Illithilich
 tags:
   - Monster/Größe/Mittelgroß

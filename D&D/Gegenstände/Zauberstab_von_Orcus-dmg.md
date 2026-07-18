@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Zauberstab von Orcus
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Zauberstab von Orcus
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
@@ -11,6 +12,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberstab von Orcus
+status: WIP
+Original: Wand of Orcus
 ---
 # Zauberstab von Orcus
 *Weapon ([mace](/3-Mechanics/CLI/items/mace.md)), wand, artifact (requires attunement)*  

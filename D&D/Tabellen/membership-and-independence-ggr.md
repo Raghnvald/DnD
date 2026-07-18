@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Membership and Independence
+Status: WIP
 linter-yaml-title-alias: Membership and Independence
 tags:
   - Quelle/5e/ggr

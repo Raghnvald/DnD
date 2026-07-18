@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rod of Mercurial Form
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Rod of Mercurial Form
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artillerist
+Status: WIP
 linter-yaml-title-alias: Artillerist
 tags:
   - Klasse/Artifizient/artillerist

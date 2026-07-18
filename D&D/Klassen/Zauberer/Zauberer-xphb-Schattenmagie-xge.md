@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow Magic
+Status: WIP
 linter-yaml-title-alias: Shadow Magic
 tags:
   - Klasse/Zauberer/shadow

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Klothys's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Klothys's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

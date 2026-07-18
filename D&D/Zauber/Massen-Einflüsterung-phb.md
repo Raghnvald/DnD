@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mass Suggestion
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Mass Suggestion
 classes:
   - Bard (Magical Secrets)

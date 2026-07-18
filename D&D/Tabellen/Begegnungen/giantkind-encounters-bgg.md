@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giantkind Encounters
+Status: WIP
 linter-yaml-title-alias: Giantkind Encounters
 tags:
   - Quelle/5e/bgg

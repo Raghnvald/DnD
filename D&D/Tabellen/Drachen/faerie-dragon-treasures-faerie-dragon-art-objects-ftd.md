@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faerie Dragon Treasures; Faerie Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Faerie Dragon Treasures; Faerie Dragon Art Objects
 tags:
   - Quelle/5e/ftd

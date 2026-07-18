@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Udaak
+Status: WIP
 linter-yaml-title-alias: Udaak
 tags:
   - Monster/Größe/Gigantisch

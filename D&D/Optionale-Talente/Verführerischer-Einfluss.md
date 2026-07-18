@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Verführerischer Einfluss
+Status: WIP
 linter-yaml-title-alias: Verführerischer Einfluss
 tags:
   - Kompendium/Optionales/Anrufungen

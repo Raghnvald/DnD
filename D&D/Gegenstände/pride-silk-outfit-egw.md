@@ -2,7 +2,7 @@
 Bezeichnung: Pride Silk Outfit
 Kst.: 500 GM
 Gew.: 2,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Pride Silk Outfit
 tags:
   - Gegenstand/Ausrüstung/
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Pride Silk Outfit
+status: WIP
 ---
 # Pride Silk Outfit
 *Adventuring gear*  

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Auril (Third Form)
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Auril (Third Form)
 tags:
   - Monster/Größe/Klein
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Auril (Third Form)
+status: WIP
 ---
 # [Auril (Third Form)](3-Mechanics\CLI\bestiary\npc/auril-third-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 278*  

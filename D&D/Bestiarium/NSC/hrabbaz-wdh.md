@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hrabbaz
+Status: WIP
 linter-yaml-title-alias: Hrabbaz
 tags:
   - Monster/Größe/Mittelgroß

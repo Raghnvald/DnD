@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Style, Fighter
+Status: WIP
 linter-yaml-title-alias: Fighting Style, Fighter
 tags:
   - Quelle/5e/phb

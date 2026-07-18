@@ -2,10 +2,10 @@
 Bezeichnung: Tand des Eiswindtals
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Tand des Eiswindtals
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Tand des Eiswindtals
+status: WIP
 ---
 # Tand des Eiswindtals
 *Adventuring gear*  

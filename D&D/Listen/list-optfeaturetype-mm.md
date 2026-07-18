@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Metamagic
+Status: WIP
 linter-yaml-title-alias: Metamagic
 tags:
   - Quelle/5e/phb

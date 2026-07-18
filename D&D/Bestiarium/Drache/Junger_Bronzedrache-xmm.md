@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Bronze Dragon
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Young Bronze Dragon
 tags:
   - Monster/Größe/Groß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Young Bronze Dragon
+status: WIP
 ---
 # [Young Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/young-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Sarula Iliene
+Status: WIP
 linter-yaml-title-alias: Sarula Iliene
 tags:
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

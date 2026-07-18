@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schule der Eloquenz
+Status: WIP
 tags:
   - Klasse/Barde
   - Quelle/5e/tce

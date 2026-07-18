@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Beast Speech
+Status: WIP
 linter-yaml-title-alias: Spells for Beast Speech
 tags:
-  - Zauber/list/optfeature/beast-speech
+  - Zauber/Liste/optfeature/beast-speech
 aliases:
   - Spells for Beast Speech
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trickbeutel
+Status: WIP
 linter-yaml-title-alias: Trickbeutel
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 21: Terminus Level"
+Status: WIP
 linter-yaml-title-alias: "Level 21: Terminus Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 21: Terminus Level"
-  - Level 21: Terminus Level
 ---
 # Level 21: Terminus Level
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 265* 

@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nellik
 Image: token/nellik-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Nellik
 tags:
   - Monster/Größe/Groß

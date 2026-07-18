@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Orrery and Components"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Orrery and Components"
 tags:
   - Quelle/5e/ai

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hanseath
+Status: WIP
 linter-yaml-title-alias: Hanseath
 tags:
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Giant Treasures"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Giant Treasures"
 tags:
   - Quelle/5e/bgg
 aliases:
   - "Chapter 5: Giant Treasures"
-  - Chapter 5: Giant Treasures
 ---
 # Chapter 5: Giant Treasures
 *Source: Bigby Presents: Glory of the Giants, p. 105* 

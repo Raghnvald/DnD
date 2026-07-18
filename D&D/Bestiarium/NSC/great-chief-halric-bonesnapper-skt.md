@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Great Chief Halric Bonesnapper
+Status: WIP
 linter-yaml-title-alias: Great Chief Halric Bonesnapper
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Coiling Grasp Tattoo
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Coiling Grasp Tattoo
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce

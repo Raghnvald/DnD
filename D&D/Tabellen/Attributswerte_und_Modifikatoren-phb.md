@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Attributswerte und Modifikatoren
-linter-yaml-title-alias: Ability Scores and Modifiers
+Status: WIP
+linter-yaml-title-alias: Attributswerte und Modifikatoren
 tags:
   - Quelle/5e/phb
 aliases:
-  - Ability Scores and Modifiers
+  - Attributswerte und Modifikatoren
 ---
 # Attributswerte und Modifikatoren
 *Source: Player's Handbook p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

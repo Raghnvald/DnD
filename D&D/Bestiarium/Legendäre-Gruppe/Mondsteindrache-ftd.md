@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moonstone Dragon
+Status: WIP
 linter-yaml-title-alias: Moonstone Dragon
 tags:
   - Monster/legendary-group

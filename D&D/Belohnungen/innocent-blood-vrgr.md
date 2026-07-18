@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Innocent Blood
+Status: WIP
 linter-yaml-title-alias: Innocent Blood
 tags:
-  - Kompendium/Belohnung/curse
+  - Kompendium/Belohnung/Fluch
   - Quelle/5e/vrgr
 aliases:
-  - "Innocent Blood"
+  - Innocent Blood
   - Innocent Blood
 ---
 # Innocent Blood

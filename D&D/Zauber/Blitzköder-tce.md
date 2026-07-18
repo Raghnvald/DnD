@@ -7,6 +7,7 @@ Komponenten: V
 Wirkungsdauer: Sofort
 Angriff: STR
 Schaden: 1d8 Blitz
+Status: WIP
 linter-yaml-title-alias: Blitzköder
 classes:
   - Artificer
@@ -24,8 +25,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/tce
   - Rasse/elf/high-elf
   - Rasse/kobold

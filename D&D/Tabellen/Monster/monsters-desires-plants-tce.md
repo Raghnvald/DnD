@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Plants"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Plants"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Plants"
-  - Monsters' Desires; Plants
 ---
 # Monsters' Desires; Plants
 *Source: Tasha's Cauldron of Everything p. 148* 

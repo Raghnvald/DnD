@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Planar Philosopher
+Status: WIP
 linter-yaml-title-alias: Planar Philosopher
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/sato
 aliases:
-  - "Planar Philosopher"
+  - Planar Philosopher
   - Planar Philosopher
 ---
 # Planar Philosopher

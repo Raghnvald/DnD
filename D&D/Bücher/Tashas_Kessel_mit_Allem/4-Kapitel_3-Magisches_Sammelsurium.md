@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magical Miscellany
+Status: WIP
 linter-yaml-title-alias: Magical Miscellany
 tags:
   - Quelle/5e/tce

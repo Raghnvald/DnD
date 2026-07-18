@@ -7,7 +7,7 @@ Größe: Winzig
 HG: 2
 Habitat:
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Faerie Dragon (Blue)
 tags:
   - Monster/Größe/Winzig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Faerie Dragon (Blue)
+status: WIP
 ---
 # [Faerie Dragon (Blue)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-blue.md)
 *Source: Monster Manual p. 133*  

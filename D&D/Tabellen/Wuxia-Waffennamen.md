@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wuxia Weapon Names
+Status: WIP
 linter-yaml-title-alias: Wuxia Weapon Names
 tags:
   - Quelle/5e/dmg

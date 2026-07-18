@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Corellon
+Status: WIP
 linter-yaml-title-alias: Corellon
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Quelle/5e/dmg
 aliases:
   - Corellon

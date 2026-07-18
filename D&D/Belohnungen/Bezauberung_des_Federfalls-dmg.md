@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bezauberung des Federfalls
+Status: WIP
 linter-yaml-title-alias: Bezauberung des Federfalls
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dmg
 aliases:
   - Bezauberung des Federfalls

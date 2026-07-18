@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Monodrone
+Status: WIP
 linter-yaml-title-alias: Monodrone
 tags:
   - Monster/Größe/Mittelgroß

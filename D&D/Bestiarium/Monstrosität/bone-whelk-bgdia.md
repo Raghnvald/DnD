@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Whelk
+Status: WIP
 linter-yaml-title-alias: Bone Whelk
 tags:
   - Monster/Größe/Groß

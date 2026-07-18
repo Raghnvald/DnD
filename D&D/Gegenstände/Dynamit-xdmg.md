@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dynamite Stick
+Status: WIP
 linter-yaml-title-alias: Dynamite Stick
 tags:
   - Gegenstand/Seltenheit/keine

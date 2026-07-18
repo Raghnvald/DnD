@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Galdric
+Status: WIP
 linter-yaml-title-alias: Galdric
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Galdric

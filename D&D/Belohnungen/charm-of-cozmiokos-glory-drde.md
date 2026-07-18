@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Charm of Cozmioko's Glory"
+Status: WIP
 linter-yaml-title-alias: "Charm of Cozmioko's Glory"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/drde
 aliases:
   - "Charm of Cozmioko's Glory"

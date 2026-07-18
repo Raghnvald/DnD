@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix: Art of Eberron"
+Status: WIP
 linter-yaml-title-alias: "Appendix: Art of Eberron"
 tags:
   - Quelle/5e/efa

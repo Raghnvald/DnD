@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Painter's Supplies"
+Status: WIP
 linter-yaml-title-alias: "Painter's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

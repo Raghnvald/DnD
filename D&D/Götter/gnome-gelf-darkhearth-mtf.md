@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gelf Darkhearth
+Status: WIP
 linter-yaml-title-alias: Gelf Darkhearth
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

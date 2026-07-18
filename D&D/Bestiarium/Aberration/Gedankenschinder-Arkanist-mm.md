@@ -5,7 +5,7 @@ Bezeichnung: Mind Flayer Arcanist
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Mind Flayer Arcanist
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Mind Flayer Arcanist
+status: WIP
 ---
 # [Mind Flayer Arcanist](3-Mechanics\CLI\bestiary\aberration/mind-flayer-arcanist.md)
 *Source: Monster Manual p. 222*  

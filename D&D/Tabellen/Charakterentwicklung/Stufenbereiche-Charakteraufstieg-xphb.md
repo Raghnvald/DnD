@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stufenbereiche; Charakteraufstieg
+Status: WIP
 linter-yaml-title-alias: Stufenbereiche; Charakteraufstieg
 tags:
   - Quelle/5e/xphb

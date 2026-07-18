@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Balance and Ruin
+Status: WIP
 linter-yaml-title-alias: Balance and Ruin
 tags:
   - Kompendium/Bedrohung/mech

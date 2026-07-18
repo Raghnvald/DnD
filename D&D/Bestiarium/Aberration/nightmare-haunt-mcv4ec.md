@@ -5,7 +5,7 @@ Bezeichnung: Nightmare Haunt
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Nightmare Haunt
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mcv4ec
 aliases:
   - Nightmare Haunt
+status: WIP
 ---
 # [Nightmare Haunt](3-Mechanics\CLI\bestiary\aberration/nightmare-haunt-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

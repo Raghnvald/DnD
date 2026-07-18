@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Floon Blagmaar
+Status: WIP
 linter-yaml-title-alias: Floon Blagmaar
 tags:
   - Monster/Größe/Mittelgroß

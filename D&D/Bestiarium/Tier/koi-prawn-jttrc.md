@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Koi Prawn
+Status: WIP
 linter-yaml-title-alias: Koi Prawn
 tags:
   - Monster/Größe/Groß

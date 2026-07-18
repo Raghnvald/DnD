@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Heliod's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Heliod's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/heliods-votary
+  - Zauber/Liste/reward/heliods-votary
 aliases:
   - "Spells for Heliod's Votary"
 ---

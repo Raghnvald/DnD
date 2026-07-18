@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kammern; Art des Ausgangs
+Status: WIP
 linter-yaml-title-alias: Kammern; Art des Ausgangs
 tags:
   - Quelle/5e/dmg

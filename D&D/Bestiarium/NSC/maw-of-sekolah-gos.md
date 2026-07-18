@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maw of Sekolah
+Status: WIP
 linter-yaml-title-alias: Maw of Sekolah
 tags:
   - Monster/Größe/Riesig

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Half-Elf (Moon Elf or Sun Elf Descent)
+Status: WIP
 linter-yaml-title-alias: Spells for Half-Elf (Moon Elf or Sun Elf Descent)
 tags:
-  - Zauber/list/subrace/half-elf-moon-elf-or-sun-elf-descent
+  - Zauber/Liste/subrace/half-elf-moon-elf-or-sun-elf-descent
 aliases:
   - Spells for Half-Elf (Moon Elf or Sun Elf Descent)
 ---

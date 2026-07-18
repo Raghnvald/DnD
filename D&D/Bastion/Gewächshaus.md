@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Greenhouse
+Status: WIP
 linter-yaml-title-alias: Greenhouse
 tags:
   - Kompendium/Bastion

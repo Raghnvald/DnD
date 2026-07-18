@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parts of a Stat Block; Hit Dice by Size
+Status: WIP
 linter-yaml-title-alias: Parts of a Stat Block; Hit Dice by Size
 tags:
   - Quelle/5e/xmm

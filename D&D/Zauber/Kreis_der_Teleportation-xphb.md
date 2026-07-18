@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Teleportation Circle
+Status: WIP
 linter-yaml-title-alias: Teleportation Circle
 classes:
   - Bard

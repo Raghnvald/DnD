@@ -5,7 +5,7 @@ Bezeichnung: Greater Star Spawn Emissary
 Kategorie: Aberration
 Größe: Riesig
 HG: 21
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Greater Star Spawn Emissary
 tags:
   - Monster/Größe/Riesig
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Greater Star Spawn Emissary
+status: WIP
 ---
 # [Greater Star Spawn Emissary](3-Mechanics\CLI\bestiary\aberration/greater-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  

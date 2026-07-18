@@ -3,7 +3,7 @@ Bezeichnung: Ring des Wasserlaufens
 Kategorie: Ring
 Eigenschaften:
   - /
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Wasserlaufens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ring des Wasserlaufens
+status: completed
 ---
 # Ring des Wasserlaufens
 *Ring, ungewöhnlich*  

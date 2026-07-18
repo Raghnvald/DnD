@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Distant Spell
+Status: WIP
 linter-yaml-title-alias: Distant Spell
 tags:
   - Kompendium/Optionales/mm

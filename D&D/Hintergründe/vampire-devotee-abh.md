@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampire Devotee
+Status: WIP
 linter-yaml-title-alias: Vampire Devotee
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/abh
 aliases:
-  - "Vampire Devotee"
+  - Vampire Devotee
   - Vampire Devotee
 ---
 # Vampire Devotee

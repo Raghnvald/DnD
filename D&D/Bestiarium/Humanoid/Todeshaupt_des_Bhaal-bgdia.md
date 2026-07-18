@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Death's Head of Bhaal"
+Status: WIP
 linter-yaml-title-alias: "Death's Head of Bhaal"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - "Death's Head of Bhaal"
-  - Death's Head of Bhaal
 ---
 # [Death's Head of Bhaal](3-Mechanics\CLI\bestiary\humanoid/deaths-head-of-bhaal-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Sage"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Sage"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 7: Sage"
-  - Chapter 7: Sage
 ---
 # Chapter 7: Sage
 *Source: The Book of Many Things, p. 49* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Summon Construct
+Status: WIP
 linter-yaml-title-alias: Summon Construct
 classes:
   - Artificer

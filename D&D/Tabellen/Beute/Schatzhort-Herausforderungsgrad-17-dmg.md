@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Schatzhort: Herausforderungsgrad 17+"
+Status: WIP
 linter-yaml-title-alias: "Schatzhort: Herausforderungsgrad 17+"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Schatzhort: Herausforderungsgrad 17+"
-  - Treasure Hoard: Challenge 17+
+  - "Treasure Hoard: Challenge 17+"
 ---
 # Schatzhort: Herausforderungsgrad 17+
 *Quelle: Spielleiterhandbuch, S. 133* 

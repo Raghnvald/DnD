@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Objects
+Status: WIP
 linter-yaml-title-alias: Index of Objects
 aliases:
   - Index of Objects

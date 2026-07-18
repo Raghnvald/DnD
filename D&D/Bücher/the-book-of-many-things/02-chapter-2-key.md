@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Key"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Key"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 2: Key"
-  - Chapter 2: Key
 ---
 # Chapter 2: Key
 *Source: The Book of Many Things, p. 9* 

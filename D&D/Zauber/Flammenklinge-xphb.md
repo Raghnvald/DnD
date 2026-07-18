@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flame Blade
+Status: WIP
 linter-yaml-title-alias: Flame Blade
 classes:
   - Bard

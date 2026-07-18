@@ -47,6 +47,7 @@ views:
       direction: ASC
     order:
       - formula.Untitled 2
+      - status
     sort:
       - property: formula.Untitled 2
         direction: ASC

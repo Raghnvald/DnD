@@ -6,7 +6,8 @@ Reichweite: 18 Meter
 Komponenten: V, M
 Wirkungsdauer: 1 Minute
 Angriff: n/v
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Federfall
 classes:
   - Bard (Magical Secrets)
@@ -19,7 +20,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1

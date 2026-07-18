@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Banishment
+Status: WIP
 linter-yaml-title-alias: Banishment
 classes:
   - Bard

@@ -2,10 +2,10 @@
 Bezeichnung: Kuh
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Kuh
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Kuh
+Original: Cow
 ---
 # Kuh
 *Handelsgut*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Reliquary Charm
+Status: WIP
 linter-yaml-title-alias: Reliquary Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Reliquary Charm

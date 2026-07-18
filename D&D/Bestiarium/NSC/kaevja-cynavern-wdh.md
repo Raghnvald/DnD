@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kaevja Cynavern
+Status: WIP
 linter-yaml-title-alias: Kaevja Cynavern
 tags:
   - Monster/Größe/Mittelgroß

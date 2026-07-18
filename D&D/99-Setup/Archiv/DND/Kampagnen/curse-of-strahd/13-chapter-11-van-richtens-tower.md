@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 11: Van Richten's Tower"
+Status: WIP
 linter-yaml-title-alias: "Chapter 11: Van Richten's Tower"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 11: Van Richten's Tower"
-  - Chapter 11: Van Richten's Tower
 ---
 # Chapter 11: Van Richten's Tower
 *Source: Curse of Strahd, p. 167* 

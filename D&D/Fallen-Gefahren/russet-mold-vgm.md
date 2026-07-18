@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Russet Mold
+Status: WIP
 linter-yaml-title-alias: Russet Mold
 tags:
   - Quelle/5e/vgm

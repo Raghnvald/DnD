@@ -2,10 +2,10 @@
 Bezeichnung: Fass
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 35,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Fass
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*
 
 - **Kosten**: 2 GM
-- **Gewicht**: 35,0 kg.
+- **Gewicht**: 35,0 kg
 
 Ein Fass hat ein Fassungsvermögen von 160 Liter für Flüssigkeit oder feste Stoffe.
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Tyrant
+Status: WIP
 linter-yaml-title-alias: Death Tyrant
 tags:
   - Monster/Größe/Groß

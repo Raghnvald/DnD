@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Incendiary Cloud
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Incendiary Cloud
 classes:
   - Bard (Magical Secrets)

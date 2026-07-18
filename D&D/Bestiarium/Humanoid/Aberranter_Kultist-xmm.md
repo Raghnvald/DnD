@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aberrant Cultist
-image: token/aberrant-cultist-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Aberrant Cultist
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Aberrant Cultist
+image: token/aberrant-cultist-xmm.webp
 ---
 # [Aberrant Cultist](3-Mechanics\CLI\bestiary\humanoid/aberrant-cultist-xmm.md)
 *Source: Monster Manual (2024) p. 86*  

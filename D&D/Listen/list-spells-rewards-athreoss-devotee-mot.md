@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Athreos's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Athreos's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/athreoss-devotee
+  - Zauber/Liste/reward/athreoss-devotee
 aliases:
   - "Spells for Athreos's Devotee"
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Visions of Distant Realms
+Status: WIP
 linter-yaml-title-alias: Visions of Distant Realms
 tags:
   - Kompendium/Optionales/ei

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for One with Shadows
+Status: WIP
 linter-yaml-title-alias: Spells for One with Shadows
 tags:
-  - Zauber/list/optfeature/one-with-shadows
+  - Zauber/Liste/optfeature/one-with-shadows
 aliases:
   - Spells for One with Shadows
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Recap nach dem Fall von Strahd
+Status: WIP
 linter-yaml-title-alias: Recap nach dem Fall von Strahd
 tags:
   - Quelle/5e/pabtso

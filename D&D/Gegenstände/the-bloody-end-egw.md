@@ -1,15 +1,18 @@
 ---
 Bezeichnung: The Bloody End
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: The Bloody End
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
   - The Bloody End
+status: WIP
+Original: The Bloody End
 ---
 # The Bloody End
 *Weapon ([morningstar](/3-Mechanics/CLI/items/morningstar-xphb.md)), artifact (requires attunement)*  

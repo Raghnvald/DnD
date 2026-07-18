@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Battlehammer Dwarf
+Status: WIP
 linter-yaml-title-alias: Battlehammer Dwarf
 tags:
   - Monster/Größe/Mittelgroß

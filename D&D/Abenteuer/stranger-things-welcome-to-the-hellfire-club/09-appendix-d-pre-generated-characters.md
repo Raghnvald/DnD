@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Appendix D - Pre-Generated Characters
+Status: WIP
 linter-yaml-title-alias: Appendix D - Pre-Generated Characters
 tags:
   - Quelle/5e/wtthc
 aliases:
-  - "Appendix D - Pre-Generated Characters"
+  - Appendix D - Pre-Generated Characters
   - Appendix D - Pre-Generated Characters
 ---
 # Appendix D - Pre-Generated Characters

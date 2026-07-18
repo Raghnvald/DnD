@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shoosuva
+Status: WIP
 linter-yaml-title-alias: Shoosuva
 tags:
   - Monster/Größe/Groß

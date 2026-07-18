@@ -2,11 +2,12 @@
 Bezeichnung: Ring der Wärme
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Status: completed
 linter-yaml-title-alias: Ring der Wärme
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg

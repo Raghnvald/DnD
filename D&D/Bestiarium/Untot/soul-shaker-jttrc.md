@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Soul Shaker
+Status: WIP
 linter-yaml-title-alias: Soul Shaker
 tags:
   - Monster/Größe/Groß

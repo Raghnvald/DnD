@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: "Tenser's Floating Disk"
 classes:
   - Bard
@@ -19,8 +20,8 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xphb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1

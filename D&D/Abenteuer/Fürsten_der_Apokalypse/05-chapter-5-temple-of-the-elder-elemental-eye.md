@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Temple of the Elder Elemental Eye"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Temple of the Elder Elemental Eye"
 tags:
   - Quelle/5e/pota

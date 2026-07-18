@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Minions of Chaos
+Status: WIP
 linter-yaml-title-alias: Spells for Minions of Chaos
 tags:
-  - Zauber/list/optfeature/minions-of-chaos
+  - Zauber/Liste/optfeature/minions-of-chaos
 aliases:
   - Spells for Minions of Chaos
 ---

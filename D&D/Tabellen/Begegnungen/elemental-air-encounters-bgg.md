@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Air Encounters
+Status: WIP
 linter-yaml-title-alias: Elemental Air Encounters
 tags:
   - Quelle/5e/bgg

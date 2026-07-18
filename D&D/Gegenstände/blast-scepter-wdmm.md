@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Blast Scepter
 Kategorie: Zepter
+Status: WIP
 linter-yaml-title-alias: Blast Scepter
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/wdmm

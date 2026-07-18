@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wetter; 2
+Status: WIP
 linter-yaml-title-alias: Wetter; 2
 tags:
   - Quelle/5e/xdmg

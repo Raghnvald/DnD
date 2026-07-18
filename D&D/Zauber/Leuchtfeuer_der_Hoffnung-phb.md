@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Beacon of Hope
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Beacon of Hope
 classes:
   - Bard (Magical Secrets)
@@ -10,7 +11,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/Paladin/Schwur-der-Hingabe
   - Quelle/5e/phb
   - Zauber/Grad/3

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fear
+Status: WIP
 linter-yaml-title-alias: Fear
 classes:
   - Bard

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Trank der Unsichtbarkeit
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Trank der Unsichtbarkeit
 tags:
   - Gegenstand/Seltenheit/sehr_selten

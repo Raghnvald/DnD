@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Modron Quadrone
+Status: WIP
 linter-yaml-title-alias: Modron Quadrone
 tags:
   - Monster/Größe/Mittelgroß

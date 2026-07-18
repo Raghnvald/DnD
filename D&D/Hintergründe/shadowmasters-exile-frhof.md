@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Shadowmasters Exile
+Status: WIP
 linter-yaml-title-alias: Shadowmasters Exile
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Shadowmasters Exile"
+  - Shadowmasters Exile
   - Shadowmasters Exile
 ---
 # Shadowmasters Exile

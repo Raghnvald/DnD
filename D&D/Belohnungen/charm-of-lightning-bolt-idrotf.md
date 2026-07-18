@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Lightning Bolt
+Status: WIP
 linter-yaml-title-alias: Charm of Lightning Bolt
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - Charm of Lightning Bolt

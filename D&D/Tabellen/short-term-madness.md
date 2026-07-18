@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Short-Term Madness
+Status: WIP
 linter-yaml-title-alias: Short-Term Madness
 tags:
   - Quelle/5e/dmg

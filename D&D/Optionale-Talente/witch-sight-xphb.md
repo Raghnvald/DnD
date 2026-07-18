@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Witch Sight
+Status: WIP
 linter-yaml-title-alias: Witch Sight
 tags:
   - Kompendium/Optionales/ei

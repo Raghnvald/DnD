@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sibriex
+Status: WIP
 linter-yaml-title-alias: Sibriex
 tags:
   - Monster/Größe/Riesig

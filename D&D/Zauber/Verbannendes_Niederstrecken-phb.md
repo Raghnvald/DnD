@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Banishing Smite
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Banishing Smite
 classes:
   - Bard (Magical Secrets)

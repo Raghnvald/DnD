@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Griffon Cavalry Rider
+Status: WIP
 linter-yaml-title-alias: Griffon Cavalry Rider
 tags:
   - Monster/Größe/Mittelgroß

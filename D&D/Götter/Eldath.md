@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldath, Göttin des Friedens
+Status: WIP
 linter-yaml-title-alias: Eldath, Göttin des Friedens
 tags:
   - Kompendium/Götter

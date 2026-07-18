@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Evard's Black Tentacles"
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: "Evard's Black Tentacles"
 classes:
   - Bard (Magical Secrets)

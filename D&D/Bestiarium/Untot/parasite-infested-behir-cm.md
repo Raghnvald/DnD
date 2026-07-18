@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Parasite-infested Behir
+Status: WIP
 linter-yaml-title-alias: Parasite-infested Behir
 tags:
   - Monster/Größe/Riesig

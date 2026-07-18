@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Dragon's Blood"
+Status: WIP
 linter-yaml-title-alias: "Dragon's Blood"
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/erlw
 aliases:
   - "Dragon's Blood"

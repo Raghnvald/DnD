@@ -3,16 +3,17 @@ Bezeichnung: Schild der Geschossanziehung
 Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
+  - Verflucht
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schild der Geschossanziehung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
@@ -20,7 +21,7 @@ aliases:
   - Schild der Geschossanziehung
 ---
 # Schild der Geschossanziehung
-*Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten (benötigt Einstimmung)*
+*Rüstung ([[Gegenstände/Schild-phb|Schild]]), selten (erfordert Einstimmung)*
 <img src="shield-of-missile-attraction.webp" align="right" width="150">
 
 - **Rüstungsklasse**: 2

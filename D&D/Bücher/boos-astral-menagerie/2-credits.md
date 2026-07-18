@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Credits
+Status: WIP
 linter-yaml-title-alias: Credits
 tags:
   - Quelle/5e/bam
 aliases:
-  - "Credits"
+  - Credits
   - Credits
 ---
 # Credits

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Blood Fury Tattoo
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Blood Fury Tattoo
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce

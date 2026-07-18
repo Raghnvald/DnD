@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells for Half-Elf (Mark of Storm)
+Status: WIP
 linter-yaml-title-alias: Spells for Half-Elf (Mark of Storm)
 tags:
   - Subrasse/half-elf-mark-of-storm

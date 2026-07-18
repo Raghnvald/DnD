@@ -6,8 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d8 gleißend
-status:
-  - completed
+Status: WIP
 linter-yaml-title-alias: Heilige Flamme
 tags:
   - Klasse/Kleriker
@@ -17,6 +16,8 @@ tags:
 aliases:
   - Heilige Flamme
   - Sacred Flame
+status:
+  - completed
 ---
 # Heilige Flamme
 _Zaubertrick der Hervorrufung_

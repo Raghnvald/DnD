@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bread (loaf)
+Status: WIP
 linter-yaml-title-alias: Bread (loaf)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

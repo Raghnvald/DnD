@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spelljammer Academy: Behold H'Catha"
+Status: WIP
 linter-yaml-title-alias: "Spelljammer Academy: Behold H'Catha"
 tags:
   - Quelle/5e/sja

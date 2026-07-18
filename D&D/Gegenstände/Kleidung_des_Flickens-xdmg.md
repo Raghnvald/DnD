@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clothes of Mending
+Status: WIP
 linter-yaml-title-alias: Clothes of Mending
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

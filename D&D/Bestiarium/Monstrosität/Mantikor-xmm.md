@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manticore
+Status: WIP
 linter-yaml-title-alias: Manticore
 tags:
   - Monster/Größe/Groß

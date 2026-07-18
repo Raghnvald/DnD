@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barbarian
+Status: WIP
 linter-yaml-title-alias: Barbarian
 tags:
   - Klasse/Barbar

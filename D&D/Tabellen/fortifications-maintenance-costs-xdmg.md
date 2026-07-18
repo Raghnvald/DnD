@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fortifications; Maintenance Costs
+Status: WIP
 linter-yaml-title-alias: Fortifications; Maintenance Costs
 tags:
   - Quelle/5e/xdmg

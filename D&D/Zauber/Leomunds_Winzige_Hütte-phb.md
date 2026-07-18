@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Leomund's Tiny Hut"
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: "Leomund's Tiny Hut"
 classes:
   - Bard (Magical Secrets)

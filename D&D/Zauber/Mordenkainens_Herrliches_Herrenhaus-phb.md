@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Mordenkainen's Magnificent Mansion"
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Magnificent Mansion"
 classes:
   - Bard (Magical Secrets)

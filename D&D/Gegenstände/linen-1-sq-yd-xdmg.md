@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Linen (1 sq. yd.)
+Status: WIP
 linter-yaml-title-alias: Linen (1 sq. yd.)
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

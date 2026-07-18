@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Edelsteine zu 10 GM
+Status: WIP
 linter-yaml-title-alias: Edelsteine zu 10 GM
 tags:
   - Quelle/5e/xdmg

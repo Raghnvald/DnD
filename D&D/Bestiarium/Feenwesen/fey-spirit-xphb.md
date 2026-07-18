@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fey Spirit
+Status: WIP
 linter-yaml-title-alias: Fey Spirit
 tags:
   - Monster/Größe/Klein

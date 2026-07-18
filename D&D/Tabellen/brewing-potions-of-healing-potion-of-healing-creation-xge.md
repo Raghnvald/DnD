@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brewing Potions of Healing; Potion of Healing Creation
+Status: WIP
 linter-yaml-title-alias: Brewing Potions of Healing; Potion of Healing Creation
 tags:
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fähigkeitenwerte und Modifikatoren
+Status: WIP
 linter-yaml-title-alias: Fähigkeitenwerte und Modifikatoren
 tags:
   - Quelle/5e/phb

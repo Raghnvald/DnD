@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloudkill
+Status: WIP
 linter-yaml-title-alias: Cloudkill
 classes:
   - Artificer (Alchemist)

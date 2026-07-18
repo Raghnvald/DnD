@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Healer
+Status: WIP
 linter-yaml-title-alias: Healer
 tags:
   - Kompendium/Talent

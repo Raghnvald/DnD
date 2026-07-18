@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Umberto Noblin
+Original: Umberto Noblin
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 6
 Habitat:
   - /
-image: token/umberto-noblin-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Umberto Noblin
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Umberto Noblin
+image: token/umberto-noblin-veor.webp
 ---
 # Umberto Noblin
 *Quelle: Vecna: Eve of Ruin*  

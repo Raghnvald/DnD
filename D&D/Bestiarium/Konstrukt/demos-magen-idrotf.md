@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demos Magen
+Status: WIP
 linter-yaml-title-alias: Demos Magen
 tags:
   - Monster/Größe/Mittelgroß

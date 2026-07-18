@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Der Kampfablauf
+Status: WIP
 linter-yaml-title-alias: Der Kampfablauf
 tags: []
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dispel Evil and Good
+Status: WIP
 linter-yaml-title-alias: Dispel Evil and Good
 classes:
   - Bard

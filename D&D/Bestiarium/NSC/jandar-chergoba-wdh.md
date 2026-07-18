@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jandar Chergoba
+Status: WIP
 linter-yaml-title-alias: Jandar Chergoba
 tags:
   - Monster/Größe/Mittelgroß

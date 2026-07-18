@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Opal of the Ild Rune
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Opal of the Ild Rune
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/skt

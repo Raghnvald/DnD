@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix C: Maps"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Maps"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Appendix C: Maps"
-  - Appendix C: Maps
 ---
 # Appendix C: Maps
 *Source: Dungeon Master's Guide (2014), p. 310* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: White Maw
+Status: WIP
 linter-yaml-title-alias: White Maw
 tags:
   - Monster/Größe/Gigantisch

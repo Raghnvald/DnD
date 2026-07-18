@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dust of Deliciousness
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Dust of Deliciousness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

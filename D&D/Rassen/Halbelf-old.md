@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Halbelf
+Status: WIP
 linter-yaml-title-alias: Halbelf
 tags:
   - Quelle/5e/phb
 aliases:
-  - "Half-Elf"
   - Halbelf
+  - Half-Elf
 ---
 # Halbelf
 *Quelle: SRD / Grundregelwerk*  

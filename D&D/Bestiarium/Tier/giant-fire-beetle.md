@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Fire Beetle
+Status: WIP
 linter-yaml-title-alias: Giant Fire Beetle
 tags:
   - Monster/Größe/Klein

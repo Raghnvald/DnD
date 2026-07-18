@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clockwork Sorcery
+Status: WIP
 linter-yaml-title-alias: Clockwork Sorcery
 tags:
   - Klasse/Zauberer/clockwork

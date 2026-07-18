@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Nylea's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Nylea's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/nyleas-votary
+  - Zauber/Liste/reward/nyleas-votary
 aliases:
   - "Spells for Nylea's Votary"
 ---

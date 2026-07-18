@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Aarakocra
+Status: WIP
 linter-yaml-title-alias: Spells for Aarakocra
 tags:
-  - Zauber/list/race/aarakocra
+  - Zauber/Liste/race/aarakocra
 aliases:
   - Spells for Aarakocra
 ---

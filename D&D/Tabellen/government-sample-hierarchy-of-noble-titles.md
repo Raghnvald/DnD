@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Government; Sample Hierarchy of Noble Titles
+Status: WIP
 linter-yaml-title-alias: Government; Sample Hierarchy of Noble Titles
 tags:
   - Quelle/5e/dmg

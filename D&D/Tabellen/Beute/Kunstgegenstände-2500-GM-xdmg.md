@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 2,500 GP Art Objects
+Status: WIP
 linter-yaml-title-alias: 2,500 GP Art Objects
 tags:
   - Quelle/5e/xdmg

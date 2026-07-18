@@ -4,9 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Animated Object (Huge)
 Kategorie: Konstrukt
 Größe: Unbekannt
-HG: /
+HG: n/v
 Habitat:
-  - /
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Animated Object (Huge)
 tags:
   - Monster/Größe/Unbekannt

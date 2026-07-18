@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dark Fantasy Monsters
+Status: WIP
 linter-yaml-title-alias: Dark Fantasy Monsters
 tags:
   - Quelle/5e/vrgr

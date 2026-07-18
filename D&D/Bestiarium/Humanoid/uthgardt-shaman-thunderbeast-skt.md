@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Thunderbeast)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Thunderbeast)
 tags:
   - Monster/Größe/Mittelgroß

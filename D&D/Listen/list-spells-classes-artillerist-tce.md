@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Artillerist
+Status: WIP
 linter-yaml-title-alias: Spells for Artillerist
 tags:
-  - Zauber/list/subclass/artillerist
+  - Zauber/Liste/subclass/artillerist
 aliases:
   - Spells for Artillerist
 ---

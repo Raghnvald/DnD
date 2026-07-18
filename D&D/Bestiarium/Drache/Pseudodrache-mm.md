@@ -12,7 +12,7 @@ Habitat:
   - Stadt
   - Wald
   - Wüste
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Pseudodragon
 tags:
   - Monster/Größe/Winzig
@@ -27,6 +27,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Pseudodragon
+status: WIP
 ---
 # [Pseudodragon](3-Mechanics\CLI\bestiary\dragon/pseudodragon.md)
 *Source: Monster Manual p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

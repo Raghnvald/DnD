@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Stone of Good Luck
+Status: WIP
 linter-yaml-title-alias: Stone of Good Luck
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

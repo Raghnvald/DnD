@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Zariel)
+Status: WIP
 linter-yaml-title-alias: Tiefling (Zariel)
 tags:
   - Quelle/5e/mtf

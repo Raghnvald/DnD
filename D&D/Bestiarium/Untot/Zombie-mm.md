@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
-image: token/zombie.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Zombie
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Zombie
+image: token/zombie.webp
+status: completed
 ---
 # Zombie
 *Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

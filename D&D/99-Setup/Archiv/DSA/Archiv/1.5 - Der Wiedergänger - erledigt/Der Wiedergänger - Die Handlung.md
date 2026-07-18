@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Einleitung
+Status: WIP
 linter-yaml-title-alias: Einleitung
 aliases:
   - Einleitung

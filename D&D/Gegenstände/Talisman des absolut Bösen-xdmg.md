@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Talisman of Ultimate Evil
+Status: WIP
 linter-yaml-title-alias: Talisman of Ultimate Evil
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

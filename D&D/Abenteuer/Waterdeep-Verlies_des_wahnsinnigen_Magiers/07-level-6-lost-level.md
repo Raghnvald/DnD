@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 6: Lost Level"
+Status: WIP
 linter-yaml-title-alias: "Level 6: Lost Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 6: Lost Level"
-  - Level 6: Lost Level
 ---
 # Level 6: Lost Level
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 81* 

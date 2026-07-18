@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grasping Vine
+Status: WIP
 linter-yaml-title-alias: Grasping Vine
 classes:
   - Bard

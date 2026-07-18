@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Growth
+Status: WIP
 linter-yaml-title-alias: Potion of Growth
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

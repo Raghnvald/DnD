@@ -7,7 +7,7 @@ Komponenten: G, M
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d10 Stich
-status: completed
+Status: WIP
 linter-yaml-title-alias: Eismesser
 tags:
   - Klasse/Druide
@@ -20,6 +20,7 @@ tags:
 aliases:
   - Eismesser
   - Ice Knife
+status: completed
 ---
 # Eismesser
 *Beschwörung des 1. Grades*

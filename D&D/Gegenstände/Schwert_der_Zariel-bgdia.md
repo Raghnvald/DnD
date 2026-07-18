@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Sword of Zariel
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Sword of Zariel
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -11,6 +12,8 @@ tags:
 aliases:
   - Schwert von Zariel
   - Sword of Zariel
+status: WIP
+Original: Sword of Zariel
 ---
 # Sword of Zariel
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement by a creature the sword deems worthy)*  

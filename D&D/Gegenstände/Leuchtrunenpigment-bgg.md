@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Glowrune Pigment
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Glowrune Pigment
 tags:
   - Gegenstand/Seltenheit/selten

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eagle
-image: token/eagle-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Eagle
 tags:
   - Monster/Größe/Klein
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Eagle
+image: token/eagle-xmm.webp
 ---
 # [Eagle](3-Mechanics\CLI\bestiary\beast/eagle-xmm.md)
 *Source: Monster Manual (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

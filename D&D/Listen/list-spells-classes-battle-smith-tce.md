@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Battle Smith
+Status: WIP
 linter-yaml-title-alias: Spells for Battle Smith
 tags:
-  - Zauber/list/subclass/battle-smith
+  - Zauber/Liste/subclass/battle-smith
 aliases:
   - Spells for Battle Smith
 ---

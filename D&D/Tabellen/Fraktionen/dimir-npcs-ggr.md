@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir NPCs
+Status: WIP
 linter-yaml-title-alias: Dimir NPCs
 tags:
   - Quelle/5e/ggr

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Enspelled Weapon
+Status: WIP
 linter-yaml-title-alias: Enspelled Weapon
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/xdmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kelemvor, Gott der Toten
+Status: WIP
 linter-yaml-title-alias: Kelemvor, Gott der Toten
 tags:
   - Kompendium/Götter

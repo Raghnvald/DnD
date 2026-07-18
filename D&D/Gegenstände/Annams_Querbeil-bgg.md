@@ -1,40 +1,48 @@
 ---
-Bezeichnung: Adze of Annam
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Adze of Annam
+Bezeichnung: Annams Querbeil
+Original: Adze of Annam
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1d12 Hieb
+Eigenschaften:
+  - Schwer
+  - Zweihändig
+Kst.: /
+Gew.: 3,5 kg
+Status: completed
+linter-yaml-title-alias: Annams Querbeil
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgg
 aliases:
-  - Adze of Annam
+  - Annams Querbeil
 ---
-# Adze of Annam
-*Weapon (greataxe), artifact (requires attunement)*  
-![](Gegenstände/img/adze-of-annam.webp#right)
+# Annams Querbeil
+*Waffe ([[Zweihandaxt-phb|Zweihandaxt]]), Artefakt (erfordert Einstimmung)*
+<img src="adze-of-annam.webp" align="right" width="150">
 
-- **Damage**: 1d12 slashing
-- **Properties**: Heavy, Two-Handed
-- **Weight**: 7.0 lbs.
+- **Schaden**: 1d12 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,5 kg
 
-This massive adze is said to have been wielded by All-Father Annam, not as a weapon but as the tool he used to shape the various worlds of the Material Plane eons ago.
+Dieses gewaltige Querbeil soll von Allvater Annam geführt worden sein - doch nicht als Waffe, sondern als Werkzeug, mit dem er vor Äonen die verschiedenen Welten der materiellen Ebene formte.
 
-## Random Properties
+## Zufällige Eigenschaften
 
-The adze has the following random properties, determined by rolling on the appropriate table in the Dungeon Master's Guide:
+Das Querbeil verfügt über folgende zufällige Eigenschaften, die du anhand der entsprechenden Tabelle im Spielleiterhandbuch festlegen kannst:
 
-- 2 minor beneficial properties  
-- 1 major beneficial property  
-- 2 minor detrimental properties  
+- 2 kleinere vorteilhafte Eigenschaften 
+- 1 größere vorteilhafte Eigenschaft 
+- 2 kleinere nachteilige Eigenschaften
+- 
+## Magische Waffe
 
-## Magic Weapon
+Stimmt sich eine Kreatur auf das Querbeil ein, passt das Artefakt auf magische Weise seine Größe an, sodass die Kreatur es als Zweihandaxt führen kann. Das Querbeil ist eine magische Waffe, die dir einen Bonus von + 3 auf Angriffs- und Schadenswürfe verleiht. Bei einem Treffer fügt das Querbeil zusätzliche `3d12` Energieschaden zu. Es fügt Gegenständen und Gebäuden den doppelten Schaden zu.
 
-When a creature attunes to the adze, the artifact magically adjusts its size so that creature can wield it as a greataxe. The adze is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. On a hit, the adze deals an additional `3d12` force damage. It also deals double damage to objects and structures.
+## Göttliches Haueisen
 
-## Divine Mattock
+Du kannst als Aktion die Macht des Allvaters anrufen und das Querbeil zum Wirken von [[Erde_bewegen-phb|Erde bewegen]] oder [[Verarbeitung-phb|Verarbeitung]] verwenden. Hast du diese Eigenschaft verwendet, kannst du dies erst im nächsten Morgengrauen erneut tun.
 
-As an action, you can call upon the might of the All-Father and use the adze to cast move earth or fabricate. Once this property is used, it can't be used again until the next dawn.
-
-*Source: Bigby Presents: Glory of the Giants p. 110*
+*Quelle: Bigby präsentiert: Ruhm der Riesen S. 110*

@@ -5,7 +5,7 @@ Bezeichnung: Lesser Star Spawn Emissary
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 19
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Lesser Star Spawn Emissary
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Lesser Star Spawn Emissary
+status: WIP
 ---
 # [Lesser Star Spawn Emissary](3-Mechanics\CLI\bestiary\aberration/lesser-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  

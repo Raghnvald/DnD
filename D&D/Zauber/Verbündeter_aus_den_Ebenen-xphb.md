@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Planar Ally
+Status: WIP
 linter-yaml-title-alias: Planar Ally
 classes:
   - Bard

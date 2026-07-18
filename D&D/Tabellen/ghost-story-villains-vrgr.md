@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ghost Story Villains
+Status: WIP
 linter-yaml-title-alias: Ghost Story Villains
 tags:
   - Quelle/5e/vrgr

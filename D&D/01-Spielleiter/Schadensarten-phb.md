@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schadensarten
+Status: WIP
 linter-yaml-title-alias: Schadensarten
 tags:
   - Quelle/5e/phb

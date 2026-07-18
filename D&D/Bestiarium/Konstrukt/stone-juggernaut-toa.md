@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Juggernaut
+Status: WIP
 linter-yaml-title-alias: Stone Juggernaut
 tags:
   - Monster/Größe/Groß

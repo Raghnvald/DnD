@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stoneskin
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Stoneskin
 classes:
   - Bard (Magical Secrets)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: True Polymorph
+Status: WIP
 linter-yaml-title-alias: True Polymorph
 classes:
   - Bard

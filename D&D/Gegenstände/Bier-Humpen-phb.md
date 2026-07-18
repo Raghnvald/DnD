@@ -2,10 +2,10 @@
 Bezeichnung: Bier (Humpen)
 Kategorie: Essen und Trinken
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 4 KM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Bier (Humpen)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

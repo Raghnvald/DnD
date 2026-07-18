@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feign Death
+Status: WIP
 linter-yaml-title-alias: Feign Death
 classes:
   - Bard

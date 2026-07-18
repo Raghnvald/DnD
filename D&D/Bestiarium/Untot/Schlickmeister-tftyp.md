@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Schlickmeister
+Status: WIP
 linter-yaml-title-alias: Schlickmeister
 tags:
   - Monster/Größe/Riesig

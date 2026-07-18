@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Schriftrolle des Schutzes vor Celestischen Wesen
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Schriftrolle des Schutzes vor Celestischen Wesen
 tags:
   - Gegenstand/Seltenheit/selten
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schriftrolle des Schutzes vor Celestischen Wesen
+status: completed
 ---
 # Schriftrolle des Schutzes vor Celestischen Wesen
 *Schriftrolle, selten*  

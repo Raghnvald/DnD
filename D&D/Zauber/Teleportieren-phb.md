@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Teleport
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Teleport
 classes:
   - Bard (Magical Secrets)

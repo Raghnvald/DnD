@@ -1,18 +1,19 @@
 ---
 Bezeichnung: Dolch der Verweigerung
-Kategorie: Einfache Nahkampfwaffe
+Original: Dagger of Denial
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W4 Stich
 Eigenschaften:
-  - erfordert Einstimmung
   - Finesse
   - Leicht
   - Wurfwaffe
-Einstimmung: erfordert
-Kst.: /
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Dolch der Verweigerung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
@@ -20,6 +21,7 @@ tags:
 aliases:
   - Dagger of Denial
   - Dolch der Verweigerung
+status: WIP
 ---
 # Dolch der Verweigerung
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare (requires attunement)*  

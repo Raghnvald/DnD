@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Saddle of the Cavalier
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Saddle of the Cavalier
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

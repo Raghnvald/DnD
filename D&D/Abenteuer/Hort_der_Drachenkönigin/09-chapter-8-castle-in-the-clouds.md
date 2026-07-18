@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 8: Castle in the Clouds"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: Castle in the Clouds"
 tags:
   - Quelle/5e/hotdq

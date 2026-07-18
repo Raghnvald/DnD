@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V
 Wirkungsdauer: 1 Runde
-Angriff: Weisheit
-Schaden: /
+Angriff: WEI
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Befehl
 classes:
   - Bard (Magical Secrets)
@@ -17,9 +18,9 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/paladin
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Subklasse/the-fiend
   - Zauber/Grad/1

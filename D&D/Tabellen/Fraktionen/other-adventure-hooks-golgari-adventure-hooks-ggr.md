@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Other Adventure Hooks; Golgari Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Other Adventure Hooks; Golgari Adventure Hooks
 tags:
   - Quelle/5e/ggr

@@ -7,7 +7,7 @@ Größe: Groß
 HG: "3"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Stove
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Animated Stove
+status: WIP
 ---
 # [Animated Stove](3-Mechanics\CLI\bestiary\construct/animated-stove-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 186*  

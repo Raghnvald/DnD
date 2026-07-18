@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Medals of Merit
+Status: WIP
 linter-yaml-title-alias: Medals of Merit
 tags:
   - Quelle/5e/crcotn
 aliases:
-  - "Medals of Merit"
+  - Medals of Merit
   - Medals of Merit
 ---
 # Medals of Merit

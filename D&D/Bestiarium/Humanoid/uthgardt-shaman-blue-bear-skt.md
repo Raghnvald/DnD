@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Blue Bear)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Blue Bear)
 tags:
   - Monster/Größe/Mittelgroß

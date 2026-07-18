@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Book of Inner Alchemy
+Status: WIP
 linter-yaml-title-alias: The Book of Inner Alchemy
 tags:
   - Quelle/5e/cm

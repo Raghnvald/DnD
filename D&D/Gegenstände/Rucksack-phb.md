@@ -2,10 +2,10 @@
 Bezeichnung: Rucksack
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Rucksack
 tags:
   - Gegenstand/Ausrüstung
@@ -18,8 +18,8 @@ aliases:
 # Rucksack
 *Abenteuerausrüstung*
 
-- **Kosten**: 2 Goldmünzen
-- **Gewicht**: 2,5 kg.
+- **Kosten**: 2 GM
+- **Gewicht**: 2,5 kg
 
 Ein Rucksack fasst 30 Liter oder 15,0 kg. Ausrüstung. [^¹]
 

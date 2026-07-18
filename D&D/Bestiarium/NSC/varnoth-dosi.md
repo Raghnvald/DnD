@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Varnoth
+Status: WIP
 linter-yaml-title-alias: Varnoth
 tags:
   - Monster/Größe/Mittelgroß

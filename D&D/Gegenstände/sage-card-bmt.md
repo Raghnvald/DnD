@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sage Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Sage Card
 tags:
   - Gegenstand/Seltenheit/legendär

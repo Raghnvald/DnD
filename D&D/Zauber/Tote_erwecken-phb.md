@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Raise Dead
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Raise Dead
 classes:
   - Bard (Magical Secrets)
@@ -10,7 +11,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
   - Quelle/5e/phb
   - Zauber/Grad/5

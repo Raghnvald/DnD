@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Ephara's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Ephara's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

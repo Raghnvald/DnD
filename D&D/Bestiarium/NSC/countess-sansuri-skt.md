@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Countess Sansuri
+Status: WIP
 linter-yaml-title-alias: Countess Sansuri
 tags:
   - Monster/Größe/Riesig

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Spirit (Skeletal)
+Status: WIP
 linter-yaml-title-alias: Undead Spirit (Skeletal)
 tags:
   - Monster/Größe/Mittelgroß

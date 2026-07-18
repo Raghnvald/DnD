@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Marvelous Pigments
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Marvelous Pigments
 tags:
   - Gegenstand/Seltenheit/sehr_selten

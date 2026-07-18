@@ -4,19 +4,21 @@ Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
   - /
-Kst.: /
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schild des Verborgenen Herschers
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bgdia
 aliases:
   - Schild des Verborgenen Herschers
+status: WIP
 ---
 # Schild des Verborgenen Herschers
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), legendär (erfordert Einstimmung)*

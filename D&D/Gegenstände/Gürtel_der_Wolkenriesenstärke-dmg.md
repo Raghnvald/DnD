@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Belt of Cloud Giant Strength
+Status: WIP
 linter-yaml-title-alias: Belt of Cloud Giant Strength
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/dmg
 aliases:

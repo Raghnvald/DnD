@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Spy
+Status: WIP
 linter-yaml-title-alias: Duergar Spy
 tags:
   - Monster/Größe/Mittelgroß

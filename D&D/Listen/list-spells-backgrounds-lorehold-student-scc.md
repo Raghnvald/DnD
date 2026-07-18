@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Lorehold Student
+Status: WIP
 linter-yaml-title-alias: Spells for Lorehold Student
 tags:
-  - ttrpg-cli/spell/list/background/lorehold-student
+  - Zauber/Liste/background/lorehold-student
 aliases:
-  - "Spells for Lorehold Student"
+  - Spells for Lorehold Student
   - Spells for Lorehold Student
 ---
 # Spells for Lorehold Student

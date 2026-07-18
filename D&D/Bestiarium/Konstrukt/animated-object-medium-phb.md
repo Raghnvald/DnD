@@ -4,10 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Animated Object (Medium)
 Kategorie: Konstrukt
 Größe: Mittelgroß
-HG: /
+HG: n/v
 Habitat:
-  - /
-status: WIP
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Animated Object (Medium)
 tags:
   - Monster/Größe/Mittelgroß

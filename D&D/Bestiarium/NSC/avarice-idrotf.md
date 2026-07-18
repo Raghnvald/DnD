@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Avarice
+Status: WIP
 linter-yaml-title-alias: Avarice
 tags:
   - Monster/Größe/Mittelgroß

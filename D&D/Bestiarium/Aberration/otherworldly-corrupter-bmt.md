@@ -5,7 +5,7 @@ Bezeichnung: Otherworldly Corrupter
 Kategorie: Aberration
 Größe: M oder S
 HG: 17
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Otherworldly Corrupter
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Otherworldly Corrupter
+status: WIP
 ---
 # [Otherworldly Corrupter](3-Mechanics\CLI\bestiary\aberration/otherworldly-corrupter-bmt.md)
 *Source: The Book of Many Things p. 47*  

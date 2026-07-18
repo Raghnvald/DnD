@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Shaundakul
+Status: WIP
 linter-yaml-title-alias: Shaundakul
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Shaundakul"
-  - "The Helping Hand"
-  - "The Rider of the Winds"
   - Shaundakul
+  - Shaundakul
+  - The Helping Hand
+  - The Rider of the Winds
 ---
 # Shaundakul
 *Source: Forgotten Realms: Heroes of Faerûn p. 121* 

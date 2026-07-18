@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drum
+Status: WIP
 linter-yaml-title-alias: Drum
 tags:
   - Gegenstand/Ausrüstung/Instrument

@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Defensive Duelist
-linter-yaml-title-alias: Defensive Duelist
+Bezeichnung: Defensiver Duellant
+Status: WIP
+linter-yaml-title-alias: Defensiver Duellant
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Defensive Duelist
+  - Defensiver Duellant
 ---
 # Defensiver Duellant
 *Source: Player's Handbook p. 165*  

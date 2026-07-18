@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blood Drinker Vampire
+Status: WIP
 linter-yaml-title-alias: Blood Drinker Vampire
 tags:
   - Monster/Größe/Mittelgroß

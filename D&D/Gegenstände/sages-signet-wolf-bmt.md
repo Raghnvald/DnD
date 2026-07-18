@@ -2,16 +2,18 @@
 Bezeichnung: "Sage's Signet (Wolf)"
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung durch einen Zauberwirker
-status: WIP
+  - n/v
+Status: WIP
+Einstimmung: durch einen Zauberwirker
 linter-yaml-title-alias: "Sage's Signet (Wolf)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Wolf)"
+status: WIP
 ---
 # Sage's Signet (Wolf)
 *Ring, very rare (requires attunement by a spellcaster)*  

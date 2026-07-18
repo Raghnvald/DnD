@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artificer
+Status: WIP
 linter-yaml-title-alias: Artificer
 tags:
   - Klasse/Artifizient

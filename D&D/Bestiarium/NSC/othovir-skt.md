@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Othovir
+Status: WIP
 linter-yaml-title-alias: Othovir
 tags:
   - Monster/Größe/Mittelgroß

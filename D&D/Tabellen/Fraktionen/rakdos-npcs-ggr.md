@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rakdos NPCs
+Status: WIP
 linter-yaml-title-alias: Rakdos NPCs
 tags:
   - Quelle/5e/ggr

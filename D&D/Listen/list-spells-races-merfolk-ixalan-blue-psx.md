@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Merfolk (Ixalan; Blue)
+Status: WIP
 linter-yaml-title-alias: Spells for Merfolk (Ixalan; Blue)
 tags:
-  - ttrpg-cli/spell/list/subrace/merfolk-ixalan-blue
+  - Zauber/Liste/subrace/merfolk-ixalan-blue
 aliases:
-  - "Spells for Merfolk (Ixalan; Blue)"
+  - Spells for Merfolk (Ixalan; Blue)
   - Spells for Merfolk (Ixalan; Blue)
 ---
 # Spells for Merfolk (Ixalan; Blue)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faerie Fire
+Status: WIP
 linter-yaml-title-alias: Faerie Fire
 classes:
   - Artificer
@@ -15,10 +16,10 @@ tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Kleriker/twilight-domain
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/xphb
   - Rasse/elf/drow
   - Rasse/fairy

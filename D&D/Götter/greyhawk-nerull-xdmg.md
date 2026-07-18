@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Nerull
+Status: WIP
 linter-yaml-title-alias: Nerull
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Nerull

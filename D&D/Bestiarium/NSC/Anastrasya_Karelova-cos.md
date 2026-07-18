@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Anastrasya Karelova
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Anastrasya Karelova
+status: WIP
 ---
 # Anastrasya Karelova
 *Source: Curse of Strahd p. 93*  

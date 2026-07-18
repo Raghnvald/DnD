@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blackguard
+Status: WIP
 linter-yaml-title-alias: Blackguard
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shell Shark
+Status: WIP
 linter-yaml-title-alias: Shell Shark
 tags:
   - Monster/Größe/Mittelgroß

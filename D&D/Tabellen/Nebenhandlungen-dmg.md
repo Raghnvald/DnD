@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Side Quests
+Status: WIP
 linter-yaml-title-alias: Side Quests
 tags:
   - Quelle/5e/dmg

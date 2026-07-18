@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Der Beutelmann
+Status: WIP
 linter-yaml-title-alias: Der Beutelmann
 tags:
   - Monster/Größe/Groß

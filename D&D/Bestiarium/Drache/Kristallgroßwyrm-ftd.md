@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Crystal Greatwyrm
 Kategorie: Drache (Edelstein)
 Größe: Gigantisch
+Status: WIP
 linter-yaml-title-alias: Crystal Greatwyrm
 tags:
   - Monster/Größe/Gigantisch

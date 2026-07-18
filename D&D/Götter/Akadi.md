@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Akadi, Göttin der Luft
+Status: WIP
 linter-yaml-title-alias: Akadi, Göttin der Luft
 tags:
   - Kompendium/Götter

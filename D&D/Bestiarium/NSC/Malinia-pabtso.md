@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Malinia
 Image: token/malinia-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Malinia
 tags:
   - Monster/Größe/Mittelgroß

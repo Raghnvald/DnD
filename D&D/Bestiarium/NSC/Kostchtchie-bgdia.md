@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kostchtchie
+Status: WIP
 linter-yaml-title-alias: Kostchtchie
 tags:
   - Monster/Größe/Groß

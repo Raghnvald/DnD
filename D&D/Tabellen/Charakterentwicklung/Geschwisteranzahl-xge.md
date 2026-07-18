@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Geschwisteranzahl
+Status: WIP
 linter-yaml-title-alias: Geschwisteranzahl
 tags:
   - Quelle/5e/xge

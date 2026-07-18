@@ -2,10 +2,10 @@
 Bezeichnung: Huhn
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Huhn
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Huhn
+Original: Chicken
 ---
 # Huhn
 *Handelsgut*  

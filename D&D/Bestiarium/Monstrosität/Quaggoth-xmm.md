@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quaggoth
+Status: WIP
 linter-yaml-title-alias: Quaggoth
 tags:
   - Monster/Größe/Mittelgroß

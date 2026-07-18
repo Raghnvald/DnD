@@ -2,13 +2,14 @@
 Bezeichnung: Ring of Temporal Salvation
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Ring of Temporal Salvation
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/egw
 aliases:
   - Ring of Temporal Salvation

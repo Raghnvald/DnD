@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Heroes' Feast"
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: "Heroes' Feast"
 classes:
   - Bard (Magical Secrets)

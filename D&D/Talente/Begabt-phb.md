@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Begabt
+Status: WIP
 linter-yaml-title-alias: Begabt
 tags:
   - Kompendium/Talent

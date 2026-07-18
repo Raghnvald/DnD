@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bracers of Archery
+Status: WIP
 linter-yaml-title-alias: Bracers of Archery
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

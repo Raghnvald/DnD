@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Diagonals
+Status: WIP
 linter-yaml-title-alias: Diagonals
 tags:
   - Quelle/5e/dmg

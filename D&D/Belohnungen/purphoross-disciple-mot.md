@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Purphoros's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Purphoros's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

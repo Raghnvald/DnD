@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Vecna
+Status: WIP
 linter-yaml-title-alias: Vecna
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
-  - "Vecna"
+  - Vecna
   - Vecna
 ---
 # Vecna

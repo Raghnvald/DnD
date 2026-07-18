@@ -1,9 +1,17 @@
 ---
-Bezeichnung: Dancing Sword
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
-linter-yaml-title-alias: Dancing Sword
+Bezeichnung: Tanzendes Schwert
+Original: Dancing Sword
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Schaden: variiert
+Eigenschaften:
+  - variiert
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+Status: completed
+linter-yaml-title-alias: Tanzendes Schwert
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -16,62 +24,59 @@ aliases:
   - Dancing Rapier
   - Dancing Scimitar
   - Dancing Shortsword
-  - Dancing Sword
+  - Tanzendes Schwert
 ---
-# Dancing Sword
-*Major, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/dancing-sword.webp#right)
+# Tanzendes Schwert
+*Waffe (irgendein Schwert), sehr selten (erfordert Einstimmung)*
+<img src="dancing-sword.webp" align="right" width="250">
 
-You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
+Du kannst eine Bonusaktion aufwenden, um das Schwert in die Luft zu werfen und sein Befehlswort zu sprechen. Wenn du das tust, beginnt das Schwert zu schweben, fliegt bis zu 9 Meter und greift eine Kreatur deiner Wahl in einem Umkreis von 1,50 Metern zu sich an. Das Schwert nutzt deinen Angriffswurf und deinen Attributsmodifikator für Schadenswürfe. Während das Schwert schwebt, kannst du eine Bonusaktion aufwenden, um es dazu zu bringen, bis zu 9 Meter zu einem anderen Ort innerhalb von 9 Metern von dir zu fliegen. Als Teil der gleichen Bonusaktion kannst du dem Schwert befehlen, eine Kreatur innerhalb von 1,50 Meter zu sich anzugreifen.
+$\quad$Nachdem das schwebende Schwert zum vierten Mal angegriffen hat, fliegt es bis zu 9 Meter und versucht, zu deiner Hand zurückzukehren. Wenn du keine Hand frei hast, fällt es zu deinen Füßen auf den Boden. Wenn das Schwert keinen unbehinderten Weg zu dir hat, bewegt es sich so nahe wie möglich zu dir hin und fällt dann zu Boden. Es hört auch auf zu schweben, wenn du es ergreifst oder mehr als 9 Meter davon entfernt bist.
 
-While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.
+**Varianten**:
+- [[#Tanzender Krummsäbel]]
+- [[#Tanzendes Kurzschwert]]
+- [[#Tanzendes Langschwert]]
+- [[#Tanzender Rapier]]
+- [[#Tanzendes Zweihandschwert]]
+- [[#Tanzender Zweiklingiger Krummsäbel]]
 
-After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
+### Tanzender Krummsäbel
 
-**Variants**:
-- [Dancing Double-Bladed Scimitar](#Dancing%20Double-Bladed%20Scimitar)
-- [Dancing Greatsword](#Dancing%20Greatsword)
-- [Dancing Longsword](#Dancing%20Longsword)
-- [Dancing Rapier](#Dancing%20Rapier)
-- [Dancing Scimitar](#Dancing%20Scimitar)
-- [Dancing Shortsword](#Dancing%20Shortsword)
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Dancing Double-Bladed Scimitar
+### Tanzendes Kurzschwert
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Dancing Greatsword
+### Tanzendes Langschwert
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Dancing Longsword
+### Tanzender Rapier
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Dancing Rapier
+### Tanzendes Zweihandschwert
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Dancing Scimitar
+### Tanzender Zweiklingiger Krummsäbel
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
-
-### Dancing Shortsword
-
-- **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
 *Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

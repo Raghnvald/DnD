@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Months and Festivals; Days of the Week
+Status: WIP
 linter-yaml-title-alias: Months and Festivals; Days of the Week
 tags:
   - Quelle/5e/xdmg

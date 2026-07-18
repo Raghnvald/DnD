@@ -8,7 +8,7 @@ HG: 18
 Habitat:
   - /
 Image: token/amnizu-mpmm.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amnizu
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Amnizu
+status: WIP
 ---
 # [Amnizu](3-Mechanics\CLI\bestiary\fiend/amnizu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46*  

@@ -1,9 +1,18 @@
 ---
-Bezeichnung: Sword of Vengeance
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
-linter-yaml-title-alias: Sword of Vengeance
+Bezeichnung: Schwert der Vergeltung
+Original: Sword of Vengeance
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Schaden: variiert
+Eigenschaften:
+  - variiert
+  - Verflucht
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+Status: completed
+linter-yaml-title-alias: Schwert der Vergeltung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -14,69 +23,68 @@ aliases:
   - Greatsword of Vengeance
   - Longsword of Vengeance
   - Rapier of Vengeance
+  - Schwert der Vergeltung
   - Scimitar of Vengeance
   - Shortsword of Vengeance
-  - Sword of Vengeance
 ---
-# Sword of Vengeance
-*Cursed item, major, uncommon (requires attunement)*  
+# Schwert der Vergeltung
+*Waffe (irgendein Schwert), selten (erfordert Einstimmung)* 
 
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Verfluchte Gegenstände|Verflucht]]
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Du erhältst einen Bonus von + 1 auf Angriffs- und Schadenswürfe, die mit diesem Schwert ausgeführt werden.
 
-## Curse
+## Verflucht
 
-This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.
+Das Schwert ist verflucht und von einem rachsüchtigen Geist besessen. Durch die Einstimmung auf das Schwert wirst du ebenfalls verflucht. Solange du verflucht bist, bist du nicht bereit, dich von dem Schwert zu trennen und trägst es jederzeit bei dir. Während du auf das Schwert eingestimmt bist, hast du einen Nachteil auf alle Angriffs- und Schadenswürfe, die du mit anderen Waffen als dieser ausführst.
+$\quad$Außerdem musst du jedes Mal einen `Weisheits-Rettungswurf` gegen `SG 15` ablegen, wenn du das Schwert bei dir hast und im Kampf Schaden nimmst. Bei einem Fehlschlag wirst du solange die Kreatur angreifen, die dich verletzt hat, bis entweder du oder sie auf 0 Trefferpunkte reduziert wird oder bis du die Kreatur nicht mehr erreichen kannst, um einen Nahkampfangriff gegen sie auszuführen.
+$\quad$Du kannst den Fluch auf die üblichen Arten brechen.
+$\quad$Alternativ kann man den Zauber [[Verbannung-phb|Verbannung]] auf das Schwert wirken und so den Geist zwingen, zu verschwinden. Das Schwert wird dann zu einer Waffe +l ohne besondere Eigenschaften.
 
-In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.
+**Varianten**:
+- [[#Krummsäbel der Vergeltung]]
+- [[#Kurzschwert der Vergeltung]]
+- [[#Langschwert der Vergeltung]]
+- [[#Rapier der Vergeltung]]
+- [[#Zweihandschwert der Vergeltung]]
+- [[#Zweiklingiger Krummsäbel der Vergeltung]]
 
-You can break the curse in the usual ways. Alternatively, casting [banishment](/3-Mechanics/CLI/spells/banishment.md) on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
+### Krummsäbel der Vergeltung
 
-**Variants**:
-- [Double-Bladed Scimitar of Vengeance](#Double-Bladed%20Scimitar%20of%20Vengeance)
-- [Greatsword of Vengeance](#Greatsword%20of%20Vengeance)
-- [Longsword of Vengeance](#Longsword%20of%20Vengeance)
-- [Rapier of Vengeance](#Rapier%20of%20Vengeance)
-- [Scimitar of Vengeance](#Scimitar%20of%20Vengeance)
-- [Shortsword of Vengeance](#Shortsword%20of%20Vengeance)
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Double-Bladed Scimitar of Vengeance
+### Kurzschwert der Vergeltung
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Greatsword of Vengeance
+### Langschwert der Vergeltung
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Longsword of Vengeance
+### Rapier der Vergeltung
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Rapier of Vengeance
+### Zweihandschwert der Vergeltung
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Scimitar of Vengeance
+### Zweiklingiger Krummsäbel der Vergeltung
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Shortsword of Vengeance
-
-- **Damage**: 1d6 piercing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
-
-*Source: Dungeon Master's Guide p. 206*
+*Quelle: Spielleiterhandbuch S. 188. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

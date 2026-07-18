@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nebelschritt
+Status: WIP
 linter-yaml-title-alias: Nebelschritt
 tags:
   - Klasse/Hexenmeister

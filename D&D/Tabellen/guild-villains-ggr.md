@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Villains
+Status: WIP
 linter-yaml-title-alias: Guild Villains
 tags:
   - Quelle/5e/ggr

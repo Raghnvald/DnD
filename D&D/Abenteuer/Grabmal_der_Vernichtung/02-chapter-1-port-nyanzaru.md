@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: Port Nyanzaru"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Port Nyanzaru"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Chapter 1: Port Nyanzaru"
-  - Chapter 1: Port Nyanzaru
 ---
 # Chapter 1: Port Nyanzaru
 *Source: Tomb of Annihilation, p. 15* 

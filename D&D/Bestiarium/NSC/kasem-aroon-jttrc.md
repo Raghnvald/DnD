@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kasem Aroon
+Status: WIP
 linter-yaml-title-alias: Kasem Aroon
 tags:
   - Monster/Größe/Mittelgroß

@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Atiba-Pa
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Atiba-Pa
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Atiba-Pa
+status: WIP
 ---
 # [Atiba-Pa](3-Mechanics\CLI\bestiary\npc/atiba-pa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 171*  

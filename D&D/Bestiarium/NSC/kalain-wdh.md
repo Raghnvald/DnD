@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kalain
+Status: WIP
 linter-yaml-title-alias: Kalain
 tags:
   - Monster/Größe/Mittelgroß

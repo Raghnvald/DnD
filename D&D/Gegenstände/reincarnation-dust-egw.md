@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Reincarnation Dust
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Reincarnation Dust
 tags:
   - Gegenstand/Seltenheit/sehr_selten

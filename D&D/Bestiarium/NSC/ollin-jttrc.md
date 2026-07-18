@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ollin
+Status: WIP
 linter-yaml-title-alias: Ollin
 tags:
   - Monster/Größe/Mittelgroß

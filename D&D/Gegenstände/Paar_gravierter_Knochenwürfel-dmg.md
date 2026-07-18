@@ -2,17 +2,18 @@
 Bezeichnung: Pair of engraved bone dice
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Pair of engraved bone dice
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Pair of engraved bone dice
+status: WIP
 ---
 # Pair of engraved bone dice
 *Treasure (art object)*  

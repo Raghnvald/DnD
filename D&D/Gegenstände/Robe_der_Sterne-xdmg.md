@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Robe of Stars
+Status: WIP
 linter-yaml-title-alias: Robe of Stars
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:

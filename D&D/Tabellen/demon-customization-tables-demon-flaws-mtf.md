@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Customization Tables; Demon Flaws
+Status: WIP
 linter-yaml-title-alias: Demon Customization Tables; Demon Flaws
 tags:
   - Quelle/5e/mtf

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Fragment of Loathing
+Status: WIP
 linter-yaml-title-alias: Fragment of Loathing
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
-  - "Fragment of Loathing"
+  - Fragment of Loathing
   - Fragment of Loathing
 ---
 # Fragment of Loathing

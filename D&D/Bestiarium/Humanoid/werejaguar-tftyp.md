@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Werejaguar
+Status: WIP
 linter-yaml-title-alias: Werejaguar
 tags:
   - Monster/Größe/Mittelgroß

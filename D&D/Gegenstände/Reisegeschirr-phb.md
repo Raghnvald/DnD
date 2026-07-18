@@ -2,10 +2,10 @@
 Bezeichnung: Reisegeschirr
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 SM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Reisegeschirr
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,11 +15,11 @@ aliases:
   - Reisegeschirr
 ---
 # Reisegeschirr
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 2 sp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 2 SM
+- **Gewicht**: 0,5 kg
 
-This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
+Diese Blechdose enthält einen Becher und einfaches Besteck. Die Blechdose ist zusammengesteckt, sodass eine Seite als Pfanne und die andere als Teller oder flache Schale verwendet werden kann. 
 
-*Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 152. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

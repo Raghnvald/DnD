@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Water Bearer
+Status: WIP
 linter-yaml-title-alias: Charm of the Water Bearer
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cm
 aliases:
   - Charm of the Water Bearer

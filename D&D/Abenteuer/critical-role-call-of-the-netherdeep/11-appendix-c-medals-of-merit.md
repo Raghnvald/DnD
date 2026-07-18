@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Medals of Merit"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Medals of Merit"
 tags:
   - Quelle/5e/crcotn

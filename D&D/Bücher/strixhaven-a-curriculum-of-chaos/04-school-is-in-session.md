@@ -1,10 +1,11 @@
 ---
 Bezeichnung: School Is in Session
+Status: WIP
 linter-yaml-title-alias: School Is in Session
 tags:
   - Quelle/5e/scc
 aliases:
-  - "School Is in Session"
+  - School Is in Session
   - School Is in Session
 ---
 # School Is in Session

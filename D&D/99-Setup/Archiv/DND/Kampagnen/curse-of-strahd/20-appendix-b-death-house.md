@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Death House"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Death House"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Appendix B: Death House"
-  - Appendix B: Death House
 ---
 # Appendix B: Death House
 *Source: Curse of Strahd, p. 211* 

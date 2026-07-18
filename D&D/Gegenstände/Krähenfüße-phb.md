@@ -2,10 +2,10 @@
 Bezeichnung: Krähenfüße
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 KM
 Gew.: 0,05 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Krähenfüße
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,11 +15,11 @@ aliases:
   - Krähenfüße
 ---
 # Krähenfüße
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 cp
-- **Weight**: 0.1 lbs.
+- **Kosten**: 5 KM
+- **Gewicht**: 0,05 kg
 
-As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
+Als Aktion kannst du die Krähenfüße in diesem Beutel über einen Bereich mit höchstens 1,50 m Seitenlänge verteilen. Jede Kreatur, die den Bereich betritt, muss einen erfolgreichen `Geschicklichkeits-Rettungswurf` gegen `SG 15` ablegen oder sie erleidet 1 Punkt Stichschaden und ihre Bewegung ist beendet. Erleidet sie diesen Schaden, ist die Bewegungsrate der Kreatur um 3 m verringert, bis sie mindestens 1 Trefferpunkt wiedererlangt. Eine Kreatur, die sich nur mit halber Bewegungsrate durch den Bereich bewegt, muss keinen Rettungswurf ablegen. Fliegende Kreaturen werden von Krähenfüßen nicht beeinflusst. 
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

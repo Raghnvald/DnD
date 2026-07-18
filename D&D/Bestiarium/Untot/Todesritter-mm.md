@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Knight
+Status: WIP
 linter-yaml-title-alias: Death Knight
 tags:
   - Monster/Größe/Mittelgroß

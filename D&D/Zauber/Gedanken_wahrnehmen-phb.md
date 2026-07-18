@@ -1,7 +1,8 @@
 ---
-Bezeichnung: Detect Thoughts
+Bezeichnung: Gedanken wahrnehmen
 Zaubergrad: 2
-linter-yaml-title-alias: Detect Thoughts
+Status: WIP
+linter-yaml-title-alias: Gedanken wahrnehmen
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -20,9 +21,10 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Detect Thoughts
+  - Gedanken wahrnehmen
+Zeitaufwand: 1 Aktion
 ---
-# Detect Thoughts
+# Gedanken wahrnehmen
 *2nd-level, Divination*  
 
 - **Casting time:** 1 Action

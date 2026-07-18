@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welterschütternde Ereignisse
+Status: WIP
 linter-yaml-title-alias: Welterschütternde Ereignisse
 tags:
   - Quelle/5e/dmg

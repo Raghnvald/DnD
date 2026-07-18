@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Monsters
+Status: WIP
 linter-yaml-title-alias: Monsters
 tags:
   - Quelle/5e/mabjov
 aliases:
-  - "Monsters"
+  - Monsters
   - Monsters
 ---
 # Monsters

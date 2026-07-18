@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warleader Assignments
+Status: WIP
 linter-yaml-title-alias: Warleader Assignments
 tags:
   - Quelle/5e/bgg

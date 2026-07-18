@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Niles Breakbone
+Status: WIP
 linter-yaml-title-alias: Niles Breakbone
 tags:
   - Monster/Größe/Mittelgroß

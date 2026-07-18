@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conjure Barrage
+Status: WIP
 linter-yaml-title-alias: Conjure Barrage
 classes:
   - Artificer (Battle Smith)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armorer
+Status: WIP
 linter-yaml-title-alias: Armorer
 tags:
   - Klasse/Artifizient/armorer

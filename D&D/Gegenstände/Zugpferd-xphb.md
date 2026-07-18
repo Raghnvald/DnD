@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draft Horse
+Status: WIP
 linter-yaml-title-alias: Draft Horse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

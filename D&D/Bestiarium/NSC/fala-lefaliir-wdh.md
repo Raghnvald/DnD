@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fala Lefaliir
+Status: WIP
 linter-yaml-title-alias: Fala Lefaliir
 tags:
   - Monster/Größe/Mittelgroß

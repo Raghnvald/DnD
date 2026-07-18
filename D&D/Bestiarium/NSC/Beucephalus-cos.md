@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beucephalus
+Status: WIP
 linter-yaml-title-alias: Beucephalus
 tags:
   - Monster/Größe/Groß

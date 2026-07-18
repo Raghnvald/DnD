@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Pharika's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Pharika's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/pharikas-devotee
+  - Zauber/Liste/reward/pharikas-devotee
 aliases:
   - "Spells for Pharika's Devotee"
 ---

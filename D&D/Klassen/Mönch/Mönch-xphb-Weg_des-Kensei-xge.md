@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Kensei
+Status: WIP
 linter-yaml-title-alias: Way of the Kensei
 tags:
   - Klasse/Mönch/kensei

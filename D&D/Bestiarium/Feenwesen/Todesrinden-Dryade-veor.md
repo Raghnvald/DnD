@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 13
 Habitat:
   - /
-image: token/deadbark-dryad-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Deadbark Dryad
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Deadbark Dryad
+image: token/deadbark-dryad-veor.webp
+status: WIP
 ---
 # [Deadbark Dryad](3-Mechanics\CLI\bestiary\fey/deadbark-dryad-veor.md)
 *Source: Vecna: Eve of Ruin p. 216*  

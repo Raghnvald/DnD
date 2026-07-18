@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Acid Splash
 classes:
   - Artificer
@@ -26,8 +27,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Hintergrund/simic-scientist
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/kobold

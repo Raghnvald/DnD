@@ -2,10 +2,10 @@
 Bezeichnung: Schreinerwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 8 GM
 Gew.: 3,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schreinerwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schreinerwerkzeuge
+status: WIP
 ---
 # Schreinerwerkzeuge
 *Handwerkszeug*

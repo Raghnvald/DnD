@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lethal Leverage
+Status: WIP
 linter-yaml-title-alias: Lethal Leverage
 tags:
   - Quelle/5e/vrgr

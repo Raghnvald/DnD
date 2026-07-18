@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Adventure and Sidekick Ideas!
+Status: WIP
 linter-yaml-title-alias: Adventure and Sidekick Ideas!
 tags:
   - Quelle/5e/mgelft
 aliases:
-  - "Adventure and Sidekick Ideas!"
+  - Adventure and Sidekick Ideas!
   - Adventure and Sidekick Ideas!
 ---
 # Adventure and Sidekick Ideas!

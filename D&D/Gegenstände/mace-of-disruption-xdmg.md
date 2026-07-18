@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Mace of Disruption
+Status: WIP
 linter-yaml-title-alias: Mace of Disruption
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

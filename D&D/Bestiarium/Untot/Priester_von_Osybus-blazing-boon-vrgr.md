@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus (Blazing Boon)
+Status: WIP
 linter-yaml-title-alias: Priest of Osybus (Blazing Boon)
 tags:
   - Monster/Größe/Mittelgroß

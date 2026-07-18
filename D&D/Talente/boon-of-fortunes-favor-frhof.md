@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Boon of Fortune's Favor"
+Status: WIP
 linter-yaml-title-alias: "Boon of Fortune's Favor"
 tags:
   - Kompendium/Talent

@@ -2,13 +2,13 @@
 Bezeichnung: Kupfer (KM)
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 KM
-Gew.: /
-status: WIP
+Gew.: 0,01 kg
+Status: completed
 linter-yaml-title-alias: Kupfer (KM)
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
@@ -16,8 +16,8 @@ aliases:
   - Kupfer (KM)
 ---
 # Kupfer (KM)
-*Treasure (coinage)*  
-![](Gegenstände/img/copper-cp.webp#right)
+*Schatz (Währung)*  
+![](img/copper-cp.webp#right)
 
 - **Kosten**: 1 KM
 - **Gewicht**: 0,01 kg.

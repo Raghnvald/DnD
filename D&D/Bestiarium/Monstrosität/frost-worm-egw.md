@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Worm
+Status: WIP
 linter-yaml-title-alias: Frost Worm
 tags:
   - Monster/Größe/Gigantisch

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vox Seeker
+Status: WIP
 linter-yaml-title-alias: Vox Seeker
 tags:
   - Monster/Größe/Winzig

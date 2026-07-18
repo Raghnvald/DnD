@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Afterword
+Status: WIP
 linter-yaml-title-alias: Afterword
 tags:
   - Quelle/5e/oota
 aliases:
-  - "Afterword"
+  - Afterword
   - Afterword
 ---
 # Afterword

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Central Flanaess Locations
+Status: WIP
 linter-yaml-title-alias: Central Flanaess Locations
 tags:
   - Quelle/5e/xdmg

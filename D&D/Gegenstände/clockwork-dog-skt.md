@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Clockwork Dog
+Status: WIP
 linter-yaml-title-alias: Clockwork Dog
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/skt
 aliases:
   - Clockwork Dog

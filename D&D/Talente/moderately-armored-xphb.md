@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moderately Armored
+Status: WIP
 linter-yaml-title-alias: Moderately Armored
 tags:
   - Kompendium/Talent

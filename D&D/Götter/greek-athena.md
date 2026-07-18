@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Athena
+Status: WIP
 linter-yaml-title-alias: Athena
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/order
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

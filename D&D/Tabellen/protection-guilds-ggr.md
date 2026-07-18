@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection Guilds
+Status: WIP
 linter-yaml-title-alias: Protection Guilds
 tags:
   - Quelle/5e/ggr

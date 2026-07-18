@@ -2,10 +2,10 @@
 Bezeichnung: Adlerpfeife
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-Status:
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Adlerpfeife
 tags:
   - Gegenstand/Seltenheit/selten

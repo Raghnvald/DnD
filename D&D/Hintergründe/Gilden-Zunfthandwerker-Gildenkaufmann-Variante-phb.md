@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)
+Status: WIP
 linter-yaml-title-alias: Gilden-/Zunfthandwerker (Gildenkaufmann) (Variante)
 tags:
   - Kompendium/Hintergrund

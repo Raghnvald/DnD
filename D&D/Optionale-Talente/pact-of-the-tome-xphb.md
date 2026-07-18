@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pact of the Tome
+Status: WIP
 linter-yaml-title-alias: Pact of the Tome
 tags:
   - Kompendium/Optionales/ei

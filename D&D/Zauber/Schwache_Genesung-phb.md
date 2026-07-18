@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: /
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Schwache Genesung
 classes:
   - Bard (Magical Secrets)
@@ -20,7 +21,7 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Hingabe
   - Klasse/Waldläufer

@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus
-image: token/priest-of-osybus-vrgr.webp
+Status: WIP
 linter-yaml-title-alias: Priest of Osybus
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Priest of Osybus
+image: token/priest-of-osybus-vrgr.webp
 status: WIP
 ---
 # [Priest of Osybus](3-Mechanics\CLI\bestiary\humanoid/priest-of-osybus-vrgr.md)

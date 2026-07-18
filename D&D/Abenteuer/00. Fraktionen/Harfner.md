@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Die Harfner
+Status: WIP
 linter-yaml-title-alias: Die Harfner
 tags:
   - Quelle/5e/phb

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe des Unvergleichlichen Zielens
+Status: WIP
 linter-yaml-title-alias: Gabe des Unvergleichlichen Zielens
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Peerless Aim

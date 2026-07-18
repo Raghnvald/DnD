@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Bloodshed
+Status: WIP
 linter-yaml-title-alias: Boon of Bloodshed
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of Bloodshed"
+  - Boon of Bloodshed
   - Boon of Bloodshed
 ---
 # Boon of Bloodshed

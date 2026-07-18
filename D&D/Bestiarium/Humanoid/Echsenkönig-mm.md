@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizard King
+Status: WIP
 linter-yaml-title-alias: Lizard King
 tags:
   - Monster/Größe/Mittelgroß

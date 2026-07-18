@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reisegeschwindigkeit
+Status: WIP
 linter-yaml-title-alias: Reisegeschwindigkeit
 tags:
   - Quelle/5e/phb

@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Locate Animals or Plants
+Bezeichnung: Tiere oder Pflanzen aufspüren
 Zaubergrad: 2
-linter-yaml-title-alias: Locate Animals or Plants
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Tiere oder Pflanzen aufspüren
 classes:
   - Bard (Magical Secrets)
   - Druid
@@ -15,9 +17,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Locate Animals or Plants
+  - Tiere oder Pflanzen aufspüren
 ---
-# Locate Animals or Plants
+# Tiere oder Pflanzen aufspüren
 *2nd-level, Divination (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

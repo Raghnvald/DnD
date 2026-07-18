@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scion of Surtur
+Status: WIP
 linter-yaml-title-alias: Scion of Surtur
 tags:
   - Monster/Größe/Gigantisch

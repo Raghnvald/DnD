@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sangzor
+Status: WIP
 linter-yaml-title-alias: Sangzor
 tags:
   - Monster/Größe/Groß

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Procan
+Status: WIP
 linter-yaml-title-alias: Procan
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/unknown
   - Quelle/5e/gos
 aliases:

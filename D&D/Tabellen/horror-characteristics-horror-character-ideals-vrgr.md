@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horror Characteristics; Horror Character Ideals
+Status: WIP
 linter-yaml-title-alias: Horror Characteristics; Horror Character Ideals
 tags:
   - Quelle/5e/vrgr

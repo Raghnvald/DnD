@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Locate Object
+Bezeichnung: Gegenstand aufspüren
 Zaubergrad: 2
-linter-yaml-title-alias: Locate Object
+Status: WIP
+Zeitaufwand: 1 Aktion
+linter-yaml-title-alias: Gegenstand aufspüren
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -24,9 +26,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Locate Object
+  - Gegenstand aufspüren
 ---
-# Locate Object
+# Gegenstand aufspüren
 *2nd-level, Divination*  
 
 - **Casting time:** 1 Action

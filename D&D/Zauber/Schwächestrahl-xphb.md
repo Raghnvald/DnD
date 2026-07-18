@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ray of Enfeeblement
+Status: WIP
 linter-yaml-title-alias: Ray of Enfeeblement
 classes:
   - Bard

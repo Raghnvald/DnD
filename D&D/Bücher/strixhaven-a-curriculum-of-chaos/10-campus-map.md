@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Campus Map
+Status: WIP
 linter-yaml-title-alias: Campus Map
 tags:
   - Quelle/5e/scc
 aliases:
-  - "Campus Map"
+  - Campus Map
   - Campus Map
 ---
 # Campus Map

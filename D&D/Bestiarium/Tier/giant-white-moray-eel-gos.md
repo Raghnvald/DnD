@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant White Moray Eel
+Status: WIP
 linter-yaml-title-alias: Giant White Moray Eel
 tags:
   - Monster/Größe/Riesig

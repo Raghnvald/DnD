@@ -2,10 +2,10 @@
 Bezeichnung: Regenfänger
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 2,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Regenfänger
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Regenfänger
+status: WIP
 ---
 # Regenfänger
 *Adventuring gear*  

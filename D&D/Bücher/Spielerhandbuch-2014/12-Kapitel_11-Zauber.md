@@ -1,19 +1,22 @@
 ---
-Bezeichnung: Spells
-linter-yaml-title-alias: Spells
+Bezeichnung: Zauber
+Status: WIP
+linter-yaml-title-alias: Zauber
 tags:
   - Quelle/5e/phb
 aliases:
-  - Spells
+  - Zauber
 ---
-# Spells
-*Source: Player's Handbook (2014), p. 207* 
+# Zauber
+*Quelle: Spielerhandbuch (2014), S. 207*
 
-This chapter describes the most common spells in the worlds of Dungeons & Dragons. The chapter begins with the spell lists of the spellcasting classes. The remainder contains spell descriptions, presented in alphabetical order by the name of the spell.
+Dieses Kapitel beschreibt die verbreitetsten Zauber in der Welt von DUNGEONS & DRAGONS. Das Kapitel beginnt mit den Zauberlisten der Klassen, die Magie anwenden. Im zweiten Teil findest du die Beschreibungen der Zaubersprüche, in alphabetischer Reihenfolge. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch11.webp#center)
+![](img/ch11.webp#center)
 
-## Bard Spells
+## Zauber des Barden
+
+### Zaubertricks
 
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md)  
 - [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md)  
@@ -136,7 +139,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Power Word Kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md)  
 - [True Polymorph](/3-Mechanics/CLI/spells/true-polymorph-xphb.md)  <br><br>
 
-## Cleric Spells
+## Zauber des Klerikers
 
 - [Guidance](/3-Mechanics/CLI/spells/guidance-xphb.md)  
 - [Light](/3-Mechanics/CLI/spells/light-xphb.md)  
@@ -245,7 +248,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Mass Heal](/3-Mechanics/CLI/spells/mass-heal-xphb.md)  
 - [True Resurrection](/3-Mechanics/CLI/spells/true-resurrection-xphb.md)  
 
-## Druid Spells
+## Zauber des Druiden
 
 - [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)  
 - [Guidance](/3-Mechanics/CLI/spells/guidance-xphb.md)  
@@ -358,7 +361,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Storm of Vengeance](/3-Mechanics/CLI/spells/storm-of-vengeance-xphb.md)  
 - [True Resurrection](/3-Mechanics/CLI/spells/true-resurrection-xphb.md)  
 
-## Paladin Spells
+## Zauber des Paladins
 
 - [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)  
 - [Command](/3-Mechanics/CLI/spells/command-xphb.md)  
@@ -406,7 +409,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Geas](/3-Mechanics/CLI/spells/geas-xphb.md)  
 - [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)  
 
-## Ranger Spells
+## Zauber des Waldläufers
 
 - [Alarm](/3-Mechanics/CLI/spells/alarm-xphb.md)  
 - [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)  
@@ -455,7 +458,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Swift Quiver](/3-Mechanics/CLI/spells/swift-quiver-xphb.md)  
 - [Tree Stride](/3-Mechanics/CLI/spells/tree-stride-xphb.md)  
 
-## Sorcerer Spells
+## Zauber des Zauberers
 
 - [Acid Splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md)  
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md)  
@@ -587,7 +590,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Time Stop](/3-Mechanics/CLI/spells/time-stop-xphb.md)  
 - [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)  
 
-## Warlock Spells
+## Zauber des Hexenmeisters
 
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md)  
 - [Chill Touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md)  
@@ -664,7 +667,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Power Word Kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md)  
 - [True Polymorph](/3-Mechanics/CLI/spells/true-polymorph-xphb.md)  
 
-## Wizard Spells
+## Zauber des Magiers
 
 - [Acid Splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md)  
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md)  
@@ -881,368 +884,368 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [Weird](/3-Mechanics/CLI/spells/weird-xphb.md)  
 - [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)  
 
-## Spell Descriptions
+## Beschreibungen der Zauber
 
-The spells are presented in alphabetical order.
+Die Zauber sind in alphabetischer Reihenfolge aufgelistet.
 
-- [Acid Splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md)  
-- [Aid](/3-Mechanics/CLI/spells/aid-xphb.md)  
-- [Alarm](/3-Mechanics/CLI/spells/alarm-xphb.md)  
-- [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md)  
-- [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)  
-- [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md)  
-- [Animal Shapes](/3-Mechanics/CLI/spells/animal-shapes-xphb.md)  
-- [Animate Dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md)  
-- [Animate Objects](/3-Mechanics/CLI/spells/animate-objects-xphb.md)  
-- [Antilife Shell](/3-Mechanics/CLI/spells/antilife-shell-xphb.md)  
-- [Antimagic Field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md)  
-- [Antipathy/Sympathy](/3-Mechanics/CLI/spells/antipathy-sympathy-xphb.md)  
-- [Arcane Eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md)  
-- [Arcane Gate](/3-Mechanics/CLI/spells/arcane-gate-xphb.md)  
-- [Arcane Lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md)  
-- [Armor of Agathys](/3-Mechanics/CLI/spells/armor-of-agathys-xphb.md)  
-- [Arms of Hadar](/3-Mechanics/CLI/spells/arms-of-hadar-xphb.md)  
-- [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md)  
-- [Augury](/3-Mechanics/CLI/spells/augury-xphb.md)  
-- [Aura of Life](/3-Mechanics/CLI/spells/aura-of-life-xphb.md)  
-- [Aura of Purity](/3-Mechanics/CLI/spells/aura-of-purity-xphb.md)  
-- [Aura of Vitality](/3-Mechanics/CLI/spells/aura-of-vitality-xphb.md)  
-- [Awaken](/3-Mechanics/CLI/spells/awaken-xphb.md)  
-- [Bane](/3-Mechanics/CLI/spells/bane-xphb.md)  
-- [Banishing Smite](/3-Mechanics/CLI/spells/banishing-smite-xphb.md)  
-- [Banishment](/3-Mechanics/CLI/spells/banishment-xphb.md)  
-- [Barkskin](/3-Mechanics/CLI/spells/barkskin-xphb.md)  
-- [Beacon of Hope](/3-Mechanics/CLI/spells/beacon-of-hope-xphb.md)  
-- [Beast Sense](/3-Mechanics/CLI/spells/beast-sense-xphb.md)  
-- [Bestow Curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md)  
-- [Bigby's Hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md)  
-- [Blade Barrier](/3-Mechanics/CLI/spells/blade-barrier-xphb.md)  
-- [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md)  
-- [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)  
-- [Blight](/3-Mechanics/CLI/spells/blight-xphb.md)  
-- [Blinding Smite](/3-Mechanics/CLI/spells/blinding-smite-xphb.md)  
-- [Blindness/Deafness](/3-Mechanics/CLI/spells/blindness-deafness-xphb.md)  
-- [Blink](/3-Mechanics/CLI/spells/blink-xphb.md)  
-- [Blur](/3-Mechanics/CLI/spells/blur-xphb.md)  
-- [Branding Smite](/3-Mechanics/CLI/spells/shining-smite-xphb.md)  
-- [Burning Hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md)  
-- [Call Lightning](/3-Mechanics/CLI/spells/call-lightning-xphb.md)  
-- [Calm Emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md)  
-- [Chain Lightning](/3-Mechanics/CLI/spells/chain-lightning-xphb.md)  
-- [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md)  
-- [Chill Touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md)  
-- [Chromatic Orb](/3-Mechanics/CLI/spells/chromatic-orb-xphb.md)  
-- [Circle of Death](/3-Mechanics/CLI/spells/circle-of-death-xphb.md)  
-- [Circle of Power](/3-Mechanics/CLI/spells/circle-of-power-xphb.md)  
-- [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md)  
-- [Clone](/3-Mechanics/CLI/spells/clone-xphb.md)  
-- [Cloud of Daggers](/3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md)  
-- [Cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md)  
-- [Color Spray](/3-Mechanics/CLI/spells/color-spray-xphb.md)  
-- [Command](/3-Mechanics/CLI/spells/command-xphb.md)  
-- [Commune](/3-Mechanics/CLI/spells/commune-xphb.md)  
-- [Commune with Nature](/3-Mechanics/CLI/spells/commune-with-nature-xphb.md)  
-- [Compelled Duel](/3-Mechanics/CLI/spells/compelled-duel-xphb.md)  
-- [Comprehend Languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md)  
-- [Compulsion](/3-Mechanics/CLI/spells/compulsion-xphb.md)  
-- [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md)  
-- [Confusion](/3-Mechanics/CLI/spells/confusion-xphb.md)  
-- [Conjure Animals](/3-Mechanics/CLI/spells/conjure-animals-xphb.md)  
-- [Conjure Barrage](/3-Mechanics/CLI/spells/conjure-barrage-xphb.md)  
-- [Conjure Celestial](/3-Mechanics/CLI/spells/conjure-celestial-xphb.md)  
-- [Conjure Elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md)  
-- [Conjure Fey](/3-Mechanics/CLI/spells/conjure-fey-xphb.md)  
-- [Conjure Minor Elementals](/3-Mechanics/CLI/spells/conjure-minor-elementals-xphb.md)  
-- [Conjure Volley](/3-Mechanics/CLI/spells/conjure-volley-xphb.md)  
-- [Conjure Woodland Beings](/3-Mechanics/CLI/spells/conjure-woodland-beings-xphb.md)  
-- [Contact Other Plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md)  
-- [Contagion](/3-Mechanics/CLI/spells/contagion-xphb.md)  
-- [Contingency](/3-Mechanics/CLI/spells/contingency-xphb.md)  
-- [Continual Flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md)  
-- [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md)  
-- [Control Weather](/3-Mechanics/CLI/spells/control-weather-xphb.md)  
-- [Cordon of Arrows](/3-Mechanics/CLI/spells/cordon-of-arrows-xphb.md)  
-- [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)  
-- [Create Food and Water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md)  
-- [Create or Destroy Water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)  
-- [Create Undead](/3-Mechanics/CLI/spells/create-undead-xphb.md)  
-- [Creation](/3-Mechanics/CLI/spells/creation-xphb.md)  
-- [Crown of Madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md)  
-- [Crusader's Mantle](/3-Mechanics/CLI/spells/crusaders-mantle-xphb.md)  
-- [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md)  
-- [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md)  
-- [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md)  
-- [Darkvision](/3-Mechanics/CLI/spells/darkvision-xphb.md)  
-- [Daylight](/3-Mechanics/CLI/spells/daylight-xphb.md)  
-- [Death Ward](/3-Mechanics/CLI/spells/death-ward-xphb.md)  
-- [Delayed Blast Fireball](/3-Mechanics/CLI/spells/delayed-blast-fireball-xphb.md)  
-- [Demiplane](/3-Mechanics/CLI/spells/demiplane-xphb.md)  
-- [Destructive Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md)  
-- [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)  
-- [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)  
-- [Detect Poison and Disease](/3-Mechanics/CLI/spells/detect-poison-and-disease-xphb.md)  
-- [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md)  
-- [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md)  
-- [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md)  
-- [Disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md)  
-- [Dispel Evil and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)  
-- [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)  
-- [Dissonant Whispers](/3-Mechanics/CLI/spells/dissonant-whispers-xphb.md)  
-- [Divination](/3-Mechanics/CLI/spells/divination-xphb.md)  
-- [Divine Favor](/3-Mechanics/CLI/spells/divine-favor-xphb.md)  
-- [Divine Word](/3-Mechanics/CLI/spells/divine-word-xphb.md)  
-- [Dominate Beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md)  
-- [Dominate Monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md)  
-- [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)  
-- [Drawmij's Instant Summons](/3-Mechanics/CLI/spells/drawmijs-instant-summons-xphb.md)  
-- [Dream](/3-Mechanics/CLI/spells/dream-xphb.md)  
-- [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)  
-- [Earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md)  
-- [Eldritch Blast](/3-Mechanics/CLI/spells/eldritch-blast-xphb.md)  
-- [Elemental Weapon](/3-Mechanics/CLI/spells/elemental-weapon-xphb.md)  
-- [Enhance Ability](/3-Mechanics/CLI/spells/enhance-ability-xphb.md)  
-- [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md)  
-- [Ensnaring Strike](/3-Mechanics/CLI/spells/ensnaring-strike-xphb.md)  
-- [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md)  
-- [Enthrall](/3-Mechanics/CLI/spells/enthrall-xphb.md)  
-- [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md)  
-- [Evard's Black Tentacles](/3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md)  
-- [Expeditious Retreat](/3-Mechanics/CLI/spells/expeditious-retreat-xphb.md)  
-- [Eyebite](/3-Mechanics/CLI/spells/eyebite-xphb.md)  
-- [Fabricate](/3-Mechanics/CLI/spells/fabricate-xphb.md)  
-- [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md)  
-- [False Life](/3-Mechanics/CLI/spells/false-life-xphb.md)  
-- [Fear](/3-Mechanics/CLI/spells/fear-xphb.md)  
-- [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)  
-- [Feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md)  
-- [Feign Death](/3-Mechanics/CLI/spells/feign-death-xphb.md)  
-- [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md)  
-- [Find Steed](/3-Mechanics/CLI/spells/find-steed-xphb.md)  
-- [Find the Path](/3-Mechanics/CLI/spells/find-the-path-xphb.md)  
-- [Find Traps](/3-Mechanics/CLI/spells/find-traps-xphb.md)  
-- [Finger of Death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md)  
-- [Fire Bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md)  
-- [Fire Shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md)  
-- [Fire Storm](/3-Mechanics/CLI/spells/fire-storm-xphb.md)  
-- [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)  
-- [Flame Blade](/3-Mechanics/CLI/spells/flame-blade-xphb.md)  
-- [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md)  
-- [Flaming Sphere](/3-Mechanics/CLI/spells/flaming-sphere-xphb.md)  
-- [Flesh to Stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md)  
-- [Fly](/3-Mechanics/CLI/spells/fly-xphb.md)  
-- [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md)  
-- [Forbiddance](/3-Mechanics/CLI/spells/forbiddance-xphb.md)  
-- [Forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md)  
-- [Foresight](/3-Mechanics/CLI/spells/foresight-xphb.md)  
-- [Freedom of Movement](/3-Mechanics/CLI/spells/freedom-of-movement-xphb.md)  
-- [Friends](/3-Mechanics/CLI/spells/friends-xphb.md)  
-- [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md)  
-- [Gate](/3-Mechanics/CLI/spells/gate-xphb.md)  
-- [Geas](/3-Mechanics/CLI/spells/geas-xphb.md)  
-- [Gentle Repose](/3-Mechanics/CLI/spells/gentle-repose-xphb.md)  
-- [Giant Insect](/3-Mechanics/CLI/spells/giant-insect-xphb.md)  
-- [Glibness](/3-Mechanics/CLI/spells/glibness-xphb.md)  
-- [Globe of Invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)  
-- [Glyph of Warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md)  
-- [Goodberry](/3-Mechanics/CLI/spells/goodberry-xphb.md)  
-- [Grasping Vine](/3-Mechanics/CLI/spells/grasping-vine-xphb.md)  
-- [Grease](/3-Mechanics/CLI/spells/grease-xphb.md)  
-- [Greater Invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md)  
-- [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)  
-- [Guardian of Faith](/3-Mechanics/CLI/spells/guardian-of-faith-xphb.md)  
-- [Guards and Wards](/3-Mechanics/CLI/spells/guards-and-wards-xphb.md)  
-- [Guidance](/3-Mechanics/CLI/spells/guidance-xphb.md)  
-- [Guiding Bolt](/3-Mechanics/CLI/spells/guiding-bolt-xphb.md)  
-- [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md)  
-- [Hail of Thorns](/3-Mechanics/CLI/spells/hail-of-thorns-xphb.md)  
-- [Hallow](/3-Mechanics/CLI/spells/hallow-xphb.md)  
-- [Hallucinatory Terrain](/3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md)  
-- [Harm](/3-Mechanics/CLI/spells/harm-xphb.md)  
-- [Haste](/3-Mechanics/CLI/spells/haste-xphb.md)  
-- [Heal](/3-Mechanics/CLI/spells/heal-xphb.md)  
-- [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md)  
-- [Heat Metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md)  
-- [Hellish Rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md)  
-- [Heroes' Feast](/3-Mechanics/CLI/spells/heroes-feast-xphb.md)  
-- [Heroism](/3-Mechanics/CLI/spells/heroism-xphb.md)  
-- [Hex](/3-Mechanics/CLI/spells/hex-xphb.md)  
-- [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md)  
-- [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md)  
-- [Holy Aura](/3-Mechanics/CLI/spells/holy-aura-xphb.md)  
-- [Hunger of Hadar](/3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md)  
-- [Hunter's Mark](/3-Mechanics/CLI/spells/hunters-mark-xphb.md)  
-- [Hypnotic Pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)  
-- [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md)  
-- [Identify](/3-Mechanics/CLI/spells/identify-xphb.md)  
-- [Illusory Script](/3-Mechanics/CLI/spells/illusory-script-xphb.md)  
-- [Imprisonment](/3-Mechanics/CLI/spells/imprisonment-xphb.md)  
-- [Incendiary Cloud](/3-Mechanics/CLI/spells/incendiary-cloud-xphb.md)  
-- [Inflict Wounds](/3-Mechanics/CLI/spells/inflict-wounds-xphb.md)  
-- [Insect Plague](/3-Mechanics/CLI/spells/insect-plague-xphb.md)  
-- [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)  
-- [Jump](/3-Mechanics/CLI/spells/jump-xphb.md)  
-- [Knock](/3-Mechanics/CLI/spells/knock-xphb.md)  
-- [Legend Lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md)  
-- [Leomund's Secret Chest](/3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md)  
-- [Leomund's Tiny Hut](/3-Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md)  
-- [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md)  
-- [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)  
-- [Light](/3-Mechanics/CLI/spells/light-xphb.md)  
-- [Lightning Arrow](/3-Mechanics/CLI/spells/lightning-arrow-xphb.md)  
-- [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)  
-- [Locate Animals or Plants](/3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md)  
-- [Locate Creature](/3-Mechanics/CLI/spells/locate-creature-xphb.md)  
-- [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md)  
-- [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md)  
-- [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)  
-- [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)  
-- [Magic Circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md)  
-- [Magic Jar](/3-Mechanics/CLI/spells/magic-jar-xphb.md)  
-- [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)  
-- [Magic Mouth](/3-Mechanics/CLI/spells/magic-mouth-xphb.md)  
-- [Magic Weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md)  
-- [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md)  
-- [Mass Cure Wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md)  
-- [Mass Heal](/3-Mechanics/CLI/spells/mass-heal-xphb.md)  
-- [Mass Healing Word](/3-Mechanics/CLI/spells/mass-healing-word-xphb.md)  
-- [Mass Suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md)  
-- [Maze](/3-Mechanics/CLI/spells/maze-xphb.md)  
-- [Meld into Stone](/3-Mechanics/CLI/spells/meld-into-stone-xphb.md)  
-- [Melf's Acid Arrow](/3-Mechanics/CLI/spells/melfs-acid-arrow-xphb.md)  
-- [Mending](/3-Mechanics/CLI/spells/mending-xphb.md)  
-- [Message](/3-Mechanics/CLI/spells/message-xphb.md)  
-- [Meteor Swarm](/3-Mechanics/CLI/spells/meteor-swarm-xphb.md)  
-- [Mind Blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)  
-- [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)  
-- [Mirage Arcane](/3-Mechanics/CLI/spells/mirage-arcane-xphb.md)  
-- [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md)  
-- [Mislead](/3-Mechanics/CLI/spells/mislead-xphb.md)  
-- [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md)  
-- [Modify Memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md)  
-- [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md)  
-- [Mordenkainen's Faithful Hound](/3-Mechanics/CLI/spells/mordenkainens-faithful-hound-xphb.md)  
-- [Mordenkainen's Magnificent Mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md)  
-- [Mordenkainen's Private Sanctum](/3-Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md)  
-- [Mordenkainen's Sword](/3-Mechanics/CLI/spells/mordenkainens-sword-xphb.md)  
-- [Move Earth](/3-Mechanics/CLI/spells/move-earth-xphb.md)  
-- [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)  
-- [Nystul's Magic Aura](/3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md)  
-- [Otiluke's Freezing Sphere](/3-Mechanics/CLI/spells/otilukes-freezing-sphere-xphb.md)  
-- [Otiluke's Resilient Sphere](/3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md)  
-- [Otto's Irresistible Dance](/3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)  
-- [Pass without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)  
-- [Passwall](/3-Mechanics/CLI/spells/passwall-xphb.md)  
-- [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md)  
-- [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)  
-- [Phantom Steed](/3-Mechanics/CLI/spells/phantom-steed-xphb.md)  
-- [Planar Ally](/3-Mechanics/CLI/spells/planar-ally-xphb.md)  
-- [Planar Binding](/3-Mechanics/CLI/spells/planar-binding-xphb.md)  
-- [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)  
-- [Plant Growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md)  
-- [Poison Spray](/3-Mechanics/CLI/spells/poison-spray-xphb.md)  
-- [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md)  
-- [Power Word Heal](/3-Mechanics/CLI/spells/power-word-heal-xphb.md)  
-- [Power Word Kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md)  
-- [Power Word Stun](/3-Mechanics/CLI/spells/power-word-stun-xphb.md)  
-- [Prayer of Healing](/3-Mechanics/CLI/spells/prayer-of-healing-xphb.md)  
-- [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)  
-- [Prismatic Spray](/3-Mechanics/CLI/spells/prismatic-spray-xphb.md)  
-- [Prismatic Wall](/3-Mechanics/CLI/spells/prismatic-wall-xphb.md)  
-- [Produce Flame](/3-Mechanics/CLI/spells/produce-flame-xphb.md)  
-- [Programmed Illusion](/3-Mechanics/CLI/spells/programmed-illusion-xphb.md)  
-- [Project Image](/3-Mechanics/CLI/spells/project-image-xphb.md)  
-- [Protection from Energy](/3-Mechanics/CLI/spells/protection-from-energy-xphb.md)  
-- [Protection from Evil and Good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)  
-- [Protection from Poison](/3-Mechanics/CLI/spells/protection-from-poison-xphb.md)  
-- [Purify Food and Drink](/3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md)  
-- [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)  
-- [Rary's Telepathic Bond](/3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)  
-- [Ray of Enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md)  
-- [Ray of Frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md)  
-- [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)  
-- [Regenerate](/3-Mechanics/CLI/spells/regenerate-xphb.md)  
-- [Reincarnate](/3-Mechanics/CLI/spells/reincarnate-xphb.md)  
-- [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md)  
-- [Resistance](/3-Mechanics/CLI/spells/resistance-xphb.md)  
-- [Resurrection](/3-Mechanics/CLI/spells/resurrection-xphb.md)  
-- [Reverse Gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md)  
-- [Revivify](/3-Mechanics/CLI/spells/revivify-xphb.md)  
-- [Rope Trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md)  
-- [Sacred Flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md)  
-- [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)  
-- [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md)  
-- [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)  
-- [Searing Smite](/3-Mechanics/CLI/spells/searing-smite-xphb.md)  
-- [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)  
-- [Seeming](/3-Mechanics/CLI/spells/seeming-xphb.md)  
-- [Sending](/3-Mechanics/CLI/spells/sending-xphb.md)  
-- [Sequester](/3-Mechanics/CLI/spells/sequester-xphb.md)  
-- [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md)  
-- [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md)  
-- [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)  
-- [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)  
-- [Shillelagh](/3-Mechanics/CLI/spells/shillelagh-xphb.md)  
-- [Shocking Grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md)  
-- [Silence](/3-Mechanics/CLI/spells/silence-xphb.md)  
-- [Silent Image](/3-Mechanics/CLI/spells/silent-image-xphb.md)  
-- [Simulacrum](/3-Mechanics/CLI/spells/simulacrum-xphb.md)  
-- [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)  
-- [Sleet Storm](/3-Mechanics/CLI/spells/sleet-storm-xphb.md)  
-- [Slow](/3-Mechanics/CLI/spells/slow-xphb.md)  
-- [Spare the Dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md)  
-- [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)  
-- [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md)  
-- [Speak with Plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md)  
-- [Spider Climb](/3-Mechanics/CLI/spells/spider-climb-xphb.md)  
-- [Spike Growth](/3-Mechanics/CLI/spells/spike-growth-xphb.md)  
-- [Spirit Guardians](/3-Mechanics/CLI/spells/spirit-guardians-xphb.md)  
-- [Spiritual Weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)  
-- [Staggering Smite](/3-Mechanics/CLI/spells/staggering-smite-xphb.md)  
-- [Stinking Cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md)  
-- [Stone Shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)  
-- [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md)  
-- [Storm of Vengeance](/3-Mechanics/CLI/spells/storm-of-vengeance-xphb.md)  
-- [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)  
-- [Sunbeam](/3-Mechanics/CLI/spells/sunbeam-xphb.md)  
-- [Sunburst](/3-Mechanics/CLI/spells/sunburst-xphb.md)  
-- [Swift Quiver](/3-Mechanics/CLI/spells/swift-quiver-xphb.md)  
-- [Symbol](/3-Mechanics/CLI/spells/symbol-xphb.md)  
-- [Tasha's Hideous Laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)  
-- [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)  
-- [Telepathy](/3-Mechanics/CLI/spells/telepathy-xphb.md)  
-- [Teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)  
-- [Teleportation Circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md)  
-- [Tenser's Floating Disk](/3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md)  
-- [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)  
-- [Thorn Whip](/3-Mechanics/CLI/spells/thorn-whip-xphb.md)  
-- [Thunderous Smite](/3-Mechanics/CLI/spells/thunderous-smite-xphb.md)  
-- [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)  
-- [Time Stop](/3-Mechanics/CLI/spells/time-stop-xphb.md)  
-- [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)  
-- [Transport via Plants](/3-Mechanics/CLI/spells/transport-via-plants-xphb.md)  
-- [Tree Stride](/3-Mechanics/CLI/spells/tree-stride-xphb.md)  
-- [True Polymorph](/3-Mechanics/CLI/spells/true-polymorph-xphb.md)  
-- [True Resurrection](/3-Mechanics/CLI/spells/true-resurrection-xphb.md)  
-- [True Seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)  
-- [True Strike](/3-Mechanics/CLI/spells/true-strike-xphb.md)  
-- [Tsunami](/3-Mechanics/CLI/spells/tsunami-xphb.md)  
-- [Unseen Servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md)  
-- [Vampiric Touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md)  
-- [Vicious Mockery](/3-Mechanics/CLI/spells/vicious-mockery-xphb.md)  
-- [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md)  
-- [Wall of Force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)  
-- [Wall of Ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md)  
-- [Wall of Stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md)  
-- [Wall of Thorns](/3-Mechanics/CLI/spells/wall-of-thorns-xphb.md)  
-- [Warding Bond](/3-Mechanics/CLI/spells/warding-bond-xphb.md)  
-- [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md)  
-- [Water Walk](/3-Mechanics/CLI/spells/water-walk-xphb.md)  
-- [Web](/3-Mechanics/CLI/spells/web-xphb.md)  
-- [Weird](/3-Mechanics/CLI/spells/weird-xphb.md)  
-- [Wind Walk](/3-Mechanics/CLI/spells/wind-walk-xphb.md)  
-- [Wind Wall](/3-Mechanics/CLI/spells/wind-wall-xphb.md)  
-- [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)  
-- [Witch Bolt](/3-Mechanics/CLI/spells/witch-bolt-xphb.md)  
-- [Word of Recall](/3-Mechanics/CLI/spells/word-of-recall-xphb.md)  
-- [Wrathful Smite](/3-Mechanics/CLI/spells/wrathful-smite-xphb.md)  
-- [Zone of Truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md)
+- [[Ablenkung-phb|Ablenkung]]
+- [[Alarm-phb|Alarm]]
+- [[Ansteckung-phb|Ansteckung]]
+- [[Antimagisches_Feld-phb|Antimagisches Feld]]
+- [[Antipathie-Sympathie-phb|Antipathie/Sympathie]]
+- [[Arkanes_Auge-phb|Arkanes Auge]]
+- [[Arkanes_Schloss-phb|Arkanes Schloss]]
+- [[Arkane_Spiegelung-phb|Arkane Spiegelung]]
+- [[Arkanes_Tor-phb|Arkanes Tor]]
+- [[Arme_von_Hadar-phb|Arme von Hadar]]
+- [[Astrale_Projektion-phb|Astrale Projektion]]
+- [[Ätherische_Gestalten-phb|Ätherische Gestalten]]
+- [[Attribut-verbessern-phb|Attribut verbessern]]
+- [[Auferstehung-phb|Auferstehung]]
+- [[Auflösung-phb|Auflösung]]
+- [[Auf_Wasser_gehen-phb|Auf Wasser gehen]]
+- [[Aura_der_Gesundheit-phb|Aura der Gesundheit]]
+- [[Aura_der_Reinheit-phb|Aura der Reinheit]]
+- [[Aura_des_Lebens-phb|Aura des Lebens]]
+- [[Ausbessern-phb|Ausbessern]]
+- [[Äusserlichkeiten-phb|Äusserlichkeiten]]
+- [[Ausspähung-phb|Ausspähung]]
+- [[Befehl-phb|Befehl]]
+- [[Beistand-phb|Beistand]]
+- [[Bewegungsfreiheit-phb|Bewegungsfreiheit]]
+- [[Bigbys_Arkane_Hand-phb|Bigbys Hand]]
+- [[Bindung_der_Ebenen-phb|Bindung der Ebenen]]
+- [[Blendendes_Niederstrecken-phb|Blendendes Niederstrecken]]
+- [[Blindheit-Taubheit-phb|Blindheit/Taubheit]]
+- [[Blitz-phb|Blitz]]
+- [[Blitze_herbeirufen-phb|Blitze herbeirufen]]
+- [[Blitzpfeil-phb|Blitzpfeil]]
+- [[Böser_Blick-phb|Böser Blick]]
+- [[Botschaft-phb|Botschaft]]
+- [[Brandmarkendes_Niederstrecken-phb|Brandmarkendes Niederstrecken]]
+- [[Brennende_Hände-phb|Brennende Hände]]
+- [[Chromatische_Kugel-phb|Chromatische Kugel]]
+- [[Dauerhafte_Flamme-phb|Dauerhafte Flamme]]
+- [[Dimensionstür-phb|Dimensionstür]]
+- [[Dissonantes_Flüstern-phb|Dissonantes Flüstern]]
+- [[Dolchwolke-phb|Dolchwolke]]
+- [[Donnerndes_Niederstrecken-phb|Donnerdes Niederstrecken]]
+- [[Donnerwoge-phb|Donnerwoge]]
+- [[Dornenhagel-phb|Dornenhagel]]
+- [[Dornenpeitsche-phb|Dornenpeitsche]]
+- [[Dornenwand-phb|Dornenwand]]
+- [[Dornenwuchs-phb|Dornenwuchs]]
+- [[Drawmijs_Sofortige_Herbeizauberung-phb|Drawmijs Sofortige Herbeizauberung]]
+- [[Druidenkunst-phb|Druidenkunst]]
+- [[Dunkelheit-phb|Dunkelheit]]
+- [[Dunkelsicht-phb|Dunkelsicht]]
+- [[Dürre-phb|Dürre]]
+- [[Ebenenwechsel-phb|Ebenenwechsel]]
+- [[Einfache_Illusion-phb|Einfache Illusion]]
+- [[Einflüsterung-phb|Einflüsterung]]
+- [[Einkerkerung-phb|Einkerkerung]]
+- [[Einswerden_mit_der_Natur-phb|Einswerden mit der Natur]]
+- [[Eissturm-phb|Eissturm]]
+- [[Eiswand-phb|Eiswand]]
+- [[Elementar_beschwören-phb|Elementar beschwören]]
+- [[Elementare_Waffe-phb|Elementare Waffe]]
+- [[Energiekäfig-phb|Energiekäfig]]
+- [[Energiewand-phb|Energiewand]]
+- [[Erdbeben-phb|Erdbeben]]
+- [[Erde_bewegen-phb|Erde bewegen]]
+- [[Erinnerung_verändern-phb|Erinnerungen verändern]]
+- [[Erschaffung-phb|Erschaffung]]
+- [[Erwecken-phb|Erwecken]]
+- [[Erzwungenes_Duell-phb|Erzwungenes Duell]]
+- [[Evards_Schwarze_Tentakel-phb|Evards Schwarze Tentakel]]
+- [[Fallen_finden-phb|Fallen finden]]
+- [[Falsches_Leben-phb|Falsches Leben]]
+- [[Federfall-phb|Federfall]]
+- [[Feenfeuer-phb|Feenfeuer]]
+- [[Feenwesen_beschwören-phb|Feenwesen beschwören]]
+- [[Fesseln-phb|Fesseln]]
+- [[Fesselnder_Schlag-phb|Fesselnder Schlag]]
+- [[Feuerball-phb|Feuerball]]
+- [[Feuerpfeil-phb|Feuerpfeil]]
+- [[Feuerschild-phb|Feuerschild]]
+- [[Feuersturm-phb|Feuersturm]]
+- [[Feuerwand-phb|Feuerwand]]
+- [[Finger_des_Todes-phb|Finger des Todes]]
+- [[Flammen_erzeugen-phb|Flammen erzeugen]]
+- [[Flammende_Wolke-phb|Flammende Wolke]]
+- [[Flammenklinge-phb|Flammenklinge]]
+- [[Flammenkugel-phb|Flammenkugel]]
+- [[Flammenschlag-phb|Flammenschlag]]
+- [[Fleisch_zu_Stein-phb|Fleisch zu Stein]]
+- [[Fliegen-phb|Fliegen]]
+- [[Flimmern-phb|Flimmern]]
+- [[Fluch-phb|Fluch]]
+- [[Fluch_brechen-phb|Fluch brechen]]
+- [[Freundschaft-phb|Freundschaft]]
+- [[Furcht-phb|Furcht]]
+- [[Gasförmige_Gestalt-phb|Gasförmige Gestalt]]
+- [[Geas-phb|Geas]]
+- [[Gebet_der_Heilung-phb|Gebet der Heilung]]
+- [[Gedanken_wahrnehmen-phb|Gedanken wahrnehmen]]
+- [[Gedankenleere-phb|Gedankenleere]]
+- [[Gefühle_besänftigen-phb|Gefühle besänftigen]]
+- [[Gegenstand_aufspüren-phb|Gegenstand aufspüren]]
+- [[Gegenstände_beleben-phb|Gegenstände beleben]]
+- [[Gegenzauber-phb|Gegenzauber]]
+- [[Gehässiger_Spott-phb|Gehässiger Spott]]
+- [[Geisterross-phb|Geisterross]]
+- [[Gestalt_verändern-phb|Gestalt verändern]]
+- [[Gestaltwandel-phb|Gestaltwandel]]
+- [[Gift_und_Krankheit_entdecken-phb|Gift und Krankheit entdecken]]
+- [[Gift_versprühen-phb|Gift versprühen]]
+- [[Glyphe_des_Schutzes-phb|Glyphe des Schutzes]]
+- [[Göttliche_Führung-phb|Göttliche Führung]]
+- [[Göttliche_Gunst-phb|Göttliche Gunst]]
+- [[Göttliches_Wort-phb|Göttliches Wort]]
+- [[Gute_Beeren-phb|Gute Beeren]]
+- [[Gutes_und_Böses_bannen-phb|Gutes und Böses bannen]]
+- [[Gutes_und_Böses_entdecken-phb|Gutes und Böses entdecken]]
+- [[Halbebene-phb|Halbebene]]
+- [[Hast-phb|Hast]]
+- [[Heilendes_Wort-phb|Heilendes Wort]]
+- [[Heilige_Aura-phb|Heilige Aura]]
+- [[Heilige_Flamme-phb|Heilige Flamme]]
+- [[Heiliges_Gespräch-phb|Heiliges Gespräch]]
+- [[Heiligtum-phb|Heiligtum]]
+- [[Heilung-phb|Heilung]]
+- [[Heldenmahl-phb|Heldenmahl]]
+- [[Heldenmut-phb|Heldenmut]]
+- [[Hellsehen-phb|Hellsehen]]
+- [[Hexenpfeil-phb|Hexenpfeil]]
+- [[Himmlisches_Wesen_beschwören-phb|Himmlisches Wesen beschwören]]
+- [[Höllischer_Tadel-phb|Höllischer Tadel]]
+- [[Hölzerner_Weg-phb|Hölzerner Weg]]
+- [[Hunger_von_Hadar-phb|Hunger von Hadar]]
+- [[Hüter_des_Glaubens-phb|Hüter des Glaubens]]
+- [[Hypnotisches_Muster-phb|Hypnotisches Muster]]
+- [[Identifizieren-phb|Identifizieren]]
+- [[Illusionsschrift-phb|Illusionsschrift]]
+- [[Insektenplage-phb|Insektenplage]]
+- [[Irrgarten-phb|Irrgarten]]
+- [[Kalte_Hand-phb|Kalte Hand]]
+- [[Kältekegel-phb|Kältekegel]]
+- [[Kältestrahl-phb|Kältestrahl]]
+- [[Klingenbann-phb|Klingenbann]]
+- [[Klingenbarriere-phb|Klingenbarriere]]
+- [[Klon-phb|Klon]]
+- [[Klopfen-phb|Klopfen]]
+- [[Kontakt_zu_anderen_Ebenen-phb|Kontakt zu anderen Ebenen]]
+- [[Kreatur_aufspüren-phb|Kreatur aufspüren]]
+- [[Kreis_der_Macht-phb|Kreis der Macht]]
+- [[Kreis_der_Teleportation-phb|Kreis der Teleportation]]
+- [[Kreuzfahrermantel-phb|Kreuzfahrermantel]]
+- [[Krone_des_Wahnsinns-phb|Krone des Wahnsinns]]
+- [[Kugel_der_Unverwundbarkeit-phb|Kugel der Unverwundbarkeit]]
+- [[Kugelblitz-phb|Kugelblitz]]
+- [[Lange_Schritte-phb|Lange Schritte]]
+- [[Lautloses_Trugbild-phb|Lautloses Trugbild]]
+- [[Leid-phb|Leid]]
+- [[Lenkendes_Geschoss-phb|Lenkendes Geschoss]]
+- [[Leomunds_Geheime_Truhe-phb|Leomunds Geheime Truhe]]
+- [[Leomunds_Winzige_Hütte-phb|Leomunds Winzige Hütte]]
+- [[Leuchtfeuer_der_Hoffnung-phb|Leuchtfeuer der Hoffnung]]
+- [[Licht-phb|Licht]]
+- [[Macht_der_Vorstellungskraft-phb|Macht der Vorstellungskraft]]
+- [[Mächtige_Unsichtbarkeit-phb|Mächtige Unsichtbarkeit]]
+- [[Mächtiges_Trugbild-phb|Mächtiges Trugbild]]
+- [[Magie_bannen-phb|Magie bannen]]
+- [[Magie_entdecken-phb|Magie entdecken]]
+- [[Magierhand-phb|Magierhand]]
+- [[Magierrüstung-phb|Magierrüstung]]
+- [[Magischer_Mund-phb|Magischer Mund]]
+- [[Magisches_Gefäß-phb|Magisches Gefäß]]
+- [[Magisches_Geschoss-phb|Magisches Geschoss]]
+- [[Magische_Waffe-phb|Magische Waffe]]
+- [[Massen-Einflüsterung-phb|Massen-Einflüsterung]]
+- [[Massen-Heilendes_Wort-phb|Massen-Heilendes Wort]]
+- [[Massen-Heilung-phb|Massen-Heilung]]
+- [[Massen-Wunden_heilen-phb|Massen-Wunden heilen]]
+- [[Melfs_Säurepfeil-phb|Melfs Säurepfeil]]
+- [[Metall_erhitzen-phb|Metall erhitzen]]
+- [[Meteoritenschwarm-phb|Meteoritenschwarm]]
+- [[Mit_Pflanzen_sprechen-phb|Mit Pflanzen sprechen]]
+- [[Mit_Stein_verschmelzen-phb|Mit Stein verschmelzen]]
+- [[Mit_Tieren_sprechen-phb|Mit Tieren sprechen]]
+- [[Mit_Toten_sprechen-phb|Mit Toten sprechen]]
+- [[Mondstrahl-phb|Mondstrahl]]
+- [[Monster_beherrschen-phb|Monster beherrschen]]
+- [[Monster_festhalten-phb|Monster festhalten]]
+- [[Mordenkainens_Herrliches_Herrenhaus-phb|Mordenkainens Herrliches Herrenhaus]]
+- [[Mordenkainens_Privates_Heiligtum-phb|Mordenkainens Privates Heiligtum]]
+- [[Mordenkainens_Arkanes_Schwert-phb|Mordenkainens Schwert]]
+- [[Mordenkainens_Treuer_Hund-phb|Mordenkainens Treuer Hund]]
+- [[Nahrung_und_Wasser_erschaffen-phb|Nahrung und Wasser erschaffen]]
+- [[Nahrung_und_Wasser_reinigen-phb|Nahrung und Wasser reinigen]]
+- [[Nebelschritt-phb|Nebelschritt]]
+- [[Nebelwolke-phb|Nebelwolke]]
+- [[Notfall-phb|Notfall]]
+- [[Nystuls_Magische_Aura-phb|Nystuls Magische Aura]]
+- [[Otilukes_Frostsphäre-phb|Otilukes Frostsphäre]]
+- [[Otilukes_Unverwüstliche_Sphäre-phb|Otilukes Unverwüstliche Sphäre]]
+- [[Ottos_Unwiderstehlicher_Tanz-phb|Ottos Unwiderstehlicher Tanz]]
+- [[Person_beherrschen-phb|Person beherrschen]]
+- [[Person_bezaubern-phb|Person bezaubern]]
+- [[Person_festhalten-phb|Person festhalten]]
+- [[Pfeilsalve_beschwören-phb|Pfeilsalve beschwören]]
+- [[Pfeilspalier-phb|Pfeilspalier]]
+- [[Pflanzentor-phb]]
+- [[Pflanzenwachstum-phb|Pflanzenwachstum]]
+- [[Rarys_Telepathisches_Band-phb|Rarys Telepathisches Band]]
+- [[Rascher_Rückzug-phb|Rascher Rückzug]]
+- [[Redegewandtheit-phb|Redegewandtheit]]
+- [[Regenbogenspiel-phb|Regenbogenspiel]]
+- [[Regenbogenwand-phb|Regenbogenwand]]
+- [[Regeneration-phb|Regeneration]]
+- [[Reittier_finden-phb|Reittier finden]]
+- [[Resistenz-phb|Resistenz]]
+- [[Rieseninsekt-phb|Rieseninsekt]]
+- [[Rindenhaut-phb|Rindenhaut]]
+- [[Rückruf-phb|Rückruf]]
+- [[Rüstung_von_Agathys-phb|Rüstung von Agathys]]
+- [[Sagenkunde-phb|Sagenkunde]]
+- [[Sanfte_Ruhe-phb|Sanfte Ruhe]]
+- [[Säurespritzer-phb|Säurespritzer]]
+- [[Schauriger_Strahl-phb|Schauriger Strahl]]
+- [[Scheingelände-phb|Scheingelände]]
+- [[Zauber/Schild-phb|Schild]]
+- [[Schild_des_Glaubens-phb|Schild des Glaubens]]
+- [[Schlaf-phb|Schlaf]]
+- [[Schlingranke-phb|Schlingranke]]
+- [[Schmieren-phb|Schmieren]]
+- [[Schneesturm-phb|Schneesturm]]
+- [[Schneller_Köcher-phb|Schneller Köcher]]
+- [[Schockgriff-phb|Schockgriff]]
+- [[Schusshagel_beschwören-phb|Schusshagel beschwören]]
+- [[Schutz_vor_Energie-phb|Schutz vor Energie]]
+- [[Schutz_vor_Gift-phb|Schutz vor Gift]]
+- [[Schutz_vor_Gut_und_Böse-phb|Schutz vor Gut und Böse]]
+- [[Schützendes_Band-phb|Schützendes Band]]
+- [[Schutzgeister-phb|Schutzgeister]]
+- [[Schutzhülle_gegen_Lebendes-phb|Schutzhülle gegen Lebendes]]
+- [[Schutzkreis-phb|Schutzkreis]]
+- [[Schwache_Elementare_beschwören-phb|Schwache Elementare beschwören]]
+- [[Schwache_Genesung-phb|Schwache Genesung]]
+- [[Schwächestrahl-phb|Schwächestrahl]]
+- [[Schwachsinn-phb|Schwachsinn]]
+- [[Schweben-phb|Schweben]]
+- [[Schwerkraft_umkehren-phb|Schwerkraft umkehren]]
+- [[Segnen-phb|Segnen]]
+- [[Seiltrick-phb|Seiltrick]]
+- [[Selbstverkleidung-phb|Selbstverkleidung]]
+- [[Sengender_Strahl-phb|Sengender Strahl]]
+- [[Sengendes_Niederstrecken-phb|Sengendes Niederstrecken]]
+- [[Shillelagh-phb|Shillelagh]]
+- [[Simulakrum-phb|Simulakrum]]
+- [[Sonnenfeuer-phb|Sonnenfeuer]]
+- [[Sonnenstrahl-phb|Sonnenstrahl]]
+- [[Spätzündender_Feuerball-phb|Spätzündender Feuerball]]
+- [[Spiegelbilder-phb|Spiegelbilder]]
+- [[Spinnenklettern-phb|Spinnenklettern]]
+- [[Spinnennetz-phb|Spinnennetz]]
+- [[Sprachen_verstehen-phb|Sprachen verstehen]]
+- [[Springen-phb|Springen]]
+- [[Sprühende Farben-phb|Sprühende Farben]]
+- [[Spurloses_Gehen-phb|Spurloses Gehen]]
+- [[Stein_formen-phb|Stein formen]]
+- [[Steinhaut-phb|Steinhaut]]
+- [[Steinwand-phb|Steinwand]]
+- [[Stille-phb|Stille]]
+- [[Stinkende_Wolke-phb|Stinkende Wolke]]
+- [[Strahl_der_Übelkeit-phb|Strahl der Übelkeit]]
+- [[Sturm_der_Vergeltung-phb|Sturm der Vergeltung]]
+- [[Symbol-phb|Symbol]]
+- [[Tageslicht-phb|Tageslicht]]
+- [[Tanzende_Lichter-phb|Tanzende Lichter]]
+- [[Taschenspielerei-phb|Taschenspielerei]]
+- [[Tashas_Fürchterlicher_Lachanfall-phb|Tashas Fürchterlicher Lachanfall]]
+- [[Telekinese-phb|Telekinese]]
+- [[Telepathie-phb|Telepathie]]
+- [[Teleportieren-phb|Teleportieren]]
+- [[Tensers_Schwebende_Scheibe-phb|Tensers Schwebende Scheibe]]
+- [[Thaumaturgie-phb|Thaumaturgie]]
+- [[Tier_beherrschen-phb|Tier beherrschen]]
+- [[Tiere_oder_Pflanzen_aufspüren-phb|Tiere oder Pflanzen aufspüren]]
+- [[Tierbote-phb|Tierbote]]
+- [[Tiere_beschwören-phb|Tier beschwören]]
+- [[Tierform-phb|Tierform]]
+- [[Tierfreundschaft-phb|Tierfreundschaft]]
+- [[Tiersinn-phb|Tiersinn]]
+- [[Todeskreis-phb|Todeskreis]]
+- [[Todesschutz-phb|Todesschutz]]
+- [[Todeswolke-phb|Todeswolke]]
+- [[Tödliches_Phantom-phb|Tödliches Phantom]]
+- [[Tor-phb|Tor]]
+- [[Tote_beleben-phb|Tote beleben]]
+- [[Tote_erwecken-phb|Tote erwecken]]
+- [[Totstellen-phb|Totstellen]]
+- [[Traum-phb|Traum]]
+- [[Trugbild_projizieren-phb|Trugbilder projizieren]]
+- [[Tsunami-phb|Tsunami]]
+- [[Unauffindbarkeit-phb|Unauffindbarkeit]]
+- [[Unheimliches_Schicksal-phb|Unheimliches Schicksal]]
+- [[Unsichtbarer_Diener-phb|Unsichtbarer Diener]]
+- [[Unsichtbares_sehen-phb|Unsichtbares sehen]]
+- [[Unsichtbarkeit-phb|Unsichtbarkeit]]
+- [[Untote_erschaffen-phb|Untote erschaffen]]
+- [[Vampirgriff-phb|Vampirgriff]]
+- [[Verarbeitung-phb|Verarbeitung]]
+- [[Verbannendes_Niederstrecken-phb|Verbannendes Niederstrecken]]
+- [[Verbannung-phb|Verbannung]]
+- [[Verbergen-phb|Verbergen]]
+- [[Verbündeter_aus_den_Ebenen-phb|Verbündeter aus den Ebenen]]
+- [[Verderben-phb|Verderben]]
+- [[Vergrößern-Verkleinern-phb|Vergrößern/Verkleinern]]
+- [[Verlangsamen-phb|Verlangsamen]]
+- [[Verschonung_der_Sterbenden-phb|Verschonung der Sterbenden]]
+- [[Verschwimmen-phb|Verschwimmen]]
+- [[Verständigung-phb|Verständigung]]
+- [[Verstricken-phb|Verstricken]]
+- [[Vertrauten_finden-phb|Vertrauten finden]]
+- [[Verwandlung-phb|Verwandlung]]
+- [[Verwirrung-phb|Verwirrung]]
+- [[Verwünschen-phb|Verwünschen]]
+- [[Vollständige_Genesung-phb|Vollständige Genesung]]
+- [[Vorahnung-phb|Vorahnung]]
+- [[Voraussicht-phb|Voraussicht]]
+- [[Vorbestimmtes-Trugbild-phb|Vorbestimmtes Trugbild]]
+- [[Wächter-und-Hüter-phb|Wächter und Hüter]]
+- [[Waffe_des_Glaubens-phb|Waffe des Glaubens]]
+- [[Wahre_Auferstehung-phb|Wahre Auferstehung]]
+- [[Wahre-Verwandlung-phb|Wahre Verwandlung]]
+- [[Wahrer-Blick-phb|Wahrer Blick]]
+- [[Wände_passieren-phb|Wände passieren]]
+- [[Wankendmachendes_Niederstrecken-phb|Wankendmachendes Niederstrecken]]
+- [[Wasser_atmen-phb|Wasser atmen]]
+- [[Wasser_erschaffen_oder_zerstören-phb|Wasser erschaffen oder zerstören]]
+- [[Wasser_kontrollieren-phb|Wasser kontrollieren]]
+- [[Weg_finden-phb|Weg finden]]
+- [[Weihen-phb|Weihen]]
+- [[Weissagung-phb|Weissagung]]
+- [[Wesen_des_Waldes_beschwören-phb|Wesen des Waldes beschwören]]
+- [[Wetterkontrolle-phb|Wetterkontrolle]]
+- [[Wiederbeleben-phb|Wiederbeleben]]
+- [[Wiedergeburt-phb|Wiedergeburt]]
+- [[Windstoß-phb|Windstoß]]
+- [[Windwall-phb|Windwall]]
+- [[Windwandeln-phb|Windwandeln]]
+- [[Wort_der_Macht-Betäubung-phb|Wort der Macht: Betäubung]]
+- [[Wort_der_Macht-Heilung-phb|Wort der Macht: Heilung]]
+- [[Wort_der_Macht-Tod-phb|Wort der Macht: Tod]]
+- [[Wunden_heilen-phb|Wunden heilen]]
+- [[Wunden_verursachen-phb|Wunden verursachen]]
+- [[Wunsch-phb|Wunsch]]
+- [[Zeichen_des_Jägers-phb|Zeichen des Jägers]]
+- [[Zeitstop-phb|Zeitstopp]]
+- [[Zerbersten-phb|Zerbersten]]
+- [[Zerstörerische_Woge-phb|Zerstörerische Woge]]
+- [[Zielsicherer_Schlag-phb|Zielsicherer Schlag]]
+- [[Zone_der_Wahrheit-phb|Zone der Wahrheit]]
+- [[Zorniges_Niederstrecken-phb|Zorniges Niederstrecken]]
+- [[Zungen-phb|Zungen]]
+- [[Zutritt_verwehren-phb|Zutritt verwehren]]
+- [[Zwang-phb|Zwang]]

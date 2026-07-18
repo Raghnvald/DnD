@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Verbeeg Marauder
+Status: WIP
 linter-yaml-title-alias: Verbeeg Marauder
 tags:
   - Monster/Größe/Groß

@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fiendish Auger
 Image: token/fiendish-auger-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Fiendish Auger
 tags:
   - Monster/Größe/Riesig

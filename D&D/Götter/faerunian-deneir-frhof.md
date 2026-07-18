@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Deneir
+Status: WIP
 linter-yaml-title-alias: Deneir
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Deneir"
-  - "The First Scribe"
-  - "The Lord of All Glyphs and Images"
-  - "The Scribe of Oghma"
   - Deneir
+  - Deneir
+  - The First Scribe
+  - The Lord of All Glyphs and Images
+  - The Scribe of Oghma
 ---
 # Deneir
 *Source: Forgotten Realms: Heroes of Faerûn p. 105* 

@@ -5,7 +5,7 @@ Bezeichnung: Neogi-Meister
 Kategorie: Aberration (Hexenmeister)
 Größe: Mittelgroß
 HG: 4
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Neogi-Meister
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
 aliases:
   - Neogi Master
   - Neogi-Meister
+status: WIP
 ---
 # Neogi-Meister
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  

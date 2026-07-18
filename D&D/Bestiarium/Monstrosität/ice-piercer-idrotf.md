@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ice Piercer
+Status: WIP
 linter-yaml-title-alias: Ice Piercer
 tags:
   - Monster/Größe/Mittelgroß

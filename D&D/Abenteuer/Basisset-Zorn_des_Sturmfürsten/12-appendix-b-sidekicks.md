@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Sidekicks"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Sidekicks"
 tags:
   - Quelle/5e/slw
 aliases:
   - "Appendix B: Sidekicks"
-  - Appendix B: Sidekicks
 ---
 # Appendix B: Sidekicks
 *Source: Essentials Kit: Storm Lord's Wrath* 

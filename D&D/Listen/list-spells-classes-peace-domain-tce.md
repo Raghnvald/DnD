@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Peace Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Peace Domain
 tags:
-  - Zauber/list/subclass/peace-domain
+  - Zauber/Liste/subclass/peace-domain
 aliases:
   - Spells for Peace Domain
 ---

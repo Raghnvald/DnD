@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falling Net
+Status: WIP
 linter-yaml-title-alias: Falling Net
 tags:
   - Kompendium/Bedrohung/trp

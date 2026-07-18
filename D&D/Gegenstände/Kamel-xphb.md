@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Camel
+Status: WIP
 linter-yaml-title-alias: Camel
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

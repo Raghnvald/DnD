@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Burning
+Status: WIP
 linter-yaml-title-alias: Burning
 tags:
   - Quelle/5e/xphb

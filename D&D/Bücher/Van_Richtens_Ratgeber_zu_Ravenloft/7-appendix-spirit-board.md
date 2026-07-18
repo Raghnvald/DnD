@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix: Spirit Board"
+Status: WIP
 linter-yaml-title-alias: "Appendix: Spirit Board"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "Appendix: Spirit Board"
-  - Appendix: Spirit Board
 ---
 # Appendix: Spirit Board
 *Source: Van Richten's Guide to Ravenloft, p. 256* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sagacitous Erusaire
+Status: WIP
 linter-yaml-title-alias: Sagacitous Erusaire
 tags:
   - Monster/Größe/Groß

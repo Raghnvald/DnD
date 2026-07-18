@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Dance
+Status: WIP
 linter-yaml-title-alias: College of Dance
 tags:
   - Klasse/Barde/Schule-des-Tanzes

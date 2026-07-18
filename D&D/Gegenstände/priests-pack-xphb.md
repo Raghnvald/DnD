@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Priest's Pack"
+Status: WIP
 linter-yaml-title-alias: "Priest's Pack"
 tags:
   - Gegenstand/Ausrüstung/
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - "Priest's Pack"
-  - Priest's Pack
 ---
 # Priest's Pack
 *Adventuring gear*  

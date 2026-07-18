@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Belt of Giant Strength
+Status: WIP
 linter-yaml-title-alias: Belt of Giant Strength
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/dmg
 aliases:

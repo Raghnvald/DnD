@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
-Angriff: nichts
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Schutzwind
 classes:
   - Bard

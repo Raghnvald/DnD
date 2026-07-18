@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jenks
+Status: WIP
 linter-yaml-title-alias: Jenks
 tags:
   - Monster/Größe/Klein

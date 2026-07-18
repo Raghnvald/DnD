@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gremishka
+Status: WIP
 linter-yaml-title-alias: Gremishka
 tags:
   - Monster/Größe/Winzig

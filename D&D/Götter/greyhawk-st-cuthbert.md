@@ -1,9 +1,10 @@
 ---
 Bezeichnung: St. Cuthbert
+Status: WIP
 linter-yaml-title-alias: St. Cuthbert
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - St. Cuthbert

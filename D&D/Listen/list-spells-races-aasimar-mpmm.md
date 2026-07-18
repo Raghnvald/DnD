@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Aasimar
+Status: WIP
 linter-yaml-title-alias: Spells for Aasimar
 tags:
-  - ttrpg-cli/spell/list/race/aasimar
+  - Zauber/Liste/race/aasimar
 aliases:
-  - "Spells for Aasimar"
+  - Spells for Aasimar
   - Spells for Aasimar
 ---
 # Spells for Aasimar

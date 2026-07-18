@@ -2,10 +2,10 @@
 Bezeichnung: Zunderkästchen
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 SM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Zunderkästchen
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,11 +15,11 @@ aliases:
   - Zunderkästchen
 ---
 # Zunderkästchen
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 sp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 5 SM
+- **Gewicht**: 0,5 kg
 
-This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
+Dieses kleine Kästchen enthält Feuerstein, Stahl und Zunder (in der Regel Stoff, der leicht mit Öl getränkt ist), um ein Feuer entfachen zu können. Zum Anzünden einer Fackel oder einem ähnlichen mit Brennstoff versehenen Gegenstand, benötigt man eine Aktion.Jedes andere Feuer zu entfachen, dauert 1 Minute.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

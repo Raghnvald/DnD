@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Magic
+Status: WIP
 linter-yaml-title-alias: War Magic
 tags:
   - Klasse/Magier/war

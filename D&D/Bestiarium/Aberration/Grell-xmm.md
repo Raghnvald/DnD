@@ -5,6 +5,7 @@ Bezeichnung: Grell
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
+Status: WIP
 linter-yaml-title-alias: Grell
 tags:
   - Monster/Größe/Mittelgroß

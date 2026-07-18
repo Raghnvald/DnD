@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grasp of Hadar
+Status: WIP
 linter-yaml-title-alias: Grasp of Hadar
 tags:
   - Kompendium/Optionales/ei

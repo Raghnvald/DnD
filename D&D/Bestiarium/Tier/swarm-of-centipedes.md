@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Centipedes
+Status: WIP
 linter-yaml-title-alias: Swarm of Centipedes
 tags:
   - Monster/Größe/Mittelgroß

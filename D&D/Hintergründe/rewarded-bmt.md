@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rewarded
+Status: WIP
 linter-yaml-title-alias: Rewarded
 tags:
   - Kompendium/Hintergrund

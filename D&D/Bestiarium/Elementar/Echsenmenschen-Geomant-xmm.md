@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Geomancer
+Status: WIP
 linter-yaml-title-alias: Lizardfolk Geomancer
 tags:
   - Monster/Größe/Mittelgroß

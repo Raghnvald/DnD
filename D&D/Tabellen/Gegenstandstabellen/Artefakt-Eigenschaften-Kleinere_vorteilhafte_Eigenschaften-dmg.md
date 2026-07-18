@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artefakt-Eigenschaften; Kleinere vorteilhafte Eigenschaften
+Status: WIP
 linter-yaml-title-alias: Artefakt-Eigenschaften; Kleinere vorteilhafte Eigenschaften
 tags:
   - Quelle/5e/dmg

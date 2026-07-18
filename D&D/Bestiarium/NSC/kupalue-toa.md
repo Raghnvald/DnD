@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kupalué
+Status: WIP
 linter-yaml-title-alias: Kupalué
 tags:
   - Monster/Größe/Klein

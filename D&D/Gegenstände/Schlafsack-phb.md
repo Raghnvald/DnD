@@ -2,10 +2,10 @@
 Bezeichnung: Schlafsack
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 3,5 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Schlafsack
 tags:
   - Gegenstand/Ausrüstung/
@@ -20,6 +20,6 @@ Menge: "1"
 *Abenteuerausrüstung*  
 
 - **Kosten**: 1 GM
-- **Gewicht**: 3,5 kg.
+- **Gewicht**: 3,5 kg
 
-*Quellen: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

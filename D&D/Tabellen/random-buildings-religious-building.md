@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Buildings; Religious Building
+Status: WIP
 linter-yaml-title-alias: Random Buildings; Religious Building
 tags:
   - Quelle/5e/dmg

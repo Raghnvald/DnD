@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Acid Resistance
+Status: WIP
 linter-yaml-title-alias: Ring of Acid Resistance
 tags:
   - Gegenstand/Seltenheit/selten

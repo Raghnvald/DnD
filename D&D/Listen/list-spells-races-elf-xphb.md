@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Elf
+Status: WIP
 linter-yaml-title-alias: Spells for Elf
 tags:
-  - Zauber/list/race/elf
+  - Zauber/Liste/race/elf
 aliases:
   - Spells for Elf
 ---

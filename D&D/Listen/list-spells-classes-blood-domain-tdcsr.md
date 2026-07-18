@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Blood Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Blood Domain
 tags:
-  - Zauber/list/subclass/blood-domain
+  - Zauber/Liste/subclass/blood-domain
 aliases:
   - Spells for Blood Domain
 ---

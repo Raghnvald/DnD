@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vistana Bandit
+Status: WIP
 linter-yaml-title-alias: Vistana Bandit
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Crystal Dragon; Crystal Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a Crystal Dragon; Crystal Dragon Ideals
 tags:
   - Quelle/5e/ftd

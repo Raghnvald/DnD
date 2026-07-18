@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hidden Pit
+Status: WIP
 linter-yaml-title-alias: Hidden Pit
 tags:
   - Kompendium/Bedrohung/trp

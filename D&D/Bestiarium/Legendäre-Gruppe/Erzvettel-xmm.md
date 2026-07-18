@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arch-hag
+Status: WIP
 linter-yaml-title-alias: Arch-hag
 tags:
   - Monster/legendary-group

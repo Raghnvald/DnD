@@ -1,12 +1,13 @@
 ---
-Bezeichnung: Create Bonfire
+Bezeichnung: Lagerfeuer erschaffen
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
-Reichweite: 18 Metwr
+Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
-Angriff:
-Schaden:
+Angriff: GES
+Schaden: 1d8 Feuer
+Status: WIP
 linter-yaml-title-alias: Create Bonfire
 classes:
   - Artificer
@@ -27,10 +28,10 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xge
   - Rasse/elf/high-elf
   - Rasse/kobold
@@ -41,7 +42,7 @@ tags:
 aliases:
   - Create Bonfire
 ---
-# Create Bonfire
+# Lagerfeuer erschaffen
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 Action

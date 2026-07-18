@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Villain
+Status: WIP
 linter-yaml-title-alias: Villain
 tags:
   - Monster/legendary-group

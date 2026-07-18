@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Athreos's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Athreos's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/athreoss-votary
+  - Zauber/Liste/reward/athreoss-votary
 aliases:
   - "Spells for Athreos's Votary"
 ---

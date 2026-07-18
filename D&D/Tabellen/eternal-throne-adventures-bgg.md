@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eternal Throne Adventures
+Status: WIP
 linter-yaml-title-alias: Eternal Throne Adventures
 tags:
   - Quelle/5e/bgg

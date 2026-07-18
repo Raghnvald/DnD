@@ -1,7 +1,9 @@
 ---
-Bezeichnung: "Tasha's Mind Whip"
+Bezeichnung: Tashas Gedankenpeitsche
 Zaubergrad: 2
-linter-yaml-title-alias: "Tasha's Mind Whip"
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Tashas Gedankenpeitsche
 classes:
   - Bard
   - Bard (College of Lore)
@@ -20,11 +22,11 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
 aliases:
-  - "Tasha's Mind Whip"
+  - Tashas Gedankenpeitsche
 ---
-# Tasha's Mind Whip
+# Tashas Gedankenpeitsche
 *2nd-level, Enchantment*  
-![](/3-Mechanics/CLI/spells/img/tashas-mind-whip.webp#right)
+![](img/tashas-mind-whip.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Belt of Hill Giant Strength
+Status: WIP
 linter-yaml-title-alias: Belt of Hill Giant Strength
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:

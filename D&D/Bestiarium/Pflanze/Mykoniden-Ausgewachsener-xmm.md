@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ausgewachsener Mykonid
+Status: WIP
 linter-yaml-title-alias: Ausgewachsener Mykonid
 tags:
   - Monster/Größe/Mittelgroß

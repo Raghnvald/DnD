@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eltern eines Halbelfen
+Status: WIP
 linter-yaml-title-alias: Eltern eines Halbelfen
 tags:
   - Quelle/5e/xge

@@ -2,10 +2,10 @@
 Bezeichnung: Drachenschach-Spielsatz
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 0,25 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Drachenschach-Spielsatz
 tags:
   - Gegenstand/Ausrüstung/Spielset

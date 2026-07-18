@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Darkening
+Status: WIP
 linter-yaml-title-alias: The Darkening
 tags:
   - Quelle/5e/lr
 aliases:
-  - "The Darkening"
+  - The Darkening
   - The Darkening
 ---
 # The Darkening

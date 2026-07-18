@@ -1,14 +1,16 @@
 ---
-Bezeichnung: Bard
-linter-yaml-title-alias: Bard
+Bezeichnung: Barde
+Status: WIP
+linter-yaml-title-alias: Barde
 tags:
   - Klasse/Barde
   - Quelle/5e/phb
 aliases:
   - Bard
+  - Barde
 ---
-# Bard
-*Source: Player's Handbook p. 51. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# Barde
+*Quelle: Spielerhandbuch S. 51. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
 > 

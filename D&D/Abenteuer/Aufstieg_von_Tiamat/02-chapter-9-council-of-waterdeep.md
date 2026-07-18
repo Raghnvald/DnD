@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 9: Council of Waterdeep"
+Status: WIP
 linter-yaml-title-alias: "Chapter 9: Council of Waterdeep"
 tags:
   - Quelle/5e/rot
 aliases:
   - "Chapter 9: Council of Waterdeep"
-  - Chapter 9: Council of Waterdeep
 ---
 # Chapter 9: Council of Waterdeep
 *Source: Rise of Tiamat, p. 104* 

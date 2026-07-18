@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seelenmesser
+Status: WIP
 linter-yaml-title-alias: Seelenmesser
 tags:
   - Klasse/Schurke/soulknife

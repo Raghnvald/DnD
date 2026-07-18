@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Gond
+Status: WIP
 linter-yaml-title-alias: Gond
 tags:
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

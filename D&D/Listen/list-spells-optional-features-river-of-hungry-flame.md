@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for River of Hungry Flame
+Status: WIP
 linter-yaml-title-alias: Spells for River of Hungry Flame
 tags:
-  - Zauber/list/optfeature/river-of-hungry-flame
+  - Zauber/Liste/optfeature/river-of-hungry-flame
 aliases:
   - Spells for River of Hungry Flame
 ---

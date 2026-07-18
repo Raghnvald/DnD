@@ -1,9 +1,10 @@
 ---
-Bezeichnung: Augenklappe des Schurken
+Bezeichnung: "Knave's Eye Patch"
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: "Knave's Eye Patch"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/wdh

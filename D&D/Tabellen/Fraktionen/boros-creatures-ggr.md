@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Creatures
+Status: WIP
 linter-yaml-title-alias: Boros Creatures
 tags:
   - Quelle/5e/ggr

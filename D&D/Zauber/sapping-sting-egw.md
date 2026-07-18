@@ -1,6 +1,11 @@
 ---
 Bezeichnung: Sapping Sting
 Zaubergrad: 0 (Zaubertrick)
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
+Status: WIP
 linter-yaml-title-alias: Sapping Sting
 classes:
   - Cleric (Death Domain)
@@ -12,10 +17,6 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Sapping Sting
-Zeitaufwand: 1 Aktion
-Reichweite: 9 Meter
-Komponenten: V, G
-Wirkungsdauer: Unmittelbar
 ---
 # Sapping Sting
 *cantrip, Necromancy*  

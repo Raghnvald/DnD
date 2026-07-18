@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Reorx
+Status: WIP
 linter-yaml-title-alias: Reorx
 tags:
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

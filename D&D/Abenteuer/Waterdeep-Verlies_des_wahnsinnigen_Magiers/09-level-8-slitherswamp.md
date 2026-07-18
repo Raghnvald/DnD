@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 8: Slitherswamp"
+Status: WIP
 linter-yaml-title-alias: "Level 8: Slitherswamp"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 8: Slitherswamp"
-  - Level 8: Slitherswamp
 ---
 # Level 8: Slitherswamp
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 109* 

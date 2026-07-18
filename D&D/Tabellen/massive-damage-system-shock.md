@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Massive Damage; System Shock
+Status: WIP
 linter-yaml-title-alias: Massive Damage; System Shock
 tags:
   - Quelle/5e/dmg

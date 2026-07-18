@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Greater Restoration
+Status: WIP
 linter-yaml-title-alias: Greater Restoration
 classes:
   - Artificer
@@ -18,7 +19,7 @@ tags:
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/Kleriker/peace-domain
   - Klasse/paladin
   - Klasse/Waldläufer

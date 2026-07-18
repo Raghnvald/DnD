@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Questing Knight
+Status: WIP
 linter-yaml-title-alias: Questing Knight
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

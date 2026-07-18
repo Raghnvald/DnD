@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadowfell Despair
+Status: WIP
 linter-yaml-title-alias: Shadowfell Despair
 tags:
   - Quelle/5e/dmg

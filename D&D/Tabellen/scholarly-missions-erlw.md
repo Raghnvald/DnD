@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scholarly Missions
+Status: WIP
 linter-yaml-title-alias: Scholarly Missions
 tags:
   - Quelle/5e/erlw

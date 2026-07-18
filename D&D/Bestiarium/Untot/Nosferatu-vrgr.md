@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nosferatu
+Status: WIP
 linter-yaml-title-alias: Nosferatu
 tags:
   - Monster/Größe/Mittelgroß

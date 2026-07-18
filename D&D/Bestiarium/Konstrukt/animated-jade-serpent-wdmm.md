@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Jade Serpent
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Animated Jade Serpent
+status: WIP
 ---
 # [Animated Jade Serpent](3-Mechanics\CLI\bestiary\construct/animated-jade-serpent-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 92*  

@@ -1,18 +1,22 @@
 ---
 Bezeichnung: Dragonstaff of Ahghairon
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung
   - Vielseitig (1W8)
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Dragonstaff of Ahghairon
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/wdh
 aliases:
   - Dragonstaff of Ahghairon
+status: WIP
+Original: Dragonstaff of Ahghairon
 ---
 # Dragonstaff of Ahghairon
 *Staff, weapon, legendary (requires attunement)*  

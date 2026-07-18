@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Heiler
-linter-yaml-title-alias: Healer
+Status: WIP
+linter-yaml-title-alias: Heiler
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Healer
+  - Heiler
 ---
 # Heiler
 *Source: Player's Handbook p. 167*  

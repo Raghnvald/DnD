@@ -6,8 +6,7 @@ Größe: Mittelgroß
 HG: 4
 Habitat:
   - Jedes
-image:
-status:
+Status: WIP
 linter-yaml-title-alias: Beschreibung
 tags:
   - Monster/Typ/Untote
@@ -15,6 +14,8 @@ tags:
 aliases:
   - Banshee
   - Beschreibung
+image:
+status:
 ---
 
 ```statblock

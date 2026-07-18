@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Crystal Ball of Mind Reading
+Status: WIP
 linter-yaml-title-alias: Crystal Ball of Mind Reading
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

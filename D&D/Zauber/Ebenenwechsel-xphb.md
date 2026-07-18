@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+Status: WIP
 linter-yaml-title-alias: Plane Shift
 classes:
   - Bard

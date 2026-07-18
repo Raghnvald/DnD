@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Statuette of Augury
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Statuette of Augury
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

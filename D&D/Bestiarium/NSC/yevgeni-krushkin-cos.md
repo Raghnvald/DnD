@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yevgeni Krushkin
+Status: WIP
 linter-yaml-title-alias: Yevgeni Krushkin
 tags:
   - Monster/Größe/Mittelgroß

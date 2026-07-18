@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gold Dragon Adventures; Gold Dragon Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Gold Dragon Adventures; Gold Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd

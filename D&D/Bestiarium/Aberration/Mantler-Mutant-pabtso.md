@@ -6,7 +6,7 @@ Kategorie: Aberration
 Größe: Groß
 HG: 10
 Image: token/cloaker-mutate-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Mantler Mutant
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Cloaker Mutate
   - Mantler Mutant
+status: WIP
 ---
 # Mantler Mutant
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  

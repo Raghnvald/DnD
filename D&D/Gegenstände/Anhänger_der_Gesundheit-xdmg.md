@@ -2,9 +2,11 @@
 Bezeichnung: Anhänger der Gesundheit
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Anhänger der Gesundheit
 tags:
   - Gegenstand/Einstimmung

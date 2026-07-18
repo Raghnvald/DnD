@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Character Secrets"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Character Secrets"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Appendix B: Character Secrets"
-  - Appendix B: Character Secrets
 ---
 # Appendix B: Character Secrets
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 264* 

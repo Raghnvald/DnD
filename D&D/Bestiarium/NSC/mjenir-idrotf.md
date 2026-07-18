@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mjenir
+Status: WIP
 linter-yaml-title-alias: Mjenir
 tags:
   - Monster/Größe/Mittelgroß

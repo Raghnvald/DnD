@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Polearm Master
+Status: WIP
 linter-yaml-title-alias: Polearm Master
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - "Polearm Master"
+  - Polearm Master
   - Polearm Master
 ---
 # Polearm Master

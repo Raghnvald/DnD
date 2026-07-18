@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: The Northern Wastes"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: The Northern Wastes"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Chapter 5: The Northern Wastes"
-  - Chapter 5: The Northern Wastes
 ---
 # Chapter 5: The Northern Wastes
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 105* 

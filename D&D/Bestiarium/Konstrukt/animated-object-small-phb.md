@@ -4,10 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Animated Object (Small)
 Kategorie: Konstrukt
 Größe: Klein
-HG: /
+HG: n/v
 Habitat:
-  - /
-status: WIP
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Animated Object (Small)
 tags:
   - Monster/Größe/Klein

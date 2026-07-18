@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Fiona Wachter
+Status: WIP
 linter-yaml-title-alias: Lady Fiona Wachter
 tags:
   - Monster/Größe/Mittelgroß

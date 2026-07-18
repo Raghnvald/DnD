@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Detect Evil and Good
 classes:
   - Bard
@@ -21,7 +22,7 @@ tags:
   - Klasse/Kleriker
   - Klasse/paladin
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Subklasse/the-genie/dao

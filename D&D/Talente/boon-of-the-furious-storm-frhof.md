@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of the Furious Storm
+Status: WIP
 linter-yaml-title-alias: Boon of the Furious Storm
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of the Furious Storm"
+  - Boon of the Furious Storm
   - Boon of the Furious Storm
 ---
 # Boon of the Furious Storm

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Silver and gold brooch
+Status: WIP
 linter-yaml-title-alias: Silver and gold brooch
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

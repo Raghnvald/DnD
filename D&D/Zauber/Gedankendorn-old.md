@@ -6,6 +6,7 @@ Komponenten: G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: KON
 Schaden: 3d8 psychisch
+Status: WIP
 linter-yaml-title-alias: Gedankendorn
 tags:
   - Klasse/Hexenmeister

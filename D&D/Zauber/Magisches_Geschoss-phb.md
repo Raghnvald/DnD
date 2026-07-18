@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Magic Missile
+Bezeichnung: Magisches Geschoss
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 36 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
 Angriff:
 Schaden:
-linter-yaml-title-alias: Magic Missile
+Status: WIP
+linter-yaml-title-alias: Magisches Geschoss
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,17 +20,17 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Magic Missile
+  - Magisches Geschoss
 ---
-# Magic Missile
-*1st-level, Evocation*  
-![](Zauber/img/magic-missile.webp#right)
+# Magisches Geschoss
+*1st-level, Evocation*
+<img src="magic-missile.webp" align="right" width="250">
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

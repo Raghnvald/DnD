@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flail Snail
+Status: WIP
 linter-yaml-title-alias: Flail Snail
 tags:
   - Monster/Größe/Groß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Items
+Status: WIP
 linter-yaml-title-alias: Azorius Items
 tags:
   - Quelle/5e/ggr

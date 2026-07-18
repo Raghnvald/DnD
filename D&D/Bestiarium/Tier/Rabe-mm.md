@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Raven
+Status: WIP
 linter-yaml-title-alias: Raven
 tags:
   - Monster/Größe/Winzig

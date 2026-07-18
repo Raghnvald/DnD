@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spells
+Status: WIP
 linter-yaml-title-alias: Spells
 tags:
   - Quelle/5e/bmt

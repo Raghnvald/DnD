@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orc
+Status: WIP
 linter-yaml-title-alias: Orc
 tags:
   - Quelle/5e/erlw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yalah Gralhund
+Status: WIP
 linter-yaml-title-alias: Yalah Gralhund
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fazrian
+Status: WIP
 linter-yaml-title-alias: Fazrian
 tags:
   - Monster/legendary-group

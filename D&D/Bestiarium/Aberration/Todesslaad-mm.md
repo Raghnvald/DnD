@@ -5,7 +5,7 @@ Bezeichnung: Todesslaad
 Kategorie: Aberration (Gestaltwandler)
 Größe: Mittelgroß
 HG: 10
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Todesslaad
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Todesslaad
+status: WIP
 ---
 # Todesslaad
 *Quelle: Monsterhandbuch S. 258*  

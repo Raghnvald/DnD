@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hoard Item Quirks; Draconic Quirks
+Status: WIP
 linter-yaml-title-alias: Hoard Item Quirks; Draconic Quirks
 tags:
   - Quelle/5e/ftd

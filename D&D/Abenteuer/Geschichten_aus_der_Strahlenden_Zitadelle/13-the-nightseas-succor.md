@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Nightsea's Succor"
+Status: WIP
 linter-yaml-title-alias: "The Nightsea's Succor"
 tags:
   - Quelle/5e/jttrc
 aliases:
   - "The Nightsea's Succor"
-  - The Nightsea's Succor
 ---
 # The Nightsea's Succor
 *Source: Journeys through the Radiant Citadel, p. 168* 

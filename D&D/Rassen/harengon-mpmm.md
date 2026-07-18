@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Harengon
+Status: WIP
 linter-yaml-title-alias: Harengon
 tags:
   - Quelle/5e/mpmm

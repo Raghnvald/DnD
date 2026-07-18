@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flimmern
+Status: WIP
 linter-yaml-title-alias: Flimmern
 tags:
   - Klasse/Magier

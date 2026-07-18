@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Princess Serissa
+Status: WIP
 linter-yaml-title-alias: Princess Serissa
 tags:
   - Monster/Größe/Riesig

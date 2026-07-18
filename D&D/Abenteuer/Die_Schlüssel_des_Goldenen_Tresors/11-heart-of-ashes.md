@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Heart of Ashes
+Status: WIP
 linter-yaml-title-alias: Heart of Ashes
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Heart of Ashes"
+  - Heart of Ashes
   - Heart of Ashes
 ---
 # Heart of Ashes

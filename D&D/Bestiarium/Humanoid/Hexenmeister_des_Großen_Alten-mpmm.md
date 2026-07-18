@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warlock of the Great Old One
+Status: WIP
 linter-yaml-title-alias: Warlock of the Great Old One
 tags:
   - Monster/Größe/Mittelgroß

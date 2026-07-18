@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Glibness
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Glibness
 classes:
   - Bard (Magical Secrets)

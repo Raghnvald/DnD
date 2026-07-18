@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 5
 Habitat:
   - Unterreich
-image: token/wraith.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Todesalb
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Todesalb
+image: token/wraith.webp
+status: WIP
 ---
 # Todesalb
 *Quelle: Monsterhandbuch S. 285. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

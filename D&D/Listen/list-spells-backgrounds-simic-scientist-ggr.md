@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Simic Scientist
+Status: WIP
 linter-yaml-title-alias: Spells for Simic Scientist
 tags:
-  - Zauber/list/background/simic-scientist
+  - Zauber/Liste/background/simic-scientist
 aliases:
   - Spells for Simic Scientist
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Carpet of Flying
+Status: WIP
 linter-yaml-title-alias: Carpet of Flying
 tags:
   - Gegenstand/Seltenheit/sehr_selten

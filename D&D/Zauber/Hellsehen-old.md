@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hellsehen
+Status: WIP
 linter-yaml-title-alias: Hellsehen
 tags:
   - Klasse/Barde

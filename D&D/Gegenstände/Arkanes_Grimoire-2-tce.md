@@ -1,9 +1,10 @@
 ---
-Bezeichnung: Arkanes Grimoire +2
+Bezeichnung: +2 Arcane Grimoire
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: +2 Arcane Grimoire
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce

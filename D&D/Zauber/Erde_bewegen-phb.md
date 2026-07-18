@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Move Earth
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Move Earth
 classes:
   - Bard (Magical Secrets)

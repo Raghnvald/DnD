@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Avernus, the Eternal Battlefield"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Avernus, the Eternal Battlefield"
 tags:
   - Quelle/5e/coa

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Undead
+Status: WIP
 linter-yaml-title-alias: Index of Undead
 aliases:
   - Index of Undead

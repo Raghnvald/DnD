@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Regierungsformen
+Status: WIP
 linter-yaml-title-alias: Regierungsformen
 tags:
   - Quelle/5e/dmg

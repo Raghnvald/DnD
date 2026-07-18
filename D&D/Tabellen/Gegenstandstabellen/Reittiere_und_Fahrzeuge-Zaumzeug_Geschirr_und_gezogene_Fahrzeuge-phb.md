@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge
+Status: WIP
 linter-yaml-title-alias: Reittiere und Fahrzeuge; Zaumzeug, Geschirr und gezogene Fahrzeuge
 tags:
   - Quelle/5e/phb

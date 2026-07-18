@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Centaur Warden
+Status: WIP
 linter-yaml-title-alias: Centaur Warden
 tags:
   - Monster/Größe/Groß

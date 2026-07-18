@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Qualvoller Strahl
+Status: WIP
 linter-yaml-title-alias: Qualvoller Strahl
 tags:
   - Kompendium/Optionales/Anrufungen

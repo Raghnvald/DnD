@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Odin
+Status: WIP
 linter-yaml-title-alias: Odin
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

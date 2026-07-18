@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Fane of the Night Serpent"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Fane of the Night Serpent"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Chapter 4: Fane of the Night Serpent"
-  - Chapter 4: Fane of the Night Serpent
 ---
 # Chapter 4: Fane of the Night Serpent
 *Source: Tomb of Annihilation, p. 111* 

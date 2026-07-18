@@ -2,13 +2,13 @@
 Bezeichnung: Blutstein
 Kategorie: Edelstein
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Blutstein
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

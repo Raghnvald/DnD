@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gold Dragon; Gold Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a Gold Dragon; Gold Dragon Ideals
 tags:
   - Quelle/5e/ftd

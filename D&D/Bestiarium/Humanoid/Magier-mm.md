@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 6
 Habitat:
   - Stadt
-image: token/mage.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Magier
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Mage
   - Magier
+image: token/mage.webp
+status: completed
 ---
 # Magier
 *Quelle: Monsterhandbuch S. 348. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

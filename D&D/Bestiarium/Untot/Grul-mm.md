@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghast
+Status: WIP
 linter-yaml-title-alias: Ghast
 tags:
   - Monster/Größe/Mittelgroß

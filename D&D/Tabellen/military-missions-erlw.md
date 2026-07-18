@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Military Missions
+Status: WIP
 linter-yaml-title-alias: Military Missions
 tags:
   - Quelle/5e/erlw

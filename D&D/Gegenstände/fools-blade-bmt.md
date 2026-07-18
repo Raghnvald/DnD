@@ -1,22 +1,28 @@
 ---
-Bezeichnung: "Fool's Blade"
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: "Fool's Blade"
+Bezeichnung: Fool's Blade
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
+linter-yaml-title-alias: Fool's Blade
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/bmt
 aliases:
-  - "Fool's Blade"
+  - Fool's Blade
   - Fool's Double-Bladed Scimitar
   - Fool's Greatsword
   - Fool's Longsword
   - Fool's Rapier
   - Fool's Scimitar
   - Fool's Shortsword
+status: WIP
+Original: Fool's Blade
 ---
 # Fool's Blade
 *Very rare (requires attunement)*  
@@ -28,50 +34,50 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon. Whil
 - **Fool's Feint.** As a bonus action, you can feint, choosing a creature within 5 feet of you as your target. Until the start of your next turn, you have advantage on attack rolls against the target. Once this bonus action is used, it can't be used again until the next dawn.  
 - **Misdirect.** When a creature within 60 feet of you targets you with an attack roll, you can use your reaction to require that creature to make a DC 15 Intelligence saving throw. On a failed save, the attack instead targets another creature of your choice that is within the attacker's reach. Once this reaction has been used, it can't be used again until the next dawn.  
 
-**Variants**:
-- [Fool's Double-Bladed Scimitar](#Fool's%20Double-Bladed%20Scimitar)
-- [Fool's Greatsword](#Fool's%20Greatsword)
-- [Fool's Longsword](#Fool's%20Longsword)
-- [Fool's Rapier](#Fool's%20Rapier)
-- [Fool's Scimitar](#Fool's%20Scimitar)
-- [Fool's Shortsword](#Fool's%20Shortsword)
+**Varianten**:
+- [[#Fool's Krummsäbel]]
+- [[#Fool's Kurzschwert]]
+- [[#Fool's Langschwert]]
+- [[#Fool's Rapier]]
+- [[#Fool's Zweihandschwert]]
+- [[#Fool's Zweiklingiger Krummsäbel]]
 
-### Fool's Double-Bladed Scimitar
+### Fool's Krummsäbel
 
-- **Damage**: 2d4 slashing
-- **Properties**: Two-Handed, special
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Fool's Greatsword
+### Fool's Kurzschwert
 
-- **Damage**: 2d6 slashing
-- **Properties**: Heavy, Two-Handed
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Fool's Longsword
+### Fool's Langschwert
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: Versatile
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
 ### Fool's Rapier
 
-- **Damage**: 1d8 piercing
-- **Properties**: Finesse
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Fool's Scimitar
+### Fool's Zweihandschwert
 
-- **Damage**: 1d6 slashing
-- **Properties**: Finesse, Light
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Fool's Shortsword
+### Fool's Zweiklingiger Krummsäbel
 
-- **Damage**: 1d6 piercing
-- **Properties**: Finesse, Light
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
 *Source: The Book of Many Things p. 36*

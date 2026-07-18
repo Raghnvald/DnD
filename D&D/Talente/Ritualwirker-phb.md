@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Ritualwirker
-linter-yaml-title-alias: Ritual Caster
+Status: WIP
+linter-yaml-title-alias: Ritualwirker
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Ritual Caster
+  - Ritualwirker
 ---
 # Ritualwirker
 *Source: Player's Handbook p. 169*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Thassa's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Thassa's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/thassas-devotee
+  - Zauber/Liste/reward/thassas-devotee
 aliases:
   - "Spells for Thassa's Devotee"
 ---

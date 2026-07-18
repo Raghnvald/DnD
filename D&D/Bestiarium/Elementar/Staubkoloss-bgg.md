@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dust Hulk
+Status: WIP
 linter-yaml-title-alias: Dust Hulk
 tags:
   - Monster/Größe/Groß

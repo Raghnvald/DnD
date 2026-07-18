@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Demiplane
+Status: WIP
 linter-yaml-title-alias: Living Demiplane
 tags:
   - Monster/Größe/Mittelgroß

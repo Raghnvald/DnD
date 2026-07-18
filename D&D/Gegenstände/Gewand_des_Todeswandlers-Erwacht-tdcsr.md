@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Awakened)"
+Original: "Deathwalker's Ward (Awakened)"
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: "Deathwalker's Ward (Awakened)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

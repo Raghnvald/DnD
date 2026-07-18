@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silver Dragon
+Status: WIP
 linter-yaml-title-alias: Silver Dragon
 tags:
   - Monster/legendary-group

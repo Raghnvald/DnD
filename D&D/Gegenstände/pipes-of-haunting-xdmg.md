@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pipes of Haunting
+Status: WIP
 linter-yaml-title-alias: Pipes of Haunting
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Adventuring in Netheril"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Adventuring in Netheril"
 tags:
   - Quelle/5e/nf

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Wurfspeer des Blitzes
-Kategorie: Einfache Nahkampfwaffe
+Original: Javelin of Lightning
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W6 Stich
 Eigenschaften:
   - Wurfwaffe
-Kst.: /
+Kst.: n/v
 Gew.: 1,0 kg
+Status: WIP
 linter-yaml-title-alias: Wurfspeer des Blitzes
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -14,6 +16,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wurfspeer des Blitzes
+status: WIP
 ---
 # Wurfspeer des Blitzes
 *Waffe ([[Wurfspeer-phb|Wurfspeer]]), ungewöhnlich*

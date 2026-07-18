@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Telepathic
+Status: WIP
 linter-yaml-title-alias: Telepathic
 tags:
   - Kompendium/Talent

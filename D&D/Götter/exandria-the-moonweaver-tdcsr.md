@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Moonweaver
+Status: WIP
 linter-yaml-title-alias: The Moonweaver
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/moon
-  - Kompendium/Götter/Domäne/twilight
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Mond
+  - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Moonbow

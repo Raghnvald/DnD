@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 17: Seadeeps"
+Status: WIP
 linter-yaml-title-alias: "Level 17: Seadeeps"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 17: Seadeeps"
-  - Level 17: Seadeeps
 ---
 # Level 17: Seadeeps
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 221* 

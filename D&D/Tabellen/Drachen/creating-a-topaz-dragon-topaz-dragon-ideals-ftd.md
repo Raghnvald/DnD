@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Topaz Dragon; Topaz Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a Topaz Dragon; Topaz Dragon Ideals
 tags:
   - Quelle/5e/ftd

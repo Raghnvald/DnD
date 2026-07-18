@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Middle Dura; Bazaar Merchants
+Status: WIP
 linter-yaml-title-alias: Middle Dura; Bazaar Merchants
 tags:
   - Quelle/5e/erlw

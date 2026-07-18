@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barrack
+Status: WIP
 linter-yaml-title-alias: Barrack
 tags:
   - Kompendium/Bastion

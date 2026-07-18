@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wyrmskull Throne
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Wyrmskull Throne
 tags:
   - Gegenstand/Seltenheit/Artefakt

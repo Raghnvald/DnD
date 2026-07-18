@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Poison Spray
+Bezeichnung: Gift versprühen
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 3 Meter
@@ -7,7 +7,8 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d12 Gift
-linter-yaml-title-alias: Poison Spray
+Status: WIP
+linter-yaml-title-alias: Gift versprühen
 classes:
   - Bard (Magical Secrets)
   - Cleric (Nature Domain)
@@ -27,7 +28,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high
@@ -35,9 +36,9 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
 aliases:
-  - Poison Spray
+  - Gift versprühen
 ---
-# Poison Spray
+# Gift versprühen
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 Action

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barbed Devil
+Status: WIP
 linter-yaml-title-alias: Barbed Devil
 tags:
   - Monster/Größe/Mittelgroß

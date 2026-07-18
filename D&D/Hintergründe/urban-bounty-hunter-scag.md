@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Urban Bounty Hunter
+Status: WIP
 linter-yaml-title-alias: Urban Bounty Hunter
 tags:
   - Kompendium/Hintergrund

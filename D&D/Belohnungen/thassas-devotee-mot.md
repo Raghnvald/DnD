@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Thassa's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Thassa's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

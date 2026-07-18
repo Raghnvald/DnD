@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Stirring Dragon's Wrath Weapon"
+Status: WIP
 linter-yaml-title-alias: "Stirring Dragon's Wrath Weapon"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -13,59 +14,58 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/ftd
 aliases:
+  - "Stirring Dragon's Wrath Antimatter Rifle"
+  - "Stirring Dragon's Wrath Automatic Rifle"
+  - "Stirring Dragon's Wrath Battleaxe"
+  - "Stirring Dragon's Wrath Blowgun"
+  - "Stirring Dragon's Wrath Club"
+  - "Stirring Dragon's Wrath Dagger"
+  - "Stirring Dragon's Wrath Dart"
+  - "Stirring Dragon's Wrath Double-Bladed Scimitar"
+  - "Stirring Dragon's Wrath Flail"
+  - "Stirring Dragon's Wrath Glaive"
+  - "Stirring Dragon's Wrath Greataxe"
+  - "Stirring Dragon's Wrath Greatclub"
+  - "Stirring Dragon's Wrath Greatsword"
+  - "Stirring Dragon's Wrath Halberd"
+  - "Stirring Dragon's Wrath Hand Crossbow"
+  - "Stirring Dragon's Wrath Handaxe"
+  - "Stirring Dragon's Wrath Heavy Crossbow"
+  - "Stirring Dragon's Wrath Hooked Shortspear"
+  - "Stirring Dragon's Wrath Hoopak"
+  - "Stirring Dragon's Wrath Hunting Rifle"
+  - "Stirring Dragon's Wrath Javelin"
+  - "Stirring Dragon's Wrath Lance"
+  - "Stirring Dragon's Wrath Laser Pistol"
+  - "Stirring Dragon's Wrath Laser Rifle"
+  - "Stirring Dragon's Wrath Light Crossbow"
+  - "Stirring Dragon's Wrath Light Hammer"
+  - "Stirring Dragon's Wrath Light Repeating Crossbow"
+  - "Stirring Dragon's Wrath Longbow"
+  - "Stirring Dragon's Wrath Longsword"
+  - "Stirring Dragon's Wrath Mace"
+  - "Stirring Dragon's Wrath Maul"
+  - "Stirring Dragon's Wrath Morningstar"
+  - "Stirring Dragon's Wrath Musket"
+  - "Stirring Dragon's Wrath Pike"
+  - "Stirring Dragon's Wrath Pistol"
+  - "Stirring Dragon's Wrath Quarterstaff"
+  - "Stirring Dragon's Wrath Rapier"
+  - "Stirring Dragon's Wrath Revolver"
+  - "Stirring Dragon's Wrath Scimitar"
+  - "Stirring Dragon's Wrath Semiautomatic Pistol"
+  - "Stirring Dragon's Wrath Shortbow"
+  - "Stirring Dragon's Wrath Shortsword"
+  - "Stirring Dragon's Wrath Shotgun"
+  - "Stirring Dragon's Wrath Sickle"
+  - "Stirring Dragon's Wrath Sling"
+  - "Stirring Dragon's Wrath Spear"
+  - "Stirring Dragon's Wrath Trident"
+  - "Stirring Dragon's Wrath War Pick"
+  - "Stirring Dragon's Wrath Warhammer"
   - "Stirring Dragon's Wrath Weapon"
-  - Stirring Dragon's Wrath Antimatter Rifle
-  - Stirring Dragon's Wrath Automatic Rifle
-  - Stirring Dragon's Wrath Battleaxe
-  - Stirring Dragon's Wrath Blowgun
-  - Stirring Dragon's Wrath Club
-  - Stirring Dragon's Wrath Dagger
-  - Stirring Dragon's Wrath Dart
-  - Stirring Dragon's Wrath Double-Bladed Scimitar
-  - Stirring Dragon's Wrath Flail
-  - Stirring Dragon's Wrath Glaive
-  - Stirring Dragon's Wrath Greataxe
-  - Stirring Dragon's Wrath Greatclub
-  - Stirring Dragon's Wrath Greatsword
-  - Stirring Dragon's Wrath Halberd
-  - Stirring Dragon's Wrath Hand Crossbow
-  - Stirring Dragon's Wrath Handaxe
-  - Stirring Dragon's Wrath Heavy Crossbow
-  - Stirring Dragon's Wrath Hooked Shortspear
-  - Stirring Dragon's Wrath Hoopak
-  - Stirring Dragon's Wrath Hunting Rifle
-  - Stirring Dragon's Wrath Javelin
-  - Stirring Dragon's Wrath Lance
-  - Stirring Dragon's Wrath Laser Pistol
-  - Stirring Dragon's Wrath Laser Rifle
-  - Stirring Dragon's Wrath Light Crossbow
-  - Stirring Dragon's Wrath Light Hammer
-  - Stirring Dragon's Wrath Light Repeating Crossbow
-  - Stirring Dragon's Wrath Longbow
-  - Stirring Dragon's Wrath Longsword
-  - Stirring Dragon's Wrath Mace
-  - Stirring Dragon's Wrath Maul
-  - Stirring Dragon's Wrath Morningstar
-  - Stirring Dragon's Wrath Musket
-  - Stirring Dragon's Wrath Pike
-  - Stirring Dragon's Wrath Pistol
-  - Stirring Dragon's Wrath Quarterstaff
-  - Stirring Dragon's Wrath Rapier
-  - Stirring Dragon's Wrath Revolver
-  - Stirring Dragon's Wrath Scimitar
-  - Stirring Dragon's Wrath Semiautomatic Pistol
-  - Stirring Dragon's Wrath Shortbow
-  - Stirring Dragon's Wrath Shortsword
-  - Stirring Dragon's Wrath Shotgun
-  - Stirring Dragon's Wrath Sickle
-  - Stirring Dragon's Wrath Sling
-  - Stirring Dragon's Wrath Spear
-  - Stirring Dragon's Wrath Trident
-  - Stirring Dragon's Wrath War Pick
-  - Stirring Dragon's Wrath Warhammer
-  - Stirring Dragon's Wrath Weapon
-  - Stirring Dragon's Wrath Whip
-  - Stirring Dragon's Wrath Yklwa
+  - "Stirring Dragon's Wrath Whip"
+  - "Stirring Dragon's Wrath Yklwa"
 ---
 # Stirring Dragon's Wrath Weapon
 *Rare (requires attunement)*  

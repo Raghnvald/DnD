@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Garden
+Status: WIP
 linter-yaml-title-alias: Garden
 tags:
   - Kompendium/Bastion

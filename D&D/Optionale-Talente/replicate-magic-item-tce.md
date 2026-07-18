@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Replicate Magic Item
+Status: WIP
 linter-yaml-title-alias: Replicate Magic Item
 tags:
   - Kompendium/Optionales/ai

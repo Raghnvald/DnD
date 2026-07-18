@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elder Oblex
+Status: WIP
 linter-yaml-title-alias: Elder Oblex
 tags:
   - Monster/Größe/Riesig

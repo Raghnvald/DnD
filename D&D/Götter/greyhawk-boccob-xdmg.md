@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Boccob
+Status: WIP
 linter-yaml-title-alias: Boccob
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Boccob

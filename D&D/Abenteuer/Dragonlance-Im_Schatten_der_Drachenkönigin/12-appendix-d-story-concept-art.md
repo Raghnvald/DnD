@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix D: Story Concept Art"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Story Concept Art"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Appendix D: Story Concept Art"
-  - Appendix D: Story Concept Art
 ---
 # Appendix D: Story Concept Art
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 220* 

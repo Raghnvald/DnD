@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventuring Gear
+Status: WIP
 linter-yaml-title-alias: Adventuring Gear
 tags:
   - Quelle/5e/xphb

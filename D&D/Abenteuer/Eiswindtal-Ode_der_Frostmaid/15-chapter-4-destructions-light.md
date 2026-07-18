@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Destruction's Light"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Destruction's Light"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Chapter 4: Destruction's Light"
-  - Chapter 4: Destruction's Light
 ---
 # Chapter 4: Destruction's Light
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 187* 

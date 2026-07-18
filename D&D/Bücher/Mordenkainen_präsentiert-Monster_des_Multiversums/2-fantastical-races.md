@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fantastical Races
+Status: WIP
 linter-yaml-title-alias: Fantastical Races
 tags:
   - Quelle/5e/mpmm

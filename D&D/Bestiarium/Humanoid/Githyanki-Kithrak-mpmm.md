@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Githyanki Kith'rak"
+Status: WIP
 linter-yaml-title-alias: "Githyanki Kith'rak"
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,7 +14,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - "Githyanki Kith'rak"
-  - Githyanki Kith'rak
 ---
 # [Githyanki Kith'rak](3-Mechanics\CLI\bestiary\humanoid/githyanki-kithrak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  

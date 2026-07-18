@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Necklace of Prayer Beads
+Status: WIP
 linter-yaml-title-alias: Necklace of Prayer Beads
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Magic Mouth
+Bezeichnung: Magischer Mund
 Zaubergrad: 2
-linter-yaml-title-alias: Magic Mouth
+Zeitaufwand: 1 Minute
+Status: WIP
+linter-yaml-title-alias: Magischer Mund
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -17,9 +19,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Illusion
 aliases:
-  - Magic Mouth
+  - Magischer Mund
 ---
-# Magic Mouth
+# Magischer Mund
 *2nd-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

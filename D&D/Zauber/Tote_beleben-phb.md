@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Animate Dead
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Animate Dead
 classes:
   - Bard (Magical Secrets)

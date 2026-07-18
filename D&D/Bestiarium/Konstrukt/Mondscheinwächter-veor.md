@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 6
 Habitat:
   - /
-image: token/moonlight-guardian-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Moonlight Guardian
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Moonlight Guardian
+image: token/moonlight-guardian-veor.webp
+status: WIP
 ---
 # [Moonlight Guardian](3-Mechanics\CLI\bestiary\construct/moonlight-guardian-veor.md)
 *Source: Vecna: Eve of Ruin p. 227*  

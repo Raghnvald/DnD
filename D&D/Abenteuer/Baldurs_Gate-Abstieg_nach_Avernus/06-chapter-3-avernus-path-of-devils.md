@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Avernus - Path of Devils"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Avernus - Path of Devils"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Chapter 3: Avernus - Path of Devils"
-  - Chapter 3: Avernus - Path of Devils
 ---
 # Chapter 3: Avernus - Path of Devils
 *Source: Baldur's Gate: Descent Into Avernus, p. 106* 

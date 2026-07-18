@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Hidden Shrine of Tamoachan
+Status: WIP
 linter-yaml-title-alias: The Hidden Shrine of Tamoachan
 tags:
   - Quelle/5e/tftyp-thsot
 aliases:
-  - "The Hidden Shrine of Tamoachan"
+  - The Hidden Shrine of Tamoachan
   - The Hidden Shrine of Tamoachan
 ---
 # The Hidden Shrine of Tamoachan

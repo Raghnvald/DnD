@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Heroism
+Status: WIP
 linter-yaml-title-alias: Potion of Heroism
 tags:
   - Gegenstand/Seltenheit/selten

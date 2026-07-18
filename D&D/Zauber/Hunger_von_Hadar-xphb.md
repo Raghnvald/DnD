@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hunger of Hadar
+Status: WIP
 linter-yaml-title-alias: Hunger of Hadar
 classes:
   - Sorcerer (Aberrant Sorcery)

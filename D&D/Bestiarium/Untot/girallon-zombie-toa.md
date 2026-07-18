@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Girallon Zombie
+Status: WIP
 linter-yaml-title-alias: Girallon Zombie
 tags:
   - Monster/Größe/Groß

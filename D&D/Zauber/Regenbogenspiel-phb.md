@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Prismatic Spray
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Prismatic Spray
 classes:
   - Bard (Magical Secrets)

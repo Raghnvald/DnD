@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tote beleben
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Tote beleben
 tags:
   - Klasse/Kleriker

@@ -5,6 +5,7 @@ Bezeichnung: Green Slaad
 Kategorie: Aberration
 Größe: Groß
 HG: 8
+Status: WIP
 linter-yaml-title-alias: Green Slaad
 tags:
   - Monster/Größe/Groß

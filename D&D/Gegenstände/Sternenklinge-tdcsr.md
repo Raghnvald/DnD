@@ -1,18 +1,20 @@
 ---
-Bezeichnung: Star Razor
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Star Razor
+Bezeichnung: Sternenklinge
+Original: Star Razor
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Sternenklinge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Star Razor
+  - Sternenklinge
 ---
-# Star Razor
-*Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  
+# Sternenklinge
+*Weapon ([longsword](Langschwert-phb)), legendary (requires attunement)*  
 ![A silver greatsword with a...](/3-Mechanics/CLI/items/img/starrazor.webp#right "A silver greatsword with a red hilt. Inset in the hilt is a green gemstone. Runes run down the center of the blade, where also runs silver-white lines of magic.")
 
 - **Damage**:

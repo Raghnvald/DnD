@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Awaken
+Status: WIP
 linter-yaml-title-alias: Awaken
 classes:
   - Bard

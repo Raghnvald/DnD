@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Forseti
+Status: WIP
 linter-yaml-title-alias: Forseti
 tags:
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

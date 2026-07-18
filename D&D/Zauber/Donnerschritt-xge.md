@@ -7,6 +7,7 @@ Komponenten: V
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 3d10 Schall
+Status: WIP
 linter-yaml-title-alias: Donnerschritt
 classes:
   - Bard

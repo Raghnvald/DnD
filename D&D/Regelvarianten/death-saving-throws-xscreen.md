@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Death Saving Throws
+Status: WIP
 linter-yaml-title-alias: Death Saving Throws
 tags:
   - Quelle/5e/xscreen
 aliases:
-  - "Death Saving Throws"
+  - Death Saving Throws
   - Death Saving Throws
 ---
 # Death Saving Throws

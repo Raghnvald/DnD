@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ring of Elemental Command (Water)
+Status: WIP
 linter-yaml-title-alias: Ring of Elemental Command (Water)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg

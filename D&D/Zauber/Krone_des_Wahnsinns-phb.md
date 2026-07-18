@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Crown of Madness
+Bezeichnung: Krone des Wahnsinns
 Zaubergrad: 2
-linter-yaml-title-alias: Crown of Madness
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Krone des Wahnsinns
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -22,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
 aliases:
-  - Crown of Madness
+  - Krone des Wahnsinns
 ---
-# Crown of Madness
+# Krone des Wahnsinns
 *2nd-level, Enchantment*  
 
 - **Casting time:** 1 Action

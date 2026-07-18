@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inspired (Quori Vessel; Hashalaq)
+Status: WIP
 linter-yaml-title-alias: Inspired (Quori Vessel; Hashalaq)
 tags:
   - Monster/Größe/Mittelgroß

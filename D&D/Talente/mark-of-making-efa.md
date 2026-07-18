@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Making
+Status: WIP
 linter-yaml-title-alias: Mark of Making
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Making"
+  - Mark of Making
   - Mark of Making
 ---
 # Mark of Making

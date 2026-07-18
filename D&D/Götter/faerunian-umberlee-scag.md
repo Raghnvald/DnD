@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Umberlee
+Status: WIP
 linter-yaml-title-alias: Umberlee
 tags:
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - The Bitch Queen

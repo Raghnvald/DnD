@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githzerai Enlightened
+Status: WIP
 linter-yaml-title-alias: Githzerai Enlightened
 tags:
   - Monster/Größe/Mittelgroß

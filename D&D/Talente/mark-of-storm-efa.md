@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Storm
+Status: WIP
 linter-yaml-title-alias: Mark of Storm
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Storm"
+  - Mark of Storm
   - Mark of Storm
 ---
 # Mark of Storm

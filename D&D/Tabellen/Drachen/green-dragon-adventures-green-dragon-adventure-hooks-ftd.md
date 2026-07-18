@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Green Dragon Adventures; Green Dragon Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Green Dragon Adventures; Green Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Otto's Irresistible Dance"
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: "Otto's Irresistible Dance"
 classes:
   - Bard (Magical Secrets)

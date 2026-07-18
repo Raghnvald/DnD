@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Uncommon Cuisine"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Uncommon Cuisine"
 tags:
   - Quelle/5e/hf

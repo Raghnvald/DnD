@@ -2,10 +2,10 @@
 Bezeichnung: Beutel
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 SM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Beutel
 tags:
   - Gegenstand/Ausrüstung/
@@ -19,7 +19,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 5 SM
-- **Gewicht**: 0,5 kg.
+- **Gewicht**: 0,5 kg
 
 Ein Stoff- oder Lederbeutel fasst (neben anderen Dingen) bis zu 20 [[Schleuderkugel-phb|Schleuderkugeln]] oder 50 [[Blasrohrpfeil-phb|Blasrohrpfeile]]. Ein [[Materialkomponentenbeutel-phb|Materialkomponentenbeutel]], den man für Zauber verwendet, wird separat beschrieben.
 

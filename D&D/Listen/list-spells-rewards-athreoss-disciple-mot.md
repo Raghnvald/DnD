@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Athreos's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Spells for Athreos's Disciple"
 tags:
-  - ttrpg-cli/spell/list/reward/athreoss-disciple
+  - Zauber/Liste/reward/athreoss-disciple
 aliases:
   - "Spells for Athreos's Disciple"
 ---

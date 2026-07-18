@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conjure Fey
+Status: WIP
 linter-yaml-title-alias: Conjure Fey
 classes:
   - Bard

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beguiling Influence
+Status: WIP
 linter-yaml-title-alias: Beguiling Influence
 tags:
   - Kompendium/Optionales/ei

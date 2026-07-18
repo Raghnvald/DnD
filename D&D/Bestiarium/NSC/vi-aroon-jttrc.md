@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vi Aroon
+Status: WIP
 linter-yaml-title-alias: Vi Aroon
 tags:
   - Monster/Größe/Mittelgroß

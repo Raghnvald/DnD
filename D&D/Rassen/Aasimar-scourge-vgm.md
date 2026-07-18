@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aasimar (Scourge)
+Status: WIP
 linter-yaml-title-alias: Aasimar (Scourge)
 tags:
   - Quelle/5e/vgm

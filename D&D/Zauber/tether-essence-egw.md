@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tether Essence
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Tether Essence
 tags:
   - Quelle/5e/egw

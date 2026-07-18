@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pig
+Status: WIP
 linter-yaml-title-alias: Pig
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

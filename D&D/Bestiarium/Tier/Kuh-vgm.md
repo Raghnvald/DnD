@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cow
+Status: WIP
 linter-yaml-title-alias: Cow
 tags:
   - Monster/Größe/Groß

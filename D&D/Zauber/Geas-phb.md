@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Geas
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Geas
 classes:
   - Bard (Magical Secrets)

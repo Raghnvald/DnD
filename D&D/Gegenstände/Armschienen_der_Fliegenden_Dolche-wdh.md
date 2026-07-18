@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Bracer of Flying Daggers
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Bracer of Flying Daggers
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/wdh

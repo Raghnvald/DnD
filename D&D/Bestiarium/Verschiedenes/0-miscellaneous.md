@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Miscellaneous
+Status: WIP
 linter-yaml-title-alias: Index of Miscellaneous
 aliases:
   - Index of Miscellaneous

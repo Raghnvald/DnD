@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc Red Fang of Shargaas
+Status: WIP
 linter-yaml-title-alias: Orc Red Fang of Shargaas
 tags:
   - Monster/Größe/Mittelgroß

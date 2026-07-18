@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonborn of Sardior
+Status: WIP
 linter-yaml-title-alias: Dragonborn of Sardior
 tags:
   - Monster/Größe/Mittelgroß

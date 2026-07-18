@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Putrefy
+Status: WIP
 linter-yaml-title-alias: Putrefy
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Putrefy"
+  - Putrefy
   - Putrefy
 ---
 # Putrefy

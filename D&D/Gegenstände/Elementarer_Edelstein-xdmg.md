@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Gem
+Status: WIP
 linter-yaml-title-alias: Elemental Gem
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

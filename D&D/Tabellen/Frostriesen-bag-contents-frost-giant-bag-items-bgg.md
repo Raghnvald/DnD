@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frost Giant Bag Contents; Frost Giant Bag Items
+Status: WIP
 linter-yaml-title-alias: Frost Giant Bag Contents; Frost Giant Bag Items
 tags:
   - Quelle/5e/bgg

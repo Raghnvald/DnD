@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavily Armored
+Status: WIP
 linter-yaml-title-alias: Heavily Armored
 tags:
   - Kompendium/Talent

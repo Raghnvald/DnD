@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harrow Hound
+Status: WIP
 linter-yaml-title-alias: Harrow Hound
 tags:
   - Monster/Größe/Mittelgroß

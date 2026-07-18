@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Pair of engraved bone dice
+Status: WIP
 linter-yaml-title-alias: Pair of engraved bone dice
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

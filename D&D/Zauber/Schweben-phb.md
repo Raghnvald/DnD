@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Levitate
+Bezeichnung: Schweben
 Zaubergrad: 2
-linter-yaml-title-alias: Levitate
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Schweben
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,9 +21,9 @@ tags:
   - Zauber/optfeature/ascendant-step
   - Zauber/Schule/Verwandlung
 aliases:
-  - Levitate
+  - Schweben
 ---
-# Levitate
+# Schweben
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

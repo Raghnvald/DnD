@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Ritual Caster
+Status: WIP
 linter-yaml-title-alias: Spells for Ritual Caster
 tags:
-  - Zauber/list/feat/ritual-caster
+  - Zauber/Liste/feat/ritual-caster
 aliases:
   - Spells for Ritual Caster
 ---

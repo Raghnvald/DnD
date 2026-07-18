@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Jester Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Jester Card
 tags:
   - Gegenstand/Seltenheit/legendär

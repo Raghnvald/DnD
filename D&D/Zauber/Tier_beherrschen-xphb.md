@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dominate Beast
+Status: WIP
 linter-yaml-title-alias: Dominate Beast
 classes:
   - Bard

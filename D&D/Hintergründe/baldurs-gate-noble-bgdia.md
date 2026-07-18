@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Noble"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Noble"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Noble"
-  - Baldur's Gate Noble
 ---
 # Baldur's Gate Noble
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 135*  

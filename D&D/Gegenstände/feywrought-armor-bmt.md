@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Feywrought Armor
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Feywrought Armor
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -25,6 +26,7 @@ aliases:
   - Feywrought Spiked Armor
   - Feywrought Splint Armor
   - Feywrought Studded Leather Armor
+Original: Feywrought Armor
 ---
 # Feywrought Armor
 *Rare (requires attunement)*  

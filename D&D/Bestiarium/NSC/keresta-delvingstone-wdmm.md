@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Keresta Delvingstone
+Status: WIP
 linter-yaml-title-alias: Keresta Delvingstone
 tags:
   - Monster/Größe/Mittelgroß

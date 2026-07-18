@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Druid Spells
+Status: WIP
 linter-yaml-title-alias: Druid Spells
 tags:
-  - Zauber/list/class/druid
+  - Zauber/Liste/class/druid
 aliases:
   - Druid Spells
 ---

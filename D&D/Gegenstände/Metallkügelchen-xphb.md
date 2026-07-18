@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ball Bearings
+Status: WIP
 linter-yaml-title-alias: Ball Bearings
 tags:
   - Gegenstand/Ausrüstung/

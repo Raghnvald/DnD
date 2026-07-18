@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dinosaur World Encounters
+Status: WIP
 linter-yaml-title-alias: Dinosaur World Encounters
 tags:
   - Quelle/5e/bgg

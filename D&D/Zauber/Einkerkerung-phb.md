@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Imprisonment
 Zaubergrad: 9
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
+Zeitaufwand: 1 Minute
+Reichweite: 9 Meter
+Komponenten: V, G, M
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+Status: WIP
 linter-yaml-title-alias: Imprisonment
 classes:
   - Bard (Magical Secrets)

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Flaming Fist Mercenary
+Status: WIP
 linter-yaml-title-alias: Flaming Fist Mercenary
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Flaming Fist Mercenary"
+  - Flaming Fist Mercenary
   - Flaming Fist Mercenary
 ---
 # Flaming Fist Mercenary

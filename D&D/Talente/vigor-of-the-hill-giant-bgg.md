@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vigor of the Hill Giant
+Status: WIP
 linter-yaml-title-alias: Vigor of the Hill Giant
 tags:
   - Kompendium/Talent

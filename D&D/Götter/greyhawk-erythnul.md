@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Erythnul
+Status: WIP
 linter-yaml-title-alias: Erythnul
 tags:
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Erythnul

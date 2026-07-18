@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keenness of the Stone Giant
+Status: WIP
 linter-yaml-title-alias: Keenness of the Stone Giant
 tags:
   - Kompendium/Talent

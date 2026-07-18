@@ -6,6 +6,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: GES
 Schaden: 2d6 Feuer
+Status: WIP
 linter-yaml-title-alias: Melfs präzise Meteore
 tags:
   - Klasse/Magier
@@ -15,7 +16,7 @@ tags:
   - Zauber/Original/Melfs_Minute_Meteors
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Melf's Minute Meteors
+  - "Melf's Minute Meteors"
   - Melfs präzise Meteore
 ---
 # Melfs präzise Meteore

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kuo-toa Whip
+Status: WIP
 linter-yaml-title-alias: Kuo-toa Whip
 tags:
   - Monster/Größe/Mittelgroß

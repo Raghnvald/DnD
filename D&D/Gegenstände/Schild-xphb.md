@@ -3,12 +3,13 @@ Bezeichnung: Schild
 Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
 Gew.: 3,0 kg
 RK: 2
 STR: n/v
 Heiml.: n/v
+Status: completed
 linter-yaml-title-alias: Schild
 tags:
   - Gegenstand/Rüstung/Schild/
@@ -16,11 +17,10 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Schild
-  - Shield
 ---
 # Schild
 *Rüstung ([Schild](Gegenstände/Schild-xphb.md))*  
-![](Gegenstände/img/shield.webp#right)
+![](img/shield.webp#right)
 
 - **Rüstungsklasse**: 2
 - **Kosten**: 10 GM

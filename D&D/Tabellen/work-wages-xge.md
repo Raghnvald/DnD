@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Work; Wages
+Status: WIP
 linter-yaml-title-alias: Work; Wages
 tags:
   - Quelle/5e/xge

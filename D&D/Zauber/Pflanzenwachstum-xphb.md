@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Plant Growth
+Status: WIP
 linter-yaml-title-alias: Plant Growth
 classes:
   - Bard

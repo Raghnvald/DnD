@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix: Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix: Magic Items"
 tags:
   - Quelle/5e/efa

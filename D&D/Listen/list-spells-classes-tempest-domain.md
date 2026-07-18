@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tempest Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Tempest Domain
 tags:
-  - Zauber/list/subclass/tempest-domain
+  - Zauber/Liste/subclass/tempest-domain
 aliases:
   - Spells for Tempest Domain
 ---

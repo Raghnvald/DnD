@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 7
 Habitat:
   - /
-image: token/crunch-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Crunch
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Crunch
+image: token/crunch-veor.webp
+status: WIP
 ---
 # Crunch
 *Source: Vecna: Eve of Ruin*  

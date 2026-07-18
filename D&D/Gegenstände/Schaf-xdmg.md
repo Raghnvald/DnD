@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sheep
+Status: WIP
 linter-yaml-title-alias: Sheep
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

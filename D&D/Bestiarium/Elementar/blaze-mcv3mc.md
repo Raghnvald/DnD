@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blaze
+Status: WIP
 linter-yaml-title-alias: Blaze
 tags:
   - Monster/Größe/Mittelgroß

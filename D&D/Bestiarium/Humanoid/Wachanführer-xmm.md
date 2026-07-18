@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guard Captain
+Status: WIP
 linter-yaml-title-alias: Guard Captain
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

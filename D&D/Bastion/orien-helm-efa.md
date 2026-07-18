@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Orien Helm
+Status: WIP
 linter-yaml-title-alias: Orien Helm
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
-  - "Orien Helm"
+  - Orien Helm
   - Orien Helm
 ---
 # Orien Helm

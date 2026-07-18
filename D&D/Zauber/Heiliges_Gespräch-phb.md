@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Commune
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Commune
 classes:
   - Bard (Magical Secrets)

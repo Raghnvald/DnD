@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Mordenkainen's Private Sanctum"
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Private Sanctum"
 classes:
   - Bard (Magical Secrets)

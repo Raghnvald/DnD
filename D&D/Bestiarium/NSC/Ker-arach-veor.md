@@ -2,8 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ker-arach
+Original: Ker-arach
+Kategorie: Monstrosität
+Größe: Riesig
+HG: 11
+Habitat:
+  - /
 Image: token/ker-arach-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Ker-arach
 tags:
   - Monster/Größe/Riesig
@@ -12,12 +18,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Ker-arach
-Kategorie: Monstrosität
-Größe: Riesig
-HG: "11"
-Habitat:
-  - /
-IMAGE:
 ---
 # Ker-arach
 *Quelle: Vecna: Vorabend der Verdammnis*  

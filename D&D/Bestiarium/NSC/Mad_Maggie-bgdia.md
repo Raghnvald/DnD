@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mad Maggie
+Status: WIP
 linter-yaml-title-alias: Mad Maggie
 tags:
   - Monster/Größe/Mittelgroß

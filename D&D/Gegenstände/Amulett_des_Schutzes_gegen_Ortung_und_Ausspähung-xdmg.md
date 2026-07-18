@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Amulett des Schutzes gegen Ortung und Ausspähung
+Status: WIP
 linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Rakdos Charm
+Status: WIP
 linter-yaml-title-alias: Rakdos Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Rakdos Charm

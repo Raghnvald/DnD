@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deck of Many Things (13 Cards)
+Status: WIP
 linter-yaml-title-alias: Deck of Many Things (13 Cards)
 tags:
   - Quelle/5e/dmg

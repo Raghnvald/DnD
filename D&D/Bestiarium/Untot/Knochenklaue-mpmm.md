@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boneclaw
+Status: WIP
 linter-yaml-title-alias: Boneclaw
 tags:
   - Monster/Größe/Groß

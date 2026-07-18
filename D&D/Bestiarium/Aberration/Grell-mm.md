@@ -6,8 +6,7 @@ Bezeichnung: Grell
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
-image: token/Grell.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Grell
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Grell
+image: token/Grell.webp
+status: WIP
 ---
 # [Grell](3-Mechanics\CLI\bestiary\aberration/grell.md)
 *Source: Monster Manual p. 172*  

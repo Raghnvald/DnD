@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Introduction–A Collection of Heists
+Status: WIP
 linter-yaml-title-alias: Introduction–A Collection of Heists
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Introduction–A Collection of Heists"
+  - Introduction–A Collection of Heists
   - Introduction–A Collection of Heists
 ---
 # Introduction–A Collection of Heists

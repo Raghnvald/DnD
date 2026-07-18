@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skill Expert
+Status: WIP
 linter-yaml-title-alias: Skill Expert
 tags:
   - Kompendium/Talent

@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kevetta Dolindar
+Original: Kevetta Dolindar
 Kategorie: Monstrosität
 Größe: Mittelgroß
 HG: 9
 Habitat:
   - /
-image: token/kevetta-dolindar-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Kevetta Dolindar
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Kevetta Dolindar
+image: token/kevetta-dolindar-veor.webp
 ---
 # Kevetta Dolindar
 *Quelle: Vecna: Vorabend der Verdammnis*  

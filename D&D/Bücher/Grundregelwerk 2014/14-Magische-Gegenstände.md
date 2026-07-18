@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Einstimmung
+Status: WIP
 linter-yaml-title-alias: Einstimmung
 tags: []
 aliases:

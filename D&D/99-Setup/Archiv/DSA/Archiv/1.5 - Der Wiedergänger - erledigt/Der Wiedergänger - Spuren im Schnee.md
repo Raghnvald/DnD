@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Der Wiedergänger - Spuren im Schnee
+Status: WIP
 ---
 # Der Wiedergänger - Spuren im Schnee
 Der Angreifer hinterlässt bei allen Morden deutlich sichtbare Spuren die sich relativ geradlinig bewegen und zeigen, dass genau dorthin zurückzugehen scheint, von wo er gekommen ist. Unabhängig vom Tatort führen die Spuren immer in richtig der Ruinen von Lobentanz.

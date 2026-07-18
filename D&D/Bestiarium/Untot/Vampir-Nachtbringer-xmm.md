@@ -8,7 +8,7 @@ HG: 8
 Habitat:
   - Stadt
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vampire Nightbringer
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Vampire Nightbringer
+status: WIP
 ---
 # [Vampire Nightbringer](3-Mechanics\CLI\bestiary\undead/vampire-nightbringer-xmm.md)
 *Source: Monster Manual (2024) p. 316*  

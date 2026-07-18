@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Graz'zt"
+Status: WIP
 linter-yaml-title-alias: "Graz'zt"
 tags:
   - Monster/Größe/Groß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - "Graz'zt"
-  - Graz'zt
 ---
 # Graz'zt
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148*  

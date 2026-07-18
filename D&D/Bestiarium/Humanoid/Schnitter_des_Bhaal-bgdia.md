@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reaper of Bhaal
+Status: WIP
 linter-yaml-title-alias: Reaper of Bhaal
 tags:
   - Monster/Größe/Mittelgroß

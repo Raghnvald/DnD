@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Muamman Duathal
+Status: WIP
 linter-yaml-title-alias: Muamman Duathal
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

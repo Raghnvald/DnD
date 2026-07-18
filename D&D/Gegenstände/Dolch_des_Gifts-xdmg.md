@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dagger of Venom
+Status: WIP
 linter-yaml-title-alias: Dagger of Venom
 tags:
   - Gegenstand/Seltenheit/selten

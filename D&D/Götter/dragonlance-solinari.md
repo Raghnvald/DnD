@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Solinari
+Status: WIP
 linter-yaml-title-alias: Solinari
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Solinari"
+  - Solinari
   - Solinari
 ---
 # Solinari

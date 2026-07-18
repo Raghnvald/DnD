@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghost
+Status: WIP
 linter-yaml-title-alias: Ghost
 tags:
   - Monster/Größe/Mittelgroß

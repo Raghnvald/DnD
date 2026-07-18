@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Recovery
+Status: WIP
 linter-yaml-title-alias: Boon of Recovery
 tags:
   - Kompendium/Talent

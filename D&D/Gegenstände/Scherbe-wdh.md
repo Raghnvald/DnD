@@ -2,17 +2,18 @@
 Bezeichnung: Scherbe
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Scherbe
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Scherbe
+status: WIP
 ---
 # Scherbe
 *Treasure (coinage)*  

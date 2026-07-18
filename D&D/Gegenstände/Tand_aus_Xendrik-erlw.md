@@ -1,18 +1,19 @@
 ---
-Bezeichnung: "Tand aus Xen'drik"
+Bezeichnung: Tand aus Xen'drik
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
-linter-yaml-title-alias: "Tand aus Xen'drik"
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
+linter-yaml-title-alias: Tand aus Xen'drik
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/erlw
 aliases:
-  - "Tand aus Xen'drik"
+  - Tand aus Xen'drik
+status: WIP
 ---
 # Tand aus Xen'drik
 *Adventuring gear*  

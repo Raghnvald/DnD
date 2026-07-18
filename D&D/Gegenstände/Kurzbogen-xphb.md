@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shortbow
+Status: WIP
 linter-yaml-title-alias: Shortbow
 tags:
   - Gegenstand/Seltenheit/keine

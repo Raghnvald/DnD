@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iggwilv the Witch Queen
+Status: WIP
 linter-yaml-title-alias: Iggwilv the Witch Queen
 tags:
   - Monster/Größe/Mittelgroß

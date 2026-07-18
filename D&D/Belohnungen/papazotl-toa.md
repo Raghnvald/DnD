@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Papazotl
+Status: WIP
 linter-yaml-title-alias: Papazotl
 tags:
   - Kompendium/Belohnung/inhabitation

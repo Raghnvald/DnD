@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Witness Netheril's Doom"
+Status: WIP
 linter-yaml-title-alias: "Introduction: Witness Netheril's Doom"
 tags:
   - Quelle/5e/nf

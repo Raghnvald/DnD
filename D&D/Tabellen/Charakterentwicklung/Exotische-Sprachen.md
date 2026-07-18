@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Exotische Sprachen
+Status: WIP
 linter-yaml-title-alias: Exotische Sprachen
 tags:
   - Quelle/5e/phb

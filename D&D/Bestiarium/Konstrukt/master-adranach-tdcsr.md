@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master Adranach
+Status: WIP
 linter-yaml-title-alias: Master Adranach
 tags:
   - Monster/Größe/Gigantisch

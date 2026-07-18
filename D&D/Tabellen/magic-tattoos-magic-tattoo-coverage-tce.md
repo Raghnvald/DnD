@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Tattoos; Magic Tattoo Coverage
+Status: WIP
 linter-yaml-title-alias: Magic Tattoos; Magic Tattoo Coverage
 tags:
   - Quelle/5e/tce

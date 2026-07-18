@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 150 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Assassinenblut
 tags:
   - Gegenstand/Ausrüstung/Gift
@@ -15,6 +15,7 @@ tags:
 aliases:
   - Assassin's Blood
   - Assassinenblut
+status: WIP
 ---
 # Assassinenblut
 *Abenteuerausrüstung, Gift (Einnahme)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Illithilich
+Status: WIP
 linter-yaml-title-alias: Illithilich
 tags:
   - Monster/legendary-group

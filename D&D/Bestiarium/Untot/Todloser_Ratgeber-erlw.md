@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undying Councilor
+Status: WIP
 linter-yaml-title-alias: Undying Councilor
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Deck of Several Things
+Status: WIP
 linter-yaml-title-alias: Deck of Several Things
 tags:
   - Quelle/5e/llk
 aliases:
-  - "Deck of Several Things"
+  - Deck of Several Things
   - Deck of Several Things
 ---
 # Deck of Several Things

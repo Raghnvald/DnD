@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonbone Golem
+Status: WIP
 linter-yaml-title-alias: Dragonbone Golem
 tags:
   - Monster/Größe/Groß

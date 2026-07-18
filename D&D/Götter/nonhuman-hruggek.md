@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hruggek
+Status: WIP
 linter-yaml-title-alias: Hruggek
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

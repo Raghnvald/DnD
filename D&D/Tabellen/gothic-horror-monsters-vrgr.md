@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Monsters
+Status: WIP
 linter-yaml-title-alias: Gothic Horror Monsters
 tags:
   - Quelle/5e/vrgr

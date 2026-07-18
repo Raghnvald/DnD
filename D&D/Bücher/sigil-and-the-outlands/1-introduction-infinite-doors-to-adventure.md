@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Infinite Doors to Adventure"
+Status: WIP
 linter-yaml-title-alias: "Introduction: Infinite Doors to Adventure"
 tags:
   - Quelle/5e/sato

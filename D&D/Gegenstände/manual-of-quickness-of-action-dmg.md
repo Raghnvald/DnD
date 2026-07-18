@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Manual of Quickness of Action
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Manual of Quickness of Action
 tags:
   - Gegenstand/Seltenheit/sehr_selten

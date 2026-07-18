@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elemental Spirit (Water)
+Status: WIP
 linter-yaml-title-alias: Elemental Spirit (Water)
 tags:
   - Monster/Größe/Mittelgroß

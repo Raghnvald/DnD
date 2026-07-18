@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix F: Additional Rumors"
+Status: WIP
 linter-yaml-title-alias: "Appendix F: Additional Rumors"
 tags:
   - Quelle/5e/llk

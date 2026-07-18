@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Transmute Rock
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Transmute Rock
 classes:
   - Artificer

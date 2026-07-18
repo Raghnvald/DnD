@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charakteroptionen
+Status: WIP
 linter-yaml-title-alias: Charakteroptionen
 tags:
   - Quelle/5e/tce

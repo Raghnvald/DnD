@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drowned Master
+Status: WIP
 linter-yaml-title-alias: Drowned Master
 tags:
   - Monster/Größe/Mittelgroß

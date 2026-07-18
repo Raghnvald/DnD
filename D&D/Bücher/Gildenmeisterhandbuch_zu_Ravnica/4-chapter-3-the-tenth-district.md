@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: The Tenth District"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: The Tenth District"
 tags:
   - Quelle/5e/ggr
 aliases:
   - "Chapter 3: The Tenth District"
-  - Chapter 3: The Tenth District
 ---
 # Chapter 3: The Tenth District
 *Source: Guildmasters' Guide to Ravnica, p. 99* 

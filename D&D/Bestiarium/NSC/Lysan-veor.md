@@ -2,8 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lysan
+Original: Lysan
+Kategorie: Humanoid (Gith)
+Größe: Mittelgroß
+HG: "8"
+Habitat:
+  - /
 Image: token/lysan-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Lysan
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,14 +18,9 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Lysan
-Größe: Mittelgroß
-Kategorie: Humanoid (Gith)
-HG: "8"
-Habitat:
-  - /
 ---
 # Lysan
-*Source: Vecna: Eve of Ruin*  
+*Quelle: Vecna: Vorabend der Verdammnis*  
 
 > [!statblock] Lysan
 > ![[token/lysan-veor.webp|right|100]]

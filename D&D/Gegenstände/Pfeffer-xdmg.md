@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pepper
+Status: WIP
 linter-yaml-title-alias: Pepper
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

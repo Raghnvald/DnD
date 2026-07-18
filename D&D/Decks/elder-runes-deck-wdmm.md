@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elder Runes Deck
+Status: WIP
 linter-yaml-title-alias: Elder Runes Deck
 tags:
   - Quelle/5e/wdmm

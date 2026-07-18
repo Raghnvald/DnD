@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brazier of Commanding Fire Elementals
+Status: WIP
 linter-yaml-title-alias: Brazier of Commanding Fire Elementals
 tags:
   - Gegenstand/Seltenheit/selten

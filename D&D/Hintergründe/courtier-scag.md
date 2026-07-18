@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Courtier
+Status: WIP
 linter-yaml-title-alias: Courtier
 tags:
   - Kompendium/Hintergrund

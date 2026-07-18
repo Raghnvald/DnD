@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: When Home Burns"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: When Home Burns"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Chapter 3: When Home Burns"
-  - Chapter 3: When Home Burns
 ---
 # Chapter 3: When Home Burns
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 51* 

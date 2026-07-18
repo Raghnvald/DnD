@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guard
+Status: WIP
 linter-yaml-title-alias: Guard
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

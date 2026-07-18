@@ -3,12 +3,13 @@ Bezeichnung: Mithrilrüstung
 Kategorie: Rüstung
 Rüstung: Mittel oder Schwer
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Mithrilrüstung
 tags:
   - Gegenstand/Rüstung/Mittel

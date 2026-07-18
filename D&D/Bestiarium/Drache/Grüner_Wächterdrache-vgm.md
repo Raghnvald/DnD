@@ -7,7 +7,7 @@ Größe: Mittelgroß
 Habitat:
   - Stadt
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Green Guard Drake
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +18,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Green Guard Drake
+status: WIP
 ---
 # [Green Guard Drake](3-Mechanics\CLI\bestiary\dragon/green-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

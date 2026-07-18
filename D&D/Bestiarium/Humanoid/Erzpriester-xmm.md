@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archpriest
+Status: WIP
 linter-yaml-title-alias: Archpriest
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

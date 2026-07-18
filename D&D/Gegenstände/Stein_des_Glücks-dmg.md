@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Stein des Glücks
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Stein des Glücks
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg

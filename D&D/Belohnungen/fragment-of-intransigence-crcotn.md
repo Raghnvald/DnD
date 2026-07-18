@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Fragment of Intransigence
+Status: WIP
 linter-yaml-title-alias: Fragment of Intransigence
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
-  - "Fragment of Intransigence"
+  - Fragment of Intransigence
   - Fragment of Intransigence
 ---
 # Fragment of Intransigence

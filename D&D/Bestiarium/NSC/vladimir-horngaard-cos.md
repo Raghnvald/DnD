@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 7
 Habitat:
   - Stadt
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vladimir Horngaard
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Vladimir Horngaard
+status: WIP
 ---
 # [Vladimir Horngaard](3-Mechanics\CLI\bestiary\npc/vladimir-horngaard-cos.md)
 *Source: Curse of Strahd p. 241*  

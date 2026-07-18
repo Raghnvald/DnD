@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Walloping Ammunition
+Status: WIP
 linter-yaml-title-alias: Walloping Ammunition
 tags:
-  - Gegenstand/Ausrüstung/ammunition
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/generic-variant
   - Gegenstand/Zeitalter/Futuristisch

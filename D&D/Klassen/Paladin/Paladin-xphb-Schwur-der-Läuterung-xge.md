@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Redemption
+Status: WIP
 linter-yaml-title-alias: Oath of Redemption
 tags:
   - Klasse/Paladin/Schwur-der-Läuterung

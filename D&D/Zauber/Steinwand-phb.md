@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wall of Stone
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Wall of Stone
 classes:
   - Bard (Magical Secrets)

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lamai Tyenmo
+Status: WIP
 linter-yaml-title-alias: Lamai Tyenmo
 tags:
   - Monster/Größe/Mittelgroß

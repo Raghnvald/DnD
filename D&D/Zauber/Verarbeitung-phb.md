@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fabricate
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Fabricate
 classes:
   - Bard (Magical Secrets)

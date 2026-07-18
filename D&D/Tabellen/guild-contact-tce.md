@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Contact
+Status: WIP
 linter-yaml-title-alias: Guild Contact
 tags:
   - Quelle/5e/tce

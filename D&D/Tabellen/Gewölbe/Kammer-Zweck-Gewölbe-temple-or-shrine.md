@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Temple or Shrine"
+Status: WIP
 linter-yaml-title-alias: "Chamber Purpose; Dungeon: Temple or Shrine"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Chamber Purpose; Dungeon: Temple or Shrine"
-  - Chamber Purpose; Dungeon: Temple or Shrine
 ---
 # Chamber Purpose; Dungeon: Temple or Shrine
 *Source: Dungeon Master's Guide p. 292* 

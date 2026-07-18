@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Melannor Fellbranch
+Status: WIP
 linter-yaml-title-alias: Melannor Fellbranch
 tags:
   - Monster/Größe/Mittelgroß

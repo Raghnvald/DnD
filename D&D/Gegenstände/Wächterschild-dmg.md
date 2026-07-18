@@ -3,12 +3,13 @@ Bezeichnung: Wächterschild
 Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: WIP
 linter-yaml-title-alias: Wächterschild
 tags:
   - Gegenstand/Rüstung/Schild/
@@ -16,12 +17,14 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wächterschild
+status: completed
+Einstimmung: n/v
 ---
 # Wächterschild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), ungewöhnlich*  
 
 - **Rüstungsklasse**: 2
-- **Gewicht**: 3,0 kg.
+- **Gewicht**: 3,0 kg
 
 Während du diesen Schild trägst, hast du einen Vorteil bei Würfen auf Weisheit ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]). Auf dem Schild prangt ein Symbol in Form eines Auges.
 

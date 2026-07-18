@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Old masterpiece painting
+Status: WIP
 linter-yaml-title-alias: Old masterpiece painting
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

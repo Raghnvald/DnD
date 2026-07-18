@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fangs of the Fire Snake
+Status: WIP
 linter-yaml-title-alias: Fangs of the Fire Snake
 tags:
   - Kompendium/Optionales/ed

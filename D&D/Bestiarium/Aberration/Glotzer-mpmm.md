@@ -5,7 +5,7 @@ Bezeichnung: Glotzer
 Kategorie: Aberration (Betrachter)
 Größe: Winzig
 HG: 1/2
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Glotzer
 tags:
   - Monster/Größe/Winzig
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Gazer
   - Glotzer
+status: WIP
 ---
 # Glotzer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134*  

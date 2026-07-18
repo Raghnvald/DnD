@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Green Hag
+Status: WIP
 linter-yaml-title-alias: Green Hag
 tags:
   - Monster/legendary-group

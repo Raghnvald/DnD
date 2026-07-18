@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Wand of Lightning Bolts
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Wand of Lightning Bolts
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg

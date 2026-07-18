@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kharbek
+Status: WIP
 linter-yaml-title-alias: Kharbek
 tags:
   - Monster/Größe/Mittelgroß

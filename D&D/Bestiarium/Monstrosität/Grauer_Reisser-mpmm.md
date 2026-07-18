@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gray Render
+Status: WIP
 linter-yaml-title-alias: Gray Render
 tags:
   - Monster/Größe/Groß

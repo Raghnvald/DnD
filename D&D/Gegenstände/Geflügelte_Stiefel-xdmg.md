@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Winged Boots
+Status: WIP
 linter-yaml-title-alias: Winged Boots
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

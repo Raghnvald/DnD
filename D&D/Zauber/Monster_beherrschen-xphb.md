@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dominate Monster
+Status: WIP
 linter-yaml-title-alias: Dominate Monster
 classes:
   - Bard

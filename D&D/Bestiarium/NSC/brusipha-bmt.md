@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brusipha
+Status: WIP
 linter-yaml-title-alias: Brusipha
 tags:
   - Monster/Größe/Mittelgroß

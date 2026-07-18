@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sanbalet
+Status: WIP
 linter-yaml-title-alias: Sanbalet
 tags:
   - Monster/Größe/Mittelgroß

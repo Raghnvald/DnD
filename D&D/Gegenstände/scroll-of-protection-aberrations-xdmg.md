@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Aberrations)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Aberrations)
 tags:
   - Gegenstand/Seltenheit/selten

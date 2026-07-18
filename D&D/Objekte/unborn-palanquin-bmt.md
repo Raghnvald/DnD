@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Unborn Palanquin
+Status: WIP
 linter-yaml-title-alias: Unborn Palanquin
 tags:
-  - Kompendium/Objekt/size/gargantuan
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/Gigantisch
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/bmt
 aliases:
   - Unborn Palanquin

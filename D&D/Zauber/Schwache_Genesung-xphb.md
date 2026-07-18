@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lesser Restoration
+Status: WIP
 linter-yaml-title-alias: Lesser Restoration
 classes:
   - Artificer
@@ -19,7 +20,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
   - Klasse/Waldläufer
   - Quelle/5e/xphb

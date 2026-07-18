@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hoard Mimic
+Status: WIP
 linter-yaml-title-alias: Hoard Mimic
 tags:
   - Monster/Größe/Riesig

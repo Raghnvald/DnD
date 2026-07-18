@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quadrone Detention Drone
+Status: WIP
 linter-yaml-title-alias: Quadrone Detention Drone
 tags:
   - Monster/Größe/Mittelgroß

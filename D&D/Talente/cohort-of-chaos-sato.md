@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Cohort of Chaos
+Status: WIP
 linter-yaml-title-alias: Cohort of Chaos
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
-  - "Cohort of Chaos"
+  - Cohort of Chaos
   - Cohort of Chaos
 ---
 # Cohort of Chaos

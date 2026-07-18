@@ -2,15 +2,18 @@
 Bezeichnung: Battering Shield
 Rüstung: Schild
 Eigenschaften:
-  - /
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Battering Shield
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/egw
 aliases:
   - Battering Shield
+Original: Battering Shield
 ---
 # Battering Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare (requires attunement)*  

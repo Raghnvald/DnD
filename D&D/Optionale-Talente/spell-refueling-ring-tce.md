@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell-Refueling Ring
+Status: WIP
 linter-yaml-title-alias: Spell-Refueling Ring
 tags:
   - Kompendium/Optionales/ai

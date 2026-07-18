@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Elementals"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Elementals"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Elementals"
-  - Monsters' Desires; Elementals
 ---
 # Monsters' Desires; Elementals
 *Source: Tasha's Cauldron of Everything p. 148* 

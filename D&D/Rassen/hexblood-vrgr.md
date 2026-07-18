@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hexblood
+Status: WIP
 linter-yaml-title-alias: Hexblood
 tags:
   - Quelle/5e/vrgr

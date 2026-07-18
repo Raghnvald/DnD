@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Noble
-image: token/noble-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Noble
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Noble
+image: token/noble-xmm.webp
 ---
 # [Noble](3-Mechanics\CLI\bestiary\humanoid/noble-xmm.md)
 *Source: Monster Manual (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

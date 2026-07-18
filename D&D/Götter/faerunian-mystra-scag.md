@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Mystra
+Status: WIP
 linter-yaml-title-alias: Mystra
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Mystra

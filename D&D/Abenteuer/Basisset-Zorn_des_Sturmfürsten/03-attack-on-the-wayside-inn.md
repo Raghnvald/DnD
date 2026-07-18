@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Attack on the Wayside Inn
+Status: WIP
 linter-yaml-title-alias: Attack on the Wayside Inn
 tags:
   - Quelle/5e/slw

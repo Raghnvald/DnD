@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Item Card Template
+Status: WIP
 ---
 # Item Card Template
 

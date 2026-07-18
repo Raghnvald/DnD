@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Marble Elephant
+Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Marble Elephant
 tags:
   - Gegenstand/Seltenheit/selten

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Platinum Golem
+Status: WIP
 linter-yaml-title-alias: Platinum Golem
 tags:
   - Monster/Größe/Groß

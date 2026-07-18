@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Unterreich
-image: token/violet-fungus.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Violetter Pilz
 tags:
   - Monster/Größe/Mittelgroß
@@ -20,6 +19,8 @@ tags:
 aliases:
   - Violet Fungus
   - Violetter Pilz
+image: token/violet-fungus.webp
+status: completed
 ---
 # Violetter Pilz
 *Quelle: Monsterhandbuch S. 220. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

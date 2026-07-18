@@ -2,19 +2,21 @@
 Bezeichnung: Pipes of the Sewers
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Pipes of the Sewers
 tags:
   - Gegenstand/Ausrüstung/Instrument
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Pipes of the Sewers
+status: WIP
 ---
 # Pipes of the Sewers
 *Wondrous item, instrument, major, uncommon (requires attunement)*  

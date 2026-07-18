@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fey Wanderer
+Status: WIP
 linter-yaml-title-alias: Fey Wanderer
 tags:
   - Klasse/Waldläufer/fey-wanderer

@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Shield of Faith
+Bezeichnung: Schild des Glaubens
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Shield of Faith
+Zeitaufwand: 1 Bonusaktion
+Reichweite: 18 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Schild des Glaubens
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -18,14 +19,14 @@ tags:
   - Klasse/Kleriker
   - Klasse/Kleriker/war-domain
   - Klasse/paladin
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Bann
 aliases:
-  - Shield of Faith
+  - Schild des Glaubens
 ---
-# Shield of Faith
+# Schild des Glaubens
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 Bonus Action

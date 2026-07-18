@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warding Bond
+Status: WIP
 linter-yaml-title-alias: Warding Bond
 classes:
   - Artificer (Battle Smith)

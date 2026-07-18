@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gloom Stalker
+Status: WIP
 linter-yaml-title-alias: Gloom Stalker
 tags:
   - Klasse/Waldläufer/gloom-stalker

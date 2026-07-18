@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Prehistoric Figurine of Wondrous Power
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Prehistoric Figurine of Wondrous Power
 tags:
   - Gegenstand/Seltenheit/variiert

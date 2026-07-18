@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 9: Knight"
+Status: WIP
 linter-yaml-title-alias: "Chapter 9: Knight"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 9: Knight"
-  - Chapter 9: Knight
 ---
 # Chapter 9: Knight
 *Source: The Book of Many Things, p. 65* 

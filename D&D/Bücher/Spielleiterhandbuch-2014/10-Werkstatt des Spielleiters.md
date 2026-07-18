@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 9: Werkstatt des Spielleiters"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 9: Werkstatt des Spielleiters"
 tags:
   - Quelle/5e/dmg

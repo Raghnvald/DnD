@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Gunslinger
+Status: WIP
 linter-yaml-title-alias: Drow Gunslinger
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gedankenklinge
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+Original: Mind Blade
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Status: WIP
 linter-yaml-title-alias: Gedankenklinge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -17,56 +19,60 @@ aliases:
   - Mind Blade Rapier
   - Mind Blade Scimitar
   - Mind Blade Shortsword
+Kst.: n/v
+Gew.: variiert
+Eigenschaften:
+  - variiert
 ---
 # Gedankenklinge
 *Rare (requires attunement by a specific individual)*  
 
 Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `2d6` psychic damage to any target it hits.
 
-**Variants**:
-- [Mind Blade Double-Bladed Scimitar](#Mind%20Blade%20Double-Bladed%20Scimitar)
-- [Mind Blade Greatsword](#Mind%20Blade%20Greatsword)
-- [Mind Blade Longsword](#Mind%20Blade%20Longsword)
-- [Mind Blade Rapier](#Mind%20Blade%20Rapier)
-- [Mind Blade Scimitar](#Mind%20Blade%20Scimitar)
-- [Mind Blade Shortsword](#Mind%20Blade%20Shortsword)
+**Varianten**:
+- [[#Gedanken-Krummsäbel]]
+- [[#Gedanken-Kurzschwert]]
+- [[#Gedanken-Langschwert]]
+- [[#Gedanken-Rapier]]
+- [[#Gedanken-Zweihandschwert]]
+- [[#Gedanken-Zweiklingiger Krummsäbel]]
 
-### Mind Blade Double-Bladed Scimitar
+### Gedanken-Krummsäbel
 
-- **Damage**: 2d4 slashing
-- **Properties**: Two-Handed, special
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Mind Blade Greatsword
+### Gedanken-Kurzschwert
 
-- **Damage**: 2d6 slashing
-- **Properties**: Heavy, Two-Handed
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Mind Blade Longsword
+### Gedanken-Langschwert
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: Versatile
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Mind Blade Rapier
+### Gedanken-Rapier
 
-- **Damage**: 1d8 piercing
-- **Properties**: Finesse
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Mind Blade Scimitar
+### Gedanken-Zweihandschwert
 
-- **Damage**: 1d6 slashing
-- **Properties**: Finesse, Light
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Mind Blade Shortsword
+### Gedanken-Zweiklingiger Krummsäbel
 
-- **Damage**: 1d6 piercing
-- **Properties**: Finesse, Light
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
 *Source: Volo's Guide to Monsters p. 81*

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Servo Crafting
+Status: WIP
 linter-yaml-title-alias: Servo Crafting
 tags:
   - Kompendium/Talent
   - Quelle/5e/psk
 aliases:
-  - "Servo Crafting"
+  - Servo Crafting
   - Servo Crafting
 ---
 # Servo Crafting

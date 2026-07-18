@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Laogzed
+Status: WIP
 linter-yaml-title-alias: Laogzed
 tags:
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

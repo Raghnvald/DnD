@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Orb of the Veil
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Orb of the Veil
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/egw

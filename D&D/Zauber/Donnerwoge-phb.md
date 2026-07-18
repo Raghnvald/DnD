@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 2d8 Schall
+Status: WIP
 linter-yaml-title-alias: Donnerwoge
 classes:
   - Bard (Magical Secrets)
@@ -23,7 +24,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Belohnung/boon-of-the-stormborn

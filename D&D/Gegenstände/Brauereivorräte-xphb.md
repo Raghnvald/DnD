@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Brewer's Supplies"
+Status: WIP
 linter-yaml-title-alias: "Brewer's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

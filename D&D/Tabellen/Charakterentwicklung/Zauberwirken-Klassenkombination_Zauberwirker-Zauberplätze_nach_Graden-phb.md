@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Zauberwirken; Klassenkombination für Zauberwirker: Zauberplätze nach Graden"
+Status: WIP
 linter-yaml-title-alias: "Zauberwirken; Klassenkombination für Zauberwirker: Zauberplätze nach Graden"
 tags:
   - Quelle/5e/phb

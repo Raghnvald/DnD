@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Centaur
+Status: WIP
 linter-yaml-title-alias: Centaur
 tags:
   - Quelle/5e/mpmm

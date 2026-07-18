@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clockwork Oaken Bolter
+Status: WIP
 linter-yaml-title-alias: Clockwork Oaken Bolter
 tags:
   - Monster/Größe/Mittelgroß

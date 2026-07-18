@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Handling
+Status: WIP
 linter-yaml-title-alias: Mark of Handling
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Handling"
+  - Mark of Handling
   - Mark of Handling
 ---
 # Mark of Handling

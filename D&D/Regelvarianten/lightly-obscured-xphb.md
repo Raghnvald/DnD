@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lightly Obscured
+Status: WIP
 linter-yaml-title-alias: Lightly Obscured
 tags:
   - Quelle/5e/xphb

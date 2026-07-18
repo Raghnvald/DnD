@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Asteria
 Kategorie: Humanoid (Mensch, Paladin)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Asteria
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Asteria
+status: WIP
 ---
 # [Asteria](3-Mechanics\CLI\bestiary\npc/asteria-bmt.md)
 *Source: The Book of Many Things p. 188*  

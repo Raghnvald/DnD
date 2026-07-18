@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Arcane Effluence
+Status: WIP
 linter-yaml-title-alias: Arcane Effluence
 tags:
   - Quelle/5e/nf
 aliases:
-  - "Arcane Effluence"
+  - Arcane Effluence
   - Arcane Effluence
 ---
 # Arcane Effluence

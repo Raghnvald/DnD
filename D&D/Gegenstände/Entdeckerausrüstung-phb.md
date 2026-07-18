@@ -2,10 +2,10 @@
 Bezeichnung: Entdeckerausrüstung
 Kategorie: Ausrüstungspaket
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
 Gew.: 29,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Entdeckerausrüstung
 tags:
   - Gegenstand/Ausrüstung/

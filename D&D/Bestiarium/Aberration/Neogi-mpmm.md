@@ -5,7 +5,7 @@ Bezeichnung: Neogi
 Kategorie: Aberration
 Größe: Winzig
 HG: 3
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Neogi
 tags:
   - Monster/Größe/Klein
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Neogi
+status: WIP
 ---
 # Neogi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  

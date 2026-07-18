@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ammunition; 2
+Status: WIP
 linter-yaml-title-alias: Ammunition; 2
 tags:
   - Quelle/5e/xdmg

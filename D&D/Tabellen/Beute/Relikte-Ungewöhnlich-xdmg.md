@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Relics - Uncommon
+Status: WIP
 linter-yaml-title-alias: Relics - Uncommon
 tags:
   - Quelle/5e/xdmg

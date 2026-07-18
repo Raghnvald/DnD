@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Pan
+Status: WIP
 linter-yaml-title-alias: Pan
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

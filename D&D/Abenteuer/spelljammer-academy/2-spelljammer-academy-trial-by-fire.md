@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spelljammer Academy: Trial By Fire"
+Status: WIP
 linter-yaml-title-alias: "Spelljammer Academy: Trial By Fire"
 tags:
   - Quelle/5e/sja

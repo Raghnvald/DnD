@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Azorius Charm
+Status: WIP
 linter-yaml-title-alias: Azorius Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Azorius Charm

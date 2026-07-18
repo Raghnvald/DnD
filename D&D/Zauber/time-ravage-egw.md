@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Time Ravage
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Time Ravage
 tags:
   - Quelle/5e/egw

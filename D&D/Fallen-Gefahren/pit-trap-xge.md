@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pit Trap
+Status: WIP
 linter-yaml-title-alias: Pit Trap
 tags:
   - Kompendium/Bedrohung/smpl

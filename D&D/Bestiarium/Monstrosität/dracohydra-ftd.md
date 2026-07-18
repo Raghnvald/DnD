@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dracohydra
+Status: WIP
 linter-yaml-title-alias: Dracohydra
 tags:
   - Monster/Größe/Riesig

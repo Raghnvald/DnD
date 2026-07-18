@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sir Braford
+Status: WIP
 linter-yaml-title-alias: Sir Braford
 tags:
   - Monster/Größe/Mittelgroß

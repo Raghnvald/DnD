@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Spells for Trickster's Escape"
+Status: WIP
 linter-yaml-title-alias: "Spells for Trickster's Escape"
 tags:
-  - Zauber/list/optfeature/tricksters-escape
+  - Zauber/Liste/optfeature/tricksters-escape
 aliases:
   - "Spells for Trickster's Escape"
-  - Spells for Trickster's Escape
 ---
 # Spells for Trickster's Escape
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faroul
+Status: WIP
 linter-yaml-title-alias: Faroul
 tags:
   - Monster/Größe/Mittelgroß

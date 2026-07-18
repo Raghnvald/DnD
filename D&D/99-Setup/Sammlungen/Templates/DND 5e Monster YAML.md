@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Name
+Status: WIP
 linter-yaml-title-alias: Name
 aliases:
   - Name

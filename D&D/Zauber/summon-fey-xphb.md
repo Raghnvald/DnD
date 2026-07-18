@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Summon Fey
+Status: WIP
 linter-yaml-title-alias: Summon Fey
 classes:
   - Bard

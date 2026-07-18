@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Diviner
+Status: WIP
 linter-yaml-title-alias: Spells for Diviner
 tags:
-  - Zauber/list/subclass/diviner
+  - Zauber/Liste/subclass/diviner
 aliases:
   - Spells for Diviner
 ---

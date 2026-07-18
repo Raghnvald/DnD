@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cylinder [Area of Effect]
+Status: WIP
 linter-yaml-title-alias: Cylinder [Area of Effect]
 tags:
   - Quelle/5e/xphb

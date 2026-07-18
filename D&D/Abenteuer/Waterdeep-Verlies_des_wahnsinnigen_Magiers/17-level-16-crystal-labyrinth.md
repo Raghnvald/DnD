@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 16: Crystal Labyrinth"
+Status: WIP
 linter-yaml-title-alias: "Level 16: Crystal Labyrinth"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 16: Crystal Labyrinth"
-  - Level 16: Crystal Labyrinth
 ---
 # Level 16: Crystal Labyrinth
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 209* 

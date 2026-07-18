@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quavilithku Spyder-Fiend
-image: token/quavilithku-spyder-fiend-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Quavilithku Spyder-Fiend
 tags:
   - Monster/Größe/Groß
@@ -12,6 +11,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Quavilithku Spyder-Fiend
+image: token/quavilithku-spyder-fiend-veor.webp
+status: WIP
 ---
 # [Quavilithku Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/quavilithku-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 236*  

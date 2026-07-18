@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Wildstorm
+Status: WIP
 linter-yaml-title-alias: Wildstorm
 tags:
   - Quelle/5e/nf
 aliases:
-  - "Wildstorm"
+  - Wildstorm
   - Wildstorm
 ---
 # Wildstorm

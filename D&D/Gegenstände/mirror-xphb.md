@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mirror
+Status: WIP
 linter-yaml-title-alias: Mirror
 tags:
   - Gegenstand/Ausrüstung/

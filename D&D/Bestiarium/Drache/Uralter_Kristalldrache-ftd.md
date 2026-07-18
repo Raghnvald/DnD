@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Crystal Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Crystal Dragon
 tags:
   - Monster/Größe/Gigantisch

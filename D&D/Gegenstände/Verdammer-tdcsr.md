@@ -1,19 +1,22 @@
 ---
-Bezeichnung: Condemner
-Kategorie: Fernkampf-Kriegswaffe
+Bezeichnung: Verdammer
+Original: Condemner
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Condemner
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/tdcsr
 aliases:
   - Condemner
+status: WIP
 ---
 # Condemner
-*Weapon ([heavy crossbow](/3-Mechanics/CLI/items/heavy-crossbow-xphb.md)), legendary (requires attunement)*  
-![A black, shadowed crossbow...](/3-Mechanics/CLI/items/img/condemner.webp#right "A black, shadowed crossbow with intricate markings and an illuminated green drawstring and patterns.")
+*Weapon ([heavy crossbow](heavy-crossbow-xphb.md)), legendary (requires attunement)*  
+![A black, shadowed crossbow...](img/condemner.webp#right "A black, shadowed crossbow with intricate markings and an illuminated green drawstring and patterns.")
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400

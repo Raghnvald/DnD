@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Symbol
+Status: WIP
 linter-yaml-title-alias: Symbol
 classes:
   - Bard

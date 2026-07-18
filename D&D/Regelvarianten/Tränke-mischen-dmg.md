@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tränke mischen
+Status: WIP
 linter-yaml-title-alias: Tränke mischen
 tags:
   - Quelle/5e/dmg

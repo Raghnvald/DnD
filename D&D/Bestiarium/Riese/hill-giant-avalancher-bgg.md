@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hill Giant Avalancher
+Status: WIP
 linter-yaml-title-alias: Hill Giant Avalancher
 tags:
   - Monster/Größe/Riesig

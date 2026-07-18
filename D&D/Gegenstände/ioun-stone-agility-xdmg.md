@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Agility
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Agility
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:

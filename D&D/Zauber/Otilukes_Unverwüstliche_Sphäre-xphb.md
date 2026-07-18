@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Otiluke's Resilient Sphere"
+Status: WIP
 linter-yaml-title-alias: "Otiluke's Resilient Sphere"
 classes:
   - Artificer

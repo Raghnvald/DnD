@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Shield of Missile Attraction
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: Shield of Missile Attraction
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg

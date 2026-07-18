@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Treasures
+Status: WIP
 linter-yaml-title-alias: Treasures
 tags:
   - Quelle/5e/mot
 aliases:
-  - "Treasures"
+  - Treasures
   - Treasures
 ---
 # Treasures

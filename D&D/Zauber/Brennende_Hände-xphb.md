@@ -6,6 +6,7 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Status: WIP
 linter-yaml-title-alias: Burning Hands
 classes:
   - Bard
@@ -26,11 +27,11 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide/circle-of-the-land/arid-land
   - Klasse/Druide/circle-of-wildfire
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xphb
   - Subklasse/evoker
   - Subklasse/fiend-patron

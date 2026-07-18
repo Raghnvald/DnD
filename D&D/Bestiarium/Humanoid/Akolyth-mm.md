@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
-image: token/acolyte.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Acolyte
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Acolyte
+image: token/acolyte.webp
+status: WIP
 ---
 # [Acolyte](3-Mechanics\CLI\bestiary\humanoid/acolyte.md)
 *Source: Monster Manual p. 342. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

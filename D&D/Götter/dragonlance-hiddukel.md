@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Hiddukel
+Status: WIP
 linter-yaml-title-alias: Hiddukel
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Hiddukel"
+  - Hiddukel
   - Hiddukel
 ---
 # Hiddukel

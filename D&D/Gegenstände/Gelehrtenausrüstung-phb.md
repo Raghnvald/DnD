@@ -2,10 +2,10 @@
 Bezeichnung: Gelehrtenausrüstung
 Kategorie: Ausrüstungspaket
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 40 GM
 Gew.: 5,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gelehrtenausrüstung
 tags:
   - Gegenstand/Ausrüstung/

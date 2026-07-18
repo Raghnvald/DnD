@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Find Steed
+Status: WIP
 linter-yaml-title-alias: Find Steed
 classes:
   - Paladin

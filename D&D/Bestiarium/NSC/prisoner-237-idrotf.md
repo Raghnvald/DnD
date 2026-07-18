@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Prisoner 237
+Status: WIP
 linter-yaml-title-alias: Prisoner 237
 tags:
   - Monster/Größe/Mittelgroß

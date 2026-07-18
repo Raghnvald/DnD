@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Painted gold war mask
+Status: WIP
 linter-yaml-title-alias: Painted gold war mask
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

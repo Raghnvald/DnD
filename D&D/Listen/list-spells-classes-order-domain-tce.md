@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Order Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Order Domain
 tags:
-  - Zauber/list/subclass/order-domain
+  - Zauber/Liste/subclass/order-domain
 aliases:
   - Spells for Order Domain
 ---

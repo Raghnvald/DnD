@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pale Tincture
+Status: WIP
 linter-yaml-title-alias: Pale Tincture
 tags:
   - Gegenstand/Ausrüstung/

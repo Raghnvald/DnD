@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Schlachtross
+Original: Warhorse
 Kategorie: Reit- und Lastentier
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 400 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Schlachtross
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

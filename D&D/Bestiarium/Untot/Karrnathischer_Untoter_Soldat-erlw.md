@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Karrnathi Undead Soldier
+Status: WIP
 linter-yaml-title-alias: Karrnathi Undead Soldier
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stinking Cloud
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Stinking Cloud
 classes:
   - Bard (Magical Secrets)

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Hexblood
+Status: WIP
 linter-yaml-title-alias: Spells for Hexblood
 tags:
-  - Zauber/list/race/hexblood
+  - Zauber/Liste/race/hexblood
 aliases:
   - Spells for Hexblood
 ---

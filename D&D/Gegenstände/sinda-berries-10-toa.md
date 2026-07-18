@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sinda berries (10)
+Status: WIP
 linter-yaml-title-alias: Sinda berries (10)
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Religious Order Contacts; Order Contact
+Status: WIP
 linter-yaml-title-alias: Religious Order Contacts; Order Contact
 tags:
   - Quelle/5e/erlw

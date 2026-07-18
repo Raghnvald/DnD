@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ilmater
+Status: WIP
 linter-yaml-title-alias: Ilmater
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/twilight
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - He Who Endures

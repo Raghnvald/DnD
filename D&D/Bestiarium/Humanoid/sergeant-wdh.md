@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sergeant
+Status: WIP
 linter-yaml-title-alias: Sergeant
 tags:
   - Monster/Größe/Mittelgroß

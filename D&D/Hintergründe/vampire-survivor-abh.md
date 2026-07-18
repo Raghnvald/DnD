@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampire Survivor
+Status: WIP
 linter-yaml-title-alias: Vampire Survivor
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/abh
 aliases:
-  - "Vampire Survivor"
+  - Vampire Survivor
   - Vampire Survivor
 ---
 # Vampire Survivor

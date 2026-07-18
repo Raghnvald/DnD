@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: Alarums and Excursions"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Alarums and Excursions"
 tags:
   - Quelle/5e/pota

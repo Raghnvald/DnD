@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Difficulty Class
+Status: WIP
 linter-yaml-title-alias: Difficulty Class
 tags:
   - Quelle/5e/xphb

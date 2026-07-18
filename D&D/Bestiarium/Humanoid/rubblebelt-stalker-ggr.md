@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rubblebelt Stalker
+Status: WIP
 linter-yaml-title-alias: Rubblebelt Stalker
 tags:
   - Monster/Größe/Mittelgroß

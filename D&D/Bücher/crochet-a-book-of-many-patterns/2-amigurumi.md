@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Amigurumi
+Status: WIP
 linter-yaml-title-alias: Amigurumi
 tags:
   - Quelle/5e/cabomp
 aliases:
-  - "Amigurumi"
+  - Amigurumi
   - Amigurumi
 ---
 # Amigurumi

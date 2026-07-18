@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chishinix
 Image: token/chishinix-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Chishinix
 tags:
   - Monster/Größe/Mittelgroß

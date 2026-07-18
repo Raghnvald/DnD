@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mongrelfolk
+Status: WIP
 linter-yaml-title-alias: Mongrelfolk
 tags:
   - Monster/Größe/Mittelgroß

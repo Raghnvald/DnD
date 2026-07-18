@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Dissonantes Flüstern
 Zaubergrad: 1
+Zeitaufwand: 1 Aktion
+Komponenten: V
+Status: WIP
 linter-yaml-title-alias: Dissonantes Flüstern
 classes:
   - Bard (Magical Secrets)
   - Warlock (The Great Old One)
 tags:
   - Klasse/Barde/Magische-Geheimnisse
-  - Kompendium/Talent/magic-initiate/bard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Barde-Zauber
   - Quelle/5e/phb
   - Subklasse/the-great-old-one
   - Zauber/Grad/1
@@ -15,6 +18,8 @@ tags:
 aliases:
   - Dissonant Whispers
   - Dissonantes Flüstern
+Reichweite: 18 Meter
+Wirkungsdauer: Unmittelbar
 ---
 # Dissonantes Flüstern
 *Hervorrufung des 1. Grades*

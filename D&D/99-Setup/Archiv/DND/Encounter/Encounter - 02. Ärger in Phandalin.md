@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phandalin
+Status: WIP
 linter-yaml-title-alias: Phandalin
 aliases:
   - Phandalin

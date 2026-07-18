@@ -2,10 +2,10 @@
 Bezeichnung: Pipes of Haunting
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Pipes of Haunting
 tags:
   - Gegenstand/Ausrüstung/Instrument

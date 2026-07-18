@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Star Forge Item Creation
+Status: WIP
 linter-yaml-title-alias: Star Forge Item Creation
 tags:
   - Quelle/5e/bgg

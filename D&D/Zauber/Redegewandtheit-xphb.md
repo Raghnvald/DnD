@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glibness
+Status: WIP
 linter-yaml-title-alias: Glibness
 classes:
   - Bard

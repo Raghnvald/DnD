@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fluch
+Status: WIP
 linter-yaml-title-alias: Fluch
 tags:
   - Klasse/Barde

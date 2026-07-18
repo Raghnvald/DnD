@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Vicious Mockery
+Status: WIP
 linter-yaml-title-alias: Spells for Charm of Vicious Mockery
 tags:
-  - ttrpg-cli/spell/list/reward/charm-of-vicious-mockery
+  - Zauber/Liste/reward/charm-of-vicious-mockery
 aliases:
-  - "Spells for Charm of Vicious Mockery"
+  - Spells for Charm of Vicious Mockery
   - Spells for Charm of Vicious Mockery
 ---
 # Spells for Charm of Vicious Mockery

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: <center>Über dieses Abenteuer</center>
+Status: WIP
 linter-yaml-title-alias: <center>Über dieses Abenteuer</center>
 tags:
   - Quelle/5e/bgdia

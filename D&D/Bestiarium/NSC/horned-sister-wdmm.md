@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Horned Sister
+Status: WIP
 linter-yaml-title-alias: Horned Sister
 tags:
   - Monster/Größe/Mittelgroß

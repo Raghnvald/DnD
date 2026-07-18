@@ -2,10 +2,10 @@
 Bezeichnung: Kräuterkundeausrüstung
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 1,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Kräuterkundeausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

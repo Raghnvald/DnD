@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Obaya Uday
+Status: WIP
 linter-yaml-title-alias: Obaya Uday
 tags:
   - Monster/Größe/Mittelgroß

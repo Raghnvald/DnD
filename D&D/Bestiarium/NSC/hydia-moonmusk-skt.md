@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hydia Moonmusk
+Status: WIP
 linter-yaml-title-alias: Hydia Moonmusk
 tags:
   - Monster/Größe/Mittelgroß

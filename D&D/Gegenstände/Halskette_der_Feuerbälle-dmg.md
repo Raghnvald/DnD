@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Necklace of Fireballs
+Status: WIP
 linter-yaml-title-alias: Necklace of Fireballs
 tags:
   - Gegenstand/Seltenheit/selten

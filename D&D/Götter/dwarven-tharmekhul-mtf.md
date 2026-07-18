@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Tharmekhûl
+Status: WIP
 linter-yaml-title-alias: Tharmekhûl
 tags:
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

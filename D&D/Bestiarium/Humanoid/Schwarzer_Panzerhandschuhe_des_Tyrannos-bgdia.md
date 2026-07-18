@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Gauntlet of Bane
+Status: WIP
 linter-yaml-title-alias: Black Gauntlet of Bane
 tags:
   - Monster/Größe/Mittelgroß

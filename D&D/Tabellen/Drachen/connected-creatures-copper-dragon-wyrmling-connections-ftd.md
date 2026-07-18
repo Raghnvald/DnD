@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Copper Dragon Wyrmling Connections
+Status: WIP
 linter-yaml-title-alias: Connected Creatures; Copper Dragon Wyrmling Connections
 tags:
   - Quelle/5e/ftd

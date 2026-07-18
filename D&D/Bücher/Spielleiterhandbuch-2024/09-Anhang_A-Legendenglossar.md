@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Lore Glossary"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Lore Glossary"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Appendix A: Lore Glossary"
-  - Appendix A: Lore Glossary
 ---
 # Appendix A: Lore Glossary
 *Source: Dungeon Master's Guide (2024), p. 354* 

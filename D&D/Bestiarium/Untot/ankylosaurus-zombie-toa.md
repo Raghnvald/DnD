@@ -5,7 +5,7 @@ Bezeichnung: Ankylosaurus Zombie
 Kategorie: Untoter
 Größe: Riesig
 HG: "3"
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ankylosaurus Zombie
 tags:
   - Monster/Größe/Riesig
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Ankylosaurus Zombie
+status: WIP
 ---
 # [Ankylosaurus Zombie](3-Mechanics\CLI\bestiary\undead/ankylosaurus-zombie-toa.md)
 *Source: Tomb of Annihilation p. 240*  

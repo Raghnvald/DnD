@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clairvoyance
+Status: WIP
 linter-yaml-title-alias: Clairvoyance
 classes:
   - Barbarian (Path of the Ancestral Guardian)

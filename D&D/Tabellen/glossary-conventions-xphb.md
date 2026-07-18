@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glossary Conventions
+Status: WIP
 linter-yaml-title-alias: Glossary Conventions
 tags:
   - Quelle/5e/xphb

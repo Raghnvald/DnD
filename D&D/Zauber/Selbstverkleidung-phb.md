@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Disguise Self
+Bezeichnung: Selbstverkleidung
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
-linter-yaml-title-alias: Disguise Self
+Status: WIP
+linter-yaml-title-alias: Selbstverkleidung
 classes:
   - Bard (Magical Secrets)
   - Cleric (Trickery Domain)
@@ -21,7 +22,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Rasse/gnome-deep
   - Subklasse/Mystischer-Ritter
@@ -29,9 +30,9 @@ tags:
   - Zauber/optfeature/mask-of-many-faces
   - Zauber/Schule/Illusion
 aliases:
-  - Disguise Self
+  - Selbstverkleidung
 ---
-# Disguise Self
+# Selbstverkleidung
 *1st-level, Illusion*  
 
 - **Casting time:** 1 Action

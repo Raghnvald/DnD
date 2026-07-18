@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Hewards Praktischer Rucksack "
+Status: WIP
 linter-yaml-title-alias: "Hewards Praktischer Rucksack "
 tags:
   - Gegenstand/Seltenheit/selten

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Levistus)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Levistus)
 tags:
-  - Zauber/list/subrace/tiefling-levistus
+  - Zauber/Liste/subrace/tiefling-levistus
 aliases:
   - Spells for Tiefling (Levistus)
 ---

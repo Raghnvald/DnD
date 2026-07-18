@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kysh
+Status: WIP
 linter-yaml-title-alias: Kysh
 tags:
   - Monster/Größe/Mittelgroß

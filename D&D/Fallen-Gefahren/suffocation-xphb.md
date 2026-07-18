@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Suffocation
+Status: WIP
 linter-yaml-title-alias: Suffocation
 tags:
   - Quelle/5e/xphb

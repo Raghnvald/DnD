@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: "Bigby's Hand"
 classes:
   - Bard (Magical Secrets)

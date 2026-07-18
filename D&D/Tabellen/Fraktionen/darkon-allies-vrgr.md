@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Darkon Allies
+Status: WIP
 linter-yaml-title-alias: Darkon Allies
 tags:
   - Quelle/5e/vrgr

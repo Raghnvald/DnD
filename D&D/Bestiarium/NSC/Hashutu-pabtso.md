@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hashutu
-image: token/hashutu-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Hashutu
 tags:
   - Monster/Größe/Mittelgroß
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Hashutu
+image: token/hashutu-pabtso.webp
 ---
 # Hashutu
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

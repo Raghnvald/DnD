@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Body Diameter
+Status: WIP
 linter-yaml-title-alias: Physical Characteristics; Beholder Body Diameter
 tags:
   - Quelle/5e/vgm

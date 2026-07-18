@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Scroll
+Status: WIP
 linter-yaml-title-alias: Spell Scroll
 tags:
   - Gegenstand/Seltenheit/variiert

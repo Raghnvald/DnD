@@ -6,7 +6,7 @@ Kategorie: Drache
 Größe: Riesig
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Young Dragon Turtle
 tags:
   - Monster/Größe/Riesig
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Dragon Turtle
+status: WIP
 ---
 # [Young Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/young-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 192*  

@@ -5,6 +5,7 @@ Eigenschaften:
   - /
 Kst.: unbezahlbar
 Gew.: /
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 9)
 tags:
   - Gegenstand/Seltenheit/legendär

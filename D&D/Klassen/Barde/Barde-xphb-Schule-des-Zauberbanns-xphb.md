@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Glamour
+Status: WIP
 linter-yaml-title-alias: College of Glamour
 tags:
   - Klasse/Barde/Schule-des-Zauberbanns

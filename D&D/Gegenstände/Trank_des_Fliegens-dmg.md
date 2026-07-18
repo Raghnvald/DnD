@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Flying
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Flying
 tags:
   - Gegenstand/Seltenheit/sehr_selten

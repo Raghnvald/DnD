@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elemental Gem, Red Corundum
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Elemental Gem, Red Corundum
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -5,6 +5,7 @@ Bezeichnung: Kobold Warrior
 Kategorie: Drache
 Größe: Klein
 HG: 1/8
+Status: WIP
 linter-yaml-title-alias: Kobold Warrior
 tags:
   - Monster/Größe/Klein

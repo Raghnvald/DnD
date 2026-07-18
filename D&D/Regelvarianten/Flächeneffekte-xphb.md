@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Area of Effect
+Status: WIP
 linter-yaml-title-alias: Area of Effect
 tags:
   - Quelle/5e/xphb

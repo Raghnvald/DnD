@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampire Hunter
+Status: WIP
 linter-yaml-title-alias: Vampire Hunter
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Vampire Hunter"
+  - Vampire Hunter
   - Vampire Hunter
 ---
 # Vampire Hunter

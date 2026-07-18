@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Luxonborn (Acolyte)
+Status: WIP
 linter-yaml-title-alias: Luxonborn (Acolyte)
 tags:
   - Kompendium/Hintergrund

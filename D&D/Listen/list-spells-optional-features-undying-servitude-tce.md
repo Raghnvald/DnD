@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Undying Servitude
+Status: WIP
 linter-yaml-title-alias: Spells for Undying Servitude
 tags:
-  - Zauber/list/optfeature/undying-servitude
+  - Zauber/Liste/optfeature/undying-servitude
 aliases:
   - Spells for Undying Servitude
 ---

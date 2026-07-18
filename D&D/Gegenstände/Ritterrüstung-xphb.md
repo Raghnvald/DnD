@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Plate Armor
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Plate Armor
 tags:
   - Gegenstand/Rüstung/Schwer

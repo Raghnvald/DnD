@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barrowghast
+Status: WIP
 linter-yaml-title-alias: Barrowghast
 tags:
   - Monster/Größe/Riesig

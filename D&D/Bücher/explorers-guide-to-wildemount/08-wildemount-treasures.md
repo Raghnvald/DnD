@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wildemount Treasures
+Status: WIP
 linter-yaml-title-alias: Wildemount Treasures
 tags:
   - Quelle/5e/egw

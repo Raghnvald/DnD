@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonborn (Metallic)
+Status: WIP
 linter-yaml-title-alias: Dragonborn (Metallic)
 tags:
   - Quelle/5e/ftd

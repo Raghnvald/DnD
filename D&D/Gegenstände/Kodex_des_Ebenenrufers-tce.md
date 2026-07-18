@@ -1,15 +1,15 @@
 ---
 Bezeichnung: "Planecaller's Codex"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "Planecaller's Codex"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
   - "Planecaller's Codex"
-  - Planecaller's Codex
 ---
 # Planecaller's Codex
 *Wondrous item, rare (requires attunement by a wizard)*  

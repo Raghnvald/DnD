@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Gray Ooze
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Gray Ooze
 tags:
   - Monster/Größe/Mittelgroß

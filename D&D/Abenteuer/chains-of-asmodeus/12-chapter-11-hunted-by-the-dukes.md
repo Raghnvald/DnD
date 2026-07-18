@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 11: Hunted by the Dukes"
+Status: WIP
 linter-yaml-title-alias: "Chapter 11: Hunted by the Dukes"
 tags:
   - Quelle/5e/coa

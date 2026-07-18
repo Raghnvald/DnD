@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Uncommon Glamerweave
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Uncommon Glamerweave
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

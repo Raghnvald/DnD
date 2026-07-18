@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reckoner
+Status: WIP
 linter-yaml-title-alias: Reckoner
 tags:
   - Monster/Größe/Mittelgroß

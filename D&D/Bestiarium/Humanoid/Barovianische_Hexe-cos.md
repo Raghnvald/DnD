@@ -6,8 +6,7 @@ Bezeichnung: Barovianische Hexe
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 1/2
-image:
-status:
+Status: WIP
 linter-yaml-title-alias: Barovianische Hexe
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
 aliases:
   - Barovian Witch
   - Barovianische Hexe
+image:
+status:
 ---
 # Barovianische Hexe
 *Source: Curse of Strahd p. 229*  

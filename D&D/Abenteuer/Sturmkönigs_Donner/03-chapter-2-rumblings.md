@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Rumblings"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Rumblings"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Chapter 2: Rumblings"
-  - Chapter 2: Rumblings
 ---
 # Chapter 2: Rumblings
 *Source: Storm King's Thunder, p. 37* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Transmuted Spell
+Status: WIP
 linter-yaml-title-alias: Transmuted Spell
 tags:
   - Kompendium/Optionales/mm

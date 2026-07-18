@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Brunnen der vielen Welten "
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: "Brunnen der vielen Welten "
 tags:
   - Gegenstand/Seltenheit/legendär

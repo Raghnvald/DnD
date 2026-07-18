@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Captain A-Hole
+Status: WIP
 linter-yaml-title-alias: Captain A-Hole
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/rmbre
 aliases:
-  - "Captain A-Hole"
+  - Captain A-Hole
   - Captain A-Hole
 ---
 # Captain A-Hole

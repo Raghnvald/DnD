@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Illusionist Wizard
+Status: WIP
 linter-yaml-title-alias: Illusionist Wizard
 tags:
   - Monster/Größe/Mittelgroß

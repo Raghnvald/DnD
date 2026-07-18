@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Planar Wanderer
+Status: WIP
 linter-yaml-title-alias: Planar Wanderer
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
-  - "Planar Wanderer"
+  - Planar Wanderer
   - Planar Wanderer
 ---
 # Planar Wanderer

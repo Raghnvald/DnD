@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guardian of Faith
+Status: WIP
 linter-yaml-title-alias: Guardian of Faith
 classes:
   - Bard

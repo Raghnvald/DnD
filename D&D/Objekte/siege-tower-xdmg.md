@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Siege Tower
+Status: WIP
 linter-yaml-title-alias: Siege Tower
 tags:
-  - Kompendium/Objekt/size/gargantuan
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Gigantisch
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/xdmg
 aliases:
   - Siege Tower

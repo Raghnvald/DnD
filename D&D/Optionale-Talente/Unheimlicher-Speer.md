@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unheimlicher Speer
+Status: WIP
 linter-yaml-title-alias: Unheimlicher Speer
 tags:
   - Kompendium/Optionales/Anrufungen

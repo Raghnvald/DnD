@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Vanishing Gnome
+Status: WIP
 linter-yaml-title-alias: The Vanishing Gnome
 tags:
   - Quelle/5e/wtthc
 aliases:
-  - "The Vanishing Gnome"
+  - The Vanishing Gnome
   - The Vanishing Gnome
 ---
 # The Vanishing Gnome

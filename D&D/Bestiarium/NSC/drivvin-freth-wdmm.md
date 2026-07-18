@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drivvin Freth
+Status: WIP
 linter-yaml-title-alias: Drivvin Freth
 tags:
   - Monster/Größe/Mittelgroß

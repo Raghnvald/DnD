@@ -5,15 +5,16 @@ Eigenschaften:
   - Munition
 Kst.: 3 SM
 Gew.: 0,1 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Renaissance-Kugel
 tags:
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zeitalter/Renaissance
   - Quelle/5e/dmg
 aliases:
   - Renaissance-Kugel
+status: WIP
 ---
 # Renaissance-Kugel
 *Ammunition (firearm)*  

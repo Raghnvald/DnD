@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simulacrum
+Status: WIP
 linter-yaml-title-alias: Simulacrum
 classes:
   - Bard

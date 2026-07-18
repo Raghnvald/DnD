@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deva
+Status: WIP
 linter-yaml-title-alias: Deva
 tags:
   - Monster/Größe/Mittelgroß

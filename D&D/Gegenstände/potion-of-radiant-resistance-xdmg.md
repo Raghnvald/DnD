@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Radiant Resistance
+Status: WIP
 linter-yaml-title-alias: Potion of Radiant Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

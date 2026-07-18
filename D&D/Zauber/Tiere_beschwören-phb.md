@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Conjure Animals
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Conjure Animals
 classes:
   - Bard (Magical Secrets)

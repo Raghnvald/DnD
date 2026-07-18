@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orog
+Status: WIP
 linter-yaml-title-alias: Orog
 tags:
   - Monster/Größe/Mittelgroß

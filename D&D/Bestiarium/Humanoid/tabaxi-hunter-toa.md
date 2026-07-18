@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tabaxi Hunter
+Status: WIP
 linter-yaml-title-alias: Tabaxi Hunter
 tags:
   - Monster/Größe/Mittelgroß

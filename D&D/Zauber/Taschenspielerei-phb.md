@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 3 Meter
 Komponenten: V, G
 Wirkungsdauer: Bis zu 1 Stunde
-Angriff: nichts
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Taschenspielerei
 classes:
   - Bard (Magical Secrets)
@@ -21,7 +22,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high

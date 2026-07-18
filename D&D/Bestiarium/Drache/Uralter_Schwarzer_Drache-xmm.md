@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Black Dragon
 Kategorie: Drache (Chromatisch)
+Status: WIP
 linter-yaml-title-alias: Ancient Black Dragon
 tags:
   - Monster/Größe/Gigantisch

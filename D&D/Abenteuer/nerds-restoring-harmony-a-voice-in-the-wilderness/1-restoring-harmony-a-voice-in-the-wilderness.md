@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Restoring Harmony: A Voice in the Wilderness"
+Status: WIP
 linter-yaml-title-alias: "Restoring Harmony: A Voice in the Wilderness"
 tags:
   - Quelle/5e/nrh-avitw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathlock Mastermind
+Status: WIP
 linter-yaml-title-alias: Deathlock Mastermind
 tags:
   - Monster/Größe/Mittelgroß

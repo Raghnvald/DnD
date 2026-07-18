@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gunner
+Status: WIP
 linter-yaml-title-alias: Gunner
 tags:
   - Kompendium/Talent

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Variant: Customizing Ability Scores; Ability Scores and Modifiers"
+Status: WIP
 linter-yaml-title-alias: "Variant: Customizing Ability Scores; Ability Scores and Modifiers"
 tags:
   - Quelle/5e/phb
 aliases:
   - "Variant: Customizing Ability Scores; Ability Scores and Modifiers"
-  - Variant: Customizing Ability Scores; Ability Scores and Modifiers
 ---
 # Variant: Customizing Ability Scores; Ability Scores and Modifiers
 *Source: Player's Handbook p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

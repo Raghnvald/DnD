@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Kord
+Status: WIP
 linter-yaml-title-alias: Kord
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Quelle/5e/dmg
 aliases:
   - Kord

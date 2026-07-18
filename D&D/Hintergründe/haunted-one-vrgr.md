@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Haunted One
+Status: WIP
 linter-yaml-title-alias: Haunted One
 tags:
   - Kompendium/Hintergrund

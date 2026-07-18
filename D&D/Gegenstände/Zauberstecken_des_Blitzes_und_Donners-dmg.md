@@ -3,18 +3,21 @@ Bezeichnung: Staff of Thunder and Lightning
 Kategorie: Zauberstecken
 Schaden: 1W6 Hieb
 Eigenschaften:
-  - erfordert Einstimmung
   - Vielseitig (1W8)
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Staff of Thunder and Lightning
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
   - Staff of Thunder and Lightning
+status: Typ
+Original: Staff of Thunder and Lightning
 ---
 # Staff of Thunder and Lightning
 *Staff, weapon, major, very rare (requires attunement)*  

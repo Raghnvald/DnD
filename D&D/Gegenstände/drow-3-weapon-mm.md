@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drow +3 Weapon
+Status: WIP
 linter-yaml-title-alias: Drow +3 Weapon
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

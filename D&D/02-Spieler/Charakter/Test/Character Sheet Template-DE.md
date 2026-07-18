@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "**Character Name**"
 Image:
+Status: WIP
 linter-yaml-title-alias: "**Character Name**"
 aliases:
   - "**Character Name**"

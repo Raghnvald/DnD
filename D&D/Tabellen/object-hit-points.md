@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Object Hit Points
+Status: WIP
 linter-yaml-title-alias: Object Hit Points
 tags:
   - Quelle/5e/dmg

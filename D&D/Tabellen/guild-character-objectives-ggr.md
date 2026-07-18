@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Character Objectives
+Status: WIP
 linter-yaml-title-alias: Guild Character Objectives
 tags:
   - Quelle/5e/ggr

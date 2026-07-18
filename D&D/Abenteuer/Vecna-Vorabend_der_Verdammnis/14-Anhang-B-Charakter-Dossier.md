@@ -1,12 +1,13 @@
 ---
 Bezeichnung: "Anhang B: Charakter-Dossier"
-status: completed
+Status: WIP
 linter-yaml-title-alias: "Anhang B: Charakter-Dossier"
 tags:
   - Quelle/5e/veor
 aliases:
   - "Anhang B: Charakter-Dossier"
-  - Appendix B: Character Dossier
+  - "Appendix B: Character Dossier"
+status: completed
 ---
 # Anhang B: Charakter-Dossier
 *Quelle: Vecna: Vorabend der Verdammnis* 

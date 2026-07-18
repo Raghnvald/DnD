@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orzhov Giant
+Status: WIP
 linter-yaml-title-alias: Orzhov Giant
 tags:
   - Monster/Größe/Groß

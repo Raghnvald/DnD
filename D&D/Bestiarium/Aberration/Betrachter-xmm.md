@@ -7,7 +7,7 @@ Größe: Groß
 HG: 13
 Habitat:
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Beholder
 tags:
   - Monster/Größe/Groß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Beholder
+status: WIP
 ---
 # [Beholder](3-Mechanics\CLI\bestiary\aberration/beholder-xmm.md)
 *Source: Monster Manual (2024) p. 36*  

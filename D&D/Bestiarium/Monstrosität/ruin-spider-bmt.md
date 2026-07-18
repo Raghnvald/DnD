@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ruin Spider
+Status: WIP
 linter-yaml-title-alias: Ruin Spider
 tags:
   - Monster/Größe/Groß

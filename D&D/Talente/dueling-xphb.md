@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dueling
+Status: WIP
 linter-yaml-title-alias: Dueling
 tags:
   - Kompendium/Talent

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Graz'zt"
+Status: WIP
 linter-yaml-title-alias: "Graz'zt"
 tags:
   - Monster/legendary-group
   - Quelle/5e/mpmm
 aliases:
   - "Graz'zt"
-  - Graz'zt
 ---
 # Graz'zt
 

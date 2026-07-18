@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Death Trap"
+Status: WIP
 linter-yaml-title-alias: "Chamber Purpose; Dungeon: Death Trap"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Chamber Purpose; Dungeon: Death Trap"
-  - Chamber Purpose; Dungeon: Death Trap
 ---
 # Chamber Purpose; Dungeon: Death Trap
 *Source: Dungeon Master's Guide p. 292* 

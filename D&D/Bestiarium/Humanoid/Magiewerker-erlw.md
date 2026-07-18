@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Magewright
+Status: WIP
 linter-yaml-title-alias: Magewright
 tags:
   - Monster/Größe/Mittelgroß

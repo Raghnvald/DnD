@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Item Tools
+Status: WIP
 linter-yaml-title-alias: Magic Item Tools
 tags:
   - Quelle/5e/xdmg

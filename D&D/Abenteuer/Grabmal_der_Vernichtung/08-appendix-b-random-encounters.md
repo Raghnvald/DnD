@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Random Encounters"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Random Encounters"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Appendix B: Random Encounters"
-  - Appendix B: Random Encounters
 ---
 # Appendix B: Random Encounters
 *Source: Tomb of Annihilation, p. 193* 

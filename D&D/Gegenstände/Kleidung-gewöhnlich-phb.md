@@ -1,24 +1,24 @@
 ---
-Bezeichnung: Gewöhnliche Kleidung
+Bezeichnung: Kleidung, gewöhnlich
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 SM
 Gew.: 1,5 kg
-status: completed
-linter-yaml-title-alias: Gewöhnliche Kleidung
+Status: completed
+linter-yaml-title-alias: Kleidung, gewöhnlich
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - common clothes
-  - Gewöhnliche Kleidung
+  - Kleidung, gewöhnlich
 ---
-# Gewöhnliche Kleidung
+# Kleidung, gewöhnlich
 *Abenteuerausrüstung*  
 
 - **Kosten**: 5 SM
-- **Gewicht**: 1,5 kg.
+- **Gewicht**: 1,5 kg
 
 *Quellen: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Javelin
+Status: WIP
 linter-yaml-title-alias: Javelin
 tags:
   - Gegenstand/Seltenheit/keine

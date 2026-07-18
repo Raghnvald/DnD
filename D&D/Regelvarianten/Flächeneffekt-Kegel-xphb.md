@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cone [Area of Effect]
+Status: WIP
 linter-yaml-title-alias: Cone [Area of Effect]
 tags:
   - Quelle/5e/xphb

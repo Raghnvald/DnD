@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Mystic Conflux
+Status: WIP
 linter-yaml-title-alias: Spells for Mystic Conflux
 tags:
-  - Zauber/list/feat/mystic-conflux
+  - Zauber/Liste/feat/mystic-conflux
 aliases:
   - Spells for Mystic Conflux
 ---

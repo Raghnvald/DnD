@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Orc (Ixalan)
+Status: WIP
 linter-yaml-title-alias: Orc (Ixalan)
 tags:
   - Quelle/5e/psx
   - Rasse/orc/ixalan
 aliases:
-  - "Orc (Ixalan)"
+  - Orc (Ixalan)
   - Orc (Ixalan)
 ---
 # Orc (Ixalan)

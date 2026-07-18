@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Celestial Patron
+Status: WIP
 linter-yaml-title-alias: Spells for Celestial Patron
 tags:
-  - Zauber/list/subclass/celestial-patron
+  - Zauber/Liste/subclass/celestial-patron
 aliases:
   - Spells for Celestial Patron
 ---

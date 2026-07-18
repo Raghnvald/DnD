@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for The Fathomless
+Status: WIP
 linter-yaml-title-alias: Spells for The Fathomless
 tags:
-  - Zauber/list/subclass/the-fathomless
+  - Zauber/Liste/subclass/the-fathomless
 aliases:
   - Spells for The Fathomless
 ---

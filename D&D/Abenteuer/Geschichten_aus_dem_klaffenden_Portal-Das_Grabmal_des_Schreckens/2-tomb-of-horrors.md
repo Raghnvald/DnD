@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Tomb of Horrors
+Status: WIP
 linter-yaml-title-alias: Tomb of Horrors
 tags:
   - Quelle/5e/tftyp-toh
 aliases:
-  - "Tomb of Horrors"
+  - Tomb of Horrors
   - Tomb of Horrors
 ---
 # Tomb of Horrors

@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ashen Heir Veteran
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ashen Heir Veteran
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Ashen Heir Veteran
+status: WIP
 ---
 # [Ashen Heir Veteran](3-Mechanics\CLI\bestiary\humanoid/ashen-heir-veteran-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 158*  

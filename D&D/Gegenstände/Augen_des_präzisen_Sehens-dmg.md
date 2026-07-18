@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Augen des präzisen Sehens
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Augen des präzisen Sehens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

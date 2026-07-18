@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Copper Dragon
+Status: WIP
 linter-yaml-title-alias: Copper Dragon
 tags:
   - Monster/legendary-group

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Embric
+Status: WIP
 linter-yaml-title-alias: Embric
 tags:
   - Monster/Größe/Mittelgroß

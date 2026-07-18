@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Philanthropic Enterprise"
+Status: WIP
 linter-yaml-title-alias: "Downtime and Franchise Activity: Philanthropic Enterprise"
 tags:
   - Quelle/5e/ai

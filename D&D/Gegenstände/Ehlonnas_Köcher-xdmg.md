@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quiver of Ehlonna
+Status: WIP
 linter-yaml-title-alias: Quiver of Ehlonna
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

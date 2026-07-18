@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Rival; Rival
+Status: WIP
 linter-yaml-title-alias: Creating a Rival; Rival
 tags:
   - Quelle/5e/xge

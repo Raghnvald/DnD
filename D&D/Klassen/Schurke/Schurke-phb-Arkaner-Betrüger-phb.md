@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkaner Betrüger
+Status: WIP
 linter-yaml-title-alias: Arkaner Betrüger
 tags:
   - Klasse/Schurke/Arkaner-Betrüger

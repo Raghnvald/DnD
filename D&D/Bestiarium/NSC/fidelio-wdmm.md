@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fidelio
+Status: WIP
 linter-yaml-title-alias: Fidelio
 tags:
   - Monster/Größe/Mittelgroß

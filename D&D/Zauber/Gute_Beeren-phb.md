@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
-Angriff: /
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Gute Beeren
 classes:
   - Bard (Magical Secrets)
@@ -16,7 +17,7 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Klasse/Waldläufer
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung

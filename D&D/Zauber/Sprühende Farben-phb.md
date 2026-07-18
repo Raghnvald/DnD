@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Color Spray
+Bezeichnung: Sprühende Farben
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: selbst (Kegel von 4,5m)
+Komponenten: V, G, M
+Wirkungsdauer: 1 Runde
 Angriff:
 Schaden:
-linter-yaml-title-alias: Color Spray
+Status: WIP
+linter-yaml-title-alias: Sprühende Farben
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,15 +20,15 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Illusion
 aliases:
-  - Color Spray
+  - Sprühende Farben
 ---
-# Color Spray
+# Sprühende Farben
 *1st-level, Illusion*  
 
 - **Casting time:** 1 Action

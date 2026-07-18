@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unoccupied Space
+Status: WIP
 linter-yaml-title-alias: Unoccupied Space
 tags:
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Viper
+Status: WIP
 linter-yaml-title-alias: Black Viper
 tags:
   - Monster/Größe/Mittelgroß

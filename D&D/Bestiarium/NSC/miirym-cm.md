@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Miirym
+Status: WIP
 linter-yaml-title-alias: Miirym
 tags:
   - Monster/Größe/Groß

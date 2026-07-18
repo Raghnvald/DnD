@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Teeth Shape
+Status: WIP
 linter-yaml-title-alias: Physical Characteristics; Beholder Teeth Shape
 tags:
   - Quelle/5e/vgm

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Sentinel
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Sentinel
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Sentinel"
+  - Greater Mark of Sentinel
   - Greater Mark of Sentinel
 ---
 # Greater Mark of Sentinel

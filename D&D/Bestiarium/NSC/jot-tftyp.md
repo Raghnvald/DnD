@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jot
+Status: WIP
 linter-yaml-title-alias: Jot
 tags:
   - Monster/Größe/Winzig

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 13: Star"
+Status: WIP
 linter-yaml-title-alias: "Chapter 13: Star"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 13: Star"
-  - Chapter 13: Star
 ---
 # Chapter 13: Star
 *Source: The Book of Many Things, p. 98* 

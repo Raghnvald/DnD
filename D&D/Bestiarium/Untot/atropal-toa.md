@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Atropal
 Kategorie: Untoter (Titan)
 Größe: Riesig
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Atropal
 tags:
   - Monster/Größe/Riesig
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Atropal
+status: WIP
 ---
 # [Atropal](3-Mechanics\CLI\bestiary\undead/atropal-toa.md)
 *Source: Tomb of Annihilation p. 214*  

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vedalken
+Status: WIP
 linter-yaml-title-alias: Vedalken
 tags:
   - Quelle/5e/psk
   - Rasse/vedalken
 aliases:
-  - "Vedalken"
+  - Vedalken
   - Vedalken
 ---
 # Vedalken

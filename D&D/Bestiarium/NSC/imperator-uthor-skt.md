@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Imperator Uthor
+Status: WIP
 linter-yaml-title-alias: Imperator Uthor
 tags:
   - Monster/Größe/Riesig

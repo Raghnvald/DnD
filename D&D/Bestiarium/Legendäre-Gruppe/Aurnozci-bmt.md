@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aurnozci
+Status: WIP
 linter-yaml-title-alias: Aurnozci
 tags:
   - Monster/legendary-group

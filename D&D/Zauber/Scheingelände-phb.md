@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hallucinatory Terrain
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Hallucinatory Terrain
 classes:
   - Bard (Magical Secrets)

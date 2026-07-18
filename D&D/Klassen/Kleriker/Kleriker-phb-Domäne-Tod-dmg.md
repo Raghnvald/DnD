@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Death Domain
+Status: WIP
 linter-yaml-title-alias: Death Domain
 tags:
   - Klasse/Kleriker/death
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Quelle/5e/dmg
 aliases:
   - Death Domain

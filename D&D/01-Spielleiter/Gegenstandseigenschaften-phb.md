@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gegenstandseigenschaften
+Status: WIP
 linter-yaml-title-alias: Gegenstandseigenschaften
 aliases:
   - Gegenstandseigenschaften
@@ -25,56 +26,64 @@ $\quad$Die Einstimmung einer Kreatur auf einen Gegenstand endet, wenn die Kreatu
 
 ## General and Weapon Properties
 
-### Geschosse
-*Quellen: Spielerhandbuch S. 214. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
-Du kannst eine Waffe mit der Eigenschaft Geschosse nur dann für einen Fernkampf Angriff verwenden, wenn du entsprechende Munition besitzt. Jeder Angriff mit der Waffe verbraucht ein Geschoss. Dieses aus dem Köcher, dem Beutel oder einem anderen Behältnis zu ziehen, ist Teil des Angriffs (du benötigst eine freie Hand, um eine einhändige Waffe zu laden). Am Ende des Kampfes kannst du die Hälfte der verbrauchten Geschosse wieder einsammeln, wenn du für 1 Minute das Schlachtfeld absuchst. Verwendest du eine Waffe mit dieser Eigenschaft für einen Nahkampfangriff, wird sie wie eine improvisierteWaffe behandelt (siehe weiter unten in diesem Abschnitt). Eine Schleuder muss geladen sein, um auf diese Weise Schaden verursachen zu können.
-
-### Munition
-_Quellen: Spielleiterhandbuch (2014) S. 267_
-Die Munition einer Feuerwaffe wird bei Verwendung zerstört. Waffen der Renaissance und moderne Feuerwaffen nutzen Kugeln. Futuristische Feuerwaffen werden von einer speziellen Munition betrieben, sogenannten Energiezellen. Eine Energiezelle enthält genügend Energie für alle Schüsse, die die Feuerwaffe abgeben kann. 
-
 ### Feuerstoß
-_Quellen: Spielleiterhandbuch (2014) S. 267_
-Eine Waffe mit der Feuerstoß-Eigenschaft kann eine einzelne Attacke durchführen oder einen Bereich entsprechend einem Würfel mit 3 Metern Kantenlänge innerhalb der normalen Reichweite mit Schüssen eindecken.Jede Kreatur in diesem Bereich muss einen Geschicklichkeits-Rettungswurf gegen SG 15 bestehen oder den normalen Schaden der Waffe erleiden. Diese Aktion verbraucht 10 Geschosse. 
+*Quellen: Spielleiterhandbuch (2014) S. 267*
 
-As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
+Eine Waffe mit der Feuerstoß-Eigenschaft kann eine einzelne Attacke durchführen oder einen Bereich entsprechend einem Würfel mit 3 Metern Kantenlänge innerhalb der normalen Reichweite mit Schüssen eindecken.Jede Kreatur in diesem Bereich muss einen `Geschicklichkeits-Rettungswurf` gegen `SG 15` bestehen oder den normalen Schaden der Waffe erleiden. Diese Aktion verbraucht 10 Geschosse. 
 
 ### Finesse
-*Quellen: Spielerhandbuch S. 213. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+*Quellen: Spielerhandbuch S. 146. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
+
 Führst du einen Angriff mit einer Waffe aus, die über diese Eigenschaft verfügt, kannst du wählen, ob du deinen Stärke- oder Geschicklichkeitsmodifikator zu den Angriffs- und Schadenswürfen addieren willst. Du musst den gleichen Modifikator für beide Würfe verwenden.
 
+### Geschosse
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
+
+Du kannst eine Waffe mit der Eigenschaft Geschosse nur dann für einen Fernkampf Angriff verwenden, wenn du entsprechende Munition besitzt. Jeder Angriff mit der Waffe verbraucht ein Geschoss. Dieses aus dem Köcher, dem Beutel oder einem anderen Behältnis zu ziehen, ist Teil des Angriffs (du benötigst eine freie Hand, um eine einhändige Waffe zu laden). Am Ende des Kampfes kannst du die Hälfte der verbrauchten Geschosse wieder einsammeln, wenn du für 1 Minute das Schlachtfeld absuchst. Verwendest du eine Waffe mit dieser Eigenschaft für einen Nahkampfangriff, wird sie wie eine improvisierteWaffe behandelt (siehe weiter unten in diesem Abschnitt). Eine Schleuder muss geladen sein, um auf diese Weise Schaden verursachen zu können.
+
+#### Geschosse
+*Quellen: Spielleiterhandbuch (2014) S. 267*
+
+Die Munition einer Feuerwaffe wird bei Verwendung zerstört. Waffen der Renaissance und moderne Feuerwaffen nutzen Kugeln. Futuristische Feuerwaffen werden von einer speziellen Munition betrieben, sogenannten Energiezellen. Eine Energiezelle enthält genügend Energie für alle Schüsse, die die Feuerwaffe abgeben kann. 
+
+### Laden
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+
+Das Laden dieser Waffe benötigt eine gewisse Zeit. Wendest du für einen Angriff eine Aktion, Bonusaktion oder Reaktion auf, kannst du nur ein Geschoss verschießen, unabhängig davon, wie viele Angriffe dir zur Verfügung stehen. 
+
 ### Leicht
-*Quellen: Spielerhandbuch S. 214. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+
 Eine Waffe mit dieser Eigenschaft ist klein und einfach zu handhaben, was sie ideal für den Kampf mit zwei Waffen macht (die entsprechenden Regeln findest du in Kapitel 9 „Kampf").
 
-### Loading
-_Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
-You can fire only one piece of ammunition from a Loading weapon when you use an action, a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), or a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to fire it, regardless of the number of attacks you can normally make.
-
 ### Nachladen
-_Quellen: Spielleiterhandbuch (2014) S. 267_
+*Quellen: Spielleiterhandbuch (2014) S. 267*
+
 Mit einer Waffe mit der Eigenschaft Nachladen kann nur eine begrenzte Anzahl von Schüssen abgegeben werden. Ein Charakter muss dann unter Aufwendung einer Aktion oder Bonusaktion (nach Wahl des Charakters) nachladen. 
 
-You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).
-
 ### Schwer
-*Quellen: Spielerhandbuch S. 214. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
+
 Kleine oder winzige Kreaturen sind bei Angriffswürfen mit schweren Waffen I'm Nachteil. Masse und Sperrigkeit einer schweren Waffe machen sie zu unhandlich, als dass sie von kleinen oder winzigen Kreaturen effektiv eingesetzt werden können.
 
 ### Vielseitig
-*Quellen: Spielerhandbuch S. 214. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+
 Diese Waffe kann mit einer oder mit zwei Händen geführt werden. Der Schadenswert in Klammern gibt den Schaden an, der verursacht wird, wenn die Waffe bei einem Angriff mit zwei Händen geführt wird.
 
 ### Weitreichend
-_Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
-A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack) with it. 
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
+
+Bei weitreichenden Waffen erhöht sich die normale Angriffsreichweite um zusätzliche 1,50 m (das gilt auch für Gelegenheitsangriffe, siehe Kapitel 9 „Kampf").
 
 ### Wurfwaffe
-*Quellen: Spielerhandbuch S. 214. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
-Besitzt eine Waffe die Eigenschaft Wurfwaffe, kannst du mit ihr einen Fernkampf Angriff ausführen. Falls es sich um eine Nahkampfwaffe handelt, verwendest du für den Angriffs- und Schadenswurf den gleichen Attributsmodifikator, den du für einen Nahkampfangriff mit dieser Waffe nutzen würdest. Wirfst du zum Beispiel ein Beil, verwendest du Stärke, wirfst du einen Dolch, kannst du zwischen Stärke und Geschicklichkeit wählen, da der Dolch die Eigenschaft [[#Finesse|Finesse]] besitzt.
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
+
+Besitzt eine Waffe die Eigenschaft Wurfwaffe, kannst du mit ihr einen Fernkampf-Angriff ausführen. Falls es sich um eine Nahkampfwaffe handelt, verwendest du für den Angriffs- und Schadenswurf den gleichen Attributsmodifikator, den du für einen Nahkampfangriff mit dieser Waffe nutzen würdest. Wirfst du zum Beispiel ein Beil, verwendest du Stärke, wirfst du einen Dolch, kannst du zwischen Stärke und Geschicklichkeit wählen, da der Dolch die Eigenschaft [[#Finesse|Finesse]] besitzt.
 
 ### Zweihändig
-*Quellen: Spielerhandbuch S. 214. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
+*Quellen: Spielerhandbuch S. 147. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
+
 Diese Waffe erfordert beide Hände, um mit ihr angreifen zu können. 
 
 ## Improvisierte Waffen

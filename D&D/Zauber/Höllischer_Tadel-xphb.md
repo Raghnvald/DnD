@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+Status: WIP
 linter-yaml-title-alias: Hellish Rebuke
 classes:
   - Paladin (Oathbreaker)

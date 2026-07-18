@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Quests
+Status: WIP
 linter-yaml-title-alias: Sovereign Quests
 tags:
   - Quelle/5e/tce

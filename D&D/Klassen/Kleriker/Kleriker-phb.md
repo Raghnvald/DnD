@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kleriker
+Status: WIP
 linter-yaml-title-alias: Kleriker
 tags:
   - Klasse/Kleriker

@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: "3"
 Habitat:
   - /
-image: token/amrik-vanthampur-bgdia.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amrik Vanthampur
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Amrik Vanthampur
+image: token/amrik-vanthampur-bgdia.webp
+status: WIP
 ---
 # Amrik Vanthampur
 *Source: Baldur's Gate: Descent Into Avernus p. 30*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scrag
+Status: WIP
 linter-yaml-title-alias: Scrag
 tags:
   - Monster/Größe/Groß

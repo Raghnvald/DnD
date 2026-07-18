@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Displacer Beast
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Displacer Beast
 tags:
   - Monster/Größe/Groß

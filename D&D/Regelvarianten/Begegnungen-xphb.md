@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Encounter
+Status: WIP
 linter-yaml-title-alias: Encounter
 tags:
   - Quelle/5e/xphb

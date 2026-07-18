@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spider Climb
+Status: WIP
 linter-yaml-title-alias: Spider Climb
 classes:
   - Artificer

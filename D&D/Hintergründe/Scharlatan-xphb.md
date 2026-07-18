@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Charlatan
+Status: WIP
 linter-yaml-title-alias: Charlatan
 tags:
   - Kompendium/Hintergrund

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rabbithead
+Status: WIP
 linter-yaml-title-alias: Rabbithead
 tags:
   - Monster/Größe/Mittelgroß

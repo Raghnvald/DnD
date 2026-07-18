@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cube [Area of Effect]
+Status: WIP
 linter-yaml-title-alias: Cube [Area of Effect]
 tags:
   - Quelle/5e/xphb

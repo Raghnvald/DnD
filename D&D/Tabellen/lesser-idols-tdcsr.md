@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lesser Idols
+Status: WIP
 linter-yaml-title-alias: Lesser Idols
 tags:
   - Quelle/5e/tdcsr

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Summon Shadowspawn
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Summon Shadowspawn
 classes:
   - Bard

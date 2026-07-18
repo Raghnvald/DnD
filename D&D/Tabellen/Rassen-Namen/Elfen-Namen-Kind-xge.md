@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf Names – Child
+Status: WIP
 linter-yaml-title-alias: Elf Names – Child
 tags:
   - Quelle/5e/xge

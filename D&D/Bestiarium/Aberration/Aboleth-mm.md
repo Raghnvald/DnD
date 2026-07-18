@@ -8,8 +8,7 @@ Größe: Groß
 HG: 10
 Habitat:
   - Unterreich
-image: token/aboleth.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aboleth
 tags:
   - Monster/Größe/Groß
@@ -19,6 +18,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Aboleth
+image: token/aboleth.webp
+status: WIP
 ---
 # [Aboleth](3-Mechanics\CLI\bestiary\aberration/aboleth.md)
 *Source: Monster Manual p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

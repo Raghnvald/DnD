@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thrown Arms Master
+Status: WIP
 linter-yaml-title-alias: Thrown Arms Master
 tags:
   - Kompendium/Talent

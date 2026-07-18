@@ -1,26 +1,34 @@
 ---
 Bezeichnung: Überschutt
-Kategorie: Nahkampf-Kriegswaffe
+Original: Whelm
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1W8 Wucht
+Eigenschaften:
+  - Vielseitig (1W10)
+  - Wurfwaffe
+Kst.: n/v
+Gew.: 1,0 kg
+Status: WIP
 linter-yaml-title-alias: Überschutt
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
   - Überschutt
+status: WIP
 ---
 # Überschutt
-*Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer.md)), legendary (requires attunement by a dwarf)*  
-![](/3-Mechanics/CLI/items/img/whelm.webp#right)
+*Weapon ([warhammer](Kriegshammer-phb)), legendary (requires attunement by a dwarf)*
+<img src="whelm.webp" align="right" width="350">
 
-- **Damage**:
-  - One-handed: 1d8 bludgeoning
-  - Two-handed: 1d10 bludgeoning
-- **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 2.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Wucht
+  - Zweihändig: 1W10 Wucht
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Gewicht**: 1,0 kg
 
 Whelm is a powerful warhammer forged by dwarves and lost in the dungeon of White Plume Mountain.
 

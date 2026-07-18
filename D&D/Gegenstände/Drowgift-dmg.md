@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 200 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Drowgift
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Drowgift
+status: WIP
 ---
 # Drowgift
 *Adventuring gear, poison (injury)*  

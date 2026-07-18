@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Moonblade
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+Status: WIP
 linter-yaml-title-alias: Moonblade
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf

@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Aura der Reinheit
+Original: Aura of Purity
 Zaubergrad: 4
 Zeitaufwand: 1 Aktion
 Reichweite: selbst (Radius von 9,0m)
 Komponenten: V
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: n/v
-Schaden: /
+Schaden: n/v
+Status: completed
 linter-yaml-title-alias: Aura der Reinheit
 classes:
   - Bard (Magical Secrets)
@@ -31,6 +33,6 @@ aliases:
 
 Reinigende Energie strahlt von dir aus und erschafft eine Aura mit 9 m Radius. Bis der Zauber endet, bewegt sich die Aura mit dir als Mittelpunkt fort. Alle nicht feindlichen Kreaturen innerhalb der Aura (inklusive dir selbst) können nicht krank werden, erhalten eine Resistenz gegen Giftschaden und sind im Vorteil bei Rettungswürfen gegen Effekte, die folgende Zustände auslösen: betäubt, bezaubert, blind, gelähmt, taub, verängstigt, und vergiftet.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
 
-*Source: Player's Handbook p. 216*
+*Quelle: Spielerhandbuch S. 216*

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Telekinetic
+Status: WIP
 linter-yaml-title-alias: Spells for Telekinetic
 tags:
-  - Zauber/list/feat/telekinetic
+  - Zauber/Liste/feat/telekinetic
 aliases:
   - Spells for Telekinetic
 ---

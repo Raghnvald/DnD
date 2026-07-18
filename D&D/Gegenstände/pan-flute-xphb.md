@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pan Flute
+Status: WIP
 linter-yaml-title-alias: Pan Flute
 tags:
   - Gegenstand/Ausrüstung/Instrument

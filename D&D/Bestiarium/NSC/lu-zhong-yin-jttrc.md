@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lu Zhong Yin
+Status: WIP
 linter-yaml-title-alias: Lu Zhong Yin
 tags:
   - Monster/Größe/Mittelgroß

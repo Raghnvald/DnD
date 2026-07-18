@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 1/2
 Habitat:
   - /
-image: token/amphisbaena-gos.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amphisbaena
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Amphisbaena
+image: token/amphisbaena-gos.webp
+status: WIP
 ---
 # [Amphisbaena](3-Mechanics\CLI\bestiary\monstrosity/amphisbaena-gos.md)
 *Source: Ghosts of Saltmarsh p. 230*  

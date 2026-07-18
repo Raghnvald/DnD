@@ -6,7 +6,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - "Einfphrung: Gefahr für das Multiversum"
-  - Introduction: Danger to the Multiverse
+  - "Introduction: Danger to the Multiverse"
 ---
 # Einfphrung: Gefahr für das Multiversum
 *Quelle: Vecna: Vorabend der Verdammnis* 

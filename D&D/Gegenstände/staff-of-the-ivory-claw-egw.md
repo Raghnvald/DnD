@@ -1,18 +1,22 @@
 ---
 Bezeichnung: Staff of the Ivory Claw
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung durch einen Zauberwirker
   - Vielseitig (1W8)
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
+Einstimmung: durch einen Zauberwirker
 linter-yaml-title-alias: Staff of the Ivory Claw
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/egw
 aliases:
   - Staff of the Ivory Claw
+status: WIP
+Original: Staff of the Ivory Claw
 ---
 # Staff of the Ivory Claw
 *Staff, weapon, rare (requires attunement by a spellcaster)*  

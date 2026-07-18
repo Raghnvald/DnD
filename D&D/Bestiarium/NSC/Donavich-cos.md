@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Donavich
+Status: WIP
 linter-yaml-title-alias: Donavich
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Decks
+Status: WIP
 linter-yaml-title-alias: Index of Decks
 aliases:
   - Index of Decks

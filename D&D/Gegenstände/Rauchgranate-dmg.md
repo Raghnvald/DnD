@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rauchgranate
-Kategorie: Explosives
+Kategorie: Sprengstoff
+Status: WIP
 linter-yaml-title-alias: Rauchgranate
 tags:
   - Gegenstand/Seltenheit/keine
@@ -9,6 +10,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rauchgranate
+status: WIP
+Original: Smoke Grenade
 ---
 # Rauchgranate
 *Explosive*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir Operative
+Status: WIP
 linter-yaml-title-alias: Dimir Operative
 tags:
   - Kompendium/Hintergrund

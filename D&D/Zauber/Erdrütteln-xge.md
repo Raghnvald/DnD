@@ -7,7 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 1d6 Wucht
-status: 
+Status: WIP
 linter-yaml-title-alias: Erdrütteln
 classes:
   - Bard
@@ -25,7 +25,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xge
   - Subklasse/evoker
   - Subklasse/Mystischer-Ritter
@@ -33,6 +33,7 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Erdrütteln
+status: 
 ---
 # Erdrütteln
 *Hervorrufung des 1. Grades*

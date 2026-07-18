@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Ice Fisher
+Status: WIP
 linter-yaml-title-alias: Ice Fisher
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Ice Fisher"
+  - Ice Fisher
   - Ice Fisher
 ---
 # Ice Fisher

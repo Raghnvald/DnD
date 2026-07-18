@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skull Lord
+Status: WIP
 linter-yaml-title-alias: Skull Lord
 tags:
   - Monster/Größe/Mittelgroß

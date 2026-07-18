@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crystal Dragon Treasures; Crystal Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Crystal Dragon Treasures; Crystal Dragon Art Objects
 tags:
   - Quelle/5e/ftd

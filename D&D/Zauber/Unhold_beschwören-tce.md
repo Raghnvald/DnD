@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Summon Fiend
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Summon Fiend
 classes:
   - Bard

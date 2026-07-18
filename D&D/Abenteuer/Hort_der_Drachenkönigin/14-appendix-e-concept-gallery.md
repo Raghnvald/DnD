@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix E: Concept Gallery"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: Concept Gallery"
 tags:
   - Quelle/5e/hotdq

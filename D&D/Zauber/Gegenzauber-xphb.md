@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Counterspell
+Status: WIP
 linter-yaml-title-alias: Counterspell
 classes:
   - Bard

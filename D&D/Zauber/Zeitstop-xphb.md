@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Time Stop
+Status: WIP
 linter-yaml-title-alias: Time Stop
 classes:
   - Bard

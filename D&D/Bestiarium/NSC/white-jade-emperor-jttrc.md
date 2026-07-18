@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: White Jade Emperor
+Status: WIP
 linter-yaml-title-alias: White Jade Emperor
 tags:
   - Monster/Größe/Mittelgroß

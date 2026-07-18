@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Fragment of Abhorrence
+Status: WIP
 linter-yaml-title-alias: Fragment of Abhorrence
 tags:
   - Kompendium/Belohnung/fragment-of-suffering
   - Quelle/5e/crcotn
 aliases:
-  - "Fragment of Abhorrence"
+  - Fragment of Abhorrence
   - Fragment of Abhorrence
 ---
 # Fragment of Abhorrence

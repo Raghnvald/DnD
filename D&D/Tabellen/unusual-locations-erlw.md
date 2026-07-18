@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unusual Locations
+Status: WIP
 linter-yaml-title-alias: Unusual Locations
 tags:
   - Quelle/5e/erlw

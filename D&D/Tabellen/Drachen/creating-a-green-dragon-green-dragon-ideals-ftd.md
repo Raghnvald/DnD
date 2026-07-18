@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Green Dragon; Green Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a Green Dragon; Green Dragon Ideals
 tags:
   - Quelle/5e/ftd

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Detection
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Detection
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Detection"
+  - Greater Mark of Detection
   - Greater Mark of Detection
 ---
 # Greater Mark of Detection

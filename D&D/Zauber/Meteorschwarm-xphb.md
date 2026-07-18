@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Meteor Swarm
+Status: WIP
 linter-yaml-title-alias: Meteor Swarm
 classes:
   - Bard

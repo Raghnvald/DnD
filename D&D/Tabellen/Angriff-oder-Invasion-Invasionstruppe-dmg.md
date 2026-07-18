@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Angriff oder Invasion; Invasionstruppe
+Status: WIP
 linter-yaml-title-alias: Angriff oder Invasion; Invasionstruppe
 tags:
   - Quelle/5e/dmg

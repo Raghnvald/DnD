@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: The Infinite Staircase"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: The Infinite Staircase"
 tags:
   - Quelle/5e/qftis

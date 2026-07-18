@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Kapitel 8: Bastionen"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 8: Bastionen"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Chapter 8: Bastions"
   - "Kapitel 8: Bastionen"
-  - Chapter 8: Bastions
 ---
 # Kapitel 8: Bastionen
 *Quelle: Spielleiterhandbuch (2024), S. 333* 

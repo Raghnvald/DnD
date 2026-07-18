@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gegenstände nach Seltenheitsgrad
+Status: WIP
 linter-yaml-title-alias: Gegenstände nach Seltenheitsgrad
 classes:
   - html table zebra stripes.css
@@ -68,9 +69,8 @@ aliases:
 <tr><td><a href='Leier-phb.md' class='internal-link'>Leier</a></td><td align="right">30 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Leiter-3-Meter-phb.md' class='internal-link'>Leiter (3 Meter)</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Liedhorn-scag.md' class='internal-link'>Liedhorn</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Mehl-phb.md' class='internal-link'>Mehl</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Metallkügelchen-phb.md' class='internal-link'>Metallkügelchen</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Metallkügelchen-Beutel-mit-1000-phb.md' class='internal-link'>Metallkügelchen-Beutel-mit-1000</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Metallkügelchen-Beutel-mit-1000-phb.md' class='internal-link'>Metallkügelchen (Beutel mit 1.000 Stück)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Öl-Flasche-phb.md' class='internal-link'>Öl (Flasche)</a></td><td align="right">1 SM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Papier-ein-Blatt-phb.md' class='internal-link'>Papier (ein Blatt)</a></td><td align="right">2 SM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Parfüm-Phiole-phb.md' class='internal-link'>Parfüm (Phiole)</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
@@ -250,6 +250,7 @@ aliases:
 <tr><td><a href='Kuh-phb.md' class='internal-link'>Kuh</a></td><td align="right">10 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Kupfer-phb.md' class='internal-link'>Kupfer</a></td><td align="right">5 SM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Leinen-1-m2-phb.md' class='internal-link'>Leinen (1m²)</a></td><td align="right">5 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Mehl-phb.md' class='internal-link'>Mehl</a></td><td align="right">2 KM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Ochse-phb.md' class='internal-link'>Ochse</a></td><td align="right">15 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Pfeffer-phb.md' class='internal-link'>Pfeffer</a></td><td align="right">2 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Platin-phb.md' class='internal-link'>Platin</a></td><td align="right">500 GM</td><td>nein</td><td></td></tr>
@@ -294,7 +295,7 @@ aliases:
 </thead><tbody>
 <tr><td><a href='Antimaterie-Gewehr-dmg.md' class='internal-link'>Antimaterie-Gewehr</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Armbrust-Hand-phb.md' class='internal-link'>Armbrust (Hand-)</a></td><td align="right">75 GM</td><td>nein</td><td></td></tr>
-<tr><td><a href='Armbrust-Leicht-phb.md' class='internal-link'>Armbrust (Leicht</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
+<tr><td><a href='Armbrust-Leicht-phb.md' class='internal-link'>Armbrust (leicht)</a></td><td align="right">25 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Armbrust-Schwer-phb.md' class='internal-link'>Armbrust (schwer)</a></td><td align="right">50 GM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Armbrustbolzen-phb.md' class='internal-link'>Armbrustbolzen</a></td><td align="right">5 KM</td><td>nein</td><td></td></tr>
 <tr><td><a href='Armbrustbolzen-20-phb.md' class='internal-link'>Armbrustbolzen (20)</a></td><td align="right">1 GM</td><td>nein</td><td></td></tr>
@@ -644,7 +645,6 @@ aliases:
 <tr><td><a href='Pfeil-fangender_Schild-dmg.md' class='internal-link'>Pfeil-fangender Schild</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 <tr><td><a href='Rüstung_des_Widerstands-dmg.md' class='internal-link'>Rüstung des Widerstands</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 <tr><td><a href='Rüstung-1-dmg.md' class='internal-link'>Rüstung +1</a></td><td align="right">/</td><td>nein</td><td></td></tr>
-<tr><td><a href='Skorpionrüstung-toa.md' class='internal-link'>Skorpionrüstung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 <tr><td><a href='Verzaubertes_beschlagenes_Leder-dmg.md' class='internal-link'>Verzaubertes beschlagenes Leder</a></td><td align="right">/</td><td>nein</td><td></td></tr>
 <tr><td><a href='Zephyr-Rüstung-bgg.md' class='internal-link'>Zephyr-Rüstung</a></td><td align="right">/</td><td>ja</td><td></td></tr>
 </tbody>
@@ -808,72 +808,97 @@ aliases:
 
 ## Sehr selten
 
-Amulett_der_Ebenen-dmg
-Amulett_der_Hingabe-3-tce
-Amulett_des_Schwarzen_Schädels-toa
-Heiligtum-Amulett-bgg
-
-Armband_der_Felsmagie-tftyp
-
-Helm_der_Pracht-dmg
-maddgoths-helm-wdmm
-Nimbusdiadem-bgg
-
-Drachenledergürtel-3-ftd
-
-horned-ring-wdmm
-Ring_der_Freundschaft-bgg
-Ring_der_Regeneration-dmg
-Ring_der_Sternschnuppen-dmg
-Ring_der_Telekinese-dmg
-
-Dämonenrüstung-dmg
-Drachenschuppen-Panzer-dmg
-Fürstengewand-wdh
-Rüstung_des_Bewahrens-bgg
-Rüstung-2-dmg
-Saphirbeschützer-ftd
-Schild-3-dmg
-Zwergische_Ritterrüstung-dmg
-
-Trank_der_Gedankenkontrolle-Monster-tftyp
-Trank_der_Geschwindigkeit-dmg
-Trank_der_Höchsten_Heilung-dmg
-Trank_der_Langlebigkeit-dmg
-Trank_der_Riesenstärke-Wolkenriese-dmg
-Trank_der_Unsichtbarkeit-dmg
-Trank_der_Vitalität-dmg
-Trank_des_Fliegens-dmg
-
-Umhang_der_Spinnentiere-dmg
-
-Armbrustbolzen_des_Tötens-dmg
-Belebter_Schild-dmg
-Blutvergiesserklinge-bgg
-Dieb_der_neun_Leben-dmg
-Donnerbüchse-bgg
-Drachenzorn-Waffe-Erweckt-ftd
-Elfischer_Wurfspeer-bgg
-Geschosse-3-dmg
-Krummsäbel_der_Geschwindigkeit-dmg
-Mondsichel-3-tce
-Pfeil_des_Tötens-dmg
-Schwert_der_Schärfe-dmg
-Schwurbogen-dmg
-Speer_der_Heimtücke-tftyp
-Stab_der_Macht-dmg
-staff-of-fate-cm
-Strahlender_Zerstörer-bgg
-Tanzendes_Schwert-dmg
-Waffe-3-dmg
-Wurfspeer_der_Heimtücke-tftyp
-Zauberabwehrschild-dmg
-Zauberstecken_des_Blitzes_und_Donners-dmg
-Zauberstecken_des_Feuers-dmg
-Zauberstecken_des_Frosts-dmg
-Zauberstecken_des_Schlagens-dmg
-Zepter_des_Paktbewahrers-3-dmg
-Zwergischer_Wurfhammer-dmg
+<table class="Item-Rarity">
+<thead>
+<tr class="class-progression"><th class"name">Bezeichnung</th><th class"cost">Kosten</th><th class"attunemenr">Einstimmung</th><th class="value"></th></tr>
+</thead><tbody>
+<thead>
+<tr><th colspan='4'>Hals</th></tr>
+</thead><tbody>
+<tr><td><a href='Amulett_der_Ebenen-dmg.md' class='internal-link'>Amulett der Ebenen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Amulett_der_Hingabe-3-tce.md' class='internal-link'>Amulett der Hingabe +3</a></td><td align="right">/</td><td>ja</td><td>Kleriker, Paladin</td></tr>
+<tr><td><a href='Amulett_des_Schwarzen_Schädels-toa.md' class='internal-link'>Amulett des Schwarzen Schädels</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Heiligtum-Amulett-bgg.md' class='internal-link'>Heiligtum-Amulett </a></td><td align="right">/</td><td>ja</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Helm</th></tr>
+</thead><tbody>
+<tr><td><a href='Helm_der_Pracht-dmg.md' class='internal-link'>Helm der Pracht</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='maddgoths-helm-wdmm.md' class='internal-link'>maddgoths-helm</a></td><td align="right">/</td><td>ja</td><td>Humanoid</td></tr>
+<tr><td><a href='Nimbusdiadem-bgg.md' class='internal-link'>Nimbusdiadem</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Hüfte</th></tr>
+</thead><tbody>
+<tr><td><a href='Drachenledergürtel-3-ftd.md' class='internal-link'>Drachenledergürtel +3</a></td><td align="right">/</td><td>ja</td><td>Mönch</td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Ringe</th></tr>
+</thead><tbody>
+<tr><td><a href='horned-ring-wdmm.md' class='internal-link'>horned-ring</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Ring_der_Freundschaft-bgg.md' class='internal-link'>Ring_der_Freundschaft</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Ring_der_Regeneration-dmg.md' class='internal-link'>Ring_der_Regeneration</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Ring_der_Sternschnuppen-dmg.md' class='internal-link'>Ring_der_Sternschnuppen</a></td><td align="right">/</td><td>ja</td><td>nachts im Freien</td></tr>
+<tr><td><a href='Ring_der_Telekinese-dmg.md' class='internal-link'>Ring_der_Telekinese</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Rüstungen</th></tr>
+</thead><tbody>
+<tr><td><a href='Drachenschuppen-Panzer-dmg.md' class='internal-link'>Drachenschuppen-Panzer</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Fürstengewand-wdh.md' class='internal-link'>Fürstengewand</a></td><td align="right">/</td><td>ja</td><td>Humanoide Statur</td></tr>
+<tr><td><a href='Rüstung-2-dmg.md' class='internal-link'>Rüstung-2-dmg</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Rüstung_des_Bewahrens-bgg.md' class='internal-link'>Rüstung_des_Bewahrens-bgg</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Saphirbeschützer-ftd.md' class='internal-link'>Saphirbeschützer</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schild-3-dmg.md' class='internal-link'>Schild +3</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Zwergische_Ritterrüstung-dmg.md' class='internal-link'>Zwergische_Ritterrüstung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Tränke</th></tr>
+</thead><tbody>
+<tr><td><a href='Trank_des_Fliegens-dmg.md' class='internal-link'>Trank_des_Fliegens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Gedankenkontrolle-Monster-tftyp.md' class='internal-link'>Trank_der_Gedankenkontrolle-Monster</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Geschwindigkeit-dmg.md' class='internal-link'>Trank_der_Geschwindigkeit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Höchsten_Heilung-dmg.md' class='internal-link'>Trank_der_Höchsten_Heilung</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Langlebigkeit-dmg.md' class='internal-link'>Trank_der_Langlebigkeit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Riesenstärke-Wolkenriese-dmg.md' class='internal-link'>Trank_der_Riesenstärke-Wolkenriese</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Unsichtbarkeit-dmg.md' class='internal-link'>Trank_der_Unsichtbarkeit</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Trank_der_Vitalität-dmg.md' class='internal-link'>Trank_der_Vitalität-dmg</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Umhang</th></tr>
+</thead><tbody>
+<tr><td><a href='Umhang_der_Spinnentiere-dmg.md' class='internal-link'>Umhang_der_Spinnentiere</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+</tbody>
+<thead>
+<tr><th colspan='4'>Waffen</th></tr>
+</thead><tbody>
+<tr><td><a href='Armbrustbolzen_des_Tötens-dmg.md' class='internal-link'>Armbrustbolzen_des_Tötens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Belebter_Schild-dmg.md' class='internal-link'>Belebter_Schild-dmg</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Blutvergiesserklinge-bgg.md' class='internal-link'>Blutvergiesserklinge</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Dieb_der_neun_Leben-dmg.md' class='internal-link'>Dieb_der_neun_Leben</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Donnerbüchse-bgg.md' class='internal-link'>Donnerbüchse</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Drachenzorn-Waffe-Erweckt-ftd.md' class='internal-link'>Drachenzorn-Waffe-Erweckt</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Elfischer_Wurfspeer-bgg.md' class='internal-link'>Elfischer_Wurfspeer-bgg</a></td><td align="right">/</td><td>ja</td><td>Elf</td></tr>
+<tr><td><a href='Geschosse-3-dmg.md' class='internal-link'>Geschosse +3</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Krummsäbel_der_Geschwindigkeit-dmg.md' class='internal-link'>Krummsäbel_der_Geschwindigkeit</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Mondsichel-3-tce.md' class='internal-link'>Mondsichel +3</a></td><td align="right">/</td><td>ja</td><td>Druide, Waldläufer</td></tr>
+<tr><td><a href='Pfeil_des_Tötens-dmg.md' class='internal-link'>Pfeil_des_Tötens</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Schwert_der_Schärfe-dmg.md' class='internal-link'>Schwert_der_Schärfe</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Schwurbogen-dmg.md' class='internal-link'>Schwurbogen</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Speer_der_Heimtücke-tftyp.md' class='internal-link'>Speer_der_Heimtücke</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Stab_der_Macht-dmg.md' class='internal-link'>Stab_der_Macht-dmg</a></td><td align="right">/</td><td>ja</td><td>Hexenmeister, Magier, Zauberer</td></tr>
+<tr><td><a href='Strahlender_Zerstörer-bgg.md' class='internal-link'>Strahlender_Zerstörer</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Tanzendes_Schwert-dmg.md' class='internal-link'>Tanzendes_Schwert</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Waffe-3-dmg.md' class='internal-link'>Waffe +3</a></td><td align="right">/</td><td>nein</td><td></td></tr>
+<tr><td><a href='Wurfspeer_der_Heimtücke-tftyp.md' class='internal-link'>Wurfspeer_der_Heimtücke</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberabwehrschild-dmg.md' class='internal-link'>Zauberabwehrschild</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zauberstecken_des_Blitzes_und_Donners-dmg.md' class='internal-link'>Zauberstecken_des_Blitzes_und_Donners</a></td><td align="right">/</td><td>ja</td><td>Hexenmeister, Magier, Zauberer</td></tr>
+<tr><td><a href='Zauberstecken_des_Feuers-dmg.md' class='internal-link'>Zauberstecken_des_Feuers</a></td><td align="right">/</td><td>ja</td><td>Hexenmeister, Magier, Zauberer</td></tr>
+<tr><td><a href='Zauberstecken_des_Frosts-dmg.md' class='internal-link'>Zauberstecken_des_Frosts</a></td><td align="right">/</td><td>ja</td><td>Hexenmeister, Magier, Zauberer</td></tr>
+<tr><td><a href='Zauberstecken_des_Schlagens-dmg.md' class='internal-link'>Zauberstecken_des_Schlagens</a></td><td align="right">/</td><td>ja</td><td></td></tr>
+<tr><td><a href='Zepter_des_Paktbewahrers-3-dmg.md' class='internal-link'>Zepter_des_Paktbewahrers +3</a></td><td align="right">/</td><td>ja</td><td>Hexenmeister</td></tr>
+<tr><td><a href='Zwergischer_Wurfhammer-dmg.md' class='internal-link'>Zwergischer_Wurfhammer</a></td><td align="right">/</td><td>ja</td><td>Zwerg</td></tr>
+</tbody>
 
 [[Allzweckwerkzeug-3-tce]]
 Amethyst-Magnetstein-ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet Items
+Status: WIP
 linter-yaml-title-alias: Izzet Items
 tags:
   - Quelle/5e/ggr

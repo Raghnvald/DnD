@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Vecna
+Status: WIP
 linter-yaml-title-alias: Vecna
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Vecna

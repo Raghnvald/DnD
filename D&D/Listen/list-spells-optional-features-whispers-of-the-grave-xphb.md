@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Whispers of the Grave
+Status: WIP
 linter-yaml-title-alias: Spells for Whispers of the Grave
 tags:
-  - Zauber/list/optfeature/whispers-of-the-grave
+  - Zauber/Liste/optfeature/whispers-of-the-grave
 aliases:
   - Spells for Whispers of the Grave
 ---

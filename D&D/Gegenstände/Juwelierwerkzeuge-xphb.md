@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Jeweler's Tools"
+Status: WIP
 linter-yaml-title-alias: "Jeweler's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

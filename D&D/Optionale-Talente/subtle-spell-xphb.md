@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Subtle Spell
+Status: WIP
 linter-yaml-title-alias: Subtle Spell
 tags:
   - Kompendium/Optionales/mm

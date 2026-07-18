@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rockslide
+Status: WIP
 linter-yaml-title-alias: Rockslide
 tags:
   - Quelle/5e/xdmg

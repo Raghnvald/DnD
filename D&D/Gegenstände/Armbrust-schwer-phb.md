@@ -1,22 +1,32 @@
 ---
-Bezeichnung: Heavy Crossbow
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Heavy Crossbow
+Bezeichnung: Schwere Armbrust
+Original: Heavy Crossbow
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 1d10 Stich
+Eigenschaften:
+  - Geschosse
+  - Laden
+  - Schwer
+  - Zweihändig
+Kst.: 50 GM
+Gew.: 9,0 kg
+Status: completed
+linter-yaml-title-alias: Schwere Armbrust
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/phb
 aliases:
-  - Heavy Crossbow
+  - Schwere Armbrust
 ---
-# Heavy Crossbow
-*Weapon*  
+# Schwere Armbrust
+*Fernkampf-Kriegswaffe*  
 
-- **Damage**: 1d10 piercing
-- **Range**: 100/400
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Cost**: 50 gp
-- **Weight**: 18.0 lbs.
+- **Schaden**: 1d10 Stich
+- **Reichweite**: 30/120
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Laden|Laden]], [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Kosten**: 50 GM
+- **Gewicht**: 9,0 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

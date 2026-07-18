@@ -7,7 +7,7 @@ Größe: Groß
 HG: 8
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Augendrache
 tags:
   - Monster/Größe/Groß
@@ -17,6 +17,7 @@ tags:
 aliases:
   - Augendrache
   - Eyedrake
+status: WIP
 ---
 # Augendrache
 *Source: Fizban's Treasury of Dragons p. 199*  

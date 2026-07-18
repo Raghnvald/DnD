@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Soldier
+Status: WIP
 linter-yaml-title-alias: Soldier
 tags:
   - Kompendium/Hintergrund

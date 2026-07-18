@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Tasha's Bubbling Cauldron"
+Status: WIP
 linter-yaml-title-alias: "Tasha's Bubbling Cauldron"
 classes:
   - Bard

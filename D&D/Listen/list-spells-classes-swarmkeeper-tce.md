@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Swarmkeeper
+Status: WIP
 linter-yaml-title-alias: Spells for Swarmkeeper
 tags:
-  - Zauber/list/subclass/swarmkeeper
+  - Zauber/Liste/subclass/swarmkeeper
 aliases:
   - Spells for Swarmkeeper
 ---

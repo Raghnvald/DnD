@@ -1,22 +1,30 @@
 ---
-Bezeichnung: Blowgun
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Blowgun
+Bezeichnung: Blasrohr
+Original: Blowgun
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 1 Stich
+Eigenschaften:
+  - Geschosse
+  - Laden
+Kst.: 10 GM
+Gew.: 0,5 kg
+Status: completed
+linter-yaml-title-alias: Blasrohr
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/phb
 aliases:
-  - Blowgun
+  - Blasrohr
 ---
-# Blowgun
-*Weapon*  
+# Blasrohr
+*Fernkampf-Kriegswaffe*  
 
-- **Damage**: 1 piercing
-- **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
-- **Cost**: 10 gp
-- **Weight**: 1.0 lbs.
+- **Schaden**: 1 Stich
+- **Reichweite**: 7,5/30
+- **Properties**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Laden|Laden]]
+- **Kosten**: 10 GM
+- **Gewicht**: 0,5 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

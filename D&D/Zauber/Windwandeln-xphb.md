@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wind Walk
+Status: WIP
 linter-yaml-title-alias: Wind Walk
 classes:
   - Bard

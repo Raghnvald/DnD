@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dust of Sneezing and Choking
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Dust of Sneezing and Choking
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

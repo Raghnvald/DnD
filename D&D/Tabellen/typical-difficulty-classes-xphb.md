@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Typical Difficulty Classes
+Status: WIP
 linter-yaml-title-alias: Typical Difficulty Classes
 tags:
   - Quelle/5e/xphb

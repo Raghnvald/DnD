@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duke Thalamra Vanthampur
+Status: WIP
 linter-yaml-title-alias: Duke Thalamra Vanthampur
 tags:
   - Monster/Größe/Mittelgroß

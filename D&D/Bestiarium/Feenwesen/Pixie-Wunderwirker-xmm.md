@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pixie Wonderbringer
+Status: WIP
 linter-yaml-title-alias: Pixie Wonderbringer
 tags:
   - Monster/Größe/Winzig

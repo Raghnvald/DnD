@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Master of Myriad Forms
+Status: WIP
 linter-yaml-title-alias: Spells for Master of Myriad Forms
 tags:
-  - Zauber/list/optfeature/master-of-myriad-forms
+  - Zauber/Liste/optfeature/master-of-myriad-forms
 aliases:
   - Spells for Master of Myriad Forms
 ---

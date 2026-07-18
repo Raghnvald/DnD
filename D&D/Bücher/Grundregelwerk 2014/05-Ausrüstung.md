@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 05-Ausrüstung
+Status: WIP
 tags: []
 ---
 # 05-Ausrüstung

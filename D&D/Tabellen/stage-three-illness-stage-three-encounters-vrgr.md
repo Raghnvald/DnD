@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Stage Three: Illness; Stage Three Encounters"
+Status: WIP
 linter-yaml-title-alias: "Stage Three: Illness; Stage Three Encounters"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "Stage Three: Illness; Stage Three Encounters"
-  - Stage Three: Illness; Stage Three Encounters
 ---
 # Stage Three: Illness; Stage Three Encounters
 *Source: Van Richten's Guide to Ravenloft p. 155* 

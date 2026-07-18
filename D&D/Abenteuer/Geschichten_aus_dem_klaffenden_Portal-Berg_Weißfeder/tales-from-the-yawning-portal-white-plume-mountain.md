@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Tales From the Yawning Portal White Plume Mountain
+Status: WIP
 linter-yaml-title-alias: Index of Tales From the Yawning Portal White Plume Mountain
 aliases:
   - Index of Tales From the Yawning Portal White Plume Mountain

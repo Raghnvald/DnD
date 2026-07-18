@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demiplane
+Status: WIP
 linter-yaml-title-alias: Demiplane
 classes:
   - Bard

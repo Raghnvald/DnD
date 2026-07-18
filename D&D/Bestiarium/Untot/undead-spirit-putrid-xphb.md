@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Spirit (Putrid)
+Status: WIP
 linter-yaml-title-alias: Undead Spirit (Putrid)
 tags:
   - Monster/Größe/Mittelgroß

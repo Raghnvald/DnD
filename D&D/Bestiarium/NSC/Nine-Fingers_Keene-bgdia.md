@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nine-Fingers Keene
+Status: WIP
 linter-yaml-title-alias: Nine-Fingers Keene
 tags:
   - Monster/Größe/Mittelgroß

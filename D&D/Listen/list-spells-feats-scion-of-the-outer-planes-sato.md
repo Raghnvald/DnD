@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Scion of the Outer Planes
+Status: WIP
 linter-yaml-title-alias: Spells for Scion of the Outer Planes
 tags:
-  - ttrpg-cli/spell/list/feat/scion-of-the-outer-planes
+  - Zauber/Liste/feat/scion-of-the-outer-planes
 aliases:
-  - "Spells for Scion of the Outer Planes"
+  - Spells for Scion of the Outer Planes
   - Spells for Scion of the Outer Planes
 ---
 # Spells for Scion of the Outer Planes

@@ -5,7 +5,7 @@ Bezeichnung: Star Spawn Grue
 Kategorie: Aberration
 Größe: Klein
 HG: 1/4
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Star Spawn Grue
 tags:
   - Monster/Größe/Klein
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Star Spawn Grue
+status: WIP
 ---
 # [Star Spawn Grue](3-Mechanics\CLI\bestiary\aberration/star-spawn-grue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Kiri-Jolith
+Status: WIP
 linter-yaml-title-alias: Kiri-Jolith
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

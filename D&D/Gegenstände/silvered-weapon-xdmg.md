@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silvered Weapon
+Status: WIP
 linter-yaml-title-alias: Silvered Weapon
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

@@ -1,21 +1,23 @@
 ---
-Bezeichnung: Skysail
-Kategorie: Einfache Nahkampfwaffe
+Bezeichnung: Himmelssegel
+Original: Skysail
+Kategorie: Nahkampfwaffe, einfach
 Eigenschaften:
   - Vielseitig (1W8)
-Kst.: /
+Kst.: n/v
 Gew.: 2,0 kg
-linter-yaml-title-alias: Skysail
+Status: WIP
+linter-yaml-title-alias: Himmelssegel
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Skysail
+  - Himmelssegel
 ---
-# Skysail
+# Himmelssegel
 *Wondrous item, weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), rare (requires attunement)*  
 ![An Ashari woman with long ...](/3-Mechanics/CLI/items/img/skysail.webp#right "An Ashari woman with long orange hair flies on her white-winged skysail through a rocky canyon. She wears green clothing.")
 

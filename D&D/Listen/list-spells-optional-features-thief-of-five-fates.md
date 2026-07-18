@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Thief of Five Fates
+Status: WIP
 linter-yaml-title-alias: Spells for Thief of Five Fates
 tags:
-  - Zauber/list/optfeature/thief-of-five-fates
+  - Zauber/Liste/optfeature/thief-of-five-fates
 aliases:
   - Spells for Thief of Five Fates
 ---

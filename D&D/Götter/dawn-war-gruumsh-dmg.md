@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Gruumsh
+Status: WIP
 linter-yaml-title-alias: Gruumsh
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Krieg
   - Quelle/5e/dmg
 aliases:
   - Gruumsh

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Asmodeus)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Asmodeus)
 tags:
-  - Zauber/list/subrace/tiefling-asmodeus
+  - Zauber/Liste/subrace/tiefling-asmodeus
 aliases:
   - Spells for Tiefling (Asmodeus)
 ---

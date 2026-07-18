@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thorvin Twinbeard
+Status: WIP
 linter-yaml-title-alias: Thorvin Twinbeard
 tags:
   - Monster/Größe/Mittelgroß

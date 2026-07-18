@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf Tables; Drow Adventurer Story Hooks
+Status: WIP
 linter-yaml-title-alias: Elf Tables; Drow Adventurer Story Hooks
 tags:
   - Quelle/5e/mtf

@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Archon of the Triumvirate
 Kategorie: Celestisch
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Archon of the Triumvirate
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Archon of the Triumvirate
+status: WIP
 ---
 # [Archon of the Triumvirate](3-Mechanics\CLI\bestiary\celestial/archon-of-the-triumvirate-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 192*  

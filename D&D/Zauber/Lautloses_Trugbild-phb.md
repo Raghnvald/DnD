@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Silent Image
+Bezeichnung: Lautloses Trugbild
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff:
 Schaden:
-linter-yaml-title-alias: Silent Image
+Status: WIP
+linter-yaml-title-alias: Lautloses Trugbild
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,16 +20,16 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/optfeature/misty-visions
   - Zauber/Schule/Illusion
 aliases:
-  - Silent Image
+  - Lautloses Trugbild
 ---
-# Silent Image
+# Lautloses Trugbild
 *1st-level, Illusion*  
 
 - **Casting time:** 1 Action

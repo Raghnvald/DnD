@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Detect Evil and Good
+Status: WIP
 linter-yaml-title-alias: Detect Evil and Good
 tags:
   - Klasse/Kleriker

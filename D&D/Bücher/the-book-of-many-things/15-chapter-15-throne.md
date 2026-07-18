@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 15: Throne"
+Status: WIP
 linter-yaml-title-alias: "Chapter 15: Throne"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 15: Throne"
-  - Chapter 15: Throne
 ---
 # Chapter 15: Throne
 *Source: The Book of Many Things, p. 114* 

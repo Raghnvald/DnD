@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Vampire Spawn
+Status: WIP
 linter-yaml-title-alias: Kobold Vampire Spawn
 tags:
   - Monster/Größe/Klein

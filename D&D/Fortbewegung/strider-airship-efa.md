@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Strider Airship
+Status: WIP
 linter-yaml-title-alias: Strider Airship
 tags:
   - Quelle/5e/efa
-  - ttrpg-cli/vehicle/terrain/air
-  - ttrpg-cli/vehicle/type/elemental-airship
+  - Gegenstand/Fortbewegung/Gelände/Luft
+  - Gegenstand/Fortbewegung/Kategorie/Elementar-Luftschiff
 aliases:
-  - "Strider Airship"
+  - Strider Airship
   - Strider Airship
 ---
 # Strider Airship

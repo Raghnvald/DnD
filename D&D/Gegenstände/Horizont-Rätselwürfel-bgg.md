@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horizon Puzzle Cube
+Status: WIP
 linter-yaml-title-alias: Horizon Puzzle Cube
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

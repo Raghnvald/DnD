@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hail of Thorns
+Status: WIP
 linter-yaml-title-alias: Hail of Thorns
 classes:
   - Ranger

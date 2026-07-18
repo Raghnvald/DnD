@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blessed Warrior
+Status: WIP
 linter-yaml-title-alias: Blessed Warrior
 tags:
   - Kompendium/Talent

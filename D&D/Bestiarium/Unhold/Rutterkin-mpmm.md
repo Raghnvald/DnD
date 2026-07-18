@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rutterkin
+Status: WIP
 linter-yaml-title-alias: Rutterkin
 tags:
   - Monster/Größe/Mittelgroß

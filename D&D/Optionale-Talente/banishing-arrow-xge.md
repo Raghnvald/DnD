@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Banishing Arrow
+Status: WIP
 linter-yaml-title-alias: Banishing Arrow
 tags:
   - Kompendium/Optionales/as

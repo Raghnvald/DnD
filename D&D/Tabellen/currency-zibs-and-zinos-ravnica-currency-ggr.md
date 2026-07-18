@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Currency: Zibs and Zinos; Ravnica Currency"
+Status: WIP
 linter-yaml-title-alias: "Currency: Zibs and Zinos; Ravnica Currency"
 tags:
   - Quelle/5e/ggr
 aliases:
   - "Currency: Zibs and Zinos; Ravnica Currency"
-  - Currency: Zibs and Zinos; Ravnica Currency
 ---
 # Currency: Zibs and Zinos; Ravnica Currency
 *Source: Guildmasters' Guide to Ravnica p. 9* 

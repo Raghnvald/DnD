@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Rat (Diseased)
+Status: WIP
 linter-yaml-title-alias: Giant Rat (Diseased)
 tags:
   - Monster/Größe/Klein

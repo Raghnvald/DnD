@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swim Speed
+Status: WIP
 linter-yaml-title-alias: Swim Speed
 tags:
   - Quelle/5e/xphb

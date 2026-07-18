@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shunn Shurreth
+Status: WIP
 linter-yaml-title-alias: Shunn Shurreth
 tags:
   - Monster/Größe/Mittelgroß

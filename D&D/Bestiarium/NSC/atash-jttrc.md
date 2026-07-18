@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Atash
 Kategorie: Celestisch
 Größe: Groß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Atash
 tags:
   - Monster/Größe/Groß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Atash
+status: WIP
 ---
 # [Atash](3-Mechanics\CLI\bestiary\npc/atash-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 166*  

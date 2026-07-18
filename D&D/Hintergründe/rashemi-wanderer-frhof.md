@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Rashemi Wanderer
+Status: WIP
 linter-yaml-title-alias: Rashemi Wanderer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Rashemi Wanderer"
+  - Rashemi Wanderer
   - Rashemi Wanderer
 ---
 # Rashemi Wanderer

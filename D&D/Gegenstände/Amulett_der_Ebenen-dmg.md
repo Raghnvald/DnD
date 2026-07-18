@@ -2,7 +2,8 @@
 Bezeichnung: Amulett der Ebenen
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 0,5 kg
 Status: completed

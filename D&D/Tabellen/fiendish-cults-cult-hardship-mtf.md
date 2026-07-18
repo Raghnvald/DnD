@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiendish Cults; Cult Hardship
+Status: WIP
 linter-yaml-title-alias: Fiendish Cults; Cult Hardship
 tags:
   - Quelle/5e/mtf

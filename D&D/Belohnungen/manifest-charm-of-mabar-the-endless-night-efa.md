@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Mabar, the Endless Night
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Mabar, the Endless Night
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Mabar, the Endless Night"
+  - Manifest Charm of Mabar, the Endless Night
   - Manifest Charm of Mabar, the Endless Night
 ---
 # Manifest Charm of Mabar, the Endless Night

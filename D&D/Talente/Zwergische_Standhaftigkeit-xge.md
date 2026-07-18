@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zwergische Standhaftigkeit
-linter-yaml-title-alias: Dwarven Fortitude
+Status: WIP
+linter-yaml-title-alias: Zwergische Standhaftigkeit
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Dwarven Fortitude
+  - Zwergische Standhaftigkeit
 ---
 # Zwergische Standhaftigkeit
 *Source: Xanathar's Guide to Everything p. 74*  

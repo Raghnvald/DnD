@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Clockwork Sorcery
+Status: WIP
 linter-yaml-title-alias: Spells for Clockwork Sorcery
 tags:
-  - Zauber/list/subclass/clockwork-sorcery
+  - Zauber/Liste/subclass/clockwork-sorcery
 aliases:
   - Spells for Clockwork Sorcery
 ---

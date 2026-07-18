@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grassland Encounters (Levels 1—5)
+Status: WIP
 linter-yaml-title-alias: Grassland Encounters (Levels 1—5)
 tags:
   - Quelle/5e/xge

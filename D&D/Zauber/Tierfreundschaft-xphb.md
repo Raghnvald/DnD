@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Animal Friendship
+Status: WIP
 linter-yaml-title-alias: Animal Friendship
 classes:
   - Bard
@@ -14,7 +15,7 @@ tags:
   - Klasse/Kleriker/nature-domain
   - Klasse/Waldläufer
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/xphb
   - Rasse/yuan-ti
   - Zauber/Grad/1

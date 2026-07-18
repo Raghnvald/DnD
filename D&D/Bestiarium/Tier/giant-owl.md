@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Owl
+Status: WIP
 linter-yaml-title-alias: Giant Owl
 tags:
   - Monster/Größe/Groß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Necromite of Myrkul
+Status: WIP
 linter-yaml-title-alias: Necromite of Myrkul
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Sanctuary Charm
+Status: WIP
 linter-yaml-title-alias: Spells for Sanctuary Charm
 tags:
-  - ttrpg-cli/spell/list/reward/sanctuary-charm
+  - Zauber/Liste/reward/sanctuary-charm
 aliases:
-  - "Spells for Sanctuary Charm"
+  - Spells for Sanctuary Charm
   - Spells for Sanctuary Charm
 ---
 # Spells for Sanctuary Charm

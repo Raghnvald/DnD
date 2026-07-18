@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Secondhand Steal Trinket
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Secondhand Steal Trinket
 tags:
   - Gegenstand/Ausrüstung/
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Secondhand Steal Trinket
+status: WIP
 ---
 # Secondhand Steal Trinket
 *Adventuring gear*  

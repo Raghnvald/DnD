@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Air, Earth, Fire, and Water"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Air, Earth, Fire, and Water"
 tags:
   - Quelle/5e/pota

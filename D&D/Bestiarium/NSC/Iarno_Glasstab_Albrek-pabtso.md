@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Iarno "Glasstab" Albrek'
 Image: token/iarno-glasstaff-albrek-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: 'Iarno "Glasstab" Albrek'
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Locathah
+Status: WIP
 linter-yaml-title-alias: Locathah
 tags:
   - Monster/Größe/Mittelgroß

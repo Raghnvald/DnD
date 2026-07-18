@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Agelessness
+Status: WIP
 linter-yaml-title-alias: Charm of Agelessness
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bgdia
 aliases:
   - Charm of Agelessness

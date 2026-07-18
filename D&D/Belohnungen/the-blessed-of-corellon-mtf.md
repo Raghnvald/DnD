@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Blessed of Corellon
+Status: WIP
 linter-yaml-title-alias: The Blessed of Corellon
 tags:
-  - Kompendium/Belohnung/other
+  - Kompendium/Belohnung/anderes
   - Quelle/5e/mtf
 aliases:
   - The Blessed of Corellon

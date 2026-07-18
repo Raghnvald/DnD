@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix E: Player Characters"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: Player Characters"
 tags:
   - Quelle/5e/xmts

@@ -2,10 +2,10 @@
 Bezeichnung: Eimer
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 KM
 Gew.: 1,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Eimer
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 2 KM
-- **Gewicht**: 1,0 kg.
+- **Gewicht**: 1,0 kg
 
 Ein Eimer fasst 12,0 Liter.
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Yuan-ti Snake Body Type
+Status: WIP
 linter-yaml-title-alias: Physical Variations; Yuan-ti Snake Body Type
 tags:
   - Quelle/5e/vgm

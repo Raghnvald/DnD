@@ -5,7 +5,7 @@ Bezeichnung: Star Spawn Hulk
 Kategorie: Aberration
 Größe: Groß
 HG: 10
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Star Spawn Hulk
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Star Spawn Hulk
+status: WIP
 ---
 # [Star Spawn Hulk](3-Mechanics\CLI\bestiary\aberration/star-spawn-hulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  

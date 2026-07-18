@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Executioner's Axe"
+Status: WIP
 linter-yaml-title-alias: "Executioner's Axe"
 tags:
   - Gegenstand/Seltenheit/sehr_selten
@@ -10,10 +11,10 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - "Executioner's Axe"
-  - Executioner's Battleaxe
-  - Executioner's Greataxe
-  - Executioner's Halberd
-  - Executioner's Handaxe
+  - "Executioner's Battleaxe"
+  - "Executioner's Greataxe"
+  - "Executioner's Halberd"
+  - "Executioner's Handaxe"
 ---
 # Executioner's Axe
 *Very rare*  

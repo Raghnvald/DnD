@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warforged Titan
+Status: WIP
 linter-yaml-title-alias: Warforged Titan
 tags:
   - Monster/Größe/Riesig

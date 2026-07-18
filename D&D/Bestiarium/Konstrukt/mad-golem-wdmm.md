@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mad Golem
+Status: WIP
 linter-yaml-title-alias: Mad Golem
 tags:
   - Monster/Größe/Riesig

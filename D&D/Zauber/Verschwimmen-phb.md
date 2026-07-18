@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Verschwimmen
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Verschwimmen
 classes:
   - Bard (Magical Secrets)

@@ -5,8 +5,8 @@ Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: n/v
-Schaden: /
-status: completed
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Hexenpfeil
 tags:
   - Klasse/Hexenmeister
@@ -19,6 +19,7 @@ tags:
 aliases:
   - Hexenpfeil
   - Witch Bolt
+status: completed
 ---
 # Hexenpfeil
 _Hervorrufung des 1. Grades_

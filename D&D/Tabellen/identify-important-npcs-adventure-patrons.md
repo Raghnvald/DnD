@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Identify Important NPCs; Adventure Patrons
+Status: WIP
 linter-yaml-title-alias: Identify Important NPCs; Adventure Patrons
 tags:
   - Quelle/5e/dmg

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Robe of Stars
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Robe of Stars
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg

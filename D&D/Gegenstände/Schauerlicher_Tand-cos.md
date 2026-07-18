@@ -2,10 +2,10 @@
 Bezeichnung: Schauerlicher Tand
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Schauerlicher Tand
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Schauerlicher Tand
+status: WIP
 ---
 # Schauerlicher Tand
 *Adventuring gear*  

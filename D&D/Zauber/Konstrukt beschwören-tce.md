@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Summon Construct
 Zaubergrad: 4
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Summon Construct
 classes:
   - Artificer

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Victoro Cassalanter
+Status: WIP
 linter-yaml-title-alias: Victoro Cassalanter
 tags:
   - Monster/Größe/Mittelgroß

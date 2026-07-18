@@ -2,8 +2,8 @@
 Bezeichnung: Alchemiekrug
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 6,0 kg
 Status: completed
 linter-yaml-title-alias: Alchemiekrug

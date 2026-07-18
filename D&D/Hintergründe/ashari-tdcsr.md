@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ashari
+Status: WIP
 linter-yaml-title-alias: Ashari
 tags:
   - Kompendium/Hintergrund

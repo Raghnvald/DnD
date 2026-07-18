@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Righteous Heritor
+Status: WIP
 linter-yaml-title-alias: Righteous Heritor
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
-  - "Righteous Heritor"
+  - Righteous Heritor
   - Righteous Heritor
 ---
 # Righteous Heritor

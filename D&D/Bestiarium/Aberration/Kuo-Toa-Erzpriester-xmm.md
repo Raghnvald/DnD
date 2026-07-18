@@ -5,6 +5,7 @@ Bezeichnung: Kuo-toa Archpriest
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 6
+Status: WIP
 linter-yaml-title-alias: Kuo-toa Archpriest
 tags:
   - Monster/Größe/Mittelgroß

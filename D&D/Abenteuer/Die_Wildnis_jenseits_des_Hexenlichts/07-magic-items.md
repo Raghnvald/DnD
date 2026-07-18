@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Magic Items
+Status: WIP
 linter-yaml-title-alias: Magic Items
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Magic Items"
+  - Magic Items
   - Magic Items
 ---
 # Magic Items

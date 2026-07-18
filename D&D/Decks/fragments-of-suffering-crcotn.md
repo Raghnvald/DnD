@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Fragments of Suffering
+Status: WIP
 linter-yaml-title-alias: Fragments of Suffering
 tags:
   - Quelle/5e/crcotn
 aliases:
-  - "Fragments of Suffering"
+  - Fragments of Suffering
   - Fragments of Suffering
 ---
 # Fragments of Suffering

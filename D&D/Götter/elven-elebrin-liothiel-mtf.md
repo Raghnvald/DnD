@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Elebrin Liothiel
+Status: WIP
 linter-yaml-title-alias: Elebrin Liothiel
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kraken Priest
+Status: WIP
 linter-yaml-title-alias: Kraken Priest
 tags:
   - Monster/Größe/Mittelgroß

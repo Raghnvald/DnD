@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Skadi
+Status: WIP
 linter-yaml-title-alias: Skadi
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

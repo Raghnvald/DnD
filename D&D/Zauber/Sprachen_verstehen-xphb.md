@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Comprehend Languages
 classes:
   - Bard
@@ -25,8 +26,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xphb
   - Subklasse/diviner
   - Subklasse/Mystischer-Ritter

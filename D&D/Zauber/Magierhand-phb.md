@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Mage Hand
+Bezeichnung: Magierhand
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
@@ -7,7 +7,8 @@ Komponenten: V, G
 Wirkungsdauer: 1 Minute
 Angriff:
 Schaden:
-linter-yaml-title-alias: Mage Hand
+Status: WIP
+linter-yaml-title-alias: Magierhand
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -21,7 +22,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high
@@ -29,9 +30,9 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
 aliases:
-  - Mage Hand
+  - Magierhand
 ---
-# Mage Hand
+# Magierhand
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 Action

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blade Barrier
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Blade Barrier
 classes:
   - Bard (Magical Secrets)

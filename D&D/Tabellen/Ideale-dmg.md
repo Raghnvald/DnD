@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ideals
+Status: WIP
 linter-yaml-title-alias: Ideals
 tags:
   - Quelle/5e/dmg

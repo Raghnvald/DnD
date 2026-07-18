@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Great Ulfe
+Status: WIP
 linter-yaml-title-alias: Great Ulfe
 tags:
   - Monster/Größe/Groß

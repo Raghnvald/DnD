@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Mysterious Islands
+Status: WIP
 linter-yaml-title-alias: Mysterious Islands
 tags:
   - Quelle/5e/gos
 aliases:
-  - "Mysterious Islands"
+  - Mysterious Islands
   - Mysterious Islands
 ---
 # Mysterious Islands

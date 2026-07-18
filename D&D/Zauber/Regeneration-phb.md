@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Regeneration
 Zaubergrad: 7
-Zeitaufwand: Berührung
-Reichweite: 9 Meter
+Zeitaufwand: 1 Minute
+Reichweite: Berührung
 Komponenten: V, G, M
-Wirkungsdauer: 1 Stunden
-Angriff: n/a
+Wirkungsdauer: 1 Stunde
+Angriff: n/v
 Schaden: 4d8+15 Heilung
+Status: WIP
 linter-yaml-title-alias: Regeneration
 classes:
   - Bard (Magical Secrets)

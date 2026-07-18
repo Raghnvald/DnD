@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drowned Assassin
+Status: WIP
 linter-yaml-title-alias: Drowned Assassin
 tags:
   - Monster/Größe/Mittelgroß

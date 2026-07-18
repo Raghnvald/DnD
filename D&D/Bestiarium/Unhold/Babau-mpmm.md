@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Babau
+Status: WIP
 linter-yaml-title-alias: Babau
 tags:
   - Monster/Größe/Mittelgroß

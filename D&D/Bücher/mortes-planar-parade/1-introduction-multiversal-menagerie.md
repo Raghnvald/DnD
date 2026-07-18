@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Multiversal Menagerie"
+Status: WIP
 linter-yaml-title-alias: "Introduction: Multiversal Menagerie"
 tags:
   - Quelle/5e/mpp

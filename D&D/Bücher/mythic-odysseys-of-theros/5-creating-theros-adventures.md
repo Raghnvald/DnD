@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Creating Theros Adventures
+Status: WIP
 linter-yaml-title-alias: Creating Theros Adventures
 tags:
   - Quelle/5e/mot
 aliases:
-  - "Creating Theros Adventures"
+  - Creating Theros Adventures
   - Creating Theros Adventures
 ---
 # Creating Theros Adventures

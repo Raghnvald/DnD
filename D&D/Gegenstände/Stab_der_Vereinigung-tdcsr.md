@@ -1,19 +1,23 @@
 ---
 Bezeichnung: Spire of Conflux
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung durch einen Zauberwirker
   - Vielseitig (1W8)
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
+Einstimmung: durch einen Zauberwirker
 linter-yaml-title-alias: Spire of Conflux
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
   - Spire of Conflux
+status: WIP
+Original: Spire of Conflux
 ---
 # Spire of Conflux
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

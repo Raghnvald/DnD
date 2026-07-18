@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Printable Assets
+Status: WIP
 linter-yaml-title-alias: Printable Assets
 tags:
   - Quelle/5e/dip

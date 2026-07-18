@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Kapitel 7: Schätze"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 7: Schätze"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - "Chapter 7: Treasure"
   - "Kapitel 7: Schätze"
-  - Chapter 7: Treasure
 ---
 # Kapitel 7: Schätze
 *Quelle: Spielleiterhandbuch (2024), S. 213* 

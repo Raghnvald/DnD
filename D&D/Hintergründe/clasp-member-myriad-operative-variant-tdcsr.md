@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clasp Member (Myriad Operative) (Variant)
+Status: WIP
 linter-yaml-title-alias: Clasp Member (Myriad Operative) (Variant)
 tags:
   - Kompendium/Hintergrund

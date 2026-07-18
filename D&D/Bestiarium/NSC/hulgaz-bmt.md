@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hulgaz
+Status: WIP
 linter-yaml-title-alias: Hulgaz
 tags:
   - Monster/Größe/Groß

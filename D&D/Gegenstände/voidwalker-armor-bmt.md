@@ -1,18 +1,20 @@
 ---
 Bezeichnung: Voidwalker Armor
+Original: Voidwalker Armor
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften:
-  - erfordert Einstimmung
   - Verflucht
-Kst.: /
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 6,5 kg
 RK: 12 + GES
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: WIP
 linter-yaml-title-alias: Voidwalker Armor
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bmt

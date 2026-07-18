@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Candle
+Status: WIP
 linter-yaml-title-alias: Candle
 tags:
   - Gegenstand/Ausrüstung/

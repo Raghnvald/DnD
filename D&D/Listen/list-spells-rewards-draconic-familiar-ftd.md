@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Draconic Familiar
+Status: WIP
 linter-yaml-title-alias: Spells for Draconic Familiar
 tags:
-  - Zauber/list/reward/draconic-familiar
+  - Zauber/Liste/reward/draconic-familiar
 aliases:
   - Spells for Draconic Familiar
 ---

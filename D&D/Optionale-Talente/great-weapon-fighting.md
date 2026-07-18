@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Great Weapon Fighting
+Status: WIP
 linter-yaml-title-alias: Great Weapon Fighting
 tags:
   - Kompendium/Optionales/fs-f

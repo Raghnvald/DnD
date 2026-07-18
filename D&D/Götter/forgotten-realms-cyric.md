@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Cyric
+Status: WIP
 linter-yaml-title-alias: Cyric
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

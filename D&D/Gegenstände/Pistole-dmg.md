@@ -1,7 +1,15 @@
 ---
-Bezeichnung: Pistol
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Pistol
+Bezeichnung: Pistole
+Original: Pistol
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 1d10 Stich
+Eigenschaften:
+  - Geschosse
+  - Laden
+Kst.: 250 GM
+Gew.: 1,5kg
+Status: completed
+linter-yaml-title-alias: Pistole
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,15 +17,15 @@ tags:
   - Gegenstand/Zeitalter/Renaissance
   - Quelle/5e/dmg
 aliases:
-  - Pistol
+  - Pistole
 ---
-# Pistol
-*Weapon*  
+# Pistole
+*Fernkampf-Kriegswaffe*  
 
-- **Damage**: 1d10 piercing
-- **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
-- **Cost**: 250 gp
-- **Weight**: 3.0 lbs.
+- **Schaden**: 1d10 Stich
+- **Reichweite**: 9/27
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Laden|Laden]] 
+- **Kosten**: 250 GM
+- **Gewicht**: 1,5 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

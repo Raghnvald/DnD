@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Diabolical Inspiration
+Status: WIP
 linter-yaml-title-alias: Charm of Diabolical Inspiration
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bgdia
 aliases:
   - Charm of Diabolical Inspiration

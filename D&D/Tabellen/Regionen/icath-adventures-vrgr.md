@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "I'Cath Adventures"
+Status: WIP
 linter-yaml-title-alias: "I'Cath Adventures"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "I'Cath Adventures"
-  - I'Cath Adventures
 ---
 # I'Cath Adventures
 *Source: Van Richten's Guide to Ravenloft p. 121* 

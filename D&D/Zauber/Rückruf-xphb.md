@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Word of Recall
+Status: WIP
 linter-yaml-title-alias: Word of Recall
 classes:
   - Bard

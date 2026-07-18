@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chicken
+Status: WIP
 linter-yaml-title-alias: Chicken
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

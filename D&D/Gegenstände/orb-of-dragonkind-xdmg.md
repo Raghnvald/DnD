@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Orb of Dragonkind
+Status: WIP
 linter-yaml-title-alias: Orb of Dragonkind
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Garra
+Status: WIP
 linter-yaml-title-alias: Garra
 tags:
   - Monster/Größe/Groß

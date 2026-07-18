@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Ordning; Fire Giant Skill
+Status: WIP
 linter-yaml-title-alias: The Ordning; Fire Giant Skill
 tags:
   - Quelle/5e/bgg

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Simulacrum
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Simulacrum
 classes:
   - Bard (Magical Secrets)

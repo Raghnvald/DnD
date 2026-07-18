@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Deep Duerra
+Status: WIP
 linter-yaml-title-alias: Deep Duerra
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:

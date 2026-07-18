@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flames Card
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Flames Card
 tags:
   - Gegenstand/Seltenheit/legendär

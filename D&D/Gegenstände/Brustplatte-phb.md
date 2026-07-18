@@ -1,14 +1,16 @@
 ---
 Bezeichnung: Brustplatte
+Original: Breastplate
 Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 400 GM
 Gew.: 10,0 kg
 RK: 14 + GES (max +2)
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: completed
 linter-yaml-title-alias: Brustplatte
 tags:
   - Gegenstand/Rüstung/Mittel
@@ -21,7 +23,7 @@ aliases:
 *Mittelschwere Rüstung*  
 
 - **Rüstungsklasse**: 14 + GES (max +2)
-- **Kosten:** 400 Goldmünzen
+- **Kosten:** 400 GM
 - **Gewicht:** 10,0 kg
 
 Diese Rüstung besteht aus einem maßgefertigten Brustpanzer aus Metall, der mit weichem Leder getragen wird. Arme und Beine des Trägers bleiben zwar relativ ungeschützt, doch diese Rüstung schützt die lebenswichtigen Organe des Trägers, ohne dessen Bewegungsfreiheit allzu sehr einzuschränken.

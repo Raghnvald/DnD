@@ -2,10 +2,10 @@
 Bezeichnung: Zulkoon
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Zulkoon
 tags:
   - Gegenstand/Ausrüstung/Instrument
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Zulkoon
+status: WIP
 ---
 # Zulkoon
 *Instrument*  

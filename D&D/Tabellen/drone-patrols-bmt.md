@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drone Patrols
+Status: WIP
 linter-yaml-title-alias: Drone Patrols
 tags:
   - Quelle/5e/bmt

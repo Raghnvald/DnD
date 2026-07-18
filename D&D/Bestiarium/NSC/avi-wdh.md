@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Avi
+Status: WIP
 linter-yaml-title-alias: Avi
 tags:
   - Monster/Größe/Mittelgroß

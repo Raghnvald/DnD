@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Nuitari
+Status: WIP
 linter-yaml-title-alias: Nuitari
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Nuitari"
+  - Nuitari
   - Nuitari
 ---
 # Nuitari

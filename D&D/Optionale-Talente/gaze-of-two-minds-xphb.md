@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaze of Two Minds
+Status: WIP
 linter-yaml-title-alias: Gaze of Two Minds
 tags:
   - Kompendium/Optionales/ei

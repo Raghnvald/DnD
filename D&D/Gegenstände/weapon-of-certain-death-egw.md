@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Weapon of Certain Death
-Kategorie: Beliebige Waffe
+Kategorie: Waffe, beliebig
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
+Status: WIP
 linter-yaml-title-alias: Weapon of Certain Death
 tags:
   - Gegenstand/Seltenheit/selten
@@ -69,6 +70,8 @@ aliases:
   - Weapon of Certain Death
   - Whip of Certain Death
   - Yklwa of Certain Death
+status: WIP
+Original: Weapon of Certain Death
 ---
 # Weapon of Certain Death
 *Rare*  

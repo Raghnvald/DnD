@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Narbeck Horn
+Status: WIP
 linter-yaml-title-alias: Narbeck Horn
 tags:
   - Monster/Größe/Mittelgroß

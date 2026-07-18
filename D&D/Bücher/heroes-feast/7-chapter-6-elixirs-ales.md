@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: Elixirs & Ales"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Elixirs & Ales"
 tags:
   - Quelle/5e/hf

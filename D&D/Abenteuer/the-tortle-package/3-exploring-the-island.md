@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Exploring the Island
+Status: WIP
 linter-yaml-title-alias: Exploring the Island
 tags:
   - Quelle/5e/ttp
 aliases:
-  - "Exploring the Island"
+  - Exploring the Island
   - Exploring the Island
 ---
 # Exploring the Island

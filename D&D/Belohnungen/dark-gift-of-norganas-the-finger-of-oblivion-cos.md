@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Norganas, the Finger of Oblivion
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Norganas, the Finger of Oblivion
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Norganas, the Finger of Oblivion

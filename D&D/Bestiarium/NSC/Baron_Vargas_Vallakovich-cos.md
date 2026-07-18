@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Baron Vargas Vallakovich
+Status: WIP
 linter-yaml-title-alias: Baron Vargas Vallakovich
 tags:
   - Monster/Größe/Mittelgroß

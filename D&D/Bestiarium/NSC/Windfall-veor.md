@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Windfall
 Image: token/windfall-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Windfall
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Windfall
+status: WIP
 ---
 # Windfall
 *Source: Vecna: Eve of Ruin p. 153*  

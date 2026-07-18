@@ -5,7 +5,7 @@ Bezeichnung: Schattenschrecken
 Kategorie: Aberration
 Größe: Groß
 HG: 9
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schattenschrecken
 tags:
   - Monster/Größe/Groß
@@ -15,6 +15,7 @@ tags:
 aliases:
   - Schattenschrecken
   - Shadow Horror
+status: WIP
 ---
 # Schattenschrecken
 *Source: Guildmasters' Guide to Ravnica p. 205*  

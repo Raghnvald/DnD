@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Juvenile Mimic
+Status: WIP
 linter-yaml-title-alias: Juvenile Mimic
 tags:
   - Monster/Größe/Winzig

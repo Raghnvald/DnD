@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Dragons; Half-Dragon Origin
+Status: WIP
 linter-yaml-title-alias: Half-Dragons; Half-Dragon Origin
 tags:
   - Quelle/5e/ftd

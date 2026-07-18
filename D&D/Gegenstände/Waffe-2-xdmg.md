@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +2 Weapon
+Status: WIP
 linter-yaml-title-alias: +2 Weapon
 tags:
   - Gegenstand/Seltenheit/selten

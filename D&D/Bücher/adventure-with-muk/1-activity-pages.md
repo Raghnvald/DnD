@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Activity Pages
+Status: WIP
 linter-yaml-title-alias: Activity Pages
 tags:
   - Quelle/5e/awm
 aliases:
-  - "Activity Pages"
+  - Activity Pages
   - Activity Pages
 ---
 # Activity Pages

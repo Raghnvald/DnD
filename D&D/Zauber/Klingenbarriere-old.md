@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Klingenbarriere
+Status: WIP
 linter-yaml-title-alias: Klingenbarriere
 tags:
   - Klasse/Kleriker

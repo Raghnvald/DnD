@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Research Complications
+Status: WIP
 linter-yaml-title-alias: Research Complications
 tags:
   - Quelle/5e/xge

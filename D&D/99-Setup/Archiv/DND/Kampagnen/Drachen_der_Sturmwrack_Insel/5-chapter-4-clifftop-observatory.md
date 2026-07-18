@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Clifftop Observatory"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Clifftop Observatory"
 tags:
   - Quelle/5e/dosi
 aliases:
   - "Chapter 4: Clifftop Observatory"
-  - Chapter 4: Clifftop Observatory
 ---
 # Chapter 4: Clifftop Observatory
 *Source: Dragons of Stormwreck Isle, p. 28* 

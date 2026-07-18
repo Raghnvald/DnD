@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Blazing Dawn
+Status: WIP
 linter-yaml-title-alias: Boon of Blazing Dawn
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Boon of Blazing Dawn"
+  - Boon of Blazing Dawn
   - Boon of Blazing Dawn
 ---
 # Boon of Blazing Dawn

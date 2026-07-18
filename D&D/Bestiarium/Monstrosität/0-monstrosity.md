@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Monstrosity
+Status: WIP
 linter-yaml-title-alias: Index of Monstrosity
 aliases:
   - Index of Monstrosity

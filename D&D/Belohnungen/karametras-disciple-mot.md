@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Karametra's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Karametra's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

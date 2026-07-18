@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rolling Sphere
+Status: WIP
 linter-yaml-title-alias: Rolling Sphere
 tags:
   - Kompendium/Bedrohung/mech

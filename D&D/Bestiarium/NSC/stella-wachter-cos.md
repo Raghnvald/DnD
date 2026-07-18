@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stella Wachter
+Status: WIP
 linter-yaml-title-alias: Stella Wachter
 tags:
   - Monster/Größe/Mittelgroß

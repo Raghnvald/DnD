@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Magiertöter
-linter-yaml-title-alias: Mage Slayer
+Status: WIP
+linter-yaml-title-alias: Magiertöter
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Mage Slayer
+  - Magiertöter
 ---
 # Magiertöter
 *Source: Player's Handbook p. 168*  

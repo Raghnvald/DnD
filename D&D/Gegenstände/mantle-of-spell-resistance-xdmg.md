@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Mantle of Spell Resistance
+Status: WIP
 linter-yaml-title-alias: Mantle of Spell Resistance
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

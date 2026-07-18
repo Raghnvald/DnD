@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vizier
+Status: WIP
 linter-yaml-title-alias: Vizier
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/psa
 aliases:
-  - "Vizier"
+  - Vizier
   - Vizier
 ---
 # Vizier

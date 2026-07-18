@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mirror of the Past
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Mirror of the Past
 tags:
   - Gegenstand/Seltenheit/selten

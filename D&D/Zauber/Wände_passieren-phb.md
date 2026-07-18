@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Passwall
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Passwall
 classes:
   - Bard (Magical Secrets)

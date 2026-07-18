@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Flowers
+Status: WIP
 linter-yaml-title-alias: Staff of Flowers
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

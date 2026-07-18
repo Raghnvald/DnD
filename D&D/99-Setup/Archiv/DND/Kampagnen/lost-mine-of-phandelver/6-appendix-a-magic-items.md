@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Magic Items"
 tags:
   - Quelle/5e/lmop
 aliases:
   - "Appendix A: Magic Items"
-  - Appendix A: Magic Items
 ---
 # Appendix A: Magic Items
 *Source: Lost Mine of Phandelver, p. 52* 

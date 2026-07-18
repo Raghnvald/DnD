@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 600 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Betäubungsgift
 tags:
   - Gegenstand/Ausrüstung/
@@ -14,6 +14,7 @@ tags:
 aliases:
   - Betäubungsgift
   - Torpor
+status: WIP
 ---
 # Betäubungsgift
 *Abenteuerausrüstung, Gift (Einnahme)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kubazan
+Status: WIP
 linter-yaml-title-alias: Kubazan
 tags:
   - Kompendium/Belohnung/inhabitation

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Siren
+Status: WIP
 linter-yaml-title-alias: Siren
 tags:
   - Monster/Größe/Mittelgroß

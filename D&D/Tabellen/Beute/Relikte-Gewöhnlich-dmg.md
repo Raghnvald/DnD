@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Relics - Common
+Status: WIP
 linter-yaml-title-alias: Relics - Common
 tags:
   - Quelle/5e/xdmg

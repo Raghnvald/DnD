@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mr. Dory
+Status: WIP
 linter-yaml-title-alias: Mr. Dory
 tags:
   - Monster/Größe/Mittelgroß

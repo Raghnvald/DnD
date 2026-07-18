@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Pharaoh's Return; Ankhtepot Reborn"
+Status: WIP
 linter-yaml-title-alias: "The Pharaoh's Return; Ankhtepot Reborn"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "The Pharaoh's Return; Ankhtepot Reborn"
-  - The Pharaoh's Return; Ankhtepot Reborn
 ---
 # The Pharaoh's Return; Ankhtepot Reborn
 *Source: Van Richten's Guide to Ravenloft p. 110* 

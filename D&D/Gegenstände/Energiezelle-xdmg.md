@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Energy Cell
+Status: WIP
 linter-yaml-title-alias: Energy Cell
 tags:
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zeitalter/Futuristisch
   - Quelle/5e/xdmg

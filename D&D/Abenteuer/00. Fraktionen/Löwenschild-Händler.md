@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Löwenschild-Händler
+Status: WIP
 tags:
   - Quelle/5e/phb
 ---

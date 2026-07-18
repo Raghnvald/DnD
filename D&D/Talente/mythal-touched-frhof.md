@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mythal Touched
+Status: WIP
 linter-yaml-title-alias: Mythal Touched
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Mythal Touched"
+  - Mythal Touched
   - Mythal Touched
 ---
 # Mythal Touched

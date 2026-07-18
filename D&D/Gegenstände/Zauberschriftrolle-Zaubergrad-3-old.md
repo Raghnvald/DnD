@@ -5,6 +5,7 @@ Eigenschaften:
   - /
 Kst.: 400 GM
 Gew.: /
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 3)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

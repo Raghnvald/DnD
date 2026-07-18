@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystery Guilds
+Status: WIP
 linter-yaml-title-alias: Mystery Guilds
 tags:
   - Quelle/5e/ggr

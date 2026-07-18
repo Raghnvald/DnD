@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zielgenauer Zauberschütze
-linter-yaml-title-alias: Spell Sniper
+Status: WIP
+linter-yaml-title-alias: Zielgenauer Zauberschütze
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Spell Sniper
+  - Zielgenauer Zauberschütze
 ---
 # Zielgenauer Zauberschütze
 *Source: Player's Handbook p. 170*  

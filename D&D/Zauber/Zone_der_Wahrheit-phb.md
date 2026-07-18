@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Zone of Truth
+Bezeichnung: Zone der Wahrheit
 Zaubergrad: 2
-linter-yaml-title-alias: Zone of Truth
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Zone der Wahrheit
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -16,9 +18,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
 aliases:
-  - Zone of Truth
+  - Zone der Wahrheit
 ---
-# Zone of Truth
+# Zone der Wahrheit
 *2nd-level, Enchantment*  
 
 - **Casting time:** 1 Action

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Wizard Spells
+Status: WIP
 linter-yaml-title-alias: Wizard Spells
 tags:
-  - Zauber/list/class/wizard
+  - Zauber/Liste/class/wizard
 aliases:
   - Wizard Spells
 ---

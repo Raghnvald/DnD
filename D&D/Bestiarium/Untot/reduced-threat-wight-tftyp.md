@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Wight
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Wight
 tags:
   - Monster/Größe/Mittelgroß

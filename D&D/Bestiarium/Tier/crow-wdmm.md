@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crow
+Status: WIP
 linter-yaml-title-alias: Crow
 tags:
   - Monster/Größe/Winzig

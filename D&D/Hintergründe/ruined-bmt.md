@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ruined
+Status: WIP
 linter-yaml-title-alias: Ruined
 tags:
   - Kompendium/Hintergrund

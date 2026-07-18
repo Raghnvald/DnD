@@ -6,7 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 4
 Image: token/grell-psychic-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Grell-Hellseher
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Grell Psychic
   - Grell-Hellseher
+status: WIP
 ---
 # Grell-Hellseher
 *Source: Phandelver and Below: The Shattered Obelisk p. 145*  

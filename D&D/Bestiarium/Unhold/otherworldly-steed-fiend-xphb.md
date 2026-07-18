@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Otherworldly Steed (Fiend)
+Status: WIP
 linter-yaml-title-alias: Otherworldly Steed (Fiend)
 tags:
   - Monster/Größe/Groß

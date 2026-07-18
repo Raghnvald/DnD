@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Griffon)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Griffon)
 tags:
   - Monster/Größe/Mittelgroß

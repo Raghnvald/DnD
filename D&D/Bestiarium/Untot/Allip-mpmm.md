@@ -9,8 +9,7 @@ HG: 5
 Habitat:
   - Stadt
   - Sumpf
-image: token/allip-mpmm.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Allip
 tags:
   - Monster/Größe/Mittelgroß
@@ -21,6 +20,8 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Allip
+image: token/allip-mpmm.webp
+status: WIP
 ---
 # [Allip](3-Mechanics\CLI\bestiary\undead/allip-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45*  

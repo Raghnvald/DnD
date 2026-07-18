@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crusher
+Status: WIP
 linter-yaml-title-alias: Crusher
 tags:
   - Kompendium/Talent

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Adamantbarren
+Original: Adamantine Bar
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1.000 GM
 Gew.: 5,0 kg
 Status: completed

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gentle Repose
+Status: WIP
 linter-yaml-title-alias: Gentle Repose
 classes:
   - Bard

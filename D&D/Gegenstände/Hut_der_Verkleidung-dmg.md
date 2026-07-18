@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hat of Disguise
+Status: WIP
 linter-yaml-title-alias: Hat of Disguise
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:

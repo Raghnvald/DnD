@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 12: Maze Level"
+Status: WIP
 linter-yaml-title-alias: "Level 12: Maze Level"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 12: Maze Level"
-  - Level 12: Maze Level
 ---
 # Level 12: Maze Level
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 159* 

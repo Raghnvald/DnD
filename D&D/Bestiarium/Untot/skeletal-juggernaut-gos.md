@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Juggernaut
+Status: WIP
 linter-yaml-title-alias: Skeletal Juggernaut
 tags:
   - Monster/Größe/Groß

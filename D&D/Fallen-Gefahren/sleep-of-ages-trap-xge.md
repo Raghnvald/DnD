@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sleep of Ages Trap
+Status: WIP
 linter-yaml-title-alias: Sleep of Ages Trap
 tags:
   - Kompendium/Bedrohung/smpl

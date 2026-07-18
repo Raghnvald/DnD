@@ -1,21 +1,26 @@
 ---
-Bezeichnung: Hex
+Bezeichnung: Verwünschen
 Zaubergrad: 1
-linter-yaml-title-alias: Hex
+Zeitaufwand: 1 Bonusaktion
+Status: WIP
+linter-yaml-title-alias: Verwünschen
 classes:
   - Bard (Magical Secrets)
   - Warlock
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
-  - Kompendium/Talent/magic-initiate/warlock-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Hexenmeister-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Hex
+  - Verwünschen
+Reichweite: 18 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 ---
-# Hex
+# Verwünschen
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 Bonus Action

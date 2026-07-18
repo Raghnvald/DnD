@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Order Domain
+Status: WIP
 linter-yaml-title-alias: Order Domain
 tags:
   - Klasse/Kleriker/order
-  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/Ordnung
   - Quelle/5e/tce
 aliases:
   - Order Domain

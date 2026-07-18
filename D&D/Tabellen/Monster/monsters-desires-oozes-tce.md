@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Oozes"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Oozes"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Oozes"
-  - Monsters' Desires; Oozes
 ---
 # Monsters' Desires; Oozes
 *Source: Tasha's Cauldron of Everything p. 148* 

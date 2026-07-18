@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Rod of Absorption
 Kategorie: Zepter
+Status: WIP
 linter-yaml-title-alias: Rod of Absorption
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Sea)
+Status: WIP
 linter-yaml-title-alias: Elf (Sea)
 tags:
   - Quelle/5e/mtf

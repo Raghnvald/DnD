@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rules Glossary
+Status: WIP
 linter-yaml-title-alias: Rules Glossary
 tags:
   - Quelle/5e/xphb

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Major Image
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Major Image
 classes:
   - Bard (Magical Secrets)

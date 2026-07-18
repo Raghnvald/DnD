@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warforged
+Status: WIP
 linter-yaml-title-alias: Warforged
 tags:
   - Quelle/5e/erlw

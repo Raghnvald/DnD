@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Greater Invisibility
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Greater Invisibility
 classes:
   - Bard (Magical Secrets)

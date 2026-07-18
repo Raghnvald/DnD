@@ -4,7 +4,7 @@ Eigenschaften:
   - Gift
 Kst.: 600 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Torpor
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Torpor
+status: WIP
 ---
 # Torpor
 *Adventuring gear, poison (ingested)*  

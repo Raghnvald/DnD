@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Kelemvor
+Status: WIP
 linter-yaml-title-alias: Kelemvor
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Kelemvor"
-  - "The Judge of the Damned"
-  - "The Lord of the Dead"
   - Kelemvor
+  - Kelemvor
+  - The Judge of the Damned
+  - The Lord of the Dead
 ---
 # Kelemvor
 *Source: Forgotten Realms: Heroes of Faerûn p. 110* 

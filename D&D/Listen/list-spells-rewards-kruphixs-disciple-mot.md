@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Kruphix's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Spells for Kruphix's Disciple"
 tags:
-  - ttrpg-cli/spell/list/reward/kruphixs-disciple
+  - Zauber/Liste/reward/kruphixs-disciple
 aliases:
   - "Spells for Kruphix's Disciple"
 ---

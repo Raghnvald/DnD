@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Merfolk (Ixalan; Green)
+Status: WIP
 linter-yaml-title-alias: Merfolk (Ixalan; Green)
 tags:
   - Quelle/5e/psx
   - Rasse/merfolk/ixalan-green
 aliases:
-  - "Merfolk (Ixalan; Green)"
+  - Merfolk (Ixalan; Green)
   - Merfolk (Ixalan; Green)
 ---
 # Merfolk (Ixalan; Green)

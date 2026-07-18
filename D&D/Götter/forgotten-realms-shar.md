@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Shar
+Status: WIP
 linter-yaml-title-alias: Shar
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

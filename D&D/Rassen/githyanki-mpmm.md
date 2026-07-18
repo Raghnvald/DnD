@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githyanki
+Status: WIP
 linter-yaml-title-alias: Githyanki
 tags:
   - Quelle/5e/mpmm

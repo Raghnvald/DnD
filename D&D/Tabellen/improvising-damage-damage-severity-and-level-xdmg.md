@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Improvising Damage; Damage Severity and Level
+Status: WIP
 linter-yaml-title-alias: Improvising Damage; Damage Severity and Level
 tags:
   - Quelle/5e/xdmg

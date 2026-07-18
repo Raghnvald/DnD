@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dreadful Word
+Status: WIP
 linter-yaml-title-alias: Dreadful Word
 tags:
   - Kompendium/Optionales/ei

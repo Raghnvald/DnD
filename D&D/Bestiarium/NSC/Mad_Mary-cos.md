@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mad Mary
+Status: WIP
 linter-yaml-title-alias: Mad Mary
 tags:
   - Monster/Größe/Mittelgroß

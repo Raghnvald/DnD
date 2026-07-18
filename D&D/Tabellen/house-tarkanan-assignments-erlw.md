@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Tarkanan Assignments
+Status: WIP
 linter-yaml-title-alias: House Tarkanan Assignments
 tags:
   - Quelle/5e/erlw

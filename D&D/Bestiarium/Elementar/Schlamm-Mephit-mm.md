@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mud Mephit
+Status: WIP
 linter-yaml-title-alias: Mud Mephit
 tags:
   - Monster/Größe/Klein

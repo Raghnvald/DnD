@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Great Worm)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Great Worm)
 tags:
   - Monster/Größe/Mittelgroß

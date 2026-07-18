@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Hometowns
+Status: WIP
 linter-yaml-title-alias: Hometowns
 tags:
   - Quelle/5e/mabjov
 aliases:
-  - "Hometowns"
+  - Hometowns
   - Hometowns
 ---
 # Hometowns

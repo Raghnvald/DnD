@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Surface of the Sun
+Status: WIP
 linter-yaml-title-alias: Surface of the Sun
 tags:
   - Kompendium/Bedrohung/mag

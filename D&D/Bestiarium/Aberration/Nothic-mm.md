@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - Unterreich
-image: token/Nothic.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Nothic
 tags:
   - Habitat/GRÖSSE
@@ -23,6 +22,8 @@ tags:
 aliases:
   - NAME
   - Nothic
+image: token/Nothic.webp
+status: completed
 ---
 # Nothic
 *Quelle: Monsterhandbuch S. 207. Verfügbar im Grundregelwerk (2014)*  

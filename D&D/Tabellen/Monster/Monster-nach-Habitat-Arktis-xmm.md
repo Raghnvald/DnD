@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Arctic Monsters
+Status: WIP
 linter-yaml-title-alias: Monsters by Habitat; Arctic Monsters
 tags:
   - Quelle/5e/xmm

@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Beschlagene Lederrüstung
+Original: Studded Leather Armor
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften:
-  - /
-Einstimmung:
+  - n/v
+Einstimmung: n/v
 Kst.: 45 GM
 Gew.: 7,5 kg
 RK: 12 + GES
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: completed
 linter-yaml-title-alias: Beschlagene Lederrüstung
 tags:
   - Gegenstand/Rüstung/Leicht
@@ -25,7 +27,7 @@ aliases:
 
 - **Rüstungsklasse**: 12 + GES Modifikator
 - **Kosten**: 45 GM
-- **Gewicht**: 7,5 kg.
+- **Gewicht**: 7,5 kg
 
 Diese Rüstung wurde aus strapazierfähigem oder flexiblem Leder hergestellt und mit eng aneinanderliegenden Nieten oder Stacheln verstärkt.
 

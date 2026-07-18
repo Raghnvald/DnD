@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Long Rest
+Status: WIP
 linter-yaml-title-alias: Long Rest
 tags:
   - Quelle/5e/xphb

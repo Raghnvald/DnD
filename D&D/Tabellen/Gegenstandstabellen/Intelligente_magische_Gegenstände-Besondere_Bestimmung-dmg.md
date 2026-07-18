@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Besondere Bestimmung
+Status: WIP
 linter-yaml-title-alias: Besondere Bestimmung
 tags:
   - Quelle/5e/dmg

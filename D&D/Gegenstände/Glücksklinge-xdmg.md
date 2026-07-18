@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Luck Blade
+Status: WIP
 linter-yaml-title-alias: Luck Blade
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Kriegswaffe

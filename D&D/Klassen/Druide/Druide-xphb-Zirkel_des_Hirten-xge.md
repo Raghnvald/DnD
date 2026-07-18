@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of the Shepherd
+Status: WIP
 linter-yaml-title-alias: Circle of the Shepherd
 tags:
   - Klasse/Druide/shepherd

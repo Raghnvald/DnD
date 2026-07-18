@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Azer Pyromancer
 Kategorie: Elementar
+Status: WIP
 linter-yaml-title-alias: Azer Pyromancer
 tags:
   - Monster/Größe/Mittelgroß

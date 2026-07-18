@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Military Quests
+Status: WIP
 linter-yaml-title-alias: Military Quests
 tags:
   - Quelle/5e/tce

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadowghast
+Status: WIP
 linter-yaml-title-alias: Shadowghast
 tags:
   - Monster/Größe/Mittelgroß

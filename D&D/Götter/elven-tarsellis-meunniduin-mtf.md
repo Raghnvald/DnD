@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Tarsellis Meunniduin
+Status: WIP
 linter-yaml-title-alias: Tarsellis Meunniduin
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

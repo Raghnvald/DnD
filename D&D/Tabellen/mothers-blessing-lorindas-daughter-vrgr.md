@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Mother's Blessing; Lorinda's Daughter"
+Status: WIP
 linter-yaml-title-alias: "Mother's Blessing; Lorinda's Daughter"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "Mother's Blessing; Lorinda's Daughter"
-  - Mother's Blessing; Lorinda's Daughter
 ---
 # Mother's Blessing; Lorinda's Daughter
 *Source: Van Richten's Guide to Ravenloft p. 161* 

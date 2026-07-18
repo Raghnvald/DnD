@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lolth's Sting"
+Status: WIP
 linter-yaml-title-alias: "Lolth's Sting"
 tags:
   - Gegenstand/Ausrüstung/
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - "Lolth's Sting"
-  - Lolth's Sting
 ---
 # Lolth's Sting
 *Adventuring gear, poison (injury)*  

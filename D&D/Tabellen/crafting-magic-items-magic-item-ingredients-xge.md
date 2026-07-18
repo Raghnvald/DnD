@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crafting Magic Items; Magic Item Ingredients
+Status: WIP
 linter-yaml-title-alias: Crafting Magic Items; Magic Item Ingredients
 tags:
   - Quelle/5e/xge

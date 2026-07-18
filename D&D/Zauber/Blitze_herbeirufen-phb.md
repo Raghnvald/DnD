@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff: GES
 Schaden: 3d10 Blitz
+Status: WIP
 linter-yaml-title-alias: Blitze herbeirufen
 classes:
   - Bard (Magical Secrets)

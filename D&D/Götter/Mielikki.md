@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mielikki, Göttin der Wälder
+Status: WIP
 linter-yaml-title-alias: Mielikki, Göttin der Wälder
 tags:
   - Kompendium/Götter

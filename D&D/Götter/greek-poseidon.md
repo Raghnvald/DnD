@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Poseidon
+Status: WIP
 linter-yaml-title-alias: Poseidon
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

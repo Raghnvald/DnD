@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Helm of Teleportation
+Status: WIP
 linter-yaml-title-alias: Helm of Teleportation
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
 aliases:

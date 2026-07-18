@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thin Ice
+Status: WIP
 linter-yaml-title-alias: Thin Ice
 tags:
   - Kompendium/Bedrohung/wld

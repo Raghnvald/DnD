@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Criminal"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Criminal"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Criminal"
-  - Baldur's Gate Criminal
 ---
 # Baldur's Gate Criminal
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 129*  

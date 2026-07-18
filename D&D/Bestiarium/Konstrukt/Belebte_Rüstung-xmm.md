@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Armor
+Status: WIP
 linter-yaml-title-alias: Animated Armor
 tags:
   - Monster/Größe/Mittelgroß

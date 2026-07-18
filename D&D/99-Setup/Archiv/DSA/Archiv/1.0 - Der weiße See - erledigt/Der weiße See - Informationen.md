@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Der weiße See - Informationen
+Status: WIP
 ---
 # Der weiße See - Informationen
 - die Gruppe hat den "verwunschenen" Baum in Nivesel abgefackelt

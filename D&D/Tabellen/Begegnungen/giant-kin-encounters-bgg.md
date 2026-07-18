@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Kin Encounters
+Status: WIP
 linter-yaml-title-alias: Giant Kin Encounters
 tags:
   - Quelle/5e/bgg

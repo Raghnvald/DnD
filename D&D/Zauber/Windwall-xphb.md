@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wind Wall
+Status: WIP
 linter-yaml-title-alias: Wind Wall
 classes:
   - Artificer (Artillerist)

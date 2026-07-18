@@ -8,8 +8,7 @@ Größe: Winzig
 HG: 1/8
 Habitat:
   - Planar (Limbo)
-image:
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Slaad Tadpole
 tags:
   - Monster/Größe/Winzig
@@ -20,6 +19,8 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Slaad Tadpole
+image:
+status: WIP
 ---
 # [Slaad Tadpole](3-Mechanics\CLI\bestiary\aberration/slaad-tadpole-xmm.md)
 *Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Climbing
+Status: WIP
 linter-yaml-title-alias: Potion of Climbing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Dreadful Word
+Status: WIP
 linter-yaml-title-alias: Spells for Dreadful Word
 tags:
-  - Zauber/list/optfeature/dreadful-word
+  - Zauber/Liste/optfeature/dreadful-word
 aliases:
   - Spells for Dreadful Word
 ---

@@ -7,8 +7,7 @@ Größe: Groß
 HG: "8"
 Habitat:
   - /
-image: token/aeorian-reverser-egw.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aeorian Reverser
 tags:
   - Monster/Größe/Groß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Aeorian Reverser
+image: token/aeorian-reverser-egw.webp
+status: WIP
 ---
 # [Aeorian Reverser](3-Mechanics\CLI\bestiary\monstrosity/aeorian-reverser-egw.md)
 *Source: Explorer's Guide to Wildemount p. 284*  

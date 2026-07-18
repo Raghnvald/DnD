@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Pholtus
+Status: WIP
 linter-yaml-title-alias: Pholtus
 tags:
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/order
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Pholtus

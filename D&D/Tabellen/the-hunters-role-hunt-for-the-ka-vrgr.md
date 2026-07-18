@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Hunters' Role; Hunt for the Ka"
+Status: WIP
 linter-yaml-title-alias: "The Hunters' Role; Hunt for the Ka"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "The Hunters' Role; Hunt for the Ka"
-  - The Hunters' Role; Hunt for the Ka
 ---
 # The Hunters' Role; Hunt for the Ka
 *Source: Van Richten's Guide to Ravenloft p. 111* 

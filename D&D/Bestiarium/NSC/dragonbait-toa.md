@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonbait
+Status: WIP
 linter-yaml-title-alias: Dragonbait
 tags:
   - Monster/Größe/Mittelgroß

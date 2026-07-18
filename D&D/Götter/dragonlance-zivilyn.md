@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zivilyn
+Status: WIP
 linter-yaml-title-alias: Zivilyn
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Zivilyn"
+  - Zivilyn
   - Zivilyn
 ---
 # Zivilyn

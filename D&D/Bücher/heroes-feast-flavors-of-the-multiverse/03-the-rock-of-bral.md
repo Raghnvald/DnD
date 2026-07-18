@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Rock Of Bral
+Status: WIP
 linter-yaml-title-alias: The Rock Of Bral
 tags:
   - Quelle/5e/hffotm
 aliases:
-  - "The Rock Of Bral"
+  - The Rock Of Bral
   - The Rock Of Bral
 ---
 # The Rock Of Bral

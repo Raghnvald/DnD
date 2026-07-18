@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oathbreaker
+Status: WIP
 linter-yaml-title-alias: Oathbreaker
 tags:
   - Klasse/Paladin/Eidbrecher

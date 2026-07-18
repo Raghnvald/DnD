@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ember of the Fire Giant
+Status: WIP
 linter-yaml-title-alias: Ember of the Fire Giant
 tags:
   - Kompendium/Talent

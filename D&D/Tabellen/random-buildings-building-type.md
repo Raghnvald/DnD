@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Buildings; Building Type
+Status: WIP
 linter-yaml-title-alias: Random Buildings; Building Type
 tags:
   - Quelle/5e/dmg

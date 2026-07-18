@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Katastrophales Unglück
+Status: WIP
 linter-yaml-title-alias: Katastrophales Unglück
 tags:
   - Quelle/5e/dmg

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of the Frostmaiden
+Status: WIP
 linter-yaml-title-alias: Blessing of the Frostmaiden
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/idrotf
 aliases:
   - Blessing of the Frostmaiden

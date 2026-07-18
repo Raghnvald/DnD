@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Custom Background
+Status: WIP
 linter-yaml-title-alias: Custom Background
 tags:
   - Kompendium/Hintergrund

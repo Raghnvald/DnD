@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Orrery of the Wanderer
+Status: WIP
 linter-yaml-title-alias: The Orrery of the Wanderer
 tags:
   - Quelle/5e/oow
 aliases:
-  - "The Orrery of the Wanderer"
+  - The Orrery of the Wanderer
   - The Orrery of the Wanderer
 ---
 # The Orrery of the Wanderer

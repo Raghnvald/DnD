@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Rogue's Motivation; Villainous Motivations"
+Status: WIP
 linter-yaml-title-alias: "The Rogue's Motivation; Villainous Motivations"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "The Rogue's Motivation; Villainous Motivations"
-  - The Rogue's Motivation; Villainous Motivations
 ---
 # The Rogue's Motivation; Villainous Motivations
 *Source: The Book of Many Things p. 43* 

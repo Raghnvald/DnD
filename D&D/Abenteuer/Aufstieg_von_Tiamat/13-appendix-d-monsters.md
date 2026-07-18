@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix D: Monsters"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Monsters"
 tags:
   - Quelle/5e/rot
 aliases:
   - "Appendix D: Monsters"
-  - Appendix D: Monsters
 ---
 # Appendix D: Monsters
 *Source: Rise of Tiamat, p. 180* 

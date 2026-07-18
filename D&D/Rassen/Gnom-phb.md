@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Gnome
-linter-yaml-title-alias: Gnome
+Bezeichnung: Gnom
+Status: WIP
+linter-yaml-title-alias: Gnom
 tags:
   - Quelle/5e/phb
   - Rasse/gnome
 aliases:
-  - Gnome
+  - Gnom
 ---
 # Gnom
 *Source: Player's Handbook p. 35. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

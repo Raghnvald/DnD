@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Signal Whistle
+Status: WIP
 linter-yaml-title-alias: Signal Whistle
 tags:
   - Gegenstand/Ausrüstung/

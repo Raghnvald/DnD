@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Charm of the Creeping Hand
+Status: WIP
 linter-yaml-title-alias: Charm of the Creeping Hand
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/vnotee
 aliases:
-  - "Charm of the Creeping Hand"
+  - Charm of the Creeping Hand
   - Charm of the Creeping Hand
 ---
 # Charm of the Creeping Hand

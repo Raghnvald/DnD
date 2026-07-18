@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Propulsion Armor
+Status: WIP
 linter-yaml-title-alias: Arcane Propulsion Armor
 tags:
   - Kompendium/Optionales/ai

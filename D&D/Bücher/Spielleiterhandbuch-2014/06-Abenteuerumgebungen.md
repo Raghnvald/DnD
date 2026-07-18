@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 5: Abenteuerumgebungen"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 5: Abenteuerumgebungen"
 tags:
   - Quelle/5e/dmg

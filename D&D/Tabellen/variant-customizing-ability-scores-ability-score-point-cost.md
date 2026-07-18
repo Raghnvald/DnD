@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Variant: Customizing Ability Scores; Ability Score Point Cost"
+Status: WIP
 linter-yaml-title-alias: "Variant: Customizing Ability Scores; Ability Score Point Cost"
 tags:
   - Quelle/5e/phb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakdos Performer, Fire Eater
+Status: WIP
 linter-yaml-title-alias: Rakdos Performer, Fire Eater
 tags:
   - Monster/Größe/Mittelgroß

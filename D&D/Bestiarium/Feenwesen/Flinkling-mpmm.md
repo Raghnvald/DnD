@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quickling
+Status: WIP
 linter-yaml-title-alias: Quickling
 tags:
   - Monster/Größe/Winzig

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Isolde
+Status: WIP
 linter-yaml-title-alias: Isolde
 tags:
   - Monster/Größe/Mittelgroß

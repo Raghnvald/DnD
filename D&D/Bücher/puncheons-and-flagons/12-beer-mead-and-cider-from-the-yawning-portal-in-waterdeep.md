@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Beer, Mead, and Cider from The Yawning Portal in Waterdeep
+Status: WIP
 linter-yaml-title-alias: Beer, Mead, and Cider from The Yawning Portal in Waterdeep
 tags:
   - Quelle/5e/paf
 aliases:
-  - "Beer, Mead, and Cider from The Yawning Portal in Waterdeep"
+  - Beer, Mead, and Cider from The Yawning Portal in Waterdeep
   - Beer, Mead, and Cider from The Yawning Portal in Waterdeep
 ---
 # Beer, Mead, and Cider from The Yawning Portal in Waterdeep

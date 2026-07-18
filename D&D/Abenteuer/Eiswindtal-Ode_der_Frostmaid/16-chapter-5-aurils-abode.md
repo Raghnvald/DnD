@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Auril's Abode"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Auril's Abode"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Chapter 5: Auril's Abode"
-  - Chapter 5: Auril's Abode
 ---
 # Chapter 5: Auril's Abode
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 197* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Defensive Duelist
+Status: WIP
 linter-yaml-title-alias: Defensive Duelist
 tags:
   - Kompendium/Talent

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Withers
+Status: WIP
 linter-yaml-title-alias: Withers
 tags:
   - Monster/Größe/Mittelgroß

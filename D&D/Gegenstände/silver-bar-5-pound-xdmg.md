@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Silver Bar (5-pound)
+Status: WIP
 linter-yaml-title-alias: Silver Bar (5-pound)
 tags:
-  - Gegenstand/Ausrüstung/trade-bar
+  - Gegenstand/Ausrüstung/Handelsbarren
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

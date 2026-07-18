@@ -6,14 +6,17 @@ Eigenschaften:
   - Vielseitig (1W8)
 Kst.: 4.000 GM
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Staff of Healing
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
   - Staff of Healing
+status: WIP
+Original: Staff of Healing
 ---
 # Staff of Healing
 *Zauberstecken, sehr selten (erfordert Einstimmung durch einen Barden, Druiden oder Kleriker)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Emerald Pen
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Emerald Pen
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Barnibus Blastwind
+Status: WIP
 linter-yaml-title-alias: Barnibus Blastwind
 tags:
   - Monster/Größe/Mittelgroß

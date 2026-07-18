@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Action
+Status: WIP
 linter-yaml-title-alias: Action
 tags:
   - Quelle/5e/xphb

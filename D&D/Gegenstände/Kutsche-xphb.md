@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Carriage
 Kst.: 100 GM
+Status: WIP
 linter-yaml-title-alias: Carriage
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

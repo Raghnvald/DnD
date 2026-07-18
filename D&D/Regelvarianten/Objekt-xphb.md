@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Object
+Status: WIP
 linter-yaml-title-alias: Object
 tags:
   - Quelle/5e/xphb

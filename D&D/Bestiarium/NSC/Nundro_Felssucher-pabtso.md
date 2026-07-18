@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 0
 Habitat:
   - /
-image: token/nundro-rockseeker-pabtso.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Nundro Rockseeker
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Nundro Rockseeker
+image: token/nundro-rockseeker-pabtso.webp
+status: completed
 ---
 # Nundro Rockseeker
 *Source: Phandelver and Below: The Shattered Obelisk p. 73*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Unverwundbarkeit
+Status: WIP
 linter-yaml-title-alias: Gabe der Unverwundbarkeit
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Invincibility

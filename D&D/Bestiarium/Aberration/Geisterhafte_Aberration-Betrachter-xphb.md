@@ -4,10 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Aberrant Spirit (Beholderkin)
 Kategorie: Aberration
 Größe: Mittelgroß
-HG: /
+HG: n/v
 Habitat:
-  - /
-status: WIP
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Aberrant Spirit (Beholderkin)
 tags:
   - Monster/Größe/Mittelgroß

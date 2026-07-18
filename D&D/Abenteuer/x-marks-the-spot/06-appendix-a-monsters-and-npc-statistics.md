@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Monsters and NPC Statistics"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Monsters and NPC Statistics"
 tags:
   - Quelle/5e/xmts

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Fertigkeitsexpert
-linter-yaml-title-alias: Skill Expert
+Status: WIP
+linter-yaml-title-alias: Fertigkeitsexpert
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce
 aliases:
-  - Skill Expert
+  - Fertigkeitsexpert
 ---
 # Fertigkeitsexpert
 *Source: Tasha's Cauldron of Everything p. 79* 

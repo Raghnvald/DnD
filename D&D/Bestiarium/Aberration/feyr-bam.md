@@ -5,7 +5,7 @@ Bezeichnung: Feyr
 Kategorie: Aberration
 Größe: Groß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Feyr
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/bam
 aliases:
   - Feyr
+status: WIP
 ---
 # [Feyr](3-Mechanics\CLI\bestiary\aberration/feyr-bam.md)
 *Source: Boo's Astral Menagerie p. 22, The Book of Many Things*  

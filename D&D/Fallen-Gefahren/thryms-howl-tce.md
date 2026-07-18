@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Thrym's Howl"
+Status: WIP
 linter-yaml-title-alias: "Thrym's Howl"
 tags:
   - Kompendium/Bedrohung/est
   - Quelle/5e/tce
 aliases:
   - "Thrym's Howl"
-  - Thrym's Howl
 ---
 # Thrym's Howl
 *Eldritch Storm*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Othokent
+Status: WIP
 linter-yaml-title-alias: Othokent
 tags:
   - Monster/Größe/Mittelgroß

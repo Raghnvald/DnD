@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maw of Yeenoghu
+Status: WIP
 linter-yaml-title-alias: Maw of Yeenoghu
 tags:
   - Monster/Größe/Riesig

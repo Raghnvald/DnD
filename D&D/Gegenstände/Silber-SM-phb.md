@@ -2,18 +2,19 @@
 Bezeichnung: Silber (SM)
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Silber (SM)
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Silber (SM)
   - Silver (sp)
+status: WIP
 ---
 # Silber (SM)
 *Schatz (Münzwerte)*  

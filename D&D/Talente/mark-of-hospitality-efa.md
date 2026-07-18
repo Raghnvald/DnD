@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Hospitality
+Status: WIP
 linter-yaml-title-alias: Mark of Hospitality
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Hospitality"
+  - Mark of Hospitality
   - Mark of Hospitality
 ---
 # Mark of Hospitality

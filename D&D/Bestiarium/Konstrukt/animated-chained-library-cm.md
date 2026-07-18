@@ -7,7 +7,7 @@ Größe: Groß
 HG: "1"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Chained Library
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Animated Chained Library
+status: WIP
 ---
 # [Animated Chained Library](3-Mechanics\CLI\bestiary\construct/animated-chained-library-cm.md)
 *Source: Candlekeep Mysteries p. 24*  

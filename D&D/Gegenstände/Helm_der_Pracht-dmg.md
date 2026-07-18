@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Helm of Brilliance
+Status: WIP
 linter-yaml-title-alias: Helm of Brilliance
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:

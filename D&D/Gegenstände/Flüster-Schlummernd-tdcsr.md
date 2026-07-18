@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Whisper (Dormant)
-Kategorie: Einfache Nahkampfwaffe
+Original: Whisper (Dormant)
+Kategorie: Nahkampfwaffe, einfach
+Status: WIP
 linter-yaml-title-alias: Whisper (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

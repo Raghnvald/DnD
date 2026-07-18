@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Boccob
+Status: WIP
 linter-yaml-title-alias: Boccob
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Boccob

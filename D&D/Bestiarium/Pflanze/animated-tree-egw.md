@@ -7,7 +7,7 @@ Größe: Riesig
 HG: "9"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Tree
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Animated Tree
+status: WIP
 ---
 # [Animated Tree](3-Mechanics\CLI\bestiary\plant/animated-tree-egw.md)
 *Source: Explorer's Guide to Wildemount p. 130*  

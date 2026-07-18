@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Githyanki
+Status: WIP
 linter-yaml-title-alias: Spells for Githyanki
 tags:
-  - Zauber/list/race/githyanki
+  - Zauber/Liste/race/githyanki
 aliases:
   - Spells for Githyanki
 ---

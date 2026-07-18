@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Items
+Status: WIP
 linter-yaml-title-alias: Boros Items
 tags:
   - Quelle/5e/ggr

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Keeper
+Status: WIP
 linter-yaml-title-alias: The Keeper
 tags:
   - Monster/Größe/Riesig

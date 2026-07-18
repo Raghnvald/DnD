@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Divine Soul
+Status: WIP
 linter-yaml-title-alias: Spells for Divine Soul
 tags:
-  - Zauber/list/subclass/divine-soul
+  - Zauber/Liste/subclass/divine-soul
 aliases:
   - Spells for Divine Soul
 ---

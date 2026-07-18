@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Gaseous Form
+Status: WIP
 linter-yaml-title-alias: Potion of Gaseous Form
 tags:
   - Gegenstand/Seltenheit/selten

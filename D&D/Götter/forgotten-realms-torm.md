@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Torm
+Status: WIP
 linter-yaml-title-alias: Torm
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

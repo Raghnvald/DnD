@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystra, Göttin der Magie
+Status: WIP
 linter-yaml-title-alias: Mystra, Göttin der Magie
 tags:
   - Kompendium/Götter

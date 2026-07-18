@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Laserpistole
-Kategorie: Fernkampf-Kriegswaffe
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Laserpistole
 tags:
   - Gegenstand/Seltenheit/keine
@@ -10,6 +11,8 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Laserpistole
+status: WIP
+Original: Laser Pistol
 ---
 # Laserpistole
 *Weapon*  

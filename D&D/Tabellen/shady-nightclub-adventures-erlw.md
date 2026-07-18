@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shady Nightclub Adventures
+Status: WIP
 linter-yaml-title-alias: Shady Nightclub Adventures
 tags:
   - Quelle/5e/erlw

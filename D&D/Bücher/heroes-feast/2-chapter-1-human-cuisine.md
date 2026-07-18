@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Human Cuisine"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Human Cuisine"
 tags:
   - Quelle/5e/hf

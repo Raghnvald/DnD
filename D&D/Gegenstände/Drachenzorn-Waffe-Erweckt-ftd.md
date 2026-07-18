@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Wakened Dragon's Wrath Weapon"
+Status: WIP
 linter-yaml-title-alias: "Wakened Dragon's Wrath Weapon"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -13,59 +14,58 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/ftd
 aliases:
+  - "Wakened Dragon's Wrath Antimatter Rifle"
+  - "Wakened Dragon's Wrath Automatic Rifle"
+  - "Wakened Dragon's Wrath Battleaxe"
+  - "Wakened Dragon's Wrath Blowgun"
+  - "Wakened Dragon's Wrath Club"
+  - "Wakened Dragon's Wrath Dagger"
+  - "Wakened Dragon's Wrath Dart"
+  - "Wakened Dragon's Wrath Double-Bladed Scimitar"
+  - "Wakened Dragon's Wrath Flail"
+  - "Wakened Dragon's Wrath Glaive"
+  - "Wakened Dragon's Wrath Greataxe"
+  - "Wakened Dragon's Wrath Greatclub"
+  - "Wakened Dragon's Wrath Greatsword"
+  - "Wakened Dragon's Wrath Halberd"
+  - "Wakened Dragon's Wrath Hand Crossbow"
+  - "Wakened Dragon's Wrath Handaxe"
+  - "Wakened Dragon's Wrath Heavy Crossbow"
+  - "Wakened Dragon's Wrath Hooked Shortspear"
+  - "Wakened Dragon's Wrath Hoopak"
+  - "Wakened Dragon's Wrath Hunting Rifle"
+  - "Wakened Dragon's Wrath Javelin"
+  - "Wakened Dragon's Wrath Lance"
+  - "Wakened Dragon's Wrath Laser Pistol"
+  - "Wakened Dragon's Wrath Laser Rifle"
+  - "Wakened Dragon's Wrath Light Crossbow"
+  - "Wakened Dragon's Wrath Light Hammer"
+  - "Wakened Dragon's Wrath Light Repeating Crossbow"
+  - "Wakened Dragon's Wrath Longbow"
+  - "Wakened Dragon's Wrath Longsword"
+  - "Wakened Dragon's Wrath Mace"
+  - "Wakened Dragon's Wrath Maul"
+  - "Wakened Dragon's Wrath Morningstar"
+  - "Wakened Dragon's Wrath Musket"
+  - "Wakened Dragon's Wrath Pike"
+  - "Wakened Dragon's Wrath Pistol"
+  - "Wakened Dragon's Wrath Quarterstaff"
+  - "Wakened Dragon's Wrath Rapier"
+  - "Wakened Dragon's Wrath Revolver"
+  - "Wakened Dragon's Wrath Scimitar"
+  - "Wakened Dragon's Wrath Semiautomatic Pistol"
+  - "Wakened Dragon's Wrath Shortbow"
+  - "Wakened Dragon's Wrath Shortsword"
+  - "Wakened Dragon's Wrath Shotgun"
+  - "Wakened Dragon's Wrath Sickle"
+  - "Wakened Dragon's Wrath Sling"
+  - "Wakened Dragon's Wrath Spear"
+  - "Wakened Dragon's Wrath Trident"
+  - "Wakened Dragon's Wrath War Pick"
+  - "Wakened Dragon's Wrath Warhammer"
   - "Wakened Dragon's Wrath Weapon"
-  - Wakened Dragon's Wrath Antimatter Rifle
-  - Wakened Dragon's Wrath Automatic Rifle
-  - Wakened Dragon's Wrath Battleaxe
-  - Wakened Dragon's Wrath Blowgun
-  - Wakened Dragon's Wrath Club
-  - Wakened Dragon's Wrath Dagger
-  - Wakened Dragon's Wrath Dart
-  - Wakened Dragon's Wrath Double-Bladed Scimitar
-  - Wakened Dragon's Wrath Flail
-  - Wakened Dragon's Wrath Glaive
-  - Wakened Dragon's Wrath Greataxe
-  - Wakened Dragon's Wrath Greatclub
-  - Wakened Dragon's Wrath Greatsword
-  - Wakened Dragon's Wrath Halberd
-  - Wakened Dragon's Wrath Hand Crossbow
-  - Wakened Dragon's Wrath Handaxe
-  - Wakened Dragon's Wrath Heavy Crossbow
-  - Wakened Dragon's Wrath Hooked Shortspear
-  - Wakened Dragon's Wrath Hoopak
-  - Wakened Dragon's Wrath Hunting Rifle
-  - Wakened Dragon's Wrath Javelin
-  - Wakened Dragon's Wrath Lance
-  - Wakened Dragon's Wrath Laser Pistol
-  - Wakened Dragon's Wrath Laser Rifle
-  - Wakened Dragon's Wrath Light Crossbow
-  - Wakened Dragon's Wrath Light Hammer
-  - Wakened Dragon's Wrath Light Repeating Crossbow
-  - Wakened Dragon's Wrath Longbow
-  - Wakened Dragon's Wrath Longsword
-  - Wakened Dragon's Wrath Mace
-  - Wakened Dragon's Wrath Maul
-  - Wakened Dragon's Wrath Morningstar
-  - Wakened Dragon's Wrath Musket
-  - Wakened Dragon's Wrath Pike
-  - Wakened Dragon's Wrath Pistol
-  - Wakened Dragon's Wrath Quarterstaff
-  - Wakened Dragon's Wrath Rapier
-  - Wakened Dragon's Wrath Revolver
-  - Wakened Dragon's Wrath Scimitar
-  - Wakened Dragon's Wrath Semiautomatic Pistol
-  - Wakened Dragon's Wrath Shortbow
-  - Wakened Dragon's Wrath Shortsword
-  - Wakened Dragon's Wrath Shotgun
-  - Wakened Dragon's Wrath Sickle
-  - Wakened Dragon's Wrath Sling
-  - Wakened Dragon's Wrath Spear
-  - Wakened Dragon's Wrath Trident
-  - Wakened Dragon's Wrath War Pick
-  - Wakened Dragon's Wrath Warhammer
-  - Wakened Dragon's Wrath Weapon
-  - Wakened Dragon's Wrath Whip
-  - Wakened Dragon's Wrath Yklwa
+  - "Wakened Dragon's Wrath Whip"
+  - "Wakened Dragon's Wrath Yklwa"
 ---
 # Wakened Dragon's Wrath Weapon
 *Very rare (requires attunement)*  

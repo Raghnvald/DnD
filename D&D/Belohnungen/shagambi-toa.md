@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shagambi
+Status: WIP
 linter-yaml-title-alias: Shagambi
 tags:
   - Kompendium/Belohnung/inhabitation

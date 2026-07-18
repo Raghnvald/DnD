@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Takhisis
+Status: WIP
 linter-yaml-title-alias: Takhisis
 tags:
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

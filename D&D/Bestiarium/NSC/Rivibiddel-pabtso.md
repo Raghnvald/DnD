@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rivibiddel
 Image: token/rivibiddel-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Rivibiddel
 tags:
   - Monster/Größe/Klein

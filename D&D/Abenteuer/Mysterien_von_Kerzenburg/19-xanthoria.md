@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Xanthoria
+Status: WIP
 linter-yaml-title-alias: Xanthoria
 tags:
   - Quelle/5e/cm

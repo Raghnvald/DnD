@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Purple Dragon Commandant
+Status: WIP
 linter-yaml-title-alias: Purple Dragon Commandant
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Purple Dragon Commandant"
+  - Purple Dragon Commandant
   - Purple Dragon Commandant
 ---
 # Purple Dragon Commandant

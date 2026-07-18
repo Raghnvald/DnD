@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sinensa
+Status: WIP
 linter-yaml-title-alias: Sinensa
 tags:
   - Monster/Größe/Groß

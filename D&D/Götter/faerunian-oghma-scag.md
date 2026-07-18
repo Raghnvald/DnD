@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Oghma
+Status: WIP
 linter-yaml-title-alias: Oghma
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Oghma

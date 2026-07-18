@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Fulminating Treatise
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Fulminating Treatise
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:

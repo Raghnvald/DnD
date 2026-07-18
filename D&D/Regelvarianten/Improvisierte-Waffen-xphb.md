@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Improvised Weapons
+Status: WIP
 linter-yaml-title-alias: Improvised Weapons
 tags:
   - Quelle/5e/xphb

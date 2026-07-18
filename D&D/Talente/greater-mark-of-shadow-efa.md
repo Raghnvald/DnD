@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Shadow
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Shadow
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Shadow"
+  - Greater Mark of Shadow
   - Greater Mark of Shadow
 ---
 # Greater Mark of Shadow

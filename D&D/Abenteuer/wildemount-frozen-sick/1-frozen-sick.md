@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Frozen Sick
+Status: WIP
 linter-yaml-title-alias: Frozen Sick
 tags:
   - Quelle/5e/fs

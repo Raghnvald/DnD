@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Lunitari
+Status: WIP
 linter-yaml-title-alias: Lunitari
 tags:
-  - Kompendium/Götter/Domäne/arcana
+  - Kompendium/Götter/Domäne/Arkan
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

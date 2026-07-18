@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Umber Hulk
+Status: WIP
 linter-yaml-title-alias: Umber Hulk
 tags:
   - Monster/Größe/Groß

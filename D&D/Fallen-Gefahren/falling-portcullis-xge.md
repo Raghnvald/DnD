@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Falling Portcullis
+Status: WIP
 linter-yaml-title-alias: Falling Portcullis
 tags:
   - Kompendium/Bedrohung/smpl

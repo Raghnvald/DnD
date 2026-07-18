@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Menthis Plateau: Important Districts"
+Status: WIP
 linter-yaml-title-alias: "Menthis Plateau: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Menthis Plateau: Important Districts"
-  - Menthis Plateau: Important Districts
 ---
 # Menthis Plateau: Important Districts
 *Source: Eberron: Rising from the Last War p. 162* 

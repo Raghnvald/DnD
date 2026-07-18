@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Automatic Ballista
+Status: WIP
 linter-yaml-title-alias: Automatic Ballista
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/hbtd
 aliases:
-  - "Automatic Ballista"
+  - Automatic Ballista
   - Automatic Ballista
 ---
 # Automatic Ballista

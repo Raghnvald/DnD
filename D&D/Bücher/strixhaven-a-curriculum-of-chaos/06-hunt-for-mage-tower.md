@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Hunt for Mage Tower
+Status: WIP
 linter-yaml-title-alias: Hunt for Mage Tower
 tags:
   - Quelle/5e/scc
 aliases:
-  - "Hunt for Mage Tower"
+  - Hunt for Mage Tower
   - Hunt for Mage Tower
 ---
 # Hunt for Mage Tower

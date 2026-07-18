@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Revelry Pirate (Sailor)
+Status: WIP
 linter-yaml-title-alias: Revelry Pirate (Sailor)
 tags:
   - Kompendium/Hintergrund

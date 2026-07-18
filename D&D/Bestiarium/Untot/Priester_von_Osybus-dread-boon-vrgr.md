@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus (Dread Boon)
+Status: WIP
 linter-yaml-title-alias: Priest of Osybus (Dread Boon)
 tags:
   - Monster/Größe/Mittelgroß

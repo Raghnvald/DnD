@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Meister der Kampfkunst
-linter-yaml-title-alias: Martial Adept
+Status: WIP
+linter-yaml-title-alias: Meister der Kampfkunst
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Martial Adept
+  - Meister der Kampfkunst
 ---
 # Meister der Kampfkunst
 *Source: Player's Handbook p. 168*  

@@ -8,7 +8,7 @@ HG: 0
 Habitat:
   - Stadt
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Cranium Rat
 tags:
   - Monster/Größe/Winzig
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Cranium Rat
+status: WIP
 ---
 # [Cranium Rat](3-Mechanics\CLI\bestiary\aberration/cranium-rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  

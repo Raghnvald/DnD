@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Boss
+Status: WIP
 linter-yaml-title-alias: Goblin Boss
 tags:
   - Monster/Größe/Klein

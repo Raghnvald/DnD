@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc
+Status: WIP
 linter-yaml-title-alias: Orc
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Beast Sense
+Bezeichnung: Tiersinn
 Zaubergrad: 2
-linter-yaml-title-alias: Beast Sense
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Tiersinn
 classes:
   - Barbarian (Path of the Totem Warrior)
   - Bard (Magical Secrets)
@@ -17,9 +19,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Beast Sense
+  - Tiersinn
 ---
-# Beast Sense
+# Tiersinn
 *2nd-level, Divination (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

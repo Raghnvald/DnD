@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riesenskelett
+Status: WIP
 linter-yaml-title-alias: Riesenskelett
 tags:
   - Monster/Größe/Riesig

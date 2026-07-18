@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Ordning; Stone Giant Artistry
+Status: WIP
 linter-yaml-title-alias: The Ordning; Stone Giant Artistry
 tags:
   - Quelle/5e/bgg

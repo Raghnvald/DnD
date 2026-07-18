@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pets; Beholder Greater Minions
+Status: WIP
 linter-yaml-title-alias: Pets; Beholder Greater Minions
 tags:
   - Quelle/5e/vgm

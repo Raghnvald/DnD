@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kammern; Kammer
+Status: WIP
 linter-yaml-title-alias: Kammern; Kammer
 tags:
   - Quelle/5e/dmg

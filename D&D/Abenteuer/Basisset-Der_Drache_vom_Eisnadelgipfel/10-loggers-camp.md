@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Loggers' Camp"
+Status: WIP
 linter-yaml-title-alias: "Loggers' Camp"
 tags:
   - Quelle/5e/dip
 aliases:
   - "Loggers' Camp"
-  - Loggers' Camp
 ---
 # Loggers' Camp
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 34* 

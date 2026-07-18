@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Shadow Dragon Connections
+Status: WIP
 linter-yaml-title-alias: Connected Creatures; Adult Shadow Dragon Connections
 tags:
   - Quelle/5e/ftd

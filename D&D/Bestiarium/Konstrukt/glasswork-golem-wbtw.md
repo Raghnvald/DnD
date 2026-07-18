@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Glasswork Golem
+Status: WIP
 linter-yaml-title-alias: Glasswork Golem
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/construct
+  - Monster/HG/2
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Konstrukt
 aliases:
-  - "Glasswork Golem"
+  - Glasswork Golem
   - Glasswork Golem
 ---
 # [Glasswork Golem](3-Mechanics/CLI/bestiary/construct/glasswork-golem-wbtw.md)

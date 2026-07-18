@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boss Assignments
+Status: WIP
 linter-yaml-title-alias: Boss Assignments
 tags:
   - Quelle/5e/bgg

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Circle of the Moon
+Status: WIP
 linter-yaml-title-alias: Spells for Circle of the Moon
 tags:
-  - Zauber/list/subclass/circle-of-the-moon
+  - Zauber/Liste/subclass/circle-of-the-moon
 aliases:
   - Spells for Circle of the Moon
 ---

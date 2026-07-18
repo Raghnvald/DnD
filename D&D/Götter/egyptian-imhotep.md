@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Imhotep
+Status: WIP
 linter-yaml-title-alias: Imhotep
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

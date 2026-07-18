@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Urwin Martikov
+Status: WIP
 linter-yaml-title-alias: Urwin Martikov
 tags:
   - Monster/Größe/Mittelgroß

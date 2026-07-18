@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Knowledge Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Knowledge Domain
 tags:
-  - Zauber/list/subclass/knowledge-domain
+  - Zauber/Liste/subclass/knowledge-domain
 aliases:
   - Spells for Knowledge Domain
 ---

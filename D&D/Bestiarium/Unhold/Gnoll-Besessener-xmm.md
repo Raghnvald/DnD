@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Demoniac
+Status: WIP
 linter-yaml-title-alias: Gnoll Demoniac
 tags:
   - Monster/Größe/Mittelgroß

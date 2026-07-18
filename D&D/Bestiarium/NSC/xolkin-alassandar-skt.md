@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xolkin Alassandar
+Status: WIP
 linter-yaml-title-alias: Xolkin Alassandar
 tags:
   - Monster/Größe/Mittelgroß

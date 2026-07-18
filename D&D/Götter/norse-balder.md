@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Balder
+Status: WIP
 linter-yaml-title-alias: Balder
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

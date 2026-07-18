@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Friends and Foes
+Status: WIP
 linter-yaml-title-alias: Friends and Foes
 tags:
   - Quelle/5e/scc
 aliases:
-  - "Friends and Foes"
+  - Friends and Foes
   - Friends and Foes
 ---
 # Friends and Foes

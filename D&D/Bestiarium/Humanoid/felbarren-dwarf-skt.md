@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Felbarren Dwarf
+Status: WIP
 linter-yaml-title-alias: Felbarren Dwarf
 tags:
   - Monster/Größe/Mittelgroß

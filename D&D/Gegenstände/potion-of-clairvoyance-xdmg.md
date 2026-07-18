@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Clairvoyance
+Status: WIP
 linter-yaml-title-alias: Potion of Clairvoyance
 tags:
   - Gegenstand/Seltenheit/selten

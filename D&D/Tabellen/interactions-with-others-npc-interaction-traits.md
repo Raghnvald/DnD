@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Interactions with Others; NPC Interaction Traits
+Status: WIP
 linter-yaml-title-alias: Interactions with Others; NPC Interaction Traits
 tags:
   - Quelle/5e/dmg

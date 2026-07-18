@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clasp Enforcer
+Status: WIP
 linter-yaml-title-alias: Clasp Enforcer
 tags:
   - Monster/Größe/Mittelgroß

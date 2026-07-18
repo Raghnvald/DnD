@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kamadan
+Status: WIP
 linter-yaml-title-alias: Kamadan
 tags:
   - Monster/Größe/Groß

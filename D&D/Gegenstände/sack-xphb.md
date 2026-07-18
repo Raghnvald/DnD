@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sack
+Status: WIP
 linter-yaml-title-alias: Sack
 tags:
   - Gegenstand/Ausrüstung/

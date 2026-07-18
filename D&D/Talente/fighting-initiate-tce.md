@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Initiate
+Status: WIP
 linter-yaml-title-alias: Fighting Initiate
 tags:
   - Kompendium/Talent

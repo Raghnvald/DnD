@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Minotaur of Baphomet
+Status: WIP
 linter-yaml-title-alias: Minotaur of Baphomet
 tags:
   - Monster/Größe/Groß

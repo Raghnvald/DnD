@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Religious Order Types
+Status: WIP
 linter-yaml-title-alias: Religious Order Types
 tags:
   - Quelle/5e/tce

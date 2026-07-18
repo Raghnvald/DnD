@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Sniper
+Status: WIP
 linter-yaml-title-alias: Spell Sniper
 tags:
   - Kompendium/Talent

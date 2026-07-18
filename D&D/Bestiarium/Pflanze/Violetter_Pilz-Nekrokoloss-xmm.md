@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Violet Fungus Necrohulk
+Status: WIP
 linter-yaml-title-alias: Violet Fungus Necrohulk
 tags:
   - Monster/Größe/Groß

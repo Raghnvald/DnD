@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Tharizdun
+Status: WIP
 linter-yaml-title-alias: Tharizdun
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Tharizdun

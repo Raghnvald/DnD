@@ -7,8 +7,7 @@ Größe: Groß
 HG: 11
 Habitat:
   - /
-image: token/shanzezim-veor.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Shanzezim
 tags:
   - Monster/Größe/Groß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Shanzezim
+image: token/shanzezim-veor.webp
+status: completed
 ---
 # Shanzezim
 *Quelle: Vecna: Vorabend der Verdammnis*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Xarrorn
+Status: WIP
 linter-yaml-title-alias: Duergar Xarrorn
 tags:
   - Monster/Größe/Mittelgroß

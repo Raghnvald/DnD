@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clan Crafter
+Status: WIP
 linter-yaml-title-alias: Clan Crafter
 tags:
   - Kompendium/Hintergrund

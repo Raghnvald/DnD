@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Genasi (Water)
+Status: WIP
 linter-yaml-title-alias: Genasi (Water)
 tags:
   - Quelle/5e/mpmm

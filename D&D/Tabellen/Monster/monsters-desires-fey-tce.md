@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Fey"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Fey"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Fey"
-  - Monsters' Desires; Fey
 ---
 # Monsters' Desires; Fey
 *Source: Tasha's Cauldron of Everything p. 148* 

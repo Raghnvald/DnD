@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Loadstone
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Loadstone
 tags:
   - Gegenstand/Seltenheit/selten

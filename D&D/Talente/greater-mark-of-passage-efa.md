@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Passage
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Passage
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Passage"
+  - Greater Mark of Passage
   - Greater Mark of Passage
 ---
 # Greater Mark of Passage

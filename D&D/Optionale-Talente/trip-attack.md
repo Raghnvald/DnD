@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trip Attack
+Status: WIP
 linter-yaml-title-alias: Trip Attack
 tags:
   - Kompendium/Optionales/mv-b

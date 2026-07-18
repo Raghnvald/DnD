@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chief Guh
+Status: WIP
 linter-yaml-title-alias: Chief Guh
 tags:
   - Monster/Größe/Riesig

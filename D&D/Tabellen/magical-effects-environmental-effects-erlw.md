@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magical Effects; Environmental Effects
+Status: WIP
 linter-yaml-title-alias: Magical Effects; Environmental Effects
 tags:
   - Quelle/5e/erlw

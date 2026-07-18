@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Adventuring Day; Adventuring Day XP
+Status: WIP
 linter-yaml-title-alias: The Adventuring Day; Adventuring Day XP
 tags:
   - Quelle/5e/dmg

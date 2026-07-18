@@ -2,16 +2,18 @@
 Bezeichnung: "Sage's Signet"
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung durch einen Zauberwirker
-status: WIP
+  - n/v
+Einstimmung: durch einen Zauberwirker
+Status: WIP
 linter-yaml-title-alias: "Sage's Signet"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet"
+status: WIP
 ---
 # Sage's Signet
 *Ring (requires attunement by a spellcaster)*  

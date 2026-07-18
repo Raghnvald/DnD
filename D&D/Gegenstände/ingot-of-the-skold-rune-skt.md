@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ingot of the Skold Rune
+Status: WIP
 linter-yaml-title-alias: Ingot of the Skold Rune
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/skt
 aliases:

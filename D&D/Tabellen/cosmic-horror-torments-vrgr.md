@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cosmic Horror Torments
+Status: WIP
 linter-yaml-title-alias: Cosmic Horror Torments
 tags:
   - Quelle/5e/vrgr

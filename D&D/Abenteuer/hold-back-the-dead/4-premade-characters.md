@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Premade Characters
+Status: WIP
 linter-yaml-title-alias: Premade Characters
 tags:
   - Quelle/5e/hbtd
 aliases:
-  - "Premade Characters"
+  - Premade Characters
   - Premade Characters
 ---
 # Premade Characters

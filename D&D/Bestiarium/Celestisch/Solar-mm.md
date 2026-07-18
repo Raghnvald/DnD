@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Solar
+Status: WIP
 linter-yaml-title-alias: Solar
 tags:
   - Monster/Größe/Groß

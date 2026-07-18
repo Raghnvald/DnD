@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Leichtfüssig
-linter-yaml-title-alias: Mobile
+Status: WIP
+linter-yaml-title-alias: Leichtfüssig
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Mobile
+  - Leichtfüssig
 ---
 # Leichtfüssig
 *Source: Player's Handbook p. 168*  

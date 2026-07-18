@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Infernal Tack
+Status: WIP
 linter-yaml-title-alias: Infernal Tack
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/mtf
 aliases:

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Helm
+Status: WIP
 linter-yaml-title-alias: Helm
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Dämmerung
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

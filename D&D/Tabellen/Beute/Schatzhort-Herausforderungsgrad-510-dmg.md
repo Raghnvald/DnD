@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Schatzhort: Herausforderungsgrad 5 - 10"
+Status: WIP
 linter-yaml-title-alias: "Schatzhort: Herausforderungsgrad 5 - 10"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Schatzhort: Herausforderungsgrad 5 - 10"
-  - Treasure Hoard: Challenge 5—10
+  - "Treasure Hoard: Challenge 5—10"
 ---
 # Schatzhort: Herausforderungsgrad 5 - 10
 *Quelle: Spielleiterhandbuch, S. 133* 

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Divinely Favored
+Status: WIP
 linter-yaml-title-alias: Divinely Favored
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
-  - "Divinely Favored"
+  - Divinely Favored
   - Divinely Favored
 ---
 # Divinely Favored

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sahuagin
+Status: WIP
 linter-yaml-title-alias: Sahuagin
 tags:
   - Monster/Größe/Mittelgroß

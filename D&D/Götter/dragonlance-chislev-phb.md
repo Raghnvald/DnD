@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Chislev
+Status: WIP
 linter-yaml-title-alias: Chislev
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

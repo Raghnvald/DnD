@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fisher
+Status: WIP
 linter-yaml-title-alias: Fisher
 tags:
   - Kompendium/Hintergrund

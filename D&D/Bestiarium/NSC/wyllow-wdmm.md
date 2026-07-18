@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wyllow
+Status: WIP
 linter-yaml-title-alias: Wyllow
 tags:
   - Monster/Größe/Mittelgroß

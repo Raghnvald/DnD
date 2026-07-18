@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boss Augustus
+Status: WIP
 linter-yaml-title-alias: Boss Augustus
 tags:
   - Monster/Größe/Mittelgroß

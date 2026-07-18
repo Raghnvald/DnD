@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vistana Assassin
+Status: WIP
 linter-yaml-title-alias: Vistana Assassin
 tags:
   - Monster/Größe/Mittelgroß

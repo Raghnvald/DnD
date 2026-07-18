@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Philter of Love
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Philter of Love
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

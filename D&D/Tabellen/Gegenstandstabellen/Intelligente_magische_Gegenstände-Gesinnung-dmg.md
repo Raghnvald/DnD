@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Intelligente magische Gegenstände; Gesinnung
+Status: WIP
 linter-yaml-title-alias: Intelligente magische Gegenstände; Gesinnung
 tags:
   - Quelle/5e/dmg

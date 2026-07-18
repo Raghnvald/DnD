@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quicksand
+Status: WIP
 linter-yaml-title-alias: Quicksand
 tags:
   - Kompendium/Bedrohung/wld

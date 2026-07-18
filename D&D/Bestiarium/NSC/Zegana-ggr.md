@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zegana
+Status: WIP
 linter-yaml-title-alias: Zegana
 tags:
   - Monster/Größe/Mittelgroß

@@ -5,7 +5,7 @@ Bezeichnung: Skum
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Skum
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Skum
+status: WIP
 ---
 # [Skum](3-Mechanics\CLI\bestiary\aberration/skum-gos.md)
 *Source: Ghosts of Saltmarsh p. 254*  

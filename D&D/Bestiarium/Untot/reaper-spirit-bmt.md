@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reaper Spirit
+Status: WIP
 linter-yaml-title-alias: Reaper Spirit
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,10 +2,10 @@
 Bezeichnung: Satz Würfel
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Satz Würfel
 tags:
   - Gegenstand/Ausrüstung/Spielset

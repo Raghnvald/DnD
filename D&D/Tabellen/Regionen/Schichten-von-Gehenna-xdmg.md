@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Gehenna
+Status: WIP
 linter-yaml-title-alias: Layers of Gehenna
 tags:
   - Quelle/5e/xdmg

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Puzzle"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Puzzle"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 4: Puzzle"
-  - Chapter 4: Puzzle
 ---
 # Chapter 4: Puzzle
 *Source: The Book of Many Things, p. 24* 

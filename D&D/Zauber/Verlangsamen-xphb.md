@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Slow
+Status: WIP
 linter-yaml-title-alias: Slow
 classes:
   - Bard

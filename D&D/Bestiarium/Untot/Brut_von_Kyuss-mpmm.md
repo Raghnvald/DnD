@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spawn of Kyuss
+Status: WIP
 linter-yaml-title-alias: Spawn of Kyuss
 tags:
   - Monster/Größe/Mittelgroß

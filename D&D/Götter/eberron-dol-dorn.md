@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dol Dorn
+Status: WIP
 linter-yaml-title-alias: Dol Dorn
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

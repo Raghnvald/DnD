@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Linking Hoards; Hoard Linking Items
+Status: WIP
 linter-yaml-title-alias: Linking Hoards; Hoard Linking Items
 tags:
   - Quelle/5e/ftd

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hengar Aesnvaard
+Status: WIP
 linter-yaml-title-alias: Hengar Aesnvaard
 tags:
   - Monster/Größe/Mittelgroß

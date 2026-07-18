@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fomorian Encounters
+Status: WIP
 linter-yaml-title-alias: Fomorian Encounters
 tags:
   - Quelle/5e/bgg

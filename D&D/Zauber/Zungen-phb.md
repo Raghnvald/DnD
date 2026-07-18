@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Tongues
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Tongues
 classes:
   - Bard (Magical Secrets)

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gammon Xungoon
+Status: WIP
 linter-yaml-title-alias: Gammon Xungoon
 tags:
   - Monster/Größe/Mittelgroß

@@ -7,7 +7,7 @@ Größe: Winzig
 HG: 1
 Habitat:
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Faerie Dragon Youth
 tags:
   - Monster/Größe/Winzig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Faerie Dragon Youth
+status: WIP
 ---
 # [Faerie Dragon Youth](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-youth-xmm.md)
 *Source: Monster Manual (2024) p. 117*  

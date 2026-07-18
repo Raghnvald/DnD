@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Vampire's Plaything"
+Status: WIP
 linter-yaml-title-alias: "Vampire's Plaything"
 tags:
   - Kompendium/Talent

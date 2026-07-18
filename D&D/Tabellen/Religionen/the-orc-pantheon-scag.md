@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Orc Pantheon
+Status: WIP
 linter-yaml-title-alias: The Orc Pantheon
 tags:
   - Quelle/5e/scag

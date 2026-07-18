@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Galley
+Status: WIP
 linter-yaml-title-alias: Galley
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

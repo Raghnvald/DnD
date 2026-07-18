@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shalvus Martholio
+Status: WIP
 linter-yaml-title-alias: Shalvus Martholio
 tags:
   - Monster/Größe/Mittelgroß

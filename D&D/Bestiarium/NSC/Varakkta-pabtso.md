@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Varakkta
 Image: token/varakkta-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Varakkta
 tags:
   - Monster/Größe/Mittelgroß

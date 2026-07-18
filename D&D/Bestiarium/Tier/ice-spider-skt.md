@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ice Spider
+Status: WIP
 linter-yaml-title-alias: Ice Spider
 tags:
   - Monster/Größe/Groß

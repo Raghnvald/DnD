@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ioun
+Status: WIP
 linter-yaml-title-alias: Ioun
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Quelle/5e/dmg
 aliases:
   - Ioun

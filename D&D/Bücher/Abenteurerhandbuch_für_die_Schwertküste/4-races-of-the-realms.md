@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Races of the Realms
+Status: WIP
 linter-yaml-title-alias: Races of the Realms
 tags:
   - Quelle/5e/scag

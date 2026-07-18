@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Outlander"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Outlander"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Outlander"
-  - Baldur's Gate Outlander
 ---
 # Baldur's Gate Outlander
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 136*  

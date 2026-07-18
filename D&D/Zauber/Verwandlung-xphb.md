@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Polymorph
+Status: WIP
 linter-yaml-title-alias: Polymorph
 classes:
   - Bard

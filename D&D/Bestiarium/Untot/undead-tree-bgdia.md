@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undead Tree
+Status: WIP
 linter-yaml-title-alias: Undead Tree
 tags:
   - Monster/Größe/Riesig

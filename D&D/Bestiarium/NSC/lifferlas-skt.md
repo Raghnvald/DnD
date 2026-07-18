@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lifferlas
+Status: WIP
 linter-yaml-title-alias: Lifferlas
 tags:
   - Monster/Größe/Riesig

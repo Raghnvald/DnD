@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre Skeleton
+Status: WIP
 linter-yaml-title-alias: Ogre Skeleton
 tags:
   - Monster/Größe/Groß

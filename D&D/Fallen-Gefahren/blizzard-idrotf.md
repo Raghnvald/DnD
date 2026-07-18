@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blizzard
+Status: WIP
 linter-yaml-title-alias: Blizzard
 tags:
   - Kompendium/Bedrohung/wth

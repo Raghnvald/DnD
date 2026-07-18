@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trap Effects; Trap Save DCs and Attack Bonuses
+Status: WIP
 linter-yaml-title-alias: Trap Effects; Trap Save DCs and Attack Bonuses
 tags:
   - Quelle/5e/dmg

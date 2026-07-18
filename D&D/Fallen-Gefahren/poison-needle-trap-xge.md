@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poison Needle Trap
+Status: WIP
 linter-yaml-title-alias: Poison Needle Trap
 tags:
   - Kompendium/Bedrohung/smpl

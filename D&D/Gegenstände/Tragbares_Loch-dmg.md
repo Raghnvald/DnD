@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Portable Hole
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Portable Hole
 tags:
   - Gegenstand/Seltenheit/selten

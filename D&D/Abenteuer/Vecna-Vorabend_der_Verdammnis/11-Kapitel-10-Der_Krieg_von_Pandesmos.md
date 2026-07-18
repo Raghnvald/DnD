@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 10: The War of Pandesmos"
+Status: WIP
 linter-yaml-title-alias: "Chapter 10: The War of Pandesmos"
 tags:
   - Quelle/5e/veor
 aliases:
   - "Chapter 10: The War of Pandesmos"
-  - Chapter 10: The War of Pandesmos
 ---
 # Chapter 10: The War of Pandesmos
 *Source: Vecna: Eve of Ruin* 

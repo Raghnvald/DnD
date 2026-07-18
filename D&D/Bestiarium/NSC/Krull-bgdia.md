@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Krull
+Status: WIP
 linter-yaml-title-alias: Krull
 tags:
   - Monster/Größe/Mittelgroß

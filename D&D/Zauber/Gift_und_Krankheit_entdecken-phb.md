@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Detect Poison and Disease
+Bezeichnung: Gift und Krankheit entdecken
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Detect Poison and Disease
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Gift und Krankheit entdecken
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -20,17 +21,17 @@ tags:
   - Klasse/Kleriker
   - Klasse/paladin
   - Klasse/Waldläufer
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/ritual-caster/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Ritualwirker/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Detect Poison and Disease
+  - Gift und Krankheit entdecken
 ---
-# Detect Poison and Disease
+# Gift und Krankheit entdecken
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bejeweled ivory drinking horn with gold filigree
+Status: WIP
 linter-yaml-title-alias: Bejeweled ivory drinking horn with gold filigree
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

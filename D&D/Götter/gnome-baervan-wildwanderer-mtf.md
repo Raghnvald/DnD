@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Baervan Wildwanderer
+Status: WIP
 linter-yaml-title-alias: Baervan Wildwanderer
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

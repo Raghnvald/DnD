@@ -2,8 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Degloth
+Kategorie: Unhold (Dämon)
+Größe: Groß
+HG: "11"
+Habitat:
+  - /
 Image: token/degloth-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Degloth
 tags:
   - Monster/Größe/Groß
@@ -12,12 +17,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Degloth
-Kategorie: Unhold (Dämon)
-Größe: Groß
-HG: "11"
-Habitat:
-  - /
 IMAGE:
+status: WIP
 ---
 # [Degloth](3-Mechanics\CLI\bestiary\fiend/degloth-veor.md)
 *Source: Vecna: Eve of Ruin p. 218*  

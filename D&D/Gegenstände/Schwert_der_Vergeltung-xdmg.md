@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Sword of Vengeance
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+Status: WIP
 linter-yaml-title-alias: Sword of Vengeance
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf

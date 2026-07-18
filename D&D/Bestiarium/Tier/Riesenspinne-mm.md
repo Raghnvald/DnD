@@ -3,11 +3,10 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riesenspinne
-Kategorie: Bestie
+Kategorie: Tier
 Größe:
 HG:
-image:
-status:
+Status: WIP
 linter-yaml-title-alias: Riesenspinne
 tags:
   - Monster/Größe/Groß
@@ -22,6 +21,8 @@ tags:
 aliases:
   - Giant Spider
   - Riesenspinne
+image:
+status:
 ---
 # Riesenspinne
 *Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

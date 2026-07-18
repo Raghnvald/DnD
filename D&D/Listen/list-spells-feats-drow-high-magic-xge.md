@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Drow High Magic
+Status: WIP
 linter-yaml-title-alias: Spells for Drow High Magic
 tags:
-  - Zauber/list/feat/drow-high-magic
+  - Zauber/Liste/feat/drow-high-magic
 aliases:
   - Spells for Drow High Magic
 ---

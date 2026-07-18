@@ -5,7 +5,7 @@ Eigenschaften:
   - /
 Kst.: /
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Teleporter Ring
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Teleporter Ring
+status: WIP
 ---
 # Teleporter Ring
 *Ring*  

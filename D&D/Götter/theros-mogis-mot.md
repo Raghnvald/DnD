@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Mogis
+Status: WIP
 linter-yaml-title-alias: Mogis
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Mogis"
+  - Mogis
   - Mogis
 ---
 # Mogis

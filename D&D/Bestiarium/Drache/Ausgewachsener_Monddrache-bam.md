@@ -7,8 +7,7 @@ Größe: Riesig
 HG: 13
 Habitat:
   - /
-image: token/Adult-Lunar-Dragon-bam.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Lunar Dragon
 tags:
   - Monster/Größe/Riesig
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Adult Lunar Dragon
+image: token/Adult-Lunar-Dragon-bam.webp
+status: WIP
 ---
 # [Adult Lunar Dragon](3-Mechanics\CLI\bestiary\dragon/adult-lunar-dragon-bam.md)
 *Source: Boo's Astral Menagerie p. 34, Vecna: Eve of Ruin*  

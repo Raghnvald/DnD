@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Control Weather
+Status: WIP
 linter-yaml-title-alias: Control Weather
 classes:
   - Bard

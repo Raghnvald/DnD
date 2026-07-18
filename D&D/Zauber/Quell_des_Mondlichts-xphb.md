@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fount of Moonlight
+Status: WIP
 linter-yaml-title-alias: Fount of Moonlight
 classes:
   - Bard

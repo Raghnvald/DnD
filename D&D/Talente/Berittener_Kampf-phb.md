@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Mounted Combatant
-linter-yaml-title-alias: Mounted Combatant
+Bezeichnung: Berittener Kampf
+Status: WIP
+linter-yaml-title-alias: Berittener Kampf
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Mounted Combatant
+  - Berittener Kampf
 ---
 # Berittener Kampf
 *Source: Player's Handbook p. 168*  

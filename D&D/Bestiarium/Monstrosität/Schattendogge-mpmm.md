@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow Mastiff
+Status: WIP
 linter-yaml-title-alias: Shadow Mastiff
 tags:
   - Monster/Größe/Mittelgroß

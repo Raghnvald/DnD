@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: Caves of Hunger"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Caves of Hunger"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Chapter 6: Caves of Hunger"
-  - Chapter 6: Caves of Hunger
 ---
 # Chapter 6: Caves of Hunger
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 215* 

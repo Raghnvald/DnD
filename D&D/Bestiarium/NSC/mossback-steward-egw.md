@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mossback Steward
+Status: WIP
 linter-yaml-title-alias: Mossback Steward
 tags:
   - Monster/Größe/Gigantisch

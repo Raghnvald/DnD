@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Prophecy Inspirations
+Status: WIP
 linter-yaml-title-alias: Prophecy Inspirations
 tags:
   - Quelle/5e/egw

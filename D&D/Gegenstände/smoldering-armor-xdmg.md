@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Smoldering Armor
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Smoldering Armor
 tags:
   - Gegenstand/Rüstung/Leicht

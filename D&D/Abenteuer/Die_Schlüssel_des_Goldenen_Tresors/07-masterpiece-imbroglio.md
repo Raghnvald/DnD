@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Masterpiece Imbroglio
+Status: WIP
 linter-yaml-title-alias: Masterpiece Imbroglio
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Masterpiece Imbroglio"
+  - Masterpiece Imbroglio
   - Masterpiece Imbroglio
 ---
 # Masterpiece Imbroglio

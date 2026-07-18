@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Ram
+Status: WIP
 linter-yaml-title-alias: Giant Ram
 tags:
   - Monster/Größe/Groß

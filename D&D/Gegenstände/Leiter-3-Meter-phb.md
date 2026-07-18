@@ -1,19 +1,18 @@
 ---
-Bezeichnung: Ladder (10-foot)
-linter-yaml-title-alias: Ladder (10-foot)
+Bezeichnung: Leiter (3 Meter)
+Status: WIP
+linter-yaml-title-alias: Leiter (3 Meter)
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Ladder (10-foot)
+  - Leiter (3 Meter)
 ---
-# Ladder (10-foot)
-*Adventuring gear*  
+# Leiter (3 Meter)
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 sp
-- **Weight**: 25.0 lbs.
-
-Ladder (10-foot)
+- **Kosten**: 1 SM
+- **Gewicht**: 25.0 lbs.
 
 *Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

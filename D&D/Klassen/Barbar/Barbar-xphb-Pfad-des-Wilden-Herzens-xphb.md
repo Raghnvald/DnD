@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Wild Heart
+Status: WIP
 linter-yaml-title-alias: Path of the Wild Heart
 tags:
   - Klasse/Barbar/wild-heart

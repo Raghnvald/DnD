@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 8d6
+Status: WIP
 linter-yaml-title-alias: Todeskreis
 classes:
   - Bard (Magical Secrets)

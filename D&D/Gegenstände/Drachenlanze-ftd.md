@@ -1,22 +1,28 @@
 ---
-Bezeichnung: Dragonlance
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Dragonlance
+Bezeichnung: Drachenlanze
+Original: Dragonlance
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
+linter-yaml-title-alias: Drachenlanze
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:
-  - Dragonlance
+  - Drachenlanze
   - Dragonlance Lance
   - Dragonlance Pike
+status: WIP
 ---
-# Dragonlance
+# Drachenlanze
 *Legendary (requires attunement)*  
-![By Paladine's might, a dragonlance is restored](/3-Mechanics/CLI/items/img/dragonlance.webp#right)
+![By Paladine's might, a dragonlance is restored](img/dragonlance.webp#right)
 
 A dragonlance is a renowned weapon forged from rare metal with the aid of powerful artifacts associated with Bahamut. Different lances are forged for use by foot soldiers (as pikes) and by riders (as lances), but the magical properties of the weapons are the same.
 

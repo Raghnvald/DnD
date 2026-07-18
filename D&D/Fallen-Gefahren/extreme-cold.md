@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Extreme Cold
+Status: WIP
 linter-yaml-title-alias: Extreme Cold
 tags:
   - Kompendium/Bedrohung/wth

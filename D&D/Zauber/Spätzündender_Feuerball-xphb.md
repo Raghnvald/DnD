@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Delayed Blast Fireball
+Status: WIP
 linter-yaml-title-alias: Delayed Blast Fireball
 classes:
   - Bard

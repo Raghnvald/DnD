@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Freundlich [Gesinnung]
+Status: WIP
 linter-yaml-title-alias: Freundlich [Gesinnung]
 tags:
   - Quelle/5e/xphb

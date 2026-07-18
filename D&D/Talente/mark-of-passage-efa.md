@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Passage
+Status: WIP
 linter-yaml-title-alias: Mark of Passage
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Passage"
+  - Mark of Passage
   - Mark of Passage
 ---
 # Mark of Passage

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Void
+Status: WIP
 linter-yaml-title-alias: Charm of the Void
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of the Void

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyrannos, Gott der Tyrannei
+Status: WIP
 linter-yaml-title-alias: Tyrannos, Gott der Tyrannei
 tags:
   - Kompendium/Götter

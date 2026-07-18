@@ -2,8 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Borthak
+Kategorie: Monstrosität
+Größe: Riesig
+HG: "15"
+Habitat:
+  - /
 Image: token/Borthak-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Borthak
 tags:
   - Monster/Größe/Riesig
@@ -12,12 +17,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Borthak
-Kategorie: Monstrosität
-Größe: Riesig
-HG: "15"
-Habitat:
-  - /
 IMAGE:
+status: WIP
 ---
 # [Borthak](3-Mechanics\CLI\bestiary\monstrosity/borthak-veor.md)
 *Source: Vecna: Eve of Ruin p. 212*  

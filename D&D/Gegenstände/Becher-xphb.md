@@ -2,7 +2,7 @@
 Bezeichnung: Flask
 Kst.: 2 KM
 Gew.: 0,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Flask
 tags:
   - Gegenstand/Ausrüstung/
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Flask
+status: WIP
 ---
 # Flask
 *Adventuring gear*  

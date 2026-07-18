@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Traag Draconian
+Status: WIP
 linter-yaml-title-alias: Traag Draconian
 tags:
   - Monster/Größe/Groß

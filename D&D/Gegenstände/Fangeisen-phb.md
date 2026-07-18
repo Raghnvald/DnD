@@ -2,10 +2,10 @@
 Bezeichnung: Fangeisen
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 12,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Fangeisen
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,11 +15,11 @@ aliases:
   - Fangeisen
 ---
 # Fangeisen
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 gp
-- **Weight**: 25.0 lbs.
+- **Kosten**: 5 GM
+- **Gewicht**: 12,5 kg
 
-When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take `1d4` piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+Als Aktion kannst du das Fangeisen auslegen und einsatzbereit machen. Der sägezahnbesetzte Stahlring schnappt zusammen, sobald eine Kreatur auf die Druckplatte in dessen Mitte tritt. Die Falle wird an einer Kette an einem unbeweglichen Objekt befestigt, wie etwa einem Baum oder einem im Boden steckenden Pfahl. Eine Kreatur, die auf die Druckplatte tritt, muss einen `Geschicklichkeits-Rettungswurf` gegen `SG 13` ablegen. Bei einem Misserfolg erleidet sie `1W4` Stichschaden und ihre Bewegung ist beendet. Anschließend ist die Bewegungsfreiheit der Kreatur durch die Kette eingeschränkt, bis sie sich befreien kann. Eine Kreatur kann ihre Aktion dazu verwenden, um einen `Stärkewurf` gegen `SG 13` abzulegen. Bei einem Erfolg kann sie sich selbst oder eine Kreatur in Reichweite befreien.Jeder erfolglose Versuch fügt der gefangenen Kreatur 1 Punkt Stichschaden zu. Die Kette ist typischerweise 1 m lang. 
 
-*Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 152. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

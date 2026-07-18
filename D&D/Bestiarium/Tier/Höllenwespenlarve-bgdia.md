@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hellwasp Grub
+Status: WIP
 linter-yaml-title-alias: Hellwasp Grub
 tags:
   - Monster/Größe/Klein

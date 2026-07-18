@@ -5,7 +5,7 @@ Bezeichnung: Flying Horror
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Flying Horror
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Flying Horror
+status: WIP
 ---
 # [Flying Horror](3-Mechanics\CLI\bestiary\aberration/flying-horror-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 203*  

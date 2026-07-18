@@ -3,6 +3,7 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Avatar of Death
+Status: WIP
 linter-yaml-title-alias: Avatar of Death
 tags:
   - Monster/Größe/Mittelgroß

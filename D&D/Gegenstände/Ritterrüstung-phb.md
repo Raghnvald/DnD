@@ -3,12 +3,13 @@ Bezeichnung: Ritterrüstung
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1.500 GM
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+Status: completed
 linter-yaml-title-alias: Ritterrüstung
 tags:
   - Gegenstand/Rüstung/Schwer
@@ -16,14 +17,15 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ritterrüstung
+Einstimmung: n/v
 ---
 # Ritterrüstung
 *Schwere Rüstung*
 
 - **Rüstungsklasse**: 18
 - **Stärke:** 15
-- **Heimlichkeit:** Nachteil
-- **Kosten:** 1.500 Goldmünzen
+- **Heimlichkeit:** Der Träger ist bei Würfen auf Geschicklichkeit ([[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) im Nachteil.
+- **Kosten:** 1.500 GM
 - **Gewicht:** 32,5 kg
 
 Eine Ritterrüstung besteht aus geformten, ineinandergreifenden Metallplatten, die den ganzen Körper bedecken. Zur Ritterrüstung gehören Handschuhe, schwere Lederstiefel, ein Helm mit Visier und eine dicke Wattierung unter der Rüstung. Schnallen und Riemen verteilen das Gewicht über den Körper.

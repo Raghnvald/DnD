@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Boots of Levitation
+Status: WIP
 linter-yaml-title-alias: Boots of Levitation
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

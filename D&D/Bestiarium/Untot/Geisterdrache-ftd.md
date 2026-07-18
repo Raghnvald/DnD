@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghost Dragon
+Status: WIP
 linter-yaml-title-alias: Ghost Dragon
 tags:
   - Monster/Größe/Riesig

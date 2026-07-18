@@ -4,7 +4,7 @@ Eigenschaften:
   - Gift
 Kst.: 300 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Essence of Ether
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - Essence of Ether
+status: WIP
 ---
 # Essence of Ether
 *Adventuring gear, poison (inhaled)*  

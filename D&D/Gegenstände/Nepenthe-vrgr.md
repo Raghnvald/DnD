@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Nepenthe
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Nepenthe
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/vrgr
 aliases:
   - Nepenthe
+status: WIP
+Original: Nepenthe
 ---
 # Nepenthe
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by a paladin)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Winged)
+Status: WIP
 linter-yaml-title-alias: Tiefling (Winged)
 tags:
   - Quelle/5e/scag

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vulnerability
+Status: WIP
 linter-yaml-title-alias: Vulnerability
 tags:
   - Quelle/5e/xphb

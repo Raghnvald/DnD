@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Völker
-linter-yaml-title-alias: Races
+Status: completed
+linter-yaml-title-alias: Völker
 tags:
   - Quelle/5e/phb
 aliases:
-  - Races
+  - Völker
 ---
 # Völker
 *Quelle: Spielerhandbuch (2014), S. 17* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Outer Planes; Outer Planes
+Status: WIP
 linter-yaml-title-alias: The Outer Planes; Outer Planes
 tags:
   - Quelle/5e/xphb

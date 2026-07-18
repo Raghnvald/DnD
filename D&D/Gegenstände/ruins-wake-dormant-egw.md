@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Ruin's Wake (Dormant)"
-Kategorie: Einfache Nahkampfwaffe
+Kategorie: Nahkampfwaffe, einfach
+Status: WIP
 linter-yaml-title-alias: "Ruin's Wake (Dormant)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

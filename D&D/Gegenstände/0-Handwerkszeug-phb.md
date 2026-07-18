@@ -7,7 +7,7 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Artisan's Tools
+  - "Artisan's Tools"
   - Handwerkszeug
 ---
 # Handwerkszeug

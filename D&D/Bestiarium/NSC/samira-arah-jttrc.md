@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Samira Arah
+Status: WIP
 linter-yaml-title-alias: Samira Arah
 tags:
   - Monster/Größe/Mittelgroß

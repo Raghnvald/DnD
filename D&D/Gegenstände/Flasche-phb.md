@@ -2,10 +2,10 @@
 Bezeichnung: Flasche
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 1,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Flasche
 tags:
   - Gegenstand/Ausrüstung/

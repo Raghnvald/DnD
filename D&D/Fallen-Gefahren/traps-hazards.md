@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Traps-hazards
+Status: WIP
 linter-yaml-title-alias: Index of Traps-hazards
 aliases:
   - Index of Traps-hazards

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Serapio
+Status: WIP
 linter-yaml-title-alias: Serapio
 tags:
   - Monster/Größe/Mittelgroß

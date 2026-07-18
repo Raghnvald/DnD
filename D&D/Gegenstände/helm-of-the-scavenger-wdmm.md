@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Helm of the Scavenger
+Status: WIP
 linter-yaml-title-alias: Helm of the Scavenger
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/wdmm
 aliases:

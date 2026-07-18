@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Astral Drifter
+Status: WIP
 linter-yaml-title-alias: Astral Drifter
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/aag
 aliases:
-  - "Astral Drifter"
+  - Astral Drifter
   - Astral Drifter
 ---
 # Astral Drifter

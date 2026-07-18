@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githzerai Anarch
+Status: WIP
 linter-yaml-title-alias: Githzerai Anarch
 tags:
   - Monster/legendary-group

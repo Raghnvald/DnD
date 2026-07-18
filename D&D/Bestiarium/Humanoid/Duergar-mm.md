@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar
+Status: WIP
 linter-yaml-title-alias: Duergar
 tags:
   - Monster/Größe/Mittelgroß

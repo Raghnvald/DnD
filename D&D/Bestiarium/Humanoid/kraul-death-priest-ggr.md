@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kraul Death Priest
+Status: WIP
 linter-yaml-title-alias: Kraul Death Priest
 tags:
   - Monster/Größe/Mittelgroß

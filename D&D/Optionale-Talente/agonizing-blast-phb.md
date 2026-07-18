@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Agonizing Blast
+Status: WIP
 linter-yaml-title-alias: Agonizing Blast
 tags:
   - Kompendium/Optionales/ei

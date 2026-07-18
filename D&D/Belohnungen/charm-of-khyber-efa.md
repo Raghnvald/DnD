@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Charm of Khyber
+Status: WIP
 linter-yaml-title-alias: Charm of Khyber
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Charm of Khyber"
+  - Charm of Khyber
   - Charm of Khyber
 ---
 # Charm of Khyber

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Giant Insect
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Giant Insect
 classes:
   - Bard (Magical Secrets)

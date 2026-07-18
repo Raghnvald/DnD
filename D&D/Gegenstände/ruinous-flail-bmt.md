@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Ruinous Flail
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Ruinous Flail
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bmt
 aliases:
   - Ruinous Flail
+status: WIP
+Original: Ruinous Flail
 ---
 # Ruinous Flail
 *Weapon (flail), rare (requires attunement)*  

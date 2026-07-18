@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Irresistible Offense
+Status: WIP
 linter-yaml-title-alias: Boon of Irresistible Offense
 tags:
   - Kompendium/Talent

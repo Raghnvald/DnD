@@ -2,10 +2,10 @@
 Bezeichnung: Brotlaib
 Kategorie: Essen und Trinken
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 KM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Brotlaib
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

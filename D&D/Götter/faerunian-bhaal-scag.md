@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Bhaal
+Status: WIP
 linter-yaml-title-alias: Bhaal
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Bhaal

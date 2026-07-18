@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dullahan
+Status: WIP
 linter-yaml-title-alias: Dullahan
 tags:
   - Monster/Größe/Mittelgroß

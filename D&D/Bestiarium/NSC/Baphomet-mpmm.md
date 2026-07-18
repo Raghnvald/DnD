@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Baphomet
+Status: WIP
 linter-yaml-title-alias: Baphomet
 tags:
   - Monster/Größe/Riesig

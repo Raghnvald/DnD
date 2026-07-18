@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Keen Mind
+Status: WIP
 linter-yaml-title-alias: Keen Mind
 tags:
   - Kompendium/Talent

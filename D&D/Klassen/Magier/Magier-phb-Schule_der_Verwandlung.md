@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Transmutation
+Status: WIP
 linter-yaml-title-alias: School of Transmutation
 tags:
   - Klasse/Magier/transmutation

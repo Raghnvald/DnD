@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Death Ward
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Death Ward
 classes:
   - Bard (Magical Secrets)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flames of the Phoenix
+Status: WIP
 linter-yaml-title-alias: Flames of the Phoenix
 tags:
   - Kompendium/Optionales/ed

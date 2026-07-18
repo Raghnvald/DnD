@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lords' Alliance Vassal"
+Status: WIP
 linter-yaml-title-alias: "Lords' Alliance Vassal"
 tags:
   - Kompendium/Hintergrund

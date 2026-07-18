@@ -1,21 +1,25 @@
 ---
-Bezeichnung: "Dragon's Wrath Weapon"
-Kategorie: Beliebige Waffe
+Bezeichnung: Drachenzorn-Waffe
+Original: "Dragon's Wrath Weapon"
+Kategorie: Waffe, beliebig
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: /
-linter-yaml-title-alias: "Dragon's Wrath Weapon"
+Status: WIP
+linter-yaml-title-alias: Drachenzorn-Waffe
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/Waffe
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:
-  - "Dragon's Wrath Weapon"
+  - Drachenzorn-Waffe
+status: WIP
 ---
-# Dragon's Wrath Weapon
+# Drachenzorn-Waffe
 *(Requires attunement)*  
 
 This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties.

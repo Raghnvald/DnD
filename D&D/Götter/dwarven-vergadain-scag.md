@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Vergadain
+Status: WIP
 linter-yaml-title-alias: Vergadain
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:
-  - "Vergadain"
+  - Vergadain
   - Vergadain
 ---
 # Vergadain

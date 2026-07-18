@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fomorian
+Status: WIP
 linter-yaml-title-alias: Fomorian
 tags:
   - Monster/Größe/Riesig

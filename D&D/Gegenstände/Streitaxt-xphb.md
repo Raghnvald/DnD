@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Battleaxe
 Kategorie: Nahkampf-Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Battleaxe
 tags:
   - Gegenstand/Seltenheit/keine

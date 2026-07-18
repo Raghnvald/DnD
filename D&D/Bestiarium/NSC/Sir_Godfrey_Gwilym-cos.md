@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sir Godfrey Gwilym
+Status: WIP
 linter-yaml-title-alias: Sir Godfrey Gwilym
 tags:
   - Monster/Größe/Mittelgroß

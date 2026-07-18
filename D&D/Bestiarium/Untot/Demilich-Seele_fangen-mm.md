@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demilich (Trap Soul)
+Status: WIP
 linter-yaml-title-alias: Demilich (Trap Soul)
 tags:
   - Monster/Größe/Winzig

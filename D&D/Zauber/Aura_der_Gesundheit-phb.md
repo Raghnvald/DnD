@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aura der Gesundheit
+Original: Aura of Vitality
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: selbst (Radius von 9 m)
@@ -7,6 +8,7 @@ Komponenten: V
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: n/v
 Schaden: 2d6 Heilung
+Status: completed
 linter-yaml-title-alias: Aura der Gesundheit
 classes:
   - Bard (Magical Secrets)
@@ -31,6 +33,6 @@ aliases:
 
 Heilende Energie geht von dir aus und erschafft eine Aura mit 9 m Radius. Bis der Zauber endet, bewegt sich die Aura mit dir als Mittelpunkt fort. Du kannst eine Bonusaktion verwenden um bei einer Kreatur innerhalb der Aura (inklusive dir selbst) `2W6` Trefferpunkte zu heilen.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
 
-*Source: Player's Handbook p. 216*
+*Quelle: Spieleterhandbuch S. 216*

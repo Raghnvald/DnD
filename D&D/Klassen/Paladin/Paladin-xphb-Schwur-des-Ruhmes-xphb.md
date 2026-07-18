@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Glory
+Status: WIP
 linter-yaml-title-alias: Oath of Glory
 tags:
   - Klasse/Paladin/glory

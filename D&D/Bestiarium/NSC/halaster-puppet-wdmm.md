@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Halaster Puppet
+Status: WIP
 linter-yaml-title-alias: Halaster Puppet
 tags:
   - Monster/Größe/Mittelgroß

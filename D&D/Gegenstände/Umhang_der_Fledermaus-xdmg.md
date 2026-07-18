@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Cloak of the Bat
+Status: WIP
 linter-yaml-title-alias: Cloak of the Bat
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

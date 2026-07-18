@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enfeebling Arrow
+Status: WIP
 linter-yaml-title-alias: Enfeebling Arrow
 tags:
   - Kompendium/Optionales/as

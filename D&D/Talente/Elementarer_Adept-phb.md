@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Elemental Adept
-linter-yaml-title-alias: Elemental Adept
+Bezeichnung: Elementarer Adept
+Status: WIP
+linter-yaml-title-alias: Elementarer Adept
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Elemental Adept
+  - Elementarer Adept
 ---
 # Elementarer Adept
 *Source: Player's Handbook p. 166*  

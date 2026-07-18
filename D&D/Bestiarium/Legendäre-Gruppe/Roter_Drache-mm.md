@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Red Dragon
+Status: WIP
 linter-yaml-title-alias: Red Dragon
 tags:
   - Monster/legendary-group

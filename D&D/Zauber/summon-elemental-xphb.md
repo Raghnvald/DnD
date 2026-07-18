@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Summon Elemental
+Status: WIP
 linter-yaml-title-alias: Summon Elemental
 classes:
   - Bard

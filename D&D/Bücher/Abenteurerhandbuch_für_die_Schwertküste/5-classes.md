@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Classes
+Status: WIP
 linter-yaml-title-alias: Classes
 tags:
   - Quelle/5e/scag

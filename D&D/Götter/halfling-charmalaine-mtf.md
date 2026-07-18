@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charmalaine
+Status: WIP
 linter-yaml-title-alias: Charmalaine
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/halfling
   - Quelle/5e/mtf
 aliases:

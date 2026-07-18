@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Heroism
+Status: WIP
 linter-yaml-title-alias: Charm of Heroism
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Charm of Heroism

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bluto Krogarov
+Status: WIP
 linter-yaml-title-alias: Bluto Krogarov
 tags:
   - Monster/Größe/Mittelgroß

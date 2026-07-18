@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Haunted Hoards; Unfinished Business
+Status: WIP
 linter-yaml-title-alias: Haunted Hoards; Unfinished Business
 tags:
   - Quelle/5e/ftd

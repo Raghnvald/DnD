@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enlarge/Reduce
+Status: WIP
 linter-yaml-title-alias: Enlarge/Reduce
 classes:
   - Artificer

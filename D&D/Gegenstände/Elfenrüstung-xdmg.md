@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elven Chain
 Rüstung: Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Elven Chain
 tags:
   - Gegenstand/Rüstung/Mittel

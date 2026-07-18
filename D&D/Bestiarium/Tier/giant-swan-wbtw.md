@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Swan
+Status: WIP
 linter-yaml-title-alias: Giant Swan
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/1
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/beast
+  - Monster/HG/1
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
-  - "Giant Swan"
+  - Giant Swan
   - Giant Swan
 ---
 # [Giant Swan](3-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md)

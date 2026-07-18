@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Mouth
+Status: WIP
 linter-yaml-title-alias: Magic Mouth
 classes:
   - Artificer

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lizardfolk Names – General
+Status: WIP
 linter-yaml-title-alias: Lizardfolk Names – General
 tags:
   - Quelle/5e/gos

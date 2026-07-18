@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Red Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Red Dragon
 tags:
   - Monster/Größe/Gigantisch

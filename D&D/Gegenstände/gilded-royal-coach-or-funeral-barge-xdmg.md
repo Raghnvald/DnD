@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gilded royal coach or funeral barge
+Status: WIP
 linter-yaml-title-alias: Gilded royal coach or funeral barge
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

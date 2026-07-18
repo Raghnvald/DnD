@@ -6,7 +6,8 @@ Reichweite: 36 Meter
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: INT
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Feindüberfluss
 classes:
   - Bard

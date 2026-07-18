@@ -2,10 +2,10 @@
 Bezeichnung: Tüftlerwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
 Gew.: 5,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Tüftlerwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tüftlerwerkzeuge
+status: WIP
 ---
 # Tüftlerwerkzeuge
 *Handwerkszeug*

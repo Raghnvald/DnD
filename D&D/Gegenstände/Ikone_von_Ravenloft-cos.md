@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Icon of Ravenloft
+Status: WIP
 linter-yaml-title-alias: Icon of Ravenloft
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/cos
 aliases:

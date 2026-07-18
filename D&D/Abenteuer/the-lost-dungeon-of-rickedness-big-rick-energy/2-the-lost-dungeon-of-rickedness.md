@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Lost Dungeon of Rickedness
+Status: WIP
 linter-yaml-title-alias: The Lost Dungeon of Rickedness
 tags:
   - Quelle/5e/rmbre
 aliases:
-  - "The Lost Dungeon of Rickedness"
+  - The Lost Dungeon of Rickedness
   - The Lost Dungeon of Rickedness
 ---
 # The Lost Dungeon of Rickedness

@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Infizierter Dorfbewohner
 Image: token/infected-townsperson-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Infizierter Dorfbewohner
 tags:
   - Monster/Größe/Mittelgroß

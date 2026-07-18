@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chimeric Cat
+Status: WIP
 linter-yaml-title-alias: Chimeric Cat
 tags:
   - Monster/Größe/Winzig

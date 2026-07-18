@@ -5,7 +5,7 @@ Bezeichnung: Whistler
 Kategorie: Aberration
 Größe: Groß
 HG: 9
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Whistler
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Whistler
+status: WIP
 ---
 # [Whistler](3-Mechanics\CLI\bestiary\aberration/whistler-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 221*  

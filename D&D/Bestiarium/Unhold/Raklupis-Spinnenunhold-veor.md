@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Raklupis Spyder-Fiend
-image: token/raklupis-spyder-fiend-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Raklupis Spyder-Fiend
 tags:
   - Monster/Größe/Groß
@@ -12,6 +11,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Raklupis Spyder-Fiend
+image: token/raklupis-spyder-fiend-veor.webp
+status: WIP
 ---
 # [Raklupis Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/raklupis-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 236*  

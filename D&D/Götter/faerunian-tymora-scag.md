@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Tymora
+Status: WIP
 linter-yaml-title-alias: Tymora
 tags:
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Lady Luck

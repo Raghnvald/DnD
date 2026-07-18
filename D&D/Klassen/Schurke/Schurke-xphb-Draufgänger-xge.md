@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swashbuckler
+Status: WIP
 linter-yaml-title-alias: Swashbuckler
 tags:
   - Klasse/Schurke/swashbuckler

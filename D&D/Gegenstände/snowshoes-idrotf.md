@@ -2,10 +2,10 @@
 Bezeichnung: Snowshoes
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 2,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Snowshoes
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Snowshoes
+status: WIP
 ---
 # Snowshoes
 *Adventuring gear*  

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Time of the Dragon
+Status: WIP
 linter-yaml-title-alias: Time of the Dragon
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/tofw
 aliases:
-  - "Time of the Dragon"
+  - Time of the Dragon
   - Time of the Dragon
 ---
 # Time of the Dragon

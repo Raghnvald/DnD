@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cheese (wedge)
+Status: WIP
 linter-yaml-title-alias: Cheese (wedge)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

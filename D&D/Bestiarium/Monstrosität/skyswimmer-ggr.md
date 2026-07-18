@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skyswimmer
+Status: WIP
 linter-yaml-title-alias: Skyswimmer
 tags:
   - Monster/Größe/Gigantisch

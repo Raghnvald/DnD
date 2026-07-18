@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Adventurers' Guild Contacts; Guild Contacts"
+Status: WIP
 linter-yaml-title-alias: "Adventurers' Guild Contacts; Guild Contacts"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Adventurers' Guild Contacts; Guild Contacts"
-  - Adventurers' Guild Contacts; Guild Contacts
 ---
 # Adventurers' Guild Contacts; Guild Contacts
 *Source: Eberron: Rising from the Last War p. 66* 

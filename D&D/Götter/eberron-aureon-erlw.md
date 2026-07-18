@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Aureon
+Status: WIP
 linter-yaml-title-alias: Aureon
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

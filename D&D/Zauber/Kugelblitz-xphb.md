@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chain Lightning
+Status: WIP
 linter-yaml-title-alias: Chain Lightning
 classes:
   - Bard

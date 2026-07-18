@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Story Tracker
+Status: WIP
 linter-yaml-title-alias: Story Tracker
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Story Tracker"
+  - Story Tracker
   - Story Tracker
 ---
 # Story Tracker

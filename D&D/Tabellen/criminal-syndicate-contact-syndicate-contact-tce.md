@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Criminal Syndicate Contact; Syndicate Contact
+Status: WIP
 linter-yaml-title-alias: Criminal Syndicate Contact; Syndicate Contact
 tags:
   - Quelle/5e/tce

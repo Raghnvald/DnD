@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mass Suggestion
+Status: WIP
 linter-yaml-title-alias: Mass Suggestion
 classes:
   - Bard

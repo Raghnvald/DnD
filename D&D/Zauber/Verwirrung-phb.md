@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Confusion
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Confusion
 classes:
   - Bard (Magical Secrets)
@@ -14,7 +15,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Paladin/Eidbrecher
   - Klasse/Schurke/Arkaner-Betrüger

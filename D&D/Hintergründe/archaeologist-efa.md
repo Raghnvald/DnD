@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Archaeologist
+Status: WIP
 linter-yaml-title-alias: Archaeologist
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "Archaeologist"
+  - Archaeologist
   - Archaeologist
 ---
 # Archaeologist

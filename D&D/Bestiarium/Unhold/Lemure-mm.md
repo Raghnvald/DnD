@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lemure
+Status: WIP
 linter-yaml-title-alias: Lemure
 tags:
   - Monster/Größe/Mittelgroß

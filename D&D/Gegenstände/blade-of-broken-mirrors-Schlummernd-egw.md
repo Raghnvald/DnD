@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Blade of Broken Mirrors (Dormant)
-Kategorie: Einfache Nahkampfwaffe
+Kategorie: Nahkampfwaffe, einfach
+Status: WIP
 linter-yaml-title-alias: Blade of Broken Mirrors (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

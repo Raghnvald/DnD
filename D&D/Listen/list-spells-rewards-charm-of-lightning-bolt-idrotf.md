@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Lightning Bolt
+Status: WIP
 linter-yaml-title-alias: Spells for Charm of Lightning Bolt
 tags:
-  - ttrpg-cli/spell/list/reward/charm-of-lightning-bolt
+  - Zauber/Liste/reward/charm-of-lightning-bolt
 aliases:
-  - "Spells for Charm of Lightning Bolt"
+  - Spells for Charm of Lightning Bolt
   - Spells for Charm of Lightning Bolt
 ---
 # Spells for Charm of Lightning Bolt

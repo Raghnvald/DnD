@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Armor of Invulnerability
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Armor of Invulnerability
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg

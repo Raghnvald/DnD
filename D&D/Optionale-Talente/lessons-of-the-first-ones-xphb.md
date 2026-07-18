@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lessons of the First Ones
+Status: WIP
 linter-yaml-title-alias: Lessons of the First Ones
 tags:
   - Kompendium/Optionales/ei

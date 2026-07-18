@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Conjure Minor Elementals
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Conjure Minor Elementals
 classes:
   - Bard (Magical Secrets)

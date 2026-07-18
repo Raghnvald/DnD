@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Divination
+Status: WIP
 linter-yaml-title-alias: Divination
 classes:
   - Bard

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sea Fury
+Status: WIP
 linter-yaml-title-alias: Sea Fury
 tags:
   - Monster/legendary-group

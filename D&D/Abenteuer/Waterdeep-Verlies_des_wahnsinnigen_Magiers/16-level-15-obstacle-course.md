@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 15: Obstacle Course"
+Status: WIP
 linter-yaml-title-alias: "Level 15: Obstacle Course"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 15: Obstacle Course"
-  - Level 15: Obstacle Course
 ---
 # Level 15: Obstacle Course
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 193* 

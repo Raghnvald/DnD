@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Phantom Steed
+Bezeichnung: Geisterross
 Zaubergrad: 3
+Zeitaufwand: 1 Minute
+Status: WIP
 linter-yaml-title-alias: Phantom Steed
 classes:
   - Bard (Magical Secrets)
@@ -18,8 +20,12 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Phantom Steed
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
-# Phantom Steed
+# Geisterross
 *3rd-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

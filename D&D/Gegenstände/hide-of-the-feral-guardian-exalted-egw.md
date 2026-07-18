@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hide of the Feral Guardian (Exalted)
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Hide of the Feral Guardian (Exalted)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 50 GP Gemstones
+Status: WIP
 linter-yaml-title-alias: 50 GP Gemstones
 tags:
   - Quelle/5e/xdmg

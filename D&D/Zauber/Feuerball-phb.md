@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Fireball
+Bezeichnung: Feuerball
 Zaubergrad: 3
-linter-yaml-title-alias: Fireball
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Feuerball
 classes:
   - Bard (Magical Secrets)
   - Cleric (Light Domain)
@@ -12,7 +14,7 @@ classes:
   - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
@@ -23,9 +25,9 @@ tags:
   - Zauber/optfeature/flames-of-the-phoenix
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Fireball
+  - Feuerball
 ---
-# Fireball
+# Feuerball
 *Hervorrufung des 3. Grades*  
 <img src="Zauber/img/fireball.webp" align="right" width="150">
 

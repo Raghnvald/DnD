@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merfolk Salvager
+Status: WIP
 linter-yaml-title-alias: Merfolk Salvager
 tags:
   - Monster/Größe/Mittelgroß

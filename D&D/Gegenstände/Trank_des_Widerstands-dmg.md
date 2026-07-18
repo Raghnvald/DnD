@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Trank des Widerstands
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Trank des Widerstands
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

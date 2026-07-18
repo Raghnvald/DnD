@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storage
+Status: WIP
 linter-yaml-title-alias: Storage
 tags:
   - Kompendium/Bastion

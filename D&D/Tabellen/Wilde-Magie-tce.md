@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic
+Status: WIP
 linter-yaml-title-alias: Wild Magic
 tags:
   - Quelle/5e/tce

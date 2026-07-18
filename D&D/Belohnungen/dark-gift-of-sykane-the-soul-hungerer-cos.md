@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Sykane, the Soul Hungerer
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Sykane, the Soul Hungerer
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Sykane, the Soul Hungerer

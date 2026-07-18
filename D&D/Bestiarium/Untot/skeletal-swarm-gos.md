@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Swarm
+Status: WIP
 linter-yaml-title-alias: Skeletal Swarm
 tags:
   - Monster/Größe/Groß

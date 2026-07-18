@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tome of Leadership and Influence
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Tome of Leadership and Influence
 tags:
   - Gegenstand/Seltenheit/sehr_selten

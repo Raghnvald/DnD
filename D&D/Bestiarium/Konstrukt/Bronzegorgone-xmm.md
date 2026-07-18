@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Brazen Gorgon
+Status: WIP
 linter-yaml-title-alias: Brazen Gorgon
 tags:
   - Monster/Größe/Groß

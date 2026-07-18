@@ -1,14 +1,17 @@
 ---
 Bezeichnung: Flammenzunge
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
-Schaden: /
+Original: Flame Tongue
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Schaden: variiert
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
+  - variiert
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+Status: completed
 linter-yaml-title-alias: Flammenzunge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -24,55 +27,55 @@ aliases:
   - Flammenzunge
 ---
 # Flammenzunge
-*Major, rare (requires attunement)*  
+*Waffe (irgendein Schwert), selten (erfordert Einstimmung)*  
 <img src="flame-tongue.webp" align="right" width="150">
 
-You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra `2d6` fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
+Du kannst eine Bonusaktion verwenden, um das Befehlswort dieses magischen Schwerts zu sprechen, dann werden Flammen aus der Klinge hervorbrechen. Diese Flammen spenden helles Licht in einem Radius von 12 Metern und dämmriges Licht für zusätzliche 12 Meter. Während das Schwert entflammt ist, fügt es zusätzlich jedem Feind, den es trifft, `2W6` Feuerschaden zu. Die Flammen dauern an, bis du eine Bonusaktion aufwendest, um das Befehlswort erneut zu sprechen, oder bis du das Schwert fallen lässt oder es zurück in seine Scheide steckst.
 
-**Variants**:
-- [Flame Tongue Double-Bladed Scimitar](#Flame%20Tongue%20Double-Bladed%20Scimitar)
-- [Flame Tongue Greatsword](#Flame%20Tongue%20Greatsword)
-- [Flame Tongue Longsword](#Flame%20Tongue%20Longsword)
-- [Flame Tongue Rapier](#Flame%20Tongue%20Rapier)
-- [Flame Tongue Scimitar](#Flame%20Tongue%20Scimitar)
-- [Flame Tongue Shortsword](#Flame%20Tongue%20Shortsword)
+**Varianten**:
+- [[#Flammenzunge-Krummsäbel]]
+- [[#Flammenzunge-Kurzschwert]]
+- [[#Flammenzunge-Langschwert]]
+- [[#Flammenzunge-Rapier]]
+- [[#Flammenzunge-Zweihandschwert]]
+- [[#Flammenzunge-Zweiklingiger Krummsäbel]]
 
-### Flame Tongue Double-Bladed Scimitar
+### Flammenzunge-Krummsäbel
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Flame Tongue Greatsword
+### Flammenzunge-Kurzschwert
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Flame Tongue Longsword
+### Flammenzunge-Langschwert
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Flame Tongue Rapier
+### Flammenzunge-Rapier
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Flame Tongue Scimitar
+### Flammenzunge-Zweihandschwert
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Flame Tongue Shortsword
+### Flammenzunge-Zweiklingiger Krummsäbel
 
-- **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-*Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 160. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>* 

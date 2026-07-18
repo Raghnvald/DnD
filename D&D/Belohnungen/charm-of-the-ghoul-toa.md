@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Ghoul
+Status: WIP
 linter-yaml-title-alias: Charm of the Ghoul
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/toa
 aliases:
   - Charm of the Ghoul

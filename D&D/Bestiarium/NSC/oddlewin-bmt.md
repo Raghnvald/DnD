@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oddlewin
+Status: WIP
 linter-yaml-title-alias: Oddlewin
 tags:
   - Monster/Größe/Klein

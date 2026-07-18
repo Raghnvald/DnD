@@ -1,10 +1,11 @@
 ---
-Bezeichnung: Step-by-Step Characters
-linter-yaml-title-alias: Step-by-Step Characters
+Bezeichnung: Charaktere Schritt für Schritt
+Status: completed
+linter-yaml-title-alias: Charaktere Schritt für Schritt
 tags:
   - Quelle/5e/phb
 aliases:
-  - Step-by-Step Characters
+  - Charaktere Schritt für Schritt
 ---
 # Charaktere Schritt für Schritt
 *Quelle: Spielerhandbuch (2014), S. 11* 

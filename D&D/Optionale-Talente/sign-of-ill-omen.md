@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sign of Ill Omen
+Status: WIP
 linter-yaml-title-alias: Sign of Ill Omen
 tags:
   - Kompendium/Optionales/ei

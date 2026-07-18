@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eyes of the Eagle
+Status: WIP
 linter-yaml-title-alias: Eyes of the Eagle
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hephaestus
+Status: WIP
 linter-yaml-title-alias: Hephaestus
 tags:
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

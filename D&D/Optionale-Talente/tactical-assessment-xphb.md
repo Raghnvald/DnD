@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tactical Assessment
+Status: WIP
 linter-yaml-title-alias: Tactical Assessment
 tags:
   - Kompendium/Optionales/mv-b

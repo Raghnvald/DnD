@@ -2,10 +2,10 @@
 Bezeichnung: Kochutensilien
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 4,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Kochutensilien
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

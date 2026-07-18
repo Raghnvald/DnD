@@ -2,10 +2,10 @@
 Bezeichnung: Zugpferd
 Kategorie: Reit- und Lastentier
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Zugpferd
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
@@ -15,6 +15,7 @@ aliases:
   - Zugpferd
 Bew.: 12 m
 Traglast: 540 Pfd.
+Original: Draft Horse
 ---
 # Zugpferd
 *Reit- und Lasttiere*  

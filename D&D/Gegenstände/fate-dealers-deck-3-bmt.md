@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "+3 Fate Dealer's Deck"
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: "+3 Fate Dealer's Deck"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/bmt
 aliases:

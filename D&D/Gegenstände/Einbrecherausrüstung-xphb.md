@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Burglar's Pack"
+Status: WIP
 linter-yaml-title-alias: "Burglar's Pack"
 tags:
   - Gegenstand/Ausrüstung/

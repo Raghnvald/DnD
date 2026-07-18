@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eltern eines Halborks
+Status: WIP
 linter-yaml-title-alias: Eltern eines Halborks
 tags:
   - Quelle/5e/xge

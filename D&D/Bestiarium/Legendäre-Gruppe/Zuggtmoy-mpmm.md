@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zuggtmoy
+Status: WIP
 linter-yaml-title-alias: Zuggtmoy
 tags:
   - Monster/legendary-group

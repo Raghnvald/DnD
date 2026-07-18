@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Odur
+Status: WIP
 linter-yaml-title-alias: Odur
 tags:
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

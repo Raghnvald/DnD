@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Guards and Wards
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Guards and Wards
 classes:
   - Bard (Magical Secrets)

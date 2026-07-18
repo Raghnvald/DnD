@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Zone
+Status: WIP
 linter-yaml-title-alias: Manifest Zone
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
-  - "Manifest Zone"
+  - Manifest Zone
   - Manifest Zone
 ---
 # Manifest Zone

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gem of Brightness
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Gem of Brightness
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Group Patrons
+Status: WIP
 linter-yaml-title-alias: Group Patrons
 tags:
   - Quelle/5e/tce

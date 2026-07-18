@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Münzwerte; Standardwechselkurse
+Status: WIP
 linter-yaml-title-alias: Münzwerte; Standardwechselkurse
 tags:
   - Quelle/5e/phb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dulcimer
+Status: WIP
 linter-yaml-title-alias: Dulcimer
 tags:
   - Gegenstand/Ausrüstung/Instrument

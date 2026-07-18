@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lesser Mummy Lord
+Status: WIP
 linter-yaml-title-alias: Lesser Mummy Lord
 tags:
   - Monster/Größe/Mittelgroß

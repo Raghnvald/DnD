@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Plant
+Status: WIP
 linter-yaml-title-alias: Index of Plant
 aliases:
   - Index of Plant

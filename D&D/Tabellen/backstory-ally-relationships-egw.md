@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Ally Relationships
+Status: WIP
 linter-yaml-title-alias: Backstory; Ally Relationships
 tags:
   - Quelle/5e/egw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vaasha
+Status: WIP
 linter-yaml-title-alias: Vaasha
 tags:
   - Monster/Größe/Riesig

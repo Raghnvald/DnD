@@ -2,10 +2,10 @@
 Bezeichnung: Tonkrug
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 KM
 Gew.: 2,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Tonkrug
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 2 KM
-- **Gewicht**: 2,0 kg.
+- **Gewicht**: 2,0 kg
 
 Ein Tonkrug  fasst 4,0 Liter Flüssigkeit.
 

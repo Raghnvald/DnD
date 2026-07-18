@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Monstrosities"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Monstrosities"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Monstrosities"
-  - Monsters' Desires; Monstrosities
 ---
 # Monsters' Desires; Monstrosities
 *Source: Tasha's Cauldron of Everything p. 148* 

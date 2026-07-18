@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Iroas's Votary"
+Status: WIP
 linter-yaml-title-alias: "Iroas's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

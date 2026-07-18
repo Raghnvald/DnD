@@ -2,8 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Camlash
+Kategorie: Unhold (Dämon)
+Größe: Riesig
+HG: "19"
+Habitat:
+  - /
 Image: token/camlash-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Camlash
 tags:
   - Monster/Größe/Riesig
@@ -12,12 +17,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Camlash
-Kategorie: Unhold (Dämon)
-Größe: Riesig
-HG: "19"
-Habitat:
-  - /
 IMAGE:
+status: WIP
 ---
 # [Camlash](3-Mechanics\CLI\bestiary\npc/camlash-veor.md)
 *Source: Vecna: Eve of Ruin p. 181*  

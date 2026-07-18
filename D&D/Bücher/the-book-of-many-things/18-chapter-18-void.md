@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 18: Void"
+Status: WIP
 linter-yaml-title-alias: "Chapter 18: Void"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 18: Void"
-  - Chapter 18: Void
 ---
 # Chapter 18: Void
 *Source: The Book of Many Things, p. 144* 

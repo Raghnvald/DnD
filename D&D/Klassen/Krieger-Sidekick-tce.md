@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior Sidekick
+Status: WIP
 linter-yaml-title-alias: Warrior Sidekick
 tags:
   - Klasse/warrior-sidekick

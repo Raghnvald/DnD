@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cadaver Collector
 Kategorie: Konstrukt
-image: token/cadaver-collector-mpmm.webp
+Status: WIP
 linter-yaml-title-alias: Cadaver Collector
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Cadaver Collector
+image: token/cadaver-collector-mpmm.webp
 status: WIP
 ---
 # [Cadaver Collector](3-Mechanics\CLI\bestiary\construct/cadaver-collector-mpmm.md)

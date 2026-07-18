@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Invisible Stalker
+Status: WIP
 linter-yaml-title-alias: Invisible Stalker
 tags:
   - Monster/Größe/Mittelgroß

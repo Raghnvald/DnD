@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nythalyn Henlifel
 Image: token/nythalyn-henlifel-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Nythalyn Henlifel
 tags:
   - Monster/Größe/Mittelgroß

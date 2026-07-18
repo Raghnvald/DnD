@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nereid
+Status: WIP
 linter-yaml-title-alias: Nereid
 tags:
   - Monster/Größe/Mittelgroß

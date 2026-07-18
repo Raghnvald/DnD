@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zox Clammersham
+Status: WIP
 linter-yaml-title-alias: Zox Clammersham
 tags:
   - Monster/Größe/Mittelgroß

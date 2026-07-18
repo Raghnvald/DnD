@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Gem, Emerald
+Status: WIP
 linter-yaml-title-alias: Elemental Gem, Emerald
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

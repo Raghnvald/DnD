@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rak Tulkhesh
+Status: WIP
 linter-yaml-title-alias: Rak Tulkhesh
 tags:
   - Monster/Größe/Riesig

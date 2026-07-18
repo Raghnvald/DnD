@@ -1,9 +1,10 @@
 ---
 Bezeichnung: +3 Ammunition
+Status: WIP
 linter-yaml-title-alias: +3 Ammunition
 tags:
-  - Gegenstand/Ausrüstung/ammunition
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
   - Gegenstand/Zeitalter/Futuristisch

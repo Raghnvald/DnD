@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Combat Prowess
+Status: WIP
 linter-yaml-title-alias: Boon of Combat Prowess
 tags:
   - Kompendium/Talent

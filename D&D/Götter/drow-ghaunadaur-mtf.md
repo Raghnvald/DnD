@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ghaunadaur
+Status: WIP
 linter-yaml-title-alias: Ghaunadaur
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/drow
   - Quelle/5e/mtf
 aliases:

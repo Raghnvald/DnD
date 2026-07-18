@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sheyanna Flaxenstrand
+Status: WIP
 linter-yaml-title-alias: Sheyanna Flaxenstrand
 tags:
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

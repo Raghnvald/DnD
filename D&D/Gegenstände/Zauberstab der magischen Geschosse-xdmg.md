@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Magic Missiles
+Status: WIP
 linter-yaml-title-alias: Wand of Magic Missiles
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

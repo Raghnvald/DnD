@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Air Elemental Myrmidon
+Status: WIP
 linter-yaml-title-alias: Air Elemental Myrmidon
 tags:
   - Monster/Größe/Mittelgroß

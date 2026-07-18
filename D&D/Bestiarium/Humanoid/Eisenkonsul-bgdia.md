@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Iron Consul
+Status: WIP
 linter-yaml-title-alias: Iron Consul
 tags:
   - Monster/Größe/Mittelgroß

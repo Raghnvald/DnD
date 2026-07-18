@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Corrin Delmaco
+Status: WIP
 linter-yaml-title-alias: Corrin Delmaco
 tags:
   - Monster/Größe/Mittelgroß

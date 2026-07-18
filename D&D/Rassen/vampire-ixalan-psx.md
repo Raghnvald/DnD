@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampire (Ixalan)
+Status: WIP
 linter-yaml-title-alias: Vampire (Ixalan)
 tags:
   - Quelle/5e/psx
   - Rasse/vampire/ixalan
 aliases:
-  - "Vampire (Ixalan)"
+  - Vampire (Ixalan)
   - Vampire (Ixalan)
 ---
 # Vampire (Ixalan)

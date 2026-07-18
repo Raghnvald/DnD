@@ -8,7 +8,7 @@ HG: 5
 Habitat:
   - Stadt
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vampire Spawn
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Vampire Spawn
+status: WIP
 ---
 # [Vampire Spawn](3-Mechanics\CLI\bestiary\undead/vampire-spawn-xmm.md)
 *Source: Monster Manual (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

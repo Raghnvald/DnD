@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloud Rune
+Status: WIP
 linter-yaml-title-alias: Cloud Rune
 tags:
   - Kompendium/Optionales/rn

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Wachsam
-linter-yaml-title-alias: Alert
+Status: WIP
+linter-yaml-title-alias: Wachsam
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Alert
+  - Wachsam
 ---
 # Wachsam
 *Source: Player's Handbook p. 165*  

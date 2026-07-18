@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Schild
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G
+Wirkungsdauer: 1 Runde
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Schild
 classes:
   - Bard (Magical Secrets)
@@ -19,7 +20,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1

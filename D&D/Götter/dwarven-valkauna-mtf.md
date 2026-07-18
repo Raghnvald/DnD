@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Valkauna
+Status: WIP
 linter-yaml-title-alias: Valkauna
 tags:
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mythalkeeper
+Status: WIP
 linter-yaml-title-alias: Mythalkeeper
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Mythalkeeper"
+  - Mythalkeeper
   - Mythalkeeper
 ---
 # Mythalkeeper

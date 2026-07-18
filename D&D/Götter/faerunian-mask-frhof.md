@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Mask
+Status: WIP
 linter-yaml-title-alias: Mask
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Mask"
-  - "The Lord of Shadows"
-  - "The Master of All Thieves"
   - Mask
+  - Mask
+  - The Lord of Shadows
+  - The Master of All Thieves
 ---
 # Mask
 *Source: Forgotten Realms: Heroes of Faerûn p. 115* 

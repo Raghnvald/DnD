@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Food, Drink, and Lodging
+Status: WIP
 linter-yaml-title-alias: Food, Drink, and Lodging
 tags:
   - Quelle/5e/xphb

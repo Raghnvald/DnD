@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flour
+Status: WIP
 linter-yaml-title-alias: Flour
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

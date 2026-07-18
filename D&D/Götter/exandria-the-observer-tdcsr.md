@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Observer
+Status: WIP
 linter-yaml-title-alias: The Observer
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - The Observer

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spezielles Merkmal; Was ist eine Einzelheit aus seiner Vergangenheit?
+Status: WIP
 linter-yaml-title-alias: Spezielles Merkmal; Was ist eine Einzelheit aus seiner Vergangenheit?
 tags:
   - Quelle/5e/dmg

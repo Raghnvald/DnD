@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Items
+Status: WIP
 linter-yaml-title-alias: Gruul Items
 tags:
   - Quelle/5e/ggr

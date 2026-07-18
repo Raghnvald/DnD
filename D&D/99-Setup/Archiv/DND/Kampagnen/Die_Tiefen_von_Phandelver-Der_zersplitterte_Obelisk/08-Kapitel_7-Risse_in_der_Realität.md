@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Rifts in Reality"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Rifts in Reality"
 tags:
   - Quelle/5e/pabtso
 aliases:
   - "Chapter 7: Rifts in Reality"
-  - Chapter 7: Rifts in Reality
 ---
 # Chapter 7: Rifts in Reality
 *Source: Phandelver and Below: The Shattered Obelisk, p. 139* 

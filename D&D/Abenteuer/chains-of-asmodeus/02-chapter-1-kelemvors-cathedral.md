@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Kelemvor's Cathedral"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Kelemvor's Cathedral"
 tags:
   - Quelle/5e/coa

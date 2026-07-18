@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Meisterschaft schwerer Waffen
-linter-yaml-title-alias: Great Weapon Master
+Status: WIP
+linter-yaml-title-alias: Meisterschaft schwerer Waffen
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Great Weapon Master
+  - Meisterschaft schwerer Waffen
 ---
 # Meisterschaft schwerer Waffen
 *Source: Player's Handbook p. 167*  

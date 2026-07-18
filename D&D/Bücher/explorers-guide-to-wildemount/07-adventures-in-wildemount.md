@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventures in Wildemount
+Status: WIP
 linter-yaml-title-alias: Adventures in Wildemount
 tags:
   - Quelle/5e/egw

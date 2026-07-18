@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 6: Zwischen den Abenteuern"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 6: Zwischen den Abenteuern"
 tags:
   - Quelle/5e/dmg

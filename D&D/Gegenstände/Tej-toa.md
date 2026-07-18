@@ -2,10 +2,10 @@
 Bezeichnung: Tej
 Kategorie: Essen und Trinken
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 2,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Tej
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Tej
+status: WIP
 ---
 # Tej
 *Food and drink*  

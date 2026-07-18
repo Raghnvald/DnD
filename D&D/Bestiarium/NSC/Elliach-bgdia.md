@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elliach
+Status: WIP
 linter-yaml-title-alias: Elliach
 tags:
   - Monster/Größe/Mittelgroß

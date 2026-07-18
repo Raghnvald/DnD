@@ -2,8 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inda
+Original: Inda
+Kategorie: Celestisch
+Größe: Mittelgroß
+HG: "10"
+Habitat:
+  - /
 Image: token/inda-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Inda
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,11 +18,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Inda
-Kategorie: Celestisch
-HG: "10"
-Habitat:
-  - /
-Größe: Mittelgroß
 ---
 # Inda
 *Quelle: Vecna: Vorabend der Verdammnis*  

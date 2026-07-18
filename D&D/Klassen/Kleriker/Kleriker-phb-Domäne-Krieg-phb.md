@@ -1,9 +1,10 @@
 ---
 Bezeichnung: War Domain
+Status: WIP
 linter-yaml-title-alias: War Domain
 tags:
   - Klasse/Kleriker/war
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Quelle/5e/phb
 aliases:
   - War Domain

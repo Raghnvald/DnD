@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Intrigue
+Status: WIP
 linter-yaml-title-alias: Guild Intrigue
 tags:
   - Quelle/5e/ggr

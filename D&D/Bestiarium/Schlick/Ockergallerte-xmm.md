@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ochre Jelly
+Status: WIP
 linter-yaml-title-alias: Ochre Jelly
 tags:
   - Monster/Größe/Groß

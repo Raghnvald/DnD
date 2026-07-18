@@ -2,10 +2,10 @@
 Bezeichnung: Kielboot
 Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 3.000 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Kielboot
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser

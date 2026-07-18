@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xardorok Sunblight
+Status: WIP
 linter-yaml-title-alias: Xardorok Sunblight
 tags:
   - Monster/Größe/Mittelgroß

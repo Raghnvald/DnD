@@ -10,8 +10,7 @@ Habitat:
   - Grasland
   - Unterreich
   - Wald
-image: token/bugbear.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Grottenschrat
 tags:
   - Monster/Größe/Mittelgroß
@@ -24,6 +23,8 @@ tags:
 aliases:
   - Bugbear
   - Grottenschrat
+image: token/bugbear.webp
+status: completed
 ---
 # Grottenschrat
 *Quelle: Monsterhandbuch S. 33. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Steel Defender
+Status: WIP
 linter-yaml-title-alias: Steel Defender
 tags:
   - Monster/Größe/Mittelgroß

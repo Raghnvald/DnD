@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Iroas
+Status: WIP
 linter-yaml-title-alias: Iroas
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Iroas"
+  - Iroas
   - Iroas
 ---
 # Iroas

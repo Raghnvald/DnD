@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mind Crystal (Empowered)
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Mind Crystal (Empowered)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

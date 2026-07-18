@@ -6,6 +6,7 @@ Kategorie: Elementar
 Größe: Mittelgroß
 HG: 4
 Image: token/aarakocra-aeromancer-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Aarakocra Aeromancer
 tags:
   - Monster/Größe/Mittelgroß

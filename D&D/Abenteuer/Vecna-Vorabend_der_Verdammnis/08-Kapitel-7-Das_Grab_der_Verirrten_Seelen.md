@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Tomb of Wayward Souls"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Tomb of Wayward Souls"
 tags:
   - Quelle/5e/veor
 aliases:
   - "Chapter 7: Tomb of Wayward Souls"
-  - Chapter 7: Tomb of Wayward Souls
 ---
 # Chapter 7: Tomb of Wayward Souls
 *Source: Vecna: Eve of Ruin* 

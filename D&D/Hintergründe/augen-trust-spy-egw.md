@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Augen Trust (Spy)
+Status: WIP
 linter-yaml-title-alias: Augen Trust (Spy)
 tags:
   - Kompendium/Hintergrund

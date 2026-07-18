@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Iroas's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Iroas's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/iroass-devotee
+  - Zauber/Liste/reward/iroass-devotee
 aliases:
   - "Spells for Iroas's Devotee"
 ---

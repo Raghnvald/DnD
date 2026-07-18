@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Web
+Status: WIP
 linter-yaml-title-alias: Web
 classes:
   - Artificer

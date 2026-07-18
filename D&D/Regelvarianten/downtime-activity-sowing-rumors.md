@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Sowing Rumors"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Sowing Rumors"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Downtime Activity: Sowing Rumors"
-  - Downtime Activity: Sowing Rumors
 ---
 # Downtime Activity: Sowing Rumors
 *Source: Dungeon Master's Guide p. 131* 

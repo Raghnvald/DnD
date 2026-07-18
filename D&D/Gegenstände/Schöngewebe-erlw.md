@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Glamerweave
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Glamerweave
 tags:
   - Gegenstand/Seltenheit/variiert

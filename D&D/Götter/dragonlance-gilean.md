@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Gilean
+Status: WIP
 linter-yaml-title-alias: Gilean
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Gilean"
+  - Gilean
   - Gilean
 ---
 # Gilean

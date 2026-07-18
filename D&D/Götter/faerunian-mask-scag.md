@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Mask
+Status: WIP
 linter-yaml-title-alias: Mask
 tags:
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Mask

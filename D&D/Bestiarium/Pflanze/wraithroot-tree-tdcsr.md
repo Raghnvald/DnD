@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wraithroot Tree
+Status: WIP
 linter-yaml-title-alias: Wraithroot Tree
 tags:
   - Monster/Größe/Riesig

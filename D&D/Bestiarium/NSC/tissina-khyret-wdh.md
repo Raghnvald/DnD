@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tissina Khyret
+Status: WIP
 linter-yaml-title-alias: Tissina Khyret
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,13 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nezznar die Schwarze Spinne
-Typ: Humanoid (Elf, Magier)
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
 Image: token/nezznar-the-spider-pabtso.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Nezznar die Schwarze Spinne
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Nezznar die Schwarze Spinne
   - Nezznar the Spider
+status: completed
+Typ: Humanoid (Elf, Magier)
 ---
 # Nezznar die Schwarze Spinne
 *Quellen: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 74*  

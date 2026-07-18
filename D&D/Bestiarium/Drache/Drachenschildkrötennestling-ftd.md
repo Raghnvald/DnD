@@ -7,7 +7,7 @@ Größe: Groß
 HG: 4
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Dragon Turtle Wyrmling
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Dragon Turtle Wyrmling
+status: WIP
 ---
 # [Dragon Turtle Wyrmling](3-Mechanics\CLI\bestiary\dragon/dragon-turtle-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 192*  

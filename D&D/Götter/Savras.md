@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Savras, Gott der Weissagung und des Schicksals
+Status: WIP
 linter-yaml-title-alias: Savras, Gott der Weissagung und des Schicksals
 tags:
   - Kompendium/Götter

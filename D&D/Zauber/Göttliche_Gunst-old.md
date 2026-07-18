@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Göttliche Gunst
+Status: WIP
 linter-yaml-title-alias: Göttliche Gunst
 tags:
   - Klasse/Paladin

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Duergar
+Status: WIP
 linter-yaml-title-alias: Spells for Duergar
 tags:
-  - Zauber/list/race/duergar
+  - Zauber/Liste/race/duergar
 aliases:
   - Spells for Duergar
 ---

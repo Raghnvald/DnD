@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 14
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Emerald Dragon
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Adult Emerald Dragon
+status: WIP
 ---
 # [Adult Emerald Dragon](3-Mechanics\CLI\bestiary\dragon/adult-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 196*  

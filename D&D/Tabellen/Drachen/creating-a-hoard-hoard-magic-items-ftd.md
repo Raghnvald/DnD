@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Hoard; Hoard Magic Items
+Status: WIP
 linter-yaml-title-alias: Creating a Hoard; Hoard Magic Items
 tags:
   - Quelle/5e/ftd

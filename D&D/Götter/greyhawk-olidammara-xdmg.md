@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Olidammara
+Status: WIP
 linter-yaml-title-alias: Olidammara
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Olidammara

@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Bloodaxe
-Kategorie: Nahkampf-Kriegswaffe
+Original: Bloodaxe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Bloodaxe
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
   - Bloodaxe
+status: WIP
 ---
 # Bloodaxe
 *Weapon ([greataxe](/3-Mechanics/CLI/items/greataxe-xphb.md)), very rare (requires attunement)*  

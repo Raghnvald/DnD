@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dominate Monster
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Dominate Monster
 classes:
   - Bard (Magical Secrets)

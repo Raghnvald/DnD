@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Rune
+Status: WIP
 linter-yaml-title-alias: Storm Rune
 tags:
   - Kompendium/Optionales/rn

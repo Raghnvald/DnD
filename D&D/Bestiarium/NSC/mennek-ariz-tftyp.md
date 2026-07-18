@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mennek Ariz
+Status: WIP
 linter-yaml-title-alias: Mennek Ariz
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tinderbox
+Status: WIP
 linter-yaml-title-alias: Tinderbox
 tags:
   - Gegenstand/Ausrüstung/

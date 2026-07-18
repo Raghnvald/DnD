@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Daask Contacts
+Status: WIP
 linter-yaml-title-alias: Daask Contacts
 tags:
   - Quelle/5e/erlw

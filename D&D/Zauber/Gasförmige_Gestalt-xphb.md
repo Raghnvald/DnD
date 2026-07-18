@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaseous Form
+Status: WIP
 linter-yaml-title-alias: Gaseous Form
 classes:
   - Artificer (Alchemist)

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dolch
-Kategorie: Einfache Nahkampfwaffe
+Original: Dagger
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W4 Stich
 Eigenschaften:
   - Finesse
@@ -8,6 +9,7 @@ Eigenschaften:
   - Wurfwaffe
 Kst.: 2 GM
 Gew.: 0,5 kg
+Status: completed
 linter-yaml-title-alias: Dolch
 tags:
   - Gegenstand/Seltenheit/keine
@@ -20,12 +22,12 @@ Aktiv: false
 Menge: "1"
 ---
 # Dolch
-*Waffe*  
+*Einfache Nahkampfwaffe*  
 
 - **Schaden**: 1d4 Stich
 - **Reichweite**: 6/18
 - **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]], [[Gegenstandseigenschaften-phb#Leicht|Leicht]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
 - **Kosten**: 2 GM
-- **Gewicht**: 1.0 lbs.
+- **Gewicht**: 0,5 kg
 
 *Quellen: Spielerhandbuch S. 149 Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

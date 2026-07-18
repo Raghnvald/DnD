@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Halaster Horror
+Status: WIP
 linter-yaml-title-alias: Halaster Horror
 tags:
   - Monster/Größe/Mittelgroß

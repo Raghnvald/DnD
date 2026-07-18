@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Talos
+Status: WIP
 linter-yaml-title-alias: Talos
 tags:
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Stormlord

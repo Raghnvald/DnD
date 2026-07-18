@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Tavick's Landing: Noteworthy Locations"
+Status: WIP
 linter-yaml-title-alias: "Tavick's Landing: Noteworthy Locations"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Tavick's Landing: Noteworthy Locations"
-  - Tavick's Landing: Noteworthy Locations
 ---
 # Tavick's Landing: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 172* 

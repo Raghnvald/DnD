@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Einsamer Kummergeschworener
+Original: Lonely Sorrowsworn
 Kategorie: Monstrosität
 Größe: Mittelgroß
 HG: 9
@@ -11,8 +12,7 @@ Habitat:
   - Stadt
   - Unterreich
   - Wüste
-image: token/lost-sorrowsworn-mpmm.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Einsamer Kummergeschworener
 tags:
   - Monster/Größe/Mittelgroß
@@ -28,6 +28,7 @@ tags:
 aliases:
   - Einsamer Kummergeschworener
   - Lonely Sorrowsworn
+image: token/lost-sorrowsworn-mpmm.webp
 ---
 # Einsamer Kummergeschworener
 *Quelle: Mordenkainen präsentiert: Monster des Multiversums S. 167*  

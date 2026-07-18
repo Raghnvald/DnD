@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Deities of Dragonlance: Evil"
+Status: WIP
 linter-yaml-title-alias: "Deities of Dragonlance: Evil"
 tags:
   - Quelle/5e/phb
 aliases:
   - "Deities of Dragonlance: Evil"
-  - Deities of Dragonlance: Evil
 ---
 # Deities of Dragonlance: Evil
 *Source: Player's Handbook p. 293* 

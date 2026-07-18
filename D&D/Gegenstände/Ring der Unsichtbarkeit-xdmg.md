@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ring of Invisibility
+Status: WIP
 linter-yaml-title-alias: Ring of Invisibility
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg

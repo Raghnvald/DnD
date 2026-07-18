@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Chains of Carceri
+Status: WIP
 linter-yaml-title-alias: Spells for Chains of Carceri
 tags:
-  - Zauber/list/optfeature/chains-of-carceri
+  - Zauber/Liste/optfeature/chains-of-carceri
 aliases:
   - Spells for Chains of Carceri
 ---

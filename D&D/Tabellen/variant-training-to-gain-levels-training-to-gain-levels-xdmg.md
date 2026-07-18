@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Variant: Training to Gain Levels; Training to Gain Levels"
+Status: WIP
 linter-yaml-title-alias: "Variant: Training to Gain Levels; Training to Gain Levels"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Variant: Training to Gain Levels; Training to Gain Levels"
-  - Variant: Training to Gain Levels; Training to Gain Levels
 ---
 # Variant: Training to Gain Levels; Training to Gain Levels
 *Source: Dungeon Master's Guide (2024) p. 49* 

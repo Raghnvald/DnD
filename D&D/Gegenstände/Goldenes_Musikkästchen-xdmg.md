@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gold music box
+Status: WIP
 linter-yaml-title-alias: Gold music box
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

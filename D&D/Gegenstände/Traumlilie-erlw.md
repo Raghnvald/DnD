@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Dreamlily
+Status: WIP
 linter-yaml-title-alias: Dreamlily
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/erlw
 aliases:
   - Dreamlily

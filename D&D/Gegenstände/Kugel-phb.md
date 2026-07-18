@@ -2,10 +2,10 @@
 Bezeichnung: Kugel
 Kategorie: Fokus, Arkan
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 20 GM
 Gew.: 1,5 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Kugel
 tags:
   - Gegenstand/Ausrüstung

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Greater Healing
+Status: WIP
 linter-yaml-title-alias: Potion of Greater Healing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

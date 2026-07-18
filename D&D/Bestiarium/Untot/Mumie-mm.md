@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mummy
+Status: WIP
 linter-yaml-title-alias: Mummy
 tags:
   - Monster/Größe/Mittelgroß

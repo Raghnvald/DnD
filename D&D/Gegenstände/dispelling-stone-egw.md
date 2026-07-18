@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dispelling Stone
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Dispelling Stone
 tags:
   - Gegenstand/Seltenheit/sehr_selten

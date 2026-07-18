@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Auge und Hand von Vecna
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Auge und Hand von Vecna
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/wundersam
   - Quelle/5e/dmg

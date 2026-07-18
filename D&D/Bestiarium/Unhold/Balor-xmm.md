@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Balor
+Status: WIP
 linter-yaml-title-alias: Balor
 tags:
   - Monster/Größe/Riesig

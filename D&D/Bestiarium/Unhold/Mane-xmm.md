@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manes
+Status: WIP
 linter-yaml-title-alias: Manes
 tags:
   - Monster/Größe/Klein

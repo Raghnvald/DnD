@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Observatory Charm
+Status: WIP
 linter-yaml-title-alias: Observatory Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Observatory Charm

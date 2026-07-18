@@ -1,18 +1,22 @@
 ---
 Bezeichnung: Staff of Dunamancy
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung durch einen Magier
   - Vielseitig (1W8)
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
+Einstimmung: durch einen Magier
 linter-yaml-title-alias: Staff of Dunamancy
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/egw
 aliases:
   - Staff of Dunamancy
+status: WIP
+Original: Staff of Dunamancy
 ---
 # Staff of Dunamancy
 *Staff, weapon, very rare (requires attunement by a wizard)*  

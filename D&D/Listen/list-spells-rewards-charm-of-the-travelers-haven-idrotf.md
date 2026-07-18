@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Charm of the Traveler's Haven"
+Status: WIP
 linter-yaml-title-alias: "Spells for Charm of the Traveler's Haven"
 tags:
-  - ttrpg-cli/spell/list/reward/charm-of-the-travelers-haven
+  - Zauber/Liste/reward/charm-of-the-travelers-haven
 aliases:
   - "Spells for Charm of the Traveler's Haven"
 ---

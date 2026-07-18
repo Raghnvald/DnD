@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Paladin
+Status: WIP
 linter-yaml-title-alias: Paladin
 tags:
   - Quelle/5e/ggr

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gem of Seeing
+Status: WIP
 linter-yaml-title-alias: Gem of Seeing
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

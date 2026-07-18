@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scriptorium
+Status: WIP
 linter-yaml-title-alias: Scriptorium
 tags:
   - Kompendium/Bastion

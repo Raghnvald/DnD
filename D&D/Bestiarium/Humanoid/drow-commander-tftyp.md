@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Commander
+Status: WIP
 linter-yaml-title-alias: Drow Commander
 tags:
   - Monster/Größe/Mittelgroß

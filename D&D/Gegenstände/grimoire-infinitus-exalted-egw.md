@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Grimoire Infinitus (Exalted)
+Status: WIP
 linter-yaml-title-alias: Grimoire Infinitus (Exalted)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:

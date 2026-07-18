@@ -1,27 +1,28 @@
 ---
-Bezeichnung: Heroism
+Bezeichnung: Heldenmut
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Heroism
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Heldenmut
 classes:
   - Bard (Magical Secrets)
   - Paladin
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/paladin
-  - Kompendium/Talent/magic-initiate/bard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Barde-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Heroism
+  - Heldenmut
 ---
-# Heroism
+# Heldenmut
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 Action

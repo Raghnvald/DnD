@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bore Worm
+Status: WIP
 linter-yaml-title-alias: Bore Worm
 tags:
   - Monster/Größe/Gigantisch

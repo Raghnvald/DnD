@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Mordenkainen's Faithful Hound"
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Faithful Hound"
 classes:
   - Bard (Magical Secrets)

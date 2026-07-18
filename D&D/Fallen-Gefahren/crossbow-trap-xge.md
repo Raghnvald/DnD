@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crossbow Trap
+Status: WIP
 linter-yaml-title-alias: Crossbow Trap
 tags:
   - Kompendium/Bedrohung/smpl

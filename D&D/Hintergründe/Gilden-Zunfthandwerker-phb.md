@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gilden-/Zunfthandwerker
+Status: WIP
 linter-yaml-title-alias: Gilden-/Zunfthandwerker
 tags:
   - Kompendium/Hintergrund

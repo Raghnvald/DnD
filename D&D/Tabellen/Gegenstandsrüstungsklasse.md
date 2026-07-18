@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rüstungsklasse eines Gegenstands
+Status: WIP
 linter-yaml-title-alias: Rüstungsklasse eines Gegenstands
 tags:
   - Quelle/5e/dmg

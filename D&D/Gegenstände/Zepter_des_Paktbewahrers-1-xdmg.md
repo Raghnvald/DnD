@@ -1,8 +1,9 @@
 ---
 Bezeichnung: +1 Rod of the Pact Keeper
+Status: WIP
 linter-yaml-title-alias: +1 Rod of the Pact Keeper
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg

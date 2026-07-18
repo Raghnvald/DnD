@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Great Weapon Master
+Status: WIP
 linter-yaml-title-alias: Great Weapon Master
 tags:
   - Kompendium/Talent

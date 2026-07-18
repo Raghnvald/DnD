@@ -1,5 +1,6 @@
 ---
 Bezeichnung: White Dragon
+Status: WIP
 linter-yaml-title-alias: White Dragon
 tags:
   - Monster/legendary-group

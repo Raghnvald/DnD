@@ -2,8 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Figaro
+Kategorie: Humanoid (jedes Volk)
+Größe: Mittelgroß
+HG: "6"
+Habitat:
+  - /
 Image: token/figaro-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Figaro
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,12 +17,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Figaro
-Kategorie: Humanoid (jedes Volk)
-Größe: Mittelgroß
-HG: "6"
-Habitat:
-  - /
 IMAGE:
+status: WIP
 ---
 # [Figaro](3-Mechanics\CLI\bestiary\npc/figaro-veor.md)
 *Source: Vecna: Eve of Ruin*  

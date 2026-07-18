@@ -5,15 +5,16 @@ Bezeichnung: Derro Raider
 Kategorie: Aberration
 Größe: Klein
 HG: 1/4
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Derro Raider
 tags:
   - Quelle/5e/qftis
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/Aberration
 aliases:
   - Derro Raider
+status: WIP
 ---
 # [Derro Raider](3-Mechanics/CLI/bestiary/aberration/derro-raider-qftis.md)
 *Source: Quests from the Infinite Staircase p. 196*  

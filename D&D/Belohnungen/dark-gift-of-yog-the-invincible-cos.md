@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Yog the Invincible
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Yog the Invincible
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Yog the Invincible

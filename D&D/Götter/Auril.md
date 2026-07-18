@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Auril, Göttin des Winters
+Status: WIP
 linter-yaml-title-alias: Auril, Göttin des Winters
 tags:
   - Kompendium/Götter

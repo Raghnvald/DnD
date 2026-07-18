@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Vanrak's Mithral Shirt"
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: "Vanrak's Mithral Shirt"
 tags:
   - Gegenstand/Rüstung/Mittel
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - "Vanrak's Mithral Shirt"
+status: WIP
 ---
 # Vanrak's Mithral Shirt
 *Medium armor (chain shirt), uncommon*  

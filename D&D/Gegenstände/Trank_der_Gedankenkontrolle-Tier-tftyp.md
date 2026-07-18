@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Mind Control (beast)
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Mind Control (beast)
 tags:
   - Gegenstand/Seltenheit/selten

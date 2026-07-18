@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Treacherous Allure
+Status: WIP
 linter-yaml-title-alias: Treacherous Allure
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Treacherous Allure"
+  - Treacherous Allure
   - Treacherous Allure
 ---
 # Treacherous Allure

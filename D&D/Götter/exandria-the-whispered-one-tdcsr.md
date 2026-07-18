@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Whispered One
+Status: WIP
 linter-yaml-title-alias: The Whispered One
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - The Whispered One

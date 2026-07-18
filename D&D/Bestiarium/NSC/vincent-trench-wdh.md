@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vincent Trench
+Status: WIP
 linter-yaml-title-alias: Vincent Trench
 tags:
   - Monster/Größe/Mittelgroß

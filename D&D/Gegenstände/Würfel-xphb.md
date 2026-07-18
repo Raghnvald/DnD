@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dice Set
+Status: WIP
 linter-yaml-title-alias: Dice Set
 tags:
   - Gegenstand/Ausrüstung/Spielset

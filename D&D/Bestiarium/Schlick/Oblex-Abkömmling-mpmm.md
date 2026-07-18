@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oblex Spawn
+Status: WIP
 linter-yaml-title-alias: Oblex Spawn
 tags:
   - Monster/Größe/Winzig

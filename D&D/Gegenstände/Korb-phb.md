@@ -2,10 +2,10 @@
 Bezeichnung: Korb
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 SM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Korb
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,9 +18,7 @@ aliases:
 *Abenteuerausrüstung*
 
 - **Kosten**: 4 SM
-- **Gewicht**: 1,0 kg.
-
-A basket holds 2 cubic feet or 40 pounds of gear.
+- **Gewicht**: 1,0 kg
 
 Ein Korb fasst 60 Liter oder 20,0 kg. Ausrüstung.
 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Alchemist
+Status: WIP
 linter-yaml-title-alias: Skeletal Alchemist
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Mind Control (monster)
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Mind Control (monster)
 tags:
   - Gegenstand/Seltenheit/sehr_selten

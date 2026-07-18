@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Keoghtom's Ointment"
+Status: WIP
 linter-yaml-title-alias: "Keoghtom's Ointment"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

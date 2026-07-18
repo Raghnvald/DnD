@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Istishia
+Status: WIP
 linter-yaml-title-alias: Istishia
 tags:
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Istishia

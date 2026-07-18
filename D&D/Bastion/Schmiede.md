@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Smithy
+Status: WIP
 linter-yaml-title-alias: Smithy
 tags:
   - Kompendium/Bastion

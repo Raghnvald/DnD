@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Blob of Annihilation)
+Status: WIP
 linter-yaml-title-alias: Scroll of Titan Summoning (Blob of Annihilation)
 tags:
   - Gegenstand/Seltenheit/legendär

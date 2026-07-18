@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Types
+Status: WIP
 linter-yaml-title-alias: Sovereign Types
 tags:
   - Quelle/5e/tce

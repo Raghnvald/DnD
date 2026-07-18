@@ -1,22 +1,25 @@
 ---
-Bezeichnung: Korolnor Scepter
-Kategorie: Einfache Nahkampfwaffe
+Bezeichnung: Korolnorzepter
+Original: Korolnor Scepter
+Kategorie: Nahkampfwaffe, einfach
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung: erfordert
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 1,0 kg
-linter-yaml-title-alias: Korolnor Scepter
+Status: WIP
+linter-yaml-title-alias: Korolnorzepter
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/skt
 aliases:
-  - Korolnor Scepter
+  - Korolnorzepter
+status: WIP
 ---
-# Korolnor Scepter
+# Korolnorzepter
 *Weapon (club), legendary (requires attunement)*  
 
 - **Damage**: 1d4 bludgeoning

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flame Storm
+Status: WIP
 linter-yaml-title-alias: Flame Storm
 tags:
   - Kompendium/Bedrohung/est

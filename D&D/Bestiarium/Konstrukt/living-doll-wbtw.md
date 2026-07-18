@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Doll
+Status: WIP
 linter-yaml-title-alias: Living Doll
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/construct
+  - Monster/HG/2
+  - Monster/Größe/Winzig
+  - Monster/Typ/Konstrukt
 aliases:
-  - "Living Doll"
+  - Living Doll
   - Living Doll
 ---
 # [Living Doll](3-Mechanics/CLI/bestiary/construct/living-doll-wbtw.md)

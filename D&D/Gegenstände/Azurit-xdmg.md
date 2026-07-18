@@ -2,14 +2,15 @@
 Bezeichnung: Azurite
 Kst.: 10 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Azurite
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Azurite
+status: WIP
 ---
 # Azurite
 *Treasure (gemstone)*  

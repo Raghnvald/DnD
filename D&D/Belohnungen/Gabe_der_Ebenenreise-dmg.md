@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Ebenenreise
+Status: WIP
 linter-yaml-title-alias: Gabe der Ebenenreise
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Planar Travel

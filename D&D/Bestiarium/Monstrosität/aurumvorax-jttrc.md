@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aurumvorax
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aurumvorax
 tags:
   - Monster/Größe/Klein
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Aurumvorax
+status: WIP
 ---
 # [Aurumvorax](3-Mechanics\CLI\bestiary\monstrosity/aurumvorax-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 105*  

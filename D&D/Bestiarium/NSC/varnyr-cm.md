@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Varnyr
+Status: WIP
 linter-yaml-title-alias: Varnyr
 tags:
   - Monster/Größe/Mittelgroß

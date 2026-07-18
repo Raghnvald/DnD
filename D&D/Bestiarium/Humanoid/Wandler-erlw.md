@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shifter
+Status: WIP
 linter-yaml-title-alias: Shifter
 tags:
   - Monster/Größe/Mittelgroß

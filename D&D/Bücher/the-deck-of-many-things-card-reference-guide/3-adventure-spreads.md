@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Adventure Spreads
+Status: WIP
 linter-yaml-title-alias: Adventure Spreads
 tags:
   - Quelle/5e/dmtcrg
 aliases:
-  - "Adventure Spreads"
+  - Adventure Spreads
   - Adventure Spreads
 ---
 # Adventure Spreads

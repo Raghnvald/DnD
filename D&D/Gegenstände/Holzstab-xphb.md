@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wooden Staff
+Status: WIP
 linter-yaml-title-alias: Wooden Staff
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

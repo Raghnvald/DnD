@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jourrael, the Caedogeist
+Status: WIP
 linter-yaml-title-alias: Jourrael, the Caedogeist
 tags:
   - Monster/Größe/Mittelgroß

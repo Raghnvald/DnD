@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Skr'a S'orsk"
+Status: WIP
 linter-yaml-title-alias: "Skr'a S'orsk"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - "Skr'a S'orsk"
-  - Skr'a S'orsk
 ---
 # [Skr'a S'orsk](3-Mechanics\CLI\bestiary\npc/skra-sorsk-egw.md)
 *Source: Explorer's Guide to Wildemount p. 254*  

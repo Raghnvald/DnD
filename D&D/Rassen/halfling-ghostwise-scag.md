@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Ghostwise)
+Status: WIP
 linter-yaml-title-alias: Halfling (Ghostwise)
 tags:
   - Quelle/5e/scag

@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ashdra
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ashdra
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Ashdra
+status: WIP
 ---
 # [Ashdra](3-Mechanics\CLI\bestiary\npc/ashdra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

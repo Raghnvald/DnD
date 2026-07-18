@@ -6,7 +6,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Alter Self
 classes:
   - Artificer
@@ -32,6 +32,7 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Alter Self
+status: WIP
 ---
 # Alter Self
 *2nd-level, Transmutation*  

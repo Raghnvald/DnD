@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Das Zhentarim
+Status: WIP
 linter-yaml-title-alias: Das Zhentarim
 tags:
   - Quelle/5e/phb

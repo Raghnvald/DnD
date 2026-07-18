@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Onyx Dog
+Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Onyx Dog
 tags:
   - Gegenstand/Seltenheit/selten

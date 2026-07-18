@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vajra Safahr
+Status: WIP
 linter-yaml-title-alias: Vajra Safahr
 tags:
   - Monster/Größe/Mittelgroß

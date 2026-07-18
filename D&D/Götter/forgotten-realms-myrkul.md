@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Myrkul
+Status: WIP
 linter-yaml-title-alias: Myrkul
 tags:
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

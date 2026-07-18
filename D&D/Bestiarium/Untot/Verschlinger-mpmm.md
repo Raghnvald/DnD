@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Devourer
+Status: WIP
 linter-yaml-title-alias: Devourer
 tags:
   - Monster/Größe/Groß

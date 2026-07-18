@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Condition
+Status: WIP
 linter-yaml-title-alias: Condition
 tags:
   - Quelle/5e/xphb

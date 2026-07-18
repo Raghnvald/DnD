@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Good Mead
+Status: WIP
 linter-yaml-title-alias: Good Mead
 tags:
   - Quelle/5e/idrotf

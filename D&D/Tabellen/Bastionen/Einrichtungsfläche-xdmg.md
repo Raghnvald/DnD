@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Einrichtungsfläche
 Kategorie: Bastion
+Status: WIP
 linter-yaml-title-alias: Einrichtungsfläche
 tags:
   - Quelle/5e/xdmg

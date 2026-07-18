@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Repeating Shot
+Status: WIP
 linter-yaml-title-alias: Repeating Shot
 tags:
   - Kompendium/Optionales/ai

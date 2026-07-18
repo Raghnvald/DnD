@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 8: Fates"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: Fates"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 8: Fates"
-  - Chapter 8: Fates
 ---
 # Chapter 8: Fates
 *Source: The Book of Many Things, p. 57* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Breath of Winter
+Status: WIP
 linter-yaml-title-alias: Breath of Winter
 tags:
   - Kompendium/Optionales/ed

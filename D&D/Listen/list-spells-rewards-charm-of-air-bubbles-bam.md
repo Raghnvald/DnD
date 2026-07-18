@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Air Bubbles
+Status: WIP
 linter-yaml-title-alias: Spells for Charm of Air Bubbles
 tags:
-  - ttrpg-cli/spell/list/reward/charm-of-air-bubbles
+  - Zauber/Liste/reward/charm-of-air-bubbles
 aliases:
-  - "Spells for Charm of Air Bubbles"
+  - Spells for Charm of Air Bubbles
   - Spells for Charm of Air Bubbles
 ---
 # Spells for Charm of Air Bubbles

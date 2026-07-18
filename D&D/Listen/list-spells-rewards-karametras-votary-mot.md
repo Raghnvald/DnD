@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Karametra's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Karametra's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/karametras-votary
+  - Zauber/Liste/reward/karametras-votary
 aliases:
   - "Spells for Karametra's Votary"
 ---

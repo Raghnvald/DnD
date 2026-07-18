@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection from Energy
+Status: WIP
 linter-yaml-title-alias: Protection from Energy
 classes:
   - Artificer

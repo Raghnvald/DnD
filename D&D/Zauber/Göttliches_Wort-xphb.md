@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Divine Word
+Status: WIP
 linter-yaml-title-alias: Divine Word
 classes:
   - Bard

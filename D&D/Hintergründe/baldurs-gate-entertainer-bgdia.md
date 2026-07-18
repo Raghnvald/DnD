@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Entertainer"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Entertainer"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Entertainer"
-  - Baldur's Gate Entertainer
 ---
 # Baldur's Gate Entertainer
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 130*  

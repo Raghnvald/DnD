@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Umberlee
+Status: WIP
 linter-yaml-title-alias: Umberlee
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

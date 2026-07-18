@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gertruda
+Status: WIP
 linter-yaml-title-alias: Gertruda
 tags:
   - Monster/Größe/Mittelgroß

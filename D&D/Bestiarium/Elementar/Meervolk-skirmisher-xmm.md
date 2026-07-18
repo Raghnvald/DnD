@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merfolk Skirmisher
+Status: WIP
 linter-yaml-title-alias: Merfolk Skirmisher
 tags:
   - Monster/Größe/Mittelgroß

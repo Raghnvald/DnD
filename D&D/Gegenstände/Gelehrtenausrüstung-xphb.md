@@ -2,6 +2,7 @@
 Bezeichnung: "Scholar's Pack"
 Kst.: 40 GM
 Gew.: 11 kg
+Status: WIP
 linter-yaml-title-alias: "Scholar's Pack"
 tags:
   - Gegenstand/Ausrüstung/

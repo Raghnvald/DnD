@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Twilight Domain
+Status: WIP
 linter-yaml-title-alias: Twilight Domain
 tags:
   - Klasse/Kleriker/twilight
-  - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/Domäne/Dämmerung
   - Quelle/5e/tce
 aliases:
   - Twilight Domain

@@ -1,27 +1,30 @@
 ---
-Bezeichnung: Mace of Smiting
-Kategorie: Einfache Nahkampfwaffe
-Schaden: 1W6 Wucht
+Bezeichnung: Streitkolben des Niederstreckens
+Kategorie: Nahkampfwaffe, einfach
+Schaden: 1d6 Wucht
 Eigenschaften:
-  - /
-Einstimmung: /
-Kst.: /
+  - n/v
+Einstimmung: n/v
+Kst.: n/v
 Gew.: 2,0 kg
-linter-yaml-title-alias: Mace of Smiting
+Status: WIP
+linter-yaml-title-alias: Streitkolben des Niederstreckens
 tags:
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Mace of Smiting
+  - Streitkolben des Niederstreckens
+status: WIP
+Original: Mace of Smiting
 ---
-# Mace of Smiting
+# Streitkolben des Niederstreckens
 *Weapon ([[Streitkolben-phb|Streitkolben]]), major, rare*
 <img src="mace-of-smiting.webp" align="right" width="150">
 
 - **Schaden:** 1d6 Wucht
-- **Gewicht:** 2,0 kgBerserkeraxt
+- **Gewicht:** 2,0 kg
 
 Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die du mit dieser magischen Waffe ausführst. Der Bonus erhöht sich auf +3, wenn du ein Konstrukt mit dem Streitkolben angreifst.
 

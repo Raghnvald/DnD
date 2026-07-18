@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Hezrou
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Hezrou
 tags:
   - Monster/Größe/Groß

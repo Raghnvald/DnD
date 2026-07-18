@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gem Shards
+Status: WIP
 linter-yaml-title-alias: Gem Shards
 tags:
   - Quelle/5e/bmt

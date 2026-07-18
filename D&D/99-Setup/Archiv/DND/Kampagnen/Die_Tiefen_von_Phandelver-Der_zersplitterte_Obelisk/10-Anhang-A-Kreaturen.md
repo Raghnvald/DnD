@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Anhang A: Kreaturen"
+Status: WIP
 linter-yaml-title-alias: "Anhang A: Kreaturen"
 tags:
   - Quelle/5e/pabtso
 aliases:
   - "Anhang A: Kreaturen"
-  - Appendix A: Bestiary
+  - "Appendix A: Bestiary"
 ---
 # Anhang A: Kreaturen
 *Quellen: Die Tiefen von Phandelver: Der zersplitterte Obelisk, S. 203* 

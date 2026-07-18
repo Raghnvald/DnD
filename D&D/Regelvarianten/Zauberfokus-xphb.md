@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spellcasting Focus
+Status: WIP
 linter-yaml-title-alias: Spellcasting Focus
 tags:
   - Quelle/5e/xphb

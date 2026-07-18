@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Whirlpools; Whirlpool Rank
+Status: WIP
 linter-yaml-title-alias: Whirlpools; Whirlpool Rank
 tags:
   - Quelle/5e/gos

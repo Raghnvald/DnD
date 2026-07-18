@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: INT
 Schaden: 8d6 psychisch
+Status: WIP
 tags:
   - Klasse/Barde
   - Klasse/Hexenmeister

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cult Adventures; Cult Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Cult Adventures; Cult Adventure Hooks
 tags:
   - Quelle/5e/erlw

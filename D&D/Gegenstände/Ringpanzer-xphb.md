@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ring Mail
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Ring Mail
 tags:
   - Gegenstand/Rüstung/Schwer

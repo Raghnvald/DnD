@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barovia Adventures
+Status: WIP
 linter-yaml-title-alias: Barovia Adventures
 tags:
   - Quelle/5e/vrgr

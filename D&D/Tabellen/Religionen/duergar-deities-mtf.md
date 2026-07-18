@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Deities
+Status: WIP
 linter-yaml-title-alias: Duergar Deities
 tags:
   - Quelle/5e/mtf

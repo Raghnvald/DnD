@@ -1,14 +1,17 @@
 ---
 Bezeichnung: Staff of Power
 Kategorie: Zauberstecken
+Status: WIP
 linter-yaml-title-alias: Staff of Power
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
   - Staff of Power
+status: WIP
+Original: Staff of Power
 ---
 # Staff of Power
 *Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  

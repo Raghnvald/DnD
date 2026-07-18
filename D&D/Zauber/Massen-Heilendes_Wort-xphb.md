@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mass Healing Word
+Status: WIP
 linter-yaml-title-alias: Mass Healing Word
 classes:
   - Artificer (Alchemist)
@@ -13,7 +14,7 @@ tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/Kleriker/order-domain
   - Quelle/5e/xphb
   - Subklasse/Alchemist

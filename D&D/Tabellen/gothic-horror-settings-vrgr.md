@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Settings
+Status: WIP
 linter-yaml-title-alias: Gothic Horror Settings
 tags:
   - Quelle/5e/vrgr

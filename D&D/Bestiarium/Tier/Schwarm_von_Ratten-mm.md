@@ -2,14 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Schwarm von Ratten
-Kategorie: Bestie
+Kategorie: Tier
 Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Stadt
   - Sumpf
-image:
-status:
+Status: WIP
 linter-yaml-title-alias: Schwarm von Ratten
 tags:
   - Monster/Größe/Mittelgroß
@@ -21,6 +20,8 @@ tags:
 aliases:
   - Schwarm von Ratten
   - Swarm of Rats
+image:
+status:
 ---
 # Schwarm von Ratten
 *Quelle: Monsterhandbuch S. 336. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

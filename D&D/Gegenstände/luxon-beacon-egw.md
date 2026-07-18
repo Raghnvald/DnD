@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Luxon Beacon
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Luxon Beacon
 tags:
   - Gegenstand/Seltenheit/legendär

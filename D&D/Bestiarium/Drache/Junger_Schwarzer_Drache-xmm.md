@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Black Dragon
+Status: WIP
 linter-yaml-title-alias: Young Black Dragon
 tags:
   - Monster/Größe/Groß

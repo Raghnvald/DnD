@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lightly Armored
+Status: WIP
 linter-yaml-title-alias: Lightly Armored
 tags:
   - Kompendium/Talent

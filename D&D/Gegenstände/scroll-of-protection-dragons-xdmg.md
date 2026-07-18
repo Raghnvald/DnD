@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Dragons)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Dragons)
 tags:
   - Gegenstand/Seltenheit/selten

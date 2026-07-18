@@ -2,14 +2,15 @@
 Bezeichnung: Orb of Shielding (Fernian Basalt)
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Orb of Shielding (Fernian Basalt)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/erlw
@@ -17,6 +18,7 @@ aliases:
   - Fernian Basalt Crystal
   - Fernian Basalt Orb
   - Orb of Shielding (Fernian Basalt)
+status: WIP
 ---
 # Orb of Shielding (Fernian Basalt)
 *Wondrous item, common (requires attunement)*  

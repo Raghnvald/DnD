@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stat Block
+Status: WIP
 linter-yaml-title-alias: Stat Block
 tags:
   - Quelle/5e/xphb

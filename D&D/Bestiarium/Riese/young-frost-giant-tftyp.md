@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Frost Giant
+Status: WIP
 linter-yaml-title-alias: Young Frost Giant
 tags:
   - Monster/Größe/Groß

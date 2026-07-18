@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waterdhavian Noble
+Status: WIP
 linter-yaml-title-alias: Waterdhavian Noble
 tags:
   - Kompendium/Hintergrund

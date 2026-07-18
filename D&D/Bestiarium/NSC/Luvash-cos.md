@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Luvash
+Status: WIP
 linter-yaml-title-alias: Luvash
 tags:
   - Monster/Größe/Mittelgroß

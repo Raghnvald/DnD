@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reliquary
+Status: WIP
 linter-yaml-title-alias: Reliquary
 tags:
   - Kompendium/Bastion

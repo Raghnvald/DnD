@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Blood War
+Status: WIP
 linter-yaml-title-alias: The Blood War
 tags:
   - Quelle/5e/mtf

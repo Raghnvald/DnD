@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Incabulos
+Status: WIP
 linter-yaml-title-alias: Incabulos
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Incabulos

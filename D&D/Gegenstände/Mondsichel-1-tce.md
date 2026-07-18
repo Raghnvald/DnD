@@ -1,9 +1,10 @@
 ---
 Bezeichnung: +1 Moon Sickle
 Kategorie: Einfache Nahkampfwaffe
+Status: WIP
 linter-yaml-title-alias: +1 Moon Sickle
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

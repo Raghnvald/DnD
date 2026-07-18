@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blood Witch
+Status: WIP
 linter-yaml-title-alias: Blood Witch
 tags:
   - Monster/Größe/Mittelgroß

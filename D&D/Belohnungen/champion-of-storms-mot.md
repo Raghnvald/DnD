@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Champion of Storms
+Status: WIP
 linter-yaml-title-alias: Champion of Storms
 tags:
   - Kompendium/Belohnung/piety-trait
   - Quelle/5e/mot
 aliases:
-  - "Champion of Storms"
+  - Champion of Storms
   - Champion of Storms
 ---
 # Champion of Storms

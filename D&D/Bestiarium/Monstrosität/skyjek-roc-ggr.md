@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skyjek Roc
+Status: WIP
 linter-yaml-title-alias: Skyjek Roc
 tags:
   - Monster/Größe/Groß

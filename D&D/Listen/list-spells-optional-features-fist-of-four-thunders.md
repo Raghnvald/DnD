@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Fist of Four Thunders
+Status: WIP
 linter-yaml-title-alias: Spells for Fist of Four Thunders
 tags:
-  - Zauber/list/optfeature/fist-of-four-thunders
+  - Zauber/Liste/optfeature/fist-of-four-thunders
 aliases:
   - Spells for Fist of Four Thunders
 ---

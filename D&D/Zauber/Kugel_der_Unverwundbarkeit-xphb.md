@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Globe of Invulnerability
+Status: WIP
 linter-yaml-title-alias: Globe of Invulnerability
 classes:
   - Bard

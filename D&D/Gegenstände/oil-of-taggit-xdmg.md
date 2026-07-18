@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oil of Taggit
+Status: WIP
 linter-yaml-title-alias: Oil of Taggit
 tags:
   - Gegenstand/Ausrüstung/

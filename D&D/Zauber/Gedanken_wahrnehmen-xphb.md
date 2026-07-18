@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Detect Thoughts
+Status: WIP
 linter-yaml-title-alias: Detect Thoughts
 classes:
   - Bard
@@ -17,7 +18,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/telepathic
+  - Kompendium/Talent/telepathisch
   - Quelle/5e/xphb
   - Rasse/githzerai
   - Subklasse/aberrant-sorcery

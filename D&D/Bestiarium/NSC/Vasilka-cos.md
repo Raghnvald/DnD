@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vasilka
+Status: WIP
 linter-yaml-title-alias: Vasilka
 tags:
   - Monster/Größe/Mittelgroß

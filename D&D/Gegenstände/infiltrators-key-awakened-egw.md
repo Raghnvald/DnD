@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Infiltrator's Key (Awakened)"
+Status: WIP
 linter-yaml-title-alias: "Infiltrator's Key (Awakened)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:

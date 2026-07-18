@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Beholder; Beholder Bonds
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Beholder; Beholder Bonds
 tags:
   - Quelle/5e/vgm

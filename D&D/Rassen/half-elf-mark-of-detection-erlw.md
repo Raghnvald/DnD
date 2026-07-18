@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf (Mark of Detection)
+Status: WIP
 linter-yaml-title-alias: Half-Elf (Mark of Detection)
 tags:
   - Quelle/5e/erlw

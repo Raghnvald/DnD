@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Krimineller
+Status: WIP
 linter-yaml-title-alias: Krimineller
 tags:
   - Kompendium/Hintergrund

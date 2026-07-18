@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Evoker
+Status: WIP
 linter-yaml-title-alias: Evoker
 tags:
   - Monster/Größe/Mittelgroß

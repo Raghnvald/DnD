@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Light Hammer
+Status: WIP
 linter-yaml-title-alias: Light Hammer
 tags:
   - Gegenstand/Seltenheit/keine

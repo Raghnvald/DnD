@@ -1,7 +1,15 @@
 ---
-Bezeichnung: Shotgun
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Shotgun
+Bezeichnung: Schrotflinte
+Original: Shotgun
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 2d9 Stich
+Eigenschaften:
+  - Geschosse
+  - Zweihändig
+Kst.: n/v
+Gew.: 3,5 kg
+Status: completed
+linter-yaml-title-alias: Schrotflinte
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,14 +17,14 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
-  - Shotgun
+  - Schrotflinte
 ---
-# Shotgun
-*Weapon*  
+# Schrotflinte
+*Fernkampf-Kriegswaffe, modern*  
 
-- **Damage**: 2d8 piercing
-- **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 7.0 lbs.
+- **Schaden**: 2d8 Stich
+- **Reichweite**: 9/27
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,5 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

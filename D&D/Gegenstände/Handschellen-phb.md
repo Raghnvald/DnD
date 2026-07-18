@@ -2,10 +2,10 @@
 Bezeichnung: Handschellen
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 3,0 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Handschellen
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,11 +15,11 @@ aliases:
   - Handschellen
 ---
 # Handschellen
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 2 gp
-- **Weight**: 6.0 lbs.
+- **Kosten**: 2 GM
+- **Gewicht**: 3,0 kg
 
-These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md) can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+Diese metallenen Fesseln können einer kleinen oder mittelgroßen Kreatur angelegt werden. Sich den Handschellen zu entwinden, erfordert einen erfolgreichen `Geschicklichkeitswurf` gegen `SG 20`. Mit einem `Stärkewurf` gegen `SG 20` können sie auch aufgebrochen werden. Jedem Paar Handschellen liegt ein Schlüssel bei. Eine Kreatur, die geübt im Umgang mit [[Diebeswerkzeug-phb|Diebeswerkzeug]] ist, kann die Handschellen auch ohne Schlüssel mit einem erfolgreichen `Geschicklichkeitswurf` gegen `SG 15` öffnen. Handschellen haben 15 Trefferpunkte. 
 
-*Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 152. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Tables; Githzerai Flaws
+Status: WIP
 linter-yaml-title-alias: Gith Tables; Githzerai Flaws
 tags:
   - Quelle/5e/mtf

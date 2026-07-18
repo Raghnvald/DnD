@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Books
+Status: WIP
 linter-yaml-title-alias: Swarm of Books
 tags:
   - Monster/Größe/Mittelgroß

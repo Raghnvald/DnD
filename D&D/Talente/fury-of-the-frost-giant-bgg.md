@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fury of the Frost Giant
+Status: WIP
 linter-yaml-title-alias: Fury of the Frost Giant
 tags:
   - Kompendium/Talent

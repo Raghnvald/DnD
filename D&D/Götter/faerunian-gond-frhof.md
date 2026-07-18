@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Gond
+Status: WIP
 linter-yaml-title-alias: Gond
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Gond"
-  - "The Holy Maker of All Things"
-  - "The Inspiration Divine"
-  - "Wonderbringer"
   - Gond
+  - Gond
+  - The Holy Maker of All Things
+  - The Inspiration Divine
+  - Wonderbringer
 ---
 # Gond
 *Source: Forgotten Realms: Heroes of Faerûn p. 107* 

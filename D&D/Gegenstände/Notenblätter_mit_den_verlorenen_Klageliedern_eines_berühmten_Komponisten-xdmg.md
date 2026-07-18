@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bundle of sheet music representing the lost dirges of a famous composer
+Status: WIP
 linter-yaml-title-alias: Bundle of sheet music representing the lost dirges of a famous composer
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

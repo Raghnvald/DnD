@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Setting Up a Home Bar
+Status: WIP
 linter-yaml-title-alias: Setting Up a Home Bar
 tags:
   - Quelle/5e/paf
 aliases:
-  - "Setting Up a Home Bar"
+  - Setting Up a Home Bar
   - Setting Up a Home Bar
 ---
 # Setting Up a Home Bar

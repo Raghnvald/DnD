@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Enlarge/Reduce
+Bezeichnung: Vergrößern/Verkleinern
 Zaubergrad: 2
-linter-yaml-title-alias: Enlarge/Reduce
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Vergrößern/Verkleinern
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -18,9 +20,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Enlarge/Reduce
+  - Vergrößern/Verkleinern
 ---
-# Enlarge/Reduce
+# Vergrößern/Verkleinern
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

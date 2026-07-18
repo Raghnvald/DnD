@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Boots of Speed
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Boots of Speed
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg

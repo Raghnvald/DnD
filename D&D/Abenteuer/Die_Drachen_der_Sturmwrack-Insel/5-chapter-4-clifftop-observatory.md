@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Clifftop Observatory"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Clifftop Observatory"
 tags:
   - Quelle/5e/dosi

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Danger at Dunwater"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Danger at Dunwater"
 tags:
   - Quelle/5e/gos
 aliases:
   - "Chapter 3: Danger at Dunwater"
-  - Chapter 3: Danger at Dunwater
 ---
 # Chapter 3: Danger at Dunwater
 *Source: Ghosts of Saltmarsh, p. 61* 

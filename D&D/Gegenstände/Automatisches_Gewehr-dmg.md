@@ -1,7 +1,17 @@
 ---
-Bezeichnung: Automatic Rifle
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Automatic Rifle
+Bezeichnung: Gewehr, automatisch
+Original: Automatic Rifle
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 2d8 Stich
+Eigenschaften:
+  - Feuerstoß
+  - Geschosse
+  - Nachladen (30 Schuss)
+  - Zweihändig
+Kst.: n/v
+Gew.: 4,0 kg
+Status: completed
+linter-yaml-title-alias: Gewehr, automatisch
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,14 +19,14 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
-  - Automatic Rifle
+  - Gewehr, automatisch
 ---
-# Automatic Rifle
-*Weapon*  
+# Gewehr, automatisch
+*Fernkampf-Kriegswaffe, modern*  
 
-- **Damage**: 2d8 piercing
-- **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/3-Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 8.0 lbs.
+- **Schaden**: 2d8 Stich
+- **Reichweite**: 24/72
+- **Properties**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Feuerstoß|Feuerstoß]], [[Gegenstandseigenschaften-phb#Nachladen|Nachladen]] (30 Schuss), [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 4,0 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

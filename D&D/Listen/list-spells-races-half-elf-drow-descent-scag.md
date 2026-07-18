@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Half-Elf (Drow Descent)
+Status: WIP
 linter-yaml-title-alias: Spells for Half-Elf (Drow Descent)
 tags:
-  - Zauber/list/subrace/half-elf-drow-descent
+  - Zauber/Liste/subrace/half-elf-drow-descent
 aliases:
   - Spells for Half-Elf (Drow Descent)
 ---

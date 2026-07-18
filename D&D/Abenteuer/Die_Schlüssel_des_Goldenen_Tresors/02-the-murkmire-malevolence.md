@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Murkmire Malevolence
+Status: WIP
 linter-yaml-title-alias: The Murkmire Malevolence
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "The Murkmire Malevolence"
+  - The Murkmire Malevolence
   - The Murkmire Malevolence
 ---
 # The Murkmire Malevolence

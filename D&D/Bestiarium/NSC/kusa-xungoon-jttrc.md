@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kusa Xungoon
+Status: WIP
 linter-yaml-title-alias: Kusa Xungoon
 tags:
   - Monster/Größe/Mittelgroß

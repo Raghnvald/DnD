@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Venomous Snakes
+Status: WIP
 linter-yaml-title-alias: Swarm of Venomous Snakes
 tags:
   - Monster/Größe/Mittelgroß

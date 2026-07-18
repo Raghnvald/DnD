@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Liara Portyr
+Status: WIP
 linter-yaml-title-alias: Liara Portyr
 tags:
   - Monster/Größe/Mittelgroß

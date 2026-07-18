@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Alathrien Druanna
+Status: WIP
 linter-yaml-title-alias: Alathrien Druanna
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

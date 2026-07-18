@@ -5,7 +5,7 @@ Bezeichnung: Gnome Squidling
 Kategorie: Aberration
 Größe: Klein
 HG: 1/2
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gnome Squidling
 tags:
   - Monster/Größe/Klein
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Gnome Squidling
+status: WIP
 ---
 # [Gnome Squidling](3-Mechanics\CLI\bestiary\aberration/gnome-squidling-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  

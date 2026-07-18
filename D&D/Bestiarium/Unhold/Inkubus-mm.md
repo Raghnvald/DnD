@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Incubus
+Status: WIP
 linter-yaml-title-alias: Incubus
 tags:
   - Monster/Größe/Mittelgroß

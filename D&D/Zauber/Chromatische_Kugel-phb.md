@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Chromatische-Kugel
+Bezeichnung: Chromatische Kugel
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Minute
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: 8 Stunden
 Angriff:
 Schaden:
-linter-yaml-title-alias: Chromatische-Kugel
+Status: WIP
+linter-yaml-title-alias: Chromatische Kugel
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,16 +20,16 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Chromatische-Kugel
+  - Chromatische Kugel
 ---
-# Chromatische-Kugel
-_Hervorrufungszauber des 1. Grades
+# Chromatische Kugel
+*Hervorrufungszauber des 1. Grades*
 
 - **Zeitaufwand:** 1 Minute
 - **Reichweite / Fläche:** 9 Meter

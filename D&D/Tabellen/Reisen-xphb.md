@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Travel
+Status: WIP
 linter-yaml-title-alias: Travel
 tags:
   - Quelle/5e/xphb

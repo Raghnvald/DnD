@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Naxene Drathkala
+Status: WIP
 linter-yaml-title-alias: Naxene Drathkala
 tags:
   - Monster/Größe/Mittelgroß

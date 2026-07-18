@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+Status: WIP
 linter-yaml-title-alias: Searing Smite
 classes:
   - Cleric (Forge Domain)

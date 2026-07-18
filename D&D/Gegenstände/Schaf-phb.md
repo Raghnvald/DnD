@@ -2,10 +2,10 @@
 Bezeichnung: Schaf
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Schaf
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -13,6 +13,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schaf
+status: completed
+Original: Sheep
 ---
 # Schaf
 *Handelsgut*  

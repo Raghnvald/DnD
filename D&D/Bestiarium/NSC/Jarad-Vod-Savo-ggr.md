@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarad Vod Savo
+Status: WIP
 linter-yaml-title-alias: Jarad Vod Savo
 tags:
   - Monster/Größe/Mittelgroß

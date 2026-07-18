@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Meister der schweren Rüstungen
-linter-yaml-title-alias: Heavy Armor Master
+Status: WIP
+linter-yaml-title-alias: Meister der schweren Rüstungen
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Heavy Armor Master
+  - Meister der schweren Rüstungen
 ---
 # Meister der schweren Rüstungen
 *Source: Player's Handbook p. 167*  

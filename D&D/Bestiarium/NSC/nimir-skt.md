@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nimir
+Status: WIP
 linter-yaml-title-alias: Nimir
 tags:
   - Monster/Größe/Riesig

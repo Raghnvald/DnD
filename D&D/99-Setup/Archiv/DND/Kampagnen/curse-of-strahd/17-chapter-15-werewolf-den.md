@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 15: Werewolf Den"
+Status: WIP
 linter-yaml-title-alias: "Chapter 15: Werewolf Den"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 15: Werewolf Den"
-  - Chapter 15: Werewolf Den
 ---
 # Chapter 15: Werewolf Den
 *Source: Curse of Strahd, p. 201* 

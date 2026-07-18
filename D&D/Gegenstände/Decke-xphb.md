@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blanket
+Status: WIP
 linter-yaml-title-alias: Blanket
 tags:
   - Gegenstand/Ausrüstung/

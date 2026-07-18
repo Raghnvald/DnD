@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Maglubiyet
+Status: WIP
 linter-yaml-title-alias: Maglubiyet
 tags:
-  - Kompendium/Götter/Domäne/order
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

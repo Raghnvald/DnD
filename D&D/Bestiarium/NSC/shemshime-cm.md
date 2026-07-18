@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shemshime
+Status: WIP
 linter-yaml-title-alias: Shemshime
 tags:
   - Monster/Größe/Mittelgroß

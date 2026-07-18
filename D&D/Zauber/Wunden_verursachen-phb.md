@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Inflict Wounds
+Bezeichnung: Wunden verursachen
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Inflict Wounds
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Wunden verursachen
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -16,14 +17,14 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Klasse/Paladin/Eidbrecher
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Nekromantie
 aliases:
-  - Inflict Wounds
+  - Wunden verursachen
 ---
-# Inflict Wounds
+# Wunden verursachen
 *1st-level, Necromancy*  
 
 - **Casting time:** 1 Action

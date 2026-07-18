@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Power Word Heal
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Power Word Heal
 classes:
   - Bard (Magical Secrets)

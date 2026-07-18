@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thousand Teeth
+Status: WIP
 linter-yaml-title-alias: Thousand Teeth
 tags:
   - Monster/Größe/Groß

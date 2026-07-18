@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tortle
+Status: WIP
 linter-yaml-title-alias: Tortle
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Haunted Effects
+Status: WIP
 linter-yaml-title-alias: Haunted Effects
 tags:
   - Quelle/5e/tce

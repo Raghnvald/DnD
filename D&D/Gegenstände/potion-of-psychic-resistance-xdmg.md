@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Psychic Resistance
+Status: WIP
 linter-yaml-title-alias: Potion of Psychic Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

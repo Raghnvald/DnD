@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mixing Potions
+Status: WIP
 linter-yaml-title-alias: Mixing Potions
 tags:
   - Quelle/5e/xdmg

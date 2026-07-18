@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ceratos
+Status: WIP
 linter-yaml-title-alias: Ceratos
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Ceratos

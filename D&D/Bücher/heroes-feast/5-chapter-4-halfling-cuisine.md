@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Halfling Cuisine"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Halfling Cuisine"
 tags:
   - Quelle/5e/hf

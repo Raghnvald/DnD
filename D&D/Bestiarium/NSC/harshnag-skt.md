@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harshnag
+Status: WIP
 linter-yaml-title-alias: Harshnag
 tags:
   - Monster/Größe/Riesig

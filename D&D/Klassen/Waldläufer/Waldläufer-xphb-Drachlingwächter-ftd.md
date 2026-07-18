@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Drakewarden
+Status: WIP
 linter-yaml-title-alias: Drakewarden
 tags:
   - Klasse/Waldläufer/drakewarden

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gust of Wind
+Status: WIP
 linter-yaml-title-alias: Gust of Wind
 classes:
   - Bard

@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Lightning Bolt
+Bezeichnung: Blitz
 Zaubergrad: 3
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
-linter-yaml-title-alias: Lightning Bolt
+Status: WIP
+linter-yaml-title-alias: Blitz
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Mountain)
@@ -26,9 +27,9 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Lightning Bolt
+  - Blitz
 ---
-# Lightning Bolt
+# Blitz
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 Action

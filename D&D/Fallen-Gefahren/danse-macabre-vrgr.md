@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Danse Macabre
+Status: WIP
 linter-yaml-title-alias: Danse Macabre
 tags:
   - Kompendium/Bedrohung/haunt

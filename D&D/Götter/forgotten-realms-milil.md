@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Milil
+Status: WIP
 linter-yaml-title-alias: Milil
 tags:
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

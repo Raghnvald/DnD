@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thri-kreen
+Status: WIP
 linter-yaml-title-alias: Thri-kreen
 tags:
   - Monster/Größe/Mittelgroß

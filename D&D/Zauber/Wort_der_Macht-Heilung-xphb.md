@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Power Word Heal
+Status: WIP
 linter-yaml-title-alias: Power Word Heal
 classes:
   - Bard

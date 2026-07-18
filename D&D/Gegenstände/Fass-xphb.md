@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Barrel
+Status: WIP
 linter-yaml-title-alias: Barrel
 tags:
   - Gegenstand/Ausrüstung/

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconian Mage
+Status: WIP
 linter-yaml-title-alias: Draconian Mage
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bracers of Defense
+Status: WIP
 linter-yaml-title-alias: Bracers of Defense
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

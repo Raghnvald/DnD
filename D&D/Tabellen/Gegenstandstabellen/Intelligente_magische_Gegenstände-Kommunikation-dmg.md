@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Intelligente magische Gegenstände; Kommunikation
+Status: WIP
 linter-yaml-title-alias: Intelligente magische Gegenstände; Kommunikation
 tags:
   - Quelle/5e/dmg

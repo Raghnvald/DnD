@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Trickbeutel, rostfarben
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Trickbeutel, rostfarben
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

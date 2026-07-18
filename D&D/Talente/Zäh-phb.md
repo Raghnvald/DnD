@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zäh
-linter-yaml-title-alias: Tough
+Status: WIP
+linter-yaml-title-alias: Zäh
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Tough
+  - Zäh
 ---
 # Zäh
 *Source: Player's Handbook p. 170*  

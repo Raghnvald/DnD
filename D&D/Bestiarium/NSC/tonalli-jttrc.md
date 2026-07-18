@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tonalli
+Status: WIP
 linter-yaml-title-alias: Tonalli
 tags:
   - Monster/Größe/Mittelgroß

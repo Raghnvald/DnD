@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Gruumsh
+Status: WIP
 linter-yaml-title-alias: Gruumsh
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Gruumsh

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Raven Queen
+Status: WIP
 linter-yaml-title-alias: Raven Queen
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Leben
   - Quelle/5e/dmg
 aliases:
   - Raven Queen

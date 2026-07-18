@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Eyestalk Texture
+Status: WIP
 linter-yaml-title-alias: Physical Characteristics; Beholder Eyestalk Texture
 tags:
   - Quelle/5e/vgm

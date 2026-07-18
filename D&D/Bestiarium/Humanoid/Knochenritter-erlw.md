@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Knight
+Status: WIP
 linter-yaml-title-alias: Bone Knight
 tags:
   - Monster/Größe/Mittelgroß

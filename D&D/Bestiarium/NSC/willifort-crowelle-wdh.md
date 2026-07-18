@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Willifort Crowelle
+Status: WIP
 linter-yaml-title-alias: Willifort Crowelle
 tags:
   - Monster/Größe/Mittelgroß

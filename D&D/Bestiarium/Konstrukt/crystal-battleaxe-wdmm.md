@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crystal Battleaxe
+Status: WIP
 linter-yaml-title-alias: Crystal Battleaxe
 tags:
   - Monster/Größe/Klein

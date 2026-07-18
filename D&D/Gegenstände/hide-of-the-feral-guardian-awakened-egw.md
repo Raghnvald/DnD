@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hide of the Feral Guardian (Awakened)
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Hide of the Feral Guardian (Awakened)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw

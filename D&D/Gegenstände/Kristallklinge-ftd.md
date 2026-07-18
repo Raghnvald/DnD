@@ -1,24 +1,29 @@
 ---
-Bezeichnung: Crystal Blade
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Crystal Blade
+Bezeichnung: Kristallklinge
+Original: Crystal Blade
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
+linter-yaml-title-alias: Kristallklinge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:
-  - Crystal Blade
   - Crystal Double-Bladed Scimitar
   - Crystal Greatsword
   - Crystal Longsword
   - Crystal Rapier
   - Crystal Scimitar
   - Crystal Shortsword
+  - Kristallklinge
 ---
-# Crystal Blade
+# Kristallklinge
 *Rare (requires attunement)*  
 
 This magic sword's blade is fashioned from a horn or spine from a crystal dragon. When you hit with an attack roll using this sword, the target takes an extra `1d8` radiant damage.
@@ -27,50 +32,50 @@ The sword has 3 charges and regains `1d3` expended charges daily at dawn. When y
 
 While you're holding the sword, you can use a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet, to cause it to shed dim light in a 10-foot radius, or to douse the light.
 
-**Variants**:
-- [Crystal Double-Bladed Scimitar](#Crystal%20Double-Bladed%20Scimitar)
-- [Crystal Greatsword](#Crystal%20Greatsword)
-- [Crystal Longsword](#Crystal%20Longsword)
-- [Crystal Rapier](#Crystal%20Rapier)
-- [Crystal Scimitar](#Crystal%20Scimitar)
-- [Crystal Shortsword](#Crystal%20Shortsword)
+**Varianten**:
+- [[#Kristall-Krummsäbel]]
+- [[#Kristall-Kurzschwert]]
+- [[#Kristall-Langschwert]]
+- [[#Kristall-Rapier]]
+- [[#Kristall-Zweihandschwert]]
+- [[#Kristall-Zweiklingiger Krummsäbel]]
 
-### Crystal Double-Bladed Scimitar
+### Kristall-Krummsäbel
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Crystal Greatsword
+### Kristall-Kurzschwert
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Crystal Longsword
+### Kristall-Langschwert
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Crystal Rapier
+### Kristall-Rapier
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Crystal Scimitar
+### Kristall-Zweihandschwert
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Crystal Shortsword
+### Kristall-Zweiklingiger Krummsäbel
 
-- **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
 *Source: Fizban's Treasury of Dragons p. 22*

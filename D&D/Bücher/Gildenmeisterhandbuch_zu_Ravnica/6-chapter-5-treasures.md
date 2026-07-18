@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Treasures"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Treasures"
 tags:
   - Quelle/5e/ggr
 aliases:
   - "Chapter 5: Treasures"
-  - Chapter 5: Treasures
 ---
 # Chapter 5: Treasures
 *Source: Guildmasters' Guide to Ravnica, p. 173* 

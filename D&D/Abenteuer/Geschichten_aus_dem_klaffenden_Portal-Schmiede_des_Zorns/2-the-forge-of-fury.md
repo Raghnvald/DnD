@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Forge of Fury
+Status: WIP
 linter-yaml-title-alias: The Forge of Fury
 tags:
   - Quelle/5e/tftyp-tfof
 aliases:
-  - "The Forge of Fury"
+  - The Forge of Fury
   - The Forge of Fury
 ---
 # The Forge of Fury

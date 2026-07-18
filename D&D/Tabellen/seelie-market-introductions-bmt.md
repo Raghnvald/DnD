@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seelie Market Introductions
+Status: WIP
 linter-yaml-title-alias: Seelie Market Introductions
 tags:
   - Quelle/5e/bmt

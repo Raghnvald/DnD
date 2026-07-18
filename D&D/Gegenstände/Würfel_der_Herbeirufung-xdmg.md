@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cube of Summoning
+Status: WIP
 linter-yaml-title-alias: Cube of Summoning
 tags:
   - Gegenstand/Seltenheit/selten

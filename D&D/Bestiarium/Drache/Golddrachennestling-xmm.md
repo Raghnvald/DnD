@@ -8,7 +8,7 @@ HG: 3
 Habitat:
   - Grasland
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gold Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Gold Dragon Wyrmling
+status: WIP
 ---
 # [Gold Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/gold-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

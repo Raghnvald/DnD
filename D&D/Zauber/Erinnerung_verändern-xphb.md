@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Modify Memory
+Status: WIP
 linter-yaml-title-alias: Modify Memory
 classes:
   - Bard

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Sentinel
+Status: WIP
 linter-yaml-title-alias: Mark of Sentinel
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Sentinel"
+  - Mark of Sentinel
   - Mark of Sentinel
 ---
 # Mark of Sentinel

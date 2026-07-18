@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Paladin
+Status: WIP
 linter-yaml-title-alias: Paladin
 tags:
   - Klasse/paladin

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flaming Sphere
+Status: WIP
 linter-yaml-title-alias: Flaming Sphere
 classes:
   - Artificer (Alchemist)

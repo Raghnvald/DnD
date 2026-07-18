@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Magical Strength
+Status: WIP
 linter-yaml-title-alias: Armor of Magical Strength
 tags:
   - Kompendium/Optionales/ai

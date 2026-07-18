@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conjure Celestial
+Status: WIP
 linter-yaml-title-alias: Conjure Celestial
 classes:
   - Bard

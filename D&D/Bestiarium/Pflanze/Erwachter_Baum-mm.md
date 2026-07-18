@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awakened Tree
+Status: WIP
 linter-yaml-title-alias: Awakened Tree
 tags:
   - Monster/Größe/Riesig

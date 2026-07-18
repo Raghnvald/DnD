@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Yuan-ti; Yuan-ti Personality Traits
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Yuan-ti; Yuan-ti Personality Traits
 tags:
   - Quelle/5e/vgm

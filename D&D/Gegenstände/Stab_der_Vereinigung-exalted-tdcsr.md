@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spire of Conflux (Exalted)
+Status: WIP
 linter-yaml-title-alias: Spire of Conflux (Exalted)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Brass mug with jade inlay
+Status: WIP
 linter-yaml-title-alias: Brass mug with jade inlay
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

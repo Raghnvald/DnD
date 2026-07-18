@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ishel
+Status: WIP
 linter-yaml-title-alias: Ishel
 tags:
   - Monster/Größe/Mittelgroß

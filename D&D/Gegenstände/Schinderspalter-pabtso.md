@@ -1,17 +1,20 @@
 ---
-Bezeichnung: Flayer Slayer
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Flayer Slayer
+Bezeichnung: Schinderspalter
+Original: Flayer Slayer
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Schinderspalter
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/pabtso
 aliases:
-  - Flayer Slayer
+  - Schinderspalter
+status: WIP
 ---
-# Flayer Slayer
+# Schinderspalter
 *Weapon ([greataxe](Zweihandaxt-xphb.md)), rare (requires attunement)*  
 
 - **Damage**: 1d12 slashing

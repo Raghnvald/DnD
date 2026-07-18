@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Training"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Training"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Training"
-  - Downtime Activity: Training
 ---
 # Downtime Activity: Training
 *Source: Xanathar's Guide to Everything p. 134* 

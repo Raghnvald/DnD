@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Snowball Strike
+Status: WIP
 linter-yaml-title-alias: Charm of Snowball Strike
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - Charm of Snowball Strike

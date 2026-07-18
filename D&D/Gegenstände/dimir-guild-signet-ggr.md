@@ -2,18 +2,20 @@
 Bezeichnung: Dimir Guild Signet
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Dimir Guild Signet
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/ggr
 aliases:
   - Dimir Guild Signet
+status: WIP
 ---
 # Dimir Guild Signet
 *Ring, uncommon (requires attunement)*  

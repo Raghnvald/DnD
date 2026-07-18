@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Mind Reading
+Status: WIP
 linter-yaml-title-alias: Potion of Mind Reading
 tags:
   - Gegenstand/Seltenheit/selten

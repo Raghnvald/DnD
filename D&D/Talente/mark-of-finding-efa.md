@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Finding
+Status: WIP
 linter-yaml-title-alias: Mark of Finding
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Finding"
+  - Mark of Finding
   - Mark of Finding
 ---
 # Mark of Finding

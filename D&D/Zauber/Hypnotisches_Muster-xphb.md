@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hypnotic Pattern
+Status: WIP
 linter-yaml-title-alias: Hypnotic Pattern
 classes:
   - Artificer (Armorer)

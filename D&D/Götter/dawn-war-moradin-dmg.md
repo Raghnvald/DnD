@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Moradin
+Status: WIP
 linter-yaml-title-alias: Moradin
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Krieg
   - Quelle/5e/dmg
 aliases:
   - Moradin

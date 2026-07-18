@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Laeral Silverhand
+Status: WIP
 linter-yaml-title-alias: Laeral Silverhand
 tags:
   - Monster/Größe/Mittelgroß

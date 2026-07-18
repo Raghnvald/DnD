@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scything Blade Trap
+Status: WIP
 linter-yaml-title-alias: Scything Blade Trap
 tags:
   - Kompendium/Bedrohung/smpl

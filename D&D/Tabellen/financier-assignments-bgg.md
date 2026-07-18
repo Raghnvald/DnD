@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Financier Assignments
+Status: WIP
 linter-yaml-title-alias: Financier Assignments
 tags:
   - Quelle/5e/bgg

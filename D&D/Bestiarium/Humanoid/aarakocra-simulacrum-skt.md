@@ -8,7 +8,7 @@ HG: 1/8
 Habitat:
   - /
 Image: token/aarakocra-simulacrum-skt.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aarakocra Simulacrum
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Aarakocra Simulacrum
+status: WIP
 ---
 # [Aarakocra Simulacrum](3-Mechanics\CLI\bestiary\humanoid/aarakocra-simulacrum-skt.md)
 *Source: Storm King's Thunder p. 188*  

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Howling Wind
+Status: WIP
 linter-yaml-title-alias: Howling Wind
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/fraif
 aliases:
-  - "Howling Wind"
+  - Howling Wind
   - Howling Wind
 ---
 # Howling Wind

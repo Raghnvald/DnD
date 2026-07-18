@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Stärke
+Status: WIP
 linter-yaml-title-alias: Gabe der Stärke
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Fortitude

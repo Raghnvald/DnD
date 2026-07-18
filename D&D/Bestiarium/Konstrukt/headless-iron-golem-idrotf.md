@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Headless Iron Golem
+Status: WIP
 linter-yaml-title-alias: Headless Iron Golem
 tags:
   - Monster/Größe/Groß

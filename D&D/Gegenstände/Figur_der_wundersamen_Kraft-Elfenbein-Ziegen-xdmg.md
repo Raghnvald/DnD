@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Ivory Goats
+Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Ivory Goats
 tags:
   - Gegenstand/Seltenheit/selten

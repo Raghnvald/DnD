@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Revenant Blade
+Status: WIP
 linter-yaml-title-alias: Revenant Blade
 tags:
   - Kompendium/Talent

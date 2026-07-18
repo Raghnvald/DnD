@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Anhang C: Geheimnisse-Tracker"
-status: completed
+Status: WIP
 linter-yaml-title-alias: "Anhang C: Geheimnisse-Tracker"
 tags:
   - Quelle/5e/veor
 aliases:
   - "Anhang C: Geheimnisse-Tracker"
-  - Appendix C: Secrets Tracker
+  - "Appendix C: Secrets Tracker"
 SC1-1-1: true
 SC1-1-2: false
 SC1-2-1: false
@@ -18,6 +18,7 @@ SC2-1-2: false
 SC2-2-1: false
 SC2-2-2: false
 SC3-1-1: false
+status: completed
 ---
 # Anhang C: Geheimnisse-Tracker
 *Quelle: Vecna:Vorabend der Verdammnis* 

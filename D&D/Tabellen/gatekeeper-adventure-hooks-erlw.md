@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gatekeeper Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Gatekeeper Adventure Hooks
 tags:
   - Quelle/5e/erlw

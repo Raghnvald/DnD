@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Divination
+Status: WIP
 linter-yaml-title-alias: School of Divination
 tags:
   - Klasse/Magier/divination

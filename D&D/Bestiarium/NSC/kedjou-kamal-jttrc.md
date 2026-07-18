@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kedjou Kamal
+Status: WIP
 linter-yaml-title-alias: Kedjou Kamal
 tags:
   - Monster/Größe/Mittelgroß

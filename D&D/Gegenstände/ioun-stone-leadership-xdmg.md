@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Leadership
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Leadership
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:

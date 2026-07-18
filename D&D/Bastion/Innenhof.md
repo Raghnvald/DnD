@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Courtyard
+Status: WIP
 linter-yaml-title-alias: Courtyard
 tags:
   - Kompendium/Bastion

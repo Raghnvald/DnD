@@ -1,17 +1,19 @@
 ---
 Bezeichnung: Rüstung des Widerstands
+Original: Armor of Resistence
 Kategorie: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften:
   - /
-Kst.: /
+Kst.: n/v
 Gew.: /
-RK: /
-STR: /
-Heiml.: /
+RK: variiert
+STR: variiert
+Heiml.: variiert
+Status: WIP
 linter-yaml-title-alias: Rüstung des Widerstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
@@ -20,10 +22,11 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rüstung des Widerstands
+status: completed
 ---
 # Rüstung des Widerstands
-*Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*  
-![](Gegenstände/img/armor-of-resistance.webp#right)
+*Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*
+<img src="armor-of-resistance.webp" align="right" width="350">
 
 Du hast Resistenz gegen eine Schadensart, solange du diese Rüstung trägst. Der SL bestimmt die Schadensart oder wählt sie nach der folgenden Tabelle zufällig aus.
 

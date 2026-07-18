@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Shot
+Status: WIP
 linter-yaml-title-alias: Arcane Shot
 tags:
   - Quelle/5e/xge

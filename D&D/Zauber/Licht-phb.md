@@ -6,7 +6,8 @@ Reichweite: Berührung
 Komponenten: V, M
 Wirkungsdauer: 1 Stunde
 Angriff: GES
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Licht
 classes:
   - Bard (Magical Secrets)
@@ -19,11 +20,11 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Rasse/aasimar
   - Subklasse/Mystischer-Ritter

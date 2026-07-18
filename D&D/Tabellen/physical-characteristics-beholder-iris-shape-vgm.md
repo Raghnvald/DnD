@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Iris Shape
+Status: WIP
 linter-yaml-title-alias: Physical Characteristics; Beholder Iris Shape
 tags:
   - Quelle/5e/vgm

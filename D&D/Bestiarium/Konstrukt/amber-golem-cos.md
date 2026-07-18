@@ -8,7 +8,7 @@ HG: "10"
 Habitat:
   - /
 Image: token/amber-golem-cos.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amber Golem
 tags:
   - Monster/Größe/Groß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Amber Golem
+status: WIP
 ---
 # [Amber Golem](3-Mechanics\CLI\bestiary\construct/amber-golem-cos.md)
 *Source: Curse of Strahd p. 186*  

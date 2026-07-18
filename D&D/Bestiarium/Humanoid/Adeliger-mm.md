@@ -2,13 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adeliger
-Kategorie: Humanoider
+Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 1/8
 Habitat:
   - Stadt
-image: token/noble.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Adeliger
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Adeliger
   - Noble
+image: token/noble.webp
+status: completed
 ---
 # Adeliger
 *Quelle: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

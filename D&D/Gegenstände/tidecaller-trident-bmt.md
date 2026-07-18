@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Tidecaller Trident
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Tidecaller Trident
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bmt
 aliases:
   - Tidecaller Trident
+status: WIP
+Original: Tidecaller Trident
 ---
 # Tidecaller Trident
 *Weapon (trident), very rare (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Buildings; Residence
+Status: WIP
 linter-yaml-title-alias: Random Buildings; Residence
 tags:
   - Quelle/5e/dmg

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cubic Gate
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Cubic Gate
 tags:
   - Gegenstand/Seltenheit/legendär

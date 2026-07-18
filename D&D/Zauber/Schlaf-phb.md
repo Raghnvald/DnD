@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Sleep
+Bezeichnung: Schlaf
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V, G, M
+Wirkungsdauer: 1 Minute
 Angriff:
 Schaden:
-linter-yaml-title-alias: Sleep
+Status: WIP
+linter-yaml-title-alias: Schlaf
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -20,16 +21,16 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subklasse/the-archfey
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Sleep
+  - Schlaf
 ---
-# Sleep
+# Schlaf
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 Action

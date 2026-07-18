@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Glass Pegasus
+Status: WIP
 linter-yaml-title-alias: Glass Pegasus
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/construct
+  - Monster/HG/2
+  - Monster/Größe/Groß
+  - Monster/Typ/Konstrukt
 aliases:
-  - "Glass Pegasus"
+  - Glass Pegasus
   - Glass Pegasus
 ---
 # [Glass Pegasus](3-Mechanics/CLI/bestiary/construct/glass-pegasus-wbtw.md)

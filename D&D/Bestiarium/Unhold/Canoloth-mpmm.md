@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Canoloth
+Status: WIP
 linter-yaml-title-alias: Canoloth
 tags:
   - Monster/Größe/Mittelgroß

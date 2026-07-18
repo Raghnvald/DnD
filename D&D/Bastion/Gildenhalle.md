@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guildhall
+Status: WIP
 linter-yaml-title-alias: Guildhall
 tags:
   - Kompendium/Bastion

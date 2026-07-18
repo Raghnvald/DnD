@@ -1,14 +1,18 @@
 ---
 Bezeichnung: Lesezeichen
-Kategorie: Einfache Nahkampfwaffe
+Original: Bookmark
+Kategorie: Nahkampfwaffe, einfach
 Eigenschaften:
-  - Finesse, Leicht, Wurfwaffe
-Einstimmung: erfordert
-Kst.: /
+  - Finesse
+  - Leicht
+  - Wurfwaffe
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Lesezeichen
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

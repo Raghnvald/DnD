@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Identify
 classes:
   - Artificer
@@ -23,13 +24,13 @@ tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker/forge-domain
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xphb
   - Subklasse/diviner
   - Subklasse/Mystischer-Ritter

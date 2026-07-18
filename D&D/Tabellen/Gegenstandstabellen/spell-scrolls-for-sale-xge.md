@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Scrolls for Sale
+Status: WIP
 linter-yaml-title-alias: Spell Scrolls for Sale
 tags:
   - Quelle/5e/xge

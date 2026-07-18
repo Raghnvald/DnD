@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Book of Cylinders
+Status: WIP
 linter-yaml-title-alias: Book of Cylinders
 tags:
   - Quelle/5e/cm

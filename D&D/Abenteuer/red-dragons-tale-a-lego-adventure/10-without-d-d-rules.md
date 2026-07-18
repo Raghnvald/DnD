@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Without D&D Rules
+Status: WIP
 linter-yaml-title-alias: Without D&D Rules
 tags:
   - Quelle/5e/lrdt
 aliases:
-  - "Without D&D Rules"
+  - Without D&D Rules
   - Without D&D Rules
 ---
 # Without D&D Rules

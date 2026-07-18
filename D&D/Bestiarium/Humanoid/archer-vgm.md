@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Archer
 Kategorie: Humanoid
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Archer
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Archer
+status: WIP
 ---
 # [Archer](3-Mechanics\CLI\bestiary\humanoid/archer-vgm.md)
 *Source: Volo's Guide to Monsters p. 210, Dragon of Icespire Peak, Storm Lord's Wrath*  

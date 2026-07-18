@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Gaerdal Ironhand
+Status: WIP
 linter-yaml-title-alias: Gaerdal Ironhand
 tags:
-  - Kompendium/Götter/Domäne/peace
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Frieden
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/gnomish
   - Quelle/5e/scag
 aliases:

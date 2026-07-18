@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Matchless Pipe
+Status: WIP
 linter-yaml-title-alias: Matchless Pipe
 tags:
   - Gegenstand/Seltenheit/unbekannt
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdh
 aliases:
   - Matchless Pipe

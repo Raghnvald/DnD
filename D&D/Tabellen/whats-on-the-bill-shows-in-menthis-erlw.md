@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "What's on the Bill?; Shows in Menthis"
+Status: WIP
 linter-yaml-title-alias: "What's on the Bill?; Shows in Menthis"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "What's on the Bill?; Shows in Menthis"
-  - What's on the Bill?; Shows in Menthis
 ---
 # What's on the Bill?; Shows in Menthis
 *Source: Eberron: Rising from the Last War p. 170* 

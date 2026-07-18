@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beacon of Hope
+Status: WIP
 linter-yaml-title-alias: Beacon of Hope
 classes:
   - Bard

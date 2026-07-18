@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations"
+Status: WIP
 linter-yaml-title-alias: "Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations"
-  - Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
 ---
 # Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 

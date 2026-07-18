@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Camel
+Status: WIP
 linter-yaml-title-alias: Camel
 tags:
   - Monster/Größe/Groß

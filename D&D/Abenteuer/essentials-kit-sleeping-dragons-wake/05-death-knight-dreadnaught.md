@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Death Knight-Dreadnaught
+Status: WIP
 linter-yaml-title-alias: Death Knight-Dreadnaught
 tags:
   - Quelle/5e/sdw
 aliases:
-  - "Death Knight-Dreadnaught"
+  - Death Knight-Dreadnaught
   - Death Knight-Dreadnaught
 ---
 # Death Knight-Dreadnaught

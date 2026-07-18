@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cotton Cloth (1 sq. yd.)
+Status: WIP
 linter-yaml-title-alias: Cotton Cloth (1 sq. yd.)
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

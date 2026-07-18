@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deer
+Status: WIP
 linter-yaml-title-alias: Deer
 tags:
   - Monster/Größe/Mittelgroß

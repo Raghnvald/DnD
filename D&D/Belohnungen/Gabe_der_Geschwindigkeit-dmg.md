@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Geschwindigkeit
+Status: WIP
 linter-yaml-title-alias: Gabe der Geschwindigkeit
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Speed

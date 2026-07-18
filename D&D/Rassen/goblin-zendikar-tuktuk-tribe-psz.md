@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Goblin (Zendikar; Tuktuk Tribe)
+Status: WIP
 linter-yaml-title-alias: Goblin (Zendikar; Tuktuk Tribe)
 tags:
   - Quelle/5e/psz
   - Rasse/goblin/zendikar-tuktuk-tribe
 aliases:
-  - "Goblin (Zendikar; Tuktuk Tribe)"
+  - Goblin (Zendikar; Tuktuk Tribe)
   - Goblin (Zendikar; Tuktuk Tribe)
 ---
 # Goblin (Zendikar; Tuktuk Tribe)

@@ -2,10 +2,10 @@
 Bezeichnung: Schlittenhund
 Kategorie: Reit- und Lastentier
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Schlittenhund
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
@@ -14,7 +14,9 @@ tags:
 aliases:
   - Schlittenhund
 Bew.: 12 m
+status: WIP
 Traglast: 360 Pfd.
+Original: Sled Dog
 ---
 # Schlittenhund
 *Reit- und Lasttiere*  

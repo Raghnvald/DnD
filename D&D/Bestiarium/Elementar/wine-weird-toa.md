@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wine Weird
+Status: WIP
 linter-yaml-title-alias: Wine Weird
 tags:
   - Monster/Größe/Groß

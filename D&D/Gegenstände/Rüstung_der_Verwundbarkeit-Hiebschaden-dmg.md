@@ -3,15 +3,17 @@ Bezeichnung: Rüstung der Verwundbarkeit (Hieb)
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - erfordert Einstimmung
+  - Verflucht
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Rüstung der Verwundbarkeit (Hieb)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg
@@ -19,7 +21,7 @@ aliases:
   - Rüstung der Verwundbarkeit (Hieb)
 ---
 # Rüstung der Verwundbarkeit (Hieb)
-Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (benötigt Einstimmung)
+Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), selten (erfordert Einstimmung)
 
 - **Rüstungsklasse**: 18
 - **Properties**: [Verflucht](Gegenstandseigenschaften-phb#Verfluchte%20Gegenstände)

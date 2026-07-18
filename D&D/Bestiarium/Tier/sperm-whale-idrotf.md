@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sperm Whale
+Status: WIP
 linter-yaml-title-alias: Sperm Whale
 tags:
   - Monster/Größe/Gigantisch

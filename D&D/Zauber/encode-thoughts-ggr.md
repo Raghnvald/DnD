@@ -6,7 +6,8 @@ Reichweite: selbst
 Komponenten: G
 Wirkungsdauer: 8 Stunden
 Angriff: KON
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Encode Thoughts
 tags:
   - Kompendium/Hintergrund/dimir-operative

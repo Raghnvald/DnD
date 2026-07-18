@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Firenewt Warlock of Imix
+Status: WIP
 linter-yaml-title-alias: Firenewt Warlock of Imix
 tags:
   - Monster/Größe/Mittelgroß

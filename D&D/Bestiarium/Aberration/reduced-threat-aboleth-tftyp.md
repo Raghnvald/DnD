@@ -5,7 +5,7 @@ Bezeichnung: Reduced-Threat Aboleth
 Kategorie: Aberration
 Größe: Groß
 HG: 10
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Aboleth
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Aboleth
+status: WIP
 ---
 # [Reduced-Threat Aboleth](3-Mechanics\CLI\bestiary\aberration/reduced-threat-aboleth-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

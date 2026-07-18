@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Bane
+Status: WIP
 linter-yaml-title-alias: Bane
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Bane"
-  - "The Black Hand"
-  - "The Lord of Darkness"
   - Bane
+  - Bane
+  - The Black Hand
+  - The Lord of Darkness
 ---
 # Bane
 *Source: Forgotten Realms: Heroes of Faerûn p. 102* 

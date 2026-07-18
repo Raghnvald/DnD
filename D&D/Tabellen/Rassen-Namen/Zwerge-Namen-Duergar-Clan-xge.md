@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf Names – Duergar Clan
+Status: WIP
 linter-yaml-title-alias: Dwarf Names – Duergar Clan
 tags:
   - Quelle/5e/xge

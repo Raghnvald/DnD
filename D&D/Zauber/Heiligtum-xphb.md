@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Sanctuary
 classes:
   - Artificer
@@ -24,8 +25,8 @@ tags:
   - Klasse/Kleriker
   - Klasse/Kleriker/peace-domain
   - Klasse/Paladin/Schwur-der-Läuterung
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Subklasse/the-genie/dao

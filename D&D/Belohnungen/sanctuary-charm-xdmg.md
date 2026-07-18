@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sanctuary Charm
+Status: WIP
 linter-yaml-title-alias: Sanctuary Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Sanctuary Charm

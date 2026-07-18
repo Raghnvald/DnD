@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seer Assignments
+Status: WIP
 linter-yaml-title-alias: Seer Assignments
 tags:
   - Quelle/5e/bgg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Booyahg Slave of the Archfey
+Status: WIP
 linter-yaml-title-alias: Booyahg Slave of the Archfey
 tags:
   - Monster/Größe/Mittelgroß

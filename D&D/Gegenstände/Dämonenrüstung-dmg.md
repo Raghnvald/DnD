@@ -1,30 +1,32 @@
 ---
-Bezeichnung: Demon Armor
+Bezeichnung: Dämonenrüstung
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
-linter-yaml-title-alias: Demon Armor
+Status: WIP
+linter-yaml-title-alias: Dämonenrüstung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
-  - Demon Armor
+  - Dämonenrüstung
+status: WIP
 ---
-# Demon Armor
+# Dämonenrüstung
 *Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), sehr selten (erfordert Einstimmung)*  
 <img src="demon-armor.webp" align="right" width="150">
 
 - **Rüstungsklasse**: 18
-- **Eigenschaften**: [Verflucht](Gegenstandseigenschaften-phb#Cursed%20Items)
+- **Eigenschaften**: [Verflucht](Gegenstandseigenschaften-phb#Verfluchte%20Gegenstände)
 - **Stärke:** 15
 - **Heimlichkeit:** Nachteil
 - **Gewicht:** 32,5 kg

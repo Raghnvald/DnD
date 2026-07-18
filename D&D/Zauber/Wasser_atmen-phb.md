@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Water Breathing
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Water Breathing
 classes:
   - Bard (Magical Secrets)

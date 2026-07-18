@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Lliira
+Status: WIP
 linter-yaml-title-alias: Lliira
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Joybringer

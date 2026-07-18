@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe des schnellen Wirkens
+Status: WIP
 linter-yaml-title-alias: Gabe des schnellen Wirkens
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Quick Casting

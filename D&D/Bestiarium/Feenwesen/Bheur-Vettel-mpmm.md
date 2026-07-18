@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bheur Hag
+Status: WIP
 linter-yaml-title-alias: Bheur Hag
 tags:
   - Monster/Größe/Mittelgroß

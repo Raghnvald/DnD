@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Fey)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Fey)
 tags:
   - Gegenstand/Seltenheit/selten

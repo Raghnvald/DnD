@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forbiddance
+Status: WIP
 linter-yaml-title-alias: Forbiddance
 classes:
   - Bard

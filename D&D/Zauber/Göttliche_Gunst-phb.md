@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Divine Favor
+Bezeichnung: Göttliche Gunst
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Divine Favor
+Zeitaufwand: 1 Bonusaktion
+Reichweite: selbst
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Göttliche Gunst
 classes:
   - Bard (Magical Secrets)
   - Cleric (War Domain)
@@ -20,9 +21,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Divine Favor
+  - Göttliche Gunst
 ---
-# Divine Favor
+# Göttliche Gunst
 *1st-level, Evocation*  
 
 - **Casting time:** 1 Bonus Action

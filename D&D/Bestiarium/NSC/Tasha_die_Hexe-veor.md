@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tasha die Hexe
+Original: Tasha the Witch
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 19
 Habitat:
   - /
-image: token/Tasha-the-witch-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Tasha die Hexe
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +18,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Tasha die Hexe
+image: token/Tasha-the-witch-veor.webp
 ---
 # Tasha die Hexe
 *Quelle: Vecna: Vorabend der Verdammnis S. 250*  

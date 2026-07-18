@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Telepathy
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Telepathy
 classes:
   - Bard (Magical Secrets)

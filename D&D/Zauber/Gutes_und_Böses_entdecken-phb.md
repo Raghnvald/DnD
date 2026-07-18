@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Detect Evil and Good
+Bezeichnung: Gutes und Böses entdecken
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Detect Evil and Good
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Gutes und Böses entdecken
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -16,14 +17,14 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Klasse/paladin
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Detect Evil and Good
+  - Gutes und Böses entdecken
 ---
-# Detect Evil and Good
+# Gutes und Böses entdecken
 *1st-level, Divination*  
 
 - **Casting time:** 1 Action

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Feats"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Feats"
 tags:
   - Quelle/5e/xphb
 aliases:
   - "Chapter 5: Feats"
-  - Chapter 5: Feats
 ---
 # Chapter 5: Feats
 *Source: Player's Handbook (2024), p. 199* 

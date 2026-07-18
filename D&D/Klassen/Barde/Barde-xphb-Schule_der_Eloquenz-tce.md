@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Eloquence
+Status: WIP
 linter-yaml-title-alias: College of Eloquence
 tags:
   - Klasse/Barde/Schule-der-Eloquenz

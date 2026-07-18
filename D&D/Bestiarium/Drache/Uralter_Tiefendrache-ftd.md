@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Deep Dragon
 Kategorie: Drache
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ancient Deep Dragon
 tags:
   - Monster/Größe/Gigantisch
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ancient Deep Dragon
+status: WIP
 ---
 # [Ancient Deep Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 173*  

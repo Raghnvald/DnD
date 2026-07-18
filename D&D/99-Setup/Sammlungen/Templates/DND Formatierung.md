@@ -1,5 +1,6 @@
 ---
 Bezeichnung: DND Formatierung
+Status: WIP
 ---
 # DND Formatierung
 ## Attributsfarben

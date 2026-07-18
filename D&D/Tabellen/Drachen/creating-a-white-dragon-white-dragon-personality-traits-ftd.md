@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a White Dragon; White Dragon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Creating a White Dragon; White Dragon Personality Traits
 tags:
   - Quelle/5e/ftd

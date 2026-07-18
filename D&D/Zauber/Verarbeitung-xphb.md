@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fabricate
+Status: WIP
 linter-yaml-title-alias: Fabricate
 classes:
   - Artificer

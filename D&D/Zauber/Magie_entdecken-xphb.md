@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Detect Magic
 classes:
   - Artificer
@@ -37,11 +38,11 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/drow-high-magic
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/firbolg

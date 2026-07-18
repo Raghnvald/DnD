@@ -2,14 +2,15 @@
 Bezeichnung: Eye patch decorated with tiny blue sapphires and moonstones
 Kst.: 2.500 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Eye patch decorated with tiny blue sapphires and moonstones
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Eye patch decorated with tiny blue sapphires and moonstones
+status: WIP
 ---
 # Eye patch decorated with tiny blue sapphires and moonstones
 *Treasure (art object)*  

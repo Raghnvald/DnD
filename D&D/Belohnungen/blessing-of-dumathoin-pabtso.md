@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Dumathoin
+Status: WIP
 linter-yaml-title-alias: Blessing of Dumathoin
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/pabtso
 aliases:
   - Blessing of Dumathoin

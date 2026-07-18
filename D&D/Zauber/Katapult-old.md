@@ -6,7 +6,7 @@ Komponenten: G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d8 Wucht
-status: completed
+Status: WIP
 linter-yaml-title-alias: Katapult
 tags:
   - Klasse/Artifizient
@@ -19,6 +19,7 @@ tags:
 aliases:
   - Catapult
   - Katapult
+status: completed
 ---
 # Katapult
 _Verwandlung des 1. Grades_

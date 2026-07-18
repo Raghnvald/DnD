@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Keranos's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Keranos's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

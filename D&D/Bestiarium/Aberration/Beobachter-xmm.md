@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 3
 Habitat:
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Spectator
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Spectator
+status: WIP
 ---
 # [Spectator](3-Mechanics\CLI\bestiary\aberration/spectator-xmm.md)
 *Source: Monster Manual (2024) p. 289*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Levitate
+Status: WIP
 linter-yaml-title-alias: Levitate
 classes:
   - Artificer

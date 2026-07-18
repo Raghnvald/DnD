@@ -7,6 +7,7 @@ Komponenten: G
 Wirkungsdauer: Unmittelbar
 Angriff: INT
 Schaden: 14d6 psychisch
+Status: WIP
 linter-yaml-title-alias: Psychischer Schrei
 classes:
   - Bard

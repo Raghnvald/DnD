@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle C
+Status: WIP
 linter-yaml-title-alias: Magische Gegenstände Tabelle C
 tags:
   - Quelle/5e/dmg

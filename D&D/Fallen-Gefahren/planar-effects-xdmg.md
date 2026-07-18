@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Planar Effects
+Status: WIP
 linter-yaml-title-alias: Planar Effects
 tags:
   - Kompendium/Bedrohung/env

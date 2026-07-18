@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Ysgard
+Status: WIP
 linter-yaml-title-alias: Layers of Ysgard
 tags:
   - Quelle/5e/xdmg

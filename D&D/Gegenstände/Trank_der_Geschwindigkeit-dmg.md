@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Speed
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Speed
 tags:
   - Gegenstand/Seltenheit/sehr_selten

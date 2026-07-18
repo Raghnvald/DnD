@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gloamwing
+Status: WIP
 linter-yaml-title-alias: Gloamwing
 tags:
   - Monster/Größe/Groß

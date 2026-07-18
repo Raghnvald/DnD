@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Sharpener
+Status: WIP
 linter-yaml-title-alias: Mind Sharpener
 tags:
   - Kompendium/Optionales/ai

@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 3)
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 3)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberschriftrolle (Zaubergrad 3)
+status: completed
 ---
 # Zauberschriftrolle (Zaubergrad 3)
 *Schriftrolle, ungewöhnlich*  

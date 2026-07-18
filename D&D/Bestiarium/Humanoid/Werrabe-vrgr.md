@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wereraven
+Status: WIP
 linter-yaml-title-alias: Wereraven
 tags:
   - Monster/Größe/Mittelgroß

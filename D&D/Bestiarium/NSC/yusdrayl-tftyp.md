@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yusdrayl
+Status: WIP
 linter-yaml-title-alias: Yusdrayl
 tags:
   - Monster/Größe/Klein

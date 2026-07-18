@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gloves of Thievery
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Gloves of Thievery
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

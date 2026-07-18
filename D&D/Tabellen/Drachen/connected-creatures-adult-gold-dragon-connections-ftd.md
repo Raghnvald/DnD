@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Adult Gold Dragon Connections
+Status: WIP
 linter-yaml-title-alias: Connected Creatures; Adult Gold Dragon Connections
 tags:
   - Quelle/5e/ftd

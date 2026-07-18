@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master of Souls
+Status: WIP
 linter-yaml-title-alias: Master of Souls
 tags:
   - Monster/Größe/Mittelgroß

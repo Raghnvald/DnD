@@ -10,8 +10,7 @@ Habitat:
   - Grasland
   - Hügel
   - Stadt
-image: token/shield-guardian.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ziege
 tags:
   - Monster/Größe/Mittelgroß
@@ -25,6 +24,8 @@ tags:
 aliases:
   - Goat
   - Ziege
+image: token/shield-guardian.webp
+status: WIP
 ---
 # Ziege
 *Quelle: Monsterhandbuch S. 341. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

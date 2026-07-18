@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Geas
+Status: WIP
 linter-yaml-title-alias: Geas
 classes:
   - Bard

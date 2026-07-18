@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Oath of Devotion
+Status: WIP
 linter-yaml-title-alias: Spells for Oath of Devotion
 tags:
-  - Zauber/list/subclass/oath-of-devotion
+  - Zauber/Liste/subclass/oath-of-devotion
 aliases:
   - Spells for Oath of Devotion
 ---

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chief Nosnra
+Status: WIP
 linter-yaml-title-alias: Chief Nosnra
 tags:
   - Monster/Größe/Riesig

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Last Stand Armor
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Last Stand Armor
 tags:
   - Gegenstand/Rüstung/Leicht
@@ -24,6 +25,7 @@ aliases:
   - Last Stand Spiked Armor
   - Last Stand Splint Armor
   - Last Stand Studded Leather Armor
+Original: Last Stand Armor
 ---
 # Last Stand Armor
 *Very rare*  

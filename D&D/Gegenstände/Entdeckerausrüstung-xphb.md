@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Explorer's Pack"
+Status: WIP
 linter-yaml-title-alias: "Explorer's Pack"
 tags:
   - Gegenstand/Ausrüstung/

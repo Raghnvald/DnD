@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chwinga
+Status: WIP
 linter-yaml-title-alias: Chwinga
 tags:
   - Monster/Größe/Winzig

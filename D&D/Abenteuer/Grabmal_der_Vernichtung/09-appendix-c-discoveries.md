@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix C: Discoveries"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Discoveries"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Appendix C: Discoveries"
-  - Appendix C: Discoveries
 ---
 # Appendix C: Discoveries
 *Source: Tomb of Annihilation, p. 205* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sovereign Assignments
+Status: WIP
 linter-yaml-title-alias: Sovereign Assignments
 tags:
   - Quelle/5e/bgg

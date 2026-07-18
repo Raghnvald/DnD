@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Paolo Maykapal
+Status: WIP
 linter-yaml-title-alias: Paolo Maykapal
 tags:
   - Monster/Größe/Mittelgroß

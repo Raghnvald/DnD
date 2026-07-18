@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oni
+Status: WIP
 linter-yaml-title-alias: Oni
 tags:
   - Monster/Größe/Groß

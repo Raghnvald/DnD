@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Subtiler Zauber
+Status: WIP
 linter-yaml-title-alias: Subtiler Zauber
 tags:
   - Kompendium/Optionales/Metamagie

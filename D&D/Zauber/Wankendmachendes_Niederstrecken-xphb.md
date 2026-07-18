@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staggering Smite
+Status: WIP
 linter-yaml-title-alias: Staggering Smite
 classes:
   - Paladin

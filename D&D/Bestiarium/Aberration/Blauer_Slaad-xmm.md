@@ -7,7 +7,7 @@ Größe: Groß
 HG: 7
 Habitat:
   - Planar (Limbo)
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Blue Slaad
 tags:
   - Monster/Größe/Groß
@@ -18,6 +18,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Blue Slaad
+status: WIP
 ---
 # [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Shadow-Touched
+Status: WIP
 linter-yaml-title-alias: Spells for Shadow-Touched
 tags:
-  - Zauber/list/feat/shadow-touched
+  - Zauber/Liste/feat/shadow-touched
 aliases:
   - Spells for Shadow-Touched
 ---

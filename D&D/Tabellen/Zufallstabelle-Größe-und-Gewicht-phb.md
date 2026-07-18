@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zufallstabelle Größe und Gewicht
+Status: WIP
 linter-yaml-title-alias: Zufallstabelle Größe und Gewicht
 tags:
   - Quelle/5e/phb

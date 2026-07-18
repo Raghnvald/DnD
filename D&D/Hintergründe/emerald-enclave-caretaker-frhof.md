@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Emerald Enclave Caretaker
+Status: WIP
 linter-yaml-title-alias: Emerald Enclave Caretaker
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Emerald Enclave Caretaker"
+  - Emerald Enclave Caretaker
   - Emerald Enclave Caretaker
 ---
 # Emerald Enclave Caretaker

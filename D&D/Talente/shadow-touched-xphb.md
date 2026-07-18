@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow-Touched
+Status: WIP
 linter-yaml-title-alias: Shadow-Touched
 tags:
   - Kompendium/Talent

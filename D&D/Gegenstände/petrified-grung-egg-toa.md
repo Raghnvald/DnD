@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Petrified Grung Egg
+Status: WIP
 linter-yaml-title-alias: Petrified Grung Egg
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/toa
 aliases:
   - Petrified Grung Egg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wheat
+Status: WIP
 linter-yaml-title-alias: Wheat
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

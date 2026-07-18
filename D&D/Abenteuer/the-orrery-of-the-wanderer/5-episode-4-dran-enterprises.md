@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Episode 4: Dran Enterprises"
+Status: WIP
 linter-yaml-title-alias: "Episode 4: Dran Enterprises"
 tags:
   - Quelle/5e/oow

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Diseased Grick
+Status: WIP
 linter-yaml-title-alias: Diseased Grick
 tags:
   - Monster/Größe/Mittelgroß

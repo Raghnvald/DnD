@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Spike
+Status: WIP
 linter-yaml-title-alias: Mind Spike
 classes:
   - Bard

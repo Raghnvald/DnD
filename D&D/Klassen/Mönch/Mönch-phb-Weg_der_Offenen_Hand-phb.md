@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Open Hand
+Status: WIP
 linter-yaml-title-alias: Way of the Open Hand
 tags:
   - Klasse/Mönch/open-hand

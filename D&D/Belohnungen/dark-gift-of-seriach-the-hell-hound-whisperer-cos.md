@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Seriach, the Hell Hound Whisperer
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Seriach, the Hell Hound Whisperer
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Seriach, the Hell Hound Whisperer

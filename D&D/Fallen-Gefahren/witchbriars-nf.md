@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Witchbriars
+Status: WIP
 linter-yaml-title-alias: Witchbriars
 tags:
   - Quelle/5e/nf
 aliases:
-  - "Witchbriars"
+  - Witchbriars
   - Witchbriars
 ---
 # Witchbriars

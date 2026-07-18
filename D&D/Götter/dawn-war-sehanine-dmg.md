@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Sehanine
+Status: WIP
 linter-yaml-title-alias: Sehanine
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Quelle/5e/dmg
 aliases:
   - Sehanine

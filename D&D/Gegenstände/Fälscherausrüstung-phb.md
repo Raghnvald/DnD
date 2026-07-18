@@ -2,10 +2,10 @@
 Bezeichnung: Fälschungsausrüstung
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 15 GM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Fälschungsausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -18,7 +18,7 @@ aliases:
 *Werkzeug*  
 
 - **Kosten**: 15 GM
-- **Gewicht**: 2,5 kg.
+- **Gewicht**: 2,5 kg
 
 Dieser kleine Kasten enthält ein breites Spektrum an Papieren und Pergamenten, Schreibwerkzeugen und Tinten, Siegeln und Siegelwachs, Gold- und Silberplättchen sowie andere Ausrüstung, die notwendig ist, um überzeugende Fälschungen von tatsächlichen Dokumenten zu erschaffen. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Fälschen von Dokumenten in Verbindung stehen.
 

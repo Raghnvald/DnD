@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Annis Hag
+Status: WIP
 linter-yaml-title-alias: Annis Hag
 tags:
   - Monster/legendary-group

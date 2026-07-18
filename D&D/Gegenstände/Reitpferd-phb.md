@@ -2,10 +2,10 @@
 Bezeichnung: Reitpferd
 Kategorie: Reit- und Lastentier
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 75 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Reitpferd
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
@@ -14,7 +14,9 @@ tags:
 aliases:
   - Reitpferd
 Bew.: 18 m
+status: WIP
 Traglast: 480 Pfd.
+Original: Riding Horse
 ---
 # Reitpferd
 *Reit- und Lasttiere*  

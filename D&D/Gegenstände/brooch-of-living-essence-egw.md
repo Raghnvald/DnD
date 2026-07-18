@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Brooch of Living Essence
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Brooch of Living Essence
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/egw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Squiddly
+Status: WIP
 linter-yaml-title-alias: Squiddly
 tags:
   - Monster/Größe/Klein

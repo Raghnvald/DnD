@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Telescopic Transporter
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Telescopic Transporter
 tags:
   - Gegenstand/Seltenheit/legendär

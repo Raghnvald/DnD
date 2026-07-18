@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Discipline
+Status: WIP
 linter-yaml-title-alias: Elemental Discipline
 tags:
   - Quelle/5e/phb

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Eldritch Knight
+Status: WIP
 linter-yaml-title-alias: Spells for Eldritch Knight
 tags:
-  - Zauber/list/subclass/eldritch-knight
+  - Zauber/Liste/subclass/eldritch-knight
 aliases:
   - Spells for Eldritch Knight
 ---

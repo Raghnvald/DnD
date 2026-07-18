@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Races
+Status: WIP
 linter-yaml-title-alias: Index of Races
 aliases:
   - Index of Races

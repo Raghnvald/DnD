@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Wildmother
+Status: WIP
 linter-yaml-title-alias: The Wildmother
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Melora

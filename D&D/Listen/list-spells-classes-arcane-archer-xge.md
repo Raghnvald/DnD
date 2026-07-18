@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Arcane Archer
+Status: WIP
 linter-yaml-title-alias: Spells for Arcane Archer
 tags:
-  - Zauber/list/subclass/arcane-archer
+  - Zauber/Liste/subclass/arcane-archer
 aliases:
   - Spells for Arcane Archer
 ---

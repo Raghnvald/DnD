@@ -1,12 +1,13 @@
 ---
-Bezeichnung: Pyrotechnics
+Bezeichnung: Feuerwerk
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
-linter-yaml-title-alias: Pyrotechnics
+Status: WIP
+linter-yaml-title-alias: Feuerwerk
 classes:
   - Artificer
   - Bard
@@ -27,9 +28,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Pyrotechnics
+  - Feuerwerk
 ---
-# Pyrotechnics
+# Feuerwerk
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

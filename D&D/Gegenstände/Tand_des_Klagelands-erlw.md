@@ -2,10 +2,10 @@
 Bezeichnung: Tand des Klagelands
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Tand des Klagelands
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Tand des Klagelands
+status: WIP
 ---
 # Tand des Klagelands
 *Adventuring gear*  

@@ -1,18 +1,19 @@
 ---
-Bezeichnung: "Ivana's Whisper"
+Bezeichnung: Ivana's Whisper
 Kategorie: Gift
 Eigenschaften:
   - Gift
-Kst.: /
-Gew.: /
-status: WIP
-linter-yaml-title-alias: "Ivana's Whisper"
+Kst.: n/v
+Gew.: n/v
+Status: WIP
+linter-yaml-title-alias: Ivana's Whisper
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/vrgr
 aliases:
-  - "Ivana's Whisper"
+  - Ivana's Whisper
+status: WIP
 ---
 # Ivana's Whisper
 *Adventuring gear, poison (inhaled)*  

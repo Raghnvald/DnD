@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Primal Savagery
+Bezeichnung: Urtümliche Wildheit
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
@@ -7,7 +7,8 @@ Komponenten: G
 Wirkungsdauer: Unmittelbar
 Angriff: Nah
 Schaden: 1d10 Säure
-linter-yaml-title-alias: Primal Savagery
+Status: WIP
+linter-yaml-title-alias: Urtümliche Wildheit
 classes:
   - Bard (College of Lore)
   - Cleric (Nature Domain)
@@ -17,16 +18,16 @@ tags:
   - Klasse/Druide
   - Klasse/Kleriker/nature-domain
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xge
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
 aliases:
-  - Primal Savagery
+  - Urtümliche Wildheit
 ---
-# Primal Savagery
+# Urtümliche Wildheit
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 Action

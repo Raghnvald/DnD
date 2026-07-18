@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Chemosh
+Status: WIP
 linter-yaml-title-alias: Chemosh
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Chemosh"
+  - Chemosh
   - Chemosh
 ---
 # Chemosh

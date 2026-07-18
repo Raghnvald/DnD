@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Breathing Bubble
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Breathing Bubble
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

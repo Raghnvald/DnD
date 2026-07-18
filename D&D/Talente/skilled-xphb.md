@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skilled
+Status: WIP
 linter-yaml-title-alias: Skilled
 tags:
   - Kompendium/Talent

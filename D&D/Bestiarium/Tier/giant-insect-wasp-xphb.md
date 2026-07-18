@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Insect (Wasp)
+Status: WIP
 linter-yaml-title-alias: Giant Insect (Wasp)
 tags:
   - Monster/Größe/Groß

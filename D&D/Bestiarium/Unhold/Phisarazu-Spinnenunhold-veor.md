@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phisarazu Spyder-Fiend
-image: token/phisarazu-spyder-fiend-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Phisarazu Spyder-Fiend
 tags:
   - Monster/Größe/Groß
@@ -12,6 +11,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Phisarazu Spyder-Fiend
+image: token/phisarazu-spyder-fiend-veor.webp
+status: WIP
 ---
 # [Phisarazu Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/phisarazu-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 235*  

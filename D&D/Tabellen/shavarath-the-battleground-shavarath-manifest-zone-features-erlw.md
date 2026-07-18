@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shavarath, the Battleground; Shavarath Manifest Zone Features
+Status: WIP
 linter-yaml-title-alias: Shavarath, the Battleground; Shavarath Manifest Zone Features
 tags:
   - Quelle/5e/erlw

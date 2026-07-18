@@ -2,10 +2,10 @@
 Bezeichnung: Käselaib
 Kategorie: Essen und Trinken
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed 
 linter-yaml-title-alias: Käselaib
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

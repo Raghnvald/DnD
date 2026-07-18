@@ -1,5 +1,6 @@
 ---
 Bezeichnung: DM Kanban
+Status: WIP
 tags:
   - Quelle/5e/dmg
 kanban-plugin: board

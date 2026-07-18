@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Summer Eladrin
+Status: WIP
 linter-yaml-title-alias: Summer Eladrin
 tags:
   - Monster/Größe/Mittelgroß

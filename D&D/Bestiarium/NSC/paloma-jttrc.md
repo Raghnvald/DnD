@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Paloma
+Status: WIP
 linter-yaml-title-alias: Paloma
 tags:
   - Monster/Größe/Mittelgroß

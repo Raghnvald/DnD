@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Narzugon
+Status: WIP
 linter-yaml-title-alias: Narzugon
 tags:
   - Monster/Größe/Mittelgroß

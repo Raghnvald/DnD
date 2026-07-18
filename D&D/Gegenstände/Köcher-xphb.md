@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quiver
+Status: WIP
 linter-yaml-title-alias: Quiver
 tags:
   - Gegenstand/Ausrüstung/

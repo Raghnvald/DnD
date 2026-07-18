@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Otto Belview
+Status: WIP
 linter-yaml-title-alias: Otto Belview
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Initiate
+Status: WIP
 linter-yaml-title-alias: Initiate
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/psa
 aliases:
-  - "Initiate"
+  - Initiate
   - Initiate
 ---
 # Initiate

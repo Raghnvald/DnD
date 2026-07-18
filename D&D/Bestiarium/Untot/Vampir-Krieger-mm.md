@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 15
 Habitat:
   - Stadt
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vampire Warrior
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Vampire Warrior
+status: WIP
 ---
 # [Vampire Warrior](3-Mechanics\CLI\bestiary\undead/vampire-warrior.md)
 *Source: Monster Manual p. 298*  

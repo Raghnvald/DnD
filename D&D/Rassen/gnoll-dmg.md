@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnoll
+Status: WIP
 linter-yaml-title-alias: Gnoll
 tags:
   - Quelle/5e/dmg

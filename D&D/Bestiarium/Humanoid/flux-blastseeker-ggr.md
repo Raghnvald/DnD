@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flux Blastseeker
+Status: WIP
 linter-yaml-title-alias: Flux Blastseeker
 tags:
   - Monster/Größe/Mittelgroß

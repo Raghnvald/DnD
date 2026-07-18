@@ -5,7 +5,7 @@ Bezeichnung: Enderman
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 6
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Enderman
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mcv3mc
 aliases:
   - Enderman
+status: WIP
 ---
 # [Enderman](3-Mechanics\CLI\bestiary\aberration/enderman-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 6*  

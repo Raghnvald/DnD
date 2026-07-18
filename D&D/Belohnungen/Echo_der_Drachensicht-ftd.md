@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Echo of Dragonsight
+Status: WIP
 linter-yaml-title-alias: Echo of Dragonsight
 tags:
   - Kompendium/Belohnung/draconic-gift

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Lord of the Hells
+Status: WIP
 linter-yaml-title-alias: The Lord of the Hells
 tags:
-  - Kompendium/Götter/Domäne/order
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Asmodeus

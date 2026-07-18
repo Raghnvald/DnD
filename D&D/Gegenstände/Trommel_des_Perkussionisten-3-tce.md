@@ -1,10 +1,11 @@
 ---
 Bezeichnung: "+3 Rhythm-Maker's Drum"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "+3 Rhythm-Maker's Drum"
 tags:
   - Gegenstand/Ausrüstung/Instrument
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/tce

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Aberrant Mark
+Status: WIP
 linter-yaml-title-alias: Greater Aberrant Mark
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Aberrant Mark"
+  - Greater Aberrant Mark
   - Greater Aberrant Mark
 ---
 # Greater Aberrant Mark

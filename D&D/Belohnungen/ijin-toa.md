@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "I'jin"
+Status: WIP
 linter-yaml-title-alias: "I'jin"
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa
 aliases:
   - "I'jin"
-  - I'jin
 ---
 # I'jin
 *Inhabitation*  

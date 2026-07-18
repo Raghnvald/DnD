@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Programmed Illusion
+Status: WIP
 linter-yaml-title-alias: Programmed Illusion
 classes:
   - Bard

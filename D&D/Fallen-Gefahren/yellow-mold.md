@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yellow Mold
+Status: WIP
 linter-yaml-title-alias: Yellow Mold
 tags:
   - Quelle/5e/dmg

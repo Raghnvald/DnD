@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Naralis Analor
+Status: WIP
 linter-yaml-title-alias: Naralis Analor
 tags:
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

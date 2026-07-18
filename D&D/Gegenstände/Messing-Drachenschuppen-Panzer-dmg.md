@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Brass Dragon Scale Mail
+Original: Brass Dragon Scale Mail
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Brass Dragon Scale Mail
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg

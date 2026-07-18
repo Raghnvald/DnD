@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 300 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Ätheressenz
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ätheressenz
+status: WIP
 ---
 # Ätheressenz
 *Adventuring gear, poison (inhaled)*  

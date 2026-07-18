@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dugmaren Brightmantle
+Status: WIP
 linter-yaml-title-alias: Dugmaren Brightmantle
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

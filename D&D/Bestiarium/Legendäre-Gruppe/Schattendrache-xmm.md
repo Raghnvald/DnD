@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow Dragon
+Status: WIP
 linter-yaml-title-alias: Shadow Dragon
 tags:
   - Monster/legendary-group

@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Urogalan
+Status: WIP
 linter-yaml-title-alias: Urogalan
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/halfling
   - Quelle/5e/scag
 aliases:
-  - "Urogalan"
+  - Urogalan
   - Urogalan
 ---
 # Urogalan

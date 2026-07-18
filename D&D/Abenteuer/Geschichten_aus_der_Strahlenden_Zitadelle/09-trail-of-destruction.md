@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trail of Destruction
+Status: WIP
 linter-yaml-title-alias: Trail of Destruction
 tags:
   - Quelle/5e/jttrc

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Selling a Magic Item"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Selling a Magic Item"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Selling a Magic Item"
-  - Downtime Activity: Selling a Magic Item
 ---
 # Downtime Activity: Selling a Magic Item
 *Source: Xanathar's Guide to Everything p. 133* 

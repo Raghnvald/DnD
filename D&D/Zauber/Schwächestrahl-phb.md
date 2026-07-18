@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Ray of Enfeeblement
+Bezeichnung: Schwächestrahl
 Zaubergrad: 2
-linter-yaml-title-alias: Ray of Enfeeblement
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Schwächestrahl
 classes:
   - Bard (Magical Secrets)
   - Cleric (Death Domain)
@@ -20,9 +22,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Nekromantie
 aliases:
-  - Ray of Enfeeblement
+  - Schwächestrahl
 ---
-# Ray of Enfeeblement
+# Schwächestrahl
 *2nd-level, Necromancy*  
 
 - **Casting time:** 1 Action

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Segen der Magieresistenz
+Status: WIP
 linter-yaml-title-alias: Segen der Magieresistenz
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/dmg
 aliases:
   - Blessing of Magic Resistance

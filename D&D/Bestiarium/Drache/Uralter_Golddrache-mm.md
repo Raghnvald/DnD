@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Gold Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Gold Dragon
 tags:
   - Monster/Größe/Gigantisch

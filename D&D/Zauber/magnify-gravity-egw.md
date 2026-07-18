@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Magnify Gravity
 Zaubergrad: 1
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Magnify Gravity
 tags:
   - Quelle/5e/egw
@@ -8,6 +10,9 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Magnify Gravity
+Reichweite: 18 Meter
+Komponenten: V, G
+Wirkungsdauer: 1 Runde
 ---
 # Magnify Gravity
 *1st-level, Transmutation*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: City of Lost Names"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: City of Lost Names"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Chapter 6: City of Lost Names"
-  - Chapter 6: City of Lost Names
 ---
 # Chapter 6: City of Lost Names
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 135* 

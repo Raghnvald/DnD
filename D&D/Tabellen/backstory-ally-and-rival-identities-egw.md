@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Ally and Rival Identities
+Status: WIP
 linter-yaml-title-alias: Backstory; Ally and Rival Identities
 tags:
   - Quelle/5e/egw

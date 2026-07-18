@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bloodrage Greataxe
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Bloodrage Greataxe
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -9,6 +10,8 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Bloodrage Greataxe
+status: WIP
+Original: Bloodrage Greataxe
 ---
 # Bloodrage Greataxe
 *Weapon (greataxe), uncommon*  

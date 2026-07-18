@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: "12"
 Habitat:
   - /
-image: token/afsoun-ghorbani-jttrc.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Afsoun Ghorbani
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Afsoun Ghorbani
+image: token/afsoun-ghorbani-jttrc.webp
+status: WIP
 ---
 # [Afsoun Ghorbani](3-Mechanics\CLI\bestiary\npc/afsoun-ghorbani-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 162*  

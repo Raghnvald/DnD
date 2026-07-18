@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Shadowblade
+Status: WIP
 linter-yaml-title-alias: Drow Shadowblade
 tags:
   - Monster/Größe/Mittelgroß

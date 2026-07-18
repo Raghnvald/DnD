@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Poison Resistance
+Status: WIP
 linter-yaml-title-alias: Ring of Poison Resistance
 tags:
   - Gegenstand/Seltenheit/selten

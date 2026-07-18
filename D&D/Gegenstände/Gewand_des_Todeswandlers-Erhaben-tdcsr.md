@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Exalted)"
+Original: "Deathwalker's Ward (Exalted)"
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: "Deathwalker's Ward (Exalted)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

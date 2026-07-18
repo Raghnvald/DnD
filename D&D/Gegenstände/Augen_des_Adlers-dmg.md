@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Augen des Adlers
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Augen des Adlers
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg

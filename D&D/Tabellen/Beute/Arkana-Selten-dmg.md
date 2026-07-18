@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkana - Selten
+Status: WIP
 linter-yaml-title-alias: Arkana - Selten
 tags:
   - Quelle/5e/dmg

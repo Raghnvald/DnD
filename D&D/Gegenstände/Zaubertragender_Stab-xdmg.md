@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Enspelled Staff
+Status: WIP
 linter-yaml-title-alias: Enspelled Staff
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

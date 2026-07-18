@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bag of Devouring
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Bag of Devouring
 tags:
   - Gegenstand/Seltenheit/sehr_selten

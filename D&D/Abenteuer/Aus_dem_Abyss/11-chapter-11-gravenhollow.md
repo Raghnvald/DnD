@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 11: Gravenhollow"
+Status: WIP
 linter-yaml-title-alias: "Chapter 11: Gravenhollow"
 tags:
   - Quelle/5e/oota

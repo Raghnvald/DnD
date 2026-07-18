@@ -2,10 +2,10 @@
 Bezeichnung: Kletterhaken
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 KM
 Gew.: 0,125 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Kletterhaken
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,9 +15,9 @@ aliases:
   - Kletterhaken
 ---
 # Kletterhaken
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 5 cp
-- **Weight**: 0.25 lbs.
+- **Kosten**: 5 KM
+- **Gewicht**: 0,125 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

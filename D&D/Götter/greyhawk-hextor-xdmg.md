@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hextor
+Status: WIP
 linter-yaml-title-alias: Hextor
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Hextor

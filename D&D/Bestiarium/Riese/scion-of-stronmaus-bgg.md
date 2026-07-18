@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scion of Stronmaus
+Status: WIP
 linter-yaml-title-alias: Scion of Stronmaus
 tags:
   - Monster/Größe/Gigantisch

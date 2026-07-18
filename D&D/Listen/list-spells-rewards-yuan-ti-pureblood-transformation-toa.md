@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Yuan-Ti Pureblood Transformation
+Status: WIP
 linter-yaml-title-alias: Spells for Yuan-Ti Pureblood Transformation
 tags:
-  - ttrpg-cli/spell/list/reward/yuan-ti-pureblood-transformation
+  - Zauber/Liste/reward/yuan-ti-pureblood-transformation
 aliases:
-  - "Spells for Yuan-Ti Pureblood Transformation"
+  - Spells for Yuan-Ti Pureblood Transformation
   - Spells for Yuan-Ti Pureblood Transformation
 ---
 # Spells for Yuan-Ti Pureblood Transformation

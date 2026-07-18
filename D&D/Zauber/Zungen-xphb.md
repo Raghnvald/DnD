@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tongues
+Status: WIP
 linter-yaml-title-alias: Tongues
 classes:
   - Bard

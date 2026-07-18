@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schauplätze
+Status: WIP
 linter-yaml-title-alias: Schauplätze
 aliases:
   - Schauplätze

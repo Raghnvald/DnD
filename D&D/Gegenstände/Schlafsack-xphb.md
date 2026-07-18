@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bedroll
+Status: WIP
 linter-yaml-title-alias: Bedroll
 tags:
   - Gegenstand/Ausrüstung/

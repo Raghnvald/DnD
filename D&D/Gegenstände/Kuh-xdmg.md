@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cow
+Status: WIP
 linter-yaml-title-alias: Cow
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hulil Lutan
+Status: WIP
 linter-yaml-title-alias: Hulil Lutan
 tags:
   - Monster/Größe/Mittelgroß

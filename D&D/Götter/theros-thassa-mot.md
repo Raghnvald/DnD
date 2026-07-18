@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Thassa
+Status: WIP
 linter-yaml-title-alias: Thassa
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Thassa"
+  - Thassa
   - Thassa
 ---
 # Thassa

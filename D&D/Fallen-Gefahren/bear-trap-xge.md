@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bear Trap
+Status: WIP
 linter-yaml-title-alias: Bear Trap
 tags:
   - Kompendium/Bedrohung/smpl

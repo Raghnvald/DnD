@@ -4,8 +4,8 @@ statblock-link: "#^statblock"
 Bezeichnung: Assassine
 Kategorie: Humanoid
 Größe: Mittelgroß
-status: WIP
-linter-yaml-title-alias: Assassin
+Status: WIP
+linter-yaml-title-alias: Assassine
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -13,7 +13,8 @@ tags:
   - Monster/Typ/Humanoid/any-race
   - Quelle/5e/mm
 aliases:
-  - Assassin
+  - Assassine
+status: WIP
 ---
 # Assassine
 *Quelle: Monsterhandbuch S. 343. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span>*  

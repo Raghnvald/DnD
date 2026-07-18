@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mahadi the Rakshasa
+Status: WIP
 linter-yaml-title-alias: Mahadi the Rakshasa
 tags:
   - Monster/Größe/Mittelgroß

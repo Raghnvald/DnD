@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zweigplage
+Status: WIP
 linter-yaml-title-alias: Zweigplage
 tags:
   - Monster/Größe/Klein

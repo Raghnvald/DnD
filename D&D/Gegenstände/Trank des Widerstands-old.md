@@ -5,6 +5,7 @@ Eigenschaften:
   - /
 Kst.: 200 GM
 Gew.: 0,25 kg
+Status: WIP
 linter-yaml-title-alias: Trank des Widerstands
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

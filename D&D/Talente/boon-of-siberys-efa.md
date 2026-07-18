@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Siberys
+Status: WIP
 linter-yaml-title-alias: Boon of Siberys
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Boon of Siberys"
+  - Boon of Siberys
   - Boon of Siberys
 ---
 # Boon of Siberys

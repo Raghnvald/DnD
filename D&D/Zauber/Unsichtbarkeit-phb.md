@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Invisibility
+Bezeichnung: Unsichtbarkeit
 Zaubergrad: 2
-linter-yaml-title-alias: Invisibility
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Unsichtbarkeit
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Grassland)
@@ -22,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
 aliases:
-  - Invisibility
+  - Unsichtbarkeit
 ---
-# Invisibility
+# Unsichtbarkeit
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 Action

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lathander, Gott der Morgendämmerung und der Erneuerung
+Status: WIP
 linter-yaml-title-alias: Lathander, Gott der Morgendämmerung und der Erneuerung
 tags:
   - Kompendium/Götter

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rassenmerkmale
+Status: WIP
 linter-yaml-title-alias: Rassenmerkmale
 aliases:
   - Rassenmerkmale

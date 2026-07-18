@@ -2,16 +2,18 @@
 Bezeichnung: "Sage's Signet (Lion)"
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung durch einen Zauberwirker
-status: WIP
+  - n/v
+Einstimmung: durch einen Zauberwirker
+Status: WIP
 linter-yaml-title-alias: "Sage's Signet (Lion)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Lion)"
+status: WIP
 ---
 # Sage's Signet (Lion)
 *Ring, very rare (requires attunement by a spellcaster)*  

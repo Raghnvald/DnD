@@ -2,13 +2,13 @@
 Bezeichnung: Copper Zib
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 KM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Copper Zib
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/ggr
 aliases:

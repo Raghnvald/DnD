@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Initial Attitudes
+Status: WIP
 linter-yaml-title-alias: Initial Attitudes
 tags:
   - Quelle/5e/bgg

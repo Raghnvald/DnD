@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Familiars
+Status: WIP
 linter-yaml-title-alias: Familiars
 tags:
   - Quelle/5e/mm

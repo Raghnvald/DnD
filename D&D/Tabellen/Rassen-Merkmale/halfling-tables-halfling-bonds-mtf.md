@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Tables; Halfling Bonds
+Status: WIP
 linter-yaml-title-alias: Halfling Tables; Halfling Bonds
 tags:
   - Quelle/5e/mtf

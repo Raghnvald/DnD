@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sylvira Savikas
+Status: WIP
 linter-yaml-title-alias: Sylvira Savikas
 tags:
   - Monster/Größe/Mittelgroß

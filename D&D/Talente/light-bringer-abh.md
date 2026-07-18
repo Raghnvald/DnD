@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Light Bringer
+Status: WIP
 linter-yaml-title-alias: Light Bringer
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Light Bringer"
+  - Light Bringer
   - Light Bringer
 ---
 # Light Bringer

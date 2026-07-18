@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Kurtulmak
+Status: WIP
 linter-yaml-title-alias: Kurtulmak
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

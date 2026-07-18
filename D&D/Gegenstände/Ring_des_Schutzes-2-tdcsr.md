@@ -1,11 +1,12 @@
 ---
 Bezeichnung: +2 Ring of Protection
+Status: WIP
 linter-yaml-title-alias: +2 Ring of Protection
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/tier/major
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/tdcsr
 aliases:
   - +2 Ring of Protection

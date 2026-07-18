@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mage Slayer
+Status: WIP
 linter-yaml-title-alias: Mage Slayer
 tags:
   - Kompendium/Talent

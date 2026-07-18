@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flaw or Secret; NPC Flaws and Secrets
+Status: WIP
 linter-yaml-title-alias: Flaw or Secret; NPC Flaws and Secrets
 tags:
   - Quelle/5e/dmg

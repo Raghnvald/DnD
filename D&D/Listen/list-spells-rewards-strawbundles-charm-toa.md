@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Strawbundle's Charm"
+Status: WIP
 linter-yaml-title-alias: "Spells for Strawbundle's Charm"
 tags:
-  - ttrpg-cli/spell/list/reward/strawbundles-charm
+  - Zauber/Liste/reward/strawbundles-charm
 aliases:
   - "Spells for Strawbundle's Charm"
 ---

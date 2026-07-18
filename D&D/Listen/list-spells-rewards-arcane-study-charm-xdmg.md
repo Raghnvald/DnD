@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Arcane Study Charm
+Status: WIP
 linter-yaml-title-alias: Spells for Arcane Study Charm
 tags:
-  - ttrpg-cli/spell/list/reward/arcane-study-charm
+  - Zauber/Liste/reward/arcane-study-charm
 aliases:
-  - "Spells for Arcane Study Charm"
+  - Spells for Arcane Study Charm
   - Spells for Arcane Study Charm
 ---
 # Spells for Arcane Study Charm

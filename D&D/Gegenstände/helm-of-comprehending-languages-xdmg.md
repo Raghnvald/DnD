@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Helm of Comprehending Languages
+Status: WIP
 linter-yaml-title-alias: Helm of Comprehending Languages
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

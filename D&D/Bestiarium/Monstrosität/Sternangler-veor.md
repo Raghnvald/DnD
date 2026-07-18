@@ -2,20 +2,22 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sternangler
+Original: Star Angler
+Kategorie: Monstrosität
+Größe: Groß
 HG: 8
-Habitat: /
-image: token/star-angler-veor.webp
-status: WIP
-linter-yaml-title-alias: Star Angler
+Habitat:
+  - /
+Status: completed
+linter-yaml-title-alias: Sternangler
 tags:
   - Monster/Größe/Groß
   - Monster/HG/8
   - Monster/Typ/Monstrosität
   - Quelle/5e/veor
 aliases:
-  - Star Angler
-Kategorie: Monstrosität
-Größe: Groß
+  - Sternangler
+image: token/star-angler-veor.webp
 ---
 # Sternangler
 *Quelle: Vecna: Vorabend der Verdammnis S. 237*  

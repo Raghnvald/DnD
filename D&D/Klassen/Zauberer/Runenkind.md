@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Runenkind
+Status: WIP
 tags:
   - Klasse/Zauberer
   - Quelle/5e/tdcsr

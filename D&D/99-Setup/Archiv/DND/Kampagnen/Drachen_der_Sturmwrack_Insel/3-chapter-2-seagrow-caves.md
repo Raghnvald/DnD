@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Seagrow Caves"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Seagrow Caves"
 tags:
   - Quelle/5e/dosi
 aliases:
   - "Chapter 2: Seagrow Caves"
-  - Chapter 2: Seagrow Caves
 ---
 # Chapter 2: Seagrow Caves
 *Source: Dragons of Stormwreck Isle, p. 16* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tarokka Deck
+Status: WIP
 linter-yaml-title-alias: Tarokka Deck
 tags:
   - Quelle/5e/cos

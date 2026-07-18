@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orb
+Status: WIP
 linter-yaml-title-alias: Orb
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

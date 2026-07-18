@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dreieber-Pfad
+Status: WIP
 linter-yaml-title-alias: Dreieber-Pfad
 aliases:
   - Dreieber-Pfad

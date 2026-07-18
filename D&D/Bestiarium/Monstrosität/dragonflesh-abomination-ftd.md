@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonflesh Abomination
+Status: WIP
 linter-yaml-title-alias: Dragonflesh Abomination
 tags:
   - Monster/Größe/Riesig

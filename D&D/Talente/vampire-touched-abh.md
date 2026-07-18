@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampire Touched
+Status: WIP
 linter-yaml-title-alias: Vampire Touched
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Vampire Touched"
+  - Vampire Touched
   - Vampire Touched
 ---
 # Vampire Touched

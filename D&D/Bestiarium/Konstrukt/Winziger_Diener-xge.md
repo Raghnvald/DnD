@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tiny Servant
+Status: WIP
 linter-yaml-title-alias: Tiny Servant
 tags:
   - Monster/Größe/Winzig

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Affair on the Concordant Express
+Status: WIP
 linter-yaml-title-alias: Affair on the Concordant Express
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Affair on the Concordant Express"
+  - Affair on the Concordant Express
   - Affair on the Concordant Express
 ---
 # Affair on the Concordant Express

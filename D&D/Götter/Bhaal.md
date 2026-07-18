@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bhaal, Gott des Mordes
+Status: WIP
 linter-yaml-title-alias: Bhaal, Gott des Mordes
 tags:
   - Kompendium/Götter

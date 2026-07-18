@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drynna Hydra
+Status: WIP
 linter-yaml-title-alias: Drynna Hydra
 tags:
   - Monster/Größe/Riesig

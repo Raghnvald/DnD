@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sea Hag
+Status: WIP
 linter-yaml-title-alias: Sea Hag
 tags:
   - Monster/Größe/Mittelgroß

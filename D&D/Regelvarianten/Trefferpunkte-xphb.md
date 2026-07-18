@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hit Points
+Status: WIP
 linter-yaml-title-alias: Hit Points
 tags:
   - Quelle/5e/xphb

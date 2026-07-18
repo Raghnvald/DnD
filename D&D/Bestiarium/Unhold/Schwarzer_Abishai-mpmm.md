@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black Abishai
+Status: WIP
 linter-yaml-title-alias: Black Abishai
 tags:
   - Monster/Größe/Mittelgroß

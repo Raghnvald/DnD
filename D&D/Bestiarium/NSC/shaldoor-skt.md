@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shaldoor
+Status: WIP
 linter-yaml-title-alias: Shaldoor
 tags:
   - Monster/Größe/Riesig

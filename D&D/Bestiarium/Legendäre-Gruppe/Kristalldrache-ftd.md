@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crystal Dragon
+Status: WIP
 linter-yaml-title-alias: Crystal Dragon
 tags:
   - Monster/legendary-group

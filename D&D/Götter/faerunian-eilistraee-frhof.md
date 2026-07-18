@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Eilistraee
+Status: WIP
 linter-yaml-title-alias: Eilistraee
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Eilistraee"
-  - "Lady of the Dance"
-  - "Lady Silverhair"
-  - "The Dark Maiden"
   - Eilistraee
+  - Eilistraee
+  - Lady of the Dance
+  - Lady Silverhair
+  - The Dark Maiden
 ---
 # Eilistraee
 *Source: Forgotten Realms: Heroes of Faerûn p. 106* 

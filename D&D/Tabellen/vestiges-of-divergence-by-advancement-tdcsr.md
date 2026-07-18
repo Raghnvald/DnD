@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vestiges of Divergence by Advancement
+Status: WIP
 linter-yaml-title-alias: Vestiges of Divergence by Advancement
 tags:
   - Quelle/5e/tdcsr

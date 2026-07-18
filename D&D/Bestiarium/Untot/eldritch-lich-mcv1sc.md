@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: "15"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Eldritch Lich
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mcv1sc
 aliases:
   - Eldritch Lich
+status: WIP
 ---
 # [Eldritch Lich](3-Mechanics\CLI\bestiary\undead/eldritch-lich-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 6*  

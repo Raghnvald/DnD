@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Perfume
+Status: WIP
 linter-yaml-title-alias: Perfume
 tags:
   - Gegenstand/Ausrüstung/

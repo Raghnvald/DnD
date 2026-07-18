@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Goblin (Zendikar; Grotag Tribe)
+Status: WIP
 linter-yaml-title-alias: Goblin (Zendikar; Grotag Tribe)
 tags:
   - Quelle/5e/psz
   - Rasse/goblin/zendikar-grotag-tribe
 aliases:
-  - "Goblin (Zendikar; Grotag Tribe)"
+  - Goblin (Zendikar; Grotag Tribe)
   - Goblin (Zendikar; Grotag Tribe)
 ---
 # Goblin (Zendikar; Grotag Tribe)

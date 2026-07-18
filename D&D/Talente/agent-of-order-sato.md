@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Agent of Order
+Status: WIP
 linter-yaml-title-alias: Agent of Order
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
-  - "Agent of Order"
+  - Agent of Order
   - Agent of Order
 ---
 # Agent of Order

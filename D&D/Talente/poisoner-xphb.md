@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisoner
+Status: WIP
 linter-yaml-title-alias: Poisoner
 tags:
   - Kompendium/Talent

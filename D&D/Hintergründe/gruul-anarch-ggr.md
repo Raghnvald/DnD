@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Anarch
+Status: WIP
 linter-yaml-title-alias: Gruul Anarch
 tags:
   - Kompendium/Hintergrund

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Item Types
+Status: WIP
 linter-yaml-title-alias: Item Types
 tags:
   - Quelle/5e/dmg

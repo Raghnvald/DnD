@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Scaleshield
+Status: WIP
 linter-yaml-title-alias: Lizardfolk Scaleshield
 tags:
   - Monster/Größe/Mittelgroß

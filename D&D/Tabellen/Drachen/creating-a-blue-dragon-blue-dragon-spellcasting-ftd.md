@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Blue Dragon; Blue Dragon Spellcasting
+Status: WIP
 linter-yaml-title-alias: Creating a Blue Dragon; Blue Dragon Spellcasting
 tags:
   - Quelle/5e/ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goliath
+Status: WIP
 linter-yaml-title-alias: Goliath
 tags:
   - Quelle/5e/vgm

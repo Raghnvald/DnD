@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Strawbundle's Charm"
+Status: WIP
 linter-yaml-title-alias: "Strawbundle's Charm"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/toa
 aliases:
   - "Strawbundle's Charm"
-  - Strawbundle's Charm
 ---
 # Strawbundle's Charm
 *Charm*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shortsword
 Kategorie: Nahkampf-Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Shortsword
 tags:
   - Gegenstand/Seltenheit/keine

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharn Watch Personalities
+Status: WIP
 linter-yaml-title-alias: Sharn Watch Personalities
 tags:
   - Quelle/5e/erlw

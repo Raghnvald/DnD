@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ogre
+Status: WIP
 linter-yaml-title-alias: Ogre
 tags:
   - Monster/Größe/Groß

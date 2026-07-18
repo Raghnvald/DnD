@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating an Emerald Dragon; Emerald Dragon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Creating an Emerald Dragon; Emerald Dragon Personality Traits
 tags:
   - Quelle/5e/ftd

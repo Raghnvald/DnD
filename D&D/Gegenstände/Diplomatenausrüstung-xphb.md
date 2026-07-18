@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Diplomat's Pack"
+Status: WIP
 linter-yaml-title-alias: "Diplomat's Pack"
 tags:
   - Gegenstand/Ausrüstung/

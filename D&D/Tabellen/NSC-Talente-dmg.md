@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Talents
+Status: WIP
 linter-yaml-title-alias: NPC Talents
 tags:
   - Quelle/5e/dmg

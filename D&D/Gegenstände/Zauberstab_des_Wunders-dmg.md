@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Wand of Wonder
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Wand of Wonder
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg

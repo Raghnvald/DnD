@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Rocking Horse
+Status: WIP
 linter-yaml-title-alias: Flying Rocking Horse
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/1-8
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/construct
+  - Monster/HG/1-8
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Konstrukt
 aliases:
-  - "Flying Rocking Horse"
+  - Flying Rocking Horse
   - Flying Rocking Horse
 ---
 # [Flying Rocking Horse](3-Mechanics/CLI/bestiary/construct/flying-rocking-horse-wbtw.md)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Score Improvement
+Status: WIP
 linter-yaml-title-alias: Ability Score Improvement
 tags:
   - Kompendium/Talent

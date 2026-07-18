@@ -2,9 +2,10 @@
 Bezeichnung: Nimmervoller Beutel
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 7,5 kg
+Status: WIP
 linter-yaml-title-alias: Nimmervoller Beutel
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

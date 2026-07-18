@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Psychic Resonance Effects
+Status: WIP
 linter-yaml-title-alias: Psychic Resonance Effects
 tags:
   - Quelle/5e/tce

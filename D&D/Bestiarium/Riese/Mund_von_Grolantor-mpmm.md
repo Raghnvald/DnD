@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mouth of Grolantor
+Status: WIP
 linter-yaml-title-alias: Mouth of Grolantor
 tags:
   - Monster/Größe/Riesig

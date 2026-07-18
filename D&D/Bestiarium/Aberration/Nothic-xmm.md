@@ -5,6 +5,7 @@ Bezeichnung: Nothic
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 2
+Status: WIP
 linter-yaml-title-alias: Nothic
 tags:
   - Monster/Größe/Mittelgroß

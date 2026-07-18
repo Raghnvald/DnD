@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Medusa
+Status: WIP
 linter-yaml-title-alias: Medusa
 tags:
   - Monster/Größe/Mittelgroß

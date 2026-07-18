@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Half-Elf
-linter-yaml-title-alias: Half-Elf
+Bezeichnung: Halbelf
+Status: WIP
+linter-yaml-title-alias: Halbelf
 tags:
   - Quelle/5e/phb
   - Rasse/half-elf
 aliases:
-  - Half-Elf
+  - Halbelf
 ---
 # Halbelf
 *Source: Player's Handbook p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

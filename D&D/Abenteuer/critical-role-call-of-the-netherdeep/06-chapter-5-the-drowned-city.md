@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: The Drowned City"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: The Drowned City"
 tags:
   - Quelle/5e/crcotn

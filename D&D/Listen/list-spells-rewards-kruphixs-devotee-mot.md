@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Kruphix's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Spells for Kruphix's Devotee"
 tags:
-  - ttrpg-cli/spell/list/reward/kruphixs-devotee
+  - Zauber/Liste/reward/kruphixs-devotee
 aliases:
   - "Spells for Kruphix's Devotee"
 ---

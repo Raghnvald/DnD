@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcana - Uncommon
+Status: WIP
 linter-yaml-title-alias: Arcana - Uncommon
 tags:
   - Quelle/5e/dmg

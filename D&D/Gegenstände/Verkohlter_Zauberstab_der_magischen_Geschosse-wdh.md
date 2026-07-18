@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Charred Wand of Magic Missiles
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Charred Wand of Magic Missiles
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

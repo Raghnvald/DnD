@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Delban, the Star of Ice and Hate
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Delban, the Star of Ice and Hate
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Delban, the Star of Ice and Hate

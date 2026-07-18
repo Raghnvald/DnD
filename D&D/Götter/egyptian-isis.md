@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Isis
+Status: WIP
 linter-yaml-title-alias: Isis
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dynamite
-Kategorie: Explosives 
+Kategorie: Sprengstoff
+Status: WIP
 linter-yaml-title-alias: Dynamite
 tags:
   - Gegenstand/Seltenheit/keine
@@ -8,6 +9,8 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Dynamite
+status: WIP
+Original: Dynamite
 ---
 # Dynamite
 *Explosive*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amaunator, Gott der Sonne
+Status: WIP
 linter-yaml-title-alias: Amaunator, Gott der Sonne
 tags:
   - Kompendium/Götter

@@ -7,8 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: WEI
 Schaden: 1d8 nekrotisch
-status:
-  - completed
+Status: WIP
 linter-yaml-title-alias: Totenläuten
 tags:
   - Klasse/Hexenmeister
@@ -21,6 +20,8 @@ tags:
 aliases:
   - Toll the Dead
   - Totenläuten
+status:
+  - completed
 ---
 # Totenläuten
 _Zaubertricks der Nekromantie_

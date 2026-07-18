@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Insect
+Status: WIP
 linter-yaml-title-alias: Giant Insect
 classes:
   - Bard

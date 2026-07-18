@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Thautam
+Status: WIP
 linter-yaml-title-alias: Thautam
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

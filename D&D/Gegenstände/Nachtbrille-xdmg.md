@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goggles of Night
+Status: WIP
 linter-yaml-title-alias: Goggles of Night
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clay Gladiator
+Status: WIP
 linter-yaml-title-alias: Clay Gladiator
 tags:
   - Monster/Größe/Mittelgroß

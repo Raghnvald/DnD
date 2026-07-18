@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathless Rider
+Status: WIP
 linter-yaml-title-alias: Deathless Rider
 tags:
   - Monster/Größe/Mittelgroß

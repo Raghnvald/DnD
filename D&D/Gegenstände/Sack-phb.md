@@ -2,10 +2,10 @@
 Bezeichnung: Sack
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 KM
 Gew.: 0,25 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Sack
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 1 KM
-- **Gewicht**: 0.25 kg.
+- **Gewicht**: 0,25 kg
 
 Ein Sack fasst 30 Liter oder 15,0 kg. Ausrüstung.
 

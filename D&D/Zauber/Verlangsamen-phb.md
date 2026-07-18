@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Slow
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Slow
 classes:
   - Bard (Magical Secrets)

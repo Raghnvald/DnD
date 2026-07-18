@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Restoring Harmony: A Web of Lies"
+Status: WIP
 linter-yaml-title-alias: "Restoring Harmony: A Web of Lies"
 tags:
   - Quelle/5e/nrh-awol

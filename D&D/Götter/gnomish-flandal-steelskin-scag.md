@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Flandal Steelskin
+Status: WIP
 linter-yaml-title-alias: Flandal Steelskin
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/gnomish
   - Quelle/5e/scag
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dining Table Mimic
+Status: WIP
 linter-yaml-title-alias: Dining Table Mimic
 tags:
   - Monster/Größe/Groß

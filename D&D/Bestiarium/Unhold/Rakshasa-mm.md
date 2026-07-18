@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakshasa
+Status: WIP
 linter-yaml-title-alias: Rakshasa
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mächtiger Zauber
+Status: WIP
 linter-yaml-title-alias: Mächtiger Zauber
 tags:
   - Kompendium/Optionales/Metamagie

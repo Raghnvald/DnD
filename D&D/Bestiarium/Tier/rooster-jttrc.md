@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rooster
+Status: WIP
 linter-yaml-title-alias: Rooster
 tags:
   - Monster/Größe/Winzig

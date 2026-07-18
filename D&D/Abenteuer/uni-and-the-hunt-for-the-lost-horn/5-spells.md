@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells
+Status: WIP
 linter-yaml-title-alias: Spells
 tags:
   - Quelle/5e/uthftlh
 aliases:
-  - "Spells"
+  - Spells
   - Spells
 ---
 # Spells

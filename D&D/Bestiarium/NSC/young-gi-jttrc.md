@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young-Gi
+Status: WIP
 linter-yaml-title-alias: Young-Gi
 tags:
   - Monster/Größe/Mittelgroß

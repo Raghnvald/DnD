@@ -1,9 +1,10 @@
 ---
 Bezeichnung: The Blood of Vol
+Status: WIP
 linter-yaml-title-alias: The Blood of Vol
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

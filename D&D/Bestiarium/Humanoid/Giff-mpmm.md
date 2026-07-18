@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giff
+Status: WIP
 linter-yaml-title-alias: Giff
 tags:
   - Monster/Größe/Mittelgroß

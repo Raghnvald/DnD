@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Majere
+Status: WIP
 linter-yaml-title-alias: Majere
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

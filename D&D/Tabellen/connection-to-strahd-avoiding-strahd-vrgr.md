@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connection to Strahd; Avoiding Strahd
+Status: WIP
 linter-yaml-title-alias: Connection to Strahd; Avoiding Strahd
 tags:
   - Quelle/5e/vrgr

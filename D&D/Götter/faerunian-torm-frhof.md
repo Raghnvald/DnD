@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Torm
+Status: WIP
 linter-yaml-title-alias: Torm
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "The Hand of Righteousness"
-  - "The Loyal Fury"
-  - "Torm the True"
-  - "Torm"
+  - The Hand of Righteousness
+  - The Loyal Fury
   - Torm
+  - Torm
+  - Torm the True
 ---
 # Torm
 *Source: Forgotten Realms: Heroes of Faerûn p. 125* 

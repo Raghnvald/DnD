@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Kundarak Heir
+Status: WIP
 linter-yaml-title-alias: House Kundarak Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Kundarak Heir"
+  - House Kundarak Heir
   - House Kundarak Heir
 ---
 # House Kundarak Heir

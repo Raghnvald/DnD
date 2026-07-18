@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Mittelschwer gerüstet
-
-linter-yaml-title-alias: Moderately Armored
+Status: WIP
+linter-yaml-title-alias: Mittelschwer gerüstet
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Moderately Armored
+  - Mittelschwer gerüstet
 ---
 # Mittelschwer gerüstet
 *Source: Player's Handbook p. 168*  

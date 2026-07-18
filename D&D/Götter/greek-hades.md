@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hades
+Status: WIP
 linter-yaml-title-alias: Hades
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Grab
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

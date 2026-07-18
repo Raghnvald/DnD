@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ralishaz
+Status: WIP
 linter-yaml-title-alias: Ralishaz
 tags:
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Ralishaz

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mortlock Vanthampur
+Status: WIP
 linter-yaml-title-alias: Mortlock Vanthampur
 tags:
   - Monster/Größe/Mittelgroß

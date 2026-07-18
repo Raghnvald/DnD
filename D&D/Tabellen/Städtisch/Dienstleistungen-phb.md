@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dienstleistungen
+Status: WIP
 linter-yaml-title-alias: Dienstleistungen
 tags:
   - Quelle/5e/phb

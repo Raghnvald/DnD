@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Pregenerated Characters
+Status: WIP
 linter-yaml-title-alias: Pregenerated Characters
 tags:
   - Quelle/5e/azfyt
 aliases:
-  - "Pregenerated Characters"
+  - Pregenerated Characters
   - Pregenerated Characters
 ---
 # Pregenerated Characters

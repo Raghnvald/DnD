@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sphinx of Wonder
+Status: WIP
 linter-yaml-title-alias: Sphinx of Wonder
 tags:
   - Monster/Größe/Winzig

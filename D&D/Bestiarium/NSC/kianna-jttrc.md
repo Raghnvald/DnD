@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kianna
+Status: WIP
 linter-yaml-title-alias: Kianna
 tags:
   - Monster/Größe/Mittelgroß

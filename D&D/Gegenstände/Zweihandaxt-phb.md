@@ -1,21 +1,29 @@
 ---
-Bezeichnung: Greataxe
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Greataxe
+Bezeichnung: Zweihandaxt
+Original: Greataxe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1d12 Hieb
+Eigenschaften:
+  - Schwer
+  - Zweihändig
+Kst.: 30 GM
+Gew.: 3,5 kg
+Status: completed
+linter-yaml-title-alias: Zweihandaxt
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Greataxe
+  - Zweihandaxt
 ---
-# Greataxe
-*Weapon*  
+# Zweihandaxt
+*Nahkampf-Kriegswaffe*
 
-- **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Cost**: 30 gp
-- **Weight**: 7.0 lbs.
+- **Schaden**: 1d12 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Kosten**. 30 GM
+- **Gewicht**: 3,5 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

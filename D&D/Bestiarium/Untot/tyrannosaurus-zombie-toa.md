@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tyrannosaurus Zombie
+Status: WIP
 linter-yaml-title-alias: Tyrannosaurus Zombie
 tags:
   - Monster/Größe/Riesig

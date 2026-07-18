@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thelanis, the Faerie Court; Thelanis Manifest Zone Features
+Status: WIP
 linter-yaml-title-alias: Thelanis, the Faerie Court; Thelanis Manifest Zone Features
 tags:
   - Quelle/5e/erlw

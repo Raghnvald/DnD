@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demilich
+Status: WIP
 linter-yaml-title-alias: Demilich
 tags:
   - Monster/legendary-group

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wilderness Guilds
+Status: WIP
 linter-yaml-title-alias: Wilderness Guilds
 tags:
   - Quelle/5e/ggr

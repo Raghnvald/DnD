@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Child
+Status: WIP
 linter-yaml-title-alias: Giant Child
 tags:
   - Monster/Größe/Mittelgroß

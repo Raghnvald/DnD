@@ -8,7 +8,7 @@ HG: 13
 Habitat:
   - Stadt
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vampire
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Vampire
+status: WIP
 ---
 # [Vampire](3-Mechanics\CLI\bestiary\undead/vampire-xmm.md)
 *Source: Monster Manual (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

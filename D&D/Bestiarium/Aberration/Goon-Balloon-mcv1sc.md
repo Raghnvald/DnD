@@ -5,7 +5,7 @@ Bezeichnung: Goon Balloon
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 1/8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Goon Balloon
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mcv1sc
 aliases:
   - Goon Balloon
+status: WIP
 ---
 # [Goon Balloon](3-Mechanics\CLI\bestiary\aberration/goon-balloon-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 9*  

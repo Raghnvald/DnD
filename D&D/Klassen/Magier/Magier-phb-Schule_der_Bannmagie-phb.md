@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Abjuration
+Status: WIP
 linter-yaml-title-alias: School of Abjuration
 tags:
   - Klasse/Magier/abjuration

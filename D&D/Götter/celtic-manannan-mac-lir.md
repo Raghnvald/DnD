@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Manannan mac Lir
+Status: WIP
 linter-yaml-title-alias: Manannan mac Lir
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
   - Quelle/5e/phb
 aliases:
   - Manannan mac Lir

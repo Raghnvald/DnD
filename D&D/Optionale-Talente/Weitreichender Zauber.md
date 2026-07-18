@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weitreichender Zauber
+Status: WIP
 tags:
   - Kompendium/Optionales/Metamagie
   - Quelle/5e/phb

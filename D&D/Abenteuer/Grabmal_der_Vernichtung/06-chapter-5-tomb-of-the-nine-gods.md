@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Tomb of the Nine Gods"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Tomb of the Nine Gods"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Chapter 5: Tomb of the Nine Gods"
-  - Chapter 5: Tomb of the Nine Gods
 ---
 # Chapter 5: Tomb of the Nine Gods
 *Source: Tomb of Annihilation, p. 125* 

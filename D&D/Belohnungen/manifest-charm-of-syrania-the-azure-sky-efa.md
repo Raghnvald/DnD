@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Syrania, the Azure Sky
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Syrania, the Azure Sky
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Syrania, the Azure Sky"
+  - Manifest Charm of Syrania, the Azure Sky
   - Manifest Charm of Syrania, the Azure Sky
 ---
 # Manifest Charm of Syrania, the Azure Sky

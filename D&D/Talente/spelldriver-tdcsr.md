@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spelldriver
+Status: WIP
 linter-yaml-title-alias: Spelldriver
 tags:
   - Kompendium/Talent

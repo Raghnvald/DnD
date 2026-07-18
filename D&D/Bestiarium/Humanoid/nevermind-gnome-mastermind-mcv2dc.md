@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nevermind Gnome Mastermind
+Status: WIP
 linter-yaml-title-alias: Nevermind Gnome Mastermind
 tags:
   - Monster/Größe/Klein

@@ -9,7 +9,7 @@ Habitat:
   - Küste
   - Sumpf
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Chuul
 tags:
   - Monster/Größe/Groß
@@ -21,6 +21,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Chuul
+status: WIP
 ---
 # [Chuul](3-Mechanics\CLI\bestiary\aberration/chuul-xmm.md)
 *Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

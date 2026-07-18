@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rilsa Rael
+Status: WIP
 linter-yaml-title-alias: Rilsa Rael
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,17 +2,20 @@
 Bezeichnung: Staff of Withering
 Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung durch einen Druiden, Hexenmeister oder Kleriker
   - Vielseitig (1W8)
 Kst.: /
+Status: WIP
+Einstimmung: durch einen Druiden, Hexenmeister oder Kleriker
 linter-yaml-title-alias: Staff of Withering
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
   - Staff of Withering
+status: WIP
+Original: Staff of Withering
 ---
 # Staff of Withering
 *Staff, weapon, major, rare (requires attunement by a cleric, druid, or warlock)*  

@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Counterspell
+Bezeichnung: Gegenzauber
 Zaubergrad: 3
+Zeitaufwand: 1 Reaktion
+Status: WIP
 linter-yaml-title-alias: Counterspell
 classes:
   - Bard (Magical Secrets)
@@ -21,8 +23,12 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Counterspell
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
-# Counterspell
+# Gegenzauber
 *3rd-level, Abjuration*  
 
 - **Casting time:** 1 Reaction

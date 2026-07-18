@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Iuz
+Status: WIP
 linter-yaml-title-alias: Iuz
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Iuz

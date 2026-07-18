@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
+Status: WIP
 linter-yaml-title-alias: Herausforderungsgrad; Erfahrungspunkte nach Herausforderungsgrad
 tags:
   - Quelle/5e/dmg

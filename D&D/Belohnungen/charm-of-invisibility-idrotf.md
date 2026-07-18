@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Invisibility
+Status: WIP
 linter-yaml-title-alias: Charm of Invisibility
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - Charm of Invisibility

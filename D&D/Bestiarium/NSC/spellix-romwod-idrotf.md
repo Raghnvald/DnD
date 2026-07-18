@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spellix Romwod
+Status: WIP
 linter-yaml-title-alias: Spellix Romwod
 tags:
   - Monster/Größe/Klein

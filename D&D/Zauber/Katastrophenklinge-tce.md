@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Blade of Disaster
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Blade of Disaster
 classes:
   - Bard

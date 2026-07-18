@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Alchemy Jug (Blue)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Alchemy Jug (Blue)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

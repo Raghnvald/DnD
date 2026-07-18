@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Salamander Inferno Master
+Status: WIP
 linter-yaml-title-alias: Salamander Inferno Master
 tags:
   - Monster/Größe/Groß

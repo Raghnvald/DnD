@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aasimar (Protector)
+Status: WIP
 linter-yaml-title-alias: Aasimar (Protector)
 tags:
   - Quelle/5e/vgm

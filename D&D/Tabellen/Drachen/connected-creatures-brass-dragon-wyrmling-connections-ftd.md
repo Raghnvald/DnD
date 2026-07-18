@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Brass Dragon Wyrmling Connections
+Status: WIP
 linter-yaml-title-alias: Connected Creatures; Brass Dragon Wyrmling Connections
 tags:
   - Quelle/5e/ftd

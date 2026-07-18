@@ -6,6 +6,7 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Status: WIP
 linter-yaml-title-alias: Command
 classes:
   - Bard
@@ -24,12 +25,12 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Barde/Schule-des-Zauberbanns
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
   - Klasse/Kleriker/order-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/paladin
   - Klasse/Paladin/Schwur-der-Eroberung
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Subklasse/draconic-sorcery

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Ifan Talro'a"
+Status: WIP
 linter-yaml-title-alias: "Ifan Talro'a"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - "Ifan Talro'a"
-  - Ifan Talro'a
 ---
 # [Ifan Talro'a](3-Mechanics\CLI\bestiary\npc/ifan-talroa-toa.md)
 *Source: Tomb of Annihilation p. 25*  

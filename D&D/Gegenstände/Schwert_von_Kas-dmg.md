@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Schwert von Kas
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Schwert von Kas
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
   - Schwert von Kas
+status: WIP
+Original: Sword of Kas
 ---
 # Schwert von Kas
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), artifact (requires attunement)*  

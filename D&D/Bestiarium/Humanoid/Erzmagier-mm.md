@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archmage
+Status: WIP
 linter-yaml-title-alias: Archmage
 tags:
   - Monster/Größe/Mittelgroß

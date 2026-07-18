@@ -3,7 +3,7 @@ Bezeichnung: Ring des Tierumgangs
 Kategorie: Ring
 Eigenschaften:
   - /
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Tierumgangs
 tags:
   - Gegenstand/Seltenheit/selten
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ring des Tierumgangs
+status: completed
 ---
 # Ring des Tierumgangs
 *Ring, selten*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clientele
+Status: WIP
 linter-yaml-title-alias: Clientele
 tags:
   - Quelle/5e/erlw

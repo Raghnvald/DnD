@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Major Image
+Status: WIP
 linter-yaml-title-alias: Major Image
 classes:
   - Bard

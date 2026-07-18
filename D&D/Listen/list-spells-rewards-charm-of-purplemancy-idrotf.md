@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Purplemancy
+Status: WIP
 linter-yaml-title-alias: Spells for Charm of Purplemancy
 tags:
-  - ttrpg-cli/spell/list/reward/charm-of-purplemancy
+  - Zauber/Liste/reward/charm-of-purplemancy
 aliases:
-  - "Spells for Charm of Purplemancy"
+  - Spells for Charm of Purplemancy
   - Spells for Charm of Purplemancy
 ---
 # Spells for Charm of Purplemancy

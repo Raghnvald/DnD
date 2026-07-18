@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cosmic Horror Villains
+Status: WIP
 linter-yaml-title-alias: Cosmic Horror Villains
 tags:
   - Quelle/5e/vrgr

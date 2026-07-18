@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Creating a Domain of Delight
+Status: WIP
 linter-yaml-title-alias: Creating a Domain of Delight
 tags:
   - Quelle/5e/dod
 aliases:
-  - "Creating a Domain of Delight"
+  - Creating a Domain of Delight
   - Creating a Domain of Delight
 ---
 # Creating a Domain of Delight

@@ -8,7 +8,7 @@ HG: "9"
 Habitat:
   - /
 Image: token/allowak-abominable-yeti-egw.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Allowak Abominable Yeti
 tags:
   - Monster/Größe/Riesig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Allowak Abominable Yeti
+status: WIP
 ---
 # [Allowak Abominable Yeti](3-Mechanics\CLI\bestiary\monstrosity/allowak-abominable-yeti-egw.md)
 *Source: Explorer's Guide to Wildemount p. 126*  

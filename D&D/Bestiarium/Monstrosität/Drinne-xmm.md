@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drider
+Status: WIP
 linter-yaml-title-alias: Drider
 tags:
   - Monster/Größe/Groß

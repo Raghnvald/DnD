@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hag Eye
+Status: WIP
 linter-yaml-title-alias: Hag Eye
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Collapsing Roof
+Status: WIP
 linter-yaml-title-alias: Collapsing Roof
 tags:
   - Kompendium/Bedrohung/trp

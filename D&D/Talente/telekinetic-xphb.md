@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Telekinetic
+Status: WIP
 linter-yaml-title-alias: Telekinetic
 tags:
   - Kompendium/Talent

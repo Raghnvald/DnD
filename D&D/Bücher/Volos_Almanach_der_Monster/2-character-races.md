@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Character Races
+Status: WIP
 linter-yaml-title-alias: Character Races
 tags:
   - Quelle/5e/vgm

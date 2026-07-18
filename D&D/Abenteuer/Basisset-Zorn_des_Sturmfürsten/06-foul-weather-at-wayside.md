@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Foul Weather at Wayside
+Status: WIP
 linter-yaml-title-alias: Foul Weather at Wayside
 tags:
   - Quelle/5e/slw

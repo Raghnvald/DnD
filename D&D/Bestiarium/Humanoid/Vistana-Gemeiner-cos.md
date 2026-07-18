@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vistana Commoner
+Status: WIP
 linter-yaml-title-alias: Vistana Commoner
 tags:
   - Monster/Größe/Mittelgroß

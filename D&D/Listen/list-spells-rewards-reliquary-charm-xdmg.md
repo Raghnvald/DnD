@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Reliquary Charm
+Status: WIP
 linter-yaml-title-alias: Spells for Reliquary Charm
 tags:
-  - ttrpg-cli/spell/list/reward/reliquary-charm
+  - Zauber/Liste/reward/reliquary-charm
 aliases:
-  - "Spells for Reliquary Charm"
+  - Spells for Reliquary Charm
   - Spells for Reliquary Charm
 ---
 # Spells for Reliquary Charm

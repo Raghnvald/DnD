@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flash Recall
+Status: WIP
 linter-yaml-title-alias: Flash Recall
 tags:
   - Kompendium/Talent

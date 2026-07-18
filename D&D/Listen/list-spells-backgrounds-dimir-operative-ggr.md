@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Dimir Operative
+Status: WIP
 linter-yaml-title-alias: Spells for Dimir Operative
 tags:
-  - Zauber/list/background/dimir-operative
+  - Zauber/Liste/background/dimir-operative
 aliases:
   - Spells for Dimir Operative
 ---

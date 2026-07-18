@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schule des Wissens
+Status: WIP
 tags:
   - Klasse/Barde
   - Quelle/5e/phb

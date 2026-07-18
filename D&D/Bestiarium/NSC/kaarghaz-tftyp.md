@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kaarghaz
+Status: WIP
 linter-yaml-title-alias: Kaarghaz
 tags:
   - Monster/Größe/Mittelgroß

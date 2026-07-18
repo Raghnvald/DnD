@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reaction
+Status: WIP
 linter-yaml-title-alias: Reaction
 tags:
   - Quelle/5e/xphb

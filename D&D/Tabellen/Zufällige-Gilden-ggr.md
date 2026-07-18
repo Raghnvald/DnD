@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Guilds
+Status: WIP
 linter-yaml-title-alias: Random Guilds
 tags:
   - Quelle/5e/ggr

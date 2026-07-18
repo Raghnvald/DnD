@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Pharika's Votary"
+Status: WIP
 linter-yaml-title-alias: "Pharika's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

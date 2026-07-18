@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Pit Fighting"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Pit Fighting"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Pit Fighting"
-  - Downtime Activity: Pit Fighting
 ---
 # Downtime Activity: Pit Fighting
 *Source: Xanathar's Guide to Everything p. 131* 

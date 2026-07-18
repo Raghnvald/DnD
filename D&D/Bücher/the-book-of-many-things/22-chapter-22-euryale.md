@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 22: Euryale"
+Status: WIP
 linter-yaml-title-alias: "Chapter 22: Euryale"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 22: Euryale"
-  - Chapter 22: Euryale
 ---
 # Chapter 22: Euryale
 *Source: The Book of Many Things, p. 185* 

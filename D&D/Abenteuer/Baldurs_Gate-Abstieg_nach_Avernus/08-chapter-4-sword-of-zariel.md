@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Sword of Zariel"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Sword of Zariel"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Chapter 4: Sword of Zariel"
-  - Chapter 4: Sword of Zariel
 ---
 # Chapter 4: Sword of Zariel
 *Source: Baldur's Gate: Descent Into Avernus, p. 134* 

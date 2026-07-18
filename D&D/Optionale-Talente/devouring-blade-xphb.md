@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Devouring Blade
+Status: WIP
 linter-yaml-title-alias: Devouring Blade
 tags:
   - Kompendium/Optionales/ei

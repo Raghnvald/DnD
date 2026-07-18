@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Handling
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Handling
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Handling"
+  - Greater Mark of Handling
   - Greater Mark of Handling
 ---
 # Greater Mark of Handling

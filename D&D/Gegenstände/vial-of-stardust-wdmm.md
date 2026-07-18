@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Vial of Stardust
+Status: WIP
 linter-yaml-title-alias: Vial of Stardust
 tags:
   - Gegenstand/Seltenheit/unbekannt
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdmm
 aliases:
   - Vial of Stardust

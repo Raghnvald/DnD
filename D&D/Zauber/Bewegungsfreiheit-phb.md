@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Freedom of Movement
 Zaubergrad: 4
-Zeitaufwand: 
+Zeitaufwand: 1 Aktion
 Reichweite: 
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
+Status: WIP
 linter-yaml-title-alias: Freedom of Movement
 classes:
   - Bard (Magical Secrets)

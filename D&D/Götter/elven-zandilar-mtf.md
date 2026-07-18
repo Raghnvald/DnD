@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Zandilar
+Status: WIP
 linter-yaml-title-alias: Zandilar
 tags:
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

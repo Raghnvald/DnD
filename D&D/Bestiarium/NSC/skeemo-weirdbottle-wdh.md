@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeemo Weirdbottle
+Status: WIP
 linter-yaml-title-alias: Skeemo Weirdbottle
 tags:
   - Monster/Größe/Klein

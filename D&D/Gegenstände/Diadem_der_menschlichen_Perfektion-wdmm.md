@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Circlet of Human Perfection
+Status: WIP
 linter-yaml-title-alias: Circlet of Human Perfection
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdmm
 aliases:
   - Circlet of Human Perfection

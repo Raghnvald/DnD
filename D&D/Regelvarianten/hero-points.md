@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hero Points
+Status: WIP
 linter-yaml-title-alias: Hero Points
 tags:
   - Quelle/5e/dmg

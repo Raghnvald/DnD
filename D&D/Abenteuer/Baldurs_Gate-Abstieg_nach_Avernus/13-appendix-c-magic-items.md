@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix C: Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Magic Items"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Appendix C: Magic Items"
-  - Appendix C: Magic Items
 ---
 # Appendix C: Magic Items
 *Source: Baldur's Gate: Descent Into Avernus, p. 223* 

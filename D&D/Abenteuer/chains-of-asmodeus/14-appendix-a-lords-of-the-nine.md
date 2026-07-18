@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Lords of the Nine"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Lords of the Nine"
 tags:
   - Quelle/5e/coa

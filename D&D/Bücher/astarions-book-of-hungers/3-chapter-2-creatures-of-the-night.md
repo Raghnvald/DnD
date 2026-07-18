@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Creatures of the Night"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Creatures of the Night"
 tags:
   - Quelle/5e/abh

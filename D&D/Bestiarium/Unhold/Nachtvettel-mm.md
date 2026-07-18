@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Night Hag
+Status: WIP
 linter-yaml-title-alias: Night Hag
 tags:
   - Monster/Größe/Mittelgroß

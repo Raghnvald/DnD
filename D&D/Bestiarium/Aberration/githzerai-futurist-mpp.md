@@ -5,15 +5,16 @@ Bezeichnung: Githzerai Futurist
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 9
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Githzerai Futurist
 tags:
   - Quelle/5e/mpp
-  - ttrpg-cli/monster/cr/9
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration/gith
+  - Monster/HG/9
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration/gith
 aliases:
   - Githzerai Futurist
+status: WIP
 ---
 # [Githzerai Futurist](3-Mechanics/CLI/bestiary/aberration/githzerai-futurist-mpp.md)
 *Source: Morte's Planar Parade p. 30*  

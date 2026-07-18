@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gothic Horror Villains
+Status: WIP
 linter-yaml-title-alias: Gothic Horror Villains
 tags:
   - Quelle/5e/vrgr

@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: "1"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Armor Detention Drone
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Animated Armor Detention Drone
+status: WIP
 ---
 # [Animated Armor Detention Drone](3-Mechanics\CLI\bestiary\construct/animated-armor-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  

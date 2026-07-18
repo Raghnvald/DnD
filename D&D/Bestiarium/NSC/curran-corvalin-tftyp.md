@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Curran Corvalin
+Status: WIP
 linter-yaml-title-alias: Curran Corvalin
 tags:
   - Monster/Größe/Mittelgroß

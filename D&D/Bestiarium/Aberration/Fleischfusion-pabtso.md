@@ -8,7 +8,7 @@ HG: 7
 Habitat:
   - /
 Image: token/flesh-meld-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Fleischfusion
 tags:
   - Monster/Größe/Riesig
@@ -18,6 +18,7 @@ tags:
 aliases:
   - Fleischfusion
   - Flesh Meld
+status: WIP
 ---
 # Fleischfusion
 *Source: Phandelver and Below: The Shattered Obelisk p. 207*  

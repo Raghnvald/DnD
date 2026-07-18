@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of the Watchers
+Status: WIP
 linter-yaml-title-alias: Oath of the Watchers
 tags:
   - Klasse/Paladin/watchers

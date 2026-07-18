@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Archer
+Status: WIP
 linter-yaml-title-alias: Arcane Archer
 tags:
   - Klasse/Kämpfer/arcane-archer

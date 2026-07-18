@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bindungen
+Status: WIP
 aliases:
   - Bonds
 ---

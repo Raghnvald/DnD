@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Longship
+Status: WIP
 linter-yaml-title-alias: Longship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

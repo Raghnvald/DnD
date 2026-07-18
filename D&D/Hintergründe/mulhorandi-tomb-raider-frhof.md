@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mulhorandi Tomb Raider
+Status: WIP
 linter-yaml-title-alias: Mulhorandi Tomb Raider
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Mulhorandi Tomb Raider"
+  - Mulhorandi Tomb Raider
   - Mulhorandi Tomb Raider
 ---
 # Mulhorandi Tomb Raider

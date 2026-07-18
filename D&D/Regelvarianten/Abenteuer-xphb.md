@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adventure
+Status: WIP
 linter-yaml-title-alias: Adventure
 tags:
   - Quelle/5e/xphb

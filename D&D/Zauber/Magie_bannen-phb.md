@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff: /
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Magie bannen
 classes:
   - Bard (Magical Secrets)

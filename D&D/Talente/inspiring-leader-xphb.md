@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inspiring Leader
+Status: WIP
 linter-yaml-title-alias: Inspiring Leader
 tags:
   - Kompendium/Talent

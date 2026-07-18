@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Wakanga O'tamu"
+Status: WIP
 linter-yaml-title-alias: "Wakanga O'tamu"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - "Wakanga O'tamu"
-  - Wakanga O'tamu
 ---
 # [Wakanga O'tamu](3-Mechanics\CLI\bestiary\npc/wakanga-otamu-toa.md)
 *Source: Tomb of Annihilation p. 27*  

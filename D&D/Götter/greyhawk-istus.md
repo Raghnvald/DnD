@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Istus
+Status: WIP
 linter-yaml-title-alias: Istus
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Istus

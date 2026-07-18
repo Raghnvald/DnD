@@ -2,10 +2,10 @@
 Bezeichnung: Einbrecherausrüstung
 Kategorie: Ausrüstungspaket
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 16 GM
 Gew.: 22,25 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Einbrecherausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,12 +15,12 @@ aliases:
   - Einbrecherausrüstung
 ---
 # Einbrecherausrüstung
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 16 gp
-- **Weight**: 44.5 lbs.
+- **Kosten**: 16 GM
+- **Gewicht**: 22,25 kg
 
-Includes:
+Beinhaltet:
 
 - a [backpack](/3-Mechanics/CLI/items/backpack.md)  
 - a [bag of 1,000 ball bearings](/3-Mechanics/CLI/items/ball-bearings-bag-of-1000.md)  
@@ -37,4 +37,4 @@ Includes:
 - a [waterskin](/3-Mechanics/CLI/items/waterskin.md)  
 - [50 feet of hempen rope](/3-Mechanics/CLI/items/hempen-rope-50-feet.md)  
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

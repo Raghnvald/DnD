@@ -5,15 +5,16 @@ Bezeichnung: Eater of Knowledge
 Kategorie: Aberration
 Größe: Groß
 HG: 6
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Eater of Knowledge
 tags:
   - Quelle/5e/mpp
-  - ttrpg-cli/monster/cr/6
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/6
+  - Monster/Größe/Groß
+  - Monster/Typ/Aberration
 aliases:
   - Eater of Knowledge
+status: WIP
 ---
 # [Eater of Knowledge](3-Mechanics/CLI/bestiary/aberration/eater-of-knowledge-mpp.md)
 *Source: Morte's Planar Parade p. 29*  

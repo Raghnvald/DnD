@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Scroll (Level 8)
+Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 8)
 tags:
   - Gegenstand/Seltenheit/sehr_selten

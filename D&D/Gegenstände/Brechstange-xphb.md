@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crowbar
+Status: WIP
 linter-yaml-title-alias: Crowbar
 tags:
   - Gegenstand/Ausrüstung/

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Falcon
+Status: WIP
 linter-yaml-title-alias: Falcon
 tags:
   - Monster/Größe/Winzig

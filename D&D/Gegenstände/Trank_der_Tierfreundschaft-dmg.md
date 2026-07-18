@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Animal Friendship
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Animal Friendship
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

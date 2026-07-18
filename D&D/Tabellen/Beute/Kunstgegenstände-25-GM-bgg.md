@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 25 gp Art Objects
+Status: WIP
 linter-yaml-title-alias: 25 gp Art Objects
 tags:
   - Quelle/5e/bgg

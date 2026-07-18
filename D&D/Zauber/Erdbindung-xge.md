@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Erdbindung
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Status: WIP
 linter-yaml-title-alias: Erdbindung
 classes:
   - Bard

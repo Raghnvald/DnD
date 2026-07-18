@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Foundation of Faith"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Foundation of Faith"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Foundation of Faith"
-  - Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Foundation of Faith
 ---
 # Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Foundation of Faith
 *Source: Eberron: Rising from the Last War p. 140* 

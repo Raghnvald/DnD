@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Steam Mephit
+Status: WIP
 linter-yaml-title-alias: Steam Mephit
 tags:
   - Monster/Größe/Klein

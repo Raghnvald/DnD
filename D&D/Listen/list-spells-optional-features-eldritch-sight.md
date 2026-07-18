@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Eldritch Sight
+Status: WIP
 linter-yaml-title-alias: Spells for Eldritch Sight
 tags:
-  - Zauber/list/optfeature/eldritch-sight
+  - Zauber/Liste/optfeature/eldritch-sight
 aliases:
   - Spells for Eldritch Sight
 ---

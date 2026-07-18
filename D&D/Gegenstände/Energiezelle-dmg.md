@@ -3,17 +3,18 @@ Bezeichnung: Energiezelle
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
+Kst.: n/v
 Gew.: 0,15625 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Energiezelle
 tags:
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zeitalter/Futuristisch
   - Quelle/5e/dmg
 aliases:
   - Energiezelle
+status: WIP
 ---
 # Energiezelle
 *Ammunition (firearm)*  

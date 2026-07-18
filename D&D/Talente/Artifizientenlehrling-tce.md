@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Artifizientenlehrling
-linter-yaml-title-alias: Artificer Initiate
+Status: WIP
+linter-yaml-title-alias: Artifizientenlehrling
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce
 aliases:
-  - Artificer Initiate
+  - Artifizientenlehrling
 ---
 # Artifizientenlehrling
 *Source: Tasha's Cauldron of Everything p. 79*  

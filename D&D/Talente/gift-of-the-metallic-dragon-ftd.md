@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Metallic Dragon
+Status: WIP
 linter-yaml-title-alias: Gift of the Metallic Dragon
 tags:
   - Kompendium/Talent

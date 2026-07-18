@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Phiarlan Heir
+Status: WIP
 linter-yaml-title-alias: House Phiarlan Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Phiarlan Heir"
+  - House Phiarlan Heir
   - House Phiarlan Heir
 ---
 # House Phiarlan Heir

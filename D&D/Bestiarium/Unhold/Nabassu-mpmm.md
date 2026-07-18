@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nabassu
+Status: WIP
 linter-yaml-title-alias: Nabassu
 tags:
   - Monster/Größe/Mittelgroß

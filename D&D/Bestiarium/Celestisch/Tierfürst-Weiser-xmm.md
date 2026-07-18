@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animal Lord; Sage
+Status: WIP
 linter-yaml-title-alias: Animal Lord; Sage
 tags:
   - Monster/Größe/Mittelgroß

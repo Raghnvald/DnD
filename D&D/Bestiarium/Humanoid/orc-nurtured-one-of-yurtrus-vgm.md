@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc Nurtured One of Yurtrus
+Status: WIP
 linter-yaml-title-alias: Orc Nurtured One of Yurtrus
 tags:
   - Monster/Größe/Mittelgroß

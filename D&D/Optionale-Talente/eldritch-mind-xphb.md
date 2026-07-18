@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Mind
+Status: WIP
 linter-yaml-title-alias: Eldritch Mind
 tags:
   - Kompendium/Optionales/ei

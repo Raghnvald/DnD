@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Riding Horse
+Status: WIP
 linter-yaml-title-alias: Riding Horse
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

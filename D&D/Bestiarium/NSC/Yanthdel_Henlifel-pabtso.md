@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yanthdel Henlifel
 Image: token/yanthdel-henlifel-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Yanthdel Henlifel
 tags:
   - Monster/Größe/Mittelgroß

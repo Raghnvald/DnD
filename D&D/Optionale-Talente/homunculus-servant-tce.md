@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Homunculus Servant
+Status: WIP
 linter-yaml-title-alias: Homunculus Servant
 tags:
   - Kompendium/Optionales/ai

@@ -2,10 +2,10 @@
 Bezeichnung: Hammer
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 1,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Hammer
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,9 +15,9 @@ aliases:
   - Hammer
 ---
 # Hammer
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 3.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 1,5 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

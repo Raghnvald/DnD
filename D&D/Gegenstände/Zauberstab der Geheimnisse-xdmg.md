@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Secrets
+Status: WIP
 linter-yaml-title-alias: Wand of Secrets
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

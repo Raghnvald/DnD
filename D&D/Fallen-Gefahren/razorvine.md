@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Razorvine
+Status: WIP
 linter-yaml-title-alias: Razorvine
 tags:
   - Kompendium/Bedrohung/wld

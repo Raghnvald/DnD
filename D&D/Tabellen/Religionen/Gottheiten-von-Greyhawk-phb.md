@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deities of Greyhawk
+Status: WIP
 linter-yaml-title-alias: Deities of Greyhawk
 tags:
   - Quelle/5e/phb

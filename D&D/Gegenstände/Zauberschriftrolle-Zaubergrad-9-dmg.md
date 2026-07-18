@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 9)
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 9)
 tags:
   - Gegenstand/Seltenheit/legendär
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberschriftrolle (Zaubergrad 9)
+status: completed
 ---
 # Zauberschriftrolle (Zaubergrad 9)
 *Schriftrolle, legendär*  

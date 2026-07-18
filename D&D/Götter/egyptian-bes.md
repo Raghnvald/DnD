@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bes
+Status: WIP
 linter-yaml-title-alias: Bes
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

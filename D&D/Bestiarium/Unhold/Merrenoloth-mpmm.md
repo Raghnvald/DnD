@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merrenoloth
+Status: WIP
 linter-yaml-title-alias: Merrenoloth
 tags:
   - Monster/Größe/Mittelgroß

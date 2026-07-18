@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Smite
+Status: WIP
 linter-yaml-title-alias: Eldritch Smite
 tags:
   - Kompendium/Optionales/ei

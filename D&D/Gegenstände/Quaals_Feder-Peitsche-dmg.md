@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Whip"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token, Whip"
 tags:
   - Gegenstand/Seltenheit/selten

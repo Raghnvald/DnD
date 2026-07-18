@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Azuredge
-Kategorie: Nahkampf-Kriegswaffe
+Original: Azuredge
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Azuredge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/wdh
 aliases:
   - Azuredge
+status: WIP
 ---
 # Azuredge
 *Weapon (battleaxe), legendary (requires attunement)*  

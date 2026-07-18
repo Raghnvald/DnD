@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halaster Blackcloak
+Status: WIP
 linter-yaml-title-alias: Halaster Blackcloak
 tags:
   - Monster/legendary-group

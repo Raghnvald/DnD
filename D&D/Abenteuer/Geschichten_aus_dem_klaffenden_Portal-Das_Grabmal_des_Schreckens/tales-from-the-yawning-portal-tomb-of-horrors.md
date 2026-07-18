@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Tales From the Yawning Portal Tomb of Horrors
+Status: WIP
 linter-yaml-title-alias: Index of Tales From the Yawning Portal Tomb of Horrors
 aliases:
   - Index of Tales From the Yawning Portal Tomb of Horrors

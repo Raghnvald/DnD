@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Diva Luma
+Status: WIP
 linter-yaml-title-alias: Diva Luma
 tags:
   - Monster/Größe/Mittelgroß

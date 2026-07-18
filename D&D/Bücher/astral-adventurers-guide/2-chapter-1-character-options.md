@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Character Options"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Character Options"
 tags:
   - Quelle/5e/aag

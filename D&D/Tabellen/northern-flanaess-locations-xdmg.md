@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Northern Flanaess Locations
+Status: WIP
 linter-yaml-title-alias: Northern Flanaess Locations
 tags:
   - Quelle/5e/xdmg

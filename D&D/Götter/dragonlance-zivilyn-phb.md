@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Zivilyn
+Status: WIP
 linter-yaml-title-alias: Zivilyn
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

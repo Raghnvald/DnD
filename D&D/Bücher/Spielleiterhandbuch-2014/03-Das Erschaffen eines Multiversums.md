@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 2: Das Erschaffen eines Multiversums"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 2: Das Erschaffen eines Multiversums"
 tags:
   - Quelle/5e/dmg

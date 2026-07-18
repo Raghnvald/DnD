@@ -5,7 +5,7 @@ Bezeichnung: Gargantua
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 21
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gargantua
 tags:
   - Monster/Größe/Gigantisch
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Gargantua
+status: WIP
 ---
 # [Gargantua](3-Mechanics\CLI\bestiary\aberration/gargantua-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 149*  

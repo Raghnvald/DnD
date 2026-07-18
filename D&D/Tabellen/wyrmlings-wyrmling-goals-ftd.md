@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wyrmlings; Wyrmling Goals
+Status: WIP
 linter-yaml-title-alias: Wyrmlings; Wyrmling Goals
 tags:
   - Quelle/5e/ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Giant Encounters
+Status: WIP
 linter-yaml-title-alias: Storm Giant Encounters
 tags:
   - Quelle/5e/bgg

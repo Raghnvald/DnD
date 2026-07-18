@@ -1,23 +1,23 @@
 ---
-Bezeichnung: Kleidung (Reise)
+Bezeichnung: Kleidung, Reise
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 2,0 kg
-status: WIP
-linter-yaml-title-alias: Kleidung (Reise)
+Status: completed 
+linter-yaml-title-alias: Kleidung, Reise
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Kleidung (Reise)
+  - Kleidung, Reise
 ---
-# Kleidung (Reise)
-*Adventuring gear*  
+# Kleidung, Reise
+*Abenteuerausrüstung*  
 
-- **Cost**: 2 gp
-- **Weight**: 4.0 lbs.
+- **Kosten**: 2 GM
+- **Gewicht**: 2,0 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

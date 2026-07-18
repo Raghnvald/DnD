@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Olladra
+Status: WIP
 linter-yaml-title-alias: Olladra
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

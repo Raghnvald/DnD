@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Creatures
+Status: WIP
 linter-yaml-title-alias: Creatures
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Creatures"
+  - Creatures
   - Creatures
 ---
 # Creatures

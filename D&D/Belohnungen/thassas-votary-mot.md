@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Thassa's Votary"
+Status: WIP
 linter-yaml-title-alias: "Thassa's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

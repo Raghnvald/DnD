@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Yurtrus
+Status: WIP
 linter-yaml-title-alias: Yurtrus
 tags:
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/orc
   - Quelle/5e/vgm
 aliases:

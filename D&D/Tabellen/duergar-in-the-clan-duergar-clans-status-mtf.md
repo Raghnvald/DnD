@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Duergar in the Clan; Duergar Clan's Status"
+Status: WIP
 linter-yaml-title-alias: "Duergar in the Clan; Duergar Clan's Status"
 tags:
   - Quelle/5e/mtf
 aliases:
   - "Duergar in the Clan; Duergar Clan's Status"
-  - Duergar in the Clan; Duergar Clan's Status
 ---
 # Duergar in the Clan; Duergar Clan's Status
 *Source: Mordenkainen's Tome of Foes p. 84* 

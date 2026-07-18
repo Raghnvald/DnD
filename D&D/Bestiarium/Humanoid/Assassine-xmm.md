@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Assassin
+Status: WIP
 linter-yaml-title-alias: Assassin
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

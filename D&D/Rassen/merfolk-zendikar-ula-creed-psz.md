@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Merfolk (Zendikar; Ula Creed)
+Status: WIP
 linter-yaml-title-alias: Merfolk (Zendikar; Ula Creed)
 tags:
   - Quelle/5e/psz
   - Rasse/merfolk/zendikar-ula-creed
 aliases:
-  - "Merfolk (Zendikar; Ula Creed)"
+  - Merfolk (Zendikar; Ula Creed)
   - Merfolk (Zendikar; Ula Creed)
 ---
 # Merfolk (Zendikar; Ula Creed)

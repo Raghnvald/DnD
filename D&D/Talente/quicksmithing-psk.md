@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Quicksmithing
+Status: WIP
 linter-yaml-title-alias: Quicksmithing
 tags:
   - Kompendium/Talent
   - Quelle/5e/psk
 aliases:
-  - "Quicksmithing"
+  - Quicksmithing
   - Quicksmithing
 ---
 # Quicksmithing

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Planetar
+Status: WIP
 linter-yaml-title-alias: Planetar
 tags:
   - Monster/Größe/Groß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Valkur, nordländischer Gott der Seeleute
+Status: WIP
 linter-yaml-title-alias: Valkur, nordländischer Gott der Seeleute
 tags:
   - Kompendium/Götter

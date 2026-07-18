@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oshundo der Alhoon
 Image: token/oshundo-the-alhoon-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Oshundo der Alhoon
 tags:
   - Monster/Größe/Mittelgroß

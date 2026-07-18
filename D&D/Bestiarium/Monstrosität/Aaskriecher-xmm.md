@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Carrion Crawler
 Image: token/carrion-crawler-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Carrion Crawler
 tags:
   - Monster/Größe/Groß

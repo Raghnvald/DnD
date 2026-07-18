@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr (Awakened)
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Plate of the Dawnmartyr (Awakened)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

@@ -2,10 +2,10 @@
 Bezeichnung: Galeere
 Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 30.000 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Galeere
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser

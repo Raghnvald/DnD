@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Displacer Beast
+Status: WIP
 linter-yaml-title-alias: Displacer Beast
 tags:
   - Monster/Größe/Groß

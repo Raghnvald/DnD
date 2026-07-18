@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Axe Beak
+Status: WIP
 linter-yaml-title-alias: Axe Beak
 tags:
   - Monster/Größe/Groß

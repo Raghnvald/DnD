@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Enspelled Staff (Level 7)
+Status: WIP
 linter-yaml-title-alias: Enspelled Staff (Level 7)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

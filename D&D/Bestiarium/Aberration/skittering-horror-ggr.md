@@ -5,7 +5,7 @@ Bezeichnung: Skittering Horror
 Kategorie: Aberration
 Größe: Riesig
 HG: 15
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Skittering Horror
 tags:
   - Monster/Größe/Riesig
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Skittering Horror
+status: WIP
 ---
 # [Skittering Horror](3-Mechanics\CLI\bestiary\aberration/skittering-horror-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 205*  

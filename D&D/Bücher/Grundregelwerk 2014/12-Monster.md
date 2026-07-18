@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Statblocks
+Status: WIP
 linter-yaml-title-alias: Monster Statblocks
 tags: []
 aliases:

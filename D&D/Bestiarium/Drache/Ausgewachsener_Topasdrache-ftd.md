@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 13
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Topaz Dragon
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Adult Topaz Dragon
+status: WIP
 ---
 # [Adult Topaz Dragon](3-Mechanics\CLI\bestiary\dragon/adult-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 221*  

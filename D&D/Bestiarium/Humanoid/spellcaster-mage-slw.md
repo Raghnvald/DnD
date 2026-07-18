@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spellcaster (Mage)
+Status: WIP
 linter-yaml-title-alias: Spellcaster (Mage)
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yarana
+Status: WIP
 linter-yaml-title-alias: Yarana
 tags:
   - Monster/Größe/Mittelgroß

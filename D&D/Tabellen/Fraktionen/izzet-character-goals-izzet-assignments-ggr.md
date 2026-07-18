@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet Character Goals; Izzet Assignments
+Status: WIP
 linter-yaml-title-alias: Izzet Character Goals; Izzet Assignments
 tags:
   - Quelle/5e/ggr

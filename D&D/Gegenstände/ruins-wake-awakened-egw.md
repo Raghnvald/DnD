@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Ruin's Wake (Awakened)"
-Kategorie: Einfache Nahkampfwaffe
+Kategorie: Nahkampfwaffe, einfach
+Status: WIP
 linter-yaml-title-alias: "Ruin's Wake (Awakened)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

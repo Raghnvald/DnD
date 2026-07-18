@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Why Do You Need 200 Gold Pieces?; Debts
+Status: WIP
 linter-yaml-title-alias: Why Do You Need 200 Gold Pieces?; Debts
 tags:
   - Quelle/5e/erlw

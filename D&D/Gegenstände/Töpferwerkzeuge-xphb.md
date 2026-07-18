@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Potter's Tools"
+Status: WIP
 linter-yaml-title-alias: "Potter's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Mordenkainen's Sword"
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Sword"
 classes:
   - Bard (Magical Secrets)

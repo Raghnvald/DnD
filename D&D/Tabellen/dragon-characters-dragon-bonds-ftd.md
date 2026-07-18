@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Characters; Dragon Bonds
+Status: WIP
 linter-yaml-title-alias: Dragon Characters; Dragon Bonds
 tags:
   - Quelle/5e/ftd

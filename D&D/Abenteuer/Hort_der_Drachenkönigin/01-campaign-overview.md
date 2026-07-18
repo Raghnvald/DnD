@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Campaign Overview
+Status: WIP
 linter-yaml-title-alias: Campaign Overview
 tags:
   - Quelle/5e/hotdq
 aliases:
-  - "Campaign Overview"
+  - Campaign Overview
   - Campaign Overview
 ---
 # Campaign Overview

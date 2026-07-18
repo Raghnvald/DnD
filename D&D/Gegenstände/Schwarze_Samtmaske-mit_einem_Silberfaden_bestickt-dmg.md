@@ -2,17 +2,18 @@
 Bezeichnung: Black velvet mask stitched with silver thread
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Black velvet mask stitched with silver thread
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Black velvet mask stitched with silver thread
+status: WIP
 ---
 # Black velvet mask stitched with silver thread
 *Treasure (art object)*  

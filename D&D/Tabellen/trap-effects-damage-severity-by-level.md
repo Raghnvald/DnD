@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trap Effects; Damage Severity by Level
+Status: WIP
 linter-yaml-title-alias: Trap Effects; Damage Severity by Level
 tags:
   - Quelle/5e/dmg

@@ -5,7 +5,7 @@ Bezeichnung: "Roter Slaad "
 Kategorie: Aberration
 Größe: Groß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: "Roter Slaad "
 tags:
   - Monster/Größe/Groß
@@ -15,6 +15,7 @@ tags:
 aliases:
   - "Roter Slaad "
   - Red Slaad
+status: WIP
 ---
 # Roter Slaad 
 *Quelle: Monsterhandbuch S. 258*  

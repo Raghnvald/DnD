@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Khorvaire Gazetteer"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Khorvaire Gazetteer"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Chapter 2: Khorvaire Gazetteer"
-  - Chapter 2: Khorvaire Gazetteer
 ---
 # Chapter 2: Khorvaire Gazetteer
 *Source: Eberron: Rising from the Last War, p. 103* 

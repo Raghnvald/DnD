@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wirkungsbereich festlegen; Ziele im Wirkungsbereich
+Status: WIP
 linter-yaml-title-alias: Wirkungsbereich festlegen; Ziele im Wirkungsbereich
 tags:
   - Quelle/5e/dmg

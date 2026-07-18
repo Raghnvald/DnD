@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Jet
+Status: WIP
 linter-yaml-title-alias: Jet
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

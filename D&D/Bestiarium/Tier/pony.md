@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pony
+Status: WIP
 linter-yaml-title-alias: Pony
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zwei-Waffen-Kämpfer
-linter-yaml-title-alias: Dual Wielder
+Status: WIP
+linter-yaml-title-alias: Zwei-Waffen-Kämpfer
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Dual Wielder
+  - Zwei-Waffen-Kämpfer
 ---
 # Zwei-Waffen-Kämpfer
 *Source: Player's Handbook p. 165*  

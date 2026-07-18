@@ -1,12 +1,13 @@
 ---
-Bezeichnung: Continual Flame
+Bezeichnung: Dauerhafte Flamme
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
-linter-yaml-title-alias: Continual Flame
+Status: WIP
+linter-yaml-title-alias: Dauerhafte Flamme
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -23,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Continual Flame
+  - Dauerhafte Flamme
 ---
-# Continual Flame
+# Dauerhafte Flamme
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 Action

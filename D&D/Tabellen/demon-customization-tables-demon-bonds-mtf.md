@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Customization Tables; Demon Bonds
+Status: WIP
 linter-yaml-title-alias: Demon Customization Tables; Demon Bonds
 tags:
   - Quelle/5e/mtf

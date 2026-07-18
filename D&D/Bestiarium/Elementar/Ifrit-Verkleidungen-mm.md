@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Efreeti (Disguises)
+Status: WIP
 linter-yaml-title-alias: Efreeti (Disguises)
 tags:
   - Monster/Größe/Groß

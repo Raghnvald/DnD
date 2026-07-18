@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Paper Bird
+Status: WIP
 linter-yaml-title-alias: Paper Bird
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/0
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/construct
+  - Monster/HG/0
+  - Monster/Größe/Winzig
+  - Monster/Typ/Konstrukt
 aliases:
-  - "Paper Bird"
+  - Paper Bird
   - Paper Bird
 ---
 # [Paper Bird](3-Mechanics/CLI/bestiary/construct/paper-bird-wbtw.md)

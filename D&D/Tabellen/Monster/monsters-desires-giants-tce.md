@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Giants"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Giants"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Giants"
-  - Monsters' Desires; Giants
 ---
 # Monsters' Desires; Giants
 *Source: Tasha's Cauldron of Everything p. 148* 

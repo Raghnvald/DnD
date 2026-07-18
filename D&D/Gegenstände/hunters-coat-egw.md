@@ -1,18 +1,20 @@
 ---
 Bezeichnung: "Hunter's Coat"
+Original: "Hunter's Coat"
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 5,0 kg
 RK: 11 + GES
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: WIP
 linter-yaml-title-alias: "Hunter's Coat"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/egw

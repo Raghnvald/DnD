@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Bloodline
+Status: WIP
 linter-yaml-title-alias: Draconic Bloodline
 tags:
   - Klasse/Zauberer/draconic

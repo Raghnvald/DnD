@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Tarakamedes, the Grave Wyrm
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Tarakamedes, the Grave Wyrm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Tarakamedes, the Grave Wyrm

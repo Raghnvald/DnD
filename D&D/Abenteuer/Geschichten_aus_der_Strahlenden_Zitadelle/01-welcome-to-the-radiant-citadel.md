@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to the Radiant Citadel
+Status: WIP
 linter-yaml-title-alias: Welcome to the Radiant Citadel
 tags:
   - Quelle/5e/jttrc

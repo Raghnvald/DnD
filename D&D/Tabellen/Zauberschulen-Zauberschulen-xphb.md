@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Magic; Schools of Magic
+Status: WIP
 linter-yaml-title-alias: School of Magic; Schools of Magic
 tags:
   - Quelle/5e/xphb

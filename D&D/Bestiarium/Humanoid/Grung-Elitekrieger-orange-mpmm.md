@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grung Elite Warrior (Orange)
+Status: WIP
 linter-yaml-title-alias: Grung Elite Warrior (Orange)
 tags:
   - Monster/Größe/Klein

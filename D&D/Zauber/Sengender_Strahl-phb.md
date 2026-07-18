@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Scorching Ray
+Bezeichnung: Sengender Strahl
 Zaubergrad: 2
-linter-yaml-title-alias: Scorching Ray
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Sengender Strahl
 classes:
   - Bard (Magical Secrets)
   - Cleric (Light Domain)
@@ -12,7 +14,7 @@ classes:
   - Wizard
 tags:
   - Klasse/Barde/Magische-Geheimnisse
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
@@ -22,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Scorching Ray
+  - Sengender Strahl
 ---
-# Scorching Ray
+# Sengender Strahl
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 Action

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Determine Ability Modifiers; Ability Scores and Modifiers
+Status: WIP
 linter-yaml-title-alias: Determine Ability Modifiers; Ability Scores and Modifiers
 tags:
   - Quelle/5e/xphb

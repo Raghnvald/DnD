@@ -6,7 +6,8 @@ Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: 8 Stunden
 Angriff:
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Winziger Diener
 classes:
   - Artificer

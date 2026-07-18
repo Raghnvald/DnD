@@ -2,11 +2,12 @@
 Bezeichnung: Ring of Amity
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Ring of Amity
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/bgg

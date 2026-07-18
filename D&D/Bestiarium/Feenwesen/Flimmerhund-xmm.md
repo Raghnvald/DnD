@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blink Dog
+Status: WIP
 linter-yaml-title-alias: Blink Dog
 tags:
   - Monster/Größe/Mittelgroß

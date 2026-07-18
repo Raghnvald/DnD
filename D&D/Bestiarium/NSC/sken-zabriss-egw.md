@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sken Zabriss
+Status: WIP
 linter-yaml-title-alias: Sken Zabriss
 tags:
   - Monster/Größe/Mittelgroß

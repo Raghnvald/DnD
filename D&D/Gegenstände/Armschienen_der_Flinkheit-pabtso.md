@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Armschienen der Flinkheit
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Armschienen der Flinkheit
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/pabtso

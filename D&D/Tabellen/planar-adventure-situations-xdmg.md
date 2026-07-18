@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Planar Adventure Situations
+Status: WIP
 linter-yaml-title-alias: Planar Adventure Situations
 tags:
   - Quelle/5e/xdmg

@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-image: token/abyssal-wretch-mtf.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Abyssal Wretch
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/mtf
 aliases:
   - Abyssal Wretch
+image: token/abyssal-wretch-mtf.webp
+status: WIP
 ---
 # [Abyssal Wretch](3-Mechanics\CLI\bestiary\fiend/abyssal-wretch-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 136, Baldur's Gate: Descent Into Avernus*  

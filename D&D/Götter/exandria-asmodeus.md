@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Asmodeus
+Status: WIP
 linter-yaml-title-alias: Asmodeus
 tags:
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Asmodeus

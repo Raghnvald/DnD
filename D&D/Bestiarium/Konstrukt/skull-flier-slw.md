@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skull Flier
+Status: WIP
 linter-yaml-title-alias: Skull Flier
 tags:
   - Monster/Größe/Mittelgroß

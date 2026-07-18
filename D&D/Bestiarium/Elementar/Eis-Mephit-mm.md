@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ice Mephit
+Status: WIP
 linter-yaml-title-alias: Ice Mephit
 tags:
   - Monster/Größe/Klein

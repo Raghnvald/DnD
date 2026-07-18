@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 8
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Young Sea Serpent
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Young Sea Serpent
+status: WIP
 ---
 # [Young Sea Serpent](3-Mechanics\CLI\bestiary\dragon/young-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  

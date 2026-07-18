@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Ring des Nekrotischen Widerstands
 Kategorie: Ring
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Nekrotischen Widerstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring des Nekrotischen Widerstands
+status: completed
 ---
 # Ring des Nekrotischen Widerstands
 *Ring, selten (benötigt Einstimmung)*  

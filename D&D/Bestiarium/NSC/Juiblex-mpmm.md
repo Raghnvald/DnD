@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Juiblex
+Status: WIP
 linter-yaml-title-alias: Juiblex
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hallucinatory Terrain
+Status: WIP
 linter-yaml-title-alias: Hallucinatory Terrain
 classes:
   - Bard

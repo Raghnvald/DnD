@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hester Barch
+Status: WIP
 linter-yaml-title-alias: Hester Barch
 tags:
   - Monster/Größe/Mittelgroß

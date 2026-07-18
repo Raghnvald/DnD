@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiery Blast Trap
+Status: WIP
 linter-yaml-title-alias: Fiery Blast Trap
 tags:
   - Kompendium/Bedrohung/smpl

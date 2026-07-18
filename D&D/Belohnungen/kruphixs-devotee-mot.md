@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kruphix's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Kruphix's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

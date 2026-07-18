@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Giants)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Giants)
 tags:
   - Gegenstand/Seltenheit/selten

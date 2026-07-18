@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Tempus
+Status: WIP
 linter-yaml-title-alias: Tempus
 tags:
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Tempus

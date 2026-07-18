@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Silvanus
+Status: WIP
 linter-yaml-title-alias: Silvanus
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Oak Father

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bestial Spirit (Air)
+Status: WIP
 linter-yaml-title-alias: Bestial Spirit (Air)
 tags:
   - Monster/Größe/Klein

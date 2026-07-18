@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: The Darklake"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: The Darklake"
 tags:
   - Quelle/5e/oota

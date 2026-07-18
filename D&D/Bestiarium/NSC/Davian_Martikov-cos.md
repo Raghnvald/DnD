@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Davian Martikov
+Status: WIP
 linter-yaml-title-alias: Davian Martikov
 tags:
   - Monster/Größe/Mittelgroß

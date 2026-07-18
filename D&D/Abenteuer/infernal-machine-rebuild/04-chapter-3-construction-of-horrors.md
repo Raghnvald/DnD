@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Construction of Horrors"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Construction of Horrors"
 tags:
   - Quelle/5e/imr

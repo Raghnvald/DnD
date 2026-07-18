@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: G
 Wirkungsdauer: Unmittelbar oder 1 Stunde
-Angriff: nichts
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Erde formen
 classes:
   - Bard (College of Lore)
@@ -24,8 +25,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xge
   - Rasse/elf/high-elf
   - Rasse/kobold

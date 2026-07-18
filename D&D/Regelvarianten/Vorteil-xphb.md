@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Advantage
+Status: WIP
 linter-yaml-title-alias: Advantage
 tags:
   - Quelle/5e/xphb

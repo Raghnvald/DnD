@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Settlements; Notable Traits
+Status: WIP
 linter-yaml-title-alias: Random Settlements; Notable Traits
 tags:
   - Quelle/5e/dmg

@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Psionic Shambling Mound
 Image: token/psionic-shambling-mound-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Psionic Shambling Mound
 tags:
   - Monster/Größe/Groß

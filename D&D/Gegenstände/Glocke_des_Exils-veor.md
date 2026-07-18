@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Glocke des Exils
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Glocke des Exils
 tags:
   - Gegenstand/Seltenheit/sehr_selten

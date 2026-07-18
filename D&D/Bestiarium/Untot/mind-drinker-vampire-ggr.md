@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mind Drinker Vampire
+Status: WIP
 linter-yaml-title-alias: Mind Drinker Vampire
 tags:
   - Monster/Größe/Mittelgroß

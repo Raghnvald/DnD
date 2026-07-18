@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dream of the Blue Veil
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Dream of the Blue Veil
 classes:
   - Bard

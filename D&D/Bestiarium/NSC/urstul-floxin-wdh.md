@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Urstul Floxin
+Status: WIP
 linter-yaml-title-alias: Urstul Floxin
 tags:
   - Monster/Größe/Mittelgroß

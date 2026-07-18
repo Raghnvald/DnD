@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Quartz
+Status: WIP
 linter-yaml-title-alias: Quartz
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

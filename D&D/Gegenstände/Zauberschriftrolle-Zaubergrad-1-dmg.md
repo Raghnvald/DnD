@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 1)
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 1)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberschriftrolle (Zaubergrad 1)
+status: completed
 ---
 # Zauberschriftrolle (Zaubergrad 1)
 *Schriftrolle, gewöhnlich*  

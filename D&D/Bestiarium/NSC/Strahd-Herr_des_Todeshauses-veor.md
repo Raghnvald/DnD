@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 15
 Habitat:
   - /
-image: token/strahd-master-of-death-house-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Strahd, Master of Death House
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Strahd, Master of Death House
+image: token/strahd-master-of-death-house-veor.webp
+status: WIP
 ---
 # Strahd, Master of Death House
 *Quelle: Vecna: Vorabend der Verdammnis S. 250*  

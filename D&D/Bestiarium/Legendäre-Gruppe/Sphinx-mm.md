@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sphinx
+Status: WIP
 linter-yaml-title-alias: Sphinx
 tags:
   - Monster/legendary-group

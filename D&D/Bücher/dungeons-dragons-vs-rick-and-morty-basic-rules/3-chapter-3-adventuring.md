@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Adventuring"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Adventuring"
 tags:
   - Quelle/5e/rmr

@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 1
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Swarm of Zombie Limbs
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Swarm of Zombie Limbs
+status: WIP
 ---
 # [Swarm of Zombie Limbs](3-Mechanics\CLI\bestiary\undead/swarm-of-zombie-limbs-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 254*  

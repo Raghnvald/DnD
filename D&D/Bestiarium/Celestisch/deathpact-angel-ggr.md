@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Deathpact Angel
+Status: WIP
 linter-yaml-title-alias: Deathpact Angel
 tags:
   - Monster/Größe/Mittelgroß

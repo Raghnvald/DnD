@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heavy Armor Master
+Status: WIP
 linter-yaml-title-alias: Heavy Armor Master
 tags:
   - Kompendium/Talent

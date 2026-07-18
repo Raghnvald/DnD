@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Characteristics; Beholder Eye Size
+Status: WIP
 linter-yaml-title-alias: Physical Characteristics; Beholder Eye Size
 tags:
   - Quelle/5e/vgm

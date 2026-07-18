@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 'Astor "Doodle" Dash'
+Status: WIP
 linter-yaml-title-alias: 'Astor "Doodle" Dash'
 tags:
   - player
@@ -12,11 +13,12 @@ Gesinnung: Chaotisch Gut
 Hintergrund:
 hp: 73
 Klasse: Magier
+level: 11
 modifier: 2
 pW: 11
 Rasse: Gnom
 Stufe: 11
-Talente: 
+Talente:
 Trefferwürfel: W6
 Unterklasse: Beschwörer
 ZR: 17

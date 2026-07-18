@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Agony
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Agony
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
   - Agony
+status: WIP
+Original: Agony
 ---
 # Agony
 *Weapon ([flail](/3-Mechanics/CLI/items/flail-xphb.md)), legendary (requires attunement by a creature of non-good alignment)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Utensils and Personal Items
+Status: WIP
 linter-yaml-title-alias: Dungeon Dressing; Utensils and Personal Items
 tags:
   - Quelle/5e/dmg

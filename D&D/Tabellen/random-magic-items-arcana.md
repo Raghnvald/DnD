@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Magic Items - Arcana
+Status: WIP
 linter-yaml-title-alias: Random Magic Items - Arcana
 tags:
   - Quelle/5e/xdmg

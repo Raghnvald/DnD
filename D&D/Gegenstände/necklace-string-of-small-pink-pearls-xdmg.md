@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Necklace string of small pink pearls
+Status: WIP
 linter-yaml-title-alias: Necklace string of small pink pearls
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swavain Basilisk
+Status: WIP
 linter-yaml-title-alias: Swavain Basilisk
 tags:
   - Monster/Größe/Riesig

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Otiluke's Resilient Sphere"
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: "Otiluke's Resilient Sphere"
 classes:
   - Bard (Magical Secrets)

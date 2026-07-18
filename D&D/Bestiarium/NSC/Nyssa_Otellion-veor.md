@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nyssa Otellion
-image: token/nyssa-otellion-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Nyssa Otellion
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +12,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Nyssa Otellion
+image: token/nyssa-otellion-veor.webp
+status: WIP
 ---
 # [Nyssa Otellion](3-Mechanics\CLI\bestiary\npc/nyssa-otellion-veor.md)
 *Source: Vecna: Eve of Ruin*  

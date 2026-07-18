@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
+Status: WIP
 linter-yaml-title-alias: Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
 tags:
   - Quelle/5e/xdmg

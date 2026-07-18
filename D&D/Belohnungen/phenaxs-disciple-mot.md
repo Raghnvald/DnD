@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Phenax's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Phenax's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

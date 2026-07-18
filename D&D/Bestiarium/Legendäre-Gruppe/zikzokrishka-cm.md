@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zikzokrishka
+Status: WIP
 linter-yaml-title-alias: Zikzokrishka
 tags:
   - Monster/legendary-group

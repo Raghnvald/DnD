@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Athlete
+Status: WIP
 linter-yaml-title-alias: Athlete
 tags:
   - Kompendium/Talent

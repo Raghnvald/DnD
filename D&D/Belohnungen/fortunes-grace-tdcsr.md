@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Fortune's Grace"
+Status: WIP
 linter-yaml-title-alias: "Fortune's Grace"
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/tdcsr
 aliases:
   - "Fortune's Grace"
-  - Fortune's Grace
 ---
 # Fortune's Grace
 *Blessing*  

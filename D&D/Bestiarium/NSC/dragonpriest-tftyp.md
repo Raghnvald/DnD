@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dragonpriest
+Status: WIP
 linter-yaml-title-alias: Dragonpriest
 tags:
   - Monster/Größe/Groß

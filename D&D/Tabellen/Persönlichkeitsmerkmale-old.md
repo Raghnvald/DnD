@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Persönlichkeitsmerkmale
+Status: WIP
 linter-yaml-title-alias: Persönlichkeitsmerkmale
 tags:
   - Quelle/5e/phb

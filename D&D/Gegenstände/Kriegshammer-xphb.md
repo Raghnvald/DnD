@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Warhammer
 Kategorie: Nahkampf-Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Warhammer
 tags:
   - Gegenstand/Seltenheit/keine

@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Iron Ball
-Kategorie: Einfache Fernkampfwaffe
+Original: Iron Ball
+Kategorie: Fernkampfwaffe, einfach
 Eigenschaften:
   - Finesse
   - Wurfwaffe
-Einstimmung: /
-Kst.: /
-Gew.: /
+Einstimmung: n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Iron Ball
 tags:
   - Gegenstand/Seltenheit/unbekannt

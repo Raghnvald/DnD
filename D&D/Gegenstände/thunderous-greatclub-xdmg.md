@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Thunderous Greatclub
+Status: WIP
 linter-yaml-title-alias: Thunderous Greatclub
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fine Wine (bottle)
+Status: WIP
 linter-yaml-title-alias: Fine Wine (bottle)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

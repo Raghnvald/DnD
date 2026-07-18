@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Rival Relationships
+Status: WIP
 linter-yaml-title-alias: Backstory; Rival Relationships
 tags:
   - Quelle/5e/egw

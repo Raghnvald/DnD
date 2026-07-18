@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Conclave Dryad
+Status: WIP
 linter-yaml-title-alias: Conclave Dryad
 tags:
   - Monster/Größe/Mittelgroß

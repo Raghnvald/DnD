@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Yolande's Regal Presence"
+Status: WIP
 linter-yaml-title-alias: "Yolande's Regal Presence"
 classes:
   - Bard

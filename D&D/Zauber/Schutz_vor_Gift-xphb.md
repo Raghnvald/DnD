@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Protection from Poison
+Status: WIP
 linter-yaml-title-alias: Protection from Poison
 classes:
   - Artificer

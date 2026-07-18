@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Throne Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Throne Card
 tags:
   - Gegenstand/Seltenheit/legendär

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gadof Blinsky
+Status: WIP
 linter-yaml-title-alias: Gadof Blinsky
 tags:
   - Monster/Größe/Mittelgroß

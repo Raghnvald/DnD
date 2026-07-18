@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mind Blank
+Status: WIP
 linter-yaml-title-alias: Mind Blank
 classes:
   - Bard

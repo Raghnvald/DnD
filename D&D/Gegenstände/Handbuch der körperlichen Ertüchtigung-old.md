@@ -4,6 +4,7 @@ Kategorie: Wundersamer Gegenstand
 Eigenschaften: []
 Kst.: /
 Gew.: 2,5 kg
+Status: WIP
 linter-yaml-title-alias: Handbuch der körperlichen Ertüchtigung
 tags:
   - Gegenstand/Seltenheit/sehr_selten

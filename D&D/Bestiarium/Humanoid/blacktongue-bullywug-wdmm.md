@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blacktongue Bullywug
+Status: WIP
 linter-yaml-title-alias: Blacktongue Bullywug
 tags:
   - Monster/Größe/Mittelgroß

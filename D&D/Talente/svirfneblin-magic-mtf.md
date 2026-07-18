@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Svirfneblin Magic
+Status: WIP
 linter-yaml-title-alias: Svirfneblin Magic
 tags:
   - Kompendium/Talent

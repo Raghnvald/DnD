@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Stage Two: Outbreak; Stage Two Encounters"
+Status: WIP
 linter-yaml-title-alias: "Stage Two: Outbreak; Stage Two Encounters"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "Stage Two: Outbreak; Stage Two Encounters"
-  - Stage Two: Outbreak; Stage Two Encounters
 ---
 # Stage Two: Outbreak; Stage Two Encounters
 *Source: Van Richten's Guide to Ravenloft p. 154* 

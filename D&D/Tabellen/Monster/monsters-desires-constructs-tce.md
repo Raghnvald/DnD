@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Constructs"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Constructs"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Constructs"
-  - Monsters' Desires; Constructs
 ---
 # Monsters' Desires; Constructs
 *Source: Tasha's Cauldron of Everything p. 148* 

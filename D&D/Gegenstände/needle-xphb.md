@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Needle
+Status: WIP
 linter-yaml-title-alias: Needle
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

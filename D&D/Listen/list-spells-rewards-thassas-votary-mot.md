@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Thassa's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Thassa's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/thassas-votary
+  - Zauber/Liste/reward/thassas-votary
 aliases:
   - "Spells for Thassa's Votary"
 ---

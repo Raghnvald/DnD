@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Ascendant Dragon's Wrath Weapon"
+Status: WIP
 linter-yaml-title-alias: "Ascendant Dragon's Wrath Weapon"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -13,59 +14,58 @@ tags:
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/ftd
 aliases:
+  - "Ascendant Dragon's Wrath Antimatter Rifle"
+  - "Ascendant Dragon's Wrath Automatic Rifle"
+  - "Ascendant Dragon's Wrath Battleaxe"
+  - "Ascendant Dragon's Wrath Blowgun"
+  - "Ascendant Dragon's Wrath Club"
+  - "Ascendant Dragon's Wrath Dagger"
+  - "Ascendant Dragon's Wrath Dart"
+  - "Ascendant Dragon's Wrath Double-Bladed Scimitar"
+  - "Ascendant Dragon's Wrath Flail"
+  - "Ascendant Dragon's Wrath Glaive"
+  - "Ascendant Dragon's Wrath Greataxe"
+  - "Ascendant Dragon's Wrath Greatclub"
+  - "Ascendant Dragon's Wrath Greatsword"
+  - "Ascendant Dragon's Wrath Halberd"
+  - "Ascendant Dragon's Wrath Hand Crossbow"
+  - "Ascendant Dragon's Wrath Handaxe"
+  - "Ascendant Dragon's Wrath Heavy Crossbow"
+  - "Ascendant Dragon's Wrath Hooked Shortspear"
+  - "Ascendant Dragon's Wrath Hoopak"
+  - "Ascendant Dragon's Wrath Hunting Rifle"
+  - "Ascendant Dragon's Wrath Javelin"
+  - "Ascendant Dragon's Wrath Lance"
+  - "Ascendant Dragon's Wrath Laser Pistol"
+  - "Ascendant Dragon's Wrath Laser Rifle"
+  - "Ascendant Dragon's Wrath Light Crossbow"
+  - "Ascendant Dragon's Wrath Light Hammer"
+  - "Ascendant Dragon's Wrath Light Repeating Crossbow"
+  - "Ascendant Dragon's Wrath Longbow"
+  - "Ascendant Dragon's Wrath Longsword"
+  - "Ascendant Dragon's Wrath Mace"
+  - "Ascendant Dragon's Wrath Maul"
+  - "Ascendant Dragon's Wrath Morningstar"
+  - "Ascendant Dragon's Wrath Musket"
+  - "Ascendant Dragon's Wrath Pike"
+  - "Ascendant Dragon's Wrath Pistol"
+  - "Ascendant Dragon's Wrath Quarterstaff"
+  - "Ascendant Dragon's Wrath Rapier"
+  - "Ascendant Dragon's Wrath Revolver"
+  - "Ascendant Dragon's Wrath Scimitar"
+  - "Ascendant Dragon's Wrath Semiautomatic Pistol"
+  - "Ascendant Dragon's Wrath Shortbow"
+  - "Ascendant Dragon's Wrath Shortsword"
+  - "Ascendant Dragon's Wrath Shotgun"
+  - "Ascendant Dragon's Wrath Sickle"
+  - "Ascendant Dragon's Wrath Sling"
+  - "Ascendant Dragon's Wrath Spear"
+  - "Ascendant Dragon's Wrath Trident"
+  - "Ascendant Dragon's Wrath War Pick"
+  - "Ascendant Dragon's Wrath Warhammer"
   - "Ascendant Dragon's Wrath Weapon"
-  - Ascendant Dragon's Wrath Antimatter Rifle
-  - Ascendant Dragon's Wrath Automatic Rifle
-  - Ascendant Dragon's Wrath Battleaxe
-  - Ascendant Dragon's Wrath Blowgun
-  - Ascendant Dragon's Wrath Club
-  - Ascendant Dragon's Wrath Dagger
-  - Ascendant Dragon's Wrath Dart
-  - Ascendant Dragon's Wrath Double-Bladed Scimitar
-  - Ascendant Dragon's Wrath Flail
-  - Ascendant Dragon's Wrath Glaive
-  - Ascendant Dragon's Wrath Greataxe
-  - Ascendant Dragon's Wrath Greatclub
-  - Ascendant Dragon's Wrath Greatsword
-  - Ascendant Dragon's Wrath Halberd
-  - Ascendant Dragon's Wrath Hand Crossbow
-  - Ascendant Dragon's Wrath Handaxe
-  - Ascendant Dragon's Wrath Heavy Crossbow
-  - Ascendant Dragon's Wrath Hooked Shortspear
-  - Ascendant Dragon's Wrath Hoopak
-  - Ascendant Dragon's Wrath Hunting Rifle
-  - Ascendant Dragon's Wrath Javelin
-  - Ascendant Dragon's Wrath Lance
-  - Ascendant Dragon's Wrath Laser Pistol
-  - Ascendant Dragon's Wrath Laser Rifle
-  - Ascendant Dragon's Wrath Light Crossbow
-  - Ascendant Dragon's Wrath Light Hammer
-  - Ascendant Dragon's Wrath Light Repeating Crossbow
-  - Ascendant Dragon's Wrath Longbow
-  - Ascendant Dragon's Wrath Longsword
-  - Ascendant Dragon's Wrath Mace
-  - Ascendant Dragon's Wrath Maul
-  - Ascendant Dragon's Wrath Morningstar
-  - Ascendant Dragon's Wrath Musket
-  - Ascendant Dragon's Wrath Pike
-  - Ascendant Dragon's Wrath Pistol
-  - Ascendant Dragon's Wrath Quarterstaff
-  - Ascendant Dragon's Wrath Rapier
-  - Ascendant Dragon's Wrath Revolver
-  - Ascendant Dragon's Wrath Scimitar
-  - Ascendant Dragon's Wrath Semiautomatic Pistol
-  - Ascendant Dragon's Wrath Shortbow
-  - Ascendant Dragon's Wrath Shortsword
-  - Ascendant Dragon's Wrath Shotgun
-  - Ascendant Dragon's Wrath Sickle
-  - Ascendant Dragon's Wrath Sling
-  - Ascendant Dragon's Wrath Spear
-  - Ascendant Dragon's Wrath Trident
-  - Ascendant Dragon's Wrath War Pick
-  - Ascendant Dragon's Wrath Warhammer
-  - Ascendant Dragon's Wrath Weapon
-  - Ascendant Dragon's Wrath Whip
-  - Ascendant Dragon's Wrath Yklwa
+  - "Ascendant Dragon's Wrath Whip"
+  - "Ascendant Dragon's Wrath Yklwa"
 ---
 # Ascendant Dragon's Wrath Weapon
 *Legendary (requires attunement)*  

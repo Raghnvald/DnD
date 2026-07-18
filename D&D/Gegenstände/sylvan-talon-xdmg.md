@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sylvan Talon
+Status: WIP
 linter-yaml-title-alias: Sylvan Talon
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Kriegswaffe

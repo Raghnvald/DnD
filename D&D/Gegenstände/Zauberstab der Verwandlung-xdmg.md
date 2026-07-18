@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Wand of Polymorph
+Status: WIP
 linter-yaml-title-alias: Wand of Polymorph
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg

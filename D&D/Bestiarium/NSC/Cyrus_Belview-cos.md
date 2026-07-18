@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cyrus Belview
+Status: WIP
 linter-yaml-title-alias: Cyrus Belview
 tags:
   - Monster/Größe/Mittelgroß

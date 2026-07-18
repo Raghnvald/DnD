@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 4: Nichtspieler-Charaktere erschaffen"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 4: Nichtspieler-Charaktere erschaffen"
 tags:
   - Quelle/5e/dmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reflection
+Status: WIP
 linter-yaml-title-alias: Reflection
 tags:
   - Monster/Größe/Mittelgroß

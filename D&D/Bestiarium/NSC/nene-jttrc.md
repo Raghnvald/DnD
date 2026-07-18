@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nene
+Status: WIP
 linter-yaml-title-alias: Nene
 tags:
   - Monster/Größe/Winzig

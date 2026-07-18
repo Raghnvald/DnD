@@ -2,17 +2,18 @@
 Bezeichnung: Necklace string of small pink pearls
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2.500 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Necklace string of small pink pearls
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Necklace string of small pink pearls
+status: WIP
 ---
 # Necklace string of small pink pearls
 *Treasure (art object)*  

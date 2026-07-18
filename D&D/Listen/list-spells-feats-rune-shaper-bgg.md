@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Rune Shaper
+Status: WIP
 linter-yaml-title-alias: Spells for Rune Shaper
 tags:
-  - Zauber/list/feat/rune-shaper
+  - Zauber/Liste/feat/rune-shaper
 aliases:
   - Spells for Rune Shaper
 ---

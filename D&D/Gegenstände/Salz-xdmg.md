@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Salt
+Status: WIP
 linter-yaml-title-alias: Salt
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

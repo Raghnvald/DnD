@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sir Jared
+Status: WIP
 linter-yaml-title-alias: Sir Jared
 tags:
   - Monster/Größe/Mittelgroß

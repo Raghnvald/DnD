@@ -8,8 +8,7 @@ HG: 11
 Habitat:
   - Küste
   - Unterwasser
-image: token/marid.webp
-status:
+Status: completed
 linter-yaml-title-alias: Marid
 tags:
   - Monster/Größe/Groß
@@ -20,6 +19,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Marid
+image: token/marid.webp
 ---
 # Marid
 *Quelle: Monsterhandbuch S. 96*  

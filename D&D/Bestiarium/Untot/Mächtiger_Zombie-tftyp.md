@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mächtiger Zombie
+Status: WIP
 linter-yaml-title-alias: Mächtiger Zombie
 tags:
   - Monster/Größe/Mittelgroß

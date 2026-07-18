@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Sinkhole
+Status: WIP
 linter-yaml-title-alias: Sinkhole
 tags:
   - Quelle/5e/fraif
 aliases:
-  - "Sinkhole"
+  - Sinkhole
   - Sinkhole
 ---
 # Sinkhole

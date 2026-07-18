@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Sculptor of Flesh
+Status: WIP
 linter-yaml-title-alias: Spells for Sculptor of Flesh
 tags:
-  - Zauber/list/optfeature/sculptor-of-flesh
+  - Zauber/Liste/optfeature/sculptor-of-flesh
 aliases:
   - Spells for Sculptor of Flesh
 ---

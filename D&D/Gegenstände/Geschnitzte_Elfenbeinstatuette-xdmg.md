@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Carved ivory statuette
 Kst.: 250 GM
+Status: WIP
 linter-yaml-title-alias: Carved ivory statuette
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

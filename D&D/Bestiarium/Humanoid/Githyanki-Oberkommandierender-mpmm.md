@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Supreme Commander
+Status: WIP
 linter-yaml-title-alias: Githyanki Supreme Commander
 tags:
   - Monster/Größe/Mittelgroß

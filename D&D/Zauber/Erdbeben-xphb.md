@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Earthquake
+Status: WIP
 linter-yaml-title-alias: Earthquake
 classes:
   - Bard

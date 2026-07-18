@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Criminal Syndicate Quests
+Status: WIP
 linter-yaml-title-alias: Criminal Syndicate Quests
 tags:
   - Quelle/5e/tce

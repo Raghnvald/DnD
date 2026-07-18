@@ -13,8 +13,7 @@ Habitat:
   - Stadt
   - Wald
   - Wüste
-image: token/commoner.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gemeiner
 tags:
   - Monster/Größe/Mittelgroß
@@ -31,6 +30,8 @@ tags:
 aliases:
   - Commoner
   - Gemeiner
+image: token/commoner.webp
+status: WIP
 ---
 # Gemeiner
 *Quelle: Monsterhandbuch S. 346. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

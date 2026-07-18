@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grenl
+Status: WIP
 linter-yaml-title-alias: Grenl
 tags:
   - Monster/Größe/Klein

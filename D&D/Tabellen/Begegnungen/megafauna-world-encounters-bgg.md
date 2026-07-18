@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Megafauna World Encounters
+Status: WIP
 linter-yaml-title-alias: Megafauna World Encounters
 tags:
   - Quelle/5e/bgg

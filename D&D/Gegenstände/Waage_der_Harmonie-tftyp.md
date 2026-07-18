@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Balance of Harmony
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Balance of Harmony
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

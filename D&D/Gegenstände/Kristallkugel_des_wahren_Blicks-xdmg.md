@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Crystal Ball of True Seeing
+Status: WIP
 linter-yaml-title-alias: Crystal Ball of True Seeing
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 8: Audience in Gauntlgrym"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: Audience in Gauntlgrym"
 tags:
   - Quelle/5e/oota

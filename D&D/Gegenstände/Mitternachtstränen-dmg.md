@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 1.500 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Mitternachtstränen
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Mitternachtstränen
+status: WIP
 ---
 # Mitternachtstränen
 *Adventuring gear, poison (ingested)*  

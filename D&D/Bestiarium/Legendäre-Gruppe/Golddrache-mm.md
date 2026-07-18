@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gold Dragon
+Status: WIP
 linter-yaml-title-alias: Gold Dragon
 tags:
   - Monster/legendary-group

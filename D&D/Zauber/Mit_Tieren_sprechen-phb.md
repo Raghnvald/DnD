@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Speak with Animals
+Bezeichnung: Mit Tieren sprechen
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Speak with Animals
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G
+Wirkungsdauer: 10 Minuten
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Mit Tieren sprechen
 classes:
   - Barbarian (Path of the Totem Warrior)
   - Bard (Magical Secrets)
@@ -21,8 +22,8 @@ tags:
   - Klasse/Kleriker/nature-domain
   - Klasse/Paladin/Schwur-der-Alten
   - Klasse/Waldläufer
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/ritual-caster/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Ritualwirker/Druide-Zauber
   - Quelle/5e/phb
   - Subklasse/path-of-the-totem-warrior
   - Zauber/Grad/1
@@ -31,9 +32,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Speak with Animals
+  - Mit Tieren sprechen
 ---
-# Speak with Animals
+# Mit Tieren sprechen
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

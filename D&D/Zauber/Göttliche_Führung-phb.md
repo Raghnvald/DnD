@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Guidance
+Bezeichnung: Göttliche Führung
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
-Angriff: /
-Schaden: /
-linter-yaml-title-alias: Guidance
+Angriff: n/v
+Schaden: n/v
+Status: WIP
+linter-yaml-title-alias: Göttliche Führung
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -20,15 +21,15 @@ tags:
   - Klasse/Druide/circle-of-the-land/arctic
   - Klasse/Kleriker
   - Klasse/Kleriker/nature-domain
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Guidance
+  - Göttliche Führung
 ---
-# Guidance
+# Göttliche Führung
 *cantrip, Divination*  
 
 - **Casting time:** 1 Action

@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 150 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Wahrheitsserum
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wahrheitsserum
+status: WIP
 ---
 # Wahrheitsserum
 *Adventuring gear, poison (ingested)*  

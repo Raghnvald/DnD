@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Protection
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Protection
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

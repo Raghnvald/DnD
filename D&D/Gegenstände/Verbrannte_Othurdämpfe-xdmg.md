@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Burnt Othur Fumes
+Status: WIP
 linter-yaml-title-alias: Burnt Othur Fumes
 tags:
   - Gegenstand/Ausrüstung/

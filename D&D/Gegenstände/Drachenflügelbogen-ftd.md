@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Drachenflügelbogen
-Kategorie: Beliebig, Bogen
+Original: Dragon Wing Bow
+Kategorie: Fernkampfwaffe, beliebiger Bogen
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Drachenflügelbogen
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -15,33 +18,33 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/ftd
 aliases:
+  - Drachenflügel-Kurzbogen
+  - Drachenflügel-Langbogen
   - Drachenflügelbogen
-  - Dragon Wing Longbow
-  - Dragon Wing Shortbow
 ---
 # Drachenflügelbogen
-*Rare (requires attunement)*  
+*Selten (erfordert Einstimmung)*  
 
-The limb tips of this magic bow are shaped like a dragon's wings, and the weapon is infused with the essence of a chromatic, gem, or metallic dragon's breath. When you hit with an attack roll using this magic bow, the target takes an extra `1d6` damage of the same type as the breath infused in the bow—acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+Die Spitzen dieses magischen Bogens sind wie Drachenflügel geformt, und die Waffe ist mit der Odemessenz eines chromatischen, metallischen oder Edelsteindrachen durchdrungen. Wenn du mit diesem magischen Bogen angreifst und triffst, erleidet das Ziel zusätzlich `1W6` Schaden des Typs wie der Odem, mit dem der Bogen durchdrungen ist - Blitz, Energie, Feuer, Gift, Gleißend, Kälte, Nekrotisch, Psychisch, Säure oder Schall. 
 
-If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you pull back the string. The ammunition created by the bow vanishes the instant after it hits or misses a target.
+Wenn die Waffe nicht geladen ist, produziert sie automatisch eigene Munition: jeweils ein magisches Geschoss, wenn du die Sehne spannst. Die vom Bogen erzeugte Munition verschwindet, sobald sie ein Ziel getroffen oder verfehlt hat. 
 
-**Variants**:
-- [Dragon Wing Longbow](#Dragon%20Wing%20Longbow)
-- [Dragon Wing Shortbow](#Dragon%20Wing%20Shortbow)
+**Varianten**:
+- [[#Drachenflügel-Kurzbogen]]
+- [[#Drachenflügel-Langbogen]]
 
-### Dragon Wing Longbow
+### Drachenflügel-Kurzbogen
 
-- **Damage**: 1d8 piercing
-- **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d6 Stich
+- **Reichweite**: 24/96
+- **Eigenschaften**: [Geschosse](Gegenstandseigenschaften-phb#Geschosse), [Zweihändig](Gegenstandseigenschaften-phb#Zweihändig)
+- **Gewicht**: 1,0 kg.
 
-### Dragon Wing Shortbow
+### Drachenflügel-Langbogen
 
-- **Damage**: 1d6 piercing
-- **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d8 Stich
+- **Reichweite**: 45/180
+- **Eigenschaften**: [Geschosse](Gegenstandseigenschaften-phb#Geschosse), [Zweihändig](Gegenstandseigenschaften-phb#Zweihändig)
+- **Gewicht**: 1,0 kg.
 
-*Source: Fizban's Treasury of Dragons p. 23*
+*Quelle: Fizbans Schatzkammer der Drachen S. 23*

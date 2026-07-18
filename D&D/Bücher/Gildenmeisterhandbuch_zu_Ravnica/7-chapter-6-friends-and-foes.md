@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: Friends and Foes"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Friends and Foes"
 tags:
   - Quelle/5e/ggr
 aliases:
   - "Chapter 6: Friends and Foes"
-  - Chapter 6: Friends and Foes
 ---
 # Chapter 6: Friends and Foes
 *Source: Guildmasters' Guide to Ravnica, p. 183* 

@@ -2,12 +2,13 @@
 Bezeichnung: Elfenrüstung
 Rüstung: Mittel
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 10,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+Status: completed
 linter-yaml-title-alias: Elfenrüstung
 tags:
   - Gegenstand/Rüstung/Mittel
@@ -25,4 +26,4 @@ aliases:
 
 Du erhältst einen Bonus von +1 auf deine Rüstungsklasse, während du diese Rüstung trägst. Du bist mit dieser Rüstung geübt, selbst wenn dir die Übung für mittelschwere Rüstung fehlt.
 
-*Source: Dungeon Master's Guide p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 168. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House of Thalivar
+Status: WIP
 linter-yaml-title-alias: House of Thalivar
 tags:
   - Quelle/5e/slw

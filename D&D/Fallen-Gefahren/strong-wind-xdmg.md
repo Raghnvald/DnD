@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Strong Wind
+Status: WIP
 linter-yaml-title-alias: Strong Wind
 tags:
   - Kompendium/Bedrohung/env

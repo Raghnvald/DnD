@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Malaxxix
+Status: WIP
 linter-yaml-title-alias: Malaxxix
 tags:
   - Monster/legendary-group

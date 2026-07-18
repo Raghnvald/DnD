@@ -2,10 +2,10 @@
 Bezeichnung: Unterhaltungskünstler-Ausrüstung
 Kategorie: Ausrüstungspaket
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 40 GM
 Gew.: 19,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Unterhaltungskünstler-Ausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Unterhaltungskünstler-Ausrüstung
+status: WIP
 ---
 # Unterhaltungskünstler-Ausrüstung
 *Adventuring gear*  

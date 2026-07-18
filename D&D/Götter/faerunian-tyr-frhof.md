@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Tyr
+Status: WIP
 linter-yaml-title-alias: Tyr
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Grimjaws"
-  - "The Evenhanded"
-  - "The Maimed God"
-  - "Tyr"
+  - Grimjaws
+  - The Evenhanded
+  - The Maimed God
+  - Tyr
   - Tyr
 ---
 # Tyr

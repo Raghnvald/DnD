@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ioun
+Status: WIP
 linter-yaml-title-alias: Ioun
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Ioun

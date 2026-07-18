@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Giant; Giant Personality Traits
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Giant; Giant Personality Traits
 tags:
   - Quelle/5e/vgm

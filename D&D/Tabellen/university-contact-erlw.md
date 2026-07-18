@@ -1,5 +1,6 @@
 ---
 Bezeichnung: University Contact
+Status: WIP
 linter-yaml-title-alias: University Contact
 tags:
   - Quelle/5e/erlw

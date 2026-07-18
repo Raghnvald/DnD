@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Haunting Revenant
+Status: WIP
 linter-yaml-title-alias: Haunting Revenant
 tags:
   - Monster/Größe/Gigantisch

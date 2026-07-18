@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Dragonfly
+Status: WIP
 linter-yaml-title-alias: Giant Dragonfly
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/1-2
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/beast
+  - Monster/HG/1-2
+  - Monster/Größe/Groß
+  - Monster/Typ/Tier
 aliases:
-  - "Giant Dragonfly"
+  - Giant Dragonfly
   - Giant Dragonfly
 ---
 # [Giant Dragonfly](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md)

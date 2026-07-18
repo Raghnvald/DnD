@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Cold Resistance
+Status: WIP
 linter-yaml-title-alias: Ring of Cold Resistance
 tags:
   - Gegenstand/Seltenheit/selten

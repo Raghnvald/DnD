@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Anarch
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Anarch
+status: WIP
 ---
 # [Anarch](3-Mechanics\CLI\bestiary\humanoid/anarch-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 239*  

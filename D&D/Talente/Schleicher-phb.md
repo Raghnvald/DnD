@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Schleicher
-linter-yaml-title-alias: Skulker
+Status: WIP
+linter-yaml-title-alias: Schleicher
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Skulker
+  - Schleicher
 ---
 # Schleicher
 *Source: Player's Handbook p. 170*  

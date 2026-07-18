@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maze
+Status: WIP
 linter-yaml-title-alias: Maze
 classes:
   - Bard

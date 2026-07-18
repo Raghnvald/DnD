@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Training Area
+Status: WIP
 linter-yaml-title-alias: Training Area
 tags:
   - Kompendium/Bastion

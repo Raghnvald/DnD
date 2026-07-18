@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Linter
+Status: WIP
 ---
 # Linter
 cssclasses

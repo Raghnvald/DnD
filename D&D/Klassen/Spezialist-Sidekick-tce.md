@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Expert Sidekick
+Status: WIP
 linter-yaml-title-alias: Expert Sidekick
 tags:
   - Klasse/expert-sidekick

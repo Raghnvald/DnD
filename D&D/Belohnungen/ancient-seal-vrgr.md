@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Ancient Seal
+Status: WIP
 linter-yaml-title-alias: Ancient Seal
 tags:
-  - Kompendium/Belohnung/curse
+  - Kompendium/Belohnung/Fluch
   - Quelle/5e/vrgr
 aliases:
-  - "Ancient Seal"
+  - Ancient Seal
   - Ancient Seal
 ---
 # Ancient Seal

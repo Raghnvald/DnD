@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf Names – Female Adult
+Status: WIP
 linter-yaml-title-alias: Elf Names – Female Adult
 tags:
   - Quelle/5e/xge

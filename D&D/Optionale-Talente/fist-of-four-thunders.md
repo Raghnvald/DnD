@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fist of Four Thunders
+Status: WIP
 linter-yaml-title-alias: Fist of Four Thunders
 tags:
   - Kompendium/Optionales/ed

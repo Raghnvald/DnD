@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Grave Domain
+Status: WIP
 linter-yaml-title-alias: Grave Domain
 tags:
   - Klasse/Kleriker/grave
-  - Kompendium/Götter/Domäne/grave
+  - Kompendium/Götter/Domäne/Grab
   - Quelle/5e/xge
 aliases:
   - Grave Domain

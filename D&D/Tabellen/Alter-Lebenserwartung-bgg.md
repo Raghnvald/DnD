@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Age; Life Spans
 Kategorie: Monster
+Status: WIP
 linter-yaml-title-alias: Age; Life Spans
 tags:
   - Quelle/5e/bgg

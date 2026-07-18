@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Conjure Celestial
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Conjure Celestial
 classes:
   - Bard (Magical Secrets)

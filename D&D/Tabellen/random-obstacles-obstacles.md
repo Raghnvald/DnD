@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Obstacles; Obstacles
+Status: WIP
 linter-yaml-title-alias: Random Obstacles; Obstacles
 tags:
   - Quelle/5e/dmg

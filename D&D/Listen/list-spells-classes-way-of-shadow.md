@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Way of Shadow
+Status: WIP
 linter-yaml-title-alias: Spells for Way of Shadow
 tags:
-  - Zauber/list/subclass/way-of-shadow
+  - Zauber/Liste/subclass/way-of-shadow
 aliases:
   - Spells for Way of Shadow
 ---

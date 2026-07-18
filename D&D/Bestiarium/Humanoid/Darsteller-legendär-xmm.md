@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Performer Legend
+Status: WIP
 linter-yaml-title-alias: Performer Legend
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

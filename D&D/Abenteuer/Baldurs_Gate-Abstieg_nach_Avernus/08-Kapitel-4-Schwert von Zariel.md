@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "<center> Kapitel 4: Schwert von Zariel </center>"
+Status: WIP
 linter-yaml-title-alias: "<center> Kapitel 4: Schwert von Zariel </center>"
 tags:
   - Quelle/5e/bgdia

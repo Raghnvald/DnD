@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elemental Gem, Blue Sapphire
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Elemental Gem, Blue Sapphire
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

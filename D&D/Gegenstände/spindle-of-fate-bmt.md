@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Spindle of Fate
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Spindle of Fate
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/wand
   - Quelle/5e/bmt

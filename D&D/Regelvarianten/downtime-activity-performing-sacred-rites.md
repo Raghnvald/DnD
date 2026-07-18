@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Performing Sacred Rites"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Performing Sacred Rites"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Downtime Activity: Performing Sacred Rites"
-  - Downtime Activity: Performing Sacred Rites
 ---
 # Downtime Activity: Performing Sacred Rites
 *Source: Dungeon Master's Guide p. 129* 

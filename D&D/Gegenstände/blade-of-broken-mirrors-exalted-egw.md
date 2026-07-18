@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Blade of Broken Mirrors (Exalted)
-Kategorie: Einfache Nahkampfwaffe
+Kategorie: Nahkampfwaffe, einfach
+Status: WIP
 linter-yaml-title-alias: Blade of Broken Mirrors (Exalted)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

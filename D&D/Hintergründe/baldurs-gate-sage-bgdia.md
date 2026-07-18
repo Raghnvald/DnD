@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Sage"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Sage"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Sage"
-  - Baldur's Gate Sage
 ---
 # Baldur's Gate Sage
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 137*  

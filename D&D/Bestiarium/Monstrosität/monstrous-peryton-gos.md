@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Monstrous Peryton
+Status: WIP
 linter-yaml-title-alias: Monstrous Peryton
 tags:
   - Monster/Größe/Groß

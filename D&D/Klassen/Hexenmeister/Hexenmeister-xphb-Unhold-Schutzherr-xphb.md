@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiend Patron
+Status: WIP
 linter-yaml-title-alias: Fiend Patron
 tags:
   - Klasse/Hexenmeister/fiend

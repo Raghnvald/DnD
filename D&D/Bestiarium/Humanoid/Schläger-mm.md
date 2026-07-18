@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thug
+Status: WIP
 linter-yaml-title-alias: Thug
 tags:
   - Monster/Größe/Mittelgroß

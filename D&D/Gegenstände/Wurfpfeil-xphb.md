@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dart
 Kategorie: Einfache Fernkampfwaffe
+Status: WIP
 linter-yaml-title-alias: Dart
 tags:
   - Gegenstand/Seltenheit/keine

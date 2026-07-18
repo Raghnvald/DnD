@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Suggestion
 classes:
   - Bard
@@ -22,7 +23,7 @@ tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Hexenmeister
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer

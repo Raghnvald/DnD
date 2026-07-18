@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wynling
+Status: WIP
 linter-yaml-title-alias: Wynling
 tags:
   - Monster/Größe/Winzig

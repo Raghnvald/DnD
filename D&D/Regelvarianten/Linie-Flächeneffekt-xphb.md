@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Line [Area of Effect]
+Status: WIP
 linter-yaml-title-alias: Line [Area of Effect]
 tags:
   - Quelle/5e/xphb

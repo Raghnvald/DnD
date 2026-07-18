@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Quippers
+Status: WIP
 linter-yaml-title-alias: Swarm of Quippers
 tags:
   - Monster/Größe/Mittelgroß

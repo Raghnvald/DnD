@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Terror
+Status: WIP
 linter-yaml-title-alias: Boon of Terror
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of Terror"
+  - Boon of Terror
   - Boon of Terror
 ---
 # Boon of Terror

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Purple Dragon Rook
+Status: WIP
 linter-yaml-title-alias: Purple Dragon Rook
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Purple Dragon Rook"
+  - Purple Dragon Rook
   - Purple Dragon Rook
 ---
 # Purple Dragon Rook

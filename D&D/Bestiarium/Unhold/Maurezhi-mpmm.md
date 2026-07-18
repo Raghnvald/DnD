@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maurezhi
+Status: WIP
 linter-yaml-title-alias: Maurezhi
 tags:
   - Monster/Größe/Mittelgroß

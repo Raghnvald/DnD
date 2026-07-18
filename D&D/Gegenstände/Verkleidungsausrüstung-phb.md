@@ -2,10 +2,10 @@
 Bezeichnung: Verkleidungsausrüstung
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Verkleidungsausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -15,6 +15,7 @@ aliases:
   - Verkleidungsausrüstung
 Aktiv: false
 Menge: "1"
+status: WIP
 ---
 # Verkleidungsausrüstung
 *Werkzeug*

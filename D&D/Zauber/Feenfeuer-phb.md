@@ -6,7 +6,8 @@ Reichweite: 18 Meter
 Komponenten: V
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: GES
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Feenfeuer
 classes:
   - Bard (Magical Secrets)
@@ -16,8 +17,8 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
-  - Klasse/Kleriker/light-domain
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Klasse/Kleriker/Licht
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Subklasse/the-archfey
   - Subrasse/elf-drow

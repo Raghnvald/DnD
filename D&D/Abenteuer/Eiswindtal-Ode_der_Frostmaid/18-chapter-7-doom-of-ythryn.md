@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Doom of Ythryn"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Doom of Ythryn"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Chapter 7: Doom of Ythryn"
-  - Chapter 7: Doom of Ythryn
 ---
 # Chapter 7: Doom of Ythryn
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 231* 

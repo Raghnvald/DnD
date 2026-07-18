@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bulette Pup
+Status: WIP
 linter-yaml-title-alias: Bulette Pup
 tags:
   - Monster/Größe/Mittelgroß

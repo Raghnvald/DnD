@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Hellish Rebuke
+Bezeichnung: Höllischer Tadel
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Hellish Rebuke
+Zeitaufwand: 1 Reaktion
+Reichweite: 18 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Höllischer Tadel
 classes:
   - Bard (Magical Secrets)
   - Paladin (Oathbreaker)
@@ -16,16 +17,16 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Hexenmeister
   - Klasse/Paladin/Eidbrecher
-  - Kompendium/Talent/magic-initiate/warlock-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Hexenmeister-Zauber
   - Quelle/5e/phb
   - Rasse/tiefling-base
   - Subrasse/tiefling
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Hellish Rebuke
+  - Höllischer Tadel
 ---
-# Hellish Rebuke
+# Höllischer Tadel
 *1st-level, Evocation*  
 
 - **Casting time:** 1 Reaction

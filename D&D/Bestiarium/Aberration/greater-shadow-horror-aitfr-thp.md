@@ -5,15 +5,16 @@ Bezeichnung: Greater Shadow Horror
 Kategorie: Aberration
 Größe: Riesig
 HG: 12
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Greater Shadow Horror
 tags:
   - Quelle/5e/aitfr-thp
-  - ttrpg-cli/monster/cr/12
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/12
+  - Monster/Größe/Riesig
+  - Monster/Typ/Aberration
 aliases:
   - Greater Shadow Horror
+status: WIP
 ---
 # [Greater Shadow Horror](3-Mechanics/CLI/bestiary/aberration/greater-shadow-horror-aitfr-thp.md)
 *Source: Adventures in the Forgotten Realms: The Hidden Page p. 12*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 20: Flames"
+Status: WIP
 linter-yaml-title-alias: "Chapter 20: Flames"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 20: Flames"
-  - Chapter 20: Flames
 ---
 # Chapter 20: Flames
 *Source: The Book of Many Things, p. 165* 

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Glückspilz
-linter-yaml-title-alias: Lucky
+Status: WIP
+linter-yaml-title-alias: Glückspilz
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Lucky
+  - Glückspilz
 ---
 # Glückspilz
 *Source: Player's Handbook p. 167*

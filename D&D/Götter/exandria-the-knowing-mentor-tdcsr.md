@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Knowing Mentor
+Status: WIP
 linter-yaml-title-alias: The Knowing Mentor
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/twilight
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Ioun

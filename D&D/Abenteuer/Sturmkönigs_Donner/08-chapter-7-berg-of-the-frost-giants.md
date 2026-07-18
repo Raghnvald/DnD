@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Berg of the Frost Giants"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Berg of the Frost Giants"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Chapter 7: Berg of the Frost Giants"
-  - Chapter 7: Berg of the Frost Giants
 ---
 # Chapter 7: Berg of the Frost Giants
 *Source: Storm King's Thunder, p. 155* 

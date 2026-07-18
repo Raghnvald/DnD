@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sanctum
+Status: WIP
 linter-yaml-title-alias: Sanctum
 tags:
   - Kompendium/Bastion

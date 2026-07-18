@@ -11,6 +11,8 @@ properties:
     displayName: Name
   formula.Untitled:
     displayName: Name
+  note.status:
+    displayName: status
 views:
   - type: table
     name: Waffen
@@ -27,13 +29,38 @@ views:
       - Kst.
       - Gew.
       - Eigenschaften
-      - Einstimmung
+      - Status
     sort:
       - property: file.name
         direction: ASC
-      - property: formula.Untitled
+      - property: Status
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Eigenschaften: 372
+  - type: table
+    name: Waffen 2
+    filters:
+      and:
+        - file.folder == "D&D/Gegenstände"
+        - file.tags.contains("Gegenstand/Waffe")
+        - Status == "WIP"
+    groupBy:
+      property: Kategorie
+      direction: ASC
+    order:
+      - formula.Untitled
+      - file.name
+      - Kst.
+      - Gew.
+      - Eigenschaften
+      - Status
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Status
+        direction: ASC
+    columnSize:
+      note.Eigenschaften: 372
   - type: table
     name: Nahkampfwaffen
     filters:

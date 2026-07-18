@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix F: Player Handouts"
+Status: WIP
 linter-yaml-title-alias: "Appendix F: Player Handouts"
 tags:
   - Quelle/5e/coa

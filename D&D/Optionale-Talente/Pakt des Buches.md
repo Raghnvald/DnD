@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pakt des Buches
+Status: WIP
 tags:
   - Klasse/Hexenmeister
   - Kompendium/Optionales/Pakt

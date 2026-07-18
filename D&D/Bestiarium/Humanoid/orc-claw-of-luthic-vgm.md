@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc Claw of Luthic
+Status: WIP
 linter-yaml-title-alias: Orc Claw of Luthic
 tags:
   - Monster/Größe/Mittelgroß

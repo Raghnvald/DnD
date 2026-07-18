@@ -1,9 +1,10 @@
 ---
-Bezeichnung: Archiv der Astromantik
+Bezeichnung: Astromancy Archive
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Astromancy Archive
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dhampir
+Status: WIP
 linter-yaml-title-alias: Dhampir
 tags:
   - Quelle/5e/vrgr

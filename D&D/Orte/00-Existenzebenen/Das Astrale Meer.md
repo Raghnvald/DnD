@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Das Astrale Meer
+Status: WIP
 ---
 # Das Astrale Meer
 Basis Informationen

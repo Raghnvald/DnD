@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zurückdrängender Strahl
+Status: WIP
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb

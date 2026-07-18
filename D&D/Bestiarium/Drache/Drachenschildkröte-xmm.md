@@ -8,7 +8,7 @@ HG: 17
 Habitat:
   - Küste
   - Unterwasser
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Dragon Turtle
 tags:
   - Monster/Größe/Gigantisch
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Dragon Turtle
+status: WIP
 ---
 # [Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/dragon-turtle-xmm.md)
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

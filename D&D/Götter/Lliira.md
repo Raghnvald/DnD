@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lliira, Göttin der Freude
+Status: WIP
 linter-yaml-title-alias: Lliira, Göttin der Freude
 tags:
   - Kompendium/Götter

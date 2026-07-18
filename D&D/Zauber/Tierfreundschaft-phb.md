@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Tierfreundschaft
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: 24 Stunden
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Tierfreundschaft
 classes:
   - Bard (Magical Secrets)
@@ -18,7 +19,7 @@ tags:
   - Klasse/Druide
   - Klasse/Kleriker/nature-domain
   - Klasse/Waldläufer
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung

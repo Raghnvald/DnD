@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chardalyn Berserker
+Status: WIP
 linter-yaml-title-alias: Chardalyn Berserker
 tags:
   - Monster/Größe/Mittelgroß

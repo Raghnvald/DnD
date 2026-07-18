@@ -5,7 +5,7 @@ Bezeichnung: Hashalaq Quori
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 9
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Hashalaq Quori
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Hashalaq Quori
+status: WIP
 ---
 # [Hashalaq Quori](3-Mechanics\CLI\bestiary\aberration/hashalaq-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 305*  

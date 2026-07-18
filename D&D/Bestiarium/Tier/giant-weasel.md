@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Weasel
+Status: WIP
 linter-yaml-title-alias: Giant Weasel
 tags:
   - Monster/Größe/Mittelgroß

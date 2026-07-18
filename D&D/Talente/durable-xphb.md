@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Durable
+Status: WIP
 linter-yaml-title-alias: Durable
 tags:
   - Kompendium/Talent

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tarrasque
+Status: WIP
 linter-yaml-title-alias: Tarrasque
 tags:
   - Monster/Größe/Gigantisch

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone
+Status: WIP
 linter-yaml-title-alias: Ioun Stone
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:

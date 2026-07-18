@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Irda Seeker
+Status: WIP
 linter-yaml-title-alias: Irda Seeker
 tags:
   - Monster/Größe/Mittelgroß

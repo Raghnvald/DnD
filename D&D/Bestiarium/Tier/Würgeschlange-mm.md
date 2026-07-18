@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Constrictor Snake
+Status: WIP
 linter-yaml-title-alias: Constrictor Snake
 tags:
   - Monster/Größe/Groß

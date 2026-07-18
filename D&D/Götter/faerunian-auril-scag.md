@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Auril
+Status: WIP
 linter-yaml-title-alias: Auril
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Auril

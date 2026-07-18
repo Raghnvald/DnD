@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Obmi
+Status: WIP
 linter-yaml-title-alias: Obmi
 tags:
   - Monster/Größe/Mittelgroß

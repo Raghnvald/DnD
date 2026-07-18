@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Venatrix
+Status: WIP
 linter-yaml-title-alias: Venatrix
 tags:
-  - Gegenstand/Fortbewegung/size/gargantuan
-  - Gegenstand/Fortbewegung/terrain/land
-  - Gegenstand/Fortbewegung/type/infernal-war-machine
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
+  - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Kategorie/Höllische-Kriegsmaschine
   - Quelle/5e/veor
 aliases:
   - Venatrix

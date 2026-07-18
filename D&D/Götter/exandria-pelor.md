@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Pelor
+Status: WIP
 linter-yaml-title-alias: Pelor
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Pelor

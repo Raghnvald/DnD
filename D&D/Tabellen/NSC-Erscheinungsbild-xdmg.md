@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPC Appearance
+Status: WIP
 linter-yaml-title-alias: NPC Appearance
 tags:
   - Quelle/5e/xdmg

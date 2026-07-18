@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe des Glücks
+Status: WIP
 linter-yaml-title-alias: Gabe des Glücks
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Luck

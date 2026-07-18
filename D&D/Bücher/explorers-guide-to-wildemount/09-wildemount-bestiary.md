@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wildemount Bestiary
+Status: WIP
 linter-yaml-title-alias: Wildemount Bestiary
 tags:
   - Quelle/5e/egw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Lemures
+Status: WIP
 linter-yaml-title-alias: Swarm of Lemures
 tags:
   - Monster/Größe/Groß

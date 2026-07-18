@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Spear
+Status: WIP
 linter-yaml-title-alias: Eldritch Spear
 tags:
   - Kompendium/Optionales/ei

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Armor of the Valiant Soul (Dormant)
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Armor of the Valiant Soul (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Glyph of Warding
+Bezeichnung: Glyphe des Schutzes
 Zaubergrad: 3
+Zeitaufwand: 1 Stunde
+Status: WIP
 linter-yaml-title-alias: Glyph of Warding
 classes:
   - Bard (Magical Secrets)
@@ -19,6 +21,10 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Glyph of Warding
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer:
+Schaden:
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

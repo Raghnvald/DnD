@@ -1,6 +1,7 @@
 ---
 Bezeichnung: War Horn of Valor
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: War Horn of Valor
 tags:
   - Gegenstand/Seltenheit/selten

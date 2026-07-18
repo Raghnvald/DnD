@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Storm Giant
+Status: WIP
 linter-yaml-title-alias: Storm Giant
 tags:
   - Monster/Größe/Riesig

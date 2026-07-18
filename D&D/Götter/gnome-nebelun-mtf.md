@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Nebelun
+Status: WIP
 linter-yaml-title-alias: Nebelun
 tags:
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

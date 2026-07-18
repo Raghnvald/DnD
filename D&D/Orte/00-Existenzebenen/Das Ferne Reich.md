@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Das Ferne Reich
+Status: WIP
 ---
 # Das Ferne Reich
 Halbebenen sind kleine Ebenen die entweder in anderen Ebenen liegen oder komplett ausserhalb der bekannten Ebenen liegen.

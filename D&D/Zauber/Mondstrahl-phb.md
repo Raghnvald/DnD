@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Moonbeam
+Bezeichnung: Mondstrahl
 Zaubergrad: 2
-linter-yaml-title-alias: Moonbeam
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Mondstrahl
 classes:
   - Bard (Magical Secrets)
   - Druid
@@ -14,9 +16,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Moonbeam
+  - Mondstrahl
 ---
-# Moonbeam
+# Mondstrahl
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 Action

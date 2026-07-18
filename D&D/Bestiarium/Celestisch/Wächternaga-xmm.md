@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guardian Naga
+Status: WIP
 linter-yaml-title-alias: Guardian Naga
 tags:
   - Monster/Größe/Groß

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Monster Slayer
+Status: WIP
 linter-yaml-title-alias: Spells for Monster Slayer
 tags:
-  - Zauber/list/subclass/monster-slayer
+  - Zauber/Liste/subclass/monster-slayer
 aliases:
   - Spells for Monster Slayer
 ---

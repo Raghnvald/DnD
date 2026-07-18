@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Ice Toad
+Status: WIP
 linter-yaml-title-alias: Giant Ice Toad
 tags:
   - Monster/Größe/Groß

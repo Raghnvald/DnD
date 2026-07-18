@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fazrian
+Status: WIP
 linter-yaml-title-alias: Fazrian
 tags:
   - Monster/Größe/Groß

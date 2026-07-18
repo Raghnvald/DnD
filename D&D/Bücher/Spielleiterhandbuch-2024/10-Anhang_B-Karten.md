@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Maps"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Maps"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Appendix B: Maps"
-  - Appendix B: Maps
 ---
 # Appendix B: Maps
 *Source: Dungeon Master's Guide (2024), p. 365* 

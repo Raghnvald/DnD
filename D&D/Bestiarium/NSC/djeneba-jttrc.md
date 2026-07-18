@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Djeneba
+Status: WIP
 linter-yaml-title-alias: Djeneba
 tags:
   - Monster/Größe/Mittelgroß

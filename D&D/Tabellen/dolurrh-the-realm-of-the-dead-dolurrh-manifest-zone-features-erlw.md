@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dolurrh, the Realm of the Dead; Dolurrh Manifest Zone Features
+Status: WIP
 linter-yaml-title-alias: Dolurrh, the Realm of the Dead; Dolurrh Manifest Zone Features
 tags:
   - Quelle/5e/erlw

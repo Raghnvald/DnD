@@ -2,18 +2,20 @@
 Bezeichnung: Azorius Guild Signet
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Azorius Guild Signet
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/ggr
 aliases:
   - Azorius Guild Signet
+status: WIP
 ---
 # Azorius Guild Signet
 *Ring, uncommon (requires attunement)*  

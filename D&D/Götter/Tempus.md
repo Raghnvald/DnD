@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tempus, Gott des Krieges
+Status: WIP
 linter-yaml-title-alias: Tempus, Gott des Krieges
 tags:
   - Kompendium/Götter

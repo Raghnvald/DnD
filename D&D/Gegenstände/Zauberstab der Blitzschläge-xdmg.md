@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Wand of Lightning Bolts
+Status: WIP
 linter-yaml-title-alias: Wand of Lightning Bolts
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg

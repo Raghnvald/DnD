@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sample Mental Stress Effects
+Status: WIP
 linter-yaml-title-alias: Sample Mental Stress Effects
 tags:
   - Quelle/5e/xdmg

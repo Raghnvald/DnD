@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 12: Doom of the Desert"
+Status: WIP
 linter-yaml-title-alias: "Chapter 12: Doom of the Desert"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Chapter 12: Doom of the Desert"
-  - Chapter 12: Doom of the Desert
 ---
 # Chapter 12: Doom of the Desert
 *Source: Storm King's Thunder, p. 225* 

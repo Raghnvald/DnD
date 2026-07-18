@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for The Genie
+Status: WIP
 linter-yaml-title-alias: Spells for The Genie
 tags:
-  - Zauber/list/subclass/the-genie
+  - Zauber/Liste/subclass/the-genie
 aliases:
   - Spells for The Genie
 ---

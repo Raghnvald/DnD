@@ -2,10 +2,10 @@
 Bezeichnung: Eisenstachel
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: WIP
+Gew.: 0,25 kg
+Status: completed
 linter-yaml-title-alias: Eisenstachel
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,9 +15,9 @@ aliases:
   - Eisenstachel
 ---
 # Eisenstachel
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 sp
-- **Weight**: 0.5 lbs.
+- **Kosten**: 1 SM
+- **Gewicht**: 0,25 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

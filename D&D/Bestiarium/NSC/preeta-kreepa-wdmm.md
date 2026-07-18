@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Preeta Kreepa
+Status: WIP
 linter-yaml-title-alias: Preeta Kreepa
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zikran
+Status: WIP
 linter-yaml-title-alias: Zikran
 tags:
   - Monster/Größe/Mittelgroß

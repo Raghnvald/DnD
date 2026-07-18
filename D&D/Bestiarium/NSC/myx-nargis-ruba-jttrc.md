@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myx Nargis Ruba
+Status: WIP
 linter-yaml-title-alias: Myx Nargis Ruba
 tags:
   - Monster/Größe/Mittelgroß

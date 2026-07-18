@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Spider's Web"
+Status: WIP
 linter-yaml-title-alias: "The Spider's Web"
 tags:
   - Quelle/5e/lmop
 aliases:
   - "The Spider's Web"
-  - The Spider's Web
 ---
 # The Spider's Web
 *Source: Lost Mine of Phandelver, p. 27* 

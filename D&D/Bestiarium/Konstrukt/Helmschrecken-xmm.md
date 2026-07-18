@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Helmed Horror
+Status: WIP
 linter-yaml-title-alias: Helmed Horror
 tags:
   - Monster/Größe/Mittelgroß

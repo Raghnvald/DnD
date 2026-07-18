@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xanathar
+Status: WIP
 linter-yaml-title-alias: Xanathar
 tags:
   - Monster/Größe/Groß

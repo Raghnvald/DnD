@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ship Repairs
+Status: WIP
 linter-yaml-title-alias: Ship Repairs
 tags:
   - Quelle/5e/aag
 aliases:
-  - "Ship Repairs"
+  - Ship Repairs
   - Ship Repairs
 ---
 # Ship Repairs

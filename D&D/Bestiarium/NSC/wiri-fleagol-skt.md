@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wiri Fleagol
+Status: WIP
 linter-yaml-title-alias: Wiri Fleagol
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Slarkrethel
+Status: WIP
 linter-yaml-title-alias: Slarkrethel
 tags:
   - Monster/Größe/Gigantisch

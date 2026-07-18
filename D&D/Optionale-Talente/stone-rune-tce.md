@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stone Rune
+Status: WIP
 linter-yaml-title-alias: Stone Rune
 tags:
   - Kompendium/Optionales/rn

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sapphire Dragon
+Status: WIP
 linter-yaml-title-alias: Sapphire Dragon
 tags:
   - Monster/legendary-group

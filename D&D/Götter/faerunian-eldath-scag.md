@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Eldath
+Status: WIP
 linter-yaml-title-alias: Eldath
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/peace
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Frieden
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Eldath

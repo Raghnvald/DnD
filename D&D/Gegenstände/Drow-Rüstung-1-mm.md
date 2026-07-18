@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Drow +1 Armor
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Drow +1 Armor
 tags:
   - Gegenstand/Rüstung/Leicht

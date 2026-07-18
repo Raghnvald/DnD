@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sirac of Suzail
+Status: WIP
 linter-yaml-title-alias: Sirac of Suzail
 tags:
   - Monster/Größe/Mittelgroß

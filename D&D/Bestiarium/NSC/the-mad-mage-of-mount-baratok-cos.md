@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Mad Mage of Mount Baratok
+Status: WIP
 linter-yaml-title-alias: The Mad Mage of Mount Baratok
 tags:
   - Monster/Größe/Mittelgroß

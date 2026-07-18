@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Mythrien Sarath
+Status: WIP
 linter-yaml-title-alias: Mythrien Sarath
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

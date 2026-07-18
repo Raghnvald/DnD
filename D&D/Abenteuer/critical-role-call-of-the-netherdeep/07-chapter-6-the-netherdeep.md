@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: The Netherdeep"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: The Netherdeep"
 tags:
   - Quelle/5e/crcotn

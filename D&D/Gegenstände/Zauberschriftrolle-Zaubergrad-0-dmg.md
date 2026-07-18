@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubertrick)
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubertrick)
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberschriftrolle (Zaubertrick)
+status: completed
 ---
 # Zauberschriftrolle (Zaubertrick)
 *Schriftrolle, gewöhnlich*  

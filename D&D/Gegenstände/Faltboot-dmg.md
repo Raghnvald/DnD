@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Folding Boat
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Folding Boat
 tags:
   - Gegenstand/Seltenheit/selten

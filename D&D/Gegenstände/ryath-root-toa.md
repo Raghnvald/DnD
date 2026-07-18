@@ -2,10 +2,10 @@
 Bezeichnung: Ryath Root
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Ryath Root
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Ryath Root
+status: WIP
 ---
 # Ryath Root
 *Adventuring gear*  

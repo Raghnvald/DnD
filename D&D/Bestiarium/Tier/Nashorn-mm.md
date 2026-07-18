@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rhinoceros
+Status: WIP
 linter-yaml-title-alias: Rhinoceros
 tags:
   - Monster/Größe/Groß

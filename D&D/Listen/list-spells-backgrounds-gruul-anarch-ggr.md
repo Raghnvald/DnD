@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Gruul Anarch
+Status: WIP
 linter-yaml-title-alias: Spells for Gruul Anarch
 tags:
-  - Zauber/list/background/gruul-anarch
+  - Zauber/Liste/background/gruul-anarch
 aliases:
   - Spells for Gruul Anarch
 ---

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Possibility
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Possibility
 tags:
   - Gegenstand/Seltenheit/sehr_selten

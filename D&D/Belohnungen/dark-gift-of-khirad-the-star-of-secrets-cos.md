@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Khirad, the Star of Secrets
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Khirad, the Star of Secrets
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Khirad, the Star of Secrets

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elementarer Edelstein, Smaragd
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Elementarer Edelstein, Smaragd
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

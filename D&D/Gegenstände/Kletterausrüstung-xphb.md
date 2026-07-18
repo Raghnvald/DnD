@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Climber's Kit"
+Status: WIP
 linter-yaml-title-alias: "Climber's Kit"
 tags:
   - Gegenstand/Ausrüstung/

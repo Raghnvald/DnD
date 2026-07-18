@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gebetstatuette des Sekolah
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Gebetstatuette des Sekolah
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

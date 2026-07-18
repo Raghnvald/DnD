@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Elfische Treffsicherheit
-linter-yaml-title-alias: Elven Accuracy
+Status: WIP
+linter-yaml-title-alias: Elfische Treffsicherheit
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Elven Accuracy
+  - Elfische Treffsicherheit
 ---
 # Elfische Treffsicherheit
 *Source: Xanathar's Guide to Everything p. 74*  

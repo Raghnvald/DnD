@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Scroll of Tarrasque Summoning
 Kategorie: Schriftrolle
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Scroll of Tarrasque Summoning
 tags:
   - Gegenstand/Seltenheit/legendär
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Scroll of Tarrasque Summoning
+status: WIP
 ---
 # Scroll of Tarrasque Summoning
 *Scroll, legendary*  

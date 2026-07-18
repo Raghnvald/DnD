@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mercenary Veteran
+Status: WIP
 linter-yaml-title-alias: Mercenary Veteran
 tags:
   - Kompendium/Hintergrund

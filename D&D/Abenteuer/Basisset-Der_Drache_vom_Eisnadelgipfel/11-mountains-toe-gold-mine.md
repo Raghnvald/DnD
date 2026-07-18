@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Mountain's Toe Gold Mine"
+Status: WIP
 linter-yaml-title-alias: "Mountain's Toe Gold Mine"
 tags:
   - Quelle/5e/dip
 aliases:
   - "Mountain's Toe Gold Mine"
-  - Mountain's Toe Gold Mine
 ---
 # Mountain's Toe Gold Mine
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 36* 

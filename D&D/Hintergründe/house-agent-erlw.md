@@ -1,5 +1,6 @@
 ---
 Bezeichnung: House Agent
+Status: WIP
 linter-yaml-title-alias: House Agent
 tags:
   - Kompendium/Hintergrund

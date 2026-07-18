@@ -1,23 +1,23 @@
 ---
-Bezeichnung: Robes
+Bezeichnung: Roben
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 2,0 kg
-status: WIP
-linter-yaml-title-alias: Robes
+Status: completed
+linter-yaml-title-alias: Roben
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Robes
+  - Roben
 ---
-# Robes
-*Adventuring gear*  
+# Roben
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 gp
-- **Weight**: 4.0 lbs.
+- **Kosten**: 1 GM
+- **Gewicht**: 2,0 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

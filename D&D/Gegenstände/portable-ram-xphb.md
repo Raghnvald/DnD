@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Portable Ram
+Status: WIP
 linter-yaml-title-alias: Portable Ram
 tags:
   - Gegenstand/Ausrüstung/

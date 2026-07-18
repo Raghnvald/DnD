@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Costume
+Status: WIP
 linter-yaml-title-alias: Costume
 tags:
   - Gegenstand/Ausrüstung/

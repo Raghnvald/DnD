@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: Allies and Adversaries of Tal'Dorei"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Allies and Adversaries of Tal'Dorei"
 tags:
   - Quelle/5e/tdcsr
 aliases:
   - "Chapter 6: Allies and Adversaries of Tal'Dorei"
-  - Chapter 6: Allies and Adversaries of Tal'Dorei
 ---
 # Chapter 6: Allies and Adversaries of Tal'Dorei
 *Source: Tal'Dorei Campaign Setting Reborn, p. 217* 

@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Starshot Crossbow
-Kategorie: Beliebig, Armbrust
+Kategorie: Fernkampfwaffe, beliebige Armbrust
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
+  - n/v
+Einstimmung: erforderlich
+Original: Starshot Crossbow
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Starshot Crossbow
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

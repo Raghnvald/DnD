@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nonplayer Character
+Status: WIP
 linter-yaml-title-alias: Nonplayer Character
 tags:
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scout Captain
+Status: WIP
 linter-yaml-title-alias: Scout Captain
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

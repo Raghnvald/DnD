@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Stürmer
-linter-yaml-title-alias: Charger
+Status: WIP
+linter-yaml-title-alias: Stürmer
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Charger
+  - Stürmer
 ---
 # Stürmer
 *Source: Player's Handbook p. 165*  

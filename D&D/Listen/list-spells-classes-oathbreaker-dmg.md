@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Oathbreaker
+Status: WIP
 linter-yaml-title-alias: Spells for Oathbreaker
 tags:
-  - Zauber/list/subclass/oathbreaker
+  - Zauber/Liste/subclass/oathbreaker
 aliases:
   - Spells for Oathbreaker
 ---

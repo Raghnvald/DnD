@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duodrone
+Status: WIP
 linter-yaml-title-alias: Duodrone
 tags:
   - Monster/Größe/Mittelgroß

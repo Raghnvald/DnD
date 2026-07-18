@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ride the Wind
+Status: WIP
 linter-yaml-title-alias: Ride the Wind
 tags:
   - Kompendium/Optionales/ed

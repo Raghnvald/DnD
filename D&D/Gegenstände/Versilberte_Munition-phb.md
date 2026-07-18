@@ -3,22 +3,23 @@ Bezeichnung: Versilberte Munition
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Versilberte Munition
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/phb
 aliases:
-  - Versilberte Munition
   - Silvered Arrow
   - Silvered Bolt
   - Silvered Firearm Bullet
   - Silvered Needle
   - Silvered Sling Bullet
+  - Versilberte Munition
+status: WIP
 ---
 # Versilberte Munition
 *Ammunition, minor*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Evocation Spells
+Status: WIP
 linter-yaml-title-alias: Evocation Spells
 tags:
-  - Zauber/list/school/evocation
+  - Zauber/Liste/school/evocation
 aliases:
   - Evocation Spells
 ---

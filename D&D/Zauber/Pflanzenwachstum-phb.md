@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Plant Growth
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Plant Growth
 classes:
   - Bard (Magical Secrets)

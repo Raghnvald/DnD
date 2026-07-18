@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Observatory
+Status: WIP
 linter-yaml-title-alias: Observatory
 tags:
   - Kompendium/Bastion

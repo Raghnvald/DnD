@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Moorbounder
+Status: WIP
 linter-yaml-title-alias: Moorbounder
 tags:
   - Monster/Größe/Groß

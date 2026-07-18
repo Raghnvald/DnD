@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spore Servant Octopus
+Status: WIP
 linter-yaml-title-alias: Spore Servant Octopus
 tags:
   - Monster/Größe/Groß

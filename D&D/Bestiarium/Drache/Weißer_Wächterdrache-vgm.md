@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: White Guard Drake
-status: WIP
+Status: WIP
 linter-yaml-title-alias: White Guard Drake
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - White Guard Drake
+status: WIP
 ---
 # [White Guard Drake](3-Mechanics\CLI\bestiary\dragon/white-guard-drake-vgm.md)
 *Source: Volo's Guide to Monsters p. 158*  

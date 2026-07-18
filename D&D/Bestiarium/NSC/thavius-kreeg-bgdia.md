@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thavius Kreeg
+Status: WIP
 linter-yaml-title-alias: Thavius Kreeg
 tags:
   - Monster/Größe/Mittelgroß

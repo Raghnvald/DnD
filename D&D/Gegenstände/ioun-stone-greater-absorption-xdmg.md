@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Greater Absorption
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Greater Absorption
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

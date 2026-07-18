@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Widerstandsfähigkeit
+Status: WIP
 linter-yaml-title-alias: Gabe der Widerstandsfähigkeit
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Resilience

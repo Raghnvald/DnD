@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Tree Ghost)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Tree Ghost)
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Necromancer
+Status: WIP
 linter-yaml-title-alias: Necromancer
 tags:
   - Monster/Größe/Mittelgroß

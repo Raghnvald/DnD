@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tempest Spirit
+Status: WIP
 linter-yaml-title-alias: Tempest Spirit
 tags:
   - Monster/Größe/Riesig

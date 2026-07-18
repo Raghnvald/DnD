@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Manual of Bodily Health
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Manual of Bodily Health
 tags:
   - Gegenstand/Seltenheit/sehr_selten

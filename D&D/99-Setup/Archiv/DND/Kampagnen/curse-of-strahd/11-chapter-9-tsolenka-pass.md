@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 9: Tsolenka Pass"
+Status: WIP
 linter-yaml-title-alias: "Chapter 9: Tsolenka Pass"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 9: Tsolenka Pass"
-  - Chapter 9: Tsolenka Pass
 ---
 # Chapter 9: Tsolenka Pass
 *Source: Curse of Strahd, p. 157* 

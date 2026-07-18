@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir Items
+Status: WIP
 linter-yaml-title-alias: Dimir Items
 tags:
   - Quelle/5e/ggr

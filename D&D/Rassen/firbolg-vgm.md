@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Firbolg
+Status: WIP
 linter-yaml-title-alias: Firbolg
 tags:
   - Quelle/5e/vgm

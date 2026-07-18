@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rauchfass der Luftelementar-Herrschaft
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Rauchfass der Luftelementar-Herrschaft
 tags:
   - Gegenstand/Seltenheit/selten

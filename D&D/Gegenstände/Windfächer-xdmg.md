@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wind Fan
+Status: WIP
 linter-yaml-title-alias: Wind Fan
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

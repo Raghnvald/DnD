@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glücksspielergebnisse
+Status: WIP
 linter-yaml-title-alias: Glücksspielergebnisse
 tags:
   - Quelle/5e/xge

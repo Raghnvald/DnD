@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monsters by Habitat; Hill Monsters
+Status: WIP
 linter-yaml-title-alias: Monsters by Habitat; Hill Monsters
 tags:
   - Quelle/5e/xmm

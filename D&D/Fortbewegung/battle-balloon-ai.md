@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Battle Balloon
+Status: WIP
 linter-yaml-title-alias: Battle Balloon
 tags:
   - Quelle/5e/ai
-  - ttrpg-cli/vehicle/size/gargantuan
-  - ttrpg-cli/vehicle/terrain/air
-  - ttrpg-cli/vehicle/type/ship
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
+  - Gegenstand/Fortbewegung/Gelände/Luft
+  - Gegenstand/Fortbewegung/Kategorie/Schiff
 aliases:
-  - "Battle Balloon"
+  - Battle Balloon
   - Battle Balloon
 ---
 # Battle Balloon

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Herbalism Kit
+Status: WIP
 linter-yaml-title-alias: Herbalism Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

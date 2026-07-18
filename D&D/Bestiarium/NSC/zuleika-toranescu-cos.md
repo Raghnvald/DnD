@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zuleika Toranescu
+Status: WIP
 linter-yaml-title-alias: Zuleika Toranescu
 tags:
   - Monster/Größe/Mittelgroß

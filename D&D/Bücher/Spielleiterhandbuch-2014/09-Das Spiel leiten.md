@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 8: Das Spiel leiten"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 8: Das Spiel leiten"
 tags:
   - Quelle/5e/dmg

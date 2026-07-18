@@ -2,8 +2,7 @@
 prefer-view:
   - edit-source read
 Bezeichnung: Schwur der Wächter
-status:
-  - completed
+Status: WIP
 linter-yaml-title-alias: Schwur der Wächter
 tags:
   - Klasse/Paladin
@@ -13,6 +12,8 @@ aliases:
   - Schwur der Wächter
 link:
   - https://www.dndbeyond.com/classes/2190881-paladin
+status:
+  - completed
 type:
   - character
 ---

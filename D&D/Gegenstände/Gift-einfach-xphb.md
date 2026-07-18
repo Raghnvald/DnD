@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Basic Poison
+Status: WIP
 linter-yaml-title-alias: Basic Poison
 tags:
   - Gegenstand/Ausrüstung/

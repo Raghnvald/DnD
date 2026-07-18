@@ -1,27 +1,30 @@
 ---
-Bezeichnung: Trident of Fish Command
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Trident of Fish Command
+Bezeichnung: Dreizack der Fischherrschaft
+Original: Trident of Fish Command
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Dreizack der Fischherrschaft
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Trident of Fish Command
+  - Dreizack der Fischherrschaft
+status: WIP
 ---
-# Trident of Fish Command
-*Weapon ([trident](/3-Mechanics/CLI/items/trident.md)), major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/trident-of-fish-command.webp#right)
+# Dreizack der Fischherrschaft
+*Waffe ([[Dreizack-phb|Dreizack]]), ungewöhnlich (erfordert Einstimmung)*  
+![](img/trident-of-fish-command.webp#right)
 
-- **Damage**:
-  - One-handed: 1d6 piercing
-  - Two-handed: 1d8 piercing
-- **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 4.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d6 Stich
+  - Zweihändig: 1d8 Stich
+- **Reichweite**: 6/18
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Gewicht**: 2,0 kg
 
 This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast [dominate beast](/3-Mechanics/CLI/spells/dominate-beast.md) (save DC 15) from it on a beast that has an innate swimming speed. The trident regains `1d3` expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 209. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

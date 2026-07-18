@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weather; Wind
+Status: WIP
 linter-yaml-title-alias: Weather; Wind
 tags:
   - Quelle/5e/dmg

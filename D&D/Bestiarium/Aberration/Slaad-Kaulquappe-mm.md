@@ -5,7 +5,7 @@ Bezeichnung: Slaad-Kaulquappe
 Kategorie: Aberration
 Größe: Winzig
 HG: 1/8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Slaad-Kaulquappe
 tags:
   - Monster/Größe/Winzig
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Slaad-Kaulquappe
+status: WIP
 ---
 # Slaad-Kaulquappe
 *Quelle: Monsterhandbuch S. 258*  

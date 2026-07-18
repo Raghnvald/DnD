@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Academy Factotum Roles
+Status: WIP
 linter-yaml-title-alias: Academy Factotum Roles
 tags:
   - Quelle/5e/tce

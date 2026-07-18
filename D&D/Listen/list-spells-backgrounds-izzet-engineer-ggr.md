@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Izzet Engineer
+Status: WIP
 linter-yaml-title-alias: Spells for Izzet Engineer
 tags:
-  - Zauber/list/background/izzet-engineer
+  - Zauber/Liste/background/izzet-engineer
 aliases:
   - Spells for Izzet Engineer
 ---

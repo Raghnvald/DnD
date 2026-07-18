@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hypnotic Pattern
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Hypnotic Pattern
 classes:
   - Bard (Magical Secrets)

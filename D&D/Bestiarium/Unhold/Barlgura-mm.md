@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
-image:
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Barlgura
 tags:
   - Monster/Größe/Groß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Barlgura
+image:
+status: WIP
 ---
 # Barlgura
 *Quelle: Monsterhandbuch S. 38*  

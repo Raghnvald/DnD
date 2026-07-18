@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Arch-hag
+Status: WIP
 linter-yaml-title-alias: Arch-hag
 tags:
   - Monster/Größe/Groß

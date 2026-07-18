@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Animated Ghaunadaur Statue
+Status: WIP
 linter-yaml-title-alias: Animated Ghaunadaur Statue
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/wdmm
 aliases:
-  - "Animated Ghaunadaur Statue"
+  - Animated Ghaunadaur Statue
   - Animated Ghaunadaur Statue
 ---
 # Animated Ghaunadaur Statue

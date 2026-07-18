@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of Blades
+Status: WIP
 linter-yaml-title-alias: Path of Blades
 tags:
   - Kompendium/Bedrohung/cmpx

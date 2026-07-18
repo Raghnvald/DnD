@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mind Mage
+Status: WIP
 linter-yaml-title-alias: Mind Mage
 tags:
   - Monster/Größe/Mittelgroß

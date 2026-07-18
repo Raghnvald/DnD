@@ -1,13 +1,14 @@
 ---
-Bezeichnung: "Tasha's Caustic Brew"
+Bezeichnung: Tashas Ätzendes Gebräu
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: selbst (Linie von 9m)
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff:
 Schaden:
-linter-yaml-title-alias: "Tasha's Caustic Brew"
+Status: WIP
+linter-yaml-title-alias: Tashas Ätzendes Gebräu
 classes:
   - Artificer
   - Bard
@@ -24,17 +25,17 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/tce
   - Subklasse/evoker
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - "Tasha's Caustic Brew"
+  - Tashas Ätzendes Gebräu
 ---
-# Tasha's Caustic Brew
+# Tashas Ätzendes Gebräu
 *1st-level, Evocation*  
 
 - **Casting time:** 1 Action

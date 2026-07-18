@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sending
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Sending
 classes:
   - Bard (Magical Secrets)

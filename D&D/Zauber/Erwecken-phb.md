@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Erwecken
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Erwecken
 classes:
   - Bard (Magical Secrets)

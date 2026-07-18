@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Arcanaloth's Music Box"
+Status: WIP
 linter-yaml-title-alias: "Arcanaloth's Music Box"
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/toa
 aliases:
   - "Arcanaloth's Music Box"

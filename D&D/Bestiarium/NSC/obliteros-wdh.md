@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Obliteros
+Status: WIP
 linter-yaml-title-alias: Obliteros
 tags:
   - Monster/Größe/Riesig

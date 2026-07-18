@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Klothys's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Klothys's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/klothyss-votary
+  - Zauber/Liste/reward/klothyss-votary
 aliases:
   - "Spells for Klothys's Votary"
 ---

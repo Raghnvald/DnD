@@ -2,14 +2,15 @@
 Bezeichnung: Amber
 Kst.: 100 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amber
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Amber
+status: WIP
 ---
 # Amber
 *Treasure (gemstone)*  

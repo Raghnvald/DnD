@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hybrid Brute
+Status: WIP
 linter-yaml-title-alias: Hybrid Brute
 tags:
   - Monster/Größe/Mittelgroß

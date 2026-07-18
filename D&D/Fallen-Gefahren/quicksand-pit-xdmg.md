@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quicksand Pit
+Status: WIP
 linter-yaml-title-alias: Quicksand Pit
 tags:
   - Quelle/5e/xdmg

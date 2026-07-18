@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire Giant Encounters
+Status: WIP
 linter-yaml-title-alias: Fire Giant Encounters
 tags:
   - Quelle/5e/bgg

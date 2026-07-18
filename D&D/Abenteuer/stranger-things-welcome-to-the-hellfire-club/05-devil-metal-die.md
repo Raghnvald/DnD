@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Devil, Metal, Die!
+Status: WIP
 linter-yaml-title-alias: Devil, Metal, Die!
 tags:
   - Quelle/5e/wtthc
 aliases:
-  - "Devil, Metal, Die!"
+  - Devil, Metal, Die!
   - Devil, Metal, Die!
 ---
 # Devil, Metal, Die!

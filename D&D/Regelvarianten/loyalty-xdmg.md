@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loyalty
+Status: WIP
 linter-yaml-title-alias: Loyalty
 tags:
   - Quelle/5e/xdmg

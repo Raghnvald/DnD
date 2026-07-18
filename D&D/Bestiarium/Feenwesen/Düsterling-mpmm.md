@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darkling
+Status: WIP
 linter-yaml-title-alias: Darkling
 tags:
   - Monster/Größe/Klein

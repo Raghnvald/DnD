@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Glamoured Studded Leather
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Glamoured Studded Leather
 tags:
   - Gegenstand/Rüstung/Leicht

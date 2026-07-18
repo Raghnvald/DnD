@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Curse of Ruin
+Status: WIP
 linter-yaml-title-alias: Curse of Ruin
 tags:
-  - Kompendium/Belohnung/curse
+  - Kompendium/Belohnung/Fluch
   - Quelle/5e/tdcsr
 aliases:
   - Curse of Ruin

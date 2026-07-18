@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Yester Hill Axe
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Yester Hill Axe
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
@@ -9,6 +10,8 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Yester Hill Axe
+status: WIP
+Original: Yester Hill Axe
 ---
 # Yester Hill Axe
 *Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md))*  

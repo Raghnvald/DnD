@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cassiok Shadowdusk
+Status: WIP
 linter-yaml-title-alias: Cassiok Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß

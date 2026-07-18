@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of the Solipsistic Mind
+Status: WIP
 linter-yaml-title-alias: Blessing of the Solipsistic Mind
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/pabtso
 aliases:
   - Blessing of the Solipsistic Mind

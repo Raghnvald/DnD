@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fey Spirit (Mirthful)
+Status: WIP
 linter-yaml-title-alias: Fey Spirit (Mirthful)
 tags:
   - Monster/Größe/Klein

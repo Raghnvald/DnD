@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horizon Walker
+Status: WIP
 linter-yaml-title-alias: Horizon Walker
 tags:
   - Klasse/Waldläufer/horizon-walker

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manshoon
+Status: WIP
 linter-yaml-title-alias: Manshoon
 tags:
   - Monster/Größe/Mittelgroß

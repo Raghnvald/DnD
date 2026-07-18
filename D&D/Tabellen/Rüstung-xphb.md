@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor
+Status: WIP
 linter-yaml-title-alias: Armor
 tags:
   - Quelle/5e/xphb

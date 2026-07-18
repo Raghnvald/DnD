@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Hag; Hag Ideals
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Hag; Hag Ideals
 tags:
   - Quelle/5e/vgm

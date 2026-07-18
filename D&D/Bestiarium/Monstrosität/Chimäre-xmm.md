@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chimera
+Status: WIP
 linter-yaml-title-alias: Chimera
 tags:
   - Monster/Größe/Groß

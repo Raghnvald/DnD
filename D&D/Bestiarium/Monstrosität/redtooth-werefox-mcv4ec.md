@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Redtooth Werefox
+Status: WIP
 linter-yaml-title-alias: Redtooth Werefox
 tags:
   - Monster/Größe/Mittelgroß

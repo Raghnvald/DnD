@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Solonor Thelandira
+Status: WIP
 linter-yaml-title-alias: Solonor Thelandira
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/elven
   - Quelle/5e/scag
 aliases:
-  - "Solonor Thelandira"
+  - Solonor Thelandira
   - Solonor Thelandira
 ---
 # Solonor Thelandira

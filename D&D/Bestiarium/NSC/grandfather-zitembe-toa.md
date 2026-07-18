@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grandfather Zitembe
+Status: WIP
 linter-yaml-title-alias: Grandfather Zitembe
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nightmare
+Status: WIP
 linter-yaml-title-alias: Nightmare
 tags:
   - Monster/Größe/Groß

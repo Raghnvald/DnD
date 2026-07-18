@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Conjure Volley
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Conjure Volley
 classes:
   - Bard (Magical Secrets)

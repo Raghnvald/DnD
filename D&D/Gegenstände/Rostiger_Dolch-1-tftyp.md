@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rostiger Dolch +1
 Kategorie: Einfache Nahkampfwaffe
+Status: WIP
 linter-yaml-title-alias: Rostiger Dolch +1
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

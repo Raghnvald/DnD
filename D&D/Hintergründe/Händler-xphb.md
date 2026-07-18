@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Merchant
+Status: WIP
 linter-yaml-title-alias: Merchant
 tags:
   - Kompendium/Hintergrund

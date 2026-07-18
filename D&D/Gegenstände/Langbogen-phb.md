@@ -1,22 +1,31 @@
 ---
-Bezeichnung: Longbow
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Longbow
+Bezeichnung: Langbogen
+Original: Longbow
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 1d8 Stich
+Eigenschaften:
+  - Geschosse
+  - Schwer
+  - Zweihändig
+Kst.: 50 GM
+Gew.: 1,0 kg
+Status: completed
+linter-yaml-title-alias: Langbogen
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/phb
 aliases:
-  - Longbow
+  - Langbogen
 ---
-# Longbow
-*Weapon*  
+# Langbogen
+*Fernkampf-Kriegswaffe*
 
-- **Damage**: 1d8 piercing
-- **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Cost**: 50 gp
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d8 Stich
+- **Reichweite**: 45/180
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Kosten**: 50 GM
+- **Gewicht**: 1,0 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

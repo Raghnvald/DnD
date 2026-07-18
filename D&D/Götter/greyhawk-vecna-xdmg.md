@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Vecna
+Status: WIP
 linter-yaml-title-alias: Vecna
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Vecna

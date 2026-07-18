@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Far Traveler
+Status: WIP
 linter-yaml-title-alias: Far Traveler
 tags:
   - Kompendium/Hintergrund

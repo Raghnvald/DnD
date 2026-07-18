@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Genie Magic
+Status: WIP
 linter-yaml-title-alias: Genie Magic
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Genie Magic"
+  - Genie Magic
   - Genie Magic
 ---
 # Genie Magic

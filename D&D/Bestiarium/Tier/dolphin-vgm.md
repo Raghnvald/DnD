@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dolphin
+Status: WIP
 linter-yaml-title-alias: Dolphin
 tags:
   - Monster/Größe/Mittelgroß

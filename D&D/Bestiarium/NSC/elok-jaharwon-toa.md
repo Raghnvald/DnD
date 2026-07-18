@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elok Jaharwon
+Status: WIP
 linter-yaml-title-alias: Elok Jaharwon
 tags:
   - Monster/Größe/Mittelgroß

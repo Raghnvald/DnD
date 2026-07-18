@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lunging Attack
+Status: WIP
 linter-yaml-title-alias: Lunging Attack
 tags:
   - Kompendium/Optionales/mv-b

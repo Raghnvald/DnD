@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kalashtar
+Status: WIP
 linter-yaml-title-alias: Kalashtar
 tags:
   - Quelle/5e/erlw

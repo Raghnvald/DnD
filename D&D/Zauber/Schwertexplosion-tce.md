@@ -7,6 +7,7 @@ Komponenten: V, M
 Wirkungsdauer: 1 Runde
 Angriff: GES
 Schaden: 1d6 Energie
+Status: WIP
 linter-yaml-title-alias: Schwertexplosion
 classes:
   - Artificer
@@ -23,8 +24,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/tce
   - Rasse/elf/high-elf
   - Rasse/kobold

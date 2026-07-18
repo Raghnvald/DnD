@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armory
+Status: WIP
 linter-yaml-title-alias: Armory
 tags:
   - Kompendium/Bastion

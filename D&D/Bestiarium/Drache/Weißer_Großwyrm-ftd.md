@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: White Greatwyrm
-status: WIP
+Status: WIP
 linter-yaml-title-alias: White Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - White Greatwyrm
+status: WIP
 ---
 # [White Greatwyrm](3-Mechanics\CLI\bestiary\dragon/white-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

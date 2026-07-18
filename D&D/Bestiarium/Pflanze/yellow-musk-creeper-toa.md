@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yellow Musk Creeper
+Status: WIP
 linter-yaml-title-alias: Yellow Musk Creeper
 tags:
   - Monster/Größe/Mittelgroß

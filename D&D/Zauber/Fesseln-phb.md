@@ -1,7 +1,8 @@
 ---
-Bezeichnung: Enthrall
+Bezeichnung: Fesseln
 Zaubergrad: 2
-linter-yaml-title-alias: Enthrall
+Status: WIP
+linter-yaml-title-alias: Fesseln
 classes:
   - Bard (Magical Secrets)
   - Warlock
@@ -12,9 +13,10 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verzauberung
 aliases:
-  - Enthrall
+  - Fesseln
+Zeitaufwand: 1 Aktion
 ---
-# Enthrall
+# Fesseln
 *2nd-level, Enchantment*  
 
 - **Casting time:** 1 Action

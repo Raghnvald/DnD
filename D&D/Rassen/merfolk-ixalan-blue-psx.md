@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Merfolk (Ixalan; Blue)
+Status: WIP
 linter-yaml-title-alias: Merfolk (Ixalan; Blue)
 tags:
   - Quelle/5e/psx
   - Rasse/merfolk/ixalan-blue
 aliases:
-  - "Merfolk (Ixalan; Blue)"
+  - Merfolk (Ixalan; Blue)
   - Merfolk (Ixalan; Blue)
 ---
 # Merfolk (Ixalan; Blue)

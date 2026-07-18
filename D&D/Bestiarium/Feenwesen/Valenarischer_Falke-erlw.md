@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valenar Hawk
+Status: WIP
 linter-yaml-title-alias: Valenar Hawk
 tags:
   - Monster/Größe/Winzig

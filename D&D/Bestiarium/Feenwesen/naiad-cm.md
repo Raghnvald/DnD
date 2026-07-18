@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Naiad
+Status: WIP
 linter-yaml-title-alias: Naiad
 tags:
   - Monster/Größe/Mittelgroß

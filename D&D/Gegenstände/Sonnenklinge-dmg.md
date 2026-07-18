@@ -1,25 +1,33 @@
 ---
-Bezeichnung: Sun Blade
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Sun Blade
+Bezeichnung: Sonnenklinge
+Original: Sun Blade
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1W8 Gleißend
+Eigenschaften:
+  - Finesse
+  - Vielseitig (1W10)
+Kst.: n/v
+Gew.: 1,5 kg
+Status: WIP
+linter-yaml-title-alias: Sonnenklinge
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Sun Blade
+  - Sonnenklinge
 ---
-# Sun Blade
-*Weapon ([Langschwert](Langschwert-phb)), major, rare (requires attunement)*  
-![](img/sun-blade.webp#right)
+# Sonnenklinge
+*Weapon ([Langschwert](Langschwert-phb)), major, rare (requires attunement)*
+<img src="sun-blade.webp" align="right" width="150">
 
-- **Damage**:
-  - One-handed: 1d8 radiant
-  - Two-handed: 1d10 radiant
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Gleißend
+  - Zweihändig: 1W10 Gleißend
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]],  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
 This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [shortswords](/3-Mechanics/CLI/items/shortsword.md) or [longswords](/3-Mechanics/CLI/items/longsword.md), you are proficient with the sun blade.
 

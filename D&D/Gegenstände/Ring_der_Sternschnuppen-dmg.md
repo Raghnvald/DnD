@@ -2,16 +2,18 @@
 Bezeichnung: Ring der Sternschnuppen
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung nachts im Freien
-status: completed
+  - /
+Status: WIP
+Einstimmung: nachts im Freien
 linter-yaml-title-alias: Ring der Sternschnuppen
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring der Sternschnuppen
+status: completed
 ---
 # Ring der Sternschnuppen
 *Ring, sehr selten (benötigt Einstimmung nachts im Freien)*  

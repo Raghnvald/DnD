@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Arrow
+Status: WIP
 linter-yaml-title-alias: Arrow
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

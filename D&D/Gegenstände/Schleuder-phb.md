@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Schleuder
-Kategorie: Einfache Fernkampfwaffe
+Original: Sling
+Kategorie: Fernkampfwaffe, einfach
 Schaden: 1W6 Wucht
 Eigenschaften:
   - Geschosse
-Einstimmung: /
+Einstimmung: n/v
 Kst.: 1 SM
-Gew.: /
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Schleuder
 tags:
   - Gegenstand/Seltenheit/keine

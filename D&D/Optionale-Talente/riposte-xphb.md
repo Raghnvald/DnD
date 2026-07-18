@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Riposte
+Status: WIP
 linter-yaml-title-alias: Riposte
 tags:
   - Kompendium/Optionales/mv-b

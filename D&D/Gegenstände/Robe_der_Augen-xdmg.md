@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Robe of Eyes
+Status: WIP
 linter-yaml-title-alias: Robe of Eyes
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:

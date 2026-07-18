@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rowboat
+Status: WIP
 linter-yaml-title-alias: Rowboat
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

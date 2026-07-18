@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Umhang des Scharlatans
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Umhang des Scharlatans
 tags:
   - Gegenstand/Seltenheit/selten

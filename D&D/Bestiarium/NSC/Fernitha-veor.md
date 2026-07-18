@@ -2,8 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fernitha
+Original: Fernitha
+Kategorie: Unhold (Teufel)
+Größe: Mittelgroß
+HG: "12"
+Habitat:
+  - /
 Image: token/fernitha-veor.webp
-status: WIP
+Status: completed
 linter-yaml-title-alias: Fernitha
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,15 +18,9 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Fernitha
-Kategorie: Unhold (Teufel)
-Größe: Mittelgroß
-HG: "12"
-Habitat:
-  - /
-IMAGE:
 ---
 # Fernitha
-*Source: Vecna: Eve of Ruin*
+*Quelle: Vecna: Vorabend der Verdammnis*
 
 > [!statblock] Fernitha
 > ![[token/Fernitha-veor.webp|right|100]]
@@ -56,7 +56,7 @@ IMAGE:
 > 
 > ***Langschwert.*** *Nahkampf-Waffenangriff:* +8 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 8 (`1d8 + 4`) Hiebschaden, oder 9 (`1d10 + 4`) Hiebschaden, wenn die Waffe mit beiden Händen geführt wird, plus 13 (`3d8`) Giftschaden.
 > 
-> ***Langbogen.*** *Fernkampf-Waffenangriff:* +7 zum Treffen, Reichweite 45/180 Meter, ein Ziel. *Treffer:* 7 (`1d8 + 3`) Stichschaden plus 13 (`3d8`) Giftschaden, und das Ziel muss einen Konstitutionsrettungswurf gegen SG 14 ablegen, um nicht den Zustand vergiftet zu erleiden. Das Gift hält an, bis es durch den Zauber Schwache Genesung oder ähnliche Magie geheilt wird. 
+> ***Langbogen.*** *Fernkampf-Waffenangriff:* +7 zum Treffen, Reichweite 45/180 Meter, ein Ziel. *Treffer:* 7 (`1d8 + 3`) Stichschaden plus 13 (`3d8`) Giftschaden, und das Ziel muss einen `Konstitutions-Rettungswurf` gegen `SG 14` ablegen, um nicht den Zustand vergiftet zu erleiden. Das Gift hält an, bis es durch den Zauber Schwache Genesung oder ähnliche Magie geheilt wird. 
 > 
 > ## Reaktionen
 > 

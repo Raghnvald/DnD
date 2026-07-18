@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Handschuhe des Diebstahls
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Handschuhe des Diebstahls
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lulu
+Status: WIP
 linter-yaml-title-alias: Lulu
 tags:
   - Monster/Größe/Klein

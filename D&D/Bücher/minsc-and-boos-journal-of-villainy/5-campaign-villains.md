@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Campaign Villains
+Status: WIP
 linter-yaml-title-alias: Campaign Villains
 tags:
   - Quelle/5e/mabjov
 aliases:
-  - "Campaign Villains"
+  - Campaign Villains
   - Campaign Villains
 ---
 # Campaign Villains

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Sahuagin Warlock of Uk'otoa (Rod of Retribution)"
+Status: WIP
 linter-yaml-title-alias: "Sahuagin Warlock of Uk'otoa (Rod of Retribution)"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - "Sahuagin Warlock of Uk'otoa (Rod of Retribution)"
-  - Sahuagin Warlock of Uk'otoa (Rod of Retribution)
 ---
 # [Sahuagin Warlock of Uk'otoa (Rod of Retribution)](3-Mechanics\CLI\bestiary\humanoid/sahuagin-warlock-of-ukotoa-rod-of-retribution-egw.md)
 *Source: Explorer's Guide to Wildemount p. 297*  

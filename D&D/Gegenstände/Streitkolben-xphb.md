@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mace
+Status: WIP
 linter-yaml-title-alias: Mace
 tags:
   - Gegenstand/Seltenheit/keine

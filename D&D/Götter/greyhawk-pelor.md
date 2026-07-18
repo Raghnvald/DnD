@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Pelor
+Status: WIP
 linter-yaml-title-alias: Pelor
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Pelor

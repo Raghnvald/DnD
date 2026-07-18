@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 10: Hold of the Storm Giants"
+Status: WIP
 linter-yaml-title-alias: "Chapter 10: Hold of the Storm Giants"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Chapter 10: Hold of the Storm Giants"
-  - Chapter 10: Hold of the Storm Giants
 ---
 # Chapter 10: Hold of the Storm Giants
 *Source: Storm King's Thunder, p. 201* 

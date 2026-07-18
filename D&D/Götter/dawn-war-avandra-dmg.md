@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Avandra
+Status: WIP
 linter-yaml-title-alias: Avandra
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Quelle/5e/dmg
 aliases:
   - Avandra

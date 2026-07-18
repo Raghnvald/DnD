@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sul Khatesh
+Status: WIP
 linter-yaml-title-alias: Sul Khatesh
 tags:
   - Monster/Größe/Groß

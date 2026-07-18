@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Berei
+Status: WIP
 linter-yaml-title-alias: Berei
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Berei

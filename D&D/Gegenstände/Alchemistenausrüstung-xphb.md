@@ -1,10 +1,10 @@
 ---
 Bezeichnung: "Alchemist's Supplies"
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
 Gew.: 4,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: "Alchemist's Supplies"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Plainscow
+Status: WIP
 linter-yaml-title-alias: Plainscow
 tags:
   - Monster/Größe/Groß

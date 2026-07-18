@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ring of Telekinesis
+Status: WIP
 linter-yaml-title-alias: Ring of Telekinesis
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg

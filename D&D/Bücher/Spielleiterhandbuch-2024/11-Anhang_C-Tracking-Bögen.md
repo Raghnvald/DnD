@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix C: Tracking Sheets"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Tracking Sheets"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Appendix C: Tracking Sheets"
-  - Appendix C: Tracking Sheets
 ---
 # Appendix C: Tracking Sheets
 *Source: Dungeon Master's Guide (2024)* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Weaver's Tools"
+Status: WIP
 linter-yaml-title-alias: "Weaver's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - "Weaver's Tools"
-  - Weaver's Tools
 ---
 # Weaver's Tools
 *Artisan's tools*  

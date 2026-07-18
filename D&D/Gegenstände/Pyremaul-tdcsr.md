@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Pyremaul
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Pyremaul
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
   - Pyremaul
+status: WIP
+Original: Pyremaul
 ---
 # Pyremaul
 *Weapon ([maul](/3-Mechanics/CLI/items/maul-xphb.md)), legendary (requires attunement)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter (Longtooth)
+Status: WIP
 linter-yaml-title-alias: Shifter (Longtooth)
 tags:
   - Quelle/5e/erlw

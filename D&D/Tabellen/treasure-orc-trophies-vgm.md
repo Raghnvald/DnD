@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Treasure; Orc Trophies
+Status: WIP
 linter-yaml-title-alias: Treasure; Orc Trophies
 tags:
   - Quelle/5e/vgm

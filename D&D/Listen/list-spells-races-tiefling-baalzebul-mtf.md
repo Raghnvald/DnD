@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Baalzebul)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Baalzebul)
 tags:
-  - Zauber/list/subrace/tiefling-baalzebul
+  - Zauber/Liste/subrace/tiefling-baalzebul
 aliases:
   - Spells for Tiefling (Baalzebul)
 ---

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Gluebomb
-Kategorie: Explosives 
+Original: Gluebomb
+Kategorie: Sprengstoff
+Status: WIP
 linter-yaml-title-alias: Gluebomb
 tags:
   - Gegenstand/Seltenheit/keine

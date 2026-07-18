@@ -8,7 +8,7 @@ HG: 2
 Habitat:
   - Berg
   - Stadt
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Silver Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Silver Dragon Wyrmling
+status: WIP
 ---
 # [Silver Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/silver-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

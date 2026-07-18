@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Instrument of Scribing
+Status: WIP
 linter-yaml-title-alias: Instrument of Scribing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

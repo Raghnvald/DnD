@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Revolver
-Kategorie: Fernkampf-Kriegswaffe
+Original: Revolver
+Kategorie: Fernkampfwaffe, Kriegswaffe
 Schaden: 2d8 Stich
 Eigenschaften:
-  - Geschosse, Nachladen (6 Schuss)
-Einstimmung: /
-Kst.: /
+  - Geschosse
+  - Nachladen (6 Schuss)
+Einstimmung: n/v
+Kst.: n/v
 Gew.: 1,5 kg
+Status: WIP
 linter-yaml-title-alias: Revolver
 tags:
   - Gegenstand/Seltenheit/keine
@@ -17,6 +20,7 @@ tags:
 aliases:
   - Revolver
 RW: 12m /36m
+status: WIP
 ---
 # Revolver
 *Waffe*  

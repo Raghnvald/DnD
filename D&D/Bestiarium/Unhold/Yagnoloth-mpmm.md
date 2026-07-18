@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yagnoloth
+Status: WIP
 linter-yaml-title-alias: Yagnoloth
 tags:
   - Monster/Größe/Groß

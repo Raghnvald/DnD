@@ -3,11 +3,12 @@ Bezeichnung: Schild des Silbernen Drachen
 Rüstung: Schild
 Eigenschaften:
   - /
-Kst.: /
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schild des Silbernen Drachen
 tags:
   - Gegenstand/Rüstung/Schild/
@@ -15,6 +16,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Schild des Silbernen Drachen
+status: WIP
 ---
 # Schild des Silbernen Drachen
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), major, rare*  

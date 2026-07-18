@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vampiric Touch
+Status: WIP
 linter-yaml-title-alias: Vampiric Touch
 classes:
   - Bard

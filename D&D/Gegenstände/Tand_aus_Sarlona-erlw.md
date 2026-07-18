@@ -2,10 +2,10 @@
 Bezeichnung: Tand aus Sarlona
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Tand aus Sarlona
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Tand aus Sarlona
+status: WIP
 ---
 # Tand aus Sarlona
 *Adventuring gear*  

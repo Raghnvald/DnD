@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Carousing"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Carousing"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Downtime Activity: Carousing"
-  - Downtime Activity: Carousing
 ---
 # Downtime Activity: Carousing
 *Source: Dungeon Master's Guide p. 128* 

@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Turtle Ship
+Status: WIP
 linter-yaml-title-alias: Turtle Ship
 tags:
   - Quelle/5e/aag
-  - ttrpg-cli/vehicle/terrain/sea
-  - ttrpg-cli/vehicle/terrain/space
-  - ttrpg-cli/vehicle/type/spelljammer
+  - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Gelände/Weltall
+  - Gegenstand/Fortbewegung/Kategorie/Spelljammer
 aliases:
-  - "Turtle Ship"
+  - Turtle Ship
   - Turtle Ship
 ---
 # Turtle Ship

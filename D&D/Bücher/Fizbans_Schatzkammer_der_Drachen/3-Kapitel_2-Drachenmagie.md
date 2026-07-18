@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Magic
+Status: WIP
 linter-yaml-title-alias: Dragon Magic
 tags:
   - Quelle/5e/ftd

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myconid Adult
+Status: WIP
 linter-yaml-title-alias: Myconid Adult
 tags:
   - Monster/Größe/Mittelgroß

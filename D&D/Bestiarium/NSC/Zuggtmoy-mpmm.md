@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zuggtmoy
+Status: WIP
 linter-yaml-title-alias: Zuggtmoy
 tags:
   - Monster/Größe/Groß

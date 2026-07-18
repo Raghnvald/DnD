@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Evil Mage
 Image: token/evil-mage-lmop.webp
+Status: WIP
 linter-yaml-title-alias: Evil Mage
 tags:
   - Monster/Größe/Mittelgroß

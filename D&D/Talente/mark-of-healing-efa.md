@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Healing
+Status: WIP
 linter-yaml-title-alias: Mark of Healing
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Healing"
+  - Mark of Healing
   - Mark of Healing
 ---
 # Mark of Healing

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Expert
+Status: WIP
 linter-yaml-title-alias: Expert
 tags:
   - Monster/Größe/Mittelgroß

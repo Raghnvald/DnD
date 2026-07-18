@@ -1,9 +1,10 @@
 ---
 Bezeichnung: +3 Dragonhide Belt
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: +3 Dragonhide Belt
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ftd
 aliases:

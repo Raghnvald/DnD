@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ember
+Status: WIP
 linter-yaml-title-alias: Ember
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Lists
+Status: WIP
 linter-yaml-title-alias: Index of Lists
 aliases:
   - Index of Lists

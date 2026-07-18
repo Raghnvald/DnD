@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Eilistraee
+Status: WIP
 linter-yaml-title-alias: Eilistraee
 tags:
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/drow
   - Quelle/5e/scag
 aliases:
-  - "Eilistraee"
+  - Eilistraee
   - Eilistraee
 ---
 # Eilistraee

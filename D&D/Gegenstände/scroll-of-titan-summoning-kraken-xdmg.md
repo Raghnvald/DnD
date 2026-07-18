@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Kraken)
+Status: WIP
 linter-yaml-title-alias: Scroll of Titan Summoning (Kraken)
 tags:
   - Gegenstand/Seltenheit/legendär

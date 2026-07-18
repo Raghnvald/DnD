@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Quickened Spell
+Status: WIP
 linter-yaml-title-alias: Quickened Spell
 tags:
   - Kompendium/Optionales/mm

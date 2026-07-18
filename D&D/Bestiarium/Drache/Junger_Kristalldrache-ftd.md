@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Crystal Dragon
+Status: WIP
 linter-yaml-title-alias: Young Crystal Dragon
 tags:
   - Monster/Größe/Groß

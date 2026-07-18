@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Claugiyliamatar's Lair"
+Status: WIP
 linter-yaml-title-alias: "Claugiyliamatar's Lair"
 tags:
   - Quelle/5e/sdw

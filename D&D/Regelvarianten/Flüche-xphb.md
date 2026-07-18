@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Curses
+Status: WIP
 linter-yaml-title-alias: Curses
 tags:
   - Quelle/5e/xphb

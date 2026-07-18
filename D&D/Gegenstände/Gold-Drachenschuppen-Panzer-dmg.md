@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Gold Dragon Scale Mail
+Original: Gold Dragon Scale Mail
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Gold Dragon Scale Mail
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Scientist
+Status: WIP
 linter-yaml-title-alias: Simic Scientist
 tags:
   - Kompendium/Hintergrund

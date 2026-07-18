@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 15
 Habitat:
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Green Dragon
 tags:
   - Monster/Größe/Riesig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Adult Green Dragon
+status: WIP
 ---
 # [Adult Green Dragon](3-Mechanics\CLI\bestiary\dragon/adult-green-dragon.md)
 *Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

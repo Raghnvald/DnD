@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Green Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Green Dragon
 tags:
   - Monster/Größe/Gigantisch

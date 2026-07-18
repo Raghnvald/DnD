@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Anhang B: Magische Gegenstände"
+Status: WIP
 linter-yaml-title-alias: "Anhang B: Magische Gegenstände"
 tags:
   - Quelle/5e/pabtso
 aliases:
   - "Anhang B: Magische Gegenstände"
-  - Appendix B: Magic Items
+  - "Appendix B: Magic Items"
 ---
 # Anhang B: Magische Gegenstände
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk, S. 217* 

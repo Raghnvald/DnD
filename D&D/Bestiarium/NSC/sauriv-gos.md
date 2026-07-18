@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sauriv
+Status: WIP
 linter-yaml-title-alias: Sauriv
 tags:
   - Monster/Größe/Mittelgroß

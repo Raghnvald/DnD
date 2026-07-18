@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Shadow Magic
+Status: WIP
 linter-yaml-title-alias: Spells for Shadow Magic
 tags:
-  - Zauber/list/subclass/shadow-magic
+  - Zauber/Liste/subclass/shadow-magic
 aliases:
   - Spells for Shadow Magic
 ---

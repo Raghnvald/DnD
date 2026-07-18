@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Purify Food and Drink
+Bezeichnung: Nahrung und Wasser reinigen
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Purify Food and Drink
+Zeitaufwand: 1 Aktion
+Reichweite: 3 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Nahrung und Wasser reinigen
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -18,17 +19,17 @@ tags:
   - Klasse/Druide
   - Klasse/Kleriker
   - Klasse/paladin
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/ritual-caster/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Ritualwirker/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/optfeature/book-of-ancient-secrets
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
 aliases:
-  - Purify Food and Drink
+  - Nahrung und Wasser reinigen
 ---
-# Purify Food and Drink
+# Nahrung und Wasser reinigen
 *1st-level, Transmutation (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

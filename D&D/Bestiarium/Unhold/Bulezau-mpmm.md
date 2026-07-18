@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bulezau
+Status: WIP
 linter-yaml-title-alias: Bulezau
 tags:
   - Monster/Größe/Mittelgroß

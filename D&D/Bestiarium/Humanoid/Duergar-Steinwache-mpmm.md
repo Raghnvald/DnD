@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Stone Guard
+Status: WIP
 linter-yaml-title-alias: Duergar Stone Guard
 tags:
   - Monster/Größe/Mittelgroß

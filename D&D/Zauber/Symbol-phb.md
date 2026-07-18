@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Symbol
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Symbol
 classes:
   - Bard (Magical Secrets)

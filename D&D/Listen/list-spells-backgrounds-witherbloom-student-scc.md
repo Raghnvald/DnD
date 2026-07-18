@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Witherbloom Student
+Status: WIP
 linter-yaml-title-alias: Spells for Witherbloom Student
 tags:
-  - ttrpg-cli/spell/list/background/witherbloom-student
+  - Zauber/Liste/background/witherbloom-student
 aliases:
-  - "Spells for Witherbloom Student"
+  - Spells for Witherbloom Student
   - Spells for Witherbloom Student
 ---
 # Spells for Witherbloom Student

@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Expeditious Retreat
+Bezeichnung: Rascher Rückzug
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Bonusaktion
+Reichweite: selbst
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff:
 Schaden:
-linter-yaml-title-alias: Expeditious Retreat
+Status: WIP
+linter-yaml-title-alias: Rascher Rückzug
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -21,15 +22,15 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
 aliases:
-  - Expeditious Retreat
+  - Rascher Rückzug
 ---
-# Expeditious Retreat
+# Rascher Rückzug
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 Bonus Action

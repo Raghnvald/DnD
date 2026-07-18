@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Dornenhagel
 Zaubergrad: 1
+Zeitaufwand: 1 Bonusaktion
+Komponenten: V
+Status: WIP
 linter-yaml-title-alias: Dornenhagel
 classes:
   - Bard (Magical Secrets)
@@ -13,6 +16,8 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Dornenhagel
+Reichweite: selbst
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 ---
 # Dornenhagel
 *Beschwörung des 1. Grades*

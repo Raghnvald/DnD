@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Waffenmeister
-linter-yaml-title-alias: Weapon Master
+Status: WIP
+linter-yaml-title-alias: Waffenmeister
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Weapon Master
+  - Waffenmeister
 ---
 # Waffenmeister
 *Source: Player's Handbook p. 170*  

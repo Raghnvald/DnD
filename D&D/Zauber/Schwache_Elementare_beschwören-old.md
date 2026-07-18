@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Schwache Elementare beschwören
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Schwache Elementare beschwören
 tags:
   - Klasse/Druide

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Liondrake
+Status: WIP
 linter-yaml-title-alias: Liondrake
 tags:
   - Monster/Größe/Groß

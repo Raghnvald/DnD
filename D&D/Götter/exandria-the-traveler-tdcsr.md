@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Traveler
+Status: WIP
 linter-yaml-title-alias: The Traveler
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Artagan

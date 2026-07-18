@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards
+Status: WIP
 linter-yaml-title-alias: Instrument of the Bards
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:

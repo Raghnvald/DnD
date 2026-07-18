@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Fiends"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Fiends"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Fiends"
-  - Monsters' Desires; Fiends
 ---
 # Monsters' Desires; Fiends
 *Source: Tasha's Cauldron of Everything p. 148* 

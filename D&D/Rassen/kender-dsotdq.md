@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Kender
+Status: WIP
 linter-yaml-title-alias: Kender
 tags:
   - Quelle/5e/dsotdq
   - Rasse/kender
 aliases:
-  - "Kender"
+  - Kender
   - Kender
 ---
 # Kender

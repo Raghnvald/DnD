@@ -1,6 +1,7 @@
 ---
 Bezeichnung: True Polymorph
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: True Polymorph
 classes:
   - Bard (Magical Secrets)

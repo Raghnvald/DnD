@@ -7,7 +7,7 @@ Größe: Winzig
 HG: 1/8
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Knife
 tags:
   - Monster/Größe/Winzig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Animated Knife
+status: WIP
 ---
 # [Animated Knife](3-Mechanics\CLI\bestiary\construct/animated-knife-egw.md)
 *Source: Explorer's Guide to Wildemount p. 248*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; General Furnishings and Appointments
+Status: WIP
 linter-yaml-title-alias: Dungeon Dressing; General Furnishings and Appointments
 tags:
   - Quelle/5e/dmg

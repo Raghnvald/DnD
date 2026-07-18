@@ -1,14 +1,15 @@
 ---
-Bezeichnung: Bard Spells
-linter-yaml-title-alias: Bard Spells
+Bezeichnung: Bardenzauber
+Status: WIP
+linter-yaml-title-alias: Bardenzauber
 tags:
-  - Zauber/list/class/bard
+  - Zauber/Liste/class/bard
 aliases:
-  - Bard Spells
+  - Bardenzauber
 ---
-# Bard Spells
+# Bardenzauber
 
-## Cantrip
+## Zaubertricks
 
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md "XPHB")
 - [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md "XPHB")

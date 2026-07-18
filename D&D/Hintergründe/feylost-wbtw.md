@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Feylost
+Status: WIP
 linter-yaml-title-alias: Feylost
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/wbtw
 aliases:
-  - "Feylost"
+  - Feylost
   - Feylost
 ---
 # Feylost

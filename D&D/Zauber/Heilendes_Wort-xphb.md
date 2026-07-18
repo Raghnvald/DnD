@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Healing Word
+Status: WIP
 linter-yaml-title-alias: Healing Word
 classes:
   - Artificer (Alchemist)
@@ -13,7 +14,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/xphb
   - Subklasse/Alchemist
   - Subklasse/divine-soul/good

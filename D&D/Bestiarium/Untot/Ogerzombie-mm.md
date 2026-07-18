@@ -8,8 +8,7 @@ Größe: Groß
 HG: 2
 Habitat:
   - /
-image: token/ogre-zombie.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ogre Zombie
 tags:
   - Monster/Größe/Groß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ogre Zombie
+image: token/ogre-zombie.webp
+status: completed
 ---
 # [Ogre Zombie](3-Mechanics\CLI\bestiary\undead/ogre-zombie.md)
 *Source: Monster Manual p. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

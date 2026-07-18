@@ -2,7 +2,7 @@
 Bezeichnung: Abdeckbare Laterne
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 1,0 kg
 Status: completed
@@ -13,13 +13,12 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Abdeckbare Laterne
-  - Hooded Lantern
 ---
 # Abdeckbare Laterne
 *Abenteuerausrüstung*  
 
-- **Kosten**: 5 Goldmünzen
-- **Gewicht**: 1,0 kg.
+- **Kosten**: 5 GM
+- **Gewicht**: 1,0 kg
 
 Eine abdeckbare Laterne spendet im Radius von neun Metern helles Licht sowie im Radius von weiteren neun Metern dämmriges Licht. Sie brennt mit einer Flasche Öl (0,5 Liter) sechs Stunden lang. Du kannst als Aktion die Haube absenken und so das Licht auf dämmriges Licht in einem Radius von 1,5 Metern reduzieren.
 

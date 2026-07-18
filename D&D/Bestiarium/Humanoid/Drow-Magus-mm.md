@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Mage
+Status: WIP
 linter-yaml-title-alias: Drow Mage
 tags:
   - Monster/Größe/Mittelgroß

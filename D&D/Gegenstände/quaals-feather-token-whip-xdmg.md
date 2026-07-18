@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Whip"
+Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token, Whip"
 tags:
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/xdmg
 aliases:
   - "Quaal's Feather Token, Whip"
-  - Quaal's Feather Token, Whip
 ---
 # Quaal's Feather Token, Whip
 *Wondrous item, rare*  

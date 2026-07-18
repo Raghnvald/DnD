@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: G
 Wirkungsdauer: Konzentration, bis zu 1 Runde
-Angriff: nichts
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Zielsicherer Schlag
 classes:
   - Bard (Magical Secrets)
@@ -21,7 +22,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high

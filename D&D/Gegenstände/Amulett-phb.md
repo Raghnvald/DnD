@@ -2,10 +2,10 @@
 Bezeichnung: Amulett
 Kategorie: Fokus, Heiliges Symbol
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 0,5 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Amulett
 tags:
   - Gegenstand/Ausrüstung

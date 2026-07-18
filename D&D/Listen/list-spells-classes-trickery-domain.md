@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Trickery Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Trickery Domain
 tags:
-  - Zauber/list/subclass/trickery-domain
+  - Zauber/Liste/subclass/trickery-domain
 aliases:
   - Spells for Trickery Domain
 ---

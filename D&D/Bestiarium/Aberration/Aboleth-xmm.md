@@ -9,7 +9,7 @@ Habitat:
   - Unterreich
   - Unterwasser
 Image: token/aboleth-xmm.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aboleth
 tags:
   - Monster/Größe/Groß
@@ -20,6 +20,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Aboleth
+status: WIP
 ---
 # [Aboleth](3-Mechanics\CLI\bestiary\aberration/aboleth-xmm.md)
 *Source: Monster Manual (2024) p. 12. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

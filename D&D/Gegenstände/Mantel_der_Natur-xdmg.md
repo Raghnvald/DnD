@@ -1,13 +1,13 @@
 ---
 Bezeichnung: "Nature's Mantle"
+Status: WIP
 linter-yaml-title-alias: "Nature's Mantle"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - "Nature's Mantle"
-  - Nature's Mantle
 ---
 # Nature's Mantle
 *Wondrous item, uncommon (requires attunement by a druid or ranger)*  

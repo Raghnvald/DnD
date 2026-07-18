@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magical Effect
+Status: WIP
 linter-yaml-title-alias: Magical Effect
 tags:
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Malison (Type 1)
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Malison (Type 1)
 tags:
   - Monster/Größe/Mittelgroß

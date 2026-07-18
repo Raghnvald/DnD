@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation - Dragonmarks"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Character Creation - Dragonmarks"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Chapter 1: Character Creation - Dragonmarks"
-  - Chapter 1: Character Creation - Dragonmarks
 ---
 # Chapter 1: Character Creation - Dragonmarks
 *Source: Eberron: Rising from the Last War, p. 37* 

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Running a Business"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Running a Business"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Downtime Activity: Running a Business"
-  - Downtime Activity: Running a Business
 ---
 # Downtime Activity: Running a Business
 *Source: Dungeon Master's Guide p. 129* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dissonant Whispers
+Status: WIP
 linter-yaml-title-alias: Dissonant Whispers
 classes:
   - Bard

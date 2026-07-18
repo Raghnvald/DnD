@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ender Dragon
+Status: WIP
 linter-yaml-title-alias: Ender Dragon
 tags:
   - Monster/Größe/Gigantisch

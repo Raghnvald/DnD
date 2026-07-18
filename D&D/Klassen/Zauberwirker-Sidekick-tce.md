@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spellcaster Sidekick
+Status: WIP
 linter-yaml-title-alias: Spellcaster Sidekick
 tags:
   - Klasse/spellcaster-sidekick

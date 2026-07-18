@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cosmotronic Blastseeker
+Status: WIP
 linter-yaml-title-alias: Cosmotronic Blastseeker
 tags:
   - Monster/Größe/Mittelgroß

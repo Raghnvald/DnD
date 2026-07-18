@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Philter of Love
+Status: WIP
 linter-yaml-title-alias: Philter of Love
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

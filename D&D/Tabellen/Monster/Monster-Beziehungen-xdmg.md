@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Relationships
+Status: WIP
 linter-yaml-title-alias: Monster Relationships
 tags:
   - Quelle/5e/xdmg

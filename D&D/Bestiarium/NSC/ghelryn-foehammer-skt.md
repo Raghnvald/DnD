@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ghelryn Foehammer
+Status: WIP
 linter-yaml-title-alias: Ghelryn Foehammer
 tags:
   - Monster/Größe/Mittelgroß

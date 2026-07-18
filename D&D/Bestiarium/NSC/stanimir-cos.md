@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stanimir
+Status: WIP
 linter-yaml-title-alias: Stanimir
 tags:
   - Monster/Größe/Mittelgroß

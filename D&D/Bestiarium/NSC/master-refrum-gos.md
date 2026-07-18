@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Master Refrum
+Status: WIP
 linter-yaml-title-alias: Master Refrum
 tags:
   - Monster/Größe/Mittelgroß

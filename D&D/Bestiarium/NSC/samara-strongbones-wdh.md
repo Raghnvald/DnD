@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Samara Strongbones
+Status: WIP
 linter-yaml-title-alias: Samara Strongbones
 tags:
   - Monster/Größe/Mittelgroß

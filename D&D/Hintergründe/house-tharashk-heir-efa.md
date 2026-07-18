@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Tharashk Heir
+Status: WIP
 linter-yaml-title-alias: House Tharashk Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Tharashk Heir"
+  - House Tharashk Heir
   - House Tharashk Heir
 ---
 # House Tharashk Heir

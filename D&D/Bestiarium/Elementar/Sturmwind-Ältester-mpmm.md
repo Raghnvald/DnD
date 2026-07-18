@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Elder Tempest
 Kategorie: Elementar
 Größe: Gigantisch
+Status: WIP
 linter-yaml-title-alias: Elder Tempest
 tags:
   - Monster/Größe/Gigantisch

@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Azuremite
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Azuremite
 tags:
-  - Gegenstand/Ausrüstung/illegal-drug
+  - Gegenstand/Ausrüstung/Illegale-Droge
   - Gegenstand/Seltenheit/unbekannt/magic
   - Quelle/5e/tdcsr
 aliases:
   - Azuremite
+status: WIP
 ---
 # Azuremite
 *Illegal drug*  

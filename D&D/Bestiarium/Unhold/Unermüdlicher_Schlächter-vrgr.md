@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Relentless Slasher
+Status: WIP
 linter-yaml-title-alias: Relentless Slasher
 tags:
   - Monster/Größe/Mittelgroß

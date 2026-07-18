@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Callarduran Smoothhands
+Status: WIP
 linter-yaml-title-alias: Callarduran Smoothhands
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Actor
+Status: WIP
 linter-yaml-title-alias: Actor
 tags:
   - Kompendium/Talent

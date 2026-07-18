@@ -6,7 +6,8 @@ Reichweite: 30 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: GES
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Schwerkraft umkehren
 classes:
   - Bard (Magical Secrets)

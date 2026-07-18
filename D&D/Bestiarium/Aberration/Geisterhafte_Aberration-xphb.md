@@ -4,11 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Aberrant Spirit
 Kategorie: Aberration
 Größe: Mittelgroß
-HG: /
+HG: n/v
 Habitat:
-  - /
-image: token/aberrant-spirit-xphb.webp
-status: WIP
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Aberrant Spirit
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,7 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Aberrant Spirit
+image: token/aberrant-spirit-xphb.webp
 ---
 # [Aberrant Spirit](3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf (Duergar)
+Status: WIP
 linter-yaml-title-alias: Dwarf (Duergar)
 tags:
   - Quelle/5e/mtf

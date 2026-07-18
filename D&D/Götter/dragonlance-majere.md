@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Majere
+Status: WIP
 linter-yaml-title-alias: Majere
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Majere"
+  - Majere
   - Majere
 ---
 # Majere

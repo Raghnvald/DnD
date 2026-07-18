@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Silver chalice set with moonstones
+Status: WIP
 linter-yaml-title-alias: Silver chalice set with moonstones
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

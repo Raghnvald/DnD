@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thrakkus
+Status: WIP
 linter-yaml-title-alias: Thrakkus
 tags:
   - Monster/Größe/Mittelgroß

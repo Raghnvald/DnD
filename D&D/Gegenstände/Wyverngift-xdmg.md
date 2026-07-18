@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wyvern Poison
+Status: WIP
 linter-yaml-title-alias: Wyvern Poison
 tags:
   - Gegenstand/Ausrüstung/

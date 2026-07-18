@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rebuke of the Talisman
+Status: WIP
 linter-yaml-title-alias: Rebuke of the Talisman
 tags:
   - Kompendium/Optionales/ei

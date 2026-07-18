@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Colossus)
+Status: WIP
 linter-yaml-title-alias: Scroll of Titan Summoning (Colossus)
 tags:
   - Gegenstand/Seltenheit/legendär

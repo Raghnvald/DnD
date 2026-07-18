@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Wand of Binding
+Status: WIP
 linter-yaml-title-alias: Wand of Binding
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg

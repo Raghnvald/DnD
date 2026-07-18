@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Valor
+Status: WIP
 linter-yaml-title-alias: College of Valor
 tags:
   - Klasse/Barde/Schule-des-Wagemuts

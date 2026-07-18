@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Gods of Theros
+Status: WIP
 linter-yaml-title-alias: Gods of Theros
 tags:
   - Quelle/5e/mot
 aliases:
-  - "Gods of Theros"
+  - Gods of Theros
   - Gods of Theros
 ---
 # Gods of Theros

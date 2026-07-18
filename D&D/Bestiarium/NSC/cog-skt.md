@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cog
+Status: WIP
 linter-yaml-title-alias: Cog
 tags:
   - Monster/Größe/Riesig

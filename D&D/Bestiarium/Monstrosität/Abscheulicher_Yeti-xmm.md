@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Abominable Yeti
-image: token/abominable-yeti-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Abominable Yeti
 tags:
   - Monster/Größe/Riesig
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Abominable Yeti
+image: token/abominable-yeti-xmm.webp
 ---
 # [Abominable Yeti](3-Mechanics\CLI\bestiary\monstrosity/abominable-yeti-xmm.md)
 *Source: Monster Manual (2024) p. 340*  

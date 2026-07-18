@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Lightning Cannon
+Status: WIP
 linter-yaml-title-alias: Lightning Cannon
 tags:
-  - Kompendium/Objekt/size/medium
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Mittelgroß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/xdmg
 aliases:
   - Lightning Cannon

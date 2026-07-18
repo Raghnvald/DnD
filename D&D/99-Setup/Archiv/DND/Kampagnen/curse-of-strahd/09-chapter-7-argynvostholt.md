@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Argynvostholt"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Argynvostholt"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 7: Argynvostholt"
-  - Chapter 7: Argynvostholt
 ---
 # Chapter 7: Argynvostholt
 *Source: Curse of Strahd, p. 129* 

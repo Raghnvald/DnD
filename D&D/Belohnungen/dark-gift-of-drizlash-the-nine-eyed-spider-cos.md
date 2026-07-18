@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Drizlash, the Nine-Eyed Spider
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Drizlash, the Nine-Eyed Spider
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Drizlash, the Nine-Eyed Spider

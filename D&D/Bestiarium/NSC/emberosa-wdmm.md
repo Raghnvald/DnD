@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Emberosa
+Status: WIP
 linter-yaml-title-alias: Emberosa
 tags:
   - Monster/Größe/Riesig

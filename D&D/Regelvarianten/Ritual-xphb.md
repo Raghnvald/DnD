@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ritual
+Status: WIP
 linter-yaml-title-alias: Ritual
 tags:
   - Quelle/5e/xphb

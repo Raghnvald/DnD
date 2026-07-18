@@ -3,7 +3,7 @@ Bezeichnung: Ring des Schwimmens
 Kategorie: Ring
 Eigenschaften:
   - /
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Schwimmens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ring des Schwimmens
+status: completed
 ---
 # Ring des Schwimmens
 *Ring, ungewöhnlich*  

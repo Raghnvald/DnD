@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadar-kai Soul Monger
+Status: WIP
 linter-yaml-title-alias: Shadar-kai Soul Monger
 tags:
   - Monster/Größe/Mittelgroß

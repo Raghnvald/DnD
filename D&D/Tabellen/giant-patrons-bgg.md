@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giant Patrons
+Status: WIP
 linter-yaml-title-alias: Giant Patrons
 tags:
   - Quelle/5e/bgg

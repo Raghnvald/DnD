@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dyrrn
+Status: WIP
 linter-yaml-title-alias: Dyrrn
 tags:
   - Monster/legendary-group

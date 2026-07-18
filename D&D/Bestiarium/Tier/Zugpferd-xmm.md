@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draft Horse
+Status: WIP
 linter-yaml-title-alias: Draft Horse
 tags:
   - Monster/Größe/Groß

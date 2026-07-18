@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Ring des Schallwiderstands
 Kategorie: Ring
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Schallwiderstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring des Schallwiderstands
+status: completed
 ---
 # Ring des Schallwiderstands
 *Ring, selten (benötigt Einstimmung)*  

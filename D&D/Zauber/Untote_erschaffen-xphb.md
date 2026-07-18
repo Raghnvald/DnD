@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Create Undead
+Status: WIP
 linter-yaml-title-alias: Create Undead
 classes:
   - Bard

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grim Champion of Pestilence
+Status: WIP
 linter-yaml-title-alias: Grim Champion of Pestilence
 tags:
   - Monster/Größe/Mittelgroß

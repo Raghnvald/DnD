@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Dormant)"
+Original: "Deathwalker's Ward (Dormant)"
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: "Deathwalker's Ward (Dormant)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mass Heal
+Status: WIP
 linter-yaml-title-alias: Mass Heal
 classes:
   - Bard

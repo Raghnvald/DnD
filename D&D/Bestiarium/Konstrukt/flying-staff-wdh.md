@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Staff
+Status: WIP
 linter-yaml-title-alias: Flying Staff
 tags:
   - Monster/Größe/Klein

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Locathah
+Status: WIP
 linter-yaml-title-alias: Locathah
 tags:
   - Quelle/5e/lr
   - Rasse/locathah
 aliases:
-  - "Locathah"
+  - Locathah
   - Locathah
 ---
 # Locathah

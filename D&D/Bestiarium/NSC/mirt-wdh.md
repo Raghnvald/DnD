@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mirt
+Status: WIP
 linter-yaml-title-alias: Mirt
 tags:
   - Monster/Größe/Mittelgroß

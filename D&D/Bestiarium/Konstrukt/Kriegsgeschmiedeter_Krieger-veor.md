@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 1
 Habitat:
   - /
-image: token/warforged-warrior-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Warforged Warrior
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Warforged Warrior
+image: token/warforged-warrior-veor.webp
+status: WIP
 ---
 # Warforged Warrior
 *Source: Vecna: Eve of Ruin p. 238*  

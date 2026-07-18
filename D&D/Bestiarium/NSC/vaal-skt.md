@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vaal
+Status: WIP
 linter-yaml-title-alias: Vaal
 tags:
   - Monster/Größe/Riesig

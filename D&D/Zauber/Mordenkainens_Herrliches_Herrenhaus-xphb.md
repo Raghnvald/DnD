@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Mordenkainen's Magnificent Mansion"
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Magnificent Mansion"
 classes:
   - Bard

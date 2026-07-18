@@ -5,15 +5,16 @@ Bezeichnung: Gibberling
 Kategorie: Aberration
 Größe: Klein
 HG: 1/4
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gibberling
 tags:
   - Quelle/5e/mabjov
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/1-4
+  - Monster/Größe/Klein
+  - Monster/Typ/Aberration
 aliases:
   - Gibberling
+status: WIP
 ---
 # [Gibberling](3-Mechanics/CLI/bestiary/aberration/gibberling-mabjov.md)
 *Source: Minsc and Boo's Journal of Villainy p. 141*  

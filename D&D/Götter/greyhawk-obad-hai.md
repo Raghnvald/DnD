@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Obad-Hai
+Status: WIP
 linter-yaml-title-alias: Obad-Hai
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Obad-Hai

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Variant: Mixing Potions; Potion Miscibility"
+Status: WIP
 linter-yaml-title-alias: "Variant: Mixing Potions; Potion Miscibility"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Variant: Mixing Potions; Potion Miscibility"
-  - Variant: Mixing Potions; Potion Miscibility
 ---
 # Variant: Mixing Potions; Potion Miscibility
 *Source: Dungeon Master's Guide p. 140* 

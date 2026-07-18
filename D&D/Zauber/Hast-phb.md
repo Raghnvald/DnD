@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Haste
+Bezeichnung: Hast
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Haste
 classes:
   - Bard (Magical Secrets)
@@ -23,8 +25,12 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Haste
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Schaden: n/v
 ---
-# Haste
+# Hast
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 Action

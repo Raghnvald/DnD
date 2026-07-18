@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Empowered Spell
+Status: WIP
 linter-yaml-title-alias: Empowered Spell
 tags:
   - Kompendium/Optionales/mm

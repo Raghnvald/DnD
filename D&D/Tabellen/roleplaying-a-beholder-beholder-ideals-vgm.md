@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Beholder; Beholder Ideals
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Beholder; Beholder Ideals
 tags:
   - Quelle/5e/vgm

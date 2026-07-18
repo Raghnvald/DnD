@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Allosaurus
-image: token/allosaurus-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Allosaurus
 tags:
   - Monster/Größe/Groß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Allosaurus
+image: token/allosaurus-xmm.webp
 ---
 # [Allosaurus](3-Mechanics\CLI\bestiary\beast/allosaurus-xmm.md)
 *Source: Monster Manual (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

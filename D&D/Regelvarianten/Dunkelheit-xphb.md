@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Darkness
+Status: WIP
 linter-yaml-title-alias: Darkness
 tags:
   - Quelle/5e/xphb

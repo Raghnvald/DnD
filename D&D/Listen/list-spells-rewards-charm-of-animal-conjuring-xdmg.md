@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Charm of Animal Conjuring
+Status: WIP
 linter-yaml-title-alias: Spells for Charm of Animal Conjuring
 tags:
-  - ttrpg-cli/spell/list/reward/charm-of-animal-conjuring
+  - Zauber/Liste/reward/charm-of-animal-conjuring
 aliases:
-  - "Spells for Charm of Animal Conjuring"
+  - Spells for Charm of Animal Conjuring
   - Spells for Charm of Animal Conjuring
 ---
 # Spells for Charm of Animal Conjuring

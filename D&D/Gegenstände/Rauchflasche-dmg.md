@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Eversmoking Bottle
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Eversmoking Bottle
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

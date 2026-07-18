@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Conquest
+Status: WIP
 linter-yaml-title-alias: Oath of Conquest
 tags:
   - Klasse/Paladin/Schwur-der-Eroberung

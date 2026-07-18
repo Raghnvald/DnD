@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tlacatecolo
+Status: WIP
 linter-yaml-title-alias: Tlacatecolo
 tags:
   - Monster/Größe/Mittelgroß

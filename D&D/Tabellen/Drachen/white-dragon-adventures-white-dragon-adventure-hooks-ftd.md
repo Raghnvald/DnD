@@ -1,5 +1,6 @@
 ---
 Bezeichnung: White Dragon Adventures; White Dragon Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: White Dragon Adventures; White Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd

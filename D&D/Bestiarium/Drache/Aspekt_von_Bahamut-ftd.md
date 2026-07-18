@@ -7,8 +7,7 @@ Größe: Gigantisch
 HG: 30
 Habitat:
   - /
-image: token/Aspect-of-Bahamut-ftd.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aspect of Bahamut
 tags:
   - Monster/Größe/Gigantisch
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Aspect of Bahamut
+image: token/Aspect-of-Bahamut-ftd.webp
+status: WIP
 ---
 # [Aspect of Bahamut](3-Mechanics\CLI\bestiary\dragon/aspect-of-bahamut-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 165*  

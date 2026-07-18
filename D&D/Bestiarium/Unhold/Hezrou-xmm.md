@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hezrou
+Status: WIP
 linter-yaml-title-alias: Hezrou
 tags:
   - Monster/Größe/Groß

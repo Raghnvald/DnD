@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silence
+Status: WIP
 linter-yaml-title-alias: Silence
 classes:
   - Bard

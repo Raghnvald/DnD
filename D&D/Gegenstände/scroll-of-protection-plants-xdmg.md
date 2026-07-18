@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Plants)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Plants)
 tags:
   - Gegenstand/Seltenheit/selten

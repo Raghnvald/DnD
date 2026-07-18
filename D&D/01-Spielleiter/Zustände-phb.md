@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zustände
+Status: WIP
 linter-yaml-title-alias: Zustände
 tags:
   - Quelle/5e/phb
@@ -107,6 +108,15 @@ _Quelle: Spielerhandbuch S. 291. Verfügbar im <span title='Systems Reference Do
 - Eine liegende Kreatur kann als Bewegung nur kriechen, es sei denn, sie steht auf und beendet damit den Zustand.
 - Sie ist im Nachteil bei Angriffswürfen.
 - Alle Angriffe gegen die Kreatur sind im Vorteil, wenn sich der Angreifer innerhalb von 1,50 m um die Kreatur befindet. Ansonsten ist der Angriffswurf im Nachteil.
+
+## Stabilisieren
+_Quelle: Spielerhandbuch S. 198. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)_
+
+Die beste Art, eine Kreatur mit 0 Trefferpunkten zu retten, ist, sie zu heilen. Wenn keine Heilung möglich ist, kannst du zumindest versuchen, die Kreatur zu stabilisieren, damit sie nicht länger Gefahr läuft, durch gescheiterte Todesrettungswürfe zu sterben.
+
+Du kannst deine Aktion aufwenden, um eine Kreatur zu stabilisieren, was einen erfolgreichen Wurf auf Weisheit (Heilkunde) gegen SG 10 erfordert.
+
+Eine stabilisierte Kreatur muss zu Beginn ihres Zuges keine Todesrettungswürfe mehr ablegen, selbst wenn sie nur O Trefferpunkte besitzt, gilt jedoch weiter als bewusstlos. Die Kreatur ist nicht länger stabilisiert und muss wieder Todesrettungswürfe ablegen, wenn sie erneut Schaden erleidet. Eine stabilisierte Kreatur, die nicht geheilt wird, erhält innerhalb von 1 W 4 Stunden 1 Trefferpunkt zurück.
 
 ## Taub
 _Quelle: Spielerhandbuch S. 292. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)_

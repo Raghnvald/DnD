@@ -2,10 +2,10 @@
 Bezeichnung: Reliquie
 Kategorie: Fokus, Heiliges Symbol
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 1,0 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Reliquie
 tags:
   - Gegenstand/Ausrüstung

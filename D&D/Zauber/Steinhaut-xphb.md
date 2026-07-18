@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stoneskin
+Status: WIP
 linter-yaml-title-alias: Stoneskin
 classes:
   - Artificer

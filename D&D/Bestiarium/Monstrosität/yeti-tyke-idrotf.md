@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yeti Tyke
+Status: WIP
 linter-yaml-title-alias: Yeti Tyke
 tags:
   - Monster/Größe/Klein

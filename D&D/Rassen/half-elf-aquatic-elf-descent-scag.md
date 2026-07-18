@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf (Aquatic Elf Descent)
+Status: WIP
 linter-yaml-title-alias: Half-Elf (Aquatic Elf Descent)
 tags:
   - Quelle/5e/scag

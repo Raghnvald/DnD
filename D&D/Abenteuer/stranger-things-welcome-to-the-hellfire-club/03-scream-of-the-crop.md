@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Scream of the Crop
+Status: WIP
 linter-yaml-title-alias: Scream of the Crop
 tags:
   - Quelle/5e/wtthc
 aliases:
-  - "Scream of the Crop"
+  - Scream of the Crop
   - Scream of the Crop
 ---
 # Scream of the Crop

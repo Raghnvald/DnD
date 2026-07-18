@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarund Elkhardt
+Status: WIP
 linter-yaml-title-alias: Jarund Elkhardt
 tags:
   - Monster/Größe/Mittelgroß

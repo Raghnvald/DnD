@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bell
+Status: WIP
 linter-yaml-title-alias: Bell
 tags:
   - Gegenstand/Ausrüstung/

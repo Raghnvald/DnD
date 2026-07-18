@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Anchor"
+Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token, Anchor"
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:
   - "Quaal's Feather Token, Anchor"
-  - Quaal's Feather Token, Anchor
 ---
 # Quaal's Feather Token, Anchor
 *Wondrous item, uncommon*  

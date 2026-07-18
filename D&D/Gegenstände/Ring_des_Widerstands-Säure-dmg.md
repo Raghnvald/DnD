@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Ring des Säurewiderstands
 Kategorie: Ring
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Säurewiderstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring des Säurewiderstands
+status: completed
 ---
 # Ring des Säurewiderstands
 *Ring, selten (benötigt Einstimmung)*  

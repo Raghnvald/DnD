@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Frostbrand
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
-Schaden: /
+Original: Frost Brand
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Schaden: variiert
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
+  - variiert
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
+Status: completed
 linter-yaml-title-alias: Frostbrand
 tags:
   - Gegenstand/Einstimmung
@@ -18,72 +21,59 @@ aliases:
   - Frostbrand
 ---
 # Frostbrand
-_Waffe (beliebiges Schwert), sehr selten (erfordert Einstimmung)_
+*Waffe (beliebiges Schwert), sehr selten (erfordert Einstimmung)*
 <img src="Frostbrand.webp" align="right" width="150">
 
-Wenn deine Attacke mit diesem magischen Schwert trifft, erleidet dein Ziel zusätzlichen Kälteschaden in Höhe von 1W6. Zusätzlich hast du Resistenz gegen Feuerschaden, während du das Schwert trägst.
+Wenn deine Attacke mit diesem magischen Schwert trifft, erleidet dein Ziel zusätzlichen Kälteschaden in Höhe von `1W6`. Zusätzlich hast du Resistenz gegen Feuerschaden, während du das Schwert trägst.
 
 $\quad$Bei frostigen Temperaturen verströmt die Klinge helles Licht in einem Radius von 3 m und dämmriges Licht in einem Radius von zusätzlichen 3 m.
 
 $\quad$Wenn du dieses Schwert ziehst, kannst du alle nicht-magischen Feuer innerhalb von 9 m zu dir löschen. Diese Eigenschaft kann nur einmal in der Stunde verwendet werden. -
 
-Weapons
+**Varianten**:
+- [[#Frostbrand-Krummsäbel]]
+- [[#Frostbrand-Kurzschwert]]
+- [[#Frostbrand-Langschwert]]
+- [[#Frostbrand-Rapier]]
+- [[#Frostbrand-Zweihandschwert]]
+- [[#Frostbrand-Zweiklingiger Krummsäbel]]
 
-|Name|Damage|Properties|Mastery|
-|---|---|---|---|
-|[Frost Brand Glaive](https://www.dndbeyond.com/magic-items/9228650-frost-brand-glaive)|1d10 Slashing|[Heavy](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Heavy), [Reach](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Reach), [Two-Handed](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Two-Handed)|[Graze](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Graze)|
-|[Frost Brand Greatsword](https://www.dndbeyond.com/magic-items/4640-frost-brand-greatsword)|2d6 Slashing|[Heavy](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Heavy), [Two-Handed](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Two-Handed)|[Graze](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Graze)|
-|[Frost Brand Longsword](https://www.dndbeyond.com/magic-items/4899-frost-brand-longsword)|1d8 Slashing|[Versatile](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Versatile) (1d10)|[Sap](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Sap)|
-|[Frost Brand Rapier](https://www.dndbeyond.com/magic-items/4900-frost-brand-rapier)|1d8 Piercing|[Finesse](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Finesse)|[Vex](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Vex)|
-|[Frost Brand Scimitar](https://www.dndbeyond.com/magic-items/4901-frost-brand-scimitar)|1d6 Slashing|[Finesse](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Finesse), [Light](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Light)|[Nick](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Nick)|
-|[Frost Brand Shortsword](https://www.dndbeyond.com/magic-items/4902-frost-brand-shortsword)|1d6 Piercing|[Finesse](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Finesse), [Light](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Light)|[Vex](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Vex)|
+### Frostbrand-Krummsäbel
 
-Notes: Damage: Cold, Resistance: Fire
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-**Variants**:
-- [Frost Brand Double-Bladed Scimitar](#Frost%20Brand%20Double-Bladed%20Scimitar)
-- [Frost Brand Greatsword](#Frost%20Brand%20Greatsword)
-- [Frost Brand Longsword](#Frost%20Brand%20Longsword)
-- [Frost Brand Rapier](#Frost%20Brand%20Rapier)
-- [Frost Brand Scimitar](#Frost%20Brand%20Scimitar)
-- [Frost Brand Shortsword](#Frost%20Brand%20Shortsword)
+### Frostbrand-Kurzschwert
 
-### Frost Brand Double-Bladed Scimitar
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-- **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
-- **Weight**: 6.0 lbs.
+### Frostbrand-Langschwert
 
-### Frost Brand Greatsword
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-- **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
-- **Weight**: 6.0 lbs.
+### Frostbrand-Rapier
 
-### Frost Brand Longsword
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+### Frostbrand-Zweihandschwert
 
-### Frost Brand Rapier
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-- **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
-- **Weight**: 2.0 lbs.
+### Frostbrand-Zweiklingiger Krummsäbel
 
-### Frost Brand Scimitar
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-- **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 3.0 lbs.
-
-### Frost Brand Shortsword
-
-- **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
-- **Weight**: 2.0 lbs.
-
-*Source: Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 162. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>* 

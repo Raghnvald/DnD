@@ -6,7 +6,7 @@ Größe: Gigantisch
 HG: 21
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Burney the Barber
 tags:
   - Monster/Größe/Gigantisch
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Burney the Barber
+status: WIP
 ---
 # Burney the Barber
 *Source: Baldur's Gate: Descent Into Avernus p. 129*  

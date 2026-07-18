@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Myrkul, Gott des Todes
+Status: WIP
 linter-yaml-title-alias: Myrkul, Gott des Todes
 tags:
   - Kompendium/Götter

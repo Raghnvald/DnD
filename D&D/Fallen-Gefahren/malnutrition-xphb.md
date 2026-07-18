@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Malnutrition
+Status: WIP
 linter-yaml-title-alias: Malnutrition
 tags:
   - Quelle/5e/xphb

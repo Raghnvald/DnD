@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix D: Magic"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Magic"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Appendix D: Magic"
-  - Appendix D: Magic
 ---
 # Appendix D: Magic
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 314* 

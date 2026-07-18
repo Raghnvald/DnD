@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Whispers
+Status: WIP
 linter-yaml-title-alias: College of Whispers
 tags:
   - Klasse/Barde/Schule-des-Flüsterns

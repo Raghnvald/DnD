@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dukha Bhatiyali
+Status: WIP
 linter-yaml-title-alias: Dukha Bhatiyali
 tags:
   - Monster/Größe/Mittelgroß

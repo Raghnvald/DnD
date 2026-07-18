@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Madness
+Status: WIP
 linter-yaml-title-alias: Madness
 tags:
   - Quelle/5e/dmg

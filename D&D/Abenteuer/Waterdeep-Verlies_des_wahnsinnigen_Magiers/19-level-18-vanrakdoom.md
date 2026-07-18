@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 18: Vanrakdoom"
+Status: WIP
 linter-yaml-title-alias: "Level 18: Vanrakdoom"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 18: Vanrakdoom"
-  - Level 18: Vanrakdoom
 ---
 # Level 18: Vanrakdoom
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 231* 

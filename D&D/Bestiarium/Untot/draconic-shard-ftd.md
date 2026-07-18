@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Draconic Shard
+Status: WIP
 linter-yaml-title-alias: Draconic Shard
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gegenzauber
+Status: WIP
 linter-yaml-title-alias: Gegenzauber
 tags:
   - Klasse/Hexenmeister

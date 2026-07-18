@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darathra Shendrel
+Status: WIP
 linter-yaml-title-alias: Darathra Shendrel
 tags:
   - Monster/Größe/Mittelgroß

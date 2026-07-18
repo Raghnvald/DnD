@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Priest of Osybus (Deathly Boon)
+Status: WIP
 linter-yaml-title-alias: Priest of Osybus (Deathly Boon)
 tags:
   - Monster/Größe/Mittelgroß

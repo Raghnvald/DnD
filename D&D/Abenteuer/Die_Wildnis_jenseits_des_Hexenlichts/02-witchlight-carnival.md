@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Witchlight Carnival
+Status: WIP
 linter-yaml-title-alias: Witchlight Carnival
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Witchlight Carnival"
+  - Witchlight Carnival
   - Witchlight Carnival
 ---
 # Witchlight Carnival

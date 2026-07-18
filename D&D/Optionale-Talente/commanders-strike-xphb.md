@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Commander's Strike"
+Status: WIP
 linter-yaml-title-alias: "Commander's Strike"
 tags:
   - Kompendium/Optionales/mv-b
   - Quelle/5e/xphb
 aliases:
   - "Commander's Strike"
-  - Commander's Strike
 ---
 # Commander's Strike
 *Source: Player's Handbook (2024) p. 94*  

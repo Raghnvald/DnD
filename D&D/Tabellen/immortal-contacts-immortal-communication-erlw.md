@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Immortal Contacts; Immortal Communication
+Status: WIP
 linter-yaml-title-alias: Immortal Contacts; Immortal Communication
 tags:
   - Quelle/5e/erlw

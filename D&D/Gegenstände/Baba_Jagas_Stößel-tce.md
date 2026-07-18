@@ -1,30 +1,34 @@
 ---
-Bezeichnung: "Baba Yaga's Pestle"
-Kategorie: Einfache Nahkampfwaffe
+Bezeichnung: Baba Jagas Stößel
+Original: Baba Yaga`s Pestle
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W6 Wucht
 Eigenschaften:
-  - Vielseitig
-Einstimmung: erfordert
-Kst.: /
+  - Vielseitig (1W8)
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 2,0 kg
-linter-yaml-title-alias: "Baba Yaga's Pestle"
+Status: WIP
+linter-yaml-title-alias: Baba Jagas Stößel
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
+  - Gegenstand/Waffe
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tce
 aliases:
-  - "Baba Yaga's Pestle"
+  - Baba Jagas Stößel
+status: WIP
 ---
-# Baba Yaga's Pestle
-*Waffe ([[Kampfstab-phb|Kampfstab]], artifact (requires attunement)*  
+# Baba Jagas Stößel
+*Waffe ([[Kampfstab-phb|Kampfstab]], Artefakt (erfordert Einstimmung)*  
 
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 4.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d6 Wucht
+  - Zweihändig: 1d8 Wucht
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 2,0 kg
 
 The pestle is a 6-inch-long, worn wooden tool. Once during your turn while you are holding the pestle, you can extend it into a quarterstaff or shrink it back into a pestle (no action required). As a quarterstaff, the pestle is a magic weapon that grants a +3 bonus to attack and damage rolls made with it.
 

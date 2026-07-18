@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadow Assassin
+Status: WIP
 linter-yaml-title-alias: Shadow Assassin
 tags:
   - Monster/Größe/Mittelgroß

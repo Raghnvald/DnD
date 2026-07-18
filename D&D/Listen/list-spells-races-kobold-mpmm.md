@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Kobold
+Status: WIP
 linter-yaml-title-alias: Spells for Kobold
 tags:
-  - Zauber/list/race/kobold
+  - Zauber/Liste/race/kobold
 aliases:
   - Spells for Kobold
 ---

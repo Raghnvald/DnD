@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Aurelia
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aurelia
 tags:
   - Monster/Größe/Mittelgroß
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Aurelia
+status: WIP
 ---
 # Aurelia
 *Source: Guildmasters' Guide to Ravnica p. 230*  

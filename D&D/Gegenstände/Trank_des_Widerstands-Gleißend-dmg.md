@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Radiant Resistance
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Radiant Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

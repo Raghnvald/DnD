@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Investigator
+Status: WIP
 linter-yaml-title-alias: Investigator
 tags:
   - Kompendium/Hintergrund

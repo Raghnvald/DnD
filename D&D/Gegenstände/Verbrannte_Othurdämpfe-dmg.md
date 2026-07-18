@@ -4,8 +4,8 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 500 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Verbrannte_Othurdämpfe
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Verbrannte_Othurdämpfe
+status: WIP
 ---
 # Verbrannte_Othurdämpfe
 *Adventuring gear, poison (inhaled)*  

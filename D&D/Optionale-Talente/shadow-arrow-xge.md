@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow Arrow
+Status: WIP
 linter-yaml-title-alias: Shadow Arrow
 tags:
   - Kompendium/Optionales/as

@@ -1,20 +1,27 @@
 ---
-Bezeichnung: Rod of Lordly Might
-Kategorie: Einfache Nahkampfwaffe 
-linter-yaml-title-alias: Rod of Lordly Might
+Bezeichnung: Zepter der herrschaftlichen Macht
+Original: Rod of Lordly Might
+Kategorie: Nahkampfwaffe, einfach
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: 1,0 kg
+Status: WIP
+linter-yaml-title-alias: Zepter der herrschaftlichen Macht
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Gegenstand/wundersam/Rute
   - Quelle/5e/dmg
 aliases:
-  - Rod of Lordly Might
+  - Zepter der herrschaftlichen Macht
 ---
-# Rod of Lordly Might
-*Rod ([mace](/3-Mechanics/CLI/items/mace.md)), melee weapon ([mace](/3-Mechanics/CLI/items/mace.md)), major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)
+# Zepter der herrschaftlichen Macht
+*Rod ([[Streitkolben-phb|Streitkolben]])), melee weapon ([[Streitkolben-phb|Streitkolben]])), major, legendary (requires attunement)*  
+![](rod-of-lordly-might.webp#right)
 
 - **Weight**: 2.0 lbs.
 

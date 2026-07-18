@@ -2,10 +2,10 @@
 Bezeichnung: Kriegsschiff
 Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25.000 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Kriegsschiff
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug/Wasser

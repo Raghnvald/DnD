@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tressym
+Status: WIP
 linter-yaml-title-alias: Tressym
 tags:
   - Monster/Größe/Winzig

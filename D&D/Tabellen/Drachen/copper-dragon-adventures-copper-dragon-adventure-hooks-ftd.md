@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Copper Dragon Adventures; Copper Dragon Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Copper Dragon Adventures; Copper Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Life Domain
+Status: WIP
 linter-yaml-title-alias: Life Domain
 tags:
-  - Klasse/Kleriker/life
-  - Kompendium/Götter/Domäne/life
+  - Klasse/Kleriker/Leben
+  - Kompendium/Götter/Domäne/Leben
   - Quelle/5e/phb
 aliases:
   - Life Domain

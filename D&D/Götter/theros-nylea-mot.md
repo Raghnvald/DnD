@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Nylea
+Status: WIP
 linter-yaml-title-alias: Nylea
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Nylea"
+  - Nylea
   - Nylea
 ---
 # Nylea

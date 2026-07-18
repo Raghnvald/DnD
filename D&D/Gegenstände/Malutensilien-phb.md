@@ -2,10 +2,10 @@
 Bezeichnung: Malutensilien
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
 Gew.: 2,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Malutensilien
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

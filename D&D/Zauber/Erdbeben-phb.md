@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Earthquake
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Earthquake
 classes:
   - Bard (Magical Secrets)

@@ -9,8 +9,7 @@ HG: 2
 Habitat:
   - Unterreich
   - Wald
-image: token/grick.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Grick
 tags:
   - Monster/Größe/Mittelgroß
@@ -21,6 +20,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Grick
+image: token/grick.webp
+status: completed
 ---
 # Grick
 *Quelle: Monsterhandbuch S. 173. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

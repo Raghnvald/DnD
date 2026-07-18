@@ -2,10 +2,10 @@
 Bezeichnung: Seife
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 KM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Seife
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,8 +15,8 @@ aliases:
   - Seife
 ---
 # Seife
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 2 cp
+- **Kosten**: 2 KM
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

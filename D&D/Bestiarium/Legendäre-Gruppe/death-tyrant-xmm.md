@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Death Tyrant
+Status: WIP
 linter-yaml-title-alias: Death Tyrant
 tags:
   - Monster/legendary-group

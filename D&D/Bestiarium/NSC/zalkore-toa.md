@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zalkoré
+Status: WIP
 linter-yaml-title-alias: Zalkoré
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Spell Sniper
+Status: WIP
 linter-yaml-title-alias: Spells for Spell Sniper
 tags:
-  - ttrpg-cli/spell/list/feat/spell-sniper
+  - Zauber/Liste/feat/spell-sniper
 aliases:
-  - "Spells for Spell Sniper"
+  - Spells for Spell Sniper
   - Spells for Spell Sniper
 ---
 # Spells for Spell Sniper

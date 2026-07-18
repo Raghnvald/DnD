@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Leomunds Winzige Hütte
+Status: WIP
 linter-yaml-title-alias: Leomunds Winzige Hütte
 tags:
   - Klasse/Barde
@@ -9,7 +10,7 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Leomund's Tiny Hut
+  - "Leomund's Tiny Hut"
   - Leomunds Winzige Hütte
 ---
 # Leomunds Winzige Hütte

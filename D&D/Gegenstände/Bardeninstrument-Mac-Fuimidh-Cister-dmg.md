@@ -2,19 +2,21 @@
 Bezeichnung: Instrument of the Bards, Mac-Fuirmidh Cittern
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung durch einen Barden
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Einstimmung: durch einen Barden
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Mac-Fuirmidh Cittern
 tags:
   - Gegenstand/Ausrüstung/Instrument
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
   - Instrument of the Bards, Mac-Fuirmidh Cittern
+status: WIP
 ---
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  

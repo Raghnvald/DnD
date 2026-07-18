@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of Wild Magic
+Status: WIP
 linter-yaml-title-alias: Path of Wild Magic
 tags:
   - Klasse/Barbar/wild-magic

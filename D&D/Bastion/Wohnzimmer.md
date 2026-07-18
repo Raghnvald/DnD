@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parlor
+Status: WIP
 linter-yaml-title-alias: Parlor
 tags:
   - Kompendium/Bastion

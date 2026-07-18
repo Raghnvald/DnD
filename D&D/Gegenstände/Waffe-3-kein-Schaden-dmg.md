@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Weapon (no damage)
+Status: WIP
 linter-yaml-title-alias: +3 Weapon (no damage)
 tags:
   - Gegenstand/Seltenheit/sehr_selten

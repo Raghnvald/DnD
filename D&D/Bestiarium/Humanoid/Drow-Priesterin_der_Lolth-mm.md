@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Priestess of Lolth
+Status: WIP
 linter-yaml-title-alias: Drow Priestess of Lolth
 tags:
   - Monster/Größe/Mittelgroß

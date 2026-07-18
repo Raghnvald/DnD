@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: River Mist
+Status: WIP
 linter-yaml-title-alias: River Mist
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cressaro
+Status: WIP
 linter-yaml-title-alias: Cressaro
 tags:
   - Monster/Größe/Riesig

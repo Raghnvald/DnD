@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Einsiedler
+Status: WIP
 linter-yaml-title-alias: Einsiedler
 tags:
   - Kompendium/Hintergrund

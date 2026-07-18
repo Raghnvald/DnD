@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Stone Shape
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Stone Shape
 classes:
   - Bard (Magical Secrets)

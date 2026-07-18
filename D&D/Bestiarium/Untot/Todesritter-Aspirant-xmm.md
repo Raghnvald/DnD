@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Knight Aspirant
+Status: WIP
 linter-yaml-title-alias: Death Knight Aspirant
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

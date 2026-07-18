@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shapechange
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Shapechange
 classes:
   - Bard (Magical Secrets)

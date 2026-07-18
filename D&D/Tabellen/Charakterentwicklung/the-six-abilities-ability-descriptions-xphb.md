@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Six Abilities; Ability Descriptions
+Status: WIP
 linter-yaml-title-alias: The Six Abilities; Ability Descriptions
 tags:
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Personality
+Status: WIP
 linter-yaml-title-alias: Monster Personality
 tags:
   - Quelle/5e/xdmg

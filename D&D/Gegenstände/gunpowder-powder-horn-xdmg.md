@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gunpowder (powder horn)
+Status: WIP
 linter-yaml-title-alias: Gunpowder (powder horn)
 tags:
   - Gegenstand/Seltenheit/keine

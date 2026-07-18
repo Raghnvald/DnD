@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Aberrant Dragonmark
+Status: WIP
 linter-yaml-title-alias: Aberrant Dragonmark
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Aberrant Dragonmark"
+  - Aberrant Dragonmark
   - Aberrant Dragonmark
 ---
 # Aberrant Dragonmark

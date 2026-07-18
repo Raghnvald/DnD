@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hoar
+Status: WIP
 linter-yaml-title-alias: Hoar
 tags:
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Hoar

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shining Smite
+Status: WIP
 linter-yaml-title-alias: Shining Smite
 classes:
   - Artificer (Battle Smith)

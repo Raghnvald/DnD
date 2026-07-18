@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Kol Korran
+Status: WIP
 linter-yaml-title-alias: Kol Korran
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

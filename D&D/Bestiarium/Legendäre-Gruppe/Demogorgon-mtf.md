@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demogorgon
+Status: WIP
 linter-yaml-title-alias: Demogorgon
 tags:
   - Monster/legendary-group

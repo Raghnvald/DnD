@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Faction Agent
+Status: WIP
 linter-yaml-title-alias: Faction Agent
 tags:
   - Kompendium/Hintergrund

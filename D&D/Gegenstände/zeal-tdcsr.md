@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Zeal
 Kst.: 150 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Zeal
 tags:
-  - Gegenstand/Ausrüstung/illegal-drug
+  - Gegenstand/Ausrüstung/Illegale-Droge
   - Gegenstand/Seltenheit/unbekannt
   - Quelle/5e/tdcsr
 aliases:
   - Zeal
+status: WIP
 ---
 # Zeal
 *Illegal drug*  

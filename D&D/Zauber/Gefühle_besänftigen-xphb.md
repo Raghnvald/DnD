@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Calm Emotions
+Status: WIP
 linter-yaml-title-alias: Calm Emotions
 classes:
   - Bard

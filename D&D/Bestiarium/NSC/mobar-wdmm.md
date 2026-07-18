@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mobar
+Status: WIP
 linter-yaml-title-alias: Mobar
 tags:
   - Monster/Größe/Klein

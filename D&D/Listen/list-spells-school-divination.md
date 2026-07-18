@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Divination Spells
+Status: WIP
 linter-yaml-title-alias: Divination Spells
 tags:
-  - Zauber/list/school/divination
+  - Zauber/Liste/school/divination
 aliases:
   - Divination Spells
 ---

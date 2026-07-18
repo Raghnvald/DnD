@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Bowl of Commanding Water Elementals
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Bowl of Commanding Water Elementals
 tags:
   - Gegenstand/Seltenheit/selten

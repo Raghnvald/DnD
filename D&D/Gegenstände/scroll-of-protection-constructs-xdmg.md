@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Constructs)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Constructs)
 tags:
   - Gegenstand/Seltenheit/selten

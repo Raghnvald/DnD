@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Prisoner 13
+Status: WIP
 linter-yaml-title-alias: Prisoner 13
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Prisoner 13"
+  - Prisoner 13
   - Prisoner 13
 ---
 # Prisoner 13

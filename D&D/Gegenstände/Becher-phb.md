@@ -2,10 +2,10 @@
 Bezeichnung: Becher
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 KM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Becher
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 2 KM
-- **Gewicht**: 0,5 kg.
+- **Gewicht**: 0,5 kg
 
 Ein Becher  fasst 0,5 Liter Flüssigkeit.
 

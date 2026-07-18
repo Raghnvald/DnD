@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 9: Dweomercore"
+Status: WIP
 linter-yaml-title-alias: "Level 9: Dweomercore"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 9: Dweomercore"
-  - Level 9: Dweomercore
 ---
 # Level 9: Dweomercore
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 117* 

@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Giant Slayer
-Kategorie: Beliebig, Nahkampfwaffe
+Original: Giant Slayer
+Kategorie: Nahkampfwaffe, beliebig
 Eigenschaften:
   - /
 Kst.: /
 Gew.: /
+Status: WIP
 linter-yaml-title-alias: Giant Slayer
 tags:
   - Gegenstand/Seltenheit/selten
@@ -24,10 +26,11 @@ aliases:
   - Giant Slayer Rapier
   - Giant Slayer Scimitar
   - Giant Slayer Shortsword
+status: WIP
 ---
 # Giant Slayer
 *Major, rare*  
-![](/3-Mechanics/CLI/items/img/giant-slayer.webp#right)
+![](img/giant-slayer.webp#right)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

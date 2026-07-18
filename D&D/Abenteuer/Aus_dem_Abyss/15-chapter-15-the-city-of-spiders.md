@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 15: The City of Spiders"
+Status: WIP
 linter-yaml-title-alias: "Chapter 15: The City of Spiders"
 tags:
   - Quelle/5e/oota

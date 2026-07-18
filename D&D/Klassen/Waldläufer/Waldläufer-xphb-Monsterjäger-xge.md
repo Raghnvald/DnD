@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monster Slayer
+Status: WIP
 linter-yaml-title-alias: Monster Slayer
 tags:
   - Klasse/Waldläufer/monster-slayer

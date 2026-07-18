@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lance of Lethargy
+Status: WIP
 linter-yaml-title-alias: Lance of Lethargy
 tags:
   - Kompendium/Optionales/ei

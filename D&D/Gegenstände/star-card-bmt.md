@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Star Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Star Card
 tags:
   - Gegenstand/Seltenheit/legendär

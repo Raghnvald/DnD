@@ -1,5 +1,6 @@
 ---
 Bezeichnung: A World of Your Own
+Status: WIP
 linter-yaml-title-alias: A World of Your Own
 tags:
   - Quelle/5e/dmg

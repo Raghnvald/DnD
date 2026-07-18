@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shared Campaign Variant Rules
+Status: WIP
 linter-yaml-title-alias: Shared Campaign Variant Rules
 tags:
   - Quelle/5e/xge

@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Clay No-Face's Charm"
+Status: WIP
 linter-yaml-title-alias: "Clay No-Face's Charm"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/toa
 aliases:
   - "Clay No-Face's Charm"
-  - Clay No-Face's Charm
 ---
 # Clay No-Face's Charm
 *Charm*  

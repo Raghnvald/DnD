@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +1 Weapon
+Status: WIP
 linter-yaml-title-alias: +1 Weapon
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Tymora
+Status: WIP
 linter-yaml-title-alias: Tymora
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Lady Luck"
-  - "Our Smiling Lady"
-  - "Tymora"
+  - Lady Luck
+  - Our Smiling Lady
+  - Tymora
   - Tymora
 ---
 # Tymora

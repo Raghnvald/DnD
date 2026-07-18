@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Common Glamerweave
+Status: WIP
 linter-yaml-title-alias: Common Glamerweave
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

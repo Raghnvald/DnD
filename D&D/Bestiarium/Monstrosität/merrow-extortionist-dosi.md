@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merrow Extortionist
+Status: WIP
 linter-yaml-title-alias: Merrow Extortionist
 tags:
   - Monster/Größe/Groß

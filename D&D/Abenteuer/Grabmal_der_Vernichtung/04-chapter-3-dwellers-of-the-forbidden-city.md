@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Dwellers of the Forbidden City"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Dwellers of the Forbidden City"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Chapter 3: Dwellers of the Forbidden City"
-  - Chapter 3: Dwellers of the Forbidden City
 ---
 # Chapter 3: Dwellers of the Forbidden City
 *Source: Tomb of Annihilation, p. 91* 

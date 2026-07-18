@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cinder Hulk
+Status: WIP
 linter-yaml-title-alias: Cinder Hulk
 tags:
   - Monster/Größe/Groß

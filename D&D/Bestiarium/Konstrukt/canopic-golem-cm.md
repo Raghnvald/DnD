@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Canopic Golem
+Status: WIP
 linter-yaml-title-alias: Canopic Golem
 tags:
   - Monster/Größe/Groß

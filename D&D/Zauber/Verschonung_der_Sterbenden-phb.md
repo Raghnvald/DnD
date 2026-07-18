@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: 
 Schaden: 
+Status: WIP
 linter-yaml-title-alias: Verschonung der Sterbenden
 classes:
   - Bard (Magical Secrets)
@@ -16,7 +17,7 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Klasse/Kleriker/death-domain
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome

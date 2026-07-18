@@ -1,7 +1,8 @@
 ---
-Bezeichnung: Find Traps
+Bezeichnung: Fallen finden
 Zaubergrad: 2
-linter-yaml-title-alias: Find Traps
+Status: WIP
+linter-yaml-title-alias: Fallen finden
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -16,9 +17,10 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Find Traps
+  - Fallen finden
+Zeitaufwand: 1 Aktion
 ---
-# Find Traps
+# Fallen finden
 *2nd-level, Divination*  
 
 - **Casting time:** 1 Action

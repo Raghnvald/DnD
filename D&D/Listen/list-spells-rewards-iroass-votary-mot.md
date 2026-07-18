@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Iroas's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Iroas's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/iroass-votary
+  - Zauber/Liste/reward/iroass-votary
 aliases:
   - "Spells for Iroas's Votary"
 ---

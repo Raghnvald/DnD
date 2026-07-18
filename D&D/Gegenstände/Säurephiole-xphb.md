@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Acid
+Status: WIP
 linter-yaml-title-alias: Acid
 tags:
   - Gegenstand/Ausrüstung/

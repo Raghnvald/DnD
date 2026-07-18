@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Melissara Shadowdusk
+Status: WIP
 linter-yaml-title-alias: Melissara Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß

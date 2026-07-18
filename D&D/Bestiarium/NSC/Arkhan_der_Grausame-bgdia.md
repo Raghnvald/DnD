@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Arkhan the Cruel
 Kategorie: Humanoid (Drachenblütiger)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Arkhan the Cruel
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Arkhan the Cruel
+status: WIP
 ---
 # Arkhan the Cruel
 *Source: Baldur's Gate: Descent Into Avernus p. 111*  

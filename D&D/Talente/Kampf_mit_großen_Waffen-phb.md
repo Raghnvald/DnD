@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kampf mit großen Waffen
+Status: WIP
 linter-yaml-title-alias: Kampf mit großen Waffen
 tags:
   - Kompendium/Optionales/fs-f

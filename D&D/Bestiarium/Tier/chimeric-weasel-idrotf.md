@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chimeric Weasel
+Status: WIP
 linter-yaml-title-alias: Chimeric Weasel
 tags:
   - Monster/Größe/Winzig

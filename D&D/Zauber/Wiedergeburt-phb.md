@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Reincarnate
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Reincarnate
 classes:
   - Bard (Magical Secrets)

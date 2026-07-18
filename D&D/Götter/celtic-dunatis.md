@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Dunatis
+Status: WIP
 linter-yaml-title-alias: Dunatis
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Quelle/5e/phb
 aliases:
   - Dunatis

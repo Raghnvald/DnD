@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Orcus
+Status: WIP
 linter-yaml-title-alias: Orcus
 tags:
   - Monster/legendary-group

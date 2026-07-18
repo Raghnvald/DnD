@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkaner Fokus
+Status: completed
 linter-yaml-title-alias: Arkaner Fokus
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

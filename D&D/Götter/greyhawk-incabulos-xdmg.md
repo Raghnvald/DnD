@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Incabulos
+Status: WIP
 linter-yaml-title-alias: Incabulos
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Incabulos

@@ -8,7 +8,7 @@ HG: 15
 Habitat:
   - Stadt
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vampire Umbral Lord
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Vampire Umbral Lord
+status: WIP
 ---
 # [Vampire Umbral Lord](3-Mechanics\CLI\bestiary\undead/vampire-umbral-lord-xmm.md)
 *Source: Monster Manual (2024) p. 318*  

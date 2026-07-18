@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Project Image
+Status: WIP
 linter-yaml-title-alias: Project Image
 classes:
   - Bard

@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
-Angriff: Nahkampf
+Angriff: Nah
 Schaden: 1d6 Stich
+Status: WIP
 linter-yaml-title-alias: Dornenpeitsche
 classes:
   - Bard (Magical Secrets)
@@ -18,7 +19,7 @@ tags:
   - Klasse/Druide
   - Klasse/Druide/circle-of-the-land/arctic
   - Klasse/Kleriker/nature-domain
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tomecssclasses:

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix C: Treasures"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Treasures"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Appendix C: Treasures"
-  - Appendix C: Treasures
 ---
 # Appendix C: Treasures
 *Source: Curse of Strahd, p. 221* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enhanced Defense
+Status: WIP
 linter-yaml-title-alias: Enhanced Defense
 tags:
   - Kompendium/Optionales/ai

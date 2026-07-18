@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Solar Bastion Quests
+Status: WIP
 linter-yaml-title-alias: Solar Bastion Quests
 tags:
   - Quelle/5e/bmt

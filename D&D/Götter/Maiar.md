@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maiar, Gott der Jagd
+Status: WIP
 linter-yaml-title-alias: Maiar, Gott der Jagd
 tags:
   - Kompendium/Götter

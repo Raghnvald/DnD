@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ships in Combat
+Status: WIP
 linter-yaml-title-alias: Ships in Combat
 tags:
   - Quelle/5e/gos
 aliases:
-  - "Ships in Combat"
+  - Ships in Combat
   - Ships in Combat
 ---
 # Ships in Combat

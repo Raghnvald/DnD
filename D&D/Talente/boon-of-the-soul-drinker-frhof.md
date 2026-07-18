@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of the Soul Drinker
+Status: WIP
 linter-yaml-title-alias: Boon of the Soul Drinker
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of the Soul Drinker"
+  - Boon of the Soul Drinker
   - Boon of the Soul Drinker
 ---
 # Boon of the Soul Drinker

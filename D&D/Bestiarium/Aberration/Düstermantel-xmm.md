@@ -5,6 +5,7 @@ Bezeichnung: Darkmantle
 Kategorie: Aberration
 Größe: Klein
 HG: 1/2
+Status: WIP
 linter-yaml-title-alias: Darkmantle
 tags:
   - Monster/Größe/Klein

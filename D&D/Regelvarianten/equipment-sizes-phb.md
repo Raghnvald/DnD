@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Equipment Sizes
+Status: WIP
 linter-yaml-title-alias: Equipment Sizes
 tags:
   - Quelle/5e/phb

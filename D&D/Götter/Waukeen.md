@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waukeen, Göttin des Handels
+Status: WIP
 linter-yaml-title-alias: Waukeen, Göttin des Handels
 tags:
   - Kompendium/Götter

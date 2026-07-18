@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Intellect Fortress
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Intellect Fortress
 classes:
   - Artificer

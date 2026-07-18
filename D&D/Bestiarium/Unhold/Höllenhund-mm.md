@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hell Hound
+Status: WIP
 linter-yaml-title-alias: Hell Hound
 tags:
   - Monster/Größe/Mittelgroß

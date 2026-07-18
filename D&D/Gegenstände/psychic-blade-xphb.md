@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Psychic Blade
+Status: WIP
 linter-yaml-title-alias: Psychic Blade
 tags:
   - Gegenstand/Seltenheit/keine

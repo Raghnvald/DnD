@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Undying Soldier
+Status: WIP
 linter-yaml-title-alias: Undying Soldier
 tags:
   - Monster/Größe/Mittelgroß

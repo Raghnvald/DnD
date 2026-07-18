@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Knight of the Sword
+Status: WIP
 linter-yaml-title-alias: Knight of the Sword
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
-  - "Knight of the Sword"
+  - Knight of the Sword
   - Knight of the Sword
 ---
 # Knight of the Sword

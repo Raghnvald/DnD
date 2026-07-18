@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Doty X
+Status: WIP
 linter-yaml-title-alias: Doty X
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Abjurer
+Status: WIP
 linter-yaml-title-alias: Abjurer
 tags:
   - Klasse/Magier/abjurer

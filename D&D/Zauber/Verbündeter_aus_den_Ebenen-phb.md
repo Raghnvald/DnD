@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Planar Ally
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Planar Ally
 classes:
   - Bard (Magical Secrets)

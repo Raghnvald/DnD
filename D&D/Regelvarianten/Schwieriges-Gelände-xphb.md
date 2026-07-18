@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Difficult Terrain
+Status: WIP
 linter-yaml-title-alias: Difficult Terrain
 tags:
   - Quelle/5e/xphb

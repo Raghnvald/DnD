@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Aspirant of the Comet
 Kategorie: Humanoid
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aspirant of the Comet
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Aspirant of the Comet
+status: WIP
 ---
 # [Aspirant of the Comet](3-Mechanics\CLI\bestiary\humanoid/aspirant-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 91*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wizard
+Status: WIP
 linter-yaml-title-alias: Wizard
 tags:
   - Klasse/Magier

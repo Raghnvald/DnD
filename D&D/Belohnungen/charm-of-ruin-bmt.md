@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Ruin
+Status: WIP
 linter-yaml-title-alias: Charm of Ruin
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of Ruin

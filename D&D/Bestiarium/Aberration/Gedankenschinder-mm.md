@@ -5,7 +5,7 @@ Bezeichnung: Mind Flayer
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 7
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Mind Flayer
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Mind Flayer
+status: WIP
 ---
 # [Mind Flayer](3-Mechanics\CLI\bestiary\aberration/mind-flayer.md)
 *Source: Monster Manual p. 222*  

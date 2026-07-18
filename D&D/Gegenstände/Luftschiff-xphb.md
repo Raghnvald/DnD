@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Airship
+Status: WIP
 linter-yaml-title-alias: Airship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

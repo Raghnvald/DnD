@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hierophant of the Comet
+Status: WIP
 linter-yaml-title-alias: Hierophant of the Comet
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,13 +2,14 @@
 Bezeichnung: Ring des Winters
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Ring des Winters
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/toa
 aliases:
   - Ring des Winters

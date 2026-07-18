@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 10: Muiral's Gauntlet"
+Status: WIP
 linter-yaml-title-alias: "Level 10: Muiral's Gauntlet"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 10: Muiral's Gauntlet"
-  - Level 10: Muiral's Gauntlet
 ---
 # Level 10: Muiral's Gauntlet
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 135* 

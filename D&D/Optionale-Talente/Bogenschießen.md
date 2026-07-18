@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bogenschießen
+Status: WIP
 tags:
   - Kompendium/Optionales/fs-f
   - Kompendium/Optionales/fs-r

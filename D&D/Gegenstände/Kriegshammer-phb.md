@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Kriegshammer
-Kategorie: Nahkampf-Kriegswaffe
+Original: Warhammer
+Kategorie: Nahkampfwaffe, Kriegswaffe
 Schaden: 1W8 Wucht
 Eigenschaften:
   - Vielseitig (1W10)
 Kst.: 15 GM
 Gew.: 1,0 kg
+Status: completed
 linter-yaml-title-alias: Kriegshammer
 tags:
   - Gegenstand/Seltenheit/keine
@@ -24,6 +26,6 @@ aliases:
   - Zweihändig: 1W10 Wucht
 - **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
 - **Kosten**: 15 GM
-- **Gewicht**: 1,0 kg.
+- **Gewicht**: 1,0 kg
 
 *Quellen: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

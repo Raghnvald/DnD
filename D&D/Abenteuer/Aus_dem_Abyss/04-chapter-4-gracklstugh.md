@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Gracklstugh"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Gracklstugh"
 tags:
   - Quelle/5e/oota

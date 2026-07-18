@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cosmic Horror Plots
+Status: WIP
 linter-yaml-title-alias: Cosmic Horror Plots
 tags:
   - Quelle/5e/vrgr

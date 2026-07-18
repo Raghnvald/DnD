@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mastiff
+Status: WIP
 linter-yaml-title-alias: Mastiff
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

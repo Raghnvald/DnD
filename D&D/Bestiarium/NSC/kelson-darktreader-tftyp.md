@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kelson Darktreader
+Status: WIP
 linter-yaml-title-alias: Kelson Darktreader
 tags:
   - Monster/Größe/Mittelgroß

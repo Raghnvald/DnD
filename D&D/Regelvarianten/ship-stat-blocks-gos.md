@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ship Stat Blocks
+Status: WIP
 linter-yaml-title-alias: Ship Stat Blocks
 tags:
   - Quelle/5e/gos
 aliases:
-  - "Ship Stat Blocks"
+  - Ship Stat Blocks
   - Ship Stat Blocks
 ---
 # Ship Stat Blocks

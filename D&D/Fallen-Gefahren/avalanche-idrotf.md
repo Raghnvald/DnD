@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Avalanche
+Status: WIP
 linter-yaml-title-alias: Avalanche
 tags:
   - Kompendium/Bedrohung/wld

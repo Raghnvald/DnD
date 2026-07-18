@@ -2,14 +2,15 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tin Soldier
+Status: WIP
 linter-yaml-title-alias: Tin Soldier
 tags:
   - Quelle/5e/wbtw
-  - ttrpg-cli/monster/cr/1
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/construct
+  - Monster/HG/1
+  - Monster/Größe/Klein
+  - Monster/Typ/Konstrukt
 aliases:
-  - "Tin Soldier"
+  - Tin Soldier
   - Tin Soldier
 ---
 # [Tin Soldier](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md)

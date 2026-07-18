@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Githyanki Gish
+Status: WIP
 linter-yaml-title-alias: Githyanki Gish
 tags:
   - Monster/Größe/Mittelgroß

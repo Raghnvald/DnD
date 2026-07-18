@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Tasha's Otherworldly Guise"
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: "Tasha's Otherworldly Guise"
 classes:
   - Bard

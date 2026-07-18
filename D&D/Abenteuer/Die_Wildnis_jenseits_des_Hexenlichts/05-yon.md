@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Yon
+Status: WIP
 linter-yaml-title-alias: Yon
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Yon"
+  - Yon
   - Yon
 ---
 # Yon

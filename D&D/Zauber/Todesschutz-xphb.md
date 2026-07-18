@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Death Ward
+Status: WIP
 linter-yaml-title-alias: Death Ward
 classes:
   - Artificer (Alchemist)
@@ -16,7 +17,7 @@ tags:
   - Klasse/Kleriker
   - Klasse/Kleriker/death-domain
   - Klasse/Kleriker/grave-domain
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
   - Quelle/5e/xphb
   - Subklasse/Alchemist

@@ -2,9 +2,11 @@
 Bezeichnung: Amulett des Schutzes gegen Ortung und Ausspähung
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
 tags:
   - Gegenstand/Einstimmung

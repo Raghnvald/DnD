@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Staff of Birdcalls
+Status: WIP
 linter-yaml-title-alias: Staff of Birdcalls
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

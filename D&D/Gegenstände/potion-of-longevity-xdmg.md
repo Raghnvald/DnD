@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Longevity
+Status: WIP
 linter-yaml-title-alias: Potion of Longevity
 tags:
   - Gegenstand/Seltenheit/sehr_selten

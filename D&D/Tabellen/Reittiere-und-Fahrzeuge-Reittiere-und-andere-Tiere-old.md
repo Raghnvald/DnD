@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reittiere und Fahrzeuge; Reittiere und andere Tiere
+Status: WIP
 linter-yaml-title-alias: Reittiere und Fahrzeuge; Reittiere und andere Tiere
 tags:
   - Quelle/5e/phb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Fiends)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Fiends)
 tags:
   - Gegenstand/Seltenheit/selten

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Giant Royal Headsman
+Status: WIP
 linter-yaml-title-alias: Fire Giant Royal Headsman
 tags:
   - Monster/Größe/Riesig

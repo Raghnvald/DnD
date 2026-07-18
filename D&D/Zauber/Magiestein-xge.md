@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Magic Stone
+Bezeichnung: Magiestein
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Bonusaktion
 Reichweite: Berührung
@@ -7,7 +7,8 @@ Komponenten: V, G
 Wirkungsdauer: 1 Minute
 Angriff:
 Schaden:
-linter-yaml-title-alias: Magic Stone
+Status: WIP
+linter-yaml-title-alias: Magiestein
 classes:
   - Artificer
   - Bard (College of Lore)
@@ -20,18 +21,18 @@ tags:
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Kleriker/nature-domain
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xge
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verwandlung
 aliases:
-  - Magic Stone
+  - Magiestein
 ---
-# Magic Stone
+# Magiestein
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 Bonus Action

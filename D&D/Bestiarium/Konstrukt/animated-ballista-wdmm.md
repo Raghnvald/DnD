@@ -7,7 +7,7 @@ Größe: Groß
 HG: "2"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Ballista
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Animated Ballista
+status: WIP
 ---
 # [Animated Ballista](3-Mechanics\CLI\bestiary\construct/animated-ballista-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 39*  

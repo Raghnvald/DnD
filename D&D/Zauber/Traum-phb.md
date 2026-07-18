@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dream
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Dream
 classes:
   - Bard (Magical Secrets)

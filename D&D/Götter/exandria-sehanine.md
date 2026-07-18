@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Sehanine
+Status: WIP
 linter-yaml-title-alias: Sehanine
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Sehanine

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dodekaeder des Verderbens
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Dodekaeder des Verderbens
 tags:
   - Gegenstand/Seltenheit/selten

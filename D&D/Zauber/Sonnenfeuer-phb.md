@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sunburst
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Sunburst
 classes:
   - Bard (Magical Secrets)

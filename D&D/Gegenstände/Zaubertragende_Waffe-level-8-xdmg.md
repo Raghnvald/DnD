@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 8)
+Status: WIP
 linter-yaml-title-alias: Enspelled Weapon (Level 8)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

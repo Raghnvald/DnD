@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Unicorn
+Status: WIP
 linter-yaml-title-alias: Unicorn
 tags:
   - Monster/Größe/Groß

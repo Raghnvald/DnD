@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Contact Other Plane
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Contact Other Plane
 classes:
   - Bard (Magical Secrets)

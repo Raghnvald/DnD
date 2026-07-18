@@ -1,248 +1,241 @@
 ---
-Bezeichnung: Spellcasting
+Bezeichnung: Zauber wirken
+Status: completed
 linter-yaml-title-alias: Spellcasting
 tags:
   - Quelle/5e/phb
 aliases:
   - Spellcasting
 ---
-# Spellcasting
-*Source: Player's Handbook (2014), p. 201* 
+# Zauber wirken
+*Quelle: Spielerhandbuch (2014), S. 201* 
 
-Magic permeates the worlds of D&D and most often appears in the form of a spell.
+Magie erfüllt die Welt von D&D und meist nimmt sie die Gestalt von Zaubern an. Dieses Kapitel beschreibt die Regeln zum Wirken von Zaubersprüchen. Die Klassen unterscheiden sich darin, wie sie ihre Zauber lernen und vorbereiten, und Monster nutzen Magie auf ganz einzigartige Weise. Gleichgültig aus welcher Quelle sie stammen, verwenden Zauber die folgenden Regeln. 
 
-This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
+![](img/ch10.webp#center)
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch10.webp#center)
+## Was ist ein Zauber?
 
-## What is a Spell?
+Ein Zauber ist ein einzelner magischer Effekt, der die kosmischen Energien, die,das Multiversum erfüllen, in eine spezifische Form bringt. Wirkt ein Charakter einen Zauber, zieht er behutsam an den unsichtbaren Fäden, welche die Welt erfüllen, fixiert sie in einem bestimmten Muster und lässt sie auf eine spezifische Art vibrieren. Dann löst er die Verbindung, um den gewünschten Effekt zu entfesseln. All das geschieht meist innerhalb weniger Sekunden.
 
-A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
+Zauber können vielseitige Werkzeuge, Waffen oder Schutzvorkehrungen sein. Sie können Schaden verursachen oder ihn heilen, Zustände auferlegen oder entfernen, Lebensenergie entziehen oder die Toten mit neuem Leben erfüllen.
 
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see "appendix A"), drain life energy away, and restore life to the dead.
+Im Laufe der Geschichte des Multiversums wurden unzählige Zauber erschaffen, von denen viele längst in Vergessenheit gerieten. Einige sind möglicherweise noch in verfallenden Zauberbüchern niedergeschrieben, die in uralten Ruinen verborgen liegen, oder im Geist eines toten Gottes gefangen. Vielleicht werden sie eines Tages von einem Charakter wiederentdeckt, der ausreichend Macht und Wissen angesammelt hat.
 
-Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
+### Zaubergrad
 
-### Spell Level
+Jeder Zauber besitzt einen Grad von Obis 9. Dieser ist ein Hinweis darauf, wie mächtig der Spruch ist, mit dem einfachen (aber immer noch eindrucksvollen) [[Magisches_Geschoss-phb|Magischen Geschoss]] auf dem 1. und dem welterschütternden [[Wunsch-phb|Wunsch]] auf dem 9. Grad. Zaubertricks haben einen Grad von 0 und sind schlichte, aber mächtige Sprüche, die Charaktere fast automatisch wirken können. Je höher der Grad eines Zaubers ist, desto höher muss die Stufe des Wirkenden sein, damit er ihn verwenden kann. 
 
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) magic missile at 1st level and the incredible time stop at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+Zaubergrad und Charakterstufe entsprechen sich nicht unmittelbar. Für gewöhnlich muss ein Charakter die 17. Stufe erreichen, nicht die 9., um einen Zauber des 9. Grades zu wirken.
 
-Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
+### Bekannte und vorbereitete Zauber
 
-### Known and Prepared Spells
+Ehe ein Zauberwirker einen Spruch entfesseln kann, muss er diesen fest in seinem Geist verankern oder durch einen magischen Gegenstand Zugriff auf ihn haben. Mitglieder einiger Klassen, wie Barden und Zauberer, besitzen eine begrenzte Anzahl von Zaubern, die ihnen immer zur Verfügung stehen. Dies gilt auch für viele Monster, die Magie verwenden. Andere Zauberwirker, wie Kleriker und Magier, müssen sämtliche Zauber vorbereiten, die sie einsetzen wollen. Dieser Vorgang unterscheidet sich je nach Klasse und ist in deren Beschreibungen angegeben. Die Anzahl der Sprüche, die ein Zauberwirker in seinem Verstand verankert haben kann, ist von seiner Charakterstufe abhängig.
 
-Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+### Zauberplätze
 
-In every case, the number of spells a caster can have fixed in mind at any given time depends on the character's level.
+Gleichgültig wie viele Sprüche ein Zauberwirker kennt oder vorbereitet, kann er nur eine begrenzte Anzahl wirken, ehe er sich ausruhen muss. Es ist körperlich und geistig anstrengend, das Gewebe der Magie zu beeinflussen und deren Energien selbst in einen einfachen Zauber zu kanalisieren, bei Zaubern eines höheren Grades gilt dies umso mehr. Aus diesem Grund ist in der Aufstiegstabelle jeder zauberwirkenden Klasse (außer des Hexenmeisters) angegeben, wie viele Zauberplätze eines jeden Grades dem Charakter auf seiner aktuellen Stufe zur Verfügung stehen. Beispielsweise besitzt Umaru, eine Magierin der 3. Stufe, vier Zauberplätze des 1. und zwei des 2. Grades. 
 
-### Spell Slots
+Wenn ein Charakter einen Zauber wirkt, muss er einen Zauberplatz verbrauchen, der dem Grad des Spruches entspricht oder höher ist. Effektiv „füllt" er den Zauberplatz mit dem Spruch. Du kannst dir einen Zauberplatz als Kerbe in einer bestimmten Größe vorstellen - klein für den 1. Grad, größer für höhere Grade. Ein Spruch des 1. Grades passt in einen Platz jeder Größe, einer des 9. Grades hingegen nur in einen Zauberplatz des 9. Grades. Wenn Umara den Zauber Magisches Geschoss wirkt, ein Spruch des 1. Grades, verbraucht sie einen ihrer vier Zauberplätze des 1. Grades und hat anschließend noch drei übrig.
 
-Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher level spells are even more so. Thus, each spellcasting class's description includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
+Nach einer langen Rast stehen alle verbrauchten Zauberplätze wieder zur Verfüpgung (in Kapitel 8 „Auf Abenteuer ausziehen" findest du die Regeln zum Rasten).
 
-When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts magic missile, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
+Einige Charaktere und Monster besitzen besondere Fähigkeiten, die es ihnen erlauben, Zauber zu wirken, ohne Zauberplätze zu verbrauchen - beispielsweise ein Mönch, der dem Weg der Vier Elemente folgt, ein Hexenmeister, der bestimmte Schauerliche Anrufungen nutzt, oder ein Grubenteufel aus den Neun Höllen.
 
-Finishing a long rest restores any expended spell slots (see chapter 8 for the rules on resting).
+#### Einen Zauber auf einem höheren Grad wirken
 
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
+Wird ein Spruch mit einem Zauberplatz gewirkt, der einen höheren Grad als der Spruch selbst besitzt, nimmt er diesen höheren Grad an. Verbraucht Umara für ihr [[Magisches_Geschoss-phb|Magisches Geschoss]] beispielsweise einen Zauberplatz des 2. Grades, weist auch das [[Magisches_Geschoss-phb|Magische Geschoss]] Grad 2 auf. Bildhaft gesprochen dehnt sich der Zauber aus und füllt den Zauberplatz aus, den du ihm zuordnest. 
 
-#### Casting a Spell at a Higher Level
+Einige Zauber, wie [[Magisches_Geschoss-phb|Magisches Geschoss]] und [[Wunden_heilen-phb|Wunden heilen]], haben mächtigere Effekte, wenn du sie auf einem höheren Grad wirkst. Dies ist in der Beschreibung des Zaubers aufgeführt. 
 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts magic missile using one of her 2nd-level slots, that magic missile is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+### Zaubertricks
 
-Some spells, such as magic missile and cure wounds, have more powerful effects when cast at a higher level, as detailed in a spell's description.
+Ein Zaubertrick ist ein Spruch, den du nach Belieben wirken kannst, ohne einen Zauberplatz zu verbrauchen und ohne ihn im Vorfeld vorzubereiten. Wiederholtes Üben hat den Spruch dauerhaft im Geist des Zauberwirkers verankert und lässt diesen die magischen Energien so intuitiv kanalisieren, dass er ihn wieder und wieder zu wirken vermag. Der Grad eines Zaubertricks ist 0.
 
-### Cantrips
+### Rituale
 
-A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster's mind and infused the caster with the magic needed to produce the effect over and over. A cantrip's spell level is 0.
+Bestimmte Zauber sind in ihrer Beschreibung als Ritual gekennzeichnet. Diese können sowohl nach den normalen Regeln gewirkt werden als auch nach den Regeln für Rituale. Einen Zauber als Ritual zu wirken, erhöht seinen Zeitaufwand um 10 Minuten.
 
-### Rituals
+Ein Ritual verbraucht zudem keinen Zauberplatz, was auch bedeutet, dass die Ritualversion eines Spruches nicht auf einem höheren Grad gewirkt werden kann.
 
-Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal.
+Um einen Zauber als Ritual wirken zu können, muss der Zauberwirker ein Merkmal besitzen, das ihm dies erlaubt (wie etwa der Kleriker und der Druide). Er muss den Spruch außerdem vorbereitet oder auf seiner Liste bekannter Zauber haben, es sei denn, das Ritual-Merkmal des Charakters gibt es anders an, wie es beim Magier der Fall ist.
 
-It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.
+## Einen Zauber wirken
 
-To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character's ritual feature specifies otherwise, as the wizard's does.
+Beim Wirken eines Zaubers wendet jeder Charakter die gleichen grundlegenden Regeln an, unabhängig von seiner Klasse oder dem Effekt des Spruches.
 
-## Casting a Spell
+Jede Beschreibung in Kapitel 11 „Zauber" beginnt mit einem Informationsblock, der den Namen des Zaubers angibt, den Grad, zu welcher Schule der Magie er gehört, den Zeitaufwand, die Reichweite, die Komponenten und die Wirkungsdauer.
 
-When a character casts any spell, the same basic rules are followed, regardless of the character's class or the spell's effects.
+Anschließend wird der Effekt des Zaubers beschrieben. 
 
-Each spell description in "chapter 11" begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect.
-
-> [!note] Casting in Armor
+> [!note] Zaubern in Rüstung
 > 
-> Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+> Aufgrund der geistigen Konzentration und der präzisen Gesten, die beim Zaubern notwendig sind, musst du geübt im Umgang mit deiner getragenen Rüstung sein, um Zauber wirken zu können. Ansonsten lenkt dich die Rüstung zu sehr ab und behindert dich, als dass du dich auf das Zaubern konzentrieren könntest.
 ^casting-in-armor
 
-### Casting Time
+### Zeitaufwand
 
-Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast.
+Die meisten Zauber können mit einer einzelnen Aktion gewirkt werden, einige jedoch erfordern deutlich mehr Zeit, andere nur eine Bonusaktion oder eine Reaktion. 
 
-#### Bonus Action
+#### Bonusaktion
 
-A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
+Ein Zauber, der mit einer Bonusaktion gewirkt wird, ist besonders schnell. Wende für einen solchen Spruch in deinem Zug eine Bonusaktion auf, vorausgesetzt dass du in diesem noch keine genutzt hast. Du kannst keinen anderen Zauber in diesem Zug wirken, außer einem Zaubertrick mit einem Zeitaufwand von einer Aktion.
 
-#### Reactions
+#### Reaktion
 
-Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so.
+Einige Zauber können als Reaktion gewirkt werden. Sie erfordern nur einen Sekundenbruchteil der Konzentration und stellen die Antwort auf ein bestimmtes Ereignis dar. Wenn ein Zauber als Reaktion gewirkt werden kann, ist in seiner Beschreibung angegeben, zu welchem Zeitpunkt dies genau möglich ist. 
 
-#### Longer Casting Times
+#### Längerer Zeitaufwand
 
-Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see "Concentration" below). If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.
+Bestimmte Zauber (auch Rituale) erfordern mehr Zeit, um sie zu wirken: Minuten oder sogar Stunden. Verwendest du einen Spruch mit einem längeren Zeitaufwand als eine Aktion oder Reaktion, musst du in jedem Zug, den du den Zauber wirkst, deine Aktion darauf verwenden und die ganze Zeit über deine Konzentration aufrechterhalten (siehe „Konzentration" weiter unten). Wird deine Konzentration unterbrochen, scheitert der Zauber, aber du verbrauchst keinen Zauberplatz. Wenn du den Spruch erneut wirken willst, musst du von vom beginnen. 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c101.webp#center)
+![](img/c101.webp#center)
 
-### Range
+### Reichweite
 
-The target of a spell must be within the spell's range. For a spell like magic missile, the target is a creature. For a spell like fireball, the target is the point in space where the ball of fire erupts.
+Das Ziel eines Zaubers muss sich innerhalb seiner Reichweite befinden. Bei Zaubern wie Magisches Geschoss ist das Ziel eine Kreatur. Bei Zaubern wie Feuerball ist es der Punkt, an dem der Effekt seine Wirkung entfaltet (etwa der lodernde Ball explodiert).
 
-Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the shield spell, affect only you. These spells have a range of self.
+Bei den meisten Zaubern ist die Reichweite in Metern angegeben. Einige Sprüche können nur eine Kreatur beeinflussen, die du berührst (inklusive dir selbst), andere wie Schild sogar ausschließlich dich selbst.
 
-Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you (see "Areas of Effect" later in the this chapter).
+Zauber, deren Effekte kegel- oder linienförmig von dir ausgehen, weisen ebenfalls die Reichweitenangabe selbst auf, was bedeutet, dass der Ausgangspunkt des Zaubers du selbst sein musst (siehe „Flächeneffekte" später in diesem Kapitel).
 
-Once a spell is cast, its effects aren't limited by its range, unless the spell's description says otherwise.
+Sobald ein Zauber gewirkt ist, sind seine Effekte nicht mehr durch seine Reichweite beschränkt, es sei denn, in der Beschreibung ist es anders angegeben. 
 
-### Components
+### Komponenten
 
-A spell's components are the physical requirements you must meet in order to cast it. Each spell's description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can't provide one or more of a spell's components, you are unable to cast the spell.
+Die Komponenten eines Zaubers sind die physischen Anforderungen, die du erfüllen musst, um ihn wirken zu können. Die Beschreibung jedes Zaubers gibt an, ob er Komponenten erfordert. Diese können verbal (V), Gesten (G) oder Material (M) sein. Kannst du eine oder mehrere Komponenten des Zaubers nicht erfüllen, ist es dir nicht möglich, ihn zu wirken. 
 
 #### Verbal (V)
 
-Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can't cast a spell with a verbal component.
+Die meisten Zauber erfordern, dass du mystische Worte intonierst. Die Worte selbst sind nicht die Quelle der Macht eines Zaubers, vielmehr setzt die Kombination aus Lauten, mit ihrer Betonung und Resonanz, die Fäden der Magie in Bewegung. Ein Charakter, der geknebelt ist oder sich in einem Bereich der Stille befindet, wie er beispielsweise mit dem Zauber Stille erschaffen wird, kann keine Zauber mit verbaler Komponente wirken. 
 
-#### Somatic (S)
+#### Gesten (G)
 
-Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+Das Wirken von Zaubern umfasst oft ausladende Gesten oder subtile Handbewegungen. Weist ein Spruch eine Gestenkomponente auf, muss der Zauberwirker mindestens eine Hand frei haben, um die entsprechenden Gesten auszuführen.
 
 #### Material (M)
 
-Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in chapter 5) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+Einige Zauber erfordern bestimmte Gegenstände, die in Klammem hinter dem Komponenteneintrag angegeben sind. Ein Charakter kann einen [[Materialkomponentenbeutel-phb|Materialkomponentenbeutel]] oder einen Zauberfokus (siehe Kapitel 5 „Ausrüstung") anstelle der notwendigen Materialkomponenten verwenden. Sind Kosten für eine Komponente angegeben, muss der Charakter diesen spezifischen Gegenstand besitzen, ehe er den Spruch wirken kann. 
 
-If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
+Gibt ein Zauber an, dass eine Materialkomponente beim Wirken verbraucht wird, musst du diese bei jedem Einsatz des Zaubers erneut aufwenden und zur Verfügung haben.
 
-A spellcaster must have a hand free to access a spell's material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.
+Ein Zauberwirker benötigt mindestens eine freie Hand, um die Materialkomponenten eines Zaubers zu verwenden -oder um den Zauberfokus zu halten-, es darf allerdings dieselbe Hand sein, mit der er die Gestenkomponente ausführt.
 
-### Duration
+### Wirkungsdauer
 
-A spell's duration is the length of time the spell persists. A duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spells are dispelled or destroyed.
+Die Wirkungsdauer eines Zaubers ist die Zeit, die sein Effekt anhält. Sie kann in Runden, Minuten, Stunden oder sogar Jahren angegeben sein. Einige Zauber legen fest, dass ihr Effekt andauert, bis der Spruch gebannt oder zerstört wird. 
 
-#### Instantaneous
+#### Unmittelbar
 
-Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can't be dispelled, because its magic exists only for an instant.
+Viele Zauber sind unmittelbar. Sie verletzen, heilen, erschaffen oder verändern eine Kreatttr oder einen Gegenstand auf eine Weise, die nicht gebannt werden kann, weil ihre Magie nur für einen Augenblick existiert. 
 
-#### Concentration
+#### Konzentration
 
-Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+Einige Zauber erfordern, dass du dich konzentrierst, damit ihr Effekt bestehen bleibt. Verlierst du die Konzentration, endet der Zauber.
 
-If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+Muss ein Zauber mit Konzentration aufrechterhalten werden, ist dies bei der Wirkungsdauer angegeben, einschließlich der Zeit, die du dich auf ihn konzentrieren kannst. Du darfst deine Konzentration jederzeit beenden (dazu ist keine Aktion notwendig).
 
-Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:
+Normale Handlungen, wie eine Bewegung oder ein Angriff, stören deine Konzentration nicht. Die folgenden Faktoren können deine Konzentration unterbrechen: 
 
-- **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.  
-- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.  
-- **Being incapacitated or killed.** You lose concentration on a spell if you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or if you die.  
+- **Einen anderen Zauber wirken, der Konzentration erfordert.** Du verlierst die Konzentration auf einen Zauber, wenn du einen anderen wirkst, der ebenfalls Konzentration erfordert. Du kannst dich nicht auf zwei Zauber gleichzeitig konzentrieren. 
+- **Schaden erleiden.** Wenn du Schaden erleidest, während du dich auf einen Zauber konzentrierst, musst du einen `Konstitutions-Rettungswurf` ablegen, um deine Konzentration aufrechtzuerhalten. Der SG beträgt 10 oder die Hälfte des erlittenen Schadens, je nachdem, was höher ist. Nimmst du Schaden aus mehreren Quellen, musst du für jede Schadensquelle einen eigenen Rettungswurf ablegen. 
+- **Kampfunfähig sein oder getötet werden.** Du verlierst die Konzentration auf einen Zauber, wenn du [[Zustände-phb#Kampfunfähig|kampfunfähig]] wirst oder stirbst.
 
-The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
+Der SL kann auch entscheiden, dass bestimmte Situationen einen `Konsitutions-Rettungswurf` gegen `SG 10` erforderlich machen, um die Konzentration aufrechtzuerhalten. Beispielsweise wenn eine Welle über dich hereinbricht, während du an Deck eines Schiffes einen Zauber wirkst. 
 
-### Targets
+### Ziele
 
-A typical spell requires you to pick one or more targets to be affected by the spell's magic. A spell's description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).
+Ein typischer Zauber erfordert, dass du ein oder mehrere Ziele auswählst, die von seinen Effekten betroffen werden. In der Beschreibung eines Spruches ist angegeben, ob er auf Kreaturen, Gegenstände oder den Ursprungspunkt eines Flächeneffekts wirkt (siehe unten).
 
-Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature's thoughts, typically goes unnoticed, unless a spell says otherwise.
+Besitzt ein Spruch keinen wahrnehmbaren Effekt, weiß eine Kreatur vielleicht nicht, dass sie Ziel eines Zaubers wurde. Ein knisternder Blitz ist natürlich offensichtlich, der Versuch beispielsweise, die Gedanken einer Kreatur zu lesen, bleibt jedoch für gewöhnlich unbemerkt, es sei denn, der Zauber besagt etwas anderes. 
 
-#### A Clear Path to the Target
+#### Freier Weg zum Ziel
 
-To target something, you must have a clear path to it, so it can't be behind total cover.
+Um etwas als Ziel auswählen zu können, muss die Strecke zwischen ihm und dir frei sein, es darf sich also nicht hinter vollständiger Deckung befinden.
 
-If you place an area of effect at a point that you can't see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.
+Wenn du einen Flächeneffekt an einem Punkt platzierst, den du nicht sehen kannst, und es ein Hindernis (etwa eine Mauer) zwischen dir und diesem Punkt gibt, wird der Ursprungspunkt auf der dir zugewandten Seite des Hindernisses platziert. 
 
-#### Targeting Yourself
+#### Du selbst als Ziel
 
-If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
+Wenn der Zauber eine Kreatur deiner Wahl zum Ziel hat, kannst du dich selbst bestimmen, es sei denn, die Kreatur muss feindlich sein oder es ist explizit angegeben, dass es eine andere Kreatur als du sein muss. Wenn du dich im Flächeneffekt eines Zaubers befindest, den du wirkst, kannst du dich selbst als Ziel wählen. 
 
-> [!note] The Schools of Magic
+> [!note] Die Schulen der Magie
 > 
-> - **Abjuration.** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.  
-> - **Conjuration.** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.  
-> - **Divination.** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.  
-> - **Enchantment.** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.  
-> - **Evocation.** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.  
-> - **Illusion.** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.  
-> - **Necromancy.** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.  
+> Akademien ordnen Zauber in acht Kategorien, welche die Schulen der Magie genannt werden. Gelehrte, besonders Magier, wenden diese Kategorien auf alle Zauber an. Sie sind überzeugt, dass jegliche Magie letztlich auf die gleiche Art und Weise funktioniert, ob sie nun genauen Studien entspringt oder von einer Gottheit verliehen wurde. 
 > 
->     Creating the undead through the use of necromancy spells such as [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md) is not a good act, and only evil casters use such spells frequently.  
-> - **Transmutation.** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.  
+> Die Schulen der Magie helfen dabei, einen Zauber zu beschreiben. Für sie gelten keine eigenen Regeln, auch wenn sich einige andere auf diese Kategorisierung beziehen. 
+> 
+> - **Bannzauber** sind schützender Natur, doch können manche von ihnen auch offensiv eingesetzt werden. Sie erschaffen magische Barrieren, heben schädigende Effekte auf oder verbannen Kreaturen auf andere Existenzebenen.
+> - **Beschwörungszauber** transportieren Gegenstände und Kreaturen von einem Ort an einen anderen. Einige rufen Kreaturen oder Gegenstände herbei, während andere es dem Zauberwirker erlauben, sich zu teleportieren. Manche Beschwörungszauber erschaffen Gegenstände oder Effekte aus dem Nichts.
+> - **Erkenntniszauber** offenbaren Informationen, sei es ein lange vergessenes Geheimnis, ein Blick in die Zukunft, die Position verborgener Gegenstände, die Wahrheit hinter einer Illusionen oder die Vision weit entfernter Personen oder Orte.
+> - **Hervorrufungszauber** manipulieren magische Energie, um einen gewünschten Effekt zu erzeugen. Einige erschaffen Blitze oder Feuer. Andere kanalisieren Energie, um Wunden zu heilen.
+> - **lllusionszauber** täuschen die Sinne und verwirren die Gedanken. Sie lassen eine Kreatur Dinge sehen, die gar nicht da sind, oder Dinge übersehen, die es wirklich gibt. Sie rufen Phantomlaute hervor oder Erinnerungen an Ereignisse, die nie passiert sind. Einige Illusionen erschaffen Trugbilder, die jeder sehen kann, aber die perfidesten von ihnen pflanzen ein Bild direkt in den Verstand einer Kreatur.
+> - **Nekromantiezauber** lenken die Energien von Leben und Tod. Sie vermögen einer anderen Kreatur die Lebenskraft zu entziehen und der eigenen hinzuzufügen, Untote zu erschaffen oder sogar die Toten zum Leben zu erwecken. Es ist keine gute Tat, Untote mittels Nekromantie zu erschaffen, und nur böse Zauberwirker wenden solche Magie regelmäßig an.
+> - **Verwandlungszauber** verändern die Eigenschaften von Kreaturen, Gegenständen oder einer ganzen Umgebung. Sie sind in der Lage, einen Gegner in eine harmlose Kreatur zu verwandeln, einen Verbündeten stärker zu '11achen, einen Gegenstand auf _ Befehl des Zauberwirkers zu bewegen oder die Heilungsfähigkeiten einer Kreatur so zu beschleunigen, dass sie sich schnell von ihren Wunden erholt.
+> - **Verzauberungen** beeinflussen den Verstand einer Person und manipulieren oder kontrollieren ihr Verhalten. Sie können Feinde zwingen, den Zauberwirker als Freund zu betrachten, Kreaturen zu einer bestimmten Handlungsweise bewegen oder diese sogar in eine wahre Marionette des Wirkenden verwandeln.
 ^the-schools-of-magic
 
-### Areas of Effect
+### Flächeneffekte
 
-Spells such as [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md) and [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md) cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
+Zauber wie [[Brennende_Hände-phb|Brennende Hände]] und [[Kältekegel-phb|Kältekegel]] wirken auf einen ganzen Bereich, was es ermöglicht, mehrere Kreaturen auf einmal zu beeinflussen. Die Beschreibung eines Zaubers gibt an, um welchen Flächeneffekt es sich handelt. Für gewöhnlich hat dieser eine der folgenden Formen: Kegel, Linie, Würfel, Sphäre oder Zylinder. Jeder Flächeneffekt besitzt einen Ursprungspunkt, einen Ort, von dem die Energie des Zaubers ausgeht. Die Regeln für jede Form bestimmen, wie du den **Ursprungspunkt** platzierst. Normalerweise handelt es sich dabei um einen Punkt im Raum, einige Zauber jedoch wirken auf einen Bereich, dessen Ursprung eine Kreatur oder ein Gegenstand ist.
 
-A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide total cover, as explained in chapter 9.
+Der Effekt eines Zaubers geht in geraden Linien vom_ Ursprungspunkt aus. Lässt sich keine gerade Linie vom Ursprungspunkt zu einem Ort innerhalb des Flächeneffekts ziehen, betrifft der Zauber diesen nicht. Damit ein Hindernis eine dieser Linien blockiert, muss es vollständige Deckung bieten (siehe Kapitel 9 „Kampf'). 
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/point-of-origin.webp#center)
+![](img/point-of-origin.webp#center)
 
-#### Cone
+#### Kegel
 
-A cone extends in a direction you choose from its point of origin. A cone's width at a given point along its length is equal to that point's distance from the point of origin. A cone's area of effect specifies its maximum length.
+Ein Kegel erstreckt sich vom Ursprungspunkt aus in eine Richtung deiner Wahl. Die Breite eines Kegels an jedem Punkt entlang seiner Länge entspricht der Entfernung dieses Punkts vom Ursprungspunkt (nach 3 m Länge ist ein Kegel also 3 m breit). In der Beschreibung eines Zaubers ist die maximale Länge des Kegels angegeben.
 
-A cone's point of origin is not included in the cone's area of effect, unless you decide otherwise.
+Der Ursprungspunkt des Kegels ist nicht Teil seines Flächeneffekts, es sei denn, du möchtest, dass er es ist.
 
-#### Cube
+#### Linie
 
-You select a cube's point of origin, which lies anywhere on a face of the cubic effect. The cube's size is expressed as the length of each side.
+Eine Linie verläuft vom Ursprungspunkt als gerade Strecke bis zu ihrer maximalen Länge und deckt einen Bereich entsprechend ihrer Breite ab.
 
-A cube's point of origin is not included in the cube's area of effect, unless you decide otherwise.
+Der Ursprungspunkt der Linie ist nicht Teil ihres Flächeneffekts, es sei denn, du möchtest, dass er es ist.
 
-#### Cylinder
+#### Sphäre
 
-A cylinder's point of origin is the center of a circle of a particular radius, as given in the spell description. The circle must either be on the ground or at the height of the spell effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell's effect then shoots up from the base or down from the top, to a distance equal to the height of the cylinder.
+Du wählst den Ursprungspunkt einer Sphäre, die sich von diesem Punkt aus gleichmäßig in alle Richtungen ausdehnt. Die Größe der Sphäre ist als Radius in Metern angeben, der von diesem Punkt ausgeht.
 
-A cylinder's point of origin is included in the cylinder's area of effect.
+Der Ursprungspunkt der Sphäre ist nicht Teil ihres Flächeneffekts, es sei denn, du möchtest, dass er es ist.
 
-#### Line
+#### Würfel
 
-A line extends from its point of origin in a straight path up to its length and covers an area defined by its width.
+Du wählst den Ursprungspunkt eines Würfels, der sich an einer beliebigen Stelle auf einer Seitenfläche des Würfels befinden muss. Die Größe des Würfels ist als seine Kantenlänge angegeben.
 
-A line's point of origin is not included in the line's area of effect, unless you decide otherwise.
+Der Ursprungspunkt des Würfels ist nicht Teil seines Flächeneffekts, es sei denn, du möchtest, dass er es ist.
 
-#### Sphere
+#### Zylinder
 
-You select a sphere's point of origin, and the sphere extends outward from that point. The sphere's size is expressed as a radius in feet that extends from the point.
+Der Ursprungspunkt eines Zylinders ist der Mittelpunkt eines Kreises mit einem bestimmten Radius (dieser ist in der Beschreibung des Zaubers angegeben). Der Kreis muss sich entweder auf dem Boden oder auf der Höhe des Zaubereffekts befinden. Die Energie im Zylinder verläuft in geraden Linien vom Ursprungspunkt zum Umfang des Kreises, was die Basis des Zylinders darstellt. Der Effekt des Zaubers schießt dann von der Basis nach oben oder von der Spitze nach unten, bis zu einer Entfernung gleich der Höhe des Zylinders.
 
-A sphere's point of origin is included in the sphere's area of effect.
+Der Ursprungspunkt des Zylinders ist nicht Teil seines Flächeneffekts, es sei denn, du möchtest, dass er es ist.
 
-### Saving Throws
+### Rettungswürfe
 
-Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
+Viele Zauber erlauben dem Ziel einen Rettungswurf, um den Effekt des Spruchs ganz oder teilweise zu entgehen. Der Zauber legt das Attribut fest, das für den Rettungswurf verwendet wird, und gibt an, was bei einem Erfolg oder Misserfolg geschieht. 
 
-The DC to resist one of your spells equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers.
+Der SG, um einem deiner Zauber zu widerstehen, beträgt 8 + den Modifikator deines zum Zaubern relevanten Attributs + deinen Übungsbonus + alle speziellen Modifikatoren.
 
-### Attack Rolls
+### Angriffswürfe
 
-Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
+Einige Zauber erfordern, dass der Wirkende einen Angriffswurf ausführt, um zu bestimmen, ob der Effekt das beabsichtigte Ziel trifft. Dein Angriffsbonus mit einem Zauberangriff entspricht dem Modifikator deines zum Zaubern relevanten Attributs + deinem Übungsbonus. Die meisten Sprüche, die Angriffswürfe erfordern, sind Fernkampfangriffe. Vergiss nicht, dass du bei diesem im Nachteil bist, wenn sich innerhalb von 1,50 meine feindliche Kreatur befindet, die dich sehen kann und nicht [[kampfunfähig]] ist (siehe Kapitel 9 „Kampf"). 
 
-Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+### Magische Effekte kombinieren
 
-### Combining Magical Effects
+Die Effekte verschiedener Zauber summieren sich, solange sich die Wirkungsdauer der Sprüche überschneidet. Wird der gleiche Zauber mehrmals gewirkt oder entspringt er unterschiedlichen Quellen, addieren sich die Effekte allerdings nicht. Stattdessen gilt der stärkste Effekt (beispielsweise der höchste Bonus), wenn der gleiche Zauber ein Ziel mehrfach betrifft.
 
-The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap, or the most recent effect applies if the castings are equally potent and their durations overlap.
+Wirken zwei Kleriker beispielsweise [[Segnen-phb|Segnen]] auf dasselbe Ziel, kann dieses nur einmal von dem Zaubereffekt profitieren. Es verfügt durch den Spruch über einen einzigen Bonuswürfel, nicht über zwei. Sind die Effekte und Wirkungsdauer gleichwertig, gilt stets der zuletzt gewirkte Effekt. 
 
-For example, if two clerics cast [bless](/3-Mechanics/CLI/spells/bless-xphb.md) on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
-
-> [!note] The Weave of Magic
+> [!note] Das Gewebe der Magie
 > 
-> The words within the D&D multiverse are magical places. All existence is suffused with magical power, and potential energy lies untapped in every rock, stream, and living creature, the mute and mindless will of existence, permeating every bit of matter and present in every manifestation of energy throughout the multiverse.
+> Die Welten im Multiversum sind magische Orte. Die gesamte Schöpfung ist von kosmischer Energie erfüllt, ungenutzt durchströmt sie jeden Felsen, jeden Fluss und jedes Lebewesen, sogar die Luft selbst. Rohe Magie ist das Ausgangsmaterial der Schöpfung, der stumme und geistlose Wille der Existenz, der jede Materie erfüllt und in jeder Manifestation von Energie im ganzen Multiversum zu spüren ist. Sterbliche können diese ursprüngliche Magie nicht direkt formen. Stattdessen verwenden sie eine bestimmte Struktur, eine Art Bindeglied zwischen dem Willen des Zauberers und der rohen Magie. Die Zauberwirker der Vergessenen Reiche nennen es das Gewebe und erkennen seine Essenz als die Göttin Mystra, doch gibt es für dieses Gebilde viele verschiedene Namen und Vorstellungen. Wie man es auch nennen mag, ohne das Gewebe ist die rohe Magie unerreichbar und nicht zugänglich: Die mächtigsten Erzmagier können nicht einmal eine Kerze magisch entzünden, wenn das Gewebe in ihrer Umgebung zerrissen ist. Ansonsten jedoch vermögen sie Blitze zu formen, sich Hunderte von Kilometern in einem Augenblick zu teleportieren oder selbst den Tod zu besiegen.
 > 
-> Mortals can't directly shape this raw magic. Instead, they make use of a fabric of magic, a kind of interface between the will of a spellcaster and the stuff of raw magic. The spellcasters of the Forgotten Realms call it the Weave and recognize its essence as the goddess Mystra, but casters have varied ways of naming and visualizing this interface.
+> Alle Magie ist vom Gewebe abhängig, doch verschiedene Arten von Magie greifen auf unterschiedliche Weise darauf zu. Die Zauber von Magiern, Hexenmeistern, Zauberern und Barden werden als **arkane Magie** bezeichnet. Sie basiert darauf, die Funktionsweise des Gewebes zu verstehen, durch Lernen oder Intuition. Der Zauberwirker zupft direkt an den Fäden des Gewebes, um den gewünschten Effekt zu erzielen. Mystische Ritter und Arkane Betrüger verwenden ebenfalls arkane Magie. Die Zauber von Klerikern, Druiden, Paladinen und Waldläufern werden **göttliche Magie** genannt. Der Zugriff dieser Zauberwirker auf das Gewebe wird von göttlichen Kräften geregelt- den Göttern, den göttlichen Mächten der Natur oder dem heiligen Gewicht des Eides eines Paladins.
 > 
-> By any name, without the Weave, raw magic is locked away and inaccessible; the most powerful archmage can't light a candle with magic in an area where the Weave has been torn. But surrounded by the Weave, a spellcaster can shape lightning to blast foes, transport hundreds of miles in the blink of an eye, or even reverse death itself.
-> 
-> All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, sorcerers, and bards are commonly called **arcane magic**. These spells rely on an understanding—learned or intuitive—of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called **divine magic**. These spellcasters' access to the Weave is mediated by divine power—gods, the divine forces of nature, or the sacred weight of a paladin's oath.
-> 
-> Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible.
-> 
-> When characters use divination spells such as *detect magic* or *identify*, they glimpse the Weave. A spell such as *dispel magic* smooths the Weave. Spells such as *antimagic field* rearrange the Weave so that magic flows around, rather than through the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways—or not at all.
+> Immer wenn ein magischer Effekt erschaffen wird, verwickeln, verdrehen und falten sich die Fäden des Gewebes, um den Effekt möglich zu machen. Mit Erkenntniszaubern wie [[Magie_entdecken-phb|Magie entdecken]] oder [[Identifizieren-phb|Identifizieren]] kann man einen Blick auf das Gewebe erhaschen. Ein Spruch wie [[Magie_bannen-phb|Magie bannen]] streicht dieses wieder glatt. Ein [[Antimagisches_Feld-phb|Antimagisches Feld]] hingegen arrangiert das Gewebe so um, dass Magie nicht mehr hindurch, sondern um das betroffene Gebiet fließt. Und an Orten, an denen das Gewebe beschädigt oder zerrissen ist, funktioniert Magie auf unvorhersehbare Weise - oder überhaupt nicht. 
 ^the-weave-of-magic
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c103.webp#center)
+![](img/c103.webp#center)

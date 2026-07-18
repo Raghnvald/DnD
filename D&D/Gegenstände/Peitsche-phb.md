@@ -1,16 +1,19 @@
 ---
-Bezeichnung: Whip
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Whip
+Bezeichnung: Peitsche
+Original: Whip
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Peitsche
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Whip
+  - Peitsche
+status: WIP
 ---
-# Whip
+# Peitsche
 *Weapon*  
 
 - **Damage**: 1d4 slashing

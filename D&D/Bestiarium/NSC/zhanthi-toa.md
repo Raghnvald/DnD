@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zhanthi
+Status: WIP
 linter-yaml-title-alias: Zhanthi
 tags:
   - Monster/Größe/Mittelgroß

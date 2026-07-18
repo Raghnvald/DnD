@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talona, Göttin von Gift und Krankheit
+Status: WIP
 linter-yaml-title-alias: Talona, Göttin von Gift und Krankheit
 tags:
   - Kompendium/Götter

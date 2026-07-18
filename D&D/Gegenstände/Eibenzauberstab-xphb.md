@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Yew Wand
+Status: WIP
 linter-yaml-title-alias: Yew Wand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

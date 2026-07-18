@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Noble Prodigy
-image: token/noble-prodigy-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Noble Prodigy
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Noble Prodigy
+image: token/noble-prodigy-xmm.webp
 ---
 # [Noble Prodigy](3-Mechanics\CLI\bestiary\humanoid/noble-prodigy-xmm.md)
 *Source: Monster Manual (2024) p. 227*  

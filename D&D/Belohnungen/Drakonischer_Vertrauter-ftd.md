@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Familiar
+Status: WIP
 linter-yaml-title-alias: Draconic Familiar
 tags:
   - Kompendium/Belohnung/draconic-gift

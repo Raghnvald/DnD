@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Sivis Heir
+Status: WIP
 linter-yaml-title-alias: House Sivis Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Sivis Heir"
+  - House Sivis Heir
   - House Sivis Heir
 ---
 # House Sivis Heir

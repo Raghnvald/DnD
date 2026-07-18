@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Destructive Wave
+Status: WIP
 linter-yaml-title-alias: Destructive Wave
 classes:
   - Cleric (Tempest Domain)

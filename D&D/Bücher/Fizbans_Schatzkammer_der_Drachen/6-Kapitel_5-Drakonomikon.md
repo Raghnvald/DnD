@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconomicon
+Status: WIP
 linter-yaml-title-alias: Draconomicon
 tags:
   - Quelle/5e/ftd

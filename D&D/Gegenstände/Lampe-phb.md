@@ -2,10 +2,10 @@
 Bezeichnung: Lampe
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 SM
 Gew.: 0,5 kg
-status: WIP
+Status: completed 
 linter-yaml-title-alias: Lampe
 tags:
   - Gegenstand/Ausrüstung
@@ -19,7 +19,7 @@ aliases:
 *Abenteuerausrüstung*
 
 - **Kosten**: 5 Silbermünzen
-- **Gewicht**: 0,5 kg.
+- **Gewicht**: 0,5 kg
 
 Eine Lampe spendet in einem Radius von 4,5 Metern helles Licht und im Radius von weiteren neun Metern dämmriges Licht. Sie brennt mit einer Flasche Öl (0,5 Liter) sechs Stunden lang.
 

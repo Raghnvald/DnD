@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Gnom
+Status: WIP
 linter-yaml-title-alias: Gnom
 tags:
   - Quelle/5e/phb
 aliases:
-  - "Gnome"
   - Gnom
+  - Gnome
 ---
 # Gnom
 *Quelle: SRD / Grundregelwerk*  

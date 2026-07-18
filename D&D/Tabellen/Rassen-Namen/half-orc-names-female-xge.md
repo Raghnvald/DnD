@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Orc Names – Female
+Status: WIP
 linter-yaml-title-alias: Half-Orc Names – Female
 tags:
   - Quelle/5e/xge

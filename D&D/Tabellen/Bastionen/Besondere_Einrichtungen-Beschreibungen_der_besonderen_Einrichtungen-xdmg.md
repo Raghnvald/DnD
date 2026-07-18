@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Besondere Einrichtungen: Beschreibungen der besonderen Einrichtungen"
 Kategorie: Bastion
+Status: WIP
 linter-yaml-title-alias: "Besondere Einrichtungen: Beschreibungen der besonderen Einrichtungen"
 tags:
   - Quelle/5e/xdmg

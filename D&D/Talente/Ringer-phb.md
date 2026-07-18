@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Ringer
-linter-yaml-title-alias: Grappler
+Status: WIP
+linter-yaml-title-alias: Ringer
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Grappler
+  - Ringer
 ---
 # Ringer
 *Source: Player's Handbook p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

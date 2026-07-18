@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mantrap
+Status: WIP
 linter-yaml-title-alias: Mantrap
 tags:
   - Monster/Größe/Groß

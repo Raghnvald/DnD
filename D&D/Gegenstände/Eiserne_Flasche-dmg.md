@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Eiserne Flasche
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Eiserne Flasche
 tags:
   - Gegenstand/Seltenheit/legendär

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Growing Your Franchise"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Growing Your Franchise"
 tags:
   - Quelle/5e/ai

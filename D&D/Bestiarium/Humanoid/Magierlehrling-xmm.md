@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mage Apprentice
+Status: WIP
 linter-yaml-title-alias: Mage Apprentice
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

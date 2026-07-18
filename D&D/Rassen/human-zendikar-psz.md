@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Human (Zendikar)
+Status: WIP
 linter-yaml-title-alias: Human (Zendikar)
 tags:
   - Quelle/5e/psz
   - Rasse/human/zendikar
 aliases:
-  - "Human (Zendikar)"
+  - Human (Zendikar)
   - Human (Zendikar)
 ---
 # Human (Zendikar)

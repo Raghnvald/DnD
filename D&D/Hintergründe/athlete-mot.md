@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Athlete
+Status: WIP
 linter-yaml-title-alias: Athlete
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/mot
 aliases:
-  - "Athlete"
+  - Athlete
   - Athlete
 ---
 # Athlete

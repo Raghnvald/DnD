@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Titanstone Knuckles
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Titanstone Knuckles
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr

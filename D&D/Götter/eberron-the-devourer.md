@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Devourer
+Status: WIP
 linter-yaml-title-alias: The Devourer
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

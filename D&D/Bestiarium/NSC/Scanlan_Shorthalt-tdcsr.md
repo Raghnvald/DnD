@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scanlan Shorthalt
+Status: WIP
 linter-yaml-title-alias: Scanlan Shorthalt
 tags:
   - Monster/Größe/Klein

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sweettooth Horror
+Status: WIP
 linter-yaml-title-alias: Sweettooth Horror
 tags:
   - Monster/Größe/Groß

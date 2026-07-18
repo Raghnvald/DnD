@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Hooded Lantern
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 1,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Hooded Lantern
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Hooded Lantern
+status: WIP
 ---
 # Hooded Lantern
 *Adventuring gear*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Lonely Genius
+Status: WIP
 linter-yaml-title-alias: Blessing of Lonely Genius
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/bmt
 aliases:
   - Blessing of Lonely Genius

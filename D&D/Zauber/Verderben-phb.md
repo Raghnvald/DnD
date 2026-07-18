@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Verderben
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff:
+Schaden:
+Status: WIP
 linter-yaml-title-alias: Verderben
 classes:
   - Bard (Magical Secrets)
@@ -16,7 +17,7 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Klasse/Paladin/oath-of-vengeance
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/optfeature/thief-of-five-fates

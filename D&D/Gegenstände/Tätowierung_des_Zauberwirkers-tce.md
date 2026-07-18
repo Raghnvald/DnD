@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spellwrought Tattoo
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Spellwrought Tattoo
 tags:
   - Gegenstand/Seltenheit/variiert

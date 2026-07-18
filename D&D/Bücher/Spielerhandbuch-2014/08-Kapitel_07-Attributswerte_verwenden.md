@@ -1,12 +1,13 @@
 ---
-Bezeichnung: "Attributswerte verwenden "
+Bezeichnung: Attributswerte verwenden
+Status: completed
 linter-yaml-title-alias: "Attributswerte verwenden "
 tags:
   - Quelle/5e/phb
 aliases:
-  - "Attributswerte verwenden "
+  - Attributswerte verwenden
 ---
-# Attributswerte verwenden 
+# Attributswerte verwenden
 *Quelle: Spielerhandbuch (2014), S. 173* 
 
 Sechs Attributswerte geben eine schnelle Beschreibung der mentalen und körperlichen Charakteristiken jeder Kreatur: 

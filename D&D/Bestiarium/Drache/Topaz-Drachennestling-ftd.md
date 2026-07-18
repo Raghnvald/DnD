@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Topaz Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Topaz Dragon Wyrmling
+status: WIP
 ---
 # [Topaz Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/topaz-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  

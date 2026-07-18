@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Fly
+Bezeichnung: Fliegen
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Fly
 classes:
   - Bard (Magical Secrets)
@@ -23,7 +25,7 @@ tags:
 aliases:
   - Fly
 ---
-# Fly
+# Fliegen
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 Action

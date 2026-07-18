@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Divinely Favored
+Status: WIP
 linter-yaml-title-alias: Spells for Divinely Favored
 tags:
-  - ttrpg-cli/spell/list/feat/divinely-favored
+  - Zauber/Liste/feat/divinely-favored
 aliases:
-  - "Spells for Divinely Favored"
+  - Spells for Divinely Favored
   - Spells for Divinely Favored
 ---
 # Spells for Divinely Favored

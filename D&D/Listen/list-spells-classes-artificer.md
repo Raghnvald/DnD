@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Artificer Spells
+Status: WIP
 linter-yaml-title-alias: Artificer Spells
 tags:
-  - Zauber/list/class/artificer
+  - Zauber/Liste/class/artificer
 aliases:
   - Artificer Spells
 ---

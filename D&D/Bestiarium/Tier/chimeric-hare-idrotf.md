@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chimeric Hare
+Status: WIP
 linter-yaml-title-alias: Chimeric Hare
 tags:
   - Monster/Größe/Winzig

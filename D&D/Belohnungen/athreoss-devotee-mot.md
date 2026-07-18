@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Athreos's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Athreos's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

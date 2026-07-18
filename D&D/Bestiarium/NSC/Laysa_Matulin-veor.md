@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 8
 Habitat:
   - /
-image: token/laysa-matulin-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Laysa Matulin
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Laysa Matulin
+image: token/laysa-matulin-veor.webp
+status: WIP
 ---
 # [Laysa Matulin](3-Mechanics\CLI\bestiary\npc/laysa-matulin-veor.md)
 *Source: Vecna: Eve of Ruin*  

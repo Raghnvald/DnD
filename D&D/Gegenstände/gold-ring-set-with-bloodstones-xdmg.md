@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gold ring set with bloodstones
+Status: WIP
 linter-yaml-title-alias: Gold ring set with bloodstones
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

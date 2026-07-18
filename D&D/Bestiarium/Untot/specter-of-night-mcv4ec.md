@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Specter of Night
+Status: WIP
 linter-yaml-title-alias: Specter of Night
 tags:
   - Monster/Größe/Riesig

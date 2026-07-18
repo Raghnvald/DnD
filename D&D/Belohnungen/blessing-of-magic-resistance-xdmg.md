@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Magic Resistance
+Status: WIP
 linter-yaml-title-alias: Blessing of Magic Resistance
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/xdmg
 aliases:
   - Blessing of Magic Resistance

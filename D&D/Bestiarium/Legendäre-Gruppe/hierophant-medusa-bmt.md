@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hierophant Medusa
+Status: WIP
 linter-yaml-title-alias: Hierophant Medusa
 tags:
   - Monster/legendary-group

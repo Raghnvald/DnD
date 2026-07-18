@@ -2,10 +2,10 @@
 Bezeichnung: Weihwasser (Flasche)
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Weihwasser (Flasche)
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,13 +15,11 @@ aliases:
   - Weihwasser (Flasche)
 ---
 # Weihwasser (Flasche)
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 25 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 25 GM
+- **Gewicht**: 0,5 kg
 
-As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes `2d6` radiant damage.
+Als Aktion kannst du den Inhalt des Fläschchens auf eine Kreatur innerhalb von 1,50 m verspritzen oder dieses bis zu 6 m weit werfen, wo es beim Aufprall zerbricht. In beiden Fällen führst du einen Fernkampfangriff gegen die Zielkreatur aus, wobei das Weihwasser als improvisierte Waffe behandelt wird. Wenn das Ziel ein Untoter oder ein Unhold ist, nimmt es `2W6` gleißenden Schaden. Ein Kleriker oder ein Paladin kann Weihwasser mit einem speziellen Ritual erschaffen. Das Ritual benötigt 1 Stunde, um durchgeführt zu werden, und verbraucht 25 GM an Silberstaub und einen Zauberplatz des 1. Grades.
 
-A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
-
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

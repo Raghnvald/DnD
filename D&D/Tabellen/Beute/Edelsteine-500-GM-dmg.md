@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 500 GM Edelsteine
+Status: WIP
 linter-yaml-title-alias: 500 GM Edelsteine
 tags:
   - Quelle/5e/dmg

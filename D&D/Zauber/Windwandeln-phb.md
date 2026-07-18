@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wind Walk
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Wind Walk
 classes:
   - Bard (Magical Secrets)

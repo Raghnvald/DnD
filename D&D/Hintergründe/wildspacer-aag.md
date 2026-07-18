@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Wildspacer
+Status: WIP
 linter-yaml-title-alias: Wildspacer
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/aag
 aliases:
-  - "Wildspacer"
+  - Wildspacer
   - Wildspacer
 ---
 # Wildspacer

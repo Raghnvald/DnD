@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Master's Amulet"
+Status: WIP
 linter-yaml-title-alias: "Master's Amulet"
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/mm
 aliases:
   - "Master's Amulet"

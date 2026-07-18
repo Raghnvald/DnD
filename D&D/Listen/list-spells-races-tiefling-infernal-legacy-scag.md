@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Tiefling (Infernal Legacy)
+Status: WIP
 linter-yaml-title-alias: Spells for Tiefling (Infernal Legacy)
 tags:
-  - Zauber/list/subrace/tiefling-infernal-legacy
+  - Zauber/Liste/subrace/tiefling-infernal-legacy
 aliases:
   - Spells for Tiefling (Infernal Legacy)
 ---

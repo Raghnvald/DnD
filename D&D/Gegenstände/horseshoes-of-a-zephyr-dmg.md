@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horseshoes of a Zephyr
+Status: WIP
 linter-yaml-title-alias: Horseshoes of a Zephyr
 tags:
   - Gegenstand/Seltenheit/sehr_selten

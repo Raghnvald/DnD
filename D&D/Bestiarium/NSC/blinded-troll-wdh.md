@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blinded Troll
+Status: WIP
 linter-yaml-title-alias: Blinded Troll
 tags:
   - Monster/Größe/Groß

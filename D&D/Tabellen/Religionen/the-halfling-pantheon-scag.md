@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Halfling Pantheon
+Status: WIP
 linter-yaml-title-alias: The Halfling Pantheon
 tags:
   - Quelle/5e/scag

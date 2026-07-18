@@ -5,6 +5,7 @@ Bezeichnung: Githyanki Dracomancer
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 16
+Status: WIP
 linter-yaml-title-alias: Githyanki Dracomancer
 tags:
   - Monster/Größe/Mittelgroß

@@ -5,7 +5,7 @@ Bezeichnung: Gauth
 Kategorie: Aberration (Betrachter)
 Größe: Mittelgroß
 HG: 6
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gauth
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Gauth
+status: WIP
 ---
 # [Gauth](3-Mechanics\CLI\bestiary\aberration/gauth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133*  

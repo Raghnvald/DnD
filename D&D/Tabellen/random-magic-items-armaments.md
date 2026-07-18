@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Magic Items - Armaments
+Status: WIP
 linter-yaml-title-alias: Random Magic Items - Armaments
 tags:
   - Quelle/5e/xdmg

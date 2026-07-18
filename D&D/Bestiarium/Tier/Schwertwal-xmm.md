@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Killer Whale
+Status: WIP
 linter-yaml-title-alias: Killer Whale
 tags:
   - Monster/Größe/Riesig

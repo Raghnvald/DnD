@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant of Evil Water
+Status: WIP
 linter-yaml-title-alias: Frost Giant of Evil Water
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wildemount Gazetteer
+Status: WIP
 linter-yaml-title-alias: Wildemount Gazetteer
 tags:
   - Quelle/5e/egw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tough
+Status: WIP
 linter-yaml-title-alias: Tough
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

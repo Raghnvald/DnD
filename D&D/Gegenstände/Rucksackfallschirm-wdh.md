@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Backpack Parachute
+Status: WIP
 linter-yaml-title-alias: Backpack Parachute
 tags:
   - Gegenstand/Seltenheit/unbekannt
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdh
 aliases:
   - Backpack Parachute

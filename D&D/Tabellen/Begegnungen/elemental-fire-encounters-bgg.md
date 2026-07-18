@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Fire Encounters
+Status: WIP
 linter-yaml-title-alias: Elemental Fire Encounters
 tags:
   - Quelle/5e/bgg

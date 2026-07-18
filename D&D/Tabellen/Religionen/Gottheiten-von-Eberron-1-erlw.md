@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deities of Eberron; 1
+Status: WIP
 linter-yaml-title-alias: Deities of Eberron; 1
 tags:
   - Quelle/5e/erlw

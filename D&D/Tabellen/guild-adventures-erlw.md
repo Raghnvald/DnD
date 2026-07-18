@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Adventures
+Status: WIP
 linter-yaml-title-alias: Guild Adventures
 tags:
   - Quelle/5e/erlw

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Durchschnittsergebnisse; Mob-Ergebnisse
+Status: WIP
 linter-yaml-title-alias: Durchschnittsergebnisse; Mob-Ergebnisse
 tags:
   - Quelle/5e/xdmg

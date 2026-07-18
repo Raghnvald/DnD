@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Aberrant Dragonmark
+Status: WIP
 linter-yaml-title-alias: Spells for Aberrant Dragonmark
 tags:
-  - ttrpg-cli/spell/list/feat/aberrant-dragonmark
+  - Zauber/Liste/feat/aberrant-dragonmark
 aliases:
-  - "Spells for Aberrant Dragonmark"
+  - Spells for Aberrant Dragonmark
   - Spells for Aberrant Dragonmark
 ---
 # Spells for Aberrant Dragonmark

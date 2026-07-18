@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fluch brechen
+Status: WIP
 linter-yaml-title-alias: Fluch brechen
 tags:
   - Klasse/Hexenmeister

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Grumbar
+Status: WIP
 linter-yaml-title-alias: Grumbar
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Grumbar

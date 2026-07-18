@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Wand of Fear
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Wand of Fear
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/dmg

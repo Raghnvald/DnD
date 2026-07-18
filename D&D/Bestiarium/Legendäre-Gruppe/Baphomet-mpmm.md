@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Baphomet
+Status: WIP
 linter-yaml-title-alias: Baphomet
 tags:
   - Monster/legendary-group

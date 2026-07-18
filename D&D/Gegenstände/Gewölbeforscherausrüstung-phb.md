@@ -2,10 +2,10 @@
 Bezeichnung: Gewölbeforscherausrüstung
 Kategorie: Ausrüstungspaket
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 12 GM
 Gew.: 30,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gewölbeforscherausrüstung
 tags:
   - Gegenstand/Ausrüstung/

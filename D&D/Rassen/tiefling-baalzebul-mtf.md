@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Baalzebul)
+Status: WIP
 linter-yaml-title-alias: Tiefling (Baalzebul)
 tags:
   - Quelle/5e/mtf

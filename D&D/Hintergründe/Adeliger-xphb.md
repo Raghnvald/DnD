@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Noble
+Status: WIP
 linter-yaml-title-alias: Noble
 tags:
   - Kompendium/Hintergrund

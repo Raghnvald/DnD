@@ -5,6 +5,7 @@ Eigenschaften:
   - /
 Kst.: 50 GM
 Gew.: 0,25 kg
+Status: WIP
 linter-yaml-title-alias: Heiltrank
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

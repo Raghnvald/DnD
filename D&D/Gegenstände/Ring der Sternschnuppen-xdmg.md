@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ring of Shooting Stars
+Status: WIP
 linter-yaml-title-alias: Ring of Shooting Stars
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg

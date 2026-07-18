@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arctic Encounters (Levels 1—4)
+Status: WIP
 linter-yaml-title-alias: Arctic Encounters (Levels 1—4)
 tags:
   - Quelle/5e/xge

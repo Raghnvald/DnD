@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Big Xorn
+Status: WIP
 linter-yaml-title-alias: Big Xorn
 tags:
   - Monster/Größe/Groß

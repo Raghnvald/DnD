@@ -7,8 +7,7 @@ Größe: Riesig
 HG: 9
 Habitat:
   - Arktis
-image: token/abominable-yeti.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Abominable Yeti
 tags:
   - Monster/Größe/Riesig
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Abominable Yeti
+image: token/abominable-yeti.webp
+status: WIP
 ---
 # [Abominable Yeti](3-Mechanics\CLI\bestiary\monstrosity/abominable-yeti.md)
 *Source: Monster Manual p. 306*  

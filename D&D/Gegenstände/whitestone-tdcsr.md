@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Whitestone
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Whitestone
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -12,6 +12,8 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Whitestone
+status: WIP
+Original: Whitestone
 ---
 # Whitestone
 *Trade good*  

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Cold Caster
+Status: WIP
 linter-yaml-title-alias: Cold Caster
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Cold Caster"
+  - Cold Caster
   - Cold Caster
 ---
 # Cold Caster

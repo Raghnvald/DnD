@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Martial Weapon Training
+Status: WIP
 linter-yaml-title-alias: Martial Weapon Training
 tags:
   - Kompendium/Talent

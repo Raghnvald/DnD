@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Prismatic Spray
+Status: WIP
 linter-yaml-title-alias: Prismatic Spray
 classes:
   - Bard

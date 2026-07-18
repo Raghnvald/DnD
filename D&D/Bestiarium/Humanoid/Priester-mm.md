@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - Stadt
-image:
-status: completed
+Status: WIP
 linter-yaml-title-alias: Priester
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Priest
   - Priester
+image:
+status: completed
 ---
 # Priester
 *Quelle: Monsterhandbuch S. 349. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

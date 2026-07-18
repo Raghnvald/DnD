@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Rise of Elemental Evil"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Rise of Elemental Evil"
 tags:
   - Quelle/5e/pota

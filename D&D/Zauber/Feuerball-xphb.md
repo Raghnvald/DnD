@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fireball
+Status: WIP
 linter-yaml-title-alias: Fireball
 classes:
   - Artificer (Artillerist)
@@ -18,7 +19,7 @@ tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide/circle-of-the-land/arid-land
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Epilog
+Status: WIP
 linter-yaml-title-alias: Epilog
 tags:
   - Quelle/5e/cos

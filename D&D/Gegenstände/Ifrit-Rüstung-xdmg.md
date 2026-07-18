@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Efreeti Chain
 Rüstung: Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Efreeti Chain
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär

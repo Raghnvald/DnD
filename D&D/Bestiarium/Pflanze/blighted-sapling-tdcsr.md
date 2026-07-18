@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blighted Sapling
+Status: WIP
 linter-yaml-title-alias: Blighted Sapling
 tags:
   - Monster/Größe/Mittelgroß

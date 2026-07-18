@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magische Waffe
+Status: WIP
 linter-yaml-title-alias: Magische Waffe
 tags:
   - Klasse/Magier

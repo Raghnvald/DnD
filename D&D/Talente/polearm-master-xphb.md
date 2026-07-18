@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Polearm Master
+Status: WIP
 linter-yaml-title-alias: Polearm Master
 tags:
   - Kompendium/Talent

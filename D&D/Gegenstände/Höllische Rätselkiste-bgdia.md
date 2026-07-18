@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Infernal Puzzle Box
+Status: WIP
 linter-yaml-title-alias: Infernal Puzzle Box
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

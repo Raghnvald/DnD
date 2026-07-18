@@ -6,14 +6,17 @@ Eigenschaften:
   - Vielseitig (1W8)
 Kst.: 4.000 GM
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Staff of Charming
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
   - Staff of Charming
+status: WIP
+Original: Staff of Charming
 ---
 # Staff of Charming
 *Zauberstecken, selten (erfordert Einstimmung durch einen Barden, Druiden, Hexenmeister, Kleriker, Magier oder Zauberer)*  

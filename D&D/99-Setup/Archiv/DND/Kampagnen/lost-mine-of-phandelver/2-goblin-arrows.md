@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goblin Arrows
+Status: WIP
 linter-yaml-title-alias: Goblin Arrows
 tags:
   - Quelle/5e/lmop

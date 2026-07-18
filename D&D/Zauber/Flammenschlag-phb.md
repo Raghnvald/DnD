@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flame Strike
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Flame Strike
 classes:
   - Bard (Magical Secrets)
@@ -12,7 +13,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Kleriker/war-domain
   - Klasse/Paladin/Schwur-der-Hingabe
   - Quelle/5e/phb

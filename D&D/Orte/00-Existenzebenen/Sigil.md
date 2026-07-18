@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sigil
+Status: WIP
 ---
 # Sigil
 Basis Informationen

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sleet Storm
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Sleet Storm
 classes:
   - Bard (Magical Secrets)

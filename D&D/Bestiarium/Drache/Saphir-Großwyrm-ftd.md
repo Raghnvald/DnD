@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 26
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Sapphire Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Sapphire Greatwyrm
+status: WIP
 ---
 # [Sapphire Greatwyrm](3-Mechanics\CLI\bestiary\dragon/sapphire-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  

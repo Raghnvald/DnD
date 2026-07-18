@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mirran
+Status: WIP
 linter-yaml-title-alias: Mirran
 tags:
   - Monster/Größe/Riesig

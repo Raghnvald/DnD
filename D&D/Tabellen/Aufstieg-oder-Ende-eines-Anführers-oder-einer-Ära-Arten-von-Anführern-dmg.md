@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern
+Status: WIP
 linter-yaml-title-alias: Aufstieg oder Ende eines Anführers oder einer Ära; Arten von Anführern
 tags:
   - Quelle/5e/dmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goose Mother
+Status: WIP
 linter-yaml-title-alias: Goose Mother
 tags:
   - Monster/Größe/Riesig

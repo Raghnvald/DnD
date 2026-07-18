@@ -5,6 +5,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
+Status: WIP
 linter-yaml-title-alias: Vollständige Genesung
 classes:
   - Bard (Magical Secrets)

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wight
+Status: WIP
 linter-yaml-title-alias: Wight
 tags:
   - Monster/Größe/Mittelgroß

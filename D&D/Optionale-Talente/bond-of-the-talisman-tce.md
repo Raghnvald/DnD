@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bond of the Talisman
+Status: WIP
 linter-yaml-title-alias: Bond of the Talisman
 tags:
   - Kompendium/Optionales/ei

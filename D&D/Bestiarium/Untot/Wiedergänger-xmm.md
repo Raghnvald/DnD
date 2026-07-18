@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Revenant
+Status: WIP
 linter-yaml-title-alias: Revenant
 tags:
   - Monster/Größe/Mittelgroß

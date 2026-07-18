@@ -2,11 +2,12 @@
 Bezeichnung: Ring der Djinni-Beschwörung
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Status: completed
 linter-yaml-title-alias: Ring der Djinni-Beschwörung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg

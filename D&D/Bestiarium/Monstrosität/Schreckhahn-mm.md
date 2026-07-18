@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cockatrice
+Status: WIP
 linter-yaml-title-alias: Cockatrice
 tags:
   - Monster/Größe/Klein

@@ -2,7 +2,7 @@
 Bezeichnung: Ale (mug)
 Kst.: 4 KM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ale (mug)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Ale (mug)
+status: WIP
 ---
 # Ale (mug)
 *Food and drink*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cobalt Scholar (Sage)
+Status: WIP
 linter-yaml-title-alias: Cobalt Scholar (Sage)
 tags:
   - Kompendium/Hintergrund

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Finding
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Finding
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Finding"
+  - Greater Mark of Finding
   - Greater Mark of Finding
 ---
 # Greater Mark of Finding

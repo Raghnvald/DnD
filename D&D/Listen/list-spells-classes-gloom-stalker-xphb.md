@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Gloom Stalker
+Status: WIP
 linter-yaml-title-alias: Spells for Gloom Stalker
 tags:
-  - Zauber/list/subclass/gloom-stalker
+  - Zauber/Liste/subclass/gloom-stalker
 aliases:
   - Spells for Gloom Stalker
 ---

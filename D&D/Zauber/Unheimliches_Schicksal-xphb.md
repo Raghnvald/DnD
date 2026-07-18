@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weird
+Status: WIP
 linter-yaml-title-alias: Weird
 classes:
   - Bard

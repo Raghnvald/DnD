@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Household Items
+Status: WIP
 linter-yaml-title-alias: Household Items
 tags:
   - Quelle/5e/cabomp
 aliases:
-  - "Household Items"
+  - Household Items
   - Household Items
 ---
 # Household Items

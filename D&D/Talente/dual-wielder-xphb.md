@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dual Wielder
+Status: WIP
 linter-yaml-title-alias: Dual Wielder
 tags:
   - Kompendium/Talent

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Path of the Storm Herald
+Status: WIP
 linter-yaml-title-alias: Path of the Storm Herald
 tags:
   - Klasse/Barbar/storm-herald

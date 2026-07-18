@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dimir Character Goals; Dimir Assignments
+Status: WIP
 linter-yaml-title-alias: Dimir Character Goals; Dimir Assignments
 tags:
   - Quelle/5e/ggr

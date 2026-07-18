@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Inn Attractions
+Status: WIP
 linter-yaml-title-alias: Inn Attractions
 tags:
   - Quelle/5e/erlw

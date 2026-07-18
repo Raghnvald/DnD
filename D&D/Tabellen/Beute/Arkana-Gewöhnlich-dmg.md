@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcana - Common
+Status: WIP
 linter-yaml-title-alias: Arcana - Common
 tags:
   - Quelle/5e/xdmg

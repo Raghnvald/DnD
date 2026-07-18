@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Thrym
+Status: WIP
 linter-yaml-title-alias: Scion of Thrym
 tags:
   - Monster/legendary-group

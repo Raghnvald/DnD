@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire Shield
+Status: WIP
 linter-yaml-title-alias: Fire Shield
 classes:
   - Artificer (Armorer)

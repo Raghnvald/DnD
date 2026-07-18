@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spirit Guardians
+Status: WIP
 linter-yaml-title-alias: Spirit Guardians
 classes:
   - Bard

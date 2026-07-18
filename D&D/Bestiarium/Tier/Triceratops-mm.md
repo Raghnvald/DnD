@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Triceratops
+Status: WIP
 linter-yaml-title-alias: Triceratops
 tags:
   - Monster/Größe/Riesig

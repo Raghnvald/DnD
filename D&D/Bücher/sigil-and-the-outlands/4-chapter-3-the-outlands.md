@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: The Outlands"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: The Outlands"
 tags:
   - Quelle/5e/sato

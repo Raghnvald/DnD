@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Erzwungenes Duell
+Status: WIP
 linter-yaml-title-alias: Erzwungenes Duell
 tags:
   - Klasse/Paladin

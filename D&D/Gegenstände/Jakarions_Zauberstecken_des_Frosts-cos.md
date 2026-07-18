@@ -1,14 +1,17 @@
 ---
-Bezeichnung: "Jakarion's Staff of Frost"
+Bezeichnung: Jakarion's Staff of Frost
 Kategorie: Zauberstecken
-linter-yaml-title-alias: "Jakarion's Staff of Frost"
+Status: WIP
+linter-yaml-title-alias: Jakarion's Staff of Frost
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/cos
 aliases:
-  - "Jakarion's Staff of Frost"
+  - Jakarion's Staff of Frost
+status: WIP
+Original: Jakarion's Staff of Frost
 ---
 # Jakarion's Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

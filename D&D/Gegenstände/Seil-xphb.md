@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rope
+Status: WIP
 linter-yaml-title-alias: Rope
 tags:
   - Gegenstand/Ausrüstung/

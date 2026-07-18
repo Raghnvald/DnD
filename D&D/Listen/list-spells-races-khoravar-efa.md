@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Khoravar
+Status: WIP
 linter-yaml-title-alias: Spells for Khoravar
 tags:
-  - ttrpg-cli/spell/list/race/khoravar
+  - Zauber/Liste/race/khoravar
 aliases:
-  - "Spells for Khoravar"
+  - Spells for Khoravar
   - Spells for Khoravar
 ---
 # Spells for Khoravar

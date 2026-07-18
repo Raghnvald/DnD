@@ -7,8 +7,7 @@ Größe: Winzig
 HG: 4
 Habitat:
   - Unterreich
-image: token/flameskull-xmm.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Flameskull
 tags:
   - Monster/Größe/Winzig
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Flameskull
+image: token/flameskull-xmm.webp
+status: WIP
 ---
 # [Flameskull](3-Mechanics\CLI\bestiary\undead/flameskull-xmm.md)
 *Source: Monster Manual (2024) p. 120*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crystal
+Status: WIP
 linter-yaml-title-alias: Crystal
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

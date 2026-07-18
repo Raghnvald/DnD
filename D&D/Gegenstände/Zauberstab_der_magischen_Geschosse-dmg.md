@@ -2,10 +2,10 @@
 Bezeichnung: Zauberstab der magischen Geschosse
 Kategorie: Zauberstab
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 0,5 kg
-image: wand-of-magic-missiles.webp
+Status: WIP
 linter-yaml-title-alias: Zauberstab der magischen Geschosse
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -14,6 +14,7 @@ tags:
 aliases:
   - Wand of Magic Missiles
   - Zauberstab der magischen Geschosse
+image: wand-of-magic-missiles.webp
 ---
 # Zauberstab der magischen Geschosse
 *Zauberstab, ungewöhnlich*  

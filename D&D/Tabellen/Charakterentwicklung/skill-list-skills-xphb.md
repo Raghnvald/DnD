@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Skill List; Skills
+Status: WIP
 linter-yaml-title-alias: Skill List; Skills
 tags:
   - Quelle/5e/xphb

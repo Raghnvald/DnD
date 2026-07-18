@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moral Quandaries
+Status: WIP
 linter-yaml-title-alias: Moral Quandaries
 tags:
   - Quelle/5e/dmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clockwork Iron Cobra
+Status: WIP
 linter-yaml-title-alias: Clockwork Iron Cobra
 tags:
   - Monster/Größe/Mittelgroß

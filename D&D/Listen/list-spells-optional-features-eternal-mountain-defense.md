@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Eternal Mountain Defense
+Status: WIP
 linter-yaml-title-alias: Spells for Eternal Mountain Defense
 tags:
-  - Zauber/list/optfeature/eternal-mountain-defense
+  - Zauber/Liste/optfeature/eternal-mountain-defense
 aliases:
   - Spells for Eternal Mountain Defense
 ---

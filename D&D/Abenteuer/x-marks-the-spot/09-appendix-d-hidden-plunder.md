@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Hidden Plunder"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Hidden Plunder"
 tags:
   - Quelle/5e/xmts

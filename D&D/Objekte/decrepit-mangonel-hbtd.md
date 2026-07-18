@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Decrepit Mangonel
+Status: WIP
 linter-yaml-title-alias: Decrepit Mangonel
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/hbtd
 aliases:
-  - "Decrepit Mangonel"
+  - Decrepit Mangonel
   - Decrepit Mangonel
 ---
 # Decrepit Mangonel

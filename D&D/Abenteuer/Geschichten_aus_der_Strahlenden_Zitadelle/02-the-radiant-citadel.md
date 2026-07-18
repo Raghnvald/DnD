@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Radiant Citadel
+Status: WIP
 linter-yaml-title-alias: The Radiant Citadel
 tags:
   - Quelle/5e/jttrc

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Watery Sphere
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Watery Sphere
 classes:
   - Bard

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Cloak of Invisibility
+Status: WIP
 linter-yaml-title-alias: Cloak of Invisibility
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

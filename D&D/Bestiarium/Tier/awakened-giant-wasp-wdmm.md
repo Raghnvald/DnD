@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awakened Giant Wasp
+Status: WIP
 linter-yaml-title-alias: Awakened Giant Wasp
 tags:
   - Monster/Größe/Mittelgroß

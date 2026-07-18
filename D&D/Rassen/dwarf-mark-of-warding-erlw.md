@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dwarf (Mark of Warding)
+Status: WIP
 linter-yaml-title-alias: Dwarf (Mark of Warding)
 tags:
   - Quelle/5e/erlw

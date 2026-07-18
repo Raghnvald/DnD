@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glass Bottle
+Status: WIP
 linter-yaml-title-alias: Glass Bottle
 tags:
   - Gegenstand/Ausrüstung/

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bakunawa
+Status: WIP
 linter-yaml-title-alias: Bakunawa
 tags:
   - Monster/Größe/Gigantisch

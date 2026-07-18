@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lungtian
+Status: WIP
 linter-yaml-title-alias: Lungtian
 tags:
   - Monster/Größe/Mittelgroß

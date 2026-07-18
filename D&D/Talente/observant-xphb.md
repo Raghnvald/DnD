@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Observant
+Status: WIP
 linter-yaml-title-alias: Observant
 tags:
   - Kompendium/Talent

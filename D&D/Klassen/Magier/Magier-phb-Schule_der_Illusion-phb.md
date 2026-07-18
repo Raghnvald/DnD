@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Illusion
+Status: WIP
 linter-yaml-title-alias: School of Illusion
 tags:
   - Klasse/Magier/illusion

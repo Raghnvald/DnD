@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Ray of Sickness
+Bezeichnung: Strahl der Übelkeit
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
 Angriff:
 Schaden:
-linter-yaml-title-alias: Ray of Sickness
+Status: WIP
+linter-yaml-title-alias: Strahl der Übelkeit
 classes:
   - Bard (Magical Secrets)
   - Cleric (Death Domain)
@@ -21,15 +22,15 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Nekromantie
 aliases:
-  - Ray of Sickness
+  - Strahl der Übelkeit
 ---
-# Ray of Sickness
+# Strahl der Übelkeit
 *1st-level, Necromancy*  
 
 - **Casting time:** 1 Action

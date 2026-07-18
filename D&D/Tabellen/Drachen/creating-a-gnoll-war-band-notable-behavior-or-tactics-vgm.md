@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gnoll War Band; Notable Behavior or Tactics
+Status: WIP
 linter-yaml-title-alias: Creating a Gnoll War Band; Notable Behavior or Tactics
 tags:
   - Quelle/5e/vgm

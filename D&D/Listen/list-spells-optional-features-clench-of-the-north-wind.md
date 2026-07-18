@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Clench of the North Wind
+Status: WIP
 linter-yaml-title-alias: Spells for Clench of the North Wind
 tags:
-  - Zauber/list/optfeature/clench-of-the-north-wind
+  - Zauber/Liste/optfeature/clench-of-the-north-wind
 aliases:
   - Spells for Clench of the North Wind
 ---

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demonfeed Spiderling
+Status: WIP
 linter-yaml-title-alias: Demonfeed Spiderling
 tags:
   - Monster/Größe/Mittelgroß

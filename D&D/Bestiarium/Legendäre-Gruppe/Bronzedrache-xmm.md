@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bronze Dragon
+Status: WIP
 linter-yaml-title-alias: Bronze Dragon
 tags:
   - Monster/legendary-group

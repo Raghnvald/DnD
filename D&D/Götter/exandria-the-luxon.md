@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Luxon
+Status: WIP
 linter-yaml-title-alias: The Luxon
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - The Luxon

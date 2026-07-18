@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rest Variants
+Status: WIP
 linter-yaml-title-alias: Rest Variants
 tags:
   - Quelle/5e/dmg

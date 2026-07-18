@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Lotusden)
+Status: WIP
 linter-yaml-title-alias: Halfling (Lotusden)
 tags:
   - Quelle/5e/egw

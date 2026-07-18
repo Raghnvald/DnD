@@ -6,7 +6,8 @@ Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: 1 Stunde
 Angriff: n/v
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Fertigkeitsermächtigung
 classes:
   - Artificer

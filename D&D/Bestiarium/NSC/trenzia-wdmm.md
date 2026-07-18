@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trenzia
+Status: WIP
 linter-yaml-title-alias: Trenzia
 tags:
   - Monster/Größe/Winzig

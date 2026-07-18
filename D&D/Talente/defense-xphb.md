@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Defense
+Status: WIP
 linter-yaml-title-alias: Defense
 tags:
   - Kompendium/Talent

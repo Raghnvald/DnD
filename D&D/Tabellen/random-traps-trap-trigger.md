@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Traps; Trap Trigger
+Status: WIP
 linter-yaml-title-alias: Random Traps; Trap Trigger
 tags:
   - Quelle/5e/dmg

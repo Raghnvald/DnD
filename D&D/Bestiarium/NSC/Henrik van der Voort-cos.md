@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Henrik van der Voort
+Status: WIP
 linter-yaml-title-alias: Henrik van der Voort
 tags:
   - Monster/Größe/Mittelgroß

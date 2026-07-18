@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kun Ahn-Jun
+Status: WIP
 linter-yaml-title-alias: Kun Ahn-Jun
 tags:
   - Monster/Größe/Mittelgroß

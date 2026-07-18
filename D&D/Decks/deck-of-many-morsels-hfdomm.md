@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Deck of Many Morsels
+Status: WIP
 linter-yaml-title-alias: Deck of Many Morsels
 tags:
   - Quelle/5e/hfdomm
 aliases:
-  - "Deck of Many Morsels"
+  - Deck of Many Morsels
   - Deck of Many Morsels
 ---
 # Deck of Many Morsels

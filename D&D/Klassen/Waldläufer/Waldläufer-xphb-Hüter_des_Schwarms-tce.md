@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swarmkeeper
+Status: WIP
 linter-yaml-title-alias: Swarmkeeper
 tags:
   - Klasse/Waldläufer/swarmkeeper

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Shield
+Status: WIP
 linter-yaml-title-alias: Flying Shield
 tags:
   - Monster/Größe/Klein

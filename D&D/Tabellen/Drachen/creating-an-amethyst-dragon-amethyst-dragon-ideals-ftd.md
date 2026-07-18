@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating an Amethyst Dragon; Amethyst Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating an Amethyst Dragon; Amethyst Dragon Ideals
 tags:
   - Quelle/5e/ftd

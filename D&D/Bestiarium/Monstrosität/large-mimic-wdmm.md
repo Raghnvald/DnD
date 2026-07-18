@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Large Mimic
+Status: WIP
 linter-yaml-title-alias: Large Mimic
 tags:
   - Monster/Größe/Groß

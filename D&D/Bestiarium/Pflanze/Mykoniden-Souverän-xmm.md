@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myconid Sovereign
+Status: WIP
 linter-yaml-title-alias: Myconid Sovereign
 tags:
   - Monster/Größe/Groß

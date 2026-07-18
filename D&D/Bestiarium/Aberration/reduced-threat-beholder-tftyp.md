@@ -5,7 +5,7 @@ Bezeichnung: Reduced-Threat Beholder
 Kategorie: Aberration
 Größe: Groß
 HG: 13
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Beholder
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Beholder
+status: WIP
 ---
 # [Reduced-Threat Beholder](3-Mechanics\CLI\bestiary\aberration/reduced-threat-beholder-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

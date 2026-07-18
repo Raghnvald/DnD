@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Vodka from The Pink Flumph Theater in Waterdeep
+Status: WIP
 linter-yaml-title-alias: Vodka from The Pink Flumph Theater in Waterdeep
 tags:
   - Quelle/5e/paf
 aliases:
-  - "Vodka from The Pink Flumph Theater in Waterdeep"
+  - Vodka from The Pink Flumph Theater in Waterdeep
   - Vodka from The Pink Flumph Theater in Waterdeep
 ---
 # Vodka from The Pink Flumph Theater in Waterdeep

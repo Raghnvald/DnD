@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Branchala
+Status: WIP
 linter-yaml-title-alias: Branchala
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Branchala"
+  - Branchala
   - Branchala
 ---
 # Branchala

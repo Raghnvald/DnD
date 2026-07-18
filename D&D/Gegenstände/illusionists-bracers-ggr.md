@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Illusionist's Bracers"
+Status: WIP
 linter-yaml-title-alias: "Illusionist's Bracers"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ggr
 aliases:

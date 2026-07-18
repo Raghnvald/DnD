@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Lorehold Student
+Status: WIP
 linter-yaml-title-alias: Lorehold Student
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/scc
 aliases:
-  - "Lorehold Student"
+  - Lorehold Student
   - Lorehold Student
 ---
 # Lorehold Student

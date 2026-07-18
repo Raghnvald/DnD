@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grim Champion of Desolation
+Status: WIP
 linter-yaml-title-alias: Grim Champion of Desolation
 tags:
   - Monster/Größe/Mittelgroß

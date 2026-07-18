@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Evard's Black Tentacles"
+Status: WIP
 linter-yaml-title-alias: "Evard's Black Tentacles"
 classes:
   - Bard

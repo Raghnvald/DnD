@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Web
+Bezeichnung: Spinnennetz
 Zaubergrad: 2
-linter-yaml-title-alias: Web
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Spinnennetz
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Underdark)
@@ -20,11 +22,11 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
 aliases:
-  - Web
+  - Spinnennetz
 ---
-# Web
+# Spinnennetz
 *2nd-level, Conjuration*  
-![](/3-Mechanics/CLI/spells/img/web.webp#right)
+![](img/web.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

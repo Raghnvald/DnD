@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bezauberung der Vitalität
+Status: WIP
 linter-yaml-title-alias: Bezauberung der Vitalität
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dmg
 aliases:
   - Bezauberung der Vitalität

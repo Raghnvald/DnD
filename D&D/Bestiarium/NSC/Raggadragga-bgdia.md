@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Raggadragga
+Status: WIP
 linter-yaml-title-alias: Raggadragga
 tags:
   - Monster/Größe/Mittelgroß

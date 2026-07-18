@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Scrying
 Zaubergrad: 5
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
+Zeitaufwand:
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Angriff:
+Status: WIP
 linter-yaml-title-alias: Scrying
 classes:
   - Bard
@@ -24,8 +25,8 @@ tags:
   - Klasse/Druide
   - Klasse/Hexenmeister
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Paladin/oath-of-the-watchers
   - Klasse/Paladin/oath-of-vengeance

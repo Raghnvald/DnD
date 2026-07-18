@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 15
 Habitat:
   - /
-image: token/deathwolf-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Deathwolf
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Deathwolf
+image: token/deathwolf-veor.webp
+status: WIP
 ---
 # [Deathwolf](3-Mechanics\CLI\bestiary\undead/deathwolf-veor.md)
 *Source: Vecna: Eve of Ruin p. 217*  

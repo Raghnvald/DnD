@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shockerstomper
+Status: WIP
 linter-yaml-title-alias: Shockerstomper
 tags:
   - Monster/Größe/Gigantisch

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Nimblewright Detector
+Status: WIP
 linter-yaml-title-alias: Nimblewright Detector
 tags:
   - Gegenstand/Seltenheit/unbekannt
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdh
 aliases:
   - Nimblewright Detector

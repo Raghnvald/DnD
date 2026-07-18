@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Worg
+Status: WIP
 linter-yaml-title-alias: Worg
 tags:
   - Monster/Größe/Groß

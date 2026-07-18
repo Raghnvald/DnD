@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Bronze Shrine
+Status: WIP
 linter-yaml-title-alias: Bronze Shrine
 tags:
   - Quelle/5e/sdw
 aliases:
-  - "Bronze Shrine"
+  - Bronze Shrine
   - Bronze Shrine
 ---
 # Bronze Shrine

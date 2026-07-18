@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapters 11 and 12: Death to the Wyrmspeakers"
+Status: WIP
 linter-yaml-title-alias: "Chapters 11 and 12: Death to the Wyrmspeakers"
 tags:
   - Quelle/5e/rot
 aliases:
   - "Chapters 11 and 12: Death to the Wyrmspeakers"
-  - Chapters 11 and 12: Death to the Wyrmspeakers
 ---
 # Chapters 11 and 12: Death to the Wyrmspeakers
 *Source: Rise of Tiamat, p. 124* 

@@ -1,13 +1,14 @@
 ---
-Bezeichnung: "Tenser's Floating Disk"
+Bezeichnung: Tensers Schwebende Scheibe
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
-linter-yaml-title-alias: "Tenser's Floating Disk"
+Status: WIP
+linter-yaml-title-alias: Tensers Schwebende Scheibe
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -17,8 +18,8 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
@@ -26,9 +27,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Beschwörung
 aliases:
-  - "Tenser's Floating Disk"
+  - Tensers Schwebende Scheibe
 ---
-# Tenser's Floating Disk
+# Tensers Schwebende Scheibe
 *1st-level, Conjuration (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

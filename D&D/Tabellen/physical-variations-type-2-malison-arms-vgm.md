@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Physical Variations; Type 2 Malison: Arms"
+Status: WIP
 linter-yaml-title-alias: "Physical Variations; Type 2 Malison: Arms"
 tags:
   - Quelle/5e/vgm
 aliases:
   - "Physical Variations; Type 2 Malison: Arms"
-  - Physical Variations; Type 2 Malison: Arms
 ---
 # Physical Variations; Type 2 Malison: Arms
 *Source: Volo's Guide to Monsters p. 97* 

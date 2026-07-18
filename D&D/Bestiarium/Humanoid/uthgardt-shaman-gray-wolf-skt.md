@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Gray Wolf)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Gray Wolf)
 tags:
   - Monster/Größe/Mittelgroß

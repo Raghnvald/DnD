@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Arcturia
 Kategorie: Untoter
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Arcturia
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Arcturia
+status: WIP
 ---
 # [Arcturia](3-Mechanics\CLI\bestiary\npc/arcturia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 296*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Experience for Complex Traps; Complex Trap Experience Awards
+Status: WIP
 linter-yaml-title-alias: Experience for Complex Traps; Complex Trap Experience Awards
 tags:
   - Quelle/5e/xge

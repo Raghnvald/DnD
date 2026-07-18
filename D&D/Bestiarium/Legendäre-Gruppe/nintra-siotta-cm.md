@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nintra Siotta
+Status: WIP
 linter-yaml-title-alias: Nintra Siotta
 tags:
   - Monster/legendary-group

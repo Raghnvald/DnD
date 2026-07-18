@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zweite Chance
-linter-yaml-title-alias: Second Chance
+Status: WIP
+linter-yaml-title-alias: Zweite Chance
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Second Chance
+  - Zweite Chance
 ---
 # Zweite Chance
 *Source: Xanathar's Guide to Everything p. 75*  

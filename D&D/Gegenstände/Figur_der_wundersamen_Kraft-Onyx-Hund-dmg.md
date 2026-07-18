@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Onyx Dog
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Onyx Dog
 tags:
   - Gegenstand/Seltenheit/selten

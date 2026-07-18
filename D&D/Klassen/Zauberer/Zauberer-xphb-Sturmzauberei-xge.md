@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm Sorcery
+Status: WIP
 linter-yaml-title-alias: Storm Sorcery
 tags:
   - Klasse/Zauberer/storm

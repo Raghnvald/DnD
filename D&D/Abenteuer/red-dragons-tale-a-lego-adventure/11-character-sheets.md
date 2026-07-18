@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Character Sheets
+Status: WIP
 linter-yaml-title-alias: Character Sheets
 tags:
   - Quelle/5e/lrdt
 aliases:
-  - "Character Sheets"
+  - Character Sheets
   - Character Sheets
 ---
 # Character Sheets

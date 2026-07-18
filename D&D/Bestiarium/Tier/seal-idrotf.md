@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Seal
+Status: WIP
 linter-yaml-title-alias: Seal
 tags:
   - Monster/Größe/Mittelgroß

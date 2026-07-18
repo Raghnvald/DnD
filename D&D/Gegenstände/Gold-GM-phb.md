@@ -2,22 +2,22 @@
 Bezeichnung: Gold (GM)
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
-status: WIP
+Gew.: 0,01 kg
+Status: completed
 linter-yaml-title-alias: Gold (GM)
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Gold (GM)
-  - Gold (gp)
+status: WIP
 ---
 # Gold (GM)
-*Treasure (coinage)*  
-![](Gegenstände/img/gold-gp.webp#right)
+*Schatz (Währung)*  
+![](img/gold-gp.webp#right)
 
 - **Kosten**: 1 GM
 - **Gewicht**: 0,01 kg.

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Fertigkeitsübung
+Status: WIP
 linter-yaml-title-alias: Gabe der Fertigkeitsübung
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Skill Proficiency

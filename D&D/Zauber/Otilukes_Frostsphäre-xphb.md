@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Otiluke's Freezing Sphere"
+Status: WIP
 linter-yaml-title-alias: "Otiluke's Freezing Sphere"
 classes:
   - Bard

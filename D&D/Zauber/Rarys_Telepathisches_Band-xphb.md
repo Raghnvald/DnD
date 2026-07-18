@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Rary's Telepathic Bond"
+Status: WIP
 linter-yaml-title-alias: "Rary's Telepathic Bond"
 classes:
   - Bard

@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Witch Bolt
+Bezeichnung: Hexenpfeil
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff:
 Schaden:
-linter-yaml-title-alias: Witch Bolt
+Status: WIP
+linter-yaml-title-alias: Hexenpfeil
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -21,15 +22,15 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Witch Bolt
+  - Hexenpfeil
 ---
-# Witch Bolt
+# Hexenpfeil
 *1st-level, Evocation*  
 
 - **Casting time:** 1 Action

@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Spirit Shroud
+Bezeichnung: Geistwolke
 Zaubergrad: 3
+Zeitaufwand: 1 Bonusaktion
+Status: WIP
 linter-yaml-title-alias: Spirit Shroud
 classes:
   - Bard
@@ -27,8 +29,12 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Spirit Shroud
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 ---
-# Spirit Shroud
+# Geistwolke
 *3rd-level, Necromancy*  
 
 - **Casting time:** 1 Bonus Action

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Zombie
+Status: WIP
 linter-yaml-title-alias: Frost Giant Zombie
 tags:
   - Monster/Größe/Riesig

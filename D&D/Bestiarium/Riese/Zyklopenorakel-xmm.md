@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cyclops Oracle
+Status: WIP
 linter-yaml-title-alias: Cyclops Oracle
 tags:
   - Monster/Größe/Riesig

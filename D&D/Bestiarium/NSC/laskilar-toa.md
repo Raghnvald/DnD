@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Laskilar
+Status: WIP
 linter-yaml-title-alias: Laskilar
 tags:
   - Monster/Größe/Mittelgroß

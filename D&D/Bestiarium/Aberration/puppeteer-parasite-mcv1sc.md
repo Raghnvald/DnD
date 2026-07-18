@@ -5,7 +5,7 @@ Bezeichnung: Puppeteer Parasite
 Kategorie: Aberration
 Größe: Winzig
 HG: 3
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Puppeteer Parasite
 tags:
   - Monster/Größe/Winzig
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mcv1sc
 aliases:
   - Puppeteer Parasite
+status: WIP
 ---
 # [Puppeteer Parasite](3-Mechanics\CLI\bestiary\aberration/puppeteer-parasite-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 11*  

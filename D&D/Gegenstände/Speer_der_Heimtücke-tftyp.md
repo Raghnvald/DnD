@@ -1,18 +1,21 @@
 ---
-Bezeichnung: Spear of Backbiting
-Kategorie: Einfache Nahkampfwaffe
-Einstimmung: erfordert
-linter-yaml-title-alias: Spear of Backbiting
+Bezeichnung: Speer der Heimtücke
+Kategorie: Nahkampfwaffe, einfach
+Einstimmung: erforderlich
+Status: WIP
+linter-yaml-title-alias: Speer der Heimtücke
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tftyp
 aliases:
-  - Spear of Backbiting
+  - Speer der Heimtücke
+status: WIP
+Original: Spear of Backbiting
 ---
-# Spear of Backbiting
+# Speer der Heimtücke
 *Weapon (spear), cursed item, very rare (requires attunement)*  
 
 - **Damage**:

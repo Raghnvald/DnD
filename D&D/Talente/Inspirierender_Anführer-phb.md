@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Inspirierender Anführer
-linter-yaml-title-alias: Inspiring Leader
+Status: WIP
+linter-yaml-title-alias: Inspirierender Anführer
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Inspiring Leader
+  - Inspirierender Anführer
 ---
 # Inspirierender Anführer
 *Source: Player's Handbook p. 167*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Necrotic Resistance
+Status: WIP
 linter-yaml-title-alias: Ring of Necrotic Resistance
 tags:
   - Gegenstand/Seltenheit/selten

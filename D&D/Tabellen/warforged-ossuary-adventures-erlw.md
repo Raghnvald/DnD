@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warforged Ossuary Adventures
+Status: WIP
 linter-yaml-title-alias: Warforged Ossuary Adventures
 tags:
   - Quelle/5e/erlw

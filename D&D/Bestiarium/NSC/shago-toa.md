@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shago
+Status: WIP
 linter-yaml-title-alias: Shago
 tags:
   - Monster/Größe/Mittelgroß

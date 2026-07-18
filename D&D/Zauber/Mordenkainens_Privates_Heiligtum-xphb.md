@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Mordenkainen's Private Sanctum"
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Private Sanctum"
 classes:
   - Artificer

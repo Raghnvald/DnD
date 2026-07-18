@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Tempus
+Status: WIP
 linter-yaml-title-alias: Tempus
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Hospitality
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Hospitality
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Hospitality"
+  - Greater Mark of Hospitality
   - Greater Mark of Hospitality
 ---
 # Greater Mark of Hospitality

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Umberlee, Göttin des Meeres
+Status: WIP
 linter-yaml-title-alias: Umberlee, Göttin des Meeres
 tags:
   - Kompendium/Götter

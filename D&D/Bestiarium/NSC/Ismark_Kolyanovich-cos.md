@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ismark Kolyanovich
+Status: WIP
 linter-yaml-title-alias: Ismark Kolyanovich
 tags:
   - Monster/Größe/Mittelgroß

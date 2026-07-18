@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ring of Jumping
+Status: WIP
 linter-yaml-title-alias: Ring of Jumping
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg

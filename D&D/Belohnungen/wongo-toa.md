@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wongo
+Status: WIP
 linter-yaml-title-alias: Wongo
 tags:
   - Kompendium/Belohnung/inhabitation

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: The Lord of Blades
+Status: WIP
 linter-yaml-title-alias: The Lord of Blades
 tags:
   - Monster/Größe/Mittelgroß

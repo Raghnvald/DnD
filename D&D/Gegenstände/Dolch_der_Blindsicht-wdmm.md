@@ -1,23 +1,26 @@
 ---
 Bezeichnung: Dolch der Blindsicht
-Kategorie: Einfache Nahkampfwaffe
+Original: Dagger of Blindsight
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W4 Stich
 Eigenschaften:
-  - erfordert Einstimmung
   - Finesse
   - Leicht
   - Wurfwaffe
-Kst.: /
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Dolch der Blindsicht
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/wdmm
 aliases:
   - Dolch der Blindsicht
+status: WIP
 ---
 # Dolch der Blindsicht
 *Waffe ([[Dolch-phb|Dolch]]), selten (requires attunement)*  

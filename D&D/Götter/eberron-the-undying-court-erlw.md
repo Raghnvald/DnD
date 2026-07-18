@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Undying Court
+Status: WIP
 linter-yaml-title-alias: The Undying Court
 tags:
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

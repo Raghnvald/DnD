@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Hold Back The Dead
+Status: WIP
 linter-yaml-title-alias: Hold Back The Dead
 tags:
   - Quelle/5e/hbtd
 aliases:
-  - "Hold Back The Dead"
+  - Hold Back The Dead
   - Hold Back The Dead
 ---
 # Hold Back The Dead

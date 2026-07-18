@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tashlyn Yafeera
+Status: WIP
 linter-yaml-title-alias: Tashlyn Yafeera
 tags:
   - Monster/Größe/Mittelgroß

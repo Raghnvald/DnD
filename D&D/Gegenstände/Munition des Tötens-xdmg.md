@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ammunition of Slaying
+Status: WIP
 linter-yaml-title-alias: Ammunition of Slaying
 tags:
-  - Gegenstand/Ausrüstung/ammunition
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/generic-variant
   - Gegenstand/Zeitalter/Futuristisch

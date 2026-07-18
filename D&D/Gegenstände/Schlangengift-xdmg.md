@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Serpent Venom
+Status: WIP
 linter-yaml-title-alias: Serpent Venom
 tags:
   - Gegenstand/Ausrüstung/

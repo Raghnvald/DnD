@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shotgun
+Status: WIP
 linter-yaml-title-alias: Shotgun
 tags:
   - Gegenstand/Seltenheit/keine

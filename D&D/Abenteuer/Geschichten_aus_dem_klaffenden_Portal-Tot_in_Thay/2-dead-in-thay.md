@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Dead in Thay
+Status: WIP
 linter-yaml-title-alias: Dead in Thay
 tags:
   - Quelle/5e/tftyp-dit
 aliases:
-  - "Dead in Thay"
+  - Dead in Thay
   - Dead in Thay
 ---
 # Dead in Thay

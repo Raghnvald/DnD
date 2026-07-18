@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Belt of Storm Giant Strength
+Status: WIP
 linter-yaml-title-alias: Belt of Storm Giant Strength
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

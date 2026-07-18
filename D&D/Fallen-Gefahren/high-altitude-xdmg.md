@@ -1,5 +1,6 @@
 ---
 Bezeichnung: High Altitude
+Status: WIP
 linter-yaml-title-alias: High Altitude
 tags:
   - Kompendium/Bedrohung/env

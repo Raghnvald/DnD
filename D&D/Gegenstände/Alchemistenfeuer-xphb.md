@@ -1,10 +1,10 @@
 ---
 Bezeichnung: "Alchemist's Fire"
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
 Gew.: 0,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: "Alchemist's Fire"
 tags:
   - Gegenstand/Ausrüstung/

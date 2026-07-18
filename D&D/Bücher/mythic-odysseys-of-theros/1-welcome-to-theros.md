@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Welcome to Theros
+Status: WIP
 linter-yaml-title-alias: Welcome to Theros
 tags:
   - Quelle/5e/mot
 aliases:
-  - "Welcome to Theros"
+  - Welcome to Theros
   - Welcome to Theros
 ---
 # Welcome to Theros

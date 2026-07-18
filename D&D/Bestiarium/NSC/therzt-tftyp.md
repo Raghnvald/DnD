@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Therzt
+Status: WIP
 linter-yaml-title-alias: Therzt
 tags:
   - Monster/Größe/Mittelgroß

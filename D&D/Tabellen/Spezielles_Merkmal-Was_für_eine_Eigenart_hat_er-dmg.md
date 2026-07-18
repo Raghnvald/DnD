@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spezielles Merkmal; Was für eine Eigenart hat er?
+Status: WIP
 linter-yaml-title-alias: Spezielles Merkmal; Was für eine Eigenart hat er?
 tags:
   - Quelle/5e/dmg

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Cults of the Dragon Below
+Status: WIP
 linter-yaml-title-alias: Cults of the Dragon Below
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

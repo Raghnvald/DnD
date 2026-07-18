@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hoar, Gott der Rache und Bestrafung
+Status: WIP
 linter-yaml-title-alias: Hoar, Gott der Rache und Bestrafung
 tags:
   - Kompendium/Götter

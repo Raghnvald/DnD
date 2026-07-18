@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Broom of Flying
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Broom of Flying
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

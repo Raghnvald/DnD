@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Other Adventure Hooks; Boros Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Other Adventure Hooks; Boros Adventure Hooks
 tags:
   - Quelle/5e/ggr

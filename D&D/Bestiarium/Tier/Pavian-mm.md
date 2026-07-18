@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Baboon
+Status: WIP
 linter-yaml-title-alias: Baboon
 tags:
   - Monster/Größe/Klein

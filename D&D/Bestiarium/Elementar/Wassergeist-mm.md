@@ -8,8 +8,7 @@ HG: 3
 Habitat:
   - Stadt
   - Unterreich
-image: token/water-weird.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Wassergeist
 tags:
   - Monster/Größe/Groß
@@ -21,6 +20,8 @@ tags:
 aliases:
   - Wassergeist
   - Water Weird
+image: token/water-weird.webp
+status: completed
 ---
 # Wassergeist
 *Quelle: Monsterhandbuch S. 300*  

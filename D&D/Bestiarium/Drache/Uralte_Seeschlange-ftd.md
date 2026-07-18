@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 14
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ancient Sea Serpent
 tags:
   - Monster/Größe/Gigantisch
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Ancient Sea Serpent
+status: WIP
 ---
 # [Ancient Sea Serpent](3-Mechanics\CLI\bestiary\dragon/ancient-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  

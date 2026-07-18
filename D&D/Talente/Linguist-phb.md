@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Linguist
+Status: WIP
 linter-yaml-title-alias: Linguist
 tags:
   - Kompendium/Talent

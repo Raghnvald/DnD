@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pike Trickfoot
+Status: WIP
 linter-yaml-title-alias: Pike Trickfoot
 tags:
   - Monster/Größe/Klein

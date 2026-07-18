@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Druidic Warrior
+Status: WIP
 linter-yaml-title-alias: Spells for Druidic Warrior
 tags:
-  - Zauber/list/feat/druidic-warrior
+  - Zauber/Liste/feat/druidic-warrior
 aliases:
   - Spells for Druidic Warrior
 ---

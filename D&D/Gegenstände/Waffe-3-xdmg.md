@@ -1,5 +1,6 @@
 ---
 Bezeichnung: +3 Weapon
+Status: WIP
 linter-yaml-title-alias: +3 Weapon
 tags:
   - Gegenstand/Seltenheit/sehr_selten

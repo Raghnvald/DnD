@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Baleful Scion
+Status: WIP
 linter-yaml-title-alias: Baleful Scion
 tags:
   - Kompendium/Talent
   - Quelle/5e/sato
 aliases:
-  - "Baleful Scion"
+  - Baleful Scion
   - Baleful Scion
 ---
 # Baleful Scion

@@ -5,7 +5,7 @@ Bezeichnung: Mind Flayer Psion
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Mind Flayer Psion
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Mind Flayer Psion
+status: WIP
 ---
 # [Mind Flayer Psion](3-Mechanics\CLI\bestiary\aberration/mind-flayer-psion-vgm.md)
 *Source: Volo's Guide to Monsters p. 71*  

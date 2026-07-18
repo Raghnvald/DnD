@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix E: Player Handouts"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: Player Handouts"
 tags:
   - Quelle/5e/toa
 aliases:
   - "Appendix E: Player Handouts"
-  - Appendix E: Player Handouts
 ---
 # Appendix E: Player Handouts
 *Source: Tomb of Annihilation, p. 243* 

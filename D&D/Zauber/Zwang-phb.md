@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Compulsion
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Compulsion
 classes:
   - Bard (Magical Secrets)

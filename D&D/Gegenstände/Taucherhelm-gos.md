@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Helm of Underwater Action
+Status: WIP
 linter-yaml-title-alias: Helm of Underwater Action
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/gos
 aliases:

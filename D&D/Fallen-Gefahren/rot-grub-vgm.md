@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rot Grub
+Status: WIP
 linter-yaml-title-alias: Rot Grub
 tags:
   - Quelle/5e/vgm

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Statue of Vergadain
+Status: WIP
 linter-yaml-title-alias: Statue of Vergadain
 tags:
   - Monster/Größe/Groß

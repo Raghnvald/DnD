@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Abjuration Spells
+Status: WIP
 linter-yaml-title-alias: Abjuration Spells
 tags:
-  - Zauber/list/school/abjuration
+  - Zauber/Liste/school/abjuration
 aliases:
   - Abjuration Spells
 ---

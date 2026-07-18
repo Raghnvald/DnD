@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Unerhört Glück
-linter-yaml-title-alias: Bountiful Luck
+Bezeichnung: Unerhörtes Glück
+Status: WIP
+linter-yaml-title-alias: Unerhörtes Glück
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Bountiful Luck
+  - Unerhörtes Glück
 ---
 # Unerhörtes Glück
 *Source: Xanathar's Guide to Everything p. 73*  

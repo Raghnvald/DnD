@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ancient Being Operative Roles
+Status: WIP
 linter-yaml-title-alias: Ancient Being Operative Roles
 tags:
   - Quelle/5e/tce

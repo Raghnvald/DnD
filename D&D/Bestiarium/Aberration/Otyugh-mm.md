@@ -8,8 +8,7 @@ Größe: Groß
 HG: 5
 Habitat:
   - Unterreich
-image: token/otyugh-webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Otyugh
 tags:
   - Monster/Größe/Groß
@@ -19,6 +18,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Otyugh
+image: token/otyugh-webp
+status: WIP
 ---
 # Otyugh
 *Quelle: Monsterhandbuch S. 215. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

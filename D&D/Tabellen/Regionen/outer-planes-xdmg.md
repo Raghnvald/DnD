@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Outer Planes
+Status: WIP
 linter-yaml-title-alias: Outer Planes
 tags:
   - Quelle/5e/xdmg

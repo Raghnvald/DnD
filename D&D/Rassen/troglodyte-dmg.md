@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Troglodyte
+Status: WIP
 linter-yaml-title-alias: Troglodyte
 tags:
   - Quelle/5e/dmg

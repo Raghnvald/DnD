@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Anpassungsmöglichkeiten
+Status: completed
 linter-yaml-title-alias: Anpassungsmöglichkeiten
 tags:
   - Quelle/5e/phb

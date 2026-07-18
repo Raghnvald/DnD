@@ -1,19 +1,23 @@
 ---
 Bezeichnung: Staff of the Rooted Hills
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung
   - Vielseitig (1W8)
-Kst.: /
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Staff of the Rooted Hills
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgg
 aliases:
   - Staff of the Rooted Hills
+status: WIP
+Original: Staff of Rooted Hills
 ---
 # Staff of the Rooted Hills
 *Staff, weapon, rare (requires attunement)*  

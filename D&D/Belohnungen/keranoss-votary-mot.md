@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Keranos's Votary"
+Status: WIP
 linter-yaml-title-alias: "Keranos's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

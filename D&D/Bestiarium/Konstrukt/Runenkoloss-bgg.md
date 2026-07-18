@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Runic Colossus
+Status: WIP
 linter-yaml-title-alias: Runic Colossus
 tags:
   - Monster/Größe/Gigantisch

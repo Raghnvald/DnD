@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Transport via Plants
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Transport via Plants
 classes:
   - Bard (Magical Secrets)

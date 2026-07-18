@@ -8,7 +8,7 @@ HG: 16
 Habitat:
   - Küste
   - Wüste
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ausgewachsener Blauer Drache
 tags:
   - Monster/Größe/Riesig
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ausgewachsener Blauer Drache
+status: WIP
 ---
 # Ausgewachsener Blauer Drache
 *Quelle: Monsterhandbuch S. 62. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

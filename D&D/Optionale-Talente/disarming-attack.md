@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Disarming Attack
+Status: WIP
 linter-yaml-title-alias: Disarming Attack
 tags:
   - Kompendium/Optionales/mv-b

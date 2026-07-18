@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zygfrek Belview
+Status: WIP
 linter-yaml-title-alias: Zygfrek Belview
 tags:
   - Monster/Größe/Mittelgroß

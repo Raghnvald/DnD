@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Netherese Magical Anomalies"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Netherese Magical Anomalies"
 tags:
   - Quelle/5e/nf

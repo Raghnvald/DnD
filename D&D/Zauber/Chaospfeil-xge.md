@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Chaospfeil
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
+Zeitaufwand: 1 Aktion
+Reichweite: 36 Meter
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
+Angriff: Fern
+Schaden: 2d8+1d6 variabel
+Status: WIP
 linter-yaml-title-alias: Chaospfeil
 classes:
   - Sorcerer
@@ -25,7 +27,7 @@ aliases:
 - **Komponenten:** V, G
 - **Wirkungsdauer:** Unmittelbar
 
-Du schleuderst eine wogende Masse chaotischer Energie auf eine Kreatur in Reichweite. Führe einen Fernkampf-Zauberangriff gegen das Ziel durch. Bei einem Treffer erleidet das Ziel `2d8` + `1d6` Schaden. Wähle einen der beiden WS aus. Die gewürfelte Zahl bestimmt die Schadensart wie unten aufgeführt.
+Du schleuderst eine wogende Masse chaotischer Energie auf eine Kreatur in Reichweite. Führe einen Fernkampf-Zauberangriff gegen das Ziel durch. Bei einem Treffer erleidet das Ziel `2d8` + `1d6` Schaden. Wähle einen der beiden W8 aus. Die gewürfelte Zahl bestimmt die Schadensart wie unten aufgeführt.
 
 | dice: d8 | Schadensart |
 | -------- | ----------- |

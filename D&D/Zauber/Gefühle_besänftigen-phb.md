@@ -5,6 +5,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
+Status: WIP
 linter-yaml-title-alias: Gefühle besänftigen
 classes:
   - Bard (Magical Secrets)

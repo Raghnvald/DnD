@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Cook's Utensils"
+Status: WIP
 linter-yaml-title-alias: "Cook's Utensils"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bezauberung des Schlächters
+Status: WIP
 linter-yaml-title-alias: Bezauberung des Schlächters
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dmg
 aliases:
   - Bezauberung des Schlächters

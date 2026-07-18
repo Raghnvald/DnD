@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Open Water Encounters (Levels 1—4)
+Status: WIP
 linter-yaml-title-alias: Open Water Encounters (Levels 1—4)
 tags:
   - Quelle/5e/gos

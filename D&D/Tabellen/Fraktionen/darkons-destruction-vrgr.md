@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Darkon's Destruction"
+Status: WIP
 linter-yaml-title-alias: "Darkon's Destruction"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "Darkon's Destruction"
-  - Darkon's Destruction
 ---
 # Darkon's Destruction
 *Source: Van Richten's Guide to Ravenloft p. 92* 

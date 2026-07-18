@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valetta
+Status: WIP
 linter-yaml-title-alias: Valetta
 tags:
   - Monster/Größe/Mittelgroß

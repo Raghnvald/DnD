@@ -1,10 +1,11 @@
 ---
 Bezeichnung: "Maddgoth's Helm"
+Status: WIP
 linter-yaml-title-alias: "Maddgoth's Helm"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdmm
 aliases:
   - "Maddgoth's Helm"

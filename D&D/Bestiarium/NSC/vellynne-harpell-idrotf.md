@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vellynne Harpell
+Status: WIP
 linter-yaml-title-alias: Vellynne Harpell
 tags:
   - Monster/Größe/Mittelgroß

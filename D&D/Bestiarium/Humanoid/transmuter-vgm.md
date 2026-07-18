@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Transmuter
+Status: WIP
 linter-yaml-title-alias: Transmuter
 tags:
   - Monster/Größe/Mittelgroß

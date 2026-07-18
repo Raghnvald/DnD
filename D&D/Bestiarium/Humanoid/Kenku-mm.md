@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kenku
+Status: WIP
 linter-yaml-title-alias: Kenku
 tags:
   - Monster/Größe/Mittelgroß

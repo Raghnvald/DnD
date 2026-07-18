@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Keranos's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Keranos's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

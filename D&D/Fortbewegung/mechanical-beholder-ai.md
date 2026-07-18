@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Mechanical Beholder
+Status: WIP
 linter-yaml-title-alias: Mechanical Beholder
 tags:
   - Quelle/5e/ai
-  - ttrpg-cli/vehicle/size/huge
-  - ttrpg-cli/vehicle/terrain/air
-  - ttrpg-cli/vehicle/terrain/land
-  - ttrpg-cli/vehicle/terrain/sea
-  - ttrpg-cli/vehicle/type/ship
+  - Gegenstand/Fortbewegung/Größe/Riesig
+  - Gegenstand/Fortbewegung/Gelände/Luft
+  - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Kategorie/Schiff
 aliases:
-  - "Mechanical Beholder"
+  - Mechanical Beholder
   - Mechanical Beholder
 ---
 # Mechanical Beholder

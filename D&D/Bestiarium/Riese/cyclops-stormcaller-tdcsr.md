@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cyclops Stormcaller
+Status: WIP
 linter-yaml-title-alias: Cyclops Stormcaller
 tags:
   - Monster/Größe/Groß

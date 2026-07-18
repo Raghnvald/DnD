@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forgery Kit
+Status: WIP
 linter-yaml-title-alias: Forgery Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

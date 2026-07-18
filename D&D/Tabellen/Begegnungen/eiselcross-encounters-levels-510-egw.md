@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Eiselcross Encounters: Levels 5–10"
+Status: WIP
 linter-yaml-title-alias: "Eiselcross Encounters: Levels 5–10"
 tags:
   - Quelle/5e/egw
 aliases:
   - "Eiselcross Encounters: Levels 5–10"
-  - Eiselcross Encounters: Levels 5–10
 ---
 # Eiselcross Encounters: Levels 5–10
 *Source: Explorer's Guide to Wildemount p. 122* 

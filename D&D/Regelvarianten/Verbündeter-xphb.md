@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ally
+Status: WIP
 linter-yaml-title-alias: Ally
 tags:
   - Quelle/5e/xphb

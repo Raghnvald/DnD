@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Klauth
+Status: WIP
 linter-yaml-title-alias: Klauth
 tags:
   - Monster/Größe/Gigantisch

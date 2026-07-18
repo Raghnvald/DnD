@@ -6,8 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d12 Gift
-status:
-  - completed
+Status: WIP
 linter-yaml-title-alias: Gift versprühen
 tags:
   - Klasse/Artifizient
@@ -22,6 +21,8 @@ tags:
 aliases:
   - Gift versprühen
   - Poison Spray
+status:
+  - completed
 ---
 # Gift versprühen
 _Zaubertrick der Beschwörung_

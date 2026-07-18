@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cubic Gate
+Status: WIP
 linter-yaml-title-alias: Cubic Gate
 tags:
   - Gegenstand/Seltenheit/legendär

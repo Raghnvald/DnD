@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Secrets
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Wand of Secrets
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

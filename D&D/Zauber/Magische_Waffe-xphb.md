@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Weapon
+Status: WIP
 linter-yaml-title-alias: Magic Weapon
 classes:
   - Artificer

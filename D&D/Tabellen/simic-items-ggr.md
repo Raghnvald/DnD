@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Simic Items
+Status: WIP
 linter-yaml-title-alias: Simic Items
 tags:
   - Quelle/5e/ggr

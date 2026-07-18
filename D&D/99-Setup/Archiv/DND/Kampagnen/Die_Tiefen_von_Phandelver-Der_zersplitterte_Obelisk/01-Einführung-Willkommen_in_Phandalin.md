@@ -1,5 +1,6 @@
 ---
 Bezeichnung: <center> Welcome to Phandalin </center>
+Status: WIP
 linter-yaml-title-alias: <center> Welcome to Phandalin </center>
 tags:
   - Quelle/5e/pabtso

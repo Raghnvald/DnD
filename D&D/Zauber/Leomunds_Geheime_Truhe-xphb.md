@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Leomund's Secret Chest"
+Status: WIP
 linter-yaml-title-alias: "Leomund's Secret Chest"
 classes:
   - Artificer

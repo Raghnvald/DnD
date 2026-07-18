@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spirit Board
+Status: WIP
 linter-yaml-title-alias: Spirit Board
 tags:
   - Gegenstand/Seltenheit/sehr_selten

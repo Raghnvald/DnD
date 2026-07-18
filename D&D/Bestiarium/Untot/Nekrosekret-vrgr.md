@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Necrichor
+Status: WIP
 linter-yaml-title-alias: Necrichor
 tags:
   - Monster/Größe/Mittelgroß

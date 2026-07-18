@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dao (Wishes)
+Status: WIP
 linter-yaml-title-alias: Dao (Wishes)
 tags:
   - Monster/Größe/Groß

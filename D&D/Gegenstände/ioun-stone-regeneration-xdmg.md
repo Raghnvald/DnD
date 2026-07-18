@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Regeneration
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Regeneration
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

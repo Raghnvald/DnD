@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weapon Attack
+Status: WIP
 linter-yaml-title-alias: Weapon Attack
 tags:
   - Quelle/5e/xphb

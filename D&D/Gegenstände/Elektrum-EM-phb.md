@@ -2,25 +2,24 @@
 Bezeichnung: Elektrum (EM)
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 SM
-Gew.: /
-status: WIP
+Gew.: 0,01 kg
+Status: completed
 linter-yaml-title-alias: Elektrum (EM)
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Electrum (ep)
   - Elektrum (EM)
 ---
 # Elektrum (EM)
-*Treasure (coinage)*  
-![](Gegenstände/img/electrum-ep.webp#right)
+*Schatz (Währung)*  
+![](img/electrum-ep.webp#right)
 
-- **Cost**: 5 sp
-- **Weight**: 0.02 lbs.
+- **Kosten**: 5 SM
+- **Gewicht**: 0,01 kg
 
 Die üblichen Münzen gibt es in verschiedenen Werten, die auf dem relativen Wert der Metalle beruhen, aus denen sie gefertigt.sind. Die drei häufigsten Münzen sind Goldmünzen (GM), Silbermünzen (SM) und Kupfermünzen (KM).
 

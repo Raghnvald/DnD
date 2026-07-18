@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Swimming
+Status: WIP
 linter-yaml-title-alias: Ring of Swimming
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

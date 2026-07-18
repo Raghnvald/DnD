@@ -4,11 +4,12 @@ Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
   - /
-Kst.: /
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schild des Schreiens
 tags:
   - Gegenstand/Rüstung/Schild/
@@ -16,6 +17,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Schild des Schreiens
+status: WIP
 ---
 # Schild des Schreiens
 *Rüstung ([[Gegenstände/Schild-phb|Schild]])*
@@ -23,6 +25,6 @@ aliases:
 - **Rüstungsklasse**: 2
 - **Gewicht**: 3,0 kg.
 
-Wirkt man Magie entdecken, entdeckt man, dass der große Schild an der Wand Verwandlungsmagie ausstrahlt. Der Schild hat die magische Eigenschaft, dass Wörter, die der Schildträger spricht, zehnmal lauter sind.
+Wirkt man [[Magie_entdecken-phb|Magie entdecken]], entdeckt man, dass der große Schild an der Wand Verwandlungsmagie ausstrahlt. Der Schild hat die magische Eigenschaft, dass Wörter, die der Schildträger spricht, zehnmal lauter sind.
 
 *Source: Tomb of Annihilation p. 116*

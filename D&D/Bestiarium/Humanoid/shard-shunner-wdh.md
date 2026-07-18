@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shard Shunner
+Status: WIP
 linter-yaml-title-alias: Shard Shunner
 tags:
   - Monster/Größe/Klein

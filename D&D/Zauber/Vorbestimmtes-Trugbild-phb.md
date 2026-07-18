@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Programmed Illusion
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Programmed Illusion
 classes:
   - Bard (Magical Secrets)

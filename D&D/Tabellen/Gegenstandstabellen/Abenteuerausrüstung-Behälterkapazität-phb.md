@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Abenteuerausrüstung; Behälterkapazität
+Status: WIP
 linter-yaml-title-alias: Abenteuerausrüstung; Behälterkapazität
 tags:
   - Quelle/5e/phb

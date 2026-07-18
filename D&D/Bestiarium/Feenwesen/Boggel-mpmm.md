@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boggle
+Status: WIP
 linter-yaml-title-alias: Boggle
 tags:
   - Monster/Größe/Klein

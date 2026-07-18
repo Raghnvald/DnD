@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Human (Innistrad)
+Status: WIP
 linter-yaml-title-alias: Human (Innistrad)
 tags:
   - Quelle/5e/psi
   - Rasse/human/innistrad
 aliases:
-  - "Human (Innistrad)"
+  - Human (Innistrad)
   - Human (Innistrad)
 ---
 # Human (Innistrad)

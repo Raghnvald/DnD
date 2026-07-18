@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Efreeti (Wishes)
+Status: WIP
 linter-yaml-title-alias: Efreeti (Wishes)
 tags:
   - Monster/Größe/Groß

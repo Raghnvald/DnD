@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fury of Kostchtchie
+Status: WIP
 linter-yaml-title-alias: Fury of Kostchtchie
 tags:
   - Monster/Größe/Riesig

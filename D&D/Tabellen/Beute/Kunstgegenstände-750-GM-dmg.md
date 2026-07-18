@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 750 GM Kunstgegenstände
+Status: WIP
 linter-yaml-title-alias: 750 GM Kunstgegenstände
 tags:
   - Quelle/5e/dmg

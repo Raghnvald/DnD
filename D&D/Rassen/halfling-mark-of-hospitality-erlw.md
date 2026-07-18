@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling (Mark of Hospitality)
+Status: WIP
 linter-yaml-title-alias: Halfling (Mark of Hospitality)
 tags:
   - Quelle/5e/erlw

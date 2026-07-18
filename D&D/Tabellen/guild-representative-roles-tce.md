@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Representative Roles
+Status: WIP
 linter-yaml-title-alias: Guild Representative Roles
 tags:
   - Quelle/5e/tce

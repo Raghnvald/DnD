@@ -1,7 +1,9 @@
 ---
-Bezeichnung: See Invisibility
+Bezeichnung: Unsichtbares sehen
 Zaubergrad: 2
-linter-yaml-title-alias: See Invisibility
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Unsichtbares sehen
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -18,9 +20,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
 aliases:
-  - See Invisibility
+  - Unsichtbares sehen
 ---
-# See Invisibility
+# Unsichtbares sehen
 *2nd-level, Divination*  
 
 - **Casting time:** 1 Action

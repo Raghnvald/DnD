@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grenade Launcher
+Status: WIP
 linter-yaml-title-alias: Grenade Launcher
 tags:
   - Gegenstand/Ausrüstung/

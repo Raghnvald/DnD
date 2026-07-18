@@ -1,11 +1,11 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+Bezeichnung: "Vecna: Nest of the Eldritch Eye"
+Status: WIP
+linter-yaml-title-alias: "Vecna: Nest of the Eldritch Eye"
 tags:
-- ttrpg-cli/compendium/src/5e/vnotee
+  - Quelle/5e/vnotee
 aliases:
-- "Vecna: Nest of the Eldritch Eye"
+  - "Vecna: Nest of the Eldritch Eye"
 ---
 # Vecna: Nest of the Eldritch Eye
 *Source: Vecna: Nest of the Eldritch Eye* 

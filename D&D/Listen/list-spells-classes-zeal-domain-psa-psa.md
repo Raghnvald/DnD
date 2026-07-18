@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Zeal Domain (PSA)
+Status: WIP
 linter-yaml-title-alias: Spells for Zeal Domain (PSA)
 tags:
-  - ttrpg-cli/spell/list/subclass/zeal-domain-psa
+  - Zauber/Liste/subclass/zeal-domain-psa
 aliases:
-  - "Spells for Zeal Domain (PSA)"
+  - Spells for Zeal Domain (PSA)
   - Spells for Zeal Domain (PSA)
 ---
 # Spells for Zeal Domain (PSA)

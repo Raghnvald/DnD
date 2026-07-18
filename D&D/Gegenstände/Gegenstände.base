@@ -19,15 +19,14 @@ views:
       and:
         - file.folder == "D&D/Gegenstände"
         - file.tags.contains("Gegenstand/Ausrüstung")
+        - Status == "WIP"
     groupBy:
       property: Kategorie
       direction: ASC
     order:
       - formula.Untitled
-      - Kst.
-      - Gew.
-      - Eigenschaften
       - status
+      - Original
     sort:
       - property: formula.Untitled
         direction: ASC
@@ -73,6 +72,7 @@ views:
       - Gew.
       - Eigenschaften
       - status
+      - Original
     sort:
       - property: formula.Untitled
         direction: ASC
@@ -97,6 +97,7 @@ views:
       - Bew.
       - Traglast
       - status
+      - Original
     sort:
       - property: formula.Untitled
         direction: ASC
@@ -128,13 +129,11 @@ views:
       direction: ASC
     order:
       - formula.Untitled
-      - Kst.
-      - Gew.
       - RK
       - STR
       - Heiml.
-      - Eigenschaften
       - Einstimmung
+      - Original
     columnSize:
       note.Kst.: 72
       note.Gew.: 79
@@ -178,6 +177,7 @@ views:
             - file.tags.contains("Gegenstand/Waffe")
             - '!file.fullname.containsAny("-Erwacht-", "-Erhaben-", "-dormant-", "-awakened-", "-exalted-", "-Schlummernd-")'
             - '!file.fullname.containsAny("-Ahn-", "-Erwachend-", "-Erweckt-")'
+        - Status == "WIP"
     groupBy:
       property: Kategorie
       direction: ASC
@@ -186,6 +186,8 @@ views:
       - Kst.
       - Gew.
       - Eigenschaften
+      - Status
+      - Original
   - type: table
     name: Wasserfahrzeuge
     filters:

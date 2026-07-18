@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Barking Box
+Status: WIP
 linter-yaml-title-alias: Barking Box
 tags:
   - Gegenstand/Seltenheit/unbekannt
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdh
 aliases:
   - Barking Box

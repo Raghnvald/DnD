@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Paladine
+Status: WIP
 linter-yaml-title-alias: Paladine
 tags:
-  - Kompendium/Götter/Domäne/peace
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Frieden
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 13
 Habitat:
   - Wüste
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Brass Dragon
 tags:
   - Monster/Größe/Riesig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Adult Brass Dragon
+status: WIP
 ---
 # [Adult Brass Dragon](3-Mechanics\CLI\bestiary\dragon/adult-brass-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 55. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

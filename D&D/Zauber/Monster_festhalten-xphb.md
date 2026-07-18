@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hold Monster
+Status: WIP
 linter-yaml-title-alias: Hold Monster
 classes:
   - Bard

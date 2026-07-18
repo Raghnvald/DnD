@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warrior
+Status: WIP
 linter-yaml-title-alias: Warrior
 tags:
   - Monster/Größe/Mittelgroß

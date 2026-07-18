@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gem Stalker
+Status: WIP
 linter-yaml-title-alias: Gem Stalker
 tags:
   - Monster/Größe/Groß

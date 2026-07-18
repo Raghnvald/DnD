@@ -1,7 +1,8 @@
 ---
-Bezeichnung: Spike Growth
+Bezeichnung: Dornenwuchs
 Zaubergrad: 2
-linter-yaml-title-alias: Spike Growth
+Status: WIP
+linter-yaml-title-alias: Dornenwuchs
 classes:
   - Bard (Magical Secrets)
   - Cleric (Nature Domain)
@@ -18,9 +19,10 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Spike Growth
+  - Dornenwuchs
+Zeitaufwand: 1 Aktion
 ---
-# Spike Growth
+# Dornenwuchs
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

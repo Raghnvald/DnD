@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcane Trickster
+Status: WIP
 linter-yaml-title-alias: Arcane Trickster
 tags:
   - Klasse/Schurke/Arkaner-Betrüger

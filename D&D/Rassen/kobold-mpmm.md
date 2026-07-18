@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kobold
+Status: WIP
 linter-yaml-title-alias: Kobold
 tags:
   - Quelle/5e/mpmm

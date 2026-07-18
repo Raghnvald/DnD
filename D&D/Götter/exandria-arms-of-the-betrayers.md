@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Arms of the Betrayers
+Status: WIP
 linter-yaml-title-alias: Arms of the Betrayers
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Arms of the Betrayers

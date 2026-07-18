@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Hill Giant
+Status: WIP
 linter-yaml-title-alias: Young Hill Giant
 tags:
   - Monster/Größe/Mittelgroß

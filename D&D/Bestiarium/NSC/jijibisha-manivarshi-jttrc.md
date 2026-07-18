@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jijibisha Manivarshi
+Status: WIP
 linter-yaml-title-alias: Jijibisha Manivarshi
 tags:
   - Monster/Größe/Mittelgroß

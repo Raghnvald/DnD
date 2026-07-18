@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tecuziztecatl
+Status: WIP
 linter-yaml-title-alias: Tecuziztecatl
 tags:
   - Monster/Größe/Groß

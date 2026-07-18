@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chime of Opening
+Status: WIP
 linter-yaml-title-alias: Chime of Opening
 tags:
   - Gegenstand/Seltenheit/selten

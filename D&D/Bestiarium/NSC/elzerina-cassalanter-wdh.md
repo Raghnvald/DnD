@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elzerina Cassalanter
+Status: WIP
 linter-yaml-title-alias: Elzerina Cassalanter
 tags:
   - Monster/Größe/Klein

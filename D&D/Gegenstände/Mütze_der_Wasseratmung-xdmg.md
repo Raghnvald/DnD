@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cap of Water Breathing
+Status: WIP
 linter-yaml-title-alias: Cap of Water Breathing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

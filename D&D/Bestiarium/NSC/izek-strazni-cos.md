@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Izek Strazni
+Status: WIP
 linter-yaml-title-alias: Izek Strazni
 tags:
   - Monster/Größe/Mittelgroß

@@ -3,9 +3,9 @@ Bezeichnung: Augenkratzer
 Kategorie: Gift
 Eigenschaften:
   - Gift
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Augenkratzer
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - Augenkratzer
+status: WIP
 ---
 # Augenkratzer
 *Adventuring gear, poison (contact)*  

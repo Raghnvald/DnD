@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Censer of Controlling Air Elementals
+Status: WIP
 linter-yaml-title-alias: Censer of Controlling Air Elementals
 tags:
   - Gegenstand/Seltenheit/selten

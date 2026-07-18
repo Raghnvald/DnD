@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mage
+Status: WIP
 linter-yaml-title-alias: Mage
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

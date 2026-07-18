@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Klon
+Status: WIP
 linter-yaml-title-alias: Klon
 tags:
   - Klasse/Magier

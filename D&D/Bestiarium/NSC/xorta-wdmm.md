@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xorta
+Status: WIP
 linter-yaml-title-alias: Xorta
 tags:
   - Monster/Größe/Riesig

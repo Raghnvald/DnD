@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ox
+Status: WIP
 linter-yaml-title-alias: Ox
 tags:
   - Monster/Größe/Groß

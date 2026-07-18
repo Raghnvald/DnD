@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Black Crystal Tablet
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Black Crystal Tablet
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/wdmm

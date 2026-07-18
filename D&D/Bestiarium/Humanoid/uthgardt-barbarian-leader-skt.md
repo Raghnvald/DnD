@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Barbarian Leader
+Status: WIP
 linter-yaml-title-alias: Uthgardt Barbarian Leader
 tags:
   - Monster/Größe/Mittelgroß

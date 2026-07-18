@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakdos Performer, High-Wire Acrobat
+Status: WIP
 linter-yaml-title-alias: Rakdos Performer, High-Wire Acrobat
 tags:
   - Monster/Größe/Mittelgroß

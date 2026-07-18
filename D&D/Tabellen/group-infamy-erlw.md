@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Group Infamy
+Status: WIP
 linter-yaml-title-alias: Group Infamy
 tags:
   - Quelle/5e/erlw

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Fated Flight of the Recluse
+Status: WIP
 linter-yaml-title-alias: Fated Flight of the Recluse
 tags:
   - Quelle/5e/ffotr
 aliases:
-  - "Fated Flight of the Recluse"
+  - Fated Flight of the Recluse
   - Fated Flight of the Recluse
 ---
 # Fated Flight of the Recluse

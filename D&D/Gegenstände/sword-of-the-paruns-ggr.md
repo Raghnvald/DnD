@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Sword of the Paruns
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Sword of the Paruns
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/ggr
 aliases:
   - Sword of the Paruns
+status: WIP
+Original: Sword of the Paruns
 ---
 # Sword of the Paruns
 *Weapon (longsword), very rare (requires attunement)*  

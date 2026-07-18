@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d6 Kälte
+Status: WIP
 linter-yaml-title-alias: Erfrierung
 classes:
   - Artificer
@@ -28,10 +29,10 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xge
   - Rasse/elf/high-elf
   - Rasse/kobold

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dominate Person
+Status: WIP
 linter-yaml-title-alias: Dominate Person
 classes:
   - Bard

@@ -5,7 +5,7 @@ Eigenschaften:
   - Munition
 Kst.: 5 KM
 Gew.: 0,0375 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Armbrustbolzen
 tags:
   - Gegenstand/Ausrüstung
@@ -15,12 +15,13 @@ tags:
 aliases:
   - Armbrustbolzen
   - Crossbow Bolt
+status: WIP
 ---
 # Armbrustbolzen
 *Munition* 
 
-- **Eigenschaften**: Munition
-- **Kosten**: 5 Kupfermünzen
-- **Gewicht**: 0,0375 kg.
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]]
+- **Kosten**: 5 KM
+- **Gewicht**: 0,0375 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

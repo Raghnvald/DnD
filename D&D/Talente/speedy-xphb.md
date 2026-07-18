@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Speedy
+Status: WIP
 linter-yaml-title-alias: Speedy
 tags:
   - Kompendium/Talent

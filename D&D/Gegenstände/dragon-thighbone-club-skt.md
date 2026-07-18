@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Dragon Thighbone Club
-Kategorie: Einfache Nahkampfwaffe
+Original: Dragon Thighbone Club
+Kategorie: Nahkampfwaffe, einfach
 Eigenschaften:
-  - optionale Einstimmung
   - Zweihändig
-Kst.: /
+Kst.: n/v
 Gew.: 125,0 kg
+Status: WIP
+Einstimmung: optional
 linter-yaml-title-alias: Dragon Thighbone Club
 tags:
   - Gegenstand/Einstimmung/optional
@@ -15,6 +17,7 @@ tags:
   - Quelle/5e/skt
 aliases:
   - Dragon Thighbone Club
+status: WIP
 ---
 # Dragon Thighbone Club
 *Weapon (greatclub) (attunement optional)*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beldora
+Status: WIP
 linter-yaml-title-alias: Beldora
 tags:
   - Monster/Größe/Mittelgroß

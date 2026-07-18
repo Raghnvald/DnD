@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Paladin Spells
+Status: WIP
 linter-yaml-title-alias: Paladin Spells
 tags:
-  - Zauber/list/class/paladin
+  - Zauber/Liste/class/paladin
 aliases:
   - Paladin Spells
 ---

@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Lathander
+Status: WIP
 linter-yaml-title-alias: Lathander
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
-  - Inspiration's Dawn
+  - "Inspiration's Dawn"
   - Lathander
   - The Morninglord
   - The Rose-and-Gold God

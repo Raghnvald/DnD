@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quadrone
+Status: WIP
 linter-yaml-title-alias: Quadrone
 tags:
   - Monster/Größe/Mittelgroß

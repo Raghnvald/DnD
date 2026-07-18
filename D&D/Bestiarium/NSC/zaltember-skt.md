@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zaltember
+Status: WIP
 linter-yaml-title-alias: Zaltember
 tags:
   - Monster/Größe/Groß

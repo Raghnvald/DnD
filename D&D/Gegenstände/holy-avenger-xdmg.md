@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Holy Avenger
+Status: WIP
 linter-yaml-title-alias: Holy Avenger
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Creatures"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Creatures"
 tags:
   - Quelle/5e/tftyp-dit

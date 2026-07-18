@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Carrion Ogre
+Status: WIP
 linter-yaml-title-alias: Carrion Ogre
 tags:
   - Monster/Größe/Groß

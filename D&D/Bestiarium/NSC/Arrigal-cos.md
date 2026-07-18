@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Arrigal
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Arrigal
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Arrigal
+status: WIP
 ---
 # Arrigal
 *Source: Curse of Strahd p. 121*  

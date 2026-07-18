@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dispel Magic
+Status: WIP
 linter-yaml-title-alias: Dispel Magic
 classes:
   - Artificer

@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Clangeddin Silverbeard
+Status: WIP
 linter-yaml-title-alias: Clangeddin Silverbeard
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:
-  - "Clangeddin Silverbeard"
+  - Clangeddin Silverbeard
   - Clangeddin Silverbeard
 ---
 # Clangeddin Silverbeard

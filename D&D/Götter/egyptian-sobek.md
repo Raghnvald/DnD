@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Sobek
+Status: WIP
 linter-yaml-title-alias: Sobek
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

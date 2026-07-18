@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Obo'laka"
+Status: WIP
 linter-yaml-title-alias: "Obo'laka"
 tags:
   - Kompendium/Belohnung/inhabitation
   - Quelle/5e/toa
 aliases:
   - "Obo'laka"
-  - Obo'laka
 ---
 # Obo'laka
 *Inhabitation*  

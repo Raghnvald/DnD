@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blue Dragon
+Status: WIP
 linter-yaml-title-alias: Blue Dragon
 tags:
   - Monster/legendary-group

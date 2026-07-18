@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silk
+Status: WIP
 linter-yaml-title-alias: Silk
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

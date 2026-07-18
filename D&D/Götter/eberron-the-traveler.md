@@ -1,9 +1,10 @@
 ---
 Bezeichnung: The Traveler
+Status: WIP
 linter-yaml-title-alias: The Traveler
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

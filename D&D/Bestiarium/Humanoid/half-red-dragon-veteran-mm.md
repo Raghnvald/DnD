@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Half-Red Dragon Veteran
+Status: WIP
 linter-yaml-title-alias: Half-Red Dragon Veteran
 tags:
   - Monster/Größe/Mittelgroß

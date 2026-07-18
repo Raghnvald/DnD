@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Summon Undead
+Status: WIP
 linter-yaml-title-alias: Summon Undead
 classes:
   - Bard

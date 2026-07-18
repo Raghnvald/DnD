@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Harkon's Bite"
+Status: WIP
 linter-yaml-title-alias: "Harkon's Bite"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/vrgr
 aliases:

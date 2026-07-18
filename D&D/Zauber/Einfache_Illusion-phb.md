@@ -6,7 +6,8 @@ Reichweite: 9 Meter
 Komponenten: G, M
 Wirkungsdauer: 1 Minute
 Angriff: INT
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Einfache Illusion
 classes:
   - Bard (Magical Secrets)
@@ -23,7 +24,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subklasse/school-of-illusion

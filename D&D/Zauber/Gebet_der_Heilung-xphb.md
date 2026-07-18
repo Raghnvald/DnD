@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Prayer of Healing
+Status: WIP
 linter-yaml-title-alias: Prayer of Healing
 classes:
   - Bard

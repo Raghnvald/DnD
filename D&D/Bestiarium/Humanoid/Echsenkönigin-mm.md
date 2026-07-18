@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizard Queen
+Status: WIP
 linter-yaml-title-alias: Lizard Queen
 tags:
   - Monster/Größe/Mittelgroß

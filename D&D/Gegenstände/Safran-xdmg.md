@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Saffron
+Status: WIP
 linter-yaml-title-alias: Saffron
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bonnie
+Status: WIP
 linter-yaml-title-alias: Bonnie
 tags:
   - Monster/Größe/Mittelgroß

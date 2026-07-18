@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Diadem des Versengens
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Diadem des Versengens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cruel
+Status: WIP
 linter-yaml-title-alias: Cruel
 tags:
   - Kompendium/Talent

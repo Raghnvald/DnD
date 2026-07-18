@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Laduguer
+Status: WIP
 linter-yaml-title-alias: Laduguer
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:

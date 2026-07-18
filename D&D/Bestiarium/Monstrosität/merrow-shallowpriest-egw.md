@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merrow Shallowpriest
+Status: WIP
 linter-yaml-title-alias: Merrow Shallowpriest
 tags:
   - Monster/Größe/Groß

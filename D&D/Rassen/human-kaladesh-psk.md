@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Human (Kaladesh)
+Status: WIP
 linter-yaml-title-alias: Human (Kaladesh)
 tags:
   - Quelle/5e/psk
   - Rasse/human/kaladesh
 aliases:
-  - "Human (Kaladesh)"
+  - Human (Kaladesh)
   - Human (Kaladesh)
 ---
 # Human (Kaladesh)

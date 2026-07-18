@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fine Clothes
+Status: WIP
 linter-yaml-title-alias: Fine Clothes
 tags:
   - Gegenstand/Ausrüstung/

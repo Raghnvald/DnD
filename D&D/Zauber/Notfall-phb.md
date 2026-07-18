@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Contingency
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Contingency
 classes:
   - Bard (Magical Secrets)

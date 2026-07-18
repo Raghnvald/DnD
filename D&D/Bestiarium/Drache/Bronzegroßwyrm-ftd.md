@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 28
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Bronze Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Bronze Greatwyrm
+status: WIP
 ---
 # [Bronze Greatwyrm](3-Mechanics\CLI\bestiary\dragon/bronze-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Outlands Envoy
+Status: WIP
 linter-yaml-title-alias: Spells for Outlands Envoy
 tags:
-  - ttrpg-cli/spell/list/feat/outlands-envoy
+  - Zauber/Liste/feat/outlands-envoy
 aliases:
-  - "Spells for Outlands Envoy"
+  - Spells for Outlands Envoy
   - Spells for Outlands Envoy
 ---
 # Spells for Outlands Envoy

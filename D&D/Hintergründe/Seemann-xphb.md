@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seemann
+Status: WIP
 linter-yaml-title-alias: Seemann
 tags:
   - Kompendium/Hintergrund

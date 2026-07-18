@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bandit
+Status: WIP
 linter-yaml-title-alias: Bandit
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

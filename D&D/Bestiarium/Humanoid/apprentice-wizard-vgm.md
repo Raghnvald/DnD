@@ -5,7 +5,7 @@ Bezeichnung: Apprentice Wizard
 Kategorie: Humanoid (jede Rasse)
 Größe: Mittelgroß
 HG: 1/4
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Apprentice Wizard
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Apprentice Wizard
+status: WIP
 ---
 # [Apprentice Wizard](3-Mechanics\CLI\bestiary\humanoid/apprentice-wizard-vgm.md)
 *Source: Volo's Guide to Monsters p. 209, Tomb of Annihilation, Dragon of Icespire Peak, Storm Lord's Wrath, Eberron: Rising from the Last War*  

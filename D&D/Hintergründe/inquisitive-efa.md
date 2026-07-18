@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Inquisitive
+Status: WIP
 linter-yaml-title-alias: Inquisitive
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "Inquisitive"
+  - Inquisitive
   - Inquisitive
 ---
 # Inquisitive

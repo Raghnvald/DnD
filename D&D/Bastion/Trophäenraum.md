@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trophy Room
+Status: WIP
 linter-yaml-title-alias: Trophy Room
 tags:
   - Kompendium/Bastion

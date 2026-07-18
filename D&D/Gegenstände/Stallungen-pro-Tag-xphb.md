@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Stabling (per day)
+Status: WIP
 linter-yaml-title-alias: Stabling (per day)
 tags:
-  - Gegenstand/Ausrüstung/tack-and-harness
+  - Gegenstand/Ausrüstung/Zaumzeug-und-Harnisch
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Kugel des Dröhnens
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Kugel des Dröhnens
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

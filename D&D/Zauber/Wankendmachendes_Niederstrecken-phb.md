@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wankendmachendes Niederstrecken
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Wankendmachendes Niederstrecken
 classes:
   - Bard (Magical Secrets)

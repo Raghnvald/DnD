@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Acheron Blade
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Eigenschaften:
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Acheron Blade
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -17,6 +21,8 @@ aliases:
   - Acheron Blade Rapier
   - Acheron Blade Scimitar
   - Acheron Blade Shortsword
+status: WIP
+Original: Acheron Blade
 ---
 # Acheron Blade
 *Rare (requires attunement)*  

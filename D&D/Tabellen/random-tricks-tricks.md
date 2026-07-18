@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Tricks; Tricks
+Status: WIP
 linter-yaml-title-alias: Random Tricks; Tricks
 tags:
   - Quelle/5e/dmg

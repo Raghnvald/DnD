@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Story Deck
+Status: WIP
 linter-yaml-title-alias: Story Deck
 tags:
   - Quelle/5e/dmtcrg
 aliases:
-  - "Story Deck"
+  - Story Deck
   - Story Deck
 ---
 # Story Deck

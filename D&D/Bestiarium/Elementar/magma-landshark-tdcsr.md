@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Magma Landshark
+Status: WIP
 linter-yaml-title-alias: Magma Landshark
 tags:
   - Monster/Größe/Riesig

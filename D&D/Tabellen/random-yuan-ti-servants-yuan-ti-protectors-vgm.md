@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Yuan-ti Servants; Yuan-ti Protectors
+Status: WIP
 linter-yaml-title-alias: Random Yuan-ti Servants; Yuan-ti Protectors
 tags:
   - Quelle/5e/vgm

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Armor of Vulnerability (Slashing)
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Armor of Vulnerability (Slashing)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

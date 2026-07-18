@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizard
+Status: WIP
 linter-yaml-title-alias: Lizard
 tags:
   - Monster/Größe/Winzig

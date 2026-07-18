@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Ephara
+Status: WIP
 linter-yaml-title-alias: Ephara
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Ephara"
+  - Ephara
   - Ephara
 ---
 # Ephara

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hill Encounters (Levels 11—16)
+Status: WIP
 linter-yaml-title-alias: Hill Encounters (Levels 11—16)
 tags:
   - Quelle/5e/xge

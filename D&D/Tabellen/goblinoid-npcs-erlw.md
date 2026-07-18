@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goblinoid NPCs
+Status: WIP
 linter-yaml-title-alias: Goblinoid NPCs
 tags:
   - Quelle/5e/erlw

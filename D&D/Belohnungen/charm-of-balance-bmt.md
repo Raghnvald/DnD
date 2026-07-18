@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Balance
+Status: WIP
 linter-yaml-title-alias: Charm of Balance
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of Balance

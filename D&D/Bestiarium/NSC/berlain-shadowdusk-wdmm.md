@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Berlain Shadowdusk
+Status: WIP
 linter-yaml-title-alias: Berlain Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß

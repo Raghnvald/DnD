@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Monsters"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Monsters"
 tags:
   - Quelle/5e/ai

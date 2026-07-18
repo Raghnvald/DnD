@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scion of Surtur
+Status: WIP
 linter-yaml-title-alias: Scion of Surtur
 tags:
   - Monster/legendary-group

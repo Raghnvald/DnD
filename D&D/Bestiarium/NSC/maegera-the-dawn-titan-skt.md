@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maegera the Dawn Titan
+Status: WIP
 linter-yaml-title-alias: Maegera the Dawn Titan
 tags:
   - Monster/Größe/Gigantisch

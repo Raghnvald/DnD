@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Arrows (20)
+Status: WIP
 linter-yaml-title-alias: Arrows (20)
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

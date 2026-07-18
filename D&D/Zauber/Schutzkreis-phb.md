@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Magic Circle
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Magic Circle
 classes:
   - Bard (Magical Secrets)

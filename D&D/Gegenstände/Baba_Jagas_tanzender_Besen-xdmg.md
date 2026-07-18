@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Baba Yaga's Dancing Broom"
+Status: WIP
 linter-yaml-title-alias: "Baba Yaga's Dancing Broom"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

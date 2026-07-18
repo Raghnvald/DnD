@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kapitelüberschrift
+Status: WIP
 linter-yaml-title-alias: Kapitelüberschrift
 aliases:
   - Kapitelüberschrift

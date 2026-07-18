@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spirit Tales
+Status: WIP
 linter-yaml-title-alias: Spirit Tales
 tags:
   - Quelle/5e/vrgr

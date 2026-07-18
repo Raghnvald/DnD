@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Veteran
+Status: WIP
 linter-yaml-title-alias: Veteran
 tags:
   - Monster/Größe/Mittelgroß

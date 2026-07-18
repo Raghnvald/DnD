@@ -2,14 +2,15 @@
 Bezeichnung: Orb of Shielding (Shavarran Chert)
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Orb of Shielding (Shavarran Chert)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/erlw
@@ -17,6 +18,7 @@ aliases:
   - Orb of Shielding (Shavarran Chert)
   - Shavarran Chert Crystal
   - Shavarran Chert Orb
+status: WIP
 ---
 # Orb of Shielding (Shavarran Chert)
 *Wondrous item, common (requires attunement)*  

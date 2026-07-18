@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duke Zalto
+Status: WIP
 linter-yaml-title-alias: Duke Zalto
 tags:
   - Monster/Größe/Riesig

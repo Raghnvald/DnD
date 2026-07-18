@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Elf (Drow)
+Status: WIP
 linter-yaml-title-alias: Spells for Elf (Drow)
 tags:
-  - Zauber/list/subrace/elf-drow
+  - Zauber/Liste/subrace/elf-drow
 aliases:
   - Spells for Elf (Drow)
 ---

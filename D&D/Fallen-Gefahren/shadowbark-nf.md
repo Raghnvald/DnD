@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Shadowbark
+Status: WIP
 linter-yaml-title-alias: Shadowbark
 tags:
   - Quelle/5e/nf
 aliases:
-  - "Shadowbark"
+  - Shadowbark
   - Shadowbark
 ---
 # Shadowbark

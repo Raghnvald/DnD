@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resistances
+Status: WIP
 linter-yaml-title-alias: Resistances
 tags:
   - Quelle/5e/mm

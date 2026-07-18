@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maddening Hex
+Status: WIP
 linter-yaml-title-alias: Maddening Hex
 tags:
   - Kompendium/Optionales/ei

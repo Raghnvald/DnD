@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Schwer gepanzert
-linter-yaml-title-alias: Heavily Armored
+Status: WIP
+linter-yaml-title-alias: Schwer gepanzert
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Heavily Armored
+  - Schwer gepanzert
 ---
 # Schwer gepanzert
 *Source: Player's Handbook p. 167*  

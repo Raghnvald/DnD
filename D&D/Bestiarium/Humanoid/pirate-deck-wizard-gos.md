@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pirate Deck Wizard
+Status: WIP
 linter-yaml-title-alias: Pirate Deck Wizard
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Bronze Dragon; Bronze Dragon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Creating a Bronze Dragon; Bronze Dragon Personality Traits
 tags:
   - Quelle/5e/ftd

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Ox
+Status: WIP
 linter-yaml-title-alias: Giant Ox
 tags:
   - Monster/Größe/Riesig

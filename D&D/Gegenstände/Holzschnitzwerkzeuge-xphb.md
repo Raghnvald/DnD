@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Woodcarver's Tools"
+Status: WIP
 linter-yaml-title-alias: "Woodcarver's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - "Woodcarver's Tools"
-  - Woodcarver's Tools
 ---
 # Woodcarver's Tools
 *Artisan's tools*  

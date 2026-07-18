@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rüstung und Schilde; Rüstungen an- und ablegen
+Status: WIP
 linter-yaml-title-alias: Rüstung und Schilde; Rüstungen an- und ablegen
 tags:
   - Quelle/5e/phb

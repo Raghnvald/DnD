@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Goodberry
+Status: WIP
 linter-yaml-title-alias: Goodberry
 classes:
   - Bard
@@ -11,7 +12,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Waldläufer
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/xphb
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Undead)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Undead)
 tags:
   - Gegenstand/Seltenheit/selten

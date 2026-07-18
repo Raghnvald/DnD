@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gespiegelter Zauber
+Status: WIP
 linter-yaml-title-alias: Gespiegelter Zauber
 tags:
   - Kompendium/Optionales/Metamagie

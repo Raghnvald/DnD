@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Poster Map
+Status: WIP
 linter-yaml-title-alias: Poster Map
 tags:
   - Quelle/5e/aag
 aliases:
-  - "Poster Map"
+  - Poster Map
   - Poster Map
 ---
 # Poster Map

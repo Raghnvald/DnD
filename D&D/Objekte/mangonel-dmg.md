@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Mangonel
+Status: WIP
 linter-yaml-title-alias: Mangonel
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/dmg
 aliases:
   - Mangonel

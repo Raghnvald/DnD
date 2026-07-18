@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lady Lydia Petrovna
+Status: WIP
 linter-yaml-title-alias: Lady Lydia Petrovna
 tags:
   - Monster/Größe/Mittelgroß

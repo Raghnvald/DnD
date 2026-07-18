@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vital Sacrifice
+Status: WIP
 linter-yaml-title-alias: Vital Sacrifice
 tags:
   - Kompendium/Talent

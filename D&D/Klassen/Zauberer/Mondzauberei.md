@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mondzauberei
+Status: WIP
 tags:
   - Klasse/Zauberer
   - Quelle/5e/dsotdq

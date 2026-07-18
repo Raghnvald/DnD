@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Meister der mittelschweren Rüstungen 
-linter-yaml-title-alias: Medium Armor Master
+Bezeichnung: Meister der mittelschweren Rüstungen
+Status: WIP
+linter-yaml-title-alias: Meister der mittelschweren Rüstungen
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Medium Armor Master
+  - Meister der mittelschweren Rüstungen
 ---
 # Meister der mittelschweren Rüstungen
 *Source: Player's Handbook p. 168*  

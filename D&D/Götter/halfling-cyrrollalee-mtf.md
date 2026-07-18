@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Cyrrollalee
+Status: WIP
 linter-yaml-title-alias: Cyrrollalee
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Frieden
   - Kompendium/Götter/halfling
   - Quelle/5e/mtf
 aliases:

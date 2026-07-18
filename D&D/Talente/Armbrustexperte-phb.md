@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armbrustexperte
+Status: WIP
 linter-yaml-title-alias: Armbrustexperte
 tags:
   - Kompendium/Talent

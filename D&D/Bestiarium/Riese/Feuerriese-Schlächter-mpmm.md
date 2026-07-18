@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fire Giant Dreadnought
+Status: WIP
 linter-yaml-title-alias: Fire Giant Dreadnought
 tags:
   - Monster/Größe/Riesig

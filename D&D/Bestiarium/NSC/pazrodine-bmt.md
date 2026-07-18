@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pazrodine
+Status: WIP
 linter-yaml-title-alias: Pazrodine
 tags:
   - Monster/Größe/Gigantisch

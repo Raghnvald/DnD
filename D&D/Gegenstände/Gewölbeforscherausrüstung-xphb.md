@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Dungeoneer's Pack"
+Status: WIP
 linter-yaml-title-alias: "Dungeoneer's Pack"
 tags:
   - Gegenstand/Ausrüstung/

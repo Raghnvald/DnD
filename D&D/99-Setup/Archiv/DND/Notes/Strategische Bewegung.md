@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Strategische Bewegung
+Status: WIP
 ---
 # Strategische Bewegung
 

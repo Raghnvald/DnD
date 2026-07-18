@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Abracadabrus
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Abracadabrus
 tags:
   - Gegenstand/Seltenheit/sehr_selten

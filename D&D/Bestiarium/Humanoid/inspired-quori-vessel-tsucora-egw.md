@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Inspired (Quori Vessel; Tsucora)
+Status: WIP
 linter-yaml-title-alias: Inspired (Quori Vessel; Tsucora)
 tags:
   - Monster/Größe/Mittelgroß

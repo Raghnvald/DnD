@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Alchemy Jug (Orange)
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Alchemy Jug (Orange)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

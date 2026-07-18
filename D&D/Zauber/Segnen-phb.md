@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Bless
+Bezeichnung: Segnen
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Bless
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Segnen
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -16,16 +17,16 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Bless
+  - Segnen
 ---
-# Bless
+# Segnen
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 Action

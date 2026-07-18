@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mastermind
+Status: WIP
 linter-yaml-title-alias: Mastermind
 tags:
   - Klasse/Schurke/mastermind

@@ -3,12 +3,13 @@ Bezeichnung: Mizzium Armor
 Kategorie: Rüstung
 Rüstung: Mittel oder Schwer
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: /
 RK: /
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Mizzium Armor
 tags:
   - Gegenstand/Rüstung/Mittel
@@ -27,6 +28,7 @@ aliases:
   - Mizzium Scale Mail
   - Mizzium Spiked Armor
   - Mizzium Splint Armor
+Original: Mizzium Armor
 ---
 # Mizzium Armor
 *Rare*  

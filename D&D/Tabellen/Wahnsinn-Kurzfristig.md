@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kurzfristiger Wahnsinn
+Status: WIP
 linter-yaml-title-alias: Kurzfristiger Wahnsinn
 tags:
   - Quelle/5e/dmg

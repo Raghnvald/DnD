@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Greek Pantheon; Greek Deities
+Status: WIP
 linter-yaml-title-alias: The Greek Pantheon; Greek Deities
 tags:
   - Quelle/5e/phb

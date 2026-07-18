@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Villains
+Status: WIP
 linter-yaml-title-alias: Azorius Villains
 tags:
   - Quelle/5e/ggr

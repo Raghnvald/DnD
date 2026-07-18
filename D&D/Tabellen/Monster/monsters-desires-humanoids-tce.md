@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Humanoids"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Humanoids"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Humanoids"
-  - Monsters' Desires; Humanoids
 ---
 # Monsters' Desires; Humanoids
 *Source: Tasha's Cauldron of Everything p. 148* 

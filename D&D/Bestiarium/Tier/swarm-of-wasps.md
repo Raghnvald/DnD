@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Wasps
+Status: WIP
 linter-yaml-title-alias: Swarm of Wasps
 tags:
   - Monster/Größe/Mittelgroß

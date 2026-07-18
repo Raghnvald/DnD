@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Variant: Customizing Ability Scores; Ability Scores and Modifiers"
+Status: WIP
 linter-yaml-title-alias: "Variant: Customizing Ability Scores; Ability Scores and Modifiers"
 tags:
   - Quelle/5e/phb

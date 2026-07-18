@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Remnant Chosen
+Status: WIP
 linter-yaml-title-alias: Remnant Chosen
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,12 +2,14 @@
 Bezeichnung: Anhänger des Giftschutzes
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Anhänger des Giftschutzes
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/xdmg

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix C: Sidekicks"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Sidekicks"
 tags:
   - Quelle/5e/dsotdq
 aliases:
   - "Appendix C: Sidekicks"
-  - Appendix C: Sidekicks
 ---
 # Appendix C: Sidekicks
 *Source: Dragonlance: Shadow of the Dragon Queen, p. 210* 

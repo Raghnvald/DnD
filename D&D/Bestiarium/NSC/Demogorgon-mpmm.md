@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Demogorgon
+Status: WIP
 linter-yaml-title-alias: Demogorgon
 tags:
   - Monster/Größe/Riesig

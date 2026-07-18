@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bestow Curse
+Status: WIP
 linter-yaml-title-alias: Bestow Curse
 classes:
   - Bard

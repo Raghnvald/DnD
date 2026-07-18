@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Isendraug
+Status: WIP
 linter-yaml-title-alias: Isendraug
 tags:
   - Monster/Größe/Riesig

@@ -2,10 +2,10 @@
 Bezeichnung: Feiner Wein (Flasche)
 Kategorie: Essen und Trinken
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Feiner Wein (Flasche)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

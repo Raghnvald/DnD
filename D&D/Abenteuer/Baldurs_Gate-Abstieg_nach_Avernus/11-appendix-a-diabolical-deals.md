@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Diabolical Deals"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Diabolical Deals"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Appendix A: Diabolical Deals"
-  - Appendix A: Diabolical Deals
 ---
 # Appendix A: Diabolical Deals
 *Source: Baldur's Gate: Descent Into Avernus, p. 212* 

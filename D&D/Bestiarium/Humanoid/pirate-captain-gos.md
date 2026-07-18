@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pirate Captain
+Status: WIP
 linter-yaml-title-alias: Pirate Captain
 tags:
   - Monster/Größe/Mittelgroß

@@ -3,15 +3,17 @@ Bezeichnung: Rüstung der Verwundbarkeit (Wucht)
 Kategorie: Rüstung
 Rüstung: Schwer
 Eigenschaften:
-  - erfordert Einstimmung
+  - Verflucht
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 32,5 kg
 RK: 18
 STR: 15
 Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Rüstung der Verwundbarkeit (Wucht)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/dmg

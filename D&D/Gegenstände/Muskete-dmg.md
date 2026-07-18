@@ -1,7 +1,8 @@
 ---
-Bezeichnung: Musket
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Musket
+Bezeichnung: Muskete
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Muskete
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
@@ -9,9 +10,11 @@ tags:
   - Gegenstand/Zeitalter/Renaissance
   - Quelle/5e/dmg
 aliases:
-  - Musket
+  - Muskete
+status: WIP
+Original: Musket
 ---
-# Musket
+# Muskete
 *Weapon*  
 
 - **Damage**: 1d12 piercing

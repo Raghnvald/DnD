@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tsunami
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Tsunami
 classes:
   - Bard (Magical Secrets)

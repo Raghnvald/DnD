@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Kapitel 3: Die letzte Reise des Züngelzenit"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 3: Die letzte Reise des Züngelzenit"
 tags:
   - Quelle/5e/veor

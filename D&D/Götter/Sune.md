@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sune, Göttin der Liebe und Schönheit
+Status: WIP
 linter-yaml-title-alias: Sune, Göttin der Liebe und Schönheit
 tags:
   - Kompendium/Götter

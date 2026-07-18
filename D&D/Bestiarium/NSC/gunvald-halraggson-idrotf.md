@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gunvald Halraggson
+Status: WIP
 linter-yaml-title-alias: Gunvald Halraggson
 tags:
   - Monster/Größe/Mittelgroß

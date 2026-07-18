@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Random Buildings; Shop
+Status: WIP
 linter-yaml-title-alias: Random Buildings; Shop
 tags:
   - Quelle/5e/dmg

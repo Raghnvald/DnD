@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lizardfolk Render
+Status: WIP
 linter-yaml-title-alias: Lizardfolk Render
 tags:
   - Monster/Größe/Groß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Hexer
+Status: WIP
 linter-yaml-title-alias: Goblin Hexer
 tags:
   - Monster/Größe/Klein

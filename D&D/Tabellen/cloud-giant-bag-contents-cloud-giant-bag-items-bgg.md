@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloud Giant Bag Contents; Cloud Giant Bag Items
+Status: WIP
 linter-yaml-title-alias: Cloud Giant Bag Contents; Cloud Giant Bag Items
 tags:
   - Quelle/5e/bgg

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Superior Healing
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Superior Healing
 tags:
   - Gegenstand/Seltenheit/selten

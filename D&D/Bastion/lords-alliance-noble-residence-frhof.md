@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Lords' Alliance Noble Residence"
+Status: WIP
 linter-yaml-title-alias: "Lords' Alliance Noble Residence"
 tags:
   - Kompendium/Bastion

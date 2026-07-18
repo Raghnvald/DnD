@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bewitching Whispers
+Status: WIP
 linter-yaml-title-alias: Bewitching Whispers
 tags:
   - Kompendium/Optionales/ei

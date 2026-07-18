@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spire of Conflux (Awakened)
+Status: WIP
 linter-yaml-title-alias: Spire of Conflux (Awakened)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

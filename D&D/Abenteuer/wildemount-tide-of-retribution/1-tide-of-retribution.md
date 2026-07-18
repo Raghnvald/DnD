@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Tide of Retribution
+Status: WIP
 linter-yaml-title-alias: Tide of Retribution
 tags:
   - Quelle/5e/tor
 aliases:
-  - "Tide of Retribution"
+  - Tide of Retribution
   - Tide of Retribution
 ---
 # Tide of Retribution

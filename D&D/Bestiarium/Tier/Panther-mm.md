@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Panther
+Status: WIP
 linter-yaml-title-alias: Panther
 tags:
   - Monster/Größe/Mittelgroß

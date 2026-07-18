@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ott Steeltoes
+Status: WIP
 linter-yaml-title-alias: Ott Steeltoes
 tags:
   - Monster/Größe/Mittelgroß

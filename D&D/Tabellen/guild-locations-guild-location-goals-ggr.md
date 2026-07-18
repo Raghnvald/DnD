@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Locations; Guild Location Goals
+Status: WIP
 linter-yaml-title-alias: Guild Locations; Guild Location Goals
 tags:
   - Quelle/5e/ggr

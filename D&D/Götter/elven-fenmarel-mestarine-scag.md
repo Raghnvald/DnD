@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Fenmarel Mestarine
+Status: WIP
 linter-yaml-title-alias: Fenmarel Mestarine
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/elven
   - Quelle/5e/scag
 aliases:
-  - "Fenmarel Mestarine"
+  - Fenmarel Mestarine
   - Fenmarel Mestarine
 ---
 # Fenmarel Mestarine

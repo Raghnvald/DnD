@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Tierform
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Tierform
 classes:
   - Bard (Magical Secrets)

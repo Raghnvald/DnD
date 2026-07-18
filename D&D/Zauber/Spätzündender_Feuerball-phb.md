@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Delayed Blast Fireball
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Delayed Blast Fireball
 classes:
   - Bard (Magical Secrets)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Helm of Awareness
+Status: WIP
 linter-yaml-title-alias: Helm of Awareness
 tags:
   - Kompendium/Optionales/ai

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Official Status; State Status
+Status: WIP
 linter-yaml-title-alias: Official Status; State Status
 tags:
   - Quelle/5e/erlw

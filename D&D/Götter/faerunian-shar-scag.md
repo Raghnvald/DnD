@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Shar
+Status: WIP
 linter-yaml-title-alias: Shar
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Our Lady of Loss

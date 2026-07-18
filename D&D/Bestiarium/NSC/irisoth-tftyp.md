@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Irisoth
+Status: WIP
 linter-yaml-title-alias: Irisoth
 tags:
   - Monster/Größe/Mittelgroß

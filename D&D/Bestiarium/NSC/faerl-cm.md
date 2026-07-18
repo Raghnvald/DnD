@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Faerl
+Status: WIP
 linter-yaml-title-alias: Faerl
 tags:
   - Monster/Größe/Mittelgroß

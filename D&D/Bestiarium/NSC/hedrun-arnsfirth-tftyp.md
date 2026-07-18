@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hedrun Arnsfirth
+Status: WIP
 linter-yaml-title-alias: Hedrun Arnsfirth
 tags:
   - Monster/Größe/Mittelgroß

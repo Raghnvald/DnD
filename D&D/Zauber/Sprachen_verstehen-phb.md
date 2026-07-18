@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Comprehend Languages
+Bezeichnung: Sprachen verstehen
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G, M
+Wirkungsdauer: 1 Stunde
 Angriff:
 Schaden:
-linter-yaml-title-alias: Comprehend Languages
+Status: WIP
+linter-yaml-title-alias: Sprachen verstehen
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -21,8 +22,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/ritual-caster/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Ritualwirker/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
@@ -30,9 +31,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Comprehend Languages
+  - Sprachen verstehen
 ---
-# Comprehend Languages
+# Sprachen verstehen
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

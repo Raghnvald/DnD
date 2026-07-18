@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gargoyle
+Status: WIP
 linter-yaml-title-alias: Gargoyle
 tags:
   - Monster/Größe/Mittelgroß

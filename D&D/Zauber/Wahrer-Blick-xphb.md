@@ -1,5 +1,6 @@
 ---
 Bezeichnung: True Seeing
+Status: WIP
 linter-yaml-title-alias: True Seeing
 classes:
   - Bard

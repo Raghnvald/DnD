@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Sidekicks"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Sidekicks"
 tags:
   - Quelle/5e/dc

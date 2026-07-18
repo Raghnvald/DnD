@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "A Dragon's Curse; Hoard Curse Effects"
+Status: WIP
 linter-yaml-title-alias: "A Dragon's Curse; Hoard Curse Effects"
 tags:
   - Quelle/5e/ftd
 aliases:
   - "A Dragon's Curse; Hoard Curse Effects"
-  - A Dragon's Curse; Hoard Curse Effects
 ---
 # A Dragon's Curse; Hoard Curse Effects
 *Source: Fizban's Treasury of Dragons p. 68* 

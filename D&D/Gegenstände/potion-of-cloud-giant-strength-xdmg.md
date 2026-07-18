@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Cloud Giant Strength
+Status: WIP
 linter-yaml-title-alias: Potion of Cloud Giant Strength
 tags:
   - Gegenstand/Seltenheit/sehr_selten

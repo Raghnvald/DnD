@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Infiltrator's Key (Dormant)"
+Status: WIP
 linter-yaml-title-alias: "Infiltrator's Key (Dormant)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:

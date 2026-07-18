@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Isperia
+Status: WIP
 linter-yaml-title-alias: Isperia
 tags:
   - Monster/Größe/Gigantisch

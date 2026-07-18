@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Catapult
+Bezeichnung: Katapult
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
+Komponenten: G
+Wirkungsdauer: Unmittelbar
 Angriff:
 Schaden:
-linter-yaml-title-alias: Catapult
+Status: WIP
+linter-yaml-title-alias: Katapult
 classes:
   - Artificer
   - Bard
@@ -23,16 +24,16 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xge
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
 aliases:
-  - Catapult
+  - Katapult
 ---
-# Catapult
+# Katapult
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 Action

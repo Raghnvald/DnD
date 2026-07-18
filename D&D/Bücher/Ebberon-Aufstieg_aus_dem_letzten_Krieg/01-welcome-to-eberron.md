@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Eberron
+Status: WIP
 linter-yaml-title-alias: Welcome to Eberron
 tags:
   - Quelle/5e/erlw

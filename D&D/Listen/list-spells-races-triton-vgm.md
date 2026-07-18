@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Triton
+Status: WIP
 linter-yaml-title-alias: Spells for Triton
 tags:
-  - Zauber/list/race/triton
+  - Zauber/Liste/race/triton
 aliases:
   - Spells for Triton
 ---

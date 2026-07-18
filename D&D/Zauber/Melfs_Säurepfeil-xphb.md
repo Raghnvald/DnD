@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Melf's Acid Arrow"
+Status: WIP
 linter-yaml-title-alias: "Melf's Acid Arrow"
 classes:
   - Artificer (Alchemist)

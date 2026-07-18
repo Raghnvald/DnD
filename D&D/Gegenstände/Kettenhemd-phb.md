@@ -3,12 +3,13 @@ Bezeichnung: Kettenhemd
 Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
 Gew.: 10,0 kg
 RK: 13 + GES (max +2)
 STR: /
 Heiml.: /
+Status: completed
 linter-yaml-title-alias: Kettenhemd
 tags:
   - Gegenstand/Rüstung/Mittel
@@ -23,7 +24,7 @@ aliases:
 
 - **Rüstungsklasse**: 13 + GES Modifikator (max +2)
 - **Kosten**: 50 GM
-- **Gewicht**: 10,0 kg.
+- **Gewicht**: 10,0 kg
 
 Ein Kettenhemd besteht aus ineinander greifenden Metallringen und wird zwischen Schichten von Kleidung oder Leder getragen. Diese Rüstung bietet einen mäßigen Schutz für den Oberkörper des Trägers und ermöglicht es, das Geräusch der aneinander reibenden Ringe durch äußere Kleidungsschichten zu dämpfen.
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Player Handouts"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Player Handouts"
 tags:
   - Quelle/5e/imr

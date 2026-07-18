@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Brass Dragon
+Status: WIP
 linter-yaml-title-alias: Brass Dragon
 tags:
   - Monster/legendary-group

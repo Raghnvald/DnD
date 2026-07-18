@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Spider
+Status: WIP
 linter-yaml-title-alias: Giant Spider
 tags:
   - Monster/Größe/Groß

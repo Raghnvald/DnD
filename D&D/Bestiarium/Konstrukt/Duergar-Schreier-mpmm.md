@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duergar Screamer
+Status: WIP
 linter-yaml-title-alias: Duergar Screamer
 tags:
   - Monster/Größe/Mittelgroß

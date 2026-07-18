@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hercules
+Status: WIP
 linter-yaml-title-alias: Hercules
 tags:
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

@@ -1,7 +1,9 @@
 ---
-Bezeichnung: "Nathair's Mischief"
+Bezeichnung: Nathairs Niedertracht
 Zaubergrad: 2
-linter-yaml-title-alias: "Nathair's Mischief"
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Nathairs Niedertracht
 classes:
   - Bard
   - Bard (College of Lore)
@@ -22,9 +24,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Illusion
 aliases:
-  - "Nathair's Mischief"
+  - Nathairs Niedertracht
 ---
-# Nathair's Mischief
+# Nathairs Niedertracht
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 Action

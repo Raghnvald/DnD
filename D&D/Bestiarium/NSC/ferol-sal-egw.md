@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ferol Sal
+Status: WIP
 linter-yaml-title-alias: Ferol Sal
 tags:
   - Monster/Größe/Mittelgroß

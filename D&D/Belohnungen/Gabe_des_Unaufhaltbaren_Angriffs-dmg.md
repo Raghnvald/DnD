@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Gabe des Unaufhaltbaren Angriffs "
+Status: WIP
 linter-yaml-title-alias: "Gabe des Unaufhaltbaren Angriffs "
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - "Gabe des Unaufhaltbaren Angriffs "

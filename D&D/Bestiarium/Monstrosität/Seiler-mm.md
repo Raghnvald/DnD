@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Roper
+Status: WIP
 linter-yaml-title-alias: Roper
 tags:
   - Monster/Größe/Groß

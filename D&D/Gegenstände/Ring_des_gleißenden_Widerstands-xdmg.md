@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Radiant Resistance
+Status: WIP
 linter-yaml-title-alias: Ring of Radiant Resistance
 tags:
   - Gegenstand/Seltenheit/selten

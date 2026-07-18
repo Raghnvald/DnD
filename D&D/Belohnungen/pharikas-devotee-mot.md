@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Pharika's Devotee"
+Status: WIP
 linter-yaml-title-alias: "Pharika's Devotee"
 tags:
   - Kompendium/Belohnung/piety-trait

@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Halfling
-linter-yaml-title-alias: Halfling
+Bezeichnung: Halbling
+Status: WIP
+linter-yaml-title-alias: Halbling
 tags:
   - Quelle/5e/phb
   - Rasse/halfling
 aliases:
-  - Halfling
+  - Halbling
 ---
 # Halbling
 *Source: Player's Handbook p. 26. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

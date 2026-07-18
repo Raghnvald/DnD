@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Western Flanaess Locations
+Status: WIP
 linter-yaml-title-alias: Western Flanaess Locations
 tags:
   - Quelle/5e/xdmg

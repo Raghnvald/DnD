@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 5: Wyllowwood"
+Status: WIP
 linter-yaml-title-alias: "Level 5: Wyllowwood"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 5: Wyllowwood"
-  - Level 5: Wyllowwood
 ---
 # Level 5: Wyllowwood
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 69* 

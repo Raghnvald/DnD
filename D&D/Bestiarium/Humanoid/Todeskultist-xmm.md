@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Cultist
+Status: WIP
 linter-yaml-title-alias: Death Cultist
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

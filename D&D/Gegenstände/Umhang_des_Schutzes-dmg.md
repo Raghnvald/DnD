@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Umhang des Schutzes
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Umhang des Schutzes
 tags:
   - Gegenstand/Einstimmung

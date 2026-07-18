@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Backstory; Menagerie Coast Settlements
+Status: WIP
 linter-yaml-title-alias: Backstory; Menagerie Coast Settlements
 tags:
   - Quelle/5e/egw

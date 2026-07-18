@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Kapitel 2: Die drei Magier"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 2: Die drei Magier"
 tags:
   - Quelle/5e/veor
 aliases:
+  - "Chapter 2: The Wizards Three"
   - "Kapitel 2: Die drei Magier"
-  - Chapter 2: The Wizards Three
 ---
 # Kapitel 2: Die drei Magier
 *Quelle: Vecna: Vorabend der Verdammnis* 

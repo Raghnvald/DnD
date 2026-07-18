@@ -7,8 +7,7 @@ Größe: Klein
 HG: 1/2
 Habitat:
   - Stadt
-image: token/goblin.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Goblin
 tags:
   - Monster/Größe/Klein
@@ -21,6 +20,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Goblin
+image: token/goblin.webp
+status: WIP
 ---
 # Goblin
 *Quelle: Monsterhandbuch S. 141. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

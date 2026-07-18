@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Majesto
+Status: WIP
 linter-yaml-title-alias: Majesto
 tags:
   - Monster/Größe/Winzig

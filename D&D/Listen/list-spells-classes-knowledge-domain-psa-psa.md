@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Knowledge Domain (PSA)
+Status: WIP
 linter-yaml-title-alias: Spells for Knowledge Domain (PSA)
 tags:
-  - ttrpg-cli/spell/list/subclass/knowledge-domain-psa
+  - Zauber/Liste/subclass/knowledge-domain-psa
 aliases:
-  - "Spells for Knowledge Domain (PSA)"
+  - Spells for Knowledge Domain (PSA)
   - Spells for Knowledge Domain (PSA)
 ---
 # Spells for Knowledge Domain (PSA)

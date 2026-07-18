@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Dwarf
-linter-yaml-title-alias: Dwarf
+Bezeichnung: Zwerg
+Status: WIP
+linter-yaml-title-alias: Zwerg
 tags:
   - Quelle/5e/phb
   - Rasse/dwarf
 aliases:
-  - Dwarf
+  - Zwerg
 ---
 # Zwerg
 *Source: Player's Handbook p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

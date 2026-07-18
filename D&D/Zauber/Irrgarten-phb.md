@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Maze
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Maze
 classes:
   - Bard (Magical Secrets)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Long-Term Madness
+Status: WIP
 linter-yaml-title-alias: Long-Term Madness
 tags:
   - Quelle/5e/dmg

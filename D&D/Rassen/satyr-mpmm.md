@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Satyr
+Status: WIP
 linter-yaml-title-alias: Satyr
 tags:
   - Quelle/5e/mpmm

@@ -8,7 +8,7 @@ HG: "0"
 Habitat:
   - /
 Image: token/almiraj-toa.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Almiraj
 tags:
   - Monster/Größe/Klein
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Almiraj
+status: WIP
 ---
 # [Almiraj](3-Mechanics\CLI\bestiary\beast/almiraj-toa.md)
 *Source: Tomb of Annihilation p. 211*  

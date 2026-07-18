@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cloak of Billowing
+Status: WIP
 linter-yaml-title-alias: Cloak of Billowing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

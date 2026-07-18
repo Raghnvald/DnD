@@ -2,17 +2,18 @@
 Bezeichnung: Silver-plated steel longsword with jet set in hilt
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 750 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Silver-plated steel longsword with jet set in hilt
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
   - Silver-plated steel longsword with jet set in hilt
+status: WIP
 ---
 # Silver-plated steel longsword with jet set in hilt
 *Treasure (art object)*  

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Plate Armor of Etherealness
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Plate Armor of Etherealness
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg

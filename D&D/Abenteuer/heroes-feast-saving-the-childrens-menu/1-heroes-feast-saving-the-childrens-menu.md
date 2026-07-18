@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Heroes' Feast: Saving the Children's Menu"
+Status: WIP
 linter-yaml-title-alias: "Heroes' Feast: Saving the Children's Menu"
 tags:
   - Quelle/5e/hfstcm

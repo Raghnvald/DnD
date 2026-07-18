@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Champion
+Status: WIP
 linter-yaml-title-alias: Champion
 tags:
   - Klasse/Kämpfer/champion

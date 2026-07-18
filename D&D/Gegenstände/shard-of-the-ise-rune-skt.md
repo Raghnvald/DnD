@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Shard of the Ise Rune
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Shard of the Ise Rune
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam
   - Quelle/5e/skt

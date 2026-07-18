@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Eisenbänder von Bilarro
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Eisenbänder von Bilarro
 tags:
   - Gegenstand/Seltenheit/selten

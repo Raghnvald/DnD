@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Circle
+Status: WIP
 linter-yaml-title-alias: Magic Circle
 classes:
   - Bard

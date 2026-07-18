@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Maps"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Maps"
 tags:
   - Quelle/5e/rtg

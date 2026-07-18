@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cryovain
+Status: WIP
 linter-yaml-title-alias: Cryovain
 tags:
   - Monster/Größe/Riesig

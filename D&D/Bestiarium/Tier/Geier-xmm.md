@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vulture
+Status: WIP
 linter-yaml-title-alias: Vulture
 tags:
   - Monster/Größe/Mittelgroß

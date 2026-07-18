@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Ollamh Harp
+Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Ollamh Harp
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

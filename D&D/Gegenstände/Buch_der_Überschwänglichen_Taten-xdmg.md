@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Book of Exalted Deeds
+Status: WIP
 linter-yaml-title-alias: Book of Exalted Deeds
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/xdmg
 aliases:

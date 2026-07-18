@@ -1,7 +1,14 @@
 ---
-Bezeichnung: Thunderbuss
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Thunderbuss
+Bezeichnung: Donnerbüchse
+Original: Thunderbuss
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Schaden: 1d10 Schall
+Eigenschaften:
+  - n/v
+Kst.: n/v
+Gew.: 1,5 kg
+Status: completed
+linter-yaml-title-alias: Donnerbüchse
 tags:
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Fernkampf
@@ -9,22 +16,22 @@ tags:
   - Gegenstand/Zeitalter/Renaissance
   - Quelle/5e/bgg
 aliases:
-  - Thunderbuss
+  - Donnerbüchse
 ---
-# Thunderbuss
-*Weapon (pistol), very rare*  
-![](/3-Mechanics/CLI/items/img/thunderbuss.webp#right)
+# Donnerbüchse
+*Waffe ([[Pistole-dmg|Pistole]]), sehr selten*
+<img src="thunderbuss.webp" align="right" width="150">
 
-- **Damage**: 1d10 piercing
-- **Range**: 30/90
-- **Weight**: 3.0 lbs.
+- **Schaden**: 1W10 Schall
+- **Reichweite**: 9/27
+- **Gewicht**: 1,5 kg
 
-This magic ranged weapon is a flared pistol with the storm rune engraved along the barrel. You gain a +1 bonus to attack and damage rolls made with it. It requires no ammunition, its damage is thunder instead of piercing, and it doesn't have the loading property.
+Diese magische Fernkampfwaffe ist eine Pistole mit auskragendem Lauf, in den die Sturmrune eingraviert wurde. Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die du mit ihr ausführst. Sie benötigt keine Geschosse, fügt Schall- statt Stichschaden zu und hat keine Nachladeeigenschaft.
 
-## Invoking the Rune
+## Anrufung der Rune
 
-As a bonus action, you can invoke the weapon's rune to launch a ball of energy to a point you can see within 30 feet of yourself. The energy then detonates into a 10-foot-radius sphere of turbulent wind and thunder centered on that point, and each creature in that sphere must make a DC 14 Constitution saving throw. On a failed save, a creature takes `3d6` thunder damage, and it can't take reactions until the end of your next turn. On a successful save, a creature takes half as much damage only.
+Du kannst als Bonusaktion die Rune der Waffe anrufen, um einen Energieball auf einen für dich sichtbaren Punkt abzufeuern, der sich im Abstand von bis zu neun Metern von dir befindet. Der Energieball explodiert als Kugel aus Wind und Donner mit einem Durchmesser von drei Metern, und jede Kreatur in dieser Kugel muss einen `SG-14-Konstitutions-Rettungswurf` ausführen. Scheitert der Wurf, erleidet eine Kreatur `3W6` Schallschaden und kann bis zum Ende deines nächsten Zugs keine Reaktionen unternehmen. Bei einem erfolgreichen Rettungswurf erleidet die Kreatur nur halb so viel Schaden.
 
-Once the rune has been invoked, it can't be invoked again until the next dawn.
+Wurde die Rune angerufen, kann sie erst im nächsten Morgengrauen erneut angerufen werden.
 
-*Source: Bigby Presents: Glory of the Giants p. 116*
+*Quelle: Bigby präsentiert: Ruhm der Riesen S. 112*

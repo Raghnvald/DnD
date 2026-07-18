@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ludmilla Vilisevic
+Status: WIP
 linter-yaml-title-alias: Ludmilla Vilisevic
 tags:
   - Monster/Größe/Mittelgroß

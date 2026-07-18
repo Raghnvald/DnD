@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vertrand Shadowdusk
+Status: WIP
 linter-yaml-title-alias: Vertrand Shadowdusk
 tags:
   - Monster/Größe/Mittelgroß

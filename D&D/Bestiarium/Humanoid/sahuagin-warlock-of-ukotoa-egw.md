@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Sahuagin Warlock of Uk'otoa"
+Status: WIP
 linter-yaml-title-alias: "Sahuagin Warlock of Uk'otoa"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - "Sahuagin Warlock of Uk'otoa"
-  - Sahuagin Warlock of Uk'otoa
 ---
 # [Sahuagin Warlock of Uk'otoa](3-Mechanics\CLI\bestiary\humanoid/sahuagin-warlock-of-ukotoa-egw.md)
 *Source: Explorer's Guide to Wildemount p. 297*  

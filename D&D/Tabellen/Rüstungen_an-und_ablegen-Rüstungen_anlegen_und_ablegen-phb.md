@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rüstungen an- und ablegen; Rüstungen anlegen und ablegen
+Status: WIP
 linter-yaml-title-alias: Rüstungen an- und ablegen; Rüstungen anlegen und ablegen
 tags:
   - Quelle/5e/phb

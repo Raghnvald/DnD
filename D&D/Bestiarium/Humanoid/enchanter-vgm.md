@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Enchanter
+Status: WIP
 linter-yaml-title-alias: Enchanter
 tags:
   - Monster/Größe/Mittelgroß

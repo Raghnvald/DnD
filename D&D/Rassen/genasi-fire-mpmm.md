@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Genasi (Fire)
+Status: WIP
 linter-yaml-title-alias: Genasi (Fire)
 tags:
   - Quelle/5e/mpmm

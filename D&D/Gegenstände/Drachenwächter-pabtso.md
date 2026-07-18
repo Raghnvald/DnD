@@ -3,12 +3,13 @@ Bezeichnung: Drachenwächter
 Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 10,0 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+Status: completed
 linter-yaml-title-alias: Drachenwächter
 tags:
   - Gegenstand/Rüstung/Mittel

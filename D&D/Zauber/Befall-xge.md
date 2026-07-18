@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: KON
 Schaden: 1d6 Gift
+Status: WIP
 linter-yaml-title-alias: Befall
 classes:
   - Bard (College of Lore)
@@ -26,8 +27,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xge
   - Rasse/elf/high-elf
   - Rasse/kobold

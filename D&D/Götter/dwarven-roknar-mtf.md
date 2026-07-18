@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Roknar
+Status: WIP
 linter-yaml-title-alias: Roknar
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

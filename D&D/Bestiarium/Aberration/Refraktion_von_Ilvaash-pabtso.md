@@ -6,7 +6,7 @@ Kategorie: Aberration (Gedankenschinder)
 Größe: Riesig
 HG: 15
 Image: token/refraction-of-ilvaash-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Refraktion von Ilvaash
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Refraction of Ilvaash
   - Refraktion von Ilvaash
+status: WIP
 ---
 # Refraktion von Ilvaash
 *Source: Phandelver and Below: The Shattered Obelisk p. 197*  

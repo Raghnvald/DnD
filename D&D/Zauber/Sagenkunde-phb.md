@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Legend Lore
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Legend Lore
 classes:
   - Bard (Magical Secrets)
@@ -10,7 +11,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Quelle/5e/phb
   - Zauber/Grad/5

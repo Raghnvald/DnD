@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Leira
+Status: WIP
 linter-yaml-title-alias: Leira
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Leira"
-  - "Mistshadow"
-  - "The Lady of Deception"
-  - "The Lady of the Mists"
   - Leira
+  - Leira
+  - Mistshadow
+  - The Lady of Deception
+  - The Lady of the Mists
 ---
 # Leira
 *Source: Forgotten Realms: Heroes of Faerûn p. 112* 

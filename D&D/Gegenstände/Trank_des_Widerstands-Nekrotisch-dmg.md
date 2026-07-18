@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Necrotic Resistance
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Necrotic Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

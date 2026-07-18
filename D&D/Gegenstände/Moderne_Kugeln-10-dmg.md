@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Modern Bullets (10)
+Status: WIP
 linter-yaml-title-alias: Modern Bullets (10)
 tags:
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg

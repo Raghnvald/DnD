@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cape of the Mountebank
+Status: WIP
 linter-yaml-title-alias: Cape of the Mountebank
 tags:
   - Gegenstand/Seltenheit/selten

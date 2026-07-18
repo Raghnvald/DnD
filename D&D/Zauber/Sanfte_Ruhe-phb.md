@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Gentle Repose
+Bezeichnung: Sanfte Ruhe
 Zaubergrad: 2
-linter-yaml-title-alias: Gentle Repose
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Sanfte Ruhe
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -19,9 +21,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Nekromantie
 aliases:
-  - Gentle Repose
+  - Sanfte Ruhe
 ---
-# Gentle Repose
+# Sanfte Ruhe
 *2nd-level, Necromancy (ritual)*  
 
 - **Casting time:** 1 Action unless cast as a ritual

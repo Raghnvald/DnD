@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Propeller Helm
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Propeller Helm
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/wdmm

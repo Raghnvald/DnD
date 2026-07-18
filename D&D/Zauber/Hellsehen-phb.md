@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Clairvoyance
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Clairvoyance
 classes:
   - Bard (Magical Secrets)

@@ -3,17 +3,18 @@ Bezeichnung: Moderne Kugel
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
+Kst.: n/v
 Gew.: 0,05 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Moderne Kugel
 tags:
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Zeitalter/Modern
   - Quelle/5e/dmg
 aliases:
   - Moderne Kugel
+status: WIP
 ---
 # Moderne Kugel
 *Ammunition (firearm)*  

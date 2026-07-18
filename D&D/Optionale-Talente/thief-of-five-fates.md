@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thief of Five Fates
+Status: WIP
 linter-yaml-title-alias: Thief of Five Fates
 tags:
   - Kompendium/Optionales/ei

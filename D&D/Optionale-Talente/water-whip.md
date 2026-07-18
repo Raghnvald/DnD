@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Water Whip
+Status: WIP
 linter-yaml-title-alias: Water Whip
 tags:
   - Kompendium/Optionales/ed

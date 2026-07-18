@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lumalia
+Status: WIP
 linter-yaml-title-alias: Lumalia
 tags:
   - Monster/Größe/Mittelgroß

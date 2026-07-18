@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tree Stride
+Status: WIP
 linter-yaml-title-alias: Tree Stride
 classes:
   - Bard

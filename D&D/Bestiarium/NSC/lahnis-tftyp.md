@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lahnis
+Status: WIP
 linter-yaml-title-alias: Lahnis
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Poisonous Gas
+Status: WIP
 linter-yaml-title-alias: Poisonous Gas
 tags:
   - Quelle/5e/xdmg

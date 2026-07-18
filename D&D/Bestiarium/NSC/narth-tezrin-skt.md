@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Narth Tezrin
+Status: WIP
 linter-yaml-title-alias: Narth Tezrin
 tags:
   - Monster/Größe/Mittelgroß

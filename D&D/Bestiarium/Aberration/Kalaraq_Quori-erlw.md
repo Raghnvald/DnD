@@ -5,7 +5,7 @@ Bezeichnung: Kalaraq Quori
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 19
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Kalaraq Quori
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Kalaraq Quori
+status: WIP
 ---
 # [Kalaraq Quori](3-Mechanics\CLI\bestiary\aberration/kalaraq-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 306*  

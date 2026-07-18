@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enhanced Arcane Focus
+Status: WIP
 linter-yaml-title-alias: Enhanced Arcane Focus
 tags:
   - Kompendium/Optionales/ai

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hadrosaurus
+Status: WIP
 linter-yaml-title-alias: Hadrosaurus
 tags:
   - Monster/Größe/Groß

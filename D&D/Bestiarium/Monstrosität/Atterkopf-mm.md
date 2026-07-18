@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Ettercap
 Kategorie: Monstrosität
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ettercap
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ettercap
+status: WIP
 ---
 # [Ettercap](3-Mechanics\CLI\bestiary\monstrosity/ettercap.md)
 *Source: Monster Manual p. 131. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

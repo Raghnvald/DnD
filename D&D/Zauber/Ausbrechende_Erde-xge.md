@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
 Angriff: GES
 Schaden: 3d12 Wucht
+Status: WIP
 linter-yaml-title-alias: Ausbrechende Erde
 classes:
   - Bard

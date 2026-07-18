@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Elk
+Status: WIP
 linter-yaml-title-alias: Giant Elk
 tags:
   - Monster/Größe/Riesig

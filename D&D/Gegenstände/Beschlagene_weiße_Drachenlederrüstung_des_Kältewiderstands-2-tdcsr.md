@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Studded White Dragon Leather Armor of Cold Resistance +2
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Studded White Dragon Leather Armor of Cold Resistance +2
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/tier/major

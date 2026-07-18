@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Puzzle
+Status: WIP
 linter-yaml-title-alias: Charm of the Puzzle
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of the Puzzle

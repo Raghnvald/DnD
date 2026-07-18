@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blink
+Status: WIP
 linter-yaml-title-alias: Blink
 classes:
   - Artificer

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dracolich
+Status: WIP
 linter-yaml-title-alias: Dracolich
 tags:
   - Monster/Größe/Unbekannt

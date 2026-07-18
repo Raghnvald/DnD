@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 05: Dragonmarked Intrigue"
+Status: WIP
 linter-yaml-title-alias: "Chapter 05: Dragonmarked Intrigue"
 tags:
   - Quelle/5e/efa

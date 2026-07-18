@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Harper
+Status: WIP
 linter-yaml-title-alias: Harper
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Harper"
+  - Harper
   - Harper
 ---
 # Harper

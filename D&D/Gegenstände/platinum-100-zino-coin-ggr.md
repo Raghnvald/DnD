@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Platinum 100-Zino Coin
+Status: WIP
 linter-yaml-title-alias: Platinum 100-Zino Coin
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/ggr
 aliases:

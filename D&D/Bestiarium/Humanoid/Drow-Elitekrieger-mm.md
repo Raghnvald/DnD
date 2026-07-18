@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Elite Warrior
+Status: WIP
 linter-yaml-title-alias: Drow Elite Warrior
 tags:
   - Monster/Größe/Mittelgroß

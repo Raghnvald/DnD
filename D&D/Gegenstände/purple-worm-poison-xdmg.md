@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Purple Worm Poison
+Status: WIP
 linter-yaml-title-alias: Purple Worm Poison
 tags:
   - Gegenstand/Ausrüstung/

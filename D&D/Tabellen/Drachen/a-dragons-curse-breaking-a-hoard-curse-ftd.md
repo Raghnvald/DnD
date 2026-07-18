@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "A Dragon's Curse; Breaking a Hoard Curse"
+Status: WIP
 linter-yaml-title-alias: "A Dragon's Curse; Breaking a Hoard Curse"
 tags:
   - Quelle/5e/ftd
 aliases:
   - "A Dragon's Curse; Breaking a Hoard Curse"
-  - A Dragon's Curse; Breaking a Hoard Curse
 ---
 # A Dragon's Curse; Breaking a Hoard Curse
 *Source: Fizban's Treasury of Dragons p. 68* 

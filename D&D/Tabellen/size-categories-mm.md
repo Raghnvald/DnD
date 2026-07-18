@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Size Categories
+Status: WIP
 linter-yaml-title-alias: Size Categories
 tags:
   - Quelle/5e/mm

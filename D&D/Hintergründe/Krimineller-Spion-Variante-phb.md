@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Krimineller (Spion) (Variante)
+Status: WIP
 linter-yaml-title-alias: Krimineller (Spion) (Variante)
 tags:
   - Kompendium/Hintergrund

@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Find Steed
+Bezeichnung: Reittier finden
 Zaubergrad: 2
-linter-yaml-title-alias: Find Steed
+Zeitaufwand: 10 Minuten
+Status: WIP
+linter-yaml-title-alias: Reittier finden
 classes:
   - Bard (Magical Secrets)
   - Paladin
@@ -12,9 +14,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
 aliases:
-  - Find Steed
+  - Reittier finden
 ---
-# Find Steed
+# Reittier finden
 *2nd-level, Conjuration*  
 
 - **Casting time:** 10 minutes

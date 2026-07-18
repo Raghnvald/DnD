@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bezauberung des Heldenmuts
+Status: WIP
 linter-yaml-title-alias: Bezauberung des Heldenmuts
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dmg
 aliases:
   - Bezauberung des Heldenmuts

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Common Wine (bottle)
+Status: WIP
 linter-yaml-title-alias: Common Wine (bottle)
 tags:
   - Gegenstand/Ausrüstung/Essen-und-Trinken

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Trebuchet
+Status: WIP
 linter-yaml-title-alias: Trebuchet
 tags:
-  - Kompendium/Objekt/size/huge
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Riesig
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/xdmg
 aliases:
   - Trebuchet

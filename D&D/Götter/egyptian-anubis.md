@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Anubis
+Status: WIP
 linter-yaml-title-alias: Anubis
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/order
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

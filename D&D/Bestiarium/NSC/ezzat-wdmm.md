@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ezzat
+Status: WIP
 linter-yaml-title-alias: Ezzat
 tags:
   - Monster/Größe/Mittelgroß

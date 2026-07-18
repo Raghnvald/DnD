@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aarakocra
+Status: WIP
 linter-yaml-title-alias: Aarakocra
 tags:
   - Quelle/5e/dmg

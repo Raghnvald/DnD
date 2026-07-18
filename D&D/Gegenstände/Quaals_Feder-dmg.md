@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Quaal's Feather Token"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token"
 tags:
   - Gegenstand/Seltenheit/selten

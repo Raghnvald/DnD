@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Charm of the Heroes' Feast"
+Status: WIP
 linter-yaml-title-alias: "Charm of the Heroes' Feast"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cm
 aliases:
   - "Charm of the Heroes' Feast"

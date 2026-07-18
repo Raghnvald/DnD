@@ -2,7 +2,7 @@
 Bezeichnung: Abakus
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 1,0 kg
 Status: completed
@@ -17,8 +17,8 @@ aliases:
 # Abakus
 *Abenteuerausrüstung*
 
-- **Kosten**: 2 Goldmünzen
-- **Gewicht**: 1,0 kg.
+- **Kosten**: 2 GM
+- **Gewicht**: 1,0 kg
 
 Ein Standardwerkzeug zur Durchführung von Berechnungen.
 

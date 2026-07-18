@@ -7,6 +7,7 @@ Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: KON
 Schaden: 2d6 variabel
+Status: WIP
 linter-yaml-title-alias: Elemental Bane
 classes:
   - Artificer

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Rope of Climbing
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Rope of Climbing
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

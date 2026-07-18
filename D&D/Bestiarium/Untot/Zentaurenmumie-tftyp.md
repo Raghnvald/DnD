@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zentaurenmumie
+Status: WIP
 linter-yaml-title-alias: Zentaurenmumie
 tags:
   - Monster/Größe/Groß

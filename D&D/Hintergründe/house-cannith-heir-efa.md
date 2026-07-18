@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Cannith Heir
+Status: WIP
 linter-yaml-title-alias: House Cannith Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Cannith Heir"
+  - House Cannith Heir
   - House Cannith Heir
 ---
 # House Cannith Heir

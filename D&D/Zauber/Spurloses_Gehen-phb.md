@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Pass without Trace
+Bezeichnung: Spurloses Gehen
 Zaubergrad: 2
-linter-yaml-title-alias: Pass without Trace
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Spurloses Gehen
 classes:
   - Bard (Magical Secrets)
   - Cleric (Trickery Domain)
@@ -20,9 +22,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Bann
 aliases:
-  - Pass without Trace
+  - Spurloses Gehen
 ---
-# Pass without Trace
+# Spurloses Gehen
 *2nd-level, Abjuration*  
 
 - **Casting time:** 1 Action

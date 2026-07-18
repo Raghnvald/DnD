@@ -2,10 +2,10 @@
 Bezeichnung: Weberwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 2,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Weberwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Weberwerkzeuge
+status: WIP
 ---
 # Weberwerkzeuge
 *Handwerkszeug*

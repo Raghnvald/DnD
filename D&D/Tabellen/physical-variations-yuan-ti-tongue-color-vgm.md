@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Yuan-ti Tongue Color
+Status: WIP
 linter-yaml-title-alias: Physical Variations; Yuan-ti Tongue Color
 tags:
   - Quelle/5e/vgm

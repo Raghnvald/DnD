@@ -4,7 +4,7 @@ Eigenschaften:
   - Gift
 Kst.: 150 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: "Assassin's Blood"
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xdmg
 aliases:
   - "Assassin's Blood"
+status: WIP
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  

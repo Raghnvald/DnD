@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Unraveling Magic Effects
+Status: WIP
 linter-yaml-title-alias: Unraveling Magic Effects
 tags:
   - Quelle/5e/tce

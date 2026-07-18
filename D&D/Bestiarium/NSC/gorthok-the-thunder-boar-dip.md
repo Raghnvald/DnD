@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorthok the Thunder Boar
+Status: WIP
 linter-yaml-title-alias: Gorthok the Thunder Boar
 tags:
   - Monster/Größe/Riesig

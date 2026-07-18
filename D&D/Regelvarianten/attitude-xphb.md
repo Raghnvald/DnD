@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Attitude
+Status: WIP
 linter-yaml-title-alias: Attitude
 tags:
   - Quelle/5e/xphb

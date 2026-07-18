@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 4: Building Eberron Adventures"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Building Eberron Adventures"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Chapter 4: Building Eberron Adventures"
-  - Chapter 4: Building Eberron Adventures
 ---
 # Chapter 4: Building Eberron Adventures
 *Source: Eberron: Rising from the Last War, p. 206* 

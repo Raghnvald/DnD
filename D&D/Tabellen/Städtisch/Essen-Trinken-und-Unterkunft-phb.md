@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Essen, Trinken und Unterkunft
+Status: WIP
 linter-yaml-title-alias: Essen, Trinken und Unterkunft
 tags:
   - Quelle/5e/phb

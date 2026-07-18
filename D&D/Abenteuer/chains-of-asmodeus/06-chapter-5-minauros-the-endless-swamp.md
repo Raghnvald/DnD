@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 5: Minauros, the Endless Swamp"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Minauros, the Endless Swamp"
 tags:
   - Quelle/5e/coa

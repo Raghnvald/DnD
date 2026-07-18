@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Initiative Variants
+Status: WIP
 linter-yaml-title-alias: Initiative Variants
 tags:
   - Quelle/5e/dmg

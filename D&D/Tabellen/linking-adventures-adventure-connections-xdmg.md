@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Linking Adventures; Adventure Connections
+Status: WIP
 linter-yaml-title-alias: Linking Adventures; Adventure Connections
 tags:
   - Quelle/5e/xdmg

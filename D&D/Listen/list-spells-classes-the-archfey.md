@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for The Archfey
+Status: WIP
 linter-yaml-title-alias: Spells for The Archfey
 tags:
-  - Zauber/list/subclass/the-archfey
+  - Zauber/Liste/subclass/the-archfey
 aliases:
   - Spells for The Archfey
 ---

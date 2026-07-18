@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Helm of Perfect Potential
+Status: WIP
 linter-yaml-title-alias: Helm of Perfect Potential
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Quelle/5e/bgg
 aliases:

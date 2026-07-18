@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Map or Scroll Case
+Status: WIP
 linter-yaml-title-alias: Map or Scroll Case
 tags:
   - Gegenstand/Ausrüstung/

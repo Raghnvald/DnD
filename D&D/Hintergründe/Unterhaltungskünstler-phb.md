@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Entertainer
+Status: WIP
 linter-yaml-title-alias: Entertainer
 tags:
   - Kompendium/Hintergrund

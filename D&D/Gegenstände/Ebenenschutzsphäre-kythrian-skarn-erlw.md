@@ -2,14 +2,15 @@
 Bezeichnung: Orb of Shielding (Kythrian Skarn)
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Orb of Shielding (Kythrian Skarn)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/erlw
@@ -17,6 +18,7 @@ aliases:
   - Kythrian Skarn Crystal
   - Kythrian Skarn Orb
   - Orb of Shielding (Kythrian Skarn)
+status: WIP
 ---
 # Orb of Shielding (Kythrian Skarn)
 *Wondrous item, common (requires attunement)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Divine Word
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Divine Word
 classes:
   - Bard (Magical Secrets)

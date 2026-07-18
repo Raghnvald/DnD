@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lief Lipsiege
+Status: WIP
 linter-yaml-title-alias: Lief Lipsiege
 tags:
   - Monster/Größe/Mittelgroß

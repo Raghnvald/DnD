@@ -1,8 +1,9 @@
 ---
 Bezeichnung: The Mockery
+Status: WIP
 linter-yaml-title-alias: The Mockery
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

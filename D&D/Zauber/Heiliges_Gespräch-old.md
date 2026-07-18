@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heiliges Gespräch
+Status: WIP
 linter-yaml-title-alias: Heiliges Gespräch
 tags:
   - Klasse/Kleriker

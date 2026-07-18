@@ -1,18 +1,20 @@
 ---
 Bezeichnung: Gewand des Todeswandlers
+Original: "Deathwalker's Ward"
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften:
-  - /
-Einstimmung:
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 6,5 kg
 RK: 12 + GES
-STR: /
+STR: n/v
 Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Gewand des Todeswandlers
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

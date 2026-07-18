@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Snapping Turtle
+Status: WIP
 linter-yaml-title-alias: Giant Snapping Turtle
 tags:
   - Monster/Größe/Groß

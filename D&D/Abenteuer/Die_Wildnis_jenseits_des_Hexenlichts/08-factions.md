@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Factions
+Status: WIP
 linter-yaml-title-alias: Factions
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Factions"
+  - Factions
   - Factions
 ---
 # Factions

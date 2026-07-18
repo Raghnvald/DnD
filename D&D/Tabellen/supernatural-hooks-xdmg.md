@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Supernatural Hooks
+Status: WIP
 linter-yaml-title-alias: Supernatural Hooks
 tags:
   - Quelle/5e/xdmg

@@ -1,9 +1,19 @@
 ---
 Bezeichnung: Fenthras
-Kategorie: Fernkampf-Kriegswaffe
+Original: Fenthras
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Kst.: n/v
+Gew.: n/v
+Status: WIP
+Einstimmung: erforderlich
+Eigenschaften:
+  - Relikt der Divergenz
+  - Geschosse
+  - Schwer
+  - Zweihändig
 linter-yaml-title-alias: Fenthras
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
@@ -12,13 +22,13 @@ aliases:
   - Fenthras
 ---
 # Fenthras
-*Weapon ([longbow](/3-Mechanics/CLI/items/longbow-xphb.md)), legendary (requires attunement)*  
-![A longbow made of wood and...](/3-Mechanics/CLI/items/img/fenthras.webp#right "A longbow made of wood and dark green vines wrapping around it, with intricate elvish designs.")
+*Waffe ([[longbow-xphb]]), legendär (erfordert Einstimmung)*  
+![A longbow made of wood and...](img/fenthras.webp#right "A longbow made of wood and dark green vines wrapping around it, with intricate elvish designs.")
 
-- **Damage**: 1d8 piercing
-- **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d8 Stich
+- **Reichweite**: 45/180
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Geschosse|Geschosse]], [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]], [Vestige of Divergence](/3-Mechanics/CLI/item-properties.md#Vestige%20of%20Divergence)
+- **Gewicht**: 1,0 kg
 
 This gorgeous [longbow](/3-Mechanics/CLI/items/longbow-xphb.md) made of everbark from the Fey Realm flexes and shifts like a living entity. It is said to have been wielded by the legendary ranger [Vex'ahlia](/3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md) against great evils.
 

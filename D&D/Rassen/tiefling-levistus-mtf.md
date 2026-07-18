@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Levistus)
+Status: WIP
 linter-yaml-title-alias: Tiefling (Levistus)
 tags:
   - Quelle/5e/mtf

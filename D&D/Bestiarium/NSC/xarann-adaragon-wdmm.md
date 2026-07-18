@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Xarann A'Daragon"
+Status: WIP
 linter-yaml-title-alias: "Xarann A'Daragon"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - "Xarann A'Daragon"
-  - Xarann A'Daragon
 ---
 # [Xarann A'Daragon](3-Mechanics\CLI\bestiary\npc/xarann-adaragon-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 145*  

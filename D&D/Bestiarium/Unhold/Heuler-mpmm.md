@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Howler
+Status: WIP
 linter-yaml-title-alias: Howler
 tags:
   - Monster/Größe/Groß

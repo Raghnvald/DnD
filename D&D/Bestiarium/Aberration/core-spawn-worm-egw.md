@@ -5,7 +5,7 @@ Bezeichnung: Core Spawn Worm
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 15
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Core Spawn Worm
 tags:
   - Monster/Größe/Gigantisch
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Core Spawn Worm
+status: WIP
 ---
 # [Core Spawn Worm](3-Mechanics\CLI\bestiary\aberration/core-spawn-worm-egw.md)
 *Source: Explorer's Guide to Wildemount p. 287*  

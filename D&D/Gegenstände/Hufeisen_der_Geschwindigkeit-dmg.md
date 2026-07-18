@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horseshoes of Speed
+Status: WIP
 linter-yaml-title-alias: Horseshoes of Speed
 tags:
   - Gegenstand/Seltenheit/selten

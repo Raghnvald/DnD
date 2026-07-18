@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cleansing Stone
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Cleansing Stone
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

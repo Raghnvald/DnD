@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Locate Animals or Plants
+Status: WIP
 linter-yaml-title-alias: Locate Animals or Plants
 classes:
   - Bard

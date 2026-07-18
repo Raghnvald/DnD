@@ -8,7 +8,7 @@ HG: 17
 Habitat:
   - Grasland
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Gold Dragon
 tags:
   - Monster/Größe/Riesig
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Adult Gold Dragon
+status: WIP
 ---
 # Adult Gold Dragon
 *Source: Monster Manual p. 114. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

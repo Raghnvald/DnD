@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magnifying Glass
+Status: WIP
 linter-yaml-title-alias: Magnifying Glass
 tags:
   - Gegenstand/Ausrüstung/

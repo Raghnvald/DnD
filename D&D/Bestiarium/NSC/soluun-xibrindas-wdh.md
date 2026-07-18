@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Soluun Xibrindas
+Status: WIP
 linter-yaml-title-alias: Soluun Xibrindas
 tags:
   - Monster/Größe/Mittelgroß

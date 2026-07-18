@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharpshooter
+Status: WIP
 linter-yaml-title-alias: Sharpshooter
 tags:
   - Kompendium/Talent

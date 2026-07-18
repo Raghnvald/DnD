@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stalker of Baphomet
+Status: WIP
 linter-yaml-title-alias: Stalker of Baphomet
 tags:
   - Monster/Größe/Riesig

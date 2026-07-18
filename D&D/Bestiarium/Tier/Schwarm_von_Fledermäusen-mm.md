@@ -9,8 +9,7 @@ Habitat:
   - Hügel
   - Stadt
   - Unterreich
-image:
-status: completed
+Status: WIP
 linter-yaml-title-alias: Schwarm von Fledermäusen
 tags:
   - Monster/Größe/Mittelgroß
@@ -24,6 +23,8 @@ tags:
 aliases:
   - Schwarm von Fledermäusen
   - Swarm of Bats
+image:
+status: completed
 ---
 # Schwarm von Fledermäusen
 *Quelle: Monsterhandbuch S. 336. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

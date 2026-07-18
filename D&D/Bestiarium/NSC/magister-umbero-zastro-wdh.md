@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Magister Umbero Zastro
+Status: WIP
 linter-yaml-title-alias: Magister Umbero Zastro
 tags:
   - Monster/Größe/Mittelgroß

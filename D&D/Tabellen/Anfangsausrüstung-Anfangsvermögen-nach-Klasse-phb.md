@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Anfangsausrüstung; Anfangsvermögen nach Klasse
+Status: WIP
 linter-yaml-title-alias: Anfangsausrüstung; Anfangsvermögen nach Klasse
 tags:
   - Quelle/5e/phb

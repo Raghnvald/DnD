@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Greatsword
 Kategorie: Nahkampf-Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Greatsword
 tags:
   - Gegenstand/Seltenheit/keine

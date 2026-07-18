@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Marthammor Duin
+Status: WIP
 linter-yaml-title-alias: Marthammor Duin
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/dwarven
   - Quelle/5e/scag
 aliases:
-  - "Marthammor Duin"
+  - Marthammor Duin
   - Marthammor Duin
 ---
 # Marthammor Duin

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jobal
+Status: WIP
 linter-yaml-title-alias: Jobal
 tags:
   - Monster/Größe/Mittelgroß

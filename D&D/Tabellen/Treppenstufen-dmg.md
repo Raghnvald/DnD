@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stairs
+Status: WIP
 linter-yaml-title-alias: Stairs
 tags:
   - Quelle/5e/dmg

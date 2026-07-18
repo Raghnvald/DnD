@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Selûne
+Status: WIP
 linter-yaml-title-alias: Selûne
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/twilight
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Our Lady of Silver

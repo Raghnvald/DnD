@@ -2,10 +2,10 @@
 Bezeichnung: Tragbarer Rammbock
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 4 GM
 Gew.: 17,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Tragbarer Rammbock
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tragbarer Rammbock
+status: WIP
 ---
 # Tragbarer Rammbock
 *Adventuring gear*  

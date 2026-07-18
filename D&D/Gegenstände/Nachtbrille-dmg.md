@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Goggles of Night
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Goggles of Night
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

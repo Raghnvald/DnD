@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarl Grugnur
+Status: WIP
 linter-yaml-title-alias: Jarl Grugnur
 tags:
   - Monster/Größe/Riesig

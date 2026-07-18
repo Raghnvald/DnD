@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Northedge Quarter: Important Districts"
+Status: WIP
 linter-yaml-title-alias: "Northedge Quarter: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Northedge Quarter: Important Districts"
-  - Northedge Quarter: Important Districts
 ---
 # Northedge Quarter: Important Districts
 *Source: Eberron: Rising from the Last War p. 163* 

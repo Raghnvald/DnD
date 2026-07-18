@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Clone
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Clone
 classes:
   - Bard (Magical Secrets)

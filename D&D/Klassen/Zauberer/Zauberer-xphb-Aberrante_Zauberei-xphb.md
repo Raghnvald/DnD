@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aberrant Sorcery
+Status: WIP
 linter-yaml-title-alias: Aberrant Sorcery
 tags:
   - Klasse/Zauberer/aberrant

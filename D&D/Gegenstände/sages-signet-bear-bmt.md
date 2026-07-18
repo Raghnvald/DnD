@@ -2,16 +2,18 @@
 Bezeichnung: "Sage's Signet (Bear)"
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung durch einen Zauberwirker
-status: WIP
+  - n/v 
+Status: WIP
+Einstimmung: durch einen Zauberwirker
 linter-yaml-title-alias: "Sage's Signet (Bear)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/ring
+  - Gegenstand/wundersam/Ring
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Bear)"
+status: WIP
 ---
 # Sage's Signet (Bear)
 *Ring, very rare (requires attunement by a spellcaster)*  

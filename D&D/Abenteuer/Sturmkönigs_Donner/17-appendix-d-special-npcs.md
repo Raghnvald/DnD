@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix D: Special NPCs"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Special NPCs"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Appendix D: Special NPCs"
-  - Appendix D: Special NPCs
 ---
 # Appendix D: Special NPCs
 *Source: Storm King's Thunder, p. 247* 

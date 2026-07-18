@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Treasure Sense
+Status: WIP
 linter-yaml-title-alias: Charm of Treasure Sense
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/toa
 aliases:
   - Charm of Treasure Sense

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phantom Warrior (Archer)
+Status: WIP
 linter-yaml-title-alias: Phantom Warrior (Archer)
 tags:
   - Monster/Größe/Mittelgroß

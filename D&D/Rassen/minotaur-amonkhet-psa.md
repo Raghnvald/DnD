@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Minotaur (Amonkhet)
+Status: WIP
 linter-yaml-title-alias: Minotaur (Amonkhet)
 tags:
   - Quelle/5e/psa
   - Rasse/minotaur/amonkhet
 aliases:
-  - "Minotaur (Amonkhet)"
+  - Minotaur (Amonkhet)
   - Minotaur (Amonkhet)
 ---
 # Minotaur (Amonkhet)

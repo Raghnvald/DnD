@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zirkel des Wildfeuers
+Status: WIP
 linter-yaml-title-alias: Zirkel des Wildfeuers
 tags:
   - Klasse/Druide/wildfire

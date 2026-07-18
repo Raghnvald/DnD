@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Schreckenskrieger
+Status: WIP
 linter-yaml-title-alias: Schreckenskrieger
 tags:
   - Monster/Größe/Mittelgroß

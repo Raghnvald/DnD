@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Menga leaves (1 ounce)
+Status: WIP
 linter-yaml-title-alias: Menga leaves (1 ounce)
 tags:
   - Gegenstand/Ausrüstung/

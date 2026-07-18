@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Rod of Alertness
+Status: WIP
 linter-yaml-title-alias: Rod of Alertness
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg

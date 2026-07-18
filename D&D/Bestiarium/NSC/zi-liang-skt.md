@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zi Liang
+Status: WIP
 linter-yaml-title-alias: Zi Liang
 tags:
   - Monster/Größe/Mittelgroß

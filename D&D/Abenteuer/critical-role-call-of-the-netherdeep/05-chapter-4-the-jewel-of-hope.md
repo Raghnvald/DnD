@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: The Jewel of Hope"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: The Jewel of Hope"
 tags:
   - Quelle/5e/crcotn

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ice Spider Queen
+Status: WIP
 linter-yaml-title-alias: Ice Spider Queen
 tags:
   - Monster/Größe/Groß

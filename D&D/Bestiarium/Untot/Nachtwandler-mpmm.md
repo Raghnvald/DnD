@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nightwalker
+Status: WIP
 linter-yaml-title-alias: Nightwalker
 tags:
   - Monster/Größe/Riesig

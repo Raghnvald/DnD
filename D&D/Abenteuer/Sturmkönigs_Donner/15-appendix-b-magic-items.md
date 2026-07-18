@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Magic Items"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Appendix B: Magic Items"
-  - Appendix B: Magic Items
 ---
 # Appendix B: Magic Items
 *Source: Storm King's Thunder, p. 233* 

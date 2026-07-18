@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Living Bigby's Hand"
+Status: WIP
 linter-yaml-title-alias: "Living Bigby's Hand"
 tags:
   - Monster/Größe/Groß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - "Living Bigby's Hand"
-  - Living Bigby's Hand
 ---
 # [Living Bigby's Hand](3-Mechanics\CLI\bestiary\construct/living-bigbys-hand-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 298*  

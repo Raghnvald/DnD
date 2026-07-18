@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nerozar the Defeated
+Status: WIP
 linter-yaml-title-alias: Nerozar the Defeated
 tags:
   - Monster/Größe/Groß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Egg Hunter Hatchling
+Status: WIP
 linter-yaml-title-alias: Egg Hunter Hatchling
 tags:
   - Monster/Größe/Winzig

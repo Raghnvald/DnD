@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Epilogue
+Status: WIP
 linter-yaml-title-alias: Epilogue
 tags:
   - Quelle/5e/idrotf

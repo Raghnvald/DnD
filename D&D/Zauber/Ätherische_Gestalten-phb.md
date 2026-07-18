@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Ätherische Gestalten
+Original: Etherealness
 Zaubergrad: 7
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Angriff:
+Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G
+Wirkungsdauer: bis zu 8 Stunden
+Angriff: n/v
+Schaden: n/v
+Status: completed
 linter-yaml-title-alias: Ätherische Gestalten
 classes:
   - Bard (Magical Secrets)
@@ -27,7 +30,7 @@ aliases:
   - Etherealness
 ---
 # Ätherische Gestalten
-_Verwandlung des 8. Grades_
+*Verwandlung des 8. Grades*
 
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite / Fläche:** selbst
@@ -35,17 +38,13 @@ _Verwandlung des 8. Grades_
 - **Wirkungsdauer:** bis zu 8 Stunden
 
 Du betrittst den Grenzbereich der Ätherebene, und zwar dort, wo sie sich mit deiner aktuellen Ebene überschneidet. Für die Wirkungsdauer oder bis du eine Aktion verwendest, um den Zauber aufzuheben, verbleibst du in der Äthergrenze. Während dieser Zeit kannst du dich in jede beliebige Richtung bewegen. Wenn du dich nach oben oder unten bewegst, musst du für jeweils 30 cm Bewegung zusätzliche 30 cm Bewegungsrate aufwenden. Du kannst die Ebene, von der du gekommen bist, hören und sehen. Allerdings ist sie nur in Grautönen zu erkennen und deine Sicht reicht nicht weiter als 18 m.
-
-Solange du dich auf der Ätherebene befindest, kannst du nur Kreaturen beeinflussen oder von ihnen beeinflusst werden, die sich ebenfalls dort aufhalten. Kreaturen auf einer anderen Ebene können dich weder wahrnehmen noch mit dir interagieren, es sei denn, eine Spezialfähigkeit oder Magie erlaubt es ihnen.
-
-Du ignorierst alle Gegenstände und Effekte, die sich nicht auf der Ätherebene befinden. Somit bist du in der Lage, dich durch Gegenstände hindurchzubewegen, die du auf der Ebene wahrnimmst, von der du gekommen bist.
-
-Wenn der Zauber endet, kehrst du sofort auf die Ebene zurück, von der du gekommen bist, und zwar an dem Punkt, an dem du dich augenblicklich aufhältst. Befindest du dich am gleichen Ort wie ein fester Gegenstand oder eine Kreatur, wirst du augenblicklich auf den nächsten nicht besetzten Bereich bewegt, den du einnehmen kannst, und erleidest 1 Punkt Energieschaden für jeweils 30 cm, die du bewegt wurdest.
-
-Der Zauber hat keinen Effekt, wenn du dich beim Wirken bereits auf der Ätherebene befindest oder einer Ebene, die nicht an sie angrenzt, beispielsweise den Äußeren Ebenen.
+$\quad$Solange du dich auf der Ätherebene befindest, kannst du nur Kreaturen beeinflussen oder von ihnen beeinflusst werden, die sich ebenfalls dort aufhalten. Kreaturen auf einer anderen Ebene können dich weder wahrnehmen noch mit dir interagieren, es sei denn, eine Spezialfähigkeit oder Magie erlaubt es ihnen.
+$\quad$Du ignorierst alle Gegenstände und Effekte, die sich nicht auf der Ätherebene befinden. Somit bist du in der Lage, dich durch Gegenstände hindurchzubewegen, die du auf der Ebene wahrnimmst, von der du gekommen bist.
+$\quad$Wenn der Zauber endet, kehrst du sofort auf die Ebene zurück, von der du gekommen bist, und zwar an dem Punkt, an dem du dich augenblicklich aufhältst. Befindest du dich am gleichen Ort wie ein fester Gegenstand oder eine Kreatur, wirst du augenblicklich auf den nächsten nicht besetzten Bereich bewegt, den du einnehmen kannst, und erleidest 1 Punkt Energieschaden für jeweils 30 cm, die du bewegt wurdest.
+$\quad$Der Zauber hat keinen Effekt, wenn du dich beim Wirken bereits auf der Ätherebene befindest oder einer Ebene, die nicht an sie angrenzt, beispielsweise den Äußeren Ebenen.
 
 **_Auf höheren Graden:_** Wenn du diesen Spruch mit einem Zauberplatz des 8. oder 9. Grades wirkst, kannst du für jeden Grad über den 7. hinaus bis zu drei bereitwillige Kreaturen als Ziel wählen (inklusive dir selbst). Beim Wirken des Zaubers müssen sich die Kreaturen innerhalb von 3 m befinden.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 238. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Coins; Coin Origins
+Status: WIP
 linter-yaml-title-alias: Coins; Coin Origins
 tags:
   - Quelle/5e/ftd

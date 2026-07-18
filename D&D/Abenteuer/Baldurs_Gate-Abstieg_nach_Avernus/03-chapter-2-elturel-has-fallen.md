@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Elturel Has Fallen"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Elturel Has Fallen"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Chapter 2: Elturel Has Fallen"
-  - Chapter 2: Elturel Has Fallen
 ---
 # Chapter 2: Elturel Has Fallen
 *Source: Baldur's Gate: Descent Into Avernus, p. 52* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oussa
+Status: WIP
 linter-yaml-title-alias: Oussa
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bagpipes
+Status: WIP
 linter-yaml-title-alias: Bagpipes
 tags:
   - Gegenstand/Ausrüstung/Instrument

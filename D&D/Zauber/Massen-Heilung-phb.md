@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mass Heal
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Mass Heal
 classes:
   - Bard (Magical Secrets)

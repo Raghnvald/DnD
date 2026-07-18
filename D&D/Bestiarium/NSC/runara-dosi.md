@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Runara
+Status: WIP
 linter-yaml-title-alias: Runara
 tags:
   - Monster/Größe/Riesig

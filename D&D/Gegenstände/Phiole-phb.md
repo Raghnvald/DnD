@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Phiole
-Kategorie: Abenteuerausrüstung
+Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Phiole
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Phiole
+status: WIP
 ---
 # Phiole
 *Adventuring gear*  

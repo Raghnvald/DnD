@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Comet Card
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Comet Card
 tags:
   - Gegenstand/Seltenheit/legendär

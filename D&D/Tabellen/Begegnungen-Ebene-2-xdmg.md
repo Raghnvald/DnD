@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stage 2
+Status: WIP
 linter-yaml-title-alias: Stage 2
 tags:
   - Quelle/5e/xdmg

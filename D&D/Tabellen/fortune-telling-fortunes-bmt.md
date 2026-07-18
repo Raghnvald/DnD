@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fortune-Telling; Fortunes
+Status: WIP
 linter-yaml-title-alias: Fortune-Telling; Fortunes
 tags:
   - Quelle/5e/bmt

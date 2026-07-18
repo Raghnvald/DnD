@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Copper
+Status: WIP
 linter-yaml-title-alias: Copper
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

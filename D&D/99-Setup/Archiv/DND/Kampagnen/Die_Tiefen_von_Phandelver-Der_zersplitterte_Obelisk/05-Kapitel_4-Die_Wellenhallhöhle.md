@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Kapitel 4: Die Wellenhallhöhle"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 4: Die Wellenhallhöhle"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "Chapter 4: Wave Echo Cave"
   - "Kapitel 4: Die Wellenhallhöhle"
-  - Chapter 4: Wave Echo Cave
-  - Kapitel 4: Die Wellenhallhöhle
 ---
 # Kapitel 4: Die Wellenhallhöhle
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk, S. 65* 

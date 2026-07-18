@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orcus
+Status: WIP
 linter-yaml-title-alias: Orcus
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Silver Dragon; Silver Dragon Spellcasting
+Status: WIP
 linter-yaml-title-alias: Creating a Silver Dragon; Silver Dragon Spellcasting
 tags:
   - Quelle/5e/ftd

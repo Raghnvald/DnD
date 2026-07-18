@@ -5,6 +5,7 @@ Schaden:
 Eigenschaften: []
 Kst.:
 Gew.:
+Status: WIP
 linter-yaml-title-alias: Name
 tags:
   - Gegenstand/Ausrüstung

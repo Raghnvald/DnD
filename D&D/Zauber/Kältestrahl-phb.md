@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ray of Frost
+Bezeichnung: Kältestrahl
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
@@ -7,7 +7,8 @@ Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: Fern
 Schaden: 1d8 Kälte
-linter-yaml-title-alias: Ray of Frost
+Status: WIP
+linter-yaml-title-alias: Kältestrahl
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,7 +20,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high
@@ -27,9 +28,9 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Ray of Frost
+  - Kältestrahl
 ---
-# Ray of Frost
+# Kältestrahl
 *cantrip, Evocation*  
 
 - **Casting time:** 1 Action

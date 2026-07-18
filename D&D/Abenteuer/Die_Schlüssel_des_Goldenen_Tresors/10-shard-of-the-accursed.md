@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Shard of the Accursed
+Status: WIP
 linter-yaml-title-alias: Shard of the Accursed
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Shard of the Accursed"
+  - Shard of the Accursed
   - Shard of the Accursed
 ---
 # Shard of the Accursed

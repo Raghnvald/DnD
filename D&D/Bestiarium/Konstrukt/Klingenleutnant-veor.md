@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 9
 Habitat:
   - /
-image: token/blade-lieutenant-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Blade Lieutenant
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Blade Lieutenant
+image: token/blade-lieutenant-veor.webp
+status: WIP
 ---
 # Blade Lieutenant
 *Source: Vecna: Eve of Ruin p. 209*  

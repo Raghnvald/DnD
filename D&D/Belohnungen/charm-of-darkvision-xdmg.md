@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Darkvision
+Status: WIP
 linter-yaml-title-alias: Charm of Darkvision
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Charm of Darkvision

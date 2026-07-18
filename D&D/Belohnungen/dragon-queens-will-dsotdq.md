@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Dragon Queen's Will"
+Status: WIP
 linter-yaml-title-alias: "Dragon Queen's Will"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dsotdq
 aliases:
   - "Dragon Queen's Will"

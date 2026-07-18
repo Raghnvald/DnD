@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Central Plateau: Important Districts"
+Status: WIP
 linter-yaml-title-alias: "Central Plateau: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Central Plateau: Important Districts"
-  - Central Plateau: Important Districts
 ---
 # Central Plateau: Important Districts
 *Source: Eberron: Rising from the Last War p. 161* 

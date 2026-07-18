@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artisan
+Status: WIP
 linter-yaml-title-alias: Artisan
 tags:
   - Kompendium/Hintergrund

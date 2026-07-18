@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Belenus
+Status: WIP
 linter-yaml-title-alias: Belenus
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Quelle/5e/phb
 aliases:
   - Belenus

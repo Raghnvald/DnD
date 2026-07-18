@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Thither
+Status: WIP
 linter-yaml-title-alias: Thither
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Thither"
+  - Thither
   - Thither
 ---
 # Thither

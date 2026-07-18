@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silvanus, Gott der Wilden Natur
+Status: WIP
 linter-yaml-title-alias: Silvanus, Gott der Wilden Natur
 tags:
   - Kompendium/Götter

@@ -1,17 +1,20 @@
 ---
-Bezeichnung: Oathbow
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Oathbow
+Bezeichnung: Schwurbogen
+Original: Oathbow
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Schwurbogen
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/dmg
 aliases:
-  - Oathbow
+  - Schwurbogen
+status: WIP
 ---
-# Oathbow
+# Schwurbogen
 *Weapon ([longbow](/3-Mechanics/CLI/items/longbow.md)), major, very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/oathbow.webp#right)
 

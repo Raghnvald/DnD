@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mordakhesh
+Status: WIP
 linter-yaml-title-alias: Mordakhesh
 tags:
   - Monster/Größe/Mittelgroß

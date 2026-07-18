@@ -1,12 +1,13 @@
 ---
-Bezeichnung: "Magierrüstung "
+Bezeichnung: Magierrüstung
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: 8 Stunden
-Angriff: /
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: "Magierrüstung "
 classes:
   - Bard (Magical Secrets)
@@ -19,16 +20,16 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/optfeature/armor-of-shadows
   - Zauber/Schule/Bann
 aliases:
-  - "Magierrüstung "
+  - Magierrüstung
 ---
-# Magierrüstung 
+# Magierrüstung
 *Bann des 1. Grades*  
 
 - **Zeitaufwand:** 1 Aktion

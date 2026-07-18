@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Celestisches Wesen beschwören
+Status: WIP
 linter-yaml-title-alias: Celestisches Wesen beschwören
 tags:
   - Klasse/Kleriker

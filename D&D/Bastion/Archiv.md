@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Archiv
+Status: completed
 tags:
   - Kompendium/Bastion
   - Quelle/5e/xdmg

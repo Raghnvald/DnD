@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blinding Smite
+Status: WIP
 linter-yaml-title-alias: Blinding Smite
 classes:
   - Paladin

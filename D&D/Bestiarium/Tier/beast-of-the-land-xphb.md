@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Beast of the Land
+Status: WIP
 linter-yaml-title-alias: Beast of the Land
 tags:
   - Monster/Größe/Mittelgroß

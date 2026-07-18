@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Whisper (Exalted)
-Kategorie: Einfache Nahkampfwaffe
+Original: Whisper (Exalted)
+Kategorie: Nahkampfwaffe, einfach
+Status: WIP
 linter-yaml-title-alias: Whisper (Exalted)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

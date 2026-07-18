@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Tyro of the Gauntlet
+Status: WIP
 linter-yaml-title-alias: Tyro of the Gauntlet
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Tyro of the Gauntlet"
+  - Tyro of the Gauntlet
   - Tyro of the Gauntlet
 ---
 # Tyro of the Gauntlet

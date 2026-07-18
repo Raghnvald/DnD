@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Goggles of Object Reading
+Status: WIP
 linter-yaml-title-alias: Goggles of Object Reading
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/egw
 aliases:

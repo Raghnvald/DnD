@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fomorian Warlock of the Dark
+Status: WIP
 linter-yaml-title-alias: Fomorian Warlock of the Dark
 tags:
   - Monster/Größe/Riesig

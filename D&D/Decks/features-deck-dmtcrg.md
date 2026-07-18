@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Features Deck
+Status: WIP
 linter-yaml-title-alias: Features Deck
 tags:
   - Quelle/5e/dmtcrg
 aliases:
-  - "Features Deck"
+  - Features Deck
   - Features Deck
 ---
 # Features Deck

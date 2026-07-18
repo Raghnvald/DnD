@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grinning Cat
+Status: WIP
 linter-yaml-title-alias: Grinning Cat
 tags:
   - Monster/Größe/Groß

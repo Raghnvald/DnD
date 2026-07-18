@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Greater Silver Sword
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Greater Silver Sword
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/mtf
 aliases:
   - Greater Silver Sword
+status: WIP
+Original: Greater Silver Sword
 ---
 # Greater Silver Sword
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature that has psionic ability)*  

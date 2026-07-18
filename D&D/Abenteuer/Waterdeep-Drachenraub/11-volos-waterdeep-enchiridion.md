@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Volo's Waterdeep Enchiridion"
+Status: WIP
 linter-yaml-title-alias: "Volo's Waterdeep Enchiridion"
 tags:
   - Quelle/5e/wdh
 aliases:
   - "Volo's Waterdeep Enchiridion"
-  - Volo's Waterdeep Enchiridion
 ---
 # Volo's Waterdeep Enchiridion
 *Source: Waterdeep: Dragon Heist, p. 163* 

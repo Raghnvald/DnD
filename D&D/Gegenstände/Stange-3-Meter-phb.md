@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stange (3 Meter)
+Status: WIP
 linter-yaml-title-alias: Stange (3 Meter)
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Campaign
+Status: WIP
 linter-yaml-title-alias: Campaign
 tags:
   - Quelle/5e/xphb

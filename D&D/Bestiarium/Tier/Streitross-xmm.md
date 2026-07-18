@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warhorse
+Status: WIP
 linter-yaml-title-alias: Warhorse
 tags:
   - Monster/Größe/Groß

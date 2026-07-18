@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blood Hawk
+Status: WIP
 linter-yaml-title-alias: Blood Hawk
 tags:
   - Monster/Größe/Klein

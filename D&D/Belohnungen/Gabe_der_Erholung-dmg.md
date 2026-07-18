@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe der Erholung
+Status: WIP
 linter-yaml-title-alias: Gabe der Erholung
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of Recovery

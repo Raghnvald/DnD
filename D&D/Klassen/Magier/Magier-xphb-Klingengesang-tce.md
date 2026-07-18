@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bladesinging
+Status: WIP
 linter-yaml-title-alias: Bladesinging
 tags:
   - Klasse/Magier/bladesinging

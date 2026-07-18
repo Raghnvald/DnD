@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Sunbeam Compass
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Sunbeam Compass
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/tdcsr
 aliases:
   - Sunbeam Compass

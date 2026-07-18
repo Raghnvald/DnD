@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Iroas's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Iroas's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

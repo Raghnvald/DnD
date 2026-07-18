@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Scharfschütze
-linter-yaml-title-alias: Sharpshooter
+Status: WIP
+linter-yaml-title-alias: Scharfschütze
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Sharpshooter
+  - Scharfschütze
 ---
 # Scharfschütze
 *Source: Player's Handbook p. 170*  

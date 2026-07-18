@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hill Encounters (Levels 5—10)
+Status: WIP
 linter-yaml-title-alias: Hill Encounters (Levels 5—10)
 tags:
   - Quelle/5e/xge

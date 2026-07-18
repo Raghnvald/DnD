@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shadar-kai Shadow Dancer
+Status: WIP
 linter-yaml-title-alias: Shadar-kai Shadow Dancer
 tags:
   - Monster/Größe/Mittelgroß

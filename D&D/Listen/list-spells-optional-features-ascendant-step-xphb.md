@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Ascendant Step
+Status: WIP
 linter-yaml-title-alias: Spells for Ascendant Step
 tags:
-  - Zauber/list/optfeature/ascendant-step
+  - Zauber/Liste/optfeature/ascendant-step
 aliases:
   - Spells for Ascendant Step
 ---

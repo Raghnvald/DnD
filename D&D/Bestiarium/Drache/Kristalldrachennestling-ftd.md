@@ -4,6 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Crystal Dragon Wyrmling
 Kategorie: Drache (Edelstein)
 Größe: Mittelgroß
+Status: WIP
 linter-yaml-title-alias: Crystal Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß

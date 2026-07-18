@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Spider Queen
+Status: WIP
 linter-yaml-title-alias: The Spider Queen
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Lolth

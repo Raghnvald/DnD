@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dire Worg
+Status: WIP
 linter-yaml-title-alias: Dire Worg
 tags:
   - Monster/Größe/Riesig

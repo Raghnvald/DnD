@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Escape from Avernus"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Escape from Avernus"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Chapter 5: Escape from Avernus"
-  - Chapter 5: Escape from Avernus
 ---
 # Chapter 5: Escape from Avernus
 *Source: Baldur's Gate: Descent Into Avernus, p. 146* 

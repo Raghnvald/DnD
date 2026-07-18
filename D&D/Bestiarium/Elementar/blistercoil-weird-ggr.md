@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blistercoil Weird
+Status: WIP
 linter-yaml-title-alias: Blistercoil Weird
 tags:
   - Monster/Größe/Mittelgroß

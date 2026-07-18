@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Danoth's Visor (Dormant)"
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: "Danoth's Visor (Dormant)"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw
 aliases:

@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Heliod
+Status: WIP
 linter-yaml-title-alias: Heliod
 tags:
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Heliod"
+  - Heliod
   - Heliod
 ---
 # Heliod

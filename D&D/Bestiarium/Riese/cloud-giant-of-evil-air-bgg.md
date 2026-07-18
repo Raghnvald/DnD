@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cloud Giant of Evil Air
+Status: WIP
 linter-yaml-title-alias: Cloud Giant of Evil Air
 tags:
   - Monster/Größe/Riesig

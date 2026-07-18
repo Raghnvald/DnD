@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Geryon
+Status: WIP
 linter-yaml-title-alias: Geryon
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adeliger
+Status: WIP
 linter-yaml-title-alias: Adeliger
 tags:
   - Kompendium/Hintergrund

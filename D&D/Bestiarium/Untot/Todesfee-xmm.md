@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Banshee
+Status: WIP
 linter-yaml-title-alias: Banshee
 tags:
   - Monster/Größe/Mittelgroß

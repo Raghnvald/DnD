@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Celebrity Adventurer's Scion"
+Status: WIP
 linter-yaml-title-alias: "Celebrity Adventurer's Scion"
 tags:
   - Kompendium/Hintergrund

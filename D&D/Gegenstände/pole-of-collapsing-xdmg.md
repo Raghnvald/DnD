@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pole of Collapsing
+Status: WIP
 linter-yaml-title-alias: Pole of Collapsing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

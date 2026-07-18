@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Savage Attacker
+Status: WIP
 linter-yaml-title-alias: Savage Attacker
 tags:
   - Kompendium/Talent

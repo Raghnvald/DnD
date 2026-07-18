@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Arabelle
 Kategorie: Humanoid
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Arabelle
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Arabelle
+status: WIP
 ---
 # Arabelle
 *Source: Curse of Strahd p. 38*  

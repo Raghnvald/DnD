@@ -2,19 +2,21 @@
 Bezeichnung: Ring des Röntgenblicks
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Ring des Röntgenblicks
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring des Röntgenblicks
+status: completed
 ---
 # Ring des Röntgenblicks
-*Ring, selten (benötigt Einstimmung)*  
+*Ring, selten (erfordert Einstimmung)*  
 ![](img/ring-of-x-ray-vision.webp#right)
 
 Während du diesen Ring trägst, kannst du eine Aktion benutzen, um sein Befehlswort zu sprechen. Wenn du das tust, kannst du für 1 Minute in feste Dinge hinein und durch sie durch sehen. Diese Sicht hat einen Radius von 9 Metern. Für dich erscheinen feste Gegenstände innerhalb dieses Radius durchsichtig und sie sind lichtdurchlässig. Die Sicht kann bis zu 0,30 Meter in einen Stein, 2,5 Zentimeter in gewöhnliches Metall oder bis zu 1 Meter in Holz oder Erde reichen. Dickere Substanzen blocken die Sicht ab, ebenso wie eine dünne Bleischicht.

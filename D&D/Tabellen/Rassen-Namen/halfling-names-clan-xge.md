@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Names – Clan
+Status: WIP
 linter-yaml-title-alias: Halfling Names – Clan
 tags:
   - Quelle/5e/xge

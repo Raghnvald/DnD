@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gloves of Soul Catching
+Status: WIP
 linter-yaml-title-alias: Gloves of Soul Catching
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/cm
 aliases:

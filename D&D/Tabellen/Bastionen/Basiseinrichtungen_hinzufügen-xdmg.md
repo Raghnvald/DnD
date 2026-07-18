@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Basiseinrichtungen hinzufügen
 Kategorie: Bastion
+Status: WIP
 linter-yaml-title-alias: Basiseinrichtungen hinzufügen
 tags:
   - Quelle/5e/xdmg

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ranger Spells
+Status: WIP
 linter-yaml-title-alias: Ranger Spells
 tags:
-  - Zauber/list/class/ranger
+  - Zauber/Liste/class/ranger
 aliases:
   - Ranger Spells
 ---

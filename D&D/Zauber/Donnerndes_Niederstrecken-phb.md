@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Donnerdes Niederstrecken
+Bezeichnung: Donnerndes Niederstrecken
 Zaubergrad: 1
-Zeitaufwand: 
-Reichweite: 
-Komponenten: 
-Wirkungsdauer: 
-Angriff: 
-Schaden: 
-linter-yaml-title-alias: Donnerdes Niederstrecken
+Zeitaufwand: 1 Bonusaktion
+Reichweite: selbst
+Komponenten: V
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Angriff:
+Schaden:
+Status: WIP
+linter-yaml-title-alias: Donnerndes Niederstrecken
 classes:
   - Bard (Magical Secrets)
   - Paladin
@@ -18,9 +19,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Donnerdes Niederstrecken
+  - Donnerndes Niederstrecken
 ---
-# Donnerdes Niederstrecken
+# Donnerndes Niederstrecken
 *Hervorrufung des 1. Grades*
 
 - **Zeitaufwand:** 1 Bonusaktion

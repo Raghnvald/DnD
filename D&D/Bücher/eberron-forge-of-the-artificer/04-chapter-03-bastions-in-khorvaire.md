@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 03: Bastions in Khorvaire"
+Status: WIP
 linter-yaml-title-alias: "Chapter 03: Bastions in Khorvaire"
 tags:
   - Quelle/5e/efa

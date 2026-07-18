@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 22: Shadowdusk Hold"
+Status: WIP
 linter-yaml-title-alias: "Level 22: Shadowdusk Hold"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 22: Shadowdusk Hold"
-  - Level 22: Shadowdusk Hold
 ---
 # Level 22: Shadowdusk Hold
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 277* 

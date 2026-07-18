@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Marta Moonshadow
+Status: WIP
 linter-yaml-title-alias: Marta Moonshadow
 tags:
   - Monster/Größe/Mittelgroß

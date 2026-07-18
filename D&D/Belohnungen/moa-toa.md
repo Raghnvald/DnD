@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Moa
+Status: WIP
 linter-yaml-title-alias: Moa
 tags:
   - Kompendium/Belohnung/inhabitation

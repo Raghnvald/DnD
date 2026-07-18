@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Empyrean Iota
+Status: WIP
 linter-yaml-title-alias: Empyrean Iota
 tags:
   - Monster/Größe/Mittelgroß

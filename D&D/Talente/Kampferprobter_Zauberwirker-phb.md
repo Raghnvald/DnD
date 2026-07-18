@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Kampferprobter Zauberwirker
-linter-yaml-title-alias: War Caster
+Status: WIP
+linter-yaml-title-alias: Kampferprobter Zauberwirker
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - War Caster
+  - Kampferprobter Zauberwirker
 ---
 # Kampferprobter Zauberwirker
 *Source: Player's Handbook p. 170*  

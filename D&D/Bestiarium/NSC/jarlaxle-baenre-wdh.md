@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarlaxle Baenre
+Status: WIP
 linter-yaml-title-alias: Jarlaxle Baenre
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Maxeene
+Status: WIP
 linter-yaml-title-alias: Maxeene
 tags:
   - Monster/Größe/Groß

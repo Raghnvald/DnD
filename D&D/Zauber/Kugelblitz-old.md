@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kugelblitz
+Status: WIP
 linter-yaml-title-alias: Kugelblitz
 tags:
   - Klasse/Magier

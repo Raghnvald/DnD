@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection
 tags:
   - Gegenstand/Seltenheit/selten

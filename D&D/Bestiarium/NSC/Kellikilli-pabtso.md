@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kellikilli
 Image: token/kellikilli-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Kellikilli
 tags:
   - Monster/Größe/Groß

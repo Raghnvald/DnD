@@ -1,10 +1,11 @@
 ---
 Bezeichnung: X Marks the Spot
+Status: WIP
 linter-yaml-title-alias: X Marks the Spot
 tags:
   - Quelle/5e/xmts
 aliases:
-  - "X Marks the Spot"
+  - X Marks the Spot
   - X Marks the Spot
 ---
 # X Marks the Spot

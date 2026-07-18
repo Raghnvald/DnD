@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Owlin
+Status: WIP
 linter-yaml-title-alias: Owlin
 tags:
   - Quelle/5e/scc
   - Rasse/owlin
 aliases:
-  - "Owlin"
+  - Owlin
   - Owlin
 ---
 # Owlin

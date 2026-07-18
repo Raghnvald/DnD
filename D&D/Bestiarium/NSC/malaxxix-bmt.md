@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Malaxxix
+Status: WIP
 linter-yaml-title-alias: Malaxxix
 tags:
   - Monster/Größe/Riesig

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Kalashtar
+Status: WIP
 linter-yaml-title-alias: Kalashtar
 tags:
   - Quelle/5e/efa
   - Rasse/kalashtar
 aliases:
-  - "Kalashtar"
+  - Kalashtar
   - Kalashtar
 ---
 # Kalashtar

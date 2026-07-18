@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Concluding the Siege; Zombie Siege Climax
+Status: WIP
 linter-yaml-title-alias: Concluding the Siege; Zombie Siege Climax
 tags:
   - Quelle/5e/vrgr

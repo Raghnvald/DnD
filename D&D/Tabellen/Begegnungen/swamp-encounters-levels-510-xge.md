@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swamp Encounters (Levels 5—10)
+Status: WIP
 linter-yaml-title-alias: Swamp Encounters (Levels 5—10)
 tags:
   - Quelle/5e/xge

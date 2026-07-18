@@ -1,8 +1,9 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Ghoul
-linter-yaml-title-alias: Ghoul
+Bezeichnung: Ghul
+Status: WIP
+linter-yaml-title-alias: Ghul
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -12,7 +13,7 @@ tags:
   - Monster/Typ/Untote
   - Quelle/5e/xmm
 aliases:
-  - Ghoul
+  - Ghul
 ---
 # Ghul
 *Quelle: Monsterhandbuch (2024) p. 101. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

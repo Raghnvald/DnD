@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beast Speech
+Status: WIP
 linter-yaml-title-alias: Beast Speech
 tags:
   - Kompendium/Optionales/ei

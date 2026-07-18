@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Four Elements
+Status: WIP
 linter-yaml-title-alias: Way of the Four Elements
 tags:
   - Klasse/Mönch/four-elements

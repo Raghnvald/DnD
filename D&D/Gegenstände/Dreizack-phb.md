@@ -1,24 +1,27 @@
 ---
-Bezeichnung: Trident
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Trident
+Bezeichnung: Dreizack
+Original: Tridant
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Dreizack
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Trident
+  - Dreizack
+status: WIP
 ---
-# Trident
-*Weapon*  
+# Dreizack
+*Nahkampf-Kriegswaffe*  
 
-- **Damage**:
-  - One-handed: 1d6 piercing
-  - Two-handed: 1d8 piercing
-- **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Cost**: 5 gp
-- **Weight**: 4.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d6 Stich
+  - Zweihändig: 1d8 Stich
+- **Reichweite**: 6/18
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
+- **Kosten**: 5 GM
+- **Gewicht**: 2,0 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

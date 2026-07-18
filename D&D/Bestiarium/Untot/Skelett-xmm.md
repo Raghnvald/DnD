@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeleton
+Status: WIP
 linter-yaml-title-alias: Skeleton
 tags:
   - Monster/Größe/Mittelgroß

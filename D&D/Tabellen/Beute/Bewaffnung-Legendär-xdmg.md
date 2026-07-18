@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armaments - Legendary
+Status: WIP
 linter-yaml-title-alias: Armaments - Legendary
 tags:
   - Quelle/5e/xdmg

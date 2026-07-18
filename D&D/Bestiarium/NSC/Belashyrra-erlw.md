@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Belashyrra
 Kategorie: Aberration
+Status: WIP
 linter-yaml-title-alias: Belashyrra
 tags:
   - Monster/Größe/Mittelgroß

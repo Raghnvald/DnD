@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gigant
+Status: WIP
 linter-yaml-title-alias: Gigant
 tags:
   - Monster/Größe/Gigantisch

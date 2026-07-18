@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Pallid)
+Status: WIP
 linter-yaml-title-alias: Elf (Pallid)
 tags:
   - Quelle/5e/egw

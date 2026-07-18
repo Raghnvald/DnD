@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Slasher
+Status: WIP
 linter-yaml-title-alias: Slasher
 tags:
   - Kompendium/Talent

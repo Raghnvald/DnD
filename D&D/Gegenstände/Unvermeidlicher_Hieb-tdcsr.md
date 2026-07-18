@@ -1,17 +1,19 @@
 ---
-Bezeichnung: Inescapable Lash
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Inescapable Lash
+Bezeichnung: Unvermeidlicher Hieb
+Original: Inescapable Lash
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Unvermeidlicher Hieb
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Inescapable Lash
+  - Unvermeidlicher Hieb
 ---
-# Inescapable Lash
+# Unvermeidlicher Hieb
 *Weapon ([whip](/3-Mechanics/CLI/items/whip-xphb.md)), rare (requires attunement)*  
 
 - **Damage**: 1d4 slashing

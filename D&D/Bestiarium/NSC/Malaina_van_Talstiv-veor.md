@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 8
 Habitat:
   - /
-image: token/malaina-van-talstiv-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Malaina van Talstiv
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Malaina van Talstiv
+image: token/malaina-van-talstiv-veor.webp
+status: WIP
 ---
 # [Malaina van Talstiv](3-Mechanics\CLI\bestiary\npc/malaina-van-talstiv-veor.md)
 *Source: Vecna: Eve of Ruin*  

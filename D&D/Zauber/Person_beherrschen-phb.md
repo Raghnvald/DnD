@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dominate Person
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Dominate Person
 classes:
   - Bard (Magical Secrets)

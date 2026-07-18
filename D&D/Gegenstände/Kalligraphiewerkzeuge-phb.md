@@ -2,10 +2,10 @@
 Bezeichnung: Kalligraphiewerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Kalligraphiewerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

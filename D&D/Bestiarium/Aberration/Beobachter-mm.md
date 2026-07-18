@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 3
 Habitat:
   - Unterreich
-image: token/spectator.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Beobachter
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Beobachter
   - Spectator
+image: token/spectator.webp
+status: completed
 ---
 # Beobachter
 *Quelle: Monsterhandbuch S. 28. Verfügbar im Grundregelwerk (2014)*  

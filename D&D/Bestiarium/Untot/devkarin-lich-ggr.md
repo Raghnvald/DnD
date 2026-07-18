@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Devkarin Lich
+Status: WIP
 linter-yaml-title-alias: Devkarin Lich
 tags:
   - Monster/Größe/Mittelgroß

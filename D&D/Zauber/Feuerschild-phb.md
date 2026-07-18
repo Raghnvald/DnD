@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fire Shield
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Fire Shield
 classes:
   - Bard (Magical Secrets)

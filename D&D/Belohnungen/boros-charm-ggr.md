@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Boros Charm
+Status: WIP
 linter-yaml-title-alias: Boros Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Boros Charm

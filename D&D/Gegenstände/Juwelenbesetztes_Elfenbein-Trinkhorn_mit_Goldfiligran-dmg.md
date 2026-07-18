@@ -2,13 +2,13 @@
 Bezeichnung: Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 Kategorie: Kunstobjekt
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 7.500 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:

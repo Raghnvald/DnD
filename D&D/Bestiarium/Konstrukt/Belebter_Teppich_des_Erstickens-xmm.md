@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animated Rug of Smothering
+Status: WIP
 linter-yaml-title-alias: Animated Rug of Smothering
 tags:
   - Monster/Größe/Groß

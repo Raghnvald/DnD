@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Flensing Claws (Large)
+Status: WIP
 linter-yaml-title-alias: Flensing Claws (Large)
 tags:
   - Gegenstand/Seltenheit/unbekannt
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/vgm
 aliases:
   - Flensing Claws (Large)

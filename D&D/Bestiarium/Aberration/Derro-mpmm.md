@@ -5,7 +5,7 @@ Bezeichnung: Derro
 Kategorie: Aberration
 Größe: Klein
 HG: 1/4
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Derro
 tags:
   - Monster/Größe/Klein
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Derro
+status: WIP
 ---
 # [Derro](3-Mechanics\CLI\bestiary\aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91*  

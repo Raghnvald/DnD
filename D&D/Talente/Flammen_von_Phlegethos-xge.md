@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Flammen von Phlegethos
-linter-yaml-title-alias: Flames of Phlegethos
+Status: WIP
+linter-yaml-title-alias: Flammen von Phlegethos
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Flames of Phlegethos
+  - Flammen von Phlegethos
 ---
 # Flammen von Phlegethos
 *Source: Xanathar's Guide to Everything p. 74*  

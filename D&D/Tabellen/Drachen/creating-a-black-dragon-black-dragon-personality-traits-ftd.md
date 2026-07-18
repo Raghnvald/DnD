@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Black Dragon; Black Dragon Personality Traits
+Status: WIP
 linter-yaml-title-alias: Creating a Black Dragon; Black Dragon Personality Traits
 tags:
   - Quelle/5e/ftd

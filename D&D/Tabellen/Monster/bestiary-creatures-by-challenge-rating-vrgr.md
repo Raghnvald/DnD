@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bestiary; Creatures by Challenge Rating
+Status: WIP
 linter-yaml-title-alias: Bestiary; Creatures by Challenge Rating
 tags:
   - Quelle/5e/vrgr

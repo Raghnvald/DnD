@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Ambition Domain (PSA)
+Status: WIP
 linter-yaml-title-alias: Spells for Ambition Domain (PSA)
 tags:
-  - ttrpg-cli/spell/list/subclass/ambition-domain-psa
+  - Zauber/Liste/subclass/ambition-domain-psa
 aliases:
-  - "Spells for Ambition Domain (PSA)"
+  - Spells for Ambition Domain (PSA)
   - Spells for Ambition Domain (PSA)
 ---
 # Spells for Ambition Domain (PSA)

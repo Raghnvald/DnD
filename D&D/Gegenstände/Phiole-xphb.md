@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vial
+Status: WIP
 linter-yaml-title-alias: Vial
 tags:
   - Gegenstand/Ausrüstung/

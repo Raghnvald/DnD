@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Meld into Stone
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Meld into Stone
 classes:
   - Bard (Magical Secrets)

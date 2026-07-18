@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Purphoros
+Status: WIP
 linter-yaml-title-alias: Purphoros
 tags:
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Purphoros"
+  - Purphoros
   - Purphoros
 ---
 # Purphoros

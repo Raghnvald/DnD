@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Shiftweave
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Shiftweave
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

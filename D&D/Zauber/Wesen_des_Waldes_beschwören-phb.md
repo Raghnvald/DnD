@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Conjure Woodland Beings
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Conjure Woodland Beings
 classes:
   - Bard (Magical Secrets)

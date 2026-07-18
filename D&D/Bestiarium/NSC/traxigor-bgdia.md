@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Traxigor
+Status: WIP
 linter-yaml-title-alias: Traxigor
 tags:
   - Monster/Größe/Winzig

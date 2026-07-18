@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Mark of Detection
+Status: WIP
 linter-yaml-title-alias: Mark of Detection
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Mark of Detection"
+  - Mark of Detection
   - Mark of Detection
 ---
 # Mark of Detection

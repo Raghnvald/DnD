@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wei Feng Ying
+Status: WIP
 linter-yaml-title-alias: Wei Feng Ying
 tags:
   - Monster/Größe/Mittelgroß

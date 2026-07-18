@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Dawnfather
+Status: WIP
 linter-yaml-title-alias: The Dawnfather
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Pelor

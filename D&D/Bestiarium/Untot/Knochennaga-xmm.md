@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Naga
+Status: WIP
 linter-yaml-title-alias: Bone Naga
 tags:
   - Monster/Größe/Groß

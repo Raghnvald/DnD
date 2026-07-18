@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Cloak of Elvenkind
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Cloak of Elvenkind
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:

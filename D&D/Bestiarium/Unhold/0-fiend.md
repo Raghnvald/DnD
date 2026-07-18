@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Fiend
+Status: WIP
 linter-yaml-title-alias: Index of Fiend
 aliases:
   - Index of Fiend

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Copper Dragon
+Status: WIP
 linter-yaml-title-alias: Young Copper Dragon
 tags:
   - Monster/Größe/Groß

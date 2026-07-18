@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Frost Giants
+Status: WIP
 linter-yaml-title-alias: Giants by Kind; Frost Giants
 tags:
   - Quelle/5e/bgg

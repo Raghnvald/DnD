@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Schildmeister
-linter-yaml-title-alias: Shield Master
+Status: WIP
+linter-yaml-title-alias: Schildmeister
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Shield Master
+  - Schildmeister
 ---
 # Schildmeister
 *Source: Player's Handbook p. 170*  

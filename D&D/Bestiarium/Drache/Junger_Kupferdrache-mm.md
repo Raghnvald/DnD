@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Junger Kupferdrache
-image: token/Young-Copper-Dragon.webp
+Status: WIP
 linter-yaml-title-alias: Junger Kupferdrache
 tags:
   - Monster/Größe/Groß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Junger Kupferdrache
+image: token/Young-Copper-Dragon.webp
 ---
 # Junger Kupferdrache
 *Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

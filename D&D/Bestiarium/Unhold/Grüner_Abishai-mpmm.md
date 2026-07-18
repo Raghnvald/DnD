@@ -3,8 +3,12 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grüner Abishai
 Kategorie: Unhold
-image: token/green-abishai-mpmm.webp
-linter-yaml-title-alias: Green Abishai
+Größe: Mittelgroß
+HG: 15
+Habitat:
+  - Stadt
+Status: WIP
+linter-yaml-title-alias: Grüner Abishai
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/Habitat/Stadt
@@ -13,11 +17,8 @@ tags:
   - Quelle/5e/mpmm
   - Quelle/5e/veor
 aliases:
-  - Green Abishai
-Größe: Mittelgroß
-Habitat:
-  - Stadt
-HG: 15
+  - Grüner Abishai
+image: token/green-abishai-mpmm.webp
 status: WIP
 ---
 # Grüner Abishai

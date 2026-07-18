@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonmarked NPCs
+Status: WIP
 linter-yaml-title-alias: Dragonmarked NPCs
 tags:
   - Quelle/5e/erlw

@@ -3,16 +3,17 @@ Bezeichnung: Armbrustbolzen des Tötens
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
+Kst.: n/v
 Gew.: 0,0375 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Armbrustbolzen des Tötens
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Armbrustbolzen des Tötens
+status: WIP
 ---
 # Armbrustbolzen des Tötens
 *Ammunition, minor, very rare*  

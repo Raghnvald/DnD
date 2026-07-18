@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Tharizdun
+Status: WIP
 linter-yaml-title-alias: Tharizdun
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Tharizdun

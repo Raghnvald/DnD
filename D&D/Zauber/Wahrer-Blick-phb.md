@@ -1,6 +1,7 @@
 ---
 Bezeichnung: True Seeing
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: True Seeing
 classes:
   - Bard (Magical Secrets)

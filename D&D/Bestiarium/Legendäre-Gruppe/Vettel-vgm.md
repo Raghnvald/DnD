@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hag
+Status: WIP
 linter-yaml-title-alias: Hag
 tags:
   - Monster/legendary-group

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Wächter
-linter-yaml-title-alias: Sentinel
+Status: WIP
+linter-yaml-title-alias: Wächter
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Sentinel
+  - Wächter
 ---
 # Wächter
 *Source: Player's Handbook p. 169*  

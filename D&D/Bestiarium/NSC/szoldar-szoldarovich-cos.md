@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Szoldar Szoldarovich
+Status: WIP
 linter-yaml-title-alias: Szoldar Szoldarovich
 tags:
   - Monster/Größe/Mittelgroß

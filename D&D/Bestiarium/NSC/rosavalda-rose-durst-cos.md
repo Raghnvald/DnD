@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: 'Rosavalda "Rose" Durst'
+Status: WIP
 linter-yaml-title-alias: 'Rosavalda "Rose" Durst'
 tags:
   - Monster/Größe/Klein
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - 'Rosavalda "Rose" Durst'
-  - Rosavalda "Rose" Durst
 ---
 # [Rosavalda "Rose" Durst](3-Mechanics\CLI\bestiary\npc/rosavalda-rose-durst-cos.md)
 *Source: Curse of Strahd p. 217*  

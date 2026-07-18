@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shape-Shifting
+Status: WIP
 linter-yaml-title-alias: Shape-Shifting
 tags:
   - Quelle/5e/xphb

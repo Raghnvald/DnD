@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Infested Effects
+Status: WIP
 linter-yaml-title-alias: Infested Effects
 tags:
   - Quelle/5e/tce

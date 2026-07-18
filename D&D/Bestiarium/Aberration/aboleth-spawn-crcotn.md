@@ -7,16 +7,17 @@ Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
-image: token/aboleth-spawn-crcotn.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aboleth Spawn
 tags:
   - Quelle/5e/crcotn
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration
 aliases:
   - Aboleth Spawn
+image: token/aboleth-spawn-crcotn.webp
+status: WIP
 ---
 # [Aboleth Spawn](3-Mechanics/CLI/bestiary/aberration/aboleth-spawn-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 135*  

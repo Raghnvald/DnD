@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Charm of Ashtakala
+Status: WIP
 linter-yaml-title-alias: Charm of Ashtakala
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Charm of Ashtakala"
+  - Charm of Ashtakala
   - Charm of Ashtakala
 ---
 # Charm of Ashtakala

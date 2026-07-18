@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 19: Caverns of Ooze"
+Status: WIP
 linter-yaml-title-alias: "Level 19: Caverns of Ooze"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 19: Caverns of Ooze"
-  - Level 19: Caverns of Ooze
 ---
 # Level 19: Caverns of Ooze
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 243* 

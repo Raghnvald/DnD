@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gold Canary Figurine of Wondrous Power
+Status: WIP
 linter-yaml-title-alias: Gold Canary Figurine of Wondrous Power
 tags:
   - Gegenstand/Seltenheit/legendär

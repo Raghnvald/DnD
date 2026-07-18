@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Pureblood Characteristics
+Status: WIP
 linter-yaml-title-alias: Physical Variations; Pureblood Characteristics
 tags:
   - Quelle/5e/vgm

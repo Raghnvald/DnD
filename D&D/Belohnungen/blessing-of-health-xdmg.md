@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Health
+Status: WIP
 linter-yaml-title-alias: Blessing of Health
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/xdmg
 aliases:
   - Blessing of Health

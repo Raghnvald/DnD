@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Starting the Adventure
+Status: WIP
 linter-yaml-title-alias: Starting the Adventure
 tags:
   - Quelle/5e/xmts
 aliases:
-  - "Starting the Adventure"
+  - Starting the Adventure
   - Starting the Adventure
 ---
 # Starting the Adventure

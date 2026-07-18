@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Jallarzi's Storm of Radiance"
+Status: WIP
 linter-yaml-title-alias: "Jallarzi's Storm of Radiance"
 classes:
   - Bard

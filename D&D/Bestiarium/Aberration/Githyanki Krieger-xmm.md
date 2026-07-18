@@ -5,6 +5,7 @@ Bezeichnung: Githyanki Warrior
 Kategorie: Aberration (Gith)
 Größe: Mittelgroß
 HG: 3
+Status: WIP
 linter-yaml-title-alias: Githyanki Warrior
 tags:
   - Monster/Größe/Mittelgroß

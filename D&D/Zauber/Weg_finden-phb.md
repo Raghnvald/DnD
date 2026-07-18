@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Find the Path
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Find the Path
 classes:
   - Bard (Magical Secrets)

@@ -1,15 +1,19 @@
 ---
 Bezeichnung: Blackstaff
+Kategorie: Zauberstecken
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Blackstaff
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/wdh
 aliases:
   - Blackstaff
+status: WIP
+Original: Blackstaff
 ---
 # Blackstaff
 *Staff, weapon, legendary (requires attunement by the Blackstaff heir, who must be a wizard)*  

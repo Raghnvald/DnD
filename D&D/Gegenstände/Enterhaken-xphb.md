@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grappling Hook
+Status: WIP
 linter-yaml-title-alias: Grappling Hook
 tags:
   - Gegenstand/Ausrüstung/

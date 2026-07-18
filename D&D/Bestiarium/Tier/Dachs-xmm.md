@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Badger
+Status: WIP
 linter-yaml-title-alias: Badger
 tags:
   - Monster/Größe/Winzig

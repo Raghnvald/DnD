@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Speak with Plants
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Speak with Plants
 classes:
   - Bard (Magical Secrets)

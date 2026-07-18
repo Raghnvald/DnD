@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Phenax
+Status: WIP
 linter-yaml-title-alias: Phenax
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Phenax"
+  - Phenax
   - Phenax
 ---
 # Phenax

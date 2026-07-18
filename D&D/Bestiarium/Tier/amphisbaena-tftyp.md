@@ -7,8 +7,7 @@ Größe: Riesig
 HG: "3"
 Habitat:
   - /
-image: token/amphisbaena-tftyp.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amphisbaena
 tags:
   - Monster/Größe/Riesig
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Amphisbaena
+image: token/amphisbaena-tftyp.webp
+status: WIP
 ---
 # [Amphisbaena](3-Mechanics\CLI\bestiary\beast/amphisbaena-tftyp.md)
 *Source: Tales from the Yawning Portal p. 84*  

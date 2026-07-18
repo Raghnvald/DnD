@@ -2,13 +2,12 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kultfanatiker
-Kategorie: Humanoide
+Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - Stadt
-image: token/cult-fanatic.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Kultfanatiker
 tags:
   - Monster/Größe/Mittelgroß
@@ -20,6 +19,8 @@ tags:
 aliases:
   - Cult Fanatic
   - Kultfanatiker
+image: token/cult-fanatic.webp
+status: completed
 ---
 # Kultfanatiker
 *Quelle: Monsterhandbuch S. 347, Explorer's Guide to Wildemount. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Peryton
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Peryton
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Heal
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Heal
 classes:
   - Bard (Magical Secrets)

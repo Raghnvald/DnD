@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Erevan Ilesere
+Status: WIP
 linter-yaml-title-alias: Erevan Ilesere
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

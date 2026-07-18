@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Gem Dragon
+Status: WIP
 linter-yaml-title-alias: Gift of the Gem Dragon
 tags:
   - Kompendium/Talent

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Conjure Fey
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Conjure Fey
 classes:
   - Bard (Magical Secrets)

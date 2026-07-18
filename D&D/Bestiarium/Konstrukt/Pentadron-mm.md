@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pentadrone
+Status: WIP
 linter-yaml-title-alias: Pentadrone
 tags:
   - Monster/Größe/Groß

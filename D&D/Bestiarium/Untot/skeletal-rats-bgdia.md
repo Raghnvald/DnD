@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skeletal Rats
+Status: WIP
 linter-yaml-title-alias: Skeletal Rats
 tags:
   - Monster/Größe/Mittelgroß

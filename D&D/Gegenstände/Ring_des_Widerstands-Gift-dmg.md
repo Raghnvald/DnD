@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Ring des Giftwiderstands
 Kategorie: Ring
-status: completed
+Status: WIP
 linter-yaml-title-alias: Ring des Giftwiderstands
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring des Giftwiderstands
+status: completed
 ---
 # Ring des Giftwiderstands
 *Ring, selten (benötigt Einstimmung)*  

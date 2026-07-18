@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Indentured Spirit
+Status: WIP
 linter-yaml-title-alias: Indentured Spirit
 tags:
   - Monster/Größe/Mittelgroß

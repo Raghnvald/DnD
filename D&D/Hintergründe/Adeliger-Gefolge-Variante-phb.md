@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Adeliger (Gefolge) (Variante)
+Status: WIP
 linter-yaml-title-alias: Adeliger (Gefolge) (Variante)
 tags:
   - Kompendium/Hintergrund

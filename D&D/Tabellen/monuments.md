@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Monuments
+Status: WIP
 linter-yaml-title-alias: Monuments
 tags:
   - Quelle/5e/dmg

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Mist Stance
+Status: WIP
 linter-yaml-title-alias: Spells for Mist Stance
 tags:
-  - Zauber/list/optfeature/mist-stance
+  - Zauber/Liste/optfeature/mist-stance
 aliases:
   - Spells for Mist Stance
 ---

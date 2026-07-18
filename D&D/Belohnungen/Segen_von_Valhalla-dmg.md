@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Segen von Valhalla
+Status: WIP
 linter-yaml-title-alias: Segen von Valhalla
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/dmg
 aliases:
   - Blessing of Valhalla

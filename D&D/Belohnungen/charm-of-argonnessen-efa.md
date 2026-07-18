@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Charm of Argonnessen
+Status: WIP
 linter-yaml-title-alias: Charm of Argonnessen
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Charm of Argonnessen"
+  - Charm of Argonnessen
   - Charm of Argonnessen
 ---
 # Charm of Argonnessen

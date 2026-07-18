@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heal
+Status: WIP
 linter-yaml-title-alias: Heal
 classes:
   - Bard

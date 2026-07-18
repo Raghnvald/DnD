@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sekelok
+Status: WIP
 linter-yaml-title-alias: Sekelok
 tags:
   - Monster/Größe/Mittelgroß

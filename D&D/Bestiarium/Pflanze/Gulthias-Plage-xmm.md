@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gulthias Blight
+Status: WIP
 linter-yaml-title-alias: Gulthias Blight
 tags:
   - Monster/Größe/Gigantisch

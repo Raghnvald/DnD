@@ -1,14 +1,14 @@
 ---
 Bezeichnung: Adamantine Weapon
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Adamantine Weapon
 tags:
-  - Gegenstand/Ausrüstung/ammunition
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Kriegswaffe
@@ -52,6 +52,7 @@ aliases:
   - Adamantine Warhammer
   - Adamantine Weapon
   - Adamantine Whip
+status: WIP
 ---
 # Adamantine Weapon
 *Uncommon*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 8: Malbolge, the Realm of Decay"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: Malbolge, the Realm of Decay"
 tags:
   - Quelle/5e/coa

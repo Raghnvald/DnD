@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Create or Destroy Water
+Bezeichnung: Wasser erschaffen oder zerstören
 Zaubergrad: 1
-linter-yaml-title-alias: Create or Destroy Water
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Wasser erschaffen oder zerstören
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -10,14 +12,17 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Klasse/Kleriker
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
 aliases:
-  - Create or Destroy Water
+  - Wasser erschaffen oder zerstören
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
 ---
-# Create or Destroy Water
+# Wasser erschaffen oder zerstören
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 Action

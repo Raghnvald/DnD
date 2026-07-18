@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sharindlar
+Status: WIP
 linter-yaml-title-alias: Sharindlar
 tags:
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

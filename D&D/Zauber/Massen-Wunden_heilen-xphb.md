@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mass Cure Wounds
+Status: WIP
 linter-yaml-title-alias: Mass Cure Wounds
 classes:
   - Artificer (Battle Smith)
@@ -16,7 +17,7 @@ tags:
   - Klasse/Druide/circle-of-the-moon
   - Klasse/Druide/circle-of-wildfire
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Quelle/5e/xphb
   - Subklasse/battle-smith
   - Subklasse/divine-soul/good

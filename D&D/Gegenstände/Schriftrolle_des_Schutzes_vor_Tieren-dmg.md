@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Schriftrolle des Schutzes vor Tieren
 Kategorie: Schriftrolle
-status: completed
+Status: WIP
 linter-yaml-title-alias: Schriftrolle des Schutzes vor Tieren
 tags:
   - Gegenstand/Seltenheit/selten
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schriftrolle des Schutzes vor Tieren
+status: completed
 ---
 # Schriftrolle des Schutzes vor Tieren
 *Schriftrolle, selten*  

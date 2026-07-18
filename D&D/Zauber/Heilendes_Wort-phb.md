@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Healing Word
+Bezeichnung: Heilendes Wort
 Zaubergrad: 1
-linter-yaml-title-alias: Healing Word
+Zeitaufwand: 1 Bonusaktion
+Status: WIP
+linter-yaml-title-alias: Heilendes Wort
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -10,14 +12,17 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Klasse/Kleriker
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/1
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Healing Word
+  - Heilendes Wort
+Reichweite: 18 Meter
+Komponenten: V
+Wirkungsdauer: Unmittelbar
 ---
-# Healing Word
+# Heilendes Wort
 *1st-level, Evocation*  
 
 - **Casting time:** 1 Bonus Action

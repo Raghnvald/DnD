@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bestial Spirit (Land)
+Status: WIP
 linter-yaml-title-alias: Bestial Spirit (Land)
 tags:
   - Monster/Größe/Klein

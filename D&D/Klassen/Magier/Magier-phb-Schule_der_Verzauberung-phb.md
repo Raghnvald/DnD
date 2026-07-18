@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Enchantment
+Status: WIP
 linter-yaml-title-alias: School of Enchantment
 tags:
   - Klasse/Magier/enchantment

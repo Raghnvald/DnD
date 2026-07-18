@@ -3,7 +3,12 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blue Abishai
 Kategorie: Unhold
-image: token/blue-abishai-mpmm.webp
+Größe: Mittelgroß
+HG: "17"
+Habitat:
+  - Küste
+  - Wüste
+Status: WIP
 linter-yaml-title-alias: Blue Abishai
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,13 +21,9 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Blue Abishai
-Größe: Mittelgroß
-HG: "17"
-Habitat:
-  - Küste
-  - Wüste
-status: WIP
+image: token/blue-abishai-mpmm.webp
 IMAGE:
+status: WIP
 ---
 # [Blue Abishai](3-Mechanics\CLI\bestiary\fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39*  

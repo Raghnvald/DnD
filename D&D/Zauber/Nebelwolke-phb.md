@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Fog Cloud
+Bezeichnung: Nebelwolke
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: 36 Meter
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 1 Stunde
 Angriff:
 Schaden:
-linter-yaml-title-alias: Fog Cloud
+Status: WIP
+linter-yaml-title-alias: Nebelwolke
 classes:
   - Bard (Magical Secrets)
   - Cleric (Tempest Domain)
@@ -25,15 +26,15 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Zauber/Grad/1
   - Zauber/Schule/Beschwörung
 aliases:
-  - Fog Cloud
+  - Nebelwolke
 ---
-# Fog Cloud
+# Nebelwolke
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 Action

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heightened Spell
+Status: WIP
 linter-yaml-title-alias: Heightened Spell
 tags:
   - Kompendium/Optionales/mm

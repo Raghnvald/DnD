@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Speak with Plants
+Status: WIP
 linter-yaml-title-alias: Speak with Plants
 classes:
   - Bard

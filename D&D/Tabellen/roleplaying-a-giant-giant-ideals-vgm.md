@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Giant; Giant Ideals
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Giant; Giant Ideals
 tags:
   - Quelle/5e/vgm

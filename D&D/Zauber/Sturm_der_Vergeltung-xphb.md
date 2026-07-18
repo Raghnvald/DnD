@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storm of Vengeance
+Status: WIP
 linter-yaml-title-alias: Storm of Vengeance
 classes:
   - Bard

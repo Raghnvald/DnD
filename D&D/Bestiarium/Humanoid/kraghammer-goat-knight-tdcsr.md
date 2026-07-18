@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kraghammer Goat-Knight
+Status: WIP
 linter-yaml-title-alias: Kraghammer Goat-Knight
 tags:
   - Monster/Größe/Mittelgroß

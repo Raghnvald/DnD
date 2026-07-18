@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goristro
+Status: WIP
 linter-yaml-title-alias: Goristro
 tags:
   - Monster/Größe/Riesig

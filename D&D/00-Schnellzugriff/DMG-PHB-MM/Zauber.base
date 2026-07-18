@@ -34,7 +34,7 @@ views:
       property: Zaubergrad
       direction: ASC
     order:
-      - file.name
+      - formula.Bezeichnung
       - Zeitaufwand
       - Reichweite
       - Komponenten
@@ -44,9 +44,18 @@ views:
         direction: ASC
   - type: table
     name: Druide
+    filters:
+      and:
+        - file.tags.contains("Klasse/Druide")
     groupBy:
       property: Zaubergrad
       direction: ASC
+    order:
+      - formula.Bezeichnung
+      - Zeitaufwand
+      - Reichweite
+      - Komponenten
+      - Wirkungsdauer
     sort:
       - property: Bezeichnung
         direction: ASC

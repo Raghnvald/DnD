@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Chain Lightning
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Chain Lightning
 classes:
   - Bard (Magical Secrets)

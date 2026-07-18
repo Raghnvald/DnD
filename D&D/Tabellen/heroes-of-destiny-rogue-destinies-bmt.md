@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Heroes of Destiny; Rogue Destinies
+Status: WIP
 linter-yaml-title-alias: Heroes of Destiny; Rogue Destinies
 tags:
   - Quelle/5e/bmt

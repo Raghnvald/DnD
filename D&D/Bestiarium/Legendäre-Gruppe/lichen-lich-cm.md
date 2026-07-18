@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lichen Lich
+Status: WIP
 linter-yaml-title-alias: Lichen Lich
 tags:
   - Monster/legendary-group

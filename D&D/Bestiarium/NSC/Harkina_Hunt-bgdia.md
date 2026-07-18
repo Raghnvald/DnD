@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harkina Hunt
+Status: WIP
 linter-yaml-title-alias: Harkina Hunt
 tags:
   - Monster/Größe/Mittelgroß

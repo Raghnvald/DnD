@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sseth
+Status: WIP
 linter-yaml-title-alias: Sseth
 tags:
   - Kompendium/Götter/yuan-ti

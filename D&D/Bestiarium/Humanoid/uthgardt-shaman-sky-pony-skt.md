@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uthgardt Shaman (Sky Pony)
+Status: WIP
 linter-yaml-title-alias: Uthgardt Shaman (Sky Pony)
 tags:
   - Monster/Größe/Mittelgroß

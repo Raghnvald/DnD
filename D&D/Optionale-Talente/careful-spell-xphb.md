@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Careful Spell
+Status: WIP
 linter-yaml-title-alias: Careful Spell
 tags:
   - Kompendium/Optionales/mm

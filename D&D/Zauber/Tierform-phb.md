@@ -1,33 +1,39 @@
 ---
-Bezeichnung: Animal Shapes
+Bezeichnung: Tierform
+Original: Animal Shapes
 Zaubergrad: 8
-linter-yaml-title-alias: Animal Shapes
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G
+Wirkungsdauer: Konzentration, bis zu 24 Stunden
+Angriff: n/v
+Schaden: n/v
+Status: completed
+linter-yaml-title-alias: Tierform
 classes:
   - Bard (Magical Secrets)
   - Druid
 tags:
-  - Klasse/Barde/magical-secrets
+  - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Druide
   - Quelle/5e/phb
   - Zauber/Grad/8
   - Zauber/Schule/Verwandlung
 aliases:
-  - Animal Shapes
+  - Tierform
 ---
-# Animal Shapes
-*8th-level, Transmutation*  
+# Tierform
+*Verwandlung des 8. Grades*
 
-- **Casting time:** 1 Action
-- **Range:** 30 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 24 hours
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** 9 Meter
+- **Komponenten:** V, G
+- **Wirkungsdauer:** Konzentration, bis zu 24 Stunden
 
-Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.
+Deine Magie verwandelt andere in Tiere. Wähle eine beliebige Anzahl von bereitwilligen Kreaturen in Reichweite, die du sehen kannst. Du verleihst jedem Ziel die Gestalt eines Tieres der Größenkategorie groß oder kleiner mit Herausforderungsgrad 4 oder niedriger. Dabei kannst du für jedes Ziel eine eigene Gestalt bestimmen. In den folgenden Runden kannst du deine Aktion nutzen, um verwandelten Kreaturen eine andere Gestalt zu geben.
+$\quad$Die Verwandlung hält für jedes Ziel für die gesamte Wirkungsdauer an, endet aber, wenn die betroffene Kreatur auf 0 Trefferpunkte reduziert wird oder stirbt. Die Spielwerte des Ziels werden durch die des gewählten Tieres ersetzt, doch behält das Ziel seine Gesinnung sowie seine Werte in Intelligenz, Weisheit und Charisma. Die betroffene Kreatur erhält die Trefferpunkte ihrer neuen Gestalt. Nimmt das Ziel wieder seine ursprüngliche Form an, besitzt es die gleiche Anzahl von Trefferpunkten wie vor der Verwandlung. Findet die Rückverwandlung statt, weil das Ziel auf 0 Trefferpunkte reduziert wird, überträgt sich jeglicher überzähliger Schaden auf die normale Gestalt. Solange dieser überzählige Schaden die Trefferpunkte der Kreatur nicht auf 0 fallen lässt, wird sie nicht [[Zustände-phb#Bewusstlos|bewusstlos]]. Die Kreatur kann nur Aktionen durchführen, die in ihrer neuen Gestalt möglich sind. Sie kann weder sprechen noch Zauber wirken.
+$\quad$Die Ausrüstung des Ziels verschmilzt mit seiner neuen Gestalt. Die betroffene Kreatur kann keine Ausrüstung aktivieren, verwenden oder anderweitig nutzen.
 
-The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.
+**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md)
 
-The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
-
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
-
-*Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quellen: Spielerhandbuch S. 273. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

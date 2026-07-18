@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Shalfi Lewin
 Image: token/shalfi-lewin-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Shalfi Lewin
 tags:
   - Monster/Größe/Mittelgroß

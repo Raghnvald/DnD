@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darkmantle
+Status: WIP
 linter-yaml-title-alias: Darkmantle
 tags:
   - Monster/Größe/Klein

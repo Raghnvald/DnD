@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Grovelthrash
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Grovelthrash
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/egw
 aliases:
   - Grovelthrash
+status: WIP
+Original: Grovelthrash
 ---
 # Grovelthrash
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement)*  

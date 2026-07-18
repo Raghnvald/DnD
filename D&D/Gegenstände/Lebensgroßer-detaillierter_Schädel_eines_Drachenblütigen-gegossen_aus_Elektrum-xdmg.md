@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Detailed, life-sized dragonborn skull cast in electrum
 Kst.: 750 GM
+Status: WIP
 linter-yaml-title-alias: Detailed, life-sized dragonborn skull cast in electrum
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

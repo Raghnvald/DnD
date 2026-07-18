@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warship
+Status: WIP
 linter-yaml-title-alias: Warship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

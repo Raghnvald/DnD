@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Purphoros's Votary"
+Status: WIP
 linter-yaml-title-alias: "Purphoros's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

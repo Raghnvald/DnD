@@ -2,10 +2,10 @@
 Bezeichnung: Getreide
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 KM
 Gew.: 0,5 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Getreide
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Getreide
+Original: Wheat
 ---
 # Getreide
 *Handelsgut*  

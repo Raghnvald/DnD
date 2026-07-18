@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Telepathy
+Status: WIP
 linter-yaml-title-alias: Telepathy
 classes:
   - Bard

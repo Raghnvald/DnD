@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Metamagic Adept
+Status: WIP
 linter-yaml-title-alias: Metamagic Adept
 tags:
   - Kompendium/Talent

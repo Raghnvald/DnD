@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Bow of Conflagration
-Kategorie: Beliebig, Bogen
+Kategorie: Fernkampfwaffe, beliebiger Bogen
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
+  - n/v
+Einstimmung: erforderlich
+Original: Bow of Conflagration
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Bow of Conflagration
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Style, Ranger
+Status: WIP
 linter-yaml-title-alias: Fighting Style, Ranger
 tags:
   - Quelle/5e/phb

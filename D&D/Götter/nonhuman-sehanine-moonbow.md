@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sehanine Moonbow
+Status: WIP
 linter-yaml-title-alias: Sehanine Moonbow
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

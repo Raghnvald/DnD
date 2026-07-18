@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thri-kreen Psion
+Status: WIP
 linter-yaml-title-alias: Thri-kreen Psion
 tags:
   - Monster/Größe/Mittelgroß

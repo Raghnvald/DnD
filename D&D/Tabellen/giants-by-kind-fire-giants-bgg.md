@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Fire Giants
+Status: WIP
 linter-yaml-title-alias: Giants by Kind; Fire Giants
 tags:
   - Quelle/5e/bgg

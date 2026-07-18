@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Freedom of the Winds
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Freedom of the Winds
 classes:
   - Bard

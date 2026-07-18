@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Akadi
+Status: WIP
 linter-yaml-title-alias: Akadi
 tags:
-  - Kompendium/Götter/Domäne/tempest
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Akadi

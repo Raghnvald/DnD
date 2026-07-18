@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wolf
+Status: WIP
 linter-yaml-title-alias: Wolf
 tags:
   - Monster/Größe/Mittelgroß

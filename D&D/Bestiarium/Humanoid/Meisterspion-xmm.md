@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spy Master
+Status: WIP
 linter-yaml-title-alias: Spy Master
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

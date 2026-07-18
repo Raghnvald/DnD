@@ -1,5 +1,6 @@
 ---
 Bezeichnung: River of Hungry Flame
+Status: WIP
 linter-yaml-title-alias: River of Hungry Flame
 tags:
   - Kompendium/Optionales/ed

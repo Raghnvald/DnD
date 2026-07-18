@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Welcome to Leilon
+Status: WIP
 linter-yaml-title-alias: Welcome to Leilon
 tags:
   - Quelle/5e/sdw
 aliases:
-  - "Welcome to Leilon"
+  - Welcome to Leilon
   - Welcome to Leilon
 ---
 # Welcome to Leilon

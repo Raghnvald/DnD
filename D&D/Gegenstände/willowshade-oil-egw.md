@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Willowshade Oil
 Kst.: 30 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Willowshade Oil
 tags:
   - Gegenstand/Ausrüstung/
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Willowshade Oil
+status: WIP
 ---
 # Willowshade Oil
 *Adventuring gear*  

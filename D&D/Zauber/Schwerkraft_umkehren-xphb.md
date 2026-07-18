@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Reverse Gravity
+Status: WIP
 linter-yaml-title-alias: Reverse Gravity
 classes:
   - Bard

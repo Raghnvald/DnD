@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Assassin Vine
 Kategorie: Pflanze
 Größe: Groß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Assassin Vine
 tags:
   - Monster/Größe/Groß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Assassin Vine
+status: WIP
 ---
 # [Assassin Vine](3-Mechanics\CLI\bestiary\plant/assassin-vine-toa.md)
 *Source: Tomb of Annihilation p. 213*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Marketeering"
+Status: WIP
 linter-yaml-title-alias: "Downtime and Franchise Activity: Marketeering"
 tags:
   - Quelle/5e/ai

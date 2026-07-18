@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Archfey Patron
+Status: WIP
 linter-yaml-title-alias: Spells for Archfey Patron
 tags:
-  - Zauber/list/subclass/archfey-patron
+  - Zauber/Liste/subclass/archfey-patron
 aliases:
   - Spells for Archfey Patron
 ---

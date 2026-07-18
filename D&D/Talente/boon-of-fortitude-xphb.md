@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Fortitude
+Status: WIP
 linter-yaml-title-alias: Boon of Fortitude
 tags:
   - Kompendium/Talent

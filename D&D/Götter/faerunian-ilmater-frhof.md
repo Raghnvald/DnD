@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Ilmater
+Status: WIP
 linter-yaml-title-alias: Ilmater
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "He Who Endures"
-  - "Ilmater"
-  - "The Crying God"
-  - "The Rack-Broken Lord"
+  - He Who Endures
   - Ilmater
+  - Ilmater
+  - The Crying God
+  - The Rack-Broken Lord
 ---
 # Ilmater
 *Source: Forgotten Realms: Heroes of Faerûn p. 109* 

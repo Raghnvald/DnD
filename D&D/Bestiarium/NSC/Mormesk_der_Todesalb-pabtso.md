@@ -3,13 +3,12 @@ prefer-view: edit-source read
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mormesk der Todesalb
-Kategorie: Untot
+Kategorie: Untoter
 Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
-image: token/mormesk-the-wraith-pabtso.webp
-status:
+Status: WIP
 linter-yaml-title-alias: Mormesk der Todesalb
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Mormesk der Todesalb
   - Mormesk the Wraith
+image: token/mormesk-the-wraith-pabtso.webp
+status:
 ---
 # Mormesk der Todesalb
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 70*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tiefling (Infernal Legacy)
+Status: WIP
 linter-yaml-title-alias: Tiefling (Infernal Legacy)
 tags:
   - Quelle/5e/scag

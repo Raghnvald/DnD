@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Crafting a Magic Item"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Crafting a Magic Item"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Downtime Activity: Crafting a Magic Item"
-  - Downtime Activity: Crafting a Magic Item
 ---
 # Downtime Activity: Crafting a Magic Item
 *Source: Dungeon Master's Guide* 

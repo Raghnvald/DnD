@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Horncaller
+Status: WIP
 linter-yaml-title-alias: Horncaller
 tags:
   - Monster/Größe/Mittelgroß

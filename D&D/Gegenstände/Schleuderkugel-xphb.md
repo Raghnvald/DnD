@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sling Bullet
+Status: WIP
 linter-yaml-title-alias: Sling Bullet
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xphb
 aliases:

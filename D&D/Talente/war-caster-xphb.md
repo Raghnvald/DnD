@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Caster
+Status: WIP
 linter-yaml-title-alias: War Caster
 tags:
   - Kompendium/Talent

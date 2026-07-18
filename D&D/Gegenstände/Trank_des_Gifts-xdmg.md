@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Poison
+Status: WIP
 linter-yaml-title-alias: Potion of Poison
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

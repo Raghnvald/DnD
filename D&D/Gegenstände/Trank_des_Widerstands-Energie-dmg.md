@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Potion of Force Resistance
 Kategorie: Trank
+Status: WIP
 linter-yaml-title-alias: Potion of Force Resistance
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

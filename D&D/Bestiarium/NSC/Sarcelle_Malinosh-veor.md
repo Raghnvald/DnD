@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sarcelle Malinosh
+Original: Sarcelle Malinosh
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 6
 Habitat:
   - /
-image: token/sarcelle-malinosh-veor.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Sarcelle Malinosh
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Sarcelle Malinosh
+image: token/sarcelle-malinosh-veor.webp
 ---
 # Sarcelle Malinosh
 *Quelle: Vecna: Vorabend der Verdammnis*  

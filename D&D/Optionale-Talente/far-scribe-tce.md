@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Far Scribe
+Status: WIP
 linter-yaml-title-alias: Far Scribe
 tags:
   - Kompendium/Optionales/ei

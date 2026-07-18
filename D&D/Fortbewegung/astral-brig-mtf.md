@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Astral Brig
+Status: WIP
 linter-yaml-title-alias: Astral Brig
 tags:
-  - Gegenstand/Fortbewegung/size/gargantuan
-  - Gegenstand/Fortbewegung/terrain/air
-  - Gegenstand/Fortbewegung/type/ship
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
+  - Gegenstand/Fortbewegung/Gelände/Luft
+  - Gegenstand/Fortbewegung/Kategorie/Schiff
   - Quelle/5e/mtf
 aliases:
   - Astral Brig

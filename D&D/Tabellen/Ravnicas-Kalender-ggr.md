@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Ravnica's Calendar"
+Status: WIP
 linter-yaml-title-alias: "Ravnica's Calendar"
 tags:
   - Quelle/5e/ggr
 aliases:
   - "Ravnica's Calendar"
-  - Ravnica's Calendar
 ---
 # Ravnica's Calendar
 *Source: Guildmasters' Guide to Ravnica p. 7* 

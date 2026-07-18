@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Hero
+Status: WIP
 linter-yaml-title-alias: Folk Hero
 tags:
   - Kompendium/Hintergrund

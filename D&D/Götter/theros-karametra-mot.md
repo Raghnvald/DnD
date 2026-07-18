@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Karametra
+Status: WIP
 linter-yaml-title-alias: Karametra
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - "Karametra"
+  - Karametra
   - Karametra
 ---
 # Karametra

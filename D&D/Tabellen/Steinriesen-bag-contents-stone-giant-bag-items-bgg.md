@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stone Giant Bag Contents; Stone Giant Bag Items
+Status: WIP
 linter-yaml-title-alias: Stone Giant Bag Contents; Stone Giant Bag Items
 tags:
   - Quelle/5e/bgg

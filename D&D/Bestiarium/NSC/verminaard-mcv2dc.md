@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Verminaard
+Status: WIP
 linter-yaml-title-alias: Verminaard
 tags:
   - Monster/Größe/Mittelgroß

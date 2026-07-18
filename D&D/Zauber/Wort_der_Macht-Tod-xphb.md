@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Power Word Kill
+Status: WIP
 linter-yaml-title-alias: Power Word Kill
 classes:
   - Bard

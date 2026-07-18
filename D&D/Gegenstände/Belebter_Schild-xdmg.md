@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Animated Shield
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: Animated Shield
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg

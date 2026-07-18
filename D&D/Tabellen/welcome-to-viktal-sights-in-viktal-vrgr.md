@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Welcome to Viktal; Sights in Viktal
+Status: WIP
 linter-yaml-title-alias: Welcome to Viktal; Sights in Viktal
 tags:
   - Quelle/5e/vrgr

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Bloodlust
+Status: WIP
 linter-yaml-title-alias: Bloodlust
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Bloodlust"
+  - Bloodlust
   - Bloodlust
 ---
 # Bloodlust

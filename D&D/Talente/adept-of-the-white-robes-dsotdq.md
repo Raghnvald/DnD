@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Adept of the White Robes
+Status: WIP
 linter-yaml-title-alias: Adept of the White Robes
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
-  - "Adept of the White Robes"
+  - Adept of the White Robes
   - Adept of the White Robes
 ---
 # Adept of the White Robes

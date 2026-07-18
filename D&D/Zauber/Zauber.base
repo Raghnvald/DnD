@@ -14,11 +14,15 @@ views:
     filters:
       and:
         - file.folder == "D&D/Zauber"
+        - '!file.fullname.contains("xphb")'
     order:
       - file.name
-      - aliases
+      - Bezeichnung
+      - Status
     sort:
-      - property: aliases
-        direction: ASC
       - property: file.name
+        direction: ASC
+      - property: formula.Untitled
+        direction: ASC
+      - property: aliases
         direction: ASC

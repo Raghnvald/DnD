@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gideon Lightward
+Status: WIP
 linter-yaml-title-alias: Gideon Lightward
 tags:
   - Monster/Größe/Mittelgroß

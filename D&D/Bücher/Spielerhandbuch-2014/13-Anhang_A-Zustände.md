@@ -1,18 +1,34 @@
 ---
-Bezeichnung: Conditions
+Bezeichnung: Zustände
+Status: completed
 linter-yaml-title-alias: Conditions
 tags:
   - Quelle/5e/phb
 aliases:
   - Conditions
 ---
-# Conditions
-*Source: Player's Handbook (2014), p. 289* 
+# Zustände
+*Quelle: Spielerhandbuch (2014), S. 289*
 
-Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as [blinded](/3-Mechanics/CLI/conditions.md#Blinded), are impairments, but a few, such as [invisible](/3-Mechanics/CLI/conditions.md#Invisible), can be advantageous.
+Zustände ändern die Fähigkeiten einer Kreatur auf verschiedene Arten und können die Folge von Zaubern, Klassenmerkmalen, Monsterangriffen oder anderen Effekten sein. Die meisten Zustände, wie [[Zustände-phb#Blind|blind]], beschreiben Einschränkungen, aber einige, wie [[Zustände-phb#Unsichtbar|unsichtbar]], können nützlich sein. Ein Zustand hält entweder an, bis er aufgehoben wird (der Zustand [[Zustände-phb#Liegend|liegend]] beispielsweise endet, indem du aufstehst), oder für eine Wirkungsdauer, die durch seinen Auslöser bestimmt wird.
 
-A condition lasts either until it is countered (the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+Wenn mehrere Effekte einer Kreatur den gleichen Zustand auferlegen, besitzt jede Version des Zustands ihre eigene Wirkungsdauer, doch werden die Auswirkungen des Zustands nicht schlimmer. Eine Kreatur hat einen Zustand entweder oder hat ihn nicht. Die folgenden Beschreibungen legen fest, was passiert, wenn eine Kreatur einen Zustand erhält.
 
-If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+Für eine vollständige Liste aller Zustände bitte die entsprechende Seite öffnen.
+Die Zustände sind:
 
-For a full list of the conditions, see the conditions page. The conditions are:- [blinded](/3-Mechanics/CLI/conditions.md#Blinded)  - [charmed](/3-Mechanics/CLI/conditions.md#Charmed)  - [deafened](/3-Mechanics/CLI/conditions.md#Deafened)  - [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)  - [frightened](/3-Mechanics/CLI/conditions.md#Frightened)  - [grappled](/3-Mechanics/CLI/conditions.md#Grappled)  - [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)  - [invisible](/3-Mechanics/CLI/conditions.md#Invisible)  - [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)  - [petrified](/3-Mechanics/CLI/conditions.md#Petrified)  - [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)  - [prone](/3-Mechanics/CLI/conditions.md#Prone)  - [restrained](/3-Mechanics/CLI/conditions.md#Restrained)  - [stunned](/3-Mechanics/CLI/conditions.md#Stunned)  - [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)
+- [[Zustände-phb#Betäubt|Betäubt]]
+- [[Zustände-phb#Bewusstlos|Bewusstlos]]
+- [[Zustände-phb#Bezaubert|Bezaubert]]
+- [[Zustände-phb#Blind|Blind]]
+- [[Zustände-phb#Erschöpfung|Erschöpft]]
+- [[Zustände-phb#Festgesetzt|Festgesetzt]]
+- [[Zustände-phb#Gelähmt|Gelähmt]]
+- [[Zustände-phb#Gepackt|Gepackt]]
+- [[Zustände-phb#Kampfunfähig|Kampfunfähig]]
+- [[Zustände-phb#Liegend|Liegend]]
+- [[Zustände-phb#Taub|Taub]]
+- [[Zustände-phb#Unsichtbar|Unsichtbar]]
+- [[Zustände-phb#Verängstigt|Verängstigt]]
+- [[Zustände-phb#Vergiftet|Vergiftet]]
+- [[Zustände-phb#Versteinert|Versteinert]]

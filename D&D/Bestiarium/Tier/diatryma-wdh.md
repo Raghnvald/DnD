@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Diatryma
+Status: WIP
 linter-yaml-title-alias: Diatryma
 tags:
   - Monster/Größe/Groß

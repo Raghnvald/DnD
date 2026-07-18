@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Speed
+Status: WIP
 linter-yaml-title-alias: Potion of Speed
 tags:
   - Gegenstand/Seltenheit/sehr_selten

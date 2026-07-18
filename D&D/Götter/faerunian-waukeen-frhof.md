@@ -1,14 +1,15 @@
 ---
 Bezeichnung: Waukeen
+Status: WIP
 linter-yaml-title-alias: Waukeen
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Our Lady of Gold"
-  - "The Coinmaiden"
   - "The Merchant's Friend"
-  - "Waukeen"
+  - Our Lady of Gold
+  - The Coinmaiden
+  - Waukeen
   - Waukeen
 ---
 # Waukeen

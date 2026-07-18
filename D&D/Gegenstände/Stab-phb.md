@@ -3,10 +3,10 @@ Bezeichnung: Stab
 Kategorie: Fokus, Arkan
 Schaden: 1W6 Wucht
 Eigenschaften:
-  - Vielseitig
+  - Vielseitig (1W8)
 Kst.: 5 GM
 Gew.: 2,0 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Stab
 tags:
   - Gegenstand/Ausrüstung

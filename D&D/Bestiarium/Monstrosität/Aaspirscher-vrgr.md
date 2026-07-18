@@ -8,7 +8,7 @@ HG: 3
 Habitat:
   - /
 Image: token/carrion-stalker-vrgr.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Carrion Stalker
 tags:
   - Monster/Größe/Winzig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Carrion Stalker
+status: WIP
 ---
 # [Carrion Stalker](3-Mechanics\CLI\bestiary\monstrosity/carrion-stalker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 230*  

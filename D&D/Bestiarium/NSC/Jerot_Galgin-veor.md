@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jerot Galgin
+Original: Jerot Galgin
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 9
 Habitat:
   - /
-image: token/jerot-galgin-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Jerot Galgin
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Jerot Galgin
+image: token/jerot-galgin-veor.webp
 ---
 # Jerot Galgin
 *Quelle: Vecna: Vorabend der Verdammnis*  

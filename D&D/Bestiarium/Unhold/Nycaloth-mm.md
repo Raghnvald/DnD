@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nycaloth
+Status: WIP
 linter-yaml-title-alias: Nycaloth
 tags:
   - Monster/Größe/Groß

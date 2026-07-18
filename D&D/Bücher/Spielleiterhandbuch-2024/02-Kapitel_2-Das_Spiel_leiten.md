@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Running the Game"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Running the Game"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Chapter 2: Running the Game"
-  - Chapter 2: Running the Game
 ---
 # Chapter 2: Running the Game
 *Source: Dungeon Master's Guide (2024), p. 21* 

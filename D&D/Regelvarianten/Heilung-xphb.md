@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Healing
+Status: WIP
 linter-yaml-title-alias: Healing
 tags:
   - Quelle/5e/xphb

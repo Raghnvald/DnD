@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Oath of the Ancients
+Status: WIP
 linter-yaml-title-alias: Spells for Oath of the Ancients
 tags:
-  - Zauber/list/subclass/oath-of-the-ancients
+  - Zauber/Liste/subclass/oath-of-the-ancients
 aliases:
   - Spells for Oath of the Ancients
 ---

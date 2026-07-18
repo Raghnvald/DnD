@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knight of the Black Sword
+Status: WIP
 linter-yaml-title-alias: Knight of the Black Sword
 tags:
   - Monster/Größe/Mittelgroß

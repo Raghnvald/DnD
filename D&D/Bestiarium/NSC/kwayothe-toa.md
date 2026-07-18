@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kwayothé
+Status: WIP
 linter-yaml-title-alias: Kwayothé
 tags:
   - Monster/Größe/Mittelgroß

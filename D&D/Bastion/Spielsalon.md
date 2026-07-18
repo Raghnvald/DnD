@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gaming Hall
+Status: WIP
 linter-yaml-title-alias: Gaming Hall
 tags:
   - Kompendium/Bastion

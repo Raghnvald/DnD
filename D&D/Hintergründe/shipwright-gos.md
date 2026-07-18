@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shipwright
+Status: WIP
 linter-yaml-title-alias: Shipwright
 tags:
   - Kompendium/Hintergrund

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 16: Mission to Thay"
+Status: WIP
 linter-yaml-title-alias: "Chapter 16: Mission to Thay"
 tags:
   - Quelle/5e/rot
 aliases:
   - "Chapter 16: Mission to Thay"
-  - Chapter 16: Mission to Thay
 ---
 # Chapter 16: Mission to Thay
 *Source: Rise of Tiamat, p. 161* 

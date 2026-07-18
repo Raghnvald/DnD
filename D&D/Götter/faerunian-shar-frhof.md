@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Shar
+Status: WIP
 linter-yaml-title-alias: Shar
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Our Lady of Loss"
-  - "Shar"
-  - "The Dark Lady"
-  - "The Mistress of the Night"
+  - Our Lady of Loss
   - Shar
+  - Shar
+  - The Dark Lady
+  - The Mistress of the Night
 ---
 # Shar
 *Source: Forgotten Realms: Heroes of Faerûn p. 120* 

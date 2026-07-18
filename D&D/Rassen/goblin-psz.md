@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Goblin
+Status: WIP
 linter-yaml-title-alias: Goblin
 tags:
   - Quelle/5e/psz
   - Rasse/goblin
 aliases:
-  - "Goblin"
+  - Goblin
   - Goblin
 ---
 # Goblin

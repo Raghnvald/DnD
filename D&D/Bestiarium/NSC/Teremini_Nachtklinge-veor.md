@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 12
 Habitat:
   - /
-image: token/teremini-nightsedge-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Teremini Nightsedge
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Teremini Nightsedge
+image: token/teremini-nightsedge-veor.webp
+status: WIP
 ---
 # [Teremini Nightsedge](3-Mechanics\CLI\bestiary\npc/teremini-nightsedge-veor.md)
 *Source: Vecna: Eve of Ruin*  

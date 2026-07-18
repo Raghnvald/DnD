@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Bewitching Whispers
+Status: WIP
 linter-yaml-title-alias: Spells for Bewitching Whispers
 tags:
-  - Zauber/list/optfeature/bewitching-whispers
+  - Zauber/Liste/optfeature/bewitching-whispers
 aliases:
   - Spells for Bewitching Whispers
 ---

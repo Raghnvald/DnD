@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merfolk Wavebender
+Status: WIP
 linter-yaml-title-alias: Merfolk Wavebender
 tags:
   - Monster/Größe/Mittelgroß

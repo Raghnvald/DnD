@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 10
 Habitat:
   - Unterreich
-image: token/alhoon-mpmm.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Alhoon
 tags:
   - Monster/Größe/Mittelgroß
@@ -20,6 +19,8 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Alhoon
+image: token/alhoon-mpmm.webp
+status: WIP
 ---
 # [Alhoon](3-Mechanics\CLI\bestiary\undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  

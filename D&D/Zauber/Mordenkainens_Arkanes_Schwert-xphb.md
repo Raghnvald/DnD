@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Mordenkainen's Sword"
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Sword"
 classes:
   - Bard

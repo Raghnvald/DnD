@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Feonor
+Status: WIP
 linter-yaml-title-alias: Feonor
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Re-Horakhty
+Status: WIP
 linter-yaml-title-alias: Re-Horakhty
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

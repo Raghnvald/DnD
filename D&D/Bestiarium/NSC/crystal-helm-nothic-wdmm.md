@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Crystal Helm Nothic
+Status: WIP
 linter-yaml-title-alias: Crystal Helm Nothic
 tags:
   - Monster/Größe/Mittelgroß

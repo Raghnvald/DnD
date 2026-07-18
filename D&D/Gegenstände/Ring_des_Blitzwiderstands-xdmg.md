@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ring of Lightning Resistance
+Status: WIP
 linter-yaml-title-alias: Ring of Lightning Resistance
 tags:
   - Gegenstand/Seltenheit/selten

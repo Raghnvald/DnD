@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 1/2
 Habitat:
   - Wald
-image: token/ape.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ape
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Ape
+image: token/ape.webp
+status: WIP
 ---
 # [Ape](3-Mechanics\CLI\bestiary\beast/ape.md)
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

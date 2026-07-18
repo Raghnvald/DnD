@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pirate Admiral
+Status: WIP
 linter-yaml-title-alias: Pirate Admiral
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

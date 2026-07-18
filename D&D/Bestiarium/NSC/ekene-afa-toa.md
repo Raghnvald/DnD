@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ekene-Afa
+Status: WIP
 linter-yaml-title-alias: Ekene-Afa
 tags:
   - Monster/Größe/Mittelgroß

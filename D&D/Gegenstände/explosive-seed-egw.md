@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Explosive Seed
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Explosive Seed
 tags:
   - Gegenstand/Ausrüstung/
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Explosive Seed
+status: WIP
 ---
 # Explosive Seed
 *Adventuring gear*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resistant Armor
+Status: WIP
 linter-yaml-title-alias: Resistant Armor
 tags:
   - Kompendium/Optionales/ai

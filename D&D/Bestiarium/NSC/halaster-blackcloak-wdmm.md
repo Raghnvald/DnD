@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Halaster Blackcloak
+Status: WIP
 linter-yaml-title-alias: Halaster Blackcloak
 tags:
   - Monster/Größe/Mittelgroß

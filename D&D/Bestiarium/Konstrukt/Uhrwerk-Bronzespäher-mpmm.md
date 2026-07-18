@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clockwork Bronze Scout
+Status: WIP
 linter-yaml-title-alias: Clockwork Bronze Scout
 tags:
   - Monster/Größe/Mittelgroß

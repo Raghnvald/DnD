@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vistana Spy
+Status: WIP
 linter-yaml-title-alias: Vistana Spy
 tags:
   - Monster/Größe/Mittelgroß

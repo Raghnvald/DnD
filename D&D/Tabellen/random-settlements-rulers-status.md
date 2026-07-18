@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Random Settlements; Ruler's Status"
+Status: WIP
 linter-yaml-title-alias: "Random Settlements; Ruler's Status"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Random Settlements; Ruler's Status"
-  - Random Settlements; Ruler's Status
 ---
 # Random Settlements; Ruler's Status
 *Source: Dungeon Master's Guide p. 112* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fenthaza
+Status: WIP
 linter-yaml-title-alias: Fenthaza
 tags:
   - Monster/Größe/Mittelgroß

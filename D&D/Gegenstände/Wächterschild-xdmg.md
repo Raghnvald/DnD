@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sentinel Shield
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: Sentinel Shield
 tags:
   - Gegenstand/Rüstung/Schild/

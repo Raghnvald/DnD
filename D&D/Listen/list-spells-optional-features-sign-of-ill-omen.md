@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Sign of Ill Omen
+Status: WIP
 linter-yaml-title-alias: Spells for Sign of Ill Omen
 tags:
-  - Zauber/list/optfeature/sign-of-ill-omen
+  - Zauber/Liste/optfeature/sign-of-ill-omen
 aliases:
   - Spells for Sign of Ill Omen
 ---

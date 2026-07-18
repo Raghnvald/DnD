@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Rod of Lordly Might
+Status: WIP
 linter-yaml-title-alias: Rod of Lordly Might
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Rute
   - Quelle/5e/xdmg

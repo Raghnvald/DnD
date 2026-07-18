@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Urgala Meltimer
+Status: WIP
 linter-yaml-title-alias: Urgala Meltimer
 tags:
   - Monster/Größe/Mittelgroß

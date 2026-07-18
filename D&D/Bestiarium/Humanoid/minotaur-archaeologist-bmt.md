@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Minotaur Archaeologist
+Status: WIP
 linter-yaml-title-alias: Minotaur Archaeologist
 tags:
   - Monster/Größe/Mittelgroß

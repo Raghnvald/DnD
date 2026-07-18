@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: The Multiverse"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: The Multiverse"
 tags:
   - Quelle/5e/xphb
 aliases:
   - "Appendix A: The Multiverse"
-  - Appendix A: The Multiverse
 ---
 # Appendix A: The Multiverse
 *Source: Player's Handbook (2024), p. 344* 

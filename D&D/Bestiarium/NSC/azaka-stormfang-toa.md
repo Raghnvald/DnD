@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Azaka Stormfang
+Status: WIP
 linter-yaml-title-alias: Azaka Stormfang
 tags:
   - Monster/Größe/Mittelgroß

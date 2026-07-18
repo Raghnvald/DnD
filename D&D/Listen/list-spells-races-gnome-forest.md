@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Gnome (Forest)
+Status: WIP
 linter-yaml-title-alias: Spells for Gnome (Forest)
 tags:
-  - Zauber/list/subrace/gnome-forest
+  - Zauber/Liste/subrace/gnome-forest
 aliases:
   - Spells for Gnome (Forest)
 ---

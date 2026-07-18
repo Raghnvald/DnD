@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Size
+Status: WIP
 linter-yaml-title-alias: Size
 tags:
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Meld into Stone
+Status: WIP
 linter-yaml-title-alias: Meld into Stone
 classes:
   - Bard

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Sigil
+Status: WIP
 linter-yaml-title-alias: Sigil
 tags:
   - Quelle/5e/hffotm
 aliases:
-  - "Sigil"
+  - Sigil
   - Sigil
 ---
 # Sigil

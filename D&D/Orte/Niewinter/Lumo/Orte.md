@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tavernen & Gasthäuser
+Status: WIP
 linter-yaml-title-alias: Tavernen & Gasthäuser
 aliases:
   - Tavernen & Gasthäuser

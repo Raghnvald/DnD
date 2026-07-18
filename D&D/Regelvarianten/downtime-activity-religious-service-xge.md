@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Religious Service"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Religious Service"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Religious Service"
-  - Downtime Activity: Religious Service
 ---
 # Downtime Activity: Religious Service
 *Source: Xanathar's Guide to Everything p. 131* 

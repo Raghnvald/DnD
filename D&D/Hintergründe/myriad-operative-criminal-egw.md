@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Myriad Operative (Criminal)
+Status: WIP
 linter-yaml-title-alias: Myriad Operative (Criminal)
 tags:
   - Kompendium/Hintergrund

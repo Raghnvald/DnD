@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Avernus"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Avernus"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Chapter 3: Avernus"
-  - Chapter 3: Avernus
 ---
 # Chapter 3: Avernus
 *Source: Baldur's Gate: Descent Into Avernus, p. 74* 

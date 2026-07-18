@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Honna
 Image: token/honna-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Honna
 tags:
   - Monster/Größe/Mittelgroß

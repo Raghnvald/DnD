@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Seahorse
+Status: WIP
 linter-yaml-title-alias: Giant Seahorse
 tags:
   - Monster/Größe/Groß

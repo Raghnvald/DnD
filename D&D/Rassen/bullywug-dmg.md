@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bullywug
+Status: WIP
 linter-yaml-title-alias: Bullywug
 tags:
   - Quelle/5e/dmg

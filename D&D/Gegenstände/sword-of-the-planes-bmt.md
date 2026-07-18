@@ -1,9 +1,14 @@
 ---
 Bezeichnung: Sword of the Planes
-Kategorie: Nahkampf-Kriegswaffe (beliebiges Schwert)
+Original: Sword of the Planes
+Kategorie: Nahkampfwaffe, beliebiges Schwert
+Eigenschaften:
+  - variiert
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Sword of the Planes
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -17,6 +22,8 @@ aliases:
   - Scimitar of the Planes
   - Shortsword of the Planes
   - Sword of the Planes
+Kst.: n/v
+Gew.: variiert
 ---
 # Sword of the Planes
 *Legendary (requires attunement)*  
@@ -30,50 +37,50 @@ You can specify a target destination, such as the City of Brass on the Elemental
 
 Anything that enters the rift is instantly transported to the other plane, appearing in the unoccupied space nearest to the rift.
 
-**Variants**:
-- [Double-Bladed Scimitar of the Planes](#Double-Bladed%20Scimitar%20of%20the%20Planes)
-- [Greatsword of the Planes](#Greatsword%20of%20the%20Planes)
-- [Longsword of the Planes](#Longsword%20of%20the%20Planes)
-- [Rapier of the Planes](#Rapier%20of%20the%20Planes)
-- [Scimitar of the Planes](#Scimitar%20of%20the%20Planes)
-- [Shortsword of the Planes](#Shortsword%20of%20the%20Planes)
+**Varianten**:
+- [[#Krummsäbel der Ebenen]]
+- [[#Kurzschwert der Ebenen]]
+- [[#Langschwert der Ebenen]]
+- [[#Rapier der Ebenen]]
+- [[#Zweihandschwert der Ebenen]]
+- [[#Zweiklingiger Krummsäbel der Ebenen]]
 
-### Double-Bladed Scimitar of the Planes
+### Krummsäbel der Ebenen
 
-- **Damage**: 2d4 slashing
-- **Properties**: Two-Handed, special
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Hieb
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,5 kg
 
-### Greatsword of the Planes
+### Kurzschwert der Ebenen
 
-- **Damage**: 2d6 slashing
-- **Properties**: Heavy, Two-Handed
-- **Weight**: 6.0 lbs.
+- **Schaden**: 1W6 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse), [Leicht](Gegenstandseigenschaften-phb#Leicht)
+- **Gewicht**: 1,0 kg
 
-### Longsword of the Planes
+### Langschwert der Ebenen
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: Versatile
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-### Rapier of the Planes
+### Rapier der Ebenen
 
-- **Damage**: 1d8 piercing
-- **Properties**: Finesse
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1W8 Stich
+- **Eigenschaften**: [Finesse](Gegenstandseigenschaften-phb#Finesse)
+- **Gewicht**: 1,0 kg
 
-### Scimitar of the Planes
+### Zweihandschwert der Ebenen
 
-- **Damage**: 1d6 slashing
-- **Properties**: Finesse, Light
-- **Weight**: 3.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Schwer|Schwer]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
-### Shortsword of the Planes
+### Zweiklingiger Krummsäbel der Ebenen
 
-- **Damage**: 1d6 piercing
-- **Properties**: Finesse, Light
-- **Weight**: 2.0 lbs.
+- **Schaden**: 2W6 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Spezielle Waffen|Speziell]], [[Gegenstandseigenschaften-phb#Zweihändig|Zweihändig]]
+- **Gewicht**: 3,0 kg
 
 *Source: The Book of Many Things p. 68*

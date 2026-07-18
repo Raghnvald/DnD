@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Order's Resilience"
+Status: WIP
 linter-yaml-title-alias: "Order's Resilience"
 tags:
   - Kompendium/Talent

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Misty Escape
+Status: WIP
 linter-yaml-title-alias: Boon of Misty Escape
 tags:
   - Kompendium/Talent
   - Quelle/5e/abh
 aliases:
-  - "Boon of Misty Escape"
+  - Boon of Misty Escape
   - Boon of Misty Escape
 ---
 # Boon of Misty Escape

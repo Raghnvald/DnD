@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Giftmischer
-linter-yaml-title-alias: Poisoner
+Status: WIP
+linter-yaml-title-alias: Giftmischer
 tags:
   - Kompendium/Talent
   - Quelle/5e/tce
 aliases:
-  - Poisoner
+  - Giftmischer
 ---
 # Giftmischer
 Source: Tasha's Cauldron of Everything p. 79*  

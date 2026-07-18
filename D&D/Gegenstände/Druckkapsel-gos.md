@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Druckkapsel
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Druckkapsel
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scharlatan
+Status: WIP
 linter-yaml-title-alias: Scharlatan
 tags:
   - Kompendium/Hintergrund

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Minotaur Living Crystal Statue
+Status: WIP
 linter-yaml-title-alias: Minotaur Living Crystal Statue
 tags:
   - Monster/Größe/Groß

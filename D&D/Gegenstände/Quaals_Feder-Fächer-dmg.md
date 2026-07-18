@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Fan"
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token, Fan"
 tags:
   - Gegenstand/Seltenheit/selten

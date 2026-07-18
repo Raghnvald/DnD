@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grandolpha Muzgardt
+Status: WIP
 linter-yaml-title-alias: Grandolpha Muzgardt
 tags:
   - Monster/Größe/Mittelgroß

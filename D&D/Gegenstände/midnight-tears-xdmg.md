@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Midnight Tears
+Status: WIP
 linter-yaml-title-alias: Midnight Tears
 tags:
   - Gegenstand/Ausrüstung/

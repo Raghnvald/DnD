@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hirelings
+Status: WIP
 linter-yaml-title-alias: Hirelings
 tags:
   - Quelle/5e/xphb

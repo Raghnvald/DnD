@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: 13
 Habitat:
   - Stadt
-image:
-status: completed
+Status: WIP
 linter-yaml-title-alias: Vampir
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +17,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Vampir
+image:
+status: completed
 ---
 # Vampir
 *Quelle: Monsterhandbuch S. 294. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*  

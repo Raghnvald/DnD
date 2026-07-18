@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Beast
+Status: WIP
 linter-yaml-title-alias: Index of Beast
 aliases:
   - Index of Beast

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rock Gnome Recluse
+Status: WIP
 linter-yaml-title-alias: Rock Gnome Recluse
 tags:
   - Monster/Größe/Klein

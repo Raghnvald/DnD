@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Preparing Spells; Spell Preparation by Class
+Status: WIP
 linter-yaml-title-alias: Preparing Spells; Spell Preparation by Class
 tags:
   - Quelle/5e/xphb

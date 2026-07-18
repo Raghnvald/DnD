@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Farmer
+Status: WIP
 linter-yaml-title-alias: Farmer
 tags:
   - Monster/Größe/Mittelgroß

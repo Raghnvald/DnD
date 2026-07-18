@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: Old Bonegrinder"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Old Bonegrinder"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 6: Old Bonegrinder"
-  - Chapter 6: Old Bonegrinder
 ---
 # Chapter 6: Old Bonegrinder
 *Source: Curse of Strahd, p. 125* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thief
+Status: WIP
 linter-yaml-title-alias: Thief
 tags:
   - Klasse/Schurke/Dieb
@@ -44,11 +45,11 @@ aliases:
 
 ## Class Features
 
-### Thief (Level 3)
+### Dieb (Stufe 3)
 
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
 
-### Fast Hands (Level 3)
+### Flinke Finger (Stufe 3)
 
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check, use your [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md) to disarm a trap or open a lock, or take the [Use an Object](/3-Mechanics/CLI/actions.md#Use%20an%20Object) action.
 

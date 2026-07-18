@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Unearned Riches
+Status: WIP
 linter-yaml-title-alias: Blessing of Unearned Riches
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/bmt
 aliases:
   - Blessing of Unearned Riches

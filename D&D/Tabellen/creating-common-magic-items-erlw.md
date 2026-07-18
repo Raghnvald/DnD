@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating Common Magic Items
+Status: WIP
 linter-yaml-title-alias: Creating Common Magic Items
 tags:
   - Quelle/5e/erlw

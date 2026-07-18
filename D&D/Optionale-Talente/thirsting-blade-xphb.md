@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Thirsting Blade
+Status: WIP
 linter-yaml-title-alias: Thirsting Blade
 tags:
   - Kompendium/Optionales/ei

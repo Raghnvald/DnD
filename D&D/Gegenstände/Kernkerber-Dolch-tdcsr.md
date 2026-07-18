@@ -1,22 +1,28 @@
 ---
-Bezeichnung: Corecut Dagger
-Kategorie: Einfache Nahkampfwaffe
+Bezeichnung: Kernkerber-Dolch
+Kategorie: Nahkampfwaffe, einfach
 Eigenschaften:
-  - Finesse, Leicht, Verflucht, Wurfwaffe
-Einstimmung: erfordert
-Kst.: /
+  - Finesse
+  - Leicht
+  - Verflucht
+  - Wurfwaffe
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 0,5 kg
-linter-yaml-title-alias: Corecut Dagger
+Status: WIP
+linter-yaml-title-alias: Kernkerber-Dolch
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Corecut Dagger
+  - Kernkerber-Dolch
+status: WIP
+Original: Corecut Dagger
 ---
-# Corecut Dagger
+# Kernkerber-Dolch
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), cursed item, very rare (requires attunement)*  
 
 - **Damage**: 1d4 piercing

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Speak with Dead
+Status: WIP
 linter-yaml-title-alias: Speak with Dead
 classes:
   - Bard
@@ -15,7 +16,7 @@ tags:
   - Klasse/Barde
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fayn_Inventar
+Status: WIP
 ---
 # Fayn\_Inventar
 | Aktiv                             | Name                                                | Gewicht                              | Menge | Kosten (GM) | Notizen                                                                 |

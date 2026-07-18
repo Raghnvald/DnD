@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "New Action: Breath Weapon"
+Status: WIP
 linter-yaml-title-alias: "New Action: Breath Weapon"
 tags:
   - Quelle/5e/mm
 aliases:
   - "New Action: Breath Weapon"
-  - New Action: Breath Weapon
 ---
 # New Action: Breath Weapon
 *Source: Monster Manual p. 180* 

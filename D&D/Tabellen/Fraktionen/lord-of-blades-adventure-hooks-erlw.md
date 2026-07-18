@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lord of Blades Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Lord of Blades Adventure Hooks
 tags:
   - Quelle/5e/erlw

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Warrior
+Status: WIP
 linter-yaml-title-alias: Goblin Warrior
 tags:
   - Monster/Größe/Klein

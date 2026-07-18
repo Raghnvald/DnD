@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hoard Scarab
+Status: WIP
 linter-yaml-title-alias: Hoard Scarab
 tags:
   - Monster/Größe/Winzig

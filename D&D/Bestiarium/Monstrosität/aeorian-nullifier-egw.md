@@ -7,8 +7,7 @@ Größe: Groß
 HG: "12"
 Habitat:
   - /
-image: token/aeorian-nullifier-egw.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aeorian Nullifier
 tags:
   - Monster/Größe/Groß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Aeorian Nullifier
+image: token/aeorian-nullifier-egw.webp
+status: WIP
 ---
 # [Aeorian Nullifier](3-Mechanics\CLI\bestiary\monstrosity/aeorian-nullifier-egw.md)
 *Source: Explorer's Guide to Wildemount p. 283*  

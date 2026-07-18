@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tarak
+Status: WIP
 linter-yaml-title-alias: Tarak
 tags:
   - Monster/Größe/Mittelgroß

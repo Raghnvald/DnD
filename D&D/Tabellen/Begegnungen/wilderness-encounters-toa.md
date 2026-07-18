@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wilderness Encounters
+Status: WIP
 linter-yaml-title-alias: Wilderness Encounters
 tags:
   - Quelle/5e/toa

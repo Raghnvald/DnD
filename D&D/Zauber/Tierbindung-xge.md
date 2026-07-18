@@ -1,12 +1,13 @@
 ---
-Bezeichnung: Beast Bond
+Bezeichnung: Tierbindung
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 10 Minuten
 Angriff:
-linter-yaml-title-alias: Beast Bond
+Status: WIP
+linter-yaml-title-alias: Tierbindung
 classes:
   - Bard
   - Bard (College of Lore)
@@ -18,14 +19,14 @@ tags:
   - Klasse/Druide
   - Klasse/Waldläufer
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/xge
   - Zauber/Grad/1
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Beast Bond
+  - Tierbindung
 ---
-# Beast Bond
+# Tierbindung
 *1st-level, Divination*  
 
 - **Casting time:** 1 Action

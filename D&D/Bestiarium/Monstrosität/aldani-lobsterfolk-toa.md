@@ -7,8 +7,7 @@ Größe: Mittelgroß
 HG: "1"
 Habitat:
   - /
-image: token/aldani-lobsterfolk-toa.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Aldani (Lobsterfolk)
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Aldani (Lobsterfolk)
+image: token/aldani-lobsterfolk-toa.webp
+status: WIP
 ---
 # [Aldani (Lobsterfolk)](3-Mechanics\CLI\bestiary\monstrosity/aldani-lobsterfolk-toa.md)
 *Source: Tomb of Annihilation p. 210*  

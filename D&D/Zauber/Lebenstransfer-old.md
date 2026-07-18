@@ -6,6 +6,7 @@ Komponenten: V, G
 Wirkungsdauer: 
 Angriff: n/v
 Schaden: 4d8 Nekrotisch
+Status: WIP
 linter-yaml-title-alias: Lebenstransfer
 tags:
   - Klasse/Kleriker

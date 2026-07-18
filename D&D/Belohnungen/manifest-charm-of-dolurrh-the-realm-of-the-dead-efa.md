@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Dolurrh, the Realm of the Dead
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Dolurrh, the Realm of the Dead
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Dolurrh, the Realm of the Dead"
+  - Manifest Charm of Dolurrh, the Realm of the Dead
   - Manifest Charm of Dolurrh, the Realm of the Dead
 ---
 # Manifest Charm of Dolurrh, the Realm of the Dead

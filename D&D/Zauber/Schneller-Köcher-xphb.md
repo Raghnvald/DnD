@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swift Quiver
+Status: WIP
 linter-yaml-title-alias: Swift Quiver
 classes:
   - Ranger

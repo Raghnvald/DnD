@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grim Champion of Bloodshed
+Status: WIP
 linter-yaml-title-alias: Grim Champion of Bloodshed
 tags:
   - Monster/Größe/Mittelgroß

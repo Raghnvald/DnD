@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Kor
+Status: WIP
 linter-yaml-title-alias: Kor
 tags:
   - Quelle/5e/psz
   - Rasse/kor
 aliases:
-  - "Kor"
+  - Kor
   - Kor
 ---
 # Kor

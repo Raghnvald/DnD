@@ -8,7 +8,7 @@ HG: 16
 Habitat:
   - Küste
   - Wüste
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Blue Dragon
 tags:
   - Monster/Größe/Riesig
@@ -19,6 +19,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Adult Blue Dragon
+status: WIP
 ---
 # [Adult Blue Dragon](3-Mechanics\CLI\bestiary\dragon/adult-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 49. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

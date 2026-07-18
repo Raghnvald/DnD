@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Boneless
+Status: WIP
 linter-yaml-title-alias: Boneless
 tags:
   - Monster/Größe/Mittelgroß

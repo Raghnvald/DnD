@@ -1,20 +1,22 @@
 ---
-Bezeichnung: "Reveler's Concertina"
+Bezeichnung: Reveler's Concertina
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - erfordert Einstimmung durch einen Barden
-Kst.: /
-Gew.: /
-status: WIP
-linter-yaml-title-alias: "Reveler's Concertina"
+  - n/v
+Einstimmung: durch einen Barden
+Kst.: n/v
+Gew.: n/v
+Status: WIP
+linter-yaml-title-alias: Reveler's Concertina
 tags:
   - Gegenstand/Ausrüstung/Instrument
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/tce
 aliases:
-  - "Reveler's Concertina"
+  - Reveler's Concertina
+status: WIP
 ---
 # Reveler's Concertina
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

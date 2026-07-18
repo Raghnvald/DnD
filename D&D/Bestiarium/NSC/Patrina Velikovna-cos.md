@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Patrina Velikovna
+Status: WIP
 linter-yaml-title-alias: Patrina Velikovna
 tags:
   - Monster/Größe/Mittelgroß

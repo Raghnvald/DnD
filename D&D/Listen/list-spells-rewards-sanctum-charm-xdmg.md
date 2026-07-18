@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Sanctum Charm
+Status: WIP
 linter-yaml-title-alias: Spells for Sanctum Charm
 tags:
-  - ttrpg-cli/spell/list/reward/sanctum-charm
+  - Zauber/Liste/reward/sanctum-charm
 aliases:
-  - "Spells for Sanctum Charm"
+  - Spells for Sanctum Charm
   - Spells for Sanctum Charm
 ---
 # Spells for Sanctum Charm

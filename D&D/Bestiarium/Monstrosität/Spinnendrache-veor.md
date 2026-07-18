@@ -2,24 +2,24 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spinnendrache
+Original: Spiderdragon
+Kategorie: Monstrosität
+Größe: Riesig
+HG: "11"
+Habitat:
+  - /
 Image: token/spiderdragon-veor.webp
-status: completed
-linter-yaml-title-alias: Spiderdragon
+Status: completed
+linter-yaml-title-alias: Spinnendrache
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/11
   - Monster/Typ/Monstrosität
   - Quelle/5e/veor
 aliases:
-  - Spiderdragon
-HG: "11"
-Kategorie: Monstrosität
-Größe: Riesig
-Habitat:
-  - /
-IMAGE:
+  - Spinnendrache
 ---
-# Spinnendrache 
+# Spinnendrache
 *Quelle: Vecna: Vorabend der Verdammnis S. 233*  
 
 Jene schrecklichen Kreaturen, die als Spinnendrachen bekannt sind, wurden zuerst in den tiefsten Tiefen des Unterreichs gefunden. Sie stammen von Nestlingen schwarzer Drachen ab, die sich ausschließlich von Spinnen ernähren. Obwohl Spinnendrachen nicht im Abyss oder von Lolths Anhängern erschaffen wurden, behaupten diese, Spinnendrachen seien ein Geschenk ihrer Gottheit, da sie in den Gegenden des Unterreichs am häufigsten anzutreffen sind, die Lolths Anhänger als die ihren beanspruchen. Die Anhänger setzen Spinnendrachen oft als Wächter ein oder behandeln sie als geschätzte Gäste. Die Kreaturen sind zwar nicht so mächtig wie ihre Ahnen, die schwarzen Drachen, aber mit ihren selbstsüchtigen Forderungen verzehren sie dennoch häufig sämtliche Ressourcen einer Enklave. 

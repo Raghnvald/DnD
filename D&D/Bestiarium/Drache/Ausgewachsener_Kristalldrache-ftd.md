@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 12
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Crystal Dragon
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Adult Crystal Dragon
+status: WIP
 ---
 # [Adult Crystal Dragon](3-Mechanics\CLI\bestiary\dragon/adult-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 171*  

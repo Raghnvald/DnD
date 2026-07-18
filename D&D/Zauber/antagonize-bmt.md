@@ -1,6 +1,13 @@
 ---
 Bezeichnung: Antagonize
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Antagonize
 tags:
   - Quelle/5e/bmt
@@ -8,6 +15,7 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Antagonize
+Original: Antagonize
 ---
 # Antagonize
 *3rd-level, Enchantment*  

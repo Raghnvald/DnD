@@ -1,6 +1,8 @@
 ---
-Bezeichnung: Maul
-Kategorie: Nahkampf-Kriegswaffe
+Bezeichnung: Zweihandhammer
+Original: Maul
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Maul
 tags:
   - Gegenstand/Seltenheit/keine
@@ -9,8 +11,9 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Maul
+status: WIP
 ---
-# Maul
+# Zweihandhammer
 *Weapon*  
 
 - **Damage**: 2d6 bludgeoning

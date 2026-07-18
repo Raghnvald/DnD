@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yuan-ti Infiltrator
+Status: WIP
 linter-yaml-title-alias: Yuan-ti Infiltrator
 tags:
   - Monster/Größe/Mittelgroß

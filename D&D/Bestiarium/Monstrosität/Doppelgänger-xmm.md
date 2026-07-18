@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Doppelganger
+Status: WIP
 linter-yaml-title-alias: Doppelganger
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Tyr
+Status: WIP
 linter-yaml-title-alias: Tyr
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/order
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

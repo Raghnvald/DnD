@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xocopol
+Status: WIP
 linter-yaml-title-alias: Xocopol
 tags:
   - Monster/Größe/Riesig

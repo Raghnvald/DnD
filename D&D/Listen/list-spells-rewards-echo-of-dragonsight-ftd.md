@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Echo of Dragonsight
+Status: WIP
 linter-yaml-title-alias: Spells for Echo of Dragonsight
 tags:
-  - Zauber/list/reward/echo-of-dragonsight
+  - Zauber/Liste/reward/echo-of-dragonsight
 aliases:
   - Spells for Echo of Dragonsight
 ---

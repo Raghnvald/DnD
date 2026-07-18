@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Erebos's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Erebos's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

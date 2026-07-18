@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githzerai
+Status: WIP
 linter-yaml-title-alias: Githzerai
 tags:
   - Quelle/5e/mpmm

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Knowledge Domain
+Status: WIP
 linter-yaml-title-alias: Knowledge Domain
 tags:
-  - Klasse/Kleriker/knowledge
-  - Kompendium/Götter/Domäne/knowledge
+  - Klasse/Kleriker/Wissen
+  - Kompendium/Götter/Domäne/Wissen
   - Quelle/5e/phb
 aliases:
   - Knowledge Domain

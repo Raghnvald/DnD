@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Juiblex
+Status: WIP
 linter-yaml-title-alias: Juiblex
 tags:
   - Monster/legendary-group

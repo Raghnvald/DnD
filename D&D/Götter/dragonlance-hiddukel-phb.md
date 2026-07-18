@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hiddukel
+Status: WIP
 linter-yaml-title-alias: Hiddukel
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

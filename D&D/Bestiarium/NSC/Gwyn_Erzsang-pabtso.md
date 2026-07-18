@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - /
-image: token/gwyn-oresong-pabtso.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Gwyn Erzsang
 tags:
   - Monster/Größe/Mittelgroß
@@ -19,6 +18,8 @@ tags:
 aliases:
   - Gwyn Erzsang
   - Gwyn Oresong
+image: token/gwyn-oresong-pabtso.webp
+status: completed
 ---
 # Gwyn Erzsang
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk S. 8*  

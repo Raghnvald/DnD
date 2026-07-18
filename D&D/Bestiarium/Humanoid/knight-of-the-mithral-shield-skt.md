@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knight of the Mithral Shield
+Status: WIP
 linter-yaml-title-alias: Knight of the Mithral Shield
 tags:
   - Monster/Größe/Mittelgroß

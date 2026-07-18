@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halberd
+Status: WIP
 linter-yaml-title-alias: Halberd
 tags:
   - Gegenstand/Seltenheit/keine

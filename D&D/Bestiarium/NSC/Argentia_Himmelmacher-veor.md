@@ -4,8 +4,11 @@ statblock-link: "#^statblock"
 Bezeichnung: Argentia Skywright
 Kategorie: Humanoid (Mensch, Gestaltwandler)
 Größe: Mittelgroß
+HG: "3"
+Habitat:
+  - /
 Image: token/Argentia-Skywright-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Argentia Skywright
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,10 +18,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Argentia Skywright
-HG: "3"
-Habitat:
-  - /
 IMAGE:
+status: WIP
 ---
 # [Argentia Skywright](3-Mechanics\CLI\bestiary\npc/argentia-skywright-veor.md)
 *Source: Vecna: Eve of Ruin*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Undead"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Undead"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Undead"
-  - Monsters' Desires; Undead
 ---
 # Monsters' Desires; Undead
 *Source: Tasha's Cauldron of Everything p. 148* 

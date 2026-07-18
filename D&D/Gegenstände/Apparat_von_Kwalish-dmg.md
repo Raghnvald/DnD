@@ -2,9 +2,10 @@
 Bezeichnung: Apparat von Kwalish
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 250,0 kg
+Status: WIP
 linter-yaml-title-alias: Apparat von Kwalish
 tags:
   - Gegenstand/Seltenheit/legendär
@@ -20,7 +21,7 @@ aliases:
 
 - **Gewicht**: 250,0 kg.
 
-Auf den ersten Blick, scheint der Gegenstand ein großes Eisenfass mit rund 500 Pfund Gewicht zu sein. Das Fass hat einen geheimen Riegel, der gefunden werden kann, wenn ein Wurf auf `lntelligenz (Nachforschung)` gegen `SG 20` gelingt. Wenn der Riegel betätigt wird, öffnet sich am Ende des Fasses eine Luke, die mittelgroßen oder kleineren Kreaturen erlaubt, hineinzukriechen. Zehn verschiedene Hebel befinden sich in einer Reihe am anderen Ende, jeder in einer neutralen Position, bereit, nach oben oder unten geschaltet zu werden. Wenn bestimmte Hebel betätigt werden, wird sich der Apparat in eine Form ähnlich eines riesigen Hummers verwandeln. 
+Auf den ersten Blick, scheint der Gegenstand ein großes Eisenfass mit rund 500 Pfund Gewicht zu sein. Das Fass hat einen geheimen Riegel, der gefunden werden kann, wenn ein Wurf auf `Intelligenz (Nachforschung)` gegen `SG 20` gelingt. Wenn der Riegel betätigt wird, öffnet sich am Ende des Fasses eine Luke, die mittelgroßen oder kleineren Kreaturen erlaubt, hineinzukriechen. Zehn verschiedene Hebel befinden sich in einer Reihe am anderen Ende, jeder in einer neutralen Position, bereit, nach oben oder unten geschaltet zu werden. Wenn bestimmte Hebel betätigt werden, wird sich der Apparat in eine Form ähnlich eines riesigen Hummers verwandeln. 
 
 $\quad$Der Apparat von Kwalish ist ein großes Objekt mit folgenden Werten: 
 

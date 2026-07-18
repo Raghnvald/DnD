@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crossbow Expert
+Status: WIP
 linter-yaml-title-alias: Crossbow Expert
 tags:
   - Kompendium/Talent

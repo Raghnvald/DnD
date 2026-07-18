@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vizier (Dissenter)
+Status: WIP
 linter-yaml-title-alias: Vizier (Dissenter)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/psa
 aliases:
-  - "Vizier (Dissenter)"
+  - Vizier (Dissenter)
   - Vizier (Dissenter)
 ---
 # Vizier (Dissenter)

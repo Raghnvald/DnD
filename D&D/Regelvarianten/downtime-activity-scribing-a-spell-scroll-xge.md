@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Scribing a Spell Scroll"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Scribing a Spell Scroll"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Scribing a Spell Scroll"
-  - Downtime Activity: Scribing a Spell Scroll
 ---
 # Downtime Activity: Scribing a Spell Scroll
 *Source: Xanathar's Guide to Everything p. 133* 

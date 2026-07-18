@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix F: Poster Map"
+Status: WIP
 linter-yaml-title-alias: "Appendix F: Poster Map"
 tags:
   - Quelle/5e/crcotn

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bag Jelly
+Status: WIP
 linter-yaml-title-alias: Bag Jelly
 tags:
   - Monster/Größe/Mittelgroß

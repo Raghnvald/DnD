@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Circle of Wildfire
+Status: WIP
 linter-yaml-title-alias: Spells for Circle of Wildfire
 tags:
-  - Zauber/list/subclass/circle-of-wildfire
+  - Zauber/Liste/subclass/circle-of-wildfire
 aliases:
   - Spells for Circle of Wildfire
 ---

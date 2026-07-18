@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pony
+Status: WIP
 linter-yaml-title-alias: Pony
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

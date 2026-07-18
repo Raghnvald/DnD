@@ -1,29 +1,37 @@
 ---
-Bezeichnung: Sword of Answering (Rebutter)
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Sword of Answering (Rebutter)
+Bezeichnung: Schwert der Antwort (Entkräfter)
+Original: Sword of Answering (Rebutter)
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1W8 Hieb
+Eigenschaften:
+  - Vielseitig (1W10)
+Einstimmung: durch eine neutral gute Kreatur
+Kst.: n/v
+Gew.: 1,5 kg
+Status: completed
+linter-yaml-title-alias: Schwert der Antwort (Entkräfter)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
-  - Sword of Answering (Rebutter)
+  - Schwert der Antwort (Entkräfter)
 ---
-# Sword of Answering (Rebutter)
-*Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), major, legendary (requires attunement by a neutral good creature)*  
+# Schwert der Antwort (Entkräfter)
+*Waffe ([[Langschwert-phb|Langschwert]]), legendär (erfordert Einstimmung durch eine neutral gute Kreatur)*
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-In the world of Greyhawk, only nine of these blades are known to exist. Each is patterned after the legendary sword Fragarach, which is variously translated as "Final Word." Each of the nine swords has its own name and alignment, and each bears a different gem in its pommel.
+In der Welt von Greyhawk sind nur neun dieser Klingen bekannt. Jede ist nach dem Abbild des legendären Schwerts Fragarach geschaffen, was vielfach als „Letztes Wort" übersetzt wurde. Jedes der neun Schwerter hat einen eigenen Namen und eine eigene Gesinnung und trägt einen anderen Edelstein in seinem Knauf.
 
-Rebutter, the Neutral Good sword, has a topaz set in its pommel.
+Entkräfter, ein Neutral Gutes Schwert, hat einen Topas in seinem Knauf.
 
-You gain a +3 bonus to attack and damage rolls made with this sword. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
+Du erhältst einen Bonus von+ 3 auf Angriffs- und Schadenswürfe, die mit diesem Schwert ausgeführt werden. Zusätzlich kannst du eine Reaktion verwenden, während du das Schwert hältst, um einen Nahkampfangriff gegen jede Kreatur auszuführen, die sich innerhalb deiner Reichweite befindet und dir Schaden zufügt. Du hast einen Vorteil auf deinen Angriffswurf, und jeder Schaden, der mit diesem Spezialangriff zugefügt wird, ignoriert sämtliche Schadensimmunitäten und Resistenzen des Ziels.
 
-*Source: Dungeon Master's Guide p. 206*
+*Quelle: Spielleiterhandbuch S. 190*

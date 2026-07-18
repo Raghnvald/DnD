@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Beholder; Beholder Flaws
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Beholder; Beholder Flaws
 tags:
   - Quelle/5e/vgm

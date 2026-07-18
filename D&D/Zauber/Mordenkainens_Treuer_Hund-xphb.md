@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Mordenkainen's Faithful Hound"
+Status: WIP
 linter-yaml-title-alias: "Mordenkainen's Faithful Hound"
 classes:
   - Artificer

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Princeps Kovik
+Status: WIP
 linter-yaml-title-alias: Princeps Kovik
 tags:
   - Monster/Größe/Mittelgroß

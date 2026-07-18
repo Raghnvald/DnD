@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conjure Woodland Beings
+Status: WIP
 linter-yaml-title-alias: Conjure Woodland Beings
 classes:
   - Bard

@@ -2,10 +2,10 @@
 Bezeichnung: Gänseei-Requisiten
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Gänseei-Requisiten
 tags:
   - Gegenstand/Ausrüstung/

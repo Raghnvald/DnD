@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vilnius
+Status: WIP
 linter-yaml-title-alias: Vilnius
 tags:
   - Monster/Größe/Mittelgroß

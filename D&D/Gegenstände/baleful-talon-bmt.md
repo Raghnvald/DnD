@@ -1,13 +1,15 @@
 ---
 Bezeichnung: Baleful Talon
-Kategorie: Einfache Nahkampfwaffe
+Original: Baleful Talon
+Kategorie: Nahkampfwaffe, einfach
 Eigenschaften:
   - Finesse
   - Leicht
   - Wurfwaffe
-Einstimmung: /
-Kst.: /
-Gew.: /
+Einstimmung: n/v
+Kst.: n/v
+Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Baleful Talon
 tags:
   - Gegenstand/Seltenheit/sehr_selten
@@ -16,6 +18,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Baleful Talon
+status: WIP
 ---
 # Baleful Talon
 *Weapon (dagger), very rare*  

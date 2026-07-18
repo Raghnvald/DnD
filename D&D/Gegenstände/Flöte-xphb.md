@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flute
+Status: WIP
 linter-yaml-title-alias: Flute
 tags:
   - Gegenstand/Ausrüstung/Instrument

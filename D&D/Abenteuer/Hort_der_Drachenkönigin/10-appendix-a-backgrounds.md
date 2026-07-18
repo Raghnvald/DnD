@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Backgrounds"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Backgrounds"
 tags:
   - Quelle/5e/hotdq

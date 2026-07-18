@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schuppenpanzer
+Original: Scale Mail
 Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften:
@@ -9,6 +10,7 @@ Gew.: 22,5 kg
 RK: 14 + GES (max +2)
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schuppenpanzer
 tags:
   - Gegenstand/Rüstung/Mittel
@@ -18,11 +20,11 @@ aliases:
   - Schuppenpanzer
 ---
 # Schuppenpanzer
-*Rüstung (mittelschwer), gewöhnlich*  
+*Mittelschwere Rüstung*  
 
 - **Rüstungsklasse**: 14 + GES (max +2)
-- **Heimlichkeit:** Nachteil
-- **Kosten:** 50 Goldmünzen
+- **Heimlichkeit:** Der Träger ist bei Würfen auf Geschicklichkeit ([[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) im Nachteil.
+- **Kosten:** 50 GM
 - **Gewicht:** 22,5 kg
 
 This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.

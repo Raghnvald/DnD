@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Misty Step
+Bezeichnung: Nebelschritt
 Zaubergrad: 2
-linter-yaml-title-alias: Misty Step
+Zeitaufwand: 1 Bonusaktion
+Status: WIP
+linter-yaml-title-alias: Nebelschritt
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Coast)
@@ -28,9 +30,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
 aliases:
-  - Misty Step
+  - Nebelschritt
 ---
-# Misty Step
+# Nebelschritt
 *2nd-level, Conjuration*  
 
 - **Casting time:** 1 Bonus Action

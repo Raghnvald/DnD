@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Husk Zombie
+Status: WIP
 linter-yaml-title-alias: Husk Zombie
 tags:
   - Monster/Größe/Mittelgroß

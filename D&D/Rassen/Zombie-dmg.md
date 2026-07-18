@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zombie
+Status: WIP
 linter-yaml-title-alias: Zombie
 tags:
   - Quelle/5e/dmg

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Scarabs
+Status: WIP
 linter-yaml-title-alias: Swarm of Scarabs
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Merfolk (Zendikar; Emeria Creed)
+Status: WIP
 linter-yaml-title-alias: Spells for Merfolk (Zendikar; Emeria Creed)
 tags:
-  - ttrpg-cli/spell/list/subrace/merfolk-zendikar-emeria-creed
+  - Zauber/Liste/subrace/merfolk-zendikar-emeria-creed
 aliases:
-  - "Spells for Merfolk (Zendikar; Emeria Creed)"
+  - Spells for Merfolk (Zendikar; Emeria Creed)
   - Spells for Merfolk (Zendikar; Emeria Creed)
 ---
 # Spells for Merfolk (Zendikar; Emeria Creed)

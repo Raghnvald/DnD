@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Niv-Mizzet
+Status: WIP
 linter-yaml-title-alias: Niv-Mizzet
 tags:
   - Monster/Größe/Gigantisch

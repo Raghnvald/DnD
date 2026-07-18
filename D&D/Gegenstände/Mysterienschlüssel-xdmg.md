@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mystery Key
+Status: WIP
 linter-yaml-title-alias: Mystery Key
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

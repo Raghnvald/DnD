@@ -2,10 +2,10 @@
 Bezeichnung: Schmiedewerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 20 GM
 Gew.: 4,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Schmiedewerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schmiedewerkzeuge
+status: WIP
 ---
 # Schmiedewerkzeuge
 *Handwerkszeug*

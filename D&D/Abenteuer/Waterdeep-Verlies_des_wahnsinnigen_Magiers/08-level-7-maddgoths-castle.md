@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 7: Maddgoth's Castle"
+Status: WIP
 linter-yaml-title-alias: "Level 7: Maddgoth's Castle"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 7: Maddgoth's Castle"
-  - Level 7: Maddgoth's Castle
 ---
 # Level 7: Maddgoth's Castle
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 95* 

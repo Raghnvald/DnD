@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Platinum 10-Zino Coin
+Status: WIP
 linter-yaml-title-alias: Platinum 10-Zino Coin
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/ggr
 aliases:

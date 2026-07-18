@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spelljammer Academy: Realmspace Sortie!"
+Status: WIP
 linter-yaml-title-alias: "Spelljammer Academy: Realmspace Sortie!"
 tags:
   - Quelle/5e/sja

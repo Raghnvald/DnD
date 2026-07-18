@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ring of X-ray Vision
+Status: WIP
 linter-yaml-title-alias: Ring of X-ray Vision
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/xdmg

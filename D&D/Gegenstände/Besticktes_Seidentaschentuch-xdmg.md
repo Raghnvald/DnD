@@ -2,14 +2,15 @@
 Bezeichnung: Embroidered silk handkerchief
 Kst.: 25 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Embroidered silk handkerchief
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Embroidered silk handkerchief
+status: WIP
 ---
 # Embroidered silk handkerchief
 *Treasure (art object)*  

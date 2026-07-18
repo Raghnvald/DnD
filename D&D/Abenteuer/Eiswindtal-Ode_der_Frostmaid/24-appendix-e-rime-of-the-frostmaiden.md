@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix E: Rime of the Frostmaiden"
+Status: WIP
 linter-yaml-title-alias: "Appendix E: Rime of the Frostmaiden"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Appendix E: Rime of the Frostmaiden"
-  - Appendix E: Rime of the Frostmaiden
 ---
 # Appendix E: Rime of the Frostmaiden
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 319* 

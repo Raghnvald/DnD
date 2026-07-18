@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dauerhafter Wahnsinn
+Status: WIP
 linter-yaml-title-alias: Dauerhafter Wahnsinn
 tags:
   - Quelle/5e/dmg

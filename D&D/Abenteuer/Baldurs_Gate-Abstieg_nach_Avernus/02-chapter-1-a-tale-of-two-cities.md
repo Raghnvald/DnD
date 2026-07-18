@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: A Tale of Two Cities"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: A Tale of Two Cities"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Chapter 1: A Tale of Two Cities"
-  - Chapter 1: A Tale of Two Cities
 ---
 # Chapter 1: A Tale of Two Cities
 *Source: Baldur's Gate: Descent Into Avernus, p. 10* 

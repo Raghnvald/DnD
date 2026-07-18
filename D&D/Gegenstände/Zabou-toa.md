@@ -2,10 +2,10 @@
 Bezeichnung: Zabou
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Zabou
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Kruphix's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Kruphix's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/kruphixs-votary
+  - Zauber/Liste/reward/kruphixs-votary
 aliases:
   - "Spells for Kruphix's Votary"
 ---

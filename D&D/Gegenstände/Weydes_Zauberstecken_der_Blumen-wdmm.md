@@ -1,14 +1,17 @@
 ---
 Bezeichnung: Weydes Zauberstecken der Blumen
+Original: Wyllows Staff of Flowers
 Kategorie: Zauberstecken
+Status: WIP
 linter-yaml-title-alias: Weydes Zauberstecken der Blumen
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/wdmm
 aliases:
   - Weydes Zauberstecken der Blumen
+status: WIP
 ---
 # Weydes Zauberstecken der Blumen
 *Stab, gewöhnlich (erfordert Einstimmung)*  

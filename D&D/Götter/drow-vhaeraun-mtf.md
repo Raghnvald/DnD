@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Vhaeraun
+Status: WIP
 linter-yaml-title-alias: Vhaeraun
 tags:
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/drow
   - Quelle/5e/mtf
 aliases:

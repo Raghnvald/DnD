@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Crochet Glossary Terms
+Status: WIP
 linter-yaml-title-alias: Crochet Glossary Terms
 tags:
   - Quelle/5e/cabomp
 aliases:
-  - "Crochet Glossary Terms"
+  - Crochet Glossary Terms
   - Crochet Glossary Terms
 ---
 # Crochet Glossary Terms

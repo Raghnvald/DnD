@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pistol
+Status: WIP
 linter-yaml-title-alias: Pistol
 tags:
   - Gegenstand/Seltenheit/keine

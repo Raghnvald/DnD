@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Navigator's Tools"
+Status: WIP
 linter-yaml-title-alias: "Navigator's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

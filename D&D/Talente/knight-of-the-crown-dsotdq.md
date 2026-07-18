@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Knight of the Crown
+Status: WIP
 linter-yaml-title-alias: Knight of the Crown
 tags:
   - Kompendium/Talent
   - Quelle/5e/dsotdq
 aliases:
-  - "Knight of the Crown"
+  - Knight of the Crown
   - Knight of the Crown
 ---
 # Knight of the Crown

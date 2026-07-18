@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Heat Metal
+Bezeichnung: Metall erhitzen
 Zaubergrad: 2
-linter-yaml-title-alias: Heat Metal
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Metall erhitzen
 classes:
   - Bard (Magical Secrets)
   - Druid
@@ -12,9 +14,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Heat Metal
+  - Metall erhitzen
 ---
-# Heat Metal
+# Metall erhitzen
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Conjuration
+Status: WIP
 linter-yaml-title-alias: School of Conjuration
 tags:
   - Klasse/Magier/conjuration

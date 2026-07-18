@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Blessing of Valhalla
+Status: WIP
 linter-yaml-title-alias: Blessing of Valhalla
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/xdmg
 aliases:
   - Blessing of Valhalla

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shifter (Swiftstride)
+Status: WIP
 linter-yaml-title-alias: Shifter (Swiftstride)
 tags:
   - Quelle/5e/erlw

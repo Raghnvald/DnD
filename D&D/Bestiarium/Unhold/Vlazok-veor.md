@@ -3,7 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vlazok
 Image: token/vlazok-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vlazok
 tags:
   - Monster/Größe/Groß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Vlazok
+status: WIP
 ---
 # [Vlazok](3-Mechanics\CLI\bestiary\fiend/vlazok-veor.md)
 *Source: Vecna: Eve of Ruin p. 238*  

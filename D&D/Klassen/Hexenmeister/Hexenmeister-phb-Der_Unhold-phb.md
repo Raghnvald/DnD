@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Fiend
+Status: WIP
 linter-yaml-title-alias: The Fiend
 tags:
   - Klasse/Hexenmeister/fiend

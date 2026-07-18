@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Final Breath
+Status: WIP
 linter-yaml-title-alias: Final Breath
 tags:
-  - Kompendium/Belohnung/curse
+  - Kompendium/Belohnung/Fluch
   - Quelle/5e/vrgr
 aliases:
-  - "Final Breath"
+  - Final Breath
   - Final Breath
 ---
 # Final Breath

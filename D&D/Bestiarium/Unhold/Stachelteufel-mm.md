@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spined Devil
+Status: WIP
 linter-yaml-title-alias: Spined Devil
 tags:
   - Monster/Größe/Klein

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Climb Speed
+Status: WIP
 linter-yaml-title-alias: Climb Speed
 tags:
   - Quelle/5e/xphb

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Four-Armed Gargoyle
+Status: WIP
 linter-yaml-title-alias: Giant Four-Armed Gargoyle
 tags:
   - Monster/Größe/Groß

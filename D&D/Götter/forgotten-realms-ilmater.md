@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ilmater
+Status: WIP
 linter-yaml-title-alias: Ilmater
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/twilight
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Dämmerung
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

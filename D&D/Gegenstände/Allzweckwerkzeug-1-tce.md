@@ -2,13 +2,13 @@
 Bezeichnung: Allzweckwerkzeug +1
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
+  - n/v
+Kst.: n/v
+Gew.: n/v
 Status: completed
 linter-yaml-title-alias: Allzweckwerkzeug +1
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/tce

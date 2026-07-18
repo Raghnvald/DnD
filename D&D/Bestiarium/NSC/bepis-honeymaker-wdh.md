@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bepis Honeymaker
+Status: WIP
 linter-yaml-title-alias: Bepis Honeymaker
 tags:
   - Monster/Größe/Klein

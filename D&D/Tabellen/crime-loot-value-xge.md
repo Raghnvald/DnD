@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crime; Loot Value
+Status: WIP
 linter-yaml-title-alias: Crime; Loot Value
 tags:
   - Quelle/5e/xge

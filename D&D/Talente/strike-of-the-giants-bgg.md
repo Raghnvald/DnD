@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Strike of the Giants
+Status: WIP
 linter-yaml-title-alias: Strike of the Giants
 tags:
   - Kompendium/Talent

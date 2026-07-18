@@ -2,10 +2,10 @@
 Bezeichnung: Mastiff
 Kategorie: Reit- und Lastentier
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Mastiff
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier
@@ -15,6 +15,7 @@ aliases:
   - Mastiff
 Bew.: 12 m
 Traglast: 195 Pfd.
+Original: Mastiff
 ---
 # Mastiff
 *Reit- und Lasttiere*  

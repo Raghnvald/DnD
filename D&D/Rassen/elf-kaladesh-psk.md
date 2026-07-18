@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Elf (Kaladesh)
+Status: WIP
 linter-yaml-title-alias: Elf (Kaladesh)
 tags:
   - Quelle/5e/psk
   - Rasse/elf/kaladesh
 aliases:
-  - "Elf (Kaladesh)"
+  - Elf (Kaladesh)
   - Elf (Kaladesh)
 ---
 # Elf (Kaladesh)

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tug
+Status: WIP
 linter-yaml-title-alias: Tug
 tags:
   - Monster/Größe/Riesig

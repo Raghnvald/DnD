@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mirror of Life Trapping
+Status: WIP
 linter-yaml-title-alias: Mirror of Life Trapping
 tags:
   - Gegenstand/Seltenheit/sehr_selten

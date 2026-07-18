@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rankenplage
+Status: WIP
 linter-yaml-title-alias: Rankenplage
 tags:
   - Monster/Größe/Mittelgroß

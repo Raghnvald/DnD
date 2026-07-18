@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waterskin
+Status: WIP
 linter-yaml-title-alias: Waterskin
 tags:
   - Gegenstand/Ausrüstung/

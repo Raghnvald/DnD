@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Wooden Donkey
+Status: WIP
 linter-yaml-title-alias: Wooden Donkey
 tags:
   - Monster/Größe/Mittelgroß

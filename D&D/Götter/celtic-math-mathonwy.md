@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Math Mathonwy
+Status: WIP
 linter-yaml-title-alias: Math Mathonwy
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
   - Quelle/5e/phb
 aliases:
   - Math Mathonwy

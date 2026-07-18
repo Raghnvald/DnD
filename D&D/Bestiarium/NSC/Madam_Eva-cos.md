@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Madam Eva
+Status: WIP
 linter-yaml-title-alias: Madam Eva
 tags:
   - Monster/Größe/Mittelgroß

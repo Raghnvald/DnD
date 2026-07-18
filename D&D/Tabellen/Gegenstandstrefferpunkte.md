@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trefferpunkte eines Gegenstands
+Status: WIP
 linter-yaml-title-alias: Trefferpunkte eines Gegenstands
 tags:
   - Quelle/5e/dmg

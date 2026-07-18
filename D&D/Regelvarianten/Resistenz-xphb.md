@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Resistance
+Status: WIP
 linter-yaml-title-alias: Resistance
 tags:
   - Quelle/5e/xphb

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mirror of Infinite Transpondence
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Mirror of Infinite Transpondence
 tags:
   - Gegenstand/Seltenheit/sehr_selten

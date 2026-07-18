@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Firegaunt
+Status: WIP
 linter-yaml-title-alias: Firegaunt
 tags:
   - Monster/Größe/Riesig

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Avernus - Other Locations"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Avernus - Other Locations"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Chapter 3: Avernus - Other Locations"
-  - Chapter 3: Avernus - Other Locations
 ---
 # Chapter 3: Avernus - Other Locations
 *Source: Baldur's Gate: Descent Into Avernus, p. 122* 

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pfeife der Erinnerungen
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Pfeife der Erinnerungen
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

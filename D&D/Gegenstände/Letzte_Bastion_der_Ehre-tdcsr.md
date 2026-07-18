@@ -1,9 +1,11 @@
 ---
 Bezeichnung: "Honor's Last Stand"
+Original: "Honor's Last Stand"
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: "Honor's Last Stand"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

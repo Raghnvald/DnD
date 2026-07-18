@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Shield Guardian Amulet
+Status: WIP
 linter-yaml-title-alias: Shield Guardian Amulet
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/idrotf
 aliases:

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Spellfire Initiate
+Status: WIP
 linter-yaml-title-alias: Spellfire Initiate
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Spellfire Initiate"
+  - Spellfire Initiate
   - Spellfire Initiate
 ---
 # Spellfire Initiate

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: The Village of Barovia"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: The Village of Barovia"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 3: The Village of Barovia"
-  - Chapter 3: The Village of Barovia
 ---
 # Chapter 3: The Village of Barovia
 *Source: Curse of Strahd, p. 41* 

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: "Delver's Claws"
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: "Delver's Claws"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bgg
 aliases:

@@ -8,7 +8,7 @@ Größe: Mittelgroß
 HG: 5
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Escher
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Escher
+status: WIP
 ---
 # Escher
 *Quelle:Fluch des Strahd S. 70*  

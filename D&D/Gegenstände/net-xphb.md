@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Net
+Status: WIP
 linter-yaml-title-alias: Net
 tags:
   - Gegenstand/Ausrüstung/

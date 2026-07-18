@@ -5,7 +5,8 @@ Reichweite: selbst (Kegel von 18,0m)
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: GES
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Regenbogenspiel
 tags:
   - Klasse/Magier

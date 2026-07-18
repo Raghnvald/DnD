@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Spellcasting"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Spellcasting"
 tags:
   - Quelle/5e/rmr

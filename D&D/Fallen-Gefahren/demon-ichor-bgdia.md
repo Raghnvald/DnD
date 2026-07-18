@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Demon Ichor
+Status: WIP
 linter-yaml-title-alias: Demon Ichor
 tags:
   - Quelle/5e/bgdia

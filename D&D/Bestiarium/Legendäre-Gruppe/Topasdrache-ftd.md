@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Topaz Dragon
+Status: WIP
 linter-yaml-title-alias: Topaz Dragon
 tags:
   - Monster/legendary-group

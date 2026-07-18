@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rod of Security
+Status: WIP
 linter-yaml-title-alias: Rod of Security
 tags:
   - Gegenstand/Seltenheit/sehr_selten

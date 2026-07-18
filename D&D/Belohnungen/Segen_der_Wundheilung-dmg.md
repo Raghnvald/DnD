@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Segen der Wundheilung
+Status: WIP
 linter-yaml-title-alias: Segen der Wundheilung
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/dmg
 aliases:
   - Blessing of Wound Closure

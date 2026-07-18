@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flesh to Stone
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Flesh to Stone
 classes:
   - Bard (Magical Secrets)

@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Boomerang Shield
+Original: Boomerang Shield
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: Boomerang Shield
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt

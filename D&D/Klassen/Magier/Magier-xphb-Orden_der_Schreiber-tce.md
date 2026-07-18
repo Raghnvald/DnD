@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Order of Scribes
+Status: WIP
 linter-yaml-title-alias: Order of Scribes
 tags:
   - Klasse/Magier/scribes

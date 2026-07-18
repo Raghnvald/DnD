@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Icewind Kobold
+Status: WIP
 linter-yaml-title-alias: Icewind Kobold
 tags:
   - Monster/Größe/Klein

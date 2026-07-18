@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tyrants Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Tyrants Adventure Hooks
 tags:
   - Quelle/5e/erlw

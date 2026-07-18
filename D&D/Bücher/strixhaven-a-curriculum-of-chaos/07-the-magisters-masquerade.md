@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "The Magister's Masquerade"
+Status: WIP
 linter-yaml-title-alias: "The Magister's Masquerade"
 tags:
   - Quelle/5e/scc

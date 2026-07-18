@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Vidorant's Vault"
+Status: WIP
 linter-yaml-title-alias: "Vidorant's Vault"
 tags:
   - Quelle/5e/kftgv

@@ -2,17 +2,18 @@
 Bezeichnung: Sonne
 Kategorie: Währung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Sonne
 tags:
-  - Gegenstand/Ausrüstung/treasure-coinage
+  - Gegenstand/Ausrüstung/Schatz-Währung
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/wdh
 aliases:
   - Sonne
+status: WIP
 ---
 # Sonne
 *Treasure (coinage)*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "The Secret of Darkon's Doom; Azalin's Fate"
+Status: WIP
 linter-yaml-title-alias: "The Secret of Darkon's Doom; Azalin's Fate"
 tags:
   - Quelle/5e/vrgr
 aliases:
   - "The Secret of Darkon's Doom; Azalin's Fate"
-  - The Secret of Darkon's Doom; Azalin's Fate
 ---
 # The Secret of Darkon's Doom; Azalin's Fate
 *Source: Van Richten's Guide to Ravenloft p. 92* 

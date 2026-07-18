@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Qunbraxel
 Image: token/qunbraxel-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Qunbraxel
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Comforts of Civilization; Cosmopolitan Conveniences
+Status: WIP
 linter-yaml-title-alias: Comforts of Civilization; Cosmopolitan Conveniences
 tags:
   - Quelle/5e/ggr

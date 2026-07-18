@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Izzet NPCs
+Status: WIP
 linter-yaml-title-alias: Izzet NPCs
 tags:
   - Quelle/5e/ggr

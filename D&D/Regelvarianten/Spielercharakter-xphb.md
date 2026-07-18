@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Player Character
+Status: WIP
 linter-yaml-title-alias: Player Character
 tags:
   - Quelle/5e/xphb

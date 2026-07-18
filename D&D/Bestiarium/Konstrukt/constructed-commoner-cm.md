@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Constructed Commoner
+Status: WIP
 linter-yaml-title-alias: Constructed Commoner
 tags:
   - Monster/Größe/Mittelgroß

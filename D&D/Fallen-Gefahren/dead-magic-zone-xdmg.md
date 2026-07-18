@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dead Magic Zone
+Status: WIP
 linter-yaml-title-alias: Dead Magic Zone
 tags:
   - Kompendium/Bedrohung/env

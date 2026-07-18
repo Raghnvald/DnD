@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Glimmering Moonbow
-Kategorie: Beliebig, Bogen
+Original: Glimmering Moonbow
+Kategorie: Fernkampfwaffe, beliebiger Bogen
 Eigenschaften:
-  - erfordert Einstimmung
-Kst.: /
-Gew.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Glimmering Moonbow
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

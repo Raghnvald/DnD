@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Ebondeath's Mausoleum"
+Status: WIP
 linter-yaml-title-alias: "Ebondeath's Mausoleum"
 tags:
   - Quelle/5e/dc

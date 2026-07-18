@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Girallon
+Status: WIP
 linter-yaml-title-alias: Girallon
 tags:
   - Monster/Größe/Groß

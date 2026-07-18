@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Practicing a Profession"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Practicing a Profession"
 tags:
   - Quelle/5e/phb
 aliases:
   - "Downtime Activity: Practicing a Profession"
-  - Downtime Activity: Practicing a Profession
 ---
 # Downtime Activity: Practicing a Profession
 *Source: Player's Handbook p. 187* 

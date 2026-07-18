@@ -1,20 +1,23 @@
 ---
-Bezeichnung: Flail
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Flail
+Bezeichnung: Flegel
+Original: Flail
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Flegel
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Flail
+  - Flegel
+status: WIP
 ---
-# Flail
-*Weapon*  
+# Flegel
+*Nahkampf-Kriegswaffe*  
 
-- **Damage**: 1d8 bludgeoning
-- **Cost**: 10 gp
-- **Weight**: 2.0 lbs.
+- **Schaden**: 1d8 Wucht
+- **Kosten**: 10 GM
+- **Gewicht**: 1,0 kg
 
-*Source: Player's Handbook p. 149. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

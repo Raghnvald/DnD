@@ -1,12 +1,13 @@
 ---
-Bezeichnung: "Blendendes Niederstrecken "
+Bezeichnung: Blendendes Niederstrecken
 Zaubergrad: 3
-Zeitaufwand: 
+Zeitaufwand: 1 Bonusaktion
 Reichweite: 
 Komponenten: 
 Wirkungsdauer: 
 Angriff: 
 Schaden: 
+Status: WIP
 linter-yaml-title-alias: "Blendendes Niederstrecken "
 classes:
   - Bard (Magical Secrets)
@@ -18,9 +19,9 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Hervorrufung
 aliases:
-  - "Blendendes Niederstrecken "
+  - Blendendes Niederstrecken
 ---
-# Blendendes Niederstrecken 
+# Blendendes Niederstrecken
 *Hervorrufung des 3. Grades*
 
 - **Zeitaufwand:** 1 Bonusaktion

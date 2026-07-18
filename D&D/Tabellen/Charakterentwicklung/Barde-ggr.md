@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bard
+Status: WIP
 linter-yaml-title-alias: Bard
 tags:
   - Quelle/5e/ggr

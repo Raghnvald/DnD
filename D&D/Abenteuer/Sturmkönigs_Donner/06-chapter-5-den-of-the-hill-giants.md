@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 5: Den of the Hill Giants"
+Status: WIP
 linter-yaml-title-alias: "Chapter 5: Den of the Hill Giants"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Chapter 5: Den of the Hill Giants"
-  - Chapter 5: Den of the Hill Giants
 ---
 # Chapter 5: Den of the Hill Giants
 *Source: Storm King's Thunder, p. 137* 

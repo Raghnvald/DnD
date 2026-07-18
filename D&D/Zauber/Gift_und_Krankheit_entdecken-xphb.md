@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Detect Poison and Disease
 classes:
   - Bard
@@ -24,8 +25,8 @@ tags:
   - Klasse/paladin
   - Klasse/Waldläufer
   - Kompendium/Talent/fey-touched
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Zauber/Grad/1

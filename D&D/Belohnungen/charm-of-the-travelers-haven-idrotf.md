@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Charm of the Traveler's Haven"
+Status: WIP
 linter-yaml-title-alias: "Charm of the Traveler's Haven"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - "Charm of the Traveler's Haven"
-  - Charm of the Traveler's Haven
 ---
 # Charm of the Traveler's Haven
 

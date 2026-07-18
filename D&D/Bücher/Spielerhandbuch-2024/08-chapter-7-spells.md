@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 7: Spells"
+Status: WIP
 linter-yaml-title-alias: "Chapter 7: Spells"
 tags:
   - Quelle/5e/xphb
 aliases:
   - "Chapter 7: Spells"
-  - Chapter 7: Spells
 ---
 # Chapter 7: Spells
 *Source: Player's Handbook (2024), p. 235* 

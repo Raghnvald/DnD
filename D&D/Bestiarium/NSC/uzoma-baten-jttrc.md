@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Uzoma Baten
+Status: WIP
 linter-yaml-title-alias: Uzoma Baten
 tags:
   - Monster/Größe/Mittelgroß

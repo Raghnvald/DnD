@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shroud of Shadow
+Status: WIP
 linter-yaml-title-alias: Shroud of Shadow
 tags:
   - Kompendium/Optionales/ei

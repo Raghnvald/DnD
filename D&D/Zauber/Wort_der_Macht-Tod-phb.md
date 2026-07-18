@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Power Word Kill
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Power Word Kill
 classes:
   - Bard (Magical Secrets)

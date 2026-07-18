@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mabar, the Endless Night; Mabar Manifest Zone Features
+Status: WIP
 linter-yaml-title-alias: Mabar, the Endless Night; Mabar Manifest Zone Features
 tags:
   - Quelle/5e/erlw

@@ -5,7 +5,7 @@ Bezeichnung: Tsucora Quori
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 7
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Tsucora Quori
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Tsucora Quori
+status: WIP
 ---
 # [Tsucora Quori](3-Mechanics\CLI\bestiary\aberration/tsucora-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 307*  

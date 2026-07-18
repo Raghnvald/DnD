@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ezra
+Status: WIP
 linter-yaml-title-alias: Ezra
 tags:
-  - Kompendium/Götter/Domäne/unknown
+  - Kompendium/Götter/Domäne/unbekannt
   - Kompendium/Götter/unknown
   - Quelle/5e/vrgr
 aliases:

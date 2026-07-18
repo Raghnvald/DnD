@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Slayer
+Status: WIP
 linter-yaml-title-alias: Charm of the Slayer
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Charm of the Slayer

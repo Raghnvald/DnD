@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ambush
+Status: WIP
 linter-yaml-title-alias: Ambush
 tags:
   - Kompendium/Optionales/mv-b

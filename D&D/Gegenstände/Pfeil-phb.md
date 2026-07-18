@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Pfeil
 Kategorie: Munition
+Status: WIP
 linter-yaml-title-alias: Pfeil
 tags:
   - Gegenstand/Eigenschaft/Munition

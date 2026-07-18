@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Farmer
+Status: WIP
 linter-yaml-title-alias: Farmer
 tags:
   - Kompendium/Hintergrund

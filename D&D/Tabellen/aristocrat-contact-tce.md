@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aristocrat Contact
+Status: WIP
 linter-yaml-title-alias: Aristocrat Contact
 tags:
   - Quelle/5e/tce

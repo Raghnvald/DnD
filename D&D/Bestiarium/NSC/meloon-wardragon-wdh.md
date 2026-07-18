@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Meloon Wardragon
+Status: WIP
 linter-yaml-title-alias: Meloon Wardragon
 tags:
   - Monster/Größe/Mittelgroß

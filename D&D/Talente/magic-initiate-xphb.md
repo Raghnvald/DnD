@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Initiate
+Status: WIP
 linter-yaml-title-alias: Magic Initiate
 tags:
   - Kompendium/Talent

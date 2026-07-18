@@ -1,9 +1,16 @@
 ---
 Bezeichnung: Schwert der Antwort
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1W8 Hieb
+Eigenschaften:
+  - Vielseitig (1W10)
+Einstimmung: durch eine Kreatur, die dieselbe Gesinnung wie das Schwert hat
+Kst.: n/v
+Gew.: 1,5 kg
+Status: completed
 linter-yaml-title-alias: Schwert der Antwort
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
@@ -12,24 +19,24 @@ aliases:
   - Schwert der Antwort
 ---
 # Schwert der Antwort
-*Weapon ([longsword](Langschwert-phb)), major, legendary (requires attunement)*  
+*Waffe ([[Langschwert-phb|Langschwert]]), legendär (erfordert Einstimmung durch eine Kreatur, die dieselbe Gesinnung wie das Schwert hat)*
 
 - **Schaden**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Eigenschaften**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Gewicht**: 3.0 lbs.
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
 **Gegenstände in dieser Gruppe:**
 
-- [[Schwert_der_Antwort-Antwortender-dmg]]
-- [[Schwert_der_Antwort-Beleidigender-dmg]]
-- [[Schwert_der_Antwort-Entkräfter-dmg]]
-- [[Schwert_der_Antwort-Erwidernder-dmg]]
-- [[Schwert_der_Antwort-Konternder-dmg]]
-- [[Schwert_der_Antwort-Letzte_Stichelei-dmg]]
-- [[Schwert_der_Antwort-Schlussfolgernder-dmg]]
-- [[Schwert_der_Antwort-Unterdrücker-dmg]]
-- [[Schwert_der_Antwort-Widerredender-dmg]]
+- [[Schwert_der_Antwort-Antwortender-dmg|Antwortender]]
+- [[Schwert_der_Antwort-Beleidigender-dmg|Beleidigender]]
+- [[Schwert_der_Antwort-Entkräfter-dmg|Entkräfter]]
+- [[Schwert_der_Antwort-Erwidernder-dmg|Erwidernder]]
+- [[Schwert_der_Antwort-Konternder-dmg|Konternder]]
+- [[Schwert_der_Antwort-Letzte_Stichelei-dmg|Letzte Stichelei]]
+- [[Schwert_der_Antwort-Schlussfolgernder-dmg|Schlussfolgernder]]
+- [[Schwert_der_Antwort-Unterdrücker-dmg|Unterdrücker]]
+- [[Schwert_der_Antwort-Widerredender-dmg|Widerredender]]
 
-*Source: Dungeon Master's Guide p. 206*
+*Quelle: Spielleiterhandbuch S. 190*

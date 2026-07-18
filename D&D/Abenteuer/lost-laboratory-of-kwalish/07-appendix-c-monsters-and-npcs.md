@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Monsters and NPCs"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Monsters and NPCs"
 tags:
   - Quelle/5e/llk

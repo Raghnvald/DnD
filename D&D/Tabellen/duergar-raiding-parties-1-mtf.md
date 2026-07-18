@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar Raiding Parties; 1
+Status: WIP
 linter-yaml-title-alias: Duergar Raiding Parties; 1
 tags:
   - Quelle/5e/mtf

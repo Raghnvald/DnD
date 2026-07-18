@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Platinum
+Status: WIP
 linter-yaml-title-alias: Platinum
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Scavenger
+Status: WIP
 linter-yaml-title-alias: Scavenger
 tags:
-  - Gegenstand/Fortbewegung/size/huge
-  - Gegenstand/Fortbewegung/terrain/land
-  - Gegenstand/Fortbewegung/type/infernal-war-machine
+  - Gegenstand/Fortbewegung/Größe/Riesig
+  - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Kategorie/Höllische-Kriegsmaschine
   - Quelle/5e/bgdia
 aliases:
   - Scavenger

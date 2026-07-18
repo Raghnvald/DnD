@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Fathomless
+Status: WIP
 linter-yaml-title-alias: The Fathomless
 tags:
   - Klasse/Hexenmeister/fathomless

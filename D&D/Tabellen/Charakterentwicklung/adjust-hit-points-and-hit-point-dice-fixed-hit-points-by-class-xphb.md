@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class
 Kategorie: Charakterentwicklung
+Status: WIP
 linter-yaml-title-alias: Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class
 tags:
   - Quelle/5e/xphb

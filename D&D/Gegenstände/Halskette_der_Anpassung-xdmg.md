@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Necklace of Adaptation
+Status: WIP
 linter-yaml-title-alias: Necklace of Adaptation
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

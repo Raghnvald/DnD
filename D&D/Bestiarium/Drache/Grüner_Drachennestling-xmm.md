@@ -6,7 +6,7 @@ Kategorie: Drache (Chromatisch)
 Größe: Mittelgroß
 Habitat:
   - Wald
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Green Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Green Dragon Wyrmling
+status: WIP
 ---
 # [Green Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/green-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

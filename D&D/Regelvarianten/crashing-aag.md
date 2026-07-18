@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Crashing
+Status: WIP
 linter-yaml-title-alias: Crashing
 tags:
   - Quelle/5e/aag
 aliases:
-  - "Crashing"
+  - Crashing
   - Crashing
 ---
 # Crashing

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Block and Tackle
+Status: WIP
 linter-yaml-title-alias: Block and Tackle
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Lance
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Lance
 tags:
   - Gegenstand/Seltenheit/keine
@@ -9,6 +10,8 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Lance
+status: WIP
+Original: Lance
 ---
 # Lance
 *Weapon*  

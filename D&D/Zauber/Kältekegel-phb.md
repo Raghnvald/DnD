@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cone of Cold
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Cone of Cold
 classes:
   - Bard (Magical Secrets)

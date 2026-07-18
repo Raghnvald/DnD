@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Masquerade Tattoo
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Masquerade Tattoo
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam/tattoo
   - Quelle/5e/tce

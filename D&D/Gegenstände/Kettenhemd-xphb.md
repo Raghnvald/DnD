@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Chain Shirt
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Chain Shirt
 tags:
   - Gegenstand/Rüstung/Mittel

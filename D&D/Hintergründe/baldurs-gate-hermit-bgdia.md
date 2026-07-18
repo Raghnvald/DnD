@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Hermit"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Hermit"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Hermit"
-  - Baldur's Gate Hermit
 ---
 # Baldur's Gate Hermit
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 134*  

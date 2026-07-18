@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Revivify
+Status: WIP
 linter-yaml-title-alias: Revivify
 classes:
   - Artificer
@@ -22,7 +23,7 @@ tags:
   - Klasse/Druide/circle-of-wildfire
   - Klasse/Kleriker
   - Klasse/Kleriker/grave-domain
-  - Klasse/Kleriker/life-domain
+  - Klasse/Kleriker/Leben
   - Klasse/paladin
   - Klasse/Waldläufer
   - Quelle/5e/xphb

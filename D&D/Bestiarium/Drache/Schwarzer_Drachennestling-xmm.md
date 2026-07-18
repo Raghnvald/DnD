@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - Sumpf
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Black Dragon Wyrmling
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Black Dragon Wyrmling
+status: WIP
 ---
 # [Black Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/black-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

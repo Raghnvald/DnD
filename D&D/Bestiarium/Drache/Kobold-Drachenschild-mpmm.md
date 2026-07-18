@@ -5,6 +5,7 @@ Bezeichnung: Kobold Dragonshield
 Kategorie: Drache
 Größe: Klein
 HG: 1
+Status: WIP
 linter-yaml-title-alias: Kobold Dragonshield
 tags:
   - Monster/Größe/Klein

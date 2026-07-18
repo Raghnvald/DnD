@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aboleth
+Status: WIP
 linter-yaml-title-alias: Aboleth
 tags:
   - Monster/legendary-group

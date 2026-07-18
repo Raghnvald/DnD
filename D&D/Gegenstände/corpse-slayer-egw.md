@@ -1,13 +1,15 @@
 ---
 Bezeichnung: Corpse Slayer
-Kategorie: Beliebige Waffe
+Kategorie: Waffe, beliebig
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: /
+Status: WIP
 linter-yaml-title-alias: Corpse Slayer
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -70,6 +72,8 @@ aliases:
   - Corpse Slayer Warhammer
   - Corpse Slayer Whip
   - Corpse Slayer Yklwa
+status: WIP
+Original: Corpse Slayer
 ---
 # Corpse Slayer
 *Rare (requires attunement)*  

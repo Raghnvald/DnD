@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Krenko's Way"
+Status: WIP
 linter-yaml-title-alias: "Krenko's Way"
 tags:
   - Quelle/5e/kkw

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Verstrickungsgranate
+Status: WIP
 linter-yaml-title-alias: Verstrickungsgranate
 tags:
   - Gegenstand/Seltenheit/keine
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/wdmm
 aliases:
   - Verstrickungsgranate

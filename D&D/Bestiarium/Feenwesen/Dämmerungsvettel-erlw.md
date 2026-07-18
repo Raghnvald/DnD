@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dusk Hag
+Status: WIP
 linter-yaml-title-alias: Dusk Hag
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?"
+Status: WIP
 linter-yaml-title-alias: "Spezielles Merkmal; Wer hat's erfunden oder wer hätte ihn nutzen sollen?"
 tags:
   - Quelle/5e/dmg

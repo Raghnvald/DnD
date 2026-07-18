@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bjornhild Solvigsdottir
+Status: WIP
 linter-yaml-title-alias: Bjornhild Solvigsdottir
 tags:
   - Monster/Größe/Mittelgroß

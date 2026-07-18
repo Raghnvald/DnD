@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Project Image
 Zaubergrad: 7
+Status: WIP
 linter-yaml-title-alias: Project Image
 classes:
   - Bard (Magical Secrets)

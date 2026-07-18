@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Spare the Dying
 classes:
   - Artificer
@@ -25,11 +26,11 @@ tags:
   - Klasse/Kleriker/death-domain
   - Klasse/Kleriker/grave-domain
   - Klasse/Kleriker/nature-domain
-  - Kompendium/Talent/artificer-initiate
+  - Kompendium/Talent/Artifizientenlehrling
   - Kompendium/Talent/blessed-warrior
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Zauber/Grad/0

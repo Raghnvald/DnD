@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Kapitel 5: Gefährliche Pfade"
+Status: WIP
 linter-yaml-title-alias: "Kapitel 5: Gefährliche Pfade"
 tags:
   - Quelle/5e/pabtso
 aliases:
+  - "Chapter 5: Paths of Peril"
   - "Kapitel 5: Gefährliche Pfade"
-  - Chapter 5: Paths of Peril
 ---
 # Kapitel 5: Gefährliche Pfade
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk, S. 77*

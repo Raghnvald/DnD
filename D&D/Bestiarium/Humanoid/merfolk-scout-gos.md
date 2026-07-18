@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merfolk Scout
+Status: WIP
 linter-yaml-title-alias: Merfolk Scout
 tags:
   - Monster/Größe/Mittelgroß

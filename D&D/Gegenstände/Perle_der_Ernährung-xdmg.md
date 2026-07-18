@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bead of Nourishment
+Status: WIP
 linter-yaml-title-alias: Bead of Nourishment
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

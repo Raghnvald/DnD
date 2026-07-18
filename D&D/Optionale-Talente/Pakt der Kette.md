@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Pakt der Kette
+Status: WIP
 tags:
   - Klasse/Hexenmeister
   - Kompendium/Optionales/Pakt
   - Quelle/5e/phb
 aliases:
-  - "Pact of the Chain"
+  - Pact of the Chain
 ---
 # Pakt der Kette
 _Quelle:_ Spielerhandbuch  

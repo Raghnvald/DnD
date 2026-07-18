@@ -1,24 +1,32 @@
 ---
-Bezeichnung: Fane-Eater
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Fane-Eater
+Bezeichnung: Weihefresser
+Original: Fane-Eater
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1W8 Hieb
+Eigenschaften:
+  - Vielseitig (1W10)
+Kst.: n/v
+Gew.: 2,0 kg
+Status: WIP
+linter-yaml-title-alias: Weihefresser
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgdia
 aliases:
-  - Fane-Eater
+  - Weihefresser
+status: WIP
 ---
-# Fane-Eater
-*Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md)), legendary (requires attunement by an evil cleric or paladin)*  
+# Weihefresser
+*Weapon ([battleaxe](Streitaxt-phb)), legendary (requires attunement by an evil cleric or paladin)*  
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 4.0 lbs.
+- **Schaden**:
+  - Einhändig: 1d8 Hieb
+  - Zweihändig: 1d10 Hieb
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 2,0 kg.
 
 Fane-Eater is a battleaxe belonging to [Arkhan the Cruel](/3-Mechanics/CLI/bestiary/npc/arkhan-the-cruel-bgdia.md).
 

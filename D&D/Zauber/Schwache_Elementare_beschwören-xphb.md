@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conjure Minor Elementals
+Status: WIP
 linter-yaml-title-alias: Conjure Minor Elementals
 classes:
   - Bard

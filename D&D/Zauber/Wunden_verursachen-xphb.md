@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Inflict Wounds
 classes:
   - Bard
@@ -18,7 +19,7 @@ tags:
   - Klasse/Barde
   - Klasse/Kleriker
   - Klasse/Paladin/Eidbrecher
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Kompendium/Talent/shadow-touched
   - Quelle/5e/xphb
   - Subklasse/divine-soul/evil

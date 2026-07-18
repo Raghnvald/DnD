@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gorgon
+Status: WIP
 linter-yaml-title-alias: Gorgon
 tags:
   - Monster/Größe/Groß

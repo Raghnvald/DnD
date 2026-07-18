@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Battle Smith
+Status: WIP
 linter-yaml-title-alias: Battle Smith
 tags:
   - Klasse/Artifizient/battle-smith

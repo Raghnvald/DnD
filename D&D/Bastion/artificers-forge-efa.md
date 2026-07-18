@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Artificer's Forge"
+Status: WIP
 linter-yaml-title-alias: "Artificer's Forge"
 tags:
   - Kompendium/Bastion

@@ -8,7 +8,7 @@ HG: 3
 Habitat:
   - /
 Image: token/chishinix-head-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: "Chishinix' Kopf"
 tags:
   - Monster/Größe/Winzig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - "Chishinix' Kopf"
+status: WIP
 ---
 # Chishinix' Kopf
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

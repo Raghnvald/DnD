@@ -1,11 +1,12 @@
 ---
 Bezeichnung: The Everlight
+Status: WIP
 linter-yaml-title-alias: The Everlight
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/Domäne/peace
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Frieden
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Raei

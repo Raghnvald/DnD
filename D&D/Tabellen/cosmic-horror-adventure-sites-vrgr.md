@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cosmic Horror Adventure Sites
+Status: WIP
 linter-yaml-title-alias: Cosmic Horror Adventure Sites
 tags:
   - Quelle/5e/vrgr

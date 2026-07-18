@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hippopotamus
+Status: WIP
 linter-yaml-title-alias: Hippopotamus
 tags:
   - Monster/Größe/Groß

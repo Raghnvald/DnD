@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Appendix C - Handouts
+Status: WIP
 linter-yaml-title-alias: Appendix C - Handouts
 tags:
   - Quelle/5e/wtthc
 aliases:
-  - "Appendix C - Handouts"
+  - Appendix C - Handouts
   - Appendix C - Handouts
 ---
 # Appendix C - Handouts

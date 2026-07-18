@@ -8,7 +8,7 @@ HG: 22
 Habitat:
   - /
 Image: token/elder-brain-dragon-ftd.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ältestengehirndrache
 tags:
   - Monster/Größe/Gigantisch
@@ -18,6 +18,7 @@ tags:
 aliases:
   - Ältestengehirndrache
   - Elder Brain Dragon
+status: WIP
 ---
 # Ältestengehirndrache
 *Source: Fizban's Treasury of Dragons p. 194*  

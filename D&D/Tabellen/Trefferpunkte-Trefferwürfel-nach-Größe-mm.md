@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hit Points; Hit Dice by Size
+Status: WIP
 linter-yaml-title-alias: Hit Points; Hit Dice by Size
 tags:
   - Quelle/5e/mm

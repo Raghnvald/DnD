@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bring It to an End; Adventure Climax
+Status: WIP
 linter-yaml-title-alias: Bring It to an End; Adventure Climax
 tags:
   - Quelle/5e/xdmg

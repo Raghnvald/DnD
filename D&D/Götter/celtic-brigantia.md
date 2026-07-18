@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Brigantia
+Status: WIP
 linter-yaml-title-alias: Brigantia
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/life
+  - Kompendium/Götter/Domäne/Leben
   - Quelle/5e/phb
 aliases:
   - Brigantia

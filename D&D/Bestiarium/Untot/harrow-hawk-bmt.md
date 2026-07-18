@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Harrow Hawk
+Status: WIP
 linter-yaml-title-alias: Harrow Hawk
 tags:
   - Monster/Größe/Winzig

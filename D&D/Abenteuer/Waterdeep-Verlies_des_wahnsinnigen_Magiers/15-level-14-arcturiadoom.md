@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 14: Arcturiadoom"
+Status: WIP
 linter-yaml-title-alias: "Level 14: Arcturiadoom"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 14: Arcturiadoom"
-  - Level 14: Arcturiadoom
 ---
 # Level 14: Arcturiadoom
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 179* 

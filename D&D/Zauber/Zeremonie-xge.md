@@ -1,13 +1,14 @@
 ---
-Bezeichnung: Ceremony
+Bezeichnung: Zeremonie
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Stunde
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
 Angriff:
 Schaden:
-linter-yaml-title-alias: Ceremony
+Status: WIP
+linter-yaml-title-alias: Zeremonie
 classes:
   - Bard
   - Bard (College of Lore)
@@ -19,8 +20,8 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Kleriker
   - Klasse/paladin
-  - Kompendium/Talent/magic-initiate/cleric-spells
-  - Kompendium/Talent/ritual-caster
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
+  - Kompendium/Talent/Ritualwirker
   - Quelle/5e/xge
   - Subklasse/divine-soul/good
   - Zauber/Grad/1
@@ -29,9 +30,9 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Bann
 aliases:
-  - Ceremony
+  - Zeremonie
 ---
-# Ceremony
+# Zeremonie
 *1st-level, Abjuration (ritual)*  
 
 - **Casting time:** 1 hour unless cast as a ritual

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Icewind Kobold Zombie
+Status: WIP
 linter-yaml-title-alias: Icewind Kobold Zombie
 tags:
   - Monster/Größe/Klein

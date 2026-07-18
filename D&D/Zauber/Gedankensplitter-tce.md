@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Mind Sliver
+Bezeichnung: Gedankensplitter
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
@@ -7,7 +7,8 @@ Komponenten: V
 Wirkungsdauer: Unmittelbar
 Angriff: INT
 Schaden: 1d6
-linter-yaml-title-alias: Mind Sliver
+Status: WIP
+linter-yaml-title-alias: Gedankensplitter
 classes:
   - Bard (College of Lore)
   - Fighter (Eldritch Knight)
@@ -22,7 +23,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xphb
   - Rasse/elf/high-elf
   - Rasse/kobold
@@ -32,9 +33,9 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Verzauberung
 aliases:
-  - Mind Sliver
+  - Gedankensplitter
 ---
-# Mind Sliver
+# Gedankensplitter
 *cantrip, Enchantment*  
 
 - **Casting time:** 1 Action

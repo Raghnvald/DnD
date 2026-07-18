@@ -5,6 +5,7 @@ Zeitaufwand: 1 Aktion
 Reichweite: Berührung
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
+Status: WIP
 linter-yaml-title-alias: Fluch brechen
 classes:
   - Bard (Magical Secrets)

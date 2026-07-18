@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Calcryx
+Status: WIP
 linter-yaml-title-alias: Calcryx
 tags:
   - Monster/Größe/Mittelgroß

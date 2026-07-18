@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Longbow
+Status: WIP
 linter-yaml-title-alias: Longbow
 tags:
   - Gegenstand/Seltenheit/keine

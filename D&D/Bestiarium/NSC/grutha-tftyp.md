@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grutha
+Status: WIP
 linter-yaml-title-alias: Grutha
 tags:
   - Monster/Größe/Riesig

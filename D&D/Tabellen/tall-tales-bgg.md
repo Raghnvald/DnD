@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tall Tales
+Status: WIP
 linter-yaml-title-alias: Tall Tales
 tags:
   - Quelle/5e/bgg

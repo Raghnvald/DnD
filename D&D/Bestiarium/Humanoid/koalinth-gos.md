@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Koalinth
+Status: WIP
 linter-yaml-title-alias: Koalinth
 tags:
   - Monster/Größe/Mittelgroß

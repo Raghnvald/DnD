@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Psychic Wind Location Effects
+Status: WIP
 linter-yaml-title-alias: Psychic Wind Location Effects
 tags:
   - Quelle/5e/xdmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "<center> Kapitel 2: Elturel ist gefallen </center>"
+Status: WIP
 linter-yaml-title-alias: "<center> Kapitel 2: Elturel ist gefallen </center>"
 tags:
   - Quelle/5e/bgdia

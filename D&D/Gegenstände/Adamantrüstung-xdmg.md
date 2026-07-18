@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Adamantine Armor
 Rüstung: Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Adamantine Armor
 tags:
   - Gegenstand/Rüstung/Mittel

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Caltrops
+Status: WIP
 linter-yaml-title-alias: Caltrops
 tags:
   - Gegenstand/Ausrüstung/

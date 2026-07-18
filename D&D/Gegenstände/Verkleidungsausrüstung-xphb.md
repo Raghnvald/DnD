@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Disguise Kit
+Status: WIP
 linter-yaml-title-alias: Disguise Kit
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Wearables
+Status: WIP
 linter-yaml-title-alias: Wearables
 tags:
   - Quelle/5e/cabomp
 aliases:
-  - "Wearables"
+  - Wearables
   - Wearables
 ---
 # Wearables

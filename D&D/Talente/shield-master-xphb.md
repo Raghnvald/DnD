@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shield Master
+Status: WIP
 linter-yaml-title-alias: Shield Master
 tags:
   - Kompendium/Talent

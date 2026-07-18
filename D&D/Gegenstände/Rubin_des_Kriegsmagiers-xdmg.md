@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ruby of the War Mage
+Status: WIP
 linter-yaml-title-alias: Ruby of the War Mage
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:

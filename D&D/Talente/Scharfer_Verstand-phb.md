@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Scharfer Verstand
-linter-yaml-title-alias: Keen Mind
+Status: WIP
+linter-yaml-title-alias: Scharfer Verstand
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Keen Mind
+  - Scharfer Verstand
 ---
 # Scharfer Verstand
 *Source: Player's Handbook p. 167*  

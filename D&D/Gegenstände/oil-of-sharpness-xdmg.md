@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oil of Sharpness
+Status: WIP
 linter-yaml-title-alias: Oil of Sharpness
 tags:
   - Gegenstand/Seltenheit/sehr_selten

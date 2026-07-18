@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Playing Cards
+Status: WIP
 linter-yaml-title-alias: Playing Cards
 tags:
   - Gegenstand/Ausrüstung/Spielset

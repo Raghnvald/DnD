@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Bronze Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Bronze Dragon
 tags:
   - Monster/Größe/Gigantisch

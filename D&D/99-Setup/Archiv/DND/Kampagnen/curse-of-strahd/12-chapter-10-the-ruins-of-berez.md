@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 10: The Ruins of Berez"
+Status: WIP
 linter-yaml-title-alias: "Chapter 10: The Ruins of Berez"
 tags:
   - Quelle/5e/cos
 aliases:
   - "Chapter 10: The Ruins of Berez"
-  - Chapter 10: The Ruins of Berez
 ---
 # Chapter 10: The Ruins of Berez
 *Source: Curse of Strahd, p. 161* 

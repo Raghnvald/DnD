@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valtagar Steelshadow
+Status: WIP
 linter-yaml-title-alias: Valtagar Steelshadow
 tags:
   - Monster/Größe/Mittelgroß

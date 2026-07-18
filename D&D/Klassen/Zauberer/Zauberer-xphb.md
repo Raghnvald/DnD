@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sorcerer
+Status: WIP
 linter-yaml-title-alias: Sorcerer
 tags:
   - Klasse/Zauberer

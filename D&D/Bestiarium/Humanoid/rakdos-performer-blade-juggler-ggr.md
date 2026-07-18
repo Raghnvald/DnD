@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rakdos Performer, Blade Juggler
+Status: WIP
 linter-yaml-title-alias: Rakdos Performer, Blade Juggler
 tags:
   - Monster/Größe/Mittelgroß

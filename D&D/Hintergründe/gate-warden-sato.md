@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Gate Warden
+Status: WIP
 linter-yaml-title-alias: Gate Warden
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/sato
 aliases:
-  - "Gate Warden"
+  - Gate Warden
   - Gate Warden
 ---
 # Gate Warden

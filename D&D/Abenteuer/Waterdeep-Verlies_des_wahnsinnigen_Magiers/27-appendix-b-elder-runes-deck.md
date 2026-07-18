@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Elder Runes Deck"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Elder Runes Deck"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Appendix B: Elder Runes Deck"
-  - Appendix B: Elder Runes Deck
 ---
 # Appendix B: Elder Runes Deck
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 318* 

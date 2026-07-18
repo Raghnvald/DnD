@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Giant Statue
+Status: WIP
 linter-yaml-title-alias: Stone Giant Statue
 tags:
   - Monster/Größe/Riesig

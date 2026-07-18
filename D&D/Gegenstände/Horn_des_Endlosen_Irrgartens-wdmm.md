@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horn of the Endless Maze
+Status: WIP
 linter-yaml-title-alias: Horn of the Endless Maze
 tags:
   - Gegenstand/Seltenheit/selten

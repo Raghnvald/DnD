@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dendar
+Status: WIP
 linter-yaml-title-alias: Dendar
 tags:
   - Kompendium/Götter/yuan-ti

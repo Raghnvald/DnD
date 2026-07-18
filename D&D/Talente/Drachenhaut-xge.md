@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Drachenhaut
-linter-yaml-title-alias: Dragon Hide
+Status: WIP
+linter-yaml-title-alias: Drachenhaut
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Dragon Hide
+  - Drachenhaut
 ---
 # Drachenhaut
 *Source: Xanathar's Guide to Everything p. 74*  

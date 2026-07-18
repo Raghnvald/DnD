@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Streitkolben
-Kategorie: Einfache Nahkampfwaffe
+Kategorie: Nahkampfwaffe, einfach
 Schaden: 1W6 Wucht
 Eigenschaften:
-  - /
-Einstimmung: /
+  - n/v
+Einstimmung: n/v
 Kst.: 5 GM
 Gew.: 2,0 kg
+Status: completed
+Original: Mace
 linter-yaml-title-alias: Streitkolben
 tags:
   - 5 GMGegenstand/Seltenheit/keine
@@ -20,7 +22,7 @@ aliases:
 # Streitkolben
 *Einfache Nahkampfwaffe*  
 
-- **Schaden**: 1W6 Wucht
+- **Schaden**: 1d6 Wucht
 - **Kosten**: 5 GM
 - **Gewicht**: 2,0 kg
 

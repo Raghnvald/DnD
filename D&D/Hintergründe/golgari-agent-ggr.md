@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Golgari Agent
+Status: WIP
 linter-yaml-title-alias: Golgari Agent
 tags:
   - Kompendium/Hintergrund

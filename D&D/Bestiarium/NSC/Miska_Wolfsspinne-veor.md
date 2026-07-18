@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Miska the Wolf-Spider
-image: token/miska-the-wolf-spider-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Miska the Wolf-Spider
 tags:
   - Monster/Größe/Riesig
@@ -12,6 +11,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Miska the Wolf-Spider
+image: token/miska-the-wolf-spider-veor.webp
+status: WIP
 ---
 # Miska the Wolf-Spider
 *Quelle: Vecna: Vorabend der Verdammnis S. 247*  

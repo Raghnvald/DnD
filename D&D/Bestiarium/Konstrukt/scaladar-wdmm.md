@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scaladar
+Status: WIP
 linter-yaml-title-alias: Scaladar
 tags:
   - Monster/Größe/Riesig

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Circle of Power
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Circle of Power
 classes:
   - Bard (Magical Secrets)

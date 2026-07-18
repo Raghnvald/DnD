@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rations
+Status: WIP
 linter-yaml-title-alias: Rations
 tags:
   - Gegenstand/Ausrüstung/

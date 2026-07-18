@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Otto
+Status: WIP
 linter-yaml-title-alias: Otto
 tags:
   - Monster/Größe/Groß

@@ -2,10 +2,10 @@
 Bezeichnung: Kanu
 Kategorie: Luft- und Wasserfahrzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 50 GM
 Gew.: 50,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Kanu
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

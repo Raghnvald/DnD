@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Clockwork Trebuchet
+Status: WIP
 linter-yaml-title-alias: Clockwork Trebuchet
 tags:
-  - Kompendium/Objekt/size/huge
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Riesig
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/hbtd
 aliases:
-  - "Clockwork Trebuchet"
+  - Clockwork Trebuchet
   - Clockwork Trebuchet
 ---
 # Clockwork Trebuchet

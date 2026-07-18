@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nagpa
+Status: WIP
 linter-yaml-title-alias: Nagpa
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Find Traps
+Status: WIP
 linter-yaml-title-alias: Find Traps
 classes:
   - Bard

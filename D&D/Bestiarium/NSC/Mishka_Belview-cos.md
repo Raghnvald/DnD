@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Mishka Belview
+Status: WIP
 linter-yaml-title-alias: Mishka Belview
 tags:
   - Monster/Größe/Mittelgroß

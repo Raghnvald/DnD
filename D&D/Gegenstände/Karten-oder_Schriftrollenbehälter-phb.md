@@ -2,10 +2,10 @@
 Bezeichnung: Karten- oder Schriftrollenbehälter
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Karten- oder Schriftrollenbehälter
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,7 +18,7 @@ aliases:
 *Abenteuerausrüstung*  
 
 - **Kosten**: 1 GM
-- **Gewicht**: 0,5 kg.
+- **Gewicht**: 0,5 kg
 
 Dieser zylindrische Lederbehälter kann bis zu zehn zusammengerollte [[Papier-ein-Blatt-phb|Blatt Papier]] oder fünf zusammengerollte [[Pergament-ein-Blatt-phb|Blatt Pergament]] enthalten.
 

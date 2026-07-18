@@ -3,16 +3,17 @@ Bezeichnung: Pfeil des Tötens
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
+Kst.: n/v
 Gew.: 0,025 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Pfeil des Tötens
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg
 aliases:
   - Pfeil des Tötens
+status: WIP
 ---
 # Pfeil des Tötens
 *Ammunition, minor, very rare*  

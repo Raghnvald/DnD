@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zustände
+Status: WIP
 linter-yaml-title-alias: Zustände
 tags: []
 aliases:

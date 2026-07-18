@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Layers of Hades
+Status: WIP
 linter-yaml-title-alias: Layers of Hades
 tags:
   - Quelle/5e/xdmg

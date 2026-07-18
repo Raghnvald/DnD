@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sphinx of Judgment
+Status: WIP
 linter-yaml-title-alias: Sphinx of Judgment
 tags:
   - Monster/Größe/Groß

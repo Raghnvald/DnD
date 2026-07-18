@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ability Scores
+Status: WIP
 linter-yaml-title-alias: Ability Scores
 tags:
   - Quelle/5e/xphb

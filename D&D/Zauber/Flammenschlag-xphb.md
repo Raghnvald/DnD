@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flame Strike
+Status: WIP
 linter-yaml-title-alias: Flame Strike
 classes:
   - Bard
@@ -13,7 +14,7 @@ tags:
   - Klasse/Barde
   - Klasse/Druide/circle-of-wildfire
   - Klasse/Kleriker
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Paladin/Schwur-der-Hingabe
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good

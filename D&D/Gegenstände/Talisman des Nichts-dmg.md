@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Talisman of the Sphere
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Talisman of the Sphere
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/dmg

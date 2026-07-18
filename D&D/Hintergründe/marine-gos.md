@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Marine
+Status: WIP
 linter-yaml-title-alias: Marine
 tags:
   - Kompendium/Hintergrund

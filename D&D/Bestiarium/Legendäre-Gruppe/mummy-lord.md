@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mummy Lord
+Status: WIP
 linter-yaml-title-alias: Mummy Lord
 tags:
   - Monster/legendary-group

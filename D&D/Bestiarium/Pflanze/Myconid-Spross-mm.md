@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myconid Sprout
+Status: WIP
 linter-yaml-title-alias: Myconid Sprout
 tags:
   - Monster/Größe/Klein

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cast-Off Armor
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Cast-Off Armor
 tags:
   - Gegenstand/Rüstung/Leicht

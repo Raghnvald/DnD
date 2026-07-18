@@ -1,9 +1,10 @@
 ---
 Bezeichnung: The Red Knight
+Status: WIP
 linter-yaml-title-alias: The Red Knight
 tags:
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - The Crimson General

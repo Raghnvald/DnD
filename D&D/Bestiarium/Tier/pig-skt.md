@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pig
+Status: WIP
 linter-yaml-title-alias: Pig
 tags:
   - Monster/Größe/Mittelgroß

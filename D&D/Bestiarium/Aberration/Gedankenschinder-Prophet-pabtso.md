@@ -6,7 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 8
 Image: token/mind-flayer-prophet-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Mind Flayer Prophet
 tags:
   - Monster/Größe/Mittelgroß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Mind Flayer Prophet
+status: WIP
 ---
 # Mind Flayer Prophet
 *Source: Phandelver and Below: The Shattered Obelisk p. 210*  

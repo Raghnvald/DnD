@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow (Magic Equipment)
+Status: WIP
 linter-yaml-title-alias: Drow (Magic Equipment)
 tags:
   - Monster/Größe/Mittelgroß

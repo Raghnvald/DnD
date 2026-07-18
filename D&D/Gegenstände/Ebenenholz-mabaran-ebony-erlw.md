@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Imbued Wood (Mabaran Ebony)
+Original: Imbued Wood (Mabaran Ebony)
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Imbued Wood (Mabaran Ebony)
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/wundersam/generic-variant

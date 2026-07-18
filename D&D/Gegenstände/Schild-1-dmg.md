@@ -3,19 +3,19 @@ Bezeichnung: Schild +1
 Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Schild +1
 tags:
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:
-  - +1 Shield
   - Schild +1
 ---
 # Schild +1

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boots of the Winding Path
+Status: WIP
 linter-yaml-title-alias: Boots of the Winding Path
 tags:
   - Kompendium/Optionales/ai

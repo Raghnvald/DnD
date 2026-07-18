@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Contagion
+Status: WIP
 linter-yaml-title-alias: Contagion
 classes:
   - Bard

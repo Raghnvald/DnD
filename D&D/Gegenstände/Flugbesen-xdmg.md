@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Broom of Flying
+Status: WIP
 linter-yaml-title-alias: Broom of Flying
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

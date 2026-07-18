@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Hathor
+Status: WIP
 linter-yaml-title-alias: Hathor
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

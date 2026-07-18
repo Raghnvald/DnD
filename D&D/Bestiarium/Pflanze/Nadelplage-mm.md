@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Needle Blight
+Status: WIP
 linter-yaml-title-alias: Needle Blight
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Tyrants; Tyrants Contacts
+Status: WIP
 linter-yaml-title-alias: The Tyrants; Tyrants Contacts
 tags:
   - Quelle/5e/erlw

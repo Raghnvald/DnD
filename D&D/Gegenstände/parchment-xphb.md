@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Parchment
+Status: WIP
 linter-yaml-title-alias: Parchment
 tags:
   - Gegenstand/Ausrüstung/

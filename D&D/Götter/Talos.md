@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Talos, Gott der Stürme
+Status: WIP
 linter-yaml-title-alias: Talos, Gott der Stürme
 tags:
   - Kompendium/Götter

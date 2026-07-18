@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Armblade
-Kategorie: Beliebig, Nahkampfwaffe
+Original: Armblade
+Kategorie: Nahkampfwaffe, beliebig
 Eigenschaften:
-  - erfordert Einstimmung durch einen Kriegsgeschmiedeten
-Kst.: /
-Gew.: /
+  - n/v
+Kst.: n/v
+Gew.: variiert
+Status: WIP
+Einstimmung: durch einen Kriegsgeschmiedeten
 linter-yaml-title-alias: Armblade
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Kriegswaffe

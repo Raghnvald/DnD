@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sangora
+Original: Sangora
 Kategorie: Untoter (Gestaltwandler)
 Größe: Mittelgroß
 HG: 13
 Habitat:
   - /
-image: token/sangora-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Sangora
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Sangora
+image: token/sangora-veor.webp
 ---
 # Sangora
 *Quelle: Vecna: Vorabend der Verdammnis*  

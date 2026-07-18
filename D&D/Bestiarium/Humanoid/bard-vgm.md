@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bard
+Status: WIP
 linter-yaml-title-alias: Bard
 tags:
   - Monster/Größe/Mittelgroß

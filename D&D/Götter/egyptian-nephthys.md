@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Nephthys
+Status: WIP
 linter-yaml-title-alias: Nephthys
 tags:
-  - Kompendium/Götter/Domäne/death
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

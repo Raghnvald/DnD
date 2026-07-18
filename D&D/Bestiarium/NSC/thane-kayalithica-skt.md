@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thane Kayalithica
+Status: WIP
 linter-yaml-title-alias: Thane Kayalithica
 tags:
   - Monster/Größe/Riesig

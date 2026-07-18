@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Deck of Many More Things
+Status: WIP
 linter-yaml-title-alias: Deck of Many More Things
 tags:
   - Quelle/5e/dmtcrg
 aliases:
-  - "Deck of Many More Things"
+  - Deck of Many More Things
   - Deck of Many More Things
 ---
 # Deck of Many More Things

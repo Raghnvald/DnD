@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Golem
+Status: WIP
 linter-yaml-title-alias: Stone Golem
 tags:
   - Monster/Größe/Groß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiendish Vigor
+Status: WIP
 linter-yaml-title-alias: Fiendish Vigor
 tags:
   - Kompendium/Optionales/ei

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Flamethrower Coach
+Status: WIP
 linter-yaml-title-alias: Flamethrower Coach
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/xdmg
 aliases:
   - Flamethrower Coach

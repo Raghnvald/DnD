@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circle of Spores
+Status: WIP
 linter-yaml-title-alias: Circle of Spores
 tags:
   - Klasse/Druide/spores

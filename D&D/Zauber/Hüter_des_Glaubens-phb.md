@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Guardian of Faith
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Guardian of Faith
 classes:
   - Bard (Magical Secrets)
@@ -11,8 +12,8 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/life-domain
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Leben
+  - Klasse/Kleriker/Licht
   - Klasse/Paladin/Schwur-der-Hingabe
   - Quelle/5e/phb
   - Zauber/Grad/4

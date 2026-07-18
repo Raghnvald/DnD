@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Staff of Healing
+Status: WIP
 linter-yaml-title-alias: Staff of Healing
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Konzentrierter Zauber
+Status: WIP
 linter-yaml-title-alias: Konzentrierter Zauber
 tags:
   - Kompendium/Optionales/Metamagie

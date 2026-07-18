@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Jergal, Schreiber der Toten
+Status: WIP
 linter-yaml-title-alias: Jergal, Schreiber der Toten
 tags:
   - Kompendium/Götter

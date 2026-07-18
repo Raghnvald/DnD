@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: Cosmology"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Cosmology"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Chapter 6: Cosmology"
-  - Chapter 6: Cosmology
 ---
 # Chapter 6: Cosmology
 *Source: Dungeon Master's Guide (2024), p. 173* 

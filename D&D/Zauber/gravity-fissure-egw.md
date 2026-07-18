@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gravity Fissure
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Gravity Fissure
 tags:
   - Quelle/5e/egw

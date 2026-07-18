@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Dungeons & Dragons: Red Dragon's Tale"
+Status: WIP
 linter-yaml-title-alias: "Dungeons & Dragons: Red Dragon's Tale"
 tags:
   - Quelle/5e/lrdt

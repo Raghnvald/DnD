@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Anthropologist
+Status: WIP
 linter-yaml-title-alias: Anthropologist
 tags:
   - Kompendium/Hintergrund

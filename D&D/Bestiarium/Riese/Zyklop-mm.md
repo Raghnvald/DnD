@@ -1,8 +1,9 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Cyclops
-linter-yaml-title-alias: Cyclops
+Bezeichnung: Zyklop
+Status: WIP
+linter-yaml-title-alias: Zyklop
 tags:
   - Monster/Größe/Riesig
   - Monster/Habitat/Berg
@@ -15,7 +16,7 @@ tags:
   - Monster/Typ/Riese
   - Quelle/5e/mm
 aliases:
-  - Cyclops
+  - Zyklop
 ---
 # Zyklop
 *Quelle: Monsterhandbuch S. 317. Verfügbar im Grundregelwerk (2014)*  

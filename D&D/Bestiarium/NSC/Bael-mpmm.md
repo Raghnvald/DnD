@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bael
+Status: WIP
 linter-yaml-title-alias: Bael
 tags:
   - Monster/Größe/Groß

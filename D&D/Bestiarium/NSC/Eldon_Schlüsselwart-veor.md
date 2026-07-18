@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Eldon Schlüsselwart
+Original: Eldon Keyward
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 2
 Habitat:
   - /
-image: token/eldon-keyward-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Eldon Schlüsselwart
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Eldon Schlüsselwart
+image: token/eldon-keyward-veor.webp
 ---
 # Eldon Schlüsselwart
 *Quelle: Vecna: Vorabend der Verdammnis*  

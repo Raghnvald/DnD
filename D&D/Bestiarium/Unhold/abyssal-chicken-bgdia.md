@@ -7,8 +7,7 @@ Größe: Winzig
 HG: 1/4
 Habitat:
   - /
-image: token/abyssal-chicken-bgdia.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Abyssal Chicken
 tags:
   - Monster/Größe/Winzig
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Abyssal Chicken
+image: token/abyssal-chicken-bgdia.webp
+status: WIP
 ---
 # [Abyssal Chicken](3-Mechanics\CLI\bestiary\fiend/abyssal-chicken-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 97*  

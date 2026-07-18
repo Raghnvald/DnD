@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Command Amulet
+Status: WIP
 linter-yaml-title-alias: Command Amulet
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/xmm
 aliases:
   - Command Amulet

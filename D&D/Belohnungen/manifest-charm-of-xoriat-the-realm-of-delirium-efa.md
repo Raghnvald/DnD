@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Manifest Charm of Xoriat, the Realm of Delirium
+Status: WIP
 linter-yaml-title-alias: Manifest Charm of Xoriat, the Realm of Delirium
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/efa
 aliases:
-  - "Manifest Charm of Xoriat, the Realm of Delirium"
+  - Manifest Charm of Xoriat, the Realm of Delirium
   - Manifest Charm of Xoriat, the Realm of Delirium
 ---
 # Manifest Charm of Xoriat, the Realm of Delirium

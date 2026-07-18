@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Character Names
+Status: WIP
 linter-yaml-title-alias: Character Names
 tags:
   - Quelle/5e/xge

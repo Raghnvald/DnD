@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Obsidian-Feuersteindrachen-Ritterrüstung
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Obsidian-Feuersteindrachen-Ritterrüstung
 tags:
   - Gegenstand/Rüstung/Schwer
@@ -8,6 +9,13 @@ tags:
   - Quelle/5e/bgdia
 aliases:
   - Obsidian-Feuersteindrachen-Ritterrüstung
+status: WIP
+Einstimmung: n/v
+Kst.: n/v
+Gew.: 32,5 kg
+RK: "18"
+STR: 15
+Heiml.: Nachteil
 ---
 # Obsidian-Feuersteindrachen-Ritterrüstung
 *Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary*  

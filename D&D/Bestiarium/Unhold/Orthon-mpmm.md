@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orthon
+Status: WIP
 linter-yaml-title-alias: Orthon
 tags:
   - Monster/Größe/Groß

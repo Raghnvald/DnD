@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shapechange
+Status: WIP
 linter-yaml-title-alias: Shapechange
 classes:
   - Bard

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Human (Innistrad; Kessig)
+Status: WIP
 linter-yaml-title-alias: Human (Innistrad; Kessig)
 tags:
   - Quelle/5e/psi
   - Rasse/human/innistrad-kessig
 aliases:
-  - "Human (Innistrad; Kessig)"
+  - Human (Innistrad; Kessig)
   - Human (Innistrad; Kessig)
 ---
 # Human (Innistrad; Kessig)

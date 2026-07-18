@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Arcane Study Charm
+Status: WIP
 linter-yaml-title-alias: Arcane Study Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/xdmg
 aliases:
   - Arcane Study Charm

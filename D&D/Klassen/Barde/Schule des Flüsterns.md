@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schule des Flüsterns
+Status: WIP
 tags:
   - Klasse/Barde
   - Quelle/5e/xge

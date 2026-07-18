@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Grand Basilica Adventures
+Status: WIP
 linter-yaml-title-alias: Grand Basilica Adventures
 tags:
   - Quelle/5e/ggr

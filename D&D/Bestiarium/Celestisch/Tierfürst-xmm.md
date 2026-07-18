@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Animal Lord
+Status: WIP
 linter-yaml-title-alias: Animal Lord
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Devil
+Status: WIP
 linter-yaml-title-alias: Bone Devil
 tags:
   - Monster/Größe/Groß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aristocrat Retainer Roles
+Status: WIP
 linter-yaml-title-alias: Aristocrat Retainer Roles
 tags:
   - Quelle/5e/tce

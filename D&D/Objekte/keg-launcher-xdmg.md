@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Keg Launcher
+Status: WIP
 linter-yaml-title-alias: Keg Launcher
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/xdmg
 aliases:
   - Keg Launcher

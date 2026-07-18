@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Fire and Darkness
+Status: WIP
 linter-yaml-title-alias: Fire and Darkness
 tags:
   - Quelle/5e/kftgv
 aliases:
-  - "Fire and Darkness"
+  - Fire and Darkness
   - Fire and Darkness
 ---
 # Fire and Darkness

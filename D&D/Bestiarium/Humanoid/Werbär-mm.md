@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Werebear
+Status: WIP
 linter-yaml-title-alias: Werebear
 tags:
   - Monster/Größe/Mittelgroß

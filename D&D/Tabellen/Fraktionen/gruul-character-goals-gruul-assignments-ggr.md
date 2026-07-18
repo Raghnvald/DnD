@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gruul Character Goals; Gruul Assignments
+Status: WIP
 linter-yaml-title-alias: Gruul Character Goals; Gruul Assignments
 tags:
   - Quelle/5e/ggr

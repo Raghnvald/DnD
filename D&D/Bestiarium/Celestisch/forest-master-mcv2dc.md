@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Forest Master
+Status: WIP
 linter-yaml-title-alias: Forest Master
 tags:
   - Monster/Größe/Groß

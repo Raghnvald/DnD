@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Trithereon
+Status: WIP
 linter-yaml-title-alias: Trithereon
 tags:
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Trithereon

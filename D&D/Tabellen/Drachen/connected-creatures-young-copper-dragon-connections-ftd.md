@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Young Copper Dragon Connections
+Status: WIP
 linter-yaml-title-alias: Connected Creatures; Young Copper Dragon Connections
 tags:
   - Quelle/5e/ftd

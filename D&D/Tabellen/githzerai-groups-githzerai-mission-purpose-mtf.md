@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Githzerai Groups; Githzerai Mission Purpose
+Status: WIP
 linter-yaml-title-alias: Githzerai Groups; Githzerai Mission Purpose
 tags:
   - Quelle/5e/mtf

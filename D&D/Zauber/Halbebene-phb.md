@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Demiplane
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Demiplane
 classes:
   - Bard (Magical Secrets)

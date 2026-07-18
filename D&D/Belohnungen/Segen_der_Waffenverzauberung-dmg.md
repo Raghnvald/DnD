@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Segen der Waffenverzauberung
+Status: WIP
 linter-yaml-title-alias: Segen der Waffenverzauberung
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/dmg
 aliases:
   - Blessing of Weapon Enhancement

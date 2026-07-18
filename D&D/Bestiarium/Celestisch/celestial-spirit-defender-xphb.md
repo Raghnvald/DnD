@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Celestial Spirit (Defender)
+Status: WIP
 linter-yaml-title-alias: Celestial Spirit (Defender)
 tags:
   - Monster/Größe/Groß

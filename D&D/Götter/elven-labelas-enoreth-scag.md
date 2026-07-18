@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Labelas Enoreth
+Status: WIP
 linter-yaml-title-alias: Labelas Enoreth
 tags:
-  - Kompendium/Götter/Domäne/arcana
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/scag
 aliases:
-  - "Labelas Enoreth"
+  - Labelas Enoreth
   - Labelas Enoreth
 ---
 # Labelas Enoreth

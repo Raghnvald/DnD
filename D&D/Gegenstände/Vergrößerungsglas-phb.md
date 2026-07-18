@@ -2,10 +2,10 @@
 Bezeichnung: Vergrößerungsglas
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 100 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Vergrößerungsglas
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Vergrößerungsglas
+status: WIP
 ---
 # Vergrößerungsglas
 *Adventuring gear*  

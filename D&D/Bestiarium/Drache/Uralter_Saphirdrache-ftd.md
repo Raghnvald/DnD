@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Sapphire Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Sapphire Dragon
 tags:
   - Monster/Größe/Gigantisch

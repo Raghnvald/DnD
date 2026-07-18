@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Medium Armor Master
+Status: WIP
 linter-yaml-title-alias: Medium Armor Master
 tags:
   - Kompendium/Talent

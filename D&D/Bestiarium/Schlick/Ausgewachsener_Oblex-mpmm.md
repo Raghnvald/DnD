@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Adult Oblex
+Status: WIP
 linter-yaml-title-alias: Adult Oblex
 tags:
   - Monster/Größe/Mittelgroß

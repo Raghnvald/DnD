@@ -2,10 +2,10 @@
 Bezeichnung: Totem
 Kategorie: Fokus, Druidisch
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
-Gew.: /
-status: completed
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Totem
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
@@ -15,7 +15,7 @@ aliases:
   - Totem
 ---
 # Totem
-*Zauberfokus, druidisch, gewöhnlich*  
+*Zauberfokus, druidisch*  
 
 - **Kosten**: 1 Goldmünzen
 

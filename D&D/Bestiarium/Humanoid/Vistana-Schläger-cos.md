@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vistana Thug
+Status: WIP
 linter-yaml-title-alias: Vistana Thug
 tags:
   - Monster/Größe/Mittelgroß

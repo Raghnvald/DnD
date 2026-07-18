@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Miscellaneous Creatures"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Miscellaneous Creatures"
 tags:
   - Quelle/5e/mm
 aliases:
   - "Appendix A: Miscellaneous Creatures"
-  - Appendix A: Miscellaneous Creatures
 ---
 # Appendix A: Miscellaneous Creatures
 *Source: Monster Manual (2014), p. 317* 

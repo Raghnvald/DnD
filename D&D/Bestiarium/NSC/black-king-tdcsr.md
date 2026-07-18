@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Black King
+Status: WIP
 linter-yaml-title-alias: Black King
 tags:
   - Monster/Größe/Groß

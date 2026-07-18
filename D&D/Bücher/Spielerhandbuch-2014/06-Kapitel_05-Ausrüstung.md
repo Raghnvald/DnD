@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ausrüstung
+Status: completed
 linter-yaml-title-alias: Ausrüstung
 tags:
   - Quelle/5e/phb

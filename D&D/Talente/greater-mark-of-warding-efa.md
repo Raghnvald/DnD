@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Greater Mark of Warding
+Status: WIP
 linter-yaml-title-alias: Greater Mark of Warding
 tags:
   - Kompendium/Talent
   - Quelle/5e/efa
 aliases:
-  - "Greater Mark of Warding"
+  - Greater Mark of Warding
   - Greater Mark of Warding
 ---
 # Greater Mark of Warding

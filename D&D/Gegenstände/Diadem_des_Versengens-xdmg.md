@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Circlet of Blasting
+Status: WIP
 linter-yaml-title-alias: Circlet of Blasting
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

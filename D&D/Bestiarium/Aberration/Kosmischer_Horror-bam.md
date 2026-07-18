@@ -5,8 +5,7 @@ Bezeichnung: Cosmic Horror
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 18
-image: token/cosmic-horror-bam.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Cosmic Horror
 tags:
   - Monster/Größe/Gigantisch
@@ -16,6 +15,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Cosmic Horror
+image: token/cosmic-horror-bam.webp
+status: WIP
 ---
 # [Cosmic Horror](3-Mechanics\CLI\bestiary\aberration/cosmic-horror-bam.md)
 *Source: Boo's Astral Menagerie p. 18, Vecna: Eve of Ruin*  

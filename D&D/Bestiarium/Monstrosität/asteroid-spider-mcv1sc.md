@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Asteroid Spider
 Kategorie: Monstrosität
 Größe: Gigantisch
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Asteroid Spider
 tags:
   - Monster/Größe/Gigantisch
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/mcv1sc
 aliases:
   - Asteroid Spider
+status: WIP
 ---
 # [Asteroid Spider](3-Mechanics\CLI\bestiary\monstrosity/asteroid-spider-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 3*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connection to Strahd; Hunting Strahd
+Status: WIP
 linter-yaml-title-alias: Connection to Strahd; Hunting Strahd
 tags:
   - Quelle/5e/vrgr

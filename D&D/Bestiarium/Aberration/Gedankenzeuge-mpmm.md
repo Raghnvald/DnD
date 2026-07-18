@@ -5,7 +5,7 @@ Bezeichnung: Gedankenzeuge
 Kategorie: Aberration
 Größe: Groß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gedankenzeuge
 tags:
   - Monster/Größe/Groß
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Gedankenzeuge
   - Mindwitness
+status: WIP
 ---
 # Gedankenzeuge
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181*  

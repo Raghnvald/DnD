@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chukka
+Status: WIP
 linter-yaml-title-alias: Chukka
 tags:
   - Monster/Größe/Mittelgroß

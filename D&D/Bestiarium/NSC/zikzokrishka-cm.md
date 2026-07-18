@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zikzokrishka
+Status: WIP
 linter-yaml-title-alias: Zikzokrishka
 tags:
   - Monster/Größe/Riesig

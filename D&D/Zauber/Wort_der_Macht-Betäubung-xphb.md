@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Power Word Stun
+Status: WIP
 linter-yaml-title-alias: Power Word Stun
 classes:
   - Bard

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wagon
+Status: WIP
 linter-yaml-title-alias: Wagon
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

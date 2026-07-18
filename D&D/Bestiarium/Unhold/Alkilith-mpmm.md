@@ -8,8 +8,7 @@ HG: "11"
 Habitat:
   - Stadt
   - Unterreich
-image: token/alkilith-mpmm.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Alkilith
 tags:
   - Monster/Größe/Mittelgroß
@@ -20,6 +19,8 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Alkilith
+image: token/alkilith-mpmm.webp
+status: WIP
 ---
 # [Alkilith](3-Mechanics\CLI\bestiary\fiend/alkilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44*  

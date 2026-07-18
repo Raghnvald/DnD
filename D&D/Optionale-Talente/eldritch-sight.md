@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Sight
+Status: WIP
 linter-yaml-title-alias: Eldritch Sight
 tags:
   - Kompendium/Optionales/ei

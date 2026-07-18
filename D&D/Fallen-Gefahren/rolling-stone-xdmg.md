@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rolling Stone
+Status: WIP
 linter-yaml-title-alias: Rolling Stone
 tags:
   - Kompendium/Bedrohung/trp

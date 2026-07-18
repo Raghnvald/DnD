@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a White Dragon; White Dragon Ideals
+Status: WIP
 linter-yaml-title-alias: Creating a White Dragon; White Dragon Ideals
 tags:
   - Quelle/5e/ftd

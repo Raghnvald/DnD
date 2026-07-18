@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Knucklehead Trout
+Status: WIP
 linter-yaml-title-alias: Knucklehead Trout
 tags:
   - Monster/Größe/Klein

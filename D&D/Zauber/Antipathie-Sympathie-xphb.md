@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: 10 Tage
 Angriff: WEI
 Schaden: n/a
+Status: WIP
 linter-yaml-title-alias: Antipathie/Sympathie
 classes:
   - Bard

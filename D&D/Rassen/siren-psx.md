@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Siren
+Status: WIP
 linter-yaml-title-alias: Siren
 tags:
   - Quelle/5e/psx
   - Rasse/siren
 aliases:
-  - "Siren"
+  - Siren
   - Siren
 ---
 # Siren

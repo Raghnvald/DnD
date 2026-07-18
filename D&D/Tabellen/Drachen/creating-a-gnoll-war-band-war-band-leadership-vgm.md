@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creating a Gnoll War Band; War Band Leadership
+Status: WIP
 linter-yaml-title-alias: Creating a Gnoll War Band; War Band Leadership
 tags:
   - Quelle/5e/vgm

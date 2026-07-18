@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reduced-Threat Dragon Turtle
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Dragon Turtle
 tags:
   - Monster/Größe/Groß

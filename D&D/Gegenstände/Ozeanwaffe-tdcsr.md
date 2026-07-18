@@ -1,13 +1,16 @@
 ---
-Bezeichnung: Oceanic Weapon
-Kategorie: Beliebige Waffe
+Bezeichnung: Ozeanwaffe
+Original: Oceanic Weapon
+Kategorie: Waffe, beliebig
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: /
-linter-yaml-title-alias: Oceanic Weapon
+Status: WIP
+linter-yaml-title-alias: Ozeanwaffe
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf
@@ -43,10 +46,10 @@ aliases:
   - Oceanic Sling
   - Oceanic Spear
   - Oceanic Trident
-  - Oceanic Weapon
   - Oceanic Yklwa
+  - Ozeanwaffe
 ---
-# Oceanic Weapon
+# Ozeanwaffe
 *Rare (requires attunement)*  
 
 This elegant weapon is adorned with engravings depicting leaping dolphins and drifting jellyfish. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and you ignore the normal penalties on ranged weapon attacks while using this weapon underwater. While holding the weapon in front of you with both hands, you have a swimming speed of 30 feet.

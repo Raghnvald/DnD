@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Milil
+Status: WIP
 linter-yaml-title-alias: Milil
 tags:
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Milil

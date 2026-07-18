@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Characters; Dragon Appearance
+Status: WIP
 linter-yaml-title-alias: Dragon Characters; Dragon Appearance
 tags:
   - Quelle/5e/ftd

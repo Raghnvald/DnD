@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Chef
+Status: WIP
 linter-yaml-title-alias: Chef
 tags:
   - Kompendium/Talent

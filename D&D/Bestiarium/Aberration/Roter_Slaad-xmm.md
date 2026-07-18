@@ -8,8 +8,7 @@ Größe: Groß
 HG: 5
 Habitat:
   - Planar (Limbo)
-image:
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Red Slaad
 tags:
   - Monster/Größe/Groß
@@ -20,6 +19,8 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Red Slaad
+image:
+status: WIP
 ---
 # [Red Slaad](3-Mechanics\CLI\bestiary\aberration/red-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  

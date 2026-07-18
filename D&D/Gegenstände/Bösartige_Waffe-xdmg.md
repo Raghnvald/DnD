@@ -2,7 +2,7 @@
 Bezeichnung: Vicious Weapon
 Kst.: /
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Vicious Weapon
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
@@ -70,6 +70,7 @@ aliases:
   - Vicious Whip
   - Vicious Wooden Staff
   - Vicious Yklwa
+status: WIP
 ---
 # Vicious Weapon
 *Rare*  

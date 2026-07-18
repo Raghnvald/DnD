@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Archon of Boundaries
 Kategorie: Celestisch
 Größe: Riesig
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Archon of Boundaries
 tags:
   - Monster/Größe/Riesig
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/mcv4ec
 aliases:
   - Archon of Boundaries
+status: WIP
 ---
 # [Archon of Boundaries](3-Mechanics\CLI\bestiary\celestial/archon-of-boundaries-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  

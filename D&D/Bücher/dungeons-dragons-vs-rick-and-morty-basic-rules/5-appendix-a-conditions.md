@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Conditions"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Conditions"
 tags:
   - Quelle/5e/rmr

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Optionen für Charaktere; Unterklassen
+Status: WIP
 linter-yaml-title-alias: Optionen für Charaktere; Unterklassen
 tags:
   - Quelle/5e/xge
@@ -14,9 +15,9 @@ aliases:
 
 | Klasse       | Unterklasse                                                                             | Verfügbar <br>auf Stufe | Beschreibung                                                                                                        |
 | ------------ | --------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Barbar       | Pfad des Ahnenwächters                                                                  | 3.                      | Ruft die Geister der ve rehrten Ahnen an, um andere zu schützen                                                     |
-| Barbar       | Pfad des Sturmherolds                                                                   | 3.                      | Ist von einem Zorn erfüllt, der sich aus der urtümlichen Magie des Sturms speist                                    |
-| Barbar       | [Pfad des Zeloten](/3-Mechanics/CLI/classes/barbarian-xphb-path-of-the-zealot-xphb.md)  | 3.                      | Wird von religiösem Eifer angetrieben, mit dem er unter seinen Feinden Vernichtung anrichtet                        |
+| Barbar       | [[Barbar-xphb-Pfad-des-Ahnenwächters-xge\|Pfad des Ahnenwächters]]                                                                  | 3.                      | Ruft die Geister der ve rehrten Ahnen an, um andere zu schützen                                                     |
+| Barbar       | [[Barbar-xphb-Pfad-des-Sturmherolds-xge\|Pfad des Sturmherolds]]                                                                   | 3.                      | Ist von einem Zorn erfüllt, der sich aus der urtümlichen Magie des Sturms speist                                    |
+| Barbar       | [[Barbar-xphb-Pfad-des-Zeloten]] | 3.                      | Wird von religiösem Eifer angetrieben, mit dem er unter seinen Feinden Vernichtung anrichtet                        |
 | Barde        | Schule der Schwerter                                                                    | 3.                      | Unterhält und tötet mit waghalsigen Kunststücken der Waffenkunst                                                    |
 | Barde        | Schule des Flüsterns                                                                    | 3.                      | Sät Furcht und Zweifel im Verstand anderer                                                                          |
 | Barde        | [Schule des Zauberbanns](/3-Mechanics/CLI/classes/bard-xphb-college-of-glamour-xphb.md) | 3.                      | Beherrscht die betörende, prachtvolle Magie des Feywild                                                             |

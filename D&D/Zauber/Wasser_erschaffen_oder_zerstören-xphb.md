@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Create or Destroy Water
+Status: WIP
 linter-yaml-title-alias: Create or Destroy Water
 classes:
   - Bard
@@ -13,7 +14,7 @@ tags:
   - Klasse/Barde/Schule-des-Wissens
   - Klasse/Druide
   - Klasse/Kleriker
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/xphb
   - Subklasse/divine-soul/good
   - Subklasse/the-fathomless

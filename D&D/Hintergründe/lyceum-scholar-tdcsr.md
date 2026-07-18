@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lyceum Scholar
+Status: WIP
 linter-yaml-title-alias: Lyceum Scholar
 tags:
   - Kompendium/Hintergrund

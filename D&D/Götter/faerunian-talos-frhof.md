@@ -1,15 +1,16 @@
 ---
 Bezeichnung: Talos
+Status: WIP
 linter-yaml-title-alias: Talos
 tags:
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Faerun
   - Quelle/5e/frhof
 aliases:
-  - "Storm Lord"
-  - "Talos"
-  - "The Destroyer"
-  - "The Raging One"
+  - Storm Lord
   - Talos
+  - Talos
+  - The Destroyer
+  - The Raging One
 ---
 # Talos
 *Source: Forgotten Realms: Heroes of Faerûn p. 123* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wall of Fire
+Status: WIP
 linter-yaml-title-alias: Wall of Fire
 classes:
   - Artificer (Artillerist)
@@ -18,7 +19,7 @@ tags:
   - Klasse/Barde
   - Klasse/Druide
   - Klasse/Kleriker/forge-domain
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer

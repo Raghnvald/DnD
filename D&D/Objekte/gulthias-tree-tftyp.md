@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Gulthias Tree
+Status: WIP
 linter-yaml-title-alias: Gulthias Tree
 tags:
-  - Kompendium/Objekt/size/gargantuan
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/Gigantisch
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/tftyp
 aliases:
   - Gulthias Tree

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Fairy
+Status: WIP
 linter-yaml-title-alias: Fairy
 tags:
   - Quelle/5e/wbtw
   - Rasse/fairy
 aliases:
-  - "Fairy"
+  - Fairy
   - Fairy
 ---
 # Fairy

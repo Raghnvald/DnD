@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gloomstalker
+Status: WIP
 linter-yaml-title-alias: Gloomstalker
 tags:
   - Monster/Größe/Groß

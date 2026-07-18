@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Library
+Status: WIP
 linter-yaml-title-alias: Library
 tags:
   - Kompendium/Bastion

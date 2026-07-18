@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Gust of Wind
+Bezeichnung: Windstoß
 Zaubergrad: 2
-linter-yaml-title-alias: Gust of Wind
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Windstoß
 classes:
   - Bard (Magical Secrets)
   - Cleric (Tempest Domain)
@@ -23,9 +25,9 @@ tags:
   - Zauber/optfeature/rush-of-the-gale-spirits
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Gust of Wind
+  - Windstoß
 ---
-# Gust of Wind
+# Windstoß
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 Action

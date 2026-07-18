@@ -2,10 +2,10 @@
 Bezeichnung: Töpferwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 10 GM
 Gew.: 1,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Töpferwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Töpferwerkzeuge
+status: WIP
 ---
 # Töpferwerkzeuge
 *Handwerkszeug*

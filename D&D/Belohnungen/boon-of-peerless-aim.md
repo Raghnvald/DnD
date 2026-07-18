@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Peerless Aim
+Status: WIP
 linter-yaml-title-alias: Boon of Peerless Aim
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
-  - "Boon of Peerless Aim"
+  - Boon of Peerless Aim
   - Boon of Peerless Aim
 ---
 # Boon of Peerless Aim

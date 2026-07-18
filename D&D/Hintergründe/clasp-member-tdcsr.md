@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clasp Member
+Status: WIP
 linter-yaml-title-alias: Clasp Member
 tags:
   - Kompendium/Hintergrund

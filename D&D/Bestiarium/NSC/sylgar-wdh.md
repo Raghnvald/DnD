@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sylgar
+Status: WIP
 linter-yaml-title-alias: Sylgar
 tags:
   - Monster/Größe/Winzig

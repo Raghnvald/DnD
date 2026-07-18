@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Greater Conscription
+Status: WIP
 linter-yaml-title-alias: Charm of Greater Conscription
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bgdia
 aliases:
   - Charm of Greater Conscription

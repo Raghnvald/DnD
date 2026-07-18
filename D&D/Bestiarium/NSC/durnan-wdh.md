@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Durnan
+Status: WIP
 linter-yaml-title-alias: Durnan
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Segen des Schutzes
+Status: WIP
 linter-yaml-title-alias: Segen des Schutzes
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/dmg
 aliases:
   - Blessing of Protection

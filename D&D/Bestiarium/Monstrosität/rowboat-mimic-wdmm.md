@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rowboat Mimic
+Status: WIP
 linter-yaml-title-alias: Rowboat Mimic
 tags:
   - Monster/Größe/Groß

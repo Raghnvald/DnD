@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Blind Artist
+Status: WIP
 linter-yaml-title-alias: Blind Artist
 tags:
   - Monster/Größe/Mittelgroß

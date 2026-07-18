@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Dog
+Status: WIP
 linter-yaml-title-alias: Death Dog
 tags:
   - Monster/Größe/Mittelgroß

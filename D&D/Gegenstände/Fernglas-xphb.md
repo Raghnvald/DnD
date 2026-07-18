@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spyglass
+Status: WIP
 linter-yaml-title-alias: Spyglass
 tags:
   - Gegenstand/Ausrüstung/

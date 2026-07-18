@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix D: Monsters"
+Status: WIP
 linter-yaml-title-alias: "Appendix D: Monsters"
 tags:
   - Quelle/5e/hotdq

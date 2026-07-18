@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Blue Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Blue Dragon
 tags:
   - Monster/Größe/Gigantisch

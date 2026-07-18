@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Khedive Xundi
+Status: WIP
 linter-yaml-title-alias: Khedive Xundi
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Khedive Xundi

@@ -9,7 +9,7 @@ Habitat:
   - Küste
   - Sumpf
   - Unterwasser
-image: token/water-elemental.webp
+Status: WIP
 linter-yaml-title-alias: Wasserelementar
 tags:
   - Monster/Größe/Groß
@@ -22,6 +22,7 @@ tags:
 aliases:
   - Wasserelementar
   - Water Elemental
+image: token/water-elemental.webp
 ---
 # Wasserelementar
 *Quelle: Monsterhandbuch S. 109. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Alkazaar's Appendix"
+Status: WIP
 linter-yaml-title-alias: "Alkazaar's Appendix"
 tags:
   - Quelle/5e/cm
 aliases:
   - "Alkazaar's Appendix"
-  - Alkazaar's Appendix
 ---
 # Alkazaar's Appendix
 *Source: Candlekeep Mysteries, p. 198* 

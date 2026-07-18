@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ink
+Status: WIP
 linter-yaml-title-alias: Ink
 tags:
   - Gegenstand/Ausrüstung/

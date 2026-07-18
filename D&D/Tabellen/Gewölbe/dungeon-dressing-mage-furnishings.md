@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Mage Furnishings
+Status: WIP
 linter-yaml-title-alias: Dungeon Dressing; Mage Furnishings
 tags:
   - Quelle/5e/dmg

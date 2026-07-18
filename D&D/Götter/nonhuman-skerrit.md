@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Skerrit
+Status: WIP
 linter-yaml-title-alias: Skerrit
 tags:
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

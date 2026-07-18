@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Ausnahmetalent
-linter-yaml-title-alias: Prodigy
+Status: WIP
+linter-yaml-title-alias: Ausnahmetalent
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Prodigy
+  - Ausnahmetalent
 ---
 # Ausnahmetalent
 *Source: Xanathar's Guide to Everything p. 75*  

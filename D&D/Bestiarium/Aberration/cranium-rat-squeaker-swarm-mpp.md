@@ -5,15 +5,16 @@ Bezeichnung: Cranium Rat Squeaker Swarm
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Cranium Rat Squeaker Swarm
 tags:
   - Quelle/5e/mpp
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/5
+  - Monster/Größe/Mittelgroß
+  - Monster/Typ/Aberration
 aliases:
   - Cranium Rat Squeaker Swarm
+status: WIP
 ---
 # [Cranium Rat Squeaker Swarm](3-Mechanics/CLI/bestiary/aberration/cranium-rat-squeaker-swarm-mpp.md)
 *Source: Morte's Planar Parade p. 22*  

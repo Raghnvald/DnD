@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ravager Stabby-Stabber
+Status: WIP
 linter-yaml-title-alias: Ravager Stabby-Stabber
 tags:
   - Monster/Größe/Klein

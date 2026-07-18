@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Holy Symbol (Varies); Holy Symbols
+Status: WIP
 linter-yaml-title-alias: Holy Symbol (Varies); Holy Symbols
 tags:
   - Quelle/5e/xphb

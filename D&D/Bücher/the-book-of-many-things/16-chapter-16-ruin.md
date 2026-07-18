@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 16: Ruin"
+Status: WIP
 linter-yaml-title-alias: "Chapter 16: Ruin"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Chapter 16: Ruin"
-  - Chapter 16: Ruin
 ---
 # Chapter 16: Ruin
 *Source: The Book of Many Things, p. 123* 

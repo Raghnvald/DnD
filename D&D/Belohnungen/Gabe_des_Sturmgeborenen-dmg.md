@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gabe des Sturmgeborenen
+Status: WIP
 linter-yaml-title-alias: Gabe des Sturmgeborenen
 tags:
-  - Kompendium/Belohnung/boon
+  - Kompendium/Belohnung/Gabe
   - Quelle/5e/dmg
 aliases:
   - Boon of the Stormborn

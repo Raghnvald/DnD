@@ -9,7 +9,7 @@ Habitat:
   - Planar (Schattensaum)
   - Stadt
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Warhorse Skeleton
 tags:
   - Monster/Größe/Groß
@@ -22,6 +22,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Warhorse Skeleton
+status: WIP
 ---
 # [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

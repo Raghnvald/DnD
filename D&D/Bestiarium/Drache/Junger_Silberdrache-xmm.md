@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Silver Dragon
+Status: WIP
 linter-yaml-title-alias: Young Silver Dragon
 tags:
   - Monster/Größe/Groß

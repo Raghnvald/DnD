@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Syrul
+Status: WIP
 linter-yaml-title-alias: Syrul
 tags:
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/xdmg
 aliases:
   - Syrul

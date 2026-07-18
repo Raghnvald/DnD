@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Heartstone
+Status: WIP
 linter-yaml-title-alias: Heartstone
 tags:
   - Gegenstand/Seltenheit/sehr_selten
-  - Gegenstand/wundersam/other
+  - Gegenstand/wundersam/anderes
   - Quelle/5e/mm
 aliases:
   - Heartstone

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potions of Healing
+Status: WIP
 linter-yaml-title-alias: Potions of Healing
 tags:
   - Gegenstand/Seltenheit/variiert

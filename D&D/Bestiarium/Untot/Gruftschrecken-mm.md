@@ -10,8 +10,7 @@ Habitat:
   - Sumpf
   - Unterreich
   - Wüste
-image: token/wight.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Gruftschrecken
 tags:
   - Monster/Größe/Mittelgroß
@@ -24,6 +23,8 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Gruftschrecken
+image: token/wight.webp
+status: completed
 ---
 # Gruftschrecken
 *Quelle: Monsterhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

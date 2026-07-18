@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Workshop
+Status: WIP
 linter-yaml-title-alias: Workshop
 tags:
   - Kompendium/Bastion

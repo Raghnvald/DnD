@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sir Baric Nylef
+Status: WIP
 linter-yaml-title-alias: Sir Baric Nylef
 tags:
   - Monster/Größe/Mittelgroß

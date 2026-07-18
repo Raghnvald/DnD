@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Giants by Kind; Stone Giants
+Status: WIP
 linter-yaml-title-alias: Giants by Kind; Stone Giants
 tags:
   - Quelle/5e/bgg

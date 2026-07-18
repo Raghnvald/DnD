@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Feeblemind
 Zaubergrad: 8
+Status: WIP
 linter-yaml-title-alias: Feeblemind
 classes:
   - Bard (Magical Secrets)

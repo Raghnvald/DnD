@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Swimming
+Status: WIP
 linter-yaml-title-alias: Swimming
 tags:
   - Quelle/5e/xphb

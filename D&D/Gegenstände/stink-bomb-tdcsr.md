@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Stink Bomb
-Kategorie: Explosives 
+Original: Stink Bomb
+Kategorie: Sprengstoff
+Status: WIP
 linter-yaml-title-alias: Stink Bomb
 tags:
   - Gegenstand/Seltenheit/keine

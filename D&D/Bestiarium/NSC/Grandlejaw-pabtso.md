@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grandlejaw
 Image: token/grandlejaw-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Grandlejaw
 tags:
   - Monster/Größe/Riesig

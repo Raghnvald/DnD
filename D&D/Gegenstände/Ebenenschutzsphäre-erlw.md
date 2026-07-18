@@ -2,14 +2,15 @@
 Bezeichnung: Orb of Shielding
 Kategorie: Wundersamer Gegenstand
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Einstimmung: erforderlich
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Orb of Shielding
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Gegenstand/wundersam
   - Quelle/5e/erlw

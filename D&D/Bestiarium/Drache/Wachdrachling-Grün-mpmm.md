@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Guard Drake (Green)
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Guard Drake (Green)
 tags:
   - Monster/Größe/Mittelgroß
@@ -18,6 +18,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Guard Drake (Green)
+status: WIP
 ---
 # [Guard Drake (Green)](3-Mechanics\CLI\bestiary\dragon/guard-drake-green-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  

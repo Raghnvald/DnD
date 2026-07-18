@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Summon Fiend
+Status: WIP
 linter-yaml-title-alias: Summon Fiend
 classes:
   - Bard

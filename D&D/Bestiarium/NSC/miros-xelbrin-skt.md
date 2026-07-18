@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Miros Xelbrin
+Status: WIP
 linter-yaml-title-alias: Miros Xelbrin
 tags:
   - Monster/Größe/Mittelgroß

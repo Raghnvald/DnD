@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sharn Watch Assignments
+Status: WIP
 linter-yaml-title-alias: Sharn Watch Assignments
 tags:
   - Quelle/5e/erlw

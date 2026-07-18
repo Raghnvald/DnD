@@ -1,5 +1,6 @@
 ---
 Bezeichnung: String
+Status: WIP
 linter-yaml-title-alias: String
 tags:
   - Gegenstand/Ausrüstung/

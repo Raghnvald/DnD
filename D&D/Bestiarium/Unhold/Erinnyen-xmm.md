@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Erinyes
+Status: WIP
 linter-yaml-title-alias: Erinyes
 tags:
   - Monster/Größe/Mittelgroß

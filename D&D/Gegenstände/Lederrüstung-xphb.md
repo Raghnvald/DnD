@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Leather Armor
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Leather Armor
 tags:
   - Gegenstand/Rüstung/Leicht

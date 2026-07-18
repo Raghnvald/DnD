@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tomb Dwarf
+Status: WIP
 linter-yaml-title-alias: Tomb Dwarf
 tags:
   - Monster/Größe/Mittelgroß

@@ -5,6 +5,7 @@ Eigenschaften:
   - /
 Kst.: /
 Gew.: /
+Status: WIP
 linter-yaml-title-alias: Tragbares Loch
 tags:
   - Gegenstand/Seltenheit/selten

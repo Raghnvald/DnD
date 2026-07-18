@@ -5,7 +5,7 @@ Bezeichnung: Gnome Ceremorph
 Kategorie: Aberration
 Größe: Klein
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gnome Ceremorph
 tags:
   - Monster/Größe/Klein
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Gnome Ceremorph
+status: WIP
 ---
 # [Gnome Ceremorph](3-Mechanics\CLI\bestiary\aberration/gnome-ceremorph-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Assassin
+Status: WIP
 linter-yaml-title-alias: Assassin
 tags:
   - Klasse/Schurke/Assassine

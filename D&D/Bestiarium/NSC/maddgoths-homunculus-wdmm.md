@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Maddgoth's Homunculus"
+Status: WIP
 linter-yaml-title-alias: "Maddgoth's Homunculus"
 tags:
   - Monster/Größe/Groß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - "Maddgoth's Homunculus"
-  - Maddgoth's Homunculus
 ---
 # [Maddgoth's Homunculus](3-Mechanics\CLI\bestiary\npc/maddgoths-homunculus-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 96*  

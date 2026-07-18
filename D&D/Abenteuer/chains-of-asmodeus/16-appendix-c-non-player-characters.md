@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Non-Player Characters"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Non-Player Characters"
 tags:
   - Quelle/5e/coa

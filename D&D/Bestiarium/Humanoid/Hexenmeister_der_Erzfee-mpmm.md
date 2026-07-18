@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warlock of the Archfey
+Status: WIP
 linter-yaml-title-alias: Warlock of the Archfey
 tags:
   - Monster/Größe/Mittelgroß

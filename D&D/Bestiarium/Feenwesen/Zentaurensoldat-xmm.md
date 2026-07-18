@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Centaur Trooper
+Status: WIP
 linter-yaml-title-alias: Centaur Trooper
 tags:
   - Monster/Größe/Groß

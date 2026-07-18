@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Riesenzitteraal
+Status: WIP
 linter-yaml-title-alias: Riesenzitteraal
 tags:
   - Monster/Größe/Groß

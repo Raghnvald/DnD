@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand of Pyrotechnics
+Status: WIP
 linter-yaml-title-alias: Wand of Pyrotechnics
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

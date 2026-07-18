@@ -7,6 +7,7 @@ Komponenten: V, M
 Wirkungsdauer: Sofort
 Angriff:
 Schaden: 1d8 Feuer
+Status: WIP
 linter-yaml-title-alias: Grünfeuerklinge
 classes:
   - Artificer
@@ -24,8 +25,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/tce
   - Rasse/elf/high-elf
   - Rasse/kobold

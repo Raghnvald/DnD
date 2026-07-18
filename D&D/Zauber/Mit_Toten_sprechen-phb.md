@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Speak with Dead
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Speak with Dead
 classes:
   - Bard (Magical Secrets)
@@ -9,7 +10,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Klasse/Kleriker/knowledge-domain
+  - Klasse/Kleriker/Wissen
   - Quelle/5e/phb
   - Zauber/Grad/3
   - Zauber/optfeature/whispers-of-the-grave

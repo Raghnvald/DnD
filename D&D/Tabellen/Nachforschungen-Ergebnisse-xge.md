@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Research Outcomes
+Status: WIP
 linter-yaml-title-alias: Research Outcomes
 tags:
   - Quelle/5e/xge

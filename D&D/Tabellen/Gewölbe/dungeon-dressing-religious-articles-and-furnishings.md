@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dungeon Dressing; Religious Articles and Furnishings
+Status: WIP
 linter-yaml-title-alias: Dungeon Dressing; Religious Articles and Furnishings
 tags:
   - Quelle/5e/dmg

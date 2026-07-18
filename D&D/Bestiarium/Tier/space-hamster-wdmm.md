@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Space Hamster
+Status: WIP
 linter-yaml-title-alias: Space Hamster
 tags:
   - Monster/Größe/Winzig

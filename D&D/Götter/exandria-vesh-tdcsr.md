@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Vesh
+Status: WIP
 linter-yaml-title-alias: Vesh
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - Vesh

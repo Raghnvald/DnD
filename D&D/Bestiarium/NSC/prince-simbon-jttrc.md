@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Prince Simbon
+Status: WIP
 linter-yaml-title-alias: Prince Simbon
 tags:
   - Monster/Größe/Mittelgroß

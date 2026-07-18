@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Morkoth
+Status: WIP
 linter-yaml-title-alias: Morkoth
 tags:
   - Monster/legendary-group

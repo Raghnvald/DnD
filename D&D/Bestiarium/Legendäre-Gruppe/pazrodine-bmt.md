@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pazrodine
+Status: WIP
 linter-yaml-title-alias: Pazrodine
 tags:
   - Monster/legendary-group

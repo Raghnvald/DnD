@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ram
+Status: WIP
 linter-yaml-title-alias: Ram
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/siege-weapon
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/Belagerungswaffe
   - Quelle/5e/xdmg
 aliases:
   - Ram

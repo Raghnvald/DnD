@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hjoldak Hollowhelm
 Image: token/hjoldak-hollowhelm-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Hjoldak Hollowhelm
 tags:
   - Monster/Größe/Mittelgroß

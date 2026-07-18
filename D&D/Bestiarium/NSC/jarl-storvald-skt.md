@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jarl Storvald
+Status: WIP
 linter-yaml-title-alias: Jarl Storvald
 tags:
   - Monster/Größe/Riesig

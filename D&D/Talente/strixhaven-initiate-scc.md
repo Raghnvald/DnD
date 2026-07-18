@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Strixhaven Initiate
+Status: WIP
 linter-yaml-title-alias: Strixhaven Initiate
 tags:
   - Kompendium/Talent
   - Quelle/5e/scc
 aliases:
-  - "Strixhaven Initiate"
+  - Strixhaven Initiate
   - Strixhaven Initiate
 ---
 # Strixhaven Initiate

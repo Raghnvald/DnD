@@ -5,8 +5,9 @@ Zeitaufwand: 1 Minute
 Reichweite: 1,5 Meter
 Komponenten: V, M
 Wirkungsdauer: 1 Runde
-Angriff: Nahkampf
+Angriff: Nah
 Schaden: 1d8 Schall
+Status: WIP
 linter-yaml-title-alias: Dröhnende Klinge
 classes:
   - Artificer
@@ -24,8 +25,8 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/tce
   - Rasse/elf/high-elf
   - Rasse/kobold

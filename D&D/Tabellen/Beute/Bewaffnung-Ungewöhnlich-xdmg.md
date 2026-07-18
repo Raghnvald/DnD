@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armaments - Uncommon
+Status: WIP
 linter-yaml-title-alias: Armaments - Uncommon
 tags:
   - Quelle/5e/xdmg

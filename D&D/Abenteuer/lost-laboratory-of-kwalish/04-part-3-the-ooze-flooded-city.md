@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Part 3: The Ooze-Flooded City"
+Status: WIP
 linter-yaml-title-alias: "Part 3: The Ooze-Flooded City"
 tags:
   - Quelle/5e/llk

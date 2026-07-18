@@ -3,12 +3,12 @@ Bezeichnung: Adamantmunition
 Kategorie: Munition
 Eigenschaften:
   - Munition
-Kst.: /
-Gew.: /
+Kst.: n/v
+Gew.: n/v
 Status: completed
 linter-yaml-title-alias: Adamantmunition
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/unbekannt
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/xge
@@ -33,7 +33,7 @@ Zehn Geschosse aus Adamant kosten 500 GM mehr, als die normale Variante der Waff
 - [Adamantkugeln](#Adamantkugeln)
 - [Adamantnadeln](#Adamantnadeln)
 - [Adamantpfeile](#Adamantpfeile)
-- [Adamantinschleuderkugeln](#Adamantinschleuderkugeln)
+- [Adamantschleuderkugeln](#Adamantschleuderkugeln)
 
 ### Adamantbolzen
 
@@ -51,7 +51,7 @@ Zehn Geschosse aus Adamant kosten 500 GM mehr, als die normale Variante der Waff
 
 - **Gewicht**: 0.05 lbs.
 
-### Adamantinschleuderkugeln
+### Adamantschleuderkugeln
 
 - **Gewicht**: 0.075 lbs.
 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Halfling Names – Female
+Status: WIP
 linter-yaml-title-alias: Halfling Names – Female
 tags:
   - Quelle/5e/xge

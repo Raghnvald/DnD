@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Resistenz
 Zaubergrad: 0 (Zaubertrick)
-Zeitaufwand: Berührung
-Reichweite: 9 Meter
+Zeitaufwand: 1 Aktion
+Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Minute
-Angriff: nichts
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Resistenz
 classes:
   - Bard (Magical Secrets)
@@ -20,7 +21,7 @@ tags:
   - Klasse/Druide/circle-of-the-land/arctic
   - Klasse/Kleriker
   - Klasse/Kleriker/nature-domain
-  - Kompendium/Talent/magic-initiate/druid-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
   - Quelle/5e/phb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome

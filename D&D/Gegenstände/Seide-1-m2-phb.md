@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Seide (1m²)
+Status: WIP
 linter-yaml-title-alias: Seide (1m²)
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

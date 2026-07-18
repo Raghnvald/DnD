@@ -2,10 +2,10 @@
 Bezeichnung: Köcher
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Köcher
 tags:
   - Gegenstand/Ausrüstung/

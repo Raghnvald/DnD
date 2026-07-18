@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eldritch Knight
+Status: WIP
 linter-yaml-title-alias: Eldritch Knight
 tags:
   - Klasse/Kämpfer/eldritch-knight

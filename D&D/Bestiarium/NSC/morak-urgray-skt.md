@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Morak Ur'gray"
+Status: WIP
 linter-yaml-title-alias: "Morak Ur'gray"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/skt
 aliases:
   - "Morak Ur'gray"
-  - Morak Ur'gray
 ---
 # [Morak Ur'gray](3-Mechanics\CLI\bestiary\npc/morak-urgray-skt.md)
 *Source: Storm King's Thunder p. 31*  

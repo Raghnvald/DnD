@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gift of the Ever-Living Ones
+Status: WIP
 linter-yaml-title-alias: Gift of the Ever-Living Ones
 tags:
   - Kompendium/Optionales/ei

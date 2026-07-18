@@ -2,8 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Relentless Impaler
-image: token/relentless-impaler-veor.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Relentless Impaler
 tags:
   - Monster/Größe/Groß
@@ -12,6 +11,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Relentless Impaler
+image: token/relentless-impaler-veor.webp
+status: WIP
 ---
 # [Relentless Impaler](3-Mechanics\CLI\bestiary\fiend/relentless-impaler-veor.md)
 *Source: Vecna: Eve of Ruin p. 231*  

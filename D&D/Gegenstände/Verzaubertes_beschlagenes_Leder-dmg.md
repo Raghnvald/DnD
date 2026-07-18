@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Verzaubertes beschlagenes Leder
+Original: Glamoured Studded Leather
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften:
-  - /
-Einstimmung:
+  - n/v
+Einstimmung: n/v
 Kst.: 45 GM
 Gew.: 7,5 kg
 RK: 12 + GES
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: completed
 linter-yaml-title-alias: Verzaubertes beschlagenes Leder
 tags:
   - Gegenstand/Rüstung/Leicht
@@ -22,7 +24,7 @@ aliases:
 *Rüstung ([[Beschlagene_Lederrüstung-phb|beschlagenes Leder]]), selten*  
 
 - **Rüstungsklasse**: 12 + GES Modifikator
-- **Gewicht**: 7,5 kg.
+- **Gewicht**: 7,5 kg
 
 Während du diese Rüstung trägst, hast du einen Bonus von + 1 auf deine Rüstungsklasse.
 

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of Bountiful Health
+Status: WIP
 linter-yaml-title-alias: Boon of Bountiful Health
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of Bountiful Health"
+  - Boon of Bountiful Health
   - Boon of Bountiful Health
 ---
 # Boon of Bountiful Health

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alchemist
+Status: WIP
 linter-yaml-title-alias: Alchemist
 tags:
   - Klasse/Artifizient/alchemist

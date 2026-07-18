@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spirit of Death
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Spirit of Death
 tags:
   - Quelle/5e/bmt

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Copper Dragon Scale Mail
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Copper Dragon Scale Mail
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg

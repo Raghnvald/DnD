@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Divination
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Divination
 classes:
   - Bard (Magical Secrets)

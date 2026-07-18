@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Horror Characteristics; Horror Character Bonds
+Status: WIP
 linter-yaml-title-alias: Horror Characteristics; Horror Character Bonds
 tags:
   - Quelle/5e/vrgr

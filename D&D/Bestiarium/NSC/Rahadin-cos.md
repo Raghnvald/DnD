@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Rahadin
+Status: WIP
 linter-yaml-title-alias: Rahadin
 tags:
   - Monster/Größe/Mittelgroß

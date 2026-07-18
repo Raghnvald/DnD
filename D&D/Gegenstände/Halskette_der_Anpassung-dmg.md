@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Halskette der Anpassung
+Status: WIP
 linter-yaml-title-alias: Halskette der Anpassung
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:

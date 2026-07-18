@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Night Blade
+Status: WIP
 linter-yaml-title-alias: Night Blade
 tags:
   - Monster/Größe/Mittelgroß

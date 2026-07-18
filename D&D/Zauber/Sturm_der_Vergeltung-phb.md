@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Storm of Vengeance
 Zaubergrad: 9
+Status: WIP
 linter-yaml-title-alias: Storm of Vengeance
 classes:
   - Bard (Magical Secrets)

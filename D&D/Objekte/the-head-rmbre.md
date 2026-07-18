@@ -1,12 +1,13 @@
 ---
 Bezeichnung: The Head
+Status: WIP
 linter-yaml-title-alias: The Head
 tags:
-  - Kompendium/Objekt/size/large
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/Groß
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/rmbre
 aliases:
-  - "The Head"
+  - The Head
   - The Head
 ---
 # The Head

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 13: The Cult Strikes Back"
+Status: WIP
 linter-yaml-title-alias: "Chapter 13: The Cult Strikes Back"
 tags:
   - Quelle/5e/rot
 aliases:
   - "Chapter 13: The Cult Strikes Back"
-  - Chapter 13: The Cult Strikes Back
 ---
 # Chapter 13: The Cult Strikes Back
 *Source: Rise of Tiamat, p. 140* 

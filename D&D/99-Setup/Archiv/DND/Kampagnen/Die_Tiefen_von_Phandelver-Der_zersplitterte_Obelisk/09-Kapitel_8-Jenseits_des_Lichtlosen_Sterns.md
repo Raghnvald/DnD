@@ -1,9 +1,9 @@
 ---
 Bezeichnung: "Chapter 8: Beyond a Lightless Star"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: Beyond a Lightless Star"
 aliases:
   - "Chapter 8: Beyond a Lightless Star"
-  - Chapter 8: Beyond a Lightless Star
 ---
 # Chapter 8: Beyond a Lightless Star
 *Source: Phandelver and Below: The Shattered Obelisk, p. 169* 

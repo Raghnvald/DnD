@@ -8,8 +8,7 @@ Größe: Mittelgroß
 HG: 1/4
 Habitat:
   - Wald
-image: token/giant-badger-webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Riesendachs
 tags:
   - Monster/Größe/Mittelgroß
@@ -20,6 +19,8 @@ tags:
 aliases:
   - Giant Badger
   - Riesendachs
+image: token/giant-badger-webp
+status: completed
 ---
 # Riesendachs
 *Quelle: Monsterhandbuch S. 316. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

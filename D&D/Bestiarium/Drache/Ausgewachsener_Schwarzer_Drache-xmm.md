@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 14
 Habitat:
   - Sumpf
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Black Dragon
 tags:
   - Monster/Größe/Riesig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Adult Black Dragon
+status: WIP
 ---
 # [Adult Black Dragon](3-Mechanics\CLI\bestiary\dragon/adult-black-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

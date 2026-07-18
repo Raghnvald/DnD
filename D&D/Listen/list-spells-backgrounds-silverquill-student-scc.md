@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Silverquill Student
+Status: WIP
 linter-yaml-title-alias: Spells for Silverquill Student
 tags:
-  - ttrpg-cli/spell/list/background/silverquill-student
+  - Zauber/Liste/background/silverquill-student
 aliases:
-  - "Spells for Silverquill Student"
+  - Spells for Silverquill Student
   - Spells for Silverquill Student
 ---
 # Spells for Silverquill Student

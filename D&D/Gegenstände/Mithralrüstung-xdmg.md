@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mithral Armor
 Rüstung: Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: Mithral Armor
 tags:
   - Gegenstand/Rüstung/Mittel

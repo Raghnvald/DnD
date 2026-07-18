@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tome of Understanding
+Status: WIP
 linter-yaml-title-alias: Tome of Understanding
 tags:
   - Gegenstand/Seltenheit/sehr_selten

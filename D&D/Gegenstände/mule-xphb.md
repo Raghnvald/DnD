@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mule
+Status: WIP
 linter-yaml-title-alias: Mule
 tags:
   - Gegenstand/Ausrüstung/Reit-und-Lastentier

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Celestian
+Status: WIP
 linter-yaml-title-alias: Celestian
 tags:
-  - Kompendium/Götter/Domäne/knowledge
-  - Kompendium/Götter/Domäne/twilight
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Wissen
+  - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Celestian

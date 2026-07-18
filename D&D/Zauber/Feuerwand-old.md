@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feuerwand
+Status: WIP
 linter-yaml-title-alias: Feuerwand
 tags:
   - Klasse/Druide

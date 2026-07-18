@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oghma, Gott des Wissens
+Status: WIP
 linter-yaml-title-alias: Oghma, Gott des Wissens
 tags:
   - Kompendium/Götter

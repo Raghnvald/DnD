@@ -6,7 +6,7 @@ Kategorie: Aberration
 Größe: Mittelgroß
 HG: 4
 Image: token/humanoid-mutate-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Humanoider Mutant
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
 aliases:
   - Humanoid Mutate
   - Humanoider Mutant
+status: WIP
 ---
 # Humanoider Mutant
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  

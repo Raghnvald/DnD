@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Torlin Silvershield
+Status: WIP
 linter-yaml-title-alias: Torlin Silvershield
 tags:
   - Monster/Größe/Mittelgroß

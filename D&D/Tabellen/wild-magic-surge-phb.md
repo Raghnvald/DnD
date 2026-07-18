@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic Surge
+Status: WIP
 linter-yaml-title-alias: Wild Magic Surge
 tags:
   - Quelle/5e/phb

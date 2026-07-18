@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Identify the Party's Goals; Dungeon Goals"
+Status: WIP
 linter-yaml-title-alias: "Identify the Party's Goals; Dungeon Goals"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Identify the Party's Goals; Dungeon Goals"
-  - Identify the Party's Goals; Dungeon Goals
 ---
 # Identify the Party's Goals; Dungeon Goals
 *Source: Dungeon Master's Guide p. 72* 

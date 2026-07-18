@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Spellfire Adept
+Status: WIP
 linter-yaml-title-alias: Spellfire Adept
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Spellfire Adept"
+  - Spellfire Adept
   - Spellfire Adept
 ---
 # Spellfire Adept

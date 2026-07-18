@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Splint Armor
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Splint Armor
 tags:
   - Gegenstand/Rüstung/Schwer

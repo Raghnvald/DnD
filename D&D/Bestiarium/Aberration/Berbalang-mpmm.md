@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 2
 Habitat:
   - Wüste
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Berbalang
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Berbalang
+status: WIP
 ---
 # [Berbalang](3-Mechanics\CLI\bestiary\aberration/berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61*  

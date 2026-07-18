@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Raven Queen
+Status: WIP
 linter-yaml-title-alias: The Raven Queen
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - The Raven Queen

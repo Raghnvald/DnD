@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schule der Schwerter
+Status: WIP
 tags:
   - Klasse/Barde
   - Quelle/5e/xge

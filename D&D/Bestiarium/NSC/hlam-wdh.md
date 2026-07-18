@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hlam
+Status: WIP
 linter-yaml-title-alias: Hlam
 tags:
   - Monster/Größe/Mittelgroß

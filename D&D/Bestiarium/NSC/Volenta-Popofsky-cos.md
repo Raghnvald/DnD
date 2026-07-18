@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Volenta Popofsky
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Volenta Popofsky
 tags:
   - Monster/Größe/Mittelgroß
@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Volenta Popofsky
+status: WIP
 ---
 # [Volenta Popofsky](3-Mechanics\CLI\bestiary\npc/volenta-popofsky-cos.md)
 *Source: Curse of Strahd p. 93*  

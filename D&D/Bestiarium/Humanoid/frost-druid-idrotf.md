@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Druid
+Status: WIP
 linter-yaml-title-alias: Frost Druid
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warrior Infantry
+Status: WIP
 linter-yaml-title-alias: Warrior Infantry
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

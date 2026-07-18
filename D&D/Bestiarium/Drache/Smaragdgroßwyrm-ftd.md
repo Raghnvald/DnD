@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 26
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Emerald Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Emerald Greatwyrm
+status: WIP
 ---
 # [Emerald Greatwyrm](3-Mechanics\CLI\bestiary\dragon/emerald-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  

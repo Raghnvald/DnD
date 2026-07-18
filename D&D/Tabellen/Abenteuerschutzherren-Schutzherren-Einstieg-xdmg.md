@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Abenteuerschutzherren; Schutzherren-Einstieg
+Status: WIP
 linter-yaml-title-alias: Abenteuerschutzherren; Schutzherren-Einstieg
 tags:
   - Quelle/5e/xdmg

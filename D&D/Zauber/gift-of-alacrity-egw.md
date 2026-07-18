@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Gift of Alacrity
 Zaubergrad: 1
+Zeitaufwand: 1 Minute
+Status: WIP
 linter-yaml-title-alias: Gift of Alacrity
 tags:
   - Kompendium/Talent/fey-touched
@@ -9,6 +11,9 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Gift of Alacrity
+Reichweite: Berührung
+Komponenten: V, G
+Wirkungsdauer: 8 Stunden
 ---
 # Gift of Alacrity
 *1st-level, Divination*  

@@ -6,6 +6,7 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Status: WIP
 linter-yaml-title-alias: Arcane Eye
 classes:
   - Artificer
@@ -21,8 +22,8 @@ classes:
 tags:
   - Klasse/Artifizient
   - Klasse/Barde
-  - Klasse/Kleriker/knowledge-domain
-  - Klasse/Kleriker/light-domain
+  - Klasse/Kleriker/Licht
+  - Klasse/Kleriker/Wissen
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Quelle/5e/xphb

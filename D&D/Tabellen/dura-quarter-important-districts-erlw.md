@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Dura Quarter: Important Districts"
+Status: WIP
 linter-yaml-title-alias: "Dura Quarter: Important Districts"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Dura Quarter: Important Districts"
-  - Dura Quarter: Important Districts
 ---
 # Dura Quarter: Important Districts
 *Source: Eberron: Rising from the Last War p. 162* 

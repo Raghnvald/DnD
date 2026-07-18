@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Tables; Githzerai Bonds
+Status: WIP
 linter-yaml-title-alias: Gith Tables; Githzerai Bonds
 tags:
   - Quelle/5e/mtf

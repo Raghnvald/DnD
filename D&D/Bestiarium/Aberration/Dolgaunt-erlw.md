@@ -5,7 +5,7 @@ Bezeichnung: Dolgaunt
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 3
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Dolgaunt
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/erlw
 aliases:
   - Dolgaunt
+status: WIP
 ---
 # [Dolgaunt](3-Mechanics\CLI\bestiary\aberration/dolgaunt-erlw.md)
 *Source: Eberron: Rising from the Last War p. 290*  

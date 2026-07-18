@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Statblock Tests
+Status: WIP
 ---
 # Statblock Tests
 ```statblock

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Troll Limb
+Status: WIP
 linter-yaml-title-alias: Troll Limb
 tags:
   - Monster/Größe/Klein

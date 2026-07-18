@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Hunt for the Thessalhydra
+Status: WIP
 linter-yaml-title-alias: Hunt for the Thessalhydra
 tags:
   - Quelle/5e/hftt
 aliases:
-  - "Hunt for the Thessalhydra"
+  - Hunt for the Thessalhydra
   - Hunt for the Thessalhydra
 ---
 # Hunt for the Thessalhydra

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Purphoros's Votary"
+Status: WIP
 linter-yaml-title-alias: "Spells for Purphoros's Votary"
 tags:
-  - ttrpg-cli/spell/list/reward/purphoross-votary
+  - Zauber/Liste/reward/purphoross-votary
 aliases:
   - "Spells for Purphoros's Votary"
 ---

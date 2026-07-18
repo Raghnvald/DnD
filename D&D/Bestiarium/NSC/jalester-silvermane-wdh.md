@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jalester Silvermane
+Status: WIP
 linter-yaml-title-alias: Jalester Silvermane
 tags:
   - Monster/Größe/Mittelgroß

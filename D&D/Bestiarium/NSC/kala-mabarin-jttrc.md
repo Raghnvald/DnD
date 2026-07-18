@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kala Mabarin
+Status: WIP
 linter-yaml-title-alias: Kala Mabarin
 tags:
   - Monster/Größe/Mittelgroß

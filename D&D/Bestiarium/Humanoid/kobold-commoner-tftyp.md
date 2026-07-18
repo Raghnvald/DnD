@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Commoner
+Status: WIP
 linter-yaml-title-alias: Kobold Commoner
 tags:
   - Monster/Größe/Mittelgroß

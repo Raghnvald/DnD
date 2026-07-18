@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Orzhov Representative
+Status: WIP
 linter-yaml-title-alias: Spells for Orzhov Representative
 tags:
-  - Zauber/list/background/orzhov-representative
+  - Zauber/Liste/background/orzhov-representative
 aliases:
   - Spells for Orzhov Representative
 ---

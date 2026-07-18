@@ -1,12 +1,13 @@
 ---
-Bezeichnung: "Maximilian's Earthen Grasp"
+Bezeichnung: Maximilians Erdgriff
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
-linter-yaml-title-alias: "Maximilian's Earthen Grasp"
+Status: WIP
+linter-yaml-title-alias: Maximilians Erdgriff
 classes:
   - Bard
   - Bard (College of Lore)
@@ -25,9 +26,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - "Maximilian's Earthen Grasp"
+  - Maximilians Erdgriff
 ---
-# Maximilian's Earthen Grasp
+# Maximilians Erdgriff
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

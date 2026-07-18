@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Chill Touch
+Bezeichnung: Kalte Hand
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
@@ -7,7 +7,8 @@ Komponenten: V, G
 Wirkungsdauer: 1 Runde
 Angriff: Fern
 Schaden: 1d8 Nekrotisch
-linter-yaml-title-alias: Chill Touch
+Status: WIP
+linter-yaml-title-alias: Kalte Hand
 classes:
   - Bard (Magical Secrets)
   - Cleric (Death Domain)
@@ -23,7 +24,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high
@@ -31,9 +32,9 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Nekromantie
 aliases:
-  - Chill Touch
+  - Kalte Hand
 ---
-# Chill Touch
+# Kalte Hand
 *cantrip, Necromancy*  
 
 - **Casting time:** 1 Action

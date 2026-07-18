@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Troll Mutate
+Status: WIP
 linter-yaml-title-alias: Troll Mutate
 tags:
   - Monster/Größe/Groß

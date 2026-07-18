@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Naviask
+Status: WIP
 linter-yaml-title-alias: Naviask
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Naviask

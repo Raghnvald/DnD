@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Witchlight Hand
+Status: WIP
 linter-yaml-title-alias: Witchlight Hand
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/wbtw
 aliases:
-  - "Witchlight Hand"
+  - Witchlight Hand
   - Witchlight Hand
 ---
 # Witchlight Hand

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Leonin
+Status: WIP
 linter-yaml-title-alias: Leonin
 tags:
   - Quelle/5e/mot
   - Rasse/leonin
 aliases:
-  - "Leonin"
+  - Leonin
   - Leonin
 ---
 # Leonin

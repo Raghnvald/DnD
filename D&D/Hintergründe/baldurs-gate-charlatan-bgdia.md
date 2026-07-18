@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Baldur's Gate Charlatan"
+Status: WIP
 linter-yaml-title-alias: "Baldur's Gate Charlatan"
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/bgdia
 aliases:
   - "Baldur's Gate Charlatan"
-  - Baldur's Gate Charlatan
 ---
 # Baldur's Gate Charlatan
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 128*  

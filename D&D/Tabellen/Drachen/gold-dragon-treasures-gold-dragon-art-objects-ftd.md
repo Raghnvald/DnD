@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gold Dragon Treasures; Gold Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Gold Dragon Treasures; Gold Dragon Art Objects
 tags:
   - Quelle/5e/ftd

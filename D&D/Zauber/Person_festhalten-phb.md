@@ -1,7 +1,7 @@
 ---
-Bezeichnung: Hold Person
-Zaubergrad: 2
-linter-yaml-title-alias: Hold Person
+Bezeichnung: Person festhalten
+Status: WIP
+linter-yaml-title-alias: Person festhalten
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -29,9 +29,9 @@ tags:
   - Zauber/optfeature/clench-of-the-north-wind
   - Zauber/Schule/Verzauberung
 aliases:
-  - Hold Person
+  - Person festhalten
 ---
-# Hold Person
+# Person festhalten
 *2nd-level, Enchantment*  
 
 - **Casting time:** 1 Action

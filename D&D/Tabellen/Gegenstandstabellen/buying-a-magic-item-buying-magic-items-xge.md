@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Buying a Magic Item; Buying Magic Items
+Status: WIP
 linter-yaml-title-alias: Buying a Magic Item; Buying Magic Items
 tags:
   - Quelle/5e/xge

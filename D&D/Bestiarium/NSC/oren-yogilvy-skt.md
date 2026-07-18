@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oren Yogilvy
+Status: WIP
 linter-yaml-title-alias: Oren Yogilvy
 tags:
   - Monster/Größe/Klein

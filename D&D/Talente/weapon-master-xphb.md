@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weapon Master
+Status: WIP
 linter-yaml-title-alias: Weapon Master
 tags:
   - Kompendium/Talent

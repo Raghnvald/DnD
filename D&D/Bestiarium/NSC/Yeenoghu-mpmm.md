@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yeenoghu
+Status: WIP
 linter-yaml-title-alias: Yeenoghu
 tags:
   - Monster/Größe/Riesig

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ultroloth
+Status: WIP
 linter-yaml-title-alias: Ultroloth
 tags:
   - Monster/Größe/Mittelgroß

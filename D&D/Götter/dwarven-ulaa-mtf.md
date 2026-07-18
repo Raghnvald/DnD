@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ulaa
+Status: WIP
 linter-yaml-title-alias: Ulaa
 tags:
-  - Kompendium/Götter/Domäne/forge
+  - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

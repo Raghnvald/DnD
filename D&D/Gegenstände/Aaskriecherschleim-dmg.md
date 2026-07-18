@@ -4,7 +4,7 @@ Kategorie: Gift
 Eigenschaften:
   - Gift
 Kst.: 200 GM
-Gew.: /
+Gew.: n/v
 Status: completed
 linter-yaml-title-alias: Aaskriecherschleim
 tags:
@@ -13,7 +13,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Aaskriecherschleim
-  - Carrion Crawler Mucus
 ---
 # Aaskriecherschleim
 *Abenteuerausrüstung, Gift (Kontakt)*  

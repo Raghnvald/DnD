@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gith Tables; Githzerai Personality Traits
+Status: WIP
 linter-yaml-title-alias: Gith Tables; Githzerai Personality Traits
 tags:
   - Quelle/5e/mtf

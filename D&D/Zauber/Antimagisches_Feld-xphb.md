@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
-Angriff: n/a
-Schaden: n/a
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Antimagisches Feld
 classes:
   - Bard

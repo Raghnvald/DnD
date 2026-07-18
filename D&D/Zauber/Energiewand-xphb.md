@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wall of Force
+Status: WIP
 linter-yaml-title-alias: Wall of Force
 classes:
   - Artificer (Armorer)

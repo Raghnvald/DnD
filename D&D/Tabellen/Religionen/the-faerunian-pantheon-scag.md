@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Faerûnian Pantheon
+Status: WIP
 linter-yaml-title-alias: The Faerûnian Pantheon
 tags:
   - Quelle/5e/scag

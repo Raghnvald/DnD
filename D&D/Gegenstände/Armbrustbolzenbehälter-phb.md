@@ -2,10 +2,10 @@
 Bezeichnung: Armbrustbolzenbehälter
 Kategorie: Behälter
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 GM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Armbrustbolzenbehälter
 tags:
   - Gegenstand/Ausrüstung
@@ -18,8 +18,8 @@ aliases:
 # Armbrustbolzenbehälter
 *Abenteuerausrüstung*
 
-- **Kosten**: 1 Goldmünze
-- **Gewicht**: 0,5 kg.
+- **Kosten**: 1 GM
+- **Gewicht**: 0,5 kg
 
 Dieser hölzerne Kasten fasst bis zu 20 [[Armbrustbolzen-phb|Armbrustbolzen]].
 

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Sending Stones
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Sending Stones
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix G: Infernal Script"
+Status: WIP
 linter-yaml-title-alias: "Appendix G: Infernal Script"
 tags:
   - Quelle/5e/bgdia
 aliases:
   - "Appendix G: Infernal Script"
-  - Appendix G: Infernal Script
 ---
 # Appendix G: Infernal Script
 *Source: Baldur's Gate: Descent Into Avernus, p. 256* 

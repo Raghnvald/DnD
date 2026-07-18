@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix C: Creatures"
+Status: WIP
 linter-yaml-title-alias: "Appendix C: Creatures"
 tags:
   - Quelle/5e/oota

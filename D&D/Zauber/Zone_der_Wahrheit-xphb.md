@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zone of Truth
+Status: WIP
 linter-yaml-title-alias: Zone of Truth
 classes:
   - Bard

@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Shillelagh
 classes:
   - Bard (College of Lore)
@@ -17,8 +18,8 @@ tags:
   - Klasse/Druide
   - Klasse/Kleriker/nature-domain
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/druid-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Druide-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xphb
   - Zauber/Grad/0
   - Zauber/optfeature/pact-of-the-tome

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Hold Monster
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Hold Monster
 classes:
   - Bard (Magical Secrets)

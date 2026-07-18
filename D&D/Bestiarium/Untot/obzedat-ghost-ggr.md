@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Obzedat Ghost
+Status: WIP
 linter-yaml-title-alias: Obzedat Ghost
 tags:
   - Monster/Größe/Mittelgroß

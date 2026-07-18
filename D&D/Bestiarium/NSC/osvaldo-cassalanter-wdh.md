@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Osvaldo Cassalanter
+Status: WIP
 linter-yaml-title-alias: Osvaldo Cassalanter
 tags:
   - Monster/Größe/Mittelgroß

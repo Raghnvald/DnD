@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quadrone (Rogue)
+Status: WIP
 linter-yaml-title-alias: Quadrone (Rogue)
 tags:
   - Monster/Größe/Mittelgroß

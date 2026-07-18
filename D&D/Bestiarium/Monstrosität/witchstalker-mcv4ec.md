@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Witchstalker
+Status: WIP
 linter-yaml-title-alias: Witchstalker
 tags:
   - Monster/Größe/Groß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Leviathan
+Status: WIP
 linter-yaml-title-alias: Leviathan
 tags:
   - Monster/Größe/Gigantisch

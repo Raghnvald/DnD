@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Azorius Functionary
+Status: WIP
 linter-yaml-title-alias: Azorius Functionary
 tags:
   - Kompendium/Hintergrund

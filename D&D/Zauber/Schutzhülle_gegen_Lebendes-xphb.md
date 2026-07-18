@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Antilife Shell
+Status: WIP
 linter-yaml-title-alias: Antilife Shell
 classes:
   - Bard

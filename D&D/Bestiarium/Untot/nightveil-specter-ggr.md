@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nightveil Specter
+Status: WIP
 linter-yaml-title-alias: Nightveil Specter
 tags:
   - Monster/Größe/Mittelgroß

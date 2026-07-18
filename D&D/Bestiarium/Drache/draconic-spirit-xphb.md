@@ -6,7 +6,7 @@ Kategorie: Drache
 Größe: Groß
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Draconic Spirit
 tags:
   - Monster/Größe/Groß
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Draconic Spirit
+status: WIP
 ---
 # [Draconic Spirit](3-Mechanics\CLI\bestiary\dragon/draconic-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  

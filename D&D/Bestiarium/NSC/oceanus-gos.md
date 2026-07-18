@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Oceanus
+Status: WIP
 linter-yaml-title-alias: Oceanus
 tags:
   - Monster/Größe/Mittelgroß

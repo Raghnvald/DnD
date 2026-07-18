@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Viol
+Status: WIP
 linter-yaml-title-alias: Viol
 tags:
   - Gegenstand/Ausrüstung/Instrument

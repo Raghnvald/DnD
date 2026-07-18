@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Malar
+Status: WIP
 linter-yaml-title-alias: Malar
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Malar

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Kuo-Toa
+Status: WIP
 linter-yaml-title-alias: Kuo-Toa
 tags:
   - Quelle/5e/dmg

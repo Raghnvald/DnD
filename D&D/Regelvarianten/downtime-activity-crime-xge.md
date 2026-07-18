@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Downtime Activity: Crime"
+Status: WIP
 linter-yaml-title-alias: "Downtime Activity: Crime"
 tags:
   - Quelle/5e/xge
 aliases:
   - "Downtime Activity: Crime"
-  - Downtime Activity: Crime
 ---
 # Downtime Activity: Crime
 *Source: Xanathar's Guide to Everything p. 130* 

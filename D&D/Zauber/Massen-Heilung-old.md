@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Massen-Heilung
+Status: WIP
 linter-yaml-title-alias: Massen-Heilung
 tags:
   - Klasse/Kleriker

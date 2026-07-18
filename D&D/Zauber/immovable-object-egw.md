@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Immovable Object
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Immovable Object
 tags:
   - Quelle/5e/egw

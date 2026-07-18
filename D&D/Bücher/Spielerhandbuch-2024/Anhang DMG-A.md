@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix A: Lore Glossary"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Lore Glossary"
 tags:
   - Quelle/5e/dmg

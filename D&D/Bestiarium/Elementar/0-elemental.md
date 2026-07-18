@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Index of Elemental
+Status: WIP
 linter-yaml-title-alias: Index of Elemental
 aliases:
   - Index of Elemental

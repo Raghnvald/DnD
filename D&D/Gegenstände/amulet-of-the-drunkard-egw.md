@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Amulet of the Drunkard
 Kategorie: Wundersamer Gegenstand
+Eigenschaften:
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Amulet of the Drunkard
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

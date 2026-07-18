@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dornenwand
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Dornenwand
 classes:
   - Bard (Magical Secrets)

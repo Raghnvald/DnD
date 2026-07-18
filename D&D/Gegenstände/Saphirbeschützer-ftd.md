@@ -4,19 +4,21 @@ Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
   - /
-Kst.: /
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: /
 Heiml.: /
+Status: WIP
 linter-yaml-title-alias: Saphirbeschützer
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/ftd
 aliases:
   - Saphirbeschützer
+status: WIP
 ---
 # Saphirbeschützer
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*  

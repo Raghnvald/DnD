@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for The Undying
+Status: WIP
 linter-yaml-title-alias: Spells for The Undying
 tags:
-  - Zauber/list/subclass/the-undying
+  - Zauber/Liste/subclass/the-undying
 aliases:
   - Spells for The Undying
 ---

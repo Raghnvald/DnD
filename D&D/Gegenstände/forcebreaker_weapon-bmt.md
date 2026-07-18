@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Forcebreaker Weapon
-Kategorie: Beliebig, Nahkampfwaffe
+Original: Forcebreaker Weapon
+Kategorie: Nahkampfwaffe, beliebig
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
-status: WIP
+  - n/v
+Kst.: n/v
+Gew.: variiert
+Schaden: variiert
+Einstimmung: n/v
+Status: WIP
 linter-yaml-title-alias: Forcebreaker Weapon
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

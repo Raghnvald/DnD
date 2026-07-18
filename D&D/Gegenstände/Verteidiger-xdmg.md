@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Defender
+Status: WIP
 linter-yaml-title-alias: Defender
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Kriegswaffe

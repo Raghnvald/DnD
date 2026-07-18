@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Ascendant Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Ascendant Dragon-Touched Focus
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/ftd
 aliases:

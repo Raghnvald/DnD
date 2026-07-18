@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Acolyte
+Status: WIP
 linter-yaml-title-alias: Acolyte
 tags:
   - Kompendium/Hintergrund

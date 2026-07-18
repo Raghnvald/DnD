@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Episode 1: Right Place, Wrong Heroes"
+Status: WIP
 linter-yaml-title-alias: "Episode 1: Right Place, Wrong Heroes"
 tags:
   - Quelle/5e/oow

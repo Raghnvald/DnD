@@ -4,8 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Astral Dreadnought
 Kategorie: Monstrosität
 Größe: Gigantisch
-image: token/astral-dreadnought-mpmm.webp
-status: WIP
+HG: "21"
+Habitat:
+  - /
+Status: WIP
 linter-yaml-title-alias: Astral Dreadnought
 tags:
   - Monster/Größe/Gigantisch
@@ -15,10 +17,9 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Astral Dreadnought
-HG: "21"
-Habitat:
-  - /
+image: token/astral-dreadnought-mpmm.webp
 IMAGE:
+status: WIP
 ---
 # [Astral Dreadnought](3-Mechanics\CLI\bestiary\monstrosity/astral-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51*  

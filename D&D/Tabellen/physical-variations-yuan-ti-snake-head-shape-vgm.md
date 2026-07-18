@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Yuan-ti Snake Head Shape
+Status: WIP
 linter-yaml-title-alias: Physical Variations; Yuan-ti Snake Head Shape
 tags:
   - Quelle/5e/vgm

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for The Undead
+Status: WIP
 linter-yaml-title-alias: Spells for The Undead
 tags:
-  - Zauber/list/subclass/the-undead
+  - Zauber/Liste/subclass/the-undead
 aliases:
   - Spells for The Undead
 ---

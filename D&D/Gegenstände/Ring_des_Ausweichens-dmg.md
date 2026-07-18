@@ -2,19 +2,21 @@
 Bezeichnung: Ring des Ausweichens
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Status: WIP
 linter-yaml-title-alias: Ring des Ausweichens
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
 aliases:
   - Ring des Ausweichens
+status: completed
 ---
 # Ring des Ausweichens
-*Ring, selten (benötigt Einstimmung)*  
+*Ring, selten (erfordert Einstimmung)*  
 ![](img/ring-of-evasion.webp#right)
 
 Dieser Ring hat 3 Ladungen, und er erhält zu jeder Morgendämmerung `1W3` der verbrauchten Ladungen zurück. Wenn du einen Geschicklichkeits-Rettungswurf nicht bestehst, während du den Ring trägst, kannst du deine Reaktion verwenden, um 1 Ladung zu verbrauchen und den Rettungswurf stattdessen zu bestehen.

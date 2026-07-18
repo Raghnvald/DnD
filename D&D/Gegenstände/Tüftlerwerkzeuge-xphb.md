@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Tinker's Tools"
+Status: WIP
 linter-yaml-title-alias: "Tinker's Tools"
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -7,7 +8,6 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - "Tinker's Tools"
-  - Tinker's Tools
 ---
 # Tinker's Tools
 *Artisan's tools*  

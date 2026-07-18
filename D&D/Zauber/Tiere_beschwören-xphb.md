@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Conjure Animals
+Status: WIP
 linter-yaml-title-alias: Conjure Animals
 classes:
   - Bard

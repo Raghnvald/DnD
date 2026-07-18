@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schwarzer Drachenschuppen-Panzer
+Original: Black Dragon Scale Mail
 Kategorie: Rüstung
 Rüstung: Mittel
 Eigenschaften:
@@ -9,9 +10,10 @@ Gew.: 20,0 kg
 RK: 14 + GES (max +2)
 STR: n/v
 Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Schwarzer Drachenschuppen-Panzer
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/dmg

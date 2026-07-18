@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Leilon Point
+Status: WIP
 linter-yaml-title-alias: Leilon Point
 tags:
   - Quelle/5e/sdw
 aliases:
-  - "Leilon Point"
+  - Leilon Point
   - Leilon Point
 ---
 # Leilon Point

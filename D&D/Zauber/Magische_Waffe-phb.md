@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Magic Weapon
+Bezeichnung: Magische Waffe
 Zaubergrad: 2
-linter-yaml-title-alias: Magic Weapon
+Zeitaufwand: 1 Bonusaktion
+Status: WIP
+linter-yaml-title-alias: Magische Waffe
 classes:
   - Bard (Magical Secrets)
   - Cleric (War Domain)
@@ -20,9 +22,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Magic Weapon
+  - Magische Waffe
 ---
-# Magic Weapon
+# Magische Waffe
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Bonus Action

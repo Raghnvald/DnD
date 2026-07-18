@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "Anhang A: Bestiarium"
+Status: WIP
 linter-yaml-title-alias: "Anhang A: Bestiarium"
 tags:
   - Quelle/5e/veor
 aliases:
   - "Anhang A: Bestiarium"
-  - Appendix A: Bestiary
+  - "Appendix A: Bestiary"
 ---
 # Anhang A: Bestiarium
 *Quelle: Vecna: Vorabend der Verdammnis* 

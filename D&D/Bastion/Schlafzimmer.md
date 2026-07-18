@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bedroom
+Status: WIP
 linter-yaml-title-alias: Bedroom
 tags:
   - Kompendium/Bastion

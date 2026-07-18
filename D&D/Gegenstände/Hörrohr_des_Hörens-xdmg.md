@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ear Horn of Hearing
+Status: WIP
 linter-yaml-title-alias: Ear Horn of Hearing
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

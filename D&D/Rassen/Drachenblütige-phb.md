@@ -1,94 +1,93 @@
 ---
-Bezeichnung: Dragonborn
-linter-yaml-title-alias: Dragonborn
+Bezeichnung: Drachenblütige
+Status: completed
+linter-yaml-title-alias: Drachenblütige
 tags:
   - Quelle/5e/phb
-  - Rasse/dragonborn
+  - Rasse/Drachenblütige
 aliases:
-  - Dragonborn
+  - Drachenblütige
 ---
 # Drachenblütige
-*Source: Player's Handbook p. 32. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](/3-Mechanics/CLI/races/img/dragonborn.webp#right)
+*Quelle: Spielerhandbuch S. 32. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>* 
+<img src="dragonborn.webp" align="right" width="250">
 
-- **Ability Scores**: str +2 cha +1
-- **Size**: Medium
-- **Speed**: 30 ft.
+- **Attributswerte**: STR +2, CHA +1
+- **Größe**: Mittelgroß 
+- **Bewegungsrate**: 9 Meter
 
-## Traits
+## Merkmale
 
-### Age
+### Alter
 
-Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+Junge Drachenblütige wachsen schnell heran. Bereits wenige Stunden nach dem Schlüpfen können sie aufrecht gehen, und mit drei Jahren sehen sie aus wie ein menschliches Kind mit zehn. Als Erwachsene gelten sie mit etwa 15. Sie erreichen ein Alter von bis zu 80 Jahren. 
 
-### Size
+### Größe
 
-Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+Drachenblütige sind mit ihren über 180 cm und etwa 250 Pfund weit größer und schwerer als Menschen. Deine Größenkategorie ist dennoch mittelgroß. 
 
-### Draconic Ancestry
+### Drakonische Abstammung
 
-You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+Deine Vorfahren waren Drachen. Wähle eine Drachenart aus der Tabelle für drakonische Abstammung, die deine Odemwaffe und deine Schadensresistenz festlegt. 
 
-**Draconic Ancestry**
+**Drakonische Abstammung**
 
-| Dragon | Damage Type | Breath Weapon |
-|--------|-------------|---------------|
-| Black | Acid | 5 by 30 ft. line (Dex. save) |
-| Blue | Lightning | 5 by 30 ft. line (Dex. save) |
-| Brass | Fire | 5 by 30 ft. line (Dex. save) |
-| Bronze | Lightning | 5 by 30 ft. line (Dex. save) |
-| Copper | Acid | 5 by 30 ft. line (Dex. save) |
-| Gold | Fire | 15 ft. cone (Dex. save) |
-| Green | Poison | 15 ft. cone (Con. save) |
-| Red | Fire | 15 ft. cone (Dex. save) |
-| Silver | Cold | 15 ft. cone (Con. save) |
-| White | Cold | 15 ft. cone (Con. save) |
+| Drache  | Schadensart | Odemwaffe                     |
+| ------- | ----------- | ----------------------------- |
+| Blau    | Blitz       | 1,50 m x 9,0 m Linie (GES-RW) |
+| Bronze  | Blitz       | 1,50 m x 9,0 m Linie (GES-RW) |
+| Gold    | Feuer       | 4,5 m Kegel (GES-RW)          |
+| Grün    | Gift        | 4,5 m Kegel (KON-RW)          |
+| Kupfer  | Säure       | 1,50 m x 9,0 m Linie (GES-RW) |
+| Messing | Feuer       | 1,50 m x 9,0 m Linie (GES-RW) |
+| Rot     | Feuer       | 4,5 m Kegel (GES-RW)          |
+| Schwarz | Säure       | 1,50 m x 9,0 m Linie (GES-RW) |
+| Silber  | Kälte       | 4,5 m Kegel (KON-RW)          |
+| Weiß    | Kälte       | 4,5 m Kegel (KON-RW)          |
 ^draconic-ancestry
 
-### Breath Weapon
+### Odemwaffe
 
-You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+Du kannst eine Aktion verwenden, um zerstörerische Energie aus deinem Maul zu entfesseln. Deine drakonische Abstammung bestimmt die Größe, die Form und die Schadensart der Odemwaffe. Wenn du diese einsetzt, muss jede Kreatur im Wirkungsbereich einen Rettungswurf ablegen, dessen Art von deiner Odemwaffe abhängt. Der SG für diesen Wurf entspricht 8 + deinem Konstitutionsmodifikator + deinem Übungsbonus. Eine Kreatur erleidet `2W6` Schaden bei einem misslungenen Rettungswurf und die Hälfte bei einem Erfolg. Der Schaden steigt auf `3W6` mit der 6. Stufe, auf `4W6` mit der 11. Stufe und auf `5W6` mit der 16. Stufe. 
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes `2d6` damage on a failed save, and half as much damage on a successful one. The damage increases to `3d6` at 6th level, `4d6` at 11th level, and `5d6` at 16th level.
+Nachdem du deine Odemwaffe eingesetzt hast, musst du eine kurze oder lange Rast beenden, bevor du sie erneut benutzen kannt. 
 
-After you use your breath weapon, you can't use it again until you complete a short or long rest.
+### Schadensresistenz
 
-### Damage Resistance
+Du besitzt eine Resistenz gegen jene Schadensart, die mit deiner drakonischen Abstammung in Verbindung steht. 
 
-You have resistance to the damage type associated with your draconic ancestry.
+### Sprachen
 
-### Languages
-
-You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+Du kannst sowohl Drakonisch als auch die Gemeinsprache lesen, schreiben und sprechen. Drakonisch gilt als die älteste bekannte Sprache und findet oft beim Studium der Magie Anwendung. Für die meisten anderen Kreaturen klingt sie harsch, da sie zahlreiche harte Konsonanten und Silben enthält. 
 
 ## Description
 
-Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
+Von Drachen abstammend, wie ihr Name verrät, wandeln die Drachenblütigen durch die Welt, die mit furchtsamer Verständnislosigkeit auf sie reagiert. Geformt von Drachengöttern oder den Drachen selbst, wurden sie ursprünglich als einzigartiges Volk in Dracheneiern ausgebrütet, das die besten Eigenschaften der Drachen und der Humanoiden vereint. Manche Drachenblütige sind ergebene Diener von wahren Drachen, andere bilden die Reihen von Soldaten in großen Kriegen und wieder andere finden sich umhertreibend wieder, ohne klare Berufung im Leben. 
 
-### Proud Dragon Kin
+### Stolze Verwandte der Drachen
 
-Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. The first dragonborn had scales of vibrant hues matching the colors of their dragon kin, but generations of interbreeding have created a more uniform appearance. Their small, fine scales are usually brass or bronze in color, sometimes ranging to scarlet, rust, gold, or copper-green. They are tall and strongly built, often standing close to 6½ feet tall and weighing 300 pounds or more. Their hands and feet are smiting, talon-like claws with three fingers and a thumb on each hand.
+Drachenblütige sehen ganz wie humanoide Drachen auf zwei Beinen aus, nur ohne Schwanz und Flügel. Die ersten Drachenblütigen besaßen Schuppen in lebhaften Schattierungen, die mit der Färbung ihrer Dracheneltern übereinstimmte. Doch Generationen der Vermischung haben ein einheitlicheres Erscheinungsbild geschaffen. Ihre kleinen, feinen Schuppen sind für gewöhnlich bronze- oder messingfarben und weisen manchmal Nuancen von Rot, Rost, Gold oder grünlichem Kupfer auf. Sie sind hoch gewachsen und stark gebaut, wobei sie bis zu 195 cm groß und über 300 Pfund schwer werden können. Ihre Füße sind kräftig, ebenso wie ihre Hände, an denen sich jeweils drei krallenbewehrte Finger und ein ebensolcher Daumen befinden. 
 
-The blood of a particular type of dragon runs very strong through some dragonborn clans. These dragonborn often boast scales that more closely match those of their dragon ancestor-bright red, green, blue, or white, lustrous black, or gleaming metallic like gold, silver, brass, copper, or bronze.
+In manchen Drachenblütigen ist das Blut einer bestimmten Drachenart besonders stark. Diese besitzen oft Schuppen, deren Tönung näher an die ihrer drakonischen Vorfahren heranreicht und die hellrot sein können, grün, blau oder weiß, glänzend schwarz oder in den Farben von funkelndem metallischem Gold, Silber, Messing, Kupfer oder Bronze. 
 
-### Self-Sufficient Clans
+### Unabhängige Klans
 
-To any dragonborn, the clan is more important than life itself. Dragonborn owe their devotion and respect to their clan above all else, even the gods. Each dragonborn's conduct reflects on the honor of his or her clan, and bringing dishonor to the clan can result in expulsion and exile. Each dragonborn knows his or her station and duties within the clan, and honor demands maintaining the bounds of that position.
+Für jeden Drachenblütigen ist der Klan wichtiger als das Leben selbst. Hingabe und Respekt für den Klan stehen bei diesem Volk über allem anderen, sogar über den Göttern. Das Verhalten eines Drachenblütigen spiegelt die Ehre seines Klans wider, und diesem Schande zu bereiten, kann zur Vertreibung und zum Exil führen. Jeder Drachenblütige kennt seine Stellung und seine Pflichten innerhalb des Klans, und die Ehre verlangt die Einhaltung der damit verbundenen Grenzen. 
 
-A continual drive for self-improvement reflects the self-sufficiency, of the race as a whole. Dragonborn value skill and excellence in all endeavors. They hate to fail, and they push themselves to extreme efforts before they give up on something. A dragonborn holds mastery of that particular skill as a lifetime goal. Members of other races who share the same commitment find it easy to earn the respect of a dragonborn.
+Ein fortwährender Drang zur Selbstverbesserung ist bezeichnend für das gesamte Volk und sichert dessen Unabhängigkeit. Drachenblütige schätzen hohe Kunstfertigkeit und Perfektion in allen Bereichen. Sie verabscheuen es zu scheitern und schwingen sich selbst zu extremen Leistungen auf, ehe sie etwas aufgeben. Die Meisterschaft über eine bestimmte Fertigkeit ist das Lebensziel eines jeden Drachenblütigen. Mitglieder anderer Völker, die eine ähnliche Hingabe an den Tag legen, verdienen sich daher schnell ihren Respekt. 
 
-Though all dragonborn strive to be self-sufficient, they recognize that help is sometimes needed in difficult situations. But the best source for such help is the clan, and when a client needs help, it turns to another dragonborn clan before seeking aid from other races or even from the gods.
+Auch wenn alle Drachenblütigen nach einem unabhängigen Leben trachten, wissen sie, dass sie in manchen Situationen auf Hilfe angewiesen sind.Jedoch ist die beste Quelle solcher Hilfe der Klan, der sich wiederum zuerst an einen anderen Klan der Drachenblütigen wendet, bevor er ein anderes Volk oder gar die Götter um Beistand ersucht. 
 
-### Dragonborn Names
+### Namen der Drachenblütigen
 
-Dragonborn have personal names given at birth, but they put their clan names first as a mark of honor. A childhood name or nickname is often used among clutch mates as a descriptive term or endearment. The name might recall an event or center on a habit.
+Drachenblütige haben einen persönlichen Namen, der ihnen bei der Geburt gegeben wird, doch nennen sie als Zeichen der Ehre ihren Klannamen zuerst. Der Jugendname oder Spitzname wird unter guten Freunden als Ausdruck der Zuneigung verwendet und könnte an ein Ereignis erinnern oder auf einem Wesenszug basieren. 
 
-- **Male Names.** Arjhan, Balasar, Bharash, Donaar, Ghesh, Hesken, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn  
-- **Female Names.** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit  
-- **Childhood Names.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
-- **Clan Names.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
+- **Männliche Vornamen.** Arjhan, Balasar, Bharash, Donaar, Ghesh, Hesken, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn  
+- **Weibliche Vornamen.** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit  
+- **Jugendnamen.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
+- **Klannamen.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
 
-> [!note] Draconians
+> [!note] Drakonier
 > 
-> In the Dragonlance setting, the followers of the evil goddess Takhisis learned a dark ritual that let them corrupt the eggs of metallic dragons, producing evil dragonborn called draconians. Five types of draconians, corresponding to the five types of metallic dragons, fought for Takhisis in the War of the Lance-auraks (gold), baaz (brass), bozak (bronze), kapak (copper), and sivak (silver). In place of their draconic breath weapons they have unique magical abilities.
+> In der Welt der Drachenlanze lernten die Anhänger der bösen Göttin Takhisis ein dunkles Ritual, mit dessen Hilfe sie die Eier metallischer Drachen korrumpieren und so böse Drachenblütige erschaffen konnten, die Drakonier genannt werden. Fünf Arten von Drakoniern, die zu den fünf Arten der metallischen Drachen passen, kämpften für Takhisis im Krieg der Drachenlanze: Aurak (Gold), Baaz (Messing), Bozak (Bronze), Kapak (Kupfer) und Sirak (Silber). Anstelle einer Odemwaffe verfügten sie über einzigartige magische Fähigkeiten. 
 ^draconians

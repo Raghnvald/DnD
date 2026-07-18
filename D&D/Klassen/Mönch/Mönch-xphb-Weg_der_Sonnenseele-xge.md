@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Sun Soul
+Status: WIP
 linter-yaml-title-alias: Way of the Sun Soul
 tags:
   - Klasse/Mönch/sun-soul

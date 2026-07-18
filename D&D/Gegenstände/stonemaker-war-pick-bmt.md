@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Stonemaker War Pick
-Kategorie: Nahkampf-Kriegswaffe
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Stonemaker War Pick
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bmt
 aliases:
   - Stonemaker War Pick
+status: WIP
+Original: Stonemaker War Pick
 ---
 # Stonemaker War Pick
 *Weapon (war pick), very rare (requires attunement)*  

@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Arclight Phoenix
 Kategorie: Elementar
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Arclight Phoenix
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Arclight Phoenix
+status: WIP
 ---
 # [Arclight Phoenix](3-Mechanics\CLI\bestiary\elemental/arclight-phoenix-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 193*  

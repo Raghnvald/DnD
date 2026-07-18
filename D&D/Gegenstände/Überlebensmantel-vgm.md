@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Überlebensmantel
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Überlebensmantel
 tags:
   - Gegenstand/Rüstung/Mittel
@@ -8,6 +9,7 @@ tags:
   - Quelle/5e/vgm
 aliases:
   - Überlebensmantel
+status: WIP
 ---
 # Überlebensmantel
 *Medium armor*  

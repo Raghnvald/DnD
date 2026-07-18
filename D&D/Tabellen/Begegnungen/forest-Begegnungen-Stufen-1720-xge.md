@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forest Encounters (Levels 17—20)
+Status: WIP
 linter-yaml-title-alias: Forest Encounters (Levels 17—20)
 tags:
   - Quelle/5e/xge

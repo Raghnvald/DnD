@@ -1,11 +1,12 @@
 ---
-Bezeichnung: Human
-linter-yaml-title-alias: Human
+Bezeichnung: Mensch
+Status: WIP
+linter-yaml-title-alias: Mensch
 tags:
   - Quelle/5e/phb
   - Rasse/human
 aliases:
-  - Human
+  - Mensch
 ---
 # Mensch
 *Source: Player's Handbook p. 29. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  

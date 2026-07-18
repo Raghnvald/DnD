@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xilonen
+Status: WIP
 linter-yaml-title-alias: Xilonen
 tags:
   - Monster/Größe/Groß

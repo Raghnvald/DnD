@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 1.000 GM Edelsteine
+Status: WIP
 linter-yaml-title-alias: 1.000 GM Edelsteine
 tags:
   - Quelle/5e/dmg

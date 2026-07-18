@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Takhisis
+Status: WIP
 linter-yaml-title-alias: Takhisis
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Takhisis"
+  - Takhisis
   - Takhisis
 ---
 # Takhisis

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Spells for Ephara's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Spells for Ephara's Disciple"
 tags:
-  - ttrpg-cli/spell/list/reward/epharas-disciple
+  - Zauber/Liste/reward/epharas-disciple
 aliases:
   - "Spells for Ephara's Disciple"
 ---

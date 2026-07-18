@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Crystal Dragon Adventures; Crystal Dragon Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Crystal Dragon Adventures; Crystal Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Manacles
+Status: WIP
 linter-yaml-title-alias: Manacles
 tags:
   - Gegenstand/Ausrüstung/

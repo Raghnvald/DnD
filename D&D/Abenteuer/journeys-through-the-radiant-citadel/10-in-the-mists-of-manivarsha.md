@@ -1,10 +1,11 @@
 ---
 Bezeichnung: In the Mists of Manivarsha
+Status: WIP
 linter-yaml-title-alias: In the Mists of Manivarsha
 tags:
   - Quelle/5e/jttrc
 aliases:
-  - "In the Mists of Manivarsha"
+  - In the Mists of Manivarsha
   - In the Mists of Manivarsha
 ---
 # In the Mists of Manivarsha

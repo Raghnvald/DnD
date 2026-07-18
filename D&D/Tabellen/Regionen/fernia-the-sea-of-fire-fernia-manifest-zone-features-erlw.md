@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fernia, the Sea of Fire; Fernia Manifest Zone Features
+Status: WIP
 linter-yaml-title-alias: Fernia, the Sea of Fire; Fernia Manifest Zone Features
 tags:
   - Quelle/5e/erlw

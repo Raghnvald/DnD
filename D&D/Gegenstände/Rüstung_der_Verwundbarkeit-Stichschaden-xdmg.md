@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Armor of Vulnerability (Piercing)
 Rüstung: Schwer
+Status: WIP
 linter-yaml-title-alias: Armor of Vulnerability (Piercing)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Rüstung/Schwer

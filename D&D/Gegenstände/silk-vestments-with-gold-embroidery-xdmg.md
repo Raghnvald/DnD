@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Silk vestments with gold embroidery
+Status: WIP
 linter-yaml-title-alias: Silk vestments with gold embroidery
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Nonmagical Mirage
+Status: WIP
 linter-yaml-title-alias: Nonmagical Mirage
 tags:
   - Kompendium/Bedrohung/env
   - Quelle/5e/fraif
 aliases:
-  - "Nonmagical Mirage"
+  - Nonmagical Mirage
   - Nonmagical Mirage
 ---
 # Nonmagical Mirage

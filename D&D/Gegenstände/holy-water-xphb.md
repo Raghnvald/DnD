@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Holy Water
+Status: WIP
 linter-yaml-title-alias: Holy Water
 tags:
   - Gegenstand/Ausrüstung/

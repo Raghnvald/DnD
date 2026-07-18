@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Draconic Senses
+Status: WIP
 linter-yaml-title-alias: Draconic Senses
 tags:
   - Kompendium/Belohnung/draconic-gift

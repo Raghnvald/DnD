@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Trickbeutel, beige
+Status: WIP
 linter-yaml-title-alias: Trickbeutel, beige
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

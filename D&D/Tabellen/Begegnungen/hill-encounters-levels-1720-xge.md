@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hill Encounters (Levels 17—20)
+Status: WIP
 linter-yaml-title-alias: Hill Encounters (Levels 17—20)
 tags:
   - Quelle/5e/xge

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Conjure Barrage
 Zaubergrad: 3
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Conjure Barrage
 classes:
   - Bard (Magical Secrets)

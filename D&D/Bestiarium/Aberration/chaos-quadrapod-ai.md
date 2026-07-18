@@ -5,15 +5,16 @@ Bezeichnung: Chaos Quadrapod
 Kategorie: Aberration
 Größe: Groß
 HG: 4
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Chaos Quadrapod
 tags:
   - Quelle/5e/ai
-  - ttrpg-cli/monster/cr/4
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/4
+  - Monster/Größe/Groß
+  - Monster/Typ/Aberration
 aliases:
   - Chaos Quadrapod
+status: WIP
 ---
 # [Chaos Quadrapod](3-Mechanics/CLI/bestiary/aberration/chaos-quadrapod-ai.md)
 *Source: Acquisitions Incorporated p. 209*  

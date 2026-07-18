@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Merrow
+Status: WIP
 linter-yaml-title-alias: Merrow
 tags:
   - Monster/Größe/Groß

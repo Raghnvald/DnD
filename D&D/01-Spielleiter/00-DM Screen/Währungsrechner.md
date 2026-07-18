@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Amount
+Status: WIP
 linter-yaml-title-alias: Amount
 tags:
   - Quelle/5e/cos

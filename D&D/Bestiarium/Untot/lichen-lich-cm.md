@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lichen Lich
+Status: WIP
 linter-yaml-title-alias: Lichen Lich
 tags:
   - Monster/Größe/Mittelgroß

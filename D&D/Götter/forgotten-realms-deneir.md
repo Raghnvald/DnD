@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Deneir
+Status: WIP
 linter-yaml-title-alias: Deneir
 tags:
-  - Kompendium/Götter/Domäne/knowledge
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

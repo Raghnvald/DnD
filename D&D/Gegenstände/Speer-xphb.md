@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spear
+Status: WIP
 linter-yaml-title-alias: Spear
 tags:
   - Gegenstand/Seltenheit/keine

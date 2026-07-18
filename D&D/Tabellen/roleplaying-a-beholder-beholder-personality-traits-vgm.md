@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Roleplaying a Beholder; Beholder Personality Traits
+Status: WIP
 linter-yaml-title-alias: Roleplaying a Beholder; Beholder Personality Traits
 tags:
   - Quelle/5e/vgm

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nym
+Status: WIP
 linter-yaml-title-alias: Nym
 tags:
   - Monster/Größe/Riesig

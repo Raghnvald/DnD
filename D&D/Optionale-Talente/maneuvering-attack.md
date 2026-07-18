@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Maneuvering Attack
+Status: WIP
 linter-yaml-title-alias: Maneuvering Attack
 tags:
   - Kompendium/Optionales/mv-b

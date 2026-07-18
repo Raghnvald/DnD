@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Green Dragon
+Status: WIP
 linter-yaml-title-alias: Green Dragon
 tags:
   - Monster/legendary-group

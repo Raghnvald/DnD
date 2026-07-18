@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Lavender's Spell Scrolls"
+Status: WIP
 linter-yaml-title-alias: "Lavender's Spell Scrolls"
 tags:
   - Quelle/5e/bmt
 aliases:
   - "Lavender's Spell Scrolls"
-  - Lavender's Spell Scrolls
 ---
 # Lavender's Spell Scrolls
 *Source: The Book of Many Things p. 109* 

@@ -1,17 +1,18 @@
 ---
 Bezeichnung: Amethyst
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 100 GM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Amethyst
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Amethyst
+status: WIP
 ---
 # Amethyst
 *Treasure (gemstone)*  

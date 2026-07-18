@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Rope Trick
+Bezeichnung: Seiltrick
 Zaubergrad: 2
-linter-yaml-title-alias: Rope Trick
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Seiltrick
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -16,9 +18,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Verwandlung
 aliases:
-  - Rope Trick
+  - Seiltrick
 ---
-# Rope Trick
+# Seiltrick
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 Action

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Dagger
+Status: WIP
 linter-yaml-title-alias: Flying Dagger
 tags:
   - Monster/Größe/Winzig

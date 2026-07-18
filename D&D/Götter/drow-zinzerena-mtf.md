@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Zinzerena
+Status: WIP
 linter-yaml-title-alias: Zinzerena
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/drow
   - Quelle/5e/mtf
 aliases:

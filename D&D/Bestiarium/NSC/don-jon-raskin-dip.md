@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Don-Jon Raskin
+Status: WIP
 linter-yaml-title-alias: Don-Jon Raskin
 tags:
   - Monster/Größe/Mittelgroß

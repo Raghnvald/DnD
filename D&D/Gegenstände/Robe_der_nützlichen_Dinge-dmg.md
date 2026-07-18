@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Robe of Useful Items
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Robe of Useful Items
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

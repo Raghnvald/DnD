@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Possession
+Status: WIP
 linter-yaml-title-alias: Possession
 tags:
   - Quelle/5e/xphb

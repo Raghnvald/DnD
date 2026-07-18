@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pantheons in Geschichte und Fantasy-Welten
+Status: WIP
 linter-yaml-title-alias: Pantheons in Geschichte und Fantasy-Welten
 tags: []
 aliases:

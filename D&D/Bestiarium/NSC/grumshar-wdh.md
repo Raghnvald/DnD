@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Grum'shar"
+Status: WIP
 linter-yaml-title-alias: "Grum'shar"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - "Grum'shar"
-  - Grum'shar
 ---
 # [Grum'shar](3-Mechanics\CLI\bestiary\npc/grumshar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 29*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silver Dragon Adventures; Silver Dragon Adventure Hooks
+Status: WIP
 linter-yaml-title-alias: Silver Dragon Adventures; Silver Dragon Adventure Hooks
 tags:
   - Quelle/5e/ftd

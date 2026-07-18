@@ -1,5 +1,6 @@
 ---
 Bezeichnung: War Room
+Status: WIP
 linter-yaml-title-alias: War Room
 tags:
   - Kompendium/Bastion

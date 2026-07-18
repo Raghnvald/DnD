@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nat
+Status: WIP
 linter-yaml-title-alias: Nat
 tags:
   - Monster/Größe/Klein

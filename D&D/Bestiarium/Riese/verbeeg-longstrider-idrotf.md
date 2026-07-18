@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Verbeeg Longstrider
+Status: WIP
 linter-yaml-title-alias: Verbeeg Longstrider
 tags:
   - Monster/Größe/Groß

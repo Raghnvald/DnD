@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Segen der Gesundheit
+Status: WIP
 linter-yaml-title-alias: Segen der Gesundheit
 tags:
-  - Kompendium/Belohnung/blessing
+  - Kompendium/Belohnung/Segen
   - Quelle/5e/dmg
 aliases:
   - Blessing of Health

@@ -8,7 +8,7 @@ HG: 4
 Habitat:
   - Planar (Schattensaum)
   - Unterreich
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Juvenile Shadow Dragon
 tags:
   - Monster/Größe/Mittelgroß
@@ -20,6 +20,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Juvenile Shadow Dragon
+status: WIP
 ---
 # [Juvenile Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/juvenile-shadow-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 275*  

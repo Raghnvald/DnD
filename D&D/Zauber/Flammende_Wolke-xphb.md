@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Incendiary Cloud
+Status: WIP
 linter-yaml-title-alias: Incendiary Cloud
 classes:
   - Bard

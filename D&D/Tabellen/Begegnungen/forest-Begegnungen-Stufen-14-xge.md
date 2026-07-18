@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Forest Encounters (Levels 1—4)
+Status: WIP
 linter-yaml-title-alias: Forest Encounters (Levels 1—4)
 tags:
   - Quelle/5e/xge

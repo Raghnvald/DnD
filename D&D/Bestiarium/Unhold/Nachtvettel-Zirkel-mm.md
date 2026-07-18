@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Night Hag (Coven)
+Status: WIP
 linter-yaml-title-alias: Night Hag (Coven)
 tags:
   - Monster/Größe/Mittelgroß

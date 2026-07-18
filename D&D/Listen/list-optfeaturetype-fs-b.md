@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fighting Style, Bard
+Status: WIP
 linter-yaml-title-alias: Fighting Style, Bard
 tags:
   - Quelle/5e/xge

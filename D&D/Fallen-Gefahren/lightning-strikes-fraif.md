@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Lightning Strikes
+Status: WIP
 linter-yaml-title-alias: Lightning Strikes
 tags:
   - Quelle/5e/fraif
 aliases:
-  - "Lightning Strikes"
+  - Lightning Strikes
   - Lightning Strikes
 ---
 # Lightning Strikes

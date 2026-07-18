@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scarecrow
+Status: WIP
 linter-yaml-title-alias: Scarecrow
 tags:
   - Monster/Größe/Mittelgroß

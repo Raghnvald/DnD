@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Item Crafting Time and Cost
+Status: WIP
 linter-yaml-title-alias: Magic Item Crafting Time and Cost
 tags:
   - Quelle/5e/xdmg

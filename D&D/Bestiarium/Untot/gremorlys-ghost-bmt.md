@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Gremorly's Ghost"
+Status: WIP
 linter-yaml-title-alias: "Gremorly's Ghost"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - "Gremorly's Ghost"
-  - Gremorly's Ghost
 ---
 # [Gremorly's Ghost](3-Mechanics\CLI\bestiary\undead/gremorlys-ghost-bmt.md)
 *Source: The Book of Many Things p. 122*  

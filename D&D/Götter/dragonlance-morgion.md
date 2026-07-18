@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Morgion
+Status: WIP
 linter-yaml-title-alias: Morgion
 tags:
   - Kompendium/Götter/dragonlance
   - Quelle/5e/dsotdq
 aliases:
-  - "Morgion"
+  - Morgion
   - Morgion
 ---
 # Morgion

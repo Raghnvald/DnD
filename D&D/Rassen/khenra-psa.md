@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Khenra
+Status: WIP
 linter-yaml-title-alias: Khenra
 tags:
   - Quelle/5e/psa
   - Rasse/khenra
 aliases:
-  - "Khenra"
+  - Khenra
   - Khenra
 ---
 # Khenra

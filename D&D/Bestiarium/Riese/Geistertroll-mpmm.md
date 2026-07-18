@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Spirit Troll
+Status: WIP
 linter-yaml-title-alias: Spirit Troll
 tags:
   - Monster/Größe/Groß

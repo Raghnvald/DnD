@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cart
+Status: WIP
 linter-yaml-title-alias: Cart
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

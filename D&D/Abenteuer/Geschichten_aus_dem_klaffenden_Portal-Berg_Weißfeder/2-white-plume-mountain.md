@@ -1,10 +1,11 @@
 ---
 Bezeichnung: White Plume Mountain
+Status: WIP
 linter-yaml-title-alias: White Plume Mountain
 tags:
   - Quelle/5e/tftyp-wpm
 aliases:
-  - "White Plume Mountain"
+  - White Plume Mountain
   - White Plume Mountain
 ---
 # White Plume Mountain

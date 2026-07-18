@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Einswerden mit der Natur
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Einswerden mit der Natur
 classes:
   - Barbarian (Path of the Totem Warrior)

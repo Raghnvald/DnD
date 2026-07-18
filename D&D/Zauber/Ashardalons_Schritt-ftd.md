@@ -1,12 +1,13 @@
 ---
-Bezeichnung: "Ashardalon's Stride"
+Bezeichnung: Ashardalons Schritt
 Zaubergrad: 3
-Zeitaufwand:
+Zeitaufwand: 1 Bonusaktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
-linter-yaml-title-alias: "Ashardalon's Stride"
+Status: WIP
+linter-yaml-title-alias: Ashardalons Schritt
 classes:
   - Artificer
   - Bard
@@ -29,11 +30,11 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
 aliases:
-  - "Ashardalon's Stride"
+  - Ashardalons Schritt
 ---
-# Ashardalon's Stride
+# Ashardalons Schritt
 *3rd-level, Transmutation*  
-![Fire follows in the footst...](Zauber/img/ashardalons-stride.webp#right "Fire follows in the footsteps of a red dragon who has cast Ashardalon's stride.")
+![Fire follows in the footst...](img/ashardalons-stride.webp#right "Fire follows in the footsteps of a red dragon who has cast Ashardalon's stride.")
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self

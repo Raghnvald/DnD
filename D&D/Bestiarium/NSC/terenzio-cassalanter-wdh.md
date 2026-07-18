@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Terenzio Cassalanter
+Status: WIP
 linter-yaml-title-alias: Terenzio Cassalanter
 tags:
   - Monster/Größe/Klein

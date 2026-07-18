@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gloves of Missile Snaring
+Status: WIP
 linter-yaml-title-alias: Gloves of Missile Snaring
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:

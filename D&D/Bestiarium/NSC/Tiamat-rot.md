@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Tiamat
+Status: WIP
 linter-yaml-title-alias: Tiamat
 tags:
   - Monster/Größe/Gigantisch

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zauberschriftrolle; Zauberschriftrolle
+Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle; Zauberschriftrolle
 tags:
   - Quelle/5e/dmg

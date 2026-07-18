@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of Shadow
+Status: WIP
 linter-yaml-title-alias: Way of Shadow
 tags:
   - Klasse/Mönch/shadow

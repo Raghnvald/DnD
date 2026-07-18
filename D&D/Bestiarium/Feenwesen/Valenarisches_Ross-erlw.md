@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Valenar Steed
+Status: WIP
 linter-yaml-title-alias: Valenar Steed
 tags:
   - Monster/Größe/Groß

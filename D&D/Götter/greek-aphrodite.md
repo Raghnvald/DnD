@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Aphrodite
+Status: WIP
 linter-yaml-title-alias: Aphrodite
 tags:
-  - Kompendium/Götter/Domäne/light
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

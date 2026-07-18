@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Teufelssicht
+Status: WIP
 tags:
   - Kompendium/Optionales/Anrufungen
   - Quelle/5e/phb
 aliases:
-  - Devil's Sight
+  - "Devil's Sight"
 ---
 # Teufelssicht
 *Quelle: SRD / Grundregelwerk / Spielerhandbuch*  

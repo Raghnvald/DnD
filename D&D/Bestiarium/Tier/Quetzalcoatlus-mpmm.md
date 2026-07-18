@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Quetzalcoatlus
+Status: WIP
 linter-yaml-title-alias: Quetzalcoatlus
 tags:
   - Monster/Größe/Riesig

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Percival de Rolo
+Status: WIP
 linter-yaml-title-alias: Percival de Rolo
 tags:
   - Monster/Größe/Mittelgroß

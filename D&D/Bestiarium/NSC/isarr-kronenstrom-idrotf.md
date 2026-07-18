@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Isarr Kronenstrom
+Status: WIP
 linter-yaml-title-alias: Isarr Kronenstrom
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Handouts
+Status: WIP
 linter-yaml-title-alias: Handouts
 tags:
   - Quelle/5e/ttp
 aliases:
-  - "Handouts"
+  - Handouts
   - Handouts
 ---
 # Handouts

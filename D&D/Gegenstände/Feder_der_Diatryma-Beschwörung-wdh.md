@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Feather of Diatryma Summoning
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Feather of Diatryma Summoning
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/wdh
 aliases:

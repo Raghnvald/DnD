@@ -5,7 +5,7 @@ Bezeichnung: Dream Eater
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 7
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Dream Eater
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mcv2dc
 aliases:
   - Dream Eater
+status: WIP
 ---
 # [Dream Eater](3-Mechanics\CLI\bestiary\aberration/dream-eater-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 3*  

@@ -2,10 +2,10 @@
 Bezeichnung: Kartographenwerkzeuge
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 15 GM
 Gew.: 3,0 kg
-status: WIP
+Status: completed 
 linter-yaml-title-alias: Kartographenwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

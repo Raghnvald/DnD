@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampire
+Status: WIP
 linter-yaml-title-alias: Vampire
 tags:
   - Quelle/5e/psz
   - Rasse/vampire
 aliases:
-  - "Vampire"
+  - Vampire
   - Vampire
 ---
 # Vampire

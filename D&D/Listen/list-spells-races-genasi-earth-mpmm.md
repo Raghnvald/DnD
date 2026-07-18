@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Genasi (Earth)
+Status: WIP
 linter-yaml-title-alias: Spells for Genasi (Earth)
 tags:
-  - Zauber/list/subrace/genasi-earth
+  - Zauber/Liste/subrace/genasi-earth
 aliases:
   - Spells for Genasi (Earth)
 ---

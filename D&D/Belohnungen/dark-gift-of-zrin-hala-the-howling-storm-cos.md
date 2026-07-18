@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Zrin-Hala, the Howling Storm
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Zrin-Hala, the Howling Storm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Zrin-Hala, the Howling Storm

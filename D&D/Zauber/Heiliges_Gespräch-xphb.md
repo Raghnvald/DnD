@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Commune
+Status: WIP
 linter-yaml-title-alias: Commune
 classes:
   - Bard

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Level and Lethality; Spell Equivalent by Level
+Status: WIP
 linter-yaml-title-alias: Level and Lethality; Spell Equivalent by Level
 tags:
   - Quelle/5e/xge

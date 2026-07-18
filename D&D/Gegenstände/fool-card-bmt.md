@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fool Card
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Fool Card
 tags:
   - Gegenstand/Seltenheit/legendär

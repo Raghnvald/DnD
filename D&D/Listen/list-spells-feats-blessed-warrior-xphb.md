@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Blessed Warrior
+Status: WIP
 linter-yaml-title-alias: Spells for Blessed Warrior
 tags:
-  - Zauber/list/feat/blessed-warrior
+  - Zauber/Liste/feat/blessed-warrior
 aliases:
   - Spells for Blessed Warrior
 ---

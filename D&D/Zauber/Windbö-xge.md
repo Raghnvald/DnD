@@ -6,7 +6,8 @@ Reichweite: 9 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
 Angriff: STR
-Schaden: /
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Windbö
 classes:
   - Bard (College of Lore)
@@ -24,8 +25,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
   - Kompendium/Talent/druidic-warrior
-  - Kompendium/Talent/magic-initiate/wizard-spells
-  - Kompendium/Talent/wood-elf-magic
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
+  - Kompendium/Talent/Waldelf-Magie
   - Quelle/5e/xge
   - Rasse/elf/high-elf
   - Rasse/kobold

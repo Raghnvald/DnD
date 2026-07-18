@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Portent
+Status: WIP
 linter-yaml-title-alias: Living Portent
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

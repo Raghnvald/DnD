@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Holy Aura
+Status: WIP
 linter-yaml-title-alias: Holy Aura
 classes:
   - Bard

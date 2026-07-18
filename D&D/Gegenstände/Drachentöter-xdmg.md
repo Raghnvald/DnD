@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Slayer
+Status: WIP
 linter-yaml-title-alias: Dragon Slayer
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

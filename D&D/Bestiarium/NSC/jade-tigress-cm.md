@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jade Tigress
+Status: WIP
 linter-yaml-title-alias: Jade Tigress
 tags:
   - Monster/Größe/Mittelgroß

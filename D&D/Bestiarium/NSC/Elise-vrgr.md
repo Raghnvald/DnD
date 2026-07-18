@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elise
+Status: WIP
 linter-yaml-title-alias: Elise
 tags:
   - Monster/Größe/Mittelgroß

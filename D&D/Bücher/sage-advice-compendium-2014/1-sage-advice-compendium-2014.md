@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Sage Advice Compendium (2014)
+Status: WIP
 linter-yaml-title-alias: Sage Advice Compendium (2014)
 tags:
   - Quelle/5e/sac
 aliases:
-  - "Sage Advice Compendium (2014)"
+  - Sage Advice Compendium (2014)
   - Sage Advice Compendium (2014)
 ---
 # Sage Advice Compendium (2014)

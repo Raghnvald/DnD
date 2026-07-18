@@ -3,9 +3,9 @@ Bezeichnung: Bizas Atem
 Kategorie: Gift
 Eigenschaften:
   - Gift
-Kst.: /
-Gew.: /
-status: WIP
+Kst.: n/v
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Bizas Atem
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Bizas Atem
+status: WIP
 ---
 # Bizas Atem
 *Adventuring gear, poison (inhaled)*  

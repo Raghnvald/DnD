@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elemental Spirit (Earth)
+Status: WIP
 linter-yaml-title-alias: Elemental Spirit (Earth)
 tags:
   - Monster/Größe/Mittelgroß

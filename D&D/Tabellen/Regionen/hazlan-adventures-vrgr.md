@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hazlan Adventures
+Status: WIP
 linter-yaml-title-alias: Hazlan Adventures
 tags:
   - Quelle/5e/vrgr

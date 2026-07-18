@@ -1,5 +1,6 @@
 ---
 Bezeichnung: 25 GM Kunstgegenstände
+Status: WIP
 linter-yaml-title-alias: 25 GM Kunstgegenstände
 tags:
   - Quelle/5e/dmg

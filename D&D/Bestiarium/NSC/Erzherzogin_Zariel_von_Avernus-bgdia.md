@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archduke Zariel of Avernus
+Status: WIP
 linter-yaml-title-alias: Archduke Zariel of Avernus
 tags:
   - Monster/Größe/Groß

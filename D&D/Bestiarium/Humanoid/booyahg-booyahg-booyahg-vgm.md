@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Booyahg Booyahg Booyahg
+Status: WIP
 linter-yaml-title-alias: Booyahg Booyahg Booyahg
 tags:
   - Monster/Größe/Mittelgroß

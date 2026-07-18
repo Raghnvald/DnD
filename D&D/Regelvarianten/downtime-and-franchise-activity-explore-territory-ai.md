@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Downtime and Franchise Activity: Explore Territory"
+Status: WIP
 linter-yaml-title-alias: "Downtime and Franchise Activity: Explore Territory"
 tags:
   - Quelle/5e/ai

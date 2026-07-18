@@ -5,8 +5,7 @@ Bezeichnung: Eye Monger
 Kategorie: Aberration
 Größe: Groß
 HG: 10
-image: token/eye-monger-bam.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Eye Monger
 tags:
   - Monster/Größe/Groß
@@ -16,6 +15,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Eye Monger
+image: token/eye-monger-bam.webp
+status: WIP
 ---
 # [Eye Monger](3-Mechanics\CLI\bestiary\aberration/eye-monger-bam.md)
 *Source: Boo's Astral Menagerie p. 21, Vecna: Eve of Ruin*  

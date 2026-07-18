@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Water Breathing
+Status: WIP
 linter-yaml-title-alias: Water Breathing
 classes:
   - Artificer

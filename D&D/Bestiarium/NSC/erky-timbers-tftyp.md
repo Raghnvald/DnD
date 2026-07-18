@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Erky Timbers
+Status: WIP
 linter-yaml-title-alias: Erky Timbers
 tags:
   - Monster/Größe/Mittelgroß

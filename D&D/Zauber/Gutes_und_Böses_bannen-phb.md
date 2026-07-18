@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dispel Evil and Good
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Dispel Evil and Good
 classes:
   - Bard (Magical Secrets)

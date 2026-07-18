@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Shield
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: +3 Shield
 tags:
   - Gegenstand/Rüstung/Schild/

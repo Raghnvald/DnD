@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Cauldron of Plenty
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Cauldron of Plenty
 tags:
   - Gegenstand/Seltenheit/selten

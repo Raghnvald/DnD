@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Talona
+Status: WIP
 linter-yaml-title-alias: Talona
 tags:
-  - Kompendium/Götter/Domäne/death
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Lady of Poison

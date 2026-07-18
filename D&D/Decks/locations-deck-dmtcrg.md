@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Locations Deck
+Status: WIP
 linter-yaml-title-alias: Locations Deck
 tags:
   - Quelle/5e/dmtcrg
 aliases:
-  - "Locations Deck"
+  - Locations Deck
   - Locations Deck
 ---
 # Locations Deck

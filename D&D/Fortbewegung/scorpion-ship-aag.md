@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Scorpion Ship
+Status: WIP
 linter-yaml-title-alias: Scorpion Ship
 tags:
   - Quelle/5e/aag
-  - ttrpg-cli/vehicle/terrain/land
-  - ttrpg-cli/vehicle/terrain/space
-  - ttrpg-cli/vehicle/type/spelljammer
+  - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Gelände/Weltall
+  - Gegenstand/Fortbewegung/Kategorie/Spelljammer
 aliases:
-  - "Scorpion Ship"
+  - Scorpion Ship
   - Scorpion Ship
 ---
 # Scorpion Ship

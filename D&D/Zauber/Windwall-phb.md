@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wind Wall
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Wind Wall
 classes:
   - Bard (Magical Secrets)

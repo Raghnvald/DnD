@@ -5,19 +5,20 @@ Eigenschaften:
   - Munition
 Kst.: 2 KM
 Gew.: 0,01 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Blasrohrpfeil
 tags:
-  - Gegenstand/Ausrüstung/ammunition
+  - Gegenstand/Ausrüstung/Munition
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Blasrohrpfeil
+status: WIP
 ---
 # Blasrohrpfeil
-*Ammunition*  
+*Munition*  
 
-- **Cost**: 2 cp
-- **Weight**: 0.02 lbs.
+- **Kosten**: 2 KM
+- **Gewicht**: 0,01 kg
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 149. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

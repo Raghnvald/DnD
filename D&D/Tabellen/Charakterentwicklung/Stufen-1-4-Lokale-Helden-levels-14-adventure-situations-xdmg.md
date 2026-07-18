@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations"
+Status: WIP
 linter-yaml-title-alias: "Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations"
 tags:
   - Quelle/5e/xdmg
 aliases:
   - "Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations"
-  - Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
 ---
 # Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Staff of Power
+Status: WIP
 linter-yaml-title-alias: Staff of Power
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

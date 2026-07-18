@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: 1 Minute
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Heiligtum
 classes:
   - Bard (Magical Secrets)
@@ -17,7 +18,7 @@ tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
   - Klasse/Paladin/Schwur-der-Hingabe
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Subklasse/way-of-the-open-hand
   - Zauber/Grad/1

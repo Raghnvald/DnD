@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manafret Cherryport
+Status: WIP
 linter-yaml-title-alias: Manafret Cherryport
 tags:
   - Monster/Größe/Klein

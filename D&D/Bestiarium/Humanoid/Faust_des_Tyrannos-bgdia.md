@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Fist of Bane
+Status: WIP
 linter-yaml-title-alias: Fist of Bane
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Jug
+Status: WIP
 linter-yaml-title-alias: Jug
 tags:
   - Gegenstand/Ausrüstung/

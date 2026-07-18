@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schule des Zauberbanns
+Status: WIP
 tags:
   - Klasse/Barde
   - Quelle/5e/xge

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bucket
+Status: WIP
 linter-yaml-title-alias: Bucket
 tags:
   - Gegenstand/Ausrüstung/

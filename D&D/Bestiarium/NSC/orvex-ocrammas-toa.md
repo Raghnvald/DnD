@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orvex Ocrammas
+Status: WIP
 linter-yaml-title-alias: Orvex Ocrammas
 tags:
   - Monster/Größe/Mittelgroß

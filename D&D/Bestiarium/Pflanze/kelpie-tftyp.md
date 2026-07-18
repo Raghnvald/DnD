@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kelpie
+Status: WIP
 linter-yaml-title-alias: Kelpie
 tags:
   - Monster/Größe/Mittelgroß

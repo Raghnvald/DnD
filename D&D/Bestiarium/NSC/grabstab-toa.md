@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grabstab
+Status: WIP
 linter-yaml-title-alias: Grabstab
 tags:
   - Monster/Größe/Klein

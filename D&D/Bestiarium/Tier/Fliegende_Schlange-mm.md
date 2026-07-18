@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flying Snake
+Status: WIP
 linter-yaml-title-alias: Flying Snake
 tags:
   - Monster/Größe/Winzig

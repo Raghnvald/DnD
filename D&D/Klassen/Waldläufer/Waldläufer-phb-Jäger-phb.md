@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hunter
+Status: WIP
 linter-yaml-title-alias: Hunter
 tags:
   - Klasse/Waldläufer/hunter

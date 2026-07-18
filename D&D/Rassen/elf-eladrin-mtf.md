@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elf (Eladrin)
+Status: WIP
 linter-yaml-title-alias: Elf (Eladrin)
 tags:
   - Quelle/5e/mtf

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gate
+Status: WIP
 linter-yaml-title-alias: Gate
 classes:
   - Bard

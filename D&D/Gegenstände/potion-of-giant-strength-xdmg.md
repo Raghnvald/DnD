@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Giant Strength
+Status: WIP
 linter-yaml-title-alias: Potion of Giant Strength
 tags:
   - Gegenstand/Seltenheit/variiert

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Duchess Brimskarda
+Status: WIP
 linter-yaml-title-alias: Duchess Brimskarda
 tags:
   - Monster/Größe/Riesig

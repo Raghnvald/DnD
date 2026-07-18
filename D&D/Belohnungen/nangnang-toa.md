@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Nangnang
+Status: WIP
 linter-yaml-title-alias: Nangnang
 tags:
   - Kompendium/Belohnung/inhabitation

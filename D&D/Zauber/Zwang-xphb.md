@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Compulsion
+Status: WIP
 linter-yaml-title-alias: Compulsion
 classes:
   - Bard

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Strigoi
+Status: WIP
 linter-yaml-title-alias: Strigoi
 tags:
   - Monster/Größe/Mittelgroß

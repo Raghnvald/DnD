@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gruul Charm
+Status: WIP
 linter-yaml-title-alias: Gruul Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Gruul Charm

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of the Crystal Heart
+Status: WIP
 linter-yaml-title-alias: Charm of the Crystal Heart
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/toa
 aliases:
   - Charm of the Crystal Heart

@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Nether Scroll of Azumar
 Kategorie: Schriftrolle
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Nether Scroll of Azumar
 tags:
   - Gegenstand/Seltenheit/legendär
@@ -9,6 +9,7 @@ tags:
   - Quelle/5e/cm
 aliases:
   - Nether Scroll of Azumar
+status: WIP
 ---
 # Nether Scroll of Azumar
 *Scroll, legendary*  

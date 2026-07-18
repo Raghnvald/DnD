@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Djinni
+Status: WIP
 linter-yaml-title-alias: Djinni
 tags:
   - Monster/Größe/Groß

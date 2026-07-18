@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Deck of Wonder
+Status: WIP
 linter-yaml-title-alias: Deck of Wonder
 tags:
   - Quelle/5e/bmt

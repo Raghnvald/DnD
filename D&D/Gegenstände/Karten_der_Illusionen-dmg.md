@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Deck of Illusions
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Deck of Illusions
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

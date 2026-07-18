@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fire-Breathing Statue
+Status: WIP
 linter-yaml-title-alias: Fire-Breathing Statue
 tags:
   - Kompendium/Bedrohung/mag

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Circle of the Stars
+Status: WIP
 linter-yaml-title-alias: Spells for Circle of the Stars
 tags:
-  - Zauber/list/subclass/circle-of-the-stars
+  - Zauber/Liste/subclass/circle-of-the-stars
 aliases:
   - Spells for Circle of the Stars
 ---

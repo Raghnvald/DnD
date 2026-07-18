@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Shard Amulet
+Status: WIP
 linter-yaml-title-alias: Dark Shard Amulet
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/gewöhnlich
   - Quelle/5e/xdmg
 aliases:

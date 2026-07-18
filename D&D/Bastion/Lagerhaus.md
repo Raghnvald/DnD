@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Storehouse
+Status: WIP
 linter-yaml-title-alias: Storehouse
 tags:
   - Kompendium/Bastion

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Potion of Greater Invisibility
+Status: WIP
 linter-yaml-title-alias: Potion of Greater Invisibility
 tags:
   - Gegenstand/Seltenheit/sehr_selten

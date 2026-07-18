@@ -1,9 +1,10 @@
 ---
 Bezeichnung: +2 Ammunition
+Status: WIP
 linter-yaml-title-alias: +2 Ammunition
 tags:
-  - Gegenstand/Ausrüstung/ammunition
-  - Gegenstand/Ausrüstung/ammunition-firearm
+  - Gegenstand/Ausrüstung/Munition
+  - Gegenstand/Ausrüstung/Munition-Schusswaffe
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/generic-variant
   - Gegenstand/Zeitalter/Futuristisch

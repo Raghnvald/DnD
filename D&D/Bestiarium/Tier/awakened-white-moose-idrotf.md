@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awakened White Moose
+Status: WIP
 linter-yaml-title-alias: Awakened White Moose
 tags:
   - Monster/Größe/Groß

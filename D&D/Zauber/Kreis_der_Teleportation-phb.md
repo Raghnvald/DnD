@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Teleportation Circle
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Teleportation Circle
 classes:
   - Bard (Magical Secrets)

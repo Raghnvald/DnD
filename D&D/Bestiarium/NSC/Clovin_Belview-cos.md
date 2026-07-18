@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clovin Belview
+Status: WIP
 linter-yaml-title-alias: Clovin Belview
 tags:
   - Monster/Größe/Mittelgroß

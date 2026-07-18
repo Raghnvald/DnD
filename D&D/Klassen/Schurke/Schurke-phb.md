@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Schurke
+Status: WIP
 linter-yaml-title-alias: Schurke
 tags:
   - Klasse/Schurke
@@ -54,7 +55,7 @@ aliases:
 - **Waffen**: einfache Waffen, [[Armbrust-Hand-phb|Handarmbrust]], [[Langschwert-phb|Langschwert]], [[Rapier-phb|Rapier]], [[Kurzschwert-phb|Kurzschwert]]
 - **Werkzeuge**: [[Diebeswerkzeug-phb|Diebeswerkzeug]] <br><br>
 - **Rettungswürfe**: Geschicklichkeit und Intelligenz
-- **Fertigkeiten**: vier nach Wahl: [[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]], [[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]],  [[01-Spielleiter/Fertigkeiten-phb#Auftreten|Auftreten]],  [[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]], [[01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]], [[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]], [[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]], [[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]], [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]], [[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]
+- **Fertigkeiten**: vier nach Wahl: [[Fertigkeiten-phb#Akrobatik|Akrobatik]], [[Fertigkeiten-phb#Athletik|Athletik]],  [[Fertigkeiten-phb#Auftreten|Auftreten]],  [[Fertigkeiten-phb#Einschüchtern|Einschüchtern]], [[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]], [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]], [[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[Fertigkeiten-phb#Nachforschungen|Nachforschungen]], [[Fertigkeiten-phb#Täuschen|Täuschen]], [[Fertigkeiten-phb#Überzeugen|Überzeugen]], [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]
  
 ## Ausrüstung
 
@@ -65,7 +66,7 @@ Du beginnst mit der folgenden Ausrüstung, zusätzlich zu der, die du durch dein
 - _(a)_ eine [[Einbrecherausrüstung-phb|Einbrecherausrüstung]], _(b)_ eine [[Gewölbeforscherausrüstung-phb|Gewölbeforschwerausrüstung]] oder _(c)_ eine [[Entdeckerausrüstung-phb|Entdeckerausrüstung]]
 - eine [[Lederrüstung-phb|Lederrüstung]], zwei [[Dolch-phb|Dolch]] und [[Diebeswerkzeug-phb|Diebeswerkzeug]]
 
-Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
+Alternativ kannst du mit 4d4 × 10 GM starten, um deine eigene Ausrüstung zu kaufen.
 
 ## Klassenkombination Schurke
 
@@ -75,7 +76,7 @@ When you gain a level in a class other than your first, you gain only some of th
 
 - **Rüstungen**: [[Gegenstandsarten-phb#Leichte Rüstung|Leichte Rüstung]]
 - **Werkzeuge**: [[Diebeswerkzeug-phb|Diebeswerkzeug]] 
-- **Fertigkeiten**: einen nach Wahl: [[01-Spielleiter/Fertigkeiten-phb#Akrobatik|Akrobatik]], [[01-Spielleiter/Fertigkeiten-phb#Athletik|Athletik]],  [[01-Spielleiter/Fertigkeiten-phb#Auftreten|Auftreten]],  [[01-Spielleiter/Fertigkeiten-phb#Einschüchtern|Einschüchtern]], [[01-Spielleiter/Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]], [[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]], [[01-Spielleiter/Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[01-Spielleiter/Fertigkeiten-phb#Nachforschungen|Nachforschungen]], [[01-Spielleiter/Fertigkeiten-phb#Täuschen|Täuschen]], [[01-Spielleiter/Fertigkeiten-phb#Überzeugen|Überzeugen]], [[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]
+- **Fertigkeiten**: einen nach Wahl: [[Fertigkeiten-phb#Akrobatik|Akrobatik]], [[Fertigkeiten-phb#Athletik|Athletik]],  [[Fertigkeiten-phb#Auftreten|Auftreten]],  [[Fertigkeiten-phb#Einschüchtern|Einschüchtern]], [[Fertigkeiten-phb#Fingerfertigkeit|Fingerfertigkeit]], [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]], [[Fertigkeiten-phb#Motiv erkennen|Motiv erkennen]], [[Fertigkeiten-phb#Nachforschungen|Nachforschungen]], [[Fertigkeiten-phb#Täuschen|Täuschen]], [[Fertigkeiten-phb#Überzeugen|Überzeugen]], [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]
 
 ## Schurke
 

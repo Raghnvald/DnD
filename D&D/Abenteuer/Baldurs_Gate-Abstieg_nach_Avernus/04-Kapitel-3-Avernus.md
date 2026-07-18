@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "<center> Kapitel 3: Avernus </center>"
+Status: WIP
 linter-yaml-title-alias: "<center> Kapitel 3: Avernus </center>"
 tags:
   - Quelle/5e/bgdia

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Uthgardt Tribe Member
+Status: WIP
 linter-yaml-title-alias: Uthgardt Tribe Member
 tags:
   - Kompendium/Hintergrund

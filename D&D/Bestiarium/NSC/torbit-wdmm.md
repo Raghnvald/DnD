@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Torbit
+Status: WIP
 linter-yaml-title-alias: Torbit
 tags:
   - Monster/Größe/Mittelgroß

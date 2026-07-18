@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: High Fae Mage
+Status: WIP
 linter-yaml-title-alias: High Fae Mage
 tags:
   - Monster/Größe/Mittelgroß

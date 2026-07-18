@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dark Gift of Vaund the Evasive
+Status: WIP
 linter-yaml-title-alias: Dark Gift of Vaund the Evasive
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/cos
 aliases:
   - Dark Gift of Vaund the Evasive

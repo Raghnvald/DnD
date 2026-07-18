@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Injuries
+Status: WIP
 linter-yaml-title-alias: Injuries
 tags:
   - Quelle/5e/dmg

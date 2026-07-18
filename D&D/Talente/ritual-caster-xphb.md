@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ritual Caster
+Status: WIP
 linter-yaml-title-alias: Ritual Caster
 tags:
   - Kompendium/Talent

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goliath Warrior
+Status: WIP
 linter-yaml-title-alias: Goliath Warrior
 tags:
   - Monster/Größe/Mittelgroß

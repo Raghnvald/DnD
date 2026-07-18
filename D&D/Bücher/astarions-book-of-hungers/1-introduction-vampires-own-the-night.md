@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Vampires Own the Night"
+Status: WIP
 linter-yaml-title-alias: "Introduction: Vampires Own the Night"
 tags:
   - Quelle/5e/abh

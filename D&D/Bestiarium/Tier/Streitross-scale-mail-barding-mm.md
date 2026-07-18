@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Warhorse (Scale Mail Barding)
+Status: WIP
 linter-yaml-title-alias: Warhorse (Scale Mail Barding)
 tags:
   - Monster/Größe/Groß

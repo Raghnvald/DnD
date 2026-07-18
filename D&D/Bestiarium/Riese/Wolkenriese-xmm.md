@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cloud Giant
+Status: WIP
 linter-yaml-title-alias: Cloud Giant
 tags:
   - Monster/Größe/Riesig

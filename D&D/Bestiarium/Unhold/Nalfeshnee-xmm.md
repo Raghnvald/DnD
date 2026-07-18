@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nalfeshnee
+Status: WIP
 linter-yaml-title-alias: Nalfeshnee
 tags:
   - Monster/Größe/Groß

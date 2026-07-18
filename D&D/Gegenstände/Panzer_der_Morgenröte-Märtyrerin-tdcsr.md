@@ -1,9 +1,19 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr
+Original: Plate of the Dawnmartyr
 Rüstung: Schwer
+Eigenschaften:
+  - Relikt der Divergenz
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: 32,5 kg
+RK: "18"
+STR: 15
+Heiml.: Nachteil
+Status: WIP
 linter-yaml-title-alias: Plate of the Dawnmartyr
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schwer
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/tdcsr

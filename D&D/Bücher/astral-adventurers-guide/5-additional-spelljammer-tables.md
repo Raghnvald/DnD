@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Additional Spelljammer Tables
+Status: WIP
 linter-yaml-title-alias: Additional Spelljammer Tables
 tags:
   - Quelle/5e/aag
 aliases:
-  - "Additional Spelljammer Tables"
+  - Additional Spelljammer Tables
   - Additional Spelljammer Tables
 ---
 # Additional Spelljammer Tables

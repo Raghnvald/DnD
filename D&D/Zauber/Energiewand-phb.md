@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wall of Force
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Wall of Force
 classes:
   - Bard (Magical Secrets)

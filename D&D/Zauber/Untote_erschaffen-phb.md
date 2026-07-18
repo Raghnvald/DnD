@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Create Undead
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Create Undead
 classes:
   - Bard (Magical Secrets)

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Silk Rope (50 feet)
+Status: WIP
 linter-yaml-title-alias: Silk Rope (50 feet)
 tags:
   - Gegenstand/Ausrüstung/

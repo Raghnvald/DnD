@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Cleric Spells
+Status: WIP
 linter-yaml-title-alias: Cleric Spells
 tags:
-  - Zauber/list/class/cleric
+  - Zauber/Liste/class/cleric
 aliases:
   - Cleric Spells
 ---

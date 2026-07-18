@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Muiral
+Status: WIP
 linter-yaml-title-alias: Muiral
 tags:
   - Monster/Größe/Groß

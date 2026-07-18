@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Purple Dragon Squire
+Status: WIP
 linter-yaml-title-alias: Purple Dragon Squire
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/frhof
 aliases:
-  - "Purple Dragon Squire"
+  - Purple Dragon Squire
   - Purple Dragon Squire
 ---
 # Purple Dragon Squire

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Clay Golem
+Status: WIP
 linter-yaml-title-alias: Clay Golem
 tags:
   - Monster/Größe/Groß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Xandala
+Status: WIP
 linter-yaml-title-alias: Xandala
 tags:
   - Monster/Größe/Mittelgroß

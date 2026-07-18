@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Scale Mail
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Scale Mail
 tags:
   - Gegenstand/Rüstung/Mittel

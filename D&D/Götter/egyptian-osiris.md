@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Osiris
+Status: WIP
 linter-yaml-title-alias: Osiris
 tags:
-  - Kompendium/Götter/Domäne/grave
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/Domäne/nature
+  - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

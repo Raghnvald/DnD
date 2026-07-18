@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mudslick Tower
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Mudslick Tower
 tags:
   - Gegenstand/Seltenheit/sehr_selten

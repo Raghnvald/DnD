@@ -7,8 +7,7 @@ Größe: Groß
 HG: "7"
 Habitat:
   - /
-image: token/advanced-detention-drone-bmt.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Advanced Detention Drone
 tags:
   - Monster/Größe/Groß
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Advanced Detention Drone
+image: token/advanced-detention-drone-bmt.webp
+status: WIP
 ---
 # [Advanced Detention Drone](3-Mechanics\CLI\bestiary\construct/advanced-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  

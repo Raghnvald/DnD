@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sequester
+Status: WIP
 linter-yaml-title-alias: Sequester
 classes:
   - Bard

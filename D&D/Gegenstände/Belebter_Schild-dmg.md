@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Belebter Schild
+Original: Animated Shield
 Kategorie: Rüstung
 Rüstung: Schild
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: completed
 linter-yaml-title-alias: Belebter Schild
 tags:
   - Gegenstand/Einstimmung

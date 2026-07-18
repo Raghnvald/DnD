@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Chain Devil
+Status: WIP
 linter-yaml-title-alias: Chain Devil
 tags:
   - Monster/Größe/Mittelgroß

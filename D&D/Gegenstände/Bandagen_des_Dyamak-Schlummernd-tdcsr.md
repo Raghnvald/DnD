@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Wraps of Dyamak (Dormant)
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Wraps of Dyamak (Dormant)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam
   - Quelle/5e/tdcsr

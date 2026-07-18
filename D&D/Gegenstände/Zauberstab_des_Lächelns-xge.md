@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Wand of Smiles
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Wand of Smiles
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

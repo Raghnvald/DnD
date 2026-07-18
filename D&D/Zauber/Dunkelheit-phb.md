@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Dunkelheit
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Dunkelheit
 classes:
   - Bard (Magical Secrets)

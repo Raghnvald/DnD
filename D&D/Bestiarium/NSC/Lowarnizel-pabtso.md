@@ -8,7 +8,7 @@ HG: 9
 Habitat:
   - /
 Image: token/lowarnizel-pabtso.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Lowarnizel
 tags:
   - Monster/Größe/Groß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/pabtso
 aliases:
   - Lowarnizel
+status: WIP
 ---
 # Lowarnizel
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  

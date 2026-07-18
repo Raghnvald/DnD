@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rogue
+Status: WIP
 linter-yaml-title-alias: Rogue
 tags:
   - Klasse/Schurke

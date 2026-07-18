@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Zhentarim Tactics
+Status: WIP
 linter-yaml-title-alias: Zhentarim Tactics
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Zhentarim Tactics"
+  - Zhentarim Tactics
   - Zhentarim Tactics
 ---
 # Zhentarim Tactics

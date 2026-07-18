@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Eyes of Charming
+Status: WIP
 linter-yaml-title-alias: Eyes of Charming
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

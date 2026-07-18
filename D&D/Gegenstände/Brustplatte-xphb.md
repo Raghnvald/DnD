@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Breastplate
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Breastplate
 tags:
   - Gegenstand/Rüstung/Mittel

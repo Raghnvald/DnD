@@ -6,7 +6,7 @@ Kategorie: Drache (Chromatisch)
 Größe: Gigantisch
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Green Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Green Greatwyrm
+status: WIP
 ---
 # [Green Greatwyrm](3-Mechanics\CLI\bestiary\dragon/green-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

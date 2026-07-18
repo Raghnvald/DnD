@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bitter Breath
+Status: WIP
 linter-yaml-title-alias: Bitter Breath
 tags:
   - Monster/Größe/Groß

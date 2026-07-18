@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Phaia
+Status: WIP
 linter-yaml-title-alias: Phaia
 tags:
   - Monster/Größe/Mittelgroß

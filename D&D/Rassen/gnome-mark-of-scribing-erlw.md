@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome (Mark of Scribing)
+Status: WIP
 linter-yaml-title-alias: Gnome (Mark of Scribing)
 tags:
   - Quelle/5e/erlw

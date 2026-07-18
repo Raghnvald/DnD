@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Raise Dead
+Status: WIP
 linter-yaml-title-alias: Raise Dead
 classes:
   - Artificer (Alchemist)

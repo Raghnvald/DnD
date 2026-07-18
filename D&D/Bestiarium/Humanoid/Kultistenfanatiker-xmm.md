@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Cultist Fanatic
+Status: WIP
 linter-yaml-title-alias: Cultist Fanatic
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pole of Angling
+Status: WIP
 linter-yaml-title-alias: Pole of Angling
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

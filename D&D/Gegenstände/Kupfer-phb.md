@@ -2,10 +2,10 @@
 Bezeichnung: Kupfer
 Kategorie: Handelsgut
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 SM
 Gew.: 0,5 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Kupfer
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
@@ -14,6 +14,7 @@ tags:
 aliases:
   - Copper
   - Kupfer
+Original: Copper
 ---
 # Kupfer
 *Handelsware*

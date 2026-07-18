@@ -2,10 +2,10 @@
 Bezeichnung: Pergament (ein Blatt)
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1 SM
-Gew.: /
-status: WIP
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Pergament (ein Blatt)
 tags:
   - Gegenstand/Ausrüstung/
@@ -15,8 +15,8 @@ aliases:
   - Pergament (ein Blatt)
 ---
 # Pergament (ein Blatt)
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 1 sp
+- **Kosten**: 1 SM
 
-*Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 150. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

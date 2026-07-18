@@ -1,12 +1,13 @@
 ---
-Bezeichnung: Zephyr Strike
+Bezeichnung: Zephyrschlag
 Zaubergrad: 1
-Zeitaufwand:
-Reichweite:
-Komponenten:
-Wirkungsdauer:
+Zeitaufwand: 1 Bonusaktion
+Reichweite: selbst
+Komponenten: V
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff:
-linter-yaml-title-alias: Zephyr Strike
+Status: WIP
+linter-yaml-title-alias: Zephyrschlag
 classes:
   - Ranger
 tags:
@@ -15,9 +16,9 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Verwandlung
 aliases:
-  - Zephyr Strike
+  - Zephyrschlag
 ---
-# Zephyr Strike
+# Zephyrschlag
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 Bonus Action

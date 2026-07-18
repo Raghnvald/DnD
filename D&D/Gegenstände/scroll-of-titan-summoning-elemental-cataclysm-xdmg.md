@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Elemental Cataclysm)
+Status: WIP
 linter-yaml-title-alias: Scroll of Titan Summoning (Elemental Cataclysm)
 tags:
   - Gegenstand/Seltenheit/legendär

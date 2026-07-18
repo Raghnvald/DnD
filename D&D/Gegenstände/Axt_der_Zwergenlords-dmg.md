@@ -1,15 +1,18 @@
 ---
 Bezeichnung: Axt der Zwergenlords
-Kategorie: Nahkampf-Kriegswaffe
+Original: Axe of the Dwarvish Lords
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
 linter-yaml-title-alias: Axt der Zwergenlords
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/Artefakt
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/dmg
 aliases:
   - Axt der Zwergenlords
+status: WIP
 ---
 # Axt der Zwergenlords
 *Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe.md)), cursed item, artifact (requires attunement)*  

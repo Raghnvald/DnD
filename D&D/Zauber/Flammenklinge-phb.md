@@ -1,7 +1,8 @@
 ---
-Bezeichnung: Flame Blade
+Bezeichnung: Flammenklinge
 Zaubergrad: 2
-linter-yaml-title-alias: Flame Blade
+Status: WIP
+linter-yaml-title-alias: Flammenklinge
 classes:
   - Bard (Magical Secrets)
   - Druid
@@ -12,9 +13,10 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Flame Blade
+  - Flammenklinge
+Zeitaufwand: 1 Bonusaktion
 ---
-# Flame Blade
+# Flammenklinge
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 Bonus Action

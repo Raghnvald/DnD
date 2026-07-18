@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Mastery
+Status: WIP
 linter-yaml-title-alias: Ioun Stone, Mastery
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/xdmg
 aliases:

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Skull Lasher of Myrkul
+Status: WIP
 linter-yaml-title-alias: Skull Lasher of Myrkul
 tags:
   - Monster/Größe/Mittelgroß

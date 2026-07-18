@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Blod Stone
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Blod Stone
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/skt

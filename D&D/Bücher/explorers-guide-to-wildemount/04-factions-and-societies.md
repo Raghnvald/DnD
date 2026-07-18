@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Factions and Societies
+Status: WIP
 linter-yaml-title-alias: Factions and Societies
 tags:
   - Quelle/5e/egw

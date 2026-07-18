@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Swarm of Beetles
+Status: WIP
 linter-yaml-title-alias: Swarm of Beetles
 tags:
   - Monster/Größe/Mittelgroß

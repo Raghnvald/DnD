@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Lolth
+Status: WIP
 linter-yaml-title-alias: Lolth
 tags:
-  - Kompendium/Götter/Domäne/trickery
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/drow
   - Quelle/5e/scag
 aliases:
-  - "Lolth"
+  - Lolth
   - Lolth
 ---
 # Lolth

@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Nightspider
+Status: WIP
 linter-yaml-title-alias: Nightspider
 tags:
   - Quelle/5e/aag
-  - ttrpg-cli/vehicle/terrain/space
-  - ttrpg-cli/vehicle/type/spelljammer
+  - Gegenstand/Fortbewegung/Gelände/Weltall
+  - Gegenstand/Fortbewegung/Kategorie/Spelljammer
 aliases:
-  - "Nightspider"
+  - Nightspider
   - Nightspider
 ---
 # Nightspider

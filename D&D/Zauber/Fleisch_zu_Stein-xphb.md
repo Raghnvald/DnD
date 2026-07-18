@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Flesh to Stone
+Status: WIP
 linter-yaml-title-alias: Flesh to Stone
 classes:
   - Bard

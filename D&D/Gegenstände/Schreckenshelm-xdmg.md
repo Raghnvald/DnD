@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dread Helm
+Status: WIP
 linter-yaml-title-alias: Dread Helm
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Pharika's Disciple"
+Status: WIP
 linter-yaml-title-alias: "Pharika's Disciple"
 tags:
   - Kompendium/Belohnung/piety-trait

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Outlander
+Status: WIP
 linter-yaml-title-alias: Outlander
 tags:
   - Kompendium/Hintergrund

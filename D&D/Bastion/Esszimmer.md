@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dining Room
+Status: WIP
 linter-yaml-title-alias: Dining Room
 tags:
   - Kompendium/Bastion

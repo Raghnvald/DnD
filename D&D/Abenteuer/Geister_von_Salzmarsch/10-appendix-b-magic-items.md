@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Magic Items"
 tags:
   - Quelle/5e/gos
 aliases:
   - "Appendix B: Magic Items"
-  - Appendix B: Magic Items
 ---
 # Appendix B: Magic Items
 *Source: Ghosts of Saltmarsh, p. 229* 

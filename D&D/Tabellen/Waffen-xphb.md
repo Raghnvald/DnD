@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Waffen
+Status: WIP
 linter-yaml-title-alias: Waffen
 tags:
   - Quelle/5e/xphb

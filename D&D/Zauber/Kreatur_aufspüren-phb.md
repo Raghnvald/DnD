@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Locate Creature
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Locate Creature
 classes:
   - Bard (Magical Secrets)

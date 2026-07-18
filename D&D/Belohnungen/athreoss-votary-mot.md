@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Athreos's Votary"
+Status: WIP
 linter-yaml-title-alias: "Athreos's Votary"
 tags:
   - Kompendium/Belohnung/piety-trait

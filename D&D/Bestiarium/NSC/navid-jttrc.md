@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Navid
+Status: WIP
 linter-yaml-title-alias: Navid
 tags:
   - Monster/Größe/Groß

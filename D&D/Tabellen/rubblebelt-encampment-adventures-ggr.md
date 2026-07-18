@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rubblebelt Encampment Adventures
+Status: WIP
 linter-yaml-title-alias: Rubblebelt Encampment Adventures
 tags:
   - Quelle/5e/ggr

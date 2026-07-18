@@ -2,10 +2,10 @@
 Bezeichnung: The Incantations of Iriolarthas
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 1,5kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: The Incantations of Iriolarthas
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - The Incantations of Iriolarthas
+status: WIP
 ---
 # The Incantations of Iriolarthas
 *Adventuring gear*  

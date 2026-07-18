@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Galvanice Weird
+Status: WIP
 linter-yaml-title-alias: Galvanice Weird
 tags:
   - Monster/Größe/Mittelgroß

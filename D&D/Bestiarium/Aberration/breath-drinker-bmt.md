@@ -5,7 +5,7 @@ Bezeichnung: Breath Drinker
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 14
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Breath Drinker
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - Breath Drinker
+status: WIP
 ---
 # [Breath Drinker](3-Mechanics\CLI\bestiary\aberration/breath-drinker-bmt.md)
 *Source: The Book of Many Things p. 154*  

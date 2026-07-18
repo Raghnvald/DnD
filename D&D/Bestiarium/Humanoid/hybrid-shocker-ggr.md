@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hybrid Shocker
+Status: WIP
 linter-yaml-title-alias: Hybrid Shocker
 tags:
   - Monster/Größe/Mittelgroß

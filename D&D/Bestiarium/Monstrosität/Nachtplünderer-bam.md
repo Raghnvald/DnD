@@ -2,9 +2,14 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Nachtplünderer
-image: token/night-scavver-bam.webp
-status: WIP
-linter-yaml-title-alias: Night Scavver
+Original: Night Scavver
+Kategorie: Monstrosität
+Größe: Riesig
+HG: 5
+Habitat:
+  - /
+Status: completed
+linter-yaml-title-alias: Nachtplünderer
 tags:
   - Monster/Größe/Riesig
   - Monster/HG/5
@@ -12,7 +17,8 @@ tags:
   - Quelle/5e/bam
   - Quelle/5e/veor
 aliases:
-  - Night Scavver
+  - Nachtplünderer
+image: token/night-scavver-bam.webp
 ---
 # Nachtplünderer
 *Quelle: Boo's Astral Menagerie p. 49, Vecna: Vorabend der Verdammnis*  
@@ -36,11 +42,11 @@ Gekochtes Nachtplündererfleisch ist in den Tavernen des Wildalls ein beliebtes 
 > | 20 (+5)|15 (+2)|17 (+3)|1 (-5)|10 (+0)|1 (-5)|
 > 
 > - **Rettungswürfe** ⏤
-> - **Fertigkeiten** [[|Heimlichkeit]] +8, [[|Wahrnehmung]] +6
+> - **Fertigkeiten** [[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]] +8, [[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]] +6
 > - **Schadensresistenzen** ⏤
 > - **Schadensimmunitäten** ⏤
 > - **Zustandsimmunitäten** ⏤
-> - **Sinne** [[|Dunkelsicht]] 36 Meter, passive Wahrnehmung 16
+> - **Sinne** [[Sinne-phb#Dunkelsicht|Dunkelsicht]] 36 Meter, passive Wahrnehmung 16
 > - **Sprachen** ⏤
 > - **Herausforderungsgrad** 5 (1.800 EP)
 > - **Übungsbonus** +2

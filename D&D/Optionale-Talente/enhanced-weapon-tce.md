@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Enhanced Weapon
+Status: WIP
 linter-yaml-title-alias: Enhanced Weapon
 tags:
   - Kompendium/Optionales/ai

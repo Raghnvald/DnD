@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Weather
+Status: WIP
 linter-yaml-title-alias: Weather
 tags:
   - Quelle/5e/dmg

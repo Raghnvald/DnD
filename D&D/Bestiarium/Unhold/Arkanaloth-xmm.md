@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Arcanaloth
+Status: WIP
 linter-yaml-title-alias: Arcanaloth
 tags:
   - Monster/Größe/Mittelgroß

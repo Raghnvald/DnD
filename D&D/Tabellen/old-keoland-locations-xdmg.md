@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Old Keoland Locations
+Status: WIP
 linter-yaml-title-alias: Old Keoland Locations
 tags:
   - Quelle/5e/xdmg

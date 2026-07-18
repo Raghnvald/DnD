@@ -1,15 +1,18 @@
 ---
-Bezeichnung: "Devotee's Censer"
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: "Devotee's Censer"
+Bezeichnung: Devotee's Censer
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Devotee's Censer
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tce
 aliases:
-  - "Devotee's Censer"
+  - Devotee's Censer
+status: WIP
+Original: Devotee's Censer
 ---
 # Devotee's Censer
 *Weapon ([flail](/3-Mechanics/CLI/items/flail-xphb.md)), rare (requires attunement by a cleric or paladin)*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Survivors
+Status: WIP
 linter-yaml-title-alias: Survivors
 tags:
   - Quelle/5e/vrgr

@@ -5,7 +5,7 @@ Bezeichnung: Grüner Slaad
 Kategorie: Aberration
 Größe: Groß
 HG: 8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Grüner Slaad
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Grüner Slaad
+status: WIP
 ---
 # Grüner Slaad
 *Quelle: Monsterhandbuch S. 258*  

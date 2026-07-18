@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Old Croaker
+Status: WIP
 linter-yaml-title-alias: Old Croaker
 tags:
   - Monster/Größe/Groß

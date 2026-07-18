@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eberron Crafting Complications
+Status: WIP
 linter-yaml-title-alias: Eberron Crafting Complications
 tags:
   - Quelle/5e/erlw

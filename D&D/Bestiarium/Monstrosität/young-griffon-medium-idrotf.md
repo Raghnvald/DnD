@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Young Griffon (Medium)
+Status: WIP
 linter-yaml-title-alias: Young Griffon (Medium)
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Neue Organisation
+Status: WIP
 linter-yaml-title-alias: Neue Organisation
 tags:
   - Quelle/5e/dmg

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bugbear
+Status: WIP
 linter-yaml-title-alias: Bugbear
 tags:
   - Quelle/5e/vgm

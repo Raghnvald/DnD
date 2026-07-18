@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arcana - Legendary
+Status: WIP
 linter-yaml-title-alias: Arcana - Legendary
 tags:
   - Quelle/5e/xdmg

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Chauntea
+Status: WIP
 linter-yaml-title-alias: Chauntea
 tags:
-  - Kompendium/Götter/Domäne/life
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Chauntea

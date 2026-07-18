@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Archelon
+Status: WIP
 linter-yaml-title-alias: Archelon
 tags:
   - Monster/Größe/Riesig

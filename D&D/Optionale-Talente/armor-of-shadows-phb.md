@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Armor of Shadows
+Status: WIP
 linter-yaml-title-alias: Armor of Shadows
 tags:
   - Kompendium/Optionales/ei

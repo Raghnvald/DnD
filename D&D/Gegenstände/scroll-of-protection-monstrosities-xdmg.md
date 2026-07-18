@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Scroll of Protection (Monstrosities)
+Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Monstrosities)
 tags:
   - Gegenstand/Seltenheit/selten

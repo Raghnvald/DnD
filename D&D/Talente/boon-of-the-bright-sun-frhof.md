@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Boon of the Bright Sun
+Status: WIP
 linter-yaml-title-alias: Boon of the Bright Sun
 tags:
   - Kompendium/Talent
   - Quelle/5e/frhof
 aliases:
-  - "Boon of the Bright Sun"
+  - Boon of the Bright Sun
   - Boon of the Bright Sun
 ---
 # Boon of the Bright Sun

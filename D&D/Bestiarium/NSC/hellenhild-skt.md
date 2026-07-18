@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Hellenhild
+Status: WIP
 linter-yaml-title-alias: Hellenhild
 tags:
   - Monster/Größe/Riesig

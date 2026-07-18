@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Sorcerer Spells
+Status: WIP
 linter-yaml-title-alias: Sorcerer Spells
 tags:
-  - Zauber/list/class/sorcerer
+  - Zauber/Liste/class/sorcerer
 aliases:
   - Sorcerer Spells
 ---

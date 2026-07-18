@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Orc Blade of Ilneval
+Status: WIP
 linter-yaml-title-alias: Orc Blade of Ilneval
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Graveyard Revenant
+Status: WIP
 linter-yaml-title-alias: Graveyard Revenant
 tags:
   - Monster/Größe/Riesig

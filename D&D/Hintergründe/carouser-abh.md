@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Carouser
+Status: WIP
 linter-yaml-title-alias: Carouser
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/abh
 aliases:
-  - "Carouser"
+  - Carouser
   - Carouser
 ---
 # Carouser

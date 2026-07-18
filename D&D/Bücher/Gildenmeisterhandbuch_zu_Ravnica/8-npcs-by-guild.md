@@ -1,5 +1,6 @@
 ---
 Bezeichnung: NPCs by Guild
+Status: WIP
 linter-yaml-title-alias: NPCs by Guild
 tags:
   - Quelle/5e/ggr

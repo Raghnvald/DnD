@@ -8,7 +8,7 @@ HG: "2"
 Habitat:
   - /
 Image: token/ameyali-jttrc.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Ameyali
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Ameyali
+status: WIP
 ---
 # [Ameyali](3-Mechanics\CLI\bestiary\npc/ameyali-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 108*  

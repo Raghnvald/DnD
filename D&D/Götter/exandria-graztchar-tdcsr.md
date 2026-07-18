@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Graz'tchar"
+Status: WIP
 linter-yaml-title-alias: "Graz'tchar"
 tags:
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - "Graz'tchar"
-  - Graz'tchar
 ---
 # Graz'tchar
 *Source: Tal'Dorei Campaign Setting Reborn p. 40* 

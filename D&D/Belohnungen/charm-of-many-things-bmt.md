@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Many Things
+Status: WIP
 linter-yaml-title-alias: Charm of Many Things
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bmt
 aliases:
   - Charm of Many Things

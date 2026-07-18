@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Münzgeld; Standard-Wechselkurse
+Status: WIP
 linter-yaml-title-alias: Münzgeld; Standard-Wechselkurse
 tags:
   - Quelle/5e/phb

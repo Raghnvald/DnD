@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Oath of the Watchers
+Status: WIP
 linter-yaml-title-alias: Spells for Oath of the Watchers
 tags:
-  - Zauber/list/subclass/oath-of-the-watchers
+  - Zauber/Liste/subclass/oath-of-the-watchers
 aliases:
   - Spells for Oath of the Watchers
 ---

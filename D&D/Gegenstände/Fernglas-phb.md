@@ -1,25 +1,25 @@
 ---
-Bezeichnung: Spyglass
+Bezeichnung: Fernglas
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 1.000 GM
 Gew.: 0,5 kg
-status: WIP
-linter-yaml-title-alias: Spyglass
+Status: completed
+linter-yaml-title-alias: Fernglas
 tags:
   - Gegenstand/Ausrüstung/
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Spyglass
+  - Fernglas
 ---
-# Spyglass
-*Adventuring gear*  
+# Fernglas
+*Abenteuerausrüstung*  
 
-- **Cost**: 1,000 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 1.000 GM
+- **Gewicht**: 0,5 kg
 
-Objects viewed through a spyglass are magnified to twice their size.
+Objekte, die durch ein Fernglas betrachtet werden, erscheinen doppelt so groß. 
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

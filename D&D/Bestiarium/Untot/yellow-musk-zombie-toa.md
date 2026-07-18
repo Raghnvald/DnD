@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yellow Musk Zombie
+Status: WIP
 linter-yaml-title-alias: Yellow Musk Zombie
 tags:
   - Monster/Größe/Mittelgroß

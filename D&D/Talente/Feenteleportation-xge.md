@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Feenteleportation
-linter-yaml-title-alias: Fey Teleportation
+Status: WIP
+linter-yaml-title-alias: Feenteleportation
 tags:
   - Kompendium/Talent
   - Quelle/5e/xge
 aliases:
-  - Fey Teleportation
+  - Feenteleportation
 ---
 # Feenteleportation
 *Source: Xanathar's Guide to Everything p. 74*  

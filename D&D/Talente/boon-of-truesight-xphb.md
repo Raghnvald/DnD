@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boon of Truesight
+Status: WIP
 linter-yaml-title-alias: Boon of Truesight
 tags:
   - Kompendium/Talent

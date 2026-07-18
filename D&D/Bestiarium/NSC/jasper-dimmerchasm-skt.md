@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Jasper Dimmerchasm
+Status: WIP
 linter-yaml-title-alias: Jasper Dimmerchasm
 tags:
   - Monster/Größe/Mittelgroß

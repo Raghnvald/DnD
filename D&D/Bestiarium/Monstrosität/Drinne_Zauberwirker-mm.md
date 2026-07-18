@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drider Spellcaster
+Status: WIP
 linter-yaml-title-alias: Drider Spellcaster
 tags:
   - Monster/Größe/Groß

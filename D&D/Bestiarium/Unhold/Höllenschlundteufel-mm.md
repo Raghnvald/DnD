@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pit Fiend
+Status: WIP
 linter-yaml-title-alias: Pit Fiend
 tags:
   - Monster/Größe/Groß

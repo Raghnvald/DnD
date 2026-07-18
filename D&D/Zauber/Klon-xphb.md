@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Clone
+Status: WIP
 linter-yaml-title-alias: Clone
 classes:
   - Bard

@@ -2,25 +2,25 @@
 Bezeichnung: Diebeswerkzeug
 Kategorie: Werkzeug
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 25 GM
 Gew.: 0,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Diebeswerkzeug
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
+  - "Thieves' Tools"
   - Diebeswerkzeug
-  - Thieves' Tools
 ---
 # Diebeswerkzeug
 *Werkzeug*
 <img src="thieves-tools.webp" align="right" width="150">
 
 - **Kosten**: 25 GM
-- **Gewicht**: 0,5 kg.
+- **Gewicht**: 0,5 kg
 
 Dieser Satz Werkzeuge enthält eine kleine Feile, verschiedene Dietriche, einen kleinen Spiegel mit Handgriff, unterschiedliche Scheren mit dünnen Schneiden und einige Pinzetten. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Ubungsbonus auf alle Attributs und Fertigkeitswürfe addieren, die mit dem Entschärfen von Fallen oder dem Offnen von Schlössern in Verbindung stehen.
 

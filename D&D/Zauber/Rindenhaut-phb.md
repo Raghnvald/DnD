@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Rindenhaut
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Rindenhaut
 classes:
   - Bard (Magical Secrets)

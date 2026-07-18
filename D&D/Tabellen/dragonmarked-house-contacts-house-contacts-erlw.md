@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonmarked House Contacts; House Contacts
+Status: WIP
 linter-yaml-title-alias: Dragonmarked House Contacts; House Contacts
 tags:
   - Quelle/5e/erlw

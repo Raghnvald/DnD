@@ -6,8 +6,8 @@ Reichweite: 27 Meter
 Komponenten: G
 Wirkungsdauer: 1 Runde
 Angriff: n/v
-Schaden: /
-status:
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Elemente absorbieren
 classes:
   - Artificer
@@ -29,8 +29,8 @@ tags:
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Waldläufer
   - Klasse/Zauberer
-  - Kompendium/Talent/artificer-initiate
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Artifizientenlehrling
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/xge
   - Subklasse/abjurer
   - Subklasse/Mystischer-Ritter

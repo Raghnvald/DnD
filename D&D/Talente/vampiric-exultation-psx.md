@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Vampiric Exultation
+Status: WIP
 linter-yaml-title-alias: Vampiric Exultation
 tags:
   - Kompendium/Talent
   - Quelle/5e/psx
 aliases:
-  - "Vampiric Exultation"
+  - Vampiric Exultation
   - Vampiric Exultation
 ---
 # Vampiric Exultation

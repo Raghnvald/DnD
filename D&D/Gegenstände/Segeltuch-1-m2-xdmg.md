@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Canvas (1 sq. yd.)
+Status: WIP
 linter-yaml-title-alias: Canvas (1 sq. yd.)
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Myla
+Status: WIP
 linter-yaml-title-alias: Myla
 tags:
   - Monster/Größe/Klein

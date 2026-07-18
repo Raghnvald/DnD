@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Adventure Atlas: The Mortuary"
+Status: WIP
 linter-yaml-title-alias: "Adventure Atlas: The Mortuary"
 tags:
   - Quelle/5e/aatm

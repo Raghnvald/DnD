@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Eldritch Cannon, Protector
+Status: WIP
 linter-yaml-title-alias: Eldritch Cannon, Protector
 tags:
-  - Kompendium/Objekt/size/unknown
-  - Kompendium/Objekt/type/unknown
+  - Kompendium/Objekt/Größe/unbekannt
+  - Kompendium/Objekt/Kategorie/unbekannt
   - Quelle/5e/tce
 aliases:
   - Eldritch Cannon, Protector

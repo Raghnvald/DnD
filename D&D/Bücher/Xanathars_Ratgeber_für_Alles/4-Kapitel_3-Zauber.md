@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zauber
+Status: WIP
 linter-yaml-title-alias: Zauber
 tags:
   - Quelle/5e/xge

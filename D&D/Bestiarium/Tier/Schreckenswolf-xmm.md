@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Dire Wolf
+Status: WIP
 linter-yaml-title-alias: Dire Wolf
 tags:
   - Monster/Größe/Groß

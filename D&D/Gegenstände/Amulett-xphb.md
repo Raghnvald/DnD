@@ -1,10 +1,10 @@
 ---
 Bezeichnung: Amulet
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 0,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Amulet
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

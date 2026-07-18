@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Indrina Lamsettel
+Original: Indrina Lamsensettle
 Kategorie: Humanoid
 Größe: Mittelgroß
 HG: 1/8
 Habitat:
   - /
-image: token/indrina-lamsensettle-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Indrina Lamsettel
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Indrina Lamsettel
+image: token/indrina-lamsensettle-veor.webp
 ---
 # Indrina Lamsettel
 *Quelle: Vecna: Vorabend der Verdammnis*  

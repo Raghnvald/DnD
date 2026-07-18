@@ -7,6 +7,7 @@ Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
+Status: WIP
 linter-yaml-title-alias: Guiding Bolt
 classes:
   - Bard
@@ -23,7 +24,7 @@ tags:
   - Klasse/Kleriker
   - Klasse/Kleriker/war-domain
   - Klasse/Paladin/oath-of-glory
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/xphb
   - Subklasse/celestial-patron
   - Subklasse/divine-soul/good

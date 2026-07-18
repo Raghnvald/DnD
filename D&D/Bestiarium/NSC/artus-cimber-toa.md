@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Artus Cimber
 Kategorie: Humanoid (Mensch)
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Artus Cimber
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Artus Cimber
+status: WIP
 ---
 # [Artus Cimber](3-Mechanics\CLI\bestiary\npc/artus-cimber-toa.md)
 *Source: Tomb of Annihilation p. 212*  

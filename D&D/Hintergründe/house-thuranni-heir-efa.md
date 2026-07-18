@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Thuranni Heir
+Status: WIP
 linter-yaml-title-alias: House Thuranni Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Thuranni Heir"
+  - House Thuranni Heir
   - House Thuranni Heir
 ---
 # House Thuranni Heir

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Insect Plague
+Status: WIP
 linter-yaml-title-alias: Insect Plague
 classes:
   - Bard

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Frost Giant Servant
+Status: WIP
 linter-yaml-title-alias: Frost Giant Servant
 tags:
   - Monster/Größe/Riesig

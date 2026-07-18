@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sunburst
+Status: WIP
 linter-yaml-title-alias: Sunburst
 classes:
   - Bard

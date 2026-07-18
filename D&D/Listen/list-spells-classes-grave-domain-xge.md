@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Grave Domain
+Status: WIP
 linter-yaml-title-alias: Spells for Grave Domain
 tags:
-  - Zauber/list/subclass/grave-domain
+  - Zauber/Liste/subclass/grave-domain
 aliases:
   - Spells for Grave Domain
 ---

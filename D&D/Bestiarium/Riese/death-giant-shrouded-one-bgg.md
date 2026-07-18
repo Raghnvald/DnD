@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Death Giant Shrouded One
+Status: WIP
 linter-yaml-title-alias: Death Giant Shrouded One
 tags:
   - Monster/Größe/Riesig

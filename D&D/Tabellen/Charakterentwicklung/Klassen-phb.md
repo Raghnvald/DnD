@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Klassen
+Status: WIP
 linter-yaml-title-alias: Klassen
 tags:
   - Quelle/5e/phb

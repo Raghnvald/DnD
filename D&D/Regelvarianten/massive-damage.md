@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Massive Damage
+Status: WIP
 linter-yaml-title-alias: Massive Damage
 tags:
   - Quelle/5e/dmg

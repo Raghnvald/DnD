@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Banshee
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Banshee
 tags:
   - Monster/Größe/Mittelgroß
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Banshee
+status: WIP
 ---
 # [Banshee](3-Mechanics\CLI\bestiary\undead/banshee.md)
 *Source: Monster Manual p. 23. Available in the Basic Rules (2014)*  

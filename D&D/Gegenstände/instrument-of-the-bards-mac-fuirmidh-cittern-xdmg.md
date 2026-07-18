@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Mac-Fuirmidh Cittern
+Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Mac-Fuirmidh Cittern
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

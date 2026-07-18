@@ -1,10 +1,11 @@
 ---
 Bezeichnung: The Cloaked Serpent
+Status: WIP
 linter-yaml-title-alias: The Cloaked Serpent
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/Domäne/trickery
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:
   - The Cloaked Serpent

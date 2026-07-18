@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Robe
+Status: WIP
 linter-yaml-title-alias: Robe
 tags:
   - Gegenstand/Ausrüstung/

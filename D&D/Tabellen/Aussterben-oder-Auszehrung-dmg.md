@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aussterben oder Auszehrung
+Status: WIP
 linter-yaml-title-alias: Aussterben oder Auszehrung
 tags:
   - Quelle/5e/dmg

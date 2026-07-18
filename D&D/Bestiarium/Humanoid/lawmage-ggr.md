@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lawmage
+Status: WIP
 linter-yaml-title-alias: Lawmage
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Creatures"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Creatures"
 tags:
   - Quelle/5e/slw
 aliases:
   - "Appendix A: Creatures"
-  - Appendix A: Creatures
 ---
 # Appendix A: Creatures
 *Source: Essentials Kit: Storm Lord's Wrath* 

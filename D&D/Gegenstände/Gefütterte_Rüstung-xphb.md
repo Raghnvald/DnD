@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Padded Armor
 Rüstung: Leicht
+Status: WIP
 linter-yaml-title-alias: Padded Armor
 tags:
   - Gegenstand/Rüstung/Leicht

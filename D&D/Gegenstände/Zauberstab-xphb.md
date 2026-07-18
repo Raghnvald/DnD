@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wand
+Status: WIP
 linter-yaml-title-alias: Wand
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

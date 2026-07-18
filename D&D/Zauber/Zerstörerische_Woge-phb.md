@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Destructive Wave
 Zaubergrad: 5
+Status: WIP
 linter-yaml-title-alias: Destructive Wave
 classes:
   - Bard (Magical Secrets)

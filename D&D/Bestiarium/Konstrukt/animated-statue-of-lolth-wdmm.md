@@ -7,7 +7,7 @@ Größe: Riesig
 HG: "11"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Animated Statue of Lolth
 tags:
   - Monster/Größe/Riesig
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Animated Statue of Lolth
+status: WIP
 ---
 # [Animated Statue of Lolth](3-Mechanics\CLI\bestiary\construct/animated-statue-of-lolth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 142*  

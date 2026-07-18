@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Connected Creatures; Gold Dragon Wyrmling Connections
+Status: WIP
 linter-yaml-title-alias: Connected Creatures; Gold Dragon Wyrmling Connections
 tags:
   - Quelle/5e/ftd

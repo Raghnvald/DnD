@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sphere [Area of Effect]
+Status: WIP
 linter-yaml-title-alias: Sphere [Area of Effect]
 tags:
   - Quelle/5e/xphb

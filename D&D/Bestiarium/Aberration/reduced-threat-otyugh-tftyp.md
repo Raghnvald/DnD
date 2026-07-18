@@ -5,7 +5,7 @@ Bezeichnung: Reduced-Threat Otyugh
 Kategorie: Aberration
 Größe: Groß
 HG: 5
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Reduced-Threat Otyugh
 tags:
   - Monster/Größe/Groß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/tftyp
 aliases:
   - Reduced-Threat Otyugh
+status: WIP
 ---
 # [Reduced-Threat Otyugh](3-Mechanics\CLI\bestiary\aberration/reduced-threat-otyugh-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

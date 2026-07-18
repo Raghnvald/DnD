@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Soldier
+Status: WIP
 linter-yaml-title-alias: Soldier
 tags:
   - Monster/Größe/Mittelgroß

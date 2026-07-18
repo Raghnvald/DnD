@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gloves of Swimming and Climbing
+Status: WIP
 linter-yaml-title-alias: Gloves of Swimming and Climbing
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/dmg
 aliases:

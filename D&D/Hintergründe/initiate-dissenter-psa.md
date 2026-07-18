@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Initiate (Dissenter)
+Status: WIP
 linter-yaml-title-alias: Initiate (Dissenter)
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/psa
 aliases:
-  - "Initiate (Dissenter)"
+  - Initiate (Dissenter)
   - Initiate (Dissenter)
 ---
 # Initiate (Dissenter)

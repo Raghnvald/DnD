@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rod
+Status: WIP
 linter-yaml-title-alias: Rod
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

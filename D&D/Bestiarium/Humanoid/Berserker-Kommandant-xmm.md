@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Berserker Commander
+Status: WIP
 linter-yaml-title-alias: Berserker Commander
 tags:
   - Monster/Größe/Klein-oder-Mittelgroß

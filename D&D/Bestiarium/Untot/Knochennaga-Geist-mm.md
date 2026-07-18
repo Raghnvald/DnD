@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bone Naga (Spirit)
+Status: WIP
 linter-yaml-title-alias: Bone Naga (Spirit)
 tags:
   - Monster/Größe/Groß

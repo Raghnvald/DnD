@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Ocean Environs
+Status: WIP
 linter-yaml-title-alias: Ocean Environs
 tags:
   - Quelle/5e/gos
 aliases:
-  - "Ocean Environs"
+  - Ocean Environs
   - Ocean Environs
 ---
 # Ocean Environs

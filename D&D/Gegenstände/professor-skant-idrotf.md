@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Professor Skant
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Professor Skant
 tags:
   - Gegenstand/Seltenheit/selten

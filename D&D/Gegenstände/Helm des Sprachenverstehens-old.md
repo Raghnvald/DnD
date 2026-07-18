@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Helm des Sprachenverstehens
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Helm des Sprachenverstehens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

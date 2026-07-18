@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sacristy
+Status: WIP
 linter-yaml-title-alias: Sacristy
 tags:
   - Kompendium/Bastion

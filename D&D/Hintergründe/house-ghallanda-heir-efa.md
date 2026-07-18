@@ -1,11 +1,12 @@
 ---
 Bezeichnung: House Ghallanda Heir
+Status: WIP
 linter-yaml-title-alias: House Ghallanda Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "House Ghallanda Heir"
+  - House Ghallanda Heir
   - House Ghallanda Heir
 ---
 # House Ghallanda Heir

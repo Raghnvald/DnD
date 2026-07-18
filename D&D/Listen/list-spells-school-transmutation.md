@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Transmutation Spells
+Status: WIP
 linter-yaml-title-alias: Transmutation Spells
 tags:
-  - Zauber/list/school/transmutation
+  - Zauber/Liste/school/transmutation
 aliases:
   - Transmutation Spells
 ---

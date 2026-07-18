@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Hexblade
+Status: WIP
 linter-yaml-title-alias: The Hexblade
 tags:
   - Klasse/Hexenmeister/hexblade

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sled
+Status: WIP
 linter-yaml-title-alias: Sled
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

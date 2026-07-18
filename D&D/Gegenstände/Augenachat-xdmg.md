@@ -2,14 +2,15 @@
 Bezeichnung: Eye Agate
 Kst.: 10 GM
 Gew.: /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Eye Agate
 tags:
-  - Gegenstand/Ausrüstung/treasure-gemstone
+  - Gegenstand/Ausrüstung/Schatz-Edelstein
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:
   - Eye Agate
+status: WIP
 ---
 # Eye Agate
 *Treasure (gemstone)*  

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Key Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Key Card
 tags:
   - Gegenstand/Seltenheit/legendär

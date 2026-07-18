@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beast Master
+Status: WIP
 linter-yaml-title-alias: Beast Master
 tags:
   - Klasse/Waldläufer/beast-master

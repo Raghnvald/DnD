@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Peacock
+Status: WIP
 linter-yaml-title-alias: Peacock
 tags:
   - Monster/Größe/Mittelgroß

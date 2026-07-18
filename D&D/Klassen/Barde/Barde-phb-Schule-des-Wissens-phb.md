@@ -1,5 +1,6 @@
 ---
 Bezeichnung: College of Lore
+Status: WIP
 linter-yaml-title-alias: College of Lore
 tags:
   - Klasse/Barde/Schule-des-Wissens

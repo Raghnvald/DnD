@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Morgantha
+Status: WIP
 linter-yaml-title-alias: Morgantha
 tags:
   - Monster/Größe/Mittelgroß

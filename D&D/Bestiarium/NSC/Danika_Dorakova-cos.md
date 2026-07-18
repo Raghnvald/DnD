@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Danika Dorakova
+Status: WIP
 linter-yaml-title-alias: Danika Dorakova
 tags:
   - Monster/Größe/Mittelgroß

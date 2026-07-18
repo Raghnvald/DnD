@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cyclops; Treasure Drops
+Status: WIP
 linter-yaml-title-alias: Cyclops; Treasure Drops
 tags:
   - Quelle/5e/toa

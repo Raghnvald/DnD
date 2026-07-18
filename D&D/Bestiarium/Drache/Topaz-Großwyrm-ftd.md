@@ -7,7 +7,7 @@ Größe: Gigantisch
 HG: 26
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Topaz Greatwyrm
 tags:
   - Monster/Größe/Gigantisch
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Topaz Greatwyrm
+status: WIP
 ---
 # [Topaz Greatwyrm](3-Mechanics\CLI\bestiary\dragon/topaz-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  

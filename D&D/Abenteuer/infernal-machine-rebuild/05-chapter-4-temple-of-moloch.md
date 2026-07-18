@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 4: Temple of Moloch"
+Status: WIP
 linter-yaml-title-alias: "Chapter 4: Temple of Moloch"
 tags:
   - Quelle/5e/imr

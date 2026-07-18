@@ -1,14 +1,17 @@
 ---
 Bezeichnung: "Pariah's Shield"
+Original: "Pariah's Shield"
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: "Pariah's Shield"
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/ggr
 aliases:
   - "Pariah's Shield"
+status: WIP
 ---
 # Pariah's Shield
 *Armor (shield), rare (requires attunement)*  

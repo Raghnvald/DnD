@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Sailing Ship
+Status: WIP
 linter-yaml-title-alias: Sailing Ship
 tags:
   - Gegenstand/Ausrüstung/Fahrzeug

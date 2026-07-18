@@ -2,10 +2,10 @@
 Bezeichnung: Foliant des Strahd
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
-Kst.: /
+  - n/v
+Kst.: n/v
 Gew.: 0,25 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Foliant des Strahd
 tags:
   - Gegenstand/Ausrüstung/
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Foliant des Strahd
+Original: Tome of Strahd
 ---
 # Foliant des Strahd
 *Adventuring gear*  

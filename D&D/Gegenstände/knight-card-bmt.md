@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Knight Card
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Knight Card
 tags:
   - Gegenstand/Seltenheit/legendär

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pari
+Status: WIP
 linter-yaml-title-alias: Pari
 tags:
   - Monster/Größe/Mittelgroß

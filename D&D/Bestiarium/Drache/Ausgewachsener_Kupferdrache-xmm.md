@@ -7,7 +7,7 @@ Größe: Riesig
 HG: 14
 Habitat:
   - Hügel
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Copper Dragon
 tags:
   - Monster/Größe/Riesig
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Adult Copper Dragon
+status: WIP
 ---
 # [Adult Copper Dragon](3-Mechanics\CLI\bestiary\dragon/adult-copper-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 79. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

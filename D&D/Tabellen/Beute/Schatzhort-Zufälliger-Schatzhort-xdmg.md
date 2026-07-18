@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Treasure Hoards; Random Treasure Hoard
+Status: WIP
 linter-yaml-title-alias: Treasure Hoards; Random Treasure Hoard
 tags:
   - Quelle/5e/xdmg

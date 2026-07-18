@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Divinatory Uses
+Status: WIP
 linter-yaml-title-alias: Divinatory Uses
 tags:
   - Quelle/5e/dmtcrg
 aliases:
-  - "Divinatory Uses"
+  - Divinatory Uses
   - Divinatory Uses
 ---
 # Divinatory Uses

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Difficulty Class; Typical DCs
+Status: WIP
 linter-yaml-title-alias: Difficulty Class; Typical DCs
 tags:
   - Quelle/5e/dmg

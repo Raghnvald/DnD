@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Siren
+Status: WIP
 linter-yaml-title-alias: Spells for Siren
 tags:
-  - ttrpg-cli/spell/list/race/siren
+  - Zauber/Liste/race/siren
 aliases:
-  - "Spells for Siren"
+  - Spells for Siren
   - Spells for Siren
 ---
 # Spells for Siren

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Bead of Refreshment
+Status: WIP
 linter-yaml-title-alias: Bead of Refreshment
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

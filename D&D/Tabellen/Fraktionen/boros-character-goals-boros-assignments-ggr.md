@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Boros Character Goals; Boros Assignments
+Status: WIP
 linter-yaml-title-alias: Boros Character Goals; Boros Assignments
 tags:
   - Quelle/5e/ggr

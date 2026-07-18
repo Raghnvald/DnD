@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Wine from The Moonstone Mask in Neverwinter
+Status: WIP
 linter-yaml-title-alias: Wine from The Moonstone Mask in Neverwinter
 tags:
   - Quelle/5e/paf
 aliases:
-  - "Wine from The Moonstone Mask in Neverwinter"
+  - Wine from The Moonstone Mask in Neverwinter
   - Wine from The Moonstone Mask in Neverwinter
 ---
 # Wine from The Moonstone Mask in Neverwinter

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Radiance
 Kategorie: Zauberstab
+Status: WIP
 linter-yaml-title-alias: Radiance
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/unbekannt/magic
   - Gegenstand/wundersam/wand
   - Quelle/5e/cm

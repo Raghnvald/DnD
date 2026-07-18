@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wild Magic Sorcery
+Status: WIP
 linter-yaml-title-alias: Wild Magic Sorcery
 tags:
   - Klasse/Zauberer/wild-magic

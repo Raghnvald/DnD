@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 2: Into Darkness"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Into Darkness"
 tags:
   - Quelle/5e/oota

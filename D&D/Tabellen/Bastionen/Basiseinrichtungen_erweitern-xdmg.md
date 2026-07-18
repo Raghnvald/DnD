@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Basiseinrichtungen erweitern
 Kategorie: Bastion
+Status: WIP
 linter-yaml-title-alias: Basiseinrichtungen erweitern
 tags:
   - Quelle/5e/xdmg

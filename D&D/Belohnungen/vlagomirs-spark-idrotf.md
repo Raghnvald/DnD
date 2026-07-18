@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Vlagomir's Spark"
+Status: WIP
 linter-yaml-title-alias: "Vlagomir's Spark"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - "Vlagomir's Spark"
-  - Vlagomir's Spark
 ---
 # Vlagomir's Spark
 *Charm*  

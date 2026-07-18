@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zebra
+Status: WIP
 linter-yaml-title-alias: Zebra
 tags:
   - Monster/Größe/Groß

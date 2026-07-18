@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Cure Wounds
+Status: WIP
 linter-yaml-title-alias: Charm of Cure Wounds
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/idrotf
 aliases:
   - Charm of Cure Wounds

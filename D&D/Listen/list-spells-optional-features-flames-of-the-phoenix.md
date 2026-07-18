@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Flames of the Phoenix
+Status: WIP
 linter-yaml-title-alias: Spells for Flames of the Phoenix
 tags:
-  - Zauber/list/optfeature/flames-of-the-phoenix
+  - Zauber/Liste/optfeature/flames-of-the-phoenix
 aliases:
   - Spells for Flames of the Phoenix
 ---

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Loxodon
+Status: WIP
 linter-yaml-title-alias: Loxodon
 tags:
   - Quelle/5e/ggr

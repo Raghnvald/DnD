@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Reindeer
+Status: WIP
 linter-yaml-title-alias: Reindeer
 tags:
   - Monster/Größe/Groß

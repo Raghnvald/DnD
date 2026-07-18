@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lazedon
+Status: WIP
 linter-yaml-title-alias: Lazedon
 tags:
   - Monster/Größe/Mittelgroß

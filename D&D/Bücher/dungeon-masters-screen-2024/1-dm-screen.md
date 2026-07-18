@@ -1,18 +1,19 @@
 ---
 Bezeichnung: DM Screen
+Status: WIP
 linter-yaml-title-alias: DM Screen
 tags:
   - Quelle/5e/xscreen
 aliases:
-  - "DM Screen"
+  - DM Screen
   - DM Screen
 ---
 # DM Screen
-*Source: Dungeon Master's Screen (2024)* 
+*Quelle: Dungeon Master's Screen (2024)* 
 
 ## Cover
 
-![](3-Mechanics/CLI/books/dungeon-masters-screen-2024/img/xscreen-front.webp#center)
+![](dungeon-masters-screen-2024/img/xscreen-front.webp#center)
 
 ## Conditions
 

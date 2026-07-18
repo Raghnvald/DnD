@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Introduction: Wildspace Awaits!"
+Status: WIP
 linter-yaml-title-alias: "Introduction: Wildspace Awaits!"
 tags:
   - Quelle/5e/lox

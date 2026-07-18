@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Torm
+Status: WIP
 linter-yaml-title-alias: Torm
 tags:
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - The Hand of Righteousness

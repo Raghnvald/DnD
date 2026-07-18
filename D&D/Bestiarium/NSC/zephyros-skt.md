@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zephyros
+Status: WIP
 linter-yaml-title-alias: Zephyros
 tags:
   - Monster/Größe/Riesig

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Vedalken
+Status: WIP
 linter-yaml-title-alias: Vedalken
 tags:
   - Quelle/5e/ggr

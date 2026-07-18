@@ -1,6 +1,7 @@
 ---
 Bezeichnung: The Codicil of White
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: The Codicil of White
 tags:
   - Gegenstand/Seltenheit/unbekannt/magic

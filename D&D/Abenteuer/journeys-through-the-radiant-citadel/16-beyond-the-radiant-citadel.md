@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Beyond the Radiant Citadel
+Status: WIP
 linter-yaml-title-alias: Beyond the Radiant Citadel
 tags:
   - Quelle/5e/jttrc
 aliases:
-  - "Beyond the Radiant Citadel"
+  - Beyond the Radiant Citadel
   - Beyond the Radiant Citadel
 ---
 # Beyond the Radiant Citadel

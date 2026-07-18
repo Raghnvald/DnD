@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lamp
+Status: WIP
 linter-yaml-title-alias: Lamp
 tags:
   - Gegenstand/Ausrüstung/

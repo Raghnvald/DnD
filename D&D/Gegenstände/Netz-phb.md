@@ -1,16 +1,18 @@
 ---
-Bezeichnung: Net
-Kategorie: Fernkampf-Kriegswaffe
-linter-yaml-title-alias: Net
+Bezeichnung: Netz
+Original: Net
+Kategorie: Fernkampfwaffe, Kriegswaffe
+Status: WIP
+linter-yaml-title-alias: Netz
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Fernkampf
   - Gegenstand/Waffe/Kriegswaffe
   - Quelle/5e/phb
 aliases:
-  - Net
+  - Netz
 ---
-# Net
+# Netz
 *Weapon*  
 
 - **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)

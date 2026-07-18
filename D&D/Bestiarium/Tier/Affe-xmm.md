@@ -2,7 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ape
-image: token/ape-xmm.webp
+Status: WIP
 linter-yaml-title-alias: Ape
 tags:
   - Monster/Größe/Mittelgroß
@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/xmm
 aliases:
   - Ape
+image: token/ape-xmm.webp
 ---
 # [Ape](3-Mechanics\CLI\bestiary\beast/ape-xmm.md)
 *Source: Monster Manual (2024) p. 348, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Wand of Enemy Detection
+Status: WIP
 linter-yaml-title-alias: Wand of Enemy Detection
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam/Zauberstab
   - Quelle/5e/xdmg

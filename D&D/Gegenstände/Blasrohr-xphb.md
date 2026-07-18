@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Blowgun
+Status: WIP
 linter-yaml-title-alias: Blowgun
 tags:
   - Gegenstand/Seltenheit/keine

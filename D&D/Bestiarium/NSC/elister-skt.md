@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Elister
+Status: WIP
 linter-yaml-title-alias: Elister
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chamber Purpose; Dungeon: Treasure Vault"
+Status: WIP
 linter-yaml-title-alias: "Chamber Purpose; Dungeon: Treasure Vault"
 tags:
   - Quelle/5e/dmg
 aliases:
   - "Chamber Purpose; Dungeon: Treasure Vault"
-  - Chamber Purpose; Dungeon: Treasure Vault
 ---
 # Chamber Purpose; Dungeon: Treasure Vault
 *Source: Dungeon Master's Guide p. 292* 

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stalagma Steelshadow
+Status: WIP
 linter-yaml-title-alias: Stalagma Steelshadow
 tags:
   - Monster/Größe/Riesig

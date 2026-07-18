@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Victor Vallakovich
+Status: WIP
 linter-yaml-title-alias: Victor Vallakovich
 tags:
   - Monster/Größe/Mittelgroß

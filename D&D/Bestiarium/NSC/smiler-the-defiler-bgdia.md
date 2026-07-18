@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Smiler the Defiler
+Status: WIP
 linter-yaml-title-alias: Smiler the Defiler
 tags:
   - Monster/Größe/Mittelgroß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Scroll (Level 7)
+Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 7)
 tags:
   - Gegenstand/Seltenheit/sehr_selten

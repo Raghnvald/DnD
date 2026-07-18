@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Flask of Wine
+Status: WIP
 linter-yaml-title-alias: Flask of Wine
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Awa
+Status: WIP
 linter-yaml-title-alias: Awa
 tags:
   - Monster/Größe/Mittelgroß

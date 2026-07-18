@@ -1,12 +1,12 @@
 ---
 Bezeichnung: "Quaal's Feather Token"
+Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token"
 tags:
   - Gegenstand/Seltenheit/variiert
   - Quelle/5e/xdmg
 aliases:
   - "Quaal's Feather Token"
-  - Quaal's Feather Token
 ---
 # Quaal's Feather Token
 *Wondrous item*  

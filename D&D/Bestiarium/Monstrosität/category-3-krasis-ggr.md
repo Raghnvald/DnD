@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Category 3 Krasis
+Status: WIP
 linter-yaml-title-alias: Category 3 Krasis
 tags:
   - Monster/Größe/Riesig

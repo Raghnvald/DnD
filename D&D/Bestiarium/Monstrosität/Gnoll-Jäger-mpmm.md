@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Gnoll Hunter
+Status: WIP
 linter-yaml-title-alias: Gnoll Hunter
 tags:
   - Monster/Größe/Mittelgroß

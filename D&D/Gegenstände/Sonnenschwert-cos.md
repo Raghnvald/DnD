@@ -1,25 +1,33 @@
 ---
-Bezeichnung: Sunsword
-Kategorie: Nahkampf-Kriegswaffe
-linter-yaml-title-alias: Sunsword
+Bezeichnung: Sonnenschwert
+Original: Sunsword
+Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1W8 Gleißend
+Eigenschaften:
+  - Finesse
+  - Vielseitig (1W10)
+Kst.: n/v
+Gew.: 1,5 kg
+Status: WIP
+linter-yaml-title-alias: Sonnenschwert
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cos
 aliases:
-  - Sunsword
+  - Sonnenschwert
 ---
-# Sunsword
-*Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/sunsword.webp#right)
+# Sonnenschwert
+*Weapon ([longsword](Langschwert-phb)), legendary (requires attunement)*
+<img src="sunsword.webp" align="right" width="250">
 
-- **Damage**:
-  - One-handed: 1d8 radiant
-  - Two-handed: 1d10 radiant
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Gleißend
+  - Zweihändig: 1W10 Gleißend
+- **Eigenschaften**: [[Gegenstandseigenschaften-phb#Finesse|Finesse]],  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
 The Sunsword is a unique blade once possessed by Strahd's brother, Sergei von Zarovich. In its original form, it had a platinum hilt and guard, and a thin crystal blade as strong as steel.
 

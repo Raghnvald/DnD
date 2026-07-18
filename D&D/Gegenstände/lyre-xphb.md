@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Lyre
+Status: WIP
 linter-yaml-title-alias: Lyre
 tags:
   - Gegenstand/Ausrüstung/Instrument

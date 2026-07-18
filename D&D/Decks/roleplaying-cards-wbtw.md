@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Roleplaying Cards
+Status: WIP
 linter-yaml-title-alias: Roleplaying Cards
 tags:
   - Quelle/5e/wbtw
 aliases:
-  - "Roleplaying Cards"
+  - Roleplaying Cards
   - Roleplaying Cards
 ---
 # Roleplaying Cards

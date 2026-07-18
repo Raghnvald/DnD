@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Energy Bow
+Status: WIP
 linter-yaml-title-alias: Energy Bow
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Fernkampf

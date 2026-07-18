@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Ausbessern
+Original: Mending
 Zaubergrad: 0 (Zaubertrick)
 Zeitaufwand: 1 Minute
 Reichweite: Berührung
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
-Angriff: nichts
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: completed
 linter-yaml-title-alias: Ausbessern
 classes:
   - Bard (Magical Secrets)
@@ -27,7 +29,7 @@ tags:
   - Klasse/Magier
   - Klasse/Schurke/Arkaner-Betrüger
   - Klasse/Zauberer
-  - Kompendium/Talent/magic-initiate/wizard-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Magier-Zauber
   - Quelle/5e/phb
   - Subklasse/Mystischer-Ritter
   - Subrasse/elf-high
@@ -39,7 +41,7 @@ aliases:
   - Mending
 ---
 # Ausbessern
-_Zaubertrick der Verwandlung_
+*Zaubertrick der Verwandlung*
 
 - **Zeitaufwand:** 1 Minute
 - **Reichweite/Fläche:** Berührung
@@ -50,6 +52,6 @@ Dieser Zauber repariert eine Bruchstelle oder einen Riss in einem Gegenstand, de
 
 Dieser Zauber kann die physische Form eines magischen Gegenstands oder Konstrukts reparieren, jedoch nicht dessen Magie wiederherstellen.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-circle-of-the-land|Druide (Zirkel des Landes, Arktis)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-nature-domain|Kleriker (Domäne Natur)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 259. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

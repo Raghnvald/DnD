@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lonelywood Banshee
+Status: WIP
 linter-yaml-title-alias: Lonelywood Banshee
 tags:
   - Monster/Größe/Mittelgroß

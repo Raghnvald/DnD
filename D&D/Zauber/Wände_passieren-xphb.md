@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Passwall
+Status: WIP
 linter-yaml-title-alias: Passwall
 classes:
   - Artificer (Armorer)

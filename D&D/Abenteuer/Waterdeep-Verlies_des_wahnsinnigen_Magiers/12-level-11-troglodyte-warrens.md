@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Level 11: Troglodyte Warrens"
+Status: WIP
 linter-yaml-title-alias: "Level 11: Troglodyte Warrens"
 tags:
   - Quelle/5e/wdmm
 aliases:
   - "Level 11: Troglodyte Warrens"
-  - Level 11: Troglodyte Warrens
 ---
 # Level 11: Troglodyte Warrens
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 151* 

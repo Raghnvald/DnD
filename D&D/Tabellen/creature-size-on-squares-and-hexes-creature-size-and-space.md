@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Creature Size on Squares and Hexes; Creature Size and Space
+Status: WIP
 linter-yaml-title-alias: Creature Size on Squares and Hexes; Creature Size and Space
 tags:
   - Quelle/5e/dmg

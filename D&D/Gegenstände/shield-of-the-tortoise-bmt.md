@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Shield of the Tortoise
+Original: Shield of the Tortoise
 Rüstung: Schild
+Status: WIP
 linter-yaml-title-alias: Shield of the Tortoise
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Schild/
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/bmt

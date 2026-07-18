@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Phantasmal Killer
 Zaubergrad: 4
+Status: WIP
 linter-yaml-title-alias: Phantasmal Killer
 classes:
   - Bard (Magical Secrets)

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kadroth
+Status: WIP
 linter-yaml-title-alias: Kadroth
 tags:
   - Monster/Größe/Mittelgroß

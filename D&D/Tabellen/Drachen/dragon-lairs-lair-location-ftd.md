@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragon Lairs; Lair Location
+Status: WIP
 linter-yaml-title-alias: Dragon Lairs; Lair Location
 tags:
   - Quelle/5e/ftd

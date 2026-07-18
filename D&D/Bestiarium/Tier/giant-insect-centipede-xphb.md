@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Giant Insect (Centipede)
+Status: WIP
 linter-yaml-title-alias: Giant Insect (Centipede)
 tags:
   - Monster/Größe/Groß

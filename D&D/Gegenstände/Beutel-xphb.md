@@ -2,7 +2,7 @@
 Bezeichnung: Pouch
 Kst.: 5 SM
 Gew.: 0,5 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Pouch
 tags:
   - Gegenstand/Ausrüstung/
@@ -10,6 +10,7 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Pouch
+status: WIP
 ---
 # Pouch
 *Adventuring gear*  

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Enspelled Staff (Level 4)
+Status: WIP
 linter-yaml-title-alias: Enspelled Staff (Level 4)
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf

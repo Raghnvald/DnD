@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Zauberschmiede
+Status: WIP
 linter-yaml-title-alias: Zauberschmiede
 aliases:
   - Zauberschmiede

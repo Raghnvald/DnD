@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V
 Wirkungsdauer: bis zu 1 Minute
-Angriff: /
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Thaumaturgie
 classes:
   - Bard (Magical Secrets)
@@ -14,7 +15,7 @@ classes:
 tags:
   - Klasse/Barde/Magische-Geheimnisse
   - Klasse/Kleriker
-  - Kompendium/Talent/magic-initiate/cleric-spells
+  - Kompendium/Talent/Magie-Eingeweihter/Kleriker-Zauber
   - Quelle/5e/phb
   - Rasse/tiefling-base
   - Subrasse/tiefling

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Physical Variations; Yuan-ti Scale Color
+Status: WIP
 linter-yaml-title-alias: Physical Variations; Yuan-ti Scale Color
 tags:
   - Quelle/5e/vgm

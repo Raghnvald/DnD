@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Appendix B: Magic Items"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Magic Items"
 tags:
   - Quelle/5e/oota

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: "Daern's Instant Fortress"
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: "Daern's Instant Fortress"
 tags:
   - Gegenstand/Seltenheit/selten

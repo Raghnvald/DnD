@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Spells for Servo Crafting
+Status: WIP
 linter-yaml-title-alias: Spells for Servo Crafting
 tags:
-  - ttrpg-cli/spell/list/feat/servo-crafting
+  - Zauber/Liste/feat/servo-crafting
 aliases:
-  - "Spells for Servo Crafting"
+  - Spells for Servo Crafting
   - Spells for Servo Crafting
 ---
 # Spells for Servo Crafting

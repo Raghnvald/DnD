@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Diancastra's Saga"
+Status: WIP
 linter-yaml-title-alias: "Diancastra's Saga"
 tags:
   - Quelle/5e/bgg
 aliases:
   - "Diancastra's Saga"
-  - Diancastra's Saga
 ---
 # Diancastra's Saga
 *Source: Bigby Presents: Glory of the Giants, p. 4* 

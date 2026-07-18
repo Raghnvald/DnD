@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Lion
+Status: WIP
 linter-yaml-title-alias: Lion
 tags:
   - Monster/Größe/Groß

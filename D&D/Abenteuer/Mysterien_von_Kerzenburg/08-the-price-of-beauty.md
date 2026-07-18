@@ -1,5 +1,6 @@
 ---
 Bezeichnung: The Price of Beauty
+Status: WIP
 linter-yaml-title-alias: The Price of Beauty
 tags:
   - Quelle/5e/cm

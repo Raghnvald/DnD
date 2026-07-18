@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Way of the Drunken Master
+Status: WIP
 linter-yaml-title-alias: Way of the Drunken Master
 tags:
   - Klasse/Mönch/drunken-master

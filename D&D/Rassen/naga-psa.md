@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Naga
+Status: WIP
 linter-yaml-title-alias: Naga
 tags:
   - Quelle/5e/psa
   - Rasse/naga
 aliases:
-  - "Naga"
+  - Naga
   - Naga
 ---
 # Naga

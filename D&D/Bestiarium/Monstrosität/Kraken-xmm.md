@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kraken
+Status: WIP
 linter-yaml-title-alias: Kraken
 tags:
   - Monster/Größe/Gigantisch

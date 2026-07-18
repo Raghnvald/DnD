@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "<center>Teil 3: Das Netz der Spinne</center>"
+Status: WIP
 linter-yaml-title-alias: "<center>Teil 3: Das Netz der Spinne</center>"
 tags:
   - Quelle/5e/pabtso
 aliases:
   - "<center>Teil 3: Das Netz der Spinne</center>"
-  - Chapter 3: The Spider's Web
+  - "Chapter 3: The Spider's Web"
 ---
 # <center>Teil 3: Das Netz der Spinne</center>
 *Quelle: Die Tiefen von Phandelver: Der zersplitterte Obelisk, S. 47* 

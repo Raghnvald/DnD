@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bosco Daggerhand
+Status: WIP
 linter-yaml-title-alias: Bosco Daggerhand
 tags:
   - Monster/Größe/Mittelgroß

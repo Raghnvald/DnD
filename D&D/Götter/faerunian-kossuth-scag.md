@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Kossuth
+Status: WIP
 linter-yaml-title-alias: Kossuth
 tags:
-  - Kompendium/Götter/Domäne/light
-  - Kompendium/Götter/faerunian
+  - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:
   - Kossuth

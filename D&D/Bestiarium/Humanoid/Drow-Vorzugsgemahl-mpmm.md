@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drow Favored Consort
+Status: WIP
 linter-yaml-title-alias: Drow Favored Consort
 tags:
   - Monster/Größe/Mittelgroß

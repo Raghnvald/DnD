@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arms of Hadar
+Status: WIP
 linter-yaml-title-alias: Arms of Hadar
 classes:
   - Sorcerer (Aberrant Sorcery)

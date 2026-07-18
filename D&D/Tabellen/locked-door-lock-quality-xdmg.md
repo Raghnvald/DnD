@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Locked Door; Lock Quality
+Status: WIP
 linter-yaml-title-alias: Locked Door; Lock Quality
 tags:
   - Quelle/5e/xdmg

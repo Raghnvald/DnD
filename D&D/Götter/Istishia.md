@@ -1,5 +1,6 @@
 ---
 Bezeichnung: lstishia, Göttin des Wassers
+Status: WIP
 linter-yaml-title-alias: lstishia, Göttin des Wassers
 tags:
   - Kompendium/Götter

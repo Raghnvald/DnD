@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Animal Shapes
+Status: WIP
 linter-yaml-title-alias: Animal Shapes
 classes:
   - Bard

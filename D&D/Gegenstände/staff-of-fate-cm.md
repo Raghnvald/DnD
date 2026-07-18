@@ -1,19 +1,23 @@
 ---
 Bezeichnung: Staff of Fate
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung
   - Vielseitig (1W8)
-Kst.: /
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Staff of Fate
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/cm
 aliases:
   - Staff of Fate
+status: WIP
+Original: Staff of Fate
 ---
 # Staff of Fate
 *Staff, weapon (quarterstaff), very rare (requires attunement)*  

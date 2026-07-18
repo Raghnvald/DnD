@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wave of Rolling Earth
+Status: WIP
 linter-yaml-title-alias: Wave of Rolling Earth
 tags:
   - Kompendium/Optionales/ed

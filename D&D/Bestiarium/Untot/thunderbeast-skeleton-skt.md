@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Thunderbeast Skeleton
+Status: WIP
 linter-yaml-title-alias: Thunderbeast Skeleton
 tags:
   - Monster/Größe/Riesig

@@ -1,10 +1,13 @@
 ---
 Bezeichnung: Bösartige Waffe
-Kategorie: Beliebige Waffe
+Original: Vicious Weapon
+Kategorie: Waffe, beliebig
+Schaden: variiert
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
+  - n/v
+Kst.: n/v
+Gew.: variiert
+Status: WIP
 linter-yaml-title-alias: Bösartige Waffe
 tags:
   - Gegenstand/Seltenheit/selten
@@ -72,8 +75,8 @@ aliases:
   - Vicious Yklwa
 ---
 # Bösartige Waffe
-*Waffe (irgendeine), selten*  
-![](Gegenstände/img/vicious-weapon.webp#right)
+*Waffe (irgendeine), selten*
+<img src="vicious-weapon.webp" align="right" width="150">
 
 Wenn du bei deinem Angriff mit dieser magischen Waffe eine 20 würfelst, nimmt das Ziel zusätzlich 7 Schaden nach Schadensart der Waffe.
 

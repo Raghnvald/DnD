@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Ewiger Leim
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Ewiger Leim
 tags:
   - Gegenstand/Seltenheit/legendär

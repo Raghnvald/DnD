@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix B: Adventure Hooks; Adventure Hooks"
+Status: WIP
 linter-yaml-title-alias: "Appendix B: Adventure Hooks; Adventure Hooks"
 tags:
   - Quelle/5e/bgg
 aliases:
   - "Appendix B: Adventure Hooks; Adventure Hooks"
-  - Appendix B: Adventure Hooks; Adventure Hooks
 ---
 # Appendix B: Adventure Hooks; Adventure Hooks
 *Source: Bigby Presents: Glory of the Giants p. 192* 

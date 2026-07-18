@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: "Fel'rekt Lafeen"
+Status: WIP
 linter-yaml-title-alias: "Fel'rekt Lafeen"
 tags:
   - Monster/Größe/Mittelgroß
@@ -10,7 +11,6 @@ tags:
   - Quelle/5e/wdh
 aliases:
   - "Fel'rekt Lafeen"
-  - Fel'rekt Lafeen
 ---
 # [Fel'rekt Lafeen](3-Mechanics\CLI\bestiary\npc/felrekt-lafeen-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 67*  

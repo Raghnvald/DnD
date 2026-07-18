@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Golgari Shaman
+Status: WIP
 linter-yaml-title-alias: Golgari Shaman
 tags:
   - Monster/Größe/Mittelgroß

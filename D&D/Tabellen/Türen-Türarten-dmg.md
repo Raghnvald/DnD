@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Doors; Door Type
+Status: WIP
 linter-yaml-title-alias: Doors; Door Type
 tags:
   - Quelle/5e/dmg

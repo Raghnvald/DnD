@@ -7,8 +7,7 @@ Größe: Riesig
 HG: "12"
 Habitat:
   - /
-image: token/adranach-tdcsr.webp
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adranach
 tags:
   - Monster/Größe/Riesig
@@ -17,6 +16,8 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Adranach
+image: token/adranach-tdcsr.webp
+status: WIP
 ---
 # [Adranach](3-Mechanics\CLI\bestiary\construct/adranach-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 224*  

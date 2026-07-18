@@ -2,10 +2,10 @@
 Bezeichnung: Emblem
 Kategorie: Fokus, Heiliges Symbol
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 5 GM
 Gew.: 0,5 kg
-status: completed
+Status: completed
 linter-yaml-title-alias: Emblem
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

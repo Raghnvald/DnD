@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Uthgardt Totems
+Status: WIP
 linter-yaml-title-alias: Uthgardt Totems
 tags:
   - Quelle/5e/scag

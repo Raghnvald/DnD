@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Remallia Haventree
+Status: WIP
 linter-yaml-title-alias: Remallia Haventree
 tags:
   - Monster/Größe/Mittelgroß

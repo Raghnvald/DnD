@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Stangenwaffenmeister
-linter-yaml-title-alias: Polearm Master
+Status: WIP
+linter-yaml-title-alias: Stangenwaffenmeister
 tags:
   - Kompendium/Talent
   - Quelle/5e/phb
 aliases:
-  - Polearm Master
+  - Stangenwaffenmeister
 ---
 # Stangenwaffenmeister
 *Source: Player's Handbook p. 168*  

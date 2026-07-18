@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fear Effects; Sample Fear DCs
+Status: WIP
 linter-yaml-title-alias: Fear Effects; Sample Fear DCs
 tags:
   - Quelle/5e/xdmg

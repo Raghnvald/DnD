@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Pow Ming
+Status: WIP
 linter-yaml-title-alias: Pow Ming
 tags:
   - Monster/Größe/Mittelgroß

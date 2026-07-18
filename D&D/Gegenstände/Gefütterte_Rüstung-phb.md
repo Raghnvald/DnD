@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Gefütterte Rüstung
+Original: Padded Armor
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften:
-  - /
-Einstimmung:
+  - n/v
+Einstimmung: n/v
 Kst.: 5 GM
 Gew.: 4,0 kg
 RK: 11 + GES
-STR: /
+STR: n/v
 Heiml.: Nachteil
+Status: completed
 linter-yaml-title-alias: Gefütterte Rüstung
 tags:
   - Gegenstand/Rüstung/Leicht
@@ -23,9 +25,9 @@ aliases:
 *Leichte Rüstung* 
 
 - **Rüstungsklasse**: 11 + GES Modifikator
-- **Heimlichkeit**: Der Träger ist bei Würfen auf Heimlichkeit (GES) im Nachteil.
+- **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit ([[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]) im Nachteil.
 - **Kosten**: 5 GM
-- **Gewicht**: 4,0 kg. 
+- **Gewicht**: 4,0 kg
 
 Gefütterte beziehungsweise wattierte Rüstungen bestehen aus verwobenen Schichten von Stoff und Futtermaterial.
 

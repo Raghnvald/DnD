@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Dimir Charm
+Status: WIP
 linter-yaml-title-alias: Dimir Charm
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/ggr
 aliases:
   - Dimir Charm

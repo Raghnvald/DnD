@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 6: The Final Enemy"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: The Final Enemy"
 tags:
   - Quelle/5e/gos
 aliases:
   - "Chapter 6: The Final Enemy"
-  - Chapter 6: The Final Enemy
 ---
 # Chapter 6: The Final Enemy
 *Source: Ghosts of Saltmarsh, p. 111* 

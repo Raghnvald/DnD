@@ -2,13 +2,14 @@
 Bezeichnung: Ring der Unsichtbarkeit
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
+  - n/v
+Einstimmung: erforderlich
 Kst.: /
 Gew.: /
-status: completed
+Status: completed
 linter-yaml-title-alias: Ring der Unsichtbarkeit
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg

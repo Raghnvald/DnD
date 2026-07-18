@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 1: Character Creation"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Character Creation"
 tags:
   - Quelle/5e/erlw
 aliases:
   - "Chapter 1: Character Creation"
-  - Chapter 1: Character Creation
 ---
 # Chapter 1: Character Creation
 *Source: Eberron: Rising from the Last War, p. 17* 

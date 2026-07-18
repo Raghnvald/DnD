@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Dragonmark Outpost
+Status: WIP
 linter-yaml-title-alias: Dragonmark Outpost
 tags:
   - Kompendium/Bastion
   - Quelle/5e/efa
 aliases:
-  - "Dragonmark Outpost"
+  - Dragonmark Outpost
   - Dragonmark Outpost
 ---
 # Dragonmark Outpost

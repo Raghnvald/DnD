@@ -5,7 +5,7 @@ Bezeichnung: Neothelid
 Kategorie: Aberration
 Größe: Gigantisch
 HG: 13
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Neothelid
 tags:
   - Monster/Größe/Gigantisch
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Neothelid
+status: WIP
 ---
 # [Neothelid](3-Mechanics\CLI\bestiary\aberration/neothelid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193*  

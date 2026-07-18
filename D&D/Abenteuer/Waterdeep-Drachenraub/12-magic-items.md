@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magic Items
+Status: WIP
 linter-yaml-title-alias: Magic Items
 tags:
   - Quelle/5e/wdh

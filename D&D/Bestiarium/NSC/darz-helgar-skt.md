@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Darz Helgar
+Status: WIP
 linter-yaml-title-alias: Darz Helgar
 tags:
   - Monster/Größe/Mittelgroß

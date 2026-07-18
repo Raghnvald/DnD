@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Hunting Trap
+Status: WIP
 linter-yaml-title-alias: Hunting Trap
 tags:
   - Gegenstand/Ausrüstung/

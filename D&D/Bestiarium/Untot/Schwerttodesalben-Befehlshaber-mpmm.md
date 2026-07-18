@@ -5,6 +5,7 @@ Bezeichnung: Sword Wraith Commander
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 8
+Status: WIP
 linter-yaml-title-alias: Sword Wraith Commander
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Winged Kraul Warrior
+Status: WIP
 linter-yaml-title-alias: Winged Kraul Warrior
 tags:
   - Monster/Größe/Mittelgroß

@@ -2,13 +2,13 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Vecna der Erzlich
+Original: Vecna the Archlich
 Kategorie: Untoter
 Größe: Mittelgroß
 HG: 26
 Habitat:
   - /
-image: token/vecna-the-archlich-veor.webp
-status: completed
+Status: completed
 linter-yaml-title-alias: Vecna der Erzlich
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Vecna der Erzlich
+image: token/vecna-the-archlich-veor.webp
 ---
 # Vecna der Erzlich
 *Quelle: Vecna: Vorabend der Verdammnis S. 254*  

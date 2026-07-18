@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Sacred Statue
+Status: WIP
 linter-yaml-title-alias: Sacred Statue
 tags:
   - Monster/Größe/Groß

@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Charm of Hellish Rebuke
+Status: WIP
 linter-yaml-title-alias: Charm of Hellish Rebuke
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/bgdia
 aliases:
   - Charm of Hellish Rebuke

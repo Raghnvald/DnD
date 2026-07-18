@@ -5,7 +5,7 @@ Bezeichnung: Flumph
 Kategorie: Aberration
 Größe: Klein
 HG: 1/8
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Flumph
 tags:
   - Monster/Größe/Klein
@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Flumph
+status: WIP
 ---
 # [Flumph](3-Mechanics\CLI\bestiary\aberration/flumph.md)
 *Source: Monster Manual p. 135*  

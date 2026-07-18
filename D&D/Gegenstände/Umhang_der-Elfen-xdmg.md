@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Cloak of Elvenkind
+Status: WIP
 linter-yaml-title-alias: Cloak of Elvenkind
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

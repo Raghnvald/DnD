@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Starting Area
+Status: WIP
 linter-yaml-title-alias: Starting Area
 tags:
   - Quelle/5e/dmg

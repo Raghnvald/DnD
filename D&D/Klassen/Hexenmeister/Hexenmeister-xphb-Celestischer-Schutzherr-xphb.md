@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Celestial Patron
+Status: WIP
 linter-yaml-title-alias: Celestial Patron
 tags:
   - Klasse/Hexenmeister/celestial

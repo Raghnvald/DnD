@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Massen-Heilendes Wort
+Status: WIP
 linter-yaml-title-alias: Massen-Heilendes Wort
 tags:
   - Klasse/Kleriker

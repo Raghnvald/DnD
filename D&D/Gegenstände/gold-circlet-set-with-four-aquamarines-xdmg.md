@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gold circlet set with four aquamarines
+Status: WIP
 linter-yaml-title-alias: Gold circlet set with four aquamarines
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

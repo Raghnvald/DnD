@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kavil
+Status: WIP
 linter-yaml-title-alias: Kavil
 tags:
   - Monster/Größe/Mittelgroß

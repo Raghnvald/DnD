@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Word of Recall
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Word of Recall
 classes:
   - Bard (Magical Secrets)

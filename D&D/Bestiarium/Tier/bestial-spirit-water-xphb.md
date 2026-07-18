@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Bestial Spirit (Water)
+Status: WIP
 linter-yaml-title-alias: Bestial Spirit (Water)
 tags:
   - Monster/Größe/Klein

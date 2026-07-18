@@ -1,14 +1,16 @@
 ---
 Bezeichnung: Rüstung des Wassermanns
+Original: Mariner's Armor
 Kategorie: Rüstung
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften:
   - /
-Kst.: /
+Kst.: n/v
 Gew.: /
-RK: /
-STR: /
-Heiml.: /
+RK: variiert
+STR: variiert
+Heiml.: variiert
+Status: WIP
 linter-yaml-title-alias: Rüstung des Wassermanns
 tags:
   - Gegenstand/Rüstung/Leicht
@@ -32,6 +34,7 @@ aliases:
   - Mariner's Splint Armor
   - Mariner's Studded Leather Armor
   - Rüstung des Wassermanns
+status: WIP
 ---
 # Rüstung des Wassermanns
 *Rüstung (leicht, mittelschwer oder schwer), ungewöhnlich*  

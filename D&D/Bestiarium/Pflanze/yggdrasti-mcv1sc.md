@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Yggdrasti
+Status: WIP
 linter-yaml-title-alias: Yggdrasti
 tags:
   - Monster/Größe/Gigantisch

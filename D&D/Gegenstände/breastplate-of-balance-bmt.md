@@ -1,9 +1,11 @@
 ---
 Bezeichnung: Breastplate of Balance
+Original: Breastplate of Balance
 Rüstung: Mittel
+Status: WIP
 linter-yaml-title-alias: Breastplate of Balance
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Mittel
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/bmt

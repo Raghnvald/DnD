@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Current Chamber State
+Status: WIP
 linter-yaml-title-alias: Current Chamber State
 tags:
   - Quelle/5e/dmg

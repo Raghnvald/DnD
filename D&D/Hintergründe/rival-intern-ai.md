@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Rival Intern
+Status: WIP
 linter-yaml-title-alias: Rival Intern
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/ai
 aliases:
-  - "Rival Intern"
+  - Rival Intern
   - Rival Intern
 ---
 # Rival Intern

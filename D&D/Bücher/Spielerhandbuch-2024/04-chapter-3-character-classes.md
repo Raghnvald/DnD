@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Character Classes"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Character Classes"
 tags:
   - Quelle/5e/xphb
 aliases:
   - "Chapter 3: Character Classes"
-  - Chapter 3: Character Classes
 ---
 # Chapter 3: Character Classes
 *Source: Player's Handbook (2024), p. 49* 

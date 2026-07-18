@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Magierrüstung
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Magierrüstung
 tags:
   - Klasse/Magier
@@ -11,6 +11,7 @@ tags:
 aliases:
   - Mage Armor
   - Magierrüstung
+status: WIP
 ---
 # Magierrüstung
 ![](../../../99%20-%20Setup/Files/Bildersammlung/Symbolik/Bannzauber.webp#token)

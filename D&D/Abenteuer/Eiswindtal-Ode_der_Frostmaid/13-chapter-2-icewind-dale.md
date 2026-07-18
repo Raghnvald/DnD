@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 2: Icewind Dale"
+Status: WIP
 linter-yaml-title-alias: "Chapter 2: Icewind Dale"
 tags:
   - Quelle/5e/idrotf
 aliases:
   - "Chapter 2: Icewind Dale"
-  - Chapter 2: Icewind Dale
 ---
 # Chapter 2: Icewind Dale
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 101* 

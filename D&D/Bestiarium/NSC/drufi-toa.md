@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drufi
+Status: WIP
 linter-yaml-title-alias: Drufi
 tags:
   - Monster/Größe/Riesig

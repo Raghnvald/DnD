@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 3: Giant Adventures"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Giant Adventures"
 tags:
   - Quelle/5e/bgg
 aliases:
   - "Chapter 3: Giant Adventures"
-  - Chapter 3: Giant Adventures
 ---
 # Chapter 3: Giant Adventures
 *Source: Bigby Presents: Glory of the Giants, p. 43* 

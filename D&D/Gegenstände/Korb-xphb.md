@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Basket
+Status: WIP
 linter-yaml-title-alias: Basket
 tags:
   - Gegenstand/Ausrüstung/

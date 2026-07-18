@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Otto's Irresistible Dance"
+Status: WIP
 linter-yaml-title-alias: "Otto's Irresistible Dance"
 classes:
   - Bard

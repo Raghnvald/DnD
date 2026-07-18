@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Zeus
+Status: WIP
 linter-yaml-title-alias: Zeus
 tags:
-  - Kompendium/Götter/Domäne/tempest
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

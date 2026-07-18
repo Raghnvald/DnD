@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Steel Crane
+Status: WIP
 linter-yaml-title-alias: Steel Crane
 tags:
   - Monster/Größe/Mittelgroß

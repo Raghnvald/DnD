@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Beory
+Status: WIP
 linter-yaml-title-alias: Beory
 tags:
-  - Kompendium/Götter/Domäne/nature
-  - Kompendium/Götter/greyhawk
+  - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:
   - Beory

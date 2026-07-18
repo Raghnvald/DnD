@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Spell Scroll (Level 2)
+Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 2)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

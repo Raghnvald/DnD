@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Summon Beast
+Bezeichnung: Tier beschwören
 Zaubergrad: 2
-linter-yaml-title-alias: Summon Beast
+Zeitaufwand: 1 Aktion
+Status: WIP
+linter-yaml-title-alias: Tier beschwören
 classes:
   - Bard
   - Bard (College of Lore)
@@ -18,9 +20,9 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Beschwörung
 aliases:
-  - Summon Beast
+  - Tier beschwören
 ---
-# Summon Beast
+# Tier beschwören
 *2nd-level, Conjuration*  
 
 - **Casting time:** 1 Action

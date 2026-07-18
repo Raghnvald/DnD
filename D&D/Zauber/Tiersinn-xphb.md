@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Beast Sense
+Status: WIP
 linter-yaml-title-alias: Beast Sense
 classes:
   - Barbarian (Path of the Wild Heart)

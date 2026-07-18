@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Stone Giant Dreamwalker
+Status: WIP
 linter-yaml-title-alias: Stone Giant Dreamwalker
 tags:
   - Monster/Größe/Riesig

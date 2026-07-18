@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Trinket
+Status: WIP
 linter-yaml-title-alias: Trinket
 tags:
   - Monster/Größe/Groß

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Javelin of Lightning
+Status: WIP
 linter-yaml-title-alias: Javelin of Lightning
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

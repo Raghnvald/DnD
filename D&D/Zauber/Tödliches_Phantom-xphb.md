@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Phantasmal Killer
+Status: WIP
 linter-yaml-title-alias: Phantasmal Killer
 classes:
   - Bard

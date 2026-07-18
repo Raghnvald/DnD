@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Handheld mirror set in a painted wooden frame
+Status: WIP
 linter-yaml-title-alias: Handheld mirror set in a painted wooden frame
 tags:
-  - Gegenstand/Ausrüstung/treasure-art-object
+  - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/xdmg
 aliases:

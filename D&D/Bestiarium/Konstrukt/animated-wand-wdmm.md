@@ -4,10 +4,10 @@ statblock-link: "#^statblock"
 Bezeichnung: Animated Wand
 Kategorie: Konstrukt
 Größe: Winzig
-HG: /
+HG: n/v
 Habitat:
-  - /
-status: WIP
+  - n/v
+Status: WIP
 linter-yaml-title-alias: Animated Wand
 tags:
   - Monster/Größe/Winzig

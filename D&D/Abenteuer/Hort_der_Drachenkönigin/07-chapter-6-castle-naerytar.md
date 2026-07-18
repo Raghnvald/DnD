@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 6: Castle Naerytar"
+Status: WIP
 linter-yaml-title-alias: "Chapter 6: Castle Naerytar"
 tags:
   - Quelle/5e/hotdq

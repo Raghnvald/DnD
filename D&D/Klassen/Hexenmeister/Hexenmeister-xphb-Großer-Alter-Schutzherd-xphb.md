@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Great Old One Patron
+Status: WIP
 linter-yaml-title-alias: Great Old One Patron
 tags:
   - Klasse/Hexenmeister/great-old-one

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arms of the Betrayers Destruction
+Status: WIP
 linter-yaml-title-alias: Arms of the Betrayers Destruction
 tags:
   - Quelle/5e/egw

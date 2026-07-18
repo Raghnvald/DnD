@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Mass Healing Word
 Zaubergrad: 3
+Status: WIP
 linter-yaml-title-alias: Mass Healing Word
 classes:
   - Bard (Magical Secrets)

@@ -7,6 +7,7 @@ HG: 1
 Habitat:
   - /
 Image: token/zeond-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Zeond
 tags:
   - Monster/Größe/Winzig

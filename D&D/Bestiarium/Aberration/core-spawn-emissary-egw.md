@@ -5,7 +5,7 @@ Bezeichnung: Core Spawn Emissary
 Kategorie: Aberration
 Größe: Mittelgroß
 HG: 6
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Core Spawn Emissary
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Core Spawn Emissary
+status: WIP
 ---
 # [Core Spawn Emissary](3-Mechanics\CLI\bestiary\aberration/core-spawn-emissary-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  

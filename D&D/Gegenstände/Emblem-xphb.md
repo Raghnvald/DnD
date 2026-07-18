@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Emblem
+Status: WIP
 linter-yaml-title-alias: Emblem
 tags:
   - Gegenstand/Ausrüstung/Zauberfokus

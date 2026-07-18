@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Solamnia
+Status: WIP
 linter-yaml-title-alias: Solamnia
 tags:
   - Quelle/5e/hffotm
 aliases:
-  - "Solamnia"
+  - Solamnia
   - Solamnia
 ---
 # Solamnia

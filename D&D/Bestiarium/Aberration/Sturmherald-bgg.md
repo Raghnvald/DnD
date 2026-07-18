@@ -5,7 +5,7 @@ Bezeichnung: Storm Herald
 Kategorie: Aberration
 Größe: Riesig
 HG: 17
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Storm Herald
 tags:
   - Monster/Größe/Riesig
@@ -14,6 +14,7 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Storm Herald
+status: WIP
 ---
 # [Storm Herald](3-Mechanics\CLI\bestiary\aberration/storm-herald-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 183*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Cinnamon
+Status: WIP
 linter-yaml-title-alias: Cinnamon
 tags:
   - Gegenstand/Ausrüstung/Handelsgut

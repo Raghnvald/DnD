@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Adult Kruthik
 Kategorie: Monstrosität
 Größe: Mittelgroß
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Adult Kruthik
 tags:
   - Monster/Größe/Mittelgroß
@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Adult Kruthik
+status: WIP
 ---
 # [Adult Kruthik](3-Mechanics\CLI\bestiary\monstrosity/adult-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  

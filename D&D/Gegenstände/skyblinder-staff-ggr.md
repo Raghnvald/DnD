@@ -1,18 +1,21 @@
 ---
 Bezeichnung: Skyblinder Staff
+Kategorie: Zauberstecken
 Eigenschaften:
-  - erfordert Einstimmung
   - Vielseitig (1W8)
+Einstimmung: erforderlich
 Kst.: /
 Gew.: 2,0 kg
+Status: WIP
 linter-yaml-title-alias: Skyblinder Staff
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/ggr
 aliases:
   - Skyblinder Staff
+Original: Skyblinder Staff
 ---
 # Skyblinder Staff
 *Staff, weapon, uncommon (requires attunement)*  

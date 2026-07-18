@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Adept
+Status: WIP
 linter-yaml-title-alias: Elemental Adept
 tags:
   - Kompendium/Talent

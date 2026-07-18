@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Zariel
+Status: WIP
 linter-yaml-title-alias: Zariel
 tags:
   - Monster/Größe/Groß

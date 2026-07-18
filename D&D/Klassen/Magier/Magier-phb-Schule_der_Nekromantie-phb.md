@@ -1,5 +1,6 @@
 ---
 Bezeichnung: School of Necromancy
+Status: WIP
 linter-yaml-title-alias: School of Necromancy
 tags:
   - Klasse/Magier/necromancy

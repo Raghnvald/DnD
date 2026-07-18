@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Ancient Copper Dragon
+Status: WIP
 linter-yaml-title-alias: Ancient Copper Dragon
 tags:
   - Monster/Größe/Gigantisch

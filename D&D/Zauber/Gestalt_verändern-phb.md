@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Gestalt verändern
 Zaubergrad: 2
-Zeitaufwand:
+Zeitaufwand: 1 Aktion
 Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
 Schaden:
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Gestalt verändern
 classes:
   - Barde (Magische Geheimnisse)
@@ -30,6 +30,7 @@ tags:
 aliases:
   - Alter Self
   - Gestalt verändern
+status: WIP
 ---
 # Gestalt verändern
 *Verwandlung des 2. Grades*

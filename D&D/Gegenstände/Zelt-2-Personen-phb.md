@@ -2,10 +2,10 @@
 Bezeichnung: Zelt (2 Personen)
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 10,0 kg
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Zelt (2 Personen)
 tags:
   - Gegenstand/Ausrüstung/

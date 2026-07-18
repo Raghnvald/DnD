@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Living Iron Statue
+Status: WIP
 linter-yaml-title-alias: Living Iron Statue
 tags:
   - Monster/Größe/Mittelgroß

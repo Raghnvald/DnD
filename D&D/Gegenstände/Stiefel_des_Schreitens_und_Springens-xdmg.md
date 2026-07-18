@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Boots of Striding and Springing
+Status: WIP
 linter-yaml-title-alias: Boots of Striding and Springing
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Quelle/5e/xdmg
 aliases:

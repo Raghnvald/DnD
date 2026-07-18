@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Feature Card Template
+Status: WIP
 ---
 # Feature Card Template
 

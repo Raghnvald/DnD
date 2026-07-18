@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shadow Dragon Treasures; Shadow Dragon Art Objects
+Status: WIP
 linter-yaml-title-alias: Shadow Dragon Treasures; Shadow Dragon Art Objects
 tags:
   - Quelle/5e/ftd

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Mirror Zone Effects
+Status: WIP
 linter-yaml-title-alias: Mirror Zone Effects
 tags:
   - Quelle/5e/tce

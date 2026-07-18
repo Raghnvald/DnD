@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Wall of Stone
+Status: WIP
 linter-yaml-title-alias: Wall of Stone
 classes:
   - Artificer

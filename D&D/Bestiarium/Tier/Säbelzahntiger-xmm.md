@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Saber-Toothed Tiger
+Status: WIP
 linter-yaml-title-alias: Saber-Toothed Tiger
 tags:
   - Monster/Größe/Groß

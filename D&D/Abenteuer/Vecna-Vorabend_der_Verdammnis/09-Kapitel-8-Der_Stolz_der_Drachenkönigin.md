@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Chapter 8: The Dragon Queen's Pride"
+Status: WIP
 linter-yaml-title-alias: "Chapter 8: The Dragon Queen's Pride"
 tags:
   - Quelle/5e/veor
 aliases:
   - "Chapter 8: The Dragon Queen's Pride"
-  - Chapter 8: The Dragon Queen's Pride
 ---
 # Chapter 8: The Dragon Queen's Pride
 *Source: Vecna: Eve of Ruin* 

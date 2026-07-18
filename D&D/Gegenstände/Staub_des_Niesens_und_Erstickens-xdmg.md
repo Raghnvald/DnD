@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dust of Sneezing and Choking
+Status: WIP
 linter-yaml-title-alias: Dust of Sneezing and Choking
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Selvetarm
+Status: WIP
 linter-yaml-title-alias: Selvetarm
 tags:
-  - Kompendium/Götter/Domäne/war
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/drow
   - Quelle/5e/scag
 aliases:
-  - "Selvetarm"
+  - Selvetarm
   - Selvetarm
 ---
 # Selvetarm

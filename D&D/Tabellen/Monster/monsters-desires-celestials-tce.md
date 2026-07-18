@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Monsters' Desires; Celestials"
+Status: WIP
 linter-yaml-title-alias: "Monsters' Desires; Celestials"
 tags:
   - Quelle/5e/tce
 aliases:
   - "Monsters' Desires; Celestials"
-  - Monsters' Desires; Celestials
 ---
 # Monsters' Desires; Celestials
 *Source: Tasha's Cauldron of Everything p. 148* 

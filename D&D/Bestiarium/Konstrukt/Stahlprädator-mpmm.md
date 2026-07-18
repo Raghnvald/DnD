@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Steel Predator
+Status: WIP
 linter-yaml-title-alias: Steel Predator
 tags:
   - Monster/Größe/Groß

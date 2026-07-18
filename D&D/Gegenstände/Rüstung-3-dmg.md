@@ -1,6 +1,7 @@
 ---
 Bezeichnung: +3 Armor
 Rüstung: Leicht, Mittel oder Schwer
+Status: WIP
 linter-yaml-title-alias: +3 Armor
 tags:
   - Gegenstand/Rüstung/Leicht

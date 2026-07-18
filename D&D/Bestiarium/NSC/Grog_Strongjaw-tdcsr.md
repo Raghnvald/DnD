@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Grog Strongjaw
+Status: WIP
 linter-yaml-title-alias: Grog Strongjaw
 tags:
   - Monster/Größe/Mittelgroß

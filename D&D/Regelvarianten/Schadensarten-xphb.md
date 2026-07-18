@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Damage Types
+Status: WIP
 linter-yaml-title-alias: Damage Types
 tags:
   - Quelle/5e/xphb

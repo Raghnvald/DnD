@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Kobold Tinkerer
+Status: WIP
 linter-yaml-title-alias: Kobold Tinkerer
 tags:
   - Monster/Größe/Klein

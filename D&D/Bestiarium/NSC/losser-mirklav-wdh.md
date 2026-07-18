@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Losser Mirklav
+Status: WIP
 linter-yaml-title-alias: Losser Mirklav
 tags:
   - Monster/Größe/Klein

@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Raegrin Mau
+Status: WIP
 linter-yaml-title-alias: Raegrin Mau
 tags:
   - Monster/Größe/Mittelgroß

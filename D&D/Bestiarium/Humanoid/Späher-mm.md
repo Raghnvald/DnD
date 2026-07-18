@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Scout
+Status: WIP
 linter-yaml-title-alias: Scout
 tags:
   - Monster/Größe/Mittelgroß

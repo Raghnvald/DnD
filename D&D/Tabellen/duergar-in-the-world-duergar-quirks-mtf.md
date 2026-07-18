@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Duergar in the World; Duergar Quirks
+Status: WIP
 linter-yaml-title-alias: Duergar in the World; Duergar Quirks
 tags:
   - Quelle/5e/mtf

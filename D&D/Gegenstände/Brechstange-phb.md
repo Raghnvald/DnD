@@ -2,10 +2,10 @@
 Bezeichnung: Brechstange
 Kategorie: Abenteuerausrüstung
 Eigenschaften:
-  - /
+  - n/v
 Kst.: 2 GM
 Gew.: 2,5 kg
-status: WIP
+Status: completed
 linter-yaml-title-alias: Brechstange
 tags:
   - Gegenstand/Ausrüstung/
@@ -17,9 +17,9 @@ aliases:
 # Brechstange
 *Abenteuerausrüstung*  
 
-- **Kosten**: 2 gp
-- **Gewicht**: 5.0 lbs.
+- **Kosten**: 2 GM
+- **Gewicht**: 2,5 kg
 
 Wenn du eine Brechstange verwendest, bist du bei Stärkewürfen im Vorteil, bei denen sich die Hebelwirkung der Brechstange anwenden lässt.
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Dragonchess Set
+Status: WIP
 linter-yaml-title-alias: Dragonchess Set
 tags:
   - Gegenstand/Ausrüstung/Spielset

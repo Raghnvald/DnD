@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Battle Master
+Status: WIP
 linter-yaml-title-alias: Battle Master
 tags:
   - Klasse/Kämpfer/battle-master

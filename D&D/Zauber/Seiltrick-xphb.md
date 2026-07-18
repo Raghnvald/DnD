@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Rope Trick
+Status: WIP
 linter-yaml-title-alias: Rope Trick
 classes:
   - Artificer

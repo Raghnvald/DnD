@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Guild Quests
+Status: WIP
 linter-yaml-title-alias: Guild Quests
 tags:
   - Quelle/5e/tce

@@ -16,8 +16,7 @@ Habitat:
   - Unterreich
   - Wald
   - Wüste
-image: token/stirge.webp
-status: completed
+Status: WIP
 linter-yaml-title-alias: Blutmücke
 tags:
   - Monster/Größe/Winzig
@@ -36,6 +35,8 @@ tags:
 aliases:
   - Blutmücke
   - Stirge
+image: token/stirge.webp
+status: completed
 ---
 # Blutmücke
 *Quelle: Monsterhandbuch S. 284. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*  

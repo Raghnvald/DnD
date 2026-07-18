@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Drowned Ascetic
+Status: WIP
 linter-yaml-title-alias: Drowned Ascetic
 tags:
   - Monster/Größe/Mittelgroß

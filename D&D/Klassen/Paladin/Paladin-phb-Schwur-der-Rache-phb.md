@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Oath of Vengeance
+Status: WIP
 linter-yaml-title-alias: Oath of Vengeance
 tags:
   - Klasse/Paladin/vengeance

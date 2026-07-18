@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: "3"
 Habitat:
   - /
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Anchorite of Talos
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,6 +17,7 @@ tags:
   - Quelle/5e/dip
 aliases:
   - Anchorite of Talos
+status: WIP
 ---
 # [Anchorite of Talos](3-Mechanics\CLI\bestiary\humanoid/anchorite-of-talos-dip.md)
 *Source: Dragon of Icespire Peak p. 51*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Gnome Gods; Gnome Deities
+Status: WIP
 linter-yaml-title-alias: Gnome Gods; Gnome Deities
 tags:
   - Quelle/5e/mtf

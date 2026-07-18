@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Bane
+Status: WIP
 linter-yaml-title-alias: Bane
 tags:
-  - Kompendium/Götter/Domäne/forge
-  - Kompendium/Götter/Domäne/order
-  - Kompendium/Götter/Domäne/war
-  - Kompendium/Götter/exandria
+  - Kompendium/Götter/Domäne/Schmiede
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:
   - Bane

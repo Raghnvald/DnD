@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Globe of Invulnerability
 Zaubergrad: 6
+Status: WIP
 linter-yaml-title-alias: Globe of Invulnerability
 classes:
   - Bard (Magical Secrets)

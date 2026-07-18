@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Impressum
-status: completed
+Status: WIP
 linter-yaml-title-alias: Impressum
 tags:
   - Quelle/5e/veor
 aliases:
   - Credits
   - Impressum
+status: completed
 ---
 # Impressum
 *Quelle: Vecna: Vorabend der Verdammnis* 

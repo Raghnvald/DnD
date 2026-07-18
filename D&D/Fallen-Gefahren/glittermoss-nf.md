@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Glittermoss
+Status: WIP
 linter-yaml-title-alias: Glittermoss
 tags:
   - Quelle/5e/nf
 aliases:
-  - "Glittermoss"
+  - Glittermoss
   - Glittermoss
 ---
 # Glittermoss

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magische Gegenstände Tabelle H
+Status: WIP
 linter-yaml-title-alias: Magische Gegenstände Tabelle H
 tags:
   - Quelle/5e/dmg

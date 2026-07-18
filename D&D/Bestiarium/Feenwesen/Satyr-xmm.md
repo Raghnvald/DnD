@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Satyr
+Status: WIP
 linter-yaml-title-alias: Satyr
 tags:
   - Monster/Größe/Mittelgroß

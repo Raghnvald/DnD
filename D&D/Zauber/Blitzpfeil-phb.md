@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Lightning Arrow
+Bezeichnung: Blitzpfeil
 Zaubergrad: 3
-linter-yaml-title-alias: Lightning Arrow
+Zeitaufwand: 1 Bonusaktion
+Status: WIP
+linter-yaml-title-alias: Blitzpfeil
 classes:
   - Bard (Magical Secrets)
   - Ranger
@@ -12,9 +14,9 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
 aliases:
-  - Lightning Arrow
+  - Blitzpfeil
 ---
-# Lightning Arrow
+# Blitzpfeil
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 Bonus Action

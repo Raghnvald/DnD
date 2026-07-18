@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Bell Branch
+Status: WIP
 linter-yaml-title-alias: Bell Branch
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Quelle/5e/tce
 aliases:

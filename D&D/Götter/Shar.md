@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Shar, Göttin der Dunkelheit und des Verlustes
+Status: WIP
 linter-yaml-title-alias: Shar, Göttin der Dunkelheit und des Verlustes
 tags:
   - Kompendium/Götter

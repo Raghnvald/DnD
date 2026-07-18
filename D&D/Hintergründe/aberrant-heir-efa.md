@@ -1,11 +1,12 @@
 ---
 Bezeichnung: Aberrant Heir
+Status: WIP
 linter-yaml-title-alias: Aberrant Heir
 tags:
   - Kompendium/Hintergrund
   - Quelle/5e/efa
 aliases:
-  - "Aberrant Heir"
+  - Aberrant Heir
   - Aberrant Heir
 ---
 # Aberrant Heir

@@ -1,11 +1,12 @@
 ---
 Bezeichnung: "3: Lyrical Names"
+Status: WIP
 linter-yaml-title-alias: "3: Lyrical Names"
 tags:
   - Quelle/5e/xdmg
 aliases:
+  - '"3": Lyrical Names'
   - "3: Lyrical Names"
-  - "3": Lyrical Names
 ---
 # 3: Lyrical Names
 *Source: Dungeon Master's Guide (2024) p. 84* 

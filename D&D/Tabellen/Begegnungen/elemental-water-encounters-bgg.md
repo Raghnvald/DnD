@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Elemental Water Encounters
+Status: WIP
 linter-yaml-title-alias: Elemental Water Encounters
 tags:
   - Quelle/5e/bgg

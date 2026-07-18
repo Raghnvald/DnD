@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Copper Stormforge
+Status: WIP
 linter-yaml-title-alias: Copper Stormforge
 tags:
   - Monster/Größe/Mittelgroß

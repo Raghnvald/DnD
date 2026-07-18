@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 3: Secret of the Sumber Hills"
+Status: WIP
 linter-yaml-title-alias: "Chapter 3: Secret of the Sumber Hills"
 tags:
   - Quelle/5e/pota

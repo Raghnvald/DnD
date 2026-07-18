@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Pakt der Klinge
+Status: WIP
 tags:
   - Klasse/Hexenmeister
   - Kompendium/Optionales/Pakt

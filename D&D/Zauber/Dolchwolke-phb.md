@@ -7,6 +7,7 @@ Komponenten: V, G, M
 Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: Fern
 Schaden: 4d4 Hieb
+Status: WIP
 linter-yaml-title-alias: Dolchwolke
 classes:
   - Bard (Magical Secrets)

@@ -5,15 +5,16 @@ Bezeichnung: Death Embrace
 Kategorie: Aberration
 Größe: Riesig
 HG: 11
-status: WIP
+Status: WIP
 linter-yaml-title-alias: Death Embrace
 tags:
   - Quelle/5e/crcotn
-  - ttrpg-cli/monster/cr/11
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/aberration
+  - Monster/HG/11
+  - Monster/Größe/Riesig
+  - Monster/Typ/Aberration
 aliases:
   - Death Embrace
+status: WIP
 ---
 # [Death Embrace](3-Mechanics/CLI/bestiary/aberration/death-embrace-crcotn.md)
 *Source: Critical Role: Call of the Netherdeep p. 197*  

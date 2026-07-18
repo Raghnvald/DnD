@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Manshoon Simulacrum
+Status: WIP
 linter-yaml-title-alias: Manshoon Simulacrum
 tags:
   - Monster/Größe/Mittelgroß

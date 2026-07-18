@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Spellwrought Tattoo (4th Level)
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Spellwrought Tattoo (4th Level)
 tags:
   - Gegenstand/Seltenheit/selten

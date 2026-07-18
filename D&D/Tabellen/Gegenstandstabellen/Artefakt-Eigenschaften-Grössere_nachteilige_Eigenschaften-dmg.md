@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Artefakt-Eigenschaften; Grössere nachteilige Eigenschaften
+Status: WIP
 linter-yaml-title-alias: Artefakt-Eigenschaften; Grössere nachteilige Eigenschaften
 tags:
   - Quelle/5e/dmg

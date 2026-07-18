@@ -1,18 +1,20 @@
 ---
 Bezeichnung: Hide of the Feral Guardian
+Original: Hide of the Feral Guardian
 Kategorie: Rüstung
 Rüstung: Leicht
 Eigenschaften:
-  - erfordert Einstimmung
-Einstimmung:
-Kst.: /
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
 Gew.: 6,5 kg
 RK: 12 + GES
-STR: /
-Heiml.: /
+STR: n/v
+Heiml.: n/v
+Status: WIP
 linter-yaml-title-alias: Hide of the Feral Guardian
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/legendär
   - Quelle/5e/egw

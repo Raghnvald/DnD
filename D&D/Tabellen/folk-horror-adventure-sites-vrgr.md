@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Folk Horror Adventure Sites
+Status: WIP
 linter-yaml-title-alias: Folk Horror Adventure Sites
 tags:
   - Quelle/5e/vrgr

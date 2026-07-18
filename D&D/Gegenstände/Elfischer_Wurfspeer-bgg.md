@@ -1,21 +1,24 @@
 ---
 Bezeichnung: Elven Thrower
-Kategorie: Einfache Nahkampfwaffe
+Original: Elven Thrower
+Kategorie: Nahkampfwaffe, einfach
 Eigenschaften:
-  - erfordert Einstimmung durch einen Elfen
   - Vielseitig (1W8)
   - Wurfwaffe
-Kst.: /
+Kst.: n/v
 Gew.: 1,5 kg
+Einstimmung: durch einen Elfen
+Status: WIP
 linter-yaml-title-alias: Elven Thrower
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/bgg
 aliases:
   - Elven Thrower
+status: WIP
 ---
 # Elven Thrower
 *Weapon (spear), very rare (requires attunement by a elf)*  

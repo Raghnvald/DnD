@@ -1,11 +1,11 @@
 ---
 Bezeichnung: "Appendix A: Linked Adventures"
+Status: WIP
 linter-yaml-title-alias: "Appendix A: Linked Adventures"
 tags:
   - Quelle/5e/skt
 aliases:
   - "Appendix A: Linked Adventures"
-  - Appendix A: Linked Adventures
 ---
 # Appendix A: Linked Adventures
 *Source: Storm King's Thunder, p. 231* 

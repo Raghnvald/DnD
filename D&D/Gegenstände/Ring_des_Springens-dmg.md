@@ -2,11 +2,14 @@
 Bezeichnung: Ring des Springens
 Kategorie: Ring
 Eigenschaften:
-  - erfordert Einstimmung
-status: completed
+  - n/v
+Einstimmung: erforderlich
+Kst.: n/v
+Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Ring des Springens
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/ungewöhnlich
   - Gegenstand/wundersam/Ring
   - Quelle/5e/dmg
@@ -14,7 +17,7 @@ aliases:
   - Ring des Springens
 ---
 # Ring des Springens
-*Ring, ungewöhnlich (benötigt Einstimmung)*
+*Ring, ungewöhnlich (erfordert Einstimmung)*
 
 Während du diesen Ring trägst, kannst du damit den Zauber [[Springen-phb|Springen]] als Bonusaktion nach Belieben wirken. Du kannst allerdings nur dich selbst als Ziel wählen.
 

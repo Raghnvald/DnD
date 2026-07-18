@@ -1,5 +1,6 @@
 ---
 Bezeichnung: "Chapter 1: Dragon's Rest"
+Status: WIP
 linter-yaml-title-alias: "Chapter 1: Dragon's Rest"
 tags:
   - Quelle/5e/dosi

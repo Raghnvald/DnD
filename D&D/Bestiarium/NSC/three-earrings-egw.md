@@ -2,6 +2,7 @@
 statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Three Earrings
+Status: WIP
 linter-yaml-title-alias: Three Earrings
 tags:
   - Monster/Größe/Mittelgroß

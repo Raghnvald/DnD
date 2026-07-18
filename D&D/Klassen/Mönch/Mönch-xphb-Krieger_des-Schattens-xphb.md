@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Warrior of Shadow
+Status: WIP
 linter-yaml-title-alias: Warrior of Shadow
 tags:
   - Klasse/Mönch/shadow

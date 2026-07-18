@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Hat of Many Spells
+Status: WIP
 linter-yaml-title-alias: Hat of Many Spells
 tags:
-  - Gegenstand/Einstimmung/required
+  - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Quelle/5e/xdmg
 aliases:

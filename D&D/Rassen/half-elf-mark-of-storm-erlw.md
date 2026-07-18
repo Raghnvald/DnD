@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Half-Elf (Mark of Storm)
+Status: WIP
 linter-yaml-title-alias: Half-Elf (Mark of Storm)
 tags:
   - Quelle/5e/erlw

@@ -5,8 +5,9 @@ Zeitaufwand: 1 Aktion
 Reichweite: 30 Meter
 Komponenten: V, G, M
 Wirkungsdauer: 1 Stunde
-Angriff: n/a
-Schaden: /
+Angriff: n/v
+Schaden: n/v
+Status: WIP
 linter-yaml-title-alias: Energiekäfig
 classes:
   - Bard (Magical Secrets)

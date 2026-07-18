@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Human Names – Egyptian, Female
+Status: WIP
 linter-yaml-title-alias: Human Names – Egyptian, Female
 tags:
   - Quelle/5e/xge

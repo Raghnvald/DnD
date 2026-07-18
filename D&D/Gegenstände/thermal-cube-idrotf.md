@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Thermal Cube
 Kategorie: Wundersamer Gegenstand 
+Status: WIP
 linter-yaml-title-alias: Thermal Cube
 tags:
   - Gegenstand/Seltenheit/gewöhnlich

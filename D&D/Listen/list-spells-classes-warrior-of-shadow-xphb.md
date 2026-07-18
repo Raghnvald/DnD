@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Spells for Warrior of Shadow
+Status: WIP
 linter-yaml-title-alias: Spells for Warrior of Shadow
 tags:
-  - Zauber/list/subclass/warrior-of-shadow
+  - Zauber/Liste/subclass/warrior-of-shadow
 aliases:
   - Spells for Warrior of Shadow
 ---

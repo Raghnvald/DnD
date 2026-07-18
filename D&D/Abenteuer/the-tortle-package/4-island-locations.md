@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Island Locations
+Status: WIP
 linter-yaml-title-alias: Island Locations
 tags:
   - Quelle/5e/ttp
 aliases:
-  - "Island Locations"
+  - Island Locations
   - Island Locations
 ---
 # Island Locations

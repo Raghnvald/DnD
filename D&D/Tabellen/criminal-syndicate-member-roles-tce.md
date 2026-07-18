@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Criminal Syndicate Member Roles
+Status: WIP
 linter-yaml-title-alias: Criminal Syndicate Member Roles
 tags:
   - Quelle/5e/tce

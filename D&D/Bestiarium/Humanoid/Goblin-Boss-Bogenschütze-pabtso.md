@@ -3,6 +3,7 @@ statblock: inline
 statblock-link: "#^statblock"
 Bezeichnung: Goblin Boss Archer
 Image: token/goblin-boss-archer-pabtso.webp
+Status: WIP
 linter-yaml-title-alias: Goblin Boss Archer
 tags:
   - Monster/Größe/Klein

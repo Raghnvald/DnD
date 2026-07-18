@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Tymora, Göttin des Glücks
+Status: WIP
 linter-yaml-title-alias: Tymora, Göttin des Glücks
 tags:
   - Kompendium/Götter

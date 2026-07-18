@@ -1,8 +1,9 @@
 ---
 Bezeichnung: "Habbakuk's Blessing"
+Status: WIP
 linter-yaml-title-alias: "Habbakuk's Blessing"
 tags:
-  - Kompendium/Belohnung/charm
+  - Kompendium/Belohnung/Bezauberung
   - Quelle/5e/dsotdq
 aliases:
   - "Habbakuk's Blessing"

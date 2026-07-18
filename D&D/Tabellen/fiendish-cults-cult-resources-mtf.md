@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Fiendish Cults; Cult Resources
+Status: WIP
 linter-yaml-title-alias: Fiendish Cults; Cult Resources
 tags:
   - Quelle/5e/mtf

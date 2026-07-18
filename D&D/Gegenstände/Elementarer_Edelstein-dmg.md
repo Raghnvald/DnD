@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Elementarer Edelstein
 Kategorie: Wundersamer Gegenstand
+Status: WIP
 linter-yaml-title-alias: Elementarer Edelstein
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich

@@ -1,9 +1,10 @@
 ---
 Bezeichnung: Peace Domain
+Status: WIP
 linter-yaml-title-alias: Peace Domain
 tags:
   - Klasse/Kleriker/peace
-  - Kompendium/Götter/Domäne/peace
+  - Kompendium/Götter/Domäne/Frieden
   - Quelle/5e/tce
 aliases:
   - Peace Domain

@@ -1,10 +1,11 @@
 ---
 Bezeichnung: Silber
-Kategorie: Handelsware
+Kategorie: Handelsgut
 Eigenschaften:
   - /
 Kst.: 5 GM
 Gew.: 0,5 kg
+Status: WIP
 linter-yaml-title-alias: Silber
 tags:
   - Gegenstand/Ausrüstung/Handelsgut
