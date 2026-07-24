@@ -38,6 +38,6 @@ Bis zu drei Kreaturen deiner Wahl in Reichweite, die du sehen kannst, müssen `C
 
 **Auf höheren Graden.** Wirkst du diesen Zauber, indem du einen Zauberplatz des 2. Grades oder höher nutzt, kannst du für jeden Grad über dem 1. eine zusätzliche Kreatur als Ziel wählen.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Paladin (Oath of Vengeance)](list-spells-classes-oath-of-vengeance.md)
 
 *Source: Player's Handbook p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

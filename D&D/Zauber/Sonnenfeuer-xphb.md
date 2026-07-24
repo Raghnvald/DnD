@@ -38,6 +38,6 @@ A creature [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) by this spell makes
 
 This spell dispels [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md) in its area that was created by any spell.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard (Evoker)](list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

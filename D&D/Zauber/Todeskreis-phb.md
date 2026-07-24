@@ -38,6 +38,6 @@ Negative Energie wogt in einer Sphäre mit einem Radius von 18 m um einen Punkt 
 
 **Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 7. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 6. hinaus um `2W6`.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Hexenmeister](Listen/list-spells-classes-warlock.md); [Magier](Listen/list-spells-classes-wizard.md); [Zauberer](Listen/list-spells-classes-sorcerer.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-spells-classes-bard.md); [Hexenmeister](list-spells-classes-warlock.md); [Magier](list-spells-classes-wizard.md); [Zauberer](list-spells-classes-sorcerer.md)
 
 *Quelle: Spielerhandbuch p. 274. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span>*

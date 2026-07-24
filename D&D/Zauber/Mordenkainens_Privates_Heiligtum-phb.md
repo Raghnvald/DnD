@@ -42,6 +42,6 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Private Sanctum")*

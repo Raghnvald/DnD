@@ -33,6 +33,6 @@ You can designate a password when you cast the spell. A creature that speaks the
 
 The spell's area can't overlap with the area of another Forbiddance spell. If you cast [Forbiddance](/3-Mechanics/CLI/spells/forbiddance-xphb.md) every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

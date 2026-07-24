@@ -36,6 +36,6 @@ aliases:
 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (War Domain)](list-spells-classes-war-domain.md); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 275. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

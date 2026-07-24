@@ -28,6 +28,6 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Telepathic Bond")*

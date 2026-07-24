@@ -40,6 +40,6 @@ Alle, die dich sehen können, nehmen deinen Körper als unscharf und oszillieren
 
 Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with [truesight](/3-Mechanics/CLI/senses.md#Truesight).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Desert)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Desert)](list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

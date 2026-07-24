@@ -30,6 +30,6 @@ Negative energy ripples out in a 60-foot-radius [Sphere](/3-Mechanics/CLI/varian
 
 **Using a Higher-Level Spell Slot.** The damage increases by `2d8` for each spell slot level above 6.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-spells-classes-bard.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

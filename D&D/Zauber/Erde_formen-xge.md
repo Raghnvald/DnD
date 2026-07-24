@@ -54,6 +54,6 @@ Du wählst einen Abschnitt Erde oder Gesteins aus, den du innerhalb der Reichwei
 
 Wenn du diesen Zauber mehrfach wirkst, kannst du nicht mehr als zwei seiner nicht sofort wirkenden Effekte gleichzeitig aktiviert haben. Du kannst einen solchen Effekt als eine Aktion aufgeben.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md "class=XPHB"); [Druid](list-spells-classes-druid.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Quellen:  Xanathars Ratgeber für Alles S. 162*

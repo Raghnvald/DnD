@@ -33,6 +33,6 @@ Du flüsterst eine missklingende Melodie, die nur eine Kreatur deiner Wahl in Re
 
 **Auf höheren Graden.** Wenn du diesen Zauber mit einem Zauberplatz des 2. Grades oder höher wirkst, dann steigt der Schaden für jeden Zauberplatz-Grad über dem ersten um `1W6`.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (The Great Old One)](/3-Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Warlock (The Great Old One)](list-spells-classes-the-great-old-one.md)
 
 *Source: Player's Handbook p. 234*

@@ -245,7 +245,7 @@ You've gained the ability to imbue mundane items with certain magical infusions,
 
 ### Infusions Known (Level 2)
 
-When you gain this feature, pick four artificer infusions to learn, choosing from the "Artificer Infusions^[Optional features from [Artificer Infusion](/3-Mechanics/CLI/lists/list-optfeaturetype-ai.md); defined in Tasha's Cauldron of Everything]" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
+When you gain this feature, pick four artificer infusions to learn, choosing from the "Artificer Infusions^[Optional features from [Artificer Infusion](list-optfeaturetype-ai.md); defined in Tasha's Cauldron of Everything]" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
 
 Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
 
@@ -398,5 +398,5 @@ You have developed a mystical connection to your magic items, which you can draw
 ## Optional Features
 
 > [!example]- Optional Features: Artificer Infusion
-> ![Artificer Infusion](/3-Mechanics/CLI/lists/list-optfeaturetype-ai.md#Artificer%20Infusion)
+> ![Artificer Infusion](list-optfeaturetype-ai.md#Artificer%20Infusion)
 ^list-optfeature-ai

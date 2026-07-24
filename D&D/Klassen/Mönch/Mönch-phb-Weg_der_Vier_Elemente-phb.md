@@ -120,5 +120,5 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 ## Optional Features
 
 > [!example]- Optional Features: Elemental Discipline
-> ![Elemental Discipline](/3-Mechanics/CLI/lists/list-optfeaturetype-ed.md#Elemental%20Discipline)
+> ![Elemental Discipline](list-optfeaturetype-ed.md#Elemental%20Discipline)
 ^list-optfeature-ed

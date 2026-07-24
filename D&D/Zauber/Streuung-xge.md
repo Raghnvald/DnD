@@ -34,6 +34,6 @@ aliases:
 
 The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom saving throw to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](list-spells-classes-barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 164*

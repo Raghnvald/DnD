@@ -33,6 +33,6 @@ aliases:
 
 Reinigende Energie strahlt von dir aus und erschafft eine Aura mit 9 m Radius. Bis der Zauber endet, bewegt sich die Aura mit dir als Mittelpunkt fort. Alle nicht feindlichen Kreaturen innerhalb der Aura (inklusive dir selbst) können nicht krank werden, erhalten eine Resistenz gegen Giftschaden und sind im Vorteil bei Rettungswürfen gegen Effekte, die folgende Zustände auslösen: betäubt, bezaubert, blind, gelähmt, taub, verängstigt, und vergiftet.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Quelle: Spielerhandbuch S. 216*

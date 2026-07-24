@@ -46,6 +46,6 @@ Any damage or other effects that apply to an astral form have no effect on the t
 
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Monk](/3-Mechanics/CLI/lists/list-spells-classes-monk.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Monk](list-spells-classes-monk.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

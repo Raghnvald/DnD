@@ -48,6 +48,6 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 ## Summary
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 152*

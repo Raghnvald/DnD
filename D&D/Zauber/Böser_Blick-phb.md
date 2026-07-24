@@ -49,6 +49,6 @@ The target has disadvantage on attack rolls and ability checks. At the end of ea
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

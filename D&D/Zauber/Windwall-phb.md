@@ -33,6 +33,6 @@ When the wall appears, each creature within its area must make a Strength saving
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in [gaseous form](/3-Mechanics/CLI/spells/gaseous-form.md) can't pass through it.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 288. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

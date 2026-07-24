@@ -57,6 +57,6 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 166*

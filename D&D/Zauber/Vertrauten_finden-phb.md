@@ -73,6 +73,6 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 240. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

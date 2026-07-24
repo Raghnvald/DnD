@@ -35,6 +35,6 @@ Das nächste Mal, wenn du eine Kreatur mit einem Waffenangriff triffst, ehe dies
 
 The first time you hit with a melee weapon attack during this spell's duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra `2d6` thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 282*

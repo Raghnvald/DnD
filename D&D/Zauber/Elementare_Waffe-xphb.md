@@ -38,6 +38,6 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **Using a Higher-Level Spell Slot.** If you use a level 5-6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to `2d4`. If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to `3d4`.
 
-**Classes**: [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock (The Hexblade)](/3-Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Artificer](list-spells-classes-artificer.md); [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Forge Domain)](list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](list-spells-classes-druid.md); [Paladin](list-spells-classes-paladin.md); [Ranger](list-spells-classes-ranger.md); [Warlock (The Hexblade)](list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 267*

@@ -44,6 +44,6 @@ aliases:
 Eine brüllende Stichflamme von 9 m Länge und 1,50 m Breite entspringt in gerader Linie aus dir in eine Richtung deiner Wahl. Jede Kreatur auf dieser Linie muss einen `Geschicklichkeits-Rettungswurf` durchführen. Bei einem Fehlschlag erleidet eine Kreatur `3d8` Feuerschaden, die Hälfte davon bei einem Erfolg.
 $\quad$**Auf höheren Graden.** Wenn du diesen Zauber mit einem Zauberplatz des 3. Grades oder höher wirkst, erhöht sich der Schaden um `1d8` für jeden Zauberplatz-Grad über dem zweiten.
 
-**Klassen**: [[list-spells-classes-bard|Barde]]; [[list-spells-classes-college-of-lore-xphb|Barde (Schule des Wissens)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-evoker-xphb|Magier (Evoker)]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde]]; [[list-spells-classes-college-of-lore-xphb|Barde (Schule des Wissens)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-evoker-xphb|Magier (Evoker)]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quelle:  Xanathars Ratgeber für Alles S. 150*

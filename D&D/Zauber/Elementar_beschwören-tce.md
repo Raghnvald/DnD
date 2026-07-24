@@ -44,6 +44,6 @@ The DM has the elemental's statistics.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Coast)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Coast)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

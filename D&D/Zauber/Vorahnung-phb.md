@@ -39,6 +39,6 @@ Der Zauber nimmt keine Rücksicht auf mögliche Umstände, die das Ergebnis ver�
 
 $\quad$Wenn du den Zauber zweimal oder öfter wirkst, bevor du eine lange Rast beendest, besteht eine kumulative Chance von 25% für jeden Zauber nach dem ersten, dass du ein zufälliges Ergebnis erhältst. Der SL macht diesen Wurf verdeckt.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Knowledge Domain)](list-spells-classes-knowledge-domain.md); [Cleric](list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

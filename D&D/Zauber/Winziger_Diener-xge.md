@@ -57,6 +57,6 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
-**Classes**: [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](list-spells-classes-artificer.md); [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 168*

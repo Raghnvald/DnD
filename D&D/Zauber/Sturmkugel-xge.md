@@ -45,6 +45,6 @@ Creatures within 30 feet of the sphere have disadvantage on Wisdom ([Perception]
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by `1d6` for each slot level above 4th.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](list-spells-classes-barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard (Evoker)](list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 166*

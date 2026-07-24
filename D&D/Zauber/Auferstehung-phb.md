@@ -37,6 +37,6 @@ $\quad$Der Zauber schließt alle tödlichen Wunden und stellt alle fehlenden Gli
 $\quad$Von den Toten zurückzukehren, ist eine wahre Prüfung für das Ziel. Es erleidet einen Malus von -4 auf alle Angriffs, Rettungs- und Attributswürfe. Immer wenn es eine lange Rast beendet, reduziert sich der Malus um 1, bis er aufgehoben ist.
 $\quad$Wirkst du den Zauber, um eine Kreatur zum Leben zu erwecken, die länger als 1 Jahr tot ist, bedeutet das eine große Anstrengung für dich. Bis du eine lange Rast beendet hast, kannst du keine weiteren Zauber wirken und bist im Nachteil bei allen Attributs-, Angriffs- und Rettungswürfen.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-cleric|Kleriker]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-cleric|Kleriker]]
 
 *Quellen: Spielerhandbuch S. 272. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

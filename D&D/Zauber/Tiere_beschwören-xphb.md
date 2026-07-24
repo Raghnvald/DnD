@@ -36,6 +36,6 @@ Whenever the pack moves within 10 feet of a creature you can see and whenever a 
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 3.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Moon)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-spells-classes-bard.md); [Druid (Circle of the Moon)](list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

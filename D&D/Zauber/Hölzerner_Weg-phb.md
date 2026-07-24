@@ -35,6 +35,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](list-spells-classes-oath-of-the-ancients.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

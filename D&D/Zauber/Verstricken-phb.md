@@ -43,6 +43,6 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 
 When the spell ends, the conjured plants wilt away.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

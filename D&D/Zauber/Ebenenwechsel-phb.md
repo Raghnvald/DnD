@@ -43,6 +43,6 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 
 You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

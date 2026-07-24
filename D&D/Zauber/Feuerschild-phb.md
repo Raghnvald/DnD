@@ -35,6 +35,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `2d8` fire damage from a warm shield, or `2d8` cold damage from a cold shield.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock (The Fiend)](/3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Warlock (The Fiend)](list-spells-classes-the-fiend.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

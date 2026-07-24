@@ -34,6 +34,6 @@ The ground in a 20-foot radius centered on a point within range twists and sprou
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -37,6 +37,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell with a 9th-level spell slot, the duration is [concentration](/3-Mechanics/CLI/conditions.md#Concentration), up to 8 hours.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

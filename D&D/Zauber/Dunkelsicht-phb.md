@@ -47,6 +47,6 @@ Du berührst eine bereitwillige Kreatur und verleihst ihr die Fähigkeit, im Dun
 
 You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Monk (Way of Shadow)](/3-Mechanics/CLI/lists/list-spells-classes-way-of-shadow.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Monk (Way of Shadow)](list-spells-classes-way-of-shadow.md); [Ranger](list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

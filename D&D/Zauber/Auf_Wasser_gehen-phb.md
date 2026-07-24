@@ -33,8 +33,8 @@ aliases:
   - Water Walk
 ---
 # Auf Wasser gehen
-_Verwandlung des 3. Grades (Ritual)_
- 
+*Verwandlung des 3. Grades (Ritual)*
+
 - **Zeitaufwand:** 1 Aktion
 - **Reichweite / Fläche:** 9 Meter
 - **Komponenten:** V, G, M (ein Stück Kork)
@@ -43,6 +43,6 @@ _Verwandlung des 3. Grades (Ritual)_
 Dieser Zauber verleiht die Fähigkeit, sich über flüssige Oberflächen zu bewegen - wie Wasser, Säure, Schlamm, Schnee, Treibsand oder Lava -, als wäre sie ungefährlicher, fester Boden (Wesen, die sich über geschmolzene Lava bewegen, erleiden allerdings aufgrund der Hitze Schaden). Bestimme bis zu zehn bereitwillige Kreaturen in Reichweite, die du sehen kannst, welche die Fähigkeit für die Wirkungsdauer erhalten.
 $\quad$Wenn du eine Kreatur als Ziel wählst, die sich in einer Flüssigkeit befindet oder untergetaucht ist, trägt der Zauber sie mit einer Geschwindigkeit von 18 m pro Runde an die Oberfläche.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-circle-of-the-land|Druide (Zirkel des Landes, Küste)]]; [[list-spells-classes-ranger|Waldläufer]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-circle-of-the-land|Druide (Zirkel des Landes, Küste)]]; [[list-spells-classes-ranger|Waldläufer]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 287. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

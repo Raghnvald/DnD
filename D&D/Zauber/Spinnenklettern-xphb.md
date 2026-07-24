@@ -38,6 +38,6 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 
-**Classes**: [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](list-spells-classes-artificer.md); [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

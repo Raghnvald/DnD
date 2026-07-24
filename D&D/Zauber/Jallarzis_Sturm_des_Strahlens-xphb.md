@@ -33,6 +33,6 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 
 **Using a Higher-Level Spell Slot.** The Radiant and Thunder damage increase by `1d10` for each spell slot level above 5.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md); [Wizard (Evoker)](list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 289*

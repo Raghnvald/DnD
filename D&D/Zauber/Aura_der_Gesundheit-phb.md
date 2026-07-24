@@ -33,6 +33,6 @@ aliases:
 
 Heilende Energie geht von dir aus und erschafft eine Aura mit 9 m Radius. Bis der Zauber endet, bewegt sich die Aura mit dir als Mittelpunkt fort. Du kannst eine Bonusaktion verwenden um bei einer Kreatur innerhalb der Aura (inklusive dir selbst) `2W6` Trefferpunkte zu heilen.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Quelle: Spieleterhandbuch S. 216*

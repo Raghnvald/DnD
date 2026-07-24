@@ -39,6 +39,6 @@ Du erschaffst miteinander verbundene Teleportationsportale, die für die Wirkung
 $\quad$Bei den Portalen handelt es sich um zweidimensionale, leuchtende Ringe, die mit Nebel gefüllt sind und die nur wenige Zentimeter über dem Boden schweben, lotrecht zum Punkt, den du ausgewählt hast. Die Ringe sind nur von einer Seite aus sichtbar (deine Wahl), dies ist die Seite, die als Portal fungiert. 
 $\quad$Kreaturen oder Gegenstände, die das Portal betreten, verlassen das andere, als würden beide aneinander angrenzen. Von der Rückseite durch ein Portal zu treten, hat keinerlei Auswirkungen. Der Nebel, der jedes Portal füllt, ist mit Blicken nicht zu durchdringen: Es ist weder erkennbar, was sich auf der Rückseite des Portals befindet noch vor dem anderen Portal. In deinem Zug kannst du die Ringe als Bonusaktion rotieren lassen, sodass die aktive Seite in eine andere Richtung zeigt.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quelle: Spielerhandbuch S. 213*

@@ -46,6 +46,6 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 | 4 | Drops of molasses hover in the cube, making it difficult terrain until the start of your next turn. |
 ^mischievous-surge
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard (Illusionist)](list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Fizban's Treasury of Dragons p. 20*

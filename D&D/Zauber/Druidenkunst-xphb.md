@@ -59,6 +59,6 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md "class=XPHB"); [Druid](list-spells-classes-druid.md); [Fighter (Arcane Archer)](list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

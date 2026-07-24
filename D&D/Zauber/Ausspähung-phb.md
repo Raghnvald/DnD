@@ -65,6 +65,6 @@ Bei einem erfolgreichen `Rettungswurf` kannst du das Ziel nicht ausfindig machen
 $\quad$Eine Kreatur, die unsichtbare Gegenstände sehen kann, nimmt den Sensor als leuchtende Kugel von der Größe einer Faust wahr.
 $\quad$Anstatt eine Kreatur als Ziel zu bestimmen, kannst du auch einen Ort wählen, den du schon einmal gesehen hast. In diesem Fall erscheint der Sensor an dem entsprechenden Ort und bewegt sich nicht.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-circle-of-the-land|Druide (Zirkel des Landes, Küste)]]; [[list-spells-classes-warlock|Hexenmeister]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-knowledge-domain|Kleriker (Domäne Wissen)]] [[list-spells-classes-light-domain|Kleriker (Domäne Licht)]]; [[list-spells-classes-oathbreaker-dmg|Paladin (Eidbrecher)]]; [[list-spells-classes-wizard|Magier]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-circle-of-the-land|Druide (Zirkel des Landes, Küste)]]; [[list-spells-classes-warlock|Hexenmeister]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-knowledge-domain|Kleriker (Domäne Wissen)]] [[list-spells-classes-light-domain|Kleriker (Domäne Licht)]]; [[list-spells-classes-oathbreaker-dmg|Paladin (Eidbrecher)]]; [[list-spells-classes-wizard|Magier]]
 
 *Quellen: Spielerhandbuch S. 273. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

@@ -42,6 +42,6 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Desert)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](list-spells-classes-barde.md); [Druid (Circle of the Land, Desert)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

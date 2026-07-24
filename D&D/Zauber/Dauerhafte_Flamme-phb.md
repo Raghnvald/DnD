@@ -36,6 +36,6 @@ aliases:
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

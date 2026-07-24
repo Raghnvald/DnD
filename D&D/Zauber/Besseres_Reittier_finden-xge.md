@@ -43,6 +43,6 @@ $\quad$Immer, wenn das Reittier verschwindet, lässt es jedes Objekt zurück, da
 > With the DM's permission, a paladin can summon a spirit in the form of a [dragonnel](dragonnel-ftd) using the find greater steed spell, which appears in *Xanathar's Guide to Everything*.
 ^dragonnel-steeds
 
-**Klassen**: [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Klassen**: [Paladin](list-spells-classes-paladin.md)
 
 *Source: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190*

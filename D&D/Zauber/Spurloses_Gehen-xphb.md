@@ -33,6 +33,6 @@ aliases:
 
 You radiate a concealing aura in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks and leave no tracks.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](list-spells-classes-barde.md); [Cleric (Trickery Domain)](list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -46,6 +46,6 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 ## Summary
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

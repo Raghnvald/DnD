@@ -45,6 +45,6 @@ Gusts and freezing rain assail the area under the cloud. The area becomes diffic
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](list-spells-classes-barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

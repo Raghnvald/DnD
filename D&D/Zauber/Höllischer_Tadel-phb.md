@@ -38,6 +38,6 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d10` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oathbreaker)](/3-Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin (Oathbreaker)](list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

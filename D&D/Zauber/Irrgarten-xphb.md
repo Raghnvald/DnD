@@ -28,6 +28,6 @@ The target can take a [Study](/3-Mechanics/CLI/actions.md#Study) action to try t
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

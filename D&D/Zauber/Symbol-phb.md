@@ -69,6 +69,6 @@ Each target must make a Wisdom saving throw and becomes [stunned](/3-Mechanics/C
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](list-spells-classes-barde.md); [Cleric](list-spells-classes-cleric.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -31,6 +31,6 @@ You conjure a feast that appears on a surface in an unoccupied 10-foot [Cube](/3
 
 A creature that partakes gains several benefits, which last for 24 hours. The creature has [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Poison damage, and it has [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) and [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) conditions. Its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum also increases by `2d10`, and it gains the same number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

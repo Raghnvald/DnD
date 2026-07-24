@@ -34,6 +34,6 @@ The ground in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-ar
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [Search](/3-Mechanics/CLI/actions.md#Search) action and succeed on a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception) or [Survival](/3-Mechanics/CLI/skills.md#Survival)) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock (The Genie, Dao)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md "class=XPHB"); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md); [Warlock (The Genie, Dao)](list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

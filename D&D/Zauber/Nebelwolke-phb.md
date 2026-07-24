@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Nebelwolke
+Original: Fog Cloud
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: 36 Meter
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 1 Stunde
-Angriff:
-Schaden:
+Angriff: n/v
+Schaden: n/v
 Status: WIP
 linter-yaml-title-alias: Nebelwolke
 classes:
@@ -35,17 +36,16 @@ aliases:
   - Nebelwolke
 ---
 # Nebelwolke
-*1st-level, Conjuration*  
+*Beschwörung des 1. Grades*
 
-- **Casting time:** 1 Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** 36 Meter
+- **Komponenten:** V, G
+- **Wirkungsdauer:** Konzentration, bis zu 1 Stunde
 
-You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+Du erschaffst eine Sphäre aus Nebel mit einem Radius von 6 m, die um einen Punkt deiner Wahl in Reichweite zentriert ist. Die Sphäre breitet sich um Ecken aus, und ihr Bereich ist komplett verschleiert. Sie bleibt für die Wirkungsdauer bestehen oder bis ein mittelstarker oder stärkerer Wind (mindestens 15 km pro Stunde) den Nebel auflöst.
+$\quad$**Auf höheren Graden:** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, vergrößert sich der Radius der Sphäre um 6 m für jeden Grad über den 1. hinaus.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-tempest-domain|Kleriker (Domäne Sturm)]]; [[list-spells-classes-wizard|Magier]]
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/3-Mechanics/CLI/lists/list-spells-classes-tempest-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
-
-*Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch S. 253. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

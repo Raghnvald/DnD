@@ -36,6 +36,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-spells-classes-bard.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md); [Wizard (Illusionist)](list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 322*

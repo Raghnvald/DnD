@@ -41,6 +41,6 @@ Until the spell ends, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) 
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md "class=XPHB"); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -128,6 +128,6 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Warlock (The Fiend)](/3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Warlock (The Fiend)](list-spells-classes-the-fiend.md)
 
 *Source: Player's Handbook p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

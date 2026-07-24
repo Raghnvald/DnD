@@ -45,6 +45,6 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 | 7 | **Violet.** *Failed Save:* The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md). |
 ^prismatic-layers
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Wizard (Abjurer)](list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

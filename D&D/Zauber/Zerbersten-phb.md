@@ -41,6 +41,6 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d8` for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/3-Mechanics/CLI/lists/list-spells-classes-tempest-domain.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Tempest Domain)](list-spells-classes-tempest-domain.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 275. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

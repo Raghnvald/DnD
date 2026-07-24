@@ -32,6 +32,6 @@ When the cloud appears, each creature in it makes a Dexterity saving throw, taki
 
 The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

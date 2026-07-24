@@ -31,6 +31,6 @@ Any creature that starts its turn in the area takes `2d6` Cold damage. Any creat
 
 **Using a Higher-Level Spell Slot.** The Cold or Acid damage (your choice) increases by `1d6` for each spell slot level above 3.
 
-**Classes**: [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Sorcerer (Aberrant Sorcery)](list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 286*

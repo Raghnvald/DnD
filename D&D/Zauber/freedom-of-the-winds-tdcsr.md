@@ -33,6 +33,6 @@ Wind wraps around your body, tugging at your hair and clothing as your feet lift
 
 When you are targeted by a spell or attack while this spell is in effect, you can use a reaction to teleport up to 60 feet to an unoccupied space you can see. If this movement takes you out of range of the triggering spell or attack, you are unaffected by it. This spell then ends when you reappear.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Open Sea)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Paladin (Oath of the Open Sea)](list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB"); [Ranger](list-spells-classes-ranger.md); [Sorcerer](list-spells-classes-sorcerer.md)
 
 *Source: Tal'Dorei Campaign Setting Reborn p. 176*

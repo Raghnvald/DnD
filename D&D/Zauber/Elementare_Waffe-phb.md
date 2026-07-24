@@ -28,6 +28,6 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to `2d4`. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to `3d4`.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 237*

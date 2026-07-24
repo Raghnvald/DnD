@@ -68,6 +68,6 @@ The spell's unpredictable magic results in a difficult journey. Each teleporting
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

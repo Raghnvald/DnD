@@ -43,6 +43,6 @@ Du sprichst flüsternd mit den Geistern der Natur und erzeugst innerhalb der Rei
 - Du erschaffst einen harmlosen sensorischen Effekt, wie fallende Blätter, einen Windhauch, die Geräusche eines kleinen Tieres oder den leichten Geruch eines Stinktiers. Der Effekt muss in einen Würfel mit 1,50 m Kantenlänge passen.
 - Du kannst augenblicklich eine Kerze, eine Fackel oder ein kleines Lagerfeuer entzünden oder löschen.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

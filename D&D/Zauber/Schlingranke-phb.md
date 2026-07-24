@@ -31,6 +31,6 @@ You conjure a vine that sprouts from the ground in an unoccupied space of your c
 
 Until the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 246*

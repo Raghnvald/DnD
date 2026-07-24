@@ -35,6 +35,6 @@ You send a short message of twenty-five words or less to a creature with which y
 
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a  chance that the message doesn't arrive.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock (The Great Old One)](/3-Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Warlock (The Great Old One)](list-spells-classes-the-great-old-one.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

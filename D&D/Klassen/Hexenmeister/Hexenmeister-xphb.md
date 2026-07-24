@@ -73,7 +73,7 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 ### Eldritch Invocations (Level 1)
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^[Optional features from [Eldritch Invocation](/3-Mechanics/CLI/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^[Optional features from [Eldritch Invocation](list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 #### Prerequisites
 
@@ -202,5 +202,5 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 ## Optional Features
 
 > [!example]- Optional Features: Eldritch Invocation
-> ![Eldritch Invocation](/3-Mechanics/CLI/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
+> ![Eldritch Invocation](list-optfeaturetype-ei.md#Eldritch%20Invocation)
 ^list-optfeature-ei

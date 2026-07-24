@@ -36,6 +36,6 @@ Du berührst eine Kreatur und regst ihre natürliche Heilung an. Das Ziel erhäl
 
 Abgetrennte Gliedmaßen (Finger, Beine und so weiter) werden nach 2 Minuten wiederhergestellt. Hältst du eine abgetrennte Gliedmaße an den Stumpf, lässt der Zauber sie sofort wieder anwachsen.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

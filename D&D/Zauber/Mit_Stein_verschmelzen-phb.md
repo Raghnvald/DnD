@@ -34,6 +34,6 @@ While merged with the stone, you can't see what occurs outside it, and any Wisdo
 
 Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals `6d6` bludgeoning damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall [prone](/3-Mechanics/CLI/conditions.md#Prone) in an unoccupied space closest to where you first entered.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Mountain)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid (Circle of the Land, Mountain)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

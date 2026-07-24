@@ -36,6 +36,6 @@ Beschreibung hier einfügen.
 
 $\quad$**Auf höheren Graden.** 
 
-**Klassen**: [Barde](Listen/list-spells-classes-bard.md); [Barde (Schule des Wissens)](Listen/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+**Klassen**: [Barde](Liste-Zauber-Klassen-Barde.md); [Barde (Schule des Wissens)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Kämpfer (Mystischer Ritter)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
 
 *Quelle:  Xanathars Ratgeber für Alles S. 150*

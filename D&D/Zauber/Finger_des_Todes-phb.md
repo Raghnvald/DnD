@@ -31,6 +31,6 @@ You send negative energy coursing through a creature that you can see within ran
 
 A humanoid killed by this spell rises at the start of your next turn as a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md) that is permanently under your command, following your verbal orders to the best of its ability.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

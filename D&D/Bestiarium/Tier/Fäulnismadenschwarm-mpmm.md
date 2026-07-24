@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Swarm of Rot Grubs
+Quelle: MPMM, VEOR
 ---
 # [Swarm of Rot Grubs](3-Mechanics\CLI\bestiary\beast/swarm-of-rot-grubs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237*  

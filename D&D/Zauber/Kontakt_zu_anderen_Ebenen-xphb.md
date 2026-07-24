@@ -32,6 +32,6 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other kn
 
 On a failed save, you take `6d6` Psychic damage and have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). A [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on you ends this effect.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md); [Wizard (Diviner)](list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -98,5 +98,5 @@ Starting at 14th level, whenever you use a Blade Flourish option, you can roll a
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Bard
-> ![Fighting Style, Bard](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
+> ![Fighting Style, Bard](list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
 ^list-optfeature-fs-b

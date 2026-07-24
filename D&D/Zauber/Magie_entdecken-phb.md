@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Magie entdecken
+Original: Detect Magic
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
@@ -50,9 +51,8 @@ aliases:
 - **Wirkungsdauer:** Konzentration, bis zu 10 Minuten
 
 Während der Wirkungsdauer nimmst du die Gegenwart von Magie im Abstand von bis zu 9 Metern von dir wahr. Wenn du auf diese Weise Magie wahrnimmst, kannst du deine Aktion verwenden, um schwache Auren um sichtbare magische Kreaturen oder Objekte sowie ihre magische Schule zu erkennen, falls vorhanden.
+$\quad$Dieser Zauber durchdringt die meisten Barrieren, wird aber von 30 Zentimetern Stein, 2,5 Zentimetern gewöhnlichem Metall, dünnem Bleiblech sowie von einem Meter Holz oder Erde blockiert.
 
-Dieser Zauber durchdringt die meisten Barrieren, wird aber von 30 Zentimetern Stein, 2,5 Zentimetern gewöhnlichem Metall, dünnem Bleiblech sowie von einem Meter Holz oder Erde blockiert.
-
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Kleriker](Listen/list-spells-classes-cleric.md);  [Paladin](Listen/list-spells-classes-paladin.md); [Magier](Listen/list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Waldläufer](Listen/list-spells-classes-ranger.md); [Zauberer](Listen/list-spells-classes-sorcerer.md);
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Kämpfer (Mystischer Ritter)](list-spells-classes-eldritch-knight.md); [Kleriker](list-spells-classes-cleric.md);  [Paladin](list-spells-classes-paladin.md); [Magier](list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](list-spells-classes-arcane-trickster.md); [Waldläufer](list-spells-classes-ranger.md); [Zauberer](list-spells-classes-sorcerer.md);
 
 *Quellen: Spielerhandbuch S. 231. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

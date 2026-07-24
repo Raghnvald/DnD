@@ -35,6 +35,6 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by `1d6` for each slot level above 7th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](list-spells-classes-barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

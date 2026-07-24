@@ -26,6 +26,6 @@ You and up to ten willing creatures of your choice within range assume gaseous f
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

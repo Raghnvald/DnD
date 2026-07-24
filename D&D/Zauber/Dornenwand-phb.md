@@ -41,6 +41,6 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by `1d8` for each slot level above 6th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

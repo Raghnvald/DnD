@@ -34,6 +34,6 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by `1d6` for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -46,6 +46,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Psi Warrior)](/3-Mechanics/CLI/lists/list-spells-classes-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Fighter (Psi Warrior)](list-spells-classes-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

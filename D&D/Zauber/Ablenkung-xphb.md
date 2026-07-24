@@ -44,6 +44,6 @@ As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can move the illusor
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-**Klassen**: [Barde](Listen/list-spells-classes-bard.md); [Hexenmeister](Listen/list-spells-classes-warlock.md);  [Kleriker (Domäne Zwielicht)](Listen/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Magier](Listen/list-spells-classes-wizard.md); [Magier (Illusionist)](Listen/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Waldläufer (Fey Wanderer)](Listen/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB")
+**Klassen**: [Barde](Liste-Zauber-Klassen-Barde.md); [Hexenmeister](list-spells-classes-warlock.md);  [Kleriker (Domäne Zwielicht)](list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Magier](list-spells-classes-wizard.md); [Magier (Illusionist)](list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Waldläufer (Fey Wanderer)](list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

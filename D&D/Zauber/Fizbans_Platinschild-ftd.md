@@ -35,6 +35,6 @@ You create a field of silvery light that surrounds a creature of your choice wit
 
 As a bonus action on subsequent turns, you can move the field to another creature within 60 feet of the field.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard (Abjurer)](list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Fizban's Treasury of Dragons p. 20*

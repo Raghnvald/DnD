@@ -34,6 +34,6 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Life Domain)](list-spells-classes-life-domain.md); [Cleric (Light Domain)](list-spells-classes-light-domain.md); [Cleric](list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](list-spells-classes-oath-of-devotion.md)
 
 *Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

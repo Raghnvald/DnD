@@ -29,6 +29,6 @@ The target can use its action to attempt to escape. When it does so, it makes a 
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -27,6 +27,6 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the healing increases by `1d4` for each slot level above 3rd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

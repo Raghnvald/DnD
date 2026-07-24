@@ -27,6 +27,6 @@ An invisible wall of force springs into existence at a point you choose within r
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md). A [disintegrate](/3-Mechanics/CLI/spells/disintegrate.md) spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

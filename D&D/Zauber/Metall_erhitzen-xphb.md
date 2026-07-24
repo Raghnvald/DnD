@@ -34,6 +34,6 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 2.
 
-**Classes**: [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Artificer](list-spells-classes-artificer.md); [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Forge Domain)](list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

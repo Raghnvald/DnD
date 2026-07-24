@@ -27,6 +27,6 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Sorcerer (Aberrant Sorcery)](list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 243*

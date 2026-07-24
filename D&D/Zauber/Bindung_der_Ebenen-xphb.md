@@ -44,6 +44,6 @@ A bound creature must follow your commands to the best of its ability. You might
 
 **Using a Higher-Level Spell Slot.** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](list-spells-classes-warlock.md); [Wizard (Abjurer)](list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -28,6 +28,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

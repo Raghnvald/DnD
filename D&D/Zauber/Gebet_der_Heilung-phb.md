@@ -28,6 +28,6 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by `1d8` for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

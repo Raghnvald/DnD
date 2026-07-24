@@ -42,6 +42,6 @@ If you're outdoors in a storm when you cast this spell, the spell gives you cont
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 3.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/3-Mechanics/CLI/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Tempest Domain)](list-spells-classes-tempest-domain.md "class=XPHB"); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -150,5 +150,5 @@ At 18th level, your superiority dice turn into `d12`s.
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Battle Master
-> ![Maneuver, Battle Master](/3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
+> ![Maneuver, Battle Master](list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
 ^list-optfeature-mv-b

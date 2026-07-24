@@ -34,6 +34,6 @@ You send ribbons of negative energy at one creature you can see within range. Un
 
 If you target an undead with this spell, the target doesn't make a saving throw. Instead, roll `5d12`. The target gains half the total as temporary hit points.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 163*

@@ -39,6 +39,6 @@ Du berührst eine lebende Kreatur mit 0 Trefferpunkten. Das Ziel wird stabilisie
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Death Domain)](list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric](list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

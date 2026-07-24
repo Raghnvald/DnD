@@ -44,6 +44,6 @@ Du manifestierst ein kleines Wunder in Reichweite, ein Zeichen übernatürlicher
 
 Wenn du diesen Zauber mehrmals wirkst, können bis zu drei der nicht sofortigen Effekte gleichzeitig aktiv sein. Du kannst solche Effekte als Aktion aufheben.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-spells-classes-bard.md); [Kleriker](list-spells-classes-cleric.md)
 
 *Quelle: Spielerhandbuch S. 272. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

@@ -40,6 +40,6 @@ aliases:
 
 Für die Wirkungsdauer verbirgst du ein Ziel, das du berührst, vor Erkenntnismagie. Das Ziel kann eine bereitwillige Kreatur, ein Ort oder ein Gegenstand sein, der in keiner Ausdehnung größer als 3 m ist. Das Ziel kann weder Ziel von Erkenntnismagie werden noch durch magische Sensoren wahrgenommen werden.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md);  [Kleriker (Domäne Wissen)](Listen/list-spells-classes-knowledge-domain.md); [Magier](Listen/list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Waldläufer](Listen/list-spells-classes-ranger.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Kämpfer (Mystischer Ritter)](list-spells-classes-eldritch-knight.md);  [Kleriker (Domäne Wissen)](list-spells-classes-knowledge-domain.md); [Magier](list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](list-spells-classes-arcane-trickster.md); [Waldläufer](list-spells-classes-ranger.md)
 
 *Quellen: Spielerhandbuch S. 276. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

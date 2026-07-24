@@ -33,6 +33,6 @@ A creature [blinded](/3-Mechanics/CLI/conditions.md#Blinded) by this spell makes
 
 This spell dispels any darkness in its area that was created by a spell.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

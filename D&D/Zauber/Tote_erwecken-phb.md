@@ -35,6 +35,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-spells-classes-bard.md); [Cleric (Life Domain)](list-spells-classes-life-domain.md); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

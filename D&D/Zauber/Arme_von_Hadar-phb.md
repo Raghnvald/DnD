@@ -36,6 +36,6 @@ Du berufst dich auf die Macht Hadars, des Dunklen Hungers. Tentakel aus finstere
 
 **_Auf höheren Graden:_** Wenn du diesen Zauber mit einem Zauberplatz des 2. Grades oder höher wirkst, dann steigt der Schaden für jeden Zauberplatz-Grad über dem ersten um `1W6`.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]
 
 *Quellen: Spielerhandbuch S. 215*

@@ -60,6 +60,6 @@ Für eine Kreatur, welche immun gegen den Effekt ist, sind die Winde eine wohlri
 
 ## Zusammenfassung
 
-**Klassen**: [Barde](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md)
+**Klassen**: [Barde](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md)
 
 *Quelle: Xanathar's Guide to Everything p. 154*

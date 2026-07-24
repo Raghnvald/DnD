@@ -38,6 +38,6 @@ aliases:
 Du entziehst allen Kreaturen in einem Würfel mit 9 m Kantenlänge, zentriert auf einen Punkt deiner Wahl innerhalb der Reichweite, die Feuchtigkeit. Jede Kreatur in diesem Bereich muss einen `Konstitutions-Rettungswurf` durchführen. Konstrukte und Untote sind davon nicht betroffen, und Pflanzen sowie Wasserelementare müssen diesen Rettungswurf mit Nachteil durchführen. Bei einem Fehlschlag erleidet eine Kreatur  `12d8` nekrotischen Schaden, die Hälfte davon bei einem Erfolg.
 $\quad$Nicht-magische Pflanzen im Bereich, die keine Kreaturen sind, etwa Bäume und Büsche, verwelken und sterben sofort.
 
-**Klassen**: [[list-spells-classes-bard|Barde]]; [[list-spells-classes-arcana-domain-scag|Kleriker (Domäne Arkan)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde]]; [[list-spells-classes-arcana-domain-scag|Kleriker (Domäne Arkan)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quelle: Xanathar's Guide to Everything p. 150*

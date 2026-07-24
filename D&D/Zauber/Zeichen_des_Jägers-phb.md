@@ -35,6 +35,6 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on the spell for up to 24 hours.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin (Oath of Vengeance)](list-spells-classes-oath-of-vengeance.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 251. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

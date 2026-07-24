@@ -36,6 +36,6 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d10` for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](list-spells-classes-oath-of-the-ancients.md)
 
 *Source: Player's Handbook p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

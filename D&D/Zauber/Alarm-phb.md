@@ -44,6 +44,6 @@ Du erschaffst einen Alarm gegen unerwünschtes Eindringen. Wähle eine Tür, ein
 $\quad$Ein geistiger Alarm macht sich als Klingeln in deinem Kopf bemerkbar, wenn du dich innerhalb von 1,5 km um den geschützten Bereich aufhältst. Das Klingeln weckt dich, falls du schlafen solltest.
 $\quad$Ein hörbarer Alarm erzeugt im Umkreis von 18 Metern für 10 Sekunden das Geräusch einer Handglocke.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-ranger|Waldläufer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-ranger|Waldläufer]]
 
 *Quellen: Spielerhandbuch S. 211. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

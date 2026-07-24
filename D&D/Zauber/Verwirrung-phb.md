@@ -54,6 +54,6 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](/3-Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Knowledge Domain)](list-spells-classes-knowledge-domain.md); [Druid](list-spells-classes-druid.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

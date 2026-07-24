@@ -43,6 +43,6 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Law)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Life Domain)](list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Law)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

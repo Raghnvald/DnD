@@ -57,6 +57,6 @@ Das Ziel ist im Vorteil bei Weisheitswürfen.
 
 **_Auf höheren Graden:_** Wenn du diesen Spruch mit einem Zauberplatz des 3. oder eines höheren Grades wirkst, kannst du für jeden Grad über den 2. hinaus eine zusätzliche Kreatur als Ziel wählen.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 237. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

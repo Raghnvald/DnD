@@ -39,6 +39,6 @@ aliases:
 
 Du berührst eine bereitwillige Kreatur, die keine Rüstung trägt. Schützende magische Energie umgibt sie, bis der Zauber endet. Die Basis-Rüstungsklasse des Ziels entspricht nun 13 + seinem Geschicklichkeitsmodifikator. Der Zauber endet, wenn das Ziel eine Rüstung anlegt oder du den Zauber mit einer Aktion aufhebst.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Magier](Listen/list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md); [Zauberer](Listen/list-spells-classes-sorcerer.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Kämpfer (Mystischer Ritter)](list-spells-classes-eldritch-knight.md); [Magier](list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](list-spells-classes-arcane-trickster.md); [Zauberer](list-spells-classes-sorcerer.md)
 
 *Quelle: Spielerhandbuch S. 247. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

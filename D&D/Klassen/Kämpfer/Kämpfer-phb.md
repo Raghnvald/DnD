@@ -219,8 +219,8 @@ _Source: Tasha's Cauldron of Everything p. 41_
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 
-- Replace a [fighting style](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-f.md) you know with another fighting style available to fighters.  
-- If you know any [maneuvers](/3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md) from the [Battle Master](/3-Mechanics/CLI/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
+- Replace a [fighting style](list-optfeaturetype-fs-f.md) you know with another fighting style available to fighters.  
+- If you know any [maneuvers](list-optfeaturetype-mv-b.md) from the [Battle Master](/3-Mechanics/CLI/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 
@@ -309,5 +309,5 @@ At 20th level, you can attack four times whenever you take the [Attack](/3-Mecha
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Fighter
-> ![Fighting Style, Fighter](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
 ^list-optfeature-fs-f

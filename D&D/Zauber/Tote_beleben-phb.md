@@ -41,6 +41,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](/3-Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-spells-classes-bard.md); [Cleric (Death Domain)](list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric](list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

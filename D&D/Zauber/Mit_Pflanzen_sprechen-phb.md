@@ -35,6 +35,6 @@ If a plant creature is in the area, you can communicate with it as if you shared
 
 This spell can cause the plants created by the [entangle](/3-Mechanics/CLI/spells/entangle.md) spell to release a [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

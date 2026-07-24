@@ -42,6 +42,6 @@ $\quad$Du kannst mit der Flamme auch angreifen, dies beendet jedoch den Zauber. 
 
 $\quad$Der Schaden dieses Zaubers steigt jeweils um `1W8` bei Erreichen der 5. (`2W8`), 11. (`3W8`) und 17. Stufe (`4W8`).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md)
 
 *Quellen: Spielerhandbuch S. 269. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

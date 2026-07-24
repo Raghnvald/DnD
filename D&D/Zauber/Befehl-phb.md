@@ -90,7 +90,7 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Warlock (The Fiend)](/3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Knowledge Domain)](list-spells-classes-knowledge-domain.md); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md); [Warlock (The Fiend)](list-spells-classes-the-fiend.md)
 
 *Quellen: Spielerhandbuch S. 223. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 
 

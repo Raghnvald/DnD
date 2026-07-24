@@ -26,6 +26,6 @@ Creatures of your choice that you can see within range and that can hear you mus
 
 A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

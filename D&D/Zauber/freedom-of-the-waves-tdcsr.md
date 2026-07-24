@@ -40,6 +40,6 @@ You conjure a deluge of seawater in a 15-foot-radius, 10-foot-tall cylinder cent
 
 If you are within the spell's area, as part of the action you use to cast the spell, you can vanish into the deluge and teleport to an unoccupied space that you can see within the spell's area.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Open Sea)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Paladin (Oath of the Open Sea)](list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB"); [Ranger](list-spells-classes-ranger.md); [Sorcerer](list-spells-classes-sorcerer.md)
 
 *Source: Tal'Dorei Campaign Setting Reborn p. 176*

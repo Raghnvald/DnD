@@ -41,6 +41,6 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -44,6 +44,6 @@ Du stärkst dich mit einer nekromantischen Nachahmung von Leben, sodass du für 
 
 **_Auf höheren Graden._** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, erhältst du für jeden Grad über den 1. hinaus 5 zusätzliche temporäre Trefferpunkte.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Death Domain)](list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

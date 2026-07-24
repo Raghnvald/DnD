@@ -41,6 +41,6 @@ Choose three of the following facts; you learn those facts as they pertain to th
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
-**Classes**: [Barbarian (Path of the Wild Heart)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Barbarian (Path of the Wild Heart)](list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

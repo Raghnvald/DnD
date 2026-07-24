@@ -37,6 +37,6 @@ When you transform, you choose whether your equipment falls to the ground, merge
 
 During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

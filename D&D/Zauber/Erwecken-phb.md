@@ -28,6 +28,6 @@ Du verbringst die Wirkungszeit damit, magische Pfade in einen kostbaren Edelstei
 
 Das erweckte Tier oder die Pflanze ist 30 Tage lang von dir [[Anhang PH-A#Bezaubert|bezaubert]]. Der Zauber endet, wenn du oder deine Gefährten ihm oder ihr Schaden zufügen. Wenn die Bezauberung endet, entscheidet die erweckte Kreatur anhand dessen, wie du sie während der Bezauberung behandelt hast, ob sie dir gegenüber freundlich gesinnt bleibt.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

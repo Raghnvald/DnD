@@ -51,6 +51,6 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Fiend)](/3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Death Domain)](list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric](list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock (The Fiend)](list-spells-classes-the-fiend.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

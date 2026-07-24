@@ -34,6 +34,6 @@ aliases:
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain.md); [Druid (Circle of the Land, Grassland)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Monk (Way of Shadow)](/3-Mechanics/CLI/lists/list-spells-classes-way-of-shadow.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](list-spells-classes-barde.md); [Cleric (Trickery Domain)](list-spells-classes-trickery-domain.md); [Druid (Circle of the Land, Grassland)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Monk (Way of Shadow)](list-spells-classes-way-of-shadow.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

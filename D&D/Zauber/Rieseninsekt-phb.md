@@ -31,6 +31,6 @@ A creature remains in its giant size for the duration, until it drops to 0 hit p
 
 The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a [giant wasp](/3-Mechanics/CLI/bestiary/beast/giant-wasp.md).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

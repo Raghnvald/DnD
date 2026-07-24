@@ -28,6 +28,6 @@ You create a wall of whirling blades made of magical energy. The wall appears wi
 
 Any creature in the wall's space makes a Dexterity saving throw, taking `6d10` Force damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

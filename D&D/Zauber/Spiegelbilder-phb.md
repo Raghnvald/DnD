@@ -46,6 +46,6 @@ A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplic
 
 A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with [truesight](/3-Mechanics/CLI/senses.md#Truesight).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain.md); [Druid (Circle of the Land, Coast)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Trickery Domain)](list-spells-classes-trickery-domain.md); [Druid (Circle of the Land, Coast)](list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

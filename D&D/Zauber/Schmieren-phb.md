@@ -38,6 +38,6 @@ Slick grease covers the ground in a 10-foot square centered on a point within ra
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone). A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

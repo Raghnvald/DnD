@@ -103,5 +103,5 @@ You gain an additional Arcane Shot option of your choice when you reach 18th lev
 ## Optional Features
 
 > [!example]- Optional Features: Arcane Shot
-> ![Arcane Shot](/3-Mechanics/CLI/lists/list-optfeaturetype-as.md#Arcane%20Shot)
+> ![Arcane Shot](list-optfeaturetype-as.md#Arcane%20Shot)
 ^list-optfeature-as

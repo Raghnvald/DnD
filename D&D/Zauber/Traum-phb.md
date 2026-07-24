@@ -35,6 +35,6 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Grassland)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-spells-classes-bard.md); [Druid (Circle of the Land, Grassland)](list-spells-classes-circle-of-the-land.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

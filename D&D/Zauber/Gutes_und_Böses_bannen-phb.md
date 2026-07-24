@@ -39,6 +39,6 @@ As your action, make a melee spell attack against a celestial, an elemental, a f
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

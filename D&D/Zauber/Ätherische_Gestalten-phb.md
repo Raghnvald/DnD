@@ -45,6 +45,6 @@ $\quad$Der Zauber hat keinen Effekt, wenn du dich beim Wirken bereits auf der Ä
 
 **_Auf höheren Graden:_** Wenn du diesen Spruch mit einem Zauberplatz des 8. oder 9. Grades wirkst, kannst du für jeden Grad über den 7. hinaus bis zu drei bereitwillige Kreaturen als Ziel wählen (inklusive dir selbst). Beim Wirken des Zaubers müssen sich die Kreaturen innerhalb von 3 m befinden.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-warlock|Hexenmeister]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 238. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

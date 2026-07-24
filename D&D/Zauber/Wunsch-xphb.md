@@ -42,6 +42,6 @@ Alternatively, you can create one of the following effects of your choice:
 
 The stress of casting Wish to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you take `1d10` Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for `2d4` days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a  chance that you are unable to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) ever again if you suffer this stress.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie, Dao)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock (The Genie, Dao)](list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

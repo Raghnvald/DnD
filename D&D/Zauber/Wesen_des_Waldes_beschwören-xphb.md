@@ -30,6 +30,6 @@ In addition, you can take the [Disengage](/3-Mechanics/CLI/actions.md#Disengage)
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 4.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -35,6 +35,6 @@ Du wirst [[Zustände-phb#Unsichtbar|unsichtbar]], gleichzeitig erscheint ein ill
 $\quad$Als Aktion kannst du dein illusionäres Abbild bis zu deiner doppelten Bewegungsrate bewegen und es gestikulieren, sprechen und auf jede Art handeln lassen, die du möchtest.
 $\quad$Du kannst durch seine Augen sehen und durch seine Ohren hören, als würdest du dort stehen, wo es sich aufhält. In jedem deiner Züge kannst du als Bonusaktion von deinen Sinnen zu den Sinnen des Abbilds wechseln und andersherum. Solange du seine Sinne nutzt, bist du [[Zustände-phb#Blind|blind]] und [[Zustände-phb#Taub|taub]] für deine eigene Umgebung.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-wizard|Magier]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-wizard|Magier]]
 
 *Quellen: Spielerhandbuch S. 260. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

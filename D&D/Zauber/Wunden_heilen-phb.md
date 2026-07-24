@@ -42,6 +42,6 @@ Eine Kreatur, die du berührst, erhält eine Anzahl von Trefferpunkten zurück i
 
 **Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, steigen die geheilten Trefferpunkte für jeden Grad über den 1. hinaus um `1W8`.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Kleriker (Domäne Leben)](Listen/list-spells-classes-life-domain.md); [Paladin](Listen/list-spells-classes-paladin.md); [Waldläufer](Listen/list-spells-classes-ranger.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Kleriker](list-spells-classes-cleric.md); [Kleriker (Domäne Leben)](list-spells-classes-life-domain.md); [Paladin](list-spells-classes-paladin.md); [Waldläufer](list-spells-classes-ranger.md)
 
 *Quelle: Spielerhandbuch S. 287. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

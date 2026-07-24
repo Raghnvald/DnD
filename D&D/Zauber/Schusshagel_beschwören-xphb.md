@@ -26,6 +26,6 @@ You brandish the weapon used to cast the spell and conjure similar spectral weap
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 3.
 
-**Classes**: [Artificer (Battle Smith)](/3-Mechanics/CLI/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Artificer (Battle Smith)](list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 254*

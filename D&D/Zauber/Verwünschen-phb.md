@@ -36,6 +36,6 @@ A [remove curse](/3-Mechanics/CLI/spells/remove-curse.md) cast on the target end
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on the spell for up to 24 hours.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook p. 251*

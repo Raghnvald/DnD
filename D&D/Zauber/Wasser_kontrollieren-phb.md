@@ -63,6 +63,6 @@ The first time each turn that an object enters the vortex, the object takes `2d8
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/3-Mechanics/CLI/lists/list-spells-classes-tempest-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Coast)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Tempest Domain)](list-spells-classes-tempest-domain.md); [Cleric](list-spells-classes-cleric.md); [Druid (Circle of the Land, Coast)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

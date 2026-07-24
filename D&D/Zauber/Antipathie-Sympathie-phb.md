@@ -51,6 +51,6 @@ Wenn das Ziel eine beeinflusste Kreatur verletzt oder ihr anderweitig schadet, d
 Wenn sich eine beeinflusste Kreatur am Ende ihres Zuges außerhalb von 18 m um das Ziel befindet und es nicht sehen kann, legt sie einen `Weisheitsrettungswurf` ab. Bei einem Erfolg ist die Kreatur nicht länger vom Effekt des Zaubers betroffen und begreift, dass das Gefühl der Abstoßung oder Anziehung magischer Natur ist. Außerdem darf eine Kreatur, die unter dem Einfluss dieses Zaubers steht (solange dieser wirkt), alle 24 Stunden einen weiteren Rettungswurf ablegen.
 $\quad$Eine Kreatur, der ein `Rettungswurf` gegen den Effekt gelingt, ist für eine 1 Minute gegen seine Auswirkungen immun. Danach kann er wieder in Kraft treten.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-wizard|Magier]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-wizard|Magier]]
 
 *Quellen: Spielerhandbuch S. 213. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

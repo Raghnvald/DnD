@@ -30,6 +30,6 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d8` for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -35,6 +35,6 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by `1d6` for each slot level above 5th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md); [Warlock (The Fiend)](/3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Light Domain)](list-spells-classes-light-domain.md); [Cleric (War Domain)](list-spells-classes-war-domain.md); [Cleric](list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](list-spells-classes-oath-of-devotion.md); [Warlock (The Fiend)](list-spells-classes-the-fiend.md)
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

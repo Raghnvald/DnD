@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Wasser erschaffen oder zerstören
+Original: Create or Destroy Water
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
 Komponenten: V, G, M
 Wirkungsdauer: Unmittelbar
-Status: WIP
+Angriff: n/v
+Schaden: n/v
+Status: completed
 linter-yaml-title-alias: Wasser erschaffen oder zerstören
 classes:
   - Bard (Magical Secrets)
@@ -23,29 +26,18 @@ aliases:
   - Wasser erschaffen oder zerstören
 ---
 # Wasser erschaffen oder zerstören
-*1st-level, Transmutation*  
+*Verwandlung des 1. Grades*
 
-- **Casting time:** 1 Action
-- **Range:** 30 feet
-- **Components:** V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
-- **Duration:** Instantaneous
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite:** 9 Meter
+- **Komponenten:** V, G, M (ein Tropfen Wasser, wenn du Wasser erschaffen willst, oder einige Sandkörner, wenn du es zerstören möchtest.)
+- **Wirkungsdauer:** Unmittelbar
 
-You either create or destroy water.
+Du erschaffst oder zerstörst Wasser.
+$\quad$**Wasser erschaffen:** Du erschaffst bis zu 40 Liter sauberen Wassers in einem offenen Behälter in Reichweite. Alternativ fällt das Wasser als Regen in einem Würfel mit 9 m Kantenlänge in Reichweite. Flammen, die dem Regen ausgesetzt sind, erlöschen.
+$\quad$**Wasser zerstören:** Du zerstörst bis zu 40 Liter Wasser in einem offenen Behälter in Reichweite. Alternativ kannst du Nebel in einem Würfel mit 9 m Kantenlänge in Reichweite zerstören.
+$\quad$**Auf höheren Graden:** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, kannst du für jeden Grad über den 3. hinaus entweder zusätzlich 40 Liter Wasser erschaffen oder zerstören oder die Kantenlänge des Würfels um 1,50 m vergrößern.
 
-## Create Water
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Kleriker](list-spells-classes-cleric.md)
 
-You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.
-
-## Destroy Water
-
-You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.
-
-## At Higher Levels
-
-When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
-
-## Summary
-
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
-
-*Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch S. 284. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -34,6 +34,6 @@ You can refrain from firing the globe after completing the spell's casting. If y
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 6.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard (Evoker)](list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Freezing Sphere") and the Free Rules (2024)*

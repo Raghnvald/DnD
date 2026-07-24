@@ -35,6 +35,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md). When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) or two [ghasts](/3-Mechanics/CLI/bestiary/undead/ghast.md) or [wights](/3-Mechanics/CLI/bestiary/undead/wight.md). When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md), three [ghasts](/3-Mechanics/CLI/bestiary/undead/ghast.md) or [wights](/3-Mechanics/CLI/bestiary/undead/wight.md), or two [mummies](/3-Mechanics/CLI/bestiary/undead/mummy.md).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -36,6 +36,6 @@ Du erfüllst eine Kreatur mit positiver Energie, um einen schwächenden Effekt a
 - Jegliche Verringerung der Attributswerte des Ziels. 
 - Ein Effekt, der die maximalen Trefferpunkte des Ziels senkt.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Kleriker](Listen/list-spells-classes-cleric.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Kleriker](list-spells-classes-cleric.md)
 
 *Quelle: Spielerhandbuch S. 281. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

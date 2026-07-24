@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Nahrung und Wasser reinigen
+Original: Purify Food and Drink
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: 3 Meter
 Komponenten: V, G
 Wirkungsdauer: Unmittelbar
-Angriff:
-Schaden:
-Status: WIP
+Angriff: n/v
+Schaden: n/v
+Status: completed
 linter-yaml-title-alias: Nahrung und Wasser reinigen
 classes:
   - Bard (Magical Secrets)
@@ -30,15 +31,15 @@ aliases:
   - Nahrung und Wasser reinigen
 ---
 # Nahrung und Wasser reinigen
-*1st-level, Transmutation (ritual)*  
+*Verwandlung des 1. Grades (Ritual)*
 
-- **Casting time:** 1 Action unless cast as a ritual
-- **Range:** 10 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** 3 Meter
+- **Komponenten:** V, G
+- **Wirkungsdauer:** Unmittelbar
 
-All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+Alle nicht-magischen Nahrungsmittel und Getränke in einer Sphäre mit einem Radius von 1,50 m, zentriert um einen Punkt deiner Wahl in Reichweite, werden gereinigt und von Giften und Krankheiten befreit.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-paladin|Paladin]]
 
-*Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch S. 253. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

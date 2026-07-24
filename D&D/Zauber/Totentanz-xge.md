@@ -39,6 +39,6 @@ The creatures are under your control until the spell ends, after which they beco
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-spells-classes-bard.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 153*

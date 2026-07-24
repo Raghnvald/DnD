@@ -22,6 +22,6 @@ aliases:
 
 You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high [Cylinder](/3-Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md) centered on that point makes a Dexterity saving throw. A creature takes `8d8` Force damage on a failed save or half as much damage on a successful one.
 
-**Classes**: [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 255*

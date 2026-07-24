@@ -57,7 +57,7 @@ Your experience on the battlefield has refined your fighting techniques. You lea
 
 #### Maneuvers
 
-You learn three maneuvers of your choice from the "Maneuvers Options^[Optional features from [Maneuver, Battle Master](/3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md); defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+You learn three maneuvers of your choice from the "Maneuvers Options^[Optional features from [Maneuver, Battle Master](list-optfeaturetype-mv-b.md); defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
@@ -100,5 +100,5 @@ Your Superiority Die becomes a `d12`.
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Battle Master
-> ![Maneuver, Battle Master](/3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
+> ![Maneuver, Battle Master](list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
 ^list-optfeature-mv-b

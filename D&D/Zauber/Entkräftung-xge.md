@@ -38,6 +38,6 @@ $\quad$Immer wenn der Zauber einem Ziel Schaden zufügt, erhältst du Trefferpun
 
 $\quad$**Auf höheren Graden.** Wenn du diesen Zauber mit einem Zauberplatz des 6. Grades oder höher verwendest, erhöht sich der Schaden um `1W8` für jeden Zauberplatz-Grad über dem fünften.
 
-**Klassen**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Quelle: Xanathar's Guide to Everything p. 155*

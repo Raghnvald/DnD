@@ -31,6 +31,6 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 334*

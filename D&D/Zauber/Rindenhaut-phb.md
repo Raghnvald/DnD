@@ -34,6 +34,6 @@ aliases:
 
 Du berührst eine bereitwillige Kreatur. Bis der Zauber endet, wird die Haut des Ziels rau und rindenartig und seine RK beträgt mindestens 16, egal, welche Rüstung es trägt.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

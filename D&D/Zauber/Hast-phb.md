@@ -42,6 +42,6 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Grassland)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Grassland)](list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](list-spells-classes-oath-of-vengeance.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

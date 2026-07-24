@@ -426,5 +426,5 @@ At 20th level, you become an unparalleled hunter of your enemies. Once on each o
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Ranger
-> ![Fighting Style, Ranger](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-r.md#Fighting%20Style,%20Ranger)
+> ![Fighting Style, Ranger](list-optfeaturetype-fs-r.md#Fighting%20Style,%20Ranger)
 ^list-optfeature-fs-r

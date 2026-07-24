@@ -39,6 +39,6 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-spells-classes-bard.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 168*

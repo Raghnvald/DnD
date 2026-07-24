@@ -37,6 +37,6 @@ A [remove curse](/3-Mechanics/CLI/spells/remove-curse.md) or [greater restoratio
 
 **At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Trickery Domain)](list-spells-classes-trickery-domain.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -30,6 +30,6 @@ This spell reverses gravity in a 50-foot-radius, 100-foot high [Cylinder](/3-Mec
 
 If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the [Cylinder](/3-Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md)'s top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

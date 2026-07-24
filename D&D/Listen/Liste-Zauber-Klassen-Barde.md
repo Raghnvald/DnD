@@ -13,27 +13,6 @@ aliases:
 
 ## Zaubertricks
 
-```base
-filters:
-  and:
-    - '!file.name.endsWith("-xphb")'
-formulas:
-  Bezeichnung: link(file, Bezeichnung)
-views:
-  - type: list
-    name: Zaubertricks
-    filters:
-      and:
-        - file.tags.contains("Klasse/Barde")
-        - file.tags.contains("Zauber/Grad/2")
-    order:
-      - formula.Bezeichnung
-      - Zeitaufwand
-      - Reichweite
-      - Komponenten
-      - Wirkungsdauer
-```
-
 | Bezeichnung                                                                  | Zeitaufwand   | Reichweite                | Komponenten | Wirkungsdauer                  |
 | ---------------------------------------------------------------------------- | ------------- | ------------------------- | ----------- | ------------------------------ |
 | [[Ausbessern-phb.md\|Ausbessern]]                                 | 1 Minute      | Berührung                 | V, G, M     | Unmittelbar                    |

@@ -40,6 +40,6 @@ aliases:
 
 Du berührst eine bereitwillige Kreatur. Einmal während der Wirkungsdauer kann das Ziel mit einem `W4` würfeln und das Ergebnis auf einen Rettungswurf seiner Wahl addieren. Es kann sich vor oder nach dem Rettungswurf entscheiden, den Würfel einzusetzen. Anschließend endet der Zauber.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Cleric](list-spells-classes-cleric.md); [Druid (Circle of the Land, Arctic)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

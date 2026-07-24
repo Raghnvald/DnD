@@ -36,6 +36,6 @@ Flammengleiches Licht senkt sich auf eine Kreatur herab, die sich in Reichweite 
 
 Der Schaden dieses Zaubers steigt jeweils um `1d8` bei Erreichen der 5. (`2d8`), 11. (`3d8`) und 17. Stufe (`4d8`).
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Kleriker](list-spells-classes-cleric.md)
 
 *Quelle: Spielerhandbuch S. 239. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

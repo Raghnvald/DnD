@@ -34,6 +34,6 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 **At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-spells-classes-bard.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

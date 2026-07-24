@@ -62,6 +62,6 @@ If the target is native to a different plane of existence than the one you're on
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](list-spells-classes-oath-of-vengeance.md); [Paladin](list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

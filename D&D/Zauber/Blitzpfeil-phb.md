@@ -32,6 +32,6 @@ The piece of ammunition or weapon then returns to its normal form.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by `1d8` for each slot level above 3rd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 255*

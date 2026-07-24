@@ -47,6 +47,6 @@ $\quad$Dieser könnte die Energie erneut überspringen lassen. Eine Kreatur kann
 
 $\quad$**Auf höheren Graden.** Wenn du diesen Zauber mit einem Zauberplatz des 2. Grades oder höher wirkst, nimmt jedes Ziel für jeden Zauberplatz-Grad über dem ersten `1W6` zusätzlichen Schaden vom erwürfelten Typ
 
-**Klassen**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Klassen**: [Sorcerer](list-spells-classes-sorcerer.md)
 
 *Quelle: Xanathar's Guide to Everything p. 151*

@@ -2,6 +2,11 @@
 Bezeichnung: Tongues
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
+Reichweite: Berührung
+Komponenten: V, M
+Wirkungsdauer: 1 Stunde
+Angriff: n/v
+Schaden: n/v
 Status: WIP
 linter-yaml-title-alias: Tongues
 classes:
@@ -27,15 +32,20 @@ aliases:
   - Tongues
 ---
 # Tongues
-*3rd-level, Divination*  
+*3rd-level, Divination*
+
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** 9 Meter
+- **Komponenten:** V, G, M (ein Stück Kork)
+- **Wirkungsdauer:** 1 Stunde
 
 - **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, M (a small clay model of a ziggurat)
+- **Components:** V, M (ein kleines Lehmmodell einer Zikkurat)
 - **Duration:** 1 hour
 
-This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
+Dieser Zauber gewährt der Kreatur, die du berührst, die Fähigkeit, jede gesprochene Sprache zu verstehen, die sie hört. Wenn das Ziel spricht, können außerdem alle Kreaturen verstehen, was es sagt, die mindestens eine Sprache beherrschen und das Zielhören.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -32,6 +32,6 @@ A storm of fire appears within range. The area of the storm consists of up to te
 
 Flammable objects in the area that aren't being worn or carried start [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md).
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

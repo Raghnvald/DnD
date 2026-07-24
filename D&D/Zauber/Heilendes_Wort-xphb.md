@@ -35,6 +35,6 @@ A creature of your choice that you can see within range regains [Hit Points](/3-
 
 **Using a Higher-Level Spell Slot.** The healing increases by `2d4` for each spell slot level above 1.
 
-**Classes**: [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Artificer (Alchemist)](list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

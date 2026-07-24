@@ -29,6 +29,6 @@ One creature of your choice that you can see within range hears a discordant mel
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer (Aberrant Sorcery)](list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

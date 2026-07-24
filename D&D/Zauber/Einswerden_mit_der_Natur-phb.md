@@ -45,6 +45,6 @@ Du erhältst sofort Wissen über bis zu drei Fakten deiner Wahl zu einem der fol
 
 Beispielsweise könntest du herausfinden, wo sich in dieser Gegend ein mächtiger Untoter aufhält, sich Trinkwasserquellen befinden und nahe Städte liegen.
 
-**Classes**: [Barbarian (Path of the Totem Warrior)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Barbarian (Path of the Totem Warrior)](list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Arctic)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](list-spells-classes-oath-of-the-ancients.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

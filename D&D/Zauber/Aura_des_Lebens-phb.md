@@ -33,6 +33,6 @@ aliases:
 
 Lebenserhaltende Energie entströmt dir und erschafft eine Aura mit 9 m Radius. Bis der Zauber endet bewegt sich die Aura mit dir als Mittelpunkt fort. Alle nicht feindlichen Kreaturen innerhalb der Aura (inklusive dir selbst) erhalten eine Resistenz gegen nekrotischen Schaden, außerdem können ihre maximalen Trefferpunkte nicht verringert werden. Zusätzlich erlangen nicht feindliche, lebende Kreaturen 1 Trefferpunkt zurück, wenn sie ihren Zug in der Aura beginnen und 0 Trefferpunkte besitzen.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Quelle: Spielerhandbuch S. 216*

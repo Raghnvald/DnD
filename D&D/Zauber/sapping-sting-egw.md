@@ -30,6 +30,6 @@ You sap the vitality of one creature you can see in range. The target must succe
 
 This spell's damage increases by `dice:1d4|noform|noparens|avg` (`1d4`) when you reach 5th level (`dice:2d4|noform|noparens|avg` (`2d4`)), 11th level (`dice:3d4|noform|noparens|avg` (`3d4`)), and 17th level (`dice:4d4|noform|noparens|avg` (`4d4`)).
 
-**Classes**: [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB")
+**Classes**: [Cleric (Death Domain)](list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB")
 
 *Source: Explorer's Guide to Wildemount p. 189*

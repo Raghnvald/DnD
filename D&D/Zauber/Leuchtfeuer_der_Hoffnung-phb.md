@@ -29,6 +29,6 @@ aliases:
 
 Dieser Zauber verleiht Hoffnung und Lebenskraft. Wähle eine beliebige Anzahl Kreaturen in Reichweite aus. Während der Wirkungsdauer ist jedes Ziel bei Weisheits- und Todesrettungswürfen im Vorteil und gewinnt durch Heilung die maximal mögliche Anzahl an Trefferpunkten zurück.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Life Domain)](list-spells-classes-life-domain.md); [Cleric](list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](list-spells-classes-oath-of-devotion.md)
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

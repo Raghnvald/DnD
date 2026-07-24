@@ -34,6 +34,6 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `1d8` for each slot level above 5th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Arctic)](list-spells-classes-circle-of-the-land.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

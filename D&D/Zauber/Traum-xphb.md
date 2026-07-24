@@ -34,6 +34,6 @@ If the target is awake when you cast the spell, the messenger knows it and can e
 
 You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes `3d6` Psychic damage when it wakes up.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-spells-classes-bard.md); [Warlock](list-spells-classes-warlock.md); [Wizard (Illusionist)](list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

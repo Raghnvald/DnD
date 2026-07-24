@@ -45,6 +45,6 @@ The creature is an ally to you and your allies. In combat, it shares your [Initi
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Barde](Listen/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Barde](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 322*

@@ -36,6 +36,6 @@ Dein Zauber stärkt die Entschlossenheit und Zähigkeit deiner Verbündeten. Wä
 
 **Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 3. oder eines höheren Grades wirkst, steigen die Trefferpunkte des Ziels zusätzlich um 5 für jeden Grad über den 2. hinaus.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

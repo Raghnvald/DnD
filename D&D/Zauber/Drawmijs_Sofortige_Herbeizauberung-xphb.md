@@ -36,6 +36,6 @@ Thereafter, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to 
 
 If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons") and the Free Rules (2024)*

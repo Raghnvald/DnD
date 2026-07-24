@@ -43,6 +43,6 @@ The spell can locate a specific creature known to you, or the nearest creature o
 
 This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Swamp)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid (Circle of the Land, Swamp)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Paladin](list-spells-classes-paladin.md); [Ranger](list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

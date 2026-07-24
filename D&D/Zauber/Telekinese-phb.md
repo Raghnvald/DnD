@@ -45,6 +45,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Great Old One)](/3-Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock (The Great Old One)](list-spells-classes-the-great-old-one.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

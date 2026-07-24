@@ -30,6 +30,6 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 228*

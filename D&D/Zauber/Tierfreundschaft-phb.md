@@ -39,6 +39,6 @@ Mit diesem Zauber kannst du ein Tier davon überzeugen, dass du ihm nichts Böse
 
 **Auf höheren Graden.** Wirkst du diesen Zauber, indem du einen Zauberplatz des 2. Grades oder höher nutzt, kann für jeden Grad über dem 1. ein zusätzliches Tier betroffen sein.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-spells-classes-bard.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid](list-spells-classes-druid.md); [Ranger](list-spells-classes-ranger.md)
 
 *Quellen: Spielerhandbuch S. 212. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

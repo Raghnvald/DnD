@@ -32,6 +32,6 @@ You try to compel a creature into a duel. One creature that you can see within r
 
 The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 252*

@@ -43,6 +43,6 @@ For the duration, you sense the location of any Aberration, Celestial, Elemental
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Genie, Dao)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Genie, Dao)](list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

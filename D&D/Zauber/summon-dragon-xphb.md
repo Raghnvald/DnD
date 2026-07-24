@@ -35,6 +35,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Draconic Sorcery)](list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

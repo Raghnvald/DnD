@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Bulezau
+Quelle: MPMM, VEOR
 ---
 # [Bulezau](3-Mechanics\CLI\bestiary\fiend/bulezau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67*  

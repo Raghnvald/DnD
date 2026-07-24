@@ -38,6 +38,6 @@ Du schützt eine Kreatur in Reichweite vor Angriffen. Bis der Zauber endet, müs
 
 Wenn die geschützte Kreatur angreift oder einen Spruch wirkt, der eine gegnerische Kreatur betrifft, oder anderweitig Schaden anrichtet, endet dieser Zauber.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Mönch (Weg der Offenen Hand)](Listen/list-spells-classes-way-of-the-open-hand.md); [Paladin (Schwur der Hingabe)](Listen/list-spells-classes-oath-of-devotion.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Kleriker](list-spells-classes-cleric.md); [Mönch (Weg der Offenen Hand)](list-spells-classes-way-of-the-open-hand.md); [Paladin (Schwur der Hingabe)](list-spells-classes-oath-of-devotion.md)
 
 *Quelle: Spielerhandbuch S. 239. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

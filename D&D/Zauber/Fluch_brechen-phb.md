@@ -40,6 +40,6 @@ aliases:
 
 Auf deine Berührung hin enden alle Flüche, die eine Kreatur oder einen Gegenstand betreffen. Ist der verfluchte Gegenstand magisch, bleibt der Fluch bestehen, aber der Zauber bricht die Einstimmung des Besitzers mit dem Gegenstand, sodass dieser abgelegt oder weggeworfen werden kann.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Hexenmeister](Listen/list-spells-classes-warlock.md); [Kämpfer (Mystischer Ritter)](Listen/list-spells-classes-eldritch-knight.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Magier](Listen/list-spells-classes-wizard.md); [Paladin](Listen/list-spells-classes-paladin.md); [Schurke (Arkaner Betrüger)](Listen/list-spells-classes-arcane-trickster.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Hexenmeister](list-spells-classes-warlock.md); [Kämpfer (Mystischer Ritter)](list-spells-classes-eldritch-knight.md); [Kleriker](list-spells-classes-cleric.md); [Magier](list-spells-classes-wizard.md); [Paladin](list-spells-classes-paladin.md); [Schurke (Arkaner Betrüger)](list-spells-classes-arcane-trickster.md)
 
 *Quelle: Spielerhandbuch S. 232. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

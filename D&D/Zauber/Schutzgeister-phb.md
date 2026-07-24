@@ -37,6 +37,6 @@ Beim Wirken des Zaubers kannst du eine beliebige Anzahl von Kreaturen wählen, d
 
 **Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 4. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 3. hinaus um `1d8`.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md); [Kleriker (Domäne Krieg)](Listen/list-spells-classes-war-domain.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Kleriker](list-spells-classes-cleric.md); [Kleriker (Domäne Krieg)](list-spells-classes-war-domain.md)
 
 *Quelle: Spielerhandbuch S. 262. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

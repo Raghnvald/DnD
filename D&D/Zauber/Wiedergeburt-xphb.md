@@ -40,6 +40,6 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

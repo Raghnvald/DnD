@@ -39,6 +39,6 @@ You do one of the following:
 
 **Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) increases by 5 feet, for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](/3-Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

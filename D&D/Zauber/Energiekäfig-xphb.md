@@ -43,6 +43,6 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md).
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md); [Wizard (Evoker)](list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

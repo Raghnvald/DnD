@@ -31,6 +31,6 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `1d6` for each slot level above 6th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Freezing Sphere")*

@@ -36,6 +36,6 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (War Domain)](list-spells-classes-war-domain.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Paladin](list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

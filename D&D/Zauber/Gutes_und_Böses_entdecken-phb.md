@@ -1,13 +1,14 @@
 ---
 Bezeichnung: Gutes und Böses entdecken
+Original: Detect Evil and Good
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
 Komponenten: V, G
 Wirkungsdauer: Konzentration, bis zu 10 Minuten
-Angriff:
-Schaden:
-Status: WIP
+Angriff: n/v
+Schaden: n/v
+Status: completed
 linter-yaml-title-alias: Gutes und Böses entdecken
 classes:
   - Bard (Magical Secrets)
@@ -25,17 +26,16 @@ aliases:
   - Gutes und Böses entdecken
 ---
 # Gutes und Böses entdecken
-*1st-level, Divination*  
+*Erkenntnismagie des 1. Grades*
 
-- **Casting time:** 1 Action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Concentration, up to 10 minutes
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** selbst
+- **Komponenten:** V, G
+- **Wirkungsdauer:** Konzentration, bis zu 10 Minuten
 
-For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
+Für die Wirkungsdauer weißt du, ob sich Aberrationen, celestische Wesen, Elementare, Feenwesen, Unholde oder Untote im Umkreis von 9 m befinden. Falls sich derartige Kreaturen in deiner Nähe aufhalten, kennst du ihre genaue Position. Gleichermaßen weißt du, ob sich im Umkreis von 9 m Orte oder Gegenstände befinden, die magisch geweiht oder entweiht wurden.
+$\quad$Der Zauber kann die meisten Hindernisse durchdringen, wird aber blockiert von 30 cm Stein, 2,5 cm gewöhnlichem Metall, einer dünnen Schicht Blei oder 90 cm Holz oder Erde.
 
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-paladin|Paladin]]
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
-
-*Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielerhandbuch S. 238. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -44,6 +44,6 @@ Ongoing spells, except those cast by an Artifact or a deity, are suppressed in t
 
 [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) has no effect on the aura, and the auras created by different [Antimagic Field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md) spells don't nullify each other.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard (Abjurer)](list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -36,6 +36,6 @@ Bis zu zehn Beeren erscheinen in deiner Hand und werden für die Wirkungsdauer m
 
 Die Beere verliert ihre Macht, wenn sie nicht innerhalb von 24 Stunden nach dem Wirken des Zaubers verzehrt wird.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Waldläufer](Listen/list-spells-classes-ranger.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Waldläufer](list-spells-classes-ranger.md)
 
 *Quellen: Spielerhandbuch S. 238. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

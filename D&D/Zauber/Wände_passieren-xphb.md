@@ -28,6 +28,6 @@ A passage appears at a point that you can see on a wooden, plaster, or stone sur
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-**Classes**: [Artificer (Armorer)](/3-Mechanics/CLI/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer (Armorer)](list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Bard](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

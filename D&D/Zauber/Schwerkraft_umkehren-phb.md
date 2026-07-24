@@ -39,6 +39,6 @@ Wenn ein fester Gegenstand (wie eine Zimmerdecke) bei dem umgekehrten Sturz im W
 
 Am Ende der Wirkungsdauer fallen betroffene Gegenstände und Kreaturen wieder nach unten.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Magier](Listen/list-spells-classes-wizard.md); [Zauberer](Listen/list-spells-classes-sorcerer.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Magier](list-spells-classes-wizard.md); [Zauberer](list-spells-classes-sorcerer.md)
 
 *Quelle: Spielerhandbuch S. 263. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

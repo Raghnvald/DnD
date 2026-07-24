@@ -27,6 +27,6 @@ You open a gateway to the dark between the stars, a region infested with unknown
 
 The void creates a warp in the fabric of space, and the area is difficult terrain. Any creature that starts its turn in the area takes `2d6` cold damage. Any creature that ends its turn in the area must succeed on a Dexterity saving throw or take `2d6` acid damage as milky, otherworldly tentacles rub against it.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook p. 251*

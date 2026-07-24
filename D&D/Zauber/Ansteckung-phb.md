@@ -56,6 +56,6 @@ Die Kreatur beginnt heftig zu bluten. Sie ist im Nachteil bei Würfen auf `Konst
 ## Schmutzfieber
 Ein rasendes Fieber schwächt den Körper der Kreatur. Sie ist im Nachteil bei Würfen auf `Stärke`, `Stärke-Rettungswürfen` und Angriffswürfen, die Stärke verwenden.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-oathbreaker-dmg|Paladin (Eidbrecher)]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-oathbreaker-dmg|Paladin (Eidbrecher)]]
 
 *Quellen: Spielerhandbuch S. 227. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

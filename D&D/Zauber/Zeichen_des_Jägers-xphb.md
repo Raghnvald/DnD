@@ -36,6 +36,6 @@ If the target drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
-**Classes**: [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Paladin (Oath of Vengeance)](list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

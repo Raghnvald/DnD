@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Maurezhi
+Quelle: MPMM, VEOR
 ---
 # [Maurezhi](3-Mechanics\CLI\bestiary\fiend/maurezhi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175*  

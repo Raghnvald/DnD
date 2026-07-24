@@ -40,6 +40,6 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (Celestial Patron)](list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

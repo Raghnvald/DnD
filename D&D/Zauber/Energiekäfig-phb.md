@@ -55,6 +55,6 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

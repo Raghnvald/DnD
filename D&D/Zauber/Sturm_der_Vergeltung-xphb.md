@@ -44,6 +44,6 @@ Gusts and freezing rain assail the area under the cloud. Each creature there tak
 
 ## Summary
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard](list-spells-classes-barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

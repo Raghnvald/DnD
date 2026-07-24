@@ -35,6 +35,6 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 A creature [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock (The Great Old One)](/3-Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Warlock (The Great Old One)](list-spells-classes-the-great-old-one.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Black Tentacles")*

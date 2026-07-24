@@ -43,6 +43,6 @@ If the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) or [Charmed](/3-M
 
 ## Summary
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

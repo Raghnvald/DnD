@@ -36,6 +36,6 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the [Deafened](/3-Mechanics/CLI/conditions.md#Deafened) condition for 1 minute. |
 ^divine-word-effects
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -32,6 +32,6 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `1d6` for every two slot levels above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

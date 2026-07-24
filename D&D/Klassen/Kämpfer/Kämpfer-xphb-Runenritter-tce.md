@@ -139,5 +139,5 @@ You learn how to amplify your rune-powered transformation. As a result, the extr
 ## Optional Features
 
 > [!example]- Optional Features: Rune Knight Rune
-> ![Rune Knight Rune](/3-Mechanics/CLI/lists/list-optfeaturetype-rn.md#Rune%20Knight%20Rune)
+> ![Rune Knight Rune](list-optfeaturetype-rn.md#Rune%20Knight%20Rune)
 ^list-optfeature-rn

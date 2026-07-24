@@ -37,6 +37,6 @@ Until the spell ends, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rul
 
 **Using a Higher-Level Spell Slot.** The creature's Slam damage increases by `1d4` (Medium or smaller), `1d6` (Large), or `1d12` (Huge) for each spell slot level above 5.
 
-**Classes**: [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](list-spells-classes-artificer.md); [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Forge Domain)](list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

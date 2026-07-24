@@ -1,8 +1,15 @@
 ---
-Bezeichnung: Water Breathing
+Bezeichnung: Wasser atmen
+Original: Water Breathing
 Zaubergrad: 3
-Status: WIP
-linter-yaml-title-alias: Water Breathing
+Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: 24 Stunde
+Angriff: n/v
+Schaden: n/v
+Status: completed
+linter-yaml-title-alias: Wasser atmen
 classes:
   - Bard (Magical Secrets)
   - Druid
@@ -26,18 +33,19 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Verwandlung
 aliases:
-  - Water Breathing
+  - Wasser atmen
 ---
-# Water Breathing
-*3rd-level, Transmutation (ritual)*  
+# Wasser atmen
+*Verwandlung des 3. Grades (Ritual)*
 
-- **Casting time:** 1 Action unless cast as a ritual
-- **Range:** 30 feet
-- **Components:** V, S, M (a short reed or piece of straw)
-- **Duration:** 24 hours
+- **Zeitaufwand:** 1 Aktion
+- **Reichweite / Fläche:** 9 Meter
+- **Komponenten:** V, G, M (ein kurzes Schilfrohr oder ein Stück Stroh)
+- **Wirkungsdauer:** 24 Stunde
 
-This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
+Dieser Zauber gewährt bis zu zehn bereitwilligen Kreaturen, die du sehen kannst, für die Wirkungsdauer die Fähigkeit, unter Wasser zu atmen. Betroffene Kreaturen behalten auch ihre normale Art zu atmen.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Coast)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: 
+[Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Druide (Zirkel des Landes, Küste)](list-spells-classes-circle-of-the-land.md); [Kämpfer (Mystischer Ritter)](list-spells-classes-eldritch-knight.md); [Magier](list-spells-classes-wizard.md); [Schurke (Arkaner Betrüger)](list-spells-classes-arcane-trickster.md); [Waldläufer](list-spells-classes-ranger.md); [Zauberer](list-spells-classes-sorcerer.md)
 
-*Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quellen: Spielerhandbuch S. 284. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>* 

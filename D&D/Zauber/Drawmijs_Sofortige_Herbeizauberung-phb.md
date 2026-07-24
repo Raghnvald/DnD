@@ -38,6 +38,6 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 [Dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md) or a similar effect successfully applied to the sapphire ends this spell's effect.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Instant Summons")*

@@ -40,6 +40,6 @@ $\quad$Alle nicht­magischen Gegenstände oder Gebilde aus magischer Energie der
 
 **_Auf höheren Graden._** Wenn du diesen Spruch mit einem Zauberplatz des 7. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 6. hinaus um `3W6`.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 233. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

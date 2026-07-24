@@ -35,6 +35,6 @@ The flaming blade sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-lig
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 2.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (College of Lore)](list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

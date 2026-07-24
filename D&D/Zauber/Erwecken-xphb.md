@@ -26,6 +26,6 @@ You spend the casting time tracing magical pathways within a precious gemstone, 
 
 The awakened target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

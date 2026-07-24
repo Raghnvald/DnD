@@ -44,6 +44,6 @@ aliases:
 
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.
 
-**Classes**: [Barbarian (Path of the Totem Warrior)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Barbarian (Path of the Totem Warrior)](list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid](list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](list-spells-classes-oath-of-the-ancients.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

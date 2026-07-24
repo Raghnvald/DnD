@@ -354,7 +354,7 @@ Yes. Being [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) at the sta
 
 #### Metamagic rules state you can't use multiple Metamagic options on a single spell. Can you use one option multiple times?
 
-A [Sorcerer](3-Mechanics/CLI/classes/sorcerer-xphb.md) can use one [Metamagic option](3-Mechanics/CLI/lists/list-optfeaturetype-mm.md) once in the casting of a spell, not the same option more than once. For instance, a Sorcerer can't quadruple the duration of a spell by spending 2 [Sorcery Points](3-Mechanics/CLI/classes/sorcerer-xphb.md#Font%20of%20Magic%20(Level%202)) on [Extended Spell](3-Mechanics/CLI/optional-features/extended-spell-xphb.md).
+A [Sorcerer](3-Mechanics/CLI/classes/sorcerer-xphb.md) can use one [Metamagic option](list-optfeaturetype-mm.md) once in the casting of a spell, not the same option more than once. For instance, a Sorcerer can't quadruple the duration of a spell by spending 2 [Sorcery Points](3-Mechanics/CLI/classes/sorcerer-xphb.md#Font%20of%20Magic%20(Level%202)) on [Extended Spell](3-Mechanics/CLI/optional-features/extended-spell-xphb.md).
 
 #### In Draconic Sorcery, Elemental Affinity improves one damage roll of a spell, not multiple rolls. So with Scorching Ray, I don't add my Charisma modifier to each ray that hits?
 

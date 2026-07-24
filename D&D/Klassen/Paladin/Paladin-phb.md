@@ -306,7 +306,7 @@ _Source: Tasha's Cauldron of Everything p. 52_
 
 *4th-level paladin <span title="Tasha's Cauldron of Everything">optional feature</span>*
 
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [fighting style](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-p.md) you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [fighting style](list-optfeaturetype-fs-p.md) you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
 
 ### Extra Attack (Level 5)
 
@@ -377,5 +377,5 @@ At 20th level, you gain a feature granted to you by your Sacred Oath.
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Paladin
-> ![Fighting Style, Paladin](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-p.md#Fighting%20Style,%20Paladin)
+> ![Fighting Style, Paladin](list-optfeaturetype-fs-p.md#Fighting%20Style,%20Paladin)
 ^list-optfeature-fs-p

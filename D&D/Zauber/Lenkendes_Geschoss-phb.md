@@ -34,6 +34,6 @@ Ein Lichtblitz schießt auf eine Kreatur deiner Wahl in Reichweite zu. Führe ei
 
 **Auf höheren Graden.** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 1. hinaus um `1d6`.
 
-**Klassen**: [Barde (Magische Geheimnisse)](Listen/list-spells-classes-bard.md); [Kleriker](Listen/list-spells-classes-cleric.md)
+**Klassen**: [Barde (Magische Geheimnisse)](Liste-Zauber-Klassen-Barde.md); [Kleriker](list-spells-classes-cleric.md)
 
 *Quelle: Spielerhandbuch S. 245. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

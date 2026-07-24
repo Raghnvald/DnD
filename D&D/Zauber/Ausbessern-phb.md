@@ -52,6 +52,6 @@ Dieser Zauber repariert eine Bruchstelle oder einen Riss in einem Gegenstand, de
 
 Dieser Zauber kann die physische Form eines magischen Gegenstands oder Konstrukts reparieren, jedoch nicht dessen Magie wiederherstellen.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-circle-of-the-land|Druide (Zirkel des Landes, Arktis)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-nature-domain|Kleriker (Domäne Natur)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-druid|Druide]]; [[list-spells-classes-circle-of-the-land|Druide (Zirkel des Landes, Arktis)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-nature-domain|Kleriker (Domäne Natur)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 259. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

@@ -38,6 +38,6 @@ Du berührst eine geschlossene Tür, ein Fenster, Tor, eine Kiste oder einen and
 
 Solange der Gegenstand von diesem Zauber betroffen wird, ist er schwieriger zu zerstören oder aufzubrechen: Der SG eines Wurfes, um den Gegenstand zu zerbrechen oder zu knacken, steigt um 10.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-wizard|Magier]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-eldritch-knight|Kämpfer (Mystischer Ritter)]]; [[list-spells-classes-arcane-trickster|Schurke (Arkaner Betrüger)]]; [[list-spells-classes-wizard|Magier]]
 
 *Quellen: Spielerhandbuch S. 215. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

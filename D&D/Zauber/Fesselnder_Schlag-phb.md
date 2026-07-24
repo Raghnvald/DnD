@@ -37,6 +37,6 @@ While [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by this spell, the
 
 **At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin (Oath of the Ancients)](list-spells-classes-oath-of-the-ancients.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 237*

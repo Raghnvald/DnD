@@ -43,6 +43,6 @@ A creature [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by the webs c
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing `2d4` fire damage to any creature that starts its turn in the fire.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Underdark)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Underdark)](list-spells-classes-circle-of-the-land.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

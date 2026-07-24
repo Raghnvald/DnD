@@ -28,6 +28,6 @@ This spell wards a willing creature you touch and creates a mystic connection be
 
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

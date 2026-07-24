@@ -39,6 +39,6 @@ Dieser Zauber erlaubt es dir, das Aussehen einer beliebigen Anzahl von Kreaturen
 $\quad$Die Veränderungen durch diesen Zauber halten einer körperlichen Untersuchung nicht stand. Nutzt du den Spruch beispielsweise, um der Kleidung einer Kreatur einen Hut beizufügen, durchdringen Gegenstände diesen einfach. Jeder, der ihn berührt, würde nichts fühlen oder nur den Kopf und die Haare der Kreatur spüren. Lässt du dich dünner erscheinen, als du bist, würde die Hand von jemandem, der dich berühren will, gegen dich stoßen, obwohl sie scheinbar noch in der Luft schwebt.
 $\quad$Eine Kreatur kann ihre Aktion verwenden, um ein Ziel zu untersuchen. Sie legt einen Wurf auf `Intelligenz` ([[Fertigkeiten-phb#Nachforschungen|Nachforschungen]]) gegen den SG zum Widerstehen deiner Zauber ab. Bei Erfolg bemerkt sie, dass das Ziel auf irgendeine Art verkleidet ist.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-the-archfey|Hexenmeister (Die Erzfee)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-the-archfey|Hexenmeister (Die Erzfee)]]; [[list-spells-classes-wizard|Magier]]; [[list-spells-classes-sorcerer|Zauberer]]
 
 *Quellen: Spielerhandbuch S. 274. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

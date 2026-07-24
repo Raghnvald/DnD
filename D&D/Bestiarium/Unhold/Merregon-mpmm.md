@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/mpmm
 aliases:
   - Merregon
+Quelle: MPMM, VEOR
 ---
 # [Merregon](3-Mechanics\CLI\bestiary\fiend/merregon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179*  

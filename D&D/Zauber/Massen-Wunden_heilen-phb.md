@@ -31,6 +31,6 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the healing increases by `1d8` for each slot level above 5th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Life Domain)](list-spells-classes-life-domain.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

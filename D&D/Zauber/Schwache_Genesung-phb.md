@@ -42,6 +42,6 @@ aliases:
 
 Du berührst eine Kreatur und kannst entweder eine Krankheit kurieren, die sie plagt, oder einen Zustand entfernen, unter dem sie leidet. Dieser Zustand kann einer der folgenden sein: [[Zustände-phb#Blind|blind]], [[Zustände-phb#Gelähmt|gelähmt]], [[Zustände-phb#Taub|taub]] oder [[Zustände-phb#Vergiftet|vergiftet]].
 
-**Klassen**: [Barde(Magical Secrets)](Listen/list-spells-classes-bard.md); [Druide](Listen/list-spells-classes-druid.md); [Kleriker](Listen/list-spells-classes-cleric.md);  [Kleriker (Domäne Leben)](Listen/list-spells-classes-life-domain.md); [Paladin](Listen/list-spells-classes-paladin.md); [Paladin (Schwur der Hingabe)](Listen/list-spells-classes-oath-of-devotion.md);  [Waldläufer](Listen/list-spells-classes-ranger.md)
+**Klassen**: [Barde(Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druide](list-spells-classes-druid.md); [Kleriker](list-spells-classes-cleric.md);  [Kleriker (Domäne Leben)](list-spells-classes-life-domain.md); [Paladin](list-spells-classes-paladin.md); [Paladin (Schwur der Hingabe)](list-spells-classes-oath-of-devotion.md);  [Waldläufer](list-spells-classes-ranger.md)
 
 *Quelle: Spielerhandbuch S. 263. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

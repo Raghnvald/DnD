@@ -39,6 +39,6 @@ With a roar, you draw on the magic of dragons to transform yourself, taking on d
 - **Breath Weapon.** When you cast this spell, and as a bonus action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking `6d8` force damage on a failed save, or half as much damage on a successful one.  
 - **Wings.** Incorporeal wings sprout from your back, giving you a flying speed of 60 feet.  
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid](list-spells-classes-druid.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Fizban's Treasury of Dragons p. 19*

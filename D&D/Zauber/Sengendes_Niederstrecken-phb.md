@@ -33,6 +33,6 @@ The next time you hit a creature with a melee weapon attack during the spell's d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by `1d6` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 274*

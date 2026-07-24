@@ -39,6 +39,6 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 
 A creature [blinded](/3-Mechanics/CLI/conditions.md#Blinded) by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [blinded](/3-Mechanics/CLI/conditions.md#Blinded).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 219*

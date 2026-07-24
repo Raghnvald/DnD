@@ -30,6 +30,6 @@ If the target drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
-**Classes**: [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Warlock (Great Old One Patron)](list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

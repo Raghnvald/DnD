@@ -227,7 +227,7 @@ At 1st level, you have struck a bargain with an otherworldly being chosen from t
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [Optional Features](/3-Mechanics/CLI/lists/list-optfeaturetype-ei.md) page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [Optional Features](list-optfeaturetype-ei.md) page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
@@ -329,9 +329,9 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 ## Optional Features
 
 > [!example]- Optional Features: Eldritch Invocation
-> ![Eldritch Invocation](/3-Mechanics/CLI/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
+> ![Eldritch Invocation](list-optfeaturetype-ei.md#Eldritch%20Invocation)
 ^list-optfeature-ei
 
 > [!example]- Optional Features: Pact Boon
-> ![Pact Boon](/3-Mechanics/CLI/lists/list-optfeaturetype-pb.md#Pact%20Boon)
+> ![Pact Boon](list-optfeaturetype-pb.md#Pact%20Boon)
 ^list-optfeature-pb

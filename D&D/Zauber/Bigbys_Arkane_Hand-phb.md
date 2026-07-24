@@ -47,6 +47,6 @@ Nach dem Wirken des Zaubers und als Bonusaktion in deinen darauffolgenden Zügen
 
 ## Summary
 
-**Klassen**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Klassen**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Wizard](list-spells-classes-wizard.md)
 
 *Quellen: Spielerhandbuch S. 218. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

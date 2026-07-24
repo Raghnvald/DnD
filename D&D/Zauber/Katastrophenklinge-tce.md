@@ -33,6 +33,6 @@ As a bonus action on your turn, you can move the blade up to 30 feet to an unocc
 
 The blade can harmlessly pass through any barrier, including a [wall of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md).
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Tasha's Cauldron of Everything p. 106*

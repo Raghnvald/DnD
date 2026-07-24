@@ -41,6 +41,6 @@ The target is limited in the actions it can perform by the anatomy of its new fo
 
 The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Tropical Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Tropical Land)](list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](list-spells-classes-druid.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

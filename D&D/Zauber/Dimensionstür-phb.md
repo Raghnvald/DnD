@@ -48,6 +48,6 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take `4d6` force damage, and the spell fails to teleport you.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Trickery Domain)](list-spells-classes-trickery-domain.md); [Fighter (Eldritch Knight)](list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](list-spells-classes-oath-of-vengeance.md); [Rogue (Arcane Trickster)](list-spells-classes-arcane-trickster.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

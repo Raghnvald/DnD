@@ -30,6 +30,6 @@ You overwhelm the mind of one creature you can see within range. If the target h
 
 The [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Warlock](list-spells-classes-warlock.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

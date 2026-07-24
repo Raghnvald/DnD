@@ -43,6 +43,6 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid](list-spells-classes-druid.md); [Paladin](list-spells-classes-paladin.md); [Ranger](list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

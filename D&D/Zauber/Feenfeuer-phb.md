@@ -40,6 +40,6 @@ Jeder Gegenstand innerhalb eines Würfels mit 6 m Kantenlänge in Reichweite wir
 
 $\quad$Angriffswürfe gegen betroffene Kreaturen oder Gegenstän de sind im Vorteil, wenn der Angreifer das Ziel sehen kann. Betroffene Kreaturen oder Gegenstände ziehen keinen Nutzen aus Unsichtbarkeit.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (The Archfey)](/3-Mechanics/CLI/lists/list-spells-classes-the-archfey.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Light Domain)](list-spells-classes-light-domain.md); [Druid](list-spells-classes-druid.md); [Warlock (The Archfey)](list-spells-classes-the-archfey.md)
 
 *Source: Player's Handbook p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

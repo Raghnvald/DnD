@@ -29,6 +29,6 @@ aliases:
 
 You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Desert)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric](list-spells-classes-cleric.md); [Druid (Circle of the Land, Desert)](list-spells-classes-circle-of-the-land.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

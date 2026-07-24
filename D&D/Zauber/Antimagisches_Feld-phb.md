@@ -66,6 +66,6 @@ Kreaturen oder Gegenstände, die auf magische Weise erschaffen oder beschworen w
 
 Zauber und magische Effekte wie Magie bannen haben in der Sphäre keine Auswirkungen. Gleicher maßen können sich die Sphären, die von zwei verschie denen Anfiinagischen Feldern erschaffen werden, nicht gegenseitig aufheben.
 
-**Klassen**: [[list-spells-classes-bard|Barde (Magische Geheimnisse)]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-wizard|Magier]]
+**Klassen**: [[Liste-Zauber-Klassen-Barde|Barde (Magische Geheimnisse)]]; [[list-spells-classes-cleric|Kleriker]]; [[list-spells-classes-wizard|Magier]]
 
 *Quellen: Spielerhandbuch S. 212. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

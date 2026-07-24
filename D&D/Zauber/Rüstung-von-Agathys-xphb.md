@@ -34,6 +34,6 @@ Protective magical frost surrounds you. You gain 5 [Temporary Hit Points](/3-Mec
 
 **Using a Higher-Level Spell Slot.** The [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) and the Cold damage both increase by 5 for each spell slot level above 1.
 
-**Classes**: [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Paladin (Oath of Conquest)](list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Warlock](list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 243*

@@ -29,6 +29,6 @@ aliases:
 
 Until the spell ends, your attacks with weapons deal an extra `1d4` Radiant damage on a hit.
 
-**Classes**: [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

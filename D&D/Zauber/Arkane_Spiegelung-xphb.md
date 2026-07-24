@@ -36,6 +36,6 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with [Truesight](/3-Mechanics/CLI/senses.md#Truesight) can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Arcana Domain)](list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](list-spells-classes-druid.md); [Wizard (Illusionist)](list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -40,6 +40,6 @@ Du erschaffst eine lange, rankenartige Peitsche, die mit Dornen bedeckt ist und 
 
 $\quad$Der Schaden dieses Zaubers steigt jeweils um `1W6` bei Erreichen der 5. (`2W6`), 11. (`3W6`) und 17. Stufe (`4W6`).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Nature Domain)](list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](list-spells-classes-circle-of-the-land.md); [Druid](list-spells-classes-druid.md)
 
 *Quellen: Spielerhandbuch S. 282. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

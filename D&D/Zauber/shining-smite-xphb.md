@@ -28,6 +28,6 @@ The target hit by the strike takes an extra `2d6` Radiant damage from the attack
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 2.
 
-**Classes**: [Artificer (Battle Smith)](/3-Mechanics/CLI/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](/3-Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Artificer (Battle Smith)](list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Paladin](list-spells-classes-paladin.md); [Warlock (The Hexblade)](list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

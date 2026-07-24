@@ -55,6 +55,6 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `1d8` for each slot level above 5th.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Druid (Circle of the Land, Underdark)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-spells-classes-bard.md); [Cleric (Death Domain)](list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Druid (Circle of the Land, Underdark)](list-spells-classes-circle-of-the-land.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

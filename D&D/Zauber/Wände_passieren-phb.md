@@ -29,6 +29,6 @@ A passage appears at a point of your choice that you can see on a wooden, plaste
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Mountain)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Druid (Circle of the Land, Mountain)](list-spells-classes-circle-of-the-land.md); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

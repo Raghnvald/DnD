@@ -38,6 +38,6 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Liste-Zauber-Klassen-Barde.md); [Cleric (Life Domain)](list-spells-classes-life-domain.md); [Cleric](list-spells-classes-cleric.md); [Paladin](list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

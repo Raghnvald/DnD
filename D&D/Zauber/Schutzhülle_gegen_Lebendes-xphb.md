@@ -32,6 +32,6 @@ An aura extends from you in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (The Undead)](/3-Mechanics/CLI/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR;class=XPHB")
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Cleric (Death Domain)](list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Grave Domain)](list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](list-spells-classes-druid.md); [Warlock (The Undead)](list-spells-classes-the-undead-vrgr.md "subclass=VRGR;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

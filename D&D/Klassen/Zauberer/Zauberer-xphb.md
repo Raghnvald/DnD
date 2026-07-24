@@ -140,7 +140,7 @@ Any spell slot you create with this feature vanishes when you finish a [Long Res
 
 ### Metamagic (Level 2)
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options^[Optional features from [Metamagic](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options^[Optional features from [Metamagic](list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
@@ -170,7 +170,7 @@ You gain a feature from your Sorcerer subclass.
 
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to activate it.
 
-In addition, while your Innate Sorcery feature is active, you can use up to two of your [Metamagic options](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md) on each spell you cast.
+In addition, while your Innate Sorcery feature is active, you can use up to two of your [Metamagic options](list-optfeaturetype-mm.md) on each spell you cast.
 
 ### Ability Score Improvement (Level 8)
 
@@ -178,7 +178,7 @@ You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-im
 
 ### Metamagic (Level 10)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 
@@ -198,7 +198,7 @@ You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-im
 
 ### Metamagic (Level 17)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 
@@ -219,5 +219,5 @@ While your Innate Sorcery feature is active, you can use one Metamagic option on
 ## Optional Features
 
 > [!example]- Optional Features: Metamagic
-> ![Metamagic](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md#Metamagic)
+> ![Metamagic](list-optfeaturetype-mm.md#Metamagic)
 ^list-optfeature-mm

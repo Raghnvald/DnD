@@ -30,6 +30,6 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md) if it's flammable.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](Liste-Zauber-Klassen-Barde.md); [Sorcerer](list-spells-classes-sorcerer.md); [Wizard (Evoker)](list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
