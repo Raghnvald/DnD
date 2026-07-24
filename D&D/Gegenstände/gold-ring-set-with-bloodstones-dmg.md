@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold ring set with bloodstones
+Original: Gold ring set with bloodstones
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

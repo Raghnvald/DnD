@@ -1,22 +1,24 @@
 ---
-Bezeichnung: Devlin's Staff of Striking
+Bezeichnung: "Devlin's Staff of Striking"
+Original: "Devlin's Staff of Striking"
 Kategorie: Zauberstecken
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
 Kst.: /
 Gew.: 2,0 kg
 Status: WIP
-linter-yaml-title-alias: Devlin's Staff of Striking
+linter-yaml-title-alias: "Devlin's Staff of Striking"
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/toa
 aliases:
-  - Devlin's Staff of Striking
+  - "Devlin's Staff of Striking"
 status: WIP
-Original: Devlin's Staff of Striking
 ---
 # Devlin's Staff of Striking
 *Staff, weapon, cursed item, very rare (requires attunement)*  

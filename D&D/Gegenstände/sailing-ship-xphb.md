@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sailing Ship
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sailing Ship
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Love Bites
-  - Love Bites
 ---
 # Love Bites
 *Source: Astarion's Book of Hungers p. 10*  

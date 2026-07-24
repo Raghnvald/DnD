@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Grappling Hook
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Grappling Hook
 tags:

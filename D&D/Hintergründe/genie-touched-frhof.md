@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Genie Touched
-  - Genie Touched
 ---
 # Genie Touched
 *Source: Forgotten Realms: Heroes of Faerûn p. 30*  

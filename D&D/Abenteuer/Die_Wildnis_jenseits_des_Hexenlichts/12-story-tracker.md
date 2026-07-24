@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Story Tracker
-  - Story Tracker
 ---
 # Story Tracker
 *Source: The Wild Beyond the Witchlight, p. 253* 

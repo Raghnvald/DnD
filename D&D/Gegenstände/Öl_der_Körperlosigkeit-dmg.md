@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Oil of Etherealness
+Original: Oil of Etherealness
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Oil of Etherealness
 tags:

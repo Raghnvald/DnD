@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Orcus
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Wand of Orcus
 tags:

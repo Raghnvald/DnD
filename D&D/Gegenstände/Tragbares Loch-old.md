@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Tragbares Loch
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Eigenschaften:
   - /
 Kst.: /

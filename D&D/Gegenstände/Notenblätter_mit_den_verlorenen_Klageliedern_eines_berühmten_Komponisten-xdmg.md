@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bundle of sheet music representing the lost dirges of a famous composer
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bundle of sheet music representing the lost dirges of a famous composer
 tags:

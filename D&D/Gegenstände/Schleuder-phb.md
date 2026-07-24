@@ -2,6 +2,8 @@
 Bezeichnung: Schleuder
 Original: Sling
 Kategorie: Fernkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1W6 Wucht
 Eigenschaften:
   - Geschosse

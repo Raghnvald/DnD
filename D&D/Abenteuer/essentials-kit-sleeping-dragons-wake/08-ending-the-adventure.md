@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sdw
 aliases:
   - Ending the Adventure
-  - Ending the Adventure
 ---
 # Ending the Adventure
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

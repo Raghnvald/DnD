@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +1 Rod of the Pact Keeper
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: +1 Rod of the Pact Keeper
 tags:

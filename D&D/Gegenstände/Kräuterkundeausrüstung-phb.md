@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kräuterkundeausrüstung
+Original: Herbalism Kit
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

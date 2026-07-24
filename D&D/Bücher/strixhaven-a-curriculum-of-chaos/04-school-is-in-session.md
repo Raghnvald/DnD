@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - School Is in Session
-  - School Is in Session
 ---
 # School Is in Session
 *Source: Strixhaven: A Curriculum of Chaos, p. 41* 

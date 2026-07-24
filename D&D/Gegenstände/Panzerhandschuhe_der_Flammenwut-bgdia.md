@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gauntlets of Flaming Fury
-Kategorie: Wundersamer Gegenstand 
+Original: Gauntlets of Flaming Fury
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Gauntlets of Flaming Fury
 tags:

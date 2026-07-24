@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subrace/elf-kaladesh-vahadar
 aliases:
   - Spells for Elf (Kaladesh; Vahadar)
-  - Spells for Elf (Kaladesh; Vahadar)
 ---
 # Spells for Elf (Kaladesh; Vahadar)
 

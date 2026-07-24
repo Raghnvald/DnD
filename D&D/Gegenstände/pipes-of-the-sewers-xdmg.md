@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pipes of the Sewers
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Pipes of the Sewers
 tags:

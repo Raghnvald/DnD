@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-vicious-mockery
 aliases:
   - Spells for Charm of Vicious Mockery
-  - Spells for Charm of Vicious Mockery
 ---
 # Spells for Charm of Vicious Mockery
 

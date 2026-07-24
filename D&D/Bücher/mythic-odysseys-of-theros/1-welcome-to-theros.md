@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Welcome to Theros
-  - Welcome to Theros
 ---
 # Welcome to Theros
 *Source: Mythic Odysseys of Theros, p. 5* 

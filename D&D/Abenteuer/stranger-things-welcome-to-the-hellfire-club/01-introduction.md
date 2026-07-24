@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wtthc
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: Stranger Things: Welcome to the Hellfire Club* 

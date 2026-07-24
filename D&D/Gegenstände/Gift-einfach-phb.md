@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Einfaches Gift (Phiole)
 Kategorie: Gift
+Seltenheit:
+  - keine
+Eigenschaften:
+  - Gift
 Kst.: 100 GM
 Gew.: n/v
 Status: WIP
@@ -12,8 +16,6 @@ tags:
 aliases:
   - Einfaches Gift (Phiole)
 status: WIP
-Eigenschaften:
-  - Gift
 ---
 # Einfaches Gift (Phiole)
 *Adventuring gear, poison*  

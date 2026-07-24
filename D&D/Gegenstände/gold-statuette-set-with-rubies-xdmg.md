@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold statuette set with rubies
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold statuette set with rubies
 tags:

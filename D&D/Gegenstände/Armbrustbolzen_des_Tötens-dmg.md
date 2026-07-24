@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Armbrustbolzen des Tötens
+Original: Crossbow Bolt of Slaying
 Kategorie: Munition
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Munition
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: 0,0375 kg
 Status: WIP
 linter-yaml-title-alias: Armbrustbolzen des Tötens

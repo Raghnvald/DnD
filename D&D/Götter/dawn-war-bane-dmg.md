@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Bane
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Ordnung
   - Quelle/5e/dmg
 aliases:
   - Bane

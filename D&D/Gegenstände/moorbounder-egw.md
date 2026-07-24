@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Moorbounder
+Original: Moorbounder
+Seltenheit:
+  - keine
 Kst.: 400 GM
 Gew.: n/v
 Status: WIP

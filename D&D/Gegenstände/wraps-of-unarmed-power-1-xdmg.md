@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +1 Wraps of Unarmed Power
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: +1 Wraps of Unarmed Power
 tags:

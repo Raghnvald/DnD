@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Pike
+Original: Pike
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pike
 tags:
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Pike
 status: WIP
-Original: Pike
 ---
 # Pike
 *Weapon*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ruby
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Ruby
 tags:

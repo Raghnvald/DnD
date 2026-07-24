@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Barrel
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Barrel
 tags:

@@ -7,7 +7,6 @@ tags:
   - Rasse/warforged
 aliases:
   - Warforged
-  - Warforged
 ---
 # Warforged
 *Source: Eberron: Forge of the Artificer p. 38*  

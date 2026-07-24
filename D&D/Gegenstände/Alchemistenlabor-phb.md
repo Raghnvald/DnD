@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Alchemistenlabor
+Original: "Alchemist's Supplies"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schleuderkugel
+Original: renais
 Kategorie: Munition
+Seltenheit:
+  - keine
 Eigenschaften:
   - Munition
 Kst.: n/v

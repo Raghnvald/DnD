@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Crowbar
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Crowbar
 tags:

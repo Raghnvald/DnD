@@ -3,9 +3,9 @@ Bezeichnung: Bahamut
 Status: WIP
 linter-yaml-title-alias: Bahamut
 tags:
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Ordnung
-  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

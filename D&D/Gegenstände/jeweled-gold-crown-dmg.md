@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Jeweled gold crown
+Original: Jeweled gold crown
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

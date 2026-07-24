@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Staff (Level 4)
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Enspelled Staff (Level 4)
 tags:

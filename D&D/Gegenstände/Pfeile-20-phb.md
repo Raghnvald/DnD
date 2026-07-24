@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Pfeile (20)
 Kategorie: Munition
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pfeile (20)
 tags:

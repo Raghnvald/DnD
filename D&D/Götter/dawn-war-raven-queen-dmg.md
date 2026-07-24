@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Raven Queen
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Tod
   - Quelle/5e/dmg
 aliases:
   - Raven Queen

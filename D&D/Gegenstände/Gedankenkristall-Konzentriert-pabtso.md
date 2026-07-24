@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Mind Crystal (Heightened)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mind Crystal (Heightened)
 tags:

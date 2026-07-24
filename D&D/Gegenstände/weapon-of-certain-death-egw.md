@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Weapon of Certain Death
+Original: Weapon of Certain Death
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - selten
 Eigenschaften:
   - /
 Kst.: /
@@ -71,7 +74,6 @@ aliases:
   - Whip of Certain Death
   - Yklwa of Certain Death
 status: WIP
-Original: Weapon of Certain Death
 ---
 # Weapon of Certain Death
 *Rare*  

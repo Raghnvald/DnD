@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ledererwerkzeuge
+Original: "Leatherworker's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

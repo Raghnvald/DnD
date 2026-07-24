@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mistral Mantle
-Kategorie: Wundersamer Gegenstand 
+Original: Mistral Mantle
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Mistral Mantle
 tags:

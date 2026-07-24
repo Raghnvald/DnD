@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Horn von Walhalla
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Horn von Walhalla
 tags:

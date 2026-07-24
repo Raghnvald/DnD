@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Jade Serpent Staff
+Original: Jade Serpent Staff
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Jade Serpent Staff
 tags:

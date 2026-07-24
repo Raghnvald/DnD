@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Rüstung der Verwundbarkeit (Hieb)
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Schwer
 Eigenschaften:
   - Verflucht

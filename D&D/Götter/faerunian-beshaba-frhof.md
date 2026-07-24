@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Beshaba
-  - Beshaba
   - Lady Doom
   - The Maiden of Misfortune
 ---

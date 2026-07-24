@@ -2,6 +2,8 @@
 Bezeichnung: Blauer Drachenschuppen-Panzer
 Original: Blue Dragon Scale Mail
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Eigenschaften:
   - n/v

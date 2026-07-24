@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Nuada
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Ordnung
   - Quelle/5e/phb
 aliases:
   - Nuada

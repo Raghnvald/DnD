@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Outer Essence Shard (Lawful)
-Kategorie: Wundersamer Gegenstand 
+Original: Outer Essence Shard (Lawful)
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Outer Essence Shard (Lawful)
 tags:

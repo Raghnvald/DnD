@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Harper
-  - Harper
 ---
 # Harper
 *Source: Forgotten Realms: Heroes of Faerûn p. 31*  

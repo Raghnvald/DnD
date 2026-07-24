@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Tempus
-  - Tempus
   - The Foehammer
   - The Lord of Battles
 ---

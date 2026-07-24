@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Condemner (Dormant)
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: Condemner (Dormant)
 tags:

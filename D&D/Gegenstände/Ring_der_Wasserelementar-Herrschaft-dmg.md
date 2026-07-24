@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring der Wasserelementar-Herrschaft
 Kategorie: Ring
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

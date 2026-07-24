@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Diamond
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Diamond
 tags:

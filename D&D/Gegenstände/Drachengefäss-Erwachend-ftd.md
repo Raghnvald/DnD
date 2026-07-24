@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Stirring Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Stirring Dragon Vessel
 tags:

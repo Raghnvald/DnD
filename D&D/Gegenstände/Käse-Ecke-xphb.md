@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cheese (wedge)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Cheese (wedge)
 tags:

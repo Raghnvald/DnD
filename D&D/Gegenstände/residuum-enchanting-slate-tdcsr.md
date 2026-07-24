@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Residuum Enchanting Slate
+Original: Residuum Enchanting Slate
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Kst.: 20.000 GM

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Cli Lyre
+Original: Instrument of the Bards, Cli Lyre
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

@@ -2,6 +2,9 @@
 Bezeichnung: Lucent Destroyer
 Original: Lucent Destroyer
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
+Kst.: 50.000 GM
 Status: WIP
 linter-yaml-title-alias: Lucent Destroyer
 tags:

@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Yklwa
+Original: Yklwa
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
+Kst.: n/v
 Status: WIP
 linter-yaml-title-alias: Yklwa
 tags:
@@ -11,7 +15,6 @@ tags:
 aliases:
   - Yklwa
 status: WIP
-Original: Yklwa
 ---
 # Yklwa
 *Weapon*  

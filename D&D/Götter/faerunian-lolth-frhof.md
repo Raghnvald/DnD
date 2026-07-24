@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Lolth
-  - Lolth
   - Queen of Spiders
   - Queen of the Demonweb Pits
 ---

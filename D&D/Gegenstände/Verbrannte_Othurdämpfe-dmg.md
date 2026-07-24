@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Verbrannte_Othurdämpfe
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 500 GM

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Bier (Humpen)
+Original: Ale (Mug)
 Kategorie: Essen und Trinken
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 4 KM
@@ -12,7 +15,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Ale (Mug)
   - Bier (Humpen)
 ---
 # Bier (Humpen)

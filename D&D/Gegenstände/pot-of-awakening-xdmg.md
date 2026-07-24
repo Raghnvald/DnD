@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pot of Awakening
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Pot of Awakening
 tags:

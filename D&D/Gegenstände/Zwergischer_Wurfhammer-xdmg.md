@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Dwarven Thrower
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Dwarven Thrower
 tags:

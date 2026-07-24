@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/background/witherbloom-student
 aliases:
   - Spells for Witherbloom Student
-  - Spells for Witherbloom Student
 ---
 # Spells for Witherbloom Student
 

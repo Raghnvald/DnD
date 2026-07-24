@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/background/silverquill-student
 aliases:
   - Spells for Silverquill Student
-  - Spells for Silverquill Student
 ---
 # Spells for Silverquill Student
 

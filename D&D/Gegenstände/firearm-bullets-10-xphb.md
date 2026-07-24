@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Firearm Bullets (10)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Firearm Bullets (10)
 tags:

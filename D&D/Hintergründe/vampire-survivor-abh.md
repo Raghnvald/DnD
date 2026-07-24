@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Vampire Survivor
-  - Vampire Survivor
 ---
 # Vampire Survivor
 *Source: Astarion's Book of Hungers p. 7*  

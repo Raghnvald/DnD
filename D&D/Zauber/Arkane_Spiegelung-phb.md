@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkane Spiegelung
+Original: Mirage Arcane
 Zaubergrad: 7
 Zeitaufwand: 10 Minuten
 Reichweite: Sicht
@@ -22,7 +23,6 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Arkane Spiegelung
-Original: Mirage Arcane
 ---
 # Arkane Spiegelung
 *Illusion des 7. Grades*  

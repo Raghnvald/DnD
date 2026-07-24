@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Myrkul
-  - Myrkul
   - Old Lord Skull
   - The Lord of Bones
   - The Reaper

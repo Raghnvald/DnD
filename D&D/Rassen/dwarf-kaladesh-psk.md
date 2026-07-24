@@ -7,7 +7,6 @@ tags:
   - Rasse/dwarf/kaladesh
 aliases:
   - Dwarf (Kaladesh)
-  - Dwarf (Kaladesh)
 ---
 # Dwarf (Kaladesh)
 *Source: Plane Shift: Kaladesh p. 19*  

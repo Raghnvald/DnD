@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Oil of Taggit
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Oil of Taggit
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Heward's Handy Spice Pouch"
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Heward's Handy Spice Pouch"
 tags:

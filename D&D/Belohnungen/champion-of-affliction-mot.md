@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of Affliction
-  - Champion of Affliction
 ---
 # Champion of Affliction
 *Piety Trait*  

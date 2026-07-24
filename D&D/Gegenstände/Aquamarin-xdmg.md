@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Aquamarine
+Seltenheit:
+  - keine
 Kst.: 500 GM
 Gew.: /
 Status: WIP

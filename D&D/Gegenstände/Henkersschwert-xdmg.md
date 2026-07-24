@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Vorpal Sword
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Vorpal Sword
 tags:

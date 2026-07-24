@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bomb
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bomb
 tags:

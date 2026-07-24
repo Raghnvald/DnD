@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Hold Back The Dead
-  - Hold Back The Dead
 ---
 # Hold Back The Dead
 *Source: Hold Back The Dead, p. 1* 

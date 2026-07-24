@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/psa
 aliases:
   - Initiate
-  - Initiate
 ---
 # Initiate
 *Source: Plane Shift: Amonkhet p. 8*  

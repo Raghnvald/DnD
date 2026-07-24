@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Fortitude
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Fortitude
 tags:

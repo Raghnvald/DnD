@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Robe of Useful Items
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Robe of Useful Items
 tags:

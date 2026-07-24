@@ -2,6 +2,8 @@
 Bezeichnung: Handarmbrust
 Original: Hand Crossbow
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1d6 Stich
 Eigenschaften:
   - Geschosse

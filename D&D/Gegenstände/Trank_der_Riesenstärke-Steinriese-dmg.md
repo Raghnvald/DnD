@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Stone Giant Strength
+Original: Potion of Stone Giant Strength
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Stone Giant Strength
 tags:

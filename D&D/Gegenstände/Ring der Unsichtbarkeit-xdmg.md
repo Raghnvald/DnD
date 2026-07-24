@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Invisibility
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ring of Invisibility
 tags:

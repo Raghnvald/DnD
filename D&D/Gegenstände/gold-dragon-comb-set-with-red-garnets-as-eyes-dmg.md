@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold dragon comb set with red garnets as eyes
+Original: Gold dragon comb set with red garnets as eyes
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

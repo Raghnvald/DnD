@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of Terror
-  - Boon of Terror
 ---
 # Boon of Terror
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

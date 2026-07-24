@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Black Sapphire
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Black Sapphire
 tags:

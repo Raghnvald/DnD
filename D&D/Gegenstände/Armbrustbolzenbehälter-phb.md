@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Armbrustbolzenbehälter
+Original: Crossbow Bolt Case
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM
@@ -9,11 +12,10 @@ Status: completed
 linter-yaml-title-alias: Armbrustbolzenbehälter
 tags:
   - Gegenstand/Ausrüstung
-  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
   - Armbrustbolzenbehälter
-  - Crossbow Bolt Case
 ---
 # Armbrustbolzenbehälter
 *Abenteuerausrüstung*

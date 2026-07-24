@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Platin (PM)
+Original: Platin (PP)
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

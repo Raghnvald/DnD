@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dod
 aliases:
   - Creating a Domain of Delight
-  - Creating a Domain of Delight
 ---
 # Creating a Domain of Delight
 *Source: Domains of Delight, p. 16* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pouch
+Seltenheit:
+  - keine
 Kst.: 5 SM
 Gew.: 0,5 kg
 Status: WIP

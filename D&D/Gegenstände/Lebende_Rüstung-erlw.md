@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Lebende Rüstung
+Original: Living Armor
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften:
   - n/v
+Einstimmung: erforderlich
 Kst.: n/v
 Gew.: variiert
 RK: variiert
@@ -34,7 +38,6 @@ aliases:
   - Living Spiked Armor
   - Living Splint Armor
   - Living Studded Leather Armor
-Original: Living Armor
 ---
 # Lebende Rüstung
 *Very rare (requires attunement)*  

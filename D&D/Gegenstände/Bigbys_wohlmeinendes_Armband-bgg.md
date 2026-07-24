@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Bigby's Beneficent Bracelet"
+Original: "Bigby's Beneficent Bracelet"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: "Bigby's Beneficent Bracelet"
 tags:

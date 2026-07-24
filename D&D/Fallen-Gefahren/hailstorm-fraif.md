@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Hailstorm
-  - Hailstorm
 ---
 # Hailstorm
 *Environmental Hazard*  

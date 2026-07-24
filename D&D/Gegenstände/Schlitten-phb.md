@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schlitten
+Original: Sled
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 20 GM

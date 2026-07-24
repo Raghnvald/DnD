@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Absorption
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Absorption
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Absorption
 tags:

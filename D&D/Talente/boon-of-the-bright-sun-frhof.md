@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of the Bright Sun
-  - Boon of the Bright Sun
 ---
 # Boon of the Bright Sun
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

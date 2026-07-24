@@ -3,9 +3,9 @@ Bezeichnung: Apollo
 Status: WIP
 linter-yaml-title-alias: Apollo
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

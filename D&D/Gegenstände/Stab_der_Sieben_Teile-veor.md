@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Stab der Sieben Teile
+Original: Staff of Seven Parts
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - Artefakt
 Schaden: 1W6 Wucht
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: unbezahlbar
 Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Stab der Sieben Teile
@@ -19,7 +22,6 @@ tags:
 aliases:
   - Stab der Sieben Teile
 status: WIP
-Original: Staff of Seven Parts
 ---
 # Stab der Sieben Teile
 *Waffe ([[Kampfstab-phb|Kampfstab]]), Artefakt (erfordert Einstimmung)*

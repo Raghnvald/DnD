@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sja
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Spelljammer Academy* 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Barrier Tattoo (Large)
+Original: Barrier Tattoo (Large)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Barrier Tattoo (Large)
 tags:

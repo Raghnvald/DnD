@@ -10,10 +10,10 @@ Habitat:
 Status: WIP
 linter-yaml-title-alias: Aboleth Spawn
 tags:
-  - Quelle/5e/crcotn
-  - Monster/HG/5
   - Monster/Größe/Mittelgroß
+  - Monster/HG/5
   - Monster/Typ/Aberration
+  - Quelle/5e/crcotn
 aliases:
   - Aboleth Spawn
 image: token/aboleth-spawn-crcotn.webp

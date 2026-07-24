@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sword of Kas
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Sword of Kas
 tags:

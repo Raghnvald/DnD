@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Deneir
-  - Deneir
   - The First Scribe
   - The Lord of All Glyphs and Images
   - The Scribe of Oghma

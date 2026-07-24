@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of Horizons
-  - Champion of Horizons
 ---
 # Champion of Horizons
 *Piety Trait*  

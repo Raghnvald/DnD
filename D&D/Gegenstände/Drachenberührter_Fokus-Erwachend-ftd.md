@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Stirring Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Stirring Dragon-Touched Focus
 tags:

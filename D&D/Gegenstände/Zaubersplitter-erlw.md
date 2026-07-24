@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Spellshard
-Kategorie: Wundersamer Gegenstand 
+Original: Spellshard
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Spellshard
 tags:

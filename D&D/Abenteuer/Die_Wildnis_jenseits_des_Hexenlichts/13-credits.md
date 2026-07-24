@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: The Wild Beyond the Witchlight* 

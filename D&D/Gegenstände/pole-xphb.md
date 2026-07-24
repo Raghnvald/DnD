@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pole
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pole
 tags:

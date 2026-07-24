@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Storm Giant Strength
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Potion of Storm Giant Strength
 tags:

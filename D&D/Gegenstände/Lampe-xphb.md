@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Lamp
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Lamp
 tags:

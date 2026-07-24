@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Blod Stone
+Original: Blod Stone
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Blod Stone
 tags:

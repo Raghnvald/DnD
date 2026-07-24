@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Renaissance-Kugel
+Original: Renaissance Bullet
 Kategorie: Munition
+Seltenheit:
+  - keine
 Eigenschaften:
   - Munition
 Kst.: 3 SM

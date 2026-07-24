@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Dynamite
+Original: Dynamite
 Kategorie: Sprengstoff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dynamite
 tags:
@@ -10,7 +13,6 @@ tags:
 aliases:
   - Dynamite
 status: WIP
-Original: Dynamite
 ---
 # Dynamite
 *Explosive*  

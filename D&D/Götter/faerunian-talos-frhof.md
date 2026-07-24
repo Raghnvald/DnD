@@ -8,7 +8,6 @@ tags:
 aliases:
   - Storm Lord
   - Talos
-  - Talos
   - The Destroyer
   - The Raging One
 ---

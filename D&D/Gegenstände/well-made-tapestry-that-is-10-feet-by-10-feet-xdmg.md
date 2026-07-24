@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Well-made tapestry that is 10 feet by 10 feet
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Well-made tapestry that is 10 feet by 10 feet
 tags:

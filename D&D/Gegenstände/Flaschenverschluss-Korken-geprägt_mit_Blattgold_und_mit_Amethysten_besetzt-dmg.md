@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
+Original: Bottle stopper cork embossed with gold leaf and set with amethysts
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

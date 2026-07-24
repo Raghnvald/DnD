@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of the Dead
-  - Champion of the Dead
 ---
 # Champion of the Dead
 *Piety Trait*  

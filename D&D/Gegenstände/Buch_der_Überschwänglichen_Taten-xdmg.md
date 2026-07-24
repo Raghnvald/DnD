@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Book of Exalted Deeds
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Book of Exalted Deeds
 tags:

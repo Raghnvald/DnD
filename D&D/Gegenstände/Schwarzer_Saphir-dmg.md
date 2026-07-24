@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schwarzer Saphir
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5.000 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schwarzer Saphir
-status: WIP
 ---
 # Schwarzer Saphir
 *Schatz (Edelstein)*  

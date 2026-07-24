@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rakdos Keyrune
-Kategorie: Wundersamer Gegenstand 
+Original: Rakdos Keyrune
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Rakdos Keyrune
 tags:

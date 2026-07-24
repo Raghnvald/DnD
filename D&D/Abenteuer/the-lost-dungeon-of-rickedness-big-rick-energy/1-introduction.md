@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/rmbre
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy, p. 2* 

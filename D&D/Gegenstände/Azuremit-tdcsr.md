@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Azuremite
+Original: Azuremite
+Seltenheit:
+  - unbekannt
 Kst.: n/v
 Gew.: n/v
 Status: WIP

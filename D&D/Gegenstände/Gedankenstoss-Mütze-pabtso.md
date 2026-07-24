@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mindblasting Cap
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Mindblasting Cap
 tags:

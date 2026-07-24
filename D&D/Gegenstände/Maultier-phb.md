@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Maultier
+Original: Mule
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 8 GM
@@ -15,7 +18,6 @@ aliases:
   - Maultier
 Bew.: 12 m
 Traglast: 420 Pfd.
-Original: Mule
 ---
 # Maultier
 *Reit- und Lasttiere*  

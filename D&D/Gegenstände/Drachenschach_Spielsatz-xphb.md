@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dragonchess Set
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dragonchess Set
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hide of the Feral Guardian (Exalted)
+Seltenheit:
+  - legendär
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: Hide of the Feral Guardian (Exalted)

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Coral
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Coral
 tags:

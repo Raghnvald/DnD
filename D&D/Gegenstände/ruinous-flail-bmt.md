@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ruinous Flail
+Original: Ruinous Flail
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ruinous Flail
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Ruinous Flail
 status: WIP
-Original: Ruinous Flail
 ---
 # Ruinous Flail
 *Weapon (flail), rare (requires attunement)*  

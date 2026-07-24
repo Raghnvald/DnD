@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Serpentine Owl
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Serpentine Owl
 tags:

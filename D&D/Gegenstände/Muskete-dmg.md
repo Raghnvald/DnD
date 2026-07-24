@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Muskete
+Original: Musket
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Muskete
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Muskete
 status: WIP
-Original: Musket
 ---
 # Muskete
 *Weapon*  

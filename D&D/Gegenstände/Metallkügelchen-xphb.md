@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ball Bearings
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Ball Bearings
 tags:

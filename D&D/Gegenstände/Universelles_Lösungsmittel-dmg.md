@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Universal Solvent
-Kategorie: Wundersamer Gegenstand 
+Original: Universal Solvent
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Universal Solvent
 tags:

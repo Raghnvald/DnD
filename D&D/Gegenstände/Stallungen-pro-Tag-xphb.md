@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Stabling (per day)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Stabling (per day)
 tags:

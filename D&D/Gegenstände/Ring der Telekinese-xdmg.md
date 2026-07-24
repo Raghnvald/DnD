@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Telekinesis
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ring of Telekinesis
 tags:

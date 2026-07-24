@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Armbrustbolzen (20)
 Kategorie: Munition
+Seltenheit:
+  - keine
 Eigenschaften:
   - Munition
 Kst.: 1 GM

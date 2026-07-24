@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Order of the Gauntlet Tournament Field
-  - Order of the Gauntlet Tournament Field
 ---
 # Order of the Gauntlet Tournament Field
 *Level 9 Bastion facility*  

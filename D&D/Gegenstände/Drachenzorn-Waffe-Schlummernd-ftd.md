@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Slumbering Dragon's Wrath Weapon"
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Slumbering Dragon's Wrath Weapon"
 tags:

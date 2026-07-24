@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Krone der Lügen "
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: "Krone der Lügen "
 tags:

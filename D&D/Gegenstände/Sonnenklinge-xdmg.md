@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sun Blade
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Sun Blade
 tags:

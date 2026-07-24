@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Koralle
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM
 Gew.: n/v
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Koralle
 tags:
   - Gegenstand/Ausrüstung/Schatz-Edelstein

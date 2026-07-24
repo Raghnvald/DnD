@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Calligrapher's Supplies"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Calligrapher's Supplies"
 tags:

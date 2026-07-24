@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Citrine
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Citrine
 tags:

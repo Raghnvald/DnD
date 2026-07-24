@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Necrotic Resistance
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Necrotic Resistance

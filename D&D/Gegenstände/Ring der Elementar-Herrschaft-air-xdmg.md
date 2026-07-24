@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Elemental Command (Air)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ring of Elemental Command (Air)
 tags:

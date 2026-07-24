@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Yellow Sapphire
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Yellow Sapphire
 tags:

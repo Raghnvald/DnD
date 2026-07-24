@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schauerlicher Tand
+Original: Horror Trinket
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

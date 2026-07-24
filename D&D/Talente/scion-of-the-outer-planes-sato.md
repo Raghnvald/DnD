@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/sato
 aliases:
   - Scion of the Outer Planes
-  - Scion of the Outer Planes
 ---
 # Scion of the Outer Planes
 *Source: Sigil and the Outlands p. 12*  

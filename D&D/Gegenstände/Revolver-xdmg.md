@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Revolver
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Revolver
 tags:

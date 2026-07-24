@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Manacles
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Manacles
 tags:

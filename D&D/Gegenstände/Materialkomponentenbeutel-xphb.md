@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Component Pouch
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Component Pouch
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Priest's Pack"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Priest's Pack"
 tags:

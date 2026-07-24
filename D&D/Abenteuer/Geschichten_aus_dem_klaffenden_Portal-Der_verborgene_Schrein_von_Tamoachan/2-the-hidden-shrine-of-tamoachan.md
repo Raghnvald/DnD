@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-thsot
 aliases:
   - The Hidden Shrine of Tamoachan
-  - The Hidden Shrine of Tamoachan
 ---
 # The Hidden Shrine of Tamoachan
 *Source: Tales from the Yawning Portal: The Hidden Shrine of Tamoachan, p. 61* 

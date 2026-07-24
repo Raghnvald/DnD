@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Eibenzauberstab
+Original: Yew Wand
 Kategorie: Fokus, Druidisch
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

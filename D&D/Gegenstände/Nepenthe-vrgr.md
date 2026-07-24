@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Nepenthe
+Original: Nepenthe
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Nepenthe
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Nepenthe
 status: WIP
-Original: Nepenthe
 ---
 # Nepenthe
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by a paladin)*  

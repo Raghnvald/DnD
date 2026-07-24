@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ladder
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Ladder
 tags:

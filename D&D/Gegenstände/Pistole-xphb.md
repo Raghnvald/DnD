@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pistol
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pistol
 tags:

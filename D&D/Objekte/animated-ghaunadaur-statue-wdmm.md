@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Animated Ghaunadaur Statue
-  - Animated Ghaunadaur Statue
 ---
 # Animated Ghaunadaur Statue
 *Source: Waterdeep: Dungeon of the Mad Mage p. 250*  

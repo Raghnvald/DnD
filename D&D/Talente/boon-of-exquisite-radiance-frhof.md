@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of Exquisite Radiance
-  - Boon of Exquisite Radiance
 ---
 # Boon of Exquisite Radiance
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

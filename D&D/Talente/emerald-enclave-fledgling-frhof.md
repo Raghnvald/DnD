@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Emerald Enclave Fledgling
-  - Emerald Enclave Fledgling
 ---
 # Emerald Enclave Fledgling
 *Source: Forgotten Realms: Heroes of Faerûn p. 37*  

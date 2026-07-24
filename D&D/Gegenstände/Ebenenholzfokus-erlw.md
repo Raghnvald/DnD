@@ -1,10 +1,12 @@
 ---
 Bezeichnung: Ebenenholzfokus
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
-Kst.: n/v
 Einstimmung: erforderlich
+Kst.: n/v
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Ebenenholzfokus

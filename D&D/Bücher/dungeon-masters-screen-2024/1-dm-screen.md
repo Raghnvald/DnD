@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/xscreen
 aliases:
   - DM Screen
-  - DM Screen
 ---
 # DM Screen
 *Quelle: Dungeon Master's Screen (2024)* 

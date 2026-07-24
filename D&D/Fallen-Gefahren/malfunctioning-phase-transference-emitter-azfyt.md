@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/azfyt
 aliases:
   - Malfunctioning Phase Transference Emitter
-  - Malfunctioning Phase Transference Emitter
 ---
 # Malfunctioning Phase Transference Emitter
 *Generic Hazard*  

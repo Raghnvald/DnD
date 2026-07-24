@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pair of engraved bone dice
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pair of engraved bone dice
 tags:

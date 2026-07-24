@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Medallion of Thoughts
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Medallion of Thoughts
 tags:

@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/race/khoravar
 aliases:
   - Spells for Khoravar
-  - Spells for Khoravar
 ---
 # Spells for Khoravar
 

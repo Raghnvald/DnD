@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Turmalin
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Turmalin
-status: WIP
 ---
 # Turmalin
 *Schatz (Edelstein)*  

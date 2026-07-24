@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Orzhov Guild Signet
+Original: Orzhov Guild Signet
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
-Gew.: /
+Kst.: n/v
+Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Orzhov Guild Signet
 tags:

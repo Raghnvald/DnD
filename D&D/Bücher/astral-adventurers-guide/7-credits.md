@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Astral Adventurer's Guide* 

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Lliira
-  - Lliira
   - Mistress of Revels
   - Our Lady of Joy
 ---

@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Shevarash
-  - Shevarash
 ---
 # Shevarash
 *Source: Sword Coast Adventurer's Guide p. 23* 

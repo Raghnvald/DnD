@@ -7,7 +7,6 @@ tags:
   - Rasse/kor
 aliases:
   - Kor
-  - Kor
 ---
 # Kor
 *Source: Plane Shift: Zendikar p. 10*  

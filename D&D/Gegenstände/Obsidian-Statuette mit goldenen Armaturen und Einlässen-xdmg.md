@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Obsidian statuette with gold fittings and inlay
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Obsidian statuette with gold fittings and inlay
 tags:

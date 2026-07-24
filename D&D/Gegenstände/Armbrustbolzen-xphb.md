@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bolt
+Seltenheit:
+  - keine
 Kst.: 5 KM
 Gew.: 0,0375 kg
 Status: WIP

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of Swarming Insects
+Original: Staff of Swarming Insects
 Kategorie: Zauberstecken
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Staff of Swarming Insects
 tags:
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Staff of Swarming Insects
 status: WIP
-Original: Staff of Swarming Insects
 ---
 # Staff of Swarming Insects
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kerze
+Original: Candle
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM

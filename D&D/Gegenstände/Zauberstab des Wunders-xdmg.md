@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Wonder
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Wonder
 tags:

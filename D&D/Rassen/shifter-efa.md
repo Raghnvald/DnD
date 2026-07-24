@@ -7,7 +7,6 @@ tags:
   - Rasse/shifter
 aliases:
   - Shifter
-  - Shifter
 ---
 # Shifter
 *Source: Eberron: Forge of the Artificer p. 37*  

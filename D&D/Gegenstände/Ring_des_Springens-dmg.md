@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Springens
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

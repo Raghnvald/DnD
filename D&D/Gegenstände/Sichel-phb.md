@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Sichel
+Original: Sickle
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1W4 Hieb
 Eigenschaften:
   - Leicht
@@ -17,7 +20,6 @@ tags:
 aliases:
   - Sichel
 status: WIP
-Original: Sickle
 ---
 # Sichel
 *Waffe*  

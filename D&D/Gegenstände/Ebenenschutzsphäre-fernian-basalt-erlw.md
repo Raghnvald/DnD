@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Fernian Basalt)
+Original: Orb of Shielding (Fernian Basalt)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

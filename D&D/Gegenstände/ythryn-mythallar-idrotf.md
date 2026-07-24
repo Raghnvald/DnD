@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ythryn Mythallar
-Kategorie: Wundersamer Gegenstand 
+Original: Ythryn Mythallar
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ythryn Mythallar
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Umhang der Fledermaus "
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Umhang der Fledermaus "
 tags:

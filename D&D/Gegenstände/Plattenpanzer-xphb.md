@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Half Plate Armor
+Seltenheit:
+  - keine
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Half Plate Armor

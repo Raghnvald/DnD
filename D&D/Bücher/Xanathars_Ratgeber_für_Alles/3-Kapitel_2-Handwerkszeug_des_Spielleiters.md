@@ -1,12 +1,12 @@
 ---
 Bezeichnung: Handwerkszeug des Spielleiters
 Status: WIP
-linter-yaml-title-alias: Handwerkszeug des SL
+linter-yaml-title-alias: Handwerkszeug des Spielleiters
 tags:
   - Quelle/5e/xge
 aliases:
   - "Dungeon Master's Tools"
-  - Handwerkszeug des SL
+  - Handwerkszeug des Spielleiters
 ---
 # Handwerkszeug des Spielleiters
 *Quelle: Xanathars Ratgeber für Alles, S. 77*

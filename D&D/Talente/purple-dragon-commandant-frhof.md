@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Purple Dragon Commandant
-  - Purple Dragon Commandant
 ---
 # Purple Dragon Commandant
 *Source: Forgotten Realms: Heroes of Faerûn p. 40*  

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/esk
 aliases:
   - Initiative Cards
-  - Initiative Cards
 ---
 # Initiative Cards
 *Source: Essentials Kit p. 3*  

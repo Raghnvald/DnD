@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Protection
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Protection
 tags:

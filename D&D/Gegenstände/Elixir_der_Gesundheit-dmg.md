@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Elixir of Health
+Original: Elixir of Health
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Elixir of Health
 tags:

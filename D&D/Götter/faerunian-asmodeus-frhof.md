@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Asmodeus
-  - Asmodeus
   - Old Hoof and Horn
   - The Cloven
   - The Lord of the Ninth

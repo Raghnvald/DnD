@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Dimir Keyrune
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Dimir Keyrune
 tags:

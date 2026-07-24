@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of the Bat
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Cloak of the Bat
 tags:

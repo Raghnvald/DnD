@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Oil of Sharpness
+Original: Oil of Sharpness
 Kategorie: Trank
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Oil of Sharpness
 tags:

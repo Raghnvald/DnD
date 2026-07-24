@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Arcane Propulsion Arm
+Original: Arcane Propulsion Arm
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Arcane Propulsion Arm
 tags:

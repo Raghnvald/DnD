@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Blackstaff
+Original: Blackstaff
 Kategorie: Zauberstecken
+Seltenheit:
+  - legendär
 Kst.: /
 Gew.: 2,0 kg
 Status: WIP
@@ -13,7 +16,6 @@ tags:
 aliases:
   - Blackstaff
 status: WIP
-Original: Blackstaff
 ---
 # Blackstaff
 *Staff, weapon, legendary (requires attunement by the Blackstaff heir, who must be a wizard)*  

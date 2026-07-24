@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Kundarak Vault
-  - Kundarak Vault
 ---
 # Kundarak Vault
 *Level 9 Bastion facility*  

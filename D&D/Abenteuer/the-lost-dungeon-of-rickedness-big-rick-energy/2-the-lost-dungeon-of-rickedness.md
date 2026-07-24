@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/rmbre
 aliases:
   - The Lost Dungeon of Rickedness
-  - The Lost Dungeon of Rickedness
 ---
 # The Lost Dungeon of Rickedness
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy, p. 6* 

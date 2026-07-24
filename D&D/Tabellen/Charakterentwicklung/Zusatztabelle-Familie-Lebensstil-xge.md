@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Ergänzende Tabelle; Lebenstil der Familie
+Bezeichnung: Zusatztabelle; Lebenstil der Familie
 Status: WIP
-linter-yaml-title-alias: Ergänzende Tabelle; Lebenstil der Familie
+linter-yaml-title-alias: Zusatztabelle; Lebenstil der Familie
 tags:
   - Quelle/5e/xge
 aliases:
-  - Ergänzende Tabelle; Lebenstil der Familie
   - Supplemental Tables; Family Lifestyle
+  - Zusatztabelle; Lebenstil der Familie
 ---
 # Zusatztabelle; Lebenstil der Familie
 *Quellen: Xanathars Ratgeber für Alles S. 63* 

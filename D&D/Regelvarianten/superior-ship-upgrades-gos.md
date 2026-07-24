@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Superior Ship Upgrades
-  - Superior Ship Upgrades
 ---
 # Superior Ship Upgrades
 *Source: Ghosts of Saltmarsh p. 196* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sack
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sack
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Helm of Teleportation
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Helm of Teleportation
 tags:

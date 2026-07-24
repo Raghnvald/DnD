@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Zimt
+Original: Cinnamon
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Zimt
-Original: Cinnamon
 ---
 # Zimt
 *Handelsgut*  

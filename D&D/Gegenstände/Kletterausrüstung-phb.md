@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Kletterausrüstung
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: 6,0 kg
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Kletterausrüstung
 tags:
   - Gegenstand/Ausrüstung/

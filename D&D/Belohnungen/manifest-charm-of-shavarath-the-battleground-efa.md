@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Shavarath, the Battleground
-  - Manifest Charm of Shavarath, the Battleground
 ---
 # Manifest Charm of Shavarath, the Battleground
 *Charm*  

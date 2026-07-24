@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Gorm Gulthyn
-  - Gorm Gulthyn
 ---
 # Gorm Gulthyn
 *Source: Sword Coast Adventurer's Guide p. 22* 

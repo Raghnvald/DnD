@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rod
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Rod
 tags:

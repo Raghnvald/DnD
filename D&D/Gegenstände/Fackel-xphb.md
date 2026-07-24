@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Torch
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Torch
 tags:

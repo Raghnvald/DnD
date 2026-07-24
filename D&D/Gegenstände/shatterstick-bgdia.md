@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Shatterstick
+Original: Shatterstick
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Shatterstick
 tags:

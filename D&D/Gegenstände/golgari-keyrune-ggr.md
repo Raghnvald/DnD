@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Golgari Keyrune
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Golgari Keyrune
 tags:

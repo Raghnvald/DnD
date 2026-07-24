@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Gnomeflinger
-  - Gnomeflinger
 ---
 # Gnomeflinger
 *Source: Dragonlance: Shadow of the Dragon Queen p. 189*  

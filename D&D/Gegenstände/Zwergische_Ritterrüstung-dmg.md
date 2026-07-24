@@ -2,6 +2,8 @@
 Bezeichnung: Dwarven Plate
 Original: Dwarven Plate
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schwer
 Eigenschaften:
   - n/v

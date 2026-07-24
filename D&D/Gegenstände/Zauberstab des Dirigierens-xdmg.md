@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Conducting
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wand of Conducting
 tags:

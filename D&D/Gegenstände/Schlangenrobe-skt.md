@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Robe of Serpents
-Kategorie: Wundersamer Gegenstand 
+Original: Robe of Serpents
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Robe of Serpents
 tags:

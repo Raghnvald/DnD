@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring Mail
+Seltenheit:
+  - keine
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Ring Mail

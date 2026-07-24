@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Paper Bird
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Paper Bird
 tags:

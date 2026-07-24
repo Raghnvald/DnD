@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Feuerwiderstand
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring des Feuerwiderstand
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Feuer-Absorbierende Tätowierung
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Kst.: n/v

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Copper Zib
+Original: Copper Zib
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM

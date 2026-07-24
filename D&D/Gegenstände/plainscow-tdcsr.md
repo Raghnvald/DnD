@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Plainscow
+Original: Plainscow
+Seltenheit:
+  - keine
 Kst.: 200 GM
 Gew.: n/v
 Status: WIP

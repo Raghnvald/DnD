@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Packsattel
+Original: Pack Saddle
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Packsattel
-status: completed
 ---
 # Packsattel
 *Zaumzeug und Harnisch*  

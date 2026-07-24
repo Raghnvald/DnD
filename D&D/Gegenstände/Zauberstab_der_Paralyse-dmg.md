@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Paralysis
+Original: Wand of Paralysis
 Kategorie: Zauberstab
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Paralysis
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Guild Keyrune
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Guild Keyrune
 tags:

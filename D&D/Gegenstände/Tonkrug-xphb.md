@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Jug
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Jug
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of the Rooted Hills
+Original: Staff of Rooted Hills
 Kategorie: Zauberstecken
+Seltenheit:
+  - selten
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
@@ -17,7 +20,6 @@ tags:
 aliases:
   - Staff of the Rooted Hills
 status: WIP
-Original: Staff of Rooted Hills
 ---
 # Staff of the Rooted Hills
 *Staff, weapon, rare (requires attunement)*  

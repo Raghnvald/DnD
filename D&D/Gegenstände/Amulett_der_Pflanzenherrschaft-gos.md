@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Amulett der Pflanzenherrschaft
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Amulett der Pflanzenherrschaft
 tags:

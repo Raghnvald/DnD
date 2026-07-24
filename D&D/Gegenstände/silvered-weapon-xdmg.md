@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silvered Weapon
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Silvered Weapon
 tags:

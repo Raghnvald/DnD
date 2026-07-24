@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gewölbeforscherausrüstung
+Original: "Dungeoneer's Pack"
 Kategorie: Ausrüstungspaket
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 12 GM

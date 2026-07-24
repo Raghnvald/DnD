@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Halskette der Anpassung
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Halskette der Anpassung
 tags:

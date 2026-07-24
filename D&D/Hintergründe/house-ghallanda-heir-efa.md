@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Ghallanda Heir
-  - House Ghallanda Heir
 ---
 # House Ghallanda Heir
 *Source: Eberron: Forge of the Artificer p. 28*  

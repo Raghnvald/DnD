@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of the Magi
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Staff of the Magi
 tags:

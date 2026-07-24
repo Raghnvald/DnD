@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ghost Step Tattoo
+Original: Ghost Step Tattoo
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ghost Step Tattoo
 tags:

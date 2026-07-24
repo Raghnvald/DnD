@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Pride Silk
+Original: Pride Silk
+Seltenheit:
+  - keine
 Kst.: 100 GM
 Gew.: 0,5 kg
 Status: WIP

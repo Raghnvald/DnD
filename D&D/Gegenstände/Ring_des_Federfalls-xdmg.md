@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Feather Falling
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Feather Falling
 tags:

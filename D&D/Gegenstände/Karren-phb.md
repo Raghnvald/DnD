@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Karren
+Original: Cart
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 15 GM
 Gew.: 100,0 kg
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Karren
 tags:
   - Gegenstand/Ausrüstung

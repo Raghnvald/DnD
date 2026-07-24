@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Water Breathing
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Water Breathing
 tags:

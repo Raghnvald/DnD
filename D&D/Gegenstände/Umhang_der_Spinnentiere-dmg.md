@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cloak of Arachnida
-Kategorie: Wundersamer Gegenstand 
+Original: Cloak of Arachnida
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Cloak of Arachnida
 tags:

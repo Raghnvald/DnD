@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Banded Agate
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Banded Agate
 tags:

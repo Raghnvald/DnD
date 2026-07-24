@@ -3,8 +3,8 @@ Bezeichnung: The Traveler
 Status: WIP
 linter-yaml-title-alias: The Traveler
 tags:
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

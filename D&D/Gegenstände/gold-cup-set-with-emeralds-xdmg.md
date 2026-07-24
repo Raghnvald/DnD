@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold cup set with emeralds
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold cup set with emeralds
 tags:

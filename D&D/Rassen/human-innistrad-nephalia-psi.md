@@ -7,7 +7,6 @@ tags:
   - Rasse/human/innistrad-nephalia
 aliases:
   - Human (Innistrad; Nephalia)
-  - Human (Innistrad; Nephalia)
 ---
 # Human (Innistrad; Nephalia)
 *Source: Plane Shift: Innistrad p. 8*  

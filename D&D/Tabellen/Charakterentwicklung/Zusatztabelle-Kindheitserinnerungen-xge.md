@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Ergänzende Tabelle; Kindheitserinnerungen
+Bezeichnung: Zusatztabelle; Kindheitserinnerungen
 Status: WIP
-linter-yaml-title-alias: Ergänzende Tabelle; Kindheitserinnerungen
+linter-yaml-title-alias: Zusatztabelle; Kindheitserinnerungen
 tags:
   - Quelle/5e/xge
 aliases:
-  - Ergänzende Tabelle; Kindheitserinnerungen
   - Supplemental Tables; Childhood Memories
+  - Zusatztabelle; Kindheitserinnerungen
 ---
 # Zusatztabelle; Kindheitserinnerungen
 *Quellen: Xanathars Ratgeber für Alles S. 63* 

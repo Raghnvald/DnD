@@ -2,9 +2,12 @@
 Bezeichnung: Rüstung des Widerstands
 Original: Armor of Resistence
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften:
   - /
+Einstimmung: erforderlich
 Kst.: n/v
 Gew.: /
 RK: variiert
@@ -25,7 +28,7 @@ aliases:
 status: completed
 ---
 # Rüstung des Widerstands
-*Rüstung (leicht, mittelschwer oder schwer), selten (benötigt Einstimmung)*
+*Rüstung (leicht, mittelschwer oder schwer), selten (erfordert Einstimmung)*
 <img src="armor-of-resistance.webp" align="right" width="350">
 
 Du hast Resistenz gegen eine Schadensart, solange du diese Rüstung trägst. Der SL bestimmt die Schadensart oder wählt sie nach der folgenden Tabelle zufällig aus.

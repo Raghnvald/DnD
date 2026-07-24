@@ -2,12 +2,14 @@
 Bezeichnung: Armblade
 Original: Armblade
 Kategorie: Nahkampfwaffe, beliebig
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
-  - n/v
-Kst.: n/v
+  - variiert
+Einstimmung: durch einen Kriegsgeschmiedeten
+Kst.: 100 GM
 Gew.: variiert
 Status: WIP
-Einstimmung: durch einen Kriegsgeschmiedeten
 linter-yaml-title-alias: Armblade
 tags:
   - Gegenstand/Einstimmung/erfordert

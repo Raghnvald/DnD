@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sling
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sling
 tags:

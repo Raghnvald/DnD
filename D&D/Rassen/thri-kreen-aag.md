@@ -7,7 +7,6 @@ tags:
   - Rasse/thri-kreen
 aliases:
   - Thri-kreen
-  - Thri-kreen
 ---
 # Thri-kreen
 *Source: Astral Adventurer's Guide p. 15*  

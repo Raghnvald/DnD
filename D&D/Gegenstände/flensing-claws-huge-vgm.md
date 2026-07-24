@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Flensing Claws (Huge)
+Original: Flensing Claws (Huge)
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Flensing Claws (Huge)
 tags:

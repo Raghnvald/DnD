@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold (GM)
+Original: Gold (GP)
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Gold (GM)
-status: WIP
 ---
 # Gold (GM)
 *Schatz (Währung)*  

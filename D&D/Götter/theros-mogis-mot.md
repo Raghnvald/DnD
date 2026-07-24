@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Mogis
-  - Mogis
 ---
 # Mogis
 *Source: Mythic Odysseys of Theros p. 64* 

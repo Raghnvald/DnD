@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Langboot
+Original: Longship
 Kategorie: Luft- und Wasserfahrzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10.000 GM

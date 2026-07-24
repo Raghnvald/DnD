@@ -2,6 +2,8 @@
 Bezeichnung: Gedankengeissel
 Original: Mind Lash
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Gedankengeissel
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rod of the Vonindod
+Original: Rod of the Vonindod
 Kategorie: Zepter
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Rod of the Vonindod
 tags:

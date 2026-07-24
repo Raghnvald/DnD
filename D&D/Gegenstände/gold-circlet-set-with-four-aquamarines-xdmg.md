@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold circlet set with four aquamarines
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold circlet set with four aquamarines
 tags:

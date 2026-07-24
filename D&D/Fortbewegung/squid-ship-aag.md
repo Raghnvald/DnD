@@ -3,12 +3,11 @@ Bezeichnung: Squid Ship
 Status: WIP
 linter-yaml-title-alias: Squid Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Squid Ship
   - Squid Ship
 ---
 # Squid Ship

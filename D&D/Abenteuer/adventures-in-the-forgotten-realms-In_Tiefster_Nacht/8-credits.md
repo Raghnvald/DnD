@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aitfr-dn
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Adventures in the Forgotten Realms: Deepest Night* 

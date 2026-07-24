@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Ritterrüstung
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Schwer
 Eigenschaften:
   - n/v
+Einstimmung: n/v
 Kst.: 1.500 GM
 Gew.: 32,5 kg
 RK: 18
@@ -17,7 +20,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ritterrüstung
-Einstimmung: n/v
 ---
 # Ritterrüstung
 *Schwere Rüstung*

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Diplomatenausrüstung
 Kategorie: Ausrüstungspaket
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 39 GM

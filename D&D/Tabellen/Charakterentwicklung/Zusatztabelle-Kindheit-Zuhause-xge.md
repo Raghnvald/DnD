@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Ergänzende Tabelle; Zuhause der Kindheit
+Bezeichnung: Zusatztabelle; Zuhause der Kindheit
 Status: WIP
-linter-yaml-title-alias: Ergänzende Tabelle; Zuhause der Kindheit
+linter-yaml-title-alias: Zusatztabelle; Zuhause der Kindheit
 tags:
   - Quelle/5e/xge
 aliases:
-  - Ergänzende Tabelle; Zuhause der Kindheit
   - Supplemental Tables; Childhood Home
+  - Zusatztabelle; Zuhause der Kindheit
 ---
 # Zusatztabelle; Zuhause der Kindheit
 *Quellen: Xanathars Ratgeber für Alles S. 63* 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ruby Weave Gem
-Kategorie: Wundersamer Gegenstand 
+Original: Ruby Weave Gem
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ruby Weave Gem
 tags:

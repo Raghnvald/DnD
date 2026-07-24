@@ -3,8 +3,8 @@ Bezeichnung: "Uk'otoa"
 Status: WIP
 linter-yaml-title-alias: "Uk'otoa"
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

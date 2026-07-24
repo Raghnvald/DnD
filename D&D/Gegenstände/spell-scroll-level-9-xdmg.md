@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spell Scroll (Level 9)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 9)
 tags:

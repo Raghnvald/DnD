@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/background/lorehold-student
 aliases:
   - Spells for Lorehold Student
-  - Spells for Lorehold Student
 ---
 # Spells for Lorehold Student
 

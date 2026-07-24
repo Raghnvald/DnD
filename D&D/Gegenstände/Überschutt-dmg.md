@@ -2,6 +2,8 @@
 Bezeichnung: Überschutt
 Original: Whelm
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Schaden: 1W8 Wucht
 Eigenschaften:
   - Vielseitig (1W10)

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Boots of Elvenkind
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Boots of Elvenkind
 tags:

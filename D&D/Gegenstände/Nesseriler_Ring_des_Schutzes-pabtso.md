@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Netherese Ring of Protection
+Original: Netherese Ring of Protection
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
-Gew.: /
+Kst.: n/v
+Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Netherese Ring of Protection
 tags:

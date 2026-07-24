@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring of Lightning Resistance
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Lightning Resistance
 tags:

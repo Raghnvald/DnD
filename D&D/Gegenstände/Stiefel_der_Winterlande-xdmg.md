@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Boots of the Winterlands
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Boots of the Winterlands
 tags:

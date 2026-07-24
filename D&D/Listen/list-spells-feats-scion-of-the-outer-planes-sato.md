@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/scion-of-the-outer-planes
 aliases:
   - Spells for Scion of the Outer Planes
-  - Spells for Scion of the Outer Planes
 ---
 # Spells for Scion of the Outer Planes
 

@@ -9,7 +9,6 @@ aliases:
   - The Queen of the Depths
   - The Wavemother
   - Umberlee
-  - Umberlee
 ---
 # Umberlee
 *Source: Forgotten Realms: Heroes of Faerûn p. 127* 

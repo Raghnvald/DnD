@@ -3,12 +3,11 @@ Bezeichnung: Scorpion Ship
 Status: WIP
 linter-yaml-title-alias: Scorpion Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/Land
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Scorpion Ship
   - Scorpion Ship
 ---
 # Scorpion Ship

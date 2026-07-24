@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Written in Blood
-  - Written in Blood
 ---
 # Written in Blood
 *Source: Journeys through the Radiant Citadel, p. 34* 

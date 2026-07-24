@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Luminous War Pick
+Original: Luminous War Pick
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Luminous War Pick
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Luminous War Pick
 status: WIP
-Original: Luminous War Pick
 ---
 # Luminous War Pick
 *Waffe ([Kriegshacke](Kriegshacke-xphb.md)), selten (erfordert Einstimmung)*  

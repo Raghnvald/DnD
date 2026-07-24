@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Glocke des Öffnens
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Glocke des Öffnens
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/rtg
 aliases:
   - Death Fog Trap
-  - Death Fog Trap
 ---
 # Death Fog Trap
 *Generic Hazard*  

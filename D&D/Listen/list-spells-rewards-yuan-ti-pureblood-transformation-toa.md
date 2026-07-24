@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/yuan-ti-pureblood-transformation
 aliases:
   - Spells for Yuan-Ti Pureblood Transformation
-  - Spells for Yuan-Ti Pureblood Transformation
 ---
 # Spells for Yuan-Ti Pureblood Transformation
 

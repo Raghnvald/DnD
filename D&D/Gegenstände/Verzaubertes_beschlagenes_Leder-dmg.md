@@ -2,6 +2,8 @@
 Bezeichnung: Verzaubertes beschlagenes Leder
 Original: Glamoured Studded Leather
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Eigenschaften:
   - n/v

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Grasping Whip
+Original: Grasping Whip
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Grasping Whip
 tags:
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Grasping Whip
 status: WIP
-Original: Grasping Whip
 ---
 # Grasping Whip
 *Weapon (whip), rare*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Manual of Clay Golems
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Manual of Clay Golems
 tags:

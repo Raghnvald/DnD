@@ -3,8 +3,8 @@ Bezeichnung: Mya
 Status: WIP
 linter-yaml-title-alias: Mya
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

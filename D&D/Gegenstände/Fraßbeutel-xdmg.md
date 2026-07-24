@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bag of Devouring
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Bag of Devouring
 tags:

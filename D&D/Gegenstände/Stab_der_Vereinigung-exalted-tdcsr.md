@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spire of Conflux (Exalted)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Spire of Conflux (Exalted)
 tags:

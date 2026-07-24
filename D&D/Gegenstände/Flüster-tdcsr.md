@@ -2,8 +2,15 @@
 Bezeichnung: Flüster
 Original: Whisper
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - legendär
+Eigenschaften:
+  - Finesse
+  - Leicht
+  - Relikt der Divergenz
+  - Wurfwaffe
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: unbezahlbar
 Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Flüster
@@ -15,11 +22,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Flüster
-Eigenschaften:
-  - Finesse
-  - Leicht
-  - Wurfwaffe
-  - Relikt der Divergenz
 ---
 # Flüster
 *Weapon ([Dolch](Dolch-xphb)), legendary (requires attunement)*  

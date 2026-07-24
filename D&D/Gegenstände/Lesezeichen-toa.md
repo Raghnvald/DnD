@@ -2,6 +2,8 @@
 Bezeichnung: Lesezeichen
 Original: Bookmark
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - legendär
 Eigenschaften:
   - Finesse
   - Leicht

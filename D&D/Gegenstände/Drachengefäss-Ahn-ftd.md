@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ascendant Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ascendant Dragon Vessel
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wagen
+Original: Wagon
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 35 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Wagen
-status: completed
 ---
 # Wagen
 *Fahrzeug (Land)*

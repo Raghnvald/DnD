@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Knight of the Gauntlet
-  - Knight of the Gauntlet
 ---
 # Knight of the Gauntlet
 *Source: Forgotten Realms: Heroes of Faerûn p. 32*  

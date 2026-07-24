@@ -7,7 +7,6 @@ tags:
   - Rasse/naga
 aliases:
   - Naga
-  - Naga
 ---
 # Naga
 *Source: Plane Shift: Amonkhet p. 21*  

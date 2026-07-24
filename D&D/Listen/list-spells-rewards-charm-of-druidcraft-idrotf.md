@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-druidcraft
 aliases:
   - Spells for Charm of Druidcraft
-  - Spells for Charm of Druidcraft
 ---
 # Spells for Charm of Druidcraft
 

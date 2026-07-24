@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mabjov
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Minsc and Boo's Journal of Villainy* 

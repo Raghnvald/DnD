@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Horn of Valhalla, Brass
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Horn of Valhalla, Brass
 tags:

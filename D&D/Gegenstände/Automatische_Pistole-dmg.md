@@ -2,6 +2,8 @@
 Bezeichnung: Pistole, automatisch
 Original: Automatic Pistole
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 2d6 Stich
 Eigenschaften:
   - Geschosse

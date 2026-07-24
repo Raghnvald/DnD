@@ -9,7 +9,6 @@ aliases:
   - Oak Father
   - Old Father Tree
   - Silvanus
-  - Silvanus
   - The Old Oak
 ---
 # Silvanus

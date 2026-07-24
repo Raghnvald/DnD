@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Swarming Insects
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Staff of Swarming Insects
 tags:

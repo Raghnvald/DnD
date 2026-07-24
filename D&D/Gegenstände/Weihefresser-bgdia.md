@@ -2,6 +2,8 @@
 Bezeichnung: Weihefresser
 Original: Fane-Eater
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Schaden: 1W8 Hieb
 Eigenschaften:
   - Vielseitig (1W10)

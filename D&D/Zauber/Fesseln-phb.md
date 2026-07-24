@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fesseln
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
 Status: WIP
 linter-yaml-title-alias: Fesseln
 classes:
@@ -14,7 +15,6 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Fesseln
-Zeitaufwand: 1 Aktion
 ---
 # Fesseln
 *2nd-level, Enchantment*  

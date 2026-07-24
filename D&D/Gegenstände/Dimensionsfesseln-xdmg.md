@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dimensional Shackles
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Dimensional Shackles
 tags:

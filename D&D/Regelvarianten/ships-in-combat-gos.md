@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Ships in Combat
-  - Ships in Combat
 ---
 # Ships in Combat
 *Source: Ghosts of Saltmarsh p. 198* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dread Helm
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Dread Helm
 tags:

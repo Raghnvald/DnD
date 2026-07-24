@@ -1,5 +1,8 @@
 ---
 Bezeichnung: "Arcanaloth's Music Box"
+Original: "Arcanaloth's Music Box"
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: "Arcanaloth's Music Box"
 tags:

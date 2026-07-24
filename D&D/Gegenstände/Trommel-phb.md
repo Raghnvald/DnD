@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Trommel
+Original: Drum
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 6 GM

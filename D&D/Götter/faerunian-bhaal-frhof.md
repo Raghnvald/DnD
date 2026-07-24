@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Bhaal
-  - Bhaal
   - The Lord of Murder
 ---
 # Bhaal

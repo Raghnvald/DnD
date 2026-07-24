@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Talisman of the Sphere
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Talisman of the Sphere
 tags:

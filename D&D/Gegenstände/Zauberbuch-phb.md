@@ -1,10 +1,13 @@
 ---
 Bezeichnung: Zauberbuch
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
 Gew.: 1,5kg
+Status: completed
 linter-yaml-title-alias: Zauberbuch
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,7 +15,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Zauberbuch
-Status: completed
 ---
 # Zauberbuch
 *Abenteuerausrüstung*  

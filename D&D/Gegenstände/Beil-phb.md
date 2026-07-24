@@ -2,6 +2,8 @@
 Bezeichnung: Beil
 Original: Handaxe
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1d6 Hieb
 Eigenschaften:
   - Leicht

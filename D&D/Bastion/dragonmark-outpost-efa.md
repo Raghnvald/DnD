@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Dragonmark Outpost
-  - Dragonmark Outpost
 ---
 # Dragonmark Outpost
 *Level 5 Bastion facility*  

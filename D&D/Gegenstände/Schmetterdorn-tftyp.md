@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Shatterspike
+Original: Shatterspike
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Shatterspike
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Shatterspike
 status: WIP
-Original: Shatterspike
 ---
 # Shatterspike
 *Weapon (longsword), uncommon (requires attunement)*  

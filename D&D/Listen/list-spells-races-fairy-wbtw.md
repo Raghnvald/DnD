@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/race/fairy
 aliases:
   - Spells for Fairy
-  - Spells for Fairy
 ---
 # Spells for Fairy
 

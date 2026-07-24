@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bracers of Archery
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Bracers of Archery
 tags:

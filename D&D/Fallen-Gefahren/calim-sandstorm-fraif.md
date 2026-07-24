@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Calim Sandstorm
-  - Calim Sandstorm
 ---
 # Calim Sandstorm
 *Environmental Hazard*  

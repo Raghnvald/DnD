@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Parchment
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Parchment
 tags:

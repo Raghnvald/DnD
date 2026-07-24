@@ -2,6 +2,9 @@
 Bezeichnung: Axt der Zwergenlords
 Original: Axe of the Dwarvish Lords
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: Axt der Zwergenlords
 tags:

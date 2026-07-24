@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silver 25-Zib Coin
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silver 25-Zib Coin
 tags:

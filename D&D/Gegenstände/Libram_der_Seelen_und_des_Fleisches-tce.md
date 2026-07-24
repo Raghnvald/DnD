@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Libram of Souls and Flesh
-Kategorie: Wundersamer Gegenstand 
+Original: Libram of Souls and Flesh
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Libram of Souls and Flesh
 tags:

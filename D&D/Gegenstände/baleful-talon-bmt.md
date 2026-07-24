@@ -2,12 +2,14 @@
 Bezeichnung: Baleful Talon
 Original: Baleful Talon
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Finesse
   - Leicht
   - Wurfwaffe
 Einstimmung: n/v
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Baleful Talon

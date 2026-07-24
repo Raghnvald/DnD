@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Brandmarkendes Niederstrecken
 Zaubergrad: 2
+Zeitaufwand: 1 Bonusaktion
 Status: WIP
 linter-yaml-title-alias: Brandmarkendes Niederstrecken
 classes:
@@ -14,7 +15,6 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Brandmarkendes Niederstrecken
-Zeitaufwand: 1 Bonusaktion
 ---
 # Brandmarkendes Niederstrecken
 *Hervorrufung des 2. Grades*

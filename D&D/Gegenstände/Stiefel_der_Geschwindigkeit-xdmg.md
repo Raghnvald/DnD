@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Boots of Speed
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Boots of Speed
 tags:

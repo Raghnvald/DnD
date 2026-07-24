@@ -6,8 +6,9 @@ Reichweite:
 Komponenten:
 Wirkungsdauer:
 Angriff:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Tidal Wave
+linter-yaml-title-alias: Flutwelle
 classes:
   - Bard
   - Bard (College of Lore)
@@ -28,8 +29,7 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Beschwörung
 aliases:
-  - Tidal Wave
-Schaden:
+  - Flutwelle
 ---
 # Flutwelle
 *3rd-level, Conjuration*  

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Elemental Gem, Yellow Diamond
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Elemental Gem, Yellow Diamond
 tags:

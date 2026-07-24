@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Agony (Awakened)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: Agony (Awakened)
 tags:

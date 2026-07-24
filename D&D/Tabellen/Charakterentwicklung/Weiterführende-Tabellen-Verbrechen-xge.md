@@ -1,11 +1,11 @@
 ---
-Bezeichnung: Secondary Tables; Crime
+Bezeichnung: Weiterführende Tabellen; Verbrechen
 Status: WIP
-linter-yaml-title-alias: Secondary Tables; Crime
+linter-yaml-title-alias: Weiterführende Tabellen; Verbrechen
 tags:
   - Quelle/5e/xge
 aliases:
-  - Secondary Tables; Crime
+  - Weiterführende Tabellen; Verbrechen
 ---
 # Weiterführende Tabellen; Verbrechen
 *Source: Xanathar's Guide to Everything p. 70* 

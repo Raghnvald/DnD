@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of the Python
+Original: Staff of the Python
 Kategorie: Zauberstecken
+Seltenheit:
+  - ungewöhnlich
 Kst.: /
 Status: WIP
 linter-yaml-title-alias: Staff of the Python
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Staff of the Python
 status: WIP
-Original: Staff of the Python
 ---
 # Staff of the Python
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Heiltrank
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Heiltrank
 tags:

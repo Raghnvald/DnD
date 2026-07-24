@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Dancing Sword
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Dancing Sword
 tags:

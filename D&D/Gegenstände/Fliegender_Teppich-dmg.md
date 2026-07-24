@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Carpet of Flying
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Carpet of Flying
 tags:

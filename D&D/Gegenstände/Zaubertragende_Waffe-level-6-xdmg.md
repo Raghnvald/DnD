@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 6)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Enspelled Weapon (Level 6)
 tags:

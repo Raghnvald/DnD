@@ -3,9 +3,9 @@ Bezeichnung: Set
 Status: WIP
 linter-yaml-title-alias: Set
 tags:
-  - Kompendium/Götter/Domäne/Tod
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

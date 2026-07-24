@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Animal Influence
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Animal Influence
 tags:

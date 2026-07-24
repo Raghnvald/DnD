@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Amulett des Schutzes gegen Ortung und Ausspähung
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

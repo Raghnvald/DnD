@@ -3,12 +3,11 @@ Bezeichnung: Battle Balloon
 Status: WIP
 linter-yaml-title-alias: Battle Balloon
 tags:
-  - Quelle/5e/ai
-  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Gelände/Luft
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Kategorie/Schiff
+  - Quelle/5e/ai
 aliases:
-  - Battle Balloon
   - Battle Balloon
 ---
 # Battle Balloon

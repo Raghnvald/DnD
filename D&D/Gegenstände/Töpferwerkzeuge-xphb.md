@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Potter's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Potter's Tools"
 tags:

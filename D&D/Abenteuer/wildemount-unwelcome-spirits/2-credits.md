@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/us
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Wildemount: Unwelcome Spirits* 

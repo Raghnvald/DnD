@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ginger
+Seltenheit:
+  - keine
 Kst.: 1 GM
 Status: WIP
 linter-yaml-title-alias: Ginger

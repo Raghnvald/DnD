@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of Healing
+Original: Staff of Healing
 Kategorie: Zauberstecken
+Seltenheit:
+  - selten
 Schaden: 1W6 Hieb
 Eigenschaften:
   - Vielseitig (1W8)
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Staff of Healing
 status: WIP
-Original: Staff of Healing
 ---
 # Staff of Healing
 *Zauberstecken, sehr selten (erfordert Einstimmung durch einen Barden, Druiden oder Kleriker)*  

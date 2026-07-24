@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/sanctuary-charm
 aliases:
   - Spells for Sanctuary Charm
-  - Spells for Sanctuary Charm
 ---
 # Spells for Sanctuary Charm
 

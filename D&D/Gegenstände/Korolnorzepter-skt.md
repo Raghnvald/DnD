@@ -2,6 +2,8 @@
 Bezeichnung: Korolnorzepter
 Original: Korolnor Scepter
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

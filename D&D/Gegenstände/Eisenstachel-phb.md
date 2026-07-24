@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Eisenstachel
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM

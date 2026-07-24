@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Pearl of Power
-Kategorie: Wundersamer Gegenstand 
+Original: Pearl of Power
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Pearl of Power
 tags:

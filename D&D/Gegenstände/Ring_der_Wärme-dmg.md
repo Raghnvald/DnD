@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring der Wärme
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

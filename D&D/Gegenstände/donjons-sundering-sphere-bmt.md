@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Donjon's Sundering Sphere"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Donjon's Sundering Sphere"
 tags:

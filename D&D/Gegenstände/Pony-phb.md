@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Pony
+Original: Pony
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 30 GM
@@ -14,9 +17,7 @@ tags:
 aliases:
   - Pony
 Bew.: 12 m
-status: WIP
 Traglast: 225 Pfd.
-Original: Pony
 ---
 # Pony
 *Reit- und Lasttiere*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Belt of Fire Giant Strength
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Belt of Fire Giant Strength
 tags:

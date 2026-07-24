@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Streitkolben
+Original: Mace
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1W6 Wucht
 Eigenschaften:
   - n/v
@@ -8,10 +11,9 @@ Einstimmung: n/v
 Kst.: 5 GM
 Gew.: 2,0 kg
 Status: completed
-Original: Mace
 linter-yaml-title-alias: Streitkolben
 tags:
-  - 5 GMGegenstand/Seltenheit/keine
+  - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb

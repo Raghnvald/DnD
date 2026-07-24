@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/xmts
 aliases:
   - Overview
-  - Overview
 ---
 # Overview
 *Source: X Marks the Spot, p. 2* 

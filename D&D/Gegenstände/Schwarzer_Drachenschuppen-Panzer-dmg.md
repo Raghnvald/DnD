@@ -2,6 +2,8 @@
 Bezeichnung: Schwarzer Drachenschuppen-Panzer
 Original: Black Dragon Scale Mail
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Eigenschaften:
   - /

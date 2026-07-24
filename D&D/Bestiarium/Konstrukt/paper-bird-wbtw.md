@@ -5,12 +5,11 @@ Bezeichnung: Paper Bird
 Status: WIP
 linter-yaml-title-alias: Paper Bird
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/0
   - Monster/Größe/Winzig
+  - Monster/HG/0
   - Monster/Typ/Konstrukt
+  - Quelle/5e/wbtw
 aliases:
-  - Paper Bird
   - Paper Bird
 ---
 # [Paper Bird](3-Mechanics/CLI/bestiary/construct/paper-bird-wbtw.md)

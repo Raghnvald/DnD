@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Stirring Scaled Ornament
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Stirring Scaled Ornament
 tags:

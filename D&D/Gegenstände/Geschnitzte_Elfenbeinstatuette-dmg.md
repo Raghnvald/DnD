@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Carved ivory statuette
+Original: Carved ivory statuette
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

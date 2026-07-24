@@ -7,7 +7,6 @@ tags:
   - Rasse/aven/ibis-headed
 aliases:
   - Aven (Ibis-Headed)
-  - Aven (Ibis-Headed)
 ---
 # Aven (Ibis-Headed)
 *Source: Plane Shift: Amonkhet p. 16*  

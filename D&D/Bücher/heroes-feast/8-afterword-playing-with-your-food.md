@@ -3,6 +3,9 @@ Bezeichnung: "Afterword: Playing with Your Food"
 Status: WIP
 linter-yaml-title-alias: "Afterword: Playing with Your Food"
 tags:
+  - 1
+  - 2
+  - 3
   - Quelle/5e/hf
 aliases:
   - "Afterword: Playing with Your Food"

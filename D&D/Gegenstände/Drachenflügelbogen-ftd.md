@@ -2,6 +2,8 @@
 Bezeichnung: Drachenflügelbogen
 Original: Dragon Wing Bow
 Kategorie: Fernkampfwaffe, beliebiger Bogen
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arme von Hadar
+Original: Arms of Hadar
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: selbst (Radius von 3,0m)
@@ -22,7 +23,6 @@ tags:
 aliases:
   - Arme von Hadar
   - Arms of Hadar
-Original: Arms of Hadar
 ---
 # Arme von Hadar
 *Beschwörung des 1. Grades*  

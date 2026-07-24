@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wildroot
+Original: Wildroot
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Kst.: 25 GM

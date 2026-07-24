@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr
 Original: Plate of the Dawnmartyr
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Eigenschaften:
   - Relikt der Divergenz

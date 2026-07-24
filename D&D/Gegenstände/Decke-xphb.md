@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Blanket
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Blanket
 tags:

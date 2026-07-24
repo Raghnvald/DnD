@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Stone of Controlling Earth Elementals
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Stone of Controlling Earth Elementals
 tags:

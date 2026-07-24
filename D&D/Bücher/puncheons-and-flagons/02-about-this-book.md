@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - About This Book
-  - About This Book
 ---
 # About This Book
 *Source: Puncheons and Flagons, p. 8* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Keelboat
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Keelboat
 tags:

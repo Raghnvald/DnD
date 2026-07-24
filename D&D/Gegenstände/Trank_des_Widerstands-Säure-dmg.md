@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Potion of Acid Resistance
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Acid Resistance
 tags:

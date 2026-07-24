@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spell Scroll (Level 3)
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 3)
 tags:

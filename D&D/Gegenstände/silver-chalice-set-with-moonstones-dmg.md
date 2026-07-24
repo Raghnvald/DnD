@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silver chalice set with moonstones
+Original: Silver chalice set with moonstones
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

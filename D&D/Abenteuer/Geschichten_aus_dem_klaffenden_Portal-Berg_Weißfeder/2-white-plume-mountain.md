@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-wpm
 aliases:
   - White Plume Mountain
-  - White Plume Mountain
 ---
 # White Plume Mountain
 *Source: Tales from the Yawning Portal: White Plume Mountain, p. 95* 

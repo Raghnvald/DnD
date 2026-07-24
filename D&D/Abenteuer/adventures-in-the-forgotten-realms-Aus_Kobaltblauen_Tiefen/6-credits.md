@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aitfr-fcd
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Adventures in the Forgotten Realms: From Cyan Depths* 

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hffotm
 aliases:
   - The Yawning Portal
-  - The Yawning Portal
 ---
 # The Yawning Portal
 *Source: Heroes' Feast Flavors of the Multiverse, p. 1* 

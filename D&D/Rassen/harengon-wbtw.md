@@ -7,7 +7,6 @@ tags:
   - Rasse/harengon
 aliases:
   - Harengon
-  - Harengon
 ---
 # Harengon
 *Source: The Wild Beyond the Witchlight p. 13*  

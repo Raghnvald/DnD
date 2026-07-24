@@ -7,7 +7,6 @@ tags:
   - Rasse/merfolk/zendikar-cosi-creed
 aliases:
   - Merfolk (Zendikar; Cosi Creed)
-  - Merfolk (Zendikar; Cosi Creed)
 ---
 # Merfolk (Zendikar; Cosi Creed)
 *Source: Plane Shift: Zendikar p. 13*  

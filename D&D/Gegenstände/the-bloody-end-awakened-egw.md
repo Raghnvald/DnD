@@ -1,6 +1,8 @@
 ---
 Bezeichnung: The Bloody End (Awakened)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: The Bloody End (Awakened)
 tags:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dod
 aliases:
   - Adventure Aids
-  - Adventure Aids
 ---
 # Adventure Aids
 *Source: Domains of Delight, p. 24* 

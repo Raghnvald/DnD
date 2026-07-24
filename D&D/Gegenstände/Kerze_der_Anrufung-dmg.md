@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Candle of Invocation
-Kategorie: Wundersamer Gegenstand 
+Original: Candle of Invocation
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Candle of Invocation
 tags:

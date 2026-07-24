@@ -3,8 +3,8 @@ Bezeichnung: Balinor
 Status: WIP
 linter-yaml-title-alias: Balinor
 tags:
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

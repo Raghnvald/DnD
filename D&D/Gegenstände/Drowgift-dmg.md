@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Drowgift
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 200 GM

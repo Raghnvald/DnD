@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: The Undying Court
 tags:
   - Kompendium/Götter/Domäne/Grab
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

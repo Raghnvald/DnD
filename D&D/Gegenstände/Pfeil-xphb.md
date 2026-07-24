@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Arrow
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Arrow
 tags:

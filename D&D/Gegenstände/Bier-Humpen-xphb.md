@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ale (mug)
+Seltenheit:
+  - keine
 Kst.: 4 KM
 Gew.: /
 Status: WIP

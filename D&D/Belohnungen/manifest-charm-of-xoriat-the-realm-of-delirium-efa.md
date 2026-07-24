@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Xoriat, the Realm of Delirium
-  - Manifest Charm of Xoriat, the Realm of Delirium
 ---
 # Manifest Charm of Xoriat, the Realm of Delirium
 *Charm*  

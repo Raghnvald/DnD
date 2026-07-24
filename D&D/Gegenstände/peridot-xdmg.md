@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Peridot
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Peridot
 tags:

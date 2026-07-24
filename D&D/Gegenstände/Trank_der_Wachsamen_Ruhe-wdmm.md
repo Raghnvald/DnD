@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Watchful Rest
+Original: Potion of Watchful Rest
 Kategorie: Trank
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Watchful Rest
 tags:

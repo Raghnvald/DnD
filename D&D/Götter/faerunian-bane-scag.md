@@ -3,8 +3,8 @@ Bezeichnung: Bane
 Status: WIP
 linter-yaml-title-alias: Bane
 tags:
-  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:

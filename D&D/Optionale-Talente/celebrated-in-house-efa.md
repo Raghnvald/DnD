@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Celebrated in House
-  - Celebrated in House
 ---
 # Celebrated in House
 *Source: Eberron: Forge of the Artificer p. 68*  

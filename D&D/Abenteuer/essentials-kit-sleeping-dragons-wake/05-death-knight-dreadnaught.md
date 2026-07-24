@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sdw
 aliases:
   - Death Knight-Dreadnaught
-  - Death Knight-Dreadnaught
 ---
 # Death Knight-Dreadnaught
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

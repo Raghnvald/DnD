@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild der Weitsicht
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Schild
 Eigenschaften:
   - /

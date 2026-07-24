@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hffotm
 aliases:
   - The Feywild
-  - The Feywild
 ---
 # The Feywild
 *Source: Heroes' Feast Flavors of the Multiverse, p. 181* 

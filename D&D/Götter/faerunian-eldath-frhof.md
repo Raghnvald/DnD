@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Eldath
-  - Eldath
   - The Guardian of Groves
   - The Mother of the Waters
   - The Quiet One

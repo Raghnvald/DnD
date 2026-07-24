@@ -1,6 +1,8 @@
 ---
 Bezeichnung: +2 Rod of the Pact Keeper
 Kategorie: Zepter
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Hexenmeister

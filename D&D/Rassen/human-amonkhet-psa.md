@@ -7,7 +7,6 @@ tags:
   - Rasse/human/amonkhet
 aliases:
   - Human (Amonkhet)
-  - Human (Amonkhet)
 ---
 # Human (Amonkhet)
 *Source: Plane Shift: Amonkhet p. 14*  

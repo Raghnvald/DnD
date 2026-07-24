@@ -7,7 +7,6 @@ tags:
   - Rasse/merfolk/zendikar-emeria-creed
 aliases:
   - Merfolk (Zendikar; Emeria Creed)
-  - Merfolk (Zendikar; Emeria Creed)
 ---
 # Merfolk (Zendikar; Emeria Creed)
 *Source: Plane Shift: Zendikar p. 13*  

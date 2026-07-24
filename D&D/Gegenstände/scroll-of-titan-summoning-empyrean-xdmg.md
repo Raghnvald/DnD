@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Empyrean)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Scroll of Titan Summoning (Empyrean)
 tags:

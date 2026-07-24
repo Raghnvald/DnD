@@ -7,7 +7,6 @@ tags:
   - Rasse/owlin
 aliases:
   - Owlin
-  - Owlin
 ---
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  

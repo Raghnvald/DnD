@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Forgery Kit
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Forgery Kit
 tags:

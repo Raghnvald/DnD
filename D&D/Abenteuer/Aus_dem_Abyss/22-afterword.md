@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/oota
 aliases:
   - Afterword
-  - Afterword
 ---
 # Afterword
 *Source: Out of the Abyss, p. 250* 

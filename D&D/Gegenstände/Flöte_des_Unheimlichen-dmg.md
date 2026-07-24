@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Pipes of Haunting
+Original: Pipes of Haunting
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Kst.: n/v

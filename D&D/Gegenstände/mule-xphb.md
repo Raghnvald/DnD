@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mule
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Mule
 tags:

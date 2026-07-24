@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Sargonnas
-  - Sargonnas
 ---
 # Sargonnas
 *Source: Dragonlance: Shadow of the Dragon Queen p. 19* 

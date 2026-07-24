@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Boon of Looming Shadows
-  - Boon of Looming Shadows
 ---
 # Boon of Looming Shadows
 *Source: Astarion's Book of Hungers p. 11*  

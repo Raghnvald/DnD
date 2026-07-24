@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/boon-of-dimensional-travel
 aliases:
   - Spells for Boon of Dimensional Travel
-  - Spells for Boon of Dimensional Travel
 ---
 # Spells for Boon of Dimensional Travel
 

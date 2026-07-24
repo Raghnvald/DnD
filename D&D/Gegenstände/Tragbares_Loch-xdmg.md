@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Portable Hole
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Portable Hole
 tags:

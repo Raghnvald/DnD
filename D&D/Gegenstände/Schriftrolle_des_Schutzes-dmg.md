@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schriftrolle des Schutzes
 Kategorie: Schriftrolle
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Schriftrolle des Schutzes
 tags:
@@ -9,7 +11,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schriftrolle des Schutzes
-status: WIP
 ---
 # Schriftrolle des Schutzes
 *Schriftrolle, selten*  

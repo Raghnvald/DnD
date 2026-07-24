@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 3)
 Kategorie: Schriftrolle
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - /
 Kst.: 400 GM

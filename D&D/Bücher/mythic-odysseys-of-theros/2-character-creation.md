@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Character Creation
-  - Character Creation
 ---
 # Character Creation
 *Source: Mythic Odysseys of Theros, p. 11* 

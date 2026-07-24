@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Bloodrage Greataxe
+Original: Bloodrage Greataxe
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - ungewöhnlich
+Kst.: 500 GM
 Status: WIP
 linter-yaml-title-alias: Bloodrage Greataxe
 tags:
@@ -11,7 +15,6 @@ tags:
 aliases:
   - Bloodrage Greataxe
 status: WIP
-Original: Bloodrage Greataxe
 ---
 # Bloodrage Greataxe
 *Weapon (greataxe), uncommon*  

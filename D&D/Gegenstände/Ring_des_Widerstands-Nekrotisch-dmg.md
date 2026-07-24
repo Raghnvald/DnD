@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Nekrotischen Widerstands
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring des Nekrotischen Widerstands
 tags:

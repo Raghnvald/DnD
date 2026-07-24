@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Officers and Crew
-  - Officers and Crew
 ---
 # Officers and Crew
 *Source: Ghosts of Saltmarsh p. 194* 

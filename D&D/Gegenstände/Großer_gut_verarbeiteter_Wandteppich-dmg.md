@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Large well-made tapestry
+Original: Large well-made tapestry
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

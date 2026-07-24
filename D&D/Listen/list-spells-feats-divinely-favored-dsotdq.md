@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/divinely-favored
 aliases:
   - Spells for Divinely Favored
-  - Spells for Divinely Favored
 ---
 # Spells for Divinely Favored
 

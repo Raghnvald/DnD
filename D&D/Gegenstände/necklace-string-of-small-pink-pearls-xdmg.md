@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Necklace string of small pink pearls
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Necklace string of small pink pearls
 tags:

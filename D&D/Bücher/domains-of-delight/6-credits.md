@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dod
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Domains of Delight* 

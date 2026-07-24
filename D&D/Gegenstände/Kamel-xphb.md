@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Camel
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Camel
 tags:

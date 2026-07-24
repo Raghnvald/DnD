@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Jumping
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Ring of Jumping
 tags:

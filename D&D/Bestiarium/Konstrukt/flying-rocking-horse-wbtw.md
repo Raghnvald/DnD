@@ -5,12 +5,11 @@ Bezeichnung: Flying Rocking Horse
 Status: WIP
 linter-yaml-title-alias: Flying Rocking Horse
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/1-8
   - Monster/Größe/Mittelgroß
+  - Monster/HG/1-8
   - Monster/Typ/Konstrukt
+  - Quelle/5e/wbtw
 aliases:
-  - Flying Rocking Horse
   - Flying Rocking Horse
 ---
 # [Flying Rocking Horse](3-Mechanics/CLI/bestiary/construct/flying-rocking-horse-wbtw.md)

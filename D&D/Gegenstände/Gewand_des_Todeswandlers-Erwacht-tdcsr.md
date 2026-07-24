@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Awakened)"
 Original: "Deathwalker's Ward (Awakened)"
+Seltenheit:
+  - legendär
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: "Deathwalker's Ward (Awakened)"

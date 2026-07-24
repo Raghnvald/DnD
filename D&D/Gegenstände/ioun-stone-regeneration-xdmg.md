@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Regeneration
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Regeneration
 tags:

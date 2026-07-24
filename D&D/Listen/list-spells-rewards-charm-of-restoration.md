@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-restoration
 aliases:
   - Spells for Charm of Restoration
-  - Spells for Charm of Restoration
 ---
 # Spells for Charm of Restoration
 

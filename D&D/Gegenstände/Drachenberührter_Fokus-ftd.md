@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Dragon-Touched Focus
 tags:

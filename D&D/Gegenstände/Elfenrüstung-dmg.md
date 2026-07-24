@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Elfenrüstung
+Seltenheit:
+  - selten
 Rüstung: Mittel
 Eigenschaften:
   - n/v

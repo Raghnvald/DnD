@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Fenmarel Mestarine
-  - Fenmarel Mestarine
 ---
 # Fenmarel Mestarine
 *Source: Sword Coast Adventurer's Guide p. 23* 

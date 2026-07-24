@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Galley
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Galley
 tags:

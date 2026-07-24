@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Basket
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Basket
 tags:

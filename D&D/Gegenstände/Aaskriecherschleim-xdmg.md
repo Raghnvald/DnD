@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Aaskriecherschleim
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 200 GM

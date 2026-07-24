@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Claw of the Wyrm Rune
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Claw of the Wyrm Rune
 tags:

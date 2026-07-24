@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Augenkratzer
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: n/v

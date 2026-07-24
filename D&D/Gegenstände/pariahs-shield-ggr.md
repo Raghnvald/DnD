@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Pariah's Shield"
 Original: "Pariah's Shield"
+Seltenheit:
+  - selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: "Pariah's Shield"

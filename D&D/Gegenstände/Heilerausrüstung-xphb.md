@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Healer's Kit"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Healer's Kit"
 tags:

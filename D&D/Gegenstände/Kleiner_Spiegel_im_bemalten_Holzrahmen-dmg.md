@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Small mirror set in a painted wooden frame
+Original: Small mirror set in a painted wooden frame
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

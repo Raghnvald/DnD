@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr (Dormant)
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Plate of the Dawnmartyr (Dormant)

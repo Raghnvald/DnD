@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Vulnerability (Piercing)
+Seltenheit:
+  - selten
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Vulnerability (Piercing)

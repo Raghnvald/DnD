@@ -2,6 +2,8 @@
 Bezeichnung: Ozeanwaffe
 Original: Oceanic Weapon
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

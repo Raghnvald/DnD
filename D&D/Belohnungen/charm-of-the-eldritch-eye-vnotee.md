@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/vnotee
 aliases:
   - Charm of the Eldritch Eye
-  - Charm of the Eldritch Eye
 ---
 # Charm of the Eldritch Eye
 

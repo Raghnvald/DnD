@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/nf
 aliases:
   - Wildstorm
-  - Wildstorm
 ---
 # Wildstorm
 *Generic Hazard*  

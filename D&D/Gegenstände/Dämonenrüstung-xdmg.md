@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Demon Armor
+Seltenheit:
+  - sehr selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Demon Armor

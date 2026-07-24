@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Apparat von Kwalish
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Kst.: n/v

@@ -2,8 +2,12 @@
 Bezeichnung: Gasförmige Gestalt
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Gaseous Form
+linter-yaml-title-alias: Gasförmige Gestalt
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Underdark)
@@ -25,11 +29,7 @@ tags:
   - Zauber/optfeature/mist-stance
   - Zauber/Schule/Verwandlung
 aliases:
-  - Gaseous Form
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Schaden:
+  - Gasförmige Gestalt
 ---
 # Gasförmige Gestalt
 *3rd-level, Transmutation*  

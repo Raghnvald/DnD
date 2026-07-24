@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Fellrüstung
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Mittel
 Eigenschaften:
   - n/v

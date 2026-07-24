@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/kftgv
 aliases:
   - Party at Paliset Hall
-  - Party at Paliset Hall
 ---
 # Party at Paliset Hall
 *Source: Keys from the Golden Vault, p. 177* 

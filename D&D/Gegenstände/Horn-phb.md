@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Horn
+Original: Horn
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 3 GM

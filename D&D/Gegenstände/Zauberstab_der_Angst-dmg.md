@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Fear
+Original: Wand of Fear
 Kategorie: Zauberstab
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Fear
 tags:

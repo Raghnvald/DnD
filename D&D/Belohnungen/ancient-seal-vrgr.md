@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Ancient Seal
-  - Ancient Seal
 ---
 # Ancient Seal
 *Curse*  

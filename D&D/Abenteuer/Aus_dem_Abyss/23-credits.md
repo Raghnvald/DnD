@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/oota
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Out of the Abyss* 

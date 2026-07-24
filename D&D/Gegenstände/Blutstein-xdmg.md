@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bloodstone
+Seltenheit:
+  - keine
 Kst.: 50 GM
 Gew.: /
 Status: WIP

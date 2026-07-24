@@ -3,8 +3,8 @@ Bezeichnung: The Stormlord
 Status: WIP
 linter-yaml-title-alias: The Stormlord
 tags:
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

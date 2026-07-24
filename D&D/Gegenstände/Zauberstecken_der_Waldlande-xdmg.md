@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of the Woodlands
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Staff of the Woodlands
 tags:

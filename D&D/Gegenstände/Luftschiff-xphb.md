@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Airship
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Airship
 tags:

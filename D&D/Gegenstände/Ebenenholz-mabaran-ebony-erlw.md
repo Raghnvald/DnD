@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Mabaran Ebony)
 Original: Imbued Wood (Mabaran Ebony)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

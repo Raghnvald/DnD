@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Manual of Bodily Health
-Kategorie: Wundersamer Gegenstand 
+Original: Manual of Bodily Health
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Manual of Bodily Health
 tags:

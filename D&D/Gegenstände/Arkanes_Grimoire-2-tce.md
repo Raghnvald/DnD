@@ -1,6 +1,8 @@
 ---
 Bezeichnung: +2 Arcane Grimoire
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: +2 Arcane Grimoire
 tags:

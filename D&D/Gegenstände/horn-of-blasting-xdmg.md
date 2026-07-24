@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Horn of Blasting
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Horn of Blasting
 tags:

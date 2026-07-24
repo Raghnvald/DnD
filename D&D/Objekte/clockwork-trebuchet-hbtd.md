@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Clockwork Trebuchet
-  - Clockwork Trebuchet
 ---
 # Clockwork Trebuchet
 *Source: Hold Back The Dead p. 4*  

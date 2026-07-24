@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Potion of Lightning Resistance
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Lightning Resistance
 tags:

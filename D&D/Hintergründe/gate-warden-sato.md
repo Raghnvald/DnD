@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/sato
 aliases:
   - Gate Warden
-  - Gate Warden
 ---
 # Gate Warden
 *Source: Sigil and the Outlands p. 7*  

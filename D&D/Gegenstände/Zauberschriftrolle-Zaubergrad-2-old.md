@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 2)
 Kategorie: Schriftrolle
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - /
 Kst.: 400 GM

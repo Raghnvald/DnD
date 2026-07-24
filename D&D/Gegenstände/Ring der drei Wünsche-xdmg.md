@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Three Wishes
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ring of Three Wishes
 tags:

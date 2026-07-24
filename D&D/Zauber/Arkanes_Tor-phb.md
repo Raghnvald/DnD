@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkanes Tor
+Original: Arcane Gate
 Zaubergrad: 6
 Zeitaufwand: 1 Aktion
 Reichweite: 150 Meter
@@ -25,7 +26,6 @@ tags:
 aliases:
   - Arcane Gate
   - Arkanes Tor
-Original: Arcane Gate
 ---
 # Arkanes Tor
 *Beschwörung des 6. Grades*  

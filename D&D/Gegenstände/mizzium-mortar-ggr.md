@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mizzium Mortar
-Kategorie: Wundersamer Gegenstand 
+Original: Mizzium Mortar
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mizzium Mortar
 tags:

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Zeal
+Original: Zeal
+Seltenheit:
+  - unbekannt
 Kst.: 150 GM
 Gew.: n/v
 Status: WIP

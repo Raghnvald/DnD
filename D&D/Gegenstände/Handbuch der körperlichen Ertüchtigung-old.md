@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Handbuch der körperlichen Ertüchtigung
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Eigenschaften: []
 Kst.: /
 Gew.: 2,5 kg

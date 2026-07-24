@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Herbalism Kit
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Herbalism Kit
 tags:

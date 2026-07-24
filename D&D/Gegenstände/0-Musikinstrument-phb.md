@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Musikinstrument
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Musikinstrument
 tags:

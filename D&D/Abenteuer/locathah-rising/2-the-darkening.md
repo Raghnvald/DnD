@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lr
 aliases:
   - The Darkening
-  - The Darkening
 ---
 # The Darkening
 *Source: Locathah Rising, p. 3* 

@@ -7,7 +7,6 @@ tags:
   - Rasse/vampire
 aliases:
   - Vampire
-  - Vampire
 ---
 # Vampire
 *Source: Plane Shift: Zendikar p. 14, Plane Shift: Ixalan p. 14*  

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Maske der Bestie
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Maske der Bestie
 tags:

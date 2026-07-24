@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Painted gold war mask
+Original: Painted gold war mask
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

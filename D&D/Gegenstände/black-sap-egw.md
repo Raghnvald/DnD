@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Black Sap
+Original: Black Sap
+Seltenheit:
+  - keine
 Kst.: 300 GM
 Gew.: n/v
 Status: WIP

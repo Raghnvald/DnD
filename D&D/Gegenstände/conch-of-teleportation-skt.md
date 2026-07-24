@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Conch of Teleportation
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Conch of Teleportation
 tags:

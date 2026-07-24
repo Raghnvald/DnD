@@ -1,6 +1,8 @@
 ---
 Bezeichnung: White Dragon Scale Mail
 Original: White Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: White Dragon Scale Mail

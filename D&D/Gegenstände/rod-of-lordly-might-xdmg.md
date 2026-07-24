@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rod of Lordly Might
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Rod of Lordly Might
 tags:

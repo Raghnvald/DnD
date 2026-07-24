@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Malice
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: /

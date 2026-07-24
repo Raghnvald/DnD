@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Amaunator
-  - Amaunator
   - The Keeper of the Eternal Sun
   - The Light of Law
   - The Yellow God

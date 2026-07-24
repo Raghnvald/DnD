@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bread (loaf)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bread (loaf)
 tags:

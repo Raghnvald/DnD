@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Pipes of the Sewers
+Original: Pipes of the Sewers
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

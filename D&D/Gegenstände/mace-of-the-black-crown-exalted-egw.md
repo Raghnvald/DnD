@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Mace of the Black Crown (Exalted)
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - Artefakt
+Kst.: unbezahlbar
+Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Mace of the Black Crown (Exalted)
 tags:

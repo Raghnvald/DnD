@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Treasures
-  - Treasures
 ---
 # Treasures
 *Source: Mythic Odysseys of Theros, p. 195* 

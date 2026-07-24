@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Horn of Silent Alarm
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Horn of Silent Alarm
 tags:

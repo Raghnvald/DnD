@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Copper Alms-Coin
+Original: Copper Alms-Coin
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM

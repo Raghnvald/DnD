@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Gewöhnlicher Wein (Karaffe)
 Kategorie: Essen und Trinken
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 SM

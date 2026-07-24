@@ -7,7 +7,6 @@ tags:
   - Rasse/orc/ixalan
 aliases:
   - Orc (Ixalan)
-  - Orc (Ixalan)
 ---
 # Orc (Ixalan)
 *Source: Plane Shift: Ixalan p. 15*  

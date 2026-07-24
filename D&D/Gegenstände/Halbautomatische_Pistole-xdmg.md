@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Semiautomatic Pistol
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Semiautomatic Pistol
 tags:

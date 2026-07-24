@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Mind Flayer Skull
+Original: Mind Flayer Skull
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Mind Flayer Skull
 tags:

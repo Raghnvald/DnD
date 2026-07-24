@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Satz Spielkarten
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 SM

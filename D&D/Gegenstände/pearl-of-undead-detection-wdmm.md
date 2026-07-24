@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Pearl of Undead Detection
+Original: Pearl of Undead Detection
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Pearl of Undead Detection
 tags:

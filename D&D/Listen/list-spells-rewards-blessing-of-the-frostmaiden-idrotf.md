@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/blessing-of-the-frostmaiden
 aliases:
   - Spells for Blessing of the Frostmaiden
-  - Spells for Blessing of the Frostmaiden
 ---
 # Spells for Blessing of the Frostmaiden
 

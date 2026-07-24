@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/nrh-at
 aliases:
   - Restoring Harmony
-  - Restoring Harmony
 ---
 # Restoring Harmony
 *Source: NERDS Restoring Harmony: Adventure Together, p. 2* 

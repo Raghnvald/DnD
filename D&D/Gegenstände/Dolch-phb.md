@@ -2,6 +2,8 @@
 Bezeichnung: Dolch
 Original: Dagger
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1W4 Stich
 Eigenschaften:
   - Finesse

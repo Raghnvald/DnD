@@ -2,6 +2,12 @@
 Bezeichnung: Gedankenklinge
 Original: Mind Blade
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - selten
+Eigenschaften:
+  - variiert
+Kst.: 5.000 GM
+Gew.: variiert
 Status: WIP
 linter-yaml-title-alias: Gedankenklinge
 tags:
@@ -19,10 +25,6 @@ aliases:
   - Mind Blade Rapier
   - Mind Blade Scimitar
   - Mind Blade Shortsword
-Kst.: n/v
-Gew.: variiert
-Eigenschaften:
-  - variiert
 ---
 # Gedankenklinge
 *Rare (requires attunement by a specific individual)*  

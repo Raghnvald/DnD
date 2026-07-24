@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cart
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Cart
 tags:

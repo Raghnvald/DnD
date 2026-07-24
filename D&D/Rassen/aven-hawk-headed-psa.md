@@ -7,7 +7,6 @@ tags:
   - Rasse/aven/hawk-headed
 aliases:
   - Aven (Hawk-Headed)
-  - Aven (Hawk-Headed)
 ---
 # Aven (Hawk-Headed)
 *Source: Plane Shift: Amonkhet p. 16*  

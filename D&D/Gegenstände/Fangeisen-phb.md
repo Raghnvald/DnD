@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Fangeisen
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

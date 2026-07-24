@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Risian Shale)
+Original: Orb of Shielding (Risian Shale)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

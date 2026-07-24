@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Yew Wand
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Yew Wand
 tags:

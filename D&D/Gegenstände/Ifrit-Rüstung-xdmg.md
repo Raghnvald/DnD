@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Efreeti Chain
+Seltenheit:
+  - legendär
 Rüstung: Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Efreeti Chain

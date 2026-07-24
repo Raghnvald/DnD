@@ -2,10 +2,13 @@
 Bezeichnung: Giant Slayer
 Original: Giant Slayer
 Kategorie: Nahkampfwaffe, beliebig
+Seltenheit:
+  - selten
 Eigenschaften:
-  - /
-Kst.: /
-Gew.: /
+  - variiert
+Einstimmung: n/v
+Kst.: 5.000 GM
+Gew.: variiert
 Status: WIP
 linter-yaml-title-alias: Giant Slayer
 tags:

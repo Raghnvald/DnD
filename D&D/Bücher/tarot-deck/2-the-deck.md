@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/td
 aliases:
   - The Deck
-  - The Deck
 ---
 # The Deck
 *Source: Tarot Deck, p. 8* 

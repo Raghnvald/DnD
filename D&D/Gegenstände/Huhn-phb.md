@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Huhn
+Original: Chicken
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Huhn
-Original: Chicken
 ---
 # Huhn
 *Handelsgut*  

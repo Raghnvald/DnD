@@ -2,6 +2,8 @@
 Bezeichnung: Netz
 Original: Net
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Netz
 tags:

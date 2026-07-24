@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of the Ram
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of the Ram
 tags:

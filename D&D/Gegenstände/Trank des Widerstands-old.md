@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Trank des Widerstands
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - /
 Kst.: 200 GM

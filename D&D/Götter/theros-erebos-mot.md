@@ -3,12 +3,11 @@ Bezeichnung: Erebos
 Status: WIP
 linter-yaml-title-alias: Erebos
 tags:
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - Erebos
   - Erebos
 ---
 # Erebos

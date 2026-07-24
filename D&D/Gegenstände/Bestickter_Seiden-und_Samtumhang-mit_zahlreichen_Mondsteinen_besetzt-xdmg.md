@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Embroidered silk and velvet mantle set with numerous moonstones
+Seltenheit:
+  - keine
 Kst.: 2.500 GM
 Gew.: /
 Status: WIP

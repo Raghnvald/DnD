@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Bizas Atem
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: n/v

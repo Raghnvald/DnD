@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Insektenabwehr (fettreiche Salbe)
+Original: Insect Repellent (Greasy Salve)
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

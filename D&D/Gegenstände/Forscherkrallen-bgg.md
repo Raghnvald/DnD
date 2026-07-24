@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Delver's Claws"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Delver's Claws"
 tags:

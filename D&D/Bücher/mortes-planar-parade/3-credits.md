@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mpp
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Morte's Planar Parade* 

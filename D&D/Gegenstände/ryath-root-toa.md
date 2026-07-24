@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ryath Root
+Original: Ryath Root
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Kst.: 50 GM

@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Storm Cannon
-  - Storm Cannon
 ---
 # Storm Cannon
 *Source: Hold Back The Dead p. 4*  

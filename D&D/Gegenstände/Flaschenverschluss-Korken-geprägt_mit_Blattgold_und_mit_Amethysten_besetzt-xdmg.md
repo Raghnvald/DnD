@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 tags:

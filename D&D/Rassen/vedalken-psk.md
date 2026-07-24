@@ -7,7 +7,6 @@ tags:
   - Rasse/vedalken
 aliases:
   - Vedalken
-  - Vedalken
 ---
 # Vedalken
 *Source: Plane Shift: Kaladesh p. 23*  

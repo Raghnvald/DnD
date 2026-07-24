@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rod of Retribution
+Original: Rod of Retribution
 Kategorie: Zepter
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Rod of Retribution
 tags:

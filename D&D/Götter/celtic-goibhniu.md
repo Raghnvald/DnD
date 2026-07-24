@@ -4,9 +4,9 @@ Status: WIP
 linter-yaml-title-alias: Goibhniu
 tags:
   - Kompendium/Götter/celtic
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Leben
   - Quelle/5e/phb
 aliases:
   - Goibhniu

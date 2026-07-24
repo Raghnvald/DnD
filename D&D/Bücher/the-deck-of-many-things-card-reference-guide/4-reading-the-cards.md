@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dmtcrg
 aliases:
   - Reading the Cards
-  - Reading the Cards
 ---
 # Reading the Cards
 *Source: The Deck of Many Things: Card Reference Guide, p. 14* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Topaz
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Topaz
 tags:

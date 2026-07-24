@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Chauntea
-  - Chauntea
   - The Grain Goddess
   - The Great Mother
 ---

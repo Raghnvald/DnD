@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Greater Absorption
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Greater Absorption
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Greater Absorption
 tags:

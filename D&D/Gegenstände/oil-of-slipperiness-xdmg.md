@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Oil of Slipperiness
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Oil of Slipperiness
 tags:

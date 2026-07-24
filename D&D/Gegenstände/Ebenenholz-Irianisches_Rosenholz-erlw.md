@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Irian Rosewood)
 Original: Imbued Wood (Irian Rosewood)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

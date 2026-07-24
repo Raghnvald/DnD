@@ -7,7 +7,6 @@ tags:
   - Rasse/goblin
 aliases:
   - Goblin
-  - Goblin
 ---
 # Goblin
 *Source: Plane Shift: Zendikar p. 16, Plane Shift: Ixalan p. 16*  

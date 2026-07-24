@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 6)
 Kategorie: Schriftrolle
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - /
 Kst.: 40.000 GM

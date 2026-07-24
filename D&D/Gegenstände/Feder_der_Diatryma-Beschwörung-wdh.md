@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Feather of Diatryma Summoning
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Feather of Diatryma Summoning
 tags:

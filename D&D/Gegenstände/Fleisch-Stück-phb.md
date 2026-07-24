@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Fleisch, Stück
 Kategorie: Essen und Trinken
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 3 SM

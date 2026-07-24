@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +3 Shield
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: +3 Shield

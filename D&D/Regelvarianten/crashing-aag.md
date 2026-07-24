@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Crashing
-  - Crashing
 ---
 # Crashing
 *Source: Astral Adventurer's Guide p. 25* 

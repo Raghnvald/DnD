@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Polearm Master
-  - Polearm Master
 ---
 # Polearm Master
 *Source: Player's Handbook p. 168*  

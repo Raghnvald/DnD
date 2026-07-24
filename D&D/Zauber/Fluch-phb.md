@@ -2,8 +2,12 @@
 Bezeichnung: Fluch
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Bestow Curse
+linter-yaml-title-alias: Fluch
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -23,11 +27,7 @@ tags:
   - Zauber/optfeature/sign-of-ill-omen
   - Zauber/Schule/Nekromantie
 aliases:
-  - Bestow Curse
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Schaden:
+  - Fluch
 ---
 # Fluch
 *3rd-level, Necromancy*  

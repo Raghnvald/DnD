@@ -3,8 +3,8 @@ Bezeichnung: Gadhelyn
 Status: WIP
 linter-yaml-title-alias: Gadhelyn
 tags:
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

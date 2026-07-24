@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Comprehension
+Original: Potion of Comprehension
 Kategorie: Trank
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Comprehension
 tags:

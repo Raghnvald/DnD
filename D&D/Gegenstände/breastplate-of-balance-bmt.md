@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Breastplate of Balance
 Original: Breastplate of Balance
+Seltenheit:
+  - selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Breastplate of Balance

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/llk
 aliases:
   - Deck of Several Things
-  - Deck of Several Things
 ---
 # Deck of Several Things
 *Source: Lost Laboratory of Kwalish p. 53*  

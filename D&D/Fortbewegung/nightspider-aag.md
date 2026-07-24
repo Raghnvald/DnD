@@ -3,11 +3,10 @@ Bezeichnung: Nightspider
 Status: WIP
 linter-yaml-title-alias: Nightspider
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Nightspider
   - Nightspider
 ---
 # Nightspider

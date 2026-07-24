@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kielboot
+Original: Keelboat
 Kategorie: Luft- und Wasserfahrzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 3.000 GM

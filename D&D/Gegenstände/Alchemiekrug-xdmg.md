@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Alchemy Jug
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Alchemy Jug
 tags:

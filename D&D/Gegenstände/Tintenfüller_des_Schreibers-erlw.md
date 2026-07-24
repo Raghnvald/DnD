@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Scribe's Pen"
-Kategorie: Wundersamer Gegenstand 
+Original: "Scribe's Pen"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Scribe's Pen"
 tags:

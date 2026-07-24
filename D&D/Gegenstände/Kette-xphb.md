@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chain
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Chain
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Command Amulet
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Command Amulet
 tags:

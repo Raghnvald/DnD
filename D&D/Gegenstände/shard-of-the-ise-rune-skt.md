@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Shard of the Ise Rune
-Kategorie: Wundersamer Gegenstand 
+Original: Shard of the Ise Rune
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Shard of the Ise Rune
 tags:

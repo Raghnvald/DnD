@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/rmbre
 aliases:
   - Captain A-Hole
-  - Captain A-Hole
 ---
 # Captain A-Hole
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 21*  

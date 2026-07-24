@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Protection
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Protection
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Protection
 tags:

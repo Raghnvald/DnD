@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Totem
+Original: Totem
 Kategorie: Fokus, Druidisch
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

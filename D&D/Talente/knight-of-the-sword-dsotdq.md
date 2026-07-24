@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Knight of the Sword
-  - Knight of the Sword
 ---
 # Knight of the Sword
 *Source: Dragonlance: Shadow of the Dragon Queen p. 33*  

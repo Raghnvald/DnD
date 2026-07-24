@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wings of Flying
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wings of Flying
 tags:

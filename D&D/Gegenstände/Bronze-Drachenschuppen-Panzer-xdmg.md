@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bronze Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Bronze Dragon Scale Mail

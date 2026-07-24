@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rüstung des Energie-Widerstands
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Rüstung des Energie-Widerstands

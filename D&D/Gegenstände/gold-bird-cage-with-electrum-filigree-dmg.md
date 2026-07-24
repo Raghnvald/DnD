@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold bird cage with electrum filigree
+Original: Gold bird cage with electrum filigree
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

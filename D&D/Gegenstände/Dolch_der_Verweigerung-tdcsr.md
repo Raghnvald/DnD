@@ -2,13 +2,15 @@
 Bezeichnung: Dolch der Verweigerung
 Original: Dagger of Denial
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - selten
 Schaden: 1W4 Stich
 Eigenschaften:
   - Finesse
   - Leicht
   - Wurfwaffe
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Dolch der Verweigerung

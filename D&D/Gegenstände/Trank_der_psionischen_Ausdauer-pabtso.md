@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Trank der Psionischen Ausdauer
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Trank der Psionischen Ausdauer
 tags:

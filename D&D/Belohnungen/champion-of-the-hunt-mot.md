@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of the Hunt
-  - Champion of the Hunt
 ---
 # Champion of the Hunt
 *Piety Trait*  

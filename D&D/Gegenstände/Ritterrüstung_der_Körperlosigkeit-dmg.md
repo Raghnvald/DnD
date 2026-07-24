@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Ritterrüstung der Körperlosigkeit
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Eigenschaften:
   - n/v
+Einstimmung: erforderlich
 Kst.: n/v
 Gew.: 32,5 kg
 RK: 18
@@ -19,7 +22,6 @@ tags:
 aliases:
   - Ritterrüstung der Körperlosigkeit
 status: WIP
-Einstimmung: erforderlich
 ---
 # Ritterrüstung der Körperlosigkeit
 *Rüstung ([[Ritterrüstung-phb|Ritterrüstung]]), legendär (erfordert Einstimmung)*

@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/outlands-envoy
 aliases:
   - Spells for Outlands Envoy
-  - Spells for Outlands Envoy
 ---
 # Spells for Outlands Envoy
 

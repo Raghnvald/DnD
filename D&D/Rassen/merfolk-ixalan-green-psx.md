@@ -7,7 +7,6 @@ tags:
   - Rasse/merfolk/ixalan-green
 aliases:
   - Merfolk (Ixalan; Green)
-  - Merfolk (Ixalan; Green)
 ---
 # Merfolk (Ixalan; Green)
 *Source: Plane Shift: Ixalan p. 12*  

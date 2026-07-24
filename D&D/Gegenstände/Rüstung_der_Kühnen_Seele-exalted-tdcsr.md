@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of the Valiant Soul (Exalted)
+Seltenheit:
+  - legendär
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Armor of the Valiant Soul (Exalted)

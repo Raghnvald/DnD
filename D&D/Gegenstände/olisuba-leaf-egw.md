@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Olisuba Leaf
+Original: Olisuba Leaf
+Seltenheit:
+  - keine
 Kst.: 50 GM
 Gew.: n/v
 Status: WIP

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Chalcedon
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

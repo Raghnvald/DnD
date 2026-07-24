@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Flensing Claws (Medium)
+Original: Flensing Claws (Medium)
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Flensing Claws (Medium)
 tags:

@@ -2,6 +2,8 @@
 Bezeichnung: Sonnenklinge
 Original: Sun Blade
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Schaden: 1W8 Gleißend
 Eigenschaften:
   - Finesse

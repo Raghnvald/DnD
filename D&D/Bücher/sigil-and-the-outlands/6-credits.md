@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sato
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Sigil and the Outlands* 

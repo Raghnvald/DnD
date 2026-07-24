@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kleidung, gewöhnlich
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 SM

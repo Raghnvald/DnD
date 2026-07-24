@@ -7,7 +7,6 @@ tags:
   - Rasse/kalashtar
 aliases:
   - Kalashtar
-  - Kalashtar
 ---
 # Kalashtar
 *Source: Eberron: Forge of the Artificer p. 35*  

@@ -2,12 +2,14 @@
 Bezeichnung: Schwert der Vergeltung
 Original: Sword of Vengeance
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - ungewöhnlich
 Schaden: variiert
 Eigenschaften:
   - variiert
   - Verflucht
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 500 GM
 Gew.: variiert
 Status: completed
 linter-yaml-title-alias: Schwert der Vergeltung

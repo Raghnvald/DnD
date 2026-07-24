@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Shield of Missile Attraction
+Seltenheit:
+  - selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Shield of Missile Attraction

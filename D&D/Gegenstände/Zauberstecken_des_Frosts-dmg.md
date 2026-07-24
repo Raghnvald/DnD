@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Staff of Frost
+Original: Staff of Frost
 Kategorie: Zauberstecken
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Vielseitig (1W8)
+Einstimmung: durch einen Druiden, Hexenmeister, Magier oder Zauberer
 Kst.: /
 Gew.: 2,0 kg
 Status: WIP
-Einstimmung: durch einen Druiden, Hexenmeister, Magier oder Zauberer
 linter-yaml-title-alias: Staff of Frost
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Staff of Frost
 status: Typ
-Original: Staff of Frost
 ---
 # Staff of Frost
 *Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

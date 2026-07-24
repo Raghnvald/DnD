@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subclass/ambition-domain-psa
 aliases:
   - Spells for Ambition Domain (PSA)
-  - Spells for Ambition Domain (PSA)
 ---
 # Spells for Ambition Domain (PSA)
 

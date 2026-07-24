@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Fire Breath
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Fire Breath
 tags:

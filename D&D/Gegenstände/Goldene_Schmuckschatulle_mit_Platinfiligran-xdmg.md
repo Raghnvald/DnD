@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold jewelry box with platinum filigree
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold jewelry box with platinum filigree
 tags:

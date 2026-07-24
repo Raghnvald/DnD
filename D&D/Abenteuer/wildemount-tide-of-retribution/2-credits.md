@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tor
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Wildemount: Tide of Retribution* 

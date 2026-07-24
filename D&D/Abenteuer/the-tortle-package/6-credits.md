@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/ttp
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: The Tortle Package* 

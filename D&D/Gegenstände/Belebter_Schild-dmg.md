@@ -2,6 +2,8 @@
 Bezeichnung: Belebter Schild
 Original: Animated Shield
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Eigenschaften:
   - n/v

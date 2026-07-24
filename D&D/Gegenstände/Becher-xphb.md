@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Flask
+Seltenheit:
+  - keine
 Kst.: 2 KM
 Gew.: 0,5 kg
 Status: WIP

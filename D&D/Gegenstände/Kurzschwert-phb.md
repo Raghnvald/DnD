@@ -2,6 +2,8 @@
 Bezeichnung: Kurzschwert
 Original: Shortsword
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1d6 Stich
 Eigenschaften:
   - Finesse

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of the Adder
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Staff of the Adder
 tags:

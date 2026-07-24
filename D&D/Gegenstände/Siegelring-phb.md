@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Siegelring
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM
 Gew.: n/v
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Siegelring
 tags:
   - Gegenstand/Ausrüstung/

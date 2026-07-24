@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Shawm
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Shawm
 tags:

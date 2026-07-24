@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Robe of Scintillating Colors
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Robe of Scintillating Colors
 tags:

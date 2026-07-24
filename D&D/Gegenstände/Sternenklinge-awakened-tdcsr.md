@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Star Razor (Awakened)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Star Razor (Awakened)
 tags:

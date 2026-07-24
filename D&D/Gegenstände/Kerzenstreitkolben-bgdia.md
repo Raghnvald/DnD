@@ -2,6 +2,8 @@
 Bezeichnung: Kerzenstreitkolben
 Original: Candela Mace
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - unbekannt
 Schaden: 1W6 Wucht
 Eigenschaften:
   - n/v

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Crystalline Chronicle
-Kategorie: Wundersamer Gegenstand 
+Original: Crystalline Chronicle
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Crystalline Chronicle
 tags:

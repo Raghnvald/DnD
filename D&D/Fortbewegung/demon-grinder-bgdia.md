@@ -3,8 +3,8 @@ Bezeichnung: Demon Grinder
 Status: WIP
 linter-yaml-title-alias: Demon Grinder
 tags:
-  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Kategorie/Höllische-Kriegsmaschine
   - Quelle/5e/bgdia
 aliases:

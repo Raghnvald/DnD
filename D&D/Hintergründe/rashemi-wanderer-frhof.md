@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Rashemi Wanderer
-  - Rashemi Wanderer
 ---
 # Rashemi Wanderer
 *Source: Forgotten Realms: Heroes of Faerûn p. 35*  

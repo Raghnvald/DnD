@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enduring Spellbook
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Enduring Spellbook
 tags:

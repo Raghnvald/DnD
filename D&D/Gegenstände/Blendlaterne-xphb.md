@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bullseye Lantern
+Seltenheit:
+  - keine
 Kst.: 10 GM
 Gew.: 1,0 kg
 Status: WIP

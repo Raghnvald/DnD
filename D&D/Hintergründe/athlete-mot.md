@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Athlete
-  - Athlete
 ---
 # Athlete
 *Source: Mythic Odysseys of Theros p. 31*  

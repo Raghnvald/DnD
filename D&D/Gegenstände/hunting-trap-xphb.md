@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hunting Trap
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Hunting Trap
 tags:

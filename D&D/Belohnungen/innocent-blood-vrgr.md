@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Innocent Blood
-  - Innocent Blood
 ---
 # Innocent Blood
 *Curse*  

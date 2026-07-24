@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/crcotn
 aliases:
   - Fragment of Despondence
-  - Fragment of Despondence
 ---
 # Fragment of Despondence
 *Fragment of Suffering*  

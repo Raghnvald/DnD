@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aitfr-thp
 aliases:
   - The Hidden Page
-  - The Hidden Page
 ---
 # The Hidden Page
 *Source: Adventures in the Forgotten Realms: The Hidden Page, p. 2* 

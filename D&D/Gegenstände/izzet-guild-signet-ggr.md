@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Izzet Guild Signet
+Original: Izzet Guild Signet
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
-Gew.: /
+Kst.: n/v
+Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Izzet Guild Signet
 tags:

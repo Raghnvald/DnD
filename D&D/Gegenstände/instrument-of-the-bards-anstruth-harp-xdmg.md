@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of the Bards, Anstruth Harp
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Anstruth Harp
 tags:

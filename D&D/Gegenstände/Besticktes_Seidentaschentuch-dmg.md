@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Embroidered silk handkerchief
+Original: Embroidered silk handkerchief
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

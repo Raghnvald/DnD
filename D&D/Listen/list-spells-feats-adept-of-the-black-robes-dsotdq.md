@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/adept-of-the-black-robes
 aliases:
   - Spells for Adept of the Black Robes
-  - Spells for Adept of the Black Robes
 ---
 # Spells for Adept of the Black Robes
 

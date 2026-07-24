@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Luck Blade
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Luck Blade
 tags:

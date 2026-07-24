@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Deck of Oracles
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Deck of Oracles
 tags:

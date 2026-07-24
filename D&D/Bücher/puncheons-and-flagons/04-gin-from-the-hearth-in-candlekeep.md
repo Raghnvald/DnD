@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Gin from The Hearth in Candlekeep
-  - Gin from The Hearth in Candlekeep
 ---
 # Gin from The Hearth in Candlekeep
 *Source: Puncheons and Flagons, p. 14* 

@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Schienenpanzer
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Schwer
 Eigenschaften:
   - n/v
+Einstimmung: n/v
 Kst.: 200 GM
 Gew.: 30,0 kg
 RK: 17
@@ -17,7 +20,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schienenpanzer
-Einstimmung: n/v
 ---
 # Schienenpanzer
 *Schwere Rüstung*  

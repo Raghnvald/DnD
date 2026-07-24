@@ -3,9 +3,9 @@ Bezeichnung: The Silver Flame
 Status: WIP
 linter-yaml-title-alias: The Silver Flame
 tags:
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
-  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

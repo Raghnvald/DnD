@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild des Verborgenen Herschers
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Schild
 Eigenschaften:
   - /

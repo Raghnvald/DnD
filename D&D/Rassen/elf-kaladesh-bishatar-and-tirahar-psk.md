@@ -7,7 +7,6 @@ tags:
   - Rasse/elf/kaladesh-bishatar-and-tirahar
 aliases:
   - Elf (Kaladesh; Bishatar and Tirahar)
-  - Elf (Kaladesh; Bishatar and Tirahar)
 ---
 # Elf (Kaladesh; Bishatar and Tirahar)
 *Source: Plane Shift: Kaladesh p. 21*  

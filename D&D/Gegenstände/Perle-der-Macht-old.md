@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Perle der Macht
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Perle der Macht
 tags:

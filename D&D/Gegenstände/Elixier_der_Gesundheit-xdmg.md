@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Elixir of Health
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Elixir of Health
 tags:

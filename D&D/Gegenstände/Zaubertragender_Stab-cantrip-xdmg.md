@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Staff (Cantrip)
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Enspelled Staff (Cantrip)
 tags:

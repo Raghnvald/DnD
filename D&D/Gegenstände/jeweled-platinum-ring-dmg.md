@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Jeweled platinum ring
+Original: Jeweled platinum ring
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

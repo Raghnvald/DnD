@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Robe of the Archmagi
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Robe of the Archmagi
 tags:

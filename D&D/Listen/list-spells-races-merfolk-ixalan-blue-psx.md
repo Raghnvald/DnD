@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subrace/merfolk-ixalan-blue
 aliases:
   - Spells for Merfolk (Ixalan; Blue)
-  - Spells for Merfolk (Ixalan; Blue)
 ---
 # Spells for Merfolk (Ixalan; Blue)
 

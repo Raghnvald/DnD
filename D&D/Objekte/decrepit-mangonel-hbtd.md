@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Decrepit Mangonel
-  - Decrepit Mangonel
 ---
 # Decrepit Mangonel
 *Source: Hold Back The Dead p. 5*  

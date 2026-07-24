@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Shield of the Tortoise
 Original: Shield of the Tortoise
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Shield of the Tortoise

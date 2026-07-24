@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Mitternachtstränen
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 1.500 GM

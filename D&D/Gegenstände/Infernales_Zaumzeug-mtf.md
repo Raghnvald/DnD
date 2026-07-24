@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Infernal Tack
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Infernal Tack
 tags:

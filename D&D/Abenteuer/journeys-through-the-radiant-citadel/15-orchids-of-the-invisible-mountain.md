@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Orchids of the Invisible Mountain
-  - Orchids of the Invisible Mountain
 ---
 # Orchids of the Invisible Mountain
 *Source: Journeys through the Radiant Citadel, p. 202* 

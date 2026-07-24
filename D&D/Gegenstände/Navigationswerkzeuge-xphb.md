@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Navigator's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Navigator's Tools"
 tags:

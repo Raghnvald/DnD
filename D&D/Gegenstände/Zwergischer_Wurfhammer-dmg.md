@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Dwarven Thrower
+Original: Dwarven Thrower
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
+Kst.: 50.000 GM
 Status: WIP
 linter-yaml-title-alias: Dwarven Thrower
 tags:
@@ -12,7 +16,6 @@ tags:
 aliases:
   - Dwarven Thrower
 status: WIP
-Original: Dwarven Thrower
 ---
 # Dwarven Thrower
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer.md)), major, very rare (requires attunement by a dwarf)*  

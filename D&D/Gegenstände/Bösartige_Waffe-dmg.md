@@ -2,6 +2,8 @@
 Bezeichnung: Bösartige Waffe
 Original: Vicious Weapon
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - selten
 Schaden: variiert
 Eigenschaften:
   - n/v

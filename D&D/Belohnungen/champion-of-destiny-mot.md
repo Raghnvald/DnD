@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of Destiny
-  - Champion of Destiny
 ---
 # Champion of Destiny
 *Piety Trait*  

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Muroosa Balm
+Original: Muroosa Balm
+Seltenheit:
+  - keine
 Kst.: 100 GM
 Gew.: n/v
 Status: WIP

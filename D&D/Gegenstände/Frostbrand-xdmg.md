@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Frost Brand
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Frost Brand
 tags:

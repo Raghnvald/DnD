@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold
 tags:

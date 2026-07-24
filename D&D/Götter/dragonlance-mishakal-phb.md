@@ -3,9 +3,9 @@ Bezeichnung: Mishakal
 Status: WIP
 linter-yaml-title-alias: Mishakal
 tags:
-  - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gilded royal coach or funeral barge
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gilded royal coach or funeral barge
 tags:

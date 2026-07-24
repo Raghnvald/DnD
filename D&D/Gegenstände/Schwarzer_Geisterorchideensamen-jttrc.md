@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schwarzer Geisterorchideensamen
+Original: Black Ghost Orchid Seed
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Risian Pine)
 Original: Imbued Wood (Risian Pine)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

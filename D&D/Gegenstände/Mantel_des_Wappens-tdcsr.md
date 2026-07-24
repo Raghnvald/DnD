@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Coat of the Crest
-Kategorie: Wundersamer Gegenstand 
+Original: Coat of the Crest
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Coat of the Crest
 tags:

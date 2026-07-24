@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Lock
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Lock
 tags:

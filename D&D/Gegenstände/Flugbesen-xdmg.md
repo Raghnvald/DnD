@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Broom of Flying
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Broom of Flying
 tags:

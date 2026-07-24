@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Residuum
+Original: Residuum
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Kst.: 500 GM
@@ -13,7 +16,6 @@ tags:
 aliases:
   - Residuum
 status: WIP
-Original: Residuum
 ---
 # Residuum
 *Trade good*  

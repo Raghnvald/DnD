@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Flail
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Flail
 tags:

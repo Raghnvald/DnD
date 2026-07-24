@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sentinel Shield
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Sentinel Shield

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Psychic Resistance
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Psychic Resistance

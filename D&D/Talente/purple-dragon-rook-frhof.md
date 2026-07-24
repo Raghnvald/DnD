@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Purple Dragon Rook
-  - Purple Dragon Rook
 ---
 # Purple Dragon Rook
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

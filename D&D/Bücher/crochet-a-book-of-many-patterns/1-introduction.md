@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/cabomp
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: Crochet: A Book of Many Patterns, p. 1* 

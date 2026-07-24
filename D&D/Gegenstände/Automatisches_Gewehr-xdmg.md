@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Automatic Rifle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Automatic Rifle
 tags:

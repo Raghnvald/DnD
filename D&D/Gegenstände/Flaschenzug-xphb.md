@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Block and Tackle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Block and Tackle
 tags:

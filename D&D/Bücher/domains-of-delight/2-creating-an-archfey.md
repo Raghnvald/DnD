@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dod
 aliases:
   - Creating an Archfey
-  - Creating an Archfey
 ---
 # Creating an Archfey
 *Source: Domains of Delight, p. 12* 

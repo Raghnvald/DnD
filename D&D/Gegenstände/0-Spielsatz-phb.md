@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Spielsatz
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Status: completed
 linter-yaml-title-alias: Spielsatz
 tags:

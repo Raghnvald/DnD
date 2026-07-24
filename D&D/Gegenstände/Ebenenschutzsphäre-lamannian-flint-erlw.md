@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Lamannian Flint)
+Original: Orb of Shielding (Lamannian Flint)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

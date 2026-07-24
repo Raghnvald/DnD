@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Wages of Vice
-  - Wages of Vice
 ---
 # Wages of Vice
 *Source: Journeys through the Radiant Citadel, p. 66* 

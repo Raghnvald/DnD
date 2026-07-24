@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Airship
+Original: Airship
 Kategorie: Luft- und Wasserfahrzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 20.000 GM

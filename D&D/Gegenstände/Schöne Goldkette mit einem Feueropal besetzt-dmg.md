@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Fine gold chain set with a fire opal
+Original: Fine gold chain set with a fire opal
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

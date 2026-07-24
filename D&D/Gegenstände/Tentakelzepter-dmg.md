@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tentacle Rod
+Original: Tentacle Rod
 Kategorie: Zepter
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Tentacle Rod
 tags:

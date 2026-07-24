@@ -2,13 +2,16 @@
 Bezeichnung: Blade of Broken Mirrors
 Original: Blade of Broken Mirrors
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - Artefakt
 Eigenschaften:
   - Finesse
   - Leicht
   - Relikt der Divergenz
   - Wurfwaffe
 Einstimmung: durch einen Humanoiden
-Kst.: n/v
+Kst.: unbezahlbar
+Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Blade of Broken Mirrors
 tags:
@@ -20,7 +23,6 @@ tags:
 aliases:
   - Blade of Broken Mirrors
 status: WIP
-Gew.: 0,5 kg
 ---
 # Blade of Broken Mirrors
 *Weapon ([[Dolch-xphb|Dolch]]), artifact (requires attunement by a humanoid)*  

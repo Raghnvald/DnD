@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Willowshade Oil
+Original: Willowshade Oil
+Seltenheit:
+  - keine
 Kst.: 30 GM
 Gew.: n/v
 Status: WIP

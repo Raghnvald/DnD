@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Star Ruby
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Star Ruby
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Grimoire Infinitus (Exalted)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Grimoire Infinitus (Exalted)
 tags:

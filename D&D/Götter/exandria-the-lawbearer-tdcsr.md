@@ -3,8 +3,8 @@ Bezeichnung: The Lawbearer
 Status: WIP
 linter-yaml-title-alias: The Lawbearer
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ingot of the Skold Rune
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ingot of the Skold Rune
 tags:

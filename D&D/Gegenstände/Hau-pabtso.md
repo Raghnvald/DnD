@@ -2,6 +2,8 @@
 Bezeichnung: Hau
 Original: Hew
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Hau
 tags:

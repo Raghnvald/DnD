@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Outer Essence Shard
-Kategorie: Wundersamer Gegenstand 
+Original: Outer Essence Shard
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Outer Essence Shard
 tags:

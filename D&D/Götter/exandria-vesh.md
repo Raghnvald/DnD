@@ -3,8 +3,8 @@ Bezeichnung: Vesh
 Status: WIP
 linter-yaml-title-alias: Vesh
 tags:
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

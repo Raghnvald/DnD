@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Bahamut
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Leben
   - Quelle/5e/dmg
 aliases:
   - Bahamut

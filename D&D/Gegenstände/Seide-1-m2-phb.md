@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Seide (1m²)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Seide (1m²)
 tags:

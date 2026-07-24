@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Copper chalice with silver filigree
+Seltenheit:
+  - keine
 Kst.: 25 GM
 Status: WIP
 linter-yaml-title-alias: Copper chalice with silver filigree

@@ -7,7 +7,6 @@ tags:
   - Rasse/merfolk/ixalan-blue
 aliases:
   - Merfolk (Ixalan; Blue)
-  - Merfolk (Ixalan; Blue)
 ---
 # Merfolk (Ixalan; Blue)
 *Source: Plane Shift: Ixalan p. 12*  

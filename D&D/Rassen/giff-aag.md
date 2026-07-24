@@ -7,7 +7,6 @@ tags:
   - Rasse/giff
 aliases:
   - Giff
-  - Giff
 ---
 # Giff
 *Source: Astral Adventurer's Guide p. 12*  

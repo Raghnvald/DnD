@@ -3,8 +3,8 @@ Bezeichnung: Gruumsh
 Status: WIP
 linter-yaml-title-alias: Gruumsh
 tags:
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/orc
   - Quelle/5e/vgm
 aliases:

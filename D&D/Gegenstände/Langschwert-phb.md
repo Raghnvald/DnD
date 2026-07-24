@@ -2,6 +2,8 @@
 Bezeichnung: Langschwert
 Original: Longsword
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1W8 Hieb
 Eigenschaften:
   - Vielseitig (1W10)

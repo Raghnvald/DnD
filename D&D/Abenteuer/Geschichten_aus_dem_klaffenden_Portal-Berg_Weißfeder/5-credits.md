@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-wpm
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Tales from the Yawning Portal: White Plume Mountain* 

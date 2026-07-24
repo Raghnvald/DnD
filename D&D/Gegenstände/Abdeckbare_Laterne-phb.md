@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Abdeckbare Laterne
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

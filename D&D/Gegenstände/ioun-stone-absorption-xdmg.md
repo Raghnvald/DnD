@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Absorption
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Absorption
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Woodcarver's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Woodcarver's Tools"
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mace of Smiting
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mace of Smiting
 tags:

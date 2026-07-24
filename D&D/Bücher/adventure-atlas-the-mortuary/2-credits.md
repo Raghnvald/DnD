@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aatm
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Adventure Atlas: The Mortuary* 

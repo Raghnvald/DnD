@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Azorius Keyrune
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Azorius Keyrune
 tags:

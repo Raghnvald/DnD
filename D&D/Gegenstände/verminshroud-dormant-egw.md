@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Verminshroud (Dormant)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Verminshroud (Dormant)
 tags:

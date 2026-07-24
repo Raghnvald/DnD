@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Electrum 50-Zib Coin
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Electrum 50-Zib Coin
 tags:

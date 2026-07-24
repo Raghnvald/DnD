@@ -7,7 +7,6 @@ tags:
   - Rasse/goblin/zendikar-grotag-tribe
 aliases:
   - Goblin (Zendikar; Grotag Tribe)
-  - Goblin (Zendikar; Grotag Tribe)
 ---
 # Goblin (Zendikar; Grotag Tribe)
 *Source: Plane Shift: Zendikar p. 17*  

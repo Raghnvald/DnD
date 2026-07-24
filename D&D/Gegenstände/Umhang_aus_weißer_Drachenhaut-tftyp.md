@@ -1,5 +1,8 @@
 ---
 Bezeichnung: White Dragon Cape
+Original: White Dragon Cape
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: White Dragon Cape
 tags:

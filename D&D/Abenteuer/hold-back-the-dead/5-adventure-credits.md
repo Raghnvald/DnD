@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Adventure Credits
-  - Adventure Credits
 ---
 # Adventure Credits
 *Source: Hold Back The Dead, p. 9* 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Blasrohrpfeil
+Original: Blowgun Needle
 Kategorie: Munition
+Seltenheit:
+  - keine
 Eigenschaften:
   - Munition
 Kst.: 2 KM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Blasrohrpfeil
-status: WIP
 ---
 # Blasrohrpfeil
 *Munition*  

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Armor of Weightlessness
+Original: Armor of Weightlessness
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Weightlessness
@@ -26,7 +29,6 @@ aliases:
   - Spiked Armor of Weightlessness
   - Splint Armor of Weightlessness
   - Studded Leather Armor of Weightlessness
-Original: Armor of Weightlessness
 ---
 # Armor of Weightlessness
 *Uncommon (requires attunement)*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold music box
+Original: Gold music box
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

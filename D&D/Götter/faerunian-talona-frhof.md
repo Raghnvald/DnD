@@ -9,7 +9,6 @@ aliases:
   - Lady of Poison
   - Mistress of Disease
   - Talona
-  - Talona
   - The Plague Crone
 ---
 # Talona

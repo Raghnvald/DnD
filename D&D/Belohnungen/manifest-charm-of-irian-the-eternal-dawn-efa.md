@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Irian, the Eternal Dawn
-  - Manifest Charm of Irian, the Eternal Dawn
 ---
 # Manifest Charm of Irian, the Eternal Dawn
 *Charm*  

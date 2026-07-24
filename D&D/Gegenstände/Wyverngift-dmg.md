@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wyverngift
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 1.200 GM

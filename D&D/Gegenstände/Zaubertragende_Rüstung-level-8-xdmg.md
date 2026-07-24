@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 8)
+Seltenheit:
+  - legendär
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Enspelled Armor (Level 8)

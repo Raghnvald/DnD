@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Metallkügelchen (Beutel mit 1.000 Stück)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Metallkügelchen (Beutel mit 1.000 Stück)
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Reitpferd
+Original: Riding Horse
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 75 GM
@@ -14,9 +17,7 @@ tags:
 aliases:
   - Reitpferd
 Bew.: 18 m
-status: WIP
 Traglast: 480 Pfd.
-Original: Riding Horse
 ---
 # Reitpferd
 *Reit- und Lasttiere*  

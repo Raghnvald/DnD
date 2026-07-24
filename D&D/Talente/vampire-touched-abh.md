@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Vampire Touched
-  - Vampire Touched
 ---
 # Vampire Touched
 *Source: Astarion's Book of Hungers p. 10*  

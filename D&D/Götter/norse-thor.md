@@ -3,8 +3,8 @@ Bezeichnung: Thor
 Status: WIP
 linter-yaml-title-alias: Thor
 tags:
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

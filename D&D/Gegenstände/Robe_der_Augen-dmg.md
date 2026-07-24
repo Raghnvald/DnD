@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Robe of Eyes
-Kategorie: Wundersamer Gegenstand 
+Original: Robe of Eyes
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Robe of Eyes
 tags:

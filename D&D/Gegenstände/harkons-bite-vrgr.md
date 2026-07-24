@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Harkon's Bite"
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Harkon's Bite"
 tags:

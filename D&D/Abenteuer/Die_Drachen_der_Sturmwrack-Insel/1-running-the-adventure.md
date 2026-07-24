@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dosi
 aliases:
   - Running the Adventure
-  - Running the Adventure
 ---
 # Running the Adventure
 *Source: Dragons of Stormwreck Isle, p. 2* 

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/ftd
 aliases:
   - Tongue of the Dragon
-  - Tongue of the Dragon
 ---
 # Tongue of the Dragon
 *Draconic Gift, uncommon*  

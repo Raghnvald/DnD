@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/observatory-charm
 aliases:
   - Spells for Observatory Charm
-  - Spells for Observatory Charm
 ---
 # Spells for Observatory Charm
 

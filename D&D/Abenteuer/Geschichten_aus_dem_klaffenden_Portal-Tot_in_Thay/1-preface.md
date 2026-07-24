@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-dit
 aliases:
   - Preface
-  - Preface
 ---
 # Preface
 *Source: Tales from the Yawning Portal: Dead in Thay, p. 4* 

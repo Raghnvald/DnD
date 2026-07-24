@@ -2,6 +2,8 @@
 Bezeichnung: Morgenstern
 Original: Morningstar
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1W8 Stich
 Eigenschaften:
   - n/v

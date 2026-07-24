@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Feywild Shard
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Feywild Shard
 tags:

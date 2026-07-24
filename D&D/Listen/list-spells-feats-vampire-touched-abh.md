@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/vampire-touched
 aliases:
   - Spells for Vampire Touched
-  - Spells for Vampire Touched
 ---
 # Spells for Vampire Touched
 

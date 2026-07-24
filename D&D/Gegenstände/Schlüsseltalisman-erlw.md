@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Keycharm
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Keycharm
 tags:

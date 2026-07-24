@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Fortitude
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Fortitude
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Fortitude
 tags:

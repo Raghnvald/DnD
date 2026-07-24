@@ -2,6 +2,8 @@
 Bezeichnung: Bombe
 Original: Bomb
 Kategorie: Sprengstoff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bombe
 tags:

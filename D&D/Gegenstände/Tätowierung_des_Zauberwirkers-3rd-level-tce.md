@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Spellwrought Tattoo (3rd Level)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Spellwrought Tattoo (3rd Level)
 tags:

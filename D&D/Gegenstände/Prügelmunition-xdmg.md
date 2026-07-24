@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Walloping Ammunition
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Walloping Ammunition
 tags:

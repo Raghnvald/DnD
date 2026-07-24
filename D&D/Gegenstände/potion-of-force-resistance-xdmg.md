@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Force Resistance
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Force Resistance
 tags:

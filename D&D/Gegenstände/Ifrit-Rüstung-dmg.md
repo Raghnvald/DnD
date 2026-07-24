@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ifrit-Rüstung
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Eigenschaften:
   - n/v

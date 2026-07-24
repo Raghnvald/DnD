@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Belt of Giant Strength
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Belt of Giant Strength
 tags:

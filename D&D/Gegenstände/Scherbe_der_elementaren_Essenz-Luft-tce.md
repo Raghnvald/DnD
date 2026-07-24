@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Elemental Essence Shard (Air)
-Kategorie: Wundersamer Gegenstand 
+Original: Elemental Essence Shard (Air)
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Elemental Essence Shard (Air)
 tags:

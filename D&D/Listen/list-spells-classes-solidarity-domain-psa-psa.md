@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subclass/solidarity-domain-psa
 aliases:
   - Spells for Solidarity Domain (PSA)
-  - Spells for Solidarity Domain (PSA)
 ---
 # Spells for Solidarity Domain (PSA)
 

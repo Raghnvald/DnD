@@ -2,6 +2,9 @@
 Bezeichnung: Dreizack der Fischherrschaft
 Original: Trident of Fish Command
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - ungewöhnlich
+Kst.: 500 GM
 Status: WIP
 linter-yaml-title-alias: Dreizack der Fischherrschaft
 tags:

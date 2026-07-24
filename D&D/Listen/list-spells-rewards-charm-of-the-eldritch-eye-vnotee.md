@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-the-eldritch-eye
 aliases:
   - Spells for Charm of the Eldritch Eye
-  - Spells for Charm of the Eldritch Eye
 ---
 # Spells for Charm of the Eldritch Eye
 

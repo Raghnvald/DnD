@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kriegsgong
+Original: Wargong
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

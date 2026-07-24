@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Horn der Sprengung
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Horn der Sprengung
 tags:

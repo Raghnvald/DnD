@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tiger Eye
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Tiger Eye
 tags:

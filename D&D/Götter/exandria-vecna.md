@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Vecna
 tags:
   - Kompendium/Götter/Domäne/Arkan
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dice Set
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dice Set
 tags:

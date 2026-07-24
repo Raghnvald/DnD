@@ -1,7 +1,11 @@
 ---
-Bezeichnung: Glyphe des Schutzes
+Bezeichnung: Glyph of Warding
 Zaubergrad: 3
 Zeitaufwand: 1 Stunde
+Reichweite: Berührung
+Komponenten: V, G, M
+Wirkungsdauer:
+Schaden:
 Status: WIP
 linter-yaml-title-alias: Glyph of Warding
 classes:
@@ -21,10 +25,6 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Glyph of Warding
-Reichweite: Berührung
-Komponenten: V, G, M
-Wirkungsdauer:
-Schaden:
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

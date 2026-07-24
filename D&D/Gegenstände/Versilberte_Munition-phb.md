@@ -1,8 +1,12 @@
 ---
 Bezeichnung: Versilberte Munition
+Original: Silvered Ammunition
 Kategorie: Munition
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - Munition
+Einstimmung: n/v
 Kst.: n/v
 Gew.: n/v
 Status: WIP

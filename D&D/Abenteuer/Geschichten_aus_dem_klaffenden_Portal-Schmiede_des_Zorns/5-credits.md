@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-tfof
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Tales from the Yawning Portal: The Forge of Fury* 

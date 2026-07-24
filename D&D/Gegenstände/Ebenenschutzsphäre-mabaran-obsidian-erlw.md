@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Mabaran Obsidian)
+Original: Orb of Shielding (Mabaran Obsidian)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

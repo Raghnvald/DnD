@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Alchemist's Supplies"
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Scholar's Pack"
+Seltenheit:
+  - keine
 Kst.: 40 GM
 Gew.: 11 kg
 Status: WIP

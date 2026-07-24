@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Ship Stat Blocks
-  - Ship Stat Blocks
 ---
 # Ship Stat Blocks
 *Source: Ghosts of Saltmarsh p. 186* 

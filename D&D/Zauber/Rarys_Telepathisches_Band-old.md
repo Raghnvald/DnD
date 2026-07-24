@@ -16,7 +16,7 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Rary's Telepathic Bond
+  - "Rary's Telepathic Bond"
   - Rarys Telepathisches Band
 ---
 # Rarys Telepathisches Band

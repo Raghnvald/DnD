@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silver Bar (5-pound)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silver Bar (5-pound)
 tags:

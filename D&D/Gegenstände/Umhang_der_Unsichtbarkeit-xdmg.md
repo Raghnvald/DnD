@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of Invisibility
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Cloak of Invisibility
 tags:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/kftgv
 aliases:
   - Introduction–A Collection of Heists
-  - Introduction–A Collection of Heists
 ---
 # Introduction–A Collection of Heists
 *Source: Keys from the Golden Vault, p. 5* 

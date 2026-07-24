@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sovereign Glue
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Sovereign Glue
 tags:

@@ -2,6 +2,8 @@
 Bezeichnung: Schießpulver-Fass
 Original: Gunpowder Keg
 Kategorie: Sprengstoff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Schießpulver-Fass
 tags:

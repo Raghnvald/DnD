@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Stone of Ill Luck
-Kategorie: Wundersamer Gegenstand 
+Original: Stone of Ill Luck
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Stone of Ill Luck
 tags:

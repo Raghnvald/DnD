@@ -2,6 +2,8 @@
 Bezeichnung: Antimaterie-Gewehr
 Original: Antimatter Rifle
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 6d8 Nekrotisch
 Eigenschaften:
   - Geschosse

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Slippers of Spider Climbing
-Kategorie: Wundersamer Gegenstand 
+Original: Slippers of Spider Climbing
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Slippers of Spider Climbing
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Lesser Hammock of Worlds
-Kategorie: Wundersamer Gegenstand 
+Original: Lesser Hammock of Worlds
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Lesser Hammock of Worlds
 tags:

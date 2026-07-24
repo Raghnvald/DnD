@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Buch der überschwänglichen Taten
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Buch der überschwänglichen Taten
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orc Stone
-Kategorie: Wundersamer Gegenstand 
+Original: Orc Stone
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Orc Stone
 tags:

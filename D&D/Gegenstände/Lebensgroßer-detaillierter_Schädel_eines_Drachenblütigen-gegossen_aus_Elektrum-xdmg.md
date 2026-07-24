@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Detailed, life-sized dragonborn skull cast in electrum
+Seltenheit:
+  - keine
 Kst.: 750 GM
 Status: WIP
 linter-yaml-title-alias: Detailed, life-sized dragonborn skull cast in electrum

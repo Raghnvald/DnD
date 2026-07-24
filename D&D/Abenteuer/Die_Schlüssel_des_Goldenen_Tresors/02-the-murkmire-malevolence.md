@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/kftgv
 aliases:
   - The Murkmire Malevolence
-  - The Murkmire Malevolence
 ---
 # The Murkmire Malevolence
 *Source: Keys from the Golden Vault, p. 11* 

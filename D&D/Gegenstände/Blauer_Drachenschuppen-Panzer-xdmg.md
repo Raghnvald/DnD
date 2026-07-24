@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Blue Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Blue Dragon Scale Mail

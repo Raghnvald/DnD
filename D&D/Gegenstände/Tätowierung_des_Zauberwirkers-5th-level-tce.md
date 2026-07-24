@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Spellwrought Tattoo (5th Level)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Spellwrought Tattoo (5th Level)
 tags:

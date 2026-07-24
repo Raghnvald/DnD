@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wheel of Wind and Water
-Kategorie: Wundersamer Gegenstand 
+Original: Wheel of Wind and Water
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wheel of Wind and Water
 tags:

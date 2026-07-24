@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-atg
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Tales from the Yawning Portal: Against the Giants* 

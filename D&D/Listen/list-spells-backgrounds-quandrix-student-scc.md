@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/background/quandrix-student
 aliases:
   - Spells for Quandrix Student
-  - Spells for Quandrix Student
 ---
 # Spells for Quandrix Student
 

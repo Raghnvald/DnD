@@ -1,10 +1,13 @@
 ---
 Bezeichnung: Mace of the Black Crown
+Original: Mace of the Black Crown
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - Artefakt
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: unbezahlbar
 Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Mace of the Black Crown
@@ -17,7 +20,6 @@ tags:
 aliases:
   - Mace of the Black Crown
 status: WIP
-Original: Mace of the Black Crown
 ---
 # Mace of the Black Crown
 *Weapon ([mace](Streitkolben-xphb)), artifact (requires attunement)*  

@@ -2,6 +2,8 @@
 Bezeichnung: Schwert der Antwort (Entkräfter)
 Original: Sword of Answering (Rebutter)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Schaden: 1W8 Hieb
 Eigenschaften:
   - Vielseitig (1W10)

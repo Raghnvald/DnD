@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/coa
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Chains of Asmodeus* 

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Trank des Gifts
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Trank des Gifts
 tags:

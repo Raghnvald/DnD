@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Belt of Frost Giant Strength
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Belt of Frost Giant Strength
 tags:

@@ -2,11 +2,13 @@
 Bezeichnung: Baba Jagas Stößel
 Original: Baba Yaga`s Pestle
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - Artefakt
 Schaden: 1W6 Wucht
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: unbezahlbar
 Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Baba Jagas Stößel

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Clockwork Armor
 Original: Clockwork Armor
+Seltenheit:
+  - sehr selten
 Rüstung: Schwer
 Eigenschaften:
   - n/v

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Holy Avenger
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Holy Avenger
 tags:

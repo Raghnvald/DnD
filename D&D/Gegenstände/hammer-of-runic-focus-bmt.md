@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Hammer of Runic Focus
+Original: Hammer of Runic Focus
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Hammer of Runic Focus
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Hammer of Runic Focus
 status: WIP
-Original: Hammer of Runic Focus
 ---
 # Hammer of Runic Focus
 *Weapon (warhammer), very rare (requires attunement)*  

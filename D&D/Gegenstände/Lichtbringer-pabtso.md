@@ -2,11 +2,13 @@
 Bezeichnung: Lichtbringer
 Original: Lightbringer
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - ungewöhnlich
 Schaden: 1d6 Wucht
 Eigenschaften:
   - n/v
 Einstimmung: n/v
-Kst.: n/v
+Kst.: 500 GM
 Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Lichtbringer

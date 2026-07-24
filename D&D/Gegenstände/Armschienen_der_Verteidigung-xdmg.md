@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bracers of Defense
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Bracers of Defense
 tags:

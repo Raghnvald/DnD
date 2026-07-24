@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hffotm
 aliases:
   - Lost in Realmspace
-  - Lost in Realmspace
 ---
 # Lost in Realmspace
 *Source: Heroes' Feast Flavors of the Multiverse, p. 95* 

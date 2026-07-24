@@ -3,8 +3,8 @@ Bezeichnung: Malyk
 Status: WIP
 linter-yaml-title-alias: Malyk
 tags:
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/drow
   - Quelle/5e/mtf
 aliases:

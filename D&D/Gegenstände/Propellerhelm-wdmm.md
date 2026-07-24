@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Propeller Helm
-Kategorie: Wundersamer Gegenstand 
+Original: Propeller Helm
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Propeller Helm
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Weißer Geisterorchideensamen
+Original: White Ghost Orchid Seed
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Weißer Geisterorchideensamen
-status: WIP
 ---
 # Weißer Geisterorchideensamen
 *Adventuring gear*  

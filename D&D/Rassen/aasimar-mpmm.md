@@ -7,7 +7,6 @@ tags:
   - Rasse/aasimar
 aliases:
   - Aasimar
-  - Aasimar
 ---
 # Aasimar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 7*  

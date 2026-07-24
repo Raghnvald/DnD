@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberstab der magischen Geschosse
 Kategorie: Zauberstab
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Kst.: n/v

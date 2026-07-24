@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Tinkertop Boltblaster 1000
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Tinkertop Boltblaster 1000
 tags:

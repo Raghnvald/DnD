@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wreath of the Prism
-Kategorie: Wundersamer Gegenstand 
+Original: Wreath of the Prism
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Wreath of the Prism
 tags:

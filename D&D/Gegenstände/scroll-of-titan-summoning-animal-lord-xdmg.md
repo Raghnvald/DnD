@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Scroll of Titan Summoning (Animal Lord)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Scroll of Titan Summoning (Animal Lord)
 tags:

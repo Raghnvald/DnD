@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Shovel
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Shovel
 tags:

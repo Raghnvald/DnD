@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Belt of Dwarvenkind
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Belt of Dwarvenkind
 tags:

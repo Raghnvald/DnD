@@ -3,8 +3,8 @@ Bezeichnung: Kelemvor
 Status: WIP
 linter-yaml-title-alias: Kelemvor
 tags:
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Grab
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:

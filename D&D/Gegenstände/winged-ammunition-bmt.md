@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Winged Ammunition
+Original: Winged Ammunition
 Kategorie: Munition
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - Munition
-Kst.: n/v
+Einstimmung: n/v
+Kst.: 500 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Winged Ammunition

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Jeweled platinum ring
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Jeweled platinum ring
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Hill Giant Strength
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Hill Giant Strength
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Armbrustbolzen
+Original: Crossbow Bolt
 Kategorie: Munition
+Seltenheit:
+  - keine
 Eigenschaften:
   - Munition
 Kst.: 5 KM
@@ -15,7 +18,6 @@ tags:
 aliases:
   - Armbrustbolzen
   - Crossbow Bolt
-status: WIP
 ---
 # Armbrustbolzen
 *Munition* 

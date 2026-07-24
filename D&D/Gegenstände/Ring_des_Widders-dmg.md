@@ -1,12 +1,14 @@
 ---
 Bezeichnung: Ring des Widders
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Status: completed
 Kst.: n/v
 Gew.: n/v
+Status: completed
 linter-yaml-title-alias: Ring des Widders
 tags:
   - Gegenstand/Einstimmung/erfordert

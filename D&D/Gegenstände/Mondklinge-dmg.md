@@ -2,6 +2,8 @@
 Bezeichnung: Mondklinge
 Original: Moonblade
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Mondklinge
 tags:

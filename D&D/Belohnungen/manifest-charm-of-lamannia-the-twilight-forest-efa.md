@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Lamannia, the Twilight Forest
-  - Manifest Charm of Lamannia, the Twilight Forest
 ---
 # Manifest Charm of Lamannia, the Twilight Forest
 *Charm*  

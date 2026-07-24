@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Cobbler's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Cobbler's Tools"
 tags:

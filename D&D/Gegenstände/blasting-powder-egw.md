@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Blasting Powder
+Original: Blasting Powder
+Seltenheit:
+  - keine
 Kst.: n/v
 Gew.: n/v
 Status: WIP

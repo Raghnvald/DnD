@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Haela Brightaxe
-  - Haela Brightaxe
 ---
 # Haela Brightaxe
 *Source: Sword Coast Adventurer's Guide p. 22* 

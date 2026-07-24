@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold locket with a painted portrait inside
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold locket with a painted portrait inside
 tags:

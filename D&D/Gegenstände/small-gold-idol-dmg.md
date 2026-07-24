@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Small gold idol
+Original: Small gold idol
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

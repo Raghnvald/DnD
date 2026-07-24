@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sternenrubin
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1.000 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sternenrubin
-status: WIP
 ---
 # Sternenrubin
 *Schatz (Edelstein)*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Elemental Gem, Blue Sapphire
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Elemental Gem, Blue Sapphire
 tags:

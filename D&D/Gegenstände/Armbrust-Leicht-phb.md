@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Leichte Armbrust
+Original: Light Crossbow
 Kategorie: Fernkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1d8 Stich
 Eigenschaften:
   - Geschosse
@@ -9,7 +12,6 @@ Eigenschaften:
 Kst.: 25 GM
 Gew.: 2,5 kg
 Status: completed
-Original: Light Crossbow
 linter-yaml-title-alias: Leichte Armbrust
 tags:
   - Gegenstand/Seltenheit/keine

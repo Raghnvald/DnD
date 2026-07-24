@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Charlatan's Die"
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Charlatan's Die"
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gloves of Swimming and Climbing
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Gloves of Swimming and Climbing
 tags:

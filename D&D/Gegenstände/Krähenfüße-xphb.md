@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Caltrops
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Caltrops
 tags:

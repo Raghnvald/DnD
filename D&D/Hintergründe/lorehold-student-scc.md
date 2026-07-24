@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Lorehold Student
-  - Lorehold Student
 ---
 # Lorehold Student
 *Source: Strixhaven: A Curriculum of Chaos p. 31*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Signal Whistle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Signal Whistle
 tags:

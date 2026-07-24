@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Map or Scroll Case
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Map or Scroll Case
 tags:

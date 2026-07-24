@@ -5,12 +5,11 @@ Bezeichnung: Giant Dragonfly
 Status: WIP
 linter-yaml-title-alias: Giant Dragonfly
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/1-2
   - Monster/Größe/Groß
+  - Monster/HG/1-2
   - Monster/Typ/Tier
+  - Quelle/5e/wbtw
 aliases:
-  - Giant Dragonfly
   - Giant Dragonfly
 ---
 # [Giant Dragonfly](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md)

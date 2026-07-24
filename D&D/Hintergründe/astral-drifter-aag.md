@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Astral Drifter
-  - Astral Drifter
 ---
 # Astral Drifter
 *Source: Astral Adventurer's Guide p. 7*  

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Exquisite Rarities from One-Eyed Jax in Luskan
-  - Exquisite Rarities from One-Eyed Jax in Luskan
 ---
 # Exquisite Rarities from One-Eyed Jax in Luskan
 *Source: Puncheons and Flagons, p. 118* 

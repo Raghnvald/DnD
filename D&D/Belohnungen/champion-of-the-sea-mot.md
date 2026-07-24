@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of the Sea
-  - Champion of the Sea
 ---
 # Champion of the Sea
 *Piety Trait*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Crampons
+Original: Crampons
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Crampons
-Original: Crampons
 ---
 # Crampons
 *Adventuring gear*  

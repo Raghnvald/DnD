@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Opal
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Opal
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: The Bloody End (Dormant)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: The Bloody End (Dormant)
 tags:

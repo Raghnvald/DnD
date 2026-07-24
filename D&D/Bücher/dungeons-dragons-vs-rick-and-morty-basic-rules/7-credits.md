@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/rmr
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Dungeons & Dragons vs. Rick and Morty: Basic Rules* 

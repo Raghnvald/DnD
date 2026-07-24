@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Wakened Dragon's Wrath Weapon"
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "Wakened Dragon's Wrath Weapon"
 tags:

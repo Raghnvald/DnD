@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Cook's Utensils"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Cook's Utensils"
 tags:

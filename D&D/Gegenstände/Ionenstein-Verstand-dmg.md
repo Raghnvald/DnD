@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Intellect
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Intellect
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Intellect
 tags:

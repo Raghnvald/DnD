@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Rüstung der Unverwundbarkeit
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Eigenschaften:
   - n/v

@@ -7,7 +7,6 @@ tags:
   - Rasse/human/innistrad
 aliases:
   - Human (Innistrad)
-  - Human (Innistrad)
 ---
 # Human (Innistrad)
 *Source: Plane Shift: Innistrad p. 8*  

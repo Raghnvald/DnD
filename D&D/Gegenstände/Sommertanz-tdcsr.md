@@ -1,8 +1,11 @@
 ---
-Bezeichnung: Summer's Dance
+Bezeichnung: "Summer's Dance"
+Original: "Summer's Dance"
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
-linter-yaml-title-alias: Summer's Dance
+linter-yaml-title-alias: "Summer's Dance"
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
@@ -10,9 +13,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Summer's Dance
+  - "Summer's Dance"
 status: WIP
-Original: Summer's Dance
 ---
 # Summer's Dance
 *Weapon ([scimitar](/3-Mechanics/CLI/items/scimitar-xphb.md)), rare (requires attunement)*  

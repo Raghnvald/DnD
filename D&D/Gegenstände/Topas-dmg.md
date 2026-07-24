@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Topas
+Original: Topaz
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 500 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Topas
-status: WIP
 ---
 # Topas
 *Schatz (Edelstein)*  

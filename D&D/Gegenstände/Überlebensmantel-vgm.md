@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Überlebensmantel
+Seltenheit:
+  - unbekannt
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Überlebensmantel

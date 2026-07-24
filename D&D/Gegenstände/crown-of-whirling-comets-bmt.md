@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Crown of Whirling Comets
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Crown of Whirling Comets
 tags:

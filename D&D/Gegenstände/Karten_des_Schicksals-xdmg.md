@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Deck of Many Things
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Deck of Many Things
 tags:

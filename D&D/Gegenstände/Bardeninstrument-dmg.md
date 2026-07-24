@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards
+Original: Instrument of the Bards
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - variiert
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Mind Reading
+Original: Potion of Mind Reading
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Mind Reading
 tags:

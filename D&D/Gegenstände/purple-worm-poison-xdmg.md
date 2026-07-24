@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Purple Worm Poison
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Purple Worm Poison
 tags:

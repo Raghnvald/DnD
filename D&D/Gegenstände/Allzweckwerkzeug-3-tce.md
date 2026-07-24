@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Allzweckwerkzeug +3
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Kst.: n/v

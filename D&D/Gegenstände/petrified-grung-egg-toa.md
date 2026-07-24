@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Petrified Grung Egg
+Original: Petrified Grung Egg
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Petrified Grung Egg
 tags:

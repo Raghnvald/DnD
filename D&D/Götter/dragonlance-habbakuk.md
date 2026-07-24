@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Habbakuk
-  - Habbakuk
 ---
 # Habbakuk
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

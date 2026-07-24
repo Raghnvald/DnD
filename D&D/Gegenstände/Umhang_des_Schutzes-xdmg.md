@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of Protection
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Cloak of Protection
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold
+Original: Gold
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Gold
-Original: Gold
 ---
 # Gold
 *Handelsgut*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of the Adder
+Original: Staff of the Adder
 Kategorie: Zauberstecken
+Seltenheit:
+  - ungewöhnlich
 Schaden: 1W6 Hieb
 Eigenschaften:
   - Vielseitig (1W8)
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Staff of the Adder
 status: WIP
-Original: Staff of the Adder
 ---
 # Staff of the Adder
 *Zauberstecken, ungewöhnlich (erfordert Einstimmung durch einen Druiden, Hexenmeister oder Kleriker)*  

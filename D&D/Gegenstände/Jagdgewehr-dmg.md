@@ -2,6 +2,8 @@
 Bezeichnung: Gewehr, Jagd
 Original: Hunting Rifle
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Eigenschaften:
   - Geschosse
   - Nachladen (5 Schuss)

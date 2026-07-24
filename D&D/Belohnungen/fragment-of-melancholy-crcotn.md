@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/crcotn
 aliases:
   - Fragment of Melancholy
-  - Fragment of Melancholy
 ---
 # Fragment of Melancholy
 *Fragment of Suffering*  

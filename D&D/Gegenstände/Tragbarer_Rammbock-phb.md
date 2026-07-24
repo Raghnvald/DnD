@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tragbarer Rammbock
+Original: Portable Ram
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 4 GM

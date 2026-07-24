@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ceremonial gold armor with black pearls
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Ceremonial gold armor with black pearls
 tags:

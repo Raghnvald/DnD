@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Blight Ichor
+Original: Blight Ichor
+Seltenheit:
+  - keine
 Kst.: 200 GM
 Gew.: n/v
 Status: WIP

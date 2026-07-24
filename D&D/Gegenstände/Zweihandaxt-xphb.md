@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Greataxe
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Greataxe
 tags:

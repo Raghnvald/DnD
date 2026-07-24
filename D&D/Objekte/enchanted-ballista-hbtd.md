@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Enchanted Ballista
-  - Enchanted Ballista
 ---
 # Enchanted Ballista
 *Source: Hold Back The Dead p. 4*  

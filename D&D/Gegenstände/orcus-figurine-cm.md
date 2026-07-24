@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orcus Figurine
-Kategorie: Wundersamer Gegenstand 
+Original: Orcus Figurine
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Orcus Figurine
 tags:

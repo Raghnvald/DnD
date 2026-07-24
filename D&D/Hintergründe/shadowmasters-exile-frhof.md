@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Shadowmasters Exile
-  - Shadowmasters Exile
 ---
 # Shadowmasters Exile
 *Source: Forgotten Realms: Heroes of Faerûn p. 35*  

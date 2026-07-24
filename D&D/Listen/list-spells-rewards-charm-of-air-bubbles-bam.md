@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-air-bubbles
 aliases:
   - Spells for Charm of Air Bubbles
-  - Spells for Charm of Air Bubbles
 ---
 # Spells for Charm of Air Bubbles
 

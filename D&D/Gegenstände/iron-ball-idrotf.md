@@ -2,6 +2,8 @@
 Bezeichnung: Iron Ball
 Original: Iron Ball
 Kategorie: Fernkampfwaffe, einfach
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - Finesse
   - Wurfwaffe

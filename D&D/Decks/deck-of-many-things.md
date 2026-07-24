@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Deck of Many Things
-  - Deck of Many Things
 ---
 # Deck of Many Things
 *Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

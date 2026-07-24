@@ -3,11 +3,10 @@ Bezeichnung: Tyrant Ship
 Status: WIP
 linter-yaml-title-alias: Tyrant Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Tyrant Ship
   - Tyrant Ship
 ---
 # Tyrant Ship

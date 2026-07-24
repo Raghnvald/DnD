@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/llk
 aliases:
   - Adventure Primer
-  - Adventure Primer
 ---
 # Adventure Primer
 *Source: Lost Laboratory of Kwalish, p. 1* 

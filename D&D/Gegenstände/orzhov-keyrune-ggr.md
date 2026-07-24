@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orzhov Keyrune
-Kategorie: Wundersamer Gegenstand 
+Original: Orzhov Keyrune
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Orzhov Keyrune
 tags:

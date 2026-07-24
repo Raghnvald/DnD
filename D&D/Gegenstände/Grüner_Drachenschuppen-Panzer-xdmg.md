@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Green Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Green Dragon Scale Mail

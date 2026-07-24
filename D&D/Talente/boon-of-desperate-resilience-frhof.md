@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of Desperate Resilience
-  - Boon of Desperate Resilience
 ---
 # Boon of Desperate Resilience
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

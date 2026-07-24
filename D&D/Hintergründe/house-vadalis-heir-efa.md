@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Vadalis Heir
-  - House Vadalis Heir
 ---
 # House Vadalis Heir
 *Source: Eberron: Forge of the Artificer p. 33*  

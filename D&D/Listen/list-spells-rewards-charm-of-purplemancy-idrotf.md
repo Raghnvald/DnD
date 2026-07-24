@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-purplemancy
 aliases:
   - Spells for Charm of Purplemancy
-  - Spells for Charm of Purplemancy
 ---
 # Spells for Charm of Purplemancy
 

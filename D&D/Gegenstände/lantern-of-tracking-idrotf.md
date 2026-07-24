@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Lantern of Tracking
-Kategorie: Wundersamer Gegenstand 
+Original: Lantern of Tracking
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Lantern of Tracking
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Plate Armor of Etherealness
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Plate Armor of Etherealness

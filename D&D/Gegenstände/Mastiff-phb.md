@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mastiff
+Original: Mastiff
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM
@@ -15,7 +18,6 @@ aliases:
   - Mastiff
 Bew.: 12 m
 Traglast: 195 Pfd.
-Original: Mastiff
 ---
 # Mastiff
 *Reit- und Lasttiere*  

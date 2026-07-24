@@ -7,7 +7,6 @@ tags:
   - Rasse/dhampir
 aliases:
   - Dhampir
-  - Dhampir
 ---
 # Dhampir
 *Source: Astarion's Book of Hungers p. 7*  

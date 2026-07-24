@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Star rose quartz
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Star rose quartz
 tags:

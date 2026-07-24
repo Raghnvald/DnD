@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild der Uven-Rune
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Eigenschaften:
   - n/v

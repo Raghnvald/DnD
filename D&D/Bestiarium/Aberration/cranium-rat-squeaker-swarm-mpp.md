@@ -8,10 +8,10 @@ HG: 5
 Status: WIP
 linter-yaml-title-alias: Cranium Rat Squeaker Swarm
 tags:
-  - Quelle/5e/mpp
-  - Monster/HG/5
   - Monster/Größe/Mittelgroß
+  - Monster/HG/5
   - Monster/Typ/Aberration
+  - Quelle/5e/mpp
 aliases:
   - Cranium Rat Squeaker Swarm
 status: WIP

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Lightning Bolts
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Lightning Bolts
 tags:

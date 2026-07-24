@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rations
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Rations
 tags:

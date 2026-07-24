@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mace of Disruption
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mace of Disruption
 tags:

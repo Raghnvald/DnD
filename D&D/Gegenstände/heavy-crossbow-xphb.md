@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Heavy Crossbow
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Heavy Crossbow
 tags:

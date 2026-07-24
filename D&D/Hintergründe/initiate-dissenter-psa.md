@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/psa
 aliases:
   - Initiate (Dissenter)
-  - Initiate (Dissenter)
 ---
 # Initiate (Dissenter)
 *Source: Plane Shift: Amonkhet p. 11*  

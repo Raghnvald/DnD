@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Night Caller
-Kategorie: Wundersamer Gegenstand 
+Original: Night Caller
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Night Caller
 tags:

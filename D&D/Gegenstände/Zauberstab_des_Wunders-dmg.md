@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Wonder
+Original: Wand of Wonder
 Kategorie: Zauberstab
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Wonder
 tags:

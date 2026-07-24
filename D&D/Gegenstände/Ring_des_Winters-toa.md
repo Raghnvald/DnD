@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Winters
 Kategorie: Ring
+Seltenheit:
+  - Artefakt
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

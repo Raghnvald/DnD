@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Sirrion
-  - Sirrion
 ---
 # Sirrion
 *Source: Dragonlance: Shadow of the Dragon Queen p. 17* 

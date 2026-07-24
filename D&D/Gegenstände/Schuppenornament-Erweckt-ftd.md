@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wakened Scaled Ornament
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Wakened Scaled Ornament
 tags:

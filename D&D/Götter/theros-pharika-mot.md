@@ -3,13 +3,12 @@ Bezeichnung: Pharika
 Status: WIP
 linter-yaml-title-alias: Pharika
 tags:
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - Pharika
   - Pharika
 ---
 # Pharika

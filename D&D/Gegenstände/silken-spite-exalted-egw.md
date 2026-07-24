@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Silken Spite (Exalted)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Silken Spite (Exalted)
 tags:

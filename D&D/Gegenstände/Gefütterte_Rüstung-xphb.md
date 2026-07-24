@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Padded Armor
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: Padded Armor

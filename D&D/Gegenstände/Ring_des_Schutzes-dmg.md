@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Schutzes
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

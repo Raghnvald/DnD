@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sword of Life Stealing
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Sword of Life Stealing
 tags:

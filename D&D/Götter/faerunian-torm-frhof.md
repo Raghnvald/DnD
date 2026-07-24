@@ -9,7 +9,6 @@ aliases:
   - The Hand of Righteousness
   - The Loyal Fury
   - Torm
-  - Torm
   - Torm the True
 ---
 # Torm

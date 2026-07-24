@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Xorian Wenge)
 Original: Imbued Wood (Xorian Wenge)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

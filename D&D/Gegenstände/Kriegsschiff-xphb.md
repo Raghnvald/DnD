@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Warship
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Warship
 tags:

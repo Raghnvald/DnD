@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Nimblewright Detector
+Original: Nimblewright Detector
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Nimblewright Detector
 tags:

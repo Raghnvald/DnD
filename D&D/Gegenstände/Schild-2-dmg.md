@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild +2
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Schild
 Eigenschaften:
   - n/v

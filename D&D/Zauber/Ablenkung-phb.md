@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ablenkung
+Original: Mislead
 Zaubergrad: 5
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
@@ -21,7 +22,6 @@ tags:
   - Zauber/Schule/Illusion
 aliases:
   - Ablenkung
-Original: Mislead
 ---
 # Ablenkung
 *Illusion des 5. Grades*

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Heartstone
+Original: Heartstone
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Heartstone
 tags:

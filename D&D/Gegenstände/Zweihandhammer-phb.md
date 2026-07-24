@@ -2,15 +2,17 @@
 Bezeichnung: Zweihandhammer
 Original: Maul
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
-linter-yaml-title-alias: Maul
+linter-yaml-title-alias: Zweihandhammer
 tags:
   - Gegenstand/Seltenheit/keine
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/phb
 aliases:
-  - Maul
+  - Zweihandhammer
 status: WIP
 ---
 # Zweihandhammer

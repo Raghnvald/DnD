@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Setting Up a Home Bar
-  - Setting Up a Home Bar
 ---
 # Setting Up a Home Bar
 *Source: Puncheons and Flagons, p. 9* 

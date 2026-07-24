@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +1 Armor
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: +1 Armor

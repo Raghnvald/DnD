@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Headband of Intellect
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Headband of Intellect
 tags:

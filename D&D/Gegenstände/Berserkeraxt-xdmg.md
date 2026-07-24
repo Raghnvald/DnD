@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Berserker Axe
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Berserker Axe
 tags:

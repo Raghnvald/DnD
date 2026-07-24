@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Final Breath
-  - Final Breath
 ---
 # Final Breath
 *Curse*  

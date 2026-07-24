@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/gotsf
 aliases:
   - Giants of the Star Forge
-  - Giants of the Star Forge
 ---
 # Giants of the Star Forge
 *Source: Giants of the Star Forge* 

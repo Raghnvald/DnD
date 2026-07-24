@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Helm of the Scavenger
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Helm of the Scavenger
 tags:

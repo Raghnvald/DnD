@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Winged Boots
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Winged Boots
 tags:

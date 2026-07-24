@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Earthboard
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Earthboard
 tags:

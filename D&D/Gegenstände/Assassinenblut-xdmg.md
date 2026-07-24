@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Assassin's Blood"
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 150 GM

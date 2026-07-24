@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +2 Armor
+Seltenheit:
+  - sehr selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: +2 Armor

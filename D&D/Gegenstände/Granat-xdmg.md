@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Garnet
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Garnet
 tags:

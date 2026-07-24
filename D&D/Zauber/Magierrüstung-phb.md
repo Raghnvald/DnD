@@ -8,7 +8,7 @@ Wirkungsdauer: 8 Stunden
 Angriff: n/v
 Schaden: n/v
 Status: WIP
-linter-yaml-title-alias: "Magierrüstung "
+linter-yaml-title-alias: Magierrüstung
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)

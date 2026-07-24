@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cotton Cloth (1 sq. yd.)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Cotton Cloth (1 sq. yd.)
 tags:

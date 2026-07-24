@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tinte (Flasche, 30ml)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Tinte (Flasche, 30ml)
 tags:

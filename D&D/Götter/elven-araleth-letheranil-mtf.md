@@ -3,8 +3,8 @@ Bezeichnung: Araleth Letheranil
 Status: WIP
 linter-yaml-title-alias: Araleth Letheranil
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silver and gold brooch
+Original: Silver and gold brooch
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

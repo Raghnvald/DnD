@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Blackrazor
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Blackrazor
 tags:

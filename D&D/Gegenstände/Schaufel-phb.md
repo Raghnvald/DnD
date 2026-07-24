@@ -1,10 +1,14 @@
 ---
 Bezeichnung: Schaufel
+Original: Shovel
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM
 Gew.: 2,5 kg
+Status: completed
 linter-yaml-title-alias: Schaufel
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schaufel
-Status: completed
 ---
 # Schaufel
 *Abenteuerausrüstung*  

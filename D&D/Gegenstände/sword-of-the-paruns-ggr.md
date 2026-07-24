@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Sword of the Paruns
+Original: Sword of the Paruns
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Sword of the Paruns
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Sword of the Paruns
 status: WIP
-Original: Sword of the Paruns
 ---
 # Sword of the Paruns
 *Weapon (longsword), very rare (requires attunement)*  

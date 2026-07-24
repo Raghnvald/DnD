@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Anchor"
-Kategorie: Wundersamer Gegenstand 
+Original: "Quaal's Feather Token, Anchor"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token, Anchor"
 tags:

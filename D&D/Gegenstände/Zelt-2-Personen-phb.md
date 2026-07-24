@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zelt (2 Personen)
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

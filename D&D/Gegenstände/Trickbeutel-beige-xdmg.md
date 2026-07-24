@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Trickbeutel, beige
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Trickbeutel, beige
 tags:

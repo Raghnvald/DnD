@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Daern's Instant Fortress"
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Daern's Instant Fortress"
 tags:

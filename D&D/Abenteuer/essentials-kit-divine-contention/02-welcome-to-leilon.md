@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dc
 aliases:
   - Welcome to Leilon
-  - Welcome to Leilon
 ---
 # Welcome to Leilon
 *Source: Essentials Kit: Divine Contention* 

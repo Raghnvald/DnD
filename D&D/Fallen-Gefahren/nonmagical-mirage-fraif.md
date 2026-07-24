@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Nonmagical Mirage
-  - Nonmagical Mirage
 ---
 # Nonmagical Mirage
 *Environmental Hazard*  

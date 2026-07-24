@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/imr
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Infernal Machine Rebuild* 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold jewelry box with platinum filigree
+Original: Gold jewelry box with platinum filigree
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

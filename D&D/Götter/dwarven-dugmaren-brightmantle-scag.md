@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Dugmaren Brightmantle
-  - Dugmaren Brightmantle
 ---
 # Dugmaren Brightmantle
 *Source: Sword Coast Adventurer's Guide p. 22* 

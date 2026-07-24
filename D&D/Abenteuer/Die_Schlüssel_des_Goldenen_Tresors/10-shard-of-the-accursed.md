@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/kftgv
 aliases:
   - Shard of the Accursed
-  - Shard of the Accursed
 ---
 # Shard of the Accursed
 *Source: Keys from the Golden Vault, p. 133* 

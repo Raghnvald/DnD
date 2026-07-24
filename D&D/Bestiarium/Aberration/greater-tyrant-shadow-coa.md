@@ -8,10 +8,10 @@ HG: 22
 Status: WIP
 linter-yaml-title-alias: Greater Tyrant Shadow
 tags:
-  - Quelle/5e/coa
-  - Monster/HG/22
   - Monster/Größe/Gigantisch
+  - Monster/HG/22
   - Monster/Typ/Aberration
+  - Quelle/5e/coa
 aliases:
   - Greater Tyrant Shadow
 status: WIP

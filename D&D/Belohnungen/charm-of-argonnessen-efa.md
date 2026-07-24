@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Charm of Argonnessen
-  - Charm of Argonnessen
 ---
 # Charm of Argonnessen
 

@@ -3,9 +3,9 @@ Bezeichnung: Tiamat
 Status: WIP
 linter-yaml-title-alias: Tiamat
 tags:
-  - Kompendium/Götter/Domäne/Ordnung
-  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

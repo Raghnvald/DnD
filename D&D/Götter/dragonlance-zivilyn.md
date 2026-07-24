@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Zivilyn
-  - Zivilyn
 ---
 # Zivilyn
 *Source: Dragonlance: Shadow of the Dragon Queen p. 17* 

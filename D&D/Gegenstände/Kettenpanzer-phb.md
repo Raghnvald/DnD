@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Kettenpanzer
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Schwer
 Eigenschaften:
   - n/v
+Einstimmung: n/v
 Kst.: 75 GM
 Gew.: 27,5 kg
 RK: 16
@@ -17,7 +20,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Kettenpanzer
-Einstimmung: n/v
 ---
 # Kettenpanzer
 *Schwere Rüstung*

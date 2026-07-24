@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Fenthras (Dormant)
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: Fenthras (Dormant)
 tags:

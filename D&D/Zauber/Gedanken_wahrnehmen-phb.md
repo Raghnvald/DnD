@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Gedanken wahrnehmen
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
 Status: WIP
 linter-yaml-title-alias: Gedanken wahrnehmen
 classes:
@@ -22,7 +23,6 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Gedanken wahrnehmen
-Zeitaufwand: 1 Aktion
 ---
 # Gedanken wahrnehmen
 *2nd-level, Divination*  

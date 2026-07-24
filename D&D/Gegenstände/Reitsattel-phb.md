@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Reitsattel
+Original: Riding Saddle
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Reitsattel
-status: completed
 ---
 # Reitsattel
 *Zaumzeug und Harnisch*  

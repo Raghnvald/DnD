@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tej
+Original: Tej
 Kategorie: Essen und Trinken
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

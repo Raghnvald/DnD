@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rope of Entanglement
-Kategorie: Wundersamer Gegenstand 
+Original: Rope of Entanglement
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Rope of Entanglement
 tags:

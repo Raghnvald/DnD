@@ -2,12 +2,14 @@
 Bezeichnung: Fate Cutter Shears
 Original: Fate Cutter Shears
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Finesse
   - Leicht
   - Wurfwaffe
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Fate Cutter Shears

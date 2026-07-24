@@ -2,7 +2,9 @@
 Bezeichnung: Dissonantes Flüstern
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
+Reichweite: 18 Meter
 Komponenten: V
+Wirkungsdauer: Unmittelbar
 Status: WIP
 linter-yaml-title-alias: Dissonantes Flüstern
 classes:
@@ -18,8 +20,6 @@ tags:
 aliases:
   - Dissonant Whispers
   - Dissonantes Flüstern
-Reichweite: 18 Meter
-Wirkungsdauer: Unmittelbar
 ---
 # Dissonantes Flüstern
 *Hervorrufung des 1. Grades*

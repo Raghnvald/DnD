@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Fire
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Staff of Fire
 tags:

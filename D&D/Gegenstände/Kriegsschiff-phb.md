@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kriegsschiff
+Original: Warship
 Kategorie: Luft- und Wasserfahrzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25.000 GM

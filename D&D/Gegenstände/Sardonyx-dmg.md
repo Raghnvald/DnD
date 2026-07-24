@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sardonyx
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Sardonyx
-status: WIP
 ---
 # Sardonyx
 *Schatz (Edelstein)*  

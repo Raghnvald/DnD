@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/oga
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: One Grung Above* 

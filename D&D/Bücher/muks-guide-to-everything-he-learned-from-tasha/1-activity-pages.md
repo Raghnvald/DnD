@@ -3,9 +3,9 @@ Bezeichnung: Activity Pages
 Status: WIP
 linter-yaml-title-alias: Activity Pages
 tags:
+  - 1
   - Quelle/5e/mgelft
 aliases:
-  - Activity Pages
   - Activity Pages
 ---
 # Activity Pages

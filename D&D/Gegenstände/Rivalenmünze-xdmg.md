@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rival Coin
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Rival Coin
 tags:

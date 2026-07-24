@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/aberrant-dragonmark
 aliases:
   - Spells for Aberrant Dragonmark
-  - Spells for Aberrant Dragonmark
 ---
 # Spells for Aberrant Dragonmark
 

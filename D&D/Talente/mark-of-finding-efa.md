@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Mark of Finding
-  - Mark of Finding
 ---
 # Mark of Finding
 *Source: Eberron: Forge of the Artificer p. 39*  

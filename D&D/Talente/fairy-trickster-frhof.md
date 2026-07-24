@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Fairy Trickster
-  - Fairy Trickster
 ---
 # Fairy Trickster
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

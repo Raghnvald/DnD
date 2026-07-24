@@ -2,6 +2,9 @@
 Bezeichnung: Heilendes Wort
 Zaubergrad: 1
 Zeitaufwand: 1 Bonusaktion
+Reichweite: 18 Meter
+Komponenten: V
+Wirkungsdauer: Unmittelbar
 Status: WIP
 linter-yaml-title-alias: Heilendes Wort
 classes:
@@ -18,9 +21,6 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Heilendes Wort
-Reichweite: 18 Meter
-Komponenten: V
-Wirkungsdauer: Unmittelbar
 ---
 # Heilendes Wort
 *1st-level, Evocation*  

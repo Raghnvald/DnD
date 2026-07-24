@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Fine Clothes
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Fine Clothes
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Genie Magic
-  - Genie Magic
 ---
 # Genie Magic
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

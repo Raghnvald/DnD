@@ -2,6 +2,8 @@
 Bezeichnung: Schrotflinte
 Original: Shotgun
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 2d9 Stich
 Eigenschaften:
   - Geschosse

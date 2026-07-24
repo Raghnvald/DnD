@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Wine from The Moonstone Mask in Neverwinter
-  - Wine from The Moonstone Mask in Neverwinter
 ---
 # Wine from The Moonstone Mask in Neverwinter
 *Source: Puncheons and Flagons, p. 134* 

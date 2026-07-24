@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Diamant
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5.000 GM

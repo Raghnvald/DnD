@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Crystal
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Crystal
 tags:

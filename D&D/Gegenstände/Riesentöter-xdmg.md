@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Giant Slayer
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Giant Slayer
 tags:

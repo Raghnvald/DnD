@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/uthftlh
 aliases:
   - Uni and the Hunt for the Lost Horn
-  - Uni and the Hunt for the Lost Horn
 ---
 # Uni and the Hunt for the Lost Horn
 *Source: Uni and the Hunt for the Lost Horn* 

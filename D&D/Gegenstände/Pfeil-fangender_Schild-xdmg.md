@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Arrow-Catching Shield
+Seltenheit:
+  - selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Arrow-Catching Shield

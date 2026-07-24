@@ -3,8 +3,8 @@ Bezeichnung: Shinare
 Status: WIP
 linter-yaml-title-alias: Shinare
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/dragonlance
   - Quelle/5e/phb
 aliases:

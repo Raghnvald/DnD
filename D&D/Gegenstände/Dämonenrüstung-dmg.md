@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Dämonenrüstung
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schwer
 Eigenschaften:
   - n/v

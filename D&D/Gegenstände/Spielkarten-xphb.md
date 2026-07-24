@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Playing Cards
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Playing Cards
 tags:

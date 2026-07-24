@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/reliquary-charm
 aliases:
   - Spells for Reliquary Charm
-  - Spells for Reliquary Charm
 ---
 # Spells for Reliquary Charm
 

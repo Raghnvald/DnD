@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Lordly Resolve
-  - Lordly Resolve
 ---
 # Lordly Resolve
 *Source: Forgotten Realms: Heroes of Faerûn p. 40*  

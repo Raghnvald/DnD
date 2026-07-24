@@ -1,12 +1,12 @@
 ---
-Bezeichnung: Ergänzende Tabelle; Family
+Bezeichnung: Zusatztabelle; Family
 Status: WIP
-linter-yaml-title-alias: Ergänzende Tabelle; Family
+linter-yaml-title-alias: Zusatztabelle; Family
 tags:
   - Quelle/5e/xge
 aliases:
-  - Ergänzende Tabelle; Family
   - Supplemental Tables; Family
+  - Zusatztabelle; Family
 ---
 # Zusatztabelle; Family
 *Quellen: Xanathars Ratgeber für Alles S. 63* 

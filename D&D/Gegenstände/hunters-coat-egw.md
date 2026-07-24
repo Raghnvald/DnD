@@ -2,6 +2,8 @@
 Bezeichnung: "Hunter's Coat"
 Original: "Hunter's Coat"
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Leicht
 Eigenschaften:
   - n/v

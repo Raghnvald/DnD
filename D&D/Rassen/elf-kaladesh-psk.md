@@ -7,7 +7,6 @@ tags:
   - Rasse/elf/kaladesh
 aliases:
   - Elf (Kaladesh)
-  - Elf (Kaladesh)
 ---
 # Elf (Kaladesh)
 *Source: Plane Shift: Kaladesh p. 20*  

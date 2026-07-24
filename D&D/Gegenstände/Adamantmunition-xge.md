@@ -1,8 +1,12 @@
 ---
 Bezeichnung: Adamantmunition
+Original: Adamantine Ammunition
 Kategorie: Munition
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - Munition
+Einstimmung: n/v
 Kst.: n/v
 Gew.: n/v
 Status: completed

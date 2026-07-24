@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Laser Pistol
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Laser Pistol
 tags:

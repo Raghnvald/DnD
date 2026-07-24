@@ -7,7 +7,6 @@ tags:
   - Rasse/changeling
 aliases:
   - Changeling
-  - Changeling
 ---
 # Changeling
 *Source: Eberron: Forge of the Artificer p. 34*  

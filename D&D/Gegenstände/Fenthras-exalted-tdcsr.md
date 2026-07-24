@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Fenthras (Exalted)
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: Fenthras (Exalted)
 tags:

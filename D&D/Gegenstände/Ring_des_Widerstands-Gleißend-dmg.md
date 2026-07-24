@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Gleißenden Widerstands
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring des Gleißenden Widerstands
 tags:

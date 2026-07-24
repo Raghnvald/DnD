@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Ice Fisher
-  - Ice Fisher
 ---
 # Ice Fisher
 *Source: Forgotten Realms: Heroes of Faerûn p. 31*  

@@ -2,6 +2,8 @@
 Bezeichnung: Wurfspeer
 Original: Javelin
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1W6 Stich
 Eigenschaften:
   - Wurfwaffe

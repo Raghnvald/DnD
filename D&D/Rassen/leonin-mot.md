@@ -7,7 +7,6 @@ tags:
   - Rasse/leonin
 aliases:
   - Leonin
-  - Leonin
 ---
 # Leonin
 *Source: Mythic Odysseys of Theros p. 20*  

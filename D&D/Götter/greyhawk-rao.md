@@ -3,8 +3,8 @@ Bezeichnung: Rao
 Status: WIP
 linter-yaml-title-alias: Rao
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Frieden
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:

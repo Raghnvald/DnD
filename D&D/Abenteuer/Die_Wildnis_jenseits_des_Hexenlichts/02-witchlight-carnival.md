@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Witchlight Carnival
-  - Witchlight Carnival
 ---
 # Witchlight Carnival
 *Source: The Wild Beyond the Witchlight, p. 23* 

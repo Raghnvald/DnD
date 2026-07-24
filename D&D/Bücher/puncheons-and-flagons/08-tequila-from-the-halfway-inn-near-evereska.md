@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Tequila from The Halfway Inn near Evereska
-  - Tequila from The Halfway Inn near Evereska
 ---
 # Tequila from The Halfway Inn near Evereska
 *Source: Puncheons and Flagons, p. 83* 

@@ -3,9 +3,9 @@ Bezeichnung: Deep Sashelas
 Status: WIP
 linter-yaml-title-alias: Deep Sashelas
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

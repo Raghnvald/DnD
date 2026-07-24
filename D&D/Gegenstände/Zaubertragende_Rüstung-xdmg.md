@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Enspelled Armor
 tags:

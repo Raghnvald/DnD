@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tentacle Rod
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Tentacle Rod
 tags:

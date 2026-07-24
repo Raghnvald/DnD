@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tand aus Argonnessen
+Original: Argonnessen Trinket
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

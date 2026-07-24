@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silver ewer
+Original: Silver ewer
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

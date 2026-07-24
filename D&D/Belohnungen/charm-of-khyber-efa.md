@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Charm of Khyber
-  - Charm of Khyber
 ---
 # Charm of Khyber
 

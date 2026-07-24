@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Saphirbeschützer
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Eigenschaften:
   - /

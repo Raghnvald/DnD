@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Nightfall Pearl
-Kategorie: Wundersamer Gegenstand 
+Original: Nightfall Pearl
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Nightfall Pearl
 tags:

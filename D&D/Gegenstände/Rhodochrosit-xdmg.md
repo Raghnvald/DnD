@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rhodochrosite
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Rhodochrosite
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Salz
+Original: Salt
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 KM
@@ -13,8 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Salz
-status: completed
-Original: Salt
 ---
 # Salz
 *Handelsgut*  

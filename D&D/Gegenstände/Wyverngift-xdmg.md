@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wyvern Poison
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Wyvern Poison
 tags:

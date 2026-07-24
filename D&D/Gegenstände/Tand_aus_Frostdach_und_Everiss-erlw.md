@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tand aus Frostdach und Everiss
+Original: Frostfell and Everice Trinket
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

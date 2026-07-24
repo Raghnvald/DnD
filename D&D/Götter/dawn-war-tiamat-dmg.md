@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Tiamat
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/List
   - Quelle/5e/dmg
 aliases:
   - Tiamat

@@ -3,7 +3,7 @@ Bezeichnung: Fliegen
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Status: WIP
-linter-yaml-title-alias: Fly
+linter-yaml-title-alias: Fliegen
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -23,7 +23,7 @@ tags:
   - Zauber/optfeature/ride-the-wind
   - Zauber/Schule/Verwandlung
 aliases:
-  - Fly
+  - Fliegen
 ---
 # Fliegen
 *3rd-level, Transmutation*  

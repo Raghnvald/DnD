@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Harper Teamwork
-  - Harper Teamwork
 ---
 # Harper Teamwork
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Exotic Saddle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Exotic Saddle
 tags:

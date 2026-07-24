@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Thieves' Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Thieves' Tools"
 tags:

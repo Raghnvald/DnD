@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Candle of Invocation
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Candle of Invocation
 tags:

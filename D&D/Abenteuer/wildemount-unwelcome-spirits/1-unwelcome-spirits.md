@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/us
 aliases:
   - Unwelcome Spirits
-  - Unwelcome Spirits
 ---
 # Unwelcome Spirits
 *Source: Wildemount: Unwelcome Spirits, p. 250* 

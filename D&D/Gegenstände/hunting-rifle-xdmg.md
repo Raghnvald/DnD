@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hunting Rifle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Hunting Rifle
 tags:

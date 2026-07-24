@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Journeys through the Radiant Citadel* 

@@ -2,12 +2,14 @@
 Bezeichnung: Dragon Thighbone Club
 Original: Dragon Thighbone Club
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - Zweihändig
+Einstimmung: optional
 Kst.: n/v
 Gew.: 125,0 kg
 Status: WIP
-Einstimmung: optional
 linter-yaml-title-alias: Dragon Thighbone Club
 tags:
   - Gegenstand/Einstimmung/optional

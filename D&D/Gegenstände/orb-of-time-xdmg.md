@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Orb of Time
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Orb of Time
 tags:

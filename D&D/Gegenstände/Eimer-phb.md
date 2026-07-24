@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Eimer
+Original: Bucket
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 KM

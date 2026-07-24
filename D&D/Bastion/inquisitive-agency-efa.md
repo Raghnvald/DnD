@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Inquisitive Agency
-  - Inquisitive Agency
 ---
 # Inquisitive Agency
 *Level 13 Bastion facility*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Helm of Brilliance
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Helm of Brilliance
 tags:

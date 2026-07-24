@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +2 Rod of the Pact Keeper
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: +2 Rod of the Pact Keeper
 tags:

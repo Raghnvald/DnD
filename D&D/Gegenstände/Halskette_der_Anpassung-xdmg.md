@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Necklace of Adaptation
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Necklace of Adaptation
 tags:

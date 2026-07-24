@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Blade of Broken Mirrors (Dormant)
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - Artefakt
+Kst.: unbezahlbar
+Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Blade of Broken Mirrors (Dormant)
 tags:

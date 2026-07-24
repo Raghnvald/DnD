@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Oil of Slipperiness
+Original: Oil of Slipperiness
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Oil of Slipperiness
 tags:

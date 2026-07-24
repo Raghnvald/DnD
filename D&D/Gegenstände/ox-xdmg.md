@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ox
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Ox
 tags:

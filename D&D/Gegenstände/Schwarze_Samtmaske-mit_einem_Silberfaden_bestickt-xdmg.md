@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Black velvet mask stitched with silver thread
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Black velvet mask stitched with silver thread
 tags:

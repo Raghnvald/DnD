@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/sato
 aliases:
   - Righteous Heritor
-  - Righteous Heritor
 ---
 # Righteous Heritor
 *Source: Sigil and the Outlands p. 11*  

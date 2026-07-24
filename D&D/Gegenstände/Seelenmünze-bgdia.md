@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Soul Coin
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Soul Coin
 tags:

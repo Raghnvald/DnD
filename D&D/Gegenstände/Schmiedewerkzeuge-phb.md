@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schmiedewerkzeuge
+Original: "Smith's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 20 GM

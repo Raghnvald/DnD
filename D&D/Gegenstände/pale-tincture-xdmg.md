@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pale Tincture
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pale Tincture
 tags:

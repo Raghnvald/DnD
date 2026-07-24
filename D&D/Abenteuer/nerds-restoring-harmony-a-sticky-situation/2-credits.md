@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/nrh-ass
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: NERDS Restoring Harmony: A Sticky Situation* 

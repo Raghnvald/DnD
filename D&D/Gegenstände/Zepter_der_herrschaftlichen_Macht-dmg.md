@@ -2,6 +2,8 @@
 Bezeichnung: Zepter der herrschaftlichen Macht
 Original: Rod of Lordly Might
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

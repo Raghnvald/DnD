@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Adornment
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Staff of Adornment
 tags:

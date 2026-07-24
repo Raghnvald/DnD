@@ -3,8 +3,8 @@ Bezeichnung: Fharlanghn
 Status: WIP
 linter-yaml-title-alias: Fharlanghn
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:

@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/boon-of-siberys
 aliases:
   - Spells for Boon of Siberys
-  - Spells for Boon of Siberys
 ---
 # Spells for Boon of Siberys
 

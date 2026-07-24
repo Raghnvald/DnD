@@ -2,6 +2,8 @@
 Bezeichnung: Waffe der Warnung
 Original: Weapon of Warning
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

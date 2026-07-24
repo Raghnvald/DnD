@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Thunder Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Thunder Resistance
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Bob
+Original: Bob
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Bob
 tags:
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Bob
 status: WIP
-Original: Bob
 ---
 # Bob
 *Weapon (battleaxe)*  

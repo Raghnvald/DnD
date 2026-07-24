@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wtthc
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Stranger Things: Welcome to the Hellfire Club* 

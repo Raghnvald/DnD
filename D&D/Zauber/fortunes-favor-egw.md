@@ -1,15 +1,15 @@
 ---
-Bezeichnung: Fortune's Favor
+Bezeichnung: "Fortune's Favor"
 Zaubergrad: 2
+Zeitaufwand: 1 Minute
 Status: WIP
-linter-yaml-title-alias: Fortune's Favor
+linter-yaml-title-alias: "Fortune's Favor"
 tags:
   - Quelle/5e/egw
   - Zauber/Grad/2
   - Zauber/Schule/Erkenntnis
 aliases:
-  - Fortune's Favor
-Zeitaufwand: 1 Minute
+  - "Fortune's Favor"
 ---
 # Fortune's Favor
 *2nd-level, Divination*  

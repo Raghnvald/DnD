@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Dragon Scale Mail

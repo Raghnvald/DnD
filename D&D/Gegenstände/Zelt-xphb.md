@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tent
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Tent
 tags:

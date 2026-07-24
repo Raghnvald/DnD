@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Hufeisen des Zephyrs
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Hufeisen des Zephyrs
 tags:

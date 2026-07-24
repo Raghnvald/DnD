@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Kythrian Skarn)
+Original: Orb of Shielding (Kythrian Skarn)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

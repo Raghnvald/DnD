@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chest
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Chest
 tags:

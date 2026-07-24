@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Röntgenblicks
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Jade
+Seltenheit:
+  - keine
 Kst.: 100 GM
 Status: WIP
 linter-yaml-title-alias: Jade

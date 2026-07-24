@@ -2,15 +2,17 @@
 Bezeichnung: Fenthras
 Original: Fenthras
 Kategorie: Fernkampfwaffe, Kriegswaffe
-Kst.: n/v
-Gew.: n/v
-Status: WIP
-Einstimmung: erforderlich
+Seltenheit:
+  - legendär
 Eigenschaften:
-  - Relikt der Divergenz
   - Geschosse
+  - Relikt der Divergenz
   - Schwer
   - Zweihändig
+Einstimmung: erforderlich
+Kst.: unbezahlbar
+Gew.: n/v
+Status: WIP
 linter-yaml-title-alias: Fenthras
 tags:
   - Gegenstand/Einstimmung/erfordert

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dark Shard Amulet
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Dark Shard Amulet
 tags:

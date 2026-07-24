@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 5)
 Kategorie: Schriftrolle
+Seltenheit:
+  - selten
 Eigenschaften:
   - /
 Kst.: 4.000 GM

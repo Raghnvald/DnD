@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sylvan Talon
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Sylvan Talon
 tags:

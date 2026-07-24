@@ -1,8 +1,11 @@
 ---
-Bezeichnung: Graz'tchar, the Decadent End
+Bezeichnung: "Graz'tchar, the Decadent End"
+Original: "Graz'tchar, the Decadent End"
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
-linter-yaml-title-alias: Graz'tchar, the Decadent End
+linter-yaml-title-alias: "Graz'tchar, the Decadent End"
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
@@ -10,9 +13,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/tdcsr
 aliases:
-  - Graz'tchar, the Decadent End
+  - "Graz'tchar, the Decadent End"
 status: WIP
-Original: Graz'tchar, the Decadent End
 ---
 # Graz'tchar, the Decadent End
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement)*  

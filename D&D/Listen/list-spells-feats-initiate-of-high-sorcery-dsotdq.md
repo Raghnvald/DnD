@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/initiate-of-high-sorcery
 aliases:
   - Spells for Initiate of High Sorcery
-  - Spells for Initiate of High Sorcery
 ---
 # Spells for Initiate of High Sorcery
 

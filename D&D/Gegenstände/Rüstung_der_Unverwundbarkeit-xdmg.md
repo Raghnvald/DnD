@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Invulnerability
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Invulnerability

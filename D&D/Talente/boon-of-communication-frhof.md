@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of Communication
-  - Boon of Communication
 ---
 # Boon of Communication
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

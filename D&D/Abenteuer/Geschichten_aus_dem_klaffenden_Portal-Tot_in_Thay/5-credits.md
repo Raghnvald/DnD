@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-dit
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Tales from the Yawning Portal: Dead in Thay* 

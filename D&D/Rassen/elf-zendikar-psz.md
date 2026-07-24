@@ -7,7 +7,6 @@ tags:
   - Rasse/elf/zendikar
 aliases:
   - Elf (Zendikar)
-  - Elf (Zendikar)
 ---
 # Elf (Zendikar)
 *Source: Plane Shift: Zendikar p. 18*  

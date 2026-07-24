@@ -3,14 +3,13 @@ Bezeichnung: Mechanical Beholder
 Status: WIP
 linter-yaml-title-alias: Mechanical Beholder
 tags:
-  - Quelle/5e/ai
-  - Gegenstand/Fortbewegung/Größe/Riesig
-  - Gegenstand/Fortbewegung/Gelände/Luft
   - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Gelände/Luft
   - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Größe/Riesig
   - Gegenstand/Fortbewegung/Kategorie/Schiff
+  - Quelle/5e/ai
 aliases:
-  - Mechanical Beholder
   - Mechanical Beholder
 ---
 # Mechanical Beholder

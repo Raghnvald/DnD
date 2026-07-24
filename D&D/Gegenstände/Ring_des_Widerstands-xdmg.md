@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Resistance
 tags:

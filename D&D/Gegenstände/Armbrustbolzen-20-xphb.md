@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bolts (20)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bolts (20)
 tags:

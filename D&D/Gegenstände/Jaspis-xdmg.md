@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Jasper
+Seltenheit:
+  - keine
 Kst.: 50 GM
 Status: WIP
 linter-yaml-title-alias: Jasper

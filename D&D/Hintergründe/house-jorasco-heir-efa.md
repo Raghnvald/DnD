@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Jorasco Heir
-  - House Jorasco Heir
 ---
 # House Jorasco Heir
 *Source: Eberron: Forge of the Artificer p. 28*  

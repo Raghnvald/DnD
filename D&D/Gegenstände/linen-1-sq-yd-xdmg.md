@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Linen (1 sq. yd.)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Linen (1 sq. yd.)
 tags:

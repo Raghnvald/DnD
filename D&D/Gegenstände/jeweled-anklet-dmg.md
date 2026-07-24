@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Jeweled anklet
+Original: Jeweled anklet
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

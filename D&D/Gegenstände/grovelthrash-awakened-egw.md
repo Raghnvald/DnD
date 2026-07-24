@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Grovelthrash (Awakened)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Grovelthrash (Awakened)
 tags:

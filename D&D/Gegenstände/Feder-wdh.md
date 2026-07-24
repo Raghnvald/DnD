@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Feder
+Original: Feather
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM

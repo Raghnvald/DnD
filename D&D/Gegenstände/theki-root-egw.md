@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Theki Root
+Original: Theki Root
+Seltenheit:
+  - keine
 Kst.: 3 GM
 Gew.: n/v
 Status: WIP

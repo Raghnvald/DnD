@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cube of Force
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Cube of Force
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Charming
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Staff of Charming
 tags:

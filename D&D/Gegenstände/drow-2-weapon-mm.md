@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Drow +2 Weapon
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Drow +2 Weapon
 tags:

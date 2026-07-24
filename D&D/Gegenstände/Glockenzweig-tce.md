@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bell Branch
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Bell Branch
 tags:

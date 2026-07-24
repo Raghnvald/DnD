@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rope of Mending
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Rope of Mending
 tags:

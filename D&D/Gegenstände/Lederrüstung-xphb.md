@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Leather Armor
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: Leather Armor

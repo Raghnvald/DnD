@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Mielikki
-  - Mielikki
   - Our Lady of the Forest
   - The Forest Queen
 ---

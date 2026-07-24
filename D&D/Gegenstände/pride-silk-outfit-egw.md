@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Pride Silk Outfit
+Original: Pride Silk Outfit
+Seltenheit:
+  - keine
 Kst.: 500 GM
 Gew.: 2,0 kg
 Status: WIP

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: +1 Wand of the War Mage
-Kategorie: Zauberstab 
+Kategorie: Zauberstab
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: +1 Wand of the War Mage
 tags:

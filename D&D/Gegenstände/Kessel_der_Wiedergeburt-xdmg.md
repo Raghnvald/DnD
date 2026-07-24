@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cauldron of Rebirth
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Cauldron of Rebirth
 tags:

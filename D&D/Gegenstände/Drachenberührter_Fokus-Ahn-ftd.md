@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ascendant Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ascendant Dragon-Touched Focus
 tags:

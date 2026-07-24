@@ -3,12 +3,11 @@ Bezeichnung: Space Galleon
 Status: WIP
 linter-yaml-title-alias: Space Galleon
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Space Galleon
   - Space Galleon
 ---
 # Space Galleon

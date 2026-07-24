@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Necrotic Resistance
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Necrotic Resistance
 tags:

@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Horned Ring
+Original: Horned Ring
 Kategorie: Ring
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
-Gew.: /
+Kst.: n/v
+Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Horned Ring
 tags:
@@ -15,7 +18,6 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Horned Ring
-status: WIP
 ---
 # Horned Ring
 *Ring, very rare (requires attunement)*  

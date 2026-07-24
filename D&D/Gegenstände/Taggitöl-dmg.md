@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Taggitöl
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 400 GM

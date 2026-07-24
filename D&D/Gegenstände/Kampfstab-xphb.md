@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Quarterstaff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Quarterstaff
 tags:

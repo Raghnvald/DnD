@@ -2,6 +2,8 @@
 Bezeichnung: Schinderspalter
 Original: Flayer Slayer
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Schinderspalter
 tags:

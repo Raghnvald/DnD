@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Carved bone statuette
+Original: Carved bone statuette
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

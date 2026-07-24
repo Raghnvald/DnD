@@ -7,7 +7,6 @@ tags:
   - Rasse/human/kaladesh
 aliases:
   - Human (Kaladesh)
-  - Human (Kaladesh)
 ---
 # Human (Kaladesh)
 *Source: Plane Shift: Kaladesh p. 22*  

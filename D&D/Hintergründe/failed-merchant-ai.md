@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/ai
 aliases:
   - Failed Merchant
-  - Failed Merchant
 ---
 # Failed Merchant
 *Source: Acquisitions Incorporated p. 49*  

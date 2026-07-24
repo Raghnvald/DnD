@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Lyrandar Helm
-  - Lyrandar Helm
 ---
 # Lyrandar Helm
 *Level 13 Bastion facility*  

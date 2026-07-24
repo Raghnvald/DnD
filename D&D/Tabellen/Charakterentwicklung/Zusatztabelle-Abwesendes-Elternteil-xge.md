@@ -5,8 +5,8 @@ linter-yaml-title-alias: Zusatztabelle; Abwesendes Elternteil
 tags:
   - Quelle/5e/xge
 aliases:
-  - Zusatztabelle; Abwesendes Elternteil
   - Supplemental Tables; Absent Parent
+  - Zusatztabelle; Abwesendes Elternteil
 ---
 # Zusatztabelle; Abwesendes Elternteil
 *Quellen: Xanathars Ratgeber für Alles S. 63* 

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild des lodernden Schlächters
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Schild
 Eigenschaften:
   - n/v

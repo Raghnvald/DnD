@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Entangle
+Original: Wand of Entangle
 Kategorie: Zauberstab
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wand of Entangle
 tags:

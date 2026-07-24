@@ -2,9 +2,12 @@
 Bezeichnung: Kristallklinge
 Original: Crystal Blade
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
+Kst.: n/v
 Status: WIP
 linter-yaml-title-alias: Kristallklinge
 tags:

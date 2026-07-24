@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Copper chalice with silver filigree
+Original: Copper chalice with silver filigree
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

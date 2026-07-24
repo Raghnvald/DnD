@@ -2,6 +2,8 @@
 Bezeichnung: Flegel
 Original: Flail
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Flegel
 tags:

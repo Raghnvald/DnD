@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Force Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Force Resistance
 tags:

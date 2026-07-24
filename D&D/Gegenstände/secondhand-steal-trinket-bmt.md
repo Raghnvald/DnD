@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Secondhand Steal Trinket
+Original: Secondhand Steal Trinket
+Seltenheit:
+  - keine
 Kst.: n/v
 Gew.: n/v
 Status: WIP

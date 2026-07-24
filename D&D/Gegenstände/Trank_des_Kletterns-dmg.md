@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Climbing
+Original: Potion of Climbing
 Kategorie: Trank
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Climbing
 tags:

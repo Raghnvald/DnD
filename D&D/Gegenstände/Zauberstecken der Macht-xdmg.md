@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Power
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Staff of Power
 tags:

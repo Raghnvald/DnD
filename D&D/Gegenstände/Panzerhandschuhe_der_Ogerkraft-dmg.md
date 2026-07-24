@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gauntlets of Ogre Power
-Kategorie: Wundersamer Gegenstand 
+Original: Gauntlets of Ogre Power
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Gauntlets of Ogre Power
 tags:

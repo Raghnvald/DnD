@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Spindle of Fate
+Original: Spindle of Fate
 Kategorie: Zauberstab
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Spindle of Fate
 tags:

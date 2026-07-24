@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/nf
 aliases:
   - Arcane Effluence
-  - Arcane Effluence
 ---
 # Arcane Effluence
 *Generic Hazard*  

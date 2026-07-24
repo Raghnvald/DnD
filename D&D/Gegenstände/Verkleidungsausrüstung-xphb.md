@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Disguise Kit
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Disguise Kit
 tags:

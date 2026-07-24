@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Heroism
+Original: Potion of Heroism
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Heroism
 tags:

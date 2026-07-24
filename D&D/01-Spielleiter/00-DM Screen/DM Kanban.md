@@ -3,6 +3,7 @@ Bezeichnung: DM Kanban
 Status: WIP
 tags:
   - Quelle/5e/dmg
+  - Zauber/Schule/Verzauberung
 kanban-plugin: board
 ---
 # DM Kanban

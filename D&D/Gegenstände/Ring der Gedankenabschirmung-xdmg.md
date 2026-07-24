@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Mind Shielding
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Ring of Mind Shielding
 tags:

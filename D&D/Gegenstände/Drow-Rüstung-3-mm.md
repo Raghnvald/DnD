@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Drow +3 Armor
+Seltenheit:
+  - unbekannt
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Drow +3 Armor

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dc
 aliases:
   - Icingdeath and Twinkle
-  - Icingdeath and Twinkle
 ---
 # Icingdeath and Twinkle
 *Source: Essentials Kit: Divine Contention* 

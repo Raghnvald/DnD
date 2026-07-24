@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schriftrolle des Schutzes vor Unholden
 Kategorie: Schriftrolle
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Schriftrolle des Schutzes vor Unholden
 tags:

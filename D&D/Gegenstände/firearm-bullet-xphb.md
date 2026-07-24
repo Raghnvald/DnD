@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Firearm Bullet
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Firearm Bullet
 tags:

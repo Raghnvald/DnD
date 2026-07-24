@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/background/prismari-student
 aliases:
   - Spells for Prismari Student
-  - Spells for Prismari Student
 ---
 # Spells for Prismari Student
 

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Bomber
-  - Bomber
 ---
 # Bomber
 *Source: Astarion's Book of Hungers p. 9*  

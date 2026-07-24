@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Leatherworker's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Leatherworker's Tools"
 tags:

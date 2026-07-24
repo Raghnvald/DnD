@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/ditlcot
 aliases:
   - Descent into the Lost Caverns of Tsojcanth
-  - Descent into the Lost Caverns of Tsojcanth
 ---
 # Descent into the Lost Caverns of Tsojcanth
 *Source: Descent into the Lost Caverns of Tsojcanth* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Grenade Launcher
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Grenade Launcher
 tags:

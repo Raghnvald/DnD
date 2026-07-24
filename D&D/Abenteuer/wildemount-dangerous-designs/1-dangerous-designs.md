@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dd
 aliases:
   - Dangerous Designs
-  - Dangerous Designs
 ---
 # Dangerous Designs
 *Source: Wildemount: Dangerous Designs, p. 217* 

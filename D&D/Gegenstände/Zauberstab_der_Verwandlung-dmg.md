@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Polymorph
+Original: Wand of Polymorph
 Kategorie: Zauberstab
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Wand of Polymorph
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of Displacement
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Cloak of Displacement
 tags:

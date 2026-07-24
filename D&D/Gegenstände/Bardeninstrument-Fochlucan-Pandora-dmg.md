@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Fochlucan Bandore
+Original: Instrument of the Bards, Fochlucan Bandore
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Arkaner Fokus
+Seltenheit:
+  - keine
 Status: completed
 linter-yaml-title-alias: Arkaner Fokus
 tags:

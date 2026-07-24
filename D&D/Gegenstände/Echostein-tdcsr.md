@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Echo Stone
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Echo Stone
 tags:

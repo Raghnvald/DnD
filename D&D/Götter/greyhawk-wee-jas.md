@@ -4,10 +4,10 @@ Status: WIP
 linter-yaml-title-alias: Wee Jas
 tags:
   - Kompendium/Götter/Domäne/Arkan
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Grab
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Tod
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:

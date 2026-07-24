@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Red Wizard Necropolis
-  - Red Wizard Necropolis
 ---
 # Red Wizard Necropolis
 *Level 5 Bastion facility*  

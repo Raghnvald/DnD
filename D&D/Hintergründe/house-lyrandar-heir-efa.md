@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Lyrandar Heir
-  - House Lyrandar Heir
 ---
 # House Lyrandar Heir
 *Source: Eberron: Forge of the Artificer p. 29*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Eyes of Charming
+Original: Eyes of Charming
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Eyes of Charming
 tags:

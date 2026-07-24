@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kiss of the Changebringer (Exalted)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Kiss of the Changebringer (Exalted)
 tags:

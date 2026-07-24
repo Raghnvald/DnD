@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Automatic Ballista
-  - Automatic Ballista
 ---
 # Automatic Ballista
 *Source: Hold Back The Dead p. 4*  

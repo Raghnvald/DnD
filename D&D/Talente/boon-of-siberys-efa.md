@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Boon of Siberys
-  - Boon of Siberys
 ---
 # Boon of Siberys
 *Source: Eberron: Forge of the Artificer p. 45*  

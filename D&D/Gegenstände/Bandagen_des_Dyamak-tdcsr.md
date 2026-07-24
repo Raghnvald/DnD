@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wraps of Dyamak
+Original: Wraps of Dyamak
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Wraps of Dyamak
 tags:

@@ -3,11 +3,10 @@ Bezeichnung: Wasp Ship
 Status: WIP
 linter-yaml-title-alias: Wasp Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Wasp Ship
   - Wasp Ship
 ---
 # Wasp Ship

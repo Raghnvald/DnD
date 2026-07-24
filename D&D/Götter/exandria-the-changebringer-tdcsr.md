@@ -3,9 +3,9 @@ Bezeichnung: The Changebringer
 Status: WIP
 linter-yaml-title-alias: The Changebringer
 tags:
+  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/Domäne/Mond
   - Kompendium/Götter/Domäne/Natur
-  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

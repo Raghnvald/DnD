@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Pergament (ein Blatt)
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM

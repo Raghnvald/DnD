@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Invulnerability
+Original: Potion of Invulnerability
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Invulnerability
 tags:

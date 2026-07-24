@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Professor Orb
-Kategorie: Wundersamer Gegenstand 
+Original: Professor Orb
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Professor Orb
 tags:

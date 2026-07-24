@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Streitwagen
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Streitwagen
-status: completed
 ---
 # Streitwagen
 *Fahrzeug (Land)*

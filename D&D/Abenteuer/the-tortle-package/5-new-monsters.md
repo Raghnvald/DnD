@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/ttp
 aliases:
   - New Monsters
-  - New Monsters
 ---
 # New Monsters
 *Source: The Tortle Package, p. 21* 

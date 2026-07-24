@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wooden Staff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Wooden Staff
 tags:

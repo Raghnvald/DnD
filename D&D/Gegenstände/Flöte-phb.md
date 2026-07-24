@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Flöte
+Original: Flute
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

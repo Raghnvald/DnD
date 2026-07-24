@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Belt of Cloud Giant Strength
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Belt of Cloud Giant Strength
 tags:

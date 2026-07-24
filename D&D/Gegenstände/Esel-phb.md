@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Esel
+Original: Donkey
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 8 GM
@@ -15,7 +18,6 @@ aliases:
   - Esel
 Bew.: 12 m
 Traglast: 420 Pfd.
-Original: Donkey
 ---
 # Esel
 *Reit- und Lasttiere*  

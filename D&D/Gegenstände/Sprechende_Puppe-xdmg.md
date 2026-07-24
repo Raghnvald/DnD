@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Talking Doll
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Talking Doll
 tags:

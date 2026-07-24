@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Nine Lives Stealer
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Nine Lives Stealer
 tags:

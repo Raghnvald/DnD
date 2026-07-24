@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Salt
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Salt
 tags:

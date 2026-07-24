@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Protection
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Protection
 tags:

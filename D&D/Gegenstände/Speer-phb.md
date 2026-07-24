@@ -2,6 +2,8 @@
 Bezeichnung: Speer
 Original: Spear
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1d6 Stich
 Eigenschaften:
   - Vielseitig (1d8)

@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/hbtd
 aliases:
   - Forge Launcher
-  - Forge Launcher
 ---
 # Forge Launcher
 *Source: Hold Back The Dead p. 4*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Shooting Stars
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ring of Shooting Stars
 tags:

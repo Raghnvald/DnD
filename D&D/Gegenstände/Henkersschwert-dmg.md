@@ -2,6 +2,8 @@
 Bezeichnung: Henkersschwert
 Original: Vorpal Sword
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - legendär
 Schaden: variiert
 Eigenschaften:
   - variiert

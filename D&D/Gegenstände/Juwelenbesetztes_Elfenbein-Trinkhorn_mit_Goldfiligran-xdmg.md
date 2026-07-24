@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bejeweled ivory drinking horn with gold filigree
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bejeweled ivory drinking horn with gold filigree
 tags:

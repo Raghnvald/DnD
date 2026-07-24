@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Dragon Vessel
+Original: Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Dragon Vessel
 tags:

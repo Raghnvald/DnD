@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dynamite Stick
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dynamite Stick
 tags:

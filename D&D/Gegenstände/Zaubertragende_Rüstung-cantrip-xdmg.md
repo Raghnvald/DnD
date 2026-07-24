@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Cantrip)
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Enspelled Armor (Cantrip)

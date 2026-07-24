@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Helm of Perfect Potential
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Helm of Perfect Potential
 tags:

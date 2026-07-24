@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Daanvi, the Perfect Order
-  - Manifest Charm of Daanvi, the Perfect Order
 ---
 # Manifest Charm of Daanvi, the Perfect Order
 *Charm*  

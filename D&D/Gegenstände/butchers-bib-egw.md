@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Butcher's Bib"
+Original: "Butcher's Bib"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Butcher's Bib"
 tags:

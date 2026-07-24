@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hol
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Ravenloft: The House of Lament* 

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Brotlaib
 Kategorie: Essen und Trinken
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 KM

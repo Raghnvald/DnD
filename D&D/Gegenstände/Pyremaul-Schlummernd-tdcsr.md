@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Pyremaul (Dormant)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Pyremaul (Dormant)
 tags:

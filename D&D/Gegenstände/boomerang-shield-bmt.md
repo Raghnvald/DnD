@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Boomerang Shield
 Original: Boomerang Shield
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Boomerang Shield

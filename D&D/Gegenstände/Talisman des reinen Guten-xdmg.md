@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Talisman of Pure Good
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Talisman of Pure Good
 tags:

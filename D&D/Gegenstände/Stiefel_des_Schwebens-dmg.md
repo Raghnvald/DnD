@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Boots of Levitation
-Kategorie: Wundersamer Gegenstand 
+Original: Boots of Levitation
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Boots of Levitation
 tags:

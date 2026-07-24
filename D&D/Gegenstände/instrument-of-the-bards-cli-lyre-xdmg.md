@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of the Bards, Cli Lyre
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Cli Lyre
 tags:

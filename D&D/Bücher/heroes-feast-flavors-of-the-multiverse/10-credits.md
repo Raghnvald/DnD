@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hffotm
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Heroes' Feast Flavors of the Multiverse* 

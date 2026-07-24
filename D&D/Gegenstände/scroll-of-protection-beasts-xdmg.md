@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Scroll of Protection (Beasts)
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Beasts)
 tags:

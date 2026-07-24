@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Peridot
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 500 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Peridot
-status: WIP
 ---
 # Peridot
 *Schatz (Edelstein)*  

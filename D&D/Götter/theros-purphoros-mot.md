@@ -9,7 +9,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Purphoros
-  - Purphoros
 ---
 # Purphoros
 *Source: Mythic Odysseys of Theros p. 76* 

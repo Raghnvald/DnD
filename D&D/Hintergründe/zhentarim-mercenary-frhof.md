@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Zhentarim Mercenary
-  - Zhentarim Mercenary
 ---
 # Zhentarim Mercenary
 *Source: Forgotten Realms: Heroes of Faerûn p. 36*  

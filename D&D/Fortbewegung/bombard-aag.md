@@ -3,12 +3,11 @@ Bezeichnung: Bombard
 Status: WIP
 linter-yaml-title-alias: Bombard
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Bombard
   - Bombard
 ---
 # Bombard

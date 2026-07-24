@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Musical Instrument
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Musical Instrument
 tags:

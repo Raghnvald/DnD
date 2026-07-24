@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Mark of Detection
-  - Mark of Detection
 ---
 # Mark of Detection
 *Source: Eberron: Forge of the Artificer p. 39*  

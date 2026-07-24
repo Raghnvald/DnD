@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aitfr-isf
 aliases:
   - In Scarlet Flames
-  - In Scarlet Flames
 ---
 # In Scarlet Flames
 *Source: Adventures in the Forgotten Realms: In Scarlet Flames, p. 2* 

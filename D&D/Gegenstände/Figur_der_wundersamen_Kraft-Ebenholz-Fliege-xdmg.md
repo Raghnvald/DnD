@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Ebony Fly
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Ebony Fly
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Loviatar
-  - Loviatar
   - The Maiden of Pain
   - The Scourge Mistress
   - The Willing Whip

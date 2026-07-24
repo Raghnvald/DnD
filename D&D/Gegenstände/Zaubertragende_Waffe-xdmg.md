@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Weapon
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Enspelled Weapon
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Dimensional Shackles
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Dimensional Shackles
 tags:

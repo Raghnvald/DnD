@@ -7,7 +7,6 @@ tags:
   - Rasse/siren
 aliases:
   - Siren
-  - Siren
 ---
 # Siren
 *Source: Plane Shift: Ixalan p. 17*  

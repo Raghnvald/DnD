@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Enemy Detection
+Original: Wand of Enemy Detection
 Kategorie: Zauberstab
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Enemy Detection
 tags:

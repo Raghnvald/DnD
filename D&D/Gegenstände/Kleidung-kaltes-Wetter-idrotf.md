@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kleidung, kaltes Wetter
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

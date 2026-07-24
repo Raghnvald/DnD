@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/xmts
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: X Marks the Spot* 

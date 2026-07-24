@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silver ewer
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silver ewer
 tags:

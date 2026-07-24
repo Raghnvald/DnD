@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Belt of Storm Giant Strength
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Belt of Storm Giant Strength
 tags:

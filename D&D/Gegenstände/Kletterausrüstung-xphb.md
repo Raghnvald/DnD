@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Climber's Kit"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Climber's Kit"
 tags:

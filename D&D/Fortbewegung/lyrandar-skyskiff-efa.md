@@ -3,11 +3,10 @@ Bezeichnung: Lyrandar Skyskiff
 Status: WIP
 linter-yaml-title-alias: Lyrandar Skyskiff
 tags:
-  - Quelle/5e/efa
   - Gegenstand/Fortbewegung/Gelände/Luft
   - Gegenstand/Fortbewegung/Kategorie/Elementar-Luftschiff
+  - Quelle/5e/efa
 aliases:
-  - Lyrandar Skyskiff
   - Lyrandar Skyskiff
 ---
 # Lyrandar Skyskiff

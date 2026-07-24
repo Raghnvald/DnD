@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Teeth of Dahlver-Nar
-Kategorie: Wundersamer Gegenstand 
+Original: Teeth of Dahlver-Nar
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Teeth of Dahlver-Nar
 tags:

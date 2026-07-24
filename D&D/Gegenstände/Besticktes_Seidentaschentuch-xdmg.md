@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Embroidered silk handkerchief
+Seltenheit:
+  - keine
 Kst.: 25 GM
 Gew.: /
 Status: WIP

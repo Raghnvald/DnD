@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Barrier Tattoo (Small)
+Original: Barrier Tattoo (Small)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Barrier Tattoo (Small)
 tags:

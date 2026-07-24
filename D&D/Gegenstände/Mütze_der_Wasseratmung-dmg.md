@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cap of Water Breathing
-Kategorie: Wundersamer Gegenstand 
+Original: Cap of Water Breathing
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Cap of Water Breathing
 tags:

@@ -2,6 +2,8 @@
 Bezeichnung: Waythe
 Original: Waythe
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Waythe
 tags:

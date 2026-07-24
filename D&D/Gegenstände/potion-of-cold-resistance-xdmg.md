@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Cold Resistance
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Cold Resistance
 tags:

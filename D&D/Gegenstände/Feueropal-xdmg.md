@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Fire Opal
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Fire Opal
 tags:

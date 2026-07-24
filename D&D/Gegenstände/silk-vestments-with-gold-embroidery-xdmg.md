@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silk vestments with gold embroidery
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silk vestments with gold embroidery
 tags:

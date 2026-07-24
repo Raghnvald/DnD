@@ -5,12 +5,11 @@ Bezeichnung: Glasswork Golem
 Status: WIP
 linter-yaml-title-alias: Glasswork Golem
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/2
   - Monster/Größe/Mittelgroß
+  - Monster/HG/2
   - Monster/Typ/Konstrukt
+  - Quelle/5e/wbtw
 aliases:
-  - Glasswork Golem
   - Glasswork Golem
 ---
 # [Glasswork Golem](3-Mechanics/CLI/bestiary/construct/glasswork-golem-wbtw.md)

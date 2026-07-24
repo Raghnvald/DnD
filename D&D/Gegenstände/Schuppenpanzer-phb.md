@@ -2,6 +2,8 @@
 Bezeichnung: Schuppenpanzer
 Original: Scale Mail
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Mittel
 Eigenschaften:
   - /

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Tharashk Heir
-  - House Tharashk Heir
 ---
 # House Tharashk Heir
 *Source: Eberron: Forge of the Artificer p. 32*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Amulet
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Baba Yaga's Dancing Broom"
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Baba Yaga's Dancing Broom"
 tags:

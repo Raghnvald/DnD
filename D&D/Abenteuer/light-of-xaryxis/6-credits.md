@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lox
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Light of Xaryxis* 

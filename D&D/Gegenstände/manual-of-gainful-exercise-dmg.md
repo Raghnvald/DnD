@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Manual of Gainful Exercise
-Kategorie: Wundersamer Gegenstand 
+Original: Manual of Gainful Exercise
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Manual of Gainful Exercise
 tags:

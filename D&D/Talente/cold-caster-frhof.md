@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Cold Caster
-  - Cold Caster
 ---
 # Cold Caster
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spellguard Shield
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Spellguard Shield

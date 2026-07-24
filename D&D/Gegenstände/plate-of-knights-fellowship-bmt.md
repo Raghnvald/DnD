@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Plate of Knight's Fellowship"
 Original: "Plate of Knight's Fellowship"
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Schwer
 Einstimmung: erforderlich
 Kst.: n/v

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Orb
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Orb
 tags:

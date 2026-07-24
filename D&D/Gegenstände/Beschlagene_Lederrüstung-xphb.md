@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Beschlagene Lederrüstung
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: Beschlagene Lederrüstung

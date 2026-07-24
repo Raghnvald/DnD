@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Truhe der Konservierung
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Truhe der Konservierung
 tags:

@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Clangeddin Silverbeard
-  - Clangeddin Silverbeard
 ---
 # Clangeddin Silverbeard
 *Source: Sword Coast Adventurer's Guide p. 22* 

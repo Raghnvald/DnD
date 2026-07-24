@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Talisman of Pure Good
-Kategorie: Wundersamer Gegenstand 
+Original: Talisman of Pure Good
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Talisman of Pure Good
 tags:

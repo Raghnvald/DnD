@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Verminshroud (Awakened)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Verminshroud (Awakened)
 tags:

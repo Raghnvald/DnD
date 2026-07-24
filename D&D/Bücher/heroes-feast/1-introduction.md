@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hf
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: Heroes' Feast, p. xii* 

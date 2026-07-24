@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bowl of Commanding Water Elementals
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Bowl of Commanding Water Elementals
 tags:

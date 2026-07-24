@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Red Dragon Scale Mail
 Original: Red Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Red Dragon Scale Mail

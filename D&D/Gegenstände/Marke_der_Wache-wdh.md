@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Badge of the Watch
-Kategorie: Wundersamer Gegenstand 
+Original: Badge of the Watch
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Badge of the Watch
 tags:

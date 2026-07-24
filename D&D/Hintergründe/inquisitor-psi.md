@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/psi
 aliases:
   - Inquisitor
-  - Inquisitor
 ---
 # Inquisitor
 *Source: Plane Shift: Innistrad p. 12*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold circlet set with four aquamarines
+Original: Gold circlet set with four aquamarines
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

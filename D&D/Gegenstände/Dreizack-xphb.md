@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Trident
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Trident
 tags:

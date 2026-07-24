@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Lampe
+Original: Lamp
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 SM
 Gew.: 0,5 kg
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Lampe
 tags:
   - Gegenstand/Ausrüstung

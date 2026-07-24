@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Brass mug with jade inlay
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Brass mug with jade inlay
 tags:

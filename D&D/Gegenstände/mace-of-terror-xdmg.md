@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mace of Terror
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mace of Terror
 tags:

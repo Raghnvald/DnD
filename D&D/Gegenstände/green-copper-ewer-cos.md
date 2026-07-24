@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Green Copper Ewer
+Original: Green Copper Ewer
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Green Copper Ewer
 tags:

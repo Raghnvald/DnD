@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Manual of Flesh Golems
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Manual of Flesh Golems
 tags:

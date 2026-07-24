@@ -2,6 +2,8 @@
 Bezeichnung: Gluebomb
 Original: Gluebomb
 Kategorie: Sprengstoff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gluebomb
 tags:

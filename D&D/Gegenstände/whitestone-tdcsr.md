@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Whitestone
+Original: Whitestone
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Kst.: n/v
@@ -13,7 +16,6 @@ tags:
 aliases:
   - Whitestone
 status: WIP
-Original: Whitestone
 ---
 # Whitestone
 *Trade good*  

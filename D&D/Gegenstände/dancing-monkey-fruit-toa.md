@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Dancing Monkey Fruit
+Original: Dancing Monkey Fruit
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Dancing Monkey Fruit
 tags:

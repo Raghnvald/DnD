@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Feywrought Armor
+Original: Feywrought Armor
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Feywrought Armor
@@ -26,7 +29,6 @@ aliases:
   - Feywrought Spiked Armor
   - Feywrought Splint Armor
   - Feywrought Studded Leather Armor
-Original: Feywrought Armor
 ---
 # Feywrought Armor
 *Rare (requires attunement)*  

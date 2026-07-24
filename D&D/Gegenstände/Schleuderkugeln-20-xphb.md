@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sling Bullets (20)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sling Bullets (20)
 tags:

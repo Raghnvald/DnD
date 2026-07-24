@@ -1,5 +1,8 @@
 ---
 Bezeichnung: "Maddgoth's Helm"
+Original: "Maddgoth's Helm"
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "Maddgoth's Helm"
 tags:

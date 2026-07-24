@@ -2,6 +2,8 @@
 Bezeichnung: Adamantbarren
 Original: Adamantine Bar
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1.000 GM

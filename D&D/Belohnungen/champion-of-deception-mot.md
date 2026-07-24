@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of Deception
-  - Champion of Deception
 ---
 # Champion of Deception
 *Piety Trait*  

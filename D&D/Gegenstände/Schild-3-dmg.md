@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild +3
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Eigenschaften:
   - n/v

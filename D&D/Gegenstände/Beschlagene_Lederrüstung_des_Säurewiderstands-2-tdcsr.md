@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Studded Leather Armor of Acid Resistance +2
+Seltenheit:
+  - unbekannt
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: Studded Leather Armor of Acid Resistance +2
@@ -7,7 +9,6 @@ tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Rüstung/Leicht
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/tier/major
   - Quelle/5e/tdcsr
 aliases:
   - Studded Leather Armor of Acid Resistance +2

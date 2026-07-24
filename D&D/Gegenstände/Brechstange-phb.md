@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Brechstange
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

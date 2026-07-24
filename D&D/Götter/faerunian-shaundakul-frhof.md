@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Shaundakul
-  - Shaundakul
   - The Helping Hand
   - The Rider of the Winds
 ---

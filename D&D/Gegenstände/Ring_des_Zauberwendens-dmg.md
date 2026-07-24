@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Zauberwendens
 Kategorie: Ring
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

@@ -2,9 +2,13 @@
 Bezeichnung: Sword of the Planes
 Original: Sword of the Planes
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - legendär
 Eigenschaften:
   - variiert
 Einstimmung: erforderlich
+Kst.: n/v
+Gew.: variiert
 Status: WIP
 linter-yaml-title-alias: Sword of the Planes
 tags:
@@ -22,8 +26,6 @@ aliases:
   - Scimitar of the Planes
   - Shortsword of the Planes
   - Sword of the Planes
-Kst.: n/v
-Gew.: variiert
 ---
 # Sword of the Planes
 *Legendary (requires attunement)*  

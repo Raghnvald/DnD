@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Metallkügelchen
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

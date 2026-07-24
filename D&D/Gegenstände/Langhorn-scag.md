@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Langhorn
+Original: Longhorn
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

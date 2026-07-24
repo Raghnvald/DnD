@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Platinum 100-Zino Coin
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Platinum 100-Zino Coin
 tags:

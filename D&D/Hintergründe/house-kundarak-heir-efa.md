@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Kundarak Heir
-  - House Kundarak Heir
 ---
 # House Kundarak Heir
 *Source: Eberron: Forge of the Artificer p. 29*  

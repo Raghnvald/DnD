@@ -2,8 +2,12 @@
 Bezeichnung: Furcht
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Fear
+linter-yaml-title-alias: Furcht
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -22,11 +26,7 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Illusion
 aliases:
-  - Fear
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Schaden:
+  - Furcht
 ---
 # Furcht
 *3rd-level, Illusion*  

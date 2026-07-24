@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Selesnya Keyrune
-Kategorie: Wundersamer Gegenstand 
+Original: Selesnya Keyrune
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Selesnya Keyrune
 tags:

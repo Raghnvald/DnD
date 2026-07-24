@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/ttp
 aliases:
   - Tortle
-  - Tortle
 ---
 # Tortle
 *Source: The Tortle Package, p. 3* 

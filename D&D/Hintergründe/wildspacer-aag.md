@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Wildspacer
-  - Wildspacer
 ---
 # Wildspacer
 *Source: Astral Adventurer's Guide p. 8*  

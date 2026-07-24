@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/quicksmithing
 aliases:
   - Spells for Quicksmithing
-  - Spells for Quicksmithing
 ---
 # Spells for Quicksmithing
 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chain Mail
+Seltenheit:
+  - keine
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Chain Mail

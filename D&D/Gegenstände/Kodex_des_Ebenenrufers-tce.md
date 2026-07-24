@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Planecaller's Codex"
-Kategorie: Wundersamer Gegenstand 
+Original: "Planecaller's Codex"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Planecaller's Codex"
 tags:

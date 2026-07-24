@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +2 Ammunition
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: +2 Ammunition
 tags:

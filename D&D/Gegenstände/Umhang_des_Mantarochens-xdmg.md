@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of the Manta Ray
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Cloak of the Manta Ray
 tags:

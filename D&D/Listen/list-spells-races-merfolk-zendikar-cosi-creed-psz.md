@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subrace/merfolk-zendikar-cosi-creed
 aliases:
   - Spells for Merfolk (Zendikar; Cosi Creed)
-  - Spells for Merfolk (Zendikar; Cosi Creed)
 ---
 # Spells for Merfolk (Zendikar; Cosi Creed)
 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Ollamh Harp
+Original: Instrument of the Bards, Ollamh Harp
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

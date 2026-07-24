@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subclass/knowledge-domain-psa
 aliases:
   - Spells for Knowledge Domain (PSA)
-  - Spells for Knowledge Domain (PSA)
 ---
 # Spells for Knowledge Domain (PSA)
 

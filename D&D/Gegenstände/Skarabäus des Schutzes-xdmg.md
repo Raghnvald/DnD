@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Scarab of Protection
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Scarab of Protection
 tags:

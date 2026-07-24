@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Poster Map
-  - Poster Map
 ---
 # Poster Map
 *Source: Astral Adventurer's Guide* 

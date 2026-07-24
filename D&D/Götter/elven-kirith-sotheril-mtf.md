@@ -3,8 +3,8 @@ Bezeichnung: Kirith Sotheril
 Status: WIP
 linter-yaml-title-alias: Kirith Sotheril
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

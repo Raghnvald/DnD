@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Staff of the Ivory Claw
+Original: Staff of the Ivory Claw
 Kategorie: Zauberstecken
+Seltenheit:
+  - selten
 Eigenschaften:
   - Vielseitig (1W8)
+Einstimmung: durch einen Zauberwirker
 Kst.: /
 Gew.: 2,0 kg
 Status: WIP
-Einstimmung: durch einen Zauberwirker
 linter-yaml-title-alias: Staff of the Ivory Claw
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Staff of the Ivory Claw
 status: WIP
-Original: Staff of the Ivory Claw
 ---
 # Staff of the Ivory Claw
 *Staff, weapon, rare (requires attunement by a spellcaster)*  

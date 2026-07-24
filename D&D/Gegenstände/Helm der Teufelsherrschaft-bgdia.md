@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Helm of Devil Command
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Helm of Devil Command
 tags:

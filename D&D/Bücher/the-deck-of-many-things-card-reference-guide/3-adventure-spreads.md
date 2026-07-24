@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dmtcrg
 aliases:
   - Adventure Spreads
-  - Adventure Spreads
 ---
 # Adventure Spreads
 *Source: The Deck of Many Things: Card Reference Guide, p. 8* 

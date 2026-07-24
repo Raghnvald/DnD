@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Statuette of Saint Markovia
+Original: Statuette of Saint Markovia
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Statuette of Saint Markovia
 tags:

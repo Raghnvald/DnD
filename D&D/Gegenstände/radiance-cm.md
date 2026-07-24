@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Radiance
+Original: Radiance
 Kategorie: Zauberstab
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Radiance
 tags:

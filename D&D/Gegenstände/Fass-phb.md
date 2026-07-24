@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Fass
+Original: Barrel
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

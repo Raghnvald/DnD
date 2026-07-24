@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Eye of Vecna
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Eye of Vecna
 tags:

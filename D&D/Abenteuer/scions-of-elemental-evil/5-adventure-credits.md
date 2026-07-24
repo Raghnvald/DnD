@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scoee
 aliases:
   - Adventure Credits
-  - Adventure Credits
 ---
 # Adventure Credits
 *Source: Scions of Elemental Evil* 

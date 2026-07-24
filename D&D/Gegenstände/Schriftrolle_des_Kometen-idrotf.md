@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Scroll of the Comet
+Original: Scroll of the Comet
 Kategorie: Schriftrolle
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Scroll of the Comet
 tags:
@@ -9,7 +12,6 @@ tags:
   - Quelle/5e/idrotf
 aliases:
   - Scroll of the Comet
-status: WIP
 ---
 # Scroll of the Comet
 *Scroll, legendary*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rope of Entanglement
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Rope of Entanglement
 tags:

@@ -8,10 +8,10 @@ HG: 1/4
 Status: WIP
 linter-yaml-title-alias: Derro Raider
 tags:
-  - Quelle/5e/qftis
-  - Monster/HG/1-4
   - Monster/Größe/Klein
+  - Monster/HG/1-4
   - Monster/Typ/Aberration
+  - Quelle/5e/qftis
 aliases:
   - Derro Raider
 status: WIP

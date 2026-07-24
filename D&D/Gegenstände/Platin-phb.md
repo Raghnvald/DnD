@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Platin
+Original: Platinum
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 500 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Platin
-Original: Platinum
 ---
 # Platin
 *Handelsgut*  

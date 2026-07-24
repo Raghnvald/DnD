@@ -1,6 +1,9 @@
 ---
 Bezeichnung: The Bloody End
+Original: The Bloody End
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: The Bloody End
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - The Bloody End
 status: WIP
-Original: The Bloody End
 ---
 # The Bloody End
 *Weapon ([morningstar](/3-Mechanics/CLI/items/morningstar-xphb.md)), artifact (requires attunement)*  

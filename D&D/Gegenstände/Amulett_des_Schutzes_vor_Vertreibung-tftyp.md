@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Amulet of Protection from Turning
+Original: Amulet of Protection from Turning
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

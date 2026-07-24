@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Necklace string of small pink pearls
+Original: Necklace string of small pink pearls
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

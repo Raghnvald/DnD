@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gloves of Missile Snaring
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Gloves of Missile Snaring
 tags:

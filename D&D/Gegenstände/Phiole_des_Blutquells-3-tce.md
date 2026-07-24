@@ -1,6 +1,8 @@
 ---
 Bezeichnung: +3 Bloodwell Vial
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: +3 Bloodwell Vial
 tags:

@@ -8,7 +8,6 @@ tags:
 aliases:
   - "Inspiration's Dawn"
   - Lathander
-  - Lathander
   - The Morninglord
   - The Rose-And-Gold God
 ---

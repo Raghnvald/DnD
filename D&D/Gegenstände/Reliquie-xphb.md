@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Reliquary
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Reliquary
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cape of Enlargement
-Kategorie: Wundersamer Gegenstand 
+Original: Cape of Enlargement
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Cape of Enlargement
 tags:

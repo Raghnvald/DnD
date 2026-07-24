@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Sage's Signet"
+Original: "Sage's Signet"
 Kategorie: Ring
+Seltenheit:
+  - variiert
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Zauberwirker
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet"
-status: WIP
 ---
 # Sage's Signet
 *Ring (requires attunement by a spellcaster)*  

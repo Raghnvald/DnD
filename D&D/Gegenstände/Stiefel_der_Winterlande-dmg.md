@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Stiefel der Winterlande
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Stiefel der Winterlande
 tags:

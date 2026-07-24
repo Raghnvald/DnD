@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Gond
-  - Gond
   - The Holy Maker of All Things
   - The Inspiration Divine
   - Wonderbringer

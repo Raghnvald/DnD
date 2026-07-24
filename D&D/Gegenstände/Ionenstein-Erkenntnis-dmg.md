@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Insight
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Insight
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Insight
 tags:

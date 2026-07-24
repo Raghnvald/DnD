@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Carriage
+Seltenheit:
+  - keine
 Kst.: 100 GM
 Status: WIP
 linter-yaml-title-alias: Carriage

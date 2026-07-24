@@ -8,7 +8,6 @@ tags:
 aliases:
   - Our Lady of Silver
   - Selûne
-  - Selûne
   - The Moonmaiden
   - The Night White Lady
 ---

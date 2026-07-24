@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Mason's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Mason's Tools"
 tags:

@@ -7,7 +7,6 @@ tags:
   - Rasse/plasmoid
 aliases:
   - Plasmoid
-  - Plasmoid
 ---
 # Plasmoid
 *Source: Astral Adventurer's Guide p. 14*  

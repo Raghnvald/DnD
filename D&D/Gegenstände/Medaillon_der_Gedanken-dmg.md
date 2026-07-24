@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Medallion of Thoughts
-Kategorie: Wundersamer Gegenstand 
+Original: Medallion of Thoughts
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Medallion of Thoughts
 tags:

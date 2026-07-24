@@ -7,7 +7,6 @@ tags:
   - Rasse/aetherborn
 aliases:
   - Aetherborn
-  - Aetherborn
 ---
 # Aetherborn
 *Source: Plane Shift: Kaladesh p. 17*  

@@ -3,8 +3,8 @@ Bezeichnung: Darahl Tilvenar
 Status: WIP
 linter-yaml-title-alias: Darahl Tilvenar
 tags:
-  - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

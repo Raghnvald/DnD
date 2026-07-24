@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Diminution
+Original: Potion of Diminution
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Diminution
 tags:

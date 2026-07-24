@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Leier
+Original: Lyre
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 30 GM

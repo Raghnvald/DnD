@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Silber
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - /
 Kst.: 5 GM

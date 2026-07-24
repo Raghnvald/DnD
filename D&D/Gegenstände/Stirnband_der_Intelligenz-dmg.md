@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Headband of Intellect
-Kategorie: Wundersamer Gegenstand 
+Original: Headband of Intellect
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Headband of Intellect
 tags:

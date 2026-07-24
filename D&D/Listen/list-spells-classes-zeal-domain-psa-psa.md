@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subclass/zeal-domain-psa
 aliases:
   - Spells for Zeal Domain (PSA)
-  - Spells for Zeal Domain (PSA)
 ---
 # Spells for Zeal Domain (PSA)
 

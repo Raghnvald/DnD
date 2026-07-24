@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Clockwork Dog
+Original: Clockwork Dog
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Clockwork Dog
 tags:

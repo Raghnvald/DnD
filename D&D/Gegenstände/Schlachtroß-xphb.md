@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Warhorse
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Warhorse
 tags:

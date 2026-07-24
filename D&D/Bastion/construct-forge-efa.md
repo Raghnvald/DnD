@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Construct Forge
-  - Construct Forge
 ---
 # Construct Forge
 *Level 17 Bastion facility*  

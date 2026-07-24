@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Growth
+Original: Potion of Growth
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Growth
 tags:

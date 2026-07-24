@@ -3,8 +3,8 @@ Bezeichnung: The Spirits of the Past
 Status: WIP
 linter-yaml-title-alias: The Spirits of the Past
 tags:
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/eberron
   - Quelle/5e/erlw
 aliases:

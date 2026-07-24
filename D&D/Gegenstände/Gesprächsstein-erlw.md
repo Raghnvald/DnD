@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Speaking Stone
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Speaking Stone
 tags:

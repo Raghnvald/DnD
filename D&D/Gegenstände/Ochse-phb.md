@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ochse
+Original: Ox
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 15 GM
@@ -13,8 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ochse
-status: completed
-Original: Ox
 ---
 # Ochse
 *Handelsgut*  

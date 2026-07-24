@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc-tmm
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Strixhaven: The Magister's Masquerade* 

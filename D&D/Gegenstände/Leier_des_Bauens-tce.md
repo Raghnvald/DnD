@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Lyre of Building
+Original: Lyre of Building
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

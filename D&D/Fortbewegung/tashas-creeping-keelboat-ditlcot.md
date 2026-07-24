@@ -3,10 +3,10 @@ Bezeichnung: "Tasha's Creeping Keelboat"
 Status: WIP
 linter-yaml-title-alias: "Tasha's Creeping Keelboat"
 tags:
-  - Quelle/5e/ditlcot
-  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Kategorie/Objekt
+  - Quelle/5e/ditlcot
 aliases:
   - "Tasha's Creeping Keelboat"
 ---

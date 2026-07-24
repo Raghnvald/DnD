@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Boon of Peerless Aim
-  - Boon of Peerless Aim
 ---
 # Boon of Peerless Aim
 

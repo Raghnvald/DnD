@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of the Soul Drinker
-  - Boon of the Soul Drinker
 ---
 # Boon of the Soul Drinker
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

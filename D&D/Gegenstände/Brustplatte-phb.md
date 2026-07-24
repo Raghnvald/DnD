@@ -2,6 +2,8 @@
 Bezeichnung: Brustplatte
 Original: Breastplate
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Mittel
 Eigenschaften:
   - n/v

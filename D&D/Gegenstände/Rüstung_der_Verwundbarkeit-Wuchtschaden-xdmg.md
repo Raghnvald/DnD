@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Vulnerability (Bludgeoning)
+Seltenheit:
+  - selten
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Vulnerability (Bludgeoning)

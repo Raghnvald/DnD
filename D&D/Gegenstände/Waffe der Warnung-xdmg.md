@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Weapon of Warning
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Weapon of Warning
 tags:

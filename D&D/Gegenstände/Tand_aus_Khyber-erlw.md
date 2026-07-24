@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tand aus Khyber
+Original: Khyber Trinket
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

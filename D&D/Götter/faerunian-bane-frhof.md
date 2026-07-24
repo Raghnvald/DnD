@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Bane
-  - Bane
   - The Black Hand
   - The Lord of Darkness
 ---

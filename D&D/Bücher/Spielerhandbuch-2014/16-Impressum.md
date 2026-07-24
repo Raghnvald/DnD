@@ -1,11 +1,11 @@
 ---
-Bezeichnung: Credits
+Bezeichnung: Impressum
 Status: completed
-linter-yaml-title-alias: Credits
+linter-yaml-title-alias: Impressum
 tags:
   - Quelle/5e/phb
 aliases:
-  - Credits
+  - Impressum
 ---
 # Impressum
 *Quelle: Spielerhandbuch (2014)* 

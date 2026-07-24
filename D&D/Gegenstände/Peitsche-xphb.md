@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Whip
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Whip
 tags:

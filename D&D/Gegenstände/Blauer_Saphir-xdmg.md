@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Blue Sapphire
+Seltenheit:
+  - keine
 Kst.: 1.000 GM
 Gew.: /
 Status: WIP

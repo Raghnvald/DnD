@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Harp of Gilded Plenty
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Harp of Gilded Plenty
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hat of Many Spells
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Hat of Many Spells
 tags:

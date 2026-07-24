@@ -1,5 +1,8 @@
 ---
 Bezeichnung: "Master's Amulet"
+Original: "Master's Amulet"
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: "Master's Amulet"
 tags:

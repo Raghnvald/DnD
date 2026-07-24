@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Papier (ein Blatt)
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 SM

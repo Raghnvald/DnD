@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Kleidung, Kostüm
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM
 Gew.: 2,0 kg
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Kleidung, Kostüm
 tags:
   - Gegenstand/Ausrüstung/

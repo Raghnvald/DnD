@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/ai
 aliases:
   - Gambler
-  - Gambler
 ---
 # Gambler
 *Source: Acquisitions Incorporated p. 49*  

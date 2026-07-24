@@ -2,6 +2,8 @@
 Bezeichnung: Kriegshammer
 Original: Warhammer
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1W8 Wucht
 Eigenschaften:
   - Vielseitig (1W10)

@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/rmbre
 aliases:
   - The Head
-  - The Head
 ---
 # The Head
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy p. 25*  

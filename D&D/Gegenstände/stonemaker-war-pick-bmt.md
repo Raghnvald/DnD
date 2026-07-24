@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Stonemaker War Pick
+Original: Stonemaker War Pick
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Stonemaker War Pick
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Stonemaker War Pick
 status: WIP
-Original: Stonemaker War Pick
 ---
 # Stonemaker War Pick
 *Weapon (war pick), very rare (requires attunement)*  

@@ -1,11 +1,11 @@
 ---
-Bezeichnung: Gods of the Multiverse
+Bezeichnung: Die Götter des Multiversums
 Status: completed
-linter-yaml-title-alias: Gods of the Multiverse
+linter-yaml-title-alias: Die Götter des Multiversums
 tags:
   - Quelle/5e/phb
 aliases:
-  - Gods of the Multiverse
+  - Die Götter des Multiversums
 ---
 # Die Götter des Multiversums
 *Quelle: Spielerhandbuch (2014), S. 293* 

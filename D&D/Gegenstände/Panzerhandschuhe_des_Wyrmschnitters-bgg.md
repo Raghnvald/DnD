@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wyrmreaver Gauntlets
-Kategorie: Wundersamer Gegenstand 
+Original: Wyrmreaver Gauntlets
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Wyrmreaver Gauntlets
 tags:

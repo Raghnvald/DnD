@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pipe of Smoke Monsters
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Pipe of Smoke Monsters
 tags:

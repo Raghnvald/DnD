@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of the Furious Storm
-  - Boon of the Furious Storm
 ---
 # Boon of the Furious Storm
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

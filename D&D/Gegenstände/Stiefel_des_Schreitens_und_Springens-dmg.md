@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Boots of Striding and Springing
-Kategorie: Wundersamer Gegenstand 
+Original: Boots of Striding and Springing
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Boots of Striding and Springing
 tags:

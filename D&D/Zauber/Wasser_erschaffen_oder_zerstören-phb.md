@@ -2,6 +2,9 @@
 Bezeichnung: Wasser erschaffen oder zerstören
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Unmittelbar
 Status: WIP
 linter-yaml-title-alias: Wasser erschaffen oder zerstören
 classes:
@@ -18,9 +21,6 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Wasser erschaffen oder zerstören
-Reichweite: 9 Meter
-Komponenten: V, G, M
-Wirkungsdauer: Unmittelbar
 ---
 # Wasser erschaffen oder zerstören
 *1st-level, Transmutation*  

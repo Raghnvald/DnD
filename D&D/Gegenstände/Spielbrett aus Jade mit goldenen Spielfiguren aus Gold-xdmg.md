@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Jade game board with gold playing pieces
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Jade game board with gold playing pieces
 tags:

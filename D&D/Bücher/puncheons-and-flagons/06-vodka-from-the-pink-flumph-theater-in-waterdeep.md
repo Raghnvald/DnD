@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Vodka from The Pink Flumph Theater in Waterdeep
-  - Vodka from The Pink Flumph Theater in Waterdeep
 ---
 # Vodka from The Pink Flumph Theater in Waterdeep
 *Source: Puncheons and Flagons, p. 50* 

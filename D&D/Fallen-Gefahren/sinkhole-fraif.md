@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Sinkhole
-  - Sinkhole
 ---
 # Sinkhole
 *Generic Hazard*  

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Oloore Root Teabag
+Original: Oloore Root Teabag
+Seltenheit:
+  - unbekannt
 Kst.: 100 GM
 Gew.: n/v
 Status: WIP

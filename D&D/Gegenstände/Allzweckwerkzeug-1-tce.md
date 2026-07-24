@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Allzweckwerkzeug +1
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Kst.: n/v

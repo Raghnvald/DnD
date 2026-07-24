@@ -7,7 +7,6 @@ tags:
   - Rasse/human/zendikar
 aliases:
   - Human (Zendikar)
-  - Human (Zendikar)
 ---
 # Human (Zendikar)
 *Source: Plane Shift: Zendikar p. 9*  

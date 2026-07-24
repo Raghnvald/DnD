@@ -2,6 +2,8 @@
 Bezeichnung: "Crusader's Shortsword"
 Original: "Crusader's Shortsword"
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: "Crusader's Shortsword"
 tags:

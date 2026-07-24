@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Explosive Seed
+Original: Explosive Seed
+Seltenheit:
+  - keine
 Kst.: n/v
 Gew.: n/v
 Status: WIP

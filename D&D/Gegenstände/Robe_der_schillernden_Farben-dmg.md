@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Robe of Scintillating Colors
-Kategorie: Wundersamer Gegenstand 
+Original: Robe of Scintillating Colors
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Robe of Scintillating Colors
 tags:

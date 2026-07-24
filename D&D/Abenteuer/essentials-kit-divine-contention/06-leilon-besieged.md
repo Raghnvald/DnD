@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dc
 aliases:
   - Leilon Besieged
-  - Leilon Besieged
 ---
 # Leilon Besieged
 *Source: Essentials Kit: Divine Contention* 

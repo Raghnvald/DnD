@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tome of Understanding
-Kategorie: Wundersamer Gegenstand 
+Original: Tome of Understanding
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Tome of Understanding
 tags:

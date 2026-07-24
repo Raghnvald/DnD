@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Light Crossbow
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Light Crossbow
 tags:

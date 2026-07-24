@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Mizzium Armor
+Original: Mizzium Armor
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Mittel oder Schwer
 Eigenschaften:
   - n/v
+Einstimmung: n/v
 Kst.: n/v
 Gew.: /
 RK: /
@@ -28,7 +32,6 @@ aliases:
   - Mizzium Scale Mail
   - Mizzium Spiked Armor
   - Mizzium Splint Armor
-Original: Mizzium Armor
 ---
 # Mizzium Armor
 *Rare*  

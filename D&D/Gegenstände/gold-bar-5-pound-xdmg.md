@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold Bar (5-pound)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold Bar (5-pound)
 tags:

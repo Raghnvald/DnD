@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ceremonial electrum dagger with a black pearl in the pommel
+Original: Ceremonial electrum dagger with a black pearl in the pommel
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

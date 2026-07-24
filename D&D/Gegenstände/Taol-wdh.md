@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Taol
+Original: Taol
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

@@ -7,7 +7,6 @@ tags:
   - Rasse/goblin/dankwood
 aliases:
   - Goblin (Dankwood)
-  - Goblin (Dankwood)
 ---
 # Goblin (Dankwood)
 *Source: Adventure with Muk p. 35*  

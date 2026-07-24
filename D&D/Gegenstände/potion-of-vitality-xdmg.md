@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Vitality
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Potion of Vitality
 tags:

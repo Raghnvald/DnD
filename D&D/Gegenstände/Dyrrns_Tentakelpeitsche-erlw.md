@@ -2,6 +2,9 @@
 Bezeichnung: Dyrrns Tentakelpeitsche
 Original: "Dyrrn's Tentacle Whip"
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
+Kst.: 50.000 GM
 Status: WIP
 linter-yaml-title-alias: Dyrrns Tentakelpeitsche
 tags:

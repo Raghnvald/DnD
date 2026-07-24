@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Jeweled anklet
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Jeweled anklet
 tags:

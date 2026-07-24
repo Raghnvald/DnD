@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Spell Turning
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ring of Spell Turning
 tags:

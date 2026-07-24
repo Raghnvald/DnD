@@ -3,11 +3,10 @@ Bezeichnung: Damselfly Ship
 Status: WIP
 linter-yaml-title-alias: Damselfly Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Damselfly Ship
   - Damselfly Ship
 ---
 # Damselfly Ship

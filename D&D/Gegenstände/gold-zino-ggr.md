@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold Zino
+Original: Gold Zino
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mcv4ec
 aliases:
   - About Eldraine
-  - About Eldraine
 ---
 # About Eldraine
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures* 

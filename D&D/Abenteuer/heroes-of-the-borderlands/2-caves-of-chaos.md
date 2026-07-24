@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hotb
 aliases:
   - Caves of Chaos
-  - Caves of Chaos
 ---
 # Caves of Chaos
 *Source: Heroes of the Borderlands, p. 2* 

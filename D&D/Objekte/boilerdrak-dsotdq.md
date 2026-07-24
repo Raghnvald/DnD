@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Boilerdrak
-  - Boilerdrak
 ---
 # Boilerdrak
 *Source: Dragonlance: Shadow of the Dragon Queen p. 189*  

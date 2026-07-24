@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Moonstone
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Moonstone
 tags:

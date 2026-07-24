@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/psk
 aliases:
   - Servo Crafting
-  - Servo Crafting
 ---
 # Servo Crafting
 *Source: Plane Shift: Kaladesh p. 13*  

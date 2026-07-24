@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Mask
-  - Mask
   - The Lord of Shadows
   - The Master of All Thieves
 ---

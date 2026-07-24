@@ -2,6 +2,8 @@
 Bezeichnung: Annams Querbeil
 Original: Adze of Annam
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Schaden: 1d12 Hieb
 Eigenschaften:
   - Schwer

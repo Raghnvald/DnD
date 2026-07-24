@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sickle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sickle
 tags:

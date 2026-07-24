@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rowboat
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Rowboat
 tags:

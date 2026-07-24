@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flammenkugel
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
 Status: WIP
 linter-yaml-title-alias: Flammenkugel
 classes:
@@ -22,7 +23,6 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Flammenkugel
-Zeitaufwand: 1 Aktion
 ---
 # Flammenkugel
 *2nd-level, Conjuration*  

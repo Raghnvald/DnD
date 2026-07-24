@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Emerald Enclave Grove
-  - Emerald Enclave Grove
 ---
 # Emerald Enclave Grove
 *Level 9 Bastion facility*  

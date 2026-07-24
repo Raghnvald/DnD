@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Enemy Detection
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Enemy Detection
 tags:

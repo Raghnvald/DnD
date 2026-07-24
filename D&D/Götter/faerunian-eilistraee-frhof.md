@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Eilistraee
-  - Eilistraee
   - Lady of the Dance
   - Lady Silverhair
   - The Dark Maiden

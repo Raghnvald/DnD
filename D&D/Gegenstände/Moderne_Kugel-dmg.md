@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Moderne Kugel
+Original: Modern Bullet
 Kategorie: Munition
+Seltenheit:
+  - keine
 Eigenschaften:
   - Munition
 Kst.: n/v
@@ -14,7 +17,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Moderne Kugel
-status: WIP
 ---
 # Moderne Kugel
 *Ammunition (firearm)*  

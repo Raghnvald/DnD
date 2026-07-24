@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Brooch of Shielding
+Original: Brooch of Shielding
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Brooch of Shielding
 tags:

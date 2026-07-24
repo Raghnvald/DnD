@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Nether Scroll of Azumar
+Original: Nether Scroll of Azumar
 Kategorie: Schriftrolle
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Nether Scroll of Azumar
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gaming Set
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gaming Set
 tags:

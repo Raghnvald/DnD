@@ -2,6 +2,8 @@
 Bezeichnung: Gefütterte Rüstung
 Original: Padded Armor
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Eigenschaften:
   - n/v

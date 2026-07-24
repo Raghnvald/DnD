@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mirror
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Mirror
 tags:

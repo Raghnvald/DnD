@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Amethyst
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Plate of the Dawnmartyr (Exalted)
+Seltenheit:
+  - legendär
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Plate of the Dawnmartyr (Exalted)

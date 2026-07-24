@@ -2,8 +2,12 @@
 Bezeichnung: Geistwolke
 Zaubergrad: 3
 Zeitaufwand: 1 Bonusaktion
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Spirit Shroud
+linter-yaml-title-alias: Geistwolke
 classes:
   - Bard
   - Bard (College of Lore)
@@ -28,11 +32,7 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Nekromantie
 aliases:
-  - Spirit Shroud
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Schaden:
+  - Geistwolke
 ---
 # Geistwolke
 *3rd-level, Necromancy*  

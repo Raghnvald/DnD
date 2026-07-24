@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Star Sapphire
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Star Sapphire
 tags:

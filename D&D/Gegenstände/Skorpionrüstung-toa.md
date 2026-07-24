@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Skorpionrüstung
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Schwer
 Eigenschaften:
   - Verflucht

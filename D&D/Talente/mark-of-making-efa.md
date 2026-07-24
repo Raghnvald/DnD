@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Mark of Making
-  - Mark of Making
 ---
 # Mark of Making
 *Source: Eberron: Forge of the Artificer p. 40*  

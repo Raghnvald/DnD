@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold birdcage with electrum filigree
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold birdcage with electrum filigree
 tags:

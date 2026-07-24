@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Rod of the Pact Keeper
 Kategorie: Zepter
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Rod of the Pact Keeper
 tags:

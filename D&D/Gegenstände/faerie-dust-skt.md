@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Faerie Dust
+Original: Faerie Dust
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Faerie Dust
 tags:

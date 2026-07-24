@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hanfseil (15 Meter)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Hanfseil (15 Meter)
 tags:

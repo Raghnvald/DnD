@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Brass mug with jade inlay
+Original: Brass mug with jade inlay
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

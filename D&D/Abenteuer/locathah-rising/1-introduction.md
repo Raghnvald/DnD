@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lr
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: Locathah Rising, p. 2* 

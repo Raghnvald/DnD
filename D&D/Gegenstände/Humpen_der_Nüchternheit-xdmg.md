@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tankard of Sobriety
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Tankard of Sobriety
 tags:

@@ -7,7 +7,6 @@ tags:
   - Rasse/verdan
 aliases:
   - Verdan
-  - Verdan
 ---
 # Verdan
 *Source: Acquisitions Incorporated p. 72*  

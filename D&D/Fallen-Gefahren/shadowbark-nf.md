@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/nf
 aliases:
   - Shadowbark
-  - Shadowbark
 ---
 # Shadowbark
 *Generic Hazard*  

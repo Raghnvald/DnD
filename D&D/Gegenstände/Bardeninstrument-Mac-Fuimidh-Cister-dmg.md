@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Mac-Fuirmidh Cittern
+Original: Instrument of the Bards, Mac-Fuirmidh Cittern
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

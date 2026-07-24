@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Perfume
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Perfume
 tags:

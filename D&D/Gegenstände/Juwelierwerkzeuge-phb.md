@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Juwelierwerkzeuge
+Original: "Jeweler's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

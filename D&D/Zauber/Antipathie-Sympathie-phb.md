@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Antipathie/Sympathie
+Original: Antipathy/Sympathy
 Zaubergrad: 8
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
@@ -23,7 +24,6 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Antipathie/Sympathie
-Original: Antipathy/Sympathy
 ---
 # Antipathie/Sympathie
 *Verzauberung des 8. Grades*

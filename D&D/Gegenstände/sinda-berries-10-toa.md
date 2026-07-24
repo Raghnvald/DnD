@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sinda berries (10)
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Sinda berries (10)
 tags:

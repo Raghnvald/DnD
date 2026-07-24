@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/bam
 aliases:
   - Charm of Instant Tools
-  - Charm of Instant Tools
 ---
 # Charm of Instant Tools
 

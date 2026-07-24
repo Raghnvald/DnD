@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Satteltaschen
+Original: Saddlebags
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 4 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Satteltaschen
-status: completed
 ---
 # Satteltaschen
 *Zaumzeug und Harnisch*  

@@ -2,6 +2,8 @@
 Bezeichnung: Beschlagene Lederrüstung
 Original: Studded Leather Armor
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Eigenschaften:
   - n/v

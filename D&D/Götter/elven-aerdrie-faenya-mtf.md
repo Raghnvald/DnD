@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Aerdrie Faenya
 tags:
   - Kompendium/Götter/Domäne/Leben
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

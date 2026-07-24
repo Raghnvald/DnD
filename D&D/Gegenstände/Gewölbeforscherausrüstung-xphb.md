@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Dungeoneer's Pack"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Dungeoneer's Pack"
 tags:

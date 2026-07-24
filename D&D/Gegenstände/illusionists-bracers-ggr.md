@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Illusionist's Bracers"
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "Illusionist's Bracers"
 tags:

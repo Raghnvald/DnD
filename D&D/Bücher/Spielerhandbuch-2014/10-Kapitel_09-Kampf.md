@@ -1,11 +1,11 @@
 ---
-Bezeichnung: Combat
+Bezeichnung: Kampf
 Status: completed
-linter-yaml-title-alias: Combat
+linter-yaml-title-alias: Kampf
 tags:
   - Quelle/5e/phb
 aliases:
-  - Combat
+  - Kampf
 ---
 # Kampf
 *Quelle: Spielerhandbuch (2014), S. 189*

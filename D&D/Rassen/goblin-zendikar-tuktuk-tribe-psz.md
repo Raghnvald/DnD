@@ -7,7 +7,6 @@ tags:
   - Rasse/goblin/zendikar-tuktuk-tribe
 aliases:
   - Goblin (Zendikar; Tuktuk Tribe)
-  - Goblin (Zendikar; Tuktuk Tribe)
 ---
 # Goblin (Zendikar; Tuktuk Tribe)
 *Source: Plane Shift: Zendikar p. 17*  

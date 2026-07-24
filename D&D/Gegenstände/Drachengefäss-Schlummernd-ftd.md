@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Slumbering Dragon Vessel
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Slumbering Dragon Vessel
 tags:

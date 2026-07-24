@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silk
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silk
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Dust of Disappearance
-Kategorie: Wundersamer Gegenstand 
+Original: Dust of Disappearance
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Dust of Disappearance
 tags:

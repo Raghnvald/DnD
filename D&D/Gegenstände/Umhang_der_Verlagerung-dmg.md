@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cloak of Displacement
-Kategorie: Wundersamer Gegenstand 
+Original: Cloak of Displacement
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Cloak of Displacement
 tags:

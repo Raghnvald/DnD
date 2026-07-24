@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Circlet of Wisdom
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Circlet of Wisdom
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Amethyst
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Lantern of Revealing
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Lantern of Revealing
 tags:

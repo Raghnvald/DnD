@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Auril
-  - Auril
   - Icedawn
   - The Cold Crone
   - The Frostmaiden

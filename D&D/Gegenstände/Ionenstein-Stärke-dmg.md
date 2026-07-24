@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Strength
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Strength
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Strength
 tags:

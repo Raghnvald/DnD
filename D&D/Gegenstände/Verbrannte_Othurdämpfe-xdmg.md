@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Burnt Othur Fumes
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Burnt Othur Fumes
 tags:

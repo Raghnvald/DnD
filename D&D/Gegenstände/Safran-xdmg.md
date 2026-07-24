@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Saffron
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Saffron
 tags:

@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Wächterschild
 Kategorie: Rüstung
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Schild
 Eigenschaften:
   - n/v
+Einstimmung: n/v
 Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
@@ -18,7 +21,6 @@ tags:
 aliases:
   - Wächterschild
 status: completed
-Einstimmung: n/v
 ---
 # Wächterschild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), ungewöhnlich*  

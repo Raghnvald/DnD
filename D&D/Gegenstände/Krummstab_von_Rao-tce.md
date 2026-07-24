@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Crook of Rao
-Kategorie: Wundersamer Gegenstand 
+Original: Crook of Rao
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Crook of Rao
 tags:

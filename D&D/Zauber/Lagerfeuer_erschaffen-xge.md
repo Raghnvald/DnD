@@ -8,7 +8,7 @@ Wirkungsdauer: Konzentration, bis zu 1 Minute
 Angriff: GES
 Schaden: 1d8 Feuer
 Status: WIP
-linter-yaml-title-alias: Create Bonfire
+linter-yaml-title-alias: Lagerfeuer erschaffen
 classes:
   - Artificer
   - Bard (College of Lore)
@@ -40,7 +40,7 @@ tags:
   - Zauber/optfeature/pact-of-the-tome
   - Zauber/Schule/Beschwörung
 aliases:
-  - Create Bonfire
+  - Lagerfeuer erschaffen
 ---
 # Lagerfeuer erschaffen
 *cantrip, Conjuration*  

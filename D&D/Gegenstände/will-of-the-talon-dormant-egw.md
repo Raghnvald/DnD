@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Will of the Talon (Dormant)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Will of the Talon (Dormant)
 tags:

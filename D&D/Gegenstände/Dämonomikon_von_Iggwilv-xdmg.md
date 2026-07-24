@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Demonomicon of Iggwilv
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Demonomicon of Iggwilv
 tags:

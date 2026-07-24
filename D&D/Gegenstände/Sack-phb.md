@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sack
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM

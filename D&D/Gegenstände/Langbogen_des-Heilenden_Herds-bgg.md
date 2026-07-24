@@ -2,6 +2,8 @@
 Bezeichnung: Langbogen des Heilenden Herds
 Original: Longbow of the Healing Hearth
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Schaden: 1d8 Stich
 Eigenschaften:
   - Geschosse

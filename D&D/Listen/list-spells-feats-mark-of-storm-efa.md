@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/mark-of-storm
 aliases:
   - Spells for Mark of Storm
-  - Spells for Mark of Storm
 ---
 # Spells for Mark of Storm
 

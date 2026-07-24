@@ -2,9 +2,11 @@
 Bezeichnung: Himmelssegel
 Original: Skysail
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - selten
 Eigenschaften:
   - Vielseitig (1W8)
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Himmelssegel

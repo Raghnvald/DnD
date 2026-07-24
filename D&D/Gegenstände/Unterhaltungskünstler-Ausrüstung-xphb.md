@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Entertainer's Pack"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Entertainer's Pack"
 tags:

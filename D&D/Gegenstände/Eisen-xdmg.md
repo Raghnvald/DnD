@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Iron
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Iron
 tags:

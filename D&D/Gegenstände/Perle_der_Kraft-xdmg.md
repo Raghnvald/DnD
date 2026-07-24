@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bead of Force
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Bead of Force
 tags:

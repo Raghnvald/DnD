@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Emerald Enclave Caretaker
-  - Emerald Enclave Caretaker
 ---
 # Emerald Enclave Caretaker
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  

@@ -2,6 +2,9 @@
 Bezeichnung: Frost Fingers
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
+Reichweite: selbst (Kegel von 4,5m)
+Komponenten: V, G
+Wirkungsdauer: Unmittelbar
 Status: WIP
 linter-yaml-title-alias: Frost Fingers
 tags:
@@ -10,9 +13,6 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Frost Fingers
-Reichweite: selbst (Kegel von 4,5m)
-Komponenten: V, G
-Wirkungsdauer: Unmittelbar
 ---
 # Frost Fingers
 *1st-level, Evocation*  

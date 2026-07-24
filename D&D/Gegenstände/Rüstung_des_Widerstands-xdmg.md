@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Armor of Resistance
 tags:

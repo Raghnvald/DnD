@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Mythcarver (Exalted)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Mythcarver (Exalted)
 tags:

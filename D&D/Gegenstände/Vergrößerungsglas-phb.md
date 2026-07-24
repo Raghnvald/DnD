@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Vergrößerungsglas
+Original: Magnifying Glass
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Vergrößerungsglas
-status: WIP
 ---
 # Vergrößerungsglas
 *Adventuring gear*  

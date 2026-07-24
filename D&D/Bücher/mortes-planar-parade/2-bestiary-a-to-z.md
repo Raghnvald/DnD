@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mpp
 aliases:
   - Bestiary A to Z
-  - Bestiary A to Z
 ---
 # Bestiary A to Z
 *Source: Morte's Planar Parade, p. 16* 

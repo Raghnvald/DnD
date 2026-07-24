@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Energy Cell
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Energy Cell
 tags:

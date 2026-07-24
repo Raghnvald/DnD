@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/adept-of-the-white-robes
 aliases:
   - Spells for Adept of the White Robes
-  - Spells for Adept of the White Robes
 ---
 # Spells for Adept of the White Robes
 

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: The Bloody End (Exalted)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: The Bloody End (Exalted)
 tags:

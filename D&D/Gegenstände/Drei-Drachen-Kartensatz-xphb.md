@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Three-Dragon Ante Set
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Three-Dragon Ante Set
 tags:

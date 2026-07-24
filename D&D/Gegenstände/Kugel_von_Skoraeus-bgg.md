@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Skoraeus
-Kategorie: Wundersamer Gegenstand 
+Original: Orb of Skoraeus
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Orb of Skoraeus
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Animated Shield
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Animated Shield

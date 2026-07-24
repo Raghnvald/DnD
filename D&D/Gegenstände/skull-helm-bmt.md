@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Skull Helm
-Kategorie: Wundersamer Gegenstand 
+Original: Skull Helm
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Skull Helm
 tags:

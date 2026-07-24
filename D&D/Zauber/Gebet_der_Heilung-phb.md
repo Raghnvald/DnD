@@ -1,8 +1,9 @@
 ---
 Bezeichnung: Gebet der Heilung
 Zaubergrad: 2
+Zeitaufwand: 10 Minuten
 Status: WIP
-linter-yaml-title-alias: Prayer of Healing
+linter-yaml-title-alias: Gebet der Heilung
 classes:
   - Bard (Magical Secrets)
   - Cleric
@@ -13,8 +14,7 @@ tags:
   - Zauber/Grad/2
   - Zauber/Schule/Hervorrufung
 aliases:
-  - Prayer of Healing
-Zeitaufwand: 10 Minuten
+  - Gebet der Heilung
 ---
 # Gebet der Heilung
 *2nd-level, Evocation*  

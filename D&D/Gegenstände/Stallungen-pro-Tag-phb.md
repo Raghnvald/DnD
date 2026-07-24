@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Stallungen (pro Tag)
+Original: Stabling (per day)
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 SM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Stallungen (pro Tag)
-status: completed
 ---
 # Stallungen (pro Tag)
 *Zaumzeug und Harnisch*  

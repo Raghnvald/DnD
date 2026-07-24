@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Iron Flask
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Iron Flask
 tags:

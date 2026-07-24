@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Goggles of Object Reading
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Goggles of Object Reading
 tags:

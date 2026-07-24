@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wukka Nut
+Original: Wukka Nut
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Kst.: 1 GM

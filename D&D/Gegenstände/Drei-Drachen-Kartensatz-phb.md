@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Drei-Drachen-Kartensatz
+Original: Three-Dragon Ante Set
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

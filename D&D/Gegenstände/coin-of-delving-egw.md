@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Coin of Delving
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Coin of Delving
 tags:

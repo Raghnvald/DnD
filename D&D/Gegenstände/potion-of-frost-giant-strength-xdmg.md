@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Frost Giant Strength
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Frost Giant Strength
 tags:

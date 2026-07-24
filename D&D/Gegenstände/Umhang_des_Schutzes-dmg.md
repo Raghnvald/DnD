@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Umhang des Schutzes
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Umhang des Schutzes
 tags:

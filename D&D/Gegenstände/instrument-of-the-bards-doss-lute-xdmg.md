@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of the Bards, Doss Lute
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Doss Lute
 tags:

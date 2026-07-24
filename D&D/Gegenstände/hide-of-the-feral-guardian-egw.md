@@ -2,6 +2,8 @@
 Bezeichnung: Hide of the Feral Guardian
 Original: Hide of the Feral Guardian
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Leicht
 Eigenschaften:
   - n/v

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Everbright Lantern
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Everbright Lantern
 tags:

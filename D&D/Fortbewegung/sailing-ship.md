@@ -3,8 +3,8 @@ Bezeichnung: Sailing Ship
 Status: WIP
 linter-yaml-title-alias: Sailing Ship
 tags:
-  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Kategorie/Schiff
   - Quelle/5e/gos
 aliases:

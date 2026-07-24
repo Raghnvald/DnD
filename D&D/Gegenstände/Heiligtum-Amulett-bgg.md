@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sanctum Amulet
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Sanctum Amulet
 tags:

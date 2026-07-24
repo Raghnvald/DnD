@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Philter of Love
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Philter of Love
 tags:

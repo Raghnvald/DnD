@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Blasse Tinktur
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 250 GM

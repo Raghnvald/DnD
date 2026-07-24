@@ -1,19 +1,20 @@
 ---
 Bezeichnung: Silver Sword
+Original: Silver Sword
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Silver Sword
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/unbekannt/magic
-  - Gegenstand/tier/major
   - Gegenstand/Waffe/Kriegswaffe
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/mtf
 aliases:
   - Silver Sword
 status: WIP
-Original: Silver Sword
 ---
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  

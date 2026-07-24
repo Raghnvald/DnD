@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sdw
 aliases:
   - Bronze Shrine
-  - Bronze Shrine
 ---
 # Bronze Shrine
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

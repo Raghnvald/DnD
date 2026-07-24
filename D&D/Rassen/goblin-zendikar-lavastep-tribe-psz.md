@@ -7,7 +7,6 @@ tags:
   - Rasse/goblin/zendikar-lavastep-tribe
 aliases:
   - Goblin (Zendikar; Lavastep Tribe)
-  - Goblin (Zendikar; Lavastep Tribe)
 ---
 # Goblin (Zendikar; Lavastep Tribe)
 *Source: Plane Shift: Zendikar p. 17*  

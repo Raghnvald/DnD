@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Copper
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Copper
 tags:

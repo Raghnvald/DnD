@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Verkleidungsausrüstung
+Original: Disguise Kit
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

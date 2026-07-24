@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Zone
-  - Manifest Zone
 ---
 # Manifest Zone
 *Level 13 Bastion facility*  

@@ -2,6 +2,8 @@
 Bezeichnung: Sternenklinge
 Original: Star Razor
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Sternenklinge
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schriftrolle des Schutzes vor Feenwesen
 Kategorie: Schriftrolle
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Schriftrolle des Schutzes vor Feenwesen
 tags:

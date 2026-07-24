@@ -1,6 +1,9 @@
 ---
 Bezeichnung: The Incantations of Iriolarthas
+Original: The Incantations of Iriolarthas
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Kst.: n/v

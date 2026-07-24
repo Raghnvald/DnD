@@ -3,8 +3,8 @@ Bezeichnung: Waukeen
 Status: WIP
 linter-yaml-title-alias: Waukeen
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

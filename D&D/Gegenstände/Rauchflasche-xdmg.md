@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Eversmoking Bottle
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Eversmoking Bottle
 tags:

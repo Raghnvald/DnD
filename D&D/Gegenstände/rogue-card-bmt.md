@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rogue Card
-Kategorie: Wundersamer Gegenstand 
+Original: Rogue Card
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Rogue Card
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Adamantine Weapon
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Kst.: n/v

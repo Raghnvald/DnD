@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-cure-wounds
 aliases:
   - Spells for Charm of Cure Wounds
-  - Spells for Charm of Cure Wounds
 ---
 # Spells for Charm of Cure Wounds
 

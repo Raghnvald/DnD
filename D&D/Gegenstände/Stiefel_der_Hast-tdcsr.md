@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Boots of Haste
-Kategorie: Wundersamer Gegenstand 
+Original: Boots of Haste
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Boots of Haste
 tags:

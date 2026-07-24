@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "+1 Rhythm-Maker's Drum"
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "+1 Rhythm-Maker's Drum"
 tags:

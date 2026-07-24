@@ -2,6 +2,8 @@
 Bezeichnung: Zweihandknüppel
 Original: Greatclub
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1W8 Wucht
 Eigenschaften:
   - Zweihändig

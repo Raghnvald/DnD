@@ -3,6 +3,8 @@ Bezeichnung: "**Character Name**"
 Image:
 Status: WIP
 linter-yaml-title-alias: "**Character Name**"
+tags:
+  - action
 aliases:
   - "**Character Name**"
 ac: 15

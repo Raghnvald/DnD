@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Decanter of Endless Water
-Kategorie: Wundersamer Gegenstand 
+Original: Decanter of Endless Water
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Decanter of Endless Water
 tags:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/gos
 aliases:
   - Ocean Environs
-  - Ocean Environs
 ---
 # Ocean Environs
 *Source: Ghosts of Saltmarsh p. 202* 

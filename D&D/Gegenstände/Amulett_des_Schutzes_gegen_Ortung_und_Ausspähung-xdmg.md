@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Amulett des Schutzes gegen Ortung und Ausspähung
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
 tags:

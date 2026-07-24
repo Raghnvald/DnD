@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wave
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Wave
 tags:

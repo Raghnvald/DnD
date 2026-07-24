@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Duplicitous Manuscript
+Original: Duplicitous Manuscript
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Duplicitous Manuscript
 tags:

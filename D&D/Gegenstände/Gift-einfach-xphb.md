@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Basic Poison
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Basic Poison
 tags:

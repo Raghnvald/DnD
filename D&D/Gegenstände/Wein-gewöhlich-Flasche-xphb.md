@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Common Wine (bottle)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Common Wine (bottle)
 tags:

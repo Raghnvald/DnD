@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spell Scroll (Cantrip)
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Spell Scroll (Cantrip)
 tags:

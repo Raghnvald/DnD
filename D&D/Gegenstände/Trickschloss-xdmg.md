@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Lock of Trickery
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Lock of Trickery
 tags:

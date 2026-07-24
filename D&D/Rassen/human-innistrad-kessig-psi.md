@@ -7,7 +7,6 @@ tags:
   - Rasse/human/innistrad-kessig
 aliases:
   - Human (Innistrad; Kessig)
-  - Human (Innistrad; Kessig)
 ---
 # Human (Innistrad; Kessig)
 *Source: Plane Shift: Innistrad p. 8*  

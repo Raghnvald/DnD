@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Holy Symbol
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Holy Symbol
 tags:

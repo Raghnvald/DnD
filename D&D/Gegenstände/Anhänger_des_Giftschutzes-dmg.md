@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Anhänger des Giftschutzes
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Kst.: n/v

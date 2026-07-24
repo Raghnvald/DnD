@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aitfr-dn
 aliases:
   - Deepest Night
-  - Deepest Night
 ---
 # Deepest Night
 *Source: Adventures in the Forgotten Realms: Deepest Night, p. 2* 

@@ -2,9 +2,13 @@
 Bezeichnung: Dieb der neun Leben
 Original: Nine Life Stealer
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - sehr selten
 Eigenschaften:
-  - n/v
+  - variiert
 Einstimmung: erforderlich
+Kst.: 50.000 GM
+Gew.: variiert
 Status: WIP
 linter-yaml-title-alias: Dieb der neun Leben
 tags:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Lightning Strikes
-  - Lightning Strikes
 ---
 # Lightning Strikes
 *Generic Hazard*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Stirring Dragon's Wrath Weapon"
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Stirring Dragon's Wrath Weapon"
 tags:

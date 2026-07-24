@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chime of Opening
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Chime of Opening
 tags:

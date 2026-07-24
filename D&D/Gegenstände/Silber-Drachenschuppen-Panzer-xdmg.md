@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silver Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Silver Dragon Scale Mail

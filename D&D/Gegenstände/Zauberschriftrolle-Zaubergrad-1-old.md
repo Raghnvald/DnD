@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 1)
 Kategorie: Schriftrolle
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - /
 Kst.: 100 GM

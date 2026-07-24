@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Carpet of Flying, 5 ft. × 7 ft.
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Carpet of Flying, 5 ft. × 7 ft.
 tags:

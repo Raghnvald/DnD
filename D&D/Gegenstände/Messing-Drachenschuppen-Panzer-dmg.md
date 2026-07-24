@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Brass Dragon Scale Mail
 Original: Brass Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Brass Dragon Scale Mail

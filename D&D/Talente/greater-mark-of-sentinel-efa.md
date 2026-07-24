@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Greater Mark of Sentinel
-  - Greater Mark of Sentinel
 ---
 # Greater Mark of Sentinel
 *Source: Eberron: Forge of the Artificer p. 44*  

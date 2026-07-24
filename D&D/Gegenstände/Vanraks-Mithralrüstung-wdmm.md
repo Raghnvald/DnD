@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Vanrak's Mithral Shirt"
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: "Vanrak's Mithral Shirt"

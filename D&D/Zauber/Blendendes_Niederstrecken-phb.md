@@ -8,7 +8,7 @@ Wirkungsdauer:
 Angriff: 
 Schaden: 
 Status: WIP
-linter-yaml-title-alias: "Blendendes Niederstrecken "
+linter-yaml-title-alias: Blendendes Niederstrecken
 classes:
   - Bard (Magical Secrets)
   - Paladin

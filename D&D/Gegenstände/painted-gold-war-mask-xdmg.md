@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Painted gold war mask
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Painted gold war mask
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Philter of Love
+Original: Philter of Love
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Philter of Love
 tags:

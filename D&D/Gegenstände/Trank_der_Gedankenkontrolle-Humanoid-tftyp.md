@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Mind Control (humanoid)
+Original: Potion of Mind Control (humanoid)
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Mind Control (humanoid)
 tags:

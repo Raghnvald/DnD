@@ -7,7 +7,6 @@ tags:
   - Rasse/human/ixalan
 aliases:
   - Human (Ixalan)
-  - Human (Ixalan)
 ---
 # Human (Ixalan)
 *Source: Plane Shift: Ixalan p. 11*  

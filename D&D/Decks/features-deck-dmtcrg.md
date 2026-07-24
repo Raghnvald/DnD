@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dmtcrg
 aliases:
   - Features Deck
-  - Features Deck
 ---
 # Features Deck
 *Source: The Deck of Many Things: Card Reference Guide p. 11*  

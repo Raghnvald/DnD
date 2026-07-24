@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Lapis Lazuli
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Lapis Lazuli
 tags:

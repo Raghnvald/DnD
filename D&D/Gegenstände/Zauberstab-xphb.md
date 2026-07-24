@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Wand
 tags:

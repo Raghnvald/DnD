@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Trank der Riesenstärke
 Kategorie: Trank
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Trank der Riesenstärke
 tags:

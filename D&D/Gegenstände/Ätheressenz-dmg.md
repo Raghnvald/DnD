@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ätheressenz
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 300 GM

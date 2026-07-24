@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Morningstar
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Morningstar
 tags:

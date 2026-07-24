@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Delicious Pain
-  - Delicious Pain
 ---
 # Delicious Pain
 *Source: Astarion's Book of Hungers p. 9*  

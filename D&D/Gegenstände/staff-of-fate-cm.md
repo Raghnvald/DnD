@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of Fate
+Original: Staff of Fate
 Kategorie: Zauberstecken
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
@@ -17,7 +20,6 @@ tags:
 aliases:
   - Staff of Fate
 status: WIP
-Original: Staff of Fate
 ---
 # Staff of Fate
 *Staff, weapon (quarterstaff), very rare (requires attunement)*  

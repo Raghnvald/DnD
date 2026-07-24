@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Scherbe
+Original: Shard
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM

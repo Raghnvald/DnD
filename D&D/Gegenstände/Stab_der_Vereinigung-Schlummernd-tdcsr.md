@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spire of Conflux (Dormant)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Spire of Conflux (Dormant)
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Trinket
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Trinket
 tags:

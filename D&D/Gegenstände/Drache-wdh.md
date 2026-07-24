@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Drache
+Original: Dragon
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

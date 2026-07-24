@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Energiewiderstands
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring des Energiewiderstands
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Radiant Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Radiant Resistance
 tags:

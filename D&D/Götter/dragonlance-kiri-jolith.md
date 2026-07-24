@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Kiri-Jolith
-  - Kiri-Jolith
 ---
 # Kiri-Jolith
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

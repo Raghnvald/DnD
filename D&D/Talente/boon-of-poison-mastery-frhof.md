@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of Poison Mastery
-  - Boon of Poison Mastery
 ---
 # Boon of Poison Mastery
 *Source: Forgotten Realms: Heroes of Faerûn p. 43*  

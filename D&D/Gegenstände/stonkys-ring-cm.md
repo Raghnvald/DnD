@@ -1,11 +1,14 @@
 ---
 Bezeichnung: "Stonky's ring"
+Original: "Stonky's ring"
 Kategorie: Ring
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
-Gew.: /
+Kst.: n/v
+Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: "Stonky's ring"
 tags:

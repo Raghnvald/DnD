@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/ttp
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: The Tortle Package, p. 2* 

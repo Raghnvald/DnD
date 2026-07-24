@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Vicious Weapon
+Seltenheit:
+  - selten
 Kst.: /
 Gew.: /
 Status: WIP

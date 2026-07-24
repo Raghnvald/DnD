@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gespensterlaterne
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Gespensterlaterne
 tags:

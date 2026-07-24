@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Crystal Ball
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Crystal Ball
 tags:

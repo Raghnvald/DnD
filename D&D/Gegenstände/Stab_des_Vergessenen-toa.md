@@ -2,6 +2,8 @@
 Bezeichnung: Stab des Vergessenen
 Original: Staff of the Forgotten One
 Kategorie: Zauberstecken
+Seltenheit:
+  - Artefakt
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: durch einen Hexenmeister, Magier oder Zauberer

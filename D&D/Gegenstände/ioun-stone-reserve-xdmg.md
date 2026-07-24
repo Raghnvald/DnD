@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Reserve
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Reserve
 tags:

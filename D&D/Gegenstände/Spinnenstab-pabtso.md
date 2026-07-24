@@ -2,6 +2,8 @@
 Bezeichnung: Spinnenstab
 Original: Spider Staff
 Kategorie: Zauberstecken
+Seltenheit:
+  - selten
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: durch einen Barden, Hexenmeister, Magier oder Zauberer

@@ -9,7 +9,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Sheela Peryroyl
-  - Sheela Peryroyl
 ---
 # Sheela Peryroyl
 *Source: Sword Coast Adventurer's Guide p. 23* 

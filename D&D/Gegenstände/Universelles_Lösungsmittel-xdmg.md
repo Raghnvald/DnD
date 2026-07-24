@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Universal Solvent
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Universal Solvent
 tags:

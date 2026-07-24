@@ -8,7 +8,6 @@ tags:
 aliases:
   - He of the Unsleeping Eyes
   - Helm
-  - Helm
   - The Vigilant
   - The Watcher
 ---

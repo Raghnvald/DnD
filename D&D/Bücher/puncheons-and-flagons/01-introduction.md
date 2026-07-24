@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: Puncheons and Flagons, p. 7* 

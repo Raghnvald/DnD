@@ -1,11 +1,11 @@
 ---
-Bezeichnung: Secondary Tables; Supernatural Events
+Bezeichnung: Weiterführende Tabellen; Übernatürliche Ereignisse
 Status: WIP
-linter-yaml-title-alias: Secondary Tables; Supernatural Events
+linter-yaml-title-alias: Weiterführende Tabellen; Übernatürliche Ereignisse
 tags:
   - Quelle/5e/xge
 aliases:
-  - Secondary Tables; Supernatural Events
+  - Weiterführende Tabellen; Übernatürliche Ereignisse
 ---
 # Weiterführende Tabellen; Übernatürliche Ereignisse
 *Source: Xanathar's Guide to Everything p. 70* 

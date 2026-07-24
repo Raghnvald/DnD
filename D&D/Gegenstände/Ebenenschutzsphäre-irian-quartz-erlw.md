@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Irian Quartz)
+Original: Orb of Shielding (Irian Quartz)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Mabar, the Endless Night
-  - Manifest Charm of Mabar, the Endless Night
 ---
 # Manifest Charm of Mabar, the Endless Night
 *Charm*  

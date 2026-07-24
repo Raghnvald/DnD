@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wraps of Dyamak (Exalted)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Wraps of Dyamak (Exalted)
 tags:

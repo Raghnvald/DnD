@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Belt of Dwarvenkind
-Kategorie: Wundersamer Gegenstand 
+Original: Belt of Dwarvenkind
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Belt of Dwarvenkind
 tags:

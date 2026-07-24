@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Gavel of the Venn Rune
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Gavel of the Venn Rune
 tags:

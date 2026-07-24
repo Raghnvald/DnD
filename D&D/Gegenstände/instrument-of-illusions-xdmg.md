@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of Illusions
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Instrument of Illusions
 tags:

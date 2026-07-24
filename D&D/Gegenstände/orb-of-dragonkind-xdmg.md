@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Orb of Dragonkind
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Orb of Dragonkind
 tags:

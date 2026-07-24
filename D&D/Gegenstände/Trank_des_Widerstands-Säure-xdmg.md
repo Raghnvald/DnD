@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Acid Resistance
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Acid Resistance
 tags:

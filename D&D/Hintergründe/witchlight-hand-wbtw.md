@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Witchlight Hand
-  - Witchlight Hand
 ---
 # Witchlight Hand
 *Source: The Wild Beyond the Witchlight p. 11*  

@@ -2,12 +2,14 @@
 Bezeichnung: Elven Thrower
 Original: Elven Thrower
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Vielseitig (1W8)
   - Wurfwaffe
-Kst.: n/v
-Gew.: 1,5 kg
 Einstimmung: durch einen Elfen
+Kst.: 50.000 GM
+Gew.: 1,5 kg
 Status: WIP
 linter-yaml-title-alias: Elven Thrower
 tags:

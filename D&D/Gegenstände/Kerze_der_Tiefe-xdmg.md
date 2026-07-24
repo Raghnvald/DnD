@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Candle of the Deep
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Candle of the Deep
 tags:

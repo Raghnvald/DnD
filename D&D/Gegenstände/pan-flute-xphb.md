@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pan Flute
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pan Flute
 tags:

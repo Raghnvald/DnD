@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Riding Saddle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Riding Saddle
 tags:

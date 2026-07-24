@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Guild Signet
+Original: Guild Signet
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
-Gew.: /
+Kst.: n/v
+Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Guild Signet
 tags:
@@ -15,7 +18,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Guild Signet
-status: WIP
 ---
 # Guild Signet
 *Ring, uncommon (requires attunement)*  

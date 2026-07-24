@@ -3,12 +3,11 @@ Bezeichnung: Star Moth
 Status: WIP
 linter-yaml-title-alias: Star Moth
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Star Moth
   - Star Moth
 ---
 # Star Moth

@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Blade of Avernus
+Original: Blade of Avernus
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: Blade of Avernus
 tags:
@@ -12,7 +16,6 @@ tags:
 aliases:
   - Blade of Avernus
 status: WIP
-Original: Blade of Avernus
 ---
 # Blade of Avernus
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement)*  

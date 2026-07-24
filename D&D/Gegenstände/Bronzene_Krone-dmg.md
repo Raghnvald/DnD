@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Bronze crown
+Original: Bronze crown
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

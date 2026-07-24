@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 9)
 Kategorie: Schriftrolle
+Seltenheit:
+  - legendär
 Eigenschaften:
   - /
 Kst.: unbezahlbar

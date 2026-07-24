@@ -1,7 +1,7 @@
 ---
-Bezeichnung: Aktionen
+Bezeichnung: Aktionen (Spielerhandbuch)
 Status: WIP
-linter-yaml-title-alias: Aktionen
+linter-yaml-title-alias: Aktionen (Spielerhandbuch)
 tags:
   - Quelle/5e/dmg
   - Quelle/5e/phb
@@ -10,7 +10,7 @@ tags:
   - Quelle/5e/xphb
 aliases:
   - Actions
-  - Aktionen
+  - Aktionen (Spielerhandbuch)
 ---
 # Aktionen (Spielerhandbuch)
 

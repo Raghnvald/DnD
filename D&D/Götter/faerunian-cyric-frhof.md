@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Cyric
-  - Cyric
   - The Dark Sun
   - The Prince of Lies
 ---

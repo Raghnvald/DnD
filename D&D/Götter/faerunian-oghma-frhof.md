@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Oghma
-  - Oghma
   - The Binder of What Is Known
   - The Lord of Knowledge
 ---

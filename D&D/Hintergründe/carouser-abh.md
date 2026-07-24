@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Carouser
-  - Carouser
 ---
 # Carouser
 *Source: Astarion's Book of Hungers p. 6*  

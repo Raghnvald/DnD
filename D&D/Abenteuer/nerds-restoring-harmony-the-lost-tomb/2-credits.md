@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/nrh-tlt
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: NERDS Restoring Harmony: The Lost Tomb* 

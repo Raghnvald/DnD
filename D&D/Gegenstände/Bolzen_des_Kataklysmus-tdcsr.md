@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Bolzen des Kataklysmus
+Original: Cataclysm Bolt
 Kategorie: Munition
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Munition
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: 0,0375 kg
 Status: WIP
 linter-yaml-title-alias: Bolzen des Kataklysmus

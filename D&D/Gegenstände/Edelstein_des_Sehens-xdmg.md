@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gem of Seeing
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Gem of Seeing
 tags:

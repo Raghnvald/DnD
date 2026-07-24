@@ -8,7 +8,6 @@ tags:
 aliases:
   - Our Lady of Loss
   - Shar
-  - Shar
   - The Dark Lady
   - The Mistress of the Night
 ---

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Vox Seeker
-Kategorie: Wundersamer Gegenstand 
+Original: Vox Seeker
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Vox Seeker
 tags:

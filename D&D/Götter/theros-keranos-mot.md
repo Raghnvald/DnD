@@ -3,12 +3,11 @@ Bezeichnung: Keranos
 Status: WIP
 linter-yaml-title-alias: Keranos
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Sturm
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - Keranos
   - Keranos
 ---
 # Keranos

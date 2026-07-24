@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Menga leaves (1 ounce)
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Menga leaves (1 ounce)
 tags:

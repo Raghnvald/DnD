@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Shield Guardian Amulet
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Shield Guardian Amulet
 tags:

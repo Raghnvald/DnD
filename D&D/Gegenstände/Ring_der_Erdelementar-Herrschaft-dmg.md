@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring der Erdelementar-Herrschaft
 Kategorie: Ring
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

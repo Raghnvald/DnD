@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Leira
-  - Leira
   - Mistshadow
   - The Lady of Deception
   - The Lady of the Mists

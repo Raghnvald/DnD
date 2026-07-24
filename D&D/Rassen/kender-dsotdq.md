@@ -7,7 +7,6 @@ tags:
   - Rasse/kender
 aliases:
   - Kender
-  - Kender
 ---
 # Kender
 *Source: Dragonlance: Shadow of the Dragon Queen p. 27*  

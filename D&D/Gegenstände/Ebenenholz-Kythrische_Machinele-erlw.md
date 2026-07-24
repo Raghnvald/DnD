@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Kythrian Manchineel)
 Original: Imbued Wood (Kythrian Manchineel)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

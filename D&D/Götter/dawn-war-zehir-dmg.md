@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Zehir
 tags:
   - Kompendium/Götter/dawn-war
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Tod
   - Quelle/5e/dmg
 aliases:
   - Zehir

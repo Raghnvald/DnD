@@ -1,10 +1,13 @@
 ---
 Bezeichnung: Sanduhr
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: 0,5 kg
+Status: completed
 linter-yaml-title-alias: Sanduhr
 tags:
   - Gegenstand/Ausrüstung/
@@ -12,7 +15,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Sanduhr
-Status: completed
 ---
 # Sanduhr
 *Abenteuerausrüstung*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dulcimer
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dulcimer
 tags:

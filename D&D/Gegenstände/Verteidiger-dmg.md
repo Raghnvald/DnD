@@ -2,6 +2,8 @@
 Bezeichnung: Verteidiger
 Original: Defender
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - legendär
 Schaden: variiert
 Eigenschaften:
   - variiert

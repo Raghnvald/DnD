@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Efreeti Bottle
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Efreeti Bottle
 tags:

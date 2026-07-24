@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Atlas of Faerûn
-  - Atlas of Faerûn
 ---
 # Atlas of Faerûn
 *Source: Forgotten Realms: Adventures in Faerûn* 

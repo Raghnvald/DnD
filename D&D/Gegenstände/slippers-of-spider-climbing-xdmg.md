@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Slippers of Spider Climbing
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Slippers of Spider Climbing
 tags:

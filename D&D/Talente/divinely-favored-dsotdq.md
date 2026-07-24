@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Divinely Favored
-  - Divinely Favored
 ---
 # Divinely Favored
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

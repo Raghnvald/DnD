@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Arrows (20)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Arrows (20)
 tags:

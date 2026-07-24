@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Handschellen
+Original: Manacles
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

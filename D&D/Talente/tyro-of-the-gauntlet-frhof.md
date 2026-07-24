@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Tyro of the Gauntlet
-  - Tyro of the Gauntlet
 ---
 # Tyro of the Gauntlet
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

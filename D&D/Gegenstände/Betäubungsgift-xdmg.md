@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Torpor
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 600 GM

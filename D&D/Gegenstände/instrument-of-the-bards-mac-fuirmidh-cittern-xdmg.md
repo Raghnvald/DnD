@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of the Bards, Mac-Fuirmidh Cittern
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Mac-Fuirmidh Cittern
 tags:

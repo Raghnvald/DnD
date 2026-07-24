@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tagesration
+Original: Ration (1 Day)
 Kategorie: Essen und Trinken
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 SM

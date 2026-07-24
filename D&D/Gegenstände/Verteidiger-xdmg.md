@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Defender
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Defender
 tags:

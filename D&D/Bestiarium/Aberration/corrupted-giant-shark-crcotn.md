@@ -8,10 +8,10 @@ HG: 9
 Status: WIP
 linter-yaml-title-alias: Corrupted Giant Shark
 tags:
-  - Quelle/5e/crcotn
-  - Monster/HG/9
   - Monster/Größe/Riesig
+  - Monster/HG/9
   - Monster/Typ/Aberration
+  - Quelle/5e/crcotn
 aliases:
   - Corrupted Giant Shark
 status: WIP

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silk Rope (50 feet)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silk Rope (50 feet)
 tags:

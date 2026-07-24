@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of the Bards, Ollamh Harp
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Ollamh Harp
 tags:

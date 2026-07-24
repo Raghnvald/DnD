@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Scroll of Protection (Humanoids)
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Scroll of Protection (Humanoids)
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Brooch of Shielding
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Brooch of Shielding
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sphere of Annihilation
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Sphere of Annihilation
 tags:

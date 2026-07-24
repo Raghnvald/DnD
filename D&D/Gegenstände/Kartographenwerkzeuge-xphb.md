@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Cartographer's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Cartographer's Tools"
 tags:

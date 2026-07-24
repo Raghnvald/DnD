@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of Storms
-  - Champion of Storms
 ---
 # Champion of Storms
 *Piety Trait*  

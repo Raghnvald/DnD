@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Animal Friendship
+Original: Potion of Animal Friendship
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Animal Friendship
 tags:

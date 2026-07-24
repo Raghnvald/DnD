@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Laute
+Original: Lute
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 35 GM

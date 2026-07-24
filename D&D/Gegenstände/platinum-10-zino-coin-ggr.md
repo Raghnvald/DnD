@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Platinum 10-Zino Coin
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Platinum 10-Zino Coin
 tags:

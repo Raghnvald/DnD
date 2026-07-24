@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Zauber wirken
 Status: completed
-linter-yaml-title-alias: Spellcasting
+linter-yaml-title-alias: Zauber wirken
 tags:
   - Quelle/5e/phb
 aliases:
-  - Spellcasting
+  - Zauber wirken
 ---
 # Zauber wirken
 *Quelle: Spielerhandbuch (2014), S. 201* 

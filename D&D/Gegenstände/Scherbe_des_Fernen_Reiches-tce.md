@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Far Realm Shard
-Kategorie: Wundersamer Gegenstand 
+Original: Far Realm Shard
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Far Realm Shard
 tags:

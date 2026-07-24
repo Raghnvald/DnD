@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Harper Hideout
-  - Harper Hideout
 ---
 # Harper Hideout
 *Level 5 Bastion facility*  

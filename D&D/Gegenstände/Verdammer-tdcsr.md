@@ -1,7 +1,9 @@
 ---
-Bezeichnung: Verdammer
+Bezeichnung: Condemner
 Original: Condemner
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Condemner
 tags:

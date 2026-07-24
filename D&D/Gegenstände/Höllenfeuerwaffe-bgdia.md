@@ -2,6 +2,8 @@
 Bezeichnung: Höllenfeuerwaffe
 Original: Hellfire Weapon
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - ungewöhnlich
 Schaden: variiert
 Eigenschaften:
   - n/v

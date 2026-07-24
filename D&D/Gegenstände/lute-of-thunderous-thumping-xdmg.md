@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Lute of Thunderous Thumping
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Lute of Thunderous Thumping
 tags:

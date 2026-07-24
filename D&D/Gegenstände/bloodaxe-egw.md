@@ -2,6 +2,9 @@
 Bezeichnung: Bloodaxe
 Original: Bloodaxe
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
+Kst.: 50.000 GM
 Status: WIP
 linter-yaml-title-alias: Bloodaxe
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of the Stein Rune
-Kategorie: Wundersamer Gegenstand 
+Original: Orb of the Stein Rune
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Orb of the Stein Rune
 tags:

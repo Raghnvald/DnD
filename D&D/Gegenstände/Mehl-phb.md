@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mehl
+Original: Flour
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 KM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Mehl
-Original: Flour
 ---
 # Mehl
 *Handelsgut*  

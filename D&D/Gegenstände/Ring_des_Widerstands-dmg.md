@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Widerstands
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

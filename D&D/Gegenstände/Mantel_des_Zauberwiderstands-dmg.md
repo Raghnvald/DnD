@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mantle of Spell Resistance
-Kategorie: Wundersamer Gegenstand 
+Original: Mantle of Spell Resistance
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mantle of Spell Resistance
 tags:

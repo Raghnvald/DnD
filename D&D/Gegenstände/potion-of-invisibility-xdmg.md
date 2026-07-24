@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Invisibility
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Invisibility
 tags:

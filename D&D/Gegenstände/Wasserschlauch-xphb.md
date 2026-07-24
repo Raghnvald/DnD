@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Waterskin
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Waterskin
 tags:

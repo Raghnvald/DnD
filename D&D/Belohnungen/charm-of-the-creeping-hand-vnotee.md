@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/vnotee
 aliases:
   - Charm of the Creeping Hand
-  - Charm of the Creeping Hand
 ---
 # Charm of the Creeping Hand
 

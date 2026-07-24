@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Isis
 tags:
   - Kompendium/Götter/Domäne/Arkan
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/egyptian
   - Quelle/5e/phb
 aliases:

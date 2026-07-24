@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Amulett der Gesundheit
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

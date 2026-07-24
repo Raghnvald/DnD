@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silver necklace with a gemstone pendant
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silver necklace with a gemstone pendant
 tags:

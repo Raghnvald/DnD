@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Intellect
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Intellect
 tags:

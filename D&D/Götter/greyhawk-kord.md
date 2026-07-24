@@ -3,8 +3,8 @@ Bezeichnung: Kord
 Status: WIP
 linter-yaml-title-alias: Kord
 tags:
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:

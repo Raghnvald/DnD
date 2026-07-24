@@ -7,7 +7,6 @@ tags:
   - Rasse/autognome
 aliases:
   - Autognome
-  - Autognome
 ---
 # Autognome
 *Source: Astral Adventurer's Guide p. 11*  

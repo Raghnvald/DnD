@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/rtg
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Return to the Glory* 

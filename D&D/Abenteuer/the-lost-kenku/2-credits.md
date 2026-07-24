@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tlk
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: The Lost Kenku* 

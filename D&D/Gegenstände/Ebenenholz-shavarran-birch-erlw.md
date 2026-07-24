@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Shavarran Birch)
 Original: Imbued Wood (Shavarran Birch)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

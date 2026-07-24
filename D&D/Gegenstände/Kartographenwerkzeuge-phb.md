@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Kartographenwerkzeuge
+Original: "Cartographer's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 15 GM
 Gew.: 3,0 kg
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Kartographenwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug

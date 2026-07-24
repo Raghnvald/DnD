@@ -2,6 +2,9 @@
 Bezeichnung: Sankt Markovias Oberschenkelknochen
 Original: Saint Markovias Thighbone
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - selten
+Kst.: 5.000 GM
 Status: WIP
 linter-yaml-title-alias: Sankt Markovias Oberschenkelknochen
 tags:

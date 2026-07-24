@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring der Gedankenabschirmung
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

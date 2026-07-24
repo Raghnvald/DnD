@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/race/yuan-ti-pureblood
 aliases:
   - Spells for Yuan-ti Pureblood
-  - Spells for Yuan-ti Pureblood
 ---
 # Spells for Yuan-ti Pureblood
 

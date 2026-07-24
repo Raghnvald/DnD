@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Staff
 tags:

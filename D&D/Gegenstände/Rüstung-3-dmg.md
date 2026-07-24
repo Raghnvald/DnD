@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +3 Armor
+Seltenheit:
+  - legendär
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: +3 Armor

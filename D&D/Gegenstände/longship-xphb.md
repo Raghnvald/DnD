@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Longship
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Longship
 tags:

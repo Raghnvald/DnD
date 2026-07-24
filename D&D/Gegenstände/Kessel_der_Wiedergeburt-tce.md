@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cauldron of Rebirth
-Kategorie: Wundersamer Gegenstand 
+Original: Cauldron of Rebirth
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Cauldron of Rebirth
 tags:

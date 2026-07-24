@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Staff (Level 3)
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Enspelled Staff (Level 3)
 tags:

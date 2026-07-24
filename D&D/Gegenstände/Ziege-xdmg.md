@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Goat
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Goat
 tags:

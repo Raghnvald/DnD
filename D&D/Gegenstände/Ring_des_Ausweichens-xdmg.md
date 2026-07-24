@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Evasion
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Evasion
 tags:

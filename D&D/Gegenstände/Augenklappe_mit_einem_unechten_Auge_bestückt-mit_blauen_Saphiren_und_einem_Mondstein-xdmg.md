@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Eye patch decorated with tiny blue sapphires and moonstones
+Seltenheit:
+  - keine
 Kst.: 2.500 GM
 Gew.: /
 Status: WIP

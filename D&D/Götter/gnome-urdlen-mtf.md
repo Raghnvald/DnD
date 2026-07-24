@@ -3,8 +3,8 @@ Bezeichnung: Urdlen
 Status: WIP
 linter-yaml-title-alias: Urdlen
 tags:
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

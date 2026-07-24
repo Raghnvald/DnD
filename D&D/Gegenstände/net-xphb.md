@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Net
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Net
 tags:

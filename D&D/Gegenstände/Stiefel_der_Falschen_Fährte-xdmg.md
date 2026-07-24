@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Boots of False Tracks
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Boots of False Tracks
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Shavarran Chert)
+Original: Orb of Shielding (Shavarran Chert)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

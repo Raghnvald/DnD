@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mabjov
 aliases:
   - Group Patrons
-  - Group Patrons
 ---
 # Group Patrons
 *Source: Minsc and Boo's Journal of Villainy, p. 28* 

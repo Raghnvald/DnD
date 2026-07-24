@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Lantern of Revealing
-Kategorie: Wundersamer Gegenstand 
+Original: Lantern of Revealing
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Lantern of Revealing
 tags:

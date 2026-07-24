@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Strixhaven Mascot
-  - Strixhaven Mascot
 ---
 # Strixhaven Mascot
 *Source: Strixhaven: A Curriculum of Chaos p. 37*  

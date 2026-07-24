@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of Thunder and Lightning
+Original: Staff of Thunder and Lightning
 Kategorie: Zauberstecken
+Seltenheit:
+  - sehr selten
 Schaden: 1W6 Hieb
 Eigenschaften:
   - Vielseitig (1W8)
@@ -17,7 +20,6 @@ tags:
 aliases:
   - Staff of Thunder and Lightning
 status: Typ
-Original: Staff of Thunder and Lightning
 ---
 # Staff of Thunder and Lightning
 *Staff, weapon, major, very rare (requires attunement)*  

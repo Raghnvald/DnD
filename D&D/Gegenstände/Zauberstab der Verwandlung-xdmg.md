@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Polymorph
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Wand of Polymorph
 tags:

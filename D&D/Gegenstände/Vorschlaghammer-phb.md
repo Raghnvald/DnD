@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Vorschlaghammer
+Original: Sledgehammer
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

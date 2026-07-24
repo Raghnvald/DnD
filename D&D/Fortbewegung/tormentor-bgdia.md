@@ -3,8 +3,8 @@ Bezeichnung: Tormentor
 Status: WIP
 linter-yaml-title-alias: Tormentor
 tags:
-  - Gegenstand/Fortbewegung/Größe/Riesig
   - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Größe/Riesig
   - Gegenstand/Fortbewegung/Kategorie/Höllische-Kriegsmaschine
   - Quelle/5e/bgdia
 aliases:

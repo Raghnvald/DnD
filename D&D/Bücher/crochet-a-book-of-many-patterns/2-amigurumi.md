@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/cabomp
 aliases:
   - Amigurumi
-  - Amigurumi
 ---
 # Amigurumi
 *Source: Crochet: A Book of Many Patterns, p. 11* 

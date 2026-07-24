@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gloves of Soul Catching
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Gloves of Soul Catching
 tags:

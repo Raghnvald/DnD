@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mantle of Spell Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mantle of Spell Resistance
 tags:

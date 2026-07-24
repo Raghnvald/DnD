@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hat of Vermin
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Hat of Vermin
 tags:

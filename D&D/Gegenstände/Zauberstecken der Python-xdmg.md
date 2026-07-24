@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of the Python
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Staff of the Python
 tags:

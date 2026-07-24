@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Schild
 Eigenschaften:
   - n/v

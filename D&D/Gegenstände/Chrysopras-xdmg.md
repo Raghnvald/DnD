@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chrysoprase
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Chrysoprase
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Mondstein
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Mondstein
-status: WIP
 ---
 # Mondstein
 *Schatz (Edelstein)*  

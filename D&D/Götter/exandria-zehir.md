@@ -3,8 +3,8 @@ Bezeichnung: Zehir
 Status: WIP
 linter-yaml-title-alias: Zehir
 tags:
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

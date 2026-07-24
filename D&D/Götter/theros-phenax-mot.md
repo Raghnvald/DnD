@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Phenax
-  - Phenax
 ---
 # Phenax
 *Source: Mythic Odysseys of Theros p. 73* 

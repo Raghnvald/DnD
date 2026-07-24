@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Exalted)"
 Original: "Deathwalker's Ward (Exalted)"
+Seltenheit:
+  - legendär
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: "Deathwalker's Ward (Exalted)"

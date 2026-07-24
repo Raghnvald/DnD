@@ -2,6 +2,8 @@
 Bezeichnung: Topaz Annihilator
 Original: Toaster Annihilator
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Topaz Annihilator
 tags:

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Soothsalts
+Original: Soothsalts
+Seltenheit:
+  - keine
 Kst.: 150 GM
 Gew.: n/v
 Status: WIP

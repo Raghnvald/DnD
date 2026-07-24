@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Arvoreen
-  - Arvoreen
 ---
 # Arvoreen
 *Source: Sword Coast Adventurer's Guide p. 23* 

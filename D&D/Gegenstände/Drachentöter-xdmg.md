@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dragon Slayer
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Dragon Slayer
 tags:

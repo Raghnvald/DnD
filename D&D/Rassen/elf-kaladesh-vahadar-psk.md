@@ -7,7 +7,6 @@ tags:
   - Rasse/elf/kaladesh-vahadar
 aliases:
   - Elf (Kaladesh; Vahadar)
-  - Elf (Kaladesh; Vahadar)
 ---
 # Elf (Kaladesh; Vahadar)
 *Source: Plane Shift: Kaladesh p. 21*  

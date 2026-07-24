@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Fälschungsausrüstung
+Original: Forgery Kit
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 15 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hide of the Feral Guardian (Awakened)
+Seltenheit:
+  - legendär
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: Hide of the Feral Guardian (Awakened)

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Hammer of Thunderbolts
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Hammer of Thunderbolts
 tags:

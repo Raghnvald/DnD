@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Elemental Gem, Yellow Diamond
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Elemental Gem, Yellow Diamond
 tags:

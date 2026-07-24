@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Vulnerability (Slashing)
+Seltenheit:
+  - selten
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Vulnerability (Slashing)

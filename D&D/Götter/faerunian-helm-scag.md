@@ -3,9 +3,9 @@ Bezeichnung: Helm
 Status: WIP
 linter-yaml-title-alias: Helm
 tags:
+  - Kompendium/Götter/Domäne/Dämmerung
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
-  - Kompendium/Götter/Domäne/Dämmerung
   - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:

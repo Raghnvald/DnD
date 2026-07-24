@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Potion of Fire Resistance
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Fire Resistance
 tags:

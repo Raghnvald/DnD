@@ -1,6 +1,10 @@
 ---
 Bezeichnung: Duskcrusher
+Original: Duskcrusher
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
+Kst.: 5.000 GM
 Status: WIP
 linter-yaml-title-alias: Duskcrusher
 tags:
@@ -12,7 +16,6 @@ tags:
 aliases:
   - Duskcrusher
 status: WIP
-Original: Duskcrusher
 ---
 # Duskcrusher
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), very rare (requires attunement)*  

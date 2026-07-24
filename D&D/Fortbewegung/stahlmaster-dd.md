@@ -3,12 +3,11 @@ Bezeichnung: Stahlmaster
 Status: WIP
 linter-yaml-title-alias: Stahlmaster
 tags:
-  - Quelle/5e/dd
-  - Gegenstand/Fortbewegung/Größe/Groß
   - Gegenstand/Fortbewegung/Gelände/Land
+  - Gegenstand/Fortbewegung/Größe/Groß
   - Gegenstand/Fortbewegung/Kategorie/Kreatur
+  - Quelle/5e/dd
 aliases:
-  - Stahlmaster
   - Stahlmaster
 ---
 # Stahlmaster

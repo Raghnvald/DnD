@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Witherbloom Student
-  - Witherbloom Student
 ---
 # Witherbloom Student
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  

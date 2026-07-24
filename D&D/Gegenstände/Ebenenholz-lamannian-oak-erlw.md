@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Lamannian Oak)
 Original: Imbued Wood (Lamannian Oak)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

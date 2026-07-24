@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Superior Healing
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Superior Healing
 tags:

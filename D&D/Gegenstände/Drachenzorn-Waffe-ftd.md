@@ -2,6 +2,8 @@
 Bezeichnung: Drachenzorn-Waffe
 Original: "Dragon's Wrath Weapon"
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - variiert
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

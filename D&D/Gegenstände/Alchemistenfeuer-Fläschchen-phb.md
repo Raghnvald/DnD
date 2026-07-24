@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Alchemistenfeuer (Flasche)
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

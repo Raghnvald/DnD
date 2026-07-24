@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silver chalice set with moonstones
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silver chalice set with moonstones
 tags:

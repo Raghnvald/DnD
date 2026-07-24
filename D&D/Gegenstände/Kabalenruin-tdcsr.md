@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Cabal's Ruin"
-Kategorie: Wundersamer Gegenstand 
+Original: "Cabal's Ruin"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: "Cabal's Ruin"
 tags:

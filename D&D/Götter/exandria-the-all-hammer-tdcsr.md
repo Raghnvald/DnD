@@ -3,9 +3,9 @@ Bezeichnung: The All-Hammer
 Status: WIP
 linter-yaml-title-alias: The All-Hammer
 tags:
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

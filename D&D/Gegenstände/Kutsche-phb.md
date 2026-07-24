@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kutsche
+Original: Carriage
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM

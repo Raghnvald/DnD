@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Adept of the Red Robes
-  - Adept of the Red Robes
 ---
 # Adept of the Red Robes
 *Source: Dragonlance: Shadow of the Dragon Queen p. 32*  

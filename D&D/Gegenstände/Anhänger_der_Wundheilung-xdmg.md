@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Anhänger der Wundheilung
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

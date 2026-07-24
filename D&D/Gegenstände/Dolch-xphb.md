@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dagger
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dagger
 tags:

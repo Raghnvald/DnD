@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cloth-of-gold vestments
+Original: Cloth-of-gold vestments
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

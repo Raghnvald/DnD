@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Vial
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Vial
 tags:

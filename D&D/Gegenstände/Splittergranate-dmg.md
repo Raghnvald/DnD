@@ -2,6 +2,8 @@
 Bezeichnung: Splittergranate
 Original: Fragmentation Grenade
 Kategorie: Sprengstoff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Splittergranate
 tags:

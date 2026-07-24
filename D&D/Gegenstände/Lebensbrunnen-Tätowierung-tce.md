@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Lifewell Tattoo
+Original: Lifewell Tattoo
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Lifewell Tattoo
 tags:

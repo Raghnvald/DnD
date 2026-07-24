@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subrace/elf-zendikar-mul-daya-nation
 aliases:
   - Spells for Elf (Zendikar; Mul Daya Nation)
-  - Spells for Elf (Zendikar; Mul Daya Nation)
 ---
 # Spells for Elf (Zendikar; Mul Daya Nation)
 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kupfer (KM)
+Original: Copper (CP)
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM

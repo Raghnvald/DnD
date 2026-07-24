@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Manual of Bodily Health
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Manual of Bodily Health
 tags:

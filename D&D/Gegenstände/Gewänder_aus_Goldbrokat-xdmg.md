@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloth-of-gold vestments
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Cloth-of-gold vestments
 tags:

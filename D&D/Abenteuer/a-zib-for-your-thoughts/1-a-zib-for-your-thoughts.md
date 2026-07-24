@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/azfyt
 aliases:
   - A Zib for Your Thoughts
-  - A Zib for Your Thoughts
 ---
 # A Zib for Your Thoughts
 *Source: A Zib for Your Thoughts, p. 2* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Paralysis
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Paralysis
 tags:

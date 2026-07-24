@@ -7,7 +7,6 @@ tags:
   - Rasse/grung
 aliases:
   - Grung
-  - Grung
 ---
 # Grung
 *Source: One Grung Above p. 4*  

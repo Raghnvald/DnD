@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Augenklappe, mit einem unechten Auge bestückt, mit blauen Saphiren und einem Mondstein
+Original: Eye patch with a mock eye set in blue sapphire and moonstone
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

@@ -3,12 +3,11 @@ Bezeichnung: Lamprey Ship
 Status: WIP
 linter-yaml-title-alias: Lamprey Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Lamprey Ship
   - Lamprey Ship
 ---
 # Lamprey Ship

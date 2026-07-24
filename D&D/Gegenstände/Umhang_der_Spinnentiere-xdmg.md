@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of Arachnida
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Cloak of Arachnida
 tags:

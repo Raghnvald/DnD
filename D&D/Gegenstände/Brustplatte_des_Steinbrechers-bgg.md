@@ -2,6 +2,8 @@
 Bezeichnung: Brustplatte des Steinbrechers
 Original: "Stonebreaker's Breastplate"
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Mittel
 Eigenschaften:
   - n/v

@@ -3,12 +3,11 @@ Bezeichnung: Flying Fish Ship
 Status: WIP
 linter-yaml-title-alias: Flying Fish Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Flying Fish Ship
   - Flying Fish Ship
 ---
 # Flying Fish Ship

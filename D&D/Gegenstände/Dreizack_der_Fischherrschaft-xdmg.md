@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Trident of Fish Command
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Trident of Fish Command
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cape of the Mountebank
-Kategorie: Wundersamer Gegenstand 
+Original: Cape of the Mountebank
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Cape of the Mountebank
 tags:

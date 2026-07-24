@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Zhentarim Travel Station
-  - Zhentarim Travel Station
 ---
 # Zhentarim Travel Station
 *Level 5 Bastion facility*  

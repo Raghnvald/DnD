@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc-ck
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Strixhaven: Campus Kerfuffle* 

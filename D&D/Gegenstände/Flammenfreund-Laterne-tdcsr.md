@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Flamefriend Lantern
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Flamefriend Lantern
 tags:

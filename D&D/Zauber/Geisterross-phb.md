@@ -2,8 +2,12 @@
 Bezeichnung: Geisterross
 Zaubergrad: 3
 Zeitaufwand: 1 Minute
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Phantom Steed
+linter-yaml-title-alias: Geisterross
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -19,11 +23,7 @@ tags:
   - Zauber/Ritual
   - Zauber/Schule/Illusion
 aliases:
-  - Phantom Steed
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Schaden:
+  - Geisterross
 ---
 # Geisterross
 *3rd-level, Illusion (ritual)*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Truth Serum
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Truth Serum
 tags:

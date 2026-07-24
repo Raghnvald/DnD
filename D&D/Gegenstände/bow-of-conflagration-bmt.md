@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Bow of Conflagration
+Original: Bow of Conflagration
 Kategorie: Fernkampfwaffe, beliebiger Bogen
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Original: Bow of Conflagration
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Bow of Conflagration

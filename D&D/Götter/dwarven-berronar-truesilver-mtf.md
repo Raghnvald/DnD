@@ -3,9 +3,9 @@ Bezeichnung: Berronar Truesilver
 Status: WIP
 linter-yaml-title-alias: Berronar Truesilver
 tags:
+  - Kompendium/Götter/Domäne/Frieden
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
-  - Kompendium/Götter/Domäne/Frieden
   - Kompendium/Götter/dwarven
   - Quelle/5e/mtf
 aliases:

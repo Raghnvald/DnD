@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Psychischen Widerstands
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring des Psychischen Widerstands
 tags:

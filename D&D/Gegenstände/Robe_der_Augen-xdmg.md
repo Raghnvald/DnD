@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Robe of Eyes
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Robe of Eyes
 tags:

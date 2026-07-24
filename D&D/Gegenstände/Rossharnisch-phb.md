@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rossharnisch
+Original: Barding
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: variiert

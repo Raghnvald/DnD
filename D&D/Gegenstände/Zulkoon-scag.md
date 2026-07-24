@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Zulkoon
+Original: Zulkoon
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

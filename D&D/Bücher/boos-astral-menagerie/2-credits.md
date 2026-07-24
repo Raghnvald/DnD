@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/bam
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Boo's Astral Menagerie* 

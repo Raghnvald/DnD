@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Fragmentation Grenade
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Fragmentation Grenade
 tags:

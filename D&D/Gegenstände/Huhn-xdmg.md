@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chicken
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Chicken
 tags:

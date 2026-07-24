@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Mind Reading
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Mind Reading
 tags:

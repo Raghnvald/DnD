@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Deep Sashelas
-  - Deep Sashelas
 ---
 # Deep Sashelas
 *Source: Sword Coast Adventurer's Guide p. 23* 

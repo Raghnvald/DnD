@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Grimoire Infinitus (Awakened)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Grimoire Infinitus (Awakened)
 tags:

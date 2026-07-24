@@ -7,7 +7,6 @@ tags:
   - Rasse/human/innistrad-stensia
 aliases:
   - Human (Innistrad; Stensia)
-  - Human (Innistrad; Stensia)
 ---
 # Human (Innistrad; Stensia)
 *Source: Plane Shift: Innistrad p. 8*  

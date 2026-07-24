@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Gloomwrought Armor
+Original: Gloomwrought Amor
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Gloomwrought Armor
@@ -26,7 +29,6 @@ aliases:
   - Gloomwrought Spiked Armor
   - Gloomwrought Splint Armor
   - Gloomwrought Studded Leather Armor
-Original: Gloomwrought Amor
 ---
 # Gloomwrought Armor
 *Rare (requires attunement)*  

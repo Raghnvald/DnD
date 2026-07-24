@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Scowls
+Original: Wand of Scowls
 Kategorie: Zauberstab
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wand of Scowls
 tags:

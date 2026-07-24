@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Factions
-  - Factions
 ---
 # Factions
 *Source: The Wild Beyond the Witchlight, p. 215* 

@@ -2,10 +2,12 @@
 Bezeichnung: Blutvergießerklinge
 Original: Bloodshed Blade
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - variiert
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: variiert
 Status: completed
 linter-yaml-title-alias: Blutvergießerklinge

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Regeneration
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Regeneration
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Regeneration
 tags:

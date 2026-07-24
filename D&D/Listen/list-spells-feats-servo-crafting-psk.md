@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/servo-crafting
 aliases:
   - Spells for Servo Crafting
-  - Spells for Servo Crafting
 ---
 # Spells for Servo Crafting
 

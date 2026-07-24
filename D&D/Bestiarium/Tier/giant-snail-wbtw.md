@@ -5,12 +5,11 @@ Bezeichnung: Giant Snail
 Status: WIP
 linter-yaml-title-alias: Giant Snail
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/1-4
   - Monster/Größe/Groß
+  - Monster/HG/1-4
   - Monster/Typ/Tier
+  - Quelle/5e/wbtw
 aliases:
-  - Giant Snail
   - Giant Snail
 ---
 # [Giant Snail](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw.md)

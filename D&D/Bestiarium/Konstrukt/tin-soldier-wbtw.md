@@ -5,12 +5,11 @@ Bezeichnung: Tin Soldier
 Status: WIP
 linter-yaml-title-alias: Tin Soldier
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/1
   - Monster/Größe/Klein
+  - Monster/HG/1
   - Monster/Typ/Konstrukt
+  - Quelle/5e/wbtw
 aliases:
-  - Tin Soldier
   - Tin Soldier
 ---
 # [Tin Soldier](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md)

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 7)
 Kategorie: Schriftrolle
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - /
 Kst.: 40.000 GM

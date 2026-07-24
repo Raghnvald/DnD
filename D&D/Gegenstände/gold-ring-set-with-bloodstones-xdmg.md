@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold ring set with bloodstones
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold ring set with bloodstones
 tags:

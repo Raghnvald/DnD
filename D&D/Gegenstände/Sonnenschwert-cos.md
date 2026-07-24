@@ -2,6 +2,8 @@
 Bezeichnung: Sonnenschwert
 Original: Sunsword
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Schaden: 1W8 Gleißend
 Eigenschaften:
   - Finesse

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Platinum bracelet set with a sapphire
+Original: Platinum bracelet set with a sapphire
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

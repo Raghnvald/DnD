@@ -3,8 +3,8 @@ Bezeichnung: Quajath
 Status: WIP
 linter-yaml-title-alias: Quajath
 tags:
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

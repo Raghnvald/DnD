@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Suude (Brown)
+Original: Suude (Brown)
+Seltenheit:
+  - unbekannt
 Kst.: n/v
 Gew.: n/v
 Status: WIP

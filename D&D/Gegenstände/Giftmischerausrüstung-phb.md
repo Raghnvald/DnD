@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Giftmischerausrüstung
+Original: "Poisoner's Kit"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Small gold bracelet
+Original: Small gold bracelet
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

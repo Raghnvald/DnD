@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Malar
-  - Malar
   - The Beastlord
   - The Bloodgod
   - The Wild Hunter

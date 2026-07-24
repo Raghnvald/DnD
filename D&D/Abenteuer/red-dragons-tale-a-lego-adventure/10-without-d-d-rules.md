@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lrdt
 aliases:
   - Without D&D Rules
-  - Without D&D Rules
 ---
 # Without D&D Rules
 *Source: Red Dragon's Tale: A LEGO Adventure, p. 13* 

@@ -2,6 +2,8 @@
 Bezeichnung: Wurfpfeil
 Original: Dart
 Kategorie: Fernkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1d6 Stich
 Eigenschaften:
   - Geschosse

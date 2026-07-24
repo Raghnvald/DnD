@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Glass Bottle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Glass Bottle
 tags:

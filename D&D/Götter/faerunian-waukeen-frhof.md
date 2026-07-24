@@ -10,7 +10,6 @@ aliases:
   - Our Lady of Gold
   - The Coinmaiden
   - Waukeen
-  - Waukeen
 ---
 # Waukeen
 *Source: Forgotten Realms: Heroes of Faerûn p. 127* 

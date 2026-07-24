@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Azuth
-  - Azuth
   - Lord of Spells
   - The High One
   - The Shining Hand of Sorcery

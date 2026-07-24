@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dust of Dryness
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Dust of Dryness
 tags:

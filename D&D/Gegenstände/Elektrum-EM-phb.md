@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Elektrum (EM)
+Original: Electrum (EP)
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 SM

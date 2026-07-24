@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Paladine
-  - Paladine
 ---
 # Paladine
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 

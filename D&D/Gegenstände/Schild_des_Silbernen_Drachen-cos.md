@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Schild des Silbernen Drachen
+Seltenheit:
+  - selten
 Rüstung: Schild
 Eigenschaften:
   - /

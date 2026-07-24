@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Obsidian statuette with gold fittings and inlay
+Original: Obsidian statuette with gold fittings and inlay
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

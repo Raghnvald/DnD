@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cow
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Cow
 tags:

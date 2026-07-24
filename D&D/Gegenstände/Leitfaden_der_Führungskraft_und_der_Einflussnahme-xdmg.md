@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tome of Leadership and Influence
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Tome of Leadership and Influence
 tags:

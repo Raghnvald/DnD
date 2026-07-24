@@ -8,10 +8,10 @@ HG: 1/4
 Status: WIP
 linter-yaml-title-alias: Gibberling
 tags:
-  - Quelle/5e/mabjov
-  - Monster/HG/1-4
   - Monster/Größe/Klein
+  - Monster/HG/1-4
   - Monster/Typ/Aberration
+  - Quelle/5e/mabjov
 aliases:
   - Gibberling
 status: WIP

@@ -3,9 +3,9 @@ Bezeichnung: Boldrei
 Status: WIP
 linter-yaml-title-alias: Boldrei
 tags:
-  - Kompendium/Götter/Domäne/Leben
-  - Kompendium/Götter/Domäne/Frieden
   - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Domäne/Frieden
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/eberron
   - Quelle/5e/phb
 aliases:

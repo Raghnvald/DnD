@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Amethyst Dragon Den
-  - Amethyst Dragon Den
 ---
 # Amethyst Dragon Den
 *Level 5 Bastion facility*  

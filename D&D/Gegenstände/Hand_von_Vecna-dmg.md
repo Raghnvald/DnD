@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hand von Vecna
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Hand von Vecna
 tags:

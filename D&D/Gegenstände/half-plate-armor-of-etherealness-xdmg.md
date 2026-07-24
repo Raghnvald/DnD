@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Half Plate Armor of Etherealness
+Seltenheit:
+  - legendär
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Half Plate Armor of Etherealness

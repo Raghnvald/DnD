@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spinel
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Spinel
 tags:

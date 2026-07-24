@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Paper
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Paper
 tags:

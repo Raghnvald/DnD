@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Horseshoes of Speed
+Original: Horseshoes of Speed
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Horseshoes of Speed
 tags:

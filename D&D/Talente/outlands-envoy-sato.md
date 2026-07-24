@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/sato
 aliases:
   - Outlands Envoy
-  - Outlands Envoy
 ---
 # Outlands Envoy
 *Source: Sigil and the Outlands p. 10*  

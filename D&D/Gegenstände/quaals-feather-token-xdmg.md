@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Quaal's Feather Token"
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token"
 tags:

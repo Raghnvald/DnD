@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Puzzle Card
-Kategorie: Wundersamer Gegenstand 
+Original: Puzzle Card
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Puzzle Card
 tags:

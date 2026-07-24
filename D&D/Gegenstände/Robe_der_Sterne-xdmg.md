@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Robe of Stars
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Robe of Stars
 tags:

@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Streitkolben des Niederstreckens
+Original: Mace of Smiting
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - selten
 Schaden: 1d6 Wucht
 Eigenschaften:
   - n/v
 Einstimmung: n/v
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Streitkolben des Niederstreckens
@@ -17,7 +20,6 @@ tags:
 aliases:
   - Streitkolben des Niederstreckens
 status: WIP
-Original: Mace of Smiting
 ---
 # Streitkolben des Niederstreckens
 *Weapon ([[Streitkolben-phb|Streitkolben]]), major, rare*

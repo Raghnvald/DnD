@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Doublet of Dramatic Demise
-Kategorie: Wundersamer Gegenstand 
+Original: Doublet of Dramatic Demise
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Doublet of Dramatic Demise
 tags:

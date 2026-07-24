@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Ship Repairs
-  - Ship Repairs
 ---
 # Ship Repairs
 *Source: Astral Adventurer's Guide p. 25* 

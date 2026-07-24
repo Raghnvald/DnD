@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Fear
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Fear
 tags:

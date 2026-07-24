@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Satz Würfel
+Original: Dice Set
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM

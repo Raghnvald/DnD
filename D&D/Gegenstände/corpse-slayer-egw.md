@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Corpse Slayer
+Original: Corpse Slayer
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
@@ -73,7 +76,6 @@ aliases:
   - Corpse Slayer Whip
   - Corpse Slayer Yklwa
 status: WIP
-Original: Corpse Slayer
 ---
 # Corpse Slayer
 *Rare (requires attunement)*  

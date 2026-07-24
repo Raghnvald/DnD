@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Glamoured Studded Leather
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: Glamoured Studded Leather

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wtthc
 aliases:
   - Ballad of the Rat King
-  - Ballad of the Rat King
 ---
 # Ballad of the Rat King
 *Source: Stranger Things: Welcome to the Hellfire Club* 

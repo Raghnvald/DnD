@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-sending
 aliases:
   - Spells for Charm of Sending
-  - Spells for Charm of Sending
 ---
 # Spells for Charm of Sending
 

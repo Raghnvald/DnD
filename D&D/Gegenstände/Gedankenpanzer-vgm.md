@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gedankenpanzer
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Gedankenpanzer

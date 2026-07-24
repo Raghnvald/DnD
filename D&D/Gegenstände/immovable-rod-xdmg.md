@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Immovable Rod
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Immovable Rod
 tags:

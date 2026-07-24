@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Flying
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Potion of Flying
 tags:

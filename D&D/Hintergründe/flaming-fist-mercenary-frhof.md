@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Flaming Fist Mercenary
-  - Flaming Fist Mercenary
 ---
 # Flaming Fist Mercenary
 *Source: Forgotten Realms: Heroes of Faerûn p. 30*  

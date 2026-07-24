@@ -3,12 +3,11 @@ Bezeichnung: Shrike Ship
 Status: WIP
 linter-yaml-title-alias: Shrike Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Shrike Ship
   - Shrike Ship
 ---
 # Shrike Ship

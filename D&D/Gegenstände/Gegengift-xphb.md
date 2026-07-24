@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Antitoxin
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Antitoxin
 tags:

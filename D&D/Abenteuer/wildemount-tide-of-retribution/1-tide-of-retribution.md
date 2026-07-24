@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tor
 aliases:
   - Tide of Retribution
-  - Tide of Retribution
 ---
 # Tide of Retribution
 *Source: Wildemount: Tide of Retribution, p. 206* 

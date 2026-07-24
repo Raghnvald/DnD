@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Turquoise
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Turquoise
 tags:

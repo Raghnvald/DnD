@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Sage's Signet (Hart)"
+Original: "Sage's Signet (Hart)"
 Kategorie: Ring
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Zauberwirker
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Hart)"
-status: WIP
 ---
 # Sage's Signet (Hart)
 *Ring, very rare (requires attunement by a spellcaster)*  

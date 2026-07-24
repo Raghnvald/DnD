@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Splint Armor
+Seltenheit:
+  - keine
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Splint Armor

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Monsterjägerpaket
+Original: "Monster Hunter's Pack"
 Kategorie: Ausrüstungspaket
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 23 GM

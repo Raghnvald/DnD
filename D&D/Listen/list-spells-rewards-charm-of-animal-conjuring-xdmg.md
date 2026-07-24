@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-animal-conjuring
 aliases:
   - Spells for Charm of Animal Conjuring
-  - Spells for Charm of Animal Conjuring
 ---
 # Spells for Charm of Animal Conjuring
 

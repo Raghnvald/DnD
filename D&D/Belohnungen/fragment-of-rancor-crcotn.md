@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/crcotn
 aliases:
   - Fragment of Rancor
-  - Fragment of Rancor
 ---
 # Fragment of Rancor
 *Fragment of Suffering*  

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Slumbering Scaled Ornament
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Slumbering Scaled Ornament
 tags:

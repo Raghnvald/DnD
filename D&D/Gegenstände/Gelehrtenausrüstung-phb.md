@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gelehrtenausrüstung
+Original: "Scholar's Pack"
 Kategorie: Ausrüstungspaket
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 40 GM

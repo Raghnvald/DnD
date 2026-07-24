@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dmtcrg
 aliases:
   - The Deck of Many Things
-  - The Deck of Many Things
 ---
 # The Deck of Many Things
 *Source: The Deck of Many Things: Card Reference Guide, p. 3* 

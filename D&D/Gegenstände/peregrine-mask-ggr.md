@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Peregrine Mask
-Kategorie: Wundersamer Gegenstand 
+Original: Peregrine Mask
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Peregrine Mask
 tags:

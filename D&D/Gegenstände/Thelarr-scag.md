@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Thelarr
+Original: Thelarr
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Adamantine Armor
+Seltenheit:
+  - keine
 Rüstung: Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Adamantine Armor

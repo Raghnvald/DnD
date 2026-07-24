@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Shadowfell Shard
-Kategorie: Wundersamer Gegenstand 
+Original: Shadowfell Shard
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Shadowfell Shard
 tags:

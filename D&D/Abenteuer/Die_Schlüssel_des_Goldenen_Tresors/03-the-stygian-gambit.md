@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/kftgv
 aliases:
   - The Stygian Gambit
-  - The Stygian Gambit
 ---
 # The Stygian Gambit
 *Source: Keys from the Golden Vault, p. 27* 

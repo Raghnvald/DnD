@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Blasted Goggles
+Original: Blasted Goggles
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Blasted Goggles
 tags:

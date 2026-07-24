@@ -3,12 +3,11 @@ Bezeichnung: Klothys
 Status: WIP
 linter-yaml-title-alias: Klothys
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - Klothys
   - Klothys
 ---
 # Klothys

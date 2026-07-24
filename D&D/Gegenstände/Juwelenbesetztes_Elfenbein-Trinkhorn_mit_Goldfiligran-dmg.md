@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
+Original: Bejeweled ivory drinking horn with gold filigree
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

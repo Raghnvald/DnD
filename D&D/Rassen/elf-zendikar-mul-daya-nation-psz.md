@@ -7,7 +7,6 @@ tags:
   - Rasse/elf/zendikar-mul-daya-nation
 aliases:
   - Elf (Zendikar; Mul Daya Nation)
-  - Elf (Zendikar; Mul Daya Nation)
 ---
 # Elf (Zendikar; Mul Daya Nation)
 *Source: Plane Shift: Zendikar p. 19*  

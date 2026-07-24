@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kochutensilien
+Original: "Cook's Utensils"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

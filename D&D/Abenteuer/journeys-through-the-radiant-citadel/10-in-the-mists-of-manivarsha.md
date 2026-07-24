@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - In the Mists of Manivarsha
-  - In the Mists of Manivarsha
 ---
 # In the Mists of Manivarsha
 *Source: Journeys through the Radiant Citadel, p. 120* 

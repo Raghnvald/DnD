@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Watchful Helm
-Kategorie: Wundersamer Gegenstand 
+Original: Watchful Helm
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Watchful Helm
 tags:

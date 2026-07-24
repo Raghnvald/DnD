@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Robe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Robe
 tags:

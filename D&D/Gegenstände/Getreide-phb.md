@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Getreide
+Original: Wheat
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Getreide
-Original: Wheat
 ---
 # Getreide
 *Handelsgut*  

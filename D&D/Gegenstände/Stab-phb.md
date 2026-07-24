@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Stab
+Original: Staff
 Kategorie: Fokus, Arkan
+Seltenheit:
+  - keine
 Schaden: 1W6 Wucht
 Eigenschaften:
   - Vielseitig (1W8)

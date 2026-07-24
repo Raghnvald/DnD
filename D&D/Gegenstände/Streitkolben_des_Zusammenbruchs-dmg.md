@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Streitkolben des Zusammenbruchs
+Original: Mace of Disruption
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - selten
 Schaden: 1W6 Wucht
 Eigenschaften:
   - /
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: 2,0 kg
 Status: WIP
 linter-yaml-title-alias: Streitkolben des Zusammenbruchs
@@ -18,7 +21,6 @@ tags:
 aliases:
   - Streitkolben des Zusammenbruchs
 status: WIP
-Original: Mace of Disruption
 ---
 # Streitkolben des Zusammenbruchs
 *Waffe ([[Streitkolben-phb|Streitkolben]], selten (erfordert Einstimmung)* 

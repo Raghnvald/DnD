@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Flour
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Flour
 tags:

@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Flammenklinge
 Zaubergrad: 2
+Zeitaufwand: 1 Bonusaktion
 Status: WIP
 linter-yaml-title-alias: Flammenklinge
 classes:
@@ -14,7 +15,6 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Flammenklinge
-Zeitaufwand: 1 Bonusaktion
 ---
 # Flammenklinge
 *2nd-level, Evocation*  

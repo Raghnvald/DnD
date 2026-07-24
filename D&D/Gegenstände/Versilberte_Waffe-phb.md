@@ -2,6 +2,8 @@
 Bezeichnung: Versilberte Waffe
 Original: Silvered Weapon
 Kategorie: Waffe, beliebig
+Seltenheit:
+  - unbekannt
 Eigenschaften:
   - variiert
 Kst.: variiert

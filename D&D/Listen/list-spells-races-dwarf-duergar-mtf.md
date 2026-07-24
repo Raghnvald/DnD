@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subrace/dwarf-duergar
 aliases:
   - Spells for Dwarf (Duergar)
-  - Spells for Dwarf (Duergar)
 ---
 # Spells for Dwarf (Duergar)
 

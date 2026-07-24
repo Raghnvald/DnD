@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Köcher
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Heiliges Symbol
+Seltenheit:
+  - keine
 Status: completed
 linter-yaml-title-alias: Heiliges Symbol
 tags:

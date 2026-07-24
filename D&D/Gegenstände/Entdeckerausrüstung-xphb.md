@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Explorer's Pack"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Explorer's Pack"
 tags:

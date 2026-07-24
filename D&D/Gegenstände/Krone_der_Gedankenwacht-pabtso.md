@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mindguard Crown
-Kategorie: Wundersamer Gegenstand 
+Original: Mindguard Crown
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Mindguard Crown
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gem of Brightness
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Gem of Brightness
 tags:

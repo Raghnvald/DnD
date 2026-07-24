@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Tireless Reveler
-  - Tireless Reveler
 ---
 # Tireless Reveler
 *Source: Astarion's Book of Hungers p. 8*  

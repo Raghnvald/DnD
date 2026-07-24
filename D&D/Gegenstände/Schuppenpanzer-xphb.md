@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Scale Mail
+Seltenheit:
+  - keine
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Scale Mail

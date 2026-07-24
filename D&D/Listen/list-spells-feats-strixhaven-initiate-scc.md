@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/strixhaven-initiate
 aliases:
   - Spells for Strixhaven Initiate
-  - Spells for Strixhaven Initiate
 ---
 # Spells for Strixhaven Initiate
 

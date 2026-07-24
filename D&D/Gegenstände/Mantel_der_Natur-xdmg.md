@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Nature's Mantle"
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Nature's Mantle"
 tags:

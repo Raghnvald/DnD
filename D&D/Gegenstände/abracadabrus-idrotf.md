@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Abracadabrus
+Original: Abracadabrus
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Status: WIP

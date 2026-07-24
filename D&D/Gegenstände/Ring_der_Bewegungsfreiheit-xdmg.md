@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Free Action
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Free Action
 tags:

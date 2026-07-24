@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Friends and Foes
-  - Friends and Foes
 ---
 # Friends and Foes
 *Source: Mythic Odysseys of Theros, p. 203* 

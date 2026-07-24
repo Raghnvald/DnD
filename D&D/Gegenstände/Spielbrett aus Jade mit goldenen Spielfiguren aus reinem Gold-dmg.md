@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Jade game board with solid gold playing pieces
+Original: Jade game board with solid gold playing pieces
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

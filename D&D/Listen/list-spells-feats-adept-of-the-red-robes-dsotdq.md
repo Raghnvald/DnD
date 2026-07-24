@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/adept-of-the-red-robes
 aliases:
   - Spells for Adept of the Red Robes
-  - Spells for Adept of the Red Robes
 ---
 # Spells for Adept of the Red Robes
 

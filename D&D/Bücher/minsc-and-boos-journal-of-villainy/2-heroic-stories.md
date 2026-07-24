@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mabjov
 aliases:
   - Heroic Stories
-  - Heroic Stories
 ---
 # Heroic Stories
 *Source: Minsc and Boo's Journal of Villainy, p. 5* 

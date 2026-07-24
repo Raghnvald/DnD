@@ -8,10 +8,10 @@ HG: 4
 Status: WIP
 linter-yaml-title-alias: Chaos Quadrapod
 tags:
-  - Quelle/5e/ai
-  - Monster/HG/4
   - Monster/Größe/Groß
+  - Monster/HG/4
   - Monster/Typ/Aberration
+  - Quelle/5e/ai
 aliases:
   - Chaos Quadrapod
 status: WIP

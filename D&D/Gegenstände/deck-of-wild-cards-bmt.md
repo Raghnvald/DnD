@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Deck of Wild Cards
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Deck of Wild Cards
 tags:

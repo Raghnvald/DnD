@@ -1,8 +1,11 @@
 ---
 Bezeichnung: Rüstung von Agathys
-Status: WIP
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
+Reichweite: selbst
+Komponenten: V, G, M
+Wirkungsdauer: 1 Stunde
+Status: WIP
 linter-yaml-title-alias: Rüstung von Agathys
 classes:
   - Bard (Magical Secrets)
@@ -17,9 +20,6 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Rüstung von Agathys
-Reichweite: selbst
-Komponenten: V, G, M
-Wirkungsdauer: 1 Stunde
 ---
 # Rüstung von Agathys
 *1st-level, Abjuration*  

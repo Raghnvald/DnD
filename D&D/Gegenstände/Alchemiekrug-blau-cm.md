@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Alchemy Jug (Blue)
+Original: Alchemy Jug (Blue)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Status: WIP

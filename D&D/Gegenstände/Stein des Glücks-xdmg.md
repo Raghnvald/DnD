@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Stone of Good Luck
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Stone of Good Luck
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Greater Mark of Finding
-  - Greater Mark of Finding
 ---
 # Greater Mark of Finding
 *Source: Eberron: Forge of the Artificer p. 43*  

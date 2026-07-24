@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/cabomp
 aliases:
   - Household Items
-  - Household Items
 ---
 # Household Items
 *Source: Crochet: A Book of Many Patterns, p. 121* 

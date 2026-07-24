@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Diplomat's Pack"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Diplomat's Pack"
 tags:

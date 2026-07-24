@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/eyes-of-the-impossible
 aliases:
   - Spells for Eyes of the Impossible
-  - Spells for Eyes of the Impossible
 ---
 # Spells for Eyes of the Impossible
 

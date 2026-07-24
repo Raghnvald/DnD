@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Black velvet mask stitched with silver thread
+Original: Black velvet mask stitched with silver thread
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

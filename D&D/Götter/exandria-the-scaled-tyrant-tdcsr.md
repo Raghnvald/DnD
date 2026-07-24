@@ -3,9 +3,9 @@ Bezeichnung: The Scaled Tyrant
 Status: WIP
 linter-yaml-title-alias: The Scaled Tyrant
 tags:
-  - Kompendium/Götter/Domäne/Ordnung
-  - Kompendium/Götter/Domäne/List
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

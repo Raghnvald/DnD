@@ -7,7 +7,6 @@ tags:
   - Rasse/human/innistrad-gavony
 aliases:
   - Human (Innistrad; Gavony)
-  - Human (Innistrad; Gavony)
 ---
 # Human (Innistrad; Gavony)
 *Source: Plane Shift: Innistrad p. 8*  

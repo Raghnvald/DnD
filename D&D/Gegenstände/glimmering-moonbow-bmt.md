@@ -2,10 +2,12 @@
 Bezeichnung: Glimmering Moonbow
 Original: Glimmering Moonbow
 Kategorie: Fernkampfwaffe, beliebiger Bogen
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Glimmering Moonbow

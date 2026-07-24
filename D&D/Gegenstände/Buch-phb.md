@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Buch
+Original: Book
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

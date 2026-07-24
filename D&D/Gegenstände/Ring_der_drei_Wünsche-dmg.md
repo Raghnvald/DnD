@@ -1,8 +1,11 @@
 ---
 Bezeichnung: Ring der drei Wünsche
 Kategorie: Ring
+Seltenheit:
+  - legendär
 Eigenschaften:
   - /
+Einstimmung: Bezeichnung
 Status: WIP
 linter-yaml-title-alias: Ring der drei Wünsche
 tags:

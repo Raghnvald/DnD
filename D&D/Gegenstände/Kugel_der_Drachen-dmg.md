@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kugel der Drachen
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Kugel der Drachen
 tags:

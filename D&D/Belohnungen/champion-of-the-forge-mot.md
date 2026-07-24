@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of the Forge
-  - Champion of the Forge
 ---
 # Champion of the Forge
 *Piety Trait*  

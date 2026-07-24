@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Rogue's Mantle"
-Kategorie: Wundersamer Gegenstand 
+Original: "Rogue's Mantle"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Rogue's Mantle"
 tags:

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Writing Kit
+Original: Writing Kit
+Seltenheit:
+  - keine
 Kst.: n/v
 Gew.: n/v
 Status: WIP

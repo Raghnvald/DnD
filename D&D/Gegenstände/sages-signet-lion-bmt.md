@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Sage's Signet (Lion)"
+Original: "Sage's Signet (Lion)"
 Kategorie: Ring
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Zauberwirker
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Lion)"
-status: WIP
 ---
 # Sage's Signet (Lion)
 *Ring, very rare (requires attunement by a spellcaster)*  

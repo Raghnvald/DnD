@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Force Resistance
+Seltenheit:
+  - selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of Force Resistance

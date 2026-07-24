@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Safran
+Original: Saffron
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 15 GM
@@ -13,8 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Safran
-status: completed
-Original: Saffron
 ---
 # Safran
 *Handelsgut*  

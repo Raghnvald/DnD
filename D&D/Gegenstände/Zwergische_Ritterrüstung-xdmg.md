@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dwarven Plate
+Seltenheit:
+  - keine
 Rüstung: Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Dwarven Plate

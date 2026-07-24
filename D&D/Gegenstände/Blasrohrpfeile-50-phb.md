@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Blasrohrpfeile (50)
 Kategorie: Munition
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Blasrohrpfeile (50)
 tags:

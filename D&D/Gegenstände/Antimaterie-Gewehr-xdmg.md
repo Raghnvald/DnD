@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Antimatter Rifle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Antimatter Rifle
 tags:

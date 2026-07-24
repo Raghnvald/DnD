@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ring of the Orator
+Original: Ring of the Orator
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

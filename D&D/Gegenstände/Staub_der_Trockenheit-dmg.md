@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Dust of Dryness
-Kategorie: Wundersamer Gegenstand 
+Original: Dust of Dryness
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Dust of Dryness
 tags:

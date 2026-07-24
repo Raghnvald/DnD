@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Weapon (Cantrip)
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Enspelled Weapon (Cantrip)
 tags:

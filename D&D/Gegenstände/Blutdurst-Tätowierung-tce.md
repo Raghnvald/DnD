@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Blood Fury Tattoo
+Original: Blood Fury Tattoo
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Blood Fury Tattoo
 tags:

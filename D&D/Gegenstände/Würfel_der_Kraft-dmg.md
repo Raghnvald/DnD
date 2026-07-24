@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cube of Force
-Kategorie: Wundersamer Gegenstand 
+Original: Cube of Force
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Cube of Force
 tags:

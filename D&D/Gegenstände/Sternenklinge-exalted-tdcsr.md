@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Star Razor (Exalted)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Star Razor (Exalted)
 tags:

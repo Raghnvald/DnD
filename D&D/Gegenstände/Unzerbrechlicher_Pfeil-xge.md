@@ -1,9 +1,12 @@
 ---
 Bezeichnung: Unzerbrechlicher Pfeil
+Original: Unbreakable Arrow
 Kategorie: Munition
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - Munition
-Kst.: n/v
+Kst.: 100 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Unzerbrechlicher Pfeil

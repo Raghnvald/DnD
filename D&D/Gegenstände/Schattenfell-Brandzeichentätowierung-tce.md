@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Shadowfell Brand Tattoo
+Original: Shadowfell Brand Tattoo
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Shadowfell Brand Tattoo
 tags:

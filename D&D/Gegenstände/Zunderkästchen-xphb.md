@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tinderbox
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Tinderbox
 tags:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Campus Map
-  - Campus Map
 ---
 # Campus Map
 *Source: Strixhaven: A Curriculum of Chaos, p. 224* 

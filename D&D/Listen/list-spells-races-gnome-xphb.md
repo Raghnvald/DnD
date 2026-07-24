@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/race/gnome
 aliases:
   - Spells for Gnome
-  - Spells for Gnome
 ---
 # Spells for Gnome
 

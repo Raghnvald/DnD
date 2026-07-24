@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Withering
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Staff of Withering
 tags:

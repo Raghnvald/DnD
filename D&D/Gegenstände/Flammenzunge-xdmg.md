@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Flame Tongue
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Flame Tongue
 tags:

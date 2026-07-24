@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Hiddukel
-  - Hiddukel
 ---
 # Hiddukel
 *Source: Dragonlance: Shadow of the Dragon Queen p. 18* 

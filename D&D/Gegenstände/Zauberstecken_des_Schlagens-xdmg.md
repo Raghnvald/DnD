@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Striking
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Staff of Striking
 tags:

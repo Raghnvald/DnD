@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Black Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Black Dragon Scale Mail

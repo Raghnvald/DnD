@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Reorx
-  - Reorx
 ---
 # Reorx
 *Source: Dragonlance: Shadow of the Dragon Queen p. 16* 

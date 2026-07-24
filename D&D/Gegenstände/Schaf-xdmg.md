@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sheep
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sheep
 tags:

@@ -1,13 +1,16 @@
 ---
 Bezeichnung: Kernkerber-Dolch
+Original: Corecut Dagger
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Finesse
   - Leicht
   - Verflucht
   - Wurfwaffe
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Kernkerber-Dolch
@@ -20,7 +23,6 @@ tags:
 aliases:
   - Kernkerber-Dolch
 status: WIP
-Original: Corecut Dagger
 ---
 # Kernkerber-Dolch
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), cursed item, very rare (requires attunement)*  

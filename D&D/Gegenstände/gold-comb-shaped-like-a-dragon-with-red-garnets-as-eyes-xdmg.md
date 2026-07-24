@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold comb shaped like a dragon with red garnets as eyes
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold comb shaped like a dragon with red garnets as eyes
 tags:

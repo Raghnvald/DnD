@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ersatz Eye
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Ersatz Eye
 tags:

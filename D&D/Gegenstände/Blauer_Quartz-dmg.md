@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Blauer Quartz
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

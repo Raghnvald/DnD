@@ -2,8 +2,12 @@
 Bezeichnung: Gegenzauber
 Zaubergrad: 3
 Zeitaufwand: 1 Reaktion
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Counterspell
+linter-yaml-title-alias: Gegenzauber
 classes:
   - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
@@ -22,11 +26,7 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Bann
 aliases:
-  - Counterspell
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Schaden:
+  - Gegenzauber
 ---
 # Gegenzauber
 *3rd-level, Abjuration*  

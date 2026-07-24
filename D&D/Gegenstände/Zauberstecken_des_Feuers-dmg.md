@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Staff of Fire
+Original: Staff of Fire
 Kategorie: Zauberstecken
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Vielseitig (1W8)
+Einstimmung: durch einen Druiden, Hexenmeister, Magier oder Zauberer
 Kst.: /
 Gew.: 2,0 kg
 Status: WIP
-Einstimmung: durch einen Druiden, Hexenmeister, Magier oder Zauberer
 linter-yaml-title-alias: Staff of Fire
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Staff of Fire
 status: Typ
-Original: Staff of Fire
 ---
 # Staff of Fire
 *Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

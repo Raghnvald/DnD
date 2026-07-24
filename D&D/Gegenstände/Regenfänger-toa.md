@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Regenfänger
+Original: Rain Catcher
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/toa
 aliases:
   - Regenfänger
-status: WIP
 ---
 # Regenfänger
 *Adventuring gear*  

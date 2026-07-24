@@ -3,12 +3,11 @@ Bezeichnung: Living Ship
 Status: WIP
 linter-yaml-title-alias: Living Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Living Ship
   - Living Ship
 ---
 # Living Ship

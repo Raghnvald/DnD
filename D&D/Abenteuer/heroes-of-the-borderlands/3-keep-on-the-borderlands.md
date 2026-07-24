@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hotb
 aliases:
   - Keep on the Borderlands
-  - Keep on the Borderlands
 ---
 # Keep on the Borderlands
 *Source: Heroes of the Borderlands, p. 2* 

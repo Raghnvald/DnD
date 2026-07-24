@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Antimagic Armor
+Original: Antimagic Armor
+Seltenheit:
+  - sehr selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Antimagic Armor
@@ -26,7 +29,6 @@ aliases:
   - Antimagic Spiked Armor
   - Antimagic Splint Armor
   - Antimagic Studded Leather Armor
-Original: Antimagic Armor
 ---
 # Antimagic Armor
 *Very rare (requires attunement)*  

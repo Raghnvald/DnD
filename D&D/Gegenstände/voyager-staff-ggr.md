@@ -1,12 +1,15 @@
 ---
 Bezeichnung: Voyager Staff
+Original: Voyager Staff
 Kategorie: Zauberstecken
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Vielseitig (1W8)
+Einstimmung: durch einen Zauberwirker
 Kst.: /
 Gew.: 2,0 kg
 Status: WIP
-Einstimmung: durch einen Zauberwirker
 linter-yaml-title-alias: Voyager Staff
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Voyager Staff
 status: WIP
-Original: Voyager Staff
 ---
 # Voyager Staff
 *Staff, weapon, very rare (requires attunement by a spellcaster)*  

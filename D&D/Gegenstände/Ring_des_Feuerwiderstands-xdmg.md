@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Fire Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Fire Resistance
 tags:

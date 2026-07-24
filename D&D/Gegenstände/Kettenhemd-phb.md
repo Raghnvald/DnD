@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kettenhemd
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Mittel
 Eigenschaften:
   - n/v

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Sunbeam Compass
+Original: Sunbeam Compass
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Sunbeam Compass
 tags:

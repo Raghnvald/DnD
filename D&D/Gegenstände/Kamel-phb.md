@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kamel
+Original: Camel
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
@@ -15,7 +18,6 @@ aliases:
   - Kamel
 Bew.: 15 m
 Traglast: 480 Pfd.
-Original: Camel
 ---
 # Kamel
 *Reit- und Lasttiere*  

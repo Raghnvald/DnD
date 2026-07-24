@@ -2,6 +2,8 @@
 Bezeichnung: Stab der Verteidigung
 Original: Staff of Defense
 Kategorie: Zauberstecken
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Stab der Verteidigung
 tags:

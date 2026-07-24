@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Guardian Emblem
-Kategorie: Wundersamer Gegenstand 
+Original: Guardian Emblem
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Guardian Emblem
 tags:

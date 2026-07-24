@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/esk
 aliases:
   - Combat Step by Step Cards
-  - Combat Step by Step Cards
 ---
 # Combat Step by Step Cards
 *Source: Essentials Kit p. 3*  

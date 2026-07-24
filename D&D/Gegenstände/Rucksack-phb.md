@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rucksack
+Original: Backpack
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM
@@ -12,7 +15,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Backpack
   - Rucksack
 ---
 # Rucksack

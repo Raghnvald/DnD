@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Perle
+Original: Pearl
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Perle
-status: WIP
 ---
 # Perle
 *Schatz (Edelstein)*  

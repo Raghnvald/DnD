@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Dornenwuchs
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
 Status: WIP
 linter-yaml-title-alias: Dornenwuchs
 classes:
@@ -20,7 +21,6 @@ tags:
   - Zauber/Schule/Verwandlung
 aliases:
   - Dornenwuchs
-Zeitaufwand: 1 Aktion
 ---
 # Dornenwuchs
 *2nd-level, Transmutation*  

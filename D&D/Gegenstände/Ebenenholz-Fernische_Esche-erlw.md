@@ -2,6 +2,8 @@
 Bezeichnung: Imbued Wood (Fernian Ash)
 Original: Imbued Wood (Fernian Ash)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

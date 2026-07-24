@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Gold 5-Zino Coin
 Kategorie: Währung
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold 5-Zino Coin
 tags:

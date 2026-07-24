@@ -2,6 +2,8 @@
 Bezeichnung: Pistole
 Original: Pistol
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1d10 Stich
 Eigenschaften:
   - Geschosse

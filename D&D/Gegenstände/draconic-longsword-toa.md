@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Draconic Longsword
+Original: Draconic Longsword
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Draconic Longsword
 tags:
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Draconic Longsword
 status: WIP
-Original: Draconic Longsword
 ---
 # Draconic Longsword
 *Weapon (longsword)*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Healing
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Staff of Healing
 tags:

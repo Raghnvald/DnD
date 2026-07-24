@@ -2,6 +2,8 @@
 Bezeichnung: Gewehr, automatisch
 Original: Automatic Rifle
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 2d8 Stich
 Eigenschaften:
   - Feuerstoß

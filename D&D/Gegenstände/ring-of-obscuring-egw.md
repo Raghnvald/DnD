@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ring of Obscuring
+Original: Ring of Obscuring
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

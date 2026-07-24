@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Matalotok
+Original: Matalotok
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Matalotok
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Matalotok
 status: WIP
-Original: Matalotok
 ---
 # Matalotok
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), legendary (requires attunement)*  

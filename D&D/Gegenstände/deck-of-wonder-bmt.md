@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Deck of Wonder
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Deck of Wonder
 tags:

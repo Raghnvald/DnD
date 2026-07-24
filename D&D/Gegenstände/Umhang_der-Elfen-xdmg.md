@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of Elvenkind
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Cloak of Elvenkind
 tags:

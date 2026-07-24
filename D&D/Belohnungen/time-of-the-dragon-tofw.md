@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/tofw
 aliases:
   - Time of the Dragon
-  - Time of the Dragon
 ---
 # Time of the Dragon
 *Charm*  

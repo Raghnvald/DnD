@@ -2,6 +2,8 @@
 Bezeichnung: Dreizack
 Original: Tridant
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dreizack
 tags:

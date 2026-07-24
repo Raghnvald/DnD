@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/llk
 aliases:
   - Daoine Gloine Map
-  - Daoine Gloine Map
 ---
 # Daoine Gloine Map
 *Source: Lost Laboratory of Kwalish* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Psychic Resistance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Psychic Resistance
 tags:

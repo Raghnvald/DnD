@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spell Scroll (Level 6)
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 6)
 tags:

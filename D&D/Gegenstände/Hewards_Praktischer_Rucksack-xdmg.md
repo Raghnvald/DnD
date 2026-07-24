@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Heward's Handy Haversack"
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Heward's Handy Haversack"
 tags:

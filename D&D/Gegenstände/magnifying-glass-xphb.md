@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Magnifying Glass
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Magnifying Glass
 tags:

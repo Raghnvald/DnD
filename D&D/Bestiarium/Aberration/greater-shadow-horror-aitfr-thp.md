@@ -8,10 +8,10 @@ HG: 12
 Status: WIP
 linter-yaml-title-alias: Greater Shadow Horror
 tags:
-  - Quelle/5e/aitfr-thp
-  - Monster/HG/12
   - Monster/Größe/Riesig
+  - Monster/HG/12
   - Monster/Typ/Aberration
+  - Quelle/5e/aitfr-thp
 aliases:
   - Greater Shadow Horror
 status: WIP

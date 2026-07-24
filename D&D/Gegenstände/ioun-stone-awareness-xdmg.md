@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Awareness
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Awareness
 tags:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Antagonize
+Original: Antagonize
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
@@ -15,7 +16,6 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Antagonize
-Original: Antagonize
 ---
 # Antagonize
 *3rd-level, Enchantment*  

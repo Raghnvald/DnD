@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schießpulver-Horn
+Original: Gunpowder Horn
 Kategorie: Sprengstoff
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Schießpulver-Horn
 tags:
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Schießpulver-Horn
 status: WIP
-Original: Gunpowder Horn
 ---
 # Schießpulver-Horn
 *Explosive*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ruin Card
-Kategorie: Wundersamer Gegenstand 
+Original: Ruin Card
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ruin Card
 tags:

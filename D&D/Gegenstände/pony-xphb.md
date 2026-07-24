@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pony
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pony
 tags:

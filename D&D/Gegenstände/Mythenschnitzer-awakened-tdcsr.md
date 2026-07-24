@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Mythcarver (Awakened)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Mythcarver (Awakened)
 tags:

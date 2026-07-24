@@ -7,7 +7,6 @@ tags:
   - Rasse/vampire/zendikar
 aliases:
   - Vampire (Zendikar)
-  - Vampire (Zendikar)
 ---
 # Vampire (Zendikar)
 *Source: Plane Shift: Zendikar p. 14*  

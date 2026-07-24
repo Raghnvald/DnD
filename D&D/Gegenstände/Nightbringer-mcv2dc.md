@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Nightbringer
 Kategorie: Einfache Nahkampfwaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Nightbringer
 tags:

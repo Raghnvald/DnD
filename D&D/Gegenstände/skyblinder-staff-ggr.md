@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Skyblinder Staff
+Original: Skyblinder Staff
 Kategorie: Zauberstecken
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
@@ -15,7 +18,6 @@ tags:
   - Quelle/5e/ggr
 aliases:
   - Skyblinder Staff
-Original: Skyblinder Staff
 ---
 # Skyblinder Staff
 *Staff, weapon, uncommon (requires attunement)*  

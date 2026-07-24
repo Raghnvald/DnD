@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wheat
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Wheat
 tags:

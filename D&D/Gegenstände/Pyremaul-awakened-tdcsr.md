@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Pyremaul (Awakened)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Pyremaul (Awakened)
 tags:

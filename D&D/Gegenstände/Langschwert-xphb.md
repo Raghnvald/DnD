@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Longsword
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Longsword
 tags:

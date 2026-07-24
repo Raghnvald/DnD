@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 9)
 Kategorie: Schriftrolle
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 9)
 tags:

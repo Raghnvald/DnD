@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kuh
+Original: Cow
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Kuh
-Original: Cow
 ---
 # Kuh
 *Handelsgut*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Staff (Level 1)
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Enspelled Staff (Level 1)
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silber
+Original: Silver
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM
@@ -13,9 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Silber
-  - Silver
-status: completed
-Original: Silver Sword
 ---
 # Silber
 *Handelsgut*

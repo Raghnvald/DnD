@@ -2,6 +2,8 @@
 Bezeichnung: Kampfstab
 Original: Quarterstaff
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1W6 Wucht
 Eigenschaften:
   - Vielseitig (1W8)

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of Harvests
-  - Champion of Harvests
 ---
 # Champion of Harvests
 *Piety Trait*  

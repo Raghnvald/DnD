@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kurzbogen
+Original: Shortbow
 Kategorie: Fernkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1d6 Stich
 Eigenschaften:
   - Geschosse
@@ -15,7 +18,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Kurzbogen
-Original: Shortbow
 ---
 # Kurzbogen
 *Einfache Fernkampfwaffe*  

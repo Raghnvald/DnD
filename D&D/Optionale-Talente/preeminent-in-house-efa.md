@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Preeminent in House
-  - Preeminent in House
 ---
 # Preeminent in House
 *Source: Eberron: Forge of the Artificer p. 68*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Handaxe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Handaxe
 tags:

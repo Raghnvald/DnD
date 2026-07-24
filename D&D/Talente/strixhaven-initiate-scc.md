@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Strixhaven Initiate
-  - Strixhaven Initiate
 ---
 # Strixhaven Initiate
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  

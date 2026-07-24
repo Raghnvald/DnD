@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Bracers of Defense
+Original: Bracers of Defense
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Bracers of Defense
 tags:

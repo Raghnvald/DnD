@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Lolth
-  - Lolth
 ---
 # Lolth
 *Source: Sword Coast Adventurer's Guide p. 23* 

@@ -3,9 +3,9 @@ Bezeichnung: Bane
 Status: WIP
 linter-yaml-title-alias: Bane
 tags:
-  - Kompendium/Götter/Domäne/Schmiede
-  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

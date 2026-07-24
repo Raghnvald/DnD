@@ -1,6 +1,7 @@
 ---
 Bezeichnung: Fallen finden
 Zaubergrad: 2
+Zeitaufwand: 1 Aktion
 Status: WIP
 linter-yaml-title-alias: Fallen finden
 classes:
@@ -18,7 +19,6 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Fallen finden
-Zeitaufwand: 1 Aktion
 ---
 # Fallen finden
 *2nd-level, Divination*  

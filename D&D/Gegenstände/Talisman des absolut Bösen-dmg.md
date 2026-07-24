@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Talisman of Ultimate Evil
-Kategorie: Wundersamer Gegenstand 
+Original: Talisman of Ultimate Evil
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Talisman of Ultimate Evil
 tags:

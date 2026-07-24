@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Agility
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Agility
 tags:

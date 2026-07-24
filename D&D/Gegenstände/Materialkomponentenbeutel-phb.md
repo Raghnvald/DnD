@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Materialkomponentenbeutel
+Original: Component Pouch
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM
@@ -12,7 +15,6 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/phb
 aliases:
-  - Component Pouch
   - Materialkomponentenbeutel
 ---
 # Materialkomponentenbeutel

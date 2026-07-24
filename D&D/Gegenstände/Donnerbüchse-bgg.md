@@ -2,6 +2,8 @@
 Bezeichnung: Donnerbüchse
 Original: Thunderbuss
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Schaden: 1d10 Schall
 Eigenschaften:
   - n/v

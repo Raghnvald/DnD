@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-thsot
 aliases:
   - Preface
-  - Preface
 ---
 # Preface
 *Source: Tales from the Yawning Portal: The Hidden Shrine of Tamoachan, p. 4* 

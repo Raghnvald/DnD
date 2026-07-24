@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Canaith Mandolin
+Original: Instrument of the Bards, Canaith Mandolin
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

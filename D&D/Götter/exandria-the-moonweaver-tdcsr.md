@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: The Moonweaver
 tags:
   - Kompendium/Götter/Domäne/Arkan
-  - Kompendium/Götter/Domäne/Mond
   - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Domäne/Mond
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

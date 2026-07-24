@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wraps of Dyamak (Awakened)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Wraps of Dyamak (Awakened)
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Museum
-  - Museum
 ---
 # Museum
 *Level 13 Bastion facility*  

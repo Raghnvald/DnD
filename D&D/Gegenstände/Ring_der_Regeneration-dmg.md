@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring der Regeneration
 Kategorie: Ring
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Magic Detection
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wand of Magic Detection
 tags:

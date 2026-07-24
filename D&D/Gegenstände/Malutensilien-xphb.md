@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Painter's Supplies"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Painter's Supplies"
 tags:

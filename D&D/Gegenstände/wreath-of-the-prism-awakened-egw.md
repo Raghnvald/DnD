@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wreath of the Prism (Awakened)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Wreath of the Prism (Awakened)
 tags:

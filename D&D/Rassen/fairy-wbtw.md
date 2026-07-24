@@ -7,7 +7,6 @@ tags:
   - Rasse/fairy
 aliases:
   - Fairy
-  - Fairy
 ---
 # Fairy
 *Source: The Wild Beyond the Witchlight p. 12*  

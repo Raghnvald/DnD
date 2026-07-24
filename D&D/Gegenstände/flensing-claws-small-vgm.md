@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Flensing Claws (Small)
+Original: Flensing Claws (Small)
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Flensing Claws (Small)
 tags:

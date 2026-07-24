@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Mind Crystal (Quickened)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Mind Crystal (Quickened)
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Slumbering Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Slumbering Dragon-Touched Focus
 tags:

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Starshot Crossbow
+Original: Starshot Crossbow
 Kategorie: Fernkampfwaffe, beliebige Armbrust
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Original: Starshot Crossbow
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Starshot Crossbow

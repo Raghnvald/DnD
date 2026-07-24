@@ -1,5 +1,8 @@
 ---
 Bezeichnung: "Dragon's Blood"
+Original: "Dragon's Blood"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Dragon's Blood"
 tags:

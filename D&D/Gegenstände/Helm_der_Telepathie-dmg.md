@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Helm of Telepathy
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Helm of Telepathy
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Leinen (1m²)
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Leinen (1m²)
 tags:

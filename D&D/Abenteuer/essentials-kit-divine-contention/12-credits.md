@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dc
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Essentials Kit: Divine Contention* 

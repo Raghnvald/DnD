@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Luba's Tarokka of Souls"
-Kategorie: Wundersamer Gegenstand 
+Original: "Luba's Tarokka of Souls"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: "Luba's Tarokka of Souls"
 tags:

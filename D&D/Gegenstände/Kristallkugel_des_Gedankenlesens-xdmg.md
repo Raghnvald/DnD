@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Crystal Ball of Mind Reading
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Crystal Ball of Mind Reading
 tags:

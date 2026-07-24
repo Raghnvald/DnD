@@ -1,11 +1,15 @@
 ---
 Bezeichnung: Heiltrank
+Original: Potion of Healing
 Kategorie: Trank
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
-  - /
+  - n/v
+Einstimmung: n/v
 Kst.: 50 GM
 Gew.: 0,25 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Heiltrank
 tags:
   - Gegenstand/Seltenheit/gewöhnlich
@@ -13,7 +17,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Heiltrank
-  - Potion of Healing
 ---
 # Heiltrank
 *Trank, gewöhnlich*  

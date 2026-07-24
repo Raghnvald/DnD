@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ruderboot
+Original: Rowboat
 Kategorie: Luft- und Wasserfahrzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

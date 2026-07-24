@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Greater Absorption
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Greater Absorption
 tags:

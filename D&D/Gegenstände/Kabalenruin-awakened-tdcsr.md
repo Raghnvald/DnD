@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Cabal's Ruin (Awakened)"
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: "Cabal's Ruin (Awakened)"
 tags:

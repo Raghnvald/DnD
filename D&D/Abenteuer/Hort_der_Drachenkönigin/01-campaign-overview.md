@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hotdq
 aliases:
   - Campaign Overview
-  - Campaign Overview
 ---
 # Campaign Overview
 *Source: Hoard of the Dragon Queen, p. 6* 

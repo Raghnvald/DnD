@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/hfstcm
 aliases:
   - Charm of the Stumblenoodle
-  - Charm of the Stumblenoodle
 ---
 # Charm of the Stumblenoodle
 

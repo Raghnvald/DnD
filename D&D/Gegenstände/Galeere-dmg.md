@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Galeere
+Original: Galley
 Kategorie: Luft- und Wasserfahrzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 30.000 GM

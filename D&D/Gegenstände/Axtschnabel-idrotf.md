@@ -2,6 +2,8 @@
 Bezeichnung: Axtschnabel
 Original: Axebeak
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

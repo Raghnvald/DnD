@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subclass/oath-of-glory
 aliases:
   - Spells for Oath of Glory
-  - Spells for Oath of Glory
 ---
 # Spells for Oath of Glory
 

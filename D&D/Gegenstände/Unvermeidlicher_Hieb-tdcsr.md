@@ -2,6 +2,8 @@
 Bezeichnung: Unvermeidlicher Hieb
 Original: Inescapable Lash
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Unvermeidlicher Hieb
 tags:

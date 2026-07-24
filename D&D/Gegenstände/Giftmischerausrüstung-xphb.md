@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Poisoner's Kit"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Poisoner's Kit"
 tags:

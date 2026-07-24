@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ring of Amity
+Original: Ring of Amity
 Kategorie: Ring
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

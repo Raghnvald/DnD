@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Riding Horse
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Riding Horse
 tags:

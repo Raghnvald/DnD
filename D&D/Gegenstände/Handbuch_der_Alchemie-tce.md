@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Alchemical Compendium
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Alchemical Compendium
 tags:

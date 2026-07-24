@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Energiezelle
+Original: Energy Cell
 Kategorie: Munition
+Seltenheit:
+  - keine
 Eigenschaften:
   - Munition
 Kst.: n/v
@@ -14,7 +17,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Energiezelle
-status: WIP
 ---
 # Energiezelle
 *Ammunition (firearm)*  

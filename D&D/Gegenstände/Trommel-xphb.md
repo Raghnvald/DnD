@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Drum
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Drum
 tags:

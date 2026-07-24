@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Mind Crystal (Subtle)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Mind Crystal (Subtle)
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Star Razor (Dormant)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Star Razor (Dormant)
 tags:

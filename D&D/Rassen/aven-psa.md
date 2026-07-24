@@ -7,7 +7,6 @@ tags:
   - Rasse/aven
 aliases:
   - Aven
-  - Aven
 ---
 # Aven
 *Source: Plane Shift: Amonkhet p. 15*  

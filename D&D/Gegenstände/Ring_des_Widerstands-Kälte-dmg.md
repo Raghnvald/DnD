@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Kältewiderstands
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring des Kältewiderstands
 tags:

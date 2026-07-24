@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Helm of Underwater Action
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Helm of Underwater Action
 tags:

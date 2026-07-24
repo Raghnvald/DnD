@@ -2,11 +2,13 @@
 Bezeichnung: Tanzendes Schwert
 Original: Dancing Sword
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - sehr selten
 Schaden: variiert
 Eigenschaften:
   - variiert
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: variiert
 Status: completed
 linter-yaml-title-alias: Tanzendes Schwert

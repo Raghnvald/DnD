@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chalcedony
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Chalcedony
 tags:

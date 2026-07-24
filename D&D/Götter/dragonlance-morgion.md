@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Morgion
-  - Morgion
 ---
 # Morgion
 *Source: Dragonlance: Shadow of the Dragon Queen p. 18* 

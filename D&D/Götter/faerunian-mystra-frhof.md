@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Mystra
-  - Mystra
   - Our Lady of Spells
   - The Lady of Mysteries
   - The Mother of All Magic

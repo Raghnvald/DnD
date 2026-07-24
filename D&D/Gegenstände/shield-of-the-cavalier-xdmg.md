@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Shield of the Cavalier
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Shield of the Cavalier

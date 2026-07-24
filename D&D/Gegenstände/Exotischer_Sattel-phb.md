@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Exotischer Sattel
+Original: Exotic Saddle
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 60 GM

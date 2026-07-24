@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Lunitari
-  - Lunitari
 ---
 # Lunitari
 *Source: Dragonlance: Shadow of the Dragon Queen p. 16* 

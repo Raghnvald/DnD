@@ -2,6 +2,8 @@
 Bezeichnung: Hammer des Blitzschlags
 Original: Hammer of Thunderbolts
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Hammer des Blitzschlags
 tags:

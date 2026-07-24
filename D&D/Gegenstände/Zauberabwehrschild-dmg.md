@@ -1,15 +1,17 @@
 ---
 Bezeichnung: Zauberabwehrschild
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schild
 Eigenschaften:
   - n/v
+Einstimmung: erforderlich
 Kst.: n/v
 Gew.: 3,0 kg
 RK: 2
 STR: n/v
 Heiml.: n/v
-Einstimmung: erforderlich
 Status: completed
 linter-yaml-title-alias: Zauberabwehrschild
 tags:

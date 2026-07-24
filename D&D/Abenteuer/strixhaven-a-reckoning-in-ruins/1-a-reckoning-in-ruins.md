@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc-arir
 aliases:
   - A Reckoning in Ruins
-  - A Reckoning in Ruins
 ---
 # A Reckoning in Ruins
 *Source: Strixhaven: A Reckoning in Ruins, p. 157* 

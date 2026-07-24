@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Talisman of Ultimate Evil
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Talisman of Ultimate Evil
 tags:

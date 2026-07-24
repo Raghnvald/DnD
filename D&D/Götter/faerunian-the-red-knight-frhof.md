@@ -10,7 +10,6 @@ aliases:
   - The Grandmaster of the Lanceboard
   - The Lady of Strategy
   - The Red Knight
-  - The Red Knight
 ---
 # The Red Knight
 *Source: Forgotten Realms: Heroes of Faerûn p. 118* 

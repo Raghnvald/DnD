@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Bracelet of Rock Magic
+Original: Bracelet of Rock Magic
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Bracelet of Rock Magic
 tags:

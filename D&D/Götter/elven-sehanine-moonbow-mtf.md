@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Sehanine Moonbow
 tags:
   - Kompendium/Götter/Domäne/Grab
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

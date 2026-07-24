@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - The Fiend of Hollow Mine
-  - The Fiend of Hollow Mine
 ---
 # The Fiend of Hollow Mine
 *Source: Journeys through the Radiant Citadel, p. 48* 

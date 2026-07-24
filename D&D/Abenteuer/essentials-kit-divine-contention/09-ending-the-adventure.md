@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/dc
 aliases:
   - Ending the Adventure
-  - Ending the Adventure
 ---
 # Ending the Adventure
 *Source: Essentials Kit: Divine Contention* 

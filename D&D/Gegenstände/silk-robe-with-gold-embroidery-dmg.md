@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silk robe with gold embroidery
+Original: Silk robe with gold embroidery
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

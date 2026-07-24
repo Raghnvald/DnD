@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Manual of Stone Golems
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Manual of Stone Golems
 tags:

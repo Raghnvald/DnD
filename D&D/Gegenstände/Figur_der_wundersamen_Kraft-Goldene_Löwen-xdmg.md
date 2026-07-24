@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Golden Lions
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Golden Lions
 tags:

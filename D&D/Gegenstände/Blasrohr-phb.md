@@ -2,6 +2,8 @@
 Bezeichnung: Blasrohr
 Original: Blowgun
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1 Stich
 Eigenschaften:
   - Geschosse

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Set of gold nesting dolls
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Set of gold nesting dolls
 tags:

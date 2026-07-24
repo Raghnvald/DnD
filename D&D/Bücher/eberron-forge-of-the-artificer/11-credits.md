@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Eberron: Forge of the Artificer* 

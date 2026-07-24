@@ -8,10 +8,10 @@ HG: 7
 Status: WIP
 linter-yaml-title-alias: Githzerai Uniter
 tags:
-  - Quelle/5e/mpp
-  - Monster/HG/7
   - Monster/Größe/Mittelgroß
+  - Monster/HG/7
   - Monster/Typ/Aberration/gith
+  - Quelle/5e/mpp
 aliases:
   - Githzerai Uniter
 status: WIP

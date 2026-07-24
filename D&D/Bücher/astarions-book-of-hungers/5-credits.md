@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Astarion's Book of Hungers* 

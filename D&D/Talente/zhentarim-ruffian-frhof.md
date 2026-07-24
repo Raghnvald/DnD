@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Zhentarim Ruffian
-  - Zhentarim Ruffian
 ---
 # Zhentarim Ruffian
 *Source: Forgotten Realms: Heroes of Faerûn p. 38*  

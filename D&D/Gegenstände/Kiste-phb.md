@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Kiste
+Original: Chest
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM
 Gew.: 12,5 kg
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Kiste
 tags:
   - Gegenstand/Ausrüstung/

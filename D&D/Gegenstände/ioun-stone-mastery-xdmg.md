@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Mastery
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Mastery
 tags:

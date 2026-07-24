@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Erevan Ilesere
-  - Erevan Ilesere
 ---
 # Erevan Ilesere
 *Source: Sword Coast Adventurer's Guide p. 23* 

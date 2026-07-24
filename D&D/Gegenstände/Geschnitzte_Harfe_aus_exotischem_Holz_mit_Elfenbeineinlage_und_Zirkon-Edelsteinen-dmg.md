@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Carved harp of exotic wood with ivory inlay and zircon gems
+Original: Carved harp of exotic wood with ivory inlay and zircon gems
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

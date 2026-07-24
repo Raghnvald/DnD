@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cinnamon
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Cinnamon
 tags:

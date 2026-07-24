@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Quaal's Federfigur"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Quaal's Federfigur"
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/psa
 aliases:
   - Vizier
-  - Vizier
 ---
 # Vizier
 *Source: Plane Shift: Amonkhet p. 10*  

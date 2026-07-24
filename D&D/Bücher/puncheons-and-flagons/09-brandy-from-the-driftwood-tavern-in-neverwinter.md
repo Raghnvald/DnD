@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Brandy from The Driftwood Tavern in Neverwinter
-  - Brandy from The Driftwood Tavern in Neverwinter
 ---
 # Brandy from The Driftwood Tavern in Neverwinter
 *Source: Puncheons and Flagons, p. 100* 

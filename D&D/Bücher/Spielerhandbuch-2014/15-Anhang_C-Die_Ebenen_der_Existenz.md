@@ -1,11 +1,11 @@
 ---
-Bezeichnung: The Planes of Existence
+Bezeichnung: Die Ebenen der Existenz
 Status: completed
-linter-yaml-title-alias: The Planes of Existence
+linter-yaml-title-alias: Die Ebenen der Existenz
 tags:
   - Quelle/5e/phb
 aliases:
-  - The Planes of Existence
+  - Die Ebenen der Existenz
 ---
 # Die Ebenen der Existenz
 *Quelle: Spielerhandbuch (2014), S. 300* 

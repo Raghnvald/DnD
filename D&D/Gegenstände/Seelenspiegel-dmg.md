@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mirror of Life Trapping
-Kategorie: Wundersamer Gegenstand 
+Original: Mirror of Life Trapping
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Mirror of Life Trapping
 tags:

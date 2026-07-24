@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Binding
+Original: Wand of Binding
 Kategorie: Zauberstab
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Binding
 tags:

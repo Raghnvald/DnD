@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Glasbläserwerkzeuge
+Original: "Glassblower's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 30 GM

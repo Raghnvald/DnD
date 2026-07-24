@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of Striking
+Original: Staff of Striking
 Kategorie: Zauberstecken
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
@@ -15,7 +18,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Staff of Striking
-Original: Staff of Striking
 ---
 # Staff of Striking
 *Staff, weapon, major, very rare (requires attunement)*  

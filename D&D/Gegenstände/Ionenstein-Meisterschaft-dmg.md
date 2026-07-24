@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Mastery
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Mastery
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Mastery
 tags:

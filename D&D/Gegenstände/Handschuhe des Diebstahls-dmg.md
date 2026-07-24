@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gloves of Thievery
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Gloves of Thievery
 tags:

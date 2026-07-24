@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wtthc
 aliases:
   - Scream of the Crop
-  - Scream of the Crop
 ---
 # Scream of the Crop
 *Source: Stranger Things: Welcome to the Hellfire Club* 

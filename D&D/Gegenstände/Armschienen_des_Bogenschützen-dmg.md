@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Bracers of Archery
+Original: Bracers of Archery
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Bracers of Archery
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schwarze Perle
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 500 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schwarze Perle
-status: WIP
 ---
 # Schwarze Perle
 *Schatz (Edelstein)*  

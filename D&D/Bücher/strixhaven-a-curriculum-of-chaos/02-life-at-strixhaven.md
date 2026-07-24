@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Life at Strixhaven
-  - Life at Strixhaven
 ---
 # Life at Strixhaven
 *Source: Strixhaven: A Curriculum of Chaos, p. 9* 

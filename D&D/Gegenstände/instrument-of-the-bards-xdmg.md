@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of the Bards
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Instrument of the Bards
 tags:

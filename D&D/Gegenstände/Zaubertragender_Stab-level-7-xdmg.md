@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Staff (Level 7)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Enspelled Staff (Level 7)
 tags:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mabjov
 aliases:
   - Monsters
-  - Monsters
 ---
 # Monsters
 *Source: Minsc and Boo's Journal of Villainy, p. 131* 

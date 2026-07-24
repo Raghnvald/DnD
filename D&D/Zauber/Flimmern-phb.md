@@ -2,8 +2,12 @@
 Bezeichnung: Flimmern
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
+Reichweite:
+Komponenten:
+Wirkungsdauer:
+Schaden:
 Status: WIP
-linter-yaml-title-alias: Blink
+linter-yaml-title-alias: Flimmern
 classes:
   - Bard (Magical Secrets)
   - Cleric (Trickery Domain)
@@ -24,11 +28,7 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
 aliases:
-  - Blink
-Reichweite:
-Komponenten:
-Wirkungsdauer:
-Schaden:
+  - Flimmern
 ---
 # Flimmern
 *3rd-level, Transmutation*  

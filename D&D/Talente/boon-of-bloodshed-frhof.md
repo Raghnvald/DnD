@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Boon of Bloodshed
-  - Boon of Bloodshed
 ---
 # Boon of Bloodshed
 *Source: Forgotten Realms: Heroes of Faerûn p. 42*  

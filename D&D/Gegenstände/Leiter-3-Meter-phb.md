@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Leiter (3 Meter)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Leiter (3 Meter)
 tags:

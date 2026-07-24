@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Cannith Heir
-  - House Cannith Heir
 ---
 # House Cannith Heir
 *Source: Eberron: Forge of the Artificer p. 27*  

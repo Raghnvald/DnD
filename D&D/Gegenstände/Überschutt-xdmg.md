@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Whelm
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Whelm
 tags:

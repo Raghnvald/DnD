@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Sustenance
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Sustenance
 tags:

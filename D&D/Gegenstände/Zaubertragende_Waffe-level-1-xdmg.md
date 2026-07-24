@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 1)
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Enspelled Weapon (Level 1)
 tags:

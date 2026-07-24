@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Feiner Wein (Flasche)
 Kategorie: Essen und Trinken
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

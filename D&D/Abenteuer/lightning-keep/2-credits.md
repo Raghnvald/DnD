@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lk
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Lightning Keep* 

@@ -3,8 +3,8 @@ Bezeichnung: Bleredd
 Status: WIP
 linter-yaml-title-alias: Bleredd
 tags:
-  - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/Domäne/Licht
+  - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/gnome
   - Quelle/5e/mtf
 aliases:

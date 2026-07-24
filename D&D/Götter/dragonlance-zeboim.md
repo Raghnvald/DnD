@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Zeboim
-  - Zeboim
 ---
 # Zeboim
 *Source: Dragonlance: Shadow of the Dragon Queen p. 19* 

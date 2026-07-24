@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Sage's Signet (Serpent)"
+Original: "Sage's Signet (Serpent)"
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Zauberwirker
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Serpent)"
-status: WIP
 ---
 # Sage's Signet (Serpent)
 *Ring, rare (requires attunement by a spellcaster)*  

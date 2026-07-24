@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Jeweler's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Jeweler's Tools"
 tags:

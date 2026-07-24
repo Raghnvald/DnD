@@ -2,10 +2,13 @@
 Bezeichnung: Drachentöter
 Original: Dragon Slayer
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - selten
 Schaden: variiert
 Eigenschaften:
-  - n/v
-Kst.: n/v
+  - Bezeichnung
+  - variiert
+Kst.: 5.000 GM
 Gew.: variiert
 Status: WIP
 linter-yaml-title-alias: Drachentöter

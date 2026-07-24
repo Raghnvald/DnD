@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Weapon (Level 8)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Enspelled Weapon (Level 8)
 tags:

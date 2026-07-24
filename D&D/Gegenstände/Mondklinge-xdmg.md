@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Moonblade
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Moonblade
 tags:

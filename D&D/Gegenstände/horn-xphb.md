@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Horn
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Horn
 tags:

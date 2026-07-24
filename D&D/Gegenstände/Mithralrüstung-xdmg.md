@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Mithral Armor
+Seltenheit:
+  - keine
 Rüstung: Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Mithral Armor

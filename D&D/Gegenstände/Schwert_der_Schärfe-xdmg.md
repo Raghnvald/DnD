@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sword of Sharpness
 Kategorie: Nahkampf-Kriegswaffe (generisch)
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Sword of Sharpness
 tags:

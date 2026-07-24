@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Trail of Destruction
-  - Trail of Destruction
 ---
 # Trail of Destruction
 *Source: Journeys through the Radiant Citadel, p. 106* 

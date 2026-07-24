@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Pyroconverger
-Kategorie: Wundersamer Gegenstand 
+Original: Pyroconverger
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Pyroconverger
 tags:

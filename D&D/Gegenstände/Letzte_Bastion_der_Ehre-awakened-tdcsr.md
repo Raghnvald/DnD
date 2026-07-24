@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Honor's Last Stand (Awakened)"
+Seltenheit:
+  - legendär
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: "Honor's Last Stand (Awakened)"

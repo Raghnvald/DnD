@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Crew
-  - Crew
 ---
 # Crew
 *Source: Astral Adventurer's Guide p. 24* 

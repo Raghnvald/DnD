@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Feuerschale der Feuerelementar-Herrschaft
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Feuerschale der Feuerelementar-Herrschaft
 tags:

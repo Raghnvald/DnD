@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Vergadain
-  - Vergadain
 ---
 # Vergadain
 *Source: Sword Coast Adventurer's Guide p. 22* 

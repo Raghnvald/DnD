@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Card Sharp's Deck"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Card Sharp's Deck"
 tags:

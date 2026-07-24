@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Buch der niederträchtigen Dunkelheit
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Buch der niederträchtigen Dunkelheit
 tags:

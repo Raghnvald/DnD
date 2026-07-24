@@ -7,7 +7,6 @@ tags:
   - Rasse/merfolk
 aliases:
   - Merfolk
-  - Merfolk
 ---
 # Merfolk
 *Source: Plane Shift: Zendikar p. 13, Plane Shift: Ixalan p. 12*  

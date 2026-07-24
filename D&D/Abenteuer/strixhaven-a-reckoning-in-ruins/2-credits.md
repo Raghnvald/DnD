@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc-arir
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Strixhaven: A Reckoning in Ruins* 

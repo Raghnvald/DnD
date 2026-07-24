@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Handheld mirror set in a painted wooden frame
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Handheld mirror set in a painted wooden frame
 tags:

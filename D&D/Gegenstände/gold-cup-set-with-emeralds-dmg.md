@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold cup set with emeralds
+Original: Gold cup set with emeralds
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

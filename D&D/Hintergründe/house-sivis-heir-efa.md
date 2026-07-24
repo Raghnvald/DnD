@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Sivis Heir
-  - House Sivis Heir
 ---
 # House Sivis Heir
 *Source: Eberron: Forge of the Artificer p. 31*  

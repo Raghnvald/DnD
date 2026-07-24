@@ -2,6 +2,8 @@
 Bezeichnung: Flail of Tiamat
 Original: Flail of Tiamat
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Flail of Tiamat
 tags:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hffotm
 aliases:
   - Sigil
-  - Sigil
 ---
 # Sigil
 *Source: Heroes' Feast Flavors of the Multiverse, p. 153* 

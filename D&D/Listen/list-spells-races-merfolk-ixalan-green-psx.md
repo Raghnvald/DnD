@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subrace/merfolk-ixalan-green
 aliases:
   - Spells for Merfolk (Ixalan; Green)
-  - Spells for Merfolk (Ixalan; Green)
 ---
 # Spells for Merfolk (Ixalan; Green)
 

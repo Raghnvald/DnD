@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Fine Wine (bottle)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Fine Wine (bottle)
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bag of Beans
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Bag of Beans
 tags:

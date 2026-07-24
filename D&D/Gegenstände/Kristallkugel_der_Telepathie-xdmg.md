@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Crystal Ball of Telepathy
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Crystal Ball of Telepathy
 tags:

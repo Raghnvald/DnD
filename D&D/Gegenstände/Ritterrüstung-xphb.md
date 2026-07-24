@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Plate Armor
+Seltenheit:
+  - keine
 Rüstung: Schwer
 Status: WIP
 linter-yaml-title-alias: Plate Armor

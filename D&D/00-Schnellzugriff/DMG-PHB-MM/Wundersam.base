@@ -29,6 +29,8 @@ views:
       - Kst.
       - Gew.
       - Eigenschaften
+      - Einstimmung
+      - Original
     sort:
       - property: formula.Name
         direction: ASC

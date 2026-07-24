@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Vial of Stardust
+Original: Vial of Stardust
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Vial of Stardust
 tags:

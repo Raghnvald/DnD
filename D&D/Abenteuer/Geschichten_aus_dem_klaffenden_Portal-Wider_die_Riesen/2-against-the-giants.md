@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-atg
 aliases:
   - Against the Giants
-  - Against the Giants
 ---
 # Against the Giants
 *Source: Tales from the Yawning Portal: Against the Giants, p. 165* 

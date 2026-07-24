@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Deck of Illusions
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Deck of Illusions
 tags:

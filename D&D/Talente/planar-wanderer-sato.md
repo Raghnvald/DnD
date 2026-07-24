@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/sato
 aliases:
   - Planar Wanderer
-  - Planar Wanderer
 ---
 # Planar Wanderer
 *Source: Sigil and the Outlands p. 11*  

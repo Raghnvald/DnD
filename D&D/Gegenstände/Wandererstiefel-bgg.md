@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Wayfarer's Boots"
-Kategorie: Wundersamer Gegenstand 
+Original: "Wayfarer's Boots"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Wayfarer's Boots"
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Portable Ram
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Portable Ram
 tags:

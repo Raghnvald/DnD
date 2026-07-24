@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/sanctum-charm
 aliases:
   - Spells for Sanctum Charm
-  - Spells for Sanctum Charm
 ---
 # Spells for Sanctum Charm
 

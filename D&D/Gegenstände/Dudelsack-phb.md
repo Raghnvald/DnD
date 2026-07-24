@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Dudelsack
+Original: Bagpipes
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 30 GM

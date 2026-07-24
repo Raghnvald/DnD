@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-invisibility
 aliases:
   - Spells for Charm of Invisibility
-  - Spells for Charm of Invisibility
 ---
 # Spells for Charm of Invisibility
 

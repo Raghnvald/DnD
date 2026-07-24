@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Blue Spinel
+Seltenheit:
+  - keine
 Kst.: 500 GM
 Gew.: /
 Status: WIP

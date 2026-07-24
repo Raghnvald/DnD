@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Manual of Gainful Exercise
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Manual of Gainful Exercise
 tags:

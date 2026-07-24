@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wagon
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Wagon
 tags:

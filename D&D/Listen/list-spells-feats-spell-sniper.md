@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/spell-sniper
 aliases:
   - Spells for Spell Sniper
-  - Spells for Spell Sniper
 ---
 # Spells for Spell Sniper
 

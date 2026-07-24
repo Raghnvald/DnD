@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold music box
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gold music box
 tags:

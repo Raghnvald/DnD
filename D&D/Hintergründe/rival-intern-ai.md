@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/ai
 aliases:
   - Rival Intern
-  - Rival Intern
 ---
 # Rival Intern
 *Source: Acquisitions Incorporated p. 51*  

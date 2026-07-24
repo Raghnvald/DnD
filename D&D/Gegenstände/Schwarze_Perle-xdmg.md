@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Black Pearl
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Black Pearl
 tags:

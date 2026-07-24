@@ -2,11 +2,13 @@
 Bezeichnung: Schwert der Schärfe
 Original: Sword of Sharpness
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - sehr selten
 Schaden: variiert
 Eigenschaften:
   - variiert
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: variiert
 Status: completed
 linter-yaml-title-alias: Schwert der Schärfe

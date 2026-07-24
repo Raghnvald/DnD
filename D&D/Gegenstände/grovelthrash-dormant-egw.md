@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Grovelthrash (Dormant)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Grovelthrash (Dormant)
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Astromancy Archive
+Original: Astromancy Archive
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Astromancy Archive
 tags:

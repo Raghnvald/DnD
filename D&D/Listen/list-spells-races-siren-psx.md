@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/race/siren
 aliases:
   - Spells for Siren
-  - Spells for Siren
 ---
 # Spells for Siren
 

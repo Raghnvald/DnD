@@ -9,7 +9,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Labelas Enoreth
-  - Labelas Enoreth
 ---
 # Labelas Enoreth
 *Source: Sword Coast Adventurer's Guide p. 23* 

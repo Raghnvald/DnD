@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Zweihandschwert
+Original: Greatsword
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 2d6 Hieb
 Eigenschaften:
   - Schwer
@@ -18,7 +21,6 @@ aliases:
   - Greatsword
   - Zweihandschwert
 status: WIP
-Original: Greatsword
 ---
 # Zweihandschwert
 *Nahkampf-Kriegswaffe*  

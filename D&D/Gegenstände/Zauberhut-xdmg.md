@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hat of Wizardry
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Hat of Wizardry
 tags:

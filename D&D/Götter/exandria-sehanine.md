@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Sehanine
 tags:
   - Kompendium/Götter/Domäne/Arkan
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

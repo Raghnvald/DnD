@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pig
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pig
 tags:

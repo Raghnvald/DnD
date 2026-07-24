@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Handtrommel
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

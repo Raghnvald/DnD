@@ -1,7 +1,11 @@
 ---
 Bezeichnung: Speer der Heimtücke
+Original: Spear of Backbiting
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - sehr selten
 Einstimmung: erforderlich
+Kst.: 50.000 GM
 Status: WIP
 linter-yaml-title-alias: Speer der Heimtücke
 tags:
@@ -13,7 +17,6 @@ tags:
 aliases:
   - Speer der Heimtücke
 status: WIP
-Original: Spear of Backbiting
 ---
 # Speer der Heimtücke
 *Weapon (spear), cursed item, very rare (requires attunement)*  

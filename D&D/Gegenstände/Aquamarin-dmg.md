@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Aquamarin
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 500 GM

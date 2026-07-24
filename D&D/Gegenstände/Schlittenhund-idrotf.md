@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schlittenhund
+Original: Sled Dog
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
@@ -16,7 +19,6 @@ aliases:
 Bew.: 12 m
 status: WIP
 Traglast: 360 Pfd.
-Original: Sled Dog
 ---
 # Schlittenhund
 *Reit- und Lasttiere*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Burglar's Pack"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Burglar's Pack"
 tags:

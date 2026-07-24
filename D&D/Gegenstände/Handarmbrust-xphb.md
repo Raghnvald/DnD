@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hand Crossbow
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Hand Crossbow
 tags:

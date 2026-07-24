@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of the Polis
-  - Champion of the Polis
 ---
 # Champion of the Polis
 *Piety Trait*  

@@ -8,7 +8,6 @@ tags:
 aliases:
   - He Who Endures
   - Ilmater
-  - Ilmater
   - The Crying God
   - The Rack-Broken Lord
 ---

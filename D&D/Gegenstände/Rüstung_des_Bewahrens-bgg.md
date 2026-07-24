@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rüstung des Bewahrens
+Original: Armor of Safeguarding
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Schwer
 Eigenschaften:
   - n/v

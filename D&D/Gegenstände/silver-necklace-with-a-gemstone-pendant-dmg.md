@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silver necklace with a gemstone pendant
+Original: Silver necklace with a gemstone pendant
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

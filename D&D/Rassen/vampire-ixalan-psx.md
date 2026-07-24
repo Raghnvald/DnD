@@ -7,7 +7,6 @@ tags:
   - Rasse/vampire/ixalan
 aliases:
   - Vampire (Ixalan)
-  - Vampire (Ixalan)
 ---
 # Vampire (Ixalan)
 *Source: Plane Shift: Ixalan p. 14*  

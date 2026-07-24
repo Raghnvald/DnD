@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sprig of Mistletoe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sprig of Mistletoe
 tags:

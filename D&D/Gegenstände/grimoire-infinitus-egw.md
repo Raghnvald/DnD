@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Grimoire Infinitus
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Grimoire Infinitus
 tags:

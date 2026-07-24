@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Horn of Valhalla
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Horn of Valhalla
 tags:

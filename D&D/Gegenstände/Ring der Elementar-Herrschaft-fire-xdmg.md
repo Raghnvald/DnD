@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Elemental Command (Fire)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ring of Elemental Command (Fire)
 tags:

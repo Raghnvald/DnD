@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bucket
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bucket
 tags:

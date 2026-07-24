@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Lash of Immolation
+Original: Lash of Immolation
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Lash of Immolation
 tags:
@@ -11,7 +14,6 @@ tags:
 aliases:
   - Lash of Immolation
 status: WIP
-Original: Lash of Immolation
 ---
 # Lash of Immolation
 *Weapon (whip), rare*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Antimagisches Feld
+Original: Antimagic Field
 Zaubergrad: 8
 Zeitaufwand: 1 Aktion
 Reichweite: selbst
@@ -23,7 +24,6 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Antimagisches Feld
-Original: Antimagic Field
 ---
 # Antimagisches Feld
 *Bann des 8. Grades*

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/td
 aliases:
   - Tarot Deck
-  - Tarot Deck
 ---
 # Tarot Deck
 *Source: Tarot Deck p. 9*  

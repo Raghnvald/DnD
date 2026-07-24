@@ -3,9 +3,9 @@ Bezeichnung: The Chained Oblivion
 Status: WIP
 linter-yaml-title-alias: The Chained Oblivion
 tags:
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Grab
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

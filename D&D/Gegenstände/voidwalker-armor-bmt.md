@@ -2,6 +2,8 @@
 Bezeichnung: Voidwalker Armor
 Original: Voidwalker Armor
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Leicht
 Eigenschaften:
   - Verflucht

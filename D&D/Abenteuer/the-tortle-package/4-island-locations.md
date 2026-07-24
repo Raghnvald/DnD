@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/ttp
 aliases:
   - Island Locations
-  - Island Locations
 ---
 # Island Locations
 *Source: The Tortle Package, p. 8* 

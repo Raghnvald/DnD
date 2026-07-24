@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Renaissance Bullets (10)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Renaissance Bullets (10)
 tags:

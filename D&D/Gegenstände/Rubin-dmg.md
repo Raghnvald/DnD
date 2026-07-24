@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rubin
+Original: Ruby
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5.000 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Rubin
-status: WIP
 ---
 # Rubin
 *Schatz (Edelstein)*  

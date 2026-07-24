@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Karten der Illusionen
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Karten der Illusionen
 tags:

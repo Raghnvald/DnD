@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of the War Mage
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Wand of the War Mage
 tags:

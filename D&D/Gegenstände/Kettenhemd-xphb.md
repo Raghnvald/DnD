@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chain Shirt
+Seltenheit:
+  - keine
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Chain Shirt

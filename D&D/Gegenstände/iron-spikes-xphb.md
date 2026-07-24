@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Iron Spikes
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Iron Spikes
 tags:

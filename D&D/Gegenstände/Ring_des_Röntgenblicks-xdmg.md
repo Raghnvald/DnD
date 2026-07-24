@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of X-ray Vision
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of X-ray Vision
 tags:

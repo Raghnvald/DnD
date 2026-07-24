@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Carved ivory statuette
+Seltenheit:
+  - keine
 Kst.: 250 GM
 Status: WIP
 linter-yaml-title-alias: Carved ivory statuette

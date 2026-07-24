@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Belt of Hill Giant Strength
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Belt of Hill Giant Strength
 tags:

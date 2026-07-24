@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Prismari Student
-  - Prismari Student
 ---
 # Prismari Student
 *Source: Strixhaven: A Curriculum of Chaos p. 32*  

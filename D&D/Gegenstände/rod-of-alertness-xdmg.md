@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rod of Alertness
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Rod of Alertness
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Howling Wind
-  - Howling Wind
 ---
 # Howling Wind
 *Environmental Hazard*  

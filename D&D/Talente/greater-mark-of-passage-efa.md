@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Greater Mark of Passage
-  - Greater Mark of Passage
 ---
 # Greater Mark of Passage
 *Source: Eberron: Forge of the Artificer p. 44*  

@@ -3,9 +3,9 @@ Bezeichnung: Selûne
 Status: WIP
 linter-yaml-title-alias: Selûne
 tags:
-  - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Dämmerung
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/forgotten-realms
   - Quelle/5e/phb
 aliases:

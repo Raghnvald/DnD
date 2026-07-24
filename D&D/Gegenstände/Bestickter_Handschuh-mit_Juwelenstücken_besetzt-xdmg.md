@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Embroidered glove set with jewel chips
+Seltenheit:
+  - keine
 Kst.: 2.500 GM
 Gew.: /
 Status: WIP

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Mythic Odysseys of Theros* 

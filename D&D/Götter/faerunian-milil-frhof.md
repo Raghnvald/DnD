@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Milil
-  - Milil
   - The Bard of Oghma
   - The First Poet
   - The Lord of All Songs

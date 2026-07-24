@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Lolth's Sting"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Lolth's Sting"
 tags:

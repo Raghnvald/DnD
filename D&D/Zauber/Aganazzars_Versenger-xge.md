@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Aganazzars Versenger
+Original: Aganazzars Scorcher
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: 45 Meter
@@ -31,7 +32,6 @@ tags:
   - Zauber/Schule/Hervorrufung
 aliases:
   - Aganazzars Versenger
-Original: Aganazzars Scorcher
 ---
 # Aganazzars Versenger
 *Hervorrufung des 2. Grades*

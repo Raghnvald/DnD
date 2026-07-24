@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Drachenschach-Spielsatz
+Original: Dragonchess Set
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

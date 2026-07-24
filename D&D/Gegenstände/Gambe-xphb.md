@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Viol
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Viol
 tags:

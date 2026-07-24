@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Copper Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Copper Dragon Scale Mail

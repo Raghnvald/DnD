@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kugel
+Original: Orb
 Kategorie: Fokus, Arkan
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 20 GM

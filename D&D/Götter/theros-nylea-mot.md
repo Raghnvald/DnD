@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Nylea
-  - Nylea
 ---
 # Nylea
 *Source: Mythic Odysseys of Theros p. 67* 

@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Jade
+Original: Jade
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 100 GM
 Gew.: n/v
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Jade
 tags:
   - Gegenstand/Ausrüstung/Schatz-Edelstein

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Heart Weaver's Primer"
-Kategorie: Wundersamer Gegenstand 
+Original: "Heart Weaver's Primer"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Heart Weaver's Primer"
 tags:

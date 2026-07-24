@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Crown of the Wrath Bringer
-Kategorie: Wundersamer Gegenstand 
+Original: Crown of the Wrath Bringer
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Crown of the Wrath Bringer
 tags:

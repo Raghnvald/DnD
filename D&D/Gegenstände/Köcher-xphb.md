@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Quiver
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Quiver
 tags:

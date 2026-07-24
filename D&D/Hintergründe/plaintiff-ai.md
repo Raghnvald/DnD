@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/ai
 aliases:
   - Plaintiff
-  - Plaintiff
 ---
 # Plaintiff
 *Source: Acquisitions Incorporated p. 50*  

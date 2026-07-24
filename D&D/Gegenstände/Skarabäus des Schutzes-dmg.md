@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Scarab of Protection
-Kategorie: Wundersamer Gegenstand 
+Original: Scarab of Protection
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Scarab of Protection
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Lash of Shadows (Awakened)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Lash of Shadows (Awakened)
 tags:

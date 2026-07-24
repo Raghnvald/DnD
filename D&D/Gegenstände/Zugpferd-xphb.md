@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Draft Horse
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Draft Horse
 tags:

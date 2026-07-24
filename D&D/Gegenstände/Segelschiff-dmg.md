@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Segelschiff
+Original: Sailing Ship
 Kategorie: Luft- und Wasserfahrzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10.000 GM

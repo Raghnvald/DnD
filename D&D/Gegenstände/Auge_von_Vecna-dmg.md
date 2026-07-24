@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Auge von Vecna
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Auge von Vecna
 tags:

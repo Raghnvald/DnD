@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Alchemiekrug
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Kst.: n/v

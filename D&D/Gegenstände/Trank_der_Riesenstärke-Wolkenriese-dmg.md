@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Cloud Giant Strength
+Original: Potion of Cloud Giant Strength
 Kategorie: Trank
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Potion of Cloud Giant Strength
 tags:

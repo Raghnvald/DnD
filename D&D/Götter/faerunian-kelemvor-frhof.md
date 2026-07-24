@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Kelemvor
-  - Kelemvor
   - The Judge of the Damned
   - The Lord of the Dead
 ---

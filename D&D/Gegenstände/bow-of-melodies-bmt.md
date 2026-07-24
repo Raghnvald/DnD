@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Bow of Melodies
+Original: Bowling of Melodies
 Kategorie: Fernkampfwaffe, beliebiger Bogen
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Original: Bowling of Melodies
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Bow of Melodies

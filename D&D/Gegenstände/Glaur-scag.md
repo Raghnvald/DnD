@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Glaur
+Original: Glaur
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

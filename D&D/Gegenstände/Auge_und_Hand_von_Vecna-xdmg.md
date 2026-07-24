@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Eye and Hand of Vecna
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Eye and Hand of Vecna
 tags:

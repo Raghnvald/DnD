@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Arawn
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Tod
   - Quelle/5e/phb
 aliases:
   - Arawn

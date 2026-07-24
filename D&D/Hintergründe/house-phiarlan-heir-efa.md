@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Phiarlan Heir
-  - House Phiarlan Heir
 ---
 # House Phiarlan Heir
 *Source: Eberron: Forge of the Artificer p. 31*  

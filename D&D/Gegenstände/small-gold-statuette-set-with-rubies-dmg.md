@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Small gold statuette set with rubies
+Original: Small gold statuette set with rubies
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

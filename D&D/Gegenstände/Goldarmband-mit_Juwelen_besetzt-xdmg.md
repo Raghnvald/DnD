@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bejeweled gold bracelet
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bejeweled gold bracelet
 tags:

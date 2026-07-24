@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Yarting
+Original: Yarting
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

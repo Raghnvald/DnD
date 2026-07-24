@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gauntlets of Ogre Power
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Gauntlets of Ogre Power
 tags:

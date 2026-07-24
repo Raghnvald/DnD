@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Shinare
-  - Shinare
 ---
 # Shinare
 *Source: Dragonlance: Shadow of the Dragon Queen p. 17* 

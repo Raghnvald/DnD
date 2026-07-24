@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Trank der Mächtigen Heilung
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Trank der Mächtigen Heilung
 tags:

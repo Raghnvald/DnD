@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kaufmannswaage
+Original: "Merchant's Scale"
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

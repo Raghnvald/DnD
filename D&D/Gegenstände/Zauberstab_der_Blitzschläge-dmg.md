@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Lightning Bolts
+Original: Wand of Lightning Bolts
 Kategorie: Zauberstab
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Lightning Bolts
 tags:

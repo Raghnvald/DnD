@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Warmth
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Ring of Warmth
 tags:

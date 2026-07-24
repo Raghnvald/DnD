@@ -3,12 +3,11 @@ Bezeichnung: Kruphix
 Status: WIP
 linter-yaml-title-alias: Kruphix
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/theros
   - Quelle/5e/mot
 aliases:
-  - Kruphix
   - Kruphix
 ---
 # Kruphix

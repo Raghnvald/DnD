@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Barking Box
+Original: Barking Box
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Barking Box
 tags:

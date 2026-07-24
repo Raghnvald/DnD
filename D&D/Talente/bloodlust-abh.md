@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Bloodlust
-  - Bloodlust
 ---
 # Bloodlust
 *Source: Astarion's Book of Hungers p. 9*  

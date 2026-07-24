@@ -8,10 +8,10 @@ HG: 11
 Status: WIP
 linter-yaml-title-alias: Death Embrace
 tags:
-  - Quelle/5e/crcotn
-  - Monster/HG/11
   - Monster/Größe/Riesig
+  - Monster/HG/11
   - Monster/Typ/Aberration
+  - Quelle/5e/crcotn
 aliases:
   - Death Embrace
 status: WIP

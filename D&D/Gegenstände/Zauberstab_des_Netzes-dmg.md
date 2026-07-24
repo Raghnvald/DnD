@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Web
+Original: Wand of Web
 Kategorie: Zauberstab
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wand of Web
 tags:

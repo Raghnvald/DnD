@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild des Schreiens
 Kategorie: Rüstung
+Seltenheit:
+  - unbekannt
 Rüstung: Schild
 Eigenschaften:
   - /

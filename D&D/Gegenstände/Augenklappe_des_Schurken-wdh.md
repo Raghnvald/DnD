@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Knave's Eye Patch"
+Original: "Knave's Eye Patch"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Knave's Eye Patch"
 tags:

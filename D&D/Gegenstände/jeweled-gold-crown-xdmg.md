@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Jeweled gold crown
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Jeweled gold crown
 tags:

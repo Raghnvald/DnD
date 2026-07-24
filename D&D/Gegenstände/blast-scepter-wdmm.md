@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Blast Scepter
+Original: Blast Scepter
 Kategorie: Zepter
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Blast Scepter
 tags:

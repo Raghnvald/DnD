@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rope
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Rope
 tags:

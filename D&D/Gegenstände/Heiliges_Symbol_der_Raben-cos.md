@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Holy Symbol of Ravenkind
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Holy Symbol of Ravenkind
 tags:

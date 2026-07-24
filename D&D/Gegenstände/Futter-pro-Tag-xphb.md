@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Feed (per day)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Feed (per day)
 tags:

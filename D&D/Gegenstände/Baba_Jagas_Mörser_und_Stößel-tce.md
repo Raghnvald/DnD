@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Baba Yaga's Mortar and Pestle"
+Original: "Baba Yaga's Mortar and Pestle"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: "Baba Yaga's Mortar and Pestle"
 tags:

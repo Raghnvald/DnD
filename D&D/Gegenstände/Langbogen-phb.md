@@ -2,6 +2,8 @@
 Bezeichnung: Langbogen
 Original: Longbow
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1d8 Stich
 Eigenschaften:
   - Geschosse

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-toh
 aliases:
   - Tomb of Horrors
-  - Tomb of Horrors
 ---
 # Tomb of Horrors
 *Source: Tales from the Yawning Portal: Tomb of Horrors, p. 211* 

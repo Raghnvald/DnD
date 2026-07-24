@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sardonyx
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sardonyx
 tags:

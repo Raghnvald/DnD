@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Thelanis, the Faerie Court
-  - Manifest Charm of Thelanis, the Faerie Court
 ---
 # Manifest Charm of Thelanis, the Faerie Court
 *Charm*  

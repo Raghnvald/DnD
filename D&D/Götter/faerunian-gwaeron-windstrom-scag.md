@@ -3,8 +3,8 @@ Bezeichnung: Gwaeron Windstrom
 Status: WIP
 linter-yaml-title-alias: Gwaeron Windstrom
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Natur
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:

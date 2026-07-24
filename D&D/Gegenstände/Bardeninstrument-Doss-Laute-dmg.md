@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Doss Lute
+Original: Instrument of the Bards, Doss Lute
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

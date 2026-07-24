@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gold locket with a painted portrait inside
+Original: Gold locket with a painted portrait inside
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 25 GM

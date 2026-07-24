@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chrysoberyl
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Chrysoberyl
 tags:

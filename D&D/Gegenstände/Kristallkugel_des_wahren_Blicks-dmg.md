@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kristallkugel des wahren Blicks
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Kristallkugel des wahren Blicks
 tags:

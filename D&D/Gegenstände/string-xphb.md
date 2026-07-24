@@ -1,5 +1,7 @@
 ---
 Bezeichnung: String
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: String
 tags:

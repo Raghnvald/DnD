@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schleifstein
+Original: Whetstone
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 KM

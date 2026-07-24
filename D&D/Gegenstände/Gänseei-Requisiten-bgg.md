@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gänseei-Requisiten
+Original: Goose Egg Trinket
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

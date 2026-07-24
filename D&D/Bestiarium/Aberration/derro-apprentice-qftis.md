@@ -8,10 +8,10 @@ HG: 1
 Status: WIP
 linter-yaml-title-alias: Derro Apprentice
 tags:
-  - Quelle/5e/qftis
-  - Monster/HG/1
   - Monster/Größe/Klein
+  - Monster/HG/1
   - Monster/Typ/Aberration
+  - Quelle/5e/qftis
 aliases:
   - Derro Apprentice
 status: WIP

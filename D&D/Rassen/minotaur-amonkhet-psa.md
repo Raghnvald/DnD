@@ -7,7 +7,6 @@ tags:
   - Rasse/minotaur/amonkhet
 aliases:
   - Minotaur (Amonkhet)
-  - Minotaur (Amonkhet)
 ---
 # Minotaur (Amonkhet)
 *Source: Plane Shift: Amonkhet p. 19*  

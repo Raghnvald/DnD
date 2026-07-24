@@ -2,6 +2,8 @@
 Bezeichnung: Sword of Answering (Scather)
 Original: Sword of Answering (Scather)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Sword of Answering (Scather)
 tags:

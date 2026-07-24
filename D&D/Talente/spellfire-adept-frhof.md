@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Spellfire Adept
-  - Spellfire Adept
 ---
 # Spellfire Adept
 *Source: Forgotten Realms: Heroes of Faerûn p. 41*  

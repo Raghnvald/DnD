@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bagpipes
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bagpipes
 tags:

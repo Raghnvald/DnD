@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Orb of Direction
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Orb of Direction
 tags:

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Angst verursachen
+Original: Cause Fear
 Zaubergrad: 1
 Zeitaufwand: 1 Aktion
 Reichweite: 18 Meter
@@ -30,7 +31,6 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Angst verursachen
-Original: Cause Fear
 ---
 # Angst verursachen
 *Nekromantie des 1. Grades*

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand Sheath
-Kategorie: Wundersamer Gegenstand 
+Original: Wand Sheath
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wand Sheath
 tags:

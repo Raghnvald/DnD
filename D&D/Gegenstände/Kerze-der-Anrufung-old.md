@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kerze der Anrufung
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Kerze der Anrufung
 tags:

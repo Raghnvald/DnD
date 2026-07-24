@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/sato
 aliases:
   - Cohort of Chaos
-  - Cohort of Chaos
 ---
 # Cohort of Chaos
 *Source: Sigil and the Outlands p. 10*  

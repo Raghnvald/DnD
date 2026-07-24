@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gold Dragon Scale Mail
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Gold Dragon Scale Mail

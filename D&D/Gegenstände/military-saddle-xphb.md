@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Military Saddle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Military Saddle
 tags:

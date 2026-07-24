@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Weaver's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Weaver's Tools"
 tags:

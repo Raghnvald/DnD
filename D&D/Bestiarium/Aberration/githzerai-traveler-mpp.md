@@ -8,10 +8,10 @@ HG: 3
 Status: WIP
 linter-yaml-title-alias: Githzerai Traveler
 tags:
-  - Quelle/5e/mpp
-  - Monster/HG/3
   - Monster/Größe/Mittelgroß
+  - Monster/HG/3
   - Monster/Typ/Aberration/gith
+  - Quelle/5e/mpp
 aliases:
   - Githzerai Traveler
 status: WIP

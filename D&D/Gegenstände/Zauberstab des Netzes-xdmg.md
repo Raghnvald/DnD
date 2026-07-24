@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Web
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Wand of Web
 tags:

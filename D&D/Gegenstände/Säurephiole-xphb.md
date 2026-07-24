@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Acid
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Acid
 tags:

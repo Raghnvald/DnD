@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Lasergewehr
+Original: Laser Rifle
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Lasergewehr
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Lasergewehr
 status: WIP
-Original: Laser Rifle
 ---
 # Lasergewehr
 *Weapon*  

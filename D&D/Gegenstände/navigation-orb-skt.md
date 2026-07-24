@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Navigation Orb
-Kategorie: Wundersamer Gegenstand 
+Original: Navigation Orb
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Navigation Orb
 tags:

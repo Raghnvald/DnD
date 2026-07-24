@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Realms of Gods and Mortals
-  - Realms of Gods and Mortals
 ---
 # Realms of Gods and Mortals
 *Source: Mythic Odysseys of Theros, p. 83* 

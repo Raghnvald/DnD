@@ -3,9 +3,9 @@ Bezeichnung: The Strife Emperor
 Status: WIP
 linter-yaml-title-alias: The Strife Emperor
 tags:
-  - Kompendium/Götter/Domäne/Schmiede
-  - Kompendium/Götter/Domäne/Ordnung
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Ordnung
+  - Kompendium/Götter/Domäne/Schmiede
   - Kompendium/Götter/Exandria
   - Quelle/5e/tdcsr
 aliases:

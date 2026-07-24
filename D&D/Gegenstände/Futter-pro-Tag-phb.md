@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Futter (pro Tag)
+Original: Feed (per day)
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Kst.: 5 KM

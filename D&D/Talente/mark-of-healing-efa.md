@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Mark of Healing
-  - Mark of Healing
 ---
 # Mark of Healing
 *Source: Eberron: Forge of the Artificer p. 40*  

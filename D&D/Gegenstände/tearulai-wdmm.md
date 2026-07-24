@@ -2,6 +2,8 @@
 Bezeichnung: Tearulai
 Original: Tearulai
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Tearulai
 tags:

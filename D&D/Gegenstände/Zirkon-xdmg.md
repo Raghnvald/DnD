@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Zircon
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Zircon
 tags:

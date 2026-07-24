@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Old masterpiece painting
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Old masterpiece painting
 tags:

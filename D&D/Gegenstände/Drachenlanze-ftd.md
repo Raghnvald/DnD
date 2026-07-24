@@ -2,9 +2,12 @@
 Bezeichnung: Drachenlanze
 Original: Dragonlance
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
+Kst.: n/v
 Status: WIP
 linter-yaml-title-alias: Drachenlanze
 tags:

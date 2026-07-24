@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wasserschlauch
+Original: Water Skin
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 SM

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Amulett
+Original: Amulet
 Kategorie: Fokus, Heiliges Symbol
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

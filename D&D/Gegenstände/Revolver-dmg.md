@@ -2,6 +2,8 @@
 Bezeichnung: Revolver
 Original: Revolver
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 2d8 Stich
 Eigenschaften:
   - Geschosse

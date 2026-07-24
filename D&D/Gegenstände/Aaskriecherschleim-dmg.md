@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Aaskriecherschleim
+Original: Carrion Crawler Mucus
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 200 GM

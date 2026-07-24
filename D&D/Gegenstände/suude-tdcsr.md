@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Suude
+Original: Suude
+Seltenheit:
+  - unbekannt
 Kst.: n/v
 Gew.: n/v
 Status: WIP

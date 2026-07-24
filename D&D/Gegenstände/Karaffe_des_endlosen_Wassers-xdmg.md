@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Decanter of Endless Water
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Decanter of Endless Water
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Feylost
-  - Feylost
 ---
 # Feylost
 *Source: The Wild Beyond the Witchlight p. 9*  

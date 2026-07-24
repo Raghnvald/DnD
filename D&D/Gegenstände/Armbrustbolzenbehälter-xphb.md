@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Crossbow Bolt Case
+Seltenheit:
+  - keine
 Kst.: 1 GM
 Gew.: 0,5 kg
 Status: WIP

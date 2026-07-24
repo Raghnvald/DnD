@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Tand aus Sarlona
+Original: Sarlona Trinket
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

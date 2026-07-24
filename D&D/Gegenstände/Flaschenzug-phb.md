@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Flaschenzug
+Original: Block and Tackle
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

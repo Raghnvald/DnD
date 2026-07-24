@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Painted gold child's sarcophagus"
+Original: "Painted gold child's sarcophagus"
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 7.500 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Map
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Map
 tags:

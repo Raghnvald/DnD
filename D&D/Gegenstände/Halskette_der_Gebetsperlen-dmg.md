@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Necklace of Prayer Beads
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Necklace of Prayer Beads
 tags:

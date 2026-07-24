@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Mulhorandi Tomb Raider
-  - Mulhorandi Tomb Raider
 ---
 # Mulhorandi Tomb Raider
 *Source: Forgotten Realms: Heroes of Faerûn p. 33*  

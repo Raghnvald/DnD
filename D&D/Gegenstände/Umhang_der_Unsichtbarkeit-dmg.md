@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Cloak of Invisibility
-Kategorie: Wundersamer Gegenstand 
+Original: Cloak of Invisibility
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Cloak of Invisibility
 tags:

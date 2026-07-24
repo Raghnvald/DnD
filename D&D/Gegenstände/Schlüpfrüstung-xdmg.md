@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cast-Off Armor
+Seltenheit:
+  - gewöhnlich
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Cast-Off Armor

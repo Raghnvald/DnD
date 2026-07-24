@@ -3,8 +3,8 @@ Bezeichnung: Torog
 Status: WIP
 linter-yaml-title-alias: Torog
 tags:
-  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Tod
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

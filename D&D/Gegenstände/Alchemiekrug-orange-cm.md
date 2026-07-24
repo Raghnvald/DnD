@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Alchemy Jug (Orange)
+Original: Alchemy Jug (Orange)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Status: WIP

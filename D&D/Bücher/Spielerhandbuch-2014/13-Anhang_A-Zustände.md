@@ -1,11 +1,11 @@
 ---
 Bezeichnung: Zustände
 Status: completed
-linter-yaml-title-alias: Conditions
+linter-yaml-title-alias: Zustände
 tags:
   - Quelle/5e/phb
 aliases:
-  - Conditions
+  - Zustände
 ---
 # Zustände
 *Quelle: Spielerhandbuch (2014), S. 289*

@@ -1,11 +1,13 @@
 ---
 Bezeichnung: Kleidung, Reise
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM
 Gew.: 2,0 kg
-Status: completed 
+Status: completed
 linter-yaml-title-alias: Kleidung, Reise
 tags:
   - Gegenstand/Ausrüstung/

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Banner of the Krig Rune
+Original: Banner of the Krig Rune
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Banner of the Krig Rune
 tags:

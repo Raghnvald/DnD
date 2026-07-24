@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Hewards Praktischer Rucksack "
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Hewards Praktischer Rucksack "
 tags:

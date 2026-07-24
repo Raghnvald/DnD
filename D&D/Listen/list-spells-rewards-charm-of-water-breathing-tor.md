@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-water-breathing
 aliases:
   - Spells for Charm of Water Breathing
-  - Spells for Charm of Water Breathing
 ---
 # Spells for Charm of Water Breathing
 

@@ -9,7 +9,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Urogalan
-  - Urogalan
 ---
 # Urogalan
 *Source: Sword Coast Adventurer's Guide p. 23* 

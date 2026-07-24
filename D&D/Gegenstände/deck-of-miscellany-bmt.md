@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Deck of Miscellany
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Deck of Miscellany
 tags:

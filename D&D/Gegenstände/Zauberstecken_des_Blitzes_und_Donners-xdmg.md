@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Staff of Thunder and Lightning
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Staff of Thunder and Lightning
 tags:

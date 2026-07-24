@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Street Justice
-  - Street Justice
 ---
 # Street Justice
 *Source: Forgotten Realms: Heroes of Faerûn p. 41*  

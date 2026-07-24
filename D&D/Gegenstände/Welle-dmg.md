@@ -2,6 +2,8 @@
 Bezeichnung: Welle
 Original: Wave
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Eigenschaften:
   - Vielseitig (1W8)
   - Wurfwaffe

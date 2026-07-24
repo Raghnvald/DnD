@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Backpack Parachute
+Original: Backpack Parachute
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Backpack Parachute
 tags:

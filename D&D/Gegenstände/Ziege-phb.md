@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ziege
+Original: Goat
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Ziege
-Original: Goat
 ---
 # Ziege
 *Handelsgut*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mighty Servant of Leuk-o
-Kategorie: Wundersamer Gegenstand 
+Original: Mighty Servant of Leuk-o
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Mighty Servant of Leuk-o
 tags:

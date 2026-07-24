@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silber (SM)
+Original: Silver (SP)
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM

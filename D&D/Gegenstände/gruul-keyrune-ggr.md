@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gruul Keyrune
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Gruul Keyrune
 tags:

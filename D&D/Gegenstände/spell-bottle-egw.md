@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Spell Bottle
-Kategorie: Wundersamer Gegenstand 
+Original: Spell Bottle
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Spell Bottle
 tags:

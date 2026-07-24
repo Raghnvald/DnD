@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Verfluchter Glücksstein
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Verfluchter Glücksstein
 tags:

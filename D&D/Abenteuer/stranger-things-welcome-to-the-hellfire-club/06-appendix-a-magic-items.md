@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wtthc
 aliases:
   - Appendix A - Magic Items
-  - Appendix A - Magic Items
 ---
 # Appendix A - Magic Items
 *Source: Stranger Things: Welcome to the Hellfire Club* 

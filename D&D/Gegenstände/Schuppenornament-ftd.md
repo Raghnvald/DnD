@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Scaled Ornament
-Kategorie: Wundersamer Gegenstand 
+Original: Scaled Ornament
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Scaled Ornament
 tags:

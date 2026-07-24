@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Erntemond
+Original: Harbor Moon
 Kategorie: Währung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM

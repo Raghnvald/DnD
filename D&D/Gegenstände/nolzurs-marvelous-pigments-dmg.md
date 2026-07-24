@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Nolzur's Marvelous Pigments"
-Kategorie: Wundersamer Gegenstand 
+Original: "Nolzur's Marvelous Pigments"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "Nolzur's Marvelous Pigments"
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/tor
 aliases:
   - Charm of Water Breathing
-  - Charm of Water Breathing
 ---
 # Charm of Water Breathing
 

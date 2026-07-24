@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Agony (Dormant)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: Agony (Dormant)
 tags:

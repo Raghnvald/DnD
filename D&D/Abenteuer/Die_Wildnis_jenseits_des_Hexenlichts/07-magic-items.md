@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Magic Items
-  - Magic Items
 ---
 # Magic Items
 *Source: The Wild Beyond the Witchlight, p. 208* 

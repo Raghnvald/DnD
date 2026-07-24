@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Mark of Shadow
-  - Mark of Shadow
 ---
 # Mark of Shadow
 *Source: Eberron: Forge of the Artificer p. 42*  

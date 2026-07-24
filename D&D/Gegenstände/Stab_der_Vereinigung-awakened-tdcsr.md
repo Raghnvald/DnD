@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spire of Conflux (Awakened)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Spire of Conflux (Awakened)
 tags:

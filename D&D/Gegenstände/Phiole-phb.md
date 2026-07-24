@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Phiole
+Original: Vial
 Kategorie: Behälter
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

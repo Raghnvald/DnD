@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sdw
 aliases:
   - Welcome to Leilon
-  - Welcome to Leilon
 ---
 # Welcome to Leilon
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/rmbre
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: The Lost Dungeon of Rickedness: Big Rick Energy* 

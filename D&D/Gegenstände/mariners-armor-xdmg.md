@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Mariner's Armor"
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: "Mariner's Armor"

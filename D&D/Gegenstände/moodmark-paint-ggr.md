@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Moodmark Paint
-Kategorie: Wundersamer Gegenstand 
+Original: Moodmark Paint
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Moodmark Paint
 tags:

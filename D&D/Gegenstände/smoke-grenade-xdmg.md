@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Smoke Grenade
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Smoke Grenade
 tags:

@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Eldritch Cannon
-  - Eldritch Cannon
 ---
 # Eldritch Cannon
 *Source: Eberron: Forge of the Artificer p. 16*  

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Titanstone Knuckles (Exalted)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Titanstone Knuckles (Exalted)
 tags:

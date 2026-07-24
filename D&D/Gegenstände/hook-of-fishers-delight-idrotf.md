@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Hook of Fisher's Delight"
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Hook of Fisher's Delight"
 tags:

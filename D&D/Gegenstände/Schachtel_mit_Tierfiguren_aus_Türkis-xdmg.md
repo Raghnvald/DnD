@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Box of turquoise animal figurines
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Box of turquoise animal figurines
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Vitality
+Original: Potion of Vitality
 Kategorie: Trank
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Potion of Vitality
 tags:

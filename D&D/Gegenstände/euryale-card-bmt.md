@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Euryale Card
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Euryale Card
 tags:

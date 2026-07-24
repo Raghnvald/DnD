@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Broken Vow
-  - Broken Vow
 ---
 # Broken Vow
 *Curse*  

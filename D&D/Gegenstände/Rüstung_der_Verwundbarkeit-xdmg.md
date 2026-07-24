@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Armor of Vulnerability
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Armor of Vulnerability
 tags:

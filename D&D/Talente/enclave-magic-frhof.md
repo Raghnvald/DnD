@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Enclave Magic
-  - Enclave Magic
 ---
 # Enclave Magic
 *Source: Forgotten Realms: Heroes of Faerûn p. 39*  

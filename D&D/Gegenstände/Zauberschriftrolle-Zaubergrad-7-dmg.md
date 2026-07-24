@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle (Zaubergrad 7)
 Kategorie: Schriftrolle
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 7)
 tags:

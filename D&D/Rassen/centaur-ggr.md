@@ -7,7 +7,6 @@ tags:
   - Rasse/centaur
 aliases:
   - Centaur
-  - Centaur
 ---
 # Centaur
 *Source: Guildmasters' Guide to Ravnica p. 15*  

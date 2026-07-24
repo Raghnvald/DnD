@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Armor of the Fallen
+Original: Armor of the Fallem
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Armor of the Fallen
@@ -22,7 +25,6 @@ aliases:
   - Scale Mail of the Fallen
   - Spiked Armor of the Fallen
   - Splint Armor of the Fallen
-Original: Armor of the Fallem
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  

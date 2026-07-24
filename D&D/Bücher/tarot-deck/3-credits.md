@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/td
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Tarot Deck, p. 48* 

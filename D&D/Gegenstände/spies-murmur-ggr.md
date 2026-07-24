@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Spies' Murmur"
-Kategorie: Wundersamer Gegenstand 
+Original: "Spies' Murmur"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Spies' Murmur"
 tags:

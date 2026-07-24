@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Rüstung der Verwundbarkeit (Wucht)
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Schwer
 Eigenschaften:
   - Verflucht

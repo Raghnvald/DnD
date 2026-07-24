@@ -1,6 +1,8 @@
 ---
 Bezeichnung: +1 Dragonhide Belt
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: +1 Dragonhide Belt
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Entdeckerausrüstung
+Original: "Explorer's Pack"
 Kategorie: Ausrüstungspaket
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

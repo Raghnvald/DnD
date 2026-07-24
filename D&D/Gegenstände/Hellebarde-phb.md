@@ -2,6 +2,8 @@
 Bezeichnung: Hellebarde
 Original: Halberd
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Hellebarde
 tags:

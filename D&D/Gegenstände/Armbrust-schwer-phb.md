@@ -2,6 +2,8 @@
 Bezeichnung: Schwere Armbrust
 Original: Heavy Crossbow
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1d10 Stich
 Eigenschaften:
   - Geschosse

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: +3 Wraps of Unarmed Prowess
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: +3 Wraps of Unarmed Prowess
 tags:

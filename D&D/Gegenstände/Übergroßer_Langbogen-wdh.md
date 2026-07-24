@@ -2,6 +2,8 @@
 Bezeichnung: Übergroßer Langbogen
 Original: Oversized Longbow
 Kategorie: Fernkampfwaffe, Kriegswaffe
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Übergroßer Langbogen
 tags:

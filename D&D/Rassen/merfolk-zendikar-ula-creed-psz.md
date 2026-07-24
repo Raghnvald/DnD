@@ -7,7 +7,6 @@ tags:
   - Rasse/merfolk/zendikar-ula-creed
 aliases:
   - Merfolk (Zendikar; Ula Creed)
-  - Merfolk (Zendikar; Ula Creed)
 ---
 # Merfolk (Zendikar; Ula Creed)
 *Source: Plane Shift: Zendikar p. 13*  

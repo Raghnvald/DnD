@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kleidung, fein
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 15 GM

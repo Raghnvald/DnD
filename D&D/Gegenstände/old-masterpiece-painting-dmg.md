@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Old masterpiece painting
+Original: Old masterpiece painting
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

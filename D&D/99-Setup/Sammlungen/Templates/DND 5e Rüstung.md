@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Name
 Kategorie:
+Seltenheit:
+  - keine
 Rüstung:
 Eigenschaften: []
 Kst.:

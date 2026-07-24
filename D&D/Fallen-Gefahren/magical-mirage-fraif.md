@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Magical Mirage
-  - Magical Mirage
 ---
 # Magical Mirage
 *Environmental Hazard*  

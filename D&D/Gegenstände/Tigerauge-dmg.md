@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Tigerauge
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM
@@ -13,7 +15,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Tigerauge
-status: WIP
 ---
 # Tigerauge
 *Schatz (Edelstein)*  

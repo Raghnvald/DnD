@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Riesische Requisiten
+Original: Giant Trinket
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Kyrzin's Ooze"
-Kategorie: Wundersamer Gegenstand 
+Original: "Kyrzin's Ooze"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "Kyrzin's Ooze"
 tags:

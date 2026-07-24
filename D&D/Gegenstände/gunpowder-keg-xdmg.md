@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Gunpowder (keg)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Gunpowder (keg)
 tags:

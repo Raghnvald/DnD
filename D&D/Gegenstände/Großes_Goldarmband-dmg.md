@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Large gold bracelet
+Original: Large gold bracelet
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

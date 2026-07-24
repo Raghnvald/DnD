@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Creating Theros Adventures
-  - Creating Theros Adventures
 ---
 # Creating Theros Adventures
 *Source: Mythic Odysseys of Theros, p. 109* 

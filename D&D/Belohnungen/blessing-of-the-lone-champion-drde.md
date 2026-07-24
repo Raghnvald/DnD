@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/drde
 aliases:
   - Blessing of the Lone Champion
-  - Blessing of the Lone Champion
 ---
 # Blessing of the Lone Champion
 

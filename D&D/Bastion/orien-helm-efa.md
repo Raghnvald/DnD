@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Orien Helm
-  - Orien Helm
 ---
 # Orien Helm
 *Level 9 Bastion facility*  

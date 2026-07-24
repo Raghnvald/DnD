@@ -7,7 +7,6 @@ tags:
   - Rasse/goblin/ixalan
 aliases:
   - Goblin (Ixalan)
-  - Goblin (Ixalan)
 ---
 # Goblin (Ixalan)
 *Source: Plane Shift: Ixalan p. 16*  

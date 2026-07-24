@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Verstrickungsgranate
+Original: Tangler Grenade
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Verstrickungsgranate
 tags:

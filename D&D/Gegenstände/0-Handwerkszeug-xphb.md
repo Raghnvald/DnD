@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Artisan's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Artisan's Tools"
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Fernia, the Sea of Fire
-  - Manifest Charm of Fernia, the Sea of Fire
 ---
 # Manifest Charm of Fernia, the Sea of Fire
 *Charm*  

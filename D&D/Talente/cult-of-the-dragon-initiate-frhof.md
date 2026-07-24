@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Cult of the Dragon Initiate
-  - Cult of the Dragon Initiate
 ---
 # Cult of the Dragon Initiate
 *Source: Forgotten Realms: Heroes of Faerûn p. 37*  

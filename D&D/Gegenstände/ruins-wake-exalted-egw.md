@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Ruin's Wake (Exalted)"
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - Artefakt
+Kst.: unbezahlbar
 Status: WIP
 linter-yaml-title-alias: "Ruin's Wake (Exalted)"
 tags:

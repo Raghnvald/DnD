@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Atlas of Endless Horizons
+Original: Atlas of Endless Horizons
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Atlas of Endless Horizons
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Moonwell Pilgrim
-  - Moonwell Pilgrim
 ---
 # Moonwell Pilgrim
 *Source: Forgotten Realms: Heroes of Faerûn p. 33*  

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Edelstein des Sehens
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Edelstein des Sehens
 tags:

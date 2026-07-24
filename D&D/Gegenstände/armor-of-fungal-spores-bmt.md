@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Armor of Fungal Spores
+Original: Armor of Fungal Spores
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Armor of Fungal Spores
@@ -16,7 +19,6 @@ aliases:
   - Hide Armor of Fungal Spores
   - Scale Mail of Fungal Spores
   - Spiked Armor of Fungal Spores
-Original: Armor of Fungal Spores
 ---
 # Armor of Fungal Spores
 *Uncommon*  

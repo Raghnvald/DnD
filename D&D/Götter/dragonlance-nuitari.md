@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Nuitari
-  - Nuitari
 ---
 # Nuitari
 *Source: Dragonlance: Shadow of the Dragon Queen p. 19* 

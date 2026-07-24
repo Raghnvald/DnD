@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Circlet of Barbed Vision
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Circlet of Barbed Vision
 tags:

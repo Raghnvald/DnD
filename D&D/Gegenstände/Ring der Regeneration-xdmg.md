@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Regeneration
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ring of Regeneration
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Robe of Summer
-Kategorie: Wundersamer Gegenstand 
+Original: Robe of Summer
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Robe of Summer
 tags:

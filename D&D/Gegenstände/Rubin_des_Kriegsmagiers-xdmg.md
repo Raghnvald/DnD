@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ruby of the War Mage
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Ruby of the War Mage
 tags:

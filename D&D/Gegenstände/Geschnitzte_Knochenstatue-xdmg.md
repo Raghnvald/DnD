@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Carved bone statuette
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Carved bone statuette
 tags:

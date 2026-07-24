@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Moss Agate
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Moss Agate
 tags:

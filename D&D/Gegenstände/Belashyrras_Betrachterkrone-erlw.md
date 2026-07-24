@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Belashyrra's Beholder Crown"
+Original: "Belashyrra's Beholder Crown"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: "Belashyrra's Beholder Crown"
 tags:

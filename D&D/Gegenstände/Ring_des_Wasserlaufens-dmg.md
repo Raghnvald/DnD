@@ -1,8 +1,11 @@
 ---
 Bezeichnung: Ring des Wasserlaufens
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - /
+Einstimmung: n/v
 Status: WIP
 linter-yaml-title-alias: Ring des Wasserlaufens
 tags:

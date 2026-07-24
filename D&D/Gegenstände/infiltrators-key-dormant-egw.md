@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Infiltrator's Key (Dormant)"
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: "Infiltrator's Key (Dormant)"
 tags:

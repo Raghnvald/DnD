@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Supreme Healing
+Original: Potion of Supreme Healing
 Kategorie: Trank
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Potion of Supreme Healing
 tags:

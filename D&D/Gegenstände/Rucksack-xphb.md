@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Backpack
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Backpack
 tags:

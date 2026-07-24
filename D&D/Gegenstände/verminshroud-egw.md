@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Verminshroud
-Kategorie: Wundersamer Gegenstand 
+Original: Verminshroud
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Verminshroud
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bronze crown
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bronze crown
 tags:

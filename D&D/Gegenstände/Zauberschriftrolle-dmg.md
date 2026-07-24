@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Zauberschriftrolle
 Kategorie: Schriftrolle
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Zauberschriftrolle
 tags:

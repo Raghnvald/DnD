@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/uthftlh
 aliases:
   - Premade Characters
-  - Premade Characters
 ---
 # Premade Characters
 *Source: Uni and the Hunt for the Lost Horn* 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Mythcarver
+Original: Mythcarver
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Mythcarver
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Mythcarver
 status: WIP
-Original: Mythcarver
 ---
 # Mythcarver
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by a bard)*  

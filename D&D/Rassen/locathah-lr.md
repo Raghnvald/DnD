@@ -7,7 +7,6 @@ tags:
   - Rasse/locathah
 aliases:
   - Locathah
-  - Locathah
 ---
 # Locathah
 *Source: Locathah Rising p. 24*  

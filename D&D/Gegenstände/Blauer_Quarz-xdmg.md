@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Blue Quartz
+Seltenheit:
+  - keine
 Kst.: 10 GM
 Gew.: /
 Status: WIP

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Astrale Projektion
+Original: Astral Projection
 Zaubergrad: 9
 Zeitaufwand: 1 Stunde
 Reichweite: 3 Meter
@@ -27,7 +28,6 @@ tags:
 aliases:
   - Astral Projection
   - Astrale Projektion
-Original: Astral Projection
 ---
 # Astrale Projektion
 *Nekromantie des 9. Grades*  

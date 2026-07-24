@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Longevity
+Original: Potion of Longevity
 Kategorie: Trank
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Potion of Longevity
 tags:

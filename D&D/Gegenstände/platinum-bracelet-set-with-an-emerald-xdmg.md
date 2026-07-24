@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Platinum bracelet set with an emerald
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Platinum bracelet set with an emerald
 tags:

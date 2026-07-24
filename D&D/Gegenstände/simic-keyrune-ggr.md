@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Simic Keyrune
-Kategorie: Wundersamer Gegenstand 
+Original: Simic Keyrune
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Simic Keyrune
 tags:

@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Circlet of Human Perfection
+Original: Circlet of Human Perfection
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Circlet of Human Perfection
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Kreide (1 Stück)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Kreide (1 Stück)
 tags:

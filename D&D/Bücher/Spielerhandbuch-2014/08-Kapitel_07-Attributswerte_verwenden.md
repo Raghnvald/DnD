@@ -1,7 +1,7 @@
 ---
 Bezeichnung: Attributswerte verwenden
 Status: completed
-linter-yaml-title-alias: "Attributswerte verwenden "
+linter-yaml-title-alias: Attributswerte verwenden
 tags:
   - Quelle/5e/phb
 aliases:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sdw
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

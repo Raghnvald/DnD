@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/xmts
 aliases:
   - Conclusion
-  - Conclusion
 ---
 # Conclusion
 *Source: X Marks the Spot, p. 8* 

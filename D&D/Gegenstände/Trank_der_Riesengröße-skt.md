@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Giant Size
+Original: Potion of Giant Size
 Kategorie: Trank
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Potion of Giant Size
 tags:

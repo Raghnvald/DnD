@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Kristallkugel
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Kristallkugel
 tags:

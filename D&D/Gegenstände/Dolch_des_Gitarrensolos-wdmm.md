@@ -2,6 +2,8 @@
 Bezeichnung: Dolch des Gitarrensolos
 Original: Dagger of Guitar Solos
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - unbekannt
 Schaden: 1W4 Stich
 Eigenschaften:
   - Finesse

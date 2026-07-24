@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Handbuch der Golems
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Handbuch der Golems
 tags:

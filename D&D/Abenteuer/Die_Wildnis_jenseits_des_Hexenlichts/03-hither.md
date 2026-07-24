@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Hither
-  - Hither
 ---
 # Hither
 *Source: The Wild Beyond the Witchlight, p. 57* 

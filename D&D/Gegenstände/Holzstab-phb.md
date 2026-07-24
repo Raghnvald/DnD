@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Holzstab
+Original: Wooden Staff
 Kategorie: Fokus, Druidisch
+Seltenheit:
+  - keine
 Schaden: 1W6 Wucht
 Eigenschaften:
   - Vielseitig (1W8)

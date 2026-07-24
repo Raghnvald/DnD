@@ -7,7 +7,6 @@ tags:
   - Rasse/khenra
 aliases:
   - Khenra
-  - Khenra
 ---
 # Khenra
 *Source: Plane Shift: Amonkhet p. 17*  

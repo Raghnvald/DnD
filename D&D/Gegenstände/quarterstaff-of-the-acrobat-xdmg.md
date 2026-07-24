@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Quarterstaff of the Acrobat
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Quarterstaff of the Acrobat
 tags:

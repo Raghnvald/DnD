@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Pearl
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pearl
 tags:

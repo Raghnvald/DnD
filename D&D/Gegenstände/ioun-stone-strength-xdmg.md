@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone, Strength
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Strength
 tags:

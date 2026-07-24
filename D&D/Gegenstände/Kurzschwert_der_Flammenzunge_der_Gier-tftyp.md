@@ -2,6 +2,8 @@
 Bezeichnung: Flame Tongue Shortsword of Greed
 Original: Flame Tongue Shortsword of Greed
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Flame Tongue Shortsword of Greed
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Pyremaul (Exalted)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Pyremaul (Exalted)
 tags:

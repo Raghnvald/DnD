@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Psi Crystal
-Kategorie: Wundersamer Gegenstand 
+Original: Psi Crystal
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Psi Crystal
 tags:

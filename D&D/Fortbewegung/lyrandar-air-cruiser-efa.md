@@ -3,11 +3,10 @@ Bezeichnung: Lyrandar Air Cruiser
 Status: WIP
 linter-yaml-title-alias: Lyrandar Air Cruiser
 tags:
-  - Quelle/5e/efa
   - Gegenstand/Fortbewegung/Gelände/Luft
   - Gegenstand/Fortbewegung/Kategorie/Elementar-Luftschiff
+  - Quelle/5e/efa
 aliases:
-  - Lyrandar Air Cruiser
   - Lyrandar Air Cruiser
 ---
 # Lyrandar Air Cruiser

@@ -1,11 +1,14 @@
 ---
 Bezeichnung: Wurfspeer der Heimtücke
+Original: Javelin of Backbiting
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - sehr selten
 Schaden: 1W6 Stich
 Eigenschaften:
   - Wurfwaffe
 Einstimmung: n/v
-Kst.: n/v
+Kst.: 50.000 GM
 Gew.: 1,0 kg
 Status: WIP
 linter-yaml-title-alias: Wurfspeer der Heimtücke
@@ -18,7 +21,6 @@ tags:
 aliases:
   - Wurfspeer der Heimtücke
 status: WIP
-Original: Javelin of Backbiting
 ---
 # Wurfspeer der Heimtücke
 *Waffe ([[Wurfspeer-phb|Wurfspeer]]), cursed item, very rare (requires attunement)*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Orb of Shielding (Xorian Marble)
+Original: Orb of Shielding (Xorian Marble)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

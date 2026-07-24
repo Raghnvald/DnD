@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/tftyp-tfof
 aliases:
   - The Forge of Fury
-  - The Forge of Fury
 ---
 # The Forge of Fury
 *Source: Tales from the Yawning Portal: The Forge of Fury, p. 33* 

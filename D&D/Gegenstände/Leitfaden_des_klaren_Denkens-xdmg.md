@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tome of Clear Thought
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Tome of Clear Thought
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Dragonstaff of Ahghairon
+Original: Dragonstaff of Ahghairon
 Kategorie: Zauberstecken
+Seltenheit:
+  - legendär
 Eigenschaften:
   - Vielseitig (1W8)
 Einstimmung: erforderlich
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Dragonstaff of Ahghairon
 status: WIP
-Original: Dragonstaff of Ahghairon
 ---
 # Dragonstaff of Ahghairon
 *Staff, weapon, legendary (requires attunement)*  

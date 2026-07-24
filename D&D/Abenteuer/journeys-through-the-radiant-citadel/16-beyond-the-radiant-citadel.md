@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/jttrc
 aliases:
   - Beyond the Radiant Citadel
-  - Beyond the Radiant Citadel
 ---
 # Beyond the Radiant Citadel
 *Source: Journeys through the Radiant Citadel, p. 222* 

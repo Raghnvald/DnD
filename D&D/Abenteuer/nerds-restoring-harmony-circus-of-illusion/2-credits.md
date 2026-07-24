@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/nrh-coi
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: NERDS Restoring Harmony: Circus of Illusion* 

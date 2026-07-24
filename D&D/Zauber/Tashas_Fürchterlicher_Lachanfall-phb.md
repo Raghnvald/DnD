@@ -26,7 +26,7 @@ tags:
   - Zauber/Grad/1
   - Zauber/Schule/Verzauberung
 aliases:
-  - Tasha's Hideous Laughter
+  - "Tasha's Hideous Laughter"
   - Tashas Fürchterlicher Lachanfall
 ---
 # Tashas Fürchterlicher Lachanfall

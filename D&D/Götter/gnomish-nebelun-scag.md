@@ -3,8 +3,8 @@ Bezeichnung: Nebelun
 Status: WIP
 linter-yaml-title-alias: Nebelun
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/gnomish
   - Quelle/5e/scag
 aliases:

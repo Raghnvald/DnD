@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Chariot
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Chariot
 tags:

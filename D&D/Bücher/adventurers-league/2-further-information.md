@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/al
 aliases:
   - Further Information
-  - Further Information
 ---
 # Further Information
 *Source: Adventurers League* 

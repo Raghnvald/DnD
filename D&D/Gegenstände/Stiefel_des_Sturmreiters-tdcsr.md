@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Stormrider Boots
-Kategorie: Wundersamer Gegenstand 
+Original: Stormrider Boots
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Stormrider Boots
 tags:

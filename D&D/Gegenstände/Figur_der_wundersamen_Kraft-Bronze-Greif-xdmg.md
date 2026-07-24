@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Bronze Griffon
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Bronze Griffon
 tags:

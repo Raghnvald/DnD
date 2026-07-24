@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Fireballs
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Fireballs
 tags:

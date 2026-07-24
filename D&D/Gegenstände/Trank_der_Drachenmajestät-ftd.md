@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Potion of Dragon's Majesty"
+Original: "Potion of Dragon's Majesty"
 Kategorie: Trank
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: "Potion of Dragon's Majesty"
 tags:

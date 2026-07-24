@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Skull Card
-Kategorie: Wundersamer Gegenstand 
+Original: Skull Card
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Skull Card
 tags:

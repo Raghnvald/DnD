@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Einbrecherausrüstung
+Original: "Burglar's Pack"
 Kategorie: Ausrüstungspaket
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 16 GM

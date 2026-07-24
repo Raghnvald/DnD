@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tome of the Stilled Tongue
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Tome of the Stilled Tongue
 tags:

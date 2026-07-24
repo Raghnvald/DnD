@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Iron Pot
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Iron Pot
 tags:

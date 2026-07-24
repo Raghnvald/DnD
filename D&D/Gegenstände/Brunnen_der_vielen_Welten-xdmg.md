@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Well of Many Worlds
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Well of Many Worlds
 tags:

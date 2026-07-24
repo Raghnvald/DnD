@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spell Scroll (Level 4)
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 4)
 tags:

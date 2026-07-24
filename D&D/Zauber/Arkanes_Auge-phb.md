@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkanes Auge
+Original: Arcane Eye
 Zaubergrad: 4
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
@@ -27,7 +28,6 @@ tags:
   - Zauber/Schule/Erkenntnis
 aliases:
   - Arkanes Auge
-Original: Arcane Eye
 ---
 # Arkanes Auge
 *Erkenntnismagie des 4. Grades*

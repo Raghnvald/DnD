@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Unterhaltungskünstler-Ausrüstung
+Original: "Entertainer's Pack"
 Kategorie: Ausrüstungspaket
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 40 GM

@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Bloodseeker Ammunition
+Original: Bloodseeker Ammunition
 Kategorie: Munition
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - Munition
-Kst.: n/v
+Einstimmung: n/v
+Kst.: 50.000 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Bloodseeker Ammunition

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/al
 aliases:
   - Faction Guide
-  - Faction Guide
 ---
 # Faction Guide
 *Source: Adventurers League* 

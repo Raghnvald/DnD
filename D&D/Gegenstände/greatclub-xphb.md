@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Greatclub
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Greatclub
 tags:

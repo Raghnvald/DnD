@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Dust of Disappearance
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Dust of Disappearance
 tags:

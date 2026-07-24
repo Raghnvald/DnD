@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/aag
 aliases:
   - Additional Spelljammer Tables
-  - Additional Spelljammer Tables
 ---
 # Additional Spelljammer Tables
 *Source: Astral Adventurer's Guide* 

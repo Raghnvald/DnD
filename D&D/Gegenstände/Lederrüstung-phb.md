@@ -2,6 +2,8 @@
 Bezeichnung: Lederrüstung
 Original: Leather Armor
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Leicht
 Eigenschaften:
   - n/v

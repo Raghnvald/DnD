@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Nature's Mantle"
-Kategorie: Wundersamer Gegenstand 
+Original: "Nature's Mantle"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Nature's Mantle"
 tags:

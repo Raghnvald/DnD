@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Warrior's Passkey"
-Kategorie: Wundersamer Gegenstand 
+Original: "Warrior's Passkey"
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: "Warrior's Passkey"
 tags:

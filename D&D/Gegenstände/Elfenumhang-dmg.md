@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Cloak of Elvenkind
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Cloak of Elvenkind
 tags:

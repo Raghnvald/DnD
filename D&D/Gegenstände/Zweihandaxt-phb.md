@@ -2,6 +2,8 @@
 Bezeichnung: Zweihandaxt
 Original: Greataxe
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1d12 Hieb
 Eigenschaften:
   - Schwer

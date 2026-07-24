@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wakened Dragon-Touched Focus
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Wakened Dragon-Touched Focus
 tags:

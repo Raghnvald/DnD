@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/psx
 aliases:
   - Vampiric Exultation
-  - Vampiric Exultation
 ---
 # Vampiric Exultation
 *Source: Plane Shift: Ixalan p. 14*  

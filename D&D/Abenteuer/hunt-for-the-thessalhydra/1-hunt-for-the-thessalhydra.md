@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hftt
 aliases:
   - Hunt for the Thessalhydra
-  - Hunt for the Thessalhydra
 ---
 # Hunt for the Thessalhydra
 *Source: Hunt for the Thessalhydra, p. 1* 

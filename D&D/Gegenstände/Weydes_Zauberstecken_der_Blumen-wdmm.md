@@ -2,6 +2,8 @@
 Bezeichnung: Weydes Zauberstecken der Blumen
 Original: Wyllows Staff of Flowers
 Kategorie: Zauberstecken
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Weydes Zauberstecken der Blumen
 tags:

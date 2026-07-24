@@ -11,10 +11,10 @@ Image: token/alyxian-aboleth-crcotn.webp
 Status: WIP
 linter-yaml-title-alias: Alyxian Aboleth
 tags:
-  - Quelle/5e/crcotn
-  - Monster/HG/12
   - Monster/Größe/Groß
+  - Monster/HG/12
   - Monster/Typ/Aberration
+  - Quelle/5e/crcotn
 aliases:
   - Alyxian Aboleth
 status: WIP

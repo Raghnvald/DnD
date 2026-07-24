@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lrdt
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Red Dragon's Tale: A LEGO Adventure* 

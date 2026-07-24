@@ -3,10 +3,10 @@ Bezeichnung: Angharradh
 Status: WIP
 linter-yaml-title-alias: Angharradh
 tags:
-  - Kompendium/Götter/Domäne/Wissen
-  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Frieden
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

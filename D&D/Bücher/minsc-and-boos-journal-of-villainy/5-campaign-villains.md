@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mabjov
 aliases:
   - Campaign Villains
-  - Campaign Villains
 ---
 # Campaign Villains
 *Source: Minsc and Boo's Journal of Villainy, p. 91* 

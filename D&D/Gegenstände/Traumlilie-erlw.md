@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Dreamlily
+Original: Dreamlily
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Dreamlily
 tags:

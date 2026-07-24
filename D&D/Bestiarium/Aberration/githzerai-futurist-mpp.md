@@ -8,10 +8,10 @@ HG: 9
 Status: WIP
 linter-yaml-title-alias: Githzerai Futurist
 tags:
-  - Quelle/5e/mpp
-  - Monster/HG/9
   - Monster/Größe/Mittelgroß
+  - Monster/HG/9
   - Monster/Typ/Aberration/gith
+  - Quelle/5e/mpp
 aliases:
   - Githzerai Futurist
 status: WIP

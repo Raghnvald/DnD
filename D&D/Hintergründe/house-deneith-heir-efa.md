@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Deneith Heir
-  - House Deneith Heir
 ---
 # House Deneith Heir
 *Source: Eberron: Forge of the Artificer p. 27*  

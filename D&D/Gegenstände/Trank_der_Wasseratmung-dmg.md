@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Water Breathing
+Original: Potion of Water Breathing
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Water Breathing
 tags:

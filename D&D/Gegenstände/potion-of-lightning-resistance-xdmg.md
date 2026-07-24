@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Lightning Resistance
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Lightning Resistance
 tags:

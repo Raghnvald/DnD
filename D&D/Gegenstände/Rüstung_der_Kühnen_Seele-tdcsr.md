@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Armor of the Valiant Soul
+Original: Armor of the Valiant Soul
+Seltenheit:
+  - legendär
 Rüstung: Mittel
 Status: WIP
 linter-yaml-title-alias: Armor of the Valiant Soul
@@ -10,7 +13,6 @@ tags:
   - Quelle/5e/tdcsr
 aliases:
   - Armor of the Valiant Soul
-Original: Armor of the Valiant Soul
 ---
 # Armor of the Valiant Soul
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), legendary (requires attunement)*  

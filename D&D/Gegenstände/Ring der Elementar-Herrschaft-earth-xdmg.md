@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Elemental Command (Earth)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ring of Elemental Command (Earth)
 tags:

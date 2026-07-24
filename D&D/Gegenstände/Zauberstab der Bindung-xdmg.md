@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Wand of Binding
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Binding
 tags:

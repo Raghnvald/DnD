@@ -3,8 +3,8 @@ Bezeichnung: Apparatus of Kwalish
 Status: WIP
 linter-yaml-title-alias: Apparatus of Kwalish
 tags:
-  - Gegenstand/Fortbewegung/Größe/Groß
   - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Größe/Groß
   - Gegenstand/Fortbewegung/Kategorie/Objekt
   - Quelle/5e/dmg
 aliases:

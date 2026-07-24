@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Alarm
+Original: Alarm
 Zaubergrad: 1
 Zeitaufwand: 1 Minute
 Reichweite: 9 Meter
@@ -30,7 +31,6 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Alarm
-Original: Alarm
 ---
 # Alarm
 *Bann des 1. Grades (Ritual)*  

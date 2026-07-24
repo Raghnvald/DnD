@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Needle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Needle
 tags:

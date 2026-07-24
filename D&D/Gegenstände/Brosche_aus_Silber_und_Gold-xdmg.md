@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Silver and gold brooch
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Silver and gold brooch
 tags:

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Manifest Charm of Dolurrh, the Realm of the Dead
-  - Manifest Charm of Dolurrh, the Realm of the Dead
 ---
 # Manifest Charm of Dolurrh, the Realm of the Dead
 *Charm*  

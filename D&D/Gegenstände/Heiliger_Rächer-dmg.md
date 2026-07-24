@@ -2,13 +2,15 @@
 Bezeichnung: Heiliger Rächer
 Original: Holy Avenger
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - legendär
+Schaden: variiert
 Eigenschaften:
   - variiert
-Status: completed
+Einstimmung: durch einen Paladin
 Kst.: n/v
 Gew.: variiert
-Schaden: variiert
-Einstimmung: durch einen Paladin
+Status: completed
 linter-yaml-title-alias: Heiliger Rächer
 tags:
   - Gegenstand/Einstimmung/erfordert

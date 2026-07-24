@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Emblem
+Original: Emblem
 Kategorie: Fokus, Heiliges Symbol
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM

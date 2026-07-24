@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lk
 aliases:
   - Lightning Keep
-  - Lightning Keep
 ---
 # Lightning Keep
 *Source: Lightning Keep* 

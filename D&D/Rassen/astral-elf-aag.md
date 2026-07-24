@@ -7,7 +7,6 @@ tags:
   - Rasse/astral-elf
 aliases:
   - Astral Elf
-  - Astral Elf
 ---
 # Astral Elf
 *Source: Astral Adventurer's Guide p. 10*  

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schwebekugel
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Schwebekugel
 tags:

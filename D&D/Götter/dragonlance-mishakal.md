@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Mishakal
-  - Mishakal
 ---
 # Mishakal
 *Source: Dragonlance: Shadow of the Dragon Queen p. 15* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Emerald
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Emerald
 tags:

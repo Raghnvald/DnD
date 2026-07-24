@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hematite
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Hematite
 tags:

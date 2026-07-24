@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Dragon Cultist
-  - Dragon Cultist
 ---
 # Dragon Cultist
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  

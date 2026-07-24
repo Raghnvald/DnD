@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Instrument of the Bards, Anstruth Harp
+Original: Instrument of the Bards, Anstruth Harp
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Barden

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Platinum
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Platinum
 tags:

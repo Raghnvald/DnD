@@ -3,8 +3,8 @@ Bezeichnung: Surtur
 Status: WIP
 linter-yaml-title-alias: Surtur
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/nonhuman
   - Quelle/5e/phb
 aliases:

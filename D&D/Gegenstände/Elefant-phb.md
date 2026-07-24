@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Elefant
+Original: Elephant
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 200 GM
@@ -15,7 +18,6 @@ aliases:
   - Elefant
 Bew.: 12 m
 Traglast: 1.320 Pfd.
-Original: Elephant
 ---
 # Elefant
 *Reit- und Lasttiere*  

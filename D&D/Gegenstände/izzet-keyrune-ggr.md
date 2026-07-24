@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Izzet Keyrune
-Kategorie: Wundersamer Gegenstand 
+Original: Izzet Keyrune
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Izzet Keyrune
 tags:

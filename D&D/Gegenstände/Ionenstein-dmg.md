@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Ioun Stone
 tags:

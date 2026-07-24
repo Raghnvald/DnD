@@ -8,7 +8,6 @@ tags:
 aliases:
   - Lady Firehair
   - Sune
-  - Sune
   - The Lady of Love
   - The Princess of Passion
 ---

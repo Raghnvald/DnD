@@ -1,6 +1,8 @@
 ---
 Bezeichnung: War Pick
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: War Pick
 tags:

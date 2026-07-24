@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Hecate
 tags:
   - Kompendium/Götter/Domäne/Arkan
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/greek
   - Quelle/5e/phb
 aliases:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Nolzur's Marvelous Pigments"
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "Nolzur's Marvelous Pigments"
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Elephant
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Elephant
 tags:

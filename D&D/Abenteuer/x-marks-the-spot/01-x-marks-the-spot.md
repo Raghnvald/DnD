@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/xmts
 aliases:
   - X Marks the Spot
-  - X Marks the Spot
 ---
 # X Marks the Spot
 *Source: X Marks the Spot, p. 1* 

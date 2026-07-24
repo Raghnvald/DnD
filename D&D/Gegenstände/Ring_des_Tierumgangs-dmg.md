@@ -1,8 +1,11 @@
 ---
 Bezeichnung: Ring des Tierumgangs
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - /
+Einstimmung: n/v
 Status: WIP
 linter-yaml-title-alias: Ring des Tierumgangs
 tags:

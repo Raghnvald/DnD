@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Astral Shard
+Original: Astral Shard
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Astral Shard
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schwein
+Original: Pig
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 3 GM
@@ -13,8 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schwein
-status: completed
-Original: Pig
 ---
 # Schwein
 *Handelsgut*  

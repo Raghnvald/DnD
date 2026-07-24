@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Glefe
+Original: Glaive
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1W10 Hieb
 Eigenschaften:
   - Schwer
@@ -17,7 +20,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Glefe
-Original: Glaive
 status: WIP
 ---
 # Glefe

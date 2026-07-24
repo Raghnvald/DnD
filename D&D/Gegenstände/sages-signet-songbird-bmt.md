@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Sage's Signet (Songbird)"
+Original: "Sage's Signet (Songbird)"
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: durch einen Zauberwirker
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/bmt
 aliases:
   - "Sage's Signet (Songbird)"
-status: WIP
 ---
 # Sage's Signet (Songbird)
 *Ring, rare (requires attunement by a spellcaster)*  

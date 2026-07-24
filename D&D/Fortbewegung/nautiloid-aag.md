@@ -3,11 +3,10 @@ Bezeichnung: Nautiloid
 Status: WIP
 linter-yaml-title-alias: Nautiloid
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Nautiloid
   - Nautiloid
 ---
 # Nautiloid

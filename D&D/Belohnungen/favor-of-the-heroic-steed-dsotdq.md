@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Favor of the Heroic Steed
-  - Favor of the Heroic Steed
 ---
 # Favor of the Heroic Steed
 *Charm*  

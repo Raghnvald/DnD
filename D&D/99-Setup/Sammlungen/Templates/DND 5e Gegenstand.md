@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Name
 Kategorie:
+Seltenheit:
+  - keine
 Eigenschaften: []
 Kst.:
 Gew.:

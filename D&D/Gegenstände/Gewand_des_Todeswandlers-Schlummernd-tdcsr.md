@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Deathwalker's Ward (Dormant)"
 Original: "Deathwalker's Ward (Dormant)"
+Seltenheit:
+  - legendär
 Rüstung: Leicht
 Status: WIP
 linter-yaml-title-alias: "Deathwalker's Ward (Dormant)"

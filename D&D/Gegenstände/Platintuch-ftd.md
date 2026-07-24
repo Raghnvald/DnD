@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Platinum Scarf
-Kategorie: Wundersamer Gegenstand 
+Original: Platinum Scarf
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Platinum Scarf
 tags:

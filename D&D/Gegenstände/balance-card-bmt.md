@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Balance Card
+Original: Balance Card
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Balance Card
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Name
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - keine
 Schaden:
 Eigenschaften: []
 Kst.:

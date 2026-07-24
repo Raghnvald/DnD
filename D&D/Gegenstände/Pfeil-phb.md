@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Pfeil
 Kategorie: Munition
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Pfeil
 tags:

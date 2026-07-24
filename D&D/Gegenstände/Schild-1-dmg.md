@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild +1
 Kategorie: Rüstung
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Schild
 Eigenschaften:
   - n/v

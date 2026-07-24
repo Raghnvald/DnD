@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/race/firbolg
 aliases:
   - Spells for Firbolg
-  - Spells for Firbolg
 ---
 # Spells for Firbolg
 

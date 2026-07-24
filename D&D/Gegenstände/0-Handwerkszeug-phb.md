@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Handwerkszeug
+Seltenheit:
+  - keine
 Status: completed
 linter-yaml-title-alias: Handwerkszeug
 tags:

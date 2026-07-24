@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Quaal's Feather Token, Fan"
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Quaal's Feather Token, Fan"
 tags:

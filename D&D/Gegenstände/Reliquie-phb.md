@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Reliquie
+Original: Reliquary
 Kategorie: Fokus, Heiliges Symbol
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM
@@ -9,7 +12,7 @@ Status: completed
 linter-yaml-title-alias: Reliquie
 tags:
   - Gegenstand/Ausrüstung
-  - Gegenstand/Seltenheit/gewöhnlich
+  - Gegenstand/Seltenheit/keine
   - Gegenstand/Zauberfokus
   - Klasse/Kleriker
   - Klasse/Paladin

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Shield of Expression
+Seltenheit:
+  - gewöhnlich
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: Shield of Expression

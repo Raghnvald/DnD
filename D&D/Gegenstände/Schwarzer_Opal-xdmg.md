@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Black Opal
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Black Opal
 tags:

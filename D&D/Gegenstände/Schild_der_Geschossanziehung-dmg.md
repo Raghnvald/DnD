@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Schild der Geschossanziehung
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Schild
 Eigenschaften:
   - Verflucht

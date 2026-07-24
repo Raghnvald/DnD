@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/scag
 aliases:
   - Sehanine Moonbow
-  - Sehanine Moonbow
 ---
 # Sehanine Moonbow
 *Source: Sword Coast Adventurer's Guide p. 23* 

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rod of Absorption
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Rod of Absorption
 tags:

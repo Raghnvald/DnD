@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Embroidered silk and velvet mantle set with numerous moonstones
+Original: Embroidered silk and velvet mantle set with numerous moonstones
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

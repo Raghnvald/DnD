@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/awm
 aliases:
   - Activity Pages
-  - Activity Pages
 ---
 # Activity Pages
 *Source: Adventure with Muk, p. 1* 

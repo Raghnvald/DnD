@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/hf
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Heroes' Feast* 

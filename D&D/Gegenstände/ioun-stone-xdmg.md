@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ioun Stone
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Ioun Stone
 tags:

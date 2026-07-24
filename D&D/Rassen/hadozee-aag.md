@@ -7,7 +7,6 @@ tags:
   - Rasse/hadozee
 aliases:
   - Hadozee
-  - Hadozee
 ---
 # Hadozee
 *Source: Astral Adventurer's Guide p. 13*  

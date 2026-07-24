@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Leadership
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Leadership
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Leadership
 tags:

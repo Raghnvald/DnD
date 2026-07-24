@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rod of Resurrection
+Original: Rod of Resurrection
 Kategorie: Zepter
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Rod of Resurrection
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Living Gloves
-Kategorie: Wundersamer Gegenstand 
+Original: Living Gloves
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Living Gloves
 tags:

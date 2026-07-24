@@ -2,12 +2,14 @@
 Bezeichnung: Dolch des Gifts
 Original: Dagger of Venom
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - selten
 Schaden: 1W4 Stich
 Eigenschaften:
   - Finesse
   - Leicht
   - Wurfwaffe
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: 0,5 kg
 Status: completed
 linter-yaml-title-alias: Dolch des Gifts

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Silver Raven
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Silver Raven
 tags:

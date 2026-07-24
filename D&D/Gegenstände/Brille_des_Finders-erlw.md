@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Finder's Goggles"
+Original: "Finder's Goggles"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Finder's Goggles"
 tags:

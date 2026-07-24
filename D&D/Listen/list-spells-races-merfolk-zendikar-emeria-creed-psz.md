@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subrace/merfolk-zendikar-emeria-creed
 aliases:
   - Spells for Merfolk (Zendikar; Emeria Creed)
-  - Spells for Merfolk (Zendikar; Emeria Creed)
 ---
 # Spells for Merfolk (Zendikar; Emeria Creed)
 

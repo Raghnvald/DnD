@@ -2,6 +2,8 @@
 Bezeichnung: Schild
 Original: Shield
 Kategorie: Rüstung
+Seltenheit:
+  - keine
 Rüstung: Schild
 Eigenschaften:
   - n/v

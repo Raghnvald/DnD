@@ -1,13 +1,13 @@
 ---
 Bezeichnung: Deck of Illusions
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Deck of Illusions
 tags:
-  - Quelle/5e/dmg
   - Gegenstand/Seltenheit/ungewöhnlich
-  - Gegenstand/tier/major
+  - Quelle/5e/dmg
 aliases:
-  - Deck of Illusions
   - Deck of Illusions
 ---
 # Deck of Illusions

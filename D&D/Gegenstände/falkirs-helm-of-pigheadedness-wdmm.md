@@ -1,5 +1,8 @@
 ---
 Bezeichnung: "Falkir's Helm of Pigheadedness"
+Original: "Falkir's Helm of Pigheadedness"
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: "Falkir's Helm of Pigheadedness"
 tags:

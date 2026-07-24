@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloves
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Cloves
 tags:

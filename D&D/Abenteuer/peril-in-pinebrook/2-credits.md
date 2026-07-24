@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/pip
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Peril in Pinebrook* 

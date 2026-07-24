@@ -2,6 +2,8 @@
 Bezeichnung: Zephyr-Rüstung
 Original: Zephyr Armor
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Leicht
 Eigenschaften:
   - n/v

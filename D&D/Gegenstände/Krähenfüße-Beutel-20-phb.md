@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Krähenfüße (Beutel mit 20)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Krähenfüße (Beutel mit 20)
 tags:

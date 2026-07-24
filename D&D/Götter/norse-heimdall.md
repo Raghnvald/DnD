@@ -3,8 +3,8 @@ Bezeichnung: Heimdall
 Status: WIP
 linter-yaml-title-alias: Heimdall
 tags:
-  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Licht
   - Kompendium/Götter/norse
   - Quelle/5e/phb
 aliases:

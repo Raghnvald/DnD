@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Animal Friendship
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Animal Friendship
 tags:

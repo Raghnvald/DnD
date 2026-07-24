@@ -7,7 +7,6 @@ tags:
   - Rasse/elf/zendikar-joraga-nation
 aliases:
   - Elf (Zendikar; Joraga Nation)
-  - Elf (Zendikar; Joraga Nation)
 ---
 # Elf (Zendikar; Joraga Nation)
 *Source: Plane Shift: Zendikar p. 19*  

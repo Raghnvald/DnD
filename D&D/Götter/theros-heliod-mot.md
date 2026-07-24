@@ -8,7 +8,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Heliod
-  - Heliod
 ---
 # Heliod
 *Source: Mythic Odysseys of Theros p. 46* 

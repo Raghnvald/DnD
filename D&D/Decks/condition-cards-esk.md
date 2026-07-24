@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/esk
 aliases:
   - Condition Cards
-  - Condition Cards
 ---
 # Condition Cards
 *Source: Essentials Kit p. 3*  

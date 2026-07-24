@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Figurine of Wondrous Power, Obsidian Steed
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Figurine of Wondrous Power, Obsidian Steed
 tags:

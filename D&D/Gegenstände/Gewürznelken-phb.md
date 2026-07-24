@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Gewürznelken
+Original: Cloves
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 3 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Gewürznelken
-Original: Cloves
 ---
 # Gewürznelken
 *Handelsgut*  

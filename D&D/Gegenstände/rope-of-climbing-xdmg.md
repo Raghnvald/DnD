@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rope of Climbing
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Rope of Climbing
 tags:

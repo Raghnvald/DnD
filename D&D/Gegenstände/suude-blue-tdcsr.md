@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Suude (Blue)
+Original: Suude (Blue)
+Seltenheit:
+  - unbekannt
 Kst.: n/v
 Gew.: n/v
 Status: WIP

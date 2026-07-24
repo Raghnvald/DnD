@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of the Passage
-  - Champion of the Passage
 ---
 # Champion of the Passage
 *Piety Trait*  

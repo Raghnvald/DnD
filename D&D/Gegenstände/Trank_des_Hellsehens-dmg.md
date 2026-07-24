@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Clairvoyance
+Original: Potion of Clairvoyance
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Clairvoyance
 tags:

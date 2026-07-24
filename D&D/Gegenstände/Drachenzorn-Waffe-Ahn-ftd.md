@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Ascendant Dragon's Wrath Weapon"
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: "Ascendant Dragon's Wrath Weapon"
 tags:

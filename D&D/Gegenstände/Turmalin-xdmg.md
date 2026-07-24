@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Tourmaline
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Tourmaline
 tags:

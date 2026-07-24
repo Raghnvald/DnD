@@ -8,10 +8,10 @@ HG: 6
 Status: WIP
 linter-yaml-title-alias: Eater of Knowledge
 tags:
-  - Quelle/5e/mpp
-  - Monster/HG/6
   - Monster/Größe/Groß
+  - Monster/HG/6
   - Monster/Typ/Aberration
+  - Quelle/5e/mpp
 aliases:
   - Eater of Knowledge
 status: WIP

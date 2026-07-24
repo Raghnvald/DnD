@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spyglass
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Spyglass
 tags:

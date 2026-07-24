@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Serpent Venom
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Serpent Venom
 tags:

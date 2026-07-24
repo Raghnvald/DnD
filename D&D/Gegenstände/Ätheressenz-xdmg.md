@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Essence of Ether
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 300 GM

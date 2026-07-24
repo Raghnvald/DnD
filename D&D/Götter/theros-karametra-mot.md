@@ -9,7 +9,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Karametra
-  - Karametra
 ---
 # Karametra
 *Source: Mythic Odysseys of Theros p. 52* 

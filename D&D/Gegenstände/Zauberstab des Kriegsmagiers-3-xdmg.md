@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +3 Wand of the War Mage
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: +3 Wand of the War Mage
 tags:

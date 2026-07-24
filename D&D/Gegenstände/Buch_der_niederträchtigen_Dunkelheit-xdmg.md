@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Book of Vile Darkness
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Book of Vile Darkness
 tags:

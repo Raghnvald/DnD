@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/arcane-study-charm
 aliases:
   - Spells for Arcane Study Charm
-  - Spells for Arcane Study Charm
 ---
 # Spells for Arcane Study Charm
 

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Onyx
+Original: Onyx
 Kategorie: Edelstein
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Onyx
-status: WIP
 ---
 # Onyx
 *Schatz (Edelstein)*  

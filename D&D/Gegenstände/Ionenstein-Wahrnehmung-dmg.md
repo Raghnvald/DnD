@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Awareness
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Awareness
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Awareness
 tags:

@@ -5,12 +5,11 @@ Bezeichnung: Glass Pegasus
 Status: WIP
 linter-yaml-title-alias: Glass Pegasus
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/2
   - Monster/Größe/Groß
+  - Monster/HG/2
   - Monster/Typ/Konstrukt
+  - Quelle/5e/wbtw
 aliases:
-  - Glass Pegasus
   - Glass Pegasus
 ---
 # [Glass Pegasus](3-Mechanics/CLI/bestiary/construct/glass-pegasus-wbtw.md)

@@ -2,6 +2,8 @@
 Bezeichnung: Macuahuitl
 Original: Macuahuitl
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Macuahuitl
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Elemental Essence Shard (Fire)
-Kategorie: Wundersamer Gegenstand 
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Elemental Essence Shard (Fire)
 tags:

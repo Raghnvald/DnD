@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "+2 Fate Dealer's Deck"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "+2 Fate Dealer's Deck"
 tags:

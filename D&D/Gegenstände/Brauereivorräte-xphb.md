@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Brewer's Supplies"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Brewer's Supplies"
 tags:

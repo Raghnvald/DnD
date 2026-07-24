@@ -2,7 +2,9 @@
 Bezeichnung: Dornenhagel
 Zaubergrad: 1
 Zeitaufwand: 1 Bonusaktion
+Reichweite: selbst
 Komponenten: V
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Status: WIP
 linter-yaml-title-alias: Dornenhagel
 classes:
@@ -16,8 +18,6 @@ tags:
   - Zauber/Schule/Beschwörung
 aliases:
   - Dornenhagel
-Reichweite: selbst
-Wirkungsdauer: Konzentration, bis zu 1 Minute
 ---
 # Dornenhagel
 *Beschwörung des 1. Grades*

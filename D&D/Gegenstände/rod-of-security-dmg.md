@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rod of Security
+Original: Rod of Security
 Kategorie: Zepter
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Rod of Security
 tags:

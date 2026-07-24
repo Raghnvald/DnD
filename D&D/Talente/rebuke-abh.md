@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Rebuke
-  - Rebuke
 ---
 # Rebuke
 *Source: Astarion's Book of Hungers p. 10*  

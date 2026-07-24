@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Nimbus Coronet
-Kategorie: Wundersamer Gegenstand 
+Original: Nimbus Coronet
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Nimbus Coronet
 tags:

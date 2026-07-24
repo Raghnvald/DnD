@@ -2,6 +2,8 @@
 Bezeichnung: Streitaxt
 Original: Battleaxe
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Schaden: 1W8 Hieb
 Eigenschaften:
   - Vielseitig (1W10)

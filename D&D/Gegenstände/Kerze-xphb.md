@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Candle
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Candle
 tags:

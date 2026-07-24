@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Spell Scroll (Level 1)
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Spell Scroll (Level 1)
 tags:

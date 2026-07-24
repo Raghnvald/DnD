@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Titanstone Knuckles
-Kategorie: Wundersamer Gegenstand 
+Original: Titanstone Knuckles
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Titanstone Knuckles
 tags:

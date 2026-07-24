@@ -2,6 +2,8 @@
 Bezeichnung: Peitsche
 Original: Whip
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Peitsche
 tags:

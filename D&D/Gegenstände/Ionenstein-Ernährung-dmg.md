@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ioun Stone, Sustenance
-Kategorie: Wundersamer Gegenstand 
+Original: Ioun Stone, Sustenance
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ioun Stone, Sustenance
 tags:

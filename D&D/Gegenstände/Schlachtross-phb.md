@@ -2,6 +2,8 @@
 Bezeichnung: Schlachtross
 Original: Warhorse
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 400 GM

@@ -1,9 +1,13 @@
 ---
 Bezeichnung: Adamantrüstung
+Original: Adamantine Armor
 Kategorie: Rüstung
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Mittel oder Schwer
 Eigenschaften:
   - n/v
+Einstimmung: n/v
 Kst.: n/v
 Gew.: n/v
 RK: /

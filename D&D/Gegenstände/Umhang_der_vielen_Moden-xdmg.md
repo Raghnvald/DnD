@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Cloak of Many Fashions
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Cloak of Many Fashions
 tags:

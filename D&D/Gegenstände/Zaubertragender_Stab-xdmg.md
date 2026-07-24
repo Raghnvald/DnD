@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Staff
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Enspelled Staff
 tags:

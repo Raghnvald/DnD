@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Foliant des Strahd
+Original: Tome of Strahd
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: n/v
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/cos
 aliases:
   - Foliant des Strahd
-Original: Tome of Strahd
 ---
 # Foliant des Strahd
 *Adventuring gear*  

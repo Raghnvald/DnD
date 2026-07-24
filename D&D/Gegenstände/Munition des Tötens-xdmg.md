@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ammunition of Slaying
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Ammunition of Slaying
 tags:

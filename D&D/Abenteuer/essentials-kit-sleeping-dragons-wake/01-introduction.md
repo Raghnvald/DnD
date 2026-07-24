@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sdw
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: Essentials Kit: Sleeping Dragon's Wake* 

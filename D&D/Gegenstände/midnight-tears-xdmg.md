@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Midnight Tears
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Midnight Tears
 tags:

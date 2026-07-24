@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: Lugh
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/Leben
+  - Kompendium/Götter/Domäne/Wissen
   - Quelle/5e/phb
 aliases:
   - Lugh

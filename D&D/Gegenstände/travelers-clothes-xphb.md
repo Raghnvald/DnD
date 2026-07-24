@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Traveler's Clothes"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Traveler's Clothes"
 tags:

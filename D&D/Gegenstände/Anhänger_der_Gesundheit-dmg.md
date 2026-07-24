@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Anhänger der Gesundheit
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Kst.: n/v

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Barrier Tattoo (Medium)
+Original: Barrier Tattoo (Medium)
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Barrier Tattoo (Medium)
 tags:

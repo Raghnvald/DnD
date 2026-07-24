@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/mgelft
 aliases:
   - Answers
-  - Answers
 ---
 # Answers
 *Source: Muk's Guide to Everything He Learned From Tasha, p. 26* 

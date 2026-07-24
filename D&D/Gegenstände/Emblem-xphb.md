@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Emblem
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Emblem
 tags:

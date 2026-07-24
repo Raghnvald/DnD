@@ -2,9 +2,11 @@
 Bezeichnung: Sling of Giant Felling
 Original: Sling of Giant Felling
 Kategorie: Fernkampfwaffe, einfach
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - Geschosse
-Kst.: n/v
+Kst.: 500 GM
 Gew.: n/v
 Status: WIP
 linter-yaml-title-alias: Sling of Giant Felling

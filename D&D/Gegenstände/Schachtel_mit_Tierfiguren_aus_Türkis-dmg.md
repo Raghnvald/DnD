@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Box of turquoise animal figurines
+Original: Box of turquoise animal figurines
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 250 GM

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Sled
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Sled
 tags:

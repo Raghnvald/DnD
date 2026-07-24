@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Quartz
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Quartz
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ring of Temporal Salvation
+Original: Ring of Temporal Salvation
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

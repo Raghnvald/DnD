@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rod of Rulership
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Rod of Rulership
 tags:

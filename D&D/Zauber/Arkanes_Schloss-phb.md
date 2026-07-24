@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Arkanes Schloss
+Original: Arcane Lock
 Zaubergrad: 2
 Zeitaufwand: 1 Aktion
 Reichweite: 9 Meter
@@ -24,7 +25,6 @@ tags:
   - Zauber/Schule/Bann
 aliases:
   - Arkanes Schloss
-Original: Arcane Lock
 ---
 # Arkanes Schloss
 *Bann des 2. Grades*  

@@ -1,10 +1,13 @@
 ---
 Bezeichnung: Rüstung des Wassermanns
-Original: Mariner's Armor
+Original: "Mariner's Armor"
 Kategorie: Rüstung
+Seltenheit:
+  - ungewöhnlich
 Rüstung: Leicht, Mittel oder Schwer
 Eigenschaften:
   - /
+Einstimmung: n/v
 Kst.: n/v
 Gew.: /
 RK: variiert
@@ -20,19 +23,19 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/dmg
 aliases:
-  - Mariner's Breastplate
-  - Mariner's Chain Mail
-  - Mariner's Chain Shirt
-  - Mariner's Half Plate Armor
-  - Mariner's Hide Armor
-  - Mariner's Leather Armor
-  - Mariner's Padded Armor
-  - Mariner's Plate Armor
-  - Mariner's Ring Mail
-  - Mariner's Scale Mail
-  - Mariner's Spiked Armor
-  - Mariner's Splint Armor
-  - Mariner's Studded Leather Armor
+  - "Mariner's Breastplate"
+  - "Mariner's Chain Mail"
+  - "Mariner's Chain Shirt"
+  - "Mariner's Half Plate Armor"
+  - "Mariner's Hide Armor"
+  - "Mariner's Leather Armor"
+  - "Mariner's Padded Armor"
+  - "Mariner's Plate Armor"
+  - "Mariner's Ring Mail"
+  - "Mariner's Scale Mail"
+  - "Mariner's Spiked Armor"
+  - "Mariner's Splint Armor"
+  - "Mariner's Studded Leather Armor"
   - Rüstung des Wassermanns
 status: WIP
 ---

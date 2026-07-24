@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Amulett der Ebenen
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

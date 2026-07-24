@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Zauberspeichers
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

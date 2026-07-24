@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Scimitar of Speed
+Original: Scimitar of Speed
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Scimitar of Speed
 tags:
@@ -12,7 +15,6 @@ tags:
 aliases:
   - Scimitar of Speed
 status: WIP
-Original: Scimitar of Speed
 ---
 # Scimitar of Speed
 *Weapon ([scimitar](/3-Mechanics/CLI/items/scimitar.md)), major, very rare (requires attunement)*  

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Lute
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Lute
 tags:

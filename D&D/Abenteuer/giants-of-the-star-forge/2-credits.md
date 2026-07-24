@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/gotsf
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Giants of the Star Forge* 

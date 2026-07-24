@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Weberwerkzeuge
+Original: "Weaver's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 GM

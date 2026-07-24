@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/reward/charm-of-darkvision
 aliases:
   - Spells for Charm of Darkvision
-  - Spells for Charm of Darkvision
 ---
 # Spells for Charm of Darkvision
 

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sword of Answering
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Sword of Answering
 tags:

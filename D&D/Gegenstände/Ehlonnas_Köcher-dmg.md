@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Quiver of Ehlonna
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Quiver of Ehlonna
 tags:

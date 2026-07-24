@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Hat of Disguise
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Hat of Disguise
 tags:

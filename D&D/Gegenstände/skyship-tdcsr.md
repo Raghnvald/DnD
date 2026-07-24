@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Skyship
+Original: Skyship
+Seltenheit:
+  - keine
 Kst.: 100.000 GM
 Gew.: n/v
 Status: WIP

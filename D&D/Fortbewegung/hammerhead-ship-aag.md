@@ -3,12 +3,11 @@ Bezeichnung: Hammerhead Ship
 Status: WIP
 linter-yaml-title-alias: Hammerhead Ship
 tags:
-  - Quelle/5e/aag
   - Gegenstand/Fortbewegung/Gelände/See
   - Gegenstand/Fortbewegung/Gelände/Weltall
   - Gegenstand/Fortbewegung/Kategorie/Spelljammer
+  - Quelle/5e/aag
 aliases:
-  - Hammerhead Ship
   - Hammerhead Ship
 ---
 # Hammerhead Ship

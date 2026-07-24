@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/feat/strixhaven-mascot
 aliases:
   - Spells for Strixhaven Mascot
-  - Spells for Strixhaven Mascot
 ---
 # Spells for Strixhaven Mascot
 

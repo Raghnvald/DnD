@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +3 Ammunition
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: +3 Ammunition
 tags:

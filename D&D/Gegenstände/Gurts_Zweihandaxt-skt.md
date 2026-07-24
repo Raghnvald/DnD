@@ -1,8 +1,11 @@
 ---
-Bezeichnung: Gurt's Greataxe
+Bezeichnung: "Gurt's Greataxe"
+Original: "Gurt's Greataxe"
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
-linter-yaml-title-alias: Gurt's Greataxe
+linter-yaml-title-alias: "Gurt's Greataxe"
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/legendär
@@ -10,9 +13,8 @@ tags:
   - Gegenstand/Waffe/Nahkampf
   - Quelle/5e/skt
 aliases:
-  - Gurt's Greataxe
+  - "Gurt's Greataxe"
 status: WIP
-Original: Gurt's Greataxe
 ---
 # Gurt's Greataxe
 *Weapon (greataxe), legendary (requires attunement)*  

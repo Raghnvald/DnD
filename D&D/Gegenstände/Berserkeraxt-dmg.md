@@ -2,11 +2,13 @@
 Bezeichnung: Berserkeraxt
 Original: Berserker Axe
 Kategorie: Nahkampfwaffe, beliebige Axt
+Seltenheit:
+  - selten
 Schaden: variiert
 Eigenschaften:
   - variiert
   - Verflucht
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: variiert
 Status: completed
 linter-yaml-title-alias: Berserkeraxt

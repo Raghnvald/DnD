@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/subclass/strength-domain-psa
 aliases:
   - Spells for Strength Domain (PSA)
-  - Spells for Strength Domain (PSA)
 ---
 # Spells for Strength Domain (PSA)
 

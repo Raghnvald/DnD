@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Mind Control
+Original: Potion of Mind Control
 Kategorie: Trank
+Seltenheit:
+  - variiert
 Status: WIP
 linter-yaml-title-alias: Potion of Mind Control
 tags:

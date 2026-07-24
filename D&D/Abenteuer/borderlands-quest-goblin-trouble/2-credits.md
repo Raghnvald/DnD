@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/bqgt
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Borderlands Quest: Goblin Trouble* 

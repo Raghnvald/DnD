@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Rute
+Original: Rod
 Kategorie: Fokus, Arkan
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

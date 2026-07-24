@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Lash of Shadows (Exalted)
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Lash of Shadows (Exalted)
 tags:

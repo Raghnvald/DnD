@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Cloying Mists
-  - Cloying Mists
 ---
 # Cloying Mists
 *Source: Astarion's Book of Hungers p. 9*  

@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Abi-Dalzims schreckliches Welken
+Original: "Abi-Dalzim's Horrid Wilting"
 Zaubergrad: 8
 Zeitaufwand: 1 Aktion
 Reichweite: 45 Meter
@@ -25,7 +26,6 @@ tags:
   - Zauber/Schule/Nekromantie
 aliases:
   - Abi-Dalzims schreckliches Welken
-Original: "Abi-Dalzim's Horrid Wilting"
 ---
 # Abi-Dalzims schreckliches Welken
 *Nekromantie des 8. Grades*

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Bell
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Bell
 tags:

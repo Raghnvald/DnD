@@ -2,11 +2,13 @@
 Bezeichnung: Flammenzunge
 Original: Flame Tongue
 Kategorie: Nahkampfwaffe, beliebiges Schwert
+Seltenheit:
+  - selten
 Schaden: variiert
 Eigenschaften:
   - variiert
 Einstimmung: erforderlich
-Kst.: n/v
+Kst.: 5.000 GM
 Gew.: variiert
 Status: completed
 linter-yaml-title-alias: Flammenzunge

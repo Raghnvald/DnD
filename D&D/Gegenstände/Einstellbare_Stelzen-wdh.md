@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Adjustable Stilts
+Original: Adjustable Stilts
+Seltenheit:
+  - unbekannt
 Status: WIP
 linter-yaml-title-alias: Adjustable Stilts
 tags:

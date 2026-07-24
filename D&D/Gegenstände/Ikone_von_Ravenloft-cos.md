@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Icon of Ravenloft
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Icon of Ravenloft
 tags:

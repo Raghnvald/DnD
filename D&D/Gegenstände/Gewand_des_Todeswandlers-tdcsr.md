@@ -2,6 +2,8 @@
 Bezeichnung: Gewand des Todeswandlers
 Original: "Deathwalker's Ward"
 Kategorie: Rüstung
+Seltenheit:
+  - legendär
 Rüstung: Leicht
 Eigenschaften:
   - n/v

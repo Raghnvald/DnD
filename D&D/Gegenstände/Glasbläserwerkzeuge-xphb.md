@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Glassblower's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Glassblower's Tools"
 tags:

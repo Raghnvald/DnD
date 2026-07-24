@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wtthc
 aliases:
   - Appendix D - Pre-Generated Characters
-  - Appendix D - Pre-Generated Characters
 ---
 # Appendix D - Pre-Generated Characters
 *Source: Stranger Things: Welcome to the Hellfire Club* 

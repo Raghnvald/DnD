@@ -1,11 +1,15 @@
 ---
-Bezeichnung: Fool's Blade
+Bezeichnung: "Fool's Blade"
+Original: "Fool's Blade"
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
+Kst.: n/v
 Status: WIP
-linter-yaml-title-alias: Fool's Blade
+linter-yaml-title-alias: "Fool's Blade"
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/sehr_selten
@@ -14,15 +18,14 @@ tags:
   - Gegenstand/wundersam/generic-variant
   - Quelle/5e/bmt
 aliases:
-  - Fool's Blade
-  - Fool's Double-Bladed Scimitar
-  - Fool's Greatsword
-  - Fool's Longsword
-  - Fool's Rapier
-  - Fool's Scimitar
-  - Fool's Shortsword
+  - "Fool's Blade"
+  - "Fool's Double-Bladed Scimitar"
+  - "Fool's Greatsword"
+  - "Fool's Longsword"
+  - "Fool's Rapier"
+  - "Fool's Scimitar"
+  - "Fool's Shortsword"
 status: WIP
-Original: Fool's Blade
 ---
 # Fool's Blade
 *Very rare (requires attunement)*  

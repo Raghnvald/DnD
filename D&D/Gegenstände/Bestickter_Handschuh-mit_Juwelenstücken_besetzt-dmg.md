@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Embroidered glove set with jewel chips
+Original: Embroidered glove set with jewel chips
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2.500 GM

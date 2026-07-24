@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Shrieking Greaves
-Kategorie: Wundersamer Gegenstand 
+Original: Shrieking Greaves
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Shrieking Greaves
 tags:

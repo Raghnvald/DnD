@@ -2,12 +2,14 @@
 Bezeichnung: Forcebreaker Weapon
 Original: Forcebreaker Weapon
 Kategorie: Nahkampfwaffe, beliebig
-Eigenschaften:
-  - n/v
-Kst.: n/v
-Gew.: variiert
+Seltenheit:
+  - sehr selten
 Schaden: variiert
+Eigenschaften:
+  - variiert
 Einstimmung: n/v
+Kst.: 50.000 GM
+Gew.: variiert
 Status: WIP
 linter-yaml-title-alias: Forcebreaker Weapon
 tags:

@@ -10,7 +10,6 @@ aliases:
   - The Evenhanded
   - The Maimed God
   - Tyr
-  - Tyr
 ---
 # Tyr
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 

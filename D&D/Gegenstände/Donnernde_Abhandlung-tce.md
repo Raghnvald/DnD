@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Fulminating Treatise
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Fulminating Treatise
 tags:

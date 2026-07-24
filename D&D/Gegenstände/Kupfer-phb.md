@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kupfer
+Original: Copper
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 SM
@@ -14,7 +17,6 @@ tags:
 aliases:
   - Copper
   - Kupfer
-Original: Copper
 ---
 # Kupfer
 *Handelsware*

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of the Sun
-  - Champion of the Sun
 ---
 # Champion of the Sun
 *Piety Trait*  

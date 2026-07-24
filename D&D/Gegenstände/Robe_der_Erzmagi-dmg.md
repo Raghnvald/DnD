@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Robe of the Archmagi
-Kategorie: Wundersamer Gegenstand 
+Original: Robe of the Archmagi
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Robe of the Archmagi
 tags:

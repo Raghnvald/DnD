@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Djinni Summoning
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Ring of Djinni Summoning
 tags:

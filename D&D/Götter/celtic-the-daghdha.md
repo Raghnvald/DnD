@@ -4,8 +4,8 @@ Status: WIP
 linter-yaml-title-alias: The Daghdha
 tags:
   - Kompendium/Götter/celtic
-  - Kompendium/Götter/Domäne/Natur
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Natur
   - Quelle/5e/phb
 aliases:
   - The Daghdha

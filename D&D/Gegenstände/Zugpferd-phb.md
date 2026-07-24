@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Zugpferd
+Original: Draft Horse
 Kategorie: Reit- und Lastentier
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 50 GM
@@ -15,7 +18,6 @@ aliases:
   - Zugpferd
 Bew.: 12 m
 Traglast: 540 Pfd.
-Original: Draft Horse
 ---
 # Zugpferd
 *Reit- und Lasttiere*  

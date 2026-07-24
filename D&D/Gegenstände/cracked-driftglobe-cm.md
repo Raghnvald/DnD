@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Cracked Driftglobe
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Cracked Driftglobe
 tags:

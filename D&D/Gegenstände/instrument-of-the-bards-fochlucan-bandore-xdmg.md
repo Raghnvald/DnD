@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Instrument of the Bards, Fochlucan Bandore
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Instrument of the Bards, Fochlucan Bandore
 tags:

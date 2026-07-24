@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - Favored in House
-  - Favored in House
 ---
 # Favored in House
 *Source: Eberron: Forge of the Artificer p. 67*  

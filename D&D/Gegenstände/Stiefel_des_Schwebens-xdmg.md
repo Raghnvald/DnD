@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Boots of Levitation
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Boots of Levitation
 tags:

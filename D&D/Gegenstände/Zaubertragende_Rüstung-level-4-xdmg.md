@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Enspelled Armor (Level 4)
+Seltenheit:
+  - sehr selten
 Rüstung: Leicht, Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Enspelled Armor (Level 4)

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring der Bewegungsfreiheit
 Kategorie: Ring
+Seltenheit:
+  - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

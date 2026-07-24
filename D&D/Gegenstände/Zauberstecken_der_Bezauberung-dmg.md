@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Staff of Charming
+Original: Staff of Charming
 Kategorie: Zauberstecken
+Seltenheit:
+  - selten
 Schaden: 1W6 Hieb
 Eigenschaften:
   - Vielseitig (1W8)
@@ -16,7 +19,6 @@ tags:
 aliases:
   - Staff of Charming
 status: WIP
-Original: Staff of Charming
 ---
 # Staff of Charming
 *Zauberstecken, selten (erfordert Einstimmung durch einen Barden, Druiden, Hexenmeister, Kleriker, Magier oder Zauberer)*  

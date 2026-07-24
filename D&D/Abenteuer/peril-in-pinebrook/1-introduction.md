@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/pip
 aliases:
   - Introduction
-  - Introduction
 ---
 # Introduction
 *Source: Peril in Pinebrook, p. 2* 

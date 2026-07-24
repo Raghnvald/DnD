@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Axe of the Dwarvish Lords
 Kategorie: Nahkampf-Kriegswaffe
+Seltenheit:
+  - Artefakt
 Status: WIP
 linter-yaml-title-alias: Axe of the Dwarvish Lords
 tags:

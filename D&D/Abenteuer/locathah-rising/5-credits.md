@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/lr
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Locathah Rising* 

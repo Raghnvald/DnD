@@ -7,7 +7,6 @@ tags:
   - Rasse/goliath
 aliases:
   - Goliath
-  - Goliath
 ---
 # Goliath
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 21*  

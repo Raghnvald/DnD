@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/kftgv
 aliases:
   - Heart of Ashes
-  - Heart of Ashes
 ---
 # Heart of Ashes
 *Source: Keys from the Golden Vault, p. 149* 

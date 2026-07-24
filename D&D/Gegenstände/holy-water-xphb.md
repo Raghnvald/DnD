@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Holy Water
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Holy Water
 tags:

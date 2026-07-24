@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Hewards handlicher Kräuterbeutel
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Hewards handlicher Kräuterbeutel
 tags:

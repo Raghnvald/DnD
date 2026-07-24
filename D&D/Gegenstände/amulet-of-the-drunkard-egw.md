@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Amulet of the Drunkard
+Original: Amulet of the Drunkard
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Status: WIP

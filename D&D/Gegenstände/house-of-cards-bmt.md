@@ -1,5 +1,7 @@
 ---
 Bezeichnung: House of Cards
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: House of Cards
 tags:

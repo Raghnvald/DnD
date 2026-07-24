@@ -2,6 +2,9 @@
 Bezeichnung: Verwünschen
 Zaubergrad: 1
 Zeitaufwand: 1 Bonusaktion
+Reichweite: 18 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
 Status: WIP
 linter-yaml-title-alias: Verwünschen
 classes:
@@ -16,9 +19,6 @@ tags:
   - Zauber/Schule/Verzauberung
 aliases:
   - Verwünschen
-Reichweite: 18 Meter
-Komponenten: V, G, M
-Wirkungsdauer: Konzentration, bis zu 1 Minute
 ---
 # Verwünschen
 *1st-level, Enchantment*  

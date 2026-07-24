@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Sovereign Glue
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Sovereign Glue
 tags:

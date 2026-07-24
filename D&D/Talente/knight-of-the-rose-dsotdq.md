@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/dsotdq
 aliases:
   - Knight of the Rose
-  - Knight of the Rose
 ---
 # Knight of the Rose
 *Source: Dragonlance: Shadow of the Dragon Queen p. 33*  

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Wahrheitsserum
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 150 GM

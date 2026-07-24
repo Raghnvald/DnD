@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Carved wooden harp with ivory inlay and zircon gems
+Seltenheit:
+  - keine
 Kst.: 750 GM
 Status: WIP
 linter-yaml-title-alias: Carved wooden harp with ivory inlay and zircon gems

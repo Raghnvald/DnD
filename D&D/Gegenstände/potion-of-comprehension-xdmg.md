@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Potion of Comprehension
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Comprehension
 tags:

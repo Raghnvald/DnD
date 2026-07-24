@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Rod of Resurrection
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Rod of Resurrection
 tags:

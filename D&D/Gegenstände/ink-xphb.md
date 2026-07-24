@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ink
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Ink
 tags:

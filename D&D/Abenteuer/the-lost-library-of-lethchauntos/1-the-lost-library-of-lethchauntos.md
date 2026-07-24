@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - The Lost Library of Lethchauntos
-  - The Lost Library of Lethchauntos
 ---
 # The Lost Library of Lethchauntos
 *Source: The Lost Library of Lethchauntos, p. 227* 

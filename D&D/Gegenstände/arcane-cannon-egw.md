@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Arcane Cannon
+Original: Arcane Cannon
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Arcane Cannon
 tags:

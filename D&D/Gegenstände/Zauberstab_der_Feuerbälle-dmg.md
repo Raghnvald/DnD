@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wand of Fireballs
+Original: Wand of Fireballs
 Kategorie: Zauberstab
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wand of Fireballs
 tags:

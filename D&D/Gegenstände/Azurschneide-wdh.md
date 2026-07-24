@@ -2,6 +2,8 @@
 Bezeichnung: Azuredge
 Original: Azuredge
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Azuredge
 tags:

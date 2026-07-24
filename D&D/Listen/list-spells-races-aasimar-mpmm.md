@@ -6,7 +6,6 @@ tags:
   - Zauber/Liste/race/aasimar
 aliases:
   - Spells for Aasimar
-  - Spells for Aasimar
 ---
 # Spells for Aasimar
 

@@ -2,6 +2,8 @@
 Bezeichnung: Drachenschuppen-Panzer
 Original: Dragon Scale Mail
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Eigenschaften:
   - n/v

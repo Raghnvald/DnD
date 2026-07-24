@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Deck of Many Things
-Kategorie: Wundersamer Gegenstand 
+Original: Deck of Many Things
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Deck of Many Things
 tags:

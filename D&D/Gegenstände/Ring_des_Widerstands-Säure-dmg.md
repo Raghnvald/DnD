@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Ring des Säurewiderstands
 Kategorie: Ring
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring des Säurewiderstands
 tags:

@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Geschirr und Zaumzeug
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM

@@ -2,6 +2,8 @@
 Bezeichnung: Bronze-Drachenschuppen-Panzer
 Original: Bronze Dragon Scale Mail
 Kategorie: Rüstung
+Seltenheit:
+  - sehr selten
 Rüstung: Mittel
 Eigenschaften:
   - n/v

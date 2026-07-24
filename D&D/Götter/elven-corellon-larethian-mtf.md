@@ -4,9 +4,9 @@ Status: WIP
 linter-yaml-title-alias: Corellon Larethian
 tags:
   - Kompendium/Götter/Domäne/Arkan
+  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Licht
-  - Kompendium/Götter/Domäne/Krieg
   - Kompendium/Götter/elven
   - Quelle/5e/mtf
 aliases:

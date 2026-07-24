@@ -3,8 +3,8 @@ Bezeichnung: Lolth
 Status: WIP
 linter-yaml-title-alias: Lolth
 tags:
-  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Domäne/List
+  - Kompendium/Götter/Domäne/Wissen
   - Kompendium/Götter/Exandria
   - Quelle/5e/egw
 aliases:

@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/sac
 aliases:
   - Sage Advice Compendium (2014)
-  - Sage Advice Compendium (2014)
 ---
 # Sage Advice Compendium (2014)
 *Source: Sage Advice Compendium (2014), p. 1* 

@@ -2,6 +2,8 @@
 Bezeichnung: Knüppel
 Original: Club
 Kategorie: Nahkampfwaffe, einfach
+Seltenheit:
+  - keine
 Schaden: 1d4 Wucht
 Eigenschaften:
   - Leicht

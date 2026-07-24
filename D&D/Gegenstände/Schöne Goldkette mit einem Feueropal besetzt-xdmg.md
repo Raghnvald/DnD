@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Fine gold chain set with a fire opal
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Fine gold chain set with a fire opal
 tags:

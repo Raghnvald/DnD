@@ -5,12 +5,11 @@ Bezeichnung: Giant Swan
 Status: WIP
 linter-yaml-title-alias: Giant Swan
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/1
   - Monster/Größe/Groß
+  - Monster/HG/1
   - Monster/Typ/Tier
+  - Quelle/5e/wbtw
 aliases:
-  - Giant Swan
   - Giant Swan
 ---
 # [Giant Swan](3-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md)

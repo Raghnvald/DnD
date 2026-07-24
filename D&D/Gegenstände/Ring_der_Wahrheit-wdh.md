@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Ring of Truth Telling
+Original: Ring of Truth Telling
 Kategorie: Ring
+Seltenheit:
+  - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

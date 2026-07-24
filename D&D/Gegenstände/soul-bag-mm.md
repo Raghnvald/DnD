@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Soul Bag
+Original: Soul Bag
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Soul Bag
 tags:

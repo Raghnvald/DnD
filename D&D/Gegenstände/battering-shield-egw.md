@@ -1,5 +1,8 @@
 ---
 Bezeichnung: Battering Shield
+Original: Battering Shield
+Seltenheit:
+  - selten
 Rüstung: Schild
 Eigenschaften:
   - n/v
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/egw
 aliases:
   - Battering Shield
-Original: Battering Shield
 ---
 # Battering Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare (requires attunement)*  

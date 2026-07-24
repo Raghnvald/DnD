@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Pfeil-fangender Schild
 Kategorie: Rüstung
+Seltenheit:
+  - selten
 Rüstung: Schild
 Eigenschaften:
   - n/v

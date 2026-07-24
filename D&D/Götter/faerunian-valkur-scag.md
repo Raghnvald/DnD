@@ -3,8 +3,8 @@ Bezeichnung: Valkur
 Status: WIP
 linter-yaml-title-alias: Valkur
 tags:
-  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Sturm
   - Kompendium/Götter/Faerun
   - Quelle/5e/scag
 aliases:

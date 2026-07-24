@@ -2,8 +2,12 @@
 Bezeichnung: Hast
 Zaubergrad: 3
 Zeitaufwand: 1 Aktion
+Reichweite: 9 Meter
+Komponenten: V, G, M
+Wirkungsdauer: Konzentration, bis zu 1 Minute
+Schaden: n/v
 Status: WIP
-linter-yaml-title-alias: Haste
+linter-yaml-title-alias: Hast
 classes:
   - Bard (Magical Secrets)
   - Druid (Circle of the Land, Grassland)
@@ -24,11 +28,7 @@ tags:
   - Zauber/Grad/3
   - Zauber/Schule/Verwandlung
 aliases:
-  - Haste
-Reichweite: 9 Meter
-Komponenten: V, G, M
-Wirkungsdauer: Konzentration, bis zu 1 Minute
-Schaden: n/v
+  - Hast
 ---
 # Hast
 *3rd-level, Transmutation*  

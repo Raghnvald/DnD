@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Amber
+Seltenheit:
+  - keine
 Kst.: 100 GM
 Gew.: /
 Status: WIP

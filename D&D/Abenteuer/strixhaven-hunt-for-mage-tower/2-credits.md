@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc-hfmt
 aliases:
   - Credits
-  - Credits
 ---
 # Credits
 *Source: Strixhaven: Hunt for Mage Tower* 

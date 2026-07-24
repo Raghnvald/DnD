@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Hill Giant Strength
+Original: Potion of Hill Giant Strength
 Kategorie: Trank
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Potion of Hill Giant Strength
 tags:

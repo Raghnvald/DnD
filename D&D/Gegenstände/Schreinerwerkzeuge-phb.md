@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schreinerwerkzeuge
+Original: "Carpenter's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 8 GM

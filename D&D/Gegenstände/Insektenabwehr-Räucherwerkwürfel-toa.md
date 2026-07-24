@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Insektenabwehr (Räucherwerkwürfel)
+Original: Insect Repellent (Block of Incense)
 Kategorie: Abenteuerausrüstung
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM

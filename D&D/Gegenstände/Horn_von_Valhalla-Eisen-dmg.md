@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Horn of Valhalla, Iron
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Horn of Valhalla, Iron
 tags:

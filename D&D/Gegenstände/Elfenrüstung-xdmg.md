@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Elven Chain
+Seltenheit:
+  - keine
 Rüstung: Mittel oder Schwer
 Status: WIP
 linter-yaml-title-alias: Elven Chain

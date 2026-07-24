@@ -1,6 +1,8 @@
 ---
 Bezeichnung: "Danoth's Visor (Exalted)"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: "Danoth's Visor (Exalted)"
 tags:

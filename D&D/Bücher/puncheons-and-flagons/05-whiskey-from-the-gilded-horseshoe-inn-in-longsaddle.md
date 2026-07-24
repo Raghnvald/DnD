@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/paf
 aliases:
   - Whiskey from The Gilded Horseshoe Inn in Longsaddle
-  - Whiskey from The Gilded Horseshoe Inn in Longsaddle
 ---
 # Whiskey from The Gilded Horseshoe Inn in Longsaddle
 *Source: Puncheons and Flagons, p. 32* 

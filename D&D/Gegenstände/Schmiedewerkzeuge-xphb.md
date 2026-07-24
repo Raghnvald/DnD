@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Smith's Tools"
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: "Smith's Tools"
 tags:

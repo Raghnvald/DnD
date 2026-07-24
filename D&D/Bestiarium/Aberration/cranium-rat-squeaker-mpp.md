@@ -8,10 +8,10 @@ HG: 0
 Status: WIP
 linter-yaml-title-alias: Cranium Rat Squeaker
 tags:
-  - Quelle/5e/mpp
-  - Monster/HG/0
   - Monster/Größe/Winzig
+  - Monster/HG/0
   - Monster/Typ/Aberration
+  - Quelle/5e/mpp
 aliases:
   - Cranium Rat Squeaker
 status: WIP

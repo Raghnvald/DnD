@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/fraif
 aliases:
   - Psionic Field
-  - Psionic Field
 ---
 # Psionic Field
 *Environmental Hazard*  

@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/frhof
 aliases:
   - Harper Agent
-  - Harper Agent
 ---
 # Harper Agent
 *Source: Forgotten Realms: Heroes of Faerûn p. 37*  

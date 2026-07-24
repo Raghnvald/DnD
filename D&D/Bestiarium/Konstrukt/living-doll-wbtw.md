@@ -5,12 +5,11 @@ Bezeichnung: Living Doll
 Status: WIP
 linter-yaml-title-alias: Living Doll
 tags:
-  - Quelle/5e/wbtw
-  - Monster/HG/2
   - Monster/Größe/Winzig
+  - Monster/HG/2
   - Monster/Typ/Konstrukt
+  - Quelle/5e/wbtw
 aliases:
-  - Living Doll
   - Living Doll
 ---
 # [Living Doll](3-Mechanics/CLI/bestiary/construct/living-doll-wbtw.md)

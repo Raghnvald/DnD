@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Vampire Hunter
-  - Vampire Hunter
 ---
 # Vampire Hunter
 *Source: Astarion's Book of Hungers p. 8*  

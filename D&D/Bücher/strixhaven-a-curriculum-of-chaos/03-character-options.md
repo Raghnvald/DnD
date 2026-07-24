@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/scc
 aliases:
   - Character Options
-  - Character Options
 ---
 # Character Options
 *Source: Strixhaven: A Curriculum of Chaos, p. 29* 

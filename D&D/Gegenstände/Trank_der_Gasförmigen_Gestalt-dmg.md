@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Potion of Gaseous Form
+Original: Potion of Gaseous Form
 Kategorie: Trank
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Potion of Gaseous Form
 tags:

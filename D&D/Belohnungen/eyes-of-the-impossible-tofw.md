@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/tofw
 aliases:
   - Eyes of the Impossible
-  - Eyes of the Impossible
 ---
 # Eyes of the Impossible
 *Charm*  

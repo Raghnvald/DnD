@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Protective Verses
-Kategorie: Wundersamer Gegenstand 
+Original: Protective Verses
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Protective Verses
 tags:

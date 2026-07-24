@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/mot
 aliases:
   - Champion of Slaughter
-  - Champion of Slaughter
 ---
 # Champion of Slaughter
 *Piety Trait*  

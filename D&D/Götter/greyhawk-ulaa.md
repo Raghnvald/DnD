@@ -3,8 +3,8 @@ Bezeichnung: Ulaa
 Status: WIP
 linter-yaml-title-alias: Ulaa
 tags:
-  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Domäne/Krieg
+  - Kompendium/Götter/Domäne/Leben
   - Kompendium/Götter/Greyhawk
   - Quelle/5e/phb
 aliases:

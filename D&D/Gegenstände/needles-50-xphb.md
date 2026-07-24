@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Needles (50)
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Needles (50)
 tags:

@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ring of Spell Storing
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Ring of Spell Storing
 tags:

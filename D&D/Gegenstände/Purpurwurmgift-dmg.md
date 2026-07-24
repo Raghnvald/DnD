@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Purpurwurmgift
 Kategorie: Gift
+Seltenheit:
+  - keine
 Eigenschaften:
   - Gift
 Kst.: 2.000 GM

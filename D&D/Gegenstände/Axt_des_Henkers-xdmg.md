@@ -1,5 +1,7 @@
 ---
 Bezeichnung: "Executioner's Axe"
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: "Executioner's Axe"
 tags:

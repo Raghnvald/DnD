@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Amulett des Schwarzen Schädels
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - sehr selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich

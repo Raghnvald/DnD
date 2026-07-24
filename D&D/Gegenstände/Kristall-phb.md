@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kristall
+Original: Crystal
 Kategorie: Fokus, Arkan
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

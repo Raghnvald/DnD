@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/efa
 aliases:
   - House Orien Heir
-  - House Orien Heir
 ---
 # House Orien Heir
 *Source: Eberron: Forge of the Artificer p. 30*  

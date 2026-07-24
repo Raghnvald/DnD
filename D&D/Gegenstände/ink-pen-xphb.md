@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Ink Pen
+Seltenheit:
+  - keine
 Status: WIP
 linter-yaml-title-alias: Ink Pen
 tags:

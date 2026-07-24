@@ -9,7 +9,6 @@ aliases:
   - Lady Luck
   - Our Smiling Lady
   - Tymora
-  - Tymora
 ---
 # Tymora
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 

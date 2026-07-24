@@ -3,8 +3,8 @@ Bezeichnung: Galley
 Status: WIP
 linter-yaml-title-alias: Galley
 tags:
-  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Gelände/See
+  - Gegenstand/Fortbewegung/Größe/Gigantisch
   - Gegenstand/Fortbewegung/Kategorie/Schiff
   - Quelle/5e/gos
 aliases:

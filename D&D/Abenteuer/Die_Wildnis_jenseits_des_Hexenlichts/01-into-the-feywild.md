@@ -6,7 +6,6 @@ tags:
   - Quelle/5e/wbtw
 aliases:
   - Into the Feywild
-  - Into the Feywild
 ---
 # Into the Feywild
 *Source: The Wild Beyond the Witchlight, p. 4* 

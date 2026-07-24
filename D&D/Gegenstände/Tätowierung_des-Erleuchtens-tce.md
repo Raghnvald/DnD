@@ -1,6 +1,9 @@
 ---
 Bezeichnung: "Illuminator's Tattoo"
+Original: "Illuminator's Tattoo"
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - gewöhnlich
 Status: WIP
 linter-yaml-title-alias: "Illuminator's Tattoo"
 tags:

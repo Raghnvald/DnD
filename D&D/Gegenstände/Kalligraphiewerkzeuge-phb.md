@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Kalligraphiewerkzeuge
+Original: "Calligrapher's Supplies"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 10 GM

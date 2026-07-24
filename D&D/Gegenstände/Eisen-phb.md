@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Eisen
+Original: Iron Ball
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 1 SM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Eisen
-Original: Iron Ball
 ---
 # Eisen
 *Handelsgut*  

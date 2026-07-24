@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schusterwerkzeuge
+Original: "Cobbler's Tools"
 Kategorie: Werkzeug
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 5 GM
@@ -13,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schusterwerkzeuge
-status: WIP
 ---
 # Schusterwerkzeuge
 *Handwerkszeug*

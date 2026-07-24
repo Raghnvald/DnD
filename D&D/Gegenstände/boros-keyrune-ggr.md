@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Boros Keyrune
+Original: Boros Keyrune
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Boros Keyrune
 tags:

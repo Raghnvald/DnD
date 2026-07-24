@@ -7,7 +7,6 @@ tags:
   - Rasse/elf/zendikar-tajuru-nation
 aliases:
   - Elf (Zendikar; Tajuru Nation)
-  - Elf (Zendikar; Tajuru Nation)
 ---
 # Elf (Zendikar; Tajuru Nation)
 *Source: Plane Shift: Zendikar p. 18*  

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Stormgirdle
-Kategorie: Wundersamer Gegenstand 
+Original: Stormgirdle
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Stormgirdle
 tags:

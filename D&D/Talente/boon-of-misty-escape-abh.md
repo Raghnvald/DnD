@@ -7,7 +7,6 @@ tags:
   - Quelle/5e/abh
 aliases:
   - Boon of Misty Escape
-  - Boon of Misty Escape
 ---
 # Boon of Misty Escape
 *Source: Astarion's Book of Hungers p. 11*  

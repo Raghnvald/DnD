@@ -1,8 +1,8 @@
 ---
 Bezeichnung: Gegenstand aufspüren
 Zaubergrad: 2
-Status: WIP
 Zeitaufwand: 1 Aktion
+Status: WIP
 linter-yaml-title-alias: Gegenstand aufspüren
 classes:
   - Bard (Magical Secrets)

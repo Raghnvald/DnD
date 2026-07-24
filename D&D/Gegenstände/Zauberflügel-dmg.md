@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Wings of Flying
-Kategorie: Wundersamer Gegenstand 
+Original: Wings of Flying
+Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Wings of Flying
 tags:

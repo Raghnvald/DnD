@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Militärsattel
+Original: Military Saddle
 Kategorie: Zaumzeug, Harnisch und gezogene Fahrzeuge
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 20 GM

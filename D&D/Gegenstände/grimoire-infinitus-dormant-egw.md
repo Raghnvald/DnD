@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Grimoire Infinitus (Dormant)
+Seltenheit:
+  - legendär
 Status: WIP
 linter-yaml-title-alias: Grimoire Infinitus (Dormant)
 tags:

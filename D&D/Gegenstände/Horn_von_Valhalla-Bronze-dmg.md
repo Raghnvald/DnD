@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Horn of Valhalla, Bronze
+Seltenheit:
+  - sehr selten
 Status: WIP
 linter-yaml-title-alias: Horn of Valhalla, Bronze
 tags:

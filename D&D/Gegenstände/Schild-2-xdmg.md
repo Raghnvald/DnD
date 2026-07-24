@@ -1,5 +1,7 @@
 ---
 Bezeichnung: +2 Shield
+Seltenheit:
+  - selten
 Rüstung: Schild
 Status: WIP
 linter-yaml-title-alias: +2 Shield

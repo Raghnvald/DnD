@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Schaf
+Original: Sheep
 Kategorie: Handelsgut
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 2 GM
@@ -13,8 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schaf
-status: completed
-Original: Sheep
 ---
 # Schaf
 *Handelsgut*  

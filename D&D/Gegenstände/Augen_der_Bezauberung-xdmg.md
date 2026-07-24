@@ -1,5 +1,7 @@
 ---
 Bezeichnung: Eyes of Charming
+Seltenheit:
+  - ungewöhnlich
 Status: WIP
 linter-yaml-title-alias: Eyes of Charming
 tags:

@@ -1,6 +1,9 @@
 ---
 Bezeichnung: Silver-plated steel longsword with jet set in hilt
+Original: Silver-plated steel longsword with jet set in hilt
 Kategorie: Kunstobjekt
+Seltenheit:
+  - keine
 Eigenschaften:
   - n/v
 Kst.: 750 GM

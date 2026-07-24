@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Helm der Teleportation
 Kategorie: Wundersamer Gegenstand
+Seltenheit:
+  - selten
 Status: WIP
 linter-yaml-title-alias: Helm der Teleportation
 tags:
