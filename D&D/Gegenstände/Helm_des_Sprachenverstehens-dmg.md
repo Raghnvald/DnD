@@ -11,8 +11,8 @@ aliases:
   - Helm of Comprehending Languages
 ---
 # Helm of Comprehending Languages
-*Wondrous item, minor, uncommon*  
-![](img/helm-of-comprehending-languages.webp#right)
+*Wondrous item, minor, uncommon*
+<img src="helm-of-comprehending-languages.webp" align="right" width="150">
 
 While wearing this helm, you can use an action to cast the [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages.md) spell from it at will.
 

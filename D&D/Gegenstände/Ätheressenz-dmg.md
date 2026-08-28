@@ -16,6 +16,7 @@ tags:
 aliases:
   - Ätheressenz
 status: WIP
+Quelle: DMG
 ---
 # Ätheressenz
 *Adventuring gear, poison (inhaled)*  

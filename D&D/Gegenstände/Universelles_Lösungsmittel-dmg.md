@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Universal Solvent
+Quelle: DMG
 ---
 # Universal Solvent
 *Wondrous item, minor, legendary*  

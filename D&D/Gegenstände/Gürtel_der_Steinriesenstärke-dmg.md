@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Belt of Stone Giant Strength
+Bezeichnung: Gürtel der Riesenstärke (Steinriese)
+Original: Belt of Stone Giant Strength
 Seltenheit:
   - sehr selten
 Status: WIP

@@ -21,6 +21,7 @@ tags:
 aliases:
   - Überschutt
 status: WIP
+Quelle: DMG
 ---
 # Überschutt
 *Weapon ([warhammer](Kriegshammer-phb)), legendary (requires attunement by a dwarf)*

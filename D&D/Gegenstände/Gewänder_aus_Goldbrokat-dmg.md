@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Cloth-of-gold vestments
+Bezeichnung: Gewänder aus Goldbrokat
 Original: Cloth-of-gold vestments
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Cloth-of-gold vestments
+Status: completed
+linter-yaml-title-alias: Gewänder aus Goldbrokat
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Cloth-of-gold vestments
+  - Gewänder aus Goldbrokat
 ---
-# Cloth-of-gold vestments
-*Treasure (art object)*  
+# Gewänder aus Goldbrokat
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

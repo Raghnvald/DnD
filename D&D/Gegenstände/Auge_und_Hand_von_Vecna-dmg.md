@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Auge und Hand von Vecna
+Quelle: DMG
 ---
 # Auge und Hand von Vecna
 *Wondrous item, artifact (requires attunement)*  

@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberschriftrolle
+Quelle: DMG
 ---
 # Zauberschriftrolle
 *Schriftrolle*  

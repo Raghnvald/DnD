@@ -16,6 +16,7 @@ tags:
 aliases:
   - Spell Scroll (1st Level)
   - Zauberschriftrolle (Zaubergrad 1)
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 1)
 *Schriftrolle, gewöhnlich*  

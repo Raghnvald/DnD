@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 10 GM
 Gew.: 0,5 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Schloss
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,11 +18,11 @@ aliases:
   - Schloss
 ---
 # Schloss
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 10 gp
-- **Weight**: 1.0 lbs.
+- **Kosten**: 10 GM
+- **Gewicht**: 0,5 kg
 
-A key is provided with the lock. Without the key, a creature proficient with [thieves' tools](/3-Mechanics/CLI/items/thieves-tools.md) can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
+Jedes Schloss wird mit einem passenden Schlüssel verkauft. Eine Kreatur, die geübt im Umgang mit [[Diebeswerkzeug-phb|Diebeswerkzeug]] ist, kann das Schloss auch ohne den Schlüssel mit einem erfolgreichen Geschicklichkeitswurf gegen SG 15 öffnen. Dein SL kann bestimmen, ob es für mehr Geld bessere Schlösser zu kaufen gibt.
 
-*Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 152. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

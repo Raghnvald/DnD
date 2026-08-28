@@ -1,8 +1,10 @@
 ---
-Bezeichnung: Wand of Orcus
+Bezeichnung: Zauberstab von Orcus
+Original: Wand of Orcus
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: xDMG
 linter-yaml-title-alias: Wand of Orcus
 tags:
   - Gegenstand/Einstimmung/erfordert

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Jeweled anklet
+Bezeichnung: Fußring mit Juwelen
 Original: Jeweled anklet
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 2.500 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Jeweled anklet
+Status: completed
+linter-yaml-title-alias: Fußring mit Juwelen
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Jeweled anklet
+  - Fußring mit Juwelen
 ---
-# Jeweled anklet
-*Treasure (art object)*  
+# Fußring mit Juwelen
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 2,500 gp
+- **Kosten**: 2.500 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Embroidered silk handkerchief
+Bezeichnung: Besticktes Seidentaschentuch
 Original: Embroidered silk handkerchief
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Embroidered silk handkerchief
+Status: completed
+linter-yaml-title-alias: Besticktes Seidentaschentuch
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Embroidered silk handkerchief
+  - Besticktes Seidentaschentuch
 ---
-# Embroidered silk handkerchief
-*Treasure (art object)*  
+# Besticktes Seidentaschentuch
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

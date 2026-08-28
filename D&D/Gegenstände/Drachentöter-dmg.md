@@ -10,7 +10,7 @@ Eigenschaften:
   - variiert
 Kst.: 5.000 GM
 Gew.: variiert
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Drachentöter
 tags:
   - Gegenstand/Seltenheit/selten
@@ -28,12 +28,12 @@ aliases:
   - Dragon Slayer Shortsword
 ---
 # Drachentöter
-*Major, rare*  
-![](img/dragon-slayer.webp#right)
+*Waffe (irgendein Schwert), selten*
+<img src="dragon-slayer.webp" align="right" width="150">
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Du erhältst einen Bonus von +1 auf Angriffs- und Schadenswürfe, die du mit dieser Waffe ausübst.
 
-When you hit a dragon with this weapon, the dragon takes an extra `3d6` damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
+Wenn du damit einen Drachen verletzt, erhält der Drache zusätzlich `3W6` Schaden von der Schadensart der Waffe. Für diese Waffe zählen unter den Begriff „Drache" alle Lebewesen des Typs Drache, Drachenschildkröten und Lindwürmer eingeschlossen.
 
 **Varianten**:
 - [[#Drachentöter-Krummsäbel]]

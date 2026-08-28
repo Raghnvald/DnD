@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 10 GM
 Gew.: 29,5 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Entdeckerausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,20 +18,20 @@ aliases:
   - Entdeckerausrüstung
 ---
 # Entdeckerausrüstung
-*Adventuring gear*  
+*Abenteuerausrüstung*
 
-- **Cost**: 10 gp
-- **Weight**: 59.0 lbs.
+- **Kosten**: 10 GM
+- **Gewicht**: 29,5 kg
 
-Includes:
+Enthält:
 
-- a [backpack](/3-Mechanics/CLI/items/backpack.md)  
-- a [bedroll](/3-Mechanics/CLI/items/bedroll.md)  
-- a [mess kit](/3-Mechanics/CLI/items/mess-kit.md)  
-- a [tinderbox](/3-Mechanics/CLI/items/tinderbox.md)  
-- 10 [torches](/3-Mechanics/CLI/items/torch.md)  
-- 10 days of [rations](/3-Mechanics/CLI/items/rations-1-day.md)  
-- a [waterskin](/3-Mechanics/CLI/items/waterskin.md)  
-- [50 feet of hempen rope](/3-Mechanics/CLI/items/hempen-rope-50-feet.md)  
+- ein [[Rucksack-phb|Rucksack]]
+- ein [[Schlafsack-phb|Schlafsack]]
+- ein [[Reisegeschirr-phb|Reisegeschirr]]
+- ein [[Zunderkästchen-phb|Zunderkästchen]]
+- 10 [[Fackel-phb|Fackeln]]
+- 10 [[Tagesration-phb|Tagesrationen]]
+- ein [[Trinkschlauch-phb|Wasserschlauch]]
+- ein [[Hanfseil-15-Meter-phb|15 Meter langes Hanfseil]]
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

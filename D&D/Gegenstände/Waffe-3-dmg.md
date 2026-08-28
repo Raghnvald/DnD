@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +3 Weapon
+Bezeichnung: Waffe +3
+Original: +3 Weapon
 Seltenheit:
   - sehr selten
 Status: WIP
@@ -68,6 +69,7 @@ aliases:
   - +3 Weapon
   - +3 Whip
   - +3 Yklwa
+Quelle: DMG
 ---
 # +3 Weapon
 *Major, very rare*  

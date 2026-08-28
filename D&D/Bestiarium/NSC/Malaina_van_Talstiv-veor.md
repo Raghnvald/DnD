@@ -7,7 +7,7 @@ Größe: Mittelgroß
 HG: 8
 Habitat:
   - /
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Malaina van Talstiv
 tags:
   - Monster/Größe/Mittelgroß
@@ -17,75 +17,45 @@ tags:
 aliases:
   - Malaina van Talstiv
 image: token/malaina-van-talstiv-veor.webp
-status: WIP
 ---
-# [Malaina van Talstiv](3-Mechanics\CLI\bestiary\npc/malaina-van-talstiv-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# Malaina van Talstiv
+*Quelle: Vecna: Vorabend der Verdammnis*
 
-```statblock
-"name": "Malaina van Talstiv (VEoR)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human"
-"alignment": "Neutral Good"
-"ac": !!int "15"
-"ac_class": "studded leather"
-"hp": !!int "78"
-"hit_dice": "12d8 + 24"
-"modifier": !!int "3"
-"stats":
-  - !!int "11"
-  - !!int "16"
-  - !!int "14"
-  - !!int "13"
-  - !!int "11"
-  - !!int "10"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "6"
-  - "intelligence": !!int "4"
-"skillsaves":
-  - "name": "Acrobatics"
-    "desc": "+6"
-  - "name": "Deception"
-    "desc": "+3"
-  - "name": "Perception"
-    "desc": "+3"
-  - "name": "Stealth"
-    "desc": "+9"
-"damage_resistances": "poison"
-"senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
-"cr": "8"
-"traits":
-  - "desc": "During its first turn, Malaina has advantage on attack rolls against\
-      \ any creature that hasn't taken a turn. Any hit Malaina scores against a surprised\
-      \ creature is a critical hit."
-    "name": "Assassinate"
-  - "desc": "If Malaina is subjected to an effect that allows it to make a Dexterity\
-      \ saving throw to take only half damage, Malaina instead takes no damage if\
-      \ it succeeds on the saving throw, and only half damage if it fails."
-    "name": "Evasion"
-  - "desc": "Malaina deals an extra 14 (4d6) damage when it hits a target with a weapon\
-      \ attack and has advantage on the attack roll, or when the target is within\
-      \ 5 feet of an ally of Malaina that isn't incapacitated and Malaina doesn't\
-      \ have disadvantage on the attack roll."
-    "name": "Sneak Attack (1/Turn)"
-"actions":
-  - "desc": "Malaina makes two shortsword attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage, and the target must make a DC 15 Constitution saving\
-      \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
-    "name": "Shortsword"
-  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:*\
-      \ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution\
-      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as much\
-      \ damage on a successful one."
-    "name": "Light Crossbow"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/malaina-van-talstiv-veor.webp"
-```
+> [!statblock] Malaina van Talstiv
+> ![[token/malaina-van-talstiv-veor.webp|right|100]]
+> *Mittelgroßer Humanoid (jedes Volk), jede nicht gute Gesinnung*
+> 
+> - **Rüstungsklasse** 15 ([[Beschlagene_Lederrüstung-phb|Beschlagene Lederrüstung]])
+> - **Trefferpunkte** 78 (`12d8 + 24`)
+> - **Bewegungsrate** 9 Meter
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | 11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
+> 
+> - **Rettungswürfe** GES +6, INT +4
+> - **Fertigkeiten** Akrobatik +6, Heimlichkeit +9, Täuschung +3
+> - **Schadensresistenzen** Gift
+> - **Schadensimmunitäten** -
+> - **Zustandsimmunitäten** - 
+> - **Sinne** passive Wahrnehmung 13
+> - **Sprachen** Diebessprache plus zwei weitere Sprachen nach Wahl
+> - **Herausforderungsgrad** 8 (3.900 EP)
+> - **Übungsbonus** +3
+> 
+> ## Merkmale
+> 
+> ***Attentat*** Während ihres ersten Zuges hat Malaina einen Vorteil auf Angriffswürfe gegen jede Kreatur, die noch keinen Zug ausgeführt hat. Jeder Treffer, den Malaina gegen eine überraschte Kreatur erzielt, gilt als kritischer Treffer. 
+> 
+> ***Ausweichmanöver.*** Wenn Malaina Ziel eines Effekts wird, der es ihr erlaubt, einen `Geschicklichkeits-Rettungswurf` zu machen, um nur halben Schaden zu erleiden, erleidet sie stattdessen bei einem gelungenen Rettungswurf gar keinen Schaden und nur halben Schaden, wenn er misslingt. 
+> 
+> ***Hinterhältiger Angriff.*** Einmal pro Zug verursacht Malaina zusätzliche 14 (`4d6`) Schaden, wenn sie ein Ziel mit einem Waffenangriff trifft und Vorteil beim Angriffswurf hat, oder wenn sich das Ziel innerhalb von 1,5 m zu einem Verbündeten Malainas aufhält, der nicht kampfunfähig ist, und Malaina keinen Nachteil auf ihren Angriffswurf hat. 
+> 
+> ## Aktionen
+> 
+> ***Mehrfachangriff.*** Malaina führt zwei Kurzschwert-Angriffe durch. 
+> 
+> ***Kurzschwert.*** *Nahkampf-Waffenangriff:* +6 zum Treffen, Reichweite 1,5 m, ein Ziel. Treffer: 6 (`1d6 + 3`) Stichschaden, und das Ziel muss einen `Konstitutions-Rettungswurf` gegen `SG 15` ablegen, um nicht 24 (`7d6`) Giftschaden zu erleiden, halb so viel Schaden bei einem erfolgreichen Rettungswurf. 
+> 
+> ***Leichte Armbrust.*** *Fernkampf-Waffenangriff:* +6 zum Treffen, Reichweite 24/96 m, ein Ziel. Treffer: 7 (`1d8 + 3`) Stichschaden, und das Ziel muss einen `Konstitutions-Rettungswurf` gegen `SG 15` ablegen, um nicht 24 (`7d6`) Giftschaden zu erleiden, halb so viel Schaden bei einem erfolgreichen Rettungswurf. 
 ^statblock

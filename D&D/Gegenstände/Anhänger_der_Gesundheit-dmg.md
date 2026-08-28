@@ -1,6 +1,8 @@
 ---
 Bezeichnung: Anhänger der Gesundheit
+Original: Periapt of Health
 Kategorie: Wundersamer Gegenstand
+Einstimmung: n/v
 Seltenheit:
   - ungewöhnlich
 Eigenschaften:
@@ -16,6 +18,7 @@ tags:
 aliases:
   - Anhänger der Gesundheit
   - Periapt of Health
+Quelle: DMG
 ---
 # Anhänger der Gesundheit
 *Wundersamer Gegenstand, ungewöhnlich*  

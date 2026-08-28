@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Belt of Cloud Giant Strength
+Bezeichnung: Gürtel der Riesenstärke (Wolkenriese)
+Original: Belt of Cloud Giant Strength
 Seltenheit:
   - legendär
 Status: WIP

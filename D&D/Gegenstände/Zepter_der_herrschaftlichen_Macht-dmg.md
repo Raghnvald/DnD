@@ -20,6 +20,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zepter der herrschaftlichen Macht
+Quelle: DMG
 ---
 # Zepter der herrschaftlichen Macht
 *Rod ([[Streitkolben-phb|Streitkolben]])), melee weapon ([[Streitkolben-phb|Streitkolben]])), major, legendary (requires attunement)*  

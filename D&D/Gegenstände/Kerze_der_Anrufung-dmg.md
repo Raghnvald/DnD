@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Candle of Invocation
+Bezeichnung: Kerze der Anrufung
 Original: Candle of Invocation
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Candle of Invocation
 ---
-# Candle of Invocation
+# Kerze der Anrufung
 *Wondrous item, major, very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/candle-of-invocation.webp#right)
 

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Airship
+Bezeichnung: Luftschiff
 Original: Airship
 Kategorie: Luft- und Wasserfahrzeug
 Seltenheit:

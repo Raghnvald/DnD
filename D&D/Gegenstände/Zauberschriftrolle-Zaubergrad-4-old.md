@@ -16,6 +16,7 @@ tags:
 aliases:
   - Spell Scroll (4th Level)
   - Zauberschriftrolle (Zaubergrad 4)
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 4)
 *Schriftrolle, selten*  

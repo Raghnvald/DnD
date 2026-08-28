@@ -21,6 +21,7 @@ tags:
 aliases:
   - Wächterschild
 status: completed
+Quelle: DMG
 ---
 # Wächterschild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), ungewöhnlich*  

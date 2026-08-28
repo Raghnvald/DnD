@@ -11,8 +11,8 @@ aliases:
   - Necklace of Fireballs
 ---
 # Necklace of Fireballs
-*Wondrous item, minor, rare*  
-![](img/necklace-of-fireballs.webp#right)
+*Wondrous item, minor, rare*
+<img src="necklace-of-fireballs.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

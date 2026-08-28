@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Wings of Flying
+Bezeichnung: Zauberflügel
 Original: Wings of Flying
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wings of Flying
+Quelle: DMG
 ---
 # Wings of Flying
 *Wondrous item, major, rare (requires attunement)*  

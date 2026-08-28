@@ -5,6 +5,7 @@ Kategorie: Zauberstab
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: DMG
 linter-yaml-title-alias: Zauberstab von Orcus
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -15,7 +16,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberstab von Orcus
-status: WIP
 ---
 # Zauberstab von Orcus
 *Weapon ([mace](/3-Mechanics/CLI/items/mace.md)), wand, artifact (requires attunement)*  

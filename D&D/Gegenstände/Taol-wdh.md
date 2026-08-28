@@ -23,6 +23,6 @@ status: WIP
 
 - **Cost**: 2 gp
 
-Brass coin, about two inches square with a hold large enough for a [nib](/3-Mechanics/CLI/items/nib-wdh.md) to fit in (1 taol = 200 [nibs](/3-Mechanics/CLI/items/nib-wdh.md))
+Brass coin, about two inches square with a hold large enough for a [nibs](feder-wdh.md) to fit in (1 taol = 200 [nibs](feder-wdh.md))
 
 *Source: Waterdeep: Dragon Heist p. 169*

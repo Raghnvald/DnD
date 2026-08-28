@@ -1,51 +1,35 @@
 ---
-Bezeichnung: Belt of Dwarvenkind
+Bezeichnung: Zwergengürtel
 Original: Belt of Dwarvenkind
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - selten
 Status: WIP
-linter-yaml-title-alias: Belt of Dwarvenkind
+linter-yaml-title-alias: Zwergengürtel
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Belt of Dwarvenkind
+  - Zwergengürtel
+Quelle: DMG
 ---
-# Belt of Dwarvenkind
-*Wondrous item, major, rare (requires attunement)*  
-![](img/belt-of-dwarvenkind.webp#right)
+# Zwergengürtel
+*Wundersamer Gegenstand, selten (erfordert Einstimmung)*
+<img src="belt-of-dwarvenkind.webp" align="right" width="150">
 
-- **Eigenschaften**: Erfordert Einstimmung
-- **Kosten**: 6.000 Goldmünzen
-- **Gewicht**: ⏤
+Während du diesen Gürtel trägst, erhältst du folgende Boni:
 
-Wenn du diesen Gürtel trägst, erhältst du die folgenden Vorteile:
+- Dein Konstitutionswert erhöht sich um 2, bis zu einem Maximum von 20.
+- Du hast einen Vorteil bei Würfen auf Charisma ([[Fertigkeiten-phb#Überzeugen|Überzeugen]]) wenn du mit Zwergen interagierst.
 
-- Dein Konstitutionswert steigt dauerhaft um 2 (auf maximal 20),
-- Du bist bei Charismawürfen ([Überzeugen](rules/skills.md#Persuasion)) die erfolgen, um mit Zwergen zu interagieren, im Vorteil. 
+Zusätzlich besteht täglich die Chance von 50%, dass dir ein Bart wächst, während du diesen Gürtel trägst, sofern du in der Lage bist, einen Bart zu haben. Hast du bereits einen Bart, wird dieser sichtlich dichter.
 
-Wenn du auf den Gürtel eingestimmt bist, hast du außerdem jeden Tag im Morgengrauen eine Chance von 50 Prozent, dass dir ein Vollbart wächst, sofern du dazu in der Lage bist, oder dass dein Bart wesentlich dichter wird, falls du schon einen hast.
+Wenn du kein Zwerg bist, erhältst du folgende Vorteile beim Tragen des Gürtels:
 
-Falls du kein Zwerg bist, erhältst du die folgenden zusätzlichen Vorteile, wenn du diesen Gürtel trägst:
+- Du hast einen Vorteil auf Rettungswürfe gegen Gift und du hast Resistenz gegen Giftschaden.
+- Du erhältst [[Sinne-phb#Dunkelsicht|Dunkelsicht]] bis zu einer Entfernung von 18 Metern.
+- Du kannst Zwergisch sprechen, verstehen, lesen und schreiben.  
 
-- Du bist bei Rettungswürfen gegen Vergiftet im Vorteil und gegen Giftschaden resistent. 
-- Du hast [Dunkelsicht](rules/senses.md#darkvision) mit einer Reichweite von 18 Metern.
-- Du kannst Zwergisch sprechen, lesen und schreiben.  
-
-While wearing this belt, you gain the following benefits:
-
-- Your Constitution score increases by 2, to a maximum of 20.  
-- You have advantage on Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) checks made to interact with dwarves.  
-
-In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.
-
-If you aren't a dwarf, you gain the following additional benefits while wearing the belt:
-
-- You have advantage on saving throws against poison, and you have resistance against poison damage.  
-- You have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
-- You can speak, read, and write Dwarvish.  
-
-*Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 213. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

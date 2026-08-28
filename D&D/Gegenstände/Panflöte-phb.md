@@ -7,7 +7,7 @@ Eigenschaften:
   - n/v
 Kst.: 12 GM
 Gew.: 1,0 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Panflöte
 tags:
   - Gegenstand/Ausrüstung/Instrument
@@ -15,12 +15,11 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Panflöte
-status: WIP
 ---
 # Panflöte
 *Instrument*  
 
-- **Cost**: 12 gp
-- **Weight**: 2.0 lbs.
+- **Kosten**: 12 GM
+- **Gewicht**: 1,0 kg
 
-*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

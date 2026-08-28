@@ -3,7 +3,7 @@ Bezeichnung: Trickbeutel
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - ungewöhnlich
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Trickbeutel
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -11,14 +11,15 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trickbeutel
+Quelle: DMG
 ---
 # Trickbeutel
-*Wundersamer Gegenstand, major, ungewöhnlich*  
+*Wundersamer Gegenstand, ungewöhnlich*  
 <img src="bag-of-tricks.webp" align="right" width="150">
 
-- **Gewicht**: 0.5 lbs.
+- **Gewicht**: 0,25 kg
 
-**Items in this group:**
+**Gegenstände in dieser Gruppe:**
 
 - [[Trickbeutel-grau-dmg|Trickbeutel, grau]]
 - [[Trickbeutel-rost-dmg|Trickbeutel, rostfarben]]

@@ -11,6 +11,7 @@ Eigenschaften:
 Einstimmung: durch eine Kreatur, die keine gute Gesinnung hat
 Kst.: /
 Gew.: 3,0 kg
+Quelle: DMG
 Status: WIP
 linter-yaml-title-alias: Schwarzklinge
 tags:
@@ -21,10 +22,9 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schwarzklinge
-status: WIP
 ---
 # Schwarzklinge
-*Waffe ([[Zweihandschwert-phb|Zweihandschwert]]), legendär (benötigt Einstimmung durch eine Kreatur, die keine gute Gesinnung hat)*  
+*Waffe ([[Zweihandschwert-phb|Zweihandschwert]]), legendär (erfordert Einstimmung durch eine Kreatur, die keine gute Gesinnung hat)*  
 <img src="blackrazor.webp" align="right" width="150">
 
 - **Schaden**: 2d6 Hieb

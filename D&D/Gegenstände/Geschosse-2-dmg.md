@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +2 Ammunition
+Bezeichnung: Geschosse +2
+Original: +2 Ammunition
 Seltenheit:
   - selten
 Status: WIP

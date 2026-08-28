@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gold locket with a painted portrait inside
+Bezeichnung: Goldenes Medaillon mit gemaltem Porträt im Innenraum
 Original: Gold locket with a painted portrait inside
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Gold locket with a painted portrait inside
+Status: completed
+linter-yaml-title-alias: Goldenes Medaillon mit gemaltem Porträt im Innenraum
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Gold locket with a painted portrait inside
+  - Goldenes Medaillon mit gemaltem Porträt im Innenraum
 ---
-# Gold locket with a painted portrait inside
-*Treasure (art object)*  
+# Goldenes Medaillon mit gemaltem Porträt im Innenraum
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

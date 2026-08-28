@@ -17,8 +17,8 @@ aliases:
   - Ring des Federfalls
 ---
 # Ring des Federfalls
-*Ring, selten (erfordert Einstimmung)*  
-![](img/ring-of-feather-falling.webp#right)
+*Ring, selten (erfordert Einstimmung)*
+<img src="ring-of-feather-falling.webp" align="right" width="250">
 
 Während du diesen Ring trägst und fällst, sinkst du 18 Meter pro Runde und nimmst dabei keinen Schaden.
 

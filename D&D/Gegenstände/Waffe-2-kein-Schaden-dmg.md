@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +2 Weapon (no damage)
+Bezeichnung: Waffe +2 (kein Schaden)
+Original: +2 Weapon (no damage)
 Seltenheit:
   - selten
 Status: WIP
@@ -10,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +2 Weapon (no damage)
+Quelle: DMG
 ---
 # +2 Weapon (no damage)
 *Major, rare*  

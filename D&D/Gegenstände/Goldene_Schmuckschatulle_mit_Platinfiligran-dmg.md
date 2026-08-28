@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Gold jewelry box with platinum filigree
+Bezeichnung: Goldene Schmuckschatulle mit Platinfiligran
 Original: Gold jewelry box with platinum filigree
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 7.500 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Gold jewelry box with platinum filigree
+Status: completed
+linter-yaml-title-alias: Goldene Schmuckschatulle mit Platinfiligran
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Gold jewelry box with platinum filigree
+  - Goldene Schmuckschatulle mit Platinfiligran
 ---
-# Gold jewelry box with platinum filigree
-*Treasure (art object)*  
+# Goldene Schmuckschatulle mit Platinfiligran
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 7,500 gp
+- **Kosten**: 7.500 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

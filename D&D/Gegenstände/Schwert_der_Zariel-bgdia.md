@@ -1,10 +1,11 @@
 ---
-Bezeichnung: Sword of Zariel
+Bezeichnung: Schwert der Zariel
 Original: Sword of Zariel
 Kategorie: Nahkampfwaffe, Kriegswaffe
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: BGDiA
 linter-yaml-title-alias: Sword of Zariel
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -15,7 +16,6 @@ tags:
 aliases:
   - Schwert von Zariel
   - Sword of Zariel
-status: WIP
 ---
 # Sword of Zariel
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement by a creature the sword deems worthy)*  

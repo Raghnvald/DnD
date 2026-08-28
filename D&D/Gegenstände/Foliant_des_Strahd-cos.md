@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: n/v
 Gew.: 0,25 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Foliant des Strahd
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,11 +18,11 @@ aliases:
   - Foliant des Strahd
 ---
 # Foliant des Strahd
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 ![](img/tome-of-strahd.webp#right)
 
-- **Weight**: 5.0 lbs.
+- **Gewicht**: 2,5 kg
 
-The Tome of Strahd is an ancient work penned by Strahd, a tragic tale of how he came to his fallen state. The book is bound in a thick leather cover with steel hinges and fastenings. The pages are of parchment and very brittle. Most of the book is written in the curious shorthand that only Strahd employs. Stains and age have made most of the work illegible, but several paragraphs remain intact.
+Der Foliant des Strahd ist ein uraltes, von Strahd verfasstes Werk, eine tragische Geschichte davon, wie er zu seinem gefallenen Zustand kam. Das Buch ist in einen dicken Ledereinband mit stählernen Scharnieren und Verschlüssen gebunden. Die Seiten sind aus Pergament und sehr brüchig. Der größte Teil des Buches ist in einer merkwürdigen Kurzschrift verfasst, derer sich nur Strahd bedient. Flecken und Alter haben den größten Teil des Werks unleserlich gemacht, aber mehrere Absätze sind intakt und lesbar geblieben.
 
-*Source: Curse of Strahd p. 221*
+*Quelle: Fluch des Strahd S. 221*

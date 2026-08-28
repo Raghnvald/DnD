@@ -24,7 +24,7 @@ aliases:
 ---
 # Frostbrand
 *Waffe (beliebiges Schwert), sehr selten (erfordert Einstimmung)*
-<img src="Frostbrand.webp" align="right" width="150">
+<img src="frost-brand.webp" align="right" width="150">
 
 Wenn deine Attacke mit diesem magischen Schwert trifft, erleidet dein Ziel zusätzlichen Kälteschaden in Höhe von `1W6`. Zusätzlich hast du Resistenz gegen Feuerschaden, während du das Schwert trägst.
 

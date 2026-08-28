@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +1 Weapon
+Bezeichnung: Waffe +1
+Original: +1 Weapon
 Seltenheit:
   - ungewöhnlich
 Status: WIP
@@ -68,6 +69,7 @@ aliases:
   - +1 Weapon
   - +1 Whip
   - +1 Yklwa
+Quelle: DMG
 ---
 # +1 Weapon
 *Major, uncommon*  

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Psychic Resistance
+Bezeichnung: Rüstung des Widerstands (Psychisch)
+Original: Armor of Psychic Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

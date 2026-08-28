@@ -13,9 +13,9 @@ tags:
 aliases:
   - Cape of the Mountebank
 ---
-# Cape of the Mountebank
-*Wondrous item, major, rare*  
-![](/3-Mechanics/CLI/items/img/cape-of-the-mountebank.webp#right)
+# Umhang des Scharlatans
+*Wondrous item, major, rare*
+<img src="cape-of-the-mountebank.webp" align="right" width="150">
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the [dimension door](/3-Mechanics/CLI/spells/dimension-door.md) spell as an action. This property of the cape can't be used again until the next dawn.
 

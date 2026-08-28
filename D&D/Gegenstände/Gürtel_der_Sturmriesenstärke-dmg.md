@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Belt of Storm Giant Strength
+Bezeichnung: Gürtel der Riesenstärke (Sturmriese)
+Original: Belt of Storm Giant Strength
 Seltenheit:
   - legendär
 Status: WIP

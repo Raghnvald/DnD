@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +3 Wand of the War Mage
+Bezeichnung: Zauberstab des Kriegsmagiers +3
+Original: +3 Wand of the War Mage
 Kategorie: Zauberstab
 Seltenheit:
   - sehr selten
@@ -12,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +3 Wand of the War Mage
+Quelle: DMG
 ---
 # +3 Wand of the War Mage
 *Wand, major, very rare (requires attunement by a spellcaster)*  

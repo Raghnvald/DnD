@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 4 GM
 Gew.: 17,5 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Tragbarer Rammbock
 tags:
   - Gegenstand/Ausrüstung/
@@ -16,14 +16,13 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tragbarer Rammbock
-status: WIP
 ---
 # Tragbarer Rammbock
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 4 gp
-- **Weight**: 35.0 lbs.
+- **Kosten**: 4 GM
+- **Gewicht**: 17,5 kg
 
-You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
+Du kannst den tragbaren Rammbock dazu verwenden, um Türen einzuschlagen. In diesem Fall erhältst du einen Bonus von +4 auf deinen Stärkewurf. Hilft dir ein weiterer Charakter, den Rammbock zu benutzen, bist du bei deinem Wurf im Vorteil.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

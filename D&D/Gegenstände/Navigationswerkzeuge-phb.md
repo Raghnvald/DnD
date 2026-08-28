@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: 1,0 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Navigationswerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -22,7 +22,7 @@ status: WIP
 *Werkzeug*
 
 - **Kosten**: 25 GM
-- **Gewicht**: 1,0 kg.
+- **Gewicht**: 1,0 kg
 
 Dieser Satz von Instrumenten wird bei der Navigation auf See verwendet. Übung mit diesem Werkzeug lässt dich den Kurs eines Schiffes aufzeichnen und Navigationstabellen befolgen. Außerdem darfst du deinen Übungsbonus addieren, wenn du Attributs- oder Fertigkeitswürfe ablegen musst, um dich nicht auf dem Meer zu verirren.
 

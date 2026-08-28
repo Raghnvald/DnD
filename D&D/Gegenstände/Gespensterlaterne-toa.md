@@ -12,8 +12,8 @@ aliases:
   - Gespensterlaterne
 ---
 # Gespensterlaterne
-*Wondrous item, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ghost-lantern.webp#right)
+*Wondrous item, rare (requires attunement)*
+<img src="ghost-lantern.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

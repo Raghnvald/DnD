@@ -26,7 +26,7 @@ aliases:
 | [[Rucksack-phb\|Rucksack]]*                              | 30 Liter Fassungsvermögen / 15 kg. Ausrüstung   |
 | [[Sack-phb\|Sack]]                                       | 30 Liter Fassungsvermögen / 15 kg. Ausrüstung   |
 | [[Tonkrug-phb\|Tonkrug]] oder [[Kanne-phb\|Kanne]]       | 4 Liter Flüssigkeit                             |
-| [[Wasserschlauch-phb\|Wasserschlauch]]                   | 2 Liter Flüssigkeit                             |
+| [[Trinkschlauch-phb\|Wasserschlauch]]                   | 2 Liter Flüssigkeit                             |
 ^container-capacity
 
 * Du kannst auch Gegenstände außen an dem Rucksack festzurren, wie etwa einen Schlafsack oder ein Seil.

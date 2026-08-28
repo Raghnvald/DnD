@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +3 Rod of the Pact Keeper
+Bezeichnung: Zepter des Paktbewahrers +3
+Original: +3 Rod of the Pact Keeper
 Kategorie: Zepter
 Seltenheit:
   - sehr selten
@@ -17,6 +18,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +3 Rod of the Pact Keeper
+Quelle: DMG
 ---
 # +3 Rod of the Pact Keeper
 *Zepter, sehr selten (erfordert Einstimmung durch einen Hexenmeister)*  

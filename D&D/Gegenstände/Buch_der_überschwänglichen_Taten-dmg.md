@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Buch der überschwänglichen Taten
+Original: Book of Exalted Deeds
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - Artefakt

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Radiant Resistance
+Bezeichnung: Rüstung des Widerstands (Gleißend)
+Original: Armor of Radiant Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

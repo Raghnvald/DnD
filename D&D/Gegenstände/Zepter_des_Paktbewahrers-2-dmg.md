@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +2 Rod of the Pact Keeper
+Bezeichnung: Zepter des Paktbewahrers +2
+Original: +2 Rod of the Pact Keeper
 Kategorie: Zepter
 Seltenheit:
   - selten
@@ -17,11 +18,10 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +2 Rod of the Pact Keeper
+Quelle: DMG
 ---
 # +2 Rod of the Pact Keeper
-*Zepter, selten (erfordert Einstimmung durch einen Hexenmeister)*  
-
-Wenn du dieses Zepter hältst, erhältst du einen Bonus von +2 auf Angriffswürfe und Rettungswurf-SGs für deine Hexenmeister-Zauber. Zusätzlich kannst du als eine Aktion einen Zauberplatz zurückerhalten, wenn du das Zepter in den Händen hältst. Diese Eigenschaft kannst du nicht erneut verwenden, bevor du nicht eine lange Rast beendet hast.
+*Zepter, selten (erfordert Einstimmung durch einen Hexenmeister)*
 
 - **Weight**: 2.0 lbs.
 

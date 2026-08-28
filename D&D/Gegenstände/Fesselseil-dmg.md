@@ -14,8 +14,8 @@ aliases:
   - Rope of Entanglement
 ---
 # Rope of Entanglement
-*Wondrous item, major, rare*  
-![](/3-Mechanics/CLI/items/img/rope-of-entanglement.webp#right)
+*Wondrous item, major, rare*
+<img src="rope-of-entanglement.webp" align="right" width="150">
 
 - **Weight**: 3.0 lbs.
 

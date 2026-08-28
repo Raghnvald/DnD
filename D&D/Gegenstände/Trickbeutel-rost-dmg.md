@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trickbeutel, rostfarben
+Quelle: DMG
 ---
 # Trickbeutel, rostfarben
 *Wondrous item, major, uncommon*  

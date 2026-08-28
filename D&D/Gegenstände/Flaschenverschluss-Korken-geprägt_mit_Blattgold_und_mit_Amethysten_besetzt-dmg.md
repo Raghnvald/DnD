@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 750 GM
 Gew.: n/v
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
@@ -19,8 +19,8 @@ aliases:
   - Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
 ---
 # Flaschenverschluss-Korken, geprägt mit Blattgold und mit Amethysten besetzt
-*Treasure (art object)*  
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 750 gp
+- **Kosten**: 750 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

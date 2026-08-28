@@ -8,7 +8,7 @@ Eigenschaften:
   - Munition
 Kst.: 50.000 GM
 Gew.: 0,025 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Pfeil des Tötens
 tags:
   - Gegenstand/Ausrüstung/Munition
@@ -18,13 +18,13 @@ aliases:
   - Pfeil des Tötens
 ---
 # Pfeil des Tötens
-*Ammunition, minor, very rare*  
-![](/3-Mechanics/CLI/items/img/arrow-of-slaying.webp#right)
+*Waffe (Pfeil), sehr selten*
+<img src="arrow-of-slaying.webp" align="right" width="250">
 
-- **Weight**: 0.05 lbs.
+- **Gewicht**: 0,025 kg
 
-An arrow of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both *arrows of dragon slaying* and *arrows of blue dragon slaying*. If a creature belonging to the type, race, or group associated with an arrow of slaying takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra `6d10` piercing damage on a failed save, or half as much extra damage on a successful one.
+Ein Pfeil des Tötens ist ein Pfeil, der dazu bestimmt ist, eine bestimmte Art Kreatur zu töten. Manche sind etwas fokusierter als andere: Beispielsweise gibt es sowohl *Pfeil des Drachentötens* als auch *Pfeil des Blaue-Drachentötens*. Wenn eine Kreatur, die zu diesem Typen, dieser Rasse oder Gruppe gehört, von einem Armbrustbolzen des Tötens getroffen wird und Schaden nimmt, muss die Kreatur einen `Konstitutions-Rettungswurf` gegen `SG 17` durchführen. Bei einem Fehlschlag nimmt sie zusätzlich `6W10` Stichschaden und halb so viel Extraschaden bei einem erfolgreichen Wurf.
 
-Once an arrow of slaying deals its extra damage to a creature, it becomes a nonmagical arrow.
+Sobald ein Pfeil des Tötens seinen Extraschaden zugefügt hat, wird er zu einem nicht-magischen Pfeil.
 
-*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 174. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

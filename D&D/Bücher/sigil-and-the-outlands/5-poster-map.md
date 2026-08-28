@@ -11,9 +11,9 @@ aliases:
 *Source: Sigil and the Outlands* 
 
 > [!gallery]
-> ![The Outlands](3-Mechanics/CLI/books/sigil-and-the-outlands/img/outlands-poster-map.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/sigil-and-the-outlands/img/outlands-poster-map-player.webp#gallery)
+> ![The Outlands](sigil-and-the-outlands/img/outlands-poster-map.webp#gallery)
+> ![Player Version](sigil-and-the-outlands/img/outlands-poster-map-player.webp#gallery)
 
 > [!gallery]
-> ![Sigil–The City of Doors](3-Mechanics/CLI/books/sigil-and-the-outlands/img/sigil-poster-map.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/sigil-and-the-outlands/img/sigil-poster-map-player.webp#gallery)
+> ![Sigil–The City of Doors](sigil-and-the-outlands/img/sigil-poster-map.webp#gallery)
+> ![Player Version](sigil-and-the-outlands/img/sigil-poster-map-player.webp#gallery)

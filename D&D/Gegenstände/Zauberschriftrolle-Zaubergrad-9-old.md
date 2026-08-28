@@ -16,6 +16,7 @@ tags:
 aliases:
   - Spell Scroll (7th Level)
   - Zauberschriftrolle (Zaubergrad 9)
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 9)
 *Schriftrolle, legendär*  

@@ -2,9 +2,15 @@
 Bezeichnung: Schwert von Kas
 Original: Sword of Kas
 Kategorie: Nahkampfwaffe, Kriegswaffe
+Schaden: 1W8 Hieb
+Eigenschaften:
+  - Vielseitig (1W10)
+Kst.: n/v
+Gew.: 1,5 kg
 Seltenheit:
   - Artefakt
-Status: WIP
+Status: completed
+Quelle: DMG
 linter-yaml-title-alias: Schwert von Kas
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -14,57 +20,62 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Schwert von Kas
-status: WIP
 ---
 # Schwert von Kas
-*Weapon ([longsword](/3-Mechanics/CLI/items/longsword.md)), artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/sword-of-kas.webp#right)
+*Waffe ([[Langschwert-phb|Langschwert]]), Artefakt (erfordert Einstimmung)*
+<img src="sword-of-kas.webp" align="right" width="150">
 
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 3.0 lbs.
+- **Schaden**:
+  - Einhändig: 1W8 Hieb
+  - Zweihändig: 1W10 Hieb
+- **Eigenschaften**:  [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
+- **Gewicht**: 1,5 kg
 
-When Vecna grew in power, he appointed an evil and ruthless lieutenant, Kas the Bloody Handed, to act as his bodyguard and right hand. This despicable villain served as advisor, warlord, and assassin. His successes earned him Vecna's admiration and a reward: a sword with as dark a pedigree as the man who would wield it.
+Als Vecnas Macht wuchs, ernannte er einen bösen und rücksichtslosen Stellvertreter, Kas die Blutige Hand, um als sein Leibwächter und seine rechte Hand zu agieren. Dieser verabscheuungswürdige Erzschurke diente als Berater, Kriegsherr und Assassine. Seine Erfolge brachten ihm Vecnas Bewunderung und eine Belohnung: ein Schwert mit einem so düsteren Stammbaum wie der Mann, der es führen würde.
 
-For a long time, Kas faithfully served the [lich](/3-Mechanics/CLI/bestiary/undead/lich.md) but as Kas's power grew, so did his hubris. His sword urged him to supplant Vecna, so that they could rule the [lich's](/3-Mechanics/CLI/bestiary/undead/lich.md) empire in Vecna's stead. Legend says Vecna's destruction came at Kas's hand, but Vecna also wrought his rebellious lieutenant's doom, leaving only Kas's sword behind. The world was made brighter thereby.
+Für eine lange Zeit diente Kas treu dem [[Lich-mm|Lich]], aber als Kas' Macht wuchs, so wuchs auch seine Überheblichkeit. Sein Schwert forderte ihn auf, Vecna zu ersetzen, damit sie das Imperium des [[Lich-mm|Lichs]] an Vecnas Stelle beherrschen konnten. 
 
-The Sword of Kas is a magic, sentient longsword that grants a +3 bonus to attack and damage rolls made with it. It scores a critical hit on a roll of 19 or 20, and deals an extra `2d10` slashing damage to undead.
+Die Legende besagt, dass Vecnas Zerstörung durch Kas' Hand kam, doch Vecna bewirkte auch den Untergang seines rebellischen Stellvertreters und ließ nur sein Schwert zurück. Die Welt wurde dadurch heller.
 
-If the sword isn't bathed in blood within 1 minute of being drawn from its scabbard, its wielder must make a DC 15 Charisma saving throw. On a successful save, the wielder takes `3d6` psychic damage. On a failed save, the wielder is dominated by the sword, as if by the [dominate monster](/3-Mechanics/CLI/spells/dominate-monster.md) spell, and the sword demands that it be bathed in blood. The spell effect ends when the sword's demand is met.
+Das Schwert von Kas ist ein magisches, intelligentes Langschwert, das einen Bonus von + 3 auf Angriffs- und Schadenswürfe gewährt, die damit ausgeführt werden. Es landet bei einer 19 oder einer 20 einen kritischen Treffer und fügt Untoten `2W10` Hiebschaden zusätzlich zu. 
 
-## Random Properties
+Wenn das Schwert nicht innerhalb von 1 Minute in Blut gebadet wird, nachdem es aus seiner Scheide gezogen wurde, muss sein Träger einen Wurf auf `Charisma` gegen `SG 15` ablegen. Bei einem erfolgreichen Wurf nimmt der Träger `3W6` psychischen Schaden. Bei einem Fehlschlag wird der Träger vom Schwert beherrscht, so als wäre er vom Zauber [[Monster_beherrschen-phb|Monster beherrschen]] betroffen, und das Schwert verlangt, in Blut getränkt zu werden. Der Effekt des Zaubers endet, wenn die Forderung des Schwerts erfüllt wurde.
 
-The Sword of Kas has the following random properties:
+## Zufällige Eigenschaften
 
-- 1 [minor beneficial property](/3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](/3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
-- 1 [minor detrimental property](/3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)  
-- 1 [major detrimental property](/3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)  
+Das Schwert von Kas hat die folgenden zufällig ausgewählten Eigenschaften:
 
-## Spirit of Kas
+- 1 [[Artefakt-Eigenschaften-Kleinere_vorteilhafte_Eigenschaften-dmg|kleinere vorteilhafte Eigenschaft]]
+- 1 [[Artefakt-Eigenschaften-Kleinere_nachteilige_Eigenschaften-dmg|kleinere nachteilige Eigenschaft]]
+- 1 [[Artefakt-Eigenschaften-Grössere_vorteilhafte_Eigenschaften-dmg|größere vorteilhafte Eigenschaft]]
+- 1 [[Artefakt-Eigenschaften-Grössere_nachteilige_Eigenschaften-dmg|größere nachteilige Eigenschaft]]
 
-While the sword is on your person, you add a `d10` to your initiative at the start of every combat. In addition, when you use an action to attack with the sword, you can transfer some or all of its attack bonus to your Armor Class instead. The adjusted bonuses remain in effect until the start of your next turn.
+## Geist von Kas
 
-## Spells
+Während du das Schwert an deinem Körper trägst, erhöhst du deine Initiative am Anfangjedes Kampfes um `1W10`.
 
-While the sword is on your person, you can use an action to cast one of the following spells (save 18) from it: [call lightning](/3-Mechanics/CLI/spells/call-lightning.md), [divine word](/3-Mechanics/CLI/spells/divine-word.md), or [finger of death](/3-Mechanics/CLI/spells/finger-of-death.md). Once you use the sword to cast a spell, you can't cast that spell again from it until the next dawn.
+Zusätzlich kannst du, wenn du eine Aktion verwendest, um mit dem Schwert anzugreifen, den kompletten oder anteiligen Angriffsbonus stattdessen auf deine Rüstungsklasse transferieren. Die angepassten Boni bleiben solange bestehen, bis du deinen nächsten Zug beginnst.
 
-## Sentience
+## Zauber
 
-The Sword of Kas is a sentient chaotic evil weapon with an Intelligence of 15, a Wisdom of 13, and a Charisma of 16. It has hearing and [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 120 feet.
+Während du das Schwert hältst, kannst du eine Aktion verwenden, um damit einen der folgenden Zauber (Rettungswurf SG 18) zu wirken: [[Blitze_herbeirufen-phb|Blitze herbeirufen]], [[Göttliches_Wort-phb|Göttliches Wort]] oder [[Finger_des_Todes-phb| Finger des Todes]].
 
-The weapon communicates telepathically with its wielder and can speak, read, and understand Common.
+Sobald du das Schwert benutzt hast, um einen Zauber zu wirken, kannst du diesen Zauber bis zur nächsten Morgendämmerung nicht erneut wirken.
 
-## Personality
+## Intelligenz
 
-The sword's purpose is to bring ruin to Vecna. Killing Vecna's worshipers, destroying the [lich's](/3-Mechanics/CLI/bestiary/undead/lich.md) works, and foiling his machinations all help to fulfill this goal.
+Das Schwert von Kas ist eine intelligente, chaotisch böse Waffe mit einer Intelligenz von 15, einer Weisheit von 13 und einem Charisma von 16. Es hat ein Gehör und [[Sinne-phb#Dunkelsicht|Dunkelsicht]] auf eine Weite von 36 Meter.
 
-The Sword of Kas also seeks to destroy anyone corrupted by the Eye and [Hand of Vecna](/3-Mechanics/CLI/items/hand-of-vecna.md). The sword's obsession with those artifacts eventually becomes a fixation for its wielder.
+Die Waffe kommuniziert mit ihrem Träger telepathisch und kann die Gemeinsprache sprechen. lesen und verstehen. 
 
-## Destroying the Sword
+## Persönlichkeit
 
-A creature attuned to both the [Eye of Vecna](/3-Mechanics/CLI/items/eye-of-vecna.md) and the [Hand of Vecna](/3-Mechanics/CLI/items/hand-of-vecna.md) can use the wish property of those combined artifacts to unmake the Sword of Kas. The creature must cast the [wish](/3-Mechanics/CLI/spells/wish.md) spell and make a Charisma check contested by the Charisma check of the sword. The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the [wish](/3-Mechanics/CLI/spells/wish.md) spell is wasted. If the sword loses the contest, it is destroyed.
+Die Bestimmung des Schwerts ist es, Vecna Verderben zu bringen. Vecnas Anbeter zu töten, die Werke des [[Lich-mm|Lichs]] zu zerstören und seine Machenschaften zu vereiteln sind Taten, die diesem Ziel dienen. 
 
-*Source: Dungeon Master's Guide p. 226*
+Das Schwert von Kas will auch jeden zerstören, der durch [[Auge_und_Hand_von_Vecna-dmg|das Auge und die Hand von Vecna]] korrumpiert wurde. Die Besessenheit des Schwerts von diesen Artefakten wird schließlich zu etwas, worauf auch der Träger des Schwerts fixiert sein wird. 
+
+## Das Schwert zerstören
+
+Eine Kreatur, die sowohl auf das [[Auge_von_Vecna-dmg|Auge von Vecna]] als auch auf die [[Hand_von_Vecna-dmg|Hand von Vecna]] eingestimmt ist, kann die Eigenschaft Wunsch der beiden kombinierten Objekte einsetzen, um die Erschaffung des Schwerts von Kas rückgängig zu machen. Die Kreatur muss den Zauber [[Wunsch-phb|Wunsch]] wirken und einen Wurf auf Charisma ablegen, der mit dem Wurf auf Charisma des Schwerts verglichen wird. Das Schwert muss sich innerhalb von 9 Metern von der Kreatur befinden oder der Zauber schlägt fehl. Wenn das Schwert den Vergleich gewinnt, passiert nichts und der Zauber ist verschwendet. Wenn das Schwert verliert, wird es zerstört.
+
+*Quelle: Spielleiterhandbuch S. 226*

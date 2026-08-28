@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Tigerauge
+Quelle: DMG
 ---
 # Tigerauge
 *Schatz (Edelstein)*  

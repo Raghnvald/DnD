@@ -12,6 +12,7 @@ tags:
 aliases:
   - Potion of Greater Healing
   - Trank der Mächtigen Heilung
+Quelle: DMG
 ---
 # Trank der Mächtigen Heilung
 *Trank, ungewöhnlich*  

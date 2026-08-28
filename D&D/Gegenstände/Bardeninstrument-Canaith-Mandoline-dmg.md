@@ -19,11 +19,10 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Instrument of the Bards, Canaith Mandolin
-status: WIP
 ---
 # Instrument of the Bards, Canaith Mandolin
-*Wondrous item, instrument, major, rare (requires attunement by a bard)*  
-![](/3-Mechanics/CLI/items/img/instrument-of-the-bards-canaith-mandolin.webp#right)
+*Wondrous item, instrument, major, rare (requires attunement by a bard)*
+<img src="instrument-of-the-bards-canaith-mandolin.webp" align="right" width="150">
 
 - **Weight**: 2.0 lbs.
 

@@ -1,8 +1,10 @@
 ---
-Bezeichnung: Helm of Perfect Potential
+Bezeichnung: Helm des perfekten Potenzials
+Original: Helm of Perfect Potential
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: BGG
 linter-yaml-title-alias: Helm of Perfect Potential
 tags:
   - Gegenstand/Einstimmung/erfordert

@@ -16,6 +16,7 @@ tags:
 aliases:
   - Wyverngift
 status: WIP
+Quelle: DMG
 ---
 # Wyverngift
 *Adventuring gear, poison (injury)*  

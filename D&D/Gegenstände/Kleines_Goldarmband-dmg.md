@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Small gold bracelet
+Bezeichnung: Kleines Goldarmband
 Original: Small gold bracelet
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Small gold bracelet
+Status: completed
+linter-yaml-title-alias: Kleines Goldarmband
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Small gold bracelet
+  - Kleines Goldarmband
 ---
-# Small gold bracelet
-*Treasure (art object)*  
+# Kleines Goldarmband
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

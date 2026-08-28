@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Turmalin
+Quelle: DMG
 ---
 # Turmalin
 *Schatz (Edelstein)*  

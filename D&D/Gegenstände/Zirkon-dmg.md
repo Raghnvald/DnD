@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zirkon
+Quelle: DMG
 ---
 # Zirkon
 *Schatz (Edelstein)*  

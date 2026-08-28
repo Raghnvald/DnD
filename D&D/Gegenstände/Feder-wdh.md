@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Feder
-Original: Feather
+Original: Nib
 Kategorie: Währung
 Seltenheit:
   - keine

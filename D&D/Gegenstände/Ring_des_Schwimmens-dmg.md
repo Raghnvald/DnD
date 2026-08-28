@@ -6,7 +6,7 @@ Seltenheit:
 Eigenschaften:
   - /
 Einstimmung: n/v
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Ring des Schwimmens
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -14,7 +14,6 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Ring des Schwimmens
-status: completed
 ---
 # Ring des Schwimmens
 *Ring, ungewöhnlich*  

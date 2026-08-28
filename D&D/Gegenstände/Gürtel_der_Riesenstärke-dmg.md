@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Belt of Giant Strength
+Bezeichnung: Gürtel der Riesenstärke
+Original: Belt of Giant Strength
 Seltenheit:
   - variiert
 Status: WIP

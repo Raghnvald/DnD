@@ -18,6 +18,7 @@ tags:
 aliases:
   - Anhänger der Wundheilung
   - Periapt of Wound Closure
+Quelle: DMG
 ---
 # Anhänger der Wundheilung
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

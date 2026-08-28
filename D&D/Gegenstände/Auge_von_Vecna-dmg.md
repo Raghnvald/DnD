@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Auge von Vecna
+Quelle: DMG
 ---
 # Auge von Vecna
 *Wundersamer Gegenstand, Artefakt (erfordert Einstimmung)*

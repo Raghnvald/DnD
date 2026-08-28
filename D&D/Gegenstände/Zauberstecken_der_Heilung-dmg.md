@@ -24,18 +24,6 @@ status: WIP
 *Zauberstecken, sehr selten (erfordert Einstimmung durch einen Barden, Druiden oder Kleriker)*  
 <img src="staff-of-healing.webp" align="right" width="75">
 
-- **Angriffsart:** Einfache Nahkampf
-- **Reichweite:** 1,5 m
-- **Schaden:** 1W6
-- **Schadensart:** Hiebschaden
-- **Eigenschaften:** Vielseitig (1W8)
-- **Gewicht:** 2,0 kg
-- **Kosten:** 4.000 Goldmünzen
-
-Der Zauberstecken hat 10 Ladungen. Während du ihn hältst, kannst du eine Aktion verwenden, um 1 oder mehrere seiner Ladungen zu verbrauchen und mit ihm einen der folgenden Zauber zu wirken, der deinen `Zauberrettungswurf-SG` und deinen Zaubermodifikator benutzt: [[Wunden-heilen]] (1 Ladung pro Grad, bis zu Grad 4), [[Schwache Genesung]] (2 Ladungen) oder [[Massen-Wunden_heilen-old]] (5 Ladungen).
-
-$\quad$Der Zauberstecken erhält zu jeder Morgendämmerung `1W6 + 4` verbrauchte Ladungen zurück. Wenn du die letzte Ladung verbrauchst, wirf einen `W20`. Bei einer 1 verschwindet der Zauberstecken in einem hellen Lichtblitz und ist für immer verloren.
-
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning

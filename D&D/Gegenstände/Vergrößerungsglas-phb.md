@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 100 GM
 Gew.: n/v
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Vergrößerungsglas
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,10 +18,10 @@ aliases:
   - Vergrößerungsglas
 ---
 # Vergrößerungsglas
-*Adventuring gear*  
+*Abenteuerausrüstung*  
 
-- **Cost**: 100 gp
+- **Kosten**: 100 GM
 
-This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.
+Diese Linse ermöglicht einen besseren Blick auf kleine Objekte. Verwendest du ein Vergrößerungsglas bist du im Vorteil bei jeglichen Fertigkeitswürfen, die mit der Untersuchung oder dem Schätzen eines Objekts in Verbindung stehen, das klein oder sehr detailliert ist. Die Linse ist auch hilfreich als Ersatz für Feuerstein und Stahl. Ein Feuer mit dem Vergrößerungsglas zu entfachen, erfordert taghelles Licht, um die Strahlen zu bündeln, Zunder und etwa 5 Minuten Zeit, bis der Zunder brennt.
 
-*Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

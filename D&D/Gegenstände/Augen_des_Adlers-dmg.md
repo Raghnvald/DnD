@@ -12,11 +12,12 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Augen des Adlers
+Quelle: DMG
 ---
 # Augen des Adlers
-*Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)*  
-![](img/eyes-of-the-eagle.webp#right)
+*Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*
+<img src="eyes-of-the-eagle.webp" align="right" width="150">
 
-Diese Kristall-Linsen passen über die Augen. Während du sie trägst, hast du einen Vorteil bei Würfen auf Weisheit ([[01-Spielleiter/Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]), die von der Sehkraft abhängen. Insofern du freie Sicht hast, kannst du selbst bei extrem weit entfernten und kleinen Kreaturen und Objekten (60 Zentimeter und größer) Einzelheiten ausmachen. 
+Diese Kristall-Linsen passen über die Augen. Während du sie trägst, hast du einen Vorteil bei Würfen auf Weisheit ([[Fertigkeiten-phb#Wahrnehmung|Wahrnehmung]]), die von der Sehkraft abhängen. Insofern du freie Sicht hast, kannst du selbst bei extrem weit entfernten und kleinen Kreaturen und Objekten (60 Zentimeter und größer) Einzelheiten ausmachen. 
 
 *Source: Dungeon Master's Guide p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

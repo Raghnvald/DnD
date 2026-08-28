@@ -8,7 +8,7 @@ Eigenschaften:
   - Munition
 Kst.: 50.000 GM
 Gew.: 0,0375 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Armbrustbolzen des Tötens
 tags:
   - Gegenstand/Ausrüstung/Munition
@@ -16,16 +16,16 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Armbrustbolzen des Tötens
-status: WIP
+Quelle: DMG
 ---
 # Armbrustbolzen des Tötens
-*Ammunition, minor, very rare*  
-![](img/arrow-of-slaying.webp#right)
+*Waffe (Pfeil), sehr selten*
+<img src="arrow-of-slaying.webp" align="right" width="250">
 
-- **Weight**: 0.075 lbs.
+- **Gewicht**: 0,0375 kg
 
-a crossbow bolt of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both *crossbow bolts of dragon slaying* and *crossbow bolts of blue dragon slaying*. If a creature belonging to the type, race, or group associated with a crossbow bolt of slaying takes damage from the crossbow bolt, the creature must make a DC 17 Constitution saving throw, taking an extra `6d10` piercing damage on a failed save, or half as much extra damage on a successful one.
+Ein Armbrustbolzen des Tötens ist ein Bolzen, der dazu bestimmt ist, eine bestimmte Art Kreatur zu töten. Manche sind etwas fokusierter als andere: Beispielsweise gibt es sowohl *Armbrustbolzen des Drachentötens* als auch *Armbrustbolzen des Blaue-Drachentötens*. Wenn eine Kreatur, die zu diesem Typen, dieser Rasse oder Gruppe gehört, von einem Armbrustbolzen des Tötens getroffen wird und Schaden nimmt, muss die Kreatur einen `Konstitutions-Rettungswurf` gegen `SG 17` durchführen. Bei einem Fehlschlag nimmt sie zusätzlich `6W10` Stichschaden und halb so viel Extraschaden bei einem erfolgreichen Wurf.
 
-Once a crossbow bolt of slaying deals its extra damage to a creature, it becomes a nonmagical crossbow bolt.
+Sobald ein Armbrustbolzen des Tötens seinen Extraschaden zugefügt hat, wird er zu einem nicht-magischen Bolzen.
 
-*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 174. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

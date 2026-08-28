@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Enemy Detection
+Quelle: DMG
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  

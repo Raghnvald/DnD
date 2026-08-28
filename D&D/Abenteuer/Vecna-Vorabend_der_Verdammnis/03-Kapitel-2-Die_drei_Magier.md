@@ -1,6 +1,6 @@
 ---
 Bezeichnung: "Kapitel 2: Die drei Magier"
-Status: WIP
+Status: completed
 linter-yaml-title-alias: "Kapitel 2: Die drei Magier"
 tags:
   - Quelle/5e/veor

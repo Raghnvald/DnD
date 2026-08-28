@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Black velvet mask stitched with silver thread
+Bezeichnung: Schwarze Samtmaske, mit einem Silberfaden bestickt
 Original: Black velvet mask stitched with silver thread
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,19 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Black velvet mask stitched with silver thread
+Status: completed
+linter-yaml-title-alias: Schwarze Samtmaske, mit einem Silberfaden bestickt
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Black velvet mask stitched with silver thread
-status: WIP
+  - Schwarze Samtmaske, mit einem Silberfaden bestickt
 ---
-# Black velvet mask stitched with silver thread
-*Treasure (art object)*  
+# Schwarze Samtmaske, mit einem Silberfaden bestickt
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

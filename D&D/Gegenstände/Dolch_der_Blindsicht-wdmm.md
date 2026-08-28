@@ -22,10 +22,9 @@ tags:
   - Quelle/5e/wdmm
 aliases:
   - Dolch der Blindsicht
-status: WIP
 ---
 # Dolch der Blindsicht
-*Waffe ([[Dolch-phb|Dolch]]), selten (requires attunement)*  
+*Waffe ([[Dolch-phb|Dolch]]), selten (erfordert Einstimmung)*  
 
 - **Schaden**: 1d4 Stich
 - **Reichweite**: 6/18

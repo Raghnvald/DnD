@@ -17,8 +17,8 @@ aliases:
   - Ring des Widerstands
 ---
 # Ring des Widerstands
-*Ring, selten (erfordert Einstimmung)*  
-![](img/ring-of-resistance.webp#right)
+*Ring, selten (erfordert Einstimmung)*
+<img src="ring-of-resistance.webp" align="right" width="150">
 
 Du hast Resistenz gegen eine Schadensart, während du diesen Ring trägst. Der Edelstein im Ring bestimmt die Schadensart, welche der SL vorgibt oder zufällig bestimmt.
 

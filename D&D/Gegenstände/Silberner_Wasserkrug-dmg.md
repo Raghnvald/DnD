@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Silver ewer
+Bezeichnung: Silberner Wasserkrug
 Original: Silver ewer
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,19 +8,19 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Silver ewer
+Status: completed
+linter-yaml-title-alias: Silberner Wasserkrug
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Silver ewer
+  - Silberner Wasserkrug
 status: WIP
 ---
-# Silver ewer
-*Treasure (art object)*  
+# Silberner Wasserkrug
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

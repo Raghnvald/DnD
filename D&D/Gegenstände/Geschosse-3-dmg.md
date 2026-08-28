@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +3 Ammunition
+Bezeichnung: Geschosse +3
+Original: +3 Ammunition
 Seltenheit:
   - sehr selten
 Status: WIP

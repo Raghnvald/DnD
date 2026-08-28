@@ -12,8 +12,8 @@ aliases:
   - Helm of Telepathy
 ---
 # Helm of Telepathy
-*Wondrous item, major, uncommon (requires attunement)*  
-![](img/helm-of-telepathy.webp#right)
+*Wondrous item, major, uncommon (requires attunement)*
+<img src="helm-of-telepathy.webp" align="right" width="150">
 
 While wearing this helm, you can use an action to cast the [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts.md) spell (save DC 13) from it. As long as you maintain [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.
 

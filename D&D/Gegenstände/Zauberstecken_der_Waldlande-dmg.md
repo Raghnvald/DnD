@@ -20,8 +20,8 @@ aliases:
 status: Typ
 ---
 # Staff of the Woodlands
-*Staff, weapon, major, rare (requires attunement by a druid)*  
-![](img/staff-of-the-woodlands.webp#right)
+*Staff, weapon, major, rare (requires attunement by a druid)*
+<img src="staff-of-the-woodlands.webp" align="right" width="150">
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

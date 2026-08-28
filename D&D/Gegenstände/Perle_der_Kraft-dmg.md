@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bead of Force
+Bezeichnung: Perle der Kraft
 Original: Bead of Force
 Kategorie: Wundersamer Gegenstand
 Seltenheit:

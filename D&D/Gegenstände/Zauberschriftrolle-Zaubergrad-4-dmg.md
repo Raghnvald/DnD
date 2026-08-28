@@ -12,6 +12,7 @@ tags:
 aliases:
   - Zauberschriftrolle (Zaubergrad 4)
 status: completed
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 4)
 *Schriftrolle, selten*  

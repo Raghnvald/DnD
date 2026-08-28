@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +1 Armor
+Bezeichnung: Rüstung +1
+Original: +1 Armor
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

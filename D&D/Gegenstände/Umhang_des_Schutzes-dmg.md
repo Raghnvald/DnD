@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Umhang des Schutzes
+Original: Cloak of Protection
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - ungewöhnlich
@@ -13,10 +14,11 @@ tags:
 aliases:
   - Cloak of Protection
   - Umhang des Schutzes
+Quelle: DMG
 ---
 # Umhang des Schutzes
-*Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  
-![](Gegenstände/img/cloak-of-protection.webp#right)
+*Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*
+<img src="cloak-of-protection.webp" align="right" width="150">
 
 Du erhältst einen Bonus von +1 auf deine Rüstungsklasse und Rettungswürfe, solange du diesen Umhang trägst.
 

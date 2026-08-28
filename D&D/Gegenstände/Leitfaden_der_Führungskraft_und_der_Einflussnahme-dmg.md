@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Tome of Leadership and Influence
+Quelle: DMG
 ---
 # Tome of Leadership and Influence
 *Wondrous item, major, very rare*  

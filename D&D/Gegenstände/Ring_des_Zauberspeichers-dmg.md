@@ -17,8 +17,8 @@ aliases:
   - Ring des Zauberspeichers
 ---
 # Ring des Zauberspeichers
-*Ring, selten (benötigt Einstimmung)*  
-![](img/ring-of-spell-storing.webp#right)
+*Ring, selten (erfordert Einstimmung)*
+<img src="ring-of-spell-storing.webp" align="right" width="150">
 
 Dieser Ring speichert Zauber, die hinein gezaubert wurden und hält sie dort fest, bis ein eingestimmter Träger sie benutzt. Der Ring kann Zauber im Wert von bis zu 5 Graden auf einmal speichern. Wenn er gefunden wird, enthält er `1W6 - 1` Zauber des 1. Grads, die vom SL ausgesucht wurden.
 

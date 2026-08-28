@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Axe of the Dwarvish Lords
+Bezeichnung: Axt der Zwergenlords
+Original: Axe of the Dwarvish Lords
 Kategorie: Nahkampf-Kriegswaffe
 Seltenheit:
   - Artefakt

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +1 Wand of the War Mage
+Bezeichnung: Zauberstab des Kriegsmagiers +1
+Original: +1 Wand of the War Mage
 Kategorie: Zauberstab
 Seltenheit:
   - ungewöhnlich
@@ -12,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +1 Wand of the War Mage
+Quelle: DMG
 ---
 # +1 Wand of the War Mage
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

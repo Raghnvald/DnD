@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Wind Fan
+Bezeichnung: Windfächer
 Original: Wind Fan
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
@@ -12,10 +12,11 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wind Fan
+Quelle: DMG
 ---
 # Wind Fan
-*Wondrous item, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/wind-fan.webp#right)
+*Wondrous item, major, uncommon*
+<img src="wind-fan.webp" align="right" width="150">
 
 While holding this fan, you can use an action to cast the [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind.md) spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
 

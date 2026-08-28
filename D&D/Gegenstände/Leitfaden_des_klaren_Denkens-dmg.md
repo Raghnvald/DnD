@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Tome of Clear Thought
+Quelle: DMG
 ---
 # Tome of Clear Thought
 *Wondrous item, major, very rare*  

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Large gold bracelet
+Bezeichnung: Großes Goldarmband
 Original: Large gold bracelet
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 250 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Large gold bracelet
+Status: completed
+linter-yaml-title-alias: Großes Goldarmband
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Large gold bracelet
+  - Großes Goldarmband
 ---
-# Large gold bracelet
-*Treasure (art object)*  
+# Großes Goldarmband
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 250 gp
+- **Kosten**: 250 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

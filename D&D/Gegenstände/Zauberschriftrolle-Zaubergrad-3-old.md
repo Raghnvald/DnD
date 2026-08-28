@@ -16,6 +16,7 @@ tags:
 aliases:
   - Spell Scroll (3rd Level)
   - Zauberschriftrolle (Zaubergrad 3)
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 3)
 *Schriftrolle, ungewöhnlich*  

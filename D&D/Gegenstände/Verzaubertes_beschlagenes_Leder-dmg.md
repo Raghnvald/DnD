@@ -21,6 +21,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Verzaubertes beschlagenes Leder
+Quelle: DMG
 ---
 # Verzaubertes beschlagenes Leder
 *Rüstung ([[Beschlagene_Lederrüstung-phb|beschlagenes Leder]]), selten*  

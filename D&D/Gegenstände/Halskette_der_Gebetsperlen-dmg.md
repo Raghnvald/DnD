@@ -12,8 +12,8 @@ aliases:
   - Necklace of Prayer Beads
 ---
 # Necklace of Prayer Beads
-*Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*  
-![](img/necklace-of-prayer-beads.webp#right)
+*Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*
+<img src="necklace-of-prayer-beads.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

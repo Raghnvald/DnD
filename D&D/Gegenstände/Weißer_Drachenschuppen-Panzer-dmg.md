@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - White Dragon Scale Mail
+Quelle: DMG
 ---
 # White Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

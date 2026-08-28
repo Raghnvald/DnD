@@ -17,8 +17,8 @@ aliases:
 status: completed
 ---
 # Ring des Tierumgangs
-*Ring, selten*  
-![](img/ring-of-animal-influence.webp#right)
+*Ring, selten*
+<img src="ring-of-animal-influence.webp" align="right" width="150">
 
 Der Ring hat 3 Ladungen urid erhält zu jeder Morgendämmerung `1W3` der verwendeten Ladungen zurück. Während du den Ring trägst, kannst du eine Aktion aufwenden, um einen der folgenden Zauber zu wirken:
 

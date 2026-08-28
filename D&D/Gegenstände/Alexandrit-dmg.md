@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Alexandrit
+Quelle: DMG
 ---
 # Alexandrit
 *Schatz (Edelstein)*  

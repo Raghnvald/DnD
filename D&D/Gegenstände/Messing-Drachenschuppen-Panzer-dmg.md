@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Brass Dragon Scale Mail
+Bezeichnung: Messing-Drachenschuppen-Panzer
 Original: Brass Dragon Scale Mail
 Seltenheit:
   - sehr selten

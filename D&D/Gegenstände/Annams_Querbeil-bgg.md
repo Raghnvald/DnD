@@ -11,6 +11,7 @@ Eigenschaften:
 Kst.: /
 Gew.: 3,5 kg
 Status: completed
+Quelle: BGG
 linter-yaml-title-alias: Annams Querbeil
 tags:
   - Gegenstand/Einstimmung/erfordert

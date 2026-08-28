@@ -20,6 +20,7 @@ tags:
 aliases:
   - Welle
 status: WIP
+Quelle: DMG
 ---
 # Welle
 *Weapon ([trident](Dreizack-phb)), legendary (requires attunement by a creature that worships a god of the sea)*

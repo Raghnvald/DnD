@@ -13,7 +13,7 @@ aliases:
 ---
 # Lathander
 *Source: Forgotten Realms: Heroes of Faerûn p. 111* 
-![](3-Mechanics/CLI/deities/img/frhof-lathander.webp#symbol)
+![](frhof-lathander.webp#symbol)
 
 - **Alternate Names**: Inspiration's Dawn, The Morninglord, The Rose-And-Gold God
 - **Alignment**: Unaligned

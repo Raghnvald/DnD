@@ -18,8 +18,8 @@ aliases:
 status: WIP
 ---
 # Dreizack der Fischherrschaft
-*Waffe ([[Dreizack-phb|Dreizack]]), ungewöhnlich (erfordert Einstimmung)*  
-![](img/trident-of-fish-command.webp#right)
+*Waffe ([[Dreizack-phb|Dreizack]]), ungewöhnlich (erfordert Einstimmung)*
+<img src="trident-of-fish-command.webp" align="right" width="250">
 
 - **Schaden**:
   - Einhändig: 1d6 Stich
@@ -28,6 +28,6 @@ status: WIP
 - **Eigenschaften**: [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]], [[Gegenstandseigenschaften-phb#Wurfwaffe|Wurfwaffe]]
 - **Gewicht**: 2,0 kg
 
-This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast [dominate beast](/3-Mechanics/CLI/spells/dominate-beast.md) (save DC 15) from it on a beast that has an innate swimming speed. The trident regains `1d3` expended charges daily at dawn.
+Dieser Dreizack ist eine magische Waffe. Er hat 3 Ladungen. Während du ihn trägst, kannst du eine Aktion aufwenden und 1 Ladung verbrauchen, um damit [[Tier_beherrschen-phb|Tier beherrschen]] (Rettungswurf SG 15) auf ein Tier zu wirken, welches eine angeborene Schwimmbewegungsrate hat. Der Dreizack erhält zu jeder Morgendämmerung `1W3` Ladungen zurück.
 
 *Quelle: Spielleiterhandbuch S. 209. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

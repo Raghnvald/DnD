@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +2 Weapon
+Bezeichnung: Waffe +2
+Original: +2 Weapon
 Seltenheit:
   - selten
 Status: WIP
@@ -68,6 +69,7 @@ aliases:
   - +2 Weapon
   - +2 Whip
   - +2 Yklwa
+Quelle: DMG
 ---
 # +2 Weapon
 *Major, rare*  

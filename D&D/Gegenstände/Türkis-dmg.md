@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Türkis
+Quelle: DMG
 ---
 # Türkis
 *Schatz (Edelstein)*  

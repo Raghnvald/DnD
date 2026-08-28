@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Embroidered silk and velvet mantle set with numerous moonstones
+Bezeichnung: Bestickter Seiden- und Samtumhang, mit zahlreichen Mondsteinen besetzt
 Original: Embroidered silk and velvet mantle set with numerous moonstones
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 2.500 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Embroidered silk and velvet mantle set with numerous moonstones
+Status: completed
+linter-yaml-title-alias: Bestickter Seiden- und Samtumhang, mit zahlreichen Mondsteinen besetzt
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Embroidered silk and velvet mantle set with numerous moonstones
+  - Bestickter Seiden- und Samtumhang, mit zahlreichen Mondsteinen besetzt
 ---
-# Embroidered silk and velvet mantle set with numerous moonstones
-*Treasure (art object)*  
+# Bestickter Seiden- und Samtumhang, mit zahlreichen Mondsteinen besetzt
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 2,500 gp
+- **Kosten**: 2.500 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

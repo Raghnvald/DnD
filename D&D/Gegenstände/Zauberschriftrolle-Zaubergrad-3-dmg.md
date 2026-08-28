@@ -3,7 +3,7 @@ Bezeichnung: Zauberschriftrolle (Zaubergrad 3)
 Kategorie: Schriftrolle
 Seltenheit:
   - ungewöhnlich
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Zauberschriftrolle (Zaubergrad 3)
 tags:
   - Gegenstand/Seltenheit/ungewöhnlich
@@ -11,7 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberschriftrolle (Zaubergrad 3)
-status: completed
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 3)
 *Schriftrolle, ungewöhnlich*  
@@ -24,4 +24,4 @@ Ein Zauber, welcher mit Hilfe der Schriftrolle gewirkt wird hat einen SG von 15 
 
 Ein Magier-Zauber auf einer _Zauberschriftrolle_ kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf `Intelligenz` ([[Fertigkeiten-phb#Arkane Kunde|Arkane Kunde]]) gegen `SG 13` schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die Zauberschriftrolle danach zerstört.
 
-*Quelle: Spielleiterhandbuch S. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*
+*Quelle: Spielleiterhandbuch S. 201. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

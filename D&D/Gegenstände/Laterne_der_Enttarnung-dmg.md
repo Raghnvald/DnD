@@ -14,8 +14,8 @@ aliases:
   - Lantern of Revealing
 ---
 # Lantern of Revealing
-*Wondrous item, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/lantern-of-revealing.webp#right)
+*Wondrous item, minor, uncommon*
+<img src="lantern-of-revealing.webp" align="right" width="150">
 
 - **Weight**: 2.0 lbs.
 

@@ -12,8 +12,8 @@ aliases:
   - Elementarer Edelstein
 ---
 # Elementarer Edelstein
-*Wundersamer Gegenstand, ungewöhnlich*  
-![](img/elemental-gem.webp#right)
+*Wundersamer Gegenstand, ungewöhnlich*
+<img src="elemental-gem.webp" align="right" width="250">
 
 **Gegenstände in dieser Gruppe:**
 

@@ -16,6 +16,7 @@ tags:
 aliases:
   - Potion of Resistance
   - Trank des Widerstands
+Quelle: DMG
 ---
 # Trank des Widerstands
 *Trank, ungewöhnlich*  

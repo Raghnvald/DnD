@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Bag of Devouring
+Bezeichnung: Fraßbeutel
+Original: Bag of Devouring
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - sehr selten

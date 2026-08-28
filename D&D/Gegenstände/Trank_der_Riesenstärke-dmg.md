@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trank der Riesenstärke
+Quelle: DMG
 ---
 # Trank der Riesenstärke
 *Trank*  

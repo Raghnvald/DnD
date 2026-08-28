@@ -19,8 +19,8 @@ aliases:
   - Pipes of Haunting
 ---
 # Pipes of Haunting
-*Wondrous item, instrument, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/pipes-of-haunting.webp#right)
+*Wondrous item, instrument, major, uncommon*
+<img src="pipes-of-haunting.webp" align="right" width="250">
 
 - **Weight**: 2.0 lbs.
 

@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Wonder
+Quelle: DMG
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  

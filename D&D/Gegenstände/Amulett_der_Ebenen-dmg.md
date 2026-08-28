@@ -18,6 +18,7 @@ tags:
 aliases:
   - Amulet of the Planes
   - Amulett der Ebenen
+Quelle: DMG
 ---
 # Amulett der Ebenen
 *Wundersamer Gegenstand, sehr selten (erfordert Einstimmung)*  

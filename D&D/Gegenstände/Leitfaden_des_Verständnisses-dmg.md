@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Tome of Understanding
+Quelle: DMG
 ---
 # Tome of Understanding
 *Wondrous item, major, very rare*  

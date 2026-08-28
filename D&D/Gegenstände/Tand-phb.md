@@ -16,48 +16,45 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Tand
-status: WIP
 ---
 # Tand
-*Adventuring gear*  
+*Abenteuerausrüstung*
 ![](img/trinket-phb.webp#right)
 
-When you make your character, you can roll once on the Trinkets table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creatures pockets.
+Bei der Erschaffung deines Charakters darfst du mit Hilfe der Tabelle für Tand zufällig einen Gegenstand bestimmen, den du zu Beginn erhältst und der etwas leicht Mystisches besitzt. Der SL kann diese Tabelle verwenden, um Räume in Gewölben auszuschmücken oder die Taschen von Monstern zu füllen.
 
-**Player's Handbook Trinket Table**
-
-| dice: d100 | Trinket |
+| W100 | Tand |
 |------------|---------|
-| 01 | A mummified goblin hand |
-| 02 | A piece of crystal that faintly glows in the moonlight |
-| 03 | A gold coin minted in an unknown land |
-| 04 | A diary written in a language you don't know |
-| 05 | A brass ring that never tarnishes |
-| 06 | An old chess piece made from glass |
-| 07 | A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips |
-| 08 | A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it |
-| 09 | A rope necklace from which dangles four mummified elf fingers |
-| 10 | The deed for a parcel of land in a realm unknown to you |
-| 11 | A 1-ounce block made from an unknown material |
-| 12 | A small cloth doll skewered with needles |
-| 13 | A tooth from an unknown beast |
-| 14 | An enormous scale, perhaps from a dragon |
-| 15 | A bright green feather |
-| 16 | An old divination card bearing your likeness |
-| 17 | A glass orb filled with moving smoke |
-| 18 | A 1-pound egg with a bright red shell |
-| 19 | A pipe that blows bubbles |
-| 20 | A glass jar containing a weird bit of flesh floating in pickling fluid |
-| 21 | A tiny gnome-crafted music box that plays a song you dimly remember from your childhood |
-| 22 | A small wooden statuette of a smug halfling |
-| 23 | A brass orb etched with strange runes |
-| 24 | A multicolored stone disk |
-| 25 | A tiny silver icon of a raven |
-| 26 | A bag containing forty-seven humanoid teeth, one of which is rotten |
-| 27 | A shard of obsidian that always feels warm to the touch |
-| 28 | A dragon's bony talon hanging from a plain leather necklace |
-| 29 | A pair of old socks |
-| 30 | A blank book whose pages refuse to hold ink, chalk, graphite, or any other substance or marking |
+| 01 | Eine mumifizierte Goblinhand. |
+| 02 | Ein Stück Kristall, das im Mondlicht schwach aufglüht. |
+| 03 | Eine in einem fremden Land geprägte Goldmünze. |
+| 04 | Ein in einer dir unbekannten Sprache verfasstes Tagebuch. |
+| 05 | Ein Messingring, der niemals matt wird. |
+| 06 | Eine alte Schachfigur aus Glas. |
+| 07 | Ein Paar Knochenwürfel, die einen Totenschädel anstelle einer Sechs besitzen. |
+| 08 | Eine kleine Götzenskulptur, die eine alptraumhafte Kreatur darstellt und dir beängstigende Träume beschert, wenn du in ihrer Nähe schläfst. |
+| 09 | Eine Halskette aus Seil, an der sich vier mumifizierte Elfenfinger befinden. |
+| 10 | Der Besitzschein für eine Parzelle Land in einem dir unbekannten Königreich. |
+| 11 | Ein Block aus einem unbekannten Material, der etwa 1 Unze schwer ist |
+| 12 | Eine kleine Stoffpuppe, die mit Nadeln gespickt ist. |
+| 13 | Der Zahn eines unbekannten Tieres. |
+| 14 | Eine riesige Schuppe, vielleicht von einem Drachen. |
+| 15 | Eine leuchtend grüne Feder. |
+| 16 | Eine alte Wahrsagerkarte, deren Bild dir ähnlich sieht. |
+| 17 | Eine Glaskugel mit sich wirbelndem Rauch darin. |
+| 18 | Ein pfundschweres Ei mit kräftig roter Schale. |
+| 19 | Eine Pfeife, die Seifenblasen entstehen lässt. |
+| 20 | Ein Einmachglas mit einem Fetzen Fleisch, das in Konservierungsmittel schwimmt. |
+| 21 | Eine kleine von Gnomen hergestellte Spieluhr, die ein Lied spielt, das dich vage an deine Kindheit erinnert. |
+| 22 | Eine kleine hölzerne Statuette eines selbstgefälligen Halblings. |
+| 23 | Eine Messingkugel, die mit seltsamen Runen verziert ist. |
+| 24 | Eine bunte Steinscheibe. |
+| 25 | Ein winziges silbernes Abbild eines Rabens. |
+| 26 | Ein Beutel, der 47 humanoide Zähne enthält - einer davon ist faulig. |
+| 27 | Ein Obsidiansplitter, der sich bei Berührung warm anfühlt. |
+| 28 | Die knochige Klaue eines kleinen Drachen, die an einer einfachen Lederhalskette hängt. |
+| 29 | Ein Paar alte Socken. |
+| 30 | Ein leeres Buch, dessen Seiten weder Tinte Kreide und Graphit noch jede andere Substanz oder Farbe aufnehmen. |
 | 31 | A silver badge in the shape of a five-pointed star |
 | 32 | A knife that belonged to a relative |
 | 33 | A glass vial filled with nail clippings |
@@ -130,4 +127,4 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 100 | A metal urn containing the ashes of a hero |
 ^players-handbook-trinket-table
 
-*Source: Player's Handbook p. 159. Available in the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 159. Verfügbar im  Grundregelwerk (2014)*

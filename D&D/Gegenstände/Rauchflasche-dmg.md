@@ -14,8 +14,8 @@ aliases:
   - Eversmoking Bottle
 ---
 # Eversmoking Bottle
-*Wondrous item, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/eversmoking-bottle.webp#right)
+*Wondrous item, major, uncommon*
+<img src="eversmoking-bottle.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

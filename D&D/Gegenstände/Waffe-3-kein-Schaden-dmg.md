@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +3 Weapon (no damage)
+Bezeichnung: Waffe +3 (kein Schaden)
+Original: +3 Weapon (no damage)
 Seltenheit:
   - sehr selten
 Status: WIP
@@ -10,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +3 Weapon (no damage)
+Quelle: DMG
 ---
 # +3 Weapon (no damage)
 *Major, very rare*  

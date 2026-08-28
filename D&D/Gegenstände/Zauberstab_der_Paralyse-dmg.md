@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Paralysis
+Quelle: DMG
 ---
 # Wand of Paralysis
 *Wand, major, rare (requires attunement by a spellcaster)*  

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +1 Rod of the Pact Keeper
+Bezeichnung: Zepter des Paktbewahrers +1
+Original: +1 Rod of the Pact Keeper
 Kategorie: Zepter
 Seltenheit:
   - ungewöhnlich
@@ -17,6 +18,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +1 Rod of the Pact Keeper
+Quelle: DMG
 ---
 # +1 Rod of the Pact Keeper
 *Zepter, ungewöhnlich (erfordert Einstimmung durch einen Hexenmeister)*  

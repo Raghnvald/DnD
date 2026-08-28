@@ -18,10 +18,8 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Argentia Skywright
-IMAGE:
-status: WIP
 ---
-# [Argentia Skywright](3-Mechanics\CLI\bestiary\npc/argentia-skywright-veor.md)
+# Argentia Himmelmacher
 *Source: Vecna: Eve of Ruin*  
 
 ```statblock
@@ -30,11 +28,6 @@ status: WIP
 "type": "humanoid"
 "subtype": "human, shapechanger"
 "alignment": "Neutral Good"
-"ac": !!int "11"
-"ac_class": "12 from natural armor in wolf or hybrid form"
-"hp": !!int "58"
-"hit_dice": "9d8 + 18"
-"modifier": !!int "1"
 "stats":
   - !!int "15"
   - !!int "13"
@@ -42,17 +35,6 @@ status: WIP
   - !!int "10"
   - !!int "11"
   - !!int "10"
-"speed": "30 ft. (40 ft. in wolf form)"
-"skillsaves":
-  - "name": "Perception"
-    "desc": "+4"
-  - "name": "Stealth"
-    "desc": "+3"
-"damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
-  \ aren't silvered"
-"senses": "passive Perception 14"
-"languages": "Common (can't speak in wolf form)"
-"cr": "3"
 "traits":
   - "desc": "Argentia can use its action to polymorph into a wolf-humanoid hybrid\
       \ or into a wolf, or back into its true form, which is humanoid. Its statistics,\
@@ -77,8 +59,50 @@ status: WIP
       \ ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear (Humanoid Form Only)"
-"source":
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/argentia-skywright-veor.webp"
 ```
 ^statblock
+
+> [!statblock] Argentia Himmelmacher
+> ![[token/Argentia-Skywright-veor.webp|right|100]]
+> *Größe Typ, Gesinnung*
+> 
+> - **Rüstungsklasse** 11 (12 from natural armor in wolf or hybrid form)
+> - **Trefferpunkte** 58 (`9d8 + 18`)
+> - **Bewegungsrate** 30 ft. (40 ft. in wolf form)
+> 
+> |STR|GES|KON|INT|WEI|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | X (+-)|X (+-)|X (+-)|X (+-)|X (+-)|X (+-)|
+> 
+> - **Rettungswürfe** 
+> - **Fertigkeiten** Perception +4, Stealth +3
+> - **Schadensimmunitäten** bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
+> - **Sinne** passive Perception 14
+> - **Sprachen** Common (can't speak in wolf form)
+> - **Herausforderungsgrad** 3 (700 EP)
+> - **Übungsbonus** +2
+> 
+> ## Merkmale
+> 
+> ***Name***
+> 
+> ## Aktionen
+> 
+> ***Name.*** *Nahkampf-Waffenangriff:* +4 zum Treffen, Reichweite 1,5 Meter, ein Ziel. *Treffer:* 5 (`1d6 + 2`) Hiebschaden.
+> 
+> ***Name.*** *Fernkampf-Waffenangriff:* +4 zum Treffen, Reichweite 24/96 Meter, ein Ziel. *Treffer:* 5 (`1d6 + 2`) Stichschaden.
+> 
+> ## Bonusaktion
+> 
+> ***Name:***
+> 
+> ## Reaktionen
+> 
+> ***Name:***
+^statblock
+
+## Vorkommen
+
+## Versteck
+
+## Beute

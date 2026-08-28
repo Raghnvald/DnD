@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Buch der niederträchtigen Dunkelheit
+Original: Book of Vile Darkness
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - Artefakt

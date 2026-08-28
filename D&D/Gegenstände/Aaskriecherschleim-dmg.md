@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Aaskriecherschleim
+Quelle: DMG
 ---
 # Aaskriecherschleim
 *Abenteuerausrüstung, Gift (Kontakt)*  

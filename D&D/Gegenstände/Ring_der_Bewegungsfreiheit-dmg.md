@@ -17,8 +17,8 @@ aliases:
   - Ring der Bewegungsfreiheit
 ---
 # Ring der Bewegungsfreiheit
-*Ring, selten (benötigt Einstimmung)*  
-![](img/ring-of-free-action.webp#right)
+*Ring, selten (erfordert Einstimmung)*
+<img src="ring-of-free-action.webp" align="right" width="250">
 
 Während du diesen Ring trägst, kostet dich schwieriges Gelände keine zusätzliche Bewegung. Außerdem kann Magie deine Bewegungsrate nicht reduzieren und dir nicht die Zustände [[Zustände-phb#gelähmt|gelähmt]] oder [[Zustände-phb#festgesetzt|festgesetzt]] geben.
 

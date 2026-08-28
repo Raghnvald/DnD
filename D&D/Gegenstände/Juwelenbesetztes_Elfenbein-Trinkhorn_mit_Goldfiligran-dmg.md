@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 7.500 GM
 Gew.: n/v
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
@@ -18,8 +18,8 @@ aliases:
   - Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
 ---
 # Juwelenbesetztes Elfenbein-Trinkhorn mit Goldfiligran
-*Treasure (art object)*  
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 7,500 gp
+- **Kosten**: 7.500 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

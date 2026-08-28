@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 2.500 GM
 Gew.: n/v
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Augenklappe, mit einem unechten Auge bestückt, mit blauen Saphiren und einem Mondstein
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
@@ -17,10 +17,11 @@ tags:
 aliases:
   - Augenklappe, mit einem unechten Auge bestückt, mit blauen Saphiren und einem Mondstein
   - Eye patch with a mock eye set in blue sapphire and moonstone
+Quelle: DMG
 ---
 # Augenklappe, mit einem unechten Auge bestückt, mit blauen Saphiren und einem Mondstein
-*Treasure (art object)
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 2,500 gp
+- **Kosten**: 2.500 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

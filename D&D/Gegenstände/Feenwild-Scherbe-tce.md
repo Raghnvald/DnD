@@ -13,8 +13,8 @@ aliases:
   - Feywild Shard
 ---
 # Feywild Shard
-*Wondrous item, uncommon (requires attunement by a sorcerer)*  
-![](/3-Mechanics/CLI/items/img/feywild-shard.webp#right)
+*Wondrous item, uncommon (requires attunement by a sorcerer)*
+<img src="feywild-shard.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Polymorph
+Quelle: DMG
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  

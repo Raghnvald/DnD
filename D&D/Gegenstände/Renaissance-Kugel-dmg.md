@@ -8,7 +8,7 @@ Eigenschaften:
   - Munition
 Kst.: 3 SM
 Gew.: 0,1 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Renaissance-Kugel
 tags:
   - Gegenstand/Ausrüstung/Munition-Schusswaffe
@@ -17,12 +17,11 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Renaissance-Kugel
-status: WIP
 ---
 # Renaissance-Kugel
-*Ammunition (firearm)*  
+*Munition (Schusswaffe)*  
 
-- **Cost**: 3 sp
-- **Weight**: 0.2 lbs.
+- **Kosten:** 3 SM
+- **Gewicht:** 0,1 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

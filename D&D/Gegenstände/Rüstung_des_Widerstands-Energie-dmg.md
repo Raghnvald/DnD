@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Rüstung des Energie-Widerstands
+Bezeichnung: Rüstung des Widerstands (Energie)
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

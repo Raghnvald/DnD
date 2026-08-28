@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Belt of Frost Giant Strength
+Bezeichnung: Gürtel der Riesenstärke (Frostriese)
+Original: Belt of Frost Giant Strength
 Seltenheit:
   - sehr selten
 Status: WIP

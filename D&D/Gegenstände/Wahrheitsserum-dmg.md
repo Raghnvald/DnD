@@ -16,6 +16,7 @@ tags:
 aliases:
   - Wahrheitsserum
 status: WIP
+Quelle: DMG
 ---
 # Wahrheitsserum
 *Adventuring gear, poison (ingested)*  

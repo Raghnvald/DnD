@@ -22,6 +22,6 @@ aliases:
 
 - **Cost**: 1 gp
 
-Gold coin, half again as large as a [nib](/3-Mechanics/CLI/items/nib-wdh.md) (1 dragon = 100 [nibs](/3-Mechanics/CLI/items/nib-wdh.md))
+Gold coin, half again as large as a [nibs](feder-wdh.md) (1 dragon = 100 [nibs](feder-wdh.md))
 
 *Source: Waterdeep: Dragon Heist p. 169*

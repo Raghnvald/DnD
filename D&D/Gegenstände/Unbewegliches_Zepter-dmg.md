@@ -14,8 +14,8 @@ aliases:
   - Immovable Rod
 ---
 # Immovable Rod
-*Rod, minor, uncommon*  
-![](img/immovable-rod.webp#right)
+*Rod, minor, uncommon*
+<img src="immovable-rod.webp" align="right" width="250">
 
 - **Weight**: 2.0 lbs.
 

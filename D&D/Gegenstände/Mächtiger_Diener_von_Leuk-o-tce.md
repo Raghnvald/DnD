@@ -1,10 +1,11 @@
 ---
-Bezeichnung: Mighty Servant of Leuk-o
+Bezeichnung: Mächtiger Diener von Leuk-o
 Original: Mighty Servant of Leuk-o
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: TCE
 linter-yaml-title-alias: Mighty Servant of Leuk-o
 tags:
   - Gegenstand/Einstimmung/erfordert

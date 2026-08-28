@@ -12,8 +12,8 @@ aliases:
   - "Daern's Instant Fortress"
 ---
 # Daern's Instant Fortress
-*Wondrous item, major, rare*  
-![](img/daerns-instant-fortress.webp#right)
+*Wondrous item, major, rare*
+<img src="daerns-instant-fortress.webp" align="right" width="150">
 
 Du kannst eine Aktion aufwenden, um diesen 2,5 Zentimeter breiten Metallwürfel auf dem Boden zu platzieren und sein Befehlswort zu sprechen. Der Würfel wächst daraufhin schnell zu einer Festung heran, die bestehen bleibt, bis du eine Aktion aufwendest, um das Befehlswort auszusprechen, welches die Festung wegschickt, was nur funktioniert, wenn die Festung leer ist. 
 

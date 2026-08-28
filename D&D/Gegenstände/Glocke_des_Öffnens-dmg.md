@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Glocke des Öffnens
+Original: Chime of Opening
 Seltenheit:
   - selten
 Status: WIP
@@ -11,10 +12,10 @@ aliases:
   - Glocke des Öffnens
 ---
 # Glocke des Öffnens
-*Wondrous item, minor, rare*  
-![](img/chime-of-opening.webp#right)
+*Wundersamer Gegenstand, selten*
+<img src="chime-of-opening.webp" align="right" width="150">
 
-- **Weight**: 1.0 lbs.
+- **Gewicht**: 0,5 kg
 
 Dieses hohle Metallgefäß misst ungefähr 30 Zentimeter und wiegt 1 Pfund. Du kannst eine Aktion verwenden, um es zu schlagen und auf ein Objekt innerhalb von 36 Metern von dir zu zeigen, welches wie eine Tür, ein Deckel oder ein Schloss geöffnet werden kann. Die Glocke gibt einen klaren Ton von sich, und ein Schloss oder Deckel öffnet sich daraufhin, es sei denn, der Klang kann das Objekt nicht erreichen. Wenn keine Schlösser oder Deckel verbleiben, öffnet sich das Objekt selbst. 
 

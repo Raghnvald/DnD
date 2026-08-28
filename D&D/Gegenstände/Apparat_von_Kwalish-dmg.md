@@ -16,6 +16,7 @@ tags:
 aliases:
   - Apparat von Kwalish
   - Apparatus of Kwalish
+Quelle: DMG
 ---
 # Apparat von Kwalish
 *Wundersamer Gegenstand, legendär*  

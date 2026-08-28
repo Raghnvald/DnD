@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +2 Wand of the War Mage
+Bezeichnung: Zauberstab des Kriegsmagiers +2
+Original: +2 Wand of the War Mage
 Kategorie: Zauberstab
 Seltenheit:
   - selten
@@ -12,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +2 Wand of the War Mage
+Quelle: DMG
 ---
 # +2 Wand of the War Mage
 *Wand, major, rare (requires attunement by a spellcaster)*  

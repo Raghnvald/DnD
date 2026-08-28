@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trank der Unsichtbarkeit
+Quelle: DMG
 ---
 # Trank der Unsichtbarkeit
 *Trank, sehr selten*  

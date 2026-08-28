@@ -13,10 +13,11 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Web
+Quelle: DMG
 ---
 # Wand of Web
-*Wand, major, uncommon (requires attunement by a spellcaster)*  
-![](/3-Mechanics/CLI/items/img/wand-of-web.webp#right)
+*Wand, major, uncommon (requires attunement by a spellcaster)*
+<img src="wand-of-web.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

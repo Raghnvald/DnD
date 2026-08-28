@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Stiefel der Elfen
+Original: Boots of Elvenkind
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - ungewöhnlich
@@ -14,7 +15,7 @@ aliases:
 ---
 # Stiefel der Elfen
 *Wundersamer Gegenstand, ungewöhnlich*
-![](img/boots-of-elvenkind.webp#right)
+<img src="boots-of-elvenkind.webp" align="right" width="150">
 
 Während du diese Stiefel trägst, erzeugen deine Schritte kein Geräusch, egal auf welcher Oberfläche du läufst. Du hast außerdem einen Vorteil bei Würfen auf Geschicklichkeit ([[Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]), die voraussetzen, dass man sich leise bewegt.
 

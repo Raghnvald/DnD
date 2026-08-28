@@ -22,7 +22,7 @@ aliases:
 - **Kosten**: 39 GM
 - **Gewicht**: 18,0 kg
 
-Beinhaltet:
+Enthält:
 
 - eine [[Kiste-phb|Kiste]]
 - 2 [[Karten-oder_Schriftrollenbehälter-phb|Karten- oder Schriftrollenbehälter]]

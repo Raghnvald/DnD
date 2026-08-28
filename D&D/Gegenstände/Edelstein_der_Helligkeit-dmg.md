@@ -12,8 +12,8 @@ aliases:
   - Gem of Brightness
 ---
 # Gem of Brightness
-*Wondrous item, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/gem-of-brightness.webp#right)
+*Wondrous item, major, uncommon*
+<img src="gem-of-brightness.webp" align="right" width="250">
 
 - **Weight**: 1.0 lbs.
 

@@ -18,8 +18,8 @@ aliases:
   - Ring of Mind Shielding
 ---
 # Ring der Gedankenabschirmung
-*Ring, ungewöhnlich (erfordert Einstimmung)*  
-![](img/ring-of-mind-shielding.webp#right)
+*Ring, ungewöhnlich (erfordert Einstimmung)*
+<img src="ring-of-mind-shielding.webp" align="right" width="150">
 
 Während du diesen Ring trägst, bist du immun gegen Magie, die anderen Kreaturen erlaubt, deine Gedanken zu lesen, festzustellen ob du lügst, deine Gesinnung zu erkennen oder deinen Kreaturentyp festzustellen. Kreaturen können nur dann telepathisch mit dir kommunizieren, wenn du es erlaubst.
 

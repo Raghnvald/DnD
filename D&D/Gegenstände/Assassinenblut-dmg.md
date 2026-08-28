@@ -15,9 +15,10 @@ tags:
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - "Assassin's Blood"
+  - Assassin's Blood
   - Assassinenblut
 status: WIP
+Quelle: DMG
 ---
 # Assassinenblut
 *Abenteuerausrüstung, Gift (Einnahme)*  

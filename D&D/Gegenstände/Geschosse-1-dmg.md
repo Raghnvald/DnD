@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +1 Ammunition
+Bezeichnung: Geschosse +1
+Original: +1 Ammunition
 Seltenheit:
   - ungewöhnlich
 Status: WIP

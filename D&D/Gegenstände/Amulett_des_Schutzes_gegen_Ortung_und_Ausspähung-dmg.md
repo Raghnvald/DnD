@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Amulett des Schutzes gegen Ortung und Ausspähung
+Original: Amulet of Proof against Detection and Location
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - ungewöhnlich
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
+Kst.: n/v
 Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Amulett des Schutzes gegen Ortung und Ausspähung
@@ -18,6 +19,7 @@ tags:
 aliases:
   - Amulet of Proof against Detection and Location
   - Amulett des Schutzes gegen Ortung und Ausspähung
+Quelle: DMG
 ---
 # Amulett des Schutzes gegen Ortung und Ausspähung
 *Wundersamer Gegenstand, ungewöhnlich (erfordert Einstimmung)*  

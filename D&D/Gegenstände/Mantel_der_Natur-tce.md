@@ -15,8 +15,8 @@ aliases:
   - "Nature's Mantle"
 ---
 # Nature's Mantle
-*Wondrous item, uncommon (requires attunement by a druid or ranger)*  
-![](/3-Mechanics/CLI/items/img/natures-mantle.webp#right)
+*Wondrous item, uncommon (requires attunement by a druid or ranger)*
+<img src="natures-mantle.webp" align="right" width="150">
 
 This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a [Spellcasting Focus](/3-Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Druid and Ranger spells.
 

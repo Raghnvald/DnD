@@ -11,8 +11,8 @@ aliases:
   - "Hewards Praktischer Rucksack "
 ---
 # Hewards Praktischer Rucksack 
-*Wundersamer Gegenstand, selten*  
-![](img/hewards-handy-haversack.webp#right)
+*Wundersamer Gegenstand, selten*
+<img src="hewards-handy-haversack.webp" align="right" width="150">
 
 - **Gewicht**: 2,5 kg.
 

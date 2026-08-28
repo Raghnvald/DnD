@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Cold Resistance
+Bezeichnung: Rüstung des Widerstands (Kälte)
+Original: Armor of Cold Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

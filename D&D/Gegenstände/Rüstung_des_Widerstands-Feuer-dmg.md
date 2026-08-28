@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Fire Resistance
+Bezeichnung: Rüstung des Widerstands (Feuer)
+Original: Armor of Fire Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

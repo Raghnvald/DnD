@@ -13,8 +13,8 @@ aliases:
   - Fulminating Treatise
 ---
 # Fulminating Treatise
-*Wondrous item, rare (requires attunement by a wizard)*  
-![](/3-Mechanics/CLI/items/img/fulminating-treatise.webp#right)
+*Wondrous item, rare (requires attunement by a wizard)*
+<img src="fulminating-treatise.webp" align="right" width="250">
 
 - **Weight**: 3.0 lbs.
 

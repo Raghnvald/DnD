@@ -1,9 +1,11 @@
 ---
-Bezeichnung: Blackrazor
+Bezeichnung: Schwarzklinge
+Original: Blackrazor
 Kategorie: Nahkampf-Kriegswaffe
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: xDMG
 linter-yaml-title-alias: Blackrazor
 tags:
   - Gegenstand/Einstimmung/erfordert

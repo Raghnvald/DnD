@@ -16,8 +16,8 @@ aliases:
 status: WIP
 ---
 # Staff of Swarming Insects
-*Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](img/staff-of-swarming-insects.webp#right)
+*Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*
+<img src="staff-of-swarming-insects.webp" align="right" width="75">
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

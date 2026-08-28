@@ -22,8 +22,8 @@ aliases:
 status: WIP
 ---
 # Instrument of the Bards, Cli Lyre
-*Wondrous item, instrument, major, rare (requires attunement by a bard)*  
-![](/3-Mechanics/CLI/items/img/instrument-of-the-bards-cli-lyre.webp#right)
+*Wondrous item, instrument, major, rare (requires attunement by a bard)*
+<img src="instrument-of-the-bards-cli-lyre.webp" align="right" width="150">
 
 - **Weight**: 2.0 lbs.
 

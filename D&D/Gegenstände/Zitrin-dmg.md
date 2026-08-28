@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zitrin
+Quelle: DMG
 ---
 # Zitrin
 *Schatz (Edelstein)*  

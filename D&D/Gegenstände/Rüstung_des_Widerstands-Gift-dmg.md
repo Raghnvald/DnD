@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Poison Resistance
+Bezeichnung: Rüstung des Widerstands (Gift)
+Original: Armor of Poison Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

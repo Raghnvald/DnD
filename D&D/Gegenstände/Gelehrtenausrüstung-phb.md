@@ -1,6 +1,6 @@
 ---
 Bezeichnung: Gelehrtenausrüstung
-Original: "Scholar's Pack"
+Original: Scholar's Pack
 Kategorie: Ausrüstungspaket
 Seltenheit:
   - keine
@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 40 GM
 Gew.: 5,0 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Gelehrtenausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,19 +18,19 @@ aliases:
   - Gelehrtenausrüstung
 ---
 # Gelehrtenausrüstung
-*Adventuring gear*  
+*Abenteuerausrüstung*
 
-- **Cost**: 40 gp
-- **Weight**: 10.0 lbs.
+- **Kosten**: 40 GM
+- **Gewicht**: 5,0 kg
 
-Includes:
+Enthält:
 
-- a [backpack](/3-Mechanics/CLI/items/backpack.md)  
-- a [book](/3-Mechanics/CLI/items/book.md) of lore  
-- a [bottle of ink](/3-Mechanics/CLI/items/ink-1-ounce-bottle.md)  
-- an [ink pen](/3-Mechanics/CLI/items/ink-pen.md)  
-- 10 [sheets of parchment](/3-Mechanics/CLI/items/parchment-one-sheet.md)  
-- a little bag of sand  
-- a small knife.  
+- ein [[Rucksack-phb|Rucksack]]
+- ein [[Buch-phb|Buch]] mit Überlieferungen
+- eine [[Tinte-Flasche-30ml-phb|Flasche Tinte]]
+- eine [[Schreibfeder-phb|Schreibfeder]]
+- 10 [[Pergament-ein-Blatt-phb|Blätter Pergament]]
+- ein kleiner Beutel mit Sand
+- ein kleines Messer
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

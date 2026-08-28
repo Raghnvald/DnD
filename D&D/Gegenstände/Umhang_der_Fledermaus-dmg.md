@@ -1,19 +1,21 @@
 ---
-Bezeichnung: "Umhang der Fledermaus "
+Bezeichnung: Umhang der Fledermaus
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - selten
 Status: WIP
-linter-yaml-title-alias: "Umhang der Fledermaus "
+linter-yaml-title-alias: Umhang der Fledermaus
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - "Umhang der Fledermaus "
+  - Umhang der Fledermaus
+  - Umhang der Fledermaus
+Quelle: DMG
 ---
-# Umhang der Fledermaus 
+# Umhang der Fledermaus
 *Wundersamer Gegenstand, selten (erfordert Einstimmung)*  
 
 Beim Tragen dieses Umhangs hast du einen Vorteil bei Würfen auf Geschicklichkeit ([[01-Spielleiter/Fertigkeiten-phb#Heimlichkeit|Heimlichkeit]]). In einem Bereich von dämmrigem Licht oder Dunkelheit kannst du die Ränder des Umhangs mit beiden Händen ergreifen, um auf diese Weise mit einer Bewegungsrate von 12 Metern zu fliegen. Wenn du die Ränder des Umhangs beim Fliegen nicht fassen kannst oder dich nicht mehr in dämmrigem Licht oder Dunkelheit befindest, verlierst du die Flugbewegungsrate. 

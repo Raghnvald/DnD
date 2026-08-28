@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: 1,0 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Verkleidungsausrüstung
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -18,13 +18,12 @@ aliases:
   - Verkleidungsausrüstung
 Aktiv: false
 Menge: "1"
-status: WIP
 ---
 # Verkleidungsausrüstung
 *Werkzeug*
 
 - **Kosten**: 25 Goldmünzen
-- **Gewicht:** 1,0 kg.
+- **Gewicht:** 1,0 kg
 
 Dieser Beutel mit Schminke, Haarfärbemitteln und kleinen Requisiten lässt dich Verkleidungen entwerfen, die dein Äußeres verändern. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, wenn du dich äußerlich verkleidest.
 

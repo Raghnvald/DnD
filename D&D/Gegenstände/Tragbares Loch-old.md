@@ -16,6 +16,7 @@ tags:
 aliases:
   - Portable Hole
   - Tragbares Loch
+Quelle: DMG
 ---
 # Tragbares Loch
 _Wundersamer Gegenstand, selten_

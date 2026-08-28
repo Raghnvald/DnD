@@ -1,10 +1,11 @@
 ---
-Bezeichnung: "Bigby's Beneficent Bracelet"
+Bezeichnung: Bigbys wohlmeinendes Armband
 Original: "Bigby's Beneficent Bracelet"
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: BGG
 linter-yaml-title-alias: "Bigby's Beneficent Bracelet"
 tags:
   - Gegenstand/Einstimmung/erfordert

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Acid Resistance
+Bezeichnung: Rüstung des Widerstands (Säure)
+Original: Armor of Acid Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

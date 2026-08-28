@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Belt of Fire Giant Strength
+Bezeichnung: Gürtel der Riesenstärke (Feuerriese)
+Original: Belt of Fire Giant Strength
 Seltenheit:
   - sehr selten
 Status: WIP

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +1 Weapon (no damage)
+Bezeichnung: Waffe +1 (kein Schaden)
+Original: +1 Weapon (no damage)
 Seltenheit:
   - ungewöhnlich
 Status: WIP
@@ -10,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - +1 Weapon (no damage)
+Quelle: DMG
 ---
 # +1 Weapon (no damage)
 *Major, uncommon*  

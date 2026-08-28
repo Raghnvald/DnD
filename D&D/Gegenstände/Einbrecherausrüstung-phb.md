@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 16 GM
 Gew.: 22,25 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Einbrecherausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -23,21 +23,21 @@ aliases:
 - **Kosten**: 16 GM
 - **Gewicht**: 22,25 kg
 
-Beinhaltet:
+Enthält:
 
-- a [backpack](/3-Mechanics/CLI/items/backpack.md)  
-- a [bag of 1,000 ball bearings](/3-Mechanics/CLI/items/ball-bearings-bag-of-1000.md)  
-- 10 feet of string  
-- a [bell](/3-Mechanics/CLI/items/bell.md)  
-- 5 [candles](/3-Mechanics/CLI/items/candle.md)  
-- a [crowbar](/3-Mechanics/CLI/items/crowbar.md)  
-- a [hammer](/3-Mechanics/CLI/items/hammer.md)  
-- 10 [pitons](/3-Mechanics/CLI/items/piton.md)  
-- a [hooded lantern](/3-Mechanics/CLI/items/hooded-lantern.md)  
-- 2 [flasks of oil](/3-Mechanics/CLI/items/oil-flask.md)  
-- 5 days [rations](/3-Mechanics/CLI/items/rations-1-day.md)  
-- a [tinderbox](/3-Mechanics/CLI/items/tinderbox.md)  
-- a [waterskin](/3-Mechanics/CLI/items/waterskin.md)  
-- [50 feet of hempen rope](/3-Mechanics/CLI/items/hempen-rope-50-feet.md)  
+- ein [[Rucksack-phb|Rucksack]]
+- ein [[Metallkügelchen-Beutel-mit-1000-phb|Beutel mit 1.000 Metallkügelchen]]
+- eine [[Kette-3m-phb|3 Meter lange Kette]]
+- eine [[Glocke-phb|Glocke]]
+- 5 [[Kerze-phb|Kerzen]]
+- eine [[Brechstange-phb|Brechstange]]
+- ein [[Hammer-phb|Hammer]]
+- 10 [[Kletterhaken-phb|Kletterhaken]]
+- eine [[Abdeckbare_Laterne-phb|Abdeckbare Laterne]]
+- 2 [[Öl-Flasche-phb|Flaschen Öl]]
+- 5 [[Tagesration-phb|Tagesrationen]]
+- ein [[Zunderkästchen-phb|Zunderkästchen]]
+- ein [[Trinkschlauch-phb|Wasserschlauch]]
+- ein [[Hanfseil-15-Meter-phb|15 Meter langes Hanfseil]]
 
 *Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

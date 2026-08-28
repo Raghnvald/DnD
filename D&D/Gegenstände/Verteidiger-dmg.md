@@ -27,6 +27,7 @@ aliases:
   - Defender Scimitar
   - Defender Shortsword
   - Verteidiger
+Quelle: DMG
 ---
 # Verteidiger
 *Waffe (irgendein Schwert), legendär (erfordert Einstimmung)*

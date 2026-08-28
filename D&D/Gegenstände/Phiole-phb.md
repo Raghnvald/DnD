@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 1 GM
 Gew.: n/v
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Phiole
 tags:
   - Gegenstand/Ausrüstung/
@@ -16,13 +16,12 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Phiole
-status: WIP
 ---
 # Phiole
-*Adventuring gear*  
+*Abenteuerausrüstung*
 
-- **Cost**: 1 gp
+- **Kosten**: 1 GM
 
-A vial can hold up to 4 ounces of liquid.
+Eine Phiole  fasst 120 ml Flüssigkeit.
 
-*Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 153. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

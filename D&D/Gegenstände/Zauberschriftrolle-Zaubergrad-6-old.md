@@ -16,6 +16,7 @@ tags:
 aliases:
   - Spell Scroll (6th Level)
   - Zauberschriftrolle (Zaubergrad 6)
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 6)
 *Schriftrolle, sehr selten*  

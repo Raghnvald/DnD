@@ -13,7 +13,7 @@ tags:
 aliases:
   - Censer of Controlling Air Elementals
 ---
-# Censer of Controlling Air Elementals
+# Rauchfass der Luftelementar-Herrschaft
 *Wondrous item, major, rare*  
 ![](/3-Mechanics/CLI/items/img/censer-of-controlling-air-elementals.webp#right)
 

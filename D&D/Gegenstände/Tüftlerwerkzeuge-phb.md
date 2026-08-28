@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 50 GM
 Gew.: 5,0 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Tüftlerwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -22,6 +22,6 @@ status: WIP
 *Handwerkszeug*
 
 - **Kosten**: 50 GM
-- **Gewicht**: 5,0 kg.
+- **Gewicht**: 5,0 kg
 
 *Quelle: Spielerhandbuch S. 154, Xanathars Ratgeber für Alles S. 84. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

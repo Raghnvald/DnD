@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Binding
+Quelle: DMG
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  

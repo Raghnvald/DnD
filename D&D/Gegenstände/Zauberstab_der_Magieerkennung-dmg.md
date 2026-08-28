@@ -18,16 +18,11 @@ aliases:
   - Wand of Magic Detection
   - Zauberstab der Magieerkennung
 image: wand-of-magic-detection.webp
+Quelle: DMG
 ---
 # Zauberstab der Magieerkennung
-_Zauberstab, ungewöhnlich_  
+*Zauberstab, ungewöhnlich*
 <img src="Wand-of-Magic-Detection.webp" align="right" width="50">
-
-- **Eigenschaften**: Erfordert Einstimmung
-- **Gewicht**: 0,5 kg
-- **Kosten**: 400 Goldmünzen
-
-Der Zauberstab hat 3 Ladungen. Während du ihn hältst, kannst du eine Aktion verwenden, um 1 Ladung zu verbrauchen, und damit den Zauber [[Magie entdecken]] zu wirken. Der Zauberstab erhält zu jeder Morgendämmerung `1W3` verbrauchte Ladungen zurück.
 
 - **Weight**: 1.0 lbs.
 

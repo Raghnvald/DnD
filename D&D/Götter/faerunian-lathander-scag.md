@@ -15,7 +15,7 @@ aliases:
 ---
 # Lathander
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-lathander.webp#symbol)
+![](scag-symbol-of-lathander.webp#symbol)
 
 - **Alternate Names**: The Morninglord, Inspiration's Dawn, The Rose-and-Gold God
 - **Alignment**: Neutral Good

@@ -16,6 +16,7 @@ tags:
 aliases:
   - Spell Scroll (8th Level)
   - Zauberschriftrolle (Zaubergrad 8)
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 8)
 *Schriftrolle, sehr selten*  

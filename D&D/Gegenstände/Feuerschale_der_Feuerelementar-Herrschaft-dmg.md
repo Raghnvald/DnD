@@ -12,11 +12,11 @@ aliases:
   - Feuerschale der Feuerelementar-Herrschaft
 ---
 # Feuerschale der Feuerelementar-Herrschaft
-*Wundersamer Gegenstand, selten*  
-![](Gegenstände/img/brazier-of-commanding-fire-elementals.webp#right)
+*Wundersamer Gegenstand, selten*
+<img src="brazier-of-commanding-fire-elementals.webp" align="right" width="150">
 
 - **Gewicht**: 2,5 kg.
 
-Während ein Feuer in dieser Feuerschale brennt, kannst du eine Aktion verwenden, um das Befehlswort der Feuerschale zu sprechen und so einen [[Feuerelementar-mm|Feuerelementar]] zu beschwören, so als hättest du Zauber [[Elementar-beschwören-phb|Elementar beschwören]] dafür gewirkt. Die Feuerschale kann bis zur nächsten Morgendämmerung nicht erneut verwendet werden. Die Feuerschale wiegt 5 Pfund.
+Während ein Feuer in dieser Feuerschale brennt, kannst du eine Aktion verwenden, um das Befehlswort der Feuerschale zu sprechen und so einen [[Feuerelementar-mm|Feuerelementar]] zu beschwören, so als hättest du Zauber [[Elementar_beschwören-phb|Elementar beschwören]] dafür gewirkt. Die Feuerschale kann bis zur nächsten Morgendämmerung nicht erneut verwendet werden. Die Feuerschale wiegt 5 Pfund.
 
 *Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

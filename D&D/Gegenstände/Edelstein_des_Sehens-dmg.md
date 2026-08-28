@@ -14,7 +14,7 @@ aliases:
 ---
 # Edelstein des Sehens
 *Wundersamer Gegenstand, selten (erfordert Einstimmung)*  
-<img src="img/gem-of-seeing.webp#" align="right" width="150">
+<img src="gem-of-seeing.webp" align="right" width="150">
 
 - **Gewicht**: 0,5 kg.
 

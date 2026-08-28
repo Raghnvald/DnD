@@ -12,6 +12,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of the War Mage
+Quelle: DMG
 ---
 # Wand of the War Mage
 *Wand, major (requires attunement by a spellcaster)*  

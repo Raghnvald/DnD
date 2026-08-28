@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Lightning Resistance
+Bezeichnung: Rüstung des Widerstands (Blitz)
+Original: Armor of Lightning Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

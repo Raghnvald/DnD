@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Azurit
+Quelle: DMG
 ---
 # Azurit
 *Schatz (Edelstein)*  

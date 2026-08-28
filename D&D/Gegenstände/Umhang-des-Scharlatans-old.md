@@ -12,6 +12,7 @@ tags:
 aliases:
   - Cape of the Mountebank
   - Umhang des Scharlatans
+Quelle: DMG
 ---
 # Umhang des Scharlatans
 *Wundersamer Gegenstand, selten*  

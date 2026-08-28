@@ -12,10 +12,11 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Secrets
+Quelle: DMG
 ---
 # Wand of Secrets
-*Wand, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/wand-of-secrets.webp#right)
+*Wand, minor, uncommon*
+<img src="wand-of-secrets.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

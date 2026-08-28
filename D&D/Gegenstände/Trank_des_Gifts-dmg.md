@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trank des Gifts
+Quelle: DMG
 ---
 # Trank des Gifts
 *Trank, ungewöhnlich*  

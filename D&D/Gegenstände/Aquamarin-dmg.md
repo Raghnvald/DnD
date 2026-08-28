@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Aquamarin
+Quelle: DMG
 ---
 # Aquamarin
 *Schatz (Edelstein)*  

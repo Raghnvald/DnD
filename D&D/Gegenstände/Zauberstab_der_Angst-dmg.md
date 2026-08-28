@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Fear
+Quelle: DMG
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  

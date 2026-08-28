@@ -33,6 +33,7 @@ aliases:
   - Adamantine Spiked Armor
   - Adamantine Splint Armor
   - Adamantrüstung
+Quelle: DMG
 ---
 # Adamantrüstung
 *Rüstung (mittelschwer oder schwer, kein Fell), ungewöhnlich*  

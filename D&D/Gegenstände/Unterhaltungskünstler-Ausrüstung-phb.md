@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 40 GM
 Gew.: 19,0 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Unterhaltungskünstler-Ausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -19,19 +19,19 @@ aliases:
 status: WIP
 ---
 # Unterhaltungskünstler-Ausrüstung
-*Adventuring gear*  
+*Abenteuerausrüstung*
 
-- **Cost**: 40 gp
-- **Weight**: 38.0 lbs.
+- **Kosten**: 40 GM
+- **Gewicht**: 19,0 kg
 
-Includes:
+Enthält:
 
-- a [backpack](/3-Mechanics/CLI/items/backpack.md)  
-- a [bedroll](/3-Mechanics/CLI/items/bedroll.md)  
-- 2 [costumes](/3-Mechanics/CLI/items/costume-clothes.md)  
-- 5 [candles](/3-Mechanics/CLI/items/candle.md)  
-- 5 days of [rations](/3-Mechanics/CLI/items/rations-1-day.md)  
-- a [waterskin](/3-Mechanics/CLI/items/waterskin.md)  
-- a [disguise kit](/3-Mechanics/CLI/items/disguise-kit.md)  
+- ein [[Rucksack-phb|Rucksack]]
+- ein [[Schlafsack-phb|Schlafsack]]
+- 2 [[Kleidung-Kostüm-phb|Kostüme]]
+- 5 [[Kerze-phb|Kerzen]]
+- 5 [[Tagesration-phb|Tagesrationen]]
+- ein [[Trinkschlauch-phb|Trinkschlauch]]
+- eine [[Verkleidungsausrüstung-phb|Verkleidungsausrüstung]]
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

@@ -19,6 +19,7 @@ tags:
 aliases:
   - Wurfspeer des Blitzes
 status: WIP
+Quelle: DMG
 ---
 # Wurfspeer des Blitzes
 *Waffe ([[Wurfspeer-phb|Wurfspeer]]), ungewöhnlich*

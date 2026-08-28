@@ -16,6 +16,7 @@ tags:
 aliases:
   - Axt der Zwergenlords
 status: WIP
+Quelle: DMG
 ---
 # Axt der Zwergenlords
 *Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe.md)), cursed item, artifact (requires attunement)*  

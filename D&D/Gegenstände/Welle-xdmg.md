@@ -1,9 +1,11 @@
 ---
-Bezeichnung: Wave
+Bezeichnung: Welle
+Original: Wave
 Kategorie: Nahkampf-Kriegswaffe
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: xDMG
 linter-yaml-title-alias: Wave
 tags:
   - Gegenstand/Einstimmung/erfordert

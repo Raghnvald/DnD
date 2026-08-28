@@ -1,12 +1,13 @@
 ---
 Bezeichnung: Amulett der Gesundheit
+Original: Amulet of Health
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - selten
 Eigenschaften:
   - n/v
 Einstimmung: erforderlich
-Kst.: /
+Kst.: n/v
 Gew.: 0,5 kg
 Status: WIP
 linter-yaml-title-alias: Amulett der Gesundheit
@@ -18,6 +19,7 @@ tags:
 aliases:
   - Amulet of Health
   - Amulett der Gesundheit
+Quelle: DMG
 ---
 # Amulett der Gesundheit
 *Wundersamer Gegenstand, selten (erfordert Einstimmung)*  

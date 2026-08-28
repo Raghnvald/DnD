@@ -7,8 +7,8 @@ Seltenheit:
 Eigenschaften:
   - n/v
 Kst.: 12 GM
-Gew.: 30,0 kg
-Status: WIP
+Gew.: 30,75 kg
+Status: completed
 linter-yaml-title-alias: Gewölbeforscherausrüstung
 tags:
   - Gegenstand/Ausrüstung/
@@ -18,21 +18,21 @@ aliases:
   - Gewölbeforscherausrüstung
 ---
 # Gewölbeforscherausrüstung
-*Adventuring gear*  
+*Abenteuerausrüstung*
 
-- **Cost**: 12 gp
-- **Weight**: 61.5 lbs.
+- **Kosten**: 12 GM
+- **Gewicht**: 30,75 kg
 
-Includes:
+Enthält:
 
-- a [backpack](/3-Mechanics/CLI/items/backpack.md)  
-- a [crowbar](/3-Mechanics/CLI/items/crowbar.md)  
-- a [hammer](/3-Mechanics/CLI/items/hammer.md)  
-- 10 [pitons](/3-Mechanics/CLI/items/piton.md)  
-- 10 [torches](/3-Mechanics/CLI/items/torch.md)  
-- a [tinderbox](/3-Mechanics/CLI/items/tinderbox.md)  
-- 10 days of [rations](/3-Mechanics/CLI/items/rations-1-day.md)  
-- a [waterskin](/3-Mechanics/CLI/items/waterskin.md)  
-- [50 feet of hempen rope](/3-Mechanics/CLI/items/hempen-rope-50-feet.md)  
+- ein [[Rucksack-phb|Rucksack]]
+- eine [[Brechstange-phb|Brechstange]]
+- ein [[Hammer-phb|Hammer]]
+- 10 [[Kletterhaken-phb|Kletterhaken]]
+- 10 [[Fackel-phb|Fackeln]]
+- ein [[Zunderkästchen-phb|Zunderkästchen]]
+- 10 [[Tagesration-phb|Tagesrationen]]
+- ein [[Trinkschlauch-phb|Trinkschlauch]]
+- ein [[Hanfseil-15-Meter-phb|15 Meter langes Hanfseil]]
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 151. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)* 

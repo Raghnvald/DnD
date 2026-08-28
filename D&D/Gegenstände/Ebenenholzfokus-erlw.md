@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Ebenenholzfokus
+Original: Imbued Wood Focus
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - gewöhnlich

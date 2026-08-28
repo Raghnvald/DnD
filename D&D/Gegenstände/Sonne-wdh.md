@@ -23,6 +23,6 @@ status: WIP
 
 - **Cost**: 10 gp
 
-Platinum coin, twice as large as a [nib](/3-Mechanics/CLI/items/nib-wdh.md) (1 sun = 1,000 [nibs](/3-Mechanics/CLI/items/nib-wdh.md))
+Platinum coin, twice as large as a [nibs](feder-wdh.md)(1 sun = 1,000 [nibs](feder-wdh.md))
 
 *Source: Waterdeep: Dragon Heist p. 169*

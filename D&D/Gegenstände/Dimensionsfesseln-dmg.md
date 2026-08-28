@@ -12,8 +12,8 @@ aliases:
   - Dimensional Shackles
 ---
 # Dimensional Shackles
-*Wondrous item, major, rare*  
-![](/3-Mechanics/CLI/items/img/dimensional-shackles.webp#right)
+*Wondrous item, major, rare*
+<img src="dimensional-shackles.webp" align="right" width="150">
 
 You can use an action to place these shackles on an [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing-through an interdimensional portal.
 

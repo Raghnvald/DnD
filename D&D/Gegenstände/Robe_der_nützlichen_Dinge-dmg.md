@@ -14,8 +14,8 @@ aliases:
   - Robe of Useful Items
 ---
 # Robe of Useful Items
-*Wondrous item, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
+*Wondrous item, minor, uncommon*
+<img src="robe-of-useful-items.webp" align="right" width="150">
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 

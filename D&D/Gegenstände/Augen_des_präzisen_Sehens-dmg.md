@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Augen des präzisen Sehens
+Quelle: DMG
 ---
 # Augen des präzisen Sehens
 *Wundersamer Gegenstand, ungewöhnlich *  

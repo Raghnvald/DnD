@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trank des Widerstands
+Quelle: DMG
 ---
 # Trank des Widerstands
 *Trank, ungewöhnlich*  

@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Lightning Bolts
+Quelle: DMG
 ---
 # Wand of Lightning Bolts
 *Wand, major, rare (requires attunement by a spellcaster)*  

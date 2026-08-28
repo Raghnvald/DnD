@@ -1,5 +1,6 @@
 ---
 Bezeichnung: Eisenbänder von Bilarro
+Original: Iron Bands of Bilarro
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - selten
@@ -12,8 +13,8 @@ aliases:
   - Eisenbänder von Bilarro
 ---
 # Eisenbänder von Bilarro
-*Wondrous item, major, rare*  
-![](img/iron-bands-of-bilarro.webp#right)
+*Wondrous item, major, rare*
+<img src="iron-bands-of-bilarro.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

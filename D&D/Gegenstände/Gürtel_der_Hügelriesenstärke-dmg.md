@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Belt of Hill Giant Strength
+Bezeichnung: Gürtel der Riesenstärke (Hügelriese)
+Original: Belt of Hill Giant Strength
 Seltenheit:
   - selten
 Status: WIP

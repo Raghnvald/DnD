@@ -17,7 +17,7 @@ aliases:
   - Becher
 ---
 # Becher
-*Abenteuerausrüstung*  
+*Abenteuerausrüstung*
 
 - **Kosten**: 2 KM
 - **Gewicht**: 0,5 kg

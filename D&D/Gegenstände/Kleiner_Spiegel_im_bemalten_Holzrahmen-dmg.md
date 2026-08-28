@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Small mirror set in a painted wooden frame
+Bezeichnung: Kleiner Spiegel im bemalten Holzrahmen
 Original: Small mirror set in a painted wooden frame
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Small mirror set in a painted wooden frame
+Status: completed
+linter-yaml-title-alias: Kleiner Spiegel im bemalten Holzrahmen
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Small mirror set in a painted wooden frame
+  - Kleiner Spiegel im bemalten Holzrahmen
 ---
-# Small mirror set in a painted wooden frame
-*Treasure (art object)*  
+# Kleiner Spiegel im bemalten Holzrahmen
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

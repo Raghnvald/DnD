@@ -14,7 +14,7 @@ aliases:
 ---
 # The Whispered One
 *Source: Tal'Dorei Campaign Setting Reborn p. 38* 
-![A light gold circular holy...](/3-Mechanics/CLI/deities/img/tdcsr-whisperedone.webp#symbol "A light gold circular holy symbol with an upside-down five-pointed star. Sitting atop the star is a skull with one lone green light smoking from its left eye.")
+![A light gold circular holy...](tdcsr-whisperedone.webp#symbol "A light gold circular holy symbol with an upside-down five-pointed star. Sitting atop the star is a skull with one lone green light smoking from its left eye.")
 
 - **Alternate Names**: Vecna
 - **Alignment**: Neutral Evil

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Carved ivory statuette
+Bezeichnung: Geschnitzte Elfenbeinstatuette
 Original: Carved ivory statuette
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 250 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Carved ivory statuette
+Status: completed
+linter-yaml-title-alias: Geschnitzte Elfenbeinstatuette
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Carved ivory statuette
+  - Geschnitzte Elfenbeinstatuette
 ---
-# Carved ivory statuette
-*Treasure (art object)*  
+# Geschnitzte Elfenbeinstatuette
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 250 gp
+- **Kosten**: 250 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

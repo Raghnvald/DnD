@@ -21,6 +21,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Zauberabwehrschild
+Quelle: DMG
 ---
 # Zauberabwehrschild
 *Rüstung ([[Gegenstände/Schild-phb|Schild]]), sehr selten (erfordert Einstimmung)*

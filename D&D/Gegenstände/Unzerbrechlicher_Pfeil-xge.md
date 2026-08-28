@@ -19,8 +19,8 @@ aliases:
 status: WIP
 ---
 # Unzerbrechlicher Pfeil
-*Munition, gewöhnlich*  
-![](img/unbreakable-arrow.webp#right)
+*Munition, gewöhnlich*
+<img src="unbreakable-arrow.webp" align="right" width="250">
 
 This arrow can't be broken, except when it is within an [[Antimagisches_Feld-phb|Antimagischen Feld]].
 

@@ -16,15 +16,14 @@ tags:
   - Quelle/5e/vrgr
 aliases:
   - Monsterjägerpaket
-status: WIP
 ---
 # Monsterjägerpaket
-*Adventuring gear*  
+*Abenteuerausrüstung*
 
-- **Cost**: 33 gp
-- **Weight**: 48.5 lbs.
+- **Kosten**: 33 GM
+- **Gewicht**: 24,25 kg
 
-Includes:
+Enthält:
 
 - a [chest](/3-Mechanics/CLI/items/chest-xphb.md)  
 - a [crowbar](/3-Mechanics/CLI/items/crowbar-xphb.md)  

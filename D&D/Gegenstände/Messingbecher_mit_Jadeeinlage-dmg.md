@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Brass mug with jade inlay
+Bezeichnung: Messingbecher mit Jadeeinlage
 Original: Brass mug with jade inlay
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 250 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Brass mug with jade inlay
+Status: completed
+linter-yaml-title-alias: Messingbecher mit Jadeeinlage
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Brass mug with jade inlay
+  - Messingbecher mit Jadeeinlage
 ---
-# Brass mug with jade inlay
-*Treasure (art object)*  
+# Messingbecher mit Jadeeinlage
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 250 gp
+- **Kosten**: 250 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

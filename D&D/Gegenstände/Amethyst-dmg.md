@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Amethyst
+Quelle: DMG
 ---
 # Amethyst
 *Schatz (Edelstein)*  

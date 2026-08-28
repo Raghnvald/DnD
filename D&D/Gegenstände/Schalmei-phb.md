@@ -7,7 +7,7 @@ Eigenschaften:
   - n/v
 Kst.: 2 GM
 Gew.: 0,5 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Schalmei
 tags:
   - Gegenstand/Ausrüstung/Instrument
@@ -15,12 +15,11 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schalmei
-status: WIP
 ---
 # Schalmei
 *Instrument*  
 
 - **Kosten**: 2 GM
-- **Gewicht**: 1.0 lbs.
+- **Gewicht**: 0,5 kg
 
-*Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Quelle: Spielerhandbuch S. 154. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

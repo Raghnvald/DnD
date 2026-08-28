@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Embroidered glove set with jewel chips
+Bezeichnung: Bestickter Handschuh, mit Juwelenstücken besetzt
 Original: Embroidered glove set with jewel chips
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 2.500 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Embroidered glove set with jewel chips
+Status: completed
+linter-yaml-title-alias: Bestickter Handschuh, mit Juwelenstücken besetzt
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Embroidered glove set with jewel chips
+  - Bestickter Handschuh, mit Juwelenstücken besetzt
 ---
-# Embroidered glove set with jewel chips
-*Treasure (art object)*  
+# Bestickter Handschuh, mit Juwelenstücken besetzt
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 2,500 gp
+- **Kosten**: 2.500 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

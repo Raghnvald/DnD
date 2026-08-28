@@ -20,8 +20,8 @@ aliases:
 status: WIP
 ---
 # Staff of Withering
-*Staff, weapon, major, rare (requires attunement by a cleric, druid, or warlock)*  
-![](img/staff-of-withering.webp#right)
+*Staff, weapon, major, rare (requires attunement by a cleric, druid, or warlock)*
+<img src="staff-of-withering.webp" align="right" width="75">
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trickbeutel, grau
+Quelle: DMG
 ---
 # Trickbeutel, grau
 *Wundersamer Gegenstand, ungewöhnlich*  

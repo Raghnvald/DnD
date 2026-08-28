@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bracers of Archery
+Bezeichnung: Armschienen des Bogenschützen
 Original: Bracers of Archery
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
@@ -13,16 +13,11 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Bracers of Archery
+Quelle: DMG
 ---
-# Bracers of Archery
-*Wondrous item, major, uncommon (requires attunement)*  
-![](img/bracers-of-archery.webp#right)
-
-- **Eigenschaften**: Erfordert Einstimmung
-- **Cost**: 1.500 Goldmünzen
-- **Gewicht**: ⏤
-
-Wenn du diese Armschienen trägst, bist du im Umgang mit Langbögen und Kurzbögen geübt und erhältst einen Bonus von +2 auf Schadenswürfe nach Fernkampfangriffen mit solchen Waffen.
+# Armschienen des Bogenschützen
+*Wondrous item, major, uncommon (requires attunement)*
+<img src="bracers-of-archery.webp" align="right" width="150">
 
 While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
 

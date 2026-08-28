@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Bronze crown
+Bezeichnung: Bronzene Krone
 Original: Bronze crown
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 250 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Bronze crown
+Status: completed
+linter-yaml-title-alias: Bronzene Krone
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Bronze crown
+  - Bronzene Krone
 ---
-# Bronze crown
-*Treasure (art object)*  
+# Bronzene Krone
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 250 gp
+- **Kosten**: 250 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

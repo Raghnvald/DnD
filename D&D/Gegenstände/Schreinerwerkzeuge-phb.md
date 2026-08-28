@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: 8 GM
 Gew.: 3,0 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Schreinerwerkzeuge
 tags:
   - Gegenstand/Ausrüstung/Werkzeug
@@ -16,7 +16,6 @@ tags:
   - Quelle/5e/phb
 aliases:
   - Schreinerwerkzeuge
-status: WIP
 ---
 # Schreinerwerkzeuge
 *Handwerkszeug*

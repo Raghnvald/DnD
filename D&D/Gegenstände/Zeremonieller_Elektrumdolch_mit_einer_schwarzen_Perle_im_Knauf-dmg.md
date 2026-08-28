@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Ceremonial electrum dagger with a black pearl in the pommel
+Bezeichnung: Zeremonieller Elektrumdolch mit einer schwarzen Perle im Knauf
 Original: Ceremonial electrum dagger with a black pearl in the pommel
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,19 @@ Eigenschaften:
   - n/v
 Kst.: 750 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Ceremonial electrum dagger with a black pearl in the pommel
+Status: completed
+linter-yaml-title-alias: Zeremonieller Elektrumdolch mit einer schwarzen Perle im Knauf
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Ceremonial electrum dagger with a black pearl in the pommel
+  - Zeremonieller Elektrumdolch mit einer schwarzen Perle im Knauf
+Quelle: DMG
 ---
-# Ceremonial electrum dagger with a black pearl in the pommel
-*Treasure (art object)*  
+# Zeremonieller Elektrumdolch mit einer schwarzen Perle im Knauf
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 750 gp
+- **Kosten**: 750 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

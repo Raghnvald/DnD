@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Necrotic Resistance
+Bezeichnung: Rüstung des Widerstands (Nekrotisch)
+Original: Armor of Necrotic Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

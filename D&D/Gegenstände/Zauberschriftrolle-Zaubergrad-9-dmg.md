@@ -12,6 +12,7 @@ tags:
 aliases:
   - Zauberschriftrolle (Zaubergrad 9)
 status: completed
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 9)
 *Schriftrolle, legendär*  

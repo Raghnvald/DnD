@@ -15,8 +15,8 @@ aliases:
   - Medallion of Thoughts
 ---
 # Medallion of Thoughts
-*Wondrous item, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/medallion-of-thoughts.webp#right)
+*Wondrous item, major, uncommon (requires attunement)*
+<img src="medallion-of-thoughts.webp" align="right" width="150">
 
 - **Weight**: 1.0 lbs.
 

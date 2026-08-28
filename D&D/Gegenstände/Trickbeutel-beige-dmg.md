@@ -11,6 +11,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Trickbeutel, beige
+Quelle: DMG
 ---
 # Trickbeutel, beige
 *Wondrous item, major, uncommon*  

@@ -12,6 +12,7 @@ tags:
 aliases:
   - Zauberschriftrolle (Zaubertrick)
 status: completed
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubertrick)
 *Schriftrolle, gewöhnlich*  

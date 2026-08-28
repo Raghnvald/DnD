@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Whelm
+Bezeichnung: Überschutt
+Original: Whelm
 Kategorie: Nahkampf-Kriegswaffe
 Seltenheit:
   - Artefakt

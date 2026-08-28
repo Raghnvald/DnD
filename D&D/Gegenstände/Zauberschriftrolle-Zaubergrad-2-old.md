@@ -16,6 +16,7 @@ tags:
 aliases:
   - Spell Scroll (2nd Level)
   - Zauberschriftrolle (Zaubergrad 2)
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 2)
 *Schriftrolle, ungewöhnlich*  

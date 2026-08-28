@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Staff of Charming
+Bezeichnung: Zauberstecken der Bezauberung
 Original: Staff of Charming
 Kategorie: Zauberstecken
 Seltenheit:
@@ -10,41 +10,25 @@ Eigenschaften:
 Kst.: 4.000 GM
 Gew.: 2,0 kg
 Status: WIP
-linter-yaml-title-alias: Staff of Charming
+linter-yaml-title-alias: Zauberstecken der Bezauberung
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/Waffe/Einfach
   - Quelle/5e/dmg
 aliases:
-  - Staff of Charming
-status: WIP
+  - Zauberstecken der Bezauberung
+Quelle: DMG
 ---
-# Staff of Charming
+# Zauberstecken der Bezauberung
 *Zauberstecken, selten (erfordert Einstimmung durch einen Barden, Druiden, Hexenmeister, Kleriker, Magier oder Zauberer)*  
 <img src="staff-of-charming.webp" align="right" width="75">
 
-- **Angriffsart:** Einfache Nahkampf
-- **Reichweite:** 1,5 m
-- **Schaden:** 1W6
-- **Schadensart:** Hiebschaden
-- **Eigenschaften:** Vielseitig (1W8)
+- **Schaden**:
+  - Einhändig: 1d6 Hieb
+  - Zweihändig: 1d8 Hieb
+- **Eigenschaften:** [[Gegenstandseigenschaften-phb#Vielseitig|Vielseitig]]
 - **Gewicht:** 2,0 kg
-- **Kosten:** 4.000 Goldmünzen
-
-Während du diesen Zauberstecken hältst, kannst du eine Aktion nutzen, um zwischen 1 und 10 Ladungen auszugeben und einen der folgenden Zauber damit zu wirken, der deinen `Zauberrettungswurf-SG` hat: [[Person_bezaubern-old]], [[Befehl]] oder [[Sprachen verstehen-old]].
-
-$\quad$Der Zauberstecken kann ebenso als magischer Kampfstab benutzt werden.
-
-$\quad$Wenn du den Zauberstecken hältst und dir ein Rettungswurf gegen einen Verzauberungsspruch nicht gelingt, der nur dich zum Ziel hat, kannst du ihn stattdessen in einen erfolgreichen Wurf verwandeln. Du kannst diese Eigenschaft des Zaubersteckens bis zur nächsten Morgendämmerung nicht erneut verwenden. Wenn du dich erfolgreich gegen eine Verzauberung, die sich nur an dich richtet, schützt, gleich ob mit oder ohne das Eingreifen des Zaubersteckens, kannst du eine Reaktion verwenden und 1 Ladung ausgeben, um den Zauberstecken zu benutzen und damit den Zauber zurück auf seinen Wirker zu schicken, so als hättest du ihn gewirkt.
-
-$\quad$Der Zauberstecken erhält zu jeder Morgendämmerung `1W8 + 2` verbrauchte Ladungen zurück. Wenn du die letzte Ladung verbrauchst, wirf einen `W20`. Bei einer 1 wird der Zauberstecken zu einem nicht-magischen Kampfstab.
-
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
-- **Weight**: 4.0 lbs.
 
 While holding this staff, you can use an action to expend 1 of its 10 charges to cast [charm person](/3-Mechanics/CLI/spells/charm-person.md), [command](/3-Mechanics/CLI/spells/command.md), or [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages.md) from it using your spell save DC. The staff can also be used as a magic quarterstaff.
 

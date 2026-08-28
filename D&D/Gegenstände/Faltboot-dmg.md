@@ -12,8 +12,8 @@ aliases:
   - Folding Boat
 ---
 # Folding Boat
-*Wondrous item, minor, rare*  
-![](/3-Mechanics/CLI/items/img/folding-boat.webp#right)
+*Wondrous item, minor, rare*
+<img src="folding-boat.webp" align="right" width="350">
 
 - **Weight**: 4.0 lbs.
 

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Broom of Flying
+Bezeichnung: Flugbesen
+Original: Broom of Flying
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - ungewöhnlich
@@ -12,8 +13,8 @@ aliases:
   - Broom of Flying
 ---
 # Broom of Flying
-*Wondrous item, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/broom-of-flying.webp#right)
+*Wondrous item, major, uncommon*
+<img src="broom-of-flying.webp" align="right" width="250">
 
 - **Weight**: 3.0 lbs.
 

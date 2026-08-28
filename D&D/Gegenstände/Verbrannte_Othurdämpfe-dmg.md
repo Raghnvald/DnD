@@ -16,6 +16,7 @@ tags:
 aliases:
   - Verbrannte_Othurdämpfe
 status: WIP
+Quelle: DMG
 ---
 # Verbrannte_Othurdämpfe
 *Adventuring gear, poison (inhaled)*  

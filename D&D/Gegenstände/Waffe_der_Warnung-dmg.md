@@ -77,6 +77,7 @@ aliases:
   - Warhammer of Warning
   - Whip of Warning
   - Yklwa of Warning
+Quelle: DMG
 ---
 # Waffe der Warnung
 *Major, uncommon (requires attunement)*  

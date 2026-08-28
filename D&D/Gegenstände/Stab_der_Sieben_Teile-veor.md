@@ -10,7 +10,8 @@ Eigenschaften:
 Einstimmung: erforderlich
 Kst.: unbezahlbar
 Gew.: 2,0 kg
-Status: WIP
+Status: completed
+Quelle: VeoR
 linter-yaml-title-alias: Stab der Sieben Teile
 tags:
   - Gegenstand/Einstimmung/erfordert
@@ -21,7 +22,6 @@ tags:
   - Quelle/5e/veor
 aliases:
   - Stab der Sieben Teile
-status: WIP
 ---
 # Stab der Sieben Teile
 *Waffe ([[Kampfstab-phb|Kampfstab]]), Artefakt (erfordert Einstimmung)*

@@ -15,6 +15,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Augenachat
+Quelle: DMG
 ---
 # Augenachat
 *Schatz (Edelstein)*  

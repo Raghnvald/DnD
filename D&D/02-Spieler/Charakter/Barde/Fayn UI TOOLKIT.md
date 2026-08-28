@@ -452,7 +452,7 @@ items:
 > **Gegenstandsart:** Werkzeug
 > ---
 
-> [!recite]- [[Wasserschlauch-phb|Wasserschlauch]]
+> [!recite]- [[Trinkschlauch-phb|Wasserschlauch]]
 > **Menge:** 1x
 > **Gewicht:** 2,5 kg.
 > **Gegenstandsart:** Abenteuerausrüstung

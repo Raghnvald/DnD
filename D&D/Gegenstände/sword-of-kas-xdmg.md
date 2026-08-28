@@ -1,9 +1,11 @@
 ---
-Bezeichnung: Sword of Kas
+Bezeichnung: Schwert von Kas
+Original: Sword of Kas
 Kategorie: Nahkampf-Kriegswaffe
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: xDMG
 linter-yaml-title-alias: Sword of Kas
 tags:
   - Gegenstand/Einstimmung/erfordert

@@ -1,5 +1,6 @@
 ---
-Bezeichnung: Armor of Thunder Resistance
+Bezeichnung: Rüstung des Widerstands (Schall)
+Original: Armor of Thunder Resistance
 Seltenheit:
   - selten
 Rüstung: Leicht, Mittel oder Schwer

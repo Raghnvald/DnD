@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Boots of Speed
+Bezeichnung: Stiefel der Geschwindigkeit
 Original: Boots of Speed
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
@@ -15,8 +15,8 @@ aliases:
   - Boots of Speed
 ---
 # Boots of Speed
-*Wondrous item, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/boots-of-speed.webp#right)
+*Wondrous item, major, rare (requires attunement)*
+<img src="boots-of-speed.webp" align="right" width="150">
 
 Wenn du diese Stiefel trägst, kannst du deren Absätze als Bonusaktion zusammenschlagen. Wenn du das tust, verdoppeln die Stiefel deine Schrittbewegungsrate, und jede Kreatur, die einen Gelegenheitsangriff gegen dich ausführt, ist beim Angriffswurf im Nachteil. Wenn du deine Fersen wieder zusammenschlägst, beendest du den Effekt.
 

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Carved bone statuette
+Bezeichnung: Geschnitzte Knochenstatue
 Original: Carved bone statuette
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Carved bone statuette
+Status: completed
+linter-yaml-title-alias: Geschnitzte Knochenstatue
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Carved bone statuette
+  - Geschnitzte Knochenstatue
 ---
-# Carved bone statuette
-*Treasure (art object)*  
+# Geschnitzte Knochenstatue
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

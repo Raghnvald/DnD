@@ -8,7 +8,7 @@ Eigenschaften:
   - Munition
 Kst.: n/v
 Gew.: 0,15625 kg
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Energiezelle
 tags:
   - Gegenstand/Ausrüstung/Munition-Schusswaffe
@@ -19,8 +19,8 @@ aliases:
   - Energiezelle
 ---
 # Energiezelle
-*Ammunition (firearm)*  
+*Munition (Schusswaffe)*  
 
-- **Weight**: 0.3125 lbs.
+- **Gewicht:** 0,15625 kg
 
-*Source: Dungeon Master's Guide p. 268*
+*Quelle: Spielleiterhandbuch S. 268*

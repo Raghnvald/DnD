@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +3 Armor
+Bezeichnung: Rüstung +3
+Original: +3 Armor
 Seltenheit:
   - legendär
 Rüstung: Leicht, Mittel oder Schwer

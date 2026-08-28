@@ -14,8 +14,8 @@ aliases:
   - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 ---
 # Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
-*Wondrous item, uncommon*  
-![](/3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
+*Wondrous item, uncommon*
+<img src="prehistoric-figurines-of-wondrous-power.webp" align="right" width="150">
 
 Larger and more roughly hewn than typical figurines of wondrous power, these statuettes depict dinosaurs and related creatures from the earliest days of the world.
 

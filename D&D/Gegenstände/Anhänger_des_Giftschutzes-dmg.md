@@ -16,6 +16,7 @@ tags:
 aliases:
   - Anhänger des Giftschutzes
   - Periapt of Proof against Poison
+Quelle: DMG
 ---
 # Anhänger des Giftschutzes
 *Wundersamer Gegenstand, selten*

@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Silver and gold brooch
+Bezeichnung: Brosche aus Silber und Gold
 Original: Silver and gold brooch
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 750 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Silver and gold brooch
+Status: completed
+linter-yaml-title-alias: Brosche aus Silber und Gold
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Silver and gold brooch
+  - Brosche aus Silber und Gold
 ---
-# Silver and gold brooch
-*Treasure (art object)*  
+# Brosche aus Silber und Gold
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 750 gp
+- **Kosten**: 750 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

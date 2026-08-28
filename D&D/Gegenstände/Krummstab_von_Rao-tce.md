@@ -1,10 +1,11 @@
 ---
-Bezeichnung: Crook of Rao
+Bezeichnung: Krummstab von Rao
 Original: Crook of Rao
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: TCE
 linter-yaml-title-alias: Crook of Rao
 tags:
   - Gegenstand/Einstimmung/erfordert

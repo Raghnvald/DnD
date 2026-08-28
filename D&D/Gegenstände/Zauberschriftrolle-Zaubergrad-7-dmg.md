@@ -12,6 +12,7 @@ tags:
 aliases:
   - Zauberschriftrolle (Zaubergrad 7)
 status: completed
+Quelle: DMG
 ---
 # Zauberschriftrolle (Zaubergrad 7)
 *Schriftrolle, sehr selten*  

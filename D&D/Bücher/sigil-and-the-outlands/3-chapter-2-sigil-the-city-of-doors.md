@@ -12,7 +12,7 @@ aliases:
 
 Sigil is the crossroads of the multiverse, a city at the center of the Great Wheel. Connected to every plane of existence and the infinite worlds among them, the City of Doors brims with commerce, travel, schemes, and adventure. Sigil is commonly referred to as the Cage because the only way into or out of the city is through one of its countless portals—pathways controlled by the enigmatic Lady of Pain.
 
-![Dabus—floating, silent servants of the Lady of Pain found only in Sigil—protect the City of Doors](3-Mechanics/CLI/books/sigil-and-the-outlands/img/009-02-001-splash.webp#center)
+![Dabus—floating, silent servants of the Lady of Pain found only in Sigil—protect the City of Doors](sigil-and-the-outlands/img/009-02-001-splash.webp#center)
 
 ## Where Is Sigil?
 

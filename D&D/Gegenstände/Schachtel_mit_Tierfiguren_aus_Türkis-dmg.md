@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Box of turquoise animal figurines
+Bezeichnung: Schachtel mit Tierfiguren aus Türkis
 Original: Box of turquoise animal figurines
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,19 +8,19 @@ Eigenschaften:
   - n/v
 Kst.: 250 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Box of turquoise animal figurines
+Status: completed
+linter-yaml-title-alias: Schachtel mit Tierfiguren aus Türkis
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Box of turquoise animal figurines
+  - Schachtel mit Tierfiguren aus Türkis
 status: WIP
 ---
-# Box of turquoise animal figurines
-*Treasure (art object)*  
+# Schachtel mit Tierfiguren aus Türkis
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 250 gp
+- **Kosten**: 250 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

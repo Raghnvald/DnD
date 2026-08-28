@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: n/v
 Gew.: n/v
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Riesische Requisiten
 tags:
   - Gegenstand/Ausrüstung/
@@ -16,23 +16,22 @@ tags:
   - Quelle/5e/bgg
 aliases:
   - Riesische Requisiten
-status: WIP
 ---
 # Riesische Requisiten
-*Adventuring gear*  
+*Abenteuerausrüstung*
 
-While exploring your home, you discovered some trivial remnant of the ancient inhabitants, as determined by rolling on the Giant Trinkets table. The items in parentheses are the normal-sized objects most analogous to the described giant trinkets.
+Beim Erkunden deiner Heimat hast du einige Überreste aus dem Alltag der uralten Einwohner entdeckt, die du anhand der Tabelle „Riesische Requisiten" bestimmen kannst. Die Gegenstände in Klammern sind die Gegenstände in Normalgröße, die den beschriebenen riesischen Requisiten am nächsten kommen.
 
-**Giant Trinkets**
+**Riesische Requisiten**
 
-| dice: d6 | Giant Trinket |
+| W6 | Riesische Requisiten |
 |----------|---------------|
-| 1 | A giant's toothpick (a dagger) |
-| 2 | A giant's handkerchief (a blanket) |
-| 3 | A giant's marble (a crystal orb) |
-| 4 | A giant's match (a torch) |
-| 5 | A giant's letter opener (a longsword) |
-| 6 | A giant's thimble (an iron pot) |
+| 1 | Zahnstocher eines Riesen (Dolch) |
+| 2 | Taschentuch eines Riesen (Decke) |
+| 3 | Murmel eines Riesen (Kristallkugel) |
+| 4 | Streichholz eines Riesen (Fackel) |
+| 5 | Brieföffnet eines Riesen (Langschwert) |
+| 6 | Fingerhut eines Riesen (Eisenkessel) |
 ^giant-trinkets
 
-*Source: Bigby Presents: Glory of the Giants p. 16*
+*Quelle: Bigby präsentiert: Ruhm der Riesen S. 16*

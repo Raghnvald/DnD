@@ -19,11 +19,10 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Pipes of the Sewers
-status: WIP
 ---
 # Pipes of the Sewers
-*Wondrous item, instrument, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/pipes-of-the-sewers.webp#right)
+*Wondrous item, instrument, major, uncommon (requires attunement)*
+<img src="pipes-of-the-sewers.webp" align="right" width="150">
 
 - **Weight**: 2.0 lbs.
 

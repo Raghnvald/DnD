@@ -1,5 +1,6 @@
 ---
-Bezeichnung: +2 Armor
+Bezeichnung: Rüstung +2
+Original: +2 Armor
 Seltenheit:
   - sehr selten
 Rüstung: Leicht, Mittel oder Schwer

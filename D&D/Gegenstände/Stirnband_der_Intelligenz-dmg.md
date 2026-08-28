@@ -15,8 +15,8 @@ aliases:
   - Headband of Intellect
 ---
 # Headband of Intellect
-*Wondrous item, major, uncommon (requires attunement)*  
-![](img/headband-of-intellect.webp#right)
+*Wondrous item, major, uncommon (requires attunement)*
+<img src="headband-of-intellect.webp" align="right" width="150">
 
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it.
 

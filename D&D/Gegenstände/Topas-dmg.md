@@ -16,6 +16,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Topas
+Quelle: DMG
 ---
 # Topas
 *Schatz (Edelstein)*  

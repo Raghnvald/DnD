@@ -21,6 +21,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Antimaterie-Gewehr
+Quelle: DMG
 ---
 # Antimaterie-Gewehr
 *Fernkampf-Kriegswaffe, futuristisch*  

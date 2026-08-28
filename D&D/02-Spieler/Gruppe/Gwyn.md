@@ -64,6 +64,10 @@ ZR: n/v
 
 ---
 
+[[Halskette_der_Anpassung-dmg|Halskette der Anpassung]]
+
+---
+
 ## Einstimmungen
 [[#Foxy|Foxy]]
 [[Helm_des_Sprachenverstehens-dmg|Helm des Sprachenverstehens]]

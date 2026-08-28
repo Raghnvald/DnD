@@ -15,7 +15,7 @@ aliases:
   - +2 Moon Sickle
 ---
 # +2 Moon Sickle
-*Weapon ([sickle](/3-Mechanics/CLI/items/sickle-xphb.md)), rare (requires attunement by a druid or ranger)*  
+*Weapon ([sickle](Sichel-phb)), rare (requires attunement by a druid or ranger)*  
 
 - **Damage**: 1d4 slashing
 - **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)

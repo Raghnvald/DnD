@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Copper chalice with silver filigree
+Bezeichnung: Kupferner Kelch mit feinen Silberfäden
 Original: Copper chalice with silver filigree
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 25 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Copper chalice with silver filigree
+Status: completed
+linter-yaml-title-alias: Kupferner Kelch mit feinen Silberfäden
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Copper chalice with silver filigree
+  - Kupferner Kelch mit feinen Silberfäden
 ---
-# Copper chalice with silver filigree
-*Treasure (art object)*  
+# Kupferner Kelch mit feinen Silberfäden
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 25 gp
+- **Kosten**: 25 GM
 
-*Source: Dungeon Master's Guide p. 134*
+*Quelle: Spielleiterhandbuch S. 134*

@@ -8,7 +8,7 @@ Eigenschaften:
   - n/v
 Kst.: variiert
 Gew.: variiert
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Rossharnisch
 tags:
   - Gegenstand/Ausrüstung/Zaumzeug-und-Harnisch
@@ -29,7 +29,6 @@ aliases:
   - Spiked Barding
   - Splint Barding
   - Studded Leather Barding
-status: WIP
 ---
 # Rossharnisch
 *Zaumzeug und Harnisch*  
@@ -61,26 +60,26 @@ Hierbei handelt es sich um eine Rüstung, die dafür entworfen wurde, Kopf, Nack
 
 - **Rüstungsklasse**: 14
 - **Kosten**: 1.600 GM
-- **Gewicht**: 40.0 lbs.
+- **Gewicht**: 20,0 kg
 
 ### Fell-Rossharnisch
 
 - **Rüstungsklasse**: 12
 - **Kosten**: 40 GM
-- **Gewicht**: 24.0 lbs.
+- **Gewicht**: 12,0 kg
 
 ### Gefütterter Rossharnisch
 
 - **Rüstungsklasse**: 11
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 20 GM
-- **Gewicht**: 16.0 lbs.
+- **Gewicht**: 8,0 kg
 
 ### Kettenhemd-Rossharnisch
 
 - **Rüstungsklasse**: 13
 - **Kosten**: 200 GM
-- **Gewicht**: 40.0 lbs.
+- **Gewicht**: 20,0 kg
 
 ### Kettenpanzer-Rossharnisch
 
@@ -88,27 +87,27 @@ Hierbei handelt es sich um eine Rüstung, die dafür entworfen wurde, Kopf, Nack
 - **Stärke**: Benötigt 13 STR.
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 300 GM
-- **Gewicht**: 110.0 lbs.
+- **Gewicht**: 55,0 kg
 
 ### Leder-Rossharnisch
 
 - **Rüstungsklasse**: 11
 - **Kosten**: 40 GM
-- **Gewicht**: 20.0 lbs.
+- **Gewicht**: 10,0 kg
 
 ### Plattenpanzer-Rossharnisch
 
 - **Rüstungsklasse**: 15
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 3.000 GM
-- **Gewicht**: 80.0 lbs.
+- **Gewicht**: 40,0 kg
 
 ### Ringpanzer-Rossharnisch
 
 - **Rüstungsklasse**: 14
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 120 GM
-- **Gewicht**: 80.0 lbs.
+- **Gewicht**: 40,0 kg
 
 ### Ritterrüstung-Rossharnisch
 
@@ -116,7 +115,7 @@ Hierbei handelt es sich um eine Rüstung, die dafür entworfen wurde, Kopf, Nack
 - **Stärke**: Benötigt 15 STR.
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 6.000 GM
-- **Gewicht**: 130.0 lbs.
+- **Gewicht**: 65,0 kg
 
 ### Schienenpanzer-Rossharnisch
 
@@ -124,20 +123,20 @@ Hierbei handelt es sich um eine Rüstung, die dafür entworfen wurde, Kopf, Nack
 - **Stärke**: Requires 15 STR.
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 800 GM
-- **Gewicht**: 120.0 lbs.
+- **Gewicht**: 60,0 kg
 
 ### Schuppenpanzet-Rossharnisch
 
 - **Rüstungsklasse**: 14
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 200 GM
-- **Gewicht**: 90.0 lbs.
+- **Gewicht**: 45,0 kg
 
 ### Stachel-Rossharnisch
 
 - **Rüstungsklasse**: 14
 - **Heimlichkeit**: Der Träger ist bei Würfen auf Geschicklichkeit (Heimlichkeit) im Nachteil.
 - **Kosten**: 300 GM
-- **Gewicht**: 90.0 lbs.
+- **Gewicht**: 45,0 kg
 
 *Quelle: Spielerhandbuch S. 157. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span> und dem Grundregelwerk (2014)*

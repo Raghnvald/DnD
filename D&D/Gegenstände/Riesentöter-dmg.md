@@ -32,8 +32,8 @@ aliases:
 status: WIP
 ---
 # Giant Slayer
-*Major, rare*  
-![](img/giant-slayer.webp#right)
+*Major, rare*
+<img src="giant-slayer.webp" align="right" width="250">
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

@@ -19,7 +19,6 @@ tags:
 aliases:
   - Langschwert
   - Longsword
-status: WIP
 ---
 # Langschwert
 *Nahkampf-Kriegswaffe*  

@@ -65,6 +65,10 @@ ZR: 17
 
 ---
 
+[[Schwebekugel-dmg|Schwebekugel]]
+
+---
+
 ## Einstimmungen
 
 [[Leitfaden_der_verstummten_Sprache-dmg|Leitfaden der verstummten Sprache]]

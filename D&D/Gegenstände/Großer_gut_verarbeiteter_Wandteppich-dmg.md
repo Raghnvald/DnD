@@ -1,5 +1,5 @@
 ---
-Bezeichnung: Large well-made tapestry
+Bezeichnung: Großer, gut verarbeiteter Wandteppich
 Original: Large well-made tapestry
 Kategorie: Kunstobjekt
 Seltenheit:
@@ -8,18 +8,18 @@ Eigenschaften:
   - n/v
 Kst.: 250 GM
 Gew.: n/v
-Status: WIP
-linter-yaml-title-alias: Large well-made tapestry
+Status: completed
+linter-yaml-title-alias: Großer, gut verarbeiteter Wandteppich
 tags:
   - Gegenstand/Ausrüstung/Schatz-Kunstobjekt
   - Gegenstand/Seltenheit/keine
   - Quelle/5e/dmg
 aliases:
-  - Large well-made tapestry
+  - Großer, gut verarbeiteter Wandteppich
 ---
-# Large well-made tapestry
-*Treasure (art object)*  
+# Großer, gut verarbeiteter Wandteppich
+*Schatz (Kunstgegenstand)*
 
-- **Cost**: 250 gp
+- **Kosten**: 250 GM
 
-*Source: Dungeon Master's Guide p. 135*
+*Quelle: Spielleiterhandbuch S. 134*

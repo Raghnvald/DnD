@@ -1,24 +1,22 @@
 ---
-Bezeichnung: Boots of Levitation
+Bezeichnung: Stiefel des Schwebens
 Original: Boots of Levitation
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - selten
 Status: WIP
-linter-yaml-title-alias: Boots of Levitation
+linter-yaml-title-alias: Stiefel des Schwebens
 tags:
   - Gegenstand/Einstimmung/erfordert
   - Gegenstand/Seltenheit/selten
   - Gegenstand/wundersam
   - Quelle/5e/dmg
 aliases:
-  - Boots of Levitation
+  - Stiefel des Schwebens
 ---
-# Boots of Levitation
-*Wondrous item, major, rare (requires attunement)*  
+# Stiefel des Schwebens
+*Wundersamer Gegenstand, selten (erfordert Einstimmung)*
 
-Wenn du diese Stiefel trägst, kannst du den Zauber [Schweben-old](Schweben-old.md) als Aktion beliebig oft auf dich selbst wirken.
+Während du diese Stiefel trägst, kannst du eine Aktion aufwenden, um den Zauber [[Schweben-phb|Schweben]] auf dich selbst zu wirken.
 
-While you wear these boots, you can use an action to cast the [levitate](/3-Mechanics/CLI/spells/levitate.md) spell on yourself at will.
-
-*Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Quelle: Spielleiterhandbuch S. 192. Verfügbar im <span title='Systems Reference Document (5.1)'>SRD</span>*

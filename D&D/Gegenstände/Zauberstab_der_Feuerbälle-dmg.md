@@ -13,6 +13,7 @@ tags:
   - Quelle/5e/dmg
 aliases:
   - Wand of Fireballs
+Quelle: DMG
 ---
 # Wand of Fireballs
 *Wand, major, rare (requires attunement by a spellcaster)*  

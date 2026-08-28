@@ -1,10 +1,11 @@
 ---
-Bezeichnung: Stone of Golorr
+Bezeichnung: Stein von Golorr
 Original: Stone of Golorr
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: WDH
 linter-yaml-title-alias: Stone of Golorr
 tags:
   - Gegenstand/Einstimmung/erfordert

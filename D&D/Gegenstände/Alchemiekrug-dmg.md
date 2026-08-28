@@ -16,6 +16,7 @@ tags:
 aliases:
   - Alchemiekrug
   - Alchemy Jug
+Quelle: DMG
 ---
 # Alchemiekrug
 *Wundersamer Gegenstand, ungewöhnlich*

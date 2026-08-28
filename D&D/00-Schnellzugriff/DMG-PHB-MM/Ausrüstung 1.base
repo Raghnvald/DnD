@@ -33,6 +33,48 @@ views:
     nestedProperties: false
     imageFit: contain
   - type: table
+    name: Ausrüstung 2
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit")
+    order:
+      - formula.Untitled
+      - Status
+    sort:
+      - property: Seltenheit
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: formula.Untitled
+        direction: ASC
+      - property: Bezeichnung
+        direction: ASC
+    columnSize:
+      formula.Untitled: 300
+      note.tags: 1330
+    markers: bullet
+    nestedProperties: false
+    imageFit: contain
+  - type: table
+    name: Ausrüstung 2 2
+    filters:
+      and:
+        - file.tags.contains("Gegenstand/Seltenheit")
+        - file.tags.contains("Quelle/5e/dmg")
+    order:
+      - formula.Untitled
+      - Quelle
+      - Status
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+    columnSize:
+      formula.Untitled: 300
+      note.tags: 1330
+    markers: bullet
+    nestedProperties: false
+    imageFit: contain
+  - type: table
     name: Gifte
     filters:
       and:

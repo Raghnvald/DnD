@@ -4,7 +4,7 @@ statblock-link: "#^statblock"
 Bezeichnung: Assassine
 Kategorie: Humanoid
 Größe: Mittelgroß
-Status: WIP
+Status: completed
 linter-yaml-title-alias: Assassine
 tags:
   - Monster/Größe/Mittelgroß
@@ -14,7 +14,6 @@ tags:
   - Quelle/5e/mm
 aliases:
   - Assassine
-status: WIP
 ---
 # Assassine
 *Quelle: Monsterhandbuch S. 343. Verfügbar im<span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -37,7 +36,7 @@ Assassinen sind im Umgang mit Giften geschult. Sie sind unbarmherzige Mörder, d
 > - **Fertigkeiten** Akrobatik +6, Heimlichkeit +9, Täuschung +3
 > - **Schadensresistenzen** Gift
 > - **Schadensimmunitäten** -
-> - **Zustandsimmunitäten** - <br><br>
+> - **Zustandsimmunitäten** - 
 > - **Sinne** passive Wahrnehmung 13
 > - **Sprachen** Diebessprache plus zwei weitere Sprachen nach Wahl
 > - **Herausforderungsgrad** 8 (3.900 EP)

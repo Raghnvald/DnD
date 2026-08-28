@@ -17,8 +17,8 @@ aliases:
   - Ring der Wärme
 ---
 # Ring der Wärme
-*Ring, ungewöhnlich (benötigt Einstimmung)*  
-![](img/ring-of-warmth.webp#right)
+*Ring, ungewöhnlich (erfordert Einstimmung)*
+<img src="ring-of-warmth.webp" align="right" width="150">
 
 Während du diesen Ring trägst, hast du Resistenz gegen Kälteschaden. Zusätzlich nimmst du und alles, was du bei dir und am Körper trägst, keinen Schaden bei Temperaturen von bis zu -45 Grad Celsius.
 

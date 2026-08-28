@@ -1,10 +1,11 @@
 ---
-Bezeichnung: "Luba's Tarokka of Souls"
+Bezeichnung: Lubas Tarokka der Seelen
 Original: "Luba's Tarokka of Souls"
 Kategorie: Wundersamer Gegenstand
 Seltenheit:
   - Artefakt
 Status: WIP
+Quelle: TCE
 linter-yaml-title-alias: "Luba's Tarokka of Souls"
 tags:
   - Gegenstand/Einstimmung/erfordert
